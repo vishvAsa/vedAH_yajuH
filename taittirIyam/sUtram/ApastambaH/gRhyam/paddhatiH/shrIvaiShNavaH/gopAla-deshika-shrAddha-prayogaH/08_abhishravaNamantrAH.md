@@ -104,18 +104,80 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-The spotted bull hath come  
-And reached again the mother
-  
-And the father, faring to the heaven.
+- देवता - सार्पराज्ञी सूर्यो वा
+- ऋषिः - सार्पराज्ञी
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓यं᳓ गउः᳓ पृ᳓श्निर् अक्रमीद्  
+अ᳓सदन् मात᳓रम् पुरः᳓  
+पित᳓रं च प्रय᳓न् सु᳓वः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आऽयङ्गौᳶ पृश्ञि॑रक्रमी॒दस॑नन्मा॒तर॒म्पुनः॑ ।  
 पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
@@ -123,7 +185,189 @@ And the father, faring to the heaven.
 
 <details><summary>पद-पाठः</summary>
 
+आ । अ॒यम् । गौः । पृश्निः॑ । अ॒क्र॒मी॒त् । अस॑दत् । मा॒तर॑म् । पु॒रः ।  
+पि॒तर॑म् । च॒ । प्र॒ऽयन् । स्व१॒॑रिति॑ स्वः॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒यन्निति॑ प्र॒ऽयन्। स्व॒रिति॒ स्वः᳙। ६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒यन्निति॑ प्र॒ऽयन्। स्व॒रिति॒ स्वः᳙। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 अ॒यम् । गौः । पृश्ञिः॑ । अ॒क्र॒मी॒त् । अस॑नत् । मा॒तर॑म् । पुनः॑ ॥ पि॒तर॑म् । च॒ । प्र॒यन्निति॑ प्र-यन् । सुवः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *āyaṃ* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *āyaṃ* ← *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *gauḥ* ← *go*
+- \[noun\], nominative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
+- \[noun\], nominative, singular, masculine
+- “varicolored; dappled.”
+
+_________
+
+- *akramīd* ← *akramīt* ← *kram*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+
+_________
+
+- *asadan* ← *asadat* ← *sad*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+
+_________
+
+- *mātaram* ← *mātṛ*
+- \[noun\], accusative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+
+_________
+
+- *puraḥ* ← *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+
+_________
+
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
+- \[noun\], accusative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *prayan* ← *pre* ← *√i*
+- \[verb noun\], nominative, singular
+- “die; proceed; advance; continue; begin; depart.”
+
+_________
+
+- *svaḥ* ← *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+इयम्- एषा। पृश्निः गौः- पृथिवी। पुरः- पुरस्तात्। मातरम्- स्वजननीभूतामुदकदेवताम्।  असदन्- आश्रित्य। पितरम्- स्वजनकम्। स्वः- सूर्यम्। च। प्रयन्- प्रगच्छन्ती। अक्रमीत्-  आक्रान्तवती॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**गौः** गमनशीलः **पृश्निः** प्राष्टवर्णः प्राप्ततेजाः **अयं** सूर्यः **आ** **अक्रमीत्** आक्रान्तवान् । उदयाचलं प्राप्तवानित्यर्थः । आक्रम्य च **पुरः** पुरस्तात् पूर्वस्यां दिशि **मातरं** सर्वस्य भूतजातस्य निर्मात्रीं पृथिवीम् **असदत्** आसीदति प्राप्नोति । सदेश्छन्दसो लुङ्। लुदित्त्वाच्च्रलेरङादेशः । ततः **पितरं** पालकं द्युलोकं चशब्दादन्तरिक्षं च प्रयन् प्रकर्षेण शीघ्रं गच्छन् **स्वः** स्वरणः शोभनगमनो भवति । यद्वा । पितरं स्वर्गलोकं प्रयन् वर्तते ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+आयं गौः पृश्निः।
+
+सार्पराज्ञ्य आर्षम्।
+
+अग्निः परापररूपेण स्तूयते।
+
+आयं गौः पृश्निरक्रमीत्।
+
+आक्रमीताक्रमते ऐश्वर्यरूपेणायमग्निः गौः गन्ता।
+
+सर्वासु तासु तासु क्रियासु पृश्निर्नानारूपः असदन्मातरं पुरः इमं लोकमग्निरूपेणानुगृह्य ततः प्रातरादित्यात्मना सीदति मातरं पृथिवीं पुरः पुरस्तात्प्राच्यां दिशि।
+
+किंच पितरं च प्रयन्त्स्वः पितरं द्युलोकं च प्रयन् गच्छन् सीदतीत्यनुवर्तते।
+
+स्वः स्वर्गे आदित्यः॥ ६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+आयं गौरित्यादीनां तिसृणामृचां सार्पराज्ञीति नामधेयम्।
+
+सर्पराज्ञी कद्रूः पृथिव्यभिमानिनी।
+
+ततो दक्षिणाग्निमादध्यादिति सूत्रार्थः।
+
+गायत्रस्तृचः।
+
+अग्निः परावररूपेण स्तूयते।
+
+अयं दृश्यमानोऽग्निः आ अक्रमीत् सर्वत आहवनीयगार्हपत्यदक्षिणाग्निस्थानेषु सर्वतः क्रमणं पादविक्षेपं कृतवान्।
+
+किंभूतोऽग्निः।
+
+गच्छतीति गौः यज्ञनिष्पत्तये तत्तद्यजमानगृहेषु गन्ता।
+
+‘गमेर्डोप्रत्ययः’ (उ० २। ६६)।
+
+तथा पृश्निः चित्रवर्णः।
+
+लोहितशुक्लादिबहुविधज्वालोपेतः।
+
+आक्रमणमेवाह।
+
+पुरः प्राच्यां दिशि मातरं पृथिवीमसदतासीदताहवनीयरूपेण प्राप्तवान्।
+
+तथा स्वः प्रयनादित्यरूपेण स्वर्गे संचरन् पितरं च द्युलोकमपि असदत्प्राप्तवान्।
+
+स्वःशब्देन सूर्यः (निघ० १। ४। १)।
+
+द्युलोकभूलोकयोर्मातापितृत्वमन्यत्रापि श्रूयते।
+
+‘द्यौः पिता पृथिवी माता’ इति॥ ६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+“ आऽयं गौर् इति चोपतिष्ठते सार्पराशीमिः दक्षिणाग्निम् आदधाति " (काश्रौ ४०९-१८-१९ ) इति । ' आयं गौ: ' इत्यादीनां तिसृणाम् ऋचां सर्पराज्ञीति नामधेयम् । “अथ सर्पराइया ऋग्भिरुपतिष्ठते " ( काशमा १.१.४.२६ ) इति कण्व-श्रुतेः, सर्पराज्ञा दृष्टत्वात् । ताभिर्ऋग्भिराहवनीयमुपतिष्ठते । दक्षिणाग्निम् अपि ताभिरेवादध्यात् । तत्र प्रथमाया ऋचः पाठस् तु - ' भाऽयं गौः पृश्निरक्रमी दसदन्मातरं पुरः । पितरं च प्रयन्त्स्यः' इति । गच्छतीति 'गौः । यज्ञ-निष्पत्तये तत् तद् यजमान-गृहेषु गन्ता 'पृश्निः चित्र-वर्णः कोहित शुक्ला दिबहु-विधज्वालैरुपेतः । तथाविधः 'अयं दृश्यमानो ऽग्निः 'अक्रमीत् सर्वत आहवनीयगाईपत्य-दक्षिणाग्नि-स्थानेषु क्रमणं पाद-प्रक्षेपं कृतवान् । यस्माद् एवं तस्मात् 'पुरः प्राच्यां दिशि 'मातरं पृथिवीम् असदत् मासीदत् आहवनीय-रूपेण प्राप्तवान् । तथा 'स्वः प्रयन् आदित्य-रूपेण स्वर्गे संचरन् 'पितरं "च द्यु-लोकम् अपि असदत् प्राप्तवान् । भूलोक-यु लोकयोर् मातापितृत्वमन्यत्रापि श्रूयते - " द्यौः पिता पृथिवी माता" ( द्र. ऋ १.८९.४ ) इति ॥६॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+परापर-रूपेण वाधिर् ( ? ) अग्निः स्तूयते ।
+
+' आऽयं गौः ' इति ।
+
+अयम् अग्निः 'गौः । गम्ल सृ'ऌ गतौ ।
+
+गच्छतीति गौः ।
+
+गन्ता ।
+
+पृश्निः नानारूपः अग्नि-रूपो वा "असदत् अभवत् । ततः पुरस्तात् प्राच्यां दिशि प्रातरादित्यात्मना मातरं पृथिवीम् अक्रमीत् ऐश्वर्य-रूपेण क्रमते । एत्रं पृथिवीम् अनुगृह्य प्रयन् प्रगच्छन् स्त्र: आदित्यः पितरं चु लोकं
+Vच अक्रमीत् ॥ ६ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -133,6 +377,136 @@ And the father, faring to the heaven.
 प्रकर्षेणाविच्छेदेन गच्छन् सुवः शोभना रतिः । छान्दसौ लुङ्लङौ । 
 
 आक्रम्य च मातरं भूमिम् **असनत्** भूमौ मातरि शान्तोभूत् । **पितरं** दिवं **प्रयन्** प्रकर्षेण गच्छन् सर्वतो ज्वलन् धूमज्वालाभ्यामभ्रं लिहन् **सुवः** पितृस्थानीये दिवि स्वरतिरभूत् ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब अग्नि के निमित्त से पृथिवी का भ्रमण होता है, इस विषय को अगले मन्त्र में प्रकाशित किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्) यह प्रत्यक्ष (गौः) गोलरूपी पृथिवी (पितरम्) पालने करनेवाले (स्वः) सूर्यलोक के (पुरः) आगे-आगे वा (मातरम्) अपनी योनिरूप जलों के साथ वर्त्तमान (प्रयन्) अच्छी प्रकार चलती हुई (पृश्निः) अन्तरिक्ष अर्थात् आकाश में (आक्रमीत्) चारों तरफ घूमती है ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को जानना चाहिये कि जिससे यह भूगोल पृथिवी जल और अग्नि के निमित्त से उत्पन्न हुई अन्तरिक्ष वा अपनी कक्षा अर्थात् योनिरूप जल के सहित आकर्षणरूपी गुणों से सब की रक्षा करनेवाले सूर्य के चारों तरफ क्षण-क्षण घूमती है, इसी से दिन रात्रि, शुक्ल वा कृष्ण पक्ष, ऋतु और अयन आदि काल-विभाग क्रम से सम्भव होते हैं ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथाग्निनिमित्तेन पृथिवीभ्रमणविषय उपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  अयं गौः पृथिवीगोलः स्वः पितरं पुरः प्रयन्मातरमपश्च प्रयन् पृश्निरन्तरिक्षे आक्रमीदाक्राम्यति समन्ताद् भ्रमति ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यस्माज्जलाग्निनिमित्तोत्पन्नोऽयं भूगोलोऽन्तरिक्षे स्वकक्ष्यायामाकर्षणेन रक्षकस्य सूर्यस्याभितः प्रतिक्षणं भ्रमति, तस्मादहोरात्रशुक्लकृष्णपक्षर्त्वयनादीनि कालविभागाः क्रमशः सम्भवन्तीति वेद्यम् ॥६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी हे जाणले पाहिजे की, जल व अग्नी यांनी निर्माण झालेली ही पृथ्वी जलासह अंतरिक्षामध्ये सूर्याभोवती आपल्या कक्षेत फिरत असते. त्यामुळेच क्रमाक्रमाने दिवस व रात्र शुक्ल किंवा कृष्णपक्ष, ऋतू व अयन इत्यादी काल विभाजन होत असते.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“This moving many-coloured (Sun) has arrived, he has sat down before his mother (earth) in the east,and advances to his father heaven.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Deity Sārparājñī: i.e., **Kadru**, the mother of the serpent race; Yajuṣ3.6-8;
+
+Gau = gamanaśīla, moving; the deity: first line, **Agni**; second line, **Sūrya** or Agni
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+This dappled cow has stridden here and sat in front of its mother  
+and its father, as it goes forth toward the sun.
+</details>
+
+<details><summary>Griffith</summary>
+
+THIS spotted Bull hath come, and sat before the Mother in the east,  
+     Advancing to his Father heaven.
+</details>
+
+<details><summary>Keith</summary>
+
+The spotted bull hath come  
+And reached again the mother
+  
+And the father, faring to the heaven.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+This spotted Bull hath come and sat before the Mother and before The Father, mounting up to heaven.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser bunte Stier ist hergeschritten und hat sich vor Mutter Erde und Vater Himmel gesetzt auf seinem Wege zur Sonne.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf unsre Streu.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Выступил этот пестрый бык,  
+Он уселся перед матерью  
+И отцом, отправляясь в путь как солнце.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सार्पराज्ञी सूर्यो वा
+- सार्पराज्ञी
+- निचृद्गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- सर्प्पराज्ञी कद्रूर्ऋषिः
+- निचृद् गायत्री
+- षड्जः
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+इस सूक्त में पृथिवी पूर्व दिशा में गति करती है, सूर्य की परिक्रमा भी करती है, सूर्य की ज्योति उदय से अस्तपर्यन्त द्युलोक पृथिवीलोक को तपाती है, इत्यादि विषय हैं।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (आअयम्) यह पृथिवीलोक (पुरः-अक्रमीत्) पूर्वदिशा में-पूर्व कीओर गतिकरताहै (च) और (पितरं स्वः) पितारूप सूर्य के (प्रयन्) सबओर गति करता हुआ (मातरं पृश्निम्) मातारूप अन्तरिक्ष को (असदत्) प्राप्त होता है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  पृथिवीपूर्व कीओरघूमती है और सूर्य के चारों ओर आकाश में गति करती है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+अत्र सूक्ते पृथिवी पूर्वस्यां दिशि गतिं करोति सूर्यस्य परितश्च भ्रमति, सूर्यस्य ज्योतिरुदयास्तयोर्मध्ये द्यावापृथिव्यौ तपति, इत्यादि विषया वर्ण्यन्ते।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयं गौः) एष पृथिवीलोकः “गौः-पृथिवीनाम” [निघ० १।१] (पुरः आक्रमीत्) पूर्वस्यां दिशि-पूर्वाभिमुखमाक्रामति (पितरं च स्वः प्रयन्) पितरंपितृवत्सूर्यम् “स्वः-आदित्यो भवति” [निरु० २।१४] परितो गच्छन् (मातरं पृश्निम्-असदत्) मातरमन्तरिक्षं “मातरि अन्तरिक्षे” [निरु० ७।२७] “पृश्निः-अन्तरिक्षम्’ [ऋ० ४।३।२० दयानन्दः] सीदति ॥१॥
 </details>
 </details>
 
@@ -390,10 +764,10 @@ And the Vasus gathered together.
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
 <details open><summary><h2>13 शृण्वन्ति श्रोणाममृतस्य ...{Loading}...</h2></summary>
 
-**शृ॒ण्वन्ति॑** श्रो॒णाम् अ॒मृत॑स्य गो॒पाम्।  
-पुण्या॑म् अस्या॒ **उप॑शृणोमि॒** वाच॑म्।  
-म॒हीन् दे॒वीव्ँ विष्णु॑-पत्नीम् अजू॒र्याम्+++(=अज्वराम्)+++।  
-प्र॒तीची॑म् एनाँ ह॒विषा॑ **यजामः**।  
+**शृण्व᳓न्ति** श्रोणा᳓म् अमृ᳓तस्य गोपा᳓म्।  
+पु᳓ण्याम् अस्या **उ᳓पशृणोमि** वा᳓चम्।  
+मही᳓न् देवीव्ँ᳓ वि᳓ष्णु-पत्नीम् अजूर्या᳓म्+++(=अज्वराम्)+++।  
+प्रती᳓चीम् एनाँ हवि᳓षा **यजामः**।  
 
 </details>
 </div>
@@ -403,10 +777,10 @@ And the Vasus gathered together.
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
 <details open><summary><h2>14 त्रेधा विष्णुरुरुगायो ...{Loading}...</h2></summary>
 
-त्रे॒धा विष्णु॑र् उरु-गा॒यो+++(गेयो)+++ **विच॑क्रमे**।  
-म॒हीन् दिव॑म् पृथि॒वीम् अ॒न्तरि॑क्षम्।  
-तच् **छ्रो॒णैति॒** +++(अत्र)+++ श्रव॑+++(=कीर्तिम्)+++ **इ॒च्छमा॑ना**।  
-पुण्यँ॒ श्लोकय्ँ॒ यज॑मानाय **कृण्व॒ती**॥  
+त्रेधा᳓ वि᳓ष्णुर् उरु-गायो᳓+++(गेयो)+++ **वि᳓चक्रमे**।  
+मही᳓न् दि᳓वम् पृथिवी᳓म् अन्त᳓रिक्षम्।  
+त᳓च् **छ्रोणै᳓ति** +++(अत्र)+++ श्र᳓व+++(=कीर्तिम्)+++ **इच्छ᳓माना**।  
+पु᳓ण्यँ श्लो᳓कय्ँ य᳓जमानाय **कृण्वती᳓**॥  
 
 </details>
 </div>
@@ -7467,6 +7841,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 अन्यत्रेक्षताम् - [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/pramANAni/nArAyaNaH)।
 </details>
 
+
 देवं देवनशीलं द्योतमानं, सदा अक्षरं परमं परमव्यापकम् । अशेस्सरन्प्रत्यये अक्षरम् । प्रभुं प्रथमतस्सम्भूतं सर्वप्रपञ्चभरणक्षमं वा ॥
 </details>
 
@@ -7895,6 +8270,7 @@ _____________________________________________________
 
 [[730]]
 
+
 **निष्टिर्** ग्रीवाबन्धः, तस्या अधस्ताद्वर्तते।  
 तत्रापि **नाभ्याम्** उपरि नाभिदेशस्योर्ध्वभागे  
 **वितस्त्यान्ते** द्वादशाङ्गुल-परिमिता वितस्तिस्तस्यामतीतायामुपरि तिष्ठति।  
@@ -8027,9 +8403,11 @@ In the middle of that is that great fire, having all rays, all round mouth, the 
 
 \* एतदग्रे ग. पुस्तके मूले "तिर्यगूर्ध्वमधःशायी रश्मयस्तस्य संतताः " इत्य् अधिकम्।
 
+
 तस्य सुषुम्नालस्य मध्ये महान्प्रौढोऽग्निर्वर्तते। स च विश्वार्चिर्बहुज्वालोपेतः। अत एव ज्वालाविशेषैः परितोऽवस्थितासु सर्वासु माडीषु संसारणाद्विश्वतोमुखो बहुविधेश्वररूपः। सोऽग्निग्रभुक्, स्वस्य पुरतः प्राप्तमन्नं भुङ्क्त इत्यग्रभुक्।  
 स च भुक्तमाहारं शरीरे सर्वावयवेषु विभजन् प्रसारयंस्तिष्ठन्, अवस्थित इत्यर्थः।
 तथा च भगवतोक्तम्
+
 
 > "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।
 प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् " 
@@ -8234,6 +8612,7 @@ In the middle of that flame the God resides; He is Brahma, He is Siva, He is Ind
 प्रसिद्ध-नारायणार्थे हरि-शब्द आरण्यक-सम-कालीनेषु ग्रन्थेषु च न दृश्यते। 
 </details>
 
+
 <details><summary>सायण-टीका</summary>
 
 द्वादशीमृचमाह---
@@ -8386,10 +8765,9 @@ ________________________
 ॥ ६. विष्णुगायत्री ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/03_nArAyaNAya_vidmahe.md">
-नारायणा᳓य **[[विद्म᳓हे|विद्महे]]**  
+नारायणा᳓य **विद्महे**  
 वासुदेवा᳓य **धीमहि** ।  
-त᳓न्नो [[विष्णुः|वि᳓ष्णुः]] **[[प्रचोद᳓यात्|प्र᳓चोदयात्]]** ॥  
-+++(लक्षणापेता आरण्यकस्वराः।)+++
+त᳓न्नो वि᳓ष्णुः **प्र᳓चोदयात्** ॥
 </div>  
 
 ## विष्णु-सूक्तम्
@@ -10459,10 +10837,23 @@ urukṣitím ← urukṣití- (nominal stem)
 ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकार ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+विच॑क्रमे पृथि॒वीमे॒ष ए॒ताम् ।  
+क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे दश॒स्यन् ।  
+ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑सः ।  
+उ॒रु॒क्षि॒तिँ सु॒जनि॑मा चकार ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि । च॒क्र॒मे॒ । पृ॒थि॒वीम् । ए॒षः । ए॒ताम् । क्षेत्रा॑य । विष्णुः॑ । मनु॑षे । द॒श॒स्यन् ।  
 ध्रु॒वासः॑ । अ॒स्य॒ । की॒रयः॑ । जना॑सः । उ॒रु॒ऽक्षि॒तिम् । सु॒ऽजनि॑मा । च॒का॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+वि᳓ । चक्रमे । पृथिवी᳓म् । एषः᳓ । एता᳓म् । क्षे᳓त्राय । वि᳓ष्णुः । म᳓नुषे । दशस्य᳓न् । ध्रुवा᳓सः । अस्य । कीर᳓यः । ज᳓नासः । उरु-क्षिति᳓म् । सु-ज᳓निमा । चकार ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -10596,6 +10987,11 @@ _________
 **एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रील्ँलोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एष विष्णुः पृथिवीमेतां पृथिव्युपलक्षितमिदं लोकत्रयं विचक्रमे विशेषेण पादैराक्रान्तवान् । किं कुर्वन्, मनुषे मनुष्याणां क्षेत्राय निवासार्थं दशस्यन् प्रदातुमिच्छन् । अस्य विष्णोः कीरयो जनासः कीर्तिपरा जनाः ध्रुवासः स्थिरा भवन्ति । स विष्णुः पुनः सुजनिमा शोभनेन वामनरूपेण जन्मना युक्त उरुक्षितिं प्राणिनां निवासाय विस्तीर्णं स्थानं चकार ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -10618,7 +11014,10 @@ Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has ma
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+</details>
 
 </details>
 </div>
@@ -10787,10 +11186,23 @@ tveṣám ← tveṣá- (nominal stem)
 प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान्त्वे॒षं ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+त्रिर्दे॒वᳶ पृ॑थि॒वीमे॒ष ए॒ताम् ।  
+विच॑क्रमे श॒तर्च॑सम्महि॒त्वा ।  
+प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान् ।  
+त्वे॒षँ ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥25॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रिः । दे॒वः । पृ॒थि॒वीम् । ए॒षः । ए॒ताम् । वि । च॒क्र॒मे॒ । श॒तऽअ॑र्चसम् । म॒हि॒ऽत्वा ।  
 प्र । विष्णुः॑ । अ॒स्तु॒ । त॒वसः॑ । तवी॑यान् । त्वे॒षम् । हि । अ॒स्य॒ । स्थवि॑रस्य । नाम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+त्रिः᳓ । देवः᳓ । पृथिवी᳓म् । एषः᳓ । एता᳓म् । वि᳓ । चक्रमे । शत᳓-र्चसम् । महि-त्वा᳓ । प्र᳓ । वि᳓ष्णुः । अस्तु । तव᳓सः । त᳓वीयान् । त्वेष᳓म् । हि । अस्य । स्थ᳓विरस्य । ना᳓म ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -10922,6 +11334,11 @@ _________
 **एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रील्ँलोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एष विष्णुर्देवः शतर्चसं शतविधगतियुक्तामेतां पृथिवीं पृथिव्युपलक्षितलोकत्रयं महित्वा स्वमहिम्ना त्रिविचक्रमे त्रिवारं पादेनाक्रान्तवान् । तवसस्तवीयान् महतो महीयान् विष्णुः प्रास्तु प्रकृष्टो भवतु । स्थविरस्यात्यन्तं प्रवृद्धस्यास्य विष्णोर्नाम त्रिविक्रमादिरूपं त्वेषं हि प्रदीप्तं प्रसिद्धमित्यर्थः । उक्तानां मन्त्राणां 'वैष्णवं वामनमालभेत' इत्येतस्य पशोः सूक्ते प्रतीकान्याम्नातानि, 'प्र तद्विष्णुः, विचक्रमे त्रिर्देवः' इति । 'नु मर्तः' इति मन्त्रस्तु 'प्र तद्विष्णुः' इत्यनेन सह विकल्प्यते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -10945,7 +11362,10 @@ name of this stalwart one.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+</details>
 
 </details>
 </div>
@@ -12174,17 +12594,6 @@ call forth to Indra with a great voice.
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Eagerly we hail thee,  
-Eagerly would we kindle thee;  
-Eager bring the eager,  
-The fathers, to eat the offering.
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/016/12_ushantastvA_ni.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -12405,6 +12814,14 @@ Right gladly would we set thee down, right gladly make thee burn and glow.
      Gladly bring yearning Fathers nigh to cat the food of sacrifice.
 </details>
 
+<details><summary>Keith</summary>
+
+Eagerly we hail thee,  
+Eagerly would we kindle thee;  
+Eager bring the eager,  
+The fathers, to eat the offering.
+</details>
+
 <details><summary>Geldner</summary>
 
 Willig wollen wir dich einsetzen, willig dich anzünden. Willig fahre die willigen Väter hierher, um die Opferspende zu essen!
@@ -12458,17 +12875,6 @@ Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zu
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Soma, art pre-eminent in wisdom;  
-Thou movest along the straightest path;  
-Through thy guidance, O drop, our fathers wisely divided  
-The treasure among the gods.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/01_tvaM_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -12915,6 +13321,14 @@ Thou, Soma, art preeminent for wisdom; along the straightest path thou art our l
      Our wise forefathers by thy guidance, Indu, dealt out among the Gods their share of treasure.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, art pre-eminent in wisdom;  
+Thou movest along the straightest path;  
+Through thy guidance, O drop, our fathers wisely divided  
+The treasure among the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Soma, offenbare dich durch dichterische Gedanken, führe du uns den richtigsten Weg! Unter deiner Führung, du Saft, empfingen unsere weisen Väter von den Göttern das Kleinod.
@@ -13003,17 +13417,6 @@ Du ragst, o Soma, hoch hervor an Weisheit, du führst, o Indu, auf dem gradsten 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-By thee, O Soma Pavamana, our ancient fathers  
-Wisely ordained the offerings;  
-Conquering, untroubled, do thou open the barriers;  
-Be generous to us in heroes and horses [1].
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/11_tvayA_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -13495,6 +13898,14 @@ For our sage fathers, Soma Pavamana, of old performed, by thee, their sacred dut
      Fighting unvanquished, open the enclosures: enrich us with large gifts of steeds and heroes.
 </details>
 
+<details><summary>Keith</summary>
+
+By thee, O Soma Pavamana, our ancient fathers  
+Wisely ordained the offerings;  
+Conquering, untroubled, do thou open the barriers;  
+Be generous to us in heroes and horses [1].
+</details>
+
 <details><summary>Geldner</summary>
 
 Denn mit dir, o Soma, haben unsere weisen Väter vormals ihre Taten getan, o Pavamana. Ein unüberwundener Überwinder öffne du die Schranken; sei gegen uns freigebig mit Söhnen und Rossen!
@@ -13553,17 +13964,6 @@ Denn unsre alten weisen Väter thaten durch dich, o heller Soma, ihre Werke, Die
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Soma, in accord with the fathers,  
-Hast stretched over sky and earth;  
-To thee, O drop, let us make sacrifice with offering;  
-Let us be lords of wealth.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/048/13_tvaM_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -13933,6 +14333,14 @@ Associate with the Fathers thou, O Soma, hast spread thyself abroad through eart
      So with oblation let us serve thee, Indu, and so let us become the lords of riches,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, in accord with the fathers,  
+Hast stretched over sky and earth;  
+To thee, O drop, let us make sacrifice with offering;  
+Let us be lords of wealth.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Uniting with the Fathers thou, O Soma, Hast over Heaven and Earth thyself extended. So, Indu, we would serve thee with oblation: Thus we would be the lords of ample riches.
@@ -14004,17 +14412,6 @@ O Soma, du vereinigt mit den Vätern, hast dich verbreitet über Erd' und Himmel
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O fathers, made ready by Agni, come hither;  
-With good leadership sit ye on each seat;  
-Eat ye the offerings set out on the strew;  
-And give us wealth with many heroes.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/11_agniShvAttAH_pitara.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -14410,6 +14807,14 @@ Fathers whom Agni's flames have tasted, come ye nigh: ye kindly leaders, take ye
      Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers, made ready by Agni, come hither;  
+With good leadership sit ye on each seat;  
+Eat ye the offerings set out on the strew;  
+And give us wealth with many heroes.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr vom Feuer schmackhaft befundenen Väter, kommet hierher, setzet euch jeder an seinen Platz, ihr guten Führer! Esset die auf dem Barhis dargereichten Opferspenden und verleihet dann einen Schatz von lauter Söhnen!
@@ -14468,17 +14873,6 @@ Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O fathers that sit on the sacrificial strew, come hither with your aid;  
-We have made these offerings for you; accept them,  
-And then come to us with your most healing aid,  
-Give us [2] health, wealth, and safety!
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/04_barhiShadaH_pitara.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -14778,6 +15172,14 @@ Fathers who sit on sacred grass, come, help us: these offerings have we made for
      So come to us with most auspicious favour, and give us health and strength without a trouble.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers that sit on the sacrificial strew, come hither with your aid;  
+We have made these offerings for you; accept them,  
+And then come to us with your most healing aid,  
+Give us [2] health, wealth, and safety!
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr Väter, die ihr auf dem Barhis sitzet, kommt mit eurer Gunst näher! Diese Spenden haben wir für euch bereitet, genießet! Kommet her mit heilvoller Gnade und schaffet uns Heil und Wohlsein ohne Gebreste!
@@ -14839,17 +15241,6 @@ O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-I have found the kindly fathers,  
-The scion and the step of Visnu;  
-They that sit on the sacrificial strew and enjoy the drink  
-That is pressed for them with the Svadha call are most eager to come hither.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/03_AhaM_pitRRntsuvidatrA_N.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -15128,6 +15519,14 @@ Those who, sitting on the ritual grass, share in the pressed soma and the  food 
      They who enjoy pressed juices with oblation seated on sacred grass, come oftenest hither.
 </details>
 
+<details><summary>Keith</summary>
+
+I have found the kindly fathers,  
+The scion and the step of Visnu;  
+They that sit on the sacrificial strew and enjoy the drink  
+That is pressed for them with the Svadha call are most eager to come hither.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich habe die leicht aufzufindenden Väter aufgefunden, den Enkel und den Schritt des Vishnu. Die Manen, die auf dem Barhis sitzend nach Herzenslust vom ausgepreßten Trank genießen, die kommen am liebsten hierher!
@@ -15181,17 +15580,6 @@ Ich hab' entdeckt die gabenreichen Väter, die Kinder und den höchsten Schritt 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Invoked are the fathers who love the Soma  
-To their dear homes on the sacrificial strew;  
-May they come hither; may they hear us here;  
-May they speak for us; and may they aid us.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/05_upahUtAH_pitaraH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -15453,6 +15841,14 @@ May they, the Fathers, worthy of the Soma, invited to their favourite oblations.
      Laid on the sacred grass, come nigh and listen: may they be gracious unto us and bless us.
 </details>
 
+<details><summary>Keith</summary>
+
+Invoked are the fathers who love the Soma  
+To their dear homes on the sacrificial strew;  
+May they come hither; may they hear us here;  
+May they speak for us; and may they aid us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Die somawürdigen Väter sind jetzt geladen zu den beliebten, auf das Barhis gesetzten Auftischungen. Die sollen herkommen, die sollen hier zuhören, die sollen uns Fürsprecher und gewogen sein!
@@ -15506,17 +15902,6 @@ Geladen sind die Soma-frohen Väter zu lieben Speisen, welche auf der Streu steh
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Let them arise, the lower and the higher  
-And the middle fathers who love the Soma;  
-They who lived their lives [3] in goodness and without sin;  
-May these fathers help us when we call.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/01_udIratAmavara_utparAsa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -15803,6 +16188,14 @@ MAY they ascend, the lowest, highest, midmost, the Fathers who deserve a share o
      May they who have attained the life of spirits, gentle and righteous, aid us when we call them.
 </details>
 
+<details><summary>Keith</summary>
+
+Let them arise, the lower and the higher  
+And the middle fathers who love the Soma;  
+They who lived their lives [3] in goodness and without sin;  
+May these fathers help us when we call.
+</details>
+
 <details><summary>Geldner</summary>
 
 Es sollen sich die näheren, die ferneren und die mittleren somawürdigen Väter aufmachen, die ungefährdet zum Leben eingegangen sind, des Rechten kundig. Diese Väter sollen uns bei den Anrufungen gewogen sein.
@@ -15861,17 +16254,6 @@ Erheben mögen sich die ersten Väter, die letzten und die mittelsten, die fromm
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Be this homage to-day to the fathers,  
-Who went before and who went after;  
-Who are seated in the earthly region  
-Or who are now in abodes with fair dwellings.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/02_idaM_pitRbhyo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -16157,6 +16539,14 @@ Now let us pay this homage to the Fathers, to those who passed of old and those 
      Those who have rested in the earthly region, and those who dwell among the Mighty Races.
 </details>
 
+<details><summary>Keith</summary>
+
+Be this homage to-day to the fathers,  
+Who went before and who went after;  
+Who are seated in the earthly region  
+Or who are now in abodes with fair dwellings.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese Verbeugung soll heute den Vätern gelten, die früher und die später gegangen sind, die sich in der irdischen Welt niedergesetzt haben, oder die jetzt bei verbündeten Clanen sind.
@@ -16210,17 +16600,6 @@ Dies Andachtswerk sei heut geweiht den Vätern, die früher und die später heim
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-As our fathers before,  
-Of old, O Agni, furthering right,  
-Sought the pure, the devotion, singing hymns,  
-Cleaving the earth they disclosed the red ones.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/002/16_adhA_yathA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -16770,6 +17149,14 @@ As in the days of old our ancient Fathers, speeding the work of holy worship, Ag
      Sought pure light and devotion, singing praises; they cleft the ground and made red Dawns apparent.
 </details>
 
+<details><summary>Keith</summary>
+
+As our fathers before,  
+Of old, O Agni, furthering right,  
+Sought the pure, the devotion, singing hymns,  
+Cleaving the earth they disclosed the red ones.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 And as our first, ancient fathers, O Agni, were aspiring after Rita 1—they attained to pure devotion 2, chanting their litanies. Cleaving the earth they disclosed the red (cows).
@@ -16897,17 +17284,6 @@ To the gods and to the fathers.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Agni, praised, all-knower,  
-Didst carry the offerings making them fragrant;  
-Thou didst give them to the fathers who ate them at the Svadha call;  
-Eat thou, O god, the offerings set before thee.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/12_tvamagna_ILito.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -17182,6 +17558,14 @@ Thou, Agni Jatavedas, when entreated, didst bear the offerings which thou madest
      And give them to the Fathers who did cat them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, praised, all-knower,  
+Didst carry the offerings making them fragrant;  
+Thou didst give them to the fathers who ate them at the Svadha call;  
+Eat thou, O god, the offerings set before thee.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Agni Jatavedas, hast dazu berufen die Opferspende duftig gemacht und sie befördert. Du hast sie den Vätern übergeben, die haben sie nach eigenem Ermessen gegessen; iß auch du, Gott, die dargereichten Spenden!
@@ -17243,17 +17627,6 @@ Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schm
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Matali with the Kavyas, Yama with the Angirases,  
-Brhaspati rejoicing with the Rkvans,  
-Those whom the gods magnified and those who magnified the gods;  
-Some in the Svaha call, some in the Svadha rejoice [5].
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/03_mAtalI_kavyairyamo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -17526,6 +17899,14 @@ Mitali prospers there with Kavyas, Yama with Angiras' sons, Brhaspati with Rkvan
      Exalters of the Gods, by Gods exalted, some joy in praise and some in our oblation.
 </details>
 
+<details><summary>Keith</summary>
+
+Matali with the Kavyas, Yama with the Angirases,  
+Brhaspati rejoicing with the Rkvans,  
+Those whom the gods magnified and those who magnified the gods;  
+Some in the Svaha call, some in the Svadha rejoice [5].
+</details>
+
 <details><summary>Geldner</summary>
 
 Matali mit den Kavya´s, Yama mit den Angiras, Brihaspati von den Sängern erhöht, welchen die Götter zur Erhöhung verholfen haben und welche den Göttern: die einen ergötzen sich unter Svaharuf, die anderen an der Götterspeise.
@@ -17579,17 +17960,6 @@ Dort freut sich Matali mit Kavja's, Jama mit Angiras, Brihaspati mit Rikvan's, G
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Sit on this strew, O Yama,  
-In accordance with the Angirases, the fathers;  
-Let the verses made by the poets bring thee hither;  
-Rejoice, O king, in this offering.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/04_imaM_yama.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -17863,6 +18233,14 @@ Come, seat thee on this bed of grass, O Yama, in company with Angirases and Fath
      Let texts recited by the sages bring thee O King, let this oblation make thee joyful.
 </details>
 
+<details><summary>Keith</summary>
+
+Sit on this strew, O Yama,  
+In accordance with the Angirases, the fathers;  
+Let the verses made by the poets bring thee hither;  
+Rejoice, O king, in this offering.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Upon this sacred grass sit down, O Yama, Uniting with the Aṅgiras, our fathers. Let spells recited by the sages bring thee; Do thou, O king, rejoice in this oblation.
@@ -17921,17 +18299,6 @@ So setz dich, Jama, hin auf diesen Grassitz, vereint den Angiras und unsern Vät
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Come with the Angirases who deserve the sacrifice,  
-Yama, rejoice here with the Vairupas;  
-I summon Vivasvant who is thy father,  
-Sitting down on the strew at this sacrifice.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/05_angirobhirA_gahi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -18182,6 +18549,14 @@ Come, Yama, with the Angirases the Holy, rejoice thee here with children of Viru
      To sit on sacred grass at this our worship, I call Vivasvan, too, thy Father hither.
 </details>
 
+<details><summary>Keith</summary>
+
+Come with the Angirases who deserve the sacrifice,  
+Yama, rejoice here with the Vairupas;  
+I summon Vivasvant who is thy father,  
+Sitting down on the strew at this sacrifice.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Come hither with the Aṅgiras, the holy: Here with Virūpa's sons, O Yama revel, Vivasvant I invoke, who is thy father, When at this rite upon the straw he's seated.
@@ -18248,17 +18623,6 @@ Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhne
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-The Angirases, our fathers, the Navagvas,  
-Atharvans, Bhrgus, who love the Soma;  
-May we be in the favour of those ones worthy of sacrifice;  
-May we have their kindly good will.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -18496,6 +18860,14 @@ Our Fathers are Angirases, Navagvas, Atharvans, Bhrgus who deserve the Soma.
      May these, the Holy, look on us with favour, may we enjoy their gracious loving-kindness.
 </details>
 
+<details><summary>Keith</summary>
+
+The Angirases, our fathers, the Navagvas,  
+Atharvans, Bhrgus, who love the Soma;  
+May we be in the favour of those ones worthy of sacrifice;  
+May we have their kindly good will.
+</details>
+
 <details><summary>Macdonell</summary>
 
 The Aṅgiras, our fathers, the Navagvas, The Bhṛgus and Atharvans, Soma-loving: May we abide for ever in the favour And the good graces of those holy sages.
@@ -18560,7 +18932,7 @@ Die Angiras, die Neuner, und die Väter, die Feuerpriester und die frommen Bhrig
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
+एत᳓त् ते तत ये᳓ च त्वा᳓म् अ᳓नु।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -18589,8 +18961,8 @@ This for thee, O father, and for thy line;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
+[एत᳓त् ते] पितामह [ये᳓ च त्वा᳓म् अ᳓नु]।  
+[एत᳓त् ते] प्रपितामह [ये᳓ च त्वा᳓म् अ᳓नु]।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -24029,10 +24401,21 @@ sómaḥ ← sóma- (nominal stem)
 श्ये॒नो गृध्रा॑णां॒ स्वधि॑ति॒र्वना॑नां॒ सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ब्र॒ह्मा दे॒वाना॑म्पद॒वीᳵ क॑वी॒नामृषि॒र्विप्रा॑णाम्महि॒षो मृ॒गाणा॑म् ।   
+श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒ऽवीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ।  
 श्ये॒नः । गृध्रा॑णाम् । स्वऽधि॑तिः । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒वीरिति॑ पद-वीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ॥ श्ये॒नः । गृध्रा॑णाम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अतीति॑ । ए॒ति॒ । रेभ॑न्न् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -24165,6 +24548,11 @@ _________
 ब्रह्मा देवानामिति ॥ व्याख्याता 'त्वमग्ने बृहद्वययः' इत्यत्र । अयमेव तद्रूपेण वर्तत इति योज्यम् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+देवानां मध्ये ब्रह्मा सोमः ब्रह्मात्मना वर्तते । यद्वा - देवानां यथा ब्रह्मा श्रेष्ठो भवति, एवं सोमः पवित्राणां श्रेष्ठ इति । पदवीः पदव्यः यज्ञाः अभेदेन तद्विद उच्यन्ते । कवीनां क्रान्तदर्शनानां मध्ये यज्ञविदः श्रेष्ठाः । व्यत्ययेन वा बहुवचनम् । हल्ञ्यादिलोपाभावो वा । यज्ञश्रेष्ठ इति । यद्वा - वेतेर्गतिकर्मणो बुद्ध्यर्थात्क्विप् । पदानां पद्यमानानां यज्ञानामेव वेदितोच्यते, अनवधारणादनवग्रहः । ऋषिः द्रष्टा विप्राणां श्रेष्ठः, महाबलत्वात् । श्येनः शंसनीयो गच्छतीति गृध्राणां श्रेष्ठः । स्वधितिः अग्निः विनाशनसामर्थ्यात्ताच्छब्द्यम् । आत्मनि धीयते इति । वनानां वननीयानां अग्निः श्रेष्ठः । महावृक्षः कश्चिदित्येके । एवं सोमः पवित्राणां मध्ये पवित्रमत्येति ब्रह्मादिकम् । यद्वा - यन्नाम किंचित् पवित्रं तत् सर्वमत्येति रेभन् स्तूयमानः । रेभृ शब्दे, व्यत्ययेन कर्तृप्रत्ययः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -24194,6 +24582,13 @@ Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a
 
 Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
      Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
+</details>
+
+<details><summary>Keith</summary>
+
+Brahman of the gods, leader of poets,  
+Sage of seers, bull of wild beasts,
+Soma [1] goeth over the seive singing.
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -24713,10 +25108,103 @@ Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/117/06_moghamannaM_vindate.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - धनान्नदानप्रशंसा
+- ऋषिः - भिक्षुराङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मो᳓घम् अ᳓न्नं विन्दते अ᳓प्रचेताः  
+सत्य᳓म् ब्रवीमि वध᳓ इ᳓त् स᳓ त᳓स्य  
+ना᳓र्यम᳓णम् पु᳓ष्यति नो᳓ स᳓खायं  
+के᳓वलाघो भवति केवलादी᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápracetāḥ ← ápracetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mógham ← mógha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bravīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kevalādī́ ← kevalādín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kévalāghaḥ ← kévalāgha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मोघ॒मन्नं॑ विन्दते॒ अप्र॑चेताः स॒त्यं ब्र॑वीमि व॒ध इत्स तस्य॑ ।  
+नार्य॒मणं॒ पुष्य॑ति॒ नो सखा॑यं॒ केव॑लाघो भवति केवला॒दी ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 मोघ॒मन्नव्ँ॑विन्दते॒ अप्र॑चेताः ।  
 स॒त्यम्ब्र॑वीमि व॒ध इत्स तस्य॑ ।   
@@ -24724,9 +25212,210 @@ Brahmanas, who read the Trisuparna Mantra, they obtain soma and purify the line 
 केव॑लाघो भवति केवला॒दी ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मोघ॑म् । अन्न॑म् । वि॒न्द॒ते॒ । अप्र॑ऽचेताः । स॒त्यम् । ब्र॒वी॒मि॒ । व॒धः । इत् । सः । तस्य॑ ।  
+न । अ॒र्य॒मण॑म् । पुष्य॑ति । नो इति॑ । सखा॑यम् । केव॑लऽअघः । भ॒व॒ति॒ । के॒व॒ल॒ऽआ॒दी ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mogham* ← *mogha*
+- \[noun\], accusative, singular, neuter
+- “bootless; untrue; causeless.”
+
+_________
+
+- *annaṃ* ← *annam* ← *anna*
+- \[noun\], accusative, singular, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+
+_________
+
+- *vindate* ← *vid*
+- \[verb\], singular, Present indikative
+- “find; detect; marry; get; think.”
+
+_________
+
+- *apracetāḥ* ← *apracetas*
+- \[noun\], nominative, singular, masculine
+- “anserine.”
+
+_________
+
+- *satyam* ← *satya*
+- \[noun\], accusative, singular, neuter
+- “truth; oath; satya \[word\]; promise.”
+
+_________
+
+- *bravīmi* ← *brū*
+- \[verb\], singular, Present indikative
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+
+_________
+
+- *vadha* ← *vadhaḥ* ← *vadha*
+- \[noun\], nominative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+
+_________
+
+- *it* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *nāryamaṇam* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *nāryamaṇam* ← *aryamaṇam* ← *aryaman*
+- \[noun\], accusative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+
+_________
+
+- *puṣyati* ← *puṣ*
+- \[verb\], singular, Present indikative
+- “boom; grow; promote; foster.”
+
+_________
+
+- *no*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
+- \[noun\], accusative, singular
+- “friend; companion; sakhi \[word\].”
+
+_________
+
+- *kevalāgho* ← *kevala*
+- \[noun\]
+- “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
+    alone(p); single(a); white; absolute.”
+
+_________
+
+- *kevalāgho* ← *aghaḥ* ← *agha*
+- \[noun\], nominative, singular, masculine
+- “bad; dangerous; ill; iniquitous; bad.”
+
+_________
+
+- *bhavati* ← *bhū*
+- \[verb\], singular, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *kevalādī* ← *kevala*
+- \[noun\]
+- “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
+    alone(p); single(a); white; absolute.”
+
+_________
+
+- *kevalādī* ← *ādī* ← *ādin*
+- \[noun\], nominative, singular, masculine
+- “ādin \[word\]; eating.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अप्रचेताः- अप्रज्ञः। अन्नम्। मोघम्- मोघमेव। विन्दते- लभते। सः- तद्धनम्। तस्य। वध इत्-  मारकमेव। इति। सत्यम्- तथ्यम्। ब्रवीमि- वदामि। अर्यमणम्- दातारम्। न पुष्यति।  सखायम्। नो- न। पुष्यति। केवलादी- अन्येभ्योऽप्रयच्छन् यो भुङ्क्ते। सः। केवलाघः-  केवलपापयुक्तो हि। भवति॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अदातारं दूषयति । **अप्रचेताः** अप्रकृष्टज्ञानः दाने चेतो मनो यस्य न भवति **सः** **मोघं** व्यर्थमेव **अन्नं** **विन्दते** लभते ॥  ‘ विद्लृ लाभे' । तौदादिकः । ‘शे मुचादीनाम्' इति नुमागमः ॥ इदं **सत्यं** यथार्थमेवेति **ब्रवीमि** । ऋषिरहं वदामि । न केवलं व्यर्थं किंतु **तस्य** पुरुषस्य **सः** **वध** **इत्** वध एवान्नं परामृशतः ॥ तच्छब्दस्य वधसामानाधिकरण्यात् पुल्ँलिङ्गता । यथा “ णेरणौ° ( पा. सू. १. ३. ६७ ) इत्यत्र यत् कर्म स एव कर्तेति ॥ अथवा स निरर्थको वध एव यः पुरुषः **अर्यमणम्** । उपलक्षणमिदम् । सर्वान् देवानर्यमादीन् **न** **पुष्यति** हविष्प्रदानेन न पोषयति **नो** नापि **सखायं** समानख्यानमभ्यागतमतिथिं मित्रवर्गं च न पोषयति ॥  ‘ पुष पुष्टौ ' । दैवादिकः । यच्छब्दाध्याहारादनिघातः ॥ अत एव **केवलादी** ॥ अदेः सुप्यजातौ' (पा. सू. ३. २. ७८) इति णिनिः । अत उपधालक्षणा वृद्धिः ॥ केवलमसाक्षिकमन्नं भुञ्जानः सः **केवलाघो** **भवति** । केवलपापवान् भवति । अघमेव केवलं तस्य शिष्यते । नैहिकं नामुष्मिकमिति । तस्माद्यथाकथंचिद्दातव्यमित्यभिप्रायः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयमदाता सोऽयं **अप्रचेताः** प्रकृष्टज्ञानरहितः मोघं व्यर्थमेव अन्नं **विन्दते** लभते । तदेतत्सत्यं ब्रवीमि न केवलं वैयर्थ्यं किंतु सः अयमदत्तोऽन्नपदार्थः तस्य दानरहितस्य पुरुषस्य वध इत् वध एव वधवद्बाधकमेवेत्यर्थः । तत्र वैयर्थ्यं तावत्स्पष्टीक्रियते - योऽयमदाता सोऽयमन्नेनार्यमादिकं देवं न पुष्यति अग्नावाहुत्यभावात् । सखायं अतिथ्यादिरूपं मनुष्यं न पुष्यति दानाभावात् । अतः परलोके अनुपयोगेन वैयर्थ्यम् । वधहेतुत्वं स्पष्टीक्रियते - केवलादी केवलं भुङ्क्ते न तु ददाति सोऽयं केवलाधो भवति पापमेव संपादयति न तु किञ्चिदपि पुण्यम् सोऽयं वध एव, नरकहेतुत्वात् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The inhospitable man acquires food in vain. I speak the truth-- it verily is his death. He cherishes notAryaman nor a friend; he who eats alone is nothing but a sinner.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The undiscerning man finds food in vain. I speak the truth: it is just a  deadly weapon for him.  
+He does not prosper in compatriot, nor in companion. Who eats alone  has only evil.
+</details>
+
+<details><summary>Griffith</summary>
+
+The foolish man wins food with fruitless labour: that food -I speak the truth- shall be his ruin.  
+     He feeds no trusty friend, no man to love him. All guilt is he who eats with no partaker.
+</details>
+
+<details><summary>Macdonell</summary>
+
+The foolish man from food has no advantage; In truth I say: it is but his undoing; No friend he ever fosters, no companion: He eats alone, and he alone is guilty.
+</details>
+
+<details><summary>Geldner</summary>
+
+Nutzlos bekommt der Tor die Speise. Ich sage die Wahrheit: sie wird sein Tod sein. Nicht zieht er sich einen Gönner, noch einen Freund heran. Wer allein ißt, hat auch den Schaden allein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur sein Tod sein, Kein Freund wird ihm zu Theil und kein Genosse; allein trifft Noth den, der allein geniesset.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Понапрасну получает еду неразумный –  
+Истину глаголю я: это же смерть его!  
+Ни благодетеля не пестует он себе, ни друга.  
+Кто ест один, один бывает и в беде.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- त्रिष्टुप्
+- धैवतः
 </details>
 </details>
 

@@ -191,7 +191,6 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा  +++(प्रोक्षामि)+++ ।  
@@ -199,6 +198,8 @@ ____
 पृथिव्यै᳓ त्वा +++(प्रोक्षामि)+++ ।
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>प्रदीपसिंहः</summary>
 
@@ -233,7 +234,7 @@ To sky thee, to atmosphere thee, to earth thee!
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
@@ -603,22 +604,77 @@ ____
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/70_vItihotran_tvA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/026/03_vItihotraM_tvA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-May we kindle thee, O wise one,    
-That dost invite to the sacrifice, the radiant one,    
-O Agni, thee that art mighty at the sacrifice.
+- देवता - अग्निः
+- ऋषिः - वसूयव आत्रेयाः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>Thomson & Solcum</summary>
 
-वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒ह्यग्ने॑ बृ॒हन्त॑मध्व॒रे
+वीति᳓होत्रं तुवा कवे  
+द्युम᳓न्तं स᳓म् इधीमहि  
+अ᳓ग्ने बृह᳓न्तम् अध्वरे᳓
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+kave ← kaví- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vītíhotram ← vītíhotra- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dyumántam ← dyumánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+idhīmahi ← √idh- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+
+sám ← sám (invariable)  
+{}
+
+adhvaré ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hántam ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒तिहो॑त्रं त्वा कवे द्यु॒मन्तं॒ समि॑धीमहि ।  
+अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+वी॒तिहो॑त्रं त्वा कवे द्यु॒मन्तँ॒ समि॑धीमहि।  
+अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥४॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वी॒तिहो॑त्रन्त्वा कवे द्यु॒मन्तँ॒ समि॑धीम॒हि ।  
 अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
@@ -626,12 +682,345 @@ O Agni, thee that art mighty at the sacrifice.
 
 <details><summary>पद-पाठः</summary>
 
+वी॒तिऽहो॑त्रम् । त्वा॒ । क॒वे॒ । द्यु॒ऽमन्त॑म् । सम् । इ॒धी॒म॒हि॒ ।  
+अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वी॒तिहो॑त्र॒मिति॑ वी॒तिऽहो॑त्रम्। त्वा॒। क॒वे॒। द्यु॒मन्त॒मिति॑ द्यु॒ऽमन्त॒म्। सम्। इ॒धी॒म॒हि॒। अग्ने॑। बृ॒हन्त॑म्। अ॒ध्व॒रे। ४।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+वी॒तिहो॑त्र॒मिति॑ वी॒तिऽहो॑त्रम्। त्वा॒। क॒वे॒। द्यु॒मन्त॒मिति॑ द्यु॒ऽमन्त॒म्। सम्। इ॒धी॒म॒हि॒। अग्ने॑। बृ॒हन्त॑म्। अ॒ध्व॒रे। ५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 वी॒तिहो॑त्र॒मिति॑ वी॒ति-हो॒त्र॒म् । त्वा॒ । क॒वे॒ । द्यु॒मन्त॒मिति॑ द्यु-मन्त॑म् । समिति॑ । इ॒धी॒म॒हि॒ । अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vītihotraṃ* ← *vītihotram* ← *vītihotra*
+- \[noun\], accusative, singular, masculine
+- “Vītihotra; Agni.”
+
+_________
+
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+
+_________
+
+- *kave* ← *kavi*
+- \[noun\], vocative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
+- \[noun\], accusative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+
+_________
+
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *idhīmahi* ← *indh*
+- \[verb\], plural, Present optative
+- “kindle; ignite; set ablaze.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *bṛhantam* ← *bṛhat*
+- \[noun\], accusative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *adhvare* ← *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+कवे- क्रान्तदर्शिन्। अग्ने। अध्वरे- ध्वरविरोधिकर्मणि। वीतिहोत्रम्- कान्तयज्ञम्। द्युमन्तम्-  दीप्तम्। बृहन्तम्- महान्तम्। त्वा- त्वाम्। समिधीमहे- सम्यगुद्दीपयामः॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **कवे** क्रान्तदर्शिन् **अग्ने** **वीतिहोत्रं** कान्तयज्ञं **द्युमन्तं** दीप्तिमन्तं **बृहन्तं** महान्तं **त्वा** त्वाम् **अध्वरे** यज्ञे **समिधीमहि** समिद्भिः संदीपयामः ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+आहवनीये इध्मकाष्ठमादधाति।
+
+वीतिहोत्रम्।
+
+आग्नेयी गायत्री।
+
+वीतिहोत्रम्।
+
+‘वी गतिप्रजननकान्त्यसनखादनेषु’।
+
+वीतिः अभिलाषः होतृकर्मणि यस्य स वीतिहोत्रः।
+
+अथवा विविधा ईतिर्गतिर्होतृप्रशास्त्रादिषु होत्रासु यस्य स वीतिहोत्रः हे भगवन्नग्ने, वीतिहोत्रं त्वाम्।
+
+कवे क्रान्तदर्शन।
+
+अतीतानागतविप्रकृष्टविषयं युगपद्दर्शनं यस्य सः क्रान्तदर्शनः।
+
+द्युमन्तम् दीप्तिमन्तम्।
+
+समिधीमहि।
+
+‘इन्धी दीप्तौ’।
+
+संदीपयामः।
+
+अनेन इध्मकाष्ठेन बृहन्तं महान्तम्।
+
+अध्वरे यज्ञे॥४॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+इयमृकग्निदेवत्या गायत्रीच्छन्दस्का।
+
+हे कवे क्रान्तदर्शिन् हे अग्ने, अध्वरे यागे निमित्ते त्वां वयं समिधीमहि अनेनेध्मकाष्ठेन दीपयामः।
+
+अतीतानागतदूरवर्तिपदार्थानां यस्य युगपज्ज्ञानं स कविः। ।
+
+किंभूतं त्वाम्।
+
+वीतिहोत्रम्।
+
+‘इण् गतौ’ इतिर्गतिः व्याप्तिः पुत्रपौत्रपशुधनादिभिः समृद्धिरित्यर्थः।
+
+वीतये समृद्ध्यै होत्रं होमो यस्य स वीतिहोत्रस्तं यत्र होमे कृते समृद्धिप्राप्तिः स्यादित्यर्थः।
+
+यद्वा वीतिरभिलाषो होत्रे होतृकर्मणि यस्य तम्।
+
+तथा द्युमन्तम्।
+
+द्यौः कान्तिरस्यास्तीति द्युमान् तं स्वत एव द्युत्युपेतम् तथा बृहन्तं महान्तम्॥ ४॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+पाठस्तु- 'वीतिहोत्रं त्वा कवे द्युमन्तर समिधीमहि । अने बृद्दन्तमध्वरे ' इति ॥
+
+कविः क्रान्तदर्शी, सर्व-ज्ञ इत्य् अर्थः ।
+
+तथाविध हे 'नग्ने, त्वाम् अध्वरे यागे निमित्त-भूते सति समिधीमहि ।
+
+सायणाचार्य आनन्दबोध-माष्यसमेता
+भनेनाघार-नामक-समिध ऊर्ध्वस्थापनेन सम्यग् दीपयामः ।
+
+कथं-भूतं त्वाम् ?
+
+वीतिहोत्रम् ।
+
+इष् गताविति धातुः ।
+
+इतिर्गतिः ।
+
+विविधा इतिर् व्याप्तिः ।
+
+समृद्धिर् इत्यर्थः ।
+
+वीतये होत्रं होमो यस्याभेरिति विग्रहः ।
+
+एतम् एवार्थं तित्तिरिर्दर्शयति- " वीतिहोत्रं त्वा कव इत्याह । अग्निम् एव होत्रेण समर्द्धयति ” ( तैव्रा ३.३.६ ) इति । द्युमन्तं स्वत एव द्योतनोपेतं, 'बृहन्तं बृहद्-याग-वर्तित्वेन ॥ ५ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+आग्नेयं गायत्रम् ।
+
+वी गति- व्याप्ति-प्रजनन–कान्त्य-सनखादनेषु ।
+
+वीतिर् अत्राभिलाष-वचनः ।
+
+वीति ः होत्रे यस्य सः वीति-होत्रः ।
+
+अथवा विविधा ईतिर्गतिर् वीतिः, प्रशास्त्रादिषु होतृकर्मसु वीतिर् यस्य स: वीति-होत्रः, तम् ।
+
+हे भगवन् अग्ने कवे क्रान्त-दर्शिन् ।
+
+अतीतानागत-विप्रकृष्ट-विषयं युगपत् ज्ञानं यस्य सः, तत्-संबोधनं कवे
+[ इति ] ।
+
+वीतिहोत्रं "धुमन्तं दीप्तिमन्तं त्वां समिधीमहि । इन्वी दीप्तौ । संदीपयामः । अध्वरे यज्ञे । अनेने मकाष्ठेन बृहन्तं वर्धमानं समिधीमहि ॥ ५ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वीतिहोत्रं इष्टस्तोत्रम् । वीतेः कान्तिकर्मणो 'मन्त्रे वृष' (पा.सू. 3.3.96) इत्यादिना कर्मणि क्तिन्प्रत्यय उदात्तः । वेतव्या कमितव्या होत्रा वाक् स्तोत्ररूपा होतृव्यापारो वा यस्य तं त्वा । हे कवे मेधाविन् । अग्ने द्युमन्तं दीप्तिमन्तम् । 'ह्रस्वनुड्भ्यां मतुप्' (पा.सू. 6.1.176) इति मतुप उदात्तत्वम् । बृहन्तं महान्तं समिधीमहि प्रागेव दीप्तिमन्तं सन्तं अनया समिधा सम्यग्दीपयामः । इन्धेर्लिङि, 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति विकरणस्य लुक् । यद्वा - 'छन्दस्युभयथा' (पा.सू. 3.4.117) इत्यार्धधातुकत्वात् विकरणाप्रसङ्गः । सार्वधातुकत्वेन ङित्त्वादनुनासिकलोपः । अध्वरे अध्वरार्थम् । निमित्तात्सप्तमी (पा.सू. 2.3.36 वा 6) । ध्वृ हूर्छने, हूर्छनं कौटिल्यम् । ध्वरन्तीति ध्वराः रक्षःप्रभृतयः । पचाद्यच् । ते यत्र न सन्ति सः अध्वरः । बहुव्रीहौ 'नञ्सुभ्याम्' (पा.सू. 6.2.172) इत्युत्तरपदान्तोदात्तत्वम् । तादृशाय यज्ञाय त्वां समिधीमहि ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+अब अग्नि शब्द से अगले मन्त्र में उक्त दो अर्थों का प्रकाश किया है ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (कवे) सर्वज्ञ तथा हर एक पदार्थ में अनुक्रम से विज्ञानवाले (अग्ने) ज्ञानस्वरूप परमेश्वर ! हम लोग (अध्वरे) मित्रभाव के रहने में (बृहन्तम्) सब के लिये बड़े से बड़े अपार सुख के बढ़ाने और (द्युमन्तम्) अत्यन्त प्रकाशवाले वा (वीतिहोत्रम्) अग्निहोत्र आदि यज्ञों को विदित करानेवाले (त्वा) आप को (समिधीमहि) अच्छी प्रकार प्रकाशित करें ॥ यह इस मन्त्र का प्रथम अर्थ हुआ ॥ हम लोग (अध्वरे) अहिंसनीय अर्थात् जो कभी परित्याग करने योग्य नहीं, उस उत्तम यज्ञ में जिसमें कि (वीतिहोत्रम्) पदार्थों की प्राप्ति कराने के हेतु अग्निहोत्र आदि क्रिया सिद्ध होती है और (द्युमन्तम्) अत्यन्त प्रचण्ड ज्वालायुक्त (बृहन्तम्) बड़े-बड़े कार्य्यों को सिद्ध कराने तथा (कवे) पदार्थों में अनुक्रम से दृष्टिगोचर होनेवाले (त्वा) उस (अग्ने) भौतिक अग्नि को (समिधीमहि) अच्छी प्रकार प्रज्वलित करें ॥ यह दूसरा अर्थ हुआ ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में श्लेषालङ्कार है। संसार में जितने क्रियाओं के साधन वा क्रियाओं से सिद्ध होनेवाले पदार्थ हैं, उन सबों को ईश्वर ही ने रचकर अच्छी प्रकार धारण किया है। मनुष्यों को उचित है कि उनकी सहायता से, गुण, ज्ञान और उत्तम-उत्तम क्रियाओं की अनुकूलता से अनेक प्रकार के उपकार लेने चाहियें ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथाग्निशब्देनोभावार्थावुपदिश्येते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे कवे अग्ने जगदीश्वर ! वयमध्वरे बृहन्तं द्युमन्तं वीतिहोत्रं त्वां समिधीमहि ॥ इत्येकः ॥ वयमध्वरे वीतिहोत्रं द्युमन्तं बृहन्तं कवे कविं त्वा तमग्ने भौतिकमग्निं समिधीमहि ॥ इति द्वितीयः ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र श्लेषालङ्कारः। यावन्ति क्रियासाधनानि क्रियया साध्यानि च वस्तूनि सन्ति, तानि सर्वाणीश्वरेणैव रचयित्वा ध्रियन्ते मनुष्यैस्तेषां सकाशाद् गुणज्ञानक्रियाभ्यां बहव उपकाराः संग्राह्याः ॥४॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जगात जितकी कार्य करण्याची जितकी साधने आहेत किंवा कार्यामुळे सिद्ध होणारे पदार्थ आहेत त्या सर्वांना ईश्वराने निर्माण केलेले असून, त्यांना चांगल्या प्रकारे धारण केलेले आहे. माणसांनी त्यांच्या साह्याने ज्ञानयुक्त उत्तम कार्य करून अनेक प्रकारे त्यांचा उपयोग करून घेतला पाहिजे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“We kindle you at the sacrifice, wise **Agni**, whose food is the oblation, who are brilliant and vast.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O poet, we would kindle you, the brilliant one whose oblations are worth  pursuing,  
+the lofty one in the rite, o Agni.
+</details>
+
+<details><summary>Griffith</summary>
+
+We have enkindled thee, O Sage, bright caller of the Gods to feast.  
+     O Agni, great in Sacrifice.
+</details>
+
+<details><summary>Keith</summary>
+
+May we kindle thee, O wise one,    
+That dost invite to the sacrifice, the radiant one,    
+O Agni, thee that art mighty at the sacrifice.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+Thee, Sage, who offerest to Gods their banquet, we will enkindle till thou shinest brightly, thee mighty in the sacrifice, O Agni.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Let us kindle thee, O sage, the brilliant offerer of feasts (to the gods), O Agni, the mighty (god) at the sacrifice.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dich, den Opfereifrigen, den Glanzvollen wollen wir entflammen, du Seher, dich den Hohen beim Opfer, o Agni.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dich zünden wir, der ruft zum Mahl, den glänzenden, o weiser, an, Den hohen Agni bei dem Fest.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Мы зажигаем тебя, о поэт,  
+Наслаждающегося жертвой, сверкающего,  
+Высокого, о Агни, во время обряда.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसुयव आत्रेयः
+- गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- परमेष्ठी प्रजापतिर्ऋषिः
+- निचृद् गायत्री,
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर अग्नि के सादृश्य से विद्वान् के गुणों को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (कवे) विद्वन् (अग्ने) अग्नि के सदृश वर्त्तमान ! हम लोग (अध्वरे) अहिंसारूप यज्ञ में (वीतिहोत्रम्) व्याप्ति का ग्रहण जिससे उस (द्युमन्तम्) प्रकाशवाले अग्नि के सदृश जिन (बृहन्तम्) महान् (त्वा) आपको (सम्, इधीमहि) उत्तम प्रकार प्रकाशित करें, वह आप हम लागों को शुद्ध विद्या से प्रकाशित करें ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। मनुष्यों को चाहिये कि शिल्पविद्या की सिद्धि के लिये अग्नि का सम्प्रयोग अवश्य करें ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे कवे अग्ने ! वयमध्वरे [वीतिहोत्रं] द्युमन्तमग्निमिव यं बृहन्तं त्वा समिधीमहि स त्वमस्माञ्छुद्धविद्यया प्रकाशय ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनरग्निसादृश्येन विद्वद्गुणानाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वीतिहोत्रम्) वीतेर्व्याप्तेर्होत्रं ग्रहणं यस्मात् तम् (त्वा) (कवे) विद्वन् (द्युमन्तम्) प्रकाशवन्तम् (सम्) (इधीमहि) सम्यक् प्रकाशयेम (अग्ने) पावकवद्वर्त्तमान (बृहन्तम्) महान्तम् (अध्वरे) अहिंसायज्ञे ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः । मनुष्यैः शिल्पविद्यासिद्धयेऽग्निसम्प्रयोगोऽवश्यं कार्य्यः ॥३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी शिल्पविद्येच्या सिद्धीसाठी अग्नी चांगल्या प्रकारे उपयोगात आणावा. ॥ ३ ॥
 </details>
 </details>
 
@@ -759,11 +1148,12 @@ Thou art named juhu
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृता᳓ची ना᳓म्ना प्रिये᳓ण ना᳓म्ना प्रिये᳓ स᳓दसि सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -785,7 +1175,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
@@ -828,11 +1218,12 @@ Thou art named upabhrt
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृता᳓ची ना᳓म्ना प्रिये᳓ण ना᳓म्ना प्रिये᳓ स᳓दसि सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -854,7 +1245,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
@@ -896,11 +1287,12 @@ Thou art named dhruva.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/ghRtAchI.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृता᳓ची ना᳓म्ना प्रिये᳓ण ना᳓म्ना प्रिये᳓ स᳓दसि सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -922,7 +1314,7 @@ Loving the ghee, sit on thy dear seat with thy dear name.
 पुनश्च विशेष्यते - घृताची त्वम् घृतमञ्चति गच्छति धारकत्वेनेति घृताची । ऋत्विगादिना क्विप् (पा.सू. 3.2.49) । अनुनासिकलोपे 'अचः' (पा.सू. 6.4.138) इत्यकारलोपे 'चौ' (पा.सू. 6.3.138) इति दीर्घः ।  
 सा त्वं प्रियेण नाम्ना घृतसम्बन्धेन सर्वस्य प्रीतिहेतुना घृताचीति नाम्ना उपलक्षितासि । 'तासामेतदेव प्रियं नाम । यद्घृताची' (तै.ब्रा. 3.3.6) इत्यादि ब्राह्मणम् । ईदृशेन नाम्ना प्रिये सदसि प्रस्तराख्येऽस्मिन् सदने सीद । 'यजमानो वै प्रस्तरः' (तै.ब्रा. 3.3.6) । इति यजमानत्वसंस्तवान्नाममात्रेण प्रस्तरस्य प्रियत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____

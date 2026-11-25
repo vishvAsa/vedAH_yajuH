@@ -83,7 +83,6 @@ So I welcome thee, that art of Visnu, for the sacrifice to the gods.
 हे वृक्ष अन्यानितरान्कांश्चिद्वृक्षानहमत्यगाम् अतिक्रम्य गतोस्मि । के पुनस्ते? ये यूपार्हाः पलाशादयः 'समे जातमशाखाजम्' इत्यादिलक्षणहीनाः । तानुपगम्यैव वैगुण्यदर्शनेन अत्यजम् । अथान्यान्कांश्चिद्वृक्षान्नोपागां नैवोपगतोस्मि । के पुनस्ते? ये अयूपार्हा निम्बायय । सोहं युपार्हं लक्षाणवन्तं च त्वामेवाविदं लब्धवानस्मि ।  +++(लृदित्वादङ् 3-1-55पा.सू. इति पाठेन भाव्यमिति भाति । अत्र न स्पष्टम् । अर्थानुसारादेवं योजितम्)+++    ।  
  अस्य गुणवत्त्वमाह - परैरिति । परैरुत्कृष्टैस्समजातत्वादिभिर्लक्षणैरर्वाक् अविदूरे वर्तमानं सर्वलक्षणयुक्तमिति यावत् । अवरैर्निकृष्टैर्विषमजातत्वादिभिरसल्लक्षणैः परः परस्ताद्दूरे वर्तमानं असल्लक्षणैरस्पृष्टमित्यथाः । 'विभाषा परावराभ्याम्' इत्यतसुचि तकारस्य छान्दसो लोपः । यद्वा - पूर्वादिभ्यो विधीयमोसिप्रत्ययो बहुलवचनात्परशब्दादपि भवति, तत्र प्रत्ययस्वरेणान्तोदात्तत्वम्, परशब्दो हि 'स्वाङ्गाशिटामदन्तानाम्' इत्याद्युदात्तः, 'शिडिति सर्वनामान्युच्यन्ते । 'एकान्याभ्यां समर्थाभ्याम्' इति प्रथमा तिङ्विभक्तिर्न निहन्यते । तं ताडृ त्वा देवयज्यै देवयागार्थं जुषे सेवे गृह्णामीत्यर्थः । वैष्णवं विष्णुदेवत्यं,'वैष्णवो वै देवतया यूपः' इति । 'छन्दसि निष्टर्क्य' इत्यादिना देवयज्याशब्दो यप्रत्ययान्तो निपातितः । 'अति ह्यन्यानेति नान्यानुपैति' इत्यादि ब्राह्मणम् ॥
 </details>
-
 <details><summary>सायण-टीका</summary>
 
 वृक्षा द्विविधा यूप्या अयूप्याश् च। पलाश-खदिरादयो यूप्याः। निम्ब-जम्बीरादयस् त्व्-अयूप्याः। हे पुरो-वर्ति-यूप्य-वृक्ष त्वत्तो ऽन्यान् कांश्-चिद् यूप्यान् अपि सम-प्र-देश-जन्मादि-लक्षण-रहितान् अत्यगाम्। अन्यांस् त्व्-अयूप्यान् नोपागाम्। त्वां त्व्-अविदं लब्धवान् अस्मि। कीदृशं, परैर् अर्वाग् उत्कृष्टैर् लक्षणैः प्रत्यासन्नं तल्-लक्षण-युक्तम् इत्य् अर्थः। पुनः कीदृशं, परो ऽवरैर् निकृष्टैर् लक्षणैर् दूर-वर्तिनं तद्-रहितम् इत्य् अर्थः। हे वृक्ष तं त्वां विष्णु-देवताकं देव-यजनार्थं सेवे।
@@ -101,11 +100,17 @@ _______
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/08_deva_s_tvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓स् त्वा सविता᳓ म᳓ध्वाऽनक्तु ।
+देव᳓स् त्वा सविता᳓ म᳓ध्वानक्तु
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Savitar, God, anoint thee with sweet butter.
 </details>
 
 <details><summary>Keith</summary>
@@ -115,12 +120,26 @@ Let the god Savitr anoint thee with honey.
 
 <details><summary>मूलम्</summary>
 
-दे॒वस्त्वा॑ सवि॒ता मध्वा॑ऽनक्तु ।
+दे॒वस्त्वा॑ सवि॒ता मध्वा॑नक्तु
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
-दे॒वः । त्वा॒ । स॒वि॒ता । मध्वा॑ । अ॒न॒क्तु॒ । 
+दे॒वः। त्वा॒। स॒वि॒ता। मध्वा॑। अ॒न॒क्तु॒।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+दे॒वः । त्वा॒ । स॒वि॒ता । मध्वा॑ । अ॒न॒क्तु॒ ।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+यूपदेवत्यम्।
+
+हे यूप, सविता देवः मध्वा मधुना मधुरेणाज्येन वा त्वामनक्तु।
+
+मध्वा।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -128,11 +147,11 @@ Let the god Savitr anoint thee with honey.
 2यूपमाज्येनानक्ति - देवस्त्वेति ॥ हे वृक्ष देवस्सविता सर्वस्य प्रेरकस्त्वां मध्वा मदनीयेन मधुरेणाज्येन अनक्तु स्निग्धं करोतु । 'फलिपाटिनमिमनिजनाङ्गुक्पाटिनाकिधतश्च' इति मन्यतेरुप्रत्ययः, धकारश्चान्तादेशः, तत्र च उरित्यनुवर्तते । 'जसादिषु वा वचनं छन्दसि प्राङ्णौ चड्युपधायाः' इति नाभावाभावः । मधुशब्देन चाज्यमुच्यते, 'तेजसैवैनमनक्ति' इति ब्राह्मणदर्शनात् । `तेजो वा आज्यम्' इति ॥
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
 
-8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
+8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥
 </details>
-
+</details>
 </div>  
 
 _______
@@ -145,6 +164,7 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -161,11 +181,14 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,22 +222,26 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-
+</details>
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓धिते+++(=क्षुर)+++! मै᳓नँ हिँसीः  ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,7 +274,7 @@ Axe, hurt him not.
 
 स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
-
+</details>
 </div>  
 
 _______
@@ -347,11 +374,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्र-वल्शाः+++(=प्ररोहाः)+++ वि᳓ वयँ᳓ रुहेम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,7 +401,7 @@ Let us rise with a thousand shoots.
 9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
 वयमपि सहस्रवल्शाः पुत्रपौत्राद्यनेकप्ररोहवन्तो विरुहेम विरूढा भूयास्म । 'लिङ्याशिष्यङ्' (पा.सू. 3.1.86) इत्यङ्प्रत्ययः । यासुडादि (पा.सू. 3.4.103) । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति सार्वधातुकत्वादिय् । यस्य लोपः (पा.सू. 6.1.66) ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -431,16 +459,20 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓च्छिन्नो रा᳓यस् सुवी᳓रः ॥ [9]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,7 +494,7 @@ uncut, with wealth of heroes, (give us) riches.
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥ अच्छिन्नः । अद्व्ययपूर्वपदप्रकृतिस्वरत्यम् । रायः धनानि देहीति शेषः । यद्वा - अच्छिन्नो धनस्य सुवीरश्च भवेत्यध्याहारः । 'ऊडिदं' इत्यादिना तृतीयादेर्विभक्तेरुदात्तत्वं व्यत्ययेन न क्रियते । ईदृशस्त्वमेव नो रायः । शोभना वीराः पुत्रपौत्रादयोस्य यजमानस्य येन भवन्ति स सुवीरः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युतात्त्वन् । यस्मात्त्वया यजमानस्य आयुष्मन्तः पूत्रादय उत्पद्यन्ते, तस्मात्तेषामभिवृद्ध्यर्थं अविच्छेदेन धनानि देहीति ॥
 
 </details>
-
+</details>
 </div>  
 
 इति तृतीये पञ्चमोनुवाकः ॥  

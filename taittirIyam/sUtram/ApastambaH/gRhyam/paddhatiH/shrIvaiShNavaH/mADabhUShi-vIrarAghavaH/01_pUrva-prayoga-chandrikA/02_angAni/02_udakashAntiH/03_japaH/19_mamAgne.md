@@ -38,15 +38,6 @@ title = "१९ ‘ममाग्ने’,"
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make ourselves to prosper; To me let the four quarters bow;  
-With thee as overseer may we conquer the fighters.
-</details>
-</details>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/01_mamAgne_varcho.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -298,6 +289,12 @@ LET me win glory, Agni, in our battles: enkindling thee, may we support our bodi
      May the four regions bend and bow before me: with thee for guardian may we win in combat.
 </details>
 
+<details><summary>Keith</summary>
+
+May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make ourselves to prosper; To me let the four quarters bow;  
+With thee as overseer may we conquer the fighters.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mein soll in den Wettanrufungen der Götter der Glanz sein, o Agni; wir wollen dich anzünden und deinen Leib pflegen. Vor mir sollen sich die vier Weltgegenden neigen. Mit dir als Aufseher wollen wir die Kämpfe gewinnen!
@@ -373,18 +370,100 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/02_mama_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-Let all the gods be at my invocation,  
-The Maruts with Indra, Visnu, Agni;  
-May the broad atmosphere be my guardian;  
-May the wind blow for me unto this desire.
+- देवता - विश्वेदेवाः
+- ऋषिः - विहव्यः
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+म᳓म देवा᳓ विहवे᳓ सन्तु स᳓र्व  
+इ᳓न्द्रवन्तो मरु᳓तो वि᳓ष्णुर् अग्निः᳓  
+म᳓मान्त᳓रिक्षम् उरु᳓लोकम् अस्तु  
+म᳓ह्यं वा᳓तः पवतां का᳓मे अस्मि᳓न्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+santu ← √as- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sárve ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vihavé ← vihavá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+índravantaḥ ← índravant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+marútaḥ ← marút- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víṣṇuḥ ← víṣṇu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+antárikṣam ← antárikṣa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+urúlokam ← urúloka- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmín ← ayám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+kā́me ← kā́ma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+pavatām ← √pū- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+
+vā́taḥ ← vā́ta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्र॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।  
+ममा॒न्तरि॑क्षमु॒रुलो॑कमस्तु॒ मह्यं॒ वातः॑ पवतां॒ कामे॑ अ॒स्मिन् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्रा॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः ।   
 ममा॒न्तरि॑क्षमु॒रु गो॒पम॑स्तु॒ मह्यव्ँ॒वातᳶ॑ पवता॒ङ्कामे॑ अ॒स्मिन् ।
@@ -392,7 +471,150 @@ May the wind blow for me unto this desire.
 
 <details><summary>पद-पाठः</summary>
 
+मम॑ । दे॒वाः । वि॒ऽह॒वे । स॒न्तु॒ । सर्वे॑ । इन्द्र॑ऽवन्तः । म॒रुतः॑ । विष्णुः॑ । अ॒ग्निः ।  
+मम॑ । अ॒न्तरि॑क्षम् । उ॒रुऽलो॑कम् । अ॒स्तु॒ । मह्य॑म् । वातः॑ । प॒व॒ता॒म् । कामे॑ । अ॒स्मिन् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 मम॑ । दे॒वाः । वि॒ह॒व इति॑ वि-ह॒वे । स॒न्तु॒ । सर्वे॑ । इन्द्रा॑वन्त॒ इतीन्द्र॑-व॒न्तः॒ । म॒रुतः॑ । विष्णुः॑ । अ॒ग्निः ॥ मम॑ । अ॒न्तरि॑क्षम् । उ॒रु । गो॒पम् । अ॒स्तु॒ । मह्य॑म् । वातः॑ । प॒व॒ता॒म् । कामे॑ । अ॒स्मिन्न् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mama* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *vihave* ← *vihava*
+- \[noun\], locative, singular, masculine
+- “invocation.”
+
+_________
+
+- *santu* ← *as*
+- \[verb\], plural, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *sarva* ← *sarve* ← *sarva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *indravanto* ← *indravantaḥ* ← *indravat*
+- \[noun\], nominative, plural, masculine
+
+_________
+
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+
+_________
+
+- *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
+- \[noun\], nominative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+
+_________
+
+- *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *mamāntarikṣam* ← *mama* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *mamāntarikṣam* ← *antarikṣam* ← *antarikṣa*
+- \[noun\], nominative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+
+_________
+
+- *urulokam* ← *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+
+_________
+
+- *urulokam* ← *lokam* ← *loka*
+- \[noun\], nominative, singular, neuter
+- “Loka; Earth; world; vernacular; people; room; world; Earth; loka
+    \[word\]; space; Loka; topographic point; region; common sense.”
+
+_________
+
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *mahyaṃ* ← *mahyam* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+
+_________
+
+- *vātaḥ* ← *vāta*
+- \[noun\], nominative, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+
+_________
+
+- *pavatāṃ* ← *pavatām* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+
+_________
+
+- *kāme* ← *kāma*
+- \[noun\], locative, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+
+_________
+
+- *asmin* ← *idam*
+- \[noun\], locative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रवन्तः- ईशनयुक्ताः। मरुतः- प्राणाः। विष्णुः- व्यापनशीलो देवः। अग्निः- सर्वभूतहितक्रतुः।  मम- मह्यम्। सर्वे- सर्वाः। देवाः- देवताः। विहवे- विविधहवनयुक्ते यज्ञे। सन्तु- भवन्तु। मम-  मे। अन्तरिक्षम्- नभः। उरुलोकम्- विस्तीर्णप्रकाशकम्। अस्तु- भवतु। अस्मिन्- अस्याम्।  कामे- इच्छायाम्। मह्यम्- मे। वातः- वायुः। पवताम्॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सर्वे** **देवाः** **विहवे** संग्रामे यज्ञे वा **मम** **सन्तु** ममैव साधका भवन्तु । के पुनस्ते । **इन्द्रवन्तः** इन्द्रेण युक्ताः **मरुतो** **विष्णुरग्निः** च । तथा **अन्तरिक्षं** **मम** **उरुलोकं** विस्तीर्णप्रकाशकम् **अस्तु** ॥  ‘ लोकृ दर्शने ' । भावे घञ् । लोक आलोकः प्रकाशः । उरुर्लोको यस्येति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ अपि च **अस्मिन्** **कामे** कामयितव्ये फले निमित्तभूते सति **वातः** वायुः **पवताम्** अनुगुणं प्रवातु ॥  ‘ पूङ् पवने '। भौवादिकः ।  ‘ ऊडिदम् ' इत्यादिना इदमः सप्तम्या उदात्तत्वम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -402,6 +624,75 @@ May the wind blow for me unto this desire.
 इदमुरु विस्तीर्णमन्तरिक्षं मम गोपं रक्षकमस्तु।  
 अयं वातो वायुर्मह्यं मदर्थमस्मिन्कामे यज्ञफले निमित्तभूते सति पवतां संचरतु।  
 मदीयकामं साधयत्वित्यर्थः।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May all the gods be on my side in battle, the **Maruts** with **Indra**, **Viṣṇu** and **Agni**; may the expandedfirmament be mine, may the wind blow (propitiously) to this my desire.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Mine be all the gods at the competing invocation: the Maruts together  with Indra, Viṣṇu, and Agni.  
+Mine be the midspace, providing a broad place. For me, at my desire, let  the wind purify itself [=blow].
+</details>
+
+<details><summary>Griffith</summary>
+
+May all the Gods be on my side in battle, the Maruts led by Indra, Visnu, Agni.  
+     Mine be the middle air's extended region, ani may the wind blow favouring these my wishes.
+</details>
+
+<details><summary>Keith</summary>
+
+Let all the gods be at my invocation,  
+The Maruts with Indra, Visnu, Agni;  
+May the broad atmosphere be my guardian;  
+May the wind blow for me unto this desire.
+</details>
+
+<details><summary>Geldner</summary>
+
+Mein sollen bei dem Wettrufen alle Götter sein, die Marut nebst Indra, Vishnu, Agni! Mein soll das weiträumige Luftreich sein, mir soll der Wind günstig wehen bei diesem Wunsche!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Bei meinem Anruf seien alle Götter die Marutschar mit Indra, Vischnu, Agni, Mein sei die Luft mit ihrem weiten Raume, mir ströme hell der Wind zu diesem Wunsche.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Моими пусть будут Все-Боги во время призыва-состязания:  
+Маруты с Индрой, Вишну, Агни!  
+Моим пусть будет воздушное пространство – широкий простор!  
+Мне пусть (благоприятно) веет ветер при этом желании!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- विहव्यः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विहवे) विविध आह्वानप्रसङ्गमें-संग्राम में या यज्ञ में (सर्वे देवाः) सब युद्ध की कामना करते हुए सैनिक या विद्वान् (मम सन्तु) मेरे सहायक हों (इन्द्रवन्तः-मरुतः) विद्युत्वाले शस्त्रधारी सैनिक या-यजमान के साथ ऋत्विज (विष्णुः-अग्निः)व्यापक वायु या वायव्यास्त्रवान् तथा आग्नेयास्त्रवान्  (मम-उरु-लोकम्) मेरा बहुत दर्शनीय (अन्तरिक्षम्) अन्तरिक्ष के समान राष्ट्र या यज्ञस्थान (अस्तु) होवे (अस्मिन् कामे) इस कमनीय राष्ट्र में या कामेष्टियज्ञ में (मह्यम्) मेरे लिए (वातः) वायु (पवताम्) बहे-चले ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  राष्ट्र के अन्दर भाँति-भाँति के शस्त्रधारी संग्राम में विजय पानेवाले होने चाहिये तथा राष्ट्र भी सुखों से पूर्ण दर्शनीय अच्छे वातावरणवाला होना चाहिये एवं ऋत्विक् विद्वान् अनेक विद्याओं के जाननेवाले, बहुत दर्शनीय यज्ञ को रचानेवाले, यज्ञस्थान सुगन्धवायु से परिपूर्ण होना चाहिये ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विहवे) विविधाह्वानप्रसङ्गे सङ्ग्रामे यज्ञे वा (सर्वे देवाः-मम सन्तु) सर्वे युद्धकामाः सैनिकाः, विद्वांसो वा मम सहायकाः भवन्तु (इन्द्रवन्तः-मरुतः) शत्रुभेदकेन विद्युत्सदृशेन सेनानायकेन सह सैनिकजनाः यजमानेन सह वा खल्वृत्विजः “मरुत ऋत्विग्नाम” [निघ० ३।१८] (विष्णुः-अग्निः) व्यापको वायव्यास्त्रवान् अग्निराग्नेयास्त्रवान् (मम-उरुलोकम्-अन्तरिक्षम्) मम बहु दर्शनीयमन्तरिक्षमिव राष्ट्रम्, यज्ञस्थानं वा (अस्तु) भवतु (अस्मिन् कामे) अस्मिन् कमनीये राष्ट्रे यद्वा कामयज्ञे (मह्यं वातः पवताम्) विस्तृतो वायुश्चलतु ॥२॥
 </details>
 </details>
 
@@ -428,16 +719,100 @@ May the wind blow for me unto this desire.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/26_mayi_devA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/03_mayi_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-May the gods bestow wealth upon me through sacrifice; May blessing be mine, and mine divine invocation; The divine sacrificers of old shall win for us [1];  
-Unharmed may we be in ourselves, rich in heroes.
+- देवता - विश्वेदेवाः
+- ऋषिः - विहव्यः
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+म᳓यि देवा᳓ द्र᳓विणम् आ᳓ यजन्ताम्  
+म᳓य्य् आशी᳓र् अस्तु म᳓यि देव᳓हूतिः  
+दइ᳓व्या हो᳓तारो वनुषन्त पू᳓र्वे  
+अ᳓रिष्टाः स्याम तनु᳓वा सुवी᳓राः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dráviṇam ← dráviṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
+yajantām ← √yaj- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+āśī́ḥ ← āśís- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváhūtiḥ ← deváhūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
+máyi ← ahám (pronoun)  
+{case:LOC, number:SG}
+
+daívyāḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+hótāraḥ ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vanuṣanta ← √vanuṣ(y)- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+
+áriṣṭāḥ ← áriṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+suvī́rāḥ ← suvī́ra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+tanvā̀ ← tanū́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्तां॒ मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।  
+दैव्या॒ होता॑रो वनुषन्त॒ पूर्वेऽरि॑ष्टाः स्याम त॒न्वा॑ सु॒वीराः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्ता॒म्मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।   
 दैव्या॒ होता॑रा वनिषन्त [29]  पूर्वेऽरि॑ष्टास्स्याम त॒नुवा॑ सु॒वीराः॑ ।
@@ -445,7 +820,151 @@ Unharmed may we be in ourselves, rich in heroes.
 
 <details><summary>पद-पाठः</summary>
 
+मयि॑ । दे॒वाः । द्रवि॑णम् । आ । य॒ज॒न्ता॒म् । मयि॑ । आ॒ऽशीः । अ॒स्तु॒ । मयि॑ । दे॒वऽहू॑तिः ।  
+दैव्याः॑ । होता॑रः । व॒नु॒ष॒न्त॒ । पूर्वे॑ । अरि॑ष्टाः । स्या॒म । त॒न्वा॑ । सु॒ऽवीराः॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 मयि॑ । दे॒वाः । द्रवि॑णम् । एति॑ । य॒ज॒न्ता॒म् । मयि॑ । आ॒शीरित्या॑-शीः । अ॒स्तु॒ । मयि॑ । दे॒वहू॑ति॒रिति॑ दे॒व-हू॒तिः॒ ॥ दैव्या॑ । होता॑रा । व॒नि॒ष॒न्त॒ । पूर्वे॑ । अरि॑ष्टाः । स्या॒म॒ । त॒नुवा॑ । सु॒वीरा॒ इति॑ सु-वीराः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mayi* ← *mad*
+- \[noun\], locative, singular
+- “I; mine.”
+
+_________
+
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *draviṇam* ← *draviṇa*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; jewel.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *yajantām* ← *yaj*
+- \[verb\], plural, Present imperative
+- “sacrifice; worship; worship.”
+
+_________
+
+- *mayy* ← *mayi* ← *mad*
+- \[noun\], locative, singular
+- “I; mine.”
+
+_________
+
+- *āśīr* ← *āśīḥ* ← *āśī*
+- \[noun\], nominative, singular, feminine
+
+_________
+
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *mayi* ← *mad*
+- \[noun\], locative, singular
+- “I; mine.”
+
+_________
+
+- *devahūtiḥ* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *devahūtiḥ* ← *hūtiḥ* ← *hūti*
+- \[noun\], nominative, singular, feminine
+- “invocation.”
+
+_________
+
+- *daivyā* ← *daivyāḥ* ← *daivya*
+- \[noun\], nominative, plural, masculine
+- “divine; divine; celestial.”
+
+_________
+
+- *hotāro* ← *hotāraḥ* ← *hotṛ*
+- \[noun\], nominative, plural, masculine
+- “Hotṛ.”
+
+_________
+
+- *vanuṣanta* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+
+_________
+
+- *pūrve* ← *pūrva*
+- \[noun\], nominative, plural, masculine
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+
+_________
+
+- *'riṣṭāḥ* ← *ariṣṭāḥ* ← *ariṣṭa*
+- \[noun\], nominative, plural, masculine
+- “safe; unharmed.”
+
+_________
+
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *tanvā* ← *tanū*
+- \[noun\], instrumental, singular, feminine
+- “body; self; own(a); person; form.”
+
+_________
+
+- *suvīrāḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+मयि। देवाः- देवताः। द्रविणम्- सम्पदम्। आ यजन्ताम्- आभिमुख्येन यच्छन्तु। मयि।  आशीः। अस्तु- भवतु। मयि। देवहूतिः- देवाह्वानं भवतु। पूर्वे- सनातनकालतः। दैव्याः-  दिव्याः। होतारः- उपासकाः। वनुषन्त- सम्भजन्ताम्। अरिष्टाः- अहिंसिताः। तन्वा- रूपेण।  सुवीराः- शोभनवीर्यसम्पन्नाः। स्याम- भवेम॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**देवाः** सर्वे **द्रविणं** धनं **मयि** स्तोतरि **आ** **यजन्तां** गमयन्तु । मह्यं ददत्वित्यर्थः । तथा **आशीः** आशंसनीयं यज्ञफलं च **मयि** एव **अस्तु** । देवानां हूतिराह्वानमस्मिन्निति **देवहूतिः** यज्ञः । स च **मयि** अस्तु । अपि च देवानामिमे **दैव्याः** । देवाद्यञञौ ' इति यञ्  । तादृशाः **होतारः** साधुहोमनिष्पादका मदीया ऋत्विजः **पूर्वे** अन्यदीयेभ्य ऋत्विग्भ्यः प्रथमभाविनः सन्तः **वनुषन्त** देवान् संभजन्ताम् ॥ बनतेश्छान्दसे लङि  ‘ व्यत्ययो बहुलम् ' इति त्रयो विकरणा उप्रत्ययः सिष्शपौ च । अडभावश्छान्दमः । वयं च **तन्वा** शरीरेण **अरिष्टाः** अहिंसिताः **सुवीरा:** सुपुत्राश्च **स्याम** भवेम ॥  ‘ वीरवीर्यौ च ' इत्युत्तर पदाद्युदात्तत्वम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -455,6 +974,73 @@ Unharmed may we be in ourselves, rich in heroes.
 तथा देवहूतिर्देवानामाह्वानं च मयि भवतु।  
 दैव्या **होतारा** देवसंबन्धिन ऋत्विजः पूर्वे त्वनादिसिद्धा वनिषन्तास्मद्यज्ञं संभजन्तु।  
 वयं च तनुवा शरीरेणारिष्टा हिंसा रहिताः सुवीराः शोभनपुत्रयुक्ताः स्याम भवाम।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May the gods bestow wealth upon me, may (their) blessing be upon me, may the sacrifice in which thegods are invoked be (beneficial) to me, may my invokers of the gods be the first to propitiate them; may we beunharmed in body and blessed with **male** offspring.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+To me let the gods bring material wealth through sacrifice. In me be the  prayer; in me the invocation to the gods.  
+The ancient divine Hotars acted with zeal. Might we be free from harm  in our body and possessed of good heroes.
+</details>
+
+<details><summary>Griffith</summary>
+
+May the Gods grant me riches; may the blessing and invocation of the Gods assist me.  
+     Foremost in fight be the divine Invokers: may we, unwounded, have brave heroes round us.
+</details>
+
+<details><summary>Keith</summary>
+
+May the gods bestow wealth upon me through sacrifice; May blessing be mine, and mine divine invocation; The divine sacrificers of old shall win for us [1];  
+Unharmed may we be in ourselves, rich in heroes.
+</details>
+
+<details><summary>Geldner</summary>
+
+Für mich sollen sich die Götter um Reichtum bitten lassen, bei mir soll das Gebet, bei mir die Götteranrufung in Erfüllung gehen. Die ersten göttlichen Opferpriester sollen Partei nehmen; wir wollen am Leib unversehrt die Meister sein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die Götter mögen Reichthum mir gewähren, bei mir sei Bitte und der Götter Anruf; Mir seien hold die alten Götterpriester, wir seien reich an Helden, ungefährdet.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Мне пусть боги дадут богатство за жертву!  
+У меня пусть будет молитва (удачной), у меня – призыв богов!  
+Пусть первые божественные хотары добьются (этого для меня)!  
+Пусть будем мы невредимы телами, с прекрасными сыновьями!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- विहव्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (देवाः) यज्ञ में आये हुए विद्वान् जन (मयि) मेरे-निमित्त (द्रविणम्) ज्ञानधन को (आ यजन्ताम्) भलीभाँति प्राप्त करावें (मयि) मेरे निमित्त (आशीः)कामपूर्ति (अस्तु) हो (मयि) मेरे निमित्त (देवहूतिः) देवों का सत्कार फल हो (पूर्वे दैव्याः-होतारः) श्रेष्ठ, परमात्मदेवसम्बन्धी उपदेश देनेवाले अध्यात्मयज्ञ के साधक (वनुषन्त) मुझे सम्भागी बनावें-स्वीकार करें (तन्वा-अरिष्टाः) यज्ञसेवन द्वारा शरीर से दुःखतापरहित (सुवीराः) सुष्ठु प्राणवाले (स्याम) होवें ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  यज्ञ में आये विद्वान् के द्वारा ज्ञान धन को प्राप्त करना चाहिये और अपनी कामनाओं की पूर्ति के साधन जानना चाहिये, परमात्मसम्बन्धी उपदेश के अपने को भागी बनावें तथा शरीर से स्वस्थ अच्छे प्राणवाले यज्ञ के सेवन से होना चाहिये ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (देवाः-मयि द्रविणम्-आ यजन्ताम्) विद्वांसो यज्ञे समागताः-मयि ‘निमित्तसप्तमी’ मन्निमित्तं ज्ञानधनम्-“द्रविणम्-विद्यादिकम्” [यजु० ८।६० दयानन्दः] आसङ्गमयन्तु समन्तात् प्रापयन्तु (मयि-आशीः-अस्तु) मन्निमित्तं कामपूर्तिर्भवतु, (मयि देवहूतिः) मन्निमित्तं देवानां सत्कारफलं भवतु (पूर्वे दैव्याः-होतारः-वनुषन्त) देवं परमात्मानं ये खलूपदिशन्ति ते पूर्वे श्रेष्ठाः दैव्या होतारोऽध्यात्मयज्ञसाधकाः मां सम्भजन्तु-स्वीकुर्वन्तु ‘वनधातोर्विकरणत्रयमत्र उ सिप्-शप्’ (तन्वा-अरिष्टाः-सुवीराः स्याम) यज्ञसेवनेन खलु वयं शरीरेण दुःखतापरहिता सुष्ठु प्राणवन्तश्च भवेम “प्राणा वै दशवीराः” [श० १२।८।१।२२] ॥३॥
 </details>
 </details>
 
@@ -522,16 +1108,6 @@ May the All-gods befriend me.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O ye six spaces divine, for us make broad room; O ye All-gods, here show your prowess;  
-May we not lose offspring nor ourselves;  
-May we not fall victims to our foe, O king Soma.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/05_devIH_ShaLurvIruru.md">
 
@@ -811,6 +1387,13 @@ Ye six divine Expanses, grant us freedom: here, all ye Gods, acquit yourselves l
      Let us not lose our children or our bodies: let us not benefit the foe, King Soma!
 </details>
 
+<details><summary>Keith</summary>
+
+O ye six spaces divine, for us make broad room; O ye All-gods, here show your prowess;  
+May we not lose offspring nor ourselves;  
+May we not fall victims to our foe, O king Soma.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr sechs göttlichen Räume, gebet uns Raum, alle Götter zeiget euch hier als Männer! Nicht möchten wir der Kinder noch des eigenen Leibes verlustigt gehen; nicht wollen wir dem Feinde erliegen, König Soma!
@@ -926,17 +1509,97 @@ And be their plotting at home ruined through thy foresight.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/54_dhAtA_dhAtRNAm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/07_dhAtA_dhAtRRNAM.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-The creator of creators, lord of the world,  
-The god Savitr overcoming enmity,  
-This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect the sacrificer from misfortune.
+- देवता - विश्वेदेवाः
+- ऋषिः - विहव्यः
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+धाता᳓ धातॄणा᳓म् भु᳓वनस्य य᳓स् प᳓तिर्  
+देवं᳓ त्राता᳓रम् अभिमातिषाह᳓म्  
+इमं᳓ यज्ञ᳓म् अश्वि᳓नोभा᳓ बृ᳓हस्प᳓तिर्  
+देवाः᳓ पान्तु य᳓जमानं निअर्था᳓त्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dhātā́ ← dhātár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhātr̥̄ṇā́m ← dhātár- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+abhimātiṣāhám ← abhimātiṣāhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devám ← devá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+trātā́ram ← trātár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+aśvínā ← aśvín- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ubhā́ ← ubhá- (pronoun)  
+{case:NOM, gender:M, number:DU}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nyarthā́t ← nyarthá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+pāntu ← √pā- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yájamānam ← √yaj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒ता धा॑तॄ॒णां भुव॑नस्य॒ यस्पति॑र्दे॒वं त्रा॒तार॑मभिमातिषा॒हम् ।  
+इ॒मं य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाः पा॑न्तु॒ यज॑मानं न्य॒र्थात् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 धा॒ता धा॑तृ॒णाम्भुव॑नस्य॒ यस्पति॑र्दे॒वँ स॑वि॒तार॑मभिमाति॒षाह॑म् ।   
 इ॒मय्ँ य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाᳶ पा॑न्तु॒ यज॑मानन्न्य॒र्थात् ।
@@ -944,12 +1607,202 @@ This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect t
 
 <details><summary>पद-पाठः</summary>
 
+धा॒ता । धा॒तॄ॒णाम् । भुव॑नस्य । यः । पतिः॑ । दे॒वम् । त्रा॒तार॑म् । अ॒भि॒मा॒ति॒ऽस॒हम् ।  
+इ॒मम् । य॒ज्ञम् । अ॒श्विना॑ । उ॒भा । बृह॒स्पतिः॑ । दे॒वाः । पा॒न्तु॒ । यज॑मानम् । नि॒ऽअ॒र्थात् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 धा॒ता । धा॒तृ॒णाम् । भुव॑नस्य । यः । पतिः॑ । दे॒वम् । स॒वि॒तार॑म् । अ॒भि॒मा॒ति॒षाह॒मित्य॑भिमाति-साह॑म् ॥ इ॒मम् । य॒ज्ञम् । अ॒श्विना॑ । उ॒भा । बृह॒स्पतिः॑ । दे॒वाः । पा॒न्तु॒ । यज॑मानम् । न्य॒र्थादिति॑ नि-अ॒र्थात् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *dhātā* ← *dhātṛ*
+- \[noun\], nominative, singular, masculine
+- “Brahma; Dhātṛ; creator; Dhātṛ.”
+
+_________
+
+- *dhātṝṇām* ← *dhātṛ*
+- \[noun\], genitive, plural, masculine
+- “Brahma; Dhātṛ; creator; Dhātṛ.”
+
+_________
+
+- *bhuvanasya* ← *bhuvana*
+- \[noun\], genitive, singular, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *patir* ← *patiḥ* ← *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *devaṃ* ← *devam* ← *deva*
+- \[noun\], accusative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *trātāram* ← *trātṛ*
+- \[noun\], accusative, singular, masculine
+- “defender; savior.”
+
+_________
+
+- *abhimātiṣāham* ← *abhimātiṣāh*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *imaṃ* ← *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+
+_________
+
+- *aśvinobhā* ← *aśvinā* ← *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+
+_________
+
+- *aśvinobhā* ← *ubhā* ← *ubh*
+- \[noun\], nominative, dual, masculine
+- “both(a).”
+
+_________
+
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
+- \[noun\], nominative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+
+_________
+
+- *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *pāntu* ← *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+
+_________
+
+- *yajamānaṃ* ← *yajamānam* ← *yajamāna*
+- \[noun\], accusative, singular, masculine
+- “Yajamāna.”
+
+_________
+
+- *nyarthāt* ← *nyartha*
+- \[noun\], ablative, singular, neuter
+- “failure.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+धातॄणाम्- धारकाणाम्। धाता- धारकः। भुवनस्य- जगतः। यः। पतिः- पालकः। तम्। देवम्-  द्योतनशीलम्। त्रातारम्- रक्षकम्। अभिमातिषाहम्- अभिमानघ्नमिन्द्रं स्तौमि। उभा- उभौ।  अश्विना- प्राणेशौ। बृहस्पतिः- मेधाधिदेवता। देवाः- इमा देवताः। इमम्- एतम्। यज्ञम्।  रक्षन्तु। यजमानम्। न्यर्थात्- निकृष्टादर्थात्। पान्तु- रक्षन्तु॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धातॄणां** स्रष्टॄणामपि **धाता** स्रष्टा **भुवनस्य** कृत्स्नस्य भूतजातस्य **यः** इन्द्रः सविता वा **पतिः** पालयिता तं **देवं** देवनशीलं **त्रातारं** सर्वेभ्यो भयेभ्यः पालयितारम् **अभिमातिषाहम्** अभिमातीनां शत्रूणां सोढारमभिभवितारम् एवंगुणविशिष्टमिन्द्रं सवितारं वा स्तौमीति शेषः ॥  ‘ षह अभिभवे । ‘ छन्दसि सहः' इति ण्विप्रत्ययः । छान्दसं विभक्त्युदात्तत्वम् ॥ **उभा** उभावश्विनौ **बृहस्पतिः** चैतत्प्रमुखाः सर्वे **देवाः** **इमं** **यज्ञम्** अनुष्ठीयमानं **यजमानं** च **न्यर्थात्** निकृष्टादर्थात् पापात् । यद्वा । अर्थस्य प्रयोजनस्याभावो न्यर्थम् । तस्मात् **पान्तु** रक्षन्तु सफलं कुर्वन्त्वित्यर्थः ॥  ‘ नेरनिधाने ' ( पा. सू. ६. २. १९२) इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 घातृणां जगत्कर्तॄणां दक्षप्रजापत्यादीनामपि धाता यः  स्रष्टा भुवनस्य लोकस्य पतिः पालकश्च।   तथाऽश्विनोमोभावश्विनौ बृहस्पतिश्चेत्येते देवा नोऽस्मदीयमिमं यज्ञं यजमानं च न्यर्थात्फलवैगुण्यलक्षणाद्वैयर्थ्यात्पान्तु रक्षन्तु।   कीदृशं यज्ञम्, देवं तत्तन्मन्त्रव्यवहारयुक्तं सवितारं महाफलजनकमभिमातिषाहं पापलक्षणस्याभिमातेररेरमिभवितारम्।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The creator of creators, he who is the protector of the universe, (him I praise), the divine defender, thedestroyer of enemies; may the two **Aśvins**, **Bṛhaspati**, and the gods, protect this sacrifice, and save the sacrificerfrom disappointment.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He who is the Ordainer of Ordainers, the lord of creation—him, the god  Rescuer, who vanquishes hostility (do I invoke). Let both the Aśvins and Br̥haspati (protect) this sacrifice here; let the  gods protect the sacrificer from failure.
+</details>
+
+<details><summary>Griffith</summary>
+
+Lord of the world, Creator of creators the saviour God who overcomes the foeman.  
+     May Gods, Brhaspati, both Asvins shelter from ill thii sacrifice and sacrificer.
+</details>
+
+<details><summary>Keith</summary>
+
+The creator of creators, lord of the world,  
+The god Savitr overcoming enmity,  
+This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect the sacrificer from misfortune.
+</details>
+
+<details><summary>Geldner</summary>
+
+Der der Schöpfer der Schöpfer, der Welt Gebieter ist, den Gott Schützer, der die Anschläge bemeistert, rufe ich. Beide Asvin, Brihaspati sollen dies Opfer, die Götter den Opfernden vor Mißerfolg behüten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Schöpfer Schöpfer, er der Herr der ganzen Welt, der Gott, der rettet, und die Gegner übermannt, Brihaspati, die Ritter und die Götterschar beschirm dies Opfer und den Opfrer vor Verderb.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+(Я призываю того,) кто установитель установителей, господин вселенной,  
+Бога спасителя, отражающего атаки.  
+Пусть эту жертву оба Ашвина (и) Брихаспати,  
+(А) боги – жертвователя защитят от неудачи!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- विहव्यः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यः) जो (धातॄणाम्)पृथिवी सूर्यादि धारकों का भी (धाता) धारक-धारण करनेवाला है (भुवनस्य पतिः) जगत् का स्वामी है (त्रातारं देवम्) उस त्राण करनेवाले देव (अभिमातिषाहम्) अभिमानियों पर अधिकार करनेवाले परमात्मा की स्तुति करता हूँ (उभा-अश्विना) दोनों दिन रात या अध्यापक और उपदेशक (बृहस्पतिः) सूर्य या विद्यासूर्य-आचार्य (देवाः) ये सब देव (यज्ञं यजमानम्) यज्ञ और यजमान की (न्यर्थात्) पाप से (पान्तु) रक्षा करें ॥७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा पृथिवी सूर्य आदि धारक पिण्डों का भी धारण करनेवाला है, वह दुःखों से त्राण करनेवाला और दुःखद अभिमानियों को दबानेवाला है, उसके रचे दिन, रात, सूर्य और अन्य देव या अध्यापक, उपदेशक या आचार्य ये भी रक्षा करनेवाले हैं ॥७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यः धातॄणां धाता) यः पृथिवी-सूर्यादीनां धारकाणामपि धारकः (भुवनस्य पतिः) जगतः-स्वामी (देवं त्रातारम्-अभिमातिषाहम्) तं देवं रक्षकं तथाऽभिमानिनोऽभिभवितारं परमात्मानं स्तौमि-इति शेषः (उभा-अश्विना बृहस्पतिः-देवाः-यज्ञं यजमानं न्यर्थात्-पान्तु) उभावश्विनौ परमात्मना रचितावहोरात्रौ सूर्यश्च यद्वा-अध्यापकोपदेशकौ, विद्या सूर्यः-इत्येते देवाः पापात् यज्ञं यजमानं च रक्षन्तु ॥७॥
 </details>
 </details>
 
@@ -975,15 +1828,6 @@ This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect t
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-May the bull, wide extending, afford us protection rich in food, He much invoked in this invocation;  
-O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon not us.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/08_uruvyachA_no.md">
 
@@ -1280,6 +2124,12 @@ Foodful, and much-invoked, at this our calling may the great Bull vouchsafe us w
      Lord of Bay Coursers, Indra, blew our children: harm us not, give us riot as prey to others.
 </details>
 
+<details><summary>Keith</summary>
+
+May the bull, wide extending, afford us protection rich in food, He much invoked in this invocation;  
+O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon not us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der umfängliche Büffel soll uns Zuflucht gewähren bei diesem Anruf, der Vielgerufene, Viehreiche. Sei unseren Kindern gnädig, o Falbenherr; schädige uns nicht, Indra, gib uns nicht preis!
@@ -1344,16 +2194,6 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-May our rivals depart;  
-With Indra and Agni we overthrow them;  
-The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/128/09_ye_naH.md">
 
@@ -1754,6 +2594,13 @@ Let those who are our foemen stay. afar from us: with Indra and with Agni we wil
      Vasus, Adityas, Rudras have exalted me, made me far-reaching, inighty, thinker, sovran lord.
 </details>
 
+<details><summary>Keith</summary>
+
+May our rivals depart;  
+With Indra and Agni we overthrow them;  
+The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
+</details>
+
 <details><summary>Geldner</summary>
 
 Unsere Nebenbuhler sollen sich wegheben, mit Indra und Agni unterdrücken wir sie. Die Vasu´s, Rudra´s, Aditya´s haben mich zum überragenden, zum gewaltigen Meister und Oberherrn gemacht.
@@ -1831,13 +2678,21 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 Hitherward do we summon Indra from thence,  
 Him who is winner of cows, of booty, and winner too of horses; Do thou accept this sacrifice at our invocation;  
-Ally of it we make thee, O lord of the bays.  
+Ally of it we make thee, O lord of the bays.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः ।   
 इ॒मन्नो॑ य॒ज्ञव्ँवि॑ह॒वे जु॑षस्वा॒स्य कु॑र्मो हरिवो मे॒दिन॑न्त्वा ॥ [32]
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे ।  
+यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः ॥22॥  
+इ॒मन्नो॑ य॒ज्ञव्ँ वि॑ह॒वे जु॑षस्व ।  
+अ॒स्य कु॑र्मो हरिवो मे॒दिन॑न्त्वा ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1845,9 +2700,19 @@ Ally of it we make thee, O lord of the bays.
 अ॒र्वाञ्च॑म् । इन्द्र॑म् । अ॒मुतः॑ । ह॒वा॒म॒हे॒ । यः । गो॒जिदिति॑ गो-जित् । ध॒न॒जिदिति॑ धन-जित् । अ॒श्व॒जिदित्य॑श्व-जित् । यः ॥ इ॒मम् । नः॒ । य॒ज्ञम् । वि॒ह॒व इति॑ वि-ह॒वे । जु॒ष॒स्व॒ । अ॒स्य । कु॒र्मः॒ । ह॒रि॒व॒ इति॑ हरि-वः॒ । मे॒दिन॑म् । त्वा॒ ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+अर्वा᳓ञ्चम् । इ᳓न्द्रम् । अमु᳓तः । हवामहे । यः᳓ । गो-जि᳓त् । धन-जि᳓त् । अश्व-जि᳓त् । यः᳓ । इम᳓म् । नः । यज्ञ᳓म् । वि-हवे᳓ । जुषस्व । अस्य᳓ । कुर्मः । हरिवः । मेदि᳓नम् । त्वा ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 य इन्द्रो गोजित्परकीयगवां जेता, तथा यो धनजित्परकीयधनस्य जेता, योऽश्वजीत्परकीयाश्वानां जेताऽस्ति, अर्वाञ्चमस्मदभिमुखं तमिन्द्रममुतोऽमुं यज्ञं निमित्तीकृत्य हवामह आह्वयामः।   हे इन्द्र विहवे विविधाह्वाने सति नोऽस्मदीयमिमं यज्ञं जुषस्व सेवस्य।   हरिनामकावश्वौ यस्य स हरिवान्।   हे हरिव इन्द्र त्वामस्य यजमानस्य **मेदिनं** स्नेहवन्तं कुर्मः।
+</details>
+
+<details><summary>सायण-टीका (ब्राह्मणी)</summary>
+
+अर्वाञ्चमस्मदभिमुखमिन्द्रममुतः स्वर्गादाह्वयामः । य इन्द्रो गोजित् शत्रुसंबन्धिनीर्गा जयेत संपादयति । यश्च तथैव धनजिदश्वजिच्च, तमिन्द्रं हवामहे इति पूर्वत्रैवान्वयः । हं हरिवः! हरिनामकाभ्यामश्वाभ्यां युक्तेन्द्र! विहवे विविधाह्वाने सत्यस्मदीयमिमं यज्ञं जुषस्व सेवस्व । अस्यानेन यज्ञेन त्वां मेदिनं स्निग्धशरीरं कुर्मः । एते ऋचौ कस्मिंश्चिज्जयहेतावैन्द्रे हविषि याज्यानुवाक्ये द्रष्टव्ये ॥
 </details>
 </details>
 

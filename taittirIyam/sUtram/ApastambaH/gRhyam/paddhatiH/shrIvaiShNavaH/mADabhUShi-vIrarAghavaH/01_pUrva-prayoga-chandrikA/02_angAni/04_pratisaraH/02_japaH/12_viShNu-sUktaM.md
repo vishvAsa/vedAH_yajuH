@@ -1757,10 +1757,23 @@ urukṣitím ← urukṣití- (nominal stem)
 ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकार ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+विच॑क्रमे पृथि॒वीमे॒ष ए॒ताम् ।  
+क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे दश॒स्यन् ।  
+ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑सः ।  
+उ॒रु॒क्षि॒तिँ सु॒जनि॑मा चकार ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि । च॒क्र॒मे॒ । पृ॒थि॒वीम् । ए॒षः । ए॒ताम् । क्षेत्रा॑य । विष्णुः॑ । मनु॑षे । द॒श॒स्यन् ।  
 ध्रु॒वासः॑ । अ॒स्य॒ । की॒रयः॑ । जना॑सः । उ॒रु॒ऽक्षि॒तिम् । सु॒ऽजनि॑मा । च॒का॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+वि᳓ । चक्रमे । पृथिवी᳓म् । एषः᳓ । एता᳓म् । क्षे᳓त्राय । वि᳓ष्णुः । म᳓नुषे । दशस्य᳓न् । ध्रुवा᳓सः । अस्य । कीर᳓यः । ज᳓नासः । उरु-क्षिति᳓म् । सु-ज᳓निमा । चकार ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1894,6 +1907,11 @@ _________
 **एषः** देवः **विष्णुः** **एतां** **पृथिवीं** पृथिव्यादीनिमांस्त्रील्ँलोकान् **क्षेत्राय** निवासार्थं **मनुषे** स्तुवते देवगणाय **दशस्यन्** असुरेभ्योऽपहृत्य प्रदास्यन् **वि** **चक्रमे** विक्रान्तवान् । **अस्य** च विष्णोः **कीरयः** स्तोतारः **जनासः** जनाः **ध्रुवासः** निश्चला भवन्ति । ऐहिकामुष्मिकयोर्लाभेन स्थिरा भवन्तीत्यर्थः । **सुजनिमा** शोभनानि जनिमानि कीर्तनस्मरणादिना सुखहेतुभूतानि यस्य तादृशो विष्णुः **उरुक्षितिं** विस्तीर्णनिवासं **चकार** स्तोतृभ्यः करोति ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एष विष्णुः पृथिवीमेतां पृथिव्युपलक्षितमिदं लोकत्रयं विचक्रमे विशेषेण पादैराक्रान्तवान् । किं कुर्वन्, मनुषे मनुष्याणां क्षेत्राय निवासार्थं दशस्यन् प्रदातुमिच्छन् । अस्य विष्णोः कीरयो जनासः कीर्तिपरा जनाः ध्रुवासः स्थिरा भवन्ति । स विष्णुः पुनः सुजनिमा शोभनेन वामनरूपेण जन्मना युक्त उरुक्षितिं प्राणिनां निवासाय विस्तीर्णं स्थानं चकार ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1916,7 +1934,10 @@ Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has ma
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+</details>
 
 </details>
 </div>
@@ -2085,10 +2106,23 @@ tveṣám ← tveṣá- (nominal stem)
 प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान्त्वे॒षं ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+त्रिर्दे॒वᳶ पृ॑थि॒वीमे॒ष ए॒ताम् ।  
+विच॑क्रमे श॒तर्च॑सम्महि॒त्वा ।  
+प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान् ।  
+त्वे॒षँ ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥25॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रिः । दे॒वः । पृ॒थि॒वीम् । ए॒षः । ए॒ताम् । वि । च॒क्र॒मे॒ । श॒तऽअ॑र्चसम् । म॒हि॒ऽत्वा ।  
 प्र । विष्णुः॑ । अ॒स्तु॒ । त॒वसः॑ । तवी॑यान् । त्वे॒षम् । हि । अ॒स्य॒ । स्थवि॑रस्य । नाम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+त्रिः᳓ । देवः᳓ । पृथिवी᳓म् । एषः᳓ । एता᳓म् । वि᳓ । चक्रमे । शत᳓-र्चसम् । महि-त्वा᳓ । प्र᳓ । वि᳓ष्णुः । अस्तु । तव᳓सः । त᳓वीयान् । त्वेष᳓म् । हि । अस्य । स्थ᳓विरस्य । ना᳓म ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2220,6 +2254,11 @@ _________
 **एषः** **देवः** दानादिगुणयुक्तो विष्णुः **शतर्चसं** शतसंख्यान्यर्चींषि यस्यास्तादृशम् **एतां** **पृथिवीम्** । उपलक्षणमेतत् । पृथिव्यादींस्त्रील्ँलोकान् महित्वा महत्त्वेन **त्रिः** **वि** **चक्रमे** त्रिभिः पदैर्विक्रान्तवान् । **तवसः** तवस्विनो वृद्धादपि **तवीयान्** तवस्वितरः **विष्णुः** **प्र** **अस्तु** अस्माकं प्रभवतु स्वामी भवतु। **अस्य** **स्थविरस्य** वृद्धस्य विष्णोः **नाम** नामकं रूपं विष्णुरित्येतन्नामैव वा **त्वेषं** **हि** यस्माद्दीप्तं तस्मात्कारणात् स विष्णुः प्रभवत्वित्यर्थः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एष विष्णुर्देवः शतर्चसं शतविधगतियुक्तामेतां पृथिवीं पृथिव्युपलक्षितलोकत्रयं महित्वा स्वमहिम्ना त्रिविचक्रमे त्रिवारं पादेनाक्रान्तवान् । तवसस्तवीयान् महतो महीयान् विष्णुः प्रास्तु प्रकृष्टो भवतु । स्थविरस्यात्यन्तं प्रवृद्धस्यास्य विष्णोर्नाम त्रिविक्रमादिरूपं त्वेषं हि प्रदीप्तं प्रसिद्धमित्यर्थः । उक्तानां मन्त्राणां 'वैष्णवं वामनमालभेत' इत्येतस्य पशोः सूक्ते प्रतीकान्याम्नातानि, 'प्र तद्विष्णुः, विचक्रमे त्रिर्देवः' इति । 'नु मर्तः' इति मन्त्रस्तु 'प्र तद्विष्णुः' इत्यनेन सह विकल्प्यते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -2243,7 +2282,10 @@ name of this stalwart one.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
-As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+<details><summary>Jamison Brereton Notes</summary>
+
+As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
+</details>
 
 </details>
 </div>

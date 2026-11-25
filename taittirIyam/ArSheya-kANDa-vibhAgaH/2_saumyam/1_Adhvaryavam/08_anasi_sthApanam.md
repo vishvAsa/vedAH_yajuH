@@ -84,6 +84,7 @@ Up have I arisen along with the immortals.
 
 <details><summary>सायण-टीका</summary>
 
+
 अमृतान् देवान् अनुलक्ष्यायुर्-आदि-विशेषण-विशिष्टेन सोमेन सहोद् अस्थाम् उत्तिष्ठामीति। जीवनम् आयुः। तत्रापि रोगाद्य्-उपद्रव-रहितं स्वायुः। तद् उभय-प्रदत्वात् सोमस्य तद् उभय-रूपत्वम्। ओषधीनां पर्जन्यस्य च सोमः सार् इतरौषधि-वद् भूमि-विशेषे जायमानत्वाद् वृष्ट्या वर्धमानत्वाच् च। चतुर्भिर् विशेषणैः पृथक्-क्रिया-पदम् अन्वेतुं चत्वार उद्-शब्दाः।
 
 अमृत-शब्दानु-शब्दयोर् अर्थम् आह —
@@ -126,7 +127,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
+उर्व् अ᳙न्त᳓रिक्षम् अ᳓न्विहि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -331,22 +332,95 @@ ________
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/042/01_astabhnAddyAmasuro_vishvavedA.md">
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>Keith</summary>
-
-The bull hath stablished the sky, the atmosphere;  
-Hath meted the breadth of the earth;  
-Hath set him in all worlds as king.  
-All these are Varuna's ordinances.
+- देवता - वरुणः
+- ऋषिः - नाभाकः काण्वः अर्चनाना वा
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम् (संयुक्तम्)</summary>
+<details><summary>Thomson & Solcum</summary>
 
-अस्त॑भ्ना॒द् द्यामृ॑ष॒भो अ॒न्तरि॑क्ष॒ममि॑मीत वरि॒माण॑म्पृथि॒व्या आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि
+अ᳓स्तभ्नाद् द्या᳓म् अ᳓सुरो विश्व᳓वेदा  
+अ᳓मिमीत वरिमा᳓णम् पृथिव्याः᳓  
+आ᳓सीदद् वि᳓श्वा भु᳓वनानि सम्रा᳓ड्  
+वि᳓श्वे᳓त् ता᳓नि व᳓रुणस्य व्रता᳓नि
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ástabhnāt ← √stambhⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dyā́m ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ámimīta ← √mā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+varimā́ṇam ← varimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+asīdat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+samrā́ṭ ← samrā́j- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+tā́ni ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+váruṇasya ← váruṇa- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+vratā́ni ← vratá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्त॑भ्ना॒द्द्यामसु॑रो वि॒श्ववे॑दा॒ अमि॑मीत वरि॒माणं॑ पृथि॒व्याः ।  
+आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अस्त॑भ्ना॒द्द्यामृ॑ष॒भो अ॒न्तरि॑क्ष॒म्   
 अमि॑मीत वरि॒माण॑म्पृथि॒व्याः ।   
@@ -356,8 +430,137 @@ All these are Varuna's ordinances.
 
 <details><summary>पद-पाठः</summary>
 
+अस्त॑भ्नात् । द्याम् । असु॑रः । वि॒श्वऽवे॑दाः । अमि॑मीत । व॒रि॒माण॑म् । पृ॒थि॒व्याः ।  
+आ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्ऽराट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 अस्त॑भ्नात् । द्याम् । ऋ॒ष॒भः । अ॒न्तरि॑क्षम् । अमि॑मीत । व॒रि॒माण॑म् । पृ॒थि॒व्याः ।   
-एति॑ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्राडिति॑ सम्-राट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ । 
+एति॑ । अ॒सी॒द॒त् । विश्वा॑ । भुव॑नानि । स॒म्राडिति॑ सम्-राट् । विश्वा॑ । इत् । तानि॑ । वरु॑णस्य । व्र॒तानि॑ ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *astabhnād* ← *astabhnāt* ← *stambh*
+- \[verb\], singular, Imperfect
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+
+_________
+
+- *dyām* ← *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *asuro* ← *asuraḥ* ← *asura*
+- \[noun\], nominative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+
+_________
+
+- *viśvavedā* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvavedā* ← *vedāḥ* ← *vedas*
+- \[noun\], nominative, singular, masculine
+- “knowledge.”
+
+_________
+
+- *amimīta* ← *mā*
+- \[verb\], singular, Imperfect
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+
+_________
+
+- *varimāṇam* ← *variman*
+- \[noun\], accusative, singular, masculine
+- “width; size.”
+
+_________
+
+- *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *āsīdad* ← *āsīdat* ← *āsad* ← *√sad*
+- \[verb\], singular, Imperfect
+- “approach; attack; sit down; approach; find; arrive.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *bhuvanāni* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *samrāḍ* ← *samrāj*
+- \[noun\], nominative, singular, masculine
+- “sovereign; ruler.”
+
+_________
+
+- *viśvet* ← *viśvā* ← *viśva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvet* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *tāni* ← *tad*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *varuṇasya* ← *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+
+_________
+
+- *vratāni* ← *vrata*
+- \[noun\], nominative, plural, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+असुरः- प्राणदः। द्याम्- नभः। अस्तभ्नात्- स्तम्भनं कृतवान्। विश्ववेदाः- सर्वज्ञः। पृथिव्याः-  भूम्याः। वरिमाणम्- परिमाणम्। अमिमीत- निर्ममे। सम्राट्- स्वामी। विश्वा भुवनानि-  सर्वजगन्ति। आ असीदत्- अध्यतिष्ठत्। विश्वा- सर्वाणि। इत्- एव। तानि। वरुणस्य।  व्रतानि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्ववेदाः** विश्वधनः **असुरः** बलवान् वरुणः **द्याम्** **अस्तभ्नात्** । तथा **पृथिव्याः** च **वरिमाणं** परिमाणम् **अमिमीत** चक्रे । एवं निर्मितानि **विश्वा** सर्वाणि **भुवनानि** **सम्राट्** भूत्वा **आसीदत्** च अध्यतिष्ठच्च । **वरुणस्य** **तानि** एतानि **व्रतानि** कर्माणि **विश्वेत्** विश्वान्येव । अतो वर्णयितुमशक्यानीत्यर्थः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -384,6 +587,74 @@ All these are Varuna's ordinances.
 उपनद्धः सोमो वरुणो यद्-विषये 'मित्रो न एहीति' मन्त्रं पठन् मैत्रं करोतीति यद् अस्ति, एतैनैनं सोमं व्य्-अर्धयति समृद्धि-हीनं करोति, वारुण्य् ऋचा तु समर्धयति।
 </details>
 
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The possessor of all wealth, the powerful **Varuṇa**, has fixed the heaven; he has meted the measure ofthe earth; he presides as supreme monarch over all worlds; these all are the functions of Varuṇa”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He propped up heaven—the lord who possesses all possessions—he  measured out the expanse of the earth;  
+the sovereign king made all the living worlds his seat. All these are the  commandments of Varuṇa.
+</details>
+
+<details><summary>Griffith</summary>
+
+LORD of all wealth, the Asura propped the heavens, and measured out the broad earth's wide expanses.  
+     He, King supreme, approached all living creatures. All these are Varuna's holy operations.
+</details>
+
+<details><summary>Keith</summary>
+
+The bull hath stablished the sky, the atmosphere;  
+Hath meted the breadth of the earth;  
+Hath set him in all worlds as king.  
+All these are Varuna's ordinances.
+</details>
+
+<details><summary>Geldner</summary>
+
+Der allwissende Asura hat den Himmel gestützt und die Ausdehnung der Erde abgemessen. Alle Welten nahm der Oberkönig in Besitz. All dies sind Varuna´s Obliegenheiten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; In alle Wesen senkte sich der Allherr; das alles ist durch Varuna vollendet.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Он укрепил небо, (этот) всеведущий Асура,  
+Он измерил протяженность земли.  
+Он завладел всеми мирами как вседержитель.  
+Всё ведь это заветы Варуны.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- नाभाकः काण्वः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  पुनः वरुण का वर्णन करते हैं, (सः) वह वरुण (समुद्रः) समुद्र है अर्थात् जिससे समस्त प्राणी उत्पन्न हों, वह समुद्र। यद्यपि सकल जगद्योगि वह है, तथापि प्रत्यक्ष नहीं, किन्तु (अपीच्यः) सबके मध्य में स्थित है, पुनः (तुरः) सर्व सूर्य्यादि देवों से शीघ्रगामी है पुनः (द्याम्+इव) जैसे सूर्य आकाश में क्रमशः चढ़ता है, तद्वत् वह सबके हृदय में आरूढ़ है। (यद्) जो वरुण (आसु) इन प्रजाओं में (यजुः) दान (नि+दधे) देता है और (सः) वह (मायाः) दुष्टों की कपटताओं को (अर्चिना) ज्वालायुक्त (पदा) पद से (अस्तृणात्) नष्ट कर देता है। वह भगवान् (नाकम्) सुखमय स्थान में (आरुहत्) रहता है ॥८॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - भावार्थः</summary>
+
+भावार्थभाषाः -  जिस कारण वह कपटता नहीं चाहता, अतः निष्कपट होकर उसकी उपासना करो और उसको अपने-२ हृदय में देखो ॥८॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  स वरुणः। समुद्रोऽस्ति=यस्मात् समभिद्रवन्ति भूतानि। तथापि सः। अपीच्यः=सर्वेषां पदार्थानामन्तर्हितोऽस्ति। पुनः। तुरः सर्वेभ्यः शीघ्रतरगामी। सूर्य्या द्यामिव। स सर्वत्र। रोहति। यद्=यश्च पुनः। आसु=प्रजासु। यजुर्दानम्। निदधे। पुनः। सः। माया दुष्टानां कापटानि। अर्चिना=अर्चिष्मता तेजस्विना। पदा=चरणेन। अस्तृणात्=हिनस्ति। स नाकं सुखमयस्थानम्। आरुहत्=प्राप्तोऽस्ति। व्याख्यातमन्यत् ॥८॥
+</details>
 </div>  
 
 ________
@@ -576,6 +847,12 @@ víśvāya ← víśva- (nominal stem)
 दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उदु॒त्यञ्जा॒तवे॑दसन्दे॒वव्ँव॑हन्ति के॒तवः॑ ।    
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । ऊं॒ इति॑ । त्यम् । जा॒तऽवे॑दसम् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ।  
@@ -594,6 +871,12 @@ víśvāya ← víśva- (nominal stem)
 दृ॒शे। विश्वा॑य। सूर्य्य॑म्। १।
 
 उत्। उ। त्यम्। जातवेदसम्। देवम्। वहन्ति। केतवः। दृ॒शे। विश्वा॑य। सूर्य्य॑म्। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उदिति॑ । उ॒ । त्यम् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ॥   
+दृ॒शे । विश्वा॑य । सूर्य॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -770,6 +1053,13 @@ ___________
 स्वरति स्वर- यतीति "स्वरुः ६ पर-तत्त्व-प्रकाशकशब्द प्रदाता इन्द्रः सखा चेत् किं न्वसाध्यमित्य् अर्थः ।। २४ ।।
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥
+
+'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब सूर्यमण्डल कैसा है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -916,26 +1206,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-उदु॒त्यञ्जा॒तवे॑दसन्दे॒वव्ँव॑हन्ति के॒तवः॑ ।    
-दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-उदिति॑ । उ॒ । त्यम् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ॥   
-दृ॒शे । विश्वा॑य । सूर्य॑म् ॥ 
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥
-</details>
-</details>
 
 ________
 <details><summary>सर्वा अवतारिकाः</summary>

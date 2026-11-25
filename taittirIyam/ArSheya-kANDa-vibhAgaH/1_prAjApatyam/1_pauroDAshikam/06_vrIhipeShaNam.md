@@ -10,16 +10,20 @@ title = "०६ व्रीहिपेषणम्"
 ____
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वधूतँ र᳓क्षो᳓ऽवधूता अ᳓रातयः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -40,7 +44,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
@@ -48,12 +52,16 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 </div>
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवस्तृणाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -61,6 +69,8 @@ ____
 अ᳓दित्यास् त्व᳓गसि ।  
 प्र᳓ति +++(तादृशीं)+++ त्वा+++(ं)+++ पृथिवी᳓ +++(स्वस्या उपरि)+++ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,7 +98,7 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,13 +275,14 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -304,7 +315,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,12 +448,18 @@ ____
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/01/20_dIrghAm_anu_prasitim.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीर्घा᳓म् अ᳓नु +++(बाह्वोः)+++ प्र᳓सितिम्+++(=प्रबन्धम्)+++ आ᳓युषे धाम्+++(=दधामि)+++  ।
+दीर्घा᳓म् अ᳓नु प्र᳓सितिम् आ᳓युषे धाम्
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+May I impart to life a long extension.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -451,12 +468,66 @@ May I extend for long the life (of the sacrificer).
 
 <details><summary>मूलम्</summary>
 
-दी॒र्घामनु॒ प्रसि॑ति॒मायु॑षे धाम्  ।
+दी॒र्घामनु॒ प्रसि॑ति॒मायु॑षे धाम्
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
-दी॒र्घाम् । अन्विति॑ । प्रसि॑ति॒मिति॒ प्र-सि॒ति॒म् । आयु॑षे । धा॒म् । 
+दी॒र्घाम्। अनु॑। प्रसि॑तिमिति॒ प्रऽसि॑तिम्। आयु॑षे। धा॒म्।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+दी॒र्घाम्। अनु॑। प्रसि॑तिमिति॒ प्रऽसि॑तिम्। आयु॑षे। धा॒म्।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+दी॒र्घाम् । अन्विति॑ । प्रसि॑ति॒मिति॒ प्र-सि॒ति॒म् । आयु॑षे । धा॒म् ।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+प्रसयनं प्रसितिः।
+
+‘षिञ् बन्धने’।
+
+प्रबन्धः कर्मसंततिः।
+
+दीर्घामविच्छिन्नां प्रसितिमनु कर्मसंततिमनुलक्ष्य।
+
+आयुषे यजमानस्यायुरभिवृद्ध्यर्थं हे हविः, त्वां धां कृष्णाजिने दधामि।
+
+दधातेर्लुङि
+
+अडागमाभावः।
+
+यजमानस्यायुर्वृद्धौ सत्यां कर्मसन्ततिः प्रवर्तत इति भावः।
+
+यद्वायमर्थः।
+
+पूर्वमन्त्रैर्हविषः प्राणादिदानेन सजीवत्वं कृतम्, अनेन पुनरायुर्दीयते हविषः।
+
+हे हविः, दीर्घां प्रसितिं कृष्णाजिनाख्यामनु त्वां धां धारयामि।
+
+कृष्णाजिने प्रक्षिपामीत्यर्थः।
+
+किमर्थम्।
+
+आयुषे त्वदीयायुर्वृद्ध्यर्थम्।
+
+‘प्रसितिः प्रसयनात् तन्तुर्वा जालं वा’ (निरु० ६। १२) इति यास्कोक्तेरिह पिष्टग्राहकत्वात्प्रसितिशब्देन कृष्णाजिनमुच्यते।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+एतेषां जीवनायेत्येतत् कृष्णाजिने प्रक्षिपति - 'दीर्घाम् अनु प्रसितिम्' इति ।
+
+षिञ् बन्धने इत्य् अस्य रूपं प्रसितिमि - (? रि ) ति ।
+
+प्रसितिशब्देनेह कृष्णाजिनम् अभिधीयते, न कपालादि ।
+
+आयुषे आयुर्दानाय दीर्घा बृहतीं कृष्णाजिनाख्यां प्रसितिम् "अनु "धां दधामि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -464,6 +535,7 @@ May I extend for long the life (of the sacrificer).
 प्रसितिः प्रबन्धः कर्मसन्तानः । षिञ् बन्वने, 'तादौ च निति कृत्यतौ' (पा.सू. 6.2.50) इति पूर्वपदप्रकृतिस्वरत्वम् । दीर्घामविच्छिन्नां प्रसितिमनु युवां धां दधामि अविच्छिन्नेन कर्मसन्तानेन युवां सम्बध्नामि । 'तृतीयार्थे' (पा.सू. 1.4.85) इत्यनोः कर्मप्रवचनीयत्वम् । धामिति दधातेर्लेट्, 'इतश्च लोपः परस्मैपदेषु', (पा.सू. 3.4.97), 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक् । आयुषे आयुरर्थं, यजमानस्याविच्छिन्नमायुर्भूयादिति । यद्वा - आयुरन्नं पुरोडाशलक्षणं, तत्सिद्ध्यर्थम् ॥
 </details>
 </details>
+</div>
 
 ____
 
@@ -476,11 +548,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,7 +574,7 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

@@ -26,17 +26,6 @@ title = "१७ 'आशुश्शिशानः'"
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Swift, like a bull sharpening his horns, the warrior  
-Fond of slaughter, disturber of the people,  
-Bellowing, unwinking, sole hero,  
-Indra at once conquered a hundred hosts.
-</details>
-</details>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/01_AshuH_shishAno.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
@@ -277,6 +266,14 @@ SWIFT, rapidly striking, like a bull who sharpens his horns, terrific, stirring 
      With eyes that close not, bellowing, Sole Hero, Indra. subdued at once a hundred armies.
 </details>
 
+<details><summary>Keith</summary>
+
+Swift, like a bull sharpening his horns, the warrior  
+Fond of slaughter, disturber of the people,  
+Bellowing, unwinking, sole hero,  
+Indra at once conquered a hundred hosts.
+</details>
+
 <details><summary>Geldner</summary>
 
 Rasch, die Waffe wetzend wie ein furchtbarer Stier die Hörner, immer dreinschlagend, Aufrührer der Völker, Heerrufer, die Augen offen haltend, der einzige Held, hat Indra auf einmal hundert Heerhaufen besiegt.
@@ -345,17 +342,6 @@ Der schnelle, der gleich wildem Stier erregt ist, der starke Kämpfer, der die M
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-With the bellowing, unwinking, conquering,  
-Fighter, hard to overthrow, and daring Indra,  
-With Indra do ye conquer, do ye withstand  
-The foe, O heroes, with the strong one who holdeth the arrow in his hands.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/02_saMkrandanenAnimiSheNa_jiShNunA.md">
 
@@ -713,6 +699,14 @@ With him loud-roaring, ever watchful, Victor, bold, hard to overthrow, Rouser of
      Indra. the Strong, whose hand bears arrows, conquer, ye warriors, now, now vanquish in the combat.
 </details>
 
+<details><summary>Keith</summary>
+
+With the bellowing, unwinking, conquering,  
+Fighter, hard to overthrow, and daring Indra,  
+With Indra do ye conquer, do ye withstand  
+The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
+
 <details><summary>Geldner</summary>
 
 Zusammen mit dem Heerrufer, der die Augen offen haltend, dem siegreichen, streitbaren, unentwegten, kühnen, mit Indra gewinnet jetzt, bestehet jetzt die Kämpfe, ihr Männer, mit dem Bullen, der den Pfeil in der Hand hat!
@@ -768,16 +762,6 @@ Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt vo
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-He is mighty with those who have arrows in their hands and quivers, Indra who joineth hosts with his band,  
-Conquering in combat, drinker of Soma, with many a band,  
-With bow uplifted, and shooter with well-drawn arrows.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/03_sa_iShuhastaiH.md">
 
@@ -1038,6 +1022,13 @@ He rules with those who carry shafts and quivers, Indra who with his band rings 
      Foe-conquering, strong of arm, the Soma-drinker, with mighty bow, shooting with well-laid arrows.
 </details>
 
+<details><summary>Keith</summary>
+
+He is mighty with those who have arrows in their hands and quivers, Indra who joineth hosts with his band,  
+Conquering in combat, drinker of Soma, with many a band,  
+With bow uplifted, and shooter with well-drawn arrows.
+</details>
+
 <details><summary>Geldner</summary>
 
 Er ist mit seinen Pfeilträgern, er mit den Köchergewappneten, er mit seinem Gefolge der Gebieter Indra, der in Kämpfe verwickelt, und die in Kämpfe verwickelten besiegt, der Somatrinker, der auf seine Arme pocht, mit gewaltigem Bogen, der Schütze mit den aufgelegten Pfeilen.
@@ -1096,17 +1087,6 @@ Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O Brhaspati, fly round with thy chariot [1],  
-Slaying the foe, driving away the enemy;  
-Defeating hosts, destroyer, victor in battle,  
-Be thou protector of our chariots.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/04_bRhaspate_pari.md">
 
@@ -1478,6 +1458,14 @@ Brhaspati, fly with thy chariot hither, slayer of demons, driving off our foemen
      Be thou protector of our cars, destroyer, victor in battle, breaker-up of armies.
 </details>
 
+<details><summary>Keith</summary>
+
+O Brhaspati, fly round with thy chariot [1],  
+Slaying the foe, driving away the enemy;  
+Defeating hosts, destroyer, victor in battle,  
+Be thou protector of our chariots.
+</details>
+
 <details><summary>Geldner</summary>
 
 Brihaspati, fliege mit deinem Wagen umher, die Unholde tötend, die Feinde vertreibend, die Heere durchbrechend, zerschmetternd, im Kampfe siegend sei du der Helfer unserer Wagen!
@@ -1541,16 +1529,6 @@ Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjag
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-The cleaver of the cowstalls, finder of the cows, with the thunderbolt on his arm, Victorious, crushing in might a host,  
-Be heroes, O my fellows, like him;  
-O comrades, follow in Indra's footsteps.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/06_gotrabhidaM_govidaM.md">
 
@@ -1965,6 +1943,13 @@ Cleaver of stalls, kine-winner, armed with thunder, who quells an army and with 
      Follow him, brothers! quit yourselves like heroes, and like this Indra show your zeal and courage.
 </details>
 
+<details><summary>Keith</summary>
+
+The cleaver of the cowstalls, finder of the cows, with the thunderbolt on his arm, Victorious, crushing in might a host,  
+Be heroes, O my fellows, like him;  
+O comrades, follow in Indra's footsteps.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der die Kuhställe aufsprengt, die Rinder ausfindig macht mit der Keule im Arm, der das Rennen gewinnt, mit Kraft zermalmt, ihm tut es an Tapferkeit gleich, ihr Clangenossen; an Indra haltet euch fest, ihr Freunde!
@@ -2028,17 +2013,6 @@ Der blitzbewehrt den Stall erschliesst, die Kühe erringt und Bahn sich bricht m
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Conspicuous by might, strong, heroic,  
-Enduring, mighty, steadfast, dread,  
-Surpassing heroes and warriors born of strength,  
-Do thou, winning kine, mount, O Indra, thy victorious car.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/05_balavijnAyaH_sthaviraH.md">
 
@@ -2452,6 +2426,14 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
      The Son of Conquest, passing men and heroes, kine-winner, mount thy conquering car, O Indra.
 </details>
 
+<details><summary>Keith</summary>
+
+Conspicuous by might, strong, heroic,  
+Enduring, mighty, steadfast, dread,  
+Surpassing heroes and warriors born of strength,  
+Do thou, winning kine, mount, O Indra, thy victorious car.
+</details>
+
 <details><summary>Geldner</summary>
 
 An seiner Stärke zu erkennen, standfest, ein hervorragender Held, überlegen, siegreich, bezwingend, gewaltig, jedem Helden über, jedem Krieger über, kraftgeboren, rinderfindend besteige du, Indra, den siegreichen Wagen!
@@ -2515,17 +2497,6 @@ Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-In might penetrating the cowstalls,  
-Impetuous [2], the hero, Indra, with wrath a hundredfold,  
-Hard to resist, enduring in battle, unovercomable,  
-May he aid our armies in the battles.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/07_abhi_gotrANi.md">
 
@@ -2883,6 +2854,14 @@ Piercing the cow-stalls with surpassing vigour, Indra, the pitiless Hero, wild w
      Victor in fight, unshaken and resistless,may he protect our armies in our battles.
 </details>
 
+<details><summary>Keith</summary>
+
+In might penetrating the cowstalls,  
+Impetuous [2], the hero, Indra, with wrath a hundredfold,  
+Hard to resist, enduring in battle, unovercomable,  
+May he aid our armies in the battles.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der mit Gewalt in die Kuhställe eindringt, ohne Erbarmen, der Held Indra mit hundertfachem Eifer, unentwegt, die Kämpfe bestehend, nicht zu bekämpfen, der soll in den Schlachten unseren Heeren weiter helfen.
@@ -2938,17 +2917,6 @@ Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach z
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Indra (be) their leader, and let Brhaspati,  
-The sacrificial fee, the sacrifice and Soma go before;  
-Let the Maruts precede the hosts divine,  
-That overthrow and conquer.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/08_indra_AsAM.md">
 
@@ -3305,6 +3273,14 @@ Indra guide these: Brhaspati precede them, the guerdon, and the sacrifice, and S
      And let the banded Maruts march in forefront of heavenly hosts that conquer and demolish.
 </details>
 
+<details><summary>Keith</summary>
+
+Indra (be) their leader, and let Brhaspati,  
+The sacrificial fee, the sacrifice and Soma go before;  
+Let the Maruts precede the hosts divine,  
+That overthrow and conquer.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra soll als deren Anführer, Brihaspati, die Daksina, das Opfer und Soma vorangehen. Die Marut sollen an der Spitze der einbrechenden, siegreichen Götterheere gehen.
@@ -3368,17 +3344,6 @@ Ihr Führer sei uns Indra und Brihaspati, vor dringe Opfer, Opferlohn und Soma, 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Of Indra, the strong, of Varuna, the king,  
-Of the Adityas, of the Maruts the mighty host--  
-The voice hath ascended of the gods  
-Great-hearted that shake the worlds as they conquer.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/09_indrasya_vRShNo.md">
 
@@ -3714,6 +3679,14 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts, and Adityas.
      Uplifted is the shout of Gods who conquer high-minded Gods who cause the worlds to tremble.
 </details>
 
+<details><summary>Keith</summary>
+
+Of Indra, the strong, of Varuna, the king,  
+Of the Adityas, of the Maruts the mighty host--  
+The voice hath ascended of the gods  
+Great-hearted that shake the worlds as they conquer.
+</details>
+
 <details><summary>Geldner</summary>
 
 Das Getöse des Bullen Indra, des Königs Varuna, der Aditya´s - der Marut gewaltige Heerschar - das Getöse der hochgemuten, welterschütternden siegenden Götter hat sich erhoben.
@@ -3769,17 +3742,6 @@ Des Königs Varuna, des Helden Indra, der Maruts, der Aditja's Schar ist mächti
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Ours (be) Indra, when the standards meet;  
-Ours be the arrows that conquer [3];  
-Ours be the heroes who are victors,  
-And us do ye aid, O gods, at our invocations.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/11_asmAkamindraH_samRteShu.md">
 
@@ -4035,6 +3997,14 @@ May Indra aid us when our flags are gathered: victorious be the arrows of our ar
      May our brave men of war prevail in battle. Ye Gods, protect us in the shout of onset.
 </details>
 
+<details><summary>Keith</summary>
+
+Ours (be) Indra, when the standards meet;  
+Ours be the arrows that conquer [3];  
+Ours be the heroes who are victors,  
+And us do ye aid, O gods, at our invocations.
+</details>
+
 <details><summary>Geldner</summary>
 
 Unser sei Indra, wann die Feldzeichen zusammentreffen. Unsere Pfeile, die sollen siegen! Unsere Helden sollen die Oberhand haben, uns stehet, ihr Götter, bei während der Kampfrufe!
@@ -4093,18 +4063,6 @@ Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen,
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Exalt our weapons, O bounteous one,  
-Exalt the might of my warriors;  
-Exalt the strength of the steed, O slayer of Vrtra,
-
-Let the sound of the conquering chariots arise.
-</details>
-</details>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/103/10_uddharShaya_maghavannAyudhAnyutsatvanAM.md">
 
@@ -4346,6 +4304,15 @@ Bristle thou up, O Maghavan, our weapons: excite the spirits of my warring heroe
      Urge on the strong steeds' might, O Vrtra-slayer, and let the din of conquering cars go upward.
 </details>
 
+<details><summary>Keith</summary>
+
+Exalt our weapons, O bounteous one,  
+Exalt the might of my warriors;  
+Exalt the strength of the steed, O slayer of Vrtra,
+
+Let the sound of the conquering chariots arise.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mach, du Gabenreicher, die Waffen, mache die Herzen meiner Krieger kampffroh, die Siegeskräfte der Streitrosse, o Vritratäter! Das Getöse der siegenden Wagen soll sich erheben!
@@ -4456,15 +4423,28 @@ Go to our foes, and enter [4] them;
 Not one of them do thou spare.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
 गच्छा॒मित्रा॒न्प्र [19]  वि॒श॒ मैषा॒ङ्कञ्च॒नोच्छि॑षः ।
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+अव॑सृष्ट॒ᳶ परा॑पत ।  
+श॒रो ब्रह्म॑सँशितः ।  
+गच्छा॒ऽमित्रा॒न्प्रवि॑श ।  
+मैषा॒ङ्कञ्च॒नोच्छि॑षः ॥78॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अव॑सृ॒ष्टेत्यव॑-सृ॒ष्टा॒ । परेति॑ । प॒ते॒ । शर॑व्ये । ब्रह्म॑सँशि॒तेति॒ ब्रह्म॑-सँ॒शि॒ता॒ ॥ गच्छ॑ । अ॒मित्रान्॑ । प्रेति॑ । वि॒श॒ । मा । ए॒षा॒म् । कम् । च॒न ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+अ᳓व-सृष्टः । प᳓रा । पत । शरः᳓ । ब्र᳓ह्म-संशितः । ग᳓च्छा । अमि᳓त्रान् । प्र᳓ । विश । मा᳓ । एषाम् । क᳓ञ्चना । उ᳓च्छिषः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -4475,6 +4455,13 @@ Not one of them do thou spare.
 प्राप्य च प्रविशैषां शत्रूणां शरीरमध्ये प्रवेशं कुरु।  
 प्रविश्य चैषां शत्रूणां मध्ये कंचन पुरुषं मोच्छिषोऽवशिष्टं मा कुरु।  
 सर्वानपि जहीत्यर्थः।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे उपवेष! मया अवसृष्टः क्षिप्तः परापत अपुनरावृत्तो गच्छ शरो भूत्वा शरणशीलः शरो हिंसकः, पचाद्यच् । ब्रह्मसंशितः ब्रह्मणा मन्त्रेण ब्रह्मणैव वा संशितः निशितीकृतः स त्वं गच्छ इतः स्थानात् । ततो गत्वा अमित्रान् शत्रून् प्रविश्य कार्त्स्न्येन विषयीकुरु । प्रविश्य च एषां अमित्राणां सम्बन्धि किञ्चिदपि गृहादिकं मोच्छिषः माऽवस्थितं कार्षीः । ऌदित्वादङ् ॥
+
+इति तैत्तिरीयब्राह्मणे तृतीये सप्तमे अच्छिद्रेषु षष्ठोऽनुवाकः ॥
 </details>
 </details>
 

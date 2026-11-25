@@ -21,13 +21,14 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,7 +61,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,9 +511,14 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/06/30_uro_r_anta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Griffith</summary>
+
+Meeting with heavenly Wind, from air's mid-region. Be thou united with this offering's body.
+</details>
+
 <details><summary>Keith</summary>
 
 O broad atmosphere,  
@@ -521,15 +527,48 @@ sacrifice with the life of this offering;
 be united with its body
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+उ॒रोर॒न्तरि॑क्षात् स॒जूर्दे॒वेन॒ वाते॑ना॒स्य ह॒विष॒स्त्मना॑ यज॒ सम॑स्य त॒न्वा᳖ भव।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
 सम॑स्य त॒नुवा॑ भव  +++(वसु ८ अक्षराणि)+++ ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
-उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ । 
+उ॒रोः। अ॒न्तरि॑क्षात्। स॒जूरिति॑ स॒ऽजूः। दे॒वेन॑। वाते॑न। अ॒स्य। ह॒विषः॑। त्मना॑। य॒ज॒। सम्। अ॒स्य॒। त॒न्वा᳖। भ॒व॒।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+उरोर्महतोऽन्तरिक्षाच्च गोपायेति शेषः।
+
+सजूर्देवेन वातेन।
+
+समानप्रीतिः देवेन वातेन भूत्वा।
+
+किंच अस्य पशुलक्षणस्य हविषः त्मना यज आत्मना यज।
+
+‘मन्त्रेष्वाङ्यादेरात्मनः’ इत्याकारलोपः।
+
+समस्य तन्वा भव।
+
+संभव चास्य पशोः तन्वा शरीरेण।
+
+एतदुक्तं भवति।
+
+यजमानरूपेण पशुरूपेण वा त्मना भूत्वात्मनैव यज।
+
+हे रेवति, पश्चाच्च तृणमुपास्यति।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -586,11 +625,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pRthivyAH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या᳓स् सम्पृ᳓चᳶ पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -611,7 +651,7 @@ Guard from the contact of earth.
 
 ङीष उदात्तत्वात् 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् । संपृचन्तीति संपृचः । 'क्विप्च' (पा.सू. 3.2.76) इति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । नित्यसमासत्वाद्विभक्तिस्वराभावः । पृथिवीसम्पृक्तानस्मान्पाहि । दिविष्ठस्त्वम्, उपरि निधानात् ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

@@ -62,216 +62,218 @@ title = "०३ अङ्कुरार्पणम्"
 ‘पवमानस्सुवर्जनः' इत्येतेन अनुवाकेन **स्नापयित्वा**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
 य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
-
 हि᳓रण्य-वर्णाश् शु᳓चयः पावका᳓  
 या᳓सु जातः᳓ कश्य᳓पो या᳓स्व् इ᳓न्द्रः ।  
 अग्नि᳓य्ँ या᳓ ग᳓र्भन् **दधिरे᳓**, वि᳓रूपास् -  
 ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ +++(=सुखा)+++ भवन्तु ।+++(५)+++
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/08_yAsAM_rAjA.md">
-
 या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓ध्ये,  
 सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
 मधुश्-**चु᳓तश्** शु᳓चयो याᳶ᳓ पावका᳓स् -  
 ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
-
 या᳓सान् देवा᳓ दिवि᳓ **कृण्व᳓न्ति** भक्षय्ँ᳓ -  
 या᳓ अन्त᳓रिक्षे बहुधा᳓ **भ᳓वन्ति** ।  
 याᳶ᳓ पृथिवी᳓म् **प᳓यसोन्द᳓न्ति** शुक्रा᳓स् -  
 ता᳓ न आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
-
 शिवे᳓न मा च᳓क्षुषा **पश्यतापश्** -  
 शिव᳓या तनु᳓वो᳓प **स्पृशत** त्व᳓चम् मे ।  
 स᳓र्वाँ अग्नीँ᳓र् अप्सु-ष᳓दो **हुवे** वो,  
 म᳓यि व᳓र्चो ब᳓लम् ओ᳓जो **नि᳓ धत्त** ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH">
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<details open><summary><h4>01 पवमानस् सुवर्जनः ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+पव॑मान॒स् सुव॒र्-जनः॑ ।  
+प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
+यᳶ पोता॒ स **पु॑नातु** मा ।  
 
-प᳓वमानस् सु᳓वर्-ज᳓नः ।  
-पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
-यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<details open><summary><h4>02 पुनन्तु मा ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+**पु॒नन्तु॑** मा **देवज॒नाः** ।  
+पु॒नन्तु॒ **मन॑वो** धि॒या ।  
+पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।  
 
-**पुन᳓न्तु** मा **देवजनाः᳓** ।  
-पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
-पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<details open><summary><h4>03 जातवेदᳶ पवित्रवत् ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+जात॑वेदᳶ प॒वित्र॑वत् ।  
+प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
+**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥  
 
-जा᳓तवेदᳶ पवि᳓त्रवत् ।  
-पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
-शुक्रे᳓ण देव **दी᳓द्यत्** ।  
-**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+<details open><summary><h4>04 यत् ते ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
+अग्ने॒ वित॑तम् अन्त॒रा ।  
+ब्रह्म॒ तेन॑ **पुनीमहे** ।  
 
-य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
-अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
-ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<details open><summary><h4>05 उभाभ्यान् देव ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+उ॒भाभ्या॑न् देव **सवितः** ।  
+प॒वित्रे॑ण स॒वेन॑ च ।  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++  
 
-उभा᳓भ्यान् देव **सवितः** ।  
-पवि᳓त्रेण सवे᳓न च ।  
-इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+<details open><summary><h4>06 वैश्वदेवी पुनती ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
+यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥  
 
-वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
-य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<details open><summary><h4>07 वैश्वानरो रश्मिभिर् ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
+**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
+**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
+ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।  
 
-**वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
-**वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
-**द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
-ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<details open><summary><h4>08 बृहद्भिस् सवितस् ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+बृ॒हद्भि॑स् सवित॒स् तृभिः॑+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
+वर्षि॑ष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव॒ मन्म॑भिः+++(=मननीयैः)+++ ।  
+अग्ने॒ दक्षै॑ᳶ **पुनाहि** मा ।  
 
-बृह᳓द्भिस् सवितस् तृ᳓भिः+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
-व᳓र्षिष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव म᳓न्मभिः+++(=मननीयैः)+++ ।  
-अ᳓ग्ने द᳓क्षैᳶ **पुनाहि** मा ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<details open><summary><h4>09 येन देवा ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+येन॑ दे॒वा **अपु॑नत** ।   
+येनापो॑ दि॒व्यङ् **कशः॑**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
+तेन॑ दि॒व्येन॒ ब्रह्म॑णा ॥48॥  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।  
 
-ये᳓न देवा᳓ **अ᳓पुनत** ।   
-ये᳓ना᳓पो दिव्य᳓ङ् **क᳓शः**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
-ते᳓न दिव्ये᳓न ब्र᳓ह्मणा ॥48॥  
-इद᳓म् ब्र᳓ह्म **पुनीमहे** ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+<details open><summary><h4>10 यᳶ पावमानीर् ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
+यᳶ पा॑वमा॒नीर् **अ॒ध्येति॑** ।  
+**ऋषि॑भि॒स् सम्भृ॑तँ॒** रस॑म् ।  
+सर्वँ॒ स पू॒तम् **अ॑श्ञाति** ।   
+**स्व॒दि॒तम्**+++(=स्वादुकृतं)+++ मा॑त॒रिश्व॑ना+++(=वायुना)+++ ।   
 
-यᳶ᳓ पावमानी᳓र् **अध्ये᳓ति** ।  
-**ऋ᳓षिभिस् स᳓म्भृतँ** र᳓सम् ।  
-स᳓र्वँ स᳓ पूत᳓म् **अश्ञाति** ।   
-**स्वदित᳓म्**+++(=स्वादुकृतं)+++ मातरि᳓श्वना+++(=वायुना)+++ ।   
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+<details open><summary><h4>11 पावमानीर् यो ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
+पा॒व॒मा॒नीर् यो **अ॒ध्येति॑** ।   
+ऋषि॑भि॒स् **सम्भृ॑तँ॒** रस॑म् ।  
+तस्मै॒ सर॑स्वती **दुहे** ।   
+क्षी॒रँ स॒र्पिर् मधू॑द॒कम् ।
 
-पावमानी᳓र् यो᳓ **अध्ये᳓ति** ।   
-ऋ᳓षिभिस् **स᳓म्भृतँ** र᳓सम् ।  
-त᳓स्मै स᳓रस्वती **दुहे** ।   
-क्षीरँ᳓ सर्पि᳓र् म᳓धूदक᳓म् ।
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<details open><summary><h4>12 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ॥49॥   
+सु॒-दुघा॒ हि पय॑स्वतीः ।  
+ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ।  
+ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ **हि॒तम्** ।  
 
-पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ॥49॥   
-सु-दु᳓घा हि᳓ प᳓यस्वतीः ।  
-ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ।  
-ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<details open><summary><h4>13 पावमानीर् दिशन्तु ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+पा॒व॒मा॒नीर् **दि॑शन्तु** नः ।  
+इ॒मल्ँ लो॒कम् अथो॑ अ॒मुम् ।  
+कामा॒न्त् **सम॑र्धयन्तु** नः ।  
+दे॒वीर् दे॒वैस् **स॒माभृ॑ताः** ।           
 
-पावमानी᳓र् **दिशन्तु** नः ।  
-इमल्ँ᳓ लोक᳓म् अ᳓थो अमु᳓म् ।  
-का᳓मान्त् **स᳓मर्धयन्तु** नः ।  
-देवी᳓र् देवै᳓स् **समा᳓भृताः** ।           
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<details open><summary><h4>14 पावमानीस् स्वस्त्ययनीः ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+पा॒व॒मा॒नीस् **स्व॒स्त्य्-अय॑नीः** ।  
+सु॒-दुघा॒ हि घृ॑त॒श्-**चुतः॑**+++(=क्षारयित्र्यः)+++ ।  
+ऋषि॑भि॒स् **सम्भृ॑तो॒** रसः॑ ॥50॥  
+ब्रा॒ह्म॒णेष्व् अ॒मृतँ॑ **हि॒तम्** ।
 
-पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ।  
-सु-दु᳓घा हि᳓ घृतश्-**चु᳓तः**+++(=क्षारयित्र्यः)+++ ।  
-ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ॥50॥  
-ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<details open><summary><h4>15 येन देवाᳶ ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
+आ॒त्मान॑म् **पु॒नते॒** सदा॑ ।  
+तेन॑ स॒हस्र॑-धारेण ।   
+पा॒व॒मा॒न्यᳶ **पु॑नन्तु** मा ।            
 
-ये᳓न देवाᳶ᳓ पवि᳓त्रेण ।  
-आत्मा᳓नम् **पुन᳓ते** स᳓दा ।  
-ते᳓न सह᳓स्र-धारेण ।   
-पावमान्यᳶ᳓ **पुनन्तु** मा ।            
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<details open><summary><h4>16 प्राजापत्यम् पवित्रम् ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
+श॒तोद्या॑मँ हिर॒ण्मय॑म् ।  
+तेन॑ ब्रह्म॒-विदो॑ व॒यम् ।  
+**पू॒तम्** +++(यथा तथा स्वीयम्)+++ ब्रह्म॑ **पुनीमहे** ।  
 
-प्राजापत्य᳓म् पवि᳓त्रम् ।  
-शतो᳓द्यामँ हिरण्म᳓यम् ।  
-ते᳓न ब्रह्म-वि᳓दो वय᳓म् ।  
-**पूत᳓म्** +++(यथा तथा स्वीयम्)+++ ब्र᳓ह्म **पुनीमहे** ।  
-
+</details>
 </div>
+<div class="js_include" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<details open><summary><h4>17 इन्द्रस् सुनीती ...{Loading}...</h4></summary>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+**इन्द्र॑स्** सुनी॒ती+++(त्या)+++ स॒ह मा॑ पुनातु ।  
+**सोम॑स्** स्व॒स्त्या **वरु॑णस्** स॒मीच्या॑+++(=सम्यगञ्चनया)+++ ।  
+**य॒मो** राजा॑ प्रमृ॒णाभि॑ᳶ+++(=प्रमारिकाभिः)+++ पुनातु मा ।   
+**जा॒तवे॑दा** मा+ऊ॒र्जय॑न्त्या पुनातु ॥51॥  
 
-**इ᳓न्द्रस्** सुनीती᳓+++(त्या)+++ सह᳓ मा पुनातु ।  
-**सो᳓मस्** स्वस्त्या᳓ **व᳓रुणस्** समी᳓च्या+++(=सम्यगञ्चनया)+++ ।  
-**यमो᳓** रा᳓जा प्रमृणा᳓भिᳶ+++(=प्रमारिकाभिः)+++ पुनातु मा ।   
-**जात᳓वेदा** मा+ऊर्ज᳓यन्त्या पुनातु ॥51॥  
-
+</details>
 </div>
-
 </div>
 
 आचमनवस्त्रोत्तरीय+  
@@ -380,17 +382,91 @@ The seven and a hundred abodes.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/02_shataM_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-A hundred, O mother, are your abodes, A thousand too your shoots,  
-Therefore do ye, with a hundred powers,  
-Make him whole for me.
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+शतं᳓ वो अम्ब धा᳓मानि  
+सह᳓स्रम् उत᳓ वो रु᳓हः  
+अ᳓धा शतक्रत्वो यूय᳓म्  
+इम᳓म् मे अगदं᳓ कृत
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+amba ← amba (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+śatám ← śatá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+rúhaḥ ← rúh- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+sahásram ← sahásra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ádha ← ádha (invariable)  
+{}
+
+śatakratvaḥ ← śatákratu- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+
+agadám ← agadá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ta ← √kr̥- (root)  
+{number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं वो॑ अम्ब॒ धामा॑नि स॒हस्र॑मु॒त वो॒ रुहः॑ ।  
+अधा॑ शतक्रत्वो यू॒यमि॒मं मे॑ अग॒दं कृ॑त ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 श॒तव्ँवो॑ अम्ब॒ धामा॑नि स॒हस्र॑मु॒त वो॒ रुहः॑ ।  
 अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
@@ -398,7 +474,201 @@ Make him whole for me.
 
 <details><summary>पद-पाठः</summary>
 
+श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ।  
+अध॑ । श॒त॒ऽक्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+श॒तम्। वः॒। अ॒म्ब॒। धामा॑नि। स॒हस्र॑म्। उ॒त। वः॒। रुहः॑। अध॑। श॒त॒क्र॒त्व॒ इति॑ शतऽक्रत्वः। यू॒यम्। इ॒मम्। मे॒। अ॒ग॒द॒म्। कृ॒त॒। ७६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+श॒तम्। वः॒। अ॒म्ब॒। धामा॑नि। स॒हस्र॑म्। उ॒त। वः॒। रुहः॑। अध॑। श॒त॒क्र॒त्व॒ इति॑ शतऽक्रत्वः। यू॒यम्। इ॒मम्। मे॒। अ॒ग॒द॒म्। कृ॒त॒। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *śataṃ* ← *śatam* ← *śata*
+- \[noun\], nominative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *amba* ← *ambā*
+- \[noun\], vocative, singular
+- “mother; Devi; Ambā; ambā \[word\]; Ambā.”
+
+_________
+
+- *dhāmāni* ← *dhāman*
+- \[noun\], nominative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+
+_________
+
+- *sahasram* ← *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+
+_________
+
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *ruhaḥ* ← *ruh*
+- \[noun\], nominative, plural, feminine
+
+_________
+
+- *adhā* ← *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+
+_________
+
+- *śatakratvo* ← *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+
+_________
+
+- *śatakratvo* ← *kratvaḥ* ← *kratu*
+- \[noun\], nominative, plural, feminine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+
+_________
+
+- *yūyam* ← *tvad*
+- \[noun\], nominative, plural
+- “you.”
+
+_________
+
+- *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *me* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+
+_________
+
+- *agadaṃ* ← *agadam* ← *agada*
+- \[noun\], accusative, singular, masculine
+- “healthy.”
+
+_________
+
+- *kṛta* ← *kṛ*
+- \[verb\], plural, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अम्ब- हे जनन्य ओषधयः। वः- युष्माकम्। धामानि। शतम्- प्रभूतानि। उत- अपि च। वः-  युष्माकम्। रुहः- प्ररोहः। सहस्रम्- इतोपि प्रभूतः। अध- अपि च। शतक्रत्वः- हे  प्रभूतकर्मयुक्ताः। मे- मम सम्बन्धिनम्। इमम्- एनम्। अगदम्- अरोगम्। कृत- कुरुत॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अम्ब** मातर ओषधयः **वः** युष्माकं **धामानि** स्थानानि जन्मानि वा **शतम्** अपरिमितानि । **उत** अपि च **वः** युष्माकं **रुहः** प्ररोहः प्रोद्गमः **सहस्रम्** अपरिमितः। **अध** अपि च हे **शतक्रत्वः** शतकर्माणः **यूयमिमं** **मे** मां मदीयं वा जनमामयग्रस्तम् **अगदम्** । गदो रोगः । तद्रहितं **कृत** कुरुत ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+शतं वः हे ओषधयः अश्वमातरः, शतं वः युष्माकं धामानि जन्मानि।
+
+सहस्रमुत वो रुहः अपिच सहस्रं युष्माकं विरोहणानि सन्ति।
+
+अधा शतक्रत्वः।
+
+अथैवं सति हे शतक्रत्वः बहुकर्माणः, यूयं प्रजापतिं इमं वा यजमानं मे मम संबन्धिनमगदम् गदो व्याधिः अव्याधिं कृत कुरुत॥ ७६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे अम्ब, मातृस्थाना ओषधयः वो युष्माकं धामानि जातिभेदाः क्षेत्राणि वा जन्मानि वा शतं सन्ति।
+
+उत अपिच वो युष्माकं रुहः रोहन्तीति रुहः प्ररोहा अङ्कुराः सहस्रं सन्ति।
+
+शतसहस्रपदाभ्यामपरिमितत्वमुच्यते।
+
+अध अथ ‘निपातस्य च’ (पा० ६.३। १३६) इति संहितायां दीर्घः।
+
+शतं क्रत्वः कर्माणि याभिस्ताः शतक्रतवः ‘जसि च’ (पा० ७। ३। १०९) प्राप्तगुणस्याभावे छान्दसो यणादेशः।
+
+अथैवं सति हे शतक्रत्व, यूयं मे मम इमं यजमानमगदं क्षुत्पिपासादिषडूर्मिरोगरहितं कृत कुरुत।
+
+करोतेः शपो लुक्॥ ७६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+सा - अथ द्वितीया - ' शतं वो अम्ब धामानि सहस्रम् उत वो रुहः । अधा शतक्रत्वो यूयम् इमं मे अगदं कृता' इति ।
+
+हे 'अम्ब, मातृ-स्थाना ओषधयः वः युष्माकं धामानि जाति-भेदाः क्षेत्राणि वा शतं सन्ति ।
+
+उत अपि च वः युष्माकं रुहः प्ररोहाः अङ्कुराश् च सहस्रं सन्ति ।
+
+शतं सहस्त्रमित्याभ्यामपरिमितत्वमुपलक्ष्यते ।
+
+'अव अथैवं बहुभेदोपेतत्वे
+अध अथैवं बहुभेदोपेतत्वे सति शत-संख्याकाः क्रतवो यानिर्युष्माभिर् निष्पाद्यन्ते तादृश्यः शतक्रत्वः यूयं मे मदीयम् "इमं यजमानम् " अगदं कृत
+क्षुत्-पिपासादिरोग-रहितं कुरुत ॥२॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' शतं वः' इति ।
+
+हे ओषधयः हे 'अम्ब हे मातः, हे मातरः, 'वः युष्माकं
+शतं धामानि जन्मानि ।
+
+' सहस्रम् उत वो रुहः ' ।
+
+'वः युष्माकम् । रुह बीज-जन्मनि । रुहः रोहणानि, सहस्रम् अपरिमितं सन्ति । ' अघा शत-क्रत्व: ।
+
+अ अथ एवं सति हे शतक्रत्वः बहु-कर्माणः, यूयम् इमं प्रजापतिम् इमं यजमानं वा मे मम संबन्धिनम् अगदं कृत ।
+
+गदो व्याधिः, तद् रहितो ऽगदः ।
+
+तम् अगदं कृत कुरुध्वम् ॥२॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -407,6 +677,114 @@ Make him whole for me.
 उतापि च वो युष्माकं रुहः प्ररोहा अङ्कुराश्च सहस्रं सन्ति ।  
 सहस्रमित्यासामपरिमितत्वमुपलक्ष्यते ।  
 अथैवं बहुभेदोपेतत्वे सति शतसंख्याकाः क्रतवो याभिर्युष्माभिर्निष्पाद्यन्ते तादृश्यः शतक्रत्वे यूयं मे मदीयमिमं यजमानमगदं कृत क्षुत्पिपासादिरोगरहितं कुरूत ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्य क्या करके किस को सिद्ध करें, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (शतक्रत्वः) सैकड़ों प्रकार की बुद्धि वा क्रियाओं से युक्त मनुष्यो ! (यूयम्) तुम लोग जिन के (शतम्) सैकड़ों (उत) वा (सहस्रम्) हजारहों (रुहः) नाड़ियों के अंकुर हैं, उन ओषधियों से (मे) मेरे (इमम्) इस शरीर को (अगदम्) नीरोग (कृत) करो। (अधा) इसके पश्चात् (वः) आप अपने शरीरों को भी रोगरहित करो, जो (वः) तुम्हारे असंख्य (धामानि) मर्म्म स्थान हैं, उनको प्राप्त होओ। हे (अम्ब) माता ! तू भी ऐसा ही आचरण कर ॥७६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को चाहिये कि सबसे पहिले ओषधियों का सेवन, पथ्य का आचरण और नियमपूर्वक व्यवहार करके शरीर को रोगरहित करें, क्योंकि इसके विना धर्म्म, अर्थ, काम और मोक्षों का अनुष्ठान करने को कोई भी समर्थ नहीं हो सकता ॥७६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+मनुष्याः किं कृत्वा किं साधयेयुरित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे शतक्रत्वः ! यूयं यासां शतमुत सहस्रं रुहः सन्ति, ताभिर्मे ममेमं देहमगदं कृत। अध स्वयं वो देहानगदान् कुरुत। यानि वोऽसंख्यानि धामानि तानि प्राप्नुत। हे अम्ब ! त्वमप्येवमाचर ॥७६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्याणामिदमादिमं कर्त्तव्यं कर्म्मास्ति यदोषधिसेवनं पथ्याचरणं सुनियमव्यवहरणं च कृत्वा शरीरारोग्यसम्पादनम्। नह्येतेन विना धर्मार्थकाममोक्षाणामनुष्ठानं कर्त्तुं कश्चिदपि शक्नोति ॥७६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी सर्व प्रथम औषधांचे सेवन, पथ्याचे आचरण व नियमपूर्वक व्यवहार करून शरीर निरोगी बनवावे. कारण त्याशिवाय धर्म, अर्थ, काम, मोक्ष यांचे अनुष्ठान कोणीही समर्थपणे करू शकत नाही.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Mothers (of mankind) a hundred are your applications, a thousandfold is your growth; do you who fulfila hundred functions, make this my (people) free from disease.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+One hundred are the forms of you all, o mother, and a thousand are  your shoots.  
+So then, o you all who possess a hundred strategies, make this (man)  here to be free of disease for me.
+</details>
+
+<details><summary>Griffith</summary>
+
+Ye, Mothers, have a hundred homes, yea, and a thousand are your growths.  
+     Do ye who have a thousand powers free this my patient from disease.
+</details>
+
+<details><summary>Keith</summary>
+
+A hundred, O mother, are your abodes, A thousand too your shoots,  
+Therefore do ye, with a hundred powers,  
+Make him whole for me.
+</details>
+
+<details><summary>Geldner</summary>
+
+Hundert, o Mütterchen, zählen eure Arten und tausend eure Gewächse. So machet ihr, hundertfachen Rat wissend, mir diesen Mann gesund!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Ja hundertfach ist eure Art und tausendfach ist euer Wuchs; Mit hundert Kräften wohlbegabt, macht diesen Kranken mir gesund.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Сотни видов вас, матушка,  
+А также тысяча ваших побегов.  
+Так вы, стоумные,  
+Сделайте мне этого (человека) здоровым!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- अनुष्टुप्
+- गान्धारः
+
+- वैद्यो देवता
+- भिषगृषिः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अम्ब) हे माता के समान निर्माण करनेवाली सेवन करने योग्य आश्रयरूपओषधियो ! (वः) तुम्हारे (शतम्) बहुत (धामानि) प्रयोगस्थान हैं (उत) और (वः) तुम्हारे (सहस्रम्) बहुत से (रुहः) रोहण-उत्पत्तिक्रम हैं (अध) और (यूयम्) तुम (शतक्रत्वः) बहुत कर्मवाली बहुत उपयोगवाली हो (मे) मेरे (इमम्) इस रोगी को (अगदम्) रोगरहित (कृत) करो ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  ओषधियाँ जीवन का निर्माण करनेवाली होती हैं, इनके उत्पत्तिस्थानों तथा उगने के प्रकारों को जानकर रोगी को स्वस्थ करना चाहिये ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अम्ब वः शतं धामानि) हे मातृवत् सम्भजनीया आश्रयणीयाः ! युष्माकं शतं बहूनि प्रयोगस्थानानि (उत) अपि (वः सहस्रं रुहः) युष्माकं बहवः प्रादुर्भावाः-उद्गमभेदा वा (अध) अथ च (यूयं शतक्रत्वः) यूयं बहुकर्माणो बहूपयोग्याः (मे-इमम्-अगदं कृत) मम खल्वेतं रुग्णं जनं रोगरहितं कुरुत ॥२॥
 </details>
 </details>
 
@@ -550,18 +928,100 @@ Defilement [1] destroying.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/05_ashvatthe_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-In the Aśvattha is your seat,  
-In the Parna is your dwelling made;  
-Cows shall in truth be your share  
-If ye shall gain this man.
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+अश्वत्थे᳓ वो निष᳓दनम्  
+पर्णे᳓ वो वसति᳓ष् कृता᳓  
+गोभा᳓ज इ᳓त् कि᳓लासथ  
+य᳓त् सन᳓वथ पू᳓रुषम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+aśvatthé ← aśvatthá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+niṣádanam ← niṣádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+kr̥tā́ ← √kr̥- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+parṇé ← parṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+vasatíḥ ← vasatí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+asatha ← √as- 1 (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+gobhā́jaḥ ← gobhā́j- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ít ← ít (invariable)  
+{}
+
+kíla ← kíla (invariable)  
+{}
+
+pū́ruṣam ← pū́ruṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sanávatha ← √sanⁱ- (root)  
+{number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता ।  
+गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता।  
+गो॒भाज॒ऽइत्किला॑सथ॒ यत्स॒नव॑थ॒ पू॑रुषम् ॥४ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता ।  
+गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ॥४॥ ३८
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒श्व॒त्थे वो॑ नि॒षद॑नम्प॒र्णे वो॑ वस॒तिᳵ कृ॒ता ।  
 गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ।
@@ -569,7 +1029,277 @@ If ye shall gain this man.
 
 <details><summary>पद-पाठः</summary>
 
+अ॒श्व॒त्थे । वः॒ । नि॒ऽसद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ।  
+गो॒ऽभाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पुरु॑षम् ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒श्व॒त्थे। वः॒। नि॒षद॑नम्। नि॒सद॑न॒मिति॑ नि॒ऽसद॑नम्। प॒र्णे। वः॒। व॒स॒तिः। कृ॒ता। गो॒भाज॒ इति॑ गो॒ऽभाजः॑। इत्। किल॑। अ॒स॒थ॒। यत्। स॒नव॑थ। पूरु॑षम्। पुरु॑ष॒मिति॒ पुरु॑षम्। ७९।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+'अश्वत्थे। वो। निषदनम्। पर्णे। वो। वसतिष्कृता। गो॒भाज॒ इति॑ गो॒ऽभाजः॑। इत्। किल॑। अ॒स॒थ॒। यत्। स॒नव॑थ। पूरु॑षम्। ५।
+
+गो॒भाज॒ इति॑ गो॒ऽभाजः॑। इ॒त्। किल॑। अ॒स॒थ॒। यत्। स॒नव॑थ। पूरु॑षम्। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 अ॒श्व॒त्थे । वः॒ । नि॒षद॑न॒मिति॑ नि-सद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ॥ गो॒भाज॒ इति॑ गो-भाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पूरु॑षम् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *aśvatthe* ← *aśvattha*
+- \[noun\], locative, singular, masculine
+- “pipal; aśvattha \[word\].”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *niṣadanam* ← *niṣadana*
+- \[noun\], nominative, singular, neuter
+
+_________
+
+- *parṇe* ← *parṇa*
+- \[noun\], locative, singular, masculine
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *vasatiṣ* ← *vasatiḥ* ← *vasati*
+- \[noun\], nominative, singular, feminine
+- “residency; dwelling; nest; stay; vasati \[word\]; vas; mansion;
+    sojourn.”
+
+_________
+
+- *kṛtā* ← *kṛ*
+- \[verb noun\], nominative, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *gobhāja* ← *go*
+- \[noun\]
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *gobhāja* ← *bhājaḥ* ← *bhāj*
+- \[noun\], nominative, plural, feminine
+- “enjoying; consisting of.”
+
+_________
+
+- *it* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *kilāsatha* ← *kila*
+- \[adverb\]
+- “assuredly; indeed; kila \[indecl.\].”
+
+_________
+
+- *kilāsatha* ← *asatha* ← *as*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *sanavatha* ← *san*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “win; get; gain.”
+
+_________
+
+- *pūruṣam* ← *pūruṣa*
+- \[noun\], accusative, singular, masculine
+- “man; man; Puruṣa.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। निषदनम्- नितरां वर्तनम्। अश्वत्थे। वः- युष्माकम्। वसतिः- वासः। पर्णे।  कृता- कृतः। पुरुषम्- व्याधियुतम्। यत्- यदा। सनवथ- सम्भजध्वे। तदा। गोभाजः- गवां  तेजसां सम्भाजयित्र्यः। किल। इत्- एव। असथ- भवथ॥५॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे ओषधिदेवताः **वः** युष्माकम् अश्वत्थे **निषदनं** नितरां वर्तनम् । तथा **वः** युष्माकं **पर्णे** पलाशे **वसतिः** निवासः **कृता** । तृतीयस्यामितो दिवि सोम आसीत्तं गायत्र्याहरत्तस्य पर्णमच्छिद्यत तत्पर्णोऽभवत् तत्पर्णस्य पर्णत्वम् ' ( तै. ब्रा. १. १. ३. १०) इति ब्राह्मणात्पलाशस्य पर्णत्वप्रसिद्धिः । अश्वत्थपलाशयोर्यज्ञयोग्यत्वप्राधान्यापेक्षयोपादानम् । किंच **गोभाज** **इत्किल** गवां भाजयित्र्य एव **असथ** भवथ खलु । **यत्** यदि **सनवथ** संभजध्वे **पुरुषं** तर्ह्येवं भवथेति । ‘वन षण संभक्तौ । लेट्यडागमः । व्यत्ययेनोप्रत्ययः । यद्वा । औत्सर्गिकः शप्चेति द्विविकरणता ॥ ॥ ८ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अश्वत्थे वः।
+
+चतुर्थः पादोऽत्र प्रथमं व्याख्यायते।
+
+यत्सनवथ पूरुषम्।
+
+यदा यूयं सनवथ संसेवध्वम् पूरुषं यजमानम्।
+
+अथ अश्वत्थे वः युष्माकं निषदनमवस्थानम्।
+
+पर्णे वः पलाशपर्णमय्यां जुह्वाम् वः युष्माकं वसतिः स्थितिः होमार्थमध्वर्युणा कृता।
+
+अश्वत्थपर्णयोस्तद्धितलोपश्छान्दसः।
+
+अथापि तद्धितेन कृत्स्नवन्निगमा भवन्तीति।
+
+गोभाज इत्किलासथ।
+
+इच्छब्दः पादपूरणः।
+
+किलेति विद्याप्रकर्षे।
+
+ततोग्नौ हुताः सत्यः।
+
+गोभाजः गोशब्देनादित्योऽभिधीयते।
+
+आदित्यभाजः यूयं किल भवथ।
+
+तदुक्तम्।
+
+‘अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते। आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः’ इति।
+
+यद्वा अश्वत्थे फलिते सर्वा ओषधयः फलवत्यो भवन्ति।
+
+पर्णे फलिते कोद्रवादयः फलिता भवन्ति।
+
+गोभाजः पृथिवीभाजश्च उप्ताः सत्यः किल भवथ।
+
+तदुक्तम्।
+
+यदा पूरुषः संसेवध्वं भाजनादिभिरुपकारैः एवं दुरवधार्यं गतयो यूयमित्यभिप्रायः॥ ७९॥
+
+अश्वत्थे व इति व्याख्यातम्॥ ४॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे ओषधयः, वो युष्माकमश्वत्थे आश्वथ्यामुपभृति स्रुचि निषदनं स्थानं भवति हविषां तत्र स्थापनात्।
+
+किंच वो युष्माकं पर्णे पलाशे पर्णमय्यां जुह्वां वसतिः स्थितिः कृता॥
+
+अध्वर्युणा होमार्थ जुह्वां स्थापनातश्वत्थपर्णशब्दाभ्यां तद्वितप्रत्ययलोपश्छान्दसः।
+
+‘अथापि तद्धितेन कृत्स्नवन्निगमो भवन्ति’ (नि० २.५) इति यास्कोक्तेः।
+
+हविर्भूता ओषधयः प्रार्थ्यन्ते।
+
+किलेति विद्याप्रकर्षे।
+
+इतेवार्थे।
+
+हे हविर्भूता ओषधयः, यूयमग्नौ हुताः सत्यो गोभाजः असथ भवथ।
+
+गामादित्यं भजन्तीति गोभाजः।
+
+‘अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते’ इति श्रुतेः।
+
+यद्वा अश्वत्थे वो निषदनमश्वत्थे फलिते सर्वौषधीनां फलवत्त्वात् पर्णे वो वसतिः कृता पलाशे च फलिते व्रीह्यादीनां फलितत्वात्।
+
+अतएव यूयमुप्ताः सत्यो गोभाजो भूमिभाज एव किलासथ भवथ।
+
+‘गौर्नादित्ये बलीवर्दे मखभेदर्षिभेदयोः। स्त्रियां स्याद्दिशि भारत्यां भूमौ च सुरभावपि’ इति कोशात्।
+
+किमर्थमिदमित्यत आह।
+
+यत् यस्मात्कारणात् पुरुषं यजमानं यूयं सनवथ सेवध्वमन्नदानेन पोषयथ तस्मादश्वत्थादिस्थानमित्यर्थः।
+
+अश्वत्थे पलाशे च वः स्थानम्।
+
+देवाधिष्ठानादश्वत्थो लोके नतिप्रदक्षिणादिना पूज्यते पलाशश्चेध्मादिरूपेण।
+
+एवमश्वत्थादिरूपेण यूयं भूभाजः स्थ।
+
+शेषं पूर्ववत्।
+
+अस्तेः शपि असथेति रूपं लटि।
+
+सनवतिः परिचर्यार्थः॥ ७९॥
+
+अनुष्टुप् व्याख्याता (अ० १२। क० ७९)॥ ४॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अश्वत्थे वः' इति ।
+
+अश्वत्थे अश्वत्थमये उपभृति वः युष्माकम् ओषधीनां निषदनम् अवस्थानम् ।
+
+पर्णे पलाशे पर्णमय्यां जुह्वां वः औषधीनां युष्माकं वसतिः निवास : होमार्थम् अध्वर्युणा कृता ।
+
+अश्वत्थपर्णयोस् तद्धित लोपश्छान्दसः ।
+
+' गोभाज इत् किलासय यत् सनवथ पूरुषम् ' ।
+"किल इति विद्या-प्रकर्षे । ततो ऽग्नौ हुताः सत्यः ओषधयः गोभाजः । गो-शब्देनात्रादित्यो ऽभिधीयते ।
+गामादित्यं भजन्त इति गोभाजः । इत् एव 'असथ अभवथ । किल असथ ।
+" अग्नौ प्रास्ताहुतिः सम्यग्-आदित्यमुपतिष्ठते ।
+
+आदित्याज् जायते वृष्टिर् वृष्टेर् अन्नं ततः प्रजाः ॥
+
+५ (मनुस्मृति ३.७६ ) इति स्मृतेः ।
+
+यद् वा - अश्वत्थे वो निषदनम् ' ।
+
+तथा हि - अश्वत्थे फलिते सर्वा ओषधयः फलवत्यो भवन्ति ।
+
+पर्णे च फलिते कोद्रवाः फलिता भवन्ति ।
+
+गोभाजः पृथिवी-भाजश् च उप्ताः सत्यः किल असथ भवथ ।
+
+यत् यदा एवं भवथ तदा पूरुषं स्वम् आत्मानं पुरुषाकारं "सनवय भोजनादिभिः उपकारैः संभजध्वम् । एवं दुरवगाहित-गतयो यूयम् इत्य् अभिप्रायः ॥ ५ ॥
+
+६ अयं मन्त्रो व्याख्यातः [१३८० ] ॥ ३६ ॥
+
+च पर-वर्तिनः सविता त इति मन्त्रस्यादिमोंऽशः ।
+
+अत्रानन्द-बोधेन स्वेष पृथग् एव व्याख्यातः ।
+
+शरीराणि निवपति [का० श्रौ० २१/४।५] -
+'सविता ते शरीराणि मातुर् उपस्थ आवपतु ।
+
+तस्मै पृथिवि शं भव ।
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+[ ३५ । ३७-४० ( अनु० ४१४ - ६ )
+तत्-पाठस्तुव्याख्यातः अयं मन्त्रः ( /८० ) ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -579,6 +1309,159 @@ If ye shall gain this man.
 पलाशवृक्षश्चेघ्मादिरूपेण कर्म साधनं संपन्नः ।  
 ईदृश्योऽपि यूयं गोभाज इद्भवदीयस्थावररूपेण भूमिभाज एव भूत्वाऽसथ किल स्थिता इत्येतल्लोके प्रसिद्धम् ।  
 तत्किमर्थमिति तदुच्यते-यद्यस्मात्कारणात्पूरुषं मनुष्यं सनवथान्नदानेन पोषयथ तस्मादेवं स्थावररूपावस्थानमित्यर्थः ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे जीवो ! जिस जगदीश्वर ने (अश्वत्थे) कल ठहरेगा वा नहीं ऐसे अनित्य संसार में (वः) तुम लोगों की (निषदनम्) स्थिति की (पर्णे) पत्ते के तुल्य चञ्चल जीवन में (वः) तुम्हारा (वसतिः) निवास (कृता) किया। (यत्) जिस (पूरुषम्) सर्वत्र परिपूर्ण परमात्मा को (किल) ही (सनवथ) सेवन करो, उसके साथ (गोभाजः) पृथिवी, वाणी, इन्द्रिय वा किरणों का सेवन करनेवाले (इत्) ही तुम लोग प्रयत्न के साथ धर्म में स्थिर (असथ) होओ ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को चाहिये कि अनित्य संसार में अनित्य शरीरों और पदार्थों को प्राप्त हो के क्षणभङ्गुर जीवन में धर्माचरण के साथ नित्य परमात्मा की उपासना कर आत्मा और परमात्मा के संयोग से उत्पन्न हुए नित्य सुख को प्राप्त हों ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
+
+पुनर्मनुष्यैः किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे जीवा ! येन जगदीश्वरेणाश्वत्थे वो निषदनं कृतं पर्णे वो वसतिः कृता। यत्पूरुषं किल सनवथ तेन सह गोभाज इद्यूयं प्रयत्नेन धर्मेऽसथ ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैरनित्ये संसारेऽनित्यानि शरीराणि पदार्थांश्च प्राप्य क्षणभङ्गुरे जीवने धर्माचरणेन नित्यं परमात्मानमुपास्याऽऽत्मपरमात्मसंयोगजं नित्यं सुखं प्रापणीयम् ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्य लोग नित्य कैसा विचार करें, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! ओषधियों के समान (यत्) जिस कारण (वः) तुम्हारा (अश्वत्थे) कल रहे वा न रहे, ऐसे शरीर में (निषदनम्) निवास है; और (वः) तुम्हारा (पर्णे) कमल के पत्ते पर जल के समान चलायमान संसार में ईश्वर ने (वसतिः) निवास (कृता) किया है, इससे (गोभाजः) पृथिवी को सेवन करते हुए (किल) ही (पूरुषम्) अन्न आदि से पूर्ण देहवाले पुरुष को (सनवथ) ओषधि देकर सेवन करो और सुख को प्राप्त होते हुए (इत्) इस संसार में (असथ) रहो ॥७९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को ऐसा विचारना चाहिये कि हमारे शरीर अनित्य और स्थिति चलायमान है, इससे शरीर को रोगों से बचा कर धर्म्म, अर्थ, काम तथा मोक्ष का अनुष्ठान शीघ्र करके अनित्य साधनों से नित्य मोक्ष के सुख को प्राप्त होवें। जैसे ओषधि और तृण आदि फल, फूल, पत्ते, स्कन्ध और शाखा आदि से शोभित होते हैं, वैसे ही रोगरहित शरीरों से शोभायमान हों ॥७९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+मनुष्याः प्रत्यहं कीदृशं विचारं कुर्य्युरित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! ओषधय इव यद्वोऽश्वत्थे निषदनं वः पर्णे वसतिः कृताऽस्ति, तस्माद् गोभाजः किल पूरुषं सनवथ सुखिन इदसथ ॥७९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैरेवं भावनीयमस्माकं शरीराण्यनित्यानि, स्थितिश्चञ्चलास्ति, तस्माच्छरीरमरोगिनं संरक्ष्य धर्मार्थकाममोक्षाणामनुष्ठानं सद्यः कृत्वाऽनित्यैः साधनैर्नित्यं मोक्षसुखं खलु लब्धव्यम्। यथौषधितृणादीनि पत्रपुष्पफलमूलस्कन्धशाखादिभिः शोभन्ते, तथैव नीरोगाणि शोभमानानि भवन्ति ॥७९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी असा विचार करावा की, आपले शरीर अनित्य आहे व स्थिती परिवर्तनशील आहे त्यामुळे शरीर रोगापासून वाचवावे व धर्म, अर्थ, काम, मोक्षाचे अनुष्ठान करावे आणि अनित्य साधनांनी नित्य मोक्षाचे सुख प्राप्त करावे. जसे वृक्ष व तृण इत्यादी फळे, फुले, पाने, फांद्या इत्यादींनी सुशोभित दिसतात तसेच निरोगी शरीराने शोभायमान व्हावे.
+
+भावार्थभाषाः -  माणसांनी अनित्य संसारात शरीर व पदार्थ प्राप्त झाल्यानंतर धर्माचरणाने या क्षणभंगूर जीवनात नित्य परमेश्वराची उपासना करावी व आत्मा आणि परमात्मा यांच्या संयोगाने उत्पन्न झालेले नित्य सुख भोगावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Your abode is in the **Aśvattha**, your dwelling is established in the **Palāśa**, you are assuredly thedistributer of cattle, inasmuch as you bestow them on the physician.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Aśvattha and Palāśa: the trees bear achief part in sacrifices and are, therefore, said to be the abode of plural nts. The vessels in which the offerings arepresented are made of the wood of these two trees (**Yajus**. 12.79). Aśvattha = ficus religiosa;
+
+Palāśa = buteafrondosa; distributers of cattle: gobhājaḥ = gavām bhājayitryaḥ; or, go = **Āditya**, you are partakers of thesun, i.e., plural nts offered to fire or the offering thrown into the fire approaches the sun
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Your seat is in the aśvattha-tree; your nest is made in the parṇa-tree: you will surely get a share in the cow when you will gain [=cure]  
+the man.
+</details>
+
+<details><summary>Griffith</summary>
+
+The Holy Fig tree is your home, your mansion is the Parna tree:  
+     Winners of cattle shali ye be if ye regain for me this man.
+</details>
+
+<details><summary>Keith</summary>
+
+In the Aśvattha is your seat,  
+In the Parna is your dwelling made;  
+Cows shall in truth be your share  
+If ye shall gain this man.
+</details>
+
+<details><summary>Geldner</summary>
+
+Am Asvatthabaum ist euer Sitz, am Parnabaum euer Nest bereitet. Ihr werdet gewiß eine Kuh verdienen, wenn ihr den Mann gewinnen werdet.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Von Feigenholz ist euer Bett, das Nestchen ist vom Bohnenbaum; Ihr wäret mir viel Geldes werth, wenn ihr mir rettetet den Mann.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+У (дерева) ашваттха место вашего обитания,  
+У (дерева) парна сделано ваше гнездо.  
+Конечно же, вы получите (вашу) долю – корову,  
+Когда вы добудете (этого) человека.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- अनुष्टुप्
+- गान्धारः
+
+- वैद्यो देवता
+- भिषगृषिः
+- अनुष्टुप्
+- गान्धारः
+
+- वायुसवितारौ देवते
+- आदित्या देवा वा ऋषयः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वः) ओषधियों ! तुम्हारा (निषदनम्) तुम्हारा-नियोजन-उपयोग का स्थान (अश्वत्थे) देह के अन्दर है (वः) तुम्हारे (वसतिः) वासना (पर्णे) पर्णवत्-पत्ते के समान चञ्चल मन में (कृता) नियत की है (गोभाजः) तुम वैद्य की वाणी को भजनेवाली-वैद्य के अनुसार लाभ पहुँचानेवाली रोगी को अच्छा करनेवाली (इत्) अवश्य (किल-असथ) निस्सन्देह हो (यत्) जिससे कि (पुरुषम्) रोगी पुरुष को (सनवथ) सम्यक् सेवन करती हो-स्वस्थ करती हो ॥५॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  वैद्य के कथनानुसार औषधियाँ रोगों को दूर करनेवाली सिद्ध होनी चाहिये,उनका देह में जिस स्थान पर रोग हो, प्रयोग किया जावे, जब स्वस्थ हो जावे तो उनका प्रभाव मन में बस जावे ॥५॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वः) हे ओषधयः ! युष्माकं (निषदनम्-अश्वत्थे) नियोजनं देहे “अश्वत्थे श्वः”-न स्थाता-इद्देशे-देहे [यजु० १२।७९ दयानन्दः] (वः-वसतिः पर्णे कृता) युष्माकं वसतिर्वासना प्रभावस्थितिः पर्णवच्चञ्चले मनसिकृता भिषजा-वैद्येन (गोभाजः-इत् किल-असथ) यूयं गां वाचं भिषजो वाचं यथा भिषक् कथयति यदस्य रोगस्यैषा खल्वोषधिस्तथा तद्वाचं भजन्ते, तथाभूता हि खलु यूयं भवथ (यत्) यतो हि (पुरुषं-सनवथ) यूयं रोगिणं पुरुषं सम्भजथ स्वस्थं कुरुथ ॥५॥
 </details>
 </details>
 
@@ -809,17 +1692,88 @@ Do ye further this speech of mine.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/08_uchChuShmA_oShadhInAM.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-The strength of the plants hath arisen Like cows from the pasturage,  
-Of them that are fain to win gain,  
-To the self of thee, O man.
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+उ᳓च् छु᳓ष्मा ओ᳓षधीनां᳐  
+गा᳓वो गोष्ठा᳓द् इवेरत्   
+ध᳓नं सनिष्य᳓न्तीना᳐म्  
+आत्मा᳓नं त᳓व पूरुष
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
+_________
+**Morph**  
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+śúṣmāḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+út ← út (invariable)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+goṣṭhā́t ← goṣṭhá- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+īrate ← √r̥- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+iva ← iva (invariable)  
+{}
+
+dhánam ← dhána- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+saniṣyántīnām ← √sanⁱ- (root)  
+{case:GEN, gender:F, number:PL, tense:FUT, voice:ACT}
+
+ātmā́nam ← ātmán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pūruṣa ← pū́ruṣa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+उच्छुष्मा॒ ओष॑धीनां॒ गावो॑ गो॒ष्ठादि॑वेरते ।  
+धनं॑ सनि॒ष्यन्ती॑नामा॒त्मानं॒ तव॑ पूरुष ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+उच्छुष्मा॒ ओष॑धीनां॒ गावो॑ गो॒ष्ठादि॑वेरते।  
+धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मानं॒ तव॑ पूरुष ॥८२ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उच्छुष्मा॒ ओष॑धीना॒ङ्गावो॑ गो॒ष्ठादि॑वेरते ।  
 धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
@@ -827,12 +1781,290 @@ To the self of thee, O man.
 
 <details><summary>पद-पाठः</summary>
 
+उत् । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒स्थात्ऽइ॑व । ई॒र॒ते॒ ।  
+धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पु॒रु॒ष॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+उत्। शुष्माः॑। ओष॑धीनाम्। गावः॑। गो॒ष्ठादि॑व। गो॒स्थादि॒वेति॑ गो॒स्थात्ऽइ॑व। ई॒र॒ते॒। धन॑म्। स॒नि॒ष्यन्ती॑नाम्। आ॒त्मान॑म्। तव॑। पू॒रु॒ष॒। पु॒रु॒षेति॑ पुरुष। ८२।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+उत्। शुष्म। ओष॑धीनाम्। गात्रः॑। गो॒ष्ठादि॑। गा॒स्थादि॒वेति॑ ग॒स्थात्ऽइ॑व। धन॑म्। स॒नि॒ष्यन्ती॑नाम्। आ॒त्मान॑म्। तव॑। पू॒रु॒ष॒। ८।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 वचः॑ ॥ उदिति॑ । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒ष्ठादिति॑ गो-स्थात् । इ॒व॒ । ई॒र॒ते॒ ॥ धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पू॒रु॒ष॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ucchuṣmā* ← *ud*
+- \[adverb\]
+- “up.”
+
+_________
+
+- *ucchuṣmā* ← *śuṣmāḥ* ← *śuṣma*
+- \[noun\], nominative, plural, masculine
+- “vigor; energy; fire; hiss; courage.”
+
+_________
+
+- *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhī*
+- \[noun\], genitive, plural, feminine
+- “herb; plant; drug; herb.”
+
+_________
+
+- *gāvo* ← *gāvaḥ* ← *go*
+- \[noun\], nominative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *goṣṭhād* ← *goṣṭhāt* ← *goṣṭha*
+- \[noun\], ablative, singular, masculine
+- “cowbarn; dwelling; pen; forum.”
+
+_________
+
+- *iverate* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *iverate* ← *īrate* ← *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+
+_________
+
+- *dhanaṃ* ← *dhanam* ← *dhana*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
+    dhan; capital; fight.”
+
+_________
+
+- *saniṣyantīnām* ← *san*
+- \[verb noun\], genitive, plural
+- “win; get; gain.”
+
+_________
+
+- *ātmānaṃ* ← *ātmānam* ← *ātman*
+- \[noun\], accusative, singular, masculine
+- “self; nature; Ātman; mind; soul; self; body; character; ātman
+    \[word\]; person; life; peculiarity.”
+
+_________
+
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *pūruṣa*
+- \[noun\], vocative, singular, masculine
+- “man; man; Puruṣa.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+पूरुष- हे व्याधिग्रस्त। तव- ते। आत्मानम्- आत्मनः। धनम्- सम्पदं व्याधिनिवारणसामर्थ्यम्।  सनिष्यन्तीनाम्- दातुमिच्छन्तीनाम्। ओषधीनाम्। शुष्मा- बलानि। गावः- रश्मयः। गोष्ठात्-  रश्मिसमूहात्। इव। उदीरते- उद्गच्छन्ति॥८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ओषधीनां** **शुष्माः** बलानि **उत्** ईरते उद्गच्छन्ति । रुग्णे स्ववीर्यं प्रोद्गमयन्तीत्यर्थः । **गावो** **गोष्ठादिव** । ता यथा ततः सकाशादुदीरते तद्वत् । कीदृशीनामोषधीनाम्। उच्यते । **धनं** स्वसामर्थ्यलक्षणं **सनिष्यन्तीनां** दातुमिच्छन्तीनाम् । किं प्रतीति उच्यते । हे **पूरुष** पुरुष रोगग्रस्त **तव** **आत्मानं** शरीरं प्रति । यद्वा । प्ररोहन्तीरोषधीर्दृष्ट्वा वदति । हे पुरुष प्रियङ्वाद्योषधिस्वामिन् तवात्मानं वर्धयितुं धनं सनिष्यन्तीनां व्रीह्याद्योषधीनां शुष्मा उदीरते ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+उच्छुष्माः।
+
+उच्छब्द ईरत इत्यनेन संबध्यते।
+
+उदीरते उद्गच्छन्ति प्रकाशीभवन्ति।
+
+शुष्माः वीर्याणि ओषधीनां संबन्धीनि।
+
+कथमिव।
+
+गावः गोष्ठादिव निष्क्रान्ताः।
+
+कि कुर्वतीनाम्।
+
+धनं सनिष्यन्तीनां संभजमानानां यजमानार्थं आत्मानं च संभजमानानाम् तव यज्ञ पूरुष॥ ८२॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे पुरुष यज्ञपुरुष, तवात्मानं त्वदीयं शरीरं प्रति धनं सनिष्यन्तीनाम् ‘षणु दाने’ हवीरूपं धनं दातुमिच्छन्तीनामोषधीनां शुष्मा बलानि सामर्थ्यानि उदीरते उद्गच्छन्ति प्रकाशीभवन्ति।
+
+गावो गोष्ठादिव यथा गोष्ठात् स्वस्थानाद् गावोऽरण्यदेशं प्रति उद्गच्छन्ति तद्वत्।
+
+‘ईर कम्पे अदादिः॥८२॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथाष्टमी - 'उच्छुष्मा ओषधीनां गात्रो गोष्ठादि-वेरते । धनः सनिष्यन्तीनाम् आत्मानं तद पुरुष ' इति ।
+
+'ओषधीनां 'शुष्माः तद् उपभोग-जन्य–जल-विशेषाः उदीरते उद्गच्छन्ति ।
+
+तत्र दृष्टान्तः - 'गाव: 'गोष्टात् इव ।
+
+यथा गावः स्वनिवास-स्थानाद् गृहादरण्य-देशं प्रति उद्गच्छन्ति, तद्वत् ।
+
+की शीनामोषधीनाम् ?
+
+हे पुरुष, तब त्वदीयम् आत्मानं शरीरं प्रति धनं सनिष्यन्तीनां धनं दातुम् इच्छन्तीनाम् ॥८॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' उच्छुष्माः ' [ इति ] ।
+
+उत् ।
+
+'शुप्माः वीर्याणि । ओषधीनां संबन्धीनि वीर्याणि । ईर् गतौ । ' उदीरते ।
+
+अत्र व्यत्ययः ।
+
+उद्गच्छन्ति प्रकाशीभवन्ति ।
+
+कथम् इव ?
+
+' गावो गोष्टाद् इव' ।
+
+'गोष्ठात् स्वनिवास-स्थानात् 'गावः उद्गच्छन्ति इव ।
+
+किं कुर्वन्तीनाम् इति ।
+
+"धनं सनिष्यन्तीनां धनं संभज-मानानां यजमानार्थम् । तत्र 'आत्मानं च पूरुष । अत्र
+। व्यत्ययः । यज्ञपुरुषं च, पुरु बहुलं सनोति ददातीति पुरुषः तं संभजमानानाम् ओषधीनां शुष्मा उदीरत इति संबन्धः ॥८॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+ओषधियों का क्या निमित्त है, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (पूरुष) पुरुष-शरीर में सोनेवाले वा देहधारी ! (धनम्) ऐश्वर्य्य बढ़ानेवाले को (सनिष्यन्तीनाम्) सेवन करती हुई (ओषधीनाम्) सोमलता वा जौ आदि ओषधियों के सम्बन्ध से जैसे (शुष्माः) प्रशंसित बल करने हारी (गावः) गौ वा किरण (गोष्ठादिव) अपने स्थान से बछड़ों वा पृथिवी को प्राप्त होती हैं, वैसे ओषधियों का तत्त्व (तव) तेरे (आत्मानम्) आत्मा को (उदीरते) प्राप्त होता है, उन सब की तू सेवा कर ॥८२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जैसे रक्षा की हुई गौ अपने दूध आदि से अपने बच्चों और मनुष्य आदि को पुष्ट करके बलवान् करती है, वैसे ही ओषधियाँ तुम्हारे आत्मा और शरीर को पुष्ट कर पराक्रमी करती हैं। जो कोई न खावे तो क्रम से बल और बुद्धि की हानि हो जावे। इसलिये ओषधी ही बल बुद्धि का निमित्त है ॥८२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+किन्निमित्ता ओषधयः सन्तीत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे पूरुष ! या धनं सनिष्यन्तीनामोषधीनां शुष्मा गावो गोष्ठादिव तवात्मानमुदीरते, तास्त्वं सेवस्व ॥८२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। हे मनुष्याः ! यथा सम्पालिता गावो दुग्धादिभिः स्ववत्सान् मनुष्यादींश्च सम्पोष्य बलयन्ति, तथैवौषधयो युष्माकमात्मशरीरे सम्पोष्य पराक्रमयन्ति। यदि कश्चिदन्नादिकमौषधं न भुञ्जीत, तर्हि क्रमशो बलविज्ञानह्रासं प्राप्नुयात्, तस्मादेता एतन्निमित्ताः सन्तीति वेद्यम् ॥८२ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! जशा पाळीव गाई आपल्या पाडसांना व माणसांना दुधाने पुष्ट व बलवान करतात तशी औषधेही (सोमलता वगैरे) आत्मा व शरीर यांना पुष्ट करून पराक्रमी बनवितात. याप्रमाणे औषधांचे सेवन न केल्यास क्रमाने बल व बुद्धी यांची हानी होते. त्यामुळे औषध हेच बल व बुद्धीचे निमित्त आहे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The virtues of the plural nts which are desirous of bestowing wealth issue from them, man, (towards) yourbody like cattle from the pen.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The unbridled forces of the plants rise up like cows from the cowpen as they seek to gain the stake and your very self, o man.
+</details>
+
+<details><summary>Griffith</summary>
+
+The healing virtues of the Plants stream forth like cattle from the stall,-  
+     Plants that shall win me store of wealth, and save thy vital breath, O man.
+</details>
+
+<details><summary>Keith</summary>
+
+The strength of the plants hath arisen Like cows from the pasturage,  
+Of them that are fain to win gain,  
+To the self of thee, O man.
+</details>
+
+<details><summary>Geldner</summary>
+
+Die Kräfte der Kräuter strömen aus wie die Kühe aus dem Kuhstand, die Kräuter, die Reichtum gewinnen sollen und dein Leben, o Mann.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Kräuter Düfte strömen aus, wie aus dem Stall die Heerde dringt, Um zu gewinnen werthen Preis – und auch dein Leben, lieber Mann.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Силы растений  
+Выходят, как коровы из хлева,  
+(Растений,) что будут добывать богатство –  
+(И) твой жизненный дух, о человек.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- विराडनुष्टुप्
+- गान्धारः
+
+- ओषधयो देवताः
+- भिषगृषिः
+- विराडनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सनिष्यन्तीनाम्) सम्भजनीय सेवन करने योग्य (ओषधीनाम्) ओषधियों के (शुष्माः) बलवान्-बलप्रदरस (गोष्ठात्-इव) गोस्थान से जैसे (गावः) गौवें (उत् ईरते) उछलती हुई निकलती हैं, वैसे (पुरुष) हे रोगी जन ! (तव) तेरे (आत्मानम्) आत्मा के प्रति (धनम्) तृप्त करनेवाला रस उछलता है ॥८॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  समस्त सेवन करने योग्य ओषधियों के प्रत्यग्र बलवान् रस रोगी को देने चाहिएँ, उससे रोगी के शिथिल रक्त आदि धातु बढ़कर उसके आत्मा मन शरीर को तृप्त व तेजस्वी बना देते हैं ॥८॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सनिष्यन्तीनाम्-ओषधीनाम्) सनिष्यमाणानां सम्भज्यमानानां सेव्यमानानामोषधीनां (शुष्माः) बलवन्तो रसाः (गोष्ठात्-इव गावः-उत् ईरते) यथा गोस्थानात्-खलु गाव उद्गच्छन्ति तद्वदुत्प्लुत्य गच्छन्ति (पुरुष) हे रोगग्रस्त ! (तव-आत्मानम्-धनम्) तवात्मानं प्रति प्रीणनकरं रसमुत्स्रावयन्ति ॥८॥
 </details>
 </details>
 
@@ -859,9 +2091,362 @@ To the self of thee, O man.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/10_ati_vishvAH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अ᳓ति वि᳓श्वाः परिष्ठा᳐᳓  
+स्तेन᳓ ऽव° व्रज᳓म् अक्रमुः  
+ओ᳓षधीः प्र᳓ अचुच्यवुर्  
+य᳓त् किं᳓ च तनु᳓वो र᳓पः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+áti ← áti (invariable)  
+{}
+
+pariṣṭhā́ḥ ← pariṣṭhā́- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+víśvāḥ ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+akramuḥ ← √kramⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+iva ← iva (invariable)  
+{}
+
+stenáḥ ← stená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vrajám ← vrajá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+acucyavuḥ ← √cyu- (root)  
+{number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+kím ← ká- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+rápaḥ ← rápas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tanvàḥ ← tanū́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॒ विश्वाः॑ परि॒ष्ठाः स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+ओष॑धीः॒ प्राचु॑च्यवु॒र्यत्किं च॑ त॒न्वो॒३॒॑ रपः॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अति॒ विश्वाः॑ परि॒ष्ठा स्ते॒नऽइ॑व व्र॒जम॑क्रमुः।  
+ओष॑धीः॒ प्राचु॑च्यवु॒र्यत्किं च॑ त॒न्वो᳙ रपः॑ ॥८४ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+अति॒ विश्वाः॑ परि॒ष्ठा स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+ओष॑धीः॒ प्राचु॑च्यवु॒र्यत्किं च॑ त॒न्वो॒ रपः॑ ॥१०॥ ॥ ८५
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अति॒ विश्वाः॑ परि॒ष्ठास्स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अति॑ । विश्वाः॑ । प॒रि॒ऽस्थाः । स्ते॒नःऽइ॑व । व्र॒जम् । अ॒क्र॒मुः॒ ।  
+ओष॑धीः । प्र । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒न्वः॑ । रपः॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अति॑। विश्वाः॑। प॒रि॒ष्ठाः। प॒रि॒स्था इति॑ परि॒ऽस्थाः। स्ते॒नइ॒वेति॑ स्ते॒नःऽइ॑व। व्र॒जम्। अ॒क्र॒मुः॒। ओष॑धीः। प्र। अ॒चु॒च्य॒वुः। यत्। किम्। च॒। त॒न्वः᳖। रपः॑। ८४।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अति॑। विश्वा॑। प॒रि॒ष्ठाः। परि॒स्था इति॑ प॒र॒ ऽस्थाः। स्ते॒न॒ड्वेति॑स्ते॒नःऽइ॑व। ओष॑धीः। प्र। अ॒चु॒च्य॒वुः। यत्। किम्। च॒। त॒न्वः᳖। रपः॑। १०।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अतीति॑ । विश्वाः॑ । प॒रि॒ष्ठा इति॑ परि-स्थाः । स्ते॒नः । इ॒व॒ । व्र॒जम् । अ॒क्र॒मुः॒ ॥ ओष॑धयः । प्रेति॑ । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒नुवा॑म् । रपः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *viśvāḥ* ← *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *pariṣṭhā*
+- \[noun\], nominative, plural, feminine
+- “hindrance.”
+
+_________
+
+- *stena* ← *stenaḥ* ← *stena*
+- \[noun\], nominative, singular, masculine
+- “thief; stena \[word\].”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *vrajam* ← *vraja*
+- \[noun\], accusative, singular, masculine
+- “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
+    herd; flock; group.”
+
+_________
+
+- *akramuḥ* ← *kram*
+- \[verb\], plural, Root aorist (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+
+_________
+
+- *oṣadhīḥ* ← *oṣadhī*
+- \[noun\], nominative, plural, feminine
+- “herb; plant; drug; herb.”
+
+_________
+
+- *prācucyavur* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *prācucyavur* ← *acucyavuḥ* ← *cyu*
+- \[verb\], plural, Plusquamperfect
+- “fall down; issue; shoot; ejaculate; deviate; banish; drop;
+    dislodge; miss; deprive.”
+
+_________
+
+- *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *kiṃ* ← *kim* ← *ka*
+- \[noun\], nominative, singular, neuter
+- “what; who; ka \[pronoun\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *tanvo* ← *tanvoḥ* ← *tanu*
+- \[noun\], genitive, dual, feminine
+- “body; embodiment; life; life; root; body; form.”
+
+_________
+
+- *rapaḥ* ← *rapas*
+- \[noun\], nominative, singular, neuter
+- “injury; disease; infirmity; damage.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+स्तेन इव- चोरो यथा। व्रजम्- गोष्ठम्। अक्रमुः- तथा ये रोगाः शरीरमाक्रमन्ते। तान्। अति-  अतिक्रम्य। विश्वाः- सर्वा ओषधयः। परिष्ठाः- परितः तिष्ठन्ति। यत्किं च- यत्किञ्चित्। रपः-  रोगः। तन्वः- शरीरस्य अस्ति। तम्। ओषधयः। प्राचुच्युवुः- प्रच्यावयन्ति॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्वाः** व्याप्ताः **परिष्ठाः** परितः स्थिता ओषधयः **अति** **अक्रमुः** व्याधीनतिक्रान्तवत्यः । **स्तेनइव** **व्रजम्** । यथा स्तेनो व्रजमत्यक्रमीत् तद्वत् । तथा कृत्वा **ओषधीः** ओषधयः **प्राचुच्यवुः** प्रच्यावयन्ति **यत्किं** **च** **तन्वः** रुग्णशरीरस्य **रपः** पापं व्याधिलक्षणमस्ति तदिति ॥ ॥ ९ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अति विश्वाः।
+
+यदा अत्यक्रमुः आक्रामन्ते तनूः विश्वाः सर्वाः परिष्ठाः परि सर्वतो व्याधीनधिष्ठाय तिष्ठन्तीति परिष्ठा ओषधयः।
+
+कथमिव।
+
+स्तेन इव व्रजम्।
+
+यथा स्तेनः तस्करः व्रजमत्यक्रामत् परिमुमोषिषया एवमत्यक्रमुः।
+
+अथानन्तरमेव ओषधयः प्राचुच्यवुः प्रच्यावयन्ति।
+
+यत्किंचित्तन्वः शरीरस्य रपः।
+
+‘रपो रिप्रमिति पापनामनी भवतः’।
+
+पापजनितं व्याधिमित्यर्थः॥ ८४॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+परि सर्वतो रोगानधिष्ठाय तिष्ठन्तीति परिष्ठाः रोगनाशिका विश्वाः सर्वाः ओषधीः ओषधयो यदा अत्यक्रमुः आक्रमन्ते भक्षिताः सत्यो देहं व्याप्नुवन्ति।
+
+क्रमतेर्लङि अन उश्छान्दसः।
+
+तत्र दृष्टान्तः स्तेन इव व्रजम्।
+
+यथा रात्रौ स्तेनश्चोरो गोष्ठमाक्रमते गोशालायां गामपहर्तुं सर्वत्र गच्छति तद्वत् यदौषधयो रोगमपहर्तुं देहमाक्रमन्ते तदा तन्वः शरीरस्य यत् किंच यत्किमपि रपः पापं शिरोव्यथागुल्मातिसारादिरूपं पापफलं यत् किंचिदस्ति तत्सर्वं प्राचुच्यवुः प्रच्यावयन्ति नाशयन्ति ‘च्यु गतौ’ लुङि ‘णिश्रिद्रुस्रुभ्यः कर्तरि चङ्’ (पा० ३। १। ४८) इति चङ्प्रत्यये रूपम्।
+
+‘रपो रिप्रमिति पापनामनी भवतः’ (नि० ४। २१) इति यास्कः॥८४॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ दशमी अति विश्वाः परिष्ठा स्तेन इव व्रजमक्रमुः ।
+
+ओषधीः प्राचुच्यवुर्यत् किं च तन्वो रपः' इति । परिष्ठाः शरीरस्य परितः स्थिता उदर-मध्ये प्रविष्टा: 'विश्वाः सर्वाः ओषधयः 'अति भजीर्णादि-दोषम् अतिलङ्घ्य 'अक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।
+
+तत्र दृष्टान्तः - स्तेन इव 'ब्रजम् ।
+
+यथा रात्रौ गुप्त-चोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानं गोशालायां सर्वतो व्याप्नोति तद्वत् ।
+
+तन्वः शरीरस्य संबन्धि यत् किं च रपः ज्वर-शिरोग्यथागुल्मातिसारादि-रूपं पाप-फलं यत् किंचिद् अस्ति तत् सर्वम् 'ओषधीः ओषधयः प्राचुच्यवुः विनाशितवत्यः ॥ १० ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अति विश्वा:' इति ।
+
+विश्वमतीत्य वर्तत इति अतिविश्वाः ।
+
+परिष्ठाः परितः सर्वतः व्याधीनधिष्ठाय तिष्ठन्तीति परिष्ठा ओषधयः ।
+
+कथम् इव परिष्ठा इति ।
+
+' स्तेन इव व्रजम् ' ।
+
+यथा " स्तेन: अनिष्टकरः व्रजं पशुपाल-निवास-स्थानं परिमुमोषया अधिष्ठाय स्व-कार्यं करोति, एबम् 'अक्रमुः । अनन्तरं च ' ओषधीः ओषधयः प्राचुच्यवः प्राच्यावयन् । ' यत् किं च तन्वो रपः ' । ' तन्वः शरीरस्य । रपः रिप्रम् इति द्वे पापनामनी भवतः । शरीरस्य यत् किंचन रपः व्याधि-जन्मनिमित्तं रपस् तद्व्याधिं च ओषधयः प्राचुच्यवुः प्राच्यवनं कारयेयुः ॥ १० ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+**परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+कैसे रोग निवृत्त होते हैं, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! तुम लोग जो (परिष्ठाः) सब ओर से स्थित (विश्वा) सब (ओषधीः) सोमलता और जौ आदि ओषधी (व्रजम्) जैसे गोशाला को (स्तेन इव) भित्ति फोड़ के चोर जावे, वैसे पृथिवी फोड़ के (अत्यक्रमुः) निकलती हैं, (यत्) जो (किञ्च) कुछ (तन्वः) शरीर का (रपः) पापों के फल के समान रोगरूप दुःख है, उस सब को (प्राचुच्यवुः) नष्ट करती हैं, उन ओषधियों को युक्ति से सेवन करो ॥८४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे गौओं के स्वामी से धमकाया हुआ चोर भित्ति को फाँद के भागता है, वैसे ही श्रेष्ठ ओषधियों से ताड़ना किये रोग नष्ट हो के भाग जाते हैं ॥८४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+कथं रोगा निवर्त्तन्त इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! यूयं याः परिष्ठा विश्वा ओषधीर्व्रजं स्तेन इवात्यक्रमुः, यत् किं च तन्वो रपस्तत्सर्वं प्राचुच्यवुस्ता युक्त्योपयुञ्जीध्वम् ॥८४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। यथा चोरो गोस्वामिना धर्षितः सन् आभीरघोषमुल्लङ्घ्य पलायते, तथैव सदौषधैस्ताडिता रोगा नश्यन्ति ॥८४ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा गाईचा मालक चोराला दरडावतो तेव्हा तो भिंतीवरून उडी मारून पळून जातो, तसे श्रेष्ठ औषधांचा मारा केल्यास रोग नष्ट होऊन पळून जातो.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The universal all-pervading plural nts assail (diseases) as a thief (attacks) a cow-shed; they drive outwhatever infirmity of body there may be.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Infirmity: **rapaḥ** = **pāpaḥ**, sin; because of the consequence of sin eitherin this or in a previous existence
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+They have stepped over the fences like a thief over a barricade.  
+The plants have driven forth whatever malady of the body there is.
+</details>
+
+<details><summary>Griffith</summary>
+
+Over all fences have they passed, as steals a thief into the fold.  
+     The Plants have driven from the frame whatever malady was there.
+</details>
+
 <details><summary>Keith</summary>
 
 I Beyond all obstacles,  
@@ -870,20 +2455,50 @@ The plants have shaken away
 Every defilement in the body.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-अति॒ विश्वाः॑ परि॒ष्ठास्स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
-ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
+Über alle Hindernisse sind sie wie der Dieb über den Zaun gestiegen. Die Kräuter haben jeglichen Leibesschaden entfernt.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-अतीति॑ । विश्वाः॑ । प॒रि॒ष्ठा इति॑ परि-स्थाः । स्ते॒नः । इ॒व॒ । व्र॒जम् । अ॒क्र॒मुः॒ ॥ ओष॑धयः । प्रेति॑ । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒नुवा॑म् । रपः॑ ॥
+Kein Hemmniss hält sie auf, sie sind der Dieb, der durch die Zäune bricht, Die Kräuter werfen alles um, was an dem Leib Gebreste ist.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-**परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
+Вы преодолели все барьеры,  
+Как вор (, попадающий) в загон (для скота).  
+Растения удалили любое  
+Повреждение тела, какое ни на есть.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- विराडनुष्टुप्
+- गान्धारः
+
+- वैद्या देवताः
+- भिषगृषिः
+- विराडनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (स्तेन-इव) चोर जैसे (व्रजम्) गोस्थान को (अति-अक्रमुः) अतिक्रान्त करता है, तोड़ता है, वैसे (विश्वा) सारी (परिष्ठाः) सर्वत्र फैलनेवाली (ओषधीः) औषधियाँ (तन्वः) शरीर का (यत्-किं च रपः) जो कुछ दोष है, (प्र अचुच्यवुः) उसे च्युत करो, निकाल दो ॥१०॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  चोर जैसे गौशाला में गुप्त रूप से तोड़-फोड़ कर गौ को बाहर निकाल देते हैं, ऐसे ही ओषधियाँ शरीर में घुसकर रोगस्थानों को खोलकर उनमें से रोगों को बाहर निकाल ले आती हैं,ऐसी प्रभावशाली ओषधियाँ सेवन करने योग्य हैं ॥१०॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (स्तेन-इव वज्रम्-अति-अक्रमुः) चोरो यथा गोस्थानमतिक्राम्यति त्रोटयति तथा (विश्वाः-परिष्ठाः-ओषधीः) सर्वाः सर्वतो वर्त्तमाना ओषधयः (तन्वः-यत्-किं च रपः) शरीरस्य यत्किं च रपः शरीरनाशको दोषोऽस्ति (प्र अचुच्यवुः) तं प्रच्युतं कुरुत ॥१०॥
 </details>
 </details>
 
@@ -1014,9 +2629,352 @@ With the whirlwind do thou disappear.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/07_ashvAvatIM_somAvatImUrjayantImudojasam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अश्वावतीं᳓ सोमावती᳓म्  
+ऊर्ज᳓यन्तीम् उ᳓दोजसम्  
+आ᳓वित्सि स᳓र्वा ओ᳓षधीर्  
+अस्मा᳓ अरिष्ट᳓तातये
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+aśvāvatī́m ← áśvāvant- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+somāvatī́m ← somāvánt- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+údojasam ← údojas- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ūrjáyantīm ← √ūrjay- (root)  
+{case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+avitsi ← √vid- 1 (root)  
+{number:SG, person:1, mood:IND, tense:AOR, voice:MED}
+
+óṣadhīḥ ← óṣadhī- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sárvāḥ ← sárva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ariṣṭátātaye ← ariṣṭátāti- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+asmaí ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्वा॒व॒तीं सो॑माव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
+आवि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अ॒श्वा॒व॒तीँ सो॑माव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम्।  
+आवि॑त्सि॒ सर्वा॒ऽओष॑धीर॒स्माऽअ॑रि॒ष्टता॑तये ॥८१ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒श्वा॒व॒तीँ सो॑मव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
+आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒श्व॒ऽव॒तीम् । सो॒म॒ऽव॒तीम् । ऊ॒र्जय॑न्तीम् । उत्ऽओ॑जसम् ।  
+आ । अ॒वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टऽता॑तये ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒श्वा॒व॒तीम्। अ॒श्वा॒व॒तीमित्य॑श्वऽव॒तीम्। सो॒मा॒व॒तीम्। सो॒म॒व॒तीमिति॑ सो॑मऽव॒तीम्। ऊ॒र्जय॑न्तीम्। उदो॑जस॒मित्युत्ऽओ॑जसम्। आ। अ॒वि॒त्सि॒। सर्वाः॑। ओष॑धीः। अ॒स्मै। अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्टऽता॑तये। ८१।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒श्वा॒व॒तीम्। अ॒श्वव॒तीमित्य॑श्व॒ऽव॒तम्। सो॒मा॒व॒तीम्। सोमवतीमिति॑ सम॒ऽव॒तीम्। ऊ॒र्जग॑न्तीम्। उदो॑जस॒मित्युत्। औजसम्। आ। अ॒वत्सि॒। सर्वाः॑। ओष॑धीः। अ॒स्मै। अरि॒ष्टता॑य॒। इत्य॑रि॒ष्ठता॑तये। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *aśvāvatīṃ* ← *aśvāvatīm* ← *aśvāvat*
+- \[noun\], accusative, singular, feminine
+- “rich in horses.”
+
+_________
+
+- *somāvatīm* ← *somāvat*
+- \[noun\], accusative, singular, feminine
+
+_________
+
+- *ūrjayantīm* ← *ūrjay*
+- \[verb noun\], accusative, singular
+- “strengthen.”
+
+_________
+
+- *udojasam* ← *udojas*
+- \[noun\], accusative, singular, feminine
+- “powerful.”
+
+_________
+
+- *āvitsi* ← *vid*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “find; detect; marry; get; think.”
+
+_________
+
+- *sarvā* ← *sarvāḥ* ← *sarva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
+- \[noun\], accusative, plural, feminine
+- “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
+
+_________
+
+- *asmā* ← *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *ariṣṭatātaye* ← *ariṣṭatāti*
+- \[noun\], dative, singular, feminine
+- “safeness.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+३    अश्वावतीम्- प्राणयुक्ताम्। सोमावतीम्- रसयुक्ताम्। ऊर्जयन्तीम्- बलदात्रीम्। उदोजसम्-  ओजःसम्पन्नाम्। सर्वाः ओषधीः- एवं सर्वा ओषधीः। अस्मै- एतस्मै। अरिष्टतातये-  व्याधिनिवारणाय। आवित्सि- जानामि॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अश्वावत्यादयः प्रधानभूता ओषधयश्चतस्रः। ताः सर्वा **ओषधीः** **आवित्सि** आजाने । स्तौमीत्यर्थः । **अस्मा** **अरिष्टतातये** । अमुं रोग विनाशयितुमित्यर्थः ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अश्वावतीम्।
+
+सर्वा ओषधीरिति बहुवचनोपदेशादिहापि बहुवचनं भवति।
+
+या ओषधयश्च अश्ववत्यः अश्वसंपादिन्यः सोमवत्यः सोमयागसंपादिन्यः उर्जयन्त्यः ‘उर्ज बलप्राणनयोः’ बलसंपादिन्यः।
+
+उदोजसः उद्गतमोजो यासां उदोजसः।
+
+ताः सर्वा ओषधीः अहमा अवित्ति जानामि।
+
+विदित्वा च अस्मै अरिष्टतातये।
+
+रिषतिर्विनाशार्थः।
+
+न रिष्टमरिष्टमविनाशः तस्य तननमरिष्टतातिः अस्मै अरिष्टविनाशतननाय भैषज्यं करोमीति शेषः॥८१॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अस्मै अस्य यजमानस्य अरिष्टतातये।
+
+रिषतिर्विनाशार्थः।
+
+रेषणं रिष्टम् भावे क्तः।
+
+न रिष्टमरिष्टमनाशो मङ्गलमित्यर्थः।
+
+तस्य कारणमरिष्टतातिः।
+
+‘शिवशमरिष्टस्य करे’ (पा. ४. ४. १४३.) इति तातिप्रत्ययः।
+
+यद्वा तननं तातिर्विस्तारः तस्मै यजमानस्य शुभकरणाय सर्वा ओषधीरहमा अवित्सि समन्ताद्वेद्मि जानामि।
+
+वेत्तेर्लुङि आत्मनेपदे उत्तमैकवचने इडभावे अवित्सीति रूपम्।
+
+अस्मै यजमानार्थं वेद्मीति वा।
+
+तद्विशेषणम्।
+
+अरिष्टं शुभं करोति तनोति वारिष्टतातिस्तस्मै।
+
+सर्वाः का इत्यत आह।
+
+अश्वावतीमश्वा अस्यां सन्तीत्यश्ववती तामश्वसंपादिनीं कांचितोषधिसमृद्धौ सत्यां धनद्वारेणाश्वलाभात्।
+
+अन्यां सोमवतीं सोमयागोऽस्यामस्तीति सोमवती तां सोमसंपादिनीं ‘मन्त्रे सोमाश्व-’ (पा. ६. ३. १३१) इत्यादिनाश्वसोमयोर्दीर्घः।
+
+ऊर्जयन्तीम् ‘ऊर्ज बलप्राणनयोः’ बलसंपादिनीं जीवयन्तीं वा ऊर्जयन्तीति।
+
+उदोजसमुद्गतमोजो यस्याः सा उदोजास्तां तेजःसंपादिनीम्।
+
+एवं नानाकार्यकारिणीः सर्वा ओषधीः जानामीत्यर्थः।
+
+यद्वा अश्वावतीमित्यादीनि बहुवचनान्तानि कार्याणि ओषधीरित्यस्य विशेषणत्वात्॥ ८१॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+सा अथ सप्तमी - ' अश्वावती सोमावतीमूर्जयन्तीसुदोजसम् । आऽवित्सि सर्वा ओषधीर् अस्मा अरिष्टातये ' इति ।
+
+काचिदोषधिजातिर् अश्वावती ।
+
+अश्वा अस्यां सन्तीति अश्वावती ।
+
+छान्दसो दीर्घः ।
+ओषधि-समृद्धौ सत्यां धन-द्वारेण अश्वा लभ्यन्त इत्य् अर्थः ।
+
+अन्या काचिदोषधिः सोमावती ।
+
+सोमयागो- Sस्याम् अस्तीति सोमवती ।
+
+तस्यां सत्यां सोमयागः कर्तुं शक्यत इत्य् अर्थः ।
+
+अपरा जातिरूर्जयन्ती ।
+
+ऊजं बलं प्राण-चेष्टां वा करोतीत्यर्थः ।
+
+अन्या जातिरुदोजाः ।
+
+उत्कृष्टमोजो धातुर् अङ्गे यस्याः सा उदोजाः ।
+
+अन्न-द्वारेण शरीर-धातून् पोषयतीत्यर्थः ।
+
+ताः 'सर्वाः 'ओषधीः अहम् "आवित्सि सर्वतो लब्धवानस्मि । किमर्थम् ?
+अस्मै अरिष्टातये । अरिष्टस्य भावः अरिष्टतातिः । अस्य यजमानस्य हिंसाराहित्यायेत्यर्थः ॥ ७॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अश्वावतीम् ' इति ।
+
+' सर्वा ओषधीः ' इति निर्देशाद् एक-वचनम् इह विवक्षितम् ।
+
+या ओषधयः 'अश्वावतीम् । अश्वावत्यः अश्व-संपादिन्यः । सर्वत्र छान्दसो दीर्घः । अश्ववत्यः । " सोमावती सोमवत्यः 'ऊर्जयन्तीम् ऊर्जयन्त्यः । ऊजं बल-प्राणनयोः । बल-संपादिन्यः । "उदोजसम् । उद्गतमोजो यासामोषधीनां ता उदोजसः । ताः 'सर्वाः 'ओषधीः पूर्व-मन्त्रोक्तो भिषक् त्वम् आवित्सि जानासि ।
+
+किम्-अर्थम् इति - अस्मै अरिष्टतातये ।
+
+रिषतिर् विनाशार्थः ।
+
+रिष्टं रिष्टिः विनाशः ।
+
+न रिष्टम् [ अरिष्टं ], तायते विस्तार्यत इति ।
+
+अरिष्टतातये ।
+
+अस्मै अस्य यजमानस्य रोग-निवर्तनेन अविनाशता-विस्तारणार्थं भैषज्यं करोत्व् इति शेषः ॥७॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+काचि॑दोषधिजातिरश्वावती, अश्वा अस्यां सन्तित्यश्वा वती, ओषधिसमृद्धौ सत्यां धनद्वारेणाश्वा लभ्यन्त इत्यर्थः ।   अन्या काचिदो षधिजातिः सोमवती सोमयागोऽस्यामस्तीति सोमवती, धान्यसमृद्धौ सत्यां सोमयागः कर्तुं शक्यत इत्यर्थः ।   अपरोर्जयन्ती, ऊर्ज बलं प्राणचेष्टां वा करोतीत्यर्थः ।   अन्या जातिरुदोजाः, उत्कृष्टयोजोऽष्टमधातुरूपं यस्याः सोदोजाः अन्नद्वारेण शरीरधातून्पोषयतीत्यर्थः ।
+ताः सर्वा ओषधीरहमावित्सि लब्धवानस्मि ।   किमर्थम् ।   अस्मा अरिष्टतातये अरिष्टस्य तातिररिष्टतातिः ।   अस्य यजमानस्य हिंसाराहित्ययेत्यर्थः ।     १९१७ तदेवमोषधिवापार्था ऋचश्चतुर्दशाऽऽम्नाताः ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+मनुष्यों को नित्य पुरुषार्थ बढ़ाना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे मैं (अरिष्टतातये) दुःखदायक रोगों के छुड़ाने के लिये (अश्वावतीम्) प्रशंसित शुभगुणों से युक्त (सोमावतीम्) बहुत रस से सहित (उदोजसम्) अति पराक्रम बढ़ाने हारी (ऊर्जयन्तीम्) बल देती हुई श्रेष्ठ ओषधीयों को (आ) सब प्रकार (अवित्सि) जानूँ कि जिससे (सर्वाः) सब (ओषधीः) ओषधी (अस्मै) इस मेरे लिये सुख देवें, इसलिये तुम लोग भी प्रयत्न करो ॥८१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। मनुष्यों को चाहिये कि रोगों का निदान, चिकित्सा, ओषधि और पथ्य के सेवन से निवारण करें तथा ओषधियों के गुणों का यथावत् उपयोग लेवें कि जिससे रोगों की निवृत्ति होकर पुरुषार्थ की वृद्धि होवे ॥८१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+मनुष्यैः सदा पुरुषार्थ उन्नेय इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! यथाऽहमरिष्टतातयेऽश्वावतीं सोमावतीमुदोजसमूर्जयन्तीं महौषधीमावित्सि, सर्वा ओषधीरस्मै यूयमपि प्रयतध्वम् ॥८१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। मनुष्याणामादिममिदं कर्माऽस्ति यद्रोगाणां निदानचिकित्सौषधपथ्यसेवनमोषधीनां गुणज्ञानं यथावदुपयोजनं च यतो रोगनिवृत्या निरन्तरं पुरुषार्थोन्नतिः स्यादिति ॥८१ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी रोगनिदान करून चिकित्सा करावी व औषध आणि पथ्यसेवन यांनी रोगनिवारण करावे. औषधांचा गुण जाणून त्याचा यथायोग्य उपयोग करावा व रोगांचा नाश करून पुरुषार्थ वाढवावा.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The **Aśvāvatī**, the **Somāvatī**, the Urjayantī, the Udojasā)-- all these plural nts I praise for thepurpose of overcoming this disease.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Aśvāvatī... : these are the four principal plural nts, or, the plural nts, the giver ofhorses (ofr of wealth), the yielder of **Soma**, the giver of strength (or life), the restorer of vigour; the termsurjayantī, udojasā = tonic and stimulant; for the purpose of overcoming this disease: liṭ, for this person n for thispreservation
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The “horse possessor,” the “soma-possessor,” the “strengthener,” the  “overpowering one”—  
+all these plants have I acquired for this (man) here not to be harmed.
+</details>
+
+<details><summary>Griffith</summary>
+
+Herbs rich in Soma, rich in steeds, in nourishments, in strengthening power,-  
+     All these have I provided here, that this man may be whole again.
+</details>
+
 <details><summary>Keith</summary>
 
 Rich in steeds, rich in Soma,  
@@ -1025,21 +2983,50 @@ I have found all the plants
 For his safety.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-अ॒श्वा॒व॒तीँ सो॑मव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
-आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
+Das Rosseeinbringende, Somasaftliefernde, Stärkende, Krafterhöhende, alle diese Kräuter habe ich angetroffen für diesen zur Genesung.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+Das wäss'rige, das milchige, das nährende, das kräftige – Beisammen sind sie alle hier, zu machen seinen Schaden heil.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-काचि॑दोषधिजातिरश्वावती, अश्वा अस्यां सन्तित्यश्वा वती, ओषधिसमृद्धौ सत्यां धनद्वारेणाश्वा लभ्यन्त इत्यर्थः ।   अन्या काचिदो षधिजातिः सोमवती सोमयागोऽस्यामस्तीति सोमवती, धान्यसमृद्धौ सत्यां सोमयागः कर्तुं शक्यत इत्यर्थः ।   अपरोर्जयन्ती, ऊर्ज बलं प्राणचेष्टां वा करोतीत्यर्थः ।   अन्या जातिरुदोजाः, उत्कृष्टयोजोऽष्टमधातुरूपं यस्याः सोदोजाः अन्नद्वारेण शरीरधातून्पोषयतीत्यर्थः ।
-ताः सर्वा ओषधीरहमावित्सि लब्धवानस्मि ।   किमर्थम् ।   अस्मा अरिष्टतातये अरिष्टस्य तातिररिष्टतातिः ।   अस्य यजमानस्य हिंसाराहित्ययेत्यर्थः ।     १९१७ तदेवमोषधिवापार्था ऋचश्चतुर्दशाऽऽम्नाताः ।
+Приносящее коней, приносящее сому,  
+Подкрепляющее, увеличивающее силу –  
+Я нашел все (эти) растения,  
+Чтобы он был невредим!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- अनुष्टुप्
+- गान्धारः
+
+- वैद्यो देवता
+- भिषगृषिः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अश्वावतीम्) अश्व-घोड़े की शक्तिवाली अश्वगन्धा आदि ओषधी को (सोमावतीम्) सोम्यरसवाली ओषधी को (ऊर्जयन्तीम्) बलकारिणी ओषधी को (उदोजसम्) उत्साहवर्धक ओषधी को तथा (सर्वाः) सारी (ओषधीः) ओषधियों को (अस्मै) इस (अरिष्टतातये) रोगरहित-रोगमुक्त हो जाने के लिए (आवित्सि) मैं वैद्य जानता हूँ या उपयोग करता हूँ ॥७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  कुछ ओषधियाँ मानसिक रोग को दूर करनेवाली, कुछ शरीर में रस रक्त का सञ्चार करनेवाली और कुछ प्राणशक्ति देनेवाली और कुछ वीर्यप्रद वाजीकरण ओषधियाँ होती हैं, उन सबका ज्ञान और उपयोग करना वैद्य को आना चाहिये ॥७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अश्वावतीम्) अश्ववच्छक्तिमतीमश्वगन्धादिकां (सोमावतीम्) सोम्यरसवतीम् (ऊर्जयन्तीम्) बलकारिणीम् (उदोजसाम्) उत्साहवतीम्-तथा (सर्वाः-ओषधीः) सर्वाः खल्वोषधीः (अस्मै-अरिष्टतातये) एतस्मै रोगिणे जनाय अरिष्टकरणाय रोगविमुक्तये (आवित्सि) अहं भिषग्जानामि यद्वोपयुञ्जे ॥७॥
 </details>
 </details>
 
@@ -1066,9 +3053,311 @@ For his safety.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/15_yAH_phalinIryA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+याः᳓ फलि᳓नीर् या᳓ अफला᳓  
+अपुष्पा᳓ या᳓श् च पुष्पि᳓णीः  
+बृ᳓हस्प᳓तिप्रसूतास्  
+ता᳓ नो मुञ्चन्तु अं᳓हसः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+aphalā́ḥ ← aphalá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+phalínīḥ ← phalín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+apuṣpā́ḥ ← apuṣpá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+puṣpíṇīḥ ← puṣpín- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+bŕ̥haspátiprasūtāḥ ← bŕ̥haspátiprasūta- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+áṁhasaḥ ← áṁhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+muñcantu ← √muc- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tā́ḥ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+याः फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+याः फ॒लिनी॒र्याऽअ॑फ॒लाऽअ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ॥८९ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+याᳶ फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ।  
+बृह॒स्पति॑ऽप्रसूताः । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अंह॑सः ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+याः। फ॒लिनीः॑। याः। अ॒फ॒लाः अ॒पु॒ष्पाः। याः। च॒। पु॒ष्पिणीः॑। बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑ऽप्रसूताः। ताः। नः॒। मु॒ञ्च॒न्तु। अँह॑सः। ८९।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+याः। फ॒लिनीः॑। याः। अ॒फ॒लाः। अ॒पु॒ष्पाः। याः। च॒। पु॒ष्पिणीः॑। बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑ऽप्रसूताः। ताः। नः॒। मु॒ञ्च॒न्तु। अँह॑सः। १५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ॥ बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑-प्र॒सू॒ताः॒ । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अँह॑सः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yāḥ* ← *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *phalinīr* ← *phalinīḥ* ← *phalin*
+- \[noun\], nominative, plural, feminine
+- “fruiting.”
+
+_________
+
+- *yā* ← *yāḥ* ← *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *aphalā* ← *aphalāḥ* ← *aphala*
+- \[noun\], nominative, plural, feminine
+- “impotent; bootless.”
+
+_________
+
+- *apuṣpā* ← *apuṣpāḥ* ← *apuṣpa*
+- \[noun\], nominative, plural, feminine
+
+_________
+
+- *yāś* ← *yāḥ* ← *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *puṣpiṇīḥ* ← *puṣpin*
+- \[noun\], nominative, plural, feminine
+- “flowering.”
+
+_________
+
+- *bṛhaspatiprasūtās* ← *bṛhaspati*
+- \[noun\], masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+
+_________
+
+- *bṛhaspatiprasūtās* ← *prasūtāḥ* ← *prasū* ← *√sū*
+- \[verb noun\], nominative, plural
+- “give birth; be born; originate; impel; propel; grow.”
+
+_________
+
+- *tā* ← *tāḥ* ← *tad*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *muñcantv* ← *muñcantu* ← *muc*
+- \[verb\], plural, Present imperative
+- “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
+    fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
+    loosen; let go of; add; shed; want; save; defecate; heal; fart;
+    open; abandon; discard; precipitate; reject; lay; unleash; exhale;
+    discharge.”
+
+_________
+
+- *aṃhasaḥ* ← *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+याः। फलिनीः- फलयुक्ताः। याः। अफलाः- फलरहिताः। अपुष्पाः- पुष्पवियुक्ताः। याश्च।  पुष्पिणीः- पुष्पसहिताः। बृहस्पतिप्रसूताः- सर्वा मन्त्रबलयुक्ताः। बृहस्पतिर्मन्त्राधिदेवता। अथवा ५    भिषजो मेधया प्रयुक्ताः। बृहस्पतिर्मेधाधिदेवता। ताः। नः- अस्मान्। अंहसः- रोगात्।  मुञ्चन्तु॥१५॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**याः** **फलिनीः** फलवत्यः **या** **अफलाः** फलवर्जिताः याः **अपुष्पाः** पुष्परहिताः **याश्च** **पुष्पिणीः** पुष्पवत्यः **बृहस्पतिप्रसूताः** । बृहस्पतिर्मन्त्राभिमानी देवः । तेनानुज्ञाताः। **ता** **नः** अस्मान् **अंहसः** **मुञ्चन्तु** मोचयन्तु ॥ ॥ १० ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+याः फलिनीः या ओषधयः फलवत्यः याश्च अफला: फलरहिताः।
+
+या अपुष्पाः पुष्परहिताः।
+
+याश्च पुष्पिणीः पुष्पवत्यः।
+
+बृहस्पतिना अभ्यज्ञाताः ताः नः अस्मान् मुञ्चन्तु अंहसः पापात्॥ ८९॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+या ओषधयः फलिनीः फलिन्यः फलयुक्ताः याश्चाफलाः फलरहिताः याश्चापुष्पाः पुष्परहिताः याश्च पुष्पिणीः पुष्पिण्यः पुष्पयुक्ताः ताः सर्वा ओषधयो बृहस्पतिप्रसूता बृहस्पतिप्रेरिताः सत्यो नोऽस्मानंहसः पापाद्रोगरूपान्मुञ्चन्तु पृथक् कुर्वन्तु॥ ८९॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ पञ्चदशी - 'याः फलिनीर्या अफला अपुष्पा याश्च पुष्पिणीः । बृहस्-पति-प्रसूतास्ता नो मुञ्चन्त्व-रहसः' इति ।
+
+'याः ओषधयः फलिनीः फलिन्यः फल-युक्ताः 'या: च 'अफलाः फल-रहिताः याः च 'अपुष्पाः पुष्प-रहिता: 'या: 'च 'पुष्पिणीः पुष्प-युक्ताः, 'ताः सर्वाः 'बृहस्-पति-प्रसूताः बृहस्पतिना प्रेरिताः सत्यः 'नः अस्मान् अंहसः पापात् मुञ्चन्तु मोचयन्तु ।
+
+एव मोषधिवापार्थानि पञ्च तृचानि आम्नातानि ॥१५॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+"याः फलिनीः या ओषवयः फलिन्यः फलवत्यः । याः ओषधयः अफलाः फळरहिताः । अपुष्पाः पुप्परहिताश् च । "याः च "पुप्पिणी: पुष्पिण्यः पुष्पवत्यः । "बृहस्-पति-प्रसूताः ।
+
+बृहतो ब्रह्मणो देवस्य पत्या श्री-भगवता प्रसूताः अभ्यनुज्ञाताः ओषधयः 'नः अस्मान् "अंहसः पापात् मुञ्चन्तु । एव मोषधिवापार्थानि पञ्च तृष्वान्याम्नातानि ॥ १५ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+रोगों के निवृत्त होने के लिये ही ओषधी ईश्वर ने रची है, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (याः) जो (फलिनीः) बहुत फलों से युक्त (याः) जो (अफलाः) फलों से रहित (याः) जो (अपुष्पाः) फूलों से रहित (च) और जो (पुष्पिणीः) बहुत फूलोंवाली (बृहस्पतिप्रसूताः) वेदवाणी के स्वामी ईश्वर के द्वारा उत्पन्न की हुई औषधियाँ (नः) हमको (अंहसः) दुःखदायी रोग से जैसे (मुञ्चन्तु) छुड़ावें (ताः) वे तुम लोगों के भी वैसे रोगों से छुड़ावें ॥८९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। मनुष्यों को चाहिये कि जो ईश्वर ने सब प्राणियों की अधिक अवस्था और रोगों की निवृत्ति के लिये ओषधी रची हैं, उनसे वैद्यकशास्त्र में कही हुई रीतियों से सब रोगों को निवृत्त कर और पापों से अलग रह कर धर्म में नित्य प्रवृत्त रहें ॥८९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+रोगनिवारणार्था एवौषधय ईश्वरेण निर्मिता इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! या फलिनीर्याः अफला या अपुष्पा याश्च पुष्पिणीर्बृहस्पतिप्रसूता ओषधयो नोंऽहसो यथा मुञ्चन्तु, ता युष्मानपि मोचयन्तु ॥८९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। मनुष्यैर्या ईश्वरेण सर्वेषां प्राणिनां जीवनाय रोगनिवारणाय चौषधयो निर्मिताः, ताभ्यो वैद्यकशास्त्रोक्तोपयोगेन सर्वान् रोगान् हत्वा पापाचाराद् दूरे स्थित्वा धर्मे नित्यं प्रवर्त्तितव्यम् ॥८९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी हे जाणावे की सर्व प्राण्यांचे आयुष्य अधिक वाचावे व रोगांची निवृत्ती व्हावी यासाठी परमेश्वराने औषधांची निर्मिती केलेली आहे. तेव्हा त्यांनी वैद्यकशास्त्राच्या नियमांप्रमाणे सर्व रोगांना दूर करून पापापासून दूर राहून धर्मामध्ये नेहमी प्रवृत्त राहावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Whether bearing fruit or barren, whether flowering or flowerless, may they, the progeny of **Bṛhaspati**,liberate us from sin.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Those that bear fruit and those without fruit, those without flowers and  those that have flowers—  
+impelled by Br̥haspati, let them release us from distress.1554 X.98
+</details>
+
+<details><summary>Griffith</summary>
+
+Let fruitful Plants, and fruitless, those that blossom, and the blossomless,  
+     Urged onward by Brhaspati, release us from our pain and grief;
+</details>
+
 <details><summary>Keith</summary>
 
 The fruitful, the fruitless,  
@@ -1077,20 +3366,50 @@ Impelled by Brhaspati,
 May they free us from tribulation.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-याᳶ फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
-बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
+Die Früchte tragen und keine Früchte tragen, die nicht blühen und die blühen, sie sollen auf Geheiß des Brihaspati uns von Not erlösen.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ॥ बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑-प्र॒सू॒ताः॒ । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अँह॑सः ॥
+Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie mögen von Brihaspati erregt befreien uns von Noth.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
+Что приносят плоды (и) что бесплодные,  
+Не цветущие и что цветут, –  
+Пусть они, воодушевленные Брихаспати,  
+Освободят нас от мучения!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- विराडनुष्टुप्
+- गान्धारः
+
+- वैद्या देवताः
+- भिषगृषिः
+- विराडनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (याः) जो ओषधियाँ (फलिनीः) गुणकारी फलवाली हैं (याः) जो (अफलाः)फलरहित हैं (अपुष्पाः) जो फूलरहित हैं (याः) जो(पुष्पिणीः) फूलवाली हैं (ताः) वे (बृहस्पतिप्रसूताः) महाविद्वान् वैद्य द्वारा प्रेरित-प्रयुक्त हुई (नः) हमें(अंहसः)रोगदुःख से (मुञ्चन्तु) मुक्त करें ॥१५ ॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  फलवाली या फलरहित फूलवाली या फूलरहित अथवा फल फूलरहित केवल पत्तेवाली या मात्र काण्डवाली भी ओषधियाँ हों, वे सब महाविद्वान् वैद्य द्वारा प्रयुक्त की गई रोग से छुड़ा सकती हैं ॥१५॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (याः) या ओषधयः (फलिनीः) प्रशस्तफलवत्यः (याः-अफलाः) याः फलरहिताः (याः-अपुष्पाः) याः पुष्परहिताः (याः-च पुष्पिणीः) या बहुपुष्पवत्यः (ताः) ताः खलु (बृहस्पतिप्रसूताः) महाविदुषा भिषजा प्रेरिताः प्रयुक्ताः (नः) अस्मान् (अहंसः-मुञ्चन्तु) रोगदुःखात् “अंहसः रोगदुःखात्” [यजु० १२।८९ दयानन्दः] मोचयन्तु ॥१५॥
 </details>
 </details>
 
@@ -1168,9 +3487,313 @@ Impel us to long life.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/17_avapatantIravadandiva_oShadhayaspari.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अवप᳓तन्तीर् अवदन्  
+दिव᳓ ओ᳓षधयस् प᳓रि  
+यं᳓ जीव᳓म् अश्न᳓वामहै  
+न᳓ स᳓ रिष्याति पू᳓रुषः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+avadan ← √vadⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+avapátantīḥ ← √pat- 1 (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+óṣadhayaḥ ← óṣadhi- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pári ← pári (invariable)  
+{}
+
+aśnávāmahai ← √naś- 1 (root)  
+{number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+
+jīvám ← jīvá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+pū́ruṣaḥ ← pū́ruṣa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+riṣyāti ← √riṣ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒व॒पत॑न्तीरवदन्दि॒व ओष॑धय॒स्परि॑ ।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अ॒व॒पत॑न्तीरवदन् दि॒वऽओष॑धय॒स्परि॑।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥९१ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+अ॒व॒य॒तीः सम॑वदन्त दि॒व ओष॑धय॒स्परि॑ ।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥१७॥ ९२
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒व॒पत॑न्तीरवदन्दि॒व ओष॑धय॒ᳶ परि॑ ।  
+यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒व॒ऽपत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ।  
+यम् । जी॒वम् । अ॒श्नवा॑महै । न । सः । रि॒ष्या॒ति॒ । पुरु॑षः ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒व॒पत॑न्ती॒रित्य॑व॒ऽपत॑न्तीः। अ॒व॒द॒न्। दि॒वः। ओष॑धयः। परि॑। यम्। जी॒वम्। अ॒श्नवा॑महै। नः। सः। रि॒ष्या॒ति॒। पूरु॑षः। पूरु॑ष॒ इति॒ पुरु॑षः। ९१।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒वय॒तीरित्य॑व॒ऽय॒तीः। सम्। अ॒व॒दन्त॒। दि॒वः। ओष॑धयः। परि॑। यम्। जीवमश्नवामहै। न। स। रिष्याति। पूरुषः'। १७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *avapatantīr* ← *avapatantīḥ* ← *avapat* ← *√pat*
+- \[verb noun\], nominative, plural
+
+_________
+
+- *avadan* ← *vad*
+- \[verb\], plural, Imperfect
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+
+_________
+
+- *diva* ← *divaḥ* ← *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *oṣadhayas* ← *oṣadhayaḥ* ← *oṣadhi*
+- \[noun\], nominative, plural, feminine
+- “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
+
+_________
+
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+
+_________
+
+- *yaṃ* ← *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *jīvam* ← *jīva*
+- \[noun\], accusative, singular, masculine
+- “live; alive(p); amṛta.”
+
+_________
+
+- *aśnavāmahai* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *riṣyāti* ← *riṣ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “suffer; harm.”
+
+_________
+
+- *pūruṣaḥ* ← *pūruṣa*
+- \[noun\], nominative, singular, masculine
+- “man; man; Puruṣa.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+दिवः परि- सोमादिदेवसकाशात्। अवपतन्तीः- अवतरन्त्यः। ओषधयः। अवदन्- अब्रुवन्।  यम्। जीवम्। अश्नवामहै- व्याप्नुमः। सः। पुरुषः। न रिष्याति- न विनश्यति॥१७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**दिवः** द्युलोकात **अवपतन्तीः** अवपतन्त्यः **ओषधयः** इत्थं **परि** **अवदन्** । किमिति उच्यते । **यं** **जीवं** जीवन्तम् **अश्नवामहै** व्याप्नुमः **न** **सः** **पूरुषः** पुरुषः **रिष्याति** रिष्यति विनश्यति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अवपतन्तीः अवाचीनं पतन्त्यः अवदनुक्तवत्यः।
+
+यं जीवमनुत्क्रान्तप्राणमश्नवामहै व्याप्नुमः न स रिष्याति दिवः परि दिवो द्युलोकातोषधयः।
+
+किमवदन्नित्यत आह।
+
+नविनश्यंति पूरुषः।
+
+छान्दसं दीर्घत्वम्॥ ९१॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+दिवः परि द्युलोकात्सकाशादवपतन्तीरवपतन्त्योऽधस्ताद्भूमौ गच्छन्त्यः ओषधयः अवदन् परस्परं वचनमुक्तवत्यः।
+
+किं तदाह।
+
+जीवतीति जीवस्तं यं जीवमनुत्क्रान्तप्राणं पुरुषं वयमश्नवामहै ‘अशूङ् व्याप्तौ’ लोट् व्याप्नुमः स पुरुषो न रिष्यति न नश्यति।
+
+रिष्यतीत्यत्र ‘लेटोऽडाटौ’ (पा० ३। ४। ९४) इत्याडागमः।
+
+पूरुष इति छान्दसो दीर्घः सर्वत्र॥९१॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ तृतीया - ' या ओषधीः सोमराज्ञीर् बह्वीः शत-विचक्षणाः । तासामसि त्वमुत्तमाऽरं कामाय श हृदे' इति ।
+
+सोम-राज्ञीः ।
+
+सोमो राजा यासां ताः सोमराज्ञ्यः ।
+
+बह्वीः बह्वयः अनेक-प्रकाराः 'शत-विचक्षणाः । एवं-भूताः 'याः 'ओषधीः ओषध्यः ( धयः ? ) सन्ति, तासाम् ओषधीनां मध्ये हे ओषधीः, 'उत्तमा उत्कृष्टा त्वं कामाय अरम् अलं समर्था 'असि । ततः 'हृदे हृदयाय 'शं सुखकारिणी भवेति शेषः ॥ १८ ॥
+BI om. अवपूर्वस्य
+आ
+[' या ओषधीः' इति ।
+
+] "याः ओषधीः या ओषधयः सोम-राज्ञीः । सोमो राजा यासामोषधीनां ताः सोमराज्ञ्यः । बह्वीः बह्वयः अनन्ताः । शत-विचक्षणाः । शतम् इति शतधा वा विचक्ष्यन्ते प्रोच्यन्त इति शत-विचक्षणाः । तासाम् ओषधीनां मध्ये यतः त्वम् उत्तमा उत्कृष्टा " असि ।
+
+अतः 'कामाय अरम् अलं समर्था भव काम्यमान-फल-साधनाय त्वं फल-साधिका भव ।
+
+तत्रापि हृदे हृदयाय शं सुखम् अलं समर्थम् ॥१८॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अध्यापक लोग सब को उत्तम ओषधि जनावें, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हम लोग जो (दिवः) प्रकाश से (अवपतन्तीः) नीचे को आती हुई (ओषधयः) सोमलता आदि ओषधि हैं, जिनका विद्वान् लोग (पर्य्यवदन्) सब ओर से उपदेश करते हैं, जिनसे (यम्) जिस (जीवम्) प्राणधारण को (अश्नवामहै) प्राप्त होवें, (सः) वह (पूरुषः) पुरुष (न) कभी न (रिष्याति) रोगों से नष्ट होवे ॥९१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान् लोग सब मनुष्यों के लिये दिव्य ओषधिविद्या को देवें, जिससे सब लोग पूरी अवस्था को प्राप्त होवें। इन ओषधियों को कोई भी कभी नष्ट न करे ॥९१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अध्यापकाः सर्वेभ्य उत्तमौषधिविज्ञानं कारयेयुरित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  वयं या दिवोऽवपतन्तीरोषधयः सन्ति, या विद्वांसः पर्यवदन्, याभ्यो यं जीवमश्नवामहै, याः संसेव्य स पूरुषो न रिष्यति, कदाचिद् रोगैर्हिंसितो न भवेत् ॥९१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वांसोऽखिलेभ्यो मनुष्येभ्यो दिव्यौषधीनां विद्यां प्रदद्युः, यतोऽलं जीवनं सर्वे प्राप्नुयुः। एता ओषधीः केनापि कदाचिन्नैव विनाशनीयाः ॥९१ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान लोकांनी सर्व माणसांना दिव्य औषध विद्या शिकवावी, ज्यामुळे ते पूर्ण आयुष्य भोगतील. हे औषध कधीही कोणीही नष्ट करू नये.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The plural nts, falling from heaven, said, "The man, whom living we pervade, will not perish".”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Flying down from heaven, the plants spoke:  
+“The man whom we will reach (while he is still) alive, that man will not  suffer harm.”
+</details>
+
+<details><summary>Griffith</summary>
+
+What time, descending from the sky, the Plants flew earthward, thus they spake:  
+     No evil shall befall the man whom while he liveth we pervade,
+</details>
+
 <details><summary>Keith</summary>
 
 Falling from the sky  
@@ -1179,20 +3802,50 @@ The plants said,
 Shall not come to ill.'
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-अ॒व॒पत॑न्तीरवदन्दि॒व ओष॑धय॒ᳶ परि॑ ।  
-यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
+Vom Himmel herabfliegend sprachen die Kräuter: Wen wir am Leben antreffen werden, der Mann soll nicht zu Schaden kommen.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
+Als von dem Himmel einst herab die Kräuter flogen, sprachen sie: Wen wir am Leben treffen noch, der Mann soll frei von Schaden sein.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
+Растения, слетающие  
+С неба вниз, заговорили:  
+Кого мы застали еще живым,  
+Тот не потерпит ущерба.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- अनुष्टुप्
+- गान्धारः
+
+- वैद्या देवताः
+- वरुण ऋषिः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (दिवः) आकाश से (अवपतन्तीः) बीजरूप से जल द्वारा नीचे भूमि पर गिरती हुई-आती हुई (ओषधयः) ओषधियाँ (परि-अवदन्) घोषित करती हैं (यम्) जिस (जीवम्) प्राणधारी को (अश्नवाम) व्याप्त होती हैं (सः) वह (पुरुषः) मनुष्य (न रिष्याति) नहीं पीड़ित होता है ॥१७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  ओषधियाँ यद्यपि पृथिवी पर उत्पन्न होती हैं, तब जबकि आकाश से जल पृथ्वी पर गिरता है-बरसता है, एक प्रकार से बीजरूप में आकाश से प्राप्त हुईं ओषधियाँ समझनी चाहिए, आकाश का जल अमृतसमान होता है, उस ऐसे जल से उत्पन्न ओषधियाँ अमृतरूप होकर जिस पुरुष के सेवन में आती हैं, वह पीड़ा से बचा रहता है ॥१७॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (दिवः-अवपतन्तीः-ओषधयः-परि-अवदन्) आकाशात् खलु जलरूपेण नीचैर्भूमौ प्रगच्छन्त्यः-ओषधयः सर्वतोभावेन घोषयन्तीव (यं जीवम्-अश्नवामहै) यं प्राणधारिणं व्याप्नुयामः (सः-पुरुषः-न रिष्याति) स जनो न पुना रोगेण पीडितो भवति ॥१७॥
 </details>
 </details>
 
@@ -1270,9 +3923,333 @@ Give ye him healing.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/20_mA_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ओषधीस्तुतिः
+- ऋषिः - भिषगाथर्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मा᳓ वो रिषत् खनिता᳓  
+य᳓स्मै चाहं᳓ ख᳓नामि वः  
+द्विप᳓च् च᳓तुष्पद् अस्मा᳓कं  
+स᳓र्वम् अस्तु अनातुर᳓म्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)
+_________
+**Morph**  
+khanitā́ ← khanitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+riṣat ← √riṣ- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+khánāmi ← √khanⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yásmai ← yá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+asmā́kam ← ahám (pronoun)  
+{case:GEN, number:PL}
+
+cátuṣpat ← cátuṣpad- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dvipát ← dvipád- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+anāturám ← anāturá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+sárvam ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हं खना॑मि वः ।  
+द्वि॒पच्चतु॑ष्पद॒स्माकं॒ सर्व॑मस्त्वनातु॒रम् ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+मा वो॑ रिषत् खनि॒ता यस्मै॑ चा॒हं खना॑मि वः।  
+द्वि॒पाच्चतु॑ष्पाद॒स्मा॒कँ सर्व॑मस्त्वनातु॒रम् ॥९५ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+मा वो॑ रिषत् खनि॒ता यस्मै॑ चा॒हं खना॑मि वः ।  
+द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑मस्त्वनातु॒रम् ॥२२॥ ॥ ९७
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हङ्खना॑मि वः ।  
+द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ।  
+द्वि॒ऽपत् । चतुः॑ऽपत् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अ॒ना॒तु॒रम् ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+मा। वः॒। रि॒ष॒त्। ख॒नि॒ता। यस्मै॑। च॒। अ॒हम्। खना॑मि। वः॒। द्वि॒पादिति॑ द्वि॒ऽपात्। चतु॑ष्पात्। चतुः॑पा॒दिति॒ चतुः॑ऽपात्। अ॒स्माक॑म्। सर्व॑म्। अ॒स्तु॒। अ॒ना॒तु॒रम्। ९५।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+मा। वः॒। रि॒ष॒त्। ख॒नि॒ता। यस्मै॑। च॒। अ॒हम्। खना॑मि। वः॒। द्विपदिति॑ि द्वि॒ऽपत्। चतु॑ष्पत्। चतु॑प॒दिति॒ चतु॑ ऽपत्। अ॒स्माक॑म्। सर्व॑म्। अ॒स्तु। अ॒ना॒तुरम्। २२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ॥ द्वि॒पदिति॑ द्वि-पत् । चतु॑ष्प॒दिति॒ चतुः॑-प॒त् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], accusative, plural
+- “you.”
+
+_________
+
+- *riṣat* ← *riṣ*
+- \[verb\], singular, Present injunctive
+- “suffer; harm.”
+
+_________
+
+- *khanitā* ← *khanitṛ*
+- \[noun\], nominative, singular, masculine
+- “digging.”
+
+_________
+
+- *yasmai* ← *yad*
+- \[noun\], dative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *cāhaṃ* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *cāhaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+
+_________
+
+- *khanāmi* ← *khan*
+- \[verb\], singular, Present indikative
+- “dig; dig out; dig; bury.”
+
+_________
+
+- *vaḥ* ← *tvad*
+- \[noun\], dative, plural
+- “you.”
+
+_________
+
+- *dvipac* ← *dvipad*
+- \[noun\], nominative, singular, masculine
+- “biped.”
+
+_________
+
+- *catuṣpad* ← *catuṣpada*
+- \[noun\], nominative, singular, masculine
+- “quadrupedal.”
+
+_________
+
+- *asmākaṃ* ← *asmākam* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *sarvam* ← *sarva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *astv* ← *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *anāturam* ← *anātura*
+- \[noun\], nominative, singular, neuter
+- “well.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+खनिता- भूमेः खननकर्ता। वः- युष्मान्।  मा रिषत्-  मा नाशयतु। मा हिंस्यात्। यस्मै। वः-  युष्मान्। अहम्। खनामि। सोऽयमरोगो भवतु। अस्माकम्। द्विपच्चतुष्पत्- पशवः पुरुषाः। सर्वं-  सर्वे। अनातुरम्- अरोगाः। अस्तु- भवन्तु॥२०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे ओषधयः वः युष्मान् मा **रिषत्** मा हिंस्यात् । कः । **खनिता** भूमेः खननकर्ता । **यस्मै** रुग्णाय **चाहं** **खनामि** **वः** युष्मान् । किंच **अस्माकं** संबन्धि **द्विपत्** पुत्रभृत्यादिकं **चतुष्पत्** गोमहिष्यादिकं च यदस्ति तत् **सर्वम्** **अनातुरम्** अरोगम् अस्तु ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+वो रिषत् मा रिषतु मा विनश्यतु वो युष्माकं खनिता।
+
+यस्मै च पुरुषाय अहं खनामि वः युष्मान्।
+
+किंच द्विपात् स्त्रीपुंसम् चतुष्पात् गवादि।
+
+‘संख्यासुपूर्वस्य’ इति पादशब्दान्त्यलोपः।
+
+अस्माकं सर्वमस्तु अनातुरमनाकुलम्।
+
+युष्मत्प्रसादादिति शेषः॥ ९५॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे ओषधयः, वो युष्माकं खनिता चिकित्सायै युष्मन्मूलं ग्रहीतुं खननकर्ता मा रिषत् मा विनश्यतु।
+
+यस्मै च रुग्णाय चिकित्सार्थं वो युष्मानहं खनामि युष्मन्मूलमादातुं खननं करोमि स च मा रिषत्।
+
+किंबहुनास्माकं संबन्धि द्विपात् स्त्रीपुंसं चतुष्पाद्गवादि प्राणिजातं सर्वमनातुरं रोगरहितमस्तु।
+
+द्वौ पादौ यस्य चत्वारः पादा यस्य ‘संख्यासुपूर्वस्य’ (पा०। ५। ४। १४०) इति पादशब्दस्यान्तलोपः॥ ९५॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ सप्तमी -' मा वो रिषत् खनिता यस्मै चाहं खनामि वः । द्विपच् चतुष्पद् अस्माक‍ सर्वमस्त्व् अनातुरम्' इति ।
+
+दे ओषधयः, 'वः युष्माकं 'खनिता चिकित्सायै युष्मदीय-मूलं ग्रहीतुं खननस्य कर्ता 'मा 'रिषत् मा विनश्यतु ।
+
+' अहं च यस्मै रुणाय चिकित्सार्थं वः खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽहमपि मा विनश्यामि । किं बहुना 'अस्माकं संबन्धि 'द्विपत् 'चतुष्पत् वा प्राणि-जातं युष्मानुपजीवति तत् सर्वम् 'अनातुरम् 'अस्तु ॥ २२ ॥
+
+आमा वः' इति । रिष हिंसायाम् । 'वः युष्माकं 'खनिता मूल-खनन-कर्ता युष्मान् "मा रिषत् मा हिंसीत्। यस्मै पुरुषाय 'वः युष्मान् अहं खनामि । तत्रापि विशेषम् आह - १० 'द्विपत् द्विपद्-अर्थं 'चतुष्पत् चतुष्पद्-अर्थम् अस्माकं संबन्धि यद् यद् उद्दिश्य वो युष्मान् खनामि तत् तत् सर्वम् " अनातुरम् । आतुरो व्याधिः । तद् रहितम् अनातुरम् अनाकुलं वा
+अस्तु भवतु ॥ २२ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+कोई भी मनुष्य ओषधियों की हानि न करे, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (अहम्) मैं (यस्मै) जिस प्रयोजन के लिये ओषधी को (खनामि) उपाड़ता वा खोदता हूँ, वह (खनिता) खोदी हुई (वः) तुम को (मा) न (रिषत्) दुःख देवे, जिससे (वः) तुम्हारे (च) और (अस्माकम्) हमारे (द्विपात्) दो पगवाले मनुष्य आदि तथा (चतुष्पात्) गौ आदि (सर्वम्) सब प्रजा उस ओषधि से (अनातुरम्) रोगों के दुःखों से रहित (अस्तु) होवें ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो पुरुष जिन ओषधियों को खोदे, वह उनकी जड़ न मेटे। जितना प्रयोजन हो उतनी लेकर नित्य रोगों को हटाता रहे, ओषधियों की परम्परा को बढ़ाता रहे कि जिससे सब प्राणी रोगों के दुःखों से बच के सुखी होवें ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+केनाप्योषधयो नैव ह्रासनीया इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! अहं यस्मै यामोषधीं खनामि सा खनिता सती वो युष्मान् मा रिषत्। यतो वोऽस्माकं च सर्वं द्विपाच्चतुष्पादनातुरमस्तु ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  य ओषधीः खनेत् स ता निर्बीजा न कुर्य्यात्। यावत् प्रयोजनं तावदादाय प्रत्यहं रोगान् निवारयेदोषधिसन्ततिं च वर्धयेत्, येन सर्वे प्राणिनो रोगकष्टमप्राप्य सुखिनः स्युः ॥९५ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी वृक्षौषधी तोडून घेतल्यानंतर त्यांची मुळे नष्ट करू नयेत. जेवढे आवश्यक असेल तेवढेच घेऊन सदैव रोग नष्ट करावेत. औषधी सतत वाढवावी त्यामुळे सर्व प्राणी रोगरूपी दुःखांपासून बचाव करून सुखी होतील.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Let not the digger hurt you, not (the sick person n) for whom I dig you up; may all my bipeds andquadrupeds be free from disease.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Let your digger not suffer harm, nor him for whom I dig you.  
+Let our two-footed and four-footed all be free of affliction.
+</details>
+
+<details><summary>Griffith</summary>
+
+Unharmed be he who digs you up, unharmed the man for whom I dig:  
+     And let no malady attack biped or quadruped of ours.
+</details>
+
 <details><summary>Keith</summary>
 
 May the digger of you come to no ill,  
@@ -1281,20 +4258,35 @@ May all our bipeds and quadrupeds
 Be free from disease.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हङ्खना॑मि वः ।  
-द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
+Nicht soll der Schaden leiden, der euch gräbt, noch der, für den ich euch grabe. Unsere Zweifüßler und Vierfüßler sollen alle gesund sein.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ॥ द्वि॒पदिति॑ द्वि-पत् । चतु॑ष्प॒दिति॒ चतुः॑-प॒त् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
+Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei und was vier Füsse hat, das bleibe alles uns gesund.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
+Да не пострадает от вас копающий (вас)  
+И кому я вас копаю!  
+Двуногие (и) четвероногие наши  
+Да будут все здоровы!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- विराडनुष्टुप्
+- गान्धारः
+
+- वैद्या देवताः
+- वरुण ऋषिः
+- विराडनुष्टुप्
+- गान्धारः
 </details>
 </details>
 
@@ -1387,46 +4379,40 @@ We, O king, bring to safety.'
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
-
 पिता᳓ विरा᳓जाम्, ऋषभो᳓ रयीणा᳓म् ।  
 अन्त᳓रिक्षव्ँ विश्व᳓-रूप **आ᳓विवेश** ।  
 त᳓म् अर्कै᳓र् **अभ्य᳙र्चन्ति** वत्स᳓म् ।  
 ब्र᳓ह्म स᳓न्तम् ब्र᳓ह्मणा **वर्ध᳓यन्तः** ।
-
 </div>  
 
 'यत इन्द्र' 'स्वस्तिदा' इति द्वाभ्यां प्राच्यां, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
-
 य᳓त इन्द्र भ᳓यामहे  
 त᳓तो नो अ᳓भयं कृधि ।  
 म᳓घवञ् छग्धि᳓ +++(=शक्तो वर्तस्व)+++ त᳓व त᳓न् न+++(ः)+++ ऊत᳓ये+++(=रक्षायै, ऊतिभिर् इति शाकले)+++᳓  
 वि᳓ द्वि᳓षो वि᳓ मृ᳓धो+++(=सङ्ग्रामान्)+++ जहि ।।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md">
-
 स्वस्तिदा᳓ विश᳓स्-प᳓तिर्  
 वृत्रहा᳓ विमृधो᳓ वशी᳓ ।  
 वृ᳓षे᳓न्द्रः पुर᳓ **एतु** नः  
 सोम-पा᳓ **अभयङ्-करः᳓** ॥
-
 </div>  
 
 'योऽस्य कौष्ठ्य' 'यमङ्गाय' इति द्वाभ्यां दक्षिणस्याम्, 
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
-यो᳓ऽस्य +++(गोत्रेण)+++ [[कौ᳓ष्ठ्य|कौष्ठ्य]]! ज᳓गतः  
-पा᳓र्थिवस्यै᳓क +++(~~इ~~→)+++इ᳓द् वशी᳓ ।  
+यो᳓ऽस्य +++(गोत्रेण)+++ कौष्ठ्य! ज᳓गतः  
+पा᳓र्थिवस्यै᳓क इ᳓द् वशी᳓ ।  
 यमं᳓ +++(नाम्ना)+++ भङ्ग्य-श्रवो! **गाय**  
 यो᳓ रा᳓जा ऽनपरोद्ध्यः᳓ ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/03_yama~N_gAya.md">
 यम᳓ङ् **गाय** +++(नाम्ना)+++ भङ्ग्यश्रवो!  
-यो᳓ रा᳓जा [[ऽनपरो᳓ध्यः|ऽनपरोध्य᳙ः]] ।  
+यो᳓ रा᳓जा ऽनपरोध्य᳙ः ।  
 ये᳓नापो᳓ नद्यो᳙ ध᳓न्वानि+++(=मरुभूमयः)+++  
 ये᳓न द्यौः᳓ पृथिवी᳓ **दृढा᳓** ।
 </div>
@@ -1434,39 +4420,31 @@ We, O king, bring to safety.'
 ‘इमं मे वरुण' 'तत्त्वा यामि' इति प्रतीच्यां, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
-
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
-
 </div>
 
 'सोमो धेनुम्' 'आप्यायस्व' इति द्वाभ्याम् उत्तरस्यां 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/20_somo_dhenuM.md">
-
 सो᳓मो धेनुं᳓, सो᳓मो अ᳓र्वन्तम् आशुं᳓  
 सो᳓मो वीरं᳓ कर्मण्यं᳙ **ददाति** ।  
 सादन्यं᳙+++(←सदन)+++ विदथ्यं᳙ सभे᳓यं  
 पितृ-श्र᳓वणं यो᳓ **द᳓दाशद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-
 **आ᳓ प्यायस्व स᳓मेतु** ते  
 विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
 **भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
-
 </div>  
 
 व्रीह्यादीन् **उप्त्वा**  

@@ -169,6 +169,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -185,11 +186,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -223,7 +227,7 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-
+</details>
 </div>  
 
 ________
@@ -236,16 +240,20 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓धिते+++(=क्षुर)+++! मै᳓नँ हिँसीः  ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,7 +286,7 @@ Axe, hurt him not.
 
 स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
-
+</details>
 </div>  
 
 ________
@@ -386,24 +394,71 @@ ________
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/04/06_A_po_asmA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Griffith</summary>
+
+The Mother Floods shall make us bright and shining, cleansers of holy oil, with oil shall cleanse us.
+</details>
+
 <details><summary>Keith</summary>
 
 Let the waters, the mothers, purify us,
 With ghee let those that purify our ghee purify us.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+आपो॑ऽअ॒स्मान् मा॒तरः॑ शुन्धयन्तु घृ॒तेन॑ नो घृत॒प्वः᳖ पुनन्तु।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॑ अ॒स्मान्मा॒तर॑श्शुन्धन्तु।  
 घृ॒तेन॑ नो घृत॒पुवᳶ॑ पुनन्तु ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
-आपः॑ । अ॒स्मान् । मा॒तरः॑ । शु॒न्ध॒न्तु॒ । घृ॒तेन॑ । नः॒ । घृ॒त॒पुव॒ इति॑ घृत-पुवः॑ । पु॒न॒न्तु॒ । विश्व॑म् । अ॒स्मत् । प्रेति॑ । व॒ह॒न्तु॒ । रि॒प्रम् । उदिति॑ । आ॒भ्यः॒ । शुचिः॑ । एति॑ । पू॒तः । ए॒मि॒ । 
+आपः॑। अ॒स्मान्। मा॒तरः॑। शु॒न्ध॒य॒न्तु॒। घृ॒तेन॑। नः॒। घृ॒त॒प्व᳖ इति॑ घृतऽप्वः॒। पु॒न॒न्तु॒।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+आपः॑ । अ॒स्मान् । मा॒तरः॑ । शु॒न्ध॒न्तु॒ । घृ॒तेन॑ । नः॒ । घृ॒त॒पुव॒ इति॑ घृत-पुवः॑ । पु॒न॒न्तु॒ । विश्व॑म् । अ॒स्मत् । प्रेति॑ । व॒ह॒न्तु॒ । रि॒प्रम् । उदिति॑ । आ॒भ्यः॒ । शुचिः॑ । एति॑ । पू॒तः । ए॒मि॒ ।
+
+आपः॑ । अ॒स्मान् । मा॒तरः॑ । शु॒न्ध॒न्तु॒ । घृ॒तेन॑ । नः॒ । घृ॒त॒पुव॒ इति॑ घृत-पुवः॑ । पु॒न॒न्तु॒ ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+स्नातिापो अस्मान्मातरः शुन्धयन्तु।
+
+आप उच्यन्ते।
+
+या एता आपः जगतो निर्मात्र्यः ता अस्मान् शुन्धयन्तु शोधयन्तु।
+
+किंच घृतेन च नः अस्मान्।
+
+घृतप्वः घृतेन पुनन्तीति घृतप्वः।
+
+घृतं हि अपां परमं तेजः पवित्रं च॥
+
+‘तद्वै सुपूतं यं घृतेन पुनन्ति’ इति श्रुतिः।
+
+‘सुवर्णप्राशो घृतप्राश इति मेध्यानि’ इति गौतमः।
+
+पुनन्तु यज्ञयोग्यं कुर्वन्तु।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+मातरः मिमते ता मातरो जगन्निर्मात्र्यो मातृवत्पालयित्र्यो वा आपः अस्मान् कृतक्षीरान् यजमानान् शुन्धयन्तु ‘शुन्ध शुद्धौ’ शोधयन्तु।
+
+क्षौरकर्मनिमित्तामपहतिं निवारयन्त्वित्यर्थः।
+
+किंच घृतप्वः ‘घृ क्षरणे’ जिघर्ति क्षरतीति घृतं तेन क्षरितजलेन पुनन्तीति घृतप्वः जलदेवतास्ताश्च घृतेन क्षरितजलेन नोऽस्मान् पुनन्तु शुद्धान् कुर्वन्तु।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -412,7 +467,7 @@ With ghee let those that purify our ghee purify us.
 किञ्च - घृतेनोदकेन पुनन्तीति घृतपुवः । 'तन्वादीनां छन्दसि बहुलम्' इत्युवङादेशः, कृदुत्तरपदप्रकृतिस्वरत्वम् । पर्जन्यादय उच्यन्ते । ते चास्मान् घृतेनोदकेन पुनन्तु अपापान् कुर्वन्तु । घृ क्षरणे, घृतं क्षरणात् । 'अप्सु दीक्षातपसी' इत्यादि ब्राह्मणम् ॥
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सायण-टीका (तैत्तिरीया)</summary>
 
 आपस्तम्बस् त्व् एक-मन्त्रतां मन्यते। अस्मान् अस्मदीयान् यजमानान्। क्षरद् उदकम् अत्र घृतम्। तेन पुनन्ति पर्जन्यादयो घृतपुवः रिप्रं पापम्। इमा आपः सर्वं पापम् अस्मत्तो ऽपनयन्तु।
 </details>
@@ -870,6 +925,7 @@ With the rays of the bright sun.
 
 अच्छिद्रेणेति सर्वत्रानुषज्यते । चित् चैतन्यं ज्ञानम् । चेतयतेः 'अन्येभ्योपि दृश्यन्ते' इति क्विप् । तस्य पतिरुत्पादकः पालकः चित्पतिः मनइन्द्रियमुच्यते । 'मनो वै चित्पतिः' इति ब्राह्मणम् । स त्वां पुनातु मानसा दोषा यथा न स्युस्तथा करोतु ।
 
+
 अच्छिद्रेण ...{Loading}...
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -952,6 +1008,7 @@ With the rays of the bright sun.
 
 किञ्च - वाचः शब्दस्य पतिरुत्पादकः वाक्पतिर्वागिन्द्रियमुच्यते, मनसोनन्तरं यस्य प्रवृत्तिः । 'यद्धि मनसा ध्यायति तद्वाचा वदति' इति ब्राह्मणम् । स च त्वां पुनातु वाचिकेभ्यो दोषेभ्यो निवृत्तिं करोतु । 'वाचैवैनं पवयति' इति ब्राह्मणम् । अत्र 'न भूवाक्चिद्दिधिषु' इत्युत्तरपदलक्षणे पूर्वपदप्रकृतिस्वरे निषिद्धे 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 
+
 अच्छिद्रेण ...{Loading}...
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
@@ -999,6 +1056,7 @@ With the rays of the bright sun.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - देवस्सविता सर्वस्य प्रेरकः मनःप्रभृतेश्च प्रेरकः, स च त्वां पुनातु । अच्छिद्रेणेति व्याख्यातं 'देवो वस्सवितोत्पुनातु' इत्यत्र । 'इन्द्रो वृत्रमहन् सोपोभ्यम्रियत' इति ब्राह्मणम् ॥
+
 
 अच्छिद्रेण ...{Loading}...
 
@@ -1122,6 +1180,7 @@ For that we ask you, O holy ones.
 
 आ वो॑ देवास ईमहे॒ सत्य॑धर्माणो अध्व॒रे यद्वो॑ देवास आगु॒रे यज्ञि॑यासो॒ हवा॑महे
 </details>
+
 
 <details><summary>मूलम्</summary>
 
