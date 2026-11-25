@@ -2,28 +2,44 @@
 title = "०१ ध्रुवा अस्मिन् गो"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवा᳓ अस्मि᳓न् गो᳓-पतौ स्यात बह्वीः᳓
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Be constant, numerous to this lord of cattle.
 </details>
+
+<details><summary>Keith</summary>
+
+Abide ye, numerous, with this lord of cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वाऽअ॒स्मिन् गोप॑तौ स्यात ब॒ह्वीः
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ध्रुवाः। अस्मिन्। गोप॑ता॒विति॒ गोऽप॑तौ। स्या॒त॒। ब॒ह्वीः।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 ध्रुवाः। अस्मिन्। गोप॑ता॒विति॒ गोऽप॑तौ। स्या॒त॒। ब॒ह्वीः।
 </details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ध्रुवाः । अस्मिन् । गोपताविति गो-पतौ । स्यात । बह्वीः ।
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 अस्मिन् गोपतौ यजमाने।
@@ -32,6 +48,7 @@ Be constant, numerous to this lord of cattle.
 
 बहीर्बह्वयः॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 प्रबलरोगरहिताः।
@@ -62,6 +79,7 @@ Be constant, numerous to this lord of cattle.
 
 ‘वा छन्दसि’ (पा० ६.१.१०६) इति जसः पूर्वसवर्णत्वम्।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 किं च यूयं 'गोपतौ गवां युष्माकं पत्यो 'अस्मिन् यजमाने 'ध्रुवाः शाश्वतिकाः 'बह्वीः बहु-विधाः स्यात भवस ॥
@@ -81,6 +99,7 @@ Be constant, numerous to this lord of cattle.
 
 कण्वस्त्व् एतस्य मन्त्रस्य विनियोग मन्त्र-भागानां व्याख्यानं च विवक्षित्वेत्थं पठति - " अथ धेनुम् उपस्पृशति देवो वः सविता प्रार्पयतु श्रेष्ठतमाय कर्मणे " इति ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ध्रुवा अस्मिन् ।
@@ -88,5 +107,12 @@ Be constant, numerous to this lord of cattle.
 ऐन्द्रयेक-पदा त्रिष्टुप् ।
 
 किं च ध्रुवा 'अस्मिन् गोपतौ गवां पतौ युष्माकं यजमाने, ध्रुवाः शाश्वतिकाः स्यात भवत । 'ब्रह्वीः बह्व्यश् च ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गवां पतिर्गोपतिः यजमानः । 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति पूर्वपदप्रकृतिस्वरत्वम् । अस्मिन् यजमाने । ध्रुवाः अविनाशाः । स्यात भवत ।  
+बह्व्यश् च सन्तानवृद्ध्या भवत ।  
+'वा छन्दसि' (पा.सू. 6.1.106) इति पूर्वसवर्णदीर्घता ॥
 </details>
 </details>

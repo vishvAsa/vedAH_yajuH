@@ -2,28 +2,44 @@
 title = "४१ इषिरो विश्वव्यचा वातो"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इषिरो᳓ विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 The Quick, All-reaching, Wind is the Gandharva.
 </details>
+
+<details><summary>Keith</summary>
+
+The swift, all-pervading wind is the Gandharva;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षि॒रो वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इ॒षि॒रः। वि॒श्वव्य॑चाः। वातः॑। ग॒न्ध॒र्वः।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 इ॒षि॒रः। वि॒श्वव्य॑चाः। वातः॑। ग॒न्ध॒र्वः।
 </details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+इ॒षि॒रः । वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ । वातः॑ । ग॒न्ध॒र्वः ।
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 इषिरो विश्वव्यचाः।
@@ -40,6 +56,7 @@ The Quick, All-reaching, Wind is the Gandharva.
 
 तुल्यव्याख्यानमन्यत्॥ ४१॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ चतुर्थः - ' इषिरो विश्वव्यचा वातो गन्धर्वः । तस्यापो अप्सरस ऊर्जी नाम ।
@@ -53,10 +70,16 @@ The Quick, All-reaching, Wind is the Gandharva.
 
 स्पष्टम् अन्यत् ॥४॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ' इषिरो विश्व-व्यचा: ' इति ।
 
 यः " इषिरः । क्षिप्रनाम । इष गतौ । 'विश्व-व्यचाः सर्वतो गमन-शीलः । वातः वायुः, स एव गन्धर्वः । तस्य वातस्य आप: " अप्सरसः स्त्रियः, ऊर्ज: अन्नरसः 'नाम । ' स नः ' इत्य्-आदिः समानार्थः ॥ ११ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+6इषिरः सरणशीलस्सदागतिः । इष गतौ, औणादिकः किरच्प्रत्ययः । विश्वव्यचा विष्वग्भागं व्यचति पुरोवातादिरूपेण व्याप्नोति, विपूर्वादञ्चतेः 'गतिकारकयोरपि' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वस्य च बहुव्रीहिस्वरस्योपलक्षणत्वात् 'बहुव्रीहौ विश्वम्' इत्येतद्भवति । वातो गन्धर्वः,
 </details>
 </details>

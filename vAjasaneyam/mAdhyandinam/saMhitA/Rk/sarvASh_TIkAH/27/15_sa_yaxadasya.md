@@ -2,28 +2,50 @@
 title = "१५ स यक्षदस्य"
 
 +++
+
 <details><summary>Griffith</summary>
 
 Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjoyments: The wisest Vasu he, and best wealth giver.
 </details>
+
+<details><summary>Keith</summary>
+
+Worship let him pay to the greatness of him, of Agni; He [1] indeed is pre-eminent among the delightful, The wealthy, the wisest, best bestower of wealth.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स य॑क्षदस्य महि॒मान॑म॒ग्नेः सऽर्इं॑ म॒न्द्रा सु॑प्र॒यसः॑।  
 वसु॒श्चेति॑ष्ठो वसु॒धात॑मश्च ॥१५ ॥
 </details>
+
 <details><summary>मूलम् - काण्वम्</summary>
 
 स य॑क्षदस्य महि॒मान॑म॒ग्नेः स ईं॑ म॒न्द्रा सु॑प्र॒यसः॑ ।  
 वसु॒श्चेति॑ष्ठो वसु॒धात॑मश्च ॥५॥ १५
 </details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+स य॑क्षदस्य महि॒मान॑म॒ग्नेस्सः [29]  ई॒ म॒न्द्रासु॑ प्र॒यसः॑ ।
+वसु॒श्चेति॑ष्ठो वसु॒धात॑मश्च ।
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सः। य॒क्ष॒त्। अ॒स्य॒। म॒हि॒मान॑म्। अ॒ग्नेः। सः। ई॒म्। म॒न्द्रा। सु॒प्र॒यस॒ इति॑ सुऽप्र॒यसः॑। वसुः॑। चेति॑ष्ठः। व॒सु॒धात॑म॒ इति॑ वसु॒ऽधात॑मः। च॒। १५।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 वसुः॑। चेति॑ष्ठः। व॒सु॒धात॑म॒ इति॑ वसु॒ऽधात॑मः। च॒। ५।
 </details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सः । य॒क्ष॒त् । अ॒स्य॒ । म॒हि॒मान॑म् । अ॒ग्नेः । सः । ई॒म् । म॒न्द्रासु॑ । प्र॒यसः॑ ॥ वसुः॑ । चेति॑ष्ठः । व॒सु॒धात॑म॒ इति॑ वसु-धात॑मः । च॒ ॥
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 स यक्षत्।
@@ -52,6 +74,7 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 
 वसूनां धनानां धातमो दातृतमश्च अतः अग्निः स्तूयते॥ १५॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 सोऽध्वर्युरस्याग्नेः महिमानं यक्षत् यजतु ‘सिब्बहुलं लेटि’ (पा० ३.१.३४) ‘लेटोऽडाटौ’ ‘इतश्च लोपः परस्मैपदेषु’ (पा० ३। ९४-९७) इति सूत्रैर्यक्षदिति रूपम्।
@@ -74,6 +97,7 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 
 क्विबन्तात्तमप्॥ १५॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 शुक्ल-यजुर्-वेद काण्यसंहिता [ २६/१५-१८ (अनु० २।५-८)]
@@ -88,6 +112,7 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 
 अथ षष्ठी--
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 'स यक्षद् अस्य' [इति]।
@@ -112,6 +137,7 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 
 मदनीयान्य् अन्नानि यजमानो यक्षदिति अग्निः स्तूयते ॥ १५ ॥
 </details>
+
 <details><summary>अनन्ताचार्य-टीका</summary>
 
 ‘स यक्षत्' ।
@@ -137,6 +163,16 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 
 क्विबन्तात् तमप् ॥५॥
 </details>
+
+<details><summary>सायण-टीका (तैत्तिरीया)</summary>
+
+बर्हिर्नामकः कश्चिदग्निविशेषः प्राकृते बर्हिरग्न आज्यस्य वेत्वित मन्त्रे प्रसिद्धत्वादिह प्रसिद्धवाचकेन तच्छब्देन परामृश्यते ।  
+स तादृशो बर्हि-र्नामकोऽग्निविशेषोऽस्य सामान्यरूपस्याग्नेर्महिमानं यक्षद्यजतु पूजयतु ।  
+स *ईं स एव बर्हिर्नामकोऽग्निर्मन्द्रासु हर्षजनिकासु स्तुतिरूपासु ऋक्षु प्रयसः प्रयासवान्, * मन्त्रेऽनुस्वारलोपश्छान्दसः ।  
+१८२० अधिकपरिचर्यायुक्त इत्यर्थः ।  
+किंचायं बर्हिर्नामकोऽग्निर्वसुः प्राणिनां वासयिता चेतिष्ठोऽतिशयेनाभिज्ञो वसुधातमश्च यजमानार्थं द्रव्यस्यातिशयेन धारयिता ।
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वायुर्देवता
@@ -144,30 +180,37 @@ Let him pay worship to this Agni's greatness, daintily fed: he verily gives enjo
 - स्वराडुष्णिक्
 - ऋषभः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (सः) वह पूर्वोक्त विद्वान् मनुष्य (सुप्रयसः) प्रीतिकारक सुन्दर अन्नादि के हेतु (अस्य) इस (अग्नेः) अग्नि के (महिमानम्) बड़प्पन को (यक्षत्) सम्यक् प्राप्त हो तथा (सः) वह (वसुः) निवास का हेतु (चेतिष्ठः) अतिशय कर जाननेवाला (च) और (वसुधातमः) अत्यन्त धनों को धारण करनेवाला हुआ (ईम्) जल तथा (मन्द्रा) आनन्ददायक होमने योग्य पदार्थों को प्राप्त होवे ॥१५ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  जो पुरुष इस प्रकार अग्नि के बड़प्पन को जाने, सो अतिधनी होवे ॥१५ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  स मनुष्यः सुप्रयसोऽस्याग्नेर्महिमानं यक्षत्, स वसुश्चेतिष्ठो वसुधातमश्च सन्नीं मन्द्रा यक्षत् ॥१५ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  य इत्थमग्नेर्महत्त्वं विजानीयात्, सोऽतिधनी स्यात् ॥१५ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जे पुरुष अग्नीचे महत्त्व जाणतात ते धनवान होतात.

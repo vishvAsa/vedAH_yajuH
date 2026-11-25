@@ -2,28 +2,44 @@
 title = "०१ मयि गृह्णाम्य् अग्रे"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि गृह्णाम्य् अ᳓ग्रे अग्निँ᳓ राय᳓स् पो᳓षाय सुप्रजास्त्वा᳓य सुवी᳓र्याय।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 I TAKE within me Agni first, for increase of my wealth, good offspring, manly strength:
 </details>
+
+<details><summary>Keith</summary>
+
+In me I take first Agni, For increase of wealth, for good offspring with noble heroes;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मयि॑ गृह्णा॒म्यग्रे॑ अ॒ग्निँ रा॒यस्पोषा॑य सुप्रजा॒स्त्वाय॑ सु॒वीर्या॑य।
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मयि॑। गृ॒ह्णा॒मि॒। अग्रे॑। अ॒ग्निम्। रा॒यः। पोषा॑य। सु॒प्र॒जा॒स्त्वायेति॑ सुप्रजाः॒ऽत्वाय॑। सु॒वीर्य्या॒येति॑ सु॒ऽवीर्य्या॑य।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 मयि॑। गृ॒ह्णा॒मि॒। अग्रे॑। अ॒ग्निम्। रा॒यः। पोषा॑य। सु॒प्र॒जा॒स्त्वायेति॑ सुप्रजाः॒ऽत्वाय॑। सु॒वीर्य्या॒येति॑ सु॒ऽवीर्य्या॑य।
 </details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+मयि॑ । गृ॒ह्णा॒मि॒ । अग्रे॑ । अ॒ग्निम् । रा॒यः । पोषा॑य । सु॒प्र॒जा॒स्त्वायेति॑ सुप्रजाः-त्वाय॑ । सु॒वीर्या॒येति॑ सु-वीर्या॑य ॥
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 मयि गृह्णामि आग्नेयी ककुप्।
@@ -42,6 +58,7 @@ I TAKE within me Agni first, for increase of my wealth, good offspring, manly st
 
 वीर्यं शक्तिः।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 द्वादशेऽध्याये उखाधारणगार्हपत्यचयनक्षेत्रकर्षणौषधवपनादिमन्त्रा उक्ताः।
@@ -68,6 +85,7 @@ I TAKE within me Agni first, for increase of my wealth, good offspring, manly st
 
 सुवीर्याय शोभनसामर्थ्याय वीर्यं शक्तिः।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 पाठस् तु - ' मयि गृह्णाम्य् अग्रे अनि रायस्पोषाय सुप्रजास्त्वाय सुवीर्याय । मासु
@@ -79,6 +97,7 @@ I TAKE within me Agni first, for increase of my wealth, good offspring, manly st
 
 ' रायस्पोषाय धनस्य पुष्ट्य्-अर्थं सुप्रजास्त्वाय शोभन-पुत्रादि-निष्पादनार्थं सुवीर्याय शोभन-सामर्थ्यार्थं च ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 प्रजापतिः प्रथमां चितिम् अपश्यत् ।
@@ -100,5 +119,10 @@ I TAKE within me Agni first, for increase of my wealth, good offspring, manly st
 ' रायस्पोषाय सुप्रजास्त्वाय सुवीर्याय ' ।
 
 'रायस्पोषाय धनस्य पुष्ट्य्-अर्थं सुप्रजास्त्वाय सुपुत्र-परिनिष्पत्त्य्-अर्थं 'सुवीर्याय सुसामर्थ्यार्थं मय्यग्निं गृह्णामीति संबन्धः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्रिष्टुप् पुरस्ताज्ज्योतिस्त्रिष्टुप् अक्षराधिका । अग्ने प्रथमं चयनात् पूर्वमेवाग्निं मयि गृह्णामि रायो धनस्य पोषाय पुष्ट्यर्थं शोभनापत्यत्वाय शोभनवीर्यत्वाय च । व्याख्यातानि पदानि ।
 </details>
 </details>

@@ -2,23 +2,46 @@
 title = "१२ तनूनपादसुरो विश्ववेदा"
 
 +++
+
 <details><summary>Griffith</summary>
 
 Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and butter shall bedew the paths.
 </details>
-<details><summary>मूलम्</summary>
+
+<details><summary>Keith</summary>
+
+The son of self, the Asura, all-knower,  
+God, god among gods,  
+Anointeth the ways with mead and ghee.
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तनू॒नपा॒दसु॑रो वि॒श्ववे॑दा दे॒वो दे॒वेषु॑ दे॒वः।  
 प॒थो अ॑नक्तु॒ मध्वा॑ घृ॒तेन॑ ॥१२ ॥
 </details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तनू॒नपा॒दसु॑रो वि॒श्ववे॑दा दे॒वो दे॒वेषु॑ दे॒वः ।  
+प॒थ आन॑क्ति॒ मध्वा॑ घृ॒तेन॑ ।
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तनू॒नपा॒दिति॒ तनू॒ऽनपा॑त्। असु॑रः। वि॒श्ववे॑दा॒ इति॑ वि॒श्वऽवे॑दाः। दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्तु॒। मध्वा॑। घृ॒तेन॑। १२।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 तनू॒नपा॒दिति॒ तनू॒ऽनपा॑त्। असु॑रः। वि॒श्ववे॑दा॒ इति॑ वि॒श्वऽवे॑दाः। दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्तु॒। मध्वा॑। घृ॒तेन॑। २।
 </details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तनू॒नपा॒दिति॒ तनू॑-नपा॑त् । असु॑रः । वि॒श्ववे॑दा॒ इति॑ वि॒श्व-वे॒दाः॒ । दे॒वः । दे॒वेषु॑ । दे॒वः ॥ प॒थः । एति॑ । अ॒न॒क्ति॒ । मध्वा॑ । घृ॒तेन॑ ॥
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 तनूनपात्।
@@ -49,6 +72,7 @@ Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and but
 
 इत्थं नाम प्रभूतं यज्ञे घृतमस्तु येन मार्गा अभ्यक्ताः स्युरित्यभिप्रायः॥ १२॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 देवोऽग्निः मध्वा मधुना मधुरेण घृतेन पथो यज्ञमार्गाननक्तु।
@@ -75,6 +99,7 @@ Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and but
 
 देवेषु अपि देवः दीप्तिमान् श्रेष्ठः॥ १२॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ द्वितीयापदच्छेदः स्पष्टः ।। १२॥
@@ -89,6 +114,7 @@ Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and but
 
 अथ तृतीया -
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ‘तनून-पाद-सुरः’।
@@ -133,6 +159,26 @@ Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and but
 
 "विश्व-वेदाः संपूर्ण-धनः "देवेषु अपि "देवः दीप्तिमान् श्रेष्ठः ॥ २॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+पाठान्तरं काशिकानुवादे -
+
+> तनू᳓न᳓पात् (tanu being formed by ऊ Unadi I.80 has acute on the final, according to others it has acute on the first and napat = na pati or na palayati with क्विप् and has acute on the first).
+</details>
+
+<details><summary>सायण-टीका (तैत्तिरीया)</summary>
+
+तनूर्न पातयति न विनाशयतीति तनूनपात्, शरीर-पालक इत्यर्थः ।  
+एतन्नामकः कश्चिदग्निविशेषो मध्वा मधुरेण घृतेन पथ आनक्ति स्वर्गसाधनत्वेन तन्मार्गभूतानि हवींषि घृतेनाऽऽक्तानि करोतु ।  
+कीदृशस्तनूनपात् ।  
+असू प्राणान्राति ददातीत्यसुरः ।  
+अत एव शरीरपालक इति युक्तम् ।  
+विश्वं वेत्तीति विश्ववेदाः ।  
+देवो द्योतनात्मको मनुष्यैः पूजनीयो  वा ।  
+न केवलं मनुष्येष्वेव देवो-ऽपि तु देवेष्वप्यधिको देवः ।
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा देवताः
@@ -140,30 +186,37 @@ Tanûnapât the Asura, all-possessing, God among Gods, the God with mead and but
 - उष्णिक्
 - ऋषभः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब वायु किस के समान कार्यसाधक है, इस विषय को अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (देवेषु) उत्तम गुणवाले पदार्थों में (देवः) उत्तम गुणवाला (असुरः) प्रकाशरहित वायु (विश्ववेदाः) सब को प्राप्त होनेवाला (तनूनपात्) जो शरीर में नहीं गिरता (देवः) कामना करने योग्य (मध्वा) मधुर (घृतेन) जल के साथ (पथः) श्रोत्रादि के मार्गों को (अनक्तु) प्रकट करे, उस को तुम जानो ॥१२ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  जैसे परमेश्वर बड़ा देव सब में व्यापक और सब को सुख करने हारा है, वैसा वायु भी है, क्योंकि इस वायु के बिना कोई कहीं भी नहीं जा सकता ॥१२ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 अथ वायुः किंवत् कार्यसाधकोऽस्तीत्याह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे मनुष्याः ! यो देवेषु देवोऽसुरो विश्ववेदास्तनूनपाद्देवो मध्वा घृतेन सह पथोऽनक्तु, तं यूयं विजानीत ॥१२ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  यथा परमेश्वरो महादेवो विश्वव्यापी सर्वेषां सुखकरोऽस्ति तथा वायुरप्यस्ति, नह्यनेन विना कश्चिदपि कुत्रचिद् गन्तुं शक्नोति ॥१२ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  परमेश्वर जसा मोठा देव आहे व सर्वत्र व्यापक आहे आणि सर्वांना सुख देणारा आहे तसा वायूही असून त्याच्याखेरीज कोणी कुठेही जाऊ शकत नाही.
