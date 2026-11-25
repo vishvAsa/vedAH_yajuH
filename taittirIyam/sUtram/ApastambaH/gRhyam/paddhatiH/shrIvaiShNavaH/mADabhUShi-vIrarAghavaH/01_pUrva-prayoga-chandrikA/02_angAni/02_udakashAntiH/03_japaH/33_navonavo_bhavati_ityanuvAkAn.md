@@ -39,7 +39,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/085/19_navonavo_bhavati.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - चन्द्रमाः
@@ -122,7 +121,12 @@ prá ← prá (invariable)
 
 tirate ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्र॑म् ।  
+भा॒गं दे॒वेभ्यो॒ वि द॑धात्या॒यन्प्र च॒न्द्रमा॑स्तिरते दी॒र्घमायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +264,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -296,7 +299,6 @@ _________
 
 यद्वा - आदित्य एव चन्द्रमा उच्यते, चन्द्रस्य माता निर्माता उत्पादक इति । 'गतिकारकयोरपि' इत्यसिः, डित्वाट्टिलोपः । स जायमानो दिनेदिने प्राच्यामुद्यन् नवोनवो भवति सदोद्यन्नप्यपूर्व इव भवति । अह्नां केतुः दिवसकरत्वात् । उषसां रात्रीणां अग्रे अग्रतो गच्छति रात्रय एनमनुधावन्ति । एवमायन् उद्यन् देवेभ्यो भागं विदधाति, आदित्यगत्यधीनत्वात्सर्वकर्मणाम् । एवं महानुभावश्चन्द्रमसोप्युक्तवन्निर्माता आदित्यः दीर्घमायुर्वर्धयत्विति ॥
 _______________________
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -369,7 +371,6 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 पदार्थान्वयभाषाः -  (चन्द्रमाः-नवः-नवः-जायमानः-भवति) चन्द्रमाः खलु प्रतिरात्रि नवो नवः कलाश उद्यन् भवति (अह्नां केतुः-उषसाम्-अग्रम्-एति) दिवसानामुषसां च प्रज्ञानभूतोऽग्रमेति कृष्णपक्षे (देवेभ्यः-भागं विदधाति) उद्यन् देवेभ्यो यागकालसूचनया हविर्भागं समर्पयति (दीर्घम्-आयुः प्रतिरते) एवमुपयोगेन दीर्घमायुर्वर्धयति इति चन्द्रपक्षे निरुक्तमनुसृत्याधिदैविकोऽर्थः॥ प्रस्तुतगृहस्थपक्षे तु−(जायमानः) पुत्ररूपेणोत्पद्यमानः (नवः-नवः-भवति) नवो नवः पुत्ररूपो भवति (अह्नाम्-उषसां-केतुः-अग्रम्-एति) प्रतिदिनं प्रत्युषोवेलं च साक्षाद्भूतोऽग्रमेव गच्छति (आयन्) गृहाश्रममागच्छन्नेव (देवेभ्यः-भागं विदधाति) विद्वद्भ्योऽग्निप्रभृतिभ्यश्च भोजनभागं हविर्भागं च नियतं करोति (चन्द्रमाः-दीर्घम्-आयुः प्रतिरते) स्वजीवने खल्वाह्लादकारी सन् दीर्घमायुर्वर्धयति ॥१९॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -669,7 +670,6 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -726,7 +726,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 víśvāya ← víśva- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -802,7 +807,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -823,7 +827,6 @@ ____________
 **त्यं** तं इमं **देवं जातवेदसं** जातप्रज्ञं जातानां वेदितारं **केतवो** रश्मय **उद्वहन्ति** ऊर्ध्वं वहन्ति **दृशे** द्रष्टुं **विश्वाय** विश्वार्थं, विश्वो लोको यथैनं पश्येदिति ।
 ___________
 देवं सूर्यं जातवेदसं जातानां वेदितारं देवं केतवो रश्मयः उद्वहन्ति विस्वस्य लोकस्य दृशे दर्शनार्थमिति ॥
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -942,7 +945,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -991,7 +993,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -1074,7 +1075,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 tasthúṣaḥ ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।  
+आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1195,7 +1201,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1214,7 +1219,6 @@ _________
 
 _____________
 चित्रं चायनीयं सर्वलोकपूजितं देवानां रश्मीनामिन्द्रादीनां वा ऋत्विजां अनीकं मुखस्थानीयं समूहस्थानीयं वा उदगादुद्गच्छति सर्वात्मकसमष्टिरूपत्वात् । किं च – चक्षुस्थानीयं ख्यातिकरं वा मित्रादीनां । अयं देवो द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च आप्राः आ (प्रागाः) पूरयति तेजसा । प्रा पूरणे, पूरुषव्यत्ययः । जगतः जङ्गमस्य सर्वस्य तस्थुषः स्थावरस्य सर्वस्यात्मा सूर्यः एकः प्रेरको वा सर्वस्य तस्मादात्मा ; सर्वोपकारकत्वात् । यद्वा - 'स यश्चायं पूरुषे । यश्चासावादित्ये । स एकः' इति दर्शनात् आत्मा सर्वस्य । अत्राचार्येण 'समानी याज्यानुवाक्ये भवतः' इत्येतदनुसारेण 'उदग्ने शुचयस्तव' 'विज्योतिषा' 'उदु त्यं जातवेदसम्' 'चित्रं देवानाम्' इति हविषां याज्यानुवाक्याः 'उदुत्यं जातवेदसम्' 'सप्त त्वा हरितो रथे' 'चित्रं देवानाम्' इति पिण्डान् प्रयच्छति इति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1326,7 +1330,6 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 भावार्थभाषाः -  जो दृश्यमान परिमाणयुक्त पदार्थ असतो तो परमात्मा नसतो. कोणीही त्या अव्यक्त सर्वशक्तिमान जगदीश्वराखेरीज संपूर्ण जगाला उत्पन्न करू शकत नाही. सर्वव्यापक, सच्चिदानंदस्वरूप अनंत, अंतर्यामी, चराचर जगाचा आत्मा अशा परमेश्वराखेरीज संसार धारण करणे, जीवांच्या पापपुण्याच्या साक्षी असणे, त्यानुसार जीवांना सुख दुःखरूपी फळ देणे, हे कोणी करू शकत नाही. परमेश्वराच्या उपासनेशिवाय धर्म, अर्थ, काम, मोक्ष प्राप्त करण्यास जीव समर्थ बनू शकत नाही. त्यासाठी सर्वांनी परमेश्वरच उपासना करण्यायोग्य इष्टदेव आहे, हे मानले पाहिजे. ॥ १ ॥
 </details>
-
 </div>  
 
 _______
@@ -1521,7 +1524,12 @@ pāṁsuré ← pāṁsurá- (nominal stem)
 
 sámūḷham ← √vah- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दम् ।  
+समू॑ळ्हमस्य पांसु॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1530,7 +1538,7 @@ sámūḷham ← √vah- (root)
 सम्ऽऊ॑ळ्हम् । अ॒स्य॒ । पां॒सु॒रे ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒दम् । विष्णुः॑ । वीति॑ । च॒क्र॒मे॒ । त्रे॒धा । नीति॑ । द॒धे॒ । प॒दम् ॥ समू॑ढ॒मिति॒ सम्-ऊ॒ढ॒म् । अ॒स्य॒ । [25]  पाँ॒सु॒रे ।
 </details>
@@ -1605,7 +1613,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1637,7 +1644,7 @@ _________
 
 <details><summary>सायण-टीका</summary>
 
-विष्णुस् त्रिविक्रमावतारं धृत्वेदं विश्वं विभज्य क्रमते स्म भूमाव् एकं पदमन्तरिक्षे द्वितीयं दिवि तृतीयमित्येवं त्रेधा पदं निदधे। पांसवो भूम्यादि-लोकरूपा यस्य पदस्य सन्ति तत्पांसुरम्। अस्य विष्णोस् तस्मिन् पदे विश्वं समूढं सम्यगन्तर्भूतम्। 
+विष्णुस् त्रिविक्रमावतारं धृत्वेदं विश्वं विभज्य क्रमते स्म भूमाव् एकं पदमन्तरिक्षे द्वितीयं दिवि तृतीयमित्येवं त्रेधा पदं निदधे। पांसवो भूम्यादि-लोकरूपा यस्य पदस्य सन्ति तत्पांसुरम्। अस्य विष्णोस् तस्मिन् पदे विश्वं समूढं सम्यगन्तर्भूतम्।
 </details>
 
 <details><summary>Wilson</summary>
@@ -1769,7 +1776,6 @@ Vischnu durchschritt die ganze Welt, trat dreimal nieder mit dem Fuss, An seinem
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1849,7 +1855,12 @@ bhúvanāni ← bhúvana- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
+यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1962,7 +1973,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2080,7 +2090,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 भावार्थभाषाः -  कोणताही पदार्थ ईश्वर व सृष्टीच्या नियमाचे उल्लंघन करू शकत नाही, जो धार्मिक लोकांना मित्राप्रमाणे आनंद देणारा, दुष्टांना सिंहाप्रमाणे भयभीत करविणारा न्याय इत्यादी गुणांना धारण करणारा परमेश्वर आहे, तोच सर्वांचा अधिष्ठाता, न्यायाधीश आहे हे जाणले पाहिजे. ॥ २ ॥
 </details>
-
 </div>  
 
 ##### अग्निः
@@ -2124,7 +2133,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -2139,7 +2147,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 अपां᳓ रे᳓तांसि जिन्वति
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
 पति॑ᳶ पृथि॒व्या अ॒यम् ।  
@@ -2188,7 +2196,12 @@ jinvati ← √ji- 2 ~ jinv- (root)
 
 rétāṁsi ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
+अ॒पां रेतां॑सि जिन्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2260,7 +2273,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2358,7 +2370,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 पदार्थान्वयभाषाः -  स्वध्वरे=अन्यैरत्यन्तमहिंस्ये हिंसारहिते वा। अस्मिन् यज्ञे=ध्यानयज्ञे। अग्निं=सर्वाधारमीशमाहुवे=आह्वयामि स्तौमि। कीदृशम्। ऊर्जः=बलस्य। नपातं न पातयतीति नपातः। किन्तु बलस्य वर्धकमेव। पुनः। पावकशोचिषम्=पवित्रतेजस्कम् ॥१३॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>

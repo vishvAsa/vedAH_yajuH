@@ -39,7 +39,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/092/01_A_vAyo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -128,7 +127,12 @@ pūrvapéyam ← pūrvapéya- (nominal stem)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑यो भूष शुचिपा॒ उप॑ नः स॒हस्रं॑ ते नि॒युतो॑ विश्ववार ।  
+उपो॑ ते॒ अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -274,7 +278,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -411,7 +414,6 @@ Komm her, o Vaju, du des Reinen Trinker, o gabenreicher, tausend Rosse lenkst du
 
 पदार्थान्वयभाषाः -  (वायो) हे कर्मयोगिन् ! भगवन् अस्मद्यज्ञं (आ, भूष) आगत्य भूषयतु (शुचिपाः) शुचिपदार्थस्य पातास्ति, (विश्ववार) हे लोकभजनीय ! (ते) तव (सहस्रम्, नियुतः) अनेकधा कर्मप्रकाराः सन्ति (नः) अस्माकम् (अन्धः) अन्नादिकैः (मद्यम्) आह्लादनीयं सोमरसं (उप, अयामि) पात्रे निदधामि (देव) हे दिव्यशक्तिमन् ! (पूर्वपेयम्) भवतैव पूर्वपेयमिमं रसं (दधिषे) गृह्णातु ॥१॥
 </details>
-
 </div>  
 
 _______
@@ -518,7 +520,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/002/04_indravAyU_ime.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -578,7 +579,12 @@ uśánti ← √vaś- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑वायू इ॒मे सु॒ता उप॒ प्रयो॑भि॒रा ग॑तम् ।  
+इन्द॑वो वामु॒शन्ति॒ हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -666,7 +672,6 @@ _________
 - “because; indeed; for; therefore; hi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -792,7 +797,6 @@ Hier, Indra-Vaju, steht der Saft, so kommt zu ihm nach eurer Lust, Die Tropfen s
 
 भावार्थभाषाः -  या मंत्रात परमेश्वराकडून प्राप्य व प्रापक या दोन पदार्थांना प्रकट केलेले आहे.
 </details>
-
 </div>  
 
 _______

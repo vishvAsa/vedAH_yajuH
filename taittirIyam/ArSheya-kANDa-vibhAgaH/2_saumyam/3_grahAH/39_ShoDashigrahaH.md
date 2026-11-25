@@ -38,7 +38,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/02_indramiddharI_vahato_apratidhRShTashavasam.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -103,7 +102,12 @@ mā́nuṣāṇām ← mā́nuṣa- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒मिद्धरी॑ वह॒तोऽप्र॑तिधृष्टशवसम् ।  
+ऋषी॑णां च स्तु॒तीरुप॑ य॒ज्ञं च॒ मानु॑षाणाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +197,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -307,7 +310,6 @@ Den Indra fährt das Füchsepaar, ihn, dessen Kraft unhemmbar ist, Hin zu der S�
 
 भावार्थभाषाः -  ज्यांना प्रशंसा, सत्कार, अधिकार प्राप्त झालेले आहेत त्यांच्याशिवाय प्राण्यांना सुख मिळू शकत नाही व सत्क्रियेशिवाय चक्रवर्ती राज्य इत्यादीची प्राप्ती व रक्षण होऊ शकत नाही. या कारणामुळे सर्व माणसांनी हे अनुष्ठान केले पाहिजे. ॥ २ ॥
 </details>
-
 </div>  
 
 _______

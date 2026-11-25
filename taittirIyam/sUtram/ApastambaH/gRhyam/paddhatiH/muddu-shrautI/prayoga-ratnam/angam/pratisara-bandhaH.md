@@ -42,11 +42,9 @@ script: grantha
 
 (उत्तरतः)  
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-
 **आ᳓ प्यायस्व स᳓मेतु** ते  
 विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  
 **भ᳓वा** वा᳓जस्य **सङ्गथे᳓**+++(=संगमने)+++ ॥
-
 </div>  
 
 (आ प्या॑यस्व - समे॑तु ते - वि॒श्वतः॑ - सो॒म॒ - वृ॒ष्णि॑यम्।  
@@ -175,7 +173,6 @@ script: grantha
 ### कृणुष्व पाज इत्यनुवाकः
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004_kRNuShva_pAjaH/">
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 **परिचयः**
@@ -184,120 +181,138 @@ script: grantha
 - तत्रैव 'मदे चिदस्य ’ इत्यर्धर्चम् एवोद्धृत्य। तैत्तिरीयभाष्ये [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_042_Krishna_Yajurvediya_Taittiriya_Samhita_Part_1_-_Kasinath_Sastri_Agase_1940#page/n327/mode/2up)।
 </details>
 
+
 ##### आह्वानम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/01_kRNuShva_pAjaH.md">
+<details open><summary><h2>०१ कृणुष्व पाजः ...{Loading}...</h2></summary>
 
 **कृणुष्व᳓** पा᳓जः +++(=तेजः)+++ प्र᳓सितिन् +++(=जालं)+++ न᳓ पृथ्वीं᳓  
 **याहि᳓** रा᳓जेवा᳓मवाँ +++(=सहवान्)+++ इ᳓भेन+++(=यूथेन)+++ ।  
 तृष्वी᳓म् +++(=वेगम्)+++ अ᳓नु प्र᳓सितिं +++(=सैन्यं)+++ **द्रूणानो᳓**  
 +++(निर्)+++ **अ᳓स्ताऽसि**, **वि᳓ध्य** +++(च)+++ रक्ष᳓सस् त᳓पिष्ठैः ॥
 
+</details>
 </div>
 
 ##### युद्धप्रार्थना
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
+<details open><summary><h2>०२ तव भ्रमास ...{Loading}...</h2></summary>
 
-त᳓व भ्रमा᳓स आशुया᳓ **पतन्त्य्**  
-अ᳓नु **स्पृश धृषता᳓ +++(=अभिभवता)+++ शो᳓शुचानः** ।  
+त᳓व भ्रमा᳓स आशुया᳓ **पतन्त्य्** अ᳓नु  
+**स्पृश धृषता᳓ +++(=अभिभवता)+++ शो᳓शुचानः** ।  
 त᳓पूँष्य् अग्ने **जुह्वा᳙** पतङ्गा᳓न्  
 **अ᳓-सन्दितो +++(=अनिरुद्धः)+++ वि᳓ सृज** वि᳓ष्वग् उल्काः᳓ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
+<details open><summary><h2>०३ प्रति स्पशो ...{Loading}...</h2></summary>
 
 प्र᳓ति स्प᳓शो **वि᳓ सृज** तू᳓र्णितमो  
 **भ᳓वा पायु᳓र्** विशो᳓ अस्या᳓ **अ᳓-दब्धः** ।  
 यो᳓ नो दूरे᳓ अघ᳓-**शँसो** यो᳓ अ᳓न्ति  
 अ᳓ग्ने मा᳓किष् टे व्य᳓थिर् +++(=बाधकः)+++ **आ᳓दधर्षीत्** ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
+<details open><summary><h2>०४ उदग्ने तिष्ठ ...{Loading}...</h2></summary>
 
 **उ᳓द्** अग्ने **तिष्ठ** प्र᳓त्या᳓ऽऽतनुष्व  
-**न्य्** अ᳙मि᳓त्राँ+++(←नञो जर-मर-मित्र-मृताः)+++ **ओषतात्** +++(=प्रदह)+++ तिग्म-हेते ।  
+**न्य्** अ᳙मि᳓त्राँ **ओषतात्** +++(=प्रदह)+++ तिग्म-हेते ।  
 यो᳓ नो अ᳓रातिँ **समिधान** चक्रे᳓  
 नीचा᳓ तं᳓ **धक्ष्य्** +++(=दह)+++ अतसं᳓ +++(=काष्ठविशेषः)+++ न᳓ शु᳓ष्कम् ॥
 
+</details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
+<details open><summary><h2>०५ ऊर्ध्वो भव ...{Loading}...</h2></summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
-
-**ऊर्ध्वो᳓** भव प्र᳓ति **विध्या᳓**+ध्य् अस्म᳓द्  
-**आवि᳓ष् कृणुष्व** दाइ᳓वियानि अग्ने ।  
+**ऊर्ध्वो᳓** भव प्र᳓ति **विध्या᳓**-  
++ध्य् अस्म᳓द् **आवि᳓ष् कृणुष्व** दै᳓व्यान्य् अग्ने ।  
 **अ᳓व स्थिरा᳓ तनुहि** यातु-जू᳓नां+++(=प्रेरकाणां)+++  
-जामि᳓म् +++(=ज्ञातिं)+++ अ᳓जामिं **प्र᳓ मृणीहि** +++(=जहि)+++ श᳓त्रून् ॥
+जामि᳓म् +++(=ज्ञातिं)+++ अ᳓जामिं **प्र᳓ मृणीहि** +++(=जहि)+++ श᳓त्रू᳓न् ॥
 
+</details>
 </div>
 
 ##### उपासकसौभाग्यम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
+<details open><summary><h2>०६ स ते ...{Loading}...</h2></summary>
 
 स᳓ ते **जानाति** सु-मतिं᳓ यविष्ठ  
 य᳓ **ई᳓वते**+++(=गमनशीलाय)+++ ब्र᳓ह्मणे +++(=पुष्टाय)+++ **गातु᳓म् ऐ᳓रत्** +++(=प्रेरयति)+++ ।  
 वि᳓श्वान्य् अस्मै सुदि᳓नानि रायो᳓  
 द्युम्ना᳓न्य्  अर्यो᳓ वि᳓ दु᳓रो +++(=गृहान्)+++ **अभि᳓ द्यौत्** +++(=द्योतस्व)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
+<details open><summary><h2>०७ सेदग्ने अस्तु ...{Loading}...</h2></summary>
 
 से᳓द्+++(=स+इत्)+++ अग्ने **अस्तु** सुभ᳓गस् सुदा᳓नुर्  
 य᳓स् त्वा नि᳓त्येन हवि᳓षा य᳓ उक्थैः᳓ ।  
 **पि᳓प्रीषति**, स्व᳓ आ᳓युषि दुरोणे᳓ +++(=गृहे)+++ +++(तिष्ठतु)+++  
 वि᳓श्वे᳓द् अस्मै सुदि᳓ना सा᳓ **ऽसद्**+++(=भूयात्)+++ इष्टिः᳓ ॥
 
+</details>
 </div>
 
 ##### प्रतिज्ञा
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
+<details open><summary><h2>०८ अर्चामि ते ...{Loading}...</h2></summary>
 
 **अ᳓र्चामि** ते सु-मतिं᳓, **घो᳓ष्य्** +++(=घोषवती)+++ अर्वा᳓क्+++(=पुरतः)+++  
 स᳓म्+ ते वावा᳓ता+++(=पुनः पुनः)+++ **जरताम्** +++(=स्तौतु)+++ इयं᳓ गीः᳓ ।  
 स्व्-अ᳓श्वास् त्वा सु-र᳓था **मर्जयेमा**+++(=अलङ्कुर्याम)+++  
 ऽस्मे᳓+++(=अस्मासु)+++ क्षत्रा᳓णि **धारयेर्** अ᳓नु द्यू᳓न् +++(=अन्वहम्)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
+<details open><summary><h2>०९ इह त्वा ...{Loading}...</h2></summary>
 
 इह᳓ त्वा भू᳓र्य् **आ᳓ चरेद्** उ᳓प +++(आ)+++त्म᳓न्  
 दो᳓षावस्तर् +++(=रात्रावहः)+++ **दीदिवाँ᳓सम्**+++(=दीप्यमानं)+++ अ᳓नु द्यू᳓न्+++(=अन्वहम्)+++ ।  
 **क्री᳓डन्तस्** त्वा सु-म᳓नसस् **सपेम**+++(=परिचरेमा)+++   
 +**अभि᳓** द्युम्ना᳓ **तस्थिवाँ᳓सो** ज᳓नानाम् ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
+<details open><summary><h2>१० यस्त्वा स्वश्वः ...{Loading}...</h2></summary>
 
 य᳓स् त्वा स्व्-अ᳓श्वस् सु-हिरण्यो᳓ अग्न  
 **उपया᳓ति** व᳓सुमता र᳓थेन ।  
 त᳓स्य **त्राता᳓** भवसि, त᳓स्य स᳓खा  
 य᳓स् त आतिथ्य᳓म् आनुष᳓ग् +++(=अनुक्रमेण)+++ **जु᳓जोषत्** ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
+<details open><summary><h2>११ महो रुजामि ...{Loading}...</h2></summary>
 
 महो᳓ +++(=महद्राक्षसान्)+++ **रुजामि** +++(=भनज्मि)+++ बन्धु᳓ता+++(\~बन्धुतया)+++  
 व᳓चोभिस् त᳓न् मा पितु᳓र् गो᳓तमाद् **अ᳓न्वियाय** ।  
 त्व᳓न् नो अस्य᳓ व᳓चसश् **चिकिद्धि**  
 हो᳓तर् यविष्ठ सु-क्रतो द᳓मूनाः +++(=दान्तमनाः)+++॥
 
+</details>
 </div>
 
 ###### किरणकीर्तिः
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
+<details open><summary><h2>१२ अस्वप्नजस्तरणयः सुशेवा ...{Loading}...</h2></summary>
 
 अ᳓-स्वप्न-जस् तर᳓णयस् सु-शे᳓वा +++(=सुमुखाः)+++  
 अ᳓-तन्द्रासो ऽवृका᳓+++(=अहिंसका)+++ अ᳓-श्रमिष्ठाः ।  
 ते᳓ +++(रश्मयः)+++ पाय᳓वस् **सध्रि᳓यञ्चो** +++(=सङ्गताः)+++**निष᳓द्य**+++(=उपविश्य)+++  
-+अ᳓ग्ने त᳓व नः **पान्त्व्** अमूर +++(=अमर्त्य)+++ ॥
++अग्ने त᳓व नः **पान्त्व्** अमूर +++(=अमर्त्य)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
+<details open><summary><h2>१३ ये पायवो ...{Loading}...</h2></summary>
 
 +++(उतथ्यभार्या ममता। तस्याम् बृहस्पतिर् रेतः स्थापयितुम् अयतत। तत्र वर्तमानं रेतोऽन्तरम् आक्षिपत्। बृहस्पतिर् अशपत् तम् दीर्घतमा भवेति। सोऽ अग्नेर् अलभत चक्षुः।)+++
 
@@ -306,55 +321,62 @@ script: grantha
 **रर᳓क्ष** ता᳓न्त् सुकृ᳓तो विश्व᳓-वेदा  
 **दि᳓प्सन्त** +++(=दम्भितुकामाः)+++ इ᳓द् रिप᳓वो ना᳓ ह **देभुः᳓** +++(=परिभवन्ति)+++ ॥
 
+</details>
 </div>
 
 ##### प्रतिज्ञानुवर्तनम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
+<details open><summary><h2>१४ त्वया वयं ...{Loading}...</h2></summary>
 
 त्व᳓या वयँ᳓ सधन्य᳓स् **त्वो᳓तास्** +++(त्वया +अविताः=रक्षिताः)+++  
-त᳓व **प्र᳓णीत्या ऽश्याम** वा᳓जान् +++(=अन्नानि)+++ ।  
+त᳓व **प्र᳓णीत्या ऽश्याम** वा᳓जा᳓न् +++(=अन्नानि)+++ ।  
 उभा᳓ +++(पाप-)+++**शँ᳓सा** +++(शत्रू)+++ **सूदय** सत्य-ताते+++(=तते)+++  
-ऽनुष्ठुया᳓+++(=अनुक्रमेण)+++ **कृणुह्य्** +++(हे!)+++ अ-ह्रयाण +++(=अह्रि!)+++ ॥
+ऽनुष्ठुया᳓+++(=अनुक्रमेण)+++ **कृणुह्य्** अ-ह्रयाण +++(=अह्रीः)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
+<details open><summary><h2>१५ अया ते ...{Loading}...</h2></summary>
 
 अया᳓ +++(=अनया)+++ ते अग्ने समि᳓धा **विधेम**  
 प्र᳓ति स्तो᳓मँ शस्य᳓मानं **गृभाय** +++(=गृहाण)+++ ।  
-**द᳓हा** ऽश᳓सो +++(=अशंसो)+++ रक्ष᳓सः **पाह्य्** +अ᳓स्मा᳓न्  
+**द᳓हा** ऽश᳓सो +++(=अशंसो)+++ रक्ष᳓सः **पाह्य्** अ᳓स्मा᳓न्  
 द्रुहो᳓ निदो᳓ +++(=निन्दकात्)+++ मित्र-महो +++(=मित्रपूज्य!)+++ अवद्या᳓त्+++(=परिवादात्)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
+<details open><summary><h2>०१ रक्षोहणं वाजिनमा ...{Loading}...</h2></summary>
 
 रक्षोह᳓णं वाजि᳓नम् +++(=अन्नवन्तम्)+++ आ᳓ऽऽजिघर्मि +++(=दीपयामि)+++  
 मित्रं᳓ प्र᳓थिष्ठम् +++(=विस्तीर्णतमम्)+++ उ᳓पयामि श᳓र्म ।  
 शि᳓शानो +++(=तीक्ष्णः)+++ अग्निः᳓ क्र᳓तुभिस् स᳓मिद्धस्  
 स᳓ नो दि᳓वा स᳓ रिषः᳓ +++(=हिंसकात्)+++ पातु न᳓क्तम् ॥
 
+</details>
 </div>
 
 ##### रक्षोहाग्निध्यानम्
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
+<details open><summary><h2>०९ वि ज्योतिषा ...{Loading}...</h2></summary>
 
 वि᳓ ज्यो᳓तिषा बृहता᳓ **भात्य्** अग्नि᳓र्  
 आवि᳓र् वि᳓श्वानि **कृणुते** महित्वा᳓ +++(=महत्तया)+++ ।  
 प्रा᳓देवीर् माया᳓स् **सहते** दुरे᳓वाः +++(=दुरत्ययः)+++  
 **शि᳓शीते** +++(=तीक्ष्णीकरोति)+++ शृ᳓ङ्गे र᳓क्षसे विनि᳓क्षे +++(=विनाशाय)+++ ॥
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">
+<details open><summary><h2>१० उत स्वानासो ...{Loading}...</h2></summary>
 
 उत᳓ स्वाना᳓सो +++(=सस्वनाः)+++ दिवि᳓ **षन्त्व्** अग्ने᳓स्  
 तिग्मा᳓युधा र᳓क्षसे **ह᳓न्तवा᳓** उ ।  
 +++(अस्माकं)+++ म᳓दे +++(=मदाय)+++ चिद् अस्य **प्र᳓रुजन्ति** +++(=भञ्जन्ति (अदेवीः))+++ भा᳓मा+++(=भासः रश्मयो)+++,  
 **न᳓ वरन्ते** +++(अस्मान्)+++ परिबा᳓धो अ᳓देवीः ॥
 
+</details>
 </div>
-
 </div>
 
 ### अग्ने यशस्विन्निति चतस्रः
@@ -949,7 +971,6 @@ To see great joy.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -964,7 +985,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -1015,7 +1036,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1103,7 +1129,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1114,6 +1139,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -1132,6 +1158,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1207,7 +1238,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
@@ -1243,7 +1273,6 @@ Like eager mothers.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1303,7 +1332,12 @@ mātáraḥ ← mātár- (nominal stem)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1385,7 +1419,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1404,6 +1437,11 @@ ________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1465,7 +1503,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 पदार्थान्वयभाषाः -  (वः) हे आपः ! युष्माकं (यः) यः खलु (शिवतमः-रसः) कल्याणतमोऽतिकल्याणसाधको रसोऽस्ति (तस्य नः) तम् “व्यत्ययेन षष्ठी” नोऽस्मान् (इह) अस्मिन् शरीरे (भाजयत) सेवयत (उशतीः-मातरः-इव) पुत्रसमृद्धिं कामयमाना मातर इव, यथा ताः स्वस्तन्यं रसं दुग्धं पुत्रं भाजयन्ति पाययन्ति तद्वत् ॥२॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
@@ -1502,7 +1539,6 @@ O waters, and propagate us.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1562,7 +1598,12 @@ janáyatha ← √janⁱ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1643,7 +1684,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1664,6 +1704,11 @@ _____________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1732,7 +1777,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
 </details>
-
 </div>
 </div>
 
@@ -1981,7 +2025,6 @@ Do ye confer upon me radiance and might and force.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/15_uduttamaM_varuNa.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2064,7 +2107,12 @@ vraté ← vratá- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
+अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2187,7 +2235,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2243,7 +2290,7 @@ Loosen the bonds, O Varuna, that hold me, loosen the bonds above, between, and u
 Unloose from us, O Varuna, the highest,  
 The lowest, the midmost knot;  
 Then may we, O Aditya [3], in thy rule,  
-Be guiltless before Aditi.  
+Be guiltless before Aditi.
 </details>
 
 <details><summary>Geldner</summary>
@@ -2311,7 +2358,6 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 भावार्थभाषाः -  जे ईश्वराची आज्ञा यथायोग्य नित्य पाळतात, तेच पवित्र असतात व सर्व दुःखबंधनांतून पृथक होऊन निरंतर सुख प्राप्त करतात.
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
@@ -2427,7 +2473,6 @@ All these are Varuna's ordinances.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2519,7 +2564,12 @@ rīriṣaḥ ← √riṣ- (root)
 
 tásmāt ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
+अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2661,7 +2711,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2740,7 +2789,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
@@ -2767,7 +2815,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -2871,7 +2918,12 @@ te ← tvám (pronoun)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
+सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3038,7 +3090,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3151,7 +3202,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3199,7 +3249,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -3279,7 +3328,12 @@ rā́jan ← rā́jan- (nominal stem)
 
 śiśrathaḥ ← √śrathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ ते॒ हेळो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे ह॒विर्भिः॑ ।  
+क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः कृ॒तानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3398,7 +3452,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3526,7 +3579,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 
 भावार्थभाषाः -  माणसांनी परमेश्वरनिर्मित संसारात निर्माण केलेले पदार्थ पाहून पापकर्माचे फल शिथिल होईल असे अनुष्ठान करावे. जसे अज्ञानी पुरुषाला पापफळ दुःखी करतात, तसेच ज्ञानी पुरुषाला दुःख देत नाहीत. ॥ १४ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
@@ -3553,7 +3605,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/11_tattvA_yAmi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -3642,7 +3693,12 @@ prá ← prá (invariable)
 
 úruśaṁsa ← uruśáṁsa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒ प्र मो॑षीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3795,7 +3851,6 @@ _________
 - “rob; remove; steal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3898,7 +3953,6 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी वेदोक्त रीतीने परमेश्वर व सूर्याला जाणून सुख प्राप्त करून घ्यावे. कोणत्याही माणसाने परमेश्वर व सूर्यविद्येचा अनादर करू नये. सदैव ईश्वराच्या आज्ञेचे पालन करून त्याने निर्माण केलेल्या सूर्य इत्यादी पदार्थांना त्यांच्या गुणांसह जाणून त्यांचा उपयोग करून घ्यावा व आपले आयुष्य निरंतर वाढवावे. ॥ ११ ॥
 </details>
-
 </div>
 </div>
 
@@ -4000,7 +4054,6 @@ O bounteous one, be merciful to our children and descendants.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -4086,7 +4139,12 @@ te ← tvám (pronoun)
 
 vapantu ← √vap- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।  
+मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4217,7 +4275,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -4227,7 +4284,6 @@ _________
 
 <details><summary>सायण-टीका</summary>
 
-अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।  
 कीदृशम् गर्तसदं गर्तसदृशे हृदयपुण्डरीके सर्वदा तिष्ठन्तम्।  
 ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति’ इति स्मृतेः।  
 युवानं नित्यतरुणम्।  
@@ -4338,7 +4394,6 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4540,7 +4595,6 @@ And approach us bearing the spear [4].
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -4635,7 +4689,12 @@ tvám ← tvám (pronoun)
 
 vidhatáḥ ← √vidh- (root)  
 {case:ACC, gender:M, number:PL, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने रु॒द्रो असु॑रो म॒हो दि॒वस्त्वं शर्धो॒ मारु॑तं पृ॒क्ष ई॑शिषे ।  
+त्वं वातै॑ररु॒णैर्या॑सि शङ्ग॒यस्त्वं पू॒षा वि॑ध॒तः पा॑सि॒ नु त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4644,11 +4703,10 @@ vidhatáḥ ← √vidh- (root)
 त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒म्ऽग॒यः । त्वम् । पू॒षा । वि॒ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । अ॒ग्ने॒ । रु॒द्रः । असु॑रः । म॒हः । दि॒वः । त्वम् । शर्धः॑ । मारु॑तम् । पृ॒क्षः । ई॒शि॒षे॒ ॥   
-त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒ङ्ग॒य इति॑ शम्-ग॒यः । त्वम् । पू॒षा । वि॒ध॒त इति॑ वि-ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥ 2B । 
-
+त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒ङ्ग॒य इति॑ शम्-ग॒यः । त्वम् । पू॒षा । वि॒ध॒त इति॑ वि-ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥ 2B ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -4787,7 +4845,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4926,7 +4983,6 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे बलाची इच्छा करतात, दुष्टांची ताडना करतात, धर्माचरण करणाऱ्यांना सुखी ठेवतात व सर्वांची उन्नती इच्छितात, ती अतुल ऐश्वर्य प्राप्त करतात. ॥ ६ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
@@ -4953,7 +5009,6 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -5027,7 +5082,12 @@ híraṇyarūpam ← híraṇyarūpa- (nominal stem)
 
 kr̥ṇudhvam ← √kr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॒ राजा॑नमध्व॒रस्य॑ रु॒द्रं होता॑रं सत्य॒यजं॒ रोद॑स्योः ।  
+अ॒ग्निं पु॒रा त॑नयि॒त्नोर॒चित्ता॒द्धिर॑ण्यरूप॒मव॑से कृणुध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5036,9 +5096,9 @@ kr̥ṇudhvam ← √kr̥- (root)
 अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यऽरूपम् । अव॑से । कृ॒णु॒ध्व॒म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-एति॑ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒यज॒मिति॑ सत्य-यज॑म् । रोद॑स्योः ॥ अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यरूप॒मिति॒ हिर॑ण्य-रू॒प॒म् । अव॑से । कृ॒णु॒ध्व॒म् ॥ 
+एति॑ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒यज॒मिति॑ सत्य-यज॑म् । रोद॑स्योः ॥ अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यरूप॒मिति॒ हिर॑ण्य-रू॒प॒म् । अव॑से । कृ॒णु॒ध्व॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5155,7 +5215,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5281,7 +5340,6 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे विद्वानांनो! जसे ईश्वराने ब्रह्मांडात सूर्य स्थित करून सर्वांचे प्रिय सुख साधन निर्माण केलेले आहे. तसे राजा व प्रजा यांच्या संमतीने आमच्यातील गुणकर्मस्वभाव उत्तम असेल त्याला राजा करून आमचे हित साधा. ज्यामुळे तुमचेही हित व्हावे ॥ १ ॥
 </details>
-
 </div>
 </div>
 
@@ -5810,7 +5868,12 @@ urugāyáḥ ← urugāyá- (nominal stem)
 
 vicakramāṇáḥ ← √kramⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
+यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5819,9 +5882,9 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः । 
+विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5940,7 +6003,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5999,7 +6061,7 @@ _________
 इत्य्-एवं-रीत्या स्यात् ।  
 यस्मात् पार्थिव-रेणु-गणनम् एव कर्तुम् अशक्तो ऽस्मि,  
 अत एव विष्णु-वीर्य-गणने ऽप्य् अशक्तः इत्यत्र तात्पर्यम् ।  
-आस्ताम् एतत् । 
+आस्ताम् एतत् ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -6147,7 +6209,6 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -6236,7 +6297,12 @@ paramé ← paramá- (nominal stem)
 
 víṣṇoḥ ← víṣṇu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑स्य प्रि॒यम॒भि पाथो॑ अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒ मद॑न्ति ।  
+उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णोः॑ प॒दे प॑र॒मे मध्व॒ उत्सः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -6375,7 +6441,6 @@ _________
 - “spring; fountain; utsa \[word\]; well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -6390,7 +6455,6 @@ _________
 __________________
 
 देवयवो देवानिच्छन्तो नरो यजमाना यत्र भागीरथीजले मदन्ति हृष्यन्ति । अस्य विष्णोः प्रियं तत्पाथो भागीरथीजलं अभ्यश्यां अभितो व्याप्तवान् । उरुक्रमस्य विस्तीर्णपादस्य विष्णोः परमे पदे तृतीये पादे बन्धुः संबद्धो मध्वो मधुर उत्सो भागीरथीप्रवाह इत्था हि एवंविधः । हिशब्दः सर्वलोकप्रसिद्धिद्योतनार्थः ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -6488,7 +6552,6 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 
 भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. जे परमेश्वराने वेदाद्वारे दिलेल्या आज्ञेप्रमाणे वागतात ते मोक्षसुख प्राप्त करतात. जसे लोक बंधूकडून साह्य प्राप्त करतात किंवा तृषार्त लोक विहिरीद्वारे मधुर जल प्राप्त करून तृप्त होतात तसे ते परमेश्वराला प्राप्त करून आनंद भोगतात. ॥ ५ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
@@ -6515,7 +6578,6 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -6595,7 +6657,12 @@ bhúvanāni ← bhúvana- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
+यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -6708,7 +6775,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -6826,7 +6892,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 भावार्थभाषाः -  कोणताही पदार्थ ईश्वर व सृष्टीच्या नियमाचे उल्लंघन करू शकत नाही, जो धार्मिक लोकांना मित्राप्रमाणे आनंद देणारा, दुष्टांना सिंहाप्रमाणे भयभीत करविणारा न्याय इत्यादी गुणांना धारण करणारा परमेश्वर आहे, तोच सर्वांचा अधिष्ठाता, न्यायाधीश आहे हे जाणले पाहिजे. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -6860,7 +6925,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -6954,7 +7018,12 @@ víṣṇo ← víṣṇu- (nominal stem)
 
 vitse ← √vid- 2 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रो मात्र॑या त॒न्वा॑ वृधान॒ न ते॑ महि॒त्वमन्व॑श्नुवन्ति ।  
+उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ वित्से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -7086,7 +7155,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -7100,7 +7168,6 @@ _________
 
 __________________
 हे विष्णो देव मात्रया कृत्स्नं जगन्मातुं प्रवृत्तया तनुवा त्रिविक्रमावताररूपया मूर्त्या वृधान हे वर्धमान परः उत्कृष्टोऽसि । ते त्वदीयं महित्वं महिमानं नान्यश्नुवन्ति केऽपि समर्था अनुगन्तुं न क्षमन्ते । ते तव लोकान्मातुं प्रवृत्तस्य पृथिव्या आरभ्योभे रजसी द्वे रञ्जनस्थाने पृथिव्यन्तरिक्षमित्येते त्वदीयपदे इति वयं विद्मः । त्वं पुनः परमस्योत्कृष्टस्य तृतीयस्य पदस्य स्थानं वित्से जानासि ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -7122,21 +7189,13 @@ O you who have grown with your body beyond measure, they do not  attain to your 
 We (only) know both your dusky realms of the earth; god Viṣṇu, you  yourself know the farthest one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems perfectly acceptable, though not strictly necessary. And since in vs. 2 it is, presumably, mortals (since they are ‘born’) who fail to reach the limit of Viṣṇu’s greatness, mortals could also be the subject here. See remarks below on the formulatic connection between the two vss.
-
-As Renou points out, both the case of the complement (acc. versus gen.) and the voice (act. versus mid.) differ between 1st pl. vidma in c and 2nd sg. vitse in d. The middle voice of vitse makes sense, since Viṣṇu knows his own farthest realm; the variation in case is harder to account for. Perhaps the two earthly realms are subjects of direct knowledge, while the farthest realm is something even Viṣṇu only knows of.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The b-pādas of these two vss. are variants of each other, using two different roots for ‘attain’ (√naś, √āp) and two different formulations of ‘greatness’, the 2nd an elaboration on the first: 1b ná te mahitvám ánv aśnuvanti 2ab ná te … mahimnáḥ páram ántam āpa Another example of the freedom of RVic formulaics; see comm. ad VII.98.5 in the previous hymn for further on this.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -7184,7 +7243,6 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 पदार्थान्वयभाषाः -  (मात्रया) प्रकृत्यापञ्चतन्मात्ररूपेण (तन्वा) शरीरेण (वृधानः) वृद्धिं प्राप्तं (ते) तव (महित्वम्) महिमानं (विष्णो) हे विभो ! (न) नैव (अश्नुवन्ति) प्राप्नुवन्ति, हे विभो ! (ते) तव (उभे) उभावपि लोकौ (विद्म) जानीमः यौ (पृथिव्याः) पृथिवीतः (रजसी)  अन्तरिक्षपर्यन्तौ स्तः (देव) हेदिव्यशक्तिमन् ! (त्वम्) त्वमेव (अस्य) अस्य ब्रह्माण्डस्य (परम्) पारं (वित्से) जानासि नान्यः, यतः (परः) सर्वस्मात्परोऽसि ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -7224,7 +7282,6 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -7301,7 +7358,12 @@ sujánimā ← sujániman- (nominal stem)
 
 urukṣitím ← urukṣití- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि च॑क्रमे पृथि॒वीमे॒ष ए॒तां क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे दश॒स्यन् ।  
+ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -7429,7 +7491,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -7461,21 +7522,13 @@ Quick Viṣṇu strode across this earth for a dwelling place for Manu,  showing
 Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has made (them) wide dwelling.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free to express the aim of Viṣṇu’s action -- creating space and dwelling places for the people
-
--- in the rest of the vs. As Geldner points out (n. 4c), asya can refer either to Viṣṇu or to Manu, although in actuality this may not matter. It may be an instance of “trickle-down” ownership: Viṣṇu makes a dwelling place for Manu, and in turn Manu’s people also get firmly planted. Or, Manu and the people may both be under Viṣṇu’s auspices.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -7533,7 +7586,6 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 पदार्थान्वयभाषाः -  (विष्णुः) व्यापक ईश्वरः (मनुषे, क्षेत्राय, दशस्यन्) मनुष्याय क्षेत्रं दित्सन् (पृथिवीम्, एताम्, विचक्रमे) इमां भुवं कृतवान्, यतः (अस्य) अस्य परमात्मनः (कीरयः) स्तोतारः (जनासः) भक्ताः (ध्रुवासः) दृढा अभवन् यतः (उरुक्षितिम्) विस्तृतां पृथिवीं (सुजनिमा) सर्वाङ्गशोभनां (चकार) कृतवान् ॥४॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
@@ -7559,7 +7611,6 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -7645,7 +7696,12 @@ sthávirasya ← sthávira- (nominal stem)
 
 tveṣám ← tveṣá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्दे॒वः पृ॑थि॒वीमे॒ष ए॒तां वि च॑क्रमे श॒तर्च॑सं महि॒त्वा ।  
+प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान्त्वे॒षं ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -7771,7 +7827,6 @@ _________
     word.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -7804,25 +7859,13 @@ Let Viṣṇu be preeminent, stronger than the strong, for vibrant is the
 name of this stalwart one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Flg. a suggestion by Geldner (n. 3a, though not reflected in his tr.), I take eṣáin pāda a (also 4a) as belonging to the stem eṣá- ‘quick’, which is used several times of Viṣṇu in the gen. expression víṣṇor eṣásya (II.34.11, VII.40.5, VIII.20.3), in which confusion with the nom. pronominal eṣá(ḥ) (possible here) is excluded.
-
-The hapax śatárcas- is problematic. The Pp analyses the 2nd member as arcasam, but Wackernagel (AiG I.318) points out that the sandhi between the cmpd members would require rather -ṛcasam. However, Oldenberg disputes this, claiming that it would then have to be written (“… geschrieben werden müssen”) *śatáṛcasam , though it’s not clear to me why. Interpr. differ significantly: Sāyaṇa. glosses with arcis-.
-
-Oldenberg posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi stotā́raḥ śatáṃ yát sahásraṃ gṛṇánti “When a hundred, when a thousand praisers sing to him …,” an interpr. followed by Geldner -- though the connection between the two passages seems tenuous to me. By contrast, Renou tr. “au cent éclats,” perhaps flg. Sāyaṇa.’s arcís-. Since an infinitival dat. ṛcáse ‘to praise, for chanting (praise)’ is found in VI.39.5 and VII.61.6, it seems reasonable to take the underlying stem ṛcas- as the base here, as Grassmann does, glossing ‘hundertfach zu preisen’. My ‘worth a hundred verses’ is close to that, though perhaps ‘praises, chants’ would be better.
-
-Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -7870,7 +7913,6 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 
 पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तिः परमात्मा (एताम्) इमां (पृथिवीम्) भुवं (त्रिः) त्रेधा (विचक्रमे) रचयामास (शतर्चसम्) यस्यां शतधा ज्वालाः (महित्वा) यातिविस्तृता (अस्य, स्थविरस्य, विष्णुः, नाम) अस्य प्राचो नाम विष्णुरिति यतः (तवसः, तवीयान्) अयं ते स्वामी यद्वा व्यापकः ॥३॥
 </details>
-
 </div>
 </div>
 
@@ -8011,7 +8053,12 @@ nāvā́ ← naú- ~ nā́v- (nominal stem)
 
 síndhum ← síndhu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेदः॑ ।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -8140,7 +8187,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -8468,7 +8514,12 @@ tokā́ya ← toká- (nominal stem)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वं पा॑रया॒ नव्यो॑ अ॒स्मान्त्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
+पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -8606,7 +8657,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -8669,7 +8719,7 @@ Agni! Thou who art young, help us safely across all difficulties. Be for us a br
 O Agni, once more lead us  
 With thy favour over every trouble.  
 Be a broad, thick, wide fortress for us,  
-Health and wealth for our children and descendants. 
+Health and wealth for our children and descendants.
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -8880,7 +8930,12 @@ bodhi ← √bhū- (root)
 
 tanū́nām ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताति॑ पर्षि ।  
+अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -9010,7 +9065,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

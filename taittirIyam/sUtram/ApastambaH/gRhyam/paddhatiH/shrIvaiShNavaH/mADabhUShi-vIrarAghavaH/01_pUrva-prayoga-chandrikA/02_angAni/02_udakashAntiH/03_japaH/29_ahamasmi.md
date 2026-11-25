@@ -412,7 +412,6 @@ title = "२९ 'अहमस्मि',"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -504,7 +503,12 @@ súṣṭutā ← súṣṭuta- (nominal stem)
 
 vā́k ← vā́c- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
+सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -655,7 +659,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -669,7 +672,6 @@ _________
 
 ______________
 देवास्सर्वे वाचं देवीमजनयन्त । तां वाचं विश्वरूपाः द्विपाच्चतुष्पात्तदवान्तरभेदेन बहुविधाः पशवः स्वस्वभाषारूपेण वदन्ति । सा वाग्रूपा धेनुः नः अस्मदर्थमिषमन्नं ऊर्जं क्षीरादिरसं दुहाना संपादयन्ती सुष्टुता अस्माभिः सुष्ठु वैदिकैः स्तोत्रैः 'स्तुता मन्द्रा हृष्टा सती अस्मान्प्रत्यागच्छतु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -691,16 +693,13 @@ The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, mi
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
-<details open><summary><h7>10-11 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -734,7 +733,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
@@ -761,7 +759,6 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -841,7 +838,12 @@ paramám ← paramá- (nominal stem)
 
 svit ← svit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वाग्वद॑न्त्यविचेत॒नानि॒ राष्ट्री॑ दे॒वानां॑ निष॒साद॑ म॒न्द्रा ।  
+चत॑स्र॒ ऊर्जं॑ दुदुहे॒ पयां॑सि॒ क्व॑ स्विदस्याः पर॒मं ज॑गाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -967,7 +969,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -979,8 +980,7 @@ _________
 
 **राष्ट्री** राजनशीला **देवानां** **मन्द्रा** मादयित्री' वा **यत्** यदा **वाक्** **अविचेतनानि** विज्ञानरहितानप्रज्ञातानर्थान् **वदन्ती** प्रज्ञापयन्ती **निषसाद** यज्ञे निषीदति तदा **चतस्रः** दिशः प्रति **ऊर्जम्** अन्नं **पयांसि** तत्कारणभूतानि उदकानि **दुदुहे**। **अस्याः** माध्यमिकाया वाचः स्वभूतं यत् **परमं** श्रेष्ठं तत् **क्व** **जगाम** क्व गच्छतीति न दृश्यत इत्यर्थः । तथा च यास्कः - ‘ यद्वाग्वदन्त्यविचेतनान्यविज्ञातानि राष्ट्री देवानां निषसाद मन्द्रा मदना चतस्रोऽनु दिश अर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगामेति यत्पृथिवीं गच्छतीति वा यदादित्यरश्मयो हरन्तीति वा ' (निरु. ११. २८) इति ॥
 _________________
-यद्वाक् या वाग्देवता अविचेतनाति अचेतनसदृशान्मूकान्प्राणिनो वदन्ती अभिवदनक्षमान्कुर्वती । देवानां सर्वेषां राष्ट्री राष्ट्रपदा मन्द्रा हृष्टा सती निषसाद अस्मदीये कर्मण्युपविष्टा । यस्या वाग्देव्याः प्रसादात् चतस्रो दिग्देवता ऊर्जं क्षीरादिरसद्रव्यं पयांसि जलानि च दुदुहे दुहन्ति संपादयन्ति । अस्या वाग्देव्याः परमं पदं मनुष्यः क्व स्वित् जगाम, कुत्र वा प्राप्तवान् तदीयस्थानं प्राप्तुं न कोऽपि क्षम इत्यर्थः । 
-
+यद्वाक् या वाग्देवता अविचेतनाति अचेतनसदृशान्मूकान्प्राणिनो वदन्ती अभिवदनक्षमान्कुर्वती । देवानां सर्वेषां राष्ट्री राष्ट्रपदा मन्द्रा हृष्टा सती निषसाद अस्मदीये कर्मण्युपविष्टा । यस्या वाग्देव्याः प्रसादात् चतस्रो दिग्देवता ऊर्जं क्षीरादिरसद्रव्यं पयांसि जलानि च दुदुहे दुहन्ति संपादयन्ति । अस्या वाग्देव्याः परमं पदं मनुष्यः क्व स्वित् जगाम, कुत्र वा प्राप्तवान् तदीयस्थानं प्राप्तुं न कोऽपि क्षम इत्यर्थः ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -1002,19 +1002,13 @@ When Speech, saying indistinguishable things, sat down as gladdening  ruler of t
 she milked out in four (streams) nourishment and milk drinks. Where  indeed did the highest of hers go?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner is understandably reluctant to construe avicetanā́ni with vádantī, since this attributes unintelligible speech to Speech herself, but his solution, to construe the neut. pl. loosely with niṣasā́da (“… sich bei den unvernünftigen (Geschöpfen) niederliess”), does not work syntactically. Oldenberg’s mythological explanation is preferable.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
-<details open><summary><h7>10-11 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1047,7 +1041,6 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1323,7 +1316,12 @@ vācáḥ ← vā́c- (nominal stem)
 
 vadanti ← √vadⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वारि॒ वाक्परि॑मिता प॒दानि॒ तानि॑ विदुर्ब्राह्म॒णा ये म॑नी॒षिणः॑ ।  
+गुहा॒ त्रीणि॒ निहि॑ता॒ नेङ्ग॑यन्ति तु॒रीयं॑ वा॒चो म॑नु॒ष्या॑ वदन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1452,7 +1450,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1606,7 +1603,6 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -1674,13 +1670,24 @@ vácasā ← vácas- (nominal stem)
 
 vedayāmasi ← √vid- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्र॒द्धया॒ग्निः समि॑ध्यते श्र॒द्धया॑ हूयते ह॒विः ।  
+श्र॒द्धां भग॑स्य मू॒र्धनि॒ वच॒सा वे॑दयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 श्र॒द्धया॑ । अ॒ग्निः । सम् । इ॒ध्य॒ते॒ । श्र॒द्धया॑ । हू॒य॒ते॒ । ह॒विः ।  
 श्र॒द्धाम् । भग॑स्य । मू॒र्धनि॑ । वच॑सा । आ । वे॒द॒या॒म॒सि॒ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+श्र॒द्धया॒ ऽग्निस् समि॑ध्यते । श्र॒द्धया॑ विन्दते ह॒विः ।  
+श्र॒द्धां भग॑स्य मू॒र्धनि॑ । वच॒साऽऽवे॑दयामसि ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1759,7 +1766,6 @@ _________
 - “bode.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1772,7 +1778,6 @@ _________
 पुरुषगतोऽभिलाषविशेषः श्रद्धा । तथा **श्रद्धया** **अग्निः** गार्हपत्यादिः **समिध्यते** संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरुषोऽग्नीन् प्रज्वालयति नान्यदा । **श्रद्धया** एव हविः पुरोडाशादिहविश्च **हूयते** । आहवनीये प्रक्षिप्यते । यद्वा । अस्य सूक्तस्य द्रष्ट्या श्रद्धाख्ययाग्निः समिध्यते । **श्रद्धाम्** उक्तलक्षणायाः श्रद्धाया अभिमानिदेवता **भगस्य** भजनीयस्य धनस्य **मूर्धनि** प्रधानभूते स्थानेऽवस्थितां **वचसा** वचनेन स्तोत्रेण आ **वेदयामसि** अभितः प्रख्यापयामः । इदन्तो मसिः ॥
 ______________
 शास्त्रार्थे विश्वासातिशयरूपा चित्तवृत्तिः श्रद्धा । तदभिमानिनी देवताऽपि तन्नामिकैव । श्रद्धया विश्वासातिशयेनानन्यया भक्त्या अयमग्निः समिध्यते सम्यक्प्रज्वाल्यते । हविश्च श्रद्धया लभ्यते । भगस्य सौभाग्यस्य मूर्धन्युपरि स्थितां श्रद्धां वचसा वाक्येनावेदयामसि । जनानामग्रे सौभाग्यहेतुः श्रद्धेति प्रख्यापयामः ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1845,7 +1850,6 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 पदार्थान्वयभाषाः -  (श्रद्धया-अग्निः समिध्यते) यथावद्धारणया यथावच्छास्त्रविधिनाऽग्निः साधुरूपे दीप्तो भवति (श्रद्धया हविः-हूयते) यथावद्धोमपद्धत्या होम्यं द्रव्यं साधुहोतुं युज्यते (भगस्य मूर्धनि) ऐश्वर्यस्योत्कृष्टाङ्गे स्थिताम् (श्रद्धां वचसा-आवेदयामसि) यथावद्धारणां वयं भाषणेन घोषयामः ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1880,7 +1884,6 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -1948,7 +1951,12 @@ me ← ahám (pronoun)
 
 uditám ← √vadⁱ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒यँ श्र॑द्धे॒ दद॑तः । प्रि॒यँ श्र॑द्धे॒ दिदा॑सतः ।  
+प्रि॒यं भो॒जेषु॒ यज्व॑सु। इ॒दं म॑ उदि॒तङ् कृ॑धि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2048,7 +2056,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2061,7 +2068,6 @@ _________
 हे **श्रद्धे** **ददतः** चरुपुरोडाशादीनि प्रयच्छतो यजमानस्य **प्रियम्** अभीष्टफलं कुरु । **दिदासतः** दातुमिच्छतश्च हे **श्रद्धे** **प्रियं** कुरु । **मे** मम संबन्धिषु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** कृतयज्ञेषु जनेषु च **इदम्** **उदितम्** उक्तं **प्रियं** **कृधि** कुरु ।
 ________________
 1हे श्रद्धे इदानीं **ददतो** मे प्रियं भवतु अभीष्टं सिध्यतु । इतः परमपि दातुमिच्छतो मे प्रियं भवतु । भोनेषु भोगपरेषु जन्तुषु यज्वसु यजमानेषु च प्रियं भवतु । इदमनन्तरोक्तं यज्वसु मे प्रियमुदितं कृधि अत्यधिकं कुरु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2124,7 +2130,6 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 
 पदार्थान्वयभाषाः -  (श्रद्धे मे-इदम्-उदितम्) हे श्रद्धे सत्-आस्थे ममेदं घोषितवचनम् (ददतः प्रियं कृधि) दानं प्रयच्छतो जनस्य प्रियं कल्याणं कुरु (श्रद्धे दिदासतः प्रियम्) हे सदास्थे ! दातुमिच्छतः प्रियं कल्याणं कुरु (भोजेषु यज्वसु) दानस्य भोक्तृषु दक्षिणां गृहीतवत्सु खल्वृत्विक्षु प्रियं कल्याणं कुरु ॥२॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2159,7 +2164,6 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2224,7 +2228,12 @@ kr̥dhi ← √kr̥- (root)
 
 uditám ← √vadⁱ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ दे॒वा असु॑रेषु । श्र॒द्धाम् उ॒ग्रेषु॑ चक्रि॒रे ।  
+ए॒वं भो॒जेषु॒ यज्व॑सु । अ॒स्माक॑म् उदि॒तङ् कृ॑धि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2322,7 +2331,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2335,7 +2343,6 @@ _________
 **देवाः** इन्द्रादयः असुरेषु उद्गूर्णबलेषु **यथा** **श्रद्धां** **चक्रिरे** अवश्यमिमे हन्तव्या इत्यादरातिशयं कृतवन्तः **एवं** श्रद्धावत्सु **भोजेषु** भोक्तृषु भोगार्थिषु **यज्वसु** यष्टृषु **अस्माकम्** अस्मत्संबन्धिषु तेषु **उदितं** तैरुक्तं प्रार्थितं फलजातं कृधि कुरु ॥
 __________
 यथा लोके देवा उग्रेष्वसुरेषु श्रद्धां चक्रिरे अवश्यमेते हन्तव्या इति दृढामिच्छां कृतवन्तः । एवमस्माकं फलभोगेषु तत्साधकेषु यज्वस्वपि प्रियमुदितं कुरु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2397,7 +2404,6 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 पदार्थान्वयभाषाः -  (यथा-उग्रेषु-असुरेषु) यथा क्रूरेषु-अस्तव्यस्तेषु दुष्टजनेषु तेषामुपरि (देवाः श्रद्धां चक्रिरे) मुमुक्षवो विद्वांसो यथोचितधारणां दैवीं शक्तिं प्रेरयन्ति (एवं भोजेषु यज्वसु अस्माकम्-उदितम् कृधि) एवं भोजनदातृषु तथा यजमानेषु खल्वस्माकमिदमाशीर्वचनं कल्याणप्रदं कुरु ॥३॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2497,7 +2503,12 @@ vásu ← vásu- (nominal stem)
 
 vindate ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्र॒द्धां दे॒वा यज॑माना वा॒युगो॑पा॒ उपा॑सते ।  
+श्र॒द्धां हृ॑द॒य्य१॒॑याकू॑त्या श्र॒द्धया॑ विन्दते॒ वसु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2581,7 +2592,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2594,7 +2604,6 @@ _________
 **देवा** **यजमाना** मनुष्याश्च **वायुगोपाः** वायुर्गोपा रक्षिता येषां ते तादृशाः सन्तः **श्रद्धां** देवीम् **उपासते** प्रार्थयन्ते । हृदय्यया । हृदये भवा हृदय्या। तथाविधया **आकूत्या** संकल्परूपया क्रियया **श्रद्धाम्** एव परिचरन्ति सर्वे जनाः । कुत इत्यत आह । यतः कारणात् **श्रद्धया** हेतुभूतया **वसु** धनं **विन्दते** लभते श्रद्धावाञ्जनः । तत इत्यर्थः ॥
 ___________________
 हे देवाः इन्द्रादय एते यजमानाः वायुगोपाः स्वकीयप्राणरक्षकास्सन्तः श्रद्धामुपासते सेवन्ते । उक्तार्थं एव स्पष्टीक्रियते - हृदय्यया हृदये भवया आकृत्या संकल्पक्रियया श्रद्धामुपासते अत्यादरेणोपासत इत्यर्थः । हविरपि श्रद्धयैव हूयते ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2697,7 +2706,6 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2768,7 +2776,12 @@ naḥ ← ahám (pronoun)
 
 śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्र॒द्धां प्रा॒तर् ह॑वामहे । श्र॒द्धां म॒ध्यन्दि॑नं॒ परि॑ ।  
+श्र॒द्धाँ सूर्य॑स्य नि॒म्रुचि॑ । श्रद्धे॒ श्रद्धा॑पये॒ह मा॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2861,7 +2874,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2875,7 +2887,6 @@ _________
 अस्मान्  इह लोके कर्मणि **श्रद्धापय** श्रद्धावतः कुरु ॥ ॥९॥ ॥११॥
 _________________
 श्रद्धां श्रद्धाख्यां देवीं प्रातर्हवामहे प्रातःकाले समाह्वयामः । तथा मध्यंदिनं परि मध्यंदिनसमीपमपि श्रद्धामाह्वयामः । **सूर्यस्य निम्रुचि** अस्तमयवेलायाम् अपि श्रद्धामाह्वयामः । हे श्रद्धे देवि इह कर्मणि मां श्रद्धापय विश्वासयुक्तं कुरु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -2939,7 +2950,6 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 पदार्थान्वयभाषाः -  (प्रातः श्रद्धां हवामहे) प्रातःकाले यथावद्धारणां खल्वास्तिकतां परमात्मप्रीतिम्-आमन्त्रयामहे (मध्यन्दिनं परि श्रद्धाम्) दिनस्य मध्येऽपि परमात्मप्रीतिमामन्त्रयामहे (सूर्यस्य निम्रुचि श्रद्धाम्) सूर्यस्यास्तगमने “म्रुचु गत्यर्थः” [भ्वादि०] ‘नि पूर्वात् क्विप् निम्रुच् सप्तम्यां निम्रुचि’ परमात्मप्रीतिमामन्त्रयामहे (श्रद्धे नः-इह श्रद्धापय) हे श्रद्धे-आस्तिकभावने परमात्मप्रीते ! अस्मानस्मिन् जीवने श्रद्धामयान् कुरु ॥५॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3420,7 +3430,6 @@ Eastward at first was Brahma generated. Vena o’erspread the bright Ones from t
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -3503,7 +3512,12 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे ।  
+प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3645,7 +3659,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3754,7 +3767,6 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 
 भावार्थभाषाः -  जर वृक्षारोपण करून सुगंधाने युक्त यज्ञाच्या धुराने वायू शुद्ध केले तर ते सर्वांना सुखी करतात. ॥ १ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -3797,7 +3809,6 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो गावो वा
@@ -3889,7 +3900,12 @@ khilyé ← khilyá- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ यज्व॑ने पृण॒ते च॑ शिक्ष॒त्युपेद्द॑दाति॒ न स्वं मु॑षायति ।  
+भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॒न्नभि॑न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4035,7 +4051,6 @@ _________
 - “devout; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4145,7 +4160,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 
 भावार्थभाषाः -  जे निष्कपटीपणाने वारंवार व दररोज योग्य लोकांना विद्या निधी देतात तेच विद्वान असतात. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -4248,7 +4262,6 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -4340,7 +4353,12 @@ ví ← ví (invariable)
 
 yájvanaḥ ← yájvan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि ।  
+उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4490,7 +4508,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -4510,7 +4527,6 @@ ___________________
 ताडनार्थो दण्डो नापेक्षितः ।  
 **यज्वनो** यागाशीलस्य तस्य **मर्त्यस्य** मनुष्यस्य  
 **ता गाव उरुगायं** विस्तीर्णगतियोग्यं भयरहितं स्थानं प्राप्य **विचरन्ति** विस्रम्भेण चरन्ति ।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -4618,7 +4634,6 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 
 भावार्थभाषाः -  हे माणसांनो ! जे अयोग्य आहार-विहार करणारे, लंपट, निंदक, कुसंग करणारे असतात त्यांना कधी विद्या प्राप्त होत नाही व जे योग्य आहार-विहार करणारे, जितेंद्रिय, विद्वान, सत्संग करणारे असतात त्यांना विद्या प्राप्त होते हे जाणा. ॥ ४ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4692,7 +4707,6 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -4775,7 +4789,12 @@ vaḥ ← tvám (pronoun)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम् ।  
+भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4922,7 +4941,6 @@ _________
 - “assembly hall; sabhā \[word\]; assembly; audience.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5033,7 +5051,6 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 
 भावार्थभाषाः -  जी माणसे कोमल स्वभावाची, सत्यवादी, धार्मिक वाणी असलेली, सर्व ऋतूंमध्ये सुखकारक घरे व सभा निर्माण करून दीर्घायु होतात ती जगाचे कल्याण करणारी असतात. ॥ ६ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

@@ -42,7 +42,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -128,7 +127,12 @@ devásya ← devá- (nominal stem)
 
 pr̥cyate ← √pr̥c- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
+उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +260,6 @@ _________
 - “mix; unite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -354,7 +357,6 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
-
 </div>  
 
 _______
@@ -457,7 +459,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/051/07_kadA_chana.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -543,7 +544,12 @@ devásya ← devá- (nominal stem)
 
 pr̥cyate ← √pr̥c- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा च॒न स्त॒रीर॑सि॒ नेन्द्र॑ सश्चसि दा॒शुषे॑ ।  
+उपो॒पेन्नु म॑घव॒न्भूय॒ इन्नु ते॒ दानं॑ दे॒वस्य॑ पृच्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -671,7 +677,6 @@ _________
 - “mix; unite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -769,7 +774,6 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - बृहती
 - मध्यमः
 </details>
-
 </div>  
 
 _______
@@ -873,7 +877,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/107/01_yajno_devAnAM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -956,7 +959,12 @@ varivovíttarā ← varivovíttara- (nominal stem)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञो दे॒वानां॒ प्रत्ये॑ति सु॒म्नमादि॑त्यासो॒ भव॑ता मृळ॒यन्तः॑ ।  
+आ वो॒ऽर्वाची॑ सुम॒तिर्व॑वृत्यादं॒होश्चि॒द्या व॑रिवो॒वित्त॒रास॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1085,7 +1093,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1248,7 +1255,6 @@ Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, 
 
 भावार्थभाषाः -  या जगात विद्वानांनी आपल्या पुरुषार्थाने जी शिल्पविद्या (कारागिरी) प्रत्यक्ष केलेली आहे. त्यांनी ती सर्व माणसांसाठी प्रकट करावी ज्यामुळे पुष्कळ माणसे शिल्पक्रियेमुळे सुखी व्हावीत. ॥ १ ॥
 </details>
-
 </div>
 
 _______

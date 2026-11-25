@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -117,7 +116,12 @@ raśmíbhiḥ ← raśmí- (nominal stem)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि॒ सोम॑ इन्द्र ते॒ शवि॑ष्ठ धृष्ण॒वा ग॑हि ।  
+आ त्वा॑ पृणक्त्विन्द्रि॒यं रजः॒ सूर्यो॒ न र॒श्मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +234,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -355,7 +358,6 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे, प्रजा, सेना, शाळा व सभा यांच्यात स्थित पुरुषांनी सूर्याप्रमाणे तेजस्वी पुरुषाला प्रजा, सेना शाळेत अध्यक्ष करून सर्व प्रकारे त्याचा सत्कार केला पाहिजे तसे सभ्य लोकांचाही आदर केला पाहिजे. ॥ १ ॥
 </details>
-
 </div>  
 
 _______

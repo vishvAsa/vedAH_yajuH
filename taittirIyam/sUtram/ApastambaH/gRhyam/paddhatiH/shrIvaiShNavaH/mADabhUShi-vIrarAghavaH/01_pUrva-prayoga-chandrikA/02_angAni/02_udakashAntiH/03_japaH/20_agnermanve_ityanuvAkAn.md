@@ -944,7 +944,6 @@ Agni through the hymn which brings (him).
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वैश्वानरो वा
@@ -1036,7 +1035,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒ष्टो दि॒वि पृ॒ष्टो अ॒ग्निः पृ॑थि॒व्यां पृ॒ष्टो विश्वा॒ ओष॑धी॒रा वि॑वेश ।  
+वै॒श्वा॒न॒रः सह॑सा पृ॒ष्टो अ॒ग्निः स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1181,7 +1185,6 @@ _________
 - “night; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1310,7 +1313,6 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी विद्वानांजवळ जाऊन ईश्वर व विद्युत इत्यादी अग्नीच्या गुणांना जाणून ईश्वराची उपासना व अग्नीपासून उपयोग करून घ्यावा तसेच हिंसा करू नये. ॥ २ ॥
 </details>
-
 </div>  
 
 ##### द्यावा-पृथि॒वी

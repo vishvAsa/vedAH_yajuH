@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -123,7 +122,12 @@ janayanta ← √janⁱ- (root)
 
 pā́tram ← pā́tra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मू॒र्धानं॑ दि॒वो अ॑र॒तिं पृ॑थि॒व्या वै॑श्वान॒रमृ॒त आ जा॒तम॒ग्निम् ।  
+क॒विं स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्ना पात्रं॑ जनयन्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +254,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -302,25 +305,15 @@ The head of heaven, the spoked wheel of the earth, Agni Vaiśvānara,  born in t
 sage poet, sovereign king, guest of the peoples—as a drinking cup to  their mouth did the gods beget (him).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since Agni is often called the mouth of the gods, Geldner (and others) assume that the loc. āsán in d refers to Agni, and the gods have produced a drinking cup (pā́tram) to put in his mouth. But this requires Geldner to treat the three-pāda accusative phrase that opens the hymn and refers to Agni as grammatically untethered, as an anacoluthon with the referent picked up in the loc. in pāda d (see his n. 1d). But, with Renou, I see no reason why Agni cannot be conceptualized here as the cup that the gods drink from.
-
-Renou considers āsán simply an attribute limiting the pā́tra-, a “récipient pour la bouche, récipient à boire,” while I take it as referring to the gods’ (collective) mouth.
-
-Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 These two vss. are paired, both ending with janayanta devā́ḥ and sharing an opening pāda with the structure ACC SG + GEN ACC SG + GEN; this NP structure is also found at the end of 1c and 2c (one iteration each), but is upended by GEN + ACC SG yajñásya ketúm in 2d. It is perhaps a measure of the sensitivity of the RV to subtle patterns that this syntactic metathesis feels strikingly disruptive. It may well be that the poet generated this disruptive order in order to call attention to this very phrase; see the importance of the word ketú- in vss. 5 and 6, with the comm. there. There is an important difference, however: here the “beacon of the sacrifice” must be Agni, whereas in vss. 5-6 it is the sun.
 
 There are only three finite verbs in this two-vs. sequence, all injunctives: 1d janayanta, 2b abhí sáṃ navanta, 2d janayanta. The temporal reference is therefore unspecified. I tr. them as preterites (as do Geldner and Renou) on the assumption that Agni’s begetting by the gods happened only once in the mythological past. It would be different if priests were the subject.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -334,7 +327,6 @@ The head of the sky, the messenger of earth,
 Vaiśvanara, born for holy order, Agni,  
 The sage, the king, the guest of men,  
 The gods have produced as a cup for their mouths.
-
 </details>
 
 <details><summary>Geldner</summary>
@@ -407,7 +399,6 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 
 भावार्थभाषाः -  जी माणसे परमेश्वराप्रमाणे न्यायकारी बनून अग्नीप्रमाणे विद्या व विनय यामुळे प्रसिद्ध होऊन चक्रवर्ती बनतात ती सर्वांना सुख देतात. ॥ १ ॥
 </details>
-
 </div>  
 
 _______

@@ -126,7 +126,12 @@ urugāyáḥ ← urugāyá- (nominal stem)
 
 vicakramāṇáḥ ← √kramⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णो॒र्नु कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ यः पार्थि॑वानि विम॒मे रजां॑सि ।  
+यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,9 +140,9 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः । 
+विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -256,7 +261,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -315,7 +319,7 @@ _________
 इत्य्-एवं-रीत्या स्यात् ।  
 यस्मात् पार्थिव-रेणु-गणनम् एव कर्तुम् अशक्तो ऽस्मि,  
 अत एव विष्णु-वीर्य-गणने ऽप्य् अशक्तः इत्यत्र तात्पर्यम् ।  
-आस्ताम् एतत् । 
+आस्ताम् एतत् ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -463,7 +467,6 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -552,7 +555,12 @@ paramé ← paramá- (nominal stem)
 
 víṣṇoḥ ← víṣṇu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑स्य प्रि॒यम॒भि पाथो॑ अश्यां॒ नरो॒ यत्र॑ देव॒यवो॒ मद॑न्ति ।  
+उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णोः॑ प॒दे प॑र॒मे मध्व॒ उत्सः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -691,7 +699,6 @@ _________
 - “spring; fountain; utsa \[word\]; well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -706,7 +713,6 @@ _________
 __________________
 
 देवयवो देवानिच्छन्तो नरो यजमाना यत्र भागीरथीजले मदन्ति हृष्यन्ति । अस्य विष्णोः प्रियं तत्पाथो भागीरथीजलं अभ्यश्यां अभितो व्याप्तवान् । उरुक्रमस्य विस्तीर्णपादस्य विष्णोः परमे पदे तृतीये पादे बन्धुः संबद्धो मध्वो मधुर उत्सो भागीरथीप्रवाह इत्था हि एवंविधः । हिशब्दः सर्वलोकप्रसिद्धिद्योतनार्थः ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -804,7 +810,6 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 
 भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. जे परमेश्वराने वेदाद्वारे दिलेल्या आज्ञेप्रमाणे वागतात ते मोक्षसुख प्राप्त करतात. जसे लोक बंधूकडून साह्य प्राप्त करतात किंवा तृषार्त लोक विहिरीद्वारे मधुर जल प्राप्त करून तृप्त होतात तसे ते परमेश्वराला प्राप्त करून आनंद भोगतात. ॥ ५ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
@@ -831,7 +836,6 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -911,7 +915,12 @@ bhúvanāni ← bhúvana- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तद्विष्णुः॑ स्तवते वी॒र्ये॑ण मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।  
+यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1024,7 +1033,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1142,7 +1150,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 भावार्थभाषाः -  कोणताही पदार्थ ईश्वर व सृष्टीच्या नियमाचे उल्लंघन करू शकत नाही, जो धार्मिक लोकांना मित्राप्रमाणे आनंद देणारा, दुष्टांना सिंहाप्रमाणे भयभीत करविणारा न्याय इत्यादी गुणांना धारण करणारा परमेश्वर आहे, तोच सर्वांचा अधिष्ठाता, न्यायाधीश आहे हे जाणले पाहिजे. ॥ २ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1176,7 +1183,6 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1270,7 +1276,12 @@ víṣṇo ← víṣṇu- (nominal stem)
 
 vitse ← √vid- 2 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रो मात्र॑या त॒न्वा॑ वृधान॒ न ते॑ महि॒त्वमन्व॑श्नुवन्ति ।  
+उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ वित्से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1402,7 +1413,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1416,7 +1426,6 @@ _________
 
 __________________
 हे विष्णो देव मात्रया कृत्स्नं जगन्मातुं प्रवृत्तया तनुवा त्रिविक्रमावताररूपया मूर्त्या वृधान हे वर्धमान परः उत्कृष्टोऽसि । ते त्वदीयं महित्वं महिमानं नान्यश्नुवन्ति केऽपि समर्था अनुगन्तुं न क्षमन्ते । ते तव लोकान्मातुं प्रवृत्तस्य पृथिव्या आरभ्योभे रजसी द्वे रञ्जनस्थाने पृथिव्यन्तरिक्षमित्येते त्वदीयपदे इति वयं विद्मः । त्वं पुनः परमस्योत्कृष्टस्य तृतीयस्य पदस्य स्थानं वित्से जानासि ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -1438,21 +1447,13 @@ O you who have grown with your body beyond measure, they do not  attain to your 
 We (only) know both your dusky realms of the earth; god Viṣṇu, you  yourself know the farthest one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems perfectly acceptable, though not strictly necessary. And since in vs. 2 it is, presumably, mortals (since they are ‘born’) who fail to reach the limit of Viṣṇu’s greatness, mortals could also be the subject here. See remarks below on the formulatic connection between the two vss.
-
-As Renou points out, both the case of the complement (acc. versus gen.) and the voice (act. versus mid.) differ between 1st pl. vidma in c and 2nd sg. vitse in d. The middle voice of vitse makes sense, since Viṣṇu knows his own farthest realm; the variation in case is harder to account for. Perhaps the two earthly realms are subjects of direct knowledge, while the farthest realm is something even Viṣṇu only knows of.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
-<details open><summary><h7>01-02 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The b-pādas of these two vss. are variants of each other, using two different roots for ‘attain’ (√naś, √āp) and two different formulations of ‘greatness’, the 2nd an elaboration on the first: 1b ná te mahitvám ánv aśnuvanti 2ab ná te … mahimnáḥ páram ántam āpa Another example of the freedom of RVic formulaics; see comm. ad VII.98.5 in the previous hymn for further on this.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1500,7 +1501,6 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 पदार्थान्वयभाषाः -  (मात्रया) प्रकृत्यापञ्चतन्मात्ररूपेण (तन्वा) शरीरेण (वृधानः) वृद्धिं प्राप्तं (ते) तव (महित्वम्) महिमानं (विष्णो) हे विभो ! (न) नैव (अश्नुवन्ति) प्राप्नुवन्ति, हे विभो ! (ते) तव (उभे) उभावपि लोकौ (विद्म) जानीमः यौ (पृथिव्याः) पृथिवीतः (रजसी)  अन्तरिक्षपर्यन्तौ स्तः (देव) हेदिव्यशक्तिमन् ! (त्वम्) त्वमेव (अस्य) अस्य ब्रह्माण्डस्य (परम्) पारं (वित्से) जानासि नान्यः, यतः (परः) सर्वस्मात्परोऽसि ॥१॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1540,7 +1540,6 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1617,7 +1616,12 @@ sujánimā ← sujániman- (nominal stem)
 
 urukṣitím ← urukṣití- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि च॑क्रमे पृथि॒वीमे॒ष ए॒तां क्षेत्रा॑य॒ विष्णु॒र्मनु॑षे दश॒स्यन् ।  
+ध्रु॒वासो॑ अस्य की॒रयो॒ जना॑स उरुक्षि॒तिं सु॒जनि॑मा चकार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1745,7 +1749,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1777,21 +1780,13 @@ Quick Viṣṇu strode across this earth for a dwelling place for Manu,  showing
 Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has made (them) wide dwelling.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-By concentrating Viṣṇu’s strides in the first pāda of 4, the poet is free to express the aim of Viṣṇu’s action -- creating space and dwelling places for the people
-
--- in the rest of the vs. As Geldner points out (n. 4c), asya can refer either to Viṣṇu or to Manu, although in actuality this may not matter. It may be an instance of “trickle-down” ownership: Viṣṇu makes a dwelling place for Manu, and in turn Manu’s people also get firmly planted. Or, Manu and the people may both be under Viṣṇu’s auspices.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1849,7 +1844,6 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 पदार्थान्वयभाषाः -  (विष्णुः) व्यापक ईश्वरः (मनुषे, क्षेत्राय, दशस्यन्) मनुष्याय क्षेत्रं दित्सन् (पृथिवीम्, एताम्, विचक्रमे) इमां भुवं कृतवान्, यतः (अस्य) अस्य परमात्मनः (कीरयः) स्तोतारः (जनासः) भक्ताः (ध्रुवासः) दृढा अभवन् यतः (उरुक्षितिम्) विस्तृतां पृथिवीं (सुजनिमा) सर्वाङ्गशोभनां (चकार) कृतवान् ॥४॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
@@ -1875,7 +1869,6 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1961,7 +1954,12 @@ sthávirasya ← sthávira- (nominal stem)
 
 tveṣám ← tveṣá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्दे॒वः पृ॑थि॒वीमे॒ष ए॒तां वि च॑क्रमे श॒तर्च॑सं महि॒त्वा ।  
+प्र विष्णु॑रस्तु त॒वस॒स्तवी॑यान्त्वे॒षं ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2087,7 +2085,6 @@ _________
     word.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2120,25 +2117,13 @@ Let Viṣṇu be preeminent, stronger than the strong, for vibrant is the
 name of this stalwart one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Flg. a suggestion by Geldner (n. 3a, though not reflected in his tr.), I take eṣáin pāda a (also 4a) as belonging to the stem eṣá- ‘quick’, which is used several times of Viṣṇu in the gen. expression víṣṇor eṣásya (II.34.11, VII.40.5, VIII.20.3), in which confusion with the nom. pronominal eṣá(ḥ) (possible here) is excluded.
-
-The hapax śatárcas- is problematic. The Pp analyses the 2nd member as arcasam, but Wackernagel (AiG I.318) points out that the sandhi between the cmpd members would require rather -ṛcasam. However, Oldenberg disputes this, claiming that it would then have to be written (“… geschrieben werden müssen”) *śatáṛcasam , though it’s not clear to me why. Interpr. differ significantly: Sāyaṇa. glosses with arcis-.
-
-Oldenberg posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi stotā́raḥ śatáṃ yát sahásraṃ gṛṇánti “When a hundred, when a thousand praisers sing to him …,” an interpr. followed by Geldner -- though the connection between the two passages seems tenuous to me. By contrast, Renou tr. “au cent éclats,” perhaps flg. Sāyaṇa.’s arcís-. Since an infinitival dat. ṛcáse ‘to praise, for chanting (praise)’ is found in VI.39.5 and VII.61.6, it seems reasonable to take the underlying stem ṛcas- as the base here, as Grassmann does, glossing ‘hundertfach zu preisen’. My ‘worth a hundred verses’ is close to that, though perhaps ‘praises, chants’ would be better.
-
-Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
-<details open><summary><h7>03-04 …{Loading}…</h7></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, vss. 3 and 4 are responsive. The first pāda of 4 concentrates the essence of the 1st two pādas of 3, substituting ví cakrame (of 3b) for trír deváḥ (in 3a) at the beginning of the pāda. This phrase, trír deváḥ, is short a syllable; Oldenberg suggests reading t·rir, but this seems unlikely: I don’t know of any other disyllabic readings of this extremely common numeral (either as 1st cmpd member tri- or adverbial trís). I suggest rather that the metrically disturbed opening draws attention to the beginning of this set of paired vss. by being flawed and is “repaired” by 4a. See similar remarks about 3c and 5c ad vs. 5.
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -2186,7 +2171,6 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 
 पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तिः परमात्मा (एताम्) इमां (पृथिवीम्) भुवं (त्रिः) त्रेधा (विचक्रमे) रचयामास (शतर्चसम्) यस्यां शतधा ज्वालाः (महित्वा) यातिविस्तृता (अस्य, स्थविरस्य, विष्णुः, नाम) अस्य प्राचो नाम विष्णुरिति यतः (तवसः, तवीयान्) अयं ते स्वामी यद्वा व्यापकः ॥३॥
 </details>
-
 </div>
 </details>
 </div>

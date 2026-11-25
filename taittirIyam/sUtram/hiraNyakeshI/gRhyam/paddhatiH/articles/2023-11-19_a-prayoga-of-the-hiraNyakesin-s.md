@@ -30,12 +30,10 @@ The paddhati itself is similar to a longer version we had seen in the manual of 
 हरिद्रा-बिम्बे गणपति-स्थापनम् -  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/023/01_gaNAnAM_tvA.md">
-
 गणा᳓नां त्वा गण᳓पतिं **हवामहे**  
 कविं᳓ कवीना᳓म् उपम᳓+++(←मा माने)+++-श्रवस्+++(=अन्न)+++-तमम् +++(इति बहुव्रीहिः)+++ ।  
 ज्येष्ठ-रा᳓जं ब्र᳓ह्मणां ब्रह्मणस्-पत आ᳓ नः  
 **शृण्व᳓न्न्** ऊति᳓भिः **सीद** सा᳓दनम् ॥+++(5)+++
-
 </div>  
 
 पुष्पाञ्जलिं दत्वा सर्वोपचारैः संपूज्य -  
@@ -56,11 +54,9 @@ Notes: This section is the classic invocation of Vināyaka in a clod of turmeric
 कलश-त्रयं स्थापयेत् ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/13_mahI_dyauH.md">
-
 मही᳓ द्यौः᳓ पृथिवी᳓ च  
 न इमं᳓ यज्ञं᳓ मिमिक्षताम् ।  
 पिपृतां᳓ नो भ᳓रीमभिः+++(=भरणैः)+++ ॥
-
 </div>  
 
 तयोः पञ्चरत्नानि प्रक्षिपेत् -  
@@ -85,12 +81,10 @@ Notes: This section is the classic invocation of Vināyaka in a clod of turmeric
 कलशे वरुणस्यावाहनम् :  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
-
 </div>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -109,30 +103,24 @@ Notes: This part features the installation of the pitchers and the invocation of
 ### अभिमन्त्रणम्   
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/096/08_draviNodA_draviNasasturasya.md">
-
 द्रविणोदा᳓ द्र᳓विणसस् तुर᳓स्य+++(=त्वरमाणस्य [युद्धे])+++  
 द्रविणोदाः᳓ स᳓-नरस्य **प्र᳓ यंसत्** ।  
 द्रविणोदा᳓ वीर᳓वतीम् इ᳓षं नो  
 द्रविणोदा᳓ **रासते** दीर्घ᳓म् आ᳓युः ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/19_navonavo_bhavati.md">
-
 न᳓वोनवो **भवति** जा᳓यमानो᳓  
 ऽह्नां केतु᳓र् उष᳓साम् **एत्य्** अ᳓ग्रम् +++(कृष्णपक्षे)+++।  
 भागं᳓ +++(सोमपाभ्यो)+++ देवे᳓भ्यो **वि᳓ दधात्य् आय᳓न्**  
 प्र᳓ चन्द्र᳓मास् **तिरते**+++(=वर्धयति)+++ दीर्घ᳓म् आ᳓युः ॥१९
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/096/08_draviNodA_draviNasasturasya.md">
-
 द्रविणोदा᳓ द्र᳓विणसस् तुर᳓स्य+++(=त्वरमाणस्य [युद्धे])+++  
 द्रविणोदाः᳓ स᳓-नरस्य **प्र᳓ यंसत्** ।  
 द्रविणोदा᳓ वीर᳓वतीम् इ᳓षं नो  
 द्रविणोदा᳓ **रासते** दीर्घ᳓म् आ᳓युः ॥
-
 </div>  
 
 ## प्रधानाङ्गम्  
@@ -238,66 +226,52 @@ Notes: This section relates to the gratification of various deities with water o
 ## स्वस्ति-वचनम्  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/06_svasti_na.md">
-
 स्वस्ति᳓ न इ᳓न्द्रो वृद्ध᳓-श्रवाः  
 स्वस्ति᳓ नः पूषा᳓ विश्व᳓-वेदाः+++(=ज्ञानानि)+++ ।  
 स्वस्ति᳓ नस् ता᳓र्क्ष्यो अ᳓रिष्ट-नेमिः  
 स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु ॥
-
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/11_svasti_no.md">
-
-स्व॒स्ति नो॑ मिमीताम् अ॒श्विना॒  
-भगः॑ स्व॒स्ति दे॒व्य् अदि॑तिर् अन॒र्वणः॑ ।  
-स्व॒स्ति पू॒षा असु॑रो दधातु नः  
-स्व॒स्ति द्यावा॑पृथि॒वी सु॑चे॒तुना॑ ॥
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/051/11_svasti_no.md">
+सुअस्ति᳓ नो मिमीताम् अश्वि᳓ना भ᳓गः  
+सुअस्ति᳓ देवी᳓ अ᳓दितिर् अनर्व᳓णः  
+सुअस्ति᳓ पूषा᳓ अ᳓सुरो दधातु नः  
+सुअस्ति᳓ द्या᳓वापृथिवी᳓ सुचेतु᳓ना
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/12_svastaye_vAyumupa.md">
-
-स्व॒स्तये॑ वा॒युम् उप॑ ब्रवामहै॒  
-सोमं॑ स्व॒स्ति भुव॑नस्य॒ यस् पतिः॑ ।  
-बृह॒स्पतिं॒ सर्व॑गणं स्व॒स्तये॑  
-स्व॒स्तय॑ आदि॒त्यासो॑ भवन्तु नः ॥
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/051/12_svastaye_vAyumupa.md">
+सुअस्त᳓ये वायु᳓म् उ᳓प ब्रवामहै  
+सो᳓मं सुअस्ति᳓ भु᳓वनस्य य᳓स् प᳓तिः  
+बृ᳓हस्प᳓तिं स᳓र्वगणं सुअस्त᳓ये  
+सुअस्त᳓य आदित्या᳓सो भवन्तु नः
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/13_vishve_devA.md">
-
-विश्वे॑ दे॒वा नो॑ अ॒द्या स्व॒स्तये॑  
-वैश्वान॒रो वसु॑र् अ॒ग्निः स्व॒स्तये॑ ।  
-दे॒वा अ॑वन्त्व् ऋ॒भवः॑ स्व॒स्तये॑  
-स्व॒स्ति नो॑ रु॒द्रः पा॒त्वंह॑सः ॥
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/051/13_vishve_devA.md">
+वि᳓श्वे देवा᳓ नो अद्या᳓ सुअस्त᳓ये  
+वैश्वानरो᳓ व᳓सुर् अग्निः᳓ सुअस्त᳓ये  
+देवा᳓ अवन्तु ऋभ᳓वः सुअस्त᳓ये  
+सुअस्ति᳓ नो रुदरः᳓+ पातु अं᳓हसः
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/14_svasti_mitrAvaruNA.md">
-
-स्व॒स्ति मि॑त्रावरुणा  
-स्व॒स्ति प॑थ्ये रेवति ।  
-स्व॒स्ति न॒ इन्द्र॑श् चा॒ग्निश् च॑  
-स्व॒स्ति नो॑ अदिते कृधि ॥
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/051/14_svasti_mitrAvaruNA.md">
+सुअस्ति᳓ मित्रावरुणा  
+सुअस्ति᳓ पथ्ये रेवति  
+स्वस्ति᳓ न इ᳓न्द्रश् चाग्नि᳓श् च  
+स्वस्ति᳓ नो अदिते कृधि
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/051/15_svasti_panthAmanu.md">
-
-स्व॒स्ति पन्था॒म् अनु॑ चरेम  
-सूर्या-चन्द्र॒मसा॑व् इव ।  
-पुन॒र् दद॒ताघ्न॑ता  
-जान॒ता +++(बन्धु-मित्रैः)+++ सं ग॑मेमहि ॥
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/051/15_svasti_panthAmanu.md">
+स्वस्ति᳓ प᳓न्थाम् अ᳓नु चरेम  
+सूर्याचन्द्रम᳓साव् इव  
+पु᳓नर् द᳓दता अ᳓घ्नता  
+जानता᳓ सं᳓ गमेमहि
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/094/04_shriye_jAtaH.md">
-
 श्रिये᳓ **जातः᳓**, श्रिय᳓ आ᳓ **नि᳓रियाय**  
 श्रि᳓यं व᳓यो+++(=अन्नम्)+++ जरितृ᳓भ्यो **दधाति** ।  
 श्रि᳓यं व᳓साना अ-मृतत्व᳓म् **आयन्**  
 **भ᳓वन्ति** सत्या᳓ समिथा᳓+++(=युद्धानि)+++ मित᳓-द्रौ+++(←द्रु)+++ +++(सोमे)+++ ॥
-
 </div>  
 
 श्रीर् अस्तु (त्रिः) ।  
@@ -317,46 +291,48 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 ताभ्यां धाराद्वयं सततम् पत्रे निषिञ्चेत् ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055_vAstoShpate_pratijAnIhi/">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<details open><summary><h2>०१ वास्तोष्पते प्रति ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते प्र᳓ति जानीह्य् अस्मा᳓न्त्  
 स्व्-आवेशो᳓+++(=सुगमो)+++ अनमीवो᳓+++(=आरोग्यकरः)+++ भवा नः ।  
 य᳓त् त्वे᳓महे प्र᳓ति त᳓न् नो जुषस्व  
 शं᳓ न एधि द्विप᳓दे शं᳓ च᳓तुष्पदे ।
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<details open><summary><h2>०३ वास्तोष्पते शग्मया ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते शग्म᳓या+++(=सुखया)+++ सँस᳓दा ते  
 सक्षीम᳓हि+++(←सच समवाये)+++ रण्व᳓या+++(=रममाणया)+++ गातुम᳓त्या+++(=गामिन्या)+++) ।  
 आ᳓वः क्षे᳓म+++(य्=लब्धस्य रक्षणे)+++ उत᳓ यो᳓गे+++(=अलब्धस्य लाभे)+++ व᳓रं नो  
 +++(हे विश्वेदेवाः)+++ यूय᳓म् पात स्वस्ति᳓भिः स᳓दा नः ।  
 
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<details open><summary><h2>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते प्रत᳓रणो न एधि  
 गो᳓भिर् अ᳓श्वेभिर् इन्दो+++(←इन्दिर् ऐश्वर्यकर्मा/ उदिर्वा क्लेदकर्मा)+++ ।  
 अज᳓रासस् ते सख्ये᳓ स्याम  
 पिते᳓व पुत्रा᳓न् प्र᳓ति नो जुषस्व ।  
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056_01_amIvahA_vAstoShpate/">
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<details open><summary><h2>०१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
 
 अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
 वि᳓श्वा रूपा᳓ण्य् आ **विश᳓न्** ।  
 स᳓खा सुशे᳓व+++(फ)+++ **एधि** नः ।  
 
+</details>
 </div>
-
 </div>
 
 नमो रुद्राय वास्तोष्पतये ॥
@@ -376,12 +352,10 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 परिवारम् अभिषिञ्चेयुः ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/049/01_samudrajyeShThAH_salilasya.md">
-
 समुद्र᳓-ज्येष्ठाः सलिल᳓स्य म᳓ध्यात्  
 पुनाना᳓ **यन्त्य् अ᳓निविशमानाः** ।  
 इ᳓न्द्रो या᳓ वज्री᳓ वृषभो᳓ **ररा᳓द**+++(=विलिलेख)+++  
 ता᳓ आ᳓पो देवी᳓र् इह᳓ मा᳓म् **अवन्तु** ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
@@ -770,23 +744,19 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 इति मध्यमे स्थाने ब्रह्माणम् आवाहयामि ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/01_hiraNyagarbhaH_samavartatAgre.md">
-
 हिरण्यगर्भः᳓ स᳓म् अवर्तता᳓ग्रे  
 भूत᳓स्य जातः᳓ प᳓तिर् ए᳓क आसीत्  
 स᳓ दाधार पृथिवीं᳓ द्या᳓म् उते᳓मां᳓  
 क᳓स्मै देवा᳓य हवि᳓षा विधेम
-
 </div>  
 
 प्रजापते आगच्छ ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
-
 प्र᳓जापते न᳓ त्व᳓द् +++(विश्वा जातानि→)+++ एता᳓न्य् अन्यो᳓  
 वि᳓श्वा जाता᳓नि **प᳓रि** ता᳓ **बभूव** ।  
 य᳓त्-कामास् ते जुहुम᳓स् त᳓न् नो **अस्तु**  
 वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म्॥
-
 </div>
 
 प्रजापतिं तर्पयामि ॥
@@ -816,12 +786,10 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 इन्द्र आगच्छ ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md">
-
 स्वस्तिदा᳓ विश᳓स्-प᳓तिर्  
 वृत्रहा᳓ विमृधो᳓ वशी᳓ ।  
 वृ᳓षे᳓न्द्रः पुर᳓ **एतु** नः  
 सोम-पा᳓ **अभयङ्-करः᳓** ॥
-
 </div>  
 
 इन्द्रं तर्पयामि ॥
@@ -835,23 +803,19 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 इति दक्षिणस्यां दिशि यमम् आवाहयामि ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/16_trikadrukebhiH_patati.md">
-
 त्रि᳓-कद्रुकेभिः +++(यागैः)+++ **पतति**  
 ष᳓ळ् उर्वी᳓र् ए᳓कम् इ᳓द् बृह᳓त् ।  
 त्रिष्टु᳓ब् गायत्री᳓ छ᳓न्दांसि  
 स᳓र्वा ता᳓ यम᳓ **आ᳓हिता** ॥
-
 </div>  
 
 यम आगच्छ ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/165/04_yadulUko_vadati.md">
-
 य᳓द् उ᳓लूको व᳓दति - **मोघ᳓म् एत᳓द्** +++(भवतु)+++  
 य᳓त् कपो᳓तः पद᳓म् अग्नौ᳓ कृणो᳓ति +++(मोघम् एतद्)+++ ।  
 य᳓स्य दूतः᳓ प्र᳓हित एष᳓ एत᳓त्  
 त᳓स्मै यमा᳓य न᳓मो अस्तु मृत्य᳓वे ॥
-
 </div>  
 
 यमं तर्पयामि ॥
@@ -864,22 +828,18 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 इति पश्चिमायाम् दिशि वरुणम् आवाहयामि ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
-
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
 </div>
 
 वरुण आगच्छ ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
-
 </div>
 
 वरुणं तर्पयामि ॥
@@ -893,12 +853,10 @@ Notes: The Mātṛ-s invoked here belong to two groups. The first are set of god
 इत्य् उत्तरस्यं दिशि सोमम् आवाहयामि ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/20_somo_dhenuM.md">
-
 सो᳓मो धेनुं᳓, सो᳓मो अ᳓र्वन्तम् आशुं᳓  
 सो᳓मो वीरं᳓ कर्मण्यं᳙ **ददाति** ।  
 सादन्यं᳙+++(←सदन)+++ विदथ्यं᳙ सभे᳓यं  
 पितृ-श्र᳓वणं यो᳓ **द᳓दाशद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
-
 </div>  
 
 सोम आगच्छ ।
@@ -918,28 +876,22 @@ Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
 य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">

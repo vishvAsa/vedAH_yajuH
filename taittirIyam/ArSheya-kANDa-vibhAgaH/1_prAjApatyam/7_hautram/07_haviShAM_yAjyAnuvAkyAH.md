@@ -36,7 +36,6 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/044/16_agnirmUrdhA_divaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +50,7 @@ unicode_script = "devanagari"
 अपां᳓ रे᳓तांसि जिन्वति
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निर्मू॒र्धा दि॒वᳵ क॒कुत् ।  
 पति॑ᳶ पृथि॒व्या अ॒यम् ।  
@@ -100,7 +99,12 @@ jinvati ← √ji- 2 ~ jinv- (root)
 
 rétāṁsi ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पतिः॑ पृथि॒व्या अ॒यम् ।  
+अ॒पां रेतां॑सि जिन्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +176,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,7 +273,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 पदार्थान्वयभाषाः -  स्वध्वरे=अन्यैरत्यन्तमहिंस्ये हिंसारहिते वा। अस्मिन् यज्ञे=ध्यानयज्ञे। अग्निं=सर्वाधारमीशमाहुवे=आह्वयामि स्तौमि। कीदृशम्। ऊर्जः=बलस्य। नपातं न पातयतीति नपातः। किन्तु बलस्य वर्धकमेव। पुनः। पावकशोचिषम्=पवित्रतेजस्कम् ॥१३॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -595,7 +597,6 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -610,7 +611,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 स्तो᳓मैर् वत्स᳓स्य वावृधे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 म॒हाँ इन्द्रो॒ य ओज॑सा ।  
 प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
@@ -659,7 +660,12 @@ vatsásya ← vatsá- (nominal stem)
 
 vāvr̥dhe ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -734,7 +740,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -810,7 +815,6 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>

@@ -565,7 +565,6 @@ To see great joy.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -580,7 +579,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -631,7 +630,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -719,7 +723,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -730,6 +733,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -748,6 +752,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -823,7 +832,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
@@ -859,7 +867,6 @@ Like eager mothers.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -919,7 +926,12 @@ mātáraḥ ← mātár- (nominal stem)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1001,7 +1013,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1020,6 +1031,11 @@ ________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1081,7 +1097,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 पदार्थान्वयभाषाः -  (वः) हे आपः ! युष्माकं (यः) यः खलु (शिवतमः-रसः) कल्याणतमोऽतिकल्याणसाधको रसोऽस्ति (तस्य नः) तम् “व्यत्ययेन षष्ठी” नोऽस्मान् (इह) अस्मिन् शरीरे (भाजयत) सेवयत (उशतीः-मातरः-इव) पुत्रसमृद्धिं कामयमाना मातर इव, यथा ताः स्वस्तन्यं रसं दुग्धं पुत्रं भाजयन्ति पाययन्ति तद्वत् ॥२॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
@@ -1118,7 +1133,6 @@ O waters, and propagate us.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1178,7 +1192,12 @@ janáyatha ← √janⁱ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1259,7 +1278,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1280,6 +1298,11 @@ _____________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -1348,7 +1371,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
 </details>
-
 </div>
 </div>
 
@@ -1775,7 +1797,6 @@ To see great joy.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -1790,7 +1811,7 @@ To see great joy.
 महे᳓ र᳓णाय च᳓क्षसे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
 म॒हे रणा॑य॒ चक्ष॑से ।
@@ -1841,7 +1862,12 @@ mahé ← máh- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1929,7 +1955,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1940,6 +1965,7 @@ _________
 <details><summary>सायण-भाष्यम्</summary>
 
 **हि** यस्मात् कारणात् **आपः** या यूयं **मयोभुवः** सुखस्य भावयित्र्यः **स्थ** भवथ **ताः** तादृश्यो यूयं **नः** अस्मान् **ऊर्जे** अन्नाय **दधातन** धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । **महे** महते **रणाय** रमणीयाय **चक्षसे** दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति यौग्यान् कुरुतेत्यर्थः ॥
+
 
 _____________
 
@@ -1958,6 +1984,11 @@ _____________
 **ताः** यूयं **नः** अस्मान् **ऊर्जे** रसाय **दधातन** स्थापयत  
 ऊर्जं वा अस्मभ्यं दत्त  
 **महे** महते **रणाय** रमणीयाय **चक्षसे** ज्ञानाय चेति प्रथमा ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+स्नानमन्त्राः - आपो हिष्ठेति ॥ हे आपः यूयं मयोभुवः स्थ मय इति सुखनाम, सुखस्य भावयित्र्यः स्थ । हिः प्रसिद्धौ । ताः युयं नः अस्मान् ऊर्जे अन्नाय दधातन धत्त अन्नमस्मभ्यं धत्तेत्यर्थः महे महते रणाय रमणीयाय चक्षसे दर्शनाय दधातन ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2033,7 +2064,6 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 पदार्थान्वयभाषाः -  (ताः-आपः) ता यूयमापः ! (मयः-भुवः) सुखस्य भावयित्र्यः-सुखसम्पादिका वा“मयः सुखनाम” [निघ० ३।६](हि स्थ) अवश्यं स्थ (नः) अस्मान् (ऊर्जे) जीवनबलाय (महे रणाय चक्षसे) महते रमणीयाय दर्शनाय (दधातन) धारयत ॥१॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
@@ -2069,7 +2099,6 @@ Like eager mothers.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -2129,7 +2158,12 @@ mātáraḥ ← mātár- (nominal stem)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2211,7 +2245,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2230,6 +2263,11 @@ ________________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2291,7 +2329,6 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 पदार्थान्वयभाषाः -  (वः) हे आपः ! युष्माकं (यः) यः खलु (शिवतमः-रसः) कल्याणतमोऽतिकल्याणसाधको रसोऽस्ति (तस्य नः) तम् “व्यत्ययेन षष्ठी” नोऽस्मान् (इह) अस्मिन् शरीरे (भाजयत) सेवयत (उशतीः-मातरः-इव) पुत्रसमृद्धिं कामयमाना मातर इव, यथा ताः स्वस्तन्यं रसं दुग्धं पुत्रं भाजयन्ति पाययन्ति तद्वत् ॥२॥
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
@@ -2328,7 +2365,6 @@ O waters, and propagate us.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -2388,7 +2424,12 @@ janáyatha ← √janⁱ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2469,7 +2510,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2490,6 +2530,11 @@ _____________
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -2558,7 +2603,6 @@ Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser 
 
 पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
 </details>
-
 </div>
 </details>
 </div>

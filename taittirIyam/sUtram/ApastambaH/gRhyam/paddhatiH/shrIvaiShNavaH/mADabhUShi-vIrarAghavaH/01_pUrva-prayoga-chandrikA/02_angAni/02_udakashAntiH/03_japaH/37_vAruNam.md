@@ -50,7 +50,6 @@ title = "३७ वारुणम्"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/15_uduttamaM_varuNa.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -133,7 +132,12 @@ vraté ← vratá- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय ।  
+अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +260,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -312,7 +315,7 @@ Loosen the bonds, O Varuna, that hold me, loosen the bonds above, between, and u
 Unloose from us, O Varuna, the highest,  
 The lowest, the midmost knot;  
 Then may we, O Aditya [3], in thy rule,  
-Be guiltless before Aditi.  
+Be guiltless before Aditi.
 </details>
 
 <details><summary>Geldner</summary>
@@ -380,7 +383,6 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 भावार्थभाषाः -  जे ईश्वराची आज्ञा यथायोग्य नित्य पाळतात, तेच पवित्र असतात व सर्व दुःखबंधनांतून पृथक होऊन निरंतर सुख प्राप्त करतात.
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
@@ -496,7 +498,6 @@ All these are Varuna's ordinances.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -588,7 +589,12 @@ rīriṣaḥ ← √riṣ- (root)
 
 tásmāt ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चरा॑मसि ।  
+अचि॑त्ती॒ यत्तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -730,7 +736,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -809,7 +814,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
@@ -836,7 +840,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -940,7 +943,12 @@ te ← tvám (pronoun)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
+सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1107,7 +1115,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1220,7 +1227,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1268,7 +1274,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/14_ava_te.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1348,7 +1353,12 @@ rā́jan ← rā́jan- (nominal stem)
 
 śiśrathaḥ ← √śrathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ ते॒ हेळो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे ह॒विर्भिः॑ ।  
+क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः कृ॒तानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1467,7 +1477,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1595,7 +1604,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 
 भावार्थभाषाः -  माणसांनी परमेश्वरनिर्मित संसारात निर्माण केलेले पदार्थ पाहून पापकर्माचे फल शिथिल होईल असे अनुष्ठान करावे. जसे अज्ञानी पुरुषाला पापफळ दुःखी करतात, तसेच ज्ञानी पुरुषाला दुःख देत नाहीत. ॥ १४ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
@@ -1622,7 +1630,6 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/024/11_tattvA_yAmi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -1711,7 +1718,12 @@ prá ← prá (invariable)
 
 úruśaṁsa ← uruśáṁsa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑मानो ह॒विर्भिः॑ ।  
+अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒ प्र मो॑षीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1864,7 +1876,6 @@ _________
 - “rob; remove; steal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1967,7 +1978,6 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी वेदोक्त रीतीने परमेश्वर व सूर्याला जाणून सुख प्राप्त करून घ्यावे. कोणत्याही माणसाने परमेश्वर व सूर्यविद्येचा अनादर करू नये. सदैव ईश्वराच्या आज्ञेचे पालन करून त्याने निर्माण केलेल्या सूर्य इत्यादी पदार्थांना त्यांच्या गुणांसह जाणून त्यांचा उपयोग करून घ्यावा व आपले आयुष्य निरंतर वाढवावे. ॥ ११ ॥
 </details>
-
 </div>
 </details>
 </div>

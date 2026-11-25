@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -123,7 +122,12 @@ naḥ ← ahám (pronoun)
 
 rákṣa ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑ब्धेभिः सवितः पा॒युभि॒ष्ट्वं शि॒वेभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ।  
+हिर॑ण्यजिह्वः सुवि॒ताय॒ नव्य॑से॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +257,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -387,7 +390,6 @@ Mit unbethörter heilbegabter Hüterschar, o Savitar, beschütze heute unser Hau
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जो राजा प्रयत्नपूर्वक प्रजेचे चांगल्याप्रकारे रक्षण करून दुष्टांना मारतो तोच नवनवीन ऐश्वर्य उत्पन्न करून सतत प्रजेचा प्रिय व धार्मिक होतो. ॥ ३ ॥
 </details>
-
 </div>  
 
 _______

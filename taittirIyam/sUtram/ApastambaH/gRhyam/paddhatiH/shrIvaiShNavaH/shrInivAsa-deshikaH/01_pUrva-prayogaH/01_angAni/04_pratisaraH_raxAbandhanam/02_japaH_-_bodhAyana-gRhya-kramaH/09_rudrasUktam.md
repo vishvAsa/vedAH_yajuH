@@ -108,7 +108,6 @@ O bounteous one, be merciful to our children and descendants.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -194,7 +193,12 @@ te ← tvám (pronoun)
 
 vapantu ← √vap- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।  
+मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -325,7 +329,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -335,7 +338,6 @@ _________
 
 <details><summary>सायण-टीका</summary>
 
-अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।  
 कीदृशम् गर्तसदं गर्तसदृशे हृदयपुण्डरीके सर्वदा तिष्ठन्तम्।  
 ‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति’ इति स्मृतेः।  
 युवानं नित्यतरुणम्।  
@@ -446,7 +448,6 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -648,7 +649,6 @@ And approach us bearing the spear [4].
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -743,7 +743,12 @@ tvám ← tvám (pronoun)
 
 vidhatáḥ ← √vidh- (root)  
 {case:ACC, gender:M, number:PL, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने रु॒द्रो असु॑रो म॒हो दि॒वस्त्वं शर्धो॒ मारु॑तं पृ॒क्ष ई॑शिषे ।  
+त्वं वातै॑ररु॒णैर्या॑सि शङ्ग॒यस्त्वं पू॒षा वि॑ध॒तः पा॑सि॒ नु त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -752,11 +757,10 @@ vidhatáḥ ← √vidh- (root)
 त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒म्ऽग॒यः । त्वम् । पू॒षा । वि॒ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । अ॒ग्ने॒ । रु॒द्रः । असु॑रः । म॒हः । दि॒वः । त्वम् । शर्धः॑ । मारु॑तम् । पृ॒क्षः । ई॒शि॒षे॒ ॥   
-त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒ङ्ग॒य इति॑ शम्-ग॒यः । त्वम् । पू॒षा । वि॒ध॒त इति॑ वि-ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥ 2B । 
-
+त्वम् । वातैः॑ । अ॒रु॒णैः । या॒सि॒ । श॒ङ्ग॒य इति॑ शम्-ग॒यः । त्वम् । पू॒षा । वि॒ध॒त इति॑ वि-ध॒तः । पा॒सि॒ । नु । त्मना॑ ॥ 2B ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -895,7 +899,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1034,7 +1037,6 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे बलाची इच्छा करतात, दुष्टांची ताडना करतात, धर्माचरण करणाऱ्यांना सुखी ठेवतात व सर्वांची उन्नती इच्छितात, ती अतुल ऐश्वर्य प्राप्त करतात. ॥ ६ ॥
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
@@ -1061,7 +1063,6 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -1135,7 +1136,12 @@ híraṇyarūpam ← híraṇyarūpa- (nominal stem)
 
 kr̥ṇudhvam ← √kr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॒ राजा॑नमध्व॒रस्य॑ रु॒द्रं होता॑रं सत्य॒यजं॒ रोद॑स्योः ।  
+अ॒ग्निं पु॒रा त॑नयि॒त्नोर॒चित्ता॒द्धिर॑ण्यरूप॒मव॑से कृणुध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1144,9 +1150,9 @@ kr̥ṇudhvam ← √kr̥- (root)
 अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यऽरूपम् । अव॑से । कृ॒णु॒ध्व॒म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-एति॑ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒यज॒मिति॑ सत्य-यज॑म् । रोद॑स्योः ॥ अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यरूप॒मिति॒ हिर॑ण्य-रू॒प॒म् । अव॑से । कृ॒णु॒ध्व॒म् ॥ 
+एति॑ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒यज॒मिति॑ सत्य-यज॑म् । रोद॑स्योः ॥ अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यरूप॒मिति॒ हिर॑ण्य-रू॒प॒म् । अव॑से । कृ॒णु॒ध्व॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1263,7 +1269,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1389,7 +1394,6 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे विद्वानांनो! जसे ईश्वराने ब्रह्मांडात सूर्य स्थित करून सर्वांचे प्रिय सुख साधन निर्माण केलेले आहे. तसे राजा व प्रजा यांच्या संमतीने आमच्यातील गुणकर्मस्वभाव उत्तम असेल त्याला राजा करून आमचे हित साधा. ज्यामुळे तुमचेही हित व्हावे ॥ १ ॥
 </details>
-
 </div>
 </details>
 </div>

@@ -4,38 +4,30 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 ## दधिक्रावा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
-
 +++(pegasus-प्रोष्ठपदासु)+++ दधि-क्रा᳓व्णो **अकारिषं**  
 जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः ।  
 **सुरभि᳓** नो मु᳓खा **करत्**  
 प्र᳓ ण **आ᳓यूँषि तारिषत्** ।
-
 </div>
 
 ## आपः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
-
 आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
 ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
 महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
-
 यो᳓ वः शिव᳓तमो र᳓सस्  
 त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
-
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
 य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
-
 </div>
 
 ## मित्रः
@@ -57,56 +49,44 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
-
 प्र᳓ स᳓ मित्र म᳓र्तो **अस्तु प्र᳓-यस्+++(=यत्ने)+++-वान्**,  
 य᳓स् त आदित्य **शि᳓क्षति** व्रते᳓न।  
 न᳓ हन्यते न᳓ जीयते +++(यस्)+++ त्वो᳓तो+++(=त्वद्रक्षितः, →तृतीया कर्मणीति स्वरः)+++ - नै᳓नम्  
 अँ᳓हो अश्नोत्य᳓न्तितो न᳓ दूरा᳓त् ॥
-
 </div>
 
 ## वरुणः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
-
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
-
 य᳓च् चिद्+धि᳓ ते वि᳓शो यथा+++(=विश इव)+++,  
 प्र᳓ देव वरुण व्रत᳓म् ।  
 मिनीम᳓सि+++(=तर्कयामः)+++ द्य᳓वि-द्यवि+++(=दिने दिने)+++ ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
-
 य᳓त् किं᳓ चेदं᳓ वरुण दै᳓व्ये+++(←देव+यञ्)+++ ज᳓ने+++(देवेषु)+++,  
 ऽभिद्रोहं᳓ मनुष्या᳙श् च᳓रामसि।   
 अ᳓चित्ती य᳓त् त᳓व ध᳓र्मा युयोपिम᳓+++(विनाशयामः)+++,  
 मा᳓ नस् त᳓स्माद् ए᳓नसो देव रीरिषः ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
-
 +++(ऋत्विजः)+++ कितवा᳓सो य᳓द् रिरिपु᳓र्+++(=लिलिपुः)+++ न᳓ दीवि᳓+++(देवकर्मणि)+++,  
 य᳓द् वा ऽघा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓ ।  
 स᳓र्वा ता᳓ वि᳓ष्य+++(=विनाशय)+++ शिथिरे᳓व+++(=शिथिला +इव)+++  
 देवा᳓था ते स्याम वरुण प्रिया᳓सः ॥
-
 </div>
 
 ## सूर्यः
@@ -120,29 +100,23 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md">
-
 उ᳓द् वयं᳓ त᳓मसस् प᳓रि  
 ज्यो᳓तिष् **प᳓श्यन्त** उ᳓त्तरम् ।  
 देवं᳓ देवत्रा᳓ सू᳓र्यम्  
 **अ᳓गन्म** ज्यो᳓तिर् उत्तम᳓म् +++(←"उत्तमशश्वत्तमौ सर्वत्र" इत्य् अन्तोदात्तः)+++ ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
-
 उ᳓दु त्यं᳓ **जात᳓वेदसं**  
 देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
 दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
-
 चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
 च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ ।  
 **आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
 **सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_05/12_tachchaxurdevahitam_purastAchChukramuchcharat.md">
@@ -530,7 +504,6 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -545,7 +518,7 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
 धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
@@ -593,7 +566,12 @@ pracodáyāt ← √cud- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -667,7 +645,6 @@ _________
 - “push; drive; command; excite; proclaim; demand; request; request.”
 
 _________
-
 </details>
 
 <details><summary>ब्राह्मणोद्धरणानि</summary>
@@ -703,6 +680,7 @@ _________
 यद्वा - ‘धीङ् आधारे' । लिङि  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  
 
 **प्रचोदयात्** । चोदयतेर् लेट्याडागमः । यद्-वृत्त-योगाद् अनिघातः । आगमस्यानुदात्तत्वे णिचः स्वरः ॥ ॥ १० ॥
+
 
 _____________
 
@@ -814,10 +792,9 @@ _____________
 > स यश्चायं पुरुषे यश् चासाव् आदित्ये स एकः 
 
 इति ध्यानार्थः॥
-
 </details>
 
-<details><summary>विद्यारण्यः - हिन्दी </summary>
+<details><summary>विद्यारण्यः - हिन्दी</summary>
 
 शुद्ध गायत्री जीवात्मा और ब्रह्म की एकता का सूचक है। ‘धियोयोनः प्रचोदयात्’ अर्थात् हमारी बुद्धि को प्रेरणा देता है तथा जो अन्तःकरण की प्रकाशिका तथा सर्व साक्षी है उसे प्रत्यगात्मा कहा जाता है।
 उस प्रचोदयात् शब्द से आत्मा स्वरूप भूत परब्रह्म का तत् सवितुः आदि पदों से कथन किया है।
@@ -972,7 +949,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 वसीयो भोग-मोक्षाख्यं  
 सूते या सततं सताम् ।  
 सा **सुवः** कथिता ब्रह्मन्  
-व्याहृती वाङ्मयी ततः ॥ 
+व्याहृती वाङ्मयी ततः ॥
 </details>
 
 <details><summary>नित्यानन्दमिश्रः - प्रचोदयात्</summary>
@@ -987,7 +964,7 @@ _________
 _________
 **अर्थः**  
 
-यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
+यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः।
 </details>
 
 <details><summary>सम्पुटीकरणादि</summary>
@@ -1036,12 +1013,11 @@ _________
 दशकृत्वो वरः स्मृतः ॥
 
 इति योगयाज्ञवल्क्य-वचन-ग्रहणम्॥
-
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.
 </details>
 
 <details><summary>विश्वास-टिप्पनी - प्रचोदयात्-स्वरः</summary>
@@ -1055,7 +1031,7 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 
 > परोरजसे ऽसाव् अदो मा प्रापद्   
 
-इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।  
+इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।
 </details>
 
 <details><summary>Wilson</summary>
@@ -1080,21 +1056,13 @@ Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we m
 Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
-
-Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
-<details open><summary><h5>10-12 …{Loading}…</h5></summary>
-<details><summary>Jamison Brereton Notes</summary>
+<details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
-</details>
+
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -1287,7 +1255,6 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 भावार्थभाषाः -  जी माणसे सर्वांचा साक्षी, पित्याप्रमाणे असणारा, न्यायी, दयाळू, शुद्ध सनातन, सर्वांच्या आत्म्याचा साक्षी अशा परमेश्वराची स्तुती, प्रार्थना व उपासना करतात त्यांना कृपासागर, सर्वात श्रेष्ठ परमेश्वर, दुष्ट आचरणापासून पृथक करून श्रेष्ठ आचरणामध्ये प्रवृत्त करतो. पवित्र व पुरुषार्थयुक्त करून धर्म, अर्थ, काम, मोक्ष प्राप्त करवितो. ॥ १० ॥
 </details>
-
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1395,13 +1362,12 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 
 ## स्नानम् - ऋतं च सत्यं च
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190_RtaM_cha_satyaM_cha/">
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 जले निमज्जने विनियोग आपस्तम्बगृह्यसूत्र उक्तः।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
 
 ऋतं᳓ च सत्यं᳓ चाभी᳙द्धात्  
 त᳓पसो᳓ ऽध्यजायत ।  
@@ -1410,7 +1376,7 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 
 समुद्रा᳓द् अर्णवा᳓द्+++(←अर्णः = जलम्)+++ अ᳓धि  
 संवत्सरो᳓ अजायत ।  
@@ -1419,14 +1385,13 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
 
 सूर्या-चन्द्रम᳓सौ धाता᳓  
 यथा-पूर्व᳓म् अकल्पयत् ।  
 दि᳓वं च पृथिवीं᳓ चान्त᳓रिक्षम् अ᳓थो स्वः᳙+++(=लोक-विशेषम्)+++ ॥
 
 </div>
-
 </div>
 
 ## परिषेचनम्

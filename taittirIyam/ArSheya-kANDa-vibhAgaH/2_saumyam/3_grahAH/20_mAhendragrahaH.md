@@ -49,7 +49,6 @@ He waxeth with the praises of Vatsa.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +63,7 @@ He waxeth with the praises of Vatsa.
 स्तो᳓मैर् वत्स᳓स्य वावृधे
 </details>
 
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 म॒हाँ इन्द्रो॒ य ओज॑सा ।  
 प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
@@ -113,7 +112,12 @@ vatsásya ← vatsá- (nominal stem)
 
 vāvr̥dhe ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +192,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,6 +236,13 @@ INDRA, great in his power and might, and like Parjanya rich in rain,
      Is magnified by Vatsa's lauds.
 </details>
 
+<details><summary>English</summary>
+
+Great is Indra who through his might  
+Is like Parjanya with the rain;  
+He waxeth with the praises of Vatsa.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra, der an Kraft groß ist wie der regenbringende Parjanya, hat sich an des Vatsa Lobliedern erbaut;
@@ -257,7 +267,6 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 - गायत्री
 - षड्जः
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">

@@ -46,7 +46,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/044/01_taM_pratnathA.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -126,7 +125,12 @@ várdhase ← √vr̥dh- (root)
 
 yā́su ← yá- (pronoun)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिं बर्हि॒षदं॑ स्व॒र्विद॑म् ।  
+प्र॒ती॒ची॒नं वृ॒जनं॑ दोहसे गि॒राशुं जय॑न्त॒मनु॒ यासु॒ वर्ध॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +234,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -403,7 +406,6 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो! जे प्राचीन उत्तम राजांप्रमाणे, पित्याप्रमाणे राज्याचे पालन चांगल्या प्रकारे करून तात्काळ विजय प्राप्त करणाऱ्या बलवान सेनेद्वारे प्रजेच्या सुखासाठी झटतात त्यांनाच उत्तम पदावर नियुक्त करावे. ज्यामुळे राजा व प्रजेचे सुख वाढेल. ॥ १ ॥
 </details>
-
 </div>  
 
 _______

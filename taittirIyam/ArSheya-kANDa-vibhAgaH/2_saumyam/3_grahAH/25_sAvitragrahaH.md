@@ -39,7 +39,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/05_hiraNyapANimUtaye_savitAramupa.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -93,7 +92,12 @@ padám ← padá- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।  
+स चेत्ता॑ दे॒वता॑ प॒दम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +172,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -282,7 +285,6 @@ Den Savitar mit goldner Hand, ihn rufe ich zur Hülfe her; Er kennt als Gott den
 
 भावार्थभाषाः -  जो चैतन्यमय, सर्वव्यापक, निरंतर पूजनीय, प्रेमपुंज व संपूर्ण ऐश्वर्यदाता परमेश्वर आहे. तोच माणसांनी उपासना करण्यायोग्य आहे. त्याच्याशिवाय दुसरा कोणताही पदार्थ उपासना करण्यायोग्य नाही. ॥ ५ ॥
 </details>
-
 </div>
 
 _______

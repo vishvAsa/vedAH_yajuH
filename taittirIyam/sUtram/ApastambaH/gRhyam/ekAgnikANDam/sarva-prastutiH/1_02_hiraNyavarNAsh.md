@@ -34,9 +34,15 @@ after *agním.* MP. offers *te* for *nas* in **d**. ⌊As to *savitṛ* =
 May they, the golden-hued, the bright, the splendid, they wherein Savitar was born and Agni, They who took Agni as a germ, fair-coloured, the Waters, bring felicity and bless us!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+हिर॑ण्यवर्णाः॒ शुच॑यः पाव॒का यासु॑ जा॒तः स॑वि॒ता यास्व॒ग्निः।  
+या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽवर्णाः। शुच॑यः। पा॒व॒काः। यासु॑। जा॒तः। स॒वि॒ता। यासु॑। अ॒ग्निः। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒। 
+हिर॑ण्यऽवर्णाः। शुच॑यः। पा॒व॒काः। यासु॑। जा॒तः। स॒वि॒ता। यासु॑। अ॒ग्निः। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -59,9 +65,8 @@ May they, the golden-hued, the bright, the splendid, they wherein Savitar was bo
 
 <details><summary>हरदत्तोक्त-विनियोगः</summary>
 
-उत्तरे पञ्च स्नानमन्त्राः - “हिरण्यवर्णा” इति ॥ 
+उत्तरे पञ्च स्नानमन्त्राः - “हिरण्यवर्णा” इति ॥
 </details>
-
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
 
@@ -157,9 +162,15 @@ gives *-an j-* ⌊cf. note to i. 19.4⌋.
 They in the midst whereof King Varuna moveth, viewing men's righteous and unrighteous dealing. They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यासां॒ राजा॒ वरु॑णो॒ याति॒ मध्ये॑ सत्यानृ॒ते अ॑व॒पश्य॒ञ्जना॑नाम्।  
+या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यासा॑म्। राजा॑। वरु॑णः। याति॑। मध्ये॑। स॒त्या॒नृ॒ते इति॑ स॒त्य॒ऽअ॒नृ॒ते। अ॒व॒ऽपश्य॑न्। जना॑नाम्। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒। 
+यासा॑म्। राजा॑। वरु॑णः। याति॑। मध्ये॑। स॒त्या॒नृ॒ते इति॑ स॒त्य॒ऽअ॒नृ॒ते। अ॒व॒ऽपश्य॑न्। जना॑नाम्। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -243,12 +254,12 @@ They in the midst whereof King Varuna moveth, viewing men's righteous and unrigh
 <details open><summary><h2>०३ यासां देवा ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 
-###### Translation
+#### Translation
  3. They of whom the gods in heaven make \[their\] draught (*bhakṣá*);  
 they that come to be abundantly in the atmosphere; who, of beauteous  
 color, etc. etc.
 
-###### Notes
+#### Notes
 Again TS. MS. have a different **c** (*yā́ḥ pṛthivī́m páyaso 'ndáanti  
 śukrā́ḥ*). Our O. has at end of **c** *vírupāḥ* (as TS. MS. in 1 **c**).  
 MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders  
@@ -260,9 +271,15 @@ MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders
 Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-region, They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भ॑वन्ति।  
+या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यासा॑म्। दे॒वाः। दि॒वि। कृ॒ण्वन्ति॑। भ॒क्षम्। याः। अ॒न्तरि॑क्षे। ब॒हु॒ऽधा। भव॑न्ति। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒। 
+यासा॑म्। दे॒वाः। दि॒वि। कृ॒ण्वन्ति॑। भ॒क्षम्। याः। अ॒न्तरि॑क्षे। ब॒हु॒ऽधा। भव॑न्ति। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

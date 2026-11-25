@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -126,7 +125,12 @@ syāma ← √as- 1 (root)
 
 vāmabhā́jaḥ ← vāmabhā́j- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं॑ सावीः ।  
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +271,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -400,7 +403,6 @@ Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut
 
 भावार्थभाषाः -  हे राजा ! तू आमच्या प्रजेसाठी प्रशंसनीय सुख उत्पन्न करतोस. रक्षणाचे नियम बनवितोस. त्यासाठी आम्ही सुखाने धन, घर व प्रशंसित कार्य करून नित्य तुझ्या आज्ञेत राहावे. ॥ ६ ॥
 </details>
-
 </div>  
 
 _______

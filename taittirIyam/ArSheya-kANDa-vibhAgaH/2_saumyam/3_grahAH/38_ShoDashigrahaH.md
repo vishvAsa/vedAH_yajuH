@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -114,7 +113,12 @@ kr̥ṇotu ← √kr̥- (root)
 
 vagnúnā ← vagnú- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ति॑ष्ठ वृत्रह॒न्रथं॑ यु॒क्ता ते॒ ब्रह्म॑णा॒ हरी॑ ।  
+अ॒र्वा॒चीनं॒ सु ते॒ मनो॒ ग्रावा॑ कृणोतु व॒ग्नुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +234,6 @@ _________
 - “cry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -343,7 +346,6 @@ Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein l
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. सभापतींनी सेनेत दोन प्रकारचे अधिकारी ठेवावेत. एकाने सेनेला युद्ध करण्यास लावावे व दुसऱ्याने चांगल्या बोलण्याने योद्ध्यांना उत्साहित करावे. जेव्हा युद्ध होईल तेव्हा सेनापतीने चांगल्या प्रकारे परीक्षा करून उत्साहाने शत्रूबरोबर असे युद्ध करावे की निश्चित विजय होईल. युद्ध थांबल्यावर उपदेशक, योद्धे व सेवक यांना धर्मयुक्त कर्माचा उपदेश करून चांगल्या प्रकारे उत्साहित करावे. असे करणाऱ्याचा कधी पराभव होत नाही. ॥ ३ ॥
 </details>
-
 </div>  
 
 _______

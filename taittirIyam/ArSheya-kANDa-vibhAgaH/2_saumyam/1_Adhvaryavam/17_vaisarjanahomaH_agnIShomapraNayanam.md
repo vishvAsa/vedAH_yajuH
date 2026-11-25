@@ -61,7 +61,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/079/03_tvaM_soma.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -115,7 +114,12 @@ várūtham ← várūtha- (nominal stem)
 
 yantā́ ← yantár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्यः ।  
+उ॒रु य॒न्तासि॒ वरू॑थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +130,7 @@ yantā́ ← yantár- (nominal stem)
 
 <details><summary>पद-पाठः</summary>
 
-त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो॑भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् । 
+त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो॑भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -199,7 +203,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -304,7 +307,6 @@ Du, o Soma, reichest Schutzwehr vor den selbsterzeugten Leiden, Vor den anderwä
 
 पदार्थान्वयभाषाः -  हे इन्द्र=परमेश्वर ! तव+इत्=तवैव। आशसा=आशया। अहम्। हस्ते। दात्रं+चन=लवणसाधनं दात्रमपि। आददे=गृह्णामि। हे मघवन् ! दिनस्य वा संभृतस्य वा यवस्य कासिना मुष्टिना। पूर्धि=पूरय ॥१०॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,7 +571,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/13_somo_jigAti.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -623,7 +624,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ जिगाति गातु॒विद्दे॒वाना॑मेति निष्कृ॒तम् ।  
+ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -632,9 +638,9 @@ yónim ← yóni- (nominal stem)
 ऋ॒तस्य॑ । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-सोमः॑ । जि॒गा॒ति॒ । गा॒तु॒विदिति॑ गातु-वित् । दे॒वाना॑म् । ए॒ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । ऋ॒तस्य॑ । योनि॑म् । आ॒सद॒मित्या॑-सद॑म् । 
+सोमः॑ । जि॒गा॒ति॒ । गा॒तु॒विदिति॑ गातु-वित् । दे॒वाना॑म् । ए॒ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । ऋ॒तस्य॑ । योनि॑म् । आ॒सद॒मित्या॑-सद॑म् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -701,7 +707,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -811,7 +816,6 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 
 भावार्थभाषाः -  जे विद्वान अनेक प्रकारचे स्वरूप असलेल्या संसाराचे अव्यक्त कारण जाणतात व संसार निर्माण करणाऱ्या परमात्म्याची प्रशंसा करतात, तेच ऐश्वर्ययुक्त होतात. ॥ १३ ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

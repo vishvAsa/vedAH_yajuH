@@ -138,7 +138,12 @@ nāvā́ ← naú- ~ nā́v- (nominal stem)
 
 síndhum ← síndhu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेदः॑ ।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +272,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -595,7 +599,12 @@ tokā́ya ← toká- (nominal stem)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वं पा॑रया॒ नव्यो॑ अ॒स्मान्त्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
+पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -733,7 +742,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -796,7 +804,7 @@ Agni! Thou who art young, help us safely across all difficulties. Be for us a br
 O Agni, once more lead us  
 With thy favour over every trouble.  
 Be a broad, thick, wide fortress for us,  
-Health and wealth for our children and descendants. 
+Health and wealth for our children and descendants.
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -1007,7 +1015,12 @@ bodhi ← √bhū- (root)
 
 tanū́nām ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताति॑ पर्षि ।  
+अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1137,7 +1150,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

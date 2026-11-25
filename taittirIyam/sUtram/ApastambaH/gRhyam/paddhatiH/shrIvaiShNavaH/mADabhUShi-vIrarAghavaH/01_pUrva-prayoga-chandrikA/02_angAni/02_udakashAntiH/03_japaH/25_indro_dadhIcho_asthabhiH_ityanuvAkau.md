@@ -95,7 +95,12 @@ náva ← náva- 1 (nominal stem)
 
 navatī́ḥ ← navatí- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
+ज॒घान॑ नव॒तीर्नव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +161,6 @@ _________
 - “nine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -364,7 +368,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒च्छन्नश्व॑स्य॒ यच्छिरः॒ पर्व॑ते॒ष्वप॑श्रितम् ।  
+तद्वि॑दच्छर्य॒णाव॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -431,7 +440,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -631,7 +639,12 @@ gr̥hé ← gr̥há- (nominal stem)
 
 itthā́ ← itthā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्राह॒ गोर॑मन्वत॒ नाम॒ त्वष्टु॑रपी॒च्य॑म् ।  
+इ॒त्था च॒न्द्रम॑सो गृ॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -707,7 +720,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -746,7 +758,6 @@ _________
 
 अमन्वत । “ मनु अवबोधने' ।  
 अपीच्यम् । अपपूर्वात् चिनोतेः “ अघ्न्यादयश्च' ( उ. सू. ४. ५५१) इति निपातनात् यत् । अत एवाभिमतरूपसिद्धिः। यद्वा । अपिपूर्वात् अञ्चतेः “ ऋत्विक्° ' इत्यादिना क्विन् ।' अनिदिताम्' इति नलोपः । अपिगते निगते भवमपीच्यम् । ‘भवे छन्दसि ' इति यत् ।  ‘ अचः' इति अकारलोपे  ‘ चौ ' इति दीर्घत्वम् । तित्स्वरितः ।  ‘ अपीच्योऽप्रकाशः' इति भट्टभास्करमिश्रः । इत्था । इदंशब्दात् ' था हेतौ च च्छन्दसि । इति प्रकारवचने थाप्रत्ययः । यदि तत्रेदंशब्दो नानुवर्तते" तदानीम् इदमस्थमुः ' ( पा. सू. ५. ३. २४ ) इति थमुप्रत्ययः । अव्ययादाप्सुपः ' ( पा. सू. २. ४. ८२ ) इति सुब्लुकं बाधित्वा ‘सुपां सुलुक्' ' इति डादेशः । चन्द्रमसः । चन्द्रमाह्लादनं मिमीते निर्मिमीते इति चन्द्रमाः। ‘चन्द्रे माङो डित् ' ( उ. सु. ४.६६७ ) इति असिप्रत्ययः । दासीभारादिषु पठितत्वात् पूर्वपदप्रकृतिस्वरत्वम् । पूर्वपदं च ‘स्फायितञ्चि' ' इत्यादिना रक्प्रत्ययान्तमन्तोदात्तम् ॥ ॥७॥
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -964,7 +975,12 @@ anūṣata ← √nu- ~ nū- (root)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।  
+इन्द्रं॒ वाणी॑रनूषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -973,7 +989,7 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 इन्द्र॑म् । वाणीः॑ । अ॒नू॒ष॒त॒ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इन्द्र॑म् । इत् । गा॒थिनः॑ । बृ॒हत् । इन्द्र॑म् । अ॒र्केभिः॑ । अ॒र्किणः॑ ॥ इन्द्र॑म् । वाणीः॑ । अ॒नू॒ष॒त॒ ॥
 </details>
@@ -1042,7 +1058,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1069,7 +1084,7 @@ _________
 
 ______________________________________________
 
-इन्द्रमिदिति। गाथिनः सामगा बृहद्बृहता साम्नेन्द्रमिदिन्द्रमेवानूषतास्तुवन्। ऋच् स्तुतावित्यस्माद्धातोरुत्पन्नोऽर्कशब्द ऋचमाचष्टे। अर्केभिग्भिरर्किणो बह्वृचा इन्द्रमस्तुवन्। वाणीरन्या अपि वाचो यजुरूपा इन्द्रमस्तुवन्।  
+इन्द्रमिदिति। गाथिनः सामगा बृहद्बृहता साम्नेन्द्रमिदिन्द्रमेवानूषतास्तुवन्। ऋच् स्तुतावित्यस्माद्धातोरुत्पन्नोऽर्कशब्द ऋचमाचष्टे। अर्केभिग्भिरर्किणो बह्वृचा इन्द्रमस्तुवन्। वाणीरन्या अपि वाचो यजुरूपा इन्द्रमस्तुवन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1297,7 +1312,12 @@ hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)
 
 vajrī́ ← vajrín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ इद्धर्योः॒ सचा॒ सम्मि॑श्ल॒ आ व॑चो॒युजा॑ ।  
+इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1374,7 +1394,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1591,7 +1610,12 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
+वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1670,7 +1694,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1876,7 +1899,12 @@ ugráḥ ← ugrá- (nominal stem)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ वाजे॑षु नोऽव स॒हस्र॑प्रधनेषु च ।  
+उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1948,7 +1976,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2144,7 +2171,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिन्द्रं॑ वाजयामसि म॒हे वृ॒त्राय॒ हन्त॑वे ।  
+स वृषा॑ वृष॒भो भु॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2223,7 +2255,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

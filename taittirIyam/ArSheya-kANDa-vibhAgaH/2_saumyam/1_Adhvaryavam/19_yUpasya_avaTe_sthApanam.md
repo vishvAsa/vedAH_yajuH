@@ -647,7 +647,6 @@ Of the wide-stepping Visnu, the mighty!
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/19_viShNoH_karmANi.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -701,7 +700,12 @@ sákhā ← sákhi- (nominal stem)
 
 yújyaḥ ← yújya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे ।  
+इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -710,7 +714,7 @@ yújyaḥ ← yújya- (nominal stem)
 इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विष्णोः॑ । कर्मा॑णि । प॒श्य॒त॒ । यतः॑ । व्र॒तानि॑ । प॒स्प॒शे ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
@@ -778,7 +782,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -887,7 +890,6 @@ Des Vischnu Thaten schauet an, durch die die Ordnungen er sah, Des Indra eng ver
 
 भावार्थभाषाः -  ज्या कारणांपासून (प्रकृतीपासून) सर्वांचा मित्र असलेल्या जगदीश्वराने पृथ्वी इत्यादी लोक तसेच जीवांच्या साधनांसह शरीरे उत्पन्न केलेली आहेत, त्याद्वारे सर्व प्राणी आपापले कार्य करण्यास समर्थ होतात. ॥ १९ ॥
 </details>
-
 </div>  
 
 _______
@@ -922,7 +924,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/20_tadviShNoH_paramaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -982,7 +983,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑ ।  
+दि॒वी॑व॒ चक्षु॒रात॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -991,9 +997,9 @@ iva ← iva (invariable)
 दि॒विऽइ॑व । चक्षुः॑ । आऽत॑तम् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चक्षुः॑ । आत॑त॒मित्या-त॒त॒म् ॥  
+तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चक्षुः॑ । आत॑त॒मित्या-त॒त॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1070,7 +1076,6 @@ _________
 - “expand; prolong; chant; inflate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -1196,7 +1201,6 @@ Auf ihn, des Vischnu höchsten Tritt; der wie des Himmels Auge glänzt, Schaun f
 
 टिप्पणी:   या मंत्रात ‘परमम्’ पदम् या पदाचा अर्थ युरोपियन विल्सन साहेबांनी स्वर्ग होऊ शकत नाही, असे म्हटले आहे. हा त्यांचा भ्रम आहे. कारण परमपदाचा अर्थ स्वर्गच आहे. ॥ २० ॥
 </details>
-
 </div>
 
 _______

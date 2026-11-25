@@ -39,7 +39,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/03_yA_vAM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -93,7 +92,12 @@ táyā ← sá- ~ tá- (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वां॒ कशा॒ मधु॑म॒त्यश्वि॑ना सू॒नृता॑वती ।  
+तया॑ य॒ज्ञं मि॑मिक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +163,6 @@ _________
 - “season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -274,7 +277,6 @@ Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetz
 
 भावार्थभाषाः -  उपदेशाशिवाय कोणत्याही माणसाच्या ज्ञानाची थोडीही वृद्धी होऊ शकत नाही. त्यासाठी सर्व माणसांनी उत्तम विद्येचा उपदेश व श्रवण निरंतर केले पाहिजे. ॥ ३ ॥
 </details>
-
 </div>  
 
 _______

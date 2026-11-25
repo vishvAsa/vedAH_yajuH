@@ -1235,9 +1235,9 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -2950,11 +2950,9 @@ ___________
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
-
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
 </div>
 
 </div>
@@ -3396,9 +3394,9 @@ _____________
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -5648,7 +5646,6 @@ having their place between Agni (Sūtra 5) and Sviṣṭakṛt (Sūtra 7).
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -5742,7 +5739,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5894,7 +5896,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -5955,7 +5956,6 @@ O Prajapati, none other than thou
 Comprehendeth all these creatures [6].  
 What we seek when we sacrifice to thee, let that be ours;  
 May we be lords of riches.
-
 </details>
 
 <details><summary>Griffith</summary>
@@ -6004,7 +6004,6 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 पदार्थान्वयभाषाः -  (प्रजापते) हे प्रजायमानानां पालयितः स्वामिन् ! (त्वत्-अन्यः) त्वत्तो भिन्नः (ता-एतानि विश्वा जातानि न परि बभूव) सर्वाणि खलूत्पन्नानि तानि पूर्वाणि तथेमानि सम्प्रत्युत्पन्नानि वस्तूनि न परि भवति-नाधिकरोति (यत्कामाः-ते जुहुमः) यः कामो येषां ते तुभ्यं स्वात्मभावं समर्पयेम (तत्-नः-अस्तु) तदभीष्टमस्मभ्यं भवतु (वयं रयीणां पतयः स्याम) वयं सर्वविधधनानां स्वामिनो भवेम ॥१०॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>

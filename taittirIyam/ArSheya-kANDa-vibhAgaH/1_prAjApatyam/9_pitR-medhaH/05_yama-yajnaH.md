@@ -148,7 +148,6 @@ May well-known Yama come by pleasant-minded protections, may Yami (wife of Yama)
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/013/02_yame_iva.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -234,6 +233,12 @@ naḥ ← ahám (pronoun)
 
 svāsasthé ← svāsasthá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒मे इ॑व॒ यत॑माने॒ यदैतं॒ प्र वां॑ भर॒न्मानु॑षा देव॒यन्तः॑ ।  
+आ सी॑दतं॒ स्वमु॑ लो॒कं विदा॑ने स्वास॒स्थे भ॑वत॒मिन्द॑वे नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -457,7 +462,6 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 
 पदार्थान्वयभाषाः -  (यमे-इव यतमाने यत्-ऐतम्) हे वधूवरौ ! युवां यथा मातुरुदराद् बहिरागमनं कुरुतो द्वे कन्ये तथा यतमानौ परस्परं बन्धनबद्धौ यतो वेद्यां प्राप्नुतम् तदा (मानुषाः देवयन्तः-वां प्रभरन्) देवं परमात्मानमिच्छन्तः-आस्तिका जनाः युवां प्रकृष्टं भरन्ति पुष्णन्ति-अनुमोदयन्ति (स्वं लोकम्-उ-आसीदतम्) विवाहानन्तरं स्वगृहं खलु समन्तात् प्राप्नुतम्, तत्र गत्वा च (विदाने स्वासस्थे) स्वात्मनि ज्ञापयन्त्यौ द्यावापृथिव्यौ सुप्रतिष्ठिते-इव प्रतिष्ठितौ (नः-इन्दवे भवतम्) अस्माकं यज्ञाय श्रेष्ठकर्मसाधनाय सहयोगिनौ भवतम् ॥२॥
 </details>
-
 </div>
 
 ## हविर्-निवेदनम्
@@ -523,7 +527,6 @@ Offering of soma.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/13_yamAya_somaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -588,6 +591,12 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 
 áraṁkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒माय॒ सोमं॑ सुनुत य॒माय॑ जुहुता ह॒विः ।  
+य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -767,7 +776,6 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 
 पदार्थान्वयभाषाः -  (यमाय सोमं सुनुत) आयुरूपाय जीवनकालाय विश्वकालाय च तत्सौष्ठ्यसम्पादनायेत्यर्थः, सोममोषधिरसं निःसारयत (यमाय हविः-जुहुत) यमाय पूर्वोक्ताय हविः होत्रं कुरुत (अग्निदूतः-अरङ्कृतः-यमः-यमं ह गच्छति) अग्निर्दूतो यस्य स एवमलङ्कृतः सम्यक् कृतो यज्ञः कालं गच्छति ॥१३॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -818,7 +826,6 @@ Offering of ghee.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -895,6 +902,12 @@ jīváse ← √jīv- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒माय॑ घृ॒तव॑द्ध॒विर्जु॒होत॒ प्र च॑ तिष्ठत ।  
+स नो॑ दे॒वेष्वा य॑मद्दी॒र्घमायुः॒ प्र जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1092,7 +1105,6 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 
 पदार्थान्वयभाषाः -  (यमाय घृतवत्-हविः-जुहोत प्रतिष्ठत च) यमाय पूर्वोक्ताय जीवनकालाय विश्वकालाय वा तत्सौष्ठ्यसम्पादनायेत्यर्थः। घृतयुक्तं हवनं जुहोत कुरुत प्रतिष्ठत च तत्र प्रकृष्टतां च प्राप्नुत (सः-नः-जीवसे देवेषु दीर्घम् आयुः प्रायमत्) सोऽस्माकं जीवनाय देवेष्विन्द्रियेषु दीर्घस्थायित्वं विस्तारयति ॥१४॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1143,7 +1155,6 @@ Offering of honey.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/15_yamAya_madhumattamaM.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -1205,6 +1216,12 @@ pathikŕ̥dbhyaḥ ← pathikŕ̥t- (nominal stem)
 
 pū́rvebhyaḥ ← pū́rva- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒माय॒ मधु॑मत्तमं॒ राज्ञे॑ ह॒व्यं जु॑होतन ।  
+इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1368,7 +1385,6 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 पदार्थान्वयभाषाः -  (यमाय राज्ञे मधुमत्तमं हव्यं जुहोतन) पूर्वोक्ताय सर्वत्र राजमानाय कालाय मधुमत्तमं मधुररसयुक्तं होतव्यं वस्तु जुहुत (पथिकृद्भ्यः पूर्वजेभ्यः पूर्वेभ्यः-ऋषिभ्यः-इदं नमः) धर्ममार्गसम्पादकेभ्यः पूर्वजापेक्षया पूर्वेभ्यः प्राक्तनेभ्यः ऋषिभ्य इदं मन्त्रत्रयोक्तं सोमघृतमधुमिश्रं हविष्प्रदानं नम्रत्वं शिष्टाचारोऽस्तु, अस्तीत्यर्थः ‘आम्राश्च सिक्ताः पितरश्च प्रीणिताः’ इतिवत् ॥१५॥
 </details>
-
 </div>
 
 ## परिगानम्

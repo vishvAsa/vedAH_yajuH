@@ -40,7 +40,6 @@ _______
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
-
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -123,7 +122,12 @@ suyajñā́ḥ ← suyajñá- (nominal stem)
 
 vivāsanti ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ मरुत्व इ॒ह पा॑हि॒ सोमं॒ यथा॑ शार्या॒ते अपि॑बः सु॒तस्य॑ ।  
+तव॒ प्रणी॑ती॒ तव॑ शूर॒ शर्म॒न्ना वि॑वासन्ति क॒वयः॑ सुय॒ज्ञाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +254,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -322,7 +325,6 @@ O Indra with the Maruts drink here the Soma,
 As thou didst drink the pressed drink with Çaryata  
 Under thy guidance, in thy protection, O hero,  
 The singers skilled in sacrifice are fain to serve.
-
 </details>
 
 <details><summary>Geldner</summary>
@@ -390,7 +392,6 @@ Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; 
 
 भावार्थभाषाः -  हे राजा! जसे तू आपले राज्य, ऐश्वर्य, न्याय व धर्माचे रक्षण करतोस त्याच प्रकारचे तुझे मंत्री व नोकर इत्यादी असावेत. त्यांचा तू सत्कार सदैव करावा. ॥ ७ ॥
 </details>
-
 </div>  
 
 _______
