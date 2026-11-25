@@ -568,7 +568,7 @@ He, who knowing thus sacrifices with (the rite) of ten nights, attains separatio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रि॒ककु᳓द् वा᳓ एष᳓ यज्ञो᳓ य᳓द् दशरात्रः [14] ।
+त्रिक᳓कु᳓द् वा᳓ ए᳓ष᳓ य᳓ज्ञो᳓ य᳓द् द᳓श᳓रा᳓त्रः᳓ [14] ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -706,7 +706,7 @@ He, who knowing thus sacrifices with (the rite) of ten nights, becomes thrice em
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानᳶ पञ्चद॒शः ,
+य᳓जमानᳶ पञ्चदशः᳓ ,
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -734,7 +734,7 @@ The sacrificer is the Pañcadaśa;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मान एकविँ॒शः ,
+य᳓जमान एकविँशः᳓ ,
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -757,7 +757,7 @@ the sacrificer the Ekavimśa,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज॑मानस्त्रयस्त्रिँ॒शः ,
+य᳓जमानस्त्रयस्त्रिँशः᳓ ,
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -780,7 +780,7 @@ the sacrificer the Trayastrinśa,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुर॒ इत॑राः ।
+पु᳓र इ᳓तराः ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -823,7 +823,7 @@ and the others are the citadels.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒भिच॒र्यमा॑णो दशरा॒त्रेण॑ यजेत ।
+अभि᳓चर्य᳓माणो दशरात्रे᳓ण यजेत ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -851,7 +851,7 @@ If a man have witchcraft practised against him, he should sacrifice with (the ri
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वपु॒रा ए॒व पर्यू॑हते ।
+देव᳓पुरा᳓ एव᳓ प᳓र्यूहते ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1104,7 +1104,7 @@ He who has enemies should sacrifice with (the rite) of ten nights;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वपु॒रा ए॒व पर्यू॑हते ।
+देव᳓पुरा᳓ एव᳓ प᳓र्यूहते ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>

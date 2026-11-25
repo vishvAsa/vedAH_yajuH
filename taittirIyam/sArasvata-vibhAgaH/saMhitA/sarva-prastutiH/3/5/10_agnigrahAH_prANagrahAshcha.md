@@ -1,6 +1,7 @@
 +++
 title = "१० अग्निग्रहाः प्राणग्रहाश्च"
 +++
+
 १ त्रिष्टुप्  
 विश्वेदेवा ऋषयः
 
@@ -12,13 +13,313 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वे᳓ क्र᳓तुम᳓पि वृञ्जन्ति वि᳓श्वे द्वि᳓र्य᳓देते᳓ त्रि᳓र्भ᳓वन्त्यू᳓माः  ।   
-स्वादो᳓स्स्वा᳓दीयस्स्वादु᳓ना सृजा स᳓म᳓त ऊ षु᳓ म᳓धु म᳓धुनाभि᳓ योधि  ।   
+स्वादो᳓स्स्वा᳓दीयस्स्वादु᳓ना सृजा स᳓म᳓त ऊ षु᳓ म᳓धु म᳓धुनाभि᳓ योधि  ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/120/03_tve_kratumapi.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - बृहद्दिव आथर्वणः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+तुवे᳓ क्र᳓तुम् अ᳓पि वृञ्जन्ति वि᳓श्वे  
+दुवि᳓र् य᳓द् एते᳓ त्रि᳓र् भ᳓वन्ति ऊ᳓माः  
+स्वादोः᳓ स्वा᳓दीयः स्वादु᳓ना सृजा स᳓म्  
+अदः᳓ सु᳓ म᳓धु म᳓धुनाभि᳓ योधीः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ápi ← ápi (invariable)  
+{}
+
+krátum ← krátu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tvé ← tvám (pronoun)  
+{case:LOC, number:SG}
+
+víśve ← víśva- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+vr̥ñjanti ← √vr̥j- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+bhávanti ← √bhū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+dvís ← dvís (invariable)  
+{}
+
+eté ← eṣá (pronoun)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+ū́māḥ ← ū́ma- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sr̥ja ← √sr̥j- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+svā́dīyaḥ ← svā́dīyaṁs- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svādóḥ ← svādú- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+svādúnā ← svādú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+adáḥ ~ adó ← asaú (pronoun)  
+{case:ACC, gender:N, number:SG}
+
+mádhu ← mádhu- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+mádhunā ← mádhu- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sú ← sú (invariable)  
+{}
+
+yodhīḥ ← √yudh- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑ ।  
+स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि यो॑धीः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑  ।   
+स्वा॒दोस्स्वादी॑यस्स्वा॒दुना॑ सृजा॒ समत॑ ऊ॒ षु मधु॒ मधु॑ना॒भि यो॑धि  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वे इति॑ । क्रतु॑म् । अपि॑ । वृ॒ञ्ज॒न्ति॒ । विश्वे॑ । द्विः । यत् । ए॒ते । त्रिः । भव॑न्ति । ऊमाः॑ ।  
+स्वा॒दोः । स्वादी॑यः । स्वा॒दुना॑ । सृ॒ज॒ । सम् । अ॒दः । सु । मधु॑ । मधु॑ना । अ॒भि । यो॒धीः॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+त्वे इति॑ । क्रतु॑म् । अपीति॑ । वृ॒ञ्ज॒न्ति॒ । विश्वे॑ । द्विः । यत् । ए॒ते । त्रिः । भव॑न्ति । ऊमाः॑ ॥ स्वा॒दोः । स्वादी॑यः । स्वा॒दुना॑ । सृ॒ज॒ । समिति॑ । अतः॑ । उ॒ । स्विति॑ । मधु॑ । मधु॑ना । अ॒भीति॑ । यो॒धि॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tve* ← *tvad*
+- \[noun\], locative, singular
+- “you.”
+
+_________
+
+- *kratum* ← *kratu*
+- \[noun\], accusative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+
+_________
+
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+
+_________
+
+- *vṛñjanti* ← *vṛj*
+- \[verb\], plural, Present indikative
+
+_________
+
+- *viśve* ← *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *dvir* ← *dvis*
+- \[adverb\]
+- “twice; dvis \[word\].”
+
+_________
+
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *ete* ← *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+
+_________
+
+- *trir* ← *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+
+_________
+
+- *bhavanty* ← *bhavanti* ← *bhū*
+- \[verb\], plural, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *ūmāḥ* ← *ūma*
+- \[noun\], nominative, plural, masculine
+- “assistant.”
+
+_________
+
+- *svādoḥ* ← *svādu*
+- \[noun\], ablative, singular, neuter
+- “Madhura; sweet; sweet; dainty; agreeable.”
+
+_________
+
+- *svādīyaḥ* ← *svādīyas*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *svādunā* ← *svādu*
+- \[noun\], instrumental, singular, neuter
+- “Madhura; sweet; sweet; dainty; agreeable.”
+
+_________
+
+- *sṛjā* ← *sṛja* ← *sṛj*
+- \[verb\], singular, Present imperative
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+
+_________
+
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *adaḥ* ← *adas*
+- \[noun\], accusative, singular, neuter
+- “that; John Doe; yonder; from here.”
+
+_________
+
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “sweet; deft.”
+
+_________
+
+- *madhunābhi* ← *madhunā* ← *madhu*
+- \[noun\], instrumental, singular, neuter
+- “sweet; deft.”
+
+_________
+
+- *madhunābhi* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *yodhīḥ* ← *yudh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “fight; overcome.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+त्वे- त्वयि। क्रतुमपि- सङ्कल्पान् कर्माणि वा। वृञ्जन्ति- समापयन्ति। ऊमाः- यजमानाः। एते-  इमे। विश्वे- सर्वे। द्विः- जायया पत्या वा युगळभूताः। त्रिः- अपत्येन त्रिः। भवन्ति। स्वादोः  स्वादीयः- मधुरतमः सन्। स्वादुना- माधुर्येण। सृज- उत्पादय। मधु- मधुरम्। अदः- अपत्यम्।  मधुना- माधुर्येण। सम्- सम्यक्। सु- सुष्ठु। अभि- आभिमुख्येन। योधीः- योधय क्रीडयेति  भावः॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र **त्वे** त्वयि ॥ सुपां सुलुक्' इति सप्तम्येकवचनस्य शेआदेशः ॥ **विश्वे** सर्वे यजमानाः **क्रतुम्** अनुष्ठेयं कर्म **वृञ्जन्ति** समापयन्ति । अपिशब्दो ब्राह्मणोक्तसर्वभूतानां सर्वमनसां समुच्चयार्थः। सर्वाणि पृथिव्यादीनि भूतानि सर्वेषां प्राणिनां मनांसि सर्वे यज्ञक्रतवश्व व्याप्ते त्वय्येव यजमानैः परिसमाप्यन्त इत्यर्थः । तथा च ब्राह्मणं-- ‘ त्वयीमानि सर्वाणि भूतानि सर्वाणि मनांसि सर्वे क्रतवोऽपि वृञ्जन्तीत्येव तदाह ' ( ऐ. आ. १. ३. ४ ) इति । **यत्** यस्मात् **एते** **ऊमाः** तर्पकाः॥ अवतेस्तर्पणार्थादौणादिको मन्प्रत्ययः ।  ‘ ज्वरत्वर' इत्यादिना वकारोपधयोः ऊठ् ॥ ईदृशा यजमानाः पूर्वमेकाकिनः सन्तः पश्चात् **द्विः** द्विवारं स्त्रीरूपेण पुंरूपेण च जाताः सन्तः पुनरपत्येन सार्धं **त्रिः** त्रिवारं जन्मभाजः **भवन्ति** । एक एवात्मा स्त्रीपुंसरूपेण जायते । **अर्धो** वा एष आत्मनो यत्पत्नी' (तै. ब्रा. ३. ३. ३ ) इति श्रुतेः । पुत्रोऽप्यात्मैव । आत्मा वै पुत्रनामासि' (श. ब्रा. १४. ९. ४. २६) इति श्रुतेः । यत एवमेतेऽभिवृद्धा भवन्ति ततोऽवगम्यते त्वय्येवानुष्ठितं सर्वं कर्म परिसमापयन्तीति । तथा च ब्राह्मणं -- द्वौ वै सन्तौ मिथुनौ प्रजायेते प्रजात्यै ' (ऐ. आ. १, ३, ४) इति । हे इन्द्र त्वं **स्वादोः** प्रियात् गृहधनादेरपि **स्वादीयः** स्वादुतरं प्रियतरमपत्यं **स्वादुना** स्वादुभूतेन मिथुनेन मातापित्रात्मकेन **सं** **सृज** संयोजय । यद्वा । स्वादुना भावेनोत्पन्नं तदपत्यमपि संयोजय । एतदेवाह । **अदः** तदपत्यं **मधु** मधुरं **मधुना** मदहेतुना मिथुनान्तरेण पौत्रेण वा **सु** सुष्ठु **अभि** **योधीः** अभियोधय । अभितः क्रीडय ॥ धातूनामनेकार्थत्वात् युध्यतिरत्र क्रीडार्थे वर्तते ॥  ‘ मिथुनं वै स्वादु प्रजा स्वादु' (ऐ. आ. १.३.४) इत्यादि ब्राह्मणमत्रानुसंधेयम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वे तव । 'सुपां सुलुक्' इति शे आदेशः । क्रतुं कर्म पूजादिकं विश्वे सर्वेऽपि वृञ्जन्ति सकृदनुष्ठाय संस्थापयन्ति । तत्र द्विरनुष्ठानं, तेनैते स्मः अस्मदादीनां विलक्षणानां यज्ञकर्मणि वर्तमानानां सः स्वभाव इति । ये त्रिरनुतिष्ठन्ति ते ऊमाः अवितारस्सर्वस्य अस्मत्तोपि विलक्षणाः देवा भवन्ति, देवानां स स्वभाव इति । तस्मादस्माभिः द्वितीयः प्राजापत्यग्रहो गृह्यते इति । त्रिरिति । एकवाक्ये पदात्परत्वाभावाद्भवन्तीति न निहन्यते । अवतेरौणादिके मत्प्रत्यये 'ज्वरत्वर' इत्यादिना ऊठ् । तस्मात्स्वादोः पूर्वस्मात् प्राजापत्यात् स्वादीयः स्वादुतरमेतत् स्वादुना दध्यादिना संसृज संसृजामि । पुरुषव्यत्ययः, 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् । अतस्त्वमपि हे प्रजापते ग्रह एव वा । मधु मधुनः फलस्य साधनमेतत्कर्म मधुना कर्मफलेन सुष्ठु अभियोधि आभिमुख्येन संसृज । 'वा छन्दसि' इत्यपित्त्वाभावेनाङित्त्वात् 'अङितश्च' इति धिभावः, 'उतो वृद्धिः' इति व्यत्ययेन न क्रियते, 'अन्येषामपि दृश्यते' इति उकारस्य संहितायां दीर्घत्वम्, 'सुञः' इति षत्वम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“To you all (worshippers) offer adoration, whether those propitiators be two or three. Combine thatwhich is sweeter than the sweet with sweetness, unite that honey with honey.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The two or three refer to theyajamāna and his wife and child. (ardho vā eṣa ātmano yatpatnīḥ: **Taittirīya** **Brāhmaṇa** 3.3.3)
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+All bend their will toward you, even when these helpers are twice or three  times as many.  
+“Send the sweeter than sweet surging together with the sweet. With  
+honey, battle for that honey yonder.”
+</details>
+
+<details><summary>Griffith</summary>
+
+All concentrate on thee their mental vigour, what time these, twice or thrice, are thine assistants.  
+     Blend what is sweeter than the sweet with sweetness: win. quickly with our meath that meath in battle.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -28,24 +329,48 @@ Mix with the sweet what is sweeter than sweet,
 I have won with the mead the mead.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑  ।   
-स्वा॒दोस्स्वादी॑यस्स्वा॒दुना॑ सृजा॒ समत॑ ऊ॒ षु मधु॒ मधु॑ना॒भि यो॑धि  ।   
+Nach dir richten alle ihren Willen, wenn auch diese Helfer zweimal und dreimal so viele sind. Das, was süßer als süß ist, verbinde mit Süßigkeit; mit dem Süßen kämpfe fein um jenes himmlische Süß!
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-त्वे इति॑ । क्रतु॑म् । अपीति॑ । वृ॒ञ्ज॒न्ति॒ । विश्वे॑ । द्विः । यत् । ए॒ते । त्रिः । भव॑न्ति । ऊमाः॑ ॥ स्वा॒दोः । स्वादी॑यः । स्वा॒दुना॑ । सृ॒ज॒ । समिति॑ । अतः॑ । उ॒ । स्विति॑ । मधु॑ । मधु॑ना । अ॒भीति॑ । यो॒धि॒ ॥
+Sie alle wecken in dir Geisteskräfte, wenn zweimal oder dreimal sie dir beistehn, Mit Süssem misch, was süsser noch als süss ist; erkämpfe schnell durch Meth dir jenen Methtrank.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-त्वे तव । 'सुपां सुलुक्' इति शे आदेशः । क्रतुं कर्म पूजादिकं विश्वे सर्वेऽपि वृञ्जन्ति सकृदनुष्ठाय संस्थापयन्ति । तत्र द्विरनुष्ठानं, तेनैते स्मः अस्मदादीनां विलक्षणानां यज्ञकर्मणि वर्तमानानां सः स्वभाव इति । ये त्रिरनुतिष्ठन्ति ते ऊमाः अवितारस्सर्वस्य अस्मत्तोपि विलक्षणाः देवा भवन्ति, देवानां स स्वभाव इति । तस्मादस्माभिः द्वितीयः प्राजापत्यग्रहो गृह्यते इति । त्रिरिति । एकवाक्ये पदात्परत्वाभावाद्भवन्तीति न निहन्यते । अवतेरौणादिके मत्प्रत्यये 'ज्वरत्वर' इत्यादिना ऊठ् । तस्मात्स्वादोः पूर्वस्मात् प्राजापत्यात् स्वादीयः स्वादुतरमेतत् स्वादुना दध्यादिना संसृज संसृजामि । पुरुषव्यत्ययः, 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् । अतस्त्वमपि हे प्रजापते ग्रह एव वा । मधु मधुनः फलस्य साधनमेतत्कर्म मधुना कर्मफलेन सुष्ठु अभियोधि आभिमुख्येन संसृज । 'वा छन्दसि' इत्यपित्त्वाभावेनाङित्त्वात् 'अङितश्च' इति धिभावः, 'उतो वृद्धिः' इति व्यत्ययेन न क्रियते, 'अन्येषामपि दृश्यते' इति उकारस्य संहितायां दीर्घत्वम्, 'सुञः' इति षत्वम् ॥
+На тебя направляют (свою) волю все,  
+Чтобы вдвойне, втройне они были (твоими) помощниками.  
+(Что) слаще сладкого, соедини со сладким!  
+С помощью меда борись хорошенько за тот мед!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- बृहद्दिव आथर्वणः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वे-ऊमाः) हे परमात्मन् ! तेरे द्वारा सब रक्षणीय मनुष्य (क्रतुम्) अपने कर्त्तव्य कर्म को (त्वे) तेरे में (वृञ्जन्ति)त्यागते हैं-समर्पित करते हैं (यत्) जिससे कि (एते) ये (द्विः) प्रथम एक ब्रह्मचारी पुनः विवाह के अनन्तर पत्नी के सहित दो हुए (त्रिः) फिर सन्तान होने पर तीन-परिवारवाले (अपि भवन्ति) भी हो जाते हैं, यह संसार है, (स्वादोः)परन्तु इस पारिवारिक स्वाद का (स्वादीयः) तू अत्यन्त स्वादवाला है (स्वादुना) उस अपने स्वादुरूप से (सं सृज) मुझेसङ्गतकर, परिवार में तेरी उपासना चलती रहे (अदः) उस (सुमधु) सुमधु को (मधुना) पारिवारिक मधु-गृहस्थ सुख के साथ (अभियोधीः)अभिगत कर या मिलादे ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा के सब मनुष्य रक्षणीय हैं, रक्षा चाहनेवाले हैं, वे सब रक्षणीय बन जाते हैं, जबकि अपने कर्त्तव्य कर्म को परमात्मा के प्रति समर्पित कर देते हैं, निष्काम बन जाते हैं, वे ब्रह्मचारी हों या विवाहित-पति पत्नी हों या सन्तानसहित परिवारवाले हों। इस प्रकार संसार में जो लोग सुख स्वाद पाते हैं, उससे भी अधिक सुख स्वादवाला परमात्मा उसकी उपासना यदि इनमें चलती रहे, तो उसका उत्तम स्वादरूप उस सांसारिक स्वाद में मिल जाये, तो सांसारिक जीवन भी स्वादवाला हो जाता है और पतन से बच जाता है ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वे-ऊमाः) इन्द्र ! परमात्मन् ! त्वया सर्वे रक्षणीयाः मनुष्याः “भूतानि वै विश्व ऊमाः” [ऐ० आ० १।३।४] (क्रतुं त्वे वृञ्जन्ति) कर्त्तव्यं कर्म त्वयि त्यजन्ति समर्पयन्ति-एवं निष्कामा भवन्ति (यत्-एते द्विः-त्रिः-अपि भवन्ति) यतः-एते पूर्वमेको ब्रह्मचारी पुनर्द्विः-भवति, विवाह्य पत्नीं भार्यापतीत्येवं गृहस्थो भवति पुनस्त्रिः-ससन्तानस्त्रिर्भवतीति संसार एषः (स्वादोः स्वादीयः) परन्तु परिवारस्य स्वादुभूतस्य स्वादीयस्तु त्वमसि परमात्मन् (स्वादुना) स्वकीयेन स्वादुरूपेण (सं सृज) मां सङ्गमय परिवारे तवोपासना स्यात् (अदः सु मधु) यत् खलु तव तत्सुमधु (मधुना-अभि योधीः) पारिवारिकेन मधुना गृहस्थसुखेन सहाभिगमय-अभिगतं कुरु, मिश्रय वा “युध्यति गतिकर्मा” [निघ० २।१४] यद्वा “यु मिश्रणे” [अदादि०] ॥३॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

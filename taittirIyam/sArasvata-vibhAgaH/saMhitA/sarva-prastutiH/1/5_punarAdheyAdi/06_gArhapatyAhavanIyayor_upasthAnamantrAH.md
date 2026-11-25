@@ -1,6 +1,7 @@
 +++
 title = "०६ गार्हपत्याहवनीययोर् उपस्थानमन्त्राः"
 +++
+
 सपरिकर-गार्हपत्याहवनीययोर् उपस्थानमन्त्राः
 
 १, ५-७, ११-१३ गायत्री  
@@ -667,17 +668,74 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/001/08_rAjantamadhvarANAM_gopAmRtasya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-Lord of the sacrifices,  
-Guardian of holy order, shining,  
-Waxing in his own horne.
+- देवता - अग्निः
+- ऋषिः - मधुच्छन्दा वैश्वामित्रः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+रा᳓जन्तम् अध्वरा᳓णां᳐  
+गोपा᳓म् ऋत᳓स्य दी᳓दिविम्  
+व᳓र्धमानं सुवे᳓ द᳓मे
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+adhvarā́ṇām ← adhvará- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+rā́jantam ← √rāj- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dī́divim ← dī́divi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gopā́m ← gopā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tásya ← r̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+dáme ← dáma- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+své ← svá- (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+várdhamānam ← √vr̥dh- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+राज॑न्तमध्व॒राणां॑ गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
+वर्ध॑मानं॒ स्वे दमे॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+राज॑न्तमध्व॒राणां॑ गो॒पामृ॒तस्य॒ दीदि॑विम्।  
+वर्द्ध॑मानँ॒ स्वे दमे॑ ॥२३॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 राज॑न्तमध्व॒राणा॑ङ्गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
 वर्ध॑मानँ॒ स्वे दमे॑  ॥
@@ -685,7 +743,157 @@ Waxing in his own horne.
 
 <details><summary>पद-पाठः</summary>
 
+राज॑न्तम् । अ॒ध्व॒राणा॑म् । गो॒पाम् । ऋ॒तस्य॑ । दीदि॑विम् ।  
+वर्ध॑मानम् । स्वे । दमे॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+राज॑न्तम्। अ॒ध्व॒राणा॑म्। गो॒पाम्। ऋ॒तस्य॑। दीदि॑विम्। वर्ध॑मानम्। स्वे। दमे॑। २३।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+राज॑न्तम्। अ॒ध्व॒राणा॑म्। गो॒पाम्। ऋ॒तस्य॑। दीदि॑विम्। वर्ध॑मानम्। स्वे। दमे॑। १५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 राज॑न्तम् । अ॒ध्व॒राणा॑म् । गो॒पामिति॑ गो-पाम् । ऋ॒तस्य॑ । दीदि॑विम् ॥ वर्ध॑मानम् । स्वे । दमे॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *rājantam* ← *rāj*
+- \[verb noun\], accusative, singular
+- “govern; shine; glitter; direct.”
+
+_________
+
+- *adhvarāṇāṃ* ← *adhvarāṇām* ← *adhvara*
+- \[noun\], genitive, plural, masculine
+- “yajña; ceremony; adhvara \[word\].”
+
+_________
+
+- *gopām* ← *gopā*
+- \[noun\], accusative, singular, masculine
+- “herder; defender.”
+
+_________
+
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+
+_________
+
+- *dīdivim* ← *dīdivi*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *vardhamānaṃ* ← *vardhamānam* ← *vṛdh*
+- \[verb noun\], accusative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+
+_________
+
+- *sve* ← *sva*
+- \[noun\], locative, singular, masculine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+
+_________
+
+- *dame* ← *dama*
+- \[noun\], locative, singular, masculine
+- “dwelling; home.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+राजन्तम्- प्रकाशमानम्। अध्वराणाम्- अहिंसात्मकानां धर्माणां। गोपाम्- पालकं। ऋतस्य-  जगद्धारणकारणभूतप्रकृतिनियतेः। दीदिविम्- प्रकाशकं । स्वे दमे- स्वसदने वेद्यां हृदये वा। या  ते अग्ने यज्ञिया तनूस्तयेष्यारोहात्मानमिति श्रुतौ अग्नेः सदनं हृदयमुच्यते। वर्धमानम्- वृद्धिं गच्छन्तं  आगच्छामः॥८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+पूर्वमन्त्रे त्वामुपैम इत्यग्निमुद्दिश्योक्तम् । कीदृशं त्वाम् । राजन्तं दीप्यमानम् **अध्वराणां** राक्षसकृतहिंसारहितानां यज्ञानां **गोपां** रक्षकम् **ऋतस्य** सत्यस्यावश्यंभाविनः कर्मफलस्य **दीदिविं** पौनःपुन्येन भृशं वा द्योतकम् । आहुत्याधारमग्निं दृष्ट्वा शास्त्रप्रसिद्धं कर्मफलं स्मर्यते । **स्वे** **दमे** स्वकीयगृहे यज्ञशालायां हविर्भिः **वर्धमानम्** ॥ राजन्तं वर्धमानमित्यत्रोभयत्र पूर्ववत् धातुस्वरः शिष्यते। दीदिविशब्दस्य ‘अभ्यस्तानामादिः' (पा. सू. ६. १. १८९) इत्याद्युदात्तत्वम् । दमशब्दो वृषादित्वात् ( पा. सू. ६. १. २०३ ) आद्युदात्तः ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+राजन्तमध्वराणाम्।
+
+अस्मिन्मन्त्रे आख्यातं नाम्नातमतोऽधस्तनमन्त्रे यदाख्यातं तदनुवर्तते।
+
+राजन्तं दीप्यमानम्।
+
+अध्वराणां गोपां यज्ञानां गोप्तारम्।
+
+ऋतस्य दीदिविम् सत्यस्य दीपयितारम्।
+
+अग्निसमीपे व्रतं गृहीत्वा सत्यं वदति तदभिप्रायमेतत्।
+
+वर्धमानम् चातुर्मास्यपशुसोमैः।
+
+स्वेदमे स्वकीये यज्ञगृहे।
+
+दम इति गृहनाम॥
+
+दास्यन्ति हि गृहस्थाः।
+
+उप आ इमसीत्यनुवर्तते॥ २३॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+क्रियापदमनुवर्तते।
+
+वयमीदृशमग्निमुपैमः।
+
+कीदृशम्। ।
+
+राजन्तं दीप्यमानमध्वराणां गोपां गोपायतीति गोपास्तं यज्ञानां गोप्तारम्।
+
+ऋतस्य सत्यवचनलक्षणस्य व्रतस्य दीदिविं दीपयितारम्।
+
+अग्निसमीपे व्रतं गृहीत्वा सत्यं वदतीत्याशयः।
+
+स्वे दमे अस्मदीये गृहे वर्धमानं चातुर्मास्यसोमपश्वादिभिरभिवृद्धिं गच्छन्तम्।
+
+दाम्यन्ति गृहस्था यत्रेति दमो गृहम्।
+
+: दिवेः किप्रत्ययो बाहुलकात्।
+
+लिड्वद्भावात् द्वित्वम्।
+
+‘तुजादीनां दीर्घोऽभ्यासस्य’ (पा०६.१.७) इत्यभ्यासदीर्घः।
+
+देवयतीति दीदिविः॥ २३॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथाष्टाद् अश: - 'राजन्तम् अध्वराणां गोपाम् ऋतस्य दीदिविम् । वर्धमान स्वे दमे ' इति ।
+
+राजतं दीप्यमानम् अध्वराणां गोपां यज्ञानां गोतारम् ।
+
+ऋतस्य सत्य-वचन-लक्षणस्य व्रतस्य 'दीदिवि दीपयितारम् "स्वे दमे अस्मदीये गृहे 'वर्धमानं चातुर्मास्य सोम-पश्वादिभिरभिवृद्धिं गच्छन्तं स्वामुपैमीत्यनुवर्तते । अत्र वर्धमान-शब्दस्य तात्पर्यं कण्वो दर्शयति- “ यद् अस्माकं पुष्टं तं नो भूयो भूम एव कुरु । तन्नो वर्धयेत्येवैतदाह ” ( काशबा १.४.१.२२ ) इति ॥१५॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+हे भगवन्नने, "राजन्तं दीप्यमानम् अध्वराणां यज्ञानां गोपां गोप्तारम् ऋतस्य सत्य-वदन-लक्षण-व्रतस्य दीदिवि दीपयितारम् । वर्धमानं चातुर्मास्यप शुसोमादिभिर् अभिवर्धमानम् । । । "खे दमे ।
+
+दम इति गृह-नाम ।
+
+स्वकीये गृहे वर्धमानम् ।
+
+त्वामुपैमेत्यनुषङ्गः ॥ १५ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -698,6 +906,148 @@ Waxing in his own horne.
 
 वर्धमानं समिद्भिर् हविर्भिश्र स्वे **दमे** नः गृहे अग्निहोत्रवेश्मनि ।  
 तं त्वामुपेमसीति ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर ईश्वर और अग्नि के गुणों का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (नमः) अन्न से सत्कारपूर्वक (भरन्तः) धारण करते हुए हम लोग (धिया) बुद्धि वा कर्म से (अध्वराणाम्) अग्निहोत्र से लेकर अश्वमेधपर्यन्त यज्ञ वा (गोपाम्) इन्द्रिय पृथिव्यादि की रक्षा करने (राजन्तम्) प्रकाशमान (ऋतस्य) अनादि सत्यस्वरूप कारण के (दीदिविम्) व्यवहार को करने वा (स्वे) अपने (दमे) मोक्षरूप स्थान में (वर्धमानम्) वृद्धि को प्राप्त होनेवाले परमात्मा को (उपैमसि) नित्य प्राप्त होते हैं ॥१॥२३॥ जिस परमात्मा ने (अध्वराणाम्) शिल्पविद्यासाध्य यज्ञ वा (गोपाम्) पश्वादि की रक्षा करने[वाला, (राजन्तम्) प्रकाशमान] (ऋतस्य) जल के (दीदिविम्) व्यवहार को प्रकाश करनेवाला (स्वे) अपने (दमे) शान्तस्वरूप में (वर्धमानम्) वृद्धि को प्राप्त होता हुआ अग्नि प्रकाशित किया है, उसको (नमः) सत्क्रिया से (भरन्तः) धारण करते हुए हम लोग (धिया) बुद्धि और कर्म से (उपैमसि) नित्य प्राप्त होते हैं ॥२॥२३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में श्लेषालङ्कार है और नमः, भरन्तः, धिया, उप, आ, इमसि, इन छः पदों की अनुवृत्ति पूर्वमन्त्र से जाननी चाहिये। परमेश्वर आदि रहित सत्यकारणरूप से सम्पूर्ण कार्यों को रचता और भौतिक अग्नि जल की प्राप्ति के द्वारा सब व्यवहारों को सिद्ध करता है, ऐसा मनुष्यों को जानना चाहिये ॥२३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनरीश्वराग्निगुणा उपदिश्यन्ते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  नमो भरन्तो वयं धियाऽध्वराणां गोपां राजन्तमृतस्य दीदिविं स्वे दमे वर्धमानं जगदीश्वरमुपैमसि नित्यमुपाप्नुम इत्येकः ॥२३॥ येन परमात्मनाऽध्वराणां गोपा राजन्नृतस्य दीदिविः स्वे दमे वर्धमानोऽग्निः प्रकाशितोऽस्ति, तं नमो भरन्तो वयं धियोपैमसि नित्यमुपाप्नुम इति द्वितीयः ॥२३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र श्लेषालङ्कारः। नमः, भरन्तः, धिया, उप, आ, इमानि, इत्येतेषां षण्णां पदानां पूर्वस्मान्मन्त्रादनुवृत्तिर्विज्ञेया। परमेश्वरोऽनादिस्वरूपस्य कारणस्य सकाशात् सर्वाणि कार्याणि रचयति भौतिकोऽग्निश्च जलस्य प्रापणेन सर्वान् व्यवहारान् साधयतीति वेद्यम् ॥२३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. नमः भरन्तः, धिया, उप, आ, इमसि या सहा पदांची अनुवृत्ती पूर्वीच्या मंत्रातून जाणली पाहिजे. परमेश्वर अनादी सत्य कारणाद्वारे संपूर्ण जगाची रचना करतो व भौतिक अग्नी जलाच्या माध्यमाने सर्व व्यवहार सिद्ध करतो हे माणसांनी जाणले पाहिजे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“You, the radiant, the protector of sacrifice, the constant illuminator of truth, increasing in your own dwelling.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+(You), ruling over the rites, the shining herdsman of the truth,  
+growing strong in your own home.
+</details>
+
+<details><summary>Griffith</summary>
+
+Ruler of sacrifices, guard of Law eternal, radiant One,  
+   Increasing in thine own abode.
+</details>
+
+<details><summary>Keith</summary>
+
+Lord of the sacrifices,  
+Guardian of holy order, shining,  
+Waxing in his own horne.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Who art the king of all worship, the guardian of Rita, the shining one, increasing in thy own house.
+</details>
+
+<details><summary>Macdonell</summary>
+
+To thee the lord of sacrifice, The radiant guardian of the Law, That growest in thine own abode.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dem Walter der Opferhandlungen, dem Hüter des rechten Brauches, dem leuchtenden, der im eigenen Haus heranwächst.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dir, der die Opfer du beherrschst, der glänzend du das Werk beschirmst, Und in dem eignen Haus gedeihst.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+К царящему при обрядах,  
+К пастырю закона, сверкающему,  
+К возрастающему в доме своем.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- यवमध्याविराड्गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- वैश्वामित्रो मधुच्छन्दा ऋषिः
+- विराड् गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर भी वह परमेश्वर किस प्रकार का है, सो अगले मन्त्र में उपदेश किया है॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हम लोग (स्वे) अपने (दमे) उस परम आनन्द पद में कि जिसमें बड़े-बड़े दुःखों से छूट कर मोक्ष सुख को प्राप्त हुए पुरुष रमण करते हैं, (वर्धमानम्) सब से बड़ा (राजन्तम्) प्रकाशस्वरूप (अध्वराणाम्) पूर्वोक्त यज्ञादि अच्छे-अच्छे कर्म धार्मिक मनुष्यों के (गोपाम्) रक्षक (ऋतस्य) सत्यविद्यायुक्त चारों वेदों और कार्य जगत् के अनादि कारण के (दीदिविम्) प्रकाश करनेवाले परमेश्वर को उपासना योग से प्राप्त होते हैं॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  विनाश और अज्ञान आदि दोषरहित परमात्मा अपने अन्तर्यामिरूप से सब जीवों को सत्य का उपदेश तथा श्रेष्ठ विद्वान् और सब जगत् की रक्षा करता हुआ अपनी सत्ता और परम आनन्द में प्रवृत्त हो रहा है। उस परमेश्वर के उपासक हम भी आनन्दित, वृद्धियुक्त विज्ञानवान् होकर विज्ञान में विहार करते हुए परम आनन्दरूप विशेष फलों को प्राप्त होते हैं॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  वयं स्वे दमे वर्धमानं राजन्तमध्वराणां गोपामृतस्य दीदिविं परमेश्वरं नित्यमुपैमसि॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स कीदृशोऽस्तीत्युपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (राजन्तम्) प्रकाशमानम् (अध्वराणाम्) पूर्वोक्तानां यज्ञानां धार्मिकाणां मनुष्याणां वा (गोपाम्) गाः पृथिव्यादीन् पाति रक्षति तम् (ऋतस्य) सत्यस्य सर्वविद्यायुक्तस्य वेदचतुष्टयस्य सनातनस्य जगत्कारणस्य वा। ऋतमिति सत्यनामसु पठितम्। (निघं०३.१०) ऋत इति पदनामसु च। (निघं०५.४) (दीदिविम्) सर्वप्रकाशकम्। दिवो द्वे दीर्घश्चाभ्यासस्य। (उणा०४.५५) अनेन क्विन्प्रत्ययः। (वर्धमानम्) ह्रासरहितम् (स्वे) स्वकीये (दमे) दाम्यन्त्युपशाम्यन्ति दुःखानि यस्मिंस्तस्मिन् परमानन्दे पदे। दमुधातोः हलश्च। (अष्टा०३.३.१२१) अनेनाधिकरणे घञ्प्रत्ययः॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा स्वस्य सत्तायामानन्दे च क्षयाज्ञानरहितोऽन्तर्यामिरूपेण सर्वान् जीवान्सत्यमुपदिशन्नाप्तान् संसारं च रक्षन् सदैव वर्तते। एतस्योपासका वयमप्यानन्दिता वृद्धियुक्ता विज्ञानवन्तो भूत्वाऽभ्युदयनिःश्रेयसं प्राप्ताः सदैव वर्त्तामह इति॥८॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जसे विनाश व अज्ञान इत्यादी दोषांनी रहित परमेश्वर आपल्या अंतर्यामी रूपाने सर्व जीवांना सत्याचा उपदेश करतो व श्रेष्ठ विद्वानाचे आणि जगाचे रक्षण करतो, परमेश्वर स्वतः अत्यंत आनंदमय असतो. तसेच परमेश्वराचे उपासकही आनंदित, वर्धित होऊन विज्ञानवंत बनून परम आनंदरूपी विशेष फळ प्राप्त करतात. ॥ ८ ॥
 </details>
 </details>
 
@@ -724,17 +1074,77 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/001/09_sa_naH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-O Agni, be of easy access to us,  
-As a father to his son;  
-Befriend us for prosperity.
+- देवता - अग्निः
+- ऋषिः - मधुच्छन्दा वैश्वामित्रः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+स᳓ नः पिते᳓व सून᳓वे  
+अ᳓ग्ने सूपायनो᳓ भव  
+स᳓चस्वा नः सुअस्त᳓ये
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+iva ← iva (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+sūnáve ← sūnú- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+bhava ← √bhū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sūpāyanáḥ ← sūpāyaná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+sácasva ← √sac- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svastáye ← svastí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ पि॒तेव॑ सू॒नवेऽग्ने॑ सूपाय॒नो भ॑व ।  
+सच॑स्वा नः स्व॒स्तये॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 स नᳶ॑ पि॒तेव॑ सू॒नवेऽग्ने॑ सूपाय॒नो भ॑व ।  
 सच॑स्वा नस्स्व॒स्तये॑  ॥
@@ -742,13 +1152,332 @@ Befriend us for prosperity.
 
 <details><summary>पद-पाठः</summary>
 
+सः । नः॒ । पि॒ताऽइ॑व । सू॒नवे॑ । अग्ने॑ । सु॒ऽउ॒पा॒य॒नः । भ॒व॒ ।  
+सच॑स्व । नः॒ । स्व॒स्तये॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+सः। नः॒। पि॒तेवेति॑ पि॒ताऽइ॑व। सू॒नवे॑। अग्ने॑। सू॒पा॒य॒न इति॑ सुऽउ॒पा॒य॒नः। भ॒व॒। सच॑स्व। नः॒। स्व॒स्तये॑। २४।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+सः। नः॒। पि॒तेत्रेति॑ पि॒ताऽइ॑व। सू॒नवे॑। अग्ने॑। सुमा॒य॒न इति॑ सु॒ऽउ॒पय॑नः। क्ष॒त्र॒। सच॑स्व। नः॒। स्व॒स्तये॑। १६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 सः । नः॒ । पि॒ता । इ॒व॒ । सू॒नवे॑ । अग्ने॑ । सू॒पा॒य॒न इति॑ सु-उ॒पा॒य॒नः । भ॒व॒ ॥ सच॑स्व । नः॒ । स्व॒स्तये॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *piteva* ← *pitā* ← *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *piteva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *sūnave* ← *sūnu*
+- \[noun\], dative, singular, masculine
+- “son; offspring.”
+
+_________
+
+- *'gne* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *sūpāyano* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *sūpāyano* ← *upāyanaḥ* ← *upāyana*
+- \[noun\], nominative, singular, masculine
+- “gift; offering; bribe; engagement; approach.”
+
+_________
+
+- *bhava* ← *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *sacasvā* ← *sac*
+- \[verb\], singular, Present imperative
+- “accompany; follow; company; obey; participate; enter.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *svastaye* ← *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशस्त्वं । अग्ने। सूनवे- पुत्राय। पिता- जनकः। इव। नः- अस्माकं । सूपायनः-  शोभनोपायनो भव। नः स्वस्तये- अस्माकं मङ्गलाय। सचस्वा- समवेतो भव॥९॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **सः** त्वं **नः** अस्मदर्थं सूपायनः शोभनप्राप्तियुक्तः **भव** । तथा नः अस्माकं **स्वस्तये** विनाशराहित्यार्थं **सचस्व** समवेतो भव । तन्नोभयत्र दृष्टान्तः । यथा **सूनवे** पुत्रार्थं पिता सुप्रापः प्रायेण समवेत्तो भवति तद्वत् ॥ अस्मच्छब्दादेशस्य न इत्येतस्य अनुदात्तं सर्वम् ' ( पा. सू. ८. १. १८ ) इत्यनुदात्तत्वम् । ‘चादयोऽनुदात्ताः' (फि. सू. ८४ ) इति इवशब्देऽनुदात्तः । ‘इवेन नित्यसमासः पूर्वपदकृतिस्वरत्वं च वक्तव्यम्' (पा. सू. २. १. ४. २ ) इति समस्तः पितेवेति शब्दो मध्योदात्तः। शोभनमुपायनं यस्येति बहुव्रीहौ ‘नञ्सुभ्याम् ' ( पा. सू. ६. २. १७२) इत्यन्तोदात्तत्वम् । सचस्वेत्यत्र पदात्परत्वं नास्तीति न निघातः। लसार्वधातुकानुदात्तत्वे सति धातुस्वरावशेषः ॥ ॥ २ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+स नः पितेव।
+
+यस्त्वमुक्तगुणः सोऽस्माकं पिता इव सूनवे पुत्राय हे भगवन्नग्ने, सूपायनः सुखोपगमनो भव।
+
+किंच सचस्वा नः स्वस्तये।
+
+सचस्व सेवस्व नः अस्मान् ।
+
+स्वस्तये अविनाशाय॥ २४॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे अग्ने गार्हपत्य, स पूर्वोक्तगुणयुक्तस्त्वं नोऽस्माकं ।
+
+सूपायनो भव।
+
+सुखेनोपैतुं शक्यः सूपायनः।
+
+सुष्ठूपप्राप्तुं ।
+
+शक्यो भव।
+
+तत्र दृष्टान्तः।
+
+सूनवे पितेव यथा पुत्राय पिता भयं विना सुखेन प्राप्तुं शक्यः।
+
+किंच नोऽस्माकं स्वस्तये क्षेमाय सचस्व अनेन कर्मणा समवेतो भव।
+
+‘षच समवाये’ इति धातुः।
+
+यद्वा सचस्व सेवस्व।
+
+‘षच सेवने’॥ २४॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथैकोन-विशः - स नः पितेव सूनवे ऽग्ने सुपायनो भव ।
+
+सचस्वा नः स्वस्तये ' इति । हे 'अने गाईपत्य, अत्र पूर्वोक्त गुण-युक्तस्त्वं 'नः अस्माकं 'सूपायनः 'भव । सुष्टुप प्राप्तुं शक्यो भव । तन Vसूनवे पितेव । यथा पुत्राय पिता भयं विना सुखेन प्राप्तुं शक्यस् तद्वत् । 'नः अस्माकं 'स्वस्तये क्षेमा 'सचस्व अनेन कर्मणा समवेतो भव ।
+
+षच समवाये ।
+
+यद् वा सचस्व सेवस्व ।
+
+पच सेवने ।
+
+अत्र दृष्टान्त-तात्पर्यं कण्वो दर्शयति- " यथा पिता पुत्राय सूत्र-चर एवं नः सूप-चर एधीत्येवैतदाह " ( काशमा १.४.१.२३ ) इति ॥ १६ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+हे भगवन् अग्ने, यस्त्वम् एवं-गुणः सो ऽस्माकं पितेव सूनवे पुत्राय पितेव सूपायनः ।
+
+अत्र अय, पय, चय गतौ ।
+
+सुखोपगमनः "भत्र । किं च, सचस्व नः अस्मान् । सच से (व) नेच । सिश्च सेच (? व स्व वा । स्वस्तये स्वस्तीत्य्-अविनाशिनाम । अविनाशाय ॥ १६ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने स त्वं नः अस्मभ्यं पितेव सूनवे तात इव पुत्राय सूपायनः सूपचरणः सुखेनोपचरणीयः परिचरणीयो वा भव । 'छन्दसि गत्यर्थेभ्यः' इति युच् । शोभनोपायनो वा ।   
 किञ्च - नः अस्मान् स्वस्तये अविनाशाय **सचस्व** सङ्गच्छस्व मा कदाचिदपि मुचः । 'अन्येषामपि दृश्येत' इति संहितायां दीर्घत्वम् । स्वस्तय इति विभक्त्यन्तप्रतिरूपोव्ययः ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+अब अगले मन्त्र में ईश्वर ही का उपदेश किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) जगदीश्वर ! जो आप कृपा करके जैसे (सूनवे) अपने पुत्र के लिये (पितेव) पिता अच्छे-अच्छे गुणों को सिखलाता है, वैसे (नः) हमारे लिये (सूपायनः) श्रेष्ठ ज्ञान के देनेवाले (भव) हैं, वैसे (सः) सो आप (नः) हम लोगों को (स्वस्तये) सुख के लिये निरन्तर (सचस्व) संयुक्त कीजिये ॥२४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे सब के पालन करनेवाले परमेश्वर ! जैसे कृपा करनेवाला कोई विद्वान् मनुष्य अपने पुत्रों की रक्षा कर श्रेष्ठ-श्रेष्ठ शिक्षा देकर विद्या, धर्म अच्छे-अच्छे स्वभाव और सत्य विद्या आदि गुणों में संयुक्त करता है, वैसे ही आप हम लोगों की निरन्तर रक्षा करके श्रेष्ठ-श्रेष्ठ व्यवहारों में संयुक्त कीजिये ॥२४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथाग्रिमेण मन्त्रेणेश्वर एवोपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे अग्ने जगदीश्वर ! यस्त्वं कृपया सूनवे पितेव नोऽस्मभ्यं सूपायनो भवसि, स त्वं नोऽस्मान् स्वस्तये सततं सचस्व संयोजय ॥२४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। हे सर्वपितरीश्वर ! यथा कृपायमाणो विद्वान् पिता स्वसन्तानान् संरक्ष्य सुशिक्ष्य च विद्याधर्मसुशीलतादिषु संयोजयति, तथैव भवानस्मान् निरन्तरं रक्षित्वा श्रेष्ठेषु व्यवहारेषु संयोजयत्विति ॥२४॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे सर्वांचे पालन करणाऱ्या ईश्वरा ! एखादा विद्वान आपल्या पुत्रावर कृपादृष्टी ठेवतो व त्याचे रक्षण करतो. त्याला श्रेष्ठ शिक्षण देऊन सत्यविद्या, धर्म इत्यादी चांगले गुण शिकवितो तसेच तूही आमचे निरंतर रक्षण करून आम्हाला श्रेष्ठ कर्मात प्रवृत्त कर.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, be to us easy of access, as is a father to his son; be ever present with us for our good.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Like a father for a son, be of easy approach for us, o Agni.  
+Accompany us for our well-being.
+</details>
+
+<details><summary>Griffith</summary>
+
+Be to us easy of approach, even as a father to his son:  
+   Agni, be with us for our weal.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, be of easy access to us,  
+As a father to his son;  
+Befriend us for prosperity.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Thus, O Agni, be easy of access to us, as a father is to his son. Stay with us for our happiness.
+</details>
+
+<details><summary>Macdonell</summary>
+
+So, like a father to his son, Be easy of approach to us; Agni, for weal abide with us.
+</details>
+
+<details><summary>Geldner</summary>
+
+Sei du Agni uns zugänglich wie ein Vater dem Sohne! Sei mit uns zum Heile!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Gewähre, Agni, uns Gehör, sowie der Vater seinem Sohn, Geleite uns zum Wohlergehn.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Как отец – сыну,  
+О Агни, будь доступен нам!  
+Сопровождай нас ради блага!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- विराड्गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- वैश्वामित्रो मधुच्छन्दा ऋषिः
+- विराड् गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+वह परमेश्वर किस के समान किनकी रक्षा करता है, सो अगले मन्त्र में उपदेश किया है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सः) उक्त गुणयुक्त (अग्ने) ज्ञानस्वरूप परमेश्वर ! (पितेव) जैसे पिता (सूनवे) अपने पुत्र के लिये उत्तम ज्ञान का देनेवाला होता है, वैसे ही आप (नः) हम लोगों के लिये (सूपायनः) शोभन ज्ञान, जो कि सब सुखों का साधक और उत्तम पदार्थों का प्राप्त करनेवाला है, उसके देनेवाले (भव) हूजिये तथा (नः) हम लोगों को (स्वस्तये) सब सुख के लिये (सचस्व) संयुक्त कीजिये॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। सब मनुष्यों को उत्तम प्रयत्न और ईश्वर की प्रार्थना इस प्रकार से करनी चाहिये कि-हे भगवन् ! जैसे पिता अपने पुत्रों को अच्छी प्रकार पालन करके और उत्तम-उत्तम शिक्षा देकर उनको शुभ गुण और श्रेष्ठ कर्म करने योग्य बना देता है, वैसे ही आप हम लोगों को शुभ गुण और शुभ कर्मों में युक्त सदैव कीजिये॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अग्ने ! स त्वं सूनवे पितेव नोऽस्मभ्यं सूपायनो भव। एवं नोऽस्मान् स्वस्तये सचस्व॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+स कान् क इव रक्षतीत्युपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सः) जगदीश्वरः (नः) अस्मभ्यम् (पितेव) जनकवत् (सूनवे) स्वसन्तानाय (अग्ने) ज्ञानस्वरूप ! (सूपायनः) सुष्ठु उपगतमयनं ज्ञानं सुखसाधनं पदार्थप्रापणं यस्मात्सः (भव, सचस्व) समवेतान् कुरु। अन्येषामपि दृश्यते। (अष्टा०६.३.१३७) इति दीर्घः। (नः) अस्मान् (स्वस्तये) सुखाय कल्याणाय च॥९॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। सर्वैरेवं प्रयत्नः कर्तव्य ईश्वरः प्रार्थनीयश्च-हे भगवन् ! भवानस्मान् रक्षयित्वा शुभेषु गुणकर्मसु सदैव नियोजयतु। यथा पिता स्वसन्तानान्सम्यक् पालयित्वा सुशिक्ष्य शुभगुणकर्म्मयुक्तान् श्रेष्ठकर्मकर्तंॄश्च सम्पादयति, तथैव भवानपि स्वकृपयाऽस्मान्निष्पादयत्विति॥९॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. सर्व माणसांनी कर्तव्य पालन करताना उत्तम प्रयत्न केले पाहिजेत व या प्रकारे ईश्वराची प्रार्थना केली पाहिजे - हे भगवान! जसा पिता आपल्या पुत्रांचे चांगल्या प्रकारे पालन करून त्यांना उत्तमोत्तम शिक्षण देऊन शुभ गुण व श्रेष्ठ कर्म करण्यायोग्य बनवितो, तसेच तू आम्हाला शुभ गुणकर्मांनी सदैव युक्त कर. ॥ ९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - पादटिप्पनी</summary>
+
+टिप्पणी:   सायणाचार्य इत्यादी व युरोपियन डॉक्टर विल्सन इत्यादींनी या सूक्ताची व्याख्या विपरीत केलेली आहे. तेव्हा हे माझे भाष्य व त्यांची व्याख्या पाहता सर्वांना स्पष्ट कळून येईल. ॥
 </details>
 </details>
 
@@ -868,6 +1597,12 @@ sumnā́ya ← sumná- (nominal stem)
 तं त्वा॑ शोचिष्ठ दीदिवः सु॒म्नाय॑ नू॒नमी॑महे॒ सखि॑भ्यः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तन्त्वा॑ शोचिष्ठ दीदिवः ।    
+सु॒म्नाय॑ नू॒नमी॑महे॒ सखि॑भ्यः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । त्वा॒ । शो॒चि॒ष्ठ॒ । दी॒दि॒ऽवः॒ । सु॒म्नाय॑ । नू॒नम् । ई॒म॒हे॒ । सखि॑ऽभ्यः ॥
@@ -985,6 +1720,11 @@ _________
 सुम्नं सुखं नूनं निश्चयेन ईमहे याचामहे।
 
 यद्वा सुम्नाय सुखार्थं सखिभ्योऽस्मत्सखीनामुपकाराय च त्वामीमहे।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे शोचिष्ठ दीदिवः शुद्धतम दीप्यमान सखिभ्यः सखीनामस्माकं सुम्नाय सुखाय न्नं पूर्वोक्तगुणयुक्तं त्वामीमहे प्राप्नुमः ।
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
@@ -1113,16 +1853,70 @@ Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/107_vasur_agnir.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/024/02_vasuragnirvasushravA_achChA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-Agni, bright, of bright fame,  
-Come hither in thy greatest splendour and give us wealth.
+- देवता - अग्निः
+- ऋषिः - गौपायना लौपायना वा बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च
+- छन्दः - द्विपदा विराट्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+व᳓सुर् अग्नि᳓र् व᳓सुश्रवा  
+अ᳓छा नक्षि द्युम᳓त्तमं रयिं᳓ दाः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
+_________
+**Morph**  
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuḥ ← vásu- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vásuśravāḥ ← vásuśravas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ácha ← ácha (invariable)  
+{}
+
+dāḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dyumáttamam ← dyumáttama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nakṣi ← √naś- 1 (root)  
+{number:SG, person:2, mood:IMP, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसु॑र॒ग्निर्वसु॑श्रवा॒ अच्छा॑ नक्षि द्यु॒मत्त॑मं र॒यिं दाः॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+वसु॑र॒ग्निर्वसु॑श्रवा॒ऽअच्छा॑ नक्षि द्यु॒मत्त॑मँ र॒यिं दाः॑।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वसु॑र॒ग्निर्वसु॑श्रवाः ।  
 अच्छा॑ नक्षि द्यु॒मत्त॑मो र॒यिन्दाः॑  ॥
@@ -1130,12 +1924,212 @@ Come hither in thy greatest splendour and give us wealth.
 
 <details><summary>पद-पाठः</summary>
 
+वसुः॑ । अ॒ग्निः । वसु॑ऽश्रवाः । अच्छ॑ । न॒क्षि॒ । द्यु॒मत्ऽत॑मम् । र॒यिम् । दाः॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वसुः॑। अ॒ग्निः। वसु॑श्रवा॒ इति॒ वसु॑ऽश्रवाः। अच्छ॑। न॒क्षि॒। द्यु॒मत्त॑म॒मिति॑ द्यु॒मत्ऽत॑मम्। र॒यिम्। दाः॒।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 वसुः॑ । अ॒ग्निः । वसु॑श्रवा॒ इति॒ वसु॑-श्र॒वाः॒ ॥ अच्छ॑ । न॒क्षि॒ । द्यु॒मत्त॑म॒ इति॑ द्यु॒मत्-त॒मः॒ । र॒यिम् । दाः॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vasur* ← *vasuḥ* ← *vasu*
+- \[noun\], nominative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+
+_________
+
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *vasuśravā* ← *vasu*
+- \[noun\]
+- “good; good; benign; vasu \[word\].”
+
+_________
+
+- *vasuśravā* ← *śravāḥ* ← *śravas*
+- \[noun\], nominative, singular, masculine
+- “fame; glory; ear.”
+
+_________
+
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+
+_________
+
+- *nakṣi* ← *naś*
+- \[verb\], singular, Aorist conj./subj.
+- “reach; achieve; enter (a state); reach.”
+
+_________
+
+- *dyumattamaṃ* ← *dyumattamam* ← *dyumattama*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *rayiṃ* ← *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+
+_________
+
+- *dāḥ* ← *dā*
+- \[verb\], singular, Aorist conj./subj.
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। त्वम्। नः- अस्माकम्। अन्तमः- अन्तिकतमः। उत- अपि च। त्राता- रक्षकः। शिवः-  मङ्गळः। वरूथ्यः- श्रेष्ठः। भव। वसुः- शरण्यः। अग्निः। वसुश्रवाः- शरण्यभूतश्रुतिसम्पन्नः।  अच्छ- अस्मानभिलक्ष्य। नक्षि- व्याप्नुहि। द्युमत्तमम्- अतिशयेन दीप्ताम्। रयिम्-  दानयोग्यसम्पदम्। दाः- यच्छ॥१॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वसुः** वासकः **अग्निः** सर्वेषामग्रणीः **वसुश्रवाः** व्याप्तान्नस्त्वम् **अच्छ** आभिमुख्येन **नक्षि** अस्मान् व्याप्नुहि **द्युमत्तमम्** अतिशयेन दीप्तिमन्तं **रयिं** पश्वादिलक्षणं धनं **दाः** अस्मभ्यं देहि ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9वसुरिति ॥ **वसुः** वसुमान् । मत्वर्थीयो लुप्यते । **अग्निः** अङ्गनादिगुणयुक्तः **वसुश्रवाः** वासयतीति वसुः तादृशं श्रवणं यस्य तादृशः । वसुभिर्वा श्रूयत इति वसुश्रवाः । 'गतिकारकयोरपि इति पूर्वपदप्रकृतिस्वरत्वञ्च' इत्यसुन् । स त्वमस्मान् **अच्च्छ** आभिमुख्येन **नक्षि** प्राप्नुहि । 'निपातस्य च' इति संहितायां दीर्घत्वम् । नशतिर्गतिकर्मा 'बहुळं छन्दसि' इति शपोलुक् । अस्मान् प्राप्य चास्मभ्यं द्युमत्तमः दीप्तिमत्तमः तं रयिं धनं दाः देहि । दधातेर्लिटि पूर्ववच्छपोलुक् । 'ह्रस्वनुङ्भ्याम्मतुप्' इति द्योर्मतुप उदात्तत्वम् ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) सब की रक्षा करनेवाले जगदीश्वर ! जो (त्वम्) आप (वसुश्रवाः) सब को सुनने के लिये श्रेष्ठ कानों को देने (वसुः) सब प्राणी जिसमें वास करते हैं वा सब प्राणियों के बीच में बसने हारे और (अग्निः) विज्ञानप्रकाशयुक्त (नक्षि) सब जगह व्याप्त अर्थात् रहनेवाले हैं, सो आप (नः) हम लोगों के (अन्तमः) अन्तर्यामी वा जीवन के हेतु (त्राता) रक्षा करनेवाले (वरूथ्यः) श्रेष्ठ गुण, कर्म और स्वभाव में होने (शिवः) तथा मङ्गलमय मङ्गल करनेवाले (भव) हूजिये और (उत) भी (नः) हम लोगों के लिये (द्युमत्तमम्) उत्तम प्रकाशों से युक्त (रयिम्) विद्याचक्रवर्ति आदि धनों को (अच्छ दाः) अच्छे प्रकार दीजिये ॥२५॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को ऐसा जानना चाहिये कि परमेश्वर को छोड़कर और हमारी रक्षा करने वा सब सुखों के साधनों का देनेवाला कोई नहीं है, क्योंकि वही अपने सामर्थ्य से सब जगह परिपूर्ण हो रहा है ॥२५॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे अग्ने ! यस्त्वं वसुश्रवा वसुरग्निर्नक्षि सर्वत्र व्याप्तोऽसि, स त्वं नोऽस्माकमन्तमस्त्राता वरूथ्यः शिवो भव उतापि नोऽस्मभ्यं द्युमत्तमं रयिमच्छ दाः सम्यग्देहि ॥२५॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैरित्थं वेदितव्यं परमेश्वरं विहाय नोऽस्माकं कश्चिदन्यो रक्षको नास्तीति, कुतस्तस्य सर्वशक्तिमत्त्वेन सर्वत्राभिव्यापकत्वादिति ॥२५॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी हे जाणले पाहिजे की, परमेश्वराशिवाय आपले रक्षण करणारा किंवा सर्व सुखाची साधने देणारा कोणी नाही. कारण तोच आपल्या सामर्थ्याने सर्व ठिकाणी पूर्णपणे व्याप्त व परिपूर्ण आहे.
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Agni is good and famed for goods. Arrive here and give the most  brilliant wealth.
+</details>
+
+<details><summary>Griffith</summary>
+
+Excellent Agni, come thou nigh to us, and give us wealth most splendidly renowned.
+</details>
+
+<details><summary>Keith</summary>
+
+Agni, bright, of bright fame,  
+Come hither in thy greatest splendour and give us wealth.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+Come as good Agni, come as excellent and give us wealth most splendidly renowned.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Agni is Vasu, renowned as Vasu (or, renowned by goods). Obtain, (and) bestow (on us), most brilliant wealth 1.
+</details>
+
+<details><summary>Geldner</summary>
+
+Gut ist Agni, von gutem Rufe. Komm herbei, schenk uns glänzendsten Reichtum!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Als guter Agni, Gut-berühmt, komm her und gib uns allerschönsten Reichthum.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च गौपयाना लौपयाना वा
+- पूर्वार्द्धस्य साम्नी बृहत्युत्तरार्द्धस्य भुरिग्बृहती
+- मध्यमः
+
+- अग्निर्देवता
+- सुबन्धुर्ऋषिः
+- भुरिग् बृहती
+- मध्यमः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब चार ऋचावाले चौबीसवें सूक्त का प्रारम्भ है, उसके प्रथम मन्त्र में अग्निपदवाच्य राजविषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) राजन् ! (त्वम्) आप (नः) हम लोगों के हम लोगों को वा हम लोगों के लिये (अन्तमः) समीप में वर्त्तमान (शिवः) मङ्गलकारी (वरूथ्यः) उत्तम गृहों में उत्पन्न (वसुः) वसानेवाले (वसुश्रवाः) धन और धान्य से युक्त (अग्निः) अग्नि के सदृश मङ्गलकारी (उत) और (त्राता) रक्षक (भवा) हूजिये और जिस (द्युमत्तमम्) अत्यन्त प्रकाशयुक्त (रयिम्) धन को आप (अच्छा) उत्तम प्रकार (नक्षि) व्याप्त हूजिये और उसको हम लोगों के लिये (दाः) दीजिये ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! जैसे परमात्मा सब में अभिव्याप्त सबका रक्षक और सबके लिये मङ्गलदाता, सब पदार्थों का दाता और सुखकारी है, वैसे ही राजा को होना चाहिये ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अग्ने ! त्वं नोऽन्तमः शिवो वरूथ्यो वसुर्वसुश्रवा अग्निरिव शिव उत त्राता भवा य द्युमत्तमं रयिं त्वमच्छा नक्षि तमस्मभ्यं दाः ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथाग्निपदवाच्यराजविषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) राजन् (त्वम्) (नः) अस्मानस्मभ्यं वा (अन्तमः) समीपस्थः (उत) (त्राता) रक्षकः (शिवः) मङ्गलकारी (भवा) अत्र द्व्यचोऽतस्तिङ इति दीर्घः। (वरूथ्यः) वरूथेषुत्तमेषु गृहेषु भवः (वसुः) वासयिता (अग्निः) पावकः (वसुश्रवाः) धनधान्ययुक्तः (अच्छा) (नक्षि) व्याप्नुहि (द्युमत्तमम्) (रयिम्) धनम् (दाः) देहि ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! यथा परमात्मा सर्वाभिव्याप्तः सर्वरक्षकः सर्वेभ्यो मङ्गलप्रदः सर्वपदार्थदाता सुखकारी वर्त्तते तथैव राज्ञा भवितव्यम् ॥२॥
 </details>
 </details>
 
@@ -3340,6 +4334,11 @@ ___________
 “ प्रसमुपोदः पाद-पूरणे " ( पा ८.१.६) इत्य् उपशब्दस्य द्विर्वचनम् । हे "मघवन् मघवान् धन-संपन्नः । 'देवस्य दानादि-गुण-युक्तस्य ते तव संबन्धि दानं क्षिप्रम् एव बहु तं दाश्वांसं मामेव उपपृच्यते संततं मामेवोपसंबध्यते । 'आदित्येभ्यः [ अदितिर् अखण्डित-शक्तिस् तस्याः पुत्रा आदित्याः ], तेभ्यो देवेभ्यो ऽर्थाय त्वां सोमग्रहं गृह्णामीति शेषः । इन्द्रनामभिरादित्य एव स्तूयते ॥ १ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+व्याख्याता चेयमादित्यग्रहे - इन्द्रात्मना रात्रिस्स्तूयते ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 वह इन्द्र कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -3445,14 +4444,6 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 - मध्यमः
 </details>
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-व्याख्याता चेयमादित्यग्रहे - इन्द्रात्मना रात्रिस्स्तूयते ।
-</details>
-</details>
 
 _______
 <details><summary>सर्वा अवतारिकाः</summary>

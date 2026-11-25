@@ -70,7 +70,7 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
+एत᳓त् ते तत ये᳓ च त्वा᳓म् अ᳓नु।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -99,8 +99,8 @@ This for thee, O father, and for thy line;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
+[एत᳓त् ते] पितामह [ये᳓ च त्वा᳓म् अ᳓नु]।  
+[एत᳓त् ते] प्रपितामह [ये᳓ च त्वा᳓म् अ᳓नु]।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -175,12 +175,12 @@ Rejoice therein, O fathers, according to your shares.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
-
 <details><summary>Keith</summary>
 
 May we gladden thee,  
 O bountiful one, fair to see;
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -200,7 +200,6 @@ O bountiful one, fair to see;
 आमन्त्रितस्याविद्यमानवत्त्वान् निघाताभावः,  
 'लिङ्याशिषि' इत्यार्धधातुकत्वाल् लसार्वधातुकानुदात्तत्वाभावः ।
 </details>
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/03_pra_nUnam.md">
@@ -910,9 +909,14 @@ Who carouse in company with Yama.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/03/53_mano_nvAhvAmahe.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Griffith</summary>
+
+We call the spirit hither with a hero-celebrating strain, Yea, with the Fathers’ holy hymns.
+</details>
+
 <details><summary>Keith</summary>
 
 Mind let us summon hither  
@@ -920,15 +924,124 @@ With the praise of Naraśansa
 And the reverence of the Pitrs.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+मनो॒ न्वाह्वा॑महे नाराशँ॒सेन॒ स्तोमे॑न।  
+पि॒तॄ॒णां च॒ मन्म॑भिः ॥५३॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+मनो॒ न्वाहु॑वामहे नाराशँ॒सेन॒ स्तोमे॑न ।  
+पि॒तॄ॒णां च॒ मन्म॑भिः ॥३॥ ६१
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मनो॒ न्वा हु॑वामहे नाराशँ॒सेन॒ स्तोमे॑न ।    
 पि॒तृ॒णाञ् च॒ मन्म॑भिः  ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+मनः॑। नु। आ। ह्वा॒म॒हे॒। ना॒रा॒शँ॒सेन॑। स्तोमे॑न। पि॒तॄ॒णाम्। च॒। मन्म॑भि॒रिति॒ मन्म॑ऽभिः। ५३।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+मनः॑। नु। आ। हुवा॒महे॒। नाराश॒सेन॑। स्तोमे॑न। पि॒तृ॒णाम्। पि॒तॄ॒णाम्। च॒। मन्म॑भि॒रिति॒ मन्म॑ऽभिः। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 मनः॑ । नु । एति॑ । हु॒वा॒म॒हे॒ । ना॒रा॒शँ॒सेन॑ । स्तोमे॑न । पि॒तृ॒णाम् । च॒ । मन्म॑भि॒रिति॒ मन्म॑-भिः॒ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+मनोन्वाह्वामहे इति तिसृभिर्गायत्रीभिर्मनोदेवत्याभिः।
+
+मनः नु क्षिप्रमाह्वामहे आह्वयामः।
+
+पितृयज्ञचरणेन पितृलोकमिव मनोगतमासीदत आहूयते।
+
+केनाह्वयामः।
+
+नाराशᳪं᳭सेन स्तोमेन येन नराः प्रशस्यन्ते दीर्घायुषः पुत्रवन्तो धनवन्तो भूयासुरित्यादिभिर्गुणैः स नाराशᳪं᳭सः स्तोमः स्तुतिः।
+
+पितॄणां च मन्मभिः मननीयैः स्तोमैर्मन आह्वयाम इत्यर्थः॥ ५३॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+तिस्र ऋचो मनोदेवत्या गायत्र्यो बन्धुदृष्टाः।
+
+उपतिष्ठन्त इत्यनुवर्तते।
+
+नु क्षिप्रं मन आह्वामहे पितृयज्ञानुष्ठानेन चित्तं पितृलोकं गतमिवासीतत आहूयते।
+
+यद्वा मनः मनोऽभिमानि दैवतमाह्वामहे आह्वयामः।
+
+केन साधनेन।
+
+स्तोमेन स्तोत्रेण।
+
+कथंभूतेन।
+
+नाराशंसेन।
+
+शंसः प्रशंसनं नराणां मनुष्याणां योग्यः शंसो नराशंसः तत्संबन्धी नाराशंसस्तेन।
+
+स्तोत्रं द्विविधं दैवं मानुषं च।
+
+यत्र देवाः स्तूयन्ते तद्दैवम्।
+
+यत्र च मनुष्याः प्रशस्यन्ते तन्मानुषम्।
+
+तथाविधेन स्तोत्रेणेत्युक्तं भवति।
+
+किंच पितॄणां च मन्मभिः पितरो यैः स्तोत्रैर्मन्यन्ते ते मन्मानस्तैः तादृशैः स्तोत्रैराह्वयामः॥ ५३॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+कात्याय न: - “ मनो म्वा हुवामद्द इति गाईपत्यं तिसृमि: ” ( काधौ ५.९.२२ ) इति ।
+
+उपतिष्ठन्त इत्य् अनुवर्तते ।
+
+तत्र प्रथमायाः पाठस्तु- 'मनो न्वा हुवामहे नारा-शरसेन स्तोमेन । पितॄणां च मन्मभिः' इति ।
+
+'नु क्षि-प्रवचनः । पितृ-यज्ञानुष्ठान-विषयं चित्तं तदभिमानि-दैवतमित्यर्थः । 'आहुवामहे आह्व-यामः ।
+
+केन साधनेनेति तदुच्यते ।
+
+'स्तोमेन स्तोत्रेण । कथं-भूतेन ? 'माराशरसेन ।
+
+शंसः प्रशंसनम् ।
+
+नराणां मनुष्याणां योग्यः शंसो नराशंसः तत्-संबन्धी नारा-शंसस् तेन ।
+
+स्तोत्रं द्वि-विधं देवं मानुषं च ।
+
+यत्र देवाः स्तुयन्ते तद् दैवम् ।
+
+यत्र च मनुष्याः प्रशस्यन्ते तन्-मानुषम् ।
+
+तथाविधेन स्तोत्रेणेत्युक्तं भवति ।
+
+किं 'च 'पितॄणां 'मन्मभिः ।
+
+पितरो यैः स्तोत्रैर् मन्यन्ते ताशैः स्तोत्रैर् आह्व-यामः ॥ ३ ॥
+वदि अभिवादने
+सायणाचार्य-आनन्दबोध - माष्य-समेता
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+ऋषिरेषां बन्धुः ।
+
+मनः "नु 'आहुवामहे । नु क्षिप्रं मनः मानसम् आहुवामहे पितृयज्ञकारण- मायामः । केनेति ? नाराशंसेन स्तोमेन । शंसनं शंसः । नराणां संबन्धी शंसो नराशंसः । [ तत्-संबन्धी नाराशंसः ], तेन । येन नराः प्रशस्यन्ते दीर्घायुषः पुत्रवन्तो भूयासुरित्यादिभिर् गुणैः स नाराशंसः स्तोमः स्तुति-विशेषः । तेन आयामहे । किं च पितॄणां च मन्मभिः मननीयैः स्तोमैर् आहृयामः ॥३॥
+आ ने
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -937,6 +1050,49 @@ And the reverence of the Pitrs.
 **नु** क्षिप्रं पूर्ववदिति वा ।  
 **नाराशंसेन** नराणां सर्वेषामपि शंसनीयेन मनोहरेण स्तोमेन स्तोत्रेण शस्यन्ते स्तूयन्ते तेन वाचिकेन **स्तोमेन** मानसेन  
 **पितॄणाञ्च मन्मभिः** मननीयैर् इष्टतमैः स्वधादिभिः पदैर्युक्तेन स्तोमेनाह्वयामहे ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मनो देवता
+- बन्धुर्ऋषिः
+- अतिपादनिचृद् गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+इसके आगे मन के लक्षण का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हम लोग (नाराशंसेन) पुरुषों के अत्यन्त प्रशंसनीय (स्तोमेन) स्तुतियुक्त व्यवहार और (पितॄणाम्) पालना करनेवाले ऋतु वा ज्ञानवान् मनुष्यों के (मन्मभिः) जिनसे सब गुण जाने जाते हैं, उन गुणों के साथ (मनः) संकल्पविकल्पात्मक चित्त को (न्वाह्वामहे) सब ओर से हटाके दृढ़ करते हैं ॥५३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को मनुष्यजन्म की सफलता के लिय विद्या आदि गुणों से युक्त मन को करना चाहिये। जैसे ऋतु अपने-अपने गुणों को क्रम-क्रम से प्रकाशित करते हैं, तथा जैसे विद्वान् लोग क्रम-क्रम से अनेक प्रकार की अन्य-अन्य विद्याओं को साक्षात्कार करते हैं, वैसा ही पुरुषार्थ करके सब मनुष्यों को निरन्तर विद्या और प्रकाश की प्राप्ति करनी चाहिये ॥५३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथ मनसो लक्षणमुपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  वयं नाराशंसेन स्तोमेन पितॄणां च मन्मभिर्मनो न्वाह्वामहे ॥५३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्मनुष्यजन्मसाफल्यार्थं विद्यादिगुणयुक्तं मनः कर्तव्यम्। यथर्तवः स्वान् स्वान् गुणान् क्रमेण प्रकाशयन्ति, यथा च विद्वांसः क्रमशोऽन्यामन्यां च विद्यां साक्षात् कुर्वन्ति, तथैव सततमनुष्ठाय विद्याप्रकाशौ प्राप्तव्यौ ॥५३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य जन्म सफल व्हावा, यासाठी माणसांनी आपले मन, विद्या इत्यादी गुणांनीयुक्त करावे. जसे ऋतू आपले गुणधर्म क्रमाक्रमाने प्रकट करतात व विद्वानही क्रमाने अनेक प्रकारच्या विद्यांचा साक्षात्कार करतात तसे सर्व माणसांनी सतत पुरुषार्थाने विद्येची व प्रकाशाची प्राप्ती करून घ्यावी.
 </details>
 </details>
 
@@ -1012,7 +1168,6 @@ And that long we may see the sun.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/sarvASh_TIkAH/19/024/12_punar_naH_pitaro.md">
-
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **पुनः नः** अस्माकं **मनः** हे **पितरः** सर्वेषां पातारः । व्यत्ययेन निघाताभावः । युष्मत्-प्रसादेन **दैव्यः** दिवि भवः **जनो ददातु** । 'देवाद्यञञौ' इति यञ् । वचनव्यत्ययो वा ।  
@@ -1025,7 +1180,6 @@ May the Pitrs restore mind to us,
 May the host of the gods;  
 May we belong to the band of the living.
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

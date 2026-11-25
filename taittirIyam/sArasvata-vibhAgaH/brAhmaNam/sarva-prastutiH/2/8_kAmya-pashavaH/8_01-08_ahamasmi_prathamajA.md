@@ -298,10 +298,103 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/117/06_moghamannaM_vindate.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - धनान्नदानप्रशंसा
+- ऋषिः - भिक्षुराङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मो᳓घम् अ᳓न्नं विन्दते अ᳓प्रचेताः  
+सत्य᳓म् ब्रवीमि वध᳓ इ᳓त् स᳓ त᳓स्य  
+ना᳓र्यम᳓णम् पु᳓ष्यति नो᳓ स᳓खायं  
+के᳓वलाघो भवति केवलादी᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ánnam ← ánna- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ápracetāḥ ← ápracetas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mógham ← mógha- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vindate ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+bravīmi ← √brū- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ít ← ít (invariable)  
+{}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+vadháḥ ← vadhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+aryamáṇam ← áryaman- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+púṣyati ← √puṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sákhāyam ← sákhi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+kevalādī́ ← kevalādín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kévalāghaḥ ← kévalāgha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मोघ॒मन्नं॑ विन्दते॒ अप्र॑चेताः स॒त्यं ब्र॑वीमि व॒ध इत्स तस्य॑ ।  
+नार्य॒मणं॒ पुष्य॑ति॒ नो सखा॑यं॒ केव॑लाघो भवति केवला॒दी ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 मोघ॒मन्नव्ँ॑विन्दते॒ अप्र॑चेताः ।  
 स॒त्यम्ब्र॑वीमि व॒ध इत्स तस्य॑ ।   
@@ -309,9 +402,210 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 केव॑लाघो भवति केवला॒दी ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मोघ॑म् । अन्न॑म् । वि॒न्द॒ते॒ । अप्र॑ऽचेताः । स॒त्यम् । ब्र॒वी॒मि॒ । व॒धः । इत् । सः । तस्य॑ ।  
+न । अ॒र्य॒मण॑म् । पुष्य॑ति । नो इति॑ । सखा॑यम् । केव॑लऽअघः । भ॒व॒ति॒ । के॒व॒ल॒ऽआ॒दी ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mogham* ← *mogha*
+- \[noun\], accusative, singular, neuter
+- “bootless; untrue; causeless.”
+
+_________
+
+- *annaṃ* ← *annam* ← *anna*
+- \[noun\], accusative, singular, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+
+_________
+
+- *vindate* ← *vid*
+- \[verb\], singular, Present indikative
+- “find; detect; marry; get; think.”
+
+_________
+
+- *apracetāḥ* ← *apracetas*
+- \[noun\], nominative, singular, masculine
+- “anserine.”
+
+_________
+
+- *satyam* ← *satya*
+- \[noun\], accusative, singular, neuter
+- “truth; oath; satya \[word\]; promise.”
+
+_________
+
+- *bravīmi* ← *brū*
+- \[verb\], singular, Present indikative
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+
+_________
+
+- *vadha* ← *vadhaḥ* ← *vadha*
+- \[noun\], nominative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+
+_________
+
+- *it* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *nāryamaṇam* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *nāryamaṇam* ← *aryamaṇam* ← *aryaman*
+- \[noun\], accusative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+
+_________
+
+- *puṣyati* ← *puṣ*
+- \[verb\], singular, Present indikative
+- “boom; grow; promote; foster.”
+
+_________
+
+- *no*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
+- \[noun\], accusative, singular
+- “friend; companion; sakhi \[word\].”
+
+_________
+
+- *kevalāgho* ← *kevala*
+- \[noun\]
+- “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
+    alone(p); single(a); white; absolute.”
+
+_________
+
+- *kevalāgho* ← *aghaḥ* ← *agha*
+- \[noun\], nominative, singular, masculine
+- “bad; dangerous; ill; iniquitous; bad.”
+
+_________
+
+- *bhavati* ← *bhū*
+- \[verb\], singular, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *kevalādī* ← *kevala*
+- \[noun\]
+- “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
+    alone(p); single(a); white; absolute.”
+
+_________
+
+- *kevalādī* ← *ādī* ← *ādin*
+- \[noun\], nominative, singular, masculine
+- “ādin \[word\]; eating.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अप्रचेताः- अप्रज्ञः। अन्नम्। मोघम्- मोघमेव। विन्दते- लभते। सः- तद्धनम्। तस्य। वध इत्-  मारकमेव। इति। सत्यम्- तथ्यम्। ब्रवीमि- वदामि। अर्यमणम्- दातारम्। न पुष्यति।  सखायम्। नो- न। पुष्यति। केवलादी- अन्येभ्योऽप्रयच्छन् यो भुङ्क्ते। सः। केवलाघः-  केवलपापयुक्तो हि। भवति॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अदातारं दूषयति । **अप्रचेताः** अप्रकृष्टज्ञानः दाने चेतो मनो यस्य न भवति **सः** **मोघं** व्यर्थमेव **अन्नं** **विन्दते** लभते ॥  ‘ विद्लृ लाभे' । तौदादिकः । ‘शे मुचादीनाम्' इति नुमागमः ॥ इदं **सत्यं** यथार्थमेवेति **ब्रवीमि** । ऋषिरहं वदामि । न केवलं व्यर्थं किंतु **तस्य** पुरुषस्य **सः** **वध** **इत्** वध एवान्नं परामृशतः ॥ तच्छब्दस्य वधसामानाधिकरण्यात् पुल्ँलिङ्गता । यथा “ णेरणौ° ( पा. सू. १. ३. ६७ ) इत्यत्र यत् कर्म स एव कर्तेति ॥ अथवा स निरर्थको वध एव यः पुरुषः **अर्यमणम्** । उपलक्षणमिदम् । सर्वान् देवानर्यमादीन् **न** **पुष्यति** हविष्प्रदानेन न पोषयति **नो** नापि **सखायं** समानख्यानमभ्यागतमतिथिं मित्रवर्गं च न पोषयति ॥  ‘ पुष पुष्टौ ' । दैवादिकः । यच्छब्दाध्याहारादनिघातः ॥ अत एव **केवलादी** ॥ अदेः सुप्यजातौ' (पा. सू. ३. २. ७८) इति णिनिः । अत उपधालक्षणा वृद्धिः ॥ केवलमसाक्षिकमन्नं भुञ्जानः सः **केवलाघो** **भवति** । केवलपापवान् भवति । अघमेव केवलं तस्य शिष्यते । नैहिकं नामुष्मिकमिति । तस्माद्यथाकथंचिद्दातव्यमित्यभिप्रायः ॥
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयमदाता सोऽयं **अप्रचेताः** प्रकृष्टज्ञानरहितः मोघं व्यर्थमेव अन्नं **विन्दते** लभते । तदेतत्सत्यं ब्रवीमि न केवलं वैयर्थ्यं किंतु सः अयमदत्तोऽन्नपदार्थः तस्य दानरहितस्य पुरुषस्य वध इत् वध एव वधवद्बाधकमेवेत्यर्थः । तत्र वैयर्थ्यं तावत्स्पष्टीक्रियते - योऽयमदाता सोऽयमन्नेनार्यमादिकं देवं न पुष्यति अग्नावाहुत्यभावात् । सखायं अतिथ्यादिरूपं मनुष्यं न पुष्यति दानाभावात् । अतः परलोके अनुपयोगेन वैयर्थ्यम् । वधहेतुत्वं स्पष्टीक्रियते - केवलादी केवलं भुङ्क्ते न तु ददाति सोऽयं केवलाधो भवति पापमेव संपादयति न तु किञ्चिदपि पुण्यम् सोऽयं वध एव, नरकहेतुत्वात् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The inhospitable man acquires food in vain. I speak the truth-- it verily is his death. He cherishes notAryaman nor a friend; he who eats alone is nothing but a sinner.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The undiscerning man finds food in vain. I speak the truth: it is just a  deadly weapon for him.  
+He does not prosper in compatriot, nor in companion. Who eats alone  has only evil.
+</details>
+
+<details><summary>Griffith</summary>
+
+The foolish man wins food with fruitless labour: that food -I speak the truth- shall be his ruin.  
+     He feeds no trusty friend, no man to love him. All guilt is he who eats with no partaker.
+</details>
+
+<details><summary>Macdonell</summary>
+
+The foolish man from food has no advantage; In truth I say: it is but his undoing; No friend he ever fosters, no companion: He eats alone, and he alone is guilty.
+</details>
+
+<details><summary>Geldner</summary>
+
+Nutzlos bekommt der Tor die Speise. Ich sage die Wahrheit: sie wird sein Tod sein. Nicht zieht er sich einen Gönner, noch einen Freund heran. Wer allein ißt, hat auch den Schaden allein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur sein Tod sein, Kein Freund wird ihm zu Theil und kein Genosse; allein trifft Noth den, der allein geniesset.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Понапрасну получает еду неразумный –  
+Истину глаголю я: это же смерть его!  
+Ни благодетеля не пестует он себе, ни друга.  
+Кто ест один, один бывает и в беде.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- त्रिष्टुप्
+- धैवतः
 </details>
 </details>
 

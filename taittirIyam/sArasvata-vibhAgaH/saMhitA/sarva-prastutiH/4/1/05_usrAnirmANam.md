@@ -1,6 +1,7 @@
 +++
 title = "०५ उस्रानिर्माणम्"
 +++
+
 १  त्रिष्टुप्,
 २-४ गायत्री,
 ५,७-१०, १९ अनुष्टुप् ,
@@ -21,31 +22,364 @@ title = "०५ उस्रानिर्माणम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ पा᳓जसा पृथु᳓ना शो᳓शुचानो बा᳓धस्व द्विषो᳓ रक्ष᳓सो अ᳓मीवाः ।  
-सुश᳓र्मणो बृहत᳓श्श᳓र्मणि स्यामग्ने᳓रहँ᳓ सुह᳓वस्य प्र᳓णीतौ ।  
+सुश᳓र्मणो बृहत᳓श्श᳓र्मणि स्यामग्ने᳓रहँ᳓ सुह᳓वस्य प्र᳓णीतौ ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/015/01_vi_pAjasA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>Keith</summary>
-
-Radiant with extending blaze,  
-Do thou repel the enemy, the Raksas's hostility;  
-May I enjoy the protection of the great protector,  
-May I enjoy the leadership of Agni, easy to invoke.
+- देवता - अग्निः
+- ऋषिः - उत्कीलः कात्यः
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+वि᳓ पा᳓जसा पृथु᳓ना शो᳓शुचानो  
+बा᳓धस्व द्विषो᳓ रक्ष᳓सो अ᳓मीवाः  
+सुश᳓र्मणो बृहतः᳓ श᳓र्मणि स्याम्  
+अग्ने᳓र् अहं᳓ सुह᳓वस्य प्र᳓णीतौ
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+pā́jasā ← pā́jas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+pr̥thúnā ← pr̥thú- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+śóśucānaḥ ← √śuc- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ví ← ví (invariable)  
+{}
+
+ámīvāḥ ← ámīvā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+bā́dhasva ← √bādhⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+dviṣáḥ ← dvíṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śármaṇi ← śárman- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+suśármaṇaḥ ← suśárman- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+syām ← √as- 1 (root)  
+{number:SG, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+agnéḥ ← agní- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+práṇītau ← práṇīti- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+suhávasya ← suháva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
 
 वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।  
-सु॒शर्म॑णो बृह॒तश्शर्म॑णि स्याम॒ग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ।  
+सु॒शर्म॑णो बृह॒तः शर्म॑णि स्याम॒ग्नेर॒हं सु॒हव॑स्य॒ प्रणी॑तौ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ऽअमी॑वाः।  
+सु॒शर्म॑णो बृह॒तः शर्म॑णि स्याम॒ग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ॥४९ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः । 
+सु॒शर्म॑णो बृह॒तः शर्म॑णि स्यामग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ॥१३॥ (४) ५० ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।  
+सु॒शर्म॑णो बृह॒तश्शर्म॑णि स्याम॒ग्नेर॒हँ सु॒हव॑स्य॒ प्रणी॑तौ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
+वि । पाज॑सा । पृ॒थुना॑ । शोशु॑चानः । बाध॑स्व । द्वि॒षः । र॒क्षसः॑ । अमी॑वाः ।  
+सु॒ऽशर्म॑णः । बृ॒ह॒तः । शर्म॑णि । स्या॒म् । अ॒ग्नेः । अ॒हम् । सु॒ऽहव॑स्य । प्रऽनी॑तौ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वि। पाज॑सा। पृ॒थुना॑। शोशु॑चानः। बाध॑स्व। द्वि॒षः। र॒क्षसः॑। अमी॑वाः। सु॒शर्म्म॑ण॒ इति॑ सु॒ऽशर्म॑णः। बृ॒ह॒तः। शर्म॑णि। स्या॒म्। अ॒ग्नेः। अ॒हम्। सु॒हव॒स्येति॑ सु॒ऽहव॑स्य। प्रणी॑तौ। प्रनी॑ता॒विति॒ प्रऽनी॑तौ। ४९।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+वि। पाज॑सा। पृथुना॑। शोशु॑चानः। बाध॑स्व। द्वि॒षः। र॒क्षसः॑। अमी॑वाः। सु॒शर्म॑ण॒ इति॑ सु॒ऽशर्म॑णः। बृ॒ह॒तः। शर्म॑णि। स्या॒म्। अ॒ग्नेः। अ॒हम्। सु॒हव॒स्येति॑ सु॒ऽहव॑स्य। प्रणी॑तौ। १३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 वीति॑ । पाज॑सा । पृ॒थुना॑ । शोशु॑चानः । बाध॑स्व । द्वि॒षः । र॒क्षसः॑ । अमी॑वाः ॥ सु॒शर्म॑ण॒ इति॑ सु-शर्म॑णः । बृ॒ह॒तः । शर्म॑णि । स्या॒म् । अ॒ग्नेः । अ॒हम् । सु॒हव॒स्येति॑ सु-हव॑स्य । प्रणी॑ता॒विति॒ प्र-नी॒तौ॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *pājasā* ← *pājas*
+- \[noun\], instrumental, singular, neuter
+- “luminosity; look.”
+
+_________
+
+- *pṛthunā* ← *pṛthu*
+- \[noun\], instrumental, singular, neuter
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+
+_________
+
+- *śośucāno* ← *śośucānaḥ* ← *śośuc* ← *√śuc*
+- \[verb noun\], nominative, singular
+- “blaze.”
+
+_________
+
+- *bādhasva* ← *bādh*
+- \[verb\], singular, Present imperative
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+
+_________
+
+- *dviṣo* ← *dviṣaḥ* ← *dviṣ*
+- \[noun\], accusative, plural, masculine
+- “hostile; hating.”
+
+_________
+
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
+- \[noun\], accusative, plural, masculine
+- “Rākṣasa.”
+
+_________
+
+- *amīvāḥ* ← *amīvā*
+- \[noun\], accusative, plural, feminine
+- “disease; affliction.”
+
+_________
+
+- *suśarmaṇo* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suśarmaṇo* ← *śarmaṇaḥ* ← *śarman*
+- \[noun\], genitive, singular, masculine
+- “protection; protective covering; refuge; joy.”
+
+_________
+
+- *bṛhataḥ* ← *bṛhat*
+- \[noun\], genitive, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *śarmaṇi* ← *śarman*
+- \[noun\], locative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+
+_________
+
+- *syām* ← *as*
+- \[verb\], singular, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *agner* ← *agneḥ* ← *agni*
+- \[noun\], genitive, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *ahaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+
+_________
+
+- *suhavasya* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suhavasya* ← *havasya* ← *hava*
+- \[noun\], genitive, singular, masculine
+- “invocation.”
+
+_________
+
+- *praṇītau* ← *praṇīti*
+- \[noun\], locative, singular, feminine
+- “guidance; guidance.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+पृथुना- प्रभूतेन। पाजसा- बलेन। शोशुचानः- तपन्। अमीवाः- आधिव्याधिभूतानि। रक्षसः-  रक्षांसि। द्विषः- द्वेषभावनानि। बाधस्व- नाशय। सुशर्मणः- शोभनस्य। बृहतः- महात्मनः।  शर्मणि- शोभने। स्याम्- भवेयम्। अग्नेः- सत्क्रतोः। सुहवस्य- शोभनाह्वातुः। प्रणीतौ-  प्रकर्षनीत्याम्। अहम्। स्याम्- भवेयम्॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+उत्कीलः स्तौति । हे अग्ने **पृथुना** विस्तीर्णेन **पाजसा** तेजसा **शोशुचानः** अत्यर्थं दीप्यमानस्त्वं **द्विषः** कर्मानुष्ठानविघ्नकारिणः शत्रून् **वि** **बाधस्व** विशेषेण नाशय । तथा **अमीवाः** रोगराहित्येन सामर्थ्योपेतानि **रक्षसः** । उभयत्र सुब्व्यत्ययः । तानि रक्षांसि बाधस्व । कर्मविघ्नकारीणि तान्यपनुदस्व । यद्वा अमीवाः आभिमुख्येनागमनपरागमनपराः पिशाचिकाश्च बाधस्व। **सुशर्मणः** स्वर्गादिलक्षणशोभनसुखहेतोः **बृहतः** महतः शत्रुविजयेन प्राप्तमहिम्नः **सुहवस्य** सुष्ठ्वाह्वानोपेतस्य **अग्नेः** **शर्मणि** अस्माकं सुखहेतौ **प्रणीतौ** उत्तरवेद्यादिस्थानेषु प्रणयने । प्रकर्षेण नयनं तत्र तत्रानीय प्रक्षेपः । एवंभूते तव प्रणयने **अहं** स्याम् अग्निप्रणयनपूर्वके क्रत्वनुष्ठाने भवेयम् ॥ पाजसा । ‘ पा रक्षणे ' । 'असुन्' इत्यनुवृत्तौ ‘पातेर्बले जुट् च ' इत्यसुन्। जुडागमः । नित्त्वादाद्युदात्तः । पृथुना । ‘ प्रथ प्रख्याने '। ‘ उत्' इत्यनुवृत्तौ ‘ प्रथिम्रदिभ्रस्जा संप्रसारणम्' इत्युप्रत्ययः । तसंनियोगेन संप्रसारणम् । प्रत्ययस्वरः । शोशुचानः। ‘शुच दीप्तौ' इत्यस्य यङ्लुकि ‘गुणो यङ्लुकोः' इत्यभ्यासस्य गुणः । व्यत्ययेन शानच् । चर्करीतस्य अदादिवद्भावात् शपो लुक् । चित्वादन्तोदात्तत्वे प्राप्ते अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । बाधस्व ।' बाधृ लोडने ' इत्यस्य लोटि रूपम् । पादादित्वात् निघाताभावः । सुशर्मणः । ‘शॄ हिंसायाम् ' । दुःखं शृणातीत्यौणादिको मनिन् ।' सोर्मनसी ' इति उत्तरपदाद्युदात्तत्वम् । स्याम् । अस भुवि ' इत्यस्य लिङि ‘यासुट् परस्मैपदेषु' इत्यादिना यासुट् । ‘ लिङः सलोपः' इति सलोपः । यासुटो ङित्त्वात् श्नसोरल्लोपः । निघातः ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अथैनमुत्सृजति।
+
+विपाजसा।
+
+वीत्ययमुपसर्गो बाधस्वेत्यनेन संबध्यते।
+
+विबाधस्व।
+
+पाजसा।
+
+पाज इति बलनाम।
+
+बलेन।
+
+पृथुना विस्तीर्णेन।
+
+शोशुचानो दीप्यमानः।
+
+द्विषः द्वेष्यात् रक्षसः।
+
+अमीवाः व्याधीन्।
+
+एवं प्रत्यक्षं याचित्वा अथेदानीं परोक्षीकृत्याशिषमाशास्ते।
+
+सुशर्मणः साधुशरणस्य बृहतो महतः।
+
+शर्मणि शरणे।
+
+स्याम् भवेयम्।
+
+अग्नेः अहं सुहवस्य स्वाह्वानस्य।
+
+प्रणीतौ प्रणयने अभ्यनुज्ञायाम्॥ ४९॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+वि पाजसेतीति मन्त्रेणैनं पिण्डं कृष्णाजिनबद्धं विस्रंस्य छागरोमाणि गृहीत्वाश्वादीनैशानीं दिशं प्रत्युत्सृजतीति सूत्रार्थः।
+
+अग्निदेवत्या त्रिष्टुबुत्कीलदृष्टा।
+
+वीत्युपसर्गो बाधस्वेत्यनेन संबध्यते।
+
+हे अग्ने, द्विषः शत्रून् रक्षसः राक्षसानमीवाः व्याधींश्च त्वं विबाधस्व विशेषेण निवर्तय।
+
+कीदृशस्त्वम्।
+
+पृथुना विस्तीर्णेन पाजसा बलेन शोशुचानः अत्यन्तं दीप्यमानः।
+
+पाज इति बलनाम।
+
+शोचतेर्यङन्ताच्छानच्प्रत्ययः।
+
+एवं प्रत्यक्षमुक्त्वा परोक्षमाह।
+
+अग्ने प्रणीतौ प्रणयने अभ्यनुज्ञायां परिचर्यायां सत्यामहं शर्मणि शरणे सुखे वा स्यां भवेयम्।
+
+सुखं प्राप्नुयामित्यर्थः।
+
+कीदृशस्याग्नेः।
+
+सुशर्मणः साधुशरणस्य शोभनं शर्म सुखं यस्मात्स सुशर्मा तस्य।
+
+बृहतः प्रौढस्य।
+
+सुहवस्य सुखेनाह्वातुं शक्यस्य।
+
+अस्तेर्लिङि उत्तमैकवचने स्यामिति रूपम्॥ ४९॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+एवं मुञ्जयोक्त्रेण बद्धं मृत्-पिण्डं विसेत् ।
+
+पाठस् तु - 'वि पाजसा पृथुना शोशुचानो बाधस्व द्विषो रक्षसो अमीवाः । सुशर्मणो बृहतः शर्मणि स्यामने रहर सुहवस्य प्रणीतौ ' इति ।
+
+हे अग्ने, पृथुना विस्तृतेन " पाजसा बलेन शोशुचानः अत्यन्तं दीप्यमानस्त्वं द्विषः शत्रून् रक्षस: राक्षसान् 'अमीवाः रोगांच विशेषेण 'बाधस्व । अहं 'सुशर्मणः शोभन-सुखस्य "बृहतः प्रौढस्य 'सुहवस्य सुखेनाह्वा शक्यस्य "अग्नेः प्रणीतौ परिचर्यायां क्रियमाणायां सत्यां [ शर्मणि ] तस्मिन् सुखे स्याम् सर्वदा ऽवतिष्ठेयम् ॥ १३ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+'त्रि पाजसा ' इति ।
+
+उत्कीलः कात्यः ।
+
+आग्नेयी त्रिष्टुप् ।
+
+हे अग्ने, पाज इति बल-नाम ।
+
+पृथुना विस्तीर्णेन पाजसा बलेन शोशुचानः दीप्यमानोऽग्निस्त्वं द्विषः द्वेष्यान् रक्षसः च राक्षसान् अमीवा: व्याधींश्च वि बाधस्व ।
+
+एवं प्रत्यक्षतो याचित्वा अथेदानीं परो क्षी-कृत्य आशिष आशास् ते ।
+
+"सुशर्मणः साधुशर्मण: 'बृहतः मद्दत: सुइवस्य शोभनाह्वानस्य "अग्नेः प्रणीतौ प्रकृष्टनीति-युक्तौ शर्माणि शरणे अहं स्याम् ।
+
+भवेयम् इति संबन्धः ॥ १३ ॥
+
+चतुर्थे ऽनुवाके मृदाहरणम् उक्तम् ।
+
+पञ्चमे तुखानिर्माणमुच्यते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -57,11 +391,159 @@ May I enjoy the leadership of Agni, easy to invoke.
 अस्य मन्त्रस्य बन्धविमोचनायैव सवित्रा परमेश्वरेण निर्मितत्वात्तत्पाठे सति सवितृमेरितो भवति।  
 वरुणस्या संबन्धिनो पाशबन्धकृता बाधा वरुणमेनिः।  
 सा च विषूची सर्वतः प्रसृता बहुधा रज्जुभिरावेष्ट्याऽऽहृतत्वात्।  
-अस्याग्नेस्तादृशीं वरुणमेनिं मन्त्रेण विमोचितवान्भवति।  
-</details>
+अस्याग्नेस्तादृशीं वरुणमेनिं मन्त्रेण विमोचितवान्भवति।
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+विवाह के समय स्त्री और पुरुष क्या-क्या प्रतिज्ञा करें, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे पते ! जो आप (पृथुना) विस्तृत (वि) विविध प्रकार के (पाजसा) बल के साथ (शोशुचानः) शीघ्र शुद्धता से सदा वर्त्तें और (अमीवाः) रोगों के समान प्राणियों की पीड़ा देने हारी (रक्षसः) दुष्ट (द्विषः) शत्रुरूप व्यभिचारिणी स्त्रियों को (बाधस्व) ताड़ना देवें तो मैं (बृहतः) बड़े (सुशर्मणः) अच्छे शोभायमान (सुहवस्य) सुन्दर लेना-देना व्यवहार जिसमें हो, ऐसे (अग्नेः) अग्नि के तुल्य प्रकाशमान आपके (शर्मणि) सुखकारक घर में और (प्रणीतौ) उत्तम धर्मयुक्त नीति में आपकी स्त्री (स्याम्) होऊँ ॥४९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  विवाह समय में स्त्री-पुरुष को चाहिये कि व्यभिचार छोड़ने की प्रतिज्ञा कर व्यभिचारिणी स्त्री और लम्पट पुरुषों का सङ्ग सर्वथा छोड़ आपस में भी अति विषयासक्ति को छोड़ और ऋतुगामी होके परस्पर प्रीति के साथ पराक्रमवाले सन्तानों को उत्पन्न करें, क्योंकि स्त्री वा पुरुष के लिये अप्रिय, आयु का नाशक, निन्दा के योग्य कर्म व्यभिचार के समान दूसरा कोई भी नहीं है, इसलिये इस व्यभिचार कर्म को सब प्रकार छोड़ और धर्माचरण करनेवाले हो के पूर्ण अवस्था के सुख को भोगें ॥४९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+विवाहसमये स्त्रीपुरुषौ किं किं प्रतिजानीयातामित्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे पते ! यदि त्वं पृथुना विपाजसा बलेन सह शोशुचानः सदा वर्त्तेथाः, अमीवा रक्षसो द्विषो बाधस्व, तर्हि बृहतः सुशर्मणः सुहवस्याग्नेस्ते शर्मणि प्रणीतौ चाहं पत्नी स्याम् ॥४९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  विवाहसमये पुरुषेण स्त्रिया च व्यभिचारत्यागस्य प्रतिज्ञां कृत्वा व्यभिचारिणीनां स्त्रीणां लम्पटानां पुरुषाणां च सर्वथा सङ्गं त्यक्त्वा परस्परमप्यतिविषयासक्तिं विहाय ऋतुगामिनौ भूत्वान्योऽन्यं प्रीत्या वीर्यवन्त्यपत्यान्युत्पादयेताम्। नहि व्यभिचारेण तुल्यं स्त्रियाः पुरुषस्य चाप्रियमनायुष्यमकीर्तिकरं कर्म विद्यते, तस्मादेतत् सर्वथा त्यक्त्वा धर्माचारिणौ भूत्वा दीर्घायुषौ स्याताम् ॥४९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  स्त्री - पुरुषांनी विवाहाच्या वेळी व्यभिचार न करण्याची प्रतिज्ञा करावी. व्यभिचारिणी स्त्री व लंपट पुरुषांचा संग सर्वथा सोडून द्यावा. अतिविषयासक्ती सोडावी व ऋतुगामी बनून परस्पर प्रेमाने राहावे आणि पराक्रमी संतानांना निर्माण करावे. कारण व्यभिचाराशिवाय स्री-पुरुषांना अप्रिय वाटणारे, आयुष्याचा नाश करणारे, दुसरे निंदनीय कर्म नाही. त्यासाठी व्यभिचार कर्म सोडून धर्माचरणाने पूर्ण आयुष्याचे सुख भोगावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Radiant with great glory, repel the hostile **rākṣasas** and **piśācas**; may I be in (the enjoyment) of the favour of the great (**Agni**), the giver of prosperity, and in the service of (him who is) easily invoked.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Yajus**. 2.49; dviṣo rakṣaso amīvāḥ: amīvā is either an epithet of the rākṣasas, free from sickness, vigorous, strong; or, it may be a synonym of piśācika, as hovering about the sacrifice in order to interrupt it; amīvā may mean keep off diseases (**vyādhi**), vyādhaṃśca badhasva
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Ever-blazing everywhere with your broad countenance, press against  hostilities, demons, and afflictions.  
+I would be under the shelter of the lofty one who gives good shelter,  under the guidance of easily invoked Agni.
+</details>
+
+<details><summary>Griffith</summary>
+
+RESPLENDENT with thy wide-extending lustre, dispel the terrors of the fiends who hate us  
+     May lofty Agni be my guide and shelter, the easily-invoked, the good Protector.
+</details>
+
+<details><summary>Keith</summary>
+
+Radiant with extending blaze,  
+Do thou repel the enemy, the Raksas's hostility;  
+May I enjoy the protection of the great protector,  
+May I enjoy the leadership of Agni, easy to invoke.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Flaming with thy broad stream of light beat away fiends, sorcerers, plagues. May I dwell in the protection of the great, well-protecting (god), under the guidance of Agni who readily listens to our call.
+</details>
+
+<details><summary>Geldner</summary>
+
+Mit breitem Scheine erglühend vertreib die Feinde, die Dunkelmänner, die Plagen! Ich möchte im Schutz des Hohen, Wohlschützenden sein, ich unter der Führung des Agni, der leicht zu rufen ist.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der du mit weitem Schimmer fernhin strahlest, verjage Feinde, Hexen, Plagegeister, Ich sei im Schutz des schirmenden, erhabnen und in des gerngerufnen Agni Leitung.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Ярко сверкающий широким блеском,  
+Прогони врагов, ракшасов, болезни!  
+Да буду я защитой высокого, надежно защищающего,  
+Я – под предводительством Агни, легко призываемого!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उत्कीलः कात्यः
+- त्रिष्टुप्
+- धैवतः
+
+- अग्निर्देवता
+- उत्कील ऋषिः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब तृतीय मण्डल में सात ऋचावाले पन्द्रहवें सूक्त का आरम्भ है। इसके प्रथम मन्त्र से विद्वानों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वान् पुरुष ! (शोशुचानः) अति पवित्र हुए आप (पृथुना) विस्तारयुक्त (पाजसा) बल से जो (अमीवाः) रोग के सदृश औरों को पीड़ा देते हुए (रक्षसः) निकृष्ट स्वभाववाले (द्विषः) वैरी लोग हैं उनको (वि) (बाधस्व) त्यागो जिससे (अहम्) मैं (सुहवस्व) उत्तम प्रकार प्रशंसित (सुशर्मणः) उत्तम गृहों से युक्त (बृहतः) विद्या आदि शुभ गुणों से वृद्धभाव को प्राप्त (अग्नेः) अग्नि के सदृश उत्तम गुणों के प्रकाशकर्त्ता आपकी (प्रणीतौ) श्रेष्ठ नीतियुक्त (शर्मणि) गृह में (स्याम्) स्थिर होऊँ ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान् लोगों को चाहिये कि स्वयं दोषरहित हो औरों के दोष छुड़ा और गुण देकर विद्या तथा उत्तम शिक्षा से युक्त करें, जिससे कि सकल जन पक्षपातशून्य न्याययुक्त धर्म में दृढ़भाव से प्रवृत्त होवें ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वन् ! शोशुचानस्त्वं पृथुना पाजसा येऽमीवा इव वर्त्तमानान् रक्षसो द्विषो विबाधस्व यतोऽहं सुहवस्य सुशर्मणो बृहतोऽग्नेस्तव प्रणीतौ शर्मणि स्थिरः स्याम् ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्विद्वद्भिः किं कार्य्यमित्याह
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वि) (पाजसा) बलेन (पृथुना) विस्तीर्णेन (शोशुचानः) भृशं पवित्रः सन् (बाधस्व) निवारय (द्विषः) वैरिणः (रक्षसः) दुष्टस्वभावाः (अमीवाः) रोगइवाऽन्यान् पीडयन्तः (सुशर्मणः) शोभनानि शर्माणि गृहाणि यस्य तस्य (बृहतः) विद्यादिशुभगुणैर्वृद्धस्य (शर्मणि) गृहे (स्याम्) भवेयम् (अग्नेः) पावकस्येव शुभगुणप्रकाशस्य (अहम्) (सुहवस्य) सुष्ठु स्तुतस्य विदुषः (प्रणीतौ) प्रकृष्टायां नीतौ ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वद्भिः स्वयं निर्दोषैर्भूत्वाऽन्येषां दोषान्निवार्य्य गुणान् प्रदाय विद्यासुशिक्षायुक्ताः कार्य्या यतः सर्वे पक्षपातरहिते न्याय्ये धर्मे दृढतया प्रवर्त्तेरन् ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात विद्वान, अध्यापक, विद्यार्थी व अग्नीच्या गुणांचे वर्णन असल्यामुळे या सूक्ताच्या अर्थाबरोबर मागच्या सूक्ताच्या अर्थाची संगती आहे असे जाणावे.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  विद्वान लोकांनी दोषरहित व्हावे, इतरांचे दोष नाहीसे करावेत व गुणांचे आरोपण करावे. विद्या व सुशिक्षायुक्त करावे. ज्यामुळे संपूर्ण लोक भेदभावरहित न्याययुक्त धर्मात दृढभावाने प्रवृत्त व्हावेत. ॥ १ ॥
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -81,16 +563,6 @@ May I enjoy the leadership of Agni, easy to invoke.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Ye, waters, are healing;  
-Further us to strength,  
-To see great joy.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -180,6 +652,11 @@ ráṇāya ← ráṇa- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आपः॑। हि। स्थ। म॒यो॒भुव॒ इति॑ मयः॒ऽभुवः॑। ताः। नः॒। ऊ॒र्जे। द॒धा॒त॒न॒। म॒हे। रणा॑य। चक्ष॑से। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+आपः॑ । हि । स्थ । म॒यो॒भुव॒ इति॑ मयः-भुवः॑ । ताः । नः॒ । ऊ॒र्जे । द॒धा॒त॒न॒ ॥ म॒हे । रणा॑य । चक्ष॑से ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -444,6 +921,11 @@ _____________
 शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+एताश्च तिस्रः 'वि पाजसा' इत्यत्र व्याख्याताः । हे आपः यूयं आपो व्यापिकास्स्थ । मयोभुवः सुखस्य भावयित्र्यः ता यूयं ऊर्जे अन्नार्थं रसार्थं वा दधातन धारयत । महते रमणीयाय दर्शनीयाय वा ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -540,6 +1022,13 @@ YE, Waters, are beneficent: so help ye us to energy
      That we may look on great delight.
 </details>
 
+<details><summary>Keith</summary>
+
+Ye, waters, are healing;  
+Further us to strength,  
+To see great joy.
+</details>
+
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Ye, Waters, are, etc., as in XL 50.
@@ -614,13 +1103,370 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वश्शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः ।  
-उशती᳓रिव मात᳓रः ।  
+उशती᳓रिव मात᳓रः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः
+- ऋषिः - त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः  
+उशती᳓र् इव मात᳓रः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+rásaḥ ← rása- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+śivátamaḥ ← śivátama- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhājayata ← √bhaj- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+mātáraḥ ← mātár- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यो व॑श्शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+उ॒श॒तीरि॑व मा॒तरः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वः॒ । शि॒वऽत॑मः । रसः॑ । तस्य॑ । भा॒ज॒य॒त॒ । इ॒ह । नः॒ ।  
+उ॒श॒तीःऽइ॑व । मा॒तरः॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+यः। वः॒। शि॒वत॑म॒ इति॑ शि॒वऽत॑मः। रसः॑। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। नः॒। उ॒श॒तीरि॒वेत्यु॑श॒तीःऽइ॑व। मा॒तरः॑। ५१।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+यः। वः। शि॒वत॑म॒ इति॑ शि॒वत॑मः। रसः॑। तस्य॑। भा॒जयत। इ॒ह। नः॒। उ॒श॒तीरि॒वेत्यु॑श॒तीःऽइ॑व। मा॒तरः॑। २।
+
+उ॒श॒तीरिवेत्यु॑श॒तीःऽइ॑व। मा॒तरः॑। १५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यः । वः॒ । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ । रसः॑ । तस्य॑ । भा॒ज॒य॒त॒ । इ॒ह । नः॒ ॥ उ॒श॒तीः । इ॒व॒ । मा॒तरः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+
+_________
+
+- *śivatamo* ← *śivatamaḥ* ← *śivatama*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *rasas* ← *rasaḥ* ← *rasa*
+- \[noun\], nominative, singular, masculine
+- “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
+    taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
+    body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
+    purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
+    Rasātala.”
+
+_________
+
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *bhājayateha* ← *bhājayata* ← *bhājay* ← *√bhaj*
+- \[verb\], plural, Present imperative
+- “distribute.”
+
+_________
+
+- *bhājayateha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *uśatīr* ← *uśatīḥ* ← *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *mātaraḥ* ← *mātṛ*
+- \[noun\], nominative, plural, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+वः- युष्माकम्। यः। शिवतमः- मङ्गळमयः। रसः। तस्य। नः- अस्मान्। इह- अत्र। भाजयत-  सेवां कारयत। उशतीः- कामयमानाः। मातरः- अम्बाः। इव भवथ॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे आपः **वः** युष्माकं स्वभूतः **यः** **रसः** **शिवतमः** सुखतमः **इह** अस्मिल्ँलोके **तस्य** तं रसं **नः** अस्मान् **भाजयत** सेवयत । उपयोजयतेत्यर्थः। तत्र दृष्टान्तः । **उशतीरिव** उशत्य इव पुत्रसमृद्धिं कामयमानाः **मातरः** स्तन्यरसं यथा भाजयन्ति प्रापयन्ति तद्वत् ॥
+
+________________
+यो युष्माक्रं शिवतमः शान्ततमः सुखैकहेतुर्यो रसोऽस्ति, इहास्मिन्कर्मणि नोऽस्मांस्तस्य भाजयत (तं) रसं प्रापयत।   तत्र दृष्टान्तः—उशतीरिव मातर इति।   कामयमानाः प्रीतियुक्ता मातरो यथा वत्सान्स्वकीयस्तन्यरसं प्रापयन्ति तद्वत्।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+12यो वः युष्माकं शिवतमो रसः तं अस्मात् भाजयत इह कर्मणि । तस्य वा एकदेशमस्मान् प्रापयत उशतीव कामयमाना मातर इवेति द्वितीया ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+यो वः यश्च वः युष्माकं शिवतमः शान्ततमः रसः।
+
+तस्य भाजयत भागिनः कुरुत।
+
+इहैव स्थितान्नः अस्मानुशतीरिव।
+
+‘वश कान्तौ’।
+
+कृतसंप्रसारणस्यैतद्रूपम्।
+
+कामयमाना इव मातरः।
+
+मातृशब्दः संबन्धवचनः।
+
+यथा कामयमाना मातरः पुत्रस्य कल्याणं तैस्तैरर्थैर्भाजयेयुः एवं भाजयत॥५१॥
+
+आपो हिष्ठेति तिस्रश्च व्याख्याताः॥ १४॥॥ १५॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे आपः, वो युष्माकं यः शिवतमः शान्ततमः सुखैकहेतू रसोऽस्ति इहास्मिन्कर्मणि इह लोके वा स्थितान्नोऽस्मान् तस्य रसस्य भाजयत भागिनः कुरुत।
+
+तं रसं प्रापयतेति भावः।
+
+कर्मणि षष्ठी।
+
+तत्र दृष्टान्तः।
+
+उशतीर्मातर इव उशन्ति ता उशत्यः ‘वा छन्दसि’ (पा० ६। १। १०६) इति दीर्घः।
+
+‘वश कान्तौ’ इत्यस्माच्छतृप्रत्ययान्तात् ‘उगितश्च’ (पा० ४। १.६) इति ङीप्।
+
+उशत्यः कामयमानाः प्रीतियुक्ता मातरो यथा स्वकीयस्तन्यरसं बालं पाययन्ति ।
+
+तद्वत्॥५१॥
+
+आपो हि ष्टा तृचो व्याख्यातः [अ० ११ । क० ५०५२] ॥ १४ ॥ १५ ॥ १६ ॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ द्वितीय: यो वः शिवतमो रसस् तस्य भाजयतेह नः ।
+
+उशतीर् इव मातर: ' इति । 'वः युष्माकं शिवतमः सुखैक-हेतुः 'य: 'रसः अस्ति सः इह अस्मिन् कर्मणि नः अस्मान् तस्य भाजयत तं रसं प्रापयत ।
+
+तत्र दृष्टान्तः - 'उशती: 'इव 'मातरः कामयमानाः प्रीति-युक्ता मातरो यथा स्वकी यस्तन्यरसं पाययन्ति तद्वत् ॥ २ ॥
+
+पालाशत्वग्भिः क्वथितम् उदकं
+
+हे आपः, वः युष्माकं यः रसः शिवतमः अतिशयेन सुख-प्रदः तस्य रसस्य “क्रियाग्रहणं वक्तव्यम्" इति कर्मणः सम्प्रदानत्वात् चतुर्थ्य्-अर्थे षष्ठी । तं रसं नः अस्मान् इह अस्मिन् यज्ञे भाज- यत प्रापयत । तत्र दृष्टान्तः - उशत्यः कामयमानाः पुत्रेषु स्नेहं कुर्वाणाः मातर इव । ताः यथा शिशुं स्तन्यं पाययन्ति एवम् एव युष्माकं स्तन्य-भूतं रसम् अस्मान् पाययन्तु इति भावः ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+'यो वः शिवतमो रसः' इति ।
+
+वः युष्माकं यः शिवतमः शिवो रसः, शिवतरो रसः, शिवतमो रसः, शान्ततमः रसः ।
+
+तस्य भाजयत तस्य रसस्य भागिनः कुरुत ।
+
+इह नः इहैव जीवतः स्थितान् नः अस्मान् तद् भागसंपन्नान् कुरुत ।
+
+' उशतीर् इव मातरः ' ।
+
+वश कान्तौ ।
+
+कृदसंप्रसारणस्यैतद् रूपम् ।
+
+'उशती: कामयमानाः मातरः इव पुत्र स्थ हितं कामयमानाः मातर इव ।
+
+यथा पुत्रस्य हितं मातरः स्वयम् एव कामयन्त्यः
+तत्तःप्राप्ति-साधनानि संपादयन्ति तथाऽस्माकम् अपि सर्वं सुख-साधनं यूयम् एव संपादयतेति भावः ॥ २ ॥
+
+भवताम् ॥ १२ ॥
+
+शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यो युष्माक्रं शिवतमः शान्ततमः सुखैकहेतुर्यो रसोऽस्ति, इहास्मिन्कर्मणि नोऽस्मांस्तस्य भाजयत (तं) रसं प्रापयत।   तत्र दृष्टान्तः—उशतीरिव मातर इति।   कामयमानाः प्रीतियुक्ता मातरो यथा वत्सान्स्वकीयस्तन्यरसं प्रापयन्ति तद्वत्।
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+युष्माकं शिवतमो रसः तमस्मान् सेवयत । इहास्मिन्कर्मणि कामयमानाः स्नेहवत्यो मातर इव ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे श्रेष्ठ स्त्रियो ! (यः) जो (वः) तुम्हारा (शिवतमः) अतिशय कल्याणकारी (रसः) आनन्दवर्द्धक स्नेहरूप रस है (तस्य) उसका (इह) इस जगत् में (नः) हमको (उशतीरिव, मातरः) पुत्रों की कामना करनेवाली माताओं के तुल्य (भाजयत) सेवा कराओ ॥१५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जो होम आदि से जल शुद्ध किये जावें तो ये माता जैसे सन्तानों वा पतिव्रता स्त्रियाँ अपने पतियों को सुखी करती हैं, वैसे सब प्राणियों को सुखी करते हैं ॥१५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  यदि होमादिनाऽऽपः शुद्धाः क्रियेरँस्तर्ह्येता मातरोऽपत्यानीव पतिव्रता पतीनिव सर्वान् प्राणिनस्सुखयन्ति ॥१५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर भी वही उक्त विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे स्त्रियो ! (वः) तुम्हारा और (नः) हमारा (इह) इस गृहाश्रम में (यः) जो (शिवतमः) अत्यन्त सुखकारी (रसः) कर्त्तव्य आनन्द है (तस्य) उस का (मातरः) (उशतीरिव) जैसे कामयमान माता अपने पुत्रों को सेवन करती है, वैसे (भाजयत) सेवन करो ॥५१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  स्त्रियों को चाहिये कि जैसे माता-पिता अपने पुत्रों का सेवन करते हैं, वैसे अपने-अपने पतियों की प्रीतिपूर्वक सेवा करें, ऐसे ही अपनी-अपनी स्त्रियों की पति भी सेवा करें। जैसे प्यासे प्राणियों को जल तृप्त करता है, वैसे अच्छे स्वभाव के आनन्द से स्त्री-पुरुष भी परस्पर प्रसन्न रहें ॥५१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे स्त्रियः ! वो न इह यः शिवतमो रसोऽस्ति तस्य मातरः पुत्रानुशतीरिव भाजयत ॥५१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  स्त्रीभिर्मातापितरौ पुत्रानिव स्वं स्वं पतिं स्वा स्वा पत्नी प्रीत्या सेवताम्। एवमेव स्वां स्वां स्त्रियं पतिश्च। यथा जलानि तृषातुरान् प्राणिनस्तृप्यन्ति, तथैव सुशीलतयानन्देन तृप्ताः सन्तु ॥५१ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  ज्याप्रमाणे आई-वडील आपल्या संतानांशी प्रेमाने वागतात त्याप्रमाणेच स्त्रियांनी आपल्या पतींशी वागून त्यांची सेवा करावी. पतींनीही आपापल्या पत्नींची सेवा करावी. ज्याप्रमाणे तृषार्त प्राण्यांना जल तृप्त करते त्याप्रमाणे चांगल्या स्वभावाच्या स्त्री-पुरुषांनी परस्पर प्रसन्न व आनंदी राहावे.
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे माता आपल्या संतानांना किंवा पतिव्रता स्रिया आपल्या पतींना सुखी करतात तसे जे लोक होम वगैरे करून जलशुद्धी करतात ते सर्व प्राण्यांना सुखी करतात.
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+य इति ॥ वः युष्माकं सम्बन्धी यश्शिवतमो रसः तस्य तृतीयार्थे षष्ठी, तेन रसेन नः अस्मान् भाजयत सः यथा अस्मान्भजते तथा कुरुत इह लोके उशतीः कामयमाना इव मातरो यथा मातरोवत्सला भूत्वा स्तन्यं प्रापयन्ति तद्वत् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Your most beneficent juice—make us have a share in that here,  
+like eager mothers (their milk).
+</details>
+
+<details><summary>Griffith</summary>
+
+Give us a portion of the sap, the most auspicious that ye have,  
+     Like mothers in their longing love.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -629,24 +1475,62 @@ Accord to us here,
 Like eager mothers.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
 
-यो व॑श्शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
-उ॒श॒तीरि॑व मा॒तरः॑ ।  
+Give us a portion, etc., as in XI. 51.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Geldner</summary>
 
-यः । वः॒ । शि॒वत॑म॒ इति॑ शि॒व-त॒मः॒ । रसः॑ । तस्य॑ । भा॒ज॒य॒त॒ । इ॒ह । नः॒ ॥ उ॒श॒तीः । इ॒व॒ । मा॒तरः॑ ॥
+Was euer angenehmstes Naß ist, des machet uns hier teilhaftig wie die liebevollen Mütter ihrer Milch!
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Grassmann</summary>
 
-यो युष्माक्रं शिवतमः शान्ततमः सुखैकहेतुर्यो रसोऽस्ति, इहास्मिन्कर्मणि नोऽस्मांस्तस्य भाजयत (तं) रसं प्रापयत।   तत्र दृष्टान्तः—उशतीरिव मातर इति।   कामयमानाः प्रीतियुक्ता मातरो यथा वत्सान्स्वकीयस्तन्यरसं प्रापयन्ति तद्वत्।   
+Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebevollen Müttern gleich.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Какая у вас самая целительная влага,  
+Наделите нас ею здесь,  
+Как любящие матери!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः
+- त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वाम्बरीषः
+- गायत्री
+- षड्जः
+
+- आपो देवताः
+- सिन्धुद्वीप ऋषिः
+- गायत्री
+- षड्जः
+
+- आपो देवताः
+- सिन्धुद्वीप ऋषिः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वः) हे जलों ! तुम्हारा (यः) जो (शिवतमः-रसः) अत्यन्त कल्याणसाधक रस है-स्वाद है (तस्य नः) उसे हमें (इह) इस शरीर में (भाजयत) सेवन कराओ (उशतीः-मातरः-इव) पुत्रसमृद्धि को चाहती हुई माताओं के समान, वे जैसेअपना दूध पुत्र को सेवन कराती हैं-पिलाती हैं ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  जलों के अन्दर तृप्तिकर स्वाद है, जोकि सुख देनेवाला है और भोजन को रस में परिणत करता है। इसी प्रकार आप विद्वान् जनों का ज्ञानरस आत्मा को सुख वा जीवन देता है। उनके उपदेशों का श्रवण करना चाहिये ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वः) हे आपः ! युष्माकं (यः) यः खलु (शिवतमः-रसः) कल्याणतमोऽतिकल्याणसाधको रसोऽस्ति (तस्य नः) तम् “व्यत्ययेन षष्ठी” नोऽस्मान् (इह) अस्मिन् शरीरे (भाजयत) सेवयत (उशतीः-मातरः-इव) पुत्रसमृद्धिं कामयमाना मातर इव, यथा ताः स्वस्तन्यं रसं दुग्धं पुत्रं भाजयन्ति पाययन्ति तद्वत् ॥२॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -654,13 +1538,452 @@ Like eager mothers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा अ᳓रङ्गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ ।  
-आ᳓पो जन᳓यथा च नः ।  
+आ᳓पो जन᳓यथा च नः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः
+- ऋषिः - त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+त᳓स्मा अ᳓रं गमाम वो  
+य᳓स्य क्ष᳓याय जि᳓न्वथ  
+आ᳓पो जन᳓यथा च नः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+áram ← áram (invariable)  
+{}
+
+gamāma ← √gam- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
+
+tásmai ← sá- ~ tá- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vaḥ ← tvám (pronoun)  
+{case:ACC, number:PL}
+
+jínvatha ← √ji- 2 ~ jinv- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+kṣáyāya ← kṣáya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yásya ← yá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:VOC, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+janáyatha ← √janⁱ- (root)  
+{number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+तस्मा॒ऽअं॑र गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ।  
+आपो॑ ज॒नय॑था च नः ॥५२ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तस्मा॒ अर॑ङ्गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
+आपो॑ ज॒नय॑था च नः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ।  
+आपः॑ । ज॒नय॑थ । च॒ । नः॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+तस्मै॑। अर॑म्। ग॒मा॒म॒। वः॒। यस्य॑। क्षया॑य। जिन्व॑थ। आपः॑। ज॒नय॑थ। च॒। नः॒। ५२।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+तस्मै॑। अर॑म्। ग॒मा॒म॒। वः॒। यस्य॑। क्षया॑य। जिन्व॑थ। आपः॑। ज॒नय॑थ। च॒। नः॒। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ॥ आपः॑ । ज॒नय॑थ । च॒ । नः॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tasmā* ← *tasmai* ← *tad*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *araṃ* ← *aram*
+- \[adverb\]
+
+_________
+
+- *gamāma* ← *gam*
+- \[verb\], plural, Present imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+
+_________
+
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], dative, plural
+- “you.”
+
+_________
+
+- *yasya* ← *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *kṣayāya* ← *kṣaya*
+- \[noun\], dative, singular, masculine
+- “dwelling; house; kṣaya \[word\]; home; family.”
+
+_________
+
+- *jinvatha* ← *jinv*
+- \[verb\], plural, Present indikative
+- “enliven; animate.”
+
+_________
+
+- *āpo* ← *āpaḥ* ← *ap*
+- \[noun\], vocative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+
+_________
+
+- *janayathā* ← *janay* ← *√jan*
+- \[verb\], plural, Present indikative
+- “cause; give birth; produce; beget; generate; originate; create;
+    create; make.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यस्य- यस्य सद्भावनस्य। क्षयाय- निवासाय। जिन्वथ- अस्मान् प्रीणयथ। तस्मै-  तत्सद्भावनप्राप्त्यर्थम्। अरम्- क्षिप्रम्। वः- युष्मान्। गमाम- गच्छाम। आपः- हे  उदकोपलक्षितजीवधाराः। नः- अस्मान्। जनयथ- सद्भावनैरुत्पादयत॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे आपः यूयं **यस्य** पापस्य **क्षयाय** विनाशाय अस्मान् **जिन्वथ** प्रीणयथ **तस्मै** तादृशाय पापक्षयाय **अरं** क्षिप्र **वः** युष्मान् **गमाम** गमयाम । वयं शिरसि प्रक्षिपामेत्यर्थः । यद्वा । यस्यान्नस्य क्षयाय निवासार्थं यूयमोषधीर्जिन्वथ तर्पयथ तस्मै तदन्नमुद्दिश्य वयमरमलं पर्याप्तं यथा भवति तथा वो युष्मान् गमाम गच्छाम । किंच हे **आपः** **नः** अस्मान् जनयथ **च** । पुत्रपौत्रादिजनने प्रयोजयतेत्यर्थः ॥
+_____________
+यस्य रसस्य क्षयाय क्षयेण निवासेन जिन्वथ यूयं प्रीता भवथ, तस्मै रसाय वौ युष्मानरं गमामालं भृशं प्राप्नुमः ।   किंच हे आपो यूयं नोऽस्माञ्जनयथ प्रजोत्पादकन्कुरुथ।   एतैर्मन्त्रैः साध्यं जलमेलनं विधत्ते— ‘अप उप सृजत्यापो वै शान्ताः शान्ताभिरेवास्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।   अस्याग्नेः शुचं शोकं दाहमित्यर्थः।  
+
+आपो हि ष्ठेत्याद्यृचस्तत्र विनियुङ्क्ते— ‘तिसृभिरुप सृजति त्रिवृद्वा अग्निर्यावानेवाग्निस्तस्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।  
+आहवनीयादिरूपेणाग्नेस्त्रैगुण्यम्।   तस्य सर्वस्याग्नेर्मन्त्रत्रयेण दाहशान्तिः।   ]
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+13तस्मै युष्माकं रसाय पर्याप्तं गमाम तं गम्यास्स्म । यस्य रसस्य क्षयाय निवासभूतं पुरुषं जिन्वथ प्रीणयथ । किञ्च - अस्मान् हे आपः! जनयथ जातान्कुरुत युष्मद्रसवन्तो हि जाता भवन्तीति तृतीया ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+तस्मा अरम्।
+
+अलमिति प्राप्ते लकारस्य रेफश्छान्दसः। ।
+
+हे आपः, तस्य च रसस्य अधस्तनमन्त्रयाचितस्य वो युष्मत्संबन्धिनः अलं पर्याप्तं गमाम गच्छाम वयम्।
+
+पर्याप्तं नाम रसविषये वैतृष्ण्यं सदातृष्ण्यं वा।
+
+यस्य क्षयाय जिन्वथ।
+
+‘क्षयो निवासे’ इत्याद्युदात्तः।
+
+षष्ठ्यर्थे चतुर्थी।
+
+यस्येति सामानाधिकरण्यात्।
+
+यस्य आहुतिपरिणामभूतस्य क्षयस्य निवासस्यैकदेशेन जिन्वथ।
+
+जिन्वतिः प्रीतिकर्मा।
+
+तर्पयथ।
+
+पञ्चाहुतिपरिणामक्रमेणेदं ब्रह्मादिस्तम्बपर्यन्तं जगत्।
+
+तत्र हे आपः, जनयथ नः अस्मान् भोक्तृत्वेन।
+
+आजानदेवत्वमाशास्यते॥ ५२॥
+
+(अस्याः कण्डिकाया व्याख्या १४-कण्डिकया सहिता द्रष्टव्या।)
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अलमिति प्राप्ते लकारस्य रेफश्छान्दसः।
+
+हे आपः, वो युष्मत्संबन्धिनस्तस्य पर्याप्तिं वयं गमाम गच्छेम।
+
+पर्याप्तिर्नाम रसविषये वैतृष्ण्यं सदातृप्तिर्वा।
+
+तस्मै इति चतुर्थी षष्ठ्यर्थे।
+
+यस्य क्षयाय जिन्वथ ‘क्षयो निवासे’ (पा० ६। १। २०१) इत्याद्युदात्तत्वात् क्षयशब्देन निवासः।
+
+क्षयायेति चतुर्थी षष्ठ्यर्थे।
+
+यस्येत्यनेन सामानाधिकरण्यात्।
+
+क्षयस्य निवासस्य जगतामाधारभूतस्य यस्याहुतिपरिणामभूतस्य रसस्यैकदेशेन यूयं ब्रह्मादिस्तम्बपर्यन्तं जगत् जिन्वथ तर्पयथ।
+
+जिन्वतिः प्रीतिकर्मा।
+
+पञ्चाहुतिपरिणामक्रमेणेति भावः।
+
+किंच हे आपः, नोऽस्मान् तत्र भोक्तृत्वेन जनयथ उत्पादयत।
+
+आशिषि लोट् तद्रसभोक्तृनस्मान् कुरुतेत्याजानदेवत्वमाशास्यते इति भावः।
+
+‘अन्येषामपि दृश्यते’ (पा० ६। ३। १३७) इति संहितायां दीर्घः।
+
+यद्वास्या ऋचोऽयमर्थः।
+
+यस्य क्षयाय क्षयेण निवासेन यूयं जिन्वथ प्रीता भवथ तस्मै रसाय तद्रसाप्तये वो युष्मानरमत्यर्थं वयं गमाम प्राप्नुमः।
+
+किंच हे आपः, यूयं नोऽस्मान् जनयथ प्रजोत्पादनसमर्थान् कुरुथ।
+
+गच्छतेर्लुङि उत्तमबहुवचनेऽगमामेति रूपम्।
+
+अडभाव आर्षः ।
+
+‘बहुलं छन्दसि’ (पा० २। ४। ७३) इति शपो लुकि लोटि वा रूपम्॥ ५२॥
+
+(अस्याः कण्डिकाया व्याख्या १५-कण्डिकया सहिता द्रष्टव्या।)
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ तृतीयः तस्मा अरं गमाम वो यस्य क्षयाय जिन्वथ ।
+
+आपो जनयथा च नः १ इति ।
+
+' तस्मा भरं गमाम ' ।
+
+अलम् इति प्राप्ते लकार-स्थाने रेफादेशः ।
+
+हे आपः, तस्मै ।
+
+षष्ठयर्थे चतुर्थी ।
+
+तस्य रसस्य अधस्तनमन्त्रयाचितस्य वः युष्मत्-संबन्धिनः अलं पर्याप्ति 'गमाम प्राप्नुमः ।
+
+क्षयाय इति षष्ठ्य्-अर्थे चतुर्थी ।
+
+यस्य इति [ अनेन ] समानाधिकरण्यात् ।
+
+"यस्य आहुति-परिणाम भूतस्य क्षयस्य निवासस्यैकदेशेन यूयं जिन्वथ तर्पयथ । किंच हे 'आपः यूयं नः अस्मान् जनयथ प्रजोत्पादनं कुरुत ॥३॥
+
+हे आपः, यूयं वः युष्माकम् अवस्थितस्य यस्य रसस्य क्षयाय निवासाय जिन्वथ प्रीणत तस्मै रसाय वयम् अरम् अलं पर्याप्तं गमाम गच्छाम, तं रसं प्राप्तवन्तः ।
+
+अपि च नः अस्मान् जनयथ स्नान-पानादि-संस्कारेण पुनर्जातान् पाप-रहितान् कुरुत ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' तस्मा अरम् ' इति ।
+
+'अरम् अलम् । रेफर-छान्दसः । तस्मै अधस्तनमन्त्रयाचिताय 'वः युष्मत्-संबन्धिने शिवतमरसाय तत्-प्राप्तये च ।
+
+अस्मद्-अर्थं रसं संपादयितुं यूयम् एवालं समर्थः पर्याप्ताः ।
+
+युष्मद्-अर्थं शिवतमं रसं गमाम गच्छेम ।
+
+तद् रस-विषये वैतृष्ण्यम् अलं-प्रत्ययो वा ।
+
+न: अस्माकं भूयाद् इत्य् अभिप्रायः ।
+
+' यस्य क्षयाय' इति ।
+
+यस्य आहुति-परिणाम् अभूतस्य रसस्य
+करण्यात्
+१२•५ )
+अस्मासु क्षया निवासार्थं 'जिन्वथ ।
+
+जिन्वति : प्रीतिकर्मा ।
+
+प्रीतिमुत्पादयथ अस्मान् तर्पयथ ।
+
+आपो जनयथ ।
+
+हे "आप:, नः अस्मान् शिवतमरसस्य भोक्तृत्वेन जनयथ । अनेन क्रमेणा जान ( णापां ? ) देवतात्वमाशास्यते ॥ ३ ॥
+
+भवताम् ॥ १२ ॥
+
+शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यस्य रसस्य क्षयाय क्षयेण निवासेन जिन्वथ यूयं प्रीता भवथ, तस्मै रसाय वौ युष्मानरं गमामालं भृशं प्राप्नुमः ।   किंच हे आपो यूयं नोऽस्माञ्जनयथ प्रजोत्पादकन्कुरुथ।   एतैर्मन्त्रैः साध्यं जलमेलनं विधत्ते— ‘अप उप सृजत्यापो वै शान्ताः शान्ताभिरेवास्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।   अस्याग्नेः शुचं शोकं दाहमित्यर्थः।  
+आपो हि ष्ठेत्याद्युचस्तत्र विनियुङ्क्ते— ‘तिसृभिरुप सृजति त्रिवृद्वा अग्निर्यावानेवाग्निस्तस्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।  
+आहवनीयादिरूपेणाग्नेस्त्रैगुण्यम्।   तस्य सर्वस्याग्नेर्मन्त्रत्रयेण दाहशान्तिः।
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+युष्माकं सम्बन्धिने तस्मै रसाय पर्याप्तये अरं गमाम ततः पर्याप्तं गम्यास्म । यस्य रसस्य निवासभूतं पुरुषं जिन्वथ प्रीणयत । अस्माकं जनयथ च जातान् कुरुत, युष्मदीयरसलाभेन हि जाता भवन्तीति ॥
+
+इति सप्तमे चतुर्थे एकोनविंशोनुवाकः ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे स्त्रियो ! जैसे तुम लोग (नः) हमको (आपः) जलों के तुल्य शान्त (जनयथ) प्रकट करो, वैसे (वः) तुमको हम लोग शान्त प्रकट करें (च) और तुम लोग (यस्य) जिस पति के (क्षयाय) निवास के लिये (जिन्वथ) उसको तृप्त करो (तस्मै) उस के लिये हम लोग (अरम्) पूर्ण सामर्थ्ययुक्त (गमाम) प्राप्त होवें ॥१६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। स्त्री-पुरुषों को योग्य है कि परस्पर आनन्द के लिये जल के तुल्य सरलता से वर्तें और शुभ आचरणों के साथ परस्पर सुशोभित ही रहें ॥१६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे स्त्रियो ! यथा यूयं नोऽस्मानाप इव शान्ताञ्जनयथ, तथा वो युष्मान् च शान्ता वयं जनयेम यूयं यस्य क्षयाय जिन्वथ तस्मै वयमरंगमाम ॥१६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। स्त्रीपुरुषैः परस्परस्याऽऽनन्दाय जलवत्सरलतया वर्त्तितव्यं शुभाचरणैः परस्परमलंकृतैरेव भवितव्यम् ॥१६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उक्त विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (आपः) जलों के समान शान्त स्वभाव से वर्त्तमान स्त्रियो ! तुम लोग (नः) हम लोगों के (क्षयाय) निवासस्थान के लिये (जिन्वथ) तृप्त (च) और (जनयथ) अच्छे सन्तान उत्पन्न करो उन (वः) तुम लोगों को हम लोग (अरम्) सामर्थ्य के साथ (गमाम) प्राप्त होवें। (यस्य) जिस धर्मयुक्त व्यवहार की प्रतिज्ञा करो, उसका पालन करनेवाली होओ और उसी का पालन करनेवाले हम लोग भी होवें ॥५२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जिस पुरुष की जो स्त्री वा जिस स्त्री का जो पुरुष हो, वे आपस में किसी का अनिष्ट-चिन्तन कदापि न करें। ऐसे ही सुख और सन्तानों से शोभायमान हो के धर्म्म से घर के कार्य्य करें ॥५२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे आपः ! जलवद्वर्त्तमाना या यूयं नः क्षयाय जिन्वथ च ता वो युष्मान् वयमरं गमाम यस्य प्रतिज्ञातस्य धर्म्यव्यवहारस्य पालिका भवत तस्यैव वयमपि भवेम ॥५२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  पुरुषो यस्याः स्त्रियः पतिर्यस्य या स्त्री पत्नी भवेत् स सा च परस्परस्यानिष्टं कदापि न कुर्य्यात्। एवं सुखसन्तानैरलंकृतौ भूत्वा धर्मेण गृहकृत्यानि कुर्य्याताम् ॥५२ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  पुरुष व स्त्री यांनी आपापसात एकमेकांचे अनिष्ट चिंतन कधीही करू नये. त्यांनी संतानयुक्त बनून धार्मिक बनावे व घरातील कार्य योग्यरीत्या पार पाडून सुखी व्हावे.
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. स्री-पुरुषांनी परस्पर आनंदासाठी जलाप्रमाणे शांत राहावे व चांगल्या वर्तनाने परस्पर शोभून दिसावे.
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+तस्मा इति ॥ तस्मै रसाय अरं शीघ्रं पर्याप्तं वा गमाम गच्छेम वः युष्मान् तद्रसस्य पानार्थं युष्मान् गच्छेम । यस्येति तृतीयार्थे षष्ठी, येन रसेन क्षयाय । निवासवचनोयं आद्युदात्तत्वात् द्वितीयार्थे चतुर्थी । क्षयं निवासं अस्मदीयं जिन्वथ प्रीणयथ । येन च हे आपः जनयथ पुत्रपौत्रादिभिः प्रजातान् कुरुथ नः अस्मान् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Let us quickly have recourse to you, for that your (faculty) of removing (sin) by which you gladden us;waters, bestow upon us progeny.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Let us go to you at once for him to whose house you are hastening; waters,reinvogorate us; faculty of removing sin: **kṣaya** = nivāsa, abode;
+
+Aram = paryāptim, sufficiency; perhaps arecommendation to be regular in practising ablution
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Let us, as your (offspring), go to be fit for him for whose peaceful  dwelling you animate  
+and beget us, o Waters.
+</details>
+
+<details><summary>Griffith</summary>
+
+To you we gladly come for him to whose abode ye send us on;  
+     And, Waters, give us procreant strength.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -669,26 +1992,62 @@ To whose dwelling ye quicken us,
 O waters, and propagate us.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
 
-तस्मा॒ अर॑ङ्गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ ।  
-आपो॑ ज॒नय॑था च नः ।  
+To you we gladly come, etc., as in XI. 52,
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Geldner</summary>
 
-तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ॥ आपः॑ । ज॒नय॑थ । च॒ । नः॒ ॥
+Dem möchten wir euch recht kommen, für dessen Haus ihr uns erfrischet und neugebäret, ihr Gewässer.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>Grassmann</summary>
 
-यस्य रसस्य क्षयाय क्षयेण निवासेन जिन्वथ यूयं प्रीता भवथ, तस्मै रसाय वौ युष्मानरं गमामालं भृशं प्राप्नुमः ।   किंच हे आपो यूयं नोऽस्माञ्जनयथ प्रजोत्पादकन्कुरुथ।   एतैर्मन्त्रैः साध्यं जलमेलनं विधत्ते— ‘अप उप सृजत्यापो वै शान्ताः शान्ताभिरेवास्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।   अस्याग्नेः शुचं शोकं दाहमित्यर्थः।  
-आपो हि ष्ठेत्याद्युचस्तत्र विनियुङ्क्ते— ‘तिसृभिरुप सृजति त्रिवृद्वा अग्निर्यावानेवाग्निस्तस्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।  
-आहवनीयादिरूपेणाग्नेस्त्रैगुण्यम्।   तस्य सर्वस्याग्नेर्मन्त्रत्रयेण दाहशान्तिः।   
-</details>
+Für solchen gehn wir euch zur Hand, zu dessen Sitz ihr eilend naht, Ihr Wasser machet kräftig uns.
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Elizarenkova</summary>
+
+Мы хотим прийтись у вас ко двору тому,  
+Для чьего жилища вы нас освежаете,  
+О воды, и возрождайте (снова).
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः
+- त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वाम्बरीषः
+- गायत्री
+- षड्जः
+
+- आपो देवताः
+- सिन्धुद्वीप ऋषिः
+- गायत्री
+- षड्जः
+
+- आपो देवताः
+- सिन्धुद्वीप ऋषिः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यस्य) जिस रस के (क्षयाय) निवास के लिए-सात्म्य करने के लिए-संस्थापित करने के लिए (आपः) हे जलो ! (जिन्वथ) तृप्त करते हो (तस्मै) उस रस के लिए-उसकी पुष्टि के लिए (वः) तुम्हें (अरं गमाम) हम पूर्णरूप से सेवन करते हैं (च) और (नः) हमें (जनयथ) प्रादुर्भूत-समृद्ध-पुष्ट करते हो ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  जल का सार भाग शरीर में सात्म्य हो जाता है, वह समृद्ध करने, पुष्ट करने का निमित्त बनता है। इसी प्रकार आप विद्वान् जनों का ज्ञान-सार आत्मा में बैठ जाता है, जो आत्मा को बल देता है ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यस्य क्षयाय) यस्य रसस्य निवासाय शरीरे सात्म्यकरणाय संस्थापनाय“क्षि निवासगत्योः” [तुदादिः](../../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md/आपः-जिन्वथ) हे आपः ! तर्पयथ (तस्मै वः-अरं गमाम) तत्प्राप्तये युष्मान् पूर्णरूपेण सेवेमहि (च) यतश्च (नः-जनयथ) अस्मान् प्रादुर्भावयथ पोषयथ, उक्तं यथा-“वेत्थ यदा पञ्चम्यामाहुतावापः पुरुषवचसो भवन्ति” [छान्दो० ५।३।३] ॥३॥
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -866,13 +2225,18 @@ May Sinivali fashion [2] this (pan).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिनीवाली᳓ सुकपर्दा᳓ सुकुरीरा᳓ स्वौपशा᳓ ।  
-सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।  
+सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/11/56_sinIvAlI_sukapardA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
+
+May Sinîvâlî with fair braids, with beauteous crest, with lovely locks, May she, O mighty Aditi, bestow the Fire-pan in thy hands.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -882,24 +2246,172 @@ May she, O Aditi, O great one,
 Place within thy hands the pan.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
-सि॒नी॒वा॒ली सु॑कप॒र्दा सु॑कुरी॒रा स्वौ॑प॒शा ।  
-सा तुभ्य॑मदिते मह॒ ओखान्द॑धातु॒ हस्त॑योः ।  
+सि॒नी॒वा॒ली सु॑कप॒र्दा सु॑कुरी॒रा स्वौ॑प॒शा।  
+सा तुभ्य॑मदिते म॒ह्योखां द॑धातु॒ हस्त॑योः ॥५६ ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+सि॒नी॒वा॒ली सु॑कप॒र्दा सु॑कुरी॒रा स्वौ॑प॒शा ।  
+सा तुभ्य॑मदिते मह॒ ओखान्द॑धातु॒ हस्त॑योः ।
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+सि॒नी॒वा॒ली। सु॒क॒प॒र्देति॑ सुऽकप॒र्दा। सु॒कु॒री॒रेति॑ सुऽकुरी॒रा। स्वौ॒प॒शेति॑ सुऽऔप॒शा। सा। तुभ्य॑म्। अ॒दि॒ते॒। म॒हि॒। आ। उ॒खाम्। द॒धा॒तु॒। हस्त॑योः। ५६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+सि॒नी॒वा॒ली। सु॒क॒प॒र्देति॑ सुऽकप॒र्दा। सु॒कु॒री॒रेति॑ सुऽकुरी॒रा। स्वौ॒प॒शेति॑ सुऽऔप॒शा। सा। तुभ्य॑म्। अ॒दि॒ते॒। म॒हि॒। आ। उ॒खाम्। द॒धा॒तु॒। हस्त॑योः। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सि॒नी॒वा॒ली । सु॒क॒प॒र्देति॑ सु-क॒प॒र्दा । सु॒कु॒री॒रेति॑ सु-कु॒री॒रा । स्वौ॒प॒शेति॑ सु-औ॒प॒शा ॥ सा । तुभ्य॑म् । अ॒दि॒ते॒ । म॒हे॒ । एति॑ । उ॒खाम् । द॒धा॒तु॒ । हस्त॑योः ॥
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>उवट-टीका</summary>
 
-या सिनीवाली सुकपर्दा, कपर्दोऽत्र स्त्रीणामुचितः केशब-न्धविशेषः।   शोभनः कपर्दो यस्याः सा सुकपर्दा ।   कुरीरशब्देन स्त्रीभिः शृङ्गारार्थं शिरसि धार्यमाणं जालकमुच्यते।   शोभनं कुरीरं यस्याः सुकुरीरा ।   उपशेते सम्य-क्शयनं करोति यैरवयवविशेषैस्ते सर्व उपशास्तोषां समूह औपशः।   शोभन औपशो यस्याः सा स्वौपशा।   हे महे प्रौढेऽदिते भूमिदेवि सा सिनीवाली तुभ्यं तव हस्तयोरु-खामादधातु।  
+या सिनीवाली सुकपर्दा।
+
+कपर्दः केशसंयमनप्रकारः।
+
+साधु केशसंयमना वेणिर्वा कपर्दः।
+
+सुकुरीरा कुरीरो मुकुटः शोभनमुकुटा।
+
+स्वौपशा शोभनमुपशेते या सा स्वौपशा विदग्धः शयने करकण्ठकूजितादिभिर्विलासैर्यस्याः सा तुभ्यं हे अदिते, महि महति, उखां दधातु स्थापयतु हस्तयोः॥५६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+‘अदितिरदीना देवमाता’ (निरु० ४। २३) इति यास्कः।
+
+हे अदिते देवमातः, हे महि महति, सा पूर्वमन्त्रोक्ता सिनीवाली तुभ्यं तव हस्तयोः उखामादधातु स्थापयतु।
+
+कीदृशी सा।
+
+सुकपर्दा कपर्दोऽत्र स्त्रीणामुचितः केशबन्धविशेषः।
+
+शोभनः कपर्दो यस्याः सा सुकपर्दा।
+
+सुकुरीरा स्त्रीभिः शृङ्गारार्थं शिरसि धार्यमाणं कनकाभरणं कुरीरः।
+
+शोभनः कुरीरो यस्याः सा सुकुरीरा सुमुकुटा।
+
+स्वौपशा सम्यकुपशेते शयनं कुरुते यैरवयवविशेषैस्ते सर्वेऽप्युपशाः तेषां समूह औपशः।
+
+शोभनः शयनविदग्धो विलासचतुर औपशोऽवयवसमूहो यस्याः सा॥ ५६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ द्वितीयः - 'सिनी-वाली सुक-पर्दा सुकुरीरा स्वौपशा । सा तुभ्यम् अदिते मह्योखां दधातु हस्तयो:' इति ।
+
+या 'सिनी-वाली सुक-पर्दा ।
+
+कदपैति स्त्रीणामुचितः केश-बन्ध-विशेषः ।
+
+शोभनः कपर्दो यस्याः सा सुक-पर्दा ।
+
+[सुकुरीरा ] कुरीर-शब्दे न स्त्रीभिः शृङ्गारार्थं शिरसि धार्यमाणं कालकमुच्यते ।
+
+शोभनं कुरीरं यस्याः सा सुकुरीरा ।
+
+[ स्वौपशा ] सु उपशेते सम्यक् शयनं कुरुते यैरवयव-विशेषैस् ते सर्वेऽप्युपशाः ।
+
+तेषां समूह औपशः ।
+
+शोभन औपशो यस्याः सा स्वौपशा ।
+
+हे महि प्रौढे अदिते अखण्डनीये ।
+
+आदितिरदीना देवमाता ” ( नि ४०२२ ) इति यास्क-वचनात् ।
+
+तादृशि हे भूमे, 'सा सिनी-वाली तुभ्यं तव हस्तयोः 'उखाम् 'आदधातु स्थापयतु ॥ ७॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+या 'सिनीवाली 'सुक-पर्दा ।
+
+कपर्द : केश-संयमन-प्रकारः ।
+
+साधु-संयमिता वेणिर् वा कपर्दः ।
+
+सुशोभनः कपर्दो यस्याः सा सुक-पर्दा ।
+
+'सुकुरीरा ।
+
+कुरीरो मकुट : शोभनो यस्याः सा सुकुरीरा ।
+
+स्वौपशा ।
+
+शोभनमुपशेते या सा सूपशा ।
+
+सैव स्वौपशा ।
+
+विदग्धा शयने कर-चरण-कूजितादिभिः
+देवैः ( 45 )
+कुरुते
+विलासैः विलासवती च स्वापशा ।
+
+सा हे अदिते महि मही-रूपे, तुभ्यं "हस्तयोः उखां
+दधातु स्थापयतु ॥७॥
+</details>
+
+<details><summary>सायण-टीका (तैत्तिरीया)</summary>
+
+या सिनीवाली सुकपर्दा, कपर्दोऽत्र स्त्रीणामुचितः केशब-न्धविशेषः।   शोभनः कपर्दो यस्याः सा सुकपर्दा ।   कुरीरशब्देन स्त्रीभिः शृङ्गारार्थं शिरसि धार्यमाणं जालकमुच्यते।   शोभनं कुरीरं यस्याः सुकुरीरा ।   उपशेते सम्य-क्शयनं करोति यैरवयवविशेषैस्ते सर्व उपशास्तोषां समूह औपशः।   शोभन औपशो यस्याः सा स्वौपशा।   हे महे प्रौढेऽदिते भूमिदेवि सा सिनीवाली तुभ्यं तव हस्तयोरु-खामादधातु।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अदितिर्देवता
+- सिन्धुद्वीप ऋषिः
+- विराडनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर भी पूर्वोक्त विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (महि) सत्कार के योग्य (अदिते) अखण्डित आनन्द भोगनेवाली स्त्री ! जो (सिनीवाली) प्रेम से युक्त (सुकपर्दा) अच्छे केशोंवाली (सुकुरीरा) सुन्दर श्रेष्ठ कर्मों को सेवने हारी और (स्वौपशा) अच्छे स्वादिष्ट भोजन के पदार्थ बनानेवाली जिस (तुभ्यम्) तेरे (हस्तयोः) हाथों में (उखाम्) दाल आदि राँधने की बटलोई को (दधातु) धारण करे (सा) उस का तू सेवन कर ॥५६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  श्रेष्ठ स्त्रियों को उचित है कि अच्छी शिक्षित चतुर दासियों को रक्खें कि जिससे सब पाक आदि की सेवा ठीक-ठीक समय पर होती रहे ॥५६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तदेवाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मह्यदिते ! या सिनीवाली सुकपर्दा सुकुरीरा स्वौपशा यस्यै तुभ्यं हस्तयोरुखां दधातु सा, त्वया संसेव्या ॥५६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  सतीभिः स्त्रीभिः सुशिक्षिताश्चतुराः परिचारिका रक्षणीयाः। यतः सर्वाः पाकादिसेवा यथाकालं स्युः ॥५६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  श्रेष्ठ स्त्रियांनी चांगल्या शिक्षित चतुर दासी (पदरी) ठेवाव्यात. त्यामुळे स्वयंपाक इत्यादी सेवा चांगल्या प्रकारे व वेळेवर होत राहील.
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

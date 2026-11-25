@@ -3,6 +3,7 @@ title: ०६  ऐष्टिकयाजमानमन्त्राः
 unicode_script: devanagari
 
 ---
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1335,25 +1336,65 @@ unicode_script: devanagari
 म᳓नो ज्यो᳓तिर्जुषतामा᳓ज्यम् ।  
 वि᳓च्छिन्नय्ँ यज्ञँ᳓ स᳓मिम᳓न्दधातु ।  
 बृ᳓हस्प᳓तिस्तनुतामिम᳓न्नः ।  
-वि᳓श्वे देवा᳓ इह᳓ मादयन्ताम् ।  
+वि᳓श्वे देवा᳓ इह᳓ मादयन्ताम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Keith</summary>
 
-<details><summary>मूलम्</summary>
+Mind, light, rejoice in the oblation.  
+May be unite this scattered sacrifice;  
+May Brhaspati extend it;  
+May the All-gods rejoice herein.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+मनो॒ ज्योति॑र्जुषता॒माज्यव्ँ॒विच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धातु ।  
+बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 मनो॒ ज्योति॑र्जुषता॒माज्य॑म् ।  
 विच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धातु ।  
 बृह॒स्पति॑स्तनुतामि॒मन्नः॑ ।  
-विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम् ।  
+विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम् ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+मनः॑ । ज्योतिः॑ । जु॒ष॒ता॒म् । आज्य॑म् । विच्छि॑न्न॒मिति॒ वि-छि॒न्न॒म् । य॒ज्ञम् । समिति॑ । इ॒मम् । द॒धा॒तु॒ ॥ बृह॒स्पतिः॑ । त॒नु॒ता॒म् । इ॒मम् । नः॒ । विश्वे॑ । दे॒वाः । इ॒ह । मा॒द॒य॒न्ता॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 म᳓नः । ज्यो᳓तिः । जुषताम् । आ᳓ज्यम् । वि᳓-छिन्नम् । यज्ञ᳓म् । स᳓म् । इम᳓म् । दधातु । बृ᳓हस्प᳓तिः । तनुताम् । इम᳓म् । नः । वि᳓श्वे । देवाः᳓ । इह᳓ । मादयन्ताम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने तव **ज्योतिः** कीदृशं मननीयम् ।  
+
+यद्वा - **मनश्** शेषमुद्वासितेन पीडितं यन् मननीयम् एवासीत्  
+नान्यत्वे[त्र]विद्यते तद् इदम् **आज्यं जुषतां** सेवतां अनेन कर्मणा पूर्ववत्समृद्धमस्तु । 
+
+यद्वा - **मनस्** सदा मननीयं मनोहरं अग्न्याख्यं **ज्योतिः** उद्वासनापराधं चेतस्य् अकृत्वा **जुषताम् आज्यम्** इति । ततो **विच्छिन्नम्** उद्वासने तव **यज्ञम् इमं सन्दधातु** । 
+
+बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मनो ज्योतिरिति।  
+
+कल्पः - “अथान्तर्वेद्यद्भिर्मार्जयते मनो ज्योतिर्जुषता-माज्यं विच्छिन्नं यज्ञँ समिमं दधातु। बृहस्पतिस्तनुतामिमं नो विश्वे देवा इह मादयन्तामिति” इति।   
+
+मनो ज्योतिर्मननीयोऽयमग्निस्तत्तदाहुतिष्वाज्यं सेवताम्। केनापि वैकल्येन विच्छिन्नमिमं यज्ञं वैकल्यपरिहारेण संदधातु। बृहस्पतिः स्वयमेव नोऽस्मदीयमिमं यज्ञ तनुताम्। विश्वे देवा इड यज्ञे मादयन्तां तृप्यन्तु।
+</details>
+
+<details><summary>भट्टभास्कर-टीका (ब्राह्मणम्)</summary>
 
 'भूमिर्भूम्ना' इत्यत्र व्याख्यातः ॥
 
@@ -1363,8 +1404,7 @@ unicode_script: devanagari
   -   टीका7अग्निहोत्रमन्त्रावुपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ हे अग्ने तव ज्योतिः कीदृशं मननीयम् । यद्वा - मनश्शेषमुद्वासितेन पीडितं यन्मननीयमेवासीत् नान्यत्वे[त्र]विद्यते तदिदमाज्यं जुषतां सेवतां अनेन कर्मणा पूर्ववत्समृद्धमस्तु । यद्वा - मनस्सदा मननीयं मनोहरं अग्न्याख्यं ज्योतिः उद्वासनापराधं चेतस्यकृत्वा जुषतामाज्यमिति । ततो विच्छिन्नमुद्वासने तव यज्ञमिमं सन्दधातु । बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1900,94 +1940,890 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्य᳓न्नद्य᳓ मित्रमहः ।  
 आरो᳓हन्नु᳓त्तरान्दि᳓वम् ।  
 हृद्रोग᳓म्म᳓म सूर्य ।  
-हरिमा᳓णञ्च नाशय ।  
+हरिमा᳓णञ्च नाशय ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/11_udyannadya_mitramaha.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - सूर्यः
+- ऋषिः - प्रस्कण्वः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उद्य᳓न्न् अद्य᳓ मित्रमह  
+आरो᳓हन्न् उ᳓त्तरां दि᳓वम्  
+हृद्रोग᳓म् म᳓म सूरिय  
+हरिमा᳓णं च नाशय
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
+_________
+**Morph**  
+adyá ← adyá (invariable)  
+{}
+
+mitramahaḥ ← mitrámahas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+udyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+āróhan ← √ruh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dívam ← dyú- ~ div- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+úttarām ← úttara- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+hr̥drogám ← hr̥drogá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+máma ← ahám (pronoun)  
+{case:GEN, number:SG}
+
+sūrya ← sū́rya- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+harimā́ṇam ← harimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nāśaya ← √naś- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒द्यन्न॒द्य मि॑त्रमह आ॒रोह॒न्नुत्त॑रां॒ दिव॑म् ।  
+हृ॒द्रो॒गं मम॑ सूर्य हरि॒माणं॑ च नाशय ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 उ॒द्यन्न॒द्य मि॑त्रमहः ।  
 आ॒रोह॒न्नुत्त॑रा॒न्दिव॑म् ।  
 हृ॒द्रो॒गम्मम॑ सूर्य ।  
-ह॒रि॒माण॑ञ्च नाशय ।  
+ह॒रि॒माण॑ञ्च नाशय ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+उ॒त्ऽयन् । अ॒द्य । मि॒त्र॒ऽम॒हः॒ । आ॒ऽरोह॑न् । उत्ऽत॑राम् । दिव॑म् ।  
+हृ॒त्ऽरो॒गम् । मम॑ । सू॒र्य॒ । ह॒रि॒माण॑म् । च॒ । ना॒श॒य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उत्-य᳓न् । अद्य᳓ । मित्र-महः । आ । अरो᳓हन् । उ᳓त्-तराम् । दि᳓वम् । हृद्-रोग᳓म् । म᳓म । सूर्य । हरिमा᳓णम् । च । नाशय ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *udyann* ← *udyan* ← *udi* ← *√i*
+- \[verb noun\], nominative, singular
+- “rise; originate; rise; increase.”
+
+_________
+
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+
+_________
+
+- *mitramaha* ← *mitra*
+- \[noun\], masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+
+_________
+
+- *mitramaha* ← *maha*
+- \[noun\], vocative, singular, masculine
+- “great; abundant.”
+
+_________
+
+- *ārohann* ← *ārohan* ← *āruh* ← *√ruh*
+- \[verb noun\], nominative, singular
+- “board; hop on; climb; ascend; descend; ride; copulate; grow.”
+
+_________
+
+- *uttarāṃ* ← *uttarām* ← *uttara*
+- \[noun\], accusative, singular, feminine
+- “northern; following; upper; additional; better; more(a); last;
+    concluding; superior; later(a); uttara \[word\]; prevailing; future;
+    left; northerly; northerly; higher; second; dominant; excellent;
+    chief(a).”
+
+_________
+
+- *divam* ← *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *hṛdrogam* ← *hṛd*
+- \[noun\], neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+
+_________
+
+- *hṛdrogam* ← *rogam* ← *roga*
+- \[noun\], accusative, singular, masculine
+- “disease; illness; ache; roga \[word\].”
+
+_________
+
+- *mama* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *sūrya*
+- \[noun\], vocative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+
+- *harimāṇaṃ* ← *harimāṇam* ← *hariman*
+- \[noun\], accusative, singular, masculine
+- “jaundice.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *nāśaya* ← *nāśay* ← *√naś*
+- \[verb\], singular, Present imperative
+- “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
+
+_________
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सूर्य** सर्वस्य प्रेरक **मित्रमहः** सर्वेषामनुकूलदीप्तियुक्त **अद्य** अस्मिन् काले **उद्यन्** उदयं गच्छन् **उत्तराम्** उद्गततरां **दिवम्** अन्तरिक्षम् **आरोहन** आभिमुख्येन प्राप्नुवन् । यद्वा । दिवम् अन्तरिक्षम् उत्तराम् आरोहन् उत्कर्षेण प्राप्नुवन् । एवंविधस्त्वं **मम** **हृद्रोगं** हृदयगतमान्तरं रोगं **हरिमाणं** शरीरगतकान्तिहरणशीलं बाह्यं रोगम् । यद्वा । शरीरगतं हरिद्वर्णं रोगप्राप्तं वैवर्ण्यमित्यर्थः । तदुभयमपि **नाशय** । मां स्तोतारमुभयविधाद्रोगान्मोचयेत्यर्थः ॥ मित्रमहः । मित्रमनुकूलं महस्तेजो यस्यासौ । आमन्त्रितनिघातः । उत्तराम् । उत् इत्यनेन उपसर्गेण स्वसंसृष्टधात्वर्थो लक्ष्यते । तस्मादातिशायनिकः तरप्प्रत्ययः । प्रथमपक्षेऽन्तरिक्षविशेषणत्वेन द्रव्यप्रकर्षप्रतीतेः आम् न भवति । द्वितीये त्वारोहणक्रियायाः प्रकर्षो गम्यते इति किमेत्तिङव्ययघादाभ्वद्रव्यप्रकर्षे ' ( पा. सू. ५. ४. ११ ) इति आमुः। प्रथमपक्षे टाप्तरपोः पित्त्वादनुदात्तत्वे उपसर्गस्वर एव शिष्यते । द्वितीये तु आम्प्रत्ययस्य सतिशिष्टत्वात् तस्यैव स्वरे प्राप्ते व्यत्ययेनाद्युदात्तत्वम् । वृषादिर्वा द्रष्टव्यः । स ह्याकृतिगणः । हृद्रोगम् । “ वा शोकप्यञ्रोगेषु' ( पा. सू. ६.३.५१ ) इति हृदयशब्दस्य हृदादेशः । मम ।  ‘ युष्मदस्मदोर्ङसि' इत्याद्युदात्तत्वम् । हरिमाणम् ।  ‘ हृञ् हरणे ।  ‘ जनिहृभ्यामिमनिन् ' ( उ. सू. ४. ५८८ ) इति औणादिक इमनिन्प्रत्ययः । व्यत्ययेनान्तोदात्तत्वम् । यद्वा । हरिच्छब्दस्य वर्णवाचित्वात्  वर्णदृढादिभ्यः ष्यञ् च ' (पा. सू. ५. १. १२३) इति चकारात् इमनिन्प्रत्ययः । इष्ठेमेयःसु ' इत्यनुवृत्तौ  ‘ टेः' इति टिलोपः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 40उद्यन्निति ॥ हे सूर्य! मित्रमहः! उत्तरां दिवं दिवो मध्यं आरोहन् अद्यैव मे हृद्रोगं मानसीं पीडां हरिमाणं हरिततां शोकप्रभवं वैवर्ण्यं कामिलादीन्वा व्याधीन् नाशय ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Radiant with benevolent light, rising today and mountina into the highest heaven, do you O Sun, remove sickness of my heart, and the yellowness (of my body).”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Hrḍ-**roga** = heart-burn or indigestion;
+
+Harimāṇam = greenness (caused by bilious afflictions). Praśkaṇva was reportedly cured of leprosy or a cutaneous malady, with this praise of **Sūrya**; **Śaunaka** treats this as a **mantra** dedicated to the Sun to remove sin, heal disease, be an antidote to poison and as a means of obtaining present happiness and final liberation
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details><summary>Jamison Brereton</summary>
+
+As you go up today, o you of Mitra’s might, and mount the higher  heaven,  
+banish my heart-affliction and jaundice, o Sun.
+</details>
+
+<details><summary>Griffith</summary>
+
+Rising this day, O rich in friends, ascending to the loftier heaven,  
+     Surya remove my heart's disease, take from me this my yellow hue.
+</details>
+
+<details><summary>Geldner</summary>
+
+Wenn Du heute aufgehst, du als Freund Geehrter, und am Himmel höher steigst, so vertreibe, o Surya, meine Herzkrankheit und Gelbsucht!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Aufgehend heute, o Freunderfreuer, aufsteigend zum höchsten Himmel, o Sonnengott, vertilge meine Herzkrankheit und meine Gelbsucht.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О почитаемый как друг, восходя сегодня  
+(И) поднимаясь на высшее небо,  
+Уничтожь, о Сурья,  
+Мою болезнь сердца и желтуху!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- प्रस्कण्वः काण्वः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा है, इस विषय का उपदेश अगले मंत्र में किया है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (मित्रमहः) मित्रो से सत्कार के योग्य (सूर्य्य) सब ओषधी और रोगनिवारण विद्याओं के जाननेवाले विद्वान् ! आप जैसे (अद्य) आज (उद्यन्) उदय को प्राप्त हुआ वा (उत्तमम्) कारण रूपी (दिवम्) दीप्ति को (आरोहन्) अच्छे प्रकार करता हुआ अन्धकार का निवारण कर दिन को प्रकट करता है वैसे मेरे (हृद्रोगम्) हृदय के रोगों और (हरिमाणम्) हरणशील चोर आदि को (नाशय) नष्ट कीजिये ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालंकार है। जैसे सूर्य के उदय में अन्धेर और चोरादि निवृत्त हो जाते हैं वैसे उत्तम वैद्य की प्राप्ति से कुपथ्य और रोगों का निवारण हो जाता है ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  पुनः स कीदृशोऽस्तीत्युपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+(उद्यन्) उदयं प्राप्नुवन्सन् (अद्य) अस्मिन्वर्त्तमाने दिने (मित्रमहः) यः सर्वमित्रैः पूज्यते तत्सम्बुद्धौ (आरोहन्) समारूढः सन् जगत्यारोहणं कुर्वन्वा (उत्तराम्) कारणरूपाम् (दिवम्) दीप्तिम् (हृद्रोगम्) यो हृदयस्याज्ञानादिज्वरादिरोगस्तम् (मम) मनुष्यादेः (सूर्य) सर्वोषधीरोगनिवारणविद्यावित् (हरिमाणम्) सुखहरणशीलं (च) समुच्चये (नाशय) ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मित्रमहः ! सूर्य विद्वंस्त्वं यथाऽद्योद्यन्नुत्तरां दिवमारोहन् सविताऽन्धकारं निवार्य्य दिनं जनयति तथा मम हृद्रोगं हरिमाणं च नाशय ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालंकारः। यथा सूर्य्योदयेऽन्धकारचोरादयो निवर्त्तन्ते तथा सद्वैद्ये प्राप्ते कृपथ्यरोगा निवर्त्तन्ते ॥११॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्याचा उदय झाल्यानंतर अंधःकार व चोर यांचे निवारण होते तसे उत्तम उत्तम वैद्याच्या प्राप्तीने कुपथ्य व रोगांचे निवारण होते. ॥ ११ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓केषु मे हरिमा᳓णम् ।  
 रोपणा᳓कासु दध्मसि ॥76॥  
 अ᳓थो हारिद्रवे᳓षु मे ।  
-हरिमा᳓णन्नि᳓दध्मसि ।  
+हरिमा᳓णन्नि᳓दध्मसि ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/12_shukeShu_me.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - सूर्यः
+- ऋषिः - प्रस्कण्वः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+शु᳓केषु मे हरिमा᳓णं  
+रोपणा᳓कासु दध्मसि  
+अ᳓थो हारिद्रवे᳓षु मे  
+हरिमा᳓णं नि᳓ दध्मसि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
+_________
+**Morph**  
+harimā́ṇam ← harimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śúkeṣu ← śúka- (invariable)  
+{case:LOC, gender:M, number:PL}
+
+dadhmasi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ropaṇā́kāsu ← ropaṇā́kā- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+átha ← átha (invariable)  
+{}
+
+hāridravéṣu ← hāridravá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+u ← u (invariable)  
+{}
+
+dadhmasi ← √dhā- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+harimā́ṇam ← harimán- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ní ← ní (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुके॑षु मे हरि॒माणं॑ रोप॒णाका॑सु दध्मसि ।  
+अथो॑ हारिद्र॒वेषु॑ मे हरि॒माणं॒ नि द॑ध्मसि ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 शुके॑षु मे हरि॒माण॑म् ।  
 रो॒प॒णाका॑सु दध्मसि ॥76॥  
 अथो॑ हारिद्र॒वेषु॑ मे ।  
-ह॒रि॒माण॒न्निद॑ध्मसि ।  
+ह॒रि॒माण॒न्निद॑ध्मसि ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+शुके॑षु । मे॒ । ह॒रि॒माण॑म् । रो॒प॒णाका॑सु । द॒ध्म॒सि॒ ।  
+अथो॒ इति॑ । हा॒रि॒द्र॒वेषु॑ । मे॒ । ह॒रि॒माण॒म् । नि । द॒ध्म॒सि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शु᳓केषु । मे । हरिमा᳓णम् । रोपणा᳓कासु । दध्मसि । अ᳓थो । हारिद्रवे᳓षु । मे । हरिमा᳓णम् । नि᳓ । दध्मसि ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *śukeṣu* ← *śuka*
+- \[noun\], locative, plural, masculine
+- “Śuka; parrot; Śuka.”
+
+_________
+
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *harimāṇaṃ* ← *harimāṇam* ← *hariman*
+- \[noun\], accusative, singular, masculine
+- “jaundice.”
+
+_________
+
+- *ropaṇākāsu* ← *ropaṇākā*
+- \[noun\], locative, plural, feminine
+
+_________
+
+- *dadhmasi* ← *dhā*
+- \[verb\], plural, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *atho*
+- \[adverb\]
+- “now; but; furthermore.”
+
+_________
+
+- *hāridraveṣu* ← *hāridrava*
+- \[noun\], locative, plural, masculine
+
+_________
+
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *harimāṇaṃ* ← *harimāṇam* ← *hariman*
+- \[noun\], accusative, singular, masculine
+- “jaundice.”
+
+_________
+
+- *ni*
+- \[adverb\]
+- “back; down.”
+
+_________
+
+- *dadhmasi* ← *dhā*
+- \[verb\], plural, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+मित्रमह- महास्नेहसंपन्न। सूर्य। अद्य- इदानीम्। उद्यन्- उदयन्। उत्तरां दिवम्-  उत्कृष्टतरमाकाशम्। आरोहन्- उद्गच्छन्। मम। हृद्रोगम्। हरिमाणम्- विषबाधया शरीरे स्थितं  हरिद्वर्णं च। नाशय। मे- मम। हरिमाणम्- हरिद्वर्णम्। शुकेषु। रोपणकासु- शारिकासु। नि  दध्मसि- स्थापयामः। अथो- अपि च। हारिद्रवेषु- हरितालद्रुमेषु। दध्मसि। तेष्वेव स वर्णः  साधुर्भवति॥११-१२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मे** मदीयं **हरिमाणं** शरीरगतं हरिद्वर्णस्य भावं **शुकेषु** तादृशं वर्णं कामयमानेषु पक्षिषु तथा **रोपणाकासु** शारिकासु पक्षिविशेषेषु **दध्मसि** स्थापयामः । **अथो** अपि च **हारिद्रवेषु** हरितालद्रुमेषु तादृग्वर्णवत्सु **मे** मदीयं **हरिमाणं** **नि** **दध्मसि** निदधीमहि । स च हरिमा तत्रैव सुखेनास्ताम् अस्मान् मा बाधिष्टेत्यर्थः ॥ दध्मसि । 'इदन्तो मसि' इति मस इकारागमः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 41शुकेष्विति ॥ हे सूर्य! मम हरिमाणं हरिततां हृद्रोगनिमित्तां शुकेषु रोपणाकासु शुकशारिकासु च दध्मसि स्थापयामः ये हरिमाणं प्रार्थयन्ते । अथो अपि हारिद्रवेषु हरितालद्रुमेषु मम हरिमाणं निदध्मसि निभृतं स्थापयामः तत्र सुखमास्तां मा मां बाधिष्ट ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Let us transfer the yellowness (of my body) to the parrots, to the starlings, or to the **haritāla** (tree).”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Haridrava = haritāla **druma**; this may be a reference to haridrava, a yellow vegetable power, yllow orpiment
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details><summary>Jamison Brereton</summary>
+
+In the parrots, in the ropanā-birds we place my jaundice.  
+And in the hāridrava-birds we deposit my jaundice.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Elizabeth Tucker comments “1.50.12 is AVS 1.22.4, AVP 1.28.4, the final verse of 4-verse compositions for getting rid of jaundice. However, it's interesting that in both AV recensions the first verse refers to the sun, but it's not the same as RV 1.50.11. The RV seems to have a tṛca which incorporates the verse that appears as 1.50.12 whereas AV tacks it on to a different tṛca. On the other hand, the 1st pl verb forms are jarring in RV 1.50.12, but in the AV they harmonise with other 1st pls.” This formal and structural argument suggests that the verse was taken over from Atharvan context, a possibility that its contents also support.
+</details>
+
+<details><summary>Griffith</summary>
+
+To parrots and to starlings let us give away my yellowness,  
+     Or this my yellowness let us transfer to Haritala trees.
+</details>
+
+<details><summary>Geldner</summary>
+
+Auf die Papageien, auf die Ropanaka´s legen wir meine Gelbsucht und auf die Harisdrava´s legen wir meine Gelbsucht ab.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Auf die Papageien und die Drosseln legen wir meine Gelbsucht, auf die gelbfüssigen Vögel legen wir meine Gelbsucht nieder.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Попугаям – мою желтуху,  
+(Птицам) ропанака – мы оставляем,  
+А также (птицам) харидрава мою  
+Желтуху мы оставляем!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- प्रस्कण्वः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वे क्या करें, इस विषय का उपदेश अगले मंत्र में किया है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  जैसे श्रेष्ठ वैद्य लोग कहें वैसे हम लोग (शुक्रेषु) शुत्रों के समान किये हुए कर्मो और (रोपणाकासु) लेप आदि क्रियाओं से (मे) मेरे (हरिमाणम्) चित्त को खैंचने वाले रोगनाशक ओषधियों को (दध्मसि) धारण करें (अथो) इसके पश्चात् (हारिद्रवेषु) जो सुख हरने मल बहाने वाले रोग हैं उनमें (मे) अपने (हरिमाणम्) हरणशील चित्त को (निदध्मसि) निरन्तर स्थिर करें ॥१२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य लोग लेपनादि क्रियाओं से रोगों का निवारण करके बल को प्राप्त होवें ॥१२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  पुनस्ते किं कुर्य्युरित्याह इत्युपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+(शुक्रेषु) शुक्रवत्कृतेषु कर्मसु (मे) मम (हरिमाणम्) हरणशीलं रोगम् (रोपणाकासु) रोपणं समन्तात्कामयन्ति तासु क्रियासु लिप्तास्वोषधीषु (दध्मसि) धरेम (अथो) आनन्तर्ये (हारिद्रवेषु) ये हरन्ति द्रवन्ति द्रावयन्ति च तेषामेतेषु (मे) मम (हरिमाणम्) चित्ताकर्षकं व्याधिम् (नि) नितराम् (दध्मसि) स्थापयेम ॥१२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  यथा सद्वैद्या ब्रूयुस्तथा वयं शुक्रेषु रोपणाकासु मे हरिमाणं दध्मस्यथो हारिद्रवेषु मे मम हिरमाणं निदध्मसि ॥१२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालंकारः। मनुष्या लेपनादिक्रियाभिः सर्वान्रोगान्निवार्य बलं प्राप्नुवन्तु ॥१२॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी लेप इत्यादी क्रियांनी रोगांचे निवारण करून बल प्राप्त करावे. ॥ १२ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दगादय᳓मादित्यः᳓ ।  
 वि᳓श्वेन स᳓हसा सह᳓ ।  
 द्विष᳓न्तम्म᳓म रन्ध᳓यन् ।  
-मो᳓ अह᳓न्द्विषतो᳓ रधम् ।  
+मो᳓ अह᳓न्द्विषतो᳓ रधम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/13_udagAdayamAdityo_vishvena.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - सूर्यः
+- ऋषिः - प्रस्कण्वः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उ᳓द् अगाद् अय᳓म् आदित्यो᳓  
+वि᳓श्वेन स᳓हसा सह᳓  
+द्विष᳓न्तम् म᳓ह्य° रन्ध᳓यन्  
+मो᳓ अहं᳓ द्विषते᳓ रधम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
+_________
+**Morph**  
+ādityáḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agāt ← √gā- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+sahá ← sahá (invariable)  
+{}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+víśvena ← víśva- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dviṣántam ← √dviṣ- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+máhyam ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+randháyan ← √randh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ahám ← ahám (pronoun)  
+{case:NOM, number:SG}
+
+dviṣaté ← √dviṣ- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+radham ← √randh- (root)  
+{number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+
+u ← u (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑गाद॒यमा॑दि॒त्यो विश्वे॑न॒ सह॑सा स॒ह ।  
+द्वि॒षन्तं॒ मह्यं॑ र॒न्धय॒न्मो अ॒हं द्वि॑ष॒ते र॑धम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 उद॑गाद॒यमा॑दि॒त्यः ।  
 विश्वे॑न॒ सह॑सा स॒ह ।  
 द्वि॒षन्त॒म्मम॑ र॒न्धय॑न् ।  
-मो अ॒हन्द्वि॑ष॒तो र॑धम् ।  
+मो अ॒हन्द्वि॑ष॒तो र॑धम् ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+उत् । अ॒गा॒त् । अ॒यम् । आ॒दि॒त्यः । विश्वे॑न । सह॑सा । स॒ह ।  
+द्वि॒षन्त॑म् । मह्य॑म् । र॒न्धय॑न् । मो इति॑ । अ॒हम् । द्वि॒ष॒ते । र॒ध॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उ᳓त् । अगादय᳓म् । आदित्यः᳓ । वि᳓श्वेन । स᳓हसा । सह᳓ । द्विष᳓न्तम् । म᳓म । रन्ध᳓यन् । मो᳓ । अह᳓म् । द्विषतः᳓ । रधम् ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ud*
+- \[adverb\]
+- “up.”
+
+_________
+
+- *agād* ← *agāt* ← *gā*
+- \[verb\], singular, Root aorist (Ind.)
+- “go; enter (a state); arrive.”
+
+_________
+
+- *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *ādityo* ← *ādityaḥ* ← *āditya*
+- \[noun\], nominative, singular, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+
+_________
+
+- *viśvena* ← *viśva*
+- \[noun\], instrumental, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *sahasā* ← *sahas*
+- \[noun\], instrumental, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+
+_________
+
+- *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+
+_________
+
+- *dviṣantam* ← *dviṣ*
+- \[verb noun\], accusative, singular
+- “hate; dislike.”
+
+_________
+
+- *mahyaṃ* ← *mahyam* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+
+_________
+
+- *randhayan* ← *randhay* ← *√radh*
+- \[verb noun\], nominative, singular
+- “subjugate; hand over.”
+
+_________
+
+- *mo* ← *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *mo* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+
+_________
+
+- *ahaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+
+_________
+
+- *dviṣate* ← *dviṣ*
+- \[verb noun\], dative, singular
+- “hate; dislike.”
+
+_________
+
+- *radham* ← *radh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “subjugate.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+विश्वेन- सर्वया। सहसा- सहनशत्तया। अयम्- एषः। आदित्यः- अखण्डप्रकृतिजः। उदगात्-  उदयं प्राप्तवान्। अहं। मह्यम्- मम। द्विषन्तम्- द्वेषिणम्। रन्धयन्- हिंसन्। द्विषते- द्वेषिणे।  रधम्- संसिद्धिम्। मो- न करिष्यामि। रध हिंसासंराद्ध्योः॥१३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अयं** पुरोवर्ती **आदित्यः** अदितेः पुत्रः सूर्यः **विश्वेन** **सहसा** सर्वेण बलेन **सह** **उदगात्** उदयं प्राप्तवान् । किं कुर्वन् । **मह्यं** **द्विषन्तं** **रन्धयन्** ममोपद्रवकारिणं हिंसन् अपि च **अहं** **द्विषते** अनिष्टकारिणे रोगाय **मो** **रधं** नैव हिंसां करोमि । सूर्य एव अस्मदनिष्टकारिणं रोग विनाशयत्वित्यर्थः ॥ अगात् । एतेर्लुङि  ‘ इणो गा लुङि' इति गादेशः ।  ‘ गातिस्था° ' इति सिचो लुक् । आदित्यः ।  ‘ दित्यदित्यादित्य° ' इति अपत्यार्थे प्राग्दीव्यतीयो ण्यप्रत्ययः । रन्धयन् ।  ‘ रध हिंसासंराद्ध्योः '। ण्यन्तात् लटः शतृ ।  ‘ रधिजभोरचि' (पा. सू. ७. १. ६१ ) इति णौ धातोः नुमागमः । मो । मा उ निपातद्वयसमुदायो मैवेत्यस्यार्थे । ‘ओत् ' ( पा. सू. १. १. १५) इति प्रगृह्यत्वे  ‘ प्लुतप्रगृह्या अचि° ' इति प्रकृतिभावः । द्विषते ।  ‘ शतुरनुमः०' इति विभक्तेरुदात्तत्वम् । रधम् । रधेर्लुङि पुषादित्वात् च्लेः अङादेशः ।  ‘ रधिजभोरचि' इति धातोः नुम् ।“ अनिदिताम्' इति अनुषङ्लोपः । न माङ्योगे ' इति अडभावः ॥ ॥ ८ ॥ ॥ ९ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 42उदगादिति ॥ अयं आदित्यः विश्वेन सहसा बलेन सह उदगात् उदेति । किं कुर्वन्? मम द्विषन्तं शत्रुं रन्धयन् हिंसन् उदेति । रध हिंसायां, 'रधिजभोरचि' इति नुम् । यस्मात् अयं एवं कुर्वन् उदेति तस्मात् अस्य प्रसादात् अहं मो मैव द्विषतः रधं द्वेषम् । निग्रहक्लेशानुभवो नातःपरं मे भवितेति । उकारोऽवधारणे । रधेः पुषादित्वादङ् ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“This **Āditya** has risen with all (his) might, destroying my adversary, for I am unable to resist my enemy (sickness).”
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details><summary>Jamison Brereton</summary>
+
+Up has gone this Āditya here, along with all his strength,  
+making the hater subject to me. May I not become subject to the hater.  
+Here begins the second large division of Maṇḍala I (51–191).  
+The next seven hymns (I.51–57) are ascribed to Savya Āṅgirasa and consist only  of Indra hymns. For the most part the hymns are a glorification of Indra’s deeds— both the standard and well-known triumphs like the smashing of Vr̥tra (see esp.  I.52) and numerous lesser-known feats, which are presented in catalogue fashion  (see esp. I.51, 53). The style is often syntactically and rhetorically contorted, with  rare words and obscure expressions.
+</details>
+
+<details><summary>Griffith</summary>
+
+With all his conquering vigour this Aditya hath gone up on high,  
+     Giving my foe into mine hand: let me not be my foeman's prey.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser Aditya ist mit voller Macht aufgegangen und unterwirft mir den Feind; nicht möge ich dem Feind unterliegen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hasser mir ausliefernd, nicht möge ich dem Hasser ausgeliefert werden.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Взошел этот Адитья  
+Со всей (своей) силой,  
+Отдавая мне во власть ненавистника.  
+Да не попаду я под власть ненавистнику!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- प्रस्कण्वः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्य किस प्रकार प्रजाओं का पालन करें, इस विषय का उपदेश अगले मंत्र में किया है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! यथा (अयम्) यह (आदित्यः) नाशरहित सूर्य्य (उदगात्) उदय को प्राप्त होता है वैसे तू (विश्वेन) अखिल (सहसा) बल के साथ उदित हो जैसे तू (मह्यम्) धार्मिक मनुष्य के (द्विषन्तम्) द्वेष करते हुए शत्रु को (रन्धयन्) मारता हुआ वर्त्तता है वैसे (अहम्) मैं (द्विषते) शत्रु के लिये वर्त्तूं जैसे यह शत्रु मुझ को मारता है वैसे इसको मैं भी मारूं जो मुझे न मारे उसे मैं भी (मोरधम्) न मारूं ॥१३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को उचित है कि अनन्त बल युक्त परमेश्वर के बल के निमित्त प्राण वा बिजुली के दृष्टान्त से वर्त्त के सत्पुरुषों के साथ मित्रता कर सब प्रजाओं का पालन यथावत् किया करें ॥१३॥ इस सूक्त में परमेश्वर वा अग्नि के कार्य कारण के दृष्टान्त से राजा के गुण वर्णन करने से इस सूक्तार्थ की पूर्व सूक्तार्थ के साथ संगती जाननी चाहिये ॥ यह आठवां ८ वर्ग नवम् ९ अनुवाक और पचासवां ५० सूक्त समाप्त हुआ ॥५०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  पुनर्मनुष्यैः कथं प्रजाः पालनीया इत्युपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+(उत्) ऊर्ध्वे (अगात्) व्याप्नोति (अयम्) सभेशो विद्वान् (आदित्यः) नाशरहितः (विश्वेन) अखिलेन (सहसा) बलेन (सह) साकम् (द्विषन्तम्) शत्रुम् (मह्यम्) धार्मिकमनुष्याय (रन्धयन्) हिंसन् (मो) निषेधार्थे (अहम्) मनुष्यः (द्विषते) शत्रवे (रधम्) हिंसेयम् ॥१३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! यथाऽयमादित्यउदगात्तथा त्वं विश्वेन सहासा सहऽस्मिन्राज्य उदिहि यथा त्वं मह्यं द्विषन्तं रन्धयन् प्रवर्त्तसे तथाऽहं प्रवर्त्तेय यथायं शत्रुर्मां हिनस्ति तथाहमप्यस्मै द्विषते रधं यो मां न हिंसेत्तमहं मोरधं न हिंसेयम् ॥१३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालंकारः। मनुष्यैरनन्तबलजगदीश्वरस्य जलनिमित्तस्य प्राणवद्विद्युतो दृष्टान्तेन वर्त्तित्वा सज्जनैः सार्द्धं मित्रभावमाश्रित्य सर्वाः प्रजाः पालनीयाः ॥१३॥ अत्र परमेश्वराग्निकार्यकारणयोर्दृष्टान्तेन राजगुणवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह संगतिरस्तीति वेदितव्यम्। इत्यष्टमो वर्गः ८ नवमोऽनुवाकः ९ पंचाशं सूक्तं च समाप्तम् ॥५०॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी अनंत बलयुक्त परमेश्वराचे बल निमित्त असलेले प्राण व विद्युत यांचा दृष्टांत जाणून त्याप्रमाणे वागावे व सत्पुरुषाबरोबर मैत्री करून सर्व प्रजेचे यथायोग्य पालन करावे. ॥ १३ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ नश्श᳓पाद᳓शपतः ।  
 य᳓श्च नश्श᳓पतश्श᳓पात् ।  
@@ -2061,34 +2897,63 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वसृष्टᳶ प᳓रापत ।  
 शरो᳓ ब्र᳓ह्मसँशितः ।  
 ग᳓च्छाऽमि᳓त्रान्प्र᳓विश ।  
-मै᳓षाङ्क᳓ञ्चनो᳓च्छिषः ॥78॥  
+मै᳓षाङ्क᳓ञ्चनो᳓च्छिषः ॥78॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/04_agni-praNayanAngam_apratiratha-sUktam/204_avasRShTA_parA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Keith</summary>
 
-<details><summary>मूलम्</summary>
+Let loose, fly forward,  
+O arrow, expelled with holy power;  
+Go to our foes, and enter [4] them;  
+Not one of them do thou spare.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑सँशिता ।  
+गच्छा॒मित्रा॒न्प्र [19]  वि॒श॒ मैषा॒ङ्कञ्च॒नोच्छि॑षः ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अव॑सृष्ट॒ᳶ परा॑पत ।  
 श॒रो ब्रह्म॑सँशितः ।  
 गच्छा॒ऽमित्रा॒न्प्रवि॑श ।  
-मैषा॒ङ्कञ्च॒नोच्छि॑षः ॥78॥  
+मैषा॒ङ्कञ्च॒नोच्छि॑षः ॥78॥
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+अव॑सृ॒ष्टेत्यव॑-सृ॒ष्टा॒ । परेति॑ । प॒ते॒ । शर॑व्ये । ब्रह्म॑सँशि॒तेति॒ ब्रह्म॑-सँ॒शि॒ता॒ ॥ गच्छ॑ । अ॒मित्रान्॑ । प्रेति॑ । वि॒श॒ । मा । ए॒षा॒म् । कम् । च॒न ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓व-सृष्टः । प᳓रा । पत । शरः᳓ । ब्र᳓ह्म-संशितः । ग᳓च्छा । अमि᳓त्रान् । प्र᳓ । विश । मा᳓ । एषाम् । क᳓ञ्चना । उ᳓च्छिषः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हिंसिका हेतिः शरव्या।  
+हे शरव्ये ग्रह्मणा संशिता तीक्ष्णीकृता त्वमवसृष्टाऽस्माभिर्मुक्ता सती षरापत सहसा परसैन्यै पतिता भव।  
+पतित्वा अमित्राञ्शत्रून्नच्छ प्राप्नुहि।  
+प्राप्य च प्रविशैषां शत्रूणां शरीरमध्ये प्रवेशं कुरु।  
+प्रविश्य चैषां शत्रूणां मध्ये कंचन पुरुषं मोच्छिषोऽवशिष्टं मा कुरु।  
+सर्वानपि जहीत्यर्थः।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे उपवेष! मया अवसृष्टः क्षिप्तः परापत अपुनरावृत्तो गच्छ शरो भूत्वा शरणशीलः शरो हिंसकः, पचाद्यच् । ब्रह्मसंशितः ब्रह्मणा मन्त्रेण ब्रह्मणैव वा संशितः निशितीकृतः स त्वं गच्छ इतः स्थानात् । ततो गत्वा अमित्रान् शत्रून् प्रविश्य कार्त्स्न्येन विषयीकुरु । प्रविश्य च एषां अमित्राणां सम्बन्धि किञ्चिदपि गृहादिकं मोच्छिषः माऽवस्थितं कार्षीः । ऌदित्वादङ् ॥
 
-इति तैत्तिरीयब्राह्मणे तृतीये सप्तमे अच्छिद्रेषु षष्ठोऽनुवाकः ॥  
-
+इति तैत्तिरीयब्राह्मणे तृतीये सप्तमे अच्छिद्रेषु षष्ठोऽनुवाकः ॥
 </details>
 </details>
+</div>

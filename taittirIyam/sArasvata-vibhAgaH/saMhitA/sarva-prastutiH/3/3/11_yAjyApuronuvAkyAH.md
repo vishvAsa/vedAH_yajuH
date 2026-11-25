@@ -1,6 +1,7 @@
 +++
 title = "११ याज्यापुरोनुवाक्याः"
 +++
+
 त्रिष्टुप्, १-३ गायत्री
 ७,९,११-१२ अनुष्टुप्
 विश्वेदेवा ऋषयः
@@ -36,16 +37,6 @@ title = "११ याज्यापुरोनुवाक्याः"
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-This oblation is dear in your mouth,  
-O Indra and Brhaspati,  
-The hymn and acclamation is recited.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/01_idaM_vAmAsye.md">
 
@@ -222,6 +213,13 @@ DEAR is this offering in your mouth, O Indra and Brhaspati:
      Famed is the laud, the gladdening draught.
 </details>
 
+<details><summary>Keith</summary>
+
+This oblation is dear in your mouth,  
+O Indra and Brhaspati,  
+The hymn and acclamation is recited.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese liebe Spende opfere ich in euren Mund, Indra und Brihaspati. Lobgedicht und Trinkfreude wird verkündigt.
@@ -314,16 +312,6 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-This Soma is poured for you,  
-O Indra and Brhaspati,  
-Dear for delight, for drinking.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/02_ayaM_vAM.md">
 
@@ -488,6 +476,13 @@ This lovely Soma is effused, O Indra and Brhaspati,
      For you, to drink it and rejoice.
 </details>
 
+<details><summary>Keith</summary>
+
+This Soma is poured for you,  
+O Indra and Brhaspati,  
+Dear for delight, for drinking.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieser Soma wird euch beiden eingeschenkt, Indra und Brihsapati, der angenehm zum Rausch, zum Trinken ist.
@@ -575,16 +570,6 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-To us, O Indra and Brhaspati,  
-Grant wealth of a hundred kine,  
-Of horses a thousandfold.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/04_asme_indrAbRhaspatI.md">
 
@@ -730,6 +715,13 @@ Vouchsafe us riches hundredfold, O Indra, and Brhaspati,
      With store of horses, thousandfold.
 </details>
 
+<details><summary>Keith</summary>
+
+To us, O Indra and Brhaspati,  
+Grant wealth of a hundred kine,  
+Of horses a thousandfold.
+</details>
+
 <details><summary>Geldner</summary>
 
 Bringet uns Reichtum, Indra und Brihaspati, in hundert Kühen bestehend, in Rossen bestehend, tausendfältigen!
@@ -817,17 +809,6 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-From behind may Brhaspati guard us,  
-From above, from below, from the plotter of evil;  
-May Indra from the front, from the middle,  
-Friend to friend, grant us wide room.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/042/11_bRhaspatirnaH_pari.md">
 
@@ -1085,6 +1066,14 @@ Brhaspati protect us from the rearward, and from above, and from below, from sin
      May Indra from the front, and from the centre, as Friend to friends, vouchsafe us room and freedom.
 </details>
 
+<details><summary>Keith</summary>
+
+From behind may Brhaspati guard us,  
+From above, from below, from the plotter of evil;  
+May Indra from the front, from the middle,  
+Friend to friend, grant us wide room.
+</details>
+
 <details><summary>Geldner</summary>
 
 Brihaspati soll uns von hinten und von oben, von unten vor dem Übelwollenden schützen, Indra soll uns von vorn und in der Mitte als Freund den Freunden einen Ausweg schaffen!
@@ -1153,17 +1142,6 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Sped by the winds on all sides, O Agni,  
-Thy flames [1], O pure one, pure are diffused  
-Mightily destroying, the divine ones, the Navagvas  
-Assail the forests, rudely crushing (them).
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/006/03_vi_te.md">
 
@@ -1426,6 +1404,14 @@ Incited by the wind thy flames, O Agni, move onward, Pure One! pure, in all dire
      Thy most destructive heavenly Navagvas break the woods down and devastate them boldly.
 </details>
 
+<details><summary>Keith</summary>
+
+Sped by the winds on all sides, O Agni,  
+Thy flames [1], O pure one, pure are diffused  
+Mightily destroying, the divine ones, the Navagvas  
+Assail the forests, rudely crushing (them).
+</details>
+
 <details><summary>Macdonell</summary>
 
 Thy flames when driven by the wind, O Agni, Disperse, O pure one, pure in all directions; And thy divine Navagvas, most destructive, Lay low the woods and devastate them boldly.
@@ -1521,18 +1507,91 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/008/03_tvAmagne_mAnuShIrILate.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-Thee, O Agni, the tribes of men praise,  
-Who knowest the Hotr's duty, discerning, best bestower of jewels,  
-Who art in secret yet, O happy one, seen by all,  
-Of impetuous spirit, a good sacrificer, brilliant with ghee.
+- देवता - अग्निः
+- ऋषिः - इष आत्रेयः
+- छन्दः - जगती
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+तुवा᳓म् अग्ने मा᳓नुषीर् ईळते वि᳓शो  
+होत्रावि᳓दं वि᳓विचिं रत्नधा᳓तमम्  
+गु᳓हा स᳓न्तं सुभग विश्व᳓दर्शतं  
+तुविष्वण᳓सं सुय᳓जं घृतश्रि᳓यम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+īḷate ← √īḍ- ~ √īḷ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā́m ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+víśaḥ ← víś- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+hotrāvídam ← hotrāvíd- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ratnadhā́tamam ← ratnadhā́tama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vívicim ← vívici- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gúhā ← gúhā (invariable)  
+{}
+
+sántam ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+subhaga ← subhága- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+viśvádarśatam ← viśvádarśata- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥taśríyam ← ghr̥taśrī́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suyájam ← suyáj- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+tuviṣvaṇásam ← tuviṣvaṇás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ मानु॑षीरीळते॒ विशो॑ होत्रा॒विदं॒ विवि॑चिं रत्न॒धात॑मम् ।  
+गुहा॒ सन्तं॑ सुभग वि॒श्वद॑र्शतं तुविष्व॒णसं॑ सु॒यजं॑ घृत॒श्रिय॑म् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 त्वाम॑ग्ने॒ मानु॑षीरीडते॒ विशो॑ होत्रा॒विदव्ँ॒विवि॑चिँ रत्न॒धात॑मम् ।  
 
@@ -1541,7 +1600,152 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 
 <details><summary>पद-पाठः</summary>
 
+त्वाम् । अ॒ग्ने॒ । मानु॑षीः । ई॒ळ॒ते॒ । विशः॑ । हो॒त्रा॒ऽविद॑म् । विवि॑चिम् । र॒त्न॒ऽधात॑मम् ।  
+गुहा॑ । सन्त॑म् । सु॒ऽभ॒ग॒ । वि॒श्वऽद॑र्शतम् । तु॒वि॒ऽस्व॒नस॑म् । सु॒ऽयज॑म् । घृ॒त॒ऽश्रिय॑म् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 त्वाम् । अ॒ग्ने॒ । मानु॑षीः । ई॒ड॒ते॒ । विशः॑ । हो॒त्रा॒विद॒मिति॑ होत्रा-विद॑म् । विवि॑चि॒मिति॒ वि-वि॒चि॒म्॒ । र॒त्न॒धात॑म॒मिति॑ रत्न-धात॑मम् ॥ गुहा॑ । सन्त॑म् । सु॒भ॒गेति॑ सु-भ॒ग॒ । वि॒श्वद॑र्शत॒मिति॑ वि॒श्व-द॒र्श॒त॒म्॒ । तु॒वि॒ष्म॒णस॑म् । सु॒यज॒मिति॑ सु-यज॑म् । घृ॒त॒श्रिय॒मिति॑ घृत-श्रिय॑म् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
+- \[noun\], nominative, plural, feminine
+- “human.”
+
+_________
+
+- *īﾱate* ← *īḍ*
+- \[verb\], plural, Present indikative
+- “praise; invite; raise.”
+
+_________
+
+- *viśo* ← *viśaḥ* ← *viś*
+- \[noun\], nominative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+
+_________
+
+- *hotrāvidaṃ* ← *hotrā*
+- \[noun\], feminine
+- “hotrā \[word\]; Hautra.”
+
+_________
+
+- *hotrāvidaṃ* ← *vidam* ← *vid*
+- \[noun\], accusative, singular, masculine
+- “conversant(p); aware(p); enlightened; understanding.”
+
+_________
+
+- *viviciṃ* ← *vivicim* ← *vivici*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *ratnadhātamam* ← *ratna*
+- \[noun\], neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+
+_________
+
+- *ratnadhātamam* ← *dhātamam* ← *dhātama*
+- \[noun\], accusative, singular, masculine
+- “giving.”
+
+_________
+
+- *guhā*
+- \[adverb\]
+- “secretly.”
+
+_________
+
+- *santaṃ* ← *santam* ← *as*
+- \[verb noun\], accusative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *subhaga*
+- \[noun\], vocative, singular, masculine
+- “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
+    \[word\]; charming; pleasing; lucky.”
+
+_________
+
+- *viśvadarśataṃ* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvadarśataṃ* ← *darśatam* ← *darśata*
+- \[noun\], accusative, singular, masculine
+- “beautiful; visible; beautiful.”
+
+_________
+
+- *tuviṣvaṇasaṃ* ← *tuviṣvaṇasam* ← *tuviṣvaṇas*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *suyajaṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suyajaṃ* ← *yajam* ← *yaj*
+- \[noun\], accusative, singular, masculine
+- “sacrificing.”
+
+_________
+
+- *ghṛtaśriyam* ← *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+
+_________
+
+- *ghṛtaśriyam* ← *śriyam* ← *śrī*
+- \[noun\], accusative, singular, masculine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सुभग- सौभाग्यवन्। अग्ने। होत्राविदम्- वाग्विदम्। विविचिम्- विवेकिनम्। रत्नधातमम्-  रमणीयभावनाधारकम्। गुहा सन्तम्- हृदयगुहायां भवन्तम्। विश्वदर्शतम्- सर्वैर्द्रष्टव्यम्।  तुविष्वणम्- बहुस्वनम्। सुयजम्- पूज्यम्। घृतश्रियम्- दीप्तश्रियम्। त्वाम्। मानुषीः विशः-  प्रजाः। ईळते- स्तुवन्ति॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **सुभग** शोभनधन **त्वां** **मानुषीः** **विशः** मानुषसंबन्धिन्यः सर्वाः प्रजाः **ईळते** स्तुवन्ति । कीदृशं त्वाम् । **होत्राविदं** होत्राणां होमानां सप्तहोत्रकाणां वा वेत्तारं **विविचिं** विवेचकं सदसतोः **रत्नधातमं** रमणीयानां धनानां दातृतमं **गुहा** गुहायामरण्यां हृदयेषु वा **सन्तं** सर्वदा वर्तमानं **विश्वदर्शतं** सर्वैः द्रष्टव्यं **तुविष्वणसं** प्रभूतध्वनिं **सुयजं** सुष्ठु यष्टारं **घृतश्रियं** घृतं श्रयन्तम् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1549,6 +1753,107 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 हे अग्ने त्वां मानुषीः मनुष्याः विशः प्रजाः ईडते स्तुवन्ति । 'मनोर्जातौ' इत्यञ्, 'टिड्ढाणञ्' इत्यादिना ङीप्, 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । होत्राविदं वाग्विशेषज्ञं विविचिं विवेचकं मिश्रितानां शोधकम् । विपूर्वाद्विचेः 'इक्कृष्यादिभ्यः' इतीक् । रत्नधातमं रमणीयानां धनानां धातृतमं दातृतमं गुहा गुहायां सन्तं गुह्यम् । सप्तम्या आकारः । हे सुभग सर्वस्य प्रिय ।  
 
 यद्वा - शोभनधन विश्वदर्शतं विश्वस्य दर्शयितारं, विश्वं दर्शनमस्येति बहुव्रीहिः । **तुविष्मणसं** प्रवृद्धमनसं, महाबलमित्येके, बहूनां मन्तारमित्यन्ये । छान्दसस्सुट्, णत्वं च, बहुव्रीहित्वे त्वन्तोदात्तत्वं त्रिचक्रादित्वाद्द्रष्टव्यम् बहुविकारत्वादनवग्रहः । सुयजं सुष्ठु यष्टारं वैगुण्यापनोदनं घृतश्रियं घृतस्य श्रयितारम् । 'क्विब्वचि' इत्यादिना क्विप्दीर्घौ । ईदृशं त्वामीडते प्रजाः । त्वं च अभिप्रेतैर्योजय सर्वतोस्मदभिप्रेतमपि साधयसि ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Human beings glorify you, **Agni**, the appreciator burnt-offerings, the discriminator (of truth), the main liberal giver of precious (things), abiding (awhile), auspicious one, in secret, (at other times) visible to all, loud sounding, offering worship, thriving upon clarified butter.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+You, o Agni, do the clans of Manu’s sons invoke as the one knowing  priestly offices, discriminating, and best granting treasures,  
+being in hiding yet visible to all, o you who bring good fortune,  
+resounding mightily, sacrificing well, and having ghee as your  
+splendor.
+</details>
+
+<details><summary>Griffith</summary>
+
+The tribes of men praise thee, Agni, who knowest well burnt offerings, the Discerner, lavishest of wealth,  
+     Dwelling in secret, Blest One! visible to all, loud-roaring, skilled in worship, glorified with oil.
+</details>
+
+<details><summary>Keith</summary>
+
+Thee, O Agni, the tribes of men praise,  
+Who knowest the Hotr's duty, discerning, best bestower of jewels,  
+Who art in secret yet, O happy one, seen by all,  
+Of impetuous spirit, a good sacrificer, brilliant with ghee.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Thee, O Agni, the human clans magnify, who knowest (the art of sacrificial) libations, who separatest (what was mixed) 1, the highest bestower of treasures, who, (though) dwelling in secret, O blessed one, (yet) art visible to all, mightily roaring, an excellent sacrificer, shining with ghee.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dich, Agni, berufen die menschlichen Stämme, den Kenner des Opfers, den Prüfenden, den am meisten Belohnenden, allsichtbaren, auch wenn du versteckt bist, du Holder, den Lautrauschenden, gut Opfernden, Schmalzverschönten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dich, Agni, der du Beute machst und Schätze schenkst, dich Opferkenner preist der Menschenstämme Lob, Der, reicher, du verborgen doch allsichtbar wirst, und mächtig rauschest, gerne opfernd, fettgeschmückt.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Тебя, о Агни, призывают человеческие племена  
+Как знатока жертвоприношений, различающего (бога), приносящего самые большие сокровища,  
+Видного для всех, хотя и спрятанного, о дающий счастье,  
+Громко шумящего, прекрасно жертвующего, украшенного жиром.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- इष आत्रेयः
+- निचृज्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सुभग) सुन्दर ऐश्वर्य्य से युक्त (अग्ने) अग्नि के सदृश वर्त्तमान ! (मानुषीः) मनुष्यसम्बन्धिनी (विशः) प्रजायें जिस (होत्राविदम्) हवनों के गुणों को जाननेवाले (विविचिम्) विवेचक विभाग करने (रत्नधातमम्) रत्नों के अतीव धारण करने (विश्वदर्शतम्) संसार के प्रकाश करने और (तुविष्वणसम्) बहुतों की सेवा करनेवाले (सुयजम्) उत्तम प्रकार यज्ञ करते जिससे उस (घृतश्रियम्) घृत का आश्रय करते वा घृत से शोभते हुए (गुहा) अन्तःकरण में (सन्तम्) अभिव्याप्त होकर स्थित (त्वाम्) आपको (ईळते) गुणों से प्रकाशित करती हैं, उनको हम लोग भी जानें ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! आप लोग जिस बिजुली रूप अग्नि से जीवन और चेतनता होती है, तद्वत् राजा को जान के सुख बढ़ाओ ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सुभगाग्ने ! मानुषीर्विशो यं होत्राविदं विविचिं रत्नधातमं विश्वदर्शतं तुविष्वणसं सुयजं घृतश्रियं गुहा सन्तं त्वामीळते ता वयमपि विजानीयाम ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (त्वाम्) (अग्ने) अग्निरिव वर्त्तमान (मानुषीः) मनुष्यसम्बन्धिन्यः (ईळते) स्तुवन्ति गुणैः प्रकाशितं कुर्वन्ति (विशः) प्रजाः (होत्राविदम्) होत्राणि हवनानि वेत्ति तम् (विविचिम्) विवेचकं विभागकर्त्तारम् (रत्नधातमम्) रत्नानामतिशयेन धर्त्तारम् (गुहा) गुहायामन्तःकरणे (सन्तम्) अभिव्याप्य स्थितम् (सुभग) शोभनैश्वर्य्य (विश्वदर्शतम्) विश्वस्य प्रकाशकम् (तुविष्वणसम्) बहूनां सेवकम् (सुयजम्) सुष्ठु यजन्ति यस्मात्तम् (घृतश्रियम्) यो घृतं श्रयति घृतेन शुम्भमानस्तम् ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! भवन्तो येन विद्युद्रूपेणाग्निना जीवनं चेतनता च जायते तद्वद्राजानं विज्ञाय सुखं वर्धयन्तु ॥३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो! ज्या विद्युतरूपी अग्नीने जीवन व चेतनता निर्माण होते तसा राजा असतो हे जाणून सुख वाढवा. ॥ ३ ॥
 </details>
 </details>
 
@@ -1584,6 +1889,7 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 सीमन्तोन्नयने होममन्त्राः - धाता ददात्विति ॥ 
 </details>
 
+
 <details><summary>Keith</summary>
 
 May Dhatr give us wealth,  
@@ -1602,7 +1908,6 @@ May he favour us with a full (gift).
 
 धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । ईशा॑नः । जग॑तः । पतिः॑ ॥ सः । नः॒ । पू॒र्णेन॑ । वा॒व॒न॒त्॒ ॥
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 जगतः ईशानः पतिः पालयिता च स धाता नः अस्मभ्यं रयिं धनं ददातु । ददच्च सः नः अस्मान् पूर्णेन कामेन वावनत् । वन षण सम्भक्तौ पञ्चमो लकारः । यथा अस्मत्कामः पूर्यते तथा नः संभजेत ॥
@@ -1660,7 +1965,6 @@ To him let us offer the oblation rich in ghee.
 
 धा॒ता । प्र॒जाया॒ इति॑ प्र-जायाः॑ । उ॒त । रा॒यः । ई॒शे॒ । धा॒ता । इ॒दम् । विश्व॑म् । भुव॑नम् । ज॒जा॒न॒ ॥ धा॒ता । पु॒त्रम् । यज॑मानाय । दाता॑ । तस्मै॑ । उ॒ । ह॒व्यम् । घृ॒तव॒दिति॑ घृ॒त-व॒त्॒ । वि॒धे॒म॒ ॥
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 धातेति ॥ स एव धाता प्रजायाः उत रायः धनस्यापि ईशे ईष्टो । धातैव इदं विश्वं भुवनं जजान अन्तर्भावितण्यर्थो जनिः जनयामास । धातैव च यजमानाय च पुत्रं दाता । तृन्नन्तमेतत् । तस्मै एवम्भूताय धात्रे घृतवत् घृतयुक्तं हव्यं विधेम । विदधाति रन्यत्र परिचरणकर्मा इह तु दाने द्रष्टव्यः । दद्याम् । विभक्ति व्यत्ययो वा घृतवता हव्येन तं परिचरेमेति । उशब्दोनर्थकः ॥
@@ -1719,7 +2023,6 @@ Of the god whose gifts are true.
 
 धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । प्राची॑म् । जी॒वातु॑म् । अक्षि॑ताम् ॥ व॒यम् । दे॒वस्य॑ । धी॒म॒हि॒ । सु॒म॒तिमिति॑ सु-म॒तिम् । स॒त्यरा॑धस॒ इति॑ स॒त्य-रा॒ध॒सः॒ ॥
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 धातेति । स एव धाता न रयिं ददातु । कीदृशीं? प्राचीं प्राक्कालभवां क्रमागतां यादृशी पूर्वेषां तादृशीमित्यर्थः । जीवातुं जीवनाय पर्याप्तां अक्षितां क्षयरहिताम् । वयं तस्य देवस्य धातुः सुमतिं शोभनां मतिं भक्तेष्वनुग्रहात्मिकां बुद्धिं धीमहि ध्यायामः सत्यराधसः सत्यधनस्य ॥
@@ -1777,7 +2080,6 @@ The All-gods and Aditi in unison.
 
 धा॒ता । द॒दा॒तु॒ । दा॒शुषे॑ । वसू॑नि । प्र॒जाका॑मा॒येति॑ प्र॒जा-का॒मा॒य॒ । मी॒ढुषे॑ । दु॒रो॒ण इति॑ दुः-ओ॒ने ॥ तस्मै॑ । दे॒वाः । अ॒मृताः॑ । समिति॑ । व्य॒य॒न्ता॒म्॒ । विश्वे॑ । दे॒वासः॑ । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥
 </details>
-
 <details><summary>हरदत्तः</summary>
 
 धातेति ॥ स एव धाता दाशुषे दाशु दाने चरुपुरोडाशादीनां दात्रे मह्यं वसूनि धनानि ददातु प्रजारूपं मम धनं विवक्षितं प्रजाकामाय इति वचनात् । प्रजाकामाय मीढुषे रेतस्सेक्त्रे दुरोणे । दुरोणामिति गृहनाम, इह तु न गृहं गृहमित्याहुः गृहिणी गृहमुच्यते इति न्यायेन भार्यायां वर्तते । योऽहं प्रजाकामो भूत्वा भार्यायां रेतस्सिञ्चामि तस्मै मह्यं प्रजां ददात्विति समुदायार्थः । तस्मा एव मह्यं देवा अपि अमृताः अमरणधर्माणः संव्ययन्तां व्ययशिर्दानकर्मणि ?, ददतु । देवा इति वचनं कतिपयेष्वेव पर्यवस्येत् तदर्थमाह - विश्वे देवास इति । अदितिश्च सजोषाः समानप्रीतिः ॥
@@ -1814,9 +2116,14 @@ The All-gods and Aditi in unison.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>Griffith</summary>
+
+Anumati this day approve our sacrifice among the Gods! Oblation-bearing Agni be, and thou, bliss to the worshipper!
+</details>
+
 <details><summary>Keith</summary>
 
 For us to-day may Anumati  
@@ -1825,15 +2132,64 @@ And be she and Agni, bearer of the oblation,
 A joy to the giver.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अनु॑ नो॒ऽद्यानु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
+अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तं दा॒शुषे॒ मयः॑ ॥९ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अनु॑ नो॒ऽद्यानु॑मतिर्य॒ज्ञन्दे॒वेषु॑ मन्यताम् ।  
 अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तान्दा॒शुषे॒ मयः॑ ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अनु॑। नः॒। अ॒द्य। अनु॑मति॒रित्यनु॑ऽमतिः। य॒ज्ञम्। दे॒वेषु॑। म॒न्य॒ता॒म्। अ॒ग्निः। च॒। ह॒व्य॒वाह॑न॒ इति॑ हव्य॒ऽवाह॑नः। भव॑तम्। दा॒शुषे॑ मयः॑। ९।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अन्विति॑ । नः॒ । अ॒द्य । अनु॑मति॒रित्यनु॑-म॒तिः॒ । य॒ज्ञम् । दे॒वेषु॑ । म॒न्य॒ता॒म्॒ ॥ अ॒ग्निः । च॒ । ह॒व्य॒वाह॑न॒ इति॑ हव्य-वाह॑नः । भव॑ताम् । दा॒शुषे॑ । मयः॑ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अनु नः।
+
+अनुमन्यतां नः अस्माकमद्य अनुमतिः।
+
+यज्ञम् देवेषु यज्ञियेषु।
+
+अग्निश्च अनुमन्यताम्।
+
+हव्यवाहनः हविषो वोढा भवतं।
+
+भवतामिति पुरुषव्यत्ययः।
+
+दाशुषे हवींषि दत्तवते यजमानाय।
+
+मयः सुखरूपौ॥९॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अनुमतिः अद्य नोऽस्माकं यज्ञं देवेषु यज्ञियेषु अनुमन्यताम्।
+
+अग्निश्च यज्ञं देवेषु अनुमन्यताम्।
+
+किंभूतोऽग्निः।
+
+हव्यवाहनः हविषां वोढा।
+
+किंच दाशुषे हवींषि दत्तवते यजमानाय मयः सुखरूपौ अनुमत्यग्नी भवतम्।
+
+भवतामिति पुरुषव्यत्ययः।
+
+हव्यं वहतीति हव्यवाहनः ‘हव्येऽनन्तःपादम्’ (पा० ३। २। ६६) इति वहेर्ण्युट्।
+
+दाशुषे ऽदाश्वान्साह्वान्-’ (पा० ६.१। १२) इति साधुः॥ ९॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1844,6 +2200,49 @@ A joy to the giver.
 ऊनचन्द्रा पौर्णमासी **अनुमतिः** ।  
 अग्निश्च हव्यवाहनः हविषां वोढा देवेष्व् **अनुमन्यताम्** इत्येव । 'हव्येनन्तः पादम्' इति ञ्युट्, किंच -  
 तौ अनुमति-हव्यवाहनौ दाशुषे हविर्-दत्तवते अस्मै यजमानाय मयः सुखहेतुः **भवताम्** ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुमतिर्देवता
+- अगस्त्य ऋषिः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  जो (अनुमतिः) अनूकूल विज्ञानवाला जन (अद्य) आज (देवेषु) विद्वानों में (नः) हमारे (यज्ञम्) सुख देने के साधनरूप व्यवहार को (अनु, मन्यताम्) अनुकूल माने, वह (च) और (हव्यवाहनः) ग्रहण करने योग्य पदार्थों को प्राप्त करानेवाले (अग्निः) अग्नि के तुल्य तेजस्वी वा अग्निविद्या का विद्वान् तुम दोनों (दाशुषे) दानशील मनुष्य के लिये (मयः) सुखकारी (भवतम्) होओ ॥९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य सत्कर्मों के अनुष्ठान में अनुमति देने और दुष्टकर्मों के अनुष्ठान को निषेध करनेवाले हैं, वे अग्नि आदि की विद्या से सबके लिये सुख देवें ॥९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  योऽनुमतिरद्य देवेषु नो यज्ञमनुमन्यतां स हव्यवाहनोऽग्निश्च युवां दाशुषे मयः सुखकारिणौ भवतम् ॥९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्याः सत्कर्मानुष्ठानेऽनुमतिदातारो दुष्टकर्मानुष्ठानस्य निषेधकास्तेऽग्न्यादिविद्यया सुखं सर्वेभ्यः प्रयच्छन्ति ॥९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे सत्कर्माच्या अनुष्ठानाला मान्यता देतात व वाईट कर्माच्या अनुष्ठानाचा निषेध करतात त्यांनी अग्नी वगैरे विद्येद्वारे सर्वांना सुख द्यावे.
 </details>
 </details>
 
@@ -1870,9 +2269,14 @@ A joy to the giver.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
 
 <details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>Griffith</summary>
+
+Do thou, in truth, Anumati, assent and grant us happiness. Urge us to strength and energy: prolong the days we have to live.
+</details>
+
 <details><summary>Keith</summary>
 
 Accord thy favour, O Anumati [3],  
@@ -1881,20 +2285,168 @@ For inspiration, for insight impel us,
 Lengthen our days for us.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अन्विद॑नुमते॒ त्वं मन्या॑सै॒ शं च॑ नस्कृधि।  
+क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ऽआयूँ॑षि तारिषः ॥८ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अन्विद॑नुमते॒ त्वम् [34]  मन्या॑सै॒ शञ्च॑ नᳵ कृधि ।  
 क्रत्वे॒ दक्षा॑य नो हिनु॒ प्र ण॒ आयूँ॑षि तारिषः ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अनु॑। इत्। अ॒नु॒म॒त॒ इत्यनु॑ऽमते। त्वम्। मन्या॑सै। शम्। च॒। नः॒। कृ॒धि॒। क्रत्वे॒॑। दक्षा॑य। नः॒। हि॒नु॒। प्र। नः॒। आयूँ॑षि। ता॒रि॒षः॒। ८।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अनु॑। इत्। अ॒नु॒म॒त॒। इत्यनु॑ऽमते। त्वम्। मन्या॑सै। शम्। च॒। नः॒। कृ॒धि॒। क्रत्वे॒॑। दक्षा॑य। नः॒। हि॒नु॒। प्र। नः॒। आयूँ॑षि। ता॒रि॒षः॒। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अन्विति॑ । इत् । अ॒नु॒म॒त॒ इत्य॑नु-म॒ते॒ । त्वम् । मन्या॑सै । शम् । च॒ । नः॒ । कृ॒धि॒ ॥ क्रत्वे॑ । दक्षा॑य । नः॒ । हि॒नु॒ । प्रेति॑ । नः॒ । आयूँ॑षि । ता॒रि॒षः॒ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अन्वित्।
+
+चतस्रोऽनुष्टुभः।
+
+अनुमन्यासै अनुमन्यस्व।
+
+इदिति निपातः पादपूरणः।
+
+हे अनुमते, त्वम्।
+
+शं च सुखं च नः अस्माकम् कृधि कुरु।
+
+हे अनुमते, क्रत्वे क्रतवे संकल्पाय।
+
+दक्षाय तत्समृद्धये संकल्पसिद्धये च।
+
+नः अस्मान् हिनु गमय।
+
+प्रण आयूंषि तारिषः प्रतारिषः प्रवर्धय च नः अस्माकमायूंषि॥ ८॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+चतस्रोनुष्टुभः द्वयोऽरनुमतिर्देवता।
+
+इत् निपातोऽनर्थकः।
+
+हे अनुमते, त्वमनुमन्यासै अनुमन्यस्वास्मदुक्तं बुध्यस्व।
+
+नोऽस्माकं शं च शमेव सुखमेव कृधि कुरु।
+
+च पुनः नोऽस्माकं क्रत्वे क्रतवे संकल्पाय दक्षाय तत्समृद्धये संकल्पसिद्धये च नोऽस्मान् हिनु गमय।
+
+नोऽस्माकमायूंषि प्रतारिषः प्रतारय वर्धय।
+
+‘लेटोऽडाटौ’ (पा० ३। ४। ९४) इत्याट् ‘वैतोऽन्यत्र’ (पा० ३। ४। ९६) इत्यैकारः।
+
+कृधि ‘श्रुशृणुपॄकृवृभ्यश्छन्दसि’ (पा० ६। ४। १०२) इति हेर्धिः ‘बहुलं छन्दसि’ (पा० २। ४। ७३) इति शपो लुक्।
+
+क्रत्वे गुणाभावे यणादेशः।
+
+तारिषः ‘सिब्बहुलं छन्दसि णिद्वक्तव्यः’ (पा० ३। २। ३४) इति वृद्धिः।
+
+अन्यत्पूर्ववत्।
+
+प्रपूर्वस्तरतिर्वृद्ध्यर्थः॥ ८॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति । एक-कलाहीना पौर्णमासी अनुमतिरित्युच्यते । एतन्-नामिके देवते । त्वम् ' इत् शब्दः एवार्थः । अनुमन्यासै एव, अनुमते पूजितैव भवेः । किं च नः अस्माकं शं सुखं कुरु । तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञकर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय । तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥
+
+( मा० ३४ ८ )
+अनुमति-देवत्यानुष्टुप् ।
+
+'ऋषि-गृत्समदः ।
+
+अनु इत् एव ।
+
+" कलाहीने सानुमतिः. पूर्णे राका निशाकरे" [ अमर० ११४।८ ] ।
+
+हे अनुमते अपूर्ण-चन्द्रे ।
+
+त्वम् एव स्वात्मानं शक्रम् ।
+
+अनुमन्यासै मन्यसे ।
+
+तर्हि नः अस्माकम् ।
+
+शं च सुखम् एव ।
+
+कृधि कुरुष्व ।
+
+किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।
+
+दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादि: ] अभिवृद्धये च ।
+
+नः अस्मान् ।
+
+हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अनुमते त्वं मन्यासै अनुमन्यस्व लोटि 'वैतोन्यत्र' इत्यैकारः । किंच - नोस्माकं शं सुखं च कृधि कुरु । करोतेर्लोटि शपो लुक्, 'श्रुशृणुकृवृभ्यः' इति धिभावः । किं पुनरनुमन्तव्यमित्याह - क्रत्वे क्रतवे यागाय प्रत्ययाय वा दक्षाय समर्थाय शीघ्रकरणाय क्रत्वर्थं वा यद्दक्षमन्नं तदर्थं नः अस्मान् **हिनु** प्रेरय । 'जसादिषु वा वचनम् प्राङ्णौ चङ्युपधायाः' इति दीर्घं ङितीति गुणो न प्रवर्तते । तदर्थं चास्माकं आयूंषि प्रतारिषः प्रवर्तय । तरतेर्ण्यान्ताल्लेटि 'सिब्बहुलं लेटि' इति सिप् 'लेटोडाटौ' इत्यडागमः, 'उपसर्गाद्बहुलम्' इति नसो णत्वम् ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अनुमतिर्देवता
+- अगस्त्य ऋषिः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अनुमते) अनुकूल बुद्धिवाले सभापति विद्वन् ! (त्वम्) आप जिसको (शम्) सुखकारी (अनु, मन्यासै) अनुकूल मानो, उससे युक्त (नः) हमको (कृधि) करो (क्रत्वे) बुद्धि (दक्षाय) बल वा चतुराई के लिये (नः) हमको (हिनु) बढ़ाओ (च) और (नः) हमारी (आयूंषि) अवस्थाओं को (इत्) निश्चय कर (प्र, तारिषः) अच्छे प्रकार पूर्ण कीजिये ॥८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को चाहिये कि जैसे स्वार्थसिद्धि के अर्थ प्रयत्न किया जाता, वैसे अन्यार्थ में भी प्रयत्न करें, जैसे आप अपने कल्याण और वृद्धि चाहते हैं, वैसे औरों की भी चाहें। इस प्रकार सबकी पूर्ण अवस्था सिद्ध करें ॥८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनर्मनुष्यैः किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे अनुमते सभापते विद्वंस्त्वं ! यच्छमनुमन्यासै तेन युक्तान्नस्कृधि, क्रत्वे दक्षाय नो हिनु च न आयूंषि चेत्प्रतारिषः ॥८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यथा स्वार्थसिद्धये प्रयत्यते, तथैवान्यार्थेऽपि प्रयत्नो विधेयो यथा स्वस्य कल्याणवृद्धी अन्वेष्टव्ये, तथाऽन्येषामपि। एवं सर्वेषां पूर्णमायुः सम्पादनीयम् ॥८ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणूस स्वतःच्या स्वार्थसिद्धीसाठी जसा प्रयत्न करतो तसा इतरांसाठीही करावा. आपल्या कल्याणाची जशी इच्छा बाळगतो तशी इतरांसाठीही बाळगावी. याप्रमाणे सर्वांची आयुष्ये परिपूर्ण करावीत.
 </details>
 </details>
 
@@ -2027,17 +2579,6 @@ The goddess, easy to invoke, grant us protection [4].
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Raka, easy to invoke, I invoke with fair praise;  
-May the fortunate one hear us and be aware of us  
-With needle that breaks not may she sew her task;  
-May she give a hero, whose wergild is a hundred, worthy of song.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/04_rAkAmahaM_suhavAM.md">
 
@@ -2322,6 +2863,14 @@ With eulogy I call on Raka swift to hear may she, auspicious, hear us, and herse
      With never-breaking needle may she sew her work, and give a hero son most wealthy, meet for praise.
 </details>
 
+<details><summary>Keith</summary>
+
+Raka, easy to invoke, I invoke with fair praise;  
+May the fortunate one hear us and be aware of us  
+With needle that breaks not may she sew her task;  
+May she give a hero, whose wergild is a hundred, worthy of song.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich rufe die leicht zu rufende Raka mit schönem Loblied; die Holde soll uns erhören, soll es von selbst merken. Sie soll ihr Werk mit unzerbrechlicher Nadel nähen; sie soll einen vollwertigen, lobeswürdigen Sohn schenken.
@@ -2411,17 +2960,6 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-The fair thoughts of thine, O Raka,  
-Whereby thou art wont to give wealth to the giver,  
-With them to-day come to us in kindliness,  
-Granting, O fortunate one, a thousandfold prosperity.
-</details>
-</details>
 
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/05_yAste_rAke.md">
 
@@ -2677,6 +3215,14 @@ All thy kind thoughts, O Raka, lovely in their form, wherewith thou grantest wea
      With these come thou to us this day benevolent, O Blessed One, bestowing food of thousand sorts.
 </details>
 
+<details><summary>Keith</summary>
+
+The fair thoughts of thine, O Raka,  
+Whereby thou art wont to give wealth to the giver,  
+With them to-day come to us in kindliness,  
+Granting, O fortunate one, a thousandfold prosperity.
+</details>
+
 <details><summary>Geldner</summary>
 
 Deine ausgezeichneten Gnaden, o Raka, mit denen du dem Opferspendenden Schätze schenkst, mit diesem komm heute wohlwollend zu uns, indem du, Holde, Wohlstand für Tausend spendest!
@@ -2772,14 +3318,6 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O Sinivali,
-</details>
-</details>
-
 <div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/06_sinIvAli_pRthuShTuke.md">
 
 <details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
@@ -2870,6 +3408,12 @@ prajā́m ← prajā́- (nominal stem)
 जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥४॥ ४
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
+जु॒षस्व॑ ह॒व्यम् [37]  आहु॑तम्प्र॒जान्दे॑वि दिदिड्ढि नः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सिनी॑वालि । पृथु॑ऽस्तुके । या । दे॒वाना॑म् । असि॑ । स्वसा॑ ।  
@@ -2884,6 +3428,11 @@ prajā́m ← prajā́- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 जु॒षस्व॑। ह॒व्यम्। आहु॑त॒मित्याऽहु॑तम्। प्र॒जामिति॑ प्र॒ऽजाम्। दे॒वि॒। दि॒दि॒ड्ढि॒। नः॒। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सिनी॑वालि । पृथु॑ष्टुक॒ इति॒ पृथु॑-स्तु॒के॒ । या । दे॒वाना॑म् । असि॑ । स्वसा॑ ॥ जु॒षस्व॑ । ह॒व्यम् । आहु॑त॒मित्या-हु॑तम् । प्र॒जामिति॑ प्र-जाम् । दे॒वि॒ । दि॒दि॒ड्ढि॒ । नः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3076,6 +3625,11 @@ _________
 हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+दृष्टचन्द्रामावास्या सिनीवाली, स्त्रीत्वेन रूप्यते । हे सिनीवालि पृथुष्टुके पृथुजघने पृथुसंहते वा । स्त्यायतेस्स्तुकः, पूर्वस्याविद्यमानत्वादिदं न निहन्यते । या त्वं देवानां स्वसा स्वयं सारिण्यसि । वृष्ट्यादीनां भगिन्येव वा; समानकार्यत्वात् । सा त्वं जुषस्व सेवस्व हव्यं आहुतम् । पूर्ववद्गतेः प्रकृतिस्वरत्वम् । किं च - हे सिनीवालि नः अस्मभ्यं प्रजां पुत्रादिकां दिदिढ्ढि उपचिनु देहीत्यर्थः । दिहेर्लेटि शपश्श्लुः ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब विदुषी कुमारी क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -3136,6 +3690,19 @@ enjoy the oblation that is poured. Allot offspring to us, goddess.
 
 O broad-tressed Sinivali, thou who art the Sister of the Gods,  
      Accept the offered sacrifice, and, Goddess, grant us progeny.
+</details>
+
+<details><summary>Keith</summary>
+
+O Sinivali,
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+O Sinivali, with broad braids,  
+Who art the sister of the gods,  
+Accept the offering [3] which is made;  
+Grant, O goddess, offspring to us.
 </details>
 
 <details><summary>Geldner</summary>

@@ -1,6 +1,7 @@
 +++
 title = "०३ त्रिंशद्-रात्रः"
 +++
+
 ## परिचयः
 अहःकॢप्तिः - 
 
@@ -1109,7 +1110,7 @@ From the Trayastrinśa they go to the Trayastrinśa.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रय॑स्त्रिँश॒द् वै दे᳓वताः ।
+त्र᳓यस्त्रिँशद् वै᳓ दे᳓व᳓ताः᳓ ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>

@@ -2,6 +2,7 @@
 title: ०५ हविःप्रोक्षणादिः
 
 ---
+
 (व्रीह्यवघातः)
 
 १ गायत्री, ६,१४ एकपदा गायत्री,  प्रजापतिर्ऋषिः
@@ -52,7 +53,7 @@ with the rays of the bright sun.
 
 हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
 
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
 छिन्नं छिद्रम्, अतोन्यद् **अच्छिद्रं** अविच्छेदेन वर्तमानं । अव्यय-पूर्व-पद-प्रकृति-स्वरत्वं । 'पुवस्संज्ञायाम्' (पा.सू. 3.2.185) इति पुनातेरित्रप्रत्ययः । 'असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् । 
@@ -446,15 +447,18 @@ ____
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/01/15_agnes_tanUr_asi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे पुरोडाशीयसमूह!)+++ अग्ने᳓स् तनू᳓र् असि  
-वाचो᳓ विस᳓र्जनम् ।  
-+++(→यदा᳓ हि᳓ प्रजा᳓ ओ᳓षधीनाम् अश्ञ᳓न्ति,  
-अथ वा᳓चव्ँ वि᳓सृजन्ते ।)+++
+अग्ने᳓स् तनू᳓र् असि वाचो᳓ विस᳓र्जनम्
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Body of Agni art thou, the releaser of speech.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -463,13 +467,89 @@ Thou art the body of Agni, loostener of speech.
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेस्त॒नूर॑सि ।
-वा॒चो वि॒सर्ज॑नम्  +++(असि)+++  ।
+अ॒ग्नेस्त॒नूर॑सि वा॒चो वि॒सर्ज॑नम्
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒ग्नेः। त॒नूः। अ॒सि॒। वा॒चः। वि॒सर्ज॑न॒मिति॑ वि॒ऽसर्ज॑नम्।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒ग्नेः। त॒नूः। अ॒सि॒। वा॒चः। वि॒सर्ज॑न॒मिति॑ वि॒ऽसर्ज॑नम्।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒ग्नेः । त॒नूः । अ॒सि॒ । वा॒चः । वि॒सर्ज॑न॒मिति॑ वि-सर्ज॑नम् ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+हविरावपति।
+
+अग्नेस्तनूरसि।
+
+आहवनीयोऽत्राग्निरुच्यते।
+
+तत्र हि हविः प्रक्षिप्तमग्निर्भवति।
+
+अत एवमुच्यते ।
+
+अग्नेस्तनुः शरीरमसीति।
+
+अथवा अग्निशब्देन यस्यै देवतायै हविर्गृह्यते सा लक्ष्यते।
+
+तस्या अपि हविस्तनूर्भवतीति।
+
+वाचो विसर्जनम्।
+
+वाक् यस्मिन्हविषि प्रक्षिप्ते विसृज्यतेऽध्वर्युणा तदिदं वाचो विसर्जनम्।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे हविः, त्वं अग्नेः आहवनीयस्य तनूः शरीरमसि।
+
+यतस्तत्र क्षिप्तं हविरग्नीभवति अतो हविः अग्नेस्तनूः।
+
+किंभूतं हविः।
+
+वाचो विसर्जनम्।
+
+अपां प्रणयनकाले नियमिताया यजमानवाचो हविरावपनकाले विसर्गो भवति।
+
+तस्मादिदं हविर्वाचो विसर्जनम्।
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+कात्यायनः ..
+
+" इविरावपत्यग्नेस् तनूरिति " ( काश्रौ २.४.६ ) इति ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+अथ हविरावपति - अग्नेः तनूरसि' इति ।
+
+अत्र हविर् देवता ।
+
+अत्राग्निशब्दे- नाहवनीयो ऽग्निरुच्यते ।
+
+तत्र प्रक्षिप्तं हविरग्निर् भवति ।
+
+अत: अग्नेः तनू : शरीरम् असि
+इत्युच्यते ।
+
+यद् वा -- अग्नि-शब्देन यस्यै देवतायै हविर्गृह्यते सा लक्ष्यते ।
+
+तस्या अपि हस्तिन्नू - र्भवतीति !
+
+"वाच: "विसर्जनम् ।
+
+यस्मिन् हविषि क्षिप्ते अध्वर्युणा वाग्विसृज्यते तद्धविर्वाचो विसर्जनम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -491,6 +571,7 @@ Thou art the body of Agni, loostener of speech.
 एवं विश्वजननं त्वां देववीतये देवानां भक्षणार्थं गृह्णामि उलूखले त्वां प्रक्षिपामि । दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -1,6 +1,7 @@
 +++
 title = "१४ काम्येष्टियाज्यापुरोनुवाक्याः"
 +++
+
 वैश्वदेवं  याज्याकाण्डम् ।
 
 विश्वेदेवा ऋषयः ।  १-५, १५,१७ त्रिष्टुप्, ६-८ बृहती, ९ उष्णिक्, १०,१४,१६ गायत्री।  
@@ -25,17 +26,6 @@ title = "१४ काम्येष्टियाज्यापुरोन�
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-He is born ever new;  
-The banner of the days goeth before the dawns.  
-He appointeth their portion to the gods as he advanceth  
-The moon extendeth length of days.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/085/19_navonavo_bhavati.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -325,6 +315,14 @@ He, born afresh, is new and new for ever ensign of days he goes before the Morni
      Coming, he orders f6r the Gods their portion. The Moon prolongs the days of our existence.
 </details>
 
+<details><summary>Keith</summary>
+
+He is born ever new;  
+The banner of the days goeth before the dawns.  
+He appointeth their portion to the gods as he advanceth  
+The moon extendeth length of days.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Ever anew, being born again, he rises; He goes before the dawns as daylight's token. He, coming, to the gods their share apportions: The moon draws out the span of man's existence.
@@ -563,17 +561,6 @@ That he may be reverenced and honoured.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-His greatness surpasseth  
-Sky or earth or heaven;  
-Indra sole lord, hailed by all, in his home  
-Boisterous and brave, waxeth great for the conflict.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/061/09_asyedeva_pra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -862,6 +849,14 @@ Yea, of a truth, his magnitude surpasseth the magnitude of earth, mid-air, and h
      Indra, approved by all men, self-resplendent, waxed in his home, loud-voiced and strong for battle.
 </details>
 
+<details><summary>Keith</summary>
+
+His greatness surpasseth  
+Sky or earth or heaven;  
+Indra sole lord, hailed by all, in his home  
+Boisterous and brave, waxeth great for the conflict.
+</details>
+
 <details><summary>Geldner</summary>
 
 Seine Größe reicht über Himmel und Erde, über das Luftreich hinaus. Indra ist der Selbstherrscher in seinem Hause, von allen gepriesen; ein nobler Herr, ein Gefäß ist er zum Kampf herangewachsen.
@@ -947,17 +942,6 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-We call on thee, O hero, in praise,  
-Like kine unmilked,  
-Lord [2] of this moving world, seeing the heavenly light,  
-Lord, O Indra, of what standeth.
-</details>
-</details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/032/22_abhi_tvA.md">
 
@@ -1404,6 +1388,14 @@ Like kine unmilked we call aloud, Hero, to thee, and sing thy praise,
      Looker on heavenly light, Lord of this moving world, Lord, Indra, of what moveth not.
 </details>
 
+<details><summary>Keith</summary>
+
+We call on thee, O hero, in praise,  
+Like kine unmilked,  
+Lord [2] of this moving world, seeing the heavenly light,  
+Lord, O Indra, of what standeth.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wir schreien nach dir, du Held, wie ungemolkene Kühe, nach dem Herrn über diese lebende Welt, nach dem Herrn über die unbewegliche Natur, dessen Auge die Sonne ist, o Indra.
@@ -1498,17 +1490,6 @@ Wir schreien an, o Held, zumal wie ungemolkne Kühe dich; Den himmelsgleichen, d
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-We call on thee,  
-We poets, to gain the prize;  
-Men call on thee, lord of heroes, O Indra, amongst foes,  
-On thee in the racing of the horse.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/046/01_tvAmiddhi_havAmahe.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1731,6 +1712,8 @@ obstacles, you at the finish lines of our steed,
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
 
 The poet plays with the 2nd sg. pronoun. Historically -- and usually synchronically in the RV -- the nom. sg. tvám is disyllabic (t u vám) and the acc. sg.
@@ -1738,6 +1721,7 @@ The poet plays with the 2nd sg. pronoun. Historically -- and usually synchronica
 tvā́m is monosyllabic, with occasional distraction to two syllables in analogy to the nom. But here the 1st vs. has three distracted acc. sg. t u vā́m, prominently pāda-initial (a, c, d), while the nom. sg. at the beginning of the 2nd vs. is monosyllabic. To match disyllabic t u vā́m, in 2a the two syllables are filled out by the addition of the pleonastic+++(=redundant)+++ sá (#sá tvám), which is syntactically at home as subject marker of the 2nd sg. impv.
 
 kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”). Since sá in such contexts is unnecessary, its presence draws attention to the metrical interchange between the nom. and acc. of the pronoun here.
+</details>
 
 </details>
 </div>
@@ -1746,6 +1730,14 @@ kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”
 
 THAT we may win us wealth and power we poets, verily, call on thee:  
      In war men call on thee, Indra, the hero's Lord, in the steed's race-course call on thee.
+</details>
+
+<details><summary>Keith</summary>
+
+We call on thee,  
+We poets, to gain the prize;  
+Men call on thee, lord of heroes, O Indra, amongst foes,  
+On thee in the racing of the horse.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1845,17 +1837,6 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-If, O Indra, a hundred skies,  
-A hundred earths were thine,  
-Not a thousand suns could match thee at birth,  
-Nor the two worlds.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/070/05_yaddyAva_indra.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2144,6 +2125,14 @@ O Indra, if a hundred heavens and if a hundred earths were thine-
      No, not a thousand Suns could match thee at thy birth, not both the worlds, O Thunderer.
 </details>
 
+<details><summary>Keith</summary>
+
+If, O Indra, a hundred skies,  
+A hundred earths were thine,  
+Not a thousand suns could match thee at birth,  
+Nor the two worlds.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn dir, Indra, auch hundert Himmel und hundert Erden wären, nicht tausend Sonnen würden dir, dem Geborenen, gleichkommen, noch beide Welten, o Keulenträger.
@@ -2197,16 +2186,6 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Drink the Soma, O Indra; let it gladden thee,  
-(The Soma) which for thee, O lord of bays, the stone  
-Through the arms of the presser [3], like a horse well guided hath expressed.
-</details>
-</details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/022/01_pibA_somamindra.md">
 
@@ -2430,6 +2409,13 @@ DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well g
      Directed by the presser's arms hath pressed it.
 </details>
 
+<details><summary>Keith</summary>
+
+Drink the Soma, O Indra; let it gladden thee,  
+(The Soma) which for thee, O lord of bays, the stone  
+Through the arms of the presser [3], like a horse well guided hath expressed.
+</details>
+
 <details><summary>Geldner</summary>
 
 Trinke den Soma, Indra! Dich soll er berauschen, den dir, o Falbenfahrer, der Preßstein ausgepreßt hat, von den Armen des Pressers wohlgelenkt wie ein Rennpferd.
@@ -2523,16 +2509,6 @@ Den Soma trink, der dich berausche, Indra, den dir der Stein gepresst, o Herr de
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-With Indra may splendid feasts be ours,  
-Rich in strength,  
-Wherewith we may rejoice in food.
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/030/13_revatIrnaH_sadhamAda.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -2595,10 +2571,21 @@ yā́bhiḥ ← yá- (pronoun)
 क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+रे॒वती॑र्नस्सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
+क्षु॒मन्तो॒ याभि॒र्मदे॑म ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 रे॒वतीः॑ । नः॒ । स॒ध॒ऽमादे॑ । इन्द्रे॑ । स॒न्तु॒ । तु॒विऽवा॑जाः ।  
 क्षु॒ऽमन्तः॑ । याभिः॑ । मदे॑म ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+रे॒वतीः॑ । नः॒ । स॒ध॒माद॒ इति॑ सध-मादः॑ । इन्द्रे॑ । स॒न्तु॒ । तु॒विवा॑जा॒ इति॑ तु॒वि-वा॒जाः॒ ॥ क्षु॒मन्तः॑ । याभिः॑ । मदे॑म ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2685,6 +2672,11 @@ ________________
 रेवत्यः धनवत्यः सर्वधनसाधनभूताः । पूर्ववत्पूर्वसवार्णदीर्घत्वम् । नोस्माकं सधमादः अस्माभिस्सह माद्यन्तः । मद तृप्तियोगे, चुरादिः ततो ण्यन्तात्क्विप्, 'सधमादस्थयोः' इति सहस्य सधादेशः । आपश्चोच्यन्ते । तुविवाजाः बह्वन्नं चरुपुरोडाशादिबह्वन्नसम्पादिन्यः अस्माकं इन्द्रे इन्द्रनिमित्तं सन्तु याभीर्विषयं क्षुमन्तः इन्द्रमेन स्तुवन्तो मदेम माद्येम । व्यत्ययेन शप् । क्षौतेः क्विपि छान्दसस्तुगभावः, 'ह्रस्वनुङ्भ्याम्मतुप्' इति मतुप उदात्तत्वम् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+व्याख्याता चेयं 'अन्वह मासाः' इत्यत्र । रेवतीर्धनवत्यः नोस्माकं सधमादः सहमाद्यन्त्यः इन्द्रे सन्तु तुविवाजाः चरुपुरोडाशादिबह्वन्नाः याभिर्वयं क्षुमन्तश्शब्दयन्तः स्तुवन्तः मदेम माद्येम ता इन्द्रार्थमस्माकं बह्वन्नास्सन्तु, सर्वार्थसाधनभूता आप उच्यन्ते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -2711,6 +2703,18 @@ sadhamā́da out of sandhi could end in either -e (so Pp., followed by most) or 
 
 With Indra splendid feasts be ours, rich in all strengthening things wherewith,  
      Wealthy in food, we may rejoice.
+</details>
+
+<details><summary>Keith</summary>
+
+With Indra may splendid feasts be ours,  
+Rich in strength,  
+Wherewith we may rejoice in food.
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+Rich banquets be ours with Indra, With mighty strength, Wherewith fed we may rejoice.
 </details>
 
 <details><summary>Geldner</summary>
@@ -2965,6 +2969,16 @@ __________
 हे अग्ने तव शुचयः तेजांसि शुक्राः निर्मलाः भ्राजन्तः दीप्यमानाः उदीरते उद्गच्छन्ति तवैव स्वभूतानि सर्वाण्यादित्यादीनि ज्योतींषि । अर्चयः अर्चयितारः यागादिभिराराधयितारः ज्योतींषि भवन्ति ज्योतीरूपास्सम्पद्यन्ते । एवम्महानुभावस्त्वमस्मदभिमतं क्षिप्रं प्रयच्छेति भावः ॥
 ___________
 हे अग्ने ते तव शुक्राः निर्मलाः शुचयः रश्मयः भ्राजन्तः राजन्तः उदीरते उद्गच्छन्ति तव । किं च - तवार्चयः तेजांसि ज्योतींषि ग्रहनक्षत्राणि भवन्ति । यद्वा - तवार्चयितारः ज्योतींषि भवन्तीति ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+व्याख्याता चेयं 'त्वमग्ने रुद्रः' इत्यत्र । इह तु प्रतीकमस्या गृह्यते ।
+</details>
+
+<details><summary>प्रदीपसिंहः</summary>
+
+इतः परं  पठ्यमानः काण्डक्रमः भट्ट-सायण-भाष्यद्वयोपेतमूलपुस्तके नास्ति।
 </details>
 
 <details><summary>Wilson</summary>
@@ -3325,6 +3339,15 @@ _______________
 अयमग्निः बृहता ज्योतिषा विभाति विविधं भाति, विश्वानि च महित्वा माहात्म्यानि आविष्कृणुते आविष्करोति । अदेवीः अदेवन शीलाश्च दुरेवाः दुःखेन गन्तव्या मायाः प्रसहते प्रकर्षेणाभिभवतु । किं च – शृङ्गे गोशृङ्गस्थानीये ज्वाले शिशीते निशितीकरोति । किमर्थं? रक्षसो विनाशार्थमिति ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+इयमपि 'कृणुष्वपाजः' इत्यत्र व्याख्याता । इह तु प्रतीकं गृह्यते । 
+
+इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे चतुर्थप्रपाठके चत्वारिंशोनुवाकः ॥
+
+समाप्तः प्रपाठकः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -3531,6 +3554,12 @@ víśvāya ← víśva- (nominal stem)
 दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उदु॒त्यञ्जा॒तवे॑दसन्दे॒वव्ँव॑हन्ति के॒तवः॑ ।    
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । ऊं॒ इति॑ । त्यम् । जा॒तऽवे॑दसम् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ।  
@@ -3549,6 +3578,12 @@ víśvāya ← víśva- (nominal stem)
 दृ॒शे। विश्वा॑य। सूर्य्य॑म्। १।
 
 उत्। उ। त्यम्। जातवेदसम्। देवम्। वहन्ति। केतवः। दृ॒शे। विश्वा॑य। सूर्य्य॑म्। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उदिति॑ । उ॒ । त्यम् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ॥   
+दृ॒शे । विश्वा॑य । सूर्य॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3723,6 +3758,13 @@ ___________
 ' शब्दोपतापयोः [ ६३२ म्वादिः ] ।
 
 स्वरति स्वर- यतीति "स्वरुः ६ पर-तत्त्व-प्रकाशकशब्द प्रदाता इन्द्रः सखा चेत् किं न्वसाध्यमित्य् अर्थः ।। २४ ।।
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥
+
+'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
@@ -3905,16 +3947,6 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Seven bays in thy chariot  
-Bear thee, O god Surya,  
-With hair of light, O wise one.
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/08_sapta_tvA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4079,7 +4111,10 @@ Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-g
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
+</details>
 
 </details>
 </div>
@@ -4088,6 +4123,13 @@ I assume that the seven mares of vs. 8 are the same as the sleek daughters (śun
 
 Seven Bay Steeds harnessed to thy car bear thee, O thou farseeing One,  
      God, Surya, with the radiant hair.
+</details>
+
+<details><summary>Keith</summary>
+
+Seven bays in thy chariot  
+Bear thee, O god Surya,  
+With hair of light, O wise one.
 </details>
 
 <details><summary>Macdonell</summary>
@@ -4188,17 +4230,6 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-The radiant countenance of the gods hath arisen,  
-The eye of Mitra, Varuna, and Agni;  
-He hath filled the sky, the earth, and the atmosphere;  
-Surya is the soul of that which moveth and standeth [4].
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4296,6 +4327,14 @@ tasthúṣaḥ ← √sthā- (root)
 आ प्रा॒ द्यावा॑पृथि॒वीऽ अ॒न्तरि॑क्षँ॒ सूर्य्य॑ऽ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥४६ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑कम् ।   
+चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ॥ 51 ॥  
+आप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षम् ।  
+सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 चि॒त्रम् । दे॒वाना॑म् । उत् । अ॒गा॒त् । अनी॑कम् । चक्षुः॑ । मि॒त्रस्य॑ । वरु॑णस्य । अ॒ग्नेः ।  
@@ -4312,6 +4351,11 @@ tasthúṣaḥ ← √sthā- (root)
 चित्र॒म्। दे॒वाना॑म्। उत्। अ॒गा॒त्। अनी॑कम्। चक्षुः॑। मि॒त्रस्य॑। वरु॑णस्य। अ॒ग्नेः।
 
 चि॒त्रम्। दे॒वाना॑म्। उत्। अ॒गा॒त्। अनी॑कम्। चक्षुः॑। मि॒त्रस्य॑। वरु॑णस्य। अ॒ग्नेः। आ। अ॒प्राः॒। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। अ॒न्तरि॑क्षम्। सूर्य्यः॑। आ॒त्मा। जग॑तः। त॒स्थुषः॑। च॒। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+चित्र᳓म् । देवा᳓नाम् । उ᳓त् । अगात् । अ᳓नीकम् । च᳓क्षुः । मित्र᳓स्य । व᳓रुणस्य । अग्नेः᳓ । आ᳓प्रा । द्या᳓वा-पृथिवी᳓ । अन्त᳓रिक्षम् । सू᳓र्यः । आत्मा᳓ । ज᳓गतः । तस्थु᳓षः । च ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -4516,6 +4560,16 @@ _____________
 स एव सूर्यः " आत्मा जगत: तस्थुषः च, अस्य जगतः । । गच्छतीति जगत् । तस्य जगतो जङ्गम् अस्य तस्थुषः स्थिति-शीलस्य स्थावरस्य सूर्यः सर्व-प्रेरको भगवान् आत्मा सर्वस्य प्रत्यगात्म-भूतः परमात्म-दृष्ट्या सूर्यः स्तूयते । ' उपयाम- गृहीतो ऽसि ' इत्य्-आदिर् व्याख्यात-समानार्थः ॥ १॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+ईदृशो भगवाननेन होमेनास्माकमभिमतं साधयत्विति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+चित्रं ताम्रारुणबभ्रुत्वादिरूपेण विचित्रं सूर्यमण्डलं उदगात् उदयं प्राप्नोत् । तदेव वैचित्र्यमन्यत्राम्नातम् - 'असौ यस्ताम्रो अरुण उत बभ्रुः सुमङ्गलः' इति । कीदृशं मण्डलं? देवानामनीकं दीप्यमानबहुरश्मिरूपाणां देवानां सैन्यसदृशम् । तथा मित्रावरुणाग्न्यादीनां सर्वेषां दृष्ट्यनुग्राहकत्वेन चक्षुस्स्थानीयम् । जगतो जङ्गमस्य प्राणिजातस्य तस्थुषश्च स्थावरस्यापि आत्मा प्रत्यगात्मत्वेन हृदयेऽवस्थितः सूर्यो लोकत्रयं आप्राः सर्वतः स्वचैतन्येन स्वरश्मिना च पूरितवान् ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब ईश्वर कैसा है, यह यह विषय अगले मन्त्र में कहा है ॥
@@ -4687,16 +4741,6 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-May the All-gods who further right,  
-Who hearken to the call in due season,  
-Find pleasure in this proper drink.
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/052/10_vishve_devA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4861,7 +4905,10 @@ Let all the gods, strong through truth, hearing the calls in their turns, enjoy 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
+</details>
 
 </details>
 </div>
@@ -4870,6 +4917,13 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 May all the Gods who strengthen Law, with Rtus, listening to our call,  
      Be pleased with theit appropriate draught.
+</details>
+
+<details><summary>Keith</summary>
+
+May the All-gods who further right,  
+Who hearken to the call in due season,  
+Find pleasure in this proper drink.
 </details>
 
 <details><summary>Geldner</summary>
@@ -4958,17 +5012,6 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O ye All-gods, hear my invocation,  
-Ye that are in the atmosphere, ye that are in the sky;  
-Ye with Agni as your tongue, worthy of sacrifice,  
-Sit on this strew and rejoice.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/052/13_vishve_devAH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5082,6 +5125,14 @@ mādayadhvam ← √mad- (root)
 ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥१०॥ ॥ ५३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+विश्वे॑ देवाश्शृणु॒तेमँ हव॑म्मे ।   
+ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।  
+ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्राः ।  
+आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वे॑ । दे॒वाः॒ । शृ॒णु॒त । इ॒मम् । हव॑म् । मे॒ । ये । अ॒न्तरि॑क्षे । ये । उप॑ । द्यवि॑ । स्थ ।  
@@ -5096,6 +5147,11 @@ mādayadhvam ← √mad- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्वे॑। दे॒वाः॒। शृ॒णु॒त॒। इम॑म्। हव॑म्। मे॒। ये। अ॒न्तरि॑क्षे। ये। उप॑। द्यवि॑। स्थ। ये। अ॒ग्नि॒जि॒ह्वा। इत्य॑ग्निऽजि॒ह्वाः। उ॒त। वा। यज॑त्राः। आ॒स॒द्येत्या॑ऽस॒द्य। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। १०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+वि᳓श्वे । देवाः । शृणुत᳓ । इम᳓म् । ह᳓वम् । मे । ये᳓ । अन्त᳓रिक्षे । यः᳓ । उ᳓प । द्य᳓वि । ष्ठ᳓ । ये᳓ । अग्नि-जिह्वाः᳓ । उत᳓ । वा । य᳓जत्राः । आ-स᳓द्य । अस्मि᳓न् । बर्हि᳓षि । मादयध्वम् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5390,6 +5446,11 @@ _________
 स्वस्तये अविनाशाय इयात इति ॥ ४४ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे विश्वे देवाः मे हवं मदीयमाह्वानं शृणुत । ये यूयमन्तरिक्षे स्थ अन्तरिक्षलोके स्थिताः ये चोप समीपे पृथिव्यां स्थिताः ये च द्यवि दिवि लोके स्थ ये यूयमग्निजिह्वा अग्निद्वारेण हविषः स्वीकर्तारः उत वा अन्येऽपि वा यजत्राः यष्टव्याः ते सर्वेऽप्यस्मिर्न्बीहषि यागे आसद्य उपविश्य मादयध्वं दृप्ता भवत । अस्मानपि हर्षयत ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -5455,6 +5516,14 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 
 Listen, All-Gods, to this mine invocation, Ye who inhabit heaven, and air's midregions,  
      All ye, O Holy Ones, whose tongue is Agni, seated upon this sacred grass, be joyful.
+</details>
+
+<details><summary>Keith</summary>
+
+O ye All-gods, hear my invocation,  
+Ye that are in the atmosphere, ye that are in the sky;  
+Ye with Agni as your tongue, worthy of sacrifice,  
+Sit on this strew and rejoice.
 </details>
 
 <details><summary>Geldner</summary>

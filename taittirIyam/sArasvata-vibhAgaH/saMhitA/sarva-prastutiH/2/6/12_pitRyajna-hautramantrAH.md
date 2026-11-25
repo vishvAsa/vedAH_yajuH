@@ -1,6 +1,7 @@
 +++
 title = "१२ पितृयज्ञ-हौत्रमन्त्राः"
 +++
+
 त्रिष्टुप् , १, १२ अनुष्टुप्, ५ जगती
 विश्वेदेवा ऋषयः
 
@@ -23,17 +24,6 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Eagerly we hail thee,  
-Eagerly would we kindle thee;  
-Eager bring the eager,  
-The fathers, to eat the offering.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/016/12_ushantastvA_ni.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -255,6 +245,14 @@ Right gladly would we set thee down, right gladly make thee burn and glow.
      Gladly bring yearning Fathers nigh to cat the food of sacrifice.
 </details>
 
+<details><summary>Keith</summary>
+
+Eagerly we hail thee,  
+Eagerly would we kindle thee;  
+Eager bring the eager,  
+The fathers, to eat the offering.
+</details>
+
 <details><summary>Geldner</summary>
 
 Willig wollen wir dich einsetzen, willig dich anzünden. Willig fahre die willigen Väter hierher, um die Opferspende zu essen!
@@ -308,17 +306,6 @@ Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zu
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Soma, art pre-eminent in wisdom;  
-Thou movest along the straightest path;  
-Through thy guidance, O drop, our fathers wisely divided  
-The treasure among the gods.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/01_tvaM_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -765,6 +752,14 @@ Thou, Soma, art preeminent for wisdom; along the straightest path thou art our l
      Our wise forefathers by thy guidance, Indu, dealt out among the Gods their share of treasure.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, art pre-eminent in wisdom;  
+Thou movest along the straightest path;  
+Through thy guidance, O drop, our fathers wisely divided  
+The treasure among the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Soma, offenbare dich durch dichterische Gedanken, führe du uns den richtigsten Weg! Unter deiner Führung, du Saft, empfingen unsere weisen Väter von den Göttern das Kleinod.
@@ -853,17 +848,6 @@ Du ragst, o Soma, hoch hervor an Weisheit, du führst, o Indu, auf dem gradsten 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-By thee, O Soma Pavamana, our ancient fathers  
-Wisely ordained the offerings;  
-Conquering, untroubled, do thou open the barriers;  
-Be generous to us in heroes and horses [1].
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/11_tvayA_hi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1345,6 +1329,14 @@ For our sage fathers, Soma Pavamana, of old performed, by thee, their sacred dut
      Fighting unvanquished, open the enclosures: enrich us with large gifts of steeds and heroes.
 </details>
 
+<details><summary>Keith</summary>
+
+By thee, O Soma Pavamana, our ancient fathers  
+Wisely ordained the offerings;  
+Conquering, untroubled, do thou open the barriers;  
+Be generous to us in heroes and horses [1].
+</details>
+
 <details><summary>Geldner</summary>
 
 Denn mit dir, o Soma, haben unsere weisen Väter vormals ihre Taten getan, o Pavamana. Ein unüberwundener Überwinder öffne du die Schranken; sei gegen uns freigebig mit Söhnen und Rossen!
@@ -1403,17 +1395,6 @@ Denn unsre alten weisen Väter thaten durch dich, o heller Soma, ihre Werke, Die
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Soma, in accord with the fathers,  
-Hast stretched over sky and earth;  
-To thee, O drop, let us make sacrifice with offering;  
-Let us be lords of wealth.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/048/13_tvaM_soma.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1783,6 +1764,14 @@ Associate with the Fathers thou, O Soma, hast spread thyself abroad through eart
      So with oblation let us serve thee, Indu, and so let us become the lords of riches,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, in accord with the fathers,  
+Hast stretched over sky and earth;  
+To thee, O drop, let us make sacrifice with offering;  
+Let us be lords of wealth.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Uniting with the Fathers thou, O Soma, Hast over Heaven and Earth thyself extended. So, Indu, we would serve thee with oblation: Thus we would be the lords of ample riches.
@@ -1854,17 +1843,6 @@ O Soma, du vereinigt mit den Vätern, hast dich verbreitet über Erd' und Himmel
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O fathers, made ready by Agni, come hither;  
-With good leadership sit ye on each seat;  
-Eat ye the offerings set out on the strew;  
-And give us wealth with many heroes.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/11_agniShvAttAH_pitara.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2260,6 +2238,14 @@ Fathers whom Agni's flames have tasted, come ye nigh: ye kindly leaders, take ye
      Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers, made ready by Agni, come hither;  
+With good leadership sit ye on each seat;  
+Eat ye the offerings set out on the strew;  
+And give us wealth with many heroes.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr vom Feuer schmackhaft befundenen Väter, kommet hierher, setzet euch jeder an seinen Platz, ihr guten Führer! Esset die auf dem Barhis dargereichten Opferspenden und verleihet dann einen Schatz von lauter Söhnen!
@@ -2318,17 +2304,6 @@ Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O fathers that sit on the sacrificial strew, come hither with your aid;  
-We have made these offerings for you; accept them,  
-And then come to us with your most healing aid,  
-Give us [2] health, wealth, and safety!
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/04_barhiShadaH_pitara.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2628,6 +2603,14 @@ Fathers who sit on sacred grass, come, help us: these offerings have we made for
      So come to us with most auspicious favour, and give us health and strength without a trouble.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers that sit on the sacrificial strew, come hither with your aid;  
+We have made these offerings for you; accept them,  
+And then come to us with your most healing aid,  
+Give us [2] health, wealth, and safety!
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr Väter, die ihr auf dem Barhis sitzet, kommt mit eurer Gunst näher! Diese Spenden haben wir für euch bereitet, genießet! Kommet her mit heilvoller Gnade und schaffet uns Heil und Wohlsein ohne Gebreste!
@@ -2689,17 +2672,6 @@ O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-I have found the kindly fathers,  
-The scion and the step of Visnu;  
-They that sit on the sacrificial strew and enjoy the drink  
-That is pressed for them with the Svadha call are most eager to come hither.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/03_AhaM_pitRRntsuvidatrA_N.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2978,6 +2950,14 @@ Those who, sitting on the ritual grass, share in the pressed soma and the  food 
      They who enjoy pressed juices with oblation seated on sacred grass, come oftenest hither.
 </details>
 
+<details><summary>Keith</summary>
+
+I have found the kindly fathers,  
+The scion and the step of Visnu;  
+They that sit on the sacrificial strew and enjoy the drink  
+That is pressed for them with the Svadha call are most eager to come hither.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich habe die leicht aufzufindenden Väter aufgefunden, den Enkel und den Schritt des Vishnu. Die Manen, die auf dem Barhis sitzend nach Herzenslust vom ausgepreßten Trank genießen, die kommen am liebsten hierher!
@@ -3031,17 +3011,6 @@ Ich hab' entdeckt die gabenreichen Väter, die Kinder und den höchsten Schritt 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Invoked are the fathers who love the Soma  
-To their dear homes on the sacrificial strew;  
-May they come hither; may they hear us here;  
-May they speak for us; and may they aid us.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/05_upahUtAH_pitaraH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3303,6 +3272,14 @@ May they, the Fathers, worthy of the Soma, invited to their favourite oblations.
      Laid on the sacred grass, come nigh and listen: may they be gracious unto us and bless us.
 </details>
 
+<details><summary>Keith</summary>
+
+Invoked are the fathers who love the Soma  
+To their dear homes on the sacrificial strew;  
+May they come hither; may they hear us here;  
+May they speak for us; and may they aid us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Die somawürdigen Väter sind jetzt geladen zu den beliebten, auf das Barhis gesetzten Auftischungen. Die sollen herkommen, die sollen hier zuhören, die sollen uns Fürsprecher und gewogen sein!
@@ -3356,17 +3333,6 @@ Geladen sind die Soma-frohen Väter zu lieben Speisen, welche auf der Streu steh
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Let them arise, the lower and the higher  
-And the middle fathers who love the Soma;  
-They who lived their lives [3] in goodness and without sin;  
-May these fathers help us when we call.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/01_udIratAmavara_utparAsa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3653,6 +3619,14 @@ MAY they ascend, the lowest, highest, midmost, the Fathers who deserve a share o
      May they who have attained the life of spirits, gentle and righteous, aid us when we call them.
 </details>
 
+<details><summary>Keith</summary>
+
+Let them arise, the lower and the higher  
+And the middle fathers who love the Soma;  
+They who lived their lives [3] in goodness and without sin;  
+May these fathers help us when we call.
+</details>
+
 <details><summary>Geldner</summary>
 
 Es sollen sich die näheren, die ferneren und die mittleren somawürdigen Väter aufmachen, die ungefährdet zum Leben eingegangen sind, des Rechten kundig. Diese Väter sollen uns bei den Anrufungen gewogen sein.
@@ -3711,17 +3685,6 @@ Erheben mögen sich die ersten Väter, die letzten und die mittelsten, die fromm
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Be this homage to-day to the fathers,  
-Who went before and who went after;  
-Who are seated in the earthly region  
-Or who are now in abodes with fair dwellings.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/02_idaM_pitRbhyo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4007,6 +3970,14 @@ Now let us pay this homage to the Fathers, to those who passed of old and those 
      Those who have rested in the earthly region, and those who dwell among the Mighty Races.
 </details>
 
+<details><summary>Keith</summary>
+
+Be this homage to-day to the fathers,  
+Who went before and who went after;  
+Who are seated in the earthly region  
+Or who are now in abodes with fair dwellings.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese Verbeugung soll heute den Vätern gelten, die früher und die später gegangen sind, die sich in der irdischen Welt niedergesetzt haben, oder die jetzt bei verbündeten Clanen sind.
@@ -4060,17 +4031,6 @@ Dies Andachtswerk sei heut geweiht den Vätern, die früher und die später heim
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-As our fathers before,  
-Of old, O Agni, furthering right,  
-Sought the pure, the devotion, singing hymns,  
-Cleaving the earth they disclosed the red ones.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/002/16_adhA_yathA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4620,6 +4580,14 @@ As in the days of old our ancient Fathers, speeding the work of holy worship, Ag
      Sought pure light and devotion, singing praises; they cleft the ground and made red Dawns apparent.
 </details>
 
+<details><summary>Keith</summary>
+
+As our fathers before,  
+Of old, O Agni, furthering right,  
+Sought the pure, the devotion, singing hymns,  
+Cleaving the earth they disclosed the red ones.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 And as our first, ancient fathers, O Agni, were aspiring after Rita 1—they attained to pure devotion 2, chanting their litanies. Cleaving the earth they disclosed the red (cows).
@@ -4747,17 +4715,6 @@ To the gods and to the fathers.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thou, O Agni, praised, all-knower,  
-Didst carry the offerings making them fragrant;  
-Thou didst give them to the fathers who ate them at the Svadha call;  
-Eat thou, O god, the offerings set before thee.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/12_tvamagna_ILito.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5032,6 +4989,14 @@ Thou, Agni Jatavedas, when entreated, didst bear the offerings which thou madest
      And give them to the Fathers who did cat them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, praised, all-knower,  
+Didst carry the offerings making them fragrant;  
+Thou didst give them to the fathers who ate them at the Svadha call;  
+Eat thou, O god, the offerings set before thee.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Agni Jatavedas, hast dazu berufen die Opferspende duftig gemacht und sie befördert. Du hast sie den Vätern übergeben, die haben sie nach eigenem Ermessen gegessen; iß auch du, Gott, die dargereichten Spenden!
@@ -5093,17 +5058,6 @@ Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schm
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Matali with the Kavyas, Yama with the Angirases,  
-Brhaspati rejoicing with the Rkvans,  
-Those whom the gods magnified and those who magnified the gods;  
-Some in the Svaha call, some in the Svadha rejoice [5].
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/03_mAtalI_kavyairyamo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5376,6 +5330,14 @@ Mitali prospers there with Kavyas, Yama with Angiras' sons, Brhaspati with Rkvan
      Exalters of the Gods, by Gods exalted, some joy in praise and some in our oblation.
 </details>
 
+<details><summary>Keith</summary>
+
+Matali with the Kavyas, Yama with the Angirases,  
+Brhaspati rejoicing with the Rkvans,  
+Those whom the gods magnified and those who magnified the gods;  
+Some in the Svaha call, some in the Svadha rejoice [5].
+</details>
+
 <details><summary>Geldner</summary>
 
 Matali mit den Kavya´s, Yama mit den Angiras, Brihaspati von den Sängern erhöht, welchen die Götter zur Erhöhung verholfen haben und welche den Göttern: die einen ergötzen sich unter Svaharuf, die anderen an der Götterspeise.
@@ -5429,17 +5391,6 @@ Dort freut sich Matali mit Kavja's, Jama mit Angiras, Brihaspati mit Rikvan's, G
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Sit on this strew, O Yama,  
-In accordance with the Angirases, the fathers;  
-Let the verses made by the poets bring thee hither;  
-Rejoice, O king, in this offering.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/04_imaM_yama.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5713,6 +5664,14 @@ Come, seat thee on this bed of grass, O Yama, in company with Angirases and Fath
      Let texts recited by the sages bring thee O King, let this oblation make thee joyful.
 </details>
 
+<details><summary>Keith</summary>
+
+Sit on this strew, O Yama,  
+In accordance with the Angirases, the fathers;  
+Let the verses made by the poets bring thee hither;  
+Rejoice, O king, in this offering.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Upon this sacred grass sit down, O Yama, Uniting with the Aṅgiras, our fathers. Let spells recited by the sages bring thee; Do thou, O king, rejoice in this oblation.
@@ -5771,17 +5730,6 @@ So setz dich, Jama, hin auf diesen Grassitz, vereint den Angiras und unsern Vät
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Come with the Angirases who deserve the sacrifice,  
-Yama, rejoice here with the Vairupas;  
-I summon Vivasvant who is thy father,  
-Sitting down on the strew at this sacrifice.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/05_angirobhirA_gahi.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -6032,6 +5980,14 @@ Come, Yama, with the Angirases the Holy, rejoice thee here with children of Viru
      To sit on sacred grass at this our worship, I call Vivasvan, too, thy Father hither.
 </details>
 
+<details><summary>Keith</summary>
+
+Come with the Angirases who deserve the sacrifice,  
+Yama, rejoice here with the Vairupas;  
+I summon Vivasvant who is thy father,  
+Sitting down on the strew at this sacrifice.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Come hither with the Aṅgiras, the holy: Here with Virūpa's sons, O Yama revel, Vivasvant I invoke, who is thy father, When at this rite upon the straw he's seated.
@@ -6098,17 +6054,6 @@ Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhne
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-The Angirases, our fathers, the Navagvas,  
-Atharvans, Bhrgus, who love the Soma;  
-May we be in the favour of those ones worthy of sacrifice;  
-May we have their kindly good will.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/014/06_angiraso_naH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -6344,6 +6289,14 @@ may we be in the favor of these who are deserving of the sacrifice; may  we be a
 
 Our Fathers are Angirases, Navagvas, Atharvans, Bhrgus who deserve the Soma.  
      May these, the Holy, look on us with favour, may we enjoy their gracious loving-kindness.
+</details>
+
+<details><summary>Keith</summary>
+
+The Angirases, our fathers, the Navagvas,  
+Atharvans, Bhrgus, who love the Soma;  
+May we be in the favour of those ones worthy of sacrifice;  
+May we have their kindly good will.
 </details>
 
 <details><summary>Macdonell</summary>

@@ -44,20 +44,85 @@ Surrounding Agni, surrounding Indra, surrounding the All-gods, surrounding me wi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ नᳶ पवस्व श᳓ङ्ग᳓वे श᳓ञ्ज᳓नाय श᳓म᳓र्वते ।  
 शँ᳓ राजन्नो᳓षधीभ्यः᳓ ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/011/03_sa_naH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>Keith</summary>
-
-be purified for us, with healing for cattle, healing for men, healing for the horses, healing, O king, for the plants;
+- देवता - पवमानः सोमः
+- ऋषिः - असितः काश्यपो देवलो वा
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+स᳓ नः पवस्व शं᳓ ग᳓वे  
+शं᳓ ज᳓नाय श᳓म् अ᳓र्वते  
+शं᳓ राजन्न् ओ᳓षधीभियः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+gáve ← gáv- ~ gó- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pavasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+árvate ← árvant- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+jánāya ← jána- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+
+śám ← śám (invariable)  
+{}
+
+óṣadhībhyaḥ ← óṣadhī- (nominal stem)  
+{case:DAT, gender:F, number:PL}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śám ← śám (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ पवस्व॒ शं गवे॒ शं जना॑य॒ शमर्व॑ते ।  
+शं रा॑ज॒न्नोष॑धीभ्यः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 स नᳶ॑ पवस्व॒ शङ्गवे॒ शञ्जना॑य॒ शमर्व॑ते ।  
 शँ रा॑ज॒न्नोष॑धी॒भ्यः ।
@@ -65,16 +130,175 @@ be purified for us, with healing for cattle, healing for men, healing for the ho
 
 <details><summary>पद-पाठः</summary>
 
+सः । नः॒ । प॒व॒स्व॒ । शम् । गवे॑ । शम् । जना॑य । शम् । अर्व॑ते ।  
+शम् । रा॒ज॒न् । ओष॑धीभ्यः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 सः । नः॒ । प॒व॒स्व॒ । शम् । गवे॑ । शम् । जना॑य । शम् । अर्व॑ते । शम् । रा॒ज॒न् । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+
+_________
+
+- *śaṃ* ← *śam*
+- \[adverb\]
+- “śam \[word\].”
+
+_________
+
+- *gave* ← *go*
+- \[noun\], dative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *śaṃ* ← *śam*
+- \[adverb\]
+- “śam \[word\].”
+
+_________
+
+- *janāya* ← *jana*
+- \[noun\], dative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+
+_________
+
+- *śam*
+- \[adverb\]
+- “śam \[word\].”
+
+_________
+
+- *arvate* ← *arvant*
+- \[noun\], dative, singular, masculine
+- “horse.”
+
+_________
+
+- *śaṃ* ← *śam*
+- \[adverb\]
+- “śam \[word\].”
+
+_________
+
+- *rājann* ← *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+
+_________
+
+- *oṣadhībhyaḥ* ← *oṣadhī*
+- \[noun\], dative, plural, feminine
+- “herb; plant; drug; herb.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सः- तादृशः सन्। नः- अस्मदर्थम्। पवस्व- क्षर। गवे- चिद्रश्मये। जनाय- उपासकेभ्यः।  अर्वते- प्राणाय। ओषधीभ्यः- अस्मद्धितकरभौमभोगेभ्यः। शम्- मङ्गळम्। पवस्व- क्षर॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **राजन्** दीप्यमान सोम **सः** प्रसिद्धस्त्वं **नः** अस्माकं **गवे** **शं** सुखं **पवस्व** क्षर । **जनाय** पुत्रादये च **शं** पवस्व । **अर्वते** अश्वाय च **शं** पवस्व । **ओषधीभ्यः** च **शं** पवस्व ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तादृशः त्वं नः अस्मदर्थं पवस्व शुन्धस्व । पूङ् पवने, भौवादिकः । किमर्थम्? शं गवे । जातावेकवचनम् । यथा गोभ्यः शं सुखं भवति । जनाय जनेभ्यः । अर्वते अर्वद्भ्यः । ओषधीभ्यश्च ।
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Radiant (**Soma**), do you pour prosperity upon our cattle, upon our people, upon our horses, and upon our plural nts.”
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Jamison Brereton</summary>
+
+Purify yourself as weal for our cow, weal for our people, weal for our  charger,  
+weal for our plants, o king.
+</details>
+
+<details><summary>Griffith</summary>
+
+Bring, by thy flowing, weal to kine, weal to the people, weal to steeds.  
+     Weal, O thou King, to growing plants
+</details>
+
+<details><summary>Keith</summary>
+
+be purified for us, with healing for cattle, healing for men, healing for the horses, healing, O king, for the plants;
+</details>
+
+<details><summary>Geldner</summary>
+
+Läutere du dich zum Heil für unser Rind, zum Heil für unsere Leute, zum Heil für das Rennpferd, zum Heil für die Gewächse, o König!
+</details>
+
+<details><summary>Grassmann</summary>
+
+So riesle Heil für unser Vieh, für Männer Heil und für das Ross, O König, den Gewächsen Heil.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Очищайся ты на благо нашей коровы,  
+На благо народу, на благо скаковому коню,  
+На благо, о царь, растениям!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (राजन् सः) पूर्वोक्त दीप्तिमन् परमात्मन् ! (नः) हमारी (गवे) इन्द्रियों के लिये (शम् पवस्व) कल्याणकारी हो (शम् अर्वते जनाय) कर्मकाण्डी मनुष्यों के लिये कल्याणकारी हो (शम् ओषधीभ्यः) और हमारी ओषधियों के लिये कल्याणकारी हो॥३॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  यहाँ ओषधि केवल उपलक्षण है, वस्तुतः प्रत्येक संसारवर्ग के लिये इस मन्त्र में कल्याण की प्रार्थना की गई है॥३॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (राजन् सः) हे पूर्वोक्तदीप्तिमन् परमात्मन् ! (नः) अस्माकम् (गवे) इन्द्रियेभ्यः (शम् पवस्व) कल्याणं क्षर (शम् अर्वते जनाय)कर्मकाण्डिने च कल्याणं प्रयच्छ (शम् ओषधीभ्यः) ओषधिभ्यश्च कल्याणकर्त्ता भव ॥३॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓च्छिन्नस्य ते रयिपते सुवी᳓र्यस्य राय᳓स्पो᳓षस्य ददिता᳓रस्स्याम ।
 </details>

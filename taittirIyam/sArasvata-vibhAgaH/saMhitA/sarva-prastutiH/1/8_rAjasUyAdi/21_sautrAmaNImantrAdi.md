@@ -131,17 +131,77 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/001/06_punAti_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-Let the daughter of the Sun  
-Purify for thee the flowing Soma  
-With the eternal sieve.
+- देवता - पवमानः सोमः
+- ऋषिः - मधुच्छन्दाः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+पुना᳓ति ते परिस्रु᳓तं  
+सो᳓मं सू᳓र्यस्य दुहिता᳓  
+वा᳓रेण श᳓श्वता त᳓ना
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+parisrútam ← parisrút- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+punā́ti ← √pū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+duhitā́ ← duhitár- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śáśvatā ← śáśvant- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tánā ← tán- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+vā́reṇa ← vā́ra- 1 (nominal stem)  
+{case:INS, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒नाति॑ ते परि॒स्रुतं॒ सोमं॒ सूर्य॑स्य दुहि॒ता ।  
+वारे॑ण॒ शश्व॑ता॒ तना॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+पु॒नाति॑ ते परि॒स्रुतँ॒ सोमँ॒ सूर्य॑स्य दुहि॒ता।  
+वारे॑ण॒ शश्व॑ता॒ तना॑ ॥४ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 पु॒नातु॑ ते परि॒स्रुतँ॒ सोमँ॒ सूर्य॑स्य दुहि॒ता ।  
 वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
@@ -149,7 +209,171 @@ With the eternal sieve.
 
 <details><summary>पद-पाठः</summary>
 
+पु॒नाति॑ । ते॒ । प॒रि॒ऽस्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ।  
+वारे॑ण । शश्व॑ता । तना॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+पु॒नाति॑। ते॒। प॒रिस्रुत॒मिति॑ परि॒ऽस्रुत॑म्। सोम॑म्। सूर्य्य॑स्य। दु॒हि॒ता। वारे॑ण। शश्व॑ता तना॑। ४।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+पु॒नाति॑। ते॒। प॒रिस्रुत॒मिति॑ परि॒ऽस्रुत॑म्। सोम॑म्। सूर्य्य॑स्य। दु॒हि॒ता। वारे॑ण। शश्व॑ता। तना॑। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 पु॒नातु॑ । ते । प॒रि॒स्रुत॒मिति॑ परि-स्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ॥ वारे॑ण । शश्व॑ता । तना॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *punāti* ← *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *parisrutaṃ* ← *parisrutam* ← *parisru* ← *√sru*
+- \[verb noun\], accusative, singular
+- “filter; run; soak; dissolve.”
+
+_________
+
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+
+- *duhitā* ← *duhitṛ*
+- \[noun\], nominative, singular, feminine
+- “daughter; duhitṛ \[word\].”
+
+_________
+
+- *vāreṇa* ← *vāra*
+- \[noun\], instrumental, singular, masculine
+- “strainer.”
+
+_________
+
+- *śaśvatā* ← *śaśvat*
+- \[noun\], instrumental, singular, feminine
+- “all(a); each(a).”
+
+_________
+
+- *tanā* ← *tan*
+- \[noun\], instrumental, singular, feminine
+- “continuity; sequence; longevity.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ते- तव। परिस्रुतम्- क्षरन्तम्। सोमम्- रसम्। सूर्यस्य दुहिता- उषा ज्ञानोदयदेवता। वारेण-  उत्तमेन। शश्वता- नित्येन। तना- रूपेण। पुनाति- पवित्रीकरोति। विद्यया धार्मिकरसः पवित्रो  भवतीति भावः॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम **ते** तव **परिस्रुतं** क्षरन्तं **सोमं** सोमरसं **सूर्यस्य** **दुहिता** श्रद्धा देवी **वारेण** वालेन **शश्वता** शाश्वतेन **तना** विस्तृतेन **पुनाति** । तथा च वाजसनेयिन आमनन्ति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+समृद्धिकामस्य पुनाति ते।
+
+यजमानस्याचष्टेऽध्वर्युः।
+
+पुनाति तव परिस्रुतं सुरां सोमं च सूर्यस्य दुहिता।
+
+यद्वा लुप्तोपमानमेतत् पुनाति ते परिस्रुतं सोममेवेति।
+
+यद्वा पुनाति तव परिस्रुतं सोमरूपापन्ना सूर्यस्य दुहिता।
+
+‘श्रद्धा वै सूर्यस्य दुहिता वारेण गोऽश्ववालवालेन। शश्वता शाश्वतिकेन। तना। तनेति धननाम। धनोत्पत्तिनिमित्तभूतेन॥४॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अध्वर्युर्यजमानं प्रत्याचष्टे हे यजमान, सूर्यस्य दुहिता पुत्री श्रद्धा ते तव परिस्रुतं सुरां सोमं च पुनाति शोधयति।
+
+‘श्रद्धा वै सूर्यस्य दुहिता’ इति श्रुतिः।
+
+यद्वा लुप्तोपमानम्।
+
+ते तव परिस्रुतं सोममिव पुनाति सोमवत् पवित्रं करोति।
+
+यद्वा सोमं सोमरूपापन्नां परिस्रुतं श्रद्धा पुनाति।
+
+केन।
+
+वारेण वालेन रलयोरैक्यम्।
+
+गोऽश्ववालवालेन।
+
+कीदृशेन वारेण।
+
+शश्वता शाश्वतिकेन अनादिना।
+
+तथा तना।
+
+तनेति धननाम।
+
+तनेन धनेन धनरूपेण धनोत्पत्तिनिमित्तभूतेनेत्यर्थः॥ ४॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+तेन समृद्धि-कामस्य यजमानस्य तव सम्बन्धिनं परिष्टुतम् अभिषवण-काल उद्गत-सोमं सूर्यस्य सर्वस्य जगतः प्रेरकस्य, दुहिता, "श्रद्धा वै सूर्यस्य दुहिता" इत्यादि-श्रुते: ।
+
+(श०, का० १२ । प्र० ३ । ब्रा० ४ । ब्रा० ३ । क० ११ ) ।
+
+तना विस्तृतेन, धन-निमित्तेन' योजनम्, तनेति धननामसु पाठात् ।
+
+शश्वता शाश्वतिकेन वारेण गो ऽश्ववालेन पुनाति ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+पुनाति ते परिस्रुतम् ' इति ।
+
+समृद्धि-कामस्य यजमानस्य " ते तव । अध्वर्युराचष्टे । ते तव संबन्धिनम् । स्रु गतौ । परिस्रुतम् अभिषव-काले परिस्रुतं सोमम् उद्गतं तं सोमम् । सूर्यस्य दुहिता सर्व-प्रेरकस्य सूर्यस्य दुहिता । दुहिता नाम श्रद्धा । “ श्रद्धा वै सूर्यस्य दुहिता " ( शत्रा १२.७.३.११ ) इति श्रुतेः ।
+
+अतः श्रद्धा सोमं पुनाति ।
+
+केनेति ?
+
+' वारेण शश्वता तना
+वारेण वालेन गो ऽश्ववालेन ।
+
+"शश्वता शाश्वतिकेन । तना इति धन-नाम । धनोपत्ति-निमित्त-भूते न शाश्वतिकेन वालेन सूर्यस्य दुहिता श्रद्धा सोमं पुनातीति संबन्धः ॥४॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+अथ चतुर्थी - 'पुनाति ते ' इति ।
+
+अत्राध्वर्युर्यजमानं प्रत्याचष्टे- हे यजमान, सूर्यस्य "दुहिता पुत्री श्रद्धानाम्नी । 'ते तव । अनुदात्तत्वात् षष्ठयन्तम् । 'परिस्रुतम् पार-स्रवतीति परिस्रुत् । तां सुरां 'सोमं च 'पुनाति शोधयति । “ श्रद्धा वै सूर्यस्य दुहिता ” (शब्रा १२०७०३०११) इति श्रुतिः । यद्वा- लुप्तोपमेयम् । ते तव परिस्रुतं सोमम् इव पुनाति । सोमवत् पवित्रां करोति । यद्वा- सोमं सोम-रूपम् आपन्नां परिस्रुतं सूर्यस्य दुहिता पुनाति । केन ? 'वारेण । रलयोर् ऐक्याद् वालेन । गोभश्ववाल- वालेन । कीदृशेन शश्वता शाश्वतिकेन । प्रवाहतो नादिनेत्यर्थः । पुनः कीदृशेन ? 'तना । तनेति धननामसु पाठात् ( निघण्टु २०१०.१९ ) धन-रूपेण । तत्-साधनत्वात् । तनेनेति वक्तव्ये “ सुपां सुलुक् " इति सूत्रेण पूर्व-सवर्ण-दीर्घत्वम् ।
+
+न त्विनादेशः ॥४॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -169,6 +393,140 @@ With the eternal sieve.
 
 सा पुनातु **वारेण** वालेन । कापीलादित्वाल्लत्वविकल्पः ।  
 **शश्वता** नित्येन **तना** विस्तीर्णेन । तृतीयायाः 'सुपां सुलुक्' इत्याकारः । यद्वा - शश्वता वारेण । कालेन पुनातु नित्यं पुनात्विति यावत् । तना सूर्यस्य दुहिता । पचाद्यचि पृषोदरादिर्द्रष्टव्यः । यद्वा - तनेति निपातः नित्ये वर्तते शश्वता अविनाशेन वालेन नित्यं पुनात्विति । निपातनादाद्युदात्तत्वम् । यद्वा - शश्वतातना सदातनेनेत्यर्थः । शश्वतेत्याकारान्तो निपातितः । तेनाव्ययलक्षणः ट्युत्प्रत्ययः 'ट्युट्य्लौ तुट्च' इति । प्रकृतिप्रत्यययोश्च पृथक्पदत्वं दृश्यते - यथा 'मा च ते ख्या स्म तीरिषत्' इति ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्य ! जो (तना) विस्तीर्ण प्रकाश से (सूर्यस्य) सूर्य की (दुहिता) कन्या के समान उषा (शश्वता) अनादिरूप (वारेण) ग्रहण करने योग्य स्वरूप से (ते) तेरे (परिस्रुतम्) सब ओर से प्राप्त (सोमम्) ओषधियों के रस को (पुनाति) पवित्र करती है, उसमें तू ओषधियों के रस का सेवन कर ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य सूर्योदय से पूर्व शौचकर्म करके यथानुकूल ओषधि का सेवन करते हैं, वे रोगरहित होकर सुखी होते हैं ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्य ! या तना सूर्यस्य दुहितेवोषा शश्वता वारेण ते परिस्रुतं सोमं पुनाति, तस्या त्वमोषधिरसं सेवस्व ॥४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्याः सूर्योदयात् प्राक् शौचं विधाय यथानुकूलमौषधं सेवन्ते, तेऽरोगा भूत्वा सुखिनो जायन्ते ॥४ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे सूर्योदयापूर्वी शौचकर्म करून यथानुकूल औषधांचे सेवन करतात ते रोगरहित होऊन सुखी बनतात.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The daughter of the Sun purifies your gushing streams through the eternal outstretched hair.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The daughter of the Sun: **śraddhā** = faith;
+
+Vājasneyi: 'Verily śraddhā is the daughter of the Sun, she purifies him'. The hair-sieve used for straining the **Soma**
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The Daughter of the Sun purifies your circling soma  
+with the fleece-filter in unfailing measure.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+As indicated in the published introduction, the standard clichéś of the soma maṇḍala gave way here to more novel material. The involvement of the Daughter of the Sun as purifier of soma is puzzling. Geldner suggests (n. 6b) that the Daughter of the Sun, also found in this maṇḍala at IX.72.3, 113.3, is the “Dicht- oder Gesangeskunst,” on what seem to me slender grounds (mostly III.53.15, which is not at all clear). Oberlies’s notion (Relig. RV I.241, 282; II.60) that this locution indicates that Soma comes from heaven to earth at dawn is more plausible
+
+-- though it should be kept in mind that Sūryā, the daughter of the Sun, is not the same as
+Uṣas, Dawn. I would rather suggest that the presence of this figure in this vs., which immediately precedes two vss. metaphorically concerning ‘maidens’ (yóṣanaḥ) and ‘unwed girls’ (agrúvaḥ), is meant to showcase the mythological marriageable maiden par excellence: Sūryā exists essentially only to get married. Her appearance in this vs. serves as a positive model for the maidens that follow. However, this interpr. does not fit well with my interpr. of the other passages in which she appears in this maṇḍala; see esp. disc. ad IX.72.3.
+
+The referent of te has occasioned some discussion. In this hymn the 2nd ps. referent is otherwise always soma, but the acc. sómam already appears in the vs. as obj. of punā́ti. The solution adopted by most (see Oldenberg’s disc.), which I also subscribe to, is that te does refer to soma, but to Soma the god, distinguishing him from soma the liquid, the ritual substance represented by the acc. sómam. Geldner (n. 6) cites other possibilities that have been suggested -- the ritual patron or Indra -- though he himself accepts the Soma the god hypothesis.
+</details>
+
+<details><summary>Griffith</summary>
+
+By means of this eternal fleece may Surya's Daughter purify  
+     Thy Soma that is foaming forth.
+</details>
+
+<details><summary>Keith</summary>
+
+Let the daughter of the Sun  
+Purify for thee the flowing Soma  
+With the eternal sieve.
+</details>
+
+<details><summary>Geldner</summary>
+
+Die Tochter des Surya klärt deinen Soma, der durch die Haarseihe in vollständigem Durchlauf abfließt.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Sonne Tochter reinigt dir den Soma, der in stetem Lauf Hin durch des Widders Wolle strömt.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Дочь Сурьи очищает  
+Твоего сому, растекающегося  
+Непрерывной чередой по ситу.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- मधुच्छन्दाः
+- गायत्री
+- षड्जः
+
+- सोमो देवता
+- आभूतिर्ऋषिः
+- आर्षी गायत्री
+- षड्जः
+</details>
+
+<details><summary>आर्यमुनि - विषयः</summary>
+
+अबरूपकालङ्कारसे श्रद्धा को सूर्य्य की पुत्रीरूप से वर्णन करते हैं।
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे परमात्मन् ! (ते) तुम्हारे (परिस्रुतम्) जिसका सर्वत्र प्रभाव फैल रहा है, ऐसे (सोमम्)सौम्यस्वभावको (सुर्य्यस्य दुहिता) सूर्य्य की पुत्री (पुनाति) पवित्र करती है और (वारेण) बाल्यपन से (शश्वता) निरन्तर (तना) शरीर से पवित्र करती है॥६॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  जो पुरुष श्रद्धा द्वारा ईश्वर को प्राप्त होता है, वह मानों प्रकाश की पुत्री द्वारा अपनेसौम्यस्वभावको बनाता है। जिस प्रकार सूर्य्य की पुत्री उषा मनुष्यों के हृदय में आह्लाद उत्पन्न करती है, इसी प्रकार जिन मनुष्यों के ह्रदय में श्रद्धा देवी का निवास है, वे लोग उषा देवी के समान सबके आह्लादजनकसौम्यस्वभावको उत्पन्न करते हैं ॥ कई एक लोग इसके ये अर्थ करते हैं कि सूर्य्य की पुत्री कोई व्यक्तिविशेष श्रद्धा थी, यह अर्थ वेद के आशय से सर्वथा विरुद्ध है, क्योंकि उसकासौम्यस्वभावके साथ क्या सम्बन्ध ? यहाँ स्वभाव के साथ उसी श्रद्धा देवी का सम्बन्ध है, जो मनुष्य के शील को उत्तम बनाती है ॥६॥
+</details>
+
+<details><summary>आर्यमुनि (सं) - विषयः</summary>
+
+अथ रूपकालङ्कारेण श्रद्धां सूर्य्यस्य पुत्रीरूपेण वर्णयति।
+</details>
+
+<details><summary>आर्यमुनि  (सं)- पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे परमात्मन् ! (ते) तव (परिस्रुतम्) सर्वत्र विस्तृतप्रभावम् (सोमम्) सौम्यस्वभावम् (सूर्य्यस्य दुहिता) सूर्य्यस्य पुत्री (पुनाति) पवित्रयति (वारेण) बाल्यादारभ्य (शश्वता) निरन्तरम् (तना) शरीरेण पुनाति ॥६॥
 </details>
 </details>
 
@@ -194,9 +552,46 @@ With the eternal sieve.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Whitney</summary>
+
+###### Translation
+1. Purified with Vāyu's purifier, Soma \[hath\] run over opposite  
+(*pratyán̄*), Indra's suitable companion.
+
+###### Notes
+The translation implies, at the end of **b**, *áti drutás* (or  
+*atidrutas*, as the comm. appears to read), which SPP. has rightly in  
+his text. In most mss. *dru* and *hru* are hardly distinguishable (and  
+not easily distinguishable from *du* and *hu*), and *hru* was  
+unfortunately adopted in our text, because the first mss. consulted  
+favored that reading. Ppp. has instead *adhiśrutaḥ*. The verse is found  
+twice\* in VS. (x. 31 **d**; xix. 3 **a**), twice in TB. (ii. 6. 1²⁻³;  
+two immediately successive versions), and thrice in MS. (ii. 3. 8; and  
+iii. 11. 7 two immediately successive versions), and, what is unusual,  
+with differences of reading in the different versions. VS. differs from  
+our text ⌊see note\*⌋ in **b**, having in x. *átisrutas*, and in xix.  
+*átidrutas*. TB. has both times *vāyús* at the beginning, but in **b**  
+the first time prank and the second *prā́n̄k*, both times *átidrutas*. MS.  
+has in ii. *vā́yos* (doubtless a misprint for *vāyós*) and *átisrutas;*  
+in iii., the first time *vāyús*, *prā́k*, and *átidrutas*, the second  
+time *vāyós*, *pratyák*, and *átisrutas*. The Atharvan reading,  
+according to the Prāt, phonetic rule ii. 9, ought to be *pratyán̄k*  
+before a following *s*; but (as explained in the note to that rule) the  
+mss. read simple *n̄*, and both printed texts adopt it. ⌊Cf. Weber,  
+*Rājasūya*, p. 101, n. 7.⌋ \*⌊Should be "thrice": W. overlooked that at  
+xix. 3 also there are two immediately successive versions, the first  
+with *pratyán̄k...átidrutaḥ*, the second with *prā́n̄k...átidrutaḥ*.  
+Moreover, VS. has in x. (like TB.) *vāyúḥ*.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend of Indra.
+</details>
+
 <details><summary>Keith</summary>
 
 Vayu purified by the strainer,  
@@ -204,15 +599,224 @@ Soma hath sped away,
 Indra's dear friend.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith (काण्वम्)</summary>
+
+Purified by Vâyu's strainer, Soma that has passed away forward is Indra's proper friend.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+Purified by Vâyu's strainer, Soma that has passed away forward is Indra's proper friend.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
+इन्द्र॑स्य॒ युजः॒ सखा॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ् सोमो॒ऽअति॑द्रुतः। इन्द्र॑स्य॒ युज्यः॒ सखा॑।
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ् सोमो॒ अति॑स्रुतः । 
+इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥१॥ ४४
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वा॒युᳶ पू॒तᳶ प॒वित्रे॑ण प्र॒त्यङ्क्सोमो॒ अति॑द्रुतः ।   
 इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्यः॑। सखा॑। ५१.१।
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अतिद्रु॑त॒ इत्यति॑ऽद्रुतः। इन्द्र॑स्य। युज्यः॑। सखा॑।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अतिद्रु॑त॒। इत्यति॑ऽद्रुतः। इन्द्र॑स्य। युज्यः॑। सखा॑। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वा॒युः । पू॒तः । प॒वित्रे॑ण । प्र॒त्यङ्ङ् । सोमः॑ । अति॑द्रुत॒ इत्यति॑-द्रु॒तः॒ ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः
+- शन्ताति
+- गायत्री
+- एनोनाशन सूक्त
+
+- क्षत्रपतिर्देवता
+- शुनःशेप ऋषिः
+- आर्षी त्रिष्टुप्
+- धैवतः
+
+- सोमो देवता
+- आभूतिर्ऋषिः
+- भुरिक् त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+द्रोह के नाश का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वायोः) सर्वव्यापक परमेश्वर के [बताये हुए] (पवित्रेण) शुद्ध आचरण से (पूतः) शुद्ध किया हुआ, (प्रत्यङ्) प्रत्यक्ष पूजनीय, (अति) अति (द्रुत) शीघ्रगामी (सोमः) ऐश्वर्यवान् वा अच्छे गुणवाला पुरुष (इन्द्रस्य) परमेश्वर का (युज्यः) योगी (सखा) सखा होता है ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को योग्य है कि वेदविहित कर्मों को अति शीघ्र करके परमेश्वर के मित्र बन के सदा सुखी रहें ॥१॥  (वायु) शब्द परमेश्वरवाचक है−देखो [तद्वायुस्तदु चन्द्रमाः] य० ३२।१। ब्रह्म [वायुः] सर्वव्यापक और ब्रह्म ही आनन्ददाता है ॥  यह मन्त्र कुछ भेद से यजुर्वेद में है−अ० १।३१ ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−वायोः सर्वव्यापकस्य परमेश्वरस्य विज्ञापितेन−तद् यथा [तद्वायुस्तदु चन्द्रमाः] य० ३२।१। (पूत) शोधितः (पवित्रेण) शुद्धेन धर्म्माचरणेन (प्रत्यङ्) प्रत्यक्षमञ्चितः पूजितः (सोमः) ऐश्वर्यवान् सोमगुणसम्पन्नो वा (अति) अत्यन्तम् (द्रुतः) शीघ्रगामी (इन्द्रस्य) परमेश्वरस्य (युज्यः) समाहितः। योगी (सखा) मित्रम् ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्य कैसे हो क्या करें, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे राजा तथा प्रजापुरुषो ! तुम (अश्विभ्याम्) सूर्य चन्द्रमा के समान अध्यापक और उपदेशक (पच्यस्व) शुद्ध बुद्धिवाले हो (सरस्वत्यै) अच्छी शिक्षायुक्त वाणी के लिये (पच्यस्व) उद्यत हो, (सुत्राम्णे) अच्छी रक्षा करनेहारे (इन्द्राय) परमैश्वर्य के लिये (पच्यस्व) दृढ़ पुरुषार्थ करो, (पवित्रेण) शुद्ध धर्म के आचरण से (वायुः) वायु के समान (पूतः) निर्दोष (प्रत्यङ्) पूजा को प्राप्त (सोमः) अच्छे गुणों से युक्त ऐश्वर्य्यवाले (अतिस्रुतः) अत्यन्त ज्ञानवान् (इन्द्रस्य) परमेश्वर के (युज्यः) योगाभ्यासयुक्त (सखा) मित्र हो ॥३१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य को चाहिये कि सत्यवादी धर्मात्मा आप्त अध्यापक और उपदेशक से अच्छी शिक्षा को प्राप्त हो, शुद्ध धर्म के आचरण से अपने आत्मा को पवित्र योग के अङ्गों से ईश्वर की उपासना और सम्पत्ति होने के लिये प्रयत्न करके आपस में मित्रभाव से वर्त्तें ॥३१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनर्मनुष्या कीदृशा भूत्वा किं कुर्युरित्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे राजप्रजाजन ! त्वमश्विभ्यां पच्यस्व सरस्वत्यै पच्यस्व सुत्राम्ण इन्द्राय पच्यस्व। पवित्रेण वायुरिव पूतः प्रत्यङ् सोमोऽतिस्रुत इन्द्रस्य युज्यः सखा भव ॥३१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्या आप्तयोरध्यापकोपदेशकयोः सकाशात् सुशिक्षां प्राप्य शुद्धैर्धर्माचरणैः स्वात्मानं पवित्रीकृत्य, योगाङ्गैरीश्वरमुपास्यैश्वर्य्याय प्रयत्य परस्परं सखायो भवन्तु ॥३१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  सत्यवादी, धर्मात्मा, आप्त, अध्यापक व उपदेशक यांच्याकडून माणसांनी चांगले शिक्षण प्राप्त करावे. शुद्ध धर्म आचरणात आणून आपल्या आत्म्याला पवित्र बनवावे व योगांगाच्या साह्याने ईश्वराची उपासना करावी. संपत्ती मिळविण्यासाठी प्रयत्न करावेत व आपापसात मित्र भावना बाळगावी.
+
+भावार्थभाषाः -  जे औषध शुद्ध स्थळ, जल व वायूमध्ये उत्पन्न होते त्यामुळे ते जुन्या किंवा नव्या रोगांचे ताबडतोब निवारण करते. त्या औषधांचा (सोमवल्ली वगैरे) मित्राप्रमाणे माणसांनी स्वीकार केला पाहिजे.
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+तिसृभिर्गायत्रीभिः परिस्रुतं पुनाति।
+
+वायोः पूतः।
+
+योऽयं वायोः पवित्रेण उदरान्तरवर्तिना पूतः सन् प्रत्यङधोमुखः सोमः अतिद्रुतः सः इन्द्रस्य युज्यः।
+
+इन्द्रेण सह योगमर्हति।
+
+सखा सहायः।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+वायोः पूत इति कण्डिकायां द्वे ऋचौ पुनाति त इति तृतीया तासां व्युत्क्रमेण विनियोगमाह।
+
+पूतां सुरामादाय गोऽश्वकेशनिर्मितेन वालेन पवित्रेण सते पलाशपात्रे पुनाति पुनाति त इति मन्त्रेण सतं वारणमिति केचित्।
+
+मुखेतरच्छिद्रसोमवामिनो यजमानस्य सौत्रामण्यां वायोः पूतः पवित्रेण प्रत्यङ्ङिति मन्त्रेण सते सुरां पुनाति मुखेन सोमवामिनस्तु वायोः पूतः पवित्रेण प्राङिति मन्त्रेण सते सुरां पुनातीत्यर्थः।
+
+ऋक्त्रयमाभूतिदृष्टं सोमदेवत्यं गायत्रम्।
+
+प्रत्यञ्चति अधो गच्छति प्रत्यङधोमुखोऽतिद्रुतो गुदद्वारा गतः सोमः वायोः पवित्रेण उदरान्तर्वर्तिना पूतः शुद्धः।
+
+कीदृशः।
+
+इन्द्रस्य युज्यः सखा योगार्होऽगर्ह्यः सहायः।
+
+प्राञ्चत्यूर्ध्वं गच्छति प्राङ् मुखतोऽतिद्रुतो निर्गतः सोमो वायोः पवित्रेण हृदयान्तर्वर्तिना पूतः य इन्द्रस्य युज्यः योग्यः सखा॥३॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+पाठस् तु - 'वायोः पूतः पवित्रेण प्रत्य सोमो अतिसुतः । इन्द्रस्य युज्यः सखा' इति ।
+
+'वायोः संबन्धी पवित्रेण कुशमयेन पूतः शोधितः 'सोमः 'प्रत्य अधो-मुखः सन् अतिसुतः अतिक्रम्य गतः । कीदृशः सोमः ? 'इन्द्रस्य 'युज्यः योगार्हः सखा सखिभूतः ॥१॥
+
+वायोः विभक्ति-व्यत्ययः ।
+
+उदरान्तर्वर्त्तिना वायुना पवित्रेण पावन-हेतुना पूतः सन् प्राग्-अञ्चति ।
+
+प्राङ्मुखो भूत्वा अतिद्रुतः अतिस्रुतः ।
+
+इन्द्रस्य व्यत्ययः ।
+
+इन्द्रेण युज्यः संयोगार्हः, सखारै सखिवत् ख्यायत इत्य् अर्थः ।
+
+वायोर् इत्यादि समानम् ।
+
+प्रत्यगञ्चतीति प्रत्यङ्, अधो-मुखः सन्, स्पष्टम् अन्यत् ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+भैषज्यं हीन्द्रस्य कर्तव्यम् ।
+
+सौत्रामण्यां सुरां पुनाति - ' वायोः पूतः पवित्रेण' इति ।
+
+सोमो गायत्री ।
+
+वायोः 'पूतः वायु-संबन्धी सोमः पूतः । पवित्रेण पचनेन पूतः । 'प्रत्यङ् अधो-मुखः ।
+
+" अतिस्रुतः । स्रु गतौ । अतिक्रम्य गतः । सः सोमः इन्द्रस्य 'युज्य : योगाई: समान-योगी च सखा च । समान-ख्यातः कथंमिन्द्रं हिनस्तीति शेषः ॥ १ ॥
+
+' वायोः पूतः ' इत्यादिभिस्तिसृभिर् गायत्रीभिः परिस्रुतं पुनाति— ‘ वायोः पूतः इति ।
+
+आभूतेर् आर्षम् ।
+
+'वायोः उदरान्तर-वर्तिना पवित्रेण पावन-हेतुना पूतः सन् प्राङ् प्राग्-अञ्चनः प्राङ्मुखः । "सोमः अतिद्रुतः अभिगतः सन् इन्द्रस्य युज्यः इन्द्रेण सह संयोगार्हः ।
+
+'सखा च सहैव ख्यायत इति ।
+
+एवं वीर्यवान् सोमो भवति ॥
+
+वायोः पूतः ' इति ।
+
+वायोः हृदयान्तर-वर्तिना पवित्रेण पूतः सोमः प्रत्यङ् प्रत्यङ्मुखः अधो-मुखः सोमः 'अतिद्रुतः अभिगतः सन्ं 'इन्द्रस्य 'युज्यः योगार्हः सखा एवं वीर्यवान् सोमो भवति ॥३॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+अथ तृतीया ।
+
+'वायोः पूतः ' इति कण्डिकाया द्वे ऋचौ ।
+
+' पुनाति ते ' ( कासं २१०४) इति कण्डिकानन्तरं तासां विनियोगो व्युत्क्रमेणोक्तो यद्यपि कात्यायनेन, तथापि “ वायोः पूतः पवित्रेण प्राङ्
+सोमो अतिद्रुतः इति सोम-वामिन: पुनाति । वायोः पूतः पवित्रेण प्रत्यङ् सोमो ऽतिद्रुतः इति सोमातिपूतस्य पुनाति । पुनाति ते परिस्रुतम् इति समृद्धि-कामस्य पुनाति " ( काशबा १२.७०३.११ ) इति ब्राह्मणे क्रमस्य निरूपितत्वात् तथैव मन्त्र-पाठ-क्रमाच् च यथाक्रमं व्याख्यायते । सूत्रार्थस्तु - पूतां सुराम् आदाय गो ऽश्वकेश-निर्मितेन वालेन पवित्रेण सते पलाश-पात्रे पुनाति ' पुनाति ते ' इति मन्त्रेण । सतं वारणम् इति केचित् । मुखेतरच्छिद्र सोम-वामिनो यजमानस्य यागे 'वायोः पूतः पवित्रेण प्रत्यङ्' इति सते सुरां पुनाति । मुखेन सोम-वामिनस्तु ' वायोः पूतः पवित्रेण प्राङ् ' इति मन्त्रेण सते सुरां पुनातीति ॥
+तत्र प्रथमा- ' वायोः पूतः ' इति । ऋक्त्रयम् आभूति-दृष्टं सोम-देवत्यं गायत्रम् । प्राञ्चत्यूर्ध्वं गच्छतीति प्राङ्मुखत: । 'अतिद्रुतः निर्गतः सोमः 'वायोः 'पवित्रेण हृदयान्तर्-वर्तिना 'पूतः शुद्धः । कीदृश: ? 'इन्द्रस्य देवस्य 'युज्य: 'सखा योगार्हो ऽगर्ह्यः सखा सहायः ॥
+अथ द्वितीया- प्रत्यगञ्चति भधोगच्छतीति प्रत्यङ् अधोमुख इति यावत् । 'अतिद्रुतः गुद-द्वारागतः । शेषं पूर्ववत् ॥३॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -223,6 +827,36 @@ Indra's dear friend.
 स **सोमो वायुः** वायुसदृशः वायुवत् स्वस्थानचलितः  
 **प्रत्यङ्** प्रतिकूलो घनः । अतिद्रुतः अधस्ताद्गतः अतिगतो वा । यद्वा - वायुरिति । 'सुपां सुलुक्' इति तृतीयायास्स्वादेशः । वायुना प्रत्यङ्प्रतिद्रुतः अतीतः तमेतेन पवनेन स्वस्थानस्थं करोमीति शेषः । एवमनेन कर्मणा स्वस्थानस्थित एव भवतीति ।   
 अपरा योजना - वायुश्शरीरस्थः प्राणः पवित्रेण पावनेन सोमेन पीतेन पूतः प्रथमं शोधितः इन्द्रस्य युज्यस्सखा स प्रत्यङ् प्रतीपमतिद्रुतः स्वस्थानत्पीडितोतिक्रम्य निर्गतः सोमश्च सोतिद्रुतः । यद्वा - पूर्ववत्तृतीयायास्स्वादेशः । अनेन सोमेन स वायुरतिद्रुतः । यद्वा - सोमश्च वायुश्चेति तदुभयमनेन कर्मणा स्वस्थानस्थं भवति ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्य लोगो ! जो (सोमः) सोमलतादि ओषधियों का गुण (प्राङ्) जो प्रकृष्टता से (अतिद्रुतः) शीघ्रगामी (वायोः) वायु से (पवित्रेण) शुद्ध करनेवाले कर्म से (पूतः) पवित्र (इन्द्रस्य) इन्द्रियों के अधिष्ठाता जीव का (युज्यः) योग्य (सखा) मित्र के समान रहता है और जो (सोमः) सिद्ध किया हुआ ओषधियों का रस (प्रत्यङ्) प्रत्यक्ष शरीरों से युक्त होके (अतिद्रुतः) अत्यन्त वेगवाला (वायोः) वायु से (पवित्रेण) पवित्रता कर के (पूतः) शुद्ध और (इन्द्रस्य) परमैश्वर्ययुक्त राजा का (युज्यः) अतियोग्य (सखा) मित्र के समान है, उसका तुम निरन्तर सेवन किया करो ॥३ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो ओषधि शुद्ध स्थल, जल और वायु में उत्पन्न होती और पूर्व और पश्चात् होनेवाले रोगों का शीघ्र निवारण करती है, उनका मनुष्य लोग मित्र के समान सदा सेवन करें ॥३ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! यः सोमः प्राङतिद्रुतो वायोः पवित्रेण पूत इन्द्रस्य युज्यः सखेवास्ति, यश्च सोमः प्रत्यङ्ङतिद्रुतो वायोः पवित्रेण पूत इन्द्रस्य युज्यः सखेवास्ति, तं यूयं सततं सेवध्वम् ॥३ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  या ओषधयः शुद्धे स्थले जले वायौ चोत्पद्यन्ते, पूर्वापरान् रोगान् शीघ्रं निस्सारयन्ति च, ता मनुष्यैर्मित्रवत् सदा सेवनीयाः ॥३ ॥
 </details>
 </details>
 
@@ -249,9 +883,14 @@ Indra's dear friend.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/125/02_kuvidanga_yavamanto.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Griffith</summary>
+
+What then? As men whose fields are full of barley reap the ripe corn removing it in order, So bring the food of those men, bring it hither, who come not to prepare the grass for worship.
+</details>
+
 <details><summary>Keith</summary>
 
 What then? As men who have barley  
@@ -260,15 +899,54 @@ Hither bring the food of those
 Who have not gone to the reverential cutting of the straw.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+कु॒विद॒ङ्ग यव॑मन्तो॒ यवं॑ चि॒द्यथा॒ दान्त्य॑नुपू॒र्वं वि॒यूय॑।  
+इ॒हेहै॑षां कृणुहि॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्तिं॒ न ज॒ग्मुः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 कु॒विद॒ङ्ग यव॑मन्तो॒ यव॑ञ्चि॒द्यथा॒ दान्त्य॑नुपू॒र्वव्ँवि॒यूय॑ ।   
 इ॒हेहै॑षाङ्कृणुत॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्ति॒न्न ज॒ग्मुः  ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+कु॒वित्। अ॒ङ्ग। यव॑ऽमन्तः। यव॑म्। चि॒त्। यथा॑। दान्ति॑। अ॒नु॒ऽपू॒र्वम्। वि॒ऽयूथ॑। इ॒हऽइ॑ह। ए॒षा॒म्। कृ॒णु॒हि॒। भोज॑नानि। ये। ब॒र्हिषः॑। नमः॑ऽवृक्तिम्। न। ज॒ग्मुः। १२५.२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कु॒वित् । अ॒ङ्ग । यव॑मन्त॒ इति॒ यव॑-म॒न्तः॒ । यव॑म् । चि॒त् । यथा॑ । दान्ति॑ । अ॒नु॒पू॒र्वमित्य॑नु-पू॒र्वम् । वि॒यूयेति॑ वि-यूय॑ ॥ इ॒हेहेती॒ह-इ॒ह॒ । ए॒षा॒म् । कृ॒णु॒त॒ । भोज॑नानि । ये । ब॒र्हिषः॑ । नमो॑वृक्ति॒मिति॒ नमः॑-वृ॒क्ति॒म् । न । ज॒ग्मुः ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- सुर्कीतिः
+- त्रिष्टुप्
+- सूक्त-१२५
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+राजा के धर्म का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अङ्ग) हे [राजन् !] (यवमन्तः) जौ आदि धान्यवाले [किसान लोग] (यथा चित्) जैसे ही (यवम्) जौ आदि धान्य को (अनुपूर्वम्) क्रम से (वियूय) अलग-अलग करके (कुवित्) बहुत प्रकार (दान्ति) काटते हैं। (इहेह) इस-इस [व्यवहार] में (एषाम्) उन [लोगों] के (भोजनानि) भोजनों और धनों को (कृणुहि) कर, (ये) जिन (बर्हिषः) बढ़ती करते हुए लोगों ने (नमोवृक्तिम्) सत्कार के त्याग को (न) नहीं (जग्मुः) पाया है ॥२॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे चतुर किसान जौ गेहूँ आदि धान्य को काटकर उनकी जाति और पकने के अनुसार एकत्र करते हैं, वैसे ही राजा आज्ञाकारी कर्मकुशल प्रजागणों को उनकी योग्यता के अनुसार भोजन और धन आदि दान करे ॥२॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   यह मन्त्र कुछ भेद से यजुर्वेद में भी है-१०।३२ १९।६ तथा २३।३८ ॥  २−(कुवित्) बहुलम् (अङ्ग) हे (यवमन्तः) यवादिधान्ययुक्ताः कर्षकाः (यवम्) यवादिकम् (चित्) एव (यथा) (दान्ति) लुनन्ति (अनुपूर्वम्) यथाक्रमम्। धान्यानां जातिपाकक्रमेण (वियूय) पृथक्कृत्य (इहेह) अस्मिन्नस्मिन् व्यवहारे (एषाम्) पुरुषाणाम् (कृणुहि) कुरु (भोजनानि) भोगसाधनानि खाद्यानि धनानि च (ये) पुरुषाः (बर्हिषः) वृद्धिकराः (नमोवृक्तिम्) वृजी वर्जने-क्त। नमस्कारस्य सत्कारस्य वर्जनं त्यागकरणम् (न) निषेधे (जग्मुः) प्रापुः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

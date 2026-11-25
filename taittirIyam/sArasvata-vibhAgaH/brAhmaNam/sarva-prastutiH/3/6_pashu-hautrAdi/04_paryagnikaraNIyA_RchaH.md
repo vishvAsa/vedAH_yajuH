@@ -3,6 +3,7 @@ title: ०४ पर्यग्निकरणीया ऋचः
 unicode_script: devanagari
 
 ---
+
 ## पशुहौत्रम्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -311,48 +312,555 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 प᳓रित्रिविष्ट्य᳙ध्वर᳓म् ।  
 या᳓त्यग्नी᳓ रथी᳓रिव ।  
-आ᳓ देवे᳓षु प्र᳓यो द᳓धत् ।   
+आ᳓ देवे᳓षु प्र᳓यो द᳓धत् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/02_pari_triviShTyadhvaraM.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - अग्निः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प᳓रि त्रिविष्टि᳓ अध्वरं᳓  
+या᳓ति अग्नी᳓ रथी᳓र् इव  
+आ᳓ देवे᳓षु प्र᳓यो द᳓धत्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+adhvarám ← adhvará- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+triviṣṭí ← triviṣṭí (invariable)  
+{case:INS, gender:F, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+rathī́ḥ ← rathī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yā́ti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+práyaḥ ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ त्रिवि॒ष्ट्य॑ध्व॒रं यात्य॒ग्नी र॒थीरि॑व ।  
+आ दे॒वेषु॒ प्रयो॒ दध॑त् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 परि॑त्रिवि॒ष्ट्य॑ध्व॒रम् ।  
 यात्य॒ग्नी र॒थीरि॑व ।  
-आ दे॒वेषु॒ प्रयो॒ दध॑त् ।   
+आ दे॒वेषु॒ प्रयो॒ दध॑त् ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+परि॑ । त्रि॒ऽवि॒ष्टि । अ॒ध्व॒रम् । याति॑ । अ॒ग्निः । र॒थीःऽइ॑व ।  
+आ । दे॒वेषु॑ । प्रयः॑ । दध॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 प᳓रि । त्रि-विष्टि᳓ । अध्वर᳓म् । या᳓ति । अग्नी᳓ । रथी᳓रिव । आ᳓ । देवे᳓षु । प्र᳓यः । द᳓धत् ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+
+_________
+
+- *triviṣṭy* ← *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+
+_________
+
+- *triviṣṭy* ← *viṣṭī* ← *viṣṭi*
+- \[noun\], instrumental, singular, feminine
+- “labor.”
+
+_________
+
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
+- \[noun\], accusative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+
+_________
+
+- *yāty* ← *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *agnī* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *rathīr* ← *rathīḥ* ← *rathī*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *deveṣu* ← *deva*
+- \[noun\], locative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *prayo* ← *prayaḥ* ← *prayas*
+- \[noun\], accusative, singular, neuter
+- “food; dainty; enjoyment.”
+
+_________
+
+- *dadhat* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+देवेषु- देवतासु। प्रयः- हव्यम्। दधत्- धारयन्। अग्निः। रथीरिव- महारथ इव। त्रिविष्टि-  त्रिवारम्। अध्वरम्। परि याति- परिगच्छति॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**देवेषु** द्योतमानेष्विन्द्रादिषु । प्रयः इत्यन्ननामेदम् । **प्रयः** यजमानैर् दत्तं हवीरूपम् अन्नम् आ **दधत्** आ समन्ताद्धारयन् **अग्निः** अङ्गनादिगुणविशिष्टोऽग्निः **त्रिविष्टि** त्रिवारम् ।सवनत्रयेऽपीत्यर्थः । **परि** परितः समन्तात् **अध्वरं** यजमानैः कृतं यागं **याति** गच्छति । परिगमने दृष्टान्तः । **रथीरिव** । रथवान् पुरुषो यथा शीघ्रं याति तद्वत् । तथा च ब्राह्मणं - ’परि त्रिविष्ट्यध्वरं यास्यग्नी रथीरिवेत्येष हि रथीरिवाध्वरं पर्येति' ( ऐ. बा. २. ५) इति ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2परित्रिविष्टीति ॥ त्रिविष्टि त्रिव्याप्ति त्रिबेष्टनं वा परियाति परिगच्छति अयमग्निः अध्वरं अध्वरसाधनं पशुं रथीरिव रथवानिव शीघ्रं गच्छति । 'छन्दसीवनिपौ' इति मत्वर्थीय ईकारः । किमर्थं परियाति? देवेषु प्रय अन्नं हविर्लक्षणं आदधत् आदधात्विति एवमर्थं परियाति ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni, like a car-warrior, goes around 3 times in our sacrifice, distributing amongst the devas the sacrificial offerings.
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, thrice (a day), comes to our sacrifice like charioteer, bearing the sacrificial food to the gods.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Agni drives with triple toil around the ceremony like a charioteer, establishing a pleasurable offering among the gods.
+</details>
+
+<details><summary>Griffith</summary>
+
+Three times unto our solemn rite comes Agni like a charioteer,  
+     Bearing the viands to the Gods.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Agni goes thrice 1 around the sacrifice, like a charioteer, conveying the enjoyment 2 to the gods.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dreimal geht Agni um das Opfer wie ein Wagenfahrer, zu den Göttern das Opfermahl bringend.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dreimal dem Wagenlenker gleich geht Agni um das Opfer her, Die Speisen bringend götterwärts.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Трижды объезжает Агни  
+Обряд, словно колесничий,  
+Принося богам жертвенную усладу.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- विराड्गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर अग्निविद्याविषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वानो ! जो (अग्निः) अग्नि (रथीरिव) श्रेष्ठ रथ आदि से युक्त सेना के स्वामी के सदृश (देवेषु) प्रकाशमान विद्वानों में (प्रयः) कामना करने योग्य धन को (दधत्) धारण करता हुआ (त्रिविष्टि) तीन प्रकार के सुख के प्रवेश में (अध्वरम्) सत्कार करने योग्य व्यवहार को (परि, आ, याति) सब ओर से प्राप्त होता है, वह आप लोगों से कार्य्यों में युक्त करने योग्य है ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है । हे मनुष्यो ! जैसे उत्तम सेना से युक्त सेनाध्यक्ष पुरुष तीन प्रकार के सुख को प्राप्त होता है, वैसे ही अग्निविद्या का जाननेवाला शरीर, आत्मा और इन्द्रियों के आनन्द को प्राप्त होता है ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वांसो ! योऽग्नी रथीरिव देवेषु प्रयो दधत् त्रिविष्ट्यध्वरं पर्यायाति स युष्माभिः कार्येषु योजनीयः ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनरग्निविद्याविषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (परि) (त्रिविष्टि) विविधे सुखप्रवेशे (अध्वरम्) सत्कर्त्तव्यं व्यवहारम् (याति) (अग्निः) पावकः (रथीरिव) प्रशस्तरथादियुक्तः सेनेश इव (आ) (देवेषु) (प्रयः) कमनीयं धनम् (दधत्) धरन्त्सन् ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः । हे मनुष्या ! यथोत्तमसेनः सेनाध्यक्षस्त्रिविधं सुखमाप्नोति तथैवाऽग्निविद्याविच्छरीरात्मेन्द्रियाऽऽनन्दं लभते ॥२॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! जसे उत्तम सेनायुक्त सेनाध्यक्षाला तीन प्रकारचे सुख प्राप्त होते, तसेच अग्नी विद्या जाणणारा शरीर, आत्मा व इंद्रियांच्या आनंदाला प्राप्त करतो. ॥ २ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रि वा᳓जपतिᳵ कविः᳓ ।  
 अग्नि᳓र्हव्या᳓न्यक्रमीत् ।  
-द᳓धद्र᳓त्नानि दाशु᳓षे ॥11॥  
+द᳓धद्र᳓त्नानि दाशु᳓षे ॥11॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/015/03_pari_vAjapatiH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - अग्निः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प᳓रि वा᳓जपतिः कवि᳓र्  
+अग्नि᳓र् हव्या᳓नि अक्रमीत्  
+द᳓धद् र᳓त्नानि दाशु᳓षे
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+vā́japatiḥ ← vā́japati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+havyā́ni ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+rátnāni ← rátna- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ वाज॑पतिः क॒विर॒ग्निर्ह॒व्यान्य॑क्रमीत् ।  
+दध॒द्रत्ना॑नि दा॒शुषे॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+परि॒ वाज॑पतिᳵ क॒विर॒ग्निर्ह॒व्या न्य॑क्रमीत् ।  
+दध॒द्रत्ना॑नि दा॒शुषे॑ ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 परि॒ वाज॑पतिᳵ क॒विः ।  
 अ॒ग्निर्ह॒व्यान्य॑क्रमीत् ।  
-दध॒द्रत्ना॑नि दा॒शुषे॑ ॥11॥  
+दध॒द्रत्ना॑नि दा॒शुषे॑ ॥11॥
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+परि॑ । वाज॑ऽपतिः । क॒विः । अ॒ग्निः । ह॒व्यानि॑ । अ॒क्र॒मी॒त् ।  
+दध॑त् । रत्ना॑नि । दा॒शुषे॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+परि॑। वाज॑पति॒रिति॒ वाज॑ऽपतिः। क॒विः। अ॒ग्निः। ह॒व्यानि॑। अ॒क्र॒मी॒त्। दध॑त्। रत्ना॑नि। दा॒शुषे॑। २५।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+परि॑। वाज॑पति॒रिति॒ वाज॑ऽपतिः। क॒विः। अ॒ग्निः। ह॒व्यानि॑। अ॒क्र॒मी॒त्। दध॑त्। रत्ना॑नि। दा॒शुषे॑। १४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+परीति॑ । वाज॑पति॒रिति॒ वाज॑-प॒तिः॒ । क॒विः । अ॒ग्निः । ह॒व्यानि॑ । अ॒क्र॒मी॒त् ॥ दध॑त् । रत्ना॑नि । दा॒शुषे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 प᳓रि । वा᳓ज-पतिः । कविः᳓ । अग्निः᳓ । हव्या᳓नि । अक्रमीत् । द᳓धत् । र᳓त्नानि । दाशु᳓षे ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+
+_________
+
+- *vājapatiḥ* ← *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+
+_________
+
+- *vājapatiḥ* ← *patiḥ* ← *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *kavir* ← *kaviḥ* ← *kavi*
+- \[noun\], nominative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *havyāny* ← *havyāni* ← *havya*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; havya \[word\].”
+
+_________
+
+- *akramīt* ← *kram*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+
+_________
+
+- *dadhad* ← *dadhat* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *ratnāni* ← *ratna*
+- \[noun\], accusative, plural, neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+
+_________
+
+- *dāśuṣe* ← *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+वाजपतिः- हव्यपालकः। कविः- क्रान्तदर्शी। अग्निः। दाशुषे- दात्रे। रत्नानि। दधत्- धारयन्।  हव्यानि- चरुपुरोडाशध्यानभावनादिहव्यानि। परि- परितः। अक्रमीत्- क्रामति व्याप्नोति॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वाजपतिः** वाजानामन्नानां पतिः पालकः । ‘परि वाजपतिः कविरित्येष हि वाजानां पतिः (ऐ. ब्रा, २. ५) इति ब्राह्मणम् । **कविः** क्रान्तदर्शी मेधावी वा **दाशुषे** हविर्दत्तवते यजमानाय **रत्नानि** रमणीयानि धनानि **दधत्** प्रयच्छन् **अग्निः** **हव्यानि** हवींषि **परि** **अक्रमीत्** परितः क्रामति । व्याप्नोति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+परिलिखति।
+
+तिसृभिराग्नेयीभिर्गायत्र्यनुष्टुब्जगतीभिः।
+
+परि वाजपतिः अग्निः।
+
+नानादेवत्यान्यपि हव्यानि हवींषि परि अक्रमीत्।
+
+परिक्रमणं भक्षणार्थम्।
+
+वाजपतिः अन्नस्य पतिः।
+
+कविः क्रान्तदर्शनः।
+
+किं कुर्वन्हवींष्यक्रमीत्।
+
+दधत् ददत्।
+
+रत्नानि रमणीयानि धनानि।
+
+दाशुषे हवींषि दत्तवते यजमानाय॥ २५॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अस्यार्थः।
+
+अभ्र्या वारत्रयं मृत्पिण्डं परिलिखति परया परया बहिर्बहिःप्रदेशे यथा तथा।
+
+परि वाजपतिरिति प्रथमं लिखति परित्वेति तद्बहिर्द्वितीयं त्वमग्न इति तद्बहिस्तृतीयमित्यर्थः।
+
+आग्नेयी गायत्री सोमकदृष्टा।
+
+अयमग्निर्हव्यानि नानादेवत्यानि हवींषि पर्यक्रमीत् परिक्रान्तवान्।
+
+परिक्रमणं भक्षणार्थ स्वीकरणमित्यर्थः।
+
+कीदृशोऽग्निः।
+
+वाजपतिः वाजस्यान्नस्य पतिः पालयिता।
+
+कविः क्रान्तदर्शनः।
+
+किं कुर्वन् हव्यानि पर्यक्रमीत्।
+
+दाशुषे हवींषि दत्तवते यजमानाय रत्नानि रमणीयानि धनानि दधत् प्रयच्छन्।
+
+‘दाशृ दाने’ अस्य धातोः ‘दाश्वान्साह्वान्-’ (पा० ६। १। १२) इत्यादिना क्वसुप्रत्ययान्तो निपातः।
+
+दाशति दत्ते स्म इति दाश्वान् तस्मै दाशुषे।
+
+दधाति दत्त इति दधत् धाधातुर्दानेऽपि।
+
+‘डुधाञ् विधारणे पुष्टौ दाने’ इति कल्पद्रुमोक्तेः॥ २५॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+परिलिखति - ' परि वाजपतिः' इति ।
+
+सोमकः ।
+
+आग्नेयी गायत्री ।
+
+वाजपत्तिः अन्नस्य पतिः ।
+
+कविः क्रान्त-दर्शन: ।
+
+'अग्निः सर्वज्ञो भगवान् ।
+
+दधत् रत्नानि रमणीयानि धनानि दाशुषे दानशीलाय यजमानाय दधतु प्रयच्छतु ।
+
+तेन दत्तानि इन्यानि हवींषि
+परि अक्रमीत् ।
+
+परिक्रमणम् अत्र लक्षणार्थः ॥ १४ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अयमग्निर्हव्यानि परितोऽक्रमीत्स्वीकृतवान्।   कीदृशोऽग्निः, वाजपतिरन्नस्य पालयिता।   किं कुर्वन्, दाशुषे हविर्दत्तवते यजमानाय रत्नानि दधद्रमणीयानि धनानि संपादयन्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -364,7 +872,156 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
   -  टीका कल्पः—“ अपादाय हिरण्यं परि वाजपतिः कविरिति तिसृभिरभ्रिया मृत्खनं परिलिखति बाह्यां वर्षीयसीम् ” इति।   तत्र प्रथमामाह— परि वाजपतिरिति।   अयमग्निर्हव्यानि परितोऽक्रमीत्स्वीकृतवान्।   कीदृशोऽग्निः, वाजपतिरन्नस्य पालयिता।   किं कुर्वन्, दाशुषे हविर्दत्तवते यजमानाय रत्नानि दधद्रमणीयानि धनानि संपादयन्।  
 
-इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे चतुर्थोऽनुवाकः ॥  
+इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे चतुर्थोऽनुवाकः ॥
+</details>
 
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर गृहस्थ कैसा होवे, यह विषय अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! जो (वाजपतिः) अन्न आदि की रक्षा करने हारे गृहस्थों के समान (कविः) बहुदर्शी दाता गृहस्थ पुरुष (दाशुषे) दान देने योग्य विद्वान् के लिये (रत्नानि) सुवर्ण आदि उत्तम पदार्थ (दधत्) धारण करते हुए के समान (अग्निः) प्रकाशमान पुरुष (हव्यानि) देने योग्य वस्तुओं को (परि) सब ओर से (अक्रमीत्) प्राप्त होता है, उस को तू जान ॥२५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। विद्वान् पुरुष को चाहिये कि अग्निविद्या के सहाय से पृथिवी के पदार्थों से धन को प्राप्त हो अच्छे मार्ग में खर्च कर और धर्मात्माओं को दान दे के विद्या के प्रचार से सब को सुख पहुँचावे ॥२५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनर्गृहस्थः कीदृशो भवेदित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! यो वाजपतिः कविर्दाता गृहस्थो दाशुषे रत्नानि दधदिवाग्निर्हव्यानि पर्य्यक्रमीत् तं त्वं जानीहि ॥२५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। विद्वानग्निना पृथिवीस्थपदार्थेभ्यो धनं प्राप्य सुमार्गे सत्पात्रेभ्यो दत्त्वा विद्याप्रचारेण सर्वान् सुखयेत् ॥२५ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रत वाचकलुप्तोपमालंकार आहे. विद्वान माणसांनी अग्निविद्येच्या साह्याने पृथ्वीवरील धन प्राप्त करून घ्यावे व चांगल्या कामासाठी खर्च करावे. धर्मात्मा लोकांना दान करावे व विद्येचा प्रसार करून सर्वांना सुख द्यावे.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+agni, the lord of the booty, the seer, has walked around the oblations, conferrings gems to the worshipper.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The sage, **Agni**, the lord of food, has encompassed the oblation, giving precious things to the donor.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Yajus**. 2.35;
+
+Paryakramīt = taking the offerings for conveyance to the gods
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Agni, the lord of the prize, the sage poet, has marched around the  oblations,  
+establishing treasures for the pious.
+</details>
+
+<details><summary>Griffith</summary>
+
+Round the oblations hath he paced, Agni the Wise, the Lord of Strength,  
+     Giving the offerer precious boons.
+</details>
+
+<details><summary>Keith</summary>
+
+Round the offerings hath Agni gone,  
+The sage, the lord of strength,  
+Bestowing jewels on the donor.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Agni, the lord of booty, the sage, has circumambulated the oblations, bestowing treasures on the worshipper.
+</details>
+
+<details><summary>Geldner</summary>
+
+Agni, der Herr des Siegerpreises, der Seher, hat die Opfer umwandelt, dem Opferspender Schätze bringend.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der weise Gutsherr Agni schritt rings um die Opfertränke her, Verleihend Schutz dem Huldiger.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Повелитель наград, поэт,  
+Агни отправился вокруг жертвенных возлияний,  
+Наделяя сокровищами почитающего (его).
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- निचृद्गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- सोमक ऋषिः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर अग्निविषय का वर्णन अगले मन्त्र में करते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  जो (वाजपतिः) अन्न आदिकों का स्वामी (कविः) सम्पूर्ण विद्याओं का जाननेवाला (अग्निः) बिजुली के सदृश वर्त्तमान (दाशुषे) देनेवाले के लिये (रत्नानि) रमण करने योग्य धनों को (दधत्) धारण करता हुआ (हव्यानि) देने योग्य पदार्थों का (परि, अक्रमीत्) परिक्रमण करता अर्थात् समीप होता, वही निरन्तर सुखी होता है ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जैसे देनेवाले अन्यों के लिये उत्तम वस्तुओं को देते हैं, वैसे ही अग्नि क्योंकि दूसरे को सुख देने के लिये अग्नि के गुण होते हैं ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  यो वाजपतिः कविरग्निरिव दाशुषे रत्नानि दधत् सन् हव्यानि पर्य्यक्रमीत् स एव सततं सुखी जायते ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनरग्निविषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (परि) (वाजपतिः) अन्नादीनां स्वामी (कविः) सकलविद्यावित् (अग्निः) विद्युद्वद्वर्त्तमानः (हव्यानि) दातुं योग्यानि (अक्रमीत्) क्राम्यति (दधत्) धरन् (रत्नानि) रमणीयानि धनानि (दाशुषे) दात्रे ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यथा दातारोऽन्यार्थान्युत्तमानि वस्तूनि ददति तथैवाऽग्निः यतः परसुखायाग्नेर्गुणा भवन्तीति ॥३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे दाते इतरांसाठी उत्तम वस्तू देतात तसाच अग्नीही असतो. अग्नीचे गुण दुसऱ्यांना सुख देणारे असतात. ॥ ३ ॥
 </details>
 </details>
+</div>

@@ -14,13 +14,192 @@ title = "११ राजसूयगता याज्यापुरोनु
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓म् अग्ने बृह᳓द् व᳓यो द᳓धासि देव दाशु᳓षे ।   
-कवि᳓र्गृह᳓पतिर्यु᳓वा ।  
+कवि᳓र्गृह᳓पतिर्यु᳓वा ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/102/01_tvamagne_bRhadvayo.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+तुव᳓म् अग्ने बृह᳓द् व᳓यो  
+द᳓धासि देव दाशु᳓षे  
+कवि᳓र् गृह᳓पतिर् यु᳓वा
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+_________
+**Morph**  
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+váyaḥ ← váyas- 2 (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhāsi ← √dhā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+dāśúṣe ← dāśváṁs- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+kavíḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yúvā ← yúvan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।  
+क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ।  
+क॒विः । गृ॒हऽप॑तिः । युवा॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ॥ क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *bṛhad* ← *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *vayo* ← *vayaḥ* ← *vayas*
+- \[noun\], accusative, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+
+_________
+
+- *dadhāsi* ← *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *dāśuṣe* ← *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+
+_________
+
+- *kavir* ← *kaviḥ* ← *kavi*
+- \[noun\], nominative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *gṛhapatir* ← *gṛhapatiḥ* ← *gṛhapati*
+- \[noun\], nominative, singular, masculine
+- “gṛhapati \[word\]; Gṛhastha.”
+
+_________
+
+- *yuvā* ← *yuvan*
+- \[noun\], nominative, singular, masculine
+- “young; youthful.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक सत्क्रतो। त्वम्। देव- द्योतनशील। बृहत्- महत्। वयः- अन्नम्। दाशुषे- दात्रे।  दधासि- यच्छसि। कविः- क्रान्तदर्शी। गृहपतिः- कुटुम्बपालकः। युवा- तरुणः॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **देव** द्योतमान **अग्ने** **कविः** क्रान्तकर्मा **गृहपतिः** गृहपालकः **युवा** नित्यतरुणः **त्वं** **दाशुषे** हविषां प्रदात्रे यजमानाय **बृहद्वयः** महदन्नं **दधासि** प्रयच्छसीत्यर्थः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वमग्ने इति गायत्री हे अग्ने देव त्वं बृहत् महत् वयः अन्नं दधासि धारयसि दाशुषे हविर्दत्तवते यजमानाय दातुं दधासि । कविः क्रान्तदर्शनः गृहपतिः गृहस्य पाता युवा हविषां देवैर्मिश्रयिता, नित्यतरुणो वा । 'दाश्वान्' इति निपातितः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Divine **Agni**, the ever young, the wise, the protector of the household, it is you who give abundant foodto the worshipper.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+You, Agni, establish lofty vitality for your pious server, god, as sage poet, houselord, youth.
+</details>
+
+<details><summary>Griffith</summary>
+
+LORD of the house, Sage, ever young, high power of life, O Agni, God,  
+     Thou givest to thy worshipper.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -29,24 +208,32 @@ O god, to the giver,
 Sage, lord of the house, the youthful.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।   
-क॒विर्गृ॒हप॑ति॒र्युवा॑ ।  
+Du, Gott Agni, verleihst dem Opferspender hohe Kraft, du der jugendliche Seher und Hausherr.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ॥ क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥
+Du schenkest hohe Kraft, o Gott, o Agni, dem Verehrenden, O weiser, junger Hausherr du.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-त्वमग्ने इति गायत्री हे अग्ने देव त्वं बृहत् महत् वयः अन्नं दधासि धारयसि दाशुषे हविर्दत्तवते यजमानाय दातुं दधासि । कविः क्रान्तदर्शनः गृहपतिः गृहस्य पाता युवा हविषां देवैर्मिश्रयिता, नित्यतरुणो वा । 'दाश्वान्' इति निपातितः ॥
+Ты, о Агни, даешь высокую  
+Жизненную силу, о бог, (своему) почитателю,  
+Поэт, хозяин дома, юный (бог).
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः ; अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- निचृद्गायत्री
+- षड्जः
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -54,13 +241,271 @@ Sage, lord of the house, the youthful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हव्यवा᳓डग्नि᳓रज᳓रᳶ पिता᳓ नो विभु᳓र्विभा᳓वा सुदृ᳓शीको अस्मे᳓ ।   
 सुगार्हपत्या᳓स्स᳓मि᳓षो दिदीह्यस्मद्रि᳓यक्स᳓म्मिमीहि श्र᳓वाँसि ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/02_havyavALagnirajaraH_pitA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वसुश्रुत आत्रेयः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+हव्यवा᳓ळ् अग्नि᳓र् अज᳓रः पिता᳓ नो  
+विभु᳓र् विभा᳓वा सुदृ᳓शीको अस्मे᳓  
+सुगार्हपत्याः᳓ स᳓म् इ᳓षो दिदीहि  
+अस्मद्रि᳓अक् स᳓म् मिमीहि श्र᳓वांसि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+_________
+**Morph**  
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ajáraḥ ← ajára- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+havyavā́ṭ ← havyavā́h- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+sudŕ̥śīkaḥ ← sudŕ̥śīka- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhā́vā ← vibhā́van- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vibhúḥ ← vibhú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+didīhi ← √dī- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+sugārhapatyā́ḥ ← sugārhapatyá- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+asmadryàk ← asmadryàñc- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+mimīhi ← √mā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sám ← sám (invariable)  
+{}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒व्य॒वाळ॒ग्निर॒जरः॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।  
+सु॒गा॒र्ह॒प॒त्याः समिषो॑ दिदीह्यस्म॒द्र्य१॒॑क्सं मि॑मीहि॒ श्रवां॑सि ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ह॒व्य॒वाड॒ग्निर॒जरᳶ॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।   
+सु॒गा॒र्ह॒प॒त्यास्समिषो॑ दिदीह्यस्म॒द्रिय॒क्सम्मि॑मीहि॒ श्रवाँ॑सि ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ह॒व्य॒ऽवाट् । अ॒ग्निः । अ॒जरः॑ । पि॒ता । नः॒ । वि॒ऽभुः । वि॒भाऽवा॑ । सु॒ऽदृशी॑कः । अ॒स्मे इति॑ ।  
+सु॒ऽगा॒र्ह॒प॒त्याः । सम् । इषः॑ । दि॒दी॒हि॒ । अ॒स्म॒द्र्य॑क् । सम् । मि॒मी॒हि॒ । श्रवां॑सि ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ह॒व्य॒वाडिति॑ हव्य-वाट् । अ॒ग्निः । अ॒जरः॑ । पि॒ता । नः॒ । वि॒भुरिति॑ वि-भुः । वि॒भावेति॑ वि-भावा॑ । सु॒दृशी॑क॒ इति॑ सु-दृशी॑कः । अ॒स्मे इति॑ ॥ सु॒गा॒र्ह॒प॒त्या इति॑ सु-गा॒र्ह॒प॒त्याः । समिति॑ । इषः॑ । दि॒दी॒हि॒ । अ॒स्म॒द्रिय॒गित्य॑स्म-द्रिय॑क् । समिति॑ । मि॒मी॒हि॒ । श्रवाँ॑सि ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *havyavāﾱ* ← *havyavah*
+- \[noun\], nominative, singular
+- “Agni; fire.”
+
+_________
+
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *ajaraḥ* ← *ajara*
+- \[noun\], nominative, singular, masculine
+- “undecaying; ageless.”
+
+_________
+
+- *pitā* ← *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *vibhur* ← *vibhuḥ* ← *vibhu*
+- \[noun\], nominative, singular, masculine
+- “mighty; abundant; big.”
+
+_________
+
+- *vibhāvā* ← *vibhāvan*
+- \[noun\], nominative, singular, masculine
+- “illuminating; shining.”
+
+_________
+
+- *sudṛśīko* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *sudṛśīko* ← *dṛśīkaḥ* ← *dṛśīka*
+- \[noun\], nominative, singular, masculine
+- “visual perception.”
+
+_________
+
+- *asme* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *sugārhapatyāḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *sugārhapatyāḥ* ← *gārhapatyāḥ* ← *gārhapatya*
+- \[noun\], accusative, plural, feminine
+
+_________
+
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *iṣo* ← *iṣaḥ* ← *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+
+_________
+
+- *didīhy* ← *didīhi* ← *dīdī*
+- \[verb\], singular, Present imperative
+- “shine; glitter.”
+
+_________
+
+- *asmadryak* ← *asmadryañc*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *mimīhi* ← *mā*
+- \[verb\], singular, Present imperative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+
+_________
+
+- *śravāṃsi* ← *śravas*
+- \[noun\], accusative, plural, neuter
+- “fame; glory; ear.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+हव्यवाट्- चरुपुरोडाशध्यानभावनादिहव्यवाहकः। अग्निः। अजरः- जरारहितः। नः- अस्माकम्।  पिता- जनकः। विभुः- व्याप्तः। विभावा- दीप्तः। अस्मे- अस्माकम्। सुदृशीकः- सुदर्शनः।  सुगार्हपत्याः- कुटुम्बधर्ममयीः। समिषः- सदेषणाः। दिदीहि- प्रकाशय। अस्मद्द्र्यक्-  अस्मदभिमुखम्। श्रवांसि- श्रुतीः। सम्- सम्यक्। मिमीहि- प्रमाणतया प्रकाशय॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयं **हव्यवाडग्निः** **अजरः** अजीर्णः सन् **नः** **पिता** भवत्विति शेषः । किंच **विभुः** व्याप्तः **विभावा** दीप्तिमान् **सुदृशीकः** शोभनदर्शनः **अस्मे** अस्माकं भवतु । अथ प्रत्यक्षवादः। **सुगार्हपत्याः** शोभनगार्हपत्ययुक्तानि **इषः** अन्नानि **सं** **दिदीहि** सम्यक् प्रकाशय ददस्व वा । **अस्मद्र्यक्** अस्मदभिमुखं **श्रवांसि** अन्नानि **सं** **मिमीहि** सम्यक् प्रयच्छ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हव्यवाट् हविषां वोढा अग्निः अङ्गनादिगुणयुक्तः अजरो जरारहितः । 'नञो जरमर' इत्युदात्तत्वम् । पिता पालयिता नः अस्माकं विभुः भुवनस्य व्यापी विभावा विशेषेण भानशीलः । भातेर्वनिप् । सुदृशीकः सुखदर्शनः । दृशीकादयो निपात्यन्ते, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । ईदृशस्त्वं अस्मै अस्माकम् । 'सुपां सुलुक्' इति शे आदेशः । सुगार्हपत्याः शोभनगृहपतित्वहेतुभूताः इषः अन्नानि संदिदीहि एकीकृत्य दीपय देहीत्यर्थः । दिदेतिः दीप्तिकर्मा छान्दसः, ददातेर्वा रूपं छान्दसविकारः । किं च - अस्मद्रियक् अस्मदाभिमुख्येनागतिमत् । 'विष्वग्देवयोश्च' इत्यद्र्यादशेः । श्रवांसि यशांसि अन्नानि वा संमिमीहि सम्यङ्निष्पादय । माङ् माने, जौहोत्यादिकः, व्यत्ययेन परस्मैपदम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May the undecaying **Agni**, the bearer of oblations, be a father to us, all-pervading and resplendent (may he be) to us of plural asing aspect; supply us plural ntifully with food in return for our well-maintained household fire grant us viand abundantly.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Conveying our oblations, unaging Agni is our father, the one  
+far-reaching, far-radiant, and lovely to see among us.  
+Illuminate fully the refreshments of a well-run household. Mete out full  measures of fame in our direction.
+</details>
+
+<details><summary>Griffith</summary>
+
+Agni, Eternal Father, offering- bearer, fair to behold, far-reaching, far-refulgent,  
+     From well-kept household fire beam food to feed us, and measure out to us abundant glory.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -70,24 +515,78 @@ With good household fire, do thou shine forth food,
 Mete out to uswards renown.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Oldenberg</summary>
 
-ह॒व्य॒वाड॒ग्निर॒जरᳶ॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।   
-सु॒गा॒र्ह॒प॒त्यास्समिषो॑ दिदीह्यस्म॒द्रिय॒क्सम्मि॑मीहि॒ श्रवाँ॑सि ।
+Agni, the bearer of oblations, our ever-young father, is mighty, brilliant, beautiful to behold among us. Shine (on us) food with a good household 1. Turn all glory towards us 2.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Geldner</summary>
 
-ह॒व्य॒वाडिति॑ हव्य-वाट् । अ॒ग्निः । अ॒जरः॑ । पि॒ता । नः॒ । वि॒भुरिति॑ वि-भुः । वि॒भावेति॑ वि-भावा॑ । सु॒दृशी॑क॒ इति॑ सु-दृशी॑कः । अ॒स्मे इति॑ ॥ सु॒गा॒र्ह॒प॒त्या इति॑ सु-गा॒र्ह॒प॒त्याः । समिति॑ । इषः॑ । दि॒दी॒हि॒ । अ॒स्म॒द्रिय॒गित्य॑स्म-द्रिय॑क् । समिति॑ । मि॒मी॒हि॒ । श्रवाँ॑सि ॥
+Agni, der alterlose Opferfahrer, ist unser Vater, bei uns seine Kraft entfaltend, erstrahlend, von schönem Anblick. Bring uns mit deinem Scheine die Genüsse eines guten Hausstandes, teil uns Ehren zu!
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Grassmann</summary>
 
-हव्यवाट् हविषां वोढा अग्निः अङ्गनादिगुणयुक्तः अजरो जरारहितः । 'नञो जरमर' इत्युदात्तत्वम् । पिता पालयिता नः अस्माकं विभुः भुवनस्य व्यापी विभावा विशेषेण भानशीलः । भातेर्वनिप् । सुदृशीकः सुखदर्शनः । दृशीकादयो निपात्यन्ते, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । ईदृशस्त्वं अस्मै अस्माकम् । 'सुपां सुलुक्' इति शे आदेशः । सुगार्हपत्याः शोभनगृहपतित्वहेतुभूताः इषः अन्नानि संदिदीहि एकीकृत्य दीपय देहीत्यर्थः । दिदेतिः दीप्तिकर्मा छान्दसः, ददातेर्वा रूपं छान्दसविकारः । किं च - अस्मद्रियक् अस्मदाभिमुख्येनागतिमत् । 'विष्वग्देवयोश्च' इत्यद्र्यादशेः । श्रवांसि यशांसि अन्नानि वा संमिमीहि सम्यङ्निष्पादय । माङ् माने, जौहोत्यादिकः, व्यत्ययेन परस्मैपदम् ॥
+Er ist uns ew'ger Vater, Opferfahrer, uns schön zu schau'n, gewaltig, hell erstrahlend, O strahl uns Labung her, die lieb dem Hausherrn, und miss uns zu, o Agni, schöne Güter.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Агни, увозящий жертвы, нестареющий, – наш отец;  
+(Он) выставлен у нас напоказ, ярко сверкающий, прекрасный на вид.  
+Воссвети жертвенные услады, предназначенные для хорошего домохозяина!  
+Отмерь нам сполна доблестей!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसुश्रुत आत्रेयः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे राजन् जैसे (हव्यवाट्) द्रव्यों को एक स्थान से दूसरे स्थान में पहुँचाने वा (सुदृशीकः) उत्तम प्रकार देखने वा दिखानेवाला (अग्निः) शुद्धस्वरूप अग्नि जैसे (विभुः) व्यापक परमेश्वर के सदृश सब का पालन करता और प्रकाशित होता है, वैसे (विभावा) अनेक प्रकार के प्रकाश वा ज्ञान से युक्त (अजरः) वृद्धावस्थारहित (नः) हम लोगों के (पिता) पालन करनेवाले होते हुए (अस्मे) हम लोगों के लिये (सुगार्हपत्याः) सुन्दर अग्नि आदि पदार्थ समुदायवाले (इषः) अन्नों को (सम्, दिदीहि) अच्छे प्रकार दीजिये और (अस्मद्र्यक्) हम लोगों का आदर करने, जानने वा जनानेवाले होते हुए (श्रवांसि) पढ़ने और पढ़ाने आदि कर्म्मों का (सम्, मिमीहि) विधान करिये ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है । हे राजन् ! जैसे बिजुली और भूमि में प्रसिद्ध हुए रूप से अग्नि सब का उपकार करता है और जैसे परमेश्वर असंख्यात पदार्थों के उत्पन्न करने से पितरों के सदृश सब का पालन करता है, वैसे ही आप हूजिये ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे राजन् ! यथा हव्यवाट् सुदृशीकोऽग्निः पावको यथा विभुरीश्वरवत् सर्वं पाति प्रकाशते तथा विभावाऽजरो नः पिता सन्नस्मे सुगार्हपत्या इषः सन् दिदीहि अस्मद्र्यक् सन् श्रवांसि सं मिमीहि ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (हव्यवाट्) यो हव्यानि द्रव्याणि देशान्तरं प्रापयति (अग्निः) शुद्धस्वरूपः (अजरः) अवृद्धः (पिता) पालकः (नः) अस्माकम् (विभुः) व्यापकः परमेश्वरवत् (विभावा) विविधभानवान् (सुदृशीकः) दर्शयिता वा (अस्मे) अस्मभ्यम् (सुगार्हपत्याः) शोभनो गार्हपत्योऽग्न्यादिपदार्थसमुदायो यासान्ताः (सम्) (इषः) अन्नानि (दिदीहि) देहि (अस्मद्र्यक्) योऽस्मानञ्चति जानाति ज्ञापयति वा (सम्) (मिमीहि) विधेहि (श्रवांसि) अध्ययनाध्यापनादीनि कर्माणि ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः । हे राजन् ! यथा विद्युद्भौमरूपेणाग्निः सर्वानुपकरोति यथा च परमेश्वरोऽसङ्ख्यातपदार्थानामुत्पादनेन पितृवत्सर्वान् पालयति तथैव त्वं भव ॥२॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजा ! जशी विद्युत व भूमीतील अग्नी सर्वांवर उपकार करतो व जसे परमेश्वर असंख्य पदार्थ उत्पन्न करून पित्याप्रमाणे सर्वांचे पालन करतो तसे तूही कर. ॥ २ ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -95,13 +594,211 @@ Mete out to uswards renown.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ञ्च सोम नो व᳓शो जीवा᳓तुन्न᳓ मरामहे ।   
 प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/091/06_tvaM_cha.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सोमः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+तुवं᳓ च सोम नो व᳓शो  
+जीवा᳓तुं न᳓ मरामहे  
+प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ca ← ca (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+soma ← sóma- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+váśaḥ ← váśa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīvā́tum ← jīvā́tu- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+marāmahe ← √mr̥- (root)  
+{number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+
+ná ← ná (invariable)  
+{}
+
+priyástotraḥ ← priyástotra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánaspátiḥ ← vánaspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं च॑ सोम नो॒ वशो॑ जी॒वातुं॒ न म॑रामहे ।  
+प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+त्वञ्च॑ सोम नो॒ वशो॑ जी॒वातु॒न्न म॑रामहे ।   
+प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ।  
+प्रि॒यऽस्तो॑त्रः । वन॒स्पतिः॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ॥ प्रि॒यस्तो॑त्र॒ इति॑ प्रि॒य-स्तो॒त्रः॒ । वन॒स्पतिः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *vaśo* ← *vaśaḥ* ← *vaś*
+- \[verb\], singular, Present injunctive
+- “desire; agree; call; care; like; love.”
+
+_________
+
+- *jīvātuṃ* ← *jīvātum* ← *jīvātu*
+- \[noun\], accusative, singular, feminine
+- “life.”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *marāmahe* ← *mṛ*
+- \[verb\], plural, Present indikative
+- “mṛ; die; disappear; go out.”
+
+_________
+
+- *priyastotro* ← *priya*
+- \[noun\]
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+
+_________
+
+- *priyastotro* ← *stotraḥ* ← *stotra*
+- \[noun\], nominative, singular, masculine
+- “hymn; praise.”
+
+_________
+
+- *vanaspatiḥ* ← *vanaspati*
+- \[noun\], nominative, singular, masculine
+- “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सोम। नः- अस्माकम्। जीवातुम्- जीवनौषधम्। वशः- कामयेथाश्चेत्। वश कान्तौ। न मरामहे-  न म्रियामहे। प्रियस्तोत्रः- प्रियस्तुतिपात्रभूतः। वनस्पतिः- ओषधिपालकोसि॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** **नः** अस्माकं स्तोतॄणां **जीवातुं** जीवनौषधं **त्वं** **च** त्वं चेत् **वशः** कामयेथाः तदानीं वयं **न** **मरामहे** न म्रियामहे । कीदृशस्त्वम् । **प्रियस्तोत्रः** । प्रियाणि स्तोत्राणि यस्य स तथोक्तः । बहुभिः स्तोतव्य इत्यर्थः । **वनस्पतिः** वनानामोषधिवनस्पतिरूपाणां पतिः पालयितासि ।  ‘ सोमो वा ओषधीनां राजा ' ( तै. सं. ६, ७, ९, १ ) इति श्रुतेः ॥ वशः । वश कान्तौ । लेटि सिपि अडागमः । आगमानुदात्तत्वे धातुस्वरः शिष्यते । त्वं चेति चशब्दश्चणिति निपातान्तरं चेदर्थम् । तद्योगात्  ‘ निपातैर्यद्यदिहन्त° ' इति निघातप्रतिषेधः । जीवातुम् ।  ‘ जीव प्राणधारणे ।  ‘ जीवेरातुः ( उ. सू. १. ७९ ) । मरामहे ।' मृङ् प्राणत्यागे । व्यत्ययेन शप् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वमपि महानुभावः सोम नः वशः कामयसे रक्ष्यत्वेन । वष्टेर्लोट्याडागमः । 'निपातैर्यद्यदिहन्त' इति निघाताभावः । यद्वा - चशब्दोवधारणे । हे सोम नोस्माकं त्वमेव वशः कान्तः इष्टतमः । किमर्थम्? जीवातुं जीवनाय । व्यत्ययेन चतुर्थ्यर्थे द्वितीया । तुमुनि वा आडागमश्छान्दसः, तस्योदात्तत्वं च । अतः त्वत्प्रसादात् न मरामहे न म्रियामहे । व्यत्ययेन शप् । पुनश्च सोमो विशेष्यते - प्रियस्तोत्रः । गतम् । वनस्पतिः वनानां पाता । 'सोमो वा ओषधीनां राजा' इति । वनस्थानां वा पाता 'सोमो वनस्पतीनाम्' इति । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु युगपत्' इति पूर्वयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+#### English translation:
+
+“You, **Soma**, fond of praise, the lord of plural nts, are life to us; if you will, we shall not die.”
+
+#### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Somo vā oṣadhīnām **rājā** (**Taittirīya** **Saṃhitā** 6.1.9.1)
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+And if you will wish us to live, Soma, we will not die.  
+(You are) the lord of the forest to whom praise is dear.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+A good example of subordinating ca.
+
+On the use of vánaspáti- ‘lord of the forest’ for soma, see comm. ad IX.12.7.
+
+This usage is found only here and in IX.12.7. Because our phrase priyástotro vánaspátiḥ is almost identical to IX.12.7 nítyastotro vánaspátiḥ, I am now inclined to translate the bahuvr. ‘who has praise as his own’, not ‘to whom praise is dear’.
+</details>
+
+<details><summary>Griffith</summary>
+
+And, Soma, let it be thy wish that we may live and may not die:  
+     Praise-loving Lord of plants art thou.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -110,24 +807,72 @@ That we may not die,
 Thou that lovest praise, lord of the forest.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-त्वञ्च॑ सोम नो॒ वशो॑ जी॒वातु॒न्न म॑रामहे ।   
-प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ।
+So du, Soma, willst, daß wir leben, so sterben wir nicht. Du bist der preisliebende Baumfürst.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ॥ प्रि॒यस्तो॑त्र॒ इति॑ प्रि॒य-स्तो॒त्रः॒ । वन॒स्पतिः॑ ॥
+Wenn du uns, Soma, leben heisst, so fall'n wir nicht dem Tod anheim, O Waldesfürst, dem Lob gefällt.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-त्वमपि महानुभावः सोम नः वशः कामयसे रक्ष्यत्वेन । वष्टेर्लोट्याडागमः । 'निपातैर्यद्यदिहन्त' इति निघाताभावः । यद्वा - चशब्दोवधारणे । हे सोम नोस्माकं त्वमेव वशः कान्तः इष्टतमः । किमर्थम्? जीवातुं जीवनाय । व्यत्ययेन चतुर्थ्यर्थे द्वितीया । तुमुनि वा आडागमश्छान्दसः, तस्योदात्तत्वं च । अतः त्वत्प्रसादात् न मरामहे न म्रियामहे । व्यत्ययेन शप् । पुनश्च सोमो विशेष्यते - प्रियस्तोत्रः । गतम् । वनस्पतिः वनानां पाता । 'सोमो वा ओषधीनां राजा' इति । वनस्थानां वा पाता 'सोमो वनस्पतीनाम्' इति । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु युगपत्' इति पूर्वयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+Если ты, Сома, захочешь, чтобы мы  
+Жили, мы не умрем.  
+(Ты) любитель хвалы, господин деревьев.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमः
+- गोतमो राहूगणः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सोम) श्रेष्ठ कामों में प्रेरणा देनेहारे परमेश्वर ! वा श्रेष्ठ कामों में प्रेरणा देता जो (त्वम्) सो यह (च) और आप (नः) हमलोगों के (जीवातुम्) जीवन को (वशः) वश होने के गुणों का प्रकाश करने वा (प्रियस्तोत्रः) जिनके गुणों का कथन प्रेम करने-करानेवाला है वा (वनस्पतिः) सेवनीय पदार्थों की पालना करनेहारे वा यह सोम जङ्गली ओषधियों में अत्यन्त श्रेष्ठ है, इस व्यवस्था से इन दोनों को जानकर हम लोग शीघ्र (न) (मरामहे) अकाल मृत्यु और अनायास मृत्यु न पावें ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में श्लेषालङ्कार है। जो मनुष्य ईश्वर की आज्ञा पालनेहारे विद्वानों और ओषधियों का सेवन करते हैं, वे पूरी आयु पाते हैं ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सोम यतस्त्वमयं च नोऽस्माकं जीवातुं वशः प्रियस्तोत्रो वनस्पतिर्भवसि भवति वा तदेतद् द्वयं विज्ञाय वयं सद्यो न मरामहे ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (त्वम्) (च) समुच्चये (सोम) सत्कर्मसु प्रेरक प्रेरको वा (नः) अस्माकम् (वशः) वशित्वगुणप्रापकः (जीवातुम्) जीवनम् (न) निषेधार्थे (मरामहे) अकालमृत्युं क्षणभङ्गदेहे प्राप्नुयाम। अत्र विकरणव्यत्ययः। (प्रियस्तोत्रः) प्रियं प्रति प्रियकारि स्तोत्रं गुणस्तवनं यस्य सः (वनस्पतिः) संभक्तस्य पदार्थसमूहस्य जङ्गलस्य वा पालकः श्रेष्ठतमो वा ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र श्लेषालङ्कारः। ये मनुष्या ईश्वराज्ञापालिनो विदुषामोषधीनां च सेविनः सन्ति ते पूर्णमायुः प्राप्नुवन्ति ॥ ६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जी माणसे ईश्वराची आज्ञा पालन करणाऱ्या विद्वानांचे व औषधांचे सेवन करतात ती पूर्ण आयुष्य भोगतात. ॥ ६ ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -135,13 +880,283 @@ Thou that lovest praise, lord of the forest.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा᳓ देवा᳓नाम्पदवीᳵ᳓ कवीना᳓मृ᳓षिर्वि᳓प्राणाम्महिषो᳓ मृगा᳓णाम् ।   
-श्येनो᳓ गृध्राणाँ स्व᳓धितिर्व᳓नानाँ सो᳓मः [41]  पवि᳓त्रम᳓त्येति रे᳓भन् ।   
+श्येनो᳓ गृध्राणाँ स्व᳓धितिर्व᳓नानाँ सो᳓मः [41]  पवि᳓त्रम᳓त्येति रे᳓भन् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/096/06_brahmA_devAnAM.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - दैवोदासिः प्रतर्दनः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ब्रह्मा᳓ देवा᳓नाम् पदवीः᳓ कवीना᳓म्  
+ऋ᳓षिर् वि᳓प्राणाम् महिषो᳓ मृगा᳓णाम्  
+श्येनो᳓ गृ᳓ध्राणां स्व᳓धितिर् व᳓नानां  
+सो᳓मः पवि᳓त्रम् अ᳓ति एति रे᳓भन्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+brahmā́ ← brahmán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+kavīnā́m ← kaví- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+padavī́ḥ ← padavī́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mahiṣáḥ ← mahiṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gā́ṇām ← mr̥gá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+ŕ̥ṣiḥ ← ŕ̥ṣi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+víprāṇām ← vípra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+gŕ̥dhrāṇām ← gŕ̥dhra- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+svádhitiḥ ← svádhiti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śyenáḥ ← śyená- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vánānām ← vána- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pavítram ← pavítra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rébhan ← √ribh- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+sómaḥ ← sóma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्र॒ह्मा दे॒वानां॑ पद॒वीः क॑वी॒नामृषि॒र्विप्रा॑णां महि॒षो मृ॒गाणा॑म् ।  
+श्ये॒नो गृध्रा॑णां॒ स्वधि॑ति॒र्वना॑नां॒ सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ब्र॒ह्मा दे॒वाना॑म्पद॒वीᳵ क॑वी॒नामृषि॒र्विप्रा॑णाम्महि॒षो मृ॒गाणा॑म् ।   
+श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒ऽवीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ।  
+श्ये॒नः । गृध्रा॑णाम् । स्वऽधि॑तिः । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अति॑ । ए॒ति॒ । रेभ॑न् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒वीरिति॑ पद-वीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ॥ श्ये॒नः । गृध्रा॑णाम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अतीति॑ । ए॒ति॒ । रेभ॑न्न् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *brahmā* ← *brahman*
+- \[noun\], nominative, singular, masculine
+- “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
+    Brahmapurāṇa; Vishnu; Brihaspati.”
+
+_________
+
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *padavīḥ* ← *padavī*
+- \[noun\], nominative, singular, feminine
+- “path; padavī \[word\].”
+
+_________
+
+- *kavīnām* ← *kavi*
+- \[noun\], genitive, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
+- \[noun\], nominative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+
+_________
+
+- *viprāṇām* ← *vipra*
+- \[noun\], genitive, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+
+_________
+
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
+- \[noun\], nominative, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+
+_________
+
+- *mṛgāṇām* ← *mṛga*
+- \[noun\], genitive, plural, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+
+_________
+
+- *śyeno* ← *śyenaḥ* ← *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+
+_________
+
+- *gṛdhrāṇāṃ* ← *gṛdhrāṇām* ← *gṛdhra*
+- \[noun\], genitive, plural, masculine
+- “vulture.”
+
+_________
+
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
+- \[noun\], nominative, singular, masculine
+- “ax; knife.”
+
+_________
+
+- *vanānāṃ* ← *vanānām* ← *vana*
+- \[noun\], genitive, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+
+_________
+
+- *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *pavitram* ← *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+
+_________
+
+- *aty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *rebhan* ← *ribh*
+- \[verb noun\], nominative, singular
+- “moo; murmur; praise.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+३    देवानाम्- देवतानाम्। ब्रह्मा- हिरण्यगर्भः। कवीनाम्- क्रान्तदर्शिनाम्। पदवीः- उत्तमपदगन्ता।  विप्राणाम्- मेधाविनाम्।  ऋषिः- सूक्ष्मद्रष्टा। मृगाणाम्- पशूनाम्। महिषः- महान् सिंहः।  गृध्राणाम्- द्विजानाम्। श्येनः। वनानाम्- वननीयानाम्। स्वधितिः- स्वधारणा। सोमः- रसः।  पवित्रम्- शोधकं प्रतीकम्। रेभन्- मन्त्रान् शब्दयन्। अत्येति- अतिक्रम्य सरति। सर्वेषां सारभूतः  सोम इति भावः॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+सोम एवं-रूपो भवति।  
+
+**देवानां** स्तोत्रकारिणाम् ऋत्विजां **ब्रह्मा** ब्रह्माख्यर्त्विक् स्थानी यो भवति,  
+यद् वा **देवानां** द्योतमानानाम् इन्द्रादीनां **ब्रह्मा** राजाभवति । 
+
+तथा **कवीनां** क्रान्तप्रज्ञानां **पदवीः** स्खलन्ति पदानि साधुत्वेन यो योजयति सपदवीः । वीगत्यादिष्व् इत्येतस्मात् क्विपि रूपम् । 
+
+तथा **विप्राणां** मेधाविनाम्मध्ये ऋषिर्भवति । यः परोक्षम्पश्यति सऋषिः । ऋषिर्दर्श- नादिति । मृगाणां महिषोभवति महिषाख्योबलवान् राजाभवति । तथा गृध्राणां पक्षि- विशेषाणां श्येनः शंसनीयः पक्षिराजोभवति । वनानां वनतिर्हिसाकर्मा । हिंसकानां छेदका- नाम्मध्ये स्वधितिः एतन्नामकः छेदकोसि । एवम्प्रभावः सोमः रेभन् शब्दायमानःसन् पवि त्रमूर्णास्तुकेन कृतमत्येति अतिगच्छति ॥ ६ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+ब्रह्मा देवानामिति ॥ व्याख्याता 'त्वमग्ने बृहद्वययः' इत्यत्र । अयमेव तद्रूपेण वर्तत इति योज्यम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+देवानां मध्ये ब्रह्मा सोमः ब्रह्मात्मना वर्तते । यद्वा - देवानां यथा ब्रह्मा श्रेष्ठो भवति, एवं सोमः पवित्राणां श्रेष्ठ इति । पदवीः पदव्यः यज्ञाः अभेदेन तद्विद उच्यन्ते । कवीनां क्रान्तदर्शनानां मध्ये यज्ञविदः श्रेष्ठाः । व्यत्ययेन वा बहुवचनम् । हल्ञ्यादिलोपाभावो वा । यज्ञश्रेष्ठ इति । यद्वा - वेतेर्गतिकर्मणो बुद्ध्यर्थात्क्विप् । पदानां पद्यमानानां यज्ञानामेव वेदितोच्यते, अनवधारणादनवग्रहः । ऋषिः द्रष्टा विप्राणां श्रेष्ठः, महाबलत्वात् । श्येनः शंसनीयो गच्छतीति गृध्राणां श्रेष्ठः । स्वधितिः अग्निः विनाशनसामर्थ्यात्ताच्छब्द्यम् । आत्मनि धीयते इति । वनानां वननीयानां अग्निः श्रेष्ठः । महावृक्षः कश्चिदित्येके । एवं सोमः पवित्राणां मध्ये पवित्रमत्येति ब्रह्मादिकम् । यद्वा - यन्नाम किंचित् पवित्रं तत् सर्वमत्येति रेभन् स्तूयमानः । रेभृ शब्दे, व्यत्ययेन कर्तृप्रत्ययः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The **Brahmā** of the gods, the guide of the sages, the ṛṣi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the **Soma** passes through the filter with a roar.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The Brahmā of the gods: i.e., the king of the gods; or, it may mean the **brāhmaṇa** of the priests; the ṛṣi: yaḥ **parokṣam** paśyati sa ṛṣiḥ, ṛsirdarśanāt (**Nirukta** 2.11)
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Formulator for the gods, trail-blazer for the sage poets, seer for the  inspired poets, buffalo of the wild beasts,  
+falcon of the birds of prey, axe of the trees—Soma goes rasping  
+through the filter.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Though the syntax is kept absolutely constant - nom. sg. + gen. pl. - there is a shifting functional relationship between the head noun and its genitive in the seven phrases here: the first two are roles Soma performs for the group identified by the gen., the next three a particular, and superior, individual token from the group (though the third pairing, “seer for/of the inspired poets,” is ambiguous between the first type and the second), and the last is sort of a negative version of the role he plays for the group.
+</details>
+
+<details><summary>Griffith</summary>
+
+Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures,  
+     Falcon amid the vultures, Axe of forests, over the cleansing sieve goes Soma singing.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -150,24 +1165,38 @@ Sage of seers, bull of wild beasts,
 Soma [1] goeth over the seive singing.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>त्रिभुवनः</summary>
 
-ब्र॒ह्मा दे॒वाना॑म्पद॒वीᳵ क॑वी॒नामृषि॒र्विप्रा॑णाम्महि॒षो मृ॒गाणा॑म् ।   
-श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।   
+That Atman (Self) is Brahman among the gods, knowledge (of words) among the poets, the seer among the learned ones (Vipras); buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterance (of Mantras).
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Geldner</summary>
 
-ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒वीरिति॑ पद-वीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ॥ श्ये॒नः । गृध्रा॑णाम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अतीति॑ । ए॒ति॒ । रेभ॑न्न् ॥
+Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Grassmann</summary>
 
-देवानां मध्ये ब्रह्मा सोमः ब्रह्मात्मना वर्तते । यद्वा - देवानां यथा ब्रह्मा श्रेष्ठो भवति, एवं सोमः पवित्राणां श्रेष्ठ इति । पदवीः पदव्यः यज्ञाः अभेदेन तद्विद उच्यन्ते । कवीनां क्रान्तदर्शनानां मध्ये यज्ञविदः श्रेष्ठाः । व्यत्ययेन वा बहुवचनम् । हल्ञ्यादिलोपाभावो वा । यज्ञश्रेष्ठ इति । यद्वा - वेतेर्गतिकर्मणो बुद्ध्यर्थात्क्विप् । पदानां पद्यमानानां यज्ञानामेव वेदितोच्यते, अनवधारणादनवग्रहः । ऋषिः द्रष्टा विप्राणां श्रेष्ठः, महाबलत्वात् । श्येनः शंसनीयो गच्छतीति गृध्राणां श्रेष्ठः । स्वधितिः अग्निः विनाशनसामर्थ्यात्ताच्छब्द्यम् । आत्मनि धीयते इति । वनानां वननीयानां अग्निः श्रेष्ठः । महावृक्षः कश्चिदित्येके । एवं सोमः पवित्राणां मध्ये पवित्रमत्येति ब्रह्मादिकम् । यद्वा - यन्नाम किंचित् पवित्रं तत् सर्वमत्येति रेभन् स्तूयमानः । रेभृ शब्दे, व्यत्ययेन कर्तृप्रत्ययः ॥
+Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier der Thiere, Der Geier Adler und die Axt der Wälder, der Soma wandert singend durch die Seihe.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Брахман богов, пролагатель пути поэтов,  
+Риши среди вдохновенных, буйвол среди диких животных,  
+Орел среди хищных птиц, топор для деревьев,  
+Сома проходит сквозь цедилку, распевая.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रतर्दनो दैवोदासिः
+- निचृत्त्रिष्टुप्
+- धैवतः
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -175,13 +1204,200 @@ Soma [1] goeth over the seive singing.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ विश्व᳓देवँ स᳓त्पतिँ सूक्तै᳓रद्या᳓ वृणीमहे ।   
-सत्य᳓सवँ सविता᳓रम् ।   
+सत्य᳓सवँ सविता᳓रम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/082/07_A_vishvadevaM.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓ विश्व᳓देवं स᳓त्पतिं  
+सूक्तइ᳓र् अद्या᳓ वृणीमहे  
+सत्य᳓सवं सविता᳓रम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+sátpatim ← sátpati- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśvádevam ← viśvádeva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+sūktaíḥ ← sūktá- (nominal stem)  
+{case:INS, gender:N, number:PL}
+
+vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+satyásavam ← satyásava- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitā́ram ← savitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वि॒श्वदे॑वं॒ सत्प॑तिं सू॒क्तैर॒द्या वृ॑णीमहे ।  
+स॒त्यस॑वं सवि॒तार॑म् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ वि॒श्वदे॑वँ॒ सत्प॑तिँ सू॒क्तैर॒द्या वृ॑णीमहे ।   
+स॒त्यस॑वँ सवि॒तार॑म् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । वि॒श्वऽदे॑वम् । सत्ऽप॑तिम् । सु॒ऽउ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ।  
+स॒त्यऽस॑वम् । स॒वि॒तार॑म् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । वि॒श्वदे॑व॒मिति॑ वि॒श्व-दे॒व॒म्॒ । सत्प॑ति॒मिति॒ सत्-प॒ति॒म्॒ । सू॒क्तैरिति॑ सु-उ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ॥ स॒त्यस॑व॒मिति॑ स॒त्य-स॒व॒म्॒ । स॒वि॒तार॑म् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *viśvadevaṃ* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvadevaṃ* ← *devam* ← *deva*
+- \[noun\], accusative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *satpatiṃ* ← *sat*
+- \[noun\]
+- “good; good; real; existent; virtuous; sat \[prefix\]; real.”
+
+_________
+
+- *satpatiṃ* ← *patim* ← *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *sūktair* ← *sūktaiḥ* ← *sūkta*
+- \[noun\], instrumental, plural, neuter
+- “Mantra; hymn.”
+
+_________
+
+- *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+
+_________
+
+- *vṛṇīmahe* ← *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+
+_________
+
+- *satyasavaṃ* ← *satya*
+- \[noun\]
+- “true; real; real; faithful; good.”
+
+_________
+
+- *satyasavaṃ* ← *savam* ← *sava*
+- \[noun\], accusative, singular, masculine
+- “yajña; command; impulse; direction; momentum.”
+
+_________
+
+- *savitāram* ← *savitṛ*
+- \[noun\], accusative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+विश्वदेवम्- सर्वदेवमयम्। सत्पतिम्- सत्तापालकम्। सत्यसवम्- सत्यानुज्ञम्। सवितारम्- प्रेरकं  सूर्यमात्मानम्। सूक्तैः- मन्त्रैः। अद्य- इदानीम्। आ- आभिमुख्येन। वृणीमहे- वरणं कुर्मः॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्वदेवम्** । विश्वे देवा यस्य वशे भवन्ति तं तादृशम् । स हि सर्वात्मा, इन्द्रं मित्रं वरुणमग्निमाहुः' (ऋ. सं. १. १६४. ४६ ) इत्यादिश्रुतेः इतरेषां तद्विभूतित्वात् । **सत्पतिं** सतामनुष्ठातॄणां पालकं **सत्यसवं** सत्यानुज्ञं **सवितारं** देवम् **अद्य** अस्मिन् यागदिने **सूक्तैः** **आ** **वृणीमहे** संभजामहे ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वदेवं विश्वेऽपि देवा दीव्यन्तेऽस्मिन्निति विश्वदेवस्सविता । 'विश्वं संज्ञायाम्' इति विश्वशब्दस्याद्युदात्तत्वम् । सत्पतिं सतां विदुषां पातारम् । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । सूक्तैस्सम्यगुक्तैः स्तोत्रैः अद्यास्मिन् यज्ञे वृणीमहे सत्यसवं सत्यानुज्ञं सवितारं देवम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“We glorify today with hymns **Savitā**, the protector of the good, the observer of truth (identical with) all the gods.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+All the gods: viśvadevam; tam hi sarvāmatvad indram, mitram, varuṇam, agnim āhuḥ, they have verily calle dhim **Indra**..., from his identity with all.
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+With our hymns we choose today the one with all the gods in his charge,  the lord of settlements,  
+whose impulsion comes true: Savitar.
+</details>
+
+<details><summary>Griffith</summary>
+
+We with our hymns this day elect the general God, Lord of the good,  
+     Savitar whose decrees are true.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -190,24 +1406,72 @@ The god of all, the lord of the true,
 Savitr of true instigation.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-आ वि॒श्वदे॑वँ॒ सत्प॑तिँ सू॒क्तैर॒द्या वृ॑णीमहे ।   
-स॒त्यस॑वँ सवि॒तार॑म् ।   
+Den wahren Herrn über alle Götter erwählen wir heute mit wohlgesetzten Worten, den Savitri, dessen Bestimmungen in Erfüllung gehen;
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-एति॑ । वि॒श्वदे॑व॒मिति॑ वि॒श्व-दे॒व॒म्॒ । सत्प॑ति॒मिति॒ सत्-प॒ति॒म्॒ । सू॒क्तैरिति॑ सु-उ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ॥ स॒त्यस॑व॒मिति॑ स॒त्य-स॒व॒म्॒ । स॒वि॒तार॑म् ॥
+Wir locken den allgöttlichen Gebieter heut durch Lieder her, Den Savitar, der Gutes schafft.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-विश्वदेवं विश्वेऽपि देवा दीव्यन्तेऽस्मिन्निति विश्वदेवस्सविता । 'विश्वं संज्ञायाम्' इति विश्वशब्दस्याद्युदात्तत्वम् । सत्पतिं सतां विदुषां पातारम् । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । सूक्तैस्सम्यगुक्तैः स्तोत्रैः अद्यास्मिन् यज्ञे वृणीमहे सत्यसवं सत्यानुज्ञं सवितारं देवम् ॥
+Принадлежащего всем богам истинного господина  
+Сегодня мы хотим избрать для себя с помощью гимнов -  
+Савитара, чье поведение истинно!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जैसे हम लोग (अद्या) आज (सूक्तैः) उत्तम प्रकार कहे गये सत्य वचनों वा वेदोक्त वचनों से (विश्वदेवम्) संसार के प्रकाश करने और (सत्पतिम्) प्रकृति आदि पदार्थ और सत्पुरुषों के पालन करनेवाले (सत्यसवम्) नहीं नाश होनेवाला सामर्थ्ययोग्य जिसका उस (सवितारम्) सम्पूर्ण पदार्थों के बनानेवाले परमात्मा का (आ, वृणीमहे) स्वीकार करते हैं, वैसे आप लोग भी स्वीकार कीजिये ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है । मनुष्यों को चाहिये कि परमेश्वर को छोड़कर किसी अन्य का आश्रय नहीं करें ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! यथा वयमद्या सूक्तैर्विश्वदेवं सत्पतिं सत्यसवं सवितारं परमात्मानमाऽऽवृणीमहे तथा यूयमपि वृणुत ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (आ) समन्तात् (विश्वदेवम्) विश्वस्य प्रकाशकम् (सत्पतिम्) सतां प्रकृत्यादीनां सत्पुरुषाणां पतिं पालकम् (सूक्तैः) सुष्ठु सत्यैर्वचनैर्वेदोक्तैर्वा (अद्या) अद्य। अत्र संहितायामिति दीर्घः। (वृणीमहे) स्वीकुर्महे (सत्यसवम्) सत्योऽविनाशी सवः सामर्थ्ययोगो यस्य तम् (सवितारम्) सकलपदार्थनिर्मातारम् ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः । मनुष्यैः परमेश्वरं विहाय कस्याप्यन्यस्याश्रयो नैव कर्त्तव्यः ॥७॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी परमेश्वराला सोडून दुसऱ्या कुणाचाही आश्रय घेऊ नये. ॥ ७ ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -228,7 +1492,428 @@ Savitr of true instigation.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/035/02_A_kRShNena.md">
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - हिरण्यस्तूप आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓ कृष्णे᳓न र᳓जसा व᳓र्तमानो  
+निवेश᳓यन्न् अमृ᳓तम् म᳓र्तियं च  
+हिरण्य᳓येन सविता᳓ र᳓थेन  
+आ᳓ देवो᳓ याति भु᳓वनानि प᳓श्यन्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre D  
+genre D  
+genre D  
+genre D
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+kr̥ṣṇéna ← kr̥ṣṇá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+rájasā ← rájas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+vártamānaḥ ← √vr̥t- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+amŕ̥tam ← amŕ̥ta- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+niveśáyan ← √viś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hiraṇyáyena ← hiraṇyáya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ráthena ← rátha- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+páśyan ← √paś- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ कृ॒ष्णेन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृतं॒ मर्त्यं॑ च ।  
+हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   
+हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑ना वि॒पश्य॑न् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । कृ॒ष्णेन॑ । रज॑सा । वर्त॑मानः । नि॒ऽवे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ।  
+हि॒र॒ण्यये॑न । स॒वि॒ता । रथे॑न । आ । दे॒वः । या॒ति॒ । भुव॑नानि । पश्य॑न् ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+आ। कृ॒ष्णेन॑। रज॑सा। वर्त्त॑मानः। नि॒वे॒शय॒न्निति॑ निऽवे॒शय॑न्। अ॒मृत॑म्। मर्त्य॑म्। च॒। हि॒र॒ण्यये॑न। स॒वि॒ता। रथे॑न। आ। दे॒वः। या॒ति॒। भुव॑नानि। पश्य॑न्। ४३।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+आ। कृ॒ष्णेन॑। रज॑सा। वर्त्त॑मानः। नि॒वे॒शय॒न्निति॑ निऽवे॒शय॑न्। अ॒मृत॑म्। मर्त्य॑म्। च॒। हि॒र॒ण्यये॑न। स॒वि॒ता। रथे॑न। आ। दे॒वः। या॒ति॒। भुव॑नानि। पश्य॑न्। १४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । स॒त्येन॑ । रज॑सा । वर्त॑मानः । नि॒वे॒शय॒न्निति॑ नि-वे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ॥ हि॒र॒ण्यये॑न । स॒वि॒ता । रथे॑न । एति॑ । दे॒वः । या॒ति॒ । भुव॑ना । वि॒पश्य॒न्निति॑ वि-पश्य॑न्न् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *kṛṣṇena* ← *kṛṣṇa*
+- \[noun\], instrumental, singular, neuter
+- “black; dark; dark; blue; black.”
+
+_________
+
+- *rajasā* ← *rajas*
+- \[noun\], instrumental, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+
+_________
+
+- *vartamāno* ← *vartamānaḥ* ← *vṛt*
+- \[verb noun\], nominative, singular
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+
+_________
+
+- *niveśayann* ← *niveśayan* ← *niveśay* ← *√viś*
+- \[verb noun\], nominative, singular
+- “put; fill into; insert; establish; camp; insert; send; lay; dwell;
+    fix; transfer; dress.”
+
+_________
+
+- *amṛtam* ← *amṛta*
+- \[noun\], accusative, singular, masculine
+- “immortal; amṛta; imperishable.”
+
+_________
+
+- *martyaṃ* ← *martyam* ← *martya*
+- \[noun\], accusative, singular, masculine
+- “mortal.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *hiraṇyayena* ← *hiraṇyaya*
+- \[noun\], instrumental, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+
+_________
+
+- *savitā* ← *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+
+- *rathenā* ← *rathena* ← *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+
+_________
+
+- *rathenā* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *devo* ← *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *bhuvanāni* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *paśyan* ← *paś*
+- \[verb noun\], nominative, singular
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+आ कृष्णेन रजसा- आकर्षणभूतेन तेजसा आकर्षणभूतया शत्तया वा। वर्तमानः- भूतः।  विराजितः। अमृतम्- दिव्यम्। मर्त्यं- मानुषं च। निवेशयन्- स्वात्मनि अवस्थापयन्। हिरण्ययेन-  सुवर्णेन। रथेन। सविता- सूर्यः। भुवनानि- लोकान्। पश्यन्। आ याति- आगच्छति॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सविता** सूर्यः **कृष्णेन** **रजसा** कृष्णवर्णेन लोकेन। ‘कृष्णं कृष्यतेर्निकृष्टो वर्णः' (निरु. २.२०) इति यास्कः । ‘लोका रजांस्युच्यन्ते' ( निरु. ४. १९) इति च । अन्तरिक्षलोको हि सूर्यागमनात् पुरा कृष्णवर्णो भवति । तेनान्तरिक्षमार्गेण **आ** **वर्तमानः** पुनःपुनरागच्छन् **अमृतं** देवं **मर्त्य** मनुष्यं **च** **निवेशयन्** स्वस्वस्थानेऽवस्थापयन् । यद्वा । अमृतं मरणरहितं प्राणं मर्त्यं मरणसहितं शरीरं च निवेशयन् । तथा चारण्यकाण्डे 'अमर्त्यो मर्त्येना सयोनिः ' (ऋ.सं.१.१६४.३८) इत्येतस्य मन्त्रभागस्य व्याख्यानरूपे ब्राह्मणे यथोक्तोऽर्थोऽवगम्यते - मर्त्यानि हीमानि शरीराणि अमृतैषा देवता ' (ऐ. आ. २. १. ८) इति । यथोक्तगुणोपेतः सविता देवः **भुवनानि** सर्वान् लोकान् **पश्यन्** अवेक्षमाणः प्रकाशयन्नित्यर्थः । **हिरण्ययेन** सुवर्णनिर्मितेन **रथेन** **आ** **याति** अस्मत्समीपमागच्छति॥ अमृतम् । मृतं मरणं नास्ति अस्येति बहुव्रीहौ  ‘नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । मर्त्यम् । मर्ते भवम् । भवे छन्दसि' इति यत् ।  ‘ यतोऽनावः' इत्याद्युदात्तत्वम् । हिरण्ययेन । ऋत्व्यवास्त्व्य° । (पा. सू. ६. ४. १७५) इत्यादिना मयटो मकालोपो निपातितः । यस्येति लोपे प्रत्ययस्वरः । भुवनानि । **भू** सत्तायाम्'। ' भूसुघूभ्रस्जिभ्यश्छन्दसि ' ( उ. सू. २. २३८) इति क्युन्प्रत्ययः । योरनादेशे उवङादेशः । नित्त्वादाद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+आ कृष्णेन।
+
+आवर्तमानः पुनःपुनर्भ्रमणं कुर्वन्।
+
+कृष्णेन रजसा रात्रिलक्षणेन सह निवेशयन् स्वेषु स्वेषु प्रदेशेषु स्थापयनमृतं देवादिकम् मर्त्यं च मनुष्यादिकं च।
+
+हिरण्ययेन हिरण्मयेन सविता रथेन।
+
+आदेवो याति आयाति देवः दानादिगुणयुक्तः भुवनानि भूतजातानि पश्यन् कानि कानि साधु कुर्वन्ति कानि कानि वा असाध्विति स्वरूपानुवादः॥ ४३॥
+
+आकृष्णेनेति व्याख्यातम्॥ ३१॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हिरण्यस्तूपदृष्टा त्रिष्टुप् सावित्रपुरोरुक्।
+
+सविता देवः हिरण्ययेन हिरण्मयेन रथेन आयाति आगच्छति।
+
+किं कुर्वन्।
+
+कृष्णेन रजसा रात्रिलक्षणेन सह आवर्तमानः पुनर्भ्रमणं कुर्वनमृतं देवादिकं मर्त्यं मनुष्यादिकं च निवेशयन् स्वस्वप्रदेशेषु स्थापयन् भुवनानि पश्यन् कानि साधु कुर्वन्ति कान्यसाध्विति विचारयन्॥ ४३॥
+
+व्याख्याता (अ० ३३ क० ४३)॥ ३१॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+पदच्छेदः स्पष्टः ॥४३॥
+
+आकृष्णेन निकृष्णेन रजसा वर्णेन तह वर्तमानः, अथ वा कृष्णेन जगत्-कर्षकेण आविर्हेतुकेन रजसा प्रकाशेन, यद् वा कृष्णेन अपि च रजसा वर्तमानः, आयाति आगच्छति ।
+
+किं कुर्वन् ?
+
+अमृतम- मरण-धर्मकं मत्यं तद् विलक्षणं च निवेशयन् तत् तत्-स्थाने स्थापयन्, कृष्णं नक्तम् अन्धकारः इति पक्षे रात्रौ स्वस्व-व्यापाराभावात् स्व-स्वस्थाने स्थापयत्, कृष्णं कर्षकं रजः प्रकाशः इति पक्षे निवेशयन् स्व-व्यापारे नियोजयन् इत्य् अर्थः ।
+
+कृष्णेन च रजसा इति च इति समुच्चय-पक्षे निवेशयन् इत्य् अस्य उक्तार्थस्य द्वयम् अपि विवक्षितम् ।
+
+किं च हिरण्ययेन हिरण्य-द्योतमानरथेन सविता देवः भुवनानि भूत-जातानि पश्यन्, आयाति ऊर्ध्वं प्राप्नोति इत्य् अर्थः ।
+
+आ कृ॒ष्णेन॒ रज॑सा॒ वर्तमानो निवे॒शय॑न्नमृत॒म्मर्त्यश्च ।
+
+हिरण्य येन सविता रथेना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥ २५ ॥
+
+आ ।
+
+कृष्णेन ।
+
+रजसा ।
+
+वर्तमानः ।
+
+निवेशयन् ।
+
+अमृतम् ।
+
+मर्त्यम् ।
+
+च ॥
+
+हिरण्य येन ।
+
+सविता ।
+
+रथेन ।
+
+देवः ।
+
+याति ।
+
+भुवनानि ।
+
+पश्यन् ॥ २५ ॥
+
+इयम् अपि व्याख्याता ( अ. ३२।४३ ) ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+हिरण्मयः पाणिर् इति सर्व-शरीरस्योपलक्षणम् ।
+
+हिरण्मय-देहः ।
+
+अथवा स्व-भक्तेभ्यो दातुं हिरण्य-पूर्ण-पाणिः ।
+
+हिरण्य-पाणिः सविता ।
+
+विचर्षणिः विविधार्थानां द्रष्टा कृताकृत-प्रेक्षकश् च ।
+
+उभे द्यावापृथिवी अन्तः ।
+
+उभयोर्द्यावापृथिव्योर् मध्ये ।
+
+ईयते 'ईङ्गतौ' [ ११४३ दिवादिः ] अनुगच्छति प्रतियाति ।
+
+अमीवां व्याधिम् अपबाधते ।
+
+अन्धकार-लक्षणं रोगं निवर्तयति ।
+
+अथ यदा, वेति सूर्यम् अभि ।
+
+सूर्याभिमुखतया ऽस्तमये गच्छति ।
+
+तदा कृष्णेन रजसा ।
+
+अन्धकार-लक्षणेन कृष्ण-वर्णोपलक्षितं यत्तमः [ तेन ], अस्तमय-काले तेजसा तेजसा सह स्थितं सूर्यम् ।
+
+४अभिवेति "अनुगच्छति । अस्तमिते ऽनुगच्छतीत्यर्थः । द्यां भूमिं च ऋणोति व्याप्नोति यस्तं यथोक्त-गुणं सूर्यमभिष्टुम इति सम्बन्धः ॥ १६ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सत्येन नित्येन रजसा लोकेन ज्योतिर्मयेन मण्डलात्मना आवर्तमानः उदयमस्तमयं चानुपूर्व्येण कुर्वाणः निवेशयन् स्थापयन् जीवयन् अमृतं देवादिलक्षणं मर्त्यं मनुष्यादिलक्षणं च । 'नञो जरमर' इत्युत्तरपदाद्युदात्तत्वम् । हिरण्ययेन हिरण्मयेन रथेन । 'ऋत्व्यवास्त्व' इति निपात्यते । हिरण्यया हिरण्ययानी[नेने]त्येके । सविता देवः । एवं भुवना भुवनानि भूतजातानि विपश्यन् विविधं पश्यन् हितेन योजयन् आयाति आगच्छतु ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
+
+अथ विद्युता किं साध्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वँस्त्वं य आकृष्णेन रजसा सह वर्त्तमानः सततममृतं मर्त्यञ्च निवेशयन् हिरण्ययेन रथेन सविता देवो विद्युद् भुवनानि याति, तं पश्यन् सन् संप्रयुङ्ग्धि ॥३१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्याः ! या विद्युत्कार्य्यं कारणं सम्प्रकाश्य सर्वत्राऽभिव्याप्ता तेजोमयी सद्योगामिनी सर्वाकर्षिका वर्त्तते, तां प्रेक्षमाणाः सन्तः संप्रयुज्याऽभीष्टानि सद्यो यात ॥३१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+अब सूर्य्य मण्डल कैसा है, इस विषय को अगले मन्त्र में कहा है ॥
+
+अब विद्युत् से क्या सिद्ध करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (हिरण्ययेन रथेन) ज्योतिःस्वरूप रमणीय स्वरूप से (कृष्णेन) आकर्षण से परस्पर सम्बद्ध (रजसा) लोकमात्र के साथ (आ, वर्त्तमानः) अपने भ्रमण की आवृत्ति करता हुआ (भुवनानि) सब लोकों को (पश्यन्) दिखाता हुआ (देवः) प्रकाशमान (सविता) सूर्य्यदेव (अमृतम्) जल वा अविनाशी आकाशादि (च) और (मर्त्यम्) मरणधर्मा प्राणिमात्र को (निवेशयन्) अपने-अपने प्रदेश में स्थापित करता हुआ (आ, याति) उदयास्त समय में आता-जाता है, सो ईश्वर का बनाया सूर्य्यलोक है ॥४३ ॥
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! आप जो (आ, कृष्णेन) आकर्षित हुए (रजसा) लोकसमूह के साथ (वर्त्तमानः) निरन्तर (अमृतम्) नाशरहित कारण (च) और (मर्त्यम्) नाशसहित कार्य्य को (निवेशयन्) अपनी-अपनी कक्षा में स्थित करता हु्आ (हिरण्ययेन) तेजःस्वरूप (रथेन) रमणीयस्वरूप के सहित (सविता) ऐश्वर्य का दाता (देवः) देदीप्यमान विद्युद्रूप अग्नि (भुवनानि) संसारस्थ वस्तुओं को (याति) प्राप्त होता है, उसको (पश्यन्) देखते हुए सम्यक् प्रयुक्त कीजिये ॥३१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जैसे इन भूगोलादि लोकों के साथ सूर्य्य का आकर्षण है, जो वृष्टिद्वारा अमृतरूप जल को बरसाता और जो मूर्त्त द्रव्यों को दिखानेवाला है, वैसे ही सूर्य्य आदि लोक भी ईश्वर के आकर्षण से धारण किये हुए हैं, ऐसा जानना चाहिये ॥४३ ॥
+
+भावार्थभाषाः -  हे मनुष्यो ! जो बिजली कार्य और कारण को सम्यक् प्रकाशित कर सर्वत्र अभिव्याप्त तेजःस्वरूप शीघ्रगामिनी सबका आकर्षण करनेवाली है, उसको देखते हुए सम्प्रयोग में अभीष्ट स्थानों को शीघ्र जाया करो ॥३१ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथ सूर्य्यमण्डलं कीदृशमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! यो हिरण्यमयेन रथेन कृष्णेन रजसा सहाऽऽवर्त्तमानो भुवनानि पश्यन् देवः सविताऽमृतं मर्त्यं च निवेशयन्नायाति स ईश्वरनिर्मितः सूर्य्यो लोकोऽस्ति ॥४३ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्याः ! यथा एतद्भूगोलाद्यैर्लोकैः सह तस्य सूर्य्यस्याकर्षणं यो वृष्टिद्वारा अमृतात्मकमुदकं वर्षयति यश्च सर्वेषां मूर्तद्रव्याणां दर्शयितास्ति तथा सूर्य्यादयोऽपीश्वराकर्षणेन ध्रियन्त इति वेद्यम् ॥४३ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! जसे भूगोल वगैरे गोलांना सूर्य आकर्षित करतो व वृष्टीद्वारे अमृतरूपी जलवर्षाव करतो आणि प्रत्यक्ष मूर्त पदार्थांचे दर्शन घडवितो त्या सूर्याला ईश्वराच्या आकर्षणाने धारण केलेले आहे हे जाणा.
+
+भावार्थभाषाः -  हे माणसांनो ! जी विद्युत कार्य कारणाने सम्यक् रीतीने प्रकाशित होऊन सर्वत्र व्याप्त असते ती तेजस्वी, शीघ्रगामिनी आणि सर्वांना आकर्षित करणारी असते. तिला योग्य तऱ्हेने प्रयुक्त करून इष्ट स्थानी येणे-जाणे करा.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Revolving through the darkened firmament, arousing mortal and immortal, the divine **Savitā** travels in his golden chariot, beholding the (several) worlds.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Turning hither through the black realm, bringing to rest the immortal  and the mortal,  
+with his golden chariot Savitar the god drives here, gazing upon the  creatures.
+</details>
+
+<details><summary>Griffith</summary>
+
+Throughout the dusky firmament advancing, laying to rest the immortal and the mortal,  
+     Borne in his golden chariot he cometh, Savitar, God who looks on every creature.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -238,22 +1923,86 @@ With golden car Savitr
 The god advanceth gazing on the worlds.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
 
-आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   
-हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑ना वि॒पश्य॑न् ।
+Throughout the dusky firmament, etc., as in XXXIII. 43.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Geldner</summary>
 
-एति॑ । स॒त्येन॑ । रज॑सा । वर्त॑मानः । नि॒वे॒शय॒न्निति॑ नि-वे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ॥ हि॒र॒ण्यये॑न । स॒वि॒ता । रथे॑न । एति॑ । दे॒वः । या॒ति॒ । भुव॑ना । वि॒पश्य॒न्निति॑ वि-पश्य॑न्न् ॥
+Indem er mit dem schwarzen Dunst sich heranbewegt und Gott und Mensch zur Ruhe bringt, kommt Gott Savitri auf goldenem Wagen, die Wesen beschauend.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Grassmann</summary>
 
-सत्येन नित्येन रजसा लोकेन ज्योतिर्मयेन मण्डलात्मना आवर्तमानः उदयमस्तमयं चानुपूर्व्येण कुर्वाणः निवेशयन् स्थापयन् जीवयन् अमृतं देवादिलक्षणं मर्त्यं मनुष्यादिलक्षणं च । 'नञो जरमर' इत्युत्तरपदाद्युदात्तत्वम् । हिरण्ययेन हिरण्मयेन रथेन । 'ऋत्व्यवास्त्व' इति निपात्यते । हिरण्यया हिरण्ययानी[नेने]त्येके । सविता देवः । एवं भुवना भुवनानि भूतजातानि विपश्यन् विविधं पश्यन् हितेन योजयन् आयाति आगच्छतु ॥
+Er, der herbeieilt durch den dunklen Luftraum, zur Ruhe legt, was sterblich, was unsterblich, Gott Savitar auf seinem goldnen Wagen kommt her zu uns, beschauend alle Wesen.
 </details>
 
+<details><summary>Elizarenkova</summary>
+
+Приближаясь сквозь черное пространство,  
+Успокаивая бессмертного и смертного,  
+Савитар на золотой колеснице,  
+Бог едет, взирая на (все) существа.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- हिरण्यस्तूप आङ्गिरसः
+- विराट्त्रिष्टुप्
+- धैवतः
+
+- सूर्यो देवता
+- हिरण्यस्तूप ऋषिः
+- विराट्त्रिष्टुप्
+- धैवतः
+
+- सूर्य्यो देवता
+- हिरण्यस्तूप ऋषिः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब अगले मन्त्र में सूर्यलोक के गुणों का उपदेश किया है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  यह (सविता) सब जगत् को उत्पन्न करनेवाला (देवः) सबसे अधिक प्रकाशयुक्त परमेश्वर (आकृष्णेन) अपनी आकर्षण शक्ति से (रजसा) सब सूर्य्यादि लोकों के साथ व्यापक (वर्त्तमानः) हुआ (अमृतम्) अंतर्यामिरूप वा वेद द्वारा मोक्षसाधक सत्य ज्ञान (च) और (मर्त्यम्) कर्मों और प्रलय की व्यवस्था से मरण युक्त जीव को (निवेशयन्) अच्छे प्रकार स्थापन करता हुआ (हिरण्ययेन) यशोमय (रथेन) ज्ञानस्वरूप रथ से युक्त (भुवनानि) लोकों को (पश्यन्) देखता हुआ (आयाति) अच्छे प्रकार सब पदार्थों को प्राप्त होता हैं। १। यह (सविता) प्रकाश वृष्टि और रसों का उत्पन्न करनेवाला (कृष्णेन) प्रकाश रहित (रजसा) पृथिवी आदि लोकों के साथ (आवर्त्तमानः) अपनी आकर्षण शक्ति से वर्त्तमान इस जगत् में (अमृतम्) वृष्टि द्वारा अमृत स्वरूपरस (च) तथा (मर्त्यम्) काल व्यवस्था से मरण को (निवेशयन्) अपने-२ सामर्थ्य में स्थापन करता हुआ (हिरण्ययेन) प्रकाशस्वरूप (रथेन) गमन शक्ति से (भुवनानि) लोकों को (पश्यन्) देखता हुआ (आयाति) अच्छे प्रकार वर्षा आदि रूपों को अलग-२ प्राप्ति करता है ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मंत्र में श्लेषालंकार है। जैसे सब पृथिवी आदि लोक मनुष्यादि प्राणियों वा सूर्यलोक अपने आकर्षण में पृथिवी आदि लोकों वा ईश्वर अपनी सत्ता से सूर्यादि सब लोकों का धारण करता है ऐसे क्रम से सब लोकों का धारण होता है इसके विना अन्तरिक्ष में किसी अत्यन्त भार युक्त लोक का अपनी परिधि में स्थिति होने का संभव नहीं होता और लोकों के घूमने विना क्षण, मुहूर्त्त, प्रहर, दिन, रात, पक्ष, मास, ऋतु, और संवत्सर आदि कालों के अवयव नहीं उत्पन्न हो सकते हैं ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  अथ सूर्यलोकगुणा उपदिश्यन्ते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+(आ) समंतात् (कृष्णेन) कर्षति येन स कृष्णस्तेन। यद्वा कृष्णवर्णेन लोकेन। कृष्णं कृष्यतेर्निकृष्टो वर्णः। निरु० २।२०। यत्कृष्णं तदन्नस्य। छान्दो० ६।५। एताभ्यां प्रमाणाभ्यां पृथिवीलोका अत्र गृह्यन्ते कृषेर्वर्णे। उ० ३।४। इति नक् प्रत्ययः। अत्राङ् पूर्वकत्वादाकर्षणार्थो गृह्यते (रजसा) लोकसमूहेन सह। लोकारजांस्युच्यन्ते। निरु० ४।१९। (वर्त्तमानः) वर्त्ततेऽसौ वर्त्तमानः (निवेशयन्) नितरां स्वस्वसामर्थ्ये स्थापयन् (अमृतम्) अन्तर्यामितया वेदद्वारा च मोक्षसाधकं सत्यं ज्ञानं वृष्टिद्वाराऽमृतात्मकं रसं वा (मर्त्यम्) कर्मप्रलयप्राप्तिव्यवस्थया कालव्यवस्थया वा मरणधर्मयुक्तम् प्राणिनम् (च) समुच्चये (हिरण्ययेन) ज्योतिर्मयेनानन्तेन यशसा तेजोमयेन वा ऋत्व्यावस्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि। अ० ६।४।१७५। इत्ययं निपातितः ज्योतिर्हिहिरण्यम्। श० ४।३।१।२१। (सविता) सर्वेषां प्रसविता प्रकाशवृष्टिरसानां च प्रसविता (रथेन) रंहतिजानाति गच्छति गमयति वा येन तेन। रथो रंहतेर्गतिकर्मणः। निरु० ९।११। (आ) समंतात् (देवः) दीव्यति प्रकाशयतीति (याति) प्राप्नोति प्रापयति वा। अत्र पक्षेऽन्तर्गतो ण्यर्थः। (भुवनानि) भवन्ति भूतानि येषु तानि। भूम्० उ० २।७८#। इत्यधिकरणेक्युन् प्रत्ययः। (पश्यन्) प्रेक्षमाणो दर्शयन् वा। अत्रापि पक्षेऽन्तर्गतो ण्यर्थः ॥२॥वै० य० मुद्रित द्वितीयावृत्तौ ‘२।८०’ एषासुत्रसंवर्तते।सं०
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  अयं सविता देवः परमेश्वर आकृष्णेन रजसा सहाभिव्याप्य वर्त्तमानः सर्वस्मिन् जगत्यमृतं मर्त्यं च निवेशयन् सन् हिरण्ययेन यशोमयेन ज्ञानरथेन युक्तो भुवनानि पश्यन्नायाति समन्तात् सर्वान्पदार्थान् प्राप्नोतीति पूर्वोऽन्वयः। अयं सविता देवः सूर्यलोकः कृष्णेन रजसा सह वर्त्तमानोऽस्मिन् जगत्यमृतं मर्त्यं च निवेशयन् हिरण्ययेन रथेन भुवनानि पश्यन् दर्शयन् सन्नायाति समंताद्वष्ट्यादिरूपविभागं च प्रापयतीत्यपरोऽन्वयः ॥२॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र श्लेषालंकारः। यथा पृथिव्यादयो लोकाः सर्वान् मनुष्यादीन् धरन्ति सूर्यलोक आकर्षणेन पृथिव्यादीन् धरति। ईश्वरः स्वसत्तया सूर्यादीन् लोकान् धरति। एवं क्रमेण सर्वलोकधारणं प्रवर्त्तते नैतेन विनान्तरिक्षे कस्यचिद् गुरुत्वयुक्तस्य लोकस्य स्वपरिधौ स्थितेः सम्भवोस्ति। नैव लोकानां भ्रमणेन विना क्षणमुहूर्त्तप्रहराहोरात्रपक्षमासर्तुसंवत्सरादयः कालावयवा उत्पत्तुं शक्नुवन्तीति ॥२॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जसे पृथ्वी मनुष्य प्राण्यांना धारण करते, सूर्य आपल्या आकर्षणाने पृथ्वीला धारण करतो व ईश्वर आपल्या सत्तेने सूर्याला धारण करतो. अशा क्रमाने सर्व गोलांचे धारण होते. त्याशिवाय अंतरिक्षात भारयुक्त गोल आपल्या परिधीत राहणे शक्य नाही व गोल फिरल्याखेरीज क्षण, मुहूर्त, प्रहर, दिवस, रात्र, पक्ष, मास, ऋतू व संवत्सर इत्यादी काळाचे अवयव उत्पन्न होऊ शकत नाहीत. ॥ २ ॥
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -274,16 +2023,6 @@ The god advanceth gazing on the worlds.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-That Aditi may accord  
-To our cattle, our men, our kine,  
-To our offspring, Rudra's grace.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -482,6 +2221,13 @@ That Aditi may grant the grace of Rudra to our folk, our kine,
      Our cattle and our progeny;
 </details>
 
+<details><summary>Keith</summary>
+
+That Aditi may accord  
+To our cattle, our men, our kine,  
+To our offspring, Rudra's grace.
+</details>
+
 <details><summary>Geldner</summary>
 
 Auf das Aditi unserem Vieh, den Männern, dem Rind, auf das sie unserem Samen das rudrische Heilmittel verschaffe;
@@ -596,13 +2342,18 @@ With oblations let us serve thee with honour.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदप्रु᳓तो न᳓ व᳓यो र᳓क्षमाणा वा᳓वदतो अभ्रि᳓यस्येव घो᳓षाः ।   
-गिरिभ्र᳓जो नो᳓र्म᳓यो म᳓दन्तो बृ᳓हस्प᳓तिमभ्य᳙र्का᳓ अनावन् ।   
+गिरिभ्र᳓जो नो᳓र्म᳓यो म᳓दन्तो बृ᳓हस्प᳓तिमभ्य᳙र्का᳓ अनावन् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/016/01_udapruto_na.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
+
+Like birds who keep their watch, plashing in water, like the loud voices of the thundering rain-cloud, Like merry streamlets bursting from the mountain thus to Brihaspati our hymns have sounded.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -611,15 +2362,54 @@ Like the noises of the loud thundercloud,
 Like joyous waves breaking forth from the mountains, The praises have lauded Brhaspati.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-उ॒द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑ ।   
-गि॒रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॑र्का अ॑नावन् ।   
+उ॑द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑।  
+गि॑रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॒र्का अ॑नावन् ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उ॒द॒प्रुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भ्रिय॑स्येव॒ घोषाः॑ ।   
+गि॒रि॒भ्रजो॒ नोर्मयो॒ मद॑न्तो॒ बृह॒स्पति॑म॒भ्य॑र्का अ॑नावन् ।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+उ॒द॒ऽप्रुतः॑। न। वयः॑। रक्ष॑माणाः। वाव॑दतः। अ॒भ्र‍िय॑स्यऽइव। घोषाः॑। गि॒रि॒ऽभ्रजः॑। न। ऊ॒र्मयः॑। मद॑न्तः। बृह॒स्पति॑म्। अ॒भि। अ॒र्काः। अ॒ना॒व॒न्। १६.१।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 उ॒द॒प्रुत॒ इत्यु॑द-प्रुतः॑ । न । वयः॑ । रक्ष॑माणाः । वाव॑दतः । अ॒भ्रिय॑स्य । इ॒व॒ । घोषाः॑ ॥ गि॒रि॒भ्रज॒ इति॑ गिरि-भ्रजः॑ । न । ऊ॒र्मयः॑ । मद॑न्तः । बृह॒स्पति॑म् । अ॒भीति॑ । अ॒र्काः । अ॒ना॒व॒न् ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृहस्पतिः
+- अयास्यः
+- त्रिष्टुप्
+- सूक्त-१६
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+विद्वानों के गुणों का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (उदप्रुतः) जल को प्राप्त हुए, (रक्षमाणः) अपनी रक्षा करते हुए (वयः न) पक्षियों के समान, (वावदतः) बार-बार गरजते हुए (अभ्रियस्य) बादल के (घोषाः इव) शब्दों के समान, (गिरिभ्रजः) पहाड़ों से गिरते हुए, (मदन्तः) तृप्त करते हुए (ऊर्मयः न) जल के प्रवाहों के समान, (अर्काः) पूजनीय पण्डितों ने (बृहस्पतिम्) बृहस्पति [बड़ी वेदवाणी के रक्षक महाविद्वान्] को (अभि) सब ओर से (अनावन्) सराहा है ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे पक्षीगण जलाशय में पा-स्नान करके तृप्त होते हैं, जैसे बरसते हुए मेघ अपनी गर्जन से प्रसन्न करते हैं, और जैसे पहाड़ों से बहती हुई नदियाँ अन्न आदि उत्पन्न करती हैं, वैसे ही बुद्धिमान् लोग वेदाभ्यासी पुरुष के गुणों को गाकर आनन्द बढ़ाते हैं ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   यह सूक्त ऋग्वेद में है-१०।६८।१-१२ ॥  १−(उदप्रुतः) प्रुङ् गतौ-क्विप्। उदकं प्राप्ताः (न) यथा (वयः) पक्षिणः (रक्षमाणाः) आत्मानं पालयन्तः (वावदतः) वदेर्यङ्लुकि शतृ। पुनः पुनः शब्दायमानस्य (अभ्रियस्य) स्वार्थे घप्रत्ययः। अभ्रस्य मेघस्य-निघ० १।१० (इव) यथा (घोषाः) ध्वनयः (गिरिभ्रजः) भ्रशु अधःपतने-क्विप्। शस्य जः। शैलेभ्यः सकाशादधःपतन्तः (न) यथा (ऊर्मयः) जलप्रवाहाः (मदन्तः) तर्पयन्तः (बृहस्पतिम्) बृहत्या वेदवाण्या रक्षकं विद्वांसम् (अभि) सर्वतः (अर्काः) पूजनीयाः पण्डिताः (अनावन्) णु स्तुतौ-लङ्, छान्दसः शप्। अस्तुवन् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -627,8 +2417,7 @@ Like joyous waves breaking forth from the mountains, The praises have lauded Brh
 उदप्रुतः उदकस्य प्रापयितारः प्रवोढारः प्रवर्तयितारो वा मेघा उच्यन्ते । ध्रुङ् प्रुङ् प्लुङ् गतौ, उदभावश्छान्दसः । उदप्रुतो न उदप्लुत इव वयोन्नं रक्षमाणाः वृष्टिद्वारेण रक्षन्तः । व्यत्ययेनात्मनेपदम् । वावदतः अभ्रियस्य घोषा इव विश्वं जगद्वादयन्तः । वदेर्यङ्लुगन्ताच्छतरि 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गिरिभ्रजो न गिरिभ्रज इव गिरिपृष्ठगामिनः । भ्रजतिर्गतिकर्मा, भ्राजतेर्वा ह्रस्वत्वम् । ऊर्मयः उदकसंघाता इव मदन्तः मादयन्तस्तर्पयन्तः प्रजाः । स्वरितत्वाच्चौरादिकस्य णिलुक् । ईदृशार्काः अर्चनादिसाधनभूताः स्तुतयः । अर्चतेः करणे घञ्, 'चजोः कुधिण्यतोः' इति कुत्वम् । यद्वा - अर्क स्तुतौ । बृहस्पतिमभ्यनावन् बृहस्पतिमभिष्टुवन्ति, तस्माद्वयमपि तं महानुभावं यजामहे इति । नौतेश्छान्दसो लुङ्, व्यत्ययेन शप्, धातोश्च वृद्धिः । बृहस्पतेस्सुट्स्वरावुक्तौ ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -636,13 +2425,18 @@ Like joyous waves breaking forth from the mountains, The praises have lauded Brh
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हँसै᳓रिव स᳓खिभिर्वा᳓वदद्भिरश्मन्म᳓यानि न᳓हना व्य᳓स्यन् ।   
-बृ᳓हस्प᳓तिरभि क᳓निक्रदद्गा᳓ उत᳓ प्रा᳓स्तौदु᳓च्च विद्वाँ᳓ अगायत् ।   
+बृ᳓हस्प᳓तिरभि क᳓निक्रदद्गा᳓ उत᳓ प्रा᳓स्तौदु᳓च्च विद्वाँ᳓ अगायत् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/091/03_haMsairiva_sakhibhirvAvadadbhirashmanmayAni.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
+
+Girt by his friends who cried with swanlike voices, bursting the stoney barriers of the prison, Brihaspati spake in thunder to the cattle, and uttered praise and. song when he had found them.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -652,15 +2446,54 @@ Brhaspati thundered towards the cows,
 And praised and sang in celebration perceiving them.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-हँ॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।   
-बृह॒स्पति॑रभि॒ कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ।   
+हं॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न्।  
+बृह॒स्पति॑रभि॒कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+हँ॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।   
+बृह॒स्पति॑रभि॒ कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+हंसैःऽइ॑व। सखि॑ऽभिः। वाव॑दत्ऽभिः। अ॒श्म॒न्ऽमया॑नि। नह॑ना। व‍ि॒ऽअस्य॑न्। बृह॒स्पतिः॑। अ॒भि॒ऽकनिक्रद॑त्। गाः। उ॒त। प्र। अ॒स्तौ॒त्। उत्। च॒। वि॒द्वान्। अ॒गा॒य॒त्। ९०.३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 हँ॒सैः । इ॒व॒ । सखि॑भि॒रिति॒ सखि॑-भिः॒ । वाव॑दद्भि॒रिति॒ वाव॑दत्-भिः॒ । अ॒श्म॒न्मया॒नीत्य॑श्मन्न्-मया॑नि । नह॑ना । व्यस्य॒न्निति॑ वि-अस्य॑न्न् ॥ बृह॒स्पतिः॑ । अ॒भि॒कनि॑क्रद॒दित्य॑भि-कनि॑क्रदत् । गाः । उ॒त । प्रेति॑ । अ॒स्तौ॒त्॒ । उदिति॑ । च॒ । वि॒द्वान् । अ॒गा॒य॒त्॒ ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृहस्पतिः
+- अयास्यः
+- त्रिष्टुप्
+- सूक्त-९१
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+परमात्मा के गुणों का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (हंसैः इव) हंसों के समान [विवेकी] (वावदद्भिः) स्पष्ट बोलते हुए (सखिभिः) मित्र पुरुषों द्वारा (अश्मन्मयानि) व्याप्तिवाले (नहना) बन्धनों [कठिन विघ्नों] को (व्यस्यन्) हटाते हुए, (अभिकनिक्रदत्) सब ओर उपदेश करते हुए (विद्वान्) विद्वान् (बृहस्पतिः) बृहस्पति [बड़े विद्वानों के स्वामी परमात्मा] ने (गाः) वेदवाणियों को (प्र अस्तौत्) प्रस्तुत किया है [सामने रक्खा है] (उत च) और भी (उत् अगायत्) ऊँचा गाया है ॥३॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जिस पक्षपातरहित परमात्मा ने प्रलय के भारी अन्धकार को मिटाकर विवेकी प्यारे भक्त ऋषियों द्वारा संसार के सुख के लिये वेदों को प्रकाशित किया है, उस जगदीश्वर की उपासना से अपने आत्मा में सब लोग प्रकाश करें ॥३॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ३−(हंसैरिव) हंसपक्षिवद्विवेकिभिः (सखिभिः) मित्रैः (वावदद्भिः) वद व्यक्तायां वाचि-यङ्लुकि शतृ। स्पष्टं कथयद्भिः (अश्मन्मयानि) अशू व्याप्तौ-मनिन्। व्याप्तिमन्ति (नहना) बन्धनानि। विघ्नकर्माणि (व्यस्यन्) विक्षिपन्। शिथिलयन् (बृहस्पतिः) बृहतां ब्रह्माण्डानां रक्षकः (अभिकनिक्रदत्) क्रदि आह्वाने रोदने च-यङ्लुकि, शतृ। आभिमुख्येन भृशमुपदिशन् (गाः) वेदवाणीः (उत) अपि (प्र अस्तौत्) प्रस्तुतवान् (उत्) उच्चैः (च) (विद्वान्) (अगायत्) उपदिष्टवान् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -668,8 +2501,7 @@ And praised and sang in celebration perceiving them.
 हंसैः हननशीलैः ज्ञानशीलैः शुद्धात्मभिः तैरिव सखिभिः समानख्यानैः ऋत्विग्भिः यावदर्थं वदद्बिः अश्मन्मयानि व्याप्तिमदुदकवन्ति । अयस्मयादित्वेनाश्मन्नलोपाभावः नहना नहनानि बन्धनानि मेघान् व्यस्यन् विविधं क्षिपन् प्रेरयन् बृहस्पतिः अभिकनिक्रदत् अभितस्स्तनयन् । दाधर्त्यादौ निपात्यते, शतर्यनुनासिकलोपः, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गाः अपः । उतशब्दश्चार्थे । प्रास्तौत् उच्च मेघसन्निधानादिना वृष्ट्याभिमुख्यवतीः कृतवान् उदगायच्च, उदक्षिपच्च अवर्षच्चेत्यर्थः । विद्वान् वर्षणोपायज्ञः । विद्वानेव प्रस्तोता उदगायदिति भावः । 'दीर्घादटि समानपादे' इति रुत्वम् ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -677,13 +2509,18 @@ And praised and sang in celebration perceiving them.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓न्द्र सानसिँ᳓ रयि᳓म् [43]  सजि᳓त्वानँ सदास᳓हम् ।   
-व᳓र्षिष्ठमूत᳓ये भर ।   
+व᳓र्षिष्ठमूत᳓ये भर ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/070/17_endra_sAnasim.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
+
+Indra, bring wealth that gives delight, the victor's ever-conquer- ing wealth, Most excellent, to be our aid;
+</details>
 
 <details><summary>Keith</summary>
 
@@ -692,24 +2529,81 @@ Victorious, bearing all,
 Highest for help, do thou bring.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
 
-एन्द्र॑ सान॒सिँ र॒यिम् [43]  स॒जित्वा॑नँ सदा॒सह॑म् ।   
-वर्षि॑ष्ठमू॒तये॑ भर ।   
+एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सह॑म्।  
+वर्षि॑ष्ठमू॒तये॑ भर ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+एन्द्र॑ सान॒सिँ र॒यिम् [43]  स॒जित्वा॑नँ सदा॒सह॑म् ।   
+वर्षि॑ष्ठमू॒तये॑ भर ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+एन्द्र॑ सान॒सिँ र॒यिम् ॥12॥  
+स॒जित्वा॑नँ सदा॒सह॑म् ।  
+वर्षि॑ष्ठमू॒तये॑ भर ।
+</details>
+
+<details><summary>पदपाठः</summary>
+
+आ। इ॒न्द्र॒। सा॒न॒सिम्। र॒यिम्। स॒ऽजित्वा॑नम्। स॒दा॒सऽह॑म्। वर्षि॑ष्ठम्। ऊ॒तये॑। भ॒र॒। ७०.१७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 एति॑ । इ॒न्द्र॒ । सा॒न॒सिम् । र॒यिम् । स॒जित्वा॑न॒मिति॑ स-जित्वा॑नम् । स॒दा॒सह॒मिति॑ सदा-सह॑म् ॥ वर्षि॑ष्ठम् । ऊ॒तये॑ । भ॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+ए᳓न्द्र । सानसि᳓म् । रयि᳓म् । सजि᳓त्वानम् । सदा-स᳓हम् । व᳓र्षिष्ठम् । ऊत᳓ये । भर ।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- मधुच्छन्दाः
+- गायत्री
+- सूक्त-७०
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+१०-२० परमेश्वर की उपासना का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्र) हे इन्द्र ! [परम ऐश्वर्यवाले जगदीश्वर] (सानसिम्) सेवनीय, (सजित्वानम्) जीतनेवालों के साथ वर्तमान, (सदासहम्) सदा वैरियों के हरानेवाले, (वर्षिष्ठम्) अत्यन्त बढ़े हुए (रयिम्) उस धन को (ऊतये) हमारी रक्षा के लिये (आ) सब ओर से (भर) भर ॥१७॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  सब मनुष्य परमेश्वर का आश्रय लेकर पुरुषार्थ के साथ विद्याओं द्वारा धन बढ़ावें और शरीर और बुद्धिबल तथा अश्व आदि सेना को दृढ़ करके शत्रुओं को जीतें ॥१७, १८॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   मन्त्र १७-२० ऋग्वेद में है-१।८।१-४ मन्त्र १७ साम०-पू० २।४। ॥  १७−(आ) समन्तात् (इन्द्र) परमैश्वर्यवन् जगदीश्वर (सानसिम्) अ० २०।१४।२। षण संभक्तौ-असिप्रत्ययः। सेवनीयम् (रयिम्) धनम् (सजित्वानम्) अन्येभ्योऽपि दृश्यन्ते। पा० ३।२।७। जि जये-क्वनिप्, सहस्य सभावः। जित्वभिर्जेतृभिः सह वर्तमानम् (सदासहम्) सर्वदा शत्रूणामभिभवितारम् (वर्षिष्ठम्) अ० ४।९।८। वृद्ध-इष्ठन्। अतिशयेन वृद्धम् (ऊतये) रक्षायै (भर) धर ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे इन्द्र सानसिं संभजनीयाम् । सनोतेरसिप्रत्ययः, वृद्धिश्च निपात्यते । रयिं धनं सजित्वानं सर्वानरीन् जेतुं शीलं यस्य । 'अन्येभ्योपि दृश्यते' इति जयतेः क्वनिप् । यद्वा - जेतृभिस्सहितम् । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । सदासहं सर्वकालमरीणामभिभवितारं वर्षिष्ठं वृद्धतरं अतिप्रभूतं ईदृशं रयिमस्मभ्यं आभर । 'हृग्रहोः' इति भः । ऊतये रक्षणाय तर्पणाय वा । 'ऊतियूति' इत्यादिना क्तिन उदात्तत्वं निपात्यते ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>भट्टभास्कर-टीका (ब्राह्मणम्)</summary>
+
+- एन्द्र॑ सान॒सिँ र॒यिम् [43]  स॒जित्वा॑नँ सदा॒सह॑म् ।   
+वर्षि॑ष्ठमू॒तये॑ भर ।   
+  -   टीका 11'इन्द्राय ज्येष्ठाय पुरोडाशमेकादशकपालं महाव्रीहीणाम्' इत्यस्य पुरोनुवाक्या - ऐन्द्रेति गायत्री ॥ हे इन्द्र सानसिं संभजनीयाम् । सनोतेरसिप्रत्ययः, वृद्धिश्च निपात्यते । रयिं धनं सजित्वानं सर्वानरीन् जेतुं शीलं यस्य । 'अन्येभ्योपि दृश्यते' इति जयतेः क्वनिप् । यद्वा - जेतृभिस्सहितम् । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । सदासहं सर्वकालमरीणामभिभवितारं वर्षिष्ठं वृद्धतरं अतिप्रभूतं ईदृशं रयिमस्मभ्यं आभर । 'हृग्रहोः' इति भः । ऊतये रक्षणाय तर्पणाय वा । 'ऊतियूति' इत्यादिना क्तिन उदात्तत्वं निपात्यते ॥
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -717,13 +2611,301 @@ Highest for help, do thou bring.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ ससाहिषे पुरुहूत श᳓त्रूञ्ज्ये᳓ष्ठस्ते शु᳓ष्म इह᳓ राति᳓रस्तु ।   
-इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि प᳓तिस्सि᳓न्धूनामसि रेव᳓तीनाम् ।   
+इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि प᳓तिस्सि᳓न्धूनामसि रेव᳓तीनाम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/180/01_pra_sasAhiShe.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - जय ऐन्द्रः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प्र᳓ ससाहिषे पुरुहूत श᳓त्रूञ्  
+ज्ये᳓ष्ठस् ते शु᳓ष्म इह᳓ राति᳓र् अस्तु  
+इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि  
+प᳓तिः सि᳓न्धूनाम् असि रेव᳓तीनाम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+prá ← prá (invariable)  
+{}
+
+puruhūta ← puruhūtá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+sasāhiṣe ← √sah- (root)  
+{number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+
+śátrūn ← śátru- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+ihá ← ihá (invariable)  
+{}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rātíḥ ← rātí- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+śúṣmaḥ ← śúṣma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dákṣiṇena ← dákṣiṇa- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vásūni ← vásu- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pátiḥ ← páti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+revátīnām ← revánt- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+síndhūnām ← síndhu- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।  
+इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पतिः॒ सिन्धू॑नामसि रे॒वती॑नाम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
+इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+प्रस॑साहिषे पुरुहूत॒ शत्रू॑न् ।  
+ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।  
+इन्द्राभ॑र॒ दक्षि॑णेना॒ वसू॑नि ।  
+पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । स॒स॒हि॒षे॒ । पु॒रु॒ऽहू॒त॒ । शत्रू॑न् । ज्येष्ठः॑ । ते॒ । शुष्मः॑ । इ॒ह । रा॒तिः । अ॒स्तु॒ ।  
+इन्द्र॑ । आ । भ॒र॒ । दक्षि॑णेन । वसू॑नि । पतिः॑ । सिन्धू॑नाम् । अ॒सि॒ । रे॒वती॑नाम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+प्रेति॑ । स॒सा॒हि॒षे॒ । पु॒रु॒हू॒तेति॑ पुरु-हू॒त॒ । शत्रून्॑ । ज्येष्ठः॑ । ते॒ । शुष्मः॑ । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥ इन्द्र॑ । एति॑ । भ॒र॒ । दक्षि॑णेन । वसू॑नि । पतिः॑ । सिन्धू॑नाम् । अ॒सि॒ । रे॒वती॑नाम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+प्र᳓ । ससाहिषे । पुरु-हूत । श᳓त्रून् । ज्ये᳓ष्ठः । ते । शु᳓ष्मः । इह᳓ । रातिः᳓ । अस्तु । इ᳓न्द्रा । भर । द᳓क्षिणेना । व᳓सूनि । प᳓तिः । सि᳓न्धूनाम् । असि । रेव᳓तीनाम् ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *sasāhiṣe* ← *sah*
+- \[verb\], singular, Perfect indicative
+- “endure; overcome; habituate.”
+
+_________
+
+- *puruhūta*
+- \[noun\], vocative, singular, masculine
+- “Indra; Vishnu.”
+
+_________
+
+- *śatrūñ* ← *śatrūn* ← *śatru*
+- \[noun\], accusative, plural, masculine
+- “enemy; foe; enemy; Asura.”
+
+_________
+
+- *jyeṣṭhas* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
+- \[noun\], nominative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *śuṣma* ← *śuṣmaḥ* ← *śuṣma*
+- \[noun\], nominative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+
+_________
+
+- *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+
+_________
+
+- *rātir* ← *rātiḥ* ← *rāti*
+- \[noun\], nominative, singular, feminine
+- “gift; bounty; favor.”
+
+_________
+
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *indrā* ← *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+
+_________
+
+- *dakṣiṇenā* ← *dakṣiṇa*
+- \[noun\], instrumental, singular, masculine
+- “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
+    clockwise; deft.”
+
+_________
+
+- *vasūni* ← *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+
+_________
+
+- *patiḥ* ← *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *sindhūnām* ← *sindhu*
+- \[noun\], genitive, plural, feminine
+- “river; Indus; sindhu \[word\].”
+
+_________
+
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *revatīnām* ← *revat*
+- \[noun\], genitive, plural, feminine
+- “abundant; rich; affluent; brilliant; brilliant.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+पुरुहूत- बहुभिर्हूत इन्द्र। शत्रून्- वृत्राणि। प्र- प्रकर्षेण। ससाहिषे- अभिभवसि। ते- तव। शुष्मः-  बलम्। इह- अत्र। रातिः- मम दानम्। अस्तु- भवतु। इन्द्र- ईशनाधिदैवत। वसूनि- सम्पदः।  दक्षिणेन- सामर्थ्येन। आ भर- आहर। रेवतीनाम्- सम्पद्भूतानाम्। सिन्धूनाम्- स्यन्दमानानां  मूलशक्तिधाराणाम्। पतिः- पालकः। असि- भवसि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **पुरुहूत** बहुभिराहूतेन्द्र **शत्रून्** वैरिणः **प्र** **ससाहिषे** प्रकर्षेणाभिभवसि । **ते** तव **शुष्मः** शोषकं बलं **ज्येष्ठः** प्रशस्यतमं वृद्धतमं वा भवति । **इह** अस्मिन् कर्मणि **रातिः** तव दानम् **अस्तु** अस्मभ्यं भवतु । तदर्थं हे **इन्द्र** **दक्षिणेन** हस्तेन **वसूनि** धनानि **आ** **भर** आहर आनय । त्वं **रेवतीनां** रयिमतीनां बहुधनानां **सिन्धूनां** स्यन्दनशीलानां नदीनां **पतिः** **असि** स्वामी भवसि ॥ रयिशब्दान्मतुपि  ‘ रयेर्मतौ बहुलम्' इति संप्रसारणम् ।  ‘ छन्दसीरः इति मतुपो वत्वम् । रेशब्दाच्च°' (का. ६.१.१७६.१ ) इति तस्योदात्तत्वम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे पुरुहूत! बहुषु यज्ञेष्वाहूयमान! इन्द्र! शत्रून् प्रकर्षेण ससाहिषे अभिभूतवानसि । ते शुष्मः बलं ज्येष्ठः अत्यन्तप्रवृद्धः । इह अस्मिन्कर्मणि रातिः त्वदीयं धनं अस्तु । हे इन्द्र! दक्षिणेन हस्तेन वसूनि धनानि आभर । त्वं तु रेवतीनां धनयुक्तानां संपदां सिन्धूनां रत्नाधाराणां समुद्राणां पतिः पालकोऽसि ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (ब्राह्मणम्)</summary>
+
+- मन्त्रः प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
+इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।   
+  -   टीका 12तत्रैव याज्या - प्र ससाहिषे इति त्रिष्टुप् ॥ हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Indra**, invoked of many, you triumph over your enemies; pre-eminent is your strength, may yourgenerosity be shown on this occasion; bring treasures with your right **hand**; you are the lord of thewealth-conveying rivers.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O much-summoned one, you have vanquished your rivals. Your  
+tempestuous power is preeminent. Now let your giving be here:  
+Indra, bring good things here along with the priestly gift. You are the  master of rich rivers.
+</details>
+
+<details><summary>Griffith</summary>
+
+O MUCH-INVOKED, thou hast subdued thy foemen: thy might is loftiest; here display thy bounty.  
+     In thy right hand, O Indra, bring us treasures: thou art the Lord of rivers filled with riches.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -732,24 +2914,58 @@ Bring riches with thy right (hand), O Indra,
 Thou art the lord of rich rivers.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।   
-इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पति॒स्सिन्धू॑नामसि रे॒वती॑नाम् ।   
+Du Vielgerufener hast die Feinde bezwungen. Dein Mut ist der größte, hier soll deine Gabe sein! Bring, Indra, mit der Rechten Schätze; du bist der Herr der reichen Ströme!
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-प्रेति॑ । स॒सा॒हि॒षे॒ । पु॒रु॒हू॒तेति॑ पुरु-हू॒त॒ । शत्रून्॑ । ज्येष्ठः॑ । ते॒ । शुष्मः॑ । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥ इन्द्र॑ । एति॑ । भ॒र॒ । दक्षि॑णेन । वसू॑नि । पतिः॑ । सिन्धू॑नाम् । अ॒सि॒ । रे॒वती॑नाम् ॥
+Du vielgerufner hast besiegt die Feinde, aufs beste sei hier deine Kraft und Gabe, Bring' in der Rechten Schätze her, o Indra, du bist der Herr der güterreichen Ströme.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
+Ты, о многопризываемый, подавил врагов.  
+Твоя отвага самая лучшая. Здесь пусть будет (твой) дар!  
+О Индра, принеси блага правою (рукою)!  
+Ты повелитель богатых рек.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- जयः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+इस सूक्त में राजा कैसे संग्राम करे, यह कहा है, वहाँ बलप्रदर्शन करना प्रजारक्षण भी करना, शत्रु को देखते ही दण्डित करना आदि कहे हैं।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (पुरुहूत-इन्द्र) हे बहुत प्रकार से आमन्त्रण करने योग्य राजन् ! (शत्रून्) शत्रुओं को (प्र ससाहिषे) प्रकृष्टरूप से अभिभव करता है दबाता है (ते शुष्मः) तेरा बल (ज्येष्ठः) भारी है (इह) इस अवसर पर (रातिः) हमारे लिए बलदान होवे तथा (दक्षिणेन) वृद्धि करनेवाले हाथ से (वसूनि) धनों को (आभर) हमारे लिए भरपूर कर (सिन्धूनाम्) स्यन्दमान (रेवतीनाम्) लाभ देनेवाली नदियों की भाँति प्रशस्त शोभाधनवाली प्रजाओं का (पतिः-असि) तू स्वामी है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  राजा शत्रुओं को अभिभव करनेवाला-दबानेवाला हो, उसका बल महान् हो, वह प्रजाओं के लिए यथायोग्य धन आदि देनेवाला हो ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+सूक्तेऽत्र राज्ञा संग्रामः कथं कर्तव्य इत्युच्यते तत्र बलप्रदर्शनं प्रजारक्षणं चापि कर्तव्यं शत्रुं पश्यन्नेव प्रहरेदित्येवमादयो विषयाः सन्ति।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (पुरुहूत-इन्द्र) हे बहुप्रकारेण आह्वातव्य राजन् ! (शत्रून् प्रससाहिषे) वैरिणः प्रकर्षेण सहसेऽभिभवसि “बहुलं छन्दसि” [अष्टा० १।४।७६] इति श्लु लेटि (ते शुष्मः-ज्येष्ठः) ते बलं ज्येष्ठं महदस्ति (इह रातिः-अस्तु) अस्मिन्नवसरेऽस्मभ्यं बलदानं भवतु तथा (दक्षिणेन वसूनि-आभर) वृद्धिकरेण हस्तेन धनानि-अस्मभ्यमापूरय (सिन्धूनां-रेवतीनां पतिः-असि) स्यन्दमानानां नदीनामिव लाभदायिनीनां प्रशस्तशोभाधनवतीनां प्रजानाम् “रेवतीः-रविशोभा-धनं प्रशस्तं विद्यते यासु ताः प्रजाः” [ऋ० १।३०।१३ दयानन्दः] पतिरसि ॥१॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -757,13 +2973,18 @@ Thou art the lord of rich rivers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वँ᳓ सुत᳓स्य पीत᳓ये सद्यो᳓ वृद्धो᳓ अजायथाः ।   
 इ᳓न्द्र ज्यै᳓ष्ठ्याय सुक्रतो ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/069/04_tvaM_sutasya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Griffith</summary>
+
+Thou, grown at once to perfect strength, wast born to drink the Soma juice, strong Indra, for preeminence.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -772,15 +2993,54 @@ For the drinking of (Soma) when pressed,
 O Indra, O wise one, for pre-eminence.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः।  
+इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 त्वँ सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः ।   
 इन्द्र॒ ज्यैष्ठ्या॑य सुक्रतो ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+त्वम्। सु॒तस्य॑। पी॒तये॑। स॒द्यः। वृ॒द्धः। अ॒जा॒य॒थाः॒। इन्द्र॑। ज्यैष्ठ्या॑य। सु॒क्र॒तो॒ इति॑ सुऽक्रतो। ६९.४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । सु॒तस्य॑ । पी॒तये॑ । स॒द्यः । वृ॒द्धः । अ॒जा॒य॒थाः॒ ॥ इन्द्र॑ । ज्यैष्ठ्या॑य । सु॒क्र॒तो॒ इति॑ सु-क्र॒तो॒ ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः
+- मधुच्छन्दाः
+- गायत्री
+- सूक्त-६९
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+१-८ पराक्रमी मनुष्य के लक्षणों का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सुक्रतो) हे श्रेष्ठ कर्म और बुद्धिवाले (इन्द्र) इन्द्र ! [बड़े प्रतापी मनुष्य] (त्वम्) तू (सद्यः) शीघ्र (सुतस्य) तत्त्वरस के (पीतये) पीने के लिये और (ज्येष्ठ्याय) प्रधानपन के लिये (वृद्धः) वृद्धियुक्त पण्डित (अजायथाः) हुआ है ॥४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य तीव्रबुद्धि होकर शीघ्र तत्त्व को ग्रहण करते हैं, वे ही संसार में बड़े पद के योग्य होते हैं ॥४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ४−(त्वम्) (सुतस्य) निष्पादितस्य तत्त्वरसस्य (पीतये) पानाय। ग्रहणाय (सद्यः) शीघ्रम् (वृद्धः) वृद्धियुक्तः पण्डितः (अजायथाः) प्रसिद्धोऽभवः (इन्द्र) महाप्रतापिन् मनुष्य (ज्यैष्ठ्याय) गुणवचनब्राह्मणादिभ्यः कर्मणि च। पा० ।१।१२४। ज्येष्ठ-ष्यञ्। प्रधानत्वप्राप्तये (सुक्रतो) श्रेष्ठकर्मबुद्धियुक्त ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -788,8 +3048,7 @@ O Indra, O wise one, for pre-eminence.
 हे इन्द्र त्वं सुतस्याभिषुतस्य सोमस्य पीतये सद्यो वृद्धो अजायथाः सर्वेषां ज्येष्ठभावाय [वः] तव भवति । हे सुक्रतो सुकर्मन् । तस्मात्सर्वज्येष्ठं त्वामेव यजामहे इति ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -797,13 +3056,283 @@ O Indra, O wise one, for pre-eminence.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुव᳓स्त्व᳓मिन्द्र ब्र᳓ह्मणा महा᳓न्भु᳓वो वि᳓श्वेषु स᳓वनेषु यज्ञि᳓यः ।   
 भु᳓वो नॄँ᳓श्च्यौत्नो᳓ वि᳓श्वस्मिन्भ᳓रे ज्ये᳓ष्ठश्च म᳓न्त्रः [44]  विश्वचर्षणे ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/050/04_bhuvastvamindra_brahmaNA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रो वैकुंठः
+- ऋषिः - इन्द्रो वैकुंठः
+- छन्दः - अभिसारिणी
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+भु᳓वस् तुव᳓म् इन्दर+ ब्र᳓ह्मणा महा᳓न्  
+भु᳓वो वि᳓श्वेषु स᳓वनेषु यज्ञि᳓यः  
+भु᳓वो नॄँ᳓श् च्यौतनो᳓ वि᳓श्वस्मिन् भ᳓रे  
+ज्य᳓यिष्ठश्+ च · म᳓न्त्रो विश्वचर्षणे
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mahā́n ← mahā́nt- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+sávaneṣu ← sávana- 1 (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+víśveṣu ← víśva- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+yajñíyaḥ ← yajñíya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bháre ← bhára- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+bhúvaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+cyautnáḥ ← cyautná- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nr̥̄́n ← nár- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+víśvasmin ← víśva- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+jyéṣṭhaḥ ← jyéṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mántraḥ ← mántra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+भुव॒स्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।  
+भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रो॑ विश्वचर्षणे ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+भु॒वस्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।   
+भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रः॑ [44]  वि॒श्व॒च॒र्ष॒णे॒ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । त्वम् । इ॒न्द्र॒ । ब्रह्म॑णा । म॒हान् । भुवः॑ । विश्वे॑षु । सव॑नेषु । य॒ज्ञियः॑ ।  
+भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒ऽच॒र्ष॒णे॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+भुवः॑ । त्वम् । इ॒न्द्र॒ । ब्रह्म॑णा । म॒हान् । भुवः॑ । विश्वे॑षु । सव॑नेषु । य॒ज्ञियः॑ ॥ भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒च॒र्ष॒ण॒ इति॑ विश्व-च॒र्ष॒णे॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *bhuvas* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+
+_________
+
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *brahmaṇā* ← *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+
+_________
+
+- *mahān* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+
+_________
+
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *viśveṣu* ← *viśva*
+- \[noun\], locative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *savaneṣu* ← *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+
+_________
+
+- *yajñiyaḥ* ← *yajñiya*
+- \[noun\], nominative, singular, masculine
+- “sacrificial; divine; devoted.”
+
+_________
+
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *nṝṃś* ← *nṝn* ← *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+
+_________
+
+- *cyautno* ← *cyautnaḥ* ← *cyautna*
+- \[noun\], nominative, singular, masculine
+- “animating.”
+
+_________
+
+- *viśvasmin* ← *viśva*
+- \[noun\], locative, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *bhare* ← *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+
+_________
+
+- *jyeṣṭhaś* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
+- \[noun\], nominative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *mantro* ← *mantraḥ* ← *mantra*
+- \[noun\], nominative, singular, masculine
+- “mantra; Mantra; consultation; advice; consultation; mantra
+    \[word\]; speech; plan.”
+
+_________
+
+- *viśvacarṣaṇe* ← *viśvacarṣaṇi*
+- \[noun\], vocative, singular, masculine
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ब्रह्मणा- ऋषिमेधया। इन्द्र- परमेश्वर। त्वम्। महान्- महात्मा। भुवः- अभवः। विश्वेषु- सर्वेषु।  सवनेषु- सम्भजनेषु। यज्ञियः- पूज्यः। भुवः- अभवः। विश्वस्मिन्- सर्वस्मिन्। भरे- निर्वाहे च।  नॄन्- शत्रूणाम्। च्यौत्नः- च्यावयिता। भुवः। विश्वचर्षणे- सर्वद्रष्टः। ज्येष्ठः- मुख्यः। मन्त्रः-  मननत्राता अभवः॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **त्वं** **ब्रह्मणा** अस्मत्कृतेन परिवृढेन स्तोत्रेण **महान्** **भुवः** अभवः। भवतेर्लेटि  ‘ भूसुवोस्तिङि ' इति गुणप्रतिषेध उवङादेशः । तथा **विश्वेषु** सर्वेषु **सवनेषु** **यज्ञियः** यष्टव्यः **भुवः** अभवः । तथा **विश्वस्मिन्** सर्वस्मिन् **भरे** संग्रामे **नॄन्** नेतॄणां शत्रूणां **च्यौत्नः** च्यावयिता भुवः । हे **विश्वचर्षणे** सर्वस्य द्रष्टरिन्द्र **मन्त्रः** मन्त्रयितव्यस्त्वं **ज्येष्ठश्च** अभवः सर्वेषां मध्ये ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे इन्द्र त्वं कर्म, ब्रह्मणा परिबृढेन श्रोत्रेण वा महान् भुवः असि सर्वैस्स्तूयमनो वर्धसे इत्यर्थः स्तूयमानानि तेजांसि वर्धन्ते । भवतेर्लेटि शपो लुक्, लेटोडागमः, 'भूसुवोस्तिङि' इति गुणाभावः पादादित्वान्न निहन्यते । भवसि च विश्वेषु सवनेषु यज्ञेषु यज्ञियः यागार्हः । 'यज्ञर्त्विग्भ्याम्' इति घः । विश्वस्मिन् भरे संग्रामे नॄन् नॄणां शत्रूणां च्यौत्नः च्यावयिता विनाशयिता । च्यवतेरौणादिकोत्नप्रत्ययः, वृद्धिश्चातोः । नृशब्दात् 'कर्तृकर्मणोः' इति षष्ठी व्यत्ययेन न प्रवर्तते । हे विश्वचर्षणे सर्वमनुष्यबद्धेऽपि मनुष्यास्त्वयि भवन्ति सत्त्वेन । यद्वा - विश्वस्य द्रष्टः, मन्त्रः मन्द्रः मननीत्यः स्तुतो वा । तस्मात्त्वमसि ज्येष्ठो भवसि च सर्वेषाम् । चशब्देन भुव इत्यनुकृष्यते ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Indra**, you have become mighty through our praise; you have have become adorable at all sacrifices,in every combat you are the caster down of the leaders (of hosts); beholder of all, you are the best, mostexcellent.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+You will become great through our sacred formulation, Indra.  
+You will become the worthy recipient of the sacrifice at all the  
+soma-pressings.  
+You will become the stirring of men in every contest and the supreme  mantra, o you who are common to all domains.
+</details>
+
+<details><summary>Griffith</summary>
+
+Thou, Indra, through the holy prayer art mighty, worthy of sacrifice at all libations.  
+     In every fight thou castest heroes on the ground: thou art the noblest song, O Lord of all the folk.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -812,24 +3341,48 @@ To be adored at every pressing;
 Thou art an overthrower of men in every conflict, And highest song [4], O lord of all the people.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Geldner</summary>
 
-भु॒वस्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।   
-भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रः॑ [44]  वि॒श्व॒च॒र्ष॒णे॒ ।
+Du, Indra, wardst groß durch die erbauliche Rede, du wardst bei allen Trankopfern der Opferwürdige. Du wardst der Aufrüttler der Männer in jedem Kampf und der beste Rat, du Allbekannter.
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>Grassmann</summary>
 
-भुवः॑ । त्वम् । इ॒न्द्र॒ । ब्रह्म॑णा । म॒हान् । भुवः॑ । विश्वे॑षु । सव॑नेषु । य॒ज्ञियः॑ ॥ भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒च॒र्ष॒ण॒ इति॑ विश्व-च॒र्ष॒णे॒ ॥
+Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hochverehrt uns sein, In jedem Kampfe rege du die Männer an, als herrlichster Berather, allbeliebter du.
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Elizarenkova</summary>
 
-हे इन्द्र त्वं कर्म, ब्रह्मणा परिबृढेन श्रोत्रेण वा महान् भुवः असि सर्वैस्स्तूयमनो वर्धसे इत्यर्थः स्तूयमानानि तेजांसि वर्धन्ते । भवतेर्लेटि शपो लुक्, लेटोडागमः, 'भूसुवोस्तिङि' इति गुणाभावः पादादित्वान्न निहन्यते । भवसि च विश्वेषु सवनेषु यज्ञेषु यज्ञियः यागार्हः । 'यज्ञर्त्विग्भ्याम्' इति घः । विश्वस्मिन् भरे संग्रामे नॄन् नॄणां शत्रूणां च्यौत्नः च्यावयिता विनाशयिता । च्यवतेरौणादिकोत्नप्रत्ययः, वृद्धिश्चातोः । नृशब्दात् 'कर्तृकर्मणोः' इति षष्ठी व्यत्ययेन न प्रवर्तते । हे विश्वचर्षणे सर्वमनुष्यबद्धेऽपि मनुष्यास्त्वयि भवन्ति सत्त्वेन । यद्वा - विश्वस्य द्रष्टः, मन्त्रः मन्द्रः मननीत्यः स्तुतो वा । तस्मात्त्वमसि ज्येष्ठो भवसि च सर्वेषाम् । चशब्देन भुव इत्यनुकृष्यते ॥
+Ты стал великим, о Индра, благодаря священному слову,  
+Ты стал достойным жертв на всех выжиманиях (сомы).  
+Ты был вдохновителем мужей в каждой битве  
+И лучшим советчиком, о принадлежащий всем народам.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रो वैकुण्ठः
+- इन्द्रो वैकुण्ठः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्र) हे ऐश्वर्यवन् परमात्मन् ! (त्वम्) तू (ब्रह्मणा महान् भुवः) वेदज्ञान से महान् है (विश्वेषु सवनेषु यज्ञियः-भुवः) सब सम्पादनीय ब्रह्मचर्य, गृहस्थ, संन्यास आश्रमों में सङ्गमनीय है (नॄन्-च्यौत्नः-भुवः) मुमुक्षों के प्रति रागादियों को हटानेवाला बलवान् है (विश्वचर्षणे) हे सर्वद्रष्टा परमात्मन् ! (विश्वस्मिन् भरे ज्येष्ठः-मन्त्रः-च) सम्पूर्ण भरणीय-धारणीय-निर्वाह करने योग्य वस्तुओं में तू ज्येष्ठ मन्त्रप्रद और ज्ञानप्रद है ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा महान् ज्ञानवान् है। सब आश्रमियों के समागम योग्य है। मुमुक्षुओं के अन्दर से रागादि दोषों को हटानेवाला है ।समस्त भरण करनेवाले पदार्थों में ज्येष्ठ और ज्ञानप्रद है ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्र) हे ऐश्वर्यवन् परमात्मन् ! (त्वम्) (ब्रह्मणा महान् भुवः) ज्ञानेन वेदज्ञानेन महान् भवसि (विश्वेषु सवनेषु यज्ञियः-भुवः) सर्वेषु सम्पादनीयेषु ब्रह्मचर्यगृहस्थवानप्रस्थसंन्यासाश्रमेषु सङ्गमनीयो भवसि (नॄन्-च्यौत्नः-भुवः) मुमुक्षून् प्रति रागादीन् च्योतयिता बलवान्  भवसि (विश्वचर्षणे) हे सर्वद्रष्टः परमात्मन् ! (विश्वस्मिन् भरे ज्येष्ठः-मन्त्रः-च) सर्वस्मिन् भरणीये धारणीये निर्वाहके त्वं ज्येष्ठः श्रेष्ठो मन्त्रयिता मन्त्रप्रदः-ज्ञानप्रदो भवसि ॥४॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -915,7 +3468,6 @@ True, and most varied in fame.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
-
 <details><summary>Keith</summary>
 
 Mitra stirreth men, the wise one,  
@@ -945,7 +3497,6 @@ To the true one, let us offer an oblation rich in ghee.
 
 तस्मात् तस्मै सत्यायामोघ-फलाय देवाय **हव्यं** चरुलक्षणं **घृतवत्** घृतसंयुक्तं **विधेम** कुर्मः ददाम इत्यर्थः । विदधातिर्दानकर्मा, विध विधाने, तौदादिकः ॥
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -968,17 +3519,6 @@ To the true one, let us offer an oblation rich in ghee.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Rich in food be that mortal, O Mitra,  
-Who, O Aditya, seeks to follow thy law;  
-Aided by thee he is not slain nor oppressed;  
-Affliction cometh to him neither from near nor from afar.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1276,6 +3816,14 @@ Foremost be he who brings thee food, O Mitra, who strives to keep thy sacred Law
      He whom thou helpest ne'er is slain or conquered, on him, from near or far, falls no affliction.
 </details>
 
+<details><summary>Keith</summary>
+
+Rich in food be that mortal, O Mitra,  
+Who, O Aditya, seeks to follow thy law;  
+Aided by thee he is not slain nor oppressed;  
+Affliction cometh to him neither from near nor from afar.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Let him who, Mitra, brings thee food be foremost. Who to thy law, O Āditya, pays homage. Aided by thee no man is slain or vanquished; To him from near or far no trouble reaches.
@@ -1367,16 +3915,6 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Whatever [5] law of thine, as men,  
-O god Varuna,  
-Day by day we transgress.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1573,6 +4111,13 @@ WHATEVER law of thine, O God, O Varuna, as we are men,
      Day after day we violate.
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever [5] law of thine, as men,  
+O god Varuna,  
+Day by day we transgress.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn wir gleich Tag für Tag wie die Untertanen dein Gebot übertreten, Gott Varuna,
@@ -1664,17 +4209,6 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Whatever wrong we mortals here do  
-Against the host divine,
-Whatever breach of thy laws we make through lack of thought,  
-For that sin, O god, harm us not.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1953,6 +4487,14 @@ O Varuna, whatever the offence may be which we as men commit against the heavenl
      When through our want of thought we violate thy laws, punish us not, O God, for that iniquity.
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever wrong we mortals here do  
+Against the host divine,
+Whatever breach of thy laws we make through lack of thought,  
+For that sin, O god, harm us not.
+</details>
+
 <details><summary>Geldner</summary>
 
 Was wir Menschen auch als Frevel am göttlichen Volke hier begehen, o Varuna, wenn wir unwissentlich deine Gesetze gestört haben, so sollst du um dieser Sünde willen uns nicht zu Schaden bringen, o Gott.
@@ -2015,17 +4557,6 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-As gamesters cheat in dicing,  
-What we know in truth or what we know not,  
-All that do thou, O god, loosen as it were,  
-And may we be dear to thee, O Varuna.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2348,6 +4879,14 @@ unbind all these things (so they will be) like loose things, o god. Then  would 
 
 If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,  
      Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
+</details>
+
+<details><summary>Keith</summary>
+
+As gamesters cheat in dicing,  
+What we know in truth or what we know not,  
+All that do thou, O god, loosen as it were,  
+And may we be dear to thee, O Varuna.
 </details>
 
 <details><summary>Geldner</summary>

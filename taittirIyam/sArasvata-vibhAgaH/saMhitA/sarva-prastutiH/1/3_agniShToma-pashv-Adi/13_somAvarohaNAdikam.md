@@ -376,6 +376,7 @@ Hearken, ye pressing stones, to the sacrifice of me the wise one, Let the god Sa
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+
 समिध्यतेनयाग्निरिति समिधाज्याहुतिरुच्यते । इन्धेः क्विप्, अनुनासिकलोपः, कृदुत्तरपदप्रकृतिस्वरत्वम् । अनया सन्दीप्त्या आज्याहुत्या तृप्तोग्निर्मदीयं हवमाह्वानं शृणोतु । 'बहुलं छन्दसि' इति ह्वयतेः प्राक्प्रत्ययोत्पत्तेस्सम्प्रसारणे कृते 'ऋदोरप्' इत्यप् । यद्वा - 'भावेनुपसर्गस्य' इत्यप्सम्प्रसारणं च ।  
  किञ्च - याश्चापो मया गृहीष्यन्ते ताश्चानयाहुत्या मम हवं शृण्वन्तु । कीदृश्यः । **धिषणाः** धृष्टाः याग-सम्पादन-निपुणाः । 'धृषेर्धिष च संज्ञायाम्' इति क्युप्रत्ययः । **देवीः** देव्यः दानादिगुणयुक्ताः । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् ।  
 यद्वा - **धिषणाः** विद्याः, 'विद्या वै धिषणा' इति । दानादिगुणयुक्ताश्च शृण्वन्त्विति । चशब्देन तासां समुच्चयः ।   
@@ -411,8 +412,7 @@ ________
 
 देवी॑रापो अपान्नपा॒द्य ऊ॒र्मिर्ह॑वि॒ष्य॑ इन्द्रि॒यावा॑न्म॒दिन्त॑मः
 तन्दे॒वेभ्यो॑ देव॒त्रा ध॑त्त
-</details>
-
+</details> 
 <details><summary>Keith</summary>
 
 Ye divine waters, child of the waters, that wave,  
@@ -428,6 +428,7 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 शु॒क्रँ शु॑क्र॒पेभ्यो॒ येषा॑म् भा॒गस्स्थ । 
 </details>
 
+
 <details><summary>पद-पाठः</summary>
 
 देवीः॑ । आ॒पः॒ । अ॒पा॒म् । न॒पा॒त् । यः । ऊ॒र्मिः । ह॒वि॒ष्यः॑ ।   
@@ -440,6 +441,8 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
+
+
 
 - [ हे देवीरापः । 'विभाषितं विशेषवचने बहुवचनम्' इति पूर्वस्य विद्यमानत्वात् आप इति निहन्यते । हे अपां नपात् - चतुर्थो नप्ता; अपां नप्तः; अग्नेराहुतिः, आहुत्या आदित्यः, आदित्याद्वृष्टिः; अद्भ्य ओषधयः, ओषधीभ्योन्नं, अन्नादग्निः, इत्युभयथापि अपान्नपात् अग्निः । न पातयतीति नपात्, क्विपि णिलोपः, नञ्समासे 'नभ्राण्नपात्' इति नलोपाभावः; आपो इत्यस्य संहितायां 'आपो जुषाणः' इत्यादिना प्रकृतिभावः, 'सुबामन्त्रिते पराङ्गवत्सरे' इत्यपामित्यस्य पराङ्गवद्भावः, तेन षष्ठ्यामन्त्रितसमुदायो निहन्यते । युष्मदीयो य ऊर्मिर्हविष्यः । हविरर्हतीति 'छन्दसि च' इति यत्प्रत्ययः । इन्द्रियावान् वीर्यवान् । 'मन्त्रे सोमाश्वेन्द्रिय' इति दीर्घः । मदिन्तमः मादयितृतमः । मदी हर्षे, अस्मादन्तर्भावितण्यर्थात् 'शमित्यष्टाभ्यो घिनुण्' इति घिनुण्, घटादित्वात् 'मितां ह्रस्वः' इति ह्रस्वत्वम्, 'नाद्घस्य' इति तमपो नुडागमः ।]
 
@@ -581,15 +584,80 @@ ________
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/027/07_yamagne_pRtsu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
+- देवता - अग्निः
+- ऋषिः - शुनःशेप आजीगर्तिः
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+य᳓म् अग्ने पृत्सु᳓ म᳓र्तियम्  
+अ᳓वा वा᳓जेषु यं᳓ जुनाः᳓  
+स᳓ य᳓न्ता श᳓श्वतीर् इ᳓षः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+mártyam ← mártya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+pr̥tsú ← pŕ̥t- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+ávāḥ ← √avⁱ- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+junā́ḥ ← √jū- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+vā́jeṣu ← vā́ja- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+íṣaḥ ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+śáśvatīḥ ← śáśvant- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+yántā ← √i- 1 (root)  
+{case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॑ग्ने पृ॒त्सु मर्त्य॒मवा॒ वाजे॑षु॒ यं जु॒नाः ।  
+स यन्ता॒ शश्व॑ती॒रिषः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यम॑ग्ने पृ॒त्सु मर्त्य॒मावो॒ वाजे॑षु॒ यञ्जु॒नाः ।    
 स यन्ता॒ शश्व॑ती॒रिषः॑ ॥ [23]
@@ -597,12 +665,221 @@ That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast streng
 
 <details><summary>पद-पाठः</summary>
 
+यम् । अ॒ग्ने॒ । पृ॒त्ऽसु । मर्त्य॑म् । अवाः॑ । वाजे॑षु । यम् । जु॒नाः ।  
+सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 यम् । अ॒ग्ने॒ । पृ॒त्स्विति॑ पृत्-सु । मर्त्य॑म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *pṛtsu* ← *pṛt*
+- \[noun\], locative, plural, feminine
+- “battle.”
+
+_________
+
+- *martyam* ← *martya*
+- \[noun\], accusative, singular, masculine
+- “man; people; martya \[word\]; Earth.”
+
+_________
+
+- *avā* ← *avāḥ* ← *av*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “support; help; prefer; prefer; like.”
+
+_________
+
+- *vājeṣu* ← *vāja*
+- \[noun\], locative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+
+_________
+
+- *yaṃ* ← *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *junāḥ* ← *jū*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “animate; encourage; impel; inspire.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *yantā* ← *yam*
+- \[verb\], singular, periphrast. future
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+
+_________
+
+- *śaśvatīr* ← *śaśvatīḥ* ← *śaśvat*
+- \[noun\], accusative, plural, feminine
+- “all(a); each(a).”
+
+_________
+
+- *iṣaḥ* ← *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। यम्। मर्त्यं- मनुष्यम्। पृत्सु- युद्धेषु। अवाः- अवसि पालयसि। यं। वाजेषु- युद्धेषु।  जुनाः- प्रेरयसीति सायणः। जू इति गत्यर्थः। सः। शश्वतीः- नित्यानाम्। इषः- कामनानाम्।  यन्ता- नियन्ता भवति। सर्वभूतहितक्रतुप्रेरितः सर्वभूतहिताय यो विघ्नभूतशक्तिभिः युद्धं करोति सः  कामनानां नियन्ता भवतीति भावः॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** पृत्सु संग्रामेषु **यं** **मर्त्यं** यजमानम् **अवाः** अवसि रक्षसि । **यं** पुरुषं **वाजेषु** संग्रामेषु **जुनाः** प्रेरयसि । **सः** नरो यजमानः **शश्वतीरिषः** नित्यान्यन्नानि **यन्ता** नियन्तुं समर्थो भवति ॥ पृत्सु । ' पदादिषु मांस्पृत्स्नूनामुपसंख्यानम् ' ( पा. सू. ६. १. ६३. १ ) इति पृतनाशब्दस्य पृदादेशः । ‘सावेकाचः' इति विभक्तेरुदात्तत्वम् । अवाः आवः । अकाराकारयोर्विपर्ययः । यद्वा । लेटि अडागमः । ‘इतश्च० ' इति सिप इकारस्य लोपः । जुनाः । जू इति गत्यर्थः सौत्रो धातुः । लङः सिप् । ‘क्र्यादिभ्यः श्ना । ‘बहुलं छन्दस्यमाङ्योगेऽपि' इति अडागमाभावः । यद्वृत्तयोगादनिघातः । यन्ता । तृनो नित्त्वादाद्युदात्तत्वम् । शश्वतीः । ‘उगितश्च' इति ङीप् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
+हे ऋत्विग्यजमानाः अध्वरस्य राजानं प्रधानाधिपतिं रुद्रं (होतारम् अभिमतानां दातारं) वा । 'बहुलम् छन्दसि' इति सम्प्रसारणम् । रोदस्योः द्यावापृथिव्योस्सत्ययजं सत्यस्यान्नस्य दातारम् । 'अन्येभ्योपि दृश्यते', इति विच्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा - सत्यममोघं यजनं यस्य । 'परादिस्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।   
+यद्वा - सत्यमेव यजनं यस्य । यद्वा - सत्यस्य परमार्थस्यानन्दलक्षणस्य सङ्गमयितारम् । हिरण्यरूपं हिरण्यवर्णमग्निं अग्निरूपेणावस्थितं वः युष्माकमवसे रक्षणाय तृप्तये वा कृणुध्वं आत्मसात्कुरुध्वम्, शत्रुमारणादियुष्मदभिमतसिद्ध्यर्थं भजध्वमित्यर्थः । कृधि हिंसाकरणयोः, 'धिन्विकृण्व्योरच' इत्युप्रत्ययः, व्यत्ययेनात्मनेपदम् । करोतेर्वा व्यत्ययेन श्नुप्रत्ययः । अचित्तात्पुरा, चित्तस्याभावेऽचित्तं अन्तःकरणोपसंहारो मरणमिति यावत् । यद्वा - यस्मिन्सति चित्तं नास्ति तन्मरणमेव । ततः प्रागेव देवं भजध्यमिति । 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । कीदृशादचित्तात्? तनयित्नोः तनयित्नुर्मेधस्तादृशात्; अनिश्चितकालत्वात् । स्तन शब्दे चुरादिरदन्तः, 'स्तनिहृषिपुषिगदिमदिभ्यो णेरित्नुच्' इतीत्नुच्प्रत्ययः सकारलोपश्छान्दसः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
 'यद्यग्निष्टोमो जुहोति' `इति ब्राह्मणम् । हे अग्ने यं मर्त्यं पृत्सु सङ्ग्रामेषु आवः रक्षसि । 'छन्दसि लुङ्लङ्लिटः' इत्यवतेर्लङ्, आडागम उदात्तः ॥ 'मांस्पृत्स्नूनामुपसङ्ख्यानम्' इति पृतनाशब्दस्य पृद्भावः, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । कः पुनरसौ यं पृतनासु रक्षसीत्याह वाजेष्व् अन्नेषु निमित्तभूतेषु । 'निमित्तात्कर्मसंयोगे' इति सप्तमी । अन्नार्थं यं जुनाः गच्छसि । जु इति सौत्रो धातुः वेगितायां गतौ वर्तते, तस्मात्पूर्ववल्लुङ्, श्नाप्रत्ययः, 'बहुलं छन्दस्यमाङ्योगेपि' इत्यडभावः । हवींषि ग्रहीतुं यस्य सकाशं सदा गच्छसीत्यर्थः । स एव खलु त्वया सङ्ग्रामेषु रक्ष्यत्वेन ग्राह्यते । यश्च त्वयैवं रक्ष्यते स एव खलु त्वयानुगृहीतः यन्ता यमयिता वशीकर्ता ॥ 'न लुट् इति' निघातप्रतिषेधः, उदात्तनिवृत्तिस्वरो व्यत्ययेन प्रवर्तते । किं वशीकरिष्यतीत्याह - शश्वतीः नित्याः इषः अन्नादि प्रभूतं धनं प्राप्नोतीत्यर्थः । शश्वच्छब्दात् 'उगितश्च' इति ङीप् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The mortal whom you, **Agni**, protect in battle, whom you incite to combat, will always command (food).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The mortal whom you will help in battles, o Agni, whom you will spur  on to the prizes,  
+he will hold fast to unfailing refreshments.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+It is difficult not to interpret the agent noun yantā́in c as a periphrastic future, given the subjunctives in ab, pace Tichy 1995: 226. Although it is sometimes claimed that no examples (or “no certain examples”) of this usage are found in the Saṃhitās (see esp. Macdonell VGS §152), there are too many passages in the RV where a future interpretation of the -tar-stem is more natural and fits the context better than a purely agentive one.
+</details>
+
+<details><summary>Griffith</summary>
+
+That man is lord of endless strength whom thou protectest in the fight,  
+     Agni, or urgest to the fray.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+The mortal, O Agni, whom thou protectest in battles, whom thou speedest in the races 1, he will command constant nourishment:
+</details>
+
+<details><summary>Keith</summary>
+
+Rudra, king of the sacrifice,  
+True offerer, priest of both worlds,  
+Agni before the dreadful thunder,'  
+Of golden colour, win ye for help.
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
+</details>
+
+<details><summary>Geldner</summary>
+
+Welchen Sterblichen du, Agni, in den Schlachten begünstigen wirst, wen du in den Kämpfen um die Preise anspornst, der wird alle Genüsse in der Hand halten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Sterbliche, den, Agni, du in Schlachten schützest und beeilst, Erlanget stete Labungen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Какого смертного, о Агни, в сражениях  
+Ты поддержишь, кого поторопишь к наградам,  
+Тот удержит непрерывные подкрепления.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- शुनःशेप आजीगर्तिः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) सेनाध्यक्ष ! आप (यम्) जिस युद्ध करनेवाले (मर्त्यम्) मनुष्य को (पृत्सु) सेनाओं के बीच (अवाः) रक्षा करें (यम्) जिस धार्मिक शूरवीर को (वाजेषु) संग्रामों में (जुनाः) प्रेरें जो इस (शश्वतीः) अनादि काल से वर्त्तमान (इषः) प्रजा की निरन्तर रक्षा करें, इस कारण से (सः) सो आप हमारा (यन्ता) नियमों में चलानेवाला नायक हूजिये, इस प्रकार हम प्रतिज्ञा करते हैं॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे जगदीश्वर जो अनादि काल से वर्त्तमान प्रजा की रक्षा, रचना और व्यवस्था करनेवाला है, वैसे जो मनुष्य इस सर्वव्यापी सब प्रकार की रक्षा करनेवाले परमेश्वर की उपासना कर यथोक्त काम करता है, उसको न कभी पीड़ा वा पराजय होता है॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे जगदीश्वर ! त्वं यं मर्त्यं पृत्स्ववा रक्षेर्यं च वाजेषु जुनाः प्रेरयेर्य इमाः शश्वतीः प्रजाः सततमवरक्षेरस्मात् कारणात् स भवानस्माकं सदा यन्ता भवत्विति वयं प्रतिजानीमः॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यम्) धार्मिकं शूरवीरम् (अग्ने) स्वबलतेजसा प्रकाशमान (पृत्सु) पृतनासु। पदादिषु मांस्पृत्स्नूनामुपसंख्यानम्। (अष्टा०वा०६.१.६३) इति वार्त्तिकेन पृतनाशब्दस्य पृदादेशः। (मर्त्यम्) मनुष्यम् (अवाः) रक्षेः। अयं लेट्प्रयोगः। (वाजेषु) संग्रामेषु (यम्) योद्धारम् (जुनाः) प्रेरयेः। अयं ‘जुन गतौ’ इत्यस्य लेट्प्रयोगः। (सः) मनुष्यः (यन्ता) शत्रूणां निग्रहीता (शश्वतीः) अनादिस्वरूपाः (इषः) इष्यन्ते यास्ताः प्रजाः। अत्र कृतो बहुलम् इति कर्मणि क्विप्॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  यथा यो जगदीश्वर एवानादिकालाद् वर्तमानायाः प्रजाया रक्षारचनाव्यवस्थाकारकोऽस्ति, तथा यो मनुष्य एतं सर्वव्यापिनं सर्वतोऽभिरक्षकं परमेश्वरमुपास्यैवं विदधाति तस्य नैव कदाचित्पीडापराजयौ भवत इति॥७॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जसा जगदीश्वर अनादीकाळापासून असलेल्या प्रजेचे रक्षण, रचना व व्यवस्था करणारा आहे, तसे जो माणूस या सर्वव्यापी सर्व प्रकारे रक्षण करणाऱ्या परमेश्वराची उपासना करून यथोक्त काम करतो, त्याला कधी त्रास होत नाही व त्याचा पराभव होत नाही. ॥ ७ ॥
 </details>
 </details>
 

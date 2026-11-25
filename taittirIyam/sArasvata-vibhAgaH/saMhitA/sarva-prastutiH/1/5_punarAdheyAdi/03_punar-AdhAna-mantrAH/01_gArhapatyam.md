@@ -72,18 +72,80 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>Keith</summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-The spotted bull hath come  
-And reached again the mother
-  
-And the father, faring to the heaven.
+- देवता - सार्पराज्ञी सूर्यो वा
+- ऋषिः - सार्पराज्ञी
+- छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓यं᳓ गउः᳓ पृ᳓श्निर् अक्रमीद्  
+अ᳓सदन् मात᳓रम् पुरः᳓  
+पित᳓रं च प्रय᳓न् सु᳓वः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+akramīt ← √kramⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+gaúḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pŕ̥śniḥ ← pŕ̥śni- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ásadat ← √sad- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+mātáram ← mātár- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+purás ← purás (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+pitáram ← pitár- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prayán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+svàr ← svàr- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आऽयङ्गौᳶ पृश्ञि॑रक्रमी॒दस॑नन्मा॒तर॒म्पुनः॑ ।  
 पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
@@ -91,7 +153,189 @@ And the father, faring to the heaven.
 
 <details><summary>पद-पाठः</summary>
 
+आ । अ॒यम् । गौः । पृश्निः॑ । अ॒क्र॒मी॒त् । अस॑दत् । मा॒तर॑म् । पु॒रः ।  
+पि॒तर॑म् । च॒ । प्र॒ऽयन् । स्व१॒॑रिति॑ स्वः॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒यन्निति॑ प्र॒ऽयन्। स्व॒रिति॒ स्वः᳙। ६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒यन्निति॑ प्र॒ऽयन्। स्व॒रिति॒ स्वः᳙। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
 अ॒यम् । गौः । पृश्ञिः॑ । अ॒क्र॒मी॒त् । अस॑नत् । मा॒तर॑म् । पुनः॑ ॥ पि॒तर॑म् । च॒ । प्र॒यन्निति॑ प्र-यन् । सुवः॑ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *āyaṃ* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *āyaṃ* ← *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *gauḥ* ← *go*
+- \[noun\], nominative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
+- \[noun\], nominative, singular, masculine
+- “varicolored; dappled.”
+
+_________
+
+- *akramīd* ← *akramīt* ← *kram*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+
+_________
+
+- *asadan* ← *asadat* ← *sad*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+
+_________
+
+- *mātaram* ← *mātṛ*
+- \[noun\], accusative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+
+_________
+
+- *puraḥ* ← *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+
+_________
+
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
+- \[noun\], accusative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *prayan* ← *pre* ← *√i*
+- \[verb noun\], nominative, singular
+- “die; proceed; advance; continue; begin; depart.”
+
+_________
+
+- *svaḥ* ← *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+इयम्- एषा। पृश्निः गौः- पृथिवी। पुरः- पुरस्तात्। मातरम्- स्वजननीभूतामुदकदेवताम्।  असदन्- आश्रित्य। पितरम्- स्वजनकम्। स्वः- सूर्यम्। च। प्रयन्- प्रगच्छन्ती। अक्रमीत्-  आक्रान्तवती॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**गौः** गमनशीलः **पृश्निः** प्राष्टवर्णः प्राप्ततेजाः **अयं** सूर्यः **आ** **अक्रमीत्** आक्रान्तवान् । उदयाचलं प्राप्तवानित्यर्थः । आक्रम्य च **पुरः** पुरस्तात् पूर्वस्यां दिशि **मातरं** सर्वस्य भूतजातस्य निर्मात्रीं पृथिवीम् **असदत्** आसीदति प्राप्नोति । सदेश्छन्दसो लुङ्। लुदित्त्वाच्च्रलेरङादेशः । ततः **पितरं** पालकं द्युलोकं चशब्दादन्तरिक्षं च प्रयन् प्रकर्षेण शीघ्रं गच्छन् **स्वः** स्वरणः शोभनगमनो भवति । यद्वा । पितरं स्वर्गलोकं प्रयन् वर्तते ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+आयं गौः पृश्निः।
+
+सार्पराज्ञ्य आर्षम्।
+
+अग्निः परापररूपेण स्तूयते।
+
+आयं गौः पृश्निरक्रमीत्।
+
+आक्रमीताक्रमते ऐश्वर्यरूपेणायमग्निः गौः गन्ता।
+
+सर्वासु तासु तासु क्रियासु पृश्निर्नानारूपः असदन्मातरं पुरः इमं लोकमग्निरूपेणानुगृह्य ततः प्रातरादित्यात्मना सीदति मातरं पृथिवीं पुरः पुरस्तात्प्राच्यां दिशि।
+
+किंच पितरं च प्रयन्त्स्वः पितरं द्युलोकं च प्रयन् गच्छन् सीदतीत्यनुवर्तते।
+
+स्वः स्वर्गे आदित्यः॥ ६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+आयं गौरित्यादीनां तिसृणामृचां सार्पराज्ञीति नामधेयम्।
+
+सर्पराज्ञी कद्रूः पृथिव्यभिमानिनी।
+
+ततो दक्षिणाग्निमादध्यादिति सूत्रार्थः।
+
+गायत्रस्तृचः।
+
+अग्निः परावररूपेण स्तूयते।
+
+अयं दृश्यमानोऽग्निः आ अक्रमीत् सर्वत आहवनीयगार्हपत्यदक्षिणाग्निस्थानेषु सर्वतः क्रमणं पादविक्षेपं कृतवान्।
+
+किंभूतोऽग्निः।
+
+गच्छतीति गौः यज्ञनिष्पत्तये तत्तद्यजमानगृहेषु गन्ता।
+
+‘गमेर्डोप्रत्ययः’ (उ० २। ६६)।
+
+तथा पृश्निः चित्रवर्णः।
+
+लोहितशुक्लादिबहुविधज्वालोपेतः।
+
+आक्रमणमेवाह।
+
+पुरः प्राच्यां दिशि मातरं पृथिवीमसदतासीदताहवनीयरूपेण प्राप्तवान्।
+
+तथा स्वः प्रयनादित्यरूपेण स्वर्गे संचरन् पितरं च द्युलोकमपि असदत्प्राप्तवान्।
+
+स्वःशब्देन सूर्यः (निघ० १। ४। १)।
+
+द्युलोकभूलोकयोर्मातापितृत्वमन्यत्रापि श्रूयते।
+
+‘द्यौः पिता पृथिवी माता’ इति॥ ६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+“ आऽयं गौर् इति चोपतिष्ठते सार्पराशीमिः दक्षिणाग्निम् आदधाति " (काश्रौ ४०९-१८-१९ ) इति । ' आयं गौ: ' इत्यादीनां तिसृणाम् ऋचां सर्पराज्ञीति नामधेयम् । “अथ सर्पराइया ऋग्भिरुपतिष्ठते " ( काशमा १.१.४.२६ ) इति कण्व-श्रुतेः, सर्पराज्ञा दृष्टत्वात् । ताभिर्ऋग्भिराहवनीयमुपतिष्ठते । दक्षिणाग्निम् अपि ताभिरेवादध्यात् । तत्र प्रथमाया ऋचः पाठस् तु - ' भाऽयं गौः पृश्निरक्रमी दसदन्मातरं पुरः । पितरं च प्रयन्त्स्यः' इति । गच्छतीति 'गौः । यज्ञ-निष्पत्तये तत् तद् यजमान-गृहेषु गन्ता 'पृश्निः चित्र-वर्णः कोहित शुक्ला दिबहु-विधज्वालैरुपेतः । तथाविधः 'अयं दृश्यमानो ऽग्निः 'अक्रमीत् सर्वत आहवनीयगाईपत्य-दक्षिणाग्नि-स्थानेषु क्रमणं पाद-प्रक्षेपं कृतवान् । यस्माद् एवं तस्मात् 'पुरः प्राच्यां दिशि 'मातरं पृथिवीम् असदत् मासीदत् आहवनीय-रूपेण प्राप्तवान् । तथा 'स्वः प्रयन् आदित्य-रूपेण स्वर्गे संचरन् 'पितरं "च द्यु-लोकम् अपि असदत् प्राप्तवान् । भूलोक-यु लोकयोर् मातापितृत्वमन्यत्रापि श्रूयते - " द्यौः पिता पृथिवी माता" ( द्र. ऋ १.८९.४ ) इति ॥६॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+परापर-रूपेण वाधिर् ( ? ) अग्निः स्तूयते ।
+
+' आऽयं गौः ' इति ।
+
+अयम् अग्निः 'गौः । गम्ल सृ'ऌ गतौ ।
+
+गच्छतीति गौः ।
+
+गन्ता ।
+
+पृश्निः नानारूपः अग्नि-रूपो वा "असदत् अभवत् । ततः पुरस्तात् प्राच्यां दिशि प्रातरादित्यात्मना मातरं पृथिवीम् अक्रमीत् ऐश्वर्य-रूपेण क्रमते । एत्रं पृथिवीम् अनुगृह्य प्रयन् प्रगच्छन् स्त्र: आदित्यः पितरं चु लोकं
+Vच अक्रमीत् ॥ ६ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -101,6 +345,136 @@ And the father, faring to the heaven.
 प्रकर्षेणाविच्छेदेन गच्छन् सुवः शोभना रतिः । छान्दसौ लुङ्लङौ । 
 
 आक्रम्य च मातरं भूमिम् **असनत्** भूमौ मातरि शान्तोभूत् । **पितरं** दिवं **प्रयन्** प्रकर्षेण गच्छन् सर्वतो ज्वलन् धूमज्वालाभ्यामभ्रं लिहन् **सुवः** पितृस्थानीये दिवि स्वरतिरभूत् ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब अग्नि के निमित्त से पृथिवी का भ्रमण होता है, इस विषय को अगले मन्त्र में प्रकाशित किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्) यह प्रत्यक्ष (गौः) गोलरूपी पृथिवी (पितरम्) पालने करनेवाले (स्वः) सूर्यलोक के (पुरः) आगे-आगे वा (मातरम्) अपनी योनिरूप जलों के साथ वर्त्तमान (प्रयन्) अच्छी प्रकार चलती हुई (पृश्निः) अन्तरिक्ष अर्थात् आकाश में (आक्रमीत्) चारों तरफ घूमती है ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को जानना चाहिये कि जिससे यह भूगोल पृथिवी जल और अग्नि के निमित्त से उत्पन्न हुई अन्तरिक्ष वा अपनी कक्षा अर्थात् योनिरूप जल के सहित आकर्षणरूपी गुणों से सब की रक्षा करनेवाले सूर्य के चारों तरफ क्षण-क्षण घूमती है, इसी से दिन रात्रि, शुक्ल वा कृष्ण पक्ष, ऋतु और अयन आदि काल-विभाग क्रम से सम्भव होते हैं ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथाग्निनिमित्तेन पृथिवीभ्रमणविषय उपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  अयं गौः पृथिवीगोलः स्वः पितरं पुरः प्रयन्मातरमपश्च प्रयन् पृश्निरन्तरिक्षे आक्रमीदाक्राम्यति समन्ताद् भ्रमति ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यस्माज्जलाग्निनिमित्तोत्पन्नोऽयं भूगोलोऽन्तरिक्षे स्वकक्ष्यायामाकर्षणेन रक्षकस्य सूर्यस्याभितः प्रतिक्षणं भ्रमति, तस्मादहोरात्रशुक्लकृष्णपक्षर्त्वयनादीनि कालविभागाः क्रमशः सम्भवन्तीति वेद्यम् ॥६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी हे जाणले पाहिजे की, जल व अग्नी यांनी निर्माण झालेली ही पृथ्वी जलासह अंतरिक्षामध्ये सूर्याभोवती आपल्या कक्षेत फिरत असते. त्यामुळेच क्रमाक्रमाने दिवस व रात्र शुक्ल किंवा कृष्णपक्ष, ऋतू व अयन इत्यादी काल विभाजन होत असते.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“This moving many-coloured (Sun) has arrived, he has sat down before his mother (earth) in the east,and advances to his father heaven.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Deity Sārparājñī: i.e., **Kadru**, the mother of the serpent race; Yajuṣ3.6-8;
+
+Gau = gamanaśīla, moving; the deity: first line, **Agni**; second line, **Sūrya** or Agni
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+This dappled cow has stridden here and sat in front of its mother  
+and its father, as it goes forth toward the sun.
+</details>
+
+<details><summary>Griffith</summary>
+
+THIS spotted Bull hath come, and sat before the Mother in the east,  
+     Advancing to his Father heaven.
+</details>
+
+<details><summary>Keith</summary>
+
+The spotted bull hath come  
+And reached again the mother
+  
+And the father, faring to the heaven.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+This spotted Bull hath come and sat before the Mother and before The Father, mounting up to heaven.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser bunte Stier ist hergeschritten und hat sich vor Mutter Erde und Vater Himmel gesetzt auf seinem Wege zur Sonne.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf unsre Streu.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Выступил этот пестрый бык,  
+Он уселся перед матерью  
+И отцом, отправляясь в путь как солнце.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सार्पराज्ञी सूर्यो वा
+- सार्पराज्ञी
+- निचृद्गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- सर्प्पराज्ञी कद्रूर्ऋषिः
+- निचृद् गायत्री
+- षड्जः
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+इस सूक्त में पृथिवी पूर्व दिशा में गति करती है, सूर्य की परिक्रमा भी करती है, सूर्य की ज्योति उदय से अस्तपर्यन्त द्युलोक पृथिवीलोक को तपाती है, इत्यादि विषय हैं।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (आअयम्) यह पृथिवीलोक (पुरः-अक्रमीत्) पूर्वदिशा में-पूर्व कीओर गतिकरताहै (च) और (पितरं स्वः) पितारूप सूर्य के (प्रयन्) सबओर गति करता हुआ (मातरं पृश्निम्) मातारूप अन्तरिक्ष को (असदत्) प्राप्त होता है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  पृथिवीपूर्व कीओरघूमती है और सूर्य के चारों ओर आकाश में गति करती है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+अत्र सूक्ते पृथिवी पूर्वस्यां दिशि गतिं करोति सूर्यस्य परितश्च भ्रमति, सूर्यस्य ज्योतिरुदयास्तयोर्मध्ये द्यावापृथिव्यौ तपति, इत्यादि विषया वर्ण्यन्ते।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयं गौः) एष पृथिवीलोकः “गौः-पृथिवीनाम” [निघ० १।१] (पुरः आक्रमीत्) पूर्वस्यां दिशि-पूर्वाभिमुखमाक्रामति (पितरं च स्वः प्रयन्) पितरंपितृवत्सूर्यम् “स्वः-आदित्यो भवति” [निरु० २।१४] परितो गच्छन् (मातरं पृश्निम्-असदत्) मातरमन्तरिक्षं “मातरि अन्तरिक्षे” [निरु० ७।२७] “पृश्निः-अन्तरिक्षम्’ [ऋ० ४।३।२० दयानन्दः] सीदति ॥१॥
 </details>
 </details>
 

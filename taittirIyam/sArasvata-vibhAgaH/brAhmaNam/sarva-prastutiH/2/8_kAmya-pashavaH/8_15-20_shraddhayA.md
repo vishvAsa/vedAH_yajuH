@@ -1,6 +1,7 @@
 +++
 title = "८ १५-२० श्रद्धया"
 +++
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -15,14 +16,6 @@ title = "८ १५-२० श्रद्धया"
 श्रद्ध᳓या विन्दते हविः᳓ ।   
 श्रद्धा᳓म्भ᳓गस्य मूर्ध᳓नि ।  
 व᳓चसा᳓ ऽऽवेदयामसि ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-श्रत्-ध᳓या । अग्निः᳓ । स᳓म् । इध्यते । श्रत्-ध᳓या । विन्दते । हविः᳓ । श्रत्-धा᳓म् । भ᳓गस्य । मूर्ध᳓नि । व᳓चसा । अ᳓-वेदया । आ । अमसि ।
-</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
@@ -111,6 +104,11 @@ vedayāmasi ← √vid- 2 (root)
 
 श्र॒द्धया॒ ऽग्निस् समि॑ध्यते । श्र॒द्धया॑ विन्दते ह॒विः ।  
 श्र॒द्धां भग॑स्य मू॒र्धनि॑ । वच॒साऽऽवे॑दयामसि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+श्रत्-ध᳓या । अग्निः᳓ । स᳓म् । इध्यते । श्रत्-ध᳓या । विन्दते । हविः᳓ । श्रत्-धा᳓म् । भ᳓गस्य । मूर्ध᳓नि । व᳓चसा । अ᳓-वेदया । आ । अमसि ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -823,22 +821,6 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 श्रद्ध᳓या हूयते हविः᳓॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-श्र॒द्धां दे॑वा॒ यज॑मानाः ।  
-वा॒युगो॑पा॒ उपा॑सते ।  
-श्र॒द्धाँ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
-श्र॒द्धया॑ हूयते ह॒विः ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-श्रत्-धा᳓म् । देवाः । य᳓जमानाः । वायु᳓-गोपाः । उ᳓प । आसते । श्रत्-धा᳓म् । हृदय्य᳙या । अ᳓कूत्या । श्रत्-ध᳓या । हूयते । हविः᳓ ।
-</details>
-</details>
-
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -912,10 +894,23 @@ vindate ← √vid- 1 (root)
 श्र॒द्धां हृ॑द॒य्य१॒॑याकू॑त्या श्र॒द्धया॑ विन्दते॒ वसु॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+श्र॒द्धां दे॑वा॒ यज॑मानाः ।  
+वा॒युगो॑पा॒ उपा॑सते ।  
+श्र॒द्धाँ हृ॑द॒य्य॑याऽऽकू॑त्या ।  
+श्र॒द्धया॑ हूयते ह॒विः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श्र॒द्धाम् । दे॒वाः । यज॑मानाः । वा॒युऽगो॑पाः । उप॑ । आ॒स॒ते॒ ।  
 श्र॒द्धाम् । हृ॒द॒य्य॑या । आऽकू॑त्या । श्र॒द्धया॑ । वि॒न्द॒ते॒ । वसु॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+श्रत्-धा᳓म् । देवाः । य᳓जमानाः । वायु᳓-गोपाः । उ᳓प । आसते । श्रत्-धा᳓म् । हृदय्य᳙या । अ᳓कूत्या । श्रत्-ध᳓या । हूयते । हविः᳓ ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>

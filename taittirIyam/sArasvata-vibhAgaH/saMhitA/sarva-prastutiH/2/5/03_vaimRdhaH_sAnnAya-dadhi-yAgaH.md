@@ -1217,7 +1217,7 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् क्व᳙लै +++(त॒ञ्च्याथ्)+++ - राक्षसन् तत् ।
+य᳓त् क्व᳙लै +++(तञ्च्या᳓थ्)+++ - राक्षसन् तत् ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>

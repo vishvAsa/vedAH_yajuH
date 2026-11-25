@@ -507,9 +507,14 @@ Ye wealthy ones, do ye kindly resort to the lord of the sacrifice.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/08_pashu-vishasanAdi/02_uro_antarikhSha.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/06/30_uro_r_anta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Griffith</summary>
+
+Meeting with heavenly Wind, from air's mid-region. Be thou united with this offering's body.
+</details>
+
 <details><summary>Keith</summary>
 
 O broad atmosphere,  
@@ -518,15 +523,48 @@ sacrifice with the life of this offering;
 be united with its body
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+उ॒रोर॒न्तरि॑क्षात् स॒जूर्दे॒वेन॒ वाते॑ना॒स्य ह॒विष॒स्त्मना॑ यज॒ सम॑स्य त॒न्वा᳖ भव।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उरो॑ अन्तरिक्ष स॒जूर्दे॒वेन॑  +++(रुद्र -११ अक्षराणि)+++  ।  वाते॑ना॒ऽस्य ह॒विष॒स्त्मना॑ यज  +++( ईश- ११ अक्षराणि)+++  
 सम॑स्य त॒नुवा॑ भव  +++(वसु ८ अक्षराणि)+++ ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
 
-उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ । 
+उ॒रोः। अ॒न्तरि॑क्षात्। स॒जूरिति॑ स॒ऽजूः। दे॒वेन॑। वाते॑न। अ॒स्य। ह॒विषः॑। त्मना॑। य॒ज॒। सम्। अ॒स्य॒। त॒न्वा᳖। भ॒व॒।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उरो॒ इति॑ । अ॒न्त॒रि॒क्ष॒ । स॒जूरिति॑ स-जूः । दे॒वेन॑ । वाते॑न । अ॒स्य । ह॒विषः॑ । त्मना॑ । य॒ज॒ । समिति॑ । अ॒स्य॒ । त॒नुवा॑ । भ॒व॒ ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+उरोर्महतोऽन्तरिक्षाच्च गोपायेति शेषः।
+
+सजूर्देवेन वातेन।
+
+समानप्रीतिः देवेन वातेन भूत्वा।
+
+किंच अस्य पशुलक्षणस्य हविषः त्मना यज आत्मना यज।
+
+‘मन्त्रेष्वाङ्यादेरात्मनः’ इत्याकारलोपः।
+
+समस्य तन्वा भव।
+
+संभव चास्य पशोः तन्वा शरीरेण।
+
+एतदुक्तं भवति।
+
+यजमानरूपेण पशुरूपेण वा त्मना भूत्वात्मनैव यज।
+
+हे रेवति, पश्चाच्च तृणमुपास्यति।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

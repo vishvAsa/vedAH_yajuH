@@ -545,12 +545,18 @@ To Tvastr the seminal hail!
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/22/89_tva_ShTre_puru.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्व᳓ष्ट्रे पुरु+++(=बहु)+++रू᳓पाय स्वा᳓हा ।
+त्व᳓ष्ट्रे पुरु-रू᳓पाय स्वा᳓हा
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Hail to Tvashtar of many forms!
+</details>
 
 <details><summary>Keith</summary>
 
@@ -559,10 +565,15 @@ To Tvastr the multiform hail!
 
 <details><summary>मूलम्</summary>
 
-त्वष्ट्रे॑ पुरु॒रूपा॑य॒ स्वाहा॑ ।
+त्वष्ट्रे॑ पुरु॒रूपा॑य॒ स्वाहा॒
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+त्वष्ट्रे॑। पु॒रु॒रूपा॒येति॑ पुरु॒ऽरूपा॑य स्वाहा॑।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वष्ट्रे॑ । पु॒रु॒रूपा॒येति॑ पुरु-रूपा॑य । स्वाहा॑ ।
 </details>
@@ -572,6 +583,7 @@ To Tvastr the multiform hail!
 पुरुरूपाय । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

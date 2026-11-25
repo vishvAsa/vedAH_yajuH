@@ -1,6 +1,7 @@
 +++
 title = "४८ समिष्टयजुर्होममन्त्राः"
 +++
+
 १-६ त्रिष्टुप् । सोमऋषिः
 
 _______
@@ -25,9 +26,31 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Whitney</summary>
+
+###### Translation
+4. Let Dhātar, Rāti, Savitar enjoy this, let Prajāpati, Agni our  
+treasure-lord; let Tvashṭar, Vishṇu, sharing (*rā*) together with  
+progeny, assign wealth to the sacrificer.
+
+###### Notes
+The beginning of this corresponds with that of iii. 8. 2, above. The  
+verse is found without variant\* in TS. (1. 4. 44¹); VS. (viii. 17) and  
+MS. (i. 3. 38) have different readings: in **b**, after *prajā́patir*,  
+VS. *nidhipā́ devó agníḥ*, MS. *váruṇo mitró agníḥ;* in **c**, MS. begins  
+*víṣṇus tváṣṭā*, VS. ends *-rarāṇā́s;* in **d**, VS. ends *dadhāta*.  
+Ppp., in **d**, has *pūṣā* instead of *viṣṇus*. ⌊MP. has **c** at i. 7.  
+12.⌋ \*⌊Save *nidhipátis* for *nidhípatis:* cf. *Gram.* §1267 a.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+May this our gift please Savitar, Rati, Dhatar, Prajapati, and Agni Lord of Treasures. May Tvashtar, Vishnu, blessing him with children, give store ot riches to the sacrificer.
+</details>
+
 <details><summary>Keith</summary>
 
 May Dhatr the giver, may Savitr, rejoice in this,  
@@ -36,15 +59,54 @@ May Tvastr, Visnu, accord generously
 Wealth with offspring to the sacrificer.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः।  
+त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 धा॒ता रा॒तिस्स॑वि॒तेदञ्जु॑षन्ताम्प्र॒जाप॑तिर्निधि॒पति॑र्नो अ॒ग्निः ।  
 त्वष्टा॒ विष्णुᳶ॑ प्र॒जया॑ सँररा॒णो यज॑मानाय॒ द्रवि॑णन्दधातु ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+धा॒ता। रा॒तिः। स॒वि॒ता। इ॒दम्। जु॒ष॒न्ता॒म्। प्र॒जाऽप॑तिः। नि॒धिऽप॑तिः। नः॒। अ॒ग्निः। त्वष्टा॑। विष्णुः॑। प्र॒ऽजया॑। स॒म्ऽर॒रा॒ण। यज॑मानाय। द्रवि॑णम्। द॒धा॒तु॒। १८.४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 धा॒ता । रा॒तिः । स॒वि॒ता । इ॒दम् । जु॒ष॒न्ता॒म् । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । नि॒धि॒पति॒रिति॑ निधि-पतिः॑ । नः॒ । अ॒ग्निः ॥ त्वष्टा॑ । विष्णुः॑ । प्र॒जयेति॑ प्र-जया॑ । सँ॒र॒रा॒ण इति॑ सम्-र॒रा॒णः । यज॑मानाय । द्रवि॑णम् । द॒धा॒तु॒ ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता 
+- भृगुः
+- त्रिष्टुप्
+- द्रविणार्थप्रार्थना सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+गृहस्थ के कर्म का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सविता) सर्वप्रेरक, (धाता) धारण करनेवाला, (रातिः) दानाध्यक्ष, (प्रजापतिः) प्रजापालक, (निधिपतिः) निधिपति [कोशाध्यक्ष] और (अग्निः) अग्निसमान [अविद्यारूपी अन्धकार का नाश करनेवाला] विद्वान् पुरुष [यह सब अधिकारी] (नः) हमारे (इदम्) इस [गृहस्थ कर्म] को (जुषन्ताम्) सेवन करें। (विष्णुः) सर्वव्यापक, (संरराणः) सम्यक् दाता, (त्वष्टा) निर्माता परमेश्वर (प्रजया) प्रजा के सहित वर्तमान (यजमानाय) पदार्थों के संयोजक-वियोजक विज्ञानी को (द्रविणम्) बल वा धन (दधातु) देवे ॥४॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे राजा राज्य की उन्नति के लिये अनेक अधिकारी रखता है, वैसे ही गृहस्थ लोग घर का प्रबन्ध करके परमेश्वर के अनुग्रह से बल और धन बढ़ावें ॥४॥ यह मन्त्र कुछ भेद से यजुर्वेद में है-अ० ८।१७ ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ४−(धाता) धारकः (रातिः) कर्तरि क्तिच्। दानाध्यक्षः (सविता) नायकः (इदम्) दृश्यमानं गृहस्थकर्म (प्रजापतिः) प्रजापालकः (निधिपतिः) कोशाध्यक्षः (नः) अस्माकम् (अग्निः) अग्नितुल्योऽविद्यान्धकार-दाहको विद्वान् (त्वष्टा) अ० २।५।६। सृष्टिकर्त्ता (विष्णुः) सर्वव्यापकः (प्रजया) (संरराणः) अ० २।३४।३। सम्यग् दाता (यजमानाय) पदार्थानां संयोजकवियोजकविज्ञानिने (द्रविणम्) बलं धनं वा (दधातु) ददातु ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,10 +150,18 @@ With the holy power that is made by the gods,
 With loving kindness of the gods to whom sacrifice is made.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 समि॑न्द्र णो॒ मन॑सा नेषि॒ गोभि॒स्सँ सू॒रिभि॑र्मघव॒न्त्सँ स्व॒स्त्या ।  
  सम्ब्रह्म॑णा दे॒वकृ॑तय्ँ॒यदस्ति॒ सन्दे॒वानाँ॑ सुम॒त्या य॒ज्ञिया॑नाम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+समि॑न्द्र णो॒ मन॑सा नेषि॒ गोभिः॑ ।  
+सँ सू॒रिभि॑र्मघव॒न्त्सँ स्व॒स्त्या ।  
+सम्ब्रह्म॑णा दे॒वकृ॑तय्ँ॒यदस्ति॑ ॥ 12 ॥  
+सन्दे॒वानाँ॑ सुम॒त्या य॒ज्ञिया॑नाम् ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -99,11 +169,21 @@ With loving kindness of the gods to whom sacrifice is made.
 समिति॑ । इ॒न्द्र॒ । नः॒ । मन॑सा । ने॒षि॒ । गोभिः॑ । समिति॑ । सू॒रिभि॒रिति॑ सू॒रि-भिः॒ । म॒घ॒व॒न्निति॑ मघ-व॒न् । समिति॑ । स्व॒स्त्या ॥ समिति॑ । ब्रह्म॑णा । दे॒वकृ॑त॒मिति॑ दे॒व-कृ॒त॒म् । यत् । अस्ति॑ । समिति॑ । दे॒वाना॑म् । सु॒म॒त्येति॑ सु-म॒त्या । य॒ज्ञिया॑नाम् ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+स᳓म् । इन्द्र । णः । म᳓नसा । नेषि । गो᳓भिः । स᳓म् । सूरि᳓भिः । मघ-वन् । स᳓म् । स्वस्त्या᳓ । स᳓म् । ब्र᳓ह्मणा । देव᳓-कृतम् । य᳓त् । अ᳓स्ति । स᳓म् । देवा᳓नाम् । सु-मत्या᳓ । यज्ञि᳓यानाम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 समिन्द्र ण इति त्रिष्टुप् ॥ हे इन्द्र नः अस्मान् । छान्दसं सांहितिकं णत्वम् । मनसा प्राणेन समीचीनेन गोभिश्च शब्दैस्स्तुतिलक्षणैश्च सन्नेषि सन्नय संयोजय । मनस्विनो वाग्मिनश्च कुरु त्वां स्तोतुमित्यर्थः । नयतेर्लेटि शपो लुक् । किञ्च - सूरिभिर्विद्वद्भिः होतृप्रभृतिभिस्स्तोत्रकुशलैश्च अस्मान्सन्नेषि हे मघवन् महाघन स्वस्त्या अविनाशेन वा अस्मान्सन्नेसि ।   
 
 किञ्च - ब्रह्मणा वेदेन वेदार्थ ज्ञानेन वा, तदर्थानुष्ठानेन वा अस्मान्सन्नेषि । किञ्च - यच्चान्यद्देवकृतं देवार्थं कृतमस्ति कर्म अग्निहोत्रादिकं तेनापि सन्नेषि । 'क्ते च' इति पूर्वपद्प्रकृतिस्वरत्वम् । किञ्च - देवानां यज्ञियानां यज्ञार्हाणां यज्ञसम्पादितानामग्न्यादीनां सुमत्या कल्याणमत्या अनुग्रहबुद्ध्या चास्मान् संयोजय । 'यज्ञर्त्विग्भ्यां घखञौ' इति घः, 'मन्त्रे वृष' इति उदात्तः क्तिन्, 'मन्क्तिन्व्याख्यान' इत्यादिनोत्तरपदान्तोदात्तत्वम्, 'उदात्तयणः' इति विभक्तेरुदात्तत्वम् ॥
+</details>
+
+<details><summary>सायण-टीका (ब्राह्मणी)</summary>
+
+हे इन्द्र त्वं मनसा स्मरणमात्रेण नोऽस्मान् गोभिः संनेषि संयोजय । हे मघवन् सूरिभिर्विद्वद्भिः पुत्रैः संयोजय । स्वस्त्या क्षेमेण संयोजय । देवकृतं देवार्थं निष्पन्नं यन्मन्त्रजातमस्ति तेन ब्रह्मणा मन्त्रजातेन संयोजय । यज्ञियानां यज्ञार्हाणां देवानां सुमत्या अनुग्रहबुद्ध्या संयोजय ॥
 </details>
 </details>
 
@@ -394,7 +474,29 @@ _______
 स्वा᳓हा  ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/06_eSha_te.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Whitney</summary>
+
+##### Translation
+6. This \[is\] thy sacrifice, O lord of sacrifice, accompanied with  
+song-utterance, of excellent heroism: hail!
+
+##### Notes
+⌊Prose.⌋ Again the A V. mss. add a punctuation-mark before *suvī́ryaḥ*,\*  
+omitted in our text, but given by SPP.; the other texts (VS. viii. 22 b;  
+TS.MS. as above) do not have it. TS. differs only by reading *suvī́raḥ;*  
+MS. does the same and omits *svā́ha* (adding instead *téna sám bhava  
+bhrā́jaṁ gacha*); VS. ends with *sárvavīras táj juṣasva svā́ha*. Ppp. has  
+a yet more different version: *eṣa te yajño yajamānas svāhā  
+sūktanamovākas suvīrās svāhā*. \*⌊To avoid taking the word as an  
+adjective, BR., s.v., would read with TS. *suvī́raḥ*.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught with vigour.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -403,14 +505,53 @@ with its utterance of hymns and producing noble heroes;
 hail!
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
+सु॒वीर्यः॒ स्वाहा॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 एष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकस्सु॒वीर॒स्स्वाहा॑  ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ए॒षः । ते॒ । य॒ज्ञः । य॒ज्ञ॒प॒त॒ इति॑ यज्ञ-प॒ते॒ । स॒हसू॑क्तवाक॒ इति॑ स॒हसू॑क्त-वा॒कः॒ । सु॒वीर॒ इति॑ सु-वीरः॑ । स्वाहा॑ ।
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- अथर्वा
+- त्रिपदा प्राजापत्या बृहती
+- यज्ञ सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+मनुष्य धर्म का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यज्ञपते) हे पूजनीय व्यवहार के पालनेवाले पुरुष ! (एषः) यह (ते) तेरा (यज्ञः) पूजनीय व्यवहार (स्वाहा) सुन्दर वाणी [वेदवाणी] द्वारा (सहसूक्तवाकः) सुन्दर वचनों के उपदेशों के सहित (सुवीर्यः) बड़े वीरत्ववाला [होवे] ॥६॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य वेदमन्त्रों के मनन और उपदेश से अपना पराक्रम बढ़ावें ॥६॥ यह मन्त्र कुछ भेद से यजुर्वेद में है−८।२२ ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   ६−(एषः) (ते) तव (यज्ञः) पूजनीयो व्यवहारः (यज्ञपते) पूजनीयो व्यवहारस्य पालक (सहसूक्तवाकः) सह+सु+उक्त+वच परिभाषणे-घञ्। शोभनानां मुक्तानां वचनानां वाकैर्भाषणैः सहितः (सुवीर्यः) उत्तमपराक्रमयुक्तः (स्वाहा) सुवाण्या ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -418,6 +559,7 @@ hail!
 हे यज्ञपते यजमान एष यज्ञस्सहसूक्त वाकः सूक्तवाकसहितः विविधस्तोत्रकः सुवीरः शोभनैर्वीरैः पुत्रपौत्रादिभिर्युक्तः तद्धेतुतां प्रतिपाद्यमानः ते तव स्वाहुतमिदमाज्यमग्नयेस्तुइत्थमिदं तव भूयादिति ॥
 </details>
 </details>
+</div>
 
 _______
 <details><summary>सर्वा अवतारिकाः</summary>

@@ -3,6 +3,7 @@ title: १६ पितृयज्ञयाज्यानुवाक्या
 unicode_script: devanagari
 
 ---
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -310,36 +311,295 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ तातृपु᳓र्देवत्रा᳓ जे᳓हमानाः ।  
 होत्रावृ᳓धस्स्तो᳓मतष्टासो अर्कैः᳓ ।  
 आ᳓ऽग्ने याहि सुविद᳓त्रेभिरर्वा᳓ङ् ।  
-सत्यैᳵ᳓ कव्यैᳶ᳓ पितृ᳓भिर्घर्मस᳓द्भिः ।  
+सत्यैᳵ᳓ कव्यैᳶ᳓ पितृ᳓भिर्घर्मस᳓द्भिः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/015/09_ye_tAtRShurdevatrA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - पितरः
+- ऋषिः - शङ्खो यामायनः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ये᳓ तातृषु᳓र् देवत्रा᳓ जे᳓हमाना  
+होत्रावि᳓द स्तो᳓मतष्टासो अर्कइः᳓  
+आ᳓ग्ने याहि सुविद᳓त्रेभिर् अर्वा᳓ङ्  
+सत्यइः᳓ कव्यइः᳓ पितृ᳓भिर् घर्मस᳓द्भिः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+devatrā́ ← devatrā́ (invariable)  
+{}
+
+jéhamānāḥ ← √jeh- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+tātr̥ṣúḥ ← √tr̥ṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yé ← yá- (pronoun)  
+{}
+
+arkaíḥ ← arká- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+hotrāvídaḥ ← hotrāvíd- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+stómataṣṭāsaḥ ← stómataṣṭa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvidátrebhiḥ ← suvidátra- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yāhi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gharmasádbhiḥ ← gharmasád- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+kavyaíḥ ← kavyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+pitŕ̥bhiḥ ← pitár- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+satyaíḥ ← satyá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ता॑तृ॒षुर्दे॑व॒त्रा जेह॑माना होत्रा॒विदः॒ स्तोम॑तष्टासो अ॒र्कैः ।  
+आग्ने॑ याहि सुवि॒दत्रे॑भिर॒र्वाङ्स॒त्यैः क॒व्यैः पि॒तृभि॑र्घर्म॒सद्भिः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 ये ता॑तृ॒पुर्दे॑व॒त्रा जेह॑मानाः ।  
 हो॒त्रा॒वृध॒स्स्तोम॑तष्टासो अ॒र्कैः ।  
 आऽग्ने॑ याहि सुवि॒दत्रे॑भिर॒र्वाङ् ।  
-स॒त्यैᳵ क॒व्यैᳶ पि॒तृभि॑र्घर्म॒सद्भिः॑ ।  
+स॒त्यैᳵ क॒व्यैᳶ पि॒तृभि॑र्घर्म॒सद्भिः॑ ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+ये । त॒तृ॒षुः । दे॒व॒ऽत्रा । जेह॑मानाः । हो॒त्रा॒ऽविदः॑ । स्तोम॑ऽतष्टासः । अ॒र्कैः ।  
+आ । अ॒ग्ने॒ । या॒हि॒ । सु॒ऽवि॒दत्रे॑भिः । अ॒र्वाङ् । स॒त्यैः । क॒व्यैः । पि॒तृऽभिः॑ । घ॒र्म॒सत्ऽभिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ये᳓ । ताः । आतृ । पु᳓र् । देवत्रा᳓ । जे᳓हमानाः । होत्रा । वृ᳓धः । स्तो᳓म-तष्टासः । अर्कैः᳓ । आ᳓ । अग्ने । याहि । सु-विद᳓त्रेभिः । अर्वा᳓ङ् । सत्यैः᳓ । कव्यैः᳓ । पितृ᳓भिः । घर्मस᳓द्भिः ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *tātṛṣur* ← *tātṛṣuḥ* ← *tṛṣ*
+- \[verb\], plural, Perfect indicative
+- “thirst.”
+
+_________
+
+- *devatrā*
+- \[adverb\]
+
+_________
+
+- *jehamānā* ← *jehamānāḥ* ← *jeh*
+- \[verb noun\], nominative, plural
+
+_________
+
+- *hotrāvida* ← *hotrāvidaḥ* ← *hotrāvid*
+- \[noun\], nominative, plural, masculine
+
+_________
+
+- *stomataṣṭāso* ← *stoma*
+- \[noun\], masculine
+- “hymn; Stoma; stoma \[word\].”
+
+_________
+
+- *stomataṣṭāso* ← *taṣṭāsaḥ* ← *takṣ*
+- \[verb noun\], nominative, plural
+- “produce; shape; fashion; chisel; invent.”
+
+_________
+
+- *arkaiḥ* ← *arka*
+- \[noun\], instrumental, plural, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+
+_________
+
+- *āgne* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *āgne* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *yāhi* ← *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *suvidatrebhir* ← *suvidatrebhiḥ* ← *suvidatra*
+- \[noun\], instrumental, plural, masculine
+- “beneficent.”
+
+_________
+
+- *arvāṅ* ← *arvāñc*
+- \[noun\], nominative, singular, masculine
+- “approaching; facing; less.”
+
+_________
+
+- *satyaiḥ* ← *satya*
+- \[noun\], instrumental, plural, masculine
+- “true; real; real; faithful; good.”
+
+_________
+
+- *kavyaiḥ* ← *kavya*
+- \[noun\], instrumental, plural, masculine
+- “wise.”
+
+_________
+
+- *pitṛbhir* ← *pitṛbhiḥ* ← *pitṛ*
+- \[noun\], instrumental, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *gharmasadbhiḥ* ← *gharma*
+- \[noun\], masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+
+_________
+
+- *gharmasadbhiḥ* ← *sadbhiḥ* ← *sad*
+- \[noun\], instrumental, plural, masculine
+- “seated.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ये। देवत्रा- देवान्। जेहमानाः- गच्छन्तः। होत्राविदः- वाग्विदः। अर्कैः- मन्त्रजपैः।  स्तोमतष्टासः- मन्त्रसिद्धाः। तातृषुः- तर्पयन्ति। तैः। सुविदत्रेभिः- विद्वद्भिः। सत्यैः- अवितथैः।  कव्यैः- सूक्ष्मदर्शिभिः। घर्मसद्भिः- पुण्यकर्मतप्तैः। पितृभिः। अग्ने- सर्वभूतहितक्रतो। अर्वाङ्-  अस्मान् प्रति। आ याहि- आगच्छ॥९॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**देवत्रा** देवान् **जेहमानाः** क्रमेण गच्छन्तः । क्रमेण देवत्वं प्राप्ता इत्यर्थः । **होत्राविदः** यज्ञान् सम्यक् कर्तुं वेदितारः **अर्कैः** अर्चनीयैः स्तोत्रैः **स्तोमतष्टासः** स्तोमानां च सम्यक्कर्तारः **ये** पितरः **तातृषुः** तृष्यन्ति हे **अग्ने** त्वं तैः **पितृभिः** **अर्वाङ्**  अस्मदभिमुखः **आ** **याहि** आगच्छ । कीदृशैः । **सुविदत्रेभिः** सुविदत्रैः सत्यैः अविसंवादिभिः **कव्यैः** । कव्यं नाम पितृदेवत्यं हविः । तत्संबन्धिभिः । यद्वा कव्यैः कविभिर्मेधाविभिः । स्वार्थिको यत् । **घर्मसद्भिः** यज्ञसादिभिः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 ये पितरो देवत्रा देवेषु मध्ये जेहमानाः प्रथमानाः होत्रावृधः होमकर्तॄन्वर्धयन्तः स्तोमतष्टासः स्तोत्ररूपैर्मन्त्रैः संस्कृतास्सन्तः अर्कैरर्चनीयैर्हविर्भिः तातृपुः तृप्तिं गताः हे अग्ने! तैः पितृभिः सार्धमर्वाङायहि अस्मदभिमुखं आगच्छ । कीदृशैः पितृभिः? सुविदत्रेभिः सम्यगभिज्ञैः सत्यैः सत्यवादिभिः कव्यैः कव्याख्येन पितॄणामन्नेन युक्तैः घर्मसद्भिः घर्मे दीप्यमानेऽस्मिन्कर्मणि निवसद्विः ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Come, **Agni**, to our presence with the **Pitṛs**, who are possessed of knowledge, who having attained aseat among the gods, thirst (for the **Soma**), skilled in sacrifices, reciters of praises with hymns, truth-speaking,seers, frequenters of sacrifices.”
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Jamison Brereton</summary>
+
+Those who have thirsted, panting, among the gods, those knowing the  priestly functions, those fashioned by praise along with chants—  
+with them, o Agni, drive here, turned this way—with the forefathers who  are good to find and truly here, the poets who sit by the gharma drink.
+</details>
+
+<details><summary>Griffith</summary>
+
+Come to us, Agni, with the gracioug Fathers who dwell in glowing light, the very Kavyas,  
+     Who thirsted mid the Gods, who hasten hither, oblation winners, theme of singers' praises.
+</details>
+
+<details><summary>Geldner</summary>
+
+Die bei den Göttern lechzend gedürstet haben, die Opferkundigen, die ihre Loblieder zu Preisgesängen formten, mit den leicht aufzufindenden komme näher, o Agni, mit den wahrhaftigen Kavya´s, den Vätern, die beim Gharma sitzen!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang gepriesen, Mit denen, Agni, komm, den holden Vätern, den treuen, weisen, die im Lichte wohnen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Кто мучился жаждой среди богов, изнывая,  
+Знатоки жертвы, чьи восхваления выразились в песнях, -  
+О Агни, приди с легконаходимыми отцами в наши края,  
+С истинными кавья, сидящими вокруг горячего молока!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पितरः
+- शङ्खो यामायनः
+- त्रिष्टुप्
+- धैवतः
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

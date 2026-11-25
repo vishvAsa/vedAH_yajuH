@@ -3,6 +3,7 @@ title: ११ हविर्वनस्पतिस्विष्टकृत
 unicode_script: devanagari
 
 ---
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -11,36 +12,371 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ भरतँ शिक्षतव्ँवज्रबाहू ।   
 अस्माँ᳓ इन्द्राग्नी अवतँ श᳓चीभिः ।  
 इमे᳓ नु᳓ ते᳓ रश्म᳓यस्सू᳓र्यस्य ।   
-ये᳓भिस्सपित्व᳓म्पित᳓रो न आ᳓यन् ।   
+ये᳓भिस्सपित्व᳓म्पित᳓रो न आ᳓यन् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/109/07_A_bharataM.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
+- देवता - इन्द्राग्नी
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+आ᳓ भरतं शि᳓क्षतं वज्रबाहू  
+अस्माँ᳓ इन्द्राग्नी अवतं श᳓चीभिः  
+इमे᳓ नु᳓ ते᳓ रश्म᳓यः सू᳓रियस्य  
+ये᳓भिः सपित्व᳓म् पित᳓रो न आ᳓सन्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+bharatam ← √bhr̥- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śíkṣatam ← √śak- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+
+vajrabāhū ← vájrabāhu- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+asmā́n ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+avatam ← √avⁱ- (root)  
+{number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+śácībhiḥ ← śácī- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+imé ← ayám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+nú ← nú (invariable)  
+{}
+
+raśmáyaḥ ← raśmí- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ā́san ← √as- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sapitvám ← sapitvá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भ॑रतं॒ शिक्ष॑तं वज्रबाहू अ॒स्माँ इ॑न्द्राग्नी अवतं॒ शची॑भिः ।  
+इ॒मे नु ते र॒श्मयः॒ सूर्य॑स्य॒ येभिः॑ सपि॒त्वं पि॒तरो॑ न॒ आस॑न् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 आ भ॑रतँ शिक्षतव्ँवज्रबाहू ।   
 अ॒स्माँ इ॑न्द्राग्नी अवतँ॒ शची॑भिः ।  
 इ॒मे नु ते र॒श्मय॒स्सूर्य॑स्य ।   
-येभि॑स्सपि॒त्वम्पि॒तरो॑ न॒ आय॑न् ।   
+येभि॑स्सपि॒त्वम्पि॒तरो॑ न॒ आय॑न् ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पद-पाठः</summary>
+
+आ । भ॒र॒त॒म् । शिक्ष॑तम् । व॒ज्र॒बा॒हू॒ इति॑ वज्रऽबाहू । अ॒स्मान् । इ॒न्द्रा॒ग्नी॒ इति॑ । अ॒व॒त॒म् । शची॑भिः ।  
+इ॒मे । नु । ते । र॒श्मयः॑ । सूर्य॑स्य । येभिः॑ । स॒ऽपि॒त्वम् । पि॒तरः॑ । नः॒ । आस॑न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓ । भरतम् । शिक्षतम् । वज्र-बाहू । अस्मा᳓न् । इन्द्राग्नी । अवतम् । श᳓चीभिः । इमे᳓ । नु᳓ । ते᳓ । रश्म᳓यः । सू᳓र्यस्य । ये᳓भिः । सपित्व᳓म् । पित᳓रः । नः । आ᳓-यन् ।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *bharataṃ* ← *bharatam* ← *bhṛ*
+- \[verb\], dual, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+
+_________
+
+- *śikṣataṃ* ← *śikṣatam* ← *śikṣ*
+- \[verb\], dual, Present imperative
+- “help; give.”
+
+_________
+
+- *vajrabāhū* ← *vajra*
+- \[noun\], masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+
+_________
+
+- *vajrabāhū* ← *bāhū* ← *bāhu*
+- \[noun\], vocative, dual, masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+
+_________
+
+- *asmāṃ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *avataṃ* ← *avatam* ← *av*
+- \[verb\], dual, Present imperative
+- “support; help; prefer; prefer; like.”
+
+_________
+
+- *śacībhiḥ* ← *śacī*
+- \[noun\], instrumental, plural, feminine
+- “Śacī; power; dexterity; ability; aid.”
+
+_________
+
+- *ime* ← *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *nu*
+- \[adverb\]
+- “now; already.”
+
+_________
+
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *raśmayaḥ* ← *raśmi*
+- \[noun\], nominative, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+
+_________
+
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+
+- *yebhiḥ* ← *yad*
+- \[noun\], instrumental, plural, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *sapitvam* ← *sapitva*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
+- \[noun\], nominative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *na* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *āsan* ← *as*
+- \[verb\], plural, Imperfect
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+वज्रबाहू- वज्रपाणीन्द्राग्नी। आ भरतम्- धारणं कुरुतम्। अस्मान्- नः। शिक्षतम्- विद्या दत्तम्।  शचीभिः- प्रज्ञाभिः। अवतम्- रक्षतम्। येभिः। नः- अस्माकम्। पितरः- पूर्वपुरुषाः। सपित्वम्-  सहप्राप्तव्यं स्थानम्। आसन्- अगच्छन्। ते। इमे। सूर्यस्य- आत्मसूर्यस्यार्चिरादिमार्गदैवतस्य।  रश्मयः- चित्किरणाः॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वज्रबाहू** वज्रहस्तौ इन्द्राग्नी **आ** **भरतम्** अस्मदर्थं धनमाहरतम् । आहृत्य च **शिक्षतं** अस्मभ्यं दत्तम् । शिक्षतिर्दानकर्मा । अपि च **अस्मान्** अनुष्ठातॄन **शचीभिः** । कर्मनामैतत् । आत्मीयैः कर्मभिः **अवतं** रक्षतम् । किं च सूर्यात्मन इन्द्रस्य **येभिः** रश्मिभिः यैः अर्चिभिः **नः** अस्माकं **पितरः** पूर्वपुरुषाः **सपित्वं** सहप्राप्तव्य स्थानम् **आसन्** ब्रह्मलोकमगच्छन् । अर्चिरादिमार्गेण हि ब्रह्मलोकमुपासका गच्छन्ति । तथा च श्रूयते - तेऽर्चिषमभिसंभवन्त्यर्चिषोऽहः ' ( छा. उ. ५. १०. १ ) इति। यद्वा। येभी रश्मिभिः सपित्वं समवेतत्वमध्यगच्छन्। **ते** **रश्मयः** **इमे** **नु** इदानीमस्माभिर्दृश्यमाना एत एव खलु । सूर्यात्मन इन्द्रस्य ये रश्मयस्त एवाग्नेरपि । तथा च श्रूयते - अग्निं वावादित्यः सायं प्रविशति तस्मादग्निर्दूरान्नक्तं ददृशे ' (तै. ब्रा. २. १. २. ९) इति । तस्मात् सूर्यस्य रश्मीनां स्तवनेनेन्द्राग्न्योरुभयोरपि स्तुतिः सिद्धा । भरतम् । हृग्रहोर्भः०' इति भत्वम् । शिक्षतम् ।  ‘ शिक्ष विद्योपादाने '। अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शपः पित्त्वादनुदात्तत्वम् । धातुस्वरः शिष्यते । तिङः परत्वान्निघाताभावः । सपित्वम् ।  ‘ आप्लृ व्याप्तौ ' । अस्मात् सशब्दोपपदात् “ कृत्यार्थे तवैकेन्” ' इति त्वन्प्रत्ययः । पृषोदरादित्वात् धातोः पिभावः । यद्वा ।  ‘ षप समवाये । इन्सर्वधातुभ्यः' इति इन् । सपेर्भावः सपित्वम् । आसन् । अस गतिदीप्त्यादानेषु'। लङि आडागम उदात्तः ।  ‘ यद्वृत्तान्नित्यम्' इति निघाताभावः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे इन्द्राग्नी! वज्रबाहू! सायुधपाणी! आभरतं सामर्थ्याद्धनमाहरतं आहृत्य तत् शिक्षतं संस्कुरुतं, अतः तत्प्रदानेन अस्मानवतं रक्षतम् । शचीभिः कर्मभिः यैः विश्वं रक्षतः । किञ्च - ये च इमे ते जगत्प्रसिद्धाः रक्षकत्वेन सर्वस्य रश्मयः येभिः यैः सपित्वं समवेतत्वं एकत्वम् । षच समवाये, 'इन् सर्वधातुभ्यः' इति इन् । नः अस्माकं पितरः पूर्वपुरुषाः आयन् गताः तैश्च सह अस्मानवतमिति ॥
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Bring wealth, thunderers, and give it to us; protect us, **Indra** and **Agni**, by your deeds; may those rays of the sun, by which our forefathers have attained together a hevenly region, shine also upon us.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Rays of the sun: the radiance of Indra and Agni, as identical with the sun; by praisint the sun, therefore, Indra and Agni are praised also: terciṣamabhisaṃbhavantyarciṣohaḥ (**Chāndoga** **Upaniṣad**. 5.10.1);
+
+Sapitvam = sahaprāptavyam sthānam, a plural ce to be obtained together, i.e. the world of **Brahmā**, to which the pious proceed by the path of light, etc. (arcirādi-mārgeṇa brahmalokam upāsakā gacchanti)
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Jamison Brereton</summary>
+
+Bring it to the fore, ready your skill, you two with the mace in your arms.  Help us, o Indra and Agni, with your skills.  
+Here are the very rays of the sun with which our forefathers were in  communion.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+I do not entirely understand the purport of the second half-verse. Geldner compares VII.76.4, which shows some similarities and which refers to the forefathers finding the light of the dawn cows in the Vala cave. Much closer by is vs. 12 of the last hymn (I.108), in which Indra and Agni are urged to become exhilarated at sun rise in the middle of heaven. One way or another this must be a reference to the dawn sacrifice.
+</details>
+
+<details><summary>Griffith</summary>
+
+Bring wealth and give it, ye whose arms wield thunder: Indra and Agni, with your powers protect us.  
+     Now of a truth these be the very sunbeams wherewith our fathers were of old united.
+</details>
+
+<details><summary>Geldner</summary>
+
+Bringt mit, strengt euch an, ihr mit der Keule im Arm; stehet uns nach Kräften bei, Indra und Agni! Diese sind noch dieselben Strahlen der Sonne, mit denen unsere Väter gleichzeitig waren.
+</details>
+
+<details><summary>Grassmann</summary>
+
+O bringt herbei und schenket, blitzbewehrte, mit euren Kräften helft uns, Indra-Agni; Hier eben diese Sonnenzügel sind es, durch die mit euch vereint die Väter waren.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Принесите (поддержку), одарите, о двое с ваджрой в руках,  
+Помогите нам, о Индра и Агни, (своими) силами!  
+Вон те самые лучи солнца,  
+К которым были причастны отцы наши.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- कुत्स आङ्गिरसः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पढ़ाने और पढ़नेवाले कैसे होते हैं, यह उपदेश अगले मन्त्र में इन्द्र और अग्नि नाम से किया है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वज्रबाहू) जिनके वज्र के तुल्य बल और वीर्य हैं वे (इन्द्राग्नी) हे पढ़ने और पढ़ानेवालो ! तुम दोनों जैसे (इमे) ये (सूर्यस्य) सूर्य की (रश्मयः) किरणे हैं और (ते) रक्षा आदि करते हैं और जैसे (पितरः) पितृजन (येभिः) जिन कामों से (नः) हम लोगों के लिये (सपित्वम्) समान व्यवहारों की प्राप्ति करने वा विज्ञान को देकर उपकार के करनेवाले (आसन्) होते हैं वैसे (शचीभिः) अच्छे काम वा उत्तम बुद्धियों से (अस्मान्) हम लोगों को (आ, भरतम्) स्वीकार करो, (शिक्षतम्) शिक्षा देओ और (नु) शीघ्र (अवतम्) पालो ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जो अच्छी शिक्षा से मनुष्यों में सूर्य के समान विद्या का प्रकाशकर्त्ता और माता-पिता के तुल्य कृपा से रक्षा करने वा पढ़ानेवाला तथा सूर्य के तुल्य प्रकाशित बुद्धि को प्राप्त और दूसरा पढ़नेवाला है, उन दोनों का नित्य सत्कार करो, इस काम के विना कभी विद्या की उन्नति होने का संभव नहीं हैं ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे वज्रबाहू इन्द्राग्नी युवां य इमे सूर्यस्य रश्मयः सन्ति ते रक्षणादिकं च कुर्वन्ति यथा च पितरो येभिर्यैः कर्मभिर्नोऽस्मभ्यं सपित्वं प्रदायोपकारका आसन् तथा शचीभिरस्मान्नाभरतं शिक्षतं सततं न्ववतं च ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथाध्यापकाध्येतारौ कीदृशावित्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (आ) (भरतम्) धारयतम् (शिक्षतम्) विद्योपादानं कारयतम् (वज्रबाहू) वज्रौ बलवीर्य्ये बाहू ययोस्तौ (अस्मान्) (इन्द्राग्नी) अध्येत्रध्यापकौ (अवतम्) रक्षणादिकं कुरुतम् (शचीभिः) कर्मभिः प्रज्ञाभिर्वा (इमे) प्रत्यक्षाः (नु) शीघ्रम् (ते) (रश्मयः) किरणाः (सूर्य्यस्य) मार्त्तण्डमण्डलस्य (येभिः) (सपित्वम्) समानं च तत् पित्वं प्रापणं वा विज्ञानं च तत्। अत्र पिगतावित्यस्माद्धातोरौणादिकस्त्वन् प्रत्ययः। (पितरः) यथा जनकाः (नः) अस्मभ्यम् (आसन्) भवन्ति ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्या यः सुशिक्षया मनुष्येषु सूर्यवद्विद्याप्रकाशको मातापितृवत्कृपया रक्षकोऽध्यापकस्तथा सूर्यवत् प्रकाशितप्रज्ञोऽध्येता चास्ति तौ नित्यं सत्कुरुत नह्येतेन कर्मणा विना कदाचिद्विद्योन्नतिः सम्भवति ॥ ७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो! उत्तम शिक्षणाने माणसात सूर्याप्रमाणे विद्येचा प्रकाशक, मात्यापित्याप्रमाणे कृपाळू, रक्षक व अध्यापक आणि सूर्याप्रमाणे तेजस्वी प्रज्ञायुक्त अध्यापक व विद्यार्थी या दोघांचा नित्य सत्कार करावा. या कर्माशिवाय विद्येची कधी वाढ होणार नाही. ॥ ७ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदिन्द्राग्नी᳓ ।   
 छा᳓गस्य हवि᳓ष आ᳓त्तामद्य᳓ ।   
@@ -290,41 +626,367 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिप्रीहि᳓ देवाँ᳓ उशतो᳓ यविष्ठ ।   
 विद्वाँ᳓ ऋतूँ᳓रृतुपते यजेह᳓ ।   
 ये᳓ दै᳓व्या ऋत्वि᳓जस्ते᳓भिरग्ने ।   
-त्वँ᳓ हो᳓तॄणामस्या᳓यजिष्ठः ।   
+त्वँ᳓ हो᳓तॄणामस्या᳓यजिष्ठः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/002/01_piprIhi_devA_N.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>मूलम्</summary>
-
-पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ ।   
-वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।   
-ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने ।   
-त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।   
+- देवता - अग्निः
+- ऋषिः - त्रित आप्त्यः
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>Thomson & Solcum</summary>
+
+पिप्रीहि᳓ देवाँ᳓ उशतो᳓ यविष्ठ  
+विद्वाँ᳓ ऋतूँ᳓र् ऋतुपते यजेह᳓  
+ये᳓ दइ᳓विया ऋत्वि᳓जस् ते᳓भिर् अग्ने  
+तुवं᳓ हो᳓तॄणाम् असि आ᳓यजिष्ठः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+devā́n ← devá- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+piprīhí ← √prī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+
+uśatáḥ ← √vaś- (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yaviṣṭha ← yáviṣṭha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ihá ← ihá (invariable)  
+{}
+
+r̥tū́n ← r̥tú- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+r̥tupate ← r̥tupati- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vidvā́n ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+
+yaja ← √yaj- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+daívyāḥ ← daívya- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+r̥tvíjaḥ ← r̥tvíj- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tébhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ā́yajiṣṭhaḥ ← ā́yajiṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hótr̥̄ṇām ← hótar- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+tvám ← tvám (pronoun)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ वि॒द्वाँ ऋ॒तूँरृ॑तुपते यजे॒ह ।  
+ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वं होतॄ॑णाम॒स्याय॑जिष्ठः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।  
+ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ ।  
+वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।  
+ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने ।  
+त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒प्री॒हि । दे॒वान् । उ॒श॒तः । य॒वि॒ष्ठ॒ । वि॒द्वान् । ऋ॒तून् । ऋ॒तु॒ऽप॒ते॒ । य॒ज॒ । इ॒ह ।  
+ये । दैव्याः॑ । ऋ॒त्विजः॑ । तेभिः॑ । अ॒ग्ने॒ । त्वम् । होतॄ॑णाम् । अ॒सि॒ । आऽय॑जिष्ठः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+पि॒प्री॒हि । दे॒वान् । उ॒श॒तः । य॒वि॒ष्ठ॒ । वि॒द्वान् । ऋ॒तून् । ऋ॒तु॒प॒त॒ इत्यृ॑तु-प॒ते॒ । य॒ज॒ । इ॒ह ॥ ये । दैव्याः॑ । ऋ॒त्विजः॑ । तेभिः॑ । अ॒ग्ने॒ । त्वम् । होतृ॑णाम् । अ॒सि॒ । आय॑जिष्ठ॒ इत्या-य॒जि॒ष्ठः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 पिप्रीहि᳓ । देवा᳓न् । उशतः᳓ । यविष्ठ । विद्वा᳓न् । ऋतूं᳓रृतुपते । यजे । ह᳓ । ये᳓ । दै᳓व्याः । ऋत्वि᳓जः । ते᳓भिः । अग्ने । त्व᳓म् । हो᳓तॄणाम् । असि । आ᳓-यजिष्ठः ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>Hellwig Grammar</summary>
 
-व्याख्याता ।   
+-   *piprīhi* ← *prī*
+- \[verb\], singular, Perfect imperative
+- “delight; gladden; satisfy; nutrify; comfort.”
+
+_________
+
+- *devāṃ* ← *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *uśato* ← *uśataḥ* ← *vaś*
+- \[verb noun\], accusative, plural
+- “desire; agree; call; care; like; love.”
+
+_________
+
+- *yaviṣṭha*
+- \[noun\], vocative, singular, masculine
+- “youngest.”
+
+_________
+
+- *vidvāṃ* ← *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+
+_________
+
+- *ṛtūṃr* ← *ṛtūn* ← *ṛtu*
+- \[noun\], accusative, plural, masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+
+_________
+
+- *ṛtupate* ← *ṛtu*
+- \[noun\], masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+
+_________
+
+- *ṛtupate* ← *pate* ← *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *yajeha* ← *yaja* ← *yaj*
+- \[verb\], singular, Present imperative
+- “sacrifice; worship; worship.”
+
+_________
+
+- *yajeha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+
+_________
+
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *daivyā* ← *daivyāḥ* ← *daivya*
+- \[noun\], nominative, plural, masculine
+- “divine; divine; celestial.”
+
+_________
+
+- *ṛtvijas* ← *ṛtvijaḥ* ← *ṛtvij*
+- \[noun\], nominative, plural, masculine
+- “ṛtvij; ṛtvij \[word\].”
+
+_________
+
+- *tebhir* ← *tebhiḥ* ← *tad*
+- \[noun\], instrumental, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+
+_________
+
+- *hotṝṇām* ← *hotṛ*
+- \[noun\], genitive, plural, masculine
+- “Hotṛ.”
+
+_________
+
+- *asy* ← *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *āyajiṣṭhaḥ* ← *āyajiṣṭha*
+- \[noun\], nominative, singular, masculine
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+उशतः- कामयमानान्। देवान्। यविष्ठ- युवतम। पिप्रीहि- प्रीणय। विद्वान्- ज्ञानी सन्। ऋतुपते-  ऋतुपालक। ऋतून्- वसन्तादिकालान्। इह। यज- पूजय। ये। दैव्याः- देवपूजकाः। ऋत्विजः-  यज्ञकारयितारः। तेभिः- तैः सह। अग्ने। त्वम्। देवान् पूजय। होतॄणाम्- देवाह्वातॄणाम्।  आयजिष्ठाः- पूज्यतमः। असि- भवसि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **यविष्ठ** युवतमाग्ने **उशतः** स्तुतीः श्रोतुं कामयमानान् **देवान्** **पिप्रीहि** हविर्भिः प्रीणय । हे **ऋतुपते** ऋतूनां देवयागकालानां स्वामिन्नग्ने **ऋतून्** यागकालान् **विद्वान्** जानानस्त्वम् **इह** अस्मिन् यज्ञे तान् **यज** पूजय । किंच हे अग्ने **दैव्याः** देवेषु भवाः “ अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मिन्न उपवक्ता' (तै. आ. ३. ३) इत्यत्रोक्ताः **ये** **ऋत्विजः** सन्ति **तेभिः** तैः सह देवान् यज । यद्वा । दैव्या देवेषु भवा ऋत्विज आश्वलायनेनोक्ताः चन्द्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्गाता (आश्व. गृ. १. २३. ८-९) इति । तैः सह यज । यस्मात् **त्वं** होतॄणां मध्ये **आयजिष्ठः** अभिमुख्येन देवानां यष्टृतमः **असि** भवसि ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे यविष्ठ युवतम अग्ने, उशतः कामयमानान् देवान् पिप्रीहि, अतिशयेन प्रीणय।
+हे ऋतुपते सूर्यात्मना काल-परिपालक त्वम् ऋतून् काल-विशेषान् 
+[[P2037]] विद्वान् जानन् वर्तसे।
+
+तस्माद् इहोचिते काले यज।
+
+देवेषु भवा ये दैव्या ऋत्विजः सन्ति, “अग्निर् होता। अश्विनाऽध्वर्यू। त्वष्टाऽग्नीत्” इत्यादिनाऽऽम्नातास् तैर् देवैः सह, त्वम् अस्य यजमानस्य संबन्धिनां होतॄणाम् ऋत्विजां मध्ये आयजिष्ठः सर्वतो यष्टृतमो ऽसि।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
 
 - पि॒प्री॒हि दे॒वाँ उ॑श॒तो य॑विष्ठ वि॒द्वाँ ऋ॒तूँर्ऋ॑तुपते यजे॒ह ।  
 ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वँ होतॄ॑णाम॒स्याय॑जिष्ठः ।  
-
-  - टीका  अथ तत्रैव स्विष्टकृतः पुरोनुवाक्यामाह— पिप्रीहि देवानिति ।   हे यविष्ठ युवतमाग्न उशतः कामयमानान्दवोन्पिप्रीह्यतिशयेन प्रीणय ।   हे स्त्रतुपते सूर्यात्मना कालपरिपालक त्वमृतून्कालविशेषा  २०३७ न्विद्वाञ्जानन्वर्तसे ।   तस्मादिहोचिते काले यज ।   देवेषु भवा ये दैव्या ऋत्विजः सन्ति ‘अग्निर्होता ।   अश्विनाऽध्वर्यू ।   त्वष्टाऽग्नीत्” इत्यादिनाऽऽम्रातास्तेमिर्स्तेदवैः सह त्वमस्य यजमानस्य संबन्धिनां होतॄणामृत्विजां मध्य आयजिष्ठः सर्वतो यष्टृतमोऽसि ।   
-</details>
+  - टीका  अथ तत्रैव स्विष्टकृतः पुरोनुवाक्यामाह— पिप्रीहि देवानिति ।   हे यविष्ठ युवतमाग्न उशतः कामयमानान्दवोन्पिप्रीह्यतिशयेन प्रीणय ।   हे स्त्रतुपते सूर्यात्मना कालपरिपालक त्वमृतून्कालविशेषा  २०३७ न्विद्वाञ्जानन्वर्तसे ।   तस्मादिहोचिते काले यज ।   देवेषु भवा ये दैव्या ऋत्विजः सन्ति ‘अग्निर्होता ।   अश्विनाऽध्वर्यू ।   त्वष्टाऽग्नीत्” इत्यादिनाऽऽम्रातास्तेमिर्स्तेदवैः सह त्वमस्य यजमानस्य संबन्धिनां होतॄणामृत्विजां मध्य आयजिष्ठः सर्वतो यष्टृतमोऽसि ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, youngest (of the deities), propitiate the desiring gods; lord of seasons, cognizant of seasons,here offer worship; worship with those who are the priests of the celestials; among the ministrant priests you arethe best offerer.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The priests: daivyā ṛtvijaḥ: Agni the **hotā**, **Aśvins** the **adhvaryus**, **Tvaṣṭā** the agnīdh andMitra the upavaktā (**Āśvalāyana** **Gṛhyasūtra** 1.23.8-9); or, **Candramas** the **brahmā**, **Āditya** the adhvaryuand **Parjanya** the **udgātā**; these are the priests of the gods in heaven: **Taittirīya** **Āraṇyaka** 3.3
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Please the gods, who are eager for it, o youngest one. Knowing the ritual  sequences, o lord of the sequences, perform the sacrifice here.  
+Those divine sequential-sacrificers—along with them, o Agni, you are  the best sacrificer among the Hotars.
+</details>
+
+<details><summary>Griffith</summary>
+
+GLADDEN the yearning Gods, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons,  
+     With all the Priests Celestial, O Agni. Best worshipper art thou of all Invokers.
+</details>
+
+<details><summary>Keith</summary>
+
+Delight the eager gods, O thou most young,  
+Knowing the seasons, O lord of the season, do thou sacrifice here; With the priests divine, O Agni,  
+Thou art the best sacrificer of Hotrs.
+</details>
+
+<details><summary>Geldner</summary>
+
+Stelle die verlangenden Götter zufrieden, du Jüngster; der Opferzeiten kundig, du Herr der Zeiten, opfere hier! Welche die göttlichen Opferpriester sind, mit denen zusammen bist du, Agni, unter den Hotri´s der beste Fürbitter.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Zeiten, O Agni, mit den Götterpriestern allen, denn du bist aller Opferpriester bester.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Сделай довольными жаждущих богов, о самый юный!  
+Зная время (жертвоприношений), о господин (этого) времени, принеси здесь жертвы!  
+Какие (есть) божественные жрецы, о Агни, с ними вместе  
+Ты лучше всех добываешь жертвой среди хотаров!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- त्रितः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यविष्ठ)हे तीनों लोकों के साथ अत्यन्त संयुक्त होनेवाले (उशतः-देवान्) तुझे चाहनेवाले ज्योतिर्विद्या-ज्ञाता विद्वानों को (पिप्रीहि) अपने विज्ञान से प्रसन्न कर-सन्तुष्ट कर (ऋतुपते) हे ऋतुओं के स्वामी या पालक! (विद्वान्) उन्हें जनाने के हेतु (इह) इस संसार में (ऋतून् यज) वसन्त आदि ऋतुओं य कालों-कालविभागों-वर्ष, मास, दिन, रात्रि, प्रहर आदि कोसङ्गत कर(ये दैव्याः-ऋत्विजः) जो मनुष्यों के नहीं किन्तु देवों-आकाशीय देवों के ऋत्विक् मन्त्र-मननीय वचन, विचार या दिशाएँ हैं (तेभिः) उनके द्वारा (अग्ने त्वम्) हे सूर्य ! तू (होतॄणाम्-आयजिष्ठः) उन ज्ञानग्राहक विद्वानों को सब ओर से अत्यन्त ज्ञानग्रहण करानेवाला है॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  ज्योतिषी विद्वानों के लिये सूर्य एक ज्ञान ग्रहण कराने का साधन है।  ऋतु या कालविभाग सूर्य से ही होते हैं तथा दिशाओं में वर्त्तमान ग्रह, तारे आदि का ज्ञान भी सूर्य से ही मिलता है। विद्यासूर्य विद्वान् के द्वारा दिव्य ज्ञानों की प्राप्ति होती है। वह सुखद समय का निर्माण करता है, जीवनयात्रा की दिशाओं को दिखाता है॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+पूर्ववत्।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यविष्ठ) हे युवतम ! लोकत्रयेण सह मिश्रणधर्मन् ! (ऋतुपते) हे ऋतूनां स्वामिन् ! पालक ! वा सूर्य ! “ऋतुपाः-य ऋतुं पाति रक्षति स सूर्यः” [ऋ० ३।४६।२। दयानन्दः] (उशतः-देवान्) स्वां कामयमानान् ज्योतिर्विदो विदुषः (पिप्रीहि) स्वविज्ञानेन प्रीणय (विद्वान्) वेदयन्-ज्ञापयन् ज्ञापनायेत्यर्थः “लक्षणहेत्वोः क्रियायाः” [अष्टा० ३।२।१३६] इति हेत्वर्थे शतृप्रत्ययः (इह-ऋतून् यज) अत्र संसारे ऋतून् वसन्तादीन्, कालान्-कालविभागान् वा “ऋतुभिः कालैः” [निरु० ८।४] सङ्गमय “यज-सङ्गमय” [ऋ० १।१४।११। दयानन्दः] (ये दैव्याः-ऋत्विजः)ये खलु मन्त्राः “छन्दांसि वा ऋत्विजः” [मै० ३।९।८] अथवा दिशः “सप्तर्त्विजः सूर्यः सप्त दिशो नाना सूर्याः [तै० आ० १।७।४] (तेभिः) तैः सह (अग्ने) हे बृहन्-अग्ने सूर्य ! (त्वं होतॄणाम्-आयजिष्ठः-असि) ज्ञानग्रहीतॄणां त्वं समन्तात् सङ्गन्तृतमोऽसि॥१॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदग्निँ᳓ स्विष्टकृ᳓तम् ।   
 अ᳓याडग्नि᳓रिन्द्राग्नियो᳓श्छा᳓गस्य हवि᳓षᳶ प्रिया᳓ धा᳓मानि ।   

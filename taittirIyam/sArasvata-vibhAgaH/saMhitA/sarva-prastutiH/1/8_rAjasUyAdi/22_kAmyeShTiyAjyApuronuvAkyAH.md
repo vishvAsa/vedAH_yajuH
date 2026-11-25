@@ -96,9 +96,40 @@ May your tongue move forth to the ghee.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Whitney</summary>
+
+###### Translation
+2. O Agni-and-Vishṇu, great \[is\] your dear domain (*dhā́man*); ye  
+partake of (*vī*) the ghee, enjoying secret things, increasing by good  
+praise in each house; may your tongue move up to meet the ghee.
+
+###### Notes
+For the exchanges of pādas in the other texts, see under the preceding  
+verse; for this verse we have here further AśS. (ii. 8. 3), without such  
+exchange. In the material corresponding to our 2, all the other texts  
+read *juṣāṇā́* at end of **b**; at end of **d**, TS. has again *-ṇyet*,  
+and all the others *-ṇyat;* TS.MS. have *vāvṛdhāna* at end of **c**, and  
+TS. *suṣṭutī́r*, MS. *suṣṭutī́*, before it; while AśS.śśS. read instead  
+*suṣṭutir vām iyānā*, evidently corrupt. Ppp. has, for **b** (putting it  
+in the other verse), *pātaṁ ghṛtasya guhyā juṣāṇaḥ*. VS. (viii. 24) and  
+MS. (in i. 3. 39), finally, have a second half-verse nearly like our  
+**c, d**, but addressed to Agni, with a wholly different first half: it  
+reads *dáme-dame samídhaṁ yakṣy* (MS. *yákṣy*) *agne práti te jihvā́  
+ghṛtám úc caraṇyat*. ⌊The "inversion" of the verses in Ppp., taken with  
+the "exchange of pādas 1 **b** and 2 **b**," seems to mean that the Ppp.  
+reading is as follows: *agnāviṣṇū mahi dhāma priyaṁ vāṁ pātaṁ ghṛtasya  
+guhyāni nāma: dame-dame* etc.; and then, *agnāviṣṇu mahi tad vāṁ  
+mahitvaṁ pātaṁ ghṛtasya guhyā juṣāṇaḥ: dame-dame* etc.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+Ye love the great law, Agni Vishnu! joying, ye feast on mystic essences of butter, Exalted in each house with fair laudation. Let your tongue stretch to take the offered fatness.
+</details>
+
 <details><summary>Keith</summary>
 
 O Agni and Visnu, great is your dear abode;  
@@ -107,15 +138,54 @@ In every home increasing lauds,
 May your tongue move forth to the ghee.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
+दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यव्ँवाव्ँ॑वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णा ।  
 दमे॑दमे सुष्टु॒तीर्वा॑वृधा॒ना प्रति॑ वाञ्जि॒ह्वा घृ॒तमुच्च॑रण्येत्  ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+अग्ना॑विष्णू॒ इति॑। महि॑। धाम॑। प्रि॒यम्। वा॒म्। वी॒थः। घृ॒तस्य॑। गुह्या॑। जु॒षा॒णौ। दमे॑ऽदमे। सु॒ऽस्तु॒त्या। व॒वृ॒धा॒नौ। प्रति॑। वा॒म्। जि॒ह्वा। घृ॒तम्। उत्। च॒र॒ण्या॒त्। ३०.२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अग्ना॑विष्णू॒ इत्यग्ना॑-वि॒ष्णू॒ । महि॑ । धाम॑ । प्रि॒यम् । वा॒म् । वी॒थः । घृ॒तस्य॑ । गुह्या॑ । जु॒षा॒णा ॥ दमे॑दम॒ इति॒ दमे॑-द॒मे॒ । सु॒ष्टु॒तीरिति॑ सु-स्तु॒तीः । वा॒वृ॒धा॒ना । प्रतीति॑ । वा॒म् । जि॒ह्वा । घृ॒तम् । उदिति॑ । च॒र॒ण्ये॒त् ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नाविष्णू
+- मेधातिथिः
+- त्रिष्टुप्
+- अग्नाविष्णु सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+बिजुली और सूर्य के गुणों का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्नाविष्णू) हे बिजुली और सूर्य (वाम्) तुम दोनों का (महि) बड़ा (प्रियम्) प्रीति करनेवाला (धाम) धर्म वा नियम है, तुम दोनों (घृतस्य) सार रस के (गुह्या) सूक्ष्मतत्त्वों को (जुषाणौ) सेवन करते हुए (वीथः) प्राप्त होते हो। (दमेदमे) घर घर में (सुष्टुत्या) बड़ी स्तुति के साथ (वावृधानौ) वृद्धि करते हुए [रहते हो,] (वाम्) तुम दोनों की (जिह्वा) जयशक्ति (घृतम्) सार रस को (प्रति) प्रत्यक्ष रूप से (उत्) उत्तमता के साथ (चरण्यात्) प्राप्त हो ॥२॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  बिजुली वा शारीरिक अग्नि और सूर्य के नियम बड़े अद्भुत हैं, बिजुली अन्न के रस से शरीर को पुष्टि करती और सूर्य मेघ की जलवृष्टि से संसार को बढ़ाता है ॥२॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   २−(अग्नाविष्णू) म० १। विद्युत्सूर्यौ (धाम) धर्मः। नियमः (प्रियम्) प्रीतिकरम् (वीथः) वी गतिव्याप्तिप्रजनकान्त्यसनखादनेषु। गच्छथः। प्राप्नुथः (घृतस्य) साररसस्य (गुह्या) गुप्तानि। सूक्ष्मतत्त्वानि (सुष्टुत्या) शोभनया स्तुत्या (वावृधानौ) वर्धमानौ (उत्) उत्तमतया। अन्यत्पूर्ववत्-म० १ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2266,6 +2336,14 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 आ मा॒ जने॑ श्रवयतं युवाना श्रु॒तं मे॑ मित्रावरुणा॒ हवे॒मा ॥९ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+प्र बा॒हवा॑ सिसृतञ्जी॒वसे॑ नः ।   
+आ नो॒ गव्यू॑तिमुक्षतङ्घृ॒तेन॑ ।   
+आ नो॒ जने॑ श्रवयतय्ँ युवाना ।   
+श्रु॒तम्मे॑ मित्रावरुणा॒ हवे॒मा ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । बा॒हवा॑ । सि॒सृ॒त॒म् । जी॒वसे॑ । नः॒ । आ । नः॒ । गव्यू॑तिम् । उ॒क्ष॒त॒म् । घृ॒तेन॑ ।  
@@ -2280,6 +2358,11 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्र। बा॒हवा॑। सि॒सृ॒त॒म्। जी॒वसे॑। नः॒। आ। नः॒। गव्यू॑तिम्। उ॒क्ष॒त॒म्। घृ॒तेन॑। आ। मा। जने॑। श्र॒व॒य॒त॒म्। यु॒वा॒ना॒। श्रु॒तम्। मे॒। मि॒त्रा॒व॒रु॒णा॒। हवा॑। इ॒मा। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+प्र᳓ । बाह᳓वा । सिसृतम् । जीव᳓से । नः । आ᳓ । नः । ग᳓व्यूतिम् । उक्षतम् । घृते᳓न । आ᳓ । नः । ज᳓ने । श्रवयतम् । युवाना । श्रुत᳓म् । मे । मित्रा-वरुणा । ह᳓वे । मा᳓ ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2574,6 +2657,16 @@ D3 om. शृणुतम्
 इत्थमद्-आदित्थमयाक्षीदयम्' इति जन-पदेषु मां कथ-यतम् इत्यर्थः । वृद्ध्य्-अभाव आर्षः । किं च- युवां मे मम 'इमा इमानि 'हवा आह्नानानि श्रुतं शृणुतम्, श्रुत्वा पूर्वोक्तं संपादयतमित्यर्थः । श्रु-धातोः शपो लुक् । श्रुतभित्याख्यातस्य पादादित्वान्न सर्व-निघातः । " निलोपो ( द्र. वाप्रा ३.१८ ) इति प्रातिशाख्येन इमानीत्यादि-निकार-लोपः ॥९॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे बाहवा उभौ बाहू नोऽस्माकं जीवसे जीवनाय प्रसिसृतं प्रसुतौ भवतम् । नोऽस्माकं गव्यूतिं गोसमूहं घृतेन उक्षतं सिञ्चतम् । युवाना तरुणौ परस्परमिश्रितौ वा युवां नोऽस्मान् जने जनसमूहे आश्रवयतं सर्वत्र प्रख्यापयतम् । हे मित्रावरुणरूपौ बाहू मे मदीयं इमा हव इदमाह्वानं श्रुतं शृणुतम् ॥
+</details>
+
+<details><summary>सायण-टीका (ब्राह्मणी)</summary>
+
+हे मित्रावरुणौ नो जीवसे अस्माकं जीवनार्थं बाहवा भवदीयौ बाहू प्रसिसृतं प्रसारयतं बाहू प्रसार्यास्मानादाय रक्षतमित्यर्थः । नो गव्यूतिं अस्मदीयं गोसमूहं आ समन्तात् धृतेन उक्षतं सिञ्चतम् । युवाना नित्यतरुणौ परस्परमिश्रितौ वा, युवां नः अस्मात् जने जनमध्ये श्रवयतं प्रख्यापयतम् । हे मित्रावरुणौ मे मदीयं इमा हवा श्रुतमिदमाह्वानं शृणुतम् ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर विद्वानों के विषय में अगले मन्त्र में कहा है ॥
@@ -2724,17 +2817,6 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Agni for you I honour in song,  
-The god first of the bright ones;  
-Honouring him who prospereth the fields  
-Like a much loved friend.
-</details>
-</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/031/14_agniM_vaH.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2934,6 +3016,14 @@ The 1st sg. īḷe in b does not match the nom. pl. part. saparyántaḥ in c. I
 
 I glorify with song, for wealth, Agni the God, the first of you.  
      We honour as a well-loved Friend the God who prospereth our fields.
+</details>
+
+<details><summary>Keith</summary>
+
+Agni for you I honour in song,  
+The god first of the bright ones;  
+Honouring him who prospereth the fields  
+Like a much loved friend.
 </details>
 
 <details><summary>Geldner</summary>
@@ -4623,9 +4713,33 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/01_somArudrA_vi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Whitney</summary>
+
+###### Translation
+1. O Soma-and-Rudra, eject asunder the disease that has entered our  
+household; drive far to a distance perdition; any committed sin put away  
+from us.
+
+###### Notes
+The first three pādas occur in RV. vi. 74. 2 (**a, b, c**) and MS. iv.  
+11. 2, and the last two (repeating **c**) in RV. i. 24. 9 and MS. i. 3.  
+39; TS. i. 8. 22⁵ has the whole verse. At beginning of **c**, all  
+(RV.MS. in the former occurrence) have *āre bādhethām*, omitting *dūrám*  
+(in the latter occurrence, RV. *bā́dhasva dūre*, MS. *āré bādhasva;* both  
+*mumugdhi* in **d**). Ppp. reads, in **c**, *dveṣo nirṛtiṁ ca*, and in  
+**d** *asmāt*. The comm. explains *gayam* as *gṛhaṁ śarīraṁ vā*. ⌊We had  
+**c, d** also above at vi. 97. 2; see also TS. i. 4. 45¹, which has  
+*dvéṣo* like Ppp.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+Scatter and drive away, Soma and Rudra, the sickness that hath come within our dwelling, Afar into the distance chase Destruction, and even from commit- ted sin release us.
+</details>
+
 <details><summary>Keith</summary>
 
 O Soma and Rudra, do ye drive away  
@@ -4634,15 +4748,54 @@ Far away from us smite misfortune;
 Whatever sin we have done remove from us.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑।  
+बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 सोमा॑रुद्रा॒ वि वृ॑हतव्ँ॒विषू॑ची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑ ।      
 आ॒रे बा॑धेथा॒न्निर्ऋ॑तिम्परा॒चैᳵ कृ॒तञ्चि॒देन॒ᳶ प्रमु॑मुक्तम॒स्मत्  ॥
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+सोमा॑रुद्रा। वि। वृ॒ह॒त॒म्। विषू॑चीम्। अमी॑वा। या। नः॒। गय॑म्। आ॒ऽवि॒वेश॑। बाधे॑थाम्। दू॒रम्। निःऽऋ॑तिम्। प॒रा॒चैः। कृ॒तम्। चि॒त्। एनः॑। प्र। मु॒मु॒क्त॒म्। अ॒स्मत्। ४३.१।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सोमा॑रु॒द्रेति॒ सोमा॑-रु॒द्रा॒ । वीति॑ । वृ॒ह॒त॒म् । विषू॑चीम् । अमी॑वा । या । नः॒ । गय॑म् । आ॒वि॒वेशेत्या॑-वि॒वेश॑ ॥ आ॒रे । बा॒धे॒था॒म् । निर्ऋ॑ति॒मिति॒ निः-ऋ॒ति॒म् । प॒रा॒चैः । कृ॒तम् । चि॒त् । एनः॑ । प्रेति॑ । मु॒मु॒क्त॒म् । अ॒स्मत् ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमारुद्रौ
+- प्रस्कण्वः
+- त्रिष्टुप्
+- पापमोचन सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+राजा और वैद्य के गुणों का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सोमारुद्रा) हे सूर्य और मेघ [के समान सुखदायक राजा और वैद्य !] तुम दोनों (विषूचीम्) विसूचिका, [हुलकी आदि] को (विवृहतम्) छिन्न-भिन्न कर दो, (या अमीवा) जो रोग (नः गयम्) हमारे घर वा सन्तान में (आविवेश) प्रवेश कर गया है, (निर्ऋतिम्) दुःखदायिनी कुनीति को (पराचैः) औंधे मुँह करके (दूरम्) दूर (बाधेथाम्) हटाओ, और (कृतम्) उसके किये हुए (एनः) दुःख को (चित्) भी (अस्मत्) हम से (प्र मुमुक्तम्) छुड़ा दो ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो राजा और वैद्य कारणों को समझ कर कुनीति और रोग का प्रतिकार करते हैं, वहाँ प्रजागण दुःख से छूटकर सुखी रहते हैं ॥१॥ मन्त्र १, २ कुछ भेद से ऋग्वेद में है−६।७४।२, ३। इनका भाष्य महर्षि दयानन्द के आश्रय पर किया गया है ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(सोमारुद्रा) सोमः सूर्यः प्रसवनात्-निरु० १४।१२। रुद्रो रौतीति सतः-निरु० १०।५। मध्यस्थानो मेघः। सूर्यमेघवत् सुखप्रदौ राजवैद्यौ (वि वृहतम्) वृहू उद्यमने। छेदयतम् (विषूचीम्) अ० १।२९।१। विषु+अञ्चु गतौ-क्विन्। विषूचिकादिरोगम् (अमीवा) इण्शीभ्यां वन्। उ० १।१५२। इति बाहुलकात् अम रोगे पीडने च-वन्, ईडागमः, टाप्। रोगः (या) (नः) अस्माकम् (गयम्) गृहमपत्यं वा (आविवेश) प्रविष्टवती (बाधेथाम्) निवारयतम् (दूरम्) (निर्ऋतिम्) दुःखप्रदां कुनीतिम् (पराचैः) अ० २।१०।५। पराङ्मुखीं कृत्वा (कृतम्) तया सम्पादितम् (एनः) दोषम् (प्र) प्रकर्षेण (मुमुक्तम्) मोचयतम् (अस्मत्) अस्मत्तः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
