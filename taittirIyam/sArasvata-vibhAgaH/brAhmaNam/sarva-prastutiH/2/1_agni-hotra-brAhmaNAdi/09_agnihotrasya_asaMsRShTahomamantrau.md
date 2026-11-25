@@ -13,6 +13,11 @@ unicode_script: devanagari
 त्रयो॒ वै प्रै॑यमे॒धा आ॑सन् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्र᳓यः । वै᳓ । प्रैयमेधाः᳓ । आसन् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 त्रयो वा इत्यादि ॥  
@@ -27,6 +32,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तेषा॒न्त्रिरेको॑ऽग्निहो॒त्रम॑जुहोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓षाम् । त्रिः᳓ । ए᳓कः । अग्नि-होत्र᳓म् । अजुहोत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -46,6 +56,11 @@ unicode_script: devanagari
 द्विरेकः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्विः᳓ । ए᳓कः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सकृ᳓दे᳓कः ।
@@ -54,6 +69,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स॒कृदेकः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सकृ᳓त् । ए᳓कः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,6 +85,11 @@ unicode_script: devanagari
 
 तेषाय्ँ॒यस्त्रिरजु॑होत् ।
 स ऋ॒चाऽजु॑होत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓षाम् । यः᳓ । त्रिः᳓ । अ᳓जुहोत् । सः᳓ । ऋचा᳓ । अजुहोत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -81,6 +106,11 @@ unicode_script: devanagari
 
 यो द्विः ।
 स यजु॑षा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । द्विः᳓ । सः᳓ । य᳓जुषा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -100,6 +130,11 @@ unicode_script: devanagari
 स तू॒ष्णीम् ॥54॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । सकृ᳓त् । सः᳓ । तूष्णी᳓म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तूष्णीमजुहोत् ।
@@ -116,6 +151,11 @@ unicode_script: devanagari
 तावु॒भावा॑र्ध्नुताम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । च । य᳓जुषा । अ᳓जुहोत् । यः᳓ । च । तूष्णी᳓म् । तौ᳓ । उभा᳓ । अ᳓व । आर्ध्नुताम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तेषां यश्च यजुषाऽजुहोत्, यश्च तूष्णीमजुहोत् तावुभावृद्धिमन्तावभूताम् ।
@@ -129,6 +169,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्यजु॒षाऽऽहु॑ति॒ᳶ पूर्वा॑ होत॒व्या॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । य᳓जुषा । अ᳓हु । तिः । पू᳓र्वा । होतव्या᳙ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -147,6 +192,11 @@ unicode_script: devanagari
 तू॒ष्णीमुत्त॑रा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तूष्णी᳓म् । उ᳓त्-तरा ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभे᳓ एव᳓र्धी᳓ अ᳓वरुन्धे ।
@@ -155,6 +205,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 उ॒भे ए॒वर्धी अव॑रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उभे᳓ । एव᳓ । ऋधी᳓ । अ᳓व । रुन्धे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -176,6 +231,11 @@ unicode_script: devanagari
 अ॒ग्निर्ज्योति॒र्ज्योति॑र॒ग्निस्स्वाहेति॑ सा॒यञ्जु॑होति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्निः᳓ । ज्यो᳓तिः । ज्यो᳓तिः । अग्निः᳓ । स्वा᳓हा । इ᳓ति । साय᳓म् । जुहोति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓त एव᳓ त᳓द्दधाति ।
@@ -186,6 +246,11 @@ unicode_script: devanagari
 रेत॑ ए॒व तद्द॑धाति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रे᳓तः । एव᳓ । त᳓त् । दधाति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्यो ज्यो᳓तिर्ज्यो᳓तिस्सू᳓र्यस्स्वा᳓हे᳓ति प्रातः᳓ ।
@@ -194,6 +259,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सूर्यो॒ ज्योति॒र्ज्योति॒स्सूर्य॒स्स्वाहेति॑ प्रा॒तः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सू᳓र्यः । ज्यो᳓तिः । ज्यो᳓तिः । सू᳓र्यः । स्वा᳓हा । इ᳓ति । प्रातः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +279,11 @@ unicode_script: devanagari
 यस्या॑ग्निहो॒त्रमहु॑तँ॒ सूर्यो॒ऽभ्यु॑देति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रे᳓तः । एव᳓ । हित᳓म् । प्र᳓ । जनयति । रे᳓तः । वै᳓ । एत᳓स्य । हित᳓म् । न᳓ । प्र᳓ । जायते । य᳓स्य । अग्नि-होत्र᳓म् । अ᳓-हुतम् । सू᳓र्यः । अभि᳓ । उत् । ए᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्य᳓न्ते स्या᳓द् उन्नी᳓य प्रा᳓ङुदा᳓द्रवेत् ।
@@ -218,6 +293,11 @@ unicode_script: devanagari
 
 यद्यन्ते॒ स्यात् ।
 उ॒न्नीय॒ प्राङु॒दाद्र॑वेत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓दि । अ᳓न्ते । स्या᳓त् । उत्-नी᳓य । प्रा᳓ङ् । उत् । आ᳓ । द्रवेत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -233,6 +313,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स उ॑प॒साद्यातमि॑तोरासीत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । उप । सा᳓द्या᳓ । त᳓मितोः । आसीत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -251,6 +336,11 @@ unicode_script: devanagari
 अथ॒ भूस्स्वाहेति॑ जुहुयात् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । यदा᳓ । ता᳓म्येत् । अ᳓थ । भूः᳓ । स्वा᳓हा । इ᳓ति । जुहुयात् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 स यदा ताम्येत् श्रान्तो भवति, अथ अनन्तरमेव 'भूस्स्याहा ' इति जुहुयात् ।
@@ -264,6 +354,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्वै भू॒तः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । वै᳓ । भूतः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -283,6 +378,11 @@ unicode_script: devanagari
 तमे॒वोपा॑सरत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । एव᳓ । उ᳓प । असरत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एवै᳓नन्त᳓त उ᳓न्नयति ना᳓र्तिमा᳓र्च्छति य᳓जमानः ॥
@@ -292,6 +392,11 @@ unicode_script: devanagari
 
 स ए॒वैन॒न्तत॒ उन्न॑यति ।
 नार्ति॒मार्च्छ॑ति॒ यज॑मानः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । एव᳓ । एनम् । त᳓तः । उ᳓त् । नयति । ना᳓र्ति । मा᳓ । अ᳓र्त् । शति । य᳓जमानः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

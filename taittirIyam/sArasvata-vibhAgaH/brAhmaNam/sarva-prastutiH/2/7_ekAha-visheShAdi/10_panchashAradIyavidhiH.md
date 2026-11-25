@@ -13,6 +13,11 @@ unicode_script: devanagari
 प्र॒जाप॑तिरकामयत "ब॒होर्भूया॑न्त्स्या॒"मिति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । अकामयत । बहोः᳓ । भू᳓यान् । स्याम् । इ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म्पञ्चशारदी᳓यमपश्यत् ।
@@ -21,6 +26,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स ए॒तम्प॑ञ्चशार॒दीय॑मपश्यत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । एत᳓म् । पञ्चशारदी᳓यम् । अपश्यत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -33,6 +43,11 @@ unicode_script: devanagari
 तमाऽह॑रत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । आ᳓ । अ । अ᳓हरत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नायजत ।
@@ -41,6 +56,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तेना॑यजत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓न । अयजत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,6 +73,11 @@ unicode_script: devanagari
 ततो॒ वै स ब॒होर्भूया॑नभवत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓तः । वै᳓ । सः᳓ । बहोः᳓ । भू᳓यान् । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳵ᳓ काम᳓येत बहो᳓र्भू᳓यान्त्स्यामि᳓ति स᳓ पञ्चशारदी᳓येन यजेत ।
@@ -62,6 +87,11 @@ unicode_script: devanagari
 
 यᳵ का॒मये॑त ब॒होर्भूया॑न्त्स्या॒मिति॑ ।
 स प॑ञ्चशार॒दीये॑न यजेत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । काम᳓येत । बहोः᳓ । भू᳓यान् । स्याम् । इ᳓ति । सः᳓ । पञ्चशारदी᳓येन । यजेत ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -79,6 +109,11 @@ unicode_script: devanagari
 ब॒होरे॒व भूया॑न्भवति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बहोः᳓ । एव᳓ । भू᳓यान् । भवति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरुत्स्तोमो᳓ वा᳓ एषः᳓ ।
@@ -87,6 +122,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 म॒रु॒त्स्तो॒मो वा ए॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मरुत्-स्तोमः᳓ । वै᳓ । एषः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -105,6 +145,11 @@ unicode_script: devanagari
 म॒रुतो॒ हि दे॒वाना॒म्भूयि॑ष्ठाः ॥30 ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मरु᳓तः । हि᳓ । देवा᳓नाम् । भू᳓यिष्ठाः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मरुतो ह्येतस्यानुष्ठानेन देवानां मध्येऽत्यन्तं समृद्धाः संपन्नाः ॥
@@ -120,6 +165,11 @@ unicode_script: devanagari
 ब॒हुर्भ॑वति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बहुः᳓ । भवति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एते᳓न य᳓जते, य᳓ उचैनमेवव्ँ᳓ वे᳓द पञ्चशारदी᳓यो भवति ।
@@ -130,6 +180,11 @@ unicode_script: devanagari
 य ए॒तेन॒ यज॑ते ।  
 य उ॑चैनमे॒वव्ँ वेद॑ ।  
 प॒ञ्च॒शा॒र॒दीयो॑ भवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एते᳓न । य᳓जते । यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द । पञ्चशारदी᳓यः । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -153,6 +208,11 @@ unicode_script: devanagari
 पञ्च॒ वा ऋ॒तव॑स्सव्ँवत्स॒रः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प᳓ञ्च । वै᳓ । ऋत᳓वः । सम्-वत्सरः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓तितिष्ठति ।
@@ -161,6 +221,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ऋ॒तुष्वे॒व सव्ँ॑वत्स॒रे प्रति॑तिष्ठति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऋतु᳓षु । एव᳓ । सम्-वत्सरे᳓ । प्र᳓ति । तिष्ठति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +238,11 @@ unicode_script: devanagari
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थो । प᳓ञ्चाक्षरा । पङ्क्तिः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ङ्क्तो यज्ञः᳓ ।
@@ -181,6 +251,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पाङ्क्तो॑ य॒ज्ञः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पा᳓ङ्क्तः । यज्ञः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +268,11 @@ unicode_script: devanagari
 य॒ज्ञमे॒वाव॑रुन्धे      ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यज्ञ᳓म् । एव᳓ । अ᳓व । रुन्धे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशँ᳓ स्तो᳓मा ना᳓तियन्ति ।
@@ -201,6 +281,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स॒प्त॒द॒शँ स्तोमा॒ नाति॑यन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सप्त-दश᳓म् । स्तो᳓माः । न᳓ । अ᳓ति । यन्ति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -218,6 +303,11 @@ unicode_script: devanagari
 
 स॒प्त॒द॒शᳶ प्र॒जाप॑तिः ।  
 प्र॒जाप॑ते॒राप्त्यै॑ ॥31॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सप्त-दशः᳓ । प्रजा᳓-पतिः । प्रजा᳓-पतेः । आ᳓प्त्यै ।
 </details>
 
 <details><summary>सायण-टीका</summary>

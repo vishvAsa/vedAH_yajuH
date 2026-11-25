@@ -12,6 +12,11 @@ title = "०४ वारुणम्"
 उदु॑त्त॒मव्ँव॑रु॒णास्त॑भ्ना॒द्द्याम् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उ᳓त् । उत्तम᳓म् । वरुण । अ᳓स्तभ्नात् । द्या᳓म् ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -444,6 +449,11 @@ All these are Varuna's ordinances.
 <details><summary>मूलम्</summary>
 
 यत्किञ्चे॒दङ्कि॑त॒वासः॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । कि᳓म् । च । इद᳓म् । कितवा᳓सः ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
@@ -1205,6 +1215,11 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 <details><summary>मूलम्</summary>
 
 अव॑ ते॒ हेड॒स्तत्त्वा॑ यामि   ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓व । ते । हे᳓डः । त᳓त् । त्वा । यामि ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">

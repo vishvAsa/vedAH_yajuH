@@ -18,6 +18,11 @@ unicode_script: devanagari
 त्रि॒वृत्स्तोमो॑ भवति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्रि-वृ᳓त् । स्तो᳓मः । भवति ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।  
@@ -40,6 +45,11 @@ unicode_script: devanagari
 ब्र॒ह्म॒व॒र्च॒सव्ँ वै त्रि॒वृत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । वै᳓ । त्रि-वृ᳓त् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 तस्य ब्रह्मवर्चसहेतुत्वाद्ब्रह्मवर्चसप्राप्तिर्भवति ॥
@@ -55,6 +65,11 @@ unicode_script: devanagari
 ब्र॒ह्म॒व॒र्च॒समे॒वाव॑ रुन्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । एव᳓ । अ᳓व । रुन्धे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निष्टोम᳓स्सो᳓मो भवति ।
@@ -63,6 +78,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्नि॒ष्टो॒मस्सोमो॑ भवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि-ष्टोमः᳓ । सो᳓मः । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -81,6 +101,11 @@ unicode_script: devanagari
 ब्र॒ह्म॒व॒र्च॒सव्ँ वा अ॑ग्निष्टो॒मः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । वै᳓ । अग्नि-ष्टोमः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवर्चस᳓मेवा᳓व रुन्धे ।
@@ -89,6 +114,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒व॒र्च॒समे॒वाव॑ रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । एव᳓ । अ᳓व । रुन्धे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,6 +131,11 @@ unicode_script: devanagari
 र॒थ॒न्त॒रँ साम॑ भवति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रथन्तर᳓म् । सा᳓म । भवति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवर्चसव्ँ᳓ वै᳓ रथन्तर᳓म् ।
@@ -109,6 +144,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒व॒र्च॒सव्ँ वै र॑थन्त॒रम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । वै᳓ । रथन्तर᳓म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +161,11 @@ unicode_script: devanagari
 ब्र॒ह्म॒व॒र्च॒समे॒वाव॑ रुन्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्रह्म-वर्चस᳓म् । एव᳓ । अ᳓व । रुन्धे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिस्रजी᳓ हो᳓ता भवति ॥1॥
@@ -129,6 +174,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रि॒स्र॒जी होता॑ भवति ॥1॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परि-स्रजी᳓ । हो᳓ता । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -145,6 +195,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒रु॒णो मि॑र्मि॒रस्त्रिशु॑क्रः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अरुणः᳓ । मिर्मिर᳓स् । त्रि᳓-शुक्रः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -164,6 +219,11 @@ unicode_script: devanagari
 ए॒तद्वै ब्र॑ह्मवर्च॒सस्य॑ रू॒पम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एत᳓त् । वै᳓ । ब्रह्म-वर्चस᳓स्य । रूप᳓म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपे᳓णैव᳓ ब्रह्मवर्चस᳓म᳓वरुन्धे ।
@@ -172,6 +232,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 रू॒पेणै॒व ब्र॑ह्मवर्च॒समव॑रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रूपे᳓ण । एव᳓ । ब्रह्म-वर्चस᳓म् । अ᳓व । रुन्धे ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -189,6 +254,11 @@ unicode_script: devanagari
 बृह॒स्पति॑रकामयत "दे॒वाना॑म्पुरो॒धाङ्ग॑च्छेय॒"मिति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बृ᳓हस्प᳓तिः । अकामयत । देवा᳓नाम् । पुरः-धा᳓म् । गच्छेयम् । इ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म्बृहस्पतिसव᳓मपश्यत् ।
@@ -197,6 +267,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स ए॒तम्बृ॑हस्पतिस॒वम॑पश्यत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । एत᳓म् । बृहस्-पतिसव᳓म् । अपश्यत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +284,11 @@ unicode_script: devanagari
 तमाऽह॑रत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । आ᳓ । अ । अ᳓हरत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नायजत ।
@@ -217,6 +297,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तेना॑यजत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓न । अयजत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -229,6 +314,11 @@ unicode_script: devanagari
 ततो॒ वै स दे॒वाना॑म्पुरो॒धाम॑गच्छत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓तः । वै᳓ । सः᳓ । देवा᳓नाम् । पुरः-धा᳓म् । अगच्छत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पुरोधा᳓कामस्स्यात्त् स᳓ बृहस्पतिसवे᳓न यजेत ।
@@ -238,6 +328,11 @@ unicode_script: devanagari
 
 यᳶ पु॑रो॒धाका॑म॒स्स्यात् ।  
 स बृ॑हस्पतिस॒वेन॑ यजेत ॥2॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । पुरो-धा᳓कामस् । स्या᳓त् । सः᳓ । बृहस्-पतिसवे᳓न । यजेत ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -256,6 +351,11 @@ unicode_script: devanagari
 पु॒रो॒धामे॒व ग॑च्छति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पुरः-धा᳓म् । एव᳓ । गच्छति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य प्रातस्सवने᳓ सन्ने᳓षु नाराशँसे᳓ष्व् ए᳓कादश द᳓क्षिणा नीयन्ते ।
@@ -265,6 +365,11 @@ unicode_script: devanagari
 
 तस्य॑ प्रातस्सव॒ने स॒न्नेषु॑ नाराशँ॒सेषु॑ ।  
 एका॑दश॒ दक्षि॑णा नीयन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्य । प्रातः-सवने᳓ । सन्ने᳓षु । नाराशंसे᳓षु । ए᳓कादश । द᳓क्षिणा । नीयन्ते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -283,6 +388,11 @@ unicode_script: devanagari
 एका॑दश॒ माध्य॑न्दिने॒ सव॑ने स॒न्नेषु॑ नाराशँ॒सेषु॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ए᳓कादश । मा᳓ध्यन्दिने । स᳓वने । सन्ने᳓षु । नाराशंसे᳓षु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कादश तृतीयसवने᳓ सन्ने᳓षु नाराशँसे᳓षु ।
@@ -293,6 +403,11 @@ unicode_script: devanagari
 एका॑दश तृतीयसव॒ने स॒न्नेषु॑ नाराशँ॒सेषु॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ए᳓कादश । तृतीय-सवने᳓ । सन्ने᳓षु । नाराशंसे᳓षु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस्त्रिँशत्स᳓म्पद्यन्ते ।
@@ -301,6 +416,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 त्रय॑स्त्रिँश॒त्सम्प॑द्यन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्र᳓यस्-त्रिंशत् । स᳓म् । पद्यन्ते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -318,6 +438,11 @@ unicode_script: devanagari
 त्रय॑स्त्रिँश॒द्वै दे॒वताः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्र᳓यस्-त्रिंशत् । वै᳓ । देव᳓ताः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता एवा᳓वरुन्धे ।
@@ -326,6 +451,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 दे॒वता॑ ए॒वाव॑रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देव᳓ताः । एव᳓ । अ᳓व । रुन्धे ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +468,11 @@ unicode_script: devanagari
 अश्व॑श्चतुस्त्रिँ॒शः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓श्वः । चतुः-त्रिंशः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्यो᳓ वा᳓ अ᳓श्वः ॥3॥
@@ -346,6 +481,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यो वा अश्वः॑ ॥3॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राजा-पत्यः᳓ । वै᳓ । अ᳓श्वः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +498,11 @@ unicode_script: devanagari
 प्र॒जाप॑तिश्चतुस्त्रिँ॒शो दे॒वता॑नाम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । चतुः-त्रिंशः᳓ । देव᳓तानाम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वतीरेव᳓ देव᳓तास् ता᳓ एवा᳓वरुन्धे ।
@@ -367,6 +512,11 @@ unicode_script: devanagari
 
 याव॑तीरे॒व दे॒वताः॑ ।
 ता ए॒वाव॑रुन्धे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+या᳓वतीः । एव᳓ । देव᳓ताः । ताः᳓ । एव᳓ । अ᳓व । रुन्धे ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -384,6 +534,11 @@ unicode_script: devanagari
 कृ॒ष्णा॒जि॒ने॑ऽभिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+कृष्णाजिने᳓ । अभि᳓ । सिञ्चति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणो वा᳓ एत᳓द्रूप᳓म्  य᳓त्कृष्णाजिन᳓म् ब्र᳓ह्म᳓व᳓र्चसे᳓नैवै᳓नँ स᳓मर्धयति ।
@@ -394,6 +549,11 @@ unicode_script: devanagari
 ब्रह्म॑णो॒ वा ए॒तद्रू॒पम् ।  
 यत्कृ॑ष्णाजि॒नम् ।  
 ब्र॒ह्म॒व॒र्च॒सेनै॒वैनँ॒ सम॑र्धयति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्र᳓ह्मणः । वै᳓ । एत᳓त् । रूप᳓म् । य᳓त् । कृष्णाजिन᳓म् । ब्रह्म-वर्चसे᳓न । एव᳓ । एनम् । स᳓म् । अर्धयति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -411,6 +571,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आज्ये॑ना॒भिषि॑ञ्चति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ज्येन । अभि᳓ । सिञ्चति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -450,6 +615,11 @@ unicode_script: devanagari
 तेजो॒ वा आज्य॑म् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓जः । वै᳓ । आ᳓ज्यम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ज एवा᳓स्मिन्दधाति ॥4॥
@@ -458,4 +628,9 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तेज॑ ए॒वास्मि॑न्दधाति ॥4॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓जः । एव᳓ । अस्मिन् । दधाति ।
 </details>

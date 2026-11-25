@@ -13,6 +13,11 @@ unicode_script: devanagari
 न वै सोमे॑न॒ सोम॑स्य स॒वो॑ऽस्ति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+न᳓ । वै᳓ । सो᳓मेन । सो᳓मस्य । सवः᳓ । अस्ति ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (SB) 1तृतीये ब्राह्मणसवोऽभिहितः ।  
@@ -32,6 +37,11 @@ unicode_script: devanagari
 ह॒तो ह्ये॑षः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+हतः᳓ । हि । एषः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभि᳓षुतो ह्ये᳙षः ।
@@ -40,6 +50,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒भिषु॑तो॒ ह्ये॑षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अभि᳓-सुतः । हि᳓ । एषः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -52,6 +67,11 @@ unicode_script: devanagari
 न हि ह॒तस्सू॒यते॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+न᳓ । हि᳓ । हतः᳓ । सूय᳓ते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमीँ᳓ सूत᳓वशामा᳓लभते ।
@@ -60,6 +80,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सौ॒मीँ सू॒तव॑शा॒माल॑भते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सौमी᳓म् । सूत᳓-वशाम् । आ᳓ । लभते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -79,6 +104,11 @@ unicode_script: devanagari
 सोमो॒ वै रे॑तो॒धाः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सो᳓मः । वै᳓ । रेतः-धाः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 सोमस्य रेतोधारकत्वात्तया देवतया रेत एव धारयति ॥
@@ -94,6 +124,11 @@ unicode_script: devanagari
 रेत॑ ए॒व तद्द॑धाति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रे᳓तः । एव᳓ । त᳓त् । दधाति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓र्चा᳓ऽभि᳓षिञ्चति ।
@@ -104,6 +139,11 @@ unicode_script: devanagari
 सौ॒म्यर्चाऽभिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सौम्या᳓ । ऋचा᳓ । अभि᳓ । सिञ्चति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेतोधा᳓ ह्येषा ।
@@ -112,6 +152,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 रे॒तो॒धा ह्ये॑षा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रेतः-धा᳓ । हि । एषा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -130,6 +175,11 @@ unicode_script: devanagari
 रेत॒स्सोमः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रे᳓तः । सो᳓मः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓त एवा᳓स्मिन्दधाति ।
@@ -138,6 +188,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 रेत॑ ए॒वास्मि॑न्दधाति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रे᳓तः । एव᳓ । अस्मिन् । दधाति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +205,11 @@ unicode_script: devanagari
 
 यत्किञ्च॑ राज॒सूय॑मृ॒ते सोम॑म् ।   
 तत्सर्व॑म्भवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । कि᳓म् । च । राज-सू᳓यम् । ऋते᳓ । सो᳓मम् । त᳓त् । स᳓र्वम् । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -176,6 +236,11 @@ unicode_script: devanagari
 सु॒व॒र्षाम॒प्स्वाव्ँ वृ॒जन॑स्य गो॒पाम् ।   
 भ॒रे॒षु॒जाँ सु॑क्षि॒तिँ सु॒श्रव॑सम् ।   
 जय॑न्त॒न्त्वामनु॑ मदेम सोम ॥10॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓-षाढम् । युत्सु᳓ । पृ᳓तनासु । प᳓प्रिम् । सुवः-सा᳓म् । अ-प्स्वा᳓म् । वृज᳓नस्य । गो-पा᳓म् । भरेषु-जा᳓म् । सु-क्षिति᳓म् । सु-श्र᳓वसम् । ज᳓यन्तम् । त्वा᳓म् । अ᳓नु । मदेम । सोम ।
 </details>
 
 <details><summary>सायण-टीका</summary>

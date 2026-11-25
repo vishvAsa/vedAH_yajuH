@@ -373,6 +373,11 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 नवो॑नवो भवति॒ जाय॑मानो॒ …     
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+न᳓वः-नवः । भवति । जा᳓यमानः ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -926,6 +931,11 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 उदु॒ त्यञ्   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उ᳓त् । उ । त्य᳓ञ् ।
+</details>
+
 ## सूर्यः
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1384,6 +1394,11 @@ Aditi, who giveth good protection and good guidance.
 
 इ॒दव्ँ विष्णु॒ᳶ  
 प्रतद्विष्णुः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इद᳓म् । वि᳓ष्णुः । प्र᳓ । त᳓त् । वि᳓ष्णुः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2315,6 +2330,11 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मू॒र्धा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्निः᳓ । मूर्धा᳓ ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">

@@ -13,6 +13,11 @@ unicode_script: devanagari
 प्र॒जाप॑तिरकामयतात्म॒न्वन्मे॑ जाये॒तेति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । अकामयत । आत्मन्व᳓त् । मे । जायेत । इ᳓ति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 प्रजापतिरित्यादि ॥ सामर्थ्यविशेषवत्त्वमात्मवत्त्वं आत्मवद्विशिष्टं द्रव्यं ममोत्पद्यताम् । 'अनो नुट्', 'ह्रस्वनुड्भ्यां मतुप्' इति मतुबुदात्तत्वम् । केचिदाहुः आत्मवत् यादृशोऽहं ईदृशो मे जायेतेति । तदानीं नलोपाभावश्छान्दसः ।
@@ -26,6 +31,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सो॑ऽजुहोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । अजुहोत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -43,6 +53,11 @@ unicode_script: devanagari
 तस्मा॑त्म॒न्वद॑जायत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । मन् । व᳓त् । अजायत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वायु᳓रादित्यः᳓ ।
@@ -51,6 +66,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्वा॒युरा॑दि॒त्यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्निः᳓ । वायुः᳓ । आदित्यः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +83,11 @@ unicode_script: devanagari
 
 ते॑ऽब्रुवन् ।  
 "प्र॒जाप॑तिरहौषीदात्म॒न्वन्मे॑ जाये॒ते"ति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓ । अब्रुवन् । प्रजा᳓-पतिः । अहौषीत् । आत्मन्व᳓त् । मे । जायेत । इ᳓ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -81,6 +106,11 @@ unicode_script: devanagari
 तस्य॑ व॒यम॑जनिष्महि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्य । वय᳓म् । अजनिष्महि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓यतान्न आत्मन्व᳓दि᳓ति ते᳙ऽजुहवुः ।
@@ -91,6 +121,11 @@ unicode_script: devanagari
 जाय॑तान्न आत्म॒न्वदिति॒ ते॑ऽजुहवुः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+जा᳓यताम् । नः । आत्मन्व᳓त् । इ᳓ति । ते᳓ । अजुहवुः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓नामग्निः᳓ ।
@@ -99,6 +134,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्रा॒णाना॑म॒ग्निः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राणा᳓नाम् । अग्निः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -117,6 +157,11 @@ unicode_script: devanagari
 त॒नुवै॑ वा॒युः ॥45 ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तनु᳓ । वै । वायुः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुष आदित्यः᳓ ।
@@ -127,6 +172,11 @@ unicode_script: devanagari
 चक्षु॑ष आदि॒त्यः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+च᳓क्षुषः । आदित्यः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाँ हुता᳓दजायत गौ᳓रेव᳓ ।
@@ -135,6 +185,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तेषाँ॑ हु॒ताद॑जायत॒ गौरे॒व ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓षाम् । हुता᳓त् । अजायत । गौः᳓ । एव᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -152,6 +207,11 @@ unicode_script: devanagari
 य ए॒वव्ँ वेद॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एव᳓म् । वे᳓द ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यै प᳓यसि व्या᳓यच्छन्त ।
@@ -162,6 +222,11 @@ unicode_script: devanagari
 
 तस्यै॒ पय॑सि॒ व्याय॑च्छन्त ।
 मम॑ हु॒ताद॑जनि॒ ममेति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्यै । प᳓यसि । वि᳓ । आ । अयच्छन्त । म᳓म । हुता᳓त् । अजनि । म᳓म । इ᳓ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -177,6 +242,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ते प्र॒जाप॑तिम्प्र॒श्ञमा॑यन् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓ । प्रजा᳓-पतिम् । प्रश्ञ᳓म् । आ-यन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -197,6 +267,11 @@ unicode_script: devanagari
 तन्नौ॑ स॒हास॒दिति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । आदित्यः᳓ । अग्नि᳓म् । अब्रवीत् । यतरः᳓ । नौ । ज᳓यात् । त᳓त् । नौ । सह᳓ । असदि᳓ति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्रान्तरे आदित्योऽग्निमब्रवीत् नौ आवयोर्मध्ये कश्चिज्जयेत् तत्तदीयमावयोः सहासत् साधारणमस्तु । अस्तेर्लेटि आडागमः ।
@@ -210,6 +285,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "कस्यै कोऽहौ॑षी॒"दिति॑ प्र॒जाप॑तिरब्रवी॒त् "कस्यै क॒" इति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+क᳓स्यै । कः᳓ । अहौषीत् । इ᳓ति । प्रजा᳓-पतिः । अब्रवीत् । क᳓स्यै । कः । इ᳓ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -227,6 +307,11 @@ unicode_script: devanagari
 "प्रा॒णाना॑म॒ह"मित्य॒ग्निः ॥ 46॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राणा᳓नाम् । अह᳓म् । इ᳓ति । अग्निः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तनु᳓वा अह᳓"मि᳓ति वायुः᳓ ।
@@ -235,6 +320,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "त॒नुवा॑ अ॒ह"मिति॑ वा॒युः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तनु᳓वाः । अह᳓म् । इ᳓ति । वायुः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +340,11 @@ unicode_script: devanagari
 य ए॒व प्रा॒णाना॒महौ॑षीत् ।  
 तस्य॑ हु॒ताद॑ज॒नीति॑ ।  
 अ॒ग्नेर्हु॒ताद॑ज॒नीति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+च᳓क्षुषः । अह᳓म् । इ᳓ति । आदित्यः᳓ । यः᳓ । एव᳓ । प्राणा᳓नाम् । अ᳓हौषीत् । त᳓स्य । हुता᳓त् । अजनि । इ᳓ति । अग्नेः᳓ । हुता᳓त् । अजनि । इ᳓ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -269,6 +364,11 @@ unicode_script: devanagari
 तद॑ग्निहो॒त्रस्या॑ग्निहोत्र॒त्वम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । अग्नि-होत्र᳓स्य । अग्निहोत्रत्व᳓म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादग्निहोत्रं गौरग्नेरेव, अग्नेर्होमोत्पन्नत्वात् ।
@@ -284,6 +384,11 @@ unicode_script: devanagari
 गौर्वा अ॑ग्निहो॒त्रम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+गौः᳓ । वै᳓ । अग्नि-होत्र᳓म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द गौ᳓रग्निहोत्र᳓मि᳓ति प्राणापाना᳓भ्यामेवा᳓ग्निँ᳓ स᳓मर्धयति ।
@@ -293,6 +398,11 @@ unicode_script: devanagari
 
 य ए॒वव्ँ वेद॒ गौर॑ग्निहो॒त्रमिति॑ ।
 प्रा॒णा॒पा॒नाभ्या॑मे॒वाग्निँ सम॑र्धयति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एव᳓म् । वे᳓द । गौः᳓ । अग्नि-होत्र᳓म् । इ᳓ति । प्राणापाना᳓भ्याम् । एव᳓ । अग्नि᳓म् । स᳓म् । अर्धयति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -308,6 +418,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अव्य॑र्धुकᳶ प्राणापा॒नाभ्या॑म्भवति ॥47॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓-व्यर्धुकः । प्राणापाना᳓भ्याम् । भवति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -327,6 +442,11 @@ unicode_script: devanagari
 "अनु॒ मा भ॑जत॒"मिति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तौ᳓ । वायुः᳓ । अब्रवीत् । अ᳓नु । मा᳓ । भजतम् । इ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "य᳓देव᳓ गा᳓र्हपत्येऽधिश्रि᳓त्याहवनी᳓यमभ्यु᳙द्द्रवान् ते᳓न त्वा᳓म्प्रीणा"नि᳓'त्यब्रूताम् ।
@@ -336,6 +456,11 @@ unicode_script: devanagari
 
 यदे॒व गार्ह॑पत्येऽधि॒श्रित्या॑हव॒नीय॑म॒भ्यु॑द्द्रवा॑न् ।
 तेन॒ त्वाम्प्री॑णा॒नित्य॑ब्रूताम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । एव᳓ । गा᳓र्हपत्ये । अधि-श्रि᳓त्य । आ-हवनी᳓यम् । अभि᳓ । उत् । द्र᳓वान् । ते᳓न । त्वा᳓म् । प्रीणान् । इ᳓ति । अब्रूताम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -354,6 +479,11 @@ unicode_script: devanagari
 वा॒युमे॒व तेन॑ प्रीणाति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । य᳓त् । गा᳓र्हपत्ये । अधि-श्रि᳓त्य । आ-हवनी᳓यम् । अभि᳓ । उत् । द्र᳓वति । वायु᳓म् । एव᳓ । ते᳓न । प्रीणाति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादित्यादि गतम् ।
@@ -368,6 +498,11 @@ unicode_script: devanagari
 
 प्र॒जाप॑तिर्दे॒वता॑स्सृ॒जमा॑नः ।  
 अ॒ग्निमे॒व दे॒वता॑नाम्प्रथ॒मम॑सृजत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । देव᳓ताः । सृज᳓मानः । अग्नि᳓म् । एव᳓ । देव᳓तानाम् । प्रथम᳓म् । असृजत ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -390,6 +525,11 @@ unicode_script: devanagari
 प्र॒जाप॑तिम॒भिप॒र्याव॑र्तत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । अन्य᳓त् । आ-लम्भ्य᳙म् । अ᳓वित्वा । प्रजा᳓-पतिम् । अभि᳓ । परि᳓ । आ । अवर्तत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मृत्यो᳓रबिभेत् ।
@@ -398,6 +538,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स मृ॒त्योर॑बिभेत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । मृत्योः᳓ । अबिभेत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,6 +555,11 @@ unicode_script: devanagari
 सो॑ऽमुमा॑दि॒त्यमा॒त्मनो॒ निर॑मिमीत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । अमु᳓म् । आदित्य᳓म् । आत्म᳓नः । निः᳓ । अमिमीत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तँ᳓ हुत्वा᳓ प᳓राङ्पर्या᳓वर्तत ।
@@ -418,6 +568,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तँ हु॒त्वा परा॑ङ्प॒र्याव॑र्तत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । हुत्वा᳓ । प᳓राङ् । परि᳓ । आ । अवर्तत ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +585,11 @@ unicode_script: devanagari
 ततो॒ वै स मृ॒त्युमपा॑जयत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓तः । वै᳓ । सः᳓ । मृत्यु᳓म् । अ᳓प । अजयत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓प मृत्यु᳓ञ्जयति ।
@@ -438,6 +598,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अप॑ मृ॒त्युञ्ज॑यति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓प । मृत्यु᳓म् । जयति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +615,11 @@ unicode_script: devanagari
 य ए॒वव्ँ वेद॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एव᳓म् । वे᳓द ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓प मृत्यु᳓ञ्जयति य᳓ एवव्ँ᳓ वे᳓द ।
@@ -459,6 +629,11 @@ unicode_script: devanagari
 
 अप॑ मृ॒त्युञ्ज॑यति ।
 य ए॒वव्ँ वेद॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓प । मृत्यु᳓म् । जयति । यः᳓ । एव᳓म् । वे᳓द ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -479,6 +654,11 @@ unicode_script: devanagari
 अ॒सौ ह्या॑दि॒त्यो॑ऽग्निहो॒त्रम् ॥49
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । य᳓स्य । एव᳓म् । विदु᳓षः । उत᳓ । ए᳓का । अह᳓म् । उत᳓ । द्व्यह᳓म् । न᳓ । जु᳓ह्वति । हुत᳓म् । एव᳓ । अस्य । भवति । असौ᳓ । हि । आदित्यः᳓ । अग्नि-होत्र᳓म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादित्यादि । एवमादित्योऽग्निहोत्रद्वव्यं प्रजापतेरासीदिति यो वेद, उत अप्येकाहं न जुह्वति अस्य तदपि हुतमेव भवति, अविच्छेदेन हुतं भवति ।
@@ -492,6 +672,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒सौ ह्या॑दि॒त्यो॑ऽग्निहो॒त्रम् ॥49 ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+असौ᳓ । हि । आदित्यः᳓ । अग्नि-होत्र᳓म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

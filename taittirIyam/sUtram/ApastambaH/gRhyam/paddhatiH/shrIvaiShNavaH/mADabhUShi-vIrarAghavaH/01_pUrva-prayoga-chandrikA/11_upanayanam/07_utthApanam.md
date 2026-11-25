@@ -83,8 +83,12 @@ title = "०७ उत्थापनम्"
 'देवस्ये'त्युक्त्वा 'राजा त्वा वरुणो नयतु देवि दक्षिणे रुद्राय गाम्’ इत्यादि ‘आङ्गीरसः प्रतिगृह्णातु' इत्यन्तम् उक्त्वा प्रतिगृह्य 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/01_agnaye_hiraNyam/">
+<details><summary>सायणोक्त-विनियोगः</summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+अथ प्रतिग्रहमन्त्रा उच्यन्ते । तैश्च प्रतिग्रहेष्टकोपधानं चातुर्होत्रीयब्राह्मण एवमाम्नातम् - "यथावकाशं प्रतिग्रहाल्ँ लोकं पृणाश्च" इति । तत्र प्रथमं मन्त्रमाह -
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वे ।  
@@ -92,7 +96,8 @@ title = "०७ उत्थापनम्"
 पू॒ष्णो हस्ता॑भ्यां॒ प्रति॑गृह्णामि ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -131,6 +136,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +152,11 @@ O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the imp
 <details><summary>मूलम्</summary>
 
 प्रति॑गृह्णामि
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे प्रतिगृह्यमाणद्रव्य सवितुर्देवस्य प्रेरणे सत्यश्विसम्बन्धिभ्यां बाहुभ्यां पूषसम्बन्धिभ्यां हस्ताभ्यां त्वां प्रतिगृह्णामि ।
 </details>
 </div>
 
@@ -171,7 +182,12 @@ may Varuṇa, the king carry you to the fire as gold;
 हे हिरण्यात्मिके ! देवि! दक्षिणे! राजा वरुणः त्वां हिरण्यं अग्नये नयतु । तच्चेयमिष्टकाऽस्ति ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<details><summary>सायण-टीका</summary>
+
+हे दक्षिणे देवि वरुणो राजा हिरण्यरूपां त्वामग्नये प्रापयतु ।
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नामृतत्व᳓मश्याम् ।  
@@ -212,6 +228,16 @@ Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 
 क इ॒दङ्कस्मा॑ अदात् ।  
 कामः॒ कामा॑य ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- कः᳓ (*TS*-36/158, *RV*-155/375, *TB*-5/38, *AV*-95/215, *SB-M*-16/290, *SB-K*-104/850, *VS-M*-8/51, *VS-K*-16/72)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
+- क᳓स्मै (*TS*-22/158, *RV*-13/375, *TB*-3/38, *TK*-1/4, *AV*-10/215, *SB-M*-10/290, *SB-K*-15/850, *VS-M*-17/51, *VS-K*-16/72)
+- अदात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-10, *SB-K*-12)
+- का᳓मः (*TS*-7/53, *RV*-14/75, *TB*-5/33, *AV*-16/64, *SB-M*-29/128, *SB-K*-66/349, *VS-M*-4/12, *VS-K*-5/17)
+- का᳓माय (*TS*-10/53, *RV*-3/75, *TB*-5/33, *TK*-16/29, *AV*-5/64, *SB-M*-40/128, *SB-K*-82/349, *VS-M*-4/12, *VS-K*-4/17)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -302,6 +328,15 @@ may Uttāna Āṅgirasa obtain you (5).
 उ॒त्ता॒नस् त्वा॑ङ्गीर॒सः प्रति॑गृह्णातु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- उत्तानः᳓ (*TS*-1/10, *RV*-2/9, *TB*-2/4, *AV*-0/4, *SB-M*-0/1, *SB-K*-1/19, *VS-K*-0/1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-538, *SB-K*-675, *VS-K*-525)
+- आङ्गीरसः᳓ (*TB*-2/4, प्रातिपदिकम् आङ्गीरस᳓ (*MW*))
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-29, *TK*-5, *SB-K*-530, *VS-K*-25)
+- गृह्णातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-1, *SB-K*-3)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ दक्षिणां प्रत्याह -  
@@ -311,8 +346,12 @@ may Uttāna Āṅgirasa obtain you (5).
 तस्मात् पृथिव्येव त्वां प्रतिगृह्णातु  
 नाहमस्य प्रतिग्रहीतेति ॥
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+तेनाग्निप्रापणेन प्रग्रहदोषाभावादहममृतत्वं नरकाभावरूपं प्राप्नुयाम् । इयं च दक्षिणा दात्रे वयोऽस्तु पक्षिरूपिणी भूत्वा दातारं स्वर्गं नयत्वित्यर्थः । प्रतिग्रहीत्रे मह्यं मयः सुखमस्तु । इदं द्रव्यं कः प्रजापतिः कस्मै प्रजापतयेऽदाद्दत्तवान्, अन्तर्यामिरूपेण दातृप्रतिग्रहीत्रोः प्रेरकत्वात् । तथा कामः कामाय दत्तवान् । यथा प्रजापतिरदृष्टप्रेरकस्तथा कामस्य दृष्टप्रेरकत्वात् । तस्मात्काम एव दाता प्रतिग्रहीता च । स्वर्गादिफलविषयः कामो दाता, ऐहिकसुखविषः कामः प्रतिग्रहीता । ततो हे दक्षिणे समुद्रसमं कामं प्रविश । कामेन निमित्तेन त्वां प्रतिगृह्णामि । हे मद्धृदयवर्ति काम तदेतद्द्रव्यं तुभ्यं भवति । हे काम ते त्वत्प्रीतय एवैषा दक्षिणा प्रवृत्ता । अङ्गिरोगोत्रे समुत्पन्नस्य उत्तानाख्यो महर्षिस्त्वां प्रतिगृह्णातु ।
+</details>
+</div>
 </div>
 
 ## उत्थानम्

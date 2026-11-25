@@ -13,6 +13,11 @@ unicode_script: devanagari
 ए॒ष गो॑स॒वः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एषः᳓ । गो-सवः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 1पञ्चमे पृथिसव उक्तः ।  
@@ -30,6 +35,11 @@ unicode_script: devanagari
 ष॒ट्त्रिँ॒श उ॒क्थ्यो॑ बृ॒हत्सा॑मा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+षट्-त्रिंशः᳓ । उक्थ्यः᳙ । बृह᳓त्-सामा ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 पृष्ठस्तोत्रे बृहत्सामयुक्तः ।
@@ -43,6 +53,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पव॑माने कण्वरथन्त॒रम्भ॑वति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प᳓वमाने । कण्वरथन्तर᳓म् । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -61,6 +76,11 @@ unicode_script: devanagari
 स स॑म्राट्त्स॒वः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । वै᳓ । वाज-पे᳓यः । सः᳓ । सम्-राट् । सवः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 2अथ वाजपेयराजसूयाभ्यामुत्कृष्टत्वेनैतं सवं प्रशंसति - योऽयं वाजपेयोऽस्ति सोऽयं साम्राज्यहेतुरेव सवः ।
@@ -75,6 +95,11 @@ unicode_script: devanagari
 
 यो रा॑ज॒सूयः॑ ।  
 स व॑रुणस॒वः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । राज-सू᳓यः । सः᳓ । वरुण-सवः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -93,6 +118,11 @@ unicode_script: devanagari
 प्र॒जाप॑ति॒स्स्वारा॑ज्यम्परमे॒ष्ठी ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । स्व᳓-राज्यम् । परमे-ष्ठी᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓राज्यङ्गौ᳓रेव᳓ गौ᳓रिव भवति ॥13॥
@@ -102,6 +132,11 @@ unicode_script: devanagari
 
 स्वारा॑ज्य॒ङ्गौरे॒व ।  
 गौरि॑व भवति ॥13॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्व᳓-राज्यम् । गौः᳓ । एव᳓ । गौ᳓रिव । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -123,6 +158,11 @@ unicode_script: devanagari
 उ॒भे बृ॑हद्रथन्त॒रे भ॑वतः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एते᳓न । य᳓जते । यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द । उभे᳓ । बृहत्-रथन्तरे᳓ । भवतः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयु᳓तन्द᳓क्षिणास् त᳓द्धि᳓ स्वा᳓राज्यम् ।  
@@ -136,6 +176,11 @@ unicode_script: devanagari
 तद्धि स्वारा॑ज्यम् ।  
 प्र॒ति॒धुषा॒ऽभिषि॑ञ्चति ।  
 तद्धि स्वारा॑ज्यम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । हि᳓ । स्व᳓-राज्यम् । अयु᳓तम् । द᳓क्षिणाः । त᳓त् । हि᳓ । स्व᳓-राज्यम् । प्रतिधु᳓षा । अभि᳓ । सिञ्चति । त᳓त् । हि᳓ । स्व᳓-राज्यम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -158,6 +203,11 @@ unicode_script: devanagari
 अनु॑द्धते॒ वेद्यै॑ दक्षिण॒त आ॑हव॒नीय॑स्य बृह॒तस्स्तो॒त्रम्प्रत्य॒भिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓नुद्धते । वे᳓द्यै । दक्षिणतः᳓ । आ-हवनी᳓यस्य । बृहतः᳓ । स्तोत्र᳓म् । प्र᳓ति । अभि᳓ । सिञ्चति ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 7अथाभिषेकस्य देशकालौ विधत्ते - वेद्यै वेद्या मध्य आहवनीयस्य दक्षिणभागे योऽयमनुद्धतदेशोऽस्ति सोऽयमभिषेकस्य योग्यो देशः तस्मिन्देशेऽभिषिञ्चेत् । बृहतस्तोत्रं प्रति बृहत्साम्ना क्रियमाणं स्तोत्रं यदा प्रवर्तते तदाऽभिषिञ्चेत् ।
@@ -171,6 +221,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वाव र॑थन्त॒रम् ॥14॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इय᳓म् । वा᳓व᳓ । रथन्तर᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -188,6 +243,11 @@ unicode_script: devanagari
 अ॒सौ बृ॒हत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+असौ᳓ । बृह᳓त् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन᳓योरेवै᳓नम᳓नन्तर्हितमभि᳓षिञ्चति ।
@@ -196,6 +256,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒नयो॑रे॒वैन॒मन॑न्तर्हितम॒भिषि॑ञ्चति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ-न᳓योः । एव᳓ । एनम् । अ᳓नन्तर्हितम् । अभि᳓ । सिञ्चति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +274,11 @@ unicode_script: devanagari
 तेन॑ गोस॒वः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पशुस्तोमः᳓ । वै᳓ । एषः᳓ । ते᳓न । गो-सवः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्त्रिँश᳓स्स᳓र्वः ।
@@ -217,6 +287,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ष॒ट्त्रिँ॒शस्सर्वः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+षट्-त्रिंशः᳓ । स᳓र्वः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -248,6 +323,11 @@ unicode_script: devanagari
 क्ष॒त्रे रा॒ष्ट्रे च॑ जागृहि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रेव᳓त् । जातः᳓ । स᳓हसा । वृद्धः᳓ । क्षत्रा᳓ । णाः । अङ्ख् । अत्र । भृ᳓त् । तमः । वयः-धाः᳓ । महा᳓न् । महित्वे᳓ । तस्तभानः᳓ । क्षत्रे᳓ । राष्ट्रे᳓ । च । जागृहि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे यजमान! त्वं रेवत् धनवत् जीवनं यथा भवति तथा जातः प्रवृत्तः, सहसा वृद्धो बलेनाधिकः क्षत्राणां बलवतां मध्ये क्षत्रभृत्तमः अतिशयेन बलवान् वयोधा दीर्धायुष्यधारी महान् विद्याचारादिगुणैरधिकः महित्वे पूज्यत्वे तस्तभानः स्थिरं वर्तमानः । क्षत्रे बलकार्ये राष्ट्रे जनपदे च जागृहि अप्रमत्तो वर्धस्व ।
@@ -261,6 +341,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "प्र॒जाप॑तेस्त्वा परमे॒ष्ठिन॒स्स्वारा॑ज्येना॒भिषि॑ञ्चा॒मी"त्या॑ह ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतेः । त्वा । परमे-ष्ठि᳓नः । स्वा᳓राज्येन । अभि᳓ । सिञ्चामि । इ᳓ति । आह ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -278,4 +363,9 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स्वारा॑ज्यमे॒वैन॑ङ्गमयति ॥15॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्व᳓-राज्यम् । एव᳓ । एनम् । गमयति ।
 </details>

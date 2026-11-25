@@ -13,6 +13,11 @@ unicode_script: devanagari
 प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । पशू᳓न् । असृजत ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (SB) 1त्रयोदशे इन्द्रस्तुन्नामके क्रतौ ग्रहाणां पुरोरुच उक्ताः ।  
@@ -31,6 +36,11 @@ unicode_script: devanagari
 ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓ । अस्मात् । सृष्टाः᳓ । प᳓रा । आञ्चः । आ-यन् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नग्निष्टोमे᳓न ना᳓प्नोत् ।
@@ -39,6 +49,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तान॑ग्निष्टो॒मेन॒ नाप्नो॑त् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । अग्नि-ष्टोमे᳓न । न᳓ । आप्नोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +66,11 @@ unicode_script: devanagari
 तानु॒क्थ्ये॑न॒ नाप्नो॑त् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । उक्थ्ये᳙न । न᳓ । आप्नोत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्त्षोडशि᳓ना ना᳓प्नोत् ।
@@ -59,6 +79,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तान्त्षो॑ड॒शिना॒ नाप्नो॑त् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ताः᳓ । अ᳓न्त् । षोडशि᳓ना । न᳓ । आप्नोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -71,6 +96,11 @@ unicode_script: devanagari
 तान्रात्रि॑या॒ नाप्नो॑त् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । रा᳓त्रिया । न᳓ । आप्नोत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्त्सन्धि᳓ना ना᳓प्नोत् ।
@@ -79,6 +109,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तान्त्स॒न्धिना॒ नाप्नो॑त् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । सन्धि᳓ना । न᳓ । आप्नोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +128,11 @@ unicode_script: devanagari
 इ॒मान्म॑ ई॒प्सेति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । अग्नि᳓म् । अब्रवीत् । इमा᳓न् । मे । ईप्से᳓ । अ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽग्नि᳓मब्रवीद् -"इमा᳓न्म ईप्से᳓"ति ।
@@ -101,6 +141,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सो॑ऽग्निम॑ब्रवीद् -"इ॒मान्म॑ ई॒प्से"ति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । अग्नि᳓म् । अब्रवीत् । इमा᳓न् । मे । ईप्से᳓ । अ᳓ति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -116,6 +161,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तान॒ग्निस्त्रि॒वृता॒ स्तोमे॑न॒ नाप्नो॑त् ॥46॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । अग्निः᳓ । त्रि-वृ᳓ता । स्तो᳓मेन । न᳓ । आप्नोत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,6 +184,11 @@ unicode_script: devanagari
 इ॒मान्म॑ ई॒प्सेति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । इ᳓न्द्रम् । अब्रवीत् । इमा᳓न् । मे । ईप्से᳓ । अ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि᳓न्द्रᳶ पञ्चदशे᳓न स्तो᳓मेन ना᳓प्नोत् ।
@@ -142,6 +197,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तानिन्द्र॑ᳶ पञ्चद॒शेन॒ स्तोमे॑न॒ नाप्नो॑त् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । इ᳓न्द्रः । पञ्च-दशे᳓न । स्तो᳓मेन । न᳓ । आप्नोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -155,6 +215,11 @@ unicode_script: devanagari
 इ॒मान्म॑ ईप्स॒तेति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । वि᳓श्वान् । देवा᳓न् । अब्रवीत् । इमा᳓न् । मे । ईप्सत । इ᳓ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् वि᳓श्वे देवा᳓स्सप्तदशे᳓न स्तो᳓मेन ना᳓प्नुवन् ।
@@ -163,6 +228,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तान् विश्वे॑ दे॒वास्स॑प्तद॒शेन॒ स्तोमे॑न॒ नाप्नु॑वन् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । वि᳓श्वे । देवाः᳓ । सप्त-दशे᳓न । स्तो᳓मेन । न᳓ । आप्नुवन् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +244,11 @@ unicode_script: devanagari
 
 स विष्णु॑मब्रवीत् ।  
 इ॒मान्म॑ ई॒प्सेति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । वि᳓ष्णुम् । अब्रवीत् । इमा᳓न् । मे । ईप्से᳓ । अ᳓ति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -192,6 +267,11 @@ unicode_script: devanagari
 तान् विष्णु॑रेकविँ॒शेन॒ स्तोमे॑नाप्नोत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓न् । वि᳓ष्णुः । एक-विंशे᳓न । स्तो᳓मेन । आप्नोत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारवन्ती᳓येनावारयत ॥47॥
@@ -202,6 +282,11 @@ unicode_script: devanagari
 वा॒र॒व॒न्तीये॑नावारयत ॥47॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वार-वन्ती᳓येन । अवारयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इदव्ँ᳓ वि᳓ष्णुर्वि᳓चक्रम" इ᳓ति व्य᳙क्रमत ।
@@ -210,6 +295,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "इ॒दव्ँ विष्णु॒र्विच॑क्रम॒" इति॒ व्य॑क्रमत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इद᳓म् । वि᳓ष्णुः । वि᳓ । चक्रमे । इ᳓ति । वि᳓ । अक्रमत ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -228,6 +318,11 @@ unicode_script: devanagari
 स ए॒तेन॑ यजेत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓स्मात् । पश᳓वः । प्र᳓-प्र । इ᳓व । भ्रं᳓शेरन् । सः᳓ । एते᳓न । यजेत ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 2इदानीमप्तोर्यामकत्रुं विधत्ते - एकः प्रशब्दः प्राथम्यवाची, अपरः प्रकर्षवाची । प्रथममेव पशवो यस्मात्पुरुषात् प्रेव भ्रंशेरन् प्रकर्षेण भ्रष्टा इव यवन्ति स पुरुष एतेनाप्तोर्यामेण स्तोमेन यजेत । तत्स्वरूपं सूत्रकारेण स्पष्टमुक्तम् - 'अप्तोर्यामश्चेत्संधिचमसानुन्नयंश्चतुर्भ्यश्चमसगणेभ्यो राजानमतिरेचयति' इति । संधिस्तोत्रपर्यन्तैरेकोनत्रिंशत्स्तौत्रैर्युक्तमतिरात्रप्रयोगमनुष्ठाय तत ऊर्ध्वं चतुर्भ्यश्चमसगणेभ्यो राजानमतिरेचयेत् । ततः पुनरपि चत्वारि स्तोत्राणि भवन्ति । तदेवं त्रयस्त्रिंशत्स्तोत्रयुक्तोऽप्तोर्यामः ॥
@@ -242,6 +337,11 @@ unicode_script: devanagari
 
 यदाप्नो॑त् ।  
 तद॒प्तोर्याम॑स्याप्तोर्याम॒त्वम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । आ᳓प्नोत् । त᳓त् । अप्तोः᳓ । या᳓मस्य । अप्तोर्याम । त्व᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -263,6 +363,11 @@ unicode_script: devanagari
 यङ्काम॒मका॑मयन्त॒ तमा॑प्नुवन् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एते᳓न । वै᳓ । देवाः᳓ । जै᳓त्वानि । जित्वा᳓ । य᳓म् । का᳓मम् । अ᳓कामयन्त । त᳓म् । आप्नुवन् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ङ्का᳓मङ्काम᳓यते त᳓मेते᳓नाप्नोति ॥48॥
@@ -272,4 +377,9 @@ unicode_script: devanagari
 
 यङ्काम॑ङ्का॒मय॑ते ।  
 तमे॒तेना॑प्नोति ॥48॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓म् । का᳓मम् । काम᳓यते । त᳓म् । एते᳓न । आप्नोति ।
 </details>

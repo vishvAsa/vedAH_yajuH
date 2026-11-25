@@ -20,6 +20,11 @@ unicode_script: devanagari
 सम॒हव्ँविश्वै॑र्दे॒वैः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मित्रः᳓ । असि । व᳓रुणः । असि । स᳓म् । अह᳓म् । वि᳓श्वैः । देवैः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे आसन्दीविशेष! त्वमिष्टप्रापकत्वान्मित्रोऽसि । अनिष्टनिवारकत्वाद्वरुणोऽसि । अहमत्र त्वद्वलात्सर्वैर्देवैः संगतो भूयासम् ॥
@@ -40,6 +45,11 @@ unicode_script: devanagari
 
 क्ष॒त्रस्य॒ नाभि॑रसि ।  
 क्ष॒त्रस्य॒ योनि॑रसि ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+क्षत्र᳓स्य । ना᳓भिः । असि । क्षत्र᳓स्य । यो᳓निः । असि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -64,6 +74,11 @@ unicode_script: devanagari
 सु॒षदा॒मा सी॑द ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्योना᳓ । मा᳓ । सीद । सु-स᳓दा । मा᳓ । सीद ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे आसन्दि! त्वं स्योना सुखकरी भूत्वा मां प्रत्यासीद । तथा सुषदा सुष्ठूपवेशनयोग्या सती मां प्रत्यासदि प्राप्नुहि ।
@@ -79,6 +94,11 @@ unicode_script: devanagari
 
 मा त्वा॑ हिँसीत् ।  
 मा मा॑ हिँसीत् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मा᳓ । त्वा । हिंसीत् । मा᳓ । मा । हिंसीत् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -103,6 +123,11 @@ unicode_script: devanagari
 निष॑साद धृ॒तव्र॑तो॒ वरु॑णः ।  
 प॒स्त्या॑स्वा ॥20॥  
 साम्रा॑ज्याय सु॒क्रतुः॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+नि᳓ । ससाद । धृत᳓-व्रतः । व᳓रुणः । पस्त्या᳙सु । आ । सा᳓म्-राज्याय । सु-क्र᳓तुः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -208,6 +233,11 @@ unicode_script: devanagari
 कस्मै॑ त्वा॒ काय॑ त्वा ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+कः᳓ । असि । कतमः᳓ । असि । क᳓स्मै । त्वा । का᳓य । त्वा ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे यजमान! त्वं कोसि प्रजापतिरूपोऽसि । अत एव कतमोऽसि अविज्ञातविशेषोऽसि । न हि प्रजापतिरीदृश एवेति केनचिदपि निर्धारयितुं शक्यते । तस्य सर्वात्मकत्वेन विशेषस्य दुर्निरूपत्वात् । अतः कस्मै अविज्ञेयस्वरूपसिद्ध्यर्थं त्वां स्पृशामि । काय प्रजापतिरूपसिद्ध्यर्थं त्वां स्पृशामि । अनेन मन्त्रेण यजमानस्य पाणिद्वयमभिसंस्पृशेत् ॥
@@ -226,6 +256,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सुश्लो॒काँ (4) सुम॑ङ्ग॒लाँ (4) सत्य॑रा॒जा३न् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सु᳓श् । लोका᳓म् । सु᳓मम् । गला᳓म् । स᳓त्य । राजा᳓ । न् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -248,6 +283,11 @@ unicode_script: devanagari
 शिरो॑ मे॒ श्रीः ॥22॥  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+शि᳓रः । मे । श्रीः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयं शिरः श्रियो हेतुत्वेन श्रीरूपमस्तु ।  
@@ -261,6 +301,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यशो॒ मुख॑म् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓शः । मु᳓खम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -278,6 +323,11 @@ unicode_script: devanagari
 त्विषि॒ᳵ केशा॑श्च॒ श्मश्रू॑णि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्वि᳓षिः । के᳓शाः । च । श्म᳓श्रूणि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 केशाः श्मश्रूणि च कान्तिहेतवः सन्तु ।  
@@ -291,6 +341,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 राजा॑ मे प्रा॒णो॑ऽमृत॑म् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रा᳓जा । मे । प्राणः᳓ । अ-मृ᳓तम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -308,6 +363,11 @@ unicode_script: devanagari
 स॒म्राट्चक्षुः॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सम्-रा᳓ट् । च᳓क्षुः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 चक्षुरिन्द्रियं दूरसूक्ष्मादिदर्शनेन सम्यग्राजमानमस्तु ।  
@@ -321,6 +381,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वि॒राट्छ्रोत्र॑म् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+विरा᳓ । ट्छ्रो᳓त्रम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -338,6 +403,11 @@ unicode_script: devanagari
 जि॒ह्वा मे॑ भ॒द्रम् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+जिह्वा᳓ । मे । भद्र᳓म् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीया जिह्वा विविधरसज्ञानेन कल्याणभोगहेतुरस्तु ।  
@@ -351,6 +421,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वाङ्महः॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वा᳓क् । म᳓हः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -368,6 +443,11 @@ unicode_script: devanagari
 मनो॑ म॒न्युः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+म᳓नः । मन्युः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयं मनः धर्मकार्यमननहेतुरस्तु ।  
@@ -383,6 +463,11 @@ unicode_script: devanagari
 स्व॒राड्भामः॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्व-रा᳓ट् । भा᳓मः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयो भामः क्रोधः भ्रातृव्यनिराकरणेन स्वयमेव राजाऽस्तु ।  
@@ -396,6 +481,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 मोदा॑ᳶ प्रमो॒दा अ॒ङ्गुली॒रङ्गा॑नि ॥23॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मो᳓दाः । प्र-मोदाः᳓ । अङ्गु᳓लीः । अ᳓ङ्गानि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -414,6 +504,11 @@ unicode_script: devanagari
 चि॒त्तम्मे॒ सहः॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चित्त᳓म् । मे । स᳓हः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयं चित्तं स्तुतिनिन्दादिसहनहेतुरस्तु ।  
@@ -428,6 +523,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 बा॒हू मे॒ बल॑मिन्द्रि॒यम् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बाहू᳓ । मे । ब᳓लम् । इन्द्रिय᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -445,6 +545,11 @@ unicode_script: devanagari
 हस्तौ॑ मे॒ कर्म॑ वी॒र्य॑म् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ह᳓स्तौ । मे । क᳓र्म । वीर्य᳙म् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हस्तौ मणिबन्धस्याग्रभागौ वीर्यवद्व्यापारहेत् स्ताम् ।  
@@ -460,6 +565,11 @@ unicode_script: devanagari
 आ॒त्मा क्ष॒त्रमुरो॒ मम॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आत्मा᳓ । क्षत्र᳓म् । उ᳓रः । म᳓म ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीय आत्मा मध्यशरीरमुरश्च क्षत्त्रं बलहेतुरस्तु ।  
@@ -473,6 +583,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पृ॒ष्टीर्मे॑ रा॒ष्ट्रम्।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पृष्टीः᳓ । मे । राष्ट्र᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -496,6 +611,11 @@ unicode_script: devanagari
 विशो॒ मेऽङ्गा॑नि स॒र्वतः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उद᳓रम् । अं᳓सौ । ग्रीवाः᳓ । च । श्रो᳓ण्यौ । ऊरू᳓ । अ-रत्नी᳓ । जा᳓नुनी । वि᳓शः । मे । अ᳓ङ्गानि । सर्व᳓तः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 उदरादयः प्रसिद्धाः ।  
@@ -514,6 +634,11 @@ unicode_script: devanagari
 नाभि॑र्मे चि॒त्तव्ँ, वि॒ज्ञान॑म् पा॒युर्, मेऽप॑चितिर् भ॒सत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ना᳓भिः । मे । चित्त᳓म् । वि-ज्ञा᳓नम् । पायुः᳓ । मे । अ᳓पचितिः । भस᳓त् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयो नाभिः चित्तं चैतन्यहेतुरस्तु ।  
@@ -528,6 +653,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒न॒न्द॒न॒न्दावा॒ण्डौ मे॑, भग॒स् सौभा॑ग्यं॒ पसः॑।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आनन्दनम् । दा᳓व । आण्डौ᳓ । मे । भ᳓गः । सौ᳓भाग्यम् । प᳓सः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -553,6 +683,11 @@ unicode_script: devanagari
 वि॒शि राजा॒ प्रति॑ष्ठितः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ज᳓ङ्घाभ्याम् । पद्भ्या᳓म् । ध᳓र्मः । अस्मि । विशि᳓ । रा᳓जा । प्र᳓ति-ष्ठितः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 जानुभ्यामधोभागौ जङ्घे ताभ्यां पादाम्यां च धर्मः देहस्य धारयिताऽस्मि । विशि प्रजायां प्रतिष्ठितः स्थैर्येणावस्थितः राजाऽस्मि ॥
@@ -573,6 +708,11 @@ unicode_script: devanagari
 प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र᳓ति । क्षत्रे᳓ । प्र᳓ति । तिष्ठामि । राष्ट्रे᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 क्षत्त्रादिषु यज्ञान्तेषु प्रतितिष्ठामि स्थैर्येणावस्थितोऽस्मि । क्षत्त्रं बलं क्षत्त्रियादिर्वा । राष्ट्रं देशः ।  
@@ -588,6 +728,11 @@ unicode_script: devanagari
 प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र᳓ति । अ᳓श्वेषु । प्र᳓ति । तिष्ठामि । गो᳓षु ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अश्वादयः प्रसिद्धाः ।  
@@ -601,6 +746,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्रत्यङ्गे॑षु॒ प्रति॑तिष्ठाम्या॒त्मन् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र᳓त्य᳓म् । गेषु । प्र᳓ति । तिष्ठामि । आत्म᳓न् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -620,6 +770,11 @@ unicode_script: devanagari
 प्रति॑ प्रा॒णेषु॒ प्रति॑तिष्ठामि पु॒ष्टे ।  
 प्रति॒ द्यावा॑पृथि॒व्योः ।  
 प्रति॑तिष्ठामि य॒ज्ञे ॥25॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र᳓ति । प्राणे᳓षु । प्र᳓ति । तिष्ठामि । पुष्टे᳓ । प्र᳓ति । द्या᳓वा-पृथिव्योः᳓ । प्र᳓ति । तिष्ठामि । यज्ञे᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -658,6 +813,11 @@ unicode_script: devanagari
 तृ॒तीया॑स्स॒त्येन॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्रया᳓ । देवाः᳓ । ए᳓कादश । त्रयः-त्रिंशाः᳓ । सु-रा᳓धसः । बृ᳓हस्प᳓ति-पुरोहिताः । देव᳓स्य । सवितुः᳓ । सवे᳓ । देवाः᳓ । देवैः᳓ । अवन्तु । मा । प्रथमा᳓ । द्विती᳓यैः । द्विती᳓याः । तृती᳓यैः । तृती᳓याः । सत्ये᳓न ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 एकादशसंख्याका देवतास्त्रयाः त्रिविधाः लोकत्रयवर्तित्वान् । तथा चाम्नातम् - 'ये देवा दिव्येकादश स्थ' इत्यादिना । ते चैते त्रयस्त्रिंशत्संख्याका देवाः सुराधसः शोभनस्य कर्मणः साधकाः । बृहस्पतिः पुरोहितो मुख्यो येषां ते बृहस्पतिपुरोहिताः । सवितुर्देवस्य प्रसवे सति ते सर्वे मुख्या देवा इतरैस्सह मामवन्तु । तत्र प्रथमगणस्थाः द्वितीयगणस्थैस्सहिताः । द्वितीयगणस्थास्तृतीयगणस्थिस्सहिताः । तृतीयगागणस्थास्सत्येन सहिताः ।  
@@ -687,6 +847,11 @@ unicode_script: devanagari
 आहु॑तयो मे॒ कामा॒न्त्सम॑र्धयन्तु ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सत्य᳓म् । यज्ञे᳓न । यज्ञः᳓ । य᳓जुर्भिः । य᳓जूंषि । सा᳓मभिः । सा᳓मानि । ऋग्भिः᳓ । ऋ᳓चः । याज्या᳙भिः । याज्या᳙ । वषट्-कारैः᳓ । वषट्-काराः᳓ । आ᳓हुतिभिः । आ᳓-हुतयः । मे । का᳓मान् । स᳓म् । अर्धयन्तु ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 सत्यं च यज्ञेन सहितम् । एवं यज्ञादय आहुतिपर्यन्ता उत्तरोत्तरवस्तुभिस्सह तिष्ठन्ति । ताश्चाहुतयो मदीयान्कामान्समर्धयन्तु समृद्धान्कुवन्तु ॥
@@ -705,6 +870,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 भूस्स्वाहा॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+भूः᳓ । स्वा᳓हा ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -727,6 +897,11 @@ unicode_script: devanagari
 लोमा॑नि॒ प्रय॑ति॒र्मम॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+लो᳓मानि । प्र᳓-यतिः । म᳓म ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयानि लोमानि प्रयतिः शुद्धिकराणि सन्तु ।
@@ -740,6 +915,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 त्वङ्म॒ आन॑ति॒राग॑तिः ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्व᳓क् । मे । आ᳓नतिः । आ᳓गतिः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -757,6 +937,11 @@ unicode_script: devanagari
 माँ॒सम्म॒ उप॑नतिः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मांस᳓म् । मे । उ᳓प-नतिः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मदीयं मांसं उपनतिः अभिप्रेतसंपत्तिहेतुरस्तु ।
@@ -772,6 +957,11 @@ unicode_script: devanagari
 वस्वस्थि॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व᳓सु । अ᳓स्थि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अस्थि च मदीयं वसु धनहेतुरस्तु ।
@@ -785,6 +975,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 म॒ज्जा म॒ आन॑तिः ॥27॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मज्जा᳓ । मे । आ᳓नतिः ।
 </details>
 
 <details><summary>सायण-टीका</summary>

@@ -15,6 +15,11 @@ unicode_script: devanagari
 आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । आग्नेयः᳓ । भ᳓वति । आग्नेयः᳓ । वै᳓ । ब्राह्मणः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 (SB) 1द्वितीये वैश्यसवोऽभिहितः । तृतीये ब्राह्मणसवोऽभिधीयते । स च सूत्रकारेण स्पष्टीकृतः - 'ब्राह्मणो ब्रह्मवर्चसकाम आग्नेयादीन्यष्टौ हवींषि निर्वपति पुरस्तात्स्विष्टकृतो हिरण्येन घृतमुत्पूरय तेन कृष्णाजिन आसीनमभिषिञ्चति' इति । तान्येतानि हवींषि विधातव्यानि । तत्र प्रथमं विधत्ते - आग्रेयोऽष्टाकपालः कर्तव्यः । अग्निना सह ब्राह्मणस्य प्रजापतिमुखजत्वसाम्येनाग्नेयत्वम् ॥
@@ -32,6 +37,11 @@ unicode_script: devanagari
 सौ॒म्यो हि ब्रा॑ह्म॒णः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । य᳓त् । सौम्यः᳓ । सौम्यः᳓ । हि᳓ । ब्राह्मणः᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 2द्वितीयं विधत्ते - सौम्य एकादशकपालः कर्तव्यः । 'सोमोऽस्माकं ब्राह्मणानाँराजा' इति श्रुतेः ब्राह्मणस्य सौम्यत्वम् ॥
@@ -45,6 +55,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒स॒वायै॒व सा॑वि॒त्रः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र-सवा᳓य । एव᳓ । सावित्रः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -66,6 +81,11 @@ unicode_script: devanagari
 ए॒तद्वै ब्रा॑ह्म॒णस्य॑ वाक्प॒तीय॑म्   ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । य᳓त् । बार्हस्पत्यः᳓ । एत᳓त् । वै᳓ । ब्राह्मण᳓स्य । वाक्-पती᳓यम् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यद्बृहस्पतिसंबन्धित्वं एतदेव ब्राह्मणस्य वाक्पतित्वं नाम ॥
@@ -81,6 +101,11 @@ unicode_script: devanagari
 अथ॒ यद॑ग्नीषो॒मीयः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । य᳓त् । अग्नी-सोमी᳓यः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयो᳓ वै᳓ ब्राह्मणः᳓ ।
@@ -89,6 +114,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आग्नेयः᳓ । वै᳓ । ब्राह्मणः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,6 +130,11 @@ unicode_script: devanagari
 
 तौ य॒दा स॒ङ्गच्छे॑ते ॥7॥    
 अथ॑ वी॒र्या॑वत्तरो भवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तौ᳓ । यदा᳓ । सम् । ग᳓च्छेते । अ᳓थ । वीर्या᳙वत्तरः । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -119,6 +154,11 @@ unicode_script: devanagari
 ए॒तद्धि प्र॒त्यक्ष॑म्ब्राह्म॒णस्य॑ वाक्प॒तीय॑म् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । य᳓त् । सारस्वतः᳓ । एत᳓त् । हि᳓ । प्रत्य᳓क्षम् । ब्राह्मण᳓स्य । वाक्-पती᳓यम् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 6अथ षष्ठं विधत्ते - सारस्वतोऽष्टाकपालः कार्यः । ब्राह्मणस्य सरस्वतीसंबन्धित्वं यदस्ति एतत्प्रत्यक्षमेव वाक्पतित्वम् । बृहस्पतिसंबन्धेन तु यद्वाक्पतित्वं पूर्वमुक्तं तच्छास्त्रसिद्धम् । जिह्वायाः सरस्वतीसंबन्धे तु तद्वाक्पतित्वमनुभूयते ॥
@@ -132,6 +172,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 नि॒र्व॒रु॒ण॒त्वायै॒व वा॑रु॒णः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+निर्वरुण-त्वा᳓य । एव᳓ । वारुणः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -148,6 +193,11 @@ unicode_script: devanagari
 
 अथो॒ य ए॒व कश्च॒ सन्त्सू॒यते॑ ।
 स हि वा॑रु॒णः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थो । यः᳓ । एव᳓ । कः᳓ । च । स᳓न् । सूय᳓ते । सः᳓ । हि᳓ । वारुणः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -167,6 +217,11 @@ unicode_script: devanagari
 इन्द्रो॑ वृ॒त्राय॒ वज्र॒मुद॑यच्छत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । य᳓त् । द्यावा-पृथिव्यः᳙ । इ᳓न्द्रः । वृत्रा᳓य । व᳓ज्रम् । उ᳓त् । अयच्छत् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 8अष्टमं विधत्ते - द्यावापृथिव्यः एककपालः कर्तव्यः ।  
@@ -181,6 +236,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तन्द्यावा॑पृथि॒वी नान्व॑मन्येताम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । द्या᳓वा-पृथिवी᳓ । न᳓ । अ᳓नु । अमन्येताम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -201,6 +261,11 @@ unicode_script: devanagari
 वज्र॑स्य॒ वा ए॒षो॑ऽनुमा॒नाय॑ । अनु॑मतवज्रस्सूयाता॒ इति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । एते᳓न । एव᳓ । भाग-धे᳓येन । अ᳓नु । अमन्येताम् । व᳓ज्रस्य । वै᳓ । एषः᳓ । अनु-माना᳓य । अ᳓नुमतवज्रस् । सूयाः । आताः । इ᳓ति ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयमेककपालरूपो भागोऽस्ति तेन भागधेयेन तुष्टे द्यवापृथिव्यौ वृत्रवधार्थमुद्यतं वज्रमङ्गीकृतवत्यौ । अतोऽत्रापि यः पुरोडाशः स एव वज्रस्यानुमत्यर्थं संपद्यते । अनुमतवज्रो हि पुंरुषः शत्रुक्षये समर्थत्वात्सूयाता अभिषेकमर्हतीत्येवाभिज्ञा आहुः ॥
@@ -214,6 +279,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ष्टावे॒तानि॑ ह॒वीँषि॑ भवन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अष्टौ᳓ । एता᳓नि । हवीं᳓षि । भवन्ति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -231,6 +301,11 @@ unicode_script: devanagari
 अ॒ष्टाक्ष॑रा गाय॒त्री ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अष्टा᳓क्षरा । गायत्री᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्री᳓ ब्रह्मवर्चस᳓म् ।
@@ -239,6 +314,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्री ब्र॑ह्मवर्च॒सम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+गायत्री᳓ । ब्रह्म-वर्चस᳓म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +331,11 @@ unicode_script: devanagari
 गा॒य॒त्रि॒यैव ब॑ह्मवर्च॒समव॑रुन्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+गायत्रिया᳓ । एव᳓ । बह्म । वर्चस᳓म् । अ᳓व । रुन्धे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्येन घृत᳓मु᳓त्पुनाति ।
@@ -259,6 +344,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 हिर॑ण्येन घृ॒तमुत्पु॑नाति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+हि᳓रण्येन । घृत᳓म् । उ᳓त् । पुनाति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -276,6 +366,11 @@ unicode_script: devanagari
 तेज॑स ए॒व रु॒चे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓जसः । एव᳓ । रुचे᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णाजिने᳙ऽभि᳓षिञ्चति ।
@@ -284,6 +379,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 कृ॒ष्णा॒जि॒ने॑ऽभिषि॑ञ्चति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+कृष्णाजिने᳓ । अभि᳓ । सिञ्चति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -295,6 +395,11 @@ unicode_script: devanagari
 
 ब्रह्म॑णो॒ वा ए॒तदृ॑क्सा॒मयो॑ रू॒पम् ।  
 यत्कृ॑ष्णाजि॒नम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्र᳓ह्मणः । वै᳓ । एत᳓त् । ऋक्-साम᳓ । यः । रूप᳓म् । य᳓त् । कृष्णाजिन᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -315,6 +420,11 @@ unicode_script: devanagari
 ब्रह्म॑न्ने॒वैन॑मृक्सा॒मयो॒रध्य॒भिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्र᳓ह्मन् । एव᳓ । एनम् । ऋक्-साम᳓योः । अ᳓धि । अभि᳓ । सिञ्चति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृते᳓नाभि᳓षिञ्चति ।
@@ -325,6 +435,11 @@ unicode_script: devanagari
 घृ॒तेना॒भिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+घृते᳓न । अभि᳓ । सिञ्चति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓था वीर्या᳙वत्तरो भवति ॥9॥
@@ -333,6 +448,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तथा॑ वी॒र्या॑वत्तरो भवति ॥9॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓था । वीर्या᳙वत्तरः । भवति ।
 </details>
 
 <details><summary>सायण-टीका</summary>

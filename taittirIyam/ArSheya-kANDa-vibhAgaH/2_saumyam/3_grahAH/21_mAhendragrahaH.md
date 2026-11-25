@@ -12,19 +12,33 @@ _______
 
 1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाँइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 महाँ᳓ इ᳓न्द्रो नृव᳓दा᳓ चर्षणि-प्रा᳓+++(←पूरणे)+++  
 उत᳓ द्वि-ब᳓र्हा+++(←बृंह्)+++ अ-मिनः᳓+++(←मा माने)+++ स᳓होभिः ।  
 अस्मद्र्य᳙ग्+++(←अस्मास्व् अञ्चतीति)+++ **वावृधे वीर्या᳙य᳓**  
-+++(अस्मद्रियग् इति तैत्तिरीये।)+++᳓  
++++(अस्मद्रियग् इति तैत्तिरीये।)+++  
 +उरुः᳓ पृथुः᳓ **सु᳓कृतः** कर्तृ᳓भिर् **भूत्** ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/019/01_mahA_N_indro.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+म॒हाँ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः सहो॑भिः ।  
+अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/019/01_mahA_N_indro.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -253,6 +267,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+महान्- महात्मा। इन्द्रः। नृवत्- नेतृवत्। चर्षणिप्राः- मनुष्याणां कामानां पूरकः। उत- अपि च।  द्विबर्हाः- अभ्युदयनिःश्रेयसात्मकः। अमिनः- अहिंस्यः। सहोभिः- बलैः स्थितः। अस्मद्र्यक्-  अस्मदभिमुखः। वीर्याय। ववृधे। उरुः- विस्तीर्णः। पृथुः- प्रथितः। कर्तृभिः- कर्मभिः। सुकृतः।  भूत्- अभूत्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **नृवत्** यथा नेता राजा भृत्यादीनां कामानां पूरयिता तद्वत् **चर्षणिप्राः** चर्षणीनां स्तोतृजनानां कामानां पूरकः **महान्** प्रभूतः **इन्द्रः** **आ** गच्छतु । आ इत्युपसर्गदर्शनात् गच्छत्वित्याख्यातस्याध्याहारः । **उत** अपि च **द्विबर्हाः** द्वयोर्लोकयोः परिवृढः **सहोभिः** शत्रुबलैः **अमिनः** अहिंसनीयः इन्द्रः **अस्मद्र्यक्**  अस्मदभिमुखं यथा भवति तथा **वीर्याय** वीरकर्मकरणाय **ववृधे** वर्धते । **उरुः** शरीरेण विस्तीर्णः **पृथुः** गुणैः प्रथितः **कर्तृभिः** यजमानैः **सुकृतः** **भूत्** सुष्ठु परिचरितो भवति ॥
@@ -314,7 +333,7 @@ The phrase in d, súkṛtaḥ kartṛ́bhir bhūt “he was well made by his mak
 agent noun kartár- may refer to the soma drinks or to the priests who prepared and offered them to Indra. Because I think the reference is to the immediate past, I would slightly alter the tr. from “was well made” to “has been well made.”
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
-<details open><summary><h8>01-02 ...{Loading}...</h8></summary>
+<details open><summary><h7>01-02 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “wide (and) broad,” 2b bṛhántam ṛṣvám “lofty (and) towering,” ajáraṃ yúvānam “unaging (and) youthful.”
@@ -370,7 +389,7 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (महान्) बड़ा (इन्द्रः) सूर्य (चर्षणिप्राः) मनुष्यों में बिजुली रूप में व्याप्त होने (उत) और (द्विबर्हाः) अन्तरिक्ष और वायु से बढ़ने और (अमिनः) नहीं हिंसा करनेवाला (अस्मद्र्यक्) हम लोगों के सम्मुख हुआ (उरुः) बहुत (पृथुः) विस्तीर्ण (सुकृतः) उत्तम प्रकार उत्पन्न किया गया (भूत्) हो तथा (सहोभिः) बलों और (कर्तृभिः) कर्म करनेवालों के साथ (वीर्याय) पराक्रम के लिये (नृवत्) मनुष्य जैसे वैसे (आ, वावृधे) सब ओर से बढ़ता है, उसको जान कर इष्टसिद्धि करिये ॥१॥
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (महान्) बड़ा (इन्द्रः) सूर्य (चर्षणिप्राः) मनुष्यों में बिजुली रूप में व्याप्त होने (उत) और (द्विबर्हाः) अन्तरिक्ष और वायु से बढ़ने और (अमिनः) नहीं हिंसा करनेवाला (अस्मद्र्यक्) हम लोगों के सम्मुख हुआ (उरुः) बहुत (पृथुः) विस्तीर्ण (सुकृतः) उत्तम प्रकार उत्पन्न किया गया (भूत्) हो तथा (सहोभिः) बलों और (कर्तृभिः) कर्म करनेवालों के साथ (वीर्याय) पराक्रम के लिये (नृवत्) मनुष्य जैसे वैसे (आ, वावृधे) सब ओर से बढ़ता है, उसको जान कर इष्टसिद्धि करिये ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -407,33 +426,32 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा मित्र मित्रासह कार्य पूर्ण करण्यासाठी प्रयत्न करतो तसे ईश्वराने निर्माण केलेले विद्युत किंवा सूर्य कर्म करणाऱ्याचे सहकारी असतात. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2 ग्रहणसादने पूर्ववदेव ॥
-
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि महे॒न्द्राय॑ त्वै॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [22]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -446,6 +464,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -456,11 +479,16 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्राय॑ त्वा ।
+म᳓हेन्द्रा᳓य त्वा ।
+</details>
+
+<details><summary>Keith</summary>
+
+to Mahendra thee!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -468,9 +496,9 @@ ________________
 महे॒न्द्राय॑ त्वा ।
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>पद-पाठः</summary>
 
-to Mahendra thee!
+म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ।
 </details>
 
 _______
@@ -482,7 +510,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, महे॒न्द्राय॑ त्वा ॥ [21]
+एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
 
 <details><summary>Keith</summary>
@@ -494,7 +522,12 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [21]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ॥
 </details>
+
 </div>
 </details>
 </div>

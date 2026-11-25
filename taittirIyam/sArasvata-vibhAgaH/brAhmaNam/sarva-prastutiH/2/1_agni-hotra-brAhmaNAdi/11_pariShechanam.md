@@ -18,6 +18,11 @@ unicode_script: devanagari
 ऋ॒तन्त्वा॑ स॒त्येन॒ परि॑षिञ्चा॒मीति॑ सा॒यम्परि॑षिञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऋत᳓म् । त्वा । सत्ये᳓न । प᳓रि । सिञ्चामि । इ᳓ति । साय᳓म् । प᳓रि । सिञ्चति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्निः **ऋतं** मानसं तथ्यं, आदित्यः **सत्यं** वाचिकं तथ्यं, अग्न्यादित्यवल्लोकानां धारकत्वात्ताच्छब्द्यं तयोः ।  
@@ -34,6 +39,11 @@ unicode_script: devanagari
 स॒त्यन्त्व॒र्तेन॒ परि॑षिञ्चा॒मीति॑ प्रा॒तः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सत्य᳓म् । त्वा । ऋते᳓न । प᳓रि । सिञ्चामि । इ᳓ति । प्रातः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् वा᳓ ऋत᳓म् ।
@@ -42,6 +52,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्वा ऋ॒तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्निः᳓ । वै᳓ । ऋत᳓म् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -54,6 +69,11 @@ unicode_script: devanagari
 अ॒सावा॑दि॒त्यस्स॒त्यम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+असौ᳓ । आदित्यः᳓ । सत्य᳓म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓मेव᳓ त᳓दादित्ये᳓न साय᳓म्प᳓रिषिञ्चति ।
@@ -62,6 +82,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्निमे॒व तदा॑दि॒त्येन॑ सा॒यम्परि॑षिञ्चति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि᳓म् । एव᳓ । त᳓त् । आदित्ये᳓न । साय᳓म् । प᳓रि । सिञ्चति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -80,6 +105,11 @@ unicode_script: devanagari
 अ॒ग्निना॑ऽऽदि॒त्यम्प्रा॒तस्सः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि᳓ना । अदि । त्य᳓म् । प्रातः᳓ । सः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वदहोरात्रे᳓ भ᳓वतस् ता᳓वदस्य लोक᳓स्य ना᳓र्तिर्न᳓ रि᳓ष्टिर् ना᳓न्तो न᳓ पर्यन्तो᳙ऽस्ति ।
@@ -91,6 +121,11 @@ unicode_script: devanagari
 ताव॑दस्य लो॒कस्य॑ ।
 नार्ति॒र्न रिष्टिः॑ ।
 नान्तो॒ न प॑र्य॒न्तो॑ऽस्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+या᳓वत् । अहः-रात्रे᳓ । भ᳓वतः । ता᳓वत् । अस्य । लोक᳓स्य । ना᳓र्तिः । न᳓ । रि᳓ष्टिः । न᳓ । अ᳓न्तः । न᳓ । परि । अन्तः᳓ । अस्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -108,6 +143,11 @@ unicode_script: devanagari
 
 यस्यै॒वव्ँ वि॒दुषो॑ऽग्निहो॒त्रञ्जुह्व॑ति ।
 य उ॑चैनदे॒वव्ँ वेद॑ ॥60॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓स्य । एव᳓म् । विदु᳓षः । अग्नि-होत्र᳓म् । जु᳓ह्वति । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

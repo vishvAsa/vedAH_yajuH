@@ -14,6 +14,11 @@ unicode_script: devanagari
 स दे॑वस॒वः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । वै᳓ । सो᳓मेन । सूय᳓ते । सः᳓ । देव-सवः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पशु᳓ना सूय᳓ते स᳓ देवसवः᳓ ।
@@ -23,6 +28,11 @@ unicode_script: devanagari
 
 यᳶ प॒शुना॑ सू॒यते॑ ।  
 स दे॑वस॒वः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । पशु᳓ना । सूय᳓ते । सः᳓ । देव-सवः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -47,6 +57,11 @@ unicode_script: devanagari
 स म॑नुष्यस॒वः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । इ᳓ष्ट्या । सूय᳓ते । सः᳓ । मनुष्य-सवः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतव्ँ᳓ वै᳓ पृ᳓थये देवाᳶ᳓ प्रा᳓यच्छन् ।
@@ -55,6 +70,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒तव्ँ वै पृथ॑ये दे॒वाᳶ प्राय॑च्छन् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एत᳓म् । वै᳓ । पृ᳓थये । देवाः᳓ । प्र᳓ । अयच्छन् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -76,6 +96,11 @@ unicode_script: devanagari
 ततो॒ वै सोऽप्या॑र॒ण्याना॑म्पशू॒नाम॑सूयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓तः । वै᳓ । सः᳓ । अ᳓पि । आरण्या᳓नाम् । पशूना᳓म् । असूयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वतीᳵ कि᳓यतीश्च प्रजा᳓ वा᳓चव्ँव᳓दन्ति ता᳓साँ स᳓र्वासाँ सूयते ॥11॥
@@ -85,6 +110,11 @@ unicode_script: devanagari
 
 याव॑ती॒ᳵ किय॑तीश्च प्र॒जा वाचव्ँ॒वद॑न्ति ।
 तासाँ॒ सर्वा॑साँ सूयते ॥11॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+या᳓वतीः । कि᳓यतीः । च । प्र-जा᳓ । वा᳓चम् । व᳓दन्ति । ता᳓साम् । स᳓र्वासाम् । सूयते ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -104,6 +134,11 @@ unicode_script: devanagari
 ना॒रा॒शँ॒स्यर्चाऽभिषि॑ञ्चति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एते᳓न । य᳓जते । यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द । नाराशंसी᳓ । अर्चा᳓ । अभि᳓ । सिञ्चति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्या᳙ वै नराशँ᳓सः ।
@@ -112,6 +147,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 म॒नु॒ष्या॑ वै नरा॒शँसः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मनुष्या᳙ । वै । नराशं᳓सः ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -134,6 +174,11 @@ unicode_script: devanagari
 यत्किञ्च॑ राज॒सूय॑मनुत्तरवे॒दीक॑म् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+नि-ह्नु᳓त्य । वा᳓व᳓ । एत᳓त् । अ᳓थ । अभि᳓ । सिञ्चति । य᳓त् । कि᳓म् । च । राज-सू᳓यम् । अनुत्तर । वेदी᳓ । कम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्स᳓र्वम्भवति ।
@@ -142,6 +187,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत्सर्व॑म्भवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । स᳓र्वम् । भवति ।
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -165,6 +215,11 @@ unicode_script: devanagari
 द्यु॒मद॑ग्ने॒ महि॒ श्रवः॑ ।   
 बृ॒हत्कृ॑धि म॒घोना॑म् ।   
 नृ॒वद॑मृत नृ॒णाम् ॥12॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ये᳓ । मे । पञ्चाश᳓तम् । ददुः᳓ । अ᳓श्वानाम् । सध᳓-स्तुतिः । द्युम᳓त् । अग्ने । म᳓हि । श्र᳓वः । बृह᳓त् । कृधि । मघो᳓नाम् । नृव᳓त् । अमृत । नृणा᳓म् ।
 </details>
 
 <details><summary>सायण-टीका</summary>

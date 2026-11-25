@@ -404,6 +404,11 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र᳓जा-पते । न᳓ । त्व᳓त् । एता᳓नि । अन्यः᳓ । वि᳓श्वा । जाता᳓नि । प᳓रि । ताः᳓ । बभूव । य᳓त्-कामाः । ते । जुहुमः᳓ । त᳓त् । न । उ । अस्तु । वय᳓म् । स्याम । प᳓तयः । रयीणा᳓म् ।
+</details>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपाया याज्यामाह - 

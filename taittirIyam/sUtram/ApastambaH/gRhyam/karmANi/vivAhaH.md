@@ -312,10 +312,10 @@ unicode_script: devanagari
 उत्तराभिः पञ्चभिस् +++(=हिरण्यवर्णा)+++ स्नापयित्वा,  
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/01_hiraNyavarNAH_shuchayaH.md">
 <details open><summary><h2>०१ हिरण्यवर्णाश्शुचयः पावकाः ...{Loading}...</h2></summary>
-हिर॑ण्य-वर्णा॒श् शुच॑यः पाव॒काः  
-प्रच॑क्रमुर् ‌हि॒त्वा ऽव॒द्यम् आपः॑ ।  
-श॒तं प॒वित्रा॒ वित॑ता॒ ह्य् आ॑सु॒ +++(अप्सु)+++  
-ताभि॑ष् ट्वा दे॒वस् स॑वि॒ता पु॑नातु ।+++(र५)+++
+हि᳓रण्य-वर्णाश् शु᳓चयः पावकाः᳓  
+प्र᳓चक्रमुर् ‌हित्वा᳓ ऽवद्य᳓म् आ᳓पः ।  
+शतं᳓ पवि᳓त्रा वि᳓तता ह्य् आ᳙सु +++(अप्सु)+++  
+ता᳓भिष् ट्वा देव᳓स् सविता᳓ पुनातु ।+++(र५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/02_hiraNyavarNAshshuchayaH_pAvakA.md">
@@ -330,10 +330,10 @@ unicode_script: devanagari
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/02_yAsAM_rAjA.md">
 <details open><summary><h2>०३ यासां राजा ...{Loading}...</h2></summary>
-यासाँ॒ राजा॒ वरु॑णो॒ **याति॒** मद्ध्ये॑  
-सत्यानृ॒ते **अ॑व॒पश्य॒ञ्** जना॑नाम् ।  
-या अ॒ग्निं गर्भं॑ **दधि॒रे** सु॒वर्णा॒स्  
-तास् त॒ आप॒श् शँ स्यो॒ना **भ॑वन्तु** ।+++(५)+++
+या᳓साँ रा᳓जा व᳓रुणो **या᳓ति** म᳓द्ध्ये  
+सत्यानृते᳓ **अवप᳓श्यञ्** ज᳓नानाम् ।  
+या᳓ अग्निं᳓ ग᳓र्भं **दधिरे᳓** सुव᳓र्णास्  
+ता᳓स् त आ᳓पश् शँ᳓ स्योना᳓ **भवन्तु** ।+++(५)+++
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_02/04_yAsAn_devA.md">
@@ -341,8 +341,8 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/033_ApaH/03_yAsAM_devA.md">
 <details open><summary><h4>०३ यासां देवा ...{Loading}...</h4></summary>
 
-यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भ॑वन्ति।  
-या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+या᳓सां देवा᳓ दिवि᳓ कृण्व᳓न्ति भक्षं᳓ या᳓ अन्त᳓रिक्षे बहुधा᳓ भवन्ति।  
+या᳓ अग्निं᳓ ग᳓र्भं दधिरे᳓ सुव᳓र्णास्ता᳓ न आ᳓पः शं᳓ स्योना᳓ भवन्तु ॥
 </details>
 </div>
 </details>
@@ -787,7 +787,7 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h2>०३ तुभ्यमग्रे पर्यवहन्त्सूर्याम् ...{Loading}...</h2></summary>
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085_sUryA-sUktam/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
@@ -857,7 +857,7 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h2>०८ तुभ्यमग्रे पर्यवहन् ...{Loading}...</h2></summary>
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085_sUryA-sUktam/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
@@ -947,7 +947,7 @@ unicode_script: devanagari
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h2>०३ तुभ्यमग्रे पर्यवहन्त्सूर्याम् ...{Loading}...</h2></summary>
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../../../../../../../vedAH_Rk/static/shAkalam/saMhitA/vishvAsa-prastutiH/10/AdityaH/Rk/raibhy_AsId_anudeyI) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085_sUryA-sUktam/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  
@@ -1879,30 +1879,34 @@ ______________
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_11_anyo_vainAmabhimantrayeta.md">
-
 अन्यो वैनाम् अभिमन्त्रयेत  +++(अत्र सुदर्शनाचार्यः - इदं च "अहं गर्भमदधाम्" इत्यादि लिङ्गविरोधेऽपि श्रुतेर्बलीयस्त्वा)+++११  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
+<details open><summary><h2>०३ अहङ् गर्भमदधामोषधीष्वहम् ...{Loading}...</h2></summary>
+
 अहं᳓ ग᳓र्भम् [[अ᳓दधाम्|अदधाम्]] ओ᳓षधीष्व्  
 अहं᳓ वि᳓श्वेषु भु᳓वनेष्व् अन्तः᳓ ।  
 अहं᳓ प्रजा᳓ **अजनयं** पितॄृणा᳓म्  
 अहं᳓ ज᳓निभ्यो +++(=जन्याः = वध्वाः)+++ अपरी᳓षु +++(=पश्चात्कालस्नुषासु)+++ पुत्रा᳓न् ।+++(५)+++
+
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
+<details open><summary><h2>०४ पुत्रिणेमा कुमारिणा ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
+पु॒त्रिणे॒मा कु॑मा॒रिणा॒ विश्व॒म् आयु॒र् व्य॑श्नुतम् ।  
+उ॒भा हिर॑ण्य-पेशसा+++(=रूपौ)+++ वी॒ति+++(=हविर्)+++हो॑त्रा कृ॒तद्व॑सू (=कृतवसू)।  
 
-पुत्रि᳓णेमा᳓ कुमारि᳓णा  
-वि᳓श्वम् आ᳓युर् **व्य᳙श्नुतम्** ।  
-उभा᳓ हि᳓रण्य-पेशसा+++(=रूपौ)+++  
-वीति᳓+++(=हविर्)+++होत्रा कृत᳓द्वसू (=कृतवसू)।  
-
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
+<details open><summary><h2>०५ दशस्यन्त्वाऽमृताय कंशमूधो ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
 दशस्य᳓न्त्वा +++(=दशस्यन्तौ =दातारौ)+++ ऽमृ᳓ताय कँ᳓ +++(पादपूरणे)+++ श᳓+++(स)+++म् ऊ᳓धो  
-रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **[[कृणु᳓तो|कृणुतो]] दु᳓वः** +++++++++(=परिचरणम्)+++++++++।+++(४)+++
-</div>
+रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **कृणुतो दु᳓वः** +++(=परिचरणम्)+++।+++(४)+++  
 
+</details>
+</div>
 </div>  
 
 +++(भावयव्यस्य राज्ञो भार्याम् भावयव्यानीमिन्द्रः पत्युस्सखा परिहसन् उवाच उपभोगयोग्या त्वं न भवसि रोमाणि ते नोत्पन्नानीति । सा तमब्रवीत्- उपोप मे परामृश मा मे दभ्राणि मन्यथाः । सर्वाहमस्मि रोमशा गन्धारिणामिवाविका इति ॥)+++

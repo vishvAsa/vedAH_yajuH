@@ -23,6 +23,11 @@ unicode_script: devanagari
 आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓युषः । प्राण᳓म् । स᳓म् । तनु ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **आयुषो** वयसो ऽवस्थितत्वाद्धेतोः **प्राणं संतनु**, संततमविच्छिन्नं कुरु । सति ह्यायुषि प्राणास्सन्तन्यन्ते तस्मादायुरेव तावत्संतनु ततः प्राणादिकमिति गम्यते ।
@@ -36,6 +41,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्रा॒णाद् अ॑पा॒नँ सन्त॑नु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राणा᳓त् । अप । आन᳓म् । स᳓म् । तनु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -53,6 +63,11 @@ unicode_script: devanagari
 अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपाना᳓त् । व्यान᳓म् । स᳓म् । तनु ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तदुभयसद्भावे रसव्यापनाय व्यानप्रार्थना, अन्यथा शरीरधारणासिद्धेः ।
@@ -68,6 +83,11 @@ unicode_script: devanagari
 व्या॒नाच् चक्षु॒स् सन्त॑नु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व्याना᳓त् । च᳓क्षुः । स᳓म् । तनु ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ध्रियमाणेऽपि शरीरे चक्षुः प्रधानं करणमिति प्रार्थ्यते रूपग्रहणार्थम् ।
@@ -81,6 +101,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 चक्षु॑ष॒श् श्रोत्रँ॒ सन्त॑नु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+च᳓क्षुषः । श्रो᳓त्रम् । स᳓म् । तनु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -102,6 +127,11 @@ unicode_script: devanagari
 मन॑सो॒ वाचँ॒ सन्त॑नु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+श्रो᳓त्रात् । म᳓नः । स᳓म् । तनु । म᳓नसः । वा᳓चम् । स᳓म् । तनु ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतेष्ववस्थितेष्वपि वाङ्मनसाधीना व्यवहारस्थिति रिति प्रार्थ्यते ।
@@ -115,6 +145,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वा॒च आ॒त्मानँ॒ सन्त॑नु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वाचः᳓ । आत्मा᳓नम् । स᳓म् । तनु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -134,6 +169,11 @@ unicode_script: devanagari
 पृ॒थि॒व्या अ॒न्तरि॑क्षँ॒ सन्त॑नु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आत्म᳓नः । पृथिवी᳓म् । स᳓म् । तनु । पृथिव्याः᳓ । अन्त᳓रिक्षम् । स᳓म् । तनु ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्य सन्ततस्य उपकारकत्वात् पृथिव्यादिसन्तानं प्रार्थयते ।
@@ -149,6 +189,11 @@ unicode_script: devanagari
 
 अ॒न्तरि॑क्षा॒द् दिव॒ ँ॒सन्त॑नु ।
 दिव॒स् सुव॒स् सन्त॑नु ॥ 32 ॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अन्त᳓रिक्षात् । दि᳓व । ंस᳓न्तनु । दि᳓वः । सु᳓वः । स᳓म् । तनु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -13,6 +13,11 @@ unicode_script: devanagari
 "नृ॒षद॒न् त्वे"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+नृष᳓ । दन् । त्वा । इति । आह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 नृषदं त्वेत्यादि ॥ 'उपयामगृहीतोसि नृषदं त्वा' इति पञ्चैन्द्रानतिग्राह्यान्गृह्णाति ।
@@ -27,6 +32,11 @@ unicode_script: devanagari
 
 प्र॒जा वै नॄन् ।
 प्र॒जाना॑मे॒वैतेन॑ सूयते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र-जा᳓ । वै᳓ । नॄ᳓न् । प्र-जा᳓नाम् । एव᳓ । एते᳓न । सूयते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -44,6 +54,11 @@ unicode_script: devanagari
 "द्रु॒षद॒मि"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्रु-स᳓दम् । इति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नस्प᳓तयो वै᳓ द्रु᳓, व᳓नस्प᳓तीनाम् एवै᳓ते᳓न सूयते ।
@@ -53,6 +68,11 @@ unicode_script: devanagari
 
 वन॒स्पत॑यो॒ वै द्रु ।
 वन॒स्पती॑नामे॒वैतेन॑ सूयते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व᳓नस्प᳓तयः । वै᳓ । द्रु᳓ । व᳓नस्प᳓तीनाम् । एव᳓ । एते᳓न । सूयते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -68,6 +88,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "भु॒व॒न॒सद॒मि"त्य् आ॑ह ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+भुवन-स᳓दम् । इति । आह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -88,6 +113,11 @@ unicode_script: devanagari
 भुव॑नम् ए॒वैतेन॑ गच्छति ॥ 53 ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यदा᳓ । वै᳓ । व᳓सीयान् । भ᳓वति । भु᳓वनम् । अगन् । इ᳓ति । वै᳓ । त᳓म् । आहुः । भु᳓वनम् । एव᳓ । एते᳓न । गच्छति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 कथमित्याह - यदेति । यदा अयं पुरुषो वसीयान् वसुमत्तरो भवति तदानीं वसीयांसं सर्वेऽप्याहुः अहो महाभागोऽयं भुवनं भूतजातं अखिलं अगन् अगमत् गमिष्यति अचिरात् स्वामी भविष्यतीति । यदि ह्यप्ययं कृत्स्नस्य भुवनस्येष्टे ततो दोषवान् भवति । गमेः 'छन्दसि लुङ्लङ्लिटः'इति भविष्यति लुङ्, 'मन्त्रे घस'इति लुक्, 'मोनो धातोः'इति नत्वम् ॥
@@ -101,6 +131,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "अ॒प्सु॒षद॑न् त्वा घृत॒सद॒मि"त्य् आ॑ह।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अप्सुष᳓दन् । त्वा । घृत-स᳓दम् । इति । आह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -119,6 +154,11 @@ unicode_script: devanagari
 अ॒पाम् ए॒वैतेन॑ घृ॒तस्य॑ सूयते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । एव᳓ । एते᳓न । घृत᳓स्य । सूयते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपां घृतस्य च स्वाम्यनुज्ञायते ।
@@ -134,6 +174,11 @@ unicode_script: devanagari
 "व्यो॒म॒सद॒मि"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व्योम-स᳓दम् । इति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ वै᳓ व᳓सीयान् भ᳓वति᳓  "व्योमागन्नि᳓"ति वै᳓ त᳓माहुः ।  
@@ -145,6 +190,11 @@ unicode_script: devanagari
 य॒दा वै वसी॑या॒न्भव॑ति ।
 व्यो॑माग॒न्निति॒ वै तमा॑हुः ।  
 व्यो॑म ए॒वैते॑न गच्छति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यदा᳓ । वै᳓ । व᳓सीयान् । भ᳓वति । व्यो᳙म । अगन् । इ᳓ति । वै᳓ । त᳓म् । आहुः । व्यो᳙मः । एव᳓ । ए᳓तेन । गच्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -162,6 +212,11 @@ unicode_script: devanagari
 "पृ॒थि॒वि॒षद॑न् त्वा ऽन्तरिक्ष॒सद॒मि"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पृथि । विष᳓ । दन् । त्वा । अन्तरिक्ष-स᳓दम् । इति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓म् एवै᳓ते᳓न लोका᳓नाँ सूयते ।
@@ -170,6 +225,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ए॒षाम् ए॒वैतेन॑ लो॒कानाँ॑ सूयते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एषा᳓म् । एव᳓ । एते᳓न । लोका᳓नाम् । सूयते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -188,6 +248,11 @@ unicode_script: devanagari
 तस्मा॑द् वाजपेयया॒जी न कञ्च॒न प्र॒त्यव॑रोहति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । वाज-पेययाजी᳓ । न᳓ । क᳓म् । चन᳓ । प्रति । अ᳓व । रोहति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्माद्वाजपेययाजी वाजपेयेनेष्टवान् कंचिदपि गुर्वादिकमपि न प्रत्यवरोहति दृष्ट्वा वाहनाविभ्यो नावतरति नाभ्युपगच्छति न प्रत्युत्तिष्ठति न चासनाच्चलति ।
@@ -201,6 +266,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अपी॑व॒ हि दे॒वता॑नाँ सू॒यते॑ ॥ 54 ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓पि । इव । हि᳓ । देव᳓तानाम् । सूय᳓ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -218,6 +288,11 @@ unicode_script: devanagari
 "ना॒क॒सद॒मि"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+नाक-स᳓दम् । इति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ वै᳓ व᳓सीयान् भ᳓वति  "ना᳓कमगन्नि᳓"ति वै᳓ त᳓माहुः ।  
@@ -229,6 +304,11 @@ unicode_script: devanagari
 य॒दा वै वसी॑या॒न्भव॑ति ।
 नाक॑मग॒न्निति॒ वै तमा॑हुः ।  
 नाक॑म्  ए॒वैतेन॑ गच्छति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यदा᳓ । वै᳓ । व᳓सीयान् । भ᳓वति । ना᳓कम् । अगन् । इ᳓ति । वै᳓ । त᳓म् । आहुः । ना᳓कम् । एव᳓ । एते᳓न । गच्छति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -246,6 +326,11 @@ unicode_script: devanagari
 "ये ग्रहा॑ᳶ पञ्चज॒नीना॒" इत्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ये᳓ । ग्र᳓हाः । पञ्च-जनी᳓नाः । इ᳓ति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-जना᳓नाम् एवै᳓ते᳓न सूयते ।
@@ -254,6 +339,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒-ज॒नाना॑म् ए॒वैतेन॑ सूयते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पञ्च-जना᳓नाम् । एव᳓ । एते᳓न । सूयते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -273,6 +363,11 @@ unicode_script: devanagari
 "अ॒पाँ रस॒म् उद्व॑यस॒मि"त्य् आ॑ह।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । र᳓सम् । उ᳓त्-वयसम् । इति । आह ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓म् एवै᳓ते᳓न र᳓सस्य सूयते ।
@@ -283,6 +378,11 @@ unicode_script: devanagari
 अ॒पाम् ए॒वैतेन॒ रस॑स्य सूयते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । एव᳓ । एते᳓न । र᳓सस्य । सूयते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सू᳓र्य-रश्मिँ समा᳓भृतमि᳓"त्य् आह सशुक्रत्वा᳓य ॥ 55 ॥
@@ -291,6 +391,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 "सूर्य॑-रश्मिँ स॒माभृ॑त॒मि"त्य् आ॑ह सशुक्र॒त्वाय॑ ॥ 55 ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सू᳓र्य-रश्मिम् । सम्-आ᳓भृतम् । इति । आह । सशुक्र-त्वा᳓य ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

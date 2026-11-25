@@ -174,6 +174,11 @@ unicode_script: devanagari
 राड॑सि वि॒राड॑सि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रा᳓ट् । असि । वि-रा᳓ट् । असि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे आज्यमन्थ! त्वं राडसि राजमानोऽसि । विविधं राजत इति विराट् ।
@@ -187,6 +192,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स॒म्राड॑सि स्व॒राड॑सि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सम्-रा᳓ट् । असि । स्वः । आ᳓ । अ᳓डसि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -209,6 +219,11 @@ unicode_script: devanagari
 इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तँ श्रीणामि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इ᳓न्द्राय । त्वा । ते᳓जस्वते । ते᳓जस्वन्तम् । श्रीणामि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे आज्यमन्थ! त्वां तेजोयुक्तेन्द्रार्थं तेजस्वन्तं त्वां सक्तुभिस्सह श्रीणामि पचामि । आज्यस्य तेजोरूपत्वेन तेजस्त्वम् । एवं पयोमन्थादिषु योज्यम् ।
@@ -222,6 +237,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य॒ त्वौज॑स्वत॒ ओज॑स्वन्तँ श्रीणामि ॥17॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इ᳓न्द्राय । त्वा । ओ᳓जस्वते । ओ᳓जस्वन्तम् । श्रीणामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -239,6 +259,11 @@ unicode_script: devanagari
 इन्द्रा॑य त्वा॒ पय॑स्वते॒ पय॑स्वन्तँ श्रीणामि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इ᳓न्द्राय । त्वा । प᳓यस्वते । प᳓यस्वन्तम् । श्रीणामि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दर्शेऽष्टौ च 'ऐन्द्रं पयः' इत्याम्नानादिन्द्रस्य पयस्वत्त्वम् । दधिमन्थस्य पयोविकारत्वेन पयस्वत्त्वम् ।
@@ -252,6 +277,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य॒ त्वाऽऽयु॑ष्मत॒ आयु॑ष्मन्तँ श्रीणामि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इ᳓न्द्राय । त्वा । अ᳓युः । मतः । आ᳓युष्मन्तम् । श्रीणामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -274,6 +304,11 @@ unicode_script: devanagari
 तेजो॑ऽसि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓जः । असि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे आज्यमन्थ! त्वं तेजोरूपोऽसि ।  
@@ -287,6 +322,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । ते । प्र᳓ । यच्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -345,6 +385,11 @@ unicode_script: devanagari
 ओजो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ओ᳓जः । असि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ओजो बलम् ।
@@ -358,6 +403,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत्ते॒ प्रय॑च्छामि ॥18॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । ते । प्र᳓ । यच्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -407,6 +457,11 @@ unicode_script: devanagari
 पयो॑ऽसि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प᳓यः । असि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
@@ -420,6 +475,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । ते । प्र᳓ । यच्छामि ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
@@ -469,6 +529,11 @@ unicode_script: devanagari
 आयु॑रसि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । अयुः । असि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् ।
@@ -482,6 +547,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तत्ते॒ प्रय॑च्छामि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । ते । प्र᳓ । यच्छामि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -569,6 +639,11 @@ unicode_script: devanagari
 
 आयु॑रसि वि॒श्वायु॑रसि ।
 स॒र्वायु॑रसि॒ सर्व॒मायु॑रसि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । अयुः । असि । विश्वा᳓युः । असि । सर्वा᳓युः । असि । स᳓र्वम् । आ᳓ । अयुः । असि ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -670,6 +745,11 @@ unicode_script: devanagari
 तम॒हम॒स्मा आ॑मुष्याय॒णाय॒ तेज॑से ब्रह्मवर्च॒साय॑ गृह्णामि ।   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । यः᳓ । द्र᳓वणे । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓य । ते᳓जसे । ब्रह्म-वर्चसा᳓य । गृह्णामि ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अपां संबन्धिनि द्रवणे द्रवीभावे **यो रसः** सारः  
@@ -691,6 +771,11 @@ unicode_script: devanagari
 
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । यः᳓ । ऊर्मौ᳓ । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓यः । ओ᳓जसे । वीर्या᳙य । गृह्णामि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाय्ँ᳓ यो᳓ मध्यतो᳓ र᳓सः ।  
@@ -704,6 +789,11 @@ unicode_script: devanagari
 तम॒हम॒स्मा आ॑मुष्याय॒णाय॒ पुष्ट्यै॑ प्र॒जन॑नाय गृह्णामि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । यः᳓ । मध्यतः᳓ । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓य । पु᳓ष्ट्यै । प्र-ज᳓ननाय । गृह्णामि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाय्ँ᳓ यो᳓ यज्ञि᳓यो र᳓सः ।  
@@ -715,6 +805,11 @@ unicode_script: devanagari
 
 अ॒पाय्ँ यो य॒ज्ञियो॒ रसः॑ ।  
 तम॒हम॒स्मा आ॑मुष्याय॒णाया॒यु॑षे दीर्घायु॒त्वाय॑ गृह्णामि ॥22॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अपा᳓म् । यः᳓ । यज्ञि᳓यः । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓य । आयु᳙षे । दीर्घायु-त्वा᳓य । गृह्णामि ।
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

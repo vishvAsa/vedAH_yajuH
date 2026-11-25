@@ -523,6 +523,11 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासाँ॒ राजा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+हि᳓रण्य-वर्णाः । शु᳓चयः । पावका᳓ । या᳓साम् । रा᳓जा ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -622,6 +627,11 @@ May these waters be gentle and kindly to us.
 शि॒वेन॑ मा॒ चक्षु॑षा पश्यत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+या᳓सान् । देवाः᳓ । शिवे᳓न । मा । च᳓क्षुषा । पश्यत ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -718,6 +728,11 @@ Do ye confer upon me radiance and might and force.
 
 आपो॑ भ॒द्रा  
 आदित्प॑श्यामि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓पः । भद्राः᳓ । आ᳓दि᳓त् । पश्यामि ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -1099,10 +1114,10 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 ##### नासदीयम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/129_nAsadIyam/">
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/_index.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>सायण-भाष्यम्</summary>
 
 एकादशेऽनुवाके त्रयोविंशतिसंख्याकानि सूक्तानि। तत्र ‘नासदासीत्’ इति सप्तर्चं प्रथम सूक्तं त्रैष्टुभम्। परमेष्ठी नाम प्रजापतिर्ऋषिः। वियदादिभावानां सृष्टिस्थितिप्रलयादीनामत्र प्रतिपाद्यत्वात् तेषां कर्ता परमात्मा देवता। तथा चानुक्रान्तं- ‘नासत्सप्त प्रजापतिः, परमेष्ठी भाववृत्तं तु’ इति। गतो विनियोगः॥
@@ -1133,7 +1148,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 
 ###### 01 नासदासीन्नो सदासीत्तदानीम् - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 ना᳓सद् आसीन्, नो᳓ स᳓द् आसीत् तदा᳓नीम् ।  
 ना᳓सीद् र᳓जो, नो᳓ वि᳓ओमा परो᳓ य᳓त् ।  
@@ -1145,7 +1160,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।  
 किमाव॑रीवः॒ कुह॒ कस्य॒ शर्म॒न्नम्भः॒ किमा॑सी॒द्गह॑नं गभी॒रम् ॥
@@ -1153,7 +1168,7 @@ But even if thought is the ultimate and primal creative act, the origin of the  
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/01_nAsadAsInno_sadAsIttadAnIM.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1539,7 +1554,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 
 ###### 02 न मृत्युरासीदमृतम् - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 न᳓ मृत्यु᳓र्, अमृ᳓तं त᳓र्हि न᳓ ।  
 रा᳓त्रिया अ᳓ह्न आसीत् प्रकेतः᳓+++(=सङ्केतः [ज्योतींषि])+++ ।  
@@ -1550,7 +1565,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ न रात्र्या॒ अह्न॑ आसीत्प्रके॒तः ।  
 आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ तस्मा॑द्धा॒न्यन्न प॒रः किं च॒नास॑ ॥
@@ -1558,7 +1573,7 @@ Zu jener Zeit war weder Sein, noch Nichtsein, nicht war der Luftraum, noch der H
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/02_na_mRtyurAsIdamRtaM.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -1925,7 +1940,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 
 ###### 03 तम आसीत्तमसा - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/03_tama_AsIttamasA.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 त᳓म +++(→नाम-रूप-विभागानर्ह- सूक्ष्म-चिद्-अचित्-पिण्डम्)+++ आसीत्, त᳓मसा गूढ᳓म् अ᳓ग्रे प्रकेत᳓म् +++(=रहस्यम्)+++।  
 +++(यथा)+++ सलिलँ᳓ स᳓र्वम् आ इद᳓म् ।  
@@ -1936,7 +1951,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/03_tama_AsIttamasA.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्रे॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दम् ।  
 तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैक॑म् ॥
@@ -1944,7 +1959,7 @@ Nicht Tod und nicht Unsterblichkeit war damals, nicht gab's des Tages noch der N
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/03_tama_AsIttamasA.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -2283,7 +2298,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 
 ###### 04 कामस्तदग्रे समवर्तताधि - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 का᳓मस् त᳓द् अ᳓ग्रे स᳓मवर्तता᳓धि +++(=आधिक्ये)+++।  
 म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत् ।  
@@ -2294,7 +2309,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।  
 स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
@@ -2302,7 +2317,7 @@ Nur Dunkel war, verhüllt von Dunkel, anfangs und unerkennbar wogte dieses alles
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -2630,7 +2645,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 
 ###### 05 तिरश्चीनो विततो - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/05_tirashchIno_vitato.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 तिरश्ची᳓नो वि᳓ततो रश्मि᳓र् एषाम् ।  
 अध᳓स्विद् आसी᳓३द्; उप᳓रिस्विद् आसी३त् ।  
@@ -2641,7 +2656,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/05_tirashchIno_vitato.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्वि॑दा॒सी३दु॒परि॑ स्विदासी३त् ।  
 रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्स्व॒धा अ॒वस्ता॒त्प्रय॑तिः प॒रस्ता॑त् ॥
@@ -2649,7 +2664,7 @@ Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; E
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/05_tirashchIno_vitato.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -2954,7 +2969,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 
 ###### 06 को अद्धा - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/06_ko_addhA.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 को᳓ अद्धा᳓ वेद क᳓ इह᳓ प्र᳓ वोचत्  
 कु᳓त आ᳓जाता कु᳓त इयं᳓ वि᳓सृष्टिः  
@@ -2964,7 +2979,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/06_ko_addhA.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं विसृ॑ष्टिः ।  
 अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥
@@ -2972,7 +2987,7 @@ Und quer hindurch, war ihre Schnur gezogen, was war darunter? und was war darüb
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/06_ko_addhA.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -3306,7 +3321,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 
 ###### 07 इयं विसृष्थिर्यत - त्रिष्टुप्
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/129/07_iyaM_visRShTiryata.md">
-<details open><summary><h12>विश्वास-प्रस्तुतिः …{Loading}…</h12></summary>
+<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
 
 इयं᳓ वि᳓सृष्टिर् य᳓त आबभू᳓व ।  
 य᳓दि वा +++(स्वरूपं)+++ दधे᳓ य᳓दि वा न᳓ ।  
@@ -3317,7 +3332,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h12>मूलम् …{Loading}…</h12></summary>
+<details><summary><h7>मूलम् …{Loading}…</h7></summary>
 
 इ॒यं विसृ॑ष्टि॒र्यत॑ आब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न ।  
 यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्त्सो अ॒ङ्ग वे॑द॒ यदि॑ वा॒ न वेद॑ ॥
@@ -3325,7 +3340,7 @@ Wer weiss es recht? wer mag es hier verkünden? woher entstand, woher sie kam di
 </div>
 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/07_iyaM_visRShTiryata.md">
-<details><summary><h12>सर्वाष् टीकाः …{Loading}…</h12></summary>
+<details><summary><h7>सर्वाष् टीकाः …{Loading}…</h7></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -3659,29 +3674,35 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </details>
 </details>
 </div>
+
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
-<details open><summary><h7>विश्वास-प्रस्तुतिः …{Loading}…</h7></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 
-किं᳓स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ **आस**+++(आसीत् इति तैत्तिरीयपाठः)+++᳙ -  
+<details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
+
+किं᳓स्विद् व᳓नं क᳓ उ स᳓ वृक्ष᳓ **आस**+++(आसीत् इति तैत्तिरीयपाठः)+++ -  
 य᳓तो द्या᳓वापृथिवी᳓ **निष्टतक्षुः᳓**+++(←तक्ष्)+++ ।  
 म᳓नीषिणो म᳓नसा **पृच्छ᳓ते᳓द्** उ त᳓द् -  
 य᳓द् **अध्य᳓तिष्ठद्** भु᳓वनानि **धार᳓यन्** ।  
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/081/04_kiM_svidvanaM.md">
-<details><summary><h7>मूलम् …{Loading}…</h7></summary>
+<div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/081/04_kiM_svidvanaM.md">
+
+<details><summary><h2>मूलम् …{Loading}…</h2></summary>
 
 किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
 मनी॑षिणो॒ मन॑सा पृ॒च्छतेदु॒ तद्यद॒ध्यति॑ष्ठ॒द्भुव॑नानि धा॒रय॑न् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
-<details open><summary><h7>004 …{Loading}…</h7></summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/081/04_kiM_svidvanaM.md">
+
+<details open><summary><h2>004 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -3983,6 +4004,7 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 - धैवतः
 </details>
 </details>
+
 </div>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3990,8 +4012,9 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 16अथ नवमीमाह ।
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ब्र᳓ह्म व᳓नम् ब्र᳓ह्म स᳓ वृक्ष᳓ **आसीत्** ॥ 76 ॥  
 य᳓तो द्या᳓वापृथिवी᳓ **निष्टतक्षुः᳓**+++(←तक्ष्)+++ ।   
@@ -3999,10 +4022,12 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 ब्र᳓ह्माध्य᳓तिष्ठद् +++("चादिलोपे विभाषा")+++ भु᳓वनानि **धार᳓यन्** ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
@@ -4020,8 +4045,8 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 हे मनीषिणः आचार्योऽहं मनसा निश्चित्य वः युष्मभ्यं विब्रवीमि विविधमुत्तरं ब्रवीमि ॥
 </details>
 </details>
-</div>
 
+</div>
 </div>
 
 ##### भाग्य-सूक्तम् - प्रातर् अग्निम्
@@ -5539,27 +5564,27 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-3/15, *AV*-30/65, *SB-M*-0/7, *VS-M*-6/19)
-- एव᳓ (*TS*-3243, *RV*-173)
-- भ᳓गवान् (*RV*-2/3, *AV*-2/9, *SB-M*-0/6, *VS-M*-1)
+- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-3/15, *AV*-30/65, *SB-M*-0/7, *SB-K*-5/17, *VS-M*-6/19, *VS-K*-6/22)
+- एव᳓ (*TS*-3243, *RV*-173, *SB-K*-8573, *VS-K*-5)
+- भ᳓गवान् (*RV*-2/3, *AV*-2/9, *SB-M*-0/6, *SB-K*-5/14, *VS-M*-1)
 - अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- देवाः (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-72 ७.४१.५; प्रथमाबहुवचने देवाः᳓ *TS*-376/1025, *RV*-238/1342, *TB*-38/242, *AV*-283/705, *SB-M*-106/567, *VS-M*-22/257)
-- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-101/1327, *AV*-217/3163, *SB-M*-219/2303, *VS-M*-24/268)
-- वय᳓म् (*TS*-88/565, *RV*-297/1306, *TB*-37/114, *AV*-196/1248, *SB-M*-50/174, *VS-M*-56/127)
-- भ᳓गवन्तः (*RV*-3, *AV*-4, *VS-M*-2)
+- देवाः (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-72 ७.४१.५; प्रथमाबहुवचने देवाः᳓ *TS*-376/1025, *RV*-238/1342, *TB*-38/242, *AV*-283/705, *SB-M*-106/567, *SB-K*-984/1945, *VS-M*-22/257, *VS-K*-19/350)
+- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-101/1327, *AV*-217/3163, *SB-M*-219/2303, *SB-K*-684/20018, *VS-M*-24/268, *VS-K*-25/395)
+- वय᳓म् (*TS*-88/565, *RV*-297/1306, *TB*-37/114, *AV*-196/1248, *SB-M*-50/174, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178)
+- भ᳓गवन्तः (*RV*-3, *AV*-4, *SB-K*-2/8, *VS-M*-2)
 - स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *VS-M*-50/268)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *SB-K*-675, *VS-K*-525)
 - भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- स᳓र्वः (*TS*-10/281, *RV*-6/68, *TB*-1/109, *AV*-11/443, *SB-M*-28/1221, *VS-M*-0/39)
-- इ᳓त् (*TS*-77)
+- स᳓र्वः (*TS*-10/281, *RV*-6/68, *TB*-1/109, *AV*-11/443, *SB-M*-28/1221, *SB-K*-95/2224, *VS-M*-0/39, *VS-K*-0/41)
+- इ᳓त् (*TS*-77, *SB-K*-94, *VS-K*-2)
 - जोहवीमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *VS-M*-1/268)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *SB-K*-533, *VS-K*-111)
 - भग (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- पुरः-एता᳓ (*RV*-8 ७.४१.५, *AV*-5, तृच् पा॰ ६.२.१३९)
-- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67)
-- इह᳓ (*TS*-100, *RV*-277)
+- पुरः-एता᳓ (*RV*-8 ७.४१.५, *AV*-5, *SB-K*-2, तृच् पा॰ ६.२.१३९)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67, *SB-K*-19, *VS-K*-27)
+- इह᳓ (*TS*-100, *RV*-277, *SB-K*-166, *VS-K*-39)
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/041/05_bhaga_eva.md">

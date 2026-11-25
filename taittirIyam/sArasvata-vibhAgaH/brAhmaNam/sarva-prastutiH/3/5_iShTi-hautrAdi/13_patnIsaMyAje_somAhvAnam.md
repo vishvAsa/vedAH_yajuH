@@ -146,6 +146,11 @@ unicode_script: devanagari
 ये य॒ज्ञप॑त्नीव्ँ॒वर्धा॑न् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+दै᳓व्याः । अध्वर्य᳓वः । उ᳓प-हूताः । उ᳓प-हूता । मनुष्याः᳙ । यः᳓ । इम᳓म् । यज्ञ᳓म् । अ᳓वान् । ये᳓ । यज्ञ᳓पत्नीम् । व᳓र्धान् ।
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/08_iDopAhvAnam/upahUte_dyAvApRthivI.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -176,6 +181,11 @@ unicode_script: devanagari
 अदि॑तिरिव सुपु॒त्रा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उ᳓प-हूते । य᳓म् । य᳓जमाना । इन्द्राणी᳓ । वा । अ-विधवा᳓ । अ᳓दितिः । इव । सु-पुत्रा᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरस्यान्देवयज्या᳓याम् उ᳓पहूता ।  
@@ -190,6 +200,11 @@ unicode_script: devanagari
 भूय॑सि हवि॒ष्कर॑ण॒ उप॑हूता ।
 दि॒व्ये धाम॒न्नुप॑हूता ।  
 इ॒दम्मे॑ दे॒वा ह॒विर्जु॑षन्ता॒मिति॒ तस्मि॒न्नुप॑हूता ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उ᳓त्-तरस्याम् । देव-यज्या᳓याम् । उ᳓प-हूता । भू᳓यसि । हविष्-क᳓रणः । उ᳓प-हूता । दिव्ये᳓ । धा᳓मन् । उ᳓प-हूता । इद᳓म् । मे । देवाः᳓ । हविः᳓ । जुषन्ताम् । इ᳓ति । त᳓स्मिन् । उ᳓प-हूता ।
 </details>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -207,6 +222,11 @@ unicode_script: devanagari
 
 विश्व॑मस्याᳶ प्रि॒यमुप॑हूतम् ।  
 विश्व॑स्य प्रि॒यस्योप॑हूत॒स्योप॑हूता ॥30॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वि᳓श्वम् । अस्याः । प्रिय᳓म् । उ᳓प-हूतम् । वि᳓श्वस्य । प्रिय᳓स्य । उ᳓प-हूतस्य । उ᳓प-हूता ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

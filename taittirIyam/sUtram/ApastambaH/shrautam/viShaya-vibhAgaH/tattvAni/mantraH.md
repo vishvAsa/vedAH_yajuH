@@ -212,7 +212,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/02/01_mantrAnteH_karmAdInsannipAtayet.md">
 <details open><summary><h2>01 मन्त्रान्तेः कर्मादीन्सन्निपातयेत् ...{Loading}...</h2></summary>
 
-मन्त्रान्ते कर्मादीन् संनिपातयेत् ++++++(अन्तरं विना)++++++ १
+मन्त्रान्ते कर्मादीन् संनिपातयेत् +++(अन्तरं विना)+++ १
 
 </details>
 </div>

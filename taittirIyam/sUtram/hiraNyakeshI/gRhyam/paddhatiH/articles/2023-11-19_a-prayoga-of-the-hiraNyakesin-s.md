@@ -66,12 +66,10 @@ Notes: This section is the classic invocation of Vināyaka in a clod of turmeric
 तयोः पञ्चरत्नानि प्रक्षिपेत् -  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/008/04_yuvA_suvAsAH.md">
-
 यु᳓वा सुवा᳓साः प᳓रिवीत +++(यूप)+++ **आ᳓गात्**  
 स᳓ उ **श्रे᳓यान् भवति** जा᳓यमानः ।  
 तं᳓ धी᳓रासः कव᳓य **उ᳓न्नयन्ति**  
-स्वाध्यो३᳓+++(=सु+आ+धियः)+++ म᳓नसा देवय᳓न्तः+++(=देवकामाः)+++ ॥
-
+स्वाध्यो᳙+++(=सु+आ+धियः)+++ म᳓नसा देवय᳓न्तः+++(=देवकामाः)+++ ॥
 </div>  
 
 कलशोपरि वस्त्रवेष्टनं कृत्वा -  

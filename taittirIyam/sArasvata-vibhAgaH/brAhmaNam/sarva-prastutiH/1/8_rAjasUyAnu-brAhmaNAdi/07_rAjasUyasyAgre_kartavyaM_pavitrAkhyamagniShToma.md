@@ -13,6 +13,11 @@ unicode_script: devanagari
 अ॒ग्नि॒ष्टो॒ममग्र॒ आह॑रति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि-ष्टोम᳓म् । अ᳓ग्रे । आ᳓ । हरति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 अग्निष्टोममग्र इत्यादि ॥  
@@ -29,6 +34,11 @@ unicode_script: devanagari
 य॒ज्ञ॒मु॒खव्ँ वा अ॑ग्निष्टो॒मः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यज्ञ-मुख᳓म् । वै᳓ । अग्नि-ष्टोमः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञमुख᳓मेवा᳓र᳓भ्य सव᳓मा᳓क्रमते ।
@@ -37,6 +47,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 य॒ज्ञ॒मु॒खमे॒वारभ्य॑ स॒वमाक्र॑मते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यज्ञ-मुख᳓म् । एव᳓ । आ-र᳓भ्य । सव᳓म् । आ᳓ । क्रमते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -54,6 +69,11 @@ unicode_script: devanagari
 अथै॒षो॑ऽभिषेच॒नीय॑श्चतुस्त्रिँ॒शप॑वमानो भवति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थ । एषः᳓ । अभि-षेचनी᳓यः । चतुस्-त्रिंश᳓ । पवमानः । भवति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2 अथेत्यादि ॥ अथाभिषेचनीयः उक्थ्याख्यश्चतुस्त्रिंशपवमानो भवति । अथेत्यहरानन्तर्यं द्योतयति । चतुस्त्रिंशस्तोत्रीयस्तोमश्चतुस्त्रिंशः । तादृशपवमान एष इति अवयवद्वारेण अवयवी स्तूयते ।
@@ -68,6 +88,11 @@ unicode_script: devanagari
 
 त्रय॑स्त्रिँश॒द्वै दे॒वताः॑ ।  
 ता ए॒वाप्नो॑ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्र᳓यस्-त्रिंशत् । वै᳓ । देव᳓ताः । ताः᳓ । एव᳓ । आप्नोति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -87,6 +112,11 @@ unicode_script: devanagari
 तमे॒वाप्नो॑ति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिः । चतुः-त्रिंशः᳓ । त᳓म् । एव᳓ । आप्नोति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँशर᳓ एष᳓ स्तो᳓मानाम᳓यथापूर्वम् य᳓द्वि᳓षमास्स्तो᳓माः ॥
@@ -96,6 +126,11 @@ unicode_script: devanagari
 
 सँ॒श॒र ए॒ष स्तोमा॑ना॒मय॑थापूर्वम् ।
 यद्विष॑मा॒स्स्तोमाः॑ ॥27॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+संशरः᳓ । एषः᳓ । स्तो᳓मानाम् । अ᳓यथा-पूर्वम् । य᳓त् । वि᳓-समाः । स्तो᳓माः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,6 +150,11 @@ unicode_script: devanagari
 यावा॒न्पव॑मानाः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एता᳓वान् । वै᳓ । यज्ञः᳓ । या᳓वान् । प᳓वमानाः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तश्श्ले᳓षणन्त्वा᳓ अन्य᳓द् य᳓त्समाᳶ᳓ प᳓वमानाः ।
@@ -124,6 +164,11 @@ unicode_script: devanagari
 
 अ॒न्त॒श्श्लेष॑ण॒न्त्वा अ॒न्यत् ।  
 यत्स॒माᳶ पव॑मानाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अन्तः-श्ले᳓षणम् । त्वाः᳓ । अन्य᳓त् । य᳓त् । समाः᳓ । प᳓वमानाः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,6 +188,11 @@ unicode_script: devanagari
 तेन॑ यथापू॒र्वम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ते᳓ना । अ᳓सन् । शरः । ते᳓न । यथा-पूर्व᳓म् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मात् सर्वपवमानसाम्येन संशराभावः । यथापूर्वमेव च कृतं भवति ॥
@@ -156,6 +206,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒त्मनै॒वाग्नि॑ष्टो॒मेन॒र्ध्नोति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आत्म᳓ना । एव᳓ । अग्नि-ष्टोमे᳓न । ऋध्नो᳓ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,6 +228,11 @@ unicode_script: devanagari
 आ॒त्मना॒ पुण्यो॑ भवति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आत्म᳓ना । पु᳓ण्यः । भवति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किंच आत्मस्थानीयेन तेन पुण्यश्च स्वयं भवति । 'प्रकृत्यादिभ्यः'इति तृतीया ।
@@ -186,6 +246,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प्र॒जा वा उ॒क्थानि॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र-जा᳓ । वै᳓ । उक्था᳓नि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -205,4 +270,9 @@ unicode_script: devanagari
 
 प॒शव॑ उ॒क्थानि॑ ।  
 यदु॒क्थ्यो॑ भव॒त्यनु॒ सन्त॑त्त्यै ॥28॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पश᳓वः । उक्था᳓नि । य᳓त् । उक्थ्यः᳙ । भवति । अ᳓नु । स᳓म् । तत् । त्यै ।
 </details>

@@ -12,6 +12,11 @@ title = "०५ रुद्रः - परि णो"
 परि॑ णो रु॒द्रस्य॑ हे॒तिस्स्तु॒हि श्रु॒तम् ।   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प᳓रि । णः । रुद्र᳓स्य । हेतिः᳓ । स्तुहि᳓ । श्रुत᳓म् ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -439,6 +444,11 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 मीढु॑ष्ट॒मार्ह॑न्बिभर्षि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मी᳓ढुः । टम् । आः᳓ । हन् । बिभर्षि ।
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -539,6 +549,11 @@ And approach us bearing the spear [4].
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्ने रु॒द्र आ वो॒ राजा॑नम् ॥ 48 ॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त्व᳓म् । अग्ने । रुद्रः᳓ । आ᳓ । वः । रा᳓जानम् ।
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">

@@ -14,6 +14,11 @@ unicode_script: devanagari
 बृह॒स्पते॒रुन्नी॑तम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बृ᳓हस्प᳓तेः । उ᳓त्-नीतम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 रौद्रं गवीत्यादि ॥ सर्वदेवत्यत्वेन पयस्स्तूयते । तत् दोहात्प्राक् गवि स्थितं रौद्रम् ।
@@ -27,6 +32,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 बृह॒स्पते॒रुन्नी॑तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बृ᳓हस्प᳓तेः । उ᳓त्-नीतम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -44,6 +54,11 @@ unicode_script: devanagari
 वा॒य॒व्य॑मुप॑सृष्टम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वायव्य᳙म् । उ᳓प-सृष्टम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓न्दुग्ध᳓म् ।
@@ -52,6 +67,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सौ॒म्यन्दु॒ग्धम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सौम्य᳓म् । दुग्ध᳓म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -69,6 +89,11 @@ unicode_script: devanagari
 वा॒रु॒णमधि॑श्रितम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वारुण᳓म् । अ᳓धि-श्रितम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अधिश्रितं अधिश्रितावस्थम् ।
@@ -82,6 +107,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वा भि॒न्दवः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वैश्व-देवाः᳓ । भिन्द᳓वः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -99,6 +129,11 @@ unicode_script: devanagari
 पौ॒ष्णमुद॑न्तम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पौष्ण᳓म् । उ᳓दन्तम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वतव्ँ᳓ विष्य᳓न्दमानम् ।
@@ -107,6 +142,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तव्ँ वि॒ष्यन्द॑मानम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सारस्वत᳓म् । वि-स्य᳓न्दमानम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -124,6 +164,11 @@ unicode_script: devanagari
 पौ॒ष्णमुद॑न्तम्।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+पौष्ण᳓म् । उ᳓दन्तम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उदन्तं स्थाल्यवकाशलङ्घनेनान्यत्र परिवर्तनं पौष्णम् ।
@@ -137,6 +182,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 मै॒त्रँ शरः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मैत्र᳓म् । श᳓रः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -154,6 +204,11 @@ unicode_script: devanagari
 धा॒तुरुद्वा॑सितम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+धातुः᳓ । उ᳓त्-वासितम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उद्वासितं अवतारितम् ।
@@ -167,6 +222,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 बृह॒स्पते॒रुन्नी॑तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बृ᳓हस्प᳓तेः । उ᳓त्-नीतम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -184,6 +244,11 @@ unicode_script: devanagari
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सवितुः᳓ । प्र᳓-क्रान्तम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यावापृथिव्यँ᳙ ह्रिय᳓माणम् ।
@@ -192,6 +257,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 द्या॒वा॒पृ॒थि॒व्यँ॑ ह्रि॒यमा॑णम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्यावा-पृथिव्य᳙म् । ह्रिय᳓माणम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -209,6 +279,11 @@ unicode_script: devanagari
 ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऐन्द्राग्न᳓म् । उ᳓प-सन्नम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्राग्न᳓मु᳓पसन्नम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
@@ -217,6 +292,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नमुप॑सन्नम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऐन्द्राग्न᳓म् । उ᳓प-सन्नम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -234,6 +314,11 @@ unicode_script: devanagari
 स॒वि॒तुᳶ प्रक्रा॑न्तम्।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सवितुः᳓ । प्र᳓-क्रान्तम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रक्रान्तं होमार्थं नेतुमारब्धं सावित्रम् ।
@@ -247,6 +332,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेᳶ पूर्वाऽऽहु॑तिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नेः᳓ । पू᳓र्वा । अ᳓हु । तिः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -264,6 +354,11 @@ unicode_script: devanagari
 प्र॒जाप॑ते॒रुत्त॑रा ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतेः । उ᳓त्-तरा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उत्तराऽऽडुतिः प्रजापतेः, तूष्णीकत्वात् 'तूष्णीं वै प्राजापत्यम्' इति ।
@@ -277,6 +372,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रँ हु॒तम् ॥50॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऐन्द्र᳓म् । हुत᳓म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

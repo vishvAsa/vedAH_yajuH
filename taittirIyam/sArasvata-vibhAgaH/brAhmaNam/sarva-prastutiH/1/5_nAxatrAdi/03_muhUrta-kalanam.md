@@ -26,6 +26,11 @@ unicode_script = "devanagari"
 दे॒वस्य॑ सवि॒तुᳶ प्रा॒तᳶ प्र॑स॒वᳶ प्रा॒णः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देव᳓स्य । सवितुः᳓ । प्रातः᳓ । प्र-सवः᳓ । प्राणः᳓ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 देवस्य सवितुरित्यादि ॥  
@@ -41,6 +46,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य सा॒यम् आ॑स॒वो॑ ऽपा॒नः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व᳓रुणस्य । साय᳓म् । आसवः᳓ । अप । आनः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -63,6 +73,11 @@ unicode_script = "devanagari"
 ततो॑ दे॒वा अ॑ग्निष्टो॒मन्निर॑मिमत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । प्रतीची᳓नम् । प्रातस्त᳓नात् । प्राची᳓नम् । सङ्गवा᳓त् । त᳓तः । देवाः᳓ । अग्नि-ष्टोम᳓म् । निः᳓ । अमिमत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2 एवमिमौ द्वौ कालौ आद्यन्तौ, अथ मध्यवर्तिन आह - यदित्यादि ॥  
@@ -78,6 +93,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तत् तदात्त॑वीर्यन् निर्मा॒र्गः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । त᳓दा । अ᳓त्त । वीः । यत् । निर्मार्गः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -98,6 +118,11 @@ unicode_script = "devanagari"
 तत् पुण्य॑न् तेज॒स्व्य् अहः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मित्र᳓स्य । सङ्गवः᳓ । त᳓त् । पु᳓ण् । यन् । तेजस्-वी᳓ । अ᳓हः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयं संगवः तृतीयं अष्टमो भागो मित्रस्य ।  
@@ -112,6 +137,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तस्मा॒त् तर्हि॑ प॒शव॑स् स॒माय॑न्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । त᳓र्हि । पश᳓वः । सम् । आ᳓ । यन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -131,6 +161,11 @@ unicode_script = "devanagari"
 ततो॑ दे॒वा उ॒क्थ्य॑न्निर॑मिमत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । प्रतीची᳓नम् । सङ्गवा᳓त् । प्राची᳓नम् । मध्य᳓न्दिनात् । त᳓तः । देवाः᳓ । उक्थ्य᳙म् । निः᳓ । अमिमत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3 अथ सङ्गवमध्यन्दिनयोः मध्यमादष्टमांशाच्चतुर्थात् उक्थ्यं निरमिमत ॥  
@@ -148,6 +183,11 @@ unicode_script = "devanagari"
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तेर् मध्य᳓न्दिनः ।
@@ -156,6 +196,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 बृह॒स्पते॑र्म॒ध्यन्दि॑नः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बृ᳓हस्प᳓तेः । मध्य᳓न्दिनः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -173,6 +218,11 @@ unicode_script = "devanagari"
 तत्पुण्य॑न्तेज॒स्व्यहः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । पु᳓ण्यम् । तेजस्-वी᳓ । अ᳓हः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्पुण्यमित्यादि ।  
@@ -187,6 +237,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तस्मा॒त्तर्हि॒ तेक्ष्णि॑ष्ठन्तपति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । त᳓र्हि । ते᳓क्ष्णिष्ठम् । तपति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -206,6 +261,11 @@ unicode_script = "devanagari"
 प्रा॒चीन॑मपरा॒ह्णात् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । प्रतीची᳓नम् । मध्य᳓न्दिनात् । प्राची᳓नम् । अपराह्णा᳓त् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4 अथ मध्यन्दिनापराह्णयोः मध्यमादष्टमांशात् षष्ठात् षोडशिनं निरमिमत ॥  
@@ -223,6 +283,11 @@ unicode_script = "devanagari"
 ततो॑ दे॒वाष्षो॑ड॒शिन॒न्निर॑मिमत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓तः । देवाः᳓ । षोडशि᳓नम् । निः᳓ । अमिमत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓द् आ᳓त्तवीर्यन् निर्मार्गः᳓ ॥ 16 ॥
@@ -233,6 +298,11 @@ unicode_script = "devanagari"
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ॥ 16 ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ᳓गस्यापराह्णः᳓ ।
@@ -241,6 +311,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 भग॑स्यापरा॒ह्णः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+भ᳓गस्य । अपराह्णः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -258,6 +333,11 @@ unicode_script = "devanagari"
 तत्पुण्य॑न्तेज॒स्व्यहः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । पु᳓ण्यम् । तेजस्-वी᳓ । अ᳓हः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अपराह्णे᳓ कुमार्यो᳙ भ᳓गम् इच्छ᳓मानाश् चरन्ति +++(मण्डिताः)+++।
@@ -266,6 +346,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तस्मा॑द् अपरा॒ह्णे कु॑मा॒र्यो॑ भग॑म् इ॒च्छमा॑नाश् चरन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । अपराह्णे᳓ । कुमार्यः᳙ । भ᳓गम् । इच्छ᳓मानाः । चरन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -285,6 +370,11 @@ unicode_script = "devanagari"
 ततो॑ दे॒वा अ॑तिरा॒त्रन्निर॑मिमत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । प्रतीची᳓नम् । अपराह्णा᳓त् । प्राची᳓नम् । साया᳓त् । त᳓तः । देवाः᳓ । अति-रात्र᳓म् । निः᳓ । अमिमत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5 अथापराह्णसायंकालयोर्मध्यमादष्टमांशात् अतिरात्रं निरमिमत ॥  
@@ -302,6 +392,11 @@ unicode_script = "devanagari"
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य साय᳓म्+++(=प्रदोष इति भास्करमते युक्ते)+++ ।
@@ -310,6 +405,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य सा॒यम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+व᳓रुणस्य । साय᳓म् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -325,6 +425,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तत्पुण्य॑न्तेज॒स्व्यहः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । पु᳓ण्यम् । तेजस्-वी᳓ । अ᳓हः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -345,6 +450,11 @@ unicode_script = "devanagari"
 तस्मा॒त् तर्हि॒ नानृ॑तव्ँ वदेत् ॥ 17 ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । त᳓र्हि । न᳓ । अ᳓नृतम् । वदेत् ।
+</details>
+
 ## ब्राह्मणपात्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -354,6 +464,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 ब्रा॒ह्म॒णो वा अ॑ष्टाविँ॒शो नक्ष॑त्राणाम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्राह्मणः᳓ । वै᳓ । अष्टा-विंशः᳓ । न᳓क्षत्राणाम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -372,6 +487,11 @@ unicode_script = "devanagari"
 स॒मा॒नस्याह्न॒ᳶ पञ्च॒ पुण्या॑नि॒ नक्ष॑त्राणि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+समान᳓स्य । अ᳓ह्नः । प᳓ञ्च । पु᳓ण्यानि । न᳓क्षत्राणि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सन्धिभागाः)+++ चत्वा᳓र्य् अश्लीला᳓नि ।
@@ -380,6 +500,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 च॒त्वार्य् अ॑श्ली॒लानि॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चत्वा᳓रि । अ-श्लीला᳓नि ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -399,6 +524,11 @@ unicode_script = "devanagari"
 तानि॒ नव॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓नि । न᳓व ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च् च पर᳓स्तान् +++(रात्रौ)+++ न᳓क्षत्राणाय्ँ य᳓च् चाव᳓स्तात् +++(सूर्योदयात् प्राक्)+++, +++(ताव् आहत्य)+++ ता᳓न्य् ए᳓कादश ।  
@@ -412,6 +542,11 @@ unicode_script = "devanagari"
 ब्रा॒ह्म॒णो द्वा॑द॒शः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । च । पर᳓स्तात् । न᳓क्षत्राणाम् । य᳓त् । च । अव᳓स्तात् । ता᳓नि । ए᳓कादश । ब्राह्मणः᳓ । द्वादशः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् +++(१२-कालात्मकस्याह्नो १२-मासात्मकसंवत्सरस्येव भावितं व्रतं चरित्वा)+++ सव्ँ वत्सरव्ँ᳓ व्रत᳓ञ् +++(इव)+++ च᳓रति, सव्ँ वत्सरे᳓णैवा᳓स्य व्रत᳓ङ् गुप्तं᳓ भवति ।
@@ -421,6 +556,11 @@ unicode_script = "devanagari"
 
 य ए॒वव्ँ वि॒द्वान्त्सव्ँ॑वत्स॒रव्व्ँर॒तञ्चर॑ति ।
 सव्ँ॒व॒त्स॒रेणै॒वास्य॑ व्र॒तङ्गु॒प्तम्भ॑वति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एव᳓म् । वित् । वा᳓न्त्संवत्सर᳓व्ं᳓रत᳓ञ्च᳓रति । सम्-वत्सरे᳓ण । एव᳓ । अस्य । व्रत᳓म् । गुप्त᳓म् । भवति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -440,6 +580,11 @@ unicode_script = "devanagari"
 स॒मा॒नस्याह्न॒ᳶ पञ्च॒ पुण्या॑नि॒ नक्ष॑त्राणि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+समान᳓स्य । अ᳓ह्नः । प᳓ञ्च । पु᳓ण्यानि । न᳓क्षत्राणि ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 समानस्येत्यादिना अन्यथा द्वादशत्वं प्रतिपादयति ।
@@ -455,6 +600,11 @@ unicode_script = "devanagari"
 च॒त्वार्य॑श्ली॒लानि॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चत्वा᳓रि । अ-श्लीला᳓नि ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि न᳓व ।
@@ -465,6 +615,11 @@ unicode_script = "devanagari"
 तानि॒ नव॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓नि । न᳓व ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयी᳓ रा᳓त्रिः।
@@ -473,6 +628,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यी रात्रिः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आग्नेयी᳓ । रा᳓त्रिः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -492,6 +652,11 @@ unicode_script = "devanagari"
 ऐ॒न्द्रमहः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऐन्द्र᳓म् । अ᳓हः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्य् ए᳓कादश ।
@@ -500,6 +665,11 @@ unicode_script = "devanagari"
 <details><summary>मूलम्</summary>
 
 तान्येका॑दश ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ता᳓नि । ए᳓कादश ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,6 +682,11 @@ unicode_script = "devanagari"
 आ॒दि॒त्यो द्वा॑द॒शः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आदित्यः᳓ । द्वादशः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् +++(१२-कालात्मकस्याह्नो १२-मासात्मकसंवत्सरस्येव भावितं व्रतं चरित्वा)+++ सव्ँ वत्सरव्ँ᳓ व्रत᳓ञ् +++(इव)+++  च᳓रति, सव्ँ वत्सरे᳓णैवा᳓स्य व्रत᳓ङ् गुप्तं᳓ भवति ।
@@ -521,4 +696,9 @@ unicode_script = "devanagari"
 
 य ए॒वव्ँ वि॒द्वान्त् सव्ँ॑वत्स॒रव्ँ व्र॒तञ् चर॑ति ।
 सव्ँ॒व॒त्स॒रेणै॒वास्य॑ व्र॒तङ् गु॒प्तम् भ॑वति ॥ 18 ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यः᳓ । एव᳓म् । विद्वा᳓न् । सम्-वत्सर᳓म् । व्र । त᳓न् । च᳓रति । सम्-वत्सरे᳓ण । एव᳓ । अस्य । व्र । त᳓ङ् । गुप्त᳓म् । भवति ।
 </details>

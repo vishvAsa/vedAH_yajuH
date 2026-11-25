@@ -21,6 +21,11 @@ unicode_script: devanagari
 अग्ने॑ म॒हाँ अ॑सि ब्राह्मण भारत ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓ग्ने । महा᳓म् । असि । ब्राह्मण । भारत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1सामिधेनीरनूच्य प्रवरमाह - अग्ने महान् असीति ॥ हे अग्ने! स्वभावत एव त्वं महानसि । रुत्वानुनासिकावुक्तौ । अयं च अपरो महत्त्वहेतुः अस्तीत्याह - हे ब्राह्मण! ब्राह्मणानां संबन्धिन्! तैराराधितत्वात्, जात्या वा ब्राह्मणोसि । किञ्च - हे भारत! देवभरणपराः यजमानाः भरताः तेषा संबन्धिन्! स्वयं च देवेभ्यो हव्यस्य भर्तः! ।  
@@ -58,6 +63,11 @@ unicode_script: devanagari
 असा॒वसौ॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓सौ । अ᳓सौ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ यजमानविशेषसम्बन्धेनाग्नेः महानुभावत्वमाह - असावसौ पूर्वस्याविद्यमानत्वात् द्वयोरप्यामन्त्रिताद्युदात्तत्वम् । प्रवराम्नाताः यजमानगोत्रर्षयः सामान्येन निर्दिश्यन्ते । नेदं द्विर्वचनम्, तेन द्वितीयस्यानुदात्तत्वाभावः । यथाप्रवरं मन्त्रविशेषा निर्देष्टव्याः । यथा - भार्गव च्यावनाप्नवानौर्व जामदग्न्य इति । भृगूणाममुतोऽर्वाञ्चः प्रतीयन्ते । तत्र भार्गवादिशब्दैः भृग्वादिसंबन्धितया तैराराधितोऽग्निरुच्यते ॥
@@ -71,6 +81,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 दे॒वेद्धो॒ मन्वि॑द्धः ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देवे᳓द्धः । म᳓न्विद्धः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -93,6 +108,11 @@ unicode_script: devanagari
 ऋषि॑ष्टुतो॒ विप्रा॑नुमदितः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऋ᳓षिष्टुतः । वि᳓प्रानुमदितः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋषिष्टुतः ऋषिभिः दर्शनवद्भिरपि भृग्वादिभिः स्तुतः । विप्रानुमदितः विप्रैः मेधावद्भिः श्रुतवद्भिः अनुमदितः अनुमोदितः ।  
@@ -106,6 +126,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 क॒वि॒श॒स्तो ब्रह्म॑सँशितो घृ॒ताह॑वनः ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+कवि-शस्तः᳓ । ब्र᳓ह्म-संशितः । घृता᳓हवनः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -123,6 +148,11 @@ unicode_script: devanagari
 प्र॒णीर्य॒ज्ञाना॑म् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्र-नीः᳓ । यज्ञा᳓नाम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रणीः प्रकृष्टो नेता यज्ञानाम् ।  
@@ -136,6 +166,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 र॒थीर॑ध्व॒राणा॑म् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+रथीः᳓ । अध्वरा᳓णाम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -153,6 +188,11 @@ unicode_script: devanagari
 अ॒तूर्तो॒ होता॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अतू᳓र्तः । हो᳓ता ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अतूर्तः केनचिदपि हिंसितुमशक्यः होता देवानामाह्वाता । तुर्वी हिंसायाम् ।  
@@ -166,6 +206,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तूर्णि॑र्हव्य॒वाट् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+तू᳓र्णिः । हव्य-वा᳓ट् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -183,6 +228,11 @@ unicode_script: devanagari
 आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓स्पा᳓ । त्रम् । जुहूः᳓ । देवा᳓नाम् ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आस्पात्रं अयोमयं पात्रं अयसा निर्मिता जुहूरिव देवानां प्रियत्वात् । देवेषु च प्रोक्षणसाधनत्वात्, यथा जुह्वाग्नौ प्रक्षिप्यते एवमग्निना देवेषु हविः प्रक्षिप्यते । अयसो लोपश्छान्दसः । अयस्मयादित्वाद्भत्वम्, वनस्पत्यादित्वात् आद्युदात्तत्वम् ।  
@@ -196,6 +246,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 च॒म॒सो दे॑व॒पानः॑ ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चमसः᳓ । देव-पा᳓नः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -213,6 +268,11 @@ unicode_script: devanagari
 अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अरा᳓न् । इव । अग्ने । नेमिः᳓ । देवा᳓न् । त्व᳓म् । परि-भूः᳓ । असि ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अरानित्यादि । हे अग्ने! अरान् नेमिरिव देवान् परिभूः परितो भावयिता त्वमसि । 'अभित परितः' इति द्वितीया । गतार्थत्वात्तसेरप्रयोगः ।  
@@ -226,6 +286,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ व॑ह दे॒वान् यज॑मानाय ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । वह । देवा᳓न् । य᳓जमानाय ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -250,6 +315,11 @@ unicode_script: devanagari
 सोम॒माव॑ह ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि᳓म् । अग्ने । आ᳓ । वह । सो᳓मम् । आ᳓ । वह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आवाह्यत्वेनावोढृत्वेन चोभाभ्यां धर्माभ्यां एकोऽग्रिः स्मर्यते । तत्र यष्टव्यात्मा आवाह्यः । भोक्तृत्वेन स्थितः आवोढा । तत्राग्निस्सोमश्चाज्यभागयोः ।  
@@ -263,6 +333,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒ग्निमाव॑ह ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि᳓म् । आ᳓ । वह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -280,6 +355,11 @@ unicode_script: devanagari
 प्र॒जाप॑ति॒माव॑ह ।   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्रजा᳓-पतिम् । आ᳓ । वह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतिरुपांशुयाजस्य ।  
@@ -295,6 +375,11 @@ unicode_script: devanagari
 अ॒ग्नीषोमा॒वाव॑ह ।   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नी᳓षो᳓मावौ᳓ । अह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्नीषोमावग्नीषोमीयस्य एकादशकपालस्य ।  
@@ -308,6 +393,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी आव॑ह ।    
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इन्द्राग्नी᳓ । आ᳓ । वह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -327,6 +417,11 @@ unicode_script: devanagari
 म॒हे॒न्द्रमाव॑ह ।    
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इ᳓न्द्र । मा᳓ । वह । महेन्द्र᳓म् । आ᳓ । वह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इन्द्रमहेन्द्रौ सान्नाय्यस्य ।  
@@ -340,6 +435,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 दे॒वाँ आ॑ज्य॒पाँ आव॑ह ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देवा᳓न् । आज्यपा᳓म् । आ᳓ । वह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -357,6 +457,11 @@ unicode_script: devanagari
 अ॒ग्निँ हो॒त्रायाव॑ह ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्नि᳓म् । होत्रा᳓य । अ᳓व । ह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथाग्निः स्विष्टकृतं होत्राय यज्ञाय यज्ञत्वाय आवह । होतव्याय वा हविषे, तस्य स्विष्टत्वाय ।  
@@ -370,6 +475,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स्वम्म॑हि॒मान॒माव॑ह ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्व᳓म् । महि-मा᳓नम् । आ᳓ । वह ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -387,6 +497,11 @@ unicode_script: devanagari
 आ चा॑ग्ने दे॒वान् वह॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । च । अग्ने । देवा᳓न् । व᳓ह ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे अग्ने! इत्थं देवान्यष्टव्यानावह ।  
@@ -400,6 +515,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 सु॒यजा॑ च यज जातवेदः ॥6॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सु-य᳓जा । च । यज । जात-वेदः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

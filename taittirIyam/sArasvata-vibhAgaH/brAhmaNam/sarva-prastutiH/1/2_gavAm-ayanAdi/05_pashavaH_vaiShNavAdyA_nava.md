@@ -14,6 +14,11 @@ unicode_script: devanagari
 येषाँ॑ सव्ँवत्स॒रेऽना॒प्तेऽथ॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓-प्रतिष्ठाम् । वै᳓ । एते᳓ । गच्छन्ति । ये᳓षाम् । सम्-वत्सरे᳓ । अनाप्ते । अ᳓थ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 अप्रतिष्ठां वा इत्यादि ॥  
@@ -35,6 +40,11 @@ unicode_script: devanagari
 य॒ज्ञो वै विष्णुः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+एकादशि᳓ । नि । आप्य᳓ते । वैष्णव᳓म् । वामन᳓म् । आ᳓ । लभन्ते । यज्ञः᳓ । वै᳓ । वि᳓ष्णुः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓म् एवा᳓लभन्ते प्र᳓तिष्ठित्यै ।
@@ -45,6 +55,11 @@ unicode_script: devanagari
 य॒ज्ञम् ए॒वाल॑भन्ते॒ प्रति॑ष्ठित्यै ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+यज्ञ᳓म् । एवा᳓ । लभन्ते । प्र᳓ति-ष्ठित्यै ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्राग्न᳓म् आ᳓लभन्ते ।
@@ -53,6 +68,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नम् आल॑भन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऐन्द्राग्न᳓म् । आ᳓ । लभन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -68,6 +88,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी वै दे॒वाना॒म् अया॑तयामानौ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इन्द्राग्नी᳓ । वै᳓ । देवा᳓नाम् । अ᳓-यातयामानौ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -86,6 +111,11 @@ unicode_script: devanagari
 ते ए॒वाल॑भन्ते ॥ 40॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ये᳓ । एव᳓ । देव᳓ते । अ᳓यात-याम्नी । ते᳓ । एवा᳓ । लभन्ते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयातयाम्नी इति । 'अन उपधालोपिनः'इहि ङीप् । 'वा छन्दसि'इति पूर्वसवर्णदीर्घत्वम् ॥
@@ -99,6 +129,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वम् आल॑भन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वैश्व-देव᳓म् । आ᳓ । लभन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -116,6 +151,11 @@ unicode_script: devanagari
 दे॒वता॑ ए॒वाव॑रुन्धते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देव᳓ताः । एव᳓ । अ᳓व । रुन्धते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यावापृथि᳓व्यान् धेनु᳓म् आ᳓लभन्ते ।
@@ -124,6 +164,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 द्या॒वा॒पृ॒थिव्या॑न् धे॒नुम् आल॑भन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्यावा । पृथि᳓ । व्यान् । धेनु᳓म् । आ᳓ । लभन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -141,6 +186,11 @@ unicode_script: devanagari
 द्यावा॑पृथि॒व्योर् ए॒व प्रति॑तिष्ठन्ति ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्या᳓वा-पृथिव्योः᳓ । एव᳓ । प्र᳓ति । तिष्ठन्ति ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायव्यव्ँ᳙ वत्स᳓म् आ᳓लभन्ते ।
@@ -149,6 +199,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 वा॒य॒व्यव्ँ॑ व॒त्सम् आल॑भन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वायव्य᳙म् । वत्स᳓म् । आ᳓ । लभन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -166,6 +221,11 @@ unicode_script: devanagari
 वा॒युर् ए॒वैभ्यो॑ यथा ऽऽयत॒नाद् दे॒वता॒ अव॑रुन्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वायुः᳓ । एव᳓ । एभ्यः । यथा । अयत् । अना᳓त् । देव᳓ताः । अ᳓व । रुन्धे ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓म् अ᳓विव्ँ वशा᳓म् आ᳓लभन्ते ।
@@ -174,6 +234,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याम् अविव्ँ॑ व॒शाम् आल॑भन्ते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आदित्या᳓म् । अ᳓विम् । वशा᳓म् । आ᳓ । लभन्ते ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -191,6 +256,11 @@ unicode_script: devanagari
 इ॒यव्ँ वा अदि॑तिः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इय᳓म् । वै᳓ । अ᳓दितिः ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्या᳓म् एव᳓ प्र᳓तितिष्ठन्ति ।
@@ -199,6 +269,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अ॒स्याम् ए॒व प्रति॑तिष्ठन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अस्या᳓म् । एव᳓ । प्र᳓ति । तिष्ठन्ति ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +286,11 @@ unicode_script: devanagari
 मै॒त्रा॒व॒रु॒णीम् आल॑भन्ते ॥41॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मैत्रा-वरुणी᳓म् । आ᳓ । लभन्ते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रे᳓ण+ एव᳓ यज्ञ᳓स्य स्व्-इ᳙ष्टँ शमयन्ति , व᳓रुणेन दु᳓र्-इष्टम् +++(शमयन्ति )+++ ।
@@ -219,6 +299,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 मि॒त्रेणै॒व य॒ज्ञस्य॒ स्वि॑ष्टँ शमयन्ति । वरु॑णेन॒ दुरि॑ष्टम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+मित्रे᳓ण । एव᳓ । यज्ञ᳓स्य । सु᳓-इष्टम् । शमयन्ति । व᳓रुणेन । दुः᳓-इष्टम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -236,6 +321,11 @@ unicode_script: devanagari
 प्रा॒जा॒प॒त्यन् तू॑प॒रम् म॑हा-व्र॒त आल॑भन्ते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राजा । पत् । य᳓न् । तूपर᳓म् । महा-व्रतः᳓ । आ᳓ । लभन्ते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्राजापत्येनाष्टमेन तूपरेण शृङ्गरहितेन प्राजापत्येन चातिग्राह्येण ।
@@ -251,6 +341,11 @@ unicode_script: devanagari
 प्रा॒जा॒प॒त्यो॑ ऽति-ग्रा॒ह्यो॑ गृह्यते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प्राजा-पत्यः᳓ । अति-ग्राह्यः᳙ । गृह्यते ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓हर् एव᳓ रूपे᳓ण स᳓मर्धयन्ति ।
@@ -259,6 +354,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अह॑र् ए॒व रू॒पेण॒ सम॑र्धयन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓हः । एव᳓ । रूपे᳓ण । स᳓म् । अर्धयन्ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -276,6 +376,11 @@ unicode_script: devanagari
 अथो॒ अह्न॑ ए॒वैष ब॒लिर् ह्रि॑यते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓थो । अ᳓ह्नः । एव᳓ । एषः᳓ । बलिः᳓ । ह्रियते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपिच अह्नोऽयं बलिः पूजा यदत्र प्राजापत्ययोरनयोः प्रयोग इति ।
@@ -289,6 +394,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम् आल॑भन्ते॒ प्रति॒ प्रज्ञा॑त्यै ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आग्नेय᳓म् । आ᳓ । लभन्ते । प्र᳓ति । प्र᳓-ज्ञात्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -306,6 +416,11 @@ unicode_script: devanagari
 अ॒ज॒-पे॒त्वान् वा ए॒ते पूर्वै॒र् मासै॒र् अव॑रुन्धते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अज-पेत्वा᳓न् । वै᳓ । एते᳓ । पू᳓र्वैः । मा᳓सैः । अ᳓व । रुन्धते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3 अजपेत्वानित्यादि ॥ अजाश्च पेत्वाश्च अजपेत्वाः । गालितमुष्काः पेत्वाः । एते सत्रिणः पूर्वैः एकादशिनैः मासैः अजपेत्वानेवालभन्ते, न गवादीन् ।
@@ -319,6 +434,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 यदे॒ते ग॒व्याᳶ प॒शव॑ आल॒भ्यन्ते॑ । उ॒भये॑षाम्पशू॒नामव॑रुद्ध्यै ॥42॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । एते᳓ । गव्याः᳓ । पश᳓वः । आ । लभ्य᳓न्ते । उभ᳓येषाम् । पशूना᳓म् । अ᳓व-रुद्ध्यै ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -337,6 +457,11 @@ unicode_script: devanagari
 अप्रि॑य॒म्भ्रातृ॑व्यम॒भ्यति॑रिच्येत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । अ᳓ति-रिक्ताम् । एकादशि᳓नीम् । आ । ल᳓भेरन् । अ᳓-प्रियम् । भ्रा᳓तृव्यम् । अभि᳓ । अ᳓ति । रिच्येत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4 यदतिरिक्तामित्यादि ॥ इदानीं ब्राह्मणवतां पशूनां प्रकारान्तरेण स्तुतिः क्रियते - संवत्सरमतीत्यावस्थानमतिरेकः त्र्यहातिक्रमः । तत्र यद्येकादशिनीं तामेव त्रिभिरहोभिः अतिरिक्तां नवाहार्थं पुनः आलभेरन् तथा सति दिनातिरेकेण अप्रियस्य भ्रातृव्यस्याभिवृद्धिः स्यात् ।
@@ -351,6 +476,11 @@ unicode_script: devanagari
 
 यद्द्वौद्वौ॑ प॒शू स॒मस्ये॑युः ।
 कनी॑य॒ आयु॑ᳵ कुर्वीरन् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । द्वौ᳓-द्वौ । पशू᳓ । सम् । अ᳓स्येयुः । क᳓नीयः । आ᳓ । अयुः । कुर्वीरन् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -369,6 +499,11 @@ unicode_script: devanagari
 नाप्रि॑य॒म्भ्रातृ॑व्यम॒भ्य॑ति॒रिच्य॑ते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+य᳓त् । एते᳓ । ब्रा᳓ह्मणवन्तः । पश᳓वः । आ । लभ्य᳓न्ते । न᳓ । अ᳓-प्रियम् । भ्रा᳓तृव्यम् । अभि᳓ । अति । रि᳓च्यते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादुभयदोषपरिहारार्थं एतान् ब्राह्मणवतः अनन्तरब्राह्मणोक्तान् नवैव पशूनालभेरन्निति विधिः ॥  
@@ -383,4 +518,9 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 न कनी॑य॒ आयु॑ᳵ कुर्वते ॥43॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+न᳓ । क᳓नीयः । आ᳓ । अयुः । कुर्वते ।
 </details>

@@ -13,6 +13,11 @@ unicode_script: devanagari
 स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सम्-इ᳓धः । अग्ने । आ᳓ज्यस्य । वियन्तु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नून᳓पाद् अग्न आ᳓ज्यस्य वेतु ।
@@ -23,6 +28,11 @@ unicode_script: devanagari
 तनू॒नपा॑दग्न॒ आज्य॑स्य वेतु ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓नू-न᳓पात् । अग्ने । आ᳓ज्यस्य । वेतु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ अग्न आ᳓ज्यस्य वियन्तु ।   
@@ -31,6 +41,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 इ॒डो अ॑ग्न॒ आज्य॑स्य वियन्तु ।   
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इडः᳓ । अग्ने । आ᳓ज्यस्य । वियन्तु ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -44,6 +59,11 @@ unicode_script: devanagari
 
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बर्हिः᳓ । अग्ने । आ᳓ज्यस्य । वेतु ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा ऽग्नि᳓म् ।  
@@ -54,6 +74,11 @@ unicode_script: devanagari
 
 स्वाहा॒ऽग्निम् ।  
 स्वाहा॒ सोम॑म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । सो᳓मम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -69,6 +94,11 @@ unicode_script: devanagari
 
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । प्रजा᳓-पतिम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हाऽग्नी᳓षो᳓मौ ।   
@@ -79,6 +109,11 @@ unicode_script: devanagari
 
 स्वाहा॒ऽग्नीषोमौ॑ ।   
 स्वाहे॑न्द्रा॒ग्नी ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नी᳓षो᳓मौ । स्वा᳓हा । इन्द्राग्नी᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +128,11 @@ unicode_script: devanagari
 स्वाहा॑ महे॒न्द्रम् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । इ᳓न्द्रम् । स्वा᳓हा । महेन्द्र᳓म् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा देवाँ᳓ आज्यपा᳓न् ।   
@@ -105,6 +145,11 @@ unicode_script: devanagari
 स्वाहा॒ऽग्निँ हो॒त्राज्जु॑षा॒णाः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । देवा᳓न् । आज्य-पा᳓न् । स्वा᳓हा । अग्नि᳓म् । होत्रा᳓त् । जुषाणाः᳓ ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्न आ᳓ज्यस्य वियन्तु ॥8॥
@@ -113,6 +158,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 अग्न॒ आज्य॑स्य वियन्तु ॥8॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓ग्ने । आ᳓ज्यस्य । वियन्तु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

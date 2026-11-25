@@ -13,6 +13,11 @@ unicode_script: devanagari
 ब्रह्मा॑त्म॒न्वद॑सृजत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ब्र᳓ह्म । आत्मन्व᳓त् । असृजत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1दशमे होतृमन्त्रैः काम्यप्रयोग उक्तः ।  
@@ -33,6 +38,11 @@ unicode_script: devanagari
 
 तद॑कामयत ।  
 समा॒त्मना॑ पद्ये॒येति॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । अकामयत । स᳓मात् । म᳓ना । पद्येय । इ᳓ति ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -69,6 +79,11 @@ unicode_script: devanagari
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै दशमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत्।
@@ -77,6 +92,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मै॑ दश॒मँ हू॒तᳶ प्रत्य॑शृणोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मै । दशम᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -101,6 +121,11 @@ unicode_script: devanagari
 स दश॑हूतोऽभवत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । द᳓श । हूतः । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शहूतो ह वै᳓ ना᳓मैषः᳓ ।
@@ -109,6 +134,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 दश॑हूतो ह॒ वै नामै॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द᳓श । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -136,6 +166,11 @@ unicode_script: devanagari
 दश॑हो॒तेत्याच॑क्षते प॒रोक्षे॑ण ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । वै᳓ । एत᳓म् । द᳓श । हूतम् । स᳓न्तम् । द᳓श-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ॥47॥
@@ -144,6 +179,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ॥47॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -161,6 +201,11 @@ unicode_script: devanagari
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै सप्तमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
@@ -169,6 +214,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मै॑ सप्त॒मँ हू॒तᳶ प्रत्य॑शृणोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मै । सप्तम᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +231,11 @@ unicode_script: devanagari
 स स॒प्तहू॑तोऽभवत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । सप्त᳓ । हूतः । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓हूतो ह वै᳓ ना᳓मैषः᳓ ।
@@ -189,6 +244,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 स॒प्तहू॑तो ह॒ वै नामै॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सप्त᳓ । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +263,11 @@ unicode_script: devanagari
 स॒प्तहो॒तेत्याच॑क्षते प॒रोक्षे॑ण ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । वै᳓ । एत᳓म् । सप्त᳓ । हूतम् । स᳓न्तम् । सप्त᳓-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्ष-प्रिया इव हि᳓ देवाः᳓ ।
@@ -211,6 +276,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,6 +293,11 @@ unicode_script: devanagari
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै षष्ठँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
@@ -231,6 +306,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मै॑ ष॒ष्ठँ हू॒तᳶ प्रत्य॑शृणोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मै । षष्ठ᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +323,11 @@ unicode_script: devanagari
 स षड्ढू॑तोऽभवत् ॥48॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । ष᳓ड्ढूतो । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड्ढूतो ह वै᳓ ना᳓मैषः᳓ ।
@@ -251,6 +336,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 षड्ढू॑तो ह॒ वै नामै॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ष᳓ड्ढूतो । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +354,11 @@ unicode_script: devanagari
 तव्ँ वा ए॒तँ षड्ढू॑तँ॒ सन्तं॒ "षड्ढो॒ते"त्याच॑क्षते प॒रोक्षे॑ण ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । वै᳓ । एत᳓म् । ष᳓ड्ढूतम् । स᳓न्तम् । ष᳓ड्ढोता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ।
@@ -272,6 +367,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -284,6 +384,11 @@ unicode_script: devanagari
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै पञ्चमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
@@ -292,6 +397,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मै॑ पञ्च॒मँ हू॒तᳶ प्रत्य॑शृणोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मै । पञ्चम᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +414,11 @@ unicode_script: devanagari
 स पञ्च॑हूतोऽभवत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । प᳓ञ्च । हूतः । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चहूतो ह वै᳓ ना᳓मैषः᳓ ।
@@ -312,6 +427,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 पञ्च॑हूतो ह॒ वै नामै॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+प᳓ञ्च । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -326,6 +446,11 @@ unicode_script: devanagari
 पञ्च॑हो॒तेत्याच॑क्षते प॒रोक्षे॑ण ॥49॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । वै᳓ । एत᳓म् । प᳓ञ्च । हूतम् । स᳓न्तम् । प᳓ञ्च-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ।
@@ -334,6 +459,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +476,11 @@ unicode_script: devanagari
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै चतुर्थँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
@@ -354,6 +489,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 तस्मै॑ चतु॒र्थँ हू॒तᳶ प्रत्य॑शृणोत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मै । चतुर्थ᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +506,11 @@ unicode_script: devanagari
 स चतु॑र्हूतोऽभवत् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सः᳓ । च᳓तुः । हूतः । अभवत् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्हूतो ह वै᳓ ना᳓मैषः᳓ ।
@@ -374,6 +519,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 चतु॑र्हूतो ह॒ वै नामै॒षः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+च᳓तुः । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -403,6 +553,11 @@ unicode_script: devanagari
 तव्ँ वा ए॒तञ्चतु॑र्हूतँ॒ सन्त॑म् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । वै᳓ । एत᳓म् । च᳓तुः । हूतम् । स᳓न्तम् ।
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्होते᳓त्य् आ᳓चक्षते परो᳓क्षेण ।
@@ -411,6 +566,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 चतु॑र्हो॒तेत्याच॑क्षते प॒रोक्षे॑ण ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+च᳓तुर्-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -426,6 +586,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -474,6 +639,11 @@ unicode_script: devanagari
 त्वयै॑नानाख्या॒तार॒ इति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓म् । अब्रवीत् । त्व᳓म् । वै᳓ । मे । ने᳓दिष्ठम् । हूतः᳓ । प्र᳓ति । अश्रौषीः । त्व᳓या । एनान् । आख्याता᳓रः । इ᳓ति ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6अथ चतुर्होतृमन्त्राभिमानिनं पुरुषं विशेषतः प्रशंसति - तमब्रवीदित्वादिना ॥ चतुर्होतृमन्त्राभिमानिनं देवं प्रजापतिरेवमब्रवीत् - त्वमेवैको मया समाहूतस्सन् मदीयं वाक्यं नेदिष्टमतिसमीपं यथा भवति तथा श्रुत्वा प्रत्युत्तरं दत्तवान् । चतुर्थमामन्त्रणं त्वया श्रुतं इतरे न तथा सहसा श्रुतवन्तः । तस्मात्त्वयैव सर्वानेतान् हि जना कथयिष्यन्ति ।
@@ -506,6 +676,11 @@ unicode_script: devanagari
 तस्मा॒न्नु है॑नाँ॒श्चतु॑र्होतार॒ इत्याच॑क्षते ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । नु᳓ । ह । एनान् । च᳓तुः-होतारः । इ᳓ति । आ᳓ । चक्षते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं चतुर्होतार इत्येवं त्वन्नाम्नैव व्यवहारो भविष्यतीत्यर्थः । यस्मादेवं प्रजापतिना वरो दत्तः तस्मादेतान् दशहोत्रादीन् सर्वानपि चतुर्होतार इत्येव वचनं वैदिका आचक्षते ।
@@ -526,6 +701,11 @@ unicode_script: devanagari
 तस्मा॑च्छुश्रू॒षुᳶ पु॒त्राणाँ॒ हृद्य॑तमः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । शुश्रूषुः᳓ । पुत्रा᳓णाम् । हृ᳓द्यतमः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यस्माद् एवं शीघ्रं वाक्यं श्रुतवतश् चतुर्-होतुः प्रजापतेर् वर-लाभस्, तस्माल् लोके ऽपि पुत्राणां मध्ये यः पितुर् वाक्यम् आदरेण श्रोतुम् इच्छति स एव पितुर् हृद्यतमो ऽत्यन्तं प्रियः।
@@ -539,6 +719,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 नेदि॑ष्ठो॒ हृद्य॑तमः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ने᳓दिष्ठः । हृ᳓द्यतमः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -556,6 +741,11 @@ unicode_script: devanagari
 <details><summary>मूलम्</summary>
 
 नेदि॑ष्ठो॒ ब्रह्म॑णो भवति॒ य ए॒वव्ँ वेद॑ ॥50॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ने᳓दिष्ठः । ब्र᳓ह्मणः । भवति । यः᳓ । एव᳓म् । वे᳓द ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
