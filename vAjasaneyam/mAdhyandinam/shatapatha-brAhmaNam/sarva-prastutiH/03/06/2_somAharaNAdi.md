@@ -14,30 +14,24 @@ title = "२ सोमाहारणादि"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विजा᳓मानो+++(=भ्रातरः)+++ हैवा᳓स्य +++(यज्ञस्य)+++ धि᳓ष्ण्याः +++(धाना-कपालानि)+++॥  
-+++(कुत इति चेत्-)+++ इमे᳓ समङ्का᳓+++(=समानचिह्नाः)+++।  
-ये᳓ वै᳓ समङ्का᳓स् ते᳓ विजा᳓मान।  
-एत᳓+++(→धिष्ण्याः)+++ उ हैवा᳓स्यैत᳓+++(→विजामाना अङ्गानि)+++ आत्म᳓नः॥
++++(कुत इति चेत्-)+++ इमे᳓ समङ्का᳓+++(=समानचिह्नाः)+++ ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 व्विजा᳘मानो है᳘वास्य धि᳘ष्ण्याः॥  
-(ऽ) इमे᳘ समङ्का ये वै᳘ समङ्कास्ते᳘ व्विजा᳘मान एत᳘ ऽउ है᳘वास्यैत᳘ ऽआत्मा᳘नः [^१_२०७] ॥
-
-[^१_२०७]: 'आत्मनः' इति पाठो लेखप्रमादादेव । 'आत्मानः' इति पाठः साधीयान् भाष्यसंमतश्च ।
+(ऽ) इमे᳘ समङ्का
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 विजा᳘मानो हैॗवास्य धि᳘ष्ण्याः॥  
-इमे᳘ समङ्का ये वै᳘ समङ्कास्ते᳘ विजा᳘मान एत᳘ उ हैॗवास्यैत᳘ आत्म᳘नः [^wbr_1] ॥  
-
-[^wbr_1]: आत्मानः Sây. (?)
+इमे᳘ समङ्का
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-विजामानो हैवास्य धिष्ण्याः । इमे समङ्काः । ये वै समङ्कास्ते विजामानः । एत ऽउ हैवास्यैत आत्मानः ॥ १ ॥ 
+विजामानो हैवास्य धिष्ण्याः । इमे समङ्काः ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -49,6 +43,51 @@ title = "२ सोमाहारणादि"
 - धि᳓ष्ण्याः (*RV*-1/8, *TK*-0/1, *AV*-2, *SB-K*-10/33, *VS-M*-2/3, *VS-K*-1/3)
 - इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-K*-332/5549, *VS-M*-7/313, *VS-K*-13/151)
 - समङ्का᳓ (*AV*-1/2, *SB-K*-2, *MW* ŚBr.)
+</details>
+
+<details><summary>सायणः</summary>
+
+धिष्ण्यपदार्थविधानार्थमाख्यायिकामाह [^१_२०७]- **विजामानो हैवास्ये**त्यादिना । ये 'धिष्ण्याः' ते 'अस्य' यज्ञस्य 'विजामानः' भ्रातरः, बान्धवाः । कुत इत्यत आह- 'इमे' 'समङ्काः' समानचिह्नाः, यत एवमतो विजामान इत्यर्थः ।
+
+[^१_२०७]: "धिष्ण्योपधानपदार्थ" इति क्व. पा. ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+1. The Dhishṇya-hearths [^egg_392], forsooth, are no other than its (the sacrifice's) congeners [^egg_393].
+
+[^egg_392]: 148:4 There are altogether eight dhishṇyas, two of which, viz. the Āgnīdhra and the Mārjālīya, are raised north and south of the back part of the cart-shed (havirdhāna) respectively; while the other six are raised inside the Sadas along the east side of it, viz. five of them north of the 'spine,' belonging (from south to north) to the Hotr̥, Brāhmaṇāchaṁsi, Potr̥, Neshṭr̥, and Achāvāka respectively; and one south of the spine, exactly south-east of the Udumbara post, for the Maitrāvaruṇa (or Praśāstr̥) priest. These six priests, together with the Āgnīdhra, are called the 'seven Hotr̥s.' The Āgnīdhra and Mārjālīya have square sheds with four posts erected over them, open on the east side and on the side facing the cart-shed. The Āgnīdhra hearth is thrown up first, and the Mārjālīya last of all; and the Maitrāvaruṇa's immediately after that of the Hotr̥. For the formulas by which they are consecrated, see Vāj. S. V, 32, 32.
+
+[^egg_393]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये᳓ वै᳓ समङ्का᳓स् ते᳓ विजा᳓मान।  
+एत᳓+++(→धिष्ण्याः)+++ उ हैवा᳓स्यैत᳓+++(→विजामाना अङ्गानि)+++ आत्म᳓नः॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ये वै᳘ समङ्कास्ते᳘ व्विजा᳘मान एत᳘ ऽउ है᳘वास्यैत᳘ ऽआत्मा᳘नः [^१_२०७] ॥
+
+[^१_२०७]: 'आत्मनः' इति पाठो लेखप्रमादादेव । 'आत्मानः' इति पाठः साधीयान् भाष्यसंमतश्च ।
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ये वै᳘ समङ्कास्ते᳘ विजा᳘मान एत᳘ उ हैॗवास्यैत᳘ आत्म᳘नः [^wbr_1] ॥
+
+[^wbr_1]: आत्मानः Sây. (?)
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ये वै समङ्कास्ते विजामानः । एत ऽउ हैवास्यैत आत्मानः ॥ १ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-84/456)
 - वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135)
 - समङ्काः᳓ (*AV*-0/2, *SB-K*-2, *MW* ŚBr.)
@@ -65,21 +104,14 @@ title = "२ सोमाहारणादि"
 
 <details><summary>सायणः</summary>
 
-धिष्ण्यपदार्थविधानार्थमाख्यायिकामाह [^१_२०७]- **विजामानो हैवास्ये**त्यादिना । ये 'धिष्ण्याः' ते 'अस्य' यज्ञस्य 'विजामानः' भ्रातरः, बान्धवाः । कुत इत्यत आह- 'इमे' 'समङ्काः' समानचिह्नाः, यत एवमतो विजामान इत्यर्थः । समानचिह्नानां भ्रातृत्वे व्याप्तिं दर्शयति- **ये वै समङ्कास्ते विजामान** इति । 'एत उ' एते खलु 'अस्य' यज्ञस्य 'आत्मानः;' [^२_२०७] अतो विजामान इत्येतदुपपन्नम् । तस्मात् सोप्रयागे धिष्ण्याः कर्त्तव्या इत्यर्थः ॥ १ ॥ 
+समानचिह्नानां भ्रातृत्वे व्याप्तिं दर्शयति- **ये वै समङ्कास्ते विजामान** इति । 'एत उ' एते खलु 'अस्य' यज्ञस्य 'आत्मानः;' [^२_२०७] अतो विजामान इत्येतदुपपन्नम् । तस्मात् सोप्रयागे धिष्ण्याः कर्त्तव्या इत्यर्थः ॥ १ ॥
 
-[^१_२०७]: "धिष्ण्योपधानपदार्थ" इति क्व. पा. । 
-
-[^२_२०७]: 'अत्तारः' इति क्व. पा. । 
+[^२_२०७]: 'अत्तारः' इति क्व. पा. ।
 </details>
 
 <details><summary>Eggeling</summary>
 
-1. The Dhishṇya-hearths [^egg_392], forsooth, are no other than its (the sacrifice's) congeners [^egg_393]. They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
-
-[^egg_392]: 148:4 There are altogether eight dhishṇyas, two of which, viz. the Āgnīdhra and the Mārjālīya, are raised north and south of the back part of the cart-shed (havirdhāna) respectively; while the other six are raised inside the Sadas along the east side of it, viz. five of them north of the 'spine,' belonging (from south to north) to the Hotr̥, Brāhmaṇāchaṁsi, Potr̥, Neshṭr̥, and Achāvāka respectively; and one south of the spine, exactly south-east of the Udumbara post, for the Maitrāvaruṇa (or Praśāstr̥) priest. These six priests, together with the Āgnīdhra, are called the 'seven Hotr̥s.' The Āgnīdhra and Mārjālīya have square sheds with four posts erected over them, open on the east side and on the side facing the cart-shed. The Āgnīdhra hearth is thrown up first, and the Mārjālīya last of all; and the Maitrāvaruṇa's immediately after that of the Hotr̥. For the formulas by which they are consecrated, see Vāj. S. V, 32, 32.
-
-
-[^egg_393]: 149:1 That is, the parts of the body corresponding to one another, as arms, loins, &c.
+They have the same marks, and those which have the same marks are congeners; and these, then, are those (corresponding limbs) of its trunk.
 </details>
 
 
@@ -174,31 +206,22 @@ title = "२ सोमाहारणादि"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ ह +ऋतीय᳓माने +++(=स्पर्धमाने)+++ ऊचतुः॥  
-
-> यतरा᳓ नौ द᳓वीयः +++(दूरतरं)+++ पराप᳓श्याद्,  
-आत्मा᳓नं नौ सा᳓ [[जयाद्|जया᳓द्]] 
-
-इ᳓ति।  
-त᳓थे᳓ति।  
-सा᳓ ह कद्रू᳓र् उवाच प᳓रेक्षस्वेति॥
+ते᳓ ह +ऋतीय᳓माने +++(=स्पर्धमाने)+++ ऊचतुः॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
-(स्ते᳘) ते᳘ ह ऽर्त्तीय᳘माने ऽऊचतुः॥  
-(र्य) यतरा᳘ नौ द᳘वीयः प᳘रापश्यादात्मा᳘नं[[!!]] नौ सा᳘ जयादि᳘ति तथे᳘ति सा᳘ ह कद्रू᳘रुवाच प᳘रेक्षस्वे᳘ति॥
+(स्ते᳘) ते᳘ ह ऽर्त्तीय᳘माने ऽऊचतुः॥
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
-ते᳘ हर्तीय᳘माने ऊचतुः॥  
-यतरा᳘ नौ द᳘वीयः पराप᳘श्यादात्मा᳘नं नौ सा᳘ जयादि᳘ति तथे᳘ति सा᳘ ह कद्रू᳘रुवाच प᳘रेक्षस्वेति॥
+ते᳘ हर्तीय᳘माने ऊचतुः॥
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-ते ह ऽर्तीयमाने ऽऊचतुः- यतरा नौ दवीयः परापश्याद्- आत्मानं नौ सा जयादिति । तथेति । सा ह कद्रूरुवाच- परेक्षस्वेति ॥ ३ ॥ 
+ते ह ऽर्तीयमाने ऽऊचतुः ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -207,6 +230,34 @@ title = "२ सोमाहारणादि"
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - ऋतीय᳓माने (*SB-K*-1, Weber-पाठः, श्रीधरादि-पाठः)
 - ऊचतुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतरा᳓ नौ द᳓वीयः +++(दूरतरं)+++ पराप᳓श्याद्,  
+आत्मा᳓नं नौ सा᳓ [[जयाद्|जया᳓द्]] 
+
+इ᳓ति।  
+त᳓थे᳓ति।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+(र्य) यतरा᳘ नौ द᳘वीयः प᳘रापश्यादात्मा᳘नं[[!!]] नौ सा᳘ जयादि᳘ति तथे᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+यतरा᳘ नौ द᳘वीयः पराप᳘श्यादात्मा᳘नं नौ सा᳘ जयादि᳘ति तथे᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+यतरा नौ दवीयः परापश्याद्- आत्मानं नौ सा जयादिति । तथेति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - यतरा᳓ (*TS*-2/3, *TB*-0/2, *AV*-1, *SB-K*-1/12)
 - नौ (अनुदात्तम्, पा॰ ८.१.१८, *AV*-12, *TS*-9, *RV*-9, *TB*-6)
 - द᳓वीयः (*Whitney*, *TS*-1, *RV*-1, *AV*-2, *SB-K*-1/5)
@@ -219,6 +270,42 @@ title = "२ सोमाहारणादि"
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 - त᳓था (*AV*-43, *RV*-15, *TB*-17, *TS*-11, *TK*-2)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**ते हर्त्तीयमाने** इति । 'ऋतीयमाने' परस्परं कलहायमाने । 'ऋतिः' सौत्रो धातुः (पा. सू. ३ । १ । २९) 'ऊचतुः' । कथम् ? 'नौ' आवयोर्मध्ये 'यतरा' 'दवीयः' अत्यन्तं दूरं 'परापश्यात्' पश्येत् । 'सा' दूरदर्शिनी । सुपर्णी दूरम् 'ईक्षस्व' 'इति' 'उवाच' ॥ ३ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+3. They then disputed and said, 'Which of us shall spy furthest, shall win the other [^egg_396].'--'So be it!'
+
+[^egg_396]: 149:4 Lit. 'she shall win both of us,' i.e. each saying that the other would win herself.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ ह कद्रू᳓र् उवाच प᳓रेक्षस्वेति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+सा᳘ ह कद्रू᳘रुवाच प᳘रेक्षस्वे᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+सा᳘ ह कद्रू᳘रुवाच प᳘रेक्षस्वेति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+सा ह कद्रूरुवाच- परेक्षस्वेति ॥ ३ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-K*-649/20018, *VS-M*-30/768, *VS-K*-23/395)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - कद्रूः᳓ (*TS*-4/7, *SB-K*-7/10)
@@ -228,16 +315,9 @@ title = "२ सोमाहारणादि"
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
 
-<details><summary>सायणः</summary>
-
-**ते हर्त्तीयमाने** इति । 'ऋतीयमाने' परस्परं कलहायमाने । 'ऋतिः' सौत्रो धातुः (पा. सू. ३ । १ । २९) 'ऊचतुः' । कथम् ? 'नौ' आवयोर्मध्ये 'यतरा' 'दवीयः' अत्यन्तं दूरं 'परापश्यात्' पश्येत् । 'सा' दूरदर्शिनी । सुपर्णी दूरम् 'ईक्षस्व' 'इति' 'उवाच' ॥ ३ ॥ 
-</details>
-
 <details><summary>Eggeling</summary>
 
-3. They then disputed and said, 'Which of us shall spy furthest, shall win the other [^egg_396].'--'So be it!' Kadrū then said, 'Espy thou!'
-
-[^egg_396]: 149:4 Lit. 'she shall win both of us,' i.e. each saying that the other would win herself.
+Kadrū then said, 'Espy thou!'
 </details>
 
 
@@ -249,28 +329,24 @@ title = "२ सोमाहारणादि"
 सा᳓ ह सुपर्ण्य् उ᳙वाच॥  
 "[[अ᳓स्य|अस्य᳓]] सलिल᳓स्य पारे᳓ ऽश्वः श्वेत᳓+++(ः)+++ स्थाणौ᳓ सेवते।  
 त᳓म् अह᳓म् पश्यामी᳓"ति।  
-त᳓म् एव᳓ त्व᳓म् पश्यसी᳓ति।  
-"तं᳓ [[ही|ही᳓]]"त्य् अ᳓थ ह कद्रू᳓र् उवाच,  
-"त᳓स्य वा᳓लो न्यषञ्जि।  
-त᳓म् अमुं᳓ वा᳓तो धूनोति।  
-त᳓म् अह᳓म् पश्यामी᳓"ति॥
+त᳓म् एव᳓ त्व᳓म् पश्यसी᳓ति।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 सा᳘ ह सुप᳘र्ण्युवाच॥  
-(चा) अस्य᳘[[!!]] सलिल᳘स्य पारे᳘ ऽश्वः श्वेत᳘ स्थाणौ᳘ सेवते त᳘महं᳘ पश्यामी᳘ति त᳘मेव त्वं᳘ पश्यसी᳘ति तᳫं᳭ हीत्य᳘थ ह कद्रू᳘रुवाच त᳘स्य व्वा᳘लो᳘ न्यषञ्जि[[!!]] त᳘ममुं व्वा᳘तो धूनोति त᳘महं᳘ पश्यामी᳘ति॥
+(चा) अस्य᳘[[!!]] सलिल᳘स्य पारे᳘ ऽश्वः श्वेत᳘ स्थाणौ᳘ सेवते त᳘महं᳘ पश्यामी᳘ति त᳘मेव त्वं᳘ पश्यसी᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 सा᳘ ह सुपॗर्ण्युवाच॥  
-अ᳘स्य सलिल᳘स्य पारे᳘ ऽश्वः श्वेत᳘ स्थाणौ᳘ सेवते त᳘मह᳘म् पश्यामी᳘ति त᳘मेव त्व᳘म् पश्यसी᳘ति तᳫं हीत्य᳘थ ह कद्रू᳘रुवाच त᳘स्य वा᳘लो न्य᳘षञ्जि त᳘ममुं वा᳘तो धूनोति त᳘मह᳘म् पश्यामी᳘ति॥
+अ᳘स्य सलिल᳘स्य पारे᳘ ऽश्वः श्वेत᳘ स्थाणौ᳘ सेवते त᳘मह᳘म् पश्यामी᳘ति त᳘मेव त्व᳘म् पश्यसी᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-सा ह सुपर्ण्युवाच- अस्य सलिलस्य पारे ऽश्वः श्वेत स्थाणौ सेवते- तमहं पश्यामीति । तमेव त्वं पश्यसीति । तं हीति । अथ ह कद्रूरुवाच- तस्य वालो न्यषञ्जि । तममुं वातो धूनोति । तमहं पश्यामीति ॥ ४ ॥ 
+सा ह सुपर्ण्युवाच- अस्य सलिलस्य पारे ऽश्वः श्वेत स्थाणौ सेवते- तमहं पश्यामीति । तमेव त्वं पश्यसीति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -295,6 +371,43 @@ title = "२ सोमाहारणादि"
 - त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-56/114)
 - पश्यसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-3, *RV*-2)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**सा हे**ति । 'सा' दूरं पश्यन्ती 'सुपर्णी' 'उवाच' । किमिति ? उच्यते- 'अस्य सलिलस्य पारे अश्वः श्वेतः स्थाणौ सेवते, तमहं पश्यामि इति' । अस्यार्थं श्रुतिरेवाविष्करिष्यति । 'तमेव' मया दृष्टं श्वेताश्वमेव हे कद्रु ! 'त्वम्' अपि 'पश्यसि'- 'इति' नतु ततो ऽतिरिक्तम् । सा कद्रूः दूरं विलोक्य 'तं हि'- 'इति' 'उवाच' । तमश्वं खलु त्वं पश्यसीत्यर्थः । ततो ऽधिकमपि दृष्ट्वा कद्रूः पुनर्ब्रूते । किमिति उच्यते- 'तस्य वालो न्यषञ्जि, तममुं वातो धूनोति, तमहं पश्यामि इति' । 'वालः' पुच्छं 'न्यषञ्जि' स्थाणौ निषक्तमभूत्, 'तं' वालं 'वातः' वायुः 'धूनोति' कम्पयति ॥ ४ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+4. Suparṇī said, 'On yonder shore of this ocean there stands a white horse at a post, that I see; doest thou also see it?'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तं᳓ [[ही|ही᳓]]"त्य् अ᳓थ ह कद्रू᳓र् उवाच,  
+"त᳓स्य वा᳓लो न्यषञ्जि।  
+त᳓म् अमुं᳓ वा᳓तो धूनोति।  
+त᳓म् अह᳓म् पश्यामी᳓"ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+तᳫं᳭ हीत्य᳘थ ह कद्रू᳘रुवाच त᳘स्य व्वा᳘लो᳘ न्यषञ्जि[[!!]] त᳘ममुं व्वा᳘तो धूनोति त᳘महं᳘ पश्यामी᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+तᳫं हीत्य᳘थ ह कद्रू᳘रुवाच त᳘स्य वा᳘लो न्य᳘षञ्जि त᳘ममुं वा᳘तो धूनोति त᳘मह᳘म् पश्यामी᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तं हीति । अथ ह कद्रूरुवाच- तस्य वालो न्यषञ्जि । तममुं वातो धूनोति । तमहं पश्यामीति ॥ ४ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-63/395)
 - हि᳓ (*RV*-662, *TS*-456, *AV*-155, *TB*-212, *TK*-8, *VS-M*-48)
 - इ᳓ति (*TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
@@ -316,14 +429,9 @@ title = "२ सोमाहारणादि"
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
 
-<details><summary>सायणः</summary>
-
-**सा हे**ति । 'सा' दूरं पश्यन्ती 'सुपर्णी' 'उवाच' । किमिति ? उच्यते- 'अस्य सलिलस्य पारे अश्वः श्वेतः स्थाणौ सेवते, तमहं पश्यामि इति' । अस्यार्थं श्रुतिरेवाविष्करिष्यति । 'तमेव' मया दृष्टं श्वेताश्वमेव हे कद्रु ! 'त्वम्' अपि 'पश्यसि'- 'इति' नतु ततो ऽतिरिक्तम् । सा कद्रूः दूरं विलोक्य 'तं हि'- 'इति' 'उवाच' । तमश्वं खलु त्वं पश्यसीत्यर्थः । ततो ऽधिकमपि दृष्ट्वा कद्रूः पुनर्ब्रूते । किमिति उच्यते- 'तस्य वालो न्यषञ्जि, तममुं वातो धूनोति, तमहं पश्यामि इति' । 'वालः' पुच्छं 'न्यषञ्जि' स्थाणौ निषक्तमभूत्, 'तं' वालं 'वातः' वायुः 'धूनोति' कम्पयति ॥ ४ ॥ 
-</details>
-
 <details><summary>Eggeling</summary>
 
-4. Suparṇī said, 'On yonder shore of this ocean there stands a white horse at a post, that I see; doest thou also see it?'--'I verily do!' Then said Kadrū 'Its tail was just now hanging down; there, now the wind tosses it, that I see.'
+--'I verily do!' Then said Kadrū 'Its tail was just now hanging down; there, now the wind tosses it, that I see.'
 </details>
 
 
@@ -431,26 +539,24 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 सा᳓ ह सुपर्ण्य् उ᳙वाच॥  
 ए᳓हीद᳓म् प᳓ताव वे᳓दितुं -  
-"यतरा᳓ नौ ज᳓यती᳓"ति।  
-सा᳓ ह कद्रू᳓र् उवाच -  
-"त्व᳓म् एव᳓ पत, त्वं᳓ वै᳓ न आख्यास्यसि य᳓तरा नौ ज᳓यती᳓"ति॥
+"यतरा᳓ नौ ज᳓यती᳓"ति।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 सा᳘ ह सुप᳘र्ण्युवाच᳘॥  
-(चे᳘) ए᳘हीदं प᳘ताव व्वे᳘दितुं यतरा᳘ नौ ज᳘यती᳘ति सा᳘ ह कद्रू᳘रुवाच त्व᳘मेव᳘ पत त्वं वै᳘ न आ᳘ख्यास्यसि य᳘तरा नौ ज᳘यती᳘ति॥
+(चे᳘) ए᳘हीदं प᳘ताव व्वे᳘दितुं यतरा᳘ नौ ज᳘यती᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 सा᳘ ह सुपॗर्ण्युवाच॥  
-ए᳘हीदम् प᳘ताव वे᳘दितुं यतरा᳘ नौ ज᳘यती᳘ति सा᳘ ह कद्रू᳘रुवाच त्व᳘मेव᳘ पत त्वं वै᳘ न आख्यास्यसि य᳘तरा नौ ज᳘यती᳘ति॥
+ए᳘हीदम् प᳘ताव वे᳘दितुं यतरा᳘ नौ ज᳘यती᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-सा ह सुपर्ण्युवाच- एहीदं पताव वेदितुम्, यतरा नौ जयतीति । सा ह कद्रूरुवाच- त्वमेव पत । त्वं वै न आख्यास्यसि- यतरा नौ जयतीति ॥ ६॥ 
+सा ह सुपर्ण्युवाच- एहीदं पताव वेदितुम्, यतरा नौ जयतीति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -468,6 +574,41 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - नौ (अनुदात्तम्, पा॰ ८.१.१८, *AV*-12, *TS*-9, *RV*-9, *TB*-6)
 - ज᳓यति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-9, *RV*-1, *TB*-1)
 - इ᳓ति (*TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**सा ह सुपर्ण्युवाचे**ति ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+6. Suparṇī then said, 'Come, let us now fly thither to know which of us is the winner.'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा᳓ ह कद्रू᳓र् उवाच -  
+"त्व᳓म् एव᳓ पत, त्वं᳓ वै᳓ न आख्यास्यसि य᳓तरा नौ ज᳓यती᳓"ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+सा᳘ ह कद्रू᳘रुवाच त्व᳘मेव᳘ पत त्वं वै᳘ न आ᳘ख्यास्यसि य᳘तरा नौ ज᳘यती᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+सा᳘ ह कद्रू᳘रुवाच त्व᳘मेव᳘ पत त्वं वै᳘ न आख्यास्यसि य᳘तरा नौ ज᳘यती᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+सा ह कद्रूरुवाच- त्वमेव पत । त्वं वै न आख्यास्यसि- यतरा नौ जयतीति ॥ ६॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-K*-649/20018, *VS-M*-30/768, *VS-K*-23/395)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - कद्रूः᳓ (*TS*-4/7, *SB-K*-7/10)
@@ -488,12 +629,12 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details><summary>सायणः</summary>
 
-**सा ह सुपर्ण्युवाचे**ति । **सा ह कद्रूरि**त्यादि । सुपर्ण्या श्वेताश्वादेर्दर्शनार्थमाहूता कद्रूः । सुपर्णि ! स्वदृष्टस्य वालस्य सुसिद्धत्वात् 'त्वमेव' दृष्ट्वा ऽऽवयोः कस्या जय इति ब्रूहीत्यर्थः ॥ ६ ॥ 
+**सा ह कद्रूरि**त्यादि । सुपर्ण्या श्वेताश्वादेर्दर्शनार्थमाहूता कद्रूः । सुपर्णि ! स्वदृष्टस्य वालस्य सुसिद्धत्वात् 'त्वमेव' दृष्ट्वा ऽऽवयोः कस्या जय इति ब्रूहीत्यर्थः ॥ ६ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-6. Suparṇī then said, 'Come, let us now fly thither to know which of us is the winner.' Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
+Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 </details>
 
 
@@ -502,7 +643,46 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा᳓ ह सुपर्णी᳓ पपात॥  
+सा᳓ ह सुपर्णी᳓ पपात॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+सा᳘ ह सुपर्णी᳘ पपात᳘॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+सा᳘ ह सुपर्णी᳘ पपात॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+सा ह सुपर्णी पपात ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-K*-649/20018, *VS-M*-30/768, *VS-K*-23/395)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
+- सुपर्णी᳓ (*TS*-2/3, *SB-K*-5/9)
+- पपात (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TK*-1, *AV*-1)
+</details>
+
+<details><summary>सायणः</summary>
+
+**सा ह सुपर्णी पपाते**ति । एवमुक्ता सुपर्णी । गत्वा कद्रूक्तं वास्तवमवगत्य पुनः 'आगतां' 'तां' सुपर्णी कद्रूः 'उवाद'- “त्वमजैषी ३ रहा ३ मिति" । प्रश्ने प्लुतिः (पा. सू. ८ । २ । १००) । तया पृष्टा सुपर्णी 'त्वमजैषीः' 'इति' उवाच ।
+
+विहितस्याख्यानस्य प्रसिद्धत्वाविष्करणाय नाम करोति- **एतद्ध्याख्यान**मिति ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+7. Suparṇī then flew thither; and it was even as Kadrū had said.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 त᳓द् +ध त᳓थैवास य᳓था कद्रू᳓र् उवा᳓च।  
 ता᳓म् [[आ᳓गता᳓म्|आ᳓गताम्]] अभ्यु᳓वाद -  
 "त्व᳓म् अजैषी᳓३र् [[अहा३म्|अहा᳓३म्]]" इ᳓ति।  
@@ -512,27 +692,21 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
-सा᳘ ह सुपर्णी᳘ पपात᳘॥  
 तद्ध[[!!]] त᳘थैवास य᳘था कद्रू᳘रुवा᳘च तामा᳘गताम᳘भ्युवाद[[!!]] त्व᳘मजैषी᳘ ३ रहा ३ मि᳘ति त्वमि᳘ति होवाचैत᳘द्व्याख्या᳘नᳫँ᳭ सौ᳘पर्णीकाद्रवमि᳘ति॥ (शतम् १९००)
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
-सा᳘ ह सुपर्णी᳘ पपात॥  
 त᳘द्ध त᳘थैवास य᳘था कद्रू᳘रुवा᳘च तामा᳘गता᳘मॗभ्युवाद त्व᳘मजैषी᳘रहामि᳘ति त्वमि᳘ति होवाचैत᳘द्व्याख्या᳘नᳫं सौ᳘पर्णीकाद्रवमि᳘ति॥
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-सा ह सुपर्णी पपात । तद्ध तथैवास- यथा कद्रूरुवाच । तामागतामभ्युवाद- त्वमजैषी ३ रहा ३ मिति । त्वमिति होवाच । एतद्ध्याख्यानं सौपर्णीकाद्रवमिति ॥ ७ ॥ 
+तद्ध तथैवास- यथा कद्रूरुवाच । तामागतामभ्युवाद- त्वमजैषी ३ रहा ३ मिति । त्वमिति होवाच । एतद्ध्याख्यानं सौपर्णीकाद्रवमिति ॥ ७ ॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-K*-649/20018, *VS-M*-30/768, *VS-K*-23/395)
-- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
-- सुपर्णी᳓ (*TS*-2/3, *SB-K*-5/9)
-- पपात (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TK*-1, *AV*-1)
 - त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395)
 - ध (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 - त᳓था (*AV*-43, *RV*-15, *TB*-17, *TS*-11, *TK*-2)
@@ -561,12 +735,12 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details><summary>सायणः</summary>
 
-**सा ह सुपर्णी पपाते**ति । एवमुक्ता सुपर्णी । गत्वा कद्रूक्तं वास्तवमवगत्य पुनः 'आगतां' 'तां' सुपर्णी कद्रूः 'उवाद'- “त्वमजैषी ३ रहा ३ मिति" । प्रश्ने प्लुतिः (पा. सू. ८ । २ । १००) । तया पृष्टा सुपर्णी 'त्वमजैषीः' 'इति' उवाच । विहितस्याख्यानस्य प्रसिद्धत्वाविष्करणाय नाम करोति- **एतद्ध्याख्यान**मिति । 'एतत्' **दिवि वै सोम आसी**दित्यादि **होवाचे**त्येतदन्तमित्यर्थः (तै. सं. ६ । १ । ६ । १) (ऐ. ब्रा. ३ । ३ । १ । २; ६ । ३ । ६) ॥ ७ ॥ 
+'एतत्' **दिवि वै सोम आसी**दित्यादि **होवाचे**त्येतदन्तमित्यर्थः (तै. सं. ६ । १ । ६ । १) (ऐ. ब्रा. ३ । ३ । १ । २; ६ । ३ । ६) ॥ ७ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-7. Suparṇī then flew thither; and it was even as Kadrū had said. When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?'--'Thou!' she replied. Such is the story called Suparṇī-Kādrava [^egg_397].'
+When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!' she replied. Such is the story called Suparṇī-Kādrava [^egg_397].'
 
 [^egg_397]: 150:1 'And because these two there disputed, therefore the story called "Sauparṇakādrava" is here told,' Kāṇva text. It is difficult to see how this statement came to be inserted here, unless it be because of a division in the text,--this paragraph being the nineteen hundredth in the Mādhyandina recension. This explanation would not, however, apply to the Kāṇva text.
 </details>
@@ -662,31 +836,22 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हिरण्म᳓य्योर् ह कुश्यो᳓र्+++(=आवरणयोर्)+++ अन्त᳙र् अ᳓वहित आस॥  
-ते᳓ ह स्म क्षुर᳓-पवी +++(आवरणे)+++  
-निमेषं᳓ निमेषम् अभिसं᳓धत्तः।  
-दीक्षा-तप᳓सौ [[हैव|हैव᳓]] ते᳓ आसतुः।+++(5)+++  
-त᳓म् एते᳓ गन्धर्वाः᳓ सोम-रक्षा᳓ जुगुपुः।  
-इमे᳓ धि᳓ष्ण्या, इमा᳓ हो᳓त्राः॥
+हिरण्म᳓य्योर् ह कुश्यो᳓र्+++(=आवरणयोर्)+++ अन्त᳙र् अ᳓वहित आस॥
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
-(द्धि) हिरण्म᳘य्योर्ह कुश्यो᳘र᳘न्तरवहित ऽआस[[!!]]॥  
-ते᳘ ह स्म क्षुर᳘पवी निमेषं᳘ निमेषमभिस᳘न्धत्तो दीक्षातप᳘सौ हैव ते᳘ ऽआसतुस्त᳘मेते᳘ गन्धर्व्वाः᳘ सोमरक्षा᳘ जुगुपुरिमे धि᳘ष्ण्या ऽइमा हो᳘त्राः॥
+(द्धि) हिरण्म᳘य्योर्ह कुश्यो᳘र᳘न्तरवहित ऽआस[[!!]]॥
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
-हिरण्म᳘य्योर्ह कुश्यो᳘रन्तर᳘वहित आस॥  
-ते᳘ ह स्म क्षुर᳘पवी निमेषं᳘ निमेषमभिसं᳘धत्तो दीक्षातप᳘सौ हैव ते᳘ आसतुस्त᳘मेते᳘ गन्धर्वाः᳘ सोमरक्षा᳘ जुगुपुरिमे धि᳘ष्ण्या इमा हो᳘त्राः [^wbr_3] ॥  
-
-[^wbr_3]: इमे होत्रकाः Sây.
+हिरण्म᳘य्योर्ह कुश्यो᳘रन्तर᳘वहित आस॥
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-हिरण्मय्योर्ह कुश्योरन्तरवहित आस । ते ह स्म क्षुरपवी निमेषं निमेषमभिसन्धत्तः । दीक्षातपसौ हैव ते ऽआसतुः । तमेते गन्धर्वाः सोमरक्षा जुगुपुः । इमे धिष्ण्याः, इमा होत्राः ॥ ९ ॥ 
+हिरण्मय्योर्ह कुश्योरन्तरवहित आस ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -697,6 +862,38 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-K*-117/122, *VS-M*-44, *VS-K*-6/9)
 - अ᳓व-हितः (*TS*-0/1, *RV*-1/2, *AV*-0/1, *SB-K*-2)
 - आस (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-15, *TB*-1, *TK*-1, *AV*-3)
+</details>
+
+<details><summary>Eggeling</summary>
+
+9. He was enclosed between two golden cups [^egg_399];
+
+[^egg_399]: 150:3 Kuśī? = kośī, 'pod' (or case). Sāyaṇa explains it by 'āyudha' (? weapon, or vessel. sheath).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ ह स्म क्षुर᳓-पवी +++(आवरणे)+++  
+निमेषं᳓ निमेषम् अभिसं᳓धत्तः।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते᳘ ह स्म क्षुर᳘पवी निमेषं᳘ निमेषमभिस᳘न्धत्तः
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते᳘ ह स्म क्षुर᳘पवी निमेषं᳘ निमेषमभिसं᳘धत्तः
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ते ह स्म क्षुरपवी निमेषं निमेषमभिसन्धत्तः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-83/395)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - स्म (अनुदात्तम्, पा॰ ८.१.१८, *RV*-108, *AV*-23, *TS*-14, *TB*-4, *TK*-4, *VS-M*-5)
@@ -706,6 +903,39 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - अभि (गतिर्गतौ पा॰ ८.१.७०, *TB*-38, *TK*-9, *AV*-3)
 - स᳓म् (*MW*, *RV*-608, *AV*-562, *VS-M*-187, *TB*-367, *TS*-547, *TK*-14)
 - धत्तः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *TB*-1)
+</details>
+
+<details><summary>Eggeling</summary>
+
+sharp-edged they closed together at every twinkling of the eye; and these two, forsooth, were Consecration and Penance.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दीक्षा-तप᳓सौ [[हैव|हैव᳓]] ते᳓ आसतुः।+++(5)+++  
+त᳓म् एते᳓ गन्धर्वाः᳓ सोम-रक्षा᳓ जुगुपुः।  
+इमे᳓ धि᳓ष्ण्या, इमा᳓ हो᳓त्राः॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+दीक्षातप᳘सौ हैव ते᳘ ऽआसतुस्त᳘मेते᳘ गन्धर्व्वाः᳘ सोमरक्षा᳘ जुगुपुरिमे धि᳘ष्ण्या ऽइमा हो᳘त्राः॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+दीक्षातप᳘सौ हैव ते᳘ आसतुस्त᳘मेते᳘ गन्धर्वाः᳘ सोमरक्षा᳘ जुगुपुरिमे धि᳘ष्ण्या इमा हो᳘त्राः [^wbr_3] ॥
+
+[^wbr_3]: इमे होत्रकाः Sây.
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+दीक्षातपसौ हैव ते ऽआसतुः । तमेते गन्धर्वाः सोमरक्षा जुगुपुः । इमे धिष्ण्याः, इमा होत्राः ॥ ९ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - दीक्षा-तप᳓सौ (*VS-M*-0/1, *SB-K*-0/3, Weber-पाठः, श्रीधरादि-पाठः)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24)
@@ -724,14 +954,16 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 
 <details><summary>सायणः</summary>
 
-"सा गायत्री दिवः सोममाहरत्"- इति यत् संग्रहेणोक्तम्, तद्विस्पष्टयति- **हिरण्मय्योर्ह कुश्योरि**त्यादिना । हिरण्मय्योः कुश्योः आयुधयोः 'अन्तः' 'अवहितः' आच्छन्नः सोमो ऽभूत् । " जानपद०" (पा. सू. ४ । १ । ४२) इत्यादिना अथोविकारार्थात् कुशशब्दात् ङीष् । 'ते' कुश्यौ क्षुरपवी क्षुरधारे इव तीक्ष्णाग्रे 'निमेषं-निमेषं' सर्वदेत्यर्थः । 'अभिसन्धत्तः' यथा ऽन्यो नापहरेदेवं रक्षत इत्यर्थः । कुश्योर्वास्तवस्वरूपमाह- **दीक्षातपसावि**ति । **तमेते गन्धर्वा** इति । 'सोमरक्षाः' सोमरक्षकाः 'एते गन्धर्वाः' 'तं' सोमं 'जुगुपुः' । ते के ? 'ये इमे' सदसि वर्त्तमानाः 'धिष्ण्याः', 'इमा होत्राः' इमे होत्रकाः, होतृवर्जमैत्रावरुणादयः ॥ ९ ॥ 
+"सा गायत्री दिवः सोममाहरत्"- इति यत् संग्रहेणोक्तम्, तद्विस्पष्टयति- **हिरण्मय्योर्ह कुश्योरि**त्यादिना । हिरण्मय्योः कुश्योः आयुधयोः 'अन्तः' 'अवहितः' आच्छन्नः सोमो ऽभूत् । " जानपद०" (पा. सू. ४ । १ । ४२) इत्यादिना अथोविकारार्थात् कुशशब्दात् ङीष् । 'ते' कुश्यौ क्षुरपवी क्षुरधारे इव तीक्ष्णाग्रे 'निमेषं-निमेषं' सर्वदेत्यर्थः । 'अभिसन्धत्तः' यथा ऽन्यो नापहरेदेवं रक्षत इत्यर्थः ।
+
+कुश्योर्वास्तवस्वरूपमाह- **दीक्षातपसावि**ति ।
+
+**तमेते गन्धर्वा** इति । 'सोमरक्षाः' सोमरक्षकाः 'एते गन्धर्वाः' 'तं' सोमं 'जुगुपुः' । ते के ? 'ये इमे' सदसि वर्त्तमानाः 'धिष्ण्याः', 'इमा होत्राः' इमे होत्रकाः, होतृवर्जमैत्रावरुणादयः ॥ ९ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-9. He was enclosed between two golden cups [^egg_399]; sharp-edged they closed together at every twinkling of the eye; and these two, forsooth, were Consecration and Penance. Those Gandharva Soma-wardens watched over him; they are these hearths, these fire-priests.
-
-[^egg_399]: 150:3 Kuśī? = kośī, 'pod' (or case). Sāyaṇa explains it by 'āyudha' (? weapon, or vessel. sheath).
+Those Gandharva Soma-wardens watched over him; they are these hearths, these fire-priests.
 </details>
 
 
@@ -798,25 +1030,24 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ द्विती᳓यां कुशी᳓म् आ᳓चिच्छेद॥  
-तां᳓ देवे᳓भ्यः प्र᳓ददौ - त᳓त् त᳓पः।  
-त᳓या देवा᳓स् त᳓प उ᳓पायन्न् उपस᳓दस्, त᳓पो ह्य् उपस᳓दः॥
+तां᳓ देवे᳓भ्यः प्र᳓ददौ ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 (न्ता᳘थ) अ᳘थ द्विती᳘यां कुशीमा᳘चिच्छेद॥  
-तां᳘ देवे᳘भ्यः प्र᳘ददौ तत्त᳘पस्त᳘या देवास्त᳘प ऽउ᳘पायन्नुपस᳘दस्त᳘पो᳘ ह्युपस᳘दः॥
+तां᳘ देवे᳘भ्यः प्र᳘ददौ
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 अ᳘थ द्विती᳘यां कुशीमा᳘चिछेद॥  
-तां᳘ देवे᳘भ्यः प्र᳘ददौ तत्त᳘पस्त᳘या देवास्त᳘प उ᳘पायन्नुपस᳘दस्त᳘पोॗ ह्युपस᳘दः॥
+तां᳘ देवे᳘भ्यः प्र᳘ददौ
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-अथ द्वितीयां कुशीमाचिच्छेद । तां देवेभ्यः प्रददौ । तत्तपः । तया देवास्तप उपायन् उपसदः । तपो ह्युपसदः ॥ ११ ॥ 
+अथ द्वितीयां कुशीमाचिच्छेद । तां देवेभ्यः प्रददौ ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -830,6 +1061,43 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-K*-210/1945, *VS-M*-64/517, *VS-K*-59/350)
 - प्र᳓ (*RV*-1193, *TS*-780, *AV*-568, *VS-M*-203, *TB*-401, *TK*-34)
 - ददौ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *TK*-1, *AV*-1)
+</details>
+
+<details><summary>सायणः</summary>
+
+**अथ द्वितीयामि**ति ।
+
+गायत्र्या छिन्ना द्वितीया कुशी देवेभ्यो दत्ता; सा तपोनामोपसद इत्याह- **तपो ह्युपसद** इति ॥ ११ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+11. She then tore off the second cup, and gave it to the gods,--this was Penance: therewith the gods underwent penance, to wit the Upasads, for the Upasads are penance.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓त् त᳓पः।  
+त᳓या देवा᳓स् त᳓प उ᳓पायन्न् उपस᳓दस्, त᳓पो ह्य् उपस᳓दः॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+तत्त᳘पस्त᳘या देवास्त᳘प ऽउ᳘पायन्नुपस᳘दस्त᳘पो᳘ ह्युपस᳘दः॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+तत्त᳘पस्त᳘या देवास्त᳘प उ᳘पायन्नुपस᳘दस्त᳘पोॗ ह्युपस᳘दः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तत्तपः । तया देवास्तप उपायन् उपसदः । तपो ह्युपसदः ॥ ११ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395)
 - त᳓पः (*Whitney*, *TS*-18/46, *RV*-4/21, *TB*-22/43, *TK*-21/30, *AV*-36/88, *SB-K*-56/89, *VS-M*-6/20, *VS-K*-4/15)
 - त᳓या (*TS*-59/4763, *RV*-10/3136, *TB*-23/2709, *TK*-37/363, *AV*-29/3165, *SB-K*-95/20018, *VS-M*-23/768, *VS-K*-17/395)
@@ -842,16 +1110,6 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - उप-स᳓दः (*TS*-9/14, *RV*-0/1, *TB*-4/11, *AV*-4, *SB-K*-24/40, *VS-M*-0/2)
 </details>
 
-<details><summary>सायणः</summary>
-
-**अथ द्वितीयामि**ति । गायत्र्या छिन्ना द्वितीया कुशी देवेभ्यो दत्ता; सा तपोनामोपसद इत्याह- **तपो ह्युपसद** इति ॥ ११ ॥ 
-</details>
-
-<details><summary>Eggeling</summary>
-
-11. She then tore off the second cup, and gave it to the gods,--this was Penance: therewith the gods underwent penance, to wit the Upasads, for the Upasads are penance.
-</details>
-
 
 ## १२
 
@@ -859,27 +1117,24 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खदिरे᳓ण ह सो᳓मम् आ᳓चखाद+++(←खिद्)+++॥  
-त᳓स्मात् खदिरो᳓ य᳓द् एनेना᳓खिदत्,  
-त᳓स्मात् खादिरो᳓ यू᳓पो भवति,  
-खादिर᳓ [[स्फ्यो᳓|स्फ्यो᳙]]।  
-अच्छावाक᳓स्य +++(होतृसाहायकतुल्यस्य)+++ हैनं गोपना᳓यां जहार +++(सा गायत्री)+++ - सो᳓ ऽच्छावाको᳓ ऽहीयत +++(सोमपानात्)+++॥
+त᳓स्मात् खदिरो᳓ य᳓द् एनेना᳓खिदत् ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 खदिरे᳘ण ह सो᳘ममा᳘चखाद॥  
-त᳘स्मात्खदिरो य᳘देनेना᳘खिदत्त᳘स्मात्खादिरो यू᳘पो भवति खादिरः᳘ स्फ्यो ऽच्छावाक᳘स्य हैनं गोपना᳘यां जहार᳘ सो ऽच्छावा᳘को ऽहीयत॥
+त᳘स्मात्खदिरो य᳘देनेना᳘खिदत्
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 खदिरे᳘ण ह सो᳘ममा᳘चखाद॥  
-त᳘स्मात्खदिरो य᳘देनेना᳘खिदत्त᳘स्मात्खादिरो यू᳘पो भवति खादिरॗ स्फ्यो ऽछावाक᳘स्य हैनं गोपना᳘यां जहारॗ सो ऽछावाॗको ऽहीयत॥
+त᳘स्मात्खदिरो य᳘देनेना᳘खिदत्
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-खदिरेण ह सोममाचखाद । तस्मात् खदिरो- यदेनेनाखिदत् । तस्मात् खादिरो यूपो भवति । खादिरः स्फ्यः । अच्छावाकस्य हैनं गोपनायां जहार । सो ऽच्छावाको ऽहीयत ॥ १२ ॥ 
+खदिरेण ह सोममाचखाद । तस्मात् खदिरो- यदेनेनाखिदत् ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -893,12 +1148,78 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456)
 - एनेन (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-4, *TB*-1, *TK*-2, *AV*-3)
 - अ᳓खिदत् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, अडागम उदात्तः पा॰ ६.४.७१)
+</details>
+
+<details><summary>सायणः</summary>
+
+**खदिरेण हे**ति । सोमाहरणसमये खदिरस्यातिसारत्वात् तं साधनं कृत्वा सोमं भक्षितवती, अतः खादनसाधनत्वात् खदिर इति नाम सम्पन्नम् । अतः खदिरस्य सोमाहरणोपयोगात् सोमयागे यूपः स्फ्यश्च खादिरौ कर्त्तव्यौ । 'अच्छावाकस्य' 'गोपनायाम्' । होत्रकाणामेव सोमरक्षकगन्धर्वरूपत्वादच्छावाकाख्यो होत्रको यदा सोमरक्षकेषु मध्ये रक्षितवान्, तदा गायत्री 'जहार'; अतः 'अच्छावाकः' 'अहीयत' हीनो निकृष्टो ऽभूत् । अत एवेतरहोत्रकवत् प्रथमत एव सदःप्रवेशमपि (न) समालभत ॥ १२ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+12. She took possession (ā-cakhāda) [^egg_400] of Soma by means of (a stick of) khadira wood (Acacia Catechu), whence (the name) Khadira;
+
+[^egg_400]: 151:1 Sāyaṇa takes it in the sense of 'she swallowed (khād),' but I should feel inclined to refer it to the same verb 'khid' (? khad) as 'ākhidat' coming immediately after it. Could Pāṇini's Sūtra VI, 1, 52 refer to this passage? [Kāś. V., Benares edition cikhāda; MS. Indian Office cakhāda.] The Kāṇva text has the same reading: ācakhāda-ākhidat.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मात् खादिरो᳓ यू᳓पो भवति,  
+खादिर᳓ [[स्फ्यो᳓|स्फ्यो᳙]]।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्मात्खादिरो यू᳘पो भवति खादिरः᳘ स्फ्यः
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्मात्खादिरो यू᳘पो भवति खादिरॗ स्फ्यः
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्मात् खादिरो यूपो भवति । खादिरः स्फ्यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - खादिरः᳓ (*TS*-1, *TB*-1/2, *SB-K*-2/5)
 - यू᳓पः (*TS*-14/34, *RV*-1/2, *TB*-5/19, *AV*-1/3, *SB-K*-37/110, *VS-M*-1/2, *VS-K*-0/1)
 - भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-539, *AV*-84, *RV*-27, *TB*-310, *TK*-18)
 - खादिर᳓ (*TS*-1, *TB*-2, *SB-K*-5, *MW* ŚBr., *Macdonell*)
 - स्फ्यः᳙ (*TS*-12, *TB*-4, *SB-K*-6, Weber-पाठः, श्रीधरादि-पाठः)
+</details>
+
+<details><summary>Eggeling</summary>
+
+and because she thereby took possession of him, therefore the sacrificial stake and the wooden sword (sphya) are of khadira wood.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अच्छावाक᳓स्य +++(होतृसाहायकतुल्यस्य)+++ हैनं गोपना᳓यां जहार +++(सा गायत्री)+++ - सो᳓ ऽच्छावाको᳓ ऽहीयत +++(सोमपानात्)+++॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+अ ऽच्छावाक᳘स्य हैनं गोपना᳘यां जहार᳘ सो ऽच्छावा᳘को ऽहीयत॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+अ ऽछावाक᳘स्य हैनं गोपना᳘यां जहारॗ सो ऽछावाॗको ऽहीयत॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+अच्छावाकस्य हैनं गोपनायां जहार । सो ऽच्छावाको ऽहीयत ॥ १२ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - अच्छावाक᳓स्य (*TS*-0/2, *TB*-0/1, *TK*-0/1, *SB-K*-1/16, *MW*)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26)
@@ -909,16 +1230,7 @@ there, now the wind tosses it, that I see;' this is nothing else than the rope.
 - अहीयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
-<details><summary>सायणः</summary>
-
-**खदिरेण हे**ति । सोमाहरणसमये खदिरस्यातिसारत्वात् तं साधनं कृत्वा सोमं भक्षितवती, अतः खादनसाधनत्वात् खदिर इति नाम सम्पन्नम् । अतः खदिरस्य सोमाहरणोपयोगात् सोमयागे यूपः स्फ्यश्च खादिरौ कर्त्तव्यौ । 'अच्छावाकस्य' 'गोपनायाम्' । होत्रकाणामेव सोमरक्षकगन्धर्वरूपत्वादच्छावाकाख्यो होत्रको यदा सोमरक्षकेषु मध्ये रक्षितवान्, तदा गायत्री 'जहार'; अतः 'अच्छावाकः' 'अहीयत' हीनो निकृष्टो ऽभूत् । अत एवेतरहोत्रकवत् प्रथमत एव सदःप्रवेशमपि (न) समालभत ॥ १२ ॥ 
-</details>
-
 <details><summary>Eggeling</summary>
-
-12. She took possession (ā-cakhāda) [^egg_400] of Soma by means of (a stick of) khadira wood (Acacia Catechu), whence (the name) Khadira; and because she thereby took possession of him, therefore the sacrificial stake and the wooden sword (sphya) are of khadira wood.
-
-[^egg_400]: 151:1 Sāyaṇa takes it in the sense of 'she swallowed (khād),' but I should feel inclined to refer it to the same verb 'khid' (? khad) as 'ākhidat' coming immediately after it. Could Pāṇini's Sūtra VI, 1, 52 refer to this passage? [Kāś. V., Benares edition cikhāda; MS. Indian Office cakhāda.] The Kāṇva text has the same reading: ācakhāda-ākhidat.
 
 She then carried him off while he was under the charge of the Achāvāka, wherefore this Achāvāka priest was excluded (from drinking Soma).
 </details>
@@ -983,26 +1295,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् दीक्षिता᳓ रा᳓जानं +++(सोमं)+++ गोपायन्ति॥  
-ने᳓न् नो ऽपह᳓रान् इ᳓ति।  
-त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेद् -  
-य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति ही᳓यते ह॥ 
+ने᳓न् नो ऽपह᳓रान् इ᳓ति।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 (स्त्त᳘) त᳘स्माद्दीक्षिता रा᳘जानं गोपायन्ति॥  
-ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह॥
+ने᳘न्नो ऽपह᳘रानि᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 त᳘स्माद्दीक्षिता रा᳘जानं गोपायन्ति॥  
-ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह॥
+ने᳘न्नो ऽपह᳘रानि᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-तस्माद् दीक्षिता राजानं गोपायन्ति- नेन्नो ऽपहरानिति । तस्मात्तत्र सुगुप्तं चिकीर्षेत्- यस्य ह गोपनायामपहरन्ति । हीयते ह ॥ १४ ॥ 
+तस्माद् दीक्षिता राजानं गोपायन्ति- नेन्नो ऽपहरानिति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1016,6 +1326,41 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - अप (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-30, *TK*-4)
 - ह᳓रान् (नेत्-प्रयोगे निघातप्रतिषेधः पा॰ ८.१.३०)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**तस्माद्दीक्षिता राजानमि**त्यादि । औपोद्धातिकं वाक्यं स्पष्टम् । 'अपहरान्' अपहरेयुः ॥ १४ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+14. Therefore the consecrated keep charge of the king (Soma), 'lest (the Gandharvas) should carry him off.'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेद् -  
+य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति ही᳓यते ह॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्मात्तत्र सुगुप्तं चिकीर्षेत्- यस्य ह गोपनायामपहरन्ति । हीयते ह ॥ १४ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - त᳓त्र (*AV*-62, *TB*-30, *RV*-22, *TS*-14, *TK*-1, *VS-M*-7)
 - सु᳓-गुप्तम् (*SB-K*-9/10, *MW* ŚBr.)
@@ -1029,14 +1374,9 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 </details>
 
-<details><summary>सायणः</summary>
-
-**तस्माद्दीक्षिता राजानमि**त्यादि । औपोद्धातिकं वाक्यं स्पष्टम् । 'अपहरान्' अपहरेयुः ॥ १४ ॥
-</details>
-
 <details><summary>Eggeling</summary>
 
-14. Therefore the consecrated keep charge of the king (Soma), 'lest (the Gandharvas) should carry him off.' Let him therefore guard him diligently, for verily in whosesoever charge they carry him off, he is excluded (from the Soma).
+Let him therefore guard him diligently, for verily in whosesoever charge they carry him off, he is excluded (from the Soma).
 </details>
 
 
@@ -1046,29 +1386,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् ब्रह्मचारि᳓ण [[आचा᳓र्यं|आचार्यं᳙]] गोपायन्ति, गृहा᳓न् पशू᳓न्।  
-ने᳓न् नो ऽपह᳓रान् इ᳓ति।  
-त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेत्।  
-य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति - ही᳓यते ह ते᳓न।  
-
-एते᳓न सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं नि᳓रक्रीणीत।  
-त᳓स्माद् आहुः पु᳓ण्य-लोक ईजान᳓+++(=यजमानः)+++ इ᳓ति॥
+ने᳓न् नो ऽपह᳓रान् इ᳓ति।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 त᳘स्माद्ब्रह्मचारि᳘ण ऽआचा᳘र्यं गोपायन्ति॥  
-गृहा᳘न्पशून्ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह ते᳘नैते᳘न सुपर्णी᳘ देवे᳘भ्य ऽआत्मा᳘नं नि᳘रक्रीणीत त᳘स्मादाहुः पु᳘ण्यलोक ऽईजान ऽइ᳘ति॥
+गृहा᳘न्पशून्ने᳘न्नो ऽपह᳘रानि᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 त᳘स्माद्ब्रह्मचारि᳘ण आचा᳘र्यं गोपायन्ति॥  
-गृहा᳘न्पशून्ने᳘न्नो ऽपह᳘रानि᳘ति त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह ते᳘नैते᳘न सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं नि᳘रक्रीणीत त᳘स्मादाहुः पु᳘ण्यलोक ईजान इ᳘ति॥
+गृहा᳘न्पशून्ने᳘न्नो ऽपह᳘रानि᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-तस्माद्ब्रह्मचारिण आचार्यं गोपायन्ति । गृहान् पशून्नेन्नो ऽपहरानिति । तस्मात्तत्र सुगुप्तं चिकीर्षेद्- यस्य ह गोपनायामपहरन्ति । हीयते ह । तेनैतेन सुपर्णी देवेभ्य आत्मानं निरक्रीणीत । तस्मादाहुः- पुण्यलोक ईजान इति ॥ १५ ॥ 
+तस्माद्ब्रह्मचारिण आचार्यं गोपायन्ति । गृहान् पशून्नेन्नो ऽपहरानिति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1084,6 +1419,41 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - अप (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-30, *TK*-4)
 - ह᳓रान् (नेत्-प्रयोगे निघातप्रतिषेधः पा॰ ८.१.३०)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+[व्याख्यानं चतुर्दशे]
+</details>
+
+<details><summary>Eggeling</summary>
+
+15. Wherefore the students guard their teacher, his house, and cattle, lest he should be taken from them.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मात् त᳓त्र सु᳓गुप्तं चिकीर्षेत्।  
+य᳓स्य ह गोपना᳓याम् अपह᳓रन्ति - ही᳓यते ह ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्मात्त᳘त्र सु᳘गुप्तं चिकीर्षेद्य᳘स्य ह गोपना᳘यामपह᳘रन्ति ही᳘यते ह
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्मात्तत्र सुगुप्तं चिकीर्षेद्- यस्य ह गोपनायामपहरन्ति । हीयते ह ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - त᳓त्र (*AV*-62, *TB*-30, *RV*-22, *TS*-14, *TK*-1, *VS-M*-7)
 - सु᳓-गुप्तम् (*SB-K*-9/10, *MW* ŚBr.)
@@ -1095,6 +1465,38 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - ह᳓रन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TB*-9, *TS*-3)
 - ही᳓यते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-4)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
+</details>
+
+<details><summary>Eggeling</summary>
+
+Let him therefore guard him (Soma) diligently in that place, for verily in whosesoever charge they carry him off, he is excluded therefrom.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓न।  
+
+एते᳓न सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं नि᳓रक्रीणीत।  
+त᳓स्माद् आहुः पु᳓ण्य-लोक ईजान᳓+++(=यजमानः)+++ इ᳓ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते᳘नैते᳘न सुपर्णी᳘ देवे᳘भ्य ऽआत्मा᳘नं नि᳘रक्रीणीत त᳘स्मादाहुः पु᳘ण्यलोक ऽईजान ऽइ᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते᳘नैते᳘न सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं नि᳘रक्रीणीत त᳘स्मादाहुः पु᳘ण्यलोक ईजान इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तेनैतेन सुपर्णी देवेभ्य आत्मानं निरक्रीणीत । तस्मादाहुः- पुण्यलोक ईजान इति ॥ १५ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-166/2709, *TK*-17/363, *AV*-217/3165, *SB-K*-684/20018, *VS-M*-35/768, *VS-K*-25/395)
 - एते᳓न (*TS*-62/1674, *RV*-3/320, *TB*-110/858, *TK*-13/130, *AV*-4/340, *SB-K*-375/10669, *VS-M*-0/129, *VS-K*-1/26)
 - सुपर्णी᳓ (*TS*-2/3, *SB-K*-5/9)
@@ -1109,14 +1511,9 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
 
-<details><summary>सायणः</summary>
-
-[व्याख्यानं चतुर्दशे]
-</details>
-
 <details><summary>Eggeling</summary>
 
-15. Wherefore the students guard their teacher, his house, and cattle, lest he should be taken from them. Let him therefore guard him (Soma) diligently in that place, for verily in whosesoever charge they carry him off, he is excluded therefrom. By means of him Suparṇī redeemed herself from the gods; wherefore they say, 'He who has sacrificed shares in the world of bliss.'
+By means of him Suparṇī redeemed herself from the gods; wherefore they say, 'He who has sacrificed shares in the world of bliss.'
 </details>
 
 
@@ -1125,25 +1522,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋणं᳓ ह [[वै|वै᳓]] पु᳓रुषो जा᳓यमान एव᳓ मृत्यो᳓र् आत्म᳓ना जायते।  
-[[स|स᳓]] [[यद्|य᳓द्]] य᳓जते, य᳓थैव᳓ त᳓त् सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं निर᳓क्रीणीतैव᳓म् एवै᳓ष᳓ एत᳓न् मृत्यो᳓र् आत्मा᳓नं नि᳓ष्क्रीणीते॥+++(5)+++  
+ऋणं᳓ ह [[वै|वै᳓]] पु᳓रुषो जा᳓यमान एव᳓ मृत्यो᳓र् आत्म᳓ना जायते।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 (त्यृ) ऋण᳘ᳫं᳘ ह वै पु᳘रुषो जा᳘यमान एव᳘॥  
-मृत्यो᳘रात्म᳘ना जायते स यद्य᳘जते य᳘थैव त᳘त्सुपर्णी᳘ देवे᳘भ्य ऽआत्मा᳘नं निर᳘क्रीणीतैव᳘मे᳘वैष᳘ ऽएत᳘न्मृत्यो᳘रात्मा᳘नं नि᳘ष्क्रीणीते॥
+मृत्यो᳘रात्म᳘ना जायते
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 ऋण᳘ᳫं᳘ ह वै पु᳘रुषो जा᳘यमान एव᳟॥  
-मृत्यो᳘रात्म᳘ना जायते सयद्य᳘जते य᳘थैव त᳘त्सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं निर᳘क्रीणीतैव᳘मेॗवैष᳘ एत᳘न्मृत्यो᳘रात्मा᳘नं नि᳘ष्क्रीणीते॥
+मृत्यो᳘रात्म᳘ना जायते
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-ऋणं ह वै पुरुषो जायमान एव मृत्योरात्मना जायते । स यद् यजते- यथैव तत् सुपर्णी देवेभ्य आत्मानं निरक्रीणीत- एवमेवैष एतन्मृत्योरात्मानं निष्क्रीणीते ॥ १६ ॥ 
+ऋणं ह वै पुरुषो जायमान एव मृत्योरात्मना जायते ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1157,6 +1553,40 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - मृत्योः᳓ (*TS*-13/40, *RV*-3/15, *TB*-10/35, *TK*-1/8, *AV*-24/100, *SB-K*-46/140, *VS-M*-3/14, *VS-K*-2/12)
 - आत्म᳓ना (*TS*-24/167, *RV*-0/20, *TB*-13/78, *TK*-0/10, *AV*-9/62, *SB-K*-65/1051, *VS-M*-1/22, *VS-K*-0/12)
 - जायते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-66, *RV*-17, *TB*-42, *TK*-2, *AV*-10)
+</details>
+
+<details><summary>सायणः</summary>
+
+सोमाहरणप्रसङ्गात् सुपर्णीदृष्टान्तमुखेन मृत्युभयपरिहाराय सोमयागस्यावश्यकर्त्तव्यतामाह- **ऋणं ह वै पुरुषो जायमान एव मृत्योरात्मना जायत** इत्यादिना । 'जायमान एव मृत्योः' ऋणभावे जननमेवोपाधिरित्यर्थः । इदमृणं प्रातिभाव्यवदन्यत आयातं न भवति, किन्तु स्वत एवायातमित्येवमर्थमाह- 'आत्मना'- इति ॥ १६ ॥
+</details>
+
+<details><summary>Eggeling</summary>
+
+16. Verily, even in being born, man, by his own self, is born as a debt (owing) to death.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[[स|स᳓]] [[यद्|य᳓द्]] य᳓जते, य᳓थैव᳓ त᳓त् सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं निर᳓क्रीणीतैव᳓म् एवै᳓ष᳓ एत᳓न् मृत्यो᳓र् आत्मा᳓नं नि᳓ष्क्रीणीते॥+++(5)+++
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+स यद्य᳘जते य᳘थैव त᳘त्सुपर्णी᳘ देवे᳘भ्य ऽआत्मा᳘नं निर᳘क्रीणीतैव᳘मे᳘वैष᳘ ऽएत᳘न्मृत्यो᳘रात्मा᳘नं नि᳘ष्क्रीणीते॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+सयद्य᳘जते य᳘थैव त᳘त्सुपर्णी᳘ देवे᳘भ्य आत्मा᳘नं निर᳘क्रीणीतैव᳘मेॗवैष᳘ एत᳘न्मृत्यो᳘रात्मा᳘नं नि᳘ष्क्रीणीते॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+स यद् यजते- यथैव तत् सुपर्णी देवेभ्य आत्मानं निरक्रीणीत- एवमेवैष एतन्मृत्योरात्मानं निष्क्रीणीते ॥ १६ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-8/395)
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456)
 - य᳓जते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *TB*-102, *TS*-77, *RV*-6, *TK*-15, *AV*-1)
@@ -1178,14 +1608,9 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - क्रीणीते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-3, *AV*-1)
 </details>
 
-<details><summary>सायणः</summary>
-
-सोमाहरणप्रसङ्गात् सुपर्णीदृष्टान्तमुखेन मृत्युभयपरिहाराय सोमयागस्यावश्यकर्त्तव्यतामाह- **ऋणं ह वै पुरुषो जायमान एव मृत्योरात्मना जायत** इत्यादिना । 'जायमान एव मृत्योः' ऋणभावे जननमेवोपाधिरित्यर्थः । इदमृणं प्रातिभाव्यवदन्यत आयातं न भवति, किन्तु स्वत एवायातमित्येवमर्थमाह- 'आत्मना'- इति ॥ १६ ॥ 
-</details>
-
 <details><summary>Eggeling</summary>
 
-16. Verily, even in being born, man, by his own self, is born as a debt (owing) to death. And in that he sacrifices, thereby he redeems himself from death, even as Suparṇī then redeemed herself from the gods.
+And in that he sacrifices, thereby he redeems himself from death, even as Suparṇī then redeemed herself from the gods.
 </details>
 
 
@@ -1194,25 +1619,22 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓न देवा᳓ अयजन्त ।  
-त᳓मेते᳓ गन्धर्वाः᳓ सोमरक्षा᳓ अन्वा᳓जग्मुस्ते᳙ ऽन्वाग᳓त्याब्रुवन्न᳓नु नो यज्ञ᳓ आ᳓भजत मा᳓ नो यज्ञा᳓दन्त᳓र्गाता᳓स्त्वेव᳓ नो᳓ ऽपि यज्ञे᳓ भाग᳓ इ᳓ति॥
+ते᳓न देवा᳓ अयजन्त ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
-ते᳘न देवा᳘ ऽअयजन्त॥  
-त᳘मेते᳘ गन्धर्व्वाः᳘ सोमरक्षा᳘ ऽअन्वा᳘जग्मु᳘स्ते ऽन्वाग᳘त्याब्रुवन्न᳘नु नो यज्ञ ऽआ᳘भजत मा᳘ नो यज्ञा᳘दन्त᳘र्गाता᳘स्त्वेव नो᳘ ऽपि यज्ञे᳘ भाग इ᳘ति॥
+ते᳘न देवा᳘ ऽअयजन्त॥
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
-ते᳘न देवा᳘ अयजन्त॥  
-त᳘मेते᳘ गन्धर्वाः᳘ सोमरक्षा᳘ अन्वा᳘जग्मुॗस्ते ऽन्वाग᳘त्याब्रुवन्न᳘नु नो यज्ञ आ᳘भजत मा᳘ नो यज्ञा᳘दन्त᳘र्गाता᳘स्त्वेव नो᳘ ऽपि यज्ञे᳘ भाग इ᳘ति॥
+ते᳘न देवा᳘ अयजन्त॥
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-तेन देवा अयजन्त । तमेते गन्धर्वाः सोमरक्षा अन्वाजग्मुः । ते ऽन्वागत्याब्रुवन्- अनु नो यज्ञ आभजत, मा नो यज्ञादन्तर्गात, अस्त्वेव नो ऽपि यज्ञे भाग इति ॥ १७ ॥ 
+तेन देवा अयजन्त ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1220,6 +1642,40 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-166/2709, *TK*-17/363, *AV*-217/3165, *SB-K*-684/20018, *VS-M*-35/768, *VS-K*-25/395)
 - देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-19/350)
 - अयजन्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-12, *RV*-7, *TB*-5, *AV*-3)
+</details>
+
+<details><summary>सायणः</summary>
+
+**तेन देवा अयजन्ते**त्यादि । 'तेन' गायत्र्याहृतेन ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+17. The gods worshipped with him.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓मेते᳓ गन्धर्वाः᳓ सोमरक्षा᳓ अन्वा᳓जग्मुस् ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘मेते᳘ गन्धर्व्वाः᳘ सोमरक्षा᳘ ऽअन्वा᳘जग्मु᳘स्
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘मेते᳘ गन्धर्वाः᳘ सोमरक्षा᳘ अन्वा᳘जग्मुॗस्
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तमेते गन्धर्वाः सोमरक्षा अन्वाजग्मुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-63/395)
 - एते᳓ (*TS*-102/1674, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/26)
 - गन्धर्वाः᳓ (*TS*-3/30, *RV*-1/20, *TB*-0/1, *AV*-8/32, *SB-K*-24/45, *VS-M*-2/15, *VS-K*-1/15)
@@ -1227,6 +1683,35 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - अनु (गतिर्गतौ पा॰ ८.१.७०, *TB*-31, *TK*-5)
 - आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36)
 - जग्मुस् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1)
+</details>
+
+<details><summary>Eggeling</summary>
+
+Those Gandharva Soma-wardens came after him;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳙ ऽन्वाग᳓त्याब्रुवन्न᳓नु नो यज्ञ᳓ आ᳓भजत मा᳓ नो यज्ञा᳓दन्त᳓र्गाता᳓स्त्वेव᳓ नो᳓ ऽपि यज्ञे᳓ भाग᳓ इ᳓ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते ऽन्वाग᳘त्याब्रुवन्न᳘नु नो यज्ञ ऽआ᳘भजत मा᳘ नो यज्ञा᳘दन्त᳘र्गाता᳘स्त्वेव नो᳘ ऽपि यज्ञे᳘ भाग इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते ऽन्वाग᳘त्याब्रुवन्न᳘नु नो यज्ञ आ᳘भजत मा᳘ नो यज्ञा᳘दन्त᳘र्गाता᳘स्त्वेव नो᳘ ऽपि यज्ञे᳘ भाग इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ते ऽन्वागत्याब्रुवन्- अनु नो यज्ञ आभजत, मा नो यज्ञादन्तर्गात, अस्त्वेव नो ऽपि यज्ञे भाग इति ॥ १७ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-83/395)
 - अन्वा-ग᳓त्य (समासस्य पा॰ ६.१.२२३, ल्यप्, *MW* ŚBr.)
 - अब्रुवन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-55, *AV*-8, *RV*-3, *TB*-30, *TK*-3)
@@ -1251,12 +1736,14 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 <details><summary>सायणः</summary>
 
-**तेन देवा अयजन्ते**त्यादि । 'तेन' गायत्र्याहृतेन । **अनु नो यज्ञ आ भजते**ति । 'नः' अस्मानपि अस्मिन् 'यज्ञे' 'अन्वाभजत' अन्वाभाजयत, हविर्भागयुक्तान् युष्मानस्मानपि भागिनः कुरुत । उक्तवैपरीत्यप्रतिषेधः- **मा नो यज्ञादि**ति । 'अन्तर्गात' अन्तरितान् मा कार्ष्ट । "इणो गा लुङि"- (पा. सू. २ । ४ । ४५) इति गादेशे, "गातिस्था"- (पा. सू. २ । ४ । ७७) इति सिचो लुक् ॥ १७ ॥ १८ ॥
+**अनु नो यज्ञ आ भजते**ति । 'नः' अस्मानपि अस्मिन् 'यज्ञे' 'अन्वाभजत' अन्वाभाजयत, हविर्भागयुक्तान् युष्मानस्मानपि भागिनः कुरुत ।
+
+उक्तवैपरीत्यप्रतिषेधः- **मा नो यज्ञादि**ति । 'अन्तर्गात' अन्तरितान् मा कार्ष्ट । "इणो गा लुङि"- (पा. सू. २ । ४ । ४५) इति गादेशे, "गातिस्था"- (पा. सू. २ । ४ । ७७) इति सिचो लुक् ॥ १७ ॥ १८ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-17. The gods worshipped with him. Those Gandharva Soma-wardens came after him; and having come up they said, 'Do ye let us share in the sacrifice, exclude us not from the sacrifice; let there be for us also a share in the sacrifice!'
+and having come up they said, 'Do ye let us share in the sacrifice, exclude us not from the sacrifice; let there be for us also a share in the sacrifice!'
 </details>
 
 
@@ -1266,24 +1753,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ होचुः ।  
-किं᳓ नस्त᳓तः स्यादि᳓ति य᳓थैवा᳙स्या᳓मु᳓त्र गोप्ता᳓रो᳓ ऽभूमैव᳓मेवा᳙स्या᳓पीह᳓ गोप्ता᳓रो भविष्याम इ᳓ति॥
+किं᳓ नस्त᳓तः स्यादि᳓ति ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 ते᳘ होचुः॥  
-किं᳘ नस्त᳘तः स्यादि᳘ति य᳘थै᳘वास्यामु᳘त्र गोप्तारो᳘ ऽभूमैव᳘मे᳘वास्या᳘पीह᳘ गोप्ता᳘रो भविष्याम इ᳘ति॥
+किं᳘ नस्त᳘तः स्यादि᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 ते᳘ होचुः॥  
-किं᳘ नस्त᳘तः स्यादि᳘ति य᳘थैॗवास्यामु᳘त्र गोप्तारो᳘ ऽभूमैव᳘मेॗवास्या᳘पीह᳘ गोप्ता᳘रो भविष्याम इ᳘ति॥
+किं᳘ नस्त᳘तः स्यादि᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-ते होचुः- किं नस्ततः स्यादिति । यथैवास्यामुत्र गोप्तारो ऽभूम- एवमेवास्यापीह गोप्तारो भविष्याम इति ॥ १८ ॥ 
+ते होचुः- किं नस्ततः स्यादिति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1296,6 +1783,40 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - त᳓तः (*TS*-131, *AV*-76, *RV*-23, *VS-M*-22, *TB*-129, *TK*-22)
 - स्यात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-9, *TB*-60, *TK*-1, *AV*-6)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+[व्याख्यानं सप्तदशे]
+</details>
+
+<details><summary>Eggeling</summary>
+
+18. They said, 'What will there be for us, then?'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓थैवा᳙स्या᳓मु᳓त्र गोप्ता᳓रो᳓ ऽभूमैव᳓मेवा᳙स्या᳓पीह᳓ गोप्ता᳓रो भविष्याम इ᳓ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+य᳘थै᳘वास्यामु᳘त्र गोप्तारो᳘ ऽभूमैव᳘मे᳘वास्या᳘पीह᳘ गोप्ता᳘रो भविष्याम इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+य᳘थैॗवास्यामु᳘त्र गोप्तारो᳘ ऽभूमैव᳘मेॗवास्या᳘पीह᳘ गोप्ता᳘रो भविष्याम इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+यथैवास्यामुत्र गोप्तारो ऽभूम- एवमेवास्यापीह गोप्तारो भविष्याम इति ॥ १८ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - य᳓था (*MW* ŚBr., *AV*-254, *RV*-238, *TS*-123, *TB*-59, *TK*-5, *VS-M*-27)
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24)
 - अस्य᳓ (*TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-K*-674/5549, *VS-M*-25/313, *VS-K*-16/151)
@@ -1312,14 +1833,9 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
 </details>
 
-<details><summary>सायणः</summary>
-
-[व्याख्यानं सप्तदशे]
-</details>
-
 <details><summary>Eggeling</summary>
 
-18. They said, 'What will there be for us, then?'--'Even as in yonder world we have been his keepers, so also will we be his keepers here on earth!'
+--'Even as in yonder world we have been his keepers, so also will we be his keepers here on earth!'
 </details>
 
 
@@ -1424,24 +1940,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓दग्नौ᳓ होष्य᳓न्ति ।  
-त᳓द्वो विष्य᳓ती᳓ति स᳓ य᳓दग्नौ᳓ जु᳓ह्वति त᳓देनानवत्य᳓थ य᳓द्वः सो᳓मम् बि᳓भ्रत उप᳓र्युपरि चरिष्य᳓न्ति त᳓द्वो विष्य᳓ती᳓ति स᳓ य᳓देनान्त्सो᳓मम् बि᳓भ्रत उप᳓र्युपरि च᳓रन्ति त᳓देनानवति त᳓स्मादध्वर्युः᳓ सम᳓या धि᳓ष्ण्यान्ना᳓तीयादध्वर्यु᳓र्हि᳓ सो᳓मम् बिभ᳓र्ति त᳓मेते व्या᳓त्तेन प्र᳓त्यासते स᳓ एते᳓षां व्या᳓त्तमा᳓पद्येत त᳓मग्नि᳓र्वाभिद᳓हेद्यो᳓ वायं᳓ देवः᳓ पशूना᳓मी᳓ष्टे स᳓ वा हैनमभि᳓मन्येत त᳓स्माद्य᳓द्यध्वर्योः᳓ शा᳓लायाम᳓र्थः स्या᳓दु᳓त्तरेणैवा᳙ग्नीध्री᳓यं सं᳓चरेत्॥
+त᳓द्वो विष्य᳓ती᳓ति ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 (त्य᳘) अ᳘थ य᳘दग्नौ᳘ होष्य᳘न्ति॥  
-त᳘द्वो ऽविष्यती᳘ति स य᳘दग्नौ जु᳘ह्वति त᳘देनानवत्य᳘थ य᳘द्वः सो᳘मं बि᳘भ्रत ऽउप᳘र्युपरि चरिष्य᳘न्ति त᳘द्वो ऽविष्यती᳘ति स य᳘देनान्त्सो᳘मं बि᳘भ्रत ऽउपर्युप᳘रि[[!!]] च᳘रन्ति त᳘देनानवति त᳘स्मादध्वर्युः᳘ सम᳘या धि᳘ष्ण्यान्ना᳘तीयादध्वर्युर्हि सो᳘मं बि᳘भ᳘र्त्ति त᳘मेते व्या᳘त्तेन प्र᳘त्यासते स᳘ ऽएते᳘षां व्या᳘त्तमा᳘पद्येत᳘ त᳘मग्नि᳘र्व्वा भिद᳘हेद्यो᳘ वा ऽयं᳘ देवः᳘ पशूनामी᳘ष्टे स᳘ वा हैनमभि᳘मन्येत त᳘स्माद्य᳘द्यध्वर्योः शा᳘लायाम᳘र्थः स्यादु᳘त्तरेणै᳘वाग्नीध्री᳘यᳫं᳭ स᳘ञ्चरेत्॥
+त᳘द्वो ऽविष्यती᳘ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 अ᳘थ य᳘दग्नौ᳘ होष्य᳘न्ति॥  
-त᳘द्वो विष्यती᳘ति स य᳘दग्नौ जु᳘ह्वति त᳘देनानवत्य᳘थ य᳘द्वः सो᳘मम् बि᳘भ्रत उप᳘र्युपरि चरिष्य᳘न्ति त᳘द्वो विष्यती᳘ति स य᳘देनान्त्सो᳘मम् बि᳘भ्रत उप᳘र्युपरि च᳘रन्ति त᳘देनानवति त᳘स्मादध्वर्युः᳘ सम᳘या धि᳘ष्ण्यान्ना᳘तीयादध्वर्युर्हि सो᳘मम् बिभ᳘र्ति त᳘मेते व्या᳘त्तेन प्र᳘त्यासते स᳘ एते᳘षां व्या᳘त्तमा᳘पद्येत त᳘मग्नि᳘र्वाभिद᳘हेद्यो᳘ वायं᳘ देवः᳘ पशूनामी᳘ष्टे स᳘ वा हैनमभि᳘मन्येत त᳘स्माद्य᳘द्यध्वर्योः शा᳘लायाम᳘र्थः स्यादु᳘त्तरेणैॗवाग्नीध्री᳘यᳫं सं᳘चरेत्॥
+त᳘द्वो विष्यती᳘ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-अथ यदग्नौ होष्यन्ति- तद् वो ऽविष्यतीति । स यदग्नौ जुह्वति- तदेनानवति । अथ यद् वः सोमं बिभ्रते उपर्युपरि चरिष्यन्ति- तद्धो ऽविष्यतीति । स यदेनान् सोमं बिभ्रते उपर्युपरि चरन्ति- तदेनानवति । तस्मादध्वर्युः समया धिष्ण्यान्नातीयात् । अध्वर्युर्हि सोमं बिभर्ति । तमेते व्यात्तेन प्रत्यासते । स एतेषां व्यस्तमापद्येत । तमग्निर्वाभिदहेत्, यो वा ऽयं देवः पशूनामीष्टे- स वा हैनमभिमन्येत । तस्माद् यद्यध्वर्योः शालायामर्थः स्यात्- उत्तरेणैवाग्नीध्रीयं सञ्चरेत् ॥ २० ॥ 
+अथ यदग्नौ होष्यन्ति- तद् वो ऽविष्यतीति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1455,6 +1971,40 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1)
 - स्य᳓ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**अथ यदग्नौ होष्यन्ती**ति । 'अथ' प्रदीपनानन्तरम्, 'अग्नौ' प्रदीप्ते, अग्निष्वित्यर्थः । 'होष्यन्ति', 'तद्' आज्यं 'वः' युष्मान् 'अविष्यति' तर्पयिष्यति 'इति' देववाक्यम् ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+20. 'And what they will offer in the fire that will satiate you;' hence that which they offer in the fire satiates them.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ य᳓दग्नौ᳓ जु᳓ह्वति त᳓देनानवत्य᳓थ य᳓द्वः सो᳓मम् बि᳓भ्रत उप᳓र्युपरि चरिष्य᳓न्ति त᳓द्वो विष्य᳓ती᳓ति ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+स य᳘दग्नौ जु᳘ह्वति त᳘देनानवत्य᳘थ य᳘द्वः सो᳘मं बि᳘भ्रत ऽउप᳘र्युपरि चरिष्य᳘न्ति त᳘द्वो ऽविष्यती᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+स य᳘दग्नौ जु᳘ह्वति त᳘देनानवत्य᳘थ य᳘द्वः सो᳘मम् बि᳘भ्रत उप᳘र्युपरि चरिष्य᳘न्ति त᳘द्वो विष्यती᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+स यदग्नौ जुह्वति- तदेनानवति । अथ यद् वः सोमं बिभ्रते उपर्युपरि चरिष्यन्ति- तद्धो ऽविष्यतीति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-8/395)
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456)
 - अग्नौ᳓ (*TS*-32/1195, *RV*-22/856, *TB*-30/520, *TK*-5/105, *AV*-17/419, *SB-K*-178/2289, *VS-M*-8/322, *VS-K*-3/193)
@@ -1474,6 +2024,37 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1)
 - स्य᳓ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+तत्तात्पर्यं श्रुतिः स्वयमेव दर्शयति- **स यदग्नौ जुह्वती**ति ।
+
+तर्हि सोमाहुतिः कथं लभ्यत इति तत्राह- **अथ यद् वः सोमं बिभ्रत उपर्युपरि चरिष्यन्ति, तद् वो ऽविष्यती**ति । स्पष्टमन्यत् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ य᳓देनान्त्सो᳓मम् बि᳓भ्रत उप᳓र्युपरि च᳓रन्ति त᳓देनानवति ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+स य᳘देनान्त्सो᳘मं बि᳘भ्रत ऽउपर्युप᳘रि[[!!]] च᳘रन्ति त᳘देनानवति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+स य᳘देनान्त्सो᳘मम् बि᳘भ्रत उप᳘र्युपरि च᳘रन्ति त᳘देनानवति
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+स यदेनान् सोमं बिभ्रते उपर्युपरि चरन्ति- तदेनानवति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-8/395)
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456)
 - एनान् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *AV*-38, *TS*-33, *RV*-8, *TB*-33, *TK*-1)
@@ -1484,6 +2065,30 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395)
 - एनान् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *AV*-38, *TS*-33, *RV*-8, *TB*-33, *TK*-1)
 - अवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-2, *TB*-1, *AV*-2)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मादध्वर्युः᳓ सम᳓या धि᳓ष्ण्यान्ना᳓तीयात् ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्मादध्वर्युः᳘ सम᳘या धि᳘ष्ण्यान्ना᳘तीयात्
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्मादध्वर्युः᳘ सम᳘या धि᳘ष्ण्यान्ना᳘तीयात्
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्मादध्वर्युः समया धिष्ण्यान्नातीयात् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - अध्वर्युः᳓ (*TS*-54/96, *RV*-9/28, *TB*-22/34, *TK*-1, *AV*-3/4, *SB-K*-174/250, *VS-M*-0/11, *VS-K*-0/4)
 - सम᳓या (*RV*-9, *VS-M*-1, *TS*-1)
@@ -1491,6 +2096,35 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - न᳓ (*RV*-2095, *TS*-758, *AV*-649, *TB*-429, *TK*-53)
 - अ᳓ति (*RV*-189, *AV*-103, *TS*-75, *TB*-79, *TK*-11)
 - इयात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-23, *RV*-2, *TB*-6)
+</details>
+
+<details><summary>सायणः</summary>
+
+सोमधारकस्याध्वर्योर्धिष्ण्यातिक्रमं प्रसक्तं निषेधति- **तस्मादध्वर्युः समया धिष्ण्यान्नातीयादि**ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अध्वर्यु᳓र्हि᳓ सो᳓मम् बिभ᳓र्ति त᳓मेते व्या᳓त्तेन प्र᳓त्यासते ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+अध्वर्युर्हि सो᳘मं बि᳘भ᳘र्त्ति त᳘मेते व्या᳘त्तेन प्र᳘त्यासते
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+अध्वर्युर्हि सो᳘मम् बिभ᳘र्ति त᳘मेते व्या᳘त्तेन प्र᳘त्यासते
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+अध्वर्युर्हि सोमं बिभर्ति । तमेते व्यात्तेन प्रत्यासते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - अध्वर्युः᳓ (*TS*-54/96, *RV*-9/28, *TB*-22/34, *TK*-1, *AV*-3/4, *SB-K*-174/250, *VS-M*-0/11, *VS-K*-0/4)
 - हि᳓ (*RV*-662, *TS*-456, *AV*-155, *TB*-212, *TK*-8, *VS-M*-48)
 - सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-29/107)
@@ -1500,6 +2134,46 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - वि-आ᳓-अत्तेन (*SB-K*-2/6, गतिरनन्तरः पा॰ ६.२.४९)
 - प्र᳓ति (*TS*-334, *RV*-247, *AV*-196, *VS-M*-1, *TB*-230, *TK*-11)
 - आसते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-28, *AV*-22, *TS*-6, *TB*-3, *TK*-1)
+</details>
+
+<details><summary>सायणः</summary>
+
+**तमेते व्यात्तेन प्रत्यासत** इत्यादि । 'तम्' अध्वर्युम् 'एते' सोमरक्षकाः धिष्ण्याग्नयः 'व्यात्तेन' विवृतेनास्येनोपलक्षिताः सन्तः, प्रतीक्ष्य निवसन्ति । 'सः' अपि धिष्ण्यानतिक्रामन् 'एतेषां' 'व्यात्तं' विवृतं मुखं प्रविशेत् ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+'And when they will move about, holding the Soma over each [^egg_403], that will satiate you;' hence when they move about, holding the Soma over each (hearth), that satiates them.
+
+[^egg_403]: 152:3 Yad vā uparyupari somam bibhrataḥ saṁcarishyanti, Kāṇva rec. (? holding the Soma close above the dhishṇyas). This passage  apparently refers to the Camasa-Adhvaryus or cup-bearers, who at the time of the Savanas hold up their cups filled with Soma, which, after libations have been made of it on the fire, is drunk by the priests.
+
+ Wherefore let not the Adhvaryu pass between [^egg_404] the hearths, for the Adhvaryu carries the Soma, and they sit waiting for him (Soma) with open mouths, and he would enter into their open mouths; and either Agni would burn him, or else that god who rules over beasts (Rudra) would seek after him; hence whenever the Adhvaryu should have business in the hall, let him pass north of the Āgnīdhra shed.
+
+[^egg_404]: 153:1 Samayā; the Kāṇva text has 'pratyaṅ (in going to the back)' instead.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓ एते᳓षां व्या᳓त्तमा᳓पद्येत त᳓मग्नि᳓र्वाभिद᳓हेद्यो᳓ वायं᳓ देवः᳓ पशूना᳓मी᳓ष्टे स᳓ वा हैनमभि᳓मन्येत ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+स᳘ ऽएते᳘षां व्या᳘त्तमा᳘पद्येत᳘ त᳘मग्नि᳘र्व्वा भिद᳘हेद्यो᳘ वा ऽयं᳘ देवः᳘ पशूनामी᳘ष्टे स᳘ वा हैनमभि᳘मन्येत
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+स᳘ एते᳘षां व्या᳘त्तमा᳘पद्येत त᳘मग्नि᳘र्वाभिद᳘हेद्यो᳘ वायं᳘ देवः᳘ पशूनामी᳘ष्टे स᳘ वा हैनमभि᳘मन्येत
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+स एतेषां व्यस्तमापद्येत । तमग्निर्वाभिदहेत्, यो वा ऽयं देवः पशूनामीष्टे- स वा हैनमभिमन्येत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-8/395)
 - एते᳓षाम् (*TS*-5/1674, *RV*-0/320, *TB*-7/858, *TK*-1/130, *AV*-0/340, *SB-K*-42/10669, *VS-M*-0/129, *VS-K*-0/26)
 - वि-आ᳓-अत्तम् (*SB-K*-4/6, गतिरनन्तरः पा॰ ६.२.४९)
@@ -1522,6 +2196,37 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26)
 - अभि᳓ (*RV*-754, *AV*-269, *TS*-345, *TB*-262, *TK*-15, *VS-M*-96)
 - मन्येत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *AV*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+प्रवेशे का हानिरित्यत आह- **तमग्निर्वा ऽभिदहेद् यो वा ऽयं देवः पशूनामि**ति ।
+
+**स वा हैनमभि मन्येते**ति । अभिमानो हिंसेच्छा ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्माद्य᳓द्यध्वर्योः᳓ शा᳓लायाम᳓र्थः स्या᳓दु᳓त्तरेणैवा᳙ग्नीध्री᳓यं सं᳓चरेत्॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्माद्य᳘द्यध्वर्योः शा᳘लायाम᳘र्थः स्यादु᳘त्तरेणै᳘वाग्नीध्री᳘यᳫं᳭ स᳘ञ्चरेत्॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्माद्य᳘द्यध्वर्योः शा᳘लायाम᳘र्थः स्यादु᳘त्तरेणैॗवाग्नीध्री᳘यᳫं सं᳘चरेत्॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्माद् यद्यध्वर्योः शालायामर्थः स्यात्- उत्तरेणैवाग्नीध्रीयं सञ्चरेत् ॥ २० ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - य᳓दि (*MW*, *AV*-89, *RV*-76, *TS*-73, *TB*-45, *TK*-7, *VS-M*-6)
 - अध्वर्योः᳓ (*TS*-6/96, *RV*-2/28, *TB*-2/34, *TK*-0/1, *AV*-0/4, *SB-K*-13/250, *VS-M*-0/11, *VS-K*-1/4)
@@ -1537,18 +2242,7 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 <details><summary>सायणः</summary>
 
-**अथ यदग्नौ होष्यन्ती**ति । 'अथ' प्रदीपनानन्तरम्, 'अग्नौ' प्रदीप्ते, अग्निष्वित्यर्थः । 'होष्यन्ति', 'तद्' आज्यं 'वः' युष्मान् 'अविष्यति' तर्पयिष्यति 'इति' देववाक्यम् । तत्तात्पर्यं श्रुतिः स्वयमेव दर्शयति- **स यदग्नौ जुह्वती**ति । तर्हि सोमाहुतिः कथं लभ्यत इति तत्राह- **अथ यद् वः सोमं बिभ्रत उपर्युपरि चरिष्यन्ति, तद् वो ऽविष्यती**ति । स्पष्टमन्यत् । सोमधारकस्याध्वर्योर्धिष्ण्यातिक्रमं प्रसक्तं निषेधति- **तस्मादध्वर्युः समया धिष्ण्यान्नातीयादि**ति । **तमेते व्यात्तेन प्रत्यासत** इत्यादि । 'तम्' अध्वर्युम् 'एते' सोमरक्षकाः धिष्ण्याग्नयः 'व्यात्तेन' विवृतेनास्येनोपलक्षिताः सन्तः, प्रतीक्ष्य निवसन्ति । 'सः' अपि धिष्ण्यानतिक्रामन् 'एतेषां' 'व्यात्तं' विवृतं मुखं प्रविशेत् । प्रवेशे का हानिरित्यत आह- **तमग्निर्वा ऽभिदहेद् यो वा ऽयं देवः पशूनामि**ति । **स वा हैनमभि मन्येते**ति । अभिमानो हिंसेच्छा । तर्हि सञ्चारे ऽपेक्षिते क उपाय इति तं दर्शयति- **तस्माद् यद्यध्वर्योः शालायामि**ति । 'यदि' 'अर्थः स्यात् शालायां' प्राग्वंशे प्रयोजनं भवेत् ॥ २० ॥ 
-</details>
-
-<details><summary>Eggeling</summary>
-
-20. 'And what they will offer in the fire that will satiate you;' hence that which they offer in the fire satiates them. 'And when they will move about, holding the Soma over each [^egg_403], that will satiate you;' hence when they move about, holding the Soma over each (hearth), that satiates them.
-
-[^egg_403]: 152:3 Yad vā uparyupari somam bibhrataḥ saṁcarishyanti, Kāṇva rec. (? holding the Soma close above the dhishṇyas). This passage  apparently refers to the Camasa-Adhvaryus or cup-bearers, who at the time of the Savanas hold up their cups filled with Soma, which, after libations have been made of it on the fire, is drunk by the priests.
-
- Wherefore let not the Adhvaryu pass between [^egg_404] the hearths, for the Adhvaryu carries the Soma, and they sit waiting for him (Soma) with open mouths, and he would enter into their open mouths; and either Agni would burn him, or else that god who rules over beasts (Rudra) would seek after him; hence whenever the Adhvaryu should have business in the hall, let him pass north of the Āgnīdhra shed.
-
-[^egg_404]: 153:1 Samayā; the Kāṇva text has 'pratyaṅ (in going to the back)' instead.
+तर्हि सञ्चारे ऽपेक्षिते क उपाय इति तं दर्शयति- **तस्माद् यद्यध्वर्योः शालायामि**ति । 'यदि' 'अर्थः स्यात् शालायां' प्राग्वंशे प्रयोजनं भवेत् ॥ २० ॥
 </details>
 
 
@@ -1618,26 +2312,24 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षां वा᳓ अर्धा᳓नुपकिर᳓न्ति ।  
-अर्धा᳓न᳓नुदिशन्त्येत᳓ उ हैवै᳙त᳓द्दध्रिरे ऽर्धा᳓न्न उपकिर᳓न्त्वर्धा᳓न᳓नुदिशन्तु त᳓था य᳓स्माल्लोका᳓दा᳓गताः स्मो᳓ दिव᳓स्त᳓था तं᳓ लोक᳓म् प्रतिप्र᳓ज्ञास्यामस्त᳓था न᳓ जिह्मा᳓ एष्याम इ᳓ति॥
+अर्धा᳓न᳓नुदिशन्ति ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 (त्त᳘) ते᳘षां वा᳘ ऽअर्द्धा᳘नुपकिर᳘न्ति॥  
-(न्त्य) अर्द्धान᳘नुदिशन्त्येत᳘ ऽउ है᳘वैत᳘द्दध्रिरे ऽर्द्धा᳘न्न ऽउपकिर᳘न्त्वर्द्धान᳘नुदिशन्तु᳘ त᳘था य᳘स्माल्लोकादा᳘गताः स्मो᳘ दिवस्त᳘था तं᳘ लोकं᳘[[!!]] प्रति प्र᳘ज्ञास्यामस्त᳘था न᳘ जिह्मा᳘ ऽएष्याम इ᳘ति॥
+(न्त्य) अर्द्धान᳘नुदिशन्ति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 ते᳘षां वा᳘ अर्धा᳘नुपकिर᳘न्ति॥  
-अर्धान᳘नुदिशन्त्येत᳘ उ हैॗवैत᳘द्दध्रिरे ऽर्धा᳘न्न उपकिर᳘न्त्वर्धान᳘नुदिशन्तु त᳘था य᳘स्माल्लोकादा᳘गताः स्मो᳘ दिवस्त᳘था तं᳘ लो᳘कम् प्रतिप्र᳘ज्ञास्यामस्त᳘था न᳘ जिह्मा᳘ [^wbr_4] एष्याम इ᳘ति॥  
-
-[^wbr_4]: जिह्या A.
+अर्धान᳘नुदिशन्ति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-तेषां वा ऽअर्द्धानुपकिरन्ति, अर्द्धाननुदिशन्ति । एत उ हैतद् दध्रिरे- अर्द्धान्न उपकिरन्तु, अर्द्धाननुदिशन्तु । तथा यस्माल्लोकादागताः स्मो दिवः- तथा तं लोकं प्रतिप्रज्ञास्यामः । तथा न जिह्मा एष्याम इति ॥ २२ ॥ 
+तेषां वा ऽअर्द्धानुपकिरन्ति, अर्द्धाननुदिशन्ति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1650,6 +2342,44 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - अर्धा᳓न् (*TS*-0/9, *RV*-0/6, *TB*-0/14, *AV*-0/4, *SB-K*-3/49, *VS-M*-0/1, *MW*, *Macdonell*, *Lanman*)
 - अ᳓नु (*RV*-475, *TS*-471, *AV*-299, *TB*-221, *TK*-67, *VS-M*-115)
 - दिशन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>सायणः</summary>
+
+सर्वेषां सोमरक्षकत्वे समाने सदोगतानां धिष्ण्यानामिव कथमितरेषामनुदेशनं नास्तीत्यत आह- **तेषां वा अर्द्धानुपकिरन्त्यर्द्धाननुदिशन्ती**त्यादिना । अनुदेशो नाम विद्यमानपदार्थ एवं भवतीति निर्देशः । अत एवाहवनीयादौ तत्तद्गन्धर्वात्मना "सम्राडसि कृशानुः"- (वा. सं. ५ । ३२ । ८) इत्याद्यनुदेशः क्रियते । अर्द्धा धिष्ण्याः कर्त्तव्याः, केचन अनुदेश्या इति विधिरुन्नीयते ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+22. They are in part raised [^egg_405], in part they are assigned [^egg_406].
+
+[^egg_405]: 153:2 That is, bestrewed with gravel.
+
+[^egg_406]: 153:3 When the dhishṇyas have been completed, the Adhvaryu, standing east of the front door of the Sadas, has to point at the Āhavanīya, the Bahishpavamāna-place, the pit whence the earth for the hearths and high altar was taken, the slaughtering place, the Udumbara post, the Brahman's seat, the (old Āhavanīya at the) hall-door, the old Gārhapatya, and the Utkara (heap of rubbish) one by one with the texts, Vāj. S. V, 32, 2, &c. Kāty. VIII, 6, 23, 24.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एत᳓ उ हैवै᳙त᳓द्दध्रिरे ऽर्धा᳓न्न उपकिर᳓न्त्वर्धा᳓न᳓नुदिशन्तु ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+एत᳘ ऽउ है᳘वैत᳘द्दध्रिरे ऽर्द्धा᳘न्न ऽउपकिर᳘न्त्वर्द्धान᳘नुदिशन्तु᳘
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+एत᳘ उ हैॗवैत᳘द्दध्रिरे ऽर्धा᳘न्न उपकिर᳘न्त्वर्धान᳘नुदिशन्तु
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+एत उ हैतद् दध्रिरे- अर्द्धान्न उपकिरन्तु, अर्द्धाननुदिशन्तु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - एते᳓ (*TS*-102/1674, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/26)
 - उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *TB*-121, *TK*-49)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
@@ -1663,6 +2393,37 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 - अर्धा᳓न् (*TS*-0/9, *RV*-0/6, *TB*-0/14, *AV*-0/4, *SB-K*-3/49, *VS-M*-0/1, *MW*, *Macdonell*, *Lanman*)
 - अ᳓नु (*RV*-475, *TS*-471, *AV*-299, *TB*-221, *TK*-67, *VS-M*-115)
 - दिशन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>Eggeling</summary>
+
+And, in truth, they themselves insisted thereon, saying, 'They shall in part raise us, and in part they shall assign us;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓था य᳓स्माल्लोका᳓दा᳓गताः स्मो᳓ दिव᳓स्त᳓था तं᳓ लोक᳓म् प्रतिप्र᳓ज्ञास्यामस्त᳓था न᳓ जिह्मा᳓ एष्याम इ᳓ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘था य᳘स्माल्लोकादा᳘गताः स्मो᳘ दिवस्त᳘था तं᳘ लोकं᳘[[!!]] प्रति प्र᳘ज्ञास्यामस्त᳘था न᳘ जिह्मा᳘ ऽएष्याम इ᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘था य᳘स्माल्लोकादा᳘गताः स्मो᳘ दिवस्त᳘था तं᳘ लो᳘कम् प्रतिप्र᳘ज्ञास्यामस्त᳘था न᳘ जिह्मा᳘ [^wbr_4] एष्याम इ᳘ति॥
+
+[^wbr_4]: जिह्या A.
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तथा यस्माल्लोकादागताः स्मो दिवः- तथा तं लोकं प्रतिप्रज्ञास्यामः । तथा न जिह्मा एष्याम इति ॥ २२ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓था (*AV*-43, *RV*-15, *TB*-17, *TS*-11, *TK*-2)
 - य᳓स्मात् (*TS*-4/3383, *RV*-6/4011, *TB*-7/1735, *TK*-2/227, *AV*-16/3120, *SB-K*-44/8438, *VS-M*-5/639, *VS-K*-0/456)
 - लोका᳓त् (*TS*-18/676, *RV*-0/31, *TB*-10/384, *TK*-2/123, *AV*-9/191, *SB-K*-42/1158, *VS-M*-1/48, *VS-K*-1/39)
@@ -1684,16 +2445,12 @@ She then carried him off while he was under the charge of the Achāvāka, wheref
 
 <details><summary>सायणः</summary>
 
-सर्वेषां सोमरक्षकत्वे समाने सदोगतानां धिष्ण्यानामिव कथमितरेषामनुदेशनं नास्तीत्यत आह- **तेषां वा अर्द्धानुपकिरन्त्यर्द्धाननुदिशन्ती**त्यादिना । अनुदेशो नाम विद्यमानपदार्थ एवं भवतीति निर्देशः । अत एवाहवनीयादौ तत्तद्गन्धर्वात्मना "सम्राडसि कृशानुः"- (वा. सं. ५ । ३२ । ८) इत्याद्यनुदेशः क्रियते । अर्द्धा धिष्ण्याः कर्त्तव्याः, केचन अनुदेश्या इति विधिरुन्नीयते । द्वैरूप्ये कारणमाह- **तथा यस्मादि**ति । 'तथा' सति, धिष्ण्यनिवापाभावे सति यल्लोकं पूर्वमवस्थितं द्युलोकं 'प्रति प्रज्ञास्यामः' जानीम इति, 'तथा न जिह्माः एष्याम इतीति' । द्युलोकं सर्वथा परित्यज्य भूमौ कृतनिवासानां पुनर्द्युगमने सति जिह्मता स्यात् । सर्वेषां केवलमनुदेशने भूलोके प्रत्यक्षता न स्यात् । अत उभयार्थमुभयथाकरणम् ॥ २२ ॥ २३ ॥ 
+द्वैरूप्ये कारणमाह- **तथा यस्मादि**ति । 'तथा' सति, धिष्ण्यनिवापाभावे सति यल्लोकं पूर्वमवस्थितं द्युलोकं 'प्रति प्रज्ञास्यामः' जानीम इति, 'तथा न जिह्माः एष्याम इतीति' । द्युलोकं सर्वथा परित्यज्य भूमौ कृतनिवासानां पुनर्द्युगमने सति जिह्मता स्यात् । सर्वेषां केवलमनुदेशने भूलोके प्रत्यक्षता न स्यात् । अत उभयार्थमुभयथाकरणम् ॥ २२ ॥ २३ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-22. They are in part raised [^egg_405], in part they are assigned [^egg_406]. And, in truth, they themselves insisted thereon, saying, 'They shall in part raise us, and in part they shall assign us; thus we shall know again that heavenly world from which we have come, thus we shall not go astray.'
-
-[^egg_405]: 153:2 That is, bestrewed with gravel.
-
-[^egg_406]: 153:3 When the dhishṇyas have been completed, the Adhvaryu, standing east of the front door of the Sadas, has to point at the Āhavanīya, the Bahishpavamāna-place, the pit whence the earth for the hearths and high altar was taken, the slaughtering place, the Udumbara post, the Brahman's seat, the (old Āhavanīya at the) hall-door, the old Gārhapatya, and the Utkara (heap of rubbish) one by one with the texts, Vāj. S. V, 32, 2, &c. Kāty. VIII, 6, 23, 24.
+thus we shall know again that heavenly world from which we have come, thus we shall not go astray.'
 </details>
 
 
@@ -1763,25 +2520,22 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते᳓ वै᳓ द्वि᳓नामानो भवन्ति ।  
-एत᳓ उ हैवै᳙त᳓द्दध्रिरे न᳓ वा᳓ एभि᳓र्ना᳓मभिररात्स्म ये᳓षां नः सो᳓ममपा᳓हार्षुर्ह᳓न्ति द्विती᳓यानि ना᳓मानि कर᳓वामहा इ᳓ति ते᳓ द्विती᳓यानि ना᳓मान्यकुर्वत तै᳓रराध्नुवन्या᳓न᳓पहृतसोमपीथान्त्स᳓तो᳓ ऽथ यज्ञ᳓ आ᳓भजंस्त᳓स्माद्द्वि᳓नामानस्त᳓स्माद्ब्राह्मणो᳓ ऽनृध्यमाने द्विती᳓यं ना᳓म कुर्वीत राध्नो᳓ति हैव᳓ य᳓ एवं᳓ विद्वा᳓न्द्विती᳓यं ना᳓म कुरुते᳓॥
+ते᳓ वै᳓ द्वि᳓नामानो भवन्ति ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
-ते वै द्वि᳘नामानो भवन्ति॥  
-(न्त्ये) एत᳘ ऽउ है᳘वैत᳘द्दध्रिरे न वा᳘ ऽएभिर्ना᳘मभिररात्स्म ये᳘षां नः सो᳘ममपा᳘हार्षुर्ह᳘न्त द्विती᳘यानि ना᳘मानि कर᳘वामहा ऽइ᳘ति ते᳘ द्विती᳘यानि ना᳘मान्यकुर्व्वत तै᳘रराध्नुवन्यान᳘पहृतसोमपीथान्त्सतो᳘ ऽथ यज्ञ ऽआ᳘भजंस्त᳘स्माद्द्वि᳘नामानस्त᳘स्माद्ब्राह्मणो᳘ ऽनृद्ध्यमाने द्विती᳘यं ना᳘म कुर्वीत राध्नो᳘ति हैव य᳘ एवं᳘ व्विद्वा᳘न्द्विती᳘यं ना᳘म कुरुते॥
+ते वै द्वि᳘नामानो भवन्ति॥
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
-ते वै द्वि᳘नामानो भवन्ति॥  
-एत᳘ उ हैॗवैत᳘द्दध्रिरे न वा᳘ एभिर्नामभिररात्स्म ये᳘षां नः सो᳘ममपा᳘हार्षुर्ह᳘न्ति द्विती᳘यानि ना᳘मानि कर᳘वामहा इ᳘ति ते᳘ द्विती᳘यानि ना᳘मान्यकुर्वत तै᳘रराध्नुवन्यान᳘पहृतसोमपीथान्त्सतो᳘ ऽथ यज्ञ आ᳘भजंस्त᳘स्माद्द्वि᳘नामानस्त᳘स्माद्ब्राह्मणो᳘ ऽनृध्यमाने द्विती᳘यं ना᳘म कुर्वीत राध्नो᳘ति हैव य᳘ एवं᳘ विद्वा᳘न्द्विती᳘यं ना᳘म कुरु᳘ते॥
+ते वै द्वि᳘नामानो भवन्ति॥
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-ते वै द्विनामानो भवन्ति । एत ऽउ हैवैतद् दध्रिरे । न वा ऽएभिर्नामभिररात्स्म- येषां नः सोममपाहार्षुः, हन्त द्वितीयानि नामानि करवामहा ऽइति । ते द्वितीयानि नामान्यकुर्वत । तैरराध्नुवन् । यानपहृतसोमपीथान् सतो ऽथ यज्ञ ऽआभजन् । तस्माद् द्विनामानः । तस्माद्ब्राह्मणो ऽनृद्ध्यमाने द्वितीयं नाम कुर्वीत । राध्नोति हैव- य एवं विद्वान् द्वितीयं नाम कुरुते ॥ २४ ॥ 
+ते वै द्विनामानो भवन्ति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1790,6 +2544,35 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135)
 - द्वि᳓-नामानः (*SB-K*-2/3, पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१/६.२.२)
 - भवन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-111, *AV*-10, *RV*-9, *TB*-75, *TK*-1)
+</details>
+
+<details><summary>Eggeling</summary>
+
+24. They have two names;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एत᳓ उ हैवै᳙त᳓द्दध्रिरे न᳓ वा᳓ एभि᳓र्ना᳓मभिररात्स्म ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+(न्त्ये) एत᳘ ऽउ है᳘वैत᳘द्दध्रिरे न वा᳘ ऽएभिर्ना᳘मभिररात्स्म
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+एत᳘ उ हैॗवैत᳘द्दध्रिरे न वा᳘ एभिर्नामभिररात्स्म
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+एत ऽउ हैवैतद् दध्रिरे । न वा ऽएभिर्नामभिररात्स्म ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - एते᳓ (*TS*-102/1674, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/26)
 - उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *TB*-121, *TK*-49)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
@@ -1801,6 +2584,37 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - एभिः᳓ (*TS*-4/965, *RV*-17/1247, *TB*-1/567, *TK*-0/57, *AV*-2/1259, *SB-K*-23/5549, *VS-M*-2/313, *VS-K*-0/151)
 - ना᳓मभिः (*TS*-2, *RV*-7, *SB-K*-4/9)
 - अरात्स्म (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *TB*-1)
+</details>
+
+<details><summary>सायणः</summary>
+
+यथा स्थानद्वैविध्यम्, एवं नामद्वैविध्यमपि, तत्तु सङ्केतपूर्वकमित्याह- **ते वै द्विनामानो भवन्त्येत उ हैवैतद्दधिर** इति । नामान्तरधारणविषये मतिं चक्रुरित्यर्थः ।
+
+पूर्वेषां नाम्नामपरितोषे कारणमाह- **न वा एभिर्नामभिररात्स्मे**ति । 'न अरात्स्म' समृद्धा न भवामः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये᳓षां नः सो᳓ममपा᳓हार्षुर्ह᳓न्ति द्विती᳓यानि ना᳓मानि कर᳓वामहा इ᳓ति ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ये᳘षां नः सो᳘ममपा᳘हार्षुर्ह᳘न्त द्विती᳘यानि ना᳘मानि कर᳘वामहा ऽइ᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ये᳘षां नः सो᳘ममपा᳘हार्षुर्ह᳘न्ति द्विती᳘यानि ना᳘मानि कर᳘वामहा इ᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+येषां नः सोममपाहार्षुः, हन्त द्वितीयानि नामानि करवामहा ऽइति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ये᳓षाम् (*TS*-14/3383, *RV*-22/4011, *TB*-7/1735, *TK*-0/227, *AV*-14/3120, *SB-K*-17/8438, *VS-M*-9/639, *VS-K*-7/456)
 - नः (अनुदात्तम्, पा॰ ८.१.१८, *RV*-2404, *AV*-1014, *TS*-587, *VS-M*-428, *TB*-203, *TK*-14)
 - सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-29/107)
@@ -1811,6 +2625,40 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - ना᳓मानि (*TS*-4/93, *RV*-14/117, *TB*-3/65, *TK*-0/10, *AV*-5/112, *SB-K*-23/325, *VS-M*-1/45, *VS-K*-1/27)
 - कर᳓वामहै (*SB-K*-14, Weber-पाठः, श्रीधरादि-पाठः)
 - इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2)
+</details>
+
+<details><summary>सायणः</summary>
+
+**येषामि**त्यादि, स्पष्टम् । "विभूरसि प्रवाहणः"- (वा. सं. ५ । ३१) इत्याद्यग्न्युपस्थानमन्त्रेषु प्रतिपादितानि द्विनामानि ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+for, in truth, they themselves insisted thereon, saying, 'We have not prospered with these names, since Soma has been taken away from us; well, then, let us take each a second name!' They took each a second name, and therewith prospered, inasmuch as they from whom the Soma-draught had been taken had a share in the sacrifice assigned to them;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ द्विती᳓यानि ना᳓मान्यकुर्वत तै᳓रराध्नुवन्या᳓न᳓पहृतसोमपीथान्त्स᳓तो᳓ ऽथ यज्ञ᳓ आ᳓भजंस्त᳓स्माद्द्वि᳓नामानस्त᳓स्माद्ब्राह्मणो᳓ ऽनृध्यमाने द्विती᳓यं ना᳓म कुर्वीत राध्नो᳓ति हैव᳓ य᳓ एवं᳓ विद्वा᳓न्द्विती᳓यं ना᳓म कुरुते᳓॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते᳘ द्विती᳘यानि ना᳘मान्यकुर्व्वत तै᳘रराध्नुवन्यान᳘पहृतसोमपीथान्त्सतो᳘ ऽथ यज्ञ ऽआ᳘भजंस्त᳘स्माद्द्वि᳘नामानस्त᳘स्माद्ब्राह्मणो᳘ ऽनृद्ध्यमाने द्विती᳘यं ना᳘म कुर्वीत राध्नो᳘ति हैव य᳘ एवं᳘ व्विद्वा᳘न्द्विती᳘यं ना᳘म कुरुते॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते᳘ द्विती᳘यानि ना᳘मान्यकुर्वत तै᳘रराध्नुवन्यान᳘पहृतसोमपीथान्त्सतो᳘ ऽथ यज्ञ आ᳘भजंस्त᳘स्माद्द्वि᳘नामानस्त᳘स्माद्ब्राह्मणो᳘ ऽनृध्यमाने द्विती᳘यं ना᳘म कुर्वीत राध्नो᳘ति हैव य᳘ एवं᳘ विद्वा᳘न्द्विती᳘यं ना᳘म कुरु᳘ते॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ते द्वितीयानि नामान्यकुर्वत । तैरराध्नुवन् । यानपहृतसोमपीथान् सतो ऽथ यज्ञ ऽआभजन् । तस्माद् द्विनामानः । तस्माद्ब्राह्मणो ऽनृद्ध्यमाने द्वितीयं नाम कुर्वीत । राध्नोति हैव- य एवं विद्वान् द्वितीयं नाम कुरुते ॥ २४ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-83/395)
 - द्विती᳓यानि (*TS*-0/46, *RV*-0/4, *TB*-0/22, *TK*-0/9, *AV*-0/10, *SB-K*-2/168, *VS-M*-0/7, *VS-K*-0/5, *MW* ŚBr., *Macdonell*, *Lanman*)
 - ना᳓मानि (*TS*-4/93, *RV*-14/117, *TB*-3/65, *TK*-0/10, *AV*-5/112, *SB-K*-23/325, *VS-M*-1/45, *VS-K*-1/27)
@@ -1845,12 +2693,12 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 <details><summary>सायणः</summary>
 
-यथा स्थानद्वैविध्यम्, एवं नामद्वैविध्यमपि, तत्तु सङ्केतपूर्वकमित्याह- **ते वै द्विनामानो भवन्त्येत उ हैवैतद्दधिर** इति । नामान्तरधारणविषये मतिं चक्रुरित्यर्थः । पूर्वेषां नाम्नामपरितोषे कारणमाह- **न वा एभिर्नामभिररात्स्मे**ति । 'न अरात्स्म' समृद्धा न भवामः । **येषामि**त्यादि, स्पष्टम् । "विभूरसि प्रवाहणः"- (वा. सं. ५ । ३१) इत्याद्यग्न्युपस्थानमन्त्रेषु प्रतिपादितानि द्विनामानि । द्वितीयनाम्ना प्राप्तां समृद्धिं दर्शयति- **यानपहृतसोमपीथान्त्सतो ऽथ यज्ञ आभजन्नि**ति । यज्ञभागन्तु "तृतीयसवने वो घृत्या ऽऽहुतिः प्राप्स्यति" इत्युक्तमित्यर्थः ॥ २४ ॥ 
+द्वितीयनाम्ना प्राप्तां समृद्धिं दर्शयति- **यानपहृतसोमपीथान्त्सतो ऽथ यज्ञ आभजन्नि**ति । यज्ञभागन्तु "तृतीयसवने वो घृत्या ऽऽहुतिः प्राप्स्यति" इत्युक्तमित्यर्थः ॥ २४ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-24. They have two names; for, in truth, they themselves insisted thereon, saying, 'We have not prospered with these names, since Soma has been taken away from us; well, then, let us take each a second name!' They took each a second name, and therewith prospered, inasmuch as they from whom the Soma-draught had been taken had a share in the sacrifice assigned to them; hence they have two names. Wherefore let a Brahman, if he prosper not, take a second name, for verily he prospers, whosoever, knowing this, takes a second name.
+hence they have two names. Wherefore let a Brahman, if he prosper not, take a second name, for verily he prospers, whosoever, knowing this, takes a second name.
 </details>
 
 
@@ -1860,24 +2708,24 @@ thereby visibly in this world; but whichever of them are assigned they are there
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓दग्नौ᳓ जुहो᳓ति ।  
-त᳓द्देवे᳓षु जुहोति त᳓स्माद्देवाः᳓ सन्त्य᳓थ य᳓त्स᳓दसि भक्ष᳓यन्ति त᳓न्मनुष्ये᳙षु जुहोति त᳓स्मान्मनुष्याः᳙ सन्त्य᳓थ य᳓द्धविर्धा᳓नयोर्नाराशंसाः᳓ सी᳓दन्ति त᳓त्पितृ᳓षु जुहोति त᳓स्मात्पित᳓रः सन्ति॥
+त᳓द्देवे᳓षु जुहोति त᳓स्माद्देवाः᳓ सन्त्य᳓थ य᳓त्स᳓दसि भक्ष᳓यन्ति त᳓न्मनुष्ये᳙षु जुहोति ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 स य᳘दग्नौ᳘ जुहो᳘ति॥  
-त᳘द्देवे᳘षु जुहोति त᳘स्माद्देवाः᳘ सन्त्य᳘थ यत्स᳘दसि भक्ष᳘यन्ति त᳘न्मनु᳘ष्येषु जुहोति त᳘स्मान्मनु᳘ष्याः सन्त्य᳘थ य᳘द्धविर्द्धा᳘नयोर्नाराशᳫँ᳭साः सी᳘दन्ति त᳘त्पितृ᳘षु जुहोति त᳘स्मात्पित᳘रः सन्ति॥
+त᳘द्देवे᳘षु जुहोति त᳘स्माद्देवाः᳘ सन्त्य᳘थ यत्स᳘दसि भक्ष᳘यन्ति त᳘न्मनु᳘ष्येषु जुहोति
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 स य᳘दग्नौ᳘ जुहो᳘ति॥  
-त᳘द्देवे᳘षु जुहोति त᳘स्माद्देवाः᳘ सन्त्य᳘थ यत्स᳘दसि भक्षयन्ति त᳘न्मनुॗष्येषु जुहोति त᳘स्मान्मनुॗष्याः सन्त्य᳘थ य᳘द्धविर्धा᳘नयोर्नाराशंसाः सी᳘दन्ति त᳘त्पितृ᳘षु जुहोति त᳘स्मात्पित᳘रः सन्ति॥
+त᳘द्देवे᳘षु जुहोति त᳘स्माद्देवाः᳘ सन्त्य᳘थ यत्स᳘दसि भक्षयन्ति त᳘न्मनुॗष्येषु जुहोति
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-स यदग्नौ जुहोति- तद्देवेषु जुहोति । तस्माद्देवाः सन्ति । अथ यत्सदसि भक्षयन्ति- तन्मनुष्येषु जुहोति । तस्मान्मनुष्याः सन्ति । अथ यद्धविर्द्धानयोर्नाराशंसाः सीदन्ति,- तत्पितृषु जुहोति । तस्मात्पितरः सन्ति ॥ २५ ॥ 
+स यदग्नौ जुहोति- तद्देवेषु जुहोति । तस्माद्देवाः सन्ति । अथ यत्सदसि भक्षयन्ति- तन्मनुष्येषु जुहोति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1899,6 +2747,40 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395)
 - मनुष्ये᳙षु (*TS*-5, *TB*-5, *AV*-4, *SB-K*-20, *VS-M*-3, *VS-K*-7)
 - जुहोति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-144, *AV*-2, *RV*-1, *TB*-221, *TK*-12)
+</details>
+
+<details><summary>सायणः</summary>
+
+अथ प्रसङ्गात् सोमयागं देवमनुष्यपितृद्वारेण सर्वजगत्स्थितिहेतुरिति प्रशंसति- **स यदग्नौ जुहोती**ति । अग्नौ तत्तद्देवोद्देशेन होम एव सर्वदेवेषु होमो भवति । 'तस्मात्' यज्ञभागलाभात् 'देवाः' 'सन्ति' आत्मानं लभन्ते; इदानीमपि ‘अपराभूताः' अविनष्टा वर्त्तन्त इत्यर्थः । एवं मनुष्यपितृवाक्ये अपि योज्ये ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+25. Now what he offers in the fire, that he offers unto the gods, thereby the gods exist; and what (Soma) is consumed in the Sadas, that he offers unto men, thereby men exist;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्मान्मनुष्याः᳙ सन्त्य᳓थ य᳓द्धविर्धा᳓नयोर्नाराशंसाः᳓ सी᳓दन्ति त᳓त्पितृ᳓षु जुहोति त᳓स्मात्पित᳓रः सन्ति॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्मान्मनु᳘ष्याः सन्त्य᳘थ य᳘द्धविर्द्धा᳘नयोर्नाराशᳫँ᳭साः सी᳘दन्ति त᳘त्पितृ᳘षु जुहोति त᳘स्मात्पित᳘रः सन्ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्मान्मनुॗष्याः सन्त्य᳘थ य᳘द्धविर्धा᳘नयोर्नाराशंसाः सी᳘दन्ति त᳘त्पितृ᳘षु जुहोति त᳘स्मात्पित᳘रः सन्ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+तस्मान्मनुष्याः सन्ति । अथ यद्धविर्द्धानयोर्नाराशंसाः सीदन्ति,- तत्पितृषु जुहोति । तस्मात्पितरः सन्ति ॥ २५ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395)
 - मनुष्याः᳙ (*TS*-37/39, *RV*-9, *TB*-11, *AV*-19, *SB-K*-44)
 - सन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-11, *AV*-2, *TS*-1, *TB*-1)
@@ -1917,12 +2799,12 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 <details><summary>सायणः</summary>
 
-अथ प्रसङ्गात् सोमयागं देवमनुष्यपितृद्वारेण सर्वजगत्स्थितिहेतुरिति प्रशंसति- **स यदग्नौ जुहोती**ति । अग्नौ तत्तद्देवोद्देशेन होम एव सर्वदेवेषु होमो भवति । 'तस्मात्' यज्ञभागलाभात् 'देवाः' 'सन्ति' आत्मानं लभन्ते; इदानीमपि ‘अपराभूताः' अविनष्टा वर्त्तन्त इत्यर्थः । एवं मनुष्यपितृवाक्ये अपि योज्ये । अथ **यद्धविर्द्धानयोर्नाराशंसाः सीदन्ति, तत् पितृषु जुहोती**ति । हविर्द्धानशकटस्य दक्षिणभागे चमसेषु (ऋ. सं. १ ० । १६ । ८) ये सोमा हुतावशिष्टा भक्षिता, पुनराप्यायिताश्च वर्तन्ते, ते नाराशंसाः; तेन पितृदेवत्याः । तत्र स्थानेषु पितृषु जुहोति ॥ २५ ॥ 
+अथ **यद्धविर्द्धानयोर्नाराशंसाः सीदन्ति, तत् पितृषु जुहोती**ति । हविर्द्धानशकटस्य दक्षिणभागे चमसेषु (ऋ. सं. १ ० । १६ । ८) ये सोमा हुतावशिष्टा भक्षिता, पुनराप्यायिताश्च वर्तन्ते, ते नाराशंसाः; तेन पितृदेवत्याः । तत्र स्थानेषु पितृषु जुहोति ॥ २५ ॥
 </details>
 
 <details><summary>Eggeling</summary>
 
-25. Now what he offers in the fire, that he offers unto the gods, thereby the gods exist; and what (Soma) is consumed in the Sadas, that he offers unto men, thereby men exist; and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-carts, thereby he offers unto the Fathers, thereby the Fathers exist.
+and in that the Nārāśaṁsa [^egg_407] cups of Soma) stand with the Soma-carts, thereby he offers unto the Fathers, thereby the Fathers exist.
 
 [^egg_407]: 154:1 Nārāśaṁsa, 'pertaining to Narāśaṁsa (man's praise, i.e. Agni, or Soma, or the Fathers),' is the name given to certain remains of Soma-libations (or potations) sacred to the Fathers, which, in the nine Soma-cups, are temporarily deposited under the axle of the southern Soma-cart, till they are drunk by the priests at the end of the libation.
 </details>
@@ -1931,30 +2813,30 @@ thereby visibly in this world; but whichever of them are assigned they are there
 ## २६
 
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/59 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/8 व्यत्यस्त-स्वराः)</summary>
 
 [[या|या᳓]] वै प्रजा᳓ यज्ञे᳓ ऽनन्वाभक्ताः ।  
-प᳓राभूता वै᳓ ता᳓ एव᳓मेवै᳙त᳓द्या᳓ इमाः᳓ प्रजा᳓ अ᳓पराभूतास्ता᳓ यज्ञ᳓ आ᳓भजति मनुष्या᳙न᳓नु पश᳓वो देवा᳓न᳓नु व᳓यांस्यो᳓षधयो व᳓नस्प᳓तयो य᳓दिदं᳓ किं᳓ चैव᳓मु त᳓त्स᳓र्वं यज्ञ᳓ आ᳓भक्तं ते᳓ ह स्मैत᳓ उभ᳓ये देवमनुष्याः᳓ पित᳓रः स᳓म्पिबन्ते सै᳙षा᳓ सम्पा ते᳓ ह स्म दृश्य᳓माना एव᳓ पुरा᳓ स᳓म्पिबन्त उतै᳙त᳓र्ह्य᳓दृश्यमानाः॥
+प᳓राभूता वै᳓ ताः᳓ ।
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
 
 या वै प्रजा᳘ यज्ञे᳘ ऽनन्वाभक्ताः॥  
-प᳘राभूता᳘ वै ता[[!!]] एव᳘मे᳘वैतद्या᳘ इमाः᳘ प्रजा ऽअ᳘पराभूतास्ता᳘ यज्ञ ऽआ᳘भजति मनु᳘ष्यान᳘नु पश᳘वो देवान᳘नु व᳘याᳫँ᳭स्यो᳘षधयो व्व᳘नस्प᳘तयो य᳘दिदं कि᳘ञ्चैव᳘मु तत्स᳘र्व्वं यज्ञ ऽआ᳘भक्तं ते᳘ ह स्मैत᳘ ऽउभ᳘ये देवमनुष्याः᳘ पित᳘रः स᳘म्पिबन्ते᳘ सैषा᳘ सम्पा ते᳘ ह स्म दृश्य᳘माना ऽएव᳘ पुरा स᳘म्पिबन्त ऽउ᳘तैतर्ह्य᳘दृश्यमानाः॥
+प᳘राभूता᳘ वै ताः[[!!]]
 </details>
 
 <details><summary>मूलम् - Weber</summary>
 
 या वै प्रजा᳘ यज्ञे᳘ ऽनन्वाभक्ताः॥  
-प᳘राभूता वै ता᳘ एव᳘मेॗवैतद्या᳘ इमाः᳘ प्रजा अ᳘पराभूतास्ता᳘ यज्ञ आ᳘भजति मनुॗष्यान᳘नु पश᳘वो देवान᳘नु व᳘यांस्यो᳘षधयो व᳘नस्प᳘तयो य᳘दिदं किं᳘ चैव᳘मु तत्स᳘र्वं यज्ञ आ᳘भक्तं ते᳘ ह स्मैत᳘ उभ᳘ये देवमनुष्याः᳘ पित᳘रः स᳘म्पिबन्तेॗ सैषा᳘ सम्पा ते᳘ ह स्म दृश्य᳘माना एव᳘ पुरा स᳘म्पिबन्त उॗतैतर्ह्य᳘दृश्यमानाः॥
+प᳘राभूता वै ताः᳘
 </details>
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-या वै प्रजा यज्ञे ऽनन्वाभक्ताः- पराभूता वै ताः । एवमेवैतद्- या इमाः प्रजा अपराभूताः- ता यज्ञ ऽआभजति । मनुष्याननु पशवः, देवाननु वयांसि, ओषधयः, वनस्पतयो- यदिदं किञ्च । एवमु तत्सर्वं यज्ञ आभक्तम् । ते ह स्मैत ऽउभये देवमनुष्याः पितरः सम्पिबन्ते । सैषा सम्पा । ते ह स्म दृश्यमाना एव पुरा सम्पिबन्ते, उतैतर्ह्यदृश्यमानाः ॥ २६ ॥ 
+या वै प्रजा यज्ञे ऽनन्वाभक्ताः- पराभूता वै ताः ।
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 1/59 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 1/8 व्यत्यस्त-स्वराः)</summary>
 
 - या → **या᳓** (*TS*-96/3383, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-K*-228/8438, *VS-M*-37/639, *VS-K*-44/456)
 - वै (अनुदात्तम्, पा॰ ८.१.१८, *TB*-16)
@@ -1964,6 +2846,40 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - प᳓रा-भूता (*AV*-0/4, *SB-K*-1/2, *MW* ŚBr.)
 - वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135)
 - ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-K*-661/20018, *VS-M*-20/768, *VS-K*-3/395)
+</details>
+
+<details><summary>सायणः</summary>
+
+**या वे प्रजा** इति । 'या वै प्रजाः' देवपितृमनुष्यव्यतिरिक्ताः, असुररक्षःप्रभृतिकाः, 'ताः' 'पराभूताः' विनष्टा अभवन् । याप्येवं पूर्वमासीत् परमा च । 'एतद्' इदानीमपि, 'अपराभूताः' 'याः' सन्ति, 'ताः' देवाद्याः 'यज्ञे' 'आभजति' ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+26. But those creatures which are not admitted to the sacrifice are forlorn;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एव᳓मेवै᳙त᳓द्या᳓ इमाः᳓ प्रजा᳓ अ᳓पराभूतास्ता᳓ यज्ञ᳓ आ᳓भजति ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+एव᳘मे᳘वैतद्या᳘ इमाः᳘ प्रजा ऽअ᳘पराभूतास्ता᳘ यज्ञ ऽआ᳘भजति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+एव᳘मेॗवैतद्या᳘ इमाः᳘ प्रजा अ᳘पराभूतास्ता᳘ यज्ञ आ᳘भजति
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+एवमेवैतद्- या इमाः प्रजा अपराभूताः- ता यज्ञ ऽआभजति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-K*-1075/1115, *VS-M*-6, *VS-K*-2/3)
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24)
 - एत᳓त् (*TS*-319/1674, *RV*-40/320, *TB*-182/858, *TK*-12/130, *AV*-100/340, *SB-K*-4477/10669, *VS-M*-17/129, *VS-K*-3/26)
@@ -1975,6 +2891,35 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - यज्ञः᳓ (*TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-17/173)
 - आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36)
 - भजति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-2, *TB*-1)
+</details>
+
+<details><summary>Eggeling</summary>
+
+wherefore he now admits to the sacrifice those creatures here on earth that are not forlorn;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनुष्या᳙न᳓नु पश᳓वो देवा᳓न᳓नु व᳓यांस्यो᳓षधयो व᳓नस्प᳓तयो य᳓दिदं᳓ किं᳓ चैव᳓मु त᳓त्स᳓र्वं यज्ञ᳓ आ᳓भक्तम् ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+मनु᳘ष्यान᳘नु पश᳘वो देवान᳘नु व᳘याᳫँ᳭स्यो᳘षधयो व्व᳘नस्प᳘तयो य᳘दिदं कि᳘ञ्चैव᳘मु तत्स᳘र्व्वं यज्ञ ऽआ᳘भक्तम्
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+मनुॗष्यान᳘नु पश᳘वो देवान᳘नु व᳘यांस्यो᳘षधयो व᳘नस्प᳘तयो य᳘दिदं किं᳘ चैव᳘मु तत्स᳘र्वं यज्ञ आ᳘भक्तम्
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+मनुष्याननु पशवः, देवाननु वयांसि, ओषधयः, वनस्पतयो- यदिदं किञ्च । एवमु तत्सर्वं यज्ञ आभक्तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - मनुष्या᳙न् (*TS*-12, *RV*-1, *TB*-2, *AV*-6, *SB-K*-24, *VS-M*-3)
 - अ᳓नु (*RV*-475, *TS*-471, *AV*-299, *TB*-221, *TK*-67, *VS-M*-115)
 - पश᳓वः (*TS*-206/736, *RV*-2/36, *TB*-96/338, *TK*-1/7, *AV*-55/140, *SB-K*-339/953, *VS-M*-7/36, *VS-K*-2/31)
@@ -1993,6 +2938,42 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - स᳓र्वम् (*TS*-49/287, *RV*-19/68, *TB*-44/159, *TK*-19/114, *AV*-108/444, *SB-K*-832/2224, *VS-M*-13/55, *VS-K*-9/41)
 - यज्ञः᳓ (*TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-17/173)
 - आ-अ᳓भक्तम् (*SB-K*-0/2, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+</details>
+
+<details><summary>सायणः</summary>
+
+अस्तु तेषां यज्ञभागः, तदितरेषां पशुपक्षिप्रभृतीनां कथं यज्ञे ऽनुप्रवेश इति, तत्प्रकारमाह- **मनुष्याननु पशुव** इति । वयसामन्तरिक्षसञ्चारसाम्येन देवानुप्रवेशाभिधानम् । औषध्यादीनां रक्षकाभावेन देवाधीनस्थितिकत्वम् ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+behind [^egg_408] the men are the beasts;
+
+[^egg_408]: 154:2 Or, alongside of; corresponding to, included in, them (anu).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ ह स्मैत᳓ उभ᳓ये देवमनुष्याः᳓ पित᳓रः स᳓म्पिबन्ते सै᳙षा᳓ सम्पा ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते᳘ ह स्मैत᳘ ऽउभ᳘ये देवमनुष्याः᳘ पित᳘रः स᳘म्पिबन्ते᳘ सैषा᳘ सम्पा
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते᳘ ह स्मैत᳘ उभ᳘ये देवमनुष्याः᳘ पित᳘रः स᳘म्पिबन्तेॗ सैषा᳘ सम्पा
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ते ह स्मैत ऽउभये देवमनुष्याः पितरः सम्पिबन्ते । सैषा सम्पा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-83/395)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - स्म (अनुदात्तम्, पा॰ ८.१.१८, *RV*-108, *AV*-23, *TS*-14, *TB*-4, *TK*-4, *VS-M*-5)
@@ -2005,6 +2986,44 @@ thereby visibly in this world; but whichever of them are assigned they are there
 - सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-K*-649/20018, *VS-M*-30/768, *VS-K*-23/395)
 - एषा᳓ (*TS*-122/1674, *RV*-26/320, *TB*-47/858, *TK*-4/130, *AV*-26/340, *SB-K*-466/10669, *VS-M*-8/129, *VS-K*-4/26)
 - सम्पा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+</details>
+
+<details><summary>सायणः</summary>
+
+**उभये देवमनुष्याः पितर** इति । देवमनुष्य एको राशिः, पितरश्चैकः, द्वैराश्यमापन्ना उभये ऽपि 'सम्पिबन्ते' साहित्येनैकीभावेन सह पानं कुर्वन्ति । 'सैषा' 'सम्पा' सहपीतिः । “आतश्चोपसर्गे”- (पा. सू. ३ । १ । १३६) इति भावे अङ् । प्रथमं देवैरग्निमुखेन पानम्, पश्चान्मनुष्यैः सदसि शेषपानम्, पश्चान्नाराशंसेन पितॄणाम्; इत्येवंरूपानुसन्धेयेत्यर्थः ।
+</details>
+
+<details><summary>Eggeling</summary>
+
+and behind the gods are the birds, the plants, and
+
+the trees; and thus whatsoever exists here on earth all that is admitted to the sacrifice. And verily both the gods and men, and the Fathers drink together [^egg_409], and this is their symposium; of old they drank together visibly, but now they do so unseen.
+
+[^egg_409]: 155:1 'Sma' does not seem here to nave its usual force, which it has in the next sentence, combined with 'purā.'
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते᳓ ह स्म दृश्य᳓माना एव᳓ पुरा᳓ स᳓म्पिबन्त उतै᳙त᳓र्ह्य᳓दृश्यमानाः॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+ते᳘ ह स्म दृश्य᳘माना ऽएव᳘ पुरा स᳘म्पिबन्त ऽउ᳘तैतर्ह्य᳘दृश्यमानाः॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+ते᳘ ह स्म दृश्य᳘माना एव᳘ पुरा स᳘म्पिबन्त उॗतैतर्ह्य᳘दृश्यमानाः॥
+</details>
+
+<details><summary>मूलम् - विस्वरम्</summary>
+
+ते ह स्म दृश्यमाना एव पुरा सम्पिबन्ते, उतैतर्ह्यदृश्यमानाः ॥ २६ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
 - ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-83/395)
 - ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116)
 - स्म (अनुदात्तम्, पा॰ ८.१.१८, *RV*-108, *AV*-23, *TS*-14, *TB*-4, *TK*-4, *VS-M*-5)
@@ -2019,21 +3038,10 @@ thereby visibly in this world; but whichever of them are assigned they are there
 
 <details><summary>सायणः</summary>
 
-**या वे प्रजा** इति । 'या वै प्रजाः' देवपितृमनुष्यव्यतिरिक्ताः, असुररक्षःप्रभृतिकाः, 'ताः' 'पराभूताः' विनष्टा अभवन् । याप्येवं पूर्वमासीत् परमा च । 'एतद्' इदानीमपि, 'अपराभूताः' 'याः' सन्ति, 'ताः' देवाद्याः 'यज्ञे' 'आभजति' । अस्तु तेषां यज्ञभागः, तदितरेषां पशुपक्षिप्रभृतीनां कथं यज्ञे ऽनुप्रवेश इति, तत्प्रकारमाह- **मनुष्याननु पशुव** इति । वयसामन्तरिक्षसञ्चारसाम्येन देवानुप्रवेशाभिधानम् । औषध्यादीनां रक्षकाभावेन देवाधीनस्थितिकत्वम् । **उभये देवमनुष्याः पितर** इति । देवमनुष्य एको राशिः, पितरश्चैकः, द्वैराश्यमापन्ना उभये ऽपि 'सम्पिबन्ते' साहित्येनैकीभावेन सह पानं कुर्वन्ति । 'सैषा' 'सम्पा' सहपीतिः । “आतश्चोपसर्गे”- (पा. सू. ३ । १ । १३६) इति भावे अङ् । प्रथमं देवैरग्निमुखेन पानम्, पश्चान्मनुष्यैः सदसि शेषपानम्, पश्चान्नाराशंसेन पितॄणाम्; इत्येवंरूपानुसन्धेयेत्यर्थः । तेषामागमनमेव न दृश्यते, कुतः सहपानमिति, तत्राह– **ते ह स्म दृश्यमाना एवे**ति (का. श्रौ. सू. ८ । १५६-१६४) [^१_२१५] ॥ २६ ॥ 
+तेषामागमनमेव न दृश्यते, कुतः सहपानमिति, तत्राह– **ते ह स्म दृश्यमाना एवे**ति (का. श्रौ. सू. ८ । १५६-१६४) [^१_२१५] ॥ २६ ॥
 
-[^१_२१५]: धिष्ण्यान्निवपत्युद्धतावोक्षिते पुरीषन्निवपति स्फ्ये नान्वारब्ध उदङ्ङुपविश्य विभूरसीति प्रतिमंत्रं, आग्नीध्रीयं पूर्वं, सिकताश्चोपरि, रौद्रेणेति सर्वत्र, षट्सदसि, प्रत्यङ्मुखो द्वारमपरेण होतुः, दक्षिणपूर्वेणौदुम्बरीं मैत्रावरुणस्य, होतृधिष्ण्यमुत्तरेण चतुरः समान्तरान्ब्राह्मणाच्छँ सिपीतृनेष्ट्रच्छावाकानाम्, आग्नीध्राद्दक्षिणँ सम्प्रति-वेध्यन्ते दक्षिणामुखो मार्जालीयम् ॥ इति ॥ 
+इति श्रीसायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे माध्यन्दिनशतपथब्राह्मणभाष्ये तृतीयकाण्डे षष्ठाध्याये द्वितीयं ब्राह्मणम् ॥ (३-६-२) ॥
 
-इति श्रीसायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे माध्यन्दिनशतपथब्राह्मणभाष्ये तृतीयकाण्डे षष्ठाध्याये द्वितीयं ब्राह्मणम् ॥ (३-६-२) ॥ 
-</details>
-
-<details><summary>Eggeling</summary>
-
-26. But those creatures which are not admitted to the sacrifice are forlorn; wherefore he now admits to the sacrifice those creatures here on earth that are not forlorn; behind [^egg_408] the men are the beasts; and behind the gods are the birds, the plants, and
-
-[^egg_408]: 154:2 Or, alongside of; corresponding to, included in, them (anu).
-
-the trees; and thus whatsoever exists here on earth all that is admitted to the sacrifice. And verily both the gods and men, and the Fathers drink together [^egg_409], and this is their symposium; of old they drank together visibly, but now they do so unseen.
-
-[^egg_409]: 155:1 'Sma' does not seem here to nave its usual force, which it has in the next sentence, combined with 'purā.'
+[^१_२१५]: धिष्ण्यान्निवपत्युद्धतावोक्षिते पुरीषन्निवपति स्फ्ये नान्वारब्ध उदङ्ङुपविश्य विभूरसीति प्रतिमंत्रं, आग्नीध्रीयं पूर्वं, सिकताश्चोपरि, रौद्रेणेति सर्वत्र, षट्सदसि, प्रत्यङ्मुखो द्वारमपरेण होतुः, दक्षिणपूर्वेणौदुम्बरीं मैत्रावरुणस्य, होतृधिष्ण्यमुत्तरेण चतुरः समान्तरान्ब्राह्मणाच्छँ सिपीतृनेष्ट्रच्छावाकानाम्, आग्नीध्राद्दक्षिणँ सम्प्रति-वेध्यन्ते दक्षिणामुखो मार्जालीयम् ॥ इति ॥
 </details>
 
