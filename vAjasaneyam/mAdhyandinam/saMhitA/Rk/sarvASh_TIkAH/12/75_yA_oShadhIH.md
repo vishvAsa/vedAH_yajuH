@@ -6,16 +6,18 @@ title = "७५ या ओषधीः"
 
 Herbs that sprang up in time of old, three ages earlier than the Gods,— Of these, whose hue is brown, will I declare the hundred powers and seven.
 </details>
-
 <details><summary>मूलम्</summary>
 
 या ओष॑धीः॒ पूर्वा॑ जा॒ता दे॒वेभ्य॑स्त्रियु॒गं पु॒रा।  
 मनै॒ नु ब॒भ्रूणा॑म॒हँ श॒तं धामा॑नि स॒प्त च॑ ॥७५ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 याः। ओष॑धीः। पूर्वाः॑। जा॒ताः। दे॒वेभ्यः॑। त्रि॒यु॒गमिति॑ त्रिऽयु॒गम्। पु॒रा। मनै॑। नु। ब॒भ्रूणा॑म्। अ॒हम्। श॒तम्। धामा॑नि। स॒प्त। च॒। ७५।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+याः। ओष॑धीः। पूर्वाः॑। जा॒ताः। दे॒वेभ्यः॑। त्रि॒यु॒गमिति॑ त्रिऽयु॒गम्। पु॒रा। मनै॑। नु। ब॒भ्रूणा॑म्। अ॒हम्। श॒तम्। धामा॑नि। स॒प्त। च॒। १।
 </details>
 <details><summary>उवट-टीका</summary>
 

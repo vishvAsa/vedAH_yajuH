@@ -6,16 +6,18 @@ title = "५२ अयं ते"
 
 This is thine ordered place of birth whence, sprung to life, thou shonest forth. Knowing this, Agni, mount on high and cause our riches to increase.
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒यं ते॒ योनि॑र्ऋ॒त्वियो॒ यतो॑ जा॒तोऽअरो॑चथाः।  
 तं जा॒नन्न॑ग्न॒ऽआ रो॒हाथा॑ नो वर्धया र॒यिम् ॥५२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒यम्। ते॒। योनिः॑। ऋ॒त्वियः॑। यतः॑। जा॒तः। अरो॑चथाः। तम्। जा॒नन्। अ॒ग्ने॒। आ। रो॒ह॒। अथ॑। नः॒। व॒र्ध॒य॒। र॒यिम्। ५२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒यम्। ते॒। योनिः॑। ऋ॒त्वियः॑। यतः॑। जा॒तः। अरो॑चथाः। तम्। जा॒नन्। अ॒ग्ने॒। आ। रो॒ह॒। अथ॑। नः॒। व॒र्ध॒य॒। र॒यिम्। ८।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -26,6 +28,12 @@ This is thine ordered place of birth whence, sprung to life, thou shonest forth.
 <details><summary>महीधर-टीका</summary>
 
 व्याख्याता [ अध्या० ३ क० १४ ]॥ ५२॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+द्वितीयामुपदधाति - ' अयं ते ' इति ।
+
+व्याख्यातो मन्त्रः ॥८॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

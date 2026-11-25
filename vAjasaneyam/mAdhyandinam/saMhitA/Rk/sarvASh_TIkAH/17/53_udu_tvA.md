@@ -6,13 +6,11 @@ title = "५३ उदु त्वा"
 
 May the All-Gods, O Agni, bear and lift thee upward with their thoughts. Fair to be looked on, rich in light, he thou propitious unto us.
 </details>
-
 <details><summary>मूलम्</summary>
 
 उदु॑ त्वा॒ विश्वे॑ दे॒वाऽअग्ने॒ भर॑न्तु॒ चित्ति॑भिः।  
 स नो॑ भव शि॒वस्त्वँ सु॒प्रती॑को वि॒भाव॑सुः ॥५३ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उत्। ऊँ॒ऽइत्यूँ॑। त्वा॒। विश्वे॑। दे॒वाः। अग्ने॑। भर॑न्तु॒। चित्ति॑भि॒रिति॒ चित्ति॑ऽभिः। सः। नः॒। भ॒व॒। शि॒वः। त्वम्। सु॒प्रती॑क॒ इति॑ सु॒ऽप्रती॑कः। वि॒भाव॑सु॒रिति॑ वि॒भाऽव॑सुः। ५३।
@@ -28,6 +26,14 @@ May the All-Gods, O Agni, bear and lift thee upward with their thoughts. Fair to
 होत्रा प्रथमायामृचि त्रिःपठितायां सत्यां प्रतिप्रस्थाता उदुत्वेति मन्त्रेण प्रदीप्तमिध्मं शालाद्वार्यादूर्ध्वमुत्पादयतीत्यर्थः।
 
 व्याख्याता (अ० १२। क० ३१)॥ ५३॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+अग्निमुद्यच्छति - ' उदुत्वा' इति ।
+
+द्वितीय-दशकस्य तृतीयाध्याये व्याख्याता ॥ ५३ ॥
+अयं च ब्रुवन्तु ( 14 )
+12- 3 शतकस्य for दशकस्य
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -6,16 +6,18 @@ title = "८० अश्विना तेजसा"
 
 The Asvins gave, with lustre, sight, Sarasvatî manly strength with breath. Indra with voice and might gave Indra vigorous power.
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒श्विना॒ तेज॑सा॒ चक्षुः॑ प्रा॒णेन॒ सर॑स्वती वी॒र्य᳖म्।  
 वा॒चेन्द्रो॒ बले॒नेन्द्रा॑य दधुरिन्द्रि॒यम् ॥८० ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒श्विना॑। तेज॑सा। चक्षुः॑। प्रा॒णेन॑। सर॑स्वती। वी॒र्य᳖म्। वा॒चा। इन्द्रः॑। बले॑न। इन्द्रा॑य। द॒धुः॒। इ॒न्द्रि॒यम्। ८०।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒श्विना॑। तेज॑सा। चक्षुः॑। प्रा॒णेन॑। सर॑स्वती। वी॒र्य᳖म्। वा॒चा। इन्द्रः॑। बले॑न। इन्द्रा॑य। द॒धुः॒। इ॒न्द्रि॒यम्। १।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -58,6 +60,14 @@ The Asvins gave, with lustre, sight, Sarasvatî manly strength with breath. Indr
 एवमश्विसरस्वतीन्द्रा इन्द्राय तेजआदि दधुरित्यर्थः।
 
 सर्वापेक्षया दधुरिति बहुवचनम्॥८०॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अश्विना अश्विनौ, तेजसा सह चक्षुर्दधतुः, सरस्वती प्राणेन वाचा सह, वीर्य्यं दधौ, इन्द्रश् च बलेन सह वीर्य्यं दधौ ।
+
+एवम् अश्विसर-स्वतीन्द्रास् तेजः-प्रभृति-द्वारेणेन्द्राय इन्द्रार्थम्, इन्द्रियं सामर्थ्यं दधुः ।
+
+अथ द्वितीया-
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -6,16 +6,18 @@ title = "१२ उदुत्तमं वरुण"
 
 Varuna, from the upmost bond release us, let down the lowest and remove the midmost. So in thy holy law may we made sinless belong to Aditi, O thou Âditya.
 </details>
-
 <details><summary>मूलम्</summary>
 
 उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मँ श्र॑थाय।  
 अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ऽअदि॑तये स्याम ॥१२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उत्। उ॒त्त॒ममित्यु॑त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒था॒य॒। श्र॒थ॒येति॑ श्रथय। अथ॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। १२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+उत्। उ॒त्त॒ममित्यु॑त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒था॒य॒। श्र॒थ॒येति॑ श्रथय। अथ॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। १३।
 </details>
 <details><summary>उवट-टीका</summary>
 

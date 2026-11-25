@@ -6,16 +6,18 @@ title = "०५ सविता ते"
 
 Let Savitar lay down thy bones committed to the Mother's lap. Be pleasant to this man, O Earth.
 </details>
-
 <details><summary>मूलम्</summary>
 
 स॒वि॒ता ते॒ शरी॑राणि मा॒तुरु॒पस्थ॒ऽआ व॑पतु।  
 तस्मै॑ पृथिवि॒ शं भ॑व ॥५ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स॒वि॒ता। ते॒। शरी॑राणि। मा॒तुः। उ॒पस्थ॒ इत्यु॒प॑ऽस्थे॑। आ। व॒प॒तु॒। तस्मै॑। पृ॒थि॒वि॒। शम्। भ॒व॒। ५।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+सविता। ते। शरीराणि। मातुः। उपस्थे। आ। वपतु। तस्मै। पृथिवि। शम्। भव।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -44,6 +46,24 @@ Let Savitar lay down thy bones committed to the Mother's lap. Be pleasant to thi
 हे यजमान, सविता सूर्यः ते तव शरीराणि अस्थीनि मातुः पृथिव्याः उपस्थे उत्सङ्गे आवपतु स्थापयतु।
 
 हे पृथिवि भूमे, तस्मै सवित्रोप्तायास्थिरूपाय यजमानाय शं भव सुखरूपा भव॥ ५॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+पितृ-देवत्या गायत्री ।
+
+शरीराणि शरीरोपलक्षितानि अस्थीनि ।
+
+मातुः पृथिव्याः ।
+
+उपस्थे उत्सङ्गे ।
+
+सविता ते तव ।
+
+आवपतु स्थापयतु ।
+
+तस्मै पृथिवि ।
+
+तस्मै अस्थि-रूपाय यजमानाय ।
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

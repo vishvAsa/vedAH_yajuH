@@ -6,16 +6,23 @@ title = "५५ पुनर्नः पितरो"
 
 O Fathers, may the Heavenly Folk give us the spirit once again, That we may be with those who live.
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 पुन॑र्नः पितरो॒ मनो॒ ददा॑तु॒ दैव्यो॒ जनः॑।  
 जी॒वं व्रातँ॑सचेमहि ॥५५॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+पुन॑र्नः पितरो॒ मनो॒ ददा॑तु दैव्यो॒ जनः॑ ।  
+जी॒वं व्रातँ॑ सचेमहि ॥५॥ ६३
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 पुनः॑। नः॒। पि॒त॒रः॒। मनः॑। ददा॑तु। दैव्यः॑। जनः॑। जी॒वम्। व्रा॑तम्। स॒चे॒म॒हि॒। ५५।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+पुनः॑। नः॒। पि॒त॒रः॒। मनः॑। ददा॑तु। दैव्यः॑। जनः॑। जी॒वम्। व्रा॑तम्। स॒चे॒म॒हि॒। ५।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -40,6 +47,19 @@ O Fathers, may the Heavenly Folk give us the spirit once again, That we may be w
 तथा सत्यनुष्ठानं कृत्वा भवत्प्रसादाज्जीवं जीवनवन्तं व्रातं पुत्रपश्वादिकं गणं वयं सचेमहि सेवेमहि।
 
 सचतिः सेवनार्थः॥ ५५॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+' पुनर् नः' इति ।
+
+हे पितरः, 'दैव्यः देव-संबन्धी जनः नः अस्मभ्यं मनः पुनःपुनः ददातु ।
+
+ततस् तेन देव-जनदत्तेन मनसा जीवं जीवनवन्तं व्रातं गणं पुत्रपश्वादिकं
+सचेमहि ।
+
+स्त्रञ्ज परिष्वङ्गे ।
+
+परिष्वजे महि ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

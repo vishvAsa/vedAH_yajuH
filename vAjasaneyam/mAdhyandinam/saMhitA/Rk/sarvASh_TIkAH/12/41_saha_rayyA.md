@@ -6,16 +6,23 @@ title = "४१ सह रय्या"
 
 Agni, return with store of wealth. Swell with thine overflowing stream that feedeth all on every side.
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒ह र॒य्या निव॑र्त्त॒स्वाग्ने॒ पिन्व॑स्व॒ धा॑रया।  
 वि॒श्वप्स्न्या॑ वि॒श्वत॒स्परि॑ ॥४१ ॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+स॒ह र॒य्या निव॑र्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या ।  
+वि॒श्वप्स्न्या॑ वि॒श्वत॒स्परि॑ ॥१२॥ ४२
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स॒ह। र॒य्या। नि। व॒र्त्त॒स्व॒। अग्ने॑। पिन्व॑स्व। धा॑रया। वि॒श्वप्स्न्येति॑ वि॒श्वऽप्स्न्या॑। वि॒श्वतः॑। परि॑। ४१।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+स॒ह। र॒य्या। नि। व॒र्त्त॒स्व॒। अग्ने॑। पिन्व॑स्व। धा॑रया। वि॒श्वप्स्न्येति॑ वि॒श्वऽप्स्न्या॑। वि॒श्वतः॑। परि॑। १२।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -24,6 +31,20 @@ Agni, return with store of wealth. Swell with thine overflowing stream that feed
 <details><summary>महीधर-टीका</summary>
 
 द्वे व्याख्याते (क० १०)॥ ४१॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ चतुर्थः सह रय्या नि वर्तस्वाने पिन्व्-अस्व धारया ।
+
+विश्वपल्या विश्वतस्परि' इति ।
+
+हे अग्ने, रय्या धनेन सह निवर्तस्व ।
+
+प्सा भक्षण इति धातुः ।
+
+विश्वैः सर्वैः प्सायते भक्ष्यते पीयत इति विश्वस्नी ।
+
+ताश्या धारया विश्वतः परि सर्वेषां तृण-धान्यलतापादपानाम् उपरि पिन्व्-अस्व सिञ्च ॥ १२॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

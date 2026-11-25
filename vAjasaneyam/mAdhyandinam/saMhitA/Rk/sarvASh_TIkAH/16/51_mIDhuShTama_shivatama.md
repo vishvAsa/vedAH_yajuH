@@ -6,7 +6,6 @@ title = "५१ मीढुष्टम शिवतम"
 
 Most bounteous, most auspicious, be auspicious, well inclined to us. On some remotest tree lay down thy weapon, and clad in robe of skin approach, bearing thy bow come hitherward.
 </details>
-
 <details><summary>Keith</summary>
 
 O most bounteous, most auspicious,  
@@ -15,16 +14,23 @@ Placing down thy weapon on the highest tree,
 Clad in thy skin, come,  
 And approach us bearing the spear [4].
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 मीढु॑ष्टम॒ शिव॑तम शि॒वो नः॑ सु॒मना॑ भव।  
 प॒र॒मे वृ॒क्षऽआयु॑धं नि॒धाय॒ कृत्तिं॒ वसा॑न॒ऽआ च॑र॒ पिना॑क॒म्बिभ्र॒दा ग॑हि ॥५१ ॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+मीळहु॑ष्टम॒ शिव॑तम शि॒वो नः॑ सु॒मना॑ भव ।  
+प॒र॒मे वृ॒क्ष आयु॑धं नि॒धाय॒ कृत्तिं॒ वसा॑न॒ आच॑र॒ पिना॑कं॒ बिभ्र॒दाग॑हि ॥५॥ ५१
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मीढु॑ष्टम। मीढु॑स्त॒मेति॒ मीढुः॑ऽतम। शिव॑त॒मेति॒ शिव॑ऽतम। शि॒वः। नः॒। सु॒मना॒ इति॑ सु॒ऽमनाः॑। भ॒व॒। प॒र॒मे। वृ॒क्षे। आयु॑धम्। नि॒धायेति॑ नि॒ऽधाय॑। कृत्ति॑म्। वसा॑नः। आ। च॒र॒। पिना॑कम्। बिभ्र॑त्। आ। ग॒हि॒। ५१।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+प॒र॒मे। वृ॒क्षे। आयु॑धम्। नि॒धायेति॑ नि॒ऽधाय॑। कृत्ति॑म्। वसा॑नः। आ। च॒र॒। पिना॑कम्। बिभ्र॑त्। आ। ग॒हि॒। ५।
 </details>
 <details><summary>उवट-टीका</summary>
 

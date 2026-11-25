@@ -6,14 +6,16 @@ title = "०४ युक्ष्वा हि"
 
 Yoke, Agni, as a charioteer, thy steeds who best invoke the Gods: As ancient Hotar take thy seat.
 </details>
-
 <details><summary>मूलम्</summary>
 
 यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒२ऽअश्वाँ॑२ऽअग्ने र॒थीरि॑व।  
 नि होता॑ पू॒र्व्यः स॑दः ॥४ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
+
+यु॒क्ष्व। हि। दे॒व॒हूत॑मा॒निति॑ देव॒ऽहूत॑मान्। अश्वा॑न्। अ॒ग्ने॒। र॒थीरि॒वेति॑ र॒थीःऽइ॑व। नि। होता॑। पू॒र्व्यः। स॒दः॒। ४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
 
 यु॒क्ष्व। हि। दे॒व॒हूत॑मा॒निति॑ देव॒ऽहूत॑मान्। अश्वा॑न्। अ॒ग्ने॒। र॒थीरि॒वेति॑ र॒थीःऽइ॑व। नि। होता॑। पू॒र्व्यः। स॒दः॒। ४।
 </details>
@@ -26,6 +28,20 @@ Yoke, Agni, as a charioteer, thy steeds who best invoke the Gods: As ancient Hot
 <details><summary>महीधर-टीका</summary>
 
 आश्विनग्रहस्य पुरोरुक् या वां कशेत्यस्याः स्थाने (७.११) व्याख्यातेयम् (१३। ३७)॥ ४॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+नि हो पसंदः ॥४॥ 1
+
+अयं मन्त्रश्चतुर्द्-दशे ऽध्याये चतुर्थे ऽनुवाके व्याख्यातः ।
+
+"द्वे विरूपे " इति शुक्रग्रहस्य पुरोऋक्-
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+आश्विनस्य पुरोरुक् ।
+
+व्याख्यातो ऽयं ' मन्त्रः [ १४/३६ ] ॥ ४ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

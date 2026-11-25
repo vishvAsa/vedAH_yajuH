@@ -6,16 +6,18 @@ title = "४४ तद्विप्रासो विपन्यवो"
 
 This, Vishnu's station most sublime, the singers ever vigilant. Lovers of holy song, light up.
 </details>
-
 <details><summary>मूलम्</summary>
 
 तद्विप्रा॑सो विप॒न्यवो॑ जागृ॒वाँसः॒ समि॑न्धते।  
 विष्णो॒र्यत्प॑र॒मं प॒दम् ॥४४ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तत्। विप्रा॑सः। वि॒प॒न्यवः॑। जा॒गृ॒वाँस॒ इति॑ जागृ॒वाँसः॑। सम्। इ॒न्ध॒ते॒। विष्णोः॑। यत्। प॒र॒मम्। प॒दम्। ४४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+तत्। विप्रा॑सः। वि॒प॒न्यवः॑। जा॒गृ॒वाँस॒ इति॑ जागृ॒वाँसः॑। सम्। इ॒न्ध॒ते॒। विष्णोः॑। यत्। प॒र॒मम्। प॒दम्। ७।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -50,6 +52,16 @@ This, Vishnu's station most sublime, the singers ever vigilant. Lovers of holy s
 जागृवांसः जागरणशीलाः अप्रमत्ताः।
 
 ज्ञानकर्मसु समुच्चयकारिण इत्यर्थः॥ ४४॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+छान्दसं पदम् ।
+
+व्यत्ययः ।
+
+अरिष्टेभिः हिंसारहितैः करणभूतैररिष्ठैः ।
+
+सौभगेभिः "सुभगत्व-निमित्त-भूतैर् अहोरात्रैः । हे अश्विनौ, अस्मान् परिपातं परिरक्षतम् । 'तन्नो मित्रो 'वरुणः' इति व्याख्यातो मन्त्रः [ ३२।४२ ] ॥ २४ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

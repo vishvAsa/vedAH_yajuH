@@ -6,16 +6,18 @@ title = "७२ काव्ययोराजानेषु क्रत्व
 
 Come ye foe-slayers to the place of meeting, to the birth-places of the two great Sages, With force of intellect unto the dwelling.
 </details>
-
 <details><summary>मूलम्</summary>
 
 काव्य॑योरा॒जाने॑षु॒ क्रत्वा॒ दक्ष॑स्य दुरो॒णे।  
 रि॒शाद॑सा स॒धस्थ॒ऽआ ॥७२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 काव्य॑योः। आ॒जाने॒ष्वित्या॒ऽजाने॑षु। क्रत्वा॑। दक्ष॑स्य। दु॒रो॒णे। रि॒शाद॑सा। स॒धस्थ॒ इति॑ स॒धऽस्थे॑। आ। ७२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+काव्य॑योः। आ॒जाने॒ष्वित्या॒ऽजाने॑षु। क्रत्वा॑। दक्ष॑स्य। दु॒रो॒णे। रि॒शाद॑सा। स॒धस्थ॒ इति॑ स॒धऽस्थे॑। आ। ३।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -60,6 +62,14 @@ Come ye foe-slayers to the place of meeting, to the birth-places of the two grea
 दक्षस्येति विशेषणाद्यजमानपदमध्याहर्तव्यम्।
 
 आ इत्युपसर्गेण गच्छतमिति क्रियाध्याहारः॥ ७२॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+आजानेषु देवेषु मध्ये, काव्ययोः स्तुत्ययोः युवयोः' अर्थाय क्रत्वा कर्मणा निमित्त-भूतेन, दक्षस्य, कर्मंसु प्रवृद्धस्य यजमानस्य, दुरोणे यागगृहे तत्रापि सधस्थे सध-स्थाने वेद्याम्, रिशादसा शत्रूणा हिंसकौ आसीदतम् इति शेष: ।
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+'अयं मन्त्रो व्याख्यातः [२०१२] ।। ५२ ।।
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

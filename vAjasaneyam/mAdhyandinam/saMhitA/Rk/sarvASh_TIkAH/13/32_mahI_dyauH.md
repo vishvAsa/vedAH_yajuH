@@ -6,16 +6,18 @@ title = "३२ मही द्यौः"
 
 May Heaven and Earth, the Mighty Pair, besprinkle this our sacrifice, And feed us full with nourishments.
 </details>
-
 <details><summary>मूलम्</summary>
 
 म॒ही द्यौः पृ॑थि॒वी च॑ नऽ इ॒मं य॒ज्ञं मि॑मिक्षताम्।  
 पि॒पृ॒तां नो॒ भरी॑मभिः ॥३२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 म॒ही। द्यौः। पृ॒थि॒वी। च॒। नः॒। इ॒मम्। य॒ज्ञम्। मि॒मि॒क्ष॒ता॒म्। पि॒पृ॒ताम्। नः॒। भरी॑मभि॒रिति॒ भरी॑मऽभिः। ३२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+म॒ही। द्यौः। पृ॒थि॒वी। च॒। नः॒। इ॒मम्। य॒ज्ञम्। मि॒मि॒क्ष॒ता॒म्। पि॒पृ॒ताम्। नः॒। भरी॑मभि॒रिति॒ भरी॑मऽभिः। ६।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -24,6 +26,12 @@ May Heaven and Earth, the Mighty Pair, besprinkle this our sacrifice, And feed u
 <details><summary>महीधर-टीका</summary>
 
 महीति व्याख्याता (८। ३२)॥ ३२॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ तृतीयः - 'मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षताम् । नो भरोमभिः' इति ।
+
+अयं मन्त्रो नवमे ऽध्याये व्याख्यातः ॥ ६ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

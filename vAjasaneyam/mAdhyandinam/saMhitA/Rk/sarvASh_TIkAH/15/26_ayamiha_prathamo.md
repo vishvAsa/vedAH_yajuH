@@ -6,16 +6,18 @@ title = "२६ अयमिह प्रथमो"
 
 Here by ordainers was this God appointed first Invoker, best at worship, to be praised at rites; Whom Apnavâna and the Bhrigus caused to shine bright-coloured in the wood, spreading to every house.
 </details>
-
 <details><summary>मूलम्</summary>
 
 अ॒यमि॒ह प्र॑थ॒मो धा॑यि धा॒तृभि॒र्होता॒ यजि॑ष्ठोऽअध्व॒रेष्वीड्यः॑।  
 यमप्न॑वानो॒ भृग॑वो विरुरु॒चुर्वने॑षु चि॒त्रं वि॒भ्वं᳖ वि॒शेवि॑शे ॥२६ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒यम्। इ॒ह। प्र॒थ॒मः। धा॒यि॒। धा॒तृभि॒रिति॑ धा॒तृऽभिः॑। होता॑। यजि॑ष्ठः। अ॒ध्व॒रेषु॑। ईड्यः॑। यम्। अप्न॑वानः। भृग॑वः। वि॒रु॒रु॒चुरिति॑ विऽरु॒रु॒चुः। वने॑षु। चि॒त्रम्। वि॒भ्व᳖मिति॑ वि॒ऽभ्व᳖म्। वि॒शेवि॑श॒ इति॑ वि॒शेऽवि॑शे। २६।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒यम्। इ॒ह। प्र॒थ॒मः। धा॒यि॒। धा॒तृभि॒रिति॑ धा॒तृऽभिः॑। होता॑। यजि॑ष्ठः। अ॒ध्व॒रेषु॑। ईड्यः॑। यम्। अप्न॑वानः। भृग॑वः। वि॒रु॒रु॒चुरिति॑ विऽरुरु॒चुः। वने॑षु। चि॒त्रम्। विभ्व᳙मिति॑ वि॒ऽभ्व॒म्। वि॒शेवि॑श॒ इति॑ वि॒शेऽवि॑शे। ७।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -32,6 +34,12 @@ Here by ordainers was this God appointed first Invoker, best at worship, to be p
 तिस्रो जगत्य आग्नेय्यः।
 
 आद्या व्याख्याता (अध्या० ३ क० १५)॥ २६॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अयम् इह ' इत्यादि तृचं जागतम् ।
+
+प्रथमा व्याख्याता ॥७॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

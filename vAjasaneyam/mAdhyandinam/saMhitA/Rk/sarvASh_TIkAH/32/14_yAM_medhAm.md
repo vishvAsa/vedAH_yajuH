@@ -6,16 +6,18 @@ title = "१४ यां मेधाम्"
 
 That wisdom which the Companies of Gods, and Fathers, recognize, Even with that intelligence, O Agni, make me wise to-day. All-hail!
 </details>
-
 <details><summary>मूलम्</summary>
 
 यां मे॒धां दे॑वग॒णाः पि॒तर॑श्चो॒पास॑ते।  
 तया॒ माम॒द्य मे॒धयाऽग्ने॑ मे॒धावि॑नं कुरु॒ स्वाहा॑ ॥१४ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 याम्। मे॒धाम्। दे॒व॒ग॒णा इति॑ देवऽग॒णाः। पि॒तरः॑। च॒। उ॒पास॑ते॒ इत्यु॑प॒ऽआस॑ते। तया॑। माम्। अ॒द्य। मे॒धया॑। अग्ने॑ मे॒धावि॑नम्। कु॒रु॒। स्वाहा॑। १४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+याम्। मेधाम्। देवगणाः। पितरः। च। उप। आसते। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कुरु। स्वाहा। ११।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -44,6 +46,12 @@ That wisdom which the Companies of Gods, and Fathers, recognize, Even with that 
 देवगणाः देवसमूहाः पितरश्च यां मेधामुपासते पूजयन्ति।
 
 देवपितृमान्या बुद्धिरस्माकमस्त्वित्यर्थः॥ १४॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+द्वितीयमाहहे अग्ने अग्नि-प्रकाशान्तर्यामिन् देव-गणाः देव-समूहाः यां मेधाम् उपासते प्रार्थयन्ते, तया मेघया अद्य इदानीं मां मेधाविनं कुरु स्वाहा इति होमार्थ: ।
+
+कामनाप्रसङ्गात् श्री-कामस्य कंचिन्मन्त्रं दर्शयति-
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -6,16 +6,18 @@ title = "२४ मूर्द्धानं दिवोऽअरतिम्
 
 Him, messenger of earth and head of heaven, Agni Vaisvânara, born in holy Order, The Sage, the King, the Guest of men, a vessel fit for their mouths, the Gods have generated.
 </details>
-
 <details><summary>मूलम्</summary>
 
 मू॒र्द्धानं॑ दि॒वोऽअ॑र॒तिं पृ॑थि॒व्या वै॑श्वान॒रमृ॒तऽआ जा॒तम॒ग्निम्।  
 क॒विँ स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्ना पात्रं॑ जनयन्त दे॒वाः ॥२४॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मू॒र्द्धान॑म्। दि॒वः। अ॒र॒तिम्। पृ॒थि॒व्याः। वै॒श्वा॒न॒रम्। ऋ॒ते। आ। जा॒तम्। अ॒ग्निम्। क॒विम्। स॒म्राज॒मिति॑ स॒म्ऽराज॑म्। अति॑थिम्। जना॑नाम्। आ॒सन्। आ। पात्र॑म्। ज॒न॒य॒न्त॒। दे॒वाः। २४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+मू॒र्द्धान॑म्। दि॒वः। अ॒र॒तिम्। पृ॒थि॒व्याः। वै॒श्वा॒न॒रम्। ऋ॒ते। आ। जा॒तम्। अ॒ग्निम्। क॒विम्। स॒म्राज॒मिति॑ स॒म्ऽराज॑म्। अति॑थिम्। जना॑नाम्। आ॒सन्। आ। पात्र॑म्। ज॒न॒य॒न्त॒। दे॒वाः। १।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -116,6 +118,10 @@ Him, messenger of earth and head of heaven, Agni Vaisvânara, born in holy Order
 ‘विज्ञायते हि चमसो देवपान इति चमसेन ह वा एतेन भूतेन देवा भक्षयन्ति’ (१.४। २। १४) इति श्रुतेः।
 
 ईदृशमग्निं देवा इन्द्रादयोऽजनयन्तेत्यर्थः॥ २४॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+( ७:४ [ भुषमन्त्राः
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

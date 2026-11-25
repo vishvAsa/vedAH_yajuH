@@ -6,16 +6,18 @@ title = "७१ गावऽउपावतावतं मही"
 
 Ye Cows, protect, etc., as in verse 14.
 </details>
-
 <details><summary>मूलम्</summary>
 
 गाव॒ऽउपा॑वताव॒तं म॒ही य॒ज्ञस्य॑ र॒प्सुदा॑।  
 उ॒भा कर्णा॑ हिर॒ण्यया॑ ॥७१ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 गावः। उप॑। अ॒वत॒। अ॒वतम्। म॒हीऽइति॑ म॒ही। य॒ज्ञस्य॑। र॒प्सुदा॑। उभा। कर्णा॑। हि॒र॒ण्यया॑। ७१।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+गावः॑। उप॑। अ॒व॒त॒। अ॒व॒तम्। म॒हीऽइति॑ म॒ही। य॒ज्ञस्य॑। र॒प्सुदा॑। उ॒भा। कर्णा॑। हि॒र॒ण्यया॑। २।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -24,6 +26,14 @@ Ye Cows, protect, etc., as in verse 14.
 <details><summary>महीधर-टीका</summary>
 
 गाव उपेति व्याख्याता ( ३३ । १९) ॥ ७१॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+व्याख्याता एषा ( ) ७१ । 1
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+'अयं मन्त्रो व्याख्यातः [२०१२] ।। ५२ ।।
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

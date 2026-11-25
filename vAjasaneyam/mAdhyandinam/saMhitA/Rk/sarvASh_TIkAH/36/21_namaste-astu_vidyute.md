@@ -6,16 +6,18 @@ title = "२१ नमस्तेऽअस्तु विद्युते"
 
 Homage to thee the lightning flash, homage to thee the thunder's roar! Homage, O Bounteous Lord, to thee whereas thou fain wouldst win to heaven!
 </details>
-
 <details><summary>मूलम्</summary>
 
 नम॑स्तेऽअस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑।  
 नम॑स्ते भगवन्नस्तु॒ यतः॒ स्वः᳖ स॒मीह॑से ॥२१ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 नमः॑ ते। अ॒स्तु॒। वि॒द्युत॒ इति॑ वि॒ऽद्युते॑। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। भ॒ग॒व॒न्निति॑ भगऽवन्। अ॒स्तु॒। यतः॑। स्व᳖रिति॒ स्वः᳖। स॒मीह॑स॒ इति॑ स॒म्ऽईह॑से। । २१।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+नमः॑। ते। अ॒स्तु॒। वि॒द्युत॒ इति॑ वि॒ऽद्युते॑। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। भ॒ग॒व॒न्निति॑ भगऽवन्। अ॒स्तु॒। यतः॑। स्व᳖रिति॒ स्वः᳖। स॒मीह॑स॒ इति॑ स॒म्ऽईह॑से। २१।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -42,6 +44,12 @@ Homage to thee the lightning flash, homage to thee the thunder's roar! Homage, O
 स्तनयित्नवे स्तनयित्नुर्गर्जितं तद्रूपाय ते नमोऽस्तु।
 
 यतः कारणात् स्वः स्वर्गं गन्तुं त्वं समीहसे चेष्टसे अतस्ते तुभ्यं नमोऽस्तु॥२१॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+४ चत्वारो मन्त्रा व्याख्याताः [ ३५/५४; १२/५१-५३ ] ॥
+
+१४–१७ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

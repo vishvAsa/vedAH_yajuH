@@ -6,16 +6,18 @@ title = "६२ उपास्मै गायता"
 
 Sing forth to Indu, O ye men, to him as he is purified, Fain to pay worship to the Gods.
 </details>
-
 <details><summary>मूलम्</summary>
 
 उपा॑स्मै गायता नरः॒ पव॑माना॒येन्द॑वे।  
 अ॒भि दे॒वाँ२ऽइय॑क्षते ॥६२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उप॑। अ॒स्मै॒। गा॒य॒त॒। न॒रः॒। पव॑मानाय। इन्द॑वे। अ॒भि। दे॒वान्। इय॑क्षते। ६२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+उप॑। अ॒स्मै॒। गा॒य॒त॒। न॒रः॒। पव॑मानाय। इन्द॑वे। अ॒भि। दे॒वान्। इय॑क्षते। ८।
 </details>
 <details><summary>उवट-टीका</summary>
 

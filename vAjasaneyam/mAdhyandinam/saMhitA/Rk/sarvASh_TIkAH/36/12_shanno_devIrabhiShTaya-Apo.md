@@ -6,13 +6,16 @@ title = "१२ शन्नो देवीरभिष्टयऽआपो"
 
 May the celestial Waters, our helpers, be sweet for us to drink, And flow with health and strength to us.
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शन्नो॑ दे॒वीर॒भिष्ट॑य॒ऽआपो॑ भवन्तु पी॒तये॑।  
 शंयोर॒भि स्र॑वन्तु नः ॥१२ ॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ ।  
+शं योर॒भि स्र॑वन्तु नः ॥१२॥ १२
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 शम्। नः॒। दे॒वीः। अ॒भिष्ट॑ये। आपः॑। भ॒व॒न्तु॒। पी॒तये॑। शंयोः। अ॒भि। स्र॒व॒न्तु॒। नः॒। १२।
@@ -42,6 +45,18 @@ May the celestial Waters, our helpers, be sweet for us to drink, And flow with h
 आपः शं योः रोगाणां शमनं भयानां यवनं पृथक्करणं च अभिस्रवन्तु।
 
 नोऽस्माकं भयरोगनाशं कुर्वन्त्वित्यर्थः १२
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+शँय्योर भिस्रवन्तु नः ॥ 1
+
+देवीः देव्यः देवन-शीला आपः नः अस्माकं पीतये पानाय अभिष्टये अभ्येषणाय इष्टार्थाभि- गमनाय च शं सुखं यथा भवति तथा भवन्तु ।
+
+अपि च नः अस्माकं शंयोः रोगाणां शमनाय भयानां पृथक् करणाय च अभिस्रवन्तु अभितः प्रवहन्तु ।
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

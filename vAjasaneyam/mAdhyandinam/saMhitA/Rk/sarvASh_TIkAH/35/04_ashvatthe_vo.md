@@ -6,16 +6,23 @@ title = "०४ अश्वत्थे वो"
 
 The Holy Fig Tree is your home, your mansion is the Parna Tree: Winners of cattle shall ye be if ye regain for me this man.
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता।  
 गो॒भाज॒ऽइत्किला॑सथ॒ यत्स॒नव॑थ॒ पू॑रुषम् ॥४ ॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता ।  
+गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ॥४॥ ३८
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒श्व॒त्थे। वः॒। नि॒षद॑नम्। नि॒सद॑न॒मिति॑ नि॒ऽसद॑नम्। प॒र्णे। वः॒। व॒स॒तिः। कृ॒ता। गो॒भाज॒ इति॑ गो॒ऽभाजः॑। इ॒त्। किल॑। अ॒स॒थ॒। यत्। स॒नव॑थ। पूरु॑षम्। पुरु॑ष॒मिति॒ पुरु॑षम्। ४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+गो॒भाज॒ इति॑ गो॒ऽभाजः॑। इ॒त्। किल॑। अ॒स॒थ॒। यत्। स॒नव॑थ। पूरु॑षम्। ४।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -24,6 +31,24 @@ The Holy Fig Tree is your home, your mansion is the Parna Tree: Winners of cattl
 <details><summary>महीधर-टीका</summary>
 
 अनुष्टुप् व्याख्याता (अ० १२। क० ७९)॥ ४॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+[ ३५ । ३७-४० ( अनु० ४१४ - ६ )
+तत्-पाठस्तुव्याख्यातः अयं मन्त्रः ( /८० ) ।
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+६ अयं मन्त्रो व्याख्यातः [१३८० ] ॥ ३६ ॥
+
+च पर-वर्तिनः सविता त इति मन्त्रस्यादिमोंऽशः ।
+
+अत्रानन्द-बोधेन स्वेष पृथग् एव व्याख्यातः ।
+
+शरीराणि निवपति [का० श्रौ० २१/४।५] -
+'सविता ते शरीराणि मातुर् उपस्थ आवपतु ।
+
+तस्मै पृथिवि शं भव ।
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

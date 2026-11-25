@@ -6,16 +6,18 @@ title = "१४ युञ्जते मनऽउत"
 
 The priests of him the lofty Priest well-skilled in hymns harness their spirits, yea harness their holy thoughts. He only knowing works assigns their priestly tasks. Yea, lofty is the praise of Savitar the God. All-hail!
 </details>
-
 <details><summary>मूलम्</summary>
 
 यु॒ञ्जते॒ मन॑ऽउ॒त यु॑ञ्जते॒ धियो॒ विप्रा॒ विप्र॑स्य बृ॒ह॒तो वि॑प॒श्चितः॑।  
 वि होत्रा॑ दधे वयुना॒विदेक॒ऽइन्म॒ही दे॒वस्य॑ सवि॒तुः परि॑ष्टुतिः॒ स्वाहा॑ ॥१४॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 यु॒ञ्जते॑। मनः॑। उ॒त। यु॒ञ्ज॒ते॒। धियः॑। विप्राः॑। विप्र॑स्य। बृ॒ह॒तः। वि॒प॒श्चित॒ इति॑ विपः॒ऽचितः॑। वि। होत्राः॑। द॒धे॒। व॒यु॒ना॒वित्। व॒यु॒न॒विदिति॑ वयुन॒ऽवित्। एकः॑। इत्। म॒ही। दे॒वस्य॑। स॒वि॒तुः। परि॑ष्टुतिः। परि॑स्तुति॒रितिः॒। स्वाहा॑। १४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+यु॒ञ्जते॑। मनः॑। उ॒त। यु॒ञ्ज॒ते॒। धियः॑। विप्राः॑। विप्र॑स्य। बृ॒ह॒तः। वि॒प॒श्चित॒ इति॑ विपः॒ऽचितः॑। वि। होत्राः॑। द॒धे॒। व॒यु॒ना॒वित्। व॒यु॒न॒विदिति॑ वयुन॒ऽवित्। एकः॑। इत्। म॒ही। दे॒वस्य॑। स॒वि॒तुः। परि॑ष्टुतिः। परि॑स्तुति॒रितिः॒। स्वाहा॑। २।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -156,6 +158,12 @@ The priests of him the lofty Priest well-skilled in hymns harness their spirits,
 सवितुर्देवस्य मही महती परिष्टुतिः स्तवनम्।
 
 ब्रह्माद्या ऋत्विजो यत्कर्म कुर्वते तत्सवितुः प्रेरणेनैवेति सवितुर्महती स्तुतिरित्यर्थः॥ १४॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+व्याख्यातो ऽयं ६ मन्त्रः [ ५। १६ ] ॥ २ ॥
+
+अथ मृत्पिण्डं परिगृह्णाति [ शत० ब्रा० १४ । १।२। ]-
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -6,16 +6,18 @@ title = "९८ त्वां गन्धर्वाऽअखनँस्त
 
 Thee did Gandharvas dig from earth, thee Indra and Brihaspati. King Soma, knowing thee, O Plant, from his Consumption was made free.
 </details>
-
 <details><summary>मूलम्</summary>
 
 त्वां ग॑न्ध॒र्वाऽअ॑खनँ॒स्त्वामिन्द्र॒स्त्वां बृह॒स्पतिः॑।  
 त्वामो॑षधे॒ सोमो॒ राजा॑ वि॒द्वान् यक्ष्मा॑दमुच्यत ॥९८ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 त्वाम्। ग॒न्ध॒र्वाः। अ॒ख॒न॒न्। त्वाम्। इन्द्रः॑। त्वाम्। बृह॒स्पतिः॑। त्वाम्। ओ॒ष॒धे॒। सोमः॑। राजा॑। वि॒द्वान्। यक्ष्मा॑त्। अ॒मु॒च्य॒त॒। ९८।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+त्वाम्। ग॒न्ध॒र्वाः। अ॒ख॒न॒न्। त्वाम्। इन्द्रः॑। त्वाम्। बृह॒स्पतिः॑। त्वाम्। ओ॒ष॒धे॒। सोमः॑। राजा॑। वि॒द्वान्। यक्ष्मा॑त्। अ॒मु॒च्य॒त॒। २४।
 </details>
 <details><summary>उवट-टीका</summary>
 

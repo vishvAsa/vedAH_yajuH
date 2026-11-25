@@ -6,16 +6,18 @@ title = "७४ ता\uf15c सवितुर्वरेण्यस्य"
 
 That wondrous all-mankind-embracing favour of Savitar, choice-worthy, I solicit, Even his which Kanva wont to milk, the mighty, the teeming Cow who yields a thousand milk-streams.
 </details>
-
 <details><summary>मूलम्</summary>
 
 ताँ स॑वि॒तुर्वरे॑ण्यस्य चि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्वज॑न्याम्।  
 याम॑स्य॒ कण्वो॒ अदु॑ह॒त् प्रपी॑नाँ स॒हस्र॑धारां॒ पय॑सा म॒हीं गाम् ॥७४ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ताम्। स॒वि॒तुः। वरे॑ण्यस्य। चि॒त्राम्। आ। अ॒हम्। वृ॒णे॒। सु॒म॒तिमिति॑ सुऽम॒तिम्। वि॒श्वज॑न्याम्। याम्। अ॒स्य॒। कण्वः॑। अदु॑हत्। प्रपी॑ना॒मिति॒ प्रऽपी॑नाम्। स॒हस्र॑धारा॒मिति॑ स॒हस्र॑ऽधाराम्। पय॑सा। म॒हीम्। गाम्। ७४।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+ताम्। स॒वि॒तुः। वरे॑ण्यस्य। चि॒त्राम्। आ। अ॒हम्। वृ॒णे॒। सु॒म॒तिमिति॑ सुऽम॒तिम्। वि॒श्वज॑न्याम्। याम्। अ॒स्य॒। कण्वः॑। अदु॑हत्। प्रपी॑ना॒मिति॒ प्रऽपी॑नाम्। स॒हस्र॑धारा॒मिति॑ स॒हस्र॑ऽधाराम्। पय॑सा। म॒हीम्। गाम्। १०।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -70,6 +72,14 @@ That wondrous all-mankind-embracing favour of Savitar, choice-worthy, I solicit,
 सर्वसिद्धिदात्रीम्।
 
 रवेर्मतिर्या कण्वेन दुग्धा तामहं वृणे इति सर्वार्थः॥ ७४॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+सावित्री त्रिष्टुप् ।
+
+पुरस्ताज् ज्योतिः ।
+
+सहस्र-धारां पयसा क्षीरेण महीं महतीं गां धेनुम् अहम् आवृणे प्रवृणोमि ॥७४॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

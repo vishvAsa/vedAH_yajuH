@@ -6,16 +6,18 @@ title = "९७ नाशयित्री बलासस्यार्शस
 
 Banisher of catarrh art thou, of tumours and of hemorrhoids; Thou banished Pâkâru and Consumption in a hundred forms.
 </details>
-
 <details><summary>मूलम्</summary>
 
 ना॒श॒यि॒त्री ब॒लास॒स्यार्श॑सऽउप॒चिता॑मसि।  
 अथो॑ श॒तस्य॒ यक्ष्मा॑णां पाका॒रोर॑सि॒ नाश॑नी ॥९७ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ना॒श॒यि॒त्री। बलास॑स्य। अर्श॑सः। उ॒प॒चिता॒मित्यु॑प॒ऽचिता॑म्। अ॒सि॒। अथोऽइत्यथो॑। श॒तस्य॑। यक्ष्मा॑णाम्। पा॒का॒रोरिति॑ पाकऽअ॒रोः। अ॒सि॒। नाश॑नी। ९७।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+ना॒श॒यि॒त्री। बलास॑स्य। अर्श॑सः। उ॒प॒चिता॒मित्यु॑प॒ऽचिता॑म्। अ॒सि॒। अथो। शतस्य। यक्ष्माणाम्। पाकारोरसि। नाशनी। २१।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -54,6 +56,10 @@ Banisher of catarrh art thou, of tumours and of hemorrhoids; Thou banished Pâk�
 पाकेनारुः पाकारुत्तस्य।
 
 यद्वा पाकोऽन्नपाकस्तस्यारुर्व्यथा मन्दाग्नित्वं तस्य नाशनी त्वमसि॥ ९७॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+इति भाष्यान्तरम्
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

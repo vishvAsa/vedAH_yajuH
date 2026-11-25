@@ -6,16 +6,18 @@ title = "९२ याऽओषधीः सोमराज्ञीर्बह
 
 Of all the many Plants whose King is Soma, Plants of hundred forms, Thou art the Plant most excellent, prompt to the wish, sweet to the heart.
 </details>
-
 <details><summary>मूलम्</summary>
 
 याऽओष॑धीः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः।  
 तासा॑मसि॒ त्वमु॑त्त॒मारं॒ कामा॑य॒ शँ हृ॒दे ॥९२ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 या। ओष॑धीः। सोम॑राज्ञी॒रिति॒ सोम॑ऽराज्ञीः। ब॒ह्वीः। श॒तवि॑चक्षणा॒ इति॑ श॒तऽवि॑ऽचक्षणाः। तासा॑म्। अ॒सि॒। त्वम्। उ॒त्त॒मेत्यु॑त्ऽत॒मा। अर॑म्। कामा॑य। शम्। हृदे। १२।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+या। ओष॑धीः। सोम॑राज्ञी॒रिति॒ सोम॑ऽराज्ञीः। ब॒ह्वीः। श॒तवि॑चक्षणा॒ इति॑ श॒तऽवि॑ऽचक्षणाः। तासा॑म्। अ॒सि॒। त्वम्। उ॒त्त॒मेत्यु॑त्ऽत॒मा। अर॑म्। कामा॑य। शम्। हृदे। १८।
 </details>
 <details><summary>उवट-टीका</summary>
 

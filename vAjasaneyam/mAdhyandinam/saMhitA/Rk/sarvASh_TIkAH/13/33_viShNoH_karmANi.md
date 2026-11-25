@@ -6,16 +6,18 @@ title = "३३ विष्णोः कर्माणि"
 
 Look ye on Vishnu's works whereby the Friend of Indra, close allied, Hath let his holy ways be seen.
 </details>
-
 <details><summary>मूलम्</summary>
 
 विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे।  
 इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥३३ ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 विष्णोः॑। कर्मा॑णि। प॒श्य॒त॒। यतः॑। व्र॒तानि॑। प॒स्प॒शे। इन्द्र॑स्य। युज्यः॑। सखा॑। ३३।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+विष्णोः॑। कर्मा॑णि। प॒श्य॒त॒। यतः॑। व्र॒तानि॑। प॒स्प॒शे। इन्द्र॑स्य। युज्यः॑। सखा॑। ७।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -28,6 +30,18 @@ Look ye on Vishnu's works whereby the Friend of Indra, close allied, Hath let hi
 चतुष्कोणं संकुचितं खातहीनमुदुम्बरतरुजमूर्ध्वमुलूखलम् वृत्तं मुसलम् ते उभे स्वयमातृण्णोत्तरे देशे तन्मध्याद्धस्तमात्रे तृतीये लोके विष्णोरिति मन्त्रेण सहैवोपदधातीति सूत्रार्थः।
 
 व्याख्याता (६.४)॥ ३३॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अत्र चयने उलूखलमुसले उपधातव्ये ।
+
+पाठस् तु - विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे ।
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+'मही द्यौः ', ' विष्णोः कर्माणि ' इति द्वौ मन्त्रौ व्याख्यातौ ॥
+
+६-७ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

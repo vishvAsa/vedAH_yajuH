@@ -6,16 +6,18 @@ title = "४० पुनरूर्जा निवर्त्तस्व"
 
 Return again with nourishment; Agni, again with food and life. Again preserve us from distress.
 </details>
-
 <details><summary>मूलम्</summary>
 
 पुन॑रू॒र्जा निव॑र्त्तस्व॒ पुन॑रग्नऽइ॒षायु॑षा।  
 पुन॑र्नः पा॒ह्यँह॑सः ॥४० ॥
 </details>
-
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 पुनः॑। ऊ॒र्जा। नि। व॒र्त्त॒स्व॒। पुनः॑। अ॒ग्ने॒। इ॒षा। आयु॑षा। पुनः॑। नः॒। पा॒हि॒। अँह॑सः। ४०।
+</details>
+<details><summary>पदपाठः - काण्वः</summary>
+
+पुनः॑। ऊ॒र्जा। नि। व॒र्त्त॒स्व॒। पुनः॑। अ॒ग्ने॒। इ॒षा। आयु॑षा। पुनः॑। नः॒। पा॒हि॒। अँह॑सः। ११।
 </details>
 <details><summary>उवट-टीका</summary>
 
@@ -26,6 +28,18 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 <details><summary>महीधर-टीका</summary>
 
 द्वे व्याख्याते (क० ९)॥ ४०॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ तृतीयः - ' पुनर् ऊर्जा नि वर्तस्व पुनरग्न इषाऽऽयुषा । पुननैः पाह्य हसः' इति ।
+
+दे "अग्ने, त्वम् ऊर्जा क्षीरादि-रसे न सह पुनः निवर्तस्व अत्रागच्छ । 'इषा अन्नेन 'आयुषा सह पुन: आगच्छ । 'नः अस्मान् पुनः-पुनः कृतात् 'अहसः पाहि पालय ॥११॥
+</details>
+<details><summary>आनन्दबोध-टीका</summary>
+
+' पुनरूर्जा' ' सह रय्या' इति द्वौ मन्त्रौ गायत्रौ व्याख्यातौ ॥११
+
+- १२ ॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

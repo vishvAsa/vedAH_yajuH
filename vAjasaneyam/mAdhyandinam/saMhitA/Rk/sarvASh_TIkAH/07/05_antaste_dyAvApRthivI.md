@@ -6,13 +6,16 @@ title = "०५ अन्तस्ते द्यावापृथिवी"
 
 The heaven and spacious earth I lay within thee, I lay within thee middle air's wide region. Accordant with the Gods lower and higher, Rich Lord, rejoice thee in the Antaryâma. O Self-made art thou..... light-atoms (verse 3 repeated). Thee for the upward breath.
 </details>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒न्तस्ते॒ द्यावा॑पृथि॒वी द॑धाम्य॒न्तर्द॑धाम्यु॒र्व᳙न्तरि॑क्षम्।  
 स॒जूर्दे॒वेभि॒रव॑रैः॒ परै॑श्चान्तर्या॒मे म॑घवन् मादयस्व ॥५॥
 </details>
+<details><summary>मूलम् - काण्वम्</summary>
 
+अ॒न्तस्ते॒ द्यावा॑पृथि॒वी द॑धाम्य॒न्तर्द॑धाम्यु॒र्व॒न्तरि॑क्षम् । 
+स॒जूर्दे॒वेभि॒रव॑रैः॒ परै॑श्चान्तर्या॒मे म॑घवन् मादयस्व ।
+</details>
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒न्तरित्य॒न्तः। ते॒। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। द॒धा॒मि॒। अ॒न्तः। द॒धा॒मि॒। उ॒रु। अ॒न्तरि॑क्षम्। स॒जूरिति॑ स॒ऽजूः। दे॒वेभिः॑। अव॑रैः। परैः॑। च॒। अ॒न्त॒र्य्याम इत्य॑न्तःऽया॒मे। म॒घ॒वन्निति॑ मघऽवन्। मा॒द॒य॒स्व॒। ५।
@@ -54,6 +57,10 @@ The heaven and spacious earth I lay within thee, I lay within thee middle air's 
 यद्वा तृप्यस्व ‘मद तृप्तौ’ चुरादिरात्मनेपदी।
 
 देवेभिरित्यत्र ‘बहुलं छन्दसि’ (पा० ७। १.१०) इति ऐसोऽभावे ऽबहुवचने झल्येत्’ (पा० ७। ३। १०३) इति एकारः॥ ५॥
+</details>
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+सायणाचार्य - आनन्दबोध- माष्य-समेता
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
