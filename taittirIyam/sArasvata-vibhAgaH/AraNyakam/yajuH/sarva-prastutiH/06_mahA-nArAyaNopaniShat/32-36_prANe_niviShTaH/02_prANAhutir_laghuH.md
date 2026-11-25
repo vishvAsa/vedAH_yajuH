@@ -2,15 +2,20 @@
 title = "०२ प्राणाहुतिर् लघुः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 जलप्राशनादूर्ध्वं प्राणाहुतिमन्त्रान्दर्शयति —
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणे᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । प्राणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -41,11 +46,14 @@ I sacrifice nectar sitting in the Prana-breath; Hail for the Prana!
 
 पञ्चसु शरीरगतवायुभेदेषु मध्ये प्रथमे प्राणनामके वायौ निविष्ट आदरयुक्तोऽहममृतं स्वादुभूतमिदं हविर्जुहोमि प्रक्षिपामि। तच्च प्राणदेवतायै स्वाहा स्वाहुतमस्तु। एवमपादिषु योज्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । अपाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -66,11 +74,14 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 - अपाना᳓य (*TS*-16/54, *TB*-1/4, *AV*-6/30, *SB-K*-10/32)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -91,11 +102,14 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 - व्याना᳓य (*TS*-8/26, *TB*-2/5, *SB-M*-4/12, *SB-K*-8/51, *VS-M*-8/11, *VS-K*-7/13)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । उदाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -116,11 +130,14 @@ I sacrifice nectar sitting in the Udana-breath; Hail for the Udana!
 - उदाना᳓य (*TS*-3/4, *SB-M*-1/15, *SB-K*-5/51, *VS-K*-2/5)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । समाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -140,4 +157,5 @@ I sacrifice nectar sitting in the Samana-breath; Hail for the Samana:
 - जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5, *SB-K*-15, *VS-K*-5)
 - समाना᳓य (*TS*-0/50, *RV*-0/67, *TB*-0/17, *AV*-0/32, *SB-M*-0/12, *SB-K*-1/78, *VS-M*-0/4, *VS-K*-0/5, प्रातिपदिकम् समान᳓ (*MW*))
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
 </details>

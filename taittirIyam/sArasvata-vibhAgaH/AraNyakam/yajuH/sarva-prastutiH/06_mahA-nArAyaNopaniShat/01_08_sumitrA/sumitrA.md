@@ -2,6 +2,8 @@
 title = "sumitrA"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 30)* Mantra to be uttered after going in the water up to the navel.
@@ -21,11 +23,14 @@ title = "sumitrA"
 
 इत्यात्मानमभिषिच्य,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 सुमित्रा᳓ न आ᳓प ओ᳓षधयस् सन्तु,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -41,8 +46,11 @@ May the waters and the plants be good friends to us;
 
 या एता आपस्ता एतास्तज्जन्या व्रीहियवाद्योषधयश्च नोऽस्मान्प्रति सुमित्राः स्नानपानभोजनादावनुकूलाः सन्तु।
 </details>
+</details>
 
 _________________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -53,12 +61,15 @@ _________________
 
 इति जलं हस्ताभ्यां तीरे त्रिर्निक्षिप्य,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 दुर्मित्रा᳓स् त᳓स्मै भूयासुर्  
 यो᳙ऽस्मा᳓न् द्वे᳓ष्टि य᳓ञ् च वय᳓न् द्विष्मः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -80,8 +91,11 @@ may they become bad friends to them, who hate us and whom we hate.
 
 यः शत्रुरस्मासु द्वेषं करोति यस्मिंश्च वयं द्वेषं कुर्म उभयविधाय तस्मै शत्रवे दुर्मित्राः प्रतिकूला भूयासुः स्नानपानभोजनादौ ज्वराजीर्णादिकमुत्पादयन्तु।
 </details>
+</details>
 
 _________________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
@@ -102,11 +116,14 @@ _________________
 
 इति तीर्थाधिदैवतं श्रियः पतिं प्रणम्य,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 न᳓मोऽग्न᳓येऽप्सुम᳓ते,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -129,11 +146,14 @@ Salutation to the fire, full of the water
 
 अद्भिस्तद्वान् अप्सुमान् । वरुणस्य पत्नी वारुणी । गतमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 न᳓म  इ᳓न्द्राय,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -144,11 +164,14 @@ salutation to Indra
 
 नम॒  इन्द्रा॑य,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 न᳓मो व᳓रुणाय,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -159,11 +182,14 @@ salutation to Varuna
 
 नमो॒ वरु॑णाय,
 </details>
+</details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः व्यत्यस्ताः 2/2)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/2 व्यत्यस्त-स्वराः)</summary>
 
 न᳓मो वारुण्यै᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -180,11 +206,14 @@ salutation to Varuni (the wife of Varuna)
 - न᳓मः᳓ → **न᳓मः** (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - वा᳓रु᳓ण्यै → **वारुण्यै᳓** (*SB-M*-2, *TS*-5/10, *TB*-2 वारुणी᳓)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 न᳓मोऽद्भ्यः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -205,5 +234,6 @@ salutation to the waters.
 <details><summary>सायण-टीका</summary>
 
 आपो यस्याग्नेः सन्ति सोऽयमप्सुमान्, जलमध्ये निगूढ इत्यर्थः। तथाविधायाग्नय इन्द्राय वरुणाय वारुण्यै वरुणपत्न्यै जलाभिमानिदेवताभ्यश्च नमस्कारोऽस्तु।
+</details>
 </details>
 

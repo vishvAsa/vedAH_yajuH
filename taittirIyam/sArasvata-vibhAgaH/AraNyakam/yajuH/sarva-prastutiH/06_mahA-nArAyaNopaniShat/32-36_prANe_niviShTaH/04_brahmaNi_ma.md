@@ -7,6 +7,8 @@ title = "०४ ब्रह्मणि म"
 ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (48)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 My soul is in Brahman for immortality.
@@ -28,5 +30,6 @@ My soul is in Brahman for immortality.
 <details><summary>सायण-टीका</summary>
 
 एताभिः पञ्चभिराहुतिभिरमृतत्वाय मोक्षाय मे मदीय आत्मा जीवो ब्रह्मणि परमात्मनि एकी भवत्विति शेषः॥
+</details>
 </details>
 

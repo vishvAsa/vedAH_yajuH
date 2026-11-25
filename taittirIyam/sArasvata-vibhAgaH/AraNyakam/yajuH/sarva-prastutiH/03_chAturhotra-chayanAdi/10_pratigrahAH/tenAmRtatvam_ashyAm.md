@@ -9,6 +9,8 @@ title = "तेना॑मृत॒त्वम॑श्याम्"
 म᳓यो म᳓ह्यम् अस्तु प्रतिग्रहीत्रे᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 by that may we obtain the immortality; may food be for the donator and comfort for me, the obtainer (4).
@@ -26,12 +28,15 @@ by that may we obtain the immortality; may food be for the donator and comfort f
 तेन हिरण्येन प्रतिगृहीतेन इष्टकाभूतेन अहं अमृतत्वं अश्यां प्राप्यासम् ।  
 वयः अन्नं दात्रे हिरण्यं दत्तवतेऽस्तु । मां च तत्प्रतिग्रहीत्रे मयः सुखमस्तु, दातुरेवोपकारकत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓ इद᳓ङ्क᳓स्मा अदात् ।  
 का᳓मः का᳓माय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -59,6 +64,7 @@ Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 किञ्च - कः प्रजापतिरेव कस्मै प्रजापतये इदं हिरण्यं अदात्, न देवदत्तो मह्यम् । अनिर्ज्ञातपरमार्थः प्रजापतिः कशब्देनोच्यते । यद्वा - क इति प्रजापतेस्संज्ञा, व्यत्ययेन स्मैभावः । कामः इच्छा । काम एव कामाय ददाति ।  
 अन्य आह - इदं हिरण्यं को नाम कस्मै वा दातुमर्हति कामादृते । तस्मात् कामः कामाय ददाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -66,6 +72,8 @@ Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 (15)  
 का᳓मः प्रतिग्रहीता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -78,12 +86,15 @@ Kāma is the donator, Kāma is the obtainer;
 (15)  
 कामः॑ प्रतिग्रही॒ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मँ समुद्र᳓म् आ᳓विश ।  
 का᳓मेन त्वा प्र᳓तिगृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -100,12 +111,15 @@ Kāma is the donator, Kāma is the obtainer;
 
 तथा हि - काम एव दाता, काम एव प्रतिग्रहीता, न देवदत्तो, न चाहम् । तस्मात् समुद्र समुद्रसदृशं अनन्तत्वात् काममाविश । ततः कामेनैकीभावमापन्नं त्वां अहं प्रतिगृह्णामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मैत᳓त् ते ।  
 एषा᳓ ते काम द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -126,11 +140,14 @@ O Kāma, this is yours; O Kāma, this is your Dakṣiṇā (sacrificial fee);
 एतत् ते हिरण्यं, त्वमेव प्रतिगृहाण ।  
 एषा हि त्वदीया दक्षिणा इदानीमिष्टकाभूता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तान᳓स् त्वाङ्गीरसः᳓ प्र᳓तिगृह्णातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -164,5 +181,6 @@ may Uttāna Āṅgirasa obtain you (5).
 <details><summary>सायण-टीका</summary>
 
 तेनाग्निप्रापणेन प्रग्रहदोषाभावादहममृतत्वं नरकाभावरूपं प्राप्नुयाम् । इयं च दक्षिणा दात्रे वयोऽस्तु पक्षिरूपिणी भूत्वा दातारं स्वर्गं नयत्वित्यर्थः । प्रतिग्रहीत्रे मह्यं मयः सुखमस्तु । इदं द्रव्यं कः प्रजापतिः कस्मै प्रजापतयेऽदाद्दत्तवान्, अन्तर्यामिरूपेण दातृप्रतिग्रहीत्रोः प्रेरकत्वात् । तथा कामः कामाय दत्तवान् । यथा प्रजापतिरदृष्टप्रेरकस्तथा कामस्य दृष्टप्रेरकत्वात् । तस्मात्काम एव दाता प्रतिग्रहीता च । स्वर्गादिफलविषयः कामो दाता, ऐहिकसुखविषः कामः प्रतिग्रहीता । ततो हे दक्षिणे समुद्रसमं कामं प्रविश । कामेन निमित्तेन त्वां प्रतिगृह्णामि । हे मद्धृदयवर्ति काम तदेतद्द्रव्यं तुभ्यं भवति । हे काम ते त्वत्प्रीतय एवैषा दक्षिणा प्रवृत्ता । अङ्गिरोगोत्रे समुत्पन्नस्य उत्तानाख्यो महर्षिस्त्वां प्रतिगृह्णातु ।
+</details>
 </details>
 

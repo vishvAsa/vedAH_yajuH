@@ -7,6 +7,8 @@ title = "आ॒यत॑नवान्भवति"
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 He, who knows thus, becomes the possessor of an abode.
@@ -16,4 +18,5 @@ He, who knows thus, becomes the possessor of an abode.
 
 आ॒यत॑नवान्भवति ।  
 य ए॒वव्ँ वेद॑ ।
+</details>
 </details>

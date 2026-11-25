@@ -2,6 +2,8 @@
 title = "01_amRtopastaraNam"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantra for tasting water before taking the meal.
@@ -16,11 +18,14 @@ Mantra for tasting water before taking the meal.
 
 अथ भोजनादावपां प्राशने मन्त्रमाह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृतोपस्त᳓रणमसि । (47)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -46,5 +51,6 @@ You are the bed of the nectar.
 <details><summary>सायण-टीका</summary>
 
 पीयमान हे जाल त्वममृतं विनाशरहितं प्राणदेवताया उपस्तरणमसि। यथा शयानस्य पुंसो मच्चकस्योपरितनं पटादिकमुपस्तीर्यते तद्वत्प्राणदेवताया इदमुपस्तरणम्। तथा च वाजसनेयिनः प्राणविद्यायां प्राणदेवताया जलवस्त्रत्वमामन्ति---"तस्मादशिष्यन्नाचाभेदशित्वाऽऽचामेदेतमेव तदन्नमनग्नं कुरुते " इति॥
+</details>
 </details>
 

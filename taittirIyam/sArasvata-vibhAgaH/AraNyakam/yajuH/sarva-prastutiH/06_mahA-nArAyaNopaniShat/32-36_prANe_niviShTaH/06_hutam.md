@@ -2,6 +2,8 @@
 title = "०६ हुतम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 श्रद्धायामिति ॥ हुताशनानुमन्त्रणमन्त्रः गतप्रायः ।
@@ -11,11 +13,14 @@ title = "०६ हुतम्"
 
 भुक्तस्यानुमन्त्रणे मन्त्रमाह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा᳓यां प्राणे᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, प्राण᳓म् अ᳓न्नेना᳓प्यायस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -49,11 +54,14 @@ The nectar has been sacrificed sitting in the faith, in the Prana-breath; increa
 
 वैदिके कर्मणि विश्वासातिशयः श्रद्धा, तस्यां सत्यां प्राणवायौ निविश्याऽऽदरातिशयं कृत्वाऽमृतमविनश्वरं स्वादुभूतमिदं हविर्मया हुतम्। हे प्राणाभिमानिदेव हुतेनान्नेनाऽऽप्यायस्व वर्धयस्व। स्पष्टमन्यत्॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाने᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, अपान᳓म् अ᳓न्नेना᳓प्यायस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -76,11 +84,14 @@ the nectar has been sacrificed sitting in the Apana; increase the Apana by the f
 - आ → **आ᳓** (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115)
 - प्यायस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-4, *SB-K*-6, *VS-K*-3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याने᳓ नि᳓विश्यामृ᳓तँ हुतव्ँ᳓, व्यान᳓म् अ᳓न्नेना᳓प्यायस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -103,11 +114,14 @@ The nectar has been sacrificed sitting in the Vyana; increase the Vyana by the f
 - आ → **आ᳓** (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115)
 - प्यायस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-4, *SB-K*-6, *VS-K*-3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदाने᳓ नि᳓विश्यामृ᳓तँ हुत᳓म्, उदान᳓म् अ᳓न्नेना᳓प्यायस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -130,11 +144,14 @@ The nectar has been sacrificed sitting in the Udana; increase the Udana by the f
 - आ → **आ᳓** (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115)
 - प्यायस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-4, *SB-K*-6, *VS-K*-3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाने᳓ निवि᳓श्यामृ᳓तँ हुतँ᳓, समान᳓म् अ᳓न्नेना᳓प्यायस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -157,11 +174,14 @@ The nectar has been sacrificed sitting in the Samana; increase the Samana by the
 - आ → **आ᳓** (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115)
 - प्यायस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-4, *SB-K*-6, *VS-K*-3)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (51)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -179,4 +199,5 @@ My soul is in the Brahman for immortality.
 - मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
 - आत्मा᳓ (*TS*-41/167, *RV*-13/20, *TB*-10/39, *TK*-4/7, *AV*-14/62, *SB-M*-47/108, *SB-K*-385/1051, *VS-M*-3/5, *VS-K*-7/12)
 - अमृतत्वा᳓य (*TS*-1, *RV*-3, *SB-K*-1, *VS-K*-1)
+</details>
 </details>

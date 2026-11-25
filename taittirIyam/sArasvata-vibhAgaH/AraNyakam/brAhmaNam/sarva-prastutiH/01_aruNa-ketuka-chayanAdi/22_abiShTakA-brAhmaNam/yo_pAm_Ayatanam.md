@@ -7,6 +7,8 @@ title = "यो॑ऽपामा॒यत॑न॒व्ँ वेद॑"
 आय᳓तनवान् भवति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 He, who knows the abode of the waters, becomes the possessor of an abode.
@@ -23,4 +25,5 @@ He, who knows the abode of the waters, becomes the possessor of an abode.
 आयतनं स्थानं कारणम् ।  
 तच्च यथासम्भवं यथाकथञ्चित् कल्प्यम् ।  
 ज्ञानमात्रं फलाय भवति श्रुतिसामर्थ्यात् ।
+</details>
 </details>

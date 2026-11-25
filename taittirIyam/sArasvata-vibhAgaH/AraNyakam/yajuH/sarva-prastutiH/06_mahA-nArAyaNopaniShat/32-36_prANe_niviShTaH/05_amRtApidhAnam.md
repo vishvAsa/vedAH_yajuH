@@ -2,6 +2,8 @@
 title = "०५ अमृतापिधानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantra for drinking the water after finishing the meal.
@@ -16,11 +18,14 @@ Mantra for drinking the water after finishing the meal.
 
 भोजनादूर्ध्वमपां प्राशने मन्त्रमाह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृतापिधा᳓नमसि । (50)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -46,5 +51,6 @@ You are the cover of the nectar.
 <details><summary>सायण-टीका</summary>
 
 पीयमान हे जल त्वममृतमविनश्वरमपिधानमाच्छादकमसि॥
+</details>
 </details>
 

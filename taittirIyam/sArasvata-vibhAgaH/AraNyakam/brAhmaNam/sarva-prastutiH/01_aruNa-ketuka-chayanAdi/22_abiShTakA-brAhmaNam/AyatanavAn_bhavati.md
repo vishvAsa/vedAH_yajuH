@@ -6,6 +6,8 @@ title = "आ॒यत॑नवान्भवति"
 आय᳓तनवान् भवति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 (Yes,) becomes the possessor of an abode.
@@ -19,4 +21,5 @@ title = "आ॒यत॑नवान्भवति"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं वेदिता शोभनायतनः शोभनकारणो वा भवति ॥२॥
+</details>
 </details>

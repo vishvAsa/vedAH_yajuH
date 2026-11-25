@@ -15,6 +15,8 @@ unicode_script: devanagari
 **ना᳓श्लील᳓ङ् कीर्तयेत्**। एता᳓ एव᳓ देव᳓ताः **प्रीणाति** ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 Who abuse the new or old readers (learned ones), the knowers of the Vedas; they all abuse the sun, the fire, the second and the swan (Haṁsa = Ātman), the third.
@@ -29,4 +31,5 @@ Whatever gods there are, they all live in the Brāhmaṇa, who knows the Vedas. 
 उक्तमग्न्यादित्रितयात्मकत्वं वेदविदः । इदानीं सर्व देवतामयत्वमाह - यावतीरिति ॥ यावत्यो देवतास्सन्ति तास्सर्वा अपि वेदविदि वेदार्थज्ञे ब्राह्मणे वसन्ति, सर्वदेवतासामर्थ्यात्मकत्वाद्वेदार्थस्य । एतेन च अर्थज्ञानपर्यन्तत्वमध्ययनस्य सूचितम् ॥
 
 तस्मादित्यादि ॥ गतम् । दिवेदिवे दिनेदिने । दिनशब्दपर्यायाद् दिव्शब्दाद्व्यत्ययेन चतुर्थी । अश्लीलम् अशुभं, अश्रीकमिति यावत् । कपिलकादित्वाल्लत्वविकल्पः, मत्वर्थीयो लः । एवं वर्तमान एतास्सर्वा देवताः प्रीणाति ॥
+</details>
 </details>

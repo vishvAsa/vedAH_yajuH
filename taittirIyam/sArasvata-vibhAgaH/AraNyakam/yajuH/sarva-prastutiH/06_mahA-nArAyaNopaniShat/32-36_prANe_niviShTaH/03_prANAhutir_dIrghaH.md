@@ -2,9 +2,12 @@
 title = "०३ प्राणाहुतिर् दीर्घः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्राणाहुतिष्वेव विकल्पितानि मन्त्रान्तराणि दर्शयति —
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ title = "०३ प्राणाहुतिर् दीर्घः"
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 प्राणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -50,6 +55,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 
 हूयमान हे द्रव्यविशेष त्वं शिवः शान्तो भूत्वा मां प्रविश। किमर्थम्। अप्रदाहाय क्षुत्संपादितदाहशान्त्यर्थम्। अन्यत्पूर्ववव्द्याख्येयम्॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,6 +63,8 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 अपाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -84,6 +92,7 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 - अपाना᳓य (*TS*-16/54, *TB*-1/4, *AV*-6/30, *SB-K*-10/32)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -91,6 +100,8 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 व्याना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -118,6 +129,7 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 - व्याना᳓य (*TS*-8/26, *TB*-2/5, *SB-M*-4/12, *SB-K*-8/51, *VS-M*-8/11, *VS-K*-7/13)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -125,6 +137,8 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 उदाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -152,6 +166,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 - उदाना᳓य (*TS*-3/4, *SB-M*-1/15, *SB-K*-5/51, *VS-K*-2/5)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,6 +174,8 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 समाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -185,4 +202,5 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 - अ᳓-प्रदाहाय (*TS*-4, *TB*-4, *SB-M*-1, *SB-K*-2)
 - समाना᳓य (*TS*-0/50, *RV*-0/67, *TB*-0/17, *AV*-0/32, *SB-M*-0/12, *SB-K*-1/78, *VS-M*-0/4, *VS-K*-0/5, प्रातिपदिकम् समान᳓ (*MW*))
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
 </details>
