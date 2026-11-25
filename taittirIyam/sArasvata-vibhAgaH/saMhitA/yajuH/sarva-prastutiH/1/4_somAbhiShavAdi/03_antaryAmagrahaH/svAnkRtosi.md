@@ -168,7 +168,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
+उर्व् अ᳙न्त᳓रिक्षम् अ᳓न्विहि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
 
@@ -257,12 +257,18 @@ _______
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/07/06_deve_bhyas_tvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवे᳓भ्यस् त्वा मरीचिपे᳓भ्यः।
+देवे᳓भ्यस् त्वा मरीचि-पे᳓भ्यः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Thee for the Deities who sip light-atoms.
+</details>
 
 <details><summary>Keith</summary>
 
@@ -271,10 +277,15 @@ To the gods that drink the rays thee
 
 <details><summary>मूलम्</summary>
 
-दे॒वेभ्य॑स्त्वा मरीचि॒पेभ्यः॑।
+दे॒वेभ्य॑स्त्वा मरीचि॒पेभ्यः॑
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+दे॒वेभ्यः॑। त्वा॒। म॒री॒चि॒पेभ्य॒ इति॑ मरीचि॒ऽपेभ्यः॑।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 दे॒वेभ्यः॑ । त्वा॒ । म॒री॒चि॒पेभ्य॒ इति॑ मरीचि-पेभ्यः॑ ।
 </details>
@@ -284,6 +295,7 @@ To the gods that drink the rays thee
 मरीचिशब्देन मरीचिमान् सूर्य उच्यते, यस्मै ग्रहः पूर्वं हुतः । 'लुगकारेकाररेफाश्च' इति मत्वर्थीयस्य लुक् । साहचर्याद्वोच्यते । मरीचिमत्सूर्यमण्डलं पान्ति रक्षन्तीति मरीचिपाः रश्मयः । 'आदित्यस्य वै रश्मयो देवा मरीचिपाः' इति ब्राह्मणम् । यद्वा - आदित्यस्य् मरीचिनैव विश्वं पान्ति तामेव पिबन्तीति वा मरीचिपाः देवविशेषाः । 'आदित्यस्व वै रश्मयः' इति च गुणभूतत्वमुच्यते । आदित्यस्य रश्मिस्थानीया इति यावत् । तेभ्यो देवेभ्यस्त्वां ग्रहलेपं निमार्ज्मीति शेषः ॥
 </details>
 </details>
+</div>
 
 _______
 <details><summary>सर्वा अवतारिकाः</summary>

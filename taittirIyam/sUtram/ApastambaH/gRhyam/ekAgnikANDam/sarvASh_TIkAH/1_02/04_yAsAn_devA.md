@@ -53,9 +53,15 @@ MP. substitutes *níviṣṭās* for *bhavantī* in **b**. The comm. renders
 Whom the Gods make their beverage in heaven, they who wax manifold in air's mid-region, They who took Agni as a germ, fair-coloured,--those Waters bring felicity and bless us!
 </details>
 
+<details><summary>मूलम् - शौनकम्</summary>
+
+यासां॑ दे॒वा दि॒वि कृ॒ण्वन्ति॑ भ॒क्षं या अ॒न्तरि॑क्षे बहु॒धा भ॑वन्ति।  
+या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्ता न॒ आपः॒ शं स्यो॒ना भ॑वन्तु ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
-यासा॑म्। दे॒वाः। दि॒वि। कृ॒ण्वन्ति॑। भ॒क्षम्। याः। अ॒न्तरि॑क्षे। ब॒हु॒ऽधा। भव॑न्ति। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒। 
+यासा॑म्। दे॒वाः। दि॒वि। कृ॒ण्वन्ति॑। भ॒क्षम्। याः। अ॒न्तरि॑क्षे। ब॒हु॒ऽधा। भव॑न्ति। याः। अ॒ग्निम्। गर्भ॑म्। द॒धि॒रे। सु॒ऽवर्णाः॑। ताः। नः॒। आपः॑। शम्। स्यो॒नाः। भ॒व॒न्तु॒।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

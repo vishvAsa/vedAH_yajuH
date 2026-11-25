@@ -43,3 +43,4 @@ My guess is that some ancient ritualist copied over the AtharvaNa mantra and mod
 
 शिवेन त्वेति ॥ हे वधु ।आपः त्वां शिवेन चक्षुषा पश्न्तु शिवया च तन्वा ते त्वचं उपस्पृशन्तु घृतश्चुतः घृतस्सं दुहानाः । शुचयः इत्यादि । गतम् ॥
 </details>
+
