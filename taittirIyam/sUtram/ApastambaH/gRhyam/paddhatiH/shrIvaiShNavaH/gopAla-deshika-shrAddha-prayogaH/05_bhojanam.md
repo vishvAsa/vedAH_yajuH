@@ -2822,7 +2822,7 @@ verily he delights the seasons, the gods, the fathers.
 विसृष्टाश्च ब्राह्मणाः,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/44_vAmadevAya_namaH/">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (5/18 व्यत्यस्त-स्वराः)</summary>
 
 वामदेवा᳓य न᳓मो  
 ज्येष्ठा᳓य न᳓मः  

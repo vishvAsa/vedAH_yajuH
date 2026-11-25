@@ -103,7 +103,7 @@ I know well the soul (Ātman) of Indra, which is (like) the gold, shining and lo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/26 व्यत्यस्त-स्वराः)</summary>
 
 अन्तः᳓ **प्र᳓विष्टश् शास्ता᳓** ज᳓नानाम् ।  
 ए᳓कस् स᳓न् बहुधा᳓ **[[विचारः|विचारः᳓]]** ।  
@@ -259,7 +259,7 @@ Catur-Hotṛ Mantras. See T.A. 3.7.2.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 ब्र᳓ह्मे᳓न्द्रम् अग्नि᳓ञ् ज᳓गतः **प्रतिष्ठा᳓म्** ।  
 दिव᳓ आत्मा᳓नँ सविता᳓रं बृ᳓हस्-प᳓तिम् ।  
@@ -680,7 +680,7 @@ Who holds the world in the sheath of the egg of the creation (Aṇḍakośa) hav
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/20 व्यत्यस्त-स्वराः)</summary>
 
 सुव᳓र्णङ् को᳓शँ र᳓जसा **प᳓रीवृतम्** +++(चन्द्रम्)+++।  
 देवा᳓नाव्ँ वसु-**धा᳓नीव्ँ** विरा᳓जम् । (23)  
@@ -1224,7 +1224,7 @@ May Indra give us that prosperity which is abundant, not destroyable, full of ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
 
 शतँ᳓ शता᳓ अस्य **युक्ता᳓** ह᳓रीणाम् ।  
 अर्वा᳓ङ् आ᳓ **यातु** व᳓सुभी रश्मि᳓र् इ᳓न्द्रः ।  
@@ -1466,7 +1466,7 @@ There moves the great wheel (year) of five fellies (seasons); that golden light 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (3/17 व्यत्यस्त-स्वराः)</summary>
 
 सप्त᳓ **युञ्जन्ति** र᳓थम् ए᳓क-चक्रम् +++(सूर्यस्य)+++। (27)  
 ए᳓को अ᳓श्वो **वहति** [[सप्त-नामा᳓|सप्त᳓-नामा]] ।  
@@ -2024,7 +2024,7 @@ Whatever are the cattle of the village having many forms, having various forms, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/11 व्यत्यस्त-स्वराः)</summary>
 
 +++(अग्निप्रजापती!)+++ **वीतँ᳓** [[स्तुके-स्तुके|स्तु᳓के-स्तुके]] ।  
 युव᳓म् अस्मा᳓सु **नि᳓यच्छतम्** ।  

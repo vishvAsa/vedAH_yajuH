@@ -878,7 +878,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/8 व्यत्यस्त-स्वराः)</summary>
 
 वैश्वदेवीव्ँ᳓ [[वा᳓चमुद्यासँ|वा᳓चमु᳓द्यासँ]]
 शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
@@ -1320,7 +1320,7 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/4 व्यत्यस्त-स्वराः)</summary>
 
 ओं᳓ [[शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः|शा᳓न्तिश्शान्तिश्शान्तिः]] ॥
 </details>

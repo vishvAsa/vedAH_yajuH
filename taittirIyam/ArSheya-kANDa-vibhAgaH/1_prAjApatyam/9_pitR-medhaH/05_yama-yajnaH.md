@@ -1688,7 +1688,7 @@ He, who knows Yama, becomes able to speak like that one Seer (God) who knows all
 
 (12)
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/14 व्यत्यस्त-स्वराः)</summary>
 
 त्रि᳓कद्रुकेभिः [[प᳓तति|पतति]]  
 ष᳓ड् उर्वी᳓र् ए᳓कम् इ᳓द् बृह᳓त् ।  
@@ -1744,7 +1744,7 @@ By Trikedrukasa (three sacrifices named Jyotis, Gaurus, Ayu) whatever falls on t
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (3/12 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓हर् अहर् न᳓यमानो  
 गा᳓म् अ᳓श्वं पु᳓रुषञ् ज᳓गत् ।  
@@ -1794,7 +1794,7 @@ Yama, the son of the sun, does not satisfy taking away day-by-day the cow, the h
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (5/16 व्यत्यस्त-स्वराः)</summary>
 
 [[वै᳓वस्वते|वैवस्वते᳓]] वि᳓विच्यन्ते  
 [[य᳓मे|यमे᳓]] रा᳓जनि ते᳓+++(~~ते~~)+++ [[जनाः᳓|ज᳓नाः]] ।  
@@ -1849,7 +1849,7 @@ Those men are described before Yama, the king, the son of the sun, whoever desir
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/16 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ राजन्न् इह᳓ [[वि᳓विच्यन्ते|वि᳓विच्यन्ते᳓]]  
 [[ऽथा᳓|ऽथा]] यन्ति [[त्वाम्|त्वा᳓म्]] उ᳓प ।  

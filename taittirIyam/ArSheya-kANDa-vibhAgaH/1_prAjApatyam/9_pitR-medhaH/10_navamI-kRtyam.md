@@ -35,7 +35,7 @@ Ceremonies to be performed on the tenth day after cremation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 आ᳓ रोहता᳓युर् जर᳓सङ् गृणाना᳓  
 अनुपूर्वय्ँ᳓ य᳓तमाना य᳓ति [[ष्ट᳓|ष्ट]] ।  
@@ -183,7 +183,7 @@ Oblation of ghee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/15 व्यत्यस्त-स्वराः)</summary>
 
 न᳓ [[हि|हि᳓]] ते अग्ने तनु᳓वै  
 क्रूर᳓ञ् चका᳓र म᳓र्त्यः ।  
@@ -321,7 +321,7 @@ Mantra to be uttered while touching a red bull.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
 
 अनड्वा᳓हम् अन्वा᳓रभामहे स्वस्त᳓ये ।  
 स᳓ न इ᳓न्द्र इव देवे᳓भ्यो व᳓ह्निस् [[संपा᳓रणो|सं᳓पा᳓रणो]] भव ।  
@@ -393,7 +393,7 @@ We touch the bull for our welfare; may you (o bull), like Indra, (as) fire, beco
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
 
 इमे᳓ जीवा᳓ [[विमृतै᳓र्|वि᳓मृतै᳓र्]] आ᳓ववर्तिन्न्  
 अ᳓भूद् भद्रा᳓ देव᳓हूतिन् नो अद्य᳓ ।  
@@ -471,7 +471,7 @@ The last man rubs out, with a Sami branch, the foot-prints of those that precede
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/16 व्यत्यस्त-स्वराः)</summary>
 
 मृत्योः᳓ पदय्ँ᳓ योप᳓यन्तो य᳓दै᳓म  
 द्रा᳓घीय आ᳓युः प्रतरा᳓न् द᳓धानाः ।  
@@ -891,7 +891,7 @@ Mantra for eating barley.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 [[यवो᳙ऽसि|य᳓वोऽसि]] यव᳓यास्म᳓द् अघा᳓ द्वे᳓षाँसि ॥ (24)
 </details>

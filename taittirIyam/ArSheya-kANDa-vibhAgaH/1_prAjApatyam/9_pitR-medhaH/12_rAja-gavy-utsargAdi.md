@@ -35,7 +35,7 @@ for non-violence having her face to the east and the west.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/16 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓पश्याम युवति᳓म् आच᳓रन्तीं  
 मृता᳓य जीवां᳓ परिणीय᳓मानाम् ।  
@@ -87,7 +87,7 @@ We have seen the Rajagavi, living one, being carried for the sake of the dead, a
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/18 व्यत्यस्त-स्वराः)</summary>
 
 म᳓यैतां᳓ माँस्तां᳓ भ्रिय᳓माणा देवी᳓  
 सती᳓ पितृलोकय्ँ᳓ [[य᳓दै᳓षि|यदै᳓षि]] ।  
@@ -156,7 +156,7 @@ Mantra for sanctifying the cow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
 
 [[र᳓यिष्ठाम्|रयिष्ठा᳓म्]] अग्निं᳓ म᳓धुमन्तम् ऊर्मि᳓णम्  
 ऊ᳓र्जस्-सन्तन् त्वा प᳓यसो᳓प सँ᳓सदेम ।  
@@ -228,7 +228,7 @@ We reach with milk to the wealthy fire, full of honey, vigour and food; make us 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/15 व्यत्यस्त-स्वराः)</summary>
 
 ये᳓ जीवा᳓ ये᳓ च मृता᳓  
 ये᳓ जाता᳓ ये᳓ च ज᳓न्त्याः ।  
@@ -301,7 +301,7 @@ Releasing of the cow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/18 व्यत्यस्त-स्वराः)</summary>
 
 माता᳓ रुद्रा᳓णान् दुहिता᳓ व᳓सूनाँ  
 स्व᳓सा ऽऽदित्या᳓नाम् अमृ᳓तस्य ना᳓भिः ।  

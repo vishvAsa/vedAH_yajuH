@@ -20521,7 +20521,7 @@ May Brahman come to me, may the honey come to me, may Brahman, verily, the honey
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/15 व्यत्यस्त-स्वराः)</summary>
 
 या᳓स्ते सोम [[प्रजा᳓वत्सो᳓भि|प्रजा᳓वत्सोभि᳓]] सो᳓ अह᳓म् । [[दु᳓स्वप्नह᳓न्दुरुष्वहा᳓|दु᳓स्वप्नहन्दुरुष्वहा᳓]] ।  
 या᳓स्ते सोम प्राणाँ᳓स्ता᳓ञ्जुहोमि ।
@@ -21419,7 +21419,7 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/10 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ इम᳓न्त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य  [[दद्यात्|दद्या᳓त्]] ।  
 भ्रूणहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।
@@ -22039,7 +22039,7 @@ Seated among men, seated in the highest, seated in holy order, seated in the fir
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/10 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ इम᳓न्त्रि᳓सुपर्णम᳓याचितं ब्राह्मणा᳓य [[दद्यात्|दद्या᳓त्]] ।  
 वीरहत्याव्ँ᳓ वा᳓ एते᳓ घ्नन्ति ।

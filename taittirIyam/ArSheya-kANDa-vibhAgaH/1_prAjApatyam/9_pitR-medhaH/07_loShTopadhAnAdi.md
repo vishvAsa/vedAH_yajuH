@@ -202,7 +202,7 @@ O earth, make him comfortful; do not check him; become full of good residence fo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
 
 उछ्म᳓ञ्चमाना पृथिवी᳓ हि᳓ ति᳓ष्ठसि  
 सह᳓स्रं मि᳓त उ᳓प हि᳓ [[श्र᳓यन्ताम्|श्र᳙यन्ताम्]] ।  
@@ -281,7 +281,7 @@ Mantra for throwing Tila and fried barley.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (3/13 व्यत्यस्त-स्वराः)</summary>
 
 [[ए᳓णीर्|एणी᳓र्]] धाना᳓ ह᳓रिणीर्  
 अ᳓र्जुनीस् सन्तु धेन᳓वः ।  
@@ -356,7 +356,7 @@ Mantra for putting the butter.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/11 व्यत्यस्त-स्वराः)</summary>
 
 एषा᳓ ते यमसा᳓दने  
 स्वधा᳓ नि᳓धीयते गृहे᳓ ।  
@@ -431,7 +431,7 @@ Yama which is not destroying. Ceremony for raising a tumulus over the relic jar.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (4/21 व्यत्यस्त-स्वराः)</summary>
 
 इदं᳓ पितृ᳓भ्यः प्र᳓भरेम बर्हि᳓र्  
 देवे᳓भ्यो जी᳓वन्त उ᳓त्तरं भरेम ।  
@@ -640,7 +640,7 @@ Mantra for placing Nala (reed).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/19 व्यत्यस्त-स्वराः)</summary>
 
 नळं᳓ प्लव᳓म् आ᳓रोहैत᳓न्  
 नळे᳓न पथो᳓ऽन्विहि ।  
@@ -790,7 +790,7 @@ Addresses to the manes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/24 व्यत्यस्त-स्वराः)</summary>
 
 ष᳓ड्-ढोता सू᳓र्यन् ते च᳓क्षुर् गच्छतु  
 वा᳓तम् आत्मा᳓ द्या᳓ञ् च [[ग᳓च्छ|गच्छ]]  

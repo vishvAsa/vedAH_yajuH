@@ -202,7 +202,7 @@ O Vacaspati, you are worshipped by the full power of the speech;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 य᳓जमानाय वा᳓र्यम्  
 **आ᳓** सु᳓वस् **[[क᳓र्|कर्]]** अस्मै ।

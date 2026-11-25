@@ -225,7 +225,7 @@ the earth, by the bodies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
 
 वा᳓चस्पते᳓ ऽच्छिद्रया वाचा᳓ ।  
 अ᳓च्छिद्रया जुह्वा᳙ ।  

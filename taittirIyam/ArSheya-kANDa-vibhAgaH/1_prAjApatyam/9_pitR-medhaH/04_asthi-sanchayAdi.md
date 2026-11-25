@@ -81,7 +81,7 @@ We now blow out that fire by milk and water, which we burnt for cooking you as (
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓न् त्व᳓म् अग्ने सम᳓दहस्  
 त्व᳓म् उ नि᳓र्वापया पु᳓नः ।  
@@ -133,7 +133,7 @@ O fire, make him away, whom you have burnt; may here grow by some water any plan
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (4/12 व्यत्यस्त-स्वराः)</summary>
 
 शी᳓तिके शी᳓तिकावति  
 ह्ला᳓दुके ह्ला᳓दुकावति ।  
@@ -659,7 +659,7 @@ Mantra for taking the jar near the branch of Palasa or Sami tree.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/20 व्यत्यस्त-स्वराः)</summary>
 
 उ᳓त्तिष्ठ प्रे᳓हि प्र᳓द्रवौ᳓कः  
 कृणुष्व परमे᳓ व्यो᳙मन् ।  
@@ -728,7 +728,7 @@ Last five Mantras of the Anuvaka III of this Prapathaka. Last Mantra of the Anuv
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/16 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓श्मन्वती [[रेवतीर्|रेव᳓तीर्]]! …  
 य᳓द् वै᳓ देव᳓स्य सवितुः᳓ पवि᳓त्रय्ँ…   

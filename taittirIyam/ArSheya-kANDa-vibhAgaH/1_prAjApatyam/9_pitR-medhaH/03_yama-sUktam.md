@@ -40,7 +40,7 @@ Ceremonies after cremation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/20 व्यत्यस्त-स्वराः)</summary>
 
 प्र᳓ केतु᳓ना बृहता᳓ भात्य् अग्नि᳓र्  
 आवि᳓र् वि᳓श्वानि वृषभो᳓ रोरवीति ।  
@@ -96,7 +96,7 @@ This Fire is burning with great flames; he sounds all the worlds being born as a
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
 
 इद᳓न् त ए᳓कं पर᳓ ऊत ए᳓कन्  
 तृती᳓येन ज्यो᳓तिषा सं᳓विशस्व ।  
@@ -518,7 +518,7 @@ May this go to those, verily, who leave their bodies fighting in the battles or 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/15 व्यत्यस्त-स्वराः)</summary>
 
 त᳓पसा ये᳓ अनाधृष्या᳓स्  
 त᳓पसा ये᳓ [[सु᳓वर्|सुवर्]] गताः᳓ ।  
@@ -599,7 +599,7 @@ Addresses to relatives to take bath in the three pits dug in the north of the cr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓श्मन्वती [[रेवतीस्|रेव᳓तीस्]] सँ᳓-रभध्वम्  
 उ᳓त्तिष्ठत प्र᳓तरता सखायः ।  

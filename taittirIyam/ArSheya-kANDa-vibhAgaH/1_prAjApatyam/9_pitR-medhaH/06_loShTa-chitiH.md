@@ -323,7 +323,7 @@ Yoking of the bulls for ploughing the ground.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/11 व्यत्यस्त-स्वराः)</summary>
 
 सवितै᳓ता᳓नि श᳓रीराणि  
 पृथिव्यै᳓ मातु᳓रुप᳓स्थ आ᳓दधे ।  
@@ -451,7 +451,7 @@ May the bulls comfortably carry the plough, may the men comfortably (cause them 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/11 व्यत्यस्त-स्वराः)</summary>
 
 शु᳓नासीराव् इमाव्ँ᳓ वा᳓चय्ँ  
 य᳓द् दिवि᳓ [[चक्रथुः᳓|चक्र᳓थुः]] प᳓यः ।  
@@ -663,7 +663,7 @@ Unyoking of the bulls.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/12 व्यत्यस्त-स्वराः)</summary>
 
 वि᳓मुच्यध्वम् [[अघ्निया᳓|अ᳓घ्निया]] देवया᳓ना  
 अ᳓तारिष्म त᳓मसस् पार᳓म् [[अस्य᳓|अस्य]] +++(←स्वरः??)+++।  
@@ -739,7 +739,7 @@ Mantra for sprinkling water with an Udumbara branch or a pitcher.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/19 व्यत्यस्त-स्वराः)</summary>
 
 प्र᳓ वा᳓ता [[वा᳓न्ति|वान्ति]] पत᳓यन्ति विद्यु᳓त  
 उ᳓द् ओ᳓षधीर् जिहते पि᳓न्वते सु᳓वः ।  

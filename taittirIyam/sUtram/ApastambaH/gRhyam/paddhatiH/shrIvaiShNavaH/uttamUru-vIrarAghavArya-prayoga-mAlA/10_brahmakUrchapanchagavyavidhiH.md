@@ -1174,7 +1174,7 @@ knowledge, (also) the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[वा᳓क्-पतिर्|वाक्-प᳓तिर्]] +++(→इन्द्रियम्)+++ हो᳓ता ।
 </details>
@@ -1622,7 +1622,7 @@ O Vacaspati, you are worshipped by the full power of the speech;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 य᳓जमानाय वा᳓र्यम्  
 **आ᳓** सु᳓वस् **[[क᳓र्|कर्]]** अस्मै ।
@@ -2183,7 +2183,7 @@ the earth, by the bodies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
 
 वा᳓चस्पते᳓ ऽच्छिद्रया वाचा᳓ ।  
 अ᳓च्छिद्रया जुह्वा᳙ ।  
@@ -2548,7 +2548,7 @@ Vacaspati drank the Soma-juice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 मा᳓ दै᳓व्यस् त᳓न्तुश् **[[छे᳓दि|छेदि]]**, मा᳓ मनुष्यः᳙ ।
 </details>

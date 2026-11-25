@@ -225,7 +225,7 @@ knowledge, (also) the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[वा᳓क्-पतिर्|वाक्-प᳓तिर्]] +++(→इन्द्रियम्)+++ हो᳓ता ।
 </details>

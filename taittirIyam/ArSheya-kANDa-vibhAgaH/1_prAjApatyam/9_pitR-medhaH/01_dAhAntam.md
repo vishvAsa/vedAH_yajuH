@@ -240,7 +240,7 @@ Put off that cloth which you wore before; remember what sacrificial rite you hav
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/13 व्यत्यस्त-स्वराः)</summary>
 
 इमौ᳓ **युनज्मि** ते [[वह्नी᳓|व᳓ह्नी]]  
 अ᳓सु-नीथाय **[[वोढ᳓वे|वो᳓ढवे]]** ।  
@@ -382,7 +382,7 @@ May Pusan, the knower, one whose cattle are not destroyed, the protector drive y
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/17 व्यत्यस्त-स्वराः)</summary>
 
 पूषे᳓मा᳓ आ᳓शा **अ᳓नुवेद** स᳓र्वास्  
 सो᳓ अस्माँ᳓ अ᳓भयतमेन **नेषत्** ।  
@@ -709,7 +709,7 @@ For wealthy fire, all (is oblation)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/18 व्यत्यस्त-स्वराः)</summary>
 
 पु᳓रुषस्य स-यावरि  
 वि᳓ ते प्राण᳓म् **असिस्रसम्** ।  
@@ -775,7 +775,7 @@ For wealthy fire, all (is oblation)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (3/20 व्यत्यस्त-स्वराः)</summary>
 
 **[[मै᳓वम्|मै᳓व᳓म्]]** [[माँस्ता᳓|माँस्ता]]+++(→मांसतया)+++ **प्रिये** ऽह᳓न्  
 देवी᳓ सती᳓ पितृ-लोकय्ँ᳓ **[[य᳓दै᳓षि|यदै᳓षि]]** ।  
@@ -1136,7 +1136,7 @@ Taking the bow from the hand of the dead one live here, verily, for prosperity, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 [[म᳓णिँ|मणिँ᳓]] ह᳓स्ताद् **आद᳓दाना** मृत᳓स्य  
 श्रियै᳓ विशे᳓ पु᳓ष्ट्यै ब᳓लाय ।  
@@ -1297,7 +1297,7 @@ Address to the fire while putting different parts of the slaughtered cow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/19 व्यत्यस्त-स्वराः)</summary>
 
 अग्ने᳓र् व᳓र्म प᳓रि गो᳓भिर्+++(→राजगव्या अवयवैः)+++ **व्ययस्व**  
 सं᳓ **प्रो᳓र्णुष्व** मे᳓दसा पी᳓वसा च ।  
@@ -1460,7 +1460,7 @@ Address to the fire while putting fire on the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 शृतय्ँ᳓ यदा᳓ **[[कर᳓सि|क᳓रसि]]** [[जातवेदो᳓|जातवेदो]]  
 +अ᳓थेम् एनं **प᳓रिदत्तात्** पितृ᳓भ्यः ।  
@@ -1538,7 +1538,7 @@ Address to the fire while burning the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/23 व्यत्यस्त-स्वराः)</summary>
 
 सू᳓र्यन् ते च᳓क्षुर् **गच्छतु**, वा᳓तम् आत्मा᳓  
 द्या᳓ञ् च **[[ग᳓च्छ|गच्छ]]** पृथिवी᳓ञ् च ध᳓र्मणा ।  
@@ -1690,7 +1690,7 @@ May your eye go to the sun, the soul to the wind; go to the heaven, to the earth
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/23 व्यत्यस्त-स्वराः)</summary>
 
 अय᳓व्ँ वै᳓ त्व᳓म्, अस्मा᳓द् अ᳓धि त्व᳓म्  
 एत᳓द् अय᳓व्ँ वै᳓, त᳓द् अस्य यो᳓निर् **असि** ।  

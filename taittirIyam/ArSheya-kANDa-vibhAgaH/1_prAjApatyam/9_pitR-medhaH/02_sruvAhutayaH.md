@@ -107,7 +107,7 @@ Hail for them who are the protectors of his way!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ एत᳓स्य [[पथो᳙भि᳓ऽरक्षिता᳓रस्|पथो᳓भिऽरक्षिता᳓रस्]]  
 ते᳓भ्यस् स्वा᳓हा

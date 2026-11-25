@@ -31,7 +31,7 @@ Ceremony for raising a tumulus over the relic jar.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/21 व्यत्यस्त-स्वराः)</summary>
 
 एता᳓स् ते स्वधा᳓ अमृ᳓ताः करोमि  
 या᳓स् ते धानाः᳓ परिकि᳓राम्य् अ᳓त्र ।  
@@ -103,7 +103,7 @@ Mantras for putting some plants looking at every side.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/14 व्यत्यस्त-स्वराः)</summary>
 
 त्वा᳓म् [[अ᳓र्जुनौ᳓षधीनां|अर्जुनौ᳓षधीनां]]  
 प᳓यो ब्रह्मा᳓ण इ᳓द् विदुः ।  
@@ -148,7 +148,7 @@ O Arjuna (-plant), the Brahmanas know you, verily, as the milk of the plants; fr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/14 व्यत्यस्त-स्वराः)</summary>
 
 [[दूर्वा᳓णाँ|दू᳓र्वाणाँ]] स्तम्ब᳓म् आ᳓हर  
 +एतां᳓ प्रिय᳓तमां म᳓म ।  
@@ -200,7 +200,7 @@ Take the clump of the Durva (-grass), which is my dearest; may that grow abundan
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
 
 का᳓शानाँ स्तम्ब᳓म् आ᳓हर  
 र᳓क्षसाम् अ᳓पहत्यै ।  
@@ -255,7 +255,7 @@ Take the clump of the Kasa (-grass) for killing the Raksasas, for letting them n
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/15 व्यत्यस्त-स्वराः)</summary>
 
 दर्भा᳓णाँ स्तम्ब᳓म् आ᳓हर  
 पितृणा᳓म् ओ᳓षधीं प्रिया᳓म् ।  
@@ -685,7 +685,7 @@ Mantra for placing the Sami tree.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/5 व्यत्यस्त-स्वराः)</summary>
 
 [[शमि᳓|श᳓मि]] शम᳓यास्म᳓द् अघा᳓ द्वे᳓षाँसि
 </details>
@@ -725,7 +725,7 @@ Mantra for placing the barley.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/5 व्यत्यस्त-स्वराः)</summary>
 
 [[यव᳓|य᳓व]] यव᳓यास्म᳓द् अघा᳓ द्वे᳓षाँसि ।
 </details>
@@ -779,7 +779,7 @@ Prayers for taking the dead one in good regions.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/31 व्यत्यस्त-स्वराः)</summary>
 
 पृथिवी᳓ङ् गच्छान्त᳓रिक्षङ् गच्छ  दि᳓वङ् गच्छ  
 दि᳓शो गच्छ सु᳓वर् गच्छ  
@@ -873,7 +873,7 @@ Initial words of the Mantras for digging holes near the burning ground.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/16 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓श्मन्वती [[रेवतीर्|रेव᳓तीर्]] य᳓द् वै᳓ देव᳓स्य सवितुः᳓ पवि᳓त्रय्  
 याँ᳓ राष्ट्रा᳓त् पन्ना᳓द् उ᳓द् वय᳓न्  
