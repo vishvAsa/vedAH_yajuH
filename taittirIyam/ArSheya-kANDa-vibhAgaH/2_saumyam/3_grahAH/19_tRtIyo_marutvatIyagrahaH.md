@@ -8,12 +8,17 @@ title = "१९ तृतीयो मरुत्वतीयग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1तृतीयं मरुत्वतीयं गृह्णाति - मरुत्वानिन्द्रेति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/047/01_marutvA_N_indra.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 मरु᳓त्वाँ इन्द्र वृषभो᳓ र᳓णाय  
 **पि᳓बा सो᳓मम्** अनु-ष्वधं᳓+++(←स्वधा=अन्नम्)+++ म᳓दाय ।  
@@ -21,9 +26,21 @@ _______
 त्वं᳓ **रा᳓जासि** प्रदि᳓वः सुता᳓नाम् ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/01_marutvA_N_indra.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/047/01_marutvA_N_indra.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+म॒रुत्वाँ॑ इन्द्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य ।  
+आ सि॑ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒ताना॑म् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/01_marutvA_N_indra.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -230,6 +247,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। मरुत्वान्- प्राणसम्पन्नः। वृषभः- वर्षकः। अनुष्वधम्- आत्मधारणामनु।  मदाय- तृप्तये। रणाय- रमणाय। सोमम्- रसम्। पिब- अनुभव। मध्वः ऊर्मिं- मधुरतरङ्गभूतं  रसम्। जठरे- हृदये। सीदन् वनस्य जठरे पुनानः, भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः  स्तन्नबाधित इत्यादिषु मन्त्रेषु जठरशब्दस्य मध्यभाग इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः।  हूयमानः- अस्माभिराहूतः। आ सिञ्चस्व- सर्वतः क्षारय। त्वम्। प्रदिवः सुतानाम्-  चिदाकाशजरसानाम्। राजा- स्वामी। असि- भवसि॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **इन्द्र** यः **वृषभः** अपां वर्षिता **मरुत्वान्** । मरुतो देवविशः तद्वान्। स त्वम् **अनुष्वधं** स्वधया सवनीयपुरोडाशादिरूपेण अन्नेनानुगतं **सोमं** **रणाय** रमणीयसंग्रामार्थं **मदाय** तं सोमं **पिब** । किंच **मध्वः** मदकरस्य सोमस्य **ऊर्मिं** संघातं बहुरसं **जठरे** । जग्धमन्नमस्मिंस्तिष्ठतीति जठरमुदरम् । तस्मिन्नुदरे **आ** **सिञ्चस्व** सर्वतः क्षारय । यतः **त्वं** **प्रदिवः** पूर्वेष्वहःसु **सुतानाम्** अभिषुतानां सोमानां **राजासि** ईशितासि । न केवलमधुनातनानामिति भावः । उक्तमर्थं यास्को ब्रवीति-- मरुत्वानिन्द्र मरुद्भिस्तद्वान् वृषभो वर्षितापां रणाय रमणीयाय संग्रामाय पिब सोममनुष्वधमन्वन्नं मदाय मदनीयाय जैत्रायासिञ्चस्व जठरे मधुन ऊर्मिम् । मधु सोममित्यौपमिकं माद्यतेः । इदमपीतरन्मध्वेतस्मादेव । त्वं राजासि पूर्वेष्वप्यहःसु सुतानाम् ' ( निरु. ४. ८ ) इति ॥ अनुस्वधम् । स्वधामनुगम्य वर्तमानम् । ‘ अत्यादयः क्रान्ताद्यर्थे द्वितीयया ' इति समासः । संहितायां पूर्वपदात्' (पा. सू. ८. ३. १०६ ) इति षत्वम् । निरुदकादित्वादन्तोदात्तत्वम् । ऊर्मिम् । अर्तेरूच्च' ' इति मिप्रत्ययः । धातोः ऊ इत्यादेशो रपरः । प्रत्ययस्वरः ॥
@@ -354,10 +376,12 @@ Zur Wonn', o Indra, mit den Maruts trinke, du Stier, zum Rausch nach eigner Lust
 
 भावार्थभाषाः -  हे राजा! जर तू विजय, आरोग्य, बल व दीर्घायु इ. ची इच्छा बाळगलीस तर ब्रह्मचर्य, धनुर्वेदविद्या, जितेन्द्रियत्व व नियमित आहार विहार कर. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 __________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा म॒रुत्व॑त ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [20]
@@ -367,17 +391,19 @@ __________
 
 2 पूर्ववद्ग्रहणं सादनं च ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/17_pUrvo_marutvatIyagrahaH/upayAmagRhItaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्राय त्वा मरुत्वत इति गृह्णाति ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -390,6 +416,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -400,11 +431,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा म॒रुत्व॑ते ।
+इ᳓न्द्राय त्वा मरु᳓त्वते ।
 </details>
 
 <details><summary>Keith</summary>
@@ -417,6 +448,11 @@ to Indra with the Maruts thee!
 इन्द्रा॑य त्वा म॒रुत्व॑ते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ।
+</details>
+
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -425,7 +461,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒र्, इन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
+एष᳓ ते यो᳓निर्, इ᳓न्द्राय त्वा मरु᳓त्वते ॥ [18]
 </details>
 
 <details><summary>Keith</summary>
@@ -437,8 +473,14 @@ This is thy birthplace; to Indra with the Maruts thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा म॒रुत्व॑ते ॥ [18]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । म॒रुत्व॑ते ॥
 </details>
-</div>  
+
+</div>
+  
 
 इति चतुर्थे एकोनविंशोनुवाकः ॥  
 

@@ -7,16 +7,21 @@ title = "०१ शाखाहरणादिः"
 
 ४ द्विपदा विराड् गायत्री, ५ मध्ये ज्योतिस्त्रिष्टुप्, ६-७ एकपदा त्रिष्टुप् । प्रजापतिर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1तत्रामावास्यायां सन्नयतश्शाखामाच्छिनत्यध्वर्युः - इषे त्वोर्जेत्वेति ॥ 'उभावामिन्द्राग्नी' (तै.सं. 1.1.14) इत्यतः प्रागितः प्रभृति ये मन्त्रास्तेषां प्रजापतिः काण्डर्षिः । अत्र केचित् युष्मच्छब्दद्वयाद्द्वे यजुषी आहुः । तदानीं छेदने द्वयोस्समुच्चयः । अपरे तु द्वितीयेन सन्नमनादि कुर्वन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे शाखे!)+++ इ॒षे+++(=अन्नाय सवैरिष्टाय [सन्नायलक्षणाय])+++ त्वा॑  ।+++(र५)+++  
-ऊ॒र्जे त्वा॑ ।
++++(हे शाखे!)+++ इषे᳓+++(=अन्नाय सवैरिष्टाय [सन्नायलक्षणाय])+++ त्वा  ।+++(र५)+++  
+ऊर्जे᳓ त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,19 +48,25 @@ For food thee, for strength thee!
 
 मन्त्रार्थस्तु - इडन्नं सर्वैरेषणीयत्वात् । इह तु सान्नाय्यलक्षणं गृह्यते । ऊर्क् रसः बलप्राणयोरुद्दीपकः । इषु इच्छायाम्, ऊर्ज बलप्राणनयोः, आभ्यां कर्मणि करणे च सम्पदादिलक्षणस्स्त्रियां क्विप्प्रत्ययः (पा.सू. 3.3.108 वा.9), उभयत्र तादर्थ्ये चतुर्थी, 'सावेकाचः' (पा.सू. 6.1.168) इति विभक्तेरुदात्तत्वम् । हे शाखे इडर्थं त्वां छिनद्मि । ऊर्गर्थं त्वां छिनद्मि । एवं योग्यक्रियां सम्पाद्य अध्याहारेण व्याख्येयम् । प्रयोगकाले तु तदर्थस्मृतिमात्रमेव । ऊहप्रवरनामधेयेषु श्रुतपदस्थाने योग्यपदान्तरप्रयोगो युज्यत एव ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2वत्सानपाकरोति - वायवस्स्थेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे वत्साः! धेनोः सकाशाद्)+++ वा॒यव॑स् +++(=गन्तारः)+++ स्थ +++(अन्तरिक्ष-देवत्यत्वात्)+++।  
-उ॒पा॒यव॑स् +++(=उपगन्तारः)+++ स्थ +++(दोहनकाले)+++।+++(र५)+++
++++(हे वत्साः! धेनोः सकाशाद्)+++ वाय᳓वस् +++(=गन्तारः)+++ स्थ +++(अन्तरिक्ष-देवत्यत्वात्)+++।  
+उपाय᳓वस् +++(=उपगन्तारः)+++ स्थ +++(दोहनकाले)+++।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,29 +86,39 @@ Ye are winds, ye are approachers.
 
 <details><summary>पद-पाठः</summary>
 
-वायवः । स्थ । उपायव इत्युप-आयवः । स्थ । 3C ।
+वायवः । स्थ । उपायव इत्युप-आयवः । स्थ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 केचित् आख्यातवृत्त्या द्वे यजुषी आचक्षते । वायवः गन्तारः । वातेर्गतिकर्मणः 'कृवापाजि' (उ.सू. 1) इत्युण्प्रत्ययः । उपायवः उपगन्तारः । उपपूर्वादिणः 'छन्दसीणः' (उ.सू. 2) इत्युण्प्रत्ययः, उभयत्र प्रत्ययस्वरेणान्तोदातत्वम्, उत्तरत्र गतिसमासे कृदुत्तरपदकृतिस्वरत्वम् । स्थेति अस्तेः पञ्चमलकाररूपम् । हे वत्साः मातृसकाशाद्गन्तारो भवत, पुनर्दोहकाले उपगन्तारो भवतेति । वायुशब्देनैषामभिधानं वाय्वधिष्ठातृकत्वमेषां प्रदर्शयितुम् । 'वायुर्वा अन्तरिक्षस्याध्यक्षाः' (तै.ब्रा. 3.2.1) इति ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3गोचराय गाः प्रस्थापयति - देवो व इत्यादिभिस्तिसृभिः ऋग्भिः । तत्र प्रथमया सवितारमभ्यर्थयते । 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
-
-दे॒वो व॑स् सवि॒ता +++(प्रसूत्या)+++ **प्रार्प॑यतु॒**+++(=प्रस्थापयतु)+++  
-श्रेष्ठ॑तमाय॒ कर्म॑णे +++(यज्ञाय)+++। +++(र५)+++
 </details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+देवो᳓ वस् सविता᳓ +++(प्रसूत्या)+++ **प्रा᳓र्पयतु**+++(=प्रस्थापयतु)+++  
+श्रे᳓ष्ठतमाय क᳓र्मणे +++(यज्ञाय)+++। +++(र५)+++
+
+</details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/14_devo_vas.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Let the god Savitr impel you to the most excellent offering.
@@ -110,7 +131,7 @@ Let the god Savitr impel you to the most excellent offering.
 
 <details><summary>पद-पाठः</summary>
 
-देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे । 4D ।
+देवः । वः । सविता । प्रेति । अर्पयतु । श्रेष्ठतमायेति श्रेष्ठ-तमाय । कर्मणे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,25 +139,35 @@ Let the god Savitr impel you to the most excellent offering.
 इयं च द्विपदा विराड्गायत्री जागतगायत्रपादत्वादिति । षू प्रेरणे । देवस्सविता सर्वस्य प्रेरकः, येन विना तृणाग्रमपि न चलति, स युष्मान् प्रार्पयतु प्रस्थापयतु । अर्तेर्णौ पुगागमः (पा.सू. 7.3.36) । किमर्थम्? श्रेष्ठतमाय कर्मणे यज्ञाय । 'यज्ञो हि श्रेष्ठतमं कर्म' (तै.ब्रा. 3.2.1) । प्रकर्षवतामपि पुनःप्रकर्षविवक्षायां द्वितीय आतिशायनिको भवत्येव । तृणादिभक्षणेन सान्नाय्यनिष्पत्यर्थत्वाद्यज्ञार्थं प्रेरणम् ।
 </details>
 </details>
+
 </div>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ प्रस्थाप्यमाना गा एव प्रार्थयते द्वितीयया। 
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
-
-+++(वत्सैर्)+++ **आ प्या॑यध्वम्** अघ्निया+++(=अहननार्हाः)+++ देव-भा॒गम्। 
-ऊर्ज॑स्वती॒ᳶ पय॑स्वतीᳶ  
-प्र॒जा-व॑तीर् अन्-अमी॒वा अ॑-य॒क्ष्मा  
-**मा** व॑स् स्ते॒न **ई॑शत॒**+++(=स्ववशं कुर्यात्)+++ माऽघशँ॑सः।+++(र४)+++
 </details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
++++(वत्सैर्)+++ **आ᳓ प्यायध्वम्** अघ्निया+++(=अहननार्हाः)+++ देव-भाग᳓म्। 
+ऊ᳓र्जस्वतीᳶ प᳓यस्वतीᳶ  
+प्रजा᳓-वतीर् अन्-अमीवा᳓ अ-यक्ष्मा᳓  
+**मा᳓** वस् स्तेन᳓ **ईशत**+++(=स्ववशं कुर्यात्)+++ मा᳓ऽघ᳓शँसः।+++(र४)+++
+
+</details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/01_shAkhAharaNAdiH/19_A_pyAyadhvam.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 O invincible ones, swell with the share for the gods,  
@@ -155,8 +186,7 @@ Let no thief, no evil worker, have control over you.
 
 <details><summary>पद-पाठः</summary>
 
-एति । प्यायध्वम् । अघ्नियाः । देवभागमिति देव-भागम् । ऊर्जस्वतीः । पयस्वतीः । प्रजावतीरिति प्रजा-वतीः । अनमीवाः । अयक्ष्माः । 5E ।  
-मा । वः । स्तेनः । ईशत । मा । अघशँस इत्यघ-शँसः । 6F ।
+एति । प्यायध्वम् । अघ्नियाः । देवभागमिति देव-भागम् । ऊर्जस्वतीः । पयस्वतीः । प्रजावतीरिति प्रजा-वतीः । अनमीवाः । अयक्ष्माः । मा । वः । स्तेनः । ईशत । मा । अघशँस इत्यघ-शँसः ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -170,12 +200,24 @@ Let no thief, no evil worker, have control over you.
 किञ्च - अघशंसोपि युष्मान् मेशिष्ट मा वो जिघांसीत् । अघे पापे भक्षणलक्षणे शंसा अभिलाषो यस्य [स्या] नियोगेन सोघशंसः पापतत्परः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अघशब्दोयमन्तोदात्तोप्यस्ति, यथा 'अप॑ न॒श्शोशु॑चद॒घम्' (तै.आ. 4.11) इति । अङ्घते गच्छति दानादिना । आगमशास्त्रस्यानित्यत्वात् (व्याडिपरिभाषा 76) न नुम् । पचादित्वादच् (पा.सू. 3.1.134), प्रत्ययस्वरेणान्तोदात्तत्वम् ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+5अथ न केवलं मनुष्य एव, अपि तु देवोपि युष्मान् मा हिंसीदिति तृतीयया आशास्ते - रुद्रस्येति ॥
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रु॒द्रस्य॑ हे॒तिःᳶ  
-परि॑ वो **वृणक्तु**+++(=वर्जयतु)+++।+++(र४)+++  
+रुद्र᳓स्य हेतिःᳶ᳓  
+प᳓रि वो **वृणक्तु**+++(=वर्जयतु)+++।+++(र४)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -189,25 +231,31 @@ Let Rudra's dart avoid you.
 
 <details><summary>पद-पाठः</summary>
 
-रुद्रस्य । हेतिः । परीति । वः । वृणक्तु । 7G ।
+रुद्रस्य । हेतिः । परीति । वः । वृणक्तु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-5अथ न केवलं मनुष्य एव, अपि तु देवोपि युष्मान् मा हिंसीदिति तृतीयया आशास्ते - रुद्रस्येति ॥ इयं चैकपदा त्रिष्टुप्, 'एकद्वित्रिचतुष्पदीत्युक्तपादम्' (पि.सू. 3.7) इति वचनात् । हेतिः आयुधम् । 'ऊति यूति' (पा.सू. 3.3.97) इत्यादिना क्तिन्नन्तोऽन्तोदात्तो निपातितः । सा रुद्रस्य हेतिः युष्मान् परिवृणक्तु सर्वतो वर्जयतु ॥
+इयं चैकपदा त्रिष्टुप्, 'एकद्वित्रिचतुष्पदीत्युक्तपादम्' (पि.सू. 3.7) इति वचनात् । हेतिः आयुधम् । 'ऊति यूति' (पा.सू. 3.3.97) इत्यादिना क्तिन्नन्तोऽन्तोदात्तो निपातितः । सा रुद्रस्य हेतिः युष्मान् परिवृणक्तु सर्वतो वर्जयतु ॥
+</details>
 </details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमानं ध्यायति ईक्षते वा - ध्रुवा अस्मिन्नित्यृचा त्रिष्टुभैकपदया ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे गावः!)+++ ध्रु॒वा अ॒स्मिन् गोप॑तौ स्यात ब॒ह्वीः।+++(र४)+++ 
++++(हे गावः!)+++ ध्रुवा᳓ अस्मि᳓न् गो᳓पतौ स्यात बह्वीः᳓।+++(र४)+++ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,18 +278,24 @@ Abide ye, numerous, with this lord of cattle.
 बह्व्यश् च सन्तानवृद्ध्या भवत ।  
 'वा छन्दसि' (पा.सू. 6.1.106) इति पूर्वसवर्णदीर्घता ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7शाखामुपगूहति - यजमानस्येति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(हे शाखे)+++ यज॑मानस्य प॒शून् पा॑हि ॥ 
++++(हे शाखे)+++ य᳓जमानस्य पशू᳓न् पाहि ॥ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -261,7 +315,7 @@ Do thou protect the cattle of the sacrificer.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे शाखे यजमानस्य पशून् पाहि रक्ष । 'तास्यनुदात्तेन्ङिददुपदेशाल्लसार्वधातुकमनुदात्तमह्न्विङोः' (पा.सू. 6.1.186) इति लसार्वधातुकानुदात्तत्वे यजमाने धातुस्वरः । 'तस्मात्सायं पशवः' (तै.ब्रा. 3.2.1) इत्यादि ब्राह्मणम् ॥
-
+</details>
 </details>
 
 ____

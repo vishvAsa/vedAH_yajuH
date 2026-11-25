@@ -5,6 +5,8 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA">
 
 <details open><summary><h1>१२ सहस्र-शीर्षा …{Loading}…</h1></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - Note</summary>
 
 The Puruṣa Sūkta. (From 1 to 18).
@@ -37,6 +39,7 @@ The Puruṣa Sūkta. (From 1 to 18).
 अथ 'सहस्रशीर्षं देवम्' इत्यपरो नारायणानुवाको भविष्यति,  
 यत्र परमात्मा प्रणवाख्यो नारायणः प्रतिपाद्यते ।  
 तस्य अग्न्य्-आदि-श्रौत-पुरुषवत् कर्म-सम्बन्धाभावाद् इहानाम्नानम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/_index.md">
@@ -105,6 +108,8 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 
 ### 01 सहस्रशीर्षा पुरुषः - अनुष्टुप्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एतैरेकादशभिरनुवाकैश्चातुर्होत्रीयचयनमन्त्रा उक्ताः ।
@@ -112,6 +117,7 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 नारायणनाम्ना पुरुषसूक्तनाम्ना च व्यवह्रियमाणोऽनुवाक उच्यते । तस्य विनियोगं महाग्नावापस्तम्ब आह - "पुरस्तात्प्रतीचीं पुरुषाकृतिं चिनोति पुरुषशिरोऽस्याः शिरो भवति, सहस्रशीर्षा पुरुष इत्युपहितां पुरुषेण नारायणेन यजमान उपतिष्ठते" इति । ब्रह्ममेधेऽपि प्रेतदाहोपस्थाने विनियोगं भरद्वाज आह - "नारायणाभ्यामुपस्थानम्" इति । अयं चोत्तरश्चेत्युभावनुवाकौ नारायणसंज्ञौ नारायणाख्येन केनचिदृषिणा दृष्टत्वात्, जगत्कारणस्य नारायणाख्यस्य पुरुषस्य प्रतिपादकत्वाच्च ।
 
 तत्रास्मिन्द्वादशेऽनुवाके प्रथमामृचमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
@@ -409,12 +415,17 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 सर्वप्राणिसमष्टिरूपो ब्रह्माण्डदेहो विराडाख्यो यः पुरुषः सोऽयं सहस्रशीर्षा, सहस्रशब्दस्योपलक्षणत्वादनन्तैः शिरोभिर्युक्त इत्यर्थः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहान्तःपातित्वात्तदीयान्येवेति सहस्रशीर्षत्वम् । एवमक्षिषु पादेष्वपि योजनीयम् । स पुरुषो भूमिं ब्रह्माण्डगोलकरूपां विश्वतो वृत्वा सर्वतः परिवेष्ट्य दशाङ्गुलपरिमितं देशमत्यतिष्ठदतिक्रम्य स्थितः । दशाङ्गुलमित्युपलक्षणं ब्रह्माण्डाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः ।
 </details>
+</details>
 
 ### 02 पुरुष एवेदम् - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भट्टभास्करः - अवतारिका</summary>
 
@@ -424,6 +435,7 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
@@ -738,16 +750,22 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 यद्भूतमतीतं जगत्, यच्च भव्यं भविष्यज्जगत् । यदपीदं वर्तमानं जगत्, तत्सर्वं पुरुष एव । यथाऽस्मिन्कल्पे वर्तमानाः प्राणिदेहाः सर्वेऽपि विराट्पुरुषस्यावयवाः, तथैवातीतागामिनोरपि कल्पयोर्द्रष्टव्यम् । उतापि चामृतत्वस्य देवत्वस्यायमीशानः स्वामी । यद्यस्मात्कारणादन्नेन प्राणिनां भोग्येनान्नेन निमित्तभूतेनातिरोहति स्वकीयकारणावस्थामतिक्रम्य परिदृश्यमानां जगदावस्थां प्राप्नोति । तस्मात्प्राणिनां कर्मफलभोगाय जगदवस्थास्वीकारान्नेदं तस्य वस्तुतत्वमित्यर्थः ।
 </details>
+</details>
 
 ### 03 एतावानस्य महिमातो - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/03_etAvAnasya_mahimAto.md">
@@ -1049,16 +1067,22 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 अतीतानागतवर्तमानरूपं जगद्यावदस्त्येतावान्सर्वोऽप्यस्य पुरुषस्य महिमा स्वकीयसामर्थ्यविशेषो न तु तस्य वास्तवं स्वरूपम्, वास्तवस्तु पुरुषः, अतो महिम्नोऽपि ज्यायानतिशयेनाधिकः । एतच्च स्पष्टीक्रियते । विश्वा भूतानि कालत्रयवर्तीनि प्राणिजातानि यस्य पुरुषस्य पादश्चतुर्थोंऽशः । अस्यावशिष्टं त्रिपात्स्वरूपममृतं विनाशरहितं सद्दिवि द्योतनात्मके स्वप्रकाशरूपेऽवतिष्ठते । यद्यपि सत्यं ज्ञानमनन्तं ब्रह्मेत्याम्नातस्य परब्रह्मण इयत्ताया अभावादंशचतुष्टयं न निरूपयितुं शक्यं तथाऽपि जगदिदं ब्रह्मस्वरूपापेक्षयाऽत्यल्पमिति विवक्षित्वा पादत्वोपन्यासः ।
 </details>
+</details>
 
 ### 04 त्रिपादूर्ध्व उदैत्पुरुषः - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
@@ -1399,18 +1423,24 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयं त्रिपात्पुरुषः संसारस्पर्शरहितब्रह्मस्वरूपः सोऽयमूर्ध्व उदैदस्मादज्ञानकार्यात्संसाराद्बहिर्भूतः सन्नत्रत्यैर्गुणदोषैरस्पृष्ट उत्कर्षेण स्थितवान् । तस्य योऽयं पादो लेशः सोऽयमिह मायायां पुनराभवत् । सृष्टिसंहाराभ्यां पुनः पुनरागच्छति । अस्य सर्वस्य जगतः परमात्मांशत्वं भगवताऽप्युक्तम् - "विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्" इति । ततो मायायामागत्यानन्तरं विष्वङ्देवतिर्यगादिरूपेण विविधः सन्व्यक्रामाद्व्याप्तवान् । किं कृत्वा साशनानशने अभिलक्ष्य शासनं भोजनादिव्यवहारोपेतं चेतनं प्राणिजातमनशनं तद्रहितमचेतनं गिरिनद्यादिकं तदुभयं यथा स्यात्तथा स्वयमेवंविधो भूत्वा व्याप्तवानित्यर्थः ।
 </details>
+</details>
 
 ### 05 तस्माद्विराळजायत विराजो - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह -
 
 विष्वङ्व्यक्रामदिति यदुक्तं तदेव प्रपञ्च्यते -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/05_tasmAdvirALajAyata_virAjo.md">
@@ -1729,16 +1759,22 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 तस्मादादिपुरुषाद्विराडजायत ब्रह्माण्डदेह उत्पन्नः । विविधं राजन्ते वस्तून्यत्रेति विराट् । विराजो अधि विराड्देहस्योपरि स्थितमेव देहमधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी कश्चित्पुमानजायत । योऽयं सर्ववेदान्तवेद्यः परमात्मा स एव स्वकीयया मायया विराड्देहं ब्रह्माण्डं सृष्ट्वा तत्र जीवरूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् । एतच्चाऽऽथर्वणिका उत्तरतापनीये स्पष्टमामनन्ति - "स वा एष भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा प्रविश्यामूढो मूढ इव व्यवहरन्नास्ते माययैव" इति । स जातो विराट्पुरुषोऽत्यरिच्यतातिरिक्तोऽभूत्, विराड्व्यतिरिक्तो देवतिर्यङ्मनुष्यादिरूपोऽभूत् । पश्चाद्देवादिजीवभावादूर्ध्वं भूमिं ससर्जेति शेषः । अथो भूमिसृष्टेरनन्तरं तेषां जीवानां पुरः ससर्ज । पूर्यन्ते सप्तभिर्धातुभिरिति पुरः शरीराणि ।
 </details>
+</details>
 
 ### 06 यत्पुरुषेण हविषा - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/06_yatpuruSheNa_haviShA.md">
@@ -2024,16 +2060,22 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 पूर्वोक्तक्रमेण देवशरीरेषूत्पन्नेषु ते देवा उत्तरसृष्टिसिध्यर्थं तत्साधनत्वेन यज्ञमतन्वत कंचिद्यज्ञमन्वतिष्ठन् । बाह्यद्रव्यस्याद्याप्यनिष्पन्नत्वेन हविरन्तरासम्भवात्पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य तेन पुरुषाख्येन(ण) हविषा यद्यदा मानसं यज्ञमकुर्वत तदानीमस्य यज्ञस्य वसन्तर्तुरेवाऽऽज्यमभूत्, तमेवाऽऽज्यत्वेन संकल्पितवन्तः । एवं ग्रीष्म इध्मत्वेन संकल्पितः । शरत्पुरोडाशादिहविष्ट्वेन संकल्पिता । पूर्वं पुरुषस्य हविः सामान्यरूपत्वेन संकल्पो वसन्तादीनां त्वाज्यादिरूपत्वेनेति द्रष्टव्यम् ।
 </details>
+</details>
 
 ### 07 सप्तास्यासन् परिधयः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
@@ -2328,16 +2370,22 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 अस्य सांकल्पिकयज्ञस्य गायत्र्यादीनि सप्त च्छन्दांसि परिधय आसन्, ऐष्टिकस्याऽऽहवनीयस्य त्रयः परिधय औत्तरवेदिकास्त्रय आदित्यश्च सप्तमः परिधिप्रतिनिधिरूपः । अत एवाऽऽम्नायते - "न पुरस्तात्परिदधात्यादित्यो ह्येवोद्यन्पुरस्ताद्रक्षाँस्यपहन्ति" इति । त एत आदित्यसहिताः सप्तपरिधयोऽत्र सप्तच्छन्दोरूपाः । तथा समिधस्त्रिःसप्त त्रिगुणितसप्तसंख्याका एकविंशतिः कृताः । "द्वादश समाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविँशः" इति श्रुताः पदार्था एकविंशतिदारुयुक्तेध्मत्वेन भाविताः । यद्यः पुरुषो वैराजोऽस्ति तं पुरुषं देवाः प्रजापतिप्राणेन्द्रियरूपा यज्ञं तन्वाना मानसयज्ञं कुर्वाणाः पशुमबध्नन्विराट्पुरुषमेव पशुत्वेन भावितवन्तः । एतदेवाभिप्रेत्य पूर्वत्र - "पुरुषेण हविषा" इत्युक्तम् ।
 </details>
+</details>
 
 ### 08 तं यज्ञम् - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/08_taM_yajnaM.md">
@@ -2645,16 +2693,22 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 यज्ञं यज्ञसाधनभूतं तं पुरुषं पशुत्वभावनया यूपे बद्धं बर्हिषि मानसे यज्ञे प्रौक्षन्प्रोक्षितवन्तः । कीदृशम्, अग्रतः सर्वसृष्टेः पूर्वं पुरुषं जातं पुरुषत्वेनोत्पन्नम् । एतच्च पूर्वमेवोक्तम् - "तस्माद्विराडजायत विराजो अधि पूरुषः" इति । तेन पुरुषरूपेण पशुना देवा अयजन्त मानसयागं निष्पादितवन्तः । के ते देवा इति त एवोच्यन्ते साध्याः सृष्टिसाधनयोग्याः प्रजापतिप्राणरूपास्तदनुकूला ऋषयो मन्त्रद्रष्टारश्च ये सन्ति ते सर्वेऽप्ययजन्त ।
 </details>
+</details>
 
 ### 09 तस्माद्यज्ञात्सर्वहुतः सम्भृतम् - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
@@ -3040,16 +3094,22 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 सर्वहुतः सर्वात्मकः पुरुषो यस्मिन्यज्ञे हूयते सोऽयं सर्वहुतस्तादृशात्पूर्वोक्तान्मानसाद्यज्ञात्पृषदाज्यं संभृतं सम्पादितम् । दधि चाऽऽज्यं चेत्येवमादिभोग्यजातं सम्पादितमित्यर्थः । तथा वायव्यान्वायुदेवताकाल्ँ लोकप्रसिद्धानारण्यान्पशूश्चक्र उत्पादितवान् । आरण्या द्विखुरादयस्तथा ये ग्राम्या गवाश्वादयस्तानप्युत्पादितवान् । पशूनामन्तरिक्षद्वारा वायुदेवत्यत्वं मन्त्रान्तरव्याख्याने समाम्नातम् - "वायवस्थेत्याह वायुर्वा अन्तरिक्षस्याध्यक्षः । अन्तरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान्परिददाति" इति ।
 </details>
+</details>
 
 ### 10 तस्माद्यज्ञात्सर्वहुत ऋचः - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
@@ -3371,16 +3431,22 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 छन्दांसि गायत्र्यादीनि । स्पष्टमन्यत् ।
 </details>
+</details>
 
 ### 11 तस्मादश्वा अजायन्त - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/11_tasmAdashvA_ajAyanta.md">
@@ -3664,18 +3730,24 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च ये केचिदूर्ध्वाधोभागयोरुभयोर्दन्तयुक्ताः सन्ति तेऽप्यश्ववदजायन्त । तथा गावोऽजाश्चावयश्च ते सर्वेऽप्युत्पन्नाः ।
 </details>
+</details>
 
 ### 12 यत्पुरुषं व्यदधुः - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशीमाह -
 
 प्रश्नोत्तररूपेण ब्राह्मणादिसृष्टिं वक्तुमत्र ब्रह्मवादिनां प्रश्ना उच्यन्ते -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/12_yatpuruShaM_vyadadhuH.md">
@@ -3962,16 +4034,22 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 प्रजापतेः प्राणरूपा देवा यद्यदा पुरुषं विराड्रूपं व्यदधुः सङ्कल्पेनोत्पादितवन्तः । तदानीं कतिधा कतिभिः प्रकारैर्व्यकल्पयन्विविधं कल्पितवन्तः । एष सामान्यरूपः प्रश्नः । मुखं किमित्यादयो विशेषप्रश्नाः । अन्यत्स्पष्टम् ।
 </details>
+</details>
 
 ### 13 ब्राह्मणोऽस्य मुखमासीद्बाहू - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ त्रयोदशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
@@ -4269,16 +4347,22 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 योऽयं ब्राह्मणत्वजातिविशिष्टः पुरुषः सोऽयमस्य प्रजापतेर्मुखमासीत्, मुखादुत्पन्न इत्यर्थः । योऽयं राजन्यः क्षत्त्रियजातिः स बाहुत्वेन निष्पादितः बाहुभ्यामुत्पादित इत्यर्थः । तत्तदानीं यौ प्रजापतेरूरू तद्रूपो वैश्यः संपन्नः, ऊरुभ्यामुत्पन्न इत्यर्थः । तथा पद्भ्यां शूद्र उत्पन्नः । इयं च मुखादिभ्यो ब्राह्मणादीनामुत्पत्तिः सप्तमकाण्डे "स मुखतस्त्रिवृतं निरमिमीत" इत्यादौ विस्पष्टमाम्नाता । अतः प्रश्नोत्तरे उभे अपि तत्परत्वेनैव योजनीये ।
 </details>
+</details>
 
 ### 14 चन्द्रमा मनसो - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्दशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">
@@ -4570,16 +4654,22 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 यथा दध्याज्यादिद्रव्याणि गवादिपशव ऋगादिवेदा ब्राह्मणादिमनुष्याश्च तस्मादुत्पन्नाः, एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्नाः । चक्षोश्चक्षुषः ।
 </details>
+</details>
 
 ### 15 नाभ्याम् - अनुष्टुप्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चदशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/15_nAbhyA_AsIdantarixaM.md">
@@ -4881,12 +4971,17 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 यथा देवास्तस्मादुत्पन्नास्तथा लोकानप्यन्तरिक्षादीन्प्रजापतेर्नाभ्याद्यवयवेभ्योऽकल्पयन्नुत्पादितवन्तः ।
 </details>
+</details>
 
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भट्टभास्करः - अवतारिका</summary>
 
@@ -4896,6 +4991,7 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षोडशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
@@ -5014,9 +5110,12 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 </details>
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तदशीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md">
@@ -5172,11 +5271,14 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 
 ### 16 यज्ञेन यज्ञमयजन्त - त्रिष्टुप्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टादशीमाह -
 
 अत्र कृत्स्नानुवाकतात्पर्यं संक्षिप्योपन्यस्यति -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
@@ -5533,6 +5635,8 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 देवाः प्रजापतिप्राणरूपा यज्ञेन यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिमयजन्त पूजितवन्तः । तस्मात्पूजनात्तानि प्रसिद्धानि धर्माणि जगद्रूपविकाराणां धारकाणि प्रथमानि मुख्यभूतान्यासन् । एतावता सृष्टिप्रतिपादकोऽनुवाकभागार्थः सङ्गृहीतः ।
@@ -5540,6 +5644,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 अथोपासनतत्फलरूपोऽनुवाकभागार्थः संगृह्यते -
 
 यत्र यस्मिन्विराट्प्राप्तिरूपे नाके पूर्वे साध्याः पुरातना विराडुपास्तिसाधका देवाः सन्ति तिष्ठन्ति तं नाकं विराट्प्राप्तिरूपं स्वर्गं ते महिमानस्तदुपासका महात्मानः सचन्ते समवयन्ति प्राप्नुवन्ति ॥
+</details>
 </details>
 </details>
 

@@ -5,19 +5,34 @@ unicode_script = "devanagari"
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/12_patnIsaMyAjAnAM_yAjyAnuvAkyAH">
 <details open><summary><h1>१२ पत्नीसंयाजानां याज्यानुवाक्याः ...{Loading}...</h1></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+1-4अथ पत्नीसंयाजानां याज्यानुवाक्याः - आ प्यायस्वेत्याद्याः ॥
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप्या॑यस्व॒ सन्ते॑ ।  
+आ᳓प्यायस्व स᳓न्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 आप्या॑यस्व॒ सन्ते॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । प्यायस्व । स᳓म् । ते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-1-4अथ पत्नीसंयाजानां याज्यानुवाक्याः - आ प्यायस्वेत्याद्याः ॥ 'आ प्यायस्व समेतु ते, संते पयांसि' इति त्रिष्टुभौ 'मा नो हिंसीत्' इत्यत्र व्याख्याते ।  
+'आ प्यायस्व समेतु ते, संते पयांसि' इति त्रिष्टुभौ 'मा नो हिंसीत्' इत्यत्र व्याख्याते ।  
 
 +++(अनुकृतव्याख्यानम् - प्रारम्भः)+++
 - आ प्या॑यस्व॒ समे॑तु ते वि॒श्वत॑स्सोम॒ वृष्णि॑यम् ।   
@@ -52,15 +67,23 @@ unicode_script = "devanagari"
   - तत्रैव (सौम्यस्य) याज्या - सं ते पयांसीति त्रिष्टुप् ॥ इयमपि तत्रैवाम्नायते । हे सोम अभिमातीनां पाप्मनामभिभवितुस्तव प्रसादात् पयांसिच वाजाश्च वृष्णियानि च संयन्तु इमं सङ्गच्छन्तु । त्वं चाप्यायमानः दिवि द्युलोके अस्यामृतत्वाय उत्तमानि श्रवांसि अन्नानि धिष्व स्थापयेति ॥  
   +++(अनुकृतव्याख्यानम् - समाप्तम्)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒ह त्वष्टा॑रमग्रि॒यन्तन्न॑स्तु॒रीप॑म् ।  
+इह᳓ त्व᳓ष्टारम् अग्रिय᳓न् त᳓न् नस् तुरी᳓पम्+++(←तूर्णं + आप्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 इ॒ह त्वष्टा॑रमग्रि॒यन्तन्न॑स्तु॒रीप॑म् ।  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इह᳓ । त्व᳓ष्टारम् । अग्रिय᳓म् । त᳓त् । नः । तुरी᳓पम् ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -71,7 +94,7 @@ unicode_script = "devanagari"
 - इ॒ह त्वष्टा॑रमग्रि॒यव्ँवि॒श्वरू॑प॒मुप॑ ह्वये ।  
 अ॒स्माक॑मस्तु॒ केव॑लः ॥  
 
-  - 5अथ 'रेत एव हितं त्वष्टा रूपाणि वि करोति' इत्यस्य पुरोनुवक्या - इह त्वष्टारमिति गायत्री । इहास्मिन् कर्मणि त्वष्टारं अग्रियं मुख्यम् । 'घच्छौ च' इति घच् । विश्वरूपं विश्वेषां रूपाणां विकरणसमर्थम् । 'बहुव्रीहौ विश्वम्' इति पूर्वपदान्तोदात्तत्वम् । उपह्वये आह्वयामि । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् । अस्माकमेवास्तु केवलः सम्भन्धीत्येवमर्थमुपह्वये ॥  
+> 5अथ 'रेत एव हितं त्वष्टा रूपाणि वि करोति' इत्यस्य पुरोनुवक्या - इह त्वष्टारमिति गायत्री । इहास्मिन् कर्मणि त्वष्टारं अग्रियं मुख्यम् । 'घच्छौ च' इति घच् । विश्वरूपं विश्वेषां रूपाणां विकरणसमर्थम् । 'बहुव्रीहौ विश्वम्' इति पूर्वपदान्तोदात्तत्वम् । उपह्वये आह्वयामि । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् । अस्माकमेवास्तु केवलः सम्भन्धीत्येवमर्थमुपह्वये ॥  
 +++(अनुकृतव्याख्यानम् - समाप्तम्)+++  
 
 +++(अनुकृतव्याख्यानम् - प्रारम्भः)+++
@@ -79,51 +102,451 @@ unicode_script = "devanagari"
 यतो॑ वी॒रः [35] क॒र्म॒ण्य॑स्सु॒दक्षो॑ ..  
 यु॒क्तग्रा॑वा॒ जाय॑ते दे॒वका॑मः ।  
 
-  - टीका 6तत्रैव याज्या - तन्न इति त्रिष्टुप् ॥ 'सुदक्षः' इति तृतीयपादान्तः । तत् धनं तुरीपं तूर्णमाप्नोतीति तुरीपं । पृषोदरादिः । पोषयित्नु पोषयितृ । हे देव त्वष्टः रराणः दानशीलस्त्वम् । व्यत्ययेन रातोरात्मनेपदम् शपश्श्लुः । नः अस्मभ्यं अधेदानीं विष्यस्व विसृज विमुच्य देहीत्यर्थः । व्यत्ययेनात्मनेपदम् । तदित्युक्तं, किं तदित्याह - यतः यस्माद्धनाल्लब्धात् वीरः विक्रान्तः कर्मण्यः कर्मणि साधुः कुशलः सुदक्षः सुष्ठु शीघ्रः उत्साही । दक्ष शीघ्रकरणे, 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । युक्तग्रावा युक्ता ग्रावाणो यस्य तादृशः । ग्रावभिः तत्साध्यं कर्मोपलक्ष्यते कर्मशील इत्यर्थः । अत एव देवकामः । देवान् कामयते इति 'शीलिकामि' इत्यादिना णः पूर्वपदप्रकृतिस्वरत्वं च । देवैः काम्यते इति वा देवकामः । दासीभारादिर्द्रष्टव्यः । ईदृशः पुरुषः यस्माद्धनाज्जायते तत्पशुलक्षणं धनं देहीति ॥
+  - टीका 6तत्रैव याज्या - तन्न इति त्रिष्टुप् ॥ 'सुदक्षः' इति तृतीयपादान्तः । तत् धनं **तुरीपं** तूर्णम् आप्नोतीति तुरीपं । पृषोदरादिः । पोषयित्नु पोषयितृ । हे देव त्वष्टः रराणः दानशीलस्त्वम् । व्यत्ययेन रातोरात्मनेपदम् शपश्श्लुः । नः अस्मभ्यं अधेदानीं विष्यस्व विसृज विमुच्य देहीत्यर्थः । व्यत्ययेनात्मनेपदम् । तदित्युक्तं, किं तदित्याह - यतः यस्माद्धनाल्लब्धात् वीरः विक्रान्तः कर्मण्यः कर्मणि साधुः कुशलः सुदक्षः सुष्ठु शीघ्रः उत्साही । दक्ष शीघ्रकरणे, 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । युक्तग्रावा युक्ता ग्रावाणो यस्य तादृशः । ग्रावभिः तत्साध्यं कर्मोपलक्ष्यते कर्मशील इत्यर्थः । अत एव देवकामः । देवान् कामयते इति 'शीलिकामि' इत्यादिना णः पूर्वपदप्रकृतिस्वरत्वं च । देवैः काम्यते इति वा देवकामः । दासीभारादिर्द्रष्टव्यः । ईदृशः पुरुषः यस्माद्धनाज्जायते तत्पशुलक्षणं धनं देहीति ॥
+</details>
 </details>
 
-### ऋक्
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
+देवा᳓नाम् प᳓त्नीर् उशती᳓र् अवन्तु नः ।  
+प्रा᳓वन्तु नस् तुज᳓ये वा᳓ज-सातये ।  
+याᳶ᳓ पा᳓र्थिवासो या᳓ अपा᳓म् अ᳓पि व्रते᳓ ।  
+ता᳓ नो देवीस्! सुहवाश्! श᳓र्म यच्छत ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 दे॒वाना॒म्पत्नी॑रुश॒तीर॑वन्तु नः ।  
 प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये ।  
 याᳶ पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ।  
-ता नो॑ देवीस्सुहवा॒श्शर्म॑ यच्छत ।  
+ता नो॑ देवीस्सुहवा॒श्शर्म॑ यच्छत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+देवा᳓नाम् । प᳓त्नीः । उशतीः᳓ । अवन्तु । नः । प्र᳓ । अवन्तु । नः । तुज᳓ये । वा᳓ज-सातये । याः᳓ । पा᳓र्थिवासः । याः᳓ । अपा᳓म् । अ᳓पि । व्रते᳓ । ताः᳓ । नः । देवीः । सु-हवाः । श᳓र्म । यच्छत ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5देवानां पत्नीरिति ॥ देवानां पत्नयः इन्द्राण्याद्याः सेनादयो वा 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । उशतीः उशत्यः कामयमानाः अस्मद्धितानि ता अस्मानवन्तु रक्षन्तु प्राप्नुवन्तु वा । किञ्च - अस्माकं तुजये अपत्याय वाजसातये अन्नलाभाय च ता देव्यः प्रावन्तु प्रकर्षेण तृप्यन्तु । किञ्च - याः पार्थिवासः पृथिव्यां भवाः । 'आज्जसेरमुक्' याश्च अपां व्रते कर्मस्थाने अन्तरिक्षे । अपिशब्दात् पूर्वोक्ताश्च दिवि भवाः इन्द्राण्याद्याः तास्सर्वाः यूयं सुहवाः सुखेनाह्वातव्याः आह्वानप्रयोजनस्य सद्यः कर्त्र्यः अस्मभ्यं शर्म सुखं यच्छत दत्त हे देव्यः! । उत्तरोऽर्थः प्रत्यक्षकृतः ॥
 </details>
+</details>
 
-### ऋक्
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+उत᳓ ग्ना᳓+++(=देव्यः)+++ व्यन्तु+++(वियन्तु तैत्तिरीये)+++ देव᳓पत्नीर्  
+इन्द्राणी᳓ · अग्ना᳓यी अश्वि᳓नी रा᳓ट् ।  
+आ᳓ रो᳓दसी+++(=लोकौ, मरुत्पत्न्यौ)+++ वरुणानी᳓ शृणोतु  
+व्य᳓न्तु+++(वियन्तु तैत्तिरीये)+++ देवी᳓र् य᳓ ऋतु᳓र् ज᳓नीनाम् ॥
+
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/046/08_uta_gnA.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट् ।  
+आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - देवपत्न्यः
+- ऋषिः - प्रतिक्षत्र आत्रेयः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उत᳓ ग्ना᳐᳓ वियन्तु देव᳓पत्नीर्  
+इन्द्राणी᳓ · अग्ना᳓यी अश्वि᳓नी रा᳓ट्  
+आ᳓ रो᳓दसी वरुणानी᳓ शृणोतु  
+विअ᳓न्तु देवी᳓र् य᳓ ऋतु᳓र् ज᳓नीनाम्
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
 उ॒त ग्ना वि॑यन्तु दे॒वप॑त्नीः ।  
 इ॒न्द्रा॒ण्य॑ग्नाय्य॒श्विनी॒ राट् ।  
 आ रोद॑सी वरुणा॒नी शृ॑णोतु ।  
-वि॒यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥26॥  
+वि॒यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥26॥
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+devápatnīḥ ← devápatnī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+gnā́ḥ ← gnā́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+utá ← utá (invariable)  
+{}
+
+vyantu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+agnā́yī ← agnā́yī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+aśvínī ← aśvínī- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+indrāṇī́ ← indrāṇī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+rā́ṭ ← rā́j- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+ródasī ← ródasī- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+śr̥ṇotu ← √śru- (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+varuṇānī́ ← varuṇānī́- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+jánīnām ← jáni- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+r̥túḥ ← r̥tú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vyántu ← √vī- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । ग्नाः । व्य॒न्तु॒ । दे॒वऽप॑त्नीः । इ॒न्द्रा॒णी । अ॒ग्नायी॑ । अ॒श्विनी॑ । राट् ।  
+आ । रोद॑सी॒ इति॑ । व॒रु॒णा॒नी । शृ॒णो॒तु॒ । व्यन्तु॑ । दे॒वीः । यः । ऋ॒तुः । जनी॑नाम् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *gnā* ← *gnāḥ* ← *gnā*
+- \[noun\], nominative, plural, feminine
+- “goddess.”
+
+_________
+
+- *vyantu* ← *vī*
+- \[verb\], plural, Present imperative
+- “approach; ask; desire; go; drive.”
+
+_________
+
+- *devapatnīr* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *devapatnīr* ← *patnīḥ* ← *patnī*
+- \[noun\], nominative, plural, feminine
+- “wife; mistress; queen.”
+
+_________
+
+- *indrāṇy* ← *indrāṇī*
+- \[noun\], nominative, singular, feminine
+- “Śacī; nirguṇḍī.”
+
+_________
+
+- *agnāyy* ← *agnāyī*
+- \[noun\], nominative, singular, feminine
+
+_________
+
+- *aśvinī*
+- \[noun\], nominative, singular, feminine
+- “Aśvinī; Aśvinī.”
+
+_________
+
+- *rāṭ* ← *rāj*
+- \[noun\], nominative, singular, masculine
+- “king; best; rāj; rāj \[word\].”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *rodasī* ← *rodas*
+- \[noun\], nominative, dual, neuter
+- “heaven and earth; Earth.”
+
+_________
+
+- *varuṇānī*
+- \[noun\], nominative, singular, feminine
+
+_________
+
+- *śṛṇotu* ← *śru*
+- \[verb\], singular, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+
+_________
+
+- *vyantu* ← *vī*
+- \[verb\], plural, Present imperative
+- “approach; ask; desire; go; drive.”
+
+_________
+
+- *devīr* ← *devīḥ* ← *devī*
+- \[noun\], nominative, plural, feminine
+- “Parvati; queen; goddess; Devi.”
+
+_________
+
+- *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ṛtur* ← *ṛtuḥ* ← *ṛtu*
+- \[noun\], nominative, singular, masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+
+_________
+
+- *janīnām* ← *jani*
+- \[noun\], genitive, plural, feminine
+- “wife; jan; woman; jani \[word\]; birth.”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। ग्नाः- देव्यः। देवपत्नीः- देवजायाः। व्यन्तु- विशेषेण हविर्भक्षयन्तु। इन्द्राणी-  ईशनाधिदेवता। अग्नायी- सत्क्रत्वधिदेवता। राट्- राजमाना। अश्विनी- उषा ज्ञानोदयदेवता।  रोदसी- द्यावापृथिव्यौ। वरुणानी- ऋताधिदेवता। आ शृणोतु। देवीः- देवपत्न्यः। व्यन्तु-  विशेषेण हव्यं भक्षयन्तु। यः। जनीनाम्- देवजायानाम्। ऋतुः- आगमनकालः स वर्धताम्॥८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च **ग्नाः** स्त्रियः **देवपत्नीः** देवपत्न्यो देवाः पतयो यासां ताः । तादृश्यः **व्यन्तु** हविर्भक्षयन्तु । ता विविच्योच्यन्ते । **इन्द्राणी** इन्द्रस्य पत्नी **अग्नायी** अग्नेः पत्नी **अश्विनी** अश्विनोः पत्नी **राट्** राजमाना। किंच **रोदसी**। रुद्रस्य पत्नी' (निरु. ११. ४९) इति यास्केनोक्तम् । एवं सति  ‘ विषितस्तुका रोदसी ' ( ऋ. सं. १. १६७. ५) इत्यत्र यथाद्युदात्तप्रगृह्यते न स्तः तद्वदत्रापि भाव्यम् । तथापि शाकल्येन महर्षिणैवमुक्तत्वात्तथैव द्रष्टव्यम् । **वरुणानी** वरुणस्य पत्नी **आ** सर्वतः प्रत्येकं **शृणोतु** । किंच **देवीः** पत्नीसंयाजदेव्यः **व्यन्तु** खादन्तु हविः। **यः** **जनीनां** देवजायानाम् **ऋतुः** कालस्तदभिमानी देवोऽपि शृणोतु वेतु च । अत्र  ‘ अपि च ग्ना व्यन्तु देवपत्न्यः ' (निरु. १२. ४६ ) इत्यादि निरुक्तं द्रष्टव्यम् ॥ ॥ २८ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 6उत ग्ना वीति त्रिष्टुप् ॥ ग्ना अपि गायत्र्यादयोपि छंदांसि इदमाज्यं वियन्तु पिबन्तु, देवपत्न्यश्च इन्द्गाण्याद्याः। इन्द्रस्य पत्री इन्द्राणी 'इन्द्रवरुण' इति ङीष् आनुक्च । अग्नेः पत्नी अग्नायी 'वृषाकप्यग्नि' इति ङीष् । अश्विनोः पत्नी अश्विनी । 'पुंयोगात्' इति ङीष् । राट् दीप्यमाना । रोदसी द्यौः पृथिवी चेति शाकल्यः । रोदनाद्रुद्रः तस्य पत्नी रोदसी इत्यप्रस्रव्ययास्कः । वरुणस्य पत्नी वरुणानी सा चास्मदभिमतमाशृणोतु अनुमन्यतां वियन्तु पान्तु आज्यमिति यावत् । एवं एताः सर्वा अपि देव्यः वियन्तु पिबन्तु । आज्यं पुनर्वचनं कालविधानार्थम् । तदाह - यः ऋतुः कालः आत्मीयः जनीनां जायानां तत्र पिबन्त्विति । कः पुनस्सः? भुक्तवत्सु पुरुषेष्विति सामर्थ्याद्गम्यते ॥
 </details>
 
-###  ऋक्
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+May the goddesses, the wives of the gods, come, Indrāṇī, Aśvinī, Agnāyi, and the Queen. May Rodasī \[wife of the Marut-s\] and Varuṇāṇī hear us, and the goddesses come to the ritual of the mothers.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Or may the goddesses, the wives of the gods, accept (the offering); **Indrāṇī**, **Agnāyī**, the radiant **Aśvinī** **Rodasi**, **Varuṇāni**, may each hear (our prayer); may the goddesses partake (of the oblation); may the (person nified) season of the wives of the gods, accept it.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Rodasi: wife of **Rudra**; earlier, she had been referred to as the bride of the **Maruts**; may the goddesses partake: vyantu **devīḥ**, may the goddesses eat (**Nirukta** 12.46); the seacon of the wives of the gods: ya ṛtur janīnām that which is the time of the wives of the gods, that is, the goddesses presiding over it: yo devajayanam kālastadabhimāna devyaḥ
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+And let the ladies, the Wives of the Gods pursue (the offering)—Indra’s  wife, Agni’s wife, the Aśvins’ queen.  
+Let Rodasī and Varuṇa’s wife pay heed. Let the goddesses pursue (the  offering), which is the regular season for women.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+This last vs. is in a diff. meter and also shows some metrical irregularities (see Holland & van Nooten Rig Veda edition notes). It seems tacked on, to allow an enumeration of the gods’ wives in question, most of whom (save for Indrāṇī) have a very shadowy existence. It is also not clear whether aśvínī and rā́ṭ refer to a single individual or two.
+
+The last phrase, yá ṛtúr jánīnām “which is the regular season for women,” is somewhat puzzling, made more so by the fact that there is no overt referent in the main clause for the yáḥ, since the verb vyántu lacks an object (also in pāda a). I follow Geldner (flg. Sāyaṇa.) in taking this as a reference to the patnīsaṃyāja offering (or its forerunner), and I therefore supply ‘offering’ as obj. for vyántu (havís-, etc., is a common, though not invariable, obj. to this root). The rel. cl. is then also a pun: it refers not only to this offering, which is the ritual “time/season” allotted to women, but probably also to their menstrual periods, since ṛtú- is regularly so used later. For a similar pun, using the adj. ṛtvíyāvatī-, see VIII.12.10, 80.7.
+</details>
+
+<details><summary>Griffith</summary>
+
+May the Dames, wives of Gods, enjoy our presents, Rat, Asvini, Agnayi, and Indrani.  
+     May Rodasi and Varunani hear us, and Goddesses come at the Matrons' season.
+</details>
+
+<details><summary>Geldner</summary>
+
+Auch die Götterfrauen sollen gern kommen, die Gemahlinnen der Götter: Indrani, Agnayi, Asvini, die Königin. Rodas? soll zuhören, Varunani; die Göttinnen sollen gern kommen zu der Zeit der Frauen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, die Welten beide, Varunani hör uns, sie all' und die der Weiber Zeiten regelt.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+А также (божественные) жены – супруги богов пусть одобрят (наше приглашение):  
+Индрани, Агнайи, Ашвини, Царица!  
+Пусть услышат (нас) Родаси, Варунани!  
+Пусть одобрят (наше приглашение) богини – (те,) что (устанавливают) срок для женщин!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- प्रतिक्षत्र आत्रेयः
+- निचृज्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+राजा के समान रानी स्त्रियों का न्याय करें, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यः) जो (राट्) प्रकाशमान (इन्द्राणी) अत्यन्त ऐश्वर्य्य से युक्त पुरुष की स्त्री और (अग्नायी) अग्नि के सदृश तेजस्वी पुरुष की स्त्री (अश्विनी) शीघ्र चलनेवाले की स्त्री और (देवपत्नीः) विद्वानों की स्त्रियाँ न्याय करने के लिये स्त्रियों की (ग्नाः) वाणियों को (व्यन्तु) व्याप्त हों और (रोदसी) अन्तरिक्ष तथा पृथिवी के सदृश (वरुणानी) श्रेष्ठ जन की स्त्री (जनीनाम्) उत्पन्न करनेवाली स्त्रियों की वाणियों को (आ, शृणोतु) सब प्रकार से सुने और (उत) भी (देवीः) विद्यायुक्त स्त्रियाँ (ऋतुः) ऋतु के सदृश क्रम से उत्पन्न करनेवाली स्त्रियों का जो न्याय उसकी (व्यन्तु) कामना करें ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपालङ्कार है । जैसे राजाओं के समीप पुरुष मन्त्री होते हैं, वैसे रानियों के समीप स्त्रियाँ मन्त्री होवें ॥८॥ यह श्रीमत्परमहंस परिव्राजकाचार्य महाविद्वान् विरजानन्द सरस्वती स्वामीजी के शिष्य श्रीमद्दयानद सरस्वती स्वामीजी से रचे हुए, उत्तम प्रमाणयुक्त ऋग्वेदभाष्य के पाँचवें मण्डल में छयालीसवाँ सूक्त और चतुर्थ अष्टक में द्वितीय अध्याय और अट्ठाईसवाँ वर्ग समाप्त हुआ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  यो राडिन्द्राण्यग्नाय्यश्विनी देवपत्नीर्न्यायकरणाय स्त्रीणां ग्ना व्यन्तु रोदसी इव वरुणानी जनीनां वाच आ शृणोतु उतापि देवीर्ऋतुरिव क्रमेण जनीनां यो न्यायस्तं व्यन्तु ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+राजवद्राज्ञ्यः स्त्रीणां न्यायं कुर्य्युरित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (उत) (ग्नाः) वाणी (व्यन्तु) व्याप्नुवन्तु (देवपत्नीः) देवानां विदुषां स्त्रियः (इन्द्राणी) इन्द्रस्य परमैश्वर्ययुक्तस्य स्त्री (अग्नायी) अग्नेः पावकवद्वर्त्तमानस्य पत्नी (अश्विनी) आशुगामिनः स्त्री (राट्) या राजते (आ) (रोदसी) द्यावापृथिव्याविव (वरुणानी) वरस्य भार्य्या (शृणोतु) (व्यन्तु) कामयन्ताम् (देवीः) विदुष्यः (यः) (ऋतुः) (जनीनाम्) जनित्रीणां भार्य्याणाम् ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः । यथा राज्ञां समीपे पुरुषा अमात्या भवन्ति तथा राज्ञीनां निकटे स्त्रियो भवन्तु ॥८॥ अत्र विद्वदग्न्यादिराजराज्ञीकृत्यवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिर्वेद्या ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्याणां महाविदुषां विरजानन्दसरस्वतीस्वामिनां शिष्येण दयानदसरस्वतीस्वामिना विरचिते सुप्रमाणयुक्त ऋग्वेदभाष्ये पञ्चमे मण्डले षट्चत्वारिंशत्तमं सूक्तं तथा चतुर्थाष्टके द्वितीयोऽध्यायोऽष्टाविंशो वर्गश्च समाप्तः ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे राजे लोकांजवळ पुरुष मंत्री असतात तशा राण्यांजवळ स्त्रिया मंत्री असाव्यात. ॥ ८ ॥
+</details>
+
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
+अग्नि᳓र् हो᳓ता गृह᳓पतिस्स᳓ रा᳓जा ।  
+वि᳓श्वा वेद ज᳓निमा जात᳓वेदाः ।  
+देवा᳓नाम् उत᳓ यो᳓ म᳓र्त्यानाम् ।  
+य᳓जिष्ठस् स᳓ प्र᳓यजताम् ऋता᳓वा ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 अ॒ग्निर्होता॑ गृ॒हप॑ति॒स्स राजा॑ ।  
 विश्वा॑ वेद॒ जनि॑मा जा॒तवे॑दाः ।  
 दे॒वाना॑मु॒त यो मर्त्या॑नाम् ।  
 यजि॑ष्ठ॒स्स प्रय॑जतामृ॒तावा॑ ।  
 
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अग्निः᳓ । हो᳓ता । गृह᳓-पतिः । सः᳓ । रा᳓जा । वि᳓श्वा । वेद । ज᳓निमा । जात᳓-वेदाः । देवा᳓नाम् । उत᳓ । यः᳓ । म᳓र्त्यानाम् । य᳓जिष्ठः । सः᳓ । प्र᳓ । यजताम् । ऋत᳓-वा ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7अग्निर्होतेति ॥ अग्निः होता देवानां आह्वाता । गृहपतिः गृहाणां पाता स एव राजा दीप्यमानः । क इत्याह - विश्वा जनिमा जन्मानि यो वेद जानाति । जातवेदाः जातानां वेदिता जातप्रज्ञो वा । केषां जन्मानि? देवानां मर्त्यानां च । किञ्च - स एव यजिष्ठः यष्टृतमः प्रयजतां मध्ये तत्तुल्यः प्रकृष्टो यष्टा ऋतावा सत्यवान् यज्ञवान्वा । मत्वर्थीयो वतिः । यष्टृशब्दात् 'तुश्छन्दसि' इति इष्ठन्प्रत्ययः ॥
 </details>
+</details>
 
-### ऋक्
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
+वय᳓म् उ त्वा गृहपते ज᳓नानाम् ।  
+अ᳓ग्ने **अ᳓कर्म** समि᳓धा बृह᳓न्तम् ।  
+अस्थूरि᳓ णो गा᳓र्हपत्यानि सन्तु ।  
+तिग्मे᳓न नस् ते᳓जसा सँ᳓शिशाधि ॥27॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 व॒यमु॑ त्वा गृहपते॒ जना॑नाम् ।  
 अग्ने॒ अक॑र्म स॒मिधा॑ बृ॒हन्त॑म् ।  
 अ॒स्थू॒रि णो॒ गार्ह॑पत्यानि सन्तु ।  
-ति॒ग्मेन॑ न॒स्तेज॑सा॒ सँशि॑शाधि ॥27॥  
+ति॒ग्मेन॑ न॒स्तेज॑सा॒ सँशि॑शाधि ॥27॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वय᳓म् । उ । त्वा । गृह-पते । ज᳓नानाम् । अ᳓ग्ने । अ᳓कर्म । सम्-इ᳓धा । बृह᳓न्तम् । अस्थूरि᳓ । णः । गा᳓र्हपत्यानि । सन्तु । तिग्मे᳓न । नः । ते᳓जसा । स᳓म् । शिशाधि ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8वयमु त्वेति त्रिष्टुप् ॥ हे अग्ने! गृहपते! जनानां मध्ये वयमेव त्वां समिधा संदीपनेन तेजसा बृहन्तं अकर्म कृतवन्तः स्म । तस्मात् नः अस्माकं अस्थूरि अक्लिष्टानि । सुपां सुलुक् । गार्हपत्यानि गृहपतिना संयुक्तानि कर्माण सन्तु । किञ्च - तिग्मेन तीक्ष्णेन अप्रधृष्येण तेजसा नः अस्मान् संशिशाधि तीक्ष्णीकुरु समृद्धान् कुर्विति । 'वा छन्दसि' इत्यपित्वे प्रतिषिद्धे ङित्वाभावात् 'अङितश्च' इति धिभावः ॥
 
 इति तैत्तिरीये तृतीयेऽष्टके पञ्चमप्रपाठके द्वादशोऽनुवाकः ॥  
 
+</details>
 </details>
 </details>
 </div>

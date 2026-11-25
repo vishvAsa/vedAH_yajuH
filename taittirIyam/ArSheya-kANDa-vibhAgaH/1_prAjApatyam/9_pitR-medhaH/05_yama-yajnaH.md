@@ -4,12 +4,17 @@ title = "०५ यम-यज्ञः"
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/05_yama-yajnaH">
 
 <details open><summary><h1>०५ यम-यज्ञः …{Loading}…</h1></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - Note</summary>
 
 Offerings to Yama.
 </details>
+</details>
 
 ## आवाहनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -51,6 +56,7 @@ Offerings to Yama.
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Invitation of Yama and his wife.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/01_AyAtu_devas.md">
@@ -456,6 +462,8 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 
 ## हविर्-निवेदनम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ प्रस्तरं मध्यमवेद्यां विष्टरे निधाय अभिमन्त्रयते -  
@@ -488,6 +496,7 @@ Als ihr herbeikamt wie zwei zusammengehende Schwestern, brachten euch die fromme
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Offering of soma.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/13_yamAya_somaM.md">
@@ -761,6 +770,8 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रतीच्याम् उत्तरवेद्यां हविर्निवेदनम् - यमाय घृतवदिति ॥
@@ -780,6 +791,7 @@ Dem Jama keltert Somasaft, ergiesst dem Jama Opfertrank; Zu Jama geht das Opfer 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Offering of ghee.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/14_yamAya_ghRtavaddhavirjuhota.md">
@@ -1083,6 +1095,8 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्राच्यां -
@@ -1102,6 +1116,7 @@ Den fettversehnen Opfertrank ergiesst dem Jama, tretet vor; Er lenk uns zu den G
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Offering of honey.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/15_yamAya_madhumattamaM.md">
@@ -1358,6 +1373,8 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 
 ## परिगानम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 योऽस्य कौष्ठ्येति तिसृभिर् यमगाथाभिस् त्रिः-प्रसव्यम् अप्रदक्षिणं परिगायन्ति -
@@ -1375,6 +1392,7 @@ Dem König Jama giesset nun die Butter zu, die süsseste; Bringt dies Gebet den 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Praises of Yama.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/02_yo-sya_kauShThya.md">
@@ -1604,9 +1622,12 @@ Yama has held the earth; Yama has held all this world; all this exists for Yama 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Mantras for taking up the ghee.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/05_yama-yajnaH/06_yathA_pancha.md">
@@ -1675,6 +1696,8 @@ He, who knows Yama, becomes able to speak like that one Seer (God) who knows all
 स᳓र्वा ता᳓ यम᳓ आ᳓हिता ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 By Trikedrukasa (three sacrifices named Jyotis, Gaurus, Ayu) whatever falls on the six earths (the heaven, the earth, the waters, the plants, the food and the gladness) and the Great one, and what are the verses, Gayatri, Tristup (etc.); all these are kept in Yama.
@@ -1719,6 +1742,7 @@ By Trikedrukasa (three sacrifices named Jyotis, Gaurus, Ayu) whatever falls on t
 
 इति। बृहत् परं ब्रह्मैकम् इद् एकम् एव। गायत्र्यादीनि तु च्छन्दांसि छन्दो-रूपेण व्यवस्थितानि। एवं नाना-विधं यज् जगद् अस्ति सर्वा ता तत् सर्वं जगद् यम आहिता यमे प्रतिष्ठितम्। नियामकत्वाद् एव जगद्-व्यवस्था-हेतुत्वं यमस्य युक्तम् इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -1727,6 +1751,8 @@ By Trikedrukasa (three sacrifices named Jyotis, Gaurus, Ayu) whatever falls on t
 [[वै᳓वस्वतो|वैवस्वतो᳓]] न᳓ **तृप्यति**  
 [[प᳓ञ्चभिर्|पञ्च᳓भिर्]] [[मा᳓नवैर्|मानवै᳓र्]] यमः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1766,6 +1792,7 @@ Yama, the son of the sun, does not satisfy taking away day-by-day the cow, the h
 
 अयं वैवस्वतः सूर्यस्य पुत्रो यमः पञ्चभिर् मानवैः पञ्च-संख्याकैर् मुख्यैर् दूत-विशेषैः सहितः सन्न् अहर्-अहः प्रतिदिनं गवादि-प्राणिनो नीयमानो यम-लोके प्रापयन् न तृप्यति। अलम् एतावतेत्य् एवं तृप्तिं न प्राप्नोति। प्राणिनो नेतुम् आलस्य-रहित इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -1775,6 +1802,8 @@ Yama, the son of the sun, does not satisfy taking away day-by-day the cow, the h
 य᳓ उ [[चा᳓नृतवादिनः᳓|चानृतवादि᳓नः]] ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1818,6 +1847,7 @@ Those men are described before Yama, the king, the son of the sun, whoever desir
 
 इह लोके ये च पुरुषाः सत्येन वर्तितुम् इच्छन्ति ये ऽपि चान्ये पुरुषा अनृत-वादिनस् ते द्वि-विधा अपि जना वैवस्वते सूर्यस्य पुत्रे यमे राजनि स्थिते सति तद्-भृत्यैर् विविच्यन्ते। तत्र सत्य-वादिनः स्वर्गं नयन्ति, अनृत-वादिनो नरकं नयन्तीत्य् एवं तद्-विवेकः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1827,6 +1857,8 @@ Those men are described before Yama, the king, the son of the sun, whoever desir
 ब्रा᳓ह्मणाँश् चापचि᳓त्यति ।  
 +++(आरण्यकः स्वरव्यत्ययः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1870,6 +1902,7 @@ Those men are described before, and go to you, O king, here (in your place) who 
 
 ये च पुरुषा इह लोके देवान् नमस्यन्त्य् उपासते ये ऽपि चान्ये ब्राह्मणान् अपचित्यति सुवर्ण-दानान्न-दानादिना पूजयन्ति ते द्वि-विधा अपि हे राजन्न् इह त्वदीये लोके विविच्यन्ते। तत्रोपासका ब्रह्म-लोके नीयन्ते दानादि-कर्म-निष्ठास् तु स्वर्ग-लोके नीयन्त इति तद्-विवेकः। अथ यस्माद् एवं तस्मात् सर्वे ऽपि हे यम, त्वाम् उपयन्ति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1878,6 +1911,8 @@ Those men are described before, and go to you, O king, here (in your place) who 
 अ᳓त्रा नो विश्-प᳓तिः  
 पिता᳓ पुराणा᳓ अ᳓नुवेनति ॥ (13)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1920,6 +1955,7 @@ In which tree of good leaves Yama drinks (soma) with the gods, there follows our
 यमो राजा देवैर् अन्यैः सह सु-पलाशे शोभन-पर्णोपेते यस्मिन् वृक्षे सोम-सवन-नामके। "तद् अश्वत्थः सोम-सवन" इति श्रुत्य्-अन्तरात्। संपिबते संभूय सोम-पानं करोति। अत्रास्मिन् वृक्षे विश्पतिः प्रजानां स्वामी नो ऽस्माकं पिता पुराणाः पुरातनान् देवान् अनु वेनत्य् अनुगच्छति। त एते सातापि मन्त्रा यम-माहात्म्य-प्रतिपादकाः॥   
 
 *इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीयारण्यक-भाष्ये षष्ठ-प्रपाठके पञ्चमो ऽनुवाकः ॥५॥*
+</details>
 </details>
 </details>
 

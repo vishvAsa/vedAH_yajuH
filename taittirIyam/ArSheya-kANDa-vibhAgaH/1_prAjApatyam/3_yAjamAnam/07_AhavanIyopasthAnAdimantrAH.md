@@ -11,15 +11,20 @@ title = "०७ आहवनीयोपस्थानादिमन्त्�
 
 ## आहवनीयोपस्थानम्
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1आहवनीयम् उपतिष्ठते - अगन्मेति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग॑न्म॒ सुवः॑ ।
+अ᳓गन्म सु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -48,11 +53,14 @@ We have come to the heaven;
 अगन्मेति। कल्पः - ‘अथात्रैव तिष्ठन्नाहवनीयमपतिष्ठते अगन्म सुवः सुवरगन्म संदृशस्ते मा छित्सि यत्ते तपस्तस्मै ते माऽऽ वृक्षीति’ इति।  
 आद्येन सुवःशब्देन कर्मफलभोगभूमिरभिधीयते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुव॑र् अगन्म ।
+सु᳓वर् अगन्म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -78,11 +86,14 @@ to the heaven we have come.
 
 द्वितीयेन सुवःशब्देन मोक्षद्वारभूत आदित्यलोकः। हे आहवनीय त्वत्प्रसादात्प्रथमं फलभोगस्थानं सपुत्रपात्रा वयं गम्यास्म। ततो मोक्षद्वारमादित्यलोकं गम्यास्म। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒न्दृश॑स् ते॒ मा छि॑त्सि ।
+सन्दृ᳓शस् ते मा᳓ छित्सि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,11 +119,14 @@ May I not be cut off from seeing thee;
 
 तदर्थमहं तव संदृशः कटाक्षान्मा च्छित्सि विच्छिन्ने मा भूवम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् ते॒ तप॒स् तस्मै॑ ते॒ मा ऽऽवृ॑क्षि ।
+य᳓त् ते त᳓पस् त᳓स्मै ते मा᳓ ऽऽवृक्षि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,18 +152,29 @@ what heat is thine, to that of thee may I not be brought low.
 
 ते त्वदर्थं यत्तपोऽस्माभिरनुष्ठास्यते तस्मै तपसे ते तवानुग्रहान्माऽऽवृक्षि आ समन्ताद्वृक्तो विच्छिन्नो मा भूवम्।  
 </details>
+</details>
 
 ## सूर्योपस्थानमन्त्राः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2आदित्यमुपतिष्ठते - सुभूरिति ॥ 
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सुभूरसीति। कल्पः - ‘अथाऽऽदित्यमुपतिष्ठते-सुभूरसि श्रेष्ठो रश्‍मीनामायुर्धा अस्यायुर्मे धेहि वर्चोधा असि वर्चो मयि धेहीति’ इति।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सु॒-भूर् अ॑सि॒ श्रेष्ठो॑ रश्मी॒नाम् +++(← 'नामन्यतरस्याम्' इति स्वरः)+++  ।
+सु-भू᳓र् असि श्रे᳓ष्ठो रश्मीना᳓म् +++(← 'नामन्यतरस्याम्' इति स्वरः)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,15 +200,17 @@ Thou art good, the best of rays,
 
 <details><summary>सायण-टीका</summary>
 
-सुभूरसीति। कल्पः - ‘अथाऽऽदित्यमुपतिष्ठते-सुभूरसि श्रेष्ठो रश्‍मीनामायुर्धा अस्यायुर्मे धेहि वर्चोधा असि वर्चो मयि धेहीति’ इति।  
 
 हे आदित्य त्वं सुभूरसि सुष्ठु भवत्युदेतीति सुभूः। रश्‍मीनां रश्‍मियुक्तानां चन्द्रादीनां मध्ये श्रेष्ठोऽसि। 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ॒यु॒र्धा अ॒स्य्, आयु॑र् मे धेहि ।
+आयुर्धा᳓ अस्य्, आ᳓युर् मे धेहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,11 +237,14 @@ upon me
 
 आयुषः स्थापयिताऽसि। अतो मय्यायुः स्थापय। एवं ब्रह्मवर्चसेऽपि योज्यम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व॒र्चो॒-धा अ॑सि॒, वर्चो॒ मयि॑ धेहि ।
+वर्चो-धा᳓ असि, व᳓र्चो म᳓यि धेहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -235,8 +265,11 @@ thou art radiance-bestowing, bestow radiance upon me.
 
 वर्चोधाः वर्चसो बलस्य धाता स्थापयिता चासि त्वं मयि वर्चो धेहि स्थापय ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सर्वतो भ्रातृव्यं निर्भजति - इदमहमिति ॥ 
@@ -247,15 +280,23 @@ _______
 इ॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो॑ऽस्यै दि॒वो॑ऽस्माद॒न्तरि॑क्षाद॒स्यै पृ॑थि॒व्या अ॒स्माद॒न्नाद्या॒न्निर्भ॑जामि॒ निर्भ॑क्त॒स्स यन्द्वि॒ष्मः । [17] 
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+इदमहमिति। कल्पः - ‘अथैभ्यो लोकेभ्यो भ्रातृव्यं निर्भजति-इदमहममुं भ्रातृव्यमाभ्यो दिग्भ्योऽस्यै दिवोऽस्मादन्तरिक्षादस्यै पृथिव्या अस्मादन्नाद्या-न्निर्भजामि निर्भक्तः स यं द्विष्म इति’ इति।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒दम् अ॒हम् अ॒मुम्+++(←नामनिर्देशः)+++ भ्रातृ॑व्यम्  
-आ॒भ्यो दि॒ग्भ्यो॑  
-ऽस्यै दि॒वो॑  
-ऽस्माद् अ॒न्तरि॑क्षाद्  
-अ॒स्यै पृ॑थि॒व्या +++(← उदात्तयणः … इति स्वरः)+++  
-अ॒स्माद् अ॒न्नाद्या॒न् निर्भ॑जामि
+इद᳓म् अह᳓म् अमु᳓म्+++(←नामनिर्देशः)+++ भ्रा᳓तृव्यम्  
+आभ्यो᳓ दिग्भ्यो᳙  
+ऽस्यै दिवो᳙  
+ऽस्माद् अन्त᳓रिक्षाद्  
+अस्यै᳓ पृथिव्या᳓ +++(← उदात्तयणः … इति स्वरः)+++  
+अस्मा᳓द् अन्ना᳓द्यान् नि᳓र्भजामि
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -291,15 +332,24 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 
 <details><summary>सायण-टीका</summary>
 
-इदमहमिति। कल्पः - ‘अथैभ्यो लोकेभ्यो भ्रातृव्यं निर्भजति-इदमहममुं भ्रातृव्यमाभ्यो दिग्भ्योऽस्यै दिवोऽस्मादन्तरिक्षादस्यै पृथिव्या अस्मादन्नाद्या-न्निर्भजामि निर्भक्तः स यं द्विष्म इति’ इति।  
 
 यो भ्रातृव्यो मदीयो वैरी पृथिव्यादिलोकत्रये प्राच्यादिदिक्षु मम विरोधमाचरति मदीयमन्नाद्यं चापजिहीर्षति अमुं भ्रातृव्यं ततः पृथिव्यादेरिदं निर्भजामि शीघ्रमेव निःसारयामि। 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-<details open><summary><h6>निर्भक्तः ...{Loading}...</h6></summary>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सं ज्योतिषेति। कल्पः - ‘सं ज्योतिषाऽभूवमित्यात्मानं प्रत्यभिमृशते’ इति।
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्भ॑क्त॒स् स यन् द्वि॒ष्मः ।
+नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -333,18 +383,23 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-</details>
+
 </div>
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आत्मानम् अभिमृशति - सं ज्योतिषेति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सञ्ज्योति॑षाऽभूवम् ।
+स᳓ञ्ज्यो᳓तिषाऽभूवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,25 +423,30 @@ I have been united with the light.
 
 <details><summary>सायण-टीका</summary>
 
-सं ज्योतिषेति। कल्पः - ‘सं ज्योतिषाऽभूवमित्यात्मानं प्रत्यभिमृशते’ इति।  
 अहमादित्यज्योतिषा समभूवं संगतो भूयासम्।  
+</details>
 </details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उदङ्पर्यावर्तते - ऐन्द्रीमिति ॥ 
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+ऐन्द्रीमिति। कल्पः - ‘दक्षिणमँसमभि पर्यावर्तत ऐन्द्रीमावृतमन्वावर्त इति’ इति।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐ॒न्द्रीम् आ॒वृत॑म् अ॒न्वाव॑र्ते ।
+ऐन्द्री᳓म् आवृ᳓तम् अन्वा᳓वर्ते ।
 </details>
 
-<details><summary>पद-पाठः</summary>
-
-ऐ॒न्द्रीम् । आ॒वृत॒मित्या॑-वृत॑म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते । 
-</details>
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -398,6 +458,11 @@ I turn the turning of Indra.
 ऐ॒न्द्रीमा॒वृत॑म॒न्वाव॑र्ते ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऐ॒न्द्रीम् । आ॒वृत॒मित्या॑-वृत॑म् । अ॒न्वाव॑र्त॒ इत्य॑नु-आव॑र्ते ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **ऐन्द्रीम् आवृतम्** आवृत्तिं पर्यावृत्ति अहमन्वावर्तेनुगन्तास्मि । इन्द्रेण पूर्वकृतामनु पश्चादहमनुवर्ते । यद्वा - लक्षणेऽनोः कर्मप्रवचनीयत्वम्, ऐन्द्र्यावृत्त्या इयमावृत्तिर्लक्ष्यत इति । इन्द्र आदित्यः । 'असौ वा आदित्य इन्द्रः' इत्यादि ब्राह्मणम् ॥
@@ -405,20 +470,29 @@ I turn the turning of Indra.
 
 <details><summary>सायण-टीका</summary>
 
-ऐन्द्रीमिति। कल्पः - ‘दक्षिणमँसमभि पर्यावर्तत ऐन्द्रीमावृतमन्वावर्त इति’ इति।  
 परमैश्वर्ययोगादादित्य इन्द्रः। तदीयमावर्तनमन्वहमपि प्रादक्षिण्येनाऽऽवर्ते।  
+</details>
 </details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6उपीतष्ठते - समहमिति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
-<details open><summary><h6>समहम् प्रजया ...{Loading}...</h6></summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+समिद्ध इति। कल्पः - ‘अथाऽऽहवनीये समिधमादधाति समिद्धो अग्ने मे दीदिहि समेद्धा ते अग्ने दीद्यासँ स्वाहेति’ इति।
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् अ॒हम् प्र॒जया॑  +++(भूयासम्)+++  ।
+स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -453,7 +527,7 @@ ___________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम् मया॑ प्र॒जा  +++(भूयात्)+++ ।
+स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -485,7 +559,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम॒हँ रा॒यस्पोषे॑ण  +++(भूयासम्)+++  ।
+स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -517,7 +591,7 @@ _______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्मया॑ रा॒यस्पोषः॑   +++(भूयात्)+++  ।
+स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
 
 <details><summary>Keith</summary>
@@ -541,19 +615,24 @@ increase of wealth with me.
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7समिधमादधाति - समिद्ध इति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समि॑द्धो अग्ने मे दीदिहि ।
+स᳓मिद्धो अग्ने मे दीदिहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -577,15 +656,17 @@ Kindled, O Agni, shine for me;
 
 <details><summary>सायण-टीका</summary>
 
-समिद्ध इति। कल्पः - ‘अथाऽऽहवनीये समिधमादधाति समिद्धो अग्ने मे दीदिहि समेद्धा ते अग्ने दीद्यासँ स्वाहेति’ इति।  
 
 अत्र समित्प्रक्षेपाय स्वाहेति शब्दोऽध्याहृतः। 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मे॒द्धा+++(=सन्दीपयिता)+++ ते॑ अग्ने दीद्यासम् ।
+समेद्धा᳓+++(=सन्दीपयिता)+++ ते अग्ने दीद्यासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -611,17 +692,28 @@ kindling thee, O Agni, may I shine.
 
 हेऽग्नेऽनया समिधा प्रदीप्तस्त्वं मे मदर्थं दीदिहि दीप्यस्व। तव दीपयिताऽहमपि त्वत्प्रसादाद्दीप्तो भूयासम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उपतिष्ठते - वसुमानिति ॥ 
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+वसुमानिति। कल्पः - ‘अथाऽऽहवनीयप्रुपतिष्ठते वसुमान्यज्ञो वसीयान्भूयासमिति’ इति।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसु॑मान् य॒ज्ञो, वसी॑यान् भूयासम् ।
+व᳓सुमान् यज्ञो᳓, व᳓सीयान् भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -645,26 +737,43 @@ Be rich the sacrifice; may I be rich.
 
 <details><summary>सायण-टीका</summary>
 
-वसुमानिति। कल्पः - ‘अथाऽऽहवनीयप्रुपतिष्ठते वसुमान्यज्ञो वसीयान्भूयासमिति’ इति।  
 अयं यज्ञस्त्वत्प्रसादाद्वसुमान्धनवान्। अहमपि त्वतप्रसादाद्वसीयान्वसुमत्तरो भूयासम्।  
+</details>
 </details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9-10गार्हपत्यमुपतिष्ठते - अग्न आयूंषीति गायत्रीभ्याम् ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
-<details open><summary><h6>१९ अग्न आयूंषि ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓ग्न आ᳓यूंषि **पवस**  
 आ᳓ **सुवो᳓र्जम्** इ᳓षं च नः ।  
 आरे᳓+++(=दूरे)+++ **बाधस्व** दुच्छु᳓नाम्+++(=रक्षसाम्)+++ ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/19_agna_AyUMShi.md">
-<details open><summary><h6>019 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
+आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/19_agna_AyUMShi.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः पवमानः
@@ -820,6 +929,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- अग्निभूत सोम। आयूंषि। पवसे- क्षरसि। नः- अस्मदर्थम्। ऊर्जं- शक्तिम्। इषं च-  सदिच्छामपि। आ सुव- प्रेरय। दुच्छुनम्- रक्षः। आरे- दूरे एव। बाधस्व- पीडय॥१९॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **अग्ने** पवमानरूप त्वमस्माकम् **आयूंषि** जीवनानि **पवसे** रक्षसि । **नः** अस्माकम् 'ऊर्जम् अन्नरसम् **इषम्** अन्नं च **आ** **सुव** आभिमुख्येन प्रेरय । किंच **दुच्छुनाम्** । रक्षोनामैतत् । रक्षांसि **आरे** अस्मत्तो दूर एव **बाधस्व** संपीडय ॥
@@ -858,7 +972,7 @@ Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preve
 This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
-<details open><summary><h8>19-21 ...{Loading}...</h8></summary>
+<details open><summary><h7>19-21 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
@@ -921,23 +1035,293 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 पदार्थान्वयभाषाः -  (अग्ने) ज्ञानस्वरूप परमेश्वर ! त्वम् (आयूंषि) अस्माकं वयांसि (पवसे) पवित्रयसि (च) अथ च (नः) अस्मभ्यम् (इषम्) ऐश्वर्यं तथा (ऊर्जम्) बलं (आसुव) देहि। तथा (दुच्छुनाम्) विघ्नकारिराक्षसान् इतः (आरे बाधस्व) दूरीकुरु ॥१९॥
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
-<details open><summary><h6>१९ अग्न आयूंषि ...{Loading}...</h6></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/19_agna_AyUMShi.md">
 
 अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
 आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
-<details open><summary><h6>२१ अग्ने पवस्व ...{Loading}...</h6></summary>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓ग्ने **प᳓वस्व** स्व्-अ᳓पा+++(←अपस्=कर्म)+++  
 अस्मे᳓ व᳓र्चः सुवी᳓र्यम् ।  
 **द᳓धद्** रयिं᳓ म᳓यि पो᳓षम् ॥
 
 </details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/066/21_agne_pavasva.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अग्ने॒ पव॑स्व॒ स्वपा॑ अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
+दध॑द्र॒यिं मयि॒ पोष॑म् ॥
+</details>
+
+</div>
+
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/066/21_agne_pavasva.md">
+
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः पवमानः
+- ऋषिः - शतं वैखानसाः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अ᳓ग्ने प᳓वस्व सुअ᳓पा  
+अस्मे᳓ व᳓र्चः सुवी᳓रियम्  
+द᳓धद् रयि᳓म् म᳓यि पो᳓षम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+_________
+**Morph**  
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+pávasva ← √pū- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+svápāḥ ← svápas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+asmé ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+suvī́ryam ← suvī́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+várcaḥ ← várcas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dádhat ← √dhā- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+máyi ← ahám (pronoun)  
+{case:LOC, gender:M, number:SG}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । पव॑स्व । सु॒ऽअपाः॑ । अ॒स्मे इति॑ । वर्चः॑ । सु॒ऽवीर्य॑म् ।  
+दध॑त् । र॒यिम् । मयि॑ । पोष॑म् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+
+_________
+
+- *svapā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *svapā* ← *apāḥ* ← *apas*
+- \[noun\], nominative, singular, masculine
+- “work; deed.”
+
+_________
+
+- *asme* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *varcaḥ* ← *varcas*
+- \[noun\], accusative, singular, neuter
+- “shininess; vigor; fecal matter; glare; magnificence; energy;
+    prestige; energy; glory; luster; light; varcas \[word\]; glory; body
+    waste; droppings; color.”
+
+_________
+
+- *suvīryam* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suvīryam* ← *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+
+_________
+
+- *dadhad* ← *dadhat* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+
+_________
+
+- *mayi* ← *mad*
+- \[noun\], locative, singular
+- “I; mine.”
+
+_________
+
+- *poṣam* ← *poṣa*
+- \[noun\], accusative, singular, masculine
+- “prosperity; poṣa \[word\].”
+
+_________
+
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+मयि। पोषम्- पुष्टिमयीम्। रयिम्- संपदम्। दधत्- धरन्। अस्मे- अस्माकम्। वर्चः- तेजः।  सुवीर्यं- शोभनवीर्यम्। स्वपाः- शोभनजीवनोदकयुक्तः सन्। अग्ने- अग्निमय सोम। पवस्व-  क्षर॥२१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **स्वपाः** । ‘सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम्। शोभनकर्मा त्वम्  
+**अस्मे** अस्मासु **सुवीर्यं** शोभनवीर्योपेतं **वर्चः** - वर्च दीप्तौ - तेजः **पवस्व** आगमय । 
+
+तथा भवान् **रयिं** धनं पुत्रं वा **पोषम्** । भावे कर्मणि वा घञ् । गवां पुष्टिं यद्वा गवादिकं मयि भवान् **दधत्** दधातु । करोत्वित्यर्थः । दधातेर्लेट्यडागमः। ‘घोर्लोपो लेटि वा' (पा. सू. ७. ३. ७० ) इत्याकारलोपः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे **अग्ने** स त्वं **पवस्व स्वपाः** शोभनकर्मा । 'सोर्मनसी अलोमोषसी' इत्युत्तरपदाद्युदात्तत्वम् । 
+
+**अस्मे** अस्मभ्यम् । 'सुपां सुलुक्' इति शे-आदेशः । **वर्चः** बलं, सुवीर्यं शोभनवीर्ययुक्तं पवस्व शोधय वर्धय । 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् । अग्ने इत्यस्याविद्यमानत्वात् पवस्वेति न निहन्यते । 
+
+किं कुर्वन्नित्याह - **पोषं** पुण्ष्टिं **रयिं** धनं च मयि **दधत्** धारयन् स्थापयन् वर्चो मे धेहीति । 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । 'यदग्नये पवमानाय निर्वपति पुनात्येवैनम्' `इति ब्राह्मणम् ॥
+
+_____________
+हे अग्ने शोभनकर्मा त्वमसि अस्मान् शोभनानुष्ठानान् कुरु । अस्मदर्थं शोभनं वीर्यं तेजो दीप्तिं च बलं वा शोधय प्रापय । पोषं वृद्धियुक्तं रयिं धनं च मयि दधत् स्थापयन्निति ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, who are the doer of good, pour upon us brightness and fair-offspring; may he make me wealth and plural nty.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Agni, as a good worker, through your purification bring luster and an  abundance of heroes for us,  
+establishing in me wealth and thriving.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Here, despite the obj. phrase in b, pávasva lacks the expected ā́. It would technically be possible to take b with c: “establishing luster and an abundance of heroes for/in us, wealth and thriving in me,” which would leave pavasva intransitive. However, this seems artificial, and the existence of two 1st ps. pronouns in b and c, in different numbers, would be awkward. Moreover, 27c, with an independent dádhat clause, speaks in favor of separating b and c here.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
+<details open><summary><h7>19-21 …{Loading}…</h7></summary>
+<details><summary>Jamison Brereton Notes</summary>
+
+On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
+
+begin with a form of that stem, two as voc.) that the Anukramaṇī lists Agni as the deity of the three vss. But it is of course far more likely that Soma is being identified with Agni here.
+
+The equation and poetic merging of these two ritual gods is found elsewhere, most notably in “the hardest hymn in the RV” (V.44), which is simultaneously applicable to both gods throughout its length. Their blending is shown here by the use of both Somian and Agnian vocab.: for the latter, see esp. puróhitaḥ (20b); for the former, the three forms of páva-, one each in each vs.: 19a pavase, 20a pávamānaḥ, 21a pavasva. Note that after this Agni tṛca the word sóma- doesn’t appear until vs. 29 and a likely identification with Indra (as well as comparison with the sun) intervenes.
+</details>
+</details>
+</div>
+</details>
+
+<details><summary>Griffith</summary>
+
+Skilled in thy task, O Agni, pour splendour with hero strength on us,  
+     Granting me wealth that nourishes.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, good worker, purify for us  
+Glory in good heroes;  
+Giving increase and wealth to me.
+</details>
+
+<details><summary>Geldner</summary>
+
+O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, mir Reichtum und Zuwachs bringend!
+</details>
+
+<details><summary>Grassmann</summary>
+
+O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut und Nahrung mir.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- शतं वैखानसाः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) हे ज्ञानस्वरूप परमात्मन् ! (पवस्व) आप हमको पवित्र करें। आप (स्वपाः) शोभन कर्मोंवाले हैं (अस्मे) हममें आप (वर्चः) ब्रह्मतेज दें और (मयि) मुझमें (रयिम्) ऐश्वर्य (सुवीर्यम्) और सुन्दर बल (पोषम्) तथा पुष्टि को (दधत्) धारण कराएँ॥२१॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  जो पुरुष परमात्मपरायण होते हैं, परमात्मा उनमें सब प्रकार के ऐश्वर्यों को धारण कराता है ॥२१॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) ज्ञानस्वरूप जगत्पालक परमात्मन् ! मां (पवस्व) पवित्रयतु। भवान् (स्वपाः) सुकर्मास्ति। (अस्मे) अस्मासु (वर्चः) ब्रह्मतेजो ददातु। अथ च (मयि) मयि (रयिम्) ऐश्वर्यं (सुवीर्यम्) सुन्दरं बलं (पोषम्) पुष्टिं च (दधत्) धारयतु ॥२१॥
+</details>
+</details>
+
 </div>
 </details>
 </div>

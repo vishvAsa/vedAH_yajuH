@@ -8,6 +8,8 @@ title = "०९ मन्थिग्रहः"
 जगती। सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1मन्थिनं गृह्णाति - तं प्रत्नथेति चतुष्पदया जगत्या ॥ 
@@ -17,8 +19,11 @@ _______
 
 तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिम्बर्हि॒षदँ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(मन्थिग्रहावसरे प्रयुज्यते तैत्तिरीये।)+++  
 +++(शनैश्चरं)+++ तं᳓ प्रत्न᳓-था+++(=वत्)+++ पूर्व᳓-था विश्व᳓-था᳓+इ᳓म᳓+++(=इमे)+++-था  
@@ -27,9 +32,21 @@ _______
 +++(गुरुं)+++ ऽऽशुं᳓+++(←अश् व्याप्तौ)+++ ज᳓यन्तम् अ᳓नु या᳓सु +++(अग्रिमायां वक्ष्यमाणासु)+++ **व᳓र्धसे** ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/044/01_taM_pratnathA.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/044/01_taM_pratnathA.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+तं प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिं बर्हि॒षदं॑ स्व॒र्विद॑म् ।  
+प्र॒ती॒ची॒नं वृ॒जनं॑ दोहसे गि॒राशुं जय॑न्त॒मनु॒ यासु॒ वर्ध॑से ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/044/01_taM_pratnathA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -216,6 +233,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+प्रत्नथा- पुराणा यथा। पूर्वथा- पूर्वे यथा। विश्वथा- सर्वे यथा। इमथा- इमे यथा। तथा।  ज्येष्ठतातिम्- ज्येष्ठम्। बर्हिषदम्- दर्भासनस्थम्। स्वर्विदम्- स्वर्गविदम्। प्रतीचीनम्-  अस्मदभिमुखम्। वृजनम्- बलिनम्। जयन्तम्- जयशीलम्। तम्- अमुमिन्द्रम्। आशुम्-  क्षिप्रम्। गिरा- वाचा। दोहसे- धुक्ष्व। यासु- यासु सद्भावनासु। त्वं अनुवर्धसे ता इन्द्राय  समर्पय॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इयमुत्तरा च द्वे ऐन्द्र्याव् इत्य् आहुः । तत्रोपपत्तिमेवमाहुः । 
@@ -223,7 +245,8 @@ _________
 तं प्रत्नथा इत्येषा शुक्रा-मन्थिग्रहणे विनियुक्ता । ऐन्द्रौ च शुक्रामन्थिनौ । ' यदैन्द्रं शंसति तेन शुक्रामन्थिना उक्थवन्तौ' ( ऐ. ब्रा. ३. १ ) इति हि ब्राह्मणम् । अध्वर्युसंप्रैषोऽपि भवति । ‘प्रातःप्रातः सवस्य शुक्रवतो मधुश्चुत इन्द्राय सोमान्प्रस्थितान्प्रेष्य' (श. ब्रा. ४. २. १. २३) इति । प्रशास्तृप्रैषश्च भवति ‘होता यक्षदिन्दं प्रातः प्रातःसावस्य' ( आश्व. श्रौ. ५. ५) इत्यादि । ‘प्रस्थिता इन्द्राय सोमाः' इति याज्या चैन्द्री 'इदं ते सोम्यं मधु' ( आश्व. श्रौ. ५. ५ ) इति । तस्माद् ऐन्द्र्यौ ॥ 
 
 **तम्** इन्द्रं **प्रत्नथा** पुरातना यजमाना इव **पूर्वथा** अस्मदीयाः पूर्वे यथा **विश्वथा** विश्वे सर्वे प्राणिनो यथा **इमथा** इमे इदानीं वर्तमानाः यजमानाः । ते यथेन्द्रस्य स्तुत्या फलमलभन्त तद्वद्वयमपि हे अन्तरात्मन् त्वमपि **ज्येष्ठतातिं** ज्येष्ठं **बर्हिषदं** बर्हिषि सीदन्तं **स्वर्विदं** सर्वज्ञं सर्वस्य लम्भयितारं वा **प्रतीचीनं** प्रत्यस्मदभिमुखमञ्चन्तं **वृजनम्** । बलनामैतद्बलवति वर्तते । बलवन्तम् **आशुं** शीघ्रगामिनं व्याप्तं वा **जयन्तं** सर्वमभिभवन्तमिन्द्रं **गिरा** स्तुत्या साधनेन **दोहसे** धुक्ष्व सर्वदा सर्वान् कामान् । इत्यन्तरात्मनः' प्रैषः' । **यासु** स्तुतिषु **वर्धसे** प्रवृद्धो भवसि वर्धयसि वेन्द्रं यया स्तुत्येति । यास्विति व्यत्ययेन बहुवचनम् ॥
-᳓</details>
+᳓
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -287,7 +310,7 @@ The standard ploy, which I think is basically correct, is to supply a fem. pl. o
 
 apáḥ ... ā́viśad yā́su várdhate Soma, unnamed, “entered the waters among which he grows strong.” (Note the nearly identical rel. cl.) For Agni cf. I.95.5 ... vardhate ...
 
-āsu “he grows strong among/in them” (here prob. = plants); I.141.5 ā́d ín mātṝ́r ā́viśad yā́su ... ví vāvrdhe ̥ “Just after that he entered into his mothers, within whom ....
+āsu “he grows strong among/in them” (here prob. = plants); I.141.5 ā́d ín mātṝ́r ā́viśad yā́su ... ví vāvrdhe ̥ “Just after that he entered into his mothers, within whom ....
 
 he grew widely” (again prob. plants; note that vāvṛdhe, as transmitted without accent, is not part of the rel. cl. If the transmitted form is correct). The connection of a fem.
 
@@ -348,7 +371,7 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
-भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो प्राचीन रीति से प्राचीन उत्तम राजाओं के तुल्य पिता के सदृश राज्य का उत्तम प्रकार पालन करके पूर्ण बलयुक्त सेना को कर शीघ्र विजय को प्राप्त हुई प्रजाओं को सुख के अनुकूल वर्त्तावें, उन्हीं को उत्तम अधिकार में नियुक्त करिये, जिससे राजा और प्रजा का निरन्तर सुख बढ़े ॥१॥
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे मनुष्यो ! जो प्राचीन रीति से प्राचीन उत्तम राजाओं के तुल्य पिता के सदृश राज्य का उत्तम प्रकार पालन करके पूर्ण बलयुक्त सेना को कर शीघ्र विजय को प्राप्त हुई प्रजाओं को सुख के अनुकूल वर्त्तावें, उन्हीं को उत्तम अधिकार में नियुक्त करिये, जिससे राजा और प्रजा का निरन्तर सुख बढ़े ॥१॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
@@ -380,20 +403,23 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो! जे प्राचीन उत्तम राजांप्रमाणे, पित्याप्रमाणे राज्याचे पालन चांगल्या प्रकारे करून तात्काळ विजय प्राप्त करणाऱ्या बलवान सेनेद्वारे प्रजेच्या सुखासाठी झटतात त्यांनाच उत्तम पदावर नियुक्त करावे. ज्यामुळे राजा व प्रजेचे सुख वाढेल. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि मर्काय त्वेति गृह्णाति ॥
-
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -406,6 +432,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -416,12 +447,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मर्का॑य त्वा ।
+म᳓र्काय त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -433,16 +467,27 @@ to Marka thee!
 मर्का॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मर्का॑य । त्वा॒ ।
+</details>
+</details>
+
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिः प्रजाः पाहीति सादयति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॑ योनिᳶ॑, प्र॒जाᳶ पा॑हि ॥ [10]  
+एष᳓ ते यो᳓निᳶ, प्रजाᳶ᳓ पाहि ॥ [10]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -454,11 +499,17 @@ This is thy birth place; guard offspring.
 ए॒ष ते॑ योनिᳶ॑ प्र॒जाᳶ पा॑हि ॥ [10]  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । प्र॒जा इति॑ प्र-जाः । पा॒हि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजाः यजमानस्य स्वभूतास्सर्वा वा ॥
 
 इति चतुर्थे नवमः ॥  
+</details>
 </details>
 </details>
 </div>

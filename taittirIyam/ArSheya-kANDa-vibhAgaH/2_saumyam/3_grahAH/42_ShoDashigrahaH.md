@@ -7,17 +7,22 @@ title = "४२ षोडशिग्रहः"
 
 स्वराडनुष्टुप्
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 
-म॒हाँ इन्द्रो॒ वज्र॑बाहुष्  
-षोड॒शी **शर्म॑ यच्छतु** ।  
-**स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
-**हन्तु॑** पा॒प्मानय्ँ॒ यो॑ऽस्मान् द्वेष्टि॑ ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+महाँ᳓ इ᳓न्द्रो व᳓ज्रबाहुष्  
+षोडशी᳓ **श᳓र्म यच्छतु** ।  
+**स्वस्ति᳓** नो मघ᳓वा **करोतु**  
+**ह᳓न्तु** पाप्मा᳓नय्ँ यो᳙ऽस्मा᳓न् द्वे᳓ष्टि ॥
+
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
-<details open><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
+
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Great is Indra of the Sodaśin,  
@@ -32,22 +37,23 @@ May he smite him who hateth us.
 स्व॒स्ति नो॑ म॒घवा॑ करोतु॒ हन्तु॑ पा॒प्मानय्ँ॒यो॑ऽस्मान्द्वेष्टि॑ ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+म॒हान् । इन्द्रः॑ । वज्र॑बाहु॒रिति॒ वज्र॑-बा॒हुः॒ । षो॒ड॒शी । शर्म॑ । य॒च्छ॒तु॒ ॥ स्व॒स्ति । नः॒ । म॒घवेति॑ म॒घ-वा॒ । क॒रो॒तु॒ । हन्तु॑ । पा॒प्मान॑म् । यः । अ॒स्मान् । द्वेष्टि॑ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1महाँ इन्द्र इत्यादि । इयमप्यनुष्टुप् ॥ महत्त्वादिगुणविशिष्ट इन्द्रः अस्मभ्यं शर्म सुखं यच्छतु ददातु । स्वस्ति अविनाशं चास्माकं करोतु । हन्तु चास्माकं पाप्मानं पापम् । योस्मान्द्वेष्टि तं च हन्तु । यद्वा - योस्मान्द्वेष्टि तं पाप्मानं हन्तु ॥
 </details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
 </details>
-</details>
+
 </div>
 
 _______
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
-<details open><summary><h6>उपयाम-गृहीतः ...{Loading}...</h6></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिन॑ ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥
@@ -57,11 +63,11 @@ _______
 
 (ग्रहणम्)
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -74,6 +80,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -84,11 +95,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
+इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
 
@@ -101,6 +112,11 @@ to Indra of the Sodaśin thee!
 
 उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षो॒ड॒शिने॑   +++(ग्रहणमन्त्रः)+++  ।
 
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -118,7 +134,7 @@ __________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
+एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
 
 <details><summary>Keith</summary>
@@ -130,11 +146,20 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ॥
 </details>
+
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2-3ग्रहणसादने स्पष्टे ॥
+</details>
 </details>
 </details>
 </div>

@@ -7,15 +7,20 @@ title = "३७ राजगवी होमः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 चि॒त्तँ स॑न्ता॒नेन॑ भ॒वय्ँय॒क्ना रु॒द्रन्तनि॑म्ना पशु॒पतिँ॑ स्थूलहृद॒येना॒ग्निँ हृद॑येन रु॒द्रल्ँलोहि॑तेन श॒र्वम्मत॑स्नाभ्याम्महादे॒वम॒न्तᳶपा॑र्श्वेनौषिष्ठ॒हनँ॑ शिङ्गीनिको॒श्या॑भ्याम् ॥ [37]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्तँ᳓ सन्ताने᳓न  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -41,11 +46,14 @@ Citta with the sinew,
 
 परमेश्वरस्य प्रपञ्चाधिष्ठातृरूपाण्युच्यन्ते एते शरीरहोमाः इमां देवतां अनेन यजामीति । **चित्तं** महान् तस्य अधिष्ठाता **सन्तानः** पुत्रपौत्रादिः आन्त्रं माला पुरीतदित्येके ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवय्ँ᳓ यक्ना᳓+++(←यकृत्)+++  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +79,14 @@ for Bhava by liver (Yakṛt),
 
 भवः अपामधिष्ठाता । यकृत् कृष्णो मांसविशेषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्र᳓न्त᳓निम्ना  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -101,11 +112,14 @@ Rudra with the taniman,
 
 रुद्रः आदित्यस्याधिष्ठाता । **तनिमा** पद्मदलवत् - ततो मांसविशेषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓शुप᳓तिँ स्थूल-हृदये᳓न᳓  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +145,14 @@ for Paśupati (lord of cattle) by the fat heart,
 
 पशुपतिः पृथिव्या अधिष्ठाता । स्थूलहृदयं पद्मकोशाकारो मांसविशेषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निँ᳓ हृ᳓दयेन  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,11 +178,14 @@ for the fire by heart,
 
 अग्निः अग्नेरधिष्ठाता । हृदयं सूक्ष्माकाशाधारः प्रदेशविशेषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रल्ँ᳓ लो᳓हितेन  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,11 +211,14 @@ for Rudra by the blood,
 
 रुद्रः यजमानस्य अधिष्ठाता । लोहितं रक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शर्व᳓म् म᳓तस्नाभ्याम्+++(=kidneys)+++  +++(यजामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,11 +244,14 @@ for Śarva by the nerves,
 
 शर्वं आकाशस्य अधिष्ठाता । **मतस्ने** दीर्घौ सिराविशेषौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महादेव᳓म् अन्तᳶ᳓पार्श्वेन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +277,14 @@ for Mahādeva (great god) by the inner sides,
 
 **महादेवः** प्राणस्य वायोरधिष्ठाता । **अन्तःपार्श्वं** पार्श्वयोरन्तः अन्तःपार्श्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओषिष्ठ-ह᳓नँ शिङ्गीनिकोश्या᳙भ्याम्   +++(यजामि)+++ ॥ [37]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,6 +313,7 @@ for Osiṣṭhahana by fleshes (named Śiṃśinikā, i.e., the parts of singing
 **शिङ्गीनिकोश्ये** शिञ्जनाधारः कोशाकारश् च स्थानविशेषो यत्र ।  
 शिञ्जनं नादः । घञि कुत्वे मत्वर्थीय ईकारः ।  
 निभृतः कोशो निकोशः । तयोर्भवौ **शिङ्गीनिकोश्यौ** मांसविशेषौ । 'भवेच्छन्दसि' इति यत् ॥
+</details>
 </details>
 </details>
 

@@ -10,6 +10,8 @@ unicode_script = "devanagari"
 
 ## ॥ उत्तरनारायणम् ॥
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 'उत्तरनारायणेन आदित्यम् उपस्थाय' इत्य् आदौ विनियोगः ।  
@@ -31,6 +33,7 @@ unicode_script = "devanagari"
 <details><summary>त्रिभुवनः - Note</summary>
 
 Concluding portion of the Puruṣa-Sūkta. (From 1 to 5).
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/02_adbhyaH_sambhUtaH.md">
@@ -101,9 +104,12 @@ He was born of the waters and the elixirs of the earth; he moved round in the ru
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/03_vedAham_etam.md">
@@ -169,9 +175,12 @@ I know this great Puruṣa of the colour of the sun, out of the darkness; he, wh
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/04_prajApatish_charati.md">
@@ -236,6 +245,8 @@ Prajāpati moves in the womb of the creation; he becomes born in various forms, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भट्टभास्करः - अवतारिका</summary>
 
 यो देवेभ्य इत्याद्ये अनुष्टुभौ ॥ अधुना स एव आदित्वो वर्ण्यते ।
@@ -244,6 +255,7 @@ Prajāpati moves in the womb of the creation; he becomes born in various forms, 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/05_yo_devebhya.md">
@@ -305,9 +317,12 @@ Salutation to that shining Brahman, who shines for the sake of the gods, who is 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/13_adbhyas_sambhUtaH/06_ruchaM_brAhmam.md">
@@ -376,6 +391,8 @@ The gods, while producing the lights of the Brahman (consciousness), said in the
 
 ## परिपूर्णपुरुषध्यानम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ यजुरात्मानं कंचिन्मन्त्रमाह -
@@ -385,11 +402,14 @@ The gods, while producing the lights of the Brahman (consciousness), said in the
 
 A Yajus Mantra.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -415,11 +435,14 @@ A Yajus Mantra.
 
 ह्रीर्लज्जाभिमानिनी देवता । लक्ष्मीरैश्वर्याभिमानिनी देवता । हे परमात्मन् ह्रीश्च लक्ष्मीश्च ते तव पत्न्यौ भार्यास्थानीये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रे᳓ पार्श्वे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -441,11 +464,14 @@ the days and the nights are the sides;
 
 ये चाहोरात्रे ते पार्श्वद्वयस्थानीये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓क्षत्राणि रूप᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -461,12 +487,15 @@ the stars are the forms;
 
 नक्षत्राण्याकाशे दृश्यमानानि रूपं तव शरीरस्थानीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नौ व्या᳓त्तम् +++(=मुखम्)+++ ।  
 +++(अश्विनयोः खल्ववर्तत विशुवस्थानम् पुरा।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -488,11 +517,14 @@ Aśvins are the opened (mouth);
 
 अश्विनौ यौ देवौ तौ तव व्यात्तं विवृतं मुखस्थानीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्ट᳓म् मनिषाण+++(=यच्छ)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -514,11 +546,14 @@ grant the desired (thing);
 
 तथाविध हे विराट्पुरुषेष्टमस्मदपेक्षितमात्मबोधं मनिषाणानुमन्यस्व देहीत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमुं᳓ +++(स्वर्लोकं)+++ मनिषाण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -540,11 +575,14 @@ grant that (heaven);
 
 अमुं लोके दृश्यमानं गवाश्वादिकं मनिषाण प्रयच्छ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वम्  मनिषाण । ६
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -570,6 +608,7 @@ grant all (for me).
 <details><summary>सायण-टीका</summary>
 
 किं बहुना सर्वं मनिषाणैहिकमामुष्मिकं वा सर्वमिष्टं देहि ॥
+</details>
 </details>
 </details>
 

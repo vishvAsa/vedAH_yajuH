@@ -8,12 +8,17 @@ title = "२४ सावित्रग्रहः"
 जगती । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1सावित्रस्यैव ग्रहणविकल्पः पूर्वेण सह विकृत्यर्थः- अदब्धेभिरिति चतुष्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अ᳓दब्धेभिः सवितः पायु᳓भिष् ट्वं᳓  
 शिवे᳓भिर् अद्य᳓ **प᳓रि पाहि** नो ग᳓यम्+++(=गृहम्)+++ ।  
@@ -21,9 +26,21 @@ _______
 **र᳓क्षा**, मा᳓किर् नो अघ᳓शंस ईशत ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md">
-<details open><summary><h6>003 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/071/03_adabdhebhiH_savitaH.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अद॑ब्धेभिः सवितः पा॒युभि॒ष्ट्वं शि॒वेभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ।  
+हिर॑ण्यजिह्वः सुवि॒ताय॒ नव्य॑से॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/03_adabdhebhiH_savitaH.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -239,6 +256,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सवितः- सूर्य। अदब्धेभिः- अहिंस्यैः। पायुभिः- रक्षणैः। शिवेभिः- मङ्गळैः। त्वम्। अद्य-  इदानीम्। नः- अस्माकम्। गयम्- गृहम्। परि पाहि- परिपालय। हिरण्यजिह्वः- सुवर्णज्वालः।  नव्यसे- अभिनवाय। सुविताय- सुखाय। रक्ष- पालय। नः- अस्मान्। अघशंसः- पापी।  माकिम्- मा। ईशत- वशीकरोतु॥३॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सवितः** **अदब्धेभिः** अहिंसितैः **पायुभिः** तेजोभिः रक्षणसाधनैर्वा **शिवेभिः** सुखकरैः **नः** अस्माकं **गयं** गृहं धनं वा ।  ‘ गयः कृदरः' इति गृहनामसु ' मीळ्हं गयः' इति धननामसु पाठात् । **अद्य** **परि** **पाहि** रक्ष। **हिरण्यजिह्वः** हितरमणीयवाक् **त्वम्** । तथा च यास्कः - ‘ हिरण्यं कस्मात् ' इत्युपक्रम्य ' हितरमणं भवतीति वा ' ( निरु. २: १० ) इति । **सुविताय** सुखाय **नव्यसे** नवतराय भव । **रक्ष** अम्मान् पालय च । 'नः अस्माकम् **अघशंसः** अनर्थमाशंसमानः शत्रुः  **माकिः** **ईशत** मेशत ॥
@@ -365,21 +387,24 @@ Mit unbethörter heilbegabter Hüterschar, o Savitar, beschütze heute unser Hau
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जो राजा प्रयत्नपूर्वक प्रजेचे चांगल्याप्रकारे रक्षण करून दुष्टांना मारतो तोच नवनवीन ऐश्वर्य उत्पन्न करून सतत प्रजेचा प्रिय व धार्मिक होतो. ॥ ३ ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2उपयामगृहीतोसीत्यादि पूर्ववत् ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -392,6 +417,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -402,11 +432,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
+देवा᳓य त्वा सवित्रे᳓ ॥ [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -418,7 +448,12 @@ to the god Savitr thee!
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाय॑ । त्वा॒ । स॒वि॒त्रे ॥
 </details>
+
 </div>
 </details>
 </div>

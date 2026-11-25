@@ -7,21 +7,39 @@ title = "०५ मैत्रावरुणग्रहः"
 
 गायत्री । सोमऋषिः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1मैत्रावरुणं गृह्णाति - अयं वामिति गायत्र्या त्रिपदया ॥
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अयं᳓ वां मित्रा-वरुणा  
 सुतः᳓ सो᳓म ऋता-वृधा ।  
 म᳓मे᳓द् इह᳓ श्रुतं+++(=श्रृणुतम्)+++ ह᳓वम्+++(=ह्वानम्)+++ ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
-<details open><summary><h6>004 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/041/04_ayaM_vAM.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अ॒यं वां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।  
+ममेदि॒ह श्रु॑तं॒ हव॑म् ॥
+
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -160,6 +178,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मित्रावरुणा- मित्रः स्नेहाधिदेवता वरुणः प्रकृतिनियतिभूतसत्याधिदेवता। ऋतावृधा-  प्रकृतिनियतिभूतसत्यवर्धकौ। वाम्- युष्मदर्थम्। अयम्- एषः। सोमः- रसः। सुतः- निष्पन्नः।  इह- अत्र। मम- मे। हवम्- आह्वानम्। श्रुतम्- शृणुतम्॥४॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 मित्रावरुणा हेमित्रावरुणौ वांयुवाभ्यां अयंसोमः सुतः अभिषुतः ऋतावृधा हेसत्यस्य यज्ञस्यवावर्धकौ ममेत् ममैवइहास्मिन्यज्ञे हवमाह्वानं श्रुतं श्रृणुतम् ॥ ४ ॥
@@ -229,7 +252,7 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  हे (तावृधा) सत्य से बड़े हुए (मित्रावरुणा) प्राण और उदान के समान वर्त्तमान अध्यापको ! जो (अयम्) यह (वाम्) तुम दोनों से (सोमः) ओषधियों का रस (सुतः) उत्पन्न हुआ उसको पीके (इत्) ही (इह) यहाँ (मम) मेरे (हवम्) आह्वान को (श्रुतम्) सुनिये ॥४॥
+पदार्थान्वयभाषाः -  हे (तावृधा) सत्य से बड़े हुए (मित्रावरुणा) प्राण और उदान के समान वर्त्तमान अध्यापको ! जो (अयम्) यह (वाम्) तुम दोनों से (सोमः) ओषधियों का रस (सुतः) उत्पन्न हुआ उसको पीके (इत्) ही (इह) यहाँ (मम) मेरे (हवम्) आह्वान को (श्रुतम्) सुनिये ॥४॥
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
@@ -261,13 +284,14 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 
 भावार्थभाषाः -  जसे वायू सर्वांकडून रस ग्रहण करून वृष्टी करतात तसेच सत्य विद्येचे श्रवण करून सर्वांना सुख दिले पाहिजे. ॥ ४ ॥
 </details>
-</details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -280,6 +304,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -290,19 +319,23 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसि मित्रावरुणाभ्यां त्वेति गृह्णाति ॥ 
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -315,6 +348,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -325,12 +363,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मि॒त्रावरु॑णाभ्यान्त्वा  ।
+मित्रा᳓व᳓रुणाभ्यान्त्वा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,21 +383,31 @@ to Mitra and Varuna thee!
 मि॒त्रावरु॑णाभ्यान्त्वा  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+मि॒त्रावरु॑णाभ्या॒मिति॑ मि॒त्रा-वरु॑णाभ्याम् । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर् ऋतायुभ्यां त्वेति सादयति ॥   
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
-<details open><summary><h6>एष ते ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनिः॑।
+एष᳓ ते यो᳓निः।
 </details>
 
 <details><summary>Keith</summary>
@@ -369,16 +420,24 @@ This is thy birthplace;
 ए॒ष ते॒ योनिः॑।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **एष ते योनिः** स्थानम् ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋ॒ता॒युभ्या॑न्त्वा ॥  [6]
+ऋतायु᳓भ्यान्त्वा ॥  [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,10 +449,15 @@ to the righteous thee!
 ऋ॒ता॒युभ्या॑न्त्वा ॥  [6]
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऋ॒ता॒युभ्या॒मित्यृ॑ता॒यु-भ्या॒म् । त्वा॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋतं सत्यं यज्ञं वा आत्मनो यजमानानां वा इच्छतीति **ऋतायुः** । ' छन्दसि परेच्छायामापै' इति क्यच्, 'न च्छन्दस्यपुत्रस्य' इतीत्वप्रति षेधः, 'क्याच्छन्दसि' इत्युप्रत्ययः । 'मित्रं देवा अब्रुवन्'  इत्यादि ब्राह्मणम्  । 'सोब्रवीद्वरं वृणै मह्यं चैवैष मित्राय च' इत्यादि च । 'तावब्रूतां वरं वृणावहा एक एवावत्पूर्वो ग्रहो गृह्यातै' इत्यादि च ॥
-
+</details>
 </details>
 
 इति चतुर्थे पञ्चमः ॥  

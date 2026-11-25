@@ -12,6 +12,8 @@ title = "०८ अनसि स्थापनम्"
 सोमऋषिः
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमम् आदायोत्तिष्ठति।
@@ -29,19 +31,24 @@ ________
 
 इति।
 </details>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
-
-उद् आयु॑षा स्वा॒युषा॑+ +++(सोमरूपेण)+++  
-+उद् ओष॑धीनाँ॒ रसे॑न ।  
-+उत् प॒र्जन्य॑स्य॒ शुष्मे॑ण+++(=बलेन)++++  
-+उद् अ॑स्थाम्+++(=अतिष्ठम्)+++ अ॒मृताँ॒ अनु॑॥+++(5)+++
 </details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+उ᳓द् आ᳓युषा स्वायु᳓षा+ +++(सोमरूपेण)+++  
++उ᳓द् ओ᳓षधीनाँ र᳓सेन ।  
++उ᳓त् पर्ज᳓न्यस्य शु᳓ष्मेण᳓+++(=बलेन)++++  
++उ᳓द् अस्थाम्+++(=अतिष्ठम्)+++ अमृ᳓ताँ अ᳓नु॥+++(5)+++
+
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/02_ud_AyuShA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 Up with life, with fair life,  
@@ -86,12 +93,15 @@ Up have I arisen along with the immortals.
 इति।
 </details>
 </details>
+
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-सोमवाहनम् अनो ऽभिप्रैति।
+2सोमवाहनमनोभिप्रैति - उर्विति गायत्र्यैकपदया ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -103,8 +113,10 @@ ________
 
 इति।
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
@@ -150,20 +162,28 @@ Fare along the wide atmosphere.
 
 इति।
 </details>
+
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2सोमवाहनमनोभिप्रैति - उर्विति गायत्र्यैकपदया ॥ विस्तीर्णमाकाशमनुगच्छ निर्बाधं गच्छेति । व्याख्याता चेयम् । 'अन्तरिक्षदेवत्यो ह्येतर्हि सोमः' इति ब्राह्मणम् ॥
+विस्तीर्णमाकाशमनुगच्छ निर्बाधं गच्छेति । व्याख्याता चेयम् । 'अन्तरिक्षदेवत्यो ह्येतर्हि सोमः' इति ब्राह्मणम् ॥
+</details>
 </details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनमास्तृणाति।
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनमास्तृणाति।
@@ -179,7 +199,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सदो॑ऽसि ।
+अ᳓दित्यास् स᳓दोऽसि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -211,15 +231,20 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
+
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
@@ -237,7 +262,7 @@ ________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्या॒स् सद॒ आसीद ।
+अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
 
 <details><summary>Keith</summary>
@@ -266,24 +291,33 @@ Sit on the seat of Aditi.
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
+
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5सोमम् उपतिष्ठते - अस्तभ्नादिति त्रिष्टुभा ॥
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 
-**अस्त॑भ्ना॒द्** द्याम् ऋ॑ष॒भो+++(=वर्षिता)+++ अ॒न्तरि॑क्ष॒म्   
-**अमि॑मीत** वरि॒माण॑म्+++(=उरुत्वम्)+++ पृथि॒व्याः +++(सूर्यग्रहणेन?)+++।   
-**आसी॑द॒द्** विश्वा॒ भुव॑नानि स॒म्राड्+++(=सङ्गतदीप्तिः [सोमः])+++  
-विश्वेत् तानि॒ वरु॑णस्य+++(=वारकस्य)+++ व्र॒तानि॑॥
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+
+**अ᳓स्तभ्नाद्** द्या᳓म् ऋषभो᳓+++(=वर्षिता)+++ अन्त᳓रिक्षम्   
+**अ᳓मिमीत** वरिमा᳓णम्+++(=उरुत्वम्)+++ पृथिव्याः᳓ +++(सूर्यग्रहणेन?)+++।   
+**आ᳓सीदद्** वि᳓श्वा भु᳓वनानि सम्रा᳓ड्+++(=सङ्गतदीप्तिः [सोमः])+++  
+वि᳓श्वे᳓त् ता᳓नि व᳓रुणस्य+++(=वारकस्य)+++ व्रता᳓नि॥
+
+</details>
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
+
 <details><summary>Keith</summary>
 
 The bull hath stablished the sky, the atmosphere;  
@@ -334,9 +368,12 @@ All these are Varuna's ordinances.
 
 उपनद्धः सोमो वरुणो यद्-विषये 'मित्रो न एहीति' मन्त्रं पठन् मैत्रं करोतीति यद् अस्ति, एतैनैनं सोमं व्य्-अर्धयति समृद्धि-हीनं करोति, वारुण्य् ऋचा तु समर्धयति।
 </details>
+
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमं वाससा वेष्टयति।+++(4)+++
@@ -351,19 +388,24 @@ ________
 
 इति।
 </details>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
-
-वने॑षु॒ व्य॑न्तरि॑क्षन् ततान॒  
-वाज॒म्+++(=वेगम्)+++ अर्व॑त्सु॒+++(=अश्वेषु)+++, पयो॑ अघ्नि॒यासु॑+++(=गोषु)+++ ।  
-हृ॒त्सु क्रतुव्ँ॒ वरु॑णो, वि॒क्ष्व्+++(=मर्त्येषु/ गृहेषु?)+++ अ॑ग्निं   
-दि॒वि सूर्य॑म् अदधा॒त् सोम॒म् अद्रौ॑ ॥
 </details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+व᳓नेषु व्य᳙न्त᳓रिक्षन् ततान  
+वा᳓जम्+++(=वेगम्)+++ अ᳓र्वत्सु+++(=अश्वेषु)+++, प᳓यो अघ्निया᳓सु+++(=गोषु)+++ ।  
+हृत्सु᳓ क्र᳓तुव्ँ व᳓रुणो, विक्ष्व्+++(=मर्त्येषु/ गृहेषु?)+++ अ᳙ग्निं   
+दिवि᳓ सू᳓र्यम् अदधात् सो᳓मम् अ᳓द्रौ ॥
+
+</details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/08_anasi_sthApanam/03_vaneShu_vyantarikhShan.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 He hath stretched out the sky over the woods;  
@@ -387,14 +429,13 @@ The sun in the sky, the Soma on the hill.
 
 <details><summary>पद-पाठः</summary>
 
-वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । [15]  
-क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ । 
+वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ । 
 
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-6सोमं वाससा वेष्टयति - वनेष्विति त्रिष्टुभा । वाजमिति द्वितीयस्यादिः । हृत्स्विति तृतीयस्य । दिवीति चतुर्थस्य ॥  
+वाजमिति द्वितीयस्यादिः । हृत्स्विति तृतीयस्य । दिवीति चतुर्थस्य ॥  
 वनेषु वुक्षेषु वृक्षषण्डेषु वा अन्तरिक्षं भूताकाशं विततान विस्तारितवान् । वाजं वेगमर्वत्सु अश्वेषु विततान । 'अर्वणस्त्रसावनञः' इति त्रादेशः । पयः क्षीरमघ्नियासु गोषु विततान । अहन्तव्या अघ्नियाः । 'अघ्न्यादयश्च' इति निपात्यते । हृत्सु हृदयेषु क्रतुं विज्ञानं विततान । वरुणो वरुणशब्दवाच्यस्सोमः विक्षु मर्त्येषु अग्निं विततान । दिवि सूर्यमदधात् स्थापितवान् । सोमं लतारूपमात्मानं अद्रावदधात् इत्येव । त्वमेव यथैतत्सवर्मकरोः तथा वाससा आत्मानं वेष्टयामीति ॥
 </details>
 
@@ -417,9 +458,12 @@ The sun in the sky, the Soma on the hill.
 अद्रि-शब्देनात्र पाषाण-बहुलो गिरिर् विवक्षितः। पाषाण-संधिषु सोमस्योत्पत्तेः। यजमानस् तेषु सोमं प्राप्नोति।
 </details>
 </details>
+
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सौर्यर्चा कृष्णाजिनं पुरस्तात् प्रत्यानह्यत्य् ऊर्ध्व-ग्रीवम्।  
@@ -438,18 +482,32 @@ ________
 
 **उद् उ त्यमिति।**
 </details>
+</details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः …{Loading}…</h6></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 उ᳓दु त्यं᳓ **जात᳓वेदसं**  
 देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
 दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।  
+दृ॒शे विश्वा॑य॒ सूर्य॑म् ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/050/01_udu_tyaM.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -644,8 +702,8 @@ Aloft his beams now bring the god Who knows all creatures that are born, That al
 
 <details><summary>Keith</summary>
 
-Thee, all-knowing god,
-Thy rays bear upwards,
+Thee, all-knowing god,  
+Thy rays bear upwards,  
 The sun for all to see.
 _________
 His rays bear up the god  
@@ -722,7 +780,10 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 भावार्थभाषाः -  धार्मिक माता पिता इत्यादी विद्वान लोकांनी जसे घोडे रथाला व किरणे सूर्याला वहन करतात तसेच विद्या व धर्माने प्रकाशित असलेल्या त्यांच्या सारख्याच स्त्रियांशी पुरुषांचा विवाह करवावा. ॥ १ ॥
 </details>
+
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,11 +801,14 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 क्रियमाणेन का सङ्गतिः? उच्यते - एतस्य कर्मणस्सामर्थ्यादेतदेवं भवतीति ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-सोम-वाहनाव् आनीयमानौ प्रतिमन्त्रयते।
+8सोमवाहनावानीयमानौ प्रतिमन्त्रयते - उस्राविति विराजैकपदया यजुरन्तया ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -755,14 +819,16 @@ ________
 “अथ सोम-वाहनाव् आनीयमानौ प्रति मन्त्रयते 'उस्राव् एतं धूर्षाहाव् अनश्रू अवीर-हणौ ब्रह्म-चोदनाव्' इति”  
 
 इति।
-
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उस्रा॒व्+++(=बलीवर्दौ)+++! एत॑न् धूर्षाहाव्  
-अन॒श्रू अवी॑रहणौ ब्रह्म॒चोद॑नौ   ।
+उ᳓स्राव्+++(=बलीवर्दौ)+++! ए᳓तन् धूर्षाहाव्  
+अनश्रू᳓ अ᳓वीरहणौ ब्रह्मचो᳓दनौ   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -789,7 +855,7 @@ Tearless, slaying not man, furthering the prayer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-8सोमवाहनावानीयमानौ प्रतिमन्त्रयते - उस्राविति विराजैकपदया यजुरन्तया ॥ हे उस्रौ बलीवर्दौ एतमागच्छतं धूर्षाहौ धूर्वाहौ धुरस्सोढारौ धुरं वोढुं समर्थौ । 'छन्दसि सहः' इति ण्विः, पूर्ववत् षत्वम् । अनश्रू अश्रुवर्जितौ अखिन्नौ सन्तावागच्छतम् । 'नञ्सुभ्यां' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - अनसि शकटे वोढृत्वेन श्रुतौ विख्यातौ । क्विपि तुगभावश्छान्दसः । अनो वोढृत्वेन श्रितौ वा । श्रयतेः क्विपि वर्णव्यत्ययः । तुगभावश्छान्दसः ।   
+हे उस्रौ बलीवर्दौ एतमागच्छतं धूर्षाहौ धूर्वाहौ धुरस्सोढारौ धुरं वोढुं समर्थौ । 'छन्दसि सहः' इति ण्विः, पूर्ववत् षत्वम् । अनश्रू अश्रुवर्जितौ अखिन्नौ सन्तावागच्छतम् । 'नञ्सुभ्यां' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - अनसि शकटे वोढृत्वेन श्रुतौ विख्यातौ । क्विपि तुगभावश्छान्दसः । अनो वोढृत्वेन श्रितौ वा । श्रयतेः क्विपि वर्णव्यत्ययः । तुगभावश्छान्दसः ।   
 अवीरहणौ अहिंसकौ दान्तौ सन्तौ । यजुरादित्वान्न निहन्यते । ब्रह्मचोदनौ ब्रह्म अन्नं, तत्साधनत्वादिह सोम उच्यते; तस्य चोदनौ प्रस्थापयितारौ सन्तौ । कर्तरि करणे वा ल्युटि कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
 
@@ -803,11 +869,14 @@ Tearless, slaying not man, furthering the prayer.
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-दक्षिणं युनक्ति।
+9दक्षिणं युनक्ति - वरुणस्येति ॥
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -825,11 +894,13 @@ ________
 
 इति।
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -856,23 +927,23 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
+
 </div>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-9दक्षिणं युनक्ति - वरुणस्येति ॥
-</details>
-
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-शम्याम् अवगूहति ।
+10शम्यामवगूहति - वरुणस्येति ॥
+</details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरु॑णस्य॒ +++(सोमस्य च)+++ स्कम्भ॑नम्+++(=धारयिता)+++ असि ।
+व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
 
 <details><summary>Keith</summary>
@@ -899,28 +970,28 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
+
 </div>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-10शम्यामवगूहति - वरुणस्येति ॥ 
-</details>
-
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
-योक्त्रेण बध्नाति।
+11योक्त्रेण बध्नाति - प्रत्यस्त इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्य॑स्तो॒+++(=उत्क्षिप्तः)+++ वरु॑णस्य॒ पाशः॑ ॥ [16]  
+प्र᳓त्यस्तो+++(=उत्क्षिप्तः)+++ व᳓रुणस्य पा᳓शः ॥ [16]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
 Varuna's noose is tied.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -930,18 +1001,18 @@ Varuna's noose is tied.
 
 <details><summary>पद-पाठः</summary>
 
-प्रत्य॑स्त॒ इति॒ प्रति॑-अ॒स्तः॒ । वरु॑णस्य । पाशः॑ ॥ [16]  
+प्रत्य॑स्त॒ इति॒ प्रति॑-अ॒स्तः॒ । वरु॑णस्य । पाशः॑ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-11योक्त्रेण बध्नाति - प्रत्यस्त इति ॥ प्रत्यस्तः उत्क्षिप्तः वरुणस्य पाशस्त्वमसि । यद्वा - त्वया बन्धने कृते वरुणस्य पाशः प्रत्यस्तः ॥
-
+प्रत्यस्तः उत्क्षिप्तः वरुणस्य पाशस्त्वमसि । यद्वा - त्वया बन्धने कृते वरुणस्य पाशः प्रत्यस्तः ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 गल-बन्धन-साधनं योक्त्रम्। हे योक्त्र, त्वम् अपि पलायनान् निवारणीयस्य शम्येव निवारणं सृजसि। दीर्घ-रज्जुः पाशः। स च प्रत्यस्तः शकटस्योपरि प्रसारितः। एते त्रयो मन्त्राः स्पष्टार्था इति ब्राह्मणेनोपेक्षिताः।
+</details>
 </details>
 
 इति द्वितीये अष्टमोनुवाकः

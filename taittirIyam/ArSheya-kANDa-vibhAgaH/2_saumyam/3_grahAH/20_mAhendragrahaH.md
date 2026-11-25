@@ -8,22 +8,48 @@ title = "२० माहेन्द्रग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शुक्रपात्रेण माहेन्द्रं गृह्णाति - महानिति गायत्र्या त्रिपदया ॥ 
 </details>
+</details>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः …{Loading}…</h6></summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/006/01_mahA_N_indro.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 महाँ᳓ **इ᳓न्द्रो** य᳓ ओ᳓जसा-    
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव ।  
 स्तो᳓मैर् वत्स᳓स्य **वावृधे** ॥+++(4)+++
 
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Great is Indra who through his might  
+Is like Parjanya with the rain;  
+He waxeth with the praises of Vatsa.
+</details>
+</details>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/006/01_mahA_N_indro.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/006/01_mahA_N_indro.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -207,13 +233,6 @@ INDRA, great in his power and might, and like Parjanya rich in rain,
      Is magnified by Vatsa's lauds.
 </details>
 
-<details><summary>English</summary>
-
-Great is Indra who through his might  
-Is like Parjanya with the rain;  
-He waxeth with the praises of Vatsa.
-</details>
-
 <details><summary>Geldner</summary>
 
 Indra, der an Kraft groß ist wie der regenbringende Parjanya, hat sich an des Vatsa Lobliedern erbaut;
@@ -238,9 +257,10 @@ Der grosse Indra, der an Kraft der regenschwangern Wolke gleicht, Erlabt an Vats
 - गायत्री
 - षड्जः
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
 
 _______
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -251,7 +271,7 @@ _______
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -262,6 +282,11 @@ Thou art taken with a support/ foundation.
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -278,7 +303,12 @@ ________________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महे॒न्द्राय॑ त्वा ।
+म᳓हेन्द्रा᳓य त्वा ।
+</details>
+
+<details><summary>Keith</summary>
+
+to Mahendra thee!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -286,9 +316,9 @@ ________________
 महे॒न्द्राय॑ त्वा ।
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>पद-पाठः</summary>
 
-to Mahendra thee!
+म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ।
 </details>
 
 _______
@@ -300,7 +330,7 @@ _______
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, महे॒न्द्राय॑ त्वा ॥ [21]
+एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
 
 <details><summary>Keith</summary>
@@ -312,6 +342,12 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [21]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ॥
+</details>
+
 </div>
 </details>
 

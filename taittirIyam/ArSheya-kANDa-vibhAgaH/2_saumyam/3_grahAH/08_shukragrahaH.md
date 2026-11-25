@@ -8,12 +8,17 @@ title = "०८ शुक्रग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शुक्रं गृह्णाति - अयं वेन इति त्रिष्टुभा चतुष्पदया ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अयं᳓ वेन᳓श्+++(=शुक्रः)+++ चोदयत् पृ᳓श्नि+++(=तनु)+++-गर्भा  
 ज्यो᳓तिर्-जरायू+++(=गर्भाच्छादनः)+++ र᳓जसो विमा᳓ने ।  
@@ -22,9 +27,21 @@ _______
 +++(सन्ध्यासु हि सूर्यसमीपे वर्तते वेनः।)+++
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+अ॒यं वे॒नश्चो॑दय॒त्पृश्नि॑गर्भा॒ ज्योति॑र्जरायू॒ रज॑सो वि॒माने॑ ।  
+इ॒मम॒पां सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहन्ति ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -228,6 +245,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। ज्योतिः- ज्योतिर्भूतः। जरायुः- गर्भवदवस्थितः। रजसः- उदकस्य। विमाने-  निर्माणस्थाने। पृश्निगर्भाः- सूर्यरश्मिगर्भिता अपः। चोदयत्- चोदयति। अपाम्-  मूलशक्तिधाराणाम्। सङ्गमे। सूर्यस्य इमम्- चिद्रश्मिम्। शिशुं न- वात्सल्येन। विप्राः- मेधाविनः।  मतिभिः- मननैः। रिहन्ति- आस्वादयन्ति॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **वेनः** कान्त एतत्संज्ञो मध्यस्थानो देवः **ज्योतिर्जरायुः** । ज्योतिर्द्योतमानो मेघो जरायुः । उदरे गर्भो येन वेष्टितोऽवतिष्ठते तज्जरायु । तदिव वेष्टको यस्य स तथोक्तः । मेघमध्ये गर्भवदवस्थित इत्यर्थः । **विमाने** । विमीयन्ते निर्मीयन्ते अस्मिन्नाप इति विमानमन्तरिक्षम् । **रजसः** उदकस्य निर्मातर्यन्तरिक्षे स्थितः सन् **अयं** वेनः **पृश्निगर्भाः** । पृश्निरादित्यः। तस्य गर्भभूताः । यद्वा । पृश्नयः सप्तोज्ज्वलवर्णाः सूर्यरश्मयः तेषां गर्भभूता अन्तरिक्षस्था अपः **चोदयत्** । पृथिवीं प्रति प्रेरयति । **अपाम्** उदकानामान्तरिक्ष्याणां **सूर्यस्य** च **संगमे** संगमनेऽन्तरिक्षे स्थितम् **इमं** वेनं **विप्राः** मेधाविनः स्तोतारः **मतिभिः** स्तुतिभिः **रिहन्ति** । रिहतिरर्चतिकर्मा । अर्चन्ति। पूजयन्ति। स्तुवन्तीत्यर्थः। **शिशुं** **न** । यथा बालं पुत्रं मातापित्राद्या बान्धवाः स्तुतिपदैरुपलालयन्ति तद्वत् ॥
@@ -329,19 +351,23 @@ Der lichtumhüllte, holde trieb die Töchter der bunten Wolke an, die Luft durch
 
 पदार्थान्वयभाषाः -  (अयं वेनः) एष कमनीयः परमात्मा “वेनो वेनतेः कान्तिकर्मणः” [निरु० १०।३९] “वेनात् कमनीयात् परमात्मनः” [ऋ० ४।५८।४ दयानन्दः] यद्वा इन्द्रो विद्युद्देवः “इन्द्रो वै वेनः” [कौ० ८।४] “यदशनिरिन्द्रः” [कौ० ६।९] (ज्योतिर्जरायुः) ज्योतिरस्य जरायुस्थानीयं यस्मिन् सर्वं जगद् गर्भरूपं रक्षति, मेघं रक्षति वा (रजसः-विमाने) रञ्जनात्मकस्य लोकसमूहस्य ब्रह्माण्डस्य निर्माणस्थाने महाकाशे उदकस्य निर्माणस्थानेऽन्तरिक्षे वा (पृश्निगर्भाः-चोदयत्) पृश्निः उज्ज्वलः शुभ्रो वर्णो येषां ते रश्मयो गर्भो गर्भभूता यासां ताः पृश्निगर्भाः-आपः प्रारम्भिक्यः सूक्ष्मास्ताः प्रेरयति (अपां सूर्यस्य सङ्गमे) तासां सूक्ष्माणां सूर्यस्य सङ्गमने वर्षणकाले सति (विप्राः) विद्वांसः (मतिभिः) वाग्भिः “वाग् वै मतिः” “वाचा हीदं सर्वं मनुते” [श० ८।१।२।७] (इमं शिशुं न रिहन्ति) इमं परमात्मानं विद्युद्देवं वा शंसनीयं कुमारमिव स्तुवन्ति प्रशंसन्ति वा “रिहन्ति अर्चतिकर्मा” [निघं० ३।१४] ॥१॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि शण्डाय त्वेति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -354,6 +380,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -364,12 +395,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शण्डा॑य त्वा ।
+श᳓ण्डाय त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,21 +415,32 @@ to Çanda thee!
 शण्डा॑य त्वा ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शण्डा॑य । त्वा॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शण्डो नामासुरपुरोहितः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्वीरतां पाहीति सादयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, वी॒रता॑म् पाहि ॥ [9]  
+एष᳓ ते यो᳓निर्, वीर᳓ताम् पाहि ॥ [9]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -407,10 +452,15 @@ This is thy birthplace; guard the folk.
 ए॒ष ते॒ योनि॑र्वी॒रता॑म्पाहि ॥ [9]  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । वी॒रता॑म् । पा॒हि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वीरता शूरता याग-लक्षण-त्यागं प्रति । 'बृहस्पतिर्देवानां पुरोहित आसीत्' इत्यादि ब्राह्मणम्  । 'असौ वा आदित्यश्शुक्रश्चन्द्रमा मन्थी' इत्यादि, 'चक्षुषी वा एते यज्ञस्य यच्छुक्रामन्थिनौ' इत्यादि च ॥
-
+</details>
 </details>
 
 इति चतुर्थेऽष्टमः ॥  

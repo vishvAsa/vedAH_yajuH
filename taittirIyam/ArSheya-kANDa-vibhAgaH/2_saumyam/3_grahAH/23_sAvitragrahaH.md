@@ -8,12 +8,17 @@ title = "२३ सावित्रग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अन्तर्यामपात्रेण सावित्रम् आग्रयणाद् गृह्णाति - वाममद्य सवितरिति चातुष्पदया त्रिष्टुभा ॥ 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/06_vAmamadya_savitarvAmamu.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 वाम᳓म् अद्य᳓ सवितर्, वाम᳓म् उ श्वो᳓,  
 दिवे᳓दिवे, **वाम᳓म्** अस्म᳓भ्यं **सावीः** ।  
@@ -21,9 +26,21 @@ _______
 अया᳓+++(=अनया)+++ धिया᳓ **वाम-भा᳓जः स्याम** ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md">
-<details open><summary><h6>006 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/071/06_vAmamadya_savitarvAmamu.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं॑ सावीः ।  
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/071/06_vAmamadya_savitarvAmamu.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -253,6 +270,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+देव- द्योतक। सवितः- सूर्य। अद्य- अस्मिन् दिने। वामम्- कल्याणम्। श्वः- आगामिदिनेपि।  वामम्- कल्याणम्। दिवेदिवे- प्रतिदिनम्। वामम्- कल्याणम्। अस्मभ्यम्- नः। सावीः- प्रसुव।  वामस्य- कल्याणस्य। क्षयस्य- निवासस्य। भूरेः- प्रभूतेर्दातासि। अया- अनया। धिया।  वामभाजः- कल्याणभाजः। स्याम- भवेम॥६॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 हे **सवितः** **अस्मभ्यं** **वामं** धनम् **अद्य** **सावीः** सुव । **श्वः** च **वामं** धनं प्रसुव । किं बहूक्त्या। **दिवेदिवे** प्रतिदिनं **वामं** धनं प्रसुव । हे **देव** **हि** यस्मात् **क्षयस्य** निवासभूतस्य **भूरेः** प्रभूतस्य **वामस्य** दातासि अतो वयम् **अया** अनया **धिया** स्तुत्या **वामभाजः** धनवन्तः **स्याम** भूयास्म ॥ ॥ १५ ॥
@@ -378,21 +400,24 @@ Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut
 
 भावार्थभाषाः -  हे राजा ! तू आमच्या प्रजेसाठी प्रशंसनीय सुख उत्पन्न करतोस. रक्षणाचे नियम बनवितोस. त्यासाठी आम्ही सुखाने धन, घर व प्रशंसित कार्य करून नित्य तुझ्या आज्ञेत राहावे. ॥ ६ ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2इमामनुद्रुत्य उपयामगृहीतोसि देवाय त्वा सवित्र इति गृह्णाति । 'एष वै गायत्रो देवानाम्' इत्यादि ब्राह्मणम् ; 'विश्वे देवास्तृतीयँ सवनं नोदयच्छन्' इत्यादि च ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h11>उपयामगृहीतः ...{Loading}...</h11></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -405,6 +430,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -415,11 +445,11 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
+देवा᳓य त्वा सवित्रे᳓ ॥ [24]
 </details>
 
 <details><summary>Keith</summary>
@@ -431,7 +461,12 @@ to the god Savitr thee!
 
 दे॒वाय॑ त्वा सवि॒त्रे ॥ [24]
 </details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाय॑ । त्वा॒ । स॒वि॒त्रे ॥
 </details>
+
 </div>
 </details>
 </div>

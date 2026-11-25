@@ -4,14 +4,19 @@ title = "०६ १.६.०३ इडानुमन्त्रणविधि�
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/01_1-6-03_iDAnumantraNavidhiH">
 <details open><summary><h1>०१ १.६.०३ इडानुमन्त्रणविधिः ...{Loading}...</h1></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 (सं१.६.३/ ३-७ अनुवाके समाम्नातानां  इडानुमन्त्रणमन्त्राणां ब्राह्मणम् )
 
 प्रजापतिर्ऋषिः
 </details>
+</details>
 
 ## इडा
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दर्शपूर्णमासयोरेव याजमानशेषस्य ब्राह्मणं प्राजापत्यं काण्डम् ।
@@ -22,11 +27,14 @@ title = "०६ १.६.०३ इडानुमन्त्रणविधि�
 
 तत्र प्रथमेऽनुवाक इडानुमन्त्रणमुच्यते। तदेतद्विधातुं प्रस्तौति –  **पाकयज्ञमिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाक-यज्ञव्ँ᳓ वा᳓ अ᳓न्वा᳓हिताग्नेᳶ पश᳓व उ᳓प तिष्ठन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,11 +73,14 @@ Cattle attend the cooked offerings of him who has established a fire
 अन्ये त्वाहुः— “अल्पयज्ञाः पाकयज्ञाः” इति। आश्वलायनोऽप्याह –त्रयः पाकयज्ञा हुता अग्नौ हूयमाना अनग्नौ प्रहूता ब्राह्मणभोजने ब्रह्मणि हुताः” इति ।  
 एतेषां मध्ये यं कंचिदप्याहिताग्नेः पाकयज्ञमनु गवाद्याः पशवोऽवस्थिता भवन्ति पाकयज्ञेन लभ्यन्त इत्यर्थः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓डा+++(-प्राशनं)+++ ख᳓लु वै᳓ पाकयज्ञः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,11 +106,14 @@ The cooked offering is the Ida;
 
 अत्र त्विडाभक्षणमेव पाकयज्ञो ब्रह्मणि हुतत्वात् । अतोऽनेनापीडाभक्षणेन पशवो लभ्यन्ते । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सै᳓षा᳓ ऽन्तरा᳓ प्रयाजानूयाजा᳓न् य᳓जमानस्य लोके᳓+++(=स्थाने)+++ ऽवहिता ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,19 +125,20 @@ it is placed in the world of the sacrifice between the fore- and the after-offer
 सैषान्त॒रा प्र॑याजानूया॒जान् यज॑मानस्य लो॒केऽव॑हिता ।  
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
-
-सैषेति । 'अन्तरान्तरेण' इति द्वितीया । यजमानस्य लोके स्थाने अवहितावस्थिता ।  
-</details>
-
 <details><summary>पद-पाठः</summary>
 
 सा । ए॒षा । अ॒न्त॒रा । प्र॒या॒जा॒नू॒या॒जानिति॑प्रयाज-अ॒नू॒या॒जान् । यज॑मानस्य । लो॒के । अव॑हि॒तेत्यव॑-हि॒ता॒ ।   
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सैषेति । 'अन्तरान्तरेण' इति द्वितीया । यजमानस्य लोके स्थाने अवहितावस्थिता ।  
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 तत्रेयमिडा यजमानस्य लोके फलसाधने यज्ञे प्रयाजानुयाजमध्ये व्यावस्थिता ।  प्रयाजाज्यभागप्रधानस्विष्टकृद्भ्य ऊर्ध्वमनूयाजेभ्यश्च प्रागिडाया अनुष्ठेयत्वात् ।  एतच्च हौत्रकाण्डे स्विष्टकृद्याज्याया अनूयाजयाज्याश्च मध्य इडोपाह्वानमन्यपाठादवगम्यते ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +146,8 @@ it is placed in the world of the sacrifice between the fore- and the after-offer
 ता᳓म् आह्रिय᳓माणाम् अभि᳓ मन्त्रयेत -  
 "सु᳓रूपवर्षवर्ण ए᳓ही᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,31 +161,37 @@ Over it as it is brought up he should say, 'O thou of fair rain colour, come hit
 सुरू॑पवर्षवर्ण॒ एहीति॑ ।  
 </details>
 
-<details><summary>मूलम् - सात्वलेकरः</summary>
-
-म॑न्त्रयते॒
-</details>
-
 <details><summary>पद-पाठः</summary>
 
-ताम् । आ॒ह्रि॒यमा॑णा॒मित्या॑-ह्रि॒यमा॑णाम् । अ॒भीति॑ । म॒न्त्र॒ये॒त॒ ।  
-सुरू॑पवर्षवर्ण॒इति॒सुरू॑प-व॒र्ष॒व॒र्णे॒ । एति॑ ।  इ॒हि॒ । इति॑ ।  
+ताम् । आ॒ह्रि॒यमा॑णा॒मित्या॑-ह्रि॒यमा॑णाम् । अ॒भीति॑ । म॒न्त्र॒ये॒त॒ । सुरू॑पवर्षवर्ण॒इति॒सुरू॑प-व॒र्ष॒व॒र्णे॒ । एति॑ । इ॒हि॒ । इति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-तामित्यादि । पशुसाधनत्वात्ताच्छब्द्यम् ।  
+तामित्यादि । पशुसाधनत्वात्ताच्छब्द्यम् ।
 </details>
 
 <details><summary>सायण-टीका</summary>
 
-विधत्ते- **तामाह्रियमाणामिति  ।** तामिडामाह्रियमाणामवदाय होतृसमीपमानीयमानाम् ।  तत्प्रकारमापस्तम्ब आह — “इडापात्रमुपस्तीर्य सर्वेभ्यो हविर्भ्य इडाँ समवद्यति चतुरवत्तां वा पञ्चावत्ताम्” इति ।    “अभिघार्येडाँ होत्रे प्रदाय” इति च ।   
+विधत्ते- **तामाह्रियमाणामिति  ।** तामिडामाह्रियमाणामवदाय होतृसमीपमानीयमानाम् ।
+
+तत्प्रकारमापस्तम्ब आह — “इडापात्रमुपस्तीर्य सर्वेभ्यो हविर्भ्य इडाँ समवद्यति चतुरवत्तां वा पञ्चावत्ताम्” इति ।
+
+“अभिघार्येडाँ होत्रे प्रदाय” इति च ।
+</details>
+
+<details><summary>मूलम् - सात्वलेकरः</summary>
+
+म॑न्त्रयते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ इ᳓डा - पशू᳓न् एवो᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,12 +217,15 @@ the cattle are the Ida; verily he summons cattle
 
 इडादेवतायाः पशुसाधनत्वाद्गोरूपत्वाच्च मन्त्रगतेनेहीति पदेन पशूनेवोपह्वयते।  
 </details>
+</details>
 
 ## दोहः - उपाख्यानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञव्ँ᳓ वै᳓ देवा᳓ अ᳓दुह्रन् +++(←'वैवावेति च छन्दसि' इति निघाताभावः ।)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -225,11 +251,14 @@ The gods milked the sacrifice,
 
 सा मे सत्याऽऽशीरित्येतं मन्त्रभागं व्याख्यातुं प्रस्तौति- **यज्ञं वा इति।** **दोहनं** रिक्तीकरणम् ।  गां दोग्धीत्यत्र तथा दर्शनात् । देवाः प्रथमं यज्ञमदुह्रन्नदुहन्, तद्गतसारफलस्वीकारेण रिक्ती चक्रुः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ऽसुराँ अदुहत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,11 +284,14 @@ the sacrifice milked the Asuras;
 
 स च यज्ञोऽसुरानदुहत्तदीयसारापहारेण रिक्ती चकार। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ऽसुरा यज्ञ᳓-दुग्धाᳶ प᳓राऽभवन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -287,12 +319,15 @@ the Asuras, being milked by the sacrifice, were defeated;
 
 ततस्ते पराभूताः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ यज्ञ᳓स्य दो᳓हव्ँ विद्वा᳓न् य᳓जते,  
 अ᳓प्य् अन्यय्ँ᳓ य᳓जमानन् दुहे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -319,6 +354,7 @@ he, who knowing the milking of the sacrifice [1] sacrifices, milks another sacri
 यो यजमानो देवकर्तृकं यज्ञरिक्तीकरणं यज्ञकर्तृकमसुररिक्तीकरणं च विद्वान्यजते सोऽन्यमपि यजमानं दुहे रिक्ती करोति ।  
 एतस्य वाक्यस्य मन्त्रप्रशंसारूपत्वादन्यस्य यजमानस्य न काचिद्धानिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,6 +362,8 @@ he, who knowing the milking of the sacrifice [1] sacrifices, milks another sacri
 एष᳓ वै᳓ +++(मन्त्रः)+++ यज्ञ᳓स्य +++(असुराणां)+++ दो᳓ह ।  
 +++(मन्त्रेण)+++ ते᳓नैवै᳓नन् +++(यजमानान्तरं )+++ दुहे +++(←"लोपस् त आत्मनेपदेषु")+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,7 +384,6 @@ verily with it he milks it.
 सा । मे॒ । स॒त्या । आ॒शीरित्या॑-शीः । अ॒स्य । य॒ज्ञस्य॑ । भू॒या॒त् । इति॑ । आ॒ह॒ ।    
 ए॒षः । वै । य॒ज्ञस्य॑ । दोहः॑ ।  
 तेन॑ । ए॒व । ए॒न॒म् । दु॒हे॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -360,6 +397,7 @@ verily with it he milks it.
 व्याचष्टे-  **सा मे सत्येति।**  
 उपहूतोऽयं यजमान उत्तरस्यां देवयज्यायामुपहूत इत्यादिका येयमाशीरुपह्वानमन्त्रगता सेयमस्य यज्ञस्य संबन्धिन्याशीर्मम सत्या भूयादित्येवंरूपो यज्ञदोहस्तेनैवान्यं यजमानं दोग्धि ।  
 </details>
+</details>
 
 ## प्रत्ता-दोहः, इडा-दोहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +405,8 @@ verily with it he milks it.
 +++(वत्स-लेहनेन)+++ प्र᳓त्ता+++(←प्र+दा+क्त →प्रस्नुत-स्तनी)+++ वै᳓ गौ᳓र् दुहे+++(←"लोपस् त आत्मनेपदेषु")+++ ।  
 प्र᳓त्ते᳓डा य᳓जमानाय दुहे +++(←"लोपस् त आत्मनेपदेषु")+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -398,12 +438,15 @@ and willingly the Ida is milked for the sacrificer;
 
 वायुध्यानं विधातुं प्रस्तौति- **प्रत्ता वा इति।** प्रत्ता वत्सलेहनेन प्रस्नुतस्तनी गौर्दुहे पयः क्षारयति तद्वदत्रेडा प्रत्ता सती यजमानस्य फलं दोग्धि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वा᳓ इ᳓डायै स्त᳓नाः →।  
 "इ᳓डो᳓पहूते᳓"ति +++(वचने)+++, वायु᳓र् वत्सः᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,9 +458,17 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 ए॒ते वा इडा॑यै॒ स्तना॒ इडोप॑हू॒तेति॑ वा॒युर्व॒त्सः।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ए॒ते । वै । इडा॑यै । स्तनाः॑ । इडा॑ । उप॑हू॒तेत्युप॑-हू॒ता॒ । इति॑ । वा॒युः । व॒त्सः ।
+</details>
+</details>
+
 ए॒ते । वै । इडा॑यै । स्तनाः॑ ।   
 इडा॑ । उप॑हू॒तेत्युप॑-हू॒ता॒ । इति॑ ।   
 वा॒युः । व॒त्सः ।   
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -428,6 +479,7 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 
 तस्या इडाया इडोपहूतेत्यादिमन्त्रभागाः स्तनाः। वायुर्वत्सः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -435,6 +487,8 @@ these are the teats of Ida, 'Ida is invoked'-Vayu is the calf-
 त᳓र्हि य᳓जमानो हो᳓तारम् ई᳓क्षमाणो वायु᳓म् म᳓नसा ध्यायेत् [2] ।  
 मात्रे᳓ वत्स᳓म् उपा᳓वसृजति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -454,7 +508,6 @@ verily he lets the calf go to the mother
 यर्हि॑ । होता॑ । इडा॑म् । उ॒प॒ह्वये॒तेत्यु॑प-ह्वये॑त ।   
 तर्हि॑ । यज॑मानः । होता॑रम् । ईक्ष॑माणः । वा॒युम् । मन॑सा । ध्या॒ये॒त् ।  
 मा॒त्रे । व॒त्सम् । उ॒पाव॑सृज॒तीत्यु॑प-अव॑सृजति ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -469,11 +522,15 @@ verily he lets the calf go to the mother
 
 विधत्ते- **यर्हि होतेति ।** यर्हि यस्मिन्काले । 
 </details>
+</details>
 
 ## इडा मानवी
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सर्वे॑ण॒ वै य॒ज्ञेन॑ दे॒वास्सु॑व॒र्गल्ँ लो॒कमा॑यन्पाकय॒ज्ञेन॒ मनु॑रश्राम्य॒त्सेडा॒ मनु॑मु॒पाव॑र्तत॒ तान्दे॑वासु॒रा व्य॑ह्वयन्त प्र॒तीची॑न्दे॒वाᳶ परा॑ची॒मसु॑रा॒स्सा दे॒वानु॒पाव॑र्तत प॒शवो॒ वै तद्दे॒वान॑वृणत प॒शवोऽसु॑रानजहुः 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +539,8 @@ verily he lets the calf go to the mother
 
 पाकयज्ञे᳓न म᳓नुर् अश्राम्यत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,11 +571,14 @@ Manu laboured with the cooked offering;
 
 इडोपहूतेत्यादिमन्त्रभागप्रयोगे हेयोपादेयपक्षौ विधातुं प्रस्तौति- **सर्वेणेति।** मनुसहिताः सर्वे देवाः कृत्स्नेन दर्शपूर्णमासयागेन स्वर्गलोकं प्राप्तुमुद्यताः । तत्र मनुः पाकयज्ञेन श्रान्तोऽभूत् । “इडा खलु वै पाकयज्ञः” इत्युक्तम्। अतो मनुर्होता सन्निडोपाह्वान एव तात्पर्यवानभूदित्यक्तं भवति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 से᳓डा म᳓नुम् उपा᳓वर्तत ।   +++(तस्मादियं मानवीत्युच्यते। )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -542,12 +604,15 @@ the Ida went to Manu;
 
 सा चेडा देवता तात्पर्यवन्तं मनुमुपगतवती । 
 </details>
+</details>
 
 ## प्रतीच्याह्वानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां᳓ देवासुरा᳓ व्य᳙ह्वयन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -573,12 +638,15 @@ the gods and the Asuras called severally upon her,
 
 तां दृष्ट्वा देवाश्चासुराश्च परस्परव्यत्ययेनाह्वयन्त। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रती᳓चीन् देवाः᳓ ।   
 प᳓राचीम् अ᳓सुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,6 +674,7 @@ the Asuras indirectly;
 
 ते देवाः प्रतीचीं संमुखामुपाह्वयन्त। असुराः पराचीनमुखमुपाह्वयन्त। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -613,6 +682,8 @@ the Asuras indirectly;
 पश᳓वो वै᳓ त᳓द् देवा᳓न् अवृणत ।   
 पश᳓वो᳓ ऽसुरान् अजहुः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -633,7 +704,6 @@ cattle deserted the Asuras-
 सा । दे॒वान् । उ॒पाव॑र्त॒तेत्यु॑प-आव॑र्तत ।  
 प॒शवः॑ । वै । तत् । दे॒वान् । अ॒वृ॒ण॒त॒ ।  
 प॒शवः॑ । असु॑रान् । अ॒ज॒हुः॒ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -647,6 +717,7 @@ cattle deserted the Asuras-
 
 इडोपहूतेत्यवमादाविडाशब्दप्रयोगः सांमुख्याम् । उपहूतेडेति पश्चादिडाशब्दप्रयोगो विमुखत्वम् । तत्र संमुखत्वेन तुष्टा सती सा देवानुपावर्तत । पशवो वा इडेत्यन्यात्राऽऽम्नातत्वादिडारूपाः पशवस्तत्तदा देवानवृणत वृतवन्तः प्राप्तवन्तः । विमुखत्वेनेडाया अपरितोषात्तद्रूपाः पशवोऽसुरानजह्रुः संत्यक्तवन्तः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +727,8 @@ cattle deserted the Asuras-
 प्रती᳓चीन् त᳓स्ये᳓डाम् उ᳓पह्वयेत।  
 पशुमा᳓न् एव᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -694,6 +767,7 @@ verily he becomes rich in cattle-
 तत्र हेयपक्षं विधत्ते – **यं कामयेतेति।**  
 उपादेयपक्षं विधत्ते – **यं कामयेतेति।**  
 </details>
+</details>
 
 ## सा नᳶ॑ प्रि॒या
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,6 +778,8 @@ verily he becomes rich in cattle-
 य᳓ इ᳓डाम् उपहू᳓य,  
 +आत्मा᳓नम् इ᳓डायाम् उपह्व᳓येते᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -725,7 +801,6 @@ who in invoking the Ida should invoke himself in the Ida.'
 
 ब्र॒ह्म॒वा॒दिन॒इति॑ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ ।  
 सः । तु । वै । इडा॑म् । उपेति॑ । ह्व॒ये॒त॒ । यः । इडा॑म् । उ॒प॒हूयेत्यु॑प-हूय॑ । आ॒त्मान॑म् । इडा॑याम् । उ॒प॒ह्वये॒तेत्यु॑प-ह्वये॑त । इति॑ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -741,12 +816,15 @@ who in invoking the Ida should invoke himself in the Ida.'
 वेदार्थविचारका विद्वांसः परस्परमित्याहुः। किमिति, यो बुद्धिमान् मन्त्रेणेड एह्य् अदित एहीत्यादिनेडाम् उपहूय तस्याम् इडायाम् आत्मानमुपह्वयते योजयति  
 स एवेडां यथाशास्त्रम् उपह्वयेतेति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सा᳓ नᳶ प्रिया᳓, सुप्र᳓तूर्तिर्, मघो᳓नी᳓"त्य् आ᳓ह᳓।  
 इ᳓डाम् एवो᳓पहू᳓याऽऽत्मा᳓नम् इ᳓डायाम् उ᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -763,7 +841,6 @@ who in invoking the Ida should invoke himself in the Ida.'
 
 सा । नः॒ । प्रि॒या । सु॒प्रतू॑र्ति॒रिति॑सु-प्रतू॑र्तिः । म॒घोनी॑ । इति॑ । आ॒ह॒ ।    
 इडा॑म् । ए॒व । उ॒प॒हूयेत्यु॑प-हूय॑ । आ॒त्मान॑म् । इडा॑याम् । उपेति॑ । ह्व॒य॒ते॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -775,6 +852,7 @@ who in invoking the Ida should invoke himself in the Ida.'
 
 मन्त्रं व्याचष्टे- **सा नः प्रियेति।** येयमिडाऽस्माभिरिड एहीत्यादिनोपहूता सेयमिडा त्वं नोऽस्माकं प्रियेत्यनेन वचनेन स्वात्मानमिडायां योजितवान्भवति।  
 </details>
+</details>
 
 ## सब्रह्मत्वम्
 
@@ -784,6 +862,8 @@ who in invoking the Ida should invoke himself in the Ida.'
 सामि᳓+++(=अर्धम्)+++ प्राश्ञ᳓न्ति ।  
 सामि᳓ मार्जयन्ते  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -802,7 +882,6 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 व्य॑स्त॒मिति॒वि-अ॒स्त॒म् । इ॒व॒ । वै । ए॒तत् । य॒ज्ञस्य॑ । यत् । इडा॑ ।   
 सा॒मि । प्रा॒श्ञन्तीति॑प्र-अ॒श्ञन्ति॑ ।  
 सा॒मि । मा॒र्ज॒य॒न्ते॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -821,11 +900,14 @@ The Ida is as it were a breach in the sacrifice; half they eat [4], half they wi
 मार्जनार्थं मनो ज्योतिरित्यादिकामृचं व्याख्यातुं प्रस्तौति- **व्यस्तमिवेति।**   
 इडेति यदेतेन यज्ञस्याङ्गं व्यस्तं विच्छिन्नमिव भवति। तत्कथमिति उच्‍यते - सामि पुरोडाशस्य लेशमिडाभागरूपमृत्विजः प्राश्नन्ति, साम्युदकलेशं मार्जयन्ते शिरसि सिञ्‍चन्ति, तदानीं प्रधानयागाः पूर्वमेव हुता अनूयाजादियागा इत ऊर्ध्वं यष्टव्यास्तन्मध्ये त्वेतदिडाभक्षणं मार्जनं च क्रियते, 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓त् प्र᳓ति वा᳓ अ᳓सुराणाय्ँ यज्ञो᳓ व्य᳙च्छिद्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -851,11 +933,14 @@ in this regard the sacrifice of the Asuras was broken;
 
 तयोरयागरूपत्वाद्यागविच्छेदकत्वम्। तथा सत्यसुरा यष्टव्याननूयाजादीन्विस्मृतवन्तः। अतोऽसुराणां यज्ञ एतत्प्रति भक्षणमार्जनद्वयं प्रत्येतदीये काले विच्छिन्नोऽभूत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणा देवा᳓स् स᳓मदधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -881,6 +966,7 @@ the gods united it by the holy power (Brahman)-
 
 देवास्त्वप्रमत्ताः सन्तो ब्रह्मणा परिवृढेन केनचित्पुरुषेण समदधुस्तयोर्विच्छिन्नयोर्यज्ञभागयोः संधानं कृतवन्तः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -889,6 +975,8 @@ the gods united it by the holy power (Brahman)-
 ब्र᳓ह्मणैव᳓ यज्ञँ᳓ स᳓न्दधाति ।  
 "वि᳓च्छिन्नय्ँ यज्ञँ᳓ स᳓म् इम᳓न् दधात्व्" इ᳓त्याह - स᳓न्तत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -925,6 +1013,7 @@ verily by the holy power (Brahman) he unites the sacrifice-
 
 संधातृप्रतिपादकं तृतीयपादं व्याख्याय संधानप्रतिपादकं द्वितीयपादं  व्याचष्टे-  **विच्छिन्नमिति**। अविच्छेदायेत्यर्थः।  
 </details>
+</details>
 
 ## विश्वे॑ दे॒वा इ॒ह मा॑दयन्ता॒म्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +1022,8 @@ verily by the holy power (Brahman) he unites the sacrifice-
 
 सन्त᳓त्यैव᳓ यज्ञ᳓न् देवे᳓भ्यो᳓ ऽनु दिशति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -951,7 +1042,6 @@ verily continuing the sacrifice he indicates it to the gods-
 
 विश्वे॑ । दे॒वाः । इ॒ह । मा॒द॒य॒न्ता॒म् । इति॑ । आ॒ह॒ ।   
 स॒न्तत्येति॑सम्-तत्य॑ । ए॒व । य॒ज्ञम् । दे॒वेभ्यः॑ । अन्विति॑ । दि॒श॒ति॒ ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -964,6 +1054,7 @@ verily continuing the sacrifice he indicates it to the gods-
 तस्य संततस्य यज्ञस्य देवसमर्पणप्रतिपादकं चतुर्थपादं व्याचष्टे-  
 विश्वे देवा इति। 
 </details>
+</details>
 
 ## दक्षिणायां वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -971,6 +1062,8 @@ verily continuing the sacrifice he indicates it to the gods-
 याव्ँ᳓ वै᳓ [5] यज्ञे᳓ द᳓क्षिणान् द᳓दाति,  
 ता᳓म् अस्य पश᳓वो᳓ऽनु स᳓ङ्क्रामन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -998,11 +1091,14 @@ The [5] sacrificial fee which he gives at the sacrifice his cattle accompany;
 
 ब्रध्न पिन्वस्वेत्यादिकं पुरोडाशाभिमन्त्रणमन्त्रं व्याख्यातुं प्रस्तौति-  **यां वै यज्ञ इति।** यजमानेनर्त्विग्भ्यो दीयमानां गवान्वाहार्यादिरूपां दक्षिणां तदीयाः पशवः सर्वेऽप्यनुगच्छन्ति, 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एष᳓ ईजानो᳙ ऽपशु᳓र् भा᳓वुकः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1028,6 +1124,7 @@ he having sacrificed is like to become without cattle;
 
 तदा यज्ञानुष्ठाता च पशुरहितो भवति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1035,6 +1132,8 @@ he having sacrificed is like to become without cattle;
 "य᳓था देवत्रा᳓ दत्त᳓ङ् कुर्वीत᳓,  
 +++(तथा)+++ आत्म᳓न् पशू᳓न् रम᳓येते᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1050,7 +1149,6 @@ he having sacrificed is like to become without cattle;
 
 यज॑मानेन । खलु॑ । वै । तत् । का॒र्य॑म् । इति॑ । आ॒हुः॒ ।   
 यथा॑ । दे॒व॒त्रेति॑देव-त्रा । द॒त्तम् । कु॒र्वी॒त॒ । आ॒त्मन् । प॒शून् । र॒मये॑त । इति॑ ।  
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1062,6 +1160,7 @@ he having sacrificed is like to become without cattle;
 
 अतः स्वेन दत्तं दक्षिणाद्रव्यं यथा देवत्रा देवेषु ऋत्विक्ष्ववस्थितं भवति, पशवश्च यथा स्वस्मिन्नेव रमन्ते, तथा यजमानेन कर्तव्यमिति बुद्धिमन्त आहुः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1071,6 +1170,8 @@ he having sacrificed is like to become without cattle;
 अ᳓थो देवत्रै᳓व᳓ दत्त᳓ङ् कुरुते ।  
 आत्म᳓न् पशू᳓न् रमयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1095,7 +1196,6 @@ but keeps his cattle with himself-
 य॒ज्ञः । वै । ब्र॒ध्नः । य॒ज्ञम् । ए॒व । तत् । म॒ह॒य॒ति॒ ।   
 अथो॒इति॑ । दे॒व॒त्रेति॑देव-त्रा । ए॒व । द॒त्तम् । कु॒रु॒ते॒ ।   
 आ॒त्मन् । प॒शून् । र॒म॒य॒ते॒ ।   
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1111,12 +1211,15 @@ but keeps his cattle with himself-
 
 मन्त्रस्य प्रथमभागं व्याचष्टे-  **ब्रध्न पिन्वस्वेति।** हे यज्ञ प्रीणीहीत्यनेन यज्ञस्य पूजारूपेण प्रोत्साहनेन यथोक्तं प्रयोजनद्वयं संपद्यते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "द᳓दतो मे मा᳓ क्षायी᳓"त्याह।  
 अ᳓क्षितिम् एवो᳓पैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1134,12 +1237,15 @@ but keeps his cattle with himself-
 दद॑तः । मे॒ । मा । क्षा॒यि॒ । इति॑ । आ॒ह॒ ।   
 अक्षि॑तिम् । ए॒व । उपेति॑ । ए॒ति॒ ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "कुर्वतो᳓ मे मो᳓प दसद्" इ᳓त्याह ।  
 भूमा᳓नम् एवो᳓पैति ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1156,7 +1262,6 @@ but keeps his cattle with himself-
 
 कु॒र्व॒तः । मे॒ । मा । उपेति॑ । द॒स॒त् । इति॑ । आ॒ह॒ । 
 भू॒मान॑म् । ए॒व । उपेति॑ । ए॒ति॒॥ 
-
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1168,6 +1273,7 @@ but keeps his cattle with himself-
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
 प्रथमोऽनुवाकः॥१॥
+</details>
 </details>
 </details>
 </div>

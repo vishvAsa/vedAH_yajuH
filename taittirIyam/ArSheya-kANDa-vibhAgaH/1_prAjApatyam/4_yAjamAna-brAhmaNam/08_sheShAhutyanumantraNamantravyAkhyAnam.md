@@ -4,6 +4,8 @@ title = "०८ शेषाहुत्यनु-मन्त्रण-व्�
 +++
 <div class="js_include" includetitle="true" newlevelforh1="1" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/04_sheShAhutyanumantraNamantravyAkhyAnam">
 <details open><summary><h1>०४ शेषाहुत्यनु-मन्त्रण-व्याख्यानम् ...{Loading}...</h1></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - (अनसूय-सूक्तवाक-स्रुग्व्यूहन-परिधिविमोक-शंयुवाक-पत्नीसंयाजाद्यनुमन्त्रणब्राह्मणम्)
@@ -12,6 +14,7 @@ title = "०८ शेषाहुत्यनु-मन्त्रण-व्�
 
 प्रजापतिर्ऋषिः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,6 +22,8 @@ title = "०८ शेषाहुत्यनु-मन्त्रण-व्�
 बर्हि᳓षा वै᳓ प्रजा᳓-पतिᳶ प्रजा᳓ असृजत ।  
 ते᳓नैव᳓ प्रजा᳓स् सृजते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,7 +56,7 @@ verily he creates offspring.
 
 तृतीयेऽन्वाहार्योऽभिहितः। चतुर्थे शेषाहुतीनामनुमन्त्रणमन्त्रा व्याख्यायन्ते। तत्रानूयाजमन्त्रान्व्याचष्टे- **बर्हिषोऽहमिति।**  
 **बर्हिषा** बर्हिर्यागानुमन्त्रणेन। एवमितरत्रोभयत्र।  
-
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +65,8 @@ verily he creates offspring.
 न᳓राशँ᳓सेन वै᳓ प्रजा᳓पतिᳶ पशू᳓न् असृजत ।  
 ते᳓नैव᳓ पशू᳓न्त् सृजते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,6 +92,7 @@ by Naraśansa Prajapati created cattle; verily he creates cattle.
 
 नरैश्शंसनीयो **नराशंसः** । द्वितीया अनूयाजदेवता । छान्दसं पूर्वपदस्य दीर्घत्वम् उत्तरपदाद्युदात्तत्वं च ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -93,6 +101,8 @@ by Naraśansa Prajapati created cattle; verily he creates cattle.
 आ᳓युर् एवा᳓त्म᳓न् धत्ते,  
 प्र᳓ति यज्ञे᳓न तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,12 +123,15 @@ and finds support through the sacrifice.
 
 आयुः॑ । ए॒व । आ॒त्मन् । ध॒त्ते॒ । प्रतीति॑ । य॒ज्ञेन॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शपूर्णमास᳓योर् वै᳓ (15) देवा᳓ उ᳓ज्जितिम् अ᳓नू᳓दजयन् ।   
 दर्शपूर्णमासा᳓भ्याम् अ᳓सुरान् अ᳓पानुदन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,13 +158,17 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 सूक्तवाकानुमन्त्रणमन्त्रं व्याचष्टे- **दर्शपूर्णमासयोरिति।** अनुष्ठितयोर्दर्शपूर्णमासयोरनेनोज्जितिमन्त्रपाठेनोज्जितिरुत्कर्षः संपूर्णता भवति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम्" इ᳓त्य् आ᳓ह᳓ ।  
-दर्शपूर्णमास᳓योर् एव᳓ देव᳓तानाय्ँ य᳓जमान उ᳓ज्जितिम् अ᳓नू᳓ज्जयति ।   
-दर्शपूर्णमा᳓सा᳓भ्याम् भ्रा᳓तृव्यान् अ᳓प नुदते ।  
+"अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम्" इ᳓त्य् आह ।  
+दर्शपूर्णमास᳓योर् एव᳓  
+देव᳓तानाय्ँ य᳓जमान उ᳓ज्जितिम् अ᳓नू᳓ज्जयति ।   
+दर्शपूर्णमासा᳓भ्याम् भ्रा᳓तृव्यान् अ᳓प नुदते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -160,9 +177,9 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 <details><summary>मूलम्</summary>
 
-अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मित्याह ।  
+अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मित्या॑ह ।  
 द॒र्श॒पू॒र्ण॒मा॒सयो॑रे॒व दे॒वता॑नाय्ँ॒यज॑मान॒ उज्जि॑ति॒मनूज्ज॑यति ।   
-द॒र्श॒पू॒र्ण॒मासाभ्या॒म्भ्रातृ॑व्या॒नप॑ नुदते ।  
+द॒र्श॒पू॒र्ण॒मा॒साभ्या॒म्भ्रातृ॑व्या॒नप॑ नुदते ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,17 +198,24 @@ With the victory of the new and full moon sacrifices [1] the gods conquered, and
 
 तां च यज्ञोज्जितिमनु देवा अप्युत्कर्षेणाजयन्। ताभ्यां च संपूर्णाभ्यां दर्शपूर्णमासाभ्यामसुरान्निराचक्रुः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 स्रुग्व्यूहनानुमन्त्रणं विधत्ते-  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓जवतीभ्याव्ँ +++(दर्वी)+++ व्यू᳙हति ।   
-अ᳓न्नव्ँ वै᳓ वा᳓जो᳓, ऽन्नम् एवा᳓वरुन्धे ।  
+अ᳓न्नव्ँ वै᳓ वा᳓जः,  
+अ᳓न्नम् एवा᳓वरुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +246,14 @@ strength is food, verily he wins food;
 
 वाजवतीभ्यामिति। व्यूहति अध्वर्युणा क्रियमाणमनुमन्त्रयेदित्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वा᳓भ्याम्प्र᳓तिष्ठित्यै ।  
+द्वा᳓भ्याम् प्र᳓तिष्ठित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,12 +279,16 @@ strength is food, verily he wins food;
 
 पादद्वयेनैव प्रकर्षेण स्थित्यर्थं मन्त्रद्वित्वमित्याह- **द्वाभ्यामिति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ यज्ञ᳓स्य द्वौ᳓ दो᳓हौ विद्वा᳓न् य᳓जते,  
-उभय᳓तः [16] एव᳓ यज्ञ᳓न् दुहे - पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
+उभय᳓त [16] एव᳓ यज्ञ᳓न् दुहे -  
+पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,11 +315,14 @@ He who sacrifices knowing the two milkings of the sacrifice milks thus the sacri
 
 कालविशिष्टमेमा अग्मन्निति मन्त्रपाठं विधातुं प्रस्तौति-  **यो वा इति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एष᳓ वा᳓ अन्यो᳓ यज्ञ᳓स्य, दो᳓ह इ᳓डायाम् अन्यः᳓ +++(दोहः)+++  ।
+एष᳓ वा᳓ अन्यो᳓ यज्ञ᳓स्य दो᳓ह, इ᳓डायाम् अन्यः᳓ +++(दोहः)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,12 +348,16 @@ this is one milking of the sacrifice, another is in the Ida.
 
 एष इदानीमेव वक्ष्यामाण एमा अग्मन्नितिमन्त्रपाठः पृथग्दोहः। पूर्वमिडायामुक्तः सा मे सत्याऽऽशीरिति मन्त्रपाठः पृथग्दोहः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓र्हि हो᳓ता य᳓जमानस्य ना᳓म गृह्णीया᳓त् त᳓र्हि ब्रूयाद् -  
+य᳓र्हि हो᳓ता य᳓जमानस्य ना᳓म गृह्णीया᳓त्  
+त᳓र्हि ब्रूयाद् -  
 "आ᳓+इमा᳓ अग्मन्न् आशि᳓षो दो᳓हकामा" इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -349,11 +387,14 @@ When the Hotr utters the name of the sacrificer, then he should say,
 विधत्ते-  **यर्हि होतेति।**   
 होता सूक्तवाकं पठन्नाशास्तेऽयं यजमानोऽसाविति यदा नाम गृह्णाति तदानीमेमा अग्मन्निति मन्त्रं पठेत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सँ᳓स्तुता एव᳓ देव᳓ता दुहे᳓ ।  
+सँ᳓स्तुता एव᳓ देव᳓ता दुहे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -362,7 +403,7 @@ verily he milks the deities which he praises together;
 
 <details><summary>मूलम्</summary>
 
-सँस्तु॑ता ए॒व दे॒वता॑ दु॒हे ।  
+सँस्तु॑ता ए॒व दे॒वता॑ दुहे ।  
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -379,11 +420,15 @@ verily he milks the deities which he praises together;
 
 या देवताः “अग्निमग्न आवह” “अग्निरिदं हविरजुषत” इत्यादिना होत्रा बहुशः संस्तुताः सर्वा अप्यनेन मन्त्रपाठेन यजमानो दुग्धे। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ᳓थो उभय᳓त एव᳓ यज्ञ᳓न् दुहे - पुर᳓स्ताच् चोप᳓रिष्टाच्च ।  
+अ᳓थो उभय᳓त एव᳓ यज्ञ᳓न् दुहे -  
+पुर᳓स्ताच् चोप᳓रिष्टाच् च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -409,6 +454,7 @@ verily he milks the sacrifice on both sides, in front and behind.
 
 किंचेडाकालीनो दोह इदानींतनो दोह इत्युभयमपि संपादितं भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -416,6 +462,8 @@ verily he milks the sacrifice on both sides, in front and behind.
 एते᳓ वै᳓ देवाश्वाः᳓ [17]।  
 य᳓जमानᳶ प्रस्तरः᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -438,7 +486,6 @@ the straw is the sacrificer;
 ए॒ते । वै । दे॒वा॒श्वाइति॑देव-अ॒श्वाः । 
 
 यज॑मानः । प्र॒स्त॒र इति॑ प्र-स्त॒रः ।
-
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -452,12 +499,15 @@ the straw is the sacrificer;
 
 प्रस्तरानुमन्त्रणमन्त्रं व्याचष्टे-  **रोहितेनेति।** यजमानवद्यागसाधनत्वात्प्रस्तरे यजमानत्वोपचारः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एतैᳶ᳓ प्रस्तर᳓म् प्रह᳓रति,  
 देवाश्वै᳓र् एव᳓ य᳓जमानँ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,12 +529,16 @@ he makes the sacrificer to go by the steeds of the gods to the world of heaven.
 
 यदेतैरित्यादि । एतैरनुमन्त्र्यमाणं प्रस्तरं प्रहरन्नग्निः देवाश्वैर्यजमानं स्वर्गं प्रापयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वि᳓ ते मुञ्चामि रशना᳓+++(=शिरस्सूत्राणि)+++ वि᳓ रश्मी᳓न्" इ᳓त्य् आह ।  
-एष᳓ वा᳓ अग्ने᳓र् विमोक᳓स्, ते᳓नैवै᳓नव्ँ वि᳓ मुञ्चति ।  
+एष᳓ वा᳓ अग्ने᳓र् विमोक᳓स्,  
+ते᳓नैवै᳓नव्ँ वि᳓ मुञ्चति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,13 +569,17 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 परिधिविमोकानुमन्त्रणमन्त्रं व्याचष्टे-  **वि ते मुञ्चामीति।**  
 ते रशना विमुञ्चामीत्यग्निमुद्दिश्याभिधानादयमग्नेर्विमोकः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वि᳓ष्णोः शय्ँयो᳓र् अह᳓न् देवयज्य᳓या  
 यज्ञे᳓न प्रतिष्ठा᳓ङ् गमेयम्" इ᳓त्य् आह ।  
-यज्ञो᳓ वै᳓ वि᳓ष्णुर्, यज्ञ᳓ एवा᳓न्ततᳶ᳓ प्र᳓ति तिष्ठति ।  
+यज्ञो᳓ वै᳓ वि᳓ष्णुर्,  
+यज्ञ᳓ एवा᳓न्ततᳶ᳓ प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -550,12 +608,16 @@ that is the unyoking of Agni; verily thereby he unyokes him.
 
 शंयुवाकानुमन्त्रणमन्त्रं व्याचष्टे-  **विष्णोरिति।** यज्ञस्य फलव्याप्त्या विष्णुत्वम्। **अन्ततः** समाप्तिकाले।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"सो᳓मस्याह᳓न् देव-यज्य᳓या सुरे᳓ताः [18]+ रे᳓तो धिषीये᳓"त्याह ।  
+"सो᳓मस्याह᳓न् देव-यज्य᳓या  
+सुरे᳓ता [18] रे᳓तो धिषीये᳓"त्याह ।  
 सो᳓मो वै᳓ रेतोधा᳓स्, ते᳓नैव᳓ रे᳓त आत्म᳓न् धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,13 +650,17 @@ verily he confers seed upon himself.
 **सोमस्येति।** 
 गर्भाशये रेतोधारणं सोमस्यानुग्रहाद्भवति। ततः सोमो रेतोधाः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"त्व᳓ष्टुर् अह᳓न् देव-यज्य᳓या पशूनाँ᳓ रूप᳓म् पुषेयम्" इ᳓त्य् आह ।  
+"त्व᳓ष्टुर् अह᳓न् देव-यज्य᳓या  
+पशूनाँ᳓ रूप᳓म् पुषेयम्" इ᳓त्य् आह ।  
 त्व᳓ष्टा वै᳓ पशूना᳓म् मिथुना᳓नाँ रूप-कृ᳓त् ।   
 ते᳓नैव᳓ पशूनाँ᳓ रूप᳓म् आत्म᳓न् धत्ते। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -623,15 +689,22 @@ and thereby he confers upon himself the form of cattle.
 द्वितीयपत्नीसंयाजस्यानुमन्त्रणमन्त्रं व्याचष्टे-  
 **त्वष्टुरिति।** अन्यत्र “यावच्छो वै रेतसः सिक्तस्य त्वष्टा रूपाणि विकरोति” इत्याम्नानान्मनुष्यगवाश्वादिपशूनां स्त्रीपुरुषमिथुनात्मकानां रूपं त्वष्टा करोति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"देवा᳓नाम् प᳓त्नीर्, अग्नि᳓र् गृह᳓पतिर् यज्ञ᳓स्य मिथुन᳓म् ।  
-त᳓योर् अह᳓न् देवयज्य᳓या मिथुने᳓न प्र᳓ भूयासम्" इ᳓त्य् आह ।  
+"देवा᳓नाम् प᳓त्नीर्,  
+अग्नि᳓र् गृह᳓पतिर्  
+यज्ञ᳓स्य मिथुन᳓म् ।  
+त᳓योर् अह᳓न् देवयज्य᳓या  
+मिथुने᳓न प्र᳓ भूयासम्" इ᳓त्य् आह ।  
 
-एत᳓स्माद् वै᳓ मिथुना᳓त् प्रजा᳓पतिर् मिथुने᳓न [19] प्रा᳓जायत ।  
+एत᳓स्माद् वै᳓ मिथुना᳓त्  
+प्रजा᳓पतिर् मिथुने᳓न [19] प्रा᳓जायत ।  
 त᳓स्माद् एव᳓ य᳓जमानो मिथुने᳓न प्र᳓ जायते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -667,6 +740,7 @@ and thereby he confers upon himself the form of cattle.
 
 तृतीयचतुर्थपत्नीसंयाजयोरेकीकारेणानुमन्त्रणमन्त्रं व्याचष्टे - **देवानामिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -674,6 +748,8 @@ and thereby he confers upon himself the form of cattle.
 वेदे᳓न वै᳓ देवा᳓ अ᳓सुराणाव्ँ वित्तव्ँ᳓ वे᳓द्यम् अविन्दन्त ।  
 त᳓द् वेद᳓स्य वेदत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -709,6 +785,7 @@ and that is why the bundle has its name.
 वेदाभिमर्शनमन्त्रं व्याचष्टे-  **वेदोऽसीति।**    
 वित्तं पूर्वलब्धं धनं, वेद्यमितः परं लब्धव्यं, तदुभयमसुरसंबन्धि यत्र क्वापि निक्षिप्तं, तदुभयं देवाः कदाचिद्वेदेन भूमिं संमृजन्तोऽलभन्त। ततो विद्यते वित्तमनेनेति व्युत्पत्त्या वेदत्वं निष्पन्नम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -716,6 +793,8 @@ and that is why the bundle has its name.
 त᳓स्य ना᳓म गृह्णीयात् ।  
 त᳓द् एवा᳓स्य स᳓र्वव्ँ वृङ्क्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -744,13 +823,18 @@ Whatever of his foe's he may covet, the name of that he should utter; verily he 
 
 विधत्ते-**यद्यद् भ्रातृव्येति।** वैरिणः संबन्धि यद्गृहक्षेत्रादिकं यजमानो ममास्त्वित्यभिध्यायेत्तस्य सर्वस्य नामधेयं मन्त्रमध्ये गृहीत्वा विदेयेत्येतत्पदं पठेत्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-घृत᳓वन्तङ् कुलायि᳓नँ+++(=नीडिनं)+++ राय᳓स्पो᳓षँ सहस्रि᳓णव्ँ   
-वेदो᳓ ददातु वाजि᳓नम् इ᳓त्य् आह।
+> घृत᳓वन्तङ् कुलायि᳓नँ+++(=नीडिनं)+++ राय᳓स्-पो᳓षँ सहस्रि᳓णव्ँ   
+वेदो᳓ ददातु वाजि᳓नम् 
+
+इ᳓त्य् आह।
 प्र᳓ सह᳓स्रम् पशू᳓न् आप्नोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -781,11 +865,15 @@ he obtains a thousand cattle.
 
 एतस्य मन्त्रस्यान्त्यभागे सहस्रिणमिति पदस्योच्‍चारणं प्रशंसति - **घृतवन्तमिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आ᳓ऽस्य प्रजा᳓याव्ँ वाजी᳓ जायते य᳓ एवव्ँ᳓ वे᳓द ॥ [20]
+आ᳓ऽस्य प्रजा᳓याव्ँ वाजी᳓ जायते  
+य᳓ एवव्ँ᳓ वे᳓द ॥ [20]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -799,7 +887,7 @@ In his offspring a strong one is born who knows thus.
 
 <details><summary>पद-पाठः</summary>
 
-एति॑ । अ॒स्य॒ । प्र॒जाया॒मिति॑प्र-जाया॑म् । वा॒जी । जा॒य॒ते॒ । यः । ए॒वम् । वेद॑॥[20]
+एति॑ । अ॒स्य॒ । प्र॒जाया॒मिति॑प्र-जाया॑म् । वा॒जी । जा॒य॒ते॒ । यः । ए॒वम् । वेद॑॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -815,6 +903,7 @@ In his offspring a strong one is born who knows thus.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
 चतुर्थोऽनुवाकः॥४॥
+</details>
 </details>
 </details>
 </div>

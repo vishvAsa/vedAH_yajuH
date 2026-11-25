@@ -7,15 +7,20 @@ title = "३६ स्रुवाहुतयः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒या॒साय॒ स्वाहा॑ऽऽया॒साय॒ स्वाहा॑ विया॒साय॒ स्वाहा॑ सय्ँया॒साय॒ स्वाहो॑द्या॒साय॒ स्वाहा॑ऽवया॒साय॒ स्वाहा॑ शु॒चे स्वाहा॒ शोका॑य॒ स्वाहा॑ तप्य॒त्वै स्वाहा॒ तप॑ते॒ स्वाहा॑ ब्रह्मह॒त्यायै॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [36]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ Hail! for Prayāsa,
 
 प्रयासः प्रकृष्टो यासः क्रिया यागादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +79,14 @@ Hail! for Āyāsa!
 
 आयासः शास्त्रपूर्वः प्रयासः अर्थार्जनादिः । मर्यादायामाकारः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वियासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,11 +112,14 @@ Hail! for Viyāsa,
 
 वियासः विविधो व्यापारः हसितकण्डूयितादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सय्ँयासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +145,14 @@ Hail! for Saṃyāsa!
 
 संयासः समीचीनप्रयत्नः परोपकारादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,11 +178,14 @@ Hail! for Udyāsa,
 
 उद्यासः उद्भूतो व्यापारः महाभूतविकारादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवयासा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,11 +211,14 @@ Hail! for Avayāsa!
 
 अवयासः निकृष्टो व्यापारः दुष्कर्म ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुचे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,11 +244,14 @@ Hail! for Śuce!
 
 शुक् शोचयितृस्वभावं दुःखात्मकं कर्म ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शो᳓काय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +277,14 @@ Hail! for Śoka!
 
 शोकः तत्फलमात्मधर्मः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्यत्वै᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +310,14 @@ Hail! for Tapyatva,
 
 तप्यतुः तापहेतुः अनिष्टाचरणम् । तपतेरौणादिकोतुच्प्रत्ययः, यकारोपजनश्छान्दसः, 'उदात्तयणः ' इति विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,11 +343,14 @@ Hail! for Tapat!
 
 तपः कृच्छ्रादि देहशोषकम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्महत्या᳓यै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,11 +376,14 @@ Hail! for the (sin of) killing of the Brāhmaṇas,
 
 ब्रह्महत्या ग्रहणं महापातकानामुपलक्षणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -370,6 +408,7 @@ To all hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वग्रहणं अनुक्तपरिस्पन्दपरिग्रहार्थम् ॥
+</details>
 </details>
 </details>
 

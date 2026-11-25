@@ -8,12 +8,17 @@ title = "१३ ध्रुवग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्थाल्या धुवं गृह्णाति - मूर्धानमिति चतुष्पदया त्रिष्टुभा ॥
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 +++(विषुव-स्थान-रूपेण)+++ मूर्धा᳓नं दिवो᳓, अरतिं᳓+++(=चक्र-परिधिं)+++ पृथिव्या᳓,  
 वैश्वानर᳓म्, ऋत᳓+++(य्)+++ **आ᳓ जात᳓म्** अग्नि᳓म् ।  
@@ -21,9 +26,21 @@ _______
 +++(विषुव-स्थान-रूपेणापि)+++ आस᳓न्न्+++(=आस्यं)+++ आ᳓ पा᳓त्रं **जनयन्त** देवाः᳓ ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/007/01_mUrdhAnaM_divo.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+मू॒र्धानं॑ दि॒वो अ॑र॒तिं पृ॑थि॒व्या वै॑श्वान॒रमृ॒त आ जा॒तम॒ग्निम् ।  
+क॒विं स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्ना पात्रं॑ जनयन्त दे॒वाः ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/007/01_mUrdhAnaM_divo.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -236,6 +253,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। मूर्धानम्- शिरःस्थानम्। पृथिव्याः- भूम्याः। अरतिम्- गन्तारम्। वैश्वानरम्-  सर्वनरहितम्। ऋते- प्रकृतिनियतिभूतसत्ये। आ जातम्- उद्भूतम्। कविम्- क्रान्तदर्शिनम्।  सम्राजम्- स्वामिनम्। जनानाम्- विशाम्। अतिथिम्। आसन्- देवमुखम्। पात्रम्- पातारम्।  अग्निम्- पावकं सत्क्रतुम्। देवाः- देवताः। आ- आभिमुख्येन। जनयन्त- ससृजुः॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 **मूर्धानं** शिरोभूतम् । कस्य । **दिवः** द्युलोकस्य **पृथिव्याः** प्रथिताया भूमेः **अरतिं** गन्तारम् । यद्वा । गन्तव्यं स्वामिनं **वैश्वानरं** विश्वेषां नराणां संबन्धिनम् **ऋते** । ऋतमिति सत्यस्य यज्ञस्य वा नाम । निमित्तसप्तम्येषा । ऋतनिमित्तम् **आ** आभिमुख्येन **जातं** सृष्ट्यादावुत्पन्नं **कविं** क्रान्तदर्शिनं **सम्राजं** सम्यग्राजमानं **जनानां** यजमानानाम् **अतिथिं** हविर्वहनाय सततं गन्तारम् । यद्वा । अतिथिवत्पूज्यम् । **आसन्** आसनि आस्ये । द्वितीयार्थे सप्तमी । आस्यभूतम् । अग्निलक्षणेनास्येन हि देवा हवींषि भुञ्जते । **पात्रं** पातारं रक्षकम् । यद्वा । आस्येन धारकम् । एवंगुणविशिष्टं वैश्वानराग्निं **देवाः** स्तोतार ऋत्विजो देवा एव वा **आ** **जनयन्त** । यज्ञाभिमुख्येन अजीजनन् । अरण्योः सकाशाद् उदपादयन् ॥
@@ -289,7 +311,7 @@ Renou considers āsán simply an attribute limiting the pā́tra-, a “récipie
 Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
-<details open><summary><h8>01-02 ...{Loading}...</h8></summary>
+<details open><summary><h7>01-02 …{Loading}…</h7></summary>
 <details><summary>Jamison Brereton Notes</summary>
 
 These two vss. are paired, both ending with janayanta devā́ḥ and sharing an opening pāda with the structure ACC SG + GEN ACC SG + GEN; this NP structure is also found at the end of 1c and 2c (one iteration each), but is upended by GEN + ACC SG yajñásya ketúm in 2d. It is perhaps a measure of the sensitivity of the RV to subtle patterns that this syntactic metathesis feels strikingly disruptive. It may well be that the poet generated this disruptive order in order to call attention to this very phrase; see the importance of the word ketú- in vss. 5 and 6, with the comm. there. There is an important difference, however: here the “beacon of the sacrifice” must be Agni, whereas in vss. 5-6 it is the sun.
@@ -385,19 +407,23 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 
 भावार्थभाषाः -  जी माणसे परमेश्वराप्रमाणे न्यायकारी बनून अग्नीप्रमाणे विद्या व विनय यामुळे प्रसिद्ध होऊन चक्रवर्ती बनतात ती सर्वांना सुख देतात. ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमाम् अनुद्रुत्य उपयाम-गृहीतोस्य् अग्नये त्वा वैश्वानरायेति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -410,6 +436,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -420,12 +451,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ॒ग्नये॑ त्वा वैश्वान॒राय॑ ।
+अग्न᳓ये त्वा वैश्वानरा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,18 +471,34 @@ to Agni Vaiśvanara thee!
 अ॒ग्नये॑ त्वा वैश्वान॒राय॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्नये॑ । त्वा॒ । वै॒श्वा॒न॒राय॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रु॒वो॑ऽसि ध्रु॒वक्षि॑तिर्ध्रु॒वाणा॑न्ध्रु॒वत॒मोऽच्यु॑तानामच्युत॒क्षित्त॑मः 
 </details>
 
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+2अधिवदते - ध्रुवोसीति ॥
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रु॒वो॑ऽसि,   
-ध्रु॒व-क्षि॑तिर्  
-ध्रु॒वाणा॑न् ध्रु॒वत॑मः   
-अच्यु॑तानाम् अच्युत॒-क्षित्त॑मः।
+ध्रुवो᳙ऽसि,   
+ध्रुव᳓-क्षितिर्  
+ध्रुवा᳓णान् ध्रुव᳓तमः᳓   
+अ᳓च्युतानाम् अच्युत-क्षि᳓त्तमः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,23 +516,34 @@ with securest foundation of those which are secure.
 अच्यु॑तानामच्युत॒क्षित्त॑मः
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ध्रु॒वः । अ॒सि॒ । ध्रु॒वक्षि॑ति॒रिति॑ ध्रु॒व-क्षि॒तिः॒ । ध्रु॒वाणा॑म् । ध्रु॒वत॑म॒ इति॑ ध्रु॒व-त॒मः॒ । अच्यु॑तानाम् । अ॒च्यु॒त॒क्षित्त॑म॒ इत्य॑च्युत॒क्षित्-त॒मः॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अधिवदते - ध्रुवोसीति ॥ धुवस्त्वमसि, यो यज्ञस्यायुष्ट्वात् ग्रहाणामुत्तमस्स त्वमसि । 'आयुर्वा एतद्यज्ञस्य यद्ध्रुवः' इत्यादि ब्राह्मणम्  । यद्वा - पृथिव्या धृतिहेतुत्वादस्य ध्रुवत्वं, ध्रुवं करोतीति ध्रुवः । 'असुरा वा उत्तरतः पृथिवीं पर्याचिकीर्षन्' इत्यादि ब्राह्मणम्  । ध्रुवक्षितिर्ध्रुवनिवासः निश्चलावस्थानः यावद्वैश्वदेव्या ऋचश्शंसनं तावदवस्थाना; यथोक्तं - 'वैश्वदेव्यामृचि शस्यमानायामवनयति" इति । ध्रुवाणामादित्यस्थाल्यादीनां मध्ये ध्रुवतमस्त्वमसि ।
+धुवस्त्वमसि, यो यज्ञस्यायुष्ट्वात् ग्रहाणामुत्तमस्स त्वमसि । 'आयुर्वा एतद्यज्ञस्य यद्ध्रुवः' इत्यादि ब्राह्मणम्  । यद्वा - पृथिव्या धृतिहेतुत्वादस्य ध्रुवत्वं, ध्रुवं करोतीति ध्रुवः । 'असुरा वा उत्तरतः पृथिवीं पर्याचिकीर्षन्' इत्यादि ब्राह्मणम्  । ध्रुवक्षितिर्ध्रुवनिवासः निश्चलावस्थानः यावद्वैश्वदेव्या ऋचश्शंसनं तावदवस्थाना; यथोक्तं - 'वैश्वदेव्यामृचि शस्यमानायामवनयति" इति । ध्रुवाणामादित्यस्थाल्यादीनां मध्ये ध्रुवतमस्त्वमसि ।
 
 अच्युतानामच्युतस्थानानां मध्ये अच्युतक्षित्तमस्त्वमसि । अच्युतं स्थानं क्षियति निवसतीति क्विप् । यद्वा - अच्युतानां स्थानानां मध्ये यदच्युतमतिशयेनाच्युततमं निषेवते इति अचूततमक्षिदिति यावत् ब्रूयात्तावदच्युतक्षित्तम इति । तत्र सामर्थ्यादुपसर्जनातिशायने तमप्प्रत्ययः, छान्दसो वा । इर्दृशस्त्वमसीत्यधिवादः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एष ते योनिरग्नये त्वा वैश्वानरायेति सादयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, अ॒ग्नये॑ त्वा वैश्वान॒राय॑ ॥ [14]  
+एष᳓ ते यो᳓निर्, अग्न᳓ये त्वा वैश्वानरा᳓य ॥ [14]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,6 +553,12 @@ This is thy birthplace; to Agni Vaiśvanara thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॑र॒ग्नये॑ त्वा वैश्वान॒राय॑ ॥ [14]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । अ॒ग्नये॑ । त्वा॒ । वै॒श्वा॒न॒राय॑ ॥
+</details>
 </details>
 
 इति चतुर्थे त्रयोदशः ॥  

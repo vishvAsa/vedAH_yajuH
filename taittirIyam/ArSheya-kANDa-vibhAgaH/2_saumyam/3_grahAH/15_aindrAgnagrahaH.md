@@ -8,21 +8,38 @@ title = "१५ ऐन्द्राग्नग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1ऋतुपात्रेणैन्द्राग्नं गृह्णाति ॥ 'यदैन्द्राग्नमृतुपात्रेण गृह्णाति' इति ब्राह्मणम्, 'ओजोभृतौ वा एतौ देवानाम्' इत्यादि च । 
 </details>
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/01_indrAgnI_A.md">
-<details open><summary><h6>विश्वास-प्रस्तुतिः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/01_indrAgnI_A.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 इ᳓न्द्राग्नी **आ᳓ गतं**+++(=गच्छतं)+++ सुतं᳓  
 गीर्भि᳓र् न᳓भो+++(=नभसः)+++ व᳓रेण्यम् ।  
 अस्य᳓ **पातं** धिया᳓ +ईषिता᳓+++(=प्रेरितौ)+++ ॥
 
 </details>
+
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/012/01_indrAgnI_A.md">
-<details open><summary><h6>001 ...{Loading}...</h6></summary>
+
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/012/01_indrAgnI_A.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
+
+इन्द्रा॑ग्नी॒ आ ग॑तं सु॒तं गी॒र्भिर्नभो॒ वरे॑ण्यम् ।  
+अ॒स्य पा॑तं धि॒येषि॒ता ॥
+</details>
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/012/01_indrAgnI_A.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -175,6 +192,11 @@ _________
 
 </details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राग्नी- हे ईशनाधिदेवते हे क्रत्वधिदेवते। गीर्भिः- मन्त्रैः। वरेण्यम्- श्रेष्ठम्। नभः-  मच्चित्ताकाशस्थम्। सुतम्- रसं प्रति। आ गतम्- आगच्छतम्। अस्य- एतं रसम्। धियेषिता-  ध्यानेन प्रेरितौ सन्तौ। पातम्- अनुभवतम्॥१॥
+</details>
+
 <details><summary>सायण-भाष्यम्</summary>
 
 इन्द्रश्चाग्निश्च **इन्द्राग्नी** हे देवौ **सुतम्** अभिषवादिसंस्कारैः संस्कृतमत एव **वरेण्यं** वरणीयं संभजनीयम् इमं सोमं प्रति **गीर्भिः** अस्मदीयाभिः स्तुतिरूपाभिर्वाग्भिराहूतौ सन्तौ **नभः** नभसः स्वर्गस्थानात् **आ** **गतम्** आगच्छतम् । आगत्य च **धिया** अस्माभिः क्रियमाणे कर्मणि **इषिता** प्रेरितौ युवाम् **अस्य** **पातम्** इमं सोमं पिबतम् । यद्वा धिया अस्मदीयया बुद्ध्या इषितौ प्राप्तौ अस्मद्भक्त्या प्रेरितौ युवामिमं सोमं पिबतम् ॥ इन्द्राग्नी । इन्द्रश्चाग्निश्च ‘ द्वन्द्वे घि' ( पा. सू. २.२.३२ ) इत्यग्निशब्दस्य पूर्वनिपाते प्राप्ते  अजाद्यदन्तम् ( पा, सू. २. २. ३३ ) इतीन्द्रशब्दस्य पूर्वनिपातः । पादादित्वान्निघातप्रतिषेधः । षाष्ठिकस्वरः । गतम् । 'गम्लृ सृप्लृ गतौ'।  ‘ बहुलं छन्दसि ' इति शपो लुकि सति  ‘ अनुदात्तोपदेश' इत्यादिना मकारलोपः । निघातः । वरेण्यम् । वृङ संभक्तौ ।  ‘ वृङ एण्यः । वृषादित्वाद्युदात्तः । पातम् ।' पा पाने ।  ‘ सर्वेविधयश्छन्दसि विकल्प्यन्ते' इति न पिबादेशः । इषिता । इष गतौ ' इत्यस्माद्धातोर्निष्ठायां ‘तीषसह ' इतीडागमः।  ‘ आगमा अनुदात्ताः' इतीटोऽनुदात्तत्वात् क्तस्वरः शिष्यते ॥
@@ -298,19 +320,23 @@ Indrāgni kommt zu diesem Saft, durch Lieder zu dem schönen Duft, O trinkt ihn,
 
 भावार्थभाषाः -  हे अध्यापक व उपदेशक पुरुषांनो! जसे वायू व सूर्य संपूर्ण जगाचे रक्षक आहेत, तसेच विद्या व उत्तम शिक्षणाने संपूर्ण जगाचे रक्षक व्हा! ॥ १ ॥
 </details>
-</details>
+
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसीन्द्राग्निभ्यां त्वेति गृह्णाति ॥
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-<details open><summary><h6>उपयामगृहीतः ...{Loading}...</h6></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒प॒या॒म-गृ॑हीतो ऽसि।
+उपयाम᳓-गृहीतो ऽसि।
 </details>
 
 <details><summary>Keith</summary>
@@ -323,6 +349,11 @@ Thou art taken with a support/ foundation.
 उ॒प॒या॒मगृ॑हीतोऽसि।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपयम्यन्ते स्वात्मन्येव नियम्यन्ते भूतजातान्यस्मिन् अभिन्नेधिकरणे इत्युपयामः पृथ्वी । 'इयं वा उपयामः' इति ब्राह्मणम् । 'हलश्च' इति घञ्, थाथादिस्वरेणान्तोदात्तत्वम् । तेन गृहीतस्त्वमसि ; कोन्यस्त्वां गृहीतुं क्षम इति भावः ; पृथिव्यापो गृहीष्यामीतिवत् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - उपयामार्थं पृथिव्यर्थं गृहीतोसीति ; हे सोम ।   
@@ -333,12 +364,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इ॒न्द्रा॒ग्निभ्या॑न्त्वा ।  
+इन्द्राग्नि᳓भ्यान्त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,16 +384,27 @@ to Indra and Agni thee!
 इ॒न्द्रा॒ग्निभ्या॑न्त्वा ।  
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । त्वा॒ ।
+</details>
+</details>
+
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिरिन्द्राग्निभ्यां त्वेति सादयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ए॒ष ते॒ योनि॑र्, इन्द्रा॒ग्निभ्या॑न्त्वा ॥ [16]  
+एष᳓ ते यो᳓निर्, इन्द्राग्नि᳓भ्यान्त्वा ॥ [16]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -369,6 +414,12 @@ This is thy birthplace; to Indra and Agni thee!
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॑रिन्द्रा॒ग्निभ्या॑न्त्वा ॥ [16]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒षः । ते॒ । योनिः॑ । इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । त्वा॒ ॥
+</details>
 </details>
 
 इति चतुर्थे पञ्चदशोनुवाकः ॥  

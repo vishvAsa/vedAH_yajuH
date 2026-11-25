@@ -8,6 +8,8 @@ title = "०२ आज्यग्रहणानुमन्त्रणाद�
 अनुष्टुप् । प्रजापतिर्ऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ प्राजापत्यमेव काण्डं याजमानम् । तत्राज्यसान्नाय्ययोस् स्कन्नस्य स्वधां सम्भरति - सं त्वेत्यनुष्टुभा ॥ 
@@ -19,9 +21,11 @@ _______
 कल्पः — “सं त्वा सिञ्चामीति तत्सँ सिञ्चेदभि वा मन्त्रयेत” इति।  
 तदिति स्कन्नमाज्यमुच्यते। यस्याऽऽज्यमनुत्पूतँ स्कन्देदित्यादिना स्कन्दनस्य प्रकृतत्वात्। यदि शुद्धप्रदेशे स्कन्देत्तदानीमनेन मन्त्रेण पुनः पात्रे प्रक्षिपेत्। अशुचिप्रदेशे स्कन्दने त्वभिमन्त्रणम्।
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 स᳓न् त्वा सिञ्चामि य᳓जुषा  
 प्रजा᳓म् आ᳓युर् ध᳓नञ् च ।+++(4)+++  
@@ -29,10 +33,12 @@ _______
 य᳓जमान इह᳓ मा᳓ रिषत्  ॥
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
-<details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/01_AjyagrahaNAnumantraNAdi/02_san_tvA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
 
 By the Yajus I pour on thee  
@@ -67,16 +73,23 @@ I sprinkle well offspring, life and wealth for you by the Yajus-Mantra.
 सं त्वा सिञ्चामीति। हे स्कन्नाज्य बृहस्पतिप्रेरितोऽहं प्रजादीन्संपादयेयम। त्वामनेन यजुषा मन्त्रेण पात्रे सम्यक्सिञ्चामि। इह कर्मणि यजमानः स्कन्दनापराधेन मा रिषन्मा हिंस्यताम्। अयं मन्त्र आध्वर्यवः। अतो यजमानस्यान्यत्वेनोक्तिरविरुद्धा।
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आज्य॑मसि स॒त्यम॑सि स॒त्यस्याध्य॑क्षमसि ह॒विर॑सि वैश्वान॒रव्ँ वै॑श्वदे॒वमुत्पू॑तशुष्मँ स॒त्यौजाः
 </details>
+</details>
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2-4आज्यमवेक्षते - आज्यमसीति यजुर्भिः ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +98,8 @@ _______
 सत्य᳓म् असि ।  
 सत्य᳓स्या᳓ध्यक्षम् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,12 +136,15 @@ Thou art butter, thou art truth, thou art the overseer of truth,
 पाठस्तु-  
 आज्यमसीति। अत्र वैश्वानरमित्यादिभिश्चतुर्भिः पदैः प्रत्येकमन्वेतुमसीति पदमनुवर्तनीयम्। तथा सति तान्येतानि द्वाविंशतिवाक्यानि संपद्यन्ते। तैरेतैर्वाक्यैराज्यं प्रशस्यते। अजिधातोर्गत्यर्थादुत्पन्न आज्यशब्दः। आज्यमसि प्रापकमसि। घृतेन हि होमाधारो ज्वालन्नग्निः प्राप्यते। सद्विद्यमानं कर्मफलं तदर्हतीति सत्यम्। प्रसिद्धं ह्याज्यस्य कर्मफलसाधनत्वम्। सत्यस्याध्यक्षमसि सतां कर्म सत्यम्। ज्योतिष्टोमे प्रवर्तमाना यजमानसप्तदशा ऋत्विजः सन्तः। ते हि परस्परं द्रोहशङ्कामपनेतुं तानूनप्त्रसंज्ञकमाज्यं स्पृशन्ति। सोऽयं स्पर्शः सतां कर्म, तस्य कर्मणोऽध्यक्षं स्वामि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हवि᳓र् असि वैश्वानरव्ँ᳓ वैश्वदेव᳓म्  
 उ᳓त्पूतशुष्मँ सत्यौ᳓जाः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,6 +172,7 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 
 हविरसि प्राधान्येन हूयमानमसि। पुरोडाशादीनां हविषां नाशेऽप्याज्येनैव तत्कर्मशेषसमापनात्प्राधान्यं द्रष्टव्यम्। विश्वेषां नराणां संबन्धि वैश्वानरम्। विश्वेषां देवानां संबन्धि विश्वदेवम्। प्रसिद्धो भोज्यत्वेन हविष्ट्वेन चोभयसंबन्ध। उत्पूतशुष्ममुत्पवनेनोद्दीपितबलम्। सत्यौजाः सत्यबलम्। आज्यस्य हि बलमवितथम्। अग्न्युद्दीपनस्य प्रत्यक्षत एव दृश्यमानत्वात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,6 +181,8 @@ thou art the oblation of Vaiśvanara, of the All-gods, with pure strength, of tr
 स᳓हस्वा᳓रातीः ।  
 स᳓हस्वारातीयतः᳓ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,6 +216,7 @@ overpower those who practise hostility;
 
 सहः शत्रूणामभिभवनसमर्थम्। सहमानं निरन्तरं तदभिभवेनैव वर्तमानम्। तादृक्त्वं सहस्वारातीरस्मदमित्रानभिभव। सहस्वारातीयतः, ये तु प्रत्यक्षं शात्रवं कर्तुमशक्ता मनसा शात्रवं कर्तुमिच्छन्ति तानप्यभिभव। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -202,6 +224,8 @@ overpower those who practise hostility;
 स᳓हस्व पृतन्यतः᳓ ।  
 सह᳓स्रवीर्यम् असि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,16 +252,22 @@ overpower enmity, overpower those who practise emnity; thou art of a thousandfol
 
 सहस्व पृतनाः शत्रुसेना अभिभव। सहस्व पृतन्यतः सेनाः संपादयितुमिच्छतः शत्रूनप्यभिभव। सहस्रवीर्यमसि यथोक्ताभिभवविशेषान्कर्तुं बहुप्रकारसामर्थ्योपेतं त्वमसि। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तन्मा॑ जि॒न्वाऽऽज्य॒स्याऽऽज्य॑मसि स॒त्यस्य॑ स॒त्यम॑सि स॒त्यायुः॑ [1]अ॒सि॒ स॒त्यशु॑ष्ममसि स॒त्येन॑ त्वा॒ऽभि घा॑रयामि॒ तस्य॑ ते भक्षीय
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न्मा जिन्व᳓+++(=प्रीणय)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,11 +293,14 @@ do thou quicken me;
 
 तन्मा जिन्व तत्तादृक्स्वभाव त्वं मां यागद्वारेण प्रीणय। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ज्यस्या᳓ऽऽज्यम् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +326,14 @@ thou art of butter the butter;
 
 आज्यस्याऽऽज्यमसि लौकिकं यदाज्यं तदुत्पूतशुष्मं न भवति त्वं तत्पूतशुष्मत्वान्मुख्यमाज्यमसि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य᳓स्य सत्य᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,11 +359,14 @@ thou art of truth the truth;
 
 सत्यस्य सत्यमसि लौकिकफलसाधनं कृष्यादिकं सत्यं तत्कदाचिद्वृष्ट्याद्यभावेन व्यभिचारान्न मुख्यं सत्यं त्वं तु कदाचिदप्यव्यभिचारान्मुख्यं सत्यमसि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्या᳓युर् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +392,14 @@ thou hast true life [1];
 
 सत्यायुरसि सत्यभूतमायुरस्मिन्निति सत्यायुः। आज्यनिष्पन्नेन कर्मणा भाविदेहे यदायुः प्राप्यते तन्‍न व्यभिचरतीत्यायुषः सत्यत्वम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य᳓शुष्मम्+++(=बलम्)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,11 +425,14 @@ thou hast true strength;
 
 सत्यशुष्ममसि सत्यबलमसि। अग्न्युद्दीपनबलं सत्यौजःशब्देन पूर्वमुक्तम्। इह तु फलप्रदानबलमुच्‍यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्ये᳓न त्वाऽभि᳓ घारयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -413,11 +458,14 @@ with truth I besprinkle thee;
 
 सत्येन त्वाऽभिघारयामि तादृशं त्वां चक्षुषा पश्यामीत्यर्थः। तथा च पौरोडाशिककाण्डे समाम्नायते - “ब्रह्मवादिनो वदन्ति। यदाज्येनान्यानि हवीँष्यभिघारयति। अथ केनाऽऽज्यमिति। सत्येनेति ब्रूयात्। सत्येनैवैनदभिघारयति” इति। चक्षुषः सत्यत्वमाधानब्राह्मणे प्रतिपादितम्। “अनृतं वै वाचा वदति। अनृतं मनसा ध्यायति। चक्षुर्वै सत्यम्। अद्रा३गित्याह। अदर्शमिति। तत्सत्यम्” इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते भक्षीय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -443,8 +491,11 @@ may I share thee that art such.
 
 तस्य ते भक्षीय तादृशं त्वां भजानि।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14- 17अथाज्यग्रहानुमन्त्रणमन्त्राः - यजूंषि तत्र चतुर्भिः जौहवम् अनुमन्त्रयते - पञ्चानां त्वेति ॥ 
@@ -454,11 +505,14 @@ _______
 
 पञ्चा॒नान्त्वा॒ वाता॑नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्व॑र्तू॒नाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्वा॑ दि॒शाय्ँय॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि पञ्चा॒नान्त्वा॑ पञ्चज॒नानाय्ँ॑य॒न्त्राय॑ ध॒र्त्राय॑ गृह्णामि 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाना᳓न् त्वा वा᳓तानाय्ँ यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,11 +533,14 @@ For a prop, a support, of the five winds I take thee.
 
 पञ्चानां प्राच्याद्यूर्ध्वपर्यन्तपञ्चदिक्प्रभवाणां पुरोवातादीनां वातानां यन्त्राय यमनाय स्वस्वाधारेष्वविचलनस्थापनाय धर्त्राय जगद्धारणाय जगद्धाणकुशलाय वा त्वां गृह्णामि हे आज्य । एवं सर्वत्र । पञ्चानामित्यत्र 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाना᳓न् त्वर्तूनाय्ँ᳓ यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,6 +563,9 @@ For a prop, a support, of the five seasons I take thee.
 
 [ यन्त्राय यमनाय स्वस्वाधारेष्वविचलनस्थापनाय धर्त्राय जगद्धारणाय जगद्धाणकुशलाय वा त्वां गृह्णामि हे आज्य ।]
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -513,11 +573,14 @@ For a prop, a support, of the five seasons I take thee.
 कल्पः — ‘आज्यग्रहणं गृहीतं गृहीतमनुमन्त्रयते पञ्चानां त्वा वातानां यन्त्राय धर्त्राय गृह्णामि पञ्चानां त्वर्तूनां यन्त्राय धर्त्राय गृह्णामि पञ्चानां त्वा दिशां यन्त्राय धर्त्राय गृह्णामि पञ्चानां त्वा पञ्चजनानां यन्त्राय धर्त्राय गृह्णामिति चतुर्भिर्जुह्वामष्टभिरुपभृति चरोस्त्वा पञ्चबिलस्य यन्त्राय धर्त्राय गृह्णामि ब्रह्मणस्त्वा तेजसे यन्त्राय धर्त्राय गृह्णामि सुवीर्याय त्वा गृह्णामि सुप्रजास्त्वाय त्वा गृह्णामि रायस्पोषाय त्वा गृह्णामि ब्रह्मवर्चसाय त्वा गृह्णामीति चतुर्भिर्ध्रुवायां भूरस्माकँ हविर्देवानामाशिषो यजमानस्य देवानां त्वा देवताभ्यो गृह्णामीत्यभिपूर्यमाणामनुमन्त्रयते कामाय त्वा गृह्णामीति’ इति।  
 प्राच्‍यादिषूर्ध्वान्तासु पञ्चसु दिक्षु वर्तमाना वायवः पञ्चसंख्याकाः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाना᳓न् त्वा दिशाय्ँ᳓ यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +608,14 @@ For a prop, a support, of the five quarters I take thee.
 
 ते चाग्निचयनाङ्गेषु मन्त्रेष्वेवमाम्नायन्ते - “यत्ते रुद्र पुरो धनुस्तद्वातो अनु वातु ते यत्ते रुद्र दक्षिणा धनुस्तद्वातो अनु वातु ते यत्ते रुद्र पश्चाद्धनुस्तद्वातो अनु वातु ते यत्ते रुद्रोत्तराद्धनुस्ताद्वातो अनु वातु ते यत्ते रुद्रोपरि धनुस्तद्वातो अनु वातु ते” इति। यद्वा शरीरमध्ये वर्तमानाः प्राणापानव्यानोदानसमानरूपाः पञ्च वातास्तेषां वातानां यन्त्राय स्वस्वव्यापारेषु नियमनाय धर्त्राय जगद्विधारणकुशलाय हे आज्य त्वां गृह्णामि। ऋतूनां पञ्चत्वमैतरेयब्राह्मणे प्रतिपादितम् - “द्वादशमासाः पञ्चर्तवो हेमन्तशिशिरयोः समासेन” इति। प्राच्यादीनामूर्ध्वान्तानां दिशां पञ्चत्वं प्रसिद्धम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चाना᳓न् त्वा पञ्चजना᳓नाय्ँ यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,17 +644,23 @@ For a prop, a support, of the five five-peoples I take thee.
 पञ्चजनशब्दः  समस्तो देवमनुष्यासुररक्षोगन्धर्वेषु रूढः।
 ते च देवादयः पञ्चसंख्याकाः। चरुशब्दः पाकाधारभूतां स्थालीमाचष्टे। सा च क्वचित्पञ्चबिलैर्युज्यते। तच्च पुरुषमेधावसाने कल्पसूत्रकार उदाजहार- “पञ्च-बिलस्य चरोर्विज्ञायत आज्य आग्नेयः पूर्वस्मिन्बिले, दधन्यैन्द्रो दक्षिणे, शृते प्रतिदुहि नीतमिश्रे वा वैश्वदेवः पश्चिमे, अप्सु मैत्रावरुण उत्तरे, पयसि बार्हस्पत्यो मध्यमे” इति। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18-25उत्तरैर् अष्टभिर् औप-भृतम् अनुमन्त्रयते।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चरो᳓स्+++(=पात्रस्य)+++ त्वा प᳓ञ्चबिलस्य यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -616,11 +688,14 @@ For a prop, a support, of the pot with five holes I take thee.
 
 तस्य पञ्चबिलस्य चरोर्नियमनायेति योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणस् त्वा ते᳓जसे यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,11 +723,14 @@ For the brilliance of the Brahman, for a prop, a support, I take thee.
 
 ब्रह्मणो ब्राह्मणजातेः। तेजो ब्रह्मवर्चसं तस्य यन्त्राय। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्र᳓स्य त्वौ᳓जसे यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -680,11 +758,14 @@ For the might of the ruling class, for a prop, a support, I take thee [2].
 
 क्षत्त्रियजातेरोजो युद्धसामार्थ्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशे᳓ त्वा यन्त्रा᳓य धर्त्रा᳓य गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -710,11 +791,14 @@ For the people, for a prop, a support I take thee.
 
 वैश्‍यजातेः कृषिवाणिज्यादिषु नियमनम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवी᳓र्याय त्वा गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -740,11 +824,14 @@ For excellence of strength I take thee.
 
 सुवीर्यं सर्वेषां स्वस्वव्यापारेषु सामर्थ्यातिशयः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रजास्त्वा᳓य त्वा गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -770,11 +857,14 @@ For wealth of offspring I take thee.
 
 सुप्रजास्त्वं शोभनापत्यत्वम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राय᳓स्पो᳓षाय त्वा गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -800,11 +890,14 @@ For increase of wealth I take thee.
 
 रायस्पोषो धनस्पोषो धनपुष्टिः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवर्चसा᳓य त्वा गृह्णामि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -830,8 +923,11 @@ For splendour I take thee.
 
 ब्रह्मवर्चसं श्रुताध्ययनसंपत्तिः। ब्रह्मणस्त्वा तेजस इत्यत्र शिष्टाङ्गीकृतसाधुवेषरूपं (तेजो) द्रष्टव्यम्। भूरस्माकमित्याद्यो मन्त्रः। हविर्देवानामिति द्वितीयः। आशिषो यजमानस्येति तृतीयः। अवशिष्टश्चतुर्थः। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 26-27शेषेण ध्रौवम् अनुमत्रयते - भूरस्माकमिति ॥ 
@@ -843,6 +939,7 @@ _______
 दे॒वाना॑न्त्वा दे॒वता॑भ्यो गृह्णामि
 कामा॑य त्वा गृह्णामि ॥ [3] 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -851,6 +948,8 @@ _______
 आशि᳓षो य᳓जमानस्य  
 देवा᳓नान् त्वा देव᳓ताभ्यो गृह्णामि। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -887,11 +986,14 @@ the oblation the gods, the benedictions the sacrificers'; for the divinities of 
 
 हे आज्य त्वमस्माकं श्रेयसे भव। देवानां हविर्भव। यजमानस्य या आशिषस्तद्रूपं भव। देवानां तर्पकं त्वां देवार्थं गृह्णामि। आपस्तम्बस्य तु भूरस्माकमित्यादिरेक एव मन्त्रः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓माय त्वा गृह्णामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -918,6 +1020,7 @@ For desire I take thee.
 <details><summary>सायण-टीका</summary>
 
 हे आज्य हविर्भागिन्यो देवतास्त्वां यथा यथा कामयन्ते तथाविधकामाय त्वां गृह्णामि। 
+</details>
 </details>
 </details>
 

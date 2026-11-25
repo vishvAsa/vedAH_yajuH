@@ -7,40 +7,193 @@ unicode_script = "devanagari"
 <details open><summary><h1>०५ प्रयाजाः ...{Loading}...</h1></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।  
-तनू॒नपा॑दग्न॒ आज्य॑स्य वेतु ।  
-इ॒डो अ॑ग्न॒ आज्य॑स्य वियन्तु ।   
-ब॒र्हिर॑ग्न॒ आज्य॑स्य वेतु ।   
-स्वाहा॒ऽग्निम् ।  
-स्वाहा॒ सोम॑म् ।  
-स्वाहा॒ऽग्निम् ।   
-स्वाहा॑ प्र॒जाप॑तिम् ।   
-स्वाहा॒ऽग्नीषोमौ॑ ।   
-स्वाहे॑न्द्रा॒ग्नी ।   
-स्वाहेन्द्र॑म् ।   
-स्वाहा॑ महे॒न्द्रम् ।   
-स्वाहा॑ दे॒वाँ आ॑ज्य॒पान् ।   
-स्वाहा॒ऽग्निँ हो॒त्राज्जु॑षा॒णाः ।   
-अग्न॒ आज्य॑स्य वियन्तु ॥8॥  
+समि᳓धो अग्न आ᳓ज्यस्य वियन्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
-स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।  
-तनू॒नपा॑दग्न॒ आज्य॑स्य वेतु ।  
+स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सम्-इ᳓धः । अग्ने । आ᳓ज्यस्य । वियन्तु ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓नून᳓पाद् अग्न आ᳓ज्यस्य वेतु ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+तनू॒नपा॑दग्न॒ आज्य॑स्य वेतु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓नू-न᳓पात् । अग्ने । आ᳓ज्यस्य । वेतु ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इडो᳓ अग्न आ᳓ज्यस्य वियन्तु ।   
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 इ॒डो अ॑ग्न॒ आज्य॑स्य वियन्तु ।   
-ब॒र्हिर॑ग्न॒ आज्य॑स्य वेतु ।   
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+इडः᳓ । अग्ने । आ᳓ज्यस्य । वियन्तु ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बर्हि᳓र् अग्न आ᳓ज्यस्य वेतु ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+ब॒र्हिर॑ग्न॒ आज्य॑स्य वेतु ।
+
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+बर्हिः᳓ । अग्ने । आ᳓ज्यस्य । वेतु ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा᳓हा ऽग्नि᳓म् ।  
+स्वा᳓हा सो᳓मम् ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॒ऽग्निम् ।  
-स्वाहा॒ सोम॑म् ।  
+स्वाहा॒ सोम॑म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । सो᳓मम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा᳓हाऽग्नि᳓म् ।   
+स्वा᳓हा प्रजा᳓पतिम् ।   
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॒ऽग्निम् ।   
 स्वाहा॑ प्र॒जाप॑तिम् ।   
+
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । प्रजा᳓-पतिम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा᳓हाऽग्नी᳓षो᳓मौ ।   
+स्वा᳓हेन्द्राग्नी᳓ ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॒ऽग्नीषोमौ॑ ।   
-स्वाहे॑न्द्रा॒ग्नी ।   
+स्वाहे॑न्द्रा॒ग्नी ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । अग्नी᳓षो᳓मौ । स्वा᳓हा । इन्द्राग्नी᳓ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा᳓हे᳓न्द्रम् ।   
+स्वा᳓हा महेन्द्र᳓म् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 स्वाहेन्द्र॑म् ।   
-स्वाहा॑ महे॒न्द्रम् ।   
+स्वाहा॑ महे॒न्द्रम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । इ᳓न्द्रम् । स्वा᳓हा । महेन्द्र᳓म् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वा᳓हा देवाँ᳓ आज्यपा᳓न् ।   
+स्वा᳓हाऽग्निँ᳓ होत्रा᳓ज्जुषाणाः᳓ ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
 स्वाहा॑ दे॒वाँ आ॑ज्य॒पान् ।   
-स्वाहा॒ऽग्निँ हो॒त्राज्जु॑षा॒णाः ।   
-अग्न॒ आज्य॑स्य वियन्तु ॥8॥  
+स्वाहा॒ऽग्निँ हो॒त्राज्जु॑षा॒णाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+स्वा᳓हा । देवा᳓न् । आज्य-पा᳓न् । स्वा᳓हा । अग्नि᳓म् । होत्रा᳓त् । जुषाणाः᳓ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓ग्न आ᳓ज्यस्य वियन्तु ॥8॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+अग्न॒ आज्य॑स्य वियन्तु ॥8॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓ग्ने । आ᳓ज्यस्य । वियन्तु ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -49,6 +202,13 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे पञ्चमोऽनुवाकः ॥  
 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+“ समिधो अग्न आज्यस्य इत्यनुवाकः समिधो यजति " इत्यत्र व्याख्यातः ।  
+([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/01) द्रष्टव्यम्।)
+</details>
 </details>
 </details>
 </div>
