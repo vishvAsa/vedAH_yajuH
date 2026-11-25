@@ -11,11 +11,14 @@ title = "ये मारुताम्"
 तेन **पासि** गुह्यं गोनाम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 They worship rudra of beautiful teeth among the maruts,   who is [with] the sharp arrow;  
 Having placed the foot of viShNu as the highest,  
 by that you protect the secret of the "cows".
+</details>
 </details>
 
 
@@ -27,6 +30,8 @@ Having made it the place-holder of viShNu-s step,
 by that you (together) protect the secret of the "cows".
 </details>
 
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,4 +51,5 @@ The mantra is close but not identical to a triShTubh mantra of the atri-s to agn
 तेन॑ **पासि॒** गुह्यं॒ नाम॒ गोना॑म् ॥
 
 It is clear that the vaikhAnasa mantra is derived from the RV one.  At first sight, one might think the vaikhAnasa-s intended to give the RV mantra but have erroneously recorded it. However, we believe that the vaikhAnasa-s, deliberately, albeit clumsily, reworked the RV mantra to make it viShNu-centric
+</details>
 </details>

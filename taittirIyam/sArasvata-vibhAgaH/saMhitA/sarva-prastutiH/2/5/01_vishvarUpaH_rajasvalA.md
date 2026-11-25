@@ -6,15 +6,20 @@ title = "०१ विश्वरूपः रजस्वला च"
 
 ## विश्वरूपस् त्वाष्ट्रः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि॒श्वरू॑पो॒ वै त्वा॒ष्ट्रᳶ पु॒रोहि॑तो दे॒वाना॑मासीत्स्व॒स्रीयोऽसु॑राणा॒न्तस्य॒ त्रीणि॑ शी॒र्षाण्या॑सन्त्सोम॒पानँ॑ सुरा॒पान॑म॒न्नाद॑नँ॒ स प्र॒त्यक्ष॑न्दे॒वेभ्यो॑ भा॒गम॑वदत्प॒रोक्ष॒मसु॑रेभ्य॒स्सर्व॑स्मै॒ वै प्र॒त्यक्ष॑म्भा॒गव्ँव॑दन्ति॒ यस्मा॑ ए॒व प॒रोक्षव्ँ॒वद॑न्ति॒ तस्य॑ भा॒ग उ॑दि॒तस्तस्मा॒दिन्द्रो॑ऽबिभेदी॒दृङ्वै रा॒ष्ट्रव्ँवि प॒र्याव॑र्तय॒तीति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व᳓रूपो वै᳓ त्वाष्ट्रᳶ᳓ पुरो᳓हितो देवा᳓नाम् आसीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ Viśvarupa, son of Tvastr, was the domestic priest of the gods,
 
 विश्वरूपो वै इति। विश्वानि बहुविधानि रूपाणि यस्यासौ विश्वरूपः। त्रिभिः शिरोभिरुपेतत्वाद्विश्वरूपत्वम्। या विश्वरूपनामकस्त्वष्टुः पुत्रः स देवानां पुरोहितो न तु शरीरसंबन्धी, 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्री᳓यो᳓ ऽसुराणाम् +++(आसीत्)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,12 +80,15 @@ and the sister's son of the Asuras.
 
 असुराणां तु भागिनेयः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य त्री᳓णि शीर्षा᳓ण्य् आसन् -  
 सोम-पा᳓नँ सुरा-पा᳓नम् अन्ना᳓दनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,6 +116,7 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 
 स च सात्विकेन शिरसा सोमं पिबति। राजसेनान्नमत्ति। तापसेन सुरां पिबति। 
 </details>
+</details>
 
 ## वञ्चनम्
 
@@ -112,6 +124,8 @@ He had three heads, one which drank Soma, one Sura, and one which ate food.
 
 स᳓ प्रत्य᳓क्षन् देवे᳓भ्यो भाग᳓म् अवदत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +151,14 @@ He promised openly the share to the gods,
 
 स च यज्ञमण्डपेषु गत्वा सर्वेषां श्रोत्रप्रत्यक्षं यथा भवति तथा देवेभ्यो हविर्भागो युक्त इति वदति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षम् अ᳓सुरेभ्यः +++(भागमवदत्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +184,14 @@ secretly to the Asuras.
 
 सर्वेषां श्रोत्रप्रत्यक्षं यथा भवति तथा रहस्य ऋत्विग्भिः सहायं हविर्भागोऽसुरेभ्यो युक्तोऽतस्तानेवोद्दिश्य प्रयच्छतेति स एवं वदति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै वै᳓ प्रत्य᳓क्षम् भागव्ँ᳓ वदन्ति +++(अपहृदयाः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,12 +212,15 @@ Men promise openly the share to every one;
 
 अथैवं कुर्वतोऽस्य दुष्टाभिप्रायत्वम् अस्तीत्याह - सर्वस्मा इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्मा एव᳓ परो᳓क्षव्ँ व᳓दन्ति-  
 त᳓स्य भाग᳓ उदितः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,6 +255,7 @@ if they promise any one secretly, his share is indeed promised.
 
 लोकेऽपि तवायं भाग इति सर्वस्मै पुरुषाय प्रीतिमुत्पादयितुं तत्समीपे सर्वे वदन्ति। हृदयपूर्वकत्वाभावान्न स उदितो भवति। परोक्षं यदर्थं तु भाग उच्यते तस्यैव भागो हृदयपूर्वकत्वादुदितो भवति।
 </details>
+</details>
 
 ## शिरश्-छेदः
 
@@ -240,6 +264,8 @@ if they promise any one secretly, his share is indeed promised.
 त᳓स्माद् इ᳓न्द्रोऽबिभेद्-  
 "ईदृ᳓ङ् वै᳓ राष्ट्रव्ँ᳓ वि᳓ पर्या᳓वर्तयती᳓"ति +++(असुरान् प्रति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,16 +294,22 @@ Therefore Indra was afraid (thinking), 'Such an one is diverting the sovereignty
 
 एवं वृत्तान्तं श्रुत्वा तस्माद्विश्वरूपादिन्द्रो ऽबिभेत्। किमिति,  ईदृक्स्वामिद्रोहं सर्वथा कृत्वा राष्ट्रं विपर्यावर्तयतीति। अस्मत्तोऽपनीयासुरेभ्यसमर्पणं विपर्यावृत्तिः। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तस्य॒ वज्र॑मा॒दाय॑ शी॒र्षाण्य॑च्छिन॒द्यत्सो॑म॒पान॑म् [1]  आसी॒त्स क॒पिञ्ज॑लोऽभव॒द्यत्सु॑रा॒पानँ॒ स क॑ल॒विङ्को॒ यद॒न्नाद॑नँ॒ स ति॑त्ति॒रिस्तस्या॑ञ्ज॒लिना॑ ब्रह्मह॒त्यामुपा॑गृह्णा॒त्ताँ सव्ँ॑वत्स॒रम॑बिभ॒स्तम्भू॒तान्य॒भ्य॑क्रोश॒न्ब्रह्म॑ह॒न्निति॒ स पृ॑थि॒वीमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृहा॒णेति॒ साब्र॑वी॒द्वरव्ँ॑वृणै खा॒तात्प॑राभवि॒ष्यन्ती॑ मन्ये॒ ततो॒ मा परा॑ भूव॒मिति॑ पु॒रा ते॑ [2]  सव्ँ॒व॒त्स॒रादपि॑ रोहा॒दित्य॑ब्रवी॒त्तस्मा॑त्पु॒रा सव्ँ॑वत्स॒रात्पृ॑थि॒व्यै खा॒तमपि॑ रोहति॒ वारे॑वृतँ॒ ह्य॑स्यै॒ तृती॑यम्ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्णात्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य व᳓ज्रम् आदा᳓य शीर्षा᳓ण्य् अच्छिनत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -303,12 +335,15 @@ He took his bolt and smote off his heads.
 
 ततस्तस्य द्रोहिण शिरःसु च्छिन्नेषु तानि शिरांसि पक्षिः त्रयरूपेणोत्पन्नानि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सोम-पा᳓नम् आ᳓सीत्।  
 स᳓ कपि᳓ञ्जलोऽभवद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -332,11 +367,14 @@ He took his bolt and smote off his heads.
 
 कलविङ्कश्चटकविशेषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सुरापा᳓नँ स᳓ कलवि᳓ङ्को ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +390,14 @@ He took his bolt and smote off his heads.
 
 यत् । सु॒रा॒पान॒मिति॑ सुरा-पान॑म् । सः । क॒ल॒विङ्कः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अन्ना᳓दनँ स᳓ तित्तिरिः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,6 +418,7 @@ He took his bolt and smote off his heads.
 
 तित्तिरिः तिरश्चिदीनि [तित्तिरिति] कटुकरावीति ।
 </details>
+</details>
 
 ## ब्रह्म-हत्या
 
@@ -384,6 +426,8 @@ He took his bolt and smote off his heads.
 
 त᳓स्याञ्जलि᳓ना ब्रह्म-हत्या᳓म् उ᳓पागृह्णात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -411,11 +455,14 @@ He seized with his hand the guilt of slaying him,
 
 तस्याञ्जलिनेति। तस्यासुरस्य वधेन निष्पन्ना या ब्रह्महत्या तामञ्जालिना स्वीचकार।  पापिनां शिक्षायामीश्वरेण नियुक्तानां यमचित्रगुप्तादीनां पुरतोऽञ्जलिंकृत्वा निर्भयः सन्ब्रह्महत्या मया बुद्धिपूर्वकमेव कृतेत्येवमङ्गी चकारेत्यर्थः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताँ᳓ +++(ब्रह्महत्यां)+++ सव्ँवत्सर᳓म् अबिभः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -441,11 +488,14 @@ and bore it for a year.
 
 प्रायश्चित्तमकृत्वा संवत्सरं निरन्तरं ब्रह्महत्यामङ्गीकृत्यैव तस्थौ। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् भूता᳓न्य् अभ्य᳙क्रोशन् ब्र᳓ह्महन्न् इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,6 +521,7 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 
 आत्मतत्त्वज्ञानेः पापलेपाभावाद्भीत्यभावस्तस्य युक्तः। अत एव कौषीतकिन इन्द्रवाक्यमेतदामनन्ति “यन्मां हि विजानीयास्त्रीशीर्षाणं त्वाष्ट्रमहमहनमरुन्मुखान्यतीन्सालावृकेभ्यः प्रायच्छ” इत्यादि। दुरिताभावेऽपि सर्वप्राणिनस्तमिन्द्रं ब्रह्महन्नित्येवं संबोध्याभितस्तस्याऽऽक्रोशं कृतवन्तः।  
 </details>
+</details>
 
 ## मार्जनम् - पृथिव्याम्
 
@@ -479,6 +530,8 @@ Creatures called out upon him, 'Thou art a Brahman slayer.'
 स᳓ पृथिवी᳓म् उ᳓पासीदत् -  
 "अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृहाणे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,12 +563,15 @@ He appealed to the earth, 'Take a third part of my guilt.'
 ततस्तस्य जनापवादस्य परिहारायेन्द्रेणानुष्ठितमुपायविशेषं दर्शयति—  
 स पृथिवीमिति। उपासीददुपेत्य प्रार्थितवान्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ब्रवी᳓त् -  
 "व᳓रव्ँ वृणै
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,11 +587,14 @@ She said, 'Let me choose a boon.
 
 सा । अ॒ब्र॒वी॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खाता᳓त् पराभविष्य᳓न्ती मन्ये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,11 +622,14 @@ I deem that I shall be overcome through digging.
 
 खातात्पराभविष्यन्तीमन्ये, जनाः स्वेच्छया तत्र तत्र भूमिं खनन्ति तदुपद्रवात्पराभूता पीडिता भविष्यामीति मनसा चिन्तयामि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो मा᳓ प᳓रा भूवम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +650,14 @@ Let me not be overcome by that.'
 
 ततो निमित्तात् अहं मा पराभूवमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पुरा᳓ ते᳓  सव्ँवत्सरा᳓द् अ᳓पि रोहाद्" इ᳓त्य् अब्रवीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,12 +683,15 @@ He replied, 'Before [2] a year is out it will grow up for thee.'
 
 खातप्रदेशः संपूरणमन्तरेण पांसुप्रक्षेपात्तृणाद्युत्पत्तेर्वाऽपिरोहात्पुरितो भूयादिति वरः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पुरा᳓ सव्ँवत्सरा᳓त् पृथिव्यै᳓ खात᳓म् अ᳓पि रो᳓ह᳓ति᳓  
 वा᳓रे-वृतँ ह्य् अ᳙स्यै
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -649,11 +717,14 @@ Therefore before the year is out the dug-out portion of earth grows up again, fo
 
 तदिदमस्य वारेवृत्तमस्याः पृथिव्याः खातपूरणंवरेण लब्धम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -674,18 +745,24 @@ She took a third of his guilt.
 
 वरे हितः वरणकालः । ततस्तृतीयं प्रत्यगृह्णात् पृथिवी ब्रह्महत्यायाः ॥
 </details>
+</details>
 
 ### स्वकृतम् इरिणम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तत्स्वकृ॑त॒मिरि॑णमभव॒त्तस्मा॒दाहि॑ताग्निश्श्र॒द्धादे॑व॒स्स्वकृ॑त॒ इरि॑णे॒ नाव॑ स्येद्ब्रह्मह॒त्यायै॒ ह्ये॑ष वर्णः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् स्व᳓कृतम् इ᳓रिणम् अभवत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -711,11 +788,14 @@ That became a natural fissure;
 
 पृथिव्याः स्वीकृतस्तृतीयो ब्रह्महत्याया भागः स्वकृतमिरिणमभवत्। इतस्तत आनीय प्रक्षिप्तं न भवतीति स्वतःसिद्धमूषरक्षेत्त्रमासीत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आ᳓हिताग्निश् श्रद्धा᳓-देवस् स्व᳓कृत इ᳓रिणे ना᳓वस्येत्+++(←वस्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -741,11 +821,14 @@ therefore one who has piled up a fire-altar and whose deity is faith should not 
 
 तस्मादिरिणं ब्रह्महत्यायाः स्वरूपं तस्मादाहिताग्निः श्रद्धादेवस्तस्मिन्निरिणे कदाचिदपि न तिष्ठेत्। यद्वा, देवयजनत्वेन नाध्यवस्येत्। श्रद्धैव देवो यस्यासौ श्रद्धावानित्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्महत्या᳓यै+++(या)+++ ह्य् ए᳓ष᳓ व᳓र्णः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -771,6 +854,7 @@ for that is the colour of guilt.
 
 स वन॒स्पती॒नुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॒ ते॑ऽब्रुव॒न्वरव्ँ॑वृणामहै वृ॒क्णात् [3]  प॒रा॒भ॒वि॒ष्यन्तो॑ मन्यामहे॒ ततो॒ मा परा॑ भू॒मेत्या॒व्रश्च॑नाद्वो॒ भूयाँ॑स॒ उत्ति॑ष्ठा॒नित्य॑ब्रवी॒त्तस्मा॑दा॒व्रश्च॑नाद्वृ॒क्षाणा॒म्भूयाँ॑स॒ उत्ति॑ष्ठन्ति॒ वारे॑वृतँ॒ ह्ये॑षा॒न्तृती॑यम्ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्त्स नि॑र्या॒सो॑ऽभव॒त्तस्मा॑न्निर्या॒सस्य॒ नाश्य॑म्ब्रह्मह॒त्यायै॒ ह्ये॑ष वर्णः
 </details>
+</details>
 
 ## मार्जनम् - वनस्पतिषु
 
@@ -779,6 +863,8 @@ for that is the colour of guilt.
 स᳓ व᳓नस्प᳓तीन् उ᳓पासीत् -   
 "अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृह्णीते᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -805,12 +891,15 @@ He appealed to the trees, 'Take a third part of my guilt.'
 
 एकस्य ब्रह्महत्याभागस्य परिहारोपायमुक्त्वाऽपरस्य तं दर्शयति—   **स वनस्पतीनिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳙ऽब्रुवन् -  
 "व᳓रव्ँ वृणामहै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -827,11 +916,14 @@ They said, 'Let us choose a boon.
 
 ते । अ॒ब्रु॒व॒न् । वर॑म् । वृ॒णा॒म॒है॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्णा᳓त्+++(←वृश् छेदे)+++ पराभविष्य᳓न्तो मन्यामहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -859,11 +951,14 @@ We deem that we shall be overcome through pruning [3].
 
 **वृक्णात्** च्छेदनात्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो मा᳓ प᳓रा भूमे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -879,11 +974,14 @@ Let us not be overcome by that.'
 
 ततः॑ । मा । परेति॑ । भू॒म॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आव्र᳓श्चनाद् वो भू᳓याँस उ᳓त्तिष्ठान्" इ᳓त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -905,11 +1003,14 @@ He replied, 'From pruning shall more (shoots) spring up for you.'
 आव्रश्चनाच्छिन्नप्रदेशाद्भूयांसो बह्वंकुरा उत्तिष्ठन्त्विति वरः। वृक्षान्निर्गत्य घनीभूत रसो निर्यासः। ब्रह्महत्याया स्वरूपत्वानिर्यासस्य स्वरूपं न भोज्यं भवति।   
 अपि च पक्षान्तरमस्ति। न सर्वोऽपि निर्यासो निषिद्धः, किंतु यो लोहितवर्णो यश्च च्छिन्नवृक्षप्रदेशान्निर्गतस्तदेवोभयं निषिद्धम्। अन्यस्य तु निर्यासस्य स्वरूपमाश्यमिच्छायां सत्यामशितुं योग्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आव्र᳓श्चनाद् वृक्षा᳓णाम् भू᳓याँस उ᳓त्तिष्ठन्ति - वा᳓रेवृतँ ह्य् ए᳙षाम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -925,6 +1026,7 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 
 तस्मा॑त् । आ॒व्रश्च॑ना॒दित्या॑-व्रश्च॑नात् । वृ॒क्षाणा॑म् । भूयाँ॑सः । उदिति॑ । ति॒ष्ठ॒न्ति॒ । वारे॑वृत॒मिति॒ वारे॑-वृ॒त॒म् । हि । ए॒षा॒म् ।
 </details>
+</details>
 
 ### निर्यासः
 
@@ -933,6 +1035,8 @@ Therefore from the pruning of trees more (shoots) spring up, for that was what t
 तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णन् ।  
 स᳓ निर्यासो᳙ऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -949,12 +1053,15 @@ They took a third part of his guilt, it became sap;
 
 तृती॑यम् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । प्रतीति॑ । अ॒गृ॒ह्ण॒न् । सः । नि॒र्या॒स इति॑ निः-या॒सः । अ॒भ॒व॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् निर्यास᳓स्य ना᳓श्यम्।  
 ब्रह्महत्या᳓यै ह्य् ए᳓ष᳓ व᳓र्णः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -971,11 +1078,14 @@ therefore one should not partake of sap, for it is the colour of guilt.
 
 तस्मा॑त् । नि॒र्या॒सस्येति॑ निः-या॒सस्य॑ । न । आ॒श्य॑म् । ब्र॒ह्म॒ह॒त्याया॒ इति॑ ब्रह्म-ह॒त्यायै॑ । हि । ए॒षः । वर्णः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो ख᳓लु य᳓ एव᳓ लो᳓हितो यो᳓ वाऽऽव्र᳓श्चनान् निर्ये᳓षति त᳓स्य ना᳓श्यम् [4] का᳓मम् अन्य᳓स्य
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1000,12 +1110,16 @@ Or rather of the sap which is red or which comes from the pruning one should not
 **अन्यस्येति ।** अलोहितस्य अनाव्रश्चनान्निर्गतस्य निर्यासस्य, कामं आश्यं नाश्यं वा ।  
 काम्यत इति कामम् ॥
 </details>
+</details>
 
 ## मार्जनं स्त्रीषु
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स स्त्री॑षँसा॒दमुपा॑सीदद॒स्यै ब्र॑ह्मह॒त्यायै॒ तृती॑य॒म्प्रति॑ गृह्णी॒तेति॒ ता अ॑ब्रुव॒न्वरव्ँ॑वृणामहा॒ ऋत्वि॑यात्प्र॒जाव्ँवि॑न्दामहै॒ काम॒मा विज॑नितो॒स्सम्भ॑वा॒मेति॒ तस्मा॒दृत्वि॑या॒त्स्त्रियᳶ॑ प्र॒जाव्ँवि॑न्दन्ते॒ काम॒मा विज॑नितो॒स्सम्भ॑वन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1013,6 +1127,8 @@ Or rather of the sap which is red or which comes from the pruning one should not
 स᳓ स्त्री-षँसाद᳓म् उ᳓पासीदत् -  
 "अस्यै᳓ ब्रह्महत्या᳓यै तृ᳓तीयम् प्र᳓ति गृह्णीते᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1040,12 +1156,15 @@ He appealed to a concourse of women, 'Take the third of my guilt.'
 
 त्रिषु ब्रह्महत्याभागेषु द्वयोः परिहारमुक्त्वा तृतीयस्यावशिष्टस्य परिहारं दर्शयति—  **स स्त्रीषँ सादमिति।** स्त्रियः सम्यक्सीदन्ति विश्रम्भेणोपविशन्ति यस्यां सभायामिति स्त्रीसभाविशेषः **स्त्रीषँ सादः।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अब्रुवन् ।  
 व᳓रव्ँ वृणामहै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1062,11 +1181,14 @@ They said, 'Let us choose a boon;
 
 ताः । अ॒ब्रु॒व॒न् । वर॑म् । वृ॒णा॒म॒है॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऋ᳓त्वियात् प्रजाव्ँ᳓ विन्दामहै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1098,11 +1220,14 @@ let us obtain offspring from after the menses;
 
 गर्भोपद्रूवः प्रत्यवायश्च निषिद्धदिनकृतोऽस्माकं मा भूदिति वरः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(गर्भहानिं विना)+++ का᳓मम् आ᳓ वि᳓जनितोस्+++(=प्रसवतः [सम्भोगे])+++ स᳓म्भवामे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1118,12 +1243,15 @@ let us enjoy intercourse at will up to birth.'
 
 काम॑म् । एति॑ । विज॑नितो॒रिति॒ वि-ज॒नि॒तोः॒ । समिति॑ । भ॒वा॒म॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् ऋ᳓त्वियात् स्त्रि᳓यᳶ प्रजाव्ँ᳓ विन्दन्ते ।  
 का᳓मम् आ᳓ वि᳓जनितोस् स᳓म्भवन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1154,6 +1282,7 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 
 वारे॑वृतँ॒ ह्या॑सा॒न्तृती॑यम्ब्रह्मह॒त्यायै॒ प्रत्य॑गृह्ण॒न्त्सा मल॑वद्वासा अभव॒त्तस्मा॒न्मल॑वद्वाससा॒ न सव्ँव॑देत [5]  न स॒हासी॑त॒ नास्या॒ अन्न॑मद्याद्ब्रह्मह॒त्यायै॒ ह्ये॑षा वर्ण॑म्प्रति॒मुच्यास्तेऽथो॒ खल्वा॑हुर॒भ्यञ्ज॑नव्ँ॒ वाव स्त्रि॒या अन्न॑म॒भ्यञ्ज॑नमे॒व न प्र॑ति॒गृह्य॒ङ्काम॑म॒न्यदिति
 </details>
+</details>
 
 ### रजः
 
@@ -1162,6 +1291,8 @@ Therefore women obtain offspring from after the menses, and enjoy intercourse at
 वा᳓रेवृतँ ह्य् आ᳙सा᳓न्, तृ᳓तीयम् ब्रह्महत्या᳓यै प्र᳓त्यगृह्णन् ।    
 सा᳓ म᳓लवद्वासा अभवत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1192,12 +1323,15 @@ They took a third of his guilt, it became (a woman) with stained garments;
 
 यो ब्रह्महत्यायास्तृतीयो भागः सा मलवद्वासा रजस्वला योषिदभवत् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् म᳓लवद्वाससा न᳓ सव्ँ᳓वदेत ।  
 +++(मलवद्वाससा)+++न᳓ सहा᳓सीत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1225,11 +1359,14 @@ therefore one should not converse with (a woman) with stained garments [5], one 
 
 यस्मादियं ब्रह्महत्याया रूपं शरीरे कञ्चुकवत्प्रतिमुच्या ऽस्ते तस्मात्तया सह संभाषणं न कुर्यात्। तया सहैकास्मिन्गृहे वासो न कर्तव्यः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓स्या अ᳓न्नम् अद्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1255,11 +1392,14 @@ nor eat her food,
 
 तत्स्वामिकं तत्स्पृष्टं वाऽन्नं नाश्नीयात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्महत्या᳓यै ह्य् ए᳓षा᳓ व᳓र्णम् प्रतिमु᳓च्या᳓स्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1280,12 +1420,15 @@ for she keeps emitting the colour of guilt.
 
 एषा हि ब्रह्महत्याया वर्णं प्रतिमुच्य देहे बद्ध्वाऽऽस्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो ख᳓ल्व् आहुर् -
 अभ्य᳓ञ्जनव्ँ+++(→तैलादि)+++ वा᳓व᳓ स्त्रिया᳓ अ᳓न्नम् , अभ्य᳓ञ्जनम् एव᳓ न᳓ +++(स्त्रिया)+++ प्रतिगृ᳓ह्यङ् का᳓मम् अन्य᳓द् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1321,10 +1464,14 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 
 अन्यदन्नं सत्यामिच्छायां भोक्तव्यमिति। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 याम्मल॑वद्वाससँ स॒म्भव॑न्ति॒ यस्ततो॒ जाय॑ते॒ सो॑ऽभिश॒स्तो यामर॑ण्ये॒ तस्यै॑ स्ते॒नो याम्परा॑ची॒न्तस्यै॑ ह्रीतमु॒ख्य॑पग॒ल्भो या स्नाति॒ तस्या॑ अ॒प्सु मारु॑को॒ या [6] अ॒भ्य॒ङ्क्ते तस्यै॑ दु॒श्चर्मा॒ या प्र॑लि॒खते॒ तस्यै॑ खल॒तिर॑पमा॒री याऽऽङ्क्ते तस्यै॑ का॒णो या द॒तो धाव॑ते॒ तस्यै॑ श्या॒वद॒न्या न॒खानि॑ निकृ॒न्तते॒ तस्यै॑ कुन॒खी या कृ॒णत्ति॒ तस्यै॑ क्ली॒बो या रज्जुँ॑ सृ॒जति॒ तस्या॑ उ॒द्बन्धु॑को॒ या प॒र्णेन॒ पिब॑ति॒ तस्या॑ उ॒न्मादु॑को॒ या ख॒र्वेण॒ पिब॑ति॒ तस्यै॑ ख॒र्वस्ति॒स्रो रात्री॑र्व्र॒तञ्च॑रेदञ्ज॒लिना॑ वा॒ पिबे॒दख॑र्वेण वा॒ पात्रे॑ण प्र॒जायै॑ गोपी॒थाय॑ ॥ [7]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1332,6 +1479,8 @@ Or rather they say, 'Woman's food is unguent, and there fore one should not acce
 या᳓म् म᳓लवद्वाससँ सम्भ᳓वन्ति -   
 य᳓स् त᳓तो जा᳓यते सो᳙ऽभिशस्तः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1354,11 +1503,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 8यामित्यादि ॥ **अभिशस्तः** मिथ्यारोपित-पातकेन दूषितः गृहे अभिशस्तः,  
 अरण्ये **स्तेनः** चोरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓म् अ᳓रण्ये त᳓स्यै स्तेनः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1381,12 +1533,15 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 यामरण्ये, मलावद्वाससँ संभवन्तीत्यनुवर्तते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓म् +++(अशनादिना)+++ प᳓राचीन्,  
 त᳓स्यै ह्रीत-मुख्य् अ᳙पगल्भः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1413,11 +1568,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **पराचीम्** उच्चारणभीत्या लज्जया वा पराङ्मुखीम्। सभायामवाङ्मुखो वक्तुमशक्तो ह्रीतमुख्यपगल्भ इत्युच्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ स्ना᳓ति त᳓स्या अप्सु᳓ मा᳓रुकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1443,11 +1601,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **मारुको** मरणशीलः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ ऽभ्यङ्क्ते᳓ त᳓स्यै दुश्च᳓र्मा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1473,11 +1634,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **दुश्चर्मा** कुष्टी। प्रलिखते भित्तौ चित्रादिकं करोति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ प्रलिख᳓ते त᳓स्यै खलति᳓र् अपमारी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1503,11 +1667,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **खलतिः** केशशून्यः। **अपमारी** दुर्मरणयुक्तः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ऽऽङ्क्ते᳓ त᳓स्यै काणः᳓  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1533,11 +1700,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **काणः** कुण्ठिताक्षः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ दतो᳓ धा᳓वते - त᳓स्यै श्याव᳓दन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1563,11 +1733,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **श्यावदन्** मलिनदन्तः  ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ नखा᳓नि निकृन्त᳓ते - त᳓स्यै कुनखी᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1588,11 +1761,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **कुनखी** कुत्सितनखः । कृणत्ति कटं सृजति । विकरणव्यत्ययेन श्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ कृण᳓त्ति - त᳓स्यै क्लीबः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1618,11 +1794,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **कृणत्ति** तृणादि च्छिनत्ति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ र᳓ज्जुँ सृज᳓ति - त᳓स्या उद्ब᳓न्धुकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1648,11 +1827,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 उद्बन्धुको रज्जुं बद्ध्वा मरणशीलः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ पर्णे᳓न पि᳓बति - त᳓स्या उन्मा᳓दुकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1673,11 +1855,14 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 
 **उन्मादुकः** उन्मदनशीलः । पूर्ववदुकञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ खर्वे᳓ण - पि᳓बति त᳓स्यै खर्वः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1704,6 +1889,7 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 खर्वेण वह्नि पकेन शरावादिना। 
 खर्वो वामनः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1711,6 +1897,8 @@ The son born of intercourse with (a woman) with stained garments is accursed;
 अञ्जलि᳓ना वा **पि᳓बेद्** -   
 अ᳓खर्वेण वा पा᳓त्रेण प्रजा᳓यै गोपीथा᳓य ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1741,4 +1929,5 @@ For three nights he should keep a vow and should drink from his hand or from a p
 <details><summary>सायण-टीका</summary>
 
 यस्मादुक्ता दोषा वर्तन्ते तस्मात्तत्परिहाराय रजस्वलाव्रतं संभवादिवर्जनरूपं नियममाचरेत्। भोजनेऽञ्जलिरदग्धशरावादिर्वा साधनमस्तु। व्रताचरणमुत्पत्स्यमानायाः प्रजाया रक्षणार्थं भवति।
+</details>
 </details>

@@ -4,15 +4,20 @@ title = "०२ सौमिकब्रह्मत्वविधिः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋष॑यो॒ वा इन्द्र॑म्प्र॒त्यक्ष॒न्नाप॑श्य॒न्तव्ँवसि॑ष्ठᳶ प्र॒त्यक्ष॑म्पश्य॒त्सो॑ऽब्रवी॒द्ब्राह्म॑णन्ते वक्ष्यामि॒ यथा॒ त्वत्पु॑रोहिताᳶ प्र॒जाᳶ प्र॑जनि॒ष्यन्तेऽथ॒ मेत॑रेभ्य॒ ऋषि॑भ्यो॒ मा प्र वो॑च॒ इति॒ तस्मा॑ ए॒तान्त्स्तोम॑भागानब्रवी॒त्ततो॒ वसि॑ष्ठपुरोहिताᳶ प्र॒जाᳶ प्राजा॑यन्त॒ तस्मा॑द्वासि॒ष्ठो ब्र॒ह्मा का॒र्यᳶ॑ प्रैव जा॑यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ᳓षयो वा᳓ इ᳓न्द्रम्प्रत्य᳓क्षन्ना᳓पश्यन् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ The Rsis could not see Indra face to face;
 
 1ऋषयो वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓व᳓सिष्ठᳶ प्रत्य᳓क्षम्पश्यत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,6 +61,7 @@ Vasistha saw him face to face;
 
 तम् । वसि॑ष्ठः । प्र॒त्यक्ष॒मिति॑ प्रति-अक्ष॑म् । अ॒प॒श्य॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -60,6 +69,8 @@ Vasistha saw him face to face;
 ब्रा᳓ह्मणन्ते वक्ष्यामि ।   
 य᳓था त्व᳓त्पुरोहिताᳶ प्रजाᳶ᳓ प्रजनिष्य᳓न्ते᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -82,11 +93,14 @@ he said, 'Holy lore shall I proclaim to you so that people will be propagated wi
 
 ब्रह्मैव ब्राह्मणम् । जातावेकवचनम् । ब्राह्मणमन्त्रांस्तव वक्ष्यामीति । यद्वा - ब्रह्मत्वसाधनं ब्राह्मणं ज्ञानं तद्वक्ष्यामि । शान्तिकादिकर्तृत्वसामान्यात् पुरोहितशब्देन ब्रह्मोच्यते । शान्तिकादिषु पुरस्तान्निधीयते स्थाप्यते इति । 'त्वं पुरोहितो ब्रह्म यासां तादृश्यः प्रजाः प्रजनिष्यन्ते येन तादृशं तव ब्राह्मणं ब्रह्मत्वप्रदं ज्ञानं मन्त्रजातं वा ते वक्ष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ मे᳓तरेभ्य ऋ᳓षिभ्यो मा᳓ प्र᳓ वोच इ᳓ति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,12 +121,15 @@ therefore do thou proclaim me to the other Rsis.'
 
 एतत्त्वमितरेभ्यः ऋषिभ्यो मा प्रवोचः इति वसिष्ठमब्रवीदिन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एता᳓न्त्स्तो᳓मभागानब्रवीत्  ।   
 त᳓तो व᳓सिष्ठपुरोहिताᳶ प्रजाᳶ᳓ प्रा᳓जायन्त ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -134,11 +151,14 @@ To him he proclaimed these shares in the Stoma, therefore people were propagated
 
 उक्त्वा च तस्मै वसिष्ठाय एतान् स्तोमभागान् 'रश्मिरसि' इत्यादीन् अब्रवीत् । ततो वसिष्ठपुरोहिताः वासिष्ठकाः प्रजाः प्राजायन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्वासिष्ठो᳓ ब्रह्मा᳓ कार्यः᳙ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,11 +179,14 @@ therefore a Vasistha should be chosen as the Brahman priest;
 
 तस्माद्वासिष्ठो ब्रह्मा कार्यः स्तोमभागान्विद्यादिति सामर्थ्याद्गम्यते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रै᳓व᳓ जायते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -186,6 +209,9 @@ verily he is propagated.
 
 अत्रायं प्रयोगक्रमः - यत्राह ब्रह्मन् स्तोष्यामः प्रशास्तरिति तद्ब्रह्म प्रसौति 'देव सवितः' इत्येतां प्रतिपदमुक्त्वा 'रश्मिरसि क्षयाय त्वा क्षयं जिन्व' इति एतस्यानुवाकस्य एकैकमुपादाय प्रसौति । एवमेव प्रसवद्वादशभिः अग्निष्टोमं प्रसौति, त्रयोदशभिरत्यग्निष्टोमं, पञ्चदशभिरुक्थ्यं, षोडशभिष्षोडशिनम्, सप्तदशभिर्वाजपेयम्, एकोनत्रिंशताऽतिरात्रम्, सर्वैरप्तोर्यामम् । यत्र राथन्तराय सन्धये सर्पन्ति तदाह - 'वसुकोसि वेषश्रिरसि वस्यष्टिरसि' इति । एवमेव प्रसौत्याप्तोर्यामादिति । यज्ञस्य स्तोमानां तेजोभागाः स्तोमभागाः । उक्तं च - 'बृहस्पतिर्वा एतद्यज्ञस्य तेजस्समभरद्यत्स्तोमभागाः' इति । दासीभारादीत्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -196,11 +222,14 @@ verily he is propagated.
 
 2-5इदानीं मन्त्रपदानि व्याचष्टे - रश्मिरसीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्मि᳓रसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,11 +245,14 @@ verily he is propagated.
 
 र॒श्मिः । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्ष᳓याय त्वा क्ष᳓यञ्जिन्वे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,11 +273,14 @@ for dwelling thee! Quicken the dwelling' [1], he says;
 
 क्षयति निवसत्यस्मिन्विश्वमिति गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ क्ष᳓यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -261,11 +296,14 @@ the dwelling is the gods;
 
 दे॒वाः । वै । क्षयः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्य एव᳓ यज्ञ᳓म्प्रा᳓ह᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +319,14 @@ verily to the gods he announces the sacrifice.
 
 दे॒वेभ्यः॑ । ए॒व । य॒ज्ञम् । प्रेति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रे᳓तिरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -301,11 +342,14 @@ verily to the gods he announces the sacrifice.
 
 प्रेति॒रिति॒ प्र-इ॒तिः॒ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध᳓र्माय त्वा ध᳓र्मञ्जिन्वे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,11 +365,14 @@ for right thee! Quicken right', he says;
 
 धर्मा॑य । त्वा॒ । धर्म॑म् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नुष्या᳙ वै᳓ ध᳓र्मः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,11 +388,14 @@ right is men;
 
 म॒नु॒ष्याः॑ । वै । धर्मः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्ये᳙भ्य एव᳓ यज्ञ᳓म्प्रा᳓ह᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,11 +411,14 @@ verily to men he announces the sacrifice.
 
 म॒नु॒ष्ये॑भ्यः । ए॒व । य॒ज्ञम् । प्रेति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्वितिरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +434,14 @@ verily to men he announces the sacrifice.
 
 अन्वि॑ति॒रित्यनु॑-इ॒तिः॒ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा दि᳓वञ्जिन्वे᳓त्याह  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,11 +457,14 @@ for sky thee! Quicken the sky', he says;
 
 दि॒वे । त्वा॒ । दिव॑म् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभ्य᳓ एव᳓ लोके᳓भ्यो यज्ञ᳓म्प्रा᳓ह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,11 +480,14 @@ verily to these worlds he announces the sacrifice.
 
 ए॒भ्यः । ए॒व । लो॒केभ्यः॑ । य॒ज्ञम् । प्रेति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्टम्भो᳙ऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -441,11 +503,14 @@ verily to these worlds he announces the sacrifice.
 
 वि॒ष्ट॒म्भ इति॑ वि-स्त॒म्भः । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्ट्यै त्वा वृ᳓ष्टिञ्जिन्वे᳓त्याह।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -461,11 +526,14 @@ for rain thee! Quicken rain', he says;
 
 वृष्ट्यै॑ । त्वा॒ । वृष्टि॑म् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्टिमेवा᳓व रुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,11 +549,14 @@ verily he wins rain [2].
 
 वृष्टि॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवा᳓सि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,11 +572,14 @@ verily he wins rain [2].
 
 प्र॒वेति॑ प्र-वा । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुवा᳓सी᳓त्याह मिथुनत्वा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -526,16 +600,22 @@ thou art blowing after', he says, for pairing.
 
 6-7प्रवाऽस्यनुवाऽसीति द्वयोर्ग्रहणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उशिग॑सि॒ वसु॑भ्यस्त्वा॒ वसू॑ञ्जि॒न्वेत्या॑हा॒ष्टौ वस॑व॒ एका॑दश रु॒द्रा द्वाद॑शादि॒त्या ए॒ताव॑न्तो॒ वै दे॒वास्तेभ्य॑ ए॒व य॒ज्ञम्प्राहौजो॑ऽसि पि॒तृभ्य॑स्त्वा पि॒तॄञ्जि॒न्वेत्या॑ह दे॒वाने॒व पि॒तॄननु॒ सन्त॑नोति॒ तन्तु॑रसि प्र॒जाभ्य॑स्त्वा प्र॒जा जि॑न्व [7]  इत्या॑ह पि॒तॄने॒व प्र॒जा अनु॒ सन्त॑नोति पृतना॒षाड॑सि प॒शुभ्य॑स्त्वा प॒शूञ्जि॒न्वेत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उशि᳓गसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,11 +636,14 @@ thou art blowing after', he says, for pairing.
 
 8-10उशिगसीत्यादीनां त्रयाणां वस्वादिमन्त्राणां ग्रहणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सुभ्यस्त्वा व᳓सूञ्जिन्वे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,16 +659,22 @@ for the Vasus thee! Quicken the Vasus', he says;
 
 वसु॑भ्य॒ इति॒ वसु॑-भ्यः॒ । त्वा॒ । वसून्॑ । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तदाह - अष्टौ वसव इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टौ᳓ व᳓सव ए᳓कादश रुद्रा᳓ द्वा᳓दशादित्याः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -601,11 +690,14 @@ the Vasus are eight, the Rudras eleven, the Adityas twelve;
 
 अ॒ष्टौ । वस॑वः । एका॑दश । रु॒द्राः । द्वाद॑श । आ॒दि॒त्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वन्तो वै᳓ देवाः᳓  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -621,11 +713,14 @@ so many are the gods;
 
 ए॒ताव॑न्तः । वै । दे॒वाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्य एव᳓ यज्ञ᳓म्प्रा᳓ह᳓  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -641,11 +736,14 @@ verily to them he announces the sacrifice.
 
 तेभ्यः॑ । ए॒व । य॒ज्ञम् । प्रेति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -661,11 +759,14 @@ verily to them he announces the sacrifice.
 
 ओजः॑ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृ᳓भ्यस्त्वा पितॄ᳓ञ्जिन्वे᳓त्याह  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -681,11 +782,14 @@ to the Pitrs thee! Quicken the Pitrs', he says;
 
 पि॒तृभ्य॒ इति॑ पि॒तृ-भ्यः॒ । त्वा॒ । पि॒तॄन् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नेव᳓ पितॄ᳓न᳓नु स᳓न्तनोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -706,11 +810,14 @@ verily the gods and the Pitrs he connects.
 
 देवानेवेत्यादि । स्थापयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न्तुरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -726,11 +833,14 @@ verily the gods and the Pitrs he connects.
 
 तन्तुः॑ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस्त्वा प्रजा᳓ जिन्वे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -746,11 +856,14 @@ for offspring thee! Quicken offspring' [3], he says;
 
 प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । त्वा॒ । प्र॒जा इति॑ प्र-जाः । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितॄ᳓नेव᳓ प्रजा᳓ अ᳓नु स᳓न्तनोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -766,11 +879,14 @@ verily the Pitrs and offspring he connects.
 
 पि॒तॄन् । ए॒व । प्र॒जा इति॑ प्र-जाः । अनु॑ । समिति॑ । त॒नो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓त᳓नाषा᳓डसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,11 +902,14 @@ verily the Pitrs and offspring he connects.
 
 पृ॒त॒ना॒षाट् । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशु᳓भ्यस्त्वा पशू᳓ञ्जिन्वे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -806,11 +925,14 @@ for cattle thee! Quicken cattle', he says;
 
 प॒शुभ्य॒ इति॑ प॒शु-भ्यः॒ । त्वा॒ । प॒शून् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ एव᳓ पशू᳓न᳓नु स᳓न्तनोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,16 +953,22 @@ verily offspring and cattle he connects.
 
 11प्रजा एवेति ॥ पितॄणामनन्तरं प्रजास्सन्तनोति, प्रजानां पशून् सन्तनोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रे॒वद॒स्योष॑धीभ्य॒स्त्वौष॑धीर्जि॒न्वेत्या॒हौष॑धीष्वे॒व प॒शून्प्रति॑ ष्ठापयत्यभि॒जिद॑सि यु॒क्तग्रा॒वेन्द्रा॑य॒ त्वेन्द्र॑ञ्जि॒न्वेत्या॑हा॒भिजि॑त्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेव᳓दसि᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -861,11 +989,14 @@ verily offspring and cattle he connects.
 
 12-13रेवदसीत्यादि ॥ गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीभ्यस्त्वा᳓, ओ᳓षधीर्जिन्वे᳓त्याह  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -881,11 +1012,14 @@ for the plants thee! Quicken the plants', he says;
 
 ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ । ओष॑धीः । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीष्वेव᳓ पशू᳓न्प्र᳓ति ष्ठापयति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -901,11 +1035,14 @@ verily in the plants he makes cattle find support.
 
 ओष॑धीषु । ए॒व । प॒शून् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिजि᳓दसि युक्त᳓ग्रावा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -921,12 +1058,15 @@ verily in the plants he makes cattle find support.
 
 अ॒भि॒जिदित्य॑भि-जित् । अ॒सि॒ । यु॒क्तग्रा॒वेति॑ यु॒क्त-ग्रा॒वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा᳓ ।  
 इ᳓न्द्रञ्जिन्वे᳓त्याहाभि᳓जित्यै  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,16 +1083,22 @@ for Indra thee! Quicken Indra', he says, for victory.
 
 इन्द्रा॑य । त्वा॒ । इन्द्र॑म् । जि॒न्व॒ । इति॑ । आ॒ह॒ । अ॒भिजि॑त्या॒ इत्य॒भि-जि॒त्यै॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अधि॑पतिरसि प्रा॒णाय॑ त्वा प्रा॒णम् [8]  जि॒न्वेत्या॑ह प्र॒जास्वे॒व प्रा॒णान्द॑धाति त्रि॒वृद॑सि प्र॒वृद॒सीत्या॑ह मिथुन॒त्वाय॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिपतिरसि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -973,11 +1119,14 @@ for Indra thee! Quicken Indra', he says, for victory.
 
 14-16अधिपतिरसीत्यादि ॥ चतुर्णां प्राणादिमन्त्राणां ग्रहणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य त्वा प्राण᳓ञ्जिन्वे᳓त्याह ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -993,11 +1142,14 @@ for breath thee! Quicken breath' [4], he says;
 
 प्रा॒णायेति॑ प्र-अ॒नाय॑ । त्वा॒ । प्रा॒णमिति॑ प्र-अ॒नम् । जि॒न्व॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓स्वेव᳓ प्राणा᳓न्दधाति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1018,11 +1170,14 @@ verily upon offspring he bestows breath.
 
 प्राणानिति । प्राणापानचक्षुश्रोत्राणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓दसि प्रवृ᳓दसी᳓त्याह मिथुनत्वा᳓य ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1043,16 +1198,22 @@ verily upon offspring he bestows breath.
 
 मिथुनत्वायेति 'तासु त्रिवृदसीत्येव मिथुनमदधात्' इति दर्शनात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सँरो॒हो॑ऽसि नीरो॒हो॑ऽसीत्या॑ह॒ प्रजा॑त्यै वसु॒को॑ऽसि॒ वेष॑श्रिरसि॒ वस्य॑ष्टिर॒सीत्या॑ह॒ प्रति॑ष्ठित्यै ॥ [9]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँरोहो᳙ऽसि  नीरोहो᳙ऽसी᳓त्याह प्र᳓जात्यै ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1073,12 +1234,15 @@ verily upon offspring he bestows breath.
 
 17-21संरोहोसीत्यादीनां चतुर्णां प्रजननमन्त्राणां ग्रहणम् । 'तास्संरोहोसि नीरोहोसीत्येव प्राजनयत्' इति दर्शनात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसुको᳙ऽसि ।  
 वे᳓षश्रिरसि व᳓स्यष्टिरसी᳓त्याह प्र᳓तिष्ठित्यै ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1101,4 +1265,5 @@ verily upon offspring he bestows breath.
 प्रतिष्ठित्या इति । 'प्रजा एव प्रजाता एषु लोकेषु प्रतिष्ठापयति' इति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 
 इति तृतीये पञ्चमे द्वितीयोनुवाकः ॥  
+</details>
 </details>

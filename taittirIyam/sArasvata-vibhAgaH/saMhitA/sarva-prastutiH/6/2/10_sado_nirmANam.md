@@ -4,15 +4,20 @@ title = "१० सदो निर्माणम्"
 
 सोमऋषिः  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व इत्यभ्रि॒मा द॑त्ते॒ प्रसू॑त्या अ॒श्विनो॑र्बा॒हुभ्या॒मित्या॑हा॒श्विनौ॒ हि दे॒वाना॑मध्व॒र्यू आस्ता॑म्पू॒ष्णो हस्ता॑भ्या॒मित्या॑ह॒ यत्यै॒ वज्र॑ इव॒ वा ए॒षा यदभ्रि॒रभ्रि॑रसि॒ नारि॑र॒सीत्या॑ह॒ शान्त्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓ इ᳓त्य᳓भ्रिमा᳓ दत्ते प्र᳓सूत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,11 +40,14 @@ title = "१० सदो निर्माणम्"
 
 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नोर् बाहु᳓भ्यामि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,11 +68,14 @@ title = "१० सदो निर्माणम्"
 
 अश्विनोरित्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नौ हि᳓ देवा᳓नामध्वर्यू᳓ आ᳓स्ताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,11 +91,14 @@ for the Aśvins were the priests of the gods.
 
 अ॒श्विनौ॑ । हि । दे॒वाना॑म् । अ॒ध्व॒र्यू इति॑ । आस्ता॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णो᳓ ह᳓स्ताभ्यामि᳓त्याह , य᳓त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,11 +119,14 @@ for the Aśvins were the priests of the gods.
 
 यत्यै नियतत्वाय तद्भवति । आयुधत्वाद्वज्रतुल्या अभ्रिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्र इव वा᳓ एषा᳓ य᳓द᳓भ्रिर᳓भ्रिरसि ना᳓रिरसी᳓त्याह , शा᳓न्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,17 +149,23 @@ Now the spade is as it were a bolt; 'Thou art the spade; thou art the, woman', h
 
 अपां भरणात् 'बिभर्तेरन् रिश्च' इति वचनात् स्त्रीत्वेन चाभ्रीणां शान्तिर्भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति॒ परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै [49]  
 इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इत्या॑ह॒ द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,11 +198,14 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 पदपरिलेखनेन रक्षःप्रभृतेः परितो नाशितत्वात् एतद्वचनं रक्षसामपहत्यै भवति । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिलिखितँ र᳓क्षᳶ प᳓रिलिखिता अ᳓रातय इ᳓त्याह र᳓क्षसाम᳓पहत्यै ।[49]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,11 +226,14 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 परिलिखितमित्यादि । रक्षसामपहत्यै भवति । पूर्ववद्गतेः प्रकतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि,  यो᳙ऽस्मा᳓न्द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓ इ᳓त्याह   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -225,11 +254,14 @@ Now, as each part is performed, the Raksases seek to injure the sacrifice;
 
 इदमहमित्यादि ॥ व्याख्यातम् । +++(सम्पादकटिप्पनी - प्रथमे काण्डे , द्वितीये प्रपाठके ।)+++ अनन्तरायं अव्यवधानेन ग्रीवाश्छिनत्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓ञ्चैव᳓ द्वे᳓ष्टि य᳓श्चैनन्द्वे᳓ष्टि , त᳓योरेवा᳓नन्तरायङ्ग्रीवाᳵ᳓ कृन्तति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,17 +290,23 @@ there are two people, he whom he hates and he who hates him; verily straightway 
 कथमित्याह - यदेतत्परिलिखामि इदं खल्वहं रक्षसः ग्रीवा अपिकृन्तामि यथेष्टं कृन्तामि छिनद्मि । अपिशब्दः कामचारं द्योतयति । ग्रीवाशब्दो धमनिवचनः, तासां बहुत्वाद्बहुवचनं, यथा 'ग्रीवाभ्योण्च` इति । कृती छेदने, 'शेमुचादीनाम्' इति नुम् ।  
 तथा योऽस्मान् द्वेष्टि यं च वयं द्विष्मः तस्य द्वेष्टुः द्वेष्यस्य शत्रोः ग्रीवाः इदमपि कृन्तामि यदेतत्परिलिखामि । 'द्वौ वाव पुरुषौ' इत्यादि ब्राह्मणम् । इदमिति क्रियाविषेणत्वान्नपुंसकत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दि॒वे त्वा॒न्तरि॑क्षाय त्वा पृथि॒व्यै त्वेत्या॑है॒भ्य ए॒वैनाल्ँ॑ लो॒केभ्य॒ᳶ प्रोक्ष॑ति प॒रस्ता॑द॒र्वाची॒म्प्रोक्ष॑ति॒ तस्मा॑त् [50]  
 प॒रस्ता॑द॒र्वाची॑म्मनु॒ष्या॑ ऊर्ज॒मुप॑ जीवन्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा , ऽन्त᳓रिक्षाय त्वा , पृथिव्यै᳓ त्वे᳓त्याह - एभ्य᳓ एवै᳓नाल्ँ लोके᳓भ्यᳶ प्रो᳓क्षति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,11 +327,14 @@ there are two people, he whom he hates and he who hates him; verily straightway 
 
 3दिव इत्यादि एभ्यः दिवादिलोकार्थं एनामौदुम्बरीं प्रोक्षति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर᳓स्तादर्वा᳓चीम् प्रो᳓क्षति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,11 +357,14 @@ He anoints from the top downwards;
 
 अर्वागञ्चतीति क्विनि नकाराकारयोर्लुप्तयोः 'चौ' इति पूर्वपदस्य दीर्घत्वम्, अन्तोदात्तत्वं च । ततस्स्वादग्रादारम्य यावन्मूलमन्नं भुञ्जते । यद्वा - परस्तात्प्रक्षिप्तां अर्वाचीमधोगच्छन्तीं मनुष्या भुञ्जते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पर᳓स्ताद् अर्वा᳓चीम् मनुष्या᳙ ऊर्जमु᳓प जीवन्ति ।[50]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -336,16 +380,22 @@ therefore [2] men live on strength from the top downwards.
 
 तस्मा॑त् । प॒रस्ता॑त् । अ॒र्वाची॑म् । म॒नु॒ष्याः॑ । ऊर्ज॑म् । उपेति॑ । जी॒व॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यत्खन॑त्य॒पोऽव॑ नयति॒ शान्त्यै॒ यव॑मती॒रव॑ नय॒त्यूर्ग्वै यव॒ ऊर्गु॑दु॒म्बर॑ ऊ॒र्जैवोर्जँ॒ सम॑र्धयति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रूर᳓मिव वा᳓ एत᳓त् करोति , य᳓त् ख᳓नत्यपो᳓ऽव नयति , शा᳓न्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +417,14 @@ Now he does a cruel deed in that he digs; he pours down water, for atonement.
 4क्रूरमिवेत्यादि ॥ गतम् । +++(समप्पादकटिप्पनी - विस्तृतव्याख्यानमन्यत्र मृग्यम्)+++
 अवटेऽपोवनयनं शान्त्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वमतीर᳓व नयत्यू᳓र्ग्वै᳓ य᳓व ऊ᳓र्गुदुम्ब᳓र ऊर्जै᳓वो᳓र्जँ स᳓मर्धयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,16 +445,22 @@ He pours down (water) mixed with barley; barley is strength, the Udumbara is str
 
 यवमतीरिति । उभयोरेतद्धेतुत्वादुभयोर्योगस्तत्समृद्ध्यै भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यज॑मानेन॒ सम्मि॒तौदु॑म्बरी भवति॒ यावा॑ने॒व यज॑मान॒स्ताव॑तीमे॒वास्मि॒न्नूर्ज॑न्दधाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानेन स᳓म्मितौ᳓दुम्बरी भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -424,11 +483,14 @@ He pours down (water) mixed with barley; barley is strength, the Udumbara is str
 
 निखातादूर्ध्वमित्याहुः । औदुम्बरी उदुम्बरविकारा । अनुदात्तादेरञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वानेव᳓ य᳓जमानस् ता᳓वतीम् एवा᳓स्मिन्न् ऊ᳓र्जन्दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,17 +513,23 @@ As great as is the sacrificer, so much strength does he put in it.
 
 यजमानमात्रमन्नमस्मिन्नेव यजमाने दधाति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पितृ॒णाँ सद॑नम॒सीति॑ ब॒र्हिरव॑ स्तृणाति पितृदेव॒त्य॑म् [51]  
 ह्ये॑तद्यन्निखा॑तय्ँ॒यद्ब॒र्हिरन॑वस्तीर्य मिनु॒यात्पि॑तृदेव॒त्या॑ निखा॑ता स्याद्ब॒र्हिर॑व॒स्तीर्य॑ मिनोत्य॒स्यामे॒वैना॑म्मिनो॒त्यथो॑ स्वा॒रुह॑मे॒वैना॑ङ्करो॒त्य्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृणाँ᳓ स᳓दनमसी᳓ति बर्हि᳓र᳓व स्तृणाति , पितृदेवत्यँ᳙ ह्येत᳓द् य᳓न् नि᳓खातम् ।[51]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,11 +556,14 @@ As great as is the sacrificer, so much strength does he put in it.
 
 निखातशब्दे 'जनसनखनां' इति आत्वम्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् बर्हि᳓र᳓नवस्तीर्य मिनुया᳓त् ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,11 +586,14 @@ If he were to set it up without strewing, it would be dug in and have the Pitrs 
 
 यद्यवटे वर्हिरनवस्तीर्य औदुम्बरीं मिनुयात् प्रक्षिपेत् उच्छ्रयेदिति यावत् । डुमिञ् प्रक्षेपणे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि᳓तृदेवत्या᳙ नि᳓खाता स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -540,11 +614,14 @@ he sets it up after strewing;
 
 पितृदेवत्या पित्रर्थे उच्छ्रिता औदुम्बरी स्यात् सर्वाऽपि पित्रर्था स्यात् 'पितृणां निखातं मनुष्याणामूर्ध्वं निखातात्' इति विभागो न स्यात् । तस्माद्बर्हिरवस्तीर्य मिनोति अस्यां पृथिव्यामेव एनां मिनोति नावटे । गर्तश्च पितृदेवत्यः । अवटाद्व्यावृत्तेर्यथोक्तदोषाप्रसङ्गः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓रवस्ती᳓र्य मिनोत्य् अस्या᳓मेवै᳓नाम् मिनोति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,11 +637,14 @@ verily he sets it up in this (earth),
 
 ब॒र्‌हिः । अ॒व॒स्तीर्येत्य॑व-स्तीर्य॑ । मि॒नो॒ति॒ । अ॒स्याम् । ए॒व । ए॒ना॒म् । मि॒नो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो स्वारु᳓हम् एवै᳓नाङ् करोति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -585,16 +665,22 @@ and makes it firm-rooted.'
 
 अथो अपिच स्वारुहं आत्मार्थमारोहितामेतां करोति न पित्रर्थमेव । स्वार्थं रोहन्ती स्वारुट्, सांहितिको दीर्घ: ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उद्दिवँ॑ स्तभा॒नान्तरि॑क्षम्पृ॒णेत्या॑है॒षाल्ँ लो॒कानाव्ँ॒विधृ॑त्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्दि᳓वँ स्तभाना᳓न्त᳓रिक्षम् पृणे᳓त्याह । एषाल्ँ᳓ लोका᳓नाव्ँ वि᳓धृत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -617,17 +703,23 @@ and makes it firm-rooted.'
 
 7उद्दिवमिति ॥ एषां त्रयाणां लोकानां विधारणाय भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्युता॒नस्त्वा॑ मारु॒तो मि॑नो॒त्वित्या॑ह द्युता॒नो ह॑ स्म॒ वै मा॑रु॒तो दे॒वाना॒मौदु॑म्बरीम्मिनोति॒ तेनै॒व [52]  
 ए॒ना॒म्मि॒नो॒ति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्युतान᳓स् त्वा मारुतो᳓ मिनोत्वि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,11 +740,14 @@ and makes it firm-rooted.'
 
 8द्युतान इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्युतानो᳓ ह स्म वै᳓ मारुतो᳓ देवा᳓नाम् - औ᳓दुम्बरीम् मिनोति । ते᳓न᳓ + एवै᳓नाम् मिनोति । [52]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -673,16 +768,22 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 द्युताननामा मारुतः देवानामौदुम्बरीं मिनोति अमिनोत् । मिनोतेर्व्यत्ययेन लट् । तेनैवैनां मिनोति । मापयति वा तेन सहायेन सह विमिनोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॒ह्म॒वनि॑न्त्वा क्षत्र॒वनि॒मित्या॑ह यथाय॒जुरे॒वैतद्घृ॒तेन॑ द्यावापृथिवी॒ आ पृ॑णेथा॒मित्यौदु॑म्बर्याञ्जुहोति॒ द्यावा॑पृथि॒वी ए॒व रसे॑नानक्त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मव᳓निन् त्वा क्षत्रव᳓निमि᳓त्याह , यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -703,11 +804,14 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 9ब्रह्मवनिमित्यादि ॥ पुरीषेण पर्यूहनम् । त्वं ब्रह्मवननादिसिद्धिः । यथायजुस्तत्फलत्येव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृते᳓न द्यावापृथिवी आ᳓ पृणेथामि᳓त्यौ᳓दुम्बर्याञ् जुहोति , द्या᳓वापृथिवी᳓ एव᳓ र᳓सेनानक्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -730,16 +834,22 @@ Dyutana Maruta was wont to set up the Udumbara (post) of the gods; verily [4] by
 
 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम्, 'देवताद्वन्द्रे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒न्तम॒न्वव॑स्रावयत्या॒न्तमे॒व यज॑मान॒न्तेज॑साऽनक्त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आन्त᳓म् अन्व᳓वस्रावयत्य् - आन्त᳓मेव᳓ य᳓जमानन् ते᳓जसा ऽनक्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -760,16 +870,22 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 10आन्तमिति ॥ आमूलं यजमानमप्यान्तं यूपात् अतस्तेजसाऽनक्ति प्रकाशयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐ॒न्द्रम॒सीति॑ छ॒दिरधि॒ नि द॑धात्यै॒न्द्रँ हि दे॒वत॑या॒ सदो॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓म् असी᳓ति छदि᳓र᳓धि नि᳓ दधात्य् , ऐन्द्रँ᳓ हि᳓ देव᳓तया स᳓दः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -790,16 +906,22 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 11ऐन्द्रमिति ॥ देवतातद्धितग्रहणात् 'इन्द्रस्य सदः' हति मन्त्रगता षष्ठी व्याख्यायत इत्येके । शाखान्तरीयं पदं ब्राह्मणं दर्शयतीत्यन्ये । छदिरधि निदधाति छादनार्थं कटमुपरि निदधाति । देवतासम्बन्धेन हि सद ऐन्द्रम् । तस्मादिन्द्रस्य सदः सदनमित्युच्यते इन्द्रस्य प्राधान्यात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्वज॒नस्य॑ छा॒येत्या॑ह विश्वज॒नस्य॒ ह्ये॑षा छा॒या यत्सदो॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वजन᳓स्य छाये᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -820,11 +942,14 @@ He makes it run right to the end; verily completely does he anoint the sacrifice
 
 12विश्वजनस्येति ॥ विश्वयोः [पार्श्वयोः] छदिनिधानमन्त्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वजन᳓स्य ह्ये᳙षा छाया᳓ य᳓त् स᳓दः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -845,17 +970,23 @@ for the seat is the shade of all folk.
 
 विश्वो जनो विश्वजनः । यो वा कश्चिदागतः तस्य सर्वस्यैषा छाया ग्रहणं यत्सदो नाम ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नव॑छदि [53]  
 तेज॑स्कामस्य मिनुयात्त्रि॒वृता॒ स्तोमे॑न॒ सम्मि॑त॒न्तेज॑स्त्रि॒वृत्ते॑ज॒स्व्ये॑व भ॑व॒त्येका॑दशछदीन्द्रि॒यका॑म॒स्य
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓वछ᳓दि᳓ ते᳓जस्कामस्य मिनुयात् त्रिवृ᳓ता स्तो᳓मेन स᳓म्मितन् ते᳓जस्त्रिवृ᳓त् तेजस्व्ये᳙व᳓ भवति᳓ ।[53]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -876,17 +1007,23 @@ for the seat is the shade of all folk.
 
 13नवछदीत्याद्याः काम्याः ॥ विश्वजनाद्याः काम्याः । विश्वजनादित्वात्तुगभावः । 'शीलिकामि' इत्यादिना णः, पूर्वपदप्रकृतिस्वरत्वम्, 'अतः कृकमि' इति सत्वम् । त्रिवृतेति । तस्यापि नवस्तोत्रीयत्वान्नवत्वयोगेन तुल्यता । तेजस्त्रिवृदिति । तेजोहेतुत्वात्तेजसा सहोत्पन्नत्वाच्च, यथा - 'तमग्निर्देवताऽन्वसृज्यत' इति । तेजस्व्येव भवति यजमानः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एका॑दशछदीन्द्रि॒यका॑मस्य ।  
 एका॑दशाक्षरा त्रि॒ष्टुगि॑न्द्रि॒यन्त्रि॒ष्टुगि॑न्द्रिया॒व्ये॑व भ॑वति॒ पञ्च॑दशछदि॒ भ्रातृ॑व्यवतᳶ
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कादशछदीन्द्रिय᳓कामस्य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -909,11 +1046,14 @@ one of eleven coverings (he should fix) for one who desires power;
 
 बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम्, तत्रापि 'संख्या' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कादशाक्षरा त्रिष्टु᳓ग् , इन्द्रिय᳓न् त्रिष्टु᳓ग् , इन्द्रियाव्ये᳙व᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -936,16 +1076,22 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 'बहुलं छन्दसि' इति विनिः, 'मन्त्रे सोमाश्व' इति दीर्घत्वं व्यत्ययेनामन्त्रेऽपि भवति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॑दशछदि॒ भ्रातृ॑व्यवतᳶ पञ्चद॒शो वज्रो॒ भ्रातृ॑व्याभिभूत्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चदशछदि भ्रा᳓तृव्यवतᳶ , पञ्चदशो᳓ व᳓ज्रो भ्रा᳓तृव्याभिभूत्यै।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -966,16 +1112,22 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 15पञ्चदशो वज्र इति ॥ वज्रतुल्यत्वात् वीर्यवत्वाद्वा । तस्माद्वीर्यावन्त इति । 'स्तोमे डविधिः पञ्चदशाद्यर्थे' इति डः, भ्रातृव्याभिभूत्यै । दासीभारादिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒प्तद॑शछदि प्र॒जाका॑मस्य सप्तद॒शᳶ प्र॒जाप॑तिᳶ , प्र॒जाप॑ते॒राप्त्या॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓दशछदि प्रजा᳓कामस्य , सप्तदशᳶ᳓ प्रजा᳓पतिᳶ , प्रजा᳓पतेरा᳓प्त्यै ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -996,16 +1148,22 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 16सप्तदशः प्रजापतिरिति ॥ 'यो वे सप्तदशं प्रजापतिम्' इत्यादिषु प्रसिद्धम् । प्रजापतेराख्या इति । तदाप्तौ हि प्रजास्सिध्यन्त्येवेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॑विँशतिछदि प्रति॒ष्ठाका॑मस्यैकविँ॒शस्स्तोमा॑नाम्प्रति॒ष्ठा प्रति॑ष्ठित्या
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कविँशतिछदि प्रतिष्ठा᳓कामस्य + एकविँश᳓स् स्तो᳓मानाम् प्रतिष्ठा᳓ , प्र᳓तिष्ठित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1026,17 +1184,23 @@ the Tristubh has eleven syllables, the Tristubh is power; verily he becomes powe
 
 17एकविंशस्स्तोमानां प्रतिष्ठेति ॥ त्रिवृदादीनां ज्योतिषां तत्रान्तर्भावात् प्रतिष्ठित्यै प्रतिष्ठार्थं भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒दरव्ँ॒ वै सद॒ ऊर्गु॑दु॒म्बरो॑ मध्य॒त औदु॑म्बरीम्मिनोति मध्य॒त ए॒व प्र॒जाना॒मूर्ज॑न्दधाति॒ तस्मा॑त् [54]  
 म॒ध्य॒त ऊ॒र्जा भु॑ञ्जते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद᳓रव्ँ वै᳓ स᳓द ऊ᳓र्गुदुम्ब᳓रो मध्यत᳓ औ᳓दुम्बरीम् मिनोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1061,11 +1225,14 @@ The Sadas is the stomach, the Udumbara is strength, in the middle he fixes (the 
 
 मिनोति प्रक्षिपति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यत एव᳓ प्रजा᳓नामू᳓र्जन् दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1081,11 +1248,14 @@ verily he places strength in the midst of offspring;
 
 म॒ध्य॒तः । ए॒व । प्र॒जाना॒मिति॑ प्र-जाना॑म् । ऊर्ज॑म् । द॒धा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् मध्यत᳓ ऊर्जा᳓ भुञ्जते ।[54]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1106,16 +1276,22 @@ therefore [6] in the middle they enjoy strength.
 
 तस्मान्मध्यतः मध्यमे उरसि [वयसि] ऊर्जा भुञ्जते भूयिष्ठेन प्रजास्सुखिता भवन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यजमानलो॒के वै दक्षि॑णानि छ॒दीँषि॑ भ्रातृव्यलो॒क उत्त॑राणि॒ दक्षि॑णा॒न्युत्त॑राणि करोति॒ यज॑मानमे॒वाय॑जमाना॒दुत्त॑रङ्करोति॒ तस्मा॒द्यज॑मा॒नोऽय॑जमाना॒दुत्त॑रो
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यजमानलोके᳓ वै᳓ द᳓क्षिणानि छदीँ᳓षि भ्रातृव्यलोक᳓ उ᳓त्तराणि द᳓क्षिणान्यु᳓त्तराणि करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1138,11 +1314,14 @@ In the world of the sacrificer are the southern coverings, in that of his foe ar
 
 दक्षिणानीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानमेवा᳓यजमानाद् उ᳓त्तरङ् करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1165,11 +1344,14 @@ verily he makes the sacrificer higher than the man who does not sacrifice;
 
 दक्षिणानि उत्तराणि उद्गततराणि भवन्ति यथोदगग्राणि छदींषि दृश्यन्ते । एवं हि अयजमानाद्भातृव्यादुत्तरं उद्गततरं करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् य᳓जमानो᳓ऽयजमानादु᳓त्तरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1192,16 +1374,22 @@ therefore the sacrificer is higher than the man who does not sacrifice.
 
 उच्छब्दात् 'साधनक्रियावचने' इत्यादिना तरप् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽन्तर्व॒र्तान्क॑रोति॒ व्यावृ॑त्त्यै॒ तस्मा॒दर॑ण्यम्प्र॒जा उप॑ जीवन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्वर्ता᳓न् करोति व्या᳓वृत्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1228,11 +1416,14 @@ He fills up the crevices, for distinction;
 
 केभ्यः? ग्राम्येभ्यः छदिभ्य इति केचित् । अयजमानेभ्यो यजमानस्यैवेत्यन्ये । ग्राम्येभ्यस्तृणादिम्यः आरण्यानामित्यन्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद᳓रण्यम् प्रजा᳓ उ᳓प जीवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1253,16 +1444,22 @@ therefore people depend on the forest.
 
 तस्मादिति । यस्मादेव यजमानेनारण्यकोपजीवनं क्रियते तस्मादारण्यमपि प्रजा उपजीवन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 परि॑ त्वा गिर्वणो॒ गिर॒ इत्या॑ह यथाय॒जुरे॒वैतद्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प᳓रि त्वा गिर्वणो गि᳓र" इ᳓त्याह । यथायजु᳓र् एवै᳓त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1283,16 +1480,22 @@ therefore people depend on the forest.
 
 21'परित्वा गिर्वणो गिरः' इत्यादिसदःपरिश्रयणमन्त्रः । तेन प्रतिपादितमेवं सर्वं यथायजुर्भवत्येव । पूर्ववदस्य यजुष्ट्वं वेदितव्यम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑स्य॒ स्यूर॒सीन्द्र॑स्य ध्रु॒वम॒सीत्या॑है॒न्द्रँ हि दे॒वत॑या॒ सदो॒ यम्प्र॑थ॒मङ्ग्र॒न्थिङ्ग्र॑थ्नी॒याद्यत्तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त्स वि॒स्रस्यः॑ ॥ [55]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य स्यू᳓रसी᳓न्द्रस्य ध्रुव᳓मसी᳓त्याह , ऐन्द्रँ᳓ हि᳓ देव᳓तया स᳓दः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1313,11 +1516,14 @@ therefore people depend on the forest.
 
 22इन्द्रस्यस्यूरसीत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓म् प्रथम᳓ङ् ग्रन्थि᳓ङ् ग्रथ्नीया᳓द् य᳓त् त᳓न्न᳓ विस्रँस᳓येद᳓मेहेनाध्वर्युᳶ᳓ प्र᳓ मीयेत त᳓स्मात् स᳓ विस्र᳓स्यः ॥ [55]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1341,4 +1547,5 @@ Now the knot which he first ties, if he were not to unloose it, the Adhvaryu wou
 +++(सम्पादकटिप्पनी - विस्तृतव्याख्यानमन्यत्र मृग्यम् )+++।
 
 इति षष्ठे द्वितीये दशमोनुवाकः ॥  
+</details>
 </details>

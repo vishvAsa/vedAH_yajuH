@@ -4,9 +4,12 @@ title = "०९ क्रयार्थं सोमस्योन्मान
 
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति वि॒चित्य॒स्सोमा (३) न वि॒चित्या (३) इति॒ सोमो॒ वा ओष॑धीनाँ॒ राजा॒ तस्मि॒न्यदाप॑न्नङ्ग्रसि॒तमे॒वास्य॒ तद्यद्वि॑चिनु॒याद्यथा॒स्या॑द्ग्रसि॒तन्नि॑ष्खि॒दति॑ ता॒दृगे॒व तद्यन्न वि॑चिनु॒याद्यथा॒क्षन्नाप॑न्नव्ँवि॒धाव॑ति ता॒दृगे॒व तत्क्षोधु॑कोऽध्व॒र्युस्स्यात्क्षोधु॑को॒ यज॑मान॒स्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ title = "०९ क्रयार्थं सोमस्योन्मान
 "विचि᳓त्यस् सो᳓मा᳓३ न᳓ विचि᳓त्या᳓३" इ᳓ति ।  
 सो᳓मो वा᳓ ओ᳓षधीनाँ रा᳓जा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ The theologians say, 'Should the Soma be clarified or not?' Soma indeed is the k
 
 अथैष दोषो मा भूदिति यदि न विचिनुयात, ययाऽक्षन् अक्षणि आपन्नं प्रविष्टं तूलादिकं विधावति अक्षिणी विविधमाकलयति पीडयति तादृगेव तत् । अक्ष्णस्सप्तम्याः 'सुपां सुलुक्' इति लुक्, 'न डिसंबुद्ध्योः' इति नलोपप्रतिषेधः । तस्मादवश्यं विचेतव्य एव । ततश्च क्षोधुकः क्षुच्छील अध्वर्युर्यजमानश्च स्यात् । छान्दस उकञ् । तस्माद्भवति संशय इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन् य᳓दा᳓पन्नङ् , ग्रसित᳓म् एवा᳓स्य त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,11 +69,14 @@ whatever falls upon it is swallowed by it.
 
 तस्मि॑न् । यत् । आप॑न्न॒मित्या-प॒न्न॒म् । ग्र॒सि॒तम् । ए॒व । अ॒स्य॒ । तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् विचिनुया᳓द् य᳓थाऽऽस्या᳙द् ग्रसित᳓न् निष्खिद᳓ति तादृ᳓गेव᳓ त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,11 +92,14 @@ If be were to clarify it, it would be as when one expels from the mouth what has
 
 यत् । वि॒चि॒नु॒यादिति॑ वि-चि॒नु॒यात् । यथा॑ । आ॒स्या॑त् । ग्र॒सि॒तम् । नि॒ष्खि॒दतीति॑ निः-खि॒दति॑ । ता॒दृक् । ए॒व । तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्न᳓ विचिनुया᳓द् य᳓था ऽक्ष᳓न्ना᳓पन्नव्ँ विधा᳓वति तादृ᳓गेव᳓ त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,11 +115,14 @@ if he were not to clarify it, it would be as when something falls upon the eye a
 
 यत् । न । वि॒चि॒नु॒यादिति॑ वि-चि॒नु॒यात् । यथा॑ । अ॒क्षन् । आप॑न्न॒मित्या-प॒न्न॒म् । वि॒धाव॒तीति॑ वि-धाव॑ति । ता॒दृक् । ए॒व । तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षो᳓धुकोऽध्वर्यु᳓स् स्या᳓त् क्षो᳓धुको य᳓जमानः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,17 +138,23 @@ the Adhvaryu would be hungry, the sacrificer would be hungry.
 
 क्षोधु॑कः । अ॒ध्व॒र्युः । स्यात् । क्षोधु॑कः । यज॑मानः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोम॑विक्रयि॒न्त्सोमँ॑ शोध॒येत्ये॒व ब्रू॑या॒द्यदीत॑रम् [59]  
 यदीत॑रमु॒भये॑नै॒व सो॑मविक्र॒यिण॑मर्पयति॒ तस्मा॑त्सोमविक्र॒यी क्षोधु॑को
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मविक्रयिन्त्सो᳓मँ शोधये᳓त्येव᳓ ब्रूयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +175,14 @@ the Adhvaryu would be hungry, the sacrificer would be hungry.
 
 2उत्तरमाह - सोमविक्रयिन्निति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दी᳓तरय्ँ +++( विचिनुयात् )+++ य᳓दी᳓तरम् +++( न विचिनुयात् )+++, उभ᳓येनैव᳓ सोमविक्रयि᳓णमर्पयति ।[59]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +207,14 @@ so whether it be the one [1] or the other '. he involves the Soma-seller in both
 
 तेन च अवश्यं शोधयेति वचनाद्विचेतव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् सोमविक्रयी᳓ क्षो᳓धुकः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -208,10 +237,14 @@ therefore the Soma-seller is hungry.
 
 अर्तेर्णिचि 'अर्तिह्रि' इत्यादिना पुगागमः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽरु॒णो ह॑ स्मा॒हौप॑वेशिस्सोम॒क्रय॑ण ए॒वाहन्तृ॑तीयसव॒नमव॑ रुन्ध॒ इति॑ पशू॒नाञ्चर्म॑न्मिमीते प॒शूने॒वाव॑ रुन्द्धे प॒शवो॒ हि तृ॒तीयँ॒ सव॑नय्ँ॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +254,8 @@ therefore the Soma-seller is hungry.
 पशूना᳓ञ्च᳓र्मन्मिमीते पशू᳓नेवा᳓व रुन्धे ।  
 पश᳓वो हि᳓ तृती᳓यँ स᳓वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,11 +284,15 @@ Aruna Aupaveśi said, 'At the buying of the Soma I win the third pressing.' He m
 
 3इदानीं कांश्चिद्गुणान् विधास्यन् प्रवर्तयिष्यन् तदर्थमाह - अरुणो ह स्मेति ॥ उपवेशस्यापत्यमौपवेशिः । अत इञ् । उपवेशपुत्रोरुणो नाम आह स्म अब्रवीत् । 'लट् स्मे' इति लट् । कथमाह स्म? सोमक्रयण एव यदा सोमो विक्रीयते तदानीमेवाहं तृतीयसवनमवरुन्धे समापयामि । स एवमुपायमाह । पशूनामित्यादिविधिः । पशूनां चर्मणि सोमो मीयते पशनूवरुन्ध एव । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् । चर्मन्निति । लुगादि पूर्ववत् । ननु तृतीयसवनावरोधः प्रतिज्ञातः, तत्किमुच्यते पशूनवरुन्धे इत्यत आह - पशवो हि तृतीयसवनम्; पशुसाधनत्वात् । ततश्च पश्ववरोधेन तृतीयसवनमवरुद्धं भवतीति प्रतिज्ञातसिद्धः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यङ्का॒मये॑ताप॒शुस्स्या॒दित्यृ॑क्ष॒तस्तस्य॑ मिमीत॒र्क्षव्ँ वा अ॑पश॒व्यम॑प॒शुरे॒व भ॑वति॒ यङ्का॒मये॑त पशु॒मान्त्स्या॑त् [60]  
 इति॑ लोम॒तस्तस्य॑ मिमीतै॒तद्वै प॑शू॒नाँ रू॒पँ रू॒पेणै॒वास्मै॑ प॒शूनव॑ रुन्द्धे पशु॒माने॒व भ॑वत्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +300,8 @@ Aruna Aupaveśi said, 'At the buying of the Soma I win the third pressing.' He m
 य᳓ङ् काम᳓येत -  
 "अपशु᳓स् स्यादि᳓"त्यृक्षत᳓स् त᳓स्य मिमीत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,11 +325,14 @@ If he desire of a man, 'May he be without cattle', he should measure it for him 
 
 ऋक्षशब्दात् 'आद्यादिभ्यस्तसिः' इति तसिप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋर्क्षव्ँ᳓ वा᳓ अपशव्य᳓म् अपशु᳓रेव᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,12 +353,15 @@ The rough side indeed is not connected with cattle; verily he becomes without ca
 
 अपशव्यं पशुभ्यो हितं न भवतीति 'उगवादिभ्यो यत्' 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ङ् काम᳓येत -
 "पशुमा᳓न्त्स्याद्" इ᳓ति लोमत᳓स् त᳓स्य मिमीत ।[60]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +387,14 @@ If he desire of a man, 'May he be rich in cattle' [2], he should measure for him
 
 लोमतः लोम्नि । पूर्ववत्तसिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,11 +415,14 @@ That indeed is the form of cattle;
 
 एतद्वा इत्यादि । अस्मै यजमानाय पशूनवरुन्धे; ततः पशुमान् भवति यजमानः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपे᳓णैवा᳓स्मै पशू᳓न᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,11 +438,14 @@ verily by the form he obtains cattle for him;
 
 रू॒पेण॑ । ए॒व । अ॒स्मै॒ । प॒शून् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुमा᳓नेव᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,16 +461,22 @@ verily he becomes rich in cattle.
 
 प॒शु॒मानिति॑ पशु-मान् । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒पामन्ते॑ क्रीणाति॒ सर॑समे॒वैन॑ङ्क्रीणात्य॒मात्यो॒ऽसीत्या॑हा॒मैवैन॑ङ्कुरुते शु॒क्रस्ते॒ ग्रह॒ इत्या॑ह शु॒क्रो ह्य॑स्य॒ ग्रहोऽन॒साच्छ॑ याति महि॒मान॑मे॒वास्याच्छ॑ या॒त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓म᳓न्ते क्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,11 +497,14 @@ He buys it at the end of the waters;
 
 5अपामित्यादिविधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रसम् एवै᳓नङ् क्रीणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,11 +520,14 @@ verily he buys it with its sap.
 
 सर॑स॒मिति॒ स-र॒स॒म् । ए॒व । ए॒न॒म् । क्री॒णा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अमा᳓त्योऽसी᳓"त्याह + अमै᳓वै᳓नङ् कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -486,11 +554,14 @@ verily he buys it with its sap.
 
 अमा भवतीत्यमात्यः इति कृत्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "शुक्र᳓स्ते ग्र᳓ह "इ᳓त्याह, शुक्रो᳓ ह्यस्य ग्र᳓हः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -513,11 +584,14 @@ verily he buys it with its sap.
 
 शुक्रो हिरण्यं यस्मादस्य सोमस्य ग्रहः ग्रहणसाधनं तस्मादुच्यते शुक्रस्ते ग्रह इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नसा᳓च्छ याति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -533,11 +607,14 @@ He advances (for it) with a cart;
 
 अन॑सा । अच्छ॑ । या॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महिमा᳓नम् एवा᳓स्या᳓ऽच्छ याति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -553,11 +630,15 @@ verily he advances to its mightiness.
 
 म॒हि॒मान॑म् । ए॒व । अ॒स्य॒ । अच्छ॑ । या॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अन॑सा [61]  
 अच्छ॑ याति॒ तस्मा॑दनोवा॒ह्यँ॑ स॒मे जीव॑नय्ँ॒यत्र॒ खलु॒ वा ए॒तँ शी॒र्ष्णा हर॑न्ति॒ तस्मा॑च्छीर्षहा॒र्य॑ङ्गि॒रौ जीव॑नम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +646,8 @@ verily he advances to its mightiness.
 अ᳓नसा᳓ऽच्छ याति । [61]
 त᳓स्मादनो वाह्यँ᳙ समे᳓ जी᳓वनम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,12 +673,15 @@ He advances with a cart [3], therefore what lives on the level is to be borne by
 
 अनसेत्यादिद्वितीयविघानमर्थान्तरप्रतिपादनार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्र ख᳓लु वा᳓ एतँ᳓ शीर्ष्णा᳓ ह᳓रन्ति ।  
 त᳓स्माच् छीर्षहार्य᳙ङ् गिरौ᳓ जी᳓वनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -625,16 +711,22 @@ Where, however, they bear it on their heads, therefore what lives on the hill is
 
 यस्माच्च क्रयस्थानमानीतं अनसाऽच्छ याति, तस्मादनोवाह्यं समे धान्यादिकमिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒भि त्यन्दे॒वँ स॑वि॒तार॒मित्यति॑च्छन्दस॒र्चा मि॑मी॒तेऽति॑च्छन्दा॒ वै सर्वा॑णि॒ छन्दाँ॑सि॒ सर्वे॑भिरे॒वैन॒ञ्छन्दो॑भिर्मिमीते॒ वर्ष्म॒ वा ए॒षा छन्द॑साय्ँ॒यदति॑च्छन्दा॒ यदति॑च्छन्दस॒र्चा मिमी॑ते॒ वर्ष्मै॒वैनँ॑ समा॒नाना॑ङ्करो॒त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अभि᳓ त्य᳓न्देवँ᳓ सविता᳓रमि᳓"त्य् अ᳓तिच्छन्दसा + ऋचा᳓ मिमीते᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -655,11 +747,14 @@ With a verse, 'That god, Savitr', in the Atichandas metre he measures.
 
 7अभि त्यं देवमिति अतिच्छन्दसो विधिः ॥ जगत्या पराण्यतिच्छन्दांसि । तत्रेयमष्टिष्षोडशाक्षरपदा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓तिच्छन्दा वै᳓ स᳓र्वाणि छ᳓न्दाँसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -680,11 +775,14 @@ The Atichandas is all the metres;
 
 सर्वाणि छन्दांसीति । सर्वेषां व्यापकत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वेभिरेवै᳓नञ् छ᳓न्दोभिर्मिमीते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -707,11 +805,14 @@ verily with all the metres he measures it.
 
 वर्ष्मेत्युच्छ्रयः, समानानामेनं यजमानमुच्छ्रितं करोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्ष्म वा᳓ एषा᳓ छ᳓न्दसाय्ँ य᳓द᳓तिच्छन्दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -727,11 +828,14 @@ The Atichandas is the highest of the metres.
 
 वर्‌ष्म॑ । वै । ए॒षा । छन्द॑साम् । यत् । अति॑च्छन्दा॒ इत्यति॑-छ॒न्दाः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓तिच्छन्दसर्चा᳓ मि᳓मीते , व᳓र्ष्मैवै᳓नँ समाना᳓नाङ् करोति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -747,16 +851,22 @@ In that he measures with a verse in the Atichandas metre, he makes it the highes
 
 यत् । अति॑च्छन्द॒सेत्यति॑-छ॒न्द॒सा॒ । ऋ॒चा । मिमी॑ते । वर्‌ष्म॑ । ए॒व । ए॒न॒म् । स॒मा॒नाना॑म् । क॒रो॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॑यैकयो॒त्सर्ग॑म् [62] मि॒मी॒तेऽया॑तयाम्नियायातयाम्नियै॒वैन॑म्मिमीते॒ तस्मा॒न्नाना॑वीर्या अ॒ङ्गुल॑य॒स्सर्वा॑स्वङ्गु॒ष्ठमुप॒ नि गृ॑ह्णाति॒ तस्मा॑त्स॒माव॑द्वीर्यो॒ऽन्याभि॑र॒ङ्गुलि॑भि॒स्तस्मा॒त्सर्वा॒ अनु॒ सञ्च॑रति॒ यत्स॒ह सर्वा॑भि॒र्मिमी॑त॒ सँश्लि॑ष्टा अ॒ङ्गुल॑यो जायेर॒न्नेक॑यैकयो॒त्सर्ग॑म्मिमीते॒ तस्मा॒द्विभ॑क्ता जायन्ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कयैकयोत्स᳓र्गम् मिमीते ।[62]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,11 +893,14 @@ With each (finger) separately [4] he measures;
 
 एकयैकयेति एकत्वविधिः, उत्सर्गमित्यङ्गुळ्युत्सर्गविधिः । आभीक्ष्ण्ये छान्दसो णमुल्, तेनैव गतत्वादाभीक्ष्ण्यस्य द्विर्वचनं न क्रियते । एवमयातयाम्न्या अगतसारया अङ्गुल्या सोमो मितो भवति । पूर्ववद्द्विर्वचनादि । यद्यनुत्सृज्य मिमीते पुनरुक्ता गतसारैव स्यात् पूर्वेण मानेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓यातयाम्निया ऽयातयाम्निया + एवै᳓नम् मिमीते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -803,11 +916,14 @@ verily he measures it with each fresh in turn;
 
 अया॑तयाम्नियायातयाम्नि॒येत्यया॑तयाम्निया-अ॒या॒त॒या॒म्नि॒या॒ । ए॒व । ए॒न॒म् । मि॒मी॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् ना᳓नावीर्या अङ्गु᳓लयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -830,11 +946,14 @@ therefore the fingers have various strengths.
 
 तस्मादङ्गुष्ठोऽन्याभिरङ्गुलीभिः समावद्वीर्यस्तुल्यवीर्यः । समादावतुप्प्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वास्वङ्गुष्ठ᳓मु᳓प नि᳓ गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -850,11 +969,14 @@ He presses down the thumb on them all;
 
 सर्वा॑सु । अ॒ङ्गु॒ष्ठम् । उप॑ । नीति॑ । गृ॒ह्णा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्समा᳓वद्वीर्योऽन्या᳓भिर् अङ्गु᳓लिभिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -870,11 +992,14 @@ therefore it has equal strength with the other fingers;
 
 तस्मा॑त् । स॒माव॑द्वीर्य॒ इति॑ स॒माव॑त्-वी॒र्यः॒ । अ॒न्याभिः॑ । अ॒ङ्गुलि॑भि॒रित्य॒ङ्गुलि॑-भिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्स᳓र्वा अ᳓नु स᳓ञ्चरति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -895,11 +1020,14 @@ therefore all it accompanies.
 
 तस्मात्सर्वाभिस्तुल्यवीर्यत्वात् सर्वा अङ्गलीः अनुसंचरति तत्कार्यकरणायानुक्रमेण सञ्चरति । अथ यदि सर्वाभिस्सहभूताभिः लौकिककार्यवत्तस्य मानं कुर्यात् संश्लिष्टाः परस्परं लग्नाः अङ्गुलयो जायेरन् प्रजानाम् । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्सह᳓ स᳓र्वाभिर् मि᳓मीत सँ᳓श्लिष्टा अङ्गु᳓लयो जायेरन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -915,11 +1043,14 @@ If he were to measure with all (the fingers), the fingers would grow united;
 
 यत् । स॒ह । सर्वा॑भिः । मिमी॑त । सँश्लि॑ष्टा॒ इति॒ सम्-श्लि॒ष्टाः॒ । अ॒ङ्गुल॑यः । जा॒ये॒र॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कयैकयोत्स᳓र्गम् मिमीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -940,11 +1071,14 @@ with each separately he measures;
 
 तस्मात् - एकयेत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वि᳓भक्ता जायन्ते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -960,16 +1094,22 @@ therefore they grow separate.
 
 तस्मा॑त् । विभ॑क्ता॒ इति॒ वि-भ॒क्ताः॒ । जा॒य॒न्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॒ कृत्वो॒ यजु॑षा मिमीते॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्धे॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च कृ᳓त्वो य᳓जुषा मिमीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -994,12 +1134,15 @@ He measures five times with the Yajus.
 
 पञ्चत्वसंख्यान्वयात्पाङ्क्तो यज्ञः अवरुद्धो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाक्षरा पङ्क्तिᳶ᳓ ।  
 पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1021,11 +1164,14 @@ The Pankti has five syllables, the sacrifice is fivefold;
 
 पङ्क्ति शब्दे उत्सादित्वादञि ङित्त्वादाद्युदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓मेवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1041,17 +1187,23 @@ verily he wins the sacrifice.
 
 य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॒ कृत्व॑स्तू॒ष्णीम् [63]  
 दश॒ सम्प॑द्यन्ते॒ दशा॑क्षरा वि॒राडन्नव्ँ॑वि॒राड्वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे॒ यद्यजु॑षा॒ मिमी॑ते भू॒तमे॒वाव॑ रुन्द्धे॒ यत्तू॒ष्णीम्भ॑वि॒ष्यद्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च कृ᳓त्वस् तूष्णी᳓म् द᳓श स᳓म्पद्यन्ते ।[63]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1072,12 +1224,15 @@ verily he wins the sacrifice.
 
 10पञ्च कृत्वस्तूष्णीमिति ॥ मिमीते इत्येव । दश दशमुष्टयस्संपद्यन्ते । ततश्च दशसंख्यान्वयात् दशाक्षरा विराट्परिगृहीता भवति । सा च छन्दोलक्षणा विराट्परिगृहीता अन्नात्मिकामपि विराजं प्रतिलम्भयतीति । तथा अन्नाद्यमवरुन्धे । यद्वा - अन्नं विराट् अन्नहेतुर्विराडित्यर्थः । तस्माद्विराजा अन्नाद्यमवरुन्धे । विविधं राजतीति विराट् । 'सत्सूद्विष' इति क्विप्, व्रश्चादिना षत्वम्, कृदुत्तरपदप्रकृतिस्वरत्वम् । अन्नस्यादनमन्नाद्यम्, अन्नादनसामर्थ्यम् । छान्दसो भावे क्यप्, कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शाक्षरा विरा᳓ट् ।  
 अ᳓न्नव्ँ विरा᳓ट् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1094,11 +1249,14 @@ The Viraj has ten syllables, the Viraj is food;
 
 दशा॑क्ष॒रेति॒ दश॑-अ॒क्ष॒रा॒ । वि॒राडिति॑ वि-राट् । अन्न॑म् । वि॒राडिति॑ वि-राट् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जैवा᳓न्ना᳓द्यम᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1114,11 +1272,14 @@ verily by the Viraj he wins proper food.
 
 वि॒राजेति॑ वि-राजा॑ । ए॒व । अ॒न्नाद्य॒मित्य॑न्न-अद्य॑म् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् य᳓जुषा मि᳓मीते , भूत᳓म् एवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1139,11 +1300,14 @@ In that he measures with the Yajus, he wins the past;
 
 यदित्यादि । यस्माद्यजुषा मिमीते तस्माद्भूतमुत्पन्नमवरुन्धे व्यपदेश्यम् । यस्मात्तूष्णीं मिमीते इत्येतस्माद्भविष्यदवरुन्धे अव्यपदेश्यम्, उत्पत्स्यमानमव्यपदेश्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् तूष्णी᳓म् भविष्य᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1159,10 +1323,14 @@ in that he measures in silence, the future.
 
 यत् । तू॒ष्णीम् । भ॒वि॒ष्यत् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्वै तावा॑ने॒व सोम॒स्स्याद्याव॑न्त॒म्मिमी॑ते॒ यज॑मानस्यै॒व स्या॒न्नापि॑ सद॒स्या॑नाम्प्र॒जाभ्य॒स्त्वेत्युप॒ समू॑हति सद॒स्या॑ने॒वान्वाभ॑जति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1338,8 @@ in that he measures in silence, the future.
 य᳓द्वै᳓ ता᳓वानेव᳓ सो᳓मस्स्या᳓द् या᳓वन्तम् मि᳓मीते ,
 य᳓जमानस्यैव᳓ स्यान् ना᳓पि सदस्या᳙नाम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1195,11 +1365,14 @@ Now if there were only so much Soma as that which he measures, there would be en
 
 'यत्तदेतेभ्यः' इति वतुप्, 'आ सर्वनाम्नः' इत्यात्वम् । तथा सति यजमानस्यैव स्यात्, न सदस्यानामपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस्त्वा + इत्युप स᳓मूहति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1220,11 +1393,14 @@ With the words, 'For offspring thee!' he draws (the cloth for the Soma) together
 
 तस्मात् 'प्रजाभ्यस्त्वा' इत्युपसमूहति तमतिरिक्तं चैकराशीकरोतीति विधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदस्या᳙न् एवा᳓न्वा᳓भजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1245,17 +1421,23 @@ verily he makes the priests in the Sadas share in it;
 
 सदस्यानन्वाभजाति तानप्यत्रान्वाशिनः करोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वास॒सोप॑ नह्यति सर्वदेव॒त्यव्ँ॑ वै [64]  
 वास॒स्सर्वा॑भिरे॒वैन॑न्दे॒वता॑भि॒स्सम॑र्धयति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ससो᳓प नह्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1276,12 +1458,15 @@ with a garment he ties it up;
 
 12वाससोपनह्यति बध्नातीति विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदेवत्यव्ँ᳙ वै᳓ वा᳓सः ।[64]  
 स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिस् स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1305,16 +1490,22 @@ the garment is connected with all the gods [6]; verily he unites it with all the
 
 'अग्नेस्तूषाधानम्' इत्यत्र सर्वदेवत्यत्वमस्योक्तम् । सर्वाभिर्देवताभिरेनं समृद्धं करोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒शवो॒ वै सोम॑ᳶ प्रा॒णाय॒ त्वेत्युप॑ नह्यति प्रा॒णमे॒व प॒शुषु॑ दधाति व्या॒नाय॒ त्वेत्यनु॑ शृन्थति व्या॒नमे॒व प॒शुषु॑ दधाति॒ तस्मा॑त्स्व॒पन्त॑म्प्रा॒णा न ज॑हति ॥ [65]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ सो᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1335,11 +1526,14 @@ the Soma is cattle;
 
 13पशवो वा इति ॥ पशूनां कारणत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य त्वे᳓त्यु᳓प नह्यति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1362,11 +1556,14 @@ the Soma is cattle;
 
 वाससोपनह्यतीति विधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓मेव᳓ पशु᳓षु दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1387,11 +1584,14 @@ verily he confers expiration upon cattle.
 
 प्राणः पशुष्वेव स्थापितो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य त्वे᳓त्य᳓नु शृन्थति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1412,11 +1612,14 @@ verily he confers expiration upon cattle.
 
 व्यानाय त्वेत्यनुशृन्थति श्लथयति बन्धमिति विधिः । श्रथि शैथिल्ये, छान्दसं संप्रसारणम्, शृन्थिर्वा द्रष्टव्यः, सर्वथा व्यत्ययेन परस्मैपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यान᳓मेव᳓ पशु᳓षु दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1437,11 +1640,14 @@ verily he confers cross-breathing upon cattle;
 
 व्यानमेव पशुषु दधाति । ननु श्लथने क्रियमाणे कथं व्यानस्य स्थापनं भवति? प्रत्युत च्युतिर्व्यानस्य स्यात् । अयं भावः - मध्यमा खल्वियमवस्थाऽनेन विधीयते । न दृढं बध्नाति, न च सर्वथा मुञ्चति, किन्तु बद्धाबद्धं स्थापयति मध्यमश्च व्यानः प्राणापानयोः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् स्वप᳓न्तम् प्राणा᳓ न᳓ जहति ॥ [65]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1467,4 +1673,5 @@ therefore the vital breaths do not desert a sleeper.
 बद्धस्थानीयश्चायं सुप्त इति स्वपन्तमित्युक्तम् ॥
 
 इति षष्ठे प्रथमे नवमोनुवाकः ॥
+</details>
 </details>

@@ -7,6 +7,8 @@ title = "१० शालाप्रवेशादिकम्"
 ## सोमस्य प्राचीनवंशप्रवेशः
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1आतिथ्यं निर्वपति - अग्नेरातिथ्यमसीत्यादिभिः ॥
@@ -21,11 +23,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र् आतिथ्य᳓म् असि,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,12 +66,15 @@ Thou art the hospitality of Agni.
 [[P275]]
 अत्र विष्णुर् एक एव हविषो देवता। अग्न्यादयस् तु तद्-अनुचराः। अतति सततं गच्छतीत्य् अतिथिः। तदर्थं क्रियमाणं सत्कार-रूपं कर्मातिथ्यम्। लोके स्वामिने दीयमानेन द्रव्येण तद्-अनुचरा अपि परितुष्यन्ति। तस्माद् अत्राग्न्यादीनाम् इदं हविर् भवत्य् आतिथ्यम्। हे हविस् त्वम् अतिथि-रूपस्याग्नेः सत्कार-रूपम् असि। तादृशं त्वां विष्णु-शब्दाभिधेयाय सोमाय निर्वपामि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वा +++(निर्वपामि)+++ ।  
 +++(सर्वदेवतात्मनो विष्णोर् अंशभूता एते अग्न्य्-आदयो राज्ञि गृहम् आगते आगता भवन्ति । 'यावद्भिर् वै राजानुचरैर् आगच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इति ब्राह्मणम्।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,11 +96,14 @@ For Visnu thee!
 अत्र हि ब्राह्मणम् 'यावद्भिर्वै राजानुचरैरागच्छति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते' इत्युक्त्वा 'अग्नेरातिथ्यमसि विष्णवे त्वेत्याह गायत्रिया एवैतेन करोति' इत्यदिना अग्न्यादीनामुपलक्षणभूतानां हविषा सम्बन्धो नास्तीति प्रतिपादयति । तत्राग्न्यादयस्तिस्रो देवताः विष्णुना व्यधिकरणभूता निर्दिष्टाः; अन्ये तु सामानाधिकरण्येन, आतिथ्यपदं च तयोर्मन्त्रयोर्नास्ति । तत्र वैचित्र्यकारणं मृग्यम् ।   
 मन्त्रार्थस्तु - निरुप्यमाणं द्रव्यमुच्यते । अग्नेरग्न्यात्मनो विष्ण्वंशस्यातिथ्यमतिथिप्रयुक्तं निर्वाप्यं त्वमसि, तत्त्वां विष्णवे हविष्मते निर्वपामि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्याऽऽतिथ्य᳓म् असि,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,11 +131,14 @@ Thou art the hospitality of Soma.
 
 सोमस्येत्य् अत्र प्रधान-भूतः सोमो न त्व् अपरः कश्चित् तन्-नामा ऽनुचरः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वा᳓ +++(निर्वपामि)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +154,14 @@ For Visnu thee!
 
 विष्ण॑वे । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓तिथेर्+++(=अतनशीलस्य [सुर्यस्य वायोर् वा])+++ आतिथ्य᳓मसि,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -170,11 +187,14 @@ Thou art the hospitality of the stranger.
 
 अतिथि-नामको ऽन्यः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सर्वदेवतात्मने)+++ वि᳓ष्णवे त्वाऽग्न᳓ये त्वा +++(निर्वपामि)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,11 +210,14 @@ For Visnu thee!
 
 विष्ण॑वे । त्वा॒ । अ॒ग्नये॑ । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रायस्-पोषदा᳓व्न्ने +++(ऽग्नये)+++ +++(तदात्मने)+++ वि᳓ष्णवे +++(च)+++ त्वा +++(निर्वपामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,11 +243,14 @@ For Agni thee, giver of wealth, for Visnu thee;
 
 रायस्-पोष-दावा धन-समृद्धेर् दाता कश्चित् तद्-अग्नि-नामको ऽन्यः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येना᳓य त्वा सोमभृ᳓ते वि᳓ष्णवे +++(च)+++ त्वा +++(निर्वपामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,8 +393,11 @@ for the eagle, bringer of the Soma, thee, for Visnu thee!
 [[P279]]
 द्वित्वं पाद-द्वय-प्रतिष्ठायै भवति। ननु संस्पर्शादि-विधयः प्रकृतौ दर्श-पूर्णमासेष्टाव् अपि सन्तीत्य् अतिदेशाद् एव तद्-अनुष्ठानस्यात्र प्राप्तत्वात्, न पृथग्-विध्य्-अपेक्षेति चेन् न। उपसद्-अर्थं विधेयत्वात्। तर्हि तत्रैव विधीयताम् इति चेन् न। आतिथ्योपसदोः परिध्यादि-भेदं वारयितुं साधारणत्वेनात्रैव विधेयत्वात्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमानस्सोममादत्ते - या त इति त्रिष्टुभार्धर्चेन ॥  
@@ -388,12 +417,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम)+++ या᳓ ते धा᳓मानि हवि᳓षा य᳓जन्ति  
 ता᳓ ते वि᳓श्वा परि-भू᳓र् अस्तु यज्ञ᳓म्+++(स्य)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -425,11 +457,15 @@ May they all envelop the sacrifice!
 
 हे सोम या ते धामानि त्वदीयेषु स्थानेषु प्रातः-सवनादिषु हविषा यजन्ति यज्ञम् उद्दिश्य ता ते विश्वा त्वदीयानि तानि सर्वाणि परिभूर् अस्तु परितः प्राप्तवान् भव।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7शालां प्रवेशयति - गयस्फान इति द्वितीयेनार्धर्चेन ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,6 +473,8 @@ ________
 गय+++(=गृह)+++स्फा᳓नᳶ+++(=वर्धयिता)+++ प्रत᳓रणस् सुवी᳓रो᳓  
 ऽ+++(स्वपक्ष)+++वीरहा प्र᳓ चरा सोम दु᳓र्यान्+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -463,15 +501,20 @@ Slaying not heroes, O Soma, enter the dwellings.
 
 हे सोम त्वं दुर्यान् गृहान् प्राचीन-वंश-रूपान् प्रचर प्राप्नुहि। कीदृशस् त्वं? गय-स्फानो गृहाभि-वर्धकः। प्रतरणः प्रकर्षेण यज्ञ-पारं प्रत्य् अस्मांस् तारयिता। सु-वीरः शोभनास् त्वत्-प्रसाद-लब्धा वीरा अस्मत्-पुत्र-पौत्रा यस्य तव स त्वं सु-वीरः। अवीर-हा यथोक्तानां वीराणाम् अहन्ता परिपालक इत्य् अर्थः।
 </details>
+</details>
 
 ##  सोमोपस्थानादि
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 नीडे कृष्णाजिनम् आस्तृणाति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -485,11 +528,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,16 +566,20 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् सोमं निदधाति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -545,11 +595,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,14 +623,17 @@ Sit on the seat of Aditi.
 
 4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
 </details>
+</details>
 
 7कृष्णाजिने राजानमासादयति - अदित्या इति ॥ अदित्यास्सदोभूतमेतत्कृष्णाजिनं हे सोम आसीद अधितिष्ठ । प्रागेव व्याख्यातमिदं मन्त्रद्वयम् ॥
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -585,6 +641,8 @@ Sit on the seat of Aditi.
 अदि᳓त्यास् सदो᳓ ऽस्य्,  
 अदि᳓त्यास् सद᳓ आ᳓ सीद ॥ [18]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -601,8 +659,11 @@ sit on the seat of Aditi.
 
 8-9कृष्णाजिनस्तरणसोमस्थापनमन्त्रौ व्याख्यातौ-अदित्यास्सद इति ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10सोममुपतिष्ठते - वरुणोसीति गायत्र्यैकपदया यजुरन्तया ॥
@@ -621,12 +682,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तादात्म्येनाऽधुना)+++ व᳓रुणोऽसि धृत᳓व्रतो, वारुण᳓म् असि ।  
 +++('वरुणो वा एष यजमानमभ्यैति यत्क्रीतस्सोम उपनद्धः' इति ब्राह्मणम् ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,17 +722,23 @@ Thou art Varuna who guardeth law; thou art of Varuna.
 
 हे सोम त्वं वरुण-पाशस्य निवारको ऽसि। धृतं यज्ञ-रूपं व्रतं येन त्वया स त्वं धृत-व्रतः। हे सोम त्वम् उपनद्ध-स्वरूपत्वाद् वरुण-संबन्ध्य् असि। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11वंशे बध्नाति - शंयोरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शय्ँ+++(=शमनम्)+++ यो᳓र्+++(=बन्धनाद्)+++ देवा᳓नाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -694,17 +764,23 @@ Be prosperity ours from our friendship with the gods.
 
 तथा सति त्वदीयाच्-छंयोः सुख-मिश्राद् वरुणादि-देवानां... 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12सोमस्य पादौ प्रक्षालयति - सख्यान्मा देवानामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सख्या᳓न् मा᳓ देवा᳓नाम् अप᳓सश्+++(=कर्मतः)+++ छित्स्महि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -747,9 +823,12 @@ May we be not severed from our service of the gods.
 
 अपि चैते ब्रह्म-वादिनः काल-विवक्षावन्तस् तद्-उपोद्घातत्वेन वह्नेः सर्वात्मकत्वम् आहुः। तच् च सर्व-देवतात्मकत्वम् एक-द्वि-त्रि-तानाम् उत्पत्तौ विस्पष्टम् आम्नातम्। यद्-आतिथ्य-पुरोडाशं वेद्याम् आसाद्य तस्मिन् काले ऽग्निं मथ्नीयात् तथा मथ्यमानाग्नाव् अन्तर्-भूताः सर्वा अपि देवता आसन्न-हविर् मोक्तुम् उत्पादिता भवन्ति तत् स एव काल इत्य् अर्थः। मथन-मन्त्रास् तु आध्वर्यवा अग्नीषोमीय-पशु-प्रस्तावे समाम्नास्यन्ते। हौत्रास् तु बह्वृच-ब्राह्मण आतिथ्येष्टि-समीप एवोदाहृताः।
 </details>
+</details>
 
 ## आज्यग्रहणादिकम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तानूनप्त्रम् आज्यं गृह्णाति, यत् सर्वैः स्प्रक्ष्यत ऋत्विग्भिः। अयम् एक-कार्यानुवृत्त्य्-अर्थं समयः क्रियते तेषु।।
@@ -768,11 +847,14 @@ ________
 
 आप॑तये त्वा गृह्णामि॒ परि॑पतये त्वा गृह्णामि॒ तनू॒नप्त्रे॑ त्वा गृह्णामि शाक्व॒राय॑ त्वा गृह्णामि॒ शक्म॒न्नोजि॑ष्ठाय त्वा गृह्णा॒मि
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे आज्य)+++ आ᳓पतये+++(आपतततीति→प्राणाय)+++ त्वा गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -798,11 +880,14 @@ For him who rushes on I seize thee;
 
 आपतिर् निश्वास-रूपेण बहिर्-गतः पुनर् आभिमुख्येनान्तः पततीत्य् आपतिः प्राणः। हे आज्य, प्राणार्थं त्वाम् अस्मिन् पात्रे गृह्णामि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिपतये+++(परिपततीति→मनसे)+++ त्वा गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -828,11 +913,14 @@ for him who rushes around I seize thee;
 
 परितो नाना-विषयेषु पततीति परि-पतिर् मनः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नू+++(=जल)+++न᳓प्त्रे+++(=शरीरस्थायाग्नये)+++ त्वा गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -858,11 +946,14 @@ for Tanunapat I seize thee;
 
 तनूं शरीरं न पातयति न विनाशयतीति तनूनप्ता जाठरो ऽग्निः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाक्वरा᳓य+++(=शक्त्यै)+++ त्वा गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -888,11 +979,14 @@ for the mighty I seize thee;
 
 शकन-शीलः शक्वरः शक्तिमान् पुरुषस् तस्य संबन्धि शाक्वरं शक्ति-स्वरूपम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓क्मन्न्+++(=शक्तेषु)+++ ओ᳓जिष्ठाय +++(प्राणाय)+++ त्वा गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -955,8 +1049,11 @@ for the mightiest in strength I seize thee.
 
 तनू-शाक्वर-ओजिष्ठ-शब्दैर् एव [वा] वृत्तान्तः सूच्यते। ते देवास् तदानीं स्वात्म-संबन्धं पुत्रादि-तनु-रूपम् ओजः-सारं समवाद्यन्त।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18अवमृशाति - अनाधृष्टमसीति ॥
@@ -970,12 +1067,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नाधृष्टम् असि,   
 अनाधृष्य᳓न्, देवा᳓नाम् ओ᳓जो, ऽभिशस्ति+++(=अभिशाप)+++पाः᳓, अनभिशस्तेन्य᳓म्+++(=अभिशस्तेनाऽवेध्या)+++ +++(असि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1015,8 +1115,11 @@ the unapproachable might of the gods, guarding from imprecations, impervious to 
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यजमानं वाचयति।।
@@ -1034,12 +1137,15 @@ ________
 
 － अनु॑ मे दी॒क्षान्दी॒क्षाप॑तिर्मन्यता॒मनु॒ तप॒स्तप॑स्पति॒रञ्ज॑सा स॒त्यमुप॑ गेषँ सुवि॒ते मा॑ धाः ॥ [19]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नु मे दीक्षा᳓न् दीक्षा᳓पतिर् मन्यताम्,  
 अनु त᳓पस् त᳓पस्पतिः+++(=अग्निः [मन्यताम्])+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1090,11 +1196,14 @@ the lord of penance my penance.
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ञ्जसा+++(=ऋजुना)+++ सत्य᳓म् +++(समयं तानूनप्त्राभिमर्शनेन)+++ उ᳓प गेषम्+++(=अगच्छम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1110,11 +1219,14 @@ Speedily may I attain truth.
 
 अञ्ज॑सा । स॒त्यम् । उपेति॑ । गे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुविते᳓+++(=सूताय)+++ मा धाः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1129,6 +1241,7 @@ Place me in good fortune.
 <details><summary>पद-पाठः</summary>
 
 सु॒वि॒ते । मा॒ । धाः॒ ॥
+</details>
 </details>
 
 इति द्वितीये प्रपाठके दशमोनुवाकः  

@@ -5,9 +5,12 @@ unicode_script = "devanagari"
 
 <div caption="छात्राः, वेदभवनम्, भाग्यनगरे" class="videoEmbed" src="https://youtu.be/cp48mUi6d14"></div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 20अतः परं राजाभिषेके विनियोज्याः पश्चाप्यनुष्टुभः - आ त्वाऽहार्षमिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/02_AtvA.ahArSham.md">
@@ -106,12 +109,15 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>English</summary>
 
 Grow right here, don't be distressed.  
 Like a mountain un-fickle.  
 Like Indra, stand firm here.  
 Bear the nation here.
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
@@ -146,12 +152,15 @@ Bear the nation here.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>English</summary>
 
 Outflank the assailants.  
 Down be the enemies.  
 Stand like Indra vRtra-killer.  
 Thoroughly winning (their) deeds and lands.
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
@@ -188,10 +197,13 @@ Thoroughly winning (their) deeds and lands.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details open><summary>English</summary>
 
 Indra Bear this king!  
 Firm with firm offerings.  
 Gods speak in his favor!  
 Him too, the brahmaNas-pati!
+</details>
 </details>

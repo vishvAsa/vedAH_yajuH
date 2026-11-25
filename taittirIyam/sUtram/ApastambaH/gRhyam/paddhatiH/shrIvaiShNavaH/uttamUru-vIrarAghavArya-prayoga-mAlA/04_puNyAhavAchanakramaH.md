@@ -365,17 +365,22 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
 <details open><summary><h5>११ शंयुवाकः ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शंयुवाकाय प्रेषितो ब्रवीति - तच्छंयोरित्यादि ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(फलं)+++ तच् छं॒योर् +++(बार्हस्पत्याद्)+++ **आवृ॑णीमहे** -  
-+++(देवान् प्रति)+++ गा॒तुं +++(=गमनं [हविषाम्])+++ - य॒ज्ञाय॑,  
-गा॒तुं+++(=गमनम्)+++ य॒ज्ञप॑तये ।  
++++(फलं)+++ त᳓च् छंयो᳓र् +++(बार्हस्पत्याद्)+++ **आ᳓वृणीमहे** -  
++++(देवान् प्रति)+++ गातुं᳓ +++(=गमनं [हविषाम्])+++ - यज्ञा᳓य,  
+गातुं᳓+++(=गमनम्)+++ यज्ञ᳓पतये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,16 +389,24 @@ title = "०४ पुण्याहवाचनक्रमः"
 गा॒तुय्ँ य॒ज्ञप॑तये ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । शम्-योः᳓ । आ᳓-वृणीमहे । गातु᳓म् । यज्ञा᳓य । गातु᳓म् । यज्ञ᳓-पतये ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **तत्** तादृशं प्रशस्तफलं **शंयोः** बार्हस्पत्य्-आदौ [देः] **आवृणीमहे** प्रार्थयामहे, किं पुनस्तत्? **गातुं** गमनं देवान्प्रति **यज्ञाय** यज्ञस्य, यज्ञपतये यजमानस्य च गातुं देवस्थानं प्रति गमनं वृणीमहे ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दैवी॑ स्व॒स्तिर॑स्तु नः ।  
-स्व॒स्तिर् मानु॑षेभ्यः ।  
+दै᳓वी स्वस्ति᳓रस्तु नः ।  
+स्वस्ति᳓र् मा᳓नुषेभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,17 +414,25 @@ title = "०४ पुण्याहवाचनक्रमः"
 स्व॒स्तिर्मानु॑षेभ्यः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+दै᳓वी । स्वस्तिः᳓ । अस्तु । नः । स्वस्तिः᳓ । मा᳓नुषेभ्यः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्रैवं संपत्स्यमाना नः अस्माकं दैवी स्वस्तिः देवनिमित्तं विघ्नोपशमनमस्माकमस्तु । मानुषेभ्यश्च होतृभ्यः या स्वस्तिः सा चास्माकमस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऊ॒र्ध्वञ् जि॑गातु+++(=गच्छतु)+++ भेष॒जम् ।  
-शन् नो॑ अस्तु द्वि॒पदे॑ ।  
-शञ् चतु॑ष्पदे ॥25॥  
+ऊर्ध्व᳓ञ् जिगातु+++(=गच्छतु)+++ भेषज᳓म् ।  
+श᳓न् नो अस्तु द्विप᳓दे ।  
+श᳓ञ् च᳓तुष्पदे ॥25॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -420,12 +441,18 @@ title = "०४ पुण्याहवाचनक्रमः"
 शञ्चतु॑ष्पदे ॥25॥  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऊर्ध्व᳓म् । जिगातु । भेषज᳓म् । श᳓न्नः । अस्तु । द्वि-प᳓दे । श᳓म् । च᳓तुः-पदे ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किंच - **ऊर्ध्वं जिगातु** उद्गच्छतु भेषजं सर्वानिष्टशमनमेतत्कर्म सर्वोच्छ्रितमस्तु । किंच अस्माकं सम्बन्धिने द्विपदे मनुष्यादये चतुष्पदे च गवादये शं सुखं अस्तु । द्विपदोऽन्तोदात्तत्वमुक्तम् ॥  
 
 इत्येकादशोऽनुवाकः ॥  
 
+</details>
 </details>
 </details>
 </div>  
@@ -496,19 +523,24 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details open><summary><h5>देवस्य त्वा - तेजोवीर्य-श्रीभ्यः ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'तस्यां प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठन्नश्विनोः संपातैरभिषिञ्चति देवस्य त्वा' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-अ॒श्विनो॒र्भैष॑ज्येन ।  
-तेज॑से ब्रह्मवर्च॒साया॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+अश्वि᳓नोर्भै᳓षज्येन ।  
+ते᳓जसे ब्रह्मवर्चसा᳓याभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -523,20 +555,26 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 सवितुर्देवस्य प्रेरणे सति अश्विसंबन्धिभ्यां बाहुभ्यां पूषसंबन्धिम्यां हस्ताभ्यां अश्विनोस्सबन्धिना संपातेनौषधरूपेण कान्तिब्रह्मवर्चससिद्ध्यर्थं यजमानं त्वामभिषिञ्चामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'एवमुत्तरेण मन्त्रेण सारस्वतस्योत्तमेनैन्द्रस्य' इति। संपातेनाभिषिञ्चतीत्युभयत्रानुवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-सर॑स्वत्यै॒ भैष॑ज्येन ॥21॥  
-वी॒र्या॑या॒न्नाद्या॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+स᳓रस्वत्यै भै᳓षज्येन ॥21॥  
+वीर्या᳙यान्ना᳓द्यायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -551,15 +589,18 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 पूर्ववद्व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-इन्द्र॑स्येन्द्रि॒येण॑ ।  
-श्रि॒यै यश॑से॒ बला॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+इ᳓न्द्रस्येन्द्रिये᳓ण ।  
+श्रियै᳓ य᳓शसे ब᳓लायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,9 +616,12 @@ title = "०४ पुण्याहवाचनक्रमः"
 7पूर्ववद्व्याख्येयम् ॥
 </details>
 </details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा - साम्रा॑ज्येना॒भिषि॑ञ्चामि  ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8-10अभिषेकमन्त्राः - देवस्येत्यादयः ॥
@@ -587,13 +631,15 @@ title = "०४ पुण्याहवाचनक्रमः"
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याँ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -627,14 +673,17 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै वा॒चो  
-य॒न्तुर् य॒न्त्रेण
-अग्नेस् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
+स᳓रस्वत्यै वाचो᳓  
+यन्तु᳓र् यन्त्रे᳓ण᳓
+अ᳓ग्ने᳓स् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,16 +696,24 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 अग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वत्यै । वा॒चः । य॒न्तुः । य॒न्त्रेण॑ । अ॒ग्नेः । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सरस्वत्यै सरस्वत्याः । षष्ठ्यर्थे चतुर्थी ॥ सरस्वत्या वाचस्सम्बन्धिना यन्तुर्यन्त्रेण यन्तुरप्यन्यस्य यन्त्रणेन यमनेन । सामान्येन वा विवक्ष्यते, यन्त्र्याः वाचस्सरस्वत्याः यन्त्रणेन अग्नेश्च साम्राज्येन त्वामभिषिञ्चामि । सङ्गतं राजतीति सम्राट्, 'मो राजि समः क्वौ', 'गुणवचनब्राह्मणादिभ्यः' इति ष्यञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥  
-बृह॒स्पते॑स् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
+इ᳓न्द्रस्य सा᳓म्राज्येनाभि᳓षिञ्चामि ॥  
+बृ᳓हस्प᳓तेस् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -670,11 +727,17 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । बृह॒स्पतेः॑ । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं 'इन्द्रस्य त्वा साम्राज्येन' 'बृहस्पतेस्त्वा साम्राज्येन', इत्येतौ गतौ ॥
 
 इति सप्तमे दशमोनुवाकः ॥
+</details>
 </details>
 </details>
 </div>
@@ -686,6 +749,8 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/5/5/09/vasavas_tvA_rudraiH.md">
 <details open><summary><h5>वसवस् त्वा रुद्रैः ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8सञ्चितमग्रिं आज्येन प्रोक्षति - वसवस्त्वेत्यादिभिः ॥
@@ -696,50 +761,153 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 वस॑वस्त्वा रु॒द्रैᳶ पु॒रस्ता॑त्पान्तु पि॒तर॑स्त्वा य॒मरा॑जानᳶ पि॒तृभि॑र्दक्षिण॒तᳶ पा॑न्त्वादि॒त्यास्त्वा॒ विश्वै॑र्दे॒वैᳶ प॒श्चात्पा॑न्तु द्युता॒नस्त्वा॑ मारु॒तो म॒रुद्भि॑रुत्तर॒तᳶ पा॑तु [40]  
 दे॒वास्त्वेन्द्र॑ज्येष्ठा॒ वरु॑णराजानो॒ऽधस्ता॑च्चो॒परि॑ष्टाच्च पान्तु॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**वस॑वस्** त्वा रु॒द्रैᳶ **पु॒रस्ता॑त्** पान्तु।  
-**पि॒तर॑स्** त्वा य॒म-रा॑जानᳶ पि॒तृभि॑र् **दक्षिण॒तᳶ** पा॑न्तु।  
-**आदि॒त्यास्** त्वा॒ विश्वै॑र् दे॒वैᳶ **प॒श्चात्** पा॑न्तु।  
-द्युता॒नस् त्वा॑ **मारु॒तो** म॒रुद्भि॑र् **उत्तर॒तᳶ** पा॑तु।  
-**दे॒वास्** त्वेन्द्र॑-ज्येष्ठा॒ वरु॑ण-राजानो॒ **ऽधस्ता॑च्** चो॒परि॑ष्टाच् च पान्तु ।
+**व᳓सवस्** त्वा रुद्रैᳶ᳓ **पुर᳓स्तात्** पान्तु।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May the Vasus, with the Rudras, protect thee on the east;
 </details>
 
 <details><summary>मूलम्</summary>
 
-वस॑वस् त्वा रु॒द्रैᳶ पु॒रस्ता॑त् पान्तु ,  
-पि॒तर॑स् त्वा य॒मरा॑जानᳶ पि॒तृभि॑र् दक्षिण॒तᳶ पा॑न्तु + आदि॒त्यास् त्वा॒ विश्वै॑र्दे॒वैᳶ प॒श्चात् पा॑न्तु ,  
-द्युता॒नस् त्वा॑ मारु॒तो म॒रुद्भि॑रुत्तर॒तᳶ पा॑तु ,  
+वस॑वस् त्वा रु॒द्रैᳶ पु॒रस्ता॑त् पान्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वस॑वः । त्वा॒ । रु॒द्रैः । पु॒रस्ता॑त् । पा॒न्तु॒ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**पित᳓रस्** त्वा यम᳓-राजानᳶ पितृ᳓भिर् **दक्षिणतᳶ᳓** पान्तु।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+may the fathers, with Yama as their ruler, protect thee on the south;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पि॒तर॑स् त्वा य॒मरा॑जानᳶ पि॒तृभि॑र् दक्षिण॒तᳶ पा॑न्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पि॒तरः॑ । त्वा॒ । य॒मरा॑जान॒ इति॑ य॒म-रा॒जा॒नः॒ । पि॒तृभि॒रिति॑ पि॒तृ-भिः॒ । द॒क्षि॒ण॒तः । पा॒न्तु॒ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**आ᳓दित्या᳓स्** त्वा वि᳓श्वैर् देवैᳶ᳓ **पश्चा᳓त्** पान्तु।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+may the Adityas, with the All-gods, protect thee on the west;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदि॒त्यास् त्वा॒ विश्वै॑र्दे॒वैᳶ प॒श्चात् पा॑न्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒दि॒त्याः । त्वा॒ । विश्वैः॑ । दे॒वैः । प॒श्चात् । पा॒न्तु॒ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्यु᳓तान᳓स् त्वा **मारुतो᳓** मरु᳓द्भिर् **उत्तरतᳶ᳓** पातु।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+may Dyutana Maruta, with the Maruts, protect thee on the north;
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्युता॒नस् त्वा॑ मारु॒तो म॒रुद्भि॑रुत्तर॒तᳶ पा॑तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यु॒ता॒नः । त्वा॒ । मा॒रु॒तः । म॒रुद्भि॒रिति॑ म॒रुत्-भिः॒ । उ॒त्त॒र॒तः । पा॒तु॒ ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**देवा᳓स्** त्वे᳓न्द्र-ज्येष्ठा व᳓रुण-राजानो **ऽध᳓स्ताच्** चोप᳓रिष्टाच् च पान्तु ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+may the gods, with Indra as their chief, with Varuna as their king, protect thee from below and from above.
+</details>
+
+<details><summary>मूलम्</summary>
+
 दे॒वास् त्वेन्द्र॑ज्येष्ठा॒ वरु॑णराजानो॒ ऽधस्ता॑च् चो॒परि॑ष्टाच् च पान्तु ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दे॒वाः । त्वा॒ । इन्द्र॑ज्येष्ठा॒ इतीन्द्र॑-ज्ये॒ष्ठाः॒ । वरु॑णराजान॒ इति॒ वरु॑ण-रा॒जा॒नः॒ । अ॒धस्ता॑त् । च॒ । उ॒परि॑ष्टात् । च॒ । पा॒न्तु॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वामेवमेतैस्सह पान्त्विति ॥
 </details>
-
-<details><summary>मूलम् (संयुक्तम्)</summary>
-
-न वा ए॒तेन॑ पू॒तो न मेध्यो॒ न प्रोक्षि॑तो॒ यदे॑न॒मत॑ᳶ प्रा॒चीन॑म्प्रो॒क्षति॒ यत्सञ्चि॑त॒माज्ये॑न प्रो॒क्षति॒ तेन॑ पू॒तस्तेन॒ मेध्य॒स्तेन॒ प्रोक्षि॑तः ॥ [41]
 </details>
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/5/5/09/na_vA_etena_pUtaH.md">
 <details open><summary><h5>न वा ए॒तेन॑ ...{Loading}...</h5></summary>
-<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तत्र ब्राह्मणम् -)+++  
-न वा ए॒तेन॑ +++(जल-प्रोक्षणेन)+++ पू॒तो +++(अग्निर्)+++, न मेध्यो॒, न प्रोक्षि॑तः।  
-यद् ए॑न॒म् अत॑ᳶ +++(हविर्-निधानात्)+++ प्रा॒चीन॑म् प्रो॒क्षति॒  
-यत् सञ्चि॑त॒म् आज्ये॑न प्रो॒क्षति॒   
-तेन॑ +++(स)+++ पू॒तस् , तेन॒ मेध्य॒स् , तेन॒ प्रोक्षि॑तः ॥ [41]
+न᳓ वा᳓ एते᳓न +++(जल-प्रोक्षणेन)+++ पूतो᳓ +++(अग्निर्)+++, न᳓ मे᳓ध्यो, न᳓ प्रो᳓क्षितः।  
+य᳓द् एनम् अ᳓तᳶ +++(हविर्-निधानात्)+++ प्राची᳓नम् प्रोक्ष᳓ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+It is not purified, nor made worthy of sacrifice, nor really anointed, if it is anointed before this point;
 </details>
 
 <details><summary>मूलम्</summary>
 
-न वा ए॒तेन॑ पू॒तो, न मेध्यो॒, न प्रोक्षि॑तो॒ , यदे॑न॒मत॑ᳶ प्रा॒चीन॑म् प्रो॒क्षति॒ यत्सञ्चि॑त॒माज्ये॑न प्रो॒क्षति॒   
-तेन॑ पू॒तस् , तेन॒ मेध्य॒स् , तेन॒ प्रोक्षि॑तः ॥ [41]
+न वा ए॒तेन॑ पू॒तो, न मेध्यो॒, न प्रोक्षि॑तो॒ , यदे॑न॒मत॑ᳶ प्रा॒चीन॑म् प्रो॒क्षति॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । वै । ए॒तेन॑ । पू॒तः । न । मेध्यः॑ । न । प्रोक्षि॑त॒ इति॒ प्र-उक्षि॑तः । यत् । ए॒न॒म् । अतः॑ । प्रा॒चीन॑म् । प्र॒उक्ष॒तीति॑ प्र-उक्ष॑ति ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -748,7 +916,35 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 किं बहुना प्रोक्षित एव न भवति ।  
 द्वितीय-स्तुत्य्-अर्थं प्रथमस्य निन्दा । 
 
-केनेत्याह - अतः अस्माच् चरु-निधानात् प्राचीनं पूर्वं यदेनं प्रोक्षति 'सहस्रस्य प्रमा असि' डति हिरण्यशल्कैः तदकृतसमम् एवैतद्दृष्ट्या भवति ।  
+केनेत्याह - अतः अस्माच् चरु-निधानात् प्राचीनं पूर्वं यदेनं प्रोक्षति 'सहस्रस्य प्रमा असि' डति हिरण्यशल्कैः तदकृतसमम् एवैतद्दृष्ट्या भवति ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त् स᳓ञ्चितम् आ᳓ज्येन प्रोक्ष᳓ति   
+ते᳓न +++(स)+++ पूत᳓स् , ते᳓न मे᳓ध्यस् , ते᳓न प्रो᳓क्षितः ॥ [41]
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+in that he anoints it with ghee after it has been piled, thereby is it purified, made worthy of sacrifice and really anointed.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्सञ्चि॑त॒माज्ये॑न प्रो॒क्षति॒   
+तेन॑ पू॒तस् , तेन॒ मेध्य॒स् , तेन॒ प्रोक्षि॑तः ॥ [41]
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । सञ्चि॑त॒मिति॒ सम्-चि॒त॒म् । आज्ये॑न । प्र॒उक्ष॒तीति॑ प्र-उक्ष॑ति । तेन॑ । पू॒तः । तेन॑ । मेध्यः॑ । तेन॑ । प्रोक्षि॑त॒ इति॒ प्र-उक्षि॑तः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
 
 तस्माद्  
 यत् सञ्चितम् इदानीं चरुनिधानानन्तरं  
@@ -758,6 +954,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 आज्यप्नोक्षणस्यैव वा ॥
 
 इति पञ्चमे पञ्चमे नवमोनुवाकः ॥
+</details>
 </details>
 </details>
 </div>

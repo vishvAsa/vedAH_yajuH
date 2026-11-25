@@ -1,9 +1,12 @@
 +++
 title = "०१ गार्हपत्यम्"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ पुनराधेयमन्त्राः । तत्र गार्हपत्य आधीयमाने सर्पराज्ञीस्तिस्रोनुवर्तयति - भूमिर्भूम्नेति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
@@ -49,9 +52,12 @@ I place, food-eater for the eating of food.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2द्वितीया - आयमिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
@@ -101,9 +107,12 @@ And the father, faring to the heaven.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तृतीया - त्रिंशदिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">

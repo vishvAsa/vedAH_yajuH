@@ -8,9 +8,12 @@ title = "१० पुण्याहः"
 अथातः पुण्याहं व्याख्यास्यामः ॥ १ । 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अथातः पुण्याहं व्याख्यास्यामः ॥ १ । 
+</details>
 </details>
 
 ## स्थितिः
@@ -23,9 +26,12 @@ title = "१० पुण्याहः"
 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 शुचौ समे देशे दर्भान्दूर्वां धारयमाणाः चत्वारो ब्राह्मणा अरिक्तहस्ताः प्राङ्मुखा युग्मास्तिष्ठन्ति २   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -36,9 +42,12 @@ title = "१० पुण्याहः"
 तस्य दक्षिणं बाहुम् आश्रित्य पत्न्यस् तिष्ठन्ति ॥ ३   
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तेषां दक्षिणत उदङ्मुखो वापिहितमुदकुम्भं धारयन्वाचयिता तस्य दक्षिणं बाहुमाश्रित्य पत्न्यस्तिष्ठन्ति ३
+</details>
 </details>
 
 ## कुम्भार्चनादि
@@ -51,9 +60,12 @@ title = "१० पुण्याहः"
 ते प्रणवपूर्वं **'वाच्यताम्'** इति प्रतिब्रूयुः ॥ ४  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 पूर्णकुम्भमभ्यर्च्य दर्भेष्वासीनो दर्भान्धारयमाणोऽनुज्ञां कुर्यात् भवद्भिरनुज्ञातः पुण्याहं वाचयिष्ये इति । ते प्रणवपूर्वं वाच्यताम् इति प्रतिब्रूयुः ४   
+</details>
 </details>
 
 ## विप्रार्चनम्
@@ -64,9 +76,12 @@ title = "१० पुण्याहः"
   - **‘शिवा आपस्तन्तु'** इति प्रत्यूचुः ॥ ६  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ॐ स्थित्वा तेषां सपवित्रेषु पाणिषु जलं ददाति ओमापः इति । शिवा आपस्तन्तु इति प्रत्यूचुः ५   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -76,9 +91,12 @@ title = "१० पुण्याहः"
 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ततः गन्धाः इति गन्धं ददाति । सुगन्धाः पान्तु इति प्रतिगृह्णन्ति ६
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -87,9 +105,12 @@ title = "१० पुण्याहः"
   - ते **‘सौमनस्यम् अस्तु'** इति प्रतिगृह्णन्ति ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तेभ्यः सुमनसः इति पुष्पं ददाति । ते सौमनस्यमस्तु इति प्रतिगृह्णन्ति ७   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,9 +119,12 @@ title = "१० पुण्याहः"
   - **‘अक्षतं चारिष्टं चास्तु'** इति प्रतिगृह्णन्ति ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तेषां पाणिषु अक्षतम् इति अक्षतान्ददाति । अक्षतशब्देन व्रीहिमिश्रास्तण्डुला उच्यन्ते । अक्षतं चारिष्टं चास्तु इति प्रतिगृह्णन्ति ८   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -109,9 +133,12 @@ title = "१० पुण्याहः"
   - ते **‘स्व्-अन्वाहार्योऽस्तु'** इति प्रतिगृह्णन्ति ॥ ९ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणा अभुक्ताश्चेत् ओमन्वाहार्यः इत्योदनं ददाति । ते स्वन्वाहार्योऽस्तु इति प्रतिगृह्णन्ति ९   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -120,9 +147,12 @@ title = "१० पुण्याहः"
   - **‘स्वस्ति, दक्षिणाः पान्तु, बहुदेयं चास्तु'** इति प्रत्यूचुः ॥ १० 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तेभ्यो दक्षिणाः इति दक्षिणां ददाति । स्वस्ति दक्षिणाः पान्तु बहुदेयं चास्तु इति प्रत्यूचुः १०   
+</details>
 </details>
 
 ## अभिमन्त्रणम्
@@ -133,6 +163,7 @@ title = "१० पुण्याहः"
 सव्यम् उत्थाप्योदुङ्मुखः 'इडा देवहूः' इति जपात । 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -143,6 +174,7 @@ title = "१० पुण्याहः"
 
 इडा॑ देव॒हूर्मनु॑र्यज्ञ॒नीर्बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द्विश्वे॑ दे॒वाः [3]  सू॒क्त॒वाच॒ᳶ पृथि॑वि मात॒र्मा मा॑ हिँसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्य॒स्तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरोऽनु॑ मदन्तु ॥ [4]  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,6 +182,8 @@ title = "१० पुण्याहः"
 म᳓नुर् यज्ञ-नी᳓र्,  
 बृ᳓हस्-प᳓तिर् उक्था-मदा᳓नि+++(=प्रतिगरान्)+++ **शँसिषत्** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,11 +212,14 @@ May Brhaspati recite the hymns and acclamations.
 **शंसिषत्** शंसति शस्त्राणि शंसति  
 मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓स् सूक्त-वा᳓चः  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,11 +240,14 @@ The All-gods [1] are reciters of the hymns.
 
 विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓थिवि मातर् मा᳓ मा हिँसीः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,11 +268,10 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -240,6 +279,8 @@ O earth mother, do not harm me.
 म᳓धु **वक्ष्यामि** ।  
 म᳓धु **वदिष्यामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,12 +309,15 @@ I will think the honey (Pravargya), I will produce the honey, I will speak the h
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
 शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,12 +346,15 @@ may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
 पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -336,17 +383,18 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓ड+++(य्)+++ ए᳓हि+++(=आ᳓+इहि)+++ ।  
 अ᳓दित ए᳓हि ।  
 स᳓रस्वत्य् ए᳓हि+++(=आ᳓+इहि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,15 +429,18 @@ O Sarasvati, come hither.
 त एवेडाविशेषा इडादिभिः सूनर्यन्तैः षड्भिर्नामविशेषैः स्पष्टी क्रियन्ते। इडादीनां गोनामविशेषत्वं सप्तमकाण्डे समाम्नातम् – ‘इडे रन्तेऽदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतानि ते अघ्‍निये नामानि’ (सं॰ का॰ ७ प्र॰ १ अ॰ ६) इति।  
 एतेषां प्रदर्शनार्थत्वाद्रमत्यादिकमपि द्रष्टव्यम्। 
 </details>
-
+</details>
 </div>
 
 **‘उदकुम्भम् आदायोपतिष्ठ'** इति प्रत्यूचुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ततो वाचयिता दक्षिणं जानुं भूमौ निधाय सव्यमुत्थाप्योदुङ्मुखः इडा देवहूः इति जपति । उदकुम्भमादायोपतिष्ठ इति प्रत्यूचुः ११   
+</details>
 </details>
 
 ## वाचनम्
@@ -399,9 +450,12 @@ O Sarasvati, come hither.
 - ततो वाचायिता **‘मनस्समाधयताम्'** इति । **‘समाहित मनसस्स्मः'** इतीतरे प्रत्याहुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ततो वाचयिता मनस्समाधीयताम् इति समाहितमनसस्स्मः इतीतरे प्रत्याहुः १२
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,9 +463,12 @@ O Sarasvati, come hither.
 - कर्ता **'प्रसीदन्तु भवन्तः'** इति । **‘प्रसन्नास्स्मः।'** इति वाचयित्वा । यद्वा-सर्वमन्त्रैर् अनवानं वदेत् ॥ १३ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 कर्ता प्रसीदन्तु भवन्तः इति प्रसन्नास्स्मः इति वाचयित्वा यद्वा सर्वैर्मन्त्रैरनवानं वदेत् १३   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,9 +476,12 @@ O Sarasvati, come hither.
 - **'शान्तिरस्तु, पुष्टिरस्तु, तुष्टिरस्त, वृद्धिरस्तु, अविघ्नमस्तु, आरोग्यमस्तु, शिवं कर्मास्तु'** इति । एवमेवेतरे प्रत्याहुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 शान्तिरस्तु पुष्टिरस्तु तुष्टिरस्तु वृद्धिरस्तु अविघ्नमस्तु आरोग्यमस्तु शिवं कर्मास्तु इति । एवमेवेतरे प्रत्याहुः १४   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,9 +489,12 @@ O Sarasvati, come hither.
 - यद्देवत्यं भवति, तस्य नाम गृह्णाति **‘असौ प्रीयताम्'** इति । एवम् एवेतरे ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यद्देवत्यं भवति तस्य नाम गृह्णाति असौ प्रीयताम् इति । एवमेवेतरे १५   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,9 +502,12 @@ O Sarasvati, come hither.
 - वाचायिता **'पुण्याहं भवन्तो ब्रुवन्तु'**। **'पुण्याहम्'** इतीतरे प्रयाहुः । एवमेव त्रिः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वाचयिता पुण्याहं भवन्तो ब्रवन्तु ॐ पुण्याहम् इतीतरे प्रत्याहुः । एवमेव त्रिः १६   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,9 +515,12 @@ O Sarasvati, come hither.
 - ततः **‘स्वस्ति भवन्तो ब्रुवन्तु'** इति । **'ओं स्वस्ति'** इततिरे प्रत्यूचुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ततः स्वस्ति भवन्तो ब्रुवन्तु इति । ॐ स्वस्ति इतीतरे प्रत्यूचुः १८   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,9 +528,12 @@ O Sarasvati, come hither.
 - ततो वाचयिता **‘ओं ऋद्धिं भवन्तो त्रुवन्तु '** इति । **‘ओं ऋध्यताम्'** इतीतरे प्रत्याहुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ततो वाचयिता ॐ ऋद्धिं भवन्तो ब्रवन्तु इति । ॐ ऋध्यताम् इतीतरे प्रत्याहुः १८   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -470,9 +542,12 @@ O Sarasvati, come hither.
   - **‘ओं शिवं कर्मास्तु, अस्तु'** इतीतरे प्रत्याहुः ॥ १९ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 एवमेव त्रिर्वाचयित्वा ॐ पुण्याहसमृद्धिरस्तु अस्तु इति ॐ शिवं कर्मास्तु अस्तु इतीतरे प्रत्याहुः १९   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,11 +556,14 @@ O Sarasvati, come hither.
   - **'प्रीयतामसौ'** इति प्रतिबूयुः ॥ 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यद्देवत्यं भवति तस्य नाम गृह्णाति असौ प्रीयताम् इति २०   
 प्रीयतामसौ इति प्रतिब्रूयुः २१   
 
+</details>
 </details>
 
 ## प्रोक्षणान्तम्
@@ -496,9 +574,12 @@ O Sarasvati, come hither.
 पत्नीं च प्रोक्षतीत्य् आह भगवान् बोधायनः। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अथ व्याहृतिभिर्भूमौ जलं विसृज्योपविश्य सुरभिमत्याऽब्लिङ्गाभिर्वारुणीभिर्हिरण्यवर्णाभिः पावमानीभिर्व्याहृतीभिरिति मार्जयित्वा पत्नीं च प्रोक्षतीत्याह भगवान्बोधायनः २२   
+</details>
 </details>
 
 इति बोधायनीये गृह्यशेषे प्रथमप्रश्ने दशमोऽध्यायः

@@ -206,6 +206,8 @@ title = "१० सम्भाव्यानि प्रायश्चित
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/03_pashchAt_agnir_hotA">
 ###### होता
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पश्चाद् उदञ्चं पञ्चहोतारम् उपदधाति - अग्निर्होतेति ॥
@@ -219,11 +221,14 @@ title = "१० सम्भाव्यानि प्रायश्चित
 
 तत्पाठस्तु -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -244,11 +249,14 @@ The fire is the Hotṛ priest;
 
 अग्न्यादयः प्रसिद्धाः । अध्वर्युः प्रतिप्रस्थाता चेत्येवमध्वर्युद्वित्वेन होतृपञ्चकं पूरणीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नाऽध्वर्यू᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -264,11 +272,14 @@ Aśvins, the Adhvaryu priest;
 
 कर्मठत्वात् अश्विनौ अध्वर्यू अध्वरस्य नेतारौ अध्वर्युः प्रतिप्रस्थाता च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टाऽग्नी᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -282,19 +293,22 @@ Tvaṣṭr, verily, the fire;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-12, *AV*-29/30, *SB-M*-23, *VS-M*-13)
-- अग्नी᳓त् (*TS*-5/6, *TB*-1/2)
+- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-12, *AV*-29/30, *SB-M*-23, *SB-K*-30, *VS-M*-13, *VS-K*-13)
+- अग्नी᳓त् (*TS*-5/6, *TB*-1/2, *SB-K*-32)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वष्टा अग्नीत् आग्नीध्रः उत्तेजनहेतुत्वात्, अग्नीधश्च विहरणादिकृत्त्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्र᳓ उपवक्ता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -308,7 +322,7 @@ Mitra, the impeller.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-14/25, *AV*-27/51, *SB-M*-8/23, *VS-M*-10/28)
+- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-14/25, *AV*-27/51, *SB-M*-8/23, *SB-K*-40/74, *VS-M*-10/28, *VS-K*-19/39)
 - उपवक्ता᳓ (*RV*-1)
 </details>
 
@@ -316,8 +330,11 @@ Mitra, the impeller.
 
 मित्र उपवक्ता ब्रह्मा, कर्मसाक्षित्वात् ॥
 </details>
+</details>
 
 ###### ग्रहेष्टका
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -328,11 +345,14 @@ Mitra, the impeller.
 
 अथ ग्रहभागानाह -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस् +++(वल्ली-रूपेण)+++ सो᳓मस्य **पुरो-गाः᳓** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -346,20 +366,23 @@ Soma is the first going one of the Soma-plant;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-48/135, *AV*-89/213, *SB-M*-126/248, *VS-M*-29/90)
-- सो᳓मस्य (*TS*-38/294, *RV*-118/728, *TB*-18/135, *AV*-25/213, *SB-M*-37/248, *VS-M*-16/90)
-- पुरो-गाः᳓ (*TS*-2/3, *VS-M*-3)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-48/135, *AV*-89/213, *SB-M*-126/248, *SB-K*-223/436, *VS-M*-29/90, *VS-K*-36/107)
+- सो᳓मस्य (*TS*-38/294, *RV*-118/728, *TB*-18/135, *AV*-25/213, *SB-M*-37/248, *SB-K*-34/436, *VS-M*-16/90, *VS-K*-19/107)
+- पुरो-गाः᳓ (*TS*-2/3, *VS-M*-3, *VS-K*-2)
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 योऽयं देवतात्मकः सोमः सोऽयं लतात्मकस्य यागदेशं प्रत्यागमने पुरतो गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्र᳓श् शुक्र᳓स्य **पुरो-गाः᳓** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -375,12 +398,15 @@ the white Soma-juice is the first going one of the white (shining Mantras).
 
 शुक्रो भासको देवतादिप्रकाशको मन्त्रः शुक्रस्य गृह्यमाणतया भासमानस्य सोमस्य पुरतो गच्छति । आदौ मन्त्रं पठित्वा पश्चात्सोमो गृह्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **श्राता᳓स्**+++(=पक्वाः)+++ त इन्द्र सो᳓माः ।  
 वा᳓तापेर्+++(←वात+आप्)+++ हवन-**श्रु᳓तस्** +++(←श्रुत् ←श्रु [त इन्द्र])+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -395,13 +421,13 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- श्राताः᳓ (*RV*-0/4, *AV*-0/4, *SB-M*-0/1, प्रातिपदिकम् श्रात᳓ (*MW*))
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022)
+- श्राताः᳓ (*RV*-0/4, *AV*-0/4, *SB-M*-0/1, *SB-K*-0/1, प्रातिपदिकम् श्रात᳓ (*MW*))
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345)
 - इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- सो᳓माः (*TS*-2/294, *RV*-43/728, *TB*-1/135, *AV*-5/213, *SB-M*-2/248, *VS-M*-2/90)
+- सो᳓माः (*TS*-2/294, *RV*-43/728, *TB*-1/135, *AV*-5/213, *SB-M*-2/248, *SB-K*-3/436, *VS-M*-2/90, *VS-K*-2/107)
 - वा᳓त-आपेः (बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
-- हवन-श्रु᳓तः (*TS*-2, *RV*-2/6, *SB-M*-1, *VS-M*-1, क्विप् पा॰ ६.२.१३९)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+- हवन-श्रु᳓तः (*TS*-2, *RV*-2/6, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2, क्विप् पा॰ ६.२.१३९)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -416,6 +442,7 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 <details><summary>सायण-टीका</summary>
 
 हे इन्द्र ते त्वदर्थमेते सोमाः श्राताः पक्वाः, आश्रिता वा । कीदृशस्य ते । वातवदाप्नोति सहसा गच्छतीति वातापिस्तस्य । हवनमाह्वानं शृणोतीति हवनश्रुत्तस्य । एतदर्थं जुहुधीति स्वकीया वागाह ॥
+</details>
 </details>
 
 (3)
@@ -469,6 +496,8 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 महाव्याहृतीः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/02_bhUr_agnaye_mahAvyAhRtayaH/">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 1)* Mahāvyāhṛti-Mantras for Homa.
@@ -486,12 +515,15 @@ Indra, Soma-juices have been prepared for you, who are of the speed of the wind 
 सर्व-होम-साधारणम् आज्यम् एव द्रव्यम् इत्य् अवगन्तव्यम्।  
 फल-विशेषस्यानुक्तत्वात् पापक्षयोऽत्र साधारणं फलं द्रष्टव्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र् अग्न᳓ये पृथिव्यै᳓ स्वा᳓हा॥    
 +++((अग्नय इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -505,15 +537,16 @@ Bhuh! Hail for the fire and for the earth!
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
-- अग्न᳓ये (*TS*-128/1195, *RV*-47/856, *TB*-30/310, *TK*-12/30, *AV*-16/419, *SB-M*-19/111, *VS-M*-12/36)
-- पृथिव्यै᳓ (*TS*-24, *RV*-6, *TB*-10, *AV*-6, *SB-M*-11, *VS-M*-7)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5, *SB-K*-32, *VS-K*-9)
+- अग्न᳓ये (*TS*-128/1195, *RV*-47/856, *TB*-30/310, *TK*-12/30, *AV*-16/419, *SB-M*-19/111, *SB-K*-138/2289, *VS-M*-12/36, *VS-K*-20/193)
+- पृथिव्यै᳓ (*TS*-24, *RV*-6, *TB*-10, *AV*-6, *SB-M*-11, *SB-K*-18, *VS-M*-7, *VS-K*-11)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्र भूर्भुवस्सुवरिति व्याहृतयः सृष्ट्यर्थं तपस्तप्यमानेन प्रजापतिना व्याहृतत्वात् । यथा - 'स भूरिति व्याहरत् । स भूमिमसृजत' इत्यादि । आसां परिणामोऽग्न्यादयः पृथिव्यादयश्च एतदधीनस्थितिका वा । स्वाहाकारसम्बन्धेऽपि निपातत्वाच् चतुर्थ्यभावः । भूरित्येतां व्याहृतिम् एतत्सम्बन्धिनीं पृथिवीम् अग्निं चानया स्वाहाकृतयाऽऽहुत्या तर्पयामीति । एवं सर्वत्र । व्याहृतित्रयाधीनस्थितिकाश्चन्द्रमा दिशश्च । अथ एतल्लोकत्रयवासिभ्यो देवेभ्यो नमः । पितृभ्यस्स्वधाऽस्तु । अथ एवम्प्रभावव्याहृतित्रयाविभागावस्थं परं ब्रह्म अहमस्मीत्य् उपासनाविधित्वेन योज्यम् । व्याख्यातः प्रणवः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -521,6 +554,8 @@ Bhuh! Hail for the fire and for the earth!
 भु᳓वो वाय᳓वे ऽन्त᳓रिक्षाय स्वा᳓हा॥  
 +++((वायव इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -534,10 +569,10 @@ Bhuvah! Hail for the wind and for the mid-region!
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भु᳓वः (*TS*-17, *RV*-25, *TK*-3)
-- वाय᳓वे (*TS*-17/108, *RV*-25/89, *TB*-8/56, *AV*-4/42, *SB-M*-10/47, *VS-M*-9/21)
-- अन्त᳓रिक्षाय (*TS*-17/180, *RV*-0/94, *TB*-1/25, *AV*-5/129, *SB-M*-2/26, *VS-M*-0/5)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3, *SB-K*-30, *VS-K*-9)
+- वाय᳓वे (*TS*-17/108, *RV*-25/89, *TB*-8/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-12/227, *VS-M*-9/21, *VS-K*-9/39)
+- अन्त᳓रिक्षाय (*TS*-17/180, *RV*-0/94, *TB*-1/25, *AV*-5/129, *SB-M*-2/26, *SB-K*-5/257, *VS-M*-0/5, *VS-K*-0/32)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -546,12 +581,15 @@ Bhuvah! Hail for the wind and for the mid-region!
 तानि च व्यस्तरूपेण समस्तरूपेण च मन्त्रचतुष्टयरूपतां प्रतिपद्याग्न्यादिदेवताप्रतिपादकानि।  
 तथा सत्ययमर्थः संपद्यते। भूरित्यनेन मन्त्रेण प्रतिपाद्यायाग्नये तन्मन्त्रप्रतिपाद्यायै पृथिव्यै च स्वाहा सुहुतमिदं द्रव्यमस्त्विति। एवमुत्तरेष्वपि त्रिषु मन्त्रेषु योज्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् आदित्या᳓य दिवे᳓ स्वा᳓हा॥  
 +++((आदित्यायेदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -565,10 +603,11 @@ Suvah! Hail for the sun and for the heaven!
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सु᳓वर् (*TB*-8)
-- आदित्या᳓य (*TS*-0/195, *RV*-0/91, *TB*-0/61, *AV*-3/70, *SB-M*-0/72, *VS-M*-0/5, प्रातिपदिकम् आदित्य᳓ (*MW*))
-- दिवे᳓ (*TS*-19/270, *RV*-15/854, *TB*-5/68, *AV*-8/339, *SB-M*-6/81, *VS-M*-7/102)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+- सु᳓वर् (*TB*-8, *SB-K*-117, *VS-K*-22)
+- आदित्या᳓य (*TS*-0/195, *RV*-0/91, *TB*-0/61, *AV*-3/70, *SB-M*-0/72, *SB-K*-2/438, *VS-M*-0/5, *VS-K*-0/31, प्रातिपदिकम् आदित्य᳓ (*MW*))
+- दिवे᳓ (*TS*-19/270, *RV*-15/854, *TB*-5/68, *AV*-8/339, *SB-M*-6/81, *SB-K*-10/342, *VS-M*-7/102, *VS-K*-13/143)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +615,8 @@ Suvah! Hail for the sun and for the heaven!
 भू᳓र् भु᳓वस् सु᳓वश् चन्द्र᳓मसे दिग्भ्य᳓स् स्वा᳓हा॥    
 +++((चन्द्रमस इदं न मम))+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -589,18 +630,22 @@ Bhuh, Bhuvah, Suvah! for the quarters.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
-- भु᳓वः (*TS*-17, *RV*-25, *TK*-3)
-- सु᳓वः (*TS*-67, *TB*-12)
-- चन्द्र᳓मसे (*TS*-5/10, *RV*-0/2, *TB*-4/16, *TK*-1/3, *AV*-0/4, *SB-M*-0/9, *VS-M*-1/4)
-- दिग्भ्यः᳓ (*TS*-21/24, *TB*-3, *AV*-3, *SB-M*-4, *VS-M*-5)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63)
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5, *SB-K*-32, *VS-K*-9)
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3, *SB-K*-30, *VS-K*-9)
+- सु᳓वः (*TS*-67, *TB*-12, *SB-K*-117, *VS-K*-22)
+- चन्द्र᳓मसे (*TS*-5/10, *RV*-0/2, *TB*-4/16, *TK*-1/3, *AV*-0/4, *SB-M*-0/9, *SB-K*-1/34, *VS-M*-1/4, *VS-K*-1/6)
+- दिग्भ्यः᳓ (*TS*-21/24, *TB*-3, *AV*-3, *SB-M*-4, *SB-K*-33, *VS-M*-5, *VS-K*-6)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्भिर्मन्त्रैर्यथाशक्ति हुत्वाऽन्ते प्राङ्मुखो नमो देवेभ्य इति मन्त्रेणोपतिष्ठेत।  
 पश्चाद् दक्षिणाभिमुखः स्वधा पितृभ्य इति मन्त्रेणोपतिष्ठेत।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,6 +653,8 @@ Bhuh, Bhuvah, Suvah! for the quarters.
 न᳓मो देवे᳓भ्यस्, स्वधा᳓ पितृ᳓भ्यो,  
 भू᳓र् भु᳓वस् सु᳓वरो᳓म् । (12) - । 2 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -629,6 +676,7 @@ Salutation for the gods! Hail for the moon and Svadha (Hail) for the fathers! Bh
 इति श्रीमत्सयणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतै-
 त्तिरीयारण्यकभाष्ये दशमप्रपाठके नारायणीयापरनामधेययुक्तायां
 याज्ञिक्यामुपनिषदि द्वितीयोऽनुवाकः॥ २॥
+</details>
 </details>
 </div>  
 

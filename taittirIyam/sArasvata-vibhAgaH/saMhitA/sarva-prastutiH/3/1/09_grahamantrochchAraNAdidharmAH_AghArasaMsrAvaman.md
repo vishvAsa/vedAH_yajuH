@@ -3,9 +3,12 @@ title = "०९ ग्रहमन्त्रोच्चारणादिध�
 +++
 
 २-४ त्रिष्टुप् । विश्वेदेवा ऋषयः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै दे॒वान्दे॑वयश॒सेना॒र्पय॑ति मनु॒ष्या॑न्मनुष्ययश॒सेन॑ देवयश॒स्ये॑व दे॒वेषु॒ भव॑ति मनुष्ययश॒सी म॑नु॒ष्ये॑षु॒ यान्प्रा॒चीन॑माग्रय॒णाद्ग्रहा॑न्गृह्णी॒यात्तानु॑पाँ॒शु गृ॑ह्णीया॒द्यानू॒र्ध्वाँस्तानु॑पब्दि॒मतो॑ दे॒वाने॒व तद्दे॑वयश॒सेना॑र्पयति मनु॒ष्या॑न्मनुष्ययश॒सेन॑ देवयश॒स्ये॑व दे॒वेषु॑ भवति मनुष्ययश॒सी म॑नु॒ष्ये॑षु
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ title = "०९ ग्रहमन्त्रोच्चारणादिध�
 देवयशस्ये᳙व देवे᳓षु भ᳓वति ।  
 मनुष्ययशसी᳓ मनुष्ये᳙षु  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,10 +44,14 @@ He who bestows upon the gods the glory of the gods, and on men the glory of men,
 1यो वे देवानित्यादि ॥ देवानां यशो देवयशसं स्वकीर्तिः बलं वा देवानां योग्यं यशः । 'अनसन्तान्नपुंसकात्' इत्यच्समासान्तः । अर्पयति प्रापयति । अर्तेर्णिचि 'अर्तिर्ही' इत्यादिना पुक् । एवं मनुष्ययशसेनार्पयति ।
 देवयशसीति । देवानां योग्येन यशसा देवानां मध्ये अतिशयेन तद्वान् भवति, मनुष्ययशसी च मनुष्येषु भवति । 'चादिलोपे विभाषा' इति प्रथमो भवतिशब्दो न निहन्यते, विभाषेति वचनात् द्वितीयो निहन्यते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कथं पुनः क्रियमाणेन तेन तेऽर्पिता भवन्तीत्याह - यानित्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -50,6 +59,8 @@ He who bestows upon the gods the glory of the gods, and on men the glory of men,
 या᳓न्प्राची᳓नमाग्रयणा᳓द्ग्र᳓हान्गृह्णीया᳓त्
 ता᳓नुपाँशु᳓ गृह्णीयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,11 +83,14 @@ The libations which he draws off before the Agrayana libation, he should draw of
 आग्रयणाद्ग्रहात्प्राचीनं यान् ग्रहान् गृह्णीयात् । 'विभाषाञ्चेरदिक्स्त्रियाम्' इति खः ।
 तानुपांशु अव्यक्तमन्त्रं गृह्णीयात्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓नूर्ध्वाँ᳓स्ता᳓नुपब्दिम᳓तः   ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,12 +111,15 @@ those after with noise;
 
 यानूर्ध्वान् तत उपरितनान् ग्रहान् तानुपब्दिमतः किंचिदुच्चशब्दवतो गृह्णीयात् ; नात्युच्चशब्दान् । बदिर् निशमने, 'इन् सर्वधातुभ्यः' इत्युपपूर्वात् बदेश्छान्दस उपधालोपः । समीपस्थैर्यो निशम्यते न दूरस्थैः स उपब्दिश्शब्दविशेषः । तद्वतः उपब्दिमतः । 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् । 'उपाद्व्यजजिनम्' इत्युपांशुशब्दे उत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नेव᳓ त᳓द्देवयशसे᳓नार्पयति ।  
 म᳓नुष्या᳙न्मनुष्ययशसे᳓न ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,12 +141,15 @@ verily he bestows upon the gods the glory of the gods, and on men the glory of m
 
 देवानित्यादि । तत् तेन तथाकरणेनेत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवयशस्ये᳙व देवे᳓षु भवति ।  
 मनुष्ययशसी᳓  मनुष्ये᳙षु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,6 +171,9 @@ verily he has the divine glory among the gods, the human glory among men.
 
 गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -161,6 +184,7 @@ verily he has the divine glory among the gods, the human glory among men.
 
 2यत्र बहिष्पवमानं साम आरब्धुमाग्नीध्रस्य पुरस्तात् प्रसृप्स्यन्तो भवन्ति तत्रान्वारब्धेषु तेषु आहवनीये स्रुवेणाहुतिं जुहोति - अग्निः प्रातस्सवने इति त्रिष्टुभा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -168,6 +192,8 @@ verily he has the divine glory among the gods, the human glory among men.
 
 स᳓ नᳶ पावको᳓ द्र᳓विणन्दधात्वा᳓युष्मन्तस्सह᳓भक्षास्स्याम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,10 +219,14 @@ May we that share the draught be long-lived.
 
 अस्मिन् प्रातस्सवने अग्निः अस्मान् पातु रक्षतु वैश्वानरः विश्वेषां नराणां स्वामित्वेन सम्बन्धी । महिना महत्त्वेन विश्वशंभूः विश्वेषां सुखस्य भावयिता । महेरिनिप्रत्ययान्तात् 'सुपां सुलुक्' इति तृतीयाया आकारः । स नः अस्मभ्यं द्रविणं धनं दधातु ददातु पावकः अस्माकं शोधयिता । किञ्च - वयमायुष्मन्तः दीर्घायुषः सहभक्षाः भक्षयितृभिस्सह सर्वैः सहिताश्च सर्वदा स्याम ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3माध्यन्दिने पवमाने तथैवान्वारब्धेषु आहवनीये स्रुवाहुतिं जुहोति - विश्वे देवा इति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -204,6 +234,8 @@ May we that share the draught be long-lived.
 वि᳓श्वे देवा᳓ मरु᳓त इ᳓न्द्रो अस्मा᳓नस्मि᳓न्द्विती᳓ये स᳓वने न᳓ जह्युः ।  
 आ᳓युष्मन्तᳶ प्रिय᳓मेषाव्ँव᳓दन्तो वय᳓न्देवा᳓नाँ सुमतौ᳓ स्याम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,10 +260,14 @@ May we enjoy the favour of the gods.
 
 विश्वे देवाः मरुतश्च इन्द्रश्चास्मानस्मिन् द्वितीये सवने न जह्युः माध्यन्दिने मा हासिषुः । ततश्च वयमपि आयुष्मन्तस्सन्तः एषां देवानां प्रियं स्तोत्रशस्त्रादिकं वदन्तः देवानां सुमतौ कल्याणायां सानुग्रहायां बुद्धौ स्याम । सुष्ठु मननं सुमतिः । कृदुत्तरपदप्रकृतिस्वरत्वम्, 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आर्भवे पवमाने तथैव समन्वारब्धेषु आहवनिये स्रुवाहुतिं जुहोति - इदं तृतीयमिति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -239,6 +275,8 @@ May we enjoy the favour of the gods.
 इद᳓न्तृती᳓यँ स᳓वनङ्कवीना᳓मृते᳓न ये᳓ चमस᳓मै᳓रयन्त ।   
 ते᳓ सौधन्वना᳓स्सु᳓वरानशाना᳓स्स्विष्टिन्नो अभि᳓ व᳓सीयो नयन्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,10 +301,14 @@ Bear our good offering to what is better.
 
 इदं तृतीयं सवनं कवीनां मेधाविनामृत्विजां सम्बन्धि 'वसीयो नयन्तु' इति वक्ष्यमाणेन सम्बध्यते । नः अस्मान् अस्मदाभिमुख्येन इदं सवनं वसीयः वसुमत्तरं कृत्वा अस्मान् नयन्तु प्रापयन्तु । ते के ? ये ऋतेन सत्येन चमसं चमसान् । जातावेकवचनम् । ऐरयन्त प्रेरितवन्तः कृतवन्त इत्यर्थः । ते सौधन्वनाः सुधन्वनः इन्द्रस्य सम्बन्धिनो देवाः ऋभुनामानः सुवः स्वर्गं आनशानाः व्याप्नुवन्तः इदं सवनं वसीयः कुर्वन्तु स्विष्टिं शोभनं च यागमस्माकं कुर्वन्तु । शोभना इष्टिः स्विष्टिः इति प्रादिसमासः, अव्ययपूर्वपदप्रकृतिस्वरत्वम् । गतिसमासे 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । 'उदात्तस्वरितयोर्यणः' इति संहितायां ततः परः इकारस्स्वर्यते । अश्नोतेर्लिटः कानजादेशः, 'अश्नोतेश्च' इति नुट् । वसीयश्शब्दो व्याख्यातः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒यत॑नवती॒र्वा अ॒न्या आहु॑तयो हू॒यन्ते॑ऽनायत॒ना अ॒न्या या आ॑घा॒रव॑ती॒स्ता आ॒यत॑नवती॒र्याः [27]  सौ॒म्यास्ता अ॑नायत॒ना ऐ॑न्द्रवाय॒वमा॒दाया॑घा॒रमा घा॑रयेदध्व॒रो य॒ज्ञो॑ऽयम॑स्तु देवा॒ ओष॑धीभ्यᳶ प॒शवे॑ नो॒ जना॑य॒ विश्व॑स्मै भू॒ताया॑ध्व॒रो॑ऽसि॒ स पि॑न्वस्व घृत॒व॑द्देव सो॒मेति॑ सौ॒म्या ए॒व तदाहु॑तीरा॒यत॑नवतीᳵ करोत्या॒यत॑नवान्भवति॒ य ए॒वव्ँ वेदाथो॒ द्यावा॑पृथि॒वी ए॒व घृ॒तेन॒ व्यु॑नत्ति॒ ते व्यु॑त्ते उपजीव॒नीये॑ भवत उपजीव॒नीयो॑ भवति [28]  य ए॒वव्ँ वेद
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +316,8 @@ Bear our good offering to what is better.
 आय᳓तनवतीर्वा᳓ अन्या᳓ आ᳓हुतयो हूय᳓न्ते ।  
 अनायतना᳓ अन्याः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,12 +339,15 @@ Some libations have bases, some have not.
 
 5आयतनवतीरित्यादि ॥ आयतनवतीः आयतनवत्यः विभक्तावकाशं स्थानमायतनं तद्वत्यः अन्याः काश्चिदाहुतयः हूयन्ते, काश्चिदनायतना एव हूयन्ते । 'एकान्याभ्यां समर्थाभ्याम्' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ आघार᳓वतीस्ता᳓ आय᳓तनवतीः  
 यास्सौम्या᳓स्ता᳓ अनायतनाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,10 +370,14 @@ Those which have a sprinkling have bases, those [2] of Soma have not bases.
 काः पुनस्ता उभय्य इत्याह - या इत्यादि । आघारवतीः आघारोक्ष्णया होमः, तद्वत्यो या आहुतयः आज्यपुरोडाशादीनां ता आयतनवत्यः ।  
 यास्सौम्याः सोमाहुतयः ता अनायतनाः, अघाराभावात् । 'सोमाट्ट्यण्' ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्र ऐन्द्रवायवमादाय जुहोति - अध्वरो यज्ञ इति त्रिष्टुभा ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -334,6 +385,8 @@ Those which have a sprinkling have bases, those [2] of Soma have not bases.
 ऐन्द्रवायव᳓मादा᳓याघार᳓मा᳓ घारयेत् ।  
 अ᳓ध्वरो᳓ यज्ञो᳙ऽय᳓मस्तु देवा ओ᳓षधीभ्यᳶ पश᳓वे नो ज᳓नाय ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +409,14 @@ Taking (the cup) for Indra and Vayu he should sprinkle it (saying), 'May the sac
 आघारे दक्षिणं परिधिसन्धिमन्ववहृत्य प्राञ्चमुदञ्चमाघारयेत् ।
 मन्त्रार्थस्तु - अयं यज्ञः अध्वरः हिंसकरहितः अस्तु हे देवाः । किमर्थम् ? ओषधीभ्यः पशवे पशुभ्यः । जातावेकवचनम् । नः अस्माकं जनाय पुत्रादये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वस्मै भूता᳓याध्वरो᳙ऽसि᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +437,14 @@ for all creatures harmless thou art;
 
 किं बहुना - विश्वस्मै भूताय सर्वस्मै भूतजाताय । किं च – अध्वरस्त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ पिन्वस्व घृतव᳙द्देव सोमे᳓ति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +465,14 @@ swell like ghee, O god Soma.'
 
 हे देव सोम त्वं घृतवत् घृतार्हं घृतयुक्तं वा अस्मान् पिन्वस्य प्रीणय । पिवि प्रणिने, इदित्त्वान्नुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्या᳓ एव᳓ त᳓दा᳓हुतीराय᳓तनवतीᳵ करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,11 +493,14 @@ Verily so he makes the libations of Soma to have a base.
 
 तेन सौम्या अप्याहुतीरायतनवतीः करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आय᳓तनवान्भवति य᳓ एवव्ँ᳓ वे᳓द ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +521,14 @@ He becomes possessed of a base who knows thus.
 
 य एवं वेदिता आयतनवान् गृहवान् भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो द्या᳓वापृथिवी᳓ एव᳓ घृते᳓न व्यु᳙नत्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,11 +549,14 @@ Verily also he wets with ghee the sky and earth:
 
 अथो अपि च अनेनाघारेण द्यावापृथिवी एव घृतेन उदकेन व्युनत्ति विविधं क्लेदयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ व्युत्ते उपजीवनी᳓ये भवतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +577,14 @@ they being wet are to be lived upon;
 
 ते व्युत्ते क्लेदिते उपजीवनीये सर्वेषां भवतः । उन्दी क्लेदने, 'श्वीदितो निष्ठायाम्' इतीट्प्रतिषेधः, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम्, 'उदात्तस्वरितयोर्याणः' इति ततः परस्य संहितायां स्वरितत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपजीवनी᳓यो भवति [28]  य᳓ एवव्ँ᳓ वे᳓द ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,6 +605,9 @@ he is to be lived upon [3] who knows thus.
 
 एवं वेदिता उपजीवनीयो भवति बन्धूनामीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -541,11 +618,14 @@ he is to be lived upon [3] who knows thus.
 
 6प्रतिप्रस्थाता उत्तरार्धे आहवनीयस्य मन्थिनस्संस्रावं जुहोति - एष ते रुद्र भाग इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते रुद्र भागो᳓ य᳓न्निर᳓याचथाः  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -566,11 +646,14 @@ This is thy share, O Rudra, for which thou didst ask;
 
 हे रुद्र एष संस्रावभागः । यं त्वं निरयाचथाः निष्कृष्य देवेभ्यः स्वतन्त्रमयाचथाः 'यज्ञे माऽऽभजाथ ते पशून्नाभि मंस्ये' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ञ्जुषस्व , विदेः᳓ गौ᳓पत्यँ᳓ राय᳓स्पो᳓षँ सुवी᳓र्यँ सव्ँवत्सरी᳓णाँ स्वस्ति᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -591,6 +674,9 @@ rejoice in it, find (for us) the lordship of cows, abundance of wealth, with goo
 
 सोयं त्वदीयो भागः, तं जुषस्व सेवस्व विदेः वेदय लम्भय । विदेरन्तर्भावितण्यन्ताल्लिङि छान्दसो नुमभावः । ण्यन्तादेव वा लिङि 'बहुलं संज्ञाछन्दसोः' इति णिलुक् । यद्वा - विदेः विद्याः । वेत्तेर्विकरणव्यत्ययेन शः । गौपत्यादिकमस्मान् लम्भय । गौपत्यादिलक्षणं वा आत्मीयं माहात्म्यं अनेन होमेन वेदितुमर्हसीति । गौपत्यं गवां स्वामित्वम् । पतिलक्षणो ण्यत् । रायो धनस्य पश्वादेः पोषं पुष्टिं कीदृशं ? सुवीर्यं शोभनपुत्रादि बलम् । पूर्ववत्सत्वम्, स्वरश्च । संवत्सरीणां संवत्सरभाविनीं स्वस्तिं अविनाशम् । 'संपरिपूर्वात्ख च' इति खः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -601,11 +687,14 @@ rejoice in it, find (for us) the lordship of cows, abundance of wealth, with goo
 
 7अथैतस्य मन्थिसंस्रावहोमस्य ब्राह्मणम् - मनुः पुत्रेभ्य इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नुᳶ पुत्रे᳓भ्यो दाय᳓व्व्ँयभजत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -627,11 +716,14 @@ Manu divided his property among his sons.
 मनुः प्रजापतिः आत्मीयेभ्यः पुत्रेभ्यो दायं व्यभजत् । क्रयादिभिर्विनाऽपि पित्रादिसकाशात्पुत्रादिभिः प्राप्यं धनं दायः ।
 स पुत्रेभ्यः तद्व्यभजत् मनुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ना᳓भाने᳓दिष्ठम्ब्रह्मच᳓र्यव्ँव᳓सन्तन्नि᳓रभजत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -652,6 +744,7 @@ He deprived Nabhanedistha, who was a student, of any portion.
 
 नाभानेदिष्ठं नाम पुत्रं ब्रह्मचर्यं वसन्तं ब्रह्म वेदः तदर्थानां व्रतानां चरणं ब्रह्मचर्यम् । 'गद मदचर' इति यत् । तदुपसंप्राप्य वसन्तम् । यद्वा - ब्रह्मचर्यं निषेवमाणं निरभजत् निर्भागमकरोत् । भानां नेदिष्ठः प्रत्यासन्नतमः भानेदिष्ठः न भानेदिष्ठः अभानेदिष्ठः, तद्विपरीतः नाभानेदिष्ठः तेजस्वितमः । व्युत्पत्तिमात्रमिदम् । संज्ञैषा तत्रभवतः । अत एव नावगृह्यते । 'अयं नाभा वदति' इत्यत्र तु एकदेशस्य ग्रहणं यथा भीमसेनो भीम इति । तत्र व्यत्ययेन पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । वनस्पत्यादिर्वा द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -659,6 +752,8 @@ He deprived Nabhanedistha, who was a student, of any portion.
 सो᳙ऽब्रवीत् ।
 कथा᳓ मा नि᳓रभागि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -681,11 +776,14 @@ He went to him, and said, 'How hast thou deprived me of a portion?'
 
 सः नाभानेदिष्ठः समाप्तब्रह्मचर्य आगच्छत्, आगत्य च सोब्रवीत् पितरम् । कथा केन हेतुना मां निरभाक् निर्भागमकार्षीः इति । 'था हेतौ च छन्दसि' इति थाप्रत्ययः । भजेर्लङि 'वदव्रज' इति वृद्धौ 'बहुलं छन्दसि' इतीडभावे इतश्च लोपः, हल्ङ्यादिसंयोगान्तलोपे अभागिति रूपम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ त्वा नि᳓रभाक्षमि᳓त्यब्रवीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -706,16 +804,22 @@ He replied, 'I have not deprived you of a portion;
 
 अथ न त्वा निरभाक्षं निर्भागमकार्षमिति पिताऽब्रवीत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अङ्गि॑रस इ॒मे स॒त्त्रमा॑सते  ते [29]  सु॒व॒र्गल्ँ लो॒कन्न प्र जा॑नन्ति॒ तेभ्य॑ इ॒दम्ब्राह्म॑णम्ब्रूहि॒ ते सु॑व॒र्गल्ँ लो॒कय्ँयन्तो॒ य ए॑षाम्प॒शव॒स्ताँस्ते॑ दास्य॒न्तीति॒ तदे॑भ्योऽब्रवी॒त्ते सु॑व॒र्गल्ँ लो॒कय्ँयन्तो॒ य ए॑षाम्प॒शव॒ आस॒न्तान॑स्मा अददुः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गिरस इमे᳓  सत्त्र᳓मासते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -736,11 +840,14 @@ the Angirases here are performing a Sattra;
 
 8कस्तर्हि मम भाग इति चेत्तदपि ब्रूमः - अङ्गिरस इमे सत्त्रमासते सत्रमुपसंप्राप्यासते सत्रयागं कुर्वन्ति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓  सुवर्गल्ँ᳓ लोक᳓न्न᳓ प्र᳓ जानन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -761,11 +868,14 @@ they [4] cannot discern the world of heaven;
 
 ते सुवर्गं लोकं न प्रजानन्ती तज्ज्ञानसाधनानामज्ञानात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्य इद᳓म्ब्रा᳓ह्मणम्ब्रूहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,11 +896,14 @@ declare this Brahmana to them;
 
 तेभ्य इदं ब्राह्मणं ब्रूहि
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓य᳓न्तो य᳓ एषाम्पश᳓वस्ताँ᳓स्ते दास्यन्ती᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -811,12 +924,15 @@ when they go to the, world of heaven they will give thee their cattle.'
 
 ततस्ते ब्राह्मणोक्तार्थानुष्ठानेन सुवर्गं लोकं यन्तः ये एषां तदात्वे पशव आसन् सहस्रसङ्खयाः तांस्ते सत्रान्ते दास्यन्ति स ते भाग इति पिता पुत्रमब्रवीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देभ्योऽब्रवीत् ।
 ते᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓य᳓न्तो य᳓ एषाम्पश᳓व आ᳓सन् ता᳓नस्मा अददुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -838,10 +954,14 @@ He told them it, and they when going to the world of heaven gave him their cattl
 
 स च पुत्रः तेभ्यः ब्राह्मणमब्रवीत् । ते सुवर्गमित्यादि । गतम् । किं पुनस्तद्ब्राह्मणं । उच्यते - अवाप्यानि सन्तीति द्रप्सा अनुमन्त्रणीया अच्छावाक्यास्स्तोत्रियाश्शस्त्रियास्सत्यवदनश्रद्धाहोमादिनादिति[?] ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तम्प॒शुभि॒श्चर॑न्तय्ँ यज्ञवा॒स्तौ रु॒द्र आग॑च्छ॒त्सो॑ऽब्रवी॒न्मम॒ वा इ॒मे प॒शव॒ इत्यदु॒र्वै [30] मह्य॑मि॒मानित्य॑ब्रवी॒न्न वै तस्य॒ त ई॑शत॒ इत्य॑ब्रवी॒द्यद्य॑ज्ञवा॒स्तौ हीय॑ते॒ मम॒ वै तदिति॒ तस्मा॑द्यज्ञवा॒स्तु नाभ्य॒वेत्यँ॒ सो॑ऽब्रवीद्य॒ज्ञे मा भ॒जाथ॑ ते प॒शून्नाभि मँ॑स्य॒ इति॒ तस्मा॑ ए॒तम्म॒न्थिन॑स्सँस्रा॒वम॑जुहो॒त्ततो॒ वै तस्य॑ रु॒द्रᳶ प॒शून्नाभ्य॑मन्यत
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +970,8 @@ He told them it, and they when going to the world of heaven gave him their cattl
 सो᳙ऽब्रवीत् ।  
 म᳓म वा᳓ इमे᳓ पश᳓व इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -872,11 +994,14 @@ Rudra approached him as he went about with his cattle in the place of sacrifice,
 
 9तमित्यादि ॥ यज्ञवास्तौ यज्ञगृहे पशुभिस्सह चरन्तं रुद्र आगच्छत्, आगत्य चाब्रवीत् - मम स्वभूता इमे एते पशव इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दुर्वै᳓ [30]  म᳓ह्यमिमा᳓नि᳓त्यब्रवीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -897,10 +1022,14 @@ He replied, 'They have given them [5] to me.'
 
 अथादुर्वै मह्यमिमान् पशूनङ्गिरसः इति देवमब्रवीत् । मानवः अदुरिति वा । पदादित्वान्न निहन्यते ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ समाप्ते यागे तेषां पशूनां स्वामित्वं अङ्गिरसां नास्ति । ततोस्वामिदत्तैः कोर्थस्तवेति दर्शयितुं देव आह - न वा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -908,6 +1037,8 @@ He replied, 'They have given them [5] to me.'
 न᳓ वै᳓ त᳓स्य त᳓ ईशत इ᳓त्यब्रवीत् ।  
 य᳓द्यज्ञवास्तौ᳓ ही᳓यते म᳓म वै᳓ त᳓दि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -929,11 +1060,14 @@ He replied, 'They have given them [5] to me.'
 
 यज्ञवास्तौ यद्धीयते कृतकार्यत्वात् यज्ञसाधनभावं हित्वा तिष्ठति तस्य ते नेशते स्वामिनो न भवन्ति । न केवलं पशूनामेव, अन्यस्यापि यस्य कस्यचित् यागोपयुक्तस्य नेश्वरा इति प्रतिपादयितुं यदित्युक्तम् । कस्य तर्हि स्वं तदिति जिज्ञासायामाह - ममेति । कृतकार्यं तत्पूर्वभाविनो ममैव स्वमिति सिद्धमेवैतत् इति । यागार्थं प्रथमं पशवः पशुमध्यान्निष्क्रीयन्ते । यागोत्तरं तु पश्वन्तरसमानधर्मतां भजन्ते । उक्तं च - 'अनु मन्यस्व सुयजा यजाम' इति । त्वदनुमत्या हि पशोर्यागसाधनभावोपि भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्यज्ञवास्तु᳓ ना᳓भ्यवे᳓त्य᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -954,12 +1088,15 @@ Then one should not resort to a place of sacrifice.
 
 तस्मादित्यादि । यस्मादेवं तस्मात्स्वामिनोनुज्ञामन्तरेण यज्ञवास्तु नाभ्यवेत्यं न प्रवेष्टव्यं अहोरात्रावित्येवं यावदग्नयश्शीतास्स्युरित्येके । यावदेनमभिवर्षेदित्यपरे । यज्ञाङ्गभागो निषिद्ध्यते इत्येके । व्यतिरिक्तविषयमित्यन्ये । आहुश्च - 'न यज्ञमतिव्रजेत्' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽब्रवीत्  ।  
 यज्ञे᳓ मा᳓ भज᳓ अ᳓थ ते पशू᳓न्ना᳓भि᳓ मँस्य इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -981,11 +1118,14 @@ He said, 'Give me a share in the sacrifice, and I will not have designs against 
 
 अथ सोब्रवीत् देवः यज्ञे मा भज येन केनचिद्धविषा मामाराधयन्नाश्रय । अथ यदि तथा क्रियते ततस्ते पशून् त्वया लब्धान् पशून् नाभिमंस्ये न विनाशयिष्यामि मदीयानामेतल्लाभं सोढाऽस्मीति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एत᳓म्मन्थि᳓नस्सँस्राव᳓मजुहोत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1006,11 +1146,14 @@ He poured out for him the remnants of the mixed (Soma).
 
 तस्मा इति । अजुहोत् अहावयत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ त᳓स्य रुद्रᳶ᳓ पशू᳓न्ना᳓भ्यमन्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1026,12 +1169,15 @@ Then indeed had Rudra no designs against his cattle.
 
 ततः॑ । वै । तस्य॑ । रु॒द्रः । प॒शून् । न । अ॒भीति॑ । अ॒म॒न्य॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्रैत᳓मेवव्ँ᳓विद्वा᳓न्मन्थि᳓नस्सँस्राव᳓ञ्जुहो᳓ति᳓ ।  
 न᳓ त᳓त्र रुद्रᳶ᳓ पशू᳓नभि᳓ मन्यते ॥ [31]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1054,4 +1200,5 @@ When one who knows thus offers the remnants of the mixed (Soma), Rudra has no de
 10यत्रैतमित्यादि ॥ गतम् ॥
 
 इति तृतीये प्रथमे नवमोनुवाकः ॥
+</details>
 </details>

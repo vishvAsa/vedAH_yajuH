@@ -4,6 +4,8 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मा छन्दᳶ॑ प्र॒मा छन्दᳶ॑ प्रति॒मा छन्दो॑ऽस्री॒विश्छन्दᳶ॑ प॒ङ्क्तिश्छन्द॑ उ॒ष्णिहा॒ छन्दो॑ बृह॒ती छन्दो॑ऽनु॒ष्टुफ्छन्दो॑ वि॒राट्छन्दो॑ गाय॒त्री छन्द॑स्त्रि॒ष्टुफ्छन्दो॒ जग॑ती॒ छन्दᳶ॑ पृथि॒वी छन्दो॒ऽन्तरि॑क्ष॒ञ्छन्दो॒ द्यौश्छन्द॒स्समा॒श्छन्दो॒ नक्ष॑त्राणि॒ छन्दो॒ मन॒श्छन्दो॒ वाक्छन्द॑ᳵ कृ॒षिश्छन्दो॒ हिर॑ण्य॒ञ्छन्दो॒ गौश्छन्दो॒ऽजा छन्दोऽश्व॒श्छन्दः॑ ।   
@@ -16,6 +18,7 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 अथ सप्तमे बृहत्याख्या इष्टका उच्यन्ते।  
 कल्पः—“षट्विंशतं बृहतीर्मा छन्द इति द्वादश दक्षिणतः पृथिवी छन्द इति द्वादश पश्चादग्निर्देवतेति द्वादशोत्तरयः” इति ।  
 पाठस्तु— मा छन्दः प्रभेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -50,6 +53,8 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++ अजा᳓ छ᳓न्दः  +++(असि)+++।  
 +++(त्वं)+++ अश्वश्छ᳓न्दः  +++(असि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,6 +107,7 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 एवं सर्वत्र योज्यम् ।  
 अग्न्यादीनां तु देवतात्वं प्रसिद्धम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +124,8 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 +++(त्वं)+++  इ᳓न्द्रो देव᳓ता  +++(असि)+++।  
 +++(त्वं)+++  व᳓रुणो देव᳓ता +++(असि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -169,6 +177,9 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 यस्मादुदीच्यामग्न्यादिदेवताशक्तिरूपमोजस्तिष्ठति तस्मादुत्तराभिमुखत्वेन प्रयाणं कुर्वंस्तीर्थयात्रादियन्यपुण्योपेतत्वात्परलोकं जयति ।    मन्त्रपाठप्राप्तामिष्टकासंख्यां प्रशंसति— “षट्त्रीँशत्सं पद्यन्ते पट्त्रिँ शदक्षरा बृहती वार्हताः पशवो बहत्यैवास्मै पशूनव रुन्धे बृहती छन्दसाँ स्वाराज्यं परीयाया यस्यैता उपधीयन्ते गच्छति स्वाराज्यम्” [सं. का. ५ प्र. ३ अ. २] इति।  
 घृहत्या जितत्वात्पशूनां बार्हेतत्वं, जेतृत्वादेव बृहत्याः स्वाराज्यमपि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -180,11 +191,14 @@ title = "०७ तृतीयचितौ बृहत्याद्युप
 कल्पः—“मूर्धाऽसि राडिति सप्त वालखिल्याः पुरस्तात्प्रतीचीर्यन्त्री राडितिसप्त पश्चात्प्राचीः” इति ।  
 पाठस्तु मूर्धासीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूर्धा᳓सि राड् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -205,11 +219,14 @@ The head thou art, ruling;
 
 हे इष्टके त्वं मूर्धा मूर्धवदुत्तमा राड्राजमाना चासि
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवा᳓सि धरु᳓णा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,11 +247,14 @@ thou art the firm, the supporting;
 
 हे इष्टके त्वं घ्रुवा स्थिरा धरुणा धारणहेतुश्चासि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्त्र्य᳙सि य᳓मित्री ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,11 +275,14 @@ thou art the prop, the restrainer;
 
 हे इष्टके त्वं यन्त्रो स्वयमपि नियता यमित्री सर्वेषां नियमनकारिणी चासि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इषे᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -280,11 +303,14 @@ for food thee;
 
 हे इष्टके इषेष्न्नाय त्वा त्वाम्, उपदधामीति शेषः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्जे᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -305,11 +331,14 @@ for strength thee;
 
 ऊर्जे वलाय त्वामुपदधामि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्यै᳓  त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -330,11 +359,14 @@ for ploughing thee;
 
 कृष्यै सस्यनिष्पश्चये त्वामुपदधामि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षे᳓माय᳓ त्वा  +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +388,14 @@ for safety thee!
 क्षेमाय संपादितस्य धनस्य रक्षणाय त्वामुपदधामि ।  
 एतैः सप्तभिर्मन्त्रेः पुरस्तादुपधेयाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्त्री रा᳓ट् +++(असि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +416,14 @@ for safety thee!
 
 हे इष्टके त्वं यन्त्री नियमोपेता राड्रजमाना चासि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवा᳓सि᳓ ध᳓रणी ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +444,14 @@ thou art the firm, the supporting;
 
 तथा ध्रुवा स्थिरा धरणी धारणहेतुश्चाति ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्त्र्य᳙सि धरित्री᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,11 +472,14 @@ thou art the holder, the sustainer;
 
 धर्त्री धारणं कुर्वती धरित्री भूमिरूपा चासि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युषे त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +500,14 @@ for life thee;
 
 आयुष आयुवृद्धयर्थं त्वामुपदधामि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्चसे त्वा᳓  +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,11 +528,14 @@ for radiance thee;
 
 वर्चसे कान्त्यर्थं त्वामुपदधामि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जसे त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +556,14 @@ for force thee;
 
 ओजसेऽष्टमधातुवृद्ध्यर्थं त्वामुपैदधामि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब᳓लाय त्वा  +++(उपदधामि)+++ ।  ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -539,6 +592,7 @@ for might thee!
 सप्तकद्वये मन्त्रविभागं विधत्ते— “मूर्धा सि राडिति पुरस्तादुप दधाति यन्त्री राडिति पश्चात्प्राणानेवास्मै समीचो दधाति” [सं. का. ५ प्र. ३ अ. २] इति।  
 सप्तकद्वयस्य परास्पराभिमुख्येन प्राणानां सम्यक्त्वं संपद्यते ।  
 सम्यक्त्वं नाम स्वस्वव्यापारक्षमत्वम् ।  
+</details>
 </details>
 
 चतुर्थाष्टके तृतीयप्रपाठकेऽष्टमोऽनुवाकः

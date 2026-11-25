@@ -5,6 +5,8 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 अग्निर्ऋषिः  
 
 चतुर्थकाण्डे तृतीयप्रपाठके द्वितीयोऽनुवाकः
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒यम्पु॒रो भुव॒स्तस्य॑ प्रा॒णो भौ॑वाय॒नो व॑स॒न्तᳶ प्रा॑णाय॒नो गा॑य॒त्री वा॑स॒न्ती गा॑यत्रि॒यै गा॑य॒त्रङ्गा॑य॒त्रादु॑पाँ॒शुरु॑पाँ॒शोस्त्रि॒वृत्त्रि॒वृतो॑ रथन्त॒रँ र॑थन्त॒राद्वसि॑ष्ठ॒ ऋषिᳶ॑ प्र॒जाप॑तिगृहीतया॒ त्वया॑ प्रा॒णङ्गृ॑ह्णामि प्र॒जाभ्यो॒ऽयन्द॑क्षि॒णा वि॒श्वक॑र्मा॒ तस्य॒ मनो॑ वैश्वकर्म॒णङ्ग्री॒ष्मो मा॑न॒सस्त्रि॒ष्टुग्ग्रै॒ष्मी त्रि॒ष्टुभ॑ ऐ॒डमै॒डाद॑न्तर्या॒मो॑ऽन्तर्या॒मात्प॑ञ्चद॒शᳶ प॑ञ्चद॒शाद्बृ॒हद्बृ॑ह॒तो भ॒रद्वा॑ज॒ ऋषिᳶ॑ प्र॒जाप॑तिगृहीतया॒ त्वया॒ मनः॑ [2]  गृ॒ह्णा॒मि॒ प्र॒जाभ्यो॒ऽयम्प॒श्चाद्वि॒श्वव्य॑चा॒स्तस्य॒ चक्षु॑र्वैश्वव्यच॒सव्ँव॒र्षाणि॑ चाक्षु॒षाणि॒ जग॑ती वा॒र्षी जग॑त्या॒ ऋक्ष॑म॒मृक्ष॑माच्छु॒क्रश्शु॒क्रात्स॑प्तद॒शस्स॑प्तद॒शाद्वै॑रू॒पव्ँ वै॑रू॒पाद्वि॒श्वामि॑त्र॒ ऋषिᳶ॑ प्र॒जाप॑तिगृहीतया॒ त्वया॒ चक्षु॑र्गृह्णामि प्र॒जाभ्य॑ इ॒दमु॑त्त॒रात्सुव॒स्तस्य॒ श्रोत्रँ॑ सौ॒वँ श॒रच्छ्रौ॒त्र्य॑नु॒ष्टुप्छा॑र॒द्य॑नु॒ष्टुभ॑स्स्वा॒रँ स्वा॒रान्म॒न्थी म॒न्थिन॑ एकविँ॒श ए॑कविँ॒शाद्वै॑रा॒जव्ँ वै॑रा॒जाज्ज॒मद॑ग्नि॒र्ऋषिᳶ॑ प्र॒जाप॑तिगृहीतया [3]  त्वया॒ श्रोत्र॑ङ्गृह्णामि प्र॒जाभ्य॑ इ॒यमु॒परि॑ म॒तिस्तस्यै॒ वाङ्मा॒ती हे॑म॒न्तो वा॑च्याय॒नᳶ प॒ङ्क्तिर्है॑म॒न्ती प॒ङ्क्त्यै नि॒धन॑वन्नि॒धन॑वत आग्रय॒ण आ॑ग्रय॒णात्त्रि॑णवत्रयस्त्रिँ॒शौ त्रि॑णवत्रयस्त्रिँ॒शाभ्याँ॑ शाक्वररैव॒ते शा॑क्वररैव॒ताभ्याव्ँ॑वि॒श्वक॒र्मर्षिᳶ॑ प्र॒जाप॑तिगृहीतया॒ त्वया॒ वाच॑ङ्गृह्णामि प्रजाभ्यः ॥ [4]  
@@ -17,16 +19,22 @@ title = "०२ प्रथमचितौ प्राणभृदिष्ट
 अथ द्वितीये प्राणभृत उच्यन्ते।  
 कल्पः—“अयं पुरो भुव इति पञ्चाशतं प्राणभृतो दशदश प्रतिदिशमक्ष्णया दश मध्येऽन्तरा मन्तरा मुपधाय ” इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र पूर्वस्यां दिश्युपथेयानां दशेष्टकानां मन्त्रमाह— अयं पुरो भुव इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म्पुरो᳓ भु᳓वः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,11 +59,14 @@ This one in front the existent;
 हे इष्टके तद्रूपाऽसीत्यभिप्रायः।  
 एवमुत्तरेष्वपि वाक्येषु योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य प्राणो᳓ भौवायनः᳓ +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ his, the existent's breath;
 तस्य भुवः शब्दाभिधेयस्य प्रजापतेः संबन्धी प्राणः ।  
 अत एवापत्मत्वमुपचर्य भौवायनू इत्युच्यते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्तᳶ᳓  प्राणायनः᳓ +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +116,14 @@ spring born of the breath;
 
 तस्य च प्राणस्य श्वासवृत्तिरूपस्यापत्यत्वेनोपचस्तिः प्राणायनो वसन्त ऋतुः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्री᳓ वासन्ती᳓ +++( असि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +144,14 @@ the Gayatri born of the spring;
 
 तस्य च वसन्तस्य संबीन्धनी वासन्ती गायत्री।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्रियै᳓ गायत्र᳓म् +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +172,14 @@ from the Gayatri the Gayatri (Saman);
 
 तस्याश्छन्दोरूपाया गायत्र्याः संबन्धि गायत्रं साम।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्रा᳓दुपाँशुः᳓  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,11 +200,14 @@ from the Gayatra the Upanśu (cup);
 
 तस्माञ्च गायत्रसाम्न उत्पन्न इवोपांशुग्रहः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपाँशो᳓स् त्रिवृ᳓त्  +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -202,11 +228,14 @@ from the Upanśu the Trivrt (Stoma);
 
 तस्माच्चोपांशुग्रहादुत्पन्न इव त्रिवृत्स्तोमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓तो रथन्तर᳓म्  +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,11 +256,14 @@ from the Trivrt the Rathantara;
 
 तस्माञ्च त्रिवृत्स्तोमादुत्पन्नमिव रथंतरं साम।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथन्तरा᳓द्व᳓सिष्ठ᳓  ऋ᳓षिः +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,11 +284,14 @@ from the Rathantara Vasistha, the Rsi;
 
 तस्माद्रर्थतरसाम्न उत्पन्न इव वसिष्टाख्य ऋषिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिगृहीतया त्व᳓या प्राण᳓ङ्गृह्णामि  प्रजाभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -280,10 +315,14 @@ with thee taken by Prajapati, I take breath for offspring.
 
 यद्यप्ययमेकवाक्यत्वादेक एव मन्त्रस्त थाऽपि प्रतीष्टकमावृत्त्या दश मन्त्राः संपद्यन्त।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दक्षिणस्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— अयं दक्षिणेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +332,8 @@ with thee taken by Prajapati, I take breath for offspring.
 ग्रीष्मो᳓ मानसः᳓ +++( असि)+++ ।  
 त्रिष्टु᳓ग्ग्रैष्मी᳓ +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,6 +359,7 @@ This one on the right, the all-worker; his, the all-worker's, mind; summer born 
 दक्षिणा दक्षिणस्यां दिशि योऽयं विश्वकर्मा हे इष्टके तद्रूपात्वमसि।  
 प्राणवसन्तादिपरम्परेव मनोग्निष्मादिपरम्परा व्याख्येया।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +371,8 @@ This one on the right, the all-worker; his, the all-worker's, mind; summer born 
 
 प्रजा᳓पतिगृहीतया त्व᳓या म᳓नः [2]  गृह्णामि᳓  प्र᳓जा᳓भ्यः᳓ ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -355,10 +399,14 @@ from the Tristubh the Aida (Saman); from the Aida the Antaryama (cup); from the 
 
 ऐडमिति साम विशेषः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पश्र्विमायां दिश्मुपधेयानामिष्टकानां मन्त्रमाह— अयं पश्चाद्विश्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +415,8 @@ from the Tristubh the Aida (Saman); from the Aida the Antaryama (cup); from the 
 त᳓स्य च᳓क्षुर्वैश्वव्यचस᳓म् +++( असि)+++ ।     
 व्वर्षा᳓णि चाक्षुषा᳓णि᳓ +++( असि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,11 +439,14 @@ This one behind, the all-extending; his, the all-extending's, eye; the rains bor
 
 विश्वं सर्वं जगद्व्यचति व्याप्नोतीति विश्वव्यचाः प्रजापतिः। शेषं पूर्ववद्योजनीयम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓गती वार्षी᳓ +++( असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,6 +467,7 @@ the Jagati born of the rains;
 
 वर्षाणि वर्षर्तुः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -425,6 +479,8 @@ the Jagati born of the rains;
 वैरूपा᳓द्विश्वा᳓मित्र ऋ᳓षिः +++( असि)+++ ।    
 प्रजा᳓पतिगृहीतया त्व᳓या च᳓क्षुर्गृह्णामि  प्रजाभ्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,10 +507,14 @@ from the Jagati the Rksama (Saman); from the Rksama the Śukra (cup); from the �
 
 ऋक्षममिति सामविशेष:।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथोत्तरस्यां दिश्युपधेयानां मम्त्रमाह— इदमृत्तरादिशि।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +524,8 @@ from the Jagati the Rksama (Saman); from the Rksama the Śukra (cup); from the �
 सौवँ᳓ शर᳓त् +++( असि)+++ ।  
 श्रौत्र्य᳙नुष्टु᳓प् +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,6 +550,7 @@ This one on the left, the light; his, the light's, ear; the autumn born of the e
 सौति सर्वं जगत्प्रेरयतीति सुवःशब्दः प्रजापतिवाची।  
 उत्तरस्यां दिशि यदिदं सुवः प्रजापतिशरीरं हे इष्टके त्वं तद्रूपाऽसीति योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -498,6 +561,8 @@ This one on the left, the light; his, the light's, ear; the autumn born of the e
 वैराजा᳓ज्जम᳓दग्नि᳓रृ᳓षिः +++( असि)+++ ।  
 प्रजा᳓पतिगृहीतया [3]  त्वया श्रो᳓त्रङ्गृह्णामि प्रजाभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,10 +589,14 @@ from the Anustubh the Svara (Saman); from the Svara the Manthin (cup); from the 
 स्वारमिति सामविशेषः।  
 शेषं पूर्ववद्योज्यम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ मध्यदेश उपधेबानामिष्टकानां मन्त्रमाह— इयमुपरि मतिरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +606,8 @@ from the Anustubh the Svara (Saman); from the Svara the Manthin (cup); from the 
 हेमन्तो᳓ वाच्यायनः᳓ +++( असि)+++ ।  
 पङ्क्ति᳓र् हैमन्ती᳓ +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -565,6 +636,7 @@ This one above, thought; his, thought's, speech; the winter born of speech; the 
 
 वाचोऽपत्यं वाच्यायनः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -576,6 +648,8 @@ This one above, thought; his, thought's, speech; the winter born of speech; the 
 शाक्वर रैवता᳓भ्याव्ँविश्व᳓कर्म᳓र्षिः +++( असि)+++ ।  
 प्रजा᳓पतिगृहीतया त्व᳓या वा᳓चङ्गृह्णामि प्रजाभ्यः ॥ [4]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -628,4 +702,5 @@ from the Pankti that which has finales; from that which has finales the Agrayana
 अत्रैकमन्त्रगो लिङ्गसमवायो विशिष्यते॥  
 “प्राणभृत उपधाति ” इत्यत्रापि सृष्टिन्यायेन मन्त्रविधिरिति पूर्वः पक्षः।   लिङ्गप्रकरणप्राप्तमन्त्रानुवादेनेष्टकोपधाने विधिः “रेतस्येव प्राणान्दधाति ” इत्यस्य वक्ष्यमाणार्थवादस्योपपत्तये प्राणभृच्छब्देन मन्त्रानुवादः।   पूर्वत्र द्वितीयादिमन्त्रेषु सृष्टिलिङ्गानां बाहुल्यम।   इह तु प्रथममन्त्र एव प्राणभृल्लिङ्गमाम्नायते – “अयं पुरो भुवस्तस्य प्राणो भौवायनः ” इति।   एकस्यैव मन्त्रस्य प्राणभृत्तेऽपि च्छत्रिणो गच्छन्तीतिवत्तत्सहचरिताः सर्वे मन्त्राः प्राणभृच्छब्देन लक्ष्यन्ते।  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे तृतीयप्रपाठके  द्वितीयोऽनुवाकः ॥१ ॥  ( अथ चतुर्थकाण्डे तृतीयप्रपाठके तृतीयोऽनुवाकः )।  
+</details>
 </details>

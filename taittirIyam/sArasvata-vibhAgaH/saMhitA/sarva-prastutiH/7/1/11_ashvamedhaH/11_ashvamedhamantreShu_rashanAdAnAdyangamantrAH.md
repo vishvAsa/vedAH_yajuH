@@ -2,25 +2,32 @@
 title = "११ अश्वमेधमन्त्रेषु रशनादानाद्य्-अङ्गमन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 २ त्रिष्टुप् । विश्वेदेवा ऋषयः
 </details>
+</details>
 
 ___________________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1इत ऊर्ध्वमश्वमेधमन्त्राः । रशनामादत्ते। व्याख्यातं दर्शपूर्णमासयोः । देवस्य सवितुराज्ञां लब्ध्वा अश्विनोरेव बाहुभ्यां नात्मीयाभ्यां पूष्णा एव हस्ताभ्यां त्वामाददे ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,13 +60,15 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ ददे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,10 +84,14 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 
 एति॑ । द॒दे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2आदायाभिमन्त्रयते - इमामिति त्रिष्टुभा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/22/02_imAmagRbhNan_rashanAmRtasya.md">
@@ -126,9 +139,12 @@ In the Saman of order declaring the stream.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तया अश्वमभिदधाति - अभिधा असीति ॥ 
+</details>
 </details>
 
 
@@ -137,6 +153,8 @@ In the Saman of order declaring the stream.
 अभिधा᳓ असि भु᳓वनम् असि यन्ता᳓सि धर्ता᳓सि ।
 सो᳓ ऽग्निव्ँ᳓ वैश्वानरँ᳓ सप्र᳓थसङ् गच्छ स्वा᳓हाकृतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,12 +182,15 @@ Thou art surrounding; thou art the world; thou art the restrainer; thou art the 
 
 स त्वं वैश्वानरं विश्वेषां नराणां स्वामित्वेन संबन्धिनं सप्रथसं प्रथसा विस्तरेण सहितं विश्वव्यापिनं अग्निं गच्छ । 'इयं वा अग्निर्वैश्वानरः' । स्वाहाकृतः स्वाहाकारेण संस्कृतः स्वाहाकारोच्चारणेन संस्कृतः । ब्राह्मणं च 'स्वाहाकृत इत्याह । होम एवास्यैषः ।' इति । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । निपाता आद्युदात्ताः ।
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याय्ँ᳓ यन्ता᳓ रा᳓ट्+++(=दीप्यमानः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,11 +211,14 @@ Thou art the restrainer, the ruler on earth;
 
 किञ्च - त्वमेव हि यन्ता नियन्ता मनुष्यादीनाम् । राट् दीप्यमानश्च पृथिव्यां अस्यामसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्ता᳓ऽसि य᳓मनः+++(=यमसाधनभूतः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,16 +239,22 @@ thou art the restrainer who dost restrain;
 
 अथ द्वितीयस्यामपि पृथिव्यां अन्तरिक्षे यन्ता नियन्ता ग्रहनक्षत्रादीनां च त्वमेवासि । यमनः यमसाधनभूतश्चासि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ तृतीयस्यामपि पृथिव्यां दिवि धर्ता धारयिता देवानां त्वमेवासि । धरुणो धारणशीलश्च त्वमेवासि । औणादिक उनप्रत्ययः । पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते यथा - 'यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्ता᳓सि धरु᳓णः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,17 +270,23 @@ thou art the supporter who dost support.
 
 ध॒र्ता । अ॒सि॒ । ध॒रुणः॑ ।
 </details>
+</details>
 
 ___________________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथैनमभिप्रोक्षणेन प्रोक्षति - कृष्यै त्वेत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्यै᳓ त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,11 +313,14 @@ For ploughing thee!
 
 'ओषधेश्च विभक्तावप्रथमायाम्' इति ओषधिशब्दस्य संहितायां दीर्घत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षे᳓माय त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +336,14 @@ For comfort thee!
 
 क्षेमा॑य । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रय्यै᳓ त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +359,14 @@ For wealth thee!
 
 र॒य्यै । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पो᳓षाय त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,11 +382,14 @@ For increase thee!
 
 पोषा॑य । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓थिव्यै᳓ त्वा  +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,11 +405,14 @@ For earth thee!
 
 पृ॒थि॒व्यै । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽन्त᳓रिक्षाय त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,11 +428,14 @@ For the atmosphere thee!
 
 अ॒न्तरि॑क्षाय । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +451,14 @@ For sky thee!
 
 दि॒वे । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सते᳓ त्वा᳓ +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +474,14 @@ For being thee!
 
 स॒ते । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽस᳓ते त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,11 +497,14 @@ For not being thee!
 
 अस॑ते । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽद्भ्यस् त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,11 +520,14 @@ For the waters thee!
 
 अ॒द्भ्य इत्य॑त्-भ्यः । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीभ्यस् त्वा +++(प्रोक्षामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +543,14 @@ For the plants thee!
 
 ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस् त्वा भूते᳓भ्यः +++(प्रोक्षामि)+++॥ [40]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,4 +570,5 @@ For all creatures thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इति सप्तमे प्रथमे एकादशोनुवाकः ॥
+</details>
 </details>

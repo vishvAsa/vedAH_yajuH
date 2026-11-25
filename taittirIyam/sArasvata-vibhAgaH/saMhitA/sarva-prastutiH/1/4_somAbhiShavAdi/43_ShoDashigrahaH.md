@@ -381,6 +381,7 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/38_ShoDashigrahaH/upayAma-gRhItaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -391,8 +392,10 @@ _______
 
 (ग्रहणम्)
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -423,6 +426,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +434,8 @@ ________________
 इ᳓न्द्राय त्वा षोडशि᳓ने   +++(ग्रहणमन्त्रः)+++  ।
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,17 +459,23 @@ to Indra of the Sodaśin thee!
 षोडशिनः षोडशेन स्तोत्रेण शस्त्रेण च तद्-वान् इन्द्रष् **षोदशी** ।   
 'प्रजापतिर्देवेभ्यो यज्ञान्व्यादिशत्सरिरिचानोमन्यत स यज्ञानां षोडशधा' इत्यादि ब्राह्मणम्  ॥
 </details>
+</details>
 
 __________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 (सादनम्)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निरि᳓न्द्राय त्वा षोडशि᳓ने ॥ [38]   +++(सादनमन्त्रः)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,6 +491,6 @@ This is thy birthplace; to Indra of the Sodaśin thee!
 
 ए॒षः । ते॒ । योनिः॑ । इन्द्रा॑य । त्वा॒ । षो॒ड॒शिने॑ ॥
 </details>
-
+</details>
 </div>
 

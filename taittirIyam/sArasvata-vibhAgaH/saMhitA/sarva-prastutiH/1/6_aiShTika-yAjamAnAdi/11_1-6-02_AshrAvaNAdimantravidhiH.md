@@ -10,6 +10,8 @@ title = "११ १-०६-९२ आश्रावणादिमन्त्�
 न᳓ यज्ञा᳓द् भ्रँशते ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 He who knows the seventeenfold Prajapati as connected with the sacrifice  
@@ -36,10 +38,14 @@ and falls not away from the sacrifice.
 
 1यो वा इत्यादि ॥ सप्तदशाक्षर-समूहात्मा प्रजापतिः सप्तदशः । समूहे छान्दसो डः । परिमाणो वा 'तस्य पूरणे' इति डट् । अवयवधर्मेण समुदायो व्यपदिश्यते, सप्तदशसु प्रथमादीनामपि सप्तदशत्वात् । यज्ञमन्वायत् , तमनुप्रविष्टम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ श्रा॑व॒येति॒ चतु॑रक्षर॒मस्तु॒ श्रौष॒डिति॒ चतु॑रक्षरय्ँ॒यजेति॒ द्व्य॑क्षरय्ँ॒ये यजा॑मह॒ इति॒ पञ्चा॑क्षरन्द्व्यक्ष॒रो व॑षट्का॒र ए॒ष वै स॑प्तद॒शᳶ प्र॒जाप॑तिर्य॒ज्ञम॒न्वाय॑त्तो॒ य ए॒वव्ँ वेद॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति॒ न य॒ज्ञाद्भ्रँ॑शते॒  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -50,6 +56,8 @@ and falls not away from the sacrifice.
 ये᳓ य᳓जामह इ᳓ति प᳓ञ्चाक्षरं +++(होतुः)+++,  
 द्व्य्-अक्षरो᳓ वषट्-कारः᳓ +++(अध्वर्योः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,6 +98,7 @@ the Vasat has two syllables;
 
 वषट्क्रियते हविर्दीयतेनेनेति वषट्कारो वौषट्शब्दो द्व्यक्षरो होतुरेव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,6 +106,8 @@ the Vasat has two syllables;
 य᳓ एवव्ँ᳓ वे᳓द, प्र᳓ति यज्ञे᳓न तिष्ठति  
 न᳓ यज्ञा᳓द् भ्रँशते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,10 +135,14 @@ he who knows thus rests secure through the sacrifice and does not fall away from
 
 एष वा इत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै य॒ज्ञस्य॒ प्राय॑णम्प्रति॒ष्ठाम् [39]उ॒दय॑नव्ँ॒वेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ्ग॑च्छ॒त्या श्रा॑व॒यास्तु॒ श्रौष॒ड्यज॒ ये यजा॑महे वषट्का॒र ए॒तद्वै य॒ज्ञस्य॒ प्राय॑णमे॒षा प्र॑ति॒ष्ठैतदु॒दय॑नय्ँ॒य ए॒वव्ँ वेद॒ प्रति॑ष्ठिते॒नारि॑ष्टेन य॒ज्ञेन॑ सँ॒स्थाङ्ग॑च्छति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +150,8 @@ he who knows thus rests secure through the sacrifice and does not fall away from
 यो᳓ वै᳓ यज्ञ᳓स्य प्रा᳓यणम्+++(=आदि)+++ प्रतिष्ठा᳓म् उद᳓यनव्ँ+++(=अन्त्यम्)+++ वे᳓द,
 प्र᳓तिष्ठितेना᳓रिष्टेन यज्ञे᳓न सँस्था᳓ङ् गच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,6 +178,7 @@ reaches the end with a secure and uninjured sacrifice.
 **प्रतिष्ठा** स्थितिः ।    
 **उदयनं** संस्था समाप्तिः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,6 +186,8 @@ reaches the end with a secure and uninjured sacrifice.
 एत᳓द् वै᳓ यज्ञ᳓स्य प्रा᳓यणम्, एषा᳓ प्रतिष्ठै᳓त᳓द् उद᳓यनम्।  
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓तिष्ठितेना᳓रिष्टेन यज्ञे᳓न सँस्था᳓ङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,17 +217,23 @@ he who knows thus reaches the end with a secure and uninjured sacrifice.
 
 एतत्त्रयात्मिकमाश्रावयादिकम् । तस्मादत्रैव समस्तो यागस्समाप्तः, एतच्छेषतया सर्वमन्यत्क्रियत इति । अरिष्टः हिसारहितः ॥
 </details>
+</details>
 
 ### दोहरूपकम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै सू॒नृता॑यै॒ दोहव्ँ॒वेद॑ दु॒ह ए॒वैनाय्ँ॑ य॒ज्ञो वै सू॒नृताऽऽश्रा॑व॒येत्यैवैना॑मह्व॒दस्तु॑ [40]श्रौष॒डित्यु॒पावा॑स्रा॒ग्यजेत्युद॑नैषी॒द्ये यजा॑मह॒ इत्युपा॑सदद्वषट्का॒रेण॑ दोग्ध्ये॒ष वै सू॒नृता॑यै॒ दोहो॒ य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ सूनृ᳓तायै +++(→[यज्ञ-वाक्])+++ दो᳓हव्ँ वे᳓द - दुह᳓य् +++(←"लोपस् त आत्मनेपदेषु")+++ एवै᳓नाँम् +++(स्वर्गादिप्राप्त्या)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +258,14 @@ He who knows the milking of the generous one milks her indeed.
 एनां **सूनृतां** यज्ञं **दुहे** दुग्धे अभिमतं स्वर्गादिकम् ।  
 'लोपस्त आत्मनेपदेषु' इति तलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ सूनृ᳓ता᳓ - ऽऽश्रावये᳓त्यै᳓वै᳓नाम् अह्वत्+++(=आह्वयत्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,11 +287,14 @@ The generous one is the sacrifice; (with the words) 'Do thou proclaim', he calls
 
 **एवैनाम् अह्वत्** एनाम् आह्वयत् दोग्धुम् । छान्दसो लुङ्, 'लिपिसिचिह्वश्च' इत्यङ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓स्तु श्रौ᳓षड्" इ᳓त्य् उपा᳓वास्राक्+++(←सृज्)+++ +++(वत्सम्)+++।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,11 +315,14 @@ with 'Be it proclaimed' [2], he lets (the calf) go up to her;
 
 **उपावास्राक्** उपसृजति वत्सम् । सृजतेर्लुङि । 'बहुलं छन्दसि' इतीडभावः, 'सृजिदृशोः' इत्यमागमः, 'वदव्रज' इति वृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जे᳓त्य् उ᳓दनैषीत् +++(दोह-पात्रम्)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,11 +343,14 @@ with 'Utter', he raises (the pail);
 
 उदनैषीत् उन्नयति पात्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ य᳓जामह इ᳓त्य् उ᳓पासदत् +++(गोपार्श्वे)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -333,11 +371,14 @@ with 'We that do utter', he sits down beside her,
 
 **उपासदत्** उपसीदति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वषट्-कारे᳓ण दोग्ध्यि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -358,12 +399,15 @@ and with the Vasat call he milks.
 
 दोग्धा । ऌदित्वादङ् । आश्रावयाद्युक्तिरभिमतसिध्यै सूनृताह्वानादिकृत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ सूनृ᳓तायै दो᳓हः।  
 य᳓ एवव्ँ᳓ वे᳓द - दुह᳓ एवै᳓नाम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -379,17 +423,23 @@ This is the milking of the generous one; he who knows thus milks her indeed.
 
 ए॒षः । वै । सू॒नृता॑यै । दोहः॑ । यः । ए॒वम् । वेद॑ । दु॒हे । ए॒व । ए॒ना॒म् ।
 </details>
+</details>
 
 ### देवस्त्राख्यानम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै स॒त्रमा॑सत॒ तेषा॒न्दिशो॑ऽदस्य॒न्त ए॒तामा॒र्द्राम्प॒ङ्क्तिम॑पश्य॒न्ना श्रा॑व॒येति॑ पुरोवा॒तम॑जनय॒न्नस्तु॒ श्रौष॒डित्य॒ब्भ्रँ सम॑प्लावय॒न्यजेति॑ वि॒द्युत॑म् [41]अ॒ज॒न॒य॒न्, ये यजा॑मह॒ इति॒ प्राव॑र्षयन्न॒भ्य॑स्तनयन्वषट्का॒रेण॒ ततो॒ वै तेभ्यो॒ दिश॒ᳶ प्राप्या॑यन्त॒ य ए॒वव्ँ वेद॒ प्रास्मै॒ दिशᳶ॑ प्यायन्त 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ सत्र᳓म् आसत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,11 +460,14 @@ The gods performed a sacrificial session;
 
 5देवा वा इत्यादि ॥ सत्रासनं क्रतुविशेषः एकादशरात्रादिः, तमकुर्वत । आस्थानकर्मा वा इदानीमयमास्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षान् दि᳓शो ऽदस्यन्+++(←दसु उपक्षये)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,6 +488,7 @@ the quarters were dried up;
 
 दिशः प्रागाद्या अदस्यन् उपक्षीणविभवा अभूवन् । दसु उपक्षये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -445,6 +499,8 @@ the quarters were dried up;
 "ये᳓ य᳓जामह" इ᳓ति प्रा᳓वर्षयन् ।  
 अभ्य᳙स्तनयन् वषट्-कारे᳓ण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,12 +531,15 @@ and with the Vasat call they caused the thunder to roll.
 
 आर्द्रामार्द्रयित्रीम् आ समन्ताद्रात्रीं लोकानां वर्षहेतुं अक्षरपङ्क्तिमपश्यन् । गतमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ते᳓भ्यो दि᳓शᳶ प्रा᳓प्यायन्त ।  
 य᳓ एवव्ँ᳓ वे᳓द प्रा᳓स्मै दि᳓शᳶ प्यायन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,6 +558,7 @@ for him who knows thus the quarters are made to swell.
 
 ततः॑ । वै । तेभ्यः॑ । दिशः॑ । प्रेति॑ । अ॒प्या॒य॒न्त॒ । यः । ए॒वम् । वेद॑ । प्रेति॑ । अ॒स्मै॒ । दिशः॑ । प्या॒य॒न्ते॒ ।
 </details>
+</details>
 
 ### छान्दसः प्रजापतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,6 +566,8 @@ for him who knows thus the quarters are made to swell.
 प्रजा᳓पतिन् त्वो-वे᳓द  
 प्रजा᳓पतिस् त्वव्ँ-वेद । +++(→चादिलोपे विभाषा।)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -533,12 +595,15 @@ Prajapati knows one;
 `त्वसमसीमनेमेत्यनुच्चानि' इति त्व-शब्दस्यानुदात्तत्वात् तस्याख्यातेनैकपद्यं मन्यन्ते पदकाराः । +++(5)+++  
 तत्र 'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓म् प्रजा᳓पतिर् वे᳓द  
 स᳓ पु᳓ण्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,12 +625,15 @@ whom Prajapati knows, he becomes pure.
 
 यमित्यादि । एतं प्रचरन्तं प्रजापतिर्वेदेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ छन्दस्यᳶ᳙ प्रजा᳓पतिर् - आ᳓ श्रावया᳓स्तु श्रौ᳓षड्, य᳓ज, ये᳓ य᳓जामहे, वषट्कारः᳓ ।  
 य᳓ एवव्ँ᳓ वे᳓द पु᳓ण्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,13 +658,17 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 
 छन्दस्य इति । 'अक्षरसमूहे छन्दस उपसङ्ख्यानम्' इति यत् । आश्रावयादीनां छन्दसां वीर्यत्वात् यथोक्तम् - 'य एवं छन्दसां वीर्यम्' इत्यादि । तत्रैषां छन्दसां वीर्यत्वमुक्तम्, अत्र तु तत्समूहस्य प्रजापतित्वमिति विवेकः ।  +++(मूले एवंवेद इति वर्तते । पूर्वतनस्थलेष्वपि वेद- वित् इत्यनयोः पृथङ् निर्देशः दृश्यते । अत्र वेद इत्यस्य स्थाने वित् इति पाठः कथं घटत इति विचारणीयम्)+++ एवंविदनुष्ठाता पुण्यो भवति, न चेत्पापकृत् । यत्किञ्चित्पापकृदपीति केचित् ॥
 </details>
+</details>
 
 ## अनुमन्त्रणानि
 ### प्रयाजः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 व॒स॒न्तम् [42]ऋ॒तू॒नाम्प्री॑णा॒मीत्या॑ह॒र्तवो॒ वै प्र॑या॒जा ऋ॒तूने॒व प्री॑णाति॒ ते॑ऽस्मै प्री॒ता य॑थापू॒र्वङ्क॑ल्पन्ते॒ कल्प॑न्तेऽस्मा ऋ॒तवो॒ य ए॒वव्ँ वेद 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +678,8 @@ This is the Prajapati of the texts, 'Do thou proclaim', 'Be it proclaimed', 'Utt
 ते᳙ऽस्मै प्रीता᳓ यथापूर्व᳓ङ् कल्पन्ते ।  
 क᳓ल्पन्ते ऽस्मा ऋत᳓वो य᳓ एवव्ँ᳓ वे᳓द ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,12 +716,16 @@ the seasons are in order for him who knows thus.
 
 7वसन्तमित्यादयः प्रयाजानुमन्त्रणमन्त्राः ॥ पञ्चत्वान्वयाल्लोकस्थितिहेतुत्वाच्च प्रयाजा ऋतवः । प्रथममिज्यन्त इति प्रयाजाः । 'प्रयाजानुयाजौ यज्ञाङ्गे' इति कुत्वाभावः, थाथादिना उत्तरपदान्तोदात्तत्वम् । कल्पन्ते अविपर्यासेन प्रवर्तन्ते ॥
 </details>
+</details>
 
 ### आज्यभागौ
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॒ चक्षु॑ष्मान्भूयास॒मित्या॑हा॒ग्नीषोमा॑भ्याव्ँ॒ वै य॒ज्ञश्चक्षु॑ष्मा॒न्ताभ्या॑मे॒व चक्षु॑रा॒त्मन्ध॑त्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -656,6 +734,8 @@ the seasons are in order for him who knows thus.
 अग्नी᳓षो᳓माभ्याव्ँ वै᳓ यज्ञ᳓श् च᳓क्षुष्मान्,  
 ता᳓भ्याम् एव᳓ च᳓क्षुर् आत्म᳓न् धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -684,6 +764,7 @@ verily by means of them he confers sight upon himself.
 
 8अग्नीषोमयोरित्याज्यभागानुमन्त्रणम् ॥ 'ईदग्नेः' इतीत्वम्, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ### पुरोडाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,6 +773,8 @@ verily by means of them he confers sight upon himself.
 अग्नि᳓र् वै᳓ देवा᳓नाम् अन्नाद᳓स्,  
 ते᳓नैव᳓ [43] +अन्ना᳓द्यम् आत्म᳓न् धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -721,13 +804,17 @@ verily by means of him [5] he confers the eating of food upon himself.
 
 अन्नाद्यं अन्नस्यादनमन्नाद्यं अन्नादनसामर्थ्यम् । छान्दसो भावे क्यच् [प्] । यद्वा - अन्नात्मकमदनीयमन्नाद्यम् । 'गदमदचरयमश्च' इति चकारस्यानुक्तसमुच्चयार्थत्वाद्यत् ॥
 </details>
+</details>
 
 ### उपांशुयाजः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दब्धि॑र॒स्यद॑ब्धो भूयासम॒मुन्द॑भेय॒मित्या॑ह
 ए॒तया॒ वै दब्ध्या॑ दे॒वा असु॑रानदभ्नुव॒न्तयै॒व भ्रातृ॑व्यन्दभ्नोति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -737,6 +824,8 @@ verily by means of him [5] he confers the eating of food upon himself.
 एत᳓या वै᳓ द᳓ब्ध्या देवा᳓ अ᳓सुरान् अदभ्नुवन्  ।  
 त᳓यैव᳓ भ्रा᳓तृव्यन् दभ्नोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -766,13 +855,17 @@ verily by means of him [5] he confers the eating of food upon himself.
 
 10दब्धिरसीत्युपांशुयाजस्यानुमन्त्रणम् - एतया वा इत्यादि ॥ दब्ध्या दम्भनेन शत्रूणां दम्भनहेतुना । उपांशुयाजेन देवा असुरानदभ्नुवन् हिंसितवन्तः ॥
 </details>
+</details>
 
 ### अग्नीषोमीयौ
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नीषोम॑योर॒हन्दे॑वय॒ज्यया॑ वृत्र॒हा भू॑यास॒मित्या॑हा॒ग्नीषोमा॑भ्याव्ँ॒वा
 इन्द्रो॑ वृ॒त्रम॑ह॒न्ताभ्या॑मे॒व भ्रातृ॑व्यँ स्तृणुते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +874,8 @@ verily by means of him [5] he confers the eating of food upon himself.
 अग्नी᳓षो᳓माभ्याव्ँ वा᳓ इ᳓न्द्रो वृत्र᳓म् अहन्,  
 ता᳓भ्याम् एव᳓ भ्रा᳓तृव्यँ स्तृणुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -803,16 +898,23 @@ verily by means of them he lays low his foe.
 
 अ॒ग्नीषोमा॑भ्या॒मित्य॒ग्नी-सोमा॑भ्याम् । वै । इन्द्रः॑ । वृ॒त्रम् । अ॒ह॒न् । ताभ्या॑म् । ए॒व । भ्रातृ॑व्यम् । स्तृ॒णु॒ते॒ ।
 </details>
+</details>
 
 ### ऐन्द्राग्नम्
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 11अग्नीषोमयोरित्यग्नीषोमीयस्यानुमन्त्रणम् ॥ स्तृणुते नाशयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒न्द्रा॒ग्नि॒योर॒हन्दे॑वय॒ज्यये॑न्द्रिया॒व्य॑न्ना॒दो भू॑यास॒मित्या॑हेन्द्रिया॒व्ये॑वान्ना॒दो भ॑व॒तीन्द्र॑स्य [44]अ॒हन्दे॑वय॒ज्यये॑न्द्रिया॒वी भू॑यास॒मित्या॑हेन्द्रिया॒व्ये॑व भ॑वति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +924,8 @@ verily by means of them he lays low his foe.
 इ᳓त्य् आह।  
 इन्द्रियाव्य् ए᳓वा᳓न्नादो᳓ भवति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -838,15 +942,19 @@ verily by means of them he lays low his foe.
 
 इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । इ॒न्द्रि॒या॒वी । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भू॒या॒स॒म् । इति॑ । आ॒ह॒ । इ॒न्द्रि॒या॒वी । ए॒व । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । दे॒व॒य॒ज्ययेति॑ देव-य॒ज्यया॑ । इ॒न्द्रि॒या॒वी । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भू॒या॒स॒म् । इति॑ । आ॒ह॒ ।   
 
 इ॒न्द्रि॒या॒वी । ए॒व । अ॒न्ना॒द इत्य॑न्न-अ॒दः । भ॒व॒ति॒ ।
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12इन्द्राग्नियोरहमित्यैन्द्राग्नस्यानुमन्त्रणम् - इन्द्रियाव्येवेत्यादि ॥  
 इन्द्रेणेन्द्रियावी, अग्निनान्नादश्च भवति । 'बहुलं छन्दसि' इति विनिः, 'अन्येभ्योपि दृश्यते' इति दीर्घत्वम् ॥
+</details>
 </details>
 
 ### ऐन्द्रम्
@@ -856,6 +964,8 @@ verily by means of them he lays low his foe.
 "इ᳓न्द्रस्य [44]+अह᳓न् देवयज्य᳓येन्द्रियावी᳓ भूयासम्" इ᳓त्य् आह।  
 इन्द्रियाव्ये᳙व᳓ भवति। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -880,6 +990,7 @@ verily he becomes powerful.
 
 13इन्द्रस्येत्यैन्द्रस्य सान्नाय्यस्यानुमन्त्रणम् ॥
 </details>
+</details>
 
 ### माहेन्द्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -887,6 +998,8 @@ verily he becomes powerful.
 "महेन्द्र᳓स्याह᳓न् देवयज्य᳓या जेमा᳓नम् महिमा᳓नङ् गमेयम्" इ᳓त्य् आह ।  
 जेमा᳓नम् एव᳓ महिमा᳓नङ् गच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -912,12 +1025,16 @@ verily he attains superiority and greatness.
 
 14महेन्द्रस्येति माहेन्द्रस्य ॥ जेमा जेतृत्वं सर्वोत्कृष्टत्वम् । 'तुश्छन्दसि' इति जेतृशब्दादिमनिच्, छान्दस इकारलोपः, 'तुरिष्ठेमेयस्सु' इति तृलोपः । जनयितृत्वं वा । जनेश्छान्दसो जाभावः । 'अन्येभ्योपि दृश्यन्ते' इति वा व्यत्ययेन भावे जयतेर्मनिन्प्रत्ययः, छान्दसमन्तोदात्तत्वम् । महिमानं महत्त्वम् । मह पूजायाम् । सर्वेषां पूजार्हत्वम् । पूवर्वन्मनिन्प्रत्ययस्स्वरश्च ॥
 </details>
+</details>
 
 ### स्विष्टकृत्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहन्दे॑वय॒ज्ययाऽऽयु॑ष्मान् य॒ज्ञेन॑ प्रति॒ष्ठाङ्ग॑मेय॒मित्या॒हायु॑रे॒वात्मन्ध॑त्ते॒ प्रति॑ य॒ज्ञेन॑ तिष्ठति ॥ 45 ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -926,6 +1043,8 @@ verily he attains superiority and greatness.
 आ᳓युर् एवा᳓त्म᳓न् धत्ते ।  
 प्र᳓ति यज्ञे᳓न तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -952,4 +1071,5 @@ verily he confers long life upon himself and attains security through the sacrif
 15अग्नेस्स्विष्टकृत इति स्विष्टकृतोनुमन्त्रणम् ॥ आयुष्मान्दीर्घायुः । आयुर्दीर्घमात्मनि स्थापयति । प्रतियज्ञेन तिष्ठतीति । यज्ञेन या प्रतिष्ठा यजमानस्य भवति, 'प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गच्छतीति । यद्वा - प्रतिष्ठेति परमात्मोच्यते । यज्ञेन यजनेन तं प्रतितिष्ठति प्राप्नोतीति ॥
 
 इति षष्ठे एकादशोनुवाकः ॥  
+</details>
 </details>

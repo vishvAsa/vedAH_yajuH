@@ -2,6 +2,8 @@
 title = "०८ कारीर्युत्तरभागमन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः ।  
@@ -28,11 +30,14 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 
 तत्र प्रथमः - हे देवाः वसव्याः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वा वसव्या अ᳓ग्ने सोम सूर्य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,13 +59,15 @@ title = "०८ कारीर्युत्तरभागमन्त्र�
 हे देवाः वसव्याः । स्वार्थिको यत् । जगतां वासहेतवो वसवः, वसुसमूहो वा वसव्यं, तद्वन्तः । मत्वर्थीयो लुप्यते, 'वसोस्समूहे च' इति यत् । वृष्टिहेतुत्वेन वसुसमूहवन्तः वासयितारश्च प्रजानाम् । वसुभ्यो वा हिता वसव्याः, वसूनि धनानि । तेषु च कांश्चिद्दर्शयति - अग्ने, सोम, सूर्य एवमादयो हे वसव्याः देवा यूयं उद्ग उदकं दत्त । पद्दन्नादिना उदकस्य उदन्भावः, पूर्ववत्कर्मणि षष्ठी, उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । तदर्थमुदधिं मेघं भिन्त विदारयत यथोदकं पतेत् । उदकं धीयतेऽस्मिन्निति उदधिः । 'कर्मण्यधिकरणे च' इति किः, 'पेषंवासवाहनधिषु च' इत्युदभावः, पूर्ववत्कर्मणि षष्ठी, उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । दिवः द्युलोकादन्तरिक्षात् पृथिव्याः । ल्यब्लोपे पञ्चमी । द्युलोकमन्तरिक्षं पृथिवीं च व्याप्य या वृष्टिः पर्जन्यात्प्रवर्तते तया वृष्ट्या नः अस्मान् अवत रक्षत तपर्यत वा । अत्र 'विभाषितं विशेषवचने बहुवचनम्' इति देवा इत्यस्याविद्यमानवत्त्वनिषेधाद्वसव्या इति निहन्यते, आमन्त्रितं पूर्वमविद्यमानवत्' इति द्वयोरामन्त्रितयोः अविद्यमानवत्त्वात् अग्ने इति न निहन्यते । अथ यदा 'अयने प्राणः' इतिवत् वचनविशेषेपि सामान्यविशेषभावमात्रेण सामानाधिकरण्यं भवति तदा उपात्तदेवविशेषत्वात् अग्न्यादीनां यद्यपि 'नामन्त्रिते समानाधिकरणे' इत्यविद्यमानवत्त्वप्रतिषेधात् अग्न इत्यस्यापि निघातः प्राप्नोति । तथापि 'विभाषितं विशेषवचने' इति पक्षे अविद्यमानवत्त्वान्निघाताभावः । पक्षे विद्यमानवत्त्वात् उत्तरयोः निघातः प्रवर्तते ।  
 ननु अग्ने इत्यनेन विशेषवचने व्यवधानं न स्यात् । नैष दोषः 'आमन्त्रितं पूर्वमविद्यमानवत्' इति तस्याविद्यमानवत्त्वात्, तेन स्याद्व्यवधानम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् गो᳓ दत्तोदधि᳓म् भिन्त  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,12 +84,15 @@ cleave the holder of the waters;
 
 उ॒द्नः । द॒त्त॒ । उ॒द॒धिमित्यु॑द-धिम् । भि॒न्त॒ । दि॒वः । प॒र्जन्या॑त् । अ॒न्तरि॑क्षात् । पृ॒थि॒व्याः । ततः॑ । नः॒ । वृष्ट्या॑ । अ॒व॒त॒ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
 त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,13 +109,15 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 दिवा॑ । चि॒त्॒ । तमः॑ । कृ॒ण्व॒न्ति॒ । प॒र्जन्ये॑न । उ॒द॒वा॒हेनेत्यु॑द-वा॒हेन॑ ॥ पृ॒थि॒वीम् । यत् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वाः शर्मण्या मि᳓त्रावरुणार्यमन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,13 +138,15 @@ O gods granting protection, O Mitra and Varuna, Aryaman;
 
 2अथ द्वितीयः - देवाः शर्मण्याः शरण्याः शरणभावे साधवः शर्मणे सुखाय वा गृहाय वा गृहीताः । हे मित्रावरुणौ हे अर्यमन् । पूर्ववत्स्वरः । उद्गो दत्तेत्यादि समानम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् गो᳓ दत्तोदधि᳓म् भिन्त  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,12 +163,15 @@ cleave the holder of the waters;
 
 उ॒द्नः । द॒त्त॒ । उ॒द॒धिमित्यु॑द-धिम् । भि॒न्त॒ । दि॒वः । प॒र्जन्या॑त् । अ॒न्तरि॑क्षात् । पृ॒थि॒व्याः । ततः॑ । नः॒ । वृष्ट्या॑ । अ॒व॒त॒ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
 त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,13 +188,15 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 दिवा॑ । चि॒त्॒ । तमः॑ । कृ॒ण्व॒न्ति॒ । प॒र्जन्ये॑न । उ॒द॒वा॒हेनेत्यु॑द-वा॒हेन॑ ॥ पृ॒थि॒वीम् । यत् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वाः सपीतयो᳓ ऽपान्नपाद् आशु-हेमन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -198,18 +217,23 @@ O gods who drink together, O son of the waters, with swift onset,
 
 3अथ तृतीयः - हे देवाः सपीतयः समानपानाः परस्परतः अस्माभिश्च सह हे अपां नपात् अपां चतुर्थ । 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायस्यामन्त्रिताद्युदात्तत्वम् । हे आशुहेमन् शीघ्रगते । हि गतौ, अन्येभ्योपि दृश्यते' इति मनिन् । प्रदर्शनार्थं द्वयोरुपादानम् । उद्गो दत्तेत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4पिण्डीर्जुहोति - दिवा चित् इत्यादिभिस्तिसृभिः ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/4/08_kArIryuttarabhAgamantrAH/ud_go_dattaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद् गो᳓ दत्तोदधि᳓म् भिन्त  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,12 +250,15 @@ cleave the holder of the waters;
 
 उ॒द्नः । द॒त्त॒ । उ॒द॒धिमित्यु॑द-धिम् । भि॒न्त॒ । दि॒वः । प॒र्जन्या॑त् । अ॒न्तरि॑क्षात् । पृ॒थि॒व्याः । ततः॑ । नः॒ । वृष्ट्या॑ । अ॒व॒त॒ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवᳶ᳓ पर्ज᳓न्याद् अन्त᳓रिक्षात् पृथिव्या᳓स्  
 त᳓तो नो वृ᳓ष्ट्याऽवत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -248,7 +275,7 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 
 दिवा॑ । चि॒त्॒ । तमः॑ । कृ॒ण्व॒न्ति॒ । प॒र्जन्ये॑न । उ॒द॒वा॒हेनेत्यु॑द-वा॒हेन॑ ॥ पृ॒थि॒वीम् । यत् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -257,6 +284,8 @@ from the sky, from Parjanya, from the atmosphere, from the earth, thence do ye h
 पर्ज᳓न्येनोदवाहे᳓न ।
 पृथिवीय्ँ᳓ य᳓द् व्युन्द᳓न्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -280,6 +309,9 @@ What time they inundate the earth.
 
 प्रथमा गायत्री । द्वितीयाऽस्तारपाङ्क्तिः, अयुजो द्वादशाक्षरत्वात् । तृतीया बृहती । तत्र प्रथमा - दिवा चित् दिवापि तमः दुर्दिनान्धकारं कृण्वन्ति कुर्वन्ति, किं पुनर्नक्तम्? पर्जन्येनोदवाहेन उदकस्य वाहकेन अनवरतवर्षिणा सह दिवाप्यन्धकारितमिव रोदोन्तरं दर्शयति घनपटलसंछादितदिगन्ता नक्तंदिनं वर्षयन्तीति यावत् । कदेति? आह - यत् । 'सुपां सुलुक्' इति सप्तम्या लुक् । यदा पृथिवीं व्युन्दन्ति विशेषेण क्लेदयन्ति । उन्दी क्लेदने । एते च पूर्वोक्ता अग्न्यादयो वक्ष्यमाणा मरुतो वा द्रष्टव्याः । अस्माकमप्येतद्वृष्टीः निवर्तयन्त्विति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -291,11 +323,14 @@ What time they inundate the earth.
 
 5अथ तृतीया - आ यं नर इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ य᳓न्न᳓रस्सुदा᳓नवो ददाशु᳓षे दिवᳵ᳓ को᳓शम᳓चुच्यवुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,11 +353,14 @@ The treasure-house of sky which the heroes rich in dew Make to shake for the gen
 
 दाशुषे यजमानाय हविषां दात्रे । तादर्थ्ये चतुर्थी । यजमानार्थं यं कोशं उदकस्याधारं मेघं दिवः द्युलोकात् अचुच्यवुः आच्यावयन्ति स्थानात् । यद्वा - दिवः आदित्यात् गृहीतं रश्मिषु नरो नेतारः मरुतः च्यावयन्ति । ततः कोशात्पर्जन्या उदकं विसृजन्ति मुञ्चन्ति रोदसी अनु द्यावापृथिव्यौ लक्षयित्वा । विसर्जनानन्तरं धन्वना अनुदकेन देशेन । विभक्तिव्यत्ययो वा । निरुदके देशे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ पर्ज᳓न्याः सृजन्ति रो᳓दसी अ᳓नु ध᳓न्वना यन्ति वृष्ट᳓यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,11 +383,14 @@ The rains pour over the desert [1].
 
 च्यवतेर्लेटि शपश्श्लुः, 'समवप्रविभ्यश्च' ['सिजभ्यस्तविदिभ्यश्च'] इति जुस्, 'जुसि च' इति गुणः, 'मन्त्रे वृष' इति वृषेः क्तिन उदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दीरयथा मरुतस्समुद्रतो᳓ यूयव्ँ᳓वृष्टिव्ँ᳓वर्षयथा पुरीषिणः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -376,11 +417,14 @@ From the ocean, O Maruts, ye make (the rain) to start, Ye make the rain to fall,
 
 वृतेः छान्दसे लुङि व्यत्ययेन क्सः, 'द्युद्भ्यो लुङि' इति व्यत्ययेन परस्मैपदम्, 'न वृद्भ्यश्चतुर्भ्यः'। इतीडभावः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ वो दस्रा उ᳓प दस्यन्ति धेन᳓वः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +440,14 @@ Your cows, O ye wondrous, fail not;
 
 न । वः॒ । द॒स्राः॒ । उपेति॑ । द॒स्य॒न्ति॒ । धे॒नवः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓भय्ँयाता᳓म᳓नु र᳓था अवृत्सत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,16 +463,22 @@ As ye fly swiftly your chariots turned.
 
 शुभ॑म् । या॒ताम् । अन्विति॑ । रथाः॑ । अ॒वृ॒त्स॒त॒ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ कृष्णां कुम्भीमद्भिः पूरयति - सृजा वृष्टिमिति द्विपदया गायत्र्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृजा᳓ वृष्टि᳓न्दिव᳓ आ᳓द्भि᳓स्समुद्र᳓म्पृण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -449,16 +502,22 @@ With waters fill the ocean;
 
 सृज वृष्टिं दिवः द्युलोकात् द्योतनवतो मेघाद्वा, ततः अद्भिः समुद्रं तमेव समुन्दनं मेघं आवृण पूरय पुनःपुनर्वृष्ट्यर्थम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ कृष्णां व्रीहिभिर्जुहोति - अब्जा असीति द्विपदया गायत्र्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्जा᳓ असि प्रथमजा᳓ ब᳓लमसि समुद्रि᳓यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,11 +538,14 @@ Thou art born of waters, first-born;
 
 अब्जा असीति अद्भ्यो जायत इति । 'जनसन' इति लिट्, 'विड्वनोरनुनासिकस्स्यात्' इत्याकारः । प्रथमजाश्चासि । प्रथमः प्रजापतिः तस्माज्जात इति । पूर्ववत्प्रत्ययः आकारश्च । यथोक्तां - 'राजन्यो मनुष्याणामविः पशूनाम्' इति । बलमसि समुद्रियं समुद्रे मेघे भवम् । समुद्रात् अभ्रात् मेघतः ईदृशं बलहेतुरुदकं त्वमसि ईदृशोदकहेतुरसि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓न्नम्भय पृथिवी᳓म्भिन्द्धी᳓द᳓न्दिव्य᳓न्न᳓भः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,16 +561,22 @@ Flood the earth, Break this divine cloud;
 
 उदिति॑ । न॒म्भ॒य॒ । पृ॒थि॒वीम् । भि॒न्द्धि॒ । इ॒दम् । दि॒व्यम् । नभः॑ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ वर्षाभूस्तम्भमभिजुहोति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्गो᳓ दिव्य᳓स्य नो देही᳓शानो वि᳓ सृजा दृ᳓तिम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,10 +603,14 @@ Give to us of the divine water, Ruling loosen the water bag.
 
 'अधीगर्थ' इति षष्ठी ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अन्तर्वेदि तिष्ठन् कृष्णाजिनमवधूनोति - ये देवा इति जगत्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +622,8 @@ Give to us of the divine water, Ruling loosen the water bag.
 त᳓ इद᳓ङ्क्षे᳓त्रमा᳓ विशन्तु ..  
 त᳓ इद᳓ङ्क्षे᳓त्रम᳓नु वि᳓ विशन्तु ॥ [22]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,4 +650,5 @@ The gods whose portion is in the sky, the gods whose portion is in the atmospher
 षट्पदया ॥ ये देवा दिविभागाः दिवि भागो येषाम् । 'हलदन्तात्' इति सप्तम्या अलुक् । ये अन्तरिक्षभागाः, 'ये च पृथिवीभागाः ते सर्वे इमं यज्ञं अवन्तु रक्षन्तु फलप्रदानसमर्थं कुर्वन्तु । ते इदं क्षेत्रमाविशन्तु वर्षरूपेण विशन्तु वर्षितृरूपेण वा परिगृह्णन्तु, ते इदं क्षेत्रं अनुविविशन्तु ओषध्यादिरूपेण व्याप्य तिष्ठन्तु, मा कदाचिदपीदं शुष्कं भूत् ॥
 
 इति द्वितीये चतुर्थे अष्टमोनुवाकः ॥  
+</details>
 </details>

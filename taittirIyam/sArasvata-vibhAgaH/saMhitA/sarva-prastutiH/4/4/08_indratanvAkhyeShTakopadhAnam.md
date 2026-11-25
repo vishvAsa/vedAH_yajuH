@@ -4,6 +4,8 @@ title = "०८ इन्द्रतन्वाख्येष्टकोप�
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २०८५ पाठस्तु— अग्निना विश्वाषाडिति ।
@@ -15,11 +17,14 @@ title = "०८ इन्द्रतन्वाख्येष्टकोप�
 [24]  
 (अथ चतुर्थकाण्डे चतुर्थप्रपाठके अष्टमोऽनुवाकः )।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓ना विश्वाषा᳓ट्त् +++(=विश्वसहकः)+++  +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ title = "०८ इन्द्रतन्वाख्येष्टकोप�
 अग्निना सह विश्वापाष्ठ्य इन्द्रो हे इष्टके तद्रूपा त्वमसि ।  
 एवं सर्वत्र योज्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्येण स्वरा᳓ट्  +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,11 +75,14 @@ self-ruling through the sun;
 
 सूर्येण सह स्वतो राजत इति स्वराडिन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्र᳓त्वा श᳓चीप᳓तिः +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,11 +110,14 @@ lord of strength through might;
 
 क्रत्वा ज्योतिष्ठोमादिप्रौढकर्मणा सहितः शच्या देव्याः पतिरिन्द्रः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषभे᳓ण+++(=वर्षितृधर्मेण)+++  त्व᳓ष्टा +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,11 +138,14 @@ creator with the bull;
 
 ऋषभेण वर्षित्रा धर्मेण वर्षित्रा धर्मेण सह त्वष्टा रूपकृदिन्द्रः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञे᳓न मघ᳓वान् +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +166,14 @@ bountiful through the sacrifice;
 
 यज्ञेनाल्पेन पाकयज्ञेन सहितो मघवानन्नवानिन्द्रः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणया सुवर्गः᳓ +++( त्वमसि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,11 +194,14 @@ heavenly through the sacrificial fee;
 
 दक्षिणया गावदिरूपया सुवर्गः स्वर्गलोकात्मक इन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्यु᳓ना वृत्रहा᳓ +++( त्वमसि)+++। ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,11 +222,14 @@ slayer of enemies through rage;
 
 मन्युना क्रोधेन सह वृत्रहा शत्रुघातीन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौ᳓हार्द्येन तनूधाः᳓ +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -224,11 +250,14 @@ supporter of the body through kindliness;
 
 सुहृदो भावः सौहार्द्यं स्नेहातिशयस्तेन सहितस्तनूवाः शरीरधारीन्द्रः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नेन ग᳓यः +++(=गृहविशेषः)+++ +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,11 +278,14 @@ wealth through food;
 
 अन्नेन सहितो गयो गृहविशेषरूप इन्द्रः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या᳓ऽसनोत् +++(=ऽददात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -274,11 +306,14 @@ through the earth he hath won;
 
 पृथिव्या सहासनोद् द्रव्यादिदानं कृतवान् इन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋग्भि᳓र् अन्नादः᳓ +++(=अन्नभक्षकः)+++ +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -299,11 +334,14 @@ through the earth he hath won;
 
 ऋग्भिर्मन्त्रविशेषैः सहितोऽन्नादो हविर्लक्षणस्यान्नस्य भोक्तेनद्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वषट्कारे᳓ण र्धः᳓ +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -324,11 +362,14 @@ increased by the Vasat cry;
 
 वषट्कारेण हविष्प्रदानेन हेतुना सह ऋद्धः समृद्ध इन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓म्ना  तनूपाः᳓+++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -349,11 +390,14 @@ protector of the body through the Saman;
 
 साम्ना गीयमानेन मन्त्रेण सह तनूपाः शरीरपालक इन्द्रः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जा +++(छन्दसा)+++ ज्यो᳓तिष्मान् +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,11 +418,14 @@ full of light with the Viraj;
 
 विराजा दशाक्षरच्छन्दसा सह ज्योतिष्मान्प्रकाशवानिन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणा सोमपाः᳓ +++( त्वमसि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -399,12 +446,15 @@ drinker of Soma through the holy power;
 
 ब्रह्मणा मुख्येन क्रत्विजा मन्त्रेण वा सह सोमपाः सोमपानस्य कर्तेन्द्रः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गो᳓भिर् यज्ञ᳓न् **दाधार**,  
 क्षत्रे᳓ण मनुष्या᳙न्॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,16 +476,22 @@ with cows he supporteth the sacrifice;
 
 गोभिर्दक्षिणारूपाभिः सह यज्ञं दाधार यज्ञधारक इन्द्रः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् - संयुक्तम्</summary>
 
 अश्वे॑न च॒ रथे॑न च व॒ज्र्यृ॑तुभिᳶ॑ प्र॒भुस्सव्ँ॑वत्स॒रेण॑ परि॒भूस्तप॒साना॑धृष्ट॒स्सूर्य॒स्सन्त॒नूभिः॑ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स)+++ अ᳓श्वेन च र᳓थेन च वज्री᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +512,14 @@ with lordly power men; with horse and car bearer of the bolt;
 
 योऽयमश्वो यश्च रथस्ताभ्यामुप्राभ्यां सह वज्री वज्रयुक्त इन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓भिᳶ प्रभुः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,11 +540,14 @@ lord with the seasons;
 
 ऋतुभिर्वसन्तादिभिः सह प्रभुः फलदानसमर्थ इन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरे᳓ण परिभूः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +568,14 @@ enclosing with the year;
 
 संवत्सरेण कालरूपेण सह परिभूः परितो व्याप्तवानिन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पसा᳓ ऽनाधृष्टः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,11 +596,14 @@ unassailable through penance;
 
 तपसाऽशनवर्जनधनदानादिरूपेणानाधृष्टः केनाप्यतिरस्कृत इन्द्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्यस् स᳓न् तनू᳓भिः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,6 +624,7 @@ the sun with bodies.
 
 तनूभिर्द्वादशमूर्तिभिः सह सूर्यः सन्सूर्यरूपो भूत्वेन्द्रो वर्तते ।  
 हे इष्टके तद्रूपा त्वमसि ।   
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके नवमोऽनुवाकः

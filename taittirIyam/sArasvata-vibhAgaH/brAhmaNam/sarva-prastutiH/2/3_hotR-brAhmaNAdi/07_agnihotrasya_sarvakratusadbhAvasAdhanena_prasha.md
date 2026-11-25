@@ -8,6 +8,8 @@ unicode_script: devanagari
 प्रजा᳓पतिᳶ पु᳓रुषम् असृजत ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒ᳶ पुरु॑षमसृजत ।
@@ -39,11 +41,14 @@ unicode_script: devanagari
 इति।
 प्रजापतिः पूर्वम् अशरीरः सन् पूर्वानुवाकोक्त-क्रमेण कुसिंधादि-लोमान्तैः सर्वैश् चैकं पुरुषाकारं देहम् असृजत।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽग्नि᳓रब्रवीन् - "म᳓माय᳓म् अ᳓न्नम् अस्त्व्"  इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +70,15 @@ unicode_script: devanagari
 
 तदानीम् अग्निर् तं देहं दृष्ट्वा सो ऽयं पुरुषो ममान्नम् अस्त्व् इत्य् अब्रवीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽबिभेत् -  
 "स᳓र्वव्ँ वै᳓ मा ऽय᳓म् प्र᳓ धक्ष्यती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -92,11 +100,14 @@ unicode_script: devanagari
 
 ततः स प्रजापतिः पुरुषाकारं माम् एव सर्वम् अप्य् अयम् अग्निर् धक्ष्यतीति भयम् आपन्नो
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एताँ᳓श् च᳓तुर्होतॄन् आत्मस्प᳓रणान् अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,11 +123,14 @@ unicode_script: devanagari
 
 अथ स पुरुष एतान् चतुर्होतॄन् दशहोत्रादीन् आत्मस्परणान् आत्मनो रक्षणभूतान् अपश्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् अजुहोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -133,11 +147,14 @@ unicode_script: devanagari
 होतृ-मन्त्रान् आत्म-स्परणान् स्व-शरीर-रक्षकत्वेन प्रीति-हेतून् अपश्यत्।  
 तान् हुत्वा तैः स्व-देहं प्रीतम् अकरोद् अरक्षद् इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तै᳓र् वै᳓ स᳓ आत्मा᳓नम् अस्पृणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,12 +171,15 @@ unicode_script: devanagari
 अथ तद्धोमेन आत्मानमस्पृणोत् अरक्षत्, 'स्पृ प्रीतौ' अत्र रक्षणे ।  
 यद्वा - तैरात्मानमप्रीणयत् अरक्षदित्युक्तं भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अग्निहोत्र᳓ञ् जुहो᳓ति -  
 ए᳓कहोतारम् एव᳓ त᳓द् यज्ञक्रतु᳓म् आप्नोत्य् अग्निहोत्र᳓म् ॥27॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,11 +210,14 @@ unicode_script: devanagari
 [[P457]]  
 यदा पुरुषो ऽग्निहोत्रं जुहोति तदा पूर्वोक्त-रीत्या तस्यैक-होतृकत्वाद् एक-होतृकं यज्ञ-क्रतुं प्राप्नोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कु᳓सिन्धञ् चात्म᳓नस् स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,11 +233,14 @@ unicode_script: devanagari
 
 प्रजापतिरिवात्मनः कुसिन्धं स्पृणोति, तस्याग्निहोत्रसंपादितत्वात् प्रजापतेः । कुसिन्धो व्याख्यातः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳙युज्यङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,11 +261,14 @@ unicode_script: devanagari
 
 तत्-फल-भूतम् आदित्यस्य च सायुज्यं गच्छत्य् आत्मनः कुसिंधं च स्पृणोति रक्षतीत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् उ᳓न्नयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,12 +297,15 @@ unicode_script: devanagari
 इति।
 यद् एतद् अग्निहोत्रे चतुर्-वारं स्रुक्-पूरणं तेन चतुः-संख्या-साम्याच् चतुर्-होतृक-दर्शपूर्णमास-क्रतुं प्राप्य
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्-होतारम् एव᳓  
 त᳓द् यज्ञक्रतु᳓म् आप्नोति दर्शपूर्णमासौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,11 +321,14 @@ unicode_script: devanagari
 
 हस्त-पादाङ्ग-चतुष्टय-रक्षा-पूर्वम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वा᳓रि चात्म᳓नो᳓ऽङ्गानि स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,11 +344,14 @@ unicode_script: devanagari
 
 चत्वारि चाङ्गानि हस्तौ पादो च स्पृणोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳓युज्यङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -334,11 +372,14 @@ unicode_script: devanagari
 
 आदित्य-सायुज्य-प्राप्तिश् च संपद्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् उ᳓न्नयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,11 +395,14 @@ unicode_script: devanagari
 
 अथ चतुरुन्नयनात् समिधा च पञ्चम्या पञ्चहोत्रात्मकचातुर्मास्यलाभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समि᳓त् पञ्चमी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -369,11 +413,14 @@ unicode_script: devanagari
 
 सम्-इ᳓त् । पञ्चमी᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चहोतारम् एव᳓ त᳓द् यज्ञक्रतु᳓म् आप्नोति चातुर्मास्या᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,11 +445,14 @@ unicode_script: devanagari
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लो᳓म छवी᳓म् माँस᳓म् अ᳓स्थि मज्जा᳓नम् ॥28॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,11 +468,14 @@ unicode_script: devanagari
 
 अग्निहोत्रे यच् चतुर्-वारं स्रुक्-पूरणं या चाऽऽहुत्याधार-भूता समित् तद्-उभय-निष्ठया पञ्चत्व-संख्यया पञ्च-होतृक-चातुर्मास्य-फल-प्राप्तिर् लोमादि-पञ्चावयव-प्राप्तिर् आदित्य-सायुज्यं च।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि चात्म᳓नस् स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,11 +491,14 @@ unicode_script: devanagari
 
 लोमादिपञ्चकं चात्मनः स्पृणोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳓युज्यङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +509,7 @@ unicode_script: devanagari
 
 आदित्य᳓स्य । च । सा᳓युज्यम् । गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -461,6 +518,8 @@ unicode_script: devanagari
 ष᳓ड्ढोतारम् एव᳓ त᳓द् यज्ञक्रतु᳓म् आप्नोति पशुबन्ध᳓म् ,  
 स्त᳓नाव् आण्डौ᳓ शिश्ञ᳓म् अ᳓वाञ्चम् प्राण᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,11 +543,14 @@ unicode_script: devanagari
 > षड्-ढोतारम् एव तद् यज्ञ-क्रतुम् आप्नोति पशु-बन्धम्।  
 > स्तनावाण्डौ शिश्नम् अवञ्चं प्राणम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि चात्म᳓नस् स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -505,11 +567,14 @@ unicode_script: devanagari
 [[P458]]  
 > तानि चाऽऽत्मनः स्पृणोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳓युज्यङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,11 +593,14 @@ unicode_script: devanagari
 इति।  
 उन्नयन-होम-गत-षट्-संख्यया षड्-ढोतृ-फलम् आदित्यस्य सायुज्यं च।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् उ᳓न्नयति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -549,11 +617,14 @@ unicode_script: devanagari
 अथ चतुरुन्नयनात् द्विश्च होमात् सप्तम्या च समिधा सप्तहोत्रात्मकसौम्याध्वरलाभः ।  
 सप्त शीर्षण्यान् प्राणान् स्पृणोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वि᳓र् जुहोति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,11 +635,14 @@ unicode_script: devanagari
 
 द्विः᳓ । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समि᳓त् सप्तमी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,11 +653,14 @@ unicode_script: devanagari
 
 सम्-इ᳓त् । सप्तमी᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓होतारम् एव᳓ त᳓द् यज्ञक्रतु᳓म् आप्नोति सौम्य᳓म् अध्वर᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,11 +681,14 @@ unicode_script: devanagari
 > समित् सप्तमी।  
 > सप्त-होतारम् एव तद् यज्ञ-क्रतुम् आप्नोति सौम्यम् अध्वरम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓ चात्म᳓नश् शीर्षण्या᳙न् प्राणा᳓न्त् स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,11 +704,14 @@ unicode_script: devanagari
 
 > सप्त चाऽऽत्मनः शीर्षण्यान् प्राणान् स्पृणोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳓युज्यङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -647,6 +730,7 @@ unicode_script: devanagari
 इति।  
 उन्नयन-होम-समित्-त्रया सप्त-संख्यया सप्त-होत्रादि-फलम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -655,6 +739,8 @@ unicode_script: devanagari
 द्वि᳓र् नि᳓मार्ष्टि ,  
 द्विᳶ᳓ प्रा᳓श्ञाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -682,11 +768,14 @@ unicode_script: devanagari
 > द्विर् जुहोति।  
 > द्विर् निर्मार्ष्टि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शहोतारम् एव᳓ त᳓द् यज्ञक्रतु᳓म् आप्नोति सव्ँवत्सर᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -709,11 +798,14 @@ unicode_script: devanagari
 इति।  
 यद् एतच् चतुर्-वारं स्रुक्-पूरणं यच् चाऽऽहुति-द्वयं यद् अपि बर्हिषि भूमौ च द्विर् लेप-निमार्ज‍नं यद् अप्य् आहुति-द्वय-शेषयोर् द्विः प्राशनं तद्-गतया दश-संख्यया तत्-साध्य-संवत्सर-सत्रम्-आप्त्या
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वञ् चात्मा᳓नम् अ᳓परिवर्गँ स्पृणो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,11 +821,14 @@ unicode_script: devanagari
 
 सर्व चात्मानमपरिवर्गं किंचिदप्यपरिवृज्य स्पृणोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓स्य च सा᳓युज्यङ् गच्छति ॥30॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,4 +854,5 @@ unicode_script: devanagari
 तद् एवं पूर्वानुवाके "एक-होत्रे बलिं हरन्ति" इत्य् एक-होतृकाग्निहोत्र-शंसनं यत् संक्षेपेणोक्तं तद् इहाग्निहोत्रे सर्व-होतृक-सर्व-क्रतु-संपादनेन प्रपञ्चितम्॥
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठके सप्तमो ऽनुवाकः ॥ ७ ॥
+</details>
 </details>

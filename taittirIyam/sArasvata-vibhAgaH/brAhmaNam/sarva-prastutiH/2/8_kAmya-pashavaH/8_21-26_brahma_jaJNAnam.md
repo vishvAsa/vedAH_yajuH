@@ -2,12 +2,15 @@
 title = "८ २१-२६ ब्रह्म जज्ञानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 21यद् उक्तं सूत्रकारेण  
 'ब्रह्मण ऋषभम्' इति  
 तस्य पशोः सूक्ते  
 वपायाः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
@@ -87,9 +90,12 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 22अथ वपाया याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
@@ -124,9 +130,12 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 23अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
@@ -161,9 +170,12 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 24अथ पुरोडाशस्य याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
@@ -198,9 +210,12 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 25अथ हविषः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
@@ -235,9 +250,12 @@ title = "८ २१-२६ ब्रह्म जज्ञानम्"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 26अथ हविषो याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">

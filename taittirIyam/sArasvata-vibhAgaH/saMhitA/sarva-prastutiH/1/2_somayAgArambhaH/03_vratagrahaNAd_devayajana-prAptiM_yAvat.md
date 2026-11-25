@@ -13,6 +13,8 @@ short_title = "०३ व्रतग्रहणाद्"
 
 ## व्रतग्रहणम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्यरात्रे प्रबुद्धो यजमान आचामति- दैवीं धियमित्यनुष्टुभा चतुष्पदया ।
@@ -34,6 +36,7 @@ ________
 > “दैवीं धियं मनामहे इति हस्ताव् अवनिज्या” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/02_daivIn_dhiyam.md">
@@ -104,6 +107,8 @@ May it guide us safely according as we will.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2व्रतयति - ये देवा इति ॥ 
@@ -118,6 +123,7 @@ ________
 > “अथास्मै कंसे वा चमसे वा निषिच्य व्रतं प्रयच्छति तद् दक्षिणतः परिश्रित्य व्रतयति ये देवा मनो-जाता मनो-युजः सु-दक्षा दक्ष-पितारस् ते नः पान्तु ते नो ऽवन्तु तेभ्यो नमस् तेभ्यः स्वाहेति” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/03_ye_devA.md">
@@ -225,6 +231,8 @@ May they protect us; to them honour! to them hail!
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3संविशति - अग्ने त्वमित्यनुष्टुभा चतुष्पदया ॥
@@ -244,6 +252,7 @@ ________
 > “अग्ने त्वं सु जागृहीति स्वप्स्यन्न् आहवनीयम् अभिमन्त्रयते” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/04_agne_tvam.md">
@@ -307,6 +316,8 @@ Grant to us to wake again.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4प्रबुद्धं यजमानं वाचयति - त्वमग्ने इति गायत्रीं त्रिपदां प्रतिष्ठानाम्नीम् 'विपरीता प्रीतष्ठा' इति वचनात् ।
@@ -320,6 +331,7 @@ ________
 > “अथाध्वर्युर् मध्य-रात्र आद्रुत्य प्रबुद्ध-यजुर् वाचयति त्वम् अग्ने व्रत-पा असि देव आ मर्त्येष्व् आ त्वं यज्ञेष्व् ईड्य इति” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
@@ -624,6 +636,8 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।     
@@ -639,10 +653,13 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 
 व्याख्याता चेयमृक् 'उभा वामिन्द्राग्नी' इत्यनुवाके । 'अव्रत्यमिव वा एष करोति यो दीक्षितः' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ## सनीहारः
 _____
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5सनिहारान्प्रहिणोति - विश्वे देवा इत्येकपदया त्रिष्टुभा यजुरन्तया ॥
@@ -656,6 +673,7 @@ ________
 > ‘अथ सनिहारान् प्राहिणोति स यं मन्यते न मां प्रत्याख्यास्यतीति तं प्रथमम् अभिप्रहिणोति 'विश्वे देवा अभि मामाववृत्रन् पूषा सन्या सोमो राधसा देवः सविता वसोर् वसु-दाव' इति, आहरन्तं दृष्ट्वा जपति नाहरन्तं 'रास्वेयत् सोमा भूयो भर मा पृणन् पूर्त्या वि राधि माहम् आयुषेति'’ 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/05_vishve_devA.md">
@@ -749,9 +767,12 @@ The god Savitr the giver of brightness.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आहरन्तं दृष्ट्वा जपति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
@@ -766,9 +787,12 @@ ________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6आहरन्तं दृष्ट्वा जपति - रास्वेति गायत्रीं त्रिपदाम् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/06_rAsveyat_somA.md">
@@ -812,9 +836,12 @@ Let me not be parted with life.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7हिरण्यं प्रतिगृह्णाति - चन्द्रमसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -822,6 +849,8 @@ ________
 +++(हिरण्य!)+++ चन्द्र᳓म्+++(=ह्लादकम्)+++ असि ।  
 म᳓म भो᳓गाय भव ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -850,11 +879,15 @@ be for my enjoyment.
 
 चन्द्रं ह्लादनमसि सर्वेषाम् । चदि आह्लादने, 'स्फायितञ्चि' इत्यादिना रक्प्रत्ययः । ईदृक्त्वं प्राणिनां क्षीरप्रदानेनासि । शिष्टं स्पष्टम् । वस निवासे, 'स्फायितञ्चि' इत्यादिना रक्प्रत्ययः। मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8वस्त्रं प्रतिगृह्णाति - वस्त्रमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -862,6 +895,8 @@ ________
 व᳓स्त्रम्+++(=आच्छादनम्)+++ असि।  
 म᳓म भो᳓गाय भव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -891,11 +926,15 @@ be for my enjoyment.
 
 - मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9उस्रां प्रतिगृह्णाति - उस्रेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -903,6 +942,8 @@ ________
 +++(क्षीरादिप्रदानेन)+++ उस्रा᳓+++(=वासहेतुः)+++ ऽसि ।  
 म᳓म भो᳓गाय भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -932,12 +973,16 @@ be for my enjoyment.
 
 - [ मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥]
 </details>
+</details>
 
 ## अनुदेशनम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अश्वं प्रतिगृह्णाति - हय इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,12 +991,17 @@ ________
 म᳓म भो᳓गाय भव ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art a horse;  
 be for my enjoyment [2]. 
 </details>
+</details>
 _____
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -975,11 +1025,15 @@ _____
 
 - [मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥]
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11छागं प्रतिगृह्णाति - छाग इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -987,6 +1041,8 @@ ________
 +++(हे अज!)+++ छा᳓गो+++(=छेदगो)+++ ऽसि ।  
 म᳓म भो᳓गाय भव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1015,11 +1071,15 @@ Thou art a goat; be for my enjoyment.
 
 - [ मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥]
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12मेषं प्रतिगृह्णाति - मेष इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1087,8 @@ ________
 मेषो᳙ +++(=अभिभविता)+++ ऽसि ।  
 म᳓म भो᳓गाय भव।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1055,8 +1117,11 @@ Thou art a ram; be for my enjoyment.
 
 - [ मम भोगाय दानाद्युपभोगाय भव पर्याप्नुहि ॥]
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13नष्टां मृतां वानुदिशति - वायव इति ॥
@@ -1071,11 +1136,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाय᳓वे त्वा +++(ऽनुदिशामि)+++।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1112,17 +1180,23 @@ To Vayu thee
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अप्सु वा पाशे वा मृतामनुदिशति - वरुणाय त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणाय त्वा  +++(ऽनुदिशामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1138,17 +1212,23 @@ to Varuna thee
 
 वरु॑णाय । त्वा॒ । 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15या सं वा शीर्यते गर्तं वा पद्यते तामनुदिशति - निर्ऋत्यै त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रृत्यै त्वा +++(ऽनुदिशामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1169,17 +1249,23 @@ to Nirrti thee
 
 प्रादिसमासः । निर्गता ऋतेः निर्ऋतिः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10यामहिर्व्याघ्रो वा हन्ति तामनुदिशति - रुद्राय त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓य त्वा  +++(ऽनुदिशामि)+++।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1195,14 +1281,20 @@ to Rudra thee!
 
 रु॒द्राय॑ । त्वा॒ । 
 </details>
+</details>
 
 ## अपाम् उत्तरणम्
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दीक्षितो ऽप उत्तरति।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -1213,10 +1305,14 @@ ________
 
 इति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17दीक्षितोप उत्तरति - देवीराप इति उपरिष्टाज्ज्योतिषा त्रिष्टुभाष्टाक्षरचतुर्थया ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/07_devIr_Apo.md">
@@ -1322,9 +1418,12 @@ Along an unbroken web of earth may I go.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17दीक्षितोप उत्तरति - देवीराप इति उपरिष्टाज्ज्योतिषा त्रिष्टुभाष्टाक्षरचतुर्थया ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1332,6 +1431,8 @@ Along an unbroken web of earth may I go.
 +++(युष्मत्प्रसादाद् अहं यज्ञारूपम्)+++ अ᳓च्छिन्नन् त᳓न्तुम् पृथिव्या᳓ +++(सेतुम्)+++ अ᳓नु गेषम्+++(=गच्छेयम्)+++।  
 +++(तेन नानुक्रमणम् इति भावः। 'सेतुमेव कृत्वात्येति' इति ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1374,10 +1475,13 @@ Along an unbroken web of earth may I go.
 
 ननु क्रियमाणमेव कथं अपह्रियते तत्राह - युष्मत्प्रसादादहं अच्छिन्नं तन्तुं यज्ञाख्यमनुगेषं अनुगतो भूयासमविघ्नेन प्राप्यासम् । को हि हविष्यत्वादिगुणविशिष्टं युष्मदीयमूर्मिं वृथावक्रामेत् । तस्माद्यज्ञ एवायं मया युष्मदवक्रमणरूपोनुष्ठीयत इति भावः । गा स्तुतौ छन्दसि जौहोत्यादिकः, तस्माद्धातूनामनेकार्थत्वात् गतिकर्मणः आशिषि लिङि 'लिङ्याशिष्यङ्', आतो लोपः, यासुडादि । यद्वा - 'दृष्टानुविधिः छन्दसि' इति इण एव चाशिषि लिङि गादेशः । कस्यायमच्छिन्नतन्तुत्वेन यज्ञो रूप्यते तत्राह – पृथिव्या अयमच्छिन्नस्तन्तुः, पृथिव्यवयवानुस्यूतावयवत्वात् । अन्यत्र हि दीक्षन्ते अन्यत्र देवान्यजन्ते अन्यत्रावभृथमवयन्तीति पृथिव्यां तायमानत्वात् तन्तुरेवायं पृथिव्याः । 'उदात्तयणः' इति पृथिव्याः परस्या विभक्तेरुदात्तत्वम् । तस्माद्यज्ञरूपत्वात् युष्माभिर्युष्मदवक्रमणं सोढव्यमिति । यद्वा - सेतुत्वेनायं यज्ञो रूप्यते । स हि पृथिव्या उभयतीरस्पर्शित्वात् अच्छिन्नस्तन्तुरिति वक्तुं शक्यते । तमेवाहमनुगच्छामि । सेतुना हि गच्छन्नपोतिक्रामन्नप्यपो नातिक्रामति । तस्माद्यज्ञाख्येन सेतुना युष्मानतिक्रमतो मे नापराध इति । 'सेतुमेव कृत्वात्येति' इति ब्राह्मणम् ॥
 </details>
+</details>
 
 ## देवयजन-प्राप्तिः
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18प्रयाणे कर्तव्ये प्रयाति - भद्रादिति विराजा गायत्र्या, वस्वेकपादत्वात् ।
@@ -1403,11 +1507,14 @@ ________
 
 भ॒द्राद॒भि श्रेय॒ᳶ प्रेहि॒ बृह॒स्पतिᳶ॑ पुरए॒ता ते॑ अ॒स्तु
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भद्रा᳓द् अभि᳓ श्रे᳓यᳶ प्रे᳓हि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1440,6 +1547,7 @@ From good to better do thou advance.
 
 हे रथाभिमानिन्न् आदित्य, शत्रून् राक्षसादीन् आरे देव-यजनाद् दूरे कुरु।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1447,6 +1555,8 @@ From good to better do thou advance.
 
 +++('ब्रह्म वै देवानां बृहस्पतिस् तम् एवान्वारभते' इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1471,17 +1581,23 @@ May Brhaspati be thy leader
 
 'ब्रह्म वै देवानां बृहस्पतिस्तमेवान्वारभते' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19देवयजनादर्वाग्यत्र वत्स्यन्भवति तदवस्यति - अथेति त्रिष्टुभैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देव-यजनात् परम्)+++ अ᳓थ+ईम् अ᳓वस्य+++(=अवसितो भव)+++ व᳓र+++(य् प्रदेशे)+++ आ᳓ पृथिव्याः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1502,17 +1618,23 @@ Then set him free, on the chosen spot of earth.
 
 अत्रापि स्वात्मानमाह । अथेत्यानन्तर्ये । ईमिति खल्वर्थे । आ इत्युपसर्गस्य श्रुतेः योग्यं क्रियापदमध्याह्रियते । पृथिव्याः पृथिवीमात्रात् स्थानान्तरादागतस्त्वं यदि देवयजनादर्वाग्वस्तुमिच्छसि अथेदानीं खलु वरे उत्कृष्टेस्मिन्प्रदेशे अवस्य अवसितो भव । यद्वा - पृथिव्या उत्कृष्टेस्मिन्प्रदेशे आगतस्त्वमिदानीं अत्रैवावस्य ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20आदित्यमुद्यन्तमुपतिष्ठते - आर इति त्रिष्टुभैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आदित्य!)+++ आरे᳓+++(=दूरे)+++ श᳓त्रून् कृणुहि स᳓र्ववीर+++(←बहुव्रीहिः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1533,8 +1655,11 @@ Drive afar the foes with all thy strength.
 
 सर्वेप्यात्मीयाः पुरुषाः वीराः यस्य तादृशस्त्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सर्वानस्मदीयान् शत्रून् आरे दूरे कृणुहि स्थापय । कृवि हिंसाकरणयोः, 'धिन्विकृण्व्योर च' इत्युप्रत्ययः, 'उतश्च प्रत्ययाच्छन्दो वा वचनम्' इति हेर्लुगभावः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21यत्र यक्ष्यमाणो भवति तदभिप्रेतं देवयजनमधितिष्ठति - एदमिति त्रिष्टुभा चतुष्पदया ॥
@@ -1547,6 +1672,7 @@ ________
 > “अथ यत्र यक्ष्यमाणो भवति तद् अवस्यत्य् 'एदम् अगन्म देव-यजनं पृथिव्या' इत्य् आ अन्ताद् अनुवाकस्य” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/03_vratagrahaNAd_devayajana-prAptiM_yAvat/08_Aidam_aganma.md">

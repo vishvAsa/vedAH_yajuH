@@ -181,9 +181,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Thought and thinking, intent and intention, known and knowledge, mind and power, the new and the full moon, the Brhat and the Rathantara.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तञ्च॒ चित्ति॒श्चाकू॑त॒ञ्चाकू॑तिश्च॒ विज्ञा॑तञ्च वि॒ज्ञान॑ञ्च॒ मन॑श्च॒ शक्व॑रीश्च॒ दर्श॑श्च पू॒र्णमा॑सश्च बृ॒हच्च॑ रथन्त॒रञ्च॑
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चि॒त्तम् । च॒ । चित्तिः॑ । च॒ । आकू॑त॒मित्या-कू॒त॒म् । च॒ । आकू॑ति॒रित्या-कू॒तिः॒ । च॒ । विज्ञा॑त॒मिति॒ वि-ज्ञा॒त॒म् । च॒ । वि॒ज्ञान॒मिति॑ वि-ज्ञान॑म् । च॒ । मनः॑ । च॒ । शक्व॑रीः । च॒ । दर्शः॑ । च॒ । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । च॒ । बृ॒हत् । च॒ । र॒थ॒न्त॒रमिति॑ रथं-त॒रम् । च॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -207,6 +219,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 दर्शपूर्णमासौ कालौ, कर्मणी वा । सर्वेषां कर्मकालानां कर्मणां च प्रधानयोरुपादानमुपलक्षणार्थम् ।
 
 एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
+</details>
 </details>
 </details>
 </div>
@@ -293,15 +306,17 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं᳓) भू᳓स्स्वा᳓हा ॥
-(अग्न᳓य +इदं᳓ न᳓ मम)
+(ओं᳓) भू᳓स् स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ म᳓म)
 
-(ओं) भुवस्स्वा᳓हा ॥
-(वाय᳓व +इदं᳓ न᳓ मम)
+(ओं᳓) भु᳓वस् स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ म᳓म)
 
-(ओं) सुवस्स्वा᳓हा ॥  
-(सू᳓र्याय +इदं᳓ न᳓ मम)
+(ओं᳓) सु᳓वस् स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ म᳓म)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,22 +330,26 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 (सूर्याय इदं न मम)
 </details>
 </details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
 <details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-य᳓द् अस्य क᳓र्मणो᳓ ऽत्य᳓रीरिचं  
-य᳓द् वा न्यू᳙नम् इहा᳓करम् ।  
-अग्नि᳓ष् ट᳓त् स्विष्टकृ᳓द् विद्वा᳓न्थ्  
-स᳓र्वँ स्वि᳙ष्टँ सु᳓हुतं करोतु  
-स्वा᳓हा ।
+यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
+यद् वा॒ न्यू॑नम् इ॒हाक॑रम् ।  
+अ॒ग्निष् टत् स्वि॑ष्ट॒कृद् वि॒द्वान्थ्  
+सर्वँ॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒  
+स्वाहा॑ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
 अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्त्सर्व॒ग्ग्॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒ स्वाहा॑ ।
+</details>
 </details>
 </details>
 </div>
@@ -416,6 +435,8 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 चतुर्थकाण्डे सप्तमप्रपाठके तृतियोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ९ अथ चतुर्थाष्टके सप्तमप्रपाठके तृतीयोऽनुवाकः ।  
@@ -427,10 +448,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 शञ्च॑ मे॒ मय॑श्च मे प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒ काम॑श्च मे सौमन॒सश्च॑ मे भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒ वस्य॑श्च मे॒ यश॑श्च मे॒ भग॑श्च मे॒ द्रवि॑णञ्च मे य॒न्ता च॑ मे ध॒र्ता च॑ मे॒ क्षेम॑श्च मे॒ धृति॑श्च मे॒ विश्व॑ञ्च [5] मे॒ मह॑श्च मे सव्ँ॒विच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒ सूश्च॑ मे प्र॒सूश्च॑ मे॒ सीर॑ञ्च मे ल॒यश्च॑ म ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मेऽय॒क्ष्मञ्च॒ मेऽना॑मयच्च मे जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मेऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे सु॒गञ्च॑ मे॒ शय॑नञ्च मे सू॒षा च॑ मे सु॒दिन॑ञ्च मे ॥ [6]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓ञ्च मे म᳓यश्च मे 
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me prosperity, comfort (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -438,10 +467,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 शञ्च॑ मे॒ मय॑श्च मे 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+शम् । च॒ । मे॒ । मयः॑ । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 शंशब्द ऐहिकसुखवाची ।  
 मयःशब्द आमुष्मिकसुख वाची।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,9 +484,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 प्रिय᳓ञ्च मेऽनुकाम᳓श्च मे  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me desire, wish (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रि॒यञ्च॑ मेऽनुका॒मश्च॑ मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रि॒यम् । च॒ । मे॒ । अ॒नु॒का॒म इत्य॑नु-का॒मः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -460,10 +507,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 अनुकामोऽनुकूलत्वनिमित्तेन काम्यमानः पदार्थः।  एतदुभयमैहिकामेव तारतम्योपेतम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓मश्च मे सौमनस᳓श्च मे  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me longing, kindliness (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -471,10 +526,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 काम॑श्च मे सौमन॒सश्च॑ मे 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+कामः॑ । च॒ । मे॒ । सौ॒म॒न॒सः । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 काम आमुष्मिकः स्वर्गादिः ।  
 सौमनसो मनःस्वास्थ्य करो बन्धुवर्गः ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,9 +543,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 भद्र᳓ञ्च मे श्रे᳓यश्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me good, better (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒द्रञ्च॑ मे॒ श्रेय॑श्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भ॒द्रम् । च॒ । मे॒ । श्रेयः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -492,10 +565,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 भद्रं कल्याणमिह लोके रमणीयम् ।  
 श्रेय परलोकहितम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓स्यश्च मे य᳓शश्च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me superior, fame (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,10 +584,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 वस्य॑श्च मे॒ यश॑श्च मे॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+वस्यः॑ । च॒ । मे॒ । यशः॑ । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 वस्यो निवासहेतुर्गृहादिः ।  
 यशः कीर्तिः ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,9 +601,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 भ᳓गश्च मे द्र᳓विणञ्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me good luck, riches (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 भग॑श्च मे॒ द्रवि॑णञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भगः॑ । च॒ । मे॒ । द्रवि॑णम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -524,10 +623,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 भगः सौभाग्यम् ।  
 द्रविणं धनम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्ता᳓ च मे धर्ता᳓ च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me restrainer, supporter (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -535,10 +642,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 य॒न्ता च॑ मे ध॒र्ता च॑ मे॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+य॒न्ता । च॒ । मे॒ । ध॒र्ता । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यन्ता नियामक आचार्यदिः ।  
 धर्ता पोषकः पित्रादिः ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,9 +659,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 क्षे᳓मश्च मे धृ᳓तिश्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me peace, firmness (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेम॑श्च मे॒ धृति॑श्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेमः॑ । च॒ । मे॒ । धृतिः॑ । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -557,10 +682,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 २२३० विद्यमानधनस्य रक्षणशक्तिः ।  
 धृतिर्धैर्यमापद्यपि निश्चलत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वञ्च [5] मे म᳓हश्च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me all, greatness (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -568,10 +701,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 विश्व॑ञ्च [5] मे॒ मह॑श्च मे
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+विश्व॑म् । च॒ । मे॒ । महः॑ । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 विश्वं सर्वजना नुकूल्यम् ।  
 महः पूजा ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,9 +718,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सव्ँवि᳓च्च मे ज्ञा᳓त्रञ्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me discovery, knowledge (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒विच्च॑ मे॒ ज्ञात्र॑ञ्च मे॒
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सव्ँ॒विदिति॑ सम्-वित् । च॒ । मे॒ । ज्ञात्र॑म् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -590,10 +741,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 शात्रं ज्ञापयितृत्वसामर्थ्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓श्च मे प्रसू᳓श्च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me begetting, procreation (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -601,10 +760,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सूश्च॑ मे प्र॒सूश्च॑ मे॒
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सूः । च॒ । मे॒ । प्र॒सूरिति॑ प्र-सूः । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 सूः पुत्रादिप्रेरणसामर्थ्यम् ।  
 प्रसूर्भृत्यादिप्रेरणसामर्थ्यम् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,9 +777,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सी᳓रञ्च मे लय᳓श्च म+
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me plough, harrow (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीर॑ञ्च मे ल॒यश्च॑ म+
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सीर॑म् । च॒ । मे॒ । ल॒यः । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -622,10 +799,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सीरं लाङ्गलादिकृषि साधनसंपत्तिः ।  
 लयस्तत्प्रतिबन्धनिवृत्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓ञ्च मेऽमृ᳓तञ्च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me holy order, immortality (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -633,15 +818,28 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 ऋ॒तञ्च॑ मे॒ऽमृत॑ञ्च मे
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तम् । च॒ । मे॒ । अ॒मृत॑म् । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ऋतं यज्ञादिकर्म ।  
 अमृतं तत्फलम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽयक्ष्म᳓ञ्च मे᳓ऽनामयच्च मे 
++अयक्ष्म᳓ञ्च मे᳓ऽनामयच्च मे 
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me freeness from disease, freedom from illness (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -649,10 +847,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 ऽय॒क्ष्मञ्च॒ मेऽना॑मयच्च मे 
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒य॒क्ष्मम् । च॒ । मे॒ । अना॑मयत् । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अयक्ष्मं राजयक्ष्मादिप्रबलव्याधिराहित्यम् ।  
 अनामयज् ज्वराद्य्-अल्प-व्याधि-राहित्यम् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,9 +864,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 जीवा᳓तुश्च मे दीर्घायुत्व᳓ञ्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me life, longevity (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 जी॒वातु॑श्च मे दीर्घायु॒त्वञ्च॑ मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जी॒वातुः॑ । च॒ । मे॒ । दी॒र्घा॒यु॒त्वमिति॑ दीर्घायु-त्वम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -670,10 +886,18 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 जीवातुर्जीवनकारणं व्याधिपरिहारार्थमौषधम् ।  
 दीर्घायुत्वमपमृत्सुराहित्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+ऽन᳓मित्र᳓ञ्च मे᳓ऽभयञ्च मे
++अन᳓मित्र᳓ञ्च मे᳓ऽभयञ्च मे
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me freedom from foes, fearlessness (prosper through the sacrifice);
 </details>
 
 <details><summary>मूलम्</summary>
@@ -681,10 +905,16 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 ऽनमि॒त्रञ्च॒ मेऽभ॑यञ्च मे
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+अ॒न॒मि॒त्रम् । च॒ । मे॒ । अभ॑यम् । च॒ । मे॒ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 अनमित्रं वैरिराहित्यम् ।  
 अभयं भयराहित्यम् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -692,9 +922,21 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सुग᳓ञ्च मे श᳓यनञ्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me ease of going, lying (prosper through the sacrifice);
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒गञ्च॑ मे॒ शय॑नञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒गमिति॑ सु-गम् । च॒ । मे॒ । शय॑नम् । च॒ । मे॒ ।
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -702,15 +944,28 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 सुगं शोभनगमनं सर्वैरङ्गीकृताचरणमित्यर्थः ।  
 शयनं शय्योपधानदिसंपत्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूषा᳓ च मे सुदि᳓नञ्च मे
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+May for me fair dawning, and fair day prosper through the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सू॒षा च॑ मे सु॒दिन॑ञ्च मे
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सू॒षेति॑ सु-उ॒षा । च॒ । मे॒ । सु॒दिन॒मिति॑ सु-दिन॑म् । च॒ । मे॒ ॥
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -720,6 +975,7 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  तृतीयोऽनुवाकः ॥  
 ३ ॥  
+</details>
 </details>
 </details>
 </div>

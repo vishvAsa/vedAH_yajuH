@@ -5,9 +5,12 @@ title = "१४ राजसूयाभिषेकादिमन्त्र�
 १०, १२ त्रिष्टुप्
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1यजमानायतने शार्दूलचर्मोपस्तृणाति - सोमस्य त्विषिरसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ title = "१४ राजसूयाभिषेकादिमन्त्र�
 सो᳓मस्य त्वि᳓षिर् असि  
 त᳓वेव मे त्वि᳓षिर् भूयात्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,10 +40,14 @@ Thou art the glittering of Soma; as thine may my glittering be.
 
 सोमस्य या त्विषिर्दीप्तिः सैव त्वमसि दीप्तत्वात् व्यापित्वाच्छान्तत्वाच्च । तवेव मे ममापि त्वीषिर्भूयात् दीप्ता व्यापिनी शान्ता चेत्याशास्ते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2चर्मणोधस्ताद् रजतम् उपास्यति - अमृतमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -46,6 +55,8 @@ Thou art the glittering of Soma; as thine may my glittering be.
 अमृ᳓तम् असि,  
 मृत्यो᳓र् मा पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,16 +77,22 @@ Thou art ambrosia; from death protect me.
 
 अमृतममरणहेतुरसीति । मृत्योर्मा पाहिति । 'मृत्योर्वा एष वर्णः । यच्छार्दूलः' इति शार्दूलचर्मणोधस्तादन्तर्धानकरणेन मृत्योरन्तर्धानकरणमाशास्ते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3उपरिष्टात् सुवर्णम् अधिनिदधाति - दिद्योदिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिद्यो᳓न्+++(→विद्युतः)+++ मा पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,16 +118,22 @@ From the thunderbolt protect me.
 यद्वा - द्युतेर्विचि द्विर्वचने गुणे दिद्योदिति ।  
 शब्दान्तरं दितेर्दिद्युत् अवखण्डनकृदिति केचित् । सुवर्णविशेषणं वा । हे सुवर्ण दिद्योत् द्योतमान मा पाहीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4क्लीबं सीसेन विद्ध्यति - अवेष्टा इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वेष्टा+++(←यज्)+++ दन्दशू᳓काः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,16 +154,22 @@ Propitiated are biting flies.
 
 अवेष्टाः विनाशिताः । अवपूर्वो यजिर्विनाशने । दन्दशूकाः दशनशीलास्सर्पादयः । 'यजजपदशां यङः' इत्यूकप्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5लोहितायसं पादेन निरस्यति - निरस्तमिति गायत्र्यैकपदया ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रस्तन् न᳓मुचेश् शि᳓रः  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,10 +190,14 @@ Cast away is Namuci's head.
 
 निरस्तं निष्कृष्यास्तं नमुचेश्शिरः न मुञ्चति पुरुषमिति नमुचिः अधर्मः । न मुञ्चत्यधर्ममिति वा नमुचिरसुरः बाधकः, तस्य शिरो निरस्तमनेन लोहितायसेन ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अभिषेकानवेक्षते - सोम इति षट्पदया त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/02_somo_rAjA.md">
@@ -209,9 +242,12 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अध्वर्युर् अभिषिञ्चति - सोमस्येति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,6 +258,8 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 मित्रा᳓व᳓रुणयोर् वीर्ये᳙ण  
 मरु᳓ताम् ओ᳓जसा      
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,11 +281,14 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 
 सोमस्य द्युम्नेन दीप्त्या सह यशसा वा त्वामभिसषिञ्चामि अस्योपरि क्षारयामि त्वाम् । अग्नेस्तेजसाभिषिञ्चामि त्वामित्येव । एवं मरुतामोजसेत्यादि निगदसिद्धम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्त्रा᳓णाङ् क्षत्त्र᳓-पतिर् असि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -274,11 +315,14 @@ Thou art the lord of kingly powers.
 
 'पातौ च बहुलम्' इति सत्वम् । कस्कादिर्वा द्रष्टव्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ति दिव᳓स् पाहि   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -294,10 +338,14 @@ Protect from the sky.
 
 दि॒वः । पा॒हि॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8ऊर्ध्वं धारास्समुन्मार्ष्टि - समाववृत्रन्निति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/14_rAjasUyAbhiShekAdimantrAH/03_samAvavRtrann_adharAg.md">
@@ -349,9 +397,12 @@ The ships that pour spontaneously go ever.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9आग्नीध्रे प्ररेकं जुहोति - रुद्र यत्त इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -360,6 +411,8 @@ The ships that pour spontaneously go ever.
 त᳓स्मै हुत᳓म् **असि**।  
 यमे᳓ष्टम्+++(=यमेन इष्टम् ←यज्)+++ असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -384,10 +437,14 @@ O Rudra, that highest active name of thee, to that thou art offered, thou art of
 
 यमेष्टं यद्यमेनापीष्टं पूजितं तच्छ्रुत्वा मृत्युरपि बिभेति, तेन च मनसा तत्पूजितमिति भावः । तदिदं त्वमेवासि । यजतेर्निष्ठा, 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । तस्मात्तव नाम्ने इदमुदकाख्यं हविर्जुहोमीति शेषः । यद्वा - लिङर्थे आशिषि लोट्, पुरुषव्यत्ययः । तस्मादिदं हुतमसि हुतं भूयादित्यर्थः यमेष्टं चास्त्विति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10युवराजस्य प्रतिहितस्य गृहे जुहोति - प्रजापत इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">

@@ -4,10 +4,15 @@ title: ०९-१४ देवीं वाचम्
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9यदुक्तं सूत्रकारेण - 'वाचे वेहतम्' इति, गर्भघातिनी गौर्वेहदित्युच्यते, तस्य पशोः सूक्ते प्रतीकद्वयं दर्शयति - 'देवीं वाचमजनयन्त देवाः' इति वपायाः पुरोनुवाक्या ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -17,6 +22,7 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 देवी᳓म् । वा᳓चम् । अजनयन्त । य᳓त् । वा᳓क् । व᳓दन्ती ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
@@ -680,9 +686,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ पुरोडाशस्य पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
@@ -716,9 +725,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ पुरोडाशस्य याज्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
@@ -752,9 +764,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12अथ हविषः पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
@@ -788,9 +803,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13अथ हविषो याज्यामाह
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
@@ -827,9 +845,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 14अथ हविष एव विकल्पितां याज्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/45_chatvAri_vAkparimitA.md">

@@ -2,6 +2,8 @@
 title = "१५ वैश्वदेवहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स्वाहा॒धिमाधी॑ताय॒ स्वाहा॒ स्वाहाधी॑त॒म्मन॑से॒ स्वाहा॒ स्वाहा॒ मनᳶ॑ प्र॒जाप॑तये॒ स्वाहा॒ काय॒ स्वाहा॒ कस्मै॒ स्वाहा॑ कत॒मस्मै॒ स्वाहाऽदि॑त्यै॒ स्वाहाऽदि॑त्यै म॒ह्यै॑ स्वाहाऽदि॑त्यै सुमृडी॒कायै॒ स्वाहा॒ सर॑स्वत्यै॒ स्वाहा॒ सर॑स्वत्यै बृह॒त्यै॑ स्वाहा॒ सर॑स्वत्यै पाव॒कायै॒ स्वाहा॑ पू॒ष्णे स्वाहा॑ पू॒ष्णे प्र॑प॒थ्या॑य॒ स्वाहा॑ पू॒ष्णे न॒रन्धि॑षाय॒ स्वाहा॒ त्वष्ट्रे॒ स्वाहा॒ त्वष्ट्रे॑ तु॒रीपा॑य॒ स्वाहा॒ त्वष्ट्रे॑ पुरु॒रूपा॑य॒ स्वाहा॒ विष्ण॑वे॒ स्वाहा॒ विष्ण॑वे निखुर्य॒पाय॒ स्वाहा॒ विष्ण॑वे निभूय॒पाय॒ स्वाहा॒ सर्वस्मै॒ स्वाहा॑ ॥ [36]  
@@ -11,6 +13,7 @@ title = "१५ वैश्वदेवहोममन्त्राः"
 
 1अथ वैश्वदेवानि जुहोति - स्वाहाधिमित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -18,6 +21,8 @@ title = "१५ वैश्वदेवहोममन्त्राः"
 स्वा᳓हा+++(→आदानार्थे)+++ ऽऽधि᳓म्  
 +++(आधीयतेऽनेनेत्याधिः - बुद्धिः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ Hail! (To) meditation (I offer).
 
 अत्र त्रीणि पूर्वाणि दीक्षायां समस्तानि रात्रिहोमेषु । आधीयतेऽनेनेत्याधिः । बुद्धिः । 'उपसर्गे घोः किः' व्यत्ययेन द्वितीया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓धीताय+++(=आध्यातं)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,11 +77,14 @@ To that meditated upon hail!
 
 मनश्च प्रजापतये यजमानाय वा पर्याप्तं भवतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा᳓ ऽऽधीतम्+++(=आध्यातं)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +100,14 @@ Hail! (To) that which we meditate on (I offer).
 
 स्वाहा॑ । आधी॑त॒मित्या-धी॒त॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसे स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,11 +123,14 @@ To mind hail!
 
 मन॑से । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा म᳓नः,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,11 +146,14 @@ Hail! (To) mind (I offer).
 
 स्वाहा॑ । मनः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,6 +169,7 @@ To Prajapati hail!
 
 प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ । स्वाहा॑ ।
 </details>
+</details>
 
 _______________
 
@@ -156,6 +177,8 @@ _______________
 
 का᳓य+++(=प्रजापतये)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,11 +199,14 @@ To Ka hail!
 
 काय प्रजापतये । संज्ञात्वात्सर्वनामत्वाभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓स्मै+++(=अज्ञातस्वरूपाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,11 +227,14 @@ To Who hail!'
 
 कस्मै अज्ञातस्वरूपाय । सार्वात्म्यात् सर्वनामत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कतम᳓स्मै+++(=अनिर्धारितविशेषात्मने)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,11 +255,14 @@ To Whoever (katamásmai) hail!
 
 कतमस्मै अनिर्धारितविशेषात्मने ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +283,14 @@ To Aditi hail!
 
 अदित्यै पृथिव्यै देवमात्रे वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यै मह्यै᳙ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,11 +311,14 @@ To Aditi the great hail!
 
 मह्यै महत्यै सुमृडीकायै सुसुखायै सुष्ठु वा सुखयित्र्यै ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यै सु-मृडीका᳓यै+++(=सुखयित्र्यै)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,11 +334,14 @@ To Aditi the gentle hail!
 
 अदि॑त्यै । सु॒मृ॒डी॒काया॒ इति॑ सु-मृ॒डी॒कायै॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,11 +357,14 @@ To Sarasvati hail!
 
 सर॑स्वत्यै । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै बृहत्यै᳙ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -336,11 +380,14 @@ To Sarasvati the mighty hail!
 
 सर॑स्वत्यै । बृ॒ह॒त्यै॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै पावका᳓यै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,11 +408,14 @@ To Sarasvati, the purifying hail!
 
 पावकायै शोधयित्र्यै 'पावकादीनां छन्दसि' इतीत्वाभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,11 +436,14 @@ To Pusan hail!
 
 पूष्णे । उदात्तनिवृत्तिस्वरेण विभक्तिरुदात्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ प्रपथ्या᳙य+++(=प्रपथहिताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -411,11 +464,14 @@ To Pusan guardian of travellers hail!
 
 प्रपथ्याय प्रकृष्टः पन्थाः प्रपथः तस्मै हिताय । तत्र भवाय वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ नर᳓न्धिषाय+++(=नराणां धारयित्रे)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,11 +492,14 @@ To Pusan watcher of men hail!
 
 नरन्धिषाय नराणां धारयित्रे । दधातेः छान्दसः खच्, भष्भावश्च । पूर्वपदान्तोदात्तत्वं च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्ट्रे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +515,14 @@ To Tvastr hail!
 
 त्वष्ट्रे॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्ट्रे तुरी᳓पाय+++(=तूर्णमाप्नुवते)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,11 +543,14 @@ To Tvastr the seminal hail!
 
 तुरीपाय तूर्णमाप्नुवते । पृषोदरादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्ट्रे पुरु+++(=बहु)+++रू᳓पाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +571,14 @@ To Tvastr the multiform hail!
 
 पुरुरूपाय । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णवे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -526,11 +594,14 @@ To Visnu hail!
 
 विष्ण॑वे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णवे निखुर्य+++(=नि+खुर्+ल्यप्)+++पा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,11 +622,14 @@ To Visnu the Nikhuryapa hail!
 
 निखुर्यपाय खुरच्छेदने नियमेन पापरोगादिभिः बाध्यमानानां जनानां पात्रे । छान्दसः क्यप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णवे निभूय+++(=नि+भू+ल्यप्)+++पा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,11 +652,14 @@ To Visnu the Nibhuyapa hail!
 
 इति सप्तमे तृतीये पञ्चदशोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्व᳓स्मै स्वा᳓हा ॥ [36]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -597,4 +674,5 @@ To all hail!
 <details><summary>पद-पाठः</summary>
 
 सर्व॑स्मै । स्वाहा॑ ॥
+</details>
 </details>

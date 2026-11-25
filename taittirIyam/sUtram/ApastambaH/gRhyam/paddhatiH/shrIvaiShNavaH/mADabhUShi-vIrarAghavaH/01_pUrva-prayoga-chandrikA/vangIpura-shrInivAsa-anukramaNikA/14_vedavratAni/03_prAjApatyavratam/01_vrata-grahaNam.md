@@ -14,7 +14,6 @@ title = "०१ व्रत-ग्रहणम्"
 स्नातं शिष्यं निवीतं 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md">
-
 ऋषितीर्थेन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -22,15 +21,16 @@ title = "०१ व्रत-ग्रहणम्"
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md">
-
 ऋषितीर्थेन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -38,6 +38,8 @@ title = "०१ व्रत-ग्रहणम्"
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
@@ -47,11 +49,15 @@ title = "०१ व्रत-ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,11 +68,15 @@ title = "०१ व्रत-ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु᳓णीर् देव᳓ता उपनिष᳓दस् तर्पयामि     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,6 +87,8 @@ title = "०१ व्रत-ग्रहणम्"
 
 वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि
 </details>
+</details>
+
 
 ब्रह्मतीर्थेन
 
@@ -84,6 +96,8 @@ title = "०१ व्रत-ग्रहणम्"
 
 ब्र᳓ह्मणे स्वयम्भु᳓वं तर्पयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,6 +108,8 @@ title = "०१ व्रत-ग्रहणम्"
 
 ब्रह्म॑णे, स्व॒य॒म्भुवं॑ - तर्पयामि 
 </details>
+</details>
+
 
 ऋषितीर्थेन
 
@@ -102,30 +118,33 @@ title = "०१ व्रत-ग्रहणम्"
 स᳓दसस्-प᳓तिं तर्पयामि। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स᳓दसस्-प᳓तिं तर्पयामि।
 </details>
-
+</details>
 </div>  
 
 इति एकैकं त्रिस् त्रिः तिलाक्षतोदकैः ऋषि-तीर्थेन तर्पयित्वाचम्य,  
 अग्नि-प्रतिष्ठाद्य्-अग्नि-मुखान्ते शिष्येणान्वारब्धः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApataye_kANDarShaye.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये काण्डऋष᳓ये स्वा᳓हा ।  
 (प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म । )
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रजा᳓पतये काण्डऋष᳓ये स्वा᳓हा ।
 (प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म । )
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
@@ -221,21 +240,30 @@ title = "०१ व्रत-ग्रहणम्"
 (अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रत᳓म्…" इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -252,16 +280,24 @@ title = "०१ व्रत-ग्रहणम्"
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -272,17 +308,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -294,16 +340,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -314,12 +368,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -330,17 +391,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -351,12 +415,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -367,17 +438,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -388,8 +462,12 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
 जयादि प्रतिपद्यते ।  

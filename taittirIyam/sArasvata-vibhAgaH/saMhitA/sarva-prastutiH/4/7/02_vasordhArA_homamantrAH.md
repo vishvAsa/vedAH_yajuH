@@ -5,6 +5,8 @@ title = "०२ वसोर्धारा होममन्त्राः"
 
 चतुर्थकाण्डे सप्तमप्रपाठके द्वितियोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्यैष्ठ्य॑ञ्च म॒ आधि॑पत्यञ्च मे म॒न्युश्च॑ मे॒ भाम॑श्च॒ मेऽम॑श्च॒ मेऽम्भ॑श्च मे जे॒मा च॑ मे महि॒मा च॑ मे वरि॒मा च॑ मे प्रथि॒मा च॑ मे व॒र्ष्मा च॑ मे द्राघु॒या च॑ मे वृ॒द्धञ्च॑ मे॒ वृद्धि॑श्च मे स॒त्यञ्च॑ मे श्र॒द्धा च॑ मे॒ जग॑च्च [3]  
@@ -16,11 +18,14 @@ title = "०२ वसोर्धारा होममन्त्राः"
 (अथ चतुर्थकाण्डे सप्तमप्रपाठके द्वितीयोऽनुवाकः) ।  
 अथ द्वितीयमाह– ज्यैष्ठ्यं च म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यै᳓ष्ठ्यञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ May for me pre-eminence (prosper through the sacrifice);
 
 ज्यैष्ठ्यं प्रशस्ततममत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓धिपत्यञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,12 +74,15 @@ May for me overlordship (prosper through the sacrifice);
 
 आधिपत्यं स्वामित्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्यु᳓श्च मे  +++(कल्पताम्)+++ ।  
 भा᳓मश्च मे᳓ +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +105,14 @@ May for me spirit, anger (prosper through the sacrifice);
 मन्युभामाशब्दौ क्रोधावान्तरविशेषवाचिनौ ।  
 एको मानसोऽक्षमादिलिङ्गजन्यो बाह्यः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓मश्च मे᳓ +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,11 +133,14 @@ May for me violence (prosper through the sacrifice);
 
 अमोऽप्रमेयत्वं विरोधिभिरियत्तया परिच्छेत्तुमशक्यत्मम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓म्भश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,11 +161,14 @@ May for me impetuosity (prosper through the sacrifice);
 
 अम्भः शैत्यमाधुर्योपेतमुदकम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जेमा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -169,11 +189,14 @@ May for me victorious power (prosper through the sacrifice);
 
 जेमा जयसामर्थ्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महिमा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,11 +217,14 @@ May for me greatness (prosper through the sacrifice);
 
 गृहिमा महत्त्वं जयसंपादितधनादिसंपत्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरिमा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -219,11 +245,14 @@ May for me breadth (prosper through the sacrifice);
 
 वरिमा वरणीयत्वं पूज्यत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रथिमा᳓  च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,11 +273,14 @@ May for me extent (prosper through the sacrifice);
 
 प्रथिमा मृहक्षेत्रादिविस्तारः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्ष्मा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,11 +301,14 @@ May for me greatness (prosper through the sacrifice);
 
 वर्ष्मा पुत्रपौत्रादिशरीराणि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्राघुया᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -294,11 +329,14 @@ May for me length (prosper through the sacrifice);
 
 द्राघुया पुत्रपौत्रादिविषय दीर्घत्वमविच्छिन्ना संततिरिस्यर्थः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृद्ध᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -319,11 +357,14 @@ May for me growth (prosper through the sacrifice);
 
 वृद्धं प्रभूतमन्नं धन च ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓द्धिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -344,11 +385,14 @@ May for me growing (prosper through the sacrifice);
 
 वृद्धिर्विद्यादिगुणैरुत्कर्पः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -369,11 +413,14 @@ May for me truth (prosper through the sacrifice);
 
 सत्यं यथार्थभाषणम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा᳓ च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +441,14 @@ May for me faith (prosper through the sacrifice);
 
 श्रद्धा परलोकोऽस्तीति बुद्धिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓गच्च मे +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,11 +469,14 @@ May for me world (prosper through the sacrifice);
 
 जगणङ्गमाजङ्गमात्मकम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध᳓नञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -444,11 +497,14 @@ May for me wealth (prosper through the sacrifice);
 
 धनं सुवर्णादि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓शश्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -469,11 +525,14 @@ May for me power (prosper through the sacrifice);
 
 वशः सर्वस्वाधीनत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वि᳓षिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -494,11 +553,14 @@ May for me radiance (prosper through the sacrifice);
 
 त्विषिः शरीरकान्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रीडा᳓ च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -519,11 +581,14 @@ May for me play (prosper through the sacrifice);
 
 क्रीडाऽक्षद्यूतादिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मो᳓दश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,11 +609,14 @@ May for me delight (prosper through the sacrifice);
 
 मोदस्तज्जन्यो हर्षः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जात᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,11 +637,14 @@ May for me what is born (prosper through the sacrifice);
 
 जातं पूर्वसिद्धापत्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनिष्य᳓माणञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -594,11 +665,14 @@ May for me what is to be born (prosper through the sacrifice);
 
 जनिष्यमाणं भविष्यदपस्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूक्त᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -619,11 +693,14 @@ May for me good words (prosper through the sacrifice);
 
 सूक्तमृक्समूहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकृत᳓ञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -644,11 +721,14 @@ May for me good deeds (prosper through the sacrifice);
 
 सुकृतं तज्जन्यमपूर्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्त᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -669,11 +749,14 @@ May for me finding (prosper through the sacrifice);
 
 वित्तं पूर्वलब्धम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वे᳓द्यञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -694,11 +777,14 @@ May for me what there is to find (prosper through the sacrifice);
 
 वेद्यामितः परं लव्धव्यं द्रव्यजातम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -719,11 +805,14 @@ May for me what has been (prosper through the sacrifice);
 
 भूतं पूर्वसिद्धं क्षेत्रादि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भविष्य᳓च्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -744,11 +833,14 @@ May for me what will be (prosper through the sacrifice);
 
 भविष्यत्संपत्स्यमानम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -769,11 +861,14 @@ May for me easy road (prosper through the sacrifice);
 
 सुगं सुष्ठु गन्तव्यं बन्धुजनयुक्तग्रामान्तरादि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप᳓थञ्च  मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -794,11 +889,14 @@ May for me good way (prosper through the sacrifice);
 
 सुपथं चोरादिरहितो मार्गः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋद्ध᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -819,11 +917,14 @@ May for me prosperity (prosper through the sacrifice);
 
 ऋद्धं वर्धितं धनादिकमनुष्ठितकर्मफलं वा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ᳓द्धिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -844,11 +945,14 @@ May for me prospering (prosper through the sacrifice);
 
 ऋद्धिरनुष्ठास्यमानसत्रफम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कॢप्त᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -869,11 +973,14 @@ May for me agreement (prosper through the sacrifice);
 
 क्लृप्तं समर्थं स्यकार्यक्षमद्रव्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कॢ᳓प्तिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -894,11 +1001,14 @@ May for me agreeing (prosper through the sacrifice);
 
 कॢप्तिः स्वकीयसामर्थ्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मति᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -919,11 +1029,14 @@ May for me thought (prosper through the sacrifice);
 
 मतिः पदार्थमात्रनिश्चयः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमति᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -945,4 +1058,5 @@ May for me good thought prosper through the sacrifice.
 सुमतिदुर्घटराजकार्यादिनिश्चयः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  द्वितीयोऽनुवाकः ॥  
 २ ॥  
+</details>
 </details>

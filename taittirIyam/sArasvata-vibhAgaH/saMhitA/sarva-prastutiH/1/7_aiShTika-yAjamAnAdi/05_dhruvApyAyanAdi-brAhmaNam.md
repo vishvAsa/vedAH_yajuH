@@ -6,9 +6,12 @@ title = "०५ ध्रुवाप्यायनादिमन्त्र�
 प्रजापतिर्ऋषिः  
 ध्रुवाप्यायन-यजमानभागप्राशन-पूर्णपात्रनिनयन-विष्णुक्रमादिमन्त्रब्राह्मणम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रु॒वाव्ँ वै रिच्य॑मानाय्ँ य॒ज्ञोऽनु॑ रिच्यते य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जा ध्रु॒वामा॒प्याय॑मानाय्ँ य॒ज्ञोऽन्वा प्या॑यते य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जा आ प्या॑यतान्ध्रु॒वा घृ॒तेनेत्या॑ह ध्रु॒वामे॒वाऽऽप्या॑ययति॒ तामा॒प्याय॑मानाय्ँ य॒ज्ञोऽन्वा प्या॑यते य॒ज्ञय्ँयज॑मानो॒ यज॑मानम्प्र॒जाᳶ प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कस्तस्मिँ॑ स्त्वा दधामि स॒ह यज॑माने॒नेति॑ [21]आ॒ह 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -16,6 +19,8 @@ title = "०५ ध्रुवाप्यायनादिमन्त्र�
 ध्रुवाव्ँ᳓ वै᳓ रि᳓च्यमानाय्ँ यज्ञो᳓ ऽनु रिच्यते,  
 यज्ञय्ँ᳓ य᳓जमानो, य᳓जमानम् प्रजाः᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,6 +48,7 @@ through the sacrificer offspring.
 
 ध्रुवायां रिक्तायां यज्ञस्यासंपूर्त्या यजमानस्य फलाभावात्त-दीयप्रजाया अन्नाद्यभाव इति व्यतिरेकः। एवमन्वये योज्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -51,6 +57,8 @@ through the sacrificer offspring.
 यज्ञय्ँ᳓ य᳓जमानो  
 य᳓जमानम् प्रजाः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,12 +77,15 @@ through the sacrificer offspring.
 
 ध्रु॒वाम् । आ॒प्याय॑माना॒मित्या॑-प्याय॑मानाम् । य॒ज्ञः । अनु॑ । एति॑ । प्या॒य॒ते॒ । य॒ज्ञम् । यज॑मानः । यज॑मानम् । प्र॒जा इति॑ प्र-जाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓ प्यायतान् ध्रुवा᳓ घृते᳓ने᳓"त्याह -  
 ध्रुवा᳓म् एवा᳓ऽऽप्याययति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,6 +106,7 @@ through the sacrificer offspring.
 
 1आप्यायताम् इति ध्रुवाया आप्यायमानाया अनुमन्त्रणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,6 +114,8 @@ through the sacrificer offspring.
 यज्ञय्ँ᳓ य᳓जमानो  
 य᳓जमानम् प्रजाः᳓। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +141,14 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 
 मन्त्रं व्याचष्टे - आ प्यायतिमिति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेर् विभा᳓न् ना᳓म लोकः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,11 +164,14 @@ through its swelling the sacrifice is made to swell, through the sacrifice the s
 
 प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । वि॒भानिति॑ वि-भान् । नाम॑ । लो॒कः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त᳓स्मिँस् त्वा दधामि सह᳓ य᳓जमानेने᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,10 +187,14 @@ In it I place thee along with the sacrificer', he says [1];
 
 तस्मि॑न् । त्वा॒ । द॒धा॒मि॒ । स॒ह । यज॑मानेन । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒यव्ँ वै प्र॒जाप॑तेर्वि॒भान्नाम॑ लो॒कस्तस्मि॑न्ने॒वैन॑न्दधाति स॒ह यज॑मानेन॒ रिच्य॑त इव॒ वा ए॒तद्यद्यज॑ते॒ यद्य॑जमानभा॒गम्प्रा॒श्ञात्या॒त्मान॑मे॒व प्री॑णात्ये॒तावा॒न्वै य॒ज्ञो यावा॑न्यजमानभा॒गो य॒ज्ञो यज॑मानो॒ यद्य॑जमानभा॒गम्प्रा॒श्ञाति॑ य॒ज्ञ ए॒व य॒ज्ञम्प्रति॑ष्ठापयति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -179,6 +203,8 @@ In it I place thee along with the sacrificer', he says [1];
 त᳓स्मिन्न् एवै᳓नन् दधाति  
 सह᳓ य᳓जमानेन ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,6 +232,7 @@ the world of Prajapati, named Vibhan, is this (world); verily he places it in it
 यजमानभागप्राशनमन्त्रं व्याचष्टे-  
 प्रजापतेरिति। विशेषेण कर्मभूमित्वेन भातीति विभानयं भूलोकः। एनं यजमानभागम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -213,6 +240,8 @@ the world of Prajapati, named Vibhan, is this (world); verily he places it in it
 य᳓द् यजमानभाग᳓म् प्राश्ञा᳓ति,   
 आत्मा᳓नम् एव᳓ प्रीणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,6 +270,7 @@ In that he sacrifices he is as it were emptied; in that he eats the sacrificer's
 यजमानस्य रिक्तीकरणनिवारणेन भागप्राशनं प्रशंसति-  
 रिच्‍यत इति। यजत इति यत्, एतेन पुरोडाशाज्यसांनाय्यद्रव्यहोमे यजमानो रिक्त इव भवति। भागप्राशनेन तु प्रीतस्तं क्लेशं जहाति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,6 +279,8 @@ In that he sacrifices he is as it were emptied; in that he eats the sacrificer's
 य᳓द् यजमानभाग᳓म् प्राश्ञा᳓ति   
 यज्ञ᳓ एव᳓ यज्ञ᳓म् प्र᳓तिष्ठापयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,10 +313,14 @@ he places the sacrifice in the sacrifice.
 यज्ञप्रतिष्ठाहेतुत्वेनापि तदेव प्रशंसति-  
 एतावानिति। यजमानस्य भागो यावानस्ति एतावानेवेह लोके यजमान-स्योपयुक्तो यज्ञोऽवशिष्टस्य देवैत्विग्भिश्च भक्ष्यमाणत्वात्। स्वयं च यज्ञस्वामित्वेन यज्ञात्मकः। तथा सति यजमानेन भागे प्राशिते यज्ञ एव यज्ञः प्रतिष्ठापितो भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वै सू॒यव॑सँ॒ सोद॑कय्ँ॒यद्ब॒र्हिश्चाऽऽप॑श्चै॒तत् [22]यज॑मानस्या॒ऽऽयत॑नय्ँ॒यद्वेदि॒र्यत्पू॑र्णपा॒त्रम॑न्तर्वे॒दि नि॒नय॑ति॒ स्व ए॒वाऽऽयत॑ने सू॒यव॑सँ॒ सोद॑कङ्कुरुते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +328,8 @@ he places the sacrifice in the sacrifice.
 एत᳓द् वै᳓ सूय᳓वसँ सो᳓दकं -  
 य᳓द् बर्हि᳓श् चा᳓ऽऽपश् च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,6 +356,7 @@ This is rich in fresh grass, and rich in water, where the strew and the water ar
 पूर्णपात्रस्य निनयनं विधातुं प्रस्तौति –  
 एतद्वा इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,6 +364,8 @@ This is rich in fresh grass, and rich in water, where the strew and the water ar
 य᳓त् पूर्णपात्र᳓म् अन्तर्वेदि᳓ निन᳓यति,   
 स्व᳓ एवा᳓ऽऽय᳓तने सूय᳓वसँ सो᳓दकङ् कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,10 +398,14 @@ he makes rich in fresh grass and in water his own birthplace.
 विधत्ते-  
 यत्पूर्णपात्रमिति। सूवयसं तृणसमृद्धिं सोदमुकदसमृद्धिं च कुरुते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सद॑सि॒ सन्मे॑ भूया॒ इत्या॒हाऽऽपो॒ वै य॒ज्ञ आपो॒ऽमृतय्ँ॑ य॒ज्ञमे॒वामृत॑मा॒त्मन्ध॑त्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -368,6 +413,8 @@ he makes rich in fresh grass and in water his own birthplace.
 "स᳓द् असि  
 स᳓न्मे भूया" इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,12 +441,15 @@ he makes rich in fresh grass and in water his own birthplace.
 निनयनमन्त्रं व्याचष्टे-  
 सदसिति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ यज्ञः᳓ ।   
 आ᳓पो ऽमृ᳓तय्ँ, यज्ञ᳓म् एवा᳓मृ᳓तम् आत्म᳓न् धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,16 +478,22 @@ verily he bestows upon himself the sacrifice and the waters.
 
 अपां यज्ञसाधनत्वाद्यज्ञत्वं, जीवनहेतुत्वाच्चामृतत्वं, तस्मादपोऽ-भिलक्ष्य सन्मे भूया इत्युक्ते सति यज्ञरूपममृतं स्वस्मिन्धारयति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सर्वा॑णि॒ वै भू॒तानि॑ व्र॒तमु॑प॒यन्त॒मनूप॑ यन्ति॒ प्राच्या॑न्दि॒शि दे॒वा ऋ॒त्विजो॑ मार्जयन्ता॒मित्या॑है॒ष वै द॑र्शपूर्णमा॒सयो॑रवभृ॒थः [23]यान्ये॒वैन॑म्भू॒तानि॑ व्र॒तमु॑प॒यन्त॑मनूप॒यन्ति॒ तैरे॒व स॒हाव॑भृ॒थमवै॑ति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वाणि वै᳓ भूता᳓नि व्रत᳓म् उपय᳓न्तम् अ᳓नू᳓प यन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,12 +520,15 @@ All creatures attend him who is performing the vow.
 व्युत्सेचनमन्त्रं व्याचष्टे-  
 सर्वाणीति। यो यजमानो यज्ञव्रतमुपैति तमनु देवपित्रादीनि सर्वाणि भूतानि व्रतं प्रारभन्ते। अतो देवपित्रादिमार्जनप्रतिपादकेनानेन मन्त्रेण तैः सर्वैर्भूतैः सहैवावभृथं प्राप्नोति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रा᳓च्यान् दिशि᳓ देवा᳓ ऋत्वि᳓जो मार्जयन्ताम्" इ᳓त्याह ।  
 एष᳓ वै᳓ दर्शपूर्णमास᳓योर् अवभृथः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,6 +551,7 @@ this is the concluding bath of the new and full moon sacrifices [3].
 
 कः पुनरयमवभृथ इत्याह – प्राच्यामित्यादि । अनेन मन्त्रेण यद्दिशां व्युत्सेचनम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -499,6 +559,8 @@ this is the concluding bath of the new and full moon sacrifices [3].
 व्रत᳓म् उपय᳓न्तम् **अनूपय᳓न्ति**,   
 तै᳓र् एव᳓ सहा᳓वभृथ᳓म् अ᳓वैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,10 +577,14 @@ He goes to the bath along with the creatures which attend him as he performs the
 
 यानि॑ । ए॒व । ए॒न॒म् । भू॒तानि॑ । व्र॒तम् । उ॒प॒यन्त॒मित्यु॑प-यन्त॑म् । अ॒नू॒प॒यन्तीत्य॑नु-उ॒प॒यन्ति॑ । तैः । ए॒व । स॒ह । अ॒व॒भृ॒थमित्य॑व-भृ॒थम् । अवेति॑ । ए॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णु॑मुखा॒ वै दे॒वाश्छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भ्य॑जय॒न् यद्वि॑ष्णुक्र॒मान्क्रम॑ते॒ विष्णु॑रे॒व भू॒त्वा यज॑मान॒श्छन्दो॑भिरि॒माल्ँ लो॒कान॑नपज॒य्यम॒भि ज॑यति॒ विष्णो॒ᳵ क्रमो॑ऽस्यभिमाति॒हेत्या॑ह गाय॒त्री वै पृ॑थि॒वी त्रैष्टु॑भम॒न्तरि॑क्ष॒ञ्जाग॑ती॒ द्यौरानु॑ष्टुभी॒र्दिश॒श्छन्दो॑भिरे॒वेमाल्ँ लो॒कान् य॑थापू॒र्वम॒भि ज॑यति ॥ [24]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -527,6 +593,8 @@ He goes to the bath along with the creatures which attend him as he performs the
 छ᳓न्दोभिर् इमाल्ँ᳓ लोका᳓न्  
 अनपजय्य᳓म् अभ्य᳙जयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -553,6 +621,7 @@ Headed by Visnu the gods won these worlds by the metres so as to be irrecoverabl
 विष्णुक्रमान्विधत्ते-  
 विष्णुमुखा इति। देवाः पूर्वं स्वेषु विष्णुमेव मुख्यं कृत्वा छन्दोभिमानिदेवैः सहिता अन्यैर्जेतुं यथा न शक्यते तथा लोकानजयन्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,6 +630,8 @@ Headed by Visnu the gods won these worlds by the metres so as to be irrecoverabl
 छ᳓न्दोभिर् इमाल्ँ᳓ लोका᳓न्  
 अनपजय्य᳓म् अभि᳓ जयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,6 +653,7 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 
 अतो यजमानो विष्णुक्रमान्क्रमत इति यत्स विष्णुरेव भूत्वेमाल्ँ लोकानभिजयति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -591,6 +663,8 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 जा᳓गती द्यौः᳓ ।  
 आ᳓नुष्टुभीर् दि᳓शः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -621,12 +695,15 @@ in that he takes the steps of Visnu the sacrificer becoming Visnu wins these wor
 तत्रत्यान्मन्त्रान्व्याचष्टे-  
 विष्णोः क्रम इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दोभिर् एवे᳓माल्ँ᳓ लोका᳓न्  
 यथापूर्व᳓म् अभि᳓ जयति ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,4 +735,5 @@ verily by the metres he wins these worlds in order.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
 पञ्चमोऽनुवाकः॥५॥
+</details>
 </details>

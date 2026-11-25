@@ -2,6 +2,8 @@
 title = "१३ काम्येष्टयः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 वैश्वदेवं याज्याकाण्डम्
@@ -18,6 +20,7 @@ title = "१३ काम्येष्टयः"
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ याज्याकाण्डं वैश्वदेवं, तत्र 'इन्द्रायान्वृजवे पुरोडाशमेकादशकपालं निर्वपेद्ग्रामकामः' इत्यस्य पुरोनुवाक्या - अन्वहेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/089/13_anvaha_mAsA.md">
@@ -343,9 +346,12 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - अनु ते दायीति त्रिष्टुप् ॥ व्याख्यातेयं षष्ठान्ते ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/025/08_anu_te.md">
@@ -744,9 +750,12 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'इन्द्राण्यै चरुं निर्वपेद्यस्य सेनाऽसंशितेव स्यात्' इत्यस्य पुरोनुवाक्या - इन्द्राणीमित्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
@@ -792,9 +801,12 @@ Shall her husband die of old age.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - नाहम् इत्य् अनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/086/12_nAhamindrANi_rAraNa.md">
@@ -811,12 +823,15 @@ Shall her husband die of old age.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 I have not joyed, O Indrani,  
 Without my friend Vrsakapi,  
 Whose oblation rich in water  
 Goeth dear to the gods.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/12_nAhamindrANi_rAraNa.md">
@@ -1124,6 +1139,8 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेर् ऋ॒ते ।   
@@ -1134,10 +1151,14 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 न । अ॒हम् । इ॒न्द्रा॒णि॒ । रा॒र॒ण॒ । सख्युः॑ । वृ॒षाक॑पे॒रिति॑ वृ॒षा-क॒पेः॒ । ऋ॒ते ॥ यस्य॑ । इ॒दम् । अप्य॑म् । ह॒विः । प्रि॒यम् । दे॒वेषु॑ । गच्छ॑ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'इन्द्राय मन्युमते मनस्वते पुरोडाशमेकादशकपालं निर्वपेत् सङ्ग्रामे संयत्ते' इत्यस्य पुरोनुवाक्या - यो जात इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/012/01_yo_jAta.md">
@@ -1503,9 +1524,12 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आ ते मह इति पुरस्ताज्ज्योतिस्त्रिष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/025/01_A_te.md">
@@ -1521,12 +1545,15 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Hitherward be thy might with aid, O dread Indra,  
 What time the armies meet in combat,  
 And the arrow flieth from the arms of the strong men;  
 Let not thy mind wander about.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/025/01_A_te.md">
@@ -1895,6 +1922,8 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आ ते॑ म॒ह इ॑न्द्रो॒त्यु॑ग्र॒ सम॑न्यवो॒..     
@@ -1907,10 +1936,14 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 एति॑ । ते॒ । म॒हः । इ॒न्द्र॒ । ऊ॒ती । उ॒ग्र॒ । सम॑न्यव॒ इति॒ स-म॒न्य॒वः॒ । यत् । स॒मर॒न्तेति॑ सम्-अर॑न्त । सेनाः॑ ॥ पता॑ति । दि॒द्युत् । नर्य॑स्य । बा॒हु॒वोः । मा । ते॒ । मनः॑ । वि॒ष्व॒द्रिय॒गिति॑ विष्व-द्रिय॑क् । वीति॑ । चा॒री॒त् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7इन्द्राय दात्रे पुरोडाशमेकादशकपालं निवेपेद्यः कामयेत दानकामा मे प्रजास्युः' इत्यस्य पुरोनुवाक्या - मा न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/020/10_mA_no.md">
@@ -2338,9 +2371,12 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - आ तू भरेति तृतीयपादान्तम्
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/036/09_A_tU.md">
@@ -2761,9 +2797,12 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'इन्द्राय प्रदात्रे पुरोदाशमेकादशकपालं निर्वपेद् यस्मै प्रत्तम् इव सन्नप्रदीयेत' इत्यस्य पुरोनुवाक्या - प्रदातारमिति बृहती ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
@@ -2811,9 +2850,12 @@ Give to us from the left and the right.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - प्रदातेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
@@ -2859,9 +2901,12 @@ Be thou health and wealth to the sacrificer.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं निर्वपेदपरुद्धो वापरुद्ध्यमानो वा' इत्यस्य पुरोनुवाक्या - इन्द्रस्सुत्रामेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
@@ -3266,9 +3311,12 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - तस्य वयमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/13_tasya_vayaM.md">
@@ -3647,9 +3695,12 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13यो ऽलं श्रियै सन् सदृङ् समानैस् स्यात् तस्मा एतम् ऐन्द्रम् एकादश्शकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - रेवतीर्न इति गायत्री ॥ 'रेवती पुरोनुवाक्या' इति ब्राह्मणम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/20/122/01_revatIrnaH_sadhamAda.md">
@@ -3718,9 +3769,12 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव याज्या - प्रोष्वस्मा इति शक्वरी सप्तपदा ॥ 'शक्वरी याज्या' इति ब्राह्मणम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/20/095/02_pro_Shvasmai.md">
@@ -3809,8 +3863,11 @@ Sing strength to Indra that shall set his chariot in the foremost place. Giver o
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये प्रथमकाण्डे सप्तमप्रपाठके त्रयोदशोनुवाकः ॥
 समाप्तश्च प्रपाठकः ॥  
+</details>
 </details>

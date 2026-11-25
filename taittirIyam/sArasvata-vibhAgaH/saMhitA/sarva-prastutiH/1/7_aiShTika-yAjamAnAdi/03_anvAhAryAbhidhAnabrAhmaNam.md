@@ -3,6 +3,8 @@ title = "०३ अन्वाहार्याभिधानब्राह�
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रजापतिर्ऋषिः
@@ -10,11 +12,15 @@ title = "०३ अन्वाहार्याभिधानब्राह�
 - ऐष्टिकयाजमानब्राह्मणशेषः
   - अन्वाहार्यस्य विधिः,
 </details>
+</details>
 
 ## परोक्ष-प्रीतिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथान्वाहार्यं विधास्यन्नाह -**परोक्षं वा इत्यादि ॥** 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -22,6 +28,8 @@ title = "०३ अन्वाहार्याभिधानब्राह�
 परो᳓क्षव्ँ वा᳓ अन्ये᳓ देवा᳓ इज्य᳓न्ते ।  
 प्रत्य᳓क्षम् अन्ये᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,6 +58,7 @@ Secretly offering is made to one set of gods, openly to another.
 
 द्वितीया इडायाः प्रशंसोक्ता। तृतीयेऽन्वाहार्य उच्‍यते। तस्य दानं विधातुं प्रस्तौति-  **परोक्षमिति।** परोक्षमिति क्रियाविशेषणम्। अग्नीन्द्रादीनामदृश्यमानत्वात्तद्यागः परोक्षः। ऋत्विजां दृश्यमानत्वात्तद्यागः प्रत्यक्षः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -58,6 +67,8 @@ Secretly offering is made to one set of gods, openly to another.
 ता᳓न् एव᳓ त᳓द् यजति  
 य᳓द् अन्वाहार्य᳙म् आह᳓रति। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,6 +95,7 @@ The gods who receive offering secretly, he thus offers to them in sacrifice; in 
 
 अन्वाहार्यदानं विधत्ते-  **यदन्वाहार्यमिति।** अन्वाहार्य पक्व ओदनस्तामाहरत्यृत्विग्भ्यो दद्यात्। 
 </details>
+</details>
 
 ## ब्राह्मण-प्रीतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -92,6 +104,8 @@ The gods who receive offering secretly, he thus offers to them in sacrifice; in 
 य᳓द् ब्राह्मणा᳓स् -  
 ता᳓न् एव᳓ ते᳓न प्रीणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -117,6 +131,7 @@ the Brahmans are the gods openly--them he verily delights.
 
 प्रत्यक्षं वर्तन्त इति शेषः।  
 </details>
+</details>
 
 ## छिद्र-पूर्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -124,6 +139,8 @@ the Brahmans are the gods openly--them he verily delights.
 अ᳓थो द᳓क्षिणैवा᳓स्यैषा᳓ ।  
 अ᳓थो यज्ञ᳓स्यैव᳓ छिद्र᳓म् अ᳓पिदधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,6 +169,7 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 
 अन्वाहार्यस्य दक्षिणारूपत्वेन यज्ञच्छिद्रपिधायकत्वेन च त प्रशंसति- **अथ दक्षिणेति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -159,6 +177,8 @@ This is his sacrificial fee: verily he mends the rent in the sacrifice;
 त᳓द् अन्वाहार्ये᳙ण [11] +अन्वा᳓हरति ।  
 त᳓द् अन्वाहार्य᳙स्यान्वाहार्यत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,6 +210,7 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 अन्वाहार्यशब्दं निर्वक्ति-  **यद्वै यज्ञस्येति।**  
 अतिरिक्तं कर्मणो यच्च हीनमित्यस्मिन्प्रायश्चित्ताहुतिमन्त्रे प्रोक्तमधिकं यज्ञाङ्गमत्र क्रूरं, न्यूनं विलिष्टं, तदुभयमनेनान्वाहार्यदानेनानुकूलं यथा भवति तथाऽऽहरति समादधति। तस्मादन्वाहार्यत आनुकुल्येन समाधीयतेऽनेनेत्यन्वाहार्यः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,6 +218,8 @@ whatever in the sacrifice is harsh or is injured, that he makes good (anvaharati
 य᳓द् अन्वाहार्य᳙म् आह᳓रति  
 देवदूता᳓न् एव᳓ प्रीणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -224,6 +247,7 @@ Now the priests are the messengers of the gods; in that he brings the Anvaharya 
 
 ऋत्विक्प्रीतिहेतुत्वे पुनः प्रशंसति-**देवदूता इति।**
 </details>
+</details>
 
 ## अपरिमित-पूर्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +257,8 @@ Now the priests are the messengers of the gods; in that he brings the Anvaharya 
 स᳓ एत᳓म् अन्वाहार्य᳙म् अ᳓भक्तम् अपश्यत् ।  
 त᳓म् आत्म᳓न्न् अधत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -267,11 +293,14 @@ Prajapati distributed the sacrifice to the gods; he reflected that he was empty;
 
 प्रजापतिभागत्वेन पुनस्तं प्रशंसति-  **प्रजापतिरिति।** आग्नेयाग्नीषोमीयपुरोडाशान्यागानग्न्यादिदेवेभ्यो विभज्य दत्त्वा स्वकीययागराहित्येन रिक्तमात्मानं मन्यमानः प्रजापतिरभक्तं देवेभ्यो विभज्यासमर्पितं दृष्ट्वा तमात्मनि स्थापितवान्। ततोऽन्वाहार्यः प्राजापत्यः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वा᳓ एष᳓ प्राजापत्यो᳓ य᳓द् अन्वाहार्यः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -287,12 +316,15 @@ The Anvaharya is connected with Prajapati;
 
 सः । वै । ए॒षः । प्रा॒जा॒प॒त्यइति॑प्राजा-प॒त्यः । यत् । अ॒न्वा॒हा॒र्य॑इत्य॑नु-आ॒हा॒र्यः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते  
 साक्षा᳓द् एव᳓ प्रजा᳓पतिम् ऋध्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,6 +350,7 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati.
 
 तस्यान्वाहार्यस्य बाहुल्यसंपादनं विधत्ते-  **अपरिमित इति।** सर्वदेवस्वामित्वेन व्याप्तिबाहुल्यात्प्रजापतेरपरिमितत्वम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -325,6 +358,8 @@ he, who knowing thus brings the Anvaharya, assuredly enjoys Prajapati.
 ऽपरिमितᳶ प्रजा᳓पतिᳶ,  
 प्रजा᳓पतेर् [12] आ᳓प्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,6 +380,7 @@ An unlimited amount should be poured out, Prajapati is unlimited; (verily it ser
 
 अपरिमितत्वं प्रजापतेराप्त्यै च भवति ; तस्याप्यपरिमितत्वात् ॥
 </details>
+</details>
 
 ## शत्रुनाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +394,8 @@ An unlimited amount should be poured out, Prajapati is unlimited; (verily it ser
 भ᳓वत्यात्म᳓ना  
 प᳓रा ऽस्य भ्रा᳓तृव्यो +++(परा-)+++भवति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,12 +432,15 @@ Whatever the gods did in the sacrifice, the Asuras did; the gods perceived the A
 
 स्वविजयहेतुत्वेन वैरिपराजयहेतुत्वेन च पुनः प्रशंसति - **देवा वा इति।**  
 </details>
+</details>
 
 ## इस्टापूर्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञे᳓न वा᳓ इष्टी᳓, पक्वे᳓न पूर्ती᳓ +++(यजमानः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,11 +471,14 @@ By the sacrifice there is offering, by the cooked food satisfying.
 
 इष्टापूर्तकारित्वपूरणेन च पुनः प्रशंसंति- **यज्ञेन वा इति।**  इष्टमाग्नेयादि श्रौतकर्म। पूर्तं वापीकूपादि स्मार्तकर्म। तत्राऽऽग्नेयादियागेनेष्टसंपत्तिः। पक्वेनान्वाहार्येण पूर्तसंपत्तिः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैवव्ँ᳓ विदु᳓षो ऽन्वाहार्य᳙ आह्रिय᳓ते, स᳓ त्वेवे᳓ष्टापूर्ती᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,6 +494,7 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 
 यस्य॑ । ए॒वम् । वि॒दुषः॑ । अ॒न्वा॒हा॒र्य॑इत्य॑नु-आ॒हा॒र्यः॑ । आ॒ह्रि॒यत॒इत्या॑-ह्रि॒यते॑ । सः । तु । ए॒व । इ॒ष्टा॒पू॒र्तीती॑ष्ट-पू॒र्ती ।
 </details>
+</details>
 
 ## मन्त्र-निरुक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +502,8 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 प्रजा᳓पतेर् भागो᳙ऽसि᳓ [13] +इ᳓त्याह ।  
 प्रजा᳓पतिम् एव᳓ भागधे᳓येन स᳓मर्धयति  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -484,12 +531,15 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 
 तस्याभिमर्शनमन्त्रप्रथमभागं व्याचष्टे-**प्रजापतेरिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्जस्वान् प᳓यस्वान् इ᳓त्य् आह ।  
 ऊ᳓र्जमेवा᳓स्मिन्प᳓यो दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,6 +562,7 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 
 द्वितीयभागं व्याचष्टे-**ऊर्जस्वानिति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,6 +570,8 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 समानव्यानौ᳓ मे पाही᳓त्याह ।  
 आशि᳓षमेवै᳓ता᳓म् आ᳓ शास्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,6 +597,7 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 तृतीयभागं व्याचष्टे- **प्राणापानामिति।**
 ऋत्विग्भिरन्वाहार्यस्य नीयमानत्वात्तेन स्वकीयप्राणादिपालनमाशीर्वाद एव।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -552,6 +606,8 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 मा᳓ मे क्षेष्ठाः ।  
 अमु᳓त्रामु᳓ष्मिल्ँ लोक᳓ इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,6 +635,7 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
 तृतीयोऽनुवाकः॥३॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -586,6 +643,8 @@ He who knowing thus brings the Anvaharya, accomplishes at once sacrifice and sat
 अ᳓न्नम् इतᳶ᳓प्रदानँ  
 ह्य् अ᳙मु᳓ष्मिल्ँ लोके᳓ प्रजा᳓ उपजी᳓वन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -611,12 +670,15 @@ for given hence in yonder world people live upon it;
 
 इतः प्रदानमस्मिन् लोके यत्प्रत्तं तत्प्रजा अमुष्मिन् लोक उपजीवन्तीति । न तु तत्रोत्पाद्यते । तस्मात् क्षीयतेमुष्मिन् लोकेन्नं तस्मादनेनाभिमर्शनमक्षयत्वाय भवति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एव᳓म् अभिमृश᳓त्य् अ᳓क्षितिम् एवै᳓नद् गमयति ।  
 ना᳓स्यामु᳓ष्मिल्ँ लोके᳓ ऽन्नङ् क्षीयते ॥ [14]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -639,4 +701,5 @@ in that he touches thus, he makes it imperishable; his food perishes not in yond
 **अक्षितिः** अक्षयः ॥
 
 इति सप्तमे तृतीयोनुवाकः ॥  
+</details>
 </details>

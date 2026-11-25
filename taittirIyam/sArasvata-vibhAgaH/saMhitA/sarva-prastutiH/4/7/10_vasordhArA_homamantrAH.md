@@ -3,6 +3,8 @@ title = "१० वसोर्धारा होममन्त्राः"
 +++
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 गर्भा॑श्च मे व॒त्साश्च॑ मे॒ त्र्यवि॑श्च मे त्र्य॒वी च॑ मे दित्य॒वाट्च॑ मे दित्यौ॒ही च॑ मे॒ पञ्चा॑विश्च मे पञ्चा॒वी च॑ मे त्रिव॒त्सश्च॑ मे त्रिव॒त्सा च॑ मे तुर्य॒वाट्च॑ मे तुर्यौ॒ही च॑ मे पष्ठ॒वाच्च॑ मे पष्ठौ॒ही च॑ म उ॒क्षा च॑ मे व॒शा च॑ म ऋष॒भश्च॑ [17]  मे॒ वे॒हच्चमेऽन॒ड्वाञ्च॑ मे धे॒नुश्च॑ म॒ आयु॑र्य॒ज्ञेन॑ कल्पताम्प्रा॒णो य॒ज्ञेन॑ कल्पतामपा॒नो य॒ज्ञेन॑ कल्पताव्ँ व् या॒नो य॒ज्ञेन॑ कल्पता॒ञ्चक्षु॑र्य॒ज्ञेन॑ कल्पताँ॒ श्रोत्रय्ँ॑ य॒ज्ञेन॑ कल्पता॒म्मनो॑ य॒ज्ञेन॑ कल्पताव्ँ॒वाग्य॒ज्ञेन॑ कल्पतामा॒त्मा य॒ज्ञेन॑ कल्पताय्ँ य॒ज्ञो य॒ज्ञेन॑ कल्पताम् ॥ [18]  
@@ -13,11 +15,14 @@ title = "१० वसोर्धारा होममन्त्राः"
 (अथ चतुर्थकाण्डे सप्तमप्रपाठके दशमोऽनुवाकः)
 दशममाह– 		गर्भाश्च म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग᳓र्भाश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ May the embryo for me (prosper through the sacrifice);
 
 गर्भा वत्साश्च प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वत्सा᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,12 +71,15 @@ May the calves for me (prosper through the sacrifice);
 
 सार्धसंमत्सरो वत्सरूपः पुंगवख्यविः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्य᳓विश्च मे +++(कल्पताम्)+++ ।
 त्र्यवी᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +101,14 @@ May the one-and-a-half-year-old male and female (prosper through the sacrifice);
 
 तथाविधा गौस्त्र्यवी ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दित्यवा᳓ट्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,11 +129,14 @@ May the two-year-old male (prosper through the sacrifice);
 
 द्विसंवत्सर ऋषभो दित्यवाट् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दित्यौही᳓ च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +157,14 @@ May the two-year-old female (prosper through the sacrifice);
 
 तथाविधा गौर्दित्यौही ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाविश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,11 +185,14 @@ May the two-and-a-half-year-old male (prosper through the sacrifice);
 
 सार्धद्विसंवत्सर क्रषभः पञ्चबिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चावी᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,11 +213,14 @@ May the two-and-a-half-year-old female (prosper through the sacrifice);
 
 तश्चाविधा गौः पञ्चावी ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवत्स᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,11 +241,14 @@ May the three-year-old male (prosper through the sacrifice);
 
 संवत्सरत्रयोपेत ऋषभस्त्रिवत्सः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवत्सा᳓  च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,11 +269,14 @@ May the three-year-old female (prosper through the sacrifice);
 
 तथाविधा गौस्त्रिवत्सा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुर्यवा᳓ट्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,11 +297,14 @@ May the four-year-old male (prosper through the sacrifice);
 
 सार्धत्रिवत्सर ऋषभस्तुर्यवाट् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुर्यौही᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,11 +325,14 @@ May the four-year-old female (prosper through the sacrifice);
 
 तथाविधा नौस्तुर्यौहि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पष्ठवा᳓च्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,11 +353,14 @@ May the draught ox (prosper through the sacrifice);
 
 चतुःसंवत्सर ऋषभः षष्ठवात् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पष्ठौही᳓ च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +381,14 @@ May the draught cow (prosper through the sacrifice);
 
 तथाविधा गौः पष्ठौही ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्षा᳓ च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,11 +409,14 @@ May the bull (prosper through the sacrifice);
 
 सेचनसमर्थ ऋषभ उक्षा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वशा᳓ च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,11 +437,14 @@ May the cow that is barren (prosper through the sacrifice);
 
 वन्ध्या गौर्वशा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषभ᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,11 +465,14 @@ May the steer (prosper through the sacrifice);
 
 उक्ष्णोऽप्याधिकवयस्क ऋषभः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेह᳓च्च᳓ मे᳓ +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -440,11 +493,14 @@ May the cow that miscarries (prosper through the sacrifice);
 
 गर्भघातिनी गोर्वेहत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनड्वा᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,11 +521,14 @@ May the bullock (prosper through the sacrifice);
 
 शकटस्य वाहकोऽनड्वान् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धेनु᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -490,6 +549,7 @@ May the cow prosper through the sacrifice;
 
 नवप्रसूता गौर्धेनुः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,6 +562,8 @@ May the cow prosper through the sacrifice;
 म᳓नो यज्ञे᳓न कल्पताम् ।  
 वा᳓ग्यज्ञे᳓न कल्पताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -529,11 +591,14 @@ May life prosper through the sacrifice, may expiration prosper through the sacri
 
 आयुरादयः प्रसिद्धाः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓ यज्ञे᳓न कल्पताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -555,11 +620,14 @@ May the self prosper through the sacrifice;
 आत्मा शरीरम् ।  
 उक्ता आयुरादयो मदीयेन यज्ञेन कार्यक्षमा भवन्तु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ यज्ञे᳓न कल्पताम् ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,4 +650,5 @@ May the sacrifice prosper through the sacrifice.
 सोऽप्यनेनानुष्ठीयमानेन यज्ञेन स्वकार्यक्षमो भवतु ॥  
 
 चतुर्थकाण्डे सप्तमप्रपाठके दशमोऽनुवाकः
+</details>
 </details>

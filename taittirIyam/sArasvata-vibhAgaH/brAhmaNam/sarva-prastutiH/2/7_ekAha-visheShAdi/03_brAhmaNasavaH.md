@@ -9,6 +9,8 @@ unicode_script: devanagari
 आग्नेयो᳓ वै᳓ ब्राह्मणः᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यदा॑ग्ने॒यो भव॑ति ।  
@@ -24,12 +26,15 @@ unicode_script: devanagari
 
 (SB) 1द्वितीये वैश्यसवोऽभिहितः । तृतीये ब्राह्मणसवोऽभिधीयते । स च सूत्रकारेण स्पष्टीकृतः - 'ब्राह्मणो ब्रह्मवर्चसकाम आग्नेयादीन्यष्टौ हवींषि निर्वपति पुरस्तात्स्विष्टकृतो हिरण्येन घृतमुत्पूरय तेन कृष्णाजिन आसीनमभिषिञ्चति' इति । तान्येतानि हवींषि विधातव्यानि । तत्र प्रथमं विधत्ते - आग्रेयोऽष्टाकपालः कर्तव्यः । अग्निना सह ब्राह्मणस्य प्रजापतिमुखजत्वसाम्येनाग्नेयत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓त्सौम्यः᳓ ।   
 सौम्यो᳓ हि᳓ ब्राह्मणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,11 +51,14 @@ unicode_script: devanagari
 
 2द्वितीयं विधत्ते - सौम्य एकादशकपालः कर्तव्यः । 'सोमोऽस्माकं ब्राह्मणानाँराजा' इति श्रुतेः ब्राह्मणस्य सौम्यत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसवा᳓यैव᳓ सावित्रः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,12 +76,15 @@ unicode_script: devanagari
 स च प्रसवायैव कल्प्यते ।  
 चतुर्थं विधत्ते - बार्हस्पत्योऽष्टाकपालः कर्तव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓द्बार्हस्पत्यः᳓ ।  
 एत᳓द्वै᳓ ब्राह्मण᳓स्य वाक्पती᳓यम्   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,11 +101,14 @@ unicode_script: devanagari
 
 यद्बृहस्पतिसंबन्धित्वं एतदेव ब्राह्मणस्य वाक्पतित्वं नाम ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓दग्नीषोमी᳓यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,11 +119,14 @@ unicode_script: devanagari
 
 अ᳓थ । य᳓त् । अग्नी-सोमी᳓यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयो᳓ वै᳓ ब्राह्मणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -120,11 +137,14 @@ unicode_script: devanagari
 
 आग्नेयः᳓ । वै᳓ । ब्राह्मणः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ᳓ यदा᳓ सङ्ग᳓च्छेत अ᳓थ वीर्या᳙वत्तरो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,12 +161,15 @@ unicode_script: devanagari
 
 5पञ्चमं विधत्ते - अग्नीषोमीय एकादशकपालः कर्तव्यः । ब्राह्मणस्याग्नेयत्वं पूर्वमुक्तम् । तेन पूर्वोक्तं सौम्यत्वमप्युपलक्ष्यते । तावग्निश्च सोमश्चेत्येतौ यदा सङ्गतौ भवतस्तदानीं द्विगुणब्राह्मण्येन वीर्यातिशयो भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓त्सारस्वतः᳓ ।  
 एत᳓द्धि᳓ प्रत्य᳓क्षम्ब्राह्मण᳓स्य वाक्पती᳓यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,11 +186,14 @@ unicode_script: devanagari
 
 6अथ षष्ठं विधत्ते - सारस्वतोऽष्टाकपालः कार्यः । ब्राह्मणस्य सरस्वतीसंबन्धित्वं यदस्ति एतत्प्रत्यक्षमेव वाक्पतित्वम् । बृहस्पतिसंबन्धेन तु यद्वाक्पतित्वं पूर्वमुक्तं तच्छास्त्रसिद्धम् । जिह्वायाः सरस्वतीसंबन्धे तु तद्वाक्पतित्वमनुभूयते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्वरुणत्वा᳓यैव᳓ वारुणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,11 +209,14 @@ unicode_script: devanagari
 
 7सप्तमं विधत्ते - वारुणोऽष्टाकपालः कर्तव्यः । स च पूर्ववद्वरुणपाशराहित्यायैव संपद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓ एव᳓ क᳓श्च स᳓न्त्सूय᳓ते स᳓ हि᳓ वारुणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -204,12 +233,15 @@ unicode_script: devanagari
 
 अपिच य एव कश्चित्पुमानधमोऽपि सूयतेऽभिषिच्यते स पुमान्वरुणेनानुगृहीतो राजा भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓द्द्यावापृथिव्यः᳙ ।  
 इ᳓न्द्रो वृत्रा᳓य व᳓ज्रमु᳓दयच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,11 +259,14 @@ unicode_script: devanagari
 8अष्टमं विधत्ते - द्यावापृथिव्यः एककपालः कर्तव्यः ।  
 पुरा कदाचिदिन्द्रो वृत्रवधार्थं वज्रमुद्यतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न्द्या᳓वापृथिवी᳓ ना᳓न्वमन्येताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,12 +282,15 @@ unicode_script: devanagari
 
 तमिन्द्रं ते द्यावापृथिव्यौ नान्वमन्येताम् । अनूमत्यभावे कारणं दर्शपूर्णमासबाह्यणे स्पष्टमभिहितम् - 'ते अब्रूतां द्यावापृथिवी मा प्रहारावयोर्वै श्रितः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेते᳓नैव᳓ भागधे᳓येना᳓न्वमन्येताम् ॥8॥
 व᳓ज्रस्य वा᳓ एषो᳙ऽनुमाना᳓यानु᳙मतवज्रस्सूयाता इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,11 +308,14 @@ unicode_script: devanagari
 
 योऽयमेककपालरूपो भागोऽस्ति तेन भागधेयेन तुष्टे द्यवापृथिव्यौ वृत्रवधार्थमुद्यतं वज्रमङ्गीकृतवत्यौ । अतोऽत्रापि यः पुरोडाशः स एव वज्रस्यानुमत्यर्थं संपद्यते । अनुमतवज्रो हि पुंरुषः शत्रुक्षये समर्थत्वात्सूयाता अभिषेकमर्हतीत्येवाभिज्ञा आहुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓वेता᳓नि हवीँ᳓षि भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -290,11 +331,14 @@ unicode_script: devanagari
 
 9अधिकत्वशङ्कानिवारणाय हविस्संख्यां दर्शयति - अष्टसंख्योपेताया गायत्र्या ब्रह्मवर्चसहेतुतया ब्रह्मवर्चसप्राप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓क्षरा गायत्री᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -305,11 +349,14 @@ unicode_script: devanagari
 
 अष्टा᳓क्षरा । गायत्री᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्री᳓ ब्रह्मवर्चस᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,11 +367,14 @@ unicode_script: devanagari
 
 गायत्री᳓ । ब्रह्म-वर्चस᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्रियै᳓व᳓ बह्मवर्चस᳓म᳓वरुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,11 +385,14 @@ unicode_script: devanagari
 
 गायत्रिया᳓ । एव᳓ । बह्म । वर्चस᳓म् । अ᳓व । रुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्येन घृत᳓मु᳓त्पुनाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,11 +408,14 @@ unicode_script: devanagari
 
 अभिषेकद्रव्यस्योत्पवनं विधत्ते - निर्मलद्रव्यत्वात्स्वतोऽपि घृतं तेजोर्थमेव पुनरपि हिरण्योत्पवनेनात्यन्तदीप्त्यर्थं भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जस एव᳓ रुचे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,11 +426,14 @@ unicode_script: devanagari
 
 ते᳓जसः । एव᳓ । रुचे᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णाजिने᳙ऽभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,11 +444,14 @@ unicode_script: devanagari
 
 कृष्णाजिने᳓ । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणो वा᳓ एत᳓दृक्साम᳓यो रूप᳓म् य᳓त्कृष्णाजिन᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,11 +471,14 @@ unicode_script: devanagari
 'ऋक्सामे वै देवेभ्यो यज्ञायातिष्ठमाने कृष्णोरूपं कृत्वाऽपक्रम्पातिष्ठताम्' इत्यन्यत्राम्नानात् ।  
 अतः कृष्णाजिनेऽभिषेकेण ब्रह्मन्नेव वेद एव ऋक्सामयोरुपर्येनमभिषिञ्चति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मन्नेवै᳓नमृक्साम᳓योर᳓ध्यभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,11 +489,14 @@ unicode_script: devanagari
 
 ब्र᳓ह्मन् । एव᳓ । एनम् । ऋक्-साम᳓योः । अ᳓धि । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृते᳓नाभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,11 +507,14 @@ unicode_script: devanagari
 
 घृते᳓न । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓था वीर्या᳙वत्तरो भवति ॥9॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,4 +531,5 @@ unicode_script: devanagari
 11द्रव्यं विधत्ते - घृतस्य वज्ररूपत्वमन्यत्राम्नातम् - 'घृतं खलु वै देवा वज्रं कृत्वा' इति ।  
 अतो घृतेनाभिपेके वीर्यातिशयो भवति ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके तृतीयोऽनुवाकः ॥
+</details>
 </details>

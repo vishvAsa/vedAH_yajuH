@@ -3,15 +3,20 @@ title = "०१ प्राचीनवंशाख्यशालानिर�
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रा॒चीन॑वँशङ्करोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राची᳓न - वँशङ् करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,10 +37,14 @@ He makes a hall with beams pointing east.
 
 1अथ सौम्यस्याध्वरस्य ब्राह्मणं सौम्यं काण्डमारभ्यते । तत्र 'प्राचीनवंशं करोति' डति विधिः ॥ हविर्धानशब्दवत् योगाख्यैषा हि देवयजनस्य । तेन देवयजनविधिरयं, न गुणविधिमात्रम् । प्राचीनः, प्रागायतः पृष्ठवंशोस्मिन्निति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । प्रागश्चतीति ऋत्विगादिना क्विनि 'अचः' इति भलोपे 'चौ' इति दीर्घत्वं, 'विभाषाश्चेरदिक् स्त्रियाम्' इति खः । तादृशं देवयजनं कुर्यादिति । लिङर्थे लट्, 'तिङतिङः' इति निहन्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवमनु॒ष्या दिशो॒ व्य॑भजन्त॒ प्राची॑न्दे॒वा द॑क्षि॒णा पि॒तरᳶ॑ प्र॒तीची॑म्मनु॒ष्या॑ उदी॑चीँ रु॒द्रा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -43,6 +52,8 @@ He makes a hall with beams pointing east.
 देवमनुष्या᳓ दि᳓शो व्य᳙भजन्त ।  
 प्रा᳓चीन् देवा᳓ , दक्षिणा᳓ पित᳓रᳶ , प्रती᳓चीम् मनुष्या᳙ , उ᳓दीचीँ रुद्राः᳓ +++( व्यभजन्त )+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,16 +77,22 @@ The gods and men divided the quarters, the gods (obtained) the eastern, the Pitr
 
 2अथ प्राचीनवंशत्वं विशिष्टफलहेतुत्वेन स्तोतुमाह - देवाश्च मनुष्याश्च दिशः प्रागादिका व्यभजन्त विभज्य परिगृहीतवन्तः, विविधं वा अभजन्त । 'उदात्तस्वरितयोर्यणः' इति संहितायामडागमस्स्वर्यते । के कामित्याह - प्राचीं देवाः । 'अञ्चतेश्चोपसंख्यानम्' इति ङीप्, 'चौ' इति पूर्वपदस्यान्तोदात्तत्वं दीर्घत्वं च, 'आङयाजयारामुपसंख्यानम्' इति द्वितीयाया आङादेशः । 'दक्षिणादाच्' इति वा व्यत्ययेन द्वितीयान्तादपि भवति । प्रतीचीम् । पूर्ववत्स्वरदीर्घत्वे, 'अनिगन्तोञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्प्रा॒चीन॑वँशङ्क॒रोति॑ देवलो॒कमे॒व तद्यज॑मान उ॒पाव॑र्तते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्राची᳓नवँशङ् करो᳓ति , देवलोक᳓म् एव᳓ त᳓द् य᳓जमान उपा᳓वर्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,10 +113,14 @@ In that he makes a hall with beams pointing east, the sacrificer approaches the 
 
 3इदानीं तमेव फलविशेषं दर्शयति - यत् यस्मात् प्राचीनवंशं करोति देवयजनम् । तत् तस्माद्यजमानः देवलोकमेवोपावर्तते उपसंप्राप्तमेवोपागम्य वर्तते देवलोकस्वभावत्वादस्य देवयजनस्य । यद्वा - उपावर्तते उपसंप्राप्तुमाभिमुख्येन वर्तते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 परि॑ श्रयत्य॒न्तर्हि॑तो॒ हि दे॑वलो॒को म॑नुष्यलो॒कान्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,6 +128,8 @@ In that he makes a hall with beams pointing east, the sacrificer approaches the 
 प᳓रि श्रयति ।
 अन्त᳓र्हितो हि᳓ देवलोको᳓ मनुष्यलोका᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,10 +152,14 @@ He covers it over, for the world of the gods is hidden from the world of men.
 
 4परि श्रयतीति विधिः - समन्ताद्देवयननं प्रच्छन्नं करोति । अयं च देवलोकत्वसंपादने द्वितीयो हेतुः । अधुना तमेव समर्थयते - हि यस्मादर्थे । यस्माद्देवलोको मनुष्यलोकादन्तर्हितः मनुष्यलोकमभिसमीक्ष्य व्यवहितो भवति । यद्वा - मनुष्यलोकमभिसमीक्ष्य तिरोहितो भवति । मनुष्यलोकमभिसमीक्षमाणः इममेव लोकं सन्तं मन्यते असन्तममुम् । ल्यब्लोपे पञ्चमी । 'अन्तरपरिग्रहे' इत्यन्तश्शब्दस्य गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । एवं परिश्रयणेन च देवलोकत्वं कृतं भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नास्माल्लो॒कात्स्वे॑तव्यमि॒वेत्या॑हु॒ᳵ को हि तद्वेद॒ यद्य॒मुष्मिल्ँ॑ लो॒केऽस्ति॑ वा॒ न वेति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +167,8 @@ He covers it over, for the world of the gods is hidden from the world of men.
 ना᳓स्मा᳓ल् लोका᳓त् स्वेतव्यम् इवे᳓त्याहुः ।  
 को᳓ हि᳓ त᳓द्वे᳓द य᳓दि + अमु᳓ष्मिल्ँ लोके᳓ऽस्ति वा न᳓ वे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,17 +194,23 @@ He covers it over, for the world of the gods is hidden from the world of men.
 
 5इदनीमतीकाशान्विधास्यन् देवलोकस्य दौर्बल्यं तावत्प्रतिपादयति - नास्मादिति ॥ यत्र बहूनि भद्राणि पश्यामः अस्माल्लोकान्न स्वेतव्यम् न साधु गन्तव्यं, गन्तव्यं न साध्विति यावत् । इति खल्वाहुः प्रत्यक्षापहृतचेतसो लौकिकाः । 'ऊडिदम्' इतीदमो विभक्तेरुदात्तत्वम् । शोभनमेतव्यं स्वेतव्यमिति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । नन्वमुष्मिन्नपि लोके बहुभद्रकं भोक्ष्यते, तत्किमित्याहुर्न स्वेतव्यमिति, अतस्त एवाहुः - को हीति । अमुष्मिन्लोके यद्यस्ति भद्रकं, यदि वा नास्ति को वा नाम तद्वेदितुं प्रभवतीति । हि यस्मात् न कश्चिदपि तद्वेद, तस्मादितो न स्वेतव्यमित्याहुः । एतदुक्तं भवति - इतस्तावत्त्वरितेन न गन्तव्यं, परलोकसुखस्य विप्रकृष्टत्वात्, इदानीं तावदनुभवितव्यं नास्ति, तस्मादीदृशदेवलोकसाम्यापादने न कश्चिद्गुणो देवयजनस्य, अपि तु त्रासहेतुरेव स्यात् इदं मनुष्याणामिति । वेदेत्यस्य 'हि च' इति निघातप्रतिषेधः । अस्तीत्यस्य 'चवायोगे प्रथमा' इति निघाताभावः । तर्हि परिश्रयणं कर्तव्यमेव न ब्रूमः । तस्मात्परिश्रयणं न कर्तव्यमेवेति । किन्नु अत्र समाधिः कर्तव्य एवेति ब्रूमः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दि॒क्ष्व॑तीका॒शान्क॑रोति [1]  
 उ॒भयो॑र्लो॒कयो॑र॒भिजि॑त्यै
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्ष्व् अ᳙तीकाशा᳓न् करो᳓त्य् उ᳓भ᳓योर् लोक᳓योर् अभि᳓जित्यै [1]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,16 +231,22 @@ He makes at the corners apertures [1], for the winning of both worlds.
 
 6कोसावित्याह - दिक्ष्वतीकाशान् करोतीति विधिः - दिक्षु सर्वासु अतीकाशान् द्वाराणि कुर्यात् । भित्तौ छदिषि वा अतीत्य, व्यवधानं काशन्त इत्यतीकाशाः, पचाद्यत्, 'इकः काशे' इति पूर्वपदस्य दीर्घत्वम् । अधिकरणे साधने वा घञि थाथादिनोत्तरपदान्तोदात्तत्वम्, कृदुत्तरपदप्रकृतिस्वरत्वं वा 'कर्षात्वतः' इत्यन्तोदात्तत्वात् 'उपसर्गस्य घञ्यमनुष्ये बहुलम्' इति दीर्घः । 'सावेकाचः' इति दिशो विभक्तेरुदात्तत्वम् । फलमाह - उभयोर्लोकयोः अस्यामुप्य च अभिजयाय भवतीति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 केशश्म॒श्रु व॑पते न॒खानि॒ नि कृ॑न्तते मृ॒ता वा ए॒षा त्वग॑मे॒ध्या यत्के॑शश्म॒श्रु मृ॒तामे॒व त्वच॑ममे॒ध्याम॑प॒हत्य॑ य॒ज्ञियो॑ भू॒त्वा मेध॒मुपै॒त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केशश्मश्रु᳓ वपते , नखा᳓नि नि᳓ कृन्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,12 +267,15 @@ He shaves his hair and beard, he trims his nails.
 
 7'केशश्मश्रु वपते नखानि नि कृन्तते' इति विधिः - केशाश्च श्मश्रूणि च इति समाहारद्वन्द्वे 'जातिरप्राणिनाम्' इत्येकवद्ग्रावः । अधुना केशादित्रयं निन्दति - मृतेति । मृता वा मृतावत् प्राणादिभिरनधिष्ठितत्वात् । तद्वत् छिद्यमानायामप्यस्यां जन्तोः पीडानुदयात् । शवकल्पा खल्वेषा त्वक् । त्वगिव त्वक्; पुरुषस्य छादकत्वात् । अत एवामेध्या अयज्ञार्हा । मेधं नार्हतीति दण्डादिभ्यो यः, 'तत्र साधुः' इति वा यत्, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । किं पुनस्तदित्याह - यत्केशश्मश्रु यदिदं केशश्मश्रुनखं प्रकृतोपलक्षणत्वात्त्रयमपि गृह्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृता᳓ वा᳓ एषा᳓ त्व᳓ग् अमेध्या᳓ य᳓त् केशश्मश्रु᳓ ।  
 मृता᳓मेव᳓ त्व᳓चम् अमेध्या᳓म् अपह᳓त्य यज्ञि᳓यो भूत्वा᳓ मे᳓धम् उ᳓पैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,17 +297,23 @@ The hair and the beard are dead and impure skin, and by thus destroying the dead
 
 फलमाह - मृतामिति । वपनकर्तनाभ्यां मृतकल्पां त्वचं अमेधार्हामपहत्य अपास्य यज्ञियः यज्ञार्हो भूत्वा मेघं यज्ञमुपैति उपसंप्राप्नोति । 'यज्ञर्त्विग्भ्याम्' इति घः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अङ्गि॑रसस्सुव॒र्गल्ँ लो॒कय्ँयन्तो॒ऽप्सु दी॑क्षात॒पसी॒ प्रावे॑शयन्न॒प्सु स्ना॑ति सा॒क्षादे॒व दी॑क्षात॒पसी॒ अव॑ रुन्द्धे ती॒र्थे स्ना॑ति ती॒र्थे हि ते ताम्प्रावे॑शयन्ती॒र्थे स्ना॑ति [2]  
 ती॒र्थमे॒व स॑मा॒नाना॑म्भवत्य्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गिरसस् सुवर्गल्ँ᳓ लोक᳓य् यँ᳓न्तोऽप्सु᳓ दीक्षातप᳓सी प्रा᳓वेशयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +338,14 @@ The Angirases going to the world of heaven placed in the waters consecration and
 
 यथा वक्ष्यति 'तीर्थे हि ते ताम्' इति । 'ऊडिदम्' इत्यद्भ्यो विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सु᳓ स्नाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,11 +366,14 @@ He bathes in the waters;
 
 अप्सु स्नातीति विधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साक्षा᳓द् एव᳓ दीक्षातप᳓सी अ᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,12 +398,15 @@ verily visibly he secures consecration and penance.
 
 अप्सु स्नानेन प्रत्यक्षमेव ते अवरुन्धे गृह्णाति, न पुनर्वपनादिवत् स्नानादृष्टद्बारको दीक्षालाभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीर्थे᳓ स्नाति ।
 तीर्थे᳓ हि᳓ ते᳓ ता᳓म् प्रा᳓वेशयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,11 +434,14 @@ He bathes at a ford, for at a ford did they place (consecration and penance);
 
 'हि च' इति निघाताभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीर्थे᳓ स्नाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -400,11 +462,14 @@ he bathes at a ford [2];
 
 तीर्थे स्नातीति द्वितीयं विधानं फलविधित्सया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीर्थ᳓म् एव᳓ समाना᳓नाम् भवति [2] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -425,16 +490,22 @@ verily he becomes a ford for his fellows.
 
 फलं चाह - तीर्थमेवेति । समानानां सजातानां तीर्थमेव भवति यजमानः । यथा तत् स्नानपानावगाहादिना लोकस्योपकारकं भवति, एवमसौ समानानां बहुप्रकारमुपजीव्यो भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒पो॑ऽश्ञात्यन्तर॒त ए॒व मेध्यो॑ भवति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपो᳙ ऽश्नाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,11 +528,14 @@ He sips water;
 
 'ऊडिदम्' इति शस उदात्तत्वम्, 'स्वरितोवानुदात्ते' इत्येकादेशस्य स्वरितत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरत एव᳓ मे᳓ध्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,16 +562,22 @@ verily he becomes pure within.
 
 यद्वा - मेध्यध्शुद्धः, मेधे भवः इति दिगादित्वाद्यत्, 'यतो नावः' इत्याद्युदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वास॑सा दीक्षयति सौ॒म्यव्ँ वै क्षौम॑न्दे॒वत॑या॒ सोम॑मे॒ष दे॒वता॒मुपै॑ति॒ यो दीक्ष॑ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ससा दीक्षयति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,11 +600,14 @@ He consecrates him with a garment;
 
 वासः क्षौमं, अर्थवादे त्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्यव्ँ᳓ वै᳓ क्षौ᳓मन् देव᳓तया ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +628,14 @@ the linen garment has Soma for its deity.
 
 फलमाह - सौम्यमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मम् एष᳓ देव᳓ताम् उ᳓पैति , यो᳓ दी᳓क्षते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,16 +664,22 @@ He who consecrates himself approaches Soma as his deity.
 
 यद्वा - यो दीक्षते एषः सोमदेवतामुपैति उपसंप्राप्तुं यतते; वासश्च सोमदेवत्यं, तस्मात् तदुपेतव्यप्राप्तिसाधनमिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोम॑स्य त॒नूर॑सि त॒नुव॑म्मे पा॒हीत्या॑ह॒ स्वामे॒व दे॒वता॒मुपै॒त्यथो॑ आ॒शिष॑मे॒वैतामा शा॑स्ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्य तनू᳓रसि तनु᳓वम् मे पाहि + इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -610,11 +702,14 @@ He says, 'Thou art the body of Soma; guard my body.'
 
 वक्ष्यमाणाया मदीयाया देवतायास्सोमस्य तनूस्त्वमसीति यस्मादाह मन्त्रः, तस्मात्स्वामेव देवतामुपैति, अनेन मन्त्रेण अनेन च वाससा दीक्षणेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓मेव᳓ देव᳓ताम् उ᳓पैति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -630,11 +725,14 @@ He approaches his own deity;
 
 स्वाम् । ए॒व । दे॒वता॑म् । उपेति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आशि᳓षम् एवै᳓ता᳓म् आ᳓शास्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -661,11 +759,15 @@ verily also he invokes this blessing.
 
 'आङश्शासु इच्छायां' इत्यस्य 'क्वौ च' इतीत्वम्, 'शासिवसिघसीनां च' इति षत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेस्तू॑षा॒धानव्ँ॑वा॒योर्वा॑त॒पान॑म्पितृ॒णान्नी॒विरोष॑धीनाम्प्रघा॒तः [3]  
 आ॒दि॒त्याना॑म्प्राचीनता॒नो विश्वे॑षान्दे॒वाना॒मोतु॒र्नक्ष॑त्राणामतीका॒शास्तद्वा ए॒तत्स॑र्वदेव॒त्यय्ँ॑यद्वासो॒ यद्वास॑सा दी॒क्षय॑ति॒ सर्वा॑भिरे॒वैन॑न्दे॒वता॑भिर्दीक्षयति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +780,8 @@ verily also he invokes this blessing.
 वि᳓श्वेषान् देवा᳓नाम् ओ᳓तुः ।  
 न᳓क्षत्राणाम् अतीकाशाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -714,11 +818,14 @@ verily also he invokes this blessing.
 
 वयतेरौणादिके तुनि 'छ्वोश्शूट्' इति वकारस्य ऊडादेशः । अतीकाशाश्छिद्राणि प्राचीनतिरश्चीनान्तरवकाशाः, पूर्ववत्स्वरदीर्धत्वे । एवं यद्वा - सो नाम तदेतत्खलु सर्वदेवत्यं सर्वदेवताभ्य इदं सर्वदेवत्यं, देवतान्तात्तादर्थ्ये यत् । तस्माद्वाससा दीक्षितः सर्वाभिर्देवताभिर्दीक्षितो भवति । एनादेशोनुदात्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द्वा᳓ एत᳓त्सर्व᳓दे᳓व᳓त्यय्ँ य᳓द्वा᳓सः ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -734,11 +841,14 @@ The garment is thus connected with all the gods;
 
 तत् । वै । ए॒तत् । स॒र्व॒दे॒व॒त्य॑मिति॑ सर्व-दे॒व॒त्य॑म् । यत् । वासः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वा᳓ससा दीक्ष᳓यति , स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिर् दीक्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,16 +864,22 @@ in that he consecrates him with the garment, verily with all the gods he consecr
 
 यत् । वास॑सा । दी॒क्षय॑ति । सर्वा॑भिः । ए॒व । ए॒न॒म् । दे॒वता॑भिः । दी॒क्ष॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒हिᳶप्रा॑णो॒ वै म॑नु॒ष्य॑स्तस्याश॑नम्प्रा॒णो॑ऽश्ञाति॒ सप्रा॑ण ए॒व दी॑क्षत॒ आशि॑तो भवति॒ यावा॑ने॒वास्य॑ प्रा॒णस्तेन॑ स॒ह मेध॒मुपै॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहिᳶ᳓प्राणो वै᳓ मनुष्यः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -779,11 +895,14 @@ Man has breath without;
 
 ब॒हिᳶप्रा॑ण॒ इति॑ ब॒हिः-प्रा॒णः॒ । वै । म॒नु॒ष्यः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या᳓शनम् प्राणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -799,11 +918,14 @@ his eating is his breath,
 
 तस्य॑ । अश॑नम् । प्रा॒ण इति॑ प्र-अ॒नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्ना᳓ति स᳓प्राण एव᳓ दीक्षते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -826,11 +948,14 @@ he eats; verily he consecrates himself with breath.
 
 अश्नातीति विधिः । तस्मादश्नीयात्प्राणवत्त्वाय । पदात्परत्वाभावान्न निहन्यते । 'स्वरितो वाऽनुदात्ते पदादौ' इति संहितायामाकारस्स्वर्यते । फलमाह - सप्राण इति । अभ्यन्तरीकृतप्राण एवेत्यर्थः । 'तेन सहेति तुल्ययोगे' इति बहुव्रीहिः । फलान्तरं चाह - आशितो भवतीति । 'आशितो भुवः' इति निपातनाद्दीर्धत्वम्, कर्तरि निष्ठा च । ण्यन्तात्कर्मणि निष्ठा । आशितो हि सुहितो भवतीति सुहितत्वं लक्ष्यते । सर्वथा ष्टषोदरादित्वादाद्युदात्तत्वं द्रष्टव्यम् । अशनेन ह्ययमाशितो भवति । तस्मादाशितंभवमन्नादिकमश्नीयादिति । तदपि किमर्थमित्याह - यावानिति । अस्याशितस्य यावान्प्राणः तेन सर्वेण मेधं यज्ञमुपैति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓शितो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -846,11 +971,14 @@ He becomes satiated.
 
 आशि॑तः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वान् एवा᳓स्य प्राण᳓स् ते᳓न सह᳓ मे᳓धम् उ᳓पैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -866,11 +994,15 @@ As great as is his breath, with it he approaches the sacrifice.
 
 यावा॑न् । ए॒व । अ॒स्य॒ । प्रा॒ण इति॑ प्र-अ॒नः । तेन॑ । स॒ह । मेध॑म् । उपेति॑ । ए॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 घृ॒तन्दे॒वाना॒म्मस्तु॑ पितृ॒णान्निष्प॑क्वम्मनु॒ष्या॑णा॒न्तद्वै [4]  
 ए॒तत्स॑र्वदेव॒त्यय्ँ॑यन्नव॑नीतय्ँ॒यन्नव॑नीतेनाभ्य॒ङ्क्ते सर्वा॑ ए॒व दे॒वताः॑ प्रीणाति॒ प्रच्यु॑तो॒ वा ए॒षो॑ऽस्माल्लो॒कादग॑तो देवलो॒कय्ँ यो दी॑क्षि॒तो॑ऽन्त॒रेव॒ नव॑नीत॒न्तस्मा॒न्नव॑नीतेना॒भ्य॑ङ्क्तेऽनुलो॒मय्ँयजु॑षा॒ व्यावृ॑त्त्या॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -879,6 +1011,8 @@ As great as is his breath, with it he approaches the sacrifice.
 नि᳓ष्पक्वम् मनुष्या᳙णाम् ।
 त᳓द् वा᳓ एत᳓त् सर्वदेवत्यय्ँ᳙ य᳓न् न᳓वनीतम् ।[4]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -903,11 +1037,14 @@ Ghee pertains to the gods, sour cream to the Pitrs, well-seasoned butter to men 
 
 तद्वा इति । तदेतत्सर्वदेवत्यम् । पूर्ववद्यत् । तस्मान्नवनीताभ्यञ्जनं सर्वासां देवतानां प्रीणनम् । अभ्यङ्क्ते इति । 'तिङि चोदात्तवति' इति गतेः अनुदात्तत्वम् । किं चेत्याह - प्रच्युत इति । प्रच्युतः व्यावृत्तोभवत् अप्राप्तश्च देवलोकमसमाप्तकर्मत्वात् । अन्तरा वर्तते । कः? यो दीक्षितः नवनीतं चान्तरेव मध्यमायामिव अवस्थायां वर्तते । तस्मादनुलोमं यजुषेति विधिः । प्रच्युत इति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अस्मादिति 'ऊडिदम्' इति विभक्तेरुदात्तत्वम् । अनुलोममिति 'अच्प्रत्यन्ववपूर्वात्' इत्यच् । यजुषा 'महीनां पयोसि' इत्यादिना । एवं क्रियमाणमस्य मनुष्येभ्यो व्यावृत्यै भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न् न᳓वनीतेनाभ्यङ्क्ते᳓ , स᳓र्वा एव᳓ देव᳓ताः प्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -923,11 +1060,14 @@ verily in anointing with fresh butter he satisfies all the gods.
 
 यत् । नव॑नीते॒नेति॒ नव॑-नी॒ते॒न॒ । अ॒भ्य॒ङ्क्त इत्य॑भि-अ॒ङ्क्ते । सर्वाः॑ । ए॒व । दे॒वताः॑ । प्री॒णा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓च्युतो वा᳓ एषो᳙ऽस्माल् लोका᳓द् अ᳓गतो देवलोकय्ँ᳓ यो᳓ दीक्षितः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,11 +1083,14 @@ The man who is consecrated has fallen from this world and yet not gone to the wo
 
 प्रच्यु॑त॒ इति॒ प्र-च्यु॒तः॒ । वै । ए॒षः । अ॒स्मात् । लो॒कात् । अग॑तः । दे॒व॒लो॒कमिति॑ देव-लो॒कम् । यः । दी॒क्षि॒तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरा᳓ + इव न᳓वनीतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -963,11 +1106,14 @@ fresh butter is as it were midway;
 
 अ॒न्त॒रा । इ॒व॒ । नव॑नीत॒मिति॒ नव॑-नी॒त॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् न᳓वनीतेनाभ्य᳙ङ्क्ते ऽनुलोम᳓य् , यँ᳓जुषा व्या᳓वृत्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -983,16 +1129,22 @@ therefore he anoints with fresh butter, along the hair, with a Yajus, for destru
 
 तस्मा॑त् । नव॑नीते॒नेति॒ नव॑-नी॒ते॒न॒ । अ॒भीति॑ । अ॒ङ्क्ते॒ । अ॒नु॒लो॒ममित्य॑नु-लो॒मम् । यजु॑षा । व्यावृ॑त्त्या॒ इति॑ वि-आवृ॑त्त्यै ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॑ वृ॒त्रम॑ह॒न्तस्य॑ क॒नीनि॑का॒ परा॑पत॒त्तदाञ्ज॑नमभव॒द्यदा॒ङ्क्ते चक्षु॑रे॒व भ्रातृ॑व्यस्य वृङ्क्ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो वृत्र᳓महन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1013,11 +1165,14 @@ Indra slew Vrtra;
 
 15इन्द्रो वृत्रमहन्नित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य कनी᳓निका प᳓रा ऽपतत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1042,11 +1197,14 @@ his eyeball fell away;
 
 तस्मादाञ्जीतेति विधिरनुमीयते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आ᳓ञ्जनम् अभवद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1062,11 +1220,14 @@ it became collyrium.
 
 तत् । आञ्ज॑न॒मित्या॑-अञ्ज॑नम् । अ॒भ॒व॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् आङ्क्ते᳓ च᳓क्षुर् एव᳓ भ्रा᳓तृव्यस्य वृङ्क्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1082,11 +1243,15 @@ When he anoints, verily he takes away the eye of his enemy.
 
 यत् । आ॒ङ्क्त इत्या॑-अ॒ङ्क्ते । चक्षुः॑ । ए॒व । भ्रातृ॑व्यस्य । वृ॒ङ्क्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दक्षि॑ण॒म्पूर्व॒माङ्क्ते॑ [5]  
 स॒व्यँ हि पूर्व॑म्मनु॒ष्या॑ आ॒ञ्जते॒ न नि धा॑वते॒ नीव॒ हि म॑नु॒ष्या॑ धाव॑न्ते॒ पञ्च॒ कृत्व॒ आङ्क्ते॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्धे॒ परि॑मित॒माङ्क्तेऽप॑रिमितँ॒ हि म॑नु॒ष्या॑ आ॒ञ्जते॒ सतू॑ल॒याङ्क्तेऽप॑तूलया॒ हि म॑नु॒ष्या॑ आ॒ञ्जते॒ व्यावृ॑त्त्यै॒ यदप॑तूलयाञ्जी॒त वज्र॑ इव स्या॒त्सतू॑ल॒याङ्क्ते॑ मित्र॒त्वाय॑ [6]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,6 +1259,8 @@ When he anoints, verily he takes away the eye of his enemy.
 द᳓क्षिणम् पू᳓र्वम् आ᳓ङ्क्ते ।[5]
 सव्यँ᳓ हि᳓ पू᳓र्वम् मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1115,12 +1282,15 @@ He anoints his right eye first [5], for men anoint the left first.
 
 16अथाञ्जने गुणविधयः - दक्षिणं पूर्वमित्यादि ॥ गतम् । न निधावते न भ्रमयति यस्मान्मनुष्या एव निधावन्तः अञ्जने । सर्वत्र 'हि च' इति निघाताभावः । पञ्चकृत्वः एकैकस्य द्वयोर्वा पञ्चकृत्वः । कृत्व इति शब्दान्तरमेवेदमभ्यावृत्तिमाचष्टे । पच्छा क्षरा पङ्क्तिः देवानां पङ्क्तेः पञ्चाक्षरत्वात् । पदानां वा पञ्चाक्षरत्वात् पङ्क्तिः पञ्चाक्षरेत्युच्यते । पङ्क्तेरागतः पाङ्क्तः । उत्सादित्वात् । धानाः, करम्भः, परिवापः, पुरोडाशः, पयस्या, तेन पङ्क्तिराप्यते । तत् यज्ञस्य पाङ्क्तत्वमिति । यज्ञः पाङ्क्त इति । एवमत्रापि पञ्चत्वसङ्ख्यासंपादनात् पाङ्को यज्ञः परिगृहीतो भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ नि᳓ धावते
 नी᳓व हि᳓ मनुष्या᳙ धा᳓वन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1137,11 +1307,14 @@ He does not rub (the ointment) on, for men rub (the ointment) on.
 
 न । नीति॑ । धा॒व॒ते॒ । नीति॑ । इ॒व॒ । हि । म॒नु॒ष्याः॑ । धाव॑न्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च कृ᳓त्व आं᳓ऽक्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1157,11 +1330,14 @@ Five times he anoints;
 
 पञ्च॑ । कृत्वः॑ । एति॑ । अ॒ङ्क्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1177,11 +1353,14 @@ the Pankti has five syllables,
 
 पञ्चा॑क्ष॒रेति॒ पञ्च॑-अ॒क्ष॒रा॒ । प॒ङ्क्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ङ्क्तो यज्ञः᳓, यज्ञ᳓मेवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1197,12 +1376,15 @@ the sacrifice is fivefold; verily he obtains the sacrifice.
 
 पाङ्क्तः॑ । य॒ज्ञः । य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिमितम् आ᳓ङ्क्ते ।
 अ᳓परिमितँ हि᳓ मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1224,12 +1406,15 @@ He anoints a limited number of times, for men anoint an unlimited number of time
 
 परिमितं पञ्चैवेति परिच्छिन्नम् । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अपरिमितं अपरिछिन्नं यथाऽभिप्रेतमावर्तयन्ति मनुष्याः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । सतूलया साग्रेषीकया । अपतूलया शलाकया । पूर्ववत्स्वरः । व्यावृत्यै अमानुषीभूतत्वादस्य मनुष्येभ्यो व्यावृत्तिप्रकटनार्थम् । दक्षिणं पूर्वमित्यादिष्वपि व्यावृत्या इति संबध्यते । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । अपतलूयाऽञ्जनं वज्र इव सर्वस्योपद्रवहेतुस्स्यात् । सतूलया तु सर्वस्य मित्रत्वाय भवति मित्रवदुपद्रवशान्त्यै भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓तूलया᳓ ऽऽङ्क्ते ।
 अ᳓पतूलया हि᳓ मनुष्या᳙ आञ्ज᳓ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1246,11 +1431,14 @@ He anoints with (a stalk) which has a tuft, for men anoint with (a stalk) which 
 
 सतू॑ल॒येति॒ स-तू॒ल॒या॒ । एति॑ । अ॒ङ्क्ते॒ । अप॑तूल॒येत्यप॑-तू॒ल॒या॒ । हि । म॒नु॒ष्याः॑ । आ॒ञ्जत॒ इत्या॑-अ॒ञ्जते॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्या᳓वृत्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1266,11 +1454,14 @@ He anoints with (a stalk) which has a tuft, for men anoint with (a stalk) which 
 
 व्यावृ॑त्त्या॒ इति॑ वि-आवृ॑त्त्यै ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓पतूलयाञ्जीत᳓ व᳓ज्र इव स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1286,11 +1477,14 @@ If he were to anoint with (a stalk) having no tuft, he would be as it were a thu
 
 यत् । अप॑तूल॒येत्यप॑-तू॒ल॒या॒ । आ॒ञ्जी॒तेत्या॑-अ॒ञ्जी॒त । वज्रः॑ । इ॒व॒ । स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓तूलया᳓ङ्क्ते मित्रत्वा᳓य ।[6]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1306,10 +1500,14 @@ He anoints with one which has a tuft, for friendship [6].
 
 सतू॑ल॒येति॒ स-तू॒ल॒या॒ । एति॑ । अ॒ङ्क्ते॒ । मि॒त्र॒त्वायेति॑ मित्र-त्वाय॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॑ वृ॒त्रम॑ह॒न्त्सोऽ३॒॑ पोऽ३॒॑ भ्य॑म्रियत॒ तासाय्ँ॒यन्मेध्यय्ँ॑ य॒ज्ञियँ॒ सदे॑व॒मासी॒त्तदपोद॑क्राम॒त्ते द॒र्भा अ॑भव॒न्यद्द॑र्भपुञ्जी॒लैᳶ प॒वय॑ति॒ या ए॒व मेध्या॑ य॒ज्ञिया॒स्सदे॑वा॒ आप॒स्ताभि॑रे॒वैन॑म्पवयति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1317,6 +1515,8 @@ He anoints with one which has a tuft, for friendship [6].
 इ᳓न्द्रो वृत्र᳓महन् ।
 सो᳓ऽ३᳓ पो᳓ऽ३᳓भ्यम्रियत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1338,12 +1538,15 @@ Indra slew Vrtra, he died upon the waters.
 
 17दर्भपुञ्जीत्यैः पवनं विधास्यन् दर्भांस्तावत्स्तौति - इन्द्र इति ॥ इन्द्रेण हतो वृत्रः सोपोभि यत्रापस्तत्राम्रियत मृतो बभूव अपामुपरीत्यर्थः । 'अभिरभागे' इत्यभेः कर्मप्रवचनीयत्वम्, 'कर्मप्रवचनीययुक्ते द्वितीया' इत्यप्शब्दात् द्वितीया, तस्याः 'ऊडिदम्' इत्याद्युदात्तत्वम्, 'स्वरितो वाऽनुदात्ते पदादौ' इत्योकारस्स्वर्यते, 'उदात्तस्वरितयोर्यणः' इत्यट्स्वरितत्वम् । तासामपां यन्मेध्यं शुद्धं रूपम् । पूर्ववद्यत् । यज्ञियं यज्ञार्हम् । पूर्ववद्धः । सदेवं देवसहितं देवयोग्यमित्यर्थः । यदीदृशं रूपमासीत्, तदपोदक्रामत् अपोपहायोर्ध्वमगच्छत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓साय्ँ य᳓न्मे᳓ध्यय्ँ यज्ञि᳓यँ स᳓देवम् आ᳓सीत् , त᳓द् अ᳓प + उ᳓दक्रामत् ।  
 ते᳓ दर्भा᳓ अभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1365,11 +1568,14 @@ Of the waters what was fit for sacrifice, pure, and divine, that went out of the
 
 ते दर्भा अभवन् तद्दर्भभावं प्रत्यपद्यत । दर्भापेक्षया बहुवचनम् । तस्माद्दर्भपुञ्जीलैः पावनेन मेध्यत्वादिगुणादिभिरद्भिर्यजमानः पावितो भवति । तेन 'दर्भपुञ्जीलैः पावयेत्' इति विधिर्गम्यते । 'प्वादीनां ह्रस्वः' इति व्यत्ययेन णिच्यपि प्रवर्तते । 'संज्ञापूर्वको विधिरनित्यः' इति वा वृद्धिर्न क्रियते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् दर्भपुञ्जीलैᳶ᳓ पव᳓यति , या᳓ एव᳓ मे᳓ध्या यज्ञि᳓यास्  , स᳓देवा आ᳓पस् , ता᳓भिर् एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1385,6 +1591,9 @@ In that he purifies (the sacrificer) with bunches of Darbha grass, verily he pur
 
 यत् । द॒र्भ॒पु॒ञ्जी॒लैरिति॑ दर्भ-पु॒ञ्जी॒लैः । प॒वय॑ति । याः । ए॒व । मेध्याः॑ । य॒ज्ञियाः॑ । सदे॑वा॒ इति॒ स-दे॒वाः॒ । आपः॑ । ताभिः॑ । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -1392,11 +1601,14 @@ In that he purifies (the sacrificer) with bunches of Darbha grass, verily he pur
 प॒व॒य॒ति॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञायै॒वैन॑म्पवयति ष॒ड्भिᳶ प॑वयति॒ षड्वा ऋ॒तव॑ ऋ॒तुभि॑रे॒वैन॑म्पवयति स॒प्तभि॑ᳶ पवयति स॒प्त छन्दाँ॑सि॒ छन्दो॑भिरे॒वैन॑म्पवयति न॒वभि॑ᳶ पवयति॒ नव॒ वै पुरु॑षे प्रा॒णास्सप्रा॑णमे॒वैन॑म्पवय॒त्येक॑विँशत्या पवयति॒ दश॒ हस्त्या॑ अ॒ङ्गुल॑यो॒ दश॒ पद्या॑ आ॒त्मैक॑विँ॒शो यावा॑ने॒व पुरु॑ष॒स्तमप॑रिवर्गम् [8]  
 प॒व॒य॒ति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓भ्याम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1419,11 +1631,14 @@ He purifies (him) with two (stalks);
 
 त्रिभिः । 'षट्चतुर्भ्यो हलादिः' इति भिस उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्राभ्या᳙म् एवै᳓नम् पवयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1439,11 +1654,14 @@ verily he purifies him by days and nights.
 
 अ॒हो॒रा॒त्राभ्या॒मित्य॑हः-रा॒त्राभ्या॑म् । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिभिᳶ᳓ पवयति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1459,11 +1677,14 @@ He purifies (him) with three (stalks);
 
 त्रि॒भिरिति॑ त्रि-भिः । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓य इमे᳓ लोकाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1479,11 +1700,14 @@ three are these worlds;
 
 त्रयः॑ । इ॒मे । लो॒काः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एभि᳓र् एवै᳓नल्ँ लोकैᳶ᳓ पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1499,12 +1723,15 @@ verily he purifies him by these worlds.
 
 ए॒भिः । ए॒व । ए॒न॒म् । लो॒कैः । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च᳓भिᳶ पवयति [7] । 
 प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1527,12 +1754,15 @@ He purifies (him) with five stalks [7]; the Pankti has five syllables,
 
 षद्भिः । पूर्ववद्भिस उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ङ्क्तो यज्ञः᳓ ।
 यज्ञा᳓य᳓ एवै᳓नम् पवयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1548,11 +1778,14 @@ the sacrifice is fivefold; verily he purifies him by the sacrifice.
 
 पाङ्क्तः॑ । य॒ज्ञः । य॒ज्ञाय॑ । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षड्भिᳶ᳓ पवयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1568,11 +1801,14 @@ He purifies (him) with six (stalks);
 
 ष॒ड्भिरिति॑ षट्-भिः । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड्वा᳓ ऋत᳓वः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1588,11 +1824,14 @@ six are the seasons;
 
 षट् । वै । ऋ॒तवः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓भिर् एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1608,11 +1847,14 @@ verily he purifies him by the seasons.
 
 ऋ॒तुभि॒रित्यृ॒तु-भिः॒ । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓भिᳶ पवयति । सप्त᳓ छ᳓न्दाँसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1633,11 +1875,14 @@ He purifies (him) with seven (stalks); seven are the metres;
 
 सप्तभिः । पूर्ववदुपोत्तमस्योदात्तत्वम् । सप्त छन्दांसि गायत्र्यादीनि प्रधानानि । 'विश्वजनादीनां छन्दसि वेति वक्तव्यम्' इति तुगभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दोभिर् एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1653,11 +1898,14 @@ verily he purifies him by the metres.
 
 छन्दो॑भि॒रिति॒ छन्दः॑-भिः॒ । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नव᳓भिᳶ पवयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1678,11 +1926,14 @@ He purifies (him) with nine (stalks);
 
 नवभिः । पर्वूवत्स्वरः । नव प्राणाः नवरन्ध्राधिष्ठानाः । सप्राणम् । शोधकगतं नवत्वं शोध्येऽपि पुरुषे नवत्वं प्रत्याययति । यद्वा - क्रियाविशेषणम्, सप्राणं यथा पवयति प्राणैरेनं पवयतीत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓व वै᳓ पु᳓रुषे प्राणाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1698,11 +1949,14 @@ nine are the breaths in man;
 
 नव॑ । वै । पुरु॑षे । प्रा॒णा इति॑ प्र-अ॒नाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓प्राणम् एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1718,11 +1972,14 @@ verily he purifies him along with his breaths.
 
 सप्रा॑ण॒मिति॒ स-प्रा॒ण॒म् । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कविँशत्या पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1743,12 +2000,15 @@ He purifies (him) with twenty-one (stalks);
 
 एकविंशत्या । महासङ्ख्यैषा, एका च विंशतिश्चैकविंशतिः । 'संख्या' इति पूर्वपदप्रकृतिस्वरत्वम् । हस्त्याः हस्ते भवाः । 'शरीरावयवाच्च' इति यत्, 'यतो नावः' इत्याद्युदात्तत्वम् । पद्याः पादे भवाः। पर्वूवत्प्रत्ययः, स्वरश्च, 'पद्यत्यतदर्थे' इति पद्भावः । आत्मा शरीरमेकविंशः एकविंशतेः पूरणः, 'तिविंशतेर्डिति' इति तिलोपः । एवं यावान्पुरुषः तमपरिवर्गं किंचिदप्यपरिहाप्य समस्तमेव पवयति । छान्दसो वञ् । यद्वा - परिवर्जनीयं परिवर्गः, कर्मणि घञ्, 'चजोः कु घिण्यतोः' इति कुत्वम् । नास्य परिवर्जनीयमस्तीति । व्यत्ययेन 'नञ्सुभ्याम्' इति न क्रियते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓श ह᳓स्त्या अङ्गु᳓लयो द᳓श प᳓द्या आत्मै᳓कविँशः᳓ ।  
 या᳓वानेव᳓ पु᳓रुषस् त᳓म् अ᳓परिवर्गम् पवयति [8] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1765,16 +2025,22 @@ there are ten fingers and ten toes, and the body is the twenty first; he thus co
 
 दश॑ । हस्त्याः॑ । अ॒ङ्गुल॑यः । दश॑ । पद्याः॑ । आ॒त्मा । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः । यावा॑न् । ए॒व । पुरु॑षः । तम् । अप॑रिवर्ग॒मित्यप॑रि-व॒र्ग॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 चि॒त्पति॑स्त्वा पुना॒त्वित्या॑ह॒ मनो॒ वै चि॒त्पति॒र्मन॑सै॒वैन॑म्पवयति वा॒क्पति॑स्त्वा पुना॒त्वित्या॑ह वा॒चैवैन॑म्पवयति दे॒वस्त्वा॑ सवि॒ता पु॑ना॒त्वित्या॑ह सवि॒तृप्र॑सूत ए॒वैन॑म्पवयति॒ तस्य॑ ते पवित्रपते प॒वित्रे॑ण॒ यस्मै॒ कम्पु॒ने तच्छ॑केय॒मित्या॑हा॒शिष॑मे॒वैतामा शा॑स्ते ॥ [9]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्प᳓तिस् त्वा पुनात्वि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1795,11 +2061,14 @@ He says, 'Let the lord of thought purify thee';
 
 10इदानीं मन्त्रार्थमनुसन्धत्ते - चित्पतिस्त्वा पुनात्वित्याहेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो वै᳓ चित्प᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1822,11 +2091,14 @@ the mind is the lord of thought;
 
 'पत्यावैश्वर्ये' इत्यस्मिन् 'न भूवाक्चिद्दिधिषु' इति प्रतिषिद्धे 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसैव᳓ + ए᳓नम् पवयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1842,11 +2114,14 @@ verily by the mind he purifies him.
 
 मन॑सा । ए॒व । ए॒न॒म् । प॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्प᳓तिस् त्वा पुनात्वि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1867,11 +2142,14 @@ He says, 'Let the lord of speech purify thee';
 
 वाक्पतिः वागिन्द्रियस्याधिष्ठाता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाचा᳓ + एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1894,11 +2172,14 @@ verily by speech he purifies him.
 
 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्त्वा सविता᳓ पुनात्वि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1914,11 +2195,14 @@ He says, 'Let the god Savitr purify thee';
 
 दे॒वः । त्वा॒ । स॒वि॒ता । पु॒ना॒तु॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितृ᳓प्रसूत एवै᳓नम् पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1943,12 +2227,15 @@ verily being instigated by Savitr, he purifies him.
 
 अनुज्ञाकर्मणस्तु सौतेः सविता सूतः, इति पदद्वयस्यासम्भवः; अनुदात्तत्वात् ह्रस्वान्तत्वाच्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते पवित्रपते पवि᳓त्रेण य᳓स्मै क᳓म् पुने᳓ त᳓च्छकेयमि᳓त्याह ।  
 आशि᳓षम् एवै᳓ता᳓म् आ᳓शास्ते ॥ [9]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1975,4 +2262,5 @@ He says, 'O lord of the purifier, with thy purifier, for whatsoever I purify mys
 यथोक्तं 'यजमानं वाचयति' इति ॥
 
 इति षष्ठे काण्डे प्रथमप्रश्ने प्रथमोनुवाकः ॥
+</details>
 </details>

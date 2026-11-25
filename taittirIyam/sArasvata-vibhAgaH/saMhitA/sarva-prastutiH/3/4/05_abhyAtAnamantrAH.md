@@ -4,6 +4,8 @@ title = "०५ अभ्यातानमन्त्राः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1येन कर्मणेर्त्सेत् तत्राभ्यातानान् सप्तदश स्रुवाहुतीर्जुहोति - अग्निर्भूतानामित्यादीन् ॥ हुत्वाहुत्वा वाचयति - पितरः पितामहा इति ।
@@ -27,6 +29,7 @@ title = "०५ अभ्यातानमन्त्राः"
 पि᳓तरः पितामहाः परेऽवरे त᳓तास् ततामहा इह᳓ मावत …। …।…।  
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -38,6 +41,8 @@ title = "०५ अभ्यातानमन्त्राः"
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,6 +69,7 @@ Agni overlord of creatures, may he help me;
 
 इयं जगती अतिजगती वा । 'आशिषि' इति तृतीयपादान्तः । अग्निः भूतानां प्रजानां अधिपतिः स्वामी स माऽवतु रक्षतु स्वाहुतमिदमस्तु तस्मा इति । 'अधिपतिस्स माऽवतु' इति सर्वत्रानुषज्यते । यत्र तु लिङ्गभेदो वचनभेदो वा भवति तत्राम्नायत एव स विशेषः, यथा - 'अन्नं साम्राज्यानामधिपति तन्माऽवतु' 'मरुतो गणानामधिपतयस्ते माऽवन्तु' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +81,8 @@ Agni overlord of creatures, may he help me;
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,6 +109,7 @@ Indra of powers,
 
 2इन्द्रो ज्येष्ठानामधिपतिः [वृद्धतमानां लोकपालानाम्] ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -112,6 +121,8 @@ Indra of powers,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,6 +148,7 @@ Yama of earth,
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3यमोग्निविशेषः, 'अग्निर्वाव यम इयं यमी' इति । यम एव वा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +177,8 @@ Yama of earth,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,6 +221,7 @@ Vayu of the atmosphere, Surya of the sky, Candramas of Naksatras,
 
 4-6वायुरन्तरिक्षस्येत्यादि ॥ गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -218,6 +233,8 @@ Vayu of the atmosphere, Surya of the sky, Candramas of Naksatras,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,6 +261,7 @@ Brhaspati of holy power,
 
 7बृहस्पतिर्ब्रह्मणः ऋत्विजोधिपतिः ब्राह्मणजनेर्वा । बृहस्पतिशब्दो वनस्पत्यादित्वादाद्युदात्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +273,8 @@ Brhaspati of holy power,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,6 +301,7 @@ Mitra of truths,
 
 8मित्रस्सत्यानां सत्यवताम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,6 +313,8 @@ Mitra of truths,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,6 +341,7 @@ Varuna of waters,
 
 9वरुणोपां स्थावराणाम् । 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +353,8 @@ Varuna of waters,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -355,6 +381,7 @@ the ocean of streams,
 
 10समुद्रस्स्रोत्यानां स्रोतसि भवानां नद्यादीनाम् । 'स्रोतसो विभाषा ड्यड्ड्यौ' इति ड्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +393,8 @@ the ocean of streams,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,6 +421,7 @@ food of lordships overlord, may it help me;
 
 11अन्नं साम्राज्यानां सम्यग्राजवतां अधिपति मा अवतु ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -404,6 +434,8 @@ food of lordships overlord, may it help me;
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,6 +463,7 @@ Soma of plants,
 
 12सोम ओषधीनां फलपाकान्ताम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -442,6 +475,8 @@ Soma of plants,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,6 +503,7 @@ Savitr of instigations,
 
 13सविता प्रसवानां अनुज्ञानानाम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -479,6 +515,8 @@ Savitr of instigations,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -505,6 +543,7 @@ Rudra of cattle,
 
 14रुद्रः पशूनां द्विपदां चतुष्पदां च । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -516,6 +555,8 @@ Rudra of cattle,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -542,6 +583,7 @@ Tvastr of forms,
 
 15त्वष्टा रूपाणां रूपणीयानाम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -553,6 +595,8 @@ Tvastr of forms,
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,12 +623,15 @@ Visnu of mountains,
 
 16विष्णुः पर्वतानां धारणानां धराधराणां तेषामपि धारकत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तो गणा᳓नाम᳓धिपतयस्ते᳓ माऽवन्तु
 {अस्मि᳓न्ब्र᳓ह्मन् + अस्मि᳓न्क्षत्रे᳓ + अस्यामाशि᳓ष्यस्या᳓म् पुरोधा᳓याम् + अस्मि᳓न्क᳓र्मन् + अस्या᳓न्देव᳓हूत्याम् ॥}   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,11 +653,14 @@ the Maruts of troops overlords, may they help me.
 
 17मरुतो गणानां संघातानामधिपतयः ते मा अवन्तु ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि᳓तरᳶ पितामहाᳶ परेऽवरे त᳓तास्ततामहा इह᳓ माऽवत ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,6 +685,7 @@ O ye fathers, ye grandfathers, ye further, ye nearer, ye dadas, ye granddadas, d
 
 सप्तमादूर्ध्वं ये विप्रकृष्टास्ते परे । ततोर्वाचीनास्सान्नीकृष्टाः अवरे । तताः येभ्यो दीयते पिण्डस्ते तताः पित्रादयस्त्रयः । तेषां पितरस्ततामहाः ये न पृथक्पिण्डभाजः उभयत्रापि पिण्डभाजश्च । ते सर्वे यूयमिह कर्मणि वर्तमानं मां अवत रक्षत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -645,6 +696,8 @@ O ye fathers, ye grandfathers, ye further, ye nearer, ye dadas, ye granddadas, d
 अस्मि᳓न् क᳓र्मन्न्  
 अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥ [16]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -666,4 +719,5 @@ In this holy power, this worldly power, this prayer, this Purohitaship, this rit
 अस्मिन्नित्यादि । 'निमित्तात्कर्मसंयोगे' इति सर्वा निमित्तसप्तमी । अस्मिन् ब्रह्मन् ब्राह्मणे जातिनिर्देशोयं, इयं ब्राह्मणजातिस्संपद्यतामिति । ब्राह्मणस्य निमित्तं वा । 'ऊडिदम्' इति सप्तम्या उदात्तत्वम् । क्षत्रे क्षत्रजातौ । आशिषि आशासनीये फले प्रजापश्वादौ । 'आशासः क्वौ' इतीत्वम्, 'शासिवसि घसीनां च' इति षत्वम् । पुरोधायां पुरस्करणे सर्वेषां प्राधान्ये । पुरस उपसर्गभावात् 'आतश्चोपसर्गे' इति भिदादिर्द्रष्टव्यः । कर्मणि क्रियमाणे क्रियाविशेषे देवहूयां देवानामाह्वाने पूजायाम् । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
 
 इति तृतीये चतुर्थे पञ्चमोनुवाकः ॥  
+</details>
 </details>

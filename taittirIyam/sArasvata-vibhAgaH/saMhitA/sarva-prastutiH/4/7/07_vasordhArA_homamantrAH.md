@@ -3,6 +3,8 @@ title = "०७ वसोर्धारा होममन्त्राः"
 +++
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अँ॒शुश्च॑ मे र॒श्मिश्च॒ मेऽदा॑भ्यश्च॒ मेऽधि॑पतिश्च म उपाँ॒शुश्च॑ मेऽन्तर्या॒मश्च॑ म ऐन्द्रवाय॒वश्च॑ मे मैत्रावरु॒णश्च॑ म आश्वि॒नश्च॑ मे प्रतिप्र॒स्थान॑श्च मे शु॒क्रश्च॑ मे म॒न्थी च॑ म आग्रय॒णश्च॑ मे वैश्वदे॒वश्च॑ मे ध्रु॒वश्च॑ मे वैश्वान॒रश्च॑ म ऋतुग्र॒हाश्च॑ [13]  मे॒ऽति॒ग्रा॒ह्या॑श्च म ऐन्द्रा॒ग्नश्च॑ मे वैश्वदे॒वश्च॑ मे मरुत्व॒तीया॑श्च मे माहे॒न्द्रश्च॑ म आदि॒त्यश्च॑ मे सावि॒त्रश्च॑ मे सारस्व॒तश्च॑ मे पौ॒ष्णश्च॑ मे पात्नीव॒तश्च॑ मे हारियोज॒नश्च॑ मे ॥ [14]  
@@ -13,6 +15,7 @@ title = "०७ वसोर्धारा होममन्त्राः"
 (अथ चतुर्थाष्टके सप्तमप्रपाठके सप्तमोऽनुवाकः)।  
 सप्तममाह— अँशुश्च म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -20,6 +23,8 @@ title = "०७ वसोर्धारा होममन्त्राः"
 रश्मि᳓श्च म᳓ +++(कल्पताम्)+++ ।
 अ᳓दाभ्यश्च मे᳓+++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +50,14 @@ May the Amsu cup for me, the Rasmi, the Adabhya (prosper for me through the sacr
 रश्मीनां तु तद्ग्रहणसाधनत्वात् ।  
 तथा च तद्ग्रहणमन्त्रः पठ्यते– “शुक्रं ते शुक्रेण गृह्णाम्यह्नो रूपेण सूर्यस्य रस्मिभिः” इति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिपतिश्च म +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,6 +80,7 @@ May the overlord cup (prosper for me through the sacrifice);
 तस्य च श्रेष्ठत्वादाधिपत्यम् ।  
 अत एव श्रूयते “ज्येष्ठो वा एष ग्रहाणाम्” इति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -83,6 +92,8 @@ May the overlord cup (prosper for me through the sacrifice);
 
 प्रतिप्रस्था᳓नश्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,6 +121,7 @@ May the Upansu, the Antaryama, the cup for Indra and Vayu, the cup for Mitra and
 प्रतिप्रस्थानशब्देन द्विदेवत्यग्रहसहभावी प्रतिनि(धि)र्ग्राह्यो विवक्षितः ।  
 घ्रुवाख्यस्यैव ग्रहस्यावनयनदशायां वैश्वानरसूक्तपाठात्तदर्वस्थापन्नो वैश्वानरशब्देनोच्यते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +130,8 @@ May the Upansu, the Antaryama, the cup for Indra and Vayu, the cup for Mitra and
 आग्रयण᳓श्च  मे +++(कल्पताम्)+++ ।  
 वैश्वदेव᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,12 +155,15 @@ May the Sukra, the Manthin, the Agrayana, the cup for the All-gods (prosper for 
 
 आद्यो वैश्वदेवः प्रातःसवनगतः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुव᳓श्च मे +++(कल्पताम्)+++ ।  
 वैश्वानर᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,6 +185,7 @@ May the Dhruva, the cup for Vaisvanara (prosper for me through the sacrifice);
 
 उत्तरस्तृतीयसवनगतः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -186,6 +204,8 @@ May the Dhruva, the cup for Vaisvanara (prosper for me through the sacrifice);
 पात्नीवत᳓श्च  मे +++(कल्पताम्)+++ ।  
 हारियोजन᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -223,6 +243,7 @@ May the season cups, the Atigrahyas, the cup for Indra and Agni, the cup for the
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  सप्तमोऽनुवाकः ॥  
 ७ ॥  
+</details>
 </details>
 
 चतुर्थकाण्डे सप्तमप्रपाठकेऽष्टमोऽनुवाकः

@@ -8,6 +8,8 @@ unicode_script: devanagari
 समि᳓धो अग्न आ᳓ज्यस्य वियन्तु ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।
@@ -17,11 +19,14 @@ unicode_script: devanagari
 
 सम्-इ᳓धः । अग्ने । आ᳓ज्यस्य । वियन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नून᳓पाद् अग्न आ᳓ज्यस्य वेतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -32,11 +37,14 @@ unicode_script: devanagari
 
 त᳓नू-न᳓पात् । अग्ने । आ᳓ज्यस्य । वेतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ अग्न आ᳓ज्यस्य वियन्तु ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,11 +55,14 @@ unicode_script: devanagari
 
 इडः᳓ । अग्ने । आ᳓ज्यस्य । वियन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓र् अग्न आ᳓ज्यस्य वेतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,12 +74,15 @@ unicode_script: devanagari
 
 बर्हिः᳓ । अग्ने । आ᳓ज्यस्य । वेतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा ऽग्नि᳓म् ।  
 स्वा᳓हा सो᳓मम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +94,15 @@ unicode_script: devanagari
 
 स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । सो᳓मम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हाऽग्नि᳓म् ।   
 स्वा᳓हा प्रजा᳓पतिम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +115,15 @@ unicode_script: devanagari
 
 स्वा᳓हा । अग्नि᳓म् । स्वा᳓हा । प्रजा᳓-पतिम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हाऽग्नी᳓षो᳓मौ ।   
 स्वा᳓हेन्द्राग्नी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,12 +135,15 @@ unicode_script: devanagari
 
 स्वा᳓हा । अग्नी᳓षो᳓मौ । स्वा᳓हा । इन्द्राग्नी᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हे᳓न्द्रम् ।   
 स्वा᳓हा महेन्द्र᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -132,12 +155,15 @@ unicode_script: devanagari
 
 स्वा᳓हा । इ᳓न्द्रम् । स्वा᳓हा । महेन्द्र᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा देवाँ᳓ आज्यपा᳓न् ।   
 स्वा᳓हाऽग्निँ᳓ होत्रा᳓ज्जुषाणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,11 +175,14 @@ unicode_script: devanagari
 
 स्वा᳓हा । देवा᳓न् । आज्य-पा᳓न् । स्वा᳓हा । अग्नि᳓म् । होत्रा᳓त् । जुषाणाः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्न आ᳓ज्यस्य वियन्तु ॥8॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -177,4 +206,5 @@ unicode_script: devanagari
 
 “ समिधो अग्न आज्यस्य इत्यनुवाकः समिधो यजति " इत्यत्र व्याख्यातः ।  
 ([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/6/01) द्रष्टव्यम्।)
+</details>
 </details>

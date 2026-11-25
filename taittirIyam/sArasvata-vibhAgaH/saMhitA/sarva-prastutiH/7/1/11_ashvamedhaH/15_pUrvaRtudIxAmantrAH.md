@@ -2,6 +2,8 @@
 title = "१५ पूर्वऋतुदीक्षामन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
@@ -11,11 +13,14 @@ title = "१५ पूर्वऋतुदीक्षामन्त्रा�
 
 1अथ पूर्वा ऋतुदीक्षाः - पृथिव्यै स्वाहेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्यै᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -31,12 +36,15 @@ To earth hail!
 
 पृ॒थि॒व्यै । स्वाहा॑ ।
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,11 +60,14 @@ To atmosphere hail!
 
 अ॒न्तरि॑क्षाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,11 +83,14 @@ To sky hail!
 
 दि॒वे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -92,11 +106,14 @@ To the sun hail!
 
 सूर्या॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मसे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +129,14 @@ To the moon hail!
 
 च॒न्द्रम॑से । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓क्षत्रेभ्यस्स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,11 +152,14 @@ To the Naksatras hail!
 
 नक्ष॑त्रेभ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓च्यै दिशे᳓ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +175,14 @@ To the eastern quarter hail!
 
 प्राच्यै॑ । दि॒शे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणायै दिशे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,11 +198,14 @@ To the southern quarter hail!
 
 दक्षि॑णायै । दि॒शे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रती᳓च्यै दिशे᳓ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +221,14 @@ To the western quarter hail!
 
 प्र॒तीच्यै॑ । दि॒शे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दीच्यै दिशे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -212,11 +244,14 @@ To the northern quarter hail!
 
 उदी॑च्यै । दि॒शे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वा᳓यै दिशे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +267,14 @@ To the zenith hail!
 
 ऊ॒र्ध्वायै॑ । दि॒शे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिग्भ्य᳓स्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,11 +301,14 @@ To the quarters hail!
 
 दिग्भ्य इति सामान्येनोच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवान्तरदिशा᳓भ्यस्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +329,14 @@ To the intermediate quarters hail!
 
 अवान्तरदिशाः कोणाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓माभ्यस् +++(संवत्सरविशेषेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,11 +352,14 @@ To the half-years hail!
 
 समा॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शर᳓द्भ्यस् +++(संवत्सरविशेषेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -333,11 +380,14 @@ To the autumns hail!
 
 समाशरच्छब्दौ संवत्सरविशेषवचनौ । गतौ गतेरिष्यन्? वर्षवचनावित्येके । इह तु ताभ्यां तदवयवभूताः सूक्ष्मा यामघटिकानिमेषादयो गृह्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +403,14 @@ To the days and nights hail!
 
 अ॒हो॒रा॒त्रेभ्य॒ इत्य॑हः-रा॒त्रेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धमासे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,11 +426,14 @@ To the half-months hail!
 
 अ॒र्ध॒मा॒सेभ्य॒ इत्य॑र्ध-मा॒सेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓सेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,11 +449,14 @@ To the months hail!
 
 मासे॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -413,11 +472,14 @@ To the seasons hail!
 
 ऋ॒तुभ्य॒ इत्यृ॒तु-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -433,11 +495,14 @@ To the year hail!
 
 सव्ँ॒व॒त्स॒रायेति॑ सम्-व॒त्स॒राय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ 44 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,5 +522,6 @@ To all hail!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सर्वस्मै यौ दिक्कालकार्यौ यौ च दिक्कालावनुक्तौ तस्मै सर्वस्मै स्वाहेति ॥
+</details>
 </details>
 

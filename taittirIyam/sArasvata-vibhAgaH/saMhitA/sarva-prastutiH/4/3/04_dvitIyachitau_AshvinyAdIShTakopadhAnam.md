@@ -6,6 +6,8 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 
 चतुर्थाष्टके तृतीयप्रपाठके चतृर्थोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 [अथ चतुर्थाष्टके तृतीयप्रपाठके चतृर्थोऽनुवाकः]।  
@@ -16,12 +18,15 @@ title = "०४ द्वितीयचितौ आश्विन्याद
 कल्पः—“श्वोभूते पोर्वाह्णिकीभ्यां प्रचर्य द्वितीयां चिति चिनोति घ्रुवक्षितिरिति पञ्चऽऽश्विनीरुपदधाति” इति ।
 तत्र प्रथमामाह—  १९८४ ध्रुवक्षितिरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 द्ध्रुव᳓क्षितिर्द्ध्रुव᳓योनिर्द्ध्रुवा᳓सि द्ध्रुवाय्ँ᳓यो᳓निमा᳓ सीद साध्या᳓ ।  
 उ᳓ख्यस्य केतु᳓म्प्रथम᳓म्पुर᳓स्तादश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,10 +57,14 @@ May the two Aśvins, the leeches, set thee here first in the east.
 साध्याऽस्माभिः साघनीयोपधातव्मा त्वं ध्रुवां योनिं स्थिरमग्निक्षेत्ररूपं स्थानमासीदाऽऽगत्योपविश ।  
 तदेव स्थानं विशष्यतेउख्यस्योखायां स्थितस्याग्नेः केतुं ज्ञापक्तं प्रथममिष्टकोपधानात्पूर्वमवे निष्पन्नम् ।  अतो हे इष्टके इहास्मिन्नग्निक्षेत्रे पुरस्तात्पूर्वस्यां दिशि देवनामध्वर्यू उभावश्विनौ त्वां सादयतां स्थापयताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— स्वे दक्षे दक्षपितेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +72,8 @@ May the two Aśvins, the leeches, set thee here first in the east.
 स्वे᳓ द᳓क्षे द᳓क्षपितेह᳓ सीद देवत्रा᳓ पृथिवी᳓ बृहती᳓ र᳓राणा ।  
 स्वासस्था᳓ तनु᳓वा सव्ँ᳓विशस्व पिते᳓वैधि सून᳓व आ᳓ सुशे᳓वाश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,10 +109,14 @@ May the two Aśvins, the leeches, set thee here.
 
  हे इष्टके इहास्मिन्नग्निक्षेत्रे पुरस्तात्पूर्वस्यां दिशि देवनामध्वर्यू उभावश्विनौ त्वां सादयतां स्थापयताम् ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— कुलायिनीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +125,8 @@ May the two Aśvins, the leeches, set thee here.
 [7]  
 अ᳓पामतिन्दुर्मति᳓म्बा᳓धमाना राय᳓स्पो᳓षे यज्ञ᳓पतिमाभ᳓जन्ती सु᳓वर्धेहि य᳓जमानाय पो᳓षमश्वि᳓नाध्वर्यू᳓ सादयतामिह᳓ त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,10 +159,14 @@ May the two Aśvins, the leeches, set thee here.
 
  हे इष्टके इहास्मिन्नग्निक्षेत्रे पुरस्तात्पूर्वस्यां दिशि देवनामध्वर्यू उभावश्विनौ त्वां सादयतां स्थापयताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ् चतुर्थीमाह— अग्नेः पुरीषमसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -153,6 +174,8 @@ May the two Aśvins, the leeches, set thee here.
 अग्नेᳶ᳓ पु᳓रीषमसि देवया᳓नी ता᳓न्त्वा वि᳓श्वे अभि᳓ गृणन्तु देवाः᳓ ।  
 स्तो᳓मपृष्ठा घृत᳓वतीह᳓ सीद प्रजा᳓वदस्मे᳓ द्र᳓विणा᳓ यजस्वाश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -188,10 +211,14 @@ May the two Aśvins, the leeches, set thee here!
 
  हे इष्टके इहास्मिन्नग्निक्षेत्रे पुरस्तात्पूर्वस्यां दिशि देवनामध्वर्यू उभावश्विनौ त्वां सादयतां स्थापयताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ् पञ्चमीमाह— दिवो मूर्धाऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -200,6 +227,8 @@ May the two Aśvins, the leeches, set thee here!
 [8]  
 ऊर्मि᳓र्द्रप्सो᳓ अपा᳓मसि विश्व᳓कर्मा त ऋ᳓षिरश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,6 +266,9 @@ Thou art the head of sky, the navel of earth, the holder apart of the quarters, 
 
  हे इष्टके इहास्मिन्नग्निक्षेत्रे पुरस्तात्पूर्वस्यां दिशि देवनामध्वर्यू उभावश्विनौ त्वां सादयतां स्थापयताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -246,6 +278,7 @@ Thou art the head of sky, the navel of earth, the holder apart of the quarters, 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“सजूर्ऋतुभिरिति पञ्चर्तव्या आश्विनीरनूपधाय” इति ।   पाठस्तु  १९८६ सजूर्ऋतुमिरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +291,8 @@ Thou art the head of sky, the navel of earth, the holder apart of the quarters, 
 सजू᳓र्वि᳓श्वैर्देवैः᳓ +++(असि)+++ ।  
 सजू᳓र्देवैः᳓  +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,6 +319,7 @@ In unison with the seasons, in unison with the ordainers, in unison with the Vas
 
 हे इष्टके त्वमृतुभिर्वसन्तादिभिः सजुः समानप्रीतिरासि, वसन्तादीनां यादृशी प्रीतिस्तादृशी तवेत्यर्थः ।   एवमुत्तरत्रापि सजूःशब्दो योज्यः।   विविधं जगद्दधति पोषयन्तीति ब्रह्मादयो विधस्तैर्विधाभिः ।   वसवो रुद्रा आदित्या विश्वे देवा देवाश्च प्रसिद्धास्तैरेतैः पञ्चविधैः पञ्चधा गन्त्रभेदः।   पूर्वोत्तरभागौ सर्वत्रानुषज्येते ।   विधाभिरित्यन्तः पूर्वो भागः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,6 +327,8 @@ In unison with the seasons, in unison with the ordainers, in unison with the Vas
 
 अग्न᳓ये त्वा वैश्वानरा᳓याश्वि᳓नाद्ध्वर्यू᳓ सादयतामिह᳓ त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -319,6 +357,9 @@ in unison with the gods, in unison with the gods establishing strength, to Agni 
 मन्त्रेषु समानमंशमुक्त्वा भेदकमंशं दर्शयति— “एकेन पदेन व्यावर्तेन्ते तस्मादृतयो व्यावर्तन्ते” (सं. का. ५ प्र. ३ अ. १) इति।  
 १९८७ वसुभिरित्येकं पदं, वेनेतरेभ्यो मन्त्रेभ्य आद्यमन्त्रो ब्यावर्तते ।   एवं रुद्रादित्यादिमिव्यांमृत्तिर्योजनीया ।   यस्मादत्रोपक्रमावसानसाम्ये पदमात्रेण व्यावृत्तिस्तस्माल्लोके मासद्वयात्मकत्वसाम्येऽपि वसन्तग्रीष्गादिपदभेदेन ऋतूनां परस्परं व्यावृत्तिः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -329,6 +370,7 @@ in unison with the gods, in unison with the gods establishing strength, to Agni 
 
 कल्पः—“प्राणं मे पहीति पञ्च प्राणभृत ऋतव्या अनूपधाय” इति।    पाठस्तु— प्राणं मे पाहीति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -338,6 +380,8 @@ in unison with the gods, in unison with the gods establishing strength, to Agni 
 च᳓क्षुर्म उर्व्या᳓ वि᳓ भाहि ।  
 श्रो᳓त्रम्मे श्लोकाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,6 +409,9 @@ Protect my expiration; protect my inspiration; protect my cross breathing; make 
 ऋतव्याभ्य उत्तरभाविनीः प्राणभृतः प्रकारान्तरेण प्रशंसति “एष वै वायुर्यत्प्राणो यदृतव्या उपधाय प्राणभृत उपदधाति तस्मासर्वानृतूननु वायुरा वरीबर्ति” (सं. का. ५ प्र. ३ अ. १) इति।  
 योऽयं प्राणः स एष वायुरेव ।   तथा सत्यृतव्यानामूर्ध्वं प्राणभृतामुपधानेन सर्वानप्यृतूननुसृत्य वायुः पुनः पुनरावर्तते ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -375,11 +422,14 @@ Protect my expiration; protect my inspiration; protect my cross breathing; make 
 
 कल्पः—अपस्पिन्वेति पञ्चापस्या अनुपरिहारम्” इति।   पाठस्तु अपस्पिन्वेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप᳓ स्पिन्व
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -400,11 +450,14 @@ Make thick the waters;
 
 हे इष्टके त्वमपो जलानि पिष्व प्रीणय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीर्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -425,11 +478,14 @@ quicken the plants;
 
 ओषधीश्च जिन्व प्रीणय ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विपा᳓त्पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,11 +506,14 @@ protect bipeds;
 
 द्विपान्मनुष्यशरीरं पाहि पालय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुष्पादव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,11 +534,14 @@ help quadrupeds;
 
 चतुष्पात्पशुशरीरमव रक्ष ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवो᳓ वृ᳓ष्टिमे᳓रय ॥ [9]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -504,6 +566,7 @@ from the sky make rain to start.
 पुनरपीष्टकाहस्तं प्रदक्षिणीकृत्य पश्चिमामुदध्यादित्येवं योजनीयम् ।   तथा सति सर्वानप्यृतुन्प्रति वृष्टिर्भवति ।  
 प्राणभृतां वृष्टिसनीनां च पूर्वोत्तरभावं प्रशंसति— “यत्प्राणभृत उपधाय वृष्टिसनीरुपदधाति तस्माद्वायुप्रच्युता दिवो वृष्टिरीर्ते” (सं. का. ५ प्र. ३ अ. १) इति।  
 “यत्प्राणभृतः पूर्वभाविन्यो वृष्टिसनयः पश्चाद्भाविन्यस्तस्माल्लोकेऽपि दिवः सकाशात्पूर्वं वायुना प्रेरिता वृष्टिः पश्चात्प्रवर्तते ।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

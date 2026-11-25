@@ -1,10 +1,15 @@
 +++
 title = "०७ नमो॑ दुन्दु॒भ्या॑य"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निर्ऋषिः
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -13,16 +18,22 @@ title = "०७ नमो॑ दुन्दु॒भ्या॑य"
 तेभ्योऽन्यानि कानिचिद् यजूंषि सप्तमेऽभिधीयन्ते।  
 तत्र विद्यमानानि षोडश यजूंष्याह— नमो दुन्दुभ्यायेति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च॒ नमो॑ धृ॒ष्णवे॑ च प्रमृ॒शाय॑ च॒ नमो॑ दू॒ताय॑ च॒ प्रहि॑ताय च॒ नमो॑ निष॒ङ्गिणे॑ चेषुधि॒मते॑ च॒ नम॑स्ती॒क्ष्णेष॑वे चायु॒धिने॑ च॒ नम॑स्स्वायु॒धाय॑ च सु॒धन्व॑ने च॒ नम॒स्स्रुत्या॑य च॒ पथ्या॑य च॒ नम॑ᳵ का॒ट्या॑य च नी॒प्या॑य च॒ नम॒स्सूद्या॑य च सर॒स्या॑य च॒ नमो॑ ना॒द्याय॑ च वैश॒न्ताय॑ च [15]  नम॒ᳵ कूप्या॑य चाव॒ट्या॑य च॒ नमो॒ वर्ष्या॑य चाव॒र्ष्याय॑ च॒ नमो॑ मे॒घ्या॑य च विद्यु॒त्या॑य च॒ नम॑ ई॒ध्रिया॑य चात॒प्या॑य च॒ नमो॒ वात्या॑य च॒ रेष्मि॑याय च॒ नमो॑ वास्त॒व्या॑य च वास्तु॒पाय॑ च ॥ [16]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो दुन्दुभ्या᳙य चाहनन्या᳙य +++(शब्दाय)+++ च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,11 +55,14 @@ Homage to him of the drum, and to him of the drumstick.
 दुन्दुभौ भेर्यां भवः शब्दो दुन्दुभ्यः।  
 आहन्यते ताड्यतेऽनेत्याहननं दुन्दुभ्याघातार्थो दण्डस्तत्र ताडनरूपेणोत्पन्न आहनन्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो धृष्ण᳓वे च प्रमृशा᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +85,14 @@ Homage to the bold, and to the cautious.
 
 प्रमृशः परसैन्यवृत्तान्तपरामर्षकः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो दूता᳓य च प्र᳓हिताय च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,11 +115,14 @@ Homage to the messenger, and to the servant.
 
 प्रहितः स्वामिना प्रेषितः पुरुषः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निषङ्गि᳓णे चेषुधिम᳓ते च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +145,14 @@ Homage to the quiver-bearer, and to the owner of the quiver.
 
 इषुधि मान्बाणाधारयुक्तः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्तीक्ष्णे᳓षवे चायुधि᳓ने च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +175,14 @@ Homage to him of the sharp arrow, and to him of the weapon.
 
 बहून्यायुधानि यस्य सन्तीत्यायुधी।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्स्वायुधा᳓य च सुध᳓न्वने च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -179,11 +205,14 @@ Homage to him of the good weapon, and to him of the good bow.
 
 शोभनं धन्वपिनाकरूपं यस्यासौ सुधन्वा।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्स्रु᳓त्याय च प᳓थ्याय च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,11 +235,14 @@ Homage to him of the stream, and to him of the way.
 
 पन्या रथाश्वादिसंचारक्षमः प्रौढो मार्गस्तमर्हतीति पथ्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ काऽट्या᳙य च नीप्या᳙य+++(←नीपः = जलपातस्थलम्)+++ च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,11 +265,14 @@ Homage to him of the hole, and to him of the pool.
 
 यस्मिंन्प्रदेशे पर्वताग्राज् जलं न्यग्भावेन पतति स प्रदेशो नीपस्तत्र जलरूपेणावस्थितो नीप्यः  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस् सू᳓द्याय+++(←सूदः=कर्दम-प्रदेशः)+++ च सरस्या᳙य च  +++(जलाय)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -260,11 +295,14 @@ Homage to him of the ditch, and to him of the lake.
 
 सरः प्रसिद्धं, तत्रत्य जलरूपः सरस्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो नाद्या᳓य च वैशन्ता᳓य +++(←अल्पसरो वेशन्तः)+++ च +++(जलाय)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -287,11 +325,14 @@ Homage to him of the stream, and to him of the tank.
 
 अल्पसरो वेशन्तस् तत्रत्यजलरूपो वैशन्तः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ कू᳓प्याय चावट्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,11 +355,14 @@ Homage to him of the cistern, and to him of the well.
 
 अवटस्थजलरूपोऽवट्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  व᳓र्ष्याय चावर्ष्या᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,11 +385,14 @@ Homage to him of the rain, and to him not of the rain.
 
 वर्षनिरपेक्षजलरूपोऽवर्ष्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मेघ्या᳙य च विद्युत्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,11 +415,14 @@ Homage to him of the cloud, and to him of the lightning.
 
 विद्युता सह चरतीति विद्युत्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म ईध्रि᳓याय+++(←इध्)+++ चातप्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,11 +445,14 @@ Homage to him of the cloudy sky, and to him of the heat.
 
 आतपेन सह दृष्ट आतप्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  वा᳓त्याय च रे᳓ष्मियाय+++(←रिष्)+++ च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,11 +475,14 @@ Homage to him of the wind, and to him of the storm.
 
 रिष्यन्ति विनश्यन्ति भूतान्यत्रेति **रेष्मः** प्रलयकालस्तत्र भवः शर्करापाषाणादिसहितो वृष्टिजलविशेषो रेष्मियः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वास्तव्या᳙य च वास्तुपा᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,4 +506,5 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 गृहनिर्माणार्था भूमिर्वास्तु तत्पालको वास्तुपः॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे पञ्चमप्रपाठके सप्तमोऽनुवाकः॥  ७ ॥
+</details>
 </details>

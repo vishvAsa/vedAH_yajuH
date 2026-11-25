@@ -2,6 +2,8 @@
 title = "०९ स्वयमातृण्णाद्युपधानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ३-४, १४  अनुष्टुप् ,
@@ -29,12 +31,15 @@ title = "०९ स्वयमातृण्णाद्युपधानम�
 कल्पः—“ध्रुवाऽसि धरुणाऽस्तृतेति स्वयमातृण्णामभिमृश्याश्वेनोपघ्राप्य च प्रजापतिस्त्वा सादयतु पृथिव्याः पृष्ठ इत्यविदुषा ब्राह्मणेन सह मध्येऽग्नेरुपदधाति” इति।  
 तत्राभिमर्शनमन्त्रपाठस्तु— ध्रुवाऽसि धरुणेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(स्वयमातृण्णे!)+++ ध्रुवा᳓सि **धरु᳓णा᳓स्तृता**  
 विश्व᳓कर्मणा **सु᳓कृता** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,12 +64,15 @@ Well wrought by Viśvakarman;
 विश्वकर्मणा जगत्कर्त्रा सुकृता सुष्ठु निर्मिता ।  
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा समुद्र᳓ **उ᳓द्वधीत्** मा᳓ सुपर्णः᳓।  
 अ᳓व्यथमाना पृथिवी᳓न् **दृँह** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,6 +98,9 @@ Unshaking do thou make firm the earth.
 सुपर्णः पक्षिराजोऽपि सर्पोर्द्धरणवेलायां त्वामादाय मोद्वधीद्दूरे परित्या-गलक्षणं वधं मा कार्षीत् ।
 एवं सत्यव्यथमाना भयरहिता त्वं पृथिवीमिमां दृंह दृढी कुरु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -101,6 +112,7 @@ Unshaking do thou make firm the earth.
 
 उपधानमन्त्रपाठस्तु— प्रजापतिस्त्वेति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -108,6 +120,8 @@ Unshaking do thou make firm the earth.
 पृथिव्याᳶ᳓ पृष्ठे᳓  
 व्य᳓चस्वतीम्+++(=विस्तारयुक्तां)+++ प्र᳓थस्वतीम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,6 +143,7 @@ May Prajapati seat thee on the back of earth, capacious, extending;
 हे स्वयमातृण्णे प्रजापतिस्त्वामस्मिन्र्पदेशे पृथिव्या उपरि सादयतु ।  
 कीदृशीं त्वां, **व्यचस्वतीं** विस्तारयुक्तां प्रथस्वतां पृथुलाम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -139,6 +154,8 @@ May Prajapati seat thee on the back of earth, capacious, extending;
 अ᳓दितिर् असि विश्व᳓-धाया᳓  
 वि᳓श्वस्य भु᳓वनस्य धर्त्री᳓ +++(असि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,11 +188,14 @@ thou art extent, thou art earth, thou art the world, thou art the earth, thou ar
 
 तथा विश्वस्य भुवनस्य सर्वस्य लोकस्य घर्ती धारयित्र्यसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवीय्ँ᳓ यच्छ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,6 +216,7 @@ sustain the earth,
 
 तादृशी त्वं पृथिवीं यच्छ नियतां कुरु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -203,6 +224,8 @@ sustain the earth,
 पृथिवी᳓म् मा᳓ हिँसीर् -  
 वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै [36]  चरि᳓त्रा+++(य)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,11 +252,14 @@ for support [1], for motion;
 पृथिवीं दृंह दृढी कुरु ।  
 पृथिवीं मा हिंसीः पृथिव्या हिंसां मा कुरु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व᳓स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ चरि॒त्राय॑ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,11 +275,14 @@ for all expiration, cross-breathing, up-breathing, for support [1], for motion;
 
 विश्वस्मै सर्वस्मै प्राणापानव्यानोदानाख्यवायुवृत्तिलाभाय, प्रतिष्ठायै स्वगृहस्थितिलाभाय, चरित्राय शास्त्रीयाचरणलाभाय ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓स् त्वाभि᳓ पातु मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा श᳓न्तमेन
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -274,11 +303,14 @@ may Agni protect thee with great prosperity, with most auspicious covering;
 
 प्राणिन-मेतस्य सर्वस्य सिद्ध्यर्थमयमग्निस्त्वामभितः पातु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या देव᳓तया ऽङ्गिरस्व᳓द् ध्रुवा᳓ सीद ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,10 +348,14 @@ with that deity, in the manner of Angiras, do thou sit firm.
 अथ यदुक्तं सूत्रकारेण “अविद्वान्ब्राह्मणो वरं ददात्येकं द्वौ त्रीन्वा” इति।   तदेतद्विधत्ते— “ईश्वरो वा एष आर्तिमाप्तोर्योऽविद्वानिष्टकामुपदधाति त्रीन्वरान्दद्यात्त्रयो वै प्राणाः प्राणानाँ स्पृत्यै द्वावेव देयौ द्वौ हि प्राणवेक एव देय एको हि प्राणः” (सं. का. ५ प्र. २ अ. ८) इति।  
 यः स्वयमविद्वान्सन्निष्टकामुपदधाति स्वयमातृण्णां स एष आर्तिमाप्तुं समर्थो भवति ।   अतस्तत्परिहारायाध्वर्यवे वरदानं कुर्यात् ।   वरशव्देन श्रेष्ठत्वाद्गौरुच्यते ।   त्रीन्द्वावेक इति पक्षा विकल्पिताः ।   प्राणोऽपानो व्यान इति त्रित्वं, व्यानमन्तर्भाब्य प्राणापानाविति द्वित्वम्, अपनामन्तर्भाव्य प्राण इत्येकत्वम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र प्रथमामाह— काण्डादिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/20_kANDAtkANDAtprarohantI_paruShaHparuShaspari.md">
@@ -414,9 +450,12 @@ With a thousand, a hundred.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— या शतेनेति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/21_yA_shatena.md">
@@ -480,6 +519,8 @@ Let us sacrifice with oblation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“आषाढाऽसीति द्वाभ्यामषाढामुपरिष्टाल्लक्ष्माणम्” इति ।   उपद ध्यादिति शेषः ।   
@@ -489,6 +530,7 @@ Let us sacrifice with oblation.
 
 तत्र प्रथमामाह— अषाढाऽसीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -496,6 +538,8 @@ Let us sacrifice with oblation.
 स᳓हस्वा᳓रातीस्,  
 स᳓हस्वारातीयतः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,10 +562,14 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 
 ये तु पर्वमरातयो न भवन्तीतः परमरातित्वमिच्छन्ति तानप्यरातीञ्शत्रून्सह-स्व परिभव ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयमाह— सहस्व पृतना इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,6 +577,8 @@ Unovercomable art thou, overcoming, overcome our enemies, over come those that p
 **स᳓हस्व** पृ᳓तनाः
 **स᳓हस्व** पृतन्यतः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,12 +601,15 @@ Overcome the foe, overcome the foemen;
 हे इष्टके पृतना वैरिसेनाः सहस्व परिभव ।  
 ये तु पूर्वं सेनारहिता अपि वैरिण इतः परं सेनामिच्छन्ति तानपि पृतन्यतो वैरिणः सहस्व परिभव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्रवीर्या असि
 सा᳓ मा जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -584,10 +637,14 @@ of a thousandfold strength [2] art thou; do thou inspirit me.
 अथ देवचिह्नं विधत्ते— “त्र्यालिखिता भवतीमे वै लोकाख्यालिखितैभ्य एव लोकेभ्यो भ्रातव्य-मन्तरेति” [सं. का. ५ प्र. २ अ. ८] इति।  
 तिसृभिरङ्गुलिभिरालिखिता त्र्यालिखिता, तथाविधां कुर्यात् ।   तथा सति त्रित्वसामान्याल्लोकत्रयरूपा भवति ।   तेन लोकत्रयाद्भातृव्यो निःसारितो भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“मधु वाता ऋतायत इति तिसृभिर्दध्ना मधुमिश्रेण कूर्ममभ्यज्य” इति ।   तत्र प्रथमामाह— मधु वाता इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -595,6 +652,8 @@ of a thousandfold strength [2] art thou; do thou inspirit me.
 म᳓धु वा᳓ता ऋतायते᳓ म᳓धु क्षरन्ति सि᳓न्धवः ।  
 मा᳓ध्वीर्नस्सन्त्वो᳓षधीः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,10 +677,14 @@ Be sweet to us the plants.
 
 ऋतं यज्ञमात्मन इच्छतीत्यृतायन्, तस्मै यजमानाय वाता वायवो मधु क्षरन्ति मधुरं रसं स्रवयन्ति ।   सिन्धवः समुद्राश्च मधुरं रसं स्रावयन्ति ।   ओषधीरोषधयोऽपि नोऽस्मदर्थं माध्वीर्मधुररसोपेताः सन्तु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— मधु नक्तमुतेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -629,6 +692,8 @@ Be sweet to us the plants.
 म᳓धु न᳓क्तमुतो᳓ष᳓सि म᳓धुमत्पा᳓र्थिवँ र᳓जः।  
 म᳓धु द्यौ᳓रस्तु नᳶ पिता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -652,10 +717,14 @@ Sweet be the sky, our father.
 
 नक्तं रात्रौ मध्वस्माकमस्तु ।   उतापि चोषसि प्रभाते मध्वस्तु ।   तथा यत्षार्थिवं रजस्तत्सर्वं मधुमन्माधुर्यरसोपेतमस्तु ।   नोऽस्माकं पिता पितृस्थानीया द्यौर्मध्वस्तु मधुररसोपेताऽस्तु ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह—  १९४६ मबुमान्न इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
@@ -669,11 +738,14 @@ Sweet be the sky, our father.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Sweet to us be the lord of the forest,  
 Sweet the sun,  
 Sweet be the cows to us.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
@@ -929,9 +1001,12 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“मही द्यौः पृथिवी च न इति पुरस्तात्स्वयमातृण्णायाः प्रत्यञ्चं जीवन्तं कूर्मं प्राङ्मुख उपदधाति” इति ।   पाठस्तु— मही द्यौरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -939,6 +1014,8 @@ Uns sei der Waldbaum reich an Meth, und reich an Meth die Sonne uns, Die Kühe r
 मही᳓ द्यौᳶ᳓ पृथिवी᳓ च न इमय्ँ᳓ यज्ञ᳓म्मिमिक्षताम् ।  
 पिपृता᳓न्नो भ᳓रीमभिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -980,10 +1057,14 @@ May they sustain us with support.
 उपधानात्पूर्वभाविनं सर्वौषधावधातं विधत्ते— “अव हन्त्यन्नमेवाकः” (सं. का. ५ प्र. २ अ. ८) इति।  
 अन्यत्राऽऽम्रातमिदं विष्णुरिति मन्त्रमुलूखलोदधाने विनियुङ्क्ते— “वैष्णव्यर्चोप दधाति विष्णुर्वै यज्ञो वैष्णवा वनस्पतयो यज्ञ एव यज्ञं प्रतिष्ठापयति” [सं. का. ५ प्र. २ अ. ८] इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः “तद्विष्णोः परमं पदमिति मुसलम्” इति ।   पाठस्तु— तद्विष्णोः परममिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -991,6 +1072,8 @@ May they sustain us with support.
 त᳓द्वि᳓ष्णोः परम᳓म् [38]  पदँ᳓ स᳓दा पश्यन्ति सूर᳓यः ।  
 दिवी᳓व च᳓क्षुरा᳓ततम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1014,11 +1097,15 @@ Like an eye stretched in the sky.
 
 सूरयो विद्वांसो वेदान्तपारं गता विष्णोस्तत्परमं पदं सदा पश्यन्ति ।   कीदृशं, दिव्याकाशे निरावरणे चक्षुरिऽऽवाततं व्याप्तम् ।   तादृशस्य विष्णोरनु-ग्रहात् ।   वैष्णववनस्पतिकार्यं मुसलमुपदधातीत्यर्थः ।   एतन्म न्त्रसाध्यमुसलोपधानविधि-त्वेनापि पूर्वोदाहृतं वैष्णव्यर्चेत्यादिब्राह्मणं योजनीयम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“घ्रुवाऽसि पृथिवीति मध्येऽग्नेरुपदधाति” इति ।   तत्र प्रकृतत्वादुखामित्यनुवर्तते।  
 पाठस्तु— ध्रुवाऽसि पृथिवीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1026,6 +1113,8 @@ Like an eye stretched in the sky.
 ध्रुवा᳓सि पृथिवि स᳓हस्व पृतन्यतः᳓ ।  
 स्यूता᳓ देवे᳓भिरमृ᳓तेना᳓गाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1054,10 +1143,14 @@ Fashioned by the gods hast thou come with ambrosia.
 अन्वयव्यतिरेकाभ्यां पुरणं प्रशंसति— “यं कामयेत शोधकः स्यादित्यूनां तस्योप दध्यात्क्षोधुक एव एवति यं कामयेता-नुपदस्यदन्नमद्यादिति पूर्णां तस्योप दध्यादनुपदस्यदेवान्नमसि” (सं. का. ५ प्र. २ अ. ९) इति।  
 सिकताभिः पूरिताया ईषन्न्यूनाया उखाया उपधाने सति क्षोघुकोऽन्नरहितः  क्षुधाशीलो भवति ।   सोऽयं व्यतिरेकः ।   सिकतापूर्णाया उपधाने त्वनुपदस्यदेवाक्षीय-माणमेवान्नमत्ति ।   सोऽयमन्वयः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“प्रबाहुगिष्टकायां हिरण्यशकलावध्यू (ध्यु) ह्य यास्ते अग्ने रुच इति द्वाभ्यां वामभृतम” इति ।   तत्र प्रथमामाह— यास्ते अग्न इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1065,6 +1158,8 @@ Fashioned by the gods hast thou come with ambrosia.
 या᳓स्ते अग्ने सू᳓र्ये रु᳓च उद्यतो᳓ दि᳓वमातन्व᳓न्ति रश्मि᳓भिः ।  
 ता᳓भिस्स᳓र्वाभी रुचे᳓ ज᳓नाय नस्कृधि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1088,10 +1183,14 @@ With all of them bring us to brilliance, to men.
 
 हेऽग्ने सूर्ये सूर्यमण्डल उद्यत उदयं गच्छतस्ते तव रुचो दीप्तयो रश्मिभी रश्मिस्वरूपेण दिवमातन्वन्ति सर्वतो व्याप्नुवन्ति ।   रात्रौ या अग्नेदीप्तयस्या एव सूर्योदयकाले सूर्यरश्मयो भवन्ति ।   एतच्चाग्निहोत्रब्राह्मणे   १९५० समाम्नातम्—“उद्यन्तं वावाऽऽदित्यमग्निरनुसमाराहति” इति ।   ताभिः सर्वाभिर्दीप्तिभिर्नो-ऽस्मदीयाय जनाय यजमानाय प्रकाशं कुरु ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— या वो देवा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1099,6 +1198,8 @@ With all of them bring us to brilliance, to men.
 या᳓ वो देवास्सू᳓र्ये रु᳓चो गो᳓ष्व᳓श्वेषु या᳓ रु᳓चः ।  
 इ᳓न्द्राग्नी ता᳓भिस्स᳓र्वाभी रु᳓चन्नो धत्त बृहस्पते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1124,16 +1225,22 @@ With all of these grant us brilliance.
 
 हे देवा वो युष्माकं संबन्धिन्यः सूर्यमण्डले वर्तमाना या रुचो दीप्तयः सन्ति ।   तथा गोष्वश्वेषु च या दीप्तयः सन्ति ।   हे इद्राग्नी हे बृहस्पते त्रयोऽपि यूयं ( ताभिः सर्वाभिः ) नोऽस्मदर्थं रुचं धत्त प्रकाशं संपादयत ।   एतन्मन्त्रसाध्यं वामभृ-दाख्याया इष्टकाया उपधानमौपानुवाक्यकाण्डे द्रष्टव्यम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“विराडज्योतिरिति तिस्रो रेतःसिचः” इति ।   पाठस्तु—  वराड्ज्योतिरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓ट् [39] ज्यो᳓तिरधारयत्सम्रा᳓ड्ज्यो᳓तिरधारयत्स्वरा᳓ड्ज्यो᳓तिरधारयत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1154,10 +1261,14 @@ The brilliant [4] bore the light, the shining bore the light, the self-resplende
 
 विशेषेण राजत इति विराट्, एवंविधा रेतःसिगाख्या प्रथमेष्टकाऽस्मदनुग्रहार्थे ज्योतिरधारयत् ।   सम्यग्राजत इति सम्राट्, तादृशी द्वितीया रेतःसिगिष्टका ।   स्वयमेय राजा इति स्वराट्, तादृशी तृतीया रेतःसिगिष्टका ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः “अग्ने युक्ष्वा हि ये तव युक्ष्वा हि देवहूतमानिति द्वाभ्यामुखायाहुत्वा” इति।   तत्र प्रथममाह— अग्ने युक्ष्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1165,6 +1276,8 @@ The brilliant [4] bore the light, the shining bore the light, the self-resplende
 अ᳓ग्ने युक्ष्वा᳓ हि᳓ ये᳓ त᳓वा᳓श्वासो देव साध᳓वः ।  
 अ᳓रव्ँव᳓हन्त्याश᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1188,10 +1301,14 @@ The swift that readily bear.
 
 हेऽग्ने देव तव संबन्धिनो येऽश्वासो ये केचिदश्वाः साधवो दान्ताः  स त आशवः शीघ्रगामिनो[णो] भूत्वा रमलं वहन्ति सुष्टु वहन्तीत्यर्थः ।   तानश्वान्युक्ष्व योजय ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— युक्ष्वा हीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1199,6 +1316,8 @@ The swift that readily bear.
 युक्ष्वा᳓ हि᳓ देवहू᳓तमाँ अ᳓श्वाँ अग्ने रथी᳓रिव ।  
 नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1222,11 +1341,15 @@ Sit down as ancient Hotr.
 
 हेऽग्ने त्वं देवहूतमान्देवानामदिशयेनाऽऽह्वातॄन्युक्ष्व योजय ।   हिशब्दः प्रसिद्धार्थवाची ।   प्रसिद्धेऽस्मिकर्मणीत्यर्थः ।   योजने दृष्टान्तः रथीर श्वानिवेति ।   रथस्वामी यथाऽश्वान्योजति तद्वत् ।   किंच त्वं पूर्वाः षुरातनो होता होमोत्पादको भूत्वा निषदोऽस्मिन्यागस्थाने निषीद ।   वामभृन्मन्त्रयोरिव रेतःसि ङ्मन्त्राणां होममन्त्रपोश्च ब्राह्मणमौपानुवाक्यकाण्डे द्रष्टव्यम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “षुरुषशिरसि हिरण्यशल्कान्प्रत्यस्यति द्रप्सश्चस्कन्देत्यास्येऽभूदिदं विश्वस्य भुवनस्येति वर्चे त्वेति दक्षिणेऽक्षिणोलके रुचे त्वेवि सब्ये द्युते त्वेति कर्णयो-र्भासे त्वेति दक्षिणस्यां नासिकायां ज्योतिषे त्वेत्युत्तरस्याम्” इति ।  
 उदाहृतेपु मन्त्रेषु प्रथमामृचमाह—   १९५१ द्रप्सश्चस्कन्देति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1234,6 +1357,8 @@ Sit down as ancient Hotr.
 द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु द्या᳓मिम᳓ञ्च यो᳓निम᳓नु य᳓श्च पू᳓र्वः ।  
 तृती᳓यय्ँयो᳓निम᳓नु सञ्च᳓रन्तन्द्रप्स᳓ञ्जुहोम्य᳓नु सप्त᳓ [40] हो᳓त्राः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1260,10 +1385,14 @@ I offer in the seven [5] Hotras.
 आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः” ॥   इति ।  
 सोऽयमर्थो द्यामित्यादिनाऽभिधीयते।   द्यामिमं च योनिमनु अन्तरिक्षरूपमिदं स्थानमनु संचरीत।   यश्व पूर्वः, योऽपि पृथिवीमनु चस्कन्देति पूर्वोक्तस्थान विशेषस्त-मप्यनु संचरति।   तृतीयं योनिं द्युलोकरुपमादित्यस्थानमनु संचरति।   तमिमं त्रिषु स्थानेष्वनुसंचरन्तं द्रप्सं जुहोमि मनसा हुतमिव भावयामि।   कुत्र होम इति तदुच्येत – अनु सप्त होत्रा इति।   यस्यां दिशि द्रप्सः पतितस्तद्ब्यतिरिक्ता होमयोग्याः सप्त दिशो याः सन्ति तासु अनुक्रमेण जुहोमि।   यथाऽयं द्रप्सो हुत आदित्यादिस्थानत्रयेषु संचरन्नुपकरोति तथा बावयमत्यर्थः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ विकल्पितां द्वितीयामृचमाह— अभूदिदमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1400,8 @@ I offer in the seven [5] Hotras.
 अ᳓भूदिदव्ँ᳓वि᳓श्वस्य भु᳓वनस्य वा᳓जिनमग्ने᳓र्वैश्वानर᳓स्य च ।  
 अग्नि᳓र्ज्यो᳓तिषा ज्यो᳓तिष्मान्रुक्मो᳓ व᳓र्चसा व᳓र्चस्वान् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1295,6 +1426,7 @@ The disk radiant with radiance.
 
 इदं हिरण्यं विश्वस्व भुवनस्य भूतजातस्य वाजिनमन्नमभूत्।   तथा वैश्वानरस्य च षिस्वेषां नराणां स्वामिनोऽग्नेश्वान्नमभूत्।   अयमग्निर्हिरण्येन ज्योतिषा स्वयं ज्योतिष्मानभूत्।   तथा रुक्मो रोचमानोऽग्निर्वर्चसा हिरण्यकान्त्या वर्चस्वामस्वयमपि कान्तिमानभूत।   अत्र बाह्यप्रभा ज्योतिः।   शरीरर्गतकांन्तिर्वर्च इति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1302,6 +1434,8 @@ The disk radiant with radiance.
 
 रुचे᳓ त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1327,10 +1461,14 @@ For the verse thee, for brilliance thee
 तस्य पुरुषशीर्षस्याऽऽस्यादिच्छिद्रेषु हिरण्यशकलप्रक्षेपं विधत्ते— “व्यृद्धं वा एतत्प्राणैरमेध्यं यत्पुरुषशीर्षममृतं खलु वै प्राणा अमृतँ हिरण्यं प्राणेषु हिरण्यशल्कान्प्रत्यस्यति प्रतिष्ठामवैनद्वमयित्वा प्राणैः समर्धयति” (सं. का. ५ प्र. २ अ. ९) इति।  
 तदेतत्पुरषस्य शिरः प्राणैर्वियुक्तत्वाद्यज्ञानर्हं, प्राणास्तु मरणहीनत्वादमृतमि-त्युच्यन्ते ।   लोके हि प्राणवियोगे सति शरीरस्यैव मरणं न तु प्राणानाम् ।   हिरण्यं चाग्निसंयोगे सति विनाशाभावादमृतम् ।   अतः प्राणसंचारस्थानेष्वास्यादिषु हिरण्य-शकलान्प्रक्षिपेत् ।   तथा सत्युखायां प्रतिष्ठापितं शिरः प्राणैः समृद्धं भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“समित्स्रवन्तीति शतातङ्क्यनां दघ्न मधुमिश्रेण परुषशिरः पूरयति” इति ।   पाठस्तु— समित्स्रवन्तीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1340,6 +1478,8 @@ For the verse thee, for brilliance thee
 घृत᳓स्य धा᳓रा अभि᳓ चाकशीमि ।  
 हिरण्य᳓यो वेतसो᳓ म᳓ध्य आसाम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1368,10 +1508,14 @@ A golden reed is there in the midst of them.
  १९५३ अहं मधव्योऽसानि मधुररसभोगयोग्यो भवानीत्यनेनाभिपायेणैतत्पुरुषशिरो मधुयुक्तेन दघ्ना पूरयेत् ।   तस्य दघ्नो गुणविशेषं विधत्ते— “शृतातङ्क्येन मेध्यत्वाय” (सं. का. ५ प्र. २ अ. ९) इति।  
 द्विविधं दधि, तत्रैकं रजतप्रक्षेपादिना स्वयमेव घनी भवति, अन्यत्तु पक्व क्षीरादातञ्चनेन निप्पद्यते ।   तत्र क्षीरातञ्चनाभ्यां निष्पन्नं यागयोग्यम् ।   तस्मात्तादृशेनैव पूरयेत् ।   तदिदं दधिमधुद्वयं प्रशंसति— “ग्राभ्यं वा एतदन्नं यद्दध्यारण्यं मधु यद्दघ्ना मधुमिश्रेण पूरयत्युभयस्यावरुध्यै” (सं. का. ५ प्र. २ अ. ९) इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“तस्मिन्त्सुपर्णो मधुत्कुलायीति पुरुषशिर आदाय” इति ।    पाठस्तु— तस्मिन्त्सुपर्ण इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1379,6 +1523,8 @@ A golden reed is there in the midst of them.
 त᳓स्मिन्त्सुपर्णो᳓ मधुकृ᳓त्कुलायी᳓ भ᳓जन्नास्ते म᳓धु देव᳓ताभ्यः ।  
 त᳓स्यासते ह᳓रयस्सप्त᳓ ती᳓रे स्वधा᳓न्दु᳓हाना अमृ᳓तस्य धा᳓राम् ॥ [41]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1416,4 +1562,5 @@ Milking at will the stream of ambrosia.
 स्वामिनः पूर्ववन्नैवमध्वर्योर्वचनादिदम्॥  
  य एतमिष्टकामुपदध्यात्स त्रीन्वरान्दद्यात् ” इत्यत्राध्वर्योर्गोत्रयदानं वा चनिकम्।   नह्यति वचनस्यातिभारः॥  
  इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वे-दीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे द्वितीयप्रपाठके  नवमोऽनुवाकः ॥   ९ ॥  
+</details>
 </details>

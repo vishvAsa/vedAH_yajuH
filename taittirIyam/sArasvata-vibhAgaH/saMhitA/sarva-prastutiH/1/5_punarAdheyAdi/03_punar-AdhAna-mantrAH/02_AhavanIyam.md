@@ -2,9 +2,12 @@
 title = "०२ आहवनीयम्"
 +++
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आहवनीये तिस्रोनुवर्तयति । तत्र प्रथमा - अस्येति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
@@ -54,9 +57,12 @@ The bull discerneth the heaven.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5द्वितीया - यत्त्वेत्यनुष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
@@ -107,9 +113,12 @@ Again thee we relight.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ तृतीया - यत्त इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">

@@ -11,6 +11,8 @@ unicode_script: devanagari
 अ᳓ङ्गिरसो वै᳓ **सत्त्र᳓म् आसत** ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रसो॒ वै स॒त्त्रमा॑सत ।
@@ -25,11 +27,14 @@ unicode_script: devanagari
 
 1 अतः परमग्निहोत्रब्राह्मणमग्न्यार्षेयम् - अङ्गिरसो वा इत्यादि ॥ आसिरस्मिन् विषये सकर्मक इत्येके । तत्रासनं नाम कर्मविशेषः, तमकुर्वनित्यन्ये । कंसवधमाचष्टे कंसं घातयतीतिवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम् पृ᳓श्ञिर् **घर्म-धु᳓ग्** आसीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,11 +50,14 @@ unicode_script: devanagari
 
 तेषां पृश्निः शुक्लवर्णा धेनुः घर्मधुक् प्रवर्ग्यार्थस्य पयसो दोग्ध्र्यासीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ +++(सोम-कल्केन=)+++र्जीषे᳓णाजीवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +73,7 @@ unicode_script: devanagari
 
 सा पृश्निस्तदानीमनावृष्ट्या तृणाद्यनिष्पत्तेः ऋजीषेण सोमस्याभिषुतस्य कल्केन अजीवत् प्राणानधारयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -72,6 +81,8 @@ unicode_script: devanagari
 "क᳓स्मै नु᳓ सत्र᳓म् **आस्महे** ।
 +++(वयं)+++ ये᳙ ऽस्या᳓ +++(पृश्न्याः प्रयोजनाय)+++ ओ᳓षधीर् **न᳓ जन᳓याम**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -89,11 +100,14 @@ unicode_script: devanagari
 
 अथ तां तथा जीवन्तीं पश्यन्तोऽङ्गिरसः अब्रुवन् - कस्मै प्रयोजनाय वयं सत्रमास्महे किमन्यत्फलं साधयितुं वयमीहामहे, ये वयं अस्या अस्माकमेवोपकारिण्याः पृश्नेः प्राणयात्रार्थमोषधीः ओषधिमात्रमपि न जनयामः जनयितुं न शक्नुमः इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ दिवो᳓ **वृ᳓ष्टिम् असृजन्त** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,12 +123,15 @@ unicode_script: devanagari
 
 अथ ते तथा मन्यमानाः दिवो वृष्टिमसृजन्त उदपादयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वन्तस् +++(तोय-)+++स्तोका᳓ **अवा᳓पद्यन्त**  
 ता᳓वतीर् ओ᳓षधयो **ऽजायन्त** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,11 +148,14 @@ unicode_script: devanagari
 
 तत्र यावन्तः स्तोकाः उदबिन्दवः पृथिव्यां अवापद्यन्त अवपतन्ति तावत्यः ओषधयोऽजायन्त तज्जलमोषधित्वेन परिणतमभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ **जाताᳶ᳓** +++(भागलिप्सवः)+++ पित᳓रो **विषे᳓णालिम्पन्न्** ॥1॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,11 +171,14 @@ unicode_script: devanagari
 
 पितरोऽग्निहोत्रे भागलिप्सवः ता ओषधीः विषेणालिम्पन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓साञ् **जग्ध्वा᳓** **रु᳓प्यन्त्य्+++(←मोहने)+++ ऐ᳓त्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,12 +194,15 @@ unicode_script: devanagari
 
 अथ सा पृश्निः तासां ओषधीनां विषदिग्धानां **जग्ध्वा** भक्षयित्वा रुप्यन्ती मुह्यन्ती ऐत् आगच्छत्, आङाटोरेकदेश उदात्तः, रुपु विमोहने, दैवादिकं मतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳙ **ऽब्रुवन्** ।
 "क᳓ इद᳓म् इत्थ᳓म् **अकर्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +219,15 @@ unicode_script: devanagari
 
 अथ तां तादृशीं पश्यन्तः अङ्गिरसोऽब्रुवन् - कः इदं ओषधीर्विषमकार्षीदिति । करोतेर्लुङि 'मन्त्रे घस' इत्यादिना च्लेर्लुक्, वेदोपलक्षणत्वान्मन्त्रग्रहणस्य । लङि वा 'बहुलं छन्दसि' इति शपो लुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वय᳓म् भाग-धे᳓यम् **इच्छ᳓माना**" इ᳓ति पित᳓रो **ऽब्रुवन्** ।  
 "किव्ँ᳓ वो भाग-**धे᳓यम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,11 +245,14 @@ unicode_script: devanagari
 अथ पितरोऽब्रुवन् - भागधेयमिच्छन्तो वयमकार्ष्मेति ।  
 अथाङ्गिरसोऽब्रुवन् - किं वो युष्माकं भागधेयं यत् दद्म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अग्नि-होत्र᳓ एव᳓ नो᳓ऽप्य् अस्त्व्" इ᳓त्य् **अब्रुवन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -236,12 +268,15 @@ unicode_script: devanagari
 
 अथ पितरोऽब्रुवन् - अग्निहोत्रे अस्माकमप्यस्त्विति अग्निहोत्र एव वयमपि भागिनौ भूयास्मेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्य एत᳓द् भाग-धे᳓यम् **प्रा᳓यच्छन्न्**  
 य᳓द् **धुत्वा᳓ निमा᳓र्ष्टि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,11 +293,14 @@ unicode_script: devanagari
 
 अथाङ्गिरसस्तेभ्यो भागत्वेन एतत्प्रायच्छन् यद्धुत्वा निमार्ष्टि 'स्वधा पितृभ्यः' इति, ततः प्रभृति पितृभ्योऽङ्गिरोभिर्दत्तमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ त᳓ ओ᳓षधीर् **अस्वदयन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,12 +316,15 @@ unicode_script: devanagari
 
 ततस्ते पितर ओषधीरपगतविषभागा अस्वदयन् स्वादूकृतवन्तः । छान्दसः उपधावृद्ध्यभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ **वे᳓द**  
 **स्व᳓दन्ते** ऽस्मा ओ᳓षधयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +341,7 @@ unicode_script: devanagari
 
 एवं वेदित्रे ओषधयस्स्वदन्ते स्वादूभवन्ति । 'स्वद ष्वद आस्वादने' भौवादिकः, अनुदात्तेत् ।
 </details>
+</details>
 
 ## वत्स-वरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +349,8 @@ unicode_script: devanagari
 ते᳓ वत्स᳓म् **उपा᳓वासृजन्न्** -  
 "इद᳓न् नो हव्य᳓म् **प्र᳓दापये᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,6 +367,7 @@ unicode_script: devanagari
 
 2 ते वत्समित्यादि ॥ उपावासृजन् दोहनार्थं मातृसकाशं प्रापयत् वत्सम् । केनाभिप्रायेण? इदमूधस्स्थं दुग्धाख्यं अस्मभ्यं प्रदापय, यथेयं पस्तुतस्तनी अस्मभ्यं भूरि दुग्धं प्रददाति तथा कुर्विति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -330,6 +375,8 @@ unicode_script: devanagari
 द᳓श मा रा᳓त्रीर् जात᳓न् **न᳓ दोहन्** ।  
 आसङ्गव᳓म् मात्रा᳓ सह᳓ **चराणी᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,11 +396,14 @@ unicode_script: devanagari
 दशरात्रीः मदर्थं जातं दुग्धं न दोहन् न दुद्युः, मज्जन्मन आरभ्य दशरात्रीरिति प्रतिपादनार्थं जातग्रहणम् । दुहेर्व्यत्ययेन शप् ।  
 आसंगवं च मात्रा सह चराणीति । मर्यादायामाकारः । द्वितीयोऽर्धप्रहरस्संगवः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वत्स᳓ञ् **जात᳓न्** द᳓श रा᳓त्रीर् **न᳓ दुहन्ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,11 +420,14 @@ unicode_script: devanagari
 तस्मादित्यादि ।  
 गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसङ्गव᳓म् मात्रा᳓ सह᳓ **चरति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,12 +438,15 @@ unicode_script: devanagari
 
 आ । सङ्गव᳓म् । मात्रा᳓ । सह᳓ । चरति ।
 </details>
+</details>
 
 ## रुद्राद् अपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓रे-वृतँ ह्य् अ᳙स्य +++(रुद्रस्य)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -411,11 +467,14 @@ unicode_script: devanagari
 सायं प्रातश्च होमार्थं दुग्धं पिबन्तं वत्सं  
 पशूनां पतित्वात् देवः स्वयमेव दण्डयतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वत्सँ᳓ **+++(होमार्थ-)+++सँसृष्ट+++(-दुग्ध)+++-धयँ᳓** रुद्रो᳓ **घा᳓तुकः** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -426,11 +485,14 @@ unicode_script: devanagari
 
 त᳓स्मात् । वत्स᳓म् । सं-सृष्टधय᳓म् । रुद्रः᳓ । घा᳓तुकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यतः-)+++ अ᳓ति हि᳓ सन्धा᳓न् +++(=समयं)+++ **ध᳓यति**+++(=पिबति)+++ ॥3॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,4 +509,5 @@ unicode_script: devanagari
 हेतुं चाह - अति हीत्यादि । **अतीत्य** संधां **संधानं** समयं स्वयं पिबति वत्सः, तं तु देवो न सहत इति । 'आतश्चोपसर्गे' इत्यङ्, 'हि च' इत्याख्यातस्य निघाताभावः
 
 इति तैत्तिरीयब्राह्मणे द्वितीयेऽष्टके प्रथमे प्रथमोऽनुवाकः ।
+</details>
 </details>

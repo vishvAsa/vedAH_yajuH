@@ -3,6 +3,8 @@ title: ०८ अथर्व-शिर-इष्टकाः - इन्द्�
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 नक्षत्रेष्टिकाण्डम्‌॥
@@ -12,6 +14,7 @@ unicode_script: devanagari
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1 अथर्वशिरो दशाविषक्ताः शिरस्युपदधाति - इन्द्रो दधीच इत्याद्याः ॥ सर्वा गायत्र्यः । 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/13_indro_dadhIcho.md">

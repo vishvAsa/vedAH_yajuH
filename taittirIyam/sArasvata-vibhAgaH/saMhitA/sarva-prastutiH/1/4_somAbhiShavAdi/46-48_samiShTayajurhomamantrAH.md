@@ -4,9 +4,12 @@ title = "४८ समिष्टयजुर्होममन्त्रा�
 १-६ त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1समिष्टयजूंषि जुहोति । षडृग्मियाणि जुहोति, त्रीणि यजूंषि । 'यद्वै यज्ञस्य क्रूरम्' इत्यादि ब्राह्मणम्  । तत्र प्रथमा - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
@@ -53,9 +56,12 @@ Wealth with offspring to the sacrificer.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
@@ -104,9 +110,12 @@ With loving kindness of the gods to whom sacrifice is made.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ तृतीया - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
@@ -153,9 +162,12 @@ May he set right whatever is amiss in our bodies.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ चतुर्थी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
@@ -206,9 +218,12 @@ Come wise and foreseeing one to the sacrifice.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ पञ्चमी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
@@ -258,9 +273,12 @@ Ye all, give to us, wealthy ones, wealth.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ षष्ठी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
@@ -309,6 +327,8 @@ The rich draught, do ye mount the sky.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7यज्ञ यज्ञमित्यादीनि त्रीणि यजूंषि ॥ 
@@ -318,6 +338,7 @@ _______
 
 यज्ञ॑ य॒ज्ञङ्ग॑च्छ य॒ज्ञप॑तिङ्गच्छ॒ स्वाय्ँयोनि॑ङ्गच्छ॒ स्वाहा 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,6 +347,8 @@ _______
 स्वाय्ँ᳓ यो᳓निङ् गच्छ ।  
 स्वा᳓हा  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +375,15 @@ hail!
 
 हे यज्ञ यज्ञं परमात्मानं विष्णुं गच्छ येन त्वं प्रतिष्ठितस्याः । अनन्तरं यज्ञपतिं यज्ञपालयितारं यजमानं गच्छ फलप्रदानेन । अनन्तरं च स्वात्मात्मीयां योनिं गच्छ, योनिः कारणं सर्वपरिस्पन्दहेतुर्वार्ताख्या परमेश्वरस्य क्रियाशक्तिः । यथा - 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' इति । तां गच्छ । स्वाहा स्वाहुतमिदमाज्यमग्नयेस्त्विति ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ द्वितीयम् - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -366,6 +393,8 @@ _______
 सुवी᳓रस्  
 स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -388,20 +417,25 @@ hail!
 
 हे यज्ञपते यजमान एष यज्ञस्सहसूक्त वाकः सूक्तवाकसहितः विविधस्तोत्रकः सुवीरः शोभनैर्वीरैः पुत्रपौत्रादिभिर्युक्तः तद्धेतुतां प्रतिपाद्यमानः ते तव स्वाहुतमिदमाज्यमग्नयेस्तुइत्थमिदं तव भूयादिति ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीयम् - 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/devA_gAtuvidaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वा गातुविदो+++(=गतिज्ञाः)+++ गातुव्ँ᳓+++(=मार्गं)+++ वित्वा᳓+++(=लब्ध्वा)+++ **गातु᳓म् इत** +++(=गच्छत)+++।
 म᳓नसस्पत इम᳓न् नो देव देवे᳓षु यज्ञं᳓  +++(धाः)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -439,16 +473,22 @@ ___________
 एवं हि सरस्वत्याह । तदनन्तरं वाचि वाग्देवतायां शाब्दे ब्रह्मणि धाः स्थापय । ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय, यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' इत्यादि ब्राह्मणम् , 'वासिष्ठो ह सात्यहव्यः' इत्यादि च ॥
 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒चि स्वाहा॒ वाते॑ धाः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यज्ञं᳓)+++ वाचि᳓ +++(धाः)+++ स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,11 +511,14 @@ In speech, hail!
 
 वाचि धा इति सरस्वत्याह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ते धाः ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,10 +539,13 @@ in/or the wind, hail!
 
 ततः पश्चादिमं यज्ञं वाते सर्वक्रियाधारे धाः स्थापय । यस्मादयं यज्ञः प्रयुक्तः तत्रैव वाते स्थापय । 'वाताद्वा अध्वर्युर्यज्ञं प्रयुङ्क्ते' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् । दधातेः लेटि 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक्, 'इतश्च लोपः परस्मैपदेषु' (पा.सू. 3.4.98) इतीकारलोपः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवा गातुविद इति ॥ व्याख्यातं 'वाजस्य मा प्रसवेन' इत्यत्र ।   
+</details>
 </details>

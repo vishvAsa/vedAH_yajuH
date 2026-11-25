@@ -4,15 +4,20 @@ title = "१२ अश्वदानवतो वारुणीष्टिः
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ति॒र्वरु॑णा॒याश्व॑मनय॒त्स स्वान्दे॒वता॑मार्च्छ॒त्स पर्य॑दीर्यत॒ स ए॒तव्ँवा॑रु॒णञ्चतु॑ष्कपालमपश्य॒त्तन्निर॑वप॒त्ततो॒ वै स व॑रुणपा॒शाद॑मुच्यत॒ वरु॑णो॒ वा ए॒तङ्गृ॑ह्णाति॒ योऽश्व॑म्प्रतिगृ॒ह्णाति॒ याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात्ताव॑तो वारु॒णाञ्चतु॑ष्कपाला॒न्निर्व॑पे॒द्वरु॑णमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ स ए॒वैनव्ँ॑वरुणपा॒शान्मु॑ञ्चति [46] चतु॑ष्कपाला भवन्ति॒ चतु॑ष्पा॒द्ध्यश्व॒स्समृ॑द्ध्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्व᳓रुणाया᳓श्वमनयत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ Prajapati led the horse to Varuna,
 
 1प्राजापत्यो वा अश्व इति ॥+++(इदं प्रतीकं मूले न दृश्यते)+++ प्रजापतिरात्मदेवत्यमश्वं वरुणायानयत् अददात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ स्वा᳓न्देव᳓तामार्च्छत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,11 +66,14 @@ it went to its own deity,
 
 सोश्वं ददन्स्वमात्मानमश्वस्य देवतामार्छत् आर्तामकरोत्, ईशितव्यापगमात् देवतात्वहानिरेवार्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प᳓र्यदीर्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -83,12 +94,15 @@ he was afflicted;
 
 ततश्च स प्रजापतिः विगळितदेवताभावः परितस्सर्वतोऽदीर्यत विपन्नोभवत् वरुणपाशैर्गृहीत इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एतव्ँ᳓वारुण᳓ञ्च᳓तुष्कपालमपश्यत् ।  
 त᳓न्नि᳓रवपत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,11 +125,14 @@ he saw this (offering) to Varuna on four potsherds, he offered it;
 तदेवाह - वरुणो वा इत्यादि ।  
 ननु प्रतिग्रहीतुरिदमुच्यते ; प्रतिगृह्णातीतिदर्शनात् । नैवम् । उपक्रमावगतदातृश्रुतिविरोधात् ; दातृविषयमेवेदं विपरिणम्यते । उक्तं चेदं न्यायविधिः 'अवैदिकं च [अचोदितं] कर्मभेदात्' इत्यत्र 'सालिङ्गादार्त्विजे स्यात्' इति । तस्मादुपक्रमोपसंहाराविरोधात्मकलिङ्गबलेन प्रतिग्राहयतीत्यर्थो युज्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ वरुणपाशा᳓दमुच्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -136,11 +153,14 @@ then indeed was he set free from Varuna's noose.
 
 तस्माद्दाता प्रजापतिः वारुणेन चतुष्कपालेन वरुणपाशादमुच्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणो वा᳓ एत᳓ङ्गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +201,14 @@ Varuna seizes him
 
 ततो वरुणो वरुणपाशादमुच्यत । वारकं वा पापं वरुणः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ऽश्वम्प्रतिगृह्णा᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,11 +233,14 @@ who accepts the horse.
 
 यो नाम कश्चित् वरुणाख्यो वा अश्वं प्रतिगृह्णाति वरुण एनं गृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वतो᳓ऽश्वान्प्रतिगृह्णीया᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -235,11 +261,14 @@ As many horses as he accepts, so many (offerings) to Varuna should he offer; ver
 
 +++(याव॒तोऽश्वा॑न्प्रतिगृह्णी॒यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓वतो वारुणा᳓ञ्च᳓तुष्कपालान्नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,16 +299,22 @@ As many horses as he accepts, so many (offerings) to Varuna should he offer; ver
 
 'इन्द्रो वै सदृङ् देवताभिरासीत्' इत्यत्र यथा इन्द्र आत्मार्थमैन्द्रमानुषूकमेकादशकपालं विदधाति, यथा 'वरुणं सुषुवाणम्' इत्यत्र वरुणो वारुणीं वशामालभते एवमिदं भविष्यति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॒मति॑रिक्त॒न्निर्व॑पे॒द्यमे॒व प्र॑तिग्रा॒ही भव॑ति॒ यव्ँवा॒ नाध्येति॒ तस्मा॑दे॒व व॑रुणपा॒शान्मु॑च्यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कम᳓तिरिक्तन्नि᳓र्वपेत्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,6 +335,7 @@ He should offer an extra one;
 
 2एकमतिरिक्तमिति ॥ यावतः प्रतिगृह्णीयात्तेभ्योतिरिक्तं निर्वपेत् ; यथा षट्प्रतिगृह्य सप्तमं निर्वपेदिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -307,6 +343,8 @@ He should offer an extra one;
 यव्ँ᳓वा ना᳓ध्ये᳓ति ।  
 त᳓स्मादेव᳓ वरुणपाशा᳓न्मुच्यते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,10 +367,14 @@ whatever (horse) he is going to accept or whatever (horse) he has overlooked, fr
 
 यमेवेति । यं प्रतिग्रहीष्यन्भवति यं वा पूर्वप्रतिगृहीतं नाध्येति नाधिगच्छति न स्मरति वा तस्मात्सर्वस्मान्निमित्तात् उपजाताद्वरुणपाशान्मुच्यते । 'अकेनोर्भविष्यदाधमर्ण्ययोः' इति षष्ठीप्रतिषेधः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्यप॑रम्प्रतिग्रा॒ही स्यात्सौ॒र्यमेक॑कपाल॒मनु॒ निर्व॑पेद॒मुमे॒वादि॒त्यमु॑च्चा॒रङ्कु॑रुते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +382,8 @@ whatever (horse) he is going to accept or whatever (horse) he has overlooked, fr
 य᳓द्य᳓परम्प्रतिग्राही᳓ स्या᳓त् ।  
 सौर्य᳓मे᳓ककपालम᳓नु नि᳓र्वपेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,11 +405,14 @@ If he is going to accept another, he should offer in supplement an offering to S
 
 3यद्यपरमिति ॥ अश्वप्रतिग्राही कृत्वापि वारुणीमिष्टिं यदि भूयोपि प्रतिग्रहीष्यन् स्यात्सौर्यमेककपालमनुनिर्वपेत् । अपरमिति क्रियाविशेषणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमु᳓मेवा᳓दित्य᳓मुच्चार᳓ङ्कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,16 +433,22 @@ verily he makes yonder sun to rise.
 
 अमुमादित्यमुच्चारं उच्छ्रिताचारं उपरि चरन्तं वा कुरुते, ततस्स एव वरुणपाशादिदोषं परिहरिष्यतीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अपो॑ऽवभृ॒थमवै॑त्य॒प्सु वै वरु॑णस्सा॒क्षादे॒व वरु॑ण॒मव॑ यजतेऽपोन॒प्त्रीय॑ञ्च॒रुम्पुन॒रेत्य॒ निर्व॑पेद॒प्सुयो॑नि॒र्वा अश्व॒स्स्वामे॒वैनय्ँ॒योनि॑ङ्गमयति॒ स ए॑नँ शा॒न्त उप॑ तिष्ठते ॥ [47]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपो᳙ऽवभृथ᳓म᳓वैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -420,11 +473,14 @@ He goes to the waters as the final bath, Varuna is in the waters;
 
 'अपोनप्त्रपांनप्तृभ्यां घः' 'छ च' इति छप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सु᳓ वै᳓ व᳓रुणस्साक्षा᳓देव᳓ व᳓रुणम᳓व यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -445,11 +501,14 @@ verily straightway he appeases Varuna.
 
 अपांनप्ता चतुर्थः अपोनप्ता । छान्दसो युगगं [सोलुक्] ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपोनप्त्रीय᳙ञ्चरु᳓म् पु᳓नरे᳓त्य नि᳓र्वपेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,11 +524,14 @@ After his return he should offer an oblation to Apam Napat;
 
 अ॒पो॒न॒प्त्रीय॒मित्य॑पः-न॒प्त्रीय॑म् । च॒रुम् । पुनः॑ । एत्येत्या॑-इत्य॑ । निरिति॑ । व॒पे॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सु᳓योनिर्वा᳓ अ᳓श्वस्स्वा᳓मेवै᳓नय्ँयो᳓निङ्गमयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -490,11 +552,14 @@ the horse has its birthplace in the waters; verily he makes him go to his own bi
 
 अप्सुयोनिरिति । 'अपो योनियन्मतुषु सप्तम्या अलुक्' इत्यलुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एनँ शान्त᳓ उ᳓प तिष्ठते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -516,4 +581,5 @@ appeased he attends on him.
 शान्त इति । निवृत्तवरुणपाशादिदोषस्सुखहेतुरेवोपतिष्ठते मित्रवदुपसंप्राप्नोति ॥
 
 इति तृतीये द्वादशोनुवाकः ॥  
+</details>
 </details>

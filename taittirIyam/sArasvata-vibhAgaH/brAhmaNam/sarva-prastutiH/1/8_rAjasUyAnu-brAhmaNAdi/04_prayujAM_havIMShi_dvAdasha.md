@@ -8,6 +8,8 @@ unicode_script: devanagari
 आग्नेय᳓मष्टा᳓कपालन्नि᳓र्वपति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति ।
@@ -22,11 +24,14 @@ unicode_script: devanagari
 
 1 आग्नेयमित्यादि ॥ अत्र प्रयुजां हवींषि द्वादश भवन्ति 'आग्नेयमष्टाकपालं निर्वपति सौम्यं चरुम्' इत्यादीनि । एतानि द्वितीयं शैशिरं समारुह्य ऋतं निरुप्यन्ते । वक्ष्यति च - 'मासिमास्येतानि हवींषि निरुप्याणीत्याहुः । तेनैवर्तून् प्रयुङ्क्ते'इति । ऋतुधर्माणां यथायथं प्रकॢप्तिः प्रयुक्तिः । तद्धेतवोऽग्न्यादयः प्रयुजः, तेषामेतानि हवींषि । तद्धेतुत्वं तेषामेतैर्हविर्भिः भवतीति । तच्च शैशिरयोः द्वितीये आग्नेयमष्टाकपालं निर्वपति । यस्मादत्र सर्वपाचकोऽग्निः हविषा आराध्यते 'तस्माद्विस्संवत्सरस्य सस्यं पच्यते' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच्छि᳓शिरे कुरुपञ्चालाᳶ᳓ प्रा᳓ञ्चो यान्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -42,11 +47,14 @@ unicode_script: devanagari
 
 तत्परराष्ट्रेभ्योऽपहर्तुं कुरुपञ्चालाः कुरवः पञ्चालाश्च क्षत्रियाः शिशिरे मासि प्राञ्चो यान्ति ते दिशो जेतुं प्रारभन्ते । यद्वा - प्राच्यामेव जेतव्याः तेषामिति गम्यते । यद्वा - कुरुपञ्चालवासिनो जनाः पक्वसस्यग्रहणाय प्राञ्चो यान्ति प्राच्यामेव तेषां केदारसम्भवात् । तत्र कुरुपञ्चालग्रहणं निदर्शनं सर्वक्षत्रियाणाम्, पुष्टत्वात्तु तेषां ग्रहणम् । ऋतुधर्माणां च तत्र विपर्यासात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓ञ्चरु᳓म् +++(निर्वपति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,11 +72,14 @@ unicode_script: devanagari
 यस्मादन्नस्य देवता सोमोऽत्र चरुणा इज्यते, तस्माद्वसन्तं वासन्तिकं प्रथममासं व्यवसाय अनुप्राप्तोऽयमिति निश्चित्य आदयन्ति परकीयमन्नमुपहृत्य भुञ्जानाः प्रजा अनुजानन्ति राजानः वसन्तः समुपस्थितो भुञ्जतां काममिति ।  
 यद्वा मृष्टं भोजयन्ति सर्वानात्मीयान्, तत्र समृद्धधान्यत्वात् सर्वेषाम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्वसन्तव्ँ᳓ व्यवसा᳓यादयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,11 +90,14 @@ unicode_script: devanagari
 
 त᳓स्मात् । वसन्त᳓म् । व्यवसा᳓यात् । अयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्र᳓न्द्वा᳓दशकपालम् +++(निर्वपति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,11 +113,14 @@ unicode_script: devanagari
 
 3 अथ द्वितीये वासन्तिके सावित्रं द्वादशकपालं निर्वपति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्पुर᳓स्ताद्य᳓वानाँ सवित्रा᳓ वि᳓रुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,11 +141,14 @@ unicode_script: devanagari
 इदं प्रथमपक्वधान्योपलक्षणं यवग्रहणम् ।  
 प्रथमं यवादीन् पक्वान् गृह्णन्तीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्हस्पत्य᳓ञ्चरु᳓म् +++(निर्वपति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,11 +165,14 @@ unicode_script: devanagari
 4 अथ ग्रैष्मयोः प्रथमे बार्हस्पत्यं चरुं निर्वपति ॥  
 यस्मादत्र बृहस्पतिर्ब्राह्मण आराध्यते तस्मात्पूर्वमेव सवित्रा विरुध्य आत्मीयं कृत्वा इदानीं ब्रह्मणा ब्राह्मणानुज्ञयैव यवानादधते ब्राह्मणाय किंचिद्दत्वैव स्थापयन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवित्रै᳓व᳓ विरु᳓ध्य ब्र᳓ह्मणा य᳓वाना᳓दधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,11 +184,14 @@ unicode_script: devanagari
 
 सवित्रा᳓ । एव᳓ । वि-रु᳓ध्य । ब्र᳓ह्मणा । य᳓वान् । आ᳓ । दधते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वाष्ट्र᳓मष्टा᳓कपालम् +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,11 +208,14 @@ unicode_script: devanagari
 5 अथ द्वितीये ग्रैष्मे त्वाष्ट्रमष्टाकपालं निर्वपति ॥  
 तत्र रूपाणां विकर्तुः त्वष्टुरिज्यया रूपाणि तण्डुलकुल्माषादीन्यन्नस्य रूपाणि बहुप्रकाराणि कुर्वते उत्पादयन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपा᳓ण्येव᳓ ते᳓न कुर्वते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,11 +226,14 @@ unicode_script: devanagari
 
 रूपा᳓णि । एव᳓ । ते᳓न । कुर्वते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वानर᳓न्द्वा᳓दशकपालम् +++(निर्वपति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,11 +250,14 @@ unicode_script: devanagari
 6 अथ प्रथमे वार्षिके वैश्वानरं द्वादशकपालं निर्वपति ॥  
 यस्मादत्र विश्वेषां नराणां स्वामित्वेन संबन्धी पुष्ट्यादिप्रवृत्तिहेतुरिज्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माज्जघन्ये᳙ नै᳓दाघे प्रत्य᳓ञ्चᳵ कुरुपञ्चाला᳓ यान्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,11 +273,14 @@ unicode_script: devanagari
 
 तस्माज्जघन्ये नैदाघे निदाघसमाप्तेः काले वर्षाणामारम्भे प्रत्यञ्चः कुरुपञ्चालाः यान्ति परराष्ट्राणि मृदित्वा अपहृतसर्वस्वाः स्वदेशं गच्छन्ति दिग्विजयान्निवर्तन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वत᳓ञ्चरु᳓न्नि᳓र्वपति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,11 +299,14 @@ unicode_script: devanagari
 प्रौष्ठपद्यां पौर्णमास्यां उपाकृत्य वैदिकीर्वदन्ति ।  
 प्रजास्सर्वाः पानीयतृप्ताः हाहारवं कुर्वन्ति कर्षकाश्च कृषिवृद्धिमुत्पत्स्यन्तो देवान् स्तुवन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्प्रावृ᳓षि स᳓र्वा वा᳓चो वदन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,11 +317,14 @@ unicode_script: devanagari
 
 त᳓स्मात् । प्र । अवृ᳓षि । स᳓र्वाः । वा᳓चः । वदन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्णे᳓न व्य᳓वस्यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,11 +340,14 @@ unicode_script: devanagari
 
 8 अथ प्रथमे शारदे पौष्णं चरुं निर्वपति ॥ व्यवस्यन्ति तस्य पुष्टिहेतुत्वादेतावतीं भूमिं कृषामीति निश्चयं कुर्वन्ति । अथ द्वितीये शारदे मैत्रं चरुं निर्वपति । तस्य कृषिहेतुत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्रे᳓ण कृषन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -316,11 +363,14 @@ unicode_script: devanagari
 
 अस्मिन् मासि कृषन्ते क्षेत्रं विलिखन्ति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणे᳓न वि᳓धृता आसते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -336,11 +386,14 @@ unicode_script: devanagari
 
 अथ प्रथमे हैमन्तिके वारुणं चरुं निर्वपति । तस्य वारकत्वेन औदसीन्यहेतुत्वादस्मिन्मासि विधृताः निवृत्तव्यापाराः प्रत्युप्तक्षेत्राः प्रजा गृहेष्वासते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षैत्रपत्ये᳓न पाचयन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,11 +409,14 @@ unicode_script: devanagari
 
 अथ हैमन्ते द्वितीये क्षैत्रपत्यं चरुं निर्वपति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓ना᳓दधते ॥13॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,12 +432,15 @@ unicode_script: devanagari
 
 अथ प्रथमे शैशिरे आदित्यं चरुं निर्वपति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मासि᳓मास्येता᳓नि हवीँ᳓षि निरु᳓प्याणी᳓"त्याहुः ।
 ते᳓नैव᳓र्तू᳓न्प्र᳓युङ्क्त इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,11 +457,14 @@ unicode_script: devanagari
 
 9 मासिमासीत्यादि ॥ एवं प्रतिमासं एकमेकं निरुप्याणि निर्वप्तव्यानि । छान्दसः क्विप् । तेन प्रयोगेण ऋतून् प्रयुङ्के ऋजुधर्मान्यथायथं प्रवर्तयन्ति । तस्मान्मासिमासि निर्वप्तव्यानीत्याहुरेके ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो ख᳓ल्वाहुः- "क᳓स्सव्ँवत्सर᳓ञ्जीविष्यती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,11 +481,14 @@ unicode_script: devanagari
 
 अथो खलु अन्य आहुः - कस्संवत्सरं जीविष्यतीति एवं संवत्सरं जीविष्यामीति निश्चित्य को जीविष्यति तस्मान्मासिमासि निर्वप्तुमयुक्तमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓डेव᳓ पूर्वेद्यु᳓र्निरु᳓प्याणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,11 +506,14 @@ unicode_script: devanagari
 गतम् ।  
 तेन षट्त्वान्वयेनैव ऋतून् प्रयुङ्क्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓डुत्तरेद्युः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -456,11 +524,14 @@ unicode_script: devanagari
 
 ष᳓ट् । उत्तरेद्युः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैव᳓र्तू᳓न्प्र᳓युङ्क्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -471,11 +542,14 @@ unicode_script: devanagari
 
 ते᳓न । एव᳓ । ऋतू᳓न् । प्र᳓ । युङ्क्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणो रथवाहनवाहᳶ᳓ पू᳓र्वेषान्द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,11 +567,14 @@ unicode_script: devanagari
 दक्षिणतो युक्तो रथवाहनवाहो बलीवर्दो दक्षिणा देया पूर्वेषां षण्णां षड्ढविष्कस्य यागस्य ।  
 रथ एव वाहनं तस्य वोढा रयवाहनवाहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तर उ᳓त्तरेषाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,11 +590,14 @@ unicode_script: devanagari
 
 उत्तरः उत्तरतो युक्त उत्तरेषामुतरेद्युः निर्वप्तव्यानां उत्तरस्य यागस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सर᳓स्यैवा᳓न्तौ युनक्ति सु᳓वर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ॥14॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,4 +615,5 @@ unicode_script: devanagari
 10 संवत्सरस्येति ॥ संवत्सरस्यान्तौ पार्श्वे स्थितौ वोढारौ बलीवर्दौ युनक्ति सुवर्गस्य लोकस्य सम्यक्प्राप्त्यर्थम् । यद्वा - संवत्सरस्याद्यन्तौ दिवसौ बलीवर्दस्थानीयौ युनक्ति । आदिरप्यन्त एव ॥
 
 इति अष्टमे चतुर्थोऽनुवाकः ॥
+</details>
 </details>

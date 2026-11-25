@@ -5,6 +5,8 @@ title = "०७ सोमक्रयः"
 
 ## हिरण्य-पणः
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1हिरण्येन पणते - सोमं त इति ॥
@@ -26,6 +28,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -36,6 +39,8 @@ ________
 सम्य᳓त्+++(→यथा)+++ ते गोः᳓+++(=वाचः [यथा तथा क्रीणामि])+++ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 I buy Soma from thee,  
@@ -44,16 +49,22 @@ the pure with the pure I buy,
 the bright with the bright, the immortal with the immortal,  
 to match thy cow.
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोम॑न्ते क्रीणा॒म्यूर्ज॑स्वन्त॒म्पय॑स्वन्तव्ँवी॒र्या॑वन्तमभिमाति॒षाहँ॑ शु॒क्रन्ते॑ शु॒क्रेण॑ क्रीणामि च॒न्द्रञ्च॒न्द्रेणा॒मृत॑म॒मृते॑न स॒म्यत्ते॒ गोः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मन् ते क्रीणामि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,12 +90,15 @@ I buy Soma from thee.
 
 हे सोम-विक्रयिन्न्, अहं त्वदीयं सोमं क्रीणामि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्जस्वन्तम् प᳓यस्वन्तव्ँ वीर्या᳙वन्तम् अभिमातिषा᳓हम्  
 शुक्र᳓न् ते शुक्रे᳓ण क्रीणामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,11 +128,14 @@ the pure with the pure I buy.
 
 कीदृशम्? ऊर्जस्वन्तं शारीर-बल-प्रदं, पयस्वन्तं प्रभूत-रसोपेतं, वीर्यावन्तम् इन्द्रिय-पाटव-हेतुम्। अमिमाति-षाहं पाप-रूपस्य वैरिणो हन्तारम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓ञ् चन्द्रे᳓णामृ᳓तम् अमृ᳓तेन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,11 +162,14 @@ the bright with the bright, the immortal with the immortal.
 
 शुक्र-चन्द्रामृत-शब्दैर् अभिधेयास् तेजः-सुखाविनाशास् त्वदीय-सोमे ऽस्म-दीय-हिरण्ये च समाः। अतो हिरण्येन सोमं क्रीणामि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्य᳓त् ते गोः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,8 +195,11 @@ to match thy cow.
 
 न केवलं हिरण्यं तुभ्यं दीयते किंतु समीचीनं गोर् एकहायनी-स्वरूपम् अपि पूर्वं दत्तं तस्मात् तव हिरण्य-लाभो ऽधिकः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2यजमानाय प्रयच्छति हिरण्यं - अस्मे इति ॥
@@ -191,11 +214,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे᳓+++(=अस्माकमेव)+++ चन्द्रा᳓णि+++(=हिरण्यानि [न सोमविक्रयिणः])+++ । +++(चन्द्रेण क्रीणामीति तु छलमात्रम् उक्तम् इति । अस्मान् एव हिरण्यं पुनः प्राप्नोत्व् इत्य् अर्थः । )+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>प्रदीपसिंहः</summary>
 
@@ -231,9 +257,12 @@ With us be the gold.
 
 अस्मास्व् एव हिरण्यानि चन्द्राणि तिष्ठन्तु। बहु-वचनं व्यत्ययेन द्रष्टव्यम्।
 </details>
+</details>
 
 ## अजया क्रयणम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अजया क्रीणाति - तपस इति ॥
@@ -254,12 +283,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अजे!)+++ त᳓पसस् तनू᳓र् असि प्रजा᳓पतेर् व᳓र्णः+++(=स्वरूपम्)+++।  
 त᳓स्यास् ते सहस्रपोष᳓म् पु᳓ष्यन्त्याश् चरमे᳓ण पशु᳓ना क्रीणामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,17 +324,23 @@ I buy (Soma) with the last offspring of thee that hast a thousandfold prosperity
 
 हे अजे, त्वं तपसः पुण्यस्य शरीरम् असि। यज्ञ-निष्पादकस्य सोमस्य द्यु-लोके त्वयैवावरुद्धत्वात्। वर्ण्यत इति वर्णो देहः, प्रजापतेर् वर्णो ऽसि। प्रजापति-वत् सर्व-देवात्मकत्वात्। तच् चौपानुवाक्य-काण्ड आम्नातम् — ‘सा वा एषा सर्व-देवत्या यद् अजा’ इति। किं च त्वम् अपत्य-परम्परया सहस्र-संख्यातं पुष्यसि। तादृश्यास् तव संबन्धिना चरमेण सहस्र-तमेन पशुना सोमं क्रीणामि न तु त्वया। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4यजमानमीक्षते - अस्मे त इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे᳓+++(=वयं)+++ ते ब᳓न्धुः+++(=बन्धवः)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -333,17 +371,23 @@ With us be union with thee.
 
 अहं तव बन्धुस् त्वत्-संपादितस्य सोमस्य कर्मणि प्रवृत्तत्वाद्,
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5आत्मानमीक्षते - मयीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि ते रा᳓यश् श्रयन्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -413,8 +457,11 @@ with me let thy wealth abide.
 
 अभीषहा बलात्कारेण। 'को हीत्यादिर्' देवानाम् अभिप्रायः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमानं शुक्लोर्णुकया क्षिपति - अस्मे ज्योतिरिति ॥
@@ -429,11 +476,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे᳓+++(=अस्माकम्)+++ ज्यो᳓तिः ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>प्रदीपसिंहः</summary>
 
@@ -464,8 +514,11 @@ With us be light.
 
 अविलोमभिर् निर्मित-तन्तुर् ऊर्णास्तुका। स च शुक्ला ज्योतिः-स्वरूपा। तज्-ज्योतिर् अस्मास्व् अवतिष्ठताम्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णोर्णया सोम-विक्रयिणं विध्यति।
@@ -480,11 +533,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमविक्रयि᳓णि त᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -522,10 +578,13 @@ darkness be on the Soma-seller.
 
 कृष्णया विध्येत्। तां समां तं संवत्सरं कृत्स्नम्। 'इदम् अहम्' इत्यादि-मन्त्रेण सर्प-दंशस्य परिहारः।
 </details>
+</details>
 
 ## सोमग्रहणम्
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8सोमविक्रयिणस्सोममादत्ते - मित्र इति ॥
@@ -540,11 +599,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रो᳓ न ए᳓हि सु᳓मित्रधाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +632,15 @@ Come as a friend to us, creating firm friendships.
 
 शोभनं मित्रं सोमरूपं यस्य यजमानस्य स यजमानः सु-मित्रस् तं दधाति पोषयतीति सु-मित्र-धाः। हे सोम, सु-मित्र-धास् त्वम् अस्माकं मित्रः प्रियो भूत्वा समागच्छ।  
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9यजमानस्य दक्षिण ऊरावासादयति - इन्द्रस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -582,6 +648,8 @@ ________
 इ᳓न्द्रस्योरु᳓म् आ᳓ विश द᳓क्षिणम्, उश᳓न्न् उश᳓न्तम्+++(=कामयमानं)+++, स्योन᳓स्+++(=सुखस्)+++ स्योन᳓म्।  
 +++('देवा वै यँ सोमं' इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -609,8 +677,11 @@ Enter the right thigh of Indra, glad the glad, tender the tender.
 
 हे सोम, इन्द्रस्य यजमानस्य दक्षिणम् ऊरुम् आविश। कीदृशम्, उशन्तं कामयमानं स्योनं सुखकरम्। त्वम् अपि तादृशः। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10स्वानादिभ्यः सोमक्रयणान्परिददाति - स्वानेत्यादिना ॥
@@ -625,6 +696,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -632,6 +704,8 @@ ________
 एते᳓ वस् सोम-क्र᳓यणास् +++(गवादयः)+++ - ता᳓न् रक्षध्वम् ।  
 मा᳓ वो दभन्+++(=वञ्चयेयुः)+++ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -704,4 +778,5 @@ let them not fail you.
 > 'इन्द्रस्योरुम् आ विश दक्षिणम्' इत्य् आह देवा वै यं सोमम् अक्रीणंस् तम् इन्द्रस्योराव् दक्षिण आसादयन्न् एष खलु वा एतर्हीन्द्रो यो यजते तस्माद् एवम् आह (सं. का. ६ प्र. १ अ. ११) 
 
 इति।
+</details>
 </details>

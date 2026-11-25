@@ -4,6 +4,8 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भू॒य॒स्कृद॑सि वरिव॒स्कृद॑सि॒ प्राच्य॑स्यू॒र्ध्वास्य॑न्तरिक्ष॒सद॑स्य॒न्तरि॑क्षे सीदाप्सु॒षद॑सि श्येन॒सद॑सि गृध्र॒सद॑सि सुपर्ण॒सद॑सि नाक॒सद॑सि पृथि॒व्यास्त्वा॒ द्रवि॑णे सादयाम्य॒न्तरि॑क्षस्य त्वा॒ द्रवि॑णे सादयामि दि॒वस्त्वा॒ द्रवि॑णे सादयामि दि॒शान्त्वा॒ द्रवि॑णे सादयामि द्रविणो॒दान्त्वा॒ द्रवि॑णे सादयामि प्रा॒णम्मे॑ पाह्यपा॒नम्मे॑ पाहि व्या॒नम्मे॑ [22]  
@@ -20,11 +22,14 @@ title = "०७ भूयस्कृदादीष्टकोपधानम�
 कल्पः—“भूयस्कृदसीति पञ्च भूयस्कृतः” इति।  
 पाठस्तु— भूयस्कृदसीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयस्कृ᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,6 +52,7 @@ Thou art the furtherer;
 तथाविधाऽसि ।  
 एवमुत्तरत्रापि योज्यम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,6 +63,8 @@ Thou art the furtherer;
 
 अन्त᳓रिक्षे सीद।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,17 +97,23 @@ thou art the maker of wide room; thou art the eastern; thou art the zenith; thou
 ततो देवा विजयिनोऽभवन्नसुराश्च पराभूताः ।  
 यजमानोऽप्येतासामुपधानेन तथा भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः“अप्सुषदसीति पञ्चाग्निरूपाणि” इति ।  
 पाठस्तु—  २०८२ अप्सुषदसीदि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्सुष᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,6 +134,7 @@ Thou art the sitter on the waters;
 
 योऽग्निरमप्सु सीदति हे इष्टके तद्रूपा त्वमसि ।   आरुण केतुकचयने जानुदघ्नीमुत्तरवेदिमद्भिः पुरयित्वा तास्वग्निश्चीयते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -127,6 +142,8 @@ Thou art the sitter on the waters;
 गृध्रस᳓दसि ।  
 सुपर्ण᳓स᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +166,14 @@ thou art the sitter on the hawk;
 
 श्येनगृघ्रसुपर्णाः पक्षिविशेषाः ।   तत्तदाकारेण स्थितोऽग्निः श्येनसदादिशब्दैरुच्यते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाकस᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,11 +197,15 @@ thou art the sitter on the vulture; thou art the sitter on the eagle; thou art t
 “अप्सषदसि श्येनसदसीत्याहेतद्वा अग्ने रूषँ रूपेणैवाग्निमव रुन्धे” (सं. का. ५ प्र. ३ अ. ११) इति।  
 अग्न्याकारवाचिनां पदानां पाठेन योग्यरूपेण युक्तमग्निमेव प्राप्नोति ।   अग्नि रूपवाचिभिर्मन्त्रैरुपधेयत्वादिष्टका अप्यग्निरूपाणीत्येवोच्यन्ते ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“पृथिव्यास्त्वा द्रविणे सादयामीति पञ्च द्रविणोदाः “इति ।  
 पाठस्तु— पृथिव्यास्त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +217,8 @@ thou art the sitter on the vulture; thou art the sitter on the eagle; thou art t
 दिशा᳓न्त्वा द्र᳓विणे सादयामि ।  
 द्रविणोदा᳓न्त्वा द्र᳓विणे सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,10 +246,14 @@ In the wealth of earth I place thee; in the wealth of the atmosphere I place the
 मन्त्राणां तात्पर्यं दर्शयति— “पृथिव्यास्त्वा द्रविणे सादयामीत्याहेमानेवैताभिर्लोकान्द्रविणावतः कुरुते” (सं. का. ५ प्र. ३ अ. ११) इति।  
 एताभिरेतन्मन्त्रसाध्याभिर्द्रविणोदाख्याभिः ।   द्रविणोदाशब्दयुक्तेर्मन्त्रैरुपधेय त्वाद्द्रविणोदा इत्यासां नाम ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“प्राणं मे पाहीति षडायुष्याः” इति ।   पाठस्तु— प्राणं मे पाहीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +266,8 @@ In the wealth of earth I place thee; in the wealth of the atmosphere I place the
 विश्वा᳓युर्मे पाहि᳓ ।  
 सर्वा᳓युर्मे पाहि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,16 +295,22 @@ Protect my expiration; protect my inspiration; protect my cross-breathing; prote
 हे इष्टके मदीयां प्राणवृत्तिं पालय ।   एवं सर्वत्र स्वाकीयायुषः साकल्यं विश्वशद्वेनोच्यते ।   स्वसंबन्धिपुत्राद्यायुत्यं सर्वशद्वेनोच्यते ।    एतर्मन्त्रैः साध्यमुपधानं विधत्ते— “आयुष्या उप दधात्यायुरेवास्मिन्दधाति” (सं. का. ५ प्र. ३ अ. ११) इति।  
 आयुःशब्दोपेतैर्मन्त्रैरुपधेयत्वादेता इष्टका आयुष्याः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अग्ने यत्ते परँ हृन्नामात्यग्नेर्हृदयम्” इति ।   पाठस्तु–  २०८३ अग्ने यत्ते परमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने य᳓त्ते प᳓रँ हृ᳓न्ना᳓म ता᳓वे᳓हि सँ᳓ रभावहै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +335,14 @@ With that furthest name of thine which is Agni, come let us join;
 मध्यभागे सँ रभावहा इत्यस्य तात्पर्यं दर्शयति— “तावेहि सँ रभावहा इत्याह व्येवैनेव परि धत्ते” (सं. का. ५ प्र. ३ अ. ११) इति।  
 सहानुष्ठानप्रार्थने सत्य[ त्ये ]नेनाग्निना स्वस्य परिधानं प्रावरणं विशेषेण कृतं भवति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ञ्चजन्येष्व᳓प्येध्यग्ने ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -322,6 +363,9 @@ enter among those of five folk, O Agni.
 
 तृतीयभागे पाञ्चजन्यशब्दार्थं दर्शयति— “पाञ्चजन्येष्वप्येध्यग्न इत्याहैष वा अग्निः पाञ्चजन्वो यः पञ्चचितीकस्तस्मादेवमाह” [सं. का. ५ प्र. ३ अ. ११] इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -331,6 +375,7 @@ enter among those of five folk, O Agni.
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“यावा अयावा इति सप्तर्तव्याः” इति।   पाठस्तु– यावा अयावा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -343,6 +388,8 @@ enter among those of five folk, O Agni.
 स᳓गरः +++( असि)+++ ।  
 सुमे᳓कः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -369,6 +416,7 @@ Thou art barley, thou art the barer of barley; thou art grouping, thou art the g
 
 यावाद्याः षट् शब्दा वसन्ताद्यृतुवाचिनः ।   सुमेकशब्दः संवत्सरवाची ।   हे इष्टके त्वं तद्रूपाऽसीति योज्यम् ।   एतन्मन्त्रसाध्यमुपधानं विधत्ते— “ऋतव्या उप दधात्येतद्वा ऋतूनां प्रियं धाम यदृतव्या ऋतूनामेव प्रियं धामाव रुन्धे सुमेक इत्याह संवत्सरो वै सुमेकः संवत्सरस्यैव प्रियं धामोषाऽऽप्योति” [सं. का. ५ प्र. ३ अ. ११] इति।  
 एतद्यावादिशब्दानामृतृसंबन्धित्वात्तैरुपधेया इष्टका अप्यृतव्या इत्युच्यन्ते ।    
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठकेऽष्टमोऽनुवाकः

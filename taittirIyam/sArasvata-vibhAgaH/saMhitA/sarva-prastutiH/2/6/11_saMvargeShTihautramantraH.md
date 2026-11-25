@@ -10,6 +10,8 @@ title = "११ संवर्गेष्टिहौत्रमन्त्�
 नि᳓ हो᳓ता पूर्व्य᳓स्सदः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Yoke like a charioteer, Agni, The steeds that best invite the gods Set down as ancient Hotr.
@@ -45,10 +47,14 @@ Yoke like a charioteer, Agni, The steeds that best invite the gods Set down as a
 
 तत्र प्रथमायाः सामिधेन्याः पाठस् तु "युक्ष्वेति"। हे अग्ने त्वं देव-हूतमान् देवानाम् आह्वातृतमान् देवान् योजय। हि-शब्दः प्रसिद्ध-वाची। प्रसिद्धे ऽस्मिन् कर्मणीत्य् अर्थः। योजने दृष्टान्तः—"रथीर् अश्वान् इवेति"। रथ-स्वामी यथाश्वान् योजयति तद्वत्। किं च त्वं पूर्व्यः पुरातनो होता होमोत्पादको भूत्वा निषदो ऽस्मिन् याग-स्थाने निषीद। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीया - उत न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,6 +62,8 @@ Yoke like a charioteer, Agni, The steeds that best invite the gods Set down as a
 उत᳓ नो देव देवाँ᳓ अ᳓च्छा वोचो विदु᳓ष्टरः ।   
 श्र᳓द्वि᳓श्वा वा᳓र्या कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,10 +94,14 @@ And, O god, for us do thou the gods, Most wise one, call hither; Make all our wi
 अथ द्वितीया -  
 "उत न इति"। अपि च हे देवाग्ने त्वं विदुष्टरो ऽतिशयेनास्मद्-अभिप्रायं विद्वान् देवान् प्रत्य् अच्छाभिमुख्येन गत्वा 'यजमानो हविर् दास्यतीति' वोचो ब्रूहि। विश्वा वार्या सर्वाणि वरणीयान्य् अस्मद्-अभिप्रेतानि श्रत्-कृधि श्रद्धेयानि विश्वसनीयानि यथा भवन्ति तथा कुरु। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तृतीया - त्वं इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,6 +109,8 @@ And, O god, for us do thou the gods, Most wise one, call hither; Make all our wi
 त्वँ᳓ ह य᳓द्यविष्ठ्य स᳓हसस्सूनवाहुत ।   
 ऋता᳓वा यज्ञि᳓यो भु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,10 +141,14 @@ Since thou, O most young, O son of strength, who art sacrificed to, Art righteou
 अथ तृतीया-  
 "त्वं ह इति"। हे यविष्ठ्य युवतम हे सहसः सूनो बलस्य पुत्र, मथन-शक्त्योत्पन्नत्वाद् बल-पुत्रत्वम्। हे आहुत देवानाम् आह्वातः, त्वं ह त्वम् एव यद् यस्माद् ऋतावा सत्यवांस् तस्माद् यज्ञियो भुवो यज्ञ-साधनो भव। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4चतुर्थी - अयमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -138,6 +156,8 @@ Since thou, O most young, O son of strength, who art sacrificed to, Art righteou
 अय᳓मग्नि᳓स्सहस्रि᳓णो वा᳓जस्य शति᳓नस्प᳓तिः ।  
 मूर्धा᳓ कवी᳓ रयीणा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,10 +185,14 @@ This Agni is lord of a thousandfold,. A hundredfold, strength; The sage, the hea
 अथ चतुर्थी -  
 "अयम् अग्निर् इति"। अयम् इध्यमानो ऽग्निः सहस्र-संख्याकस्य शत-संख्याकस्य च वाजस्यान्नस्य पतिर् अत एव मूर्धा शिरोवद् उन्नतः कविर् विद्वान् रयीणां धनानां दाता भवतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पञ्चमी - तमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -176,6 +200,8 @@ This Agni is lord of a thousandfold,. A hundredfold, strength; The sage, the hea
 त᳓न्नेमि᳓मृभ᳓वो यथा᳓ नमस्व स᳓हूतिभिः ।  
 ने᳓दीयो यज्ञ᳓मङ्गिरः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,10 +230,14 @@ Bring him hither with common call Lower to our sacrifice, O Angiras. As the Rbhu
 अथ पञ्चमी - 
 "तं नेमिम् इति"। हे अङ्गिरो ऽङ्ग-सौष्ठव-युक्ताग्ने समाना हूतिर् देवानाम् आह्वानं येषाम् ऋत्विजां ते सहूतयस् तैः सहूतिभिर् युक्तस् त्वं तं यज्ञम् अस्माकं नेदीयः समीपं प्रत्य् आनमस्व आनीय वशं कुरु। तत्र दृष्टान्तः "ऋभवो यथा इति"। यथा देव-तक्षाणो रथ-चक्रस्य नेमिम् आनीय स्व-वशत्वेन परिभ्राम्यमाणां कुर्वन्ति तद्वत्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6षष्ठी - तस्मा इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -215,6 +245,8 @@ Bring him hither with common call Lower to our sacrifice, O Angiras. As the Rbhu
 त᳓स्मै नून᳓मभि᳓द्यवे वाचा᳓ विरूप नि᳓त्यया ।  
 वृ᳓ष्णे चोदस्व सुष्टुति᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,10 +276,14 @@ To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge 
 अथ षष्ठी -  
 "तस्मै इति"। हे विरूप विविध-रूप-युक्ताग्ने ऽभिद्यवे सर्वतो द्योतमानाय वृष्णे काम्यानां वर्षयित्रे तस्मै यष्टव्याय देवाय नित्यया वैदिक-मन्त्र-रूपया वाचास्माभिः क्रियमाणां सु-ष्टुतिं शोभनां स्तुतिं नूनं चोदस्व सर्वथा प्रेरय तद्-अग्रे कथयेत्य् अर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सप्तमी - कमुष्विदिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -255,6 +291,8 @@ To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge 
 क᳓मु ष्विदस्य से᳓नयाग्ने᳓र᳓पाकचक्षसः ।  
 पणि᳓ङ्गो᳓षु स्तरामहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,10 +320,14 @@ What Pani shall we lay low among the kine With the missile of this Agni Who seet
 अथ सप्तमी-  
 "कमु ष्विद् इति"। पाको ऽल्पः। चक्षो ज्ञानम्। अपाकं चक्षो यस्यासाव् अपाक-चक्षाः सर्वज्ञ इत्य् अर्थः। सर्वं जानतो ऽस्याग्नेः सेनया परिचारक-जनेन सह गोषु गवादि-द्रव्य-विषये कम् उ पणिं स्तरामहे स्वित्कं नाम व्यवहारम् आच्छादयाम। एतदीयं परिचारक-जनं वञ्चयित्वा न को ऽपि व्यवहारो ऽस्माभिः कर्तुं शक्यते। तस्मात् सर्वम् अपि व्यवहारम् अस्यानुग्रहेणैव कुर्म इत्य् अर्थः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अष्टमी - मा न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +335,8 @@ What Pani shall we lay low among the kine With the missile of this Agni Who seet
 मा᳓ नो देवा᳓नाव्ँवि᳓शᳶ प्रस्नाती᳓रिवोस्राः᳓ ।  
 कृश᳓न्न᳓ हासुर᳓घ्नियाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,10 +364,14 @@ May not the clans of the gods forsake us, Like the dawns entering the waters, As
 अथाष्टमी -
 "मा नो देवानाम् इति"। देवानां संबन्धिनो विशो वाणिज्य-कारिण्यः प्रजा नो ऽस्मान् मा हासुर् नैव परित्यक्तवत्यः। का इव, प्रस्नातीः प्रस्नुता उस्राः क्षीरादि-प्रदानेन वास-हेतवो ऽघ्निया इव। किम् इव, कृशं नाल्प-वयस्कं वत्सम् इव। यथा क्षीर-पूर्ण-स्तन-युक्ता गावो शिशुं वत्सं न त्यजन्ति तद्वद् इत्य् अर्थः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9नवमी - मा न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -331,6 +379,8 @@ May not the clans of the gods forsake us, Like the dawns entering the waters, As
 मा᳓ नस्समस्य दूढ्यᳶ᳙ प᳓रिद्वेषसो अँहतिः᳓ ।  
 ऊर्मि᳓र्न᳓ ना᳓वमा᳓ वधीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,12 +411,15 @@ Let not the assault Of any ill-minded foe smite us, As a wave a ship.
 अथ नवमी -
 "मा न इति"। समस्य अस्माभिः समानस्य दूढ्यो दुर्धियः परिद्वेषसः सर्वतो द्वेषं कुर्वतः शत्रोर् अंहतिर् अस्मासु कृतो द्रोहो नो ऽस्मान् आ समन्तान् मा वधीत्। नावम् ऊर्मिर् न। यथा नद्यां गच्छन्तीं नावम् ऊर्मिर् न नाशयति तद्वद् वैरि-कृतो द्रोहो ऽस्मान् मा विनाशयतु। सर्व-शब्द-पर्यायो वायं सम-शब्दः सर्वस्य वैरिणो द्रोहो मा विनाशयत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्ते अग्न ओ᳓जसे गृण᳓न्ति देव कृष्ट᳓यः ।   
 अ᳓मैः  [62]  अमि᳓त्रमर्दय । ((अ᳓मैरमि᳓त्र??))
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,10 +448,14 @@ Homage to thee, O Agni, for might, The people sing, O god; With strength [2] tro
 अथ दशमी -
 "नमस् ते इति"। हे देवाग्ने कृष्टयो मनुष्यास् ते तव ओजसे बलाय नमो गृणन्ति नमस्कार-वाचिनं शब्दं प्रयुञ्जते यजमानादयस् त्वदीयं बलं नमस्कुर्वन्तीत्य् अर्थः। अतस् त्वम् अमित्रम् अस्माकम् अपकारिणम् अर्दय मारय, अमै रोगादिभिः। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11एकादशी - कुवित्स्विति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -406,6 +463,8 @@ Homage to thee, O Agni, for might, The people sing, O god; With strength [2] tro
 कुवि᳓त्सु᳓ नो ग᳓विष्टये᳓ऽग्ने सव्ँवे᳓षिषो रयि᳓म् ।   
 उ᳓रुकृदुरु᳓ णस्कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -438,10 +497,14 @@ Wilt thou not, O Agni, Bring us wealth for our quest for cattle? O room maker, m
 एवं दश सामिधेनीर् उक्त्वा पुरोनुवाक्याम् आह -  
 "कुवित् सु न इति"। हे अग्ने त्वं नो ऽस्माकं रयिं धनं कुविद्-बाहुल्यं यथा भवति तथा सुष्ठु संवेविषः सम्यग्-व्याप्तिम् अकरोः। किम् अर्थं, गविष्टये गोभिः सहितेष्टिर् गविष्टिस् तद्-अर्थम् उरु-कृत् प्रभूत-कारी त्वं नो ऽस्माकं कर्म-फलम् उरु कृधि प्रभूतं कुरु। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12द्वादशी - मा न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -449,6 +512,8 @@ Wilt thou not, O Agni, Bring us wealth for our quest for cattle? O room maker, m
 मा᳓ नो अस्मि᳓न्महाधने᳓ प᳓रा वर्ग्भारभृ᳓द्यथा ।  
 सव्ँव᳓र्गँ सँ᳓ रयि᳓ञ्जय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,10 +545,14 @@ Cast us not aside in this great contest, Like a bearer his burden; Gather wealth
 
 [^1]: *संदृश्येत्यत्र संवृज्येति एकस्मिन् पुस्तके पाठ इति ख-पुस्तके टिप्पण्याम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13त्रयोदशी - अन्यमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -491,6 +560,8 @@ Cast us not aside in this great contest, Like a bearer his burden; Gather wealth
 अन्य᳓मस्म᳓द्भिया᳓ इय᳓म᳓ग्ने सि᳓षक्तु दुच्छु᳓ना ।   
  व᳓र्धा नो अ᳓मवच्छ᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,10 +591,14 @@ May this terror, this misfortune, O Agni, fasten on another than us; Increase ou
 तत्रैव विकल्पितां याज्याम् आह -  
 "अन्यम् अस्मद् इति"। हे अग्ने इयं दुच्छुना रोग-रूपा दारिद्र्य-रूपा अनेकरूपा वा पीडाऽस्मद् अन्यम् अस्मत्तो व्यतिरिक्तं वैरिणं संबध्नातु। किम् अर्थं, भियै भीत्य्-अर्थम्। यथा पीडया वैरी भीतः पलायते तथा पीडां प्राप्नोतु। नो ऽस्माकं शवो वर्ध बलं वर्धय। किं[व]त्, अमवत्। यश्च(था) वैरिणाम् अयो रोगो वर्धि[र्धे]त तद्वत्। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14चतुर्दशी - यस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -531,6 +606,8 @@ May this terror, this misfortune, O Agni, fasten on another than us; Increase ou
 य᳓स्या᳓जुषन्नमस्वि᳓नश्श᳓मीम᳓दुर्मखस्य वा ।  
 त᳓ङ्घे᳓दग्नि᳓र्वृधा᳓वति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -559,10 +636,14 @@ The reverent or generous man In whose offering he hath delighted, Agni aideth in
 अथ स्विष्टकृत्-पुरोनुवाक्या -  
 "यस्याजुषन्न् इति"। दुष्टो ऽङ्ग-विकलो मखो यज्ञो दुर्-मखः। न विद्यते दुर्-मखो यस्य यजमानस्य सो ऽयम् अदुर्मखः, सम्यग्-अनुष्ठित-यज्ञ इत्य् अर्थः। तस्य नमस्विनो भक्त्या नमस्कुर्वतो यस्य यजमानस्य शमीं सुख-करीम् आहुतिम् अजुषद् अग्निर् असेवत। अदुर्मखस्य सम्यग्-अनुष्ठायिनो वा यस्य यजमानस्य शमीम् अजुषत् तं ह इत् तद् एव उभयं नमस्कुर्वन्तं सम्यग्-अनुतिष्ठन्तं वा अयम् अग्निर् वृधा धनादिवर्धनेनावति रक्षति। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15पञ्चदशी - परस्या इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -570,6 +651,8 @@ The reverent or generous man In whose offering he hath delighted, Agni aideth in
 प᳓रस्या अ᳓धि [63]  सव्ँव᳓तो᳓ऽवराँ अभ्या᳓ तर ।  
 य᳓त्राह᳓म᳓स्मि ताँ᳓ अव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -598,10 +681,14 @@ From a far [3] region Come hither to these lower ones, Favour those in the regio
 तत्रैव विकल्पितां पुरोनुवाक्याम् आह-  
 "परस्या इति"। सम्यग् वनुते भजते यस्यां सा क्रिया संवत्, परस्याः संवतो ऽधि उत्कृष्टाया अस्या इष्टेर् अधिष्ठानम् अवराद् निकृष्टान् अप्य् अस्मान् अभ्य् आतराऽऽभिमुख्येनागत्य दुःखानि नाशय। येषु बन्धुष्व् अहम् अस्मि तान् बन्धून् अप्य् अव रक्ष।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16षोडशी - विद्मेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -609,6 +696,8 @@ From a far [3] region Come hither to these lower ones, Favour those in the regio
 विद्मा᳓ हि᳓ ते पुरा᳓ वय᳓म᳓ग्ने पितु᳓र्य᳓था᳓वसः ।  
 अ᳓धा ते सुम्न᳓मीमहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -637,10 +726,14 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 "अथ स्विष्टकृतो याज्याम् आह - 
 'विद्मा हि त इति'। हे अग्ने यस्मात् पुरा वयं ते तव अवसो रक्षणं विद्म ज्ञातवन्तः। कस्येव, पितुर् यथा। लोके पुरा यथा पितुः पालनं जानन्ति तद्वत्। अध तस्मात् कारणात् ते सुम्नम् ईमहे त्वया संपादितं सुखं प्राप्नुमः।"
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17सप्तदशी - य इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/39_ya_ugra.md">
@@ -654,11 +747,14 @@ Since we have known of old Of thy help, O Agni, as a father's, Now we seek thy f
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou, who art like a mighty man who slayeth with the dart  
 Or a sharp-horned bull,  
 O Agni, hast rent the forts.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/016/39_ya_ugra.md">
@@ -934,9 +1030,12 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18अथास्यामेवेष्ट्यां पुरोनुवाक्या - सखाय इत्यनुष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -944,6 +1043,8 @@ Der einem mächt'gen Schützen gleich und einem scharfgehörnten Stier Die Burge
 स᳓खायस्सव्ँ᳓वस्सम्य᳓ञ्चमि᳓षँ स्तो᳓मञ्चाग्न᳓ये ।   
 व᳓र्षिष्ठाय क्षितीना᳓मूर्जो᳓ न᳓प्त्रे स᳓हस्वते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -971,10 +1072,14 @@ O friends, together (offer) fit Food and praise to Agni, Highest over the folk, 
 अथ द्वितीया -  
 'सखाय इति'। हे सखायः परस्पर-सख्य-युक्ता ऋत्विग्-यजमाना वो युष्माकं सम्यञ्चम् इषं समीचीनम् अप्य् अभीष्टार्थम् (र्थमग्निः) संपादयन्तु(तु)। सम् इत्य् उपसर्गस्यापेक्षितः शेषो ऽध्याहृतः। यूयं च अग्नये स्तोमं स्तोत्रं संपादयत। कीदृशायाग्नये, क्षितीनां निवास-हेतूनां मध्ये वर्षिष्ठाय वृद्ध-तमाय, ऊर्जो नप्त्रे बलस्य न पातयित्रे विनाशनम् अकुर्वते, सहस्वते स्वयम् अतिशयेन बलवते। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19अथात्रैव याज्या - संसमिदित्यनुष्टुप् ॥ 'प्रसमुपोदः' इति द्विर्वचनम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -982,6 +1087,8 @@ O friends, together (offer) fit Food and praise to Agni, Highest over the folk, 
 सँ᳓समि᳓द्युवसे वृषन्न᳓ग्ने वि᳓श्वान्यर्य᳓ आ᳓ ।  
 इड᳓स्पदे᳓ स᳓मिध्यसे स᳓ नो व᳓सून्या᳓ भर ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1011,16 +1118,22 @@ Thou gatherest, O strong one, All that belongeth, O Agni, to the niggard; Thou a
 अथ तृतीया- 
 'सं सम् इद् इति'। हे वृषन् कामानां वर्षकाग्ने विश्वानि सर्वाणि सं-समित्संपाद्यैव युवसे यजमानेन मिश्रयसि। अर्य आ ईश्वरस् त्वम् आगत्येडस्-पदे पृथिवी-रूपाया वेद्याः स्थाने समिध्यसे सम्यग् ज्वाल्यसे तादृशो महानुभावो नो ऽस्मभ्यं वसूनि धनानि संभर सम्यग् आहृत्य प्रयच्छ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20'यः प्रजाकामस्स्यात्तस्मा एतं प्राजापत्यं गार्मुतं चरुं निर्वपेत्' इत्यस्याः पुरोऽनुवाक्या - प्रजापते न त्वदिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓जापते  ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1059,16 +1172,22 @@ O Prajapati.
 
 'प्रजापते इति'। ‘प्रजापते न त्वद् एतान्य् अन्यः’ इति प्रजार्थस्य हविषः पुरोनुवाक्या। सा च ‘सोमस्य त्विषिर् असि’ इत्य् अनुवाके व्याख्याता।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21तत्रैव याज्या - स वेद पुत्र इति जगती ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वेद
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1100,16 +1219,22 @@ He knoweth.
 
 ‘स वेद पुत्रः पितरम्’ इत्य् एषा याज्या। सा च ‘हिरण्य-गर्भ आपो ह यत्’ इत्य् अस्मिन्न् अनुवाके व्याख्याता। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21'यः पशुकामस्स्यात्तस्मा एतं सोमापौष्णं गार्मुतं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमापूषणा जनाना रयीणामिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मापूषणा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1134,16 +1259,22 @@ O Soma and Pusan.
 जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म्  ॥  
  - यदि बिभीयद्दुश्चर्मा भविष्यामीति सोमापौष्णं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमापूषणेति त्रिष्टुप् ॥ हे सोमापूषणौ । पूर्ववदाकारः । रयीणां धनानां जनना जननौ जनयितारौ युवाम् । 'नामन्यतरस्यां' इति नाम उदात्तत्वम् । दिवश्च पृथिव्याश्च जनयितारौ । 'ऊडिदम्' इति दिवो विभक्तिरुदात्ता । 'उदात्तयणः' इति पृथिव्याः । जातौ जातमात्रावेव युवां विश्वस्य भुवनस्य भूतजातस्य गोपा गोपयितारौ । इर्दृशौ युवां देवा अकृण्वन् अकुर्वन् । अमृतस्य नाभिं नहनौ बन्धनौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23अथ तत्रैव याज्या - इमौ देवौ जायमानौ इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓मौ᳓ देवौ᳓ ॥ [64]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1185,4 +1316,5 @@ These gods.
 > सोमाव् इमौ तद्-द्वितीये स्तस्त्र, त्रयोविंशतिर् ईरिताः॥ 
 
 इति।
+</details>
 </details>

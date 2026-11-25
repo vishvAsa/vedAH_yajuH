@@ -9,6 +9,8 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 
 चतुर्थकाण्डे द्वितीयप्रपाठके तृतीयोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ( अथ चतुर्थकाण्डे द्वितीयप्रपाठके तृतीयोऽनुवाकः )।  
@@ -17,6 +19,7 @@ title = "०३ चयनार्थथं देवयजनस्य पर�
 व्रतार्थे क्षीरद्रव्ये।  
 पाठस्तु— अन्नपतेऽन्नस्येति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/02_annapate-nnasya_no.md">
@@ -66,11 +69,14 @@ Bestow strength on our bipeds, our quadrupeds.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“उतु त्वा विश्वे देवा इत्युख्यमुद्यम्य” इति।  
 पाठस्तु— उदु त्वा विश्व इति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/06_udu_tvA.md">
@@ -124,11 +130,14 @@ With kindly face, abounding in light,
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “प्रेदग्ने ज्योतिष्मान्याहीति प्रयति” इति।  
 पाठस्तु —प्रेदग्ने ज्योतिष्मानिति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/10_predagne_jyotiShmAn.md">
@@ -182,9 +191,12 @@ Harm not our offspring with thy body.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः “समिधाऽग्निं दुवस्यतेति घृतानुषिक्तामवसिते समिधमादधाति” इति।   पाठस्तु— समिधाऽग्निमिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/14_samidhAgninduvasyata_ghRtairbodhayatAtithim.md">
@@ -227,9 +239,12 @@ In him [1] offer oblations.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“उत्तरया त्रिष्टुभा राजन्यस्य” इति।   समिधमादधातीत्यनुवर्तते।   पाठस्तु— प्रप्रायमग्निरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/18_praprAyamagnirbharatasya_shRNve.md">
@@ -276,9 +291,12 @@ Hath shone forth, the heavenly guest, propitious for us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “आपो देवीः प्रतिगृह्णीत भस्मैदिति तिसृभिरप्सु भस्म प्रवेश यति” इति।   तत्र प्रथमामाह— आपो देवीरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/22_Apo_devIpH.md">
@@ -321,9 +339,12 @@ Like a mother her son, do ye kindly bear him.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— अप्स्वग्न इति ।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/26_aphsvagne_sadhiShTava.md">
@@ -366,9 +387,12 @@ Being in the germ thou art born again.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— गर्भो अस्योषधीनामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/30_garbho_asyoShadhInAngarbho.md">
@@ -414,9 +438,12 @@ O Agni, thou art the germ of the waters.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“भस्मनोपादाय प्रपीड्य प्रसद्य भस्मनेति द्वाभ्यामुखायां प्रत्यवधाय” इति।   तत्र प्रथमामाह— प्रसद्य भस्मनेति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/34_prasadya_bhasmanA.md">
@@ -460,9 +487,12 @@ Full of light hast thou again taken thy seat.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— पुनरासद्येति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/38_punarAsadya_sadanamapashcha.md">
@@ -507,9 +537,12 @@ As on the lap of a mother.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“पुनरूर्जासह रय्येति पुनरुदैति” इति।   निष्पीडितभस्मोपेताया मुखायामग्निं स्थापयेदित्यर्थः।   तत्र प्रथमामाह— पुनरूर्जा नीति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/42_punarUrjA_ni.md">
@@ -563,9 +596,12 @@ Again guard us on all sides.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— सह रय्या नीति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/45_saha_rayyA.md">
@@ -599,9 +635,12 @@ All-gaining on every side.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“पुनस्त्वाऽऽदित्या रुद्रा वसवः समिन्धतामिति पुनरुख्यमुपसनिन्धे” इति।   पाठस्तु— पुनस्त्वाऽऽदित्या इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
@@ -648,10 +687,13 @@ May the wishes of the sacrificer become true.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः ‘बोधा स बोधीति बोधवतीभ्यामुपतिष्ठते” इति।  
 तत्र प्रथमामाह— बोधा नो अस्येति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/53_bodhA_no.md">
@@ -694,9 +736,12 @@ As praiser I praise thy body, O Agni.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— स बोधि सूरिरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/57_sa_bodhi.md">
@@ -742,6 +787,8 @@ Repel from us the foes.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अत्र  विनियोगसंग्रहाः— 	
@@ -754,4 +801,5 @@ Repel from us the foes.
 
  १८८३ इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे द्वितीयप्रपाठके  तृतीयोऽनुवाकः ॥   ३ ॥  
 
+</details>
 </details>

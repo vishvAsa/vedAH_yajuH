@@ -11,6 +11,8 @@ unicode_script: devanagari
 इ᳓न्द्रस्स्वा᳓हा ररिमा᳓ ते म᳓दाय ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तिष्ठा॒ हरी॒ रथ॒ आ यु॒ज्यमा॑ना या॒हि ।  
@@ -28,6 +30,9 @@ unicode_script: devanagari
 
 (SB) 1द्वादशेऽनुवाकेऽग्निष्टुद्यागे ग्रहाणां पुरोरुचोऽभिहिताः । अथ त्रयोदशे इन्द्रस्तुद्यागे ग्रहाणां पुरोरुचोऽभिधीयन्ते । एतच्च सूत्रे स्पष्टमभिहितम् - 'इन्द्रस्तुति इन्द्रस्तोमेनोक्थ्येनेन्द्रियकामो वीर्यकामो वा यजेत, ऐन्द्रियः पुरोरुचस्तिष्ठा हरी कस्य वृषेत्यैन्द्रवायवस्य तृतीया मैत्रावरुणस्य चतुर्थ्याश्विनस्य पञ्चभी षष्ठी शुक्रामन्थिनोः सप्तम्याग्रयणस्य नित्योक्थ्यस्य नियुनक्ति ध्रुवैन्द्राग्नवैश्वदेवानां नित्यामरुत्वतीयमाहेन्द्राणां, आ नो विश्वाभिरिति तिस्र आदित्यग्रहस्योत्तमा सावित्रस्य' इति । तत्रैन्द्रवायवस्य प्रथमां पुरोरुचमाह - हे इन्द्र युज्यमाना रथे संबध्यमानौ हरी अश्वावातिष्ठ अधितिष्ठ, नोऽस्मान् अच्छ अभिलक्ष्य आयाहि आगच्छ । तत्र दृष्टान्तः - वायुर्न नियुतः यथा नियुत्संज्ञकानश्वानभिलक्ष्य वायुर्याति तद्वत्, आगत्य च अस्मे अस्माभिः अभिसृष्टः प्रेरितस्त्वं अन्धः अन्नरूपं सोमं पिबाति पीतवान्भव । हे इन्द्र ते मदाय तव हर्षार्थं स्वाहा ररिमा स्वाहाकृतं हविर्ददिम ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -37,6 +42,7 @@ unicode_script: devanagari
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ तत्रैव द्वितीयां पुरोरुचमाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/20_kasya_vRShA.md">
@@ -249,9 +255,12 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ मैत्रावरुणग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -260,6 +269,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 इ᳓न्द्रम᳓र्भे हवामहे ।  
 यु᳓जव्ँ वृत्रे᳓षु वज्रि᳓णम् ॥41॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,10 +288,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 वयं यजमाना महाधने बहुधनसाध्ये प्रौढकर्मणीन्द्रं हवामहे आह्वयामः । अर्भे स्वल्पेऽपि कर्मणि इन्द्रं हवामहे आह्वयामः । कीदृशमिन्द्रं? युजं कर्मद्वयेऽपि योग्यं, वृत्रेषु प्राप्तेषु शत्रुषु वज्रिणं वज्रहस्तम् ॥n
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथाश्विनग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -289,6 +304,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 विद᳓ इ᳓न्द्रश्शत᳓क्रतुः ।  
 उ᳓प नो ह᳓रिभिस्सुत᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -306,10 +323,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 द्वयोर्लोकयोः समूहो द्विता तस्यां द्वितायां वृत्रहन्तमः अतिशयेन वैरिघाती शतक्रतुः शतसंख्या- काश्वमेधयुक्तो य इन्द्रो विद्यते सोऽयमिन्द्रो हरिभिरश्वैः सह उप अस्माकं समीपं प्राप्य सुतं अभिषुतं सोमं विदे लब्धवान् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ शुक्रग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -318,6 +339,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 अया᳓ धिया᳓ तर᳓णिर᳓द्रिबर्हाः ।  
 ऋते᳓न शुष्मी᳓ न᳓वमानो अर्कैः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,10 +358,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 स शुक्रग्रहरूपः सूरः आदित्यः ज्योतिः प्रकाशं जनयन्निन्द्रमागच्छतु । अया धिया अनया मदनुग्रहबुद्ध्या तरणिः त्वरमाणः अद्रिबर्हाः पर्वतानां शत्रूणां निबर्हिता अभिभविता भदति । ऋतेन यज्ञेनानुष्ठितेन शुष्मीन् बलवतोऽस्मान् अर्कैः अर्चनीयैः फलैः अवमानः पालयमानो वर्तते । अस्रः निरसनकुशलः अद्रिः पर्वतसमान इन्द्र उस्रिधः उत्कर्षेणागच्छतः शत्रून् विबिभेद विशेषेण दारितवात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ मन्थिग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +375,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 य᳓दिन्द्र ना᳓हुषीष्वा᳓ ।  
 अ᳓ग्रे विक्षु᳓ प्र᳓ती᳓दयत् ॥42॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,10 +395,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 हे इन्द्र नाहुषीषु नहुषस्य राज्ञः सबन्धिनीषु विक्षु प्रजासु यद्धनं प्रतीदयत् प्रत्येकमेव प्राप्तमासीत् तादृशं आश्वश्वियमुत आशुगाम्यश्वसमूहयुक्तमपि हेऽग्ने आ त्यत् त्वमेव स्वभक्तेभ्य आनयसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथाग्रयणस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -379,6 +412,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 अग्नि᳓म्मित्रव्ँ᳓व᳓रुणँ सात᳓ये भ᳓गम् ।
 द्या᳓वापृथिवी᳓ मरु᳓तस्स्वस्त᳓ये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -397,10 +432,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 सुहवं सुखेनाह्वातुं शक्यमिन्द्रं भरेषु भरणीयेषु कर्मसु हवामहे आह्नयामः । तथाऽग्निमित्रावरुणान्भगमादित्यं च सातये धनलाभायाह्वयामः । तथा द्यावापृथिव्यौ मरुतश्च स्वस्तये क्षेमायाह्वयामः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथैन्द्राग्नस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -410,6 +449,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 इ᳓न्द्रो नृ᳓भिरजनद्दी᳓द्यानस्साक᳓म् ।  
 सू᳓र्यमुष᳓सङ्गातु᳓मग्नि᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -428,10 +469,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 अयमिन्द्रो विविद्वान् विविधद्रव्यजातं जानन् आदित् अनन्तरमेव सखिभ्यः सखिसदृशेभ्यो यजमानेभ्यो महि प्रौढं क्षेत्रं पुरुश्चन्द्रं बहुलमाह्लादकारि धनं च रथं चरणशीलं गोमहिषादि च समैरयत् सम्यक्प्रेरितवान् दत्तवानित्यर्थः । सोऽयमिन्द्रः दीद्यानः दीप्यमानः तृभिः मनुष्यैः ऋत्विग्भिस्सार्धं सूर्यादीनजनत् अजनयदुत्पादितवान् । गातुं गमनशीलो वायुः तम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ वैश्वदेवग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -441,6 +486,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 ऋष्वा᳓ त इन्द्र स्थ᳓विरस्य बाहू᳓ ।  
 उ᳓पस्थेयाम शरणा᳓ बृह᳓न्ता ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -459,10 +506,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 हे इन्द्र त्वं विद्वान् सर्वं जानन्नोऽस्मदर्थमुरुं विस्तीर्णं लोकं अनुनेषि अनुक्रमेण संपादयसि । तथा सुवर्वन् स्वर्गयुक्तं तत्साधनभूतमित्यर्थः । अभयं भयरहितं स्वस्ति क्षेमकरं ज्योतिः अग्निस्वरूपं ऋष्व प्राप्नुहि । स्थविरस्य चिरकालीनत्वेन वृद्धसदृशस्य ते तव बाहू उपस्थेयाम उपस्थानं करवाम । त्वदीयं बाहुद्वयमनुग्रहबुद्ध्या यथाऽस्मच्छिरसि स्थापयसि तथा वयं त्वां भजेम । कीदृशौ बाहू? शरणा रक्षितारौ बृहन्ता गुणाधिकौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथादित्यग्रहस्य तिस्रः पुरोरुचः । तत्र प्रथमामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -472,6 +523,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 व᳓रीवृजत्स्थ᳓विरेभिस्सुशिप्र ।   
 अस्मे᳓ द᳓धद्वृ᳓षणँ शु᳓ष्ममिन्द्र ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -490,10 +543,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 हरिनामकावश्वौ यस्यासौ हर्यश्वः । शोभने शिप्रे हनू यस्यासौ सुशिप्रः, तादृश हे इन्द्र त्वं ब्रह्म जुषाणः परिबृढमिदं कर्म सेवमानः सजोषाः अस्माभिस्सह समानप्रीतिस्सन् विश्वाभिरूतिभिः समस्तै रक्षणैस्सहितो नोऽस्मान्प्रति आयाहि आगच्छ । किं कुर्वन्? स्थविरेभिर्वरीवृजत् प्रवृद्धैरुपायैर्वर्जयितव्याञ्छत्रूनत्यर्थं वर्जयन् । तथा वृषणं कामवर्षणहेतुं शुष्मं बलं अस्मे दधत् अस्मासु संपादयन् ॥n
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ द्वितीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -502,6 +559,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 दुदुह्रे᳓ वज्रि᳓णे म᳓धु ।  
 य᳓त्सीमुपह्वरे᳓ विद᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -519,10 +578,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 वज्रिणे वज्रयुक्ताय इन्द्राय इन्द्रार्थं आशिरं ईषन्मथितं दधिहेतुभूतं मधु मधुरं क्षीरं गावो दुदुह्रे दुग्धवत्यः । यत्सीं यदेव क्षीरमुपह्वरेऽस्मिन्प्रवृत्तेऽध्वरे वर्तमान इन्दोऽविदत् अलब्ध । तत्क्षीरं दुदुह्र इति पूर्वत्रान्वयः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12अथ तृतीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -532,6 +595,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 अ᳓हरहर्भू᳓य इ᳓ज्जो᳓गुवानाः ।  
 पूर्णा᳓ इन्द्र क्षुम᳓तो भो᳓जनस्य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -550,10 +615,14 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 हे वज्रिन् वज्रयुक्तेन्द्र ते त्वदर्थं ताः पूर्वोक्ता धेनवो नोऽस्माञ्जोजयुः शीघ्रमेव प्राप्ताः । कीदृश्यो धेनवः? गभस्तयो दीप्तिमत्यः पुष्टशरीरा इत्यर्थः । नियुतो नियमेन क्षीरादेर्मिश्रयित्र्यः । विश्ववाराः स्वकीयक्षीरेण क्षुधादिरूपं विश्वं सर्वमप्युपद्रवं वारयन्तीति विश्ववाराः । अहरहः दिनेदिने भूयइत् भूयिष्ठमेव जोगुवानाः शब्दयन्त्यः क्षीरपूर्णस्तनत्वेन दोहनार्थं वत्समाकारयितुं हम्भारवं कुर्वत्य इत्यर्थः । क्षुमतः शब्दवतो भोजनस्य पूर्णाः पूरयित्र्यः क्षीरस्य बाहुल्ये सति चुलुकेन पुनःपुनर्भोजने हि महान् शब्द उत्पद्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13अथ सावित्रग्रहस्य पुरोरुचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -563,6 +632,8 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 त᳓मुत्सवे᳓ च प्रसवे᳓ च सासहि᳓म् ।  
 इ᳓न्द्रन्देवा᳓सश्श᳓वसा मदन्न᳓नु ॥45॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -581,6 +652,7 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 
 हे इन्द्र महो महनीयस्य ते तव महीं महतीमिमामनुग्रहरूपां धियं प्रभरे प्रकर्षेण धारयामि । अस्य ते इदृशस्य तव संबन्धि यत्स्तोत्रमानजे त्वद्गुणानभिव्यञ्जयति तस्मिन् स्तोत्रे धिषणा मदीया बुद्धिः प्रर्वततामिति शेषः । उत्सवेऽस्मिन्कर्मानुष्ठानरूपे प्रसवे च तत्फलोत्पादने सासहिं अत्यन्तसहिष्णुं सर्वदोद्युक्तमित्यर्थः । तादृशं शवसा बलेन युक्तं तमिन्द्रं देवासः सर्वे देवा अनुमदन् अनुमोदन्ताम् ॥
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

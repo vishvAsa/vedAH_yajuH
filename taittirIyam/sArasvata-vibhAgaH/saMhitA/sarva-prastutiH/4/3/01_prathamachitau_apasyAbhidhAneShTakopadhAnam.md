@@ -4,6 +4,8 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 
 अग्निर्ऋषिः  
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
   (अथ चतुर्थाष्टके तृतीयः प्रपाठकः)।  
@@ -15,6 +17,9 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 एकेन चितयो याज्या इत्यर्था अनुवाकगाः॥  
 तत्र प्रथमेऽनुवाके प्रथमचितिगता अपस्याभिधाना इष्टका उच्यन्ते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -25,11 +30,14 @@ title = "०१ प्रथमचितौ अपस्याभिधाने
 
 तत्र प्रथमपञ्चकमन्त्रानाह— अपां त्वेमन्निति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वे᳓मन्त्सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,11 +59,14 @@ I place thee in the going of the waters;
 हे इष्टके त्वा त्वामपामेमुञ्जलसंबन्धिनि प्रवाहदिगमनप्रकारे सादयमि स्थापयामि।  
 एवमुत्तत्रापि योज्यम।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वो᳓द्मन्त्सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -76,11 +87,14 @@ I place thee in the rising of the waters;
 
 ओद्मन्वीचीतरङ्गदिरुप उन्दने
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा भ᳓स्मन्त्सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,11 +115,14 @@ I place thee in the ashes of the waters;
 
 भस्मन्भासके शुक्लरूपे
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा ज्यो᳓तिषि सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,11 +143,14 @@ I place thee in the light of the waters;
 
 ज्योतिषि प्रकाशनैर्मल्य इत्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा᳓यने सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,16 +171,22 @@ I place thee in the movement of the waters.
 
 अयने नदीकू पाद्याधारे।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयेष्टकापञ्चकमन्त्रानाह— अर्णवे सदने सीदेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्णवे᳓ स᳓दने सीद ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -182,11 +208,14 @@ Sit on the billows as thy place of rest;
 अर्णवशब्देन सादृश्यत्प्रौढतटाकाद्युपलक्ष्यते।  
 तच्चापां सदनं, तस्मिन्स्थाने हे इष्टके सीदोपविश।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रे᳓ स᳓दने सीद ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,11 +236,14 @@ sit on the ocean as thy place of rest;
 
 समुद्रः प्रसिद्धः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सलिले᳓  स᳓दने सीद ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +264,14 @@ sit on the stream as thy place of rest;
 
 सलिलशब्देनानिर्धारितविशेषो जलमात्राधार उपलक्षितः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓ङ्क्ष᳓ये सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,12 +292,15 @@ sit in the abode of the waters;
 
 क्षीयन्ते शुष्यन्त्यापोऽत्रेति शुष्कतटाकादीः क्षयः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाँ᳓ स᳓धिषि सीद  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,16 +322,22 @@ sit on the seat of the waters.
 
 जलेन सह मेघे धीयते स्थाप्यत इति सधीर्वर्षोपलादिः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयपञ्चकमन्त्रनाह अषां त्वा सदन इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा स᳓दने सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,11 +358,14 @@ I place thee in the seat of the waters;
 
 हे इष्टके त्वामपां सदने नद्यादौ सादयामि।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा सध᳓स्थे सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -339,11 +386,14 @@ I place thee in the dwelling of the waters;
 
 अद्भिः सह विद्यु दियो यत्र मेधे तिष्ठन्ति सोऽयं मेधः सधस्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा पु᳓रीषे सादयामि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,11 +414,14 @@ I place thee in the dust of the waters;
 
 षुरीषशब्देन नाद्यादिगताः सिकता उच्यन्ते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा यो᳓नौ सादयामि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,11 +443,14 @@ I place thee in the womb of the waters;
 योनिशब्देन जलकारणभूतोऽग्निरुच्यते।  
 “अग्ने  १९७१ रापः ” इति श्रुतेः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्त्वा पा᳓थसि सादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,10 +471,14 @@ I place thee in the stronghold of the waters.
 
 पीयते जलं जीमूतेरत्रेति पाथः समुद्रः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्थपञ्चकमन्त्रानाह— गायत्री छन्द इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +492,8 @@ I place thee in the stronghold of the waters.
 +++(त्वं)+++ पङ्क्ति᳓श्छ᳓न्दः  
 +++(असि)+++ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,6 +554,7 @@ The metre the Gayatri; the metre the Tristubh; the metre the Jagati; the metre t
 
 पुनः प्रकारान्तरेण प्रशंसति— “उवाच हेयमददित्स ब्रह्मणाऽन्नं यस्यैता उपधीयान्तै य उ चैना  एवं वेद ” [सं॰ का॰ ५ प्र॰ २ अ॰  १०] इति।  
 यस्य यजमानस्यैता अपस्या उपधीयन्ते, योऽपि विद्वानेता (ना) अपस्या उक्तप्रकारेण जानाति, स यजमानः स च वेदिता ब्रह्मणा मुख्यया वृत्त्याऽन्नम ददिदन्नमत्त्येवमिदं वाक्यमियं पृथिव्युवाच ह। तस्मादपस्याः प्रशस्ता इति तात्पर्यार्थः।   
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

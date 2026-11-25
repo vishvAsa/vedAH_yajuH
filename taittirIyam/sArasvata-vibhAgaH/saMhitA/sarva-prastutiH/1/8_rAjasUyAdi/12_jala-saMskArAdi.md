@@ -1,6 +1,8 @@
 +++
 title = "१२ जलसंस्कारादि"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ५, २० त्रिष्टुप्   
@@ -11,6 +13,7 @@ title = "१२ जलसंस्कारादि"
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1एवं गृहीत्वाथ वैतसे द्रोणकलशे ग्रहान् समवनयति - देवीराप इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/02_devIr_Apas.md">
@@ -56,9 +59,12 @@ Winning great radiance for the Ksatriya.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अन्तराहोतुर् धिष्ण्यं ब्राह्मणाच्छंसिनश् च सादयति - अनाधृष्टा इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/03_anAdhRShTAs_sIdatorjasvatIr.md">
@@ -99,9 +105,12 @@ Bestowing great radiance upon the Ksatriya.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3शतमानं हिरण्यं प्रग्रथ्नाति - अनिभृष्टमिति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/04_anibhRShTam_asi.md">
@@ -141,15 +150,20 @@ Friend of speech, born of heat, thou art undefeated;
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तद् वैतस अवदधाति - सोमस्येति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्य दात्र᳓म्+++(=देयम्)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -170,10 +184,14 @@ thou art the share of Soma.
 
 सोमस्य **दात्रं** देयं त्वमसि दक्षिणारूपत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5हिरण्येनोत्पुनाति - शुक्रा व इति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +202,8 @@ thou art the share of Soma.
 [स्वा᳓हा, राजसू᳓याय चि᳓तानाः  ॥]  
 +++(केचिद् अत्र त्रीण्य् उत्पवनान्य् अनेनानुषङ्गेनाहुः॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -213,10 +233,14 @@ The pure I purify you with the pure, the bright with the bright, the immortal wi
 
 केचित्तु - त्रिभिरुत्पवनमाहुः । तदा 'शुक्रा वश्शुक्रेणोत्पुनामि स्वाहा राजसूयाय चितानाः' इति 'अमृता अमृतेनोत्पुनामि  +++( 'चन्द्राश्चन्द्रेणोत्पुनामि इति साधु)+++  स्वाहा राजसूयाय चितानाः' इति 'अमृता अमृतेनोत्पुनामि स्वाहा राजसूयाय चितानाः' इति प्रयोगाः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ पालाशादिषु पात्रेषु गृह्णाति - सधमाद इति त्रिष्टुभा ॥  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/05_sadhamAdo_dyumninIr.md">
@@ -267,15 +291,20 @@ The child [1] of the waters in those most motherly.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7तार्प्यं परिधापयति - क्षत्रस्योल्बमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्त्र᳓स्यो᳓ल्बम्+++(=गर्भकोशः)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,16 +325,22 @@ Thou art the caul of kingly power,
 
 व्याख्यातं वाजपेये । घृताक्तं तार्प्यम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8पाण्डुरं वासः परिधत्ते - क्षत्रस्य योनिरसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्र᳓स्य यो᳓निर् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -326,16 +361,22 @@ thou art the womb of kingly power.
 
 क्षत्रस्य बलस्य राजन्यस्य वा योनिः कारणमसीति । अस्मिन् कर्मणि (यद्वा) स जातो भवतीति हि स्तुतिः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9-15आविदो यजमानं वाचयन् बर्हिरुदानयति - आविन्नो अग्निरित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्नो+++(←विद्)+++ अग्नि᳓र् गृह᳓-पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +397,14 @@ Notified is Agni, lord of the house;
 
 अग्निरिदानीमनेन मुख्येन कर्मणा गृहपतिराविन्नः लब्धात्मा, परिनिष्पन्नात्मा वा । विन्दतेर् विद्यतेर्वा निष्ठा । अग्नेर्गृहपतित्वमिदानीं परिनिष्पन्नमिति । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम्, कर्तरि निष्ठायां तु व्यत्ययेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्न इ᳓न्द्रो वृद्ध᳓-श्रवाः+++(=कीर्तिः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +425,14 @@ notified is Indra, of ancient fame;
 
 इन्द्रश्चेदानीं वृद्धश्रवाः प्रवृद्धकीर्तिः आविन्नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्नᳶ पूषा᳓ विश्व᳓-वेदाः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +453,14 @@ notified is Pusan, all knower;
 
 पूषा चेदनीं विश्ववेदाः विश्वस्य वेदिता आविन्नः । 'गतिकारकयोरपि' इत्यसुन् । विश्वधनो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्नौ  मित्रा᳓-व᳓रुणाव् ऋता-वृ᳓धौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,11 +481,14 @@ notified are Mitra and Varuna, increasing holy order;
 
 मित्रावरुणौ चेदानीमृतावृधौ ऋतस्य यज्ञस्य सत्यस्य वा वर्धयितारौ आवीन्नौ । 'अन्येषामपि दृश्यते' इति दीर्घत्वम् । 'देवताद्वन्द्वे च' इति मित्रावरुणशब्दे पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्ने द्या᳓वा-पृथिवी᳓ धृत᳓-व्रते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +509,14 @@ notified are sky and earth, of sure vows;
 
 द्यावापृथिवी द्यावापृथिव्यौ च धृतव्रते धृतकर्मणावाविन्ने । 'दिवो द्यावा' इति द्यावादेशः, पूर्ववत्प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓विन्ना देव्य् अ᳓दितिर् विश्व-रूपी᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,6 +537,7 @@ notified is the goddess Aditi, of all forms;
 
 अदितिर्देवमाता पृथिवी वा । देवी दीप्तिमती । इदानीं विश्वरूपैस्सर्वैर्विकाररूपैस्तद्वती आविन्ना । गौरादित्वात् ङीष् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -488,6 +545,8 @@ notified is the goddess Aditi, of all forms;
 ऽस्याव्ँ विश्य्  
 अ᳙स्मिन् राष्ट्रे᳓  …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,15 +571,17 @@ notified is he, N. N., descendant of N. N., in this folk, this kingdom, for grea
 
 महते क्षत्रायेति व्याख्यातम् ॥    
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 … महते᳓ क्षत्त्रा᳓य
 महत᳓ आ᳓धिपत्याय  
 महते᳓ जा᳓नराज्यायै
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -542,8 +603,10 @@ to great lordship, to great overlordship, to great rule over the people.
 
 किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -551,13 +614,15 @@ to great lordship, to great overlordship, to great rule over the people.
 
 17सोमोस्माकमिति ॥ ब्रह्मणश्च जपो व्याख्यातः ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 एष᳓ वो भरता रा᳓जा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,16 +643,22 @@ This is your king, O Bharatas;
 
 भरतानां निवासो जनपदो भरताः । 'जनपदे लुप्' । भरतानां राजानोपि भरताः । 'तस्य राजन्यपत्यवत्' इति 'जनपदशब्दात् क्षत्रियादञ्', 'यञिञोश्च' इति बहुषु लुक् । हे भरताः एष वो युष्माकं राजा, योयं राजसूयेन यजते । एवमयं व्याख्यातिगतो भवति, राज्यं चास्मिन् प्रतिहितम् । यद्यसौ भरतानामेव राजा तदानीमेवं, नान्यदा । यथाजनपदमिति केचित् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4बह्मा जपति - सोम इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मोऽस्मा᳓कम् ब्राह्मणा᳓नाँ रा᳓जा ।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,18 +679,21 @@ Soma is the king of us Brahmans.
 
 अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18यजमानाय धनुः प्रयच्छति - इन्द्रस्येति ॥  
 व्याख्यातं वाजपेये ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य व᳓ज्रोऽसि,  
@@ -652,12 +726,15 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -682,18 +759,23 @@ with thee may he slay his foe.
 ______________
 तस्मात्तादृशेन **त्वयाऽयं** यजमानो **वृत्रं वध्याद्** इति ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19इषून् प्रयच्छति - शत्रुबाधनास्स्थेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुबा᳓धनास् स्थ   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -714,10 +796,14 @@ Ye are overcomers of foes.
 
 शत्रवो बाध्यन्ते यैस्तादृशास्स्थेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20प्रतिगृह्णाति - पात मेति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +814,8 @@ Ye are overcomers of foes.
 दिग्भ्यो᳓ मा पात ।   
 वि᳓श्वाभ्यो मा नाष्ट्रा᳓भ्यᳶ पात  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,10 +842,14 @@ Protect me in front, protect me at the side, protect me from behind; from the qu
 
 अपि च – विश्वाभ्योपि भौमान्तरिक्षद्युप्रभवाभ्योपि नाष्ट्राभ्यः नाशहेतुभ्यः पात माम् । नशेरौणादिकस्त्रप्रत्ययः, वृद्धिश्च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21बाहू उद्गृह्णाति - हिरण्यवर्णाविति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/12_jala-saMskArAdi/06_hiraNyavarNAv_uShasAv.N.md">

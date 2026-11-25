@@ -8,6 +8,8 @@ unicode_script: devanagari
 "नृष᳓दन् त्वे᳓"त्य् आह।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "नृ॒षद॒न् त्वे"त्य् आ॑ह।
@@ -22,11 +24,14 @@ unicode_script: devanagari
 
 1 नृषदं त्वेत्यादि ॥ 'उपयामगृहीतोसि नृषदं त्वा' इति पञ्चैन्द्रानतिग्राह्यान्गृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ वै᳓ नॄ᳓न् , प्रजा᳓नाम् एवै᳓ते᳓न सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 प्रजा वै नॄनिति विभक्तिव्यत्ययः । प्रजा वै नर इति यावत् । तस्मात् प्रजानां सर्वासां सूयते यजमानः स्वामित्वेन अनुज्ञायते एतेन 'नृषदं त्वा गृह्णामि'18इति ग्रहणेन । नृभिस्सदनं तत्स्वामित्वमेव, यदा ह्ययं नृणामीष्टे तदा नृषु सीदन् भवति । एवं 'द्रुषदं त्वा'18इत्यादि वेदितव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "द्रुष᳓दमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +66,14 @@ unicode_script: devanagari
 
 द्रु-स᳓दम् । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नस्प᳓तयो वै᳓ द्रु᳓, व᳓नस्प᳓तीनाम् एवै᳓ते᳓न सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,11 +90,14 @@ unicode_script: devanagari
 
 वनस्पतयो वै द्रु इति । 'सुपां सुलुक्'इति जसो लुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "भुवनस᳓दमि᳓"त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,12 +113,15 @@ unicode_script: devanagari
 
 भुवनसदमित्यादि । 'भुवनसदं त्वा गृह्णामि'18इति ग्रहणेन भुवनं स्वामित्वेन गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ वै᳓ व᳓सीयान् भ᳓वति  "भु᳓वनम् अगन्नि᳓"ति वै᳓ त᳓म् आहुः ।  
 भु᳓वनम् एवै᳓ते᳓न गच्छति ॥ 53 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,11 +139,14 @@ unicode_script: devanagari
 
 कथमित्याह - यदेति । यदा अयं पुरुषो वसीयान् वसुमत्तरो भवति तदानीं वसीयांसं सर्वेऽप्याहुः अहो महाभागोऽयं भुवनं भूतजातं अखिलं अगन् अगमत् गमिष्यति अचिरात् स्वामी भविष्यतीति । यदि ह्यप्ययं कृत्स्नस्य भुवनस्येष्टे ततो दोषवान् भवति । गमेः 'छन्दसि लुङ्लङ्लिटः'इति भविष्यति लुङ्, 'मन्त्रे घस'इति लुक्, 'मोनो धातोः'इति नत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अप्सुष᳓दन् त्वा घृतस᳓दमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,11 +163,14 @@ unicode_script: devanagari
 2 अप्सुषदमिति ॥  
 'तत्पुरुषे कृति बहुलम्'इत्यलुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓म् एवै᳓ते᳓न घृत᳓स्य सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,11 +186,14 @@ unicode_script: devanagari
 
 अपां घृतस्य च स्वाम्यनुज्ञायते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "व्योमस᳓दमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +204,15 @@ unicode_script: devanagari
 
 व्योम-स᳓दम् । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ वै᳓ व᳓सीयान् भ᳓वति᳓  "व्योमागन्नि᳓"ति वै᳓ त᳓माहुः ।  
 व्यो᳙म+ एवै᳓तेन गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,11 +230,14 @@ unicode_script: devanagari
 
 व्योमसदमिति । यदाऽसौ वसीयान् भवति तदा एतं पुरुषं व्योम परं रक्षकं धर्मं गमिष्यति अयं महानुभावोऽचिराद्भविष्यतीति । समानमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पृथिविष᳓दन् त्वा ऽन्तरिक्षस᳓दमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,11 +248,14 @@ unicode_script: devanagari
 
 पृथि । विष᳓ । दन् । त्वा । अन्तरिक्ष-स᳓दम् । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓म् एवै᳓ते᳓न लोका᳓नाँ सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,11 +272,14 @@ unicode_script: devanagari
 3 एषामेवेति ॥  
 एषां लोकानां अयं स्वामी गृह्यते सूयते अत एवास्य स्वत्वमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वाजपेययाजी᳓ न᳓ क᳓ञ्चन᳓ प्रत्य᳓वरोहति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,11 +295,14 @@ unicode_script: devanagari
 
 तस्माद्वाजपेययाजी वाजपेयेनेष्टवान् कंचिदपि गुर्वादिकमपि न प्रत्यवरोहति दृष्ट्वा वाहनाविभ्यो नावतरति नाभ्युपगच्छति न प्रत्युत्तिष्ठति न चासनाच्चलति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓पीव हि᳓ देव᳓तानाँ सूय᳓ते ॥ 54 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,11 +318,14 @@ unicode_script: devanagari
 
 कुत इत्याह - अपीवेति । यस्मादेवं देवतानामपीव सूयते स्वाम्यनुज्ञायते । एवार्थ इवशब्दः देवपूजा[ ... शब्दः देवानामेव । पूजा] र्थो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "नाकस᳓दमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +336,15 @@ unicode_script: devanagari
 
 नाक-स᳓दम् । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ वै᳓ व᳓सीयान् भ᳓वति  "ना᳓कमगन्नि᳓"ति वै᳓ त᳓माहुः ।  
 ना᳓कम्  एवै᳓ते᳓न गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,11 +362,14 @@ unicode_script: devanagari
 
 नाकं परमसुखस्थानम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ये᳓ ग्र᳓हाᳶ पञ्चजनी᳓ना" इ᳓त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,11 +380,14 @@ unicode_script: devanagari
 
 ये᳓ । ग्र᳓हाः । पञ्च-जनी᳓नाः । इ᳓ति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-जना᳓नाम् एवै᳓ते᳓न सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,11 +405,14 @@ unicode_script: devanagari
 'दिक्संख्ये संज्ञायाम्'इति समासः ।  
 अपां तद्रसस्य च स्वामी भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अपाँ᳓ र᳓सम् उ᳓द्वयसमि᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -367,11 +423,14 @@ unicode_script: devanagari
 
 अपा᳓म् । र᳓सम् । उ᳓त्-वयसम् । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓म् एवै᳓ते᳓न र᳓सस्य सूयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,11 +441,14 @@ unicode_script: devanagari
 
 अपा᳓म् । एव᳓ । एते᳓न । र᳓सस्य । सूयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सू᳓र्य-रश्मिँ समा᳓भृतमि᳓"त्य् आह सशुक्रत्वा᳓य ॥ 55 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,4 +465,5 @@ unicode_script: devanagari
 सशुक्रत्वं सवीर्यत्वमुत्पादयितृत्वम् ।  
 यद्वा - सजलत्वाय सूर्यरश्मीनां वृष्टिहेतुत्वात् ॥  
 इति तृतीये नवमोऽनुवाकः ॥
+</details>
 </details>

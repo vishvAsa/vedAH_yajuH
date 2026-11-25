@@ -4,6 +4,8 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रु॒वो॑ऽसि ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒न्धीर॒श्चेत्ता॑ वसु॒वित्
@@ -13,11 +15,14 @@ title = "०९ ग्रामकामस्य साङ्ग्रहिण
 
 1अथ साङ्ग्रहिणीमिष्टिं विधास्यति । तस्यां परिधिपरिधानमन्त्राः एते - ध्रुवोसीत्याद्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -40,12 +45,15 @@ Thou art secure;
 
 ध्रुवो नित्योसि ; अहमपि सजातेषु ध्रुवो भूयासम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
 धी᳓रश्चे᳓त्ता वसुवि᳓त् +++(भूयासम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,6 +75,9 @@ may I be secure among my equals, wise, a guardian, a gainer of wealth;
 
 धीरो धारयिता चेत्ता ज्ञाता वसुवित् धनानां वा लब्धा च भूयासम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -77,11 +88,14 @@ may I be secure among my equals, wise, a guardian, a gainer of wealth;
 
 2अथ द्वितीयः - ध्रुवोसीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,12 +116,15 @@ thou art secure;
 
 गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
 उग्र᳓श्चे᳓त्ता वसुवि᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,6 +154,9 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth;
 
 'असुरा वा उत्तरतः पृथिवीं पर्याचिकीर्षन्' इत्यादि ब्राह्मणम्  ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -147,11 +167,14 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth;
 
 3अथ तृतीयः - ध्रुवोसीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,12 +190,15 @@ thou art secure;
 
 ध्रु॒वः । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासम् ।  
 अभिभू᳓श्चे᳓त्ता  वसुवि᳓त्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,6 +220,9 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth.
 
 गतम् अभिभूः अभिभविता शत्रूणां छेत्ता वसुविच्च भूयासमिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -203,6 +232,7 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ तस्यामेव पुरस्तात् स्विष्टकृत उपहोमाः - आमनमसीत्याद्याः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +244,8 @@ may I be secure among my equals, dread, a guardian, a gainer of wealth.
 ता᳓न्म आ᳓मनसᳵ कृधि ।   
 स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,16 +273,22 @@ Thou art affection; O ye gods of affection, those equals,
 यद्वा - आभिमुख्येन मननं करोतीत्यामनम् । पचाद्यच्, छान्दसं पूर्वपदप्रकृतिस्वरत्वम् । पचाद्यजन्तेन वा प्रादिसमासः । ईदृशस्यास्य संबन्धिनो हे देवाः यूयमपीदं श्रोतुमर्हन्ति यदामनं ब्रूमहे इति देवम्ये आवेद्य पुनरप्यामनमाह – ये सजाता मया समानजन्मानः । कुमाराणां स्त्रीणां च वक्ष्यमानत्वात् महान्तः पुंस इति गम्यते ।  
 ब्राह्मणं च भविष्यति - 'एतावन्तो वै सजाता ये महान्तो ये क्षुल्लका यास्स्त्रियः' इति । तत्र गोबलीवर्दन्यायेन प्रथमे महतां ग्रहणम् । समनसः समानमनसः संगतमनसो वा ये सजाता महान्तो मम समनसः तानहं कामये हृदा हृदयेन ; समनस एव सदा कामये । तेपि मां तादृशमेव कामयन्ताम् हृदा हृदयेन । अवधानार्थं हृदयग्रहणम् । त्वमपि तानामनसः आगतमनसः सङ्गृहीतमनसः कृधि कुरु । शपो लुकि 'श्रुशृणुपॄकृवृभ्यः' इति धिभावः । स्वाहुतमिदं करोमीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ द्वितीयः - आमनमित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आ᳓मनमसि᳓ , आ᳓मनस्य देवा ये᳓ )+++कु᳓माराः᳓ +++(स᳓मनसः )+++ ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,11 +309,14 @@ youths, of one mind, them I love with my heart;
 
 बाल्ययौवनयोर्मध्ये वर्तमानाः कुमाराः । समानमन्यत् स्वाहान्तम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 {ता᳓नह᳓ङ्कामये हृदा᳓ । ते᳓ मा᳓ङ्कामयन्ताँ हृदा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -291,11 +332,14 @@ may they love me with their hearts;
 
 सम॑नस॒ इति॒ स-म॒न॒सः॒ । तान् । अ॒हम् । का॒म॒ये॒ । हृ॒दा । ते । माम् । का॒म॒य॒न्ता॒म्॒ । हृ॒दा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्म आ᳓मनसᳵ कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,11 +355,14 @@ make them of one mind with me;
 
 तान् । मे॒ । आम॑नस॒ इत्या-म॒न॒सः॒ । कृ॒धि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,11 +378,14 @@ hail!
 
 स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓मन᳓म᳓सि᳓ , आ᳓मनस्य देवा या᳓स्स्त्रि᳓यस्स᳓मनसः  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +406,14 @@ Thou [1] art affection;
 
 6अथ - तृतीयः - आमनमित्यादि ॥ सर्वं ; स्त्रीलिङ्गन्तु विशेषः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अह᳓ङ्कामये हृदा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -376,11 +429,14 @@ O ye gods of affection, the women of one mind, them I love with my heart;
 
 ताः । अ॒हम् । का॒म॒ये॒ । हृ॒दा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ मा᳓ङ्कामयन्ताँ हृदा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +452,14 @@ may they love me with their hearts;
 
 ताः । माम् । का॒म॒य॒न्ता॒म्॒ । हृ॒दा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ म आ᳓मनसᳵ कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,11 +475,14 @@ make them of one mind with me;
 
 ताः । मे॒ । आम॑नस॒ इत्या-म॒न॒सः॒ । कृ॒धि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,6 +498,9 @@ hail!
 
 स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -445,6 +510,7 @@ hail!
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7इदानीमिष्टं विदधाति - वैश्वदेवीमित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +522,8 @@ hail!
 साङ्ग्रहणी᳓ भवति ।  
 मनोग᳙हणव्ँ वै᳓ सङ्ग्र᳓हणम्, .. म᳓न एव᳓ सजाता᳓नाम् गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,6 +549,9 @@ He who desires a village should offer to the All-gods (the sacrifice) for taking
 
 मनसस्संग्रहणस्य हेतुत्वेन संबन्धिनी सांग्रहणी इष्टिः । चरुरत्र श्रप्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -491,11 +562,14 @@ He who desires a village should offer to the All-gods (the sacrifice) for taking
 
 8ध्रुवोसीत्यादिना आम्नातानां मन्त्राणां विनियोगं दर्शयति - आशिषमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -511,11 +585,14 @@ He who desires a village should offer to the All-gods (the sacrifice) for taking
 
 ध्रु॒वः । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवो᳙ऽहँ᳓ सजाते᳓षु भूयासमि᳓ति परिधी᳓न्प᳓रि दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -536,11 +613,14 @@ may I be secure among my equals', (with these words) he puts the enclosing-stick
 
 ध्रुवो भूयासमित्यादिकाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशि᳓षमेवै᳓ता᳓मा᳓ शास्ते᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,12 +636,15 @@ verily he invokes this blessing.
 
 आ॒शिष॒मित्या॑-शिष॑म् । ए॒व । ए॒ताम् । एति॑ । शा॒स्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो एत᳓देव᳓ स᳓र्वँ सजाते᳓ष्व᳓धि भवति ।  
 य᳓स्यैवव्ँ᳓विदु᳓ष एते᳓ परिध᳓यᳶ परिधीय᳓न्ते᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -587,10 +670,14 @@ Then all this comes to pass with regard to the equals of him for whom knowing th
 
 न ग्रामप्राप्तिमात्रमेवेति भावः । यस्यैवंविदुष एतैर्मन्त्रैरेते परिधयः परिधीयन्ते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आम॑नम॒स्याम॑नस्य देवा॒ इति॑ ति॒स्र आहु॑तीर्जुहोत्ये॒ताव॑न्तो॒ वै स॑जा॒ता ये म॒हान्तो॒ ये क्षु॑ल्ल॒का यास्स्त्रिय॒स्ताने॒वाव॑ रुन्द्धे॒ त ए॑न॒मव॑रुद्धा॒ उप॑ तिष्ठन्ते ॥ [37]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +686,8 @@ Then all this comes to pass with regard to the equals of him for whom knowing th
 एता᳓वन्तो वै᳓ सजाता᳓ ये᳓ महा᳓न्तो ये᳓ क्षुल्लका᳓ या᳓स्स्त्रि᳓यस्ता᳓नेवा᳓व रुन्द्धे ।  
 त᳓ एनम᳓वरुद्धा उ᳓प तिष्ठन्ते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -622,4 +711,5 @@ Then all this comes to pass with regard to the equals of him for whom knowing th
 9'आमनम्' इत्यादि स्विष्टकृतः पुरस्तात् तिस्स्रस्रुवाहुतीरुपजुहोति । क्षुल्लकाः क्षुद्राः कुमाराः । क्षुधा लान्तीति क्षुल्लकाः । कान्तात्कुत्सायां प्रतिषेधः [... यां प्रागिवीयः] कः ॥
 
 इति द्वितीये तृतीये नवमोनुवाकः ॥  
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "०६ ओषधिवापः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 कृष्टायां भुवि ओषधिवापः
@@ -18,6 +20,7 @@ title = "०६ ओषधिवापः"
 अथ षष्ठ ओषधिवापो विधीयते ।  
 कल्पः—“या जाता ओषधय इति चतुर्दशभिरोवधीर्वपति” इति ।  
 तत्र प्रथमामाह–  या जाता इति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
@@ -77,9 +80,12 @@ The seven and a hundred abodes.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— शतं वो अम्बेति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
@@ -127,9 +133,12 @@ Make him whole for me.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह– पुष्पावतीरिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
@@ -184,9 +193,12 @@ The plants are strong to help.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– ओषधीरितीति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
@@ -238,9 +250,12 @@ Defilement [1] destroying.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह– अश्वत्थे व इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
@@ -290,9 +305,12 @@ If ye shall gain this man.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— यदहं वाजयन्निति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
@@ -326,9 +344,12 @@ As before one that taketh alive.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह– यदोषधय इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
@@ -387,9 +408,12 @@ Slayer of Raksases, overpowerer of diseases.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह— निष्कृतिर्नामेति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
@@ -434,9 +458,12 @@ Remove whatever is unwell.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— अन्या व इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
@@ -482,9 +509,12 @@ Do ye further this speech of mine.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह— उच्छुष्मा इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
@@ -529,9 +559,12 @@ To the self of thee, O man.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशीमाह—  १९१६ अति विश्वा इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
@@ -577,9 +610,12 @@ Every defilement in the body.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशीमाह— यास्त इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
@@ -624,9 +660,12 @@ Like a dread intercessor.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ त्रयोदशीमाह— साकं यक्ष्मेति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
@@ -675,9 +714,12 @@ With the whirlwind do thou disappear.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्दशीमाह— अश्वावतीमिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
@@ -724,9 +766,12 @@ For his safety.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथात्रैव विकल्पिताः षडृच आम्नायन्ते ।   तत्र प्रथमामाह— या फलिनीरिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
@@ -772,9 +817,12 @@ May they free us from tribulation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— या ओषधय इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
@@ -820,9 +868,12 @@ Impel us to long life.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— अवपतन्तीरिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
@@ -868,9 +919,12 @@ Shall not come to ill.'
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— याश्चेदमिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
@@ -916,9 +970,12 @@ Give ye him healing.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— मा वो रिषादमिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
@@ -964,9 +1021,12 @@ Be free from disease.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— ओषधय इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">

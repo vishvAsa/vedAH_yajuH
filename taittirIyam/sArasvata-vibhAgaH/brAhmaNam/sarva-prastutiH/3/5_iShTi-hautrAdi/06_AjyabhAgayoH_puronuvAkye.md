@@ -3,9 +3,12 @@ title: ०६  आज्यभागयोः पुरोनुवाक्य�
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1आज्यभागयोः पुरोनुवाक्ये - अग्निर्वृत्राणीति गायत्र्यौ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -14,6 +17,8 @@ unicode_script: devanagari
 द्रविणस्यु᳓र् विपन्य᳓या ।  
 स᳓मिद्धश् शुक्र᳓ आ᳓हुतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,6 +49,7 @@ unicode_script: devanagari
 ([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/3/13) द्रष्टव्यम्।)
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,6 +58,8 @@ unicode_script: devanagari
 त्वँ᳓ रा᳓जोत᳓ वृत्रहा᳓ ।  
 त्व᳓म् भद्रो᳓ असि क्र᳓तुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,6 +85,7 @@ unicode_script: devanagari
 - टीका
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्यामाह— त्वँ सोमासीति ।   हे सोम त्वं सतां सम्यगनुष्ठितानां कर्मणां पतिरसि।   किंच त्वं राजा दीप्तिमान् ।   अपि च त्वं वृत्रहा पापघाती ।   किंच त्वं भद्रः फलप्रदत्वेन मङ्गलः क्रतुरसि ।   तस्य क्रतोर्निष्पादकत्वात् ।   यद्यप्येतन्मन्त्रद्वयं चोद कप्राप्तं तथाऽप्यमावारयाविकृतित्व युक्तां वृधन्वत्योः प्राप्तिं वारयितुं पुनः पाठः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +94,8 @@ unicode_script: devanagari
 शु᳓म्भानस् तनु᳓वँ स्वा᳓म् ।  
 कवि᳓र् वि᳓प्रेण वावृधे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -103,6 +114,7 @@ unicode_script: devanagari
 
 एवं जुषाणः सोमः इत्यादि । गतम् । अत्राग्नेराज्यादन्यद्धविरस्ति । सोमस्य नास्ति । अतस्सोमस्येदमाज्यं हविरिति मत्वाऽऽह । प्रत्नेन पुराणेन आत्मीयेन जन्मना हविः-प्रक्षेपजन्मना शोभया जननीयेन वा हविषा स्वां तनुवं शुम्भानः शोभयमानस्सन् कविः क्रान्तदर्शनः वावृधे वर्धताम् । छान्दसो लिट्, तुजादित्वादभ्यासस्य दीर्घः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -110,6 +122,8 @@ unicode_script: devanagari
 वर्ध᳓यामो वचो-वि᳓दः ।  
 सुमृडीको᳓ न आ᳓विश ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,11 +141,14 @@ unicode_script: devanagari
 
 गीर्भिः सूक्तिभिः वर्धयामः महायशसं कुर्मः । यस्मात् वयं वचोविदः वचसां वेदितारः वाग्योगविदः, अतः त्वं सुमृडीकः सुष्ठु सुखयिता भूत्वा नः अस्मान् आविश अनुप्रविश्य अनुगृहाण ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुषाण᳓स् सो᳓म आ᳓ज्यस्य हवि᳓षो वेतु ॥9॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,4 +166,5 @@ unicode_script: devanagari
 
 इति तैत्तिरीयब्राह्मणे तृतीये पञ्चमे षष्ठोऽनुवाकः ॥  
 
+</details>
 </details>

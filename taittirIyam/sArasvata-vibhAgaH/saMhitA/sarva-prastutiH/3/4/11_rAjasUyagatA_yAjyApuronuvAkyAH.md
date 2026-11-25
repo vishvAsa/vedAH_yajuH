@@ -6,9 +6,12 @@ title = "११ राजसूयगता याज्यापुरोनु
 ८ जगती   
 विश्वेदेवा ऋषयः   
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1सन्ति देवसुवां हवींष्यष्टौ 'अग्नये गृहपतये पुरोडाशमष्टाकपालं निर्वपेत्कृष्णानां व्रीहीणाम्' इत्यादौ विहितानि, 'देवसुवामेतानि हवींषि भवन्ति' इति च तेषां याज्यानुवाक्या । तस्याग्नेयस्य पुरोनुवाक्या -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -16,6 +19,8 @@ title = "११ राजसूयगता याज्यापुरोनु
 त्व᳓म् अग्ने बृह᳓द् व᳓यो द᳓धासि देव दाशु᳓षे ।   
 कवि᳓र्गृह᳓पतिर्यु᳓वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,10 +44,14 @@ Sage, lord of the house, the youthful.
 
 त्वमग्ने इति गायत्री हे अग्ने देव त्वं बृहत् महत् वयः अन्नं दधासि धारयसि दाशुषे हविर्दत्तवते यजमानाय दातुं दधासि । कविः क्रान्तदर्शनः गृहपतिः गृहस्य पाता युवा हविषां देवैर्मिश्रयिता, नित्यतरुणो वा । 'दाश्वान्' इति निपातितः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - हव्यवाडिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -50,6 +59,8 @@ Sage, lord of the house, the youthful.
 हव्यवा᳓डग्नि᳓रज᳓रᳶ पिता᳓ नो विभु᳓र्विभा᳓वा सुदृ᳓शीको अस्मे᳓ ।   
 सुगार्हपत्या᳓स्स᳓मि᳓षो दिदीह्यस्मद्रि᳓यक्स᳓म्मिमीहि श्र᳓वाँसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -74,10 +85,14 @@ Mete out to uswards renown.
 
 हव्यवाट् हविषां वोढा अग्निः अङ्गनादिगुणयुक्तः अजरो जरारहितः । 'नञो जरमर' इत्युदात्तत्वम् । पिता पालयिता नः अस्माकं विभुः भुवनस्य व्यापी विभावा विशेषेण भानशीलः । भातेर्वनिप् । सुदृशीकः सुखदर्शनः । दृशीकादयो निपात्यन्ते, 'क्रत्वादयश्च' इत्युत्तरपदाद्युदात्तत्वम् । ईदृशस्त्वं अस्मै अस्माकम् । 'सुपां सुलुक्' इति शे आदेशः । सुगार्हपत्याः शोभनगृहपतित्वहेतुभूताः इषः अन्नानि संदिदीहि एकीकृत्य दीपय देहीत्यर्थः । दिदेतिः दीप्तिकर्मा छान्दसः, ददातेर्वा रूपं छान्दसविकारः । किं च - अस्मद्रियक् अस्मदाभिमुख्येनागतिमत् । 'विष्वग्देवयोश्च' इत्यद्र्यादशेः । श्रवांसि यशांसि अन्नानि वा संमिमीहि सम्यङ्निष्पादय । माङ् माने, जौहोत्यादिकः, व्यत्ययेन परस्मैपदम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ 'सोमाय वनस्पतये श्यामाकं चरुम्' इत्यस्य सौम्यस्य पुरोनुवाक्या - त्वं चेति गायत्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -85,6 +100,8 @@ Mete out to uswards renown.
 त्व᳓ञ्च सोम नो व᳓शो जीवा᳓तुन्न᳓ मरामहे ।   
 प्रिय᳓स्तोत्रो व᳓नस्प᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,10 +125,14 @@ Thou that lovest praise, lord of the forest.
 
 त्वमपि महानुभावः सोम नः वशः कामयसे रक्ष्यत्वेन । वष्टेर्लोट्याडागमः । 'निपातैर्यद्यदिहन्त' इति निघाताभावः । यद्वा - चशब्दोवधारणे । हे सोम नोस्माकं त्वमेव वशः कान्तः इष्टतमः । किमर्थम्? जीवातुं जीवनाय । व्यत्ययेन चतुर्थ्यर्थे द्वितीया । तुमुनि वा आडागमश्छान्दसः, तस्योदात्तत्वं च । अतः त्वत्प्रसादात् न मरामहे न म्रियामहे । व्यत्ययेन शप् । पुनश्च सोमो विशेष्यते - प्रियस्तोत्रः । गतम् । वनस्पतिः वनानां पाता । 'सोमो वा ओषधीनां राजा' इति । वनस्थानां वा पाता 'सोमो वनस्पतीनाम्' इति । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु युगपत्' इति पूर्वयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -119,6 +140,8 @@ Thou that lovest praise, lord of the forest.
 ब्रह्मा᳓ देवा᳓नाम्पदवीᳵ᳓ कवीना᳓मृ᳓षिर्वि᳓प्राणाम्महिषो᳓ मृगा᳓णाम् ।   
 श्येनो᳓ गृध्राणाँ स्व᳓धितिर्व᳓नानाँ सो᳓मः [41]  पवि᳓त्रम᳓त्येति रे᳓भन् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,10 +165,14 @@ Soma [1] goeth over the seive singing.
 
 देवानां मध्ये ब्रह्मा सोमः ब्रह्मात्मना वर्तते । यद्वा - देवानां यथा ब्रह्मा श्रेष्ठो भवति, एवं सोमः पवित्राणां श्रेष्ठ इति । पदवीः पदव्यः यज्ञाः अभेदेन तद्विद उच्यन्ते । कवीनां क्रान्तदर्शनानां मध्ये यज्ञविदः श्रेष्ठाः । व्यत्ययेन वा बहुवचनम् । हल्ञ्यादिलोपाभावो वा । यज्ञश्रेष्ठ इति । यद्वा - वेतेर्गतिकर्मणो बुद्ध्यर्थात्क्विप् । पदानां पद्यमानानां यज्ञानामेव वेदितोच्यते, अनवधारणादनवग्रहः । ऋषिः द्रष्टा विप्राणां श्रेष्ठः, महाबलत्वात् । श्येनः शंसनीयो गच्छतीति गृध्राणां श्रेष्ठः । स्वधितिः अग्निः विनाशनसामर्थ्यात्ताच्छब्द्यम् । आत्मनि धीयते इति । वनानां वननीयानां अग्निः श्रेष्ठः । महावृक्षः कश्चिदित्येके । एवं सोमः पवित्राणां मध्ये पवित्रमत्येति ब्रह्मादिकम् । यद्वा - यन्नाम किंचित् पवित्रं तत् सर्वमत्येति रेभन् स्तूयमानः । रेभृ शब्दे, व्यत्ययेन कर्तृप्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'सवित्रे सत्यप्रसवाय पुरोडाशं द्वादशकपालमाशूनां व्रीहीणाम्' इत्यस्य सावित्रस्य पुरोनुवाक्या - आ विश्वदेवमिति गायत्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -153,6 +180,8 @@ Soma [1] goeth over the seive singing.
 आ᳓ विश्व᳓देवँ स᳓त्पतिँ सूक्तै᳓रद्या᳓ वृणीमहे ।   
 सत्य᳓सवँ सविता᳓रम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,10 +205,14 @@ Savitr of true instigation.
 
 विश्वदेवं विश्वेऽपि देवा दीव्यन्तेऽस्मिन्निति विश्वदेवस्सविता । 'विश्वं संज्ञायाम्' इति विश्वशब्दस्याद्युदात्तत्वम् । सत्पतिं सतां विदुषां पातारम् । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । सूक्तैस्सम्यगुक्तैः स्तोत्रैः अद्यास्मिन् यज्ञे वृणीमहे सत्यसवं सत्यानुज्ञं सवितारं देवम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - आ सत्येनेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
@@ -223,9 +256,12 @@ The god advanceth gazing on the worlds.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'रुद्राय पशुपतये गावीधुकं चरुम्' इत्यस्य रौद्रस्य पुरोनुवाक्या - यथा न इति गायत्री ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/043/02_yathA_no.md">
@@ -239,11 +275,14 @@ The god advanceth gazing on the worlds.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 That Aditi may accord  
 To our cattle, our men, our kine,  
 To our offspring, Rudra's grace.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/043/02_yathA_no.md">
@@ -517,9 +556,12 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - मा न इति जगती ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -527,6 +569,8 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 मा᳓ नस्तोके᳓ त᳓नये मा᳓ न आ᳓युषि मा᳓ नो गो᳓षु मा᳓ [42]  नो अ᳓श्वेषु रीरिषः ।   
 वीरा᳓न्मा᳓ नो रुद्र भामितो᳓ वधीर्हवि᳓ष्मन्तो न᳓मसा विधेम ते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -550,10 +594,14 @@ With oblations let us serve thee with honour.
 
 हे रुद्र भामितः क्रुद्धस्त्वं नोस्माकं तोकादीन् मा रीरिषः मा हिंसीः तोकादिविषये हिंसां मा कृधाः । सर्वत्र जातावेकवचनम् । तोकेष्वपत्येषु तनयेषु तदपत्येषु नप्त्रादिषु आयुषि जीविते गोषु अश्वेषु च । किञ्च - वीरान् विक्रान्तान् नोस्मदीयान् क्रोधेन मा वधीः । यथा वयं हविष्मन्तोनेन गावीधुकेन चरुणा तद्वन्तः नमसा नमस्कारेण ते त्वां विधेम परिचरेम तदर्थं मा रीरिषः इति । पूर्ववत्कर्मणि षष्ठी ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'बृहस्पतये वाचस्पतये नैवारं चरुं' इत्यस्य पुरोनुवाक्या - उदप्रुत इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -561,6 +609,8 @@ With oblations let us serve thee with honour.
 उदप्रु᳓तो न᳓ व᳓यो र᳓क्षमाणा वा᳓वदतो अभ्रि᳓यस्येव घो᳓षाः ।   
 गिरिभ्र᳓जो नो᳓र्म᳓यो म᳓दन्तो बृ᳓हस्प᳓तिमभ्य᳙र्का᳓ अनावन् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -584,10 +634,14 @@ Like joyous waves breaking forth from the mountains, The praises have lauded Brh
 
 उदप्रुतः उदकस्य प्रापयितारः प्रवोढारः प्रवर्तयितारो वा मेघा उच्यन्ते । ध्रुङ् प्रुङ् प्लुङ् गतौ, उदभावश्छान्दसः । उदप्रुतो न उदप्लुत इव वयोन्नं रक्षमाणाः वृष्टिद्वारेण रक्षन्तः । व्यत्ययेनात्मनेपदम् । वावदतः अभ्रियस्य घोषा इव विश्वं जगद्वादयन्तः । वदेर्यङ्लुगन्ताच्छतरि 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गिरिभ्रजो न गिरिभ्रज इव गिरिपृष्ठगामिनः । भ्रजतिर्गतिकर्मा, भ्राजतेर्वा ह्रस्वत्वम् । ऊर्मयः उदकसंघाता इव मदन्तः मादयन्तस्तर्पयन्तः प्रजाः । स्वरितत्वाच्चौरादिकस्य णिलुक् । ईदृशार्काः अर्चनादिसाधनभूताः स्तुतयः । अर्चतेः करणे घञ्, 'चजोः कुधिण्यतोः' इति कुत्वम् । यद्वा - अर्क स्तुतौ । बृहस्पतिमभ्यनावन् बृहस्पतिमभिष्टुवन्ति, तस्माद्वयमपि तं महानुभावं यजामहे इति । नौतेश्छान्दसो लुङ्, व्यत्ययेन शप्, धातोश्च वृद्धिः । बृहस्पतेस्सुट्स्वरावुक्तौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - हंसैरिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -595,6 +649,8 @@ Like joyous waves breaking forth from the mountains, The praises have lauded Brh
 हँसै᳓रिव स᳓खिभिर्वा᳓वदद्भिरश्मन्म᳓यानि न᳓हना व्य᳓स्यन् ।   
 बृ᳓हस्प᳓तिरभि क᳓निक्रदद्गा᳓ उत᳓ प्रा᳓स्तौदु᳓च्च विद्वाँ᳓ अगायत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -619,10 +675,14 @@ And praised and sang in celebration perceiving them.
 
 हंसैः हननशीलैः ज्ञानशीलैः शुद्धात्मभिः तैरिव सखिभिः समानख्यानैः ऋत्विग्भिः यावदर्थं वदद्बिः अश्मन्मयानि व्याप्तिमदुदकवन्ति । अयस्मयादित्वेनाश्मन्नलोपाभावः नहना नहनानि बन्धनानि मेघान् व्यस्यन् विविधं क्षिपन् प्रेरयन् बृहस्पतिः अभिकनिक्रदत् अभितस्स्तनयन् । दाधर्त्यादौ निपात्यते, शतर्यनुनासिकलोपः, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । गाः अपः । उतशब्दश्चार्थे । प्रास्तौत् उच्च मेघसन्निधानादिना वृष्ट्याभिमुख्यवतीः कृतवान् उदगायच्च, उदक्षिपच्च अवर्षच्चेत्यर्थः । विद्वान् वर्षणोपायज्ञः । विद्वानेव प्रस्तोता उदगायदिति भावः । 'दीर्घादटि समानपादे' इति रुत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'इन्द्राय ज्येष्ठाय पुरोडाशमेकादशकपालं महाव्रीहीणाम्' इत्यस्य पुरोनुवाक्या - ऐन्द्रेति गायत्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -630,6 +690,8 @@ And praised and sang in celebration perceiving them.
 ए᳓न्द्र सानसिँ᳓ रयि᳓म् [43]  सजि᳓त्वानँ सदास᳓हम् ।   
 व᳓र्षिष्ठमूत᳓ये भर ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -653,10 +715,14 @@ Highest for help, do thou bring.
 
 हे इन्द्र सानसिं संभजनीयाम् । सनोतेरसिप्रत्ययः, वृद्धिश्च निपात्यते । रयिं धनं सजित्वानं सर्वानरीन् जेतुं शीलं यस्य । 'अन्येभ्योपि दृश्यते' इति जयतेः क्वनिप् । यद्वा - जेतृभिस्सहितम् । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । सदासहं सर्वकालमरीणामभिभवितारं वर्षिष्ठं वृद्धतरं अतिप्रभूतं ईदृशं रयिमस्मभ्यं आभर । 'हृग्रहोः' इति भः । ऊतये रक्षणाय तर्पणाय वा । 'ऊतियूति' इत्यादिना क्तिन उदात्तत्वं निपात्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - प्र ससाहिषे इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -664,6 +730,8 @@ Highest for help, do thou bring.
 प्र᳓ ससाहिषे पुरुहूत श᳓त्रूञ्ज्ये᳓ष्ठस्ते शु᳓ष्म इह᳓ राति᳓रस्तु ।   
 इ᳓न्द्रा᳓ भर द᳓क्षिणेना व᳓सूनि प᳓तिस्सि᳓न्धूनामसि रेव᳓तीनाम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -687,10 +755,14 @@ Thou art the lord of rich rivers.
 
 हे इन्द्र पुरुहूत बहुभिराहूत शत्रून् प्रससाहिषे प्रकषेर्णाभिभवसि । छान्दसे लिटि 'तुजादानाम्' इत्यभ्यासस्य दीर्घत्वम् । यद्वा - अभ्यास योर्विपर्ययः । कस्मादेवमुच्यत इति चेत् ज्येष्ठः श्रेष्ठः प्रभूततमो वा ते तव शुष्मः बलम् । अत ख इहास्मिन् कर्मणि रातिः दानं हविषः तवैवास्तु त्वामेव यजामहे । 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् । त्वं चास्मभ्यं दक्षिणेन हस्तेन वसूनि धनानि उदकादीनि आभर आहर । पूर्ववद्भत्वम्, 'अन्येषामपि दृश्यते' इति दक्षिणेत्यस्य दीर्घत्वम् । यस्मात्सिन्धूनां अपां रेवतीनां साधनानां पतिः पाता त्वमसि । रयेर्मतुब्बहुलम्' इति संप्रसारणत्वम् । यस्मात्पतिरसि, तस्मात्त्वमेब देहीत्युच्यते; बलत्त्वन्नाच्च तव दातुं नास्ति प्रतिबन्ध इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथैन्द्रे याज्यानुवाक्ये विकल्प्येते । तत्र पुरोनुवाक्या - त्वं सुतस्येति गायत्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -698,6 +770,8 @@ Thou art the lord of rich rivers.
 त्वँ᳓ सुत᳓स्य पीत᳓ये सद्यो᳓ वृद्धो᳓ अजायथाः ।   
 इ᳓न्द्र ज्यै᳓ष्ठ्याय सुक्रतो ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -721,10 +795,14 @@ O Indra, O wise one, for pre-eminence.
 
 हे इन्द्र त्वं सुतस्याभिषुतस्य सोमस्य पीतये सद्यो वृद्धो अजायथाः सर्वेषां ज्येष्ठभावाय [वः] तव भवति । हे सुक्रतो सुकर्मन् । तस्मात्सर्वज्येष्ठं त्वामेव यजामहे इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथ याज्या - भुव इति गायत्री ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -732,6 +810,8 @@ O Indra, O wise one, for pre-eminence.
 भुव᳓स्त्व᳓मिन्द्र ब्र᳓ह्मणा महा᳓न्भु᳓वो वि᳓श्वेषु स᳓वनेषु यज्ञि᳓यः ।   
 भु᳓वो नॄँ᳓श्च्यौत्नो᳓ वि᳓श्वस्मिन्भ᳓रे ज्ये᳓ष्ठश्च म᳓न्त्रः [44]  विश्वचर्षणे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -755,10 +835,14 @@ Thou art an overthrower of men in every conflict, And highest song [4], O lord o
 
 हे इन्द्र त्वं कर्म, ब्रह्मणा परिबृढेन श्रोत्रेण वा महान् भुवः असि सर्वैस्स्तूयमनो वर्धसे इत्यर्थः स्तूयमानानि तेजांसि वर्धन्ते । भवतेर्लेटि शपो लुक्, लेटोडागमः, 'भूसुवोस्तिङि' इति गुणाभावः पादादित्वान्न निहन्यते । भवसि च विश्वेषु सवनेषु यज्ञेषु यज्ञियः यागार्हः । 'यज्ञर्त्विग्भ्याम्' इति घः । विश्वस्मिन् भरे संग्रामे नॄन् नॄणां शत्रूणां च्यौत्नः च्यावयिता विनाशयिता । च्यवतेरौणादिकोत्नप्रत्ययः, वृद्धिश्चातोः । नृशब्दात् 'कर्तृकर्मणोः' इति षष्ठी व्यत्ययेन न प्रवर्तते । हे विश्वचर्षणे सर्वमनुष्यबद्धेऽपि मनुष्यास्त्वयि भवन्ति सत्त्वेन । यद्वा - विश्वस्य द्रष्टः, मन्त्रः मन्द्रः मननीत्यः स्तुतो वा । तस्मात्त्वमसि ज्येष्ठो भवसि च सर्वेषाम् । चशब्देन भुव इत्यनुकृष्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15'मित्राय सत्यायाम्बानां चरुम्' इत्यस्य मैत्रस्य पुरोनुवाक्या - मित्रस्येति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
@@ -773,9 +857,12 @@ Thou art an overthrower of men in every conflict, And highest song [4], O lord o
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— मित्रस्येति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
@@ -814,9 +901,12 @@ True, and most varied in fame.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - मित्र इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
@@ -866,9 +956,12 @@ To the true one, let us offer an oblation rich in ghee.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17अथ तत्रैव याज्या विकल्प्यते - प्र स मित्रेति त्रिष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/059/02_pra_sa.md">
@@ -884,12 +977,15 @@ To the true one, let us offer an oblation rich in ghee.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Rich in food be that mortal, O Mitra,  
 Who, O Aditya, seeks to follow thy law;  
 Aided by thee he is not slain nor oppressed;  
 Affliction cometh to him neither from near nor from afar.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/03/059/02_pra_sa.md">
@@ -1268,9 +1364,12 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18'वरुणाय धर्मपतये यवमयं चरुम्' इत्यस्य पुरोनुवाक्या - यच्चिदिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/01_yachchiddhi_te.md">
@@ -1285,11 +1384,14 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Whatever [5] law of thine, as men,  
 O god Varuna,  
 Day by day we transgress.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/025/01_yachchiddhi_te.md">
@@ -1566,9 +1668,12 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19तत्रैव याज्या - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
@@ -1584,12 +1689,15 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Whatever wrong we mortals here do  
 Against the host divine,
 Whatever breach of thy laws we make through lack of thought,  
 For that sin, O god, harm us not.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/089/05_yatkiM_chedaM.md">
@@ -1919,9 +2027,12 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20तत्रैव याज्याविकल्पः - कितवास इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/085/08_kitavAso_yadriripurna.md">
@@ -1937,12 +2048,15 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 As gamesters cheat in dicing,  
 What we know in truth or what we know not,  
 All that do thou, O god, loosen as it were,  
 And may we be dear to thee, O Varuna.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/085/08_kitavAso_yadriripurna.md">

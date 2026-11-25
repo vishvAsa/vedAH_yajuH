@@ -3,6 +3,8 @@ title = "०८ राष्ट्रभृन्मन्त्राणां 
 +++
 
 विश्वेदेवा ऋषयः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रा॒ष्ट्रका॑माय होत॒व्या॑ रा॒ष्ट्रव्ँ वै रा॑ष्ट्र॒भृतो॑ रा॒ष्ट्रेणै॒वास्मै॑ रा॒ष्ट्रमव॑ रुन्द्धे रा॒ष्ट्रमे॒व भ॑वति
@@ -12,11 +14,14 @@ title = "०८ राष्ट्रभृन्मन्त्राणां 
 
 1अथ राष्ट्रभृतां ब्राह्मणं - राष्ट्रकामायेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्र᳓कामाय होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ They should be offered for one who desires the kingdom;
 
 राष्ट्रं प्राप्तुकामो राष्ट्रकामः । 'शीलिकामि ' इत्यादिना णः पूर्वपदप्रकृतिस्वरत्वं च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रव्ँ᳓ वै᳓ राष्ट्रभृ᳓तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ the Rastrabhrts are the kingdom;
 
 राष्ट्रं वा इति । तत्साधनत्वात्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रे᳓णैवा᳓स्मै राष्ट्र᳓म᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ verily with the kingdom he wins the king dom for him;
 
 अस्मै यजमानाय राष्ट्रमवरुन्धे परिगृह्णात्यध्वर्युः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्र᳓मेव᳓ भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,16 +126,22 @@ he becomes the kingdom.
 
 ततो यजमानो राष्ट्रं भवति । स्वस्वामिनोरभेदोपचारः विधेयत्वातिशयप्रदर्शनार्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒त्मने॑ होत॒व्या॑ रा॒ष्ट्रव्ँ वै रा॑ष्ट्र॒भृतो॑ रा॒ष्ट्रम्प्र॒जा रा॒ष्ट्रम्प॒शवो॑ रा॒ष्ट्रय्ँयच्छ्रेष्ठो॒ भव॑ति रा॒ष्ट्रेणै॒व रा॒ष्ट्रमव॑ रुन्द्धे॒ वसि॑ष्ठस्समा॒नाना॑म्भवति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓ने होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,12 +162,15 @@ They should be offered for oneself;
 
 2आत्मन इति ॥ प्रजादिसमृद्ध्या यच्छ्रैष्ठ्यं तत्पुरुषस्यात्मा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रव्ँ᳓ वै᳓ राष्ट्रभृ᳓तः ।   
 राष्ट्र᳓म्प्रजा᳓ राष्ट्र᳓म्पश᳓वो राष्ट्रय्ँ᳓य᳓च्छ्रे᳓ष्ठो भ᳓वति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -169,12 +192,15 @@ the Rastrabhrts are the kingdom, the people are the kingdom, cattle are the king
 
 राष्ट्रं प्रजा; राष्ट्रहेतुत्वाद्बलहेतुत्वाद्वा । राष्ट्रं पशवः ; तत एव हेतोः यच्छ्रेष्ठः सर्वेषां प्रशस्यतमो भवति तदपि राष्ट्रतुल्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रे᳓णैव᳓ राष्ट्र᳓म᳓व रुन्द्धे ।
 व᳓सिष्ठस्समाना᳓नाम्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,16 +222,22 @@ verily with the kingdom he wins the kingdom, he becomes the richest of his equal
 
 वसिष्ठः वसुमत्तमः समानानां मध्ये भवति । प्रजादि धनं वसु । विन्मतोर्लुक्, 'टेः' इति टिलोपः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ग्राम॑कामाय होत॒व्या॑ रा॒ष्ट्रव्ँ वै रा॑ष्ट्र॒भृतो॑ रा॒ष्ट्रँ स॑जा॒ता रा॒ष्ट्रेणै॒वास्मै॑ रा॒ष्ट्रँ स॑जा॒तानव॑ रुन्द्धे ग्रा॒मी [22]  ए॒व भ॑वति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रा᳓मकामाय  होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,12 +258,15 @@ They should be offered for one who desires a village;
 
 3ग्रामकामायेति ॥ सजातसमवायो ग्रामः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रव्ँ᳓ वै᳓ राष्ट्रभृ᳓तः ।
 राष्ट्रँ᳓ सजाताः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,11 +288,14 @@ the Rastrabhrts are the kingdom, his fellows are the kingdom;
 
 सजाताः समानजन्मानः । पूर्ववत्ताच्छब्द्यम् । 'वा दान्त' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रे᳓णैवा᳓स्मै राष्ट्रँ᳓ सजाता᳓न᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -273,11 +311,14 @@ verily with the kingdom he wins for him his fellows and the kingdom;
 
 रा॒ष्ट्रेण॑ । ए॒व । अ॒स्मै॒ । रा॒ष्ट्रम् । स॒जा॒तानिति॑ स-जा॒तान् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रामी᳓ [22] एव᳓  भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,16 +334,22 @@ he becomes possessed of a village [1].
 
 ग्रा॒मी । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अधि॒देव॑ने जुहोत्यधि॒देव॑न ए॒वास्मै॑ सजा॒तानव॑ रुन्द्धे॒ त ए॑न॒मव॑रुद्धा॒ उप॑ तिष्ठन्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधिदे᳓वने जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,12 +370,15 @@ He offers on the dicing-place;
 
 4अधि देवन इति ॥ अधि दीव्यत्यस्मिन्निति अधिदेवनं देवनस्थानं, तत्र प्रधानाग्निमुपसमाधाय निशायां जुहोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अधिदे᳓वन एवा᳓स्मै सजाता᳓न᳓व रुन्द्धे ।  
 त᳓ एनम᳓वरुद्धा उ᳓प तिष्ठन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,16 +395,22 @@ verily on the dicing-place he wins his fellows for him, and being won they wait 
 
 अ॒धि॒देव॑न॒ इत्य॑धि-देव॑ने । ए॒व । अ॒स्मै॒ । स॒जा॒तानिति॑ स-जा॒तान् । अवेति॑ । रु॒न्द्धे॒ । ते । ए॒न॒म्॒ । अव॑रुद्धा॒ इत्यव॑-रु॒द्धाः॒ । उपेति॑ । ति॒ष्ठ॒न्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रथमु॒ख ओज॑स्कामस्य होत॒व्या॑ ओजो॒ वै रा॑ष्ट्र॒भृत॒ ओजो॒ रथ॒ ओज॑सै॒वास्मा॒ ओजोऽव॑ रुन्द्ध ओज॒स्व्ये॑व भ॑वति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथमुख᳓ ओ᳓जस्कामस्य होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,12 +431,15 @@ They should be offered on the mouth of the chariot for him who desires force;
 
 5रथमुख इति ॥ उपर्यग्नेः रथमुखं प्रगृह्य जुहुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वै᳓ राष्ट्रभृ᳓तः ।   
 ओ᳓जो र᳓थः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,11 +461,14 @@ the Rastrabhrts are force, the chariot is force;
 
 ओजो वा इत्यादि । गतम् । पूर्ववत्ताच्छब्द्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जसैवा᳓स्मा ओ᳓जो᳓ऽव रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,11 +484,14 @@ verily by force he wins force for him;
 
 ओज॑सा । ए॒व । अ॒स्मै॒ । ओजः॑ । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओजस्व्ये᳙व᳓  भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,16 +507,22 @@ he becomes possessed of force.
 
 ओ॒ज॒स्वी । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो रा॒ष्ट्रादप॑भूत॒स्स्यात्तस्मै॑ होत॒व्या॑ याव॑न्तोऽस्य॒ रथा॒स्स्युस्तान्ब्रू॑याद्यु॒ङ्ग्ध्वमिति॑ रा॒ष्ट्रमे॒वास्मै॑ युनक्ति [23]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ राष्ट्रा᳓द᳓पभूतस्स्या᳓त्त᳓स्मै होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,11 +543,14 @@ They should be offered for him who is expelled from his kingdom;
 
 6यो राष्ट्रादित्यादि ॥ अपभूतः अपरुष्टः । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वन्तोऽस्य र᳓थास्स्यु᳓स्ता᳓न्ब्रूयाद्युङ्ग्ध्व᳓मि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -497,11 +571,14 @@ to all his chariots he should say, 'Be yoked';
 
 हुत्वा यावन्तोस्य राष्ट्रप्रेप्सोः रथाः भवन्ति तान् सर्वान् 'युङ्ध्वम्' इति प्रैषं ब्रूयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्र᳓मेवा᳓स्मै युनक्ति [23] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -522,10 +599,14 @@ verily he yokes the kingdom for him [2].
 
 तेनास्मै राष्ट्रमेव युनक्ति ततो[न]पभूतो भवतीति । तिङः परत्वाद्युङ्ध्वमिति न निहन्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आहु॑तयो॒ वा ए॒तस्याकॢ॑प्ता॒ यस्य॑ रा॒ष्ट्रन्न कल्प॑ते स्वर॒थस्य॒ दक्षि॑णञ्च॒क्रम्प्र॒वृह्य॑ ना॒डीम॒भि जु॑हुया॒दाहु॑तीरे॒वास्य॑ कल्पयति॒ ता अ॑स्य॒ कल्प॑माना रा॒ष्ट्रमनु॑ कल्पते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +614,8 @@ verily he yokes the kingdom for him [2].
 आ᳓हुतयो वा᳓ एत᳓स्या᳓कॢप्ताः  ।   
 य᳓स्य राष्ट्र᳓न्न᳓ क᳓ल्पते   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -554,11 +637,14 @@ The oblations of him whose realm is not in order are disordered;
 
 7आहुतय इत्यादि ॥ अकॢप्ताः स्वस्वकार्यकरणे असमर्था यस्य राष्ट्रं न कल्पते नेष्टसाधनसमर्थं भवति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरथ᳓स्य द᳓क्षिणञ्चक्र᳓म्प्रवृ᳓ह्य नाडी᳓मभि᳓ जुहुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,12 +665,15 @@ he should take off the right wheel of his chariot and offer in the box;
 
 स्वरथस्य दक्षिणं चक्रं प्रवृह्य उपर्यग्नौ रथचक्रस्य नाडीं रन्ध्रं प्रगृह्य निशायां राष्ट्रभृतो जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓हुतीरेवा᳓स्य कल्पयति ।  
 ता᳓ अस्य क᳓ल्पमाना राष्ट्र᳓म᳓नु कल्पते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,16 +697,22 @@ so he puts in order his oblation, and the kingdom comes into order in accord wit
 
 ताश्च कल्पमानाः अनु अस्य राष्ट्रं कल्पते । लक्षणे अनोः कर्मप्रवचनीयत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सङ्ग्रा॒मे सय्ँय॑त्ते होत॒व्या॑ रा॒ष्ट्रव्ँ वै रा॑ष्ट्र॒भृतो॑ रा॒ष्ट्रे खलु॒ वा ए॒ते व्याय॑च्छन्ते॒ ये स॑ङ्ग्रा॒मँ सय्ँ॒यन्ति॒ यस्य॒ पूर्व॑स्य॒ जुह्व॑ति॒ स ए॒व भ॑वति॒ जय॑ति॒ तं स॑ङ्ग्रा॒मम्मा॑न्धु॒क इ॒ध्मः [24]  भ॒व॒त्यङ्गा॑रा ए॒व प्र॑ति॒वेष्ट॑माना अ॒मित्रा॑णामस्य॒ सेना॒म्प्रति॑ वेष्टयन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ग्रामे᳓ सय्ँ᳓यत्ते होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,12 +733,15 @@ They should be offered when battle is joined;
 
 8संग्रामे संयत्ते इत्यादि ॥ संग्रामे संयत्ते प्रक्रान्ते तज्जयार्थिनो होतव्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रव्ँ᳓ वै᳓ राष्ट्रभृ᳓तो राष्ट्रे᳓ ख᳓लु वा᳓ एते᳓ व्या᳓यच्छन्ते ।
 ये᳓ सङ्ग्रामँ᳓ सय्ँय᳓न्ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,6 +763,7 @@ the Rastrabhrts are the kingdom, and for the kingdom do they strive who go to ba
 
 राष्ट्रार्थं खल्वेते व्यायच्छन्ते व्यायामं कुर्वन्ति, ये संग्रामं संयन्ति प्राप्नुवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -672,6 +771,8 @@ the Rastrabhrts are the kingdom, and for the kingdom do they strive who go to ba
 स᳓ एव᳓ भवति  ।   
 ज᳓यति तं᳓ सङ्ग्राम᳓म्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -694,6 +795,9 @@ he for whom first they offer prospers, and wins this battle.
 
 तस्माद्यस्य पूर्वर्स्य प्रथमभाजिन एव जुहोति स एव भवति आत्मवान् संपद्यते तेन इतरं जयति च तं संग्रामं स एव ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -704,11 +808,14 @@ he for whom first they offer prospers, and wins this battle.
 
 अत्र विशेषमाह - मान्धुक इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓न्धुक᳓ इध्मः᳓ [24] भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -729,11 +836,14 @@ The kindling-wood is from the Madhuka tree [3];
 
 मान्धुकशब्दोधिक्रियन्ते? । बन्धूकविकार इत्येके । वृक्षान्तरमित्यन्ये । 'कोपधाच्च' इत्यण् । तत्रत्यं मित्रमग्निमुपसमाधाय मान्धुकमिध्ममभ्यज्य स्वाहाकारेणाभ्याधाय निशायामेतं जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गारा एव᳓ प्रतिवे᳓ष्टमाना अमि᳓त्राणामस्य से᳓नाम्प्र᳓ति वेष्टयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,10 +864,14 @@ the coals shrinking back make the host of his foe to shrink back.
 
 त एवाङ्गाराः प्रतिवेष्टमानाः संहत्य ज्वलन्तः अस्यामित्राणां सेनाः प्रतिवेष्टयन्ति प्रतिवेष्ट्य दहन्ति । 'अमेरित्रः' इतीत्रप्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य उ॒न्माद्ये॒त्तस्मै॑ होत॒व्या॑ गन्धर्वाप्स॒रसो॒ वा ए॒तमुन्मा॑दयन्ति॒ य उ॒न्माद्य॑त्ये॒ते खलु॒ वै ग॑न्धर्वाप्स॒रसो॒ यद्रा॑ष्ट्र॒भृत॒स्तस्मै॒ स्वाहा॒ ताभ्य॒स्स्वाहेति॑ जुहोति॒ तेनै॒वैना॑ञ्छमयति॒ नैय॑ग्रोध॒ औदु॑म्बर॒ आश्व॑त्थ॒ᳶ प्लाक्ष॒ इती॒ध्मो भ॑वत्ये॒ते वै ग॑न्धर्वाप्स॒रसा॑ङ्गृ॒हास्स्व ए॒वैना॑न् [25]  आ॒यत॑ने शमयति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -765,6 +879,8 @@ the coals shrinking back make the host of his foe to shrink back.
 य᳓ उन्मा᳓द्येत् ।  
 त᳓स्मै होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,11 +902,14 @@ They should be offered for one who is mad;
 
 9य उन्माद्येदित्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धर्वाप्सर᳓सो वा᳓ एत᳓मु᳓न्मादयन्ति य᳓ उन्मा᳓द्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -806,11 +925,14 @@ for it is the Gandharva and the Apsarases who madden him who is mad;
 
 ग॒न्ध॒र्वा॒प्स॒रस॒ इति॑ गन्धर्व-अ॒प्स॒रसः॑ । वै । ए॒तम् । उदिति॑ । मा॒द॒य॒न्ति॒ । यः । उ॒न्माद्य॒तीत्यु॑त्-माद्य॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ ख᳓लु वै᳓ गन्धर्वाप्सर᳓सो य᳓द्राष्ट्रभृ᳓तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,12 +953,15 @@ the Rastrabhrts are the Gandharva and the Apsarases.
 
 एते खल्विति । तेषां प्रतिपादकत्वात्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै स्वा᳓हा ता᳓भ्यस्स्वा᳓हे᳓ति जुहोति ।  
 ते᳓नैवै᳓नाञ्छमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -858,16 +983,22 @@ the Rastrabhrts are the Gandharva and the Apsarases.
 
 तस्मा इत्यादि ॥ गन्धर्वाप्सरोभ्यः पृथक्स्वाहाकृत्य होमेन एनान् शमयति शान्ताननुन्मादयितॄन् करोति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अत्र विशेषमाह - नैयग्रोध इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नै᳓यग्रोध औ᳓दुम्बर आ᳓श्वत्थᳶ प्ला᳓क्ष इ᳓तीध्मो᳓ भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -888,16 +1019,22 @@ Of Nyagrodha, Udumbara, Aśvattha, or Plaksa (wood) is the kindling-wood;
 
 एषामन्यतम इध्मो भवतीत्येके । एतच्चतुष्टयवानेक इध्म इत्यन्ये । 'अनुदात्तादेश्च' इति विकारे न्यग्रोधादिभ्योञ् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ते वै ग॑न्धर्वाप्स॒रसा॑ङ्गृ॒हास्स्व ए॒वैना॑न् [25]  आ॒यत॑ने शमयति ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ गन्धर्वाप्सर᳓साङ्गृहाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -918,11 +1055,14 @@ these are the homes of the Gandharva and the Apsarases;
 
 एत इत्यादि ॥ एते न्यग्रोधादयः गन्धर्वाप्सरसां ग्रहवत्प्रीतिहेतवः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓ एवै᳓नान् [25] आय᳓तने शमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,16 +1083,22 @@ verily he appeases them in their own abode [4].
 
 तस्मादेवं कुर्वन् स्वस्मिन्नेवायतनेऽवस्थितानेतान् शमयति शान्ताननुन्मादयितॄन् करोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अभि॒चर॑ता प्रतिलो॒मँ हो॑त॒व्याः॑ प्रा॒णाने॒वास्य॑ प्र॒तीच॒ᳶ प्रति॑ यौति॒ तन्ततो॒ येन॒ केन॑ च स्तृणुते॒ स्वकृ॑त॒ इरि॑णे जुहोति प्रद॒रे वै॒तद्वा अ॒स्यै निर्ऋ॑तिगृहीत॒न्निर्ऋ॑तिगृहीत ए॒वैन॒न्निर्ऋ॑त्या ग्राहयति॒ यद्वा॒चᳵ क्रू॒रन्तेन॒ वष॑ट्करोति वा॒च ए॒वैन॑ङ्क्रू॒रेण॒ प्र वृ॑श्चति ता॒जगार्ति॒मार्च्छ॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिच᳓रता  प्रतिलोमँ᳓ होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -973,12 +1119,15 @@ They should be offered in inverse order by one who is practising witchcraft;
 
 10अभिचरतेति ॥ प्रतिलोमं अन्त्यादारभ्य
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓नेवा᳓स्य प्रती᳓चᳶ प्र᳓ति यौति ।
 त᳓न्त᳓तो ये᳓न के᳓न च स्तृणुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1002,11 +1151,14 @@ so he fastens on his breaths from in front, and then at pleasure lays him low.
 
 ततस्तं प्रातिकूल्यप्राणं [कारिणं] येन केन च आयुधादिं विना येन केन च स्तृणुते विनाशयितुं शक्नुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓कृत इ᳓रिणे जुहोति प्रदरे᳓ वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1029,11 +1181,14 @@ He offers in a natural cleft or hollow;
 
 प्रकर्षेण दीर्यते इति प्रदरः, 'ऋदोरप्' थाथादिनोत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वा᳓ अस्यै᳓ नि᳓रृतिगृहीतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1054,11 +1209,14 @@ that of this (earth) is seized by misfortune;
 
 अस्यै पृथिव्याः एतस्मिन् निरृतिगृहीतं निरृत्या अलक्ष्म्या समाश्रितम् । पूर्ववत्स्वरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रृतिगृहीत एवै᳓नन्नि᳓रृत्या ग्राहयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1079,11 +1237,14 @@ verily on (a place) seized by misfortune he makes misfortune seize upon him.
 
 तस्मान्निरृतिगृहीते स्थाने होमादेनं निरृत्या ग्राहयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्वाचᳵ᳓ क्रूर᳓न्ते᳓न व᳓षट्करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1099,11 +1260,14 @@ With what is harsh in speech he utters the Vasat call;
 
 यत् । वा॒चः । क्रू॒रम् । तेन॑ । वष॑ट् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच᳓ एवै᳓नङ्क्रूरे᳓ण प्र᳓ वृश्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1124,11 +1288,14 @@ verily with the harshness of speech he cuts him down;
 
 यद्वाचः क्रूरं तेन वाचः क्रूरेण एनं प्रकर्षेण वृश्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताज᳓गा᳓र्तिमा᳓र्च्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1149,10 +1316,14 @@ swiftly he is ruined.
 
 ततः ताजक् तदानीमेव स आर्तिं गच्छति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यस्य॑ का॒मये॑ता॒न्नाद्य॑म् [26]  आ द॑दी॒येति॒ तस्य॑ स॒भाया॑मुत्ता॒नो नि॒पद्य॒ भुव॑नस्य पत॒ इति॒ तृणा॑नि॒ सङ्गृ॑ह्णीयात्प्र॒जाप॑ति॒र्वै भुव॑नस्य॒ पतिᳶ॑ प्र॒जाप॑तिनै॒वास्या॒न्नाद्य॒मा द॑त्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1160,6 +1331,8 @@ swiftly he is ruined.
 य᳓स्य काम᳓येतान्ना᳓द्यम् [26] आ᳓ ददीये᳓ति ।
 त᳓स्य सभा᳓यामुत्तानो᳓ निप᳓द्य भु᳓वनस्य पत इ᳓ति तृ᳓णानि स᳓ङ्गृह्णीयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1183,11 +1356,14 @@ If he desire of a man, 'Let me take his eating of food' [5], he should fall at l
 
 उत्तानो निपद्य निपतितशरीरस्सन् 'भुवनस्य पते' इति मन्त्रेण तृणानि संगृह्णीयात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्वै᳓ भु᳓वनस्य प᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1203,11 +1379,14 @@ the lord of the world is Prajapati;
 
 प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वै । भुव॑नस्य । पतिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिनैवा᳓स्यान्ना᳓द्यमा᳓ दत्ते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1223,16 +1402,22 @@ verily by Prajapati he takes his eating of food.
 
 प्र॒जाप॑ति॒नेति॑ प्र॒जा-प॒ति॒ना॒ । ए॒व । अ॒स्य॒ । अ॒न्नाद्य॒मित्य॑न्न-अद्य॑म् । एति॑ । द॒त्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒दम॒हम॒मुष्या॑मुष्याय॒णस्या॒न्नाद्यँ॑ हरा॒मीत्या॑हा॒न्नाद्य॑मे॒वास्य॑ हरति ष॒ड्भिर्ह॑रति॒ षड्वा ऋ॒तवᳶ॑ प्र॒जाप॑तिनै॒वास्या॒न्नाद्य॑मा॒दाय॒र्तवो॑ऽस्मा॒ अनु॒ प्र य॑च्छन्ति [27]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓मह᳓ममु᳓ष्यामुष्यायण᳓स्यान्ना᳓द्यँ हरामी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1253,11 +1438,14 @@ verily by Prajapati he takes his eating of food.
 
 12इदमहमित्यादि ॥ अदश्शब्दान्नडादित्वात्फक् । इदं तृणान्यादाय इदमहं नारायणस्य गोविन्दसूनोरन्नाद्यमाहरामीत्याहरन्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ना᳓द्यमेवा᳓स्य हरति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1278,11 +1466,14 @@ verily he takes his eating of food.
 
 आहरत्येवास्यान्नाद्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षड्भि᳓र्हरति ष᳓ड्वा᳓  ऋत᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1304,11 +1495,14 @@ With six (verses) he takes, the seasons are six;
 षड्भिरित्यादि । 'भुवनस्य' इत्यादि 'स नो भुवनस्य' इत्यन्तैः ।  
 एतानि तृणानि स्वस्यां वा सभायां स्वेषु वा अमात्येष्वपि सृजति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिनैवा᳓स्यान्ना᳓द्यमादा᳓यर्त᳓वोऽस्मा अ᳓नु प्र᳓ यच्छन्ति [27]  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1329,10 +1523,14 @@ verily the seasons having taken by Prajapati his eating of food bestow it on him
 
 प्रजापतिनेत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो ज्ये॒ष्ठब॑न्धु॒रप॑भूत॒स्स्यात्तँ स्थले॑ऽव॒साय्य॑ ब्रह्मौद॒नञ्चतु॑श्शरावम्प॒क्त्वा तस्मै॑ होत॒व्या॑ वर्ष्म॒ वै रा॑ष्ट्र॒भृतो॒ वर्ष्म॒ स्थलव्ँ॒वर्ष्म॑णै॒वैनव्ँ॒वर्ष्म॑ समा॒नाना॑ङ्गमयति॒ चतु॑श्शरावो भवति दि॒क्ष्वे॑व प्रति॑ तिष्ठति क्षी॒रे भ॑वति॒ रुच॑मे॒वास्मि॑न्दधा॒त्युद्ध॑रति शृत॒त्वाय॑ स॒र्पिष्वा॑न्भवति मेध्य॒त्वाय॑ च॒त्वार॑ आर्षे॒याᳶ प्राश्ञ॑न्ति दि॒शामे॒व ज्योति॑षि जुहोति ॥ [28]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1340,6 +1538,8 @@ verily the seasons having taken by Prajapati his eating of food bestow it on him
 यो᳓ ज्येष्ठ᳓बन्धुर᳓पभूतस्स्या᳓त्  ।
 तँ᳓ स्थ᳓लेऽवसा᳓य्य ब्रह्मौदन᳓ञ्च᳓तुश्शरावम्पक्त्वा᳓ त᳓स्मै होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1365,11 +1565,14 @@ If the head of a family is expelled, they should be offered for him, placing him
 
 चतुश्शरावमिति । चत्वारश्शरावाः परिमाणमस्येति । आर्हीयस्य 'अध्यर्थपूर्वद्विगोः' इति लुक्, 'इगन्तकाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्ष्म वै᳓ राष्ट्रभृ᳓तो व᳓र्ष्म स्थ᳓लम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1390,11 +1593,14 @@ the Rastrabhrts are pre-eminence, the mound is pre-eminence;
 
 वर्ष्म उच्च्छ्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्ष्मणैवै᳓नव्ँव᳓र्ष्म समाना᳓नाङ्गमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1410,11 +1616,14 @@ verily by pre-eminence he makes him pre-eminent among his equals.
 
 वर्ष्म॑णा । ए॒व । ए॒न॒म्॒ । वर्ष्म॑ । स॒मा॒नाना॑म् । ग॒म॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुश्शरावो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1430,11 +1639,14 @@ verily by pre-eminence he makes him pre-eminent among his equals.
 
 चतु॑श्शराव॒ इति॒ चतुः॑-श॒रा॒वः॒ । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्ष्वे᳙व᳓ प्र᳓ति तिष्ठति   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1450,11 +1662,14 @@ verily he finds support in the quarters;
 
 दि॒क्षु । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीरे᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1470,11 +1685,14 @@ it is made in milk;
 
 क्षी॒रे । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु᳓चमेवा᳓स्मिन्दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1490,11 +1708,14 @@ verily he bestows brilliance upon him;
 
 रुच॑म् । ए॒व । अ॒स्मि॒न्॒ । द॒धा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्धरति शृतत्वा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1515,11 +1736,14 @@ he takes it out, to make it cooked;
 
 उद्धरति पात्रान्तरे शृतत्वाय अभिव्यक्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्पि᳓ष्वान्भवति मेध्यत्वा᳓य  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1535,11 +1759,14 @@ it is full of butter, for purity;
 
 स॒र्पिष्वान्॑ । भ॒व॒ति॒ । मे॒ध्य॒त्वायेति॑ मेध्य-त्वाय॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वा᳓र आर्षेयाᳶ᳓ प्रा᳓श्ञन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1560,11 +1787,14 @@ four descended from Rsis partake of it;
 
 आर्षेयाः भवन्ति । अथवा शुश्रुवांसस्स्युः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशा᳓मेव᳓ ज्यो᳓तिषि जुहोति ॥ [28]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1586,4 +1816,5 @@ verily he offers in the light of the quarters.
 दिशां सम्बन्धिनि ज्योतिषि अग्नौ हुतं भवति तैः प्राशितम् ॥
 
 इति तृतीये चतुर्थे अष्टमोनुवाकः ॥
+</details>
 </details>

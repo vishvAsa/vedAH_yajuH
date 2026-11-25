@@ -8,6 +8,8 @@ unicode_script: devanagari
 एष᳓ गोसवः᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष गो॑स॒वः ।
@@ -24,11 +26,14 @@ unicode_script: devanagari
 षष्ठे गोसव उच्यते - एष वक्ष्यमाणो गोसवाख्यः क्रतुरनुष्ठेयः ।  
 स च सर्वेषु स्तोत्रेषु षटुत्रिंशस्तोमयुक्त उक्थ्यसंस्थारूपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्त्रिँश᳓ उक्थ्यो᳙ बृह᳓त्सामा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,11 +49,14 @@ unicode_script: devanagari
 
 पृष्ठस्तोत्रे बृहत्सामयुक्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓वमाने कण्वरथन्तर᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,11 +72,14 @@ unicode_script: devanagari
 
 तस्य पवमानस्तोत्रे कण्वरथंतराख्यं साम भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ वाजपे᳓यस् स᳓ सम्राट्त्सवः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,11 +96,14 @@ unicode_script: devanagari
 
 2अथ वाजपेयराजसूयाभ्यामुत्कृष्टत्वेनैतं सवं प्रशंसति - योऽयं वाजपेयोऽस्ति सोऽयं साम्राज्यहेतुरेव सवः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ राजसू᳓यस् स᳓ वरुणसवः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,11 +121,14 @@ unicode_script: devanagari
 यश्च राजसूयः सोऽपि वरुणैश्वर्यप्राप्तिहेतुरेव सवः ।  
 न तु तदुभयमधिकफलप्राप्तिहेतुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिस्स्वा᳓राज्यम्परमेष्ठी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,11 +139,14 @@ unicode_script: devanagari
 
 प्रजा᳓-पतिः । स्व᳓-राज्यम् । परमे-ष्ठी᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓राज्यङ्गौ᳓रेव᳓ गौ᳓रिव भवति ॥13॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,11 +165,14 @@ unicode_script: devanagari
 स्वाराज्यं हि सर्वैः प्रार्थ्यते ।  
 स्वराज्यं नाम गौरेव गोसव एव, स्वाराज्यप्राप्तिहेतुत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एते᳓न य᳓जते, य᳓ उ चैनमेवव्ँ᳓ वे᳓दोभे᳓ बृहद्रथन्तरे᳓ भवतस् त᳓द्धि᳓ स्वा᳓राज्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,12 +185,15 @@ unicode_script: devanagari
 
 यः᳓ । एते᳓न । य᳓जते । यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द । उभे᳓ । बृहत्-रथन्तरे᳓ । भवतः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयु᳓तन्द᳓क्षिणास् त᳓द्धि᳓ स्वा᳓राज्यम् ।  
 प्रतिधु᳓षाऽभि᳓षिञ्चति त᳓द्धि᳓ स्वा᳓राज्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -192,11 +218,14 @@ unicode_script: devanagari
 अभिषेकद्रव्यं विधत्ते - प्रतिधुषा तदानीमेव दुग्धेन क्षीरेण अभिषिञ्चेत् ।  
 सोऽयमभिषेकोऽयुतगोप्राप्तिवत्स्वाराज्यहेतुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नुद्धते वे᳓द्यै दक्षिणत᳓ आहवनी᳓यस्य बृहत᳓स्स्तोत्र᳓म्प्र᳓त्यभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,11 +241,14 @@ unicode_script: devanagari
 
 7अथाभिषेकस्य देशकालौ विधत्ते - वेद्यै वेद्या मध्य आहवनीयस्य दक्षिणभागे योऽयमनुद्धतदेशोऽस्ति सोऽयमभिषेकस्य योग्यो देशः तस्मिन्देशेऽभिषिञ्चेत् । बृहतस्तोत्रं प्रति बृहत्साम्ना क्रियमाणं स्तोत्रं यदा प्रवर्तते तदाऽभिषिञ्चेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म् ॥14॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,11 +264,14 @@ unicode_script: devanagari
 
 यदिदं कण्वरथंतरं पवमानस्तोत्रे प्रवृत्तं तद्भूमिस्वरूपं, यच्च पृष्ठस्तोत्रे बृहत्साम तद्द्युलोकरूपं, तयोरुभयोर्लोकयोर्मध्येऽनन्तर्हितं व्यवधानरहितमेवैनं यजमानमभिषिञ्चन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ᳓ बृह᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,11 +282,14 @@ unicode_script: devanagari
 
 असौ᳓ । बृह᳓त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन᳓योरेवै᳓नम᳓नन्तर्हितमभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,11 +300,14 @@ unicode_script: devanagari
 
 अ-न᳓योः । एव᳓ । एनम् । अ᳓नन्तर्हितम् । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुस्तोमो᳓ वा᳓ एष᳓स् ते᳓न गोसवः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,11 +319,14 @@ unicode_script: devanagari
 
 पशुस्तोमः᳓ । वै᳓ । एषः᳓ । ते᳓न । गो-सवः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षट्त्रिँश᳓स्स᳓र्वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,10 +345,14 @@ unicode_script: devanagari
 'षट्त्रिंशदक्षरा बृहती बार्हताः पशवः' इत्यन्यत्राम्नातम् ।  
 अतोऽस्मिन्गोसवे सर्वोऽपि स्तोमः षट्त्रिंश एव क्रियते न तु त्रिवृदादिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथाभिषेकार्थमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -314,6 +362,8 @@ unicode_script: devanagari
 महा᳓न्महित्वे᳓ तस्तभानः᳓ ।   
 क्षत्रे᳓ राष्ट्रे᳓ च जागृहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,11 +382,14 @@ unicode_script: devanagari
 
 हे यजमान! त्वं रेवत् धनवत् जीवनं यथा भवति तथा जातः प्रवृत्तः, सहसा वृद्धो बलेनाधिकः क्षत्राणां बलवतां मध्ये क्षत्रभृत्तमः अतिशयेन बलवान् वयोधा दीर्धायुष्यधारी महान् विद्याचारादिगुणैरधिकः महित्वे पूज्यत्वे तस्तभानः स्थिरं वर्तमानः । क्षत्रे बलकार्ये राष्ट्रे जनपदे च जागृहि अप्रमत्तो वर्धस्व ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रजा᳓पतेस्त्वा परमेष्ठि᳓नस्स्वा᳓राज्येनाभि᳓षिञ्चामी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -354,11 +407,14 @@ unicode_script: devanagari
 तमेतं मन्त्रं विधत्ते - इत्युक्तमेत मन्त्रमेतदभिषेककाले पठेत् तेन पाठेनैनं यजमानं स्वाराज्यं यापयति ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके षष्ठोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓राज्यमेवै᳓नङ्गमयति ॥15॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -368,4 +424,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 स्व᳓-राज्यम् । एव᳓ । एनम् । गमयति ।
+</details>
 </details>

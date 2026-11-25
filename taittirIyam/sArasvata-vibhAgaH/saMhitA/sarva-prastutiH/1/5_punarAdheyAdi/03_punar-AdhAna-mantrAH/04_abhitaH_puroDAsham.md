@@ -2,9 +2,12 @@
 title = "०४ अभितः पुरोडाशम्"
 +++
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अभितः पुरोडाशम् आहुतीर् जुहोति पुरस्ताद् उपरिष्टाच् च - पनर् ऊर्जेति द्वाभ्यां गायत्रीभ्याम् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/02_punar_UrjA.md">
@@ -49,9 +52,12 @@ Again guard us on all sides.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10द्वितीया -  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/03_saha_rayyA.md">

@@ -3,9 +3,12 @@ title = "०१ पवमानग्रहत्रयम्"
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै पव॑मानानामन्वारो॒हान्वि॒द्वान्यज॒तेऽनु॒ पव॑माना॒ना रो॑हति॒ न पव॑माने॒भ्योऽव॑च्छिद्यते
+</details>
 </details>
 
 ## ब्राह्मणम्
@@ -16,6 +19,8 @@ title = "०१ पवमानग्रहत्रयम्"
 अ᳓नु प᳓वमानान् आ᳓ रोहति ।  
 न᳓ प᳓वमानेभ्यो᳓ ऽवच्छिद्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,16 +51,22 @@ He who sacrifices knowing the 'ascent' verses of the Pavamana (Stotras) mounts o
 [Brāhmaṇa Prologue]
 He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends after the Pavamāna-s; he is not severed from the Pavamāna-s."
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 के पुनरन्वारोहा इत्यत आह - श्येनोसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येनो᳙ऽसि गायत्र᳓छन्दाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,11 +92,14 @@ He who, knowing the ascents of the Pavamāna [Soma-chants], sacrifices, ascends 
 
 You are the Falcon, having the Gāyatrī meter;
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नु त्वा᳓ रभे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,11 +125,14 @@ I grasp thee;
 
 I grasp onto you.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति᳓ मा स᳓म्पारय।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,16 +158,22 @@ bring me over in safety.
 
 Safely carry me across to the completion!
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ माध्यन्दिने पवमाने अष्टम्यां स्तोत्रियायां प्रस्तुतायां वाचयति - सुपर्णोसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्णो᳙ऽसि  त्रिष्टु᳓प् छन्दाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,11 +199,14 @@ Thou art the eagle, with the Tristubh for thy metre;
 
 You are the Fair-Winged Bird (Golden Eagle), having the Triṣṭubh meter; I grasp onto you. Safely carry me across to the completion!
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नु त्वा᳓ रभे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +222,14 @@ I grasp thee;
 
 अन्विति॑ । त्वा॒ । एति॑ । र॒भे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति᳓ मा स᳓म्पारय।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,16 +245,22 @@ bring me over in safety.
 
 स्व॒स्ति । मा॒ । समिति॑ । पा॒र॒य॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथार्भवे पवमाने नवम्यां प्रस्तुतायां वाचयति - सघाऽसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓घा ऽसि ज᳓गतीछन्दाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,11 +294,14 @@ The third incantation features the rare word (hapax?) saghā as the raptor. Whil
 Only two birds would be vR^iddhatara to suparNa: 
 Lammergeier or Cinereous Vulture
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नु त्वा᳓ रभे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,11 +317,14 @@ I grasp thee;
 
 अन्विति॑ । त्वा॒ । एति॑ । र॒भे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति᳓ मा स᳓म्पारये᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -304,11 +345,14 @@ bring me over in safety', he says.
 
 इत्याहेति । निगदव्याख्यातम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ प᳓वमानानाम् अन्वारोहाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -330,6 +374,7 @@ These [1] are the ascents of the Pavamanas;
 [Brāhmaṇa Epilogue]
 ...thus he says. These, verily, are the ascents of the Pavamāna chants. He who, knowing thus, sacrifices, ascends after the Pavamānas; he is not severed from the Pavamānas.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -337,6 +382,8 @@ These [1] are the ascents of the Pavamanas;
 अ᳓नु प᳓वमानान् आ᳓ रोहति ।  
 न᳓ प᳓वमानेभ्यो᳓ ऽवच्छिद्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -359,11 +406,15 @@ he who knowing thus these sacrifices mounts on the Pavamanas, and is not cut off
 
 We hold that the original soma was Ephedra. Hence, the original soma was not a hallucinogen sensu stricto. However, the exhilaration it produced was mind-altering and conveyed the sense of a divine flight, like that of a soaring raptor. This meditation with the above yajuṣ-es provided a primer for that. There are three ascents of soma, which correspond to the three main Pavamāna stotra-s, the Bahiṣ-pavamāna, the Mādhyandina and Ārbhava.
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै पव॑मानस्य॒ सन्त॑तिव्ँ॒वेद॒ सर्व॒मायु॑रेति॒ न पु॒रायु॑ष॒ᳶ प्र मी॑यते पशु॒मान्भ॑वति वि॒न्दते॑ प्र॒जाम्पव॑मानस्य॒ ग्रहा॑ गृह्य॒न्तेऽथ॒ वा अ॑स्यै॒तेऽगृ॑हीता द्रोणकल॒श आ॑धव॒नीयᳶ॑ पूत॒भृत्तान्यदगृ॑हीत्वोपाकु॒र्यात्पव॑मानव्ँ॒वि [2]  
 छि॒न्द्या॒त्तव्ँवि॒च्छिद्य॑मानमध्व॒र्योᳶ प्रा॒णोऽनु॒ विच्छि॑द्येतोपया॒मगृ॑हीतोऽसि प्र॒जाप॑तये॒ त्वेति॑ द्रोणकल॒शम॒भि मृ॑शे॒दिन्द्रा॑य॒ त्वेत्या॑धव॒नीयव्ँ॒विश्वे॑भ्यस्त्वा दे॒वेभ्य॒ इति॑ पूत॒भृत॒म्पव॑मानमे॒व तत्सन्त॑नोति॒ सर्व॒मायु॑रेति॒ न पु॒रायु॑ष॒ᳶ प्र मी॑यते पशु॒मान्भ॑वति वि॒न्दते॑ प्र॒जाम् ॥ [3]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +422,8 @@ We hold that the original soma was Ephedra. Hence, the original soma was not a h
 यो᳓ वै᳓ प᳓वमानस्य स᳓न्ततिव्ँवे᳓द ।  
 स᳓र्वमा᳓युरेति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +445,14 @@ He who knows the continuity of the Pavamana lives all his days;
 
 4-6यो वै पवानस्येत्यादि ॥ सन्तानः सन्ततिः अविच्छेदः । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ पुरा᳓युषᳶ प्र᳓ मीयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +473,14 @@ he does not die before his time;
 
 आयुषः शतर्संवत्सरप्रमाणात् पुरा प्राक् मध्ये न प्रमीयते न म्रियते,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुमा᳓न्भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,11 +501,14 @@ be becomes rich in cattle;
 
 पशुमान् भवति बहुपशुर्भवति । 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विन्द᳓ते प्रजा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,12 +524,15 @@ he obtains offspring.
 
 वि॒न्दते॑ । प्र॒जामिति॑ प्र-जाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓वमानस्य ग्र᳓हा गृह्यन्ते ।  
 अ᳓थ वा᳓ अस्यैते᳓ऽगृहीता द्रोणकलश᳓ आधवनी᳓यᳶ पूतभृ᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -491,10 +556,14 @@ The Pavamana cups are drawn off, but these are not drawn off by him, the wooden 
 
 तर्हि कस्य ते गृह्यन्तामित्यत आह - अथेति । एते खलु पवमानस्य ग्रहास्स्युः अस्य पवमानस्य सम्बन्धितया गृहीता एव ग्रहा भवन्ति । के पुनस्ते इत्यत आह - द्रोणकलश इत्यादि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तर्हि ते मा ग्राहिषतेत्यत आह - तान्यदित्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +572,8 @@ The Pavamana cups are drawn off, but these are not drawn off by him, the wooden 
 प᳓वमानव्ँवि᳓ च्छिन्द्यात्   ।  
 तव्ँ᳓विच्छि᳓द्यमानमध्वर्योᳶ᳓ प्राणो᳓ऽनु वि᳓च्छिद्येत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -525,16 +596,22 @@ If he were to begin (the Stotra) without drawing them off, he would split the Pa
 
 यद्येवं का गतिः, यदि गृह्यन्ते पवमानग्रहास्स्युः, यदि न गृह्यन्ते पवमानो विच्छिद्येत । नहि भवन्ति गृह्यन्ते न गृह्यन्ते चेति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्राह - उपयामगृहीतोसि प्रजापतये त्वेत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓गृहीतोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -555,11 +632,14 @@ If he were to begin (the Stotra) without drawing them off, he would split the Pa
 
 इयं वा उपयामः तयैव गृहीतस्त्वमसीति व्याख्यातम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वे᳓ति द्रोणकलश᳓मभि᳓ मृशेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -580,12 +660,15 @@ to Prajapati thee!', (with these words) he should rub the wooden vessel;
 
 तं त्वां प्रजापतये प्रजापत्यर्थं अभिमृशामीति शेषः । अनेन मन्त्रेण द्रोणकलशमभिमृशेत् उपयामगृहीतोसीति त्रयाणामनुषङ्गः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उपयाम᳓गृहीतोऽसि )+++इ᳓न्द्राय त्वे᳓त्याधवनी᳓यम्
  +++(अभिमशेत् )+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -607,6 +690,7 @@ to Prajapati thee!', (with these words) he should rub the wooden vessel;
 
 उपयामगृहीतोसीन्द्राय त्वेत्याधवनीयमभिमृशेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -615,6 +699,8 @@ to Prajapati thee!', (with these words) he should rub the wooden vessel;
 प᳓वमानमेव᳓ त᳓त्स᳓न्तनोति ।  
 स᳓र्वमा᳓युरेति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,11 +724,14 @@ to Prajapati thee!', (with these words) he should rub the wooden vessel;
 
 उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्य इति पूतभृतमभिमृशेत् । सर्वे पुरस्तादुपयामाः । एतेनाभिमर्शनेन ग्रहपर्यायेण ते गृहीता भवन्ति । तेन पवमानं सन्तनोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ पुरा᳓युषᳶ प्र᳓ मीयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,11 +747,14 @@ he does not die before his time;
 
 न । पु॒रा । आयु॑षः । प्रेति॑ । मी॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुमा᳓न्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -678,11 +770,14 @@ he becomes rich in cattle;
 
 प॒शु॒मानिति॑ पशु-मान् । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विन्द᳓ते प्रजा᳓म् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -704,5 +799,6 @@ he obtains offspring.
 सर्वमायुरेतीत्यादि । गतम् ॥
 
 इति तृतीये द्वितीये प्रथमोनुवाकः ॥
+</details>
 </details>
 

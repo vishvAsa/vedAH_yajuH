@@ -3,9 +3,12 @@ title: ०५ मैत्रावरुणः प्रैषः
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1उपप्रेष्येति प्रतिष्ठितः स एव ब्रवीति - अजैदिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ unicode_script: devanagari
 अ᳓जैदग्निः᳓ ।  
 अ᳓सनद्वा᳓जन्नि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -29,6 +34,7 @@ unicode_script: devanagari
 
  अजैत् जयतु संज्ञपनार्थं नीयमानस्य पशोः अग्रतः गच्छन् उल्मुकाख्यः अग्निः जयतु । छान्दसे लुङि सिचि वृद्धौ इडभावे रूपम् । हविस्संपादनसामर्थ्यवत्त्वं जयः । वाजं अन्नं हविर्लक्षणं न्यसनत् नियमेन संभजतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -37,6 +43,8 @@ unicode_script: devanagari
 धे᳓नाभिᳵ क᳓ल्पमानः ।  
 यज्ञ᳓स्या᳓युᳶ प्रतिर᳓न् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -55,11 +63,14 @@ unicode_script: devanagari
 
 देवो दानादियुक्तः देवेभ्यो हव्यानि अवाट् वहतु । लुङि हलन्तलक्षणा वृद्धिः । अञ्जोभिः ऋत्विग्भिः प्रहिन्वानः अग्रतः गच्छन् धेनाभिः प्रीणयित्रीभिः दीप्तिभिः धारणादिभिर्वा कल्पमानः संपद्यमानः यज्ञस्य यज्ञवतो यजमानस्य आयुः प्रतिरन् वर्षयन् एवंगुणो जयत्विति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓प प्रे᳓ष्य होतो हव्या᳓ देवे᳓भ्यः ॥12॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,4 +89,5 @@ unicode_script: devanagari
 
 इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे पञ्चमोऽनुवाकः ॥  
 
+</details>
 </details>

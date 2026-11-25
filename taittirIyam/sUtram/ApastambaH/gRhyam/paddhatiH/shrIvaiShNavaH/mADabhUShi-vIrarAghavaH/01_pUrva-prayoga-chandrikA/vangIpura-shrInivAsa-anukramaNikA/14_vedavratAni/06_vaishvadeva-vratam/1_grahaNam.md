@@ -11,7 +11,6 @@ title = "1 ग्रहणम्"
 उपवीतादिधारणं स्नानं 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vishvAn_devAn_kANDarShIn.md">
-
 ऋषितीर्थेन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -19,15 +18,16 @@ title = "1 ग्रहणम्"
 वि᳓श्वान् देवा᳓न् काण्डऋषी᳓न् तर्पयामि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वि᳓श्वान् देवा᳓न् काण्डऋषी᳓न्  तर्पयामि ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md">
-
 ऋषितीर्थेन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -35,15 +35,16 @@ title = "1 ग्रहणम्"
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md">
-
 ऋषितीर्थेन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +52,8 @@ title = "1 ग्रहणम्"
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
@@ -60,11 +63,15 @@ title = "1 ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,11 +82,15 @@ title = "1 ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु᳓णीर् देव᳓ता उपनिष᳓दस् तर्पयामि     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,6 +101,8 @@ title = "1 ग्रहणम्"
 
 वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि
 </details>
+</details>
+
 
 ब्रह्मतीर्थेन
 
@@ -97,6 +110,8 @@ title = "1 ग्रहणम्"
 
 ब्र᳓ह्मणे स्वयम्भु᳓वं तर्पयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +122,8 @@ title = "1 ग्रहणम्"
 
 ब्रह्म॑णे, स्व॒य॒म्भुवं॑ - तर्पयामि 
 </details>
+</details>
+
 
 ऋषितीर्थेन
 
@@ -115,11 +132,13 @@ title = "1 ग्रहणम्"
 स᳓दसस्-प᳓तिं तर्पयामि। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 स᳓दसस्-प᳓तिं तर्पयामि।
 </details>
-
+</details>
 </div>  
 
 च तर्पयित्वा, 
@@ -128,26 +147,29 @@ title = "1 ग्रहणम्"
 अग्नेरुपसमाधानाद्यग्निमुखान्ते शिष्येणान्वारब्धः, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vishvebhyo_devebhyaH_kANDarShibhyaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यो देवे᳓भ्यः काण्डऋषि᳓भ्यः स्वा᳓हा ।  
 (वि᳓श्वेभ्यो देवे᳓भ्य इद᳓न्, न᳓ म᳓म । )
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वि᳓श्वेभ्यो देवे᳓भ्यः काण्डऋषि᳓भ्यः स्वा᳓हा ।  
 (वि᳓श्वेभ्यो देवे᳓भ्य इद᳓न्, न᳓ म᳓म । )
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ 'वैश्वदेवं बहुरूपमालमेतान्नकामः' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -158,6 +180,8 @@ title = "1 ग्रहणम्"
 **क᳓रन्त्** सु-षा᳓हा विथुर᳓न्+++(=अचलं)+++ न᳓ श᳓वः+++(=बलम्)+++ ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आ नो॒ विश्वे॒ अस्क्रा॑गमन्तु दे॒वाः ।  
@@ -166,15 +190,24 @@ title = "1 ग्रहणम्"
 कर॑न्त्सु॒षाहा॑ विथु॒रन्न शवः॑ ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+आ᳓ । नः । वि᳓श्वे । अ᳓स्क्रागमन्तु । देवाः᳓ । मित्रः᳓ । अर्यमा᳓ । व᳓रुणः । सजो᳓षाः । भु᳓वन् । य᳓था । नः । वि᳓श्वे । वृधा᳓सः । क᳓रन् । सु-षा᳓हा । विथुर᳓म् । न᳓ । श᳓वः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 मित्रः अर्यमा वरुण इत्याद्याः सजोषाः समानप्रीतयो विश्वे सर्वे देवा **अस्क्रा** आभिमुख्येन कर्तारः सन्तो नोऽस्मान्प्रत्यागमन्तु आगच्छन्तु । **विश्वे देवा नो वृधासः** अस्मान्वर्धयितारो यथा **भुवन्** भवन्ति 
 **शवः** अस्मदीयं बलं सुषाहा सुषहं परेषामभिभवितृ **विथुरं न** अचलितं यथा करन् कुर्वन्ति तथाऽस्मानागच्छन्त्विति पूर्वत्रान्वयः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथ वपाया याज्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -185,6 +218,8 @@ title = "1 ग्रहणम्"
 श᳓न् नो दिव्याᳶ᳓ पा᳓र्थिवाश् श᳓न् नो अ᳓प्याः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 शन्नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु ।  
@@ -193,14 +228,23 @@ title = "1 ग्रहणम्"
 शन्नो॑ दि॒व्याᳶ पार्थि॑वा॒श्शन्नो॒ अप्याः॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+श᳓न्नः । देवाः᳓ । विश्व᳓-देवाः । भवन्तु । श᳓म् । स᳓रस्वती । सह᳓ । धीभिः᳓ । अस्तु । श᳓म् । अभिषा᳓ । चः । श᳓मु । राति-षा᳓चः । श᳓न्नः । दिव्याः᳓ । पा᳓र्थिवाः । श᳓न्नः । अ᳓प्याः ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 विश्वदेवशब्दो वसुरुद्रादिशब्दवद्गणविशेषवाची । विश्वदेवाख्या देवा नोऽस्माकं शं सुखहेतवो भवन्तु । सरस्वती देवी धीभिः बुद्ध्यभिमानिनीभिर्देवताभिः सह शं सुखहेतुरस्तु । अभितः सचन्ते समवयन्तीत्यभिषाचो बान्धवाः ते शं सुखहेतवो भवन्तु । रातिर्मित्रं तेन सचन्त इति रातिषाचो मित्रद्वारा संबध्यमानाः पुरुषा उ तेऽपि शं सुखहेतवो भवन्तु । दिवि भवा दिव्याः पृथिवयं भवाः पार्थिवा अपोऽन्तरिक्षं तत्र भवा अप्याः 'ये देवा दिव्येकादश स्थ' इत्यत्र पठिता लोकत्रयवर्तिनो देवाः शं सुखहेतवो भवन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ पुरोडाशस्य पुरोनुवाक्यमाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -211,6 +255,8 @@ title = "1 ग्रहणम्"
 **द᳓धातन** द्र᳓विणञ् चित्र᳓म् अस्मे᳓ ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ये स॑वि॒तुस्स॒त्यस॑वस्य॒ विश्वे॑ ।     
@@ -219,14 +265,23 @@ title = "1 ग्रहणम्"
 दधा॑तन॒ द्रवि॑णञ्चि॒त्रम॒स्मे ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ये᳓ । सवितुः᳓ । सत्य᳓-सवस्य । वि᳓श्वे । मित्र᳓स्य । व्रते᳓ । व᳓रुणस्य । देवाः᳓ । ते᳓ । सौ᳓भगम् । वीर᳓वत् । गो᳓मत् । अ᳓प्नः । द᳓धातन । द्र᳓विणम् । चित्र᳓म् । अस्मे᳓ ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 ये विश्वे देवाः सत्यसवस्य सत्यप्रेरणस्य सवितुः मित्रस्य वरुणस्य च संबन्धिनि व्रते कमेणि समागतास्ते सर्वे यूयं सौभगं सौभाग्यं **अप्नः** कर्मविशेषं द्रविणं धनं च अस्मे दधातन अस्मासु संपादयत । कीदृशं सौभगं? वीरवते बहुभिर्वीरैः पुत्रैर्युक्तम् । गोमत् बहुभिर्गोभिर्युक्तम् । कीदृशं द्रविणं? चित्रं मणिमुक्तादिभेदेन बहुविधम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ पुरोडाशस्य याज्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -237,6 +292,8 @@ title = "1 ग्रहणम्"
 य᳓क्षि+++(~~यक्षि~~)+++ देवा᳓न् रत्न-**धे᳓याय** वि᳓श्वान् ॥ 43 ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ या॒हि दू॒त्यव्ँ॑वारि॑षेण्यः ।  
@@ -245,14 +302,23 @@ title = "1 ग्रहणम्"
 य॒क्षि॒ दे॒वान्र॑त्न॒धेया॑य॒ विश्वा॑न् ॥ 43 ॥  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓ग्ने । याहि᳓ । दूत्य᳙म् । वा᳓रिषेण्यः । देवा᳓न् । अ᳓च्छा । ब्रह्म-कृ᳓ता । गणे᳓न । स᳓रस्वतीम् । मरु᳓तः । अश्वि᳓ना । आपः᳓ । यक्षि । देवा᳓न् । रत्न-धे᳓याय । वि᳓श्वान् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हेऽग्ने देवानच्छा देवानभिलक्ष्य दूत्यं याहि दूतकर्म कुरु । **वारिषेण्यः** मा रीरिषः कार्यविघातेनास्मान्मा हिंसीः । कान्देवानभिलक्ष्येति तदुच्यते - ब्रह्म परिवृढमिदं कर्म करोतीति ब्रह्मकृतेन कर्मकारिणा वैश्वदेवगणेन सह सरस्वत्यादीन्देवानभिलक्ष्य दूत्यं कृत्वा रत्नधेयाय रत्नसंपादनाय विश्वान्देवान् यक्षि पूजय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ हविषः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -263,6 +329,8 @@ title = "1 ग्रहणम्"
 अस्म᳓भ्यँ श᳓र्म बहुलव्ँ᳓ **वि᳓ यन्त** ।   
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 द्यौᳶ पि॑त॒ᳶ पृथि॑वि॒ मात॒रध्रु॑क ।  
@@ -271,14 +339,23 @@ title = "1 ग्रहणम्"
 अ॒स्मभ्यँ॒ शर्म॑ बहु॒लव्ँ वि य॑न्त ।   
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्यौः᳓ । पितः । पृ᳓थिवि । मा᳓त । र᳓ध् । रुक । अ᳓ग्ने । भ्रातः । वसवः । मृड᳓ता । नः । वि᳓श्वे । आदित्याः । अदिते । सजो᳓षाः । अस्म᳓-भ्यम् । श᳓र्म । बहुल᳓म् । वि᳓ । यन्त ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 येयं द्यौस्तद्रूप हे पितस्त्वं **अध्रुक्** द्रोहरहितः । हे पृथिवि मातः त्वमप्यध्रुक् । हेऽग्ने भ्रातः त्वमप्यध्रुक् हे वसवो यूयमप्यद्रुहः । ते यूयमस्माकं द्रोहमनाचरन्तो 'नोऽस्मान्मृडत सुखयत । हे विश्वे देवा हे आदित्या हे अदिते यूयं सजोषाः समानप्रीतयोऽस्मभ्यं बहुलं शर्म सुखं वियन्त विषेण यच्छत ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12अथ हविषो याज्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -289,6 +366,8 @@ title = "1 ग्रहणम्"
 **आस᳓द्यास्मि᳓न्** बर्हि᳓षि **मादयध्वम्** ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ देवाश्शृणु॒तेमँ हव॑म्मे ।   
@@ -297,11 +376,16 @@ title = "1 ग्रहणम्"
 आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वि᳓श्वे । देवाः । शृणुत᳓ । इम᳓म् । ह᳓वम् । मे । ये᳓ । अन्त᳓रिक्षे । यः᳓ । उ᳓प । द्य᳓वि । ष्ठ᳓ । ये᳓ । अग्नि-जिह्वाः᳓ । उत᳓ । वा । य᳓जत्राः । आ-स᳓द्य । अस्मि᳓न् । बर्हि᳓षि । मादयध्वम् ।
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे विश्वे देवाः मे हवं मदीयमाह्वानं शृणुत । ये यूयमन्तरिक्षे स्थ अन्तरिक्षलोके स्थिताः ये चोप समीपे पृथिव्यां स्थिताः ये च द्यवि दिवि लोके स्थ ये यूयमग्निजिह्वा अग्निद्वारेण हविषः स्वीकर्तारः उत वा अन्येऽपि वा यजत्राः यष्टव्याः ते सर्वेऽप्यस्मिर्न्बीहषि यागे आसद्य उपविश्य मादयध्वं दृप्ता भवत । अस्मानपि हर्षयत ॥
 </details>
-
+</details>
 </div>
 
 (वि᳓श्वेभ्यो देवे᳓भ्य इदं᳓ न᳓ म᳓म । इति सर्वत्र त्यागः। )
@@ -309,12 +393,13 @@ title = "1 ग्रहणम्"
 साँहितीभ्यो, याज्ञिकीभ्यो वारुणीभ्यो ब्रह्मणे स्वयम्भुवे सदसस्पतये च हुत्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +411,16 @@ title = "1 ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,12 +432,16 @@ title = "1 ग्रहणम्"
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +453,16 @@ title = "1 ग्रहणम्"
 
 वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
 (ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -377,27 +474,31 @@ title = "1 ग्रहणम्"
 
 ब्रह्म॑णे, स्व॒य॒म्भुवे॑ - स्वाहा॑ 
 </details>
+</details>
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
-<details open><summary><h8>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य …{Loading}…</h8></summary>
+
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
+
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
-
 </details>
-</div>
+</div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 (स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
 </details>
-
+</details>
 </div>  
 
 ## व्रतं चरिष्यामि
@@ -405,21 +506,30 @@ title = "1 ग्रहणम्"
 +++(माणवकः अग्नेरुत्तरतः स्थित्वा -)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -436,16 +546,24 @@ title = "1 ग्रहणम्"
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -456,17 +574,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -478,16 +606,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -498,12 +634,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -514,17 +657,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -535,12 +681,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -551,17 +704,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -572,8 +728,12 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
 इति चतुर्भिरुपस्थानं कारयित्वा,  

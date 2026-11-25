@@ -8,6 +8,8 @@ unicode_script: devanagari
 यो᳓ वै᳓ सो᳓मेन सूय᳓ते स᳓ देवसवः᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यो वै सोमे॑न सू॒यते॑ ।  
@@ -18,11 +20,14 @@ unicode_script: devanagari
 
 यः᳓ । वै᳓ । सो᳓मेन । सूय᳓ते । सः᳓ । देव-सवः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पशु᳓ना सूय᳓ते स᳓ देवसवः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,11 +50,14 @@ unicode_script: devanagari
 अतस्तदुभयं तथैव तिष्ठतु ।  
 यश्च स्वयमिष्ट्या निष्पाद्यते स मनुष्ययोग्यः सवः सर्वेषां सुलभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ इ᳓ष्ट्या सूय᳓ते स᳓ मनुष्यसवः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,11 +69,14 @@ unicode_script: devanagari
 
 यः᳓ । इ᳓ष्ट्या । सूय᳓ते । सः᳓ । मनुष्य-सवः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतव्ँ᳓ वै᳓ पृ᳓थये देवाᳶ᳓ प्रा᳓यच्छन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -85,11 +96,14 @@ unicode_script: devanagari
 पृथिनाऽनुष्ठितत्वादयं पृथिसवः ।  
 एतेन पृथिसवेन यो यजते, यश्चैनमेवं वेद स द्विविधोऽप्यसौ पुरुषः प्रजाभिरुच्यमानानां तासां सर्वासां वाचां सूयते आदीपतिर्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ सो᳓ऽप्यारण्या᳓नाम्पशूना᳓मसूयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -100,11 +114,14 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । अ᳓पि । आरण्या᳓नाम् । पशूना᳓म् । असूयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वतीᳵ कि᳓यतीश्च प्रजा᳓ वा᳓चव्ँव᳓दन्ति ता᳓साँ स᳓र्वासाँ सूयते ॥11॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,11 +138,14 @@ unicode_script: devanagari
 
 प्रजाश्च यावतीः कियतीश्च यावत्यः कियत्यश्च सन्ति ताः प्रजा वाचं वदन्ति तस्यां वाचि कोऽप्यंशो न परित्यज्यते । एतदभिप्रेत्य तासां सर्वासामिति बहुवचननिर्देशः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एते᳓न य᳓जते , य᳓ उ चैनमेवव्ँ᳓ वे᳓द नाराशँस्य᳓र्चा᳓ऽभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,11 +158,14 @@ unicode_script: devanagari
 
 यः᳓ । एते᳓न । य᳓जते । यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द । नाराशंसी᳓ । अर्चा᳓ । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्या᳙ वै नराशँ᳓सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +183,15 @@ unicode_script: devanagari
 तत्र पूर्वोक्तरीत्या मनुष्यमूर्तय एव देवा नराशंसशब्देनोच्यन्ते, तत्सबन्ध्यभिषेचनं यदस्ति एतेन निह्नुत्यैवापलप्यैव भवन्तो यतो मनुष्या अतो भवज्जातीयानस्माननुग्रहीतुमर्हन्तीत्येवं प्रलोभ्यैवानन्तरमभिषिञ्चति ॥  
 3अस्मिन्पृथिसवे कर्तव्यविशेषं विधत्ते - राजमूये ह्युत्तरवेदियुक्ताः सत्यसोमयागा द्विपशुः पशुबन्धश्चातुर्मास्यानि चैतानि वर्जयित्वा यदन्यदनुमत्यादिकं सौत्रामण्यन्तमस्ति, तत्सर्वमत्र कर्तव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निह्नु᳓त्य वा᳓वै᳓तद् अ᳓थाभि᳓षिञ्चति ।  
 य᳓त्कि᳓ञ्च राजसू᳓यमनुत्तरवेदी᳓कम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,11 +204,14 @@ unicode_script: devanagari
 
 नि-ह्नु᳓त्य । वा᳓व᳓ । एत᳓त् । अ᳓थ । अभि᳓ । सिञ्चति । य᳓त् । कि᳓म् । च । राज-सू᳓यम् । अनुत्तर । वेदी᳓ । कम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्स᳓र्वम्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,10 +222,14 @@ unicode_script: devanagari
 
 त᳓त् । स᳓र्वम् । भवति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ नाराशंसीमृचं पठति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -207,6 +240,8 @@ unicode_script: devanagari
 बृह᳓त्कृधि मघो᳓नाम् ।   
 नृव᳓दमृत नृणा᳓म् ॥12॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,4 +262,5 @@ unicode_script: devanagari
 ये मनुष्या मे मह्यमृत्विजेऽश्वानां पञ्चाशतं ददुः दातुं समर्थाः तेषां मघोनां धनिकानां नृणां मनुष्याणां यजमानानां यज्ञो हेऽग्ने मघस्तुतिः स्तुत्या सहितं श्रवो बृहत्कृधि । कीदृशं श्रवः? द्युमत् दीप्तिमत् धनयुक्तमित्यर्थः । महि महत् । नृवत् पुत्रभृत्यादियुक्तम् । अमृतशब्दः संबुद्ध्यन्तोऽग्निविशेषणम् ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके पञ्चमोऽनुवाकः ॥
+</details>
 </details>

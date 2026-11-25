@@ -3,9 +3,12 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 +++
 २ गायत्री, ३-५ त्रिष्टुप्, ९ अनुष्टुप् ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ प्रवृताहुती जुहोति - जुष्टो वाचः, ऋचा स्तोममिति द्वाभ्याम् । प्रथमाऽनुष्टुप् विषमपादा, द्वितीया गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
@@ -90,9 +93,12 @@ The Brhat with the Gayatri for its metre.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8द्रप्साननुमन्त्रयते - यस्ते इति तिसृभिस्त्रिष्टुभिः । तत्र प्रथमा - यस्ते इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
@@ -138,9 +144,12 @@ Over it I say Hail! and offer it to Indra.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ द्वितीया - यो द्रप्स इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
@@ -194,9 +203,12 @@ Over it I say Hail! and offer it to Indra.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ तृतीया - यस्ते इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
@@ -242,6 +254,8 @@ Over it I say Hail! and offer it to Indra.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ध्व॒र्युर्वा ऋ॒त्विजा॑म्प्रथ॒मो यु॑ज्यते॒ तेन॒ स्तोमो॑ योक्त॒व्य॑ इत्या॑हु॒र्वाग॑ग्रे॒गा अग्र॑ एत्वृजु॒गा दे॒वेभ्यो॒ यशो॒ मयि॒ दध॑ती प्रा॒णान्प॒शुषु॑ प्र॒जाम्मयि॑ [33]  च॒ यज॑माने॒ चेत्या॑ह॒ वाच॑मे॒व तद्य॑ज्ञमु॒खे यु॑नक्ति॒ वास्तु॒ वा ए॒तद्य॒ज्ञस्य॑ क्रियते॒ यद्ग्रहा॑न्गृही॒त्वा ब॑हिष्पवमा॒नँ सर्प॑न्ति
@@ -251,6 +265,7 @@ Over it I say Hail! and offer it to Indra.
 
 6अथ 'वागग्रेगाः' इत्यस्य वक्ष्यमाणस्य मन्त्रस्य ब्राह्मणं - अध्वर्युर्वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
@@ -259,6 +274,8 @@ Over it I say Hail! and offer it to Indra.
 
 इ᳓त्य् **आहुः** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,6 +298,7 @@ The Adhvaryu is the first of the priests to start work, verily they say the Stom
 **ऋत्विजां** मध्ये **अध्वर्युः प्रथमः** बहिष्पवमानाय संसर्पणे **युज्यते** ।  
 अथ तस्य प्राथम्यात्तेनैव प्रथमं **स्तोमो योक्तव्य** इत्याहुः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
@@ -290,6 +308,8 @@ The Adhvaryu is the first of the priests to start work, verily they say the Stom
 पशु᳓षु प्रजा᳓म्,  
 म᳓यि च य᳓जमाने चे᳓"त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,11 +333,14 @@ The Adhvaryu is the first of the priests to start work, verily they say the Stom
 
 ईदृशी सती गच्छत्वित्याह - **ऋजुगाः** ऋजुमार्गेण गच्छन्ती देवेभ्यः देवार्थमवक्रगमना देवानेवं गच्छन्तीत्यर्थः । पूर्ववद्विट् । मयि यशो दधती स्थापयान्ती सुष्ठु प्रचारणात्प्राणान् पशुषु दधती सम्यग्यागनिष्पत्तेः प्रजां मयि च यजमाने दधती अग्रे गच्छत्विति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 वा᳓चम् एव᳓ त᳓द् यज्ञ-मुखे᳓ **युनक्ति** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,6 +364,7 @@ verily he yokes speech at the beginning of the sacrifice.
 यद् वाचं बाहीष्पवमानं यज्ञ-मुखे ऽध्वर्युर् युनक्ति  
 एवं स्तोमो युक्तो योजितो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
@@ -350,6 +374,8 @@ verily he yokes speech at the beginning of the sacrifice.
 बहिष्-पवमानँ᳓ **स᳓र्पन्ति** ।  
 +++(तस्मात् प्रथमम् एव ग्रहा गृहीतव्याः । ततो बहिष्पवमानं संसर्पेयुः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,16 +400,22 @@ The place of the sacrifice is made when having drawn off the libations they cree
 यद् **ग्रहान् गृहीत्वा बहिष्पवमानं सर्पन्ति****  
 तस्मात् प्रथमम् एव ग्रहा गृहीतव्याः । ततो बहिष्पवमानं संसर्पेयुर् इति । एवं हि यज्ञो वास्तुमान् भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 परा॑ञ्चो॒ हि यन्ति॒ परा॑चीभिस्स्तु॒वते॑ वैष्ण॒व्यर्चा पुन॒रेत्योप॑ तिष्ठते य॒ज्ञो वै विष्णु॑र्य॒ज्ञमे॒वाक॒र् विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य । प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑त॒मित्या॑ह॒ यदे॒वास्य॒ शया॑नस्योप॒शुष्य॑ति॒ तदे॒वास्यै॒तेना प्या॑ययति ॥ [34]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 प᳓राञ्चो+++(→अपुनरावृत्ता)+++ हि᳓ **य᳓न्ति**, प᳓राचीभिस् **स्तुव᳓ते** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -404,11 +436,14 @@ for they go away, and they praise with verses which go away;
 
 7पराञ्चो हीत्यादि ॥ हि यस्मादर्थे । यस्मात्पराञ्चो ऽपुनरावृत्ता बहिष्पवमानाय यन्ति सर्पन्ति तस्मादानुरूप्याय **पराचीभिः** अनावृत्ताभिः त्रिवृत्त्वान्नवभिः ऋग्भिस् **स्तुवते** । अकर्त्रभिप्रायत्वाद्व्यत्ययेनात्मनेपदम्, परापूर्वादञ्चतेः क्विपि 'अनिगन्तादञ्चतौ' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 वैष्णव्य᳓र्चा᳓ **पु᳓नर् ए᳓त्यो᳓प तिष्ठते** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -429,11 +464,14 @@ he returns, and with a verse addressed to Visnu reverences (the Soma);
 
 वैष्णव्येत्यादि । पुनरेत्यागत्य वैष्णव्यर्चा वक्ष्यमाणया अनुष्टुभा राजानमुपतिष्ठते -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 यज्ञो᳓ वै᳓ वि᳓ष्णुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -449,11 +487,14 @@ Visnu is the sacrifice;
 
 य॒ज्ञः । वै । विष्णुः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 यज्ञ᳓म् **एवा᳓कः**+++(=करोति)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -473,6 +514,7 @@ verily he makes the sacrifice.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तस्मादनेनोपस्थानेन **यज्ञमेवाकः** करोति । करोतेः छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
@@ -520,6 +562,8 @@ O Visnu, as our nearest, O mighty one, grant us protection; the streams dripping
 इ᳓त्य् आह ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 he says;
@@ -534,12 +578,15 @@ he says;
 
 इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 यद् एवा᳓स्य **श᳓यानस्योपशु᳓ष्यति**,   
 तद् **एवा᳓स्यैते᳓ना᳓प्याययति** ॥ [34]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,4 +609,5 @@ verily he makes to swell by it whatever of the Soma has dried up through lying (
 किं च - यदेव यत्किंचित् अपि शयानस्योपशुष्यति तत्सर्वमप्यस्यानेनोपस्थानेन आप्याययति आपूरयति अक्षितं दुह्रते इति दर्शनात् ।
 
 इति तृतीये प्रथमे दशमोनुवाकः ॥  
+</details>
 </details>

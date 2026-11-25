@@ -8,6 +8,8 @@ title = "२० प्रयुजां हवींषि"
 आग्नेय᳓म् अष्टा᳓-कपालन् नि᳓र्वपति।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Agni he offers on eight potsherds; 
@@ -27,11 +29,14 @@ To Agni he offers on eight potsherds;
 
 1तस्मिन्नपराह्णे षड्भिः प्रयुजां हविर्भिर्यजते, तानि विदधाति - आग्नेयमिति ॥ प्रयुजां हविर्भिर्यक्ष्ये इति सङ्कल्पः । षड्ढविष्क एको यज्ञ इति आग्नेयेष्ट्यन्ते सत्यान् दूतान् दक्षिणाद्रव्यहस्तान् प्रतिराजभ्यः प्रहिणोति । 'अभ्यषिक्षि राजाऽभूवम्' इति चावेदनं, आगतेषु दक्षिणाद्रव्याणि ऋत्विग्भ्य एव ददाति । ततस्सौम्यसावित्रबार्हस्पत्यत्वाष्ट्रवैश्वानराणि हवींषि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓ञ् चरु᳓म् ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,11 +52,14 @@ to Soma, an oblation;
 
 सौ॒म्यम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्र᳓न् द्वा᳓दशकपालम्  +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,11 +75,14 @@ to Savitr on twelve potsherds;
 
 सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्र्हस्पत्य᳓ञ् चरु᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ to Brhaspati an oblation;
 
 बा॒र्ह॒स्प॒त्यम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वाष्ट्र᳓म् अष्टा᳓कपालम्  +++(निर्वपति)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,6 +121,7 @@ to Tvastr on eight potsherds;
 
 त्वा॒ष्ट्रम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -114,6 +129,8 @@ to Tvastr on eight potsherds;
 
 द᳓क्षिणो रथवाहनवाहो᳓ +++(उक्षः)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,16 +154,22 @@ to (Agni) Vaiśvanara on twelve potsherds; the sacrificial fee is the southern d
 विश्वेषां नराणां सम्बन्धी वैश्वानरः । 'नरे संज्ञायाम्' इति दीर्घत्वम् ।   
 अत्र **दक्षिणः** दक्षिणतो युक्तः रथवाहनस्यासौ वाहो वाहकः गौर्दक्षिणा देया ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सारस्व॒तञ्च॒रुन्निर्व॑पति पौ॒ष्णञ्च॒रुम्मै॒त्रञ्च॒रुव्ँवा॑रु॒णञ्च॒रुङ्क्षै॑त्रप॒त्यञ्च॒रुमा॑दि॒त्यञ्च॒रुमुत्त॑रो रथवाहनवा॒हो दक्षि॑णा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वत᳓ञ् चरु᳓न् नि᳓र्वपति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ To Sarasvati he offers an oblation;
 
 2श्वोभूते सारस्वतादीभिः प्रयुजां हविर्भिर्यजते, तानि विदधाति - सारस्वतं चरुमित्यादि ॥ सारस्वतपौष्णमैत्रवारुणक्षैत्रपत्यादित्यानि हवींषि । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓ञ् चरु᳓म्  +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,11 +213,14 @@ to Pusan an oblation;
 
 पौ॒ष्णम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्र᳓ञ्चरु᳓म्  +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,11 +236,14 @@ to Mitra an oblation;
 
 मै॒त्रम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुण᳓ञ् चरु᳓म्   +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,11 +259,14 @@ to Varuna an oblation;
 
 वा॒रु॒णम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षैत्रपत्य᳓ञ् चरु᳓म्   +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,11 +282,14 @@ to the lord of the fields an oblation;
 
 क्षै॒त्र॒प॒त्यमिति॑ क्षैत्र-प॒त्यम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓ञ्चरु᳓म्  +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -267,11 +305,14 @@ to the Adityas an oblation;
 
 आ॒दि॒त्यम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरो रथवाहनवाहो᳓ +++(उक्षो)+++ द᳓क्षिणा ॥ [36]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,4 +338,5 @@ the sacrificial fee is the northern drawer of the chariot stand.
 राजसूयस्समाप्तः ॥
 
 इत्यष्टमे विंशोनुवाकः ॥  
+</details>
 </details>

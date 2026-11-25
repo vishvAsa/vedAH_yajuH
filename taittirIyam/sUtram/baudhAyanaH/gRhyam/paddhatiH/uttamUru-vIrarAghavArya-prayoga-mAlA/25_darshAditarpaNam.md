@@ -138,6 +138,8 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
@@ -149,6 +151,7 @@ title = "२५ दर्शादितर्पणम्"
 <details><summary>टीका</summary>
 
 [MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
 </details>
 </details>
 </div>
@@ -191,6 +194,8 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
@@ -202,6 +207,7 @@ title = "२५ दर्शादितर्पणम्"
 <details><summary>टीका</summary>
 
 [MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
 </details>
 </details>
 </div>
@@ -333,6 +339,8 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
@@ -344,6 +352,7 @@ title = "२५ दर्शादितर्पणम्"
 <details><summary>टीका</summary>
 
 [MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
 </details>
 </details>
 </div>
@@ -415,6 +424,8 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
@@ -426,6 +437,7 @@ title = "२५ दर्शादितर्पणम्"
 <details><summary>टीका</summary>
 
 [MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/19/58_A_yantu.md)
+</details>
 </details>
 </details>
 </div>

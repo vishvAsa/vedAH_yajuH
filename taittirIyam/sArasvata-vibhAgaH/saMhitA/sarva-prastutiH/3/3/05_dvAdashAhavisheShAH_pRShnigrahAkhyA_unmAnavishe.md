@@ -8,6 +8,8 @@ title = "०५ द्वादशाहविशेषाः पृष्नि
 वायु᳓रसि प्राणो᳓ ना᳓म सवितु᳓रा᳓धिपत्येऽपान᳓म्मे दाः।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art the wind, expiration by name, in the lordship of Savitr give me expiration.
@@ -27,11 +29,14 @@ Thou art the wind, expiration by name, in the lordship of Savitr give me expirat
 
 1अथ पृश्नीनां ग्रहणं - संतृप्तं राजानं दशधा व्यूह्याभिमृशति - वायुरसि प्राणो नामेत्यादिभिः दश भागान्, ते एते संवत्सरसाक्षीये[ध्ये]ष्वहस्सु गृह्यन्ते । यत्र क्वचैवैतान् गृह्णीयादित्येतदपरम् । तत्रादितः पञ्च यजूंषि, उत्तराः पञ्च एकपदा गायत्र्यः 'ऋतस्य त्वा व्योमने' इत्यादयः ॥ हे सोम वायुरसि बहिः प्राणो नामासि पीतस्त्वमेव । यज्ञद्वारेण वृष्ट्यादिक्रमेण च सर्वं त्वया प्रेर्यते । स त्वं सवितुराधिपत्ये स्थित्वा अपानं अपानादिं मे मह्यं दाः देहि । सर्वप्राणवृत्तीनामुपलक्षणतया प्रधानयोरुपादानम् । ब्राह्मणं च भवति 'प्राणापानावेवावरुन्धे' इति । पीतः स त्वं मम प्राणादीन् सम्यक्प्रेरयसि । ददातेर्लेटि शपो लुक् । अधिपतिशब्दाद्ब्राह्मणादित्वात् ष्यञ् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुरसि श्रो᳓त्रन्ना᳓म धातु᳓रा᳓धिपत्य आ᳓युर्मे दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,11 +57,14 @@ Thou art the eye, the ear by name, in the lordship of Dhatr give me life.
 
 2चक्षुरसि श्रोत्रादिकं च त्वमेव नामासि पीतः तत्सामर्थ्योत्पादनात् । स त्वं धातुः सर्वस्य विधातुरारिधपत्ये स्थित्वा आयुर्मे मह्यं देहि सर्वेन्द्रियसामर्थ्योपेतं दीर्घमायुर्मे देहि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप᳓मसि व᳓र्णो ना᳓म बृ᳓हस्प᳓तेरा᳓धिपत्ये प्रजा᳓म्मे दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +85,14 @@ Thou art the form, colour by name, in the lordship of Brhaspati, give me offspri
 
 3रूपमसि शोभनं वर्णो मृजा च त्वमेवासि पीतः । स त्वं रूपादिसमृद्धिकारिणः बृहस्पतेराधिपत्ये स्थित्वा प्रजां प्रजननशक्तिं रूपादिसमृद्धिं पुत्रादिपोषं मे देहि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓मसि सत्य᳓न्ना᳓मे᳓न्द्रस्या᳓धिपत्ये क्षत्र᳓म्मे दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +113,14 @@ Thou art holy order, truth by name, in the lordship of Indra, give me lordly pow
 
 4ऋतमसि सत्यं त्वमेवासि । मानसं तथ्यमृतं, वाचिकं सत्यं, तदुभयमपि त्वत्पानाद्भवति । स त्वमिन्द्रस्य सत्यात्मनः आधिपत्ये स्थित्वा क्षत्रं बलं सत्यहेतुकं मे देहि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत᳓मसि भ᳓व्यन्ना᳓म पितृणा᳓मा᳓धिपत्येऽपा᳓मो᳓षधीनाङ्ग᳓र्भन्धाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +141,14 @@ Thou art the past, the future by name, in the lordship of the Pitrs, expugnate t
 
 5भूतमसि, भव्यं वर्तमानं, उपलक्षणत्वाच्च भविष्यच्च त्वमेवासि त्रैकाल्यवर्ती त्वमेव सः यज्ञद्वारेण जनयसि, स त्वं पितॄणां जनयितॄणाम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा व्यो᳙मने +++(गृण्हामि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,16 +169,22 @@ Thee for the realm of holy order!
 
 6ऋतस्य व्योम पृथिवी । ब्राह्मणं च भवति 'द्यावापृथिव्योर्हि यज्ञः' इति, 'इयं वा ऋतस्य व्योम' इति च । पृथिवीजयार्थं त्वां गृह्णामीति । तादर्थ्ये चतुर्थी । अवतेर्मनिन्प्रत्यये 'ज्वरत्वर' इत्यादिना ऊठि गुणः, उपधालोपाभावश्छान्दसः, विविधं ओम व्योम इति प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम्; 'उदात्तस्वरितयोर्यणः' इत्योकारस्स्वर्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7ऋतस्य विभूम विविधं भावयितृ अवकाशप्रदानादिना अन्तरिक्षम्, ब्राह्मणं च - 'अन्तरिक्षं वा ऋतस्य विभूम' इति, 'अन्तरिक्षे हि यज्ञः' इति च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य [11]  त्वा वि᳓भूमने +++(गृण्हामि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -182,11 +205,14 @@ Thee for the might of holy order! [1]
 
 अन्तरिक्षस्य जयार्थं त्वां गृह्णामीति । सर्वत्र पूर्ववत्प्रत्ययस्स्वरश्च, गुणाभावश्छान्दसः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा वि᳓धर्मणे +++(गृण्हामि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,11 +233,14 @@ Thee for the circumference of holy order!
 
 8ऋतस्य विधर्म विविधं धारयितृ वृष्ट्यादिना द्यौः देवलोकः । 'द्यौर्वा ऋतस्य विधर्म' इत्यादि ब्राह्मणम् । प्रत्ययादि पूर्ववत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा सत्या᳓य +++(गृण्हामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +261,14 @@ Thee for the truth of holy order!
 
 9ऋतस्य सत्यं अविनाशित्वं, तत्कारिण्यो दिशः । दिक्षु हि विस्तीर्णे नश्यतीति । यद्वा - ऋतस्य सत्यं सद्भावः तच्च प्रागादिदिशाम् । ब्राह्मणं च - 'दिशो वा ऋतस्य सत्यम्' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा ज्यो᳓तिषे +++(गृण्हामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,6 +289,9 @@ Thee for the light of holy order!
 
 10ऋतस्य ज्योतिः सुवर्गः सुखैकरूपः, तत्र हि यज्ञो द्योतते फलसंपत्त्या विराजते । ब्राह्मणं च 'सुवर्गो वै लोक ऋतस्य ज्योतिः' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -267,11 +302,14 @@ Thee for the light of holy order!
 
 11अथैतेषां पृश्नीनामेव ब्राह्मणं - प्रजापतिरित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्विरा᳓जमपश्यत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,11 +330,14 @@ Prajapati saw the Viraj;
 
 विराड्दशाक्षरा, गौर्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या भूत᳓ञ्च भ᳓व्यञ्चासृजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -312,11 +353,14 @@ by it he created the past and the future;
 
 तया॑ । भू॒तम् । च॒ । भव्य॑म् । च॒ । अ॒सृ॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मृ᳓षिभ्यस्तिरो᳙ऽदधात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,12 +381,15 @@ he concealed it from the Rsis;
 
 ऋषिभ्यस्तिरोदधात् तिरोहितामकरोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ञ्जम᳓दग्निस्त᳓पसाऽपश्यत् ।  
 त᳓या वै᳓ स᳓ पृ᳓श्ञीन्का᳓मानसृजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,11 +411,14 @@ by penance Jamadagni beheld it, and by it he created various delights;
 
 जमदग्निस्तां दृष्ट्वा विराजं पृश्नीन् कामहेतुभूतान् अत एव कामान् सर्वैः काम्यमानान् प्राणादिकामधुक्त्वात् 'वायुरसि प्राणो नाम' इत्यादिकान् ग्रहान् असृजत,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्पृश्ञीनाम्पृश्ञित्व᳓म् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,12 +439,15 @@ that is why the various (cups) have their name.
 
 तत्पृश्निग्रहाणां पृश्नित्वम्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पृ᳓श्ञयो गृह्य᳓न्ते᳓ ।  
 पृ᳓श्ञीनेव᳓ तैᳵ᳓ का᳓मान्य᳓जमानो᳓ऽव रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,16 +469,22 @@ In that the various (cups) are drawn, so the sacrificer wins various delights.
 
 पृश्निस्थान्कामान् प्राणादीन् दश यजमानोवरुन्धे ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒युर॑सि प्रा॒णः [12]  नामेत्या॑ह प्राणापा॒नावे॒वाव॑ रुन्द्धे॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓रसि प्राणो᳓ [12] ना᳓मे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +505,14 @@ In that the various (cups) are drawn, so the sacrificer wins various delights.
 
 अधुना ग्रहान् तांश्च क्रमेण दर्शयति वायुरसीत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणापाना᳓वेवा᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,11 +533,14 @@ verily he wins expiration and inspiration.'
 
 सर्वप्राणतृप्त्युपलक्षणं प्राणापानग्रहणम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुरसि श्रो᳓त्रन्ना᳓मे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -491,11 +556,14 @@ verily he wins expiration and inspiration.'
 
 चक्षुः॑ । अ॒सि॒ । श्रोत्र॑म् । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युरेवा᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -516,11 +584,14 @@ verily he wins life.
 
 12आयुरेवेति चक्षुराद्युपेतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप᳓मसि व᳓र्णो ना᳓मे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -536,11 +607,14 @@ verily he wins life.
 
 रू॒पम् । अ॒सि॒ । वर्णः॑ । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓मेवा᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -561,11 +635,14 @@ verily he wins offspring.
 
 13रूपं प्रजां रूपवर्णोपेतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓मसि सत्य᳓न्ना᳓मे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -581,11 +658,14 @@ verily he wins offspring.
 
 ऋ॒तम् । अ॒सि॒ । स॒त्यम् । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्र᳓मेवा᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,11 +686,14 @@ verily he wins lordly power.
 
 14क्षत्रमिति ॥ बलं सत्यहेतुकम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूत᳓मसि भ᳓व्यन्ना᳓मे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -626,17 +709,23 @@ verily he wins lordly power.
 
 भू॒तम् । अ॒सि॒ । भव्य॑म् । नाम॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒शवो॒ वा अ॒पामोष॑धीना॒ङ्गर्भᳶ॑ प॒शूने॒व [13]  
 अव॑ रुन्द्ध ए॒ताव॒द्वै पुरु॑षम्प॒रित॒स्तदे॒वाव॑ रुन्द्ध ऋ॒तस्य॑ त्वा॒ व्यो॑मन॒ इत्या॑ह
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ अपा᳓मो᳓षधीनाङ्ग᳓र्भः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -657,11 +746,14 @@ the foetus of the waters and the plants is cattle;
 
 15पशवो वा इति ॥ परम्परया अबादिप्रभवत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓नेवा᳓ऽव [13] रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +769,14 @@ verily he wins cattle [3].
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वद्वै᳓ पु᳓रुषम्परि᳓तस्त᳓देवा᳓व रुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +797,14 @@ So much as is around a man, that does he thus win.
 
 एतावदिति । पुरुषस्य परिकरवत् प्रत्यासज्ज्य स्थितं एतावत्प्राणादि पश्वन्तमेतत्सर्वमवरुन्धे एभिः पृश्निभिः दशभिः । 'अभितःपरितः' इति द्वितीया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा व्यो᳙मन इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -722,16 +820,22 @@ So much as is around a man, that does he thus win.
 
 ऋ॒तस्य॑ । त्वा॒ । व्यो॑मन॒ इति॒ वि-ओ॒म॒ने॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒यव्ँवा ऋ॒तस्य॒ व्यो॑मे॒मामे॒वाभि ज॑यत्यृ॒तस्य॑ त्वा॒ विभू॑मन॒ इत्या॑हा॒न्तरि॑क्षव्ँ॒वा ऋ॒तस्य॒ विभू॑मा॒न्तरि॑क्षमे॒वाभि ज॑यत्यृ॒तस्य॑ त्वा॒ विध॑र्मण॒ इत्या॑ह॒ द्यौर्वा ऋ॒तस्य॒ विध॑र्म॒ दिव॑मे॒वाभि ज॑यत्यृ॒तस्य॑ [14]  त्वा॒ स॒त्यायेत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓वा᳓ ऋत᳓स्य व्यो᳙म ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,11 +856,14 @@ the realm of holy order is this (earth);
 
 16-18इयं वा इति ॥ पृथिवी यज्ञश्च विविधं रक्षितौ 'द्यावापृथिव्योर्हि यज्ञः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓मेवा᳓भि᳓ जयति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -777,11 +884,14 @@ verily he conquers this (earth).
 
 तस्मात् षष्ठेन पृश्निना पृथिवीमेवाभिजयति । एवमुत्तरेषु द्रष्टव्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा वि᳓भूमन इ᳓त्याह ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -797,11 +907,14 @@ verily he conquers this (earth).
 
 ऋ॒तस्य॑ । त्वा॒ । विभू॑मन॒ इति॒ वि-भू॒म॒ने॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षव्ँवा᳓ ऋत᳓स्य वि᳓भूम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -817,11 +930,14 @@ the might of holy order is the atmosphere;
 
 अ॒न्तरि॑क्षम् । वै । ऋ॒तस्य॑ । विभू॒मेति॒ वि-भू॒म॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षमेवा᳓भि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -837,11 +953,14 @@ verily he conquers the atmosphere.
 
 अ॒न्तरि॑क्षम् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा वि᳓धर्मण इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -857,11 +976,14 @@ verily he conquers the atmosphere.
 
 ऋ॒तस्य॑ । त्वा॒ । विध॑र्मण॒ इति॒ वि-ध॒र्म॒णे॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓र्वा᳓ ऋत᳓स्य वि᳓धर्म ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -877,11 +999,14 @@ the circumference of holy order is the sky;
 
 द्यौः । वै । ऋ॒तस्य॑ । विध॒र्मेति॒ वि-ध॒र्म॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वमेवा᳓भि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -897,11 +1022,14 @@ verily he conquers the sky.
 
 दिव॑म् । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य [14] त्वा सत्या᳓ये᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -917,16 +1045,22 @@ verily he conquers the sky.
 
 ऋ॒तस्य॑ । त्वा॒ । स॒त्याय॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दिशो॒ वा ऋ॒तस्य॑ स॒त्यन्दिश॑ ए॒वाभि ज॑यत्यृ॒तस्य॑ त्वा॒ ज्योति॑ष॒ इत्या॑ह  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓शो वा᳓ ऋत᳓स्य सत्य᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -947,11 +1081,14 @@ the truth of holy order is the quarters;
 
 19दिशो वा इति ॥ यज्ञस्य सत्यत्वस्य दिगधीनत्वाद्दिक्षु हि विस्तीर्णं अनपायं भवतीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓श एवा᳓भि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -967,11 +1104,14 @@ verily he conquers the quarters.
 
 दिशः॑ । ए॒व । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य त्वा ज्यो᳓तिष इ᳓त्याह ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -987,16 +1127,22 @@ verily he conquers the quarters.
 
 ऋ॒तस्य॑ । त्वा॒ । ज्योति॑षे । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सुव॒र्गो वै लो॒क ऋ॒तस्य॒ ज्योति॑स्सुव॒र्गमे॒व लो॒कम॒भि ज॑यत्ये॒ताव॑न्तो॒ वै दे॑वलो॒कास्ताने॒वाभि ज॑यति॒ दश॒ सम्प॑द्यन्ते॒ दशा॑क्षरा वि॒राडन्नव्ँ॑वि॒राड्वि॒राज्ये॒वान्नाद्ये॒ प्रति॑ तिष्ठति ॥[15]   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गो᳓ वै᳓ लोक᳓ ऋत᳓स्य ज्यो᳓तिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1017,11 +1163,14 @@ the light of holy order is the world of heaven;
 
 20सुवर्ग इति ॥ यज्ञस्य द्योतनस्थानं स्वर्गः, तत्र हि यज्ञो द्योतते फलाविर्भावेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्ग᳓मेव᳓ लोक᳓मभि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1037,11 +1186,14 @@ verily he conquers the world of heaven.
 
 सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । अ॒भीति॑ । ज॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वन्तो वै᳓ देवलोकाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1062,11 +1214,14 @@ So many are the worlds of the gods;
 
 एतावन्त इत्यादि । पृथिव्यादिस्वर्गान्ता देवलोकाः यज्ञाधिकरणत्वेन देवस्थानानि,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नेवा᳓भि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1087,11 +1242,14 @@ verily he conquers them.
 
 तान् सर्वानभिजयत्येतेन पञ्चाभिः पृश्निभिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓श स᳓म्पद्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1112,11 +1270,14 @@ They make up ten;
 
 दश सम्पद्यन्ते इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शाक्षरा विरा᳓ड᳓न्नव्ँविरा᳓ट् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1132,11 +1293,14 @@ the Viraj has ten syllables, the Viraj is food;
 
 दशा॑क्ष॒रेति॒ दश॑-अ॒क्ष॒रा॒ । वि॒राडिति॑ वि-राट् । अन्न॑म् । वि॒राडिति॑ वि-राट् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓ज्येवा᳓न्ना᳓द्ये प्र᳓ति तिष्ठति ॥ [15]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1158,4 +1322,5 @@ verily he finds support in the Viraj, the eating of food.
 विराजमानेऽन्नाद्ये प्रतितिष्ठति । अन्नस्यादनमन्नाद्यं छान्दसो यत् ॥
 
 इति तृतीये तृतीये पञ्चमोनुवाकः ॥  
+</details>
 </details>

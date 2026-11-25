@@ -3,9 +3,12 @@ title: १८ ऐन्द्रे पशौ (आप्रि)प्रया�
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1ऐन्द्रे पशावेकादश प्रयाजप्रैषा: सप्तदशेऽभिहिताः । अष्टादशे आप्रिनामिकाः प्रयाजयाज्या उच्यन्ते । तत्र प्रथमामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 गायत्री᳓ छ᳓न्द इन्द्रिय᳓म् ।
 त्र्य᳓विर्गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -33,10 +38,14 @@ unicode_script: devanagari
 
 समिन्नामकः प्रथमप्रयाजदेवोऽग्निः । स च समिधा समिद्यागेन सुषमिद्धः सुष्ठु प्रज्वलितः । योऽयं तादृशोऽग्निः, यच्च गायत्र्याख्यं छन्दः, योऽपि त्र्यविः सार्धसंवत्सरो गौः त एते देवाः इन्द्रियं चक्षुरादिपाटवं, वय आयुष्यं च दधुः संपादितवन्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ द्वितीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ unicode_script: devanagari
 उष्णि᳓क्छ᳓न्द इन्द्रिय᳓म् ।
 दित्यवा᳓ड्गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,10 +75,14 @@ unicode_script: devanagari
 
 तनूनपाच्छब्देन द्वितीयप्रयाजदेव उच्यते । स च शुचिव्रतः शुद्धेन व्रतकर्मणा युक्तः तादृशः तद्रूपात् शरीरप्राप्तिहेतुः । सरस्वती च, उष्णिक्छन्दश्च दित्यवाट्, संवत्सरद्वयोपेतो गौश्च इत्येते देवा इन्द्रियं, वयश्च संपादयन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ तृतीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -77,6 +92,8 @@ unicode_script: devanagari
 अनुष्टु᳓प्छ᳓न्द इन्द्रिय᳓म् ।
 त्रिवत्सो᳓ गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,10 +112,14 @@ unicode_script: devanagari
 
 इडाभिः मन्त्रोक्ताभिः स्तुतिभिः ईड्यः स्तुत्यः । ईड्यनामकोऽग्निस्तृनीयप्रयाजदेवः । यश्च अमर्त्यो मरणरहितः सोमो देवः, यदप्यनुष्टुच्छन्दः, योऽपि संवत्सरत्रयोपेतो गौः न एते देवाः इन्द्रियं, वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ चतुर्थीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -108,6 +129,8 @@ unicode_script: devanagari
 बृहती᳓ छ᳓न्द इन्द्रिय᳓म् ।
 प᳓ञ्चाविर्गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,10 +149,14 @@ unicode_script: devanagari
 
 सुष्ठु बर्हिः यस्यासौ सुबर्हिः एतन्नामकश्चतुर्थप्रयाजदेवोऽग्निः । पूषण्वान् पूष्णा देवेन युक्तः पोषणसामर्थ्ययुक्तो वा । स्तीर्णबर्हिः वेदिप्रसारितबर्हिर्युक्तः । अमर्त्यो मरणरहितः । ईदृशो योऽग्निः, यच्च बृहती छन्दः, योऽपि सार्धसंवत्सरद्वयोपेतो गौः एते देवा इन्द्रियं, वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ पञ्चमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -139,6 +166,8 @@ unicode_script: devanagari
 पङ्क्ति᳓श्छ᳓न्द इहे᳓न्द्रिय᳓म् ।
 तुर्यवा᳓ड्गौ᳓र्व᳓यो दधुः ॥85॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,10 +186,14 @@ unicode_script: devanagari
 
 दुरः पञ्चमप्रयाजदेवताः । ताश्च देवीः द्योतमानाः । दिशो दिग्रूपाः । महीर्महत्यः । यश्च ब्रह्मा ब्राह्मणस्वामी बृहस्पतिर्देवः, यदपि पङ्किश्छन्दः, योऽपि सार्धसंवत्सरत्रयोपेतो गौः एते देवा इन्द्रियं, वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ षष्ठीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -170,6 +203,8 @@ unicode_script: devanagari
 त्रिष्टु᳓प्छ᳓न्द इन्द्रिय᳓म् ।
 पष्ठवा᳓द्गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,10 +223,14 @@ unicode_script: devanagari
 
 उषे षष्ठप्रयाजदेवते । यह्वी प्रयतमाने । सुपेशसा शोभमानरूपे । ईदृश्यौ ये देव्यौ, ये चामर्त्या मरणधर्मरहिता विश्वे देवाः, यच्च त्रिष्टुप्छन्दः, योऽपि संवत्सरचतुष्टयोपेतो गौः एते देवा इन्द्रियं वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ सप्तमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -201,6 +240,8 @@ unicode_script: devanagari
 ज᳓गती छ᳓न्द इहे᳓न्द्रिय᳓म् ।
 अनड्वा᳓न्गौ᳓र्व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,10 +260,14 @@ unicode_script: devanagari
 
 दैव्यौ होतारौ सप्तमप्रयाजदेवौ । तौ च भिषजौ चिकित्सकौ इन्द्रेण सयुजा सह वर्तमानौ युजा परस्परमपि संयुक्तौ । ईदृशौ यौ देवौ, यच्च जगती छन्दः, योऽपि शकटवहनक्षमो गौः एते देवा इन्द्रियं वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथाष्टमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -232,6 +277,8 @@ unicode_script: devanagari
 विरा᳓ट्छ᳓न्द इहे᳓न्द्रिय᳓म् ।
 धेनु᳓र्गौ᳓र्न᳓ व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,10 +297,14 @@ unicode_script: devanagari
 
 इडा सरस्वती भारती च अष्टमप्रयाजदेवतास्तिस्रो यास्सन्ति, येऽपि देवानां मध्ये विशो मरुतः, यदपि विराट्छन्दः, नवप्रसूतिका गौरपि या विद्यते एते देवा इह कर्मणि इन्द्रियं वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ नवमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -263,6 +314,8 @@ unicode_script: devanagari
 द्विपा᳓च्छ᳓न्द इहे᳓न्द्रिय᳓म् ।
 उक्षा᳓ गौ᳓र्न᳓ व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,10 +334,14 @@ unicode_script: devanagari
 
 त्वष्टा नवमप्रयाजदेवः । स च तुरीपः शीघ्रप्राप्तिमान् अद्भुत आश्चर्यविग्रहः तादृशो यो देवः, यौ च पुष्टिवर्धना पुष्टिं वर्धयितरौ ताविन्द्राग्नी, यदपि द्विपात् पादद्वयोपेतं छन्दः, उक्षा गौर्न सेचनसमर्थो गौरपि यो विद्यते, ते देवा इह कर्मणि इन्द्रियं वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ दशमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -294,6 +351,8 @@ unicode_script: devanagari
 ककु᳓च्छ᳓न्द इहे᳓न्द्रिय᳓म् ।
 वशा᳓ वेह᳓द्गौ᳓र्न᳓ व᳓यो दधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,10 +371,14 @@ unicode_script: devanagari
 
 वनस्पतिर्दशमप्रयाजदेवः । स च नोऽस्माकं शमिता सर्वोपद्रवशमनहेतुः । तादृशो यो देवः, यश्च सविता भगं सौभाग्यं प्रसुवन् प्रेरयन्वर्तते, गौर्न गौरपि वेहत् गर्भपातिनी सती वशा वन्ध्या या विद्यते एते देवा इन्द्रियं वयश्च दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथैकादशीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -325,6 +388,8 @@ unicode_script: devanagari
 अ᳓तिच्छन्दाश्छ᳓न्द इन्द्रिय᳓म् ।
 बृह᳓दृषभो᳓ गौ᳓र्व᳓यो दधुः ॥ 87॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,4 +410,5 @@ unicode_script: devanagari
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठकेऽष्टादशोऽनुवाकः ॥
 
+</details>
 </details>

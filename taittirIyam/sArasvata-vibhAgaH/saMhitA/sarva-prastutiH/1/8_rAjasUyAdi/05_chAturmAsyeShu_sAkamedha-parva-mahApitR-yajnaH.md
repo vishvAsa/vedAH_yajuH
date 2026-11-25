@@ -2,6 +2,8 @@
 title = "०५ चातुर्मास्येषु साकमेधे पितृमेधादि"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ६-७ पङ्क्तिः,  
@@ -16,6 +18,7 @@ title = "०५ चातुर्मास्येषु साकमेधे
 
 1अथ पितृयज्ञहवींषि विदधाति - सोमाय पितृमते पुरोडाशमित्यादि ॥ 'संवत्सरो वै सोमः पितृमान्' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -23,6 +26,8 @@ title = "०५ चातुर्मास्येषु साकमेधे
 पितृ᳓भ्यो बर्हिष᳓द्भ्यो धानाᳶ᳓,  
 पितृ᳓भ्यो ऽग्निष्व्-आत्ते᳓भ्यो ऽभिवान्या᳙यै+++(=अन्यवत्स-दोह्या)+++ दुग्धे᳓ मन्थ᳓म्+++(=द्रवयुक्तास् सक्तवः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,42 +56,72 @@ for the Pitrs prepared by Agni he milks a beverage from a cow which has to be wo
 **अभिवान्या** अन्यवत्सा[त्स]दोह्या,  
 तस्या दुग्धे सक्तूनोप्य मन्थति स **मन्थः** । द्रवयुक्तास् सक्तवो **मन्थाः** । 'अर्ध उपमन्थति' इत्यादि ब्राह्नाणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2हविश्शेषान् सम्प्लोम्नाय+++(=??)+++  
 पिण्डान् कृत्वा वेद्यास्त्रिसृषु स्रक्तिषु निदधाति पूर्वस्यां दक्षिणस्यां अपरस्यामिति - एतत्ते ततेत्यादि ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
-[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
-[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
-This for thee, O father, and for thy line;  
-This for thee, O grandfather, great-grandfather, and for thy line
+This for thee, O father, and for thy line;
 </details>
 
 <details><summary>मूलम्</summary>
 
-ए॒तत्ते॑ तत॒ ये च॒ त्वामन्वे॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+ए॒तत्ते॑ तत॒ ये च॒ त्वामनु॑ ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ । ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+ए॒तत् । ते॒ । त॒त॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एनदन्नं ते तव भवतु हे तत तात ।  
 ये च त्वामनुगता आश्रिताः अन्ये, तेषाञ्चैतदन्नं भवतु ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+[ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
+[ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+This for thee, O grandfather, great-grandfather, and for thy line
+</details>
+
+<details><summary>मूलम्</summary>
+
+ए॒तत्ते॑ पितामह प्रपितामह॒ ये च॒ त्वामनु॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒तत् । ते॒ । पि॒ता॒म॒ह॒ । प्र॒पि॒ता॒म॒हेति॑ प्र-पि॒ता॒म॒ह॒ । ये । च॒ । त्वाम् । अन्विति॑ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
 एतत्ते अन्नं हे पितामह, ये च त्वामनुगताः तेषां च । पितुः पिता पितामहः । एवमेतत्ते अन्नं हे प्रपितामह, ये चान्ये त्वामनुगताः, तेषाञ्च ।
 पितामहस्य पिता प्रपितामहः । 
 
@@ -94,11 +129,14 @@ _____________
 
 हे तत तात एतदशनं तव ये चान्ये त्वामनुगताः । एतत्ते पितामह, ये च त्वामनुगताः । एतत्ते प्रपितामह, ये च त्वामनुगताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓त्र पितरो यथाभाग᳓म् मन्दध्वम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,7 +160,7 @@ Rejoice therein, O fathers, according to your shares.
 
 अधुना सर्वेपि सामान्येनोच्यन्ते । अत्र अस्मिन् कर्मणि हे पितरः पातारः पितृप्रभृतयो वा पितृपितामहप्रपितामहाः यथाभागं योयो यस्य भागः तेनतेन । 'यथाऽसादृश्ये' इत्यव्ययीभावः । यूयं मन्दध्वं मोदध्वम् । मदि स्तुतिमोदमदस्वप्नगतिषु ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/02_susandRshan_tvA.md">
@@ -211,9 +249,12 @@ Yoke, O Indra, thy two bay steeds [1].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4गार्हपत्यमुपतिष्ठते - अक्षन्नमीमदन्तेति पञ्चपदया पङ्क्त्या । ह्यन्तः प्रथमः पादः ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/082/02_axannamImadanta_hyava.md">
@@ -568,9 +609,12 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अन्वाहार्यपचनमुपतिष्ठते - अक्षन् पितर इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +624,8 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 **अ᳓तीतृपन्त** पित᳓रो,  
 **अ᳓मीमृजन्त** पित᳓रः  ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,10 +646,14 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 
 अक्षन् भुक्तवन्तः पितरः पित्रादयः अममिदन्त तृप्ताश्चाभूवन् । अतीतृपन्त अस्मांश्चातर्पयन् । ण्यन्ताल्लुङि च्लेश्चङि 'उरत् ' इत्यत्वम् । अमीमृजन्त शोधितवन्तः अस्मान् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6पितॄन् प्रवाहयति - परेतेति । पञ्चपदा बृहती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/04_pareta_pitaras.md">
@@ -650,9 +700,12 @@ Who carouse in company with Yama.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ तैस्सह तं देशं गतम् इव कृत्वा मन आह्वयति - मन इति तिसृभिर्गायत्रीभिः ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/05_mano_nv.md">
@@ -700,9 +753,12 @@ And the reverence of the Pitrs.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ द्वितीया ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/06_A_na.md">
@@ -746,9 +802,12 @@ And that long we may see the sun.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीया ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/paippalAdam/saMhitA/vishvAsa-prastutiH/19/024/12_punar_naH_pitaro.md">
@@ -780,6 +839,8 @@ May we belong to the band of the living.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याय्ँयन्मा॒तर॑म्पि॒तरव्ँ॑वा जिहिँसि॒म ॥ अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु दुरि॒ता यानि॑ चकृ॒म क॒रोतु॒ माम॑ने॒नस॑म् ॥ [9]
@@ -788,6 +849,7 @@ May we belong to the band of the living.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10गार्हपत्यसमीपं गच्छन् जपति - यदन्तरिक्षमिति षट्पदा शक्वरी । केचित् पङ्क्तिमाहुः ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/07_yad_antarikhSham.md">

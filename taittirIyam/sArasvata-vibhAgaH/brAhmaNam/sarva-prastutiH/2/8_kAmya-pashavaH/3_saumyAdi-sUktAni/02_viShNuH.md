@@ -2,6 +2,8 @@
 title = "०२ विष्णुः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ 'वैष्णवं वामनमालभेत स्पर्धमानः' इत्यस्य पशोः सूक्ते प्रतीकत्रयं दर्शयति - 'विष्णोर्नु कं वीर्याणि' इति वपायाः पुरोनुवाक्या ।
@@ -12,6 +14,7 @@ title = "०२ विष्णुः"
 <details open><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒र्नुक॒न्, तद॑स्य प्रि॒यम् । प्र तद्विष्णुः॑ ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md">
@@ -1138,9 +1141,12 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ पुरोडाशस्य याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/01_paro_mAtrayA.md">
@@ -1493,6 +1499,8 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ हविषो याज्यानुवाक्ययोः प्रतीके दर्शयति - 'विचक्रमे पृथिवीमेषः' इति पुरोनुवाक्या । 'त्रिर्देवः पृथिवीमेषः' इति याज्या । एतच्चोभयं 'जुष्टो नरः' इत्यत्र व्याख्यातम् ॥
@@ -1501,6 +1509,7 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विच॑क्रमे॒, त्रिर्दे॒वः ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/04_vi_chakrame.md">

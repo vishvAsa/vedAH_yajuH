@@ -3,15 +3,20 @@ title = "०७ सोमक्रयप्रकारः"
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तद्धिर॑ण्यमभव॒त्तस्मा॑द॒द्भ्यो हिर॑ण्यम्पुनन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द्धि᳓रण्यम् अभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,11 +39,14 @@ That became gold.
 
 कः पुनस्सः? उच्यते - 'आपो वरुणस्य पत्नय आसन्' इति । वरुणस्य पत्नीरपोग्निरभ्यध्यायत् अकामयत । ततस्तास्समभवत् मिथुनीभूयाभुङ्क्त । तस्याग्नेः रेतः परापतत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अद्भ्यो᳓ हि᳓रण्यम् पुनन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,10 +71,14 @@ Therefore they purify gold forth from the waters.
 
 'ऊडिदम्' इति भ्यस उदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ कस्मा॑त्स॒त्याद॑न॒स्थिके॑न प्र॒जाᳶ प्र॒वीय॑न्तेऽस्थ॒न्वती॑र्जायन्त॒ इति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -74,6 +86,8 @@ Therefore they purify gold forth from the waters.
 ब्रह्मवादि᳓नो वदन्ति -  
 "क᳓स्मात् सत्या᳓द् अनस्थि᳓केन प्रजाᳶ᳓ प्रवी᳓यन्ते ऽस्थन्व᳓तीर् जायन्त" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,10 +111,14 @@ The theologians say, 'How is it that offspring are produced through that which i
 
 2ब्रह्मवादिन इति ॥ कस्मात्कारणात् अनस्थिकेन अस्थिरहितेन प्रजनेन प्रजाः प्रवीयन्ते गर्भार्थमन्तः प्रक्षिप्यन्ते । वेतिः प्रजननकर्मा । प्रजननो गर्भग्रहणम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अस्थन्वतीः अस्थिमत्यः जायन्ते प्रजाः इति प्रश्नं वदन्ति ब्रह्मवादिनः । 'छन्दस्यपि दृश्यते' इत्यनञ्, 'अनो नुट्', 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम्, 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्धिर॑ण्यङ्घृ॒ते॑ऽव॒धाय॑ जु॒होति॒ तस्मा॑दन॒स्थिके॑न प्र॒जाᳶ प्र वी॑यन्तेऽस्थ॒न्वती॑र्जायन्त
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +126,8 @@ The theologians say, 'How is it that offspring are produced through that which i
 य᳓द्धि᳓रण्यङ् घृते᳙ऽवधा᳓य जुहो᳓ति ,
 त᳓स्माद् अनस्थि᳓केन प्रजाᳶ᳓ प्र᳓ वीयन्तेऽस्थन्व᳓तीर्जायन्त।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +151,15 @@ Because he offers the gold, placing it in the ghee, therefore are offspring prod
 
 3अत्रोत्तरं - यदित्यादि ॥ यस्मात्कारणाद्धिरण्यं रेतस्थानीयं घृते प्रजननस्थानीये अवधाय जुहोति तस्मादेतदेवं भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वा अ॒ग्नेᳶ प्रि॒यन्धाम॒ यद्घृ॒तन्तेजो॒ हिर॑ण्यमि॒यन्ते॑ शुक्र त॒नूरि॒दव्ँवर्च॒ इत्या॑ह॒ सते॑जसमे॒वैनँ॒ सत॑नुम् [46]  
 क॒रो॒त्यथो॒ सम्भ॑रत्ये॒वैनय्ँ॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +167,8 @@ Because he offers the gold, placing it in the ghee, therefore are offspring prod
 एत᳓द्वा᳓ अग्नेᳶ᳓ प्रिय᳓न्धा᳓म य᳓द्घृत᳓न् ते᳓जो हि᳓रण्यम् ।
 "इय᳓न्ते शुक्र तनू᳓र् , इदव्ँ᳓ व᳓र्च" इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,11 +194,14 @@ The ghee is Agni's loved abode, the gold, is radiance. 'This is thy body, O pure
 
 'तेन सहेति तुल्ययोगे' इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓तेजसम् एवै᳓नँ स᳓तनुङ्करोति । [46]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -188,11 +217,14 @@ verily he unites Agni with his radiance and his body [1];
 
 सते॑जस॒मिति॒ स-ते॒ज॒स॒म् । ए॒व । ए॒न॒म् । सत॑नु॒मिति॒ स-त॒नु॒म् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो स᳓म्भरत्येवै᳓नम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,16 +247,22 @@ verily also he makes him ready.
 
 ततः अग्नेः तत्तेजसश्च हिरण्यस्याभेदविवक्षया मन्त्रब्राह्मणयोर्विरोधः परिहार्यः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदब॑द्धमवद॒ध्याद्गर्भा॑ᳶ प्र॒जाना॑म्परा॒पातु॑कास्स्युर्ब॒द्धमव॑ दधाति॒ गर्भा॑णा॒न्धृत्यै॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓बद्धमवदध्या᳓द् ग᳓र्भाᳶ प्रजा᳓नाम् परापा᳓तुकास् स्युः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +289,14 @@ If he were to deposit (the gold) without fastening it on, then the foetuses of o
 
 तस्माद्बद्धमवदधातीति विधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्ध᳓म᳓व दधाति , ग᳓र्भाणान् धृ᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,16 +317,22 @@ He deposits it fastening it on, to secure the foetuses.
 
 बद्धं हिरण्यं सुच्यवदधाति गर्भाणां धृत्यै धारणाय भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 निष्ट॒र्क्य॑म्बध्नाति प्र॒जाना॑म्प्र॒जन॑नाय॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्टर्क्य᳙म् बध्नाति , प्रजा᳓नाम् प्रज᳓ननाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -307,16 +354,22 @@ He fastens it so that it cannot be untied, for the production of offspring.
 
 6निष्टर्क्यं बध्नातीति विधिः ॥ संबद्ध्य पाशं अमुक्त्वैव ग्रन्थिमाकृष्टे मुच्यते [तथा] बध्नाति । 'छन्दसि निष्टर्क्य' इति कृत्ये ण्यति निपात्यते । 'निष्टर्क्ये व्यत्ययं विद्यान्निसष्षत्वं निपातनात्' इति । एवं बद्धं प्रजानां प्रजननाय भवति । अन्यथा अनुत्पत्तिस्स्यात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी॒ जूर॒सीत्या॑ह॒ यद्धि मन॑सा॒ जव॑ते॒ तद्वा॒चा वद॑ति धृ॒ता मन॒सेत्या॑ह॒ मन॑सा॒ हि वाग्धृ॒ता जुष्टा॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग्वा᳓ एषा᳓ य᳓त्सोमक्र᳓यणी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,11 +398,14 @@ The cow with which the Soma is bought is speech.
 
 तस्मादेनां वाग्रूपेण वर्णयन्तीति ब्राह्मणाभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "जू᳓रसी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,11 +426,14 @@ The cow with which the Soma is bought is speech.
 
 एतदेव प्रकटयति - जूरसीत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्धि᳓ म᳓नसा ज᳓वते , त᳓द् वाचा᳓ व᳓दति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,11 +460,14 @@ for what he strengthens in his mind, that he expresses in speech.
 
 यस्मादेवं तस्माज्जूरसीति सोमक्रयणीं मन्त्र आहेत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धृता᳓ म᳓नसे᳓त्याह म᳓नसा हि᳓ वा᳓ग्धृता᳓ जु᳓ष्टा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,17 +490,23 @@ for what he strengthens in his mind, that he expresses in speech.
 
 यस्मान्मनसा वाग्धृता तदिच्छातस्तत्प्रवृत्तेः तस्माद्धृता मनसेति सोमक्रयाणीमाह ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्ण॑व॒ इत्या॑ह [47]  
 य॒ज्ञो वै विष्णु॑र्य॒ज्ञायै॒वैना॒ञ्जुष्टा॑ङ्करोति॒ तस्या॑स्ते स॒त्यस॑वसᳶ प्रस॒व इत्या॑ह सवि॒तृप्र॑सूतामे॒व वाच॒मव॑ रुन्द्धे॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णव इ᳓त्याह ।[47]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,11 +527,14 @@ for what he strengthens in his mind, that he expresses in speech.
 
 8विष्णव इति ॥ व्यापकत्वाद्यज्ञ उच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ वि᳓ष्णुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,11 +550,14 @@ Visnu is the sacrifice;
 
 य॒ज्ञः । वै । विष्णुः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञा᳓यैवै᳓नाञ् जु᳓ष्टाङ्करोति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,11 +573,14 @@ verily be makes her accept able to the sacrifice.
 
 य॒ज्ञाय॑ । ए॒व । ए॒ना॒म् । जुष्टा॑म् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यास् ते सत्य᳓सवसᳶ प्रसव᳓ इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,11 +605,14 @@ verily be makes her accept able to the sacrifice.
 
 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितृप्र᳙सूताम् एव᳓ वा᳓चम᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -548,16 +628,22 @@ verily he wins speech which is impelled by Savitr.
 
 स॒वि॒तृप्र॑सूता॒मिति॑ सवि॒तृ-प्र॒सू॒ता॒म् । ए॒व । वाच॑म् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्त्ये॒ष खलु॒ वा अर॑क्षोहत॒ᳶ पन्था॒ यो॑ऽग्नेश्च॒ सूर्य॑स्य च॒ सूर्य॑स्य॒ चक्षु॒रारु॑हम॒ग्नेर॒क्ष्णᳵ क॒नीनि॑का॒मित्या॑ह॒ य ए॒वार॑क्षोहत॒ᳶ पन्था॒स्तँ स॒मारो॑हति [48]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,11 +668,14 @@ As each part is performed, the Raksases are fain to injure the sacrifice;
 
 काण्डं पर्व अवयव इति पर्यायाः । सर्वस्मिन् यज्ञावयवे क्रियमाणे आरभ्यमाणे यज्ञं रक्षांसि हन्तुमिच्छन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ख᳓लु वा᳓ अ᳓रक्षोहतᳶ प᳓न्था यो᳙ऽग्ने᳓श्च सू᳓र्यस्य च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -609,11 +698,14 @@ the path of Agni and Surya is one which the Raksases cannot injure.
 
 अरक्षोहतः रक्षोभिरहतः हन्तुमशक्यः अग्नेश्च सूर्यस्य च पन्थाः । तस्मादयं 'सूर्यस्य चक्षुरारुहम्' इत्याद्याह । तेनारक्षोहतं पन्थानमारूढो भवति यथा रक्षोभिर्न बाध्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सू᳓र्यस्य च᳓क्षुरा᳓रुहम् अग्ने᳓रक्ष्णᳵ᳓ कनी᳓निकामि᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -634,11 +726,14 @@ the path of Agni and Surya is one which the Raksases cannot injure.
 
 सूर्यस्य संबन्धि सर्वेषां चक्षुस्थानीयं अग्नेरक्ष्णः कनीनिकास्थानीयं मण्डलमारूढोस्मीति मण्डलान्तर्गतेन पुरुषेण सह स्वात्मन एकीभावभावनया न केन चिदपि बाध्यते इति मन्त्रेण प्रतिपाद्यते इति ब्राह्मणाभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवा᳓रक्षोहतᳶ प᳓न्थास्तँ᳓ समा᳓रोहति [48]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -661,16 +756,22 @@ He mounts the path which is not injured by the Raksases [3].
 
 यथा 'उद्यन्तं वावादित्यमग्निरनु समारोहति' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वाग्वा ए॒षा यत्सो॑म॒क्रय॑णी॒ चिद॑सि म॒नाऽसीत्या॑ह॒ शास्त्ये॒वैना॑मे॒तत्तस्मा॑च्छि॒ष्टाᳶ प्र॒जा जा॑यन्ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग्वा᳓ एषा᳓ य᳓त्सोमक्र᳓यणी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -695,11 +796,14 @@ The cow with which the Soma is bought is speech.
 
 यथोक्तं 'ते वाचं स्त्रियम्' इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "चि᳓दसि मना᳓ऽसी᳓"त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -722,11 +826,14 @@ The cow with which the Soma is bought is speech.
 
 'चिदसि' इत्यारभ्य 'पुनरेहि सह रय्या' इत्यन्तं यदाह एतदेनां सोमक्रयणीं वाग्रूपां शास्ति शिक्षयति ईदृशी त्वमसि, इत्थं त्वया कर्तव्यमिति बोधयति । यद्वा - एतस्मिन् काले यज्ञे एवैनां शास्ति । सप्तम्या अलुक् । तस्मात् शिष्टाः शिक्षिता एव प्रजा जायन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शा᳓स्त्य् एवै᳓नामेत᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -742,11 +849,14 @@ verily he instructs her.
 
 शा॒स्ति॒ । ए॒व । ए॒ना॒म् । ए॒तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छिष्टाᳶ᳓ प्रजा᳓ जायन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,11 +872,15 @@ Therefore children are born instructed.
 
 तस्मा॑त् । शि॒ष्टाः । प्र॒जा इति॑ प्र-जाः । जा॒य॒न्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 चिद॒सीत्या॑ह॒ यद्धि मन॑सा चे॒तय॑ते॒ तद्वा॒चा वद॑ति म॒नाऽसीत्या॑ह॒ यद्धि मन॑साभि॒गच्छ॑ति॒ तत्क॒रोति॒ धीर॒सीत्या॑ह॒ यद्धि मन॑सा॒ ध्याय॑ति॒ तद्वा॒चा [49]  
 वद॑ति॒ दक्षि॑णा॒सीत्या॑ह॒ दक्षि॑णा॒ ह्ये॑षा य॒ज्ञिया॒सीत्या॑ह य॒ज्ञिया॑मे॒वैना॑ङ्करोति क्ष॒त्रिया॒सीत्या॑ह क्ष॒त्रिया॒ ह्ये॑षादि॑तिरस्युभ॒यत॑श्शी॒र्ष्णीत्या॑ह॒ यदे॒वादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒स्तस्मा॑दे॒वमा॑ह॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -774,6 +888,8 @@ Therefore children are born instructed.
 "चि᳓दसी᳓"त्याह ।
 य᳓द्धि᳓ म᳓नसा चेत᳓यते , त᳓द् वाचा᳓ व᳓दति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -795,11 +911,14 @@ Therefore children are born instructed.
 
 11इदानीं शिक्षाविशेषानेकैकशः आचष्टे - चिदसीत्याहेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मना᳓ऽसी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -820,11 +939,14 @@ Therefore children are born instructed.
 
 मनसा चेतनीयं ज्ञातव्यं हि वाचा वदति, तस्माच्चित्कार्यत्वात् चिदिति वागुच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्धि᳓ म᳓नसाऽभिग᳓च्छति , त᳓त् करो᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -847,11 +969,14 @@ for what one grasps by the mind one performs.
 
 तस्माच्चिदसीति वाग्धर्मेण सोमक्रयण्युच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "धी᳓रसी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -867,11 +992,14 @@ for what one grasps by the mind one performs.
 
 धीः । अ॒सि॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्धि᳓ म᳓नसा ध्या᳓यति त᳓द् वाचा᳓ व᳓दति [49]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -900,11 +1028,14 @@ for what one meditates with the mind one expresses in speech [4].
 
 एवं चिच्चेत्यचित्तत्रितयात्मना वर्तमानत्व[नस्त्व]मेव यागं निर्वर्तयसीति स्तुतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "द᳓क्षिणा᳓ऽसी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -927,11 +1058,14 @@ for what one meditates with the mind one expresses in speech [4].
 
 यद्वा - दानसामान्यात् दक्षिणोक्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणा ह्ये᳙षा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -947,11 +1081,14 @@ for (the cow) is the gift.
 
 दक्षि॑णा । हि । ए॒षा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "यज्ञि᳓यासी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -974,11 +1111,14 @@ for (the cow) is the gift.
 
 'यज्ञर्त्विग्भ्यां तत्कर्मार्हति' इति यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञि᳓याम् एवै᳓नाङ्करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -994,11 +1134,14 @@ verily he makes her fit for the sacrifice.
 
 य॒ज्ञिया॑म् । ए॒व । ए॒ना॒म् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "क्षत्रि᳓याऽसी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1021,12 +1164,15 @@ verily he makes her fit for the sacrifice.
 
 उभयतो यज्ञानामाद्यन्तयोः शिरस्स्थानीयौ प्रायणीयोदयनीयाख्यौ चरू यस्यास्सा तथोक्तेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रि᳓या ह्ये᳙षा᳓ऽदितिरस्य् उभय᳓तः ।  
 शीर्ष्णी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1043,11 +1189,14 @@ for she is of kingly power. 'Thou art Aditi, double-headed', he says.
 
 क्ष॒त्रिया॑ । हि । ए॒षा । अदि॑तिः । अ॒सि॒ । उ॒भ॒यत॑श्शी॒र्‌ष्णीत्यु॑भ॒यतः॑-शी॒र्‌ष्णी॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देवा᳓दित्यᳶ᳓ प्रायणी᳓यो यज्ञा᳓नामादित्य᳓ उदयनी᳓यस् त᳓स्मादेव᳓माह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1063,6 +1212,9 @@ In that to Aditi belong the opening and the concluding oblations of the sacrific
 
 यत् । ए॒व । आ॒दि॒त्यः । प्रा॒य॒णीय॒ इति॑ प्र-अ॒य॒नीयः॑ । य॒ज्ञाना॑म् । आ॒दि॒त्यः । उ॒द॒य॒नीय॒ इत्यु॑त्-अ॒य॒नीयः॑ । तस्मा॑त् । ए॒वम् । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -1070,11 +1222,14 @@ In that to Aditi belong the opening and the concluding oblations of the sacrific
 यत्क॑र्णगृही॒ता वार्त्र॑घ्नी स्या॒त्स वा॒न्यञ्जि॑नी॒यात्तव्ँवा॒न्यो जि॑नीयान्मि॒त्रस्त्वा॑ प॒दि ब॑ध्ना॒त्वित्या॑ह मि॒त्रो वै शि॒वो दे॒वाना॒न्तेनै॒वैना॑म्प॒दि ब॑ध्नाति पू॒षाध्व॑नᳶ पा॒त्वित्या॑हे॒यव्ँ वै पू॒षेमामे॒वास्या॑ अधि॒पाम॑क॒स्सम॑ष्ट्या॒ इन्द्रा॒याध्य॑क्षा॒येत्या॒हेन्द्र॑मे॒वास्या॒ अध्य॑क्षङ्करोति [51]  
 अनु॑ त्वा मा॒ता म॑न्यता॒मनु॑ पि॒तेत्या॒हानु॑मतयै॒वैन॑या क्रीणाति॒ सा दे॑वि दे॒वमच्छे॒हीत्या॑ह दे॒वी ह्ये॑षा दे॒वस्सोम॒ इन्द्रा॑य॒ सोम॒मित्या॒हेन्द्रा॑य॒ हि सोम॑ आह्रि॒यते॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓बद्धा स्या᳓द᳓यता स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1095,12 +1250,15 @@ If (the cow) were not bound, she would be unrestrained;
 
 12यदित्यादि ॥ यदि नयनकाले एकहायनी अबद्धा स्यात् अयता अनियमिता स्यात् । उभयत्राप्यव्ययपूर्वपदप्रकृतिस्वरत्वम् । यदि पदिबद्धा पादेन वद्धा स्यात्, अनुस्तरणी स्यादित्यादि । व्याख्यातम् । 'तत्पुरुषे कृति बहुलम्' इत्यलुक्, 'पद्दन्' इति पद्भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् पदिबद्धा᳓ +++(स्यात्)+++, ऽनुस्त᳓रणी स्यात् ।  
 प्रमा᳓युको य᳓जमानस् स्यात् ।[50]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1122,12 +1280,15 @@ if she were bound by the foot, she would be the funeral cow, and the sacrificer 
 
 यदि कर्णे गृहीता स्यात्, वार्त्रघ्नी स्यादित्यादि । व्याख्यातम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् कर्णगृहीता᳓ +++(स्यात्)+++, वा᳓र्त्रघ्नी स्यात् ।  
 स᳓ वाऽन्य᳓ञ् जिनीया᳓त् , तव्ँ᳓ वाऽन्यो᳓ जिनीयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1144,11 +1305,14 @@ If she were held by the ears, she would belong to Vrtrahan, and the sacrificer w
 
 यत् । क॒र्ण॒गृ॒ही॒तेति॑ कर्ण-गृ॒ही॒ता । वार्त्र॒घ्नीति॒ वार्त्र॑-घ्नी॒ । स्या॒त् । सः । वा॒ । अ॒न्यम् । जि॒नी॒यात् । तम् । वा॒ । अ॒न्यः । जि॒नी॒या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मित्र᳓स्त्वा पदि᳓ बध्नात्वि᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1169,11 +1333,14 @@ If she were held by the ears, she would belong to Vrtrahan, and the sacrificer w
 
 तस्मात् 'मित्रस्त्वा' इत्यादिवचनेन देवतानां मध्ये शिवेन मित्रेणैव एनां पादे बध्नाति, तस्मादुक्तदोषाप्रसंग इत्यवयवस्तुतिः । 'ऊडिदम्' इति सप्तम्युदात्तत्वम् । एवं 'पूषाऽध्वनः'36 इति मन्त्रैकदेशवचनेन पूषशब्दवाच्यां पृथिवीमेव अस्या एकहायन्याः अधिपां अधिकं पालयित्रीमकः करोति । 'छन्दसि लुङ्लङ्लिटः' इति लुञ्, 'मन्त्रे घस' इति च्लेर्लुक् । इदमोन्वादेशोनुदात्तः । अधिकं पातीति 'आतो मनिन्' इति विच् । एवं पूष्णा आधिपत्यकरणं समष्टयै सम्यगवाप्त्यै भवति अस्याः । अश्नोतेः क्तिनि 'तितुत्र' इतीट्प्रतिषेधः, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । इन्द्रमेवेत्यादि । सुबोधम् । अनुमतयैव मात्रादिभिः । देवी ह्येषा सोमक्रयणी । देवस्सोमः । तस्मात्सा देवि देवमच्छेहीत्याह ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रो᳓ वै᳓ शिवो᳓ देवा᳓नान् , ते᳓नैवै᳓नाम् पदि᳓ बध्नाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1189,11 +1356,14 @@ Mitra is the auspicious one of the gods; verily with his help he binds her by th
 
 मि॒त्रः । वै । शि॒वः । दे॒वाना॑म् । तेन॑ । ए॒व । ए॒ना॒म् । प॒दि । ब॒ध्ना॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूषा᳓ध्वनᳶ पात्वि᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1209,11 +1379,14 @@ Mitra is the auspicious one of the gods; verily with his help he binds her by th
 
 पू॒षा । अध्व॑नः । पा॒तु॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ पूषा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1229,11 +1402,14 @@ Pusan is this (earth);
 
 इ॒यम् । वै । पू॒षा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓मेवा᳓स्या अधिपा᳓मकस् , स᳓मष्ट्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1249,11 +1425,14 @@ verily he makes her lady of this (earth), for the gaining thereof.
 
 इ॒माम् । ए॒व । अ॒स्याः॒ । अ॒धि॒पामित्य॑धि-पाम् । अ॒कः॒ । सम॑ष्ट्या॒ इति॒ सम्-अ॒ष्ट्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ᳓न्द्राया᳓ध्यक्षाये᳓"त्याह  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1269,11 +1448,14 @@ verily he makes her lady of this (earth), for the gaining thereof.
 
 इन्द्रा॑य । अध्य॑क्षा॒येत्यधि॑-अ॒क्षा॒य॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रमेवा᳓स्या अ᳓ध्यक्षङ् करोति ।[51]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1289,11 +1471,14 @@ verily he makes Indra her guardian [6].
 
 इन्द्र॑म् । ए॒व । अ॒स्याः॒ । अध्य॑क्ष॒मित्यधि॑-अ॒क्ष॒म् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓नु त्वा माता᳓ मन्यताम् अ᳓नु पिते᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1309,11 +1494,14 @@ verily he makes Indra her guardian [6].
 
 अन्विति॑ । त्वा॒ । मा॒ता । म॒न्य॒ता॒म् । अन्विति॑ । पि॒ता । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नुमतयैवै᳓नया क्रीणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1329,11 +1517,14 @@ verily he buys with her approved.
 
 अनु॑मत॒येत्यनु॑-म॒त॒या॒ । ए॒व । ए॒न॒या॒ । क्री॒णा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सा᳓ देवि देव᳓म᳓च्छेही᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1349,11 +1540,14 @@ verily he buys with her approved.
 
 सा । दे॒वि॒ । दे॒वम् । अच्छ॑ । इ॒हि॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी᳓ ह्येषा देव᳓स् सो᳓मः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1369,11 +1563,14 @@ for she is a goddess, and Soma is a god.
 
 दे॒वी । हि । ए॒षा । दे॒वः । सोमः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ᳓न्द्राय सो᳓ममि᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1389,11 +1586,14 @@ for she is a goddess, and Soma is a god.
 
 इन्द्रा॑य । सोम॑म् । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय हि᳓ सो᳓म आह्रिय᳓ते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1409,17 +1609,23 @@ for the Soma is borne to Indra.
 
 इन्द्रा॑य । हि । सोमः॑ । आ॒ह्रि॒यत॒ इत्या॑-ह्रि॒यते॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदे॒तद्यजु॒र्न ब्रू॒यात्परा॑च्ये॒व सो॑म॒क्रय॑णीयाद्रु॒द्रस्त्वा व॑र्तय॒त्वित्या॑ह रु॒द्रो वै क्रू॒रः [52]  
 दे॒वाना॒न्तमे॒वास्यै॑ प॒रस्ता॑द्दधा॒त्यावृ॑त्त्यै क्रू॒रमि॑व॒ वा ए॒तत्क॑रोति॒ यद्रु॒द्रस्य॑ की॒र्तय॑ति मि॒त्रस्य॑ प॒थेत्या॑ह॒ शान्त्यै॑
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देत᳓द् य᳓जुर्न᳓ ब्रूया᳓त् , प᳓राच्येव᳓ सोमक्र᳓यणीयाद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1447,11 +1653,14 @@ If he were not to say that text, the cow with which the Soma is bought would go 
 
 -किञ्च - रुद्रस्त्वा वर्तयतु कृतकृत्यानस्मान्प्रति अविनष्टामानयतु । 'यदेतद्यजुर्न ब्रूयात्पराच्येव सोमक्रयणीयात्' इत्यादि ब्राह्मणम् । रुद्रोपि न रौद्रभावेन, किन्तु मित्रस्य पथा त्वामावर्तयतु निजकीर्तनापराधमनादृत्य शान्तो भूत्वा वर्तयतु उदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् । 'कूरमिव वा एतत्करोति यद्रुद्रस्य कीर्तयति' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "रुद्र᳓स्त्वा᳓ऽऽवर्तयत्वि᳓"त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1467,11 +1676,14 @@ If he were not to say that text, the cow with which the Soma is bought would go 
 
 रु॒द्रः । त्वा॒ । एति॑ । व॒र्त॒य॒तु॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रो᳓ वै᳓ क्रूरो᳓ देवा᳓नाम् ।[52]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1487,11 +1699,14 @@ Rudra is the harsh [7] one of the gods;
 
 रु॒द्रः । वै । क्रू॒रः । दे॒वाना॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेवा᳓स्यै पर᳓स्ताद् दधात्या᳓वृत्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1507,11 +1722,14 @@ verily he places him below her, for guiding hither.
 
 तम् । ए॒व । अ॒स्यै॒ । प॒रस्ता॑त् । द॒धा॒ति॒ । आवृ॑त्त्या॒ इत्या-वृ॒त्त्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रूर᳓मिव वा᳓ एत᳓त्करोति , य᳓द् रुद्र᳓स्य कीर्त᳓यति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1527,11 +1745,14 @@ He does as it were a harsh thing when he recites that (text) of Rudra's.
 
 क्रू॒रम् । इ॒व॒ । वै । ए॒तत् । क॒रो॒ति॒ । यत् । रु॒द्रस्य॑ । की॒र्तय॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मित्र᳓स्य पथे᳓"त्याह । शा᳓न्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1547,16 +1768,22 @@ He does as it were a harsh thing when he recites that (text) of Rudra's.
 
 मि॒त्रस्य॑ । प॒था । इति॑ । आ॒ह॒ । शान्त्यै॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒चा वा ए॒ष वि क्री॑णीते॒ यस्सो॑म॒क्रय॑ण्या स्व॒स्ति सोम॑सखा॒ पुन॒रेहि॑ स॒ह र॒य्येत्या॑ह वा॒चैव वि॒क्रीय॒ पुन॑रा॒त्मन्वाच॑न्ध॒त्तेऽनु॑पदासुकास्य॒ वाग्भ॑वति॒ य ए॒वव्ँ वेद॑ ॥ [53]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाचा᳓ वा᳓ एष᳓ वि᳓ क्रीणीते , य᳓स् सोमक्र᳓यण्या ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1577,12 +1804,15 @@ He buys indeed by speech when he buys by the cow with which the Soma is bought.
 
 14वाचा वा एष इत्यादि ॥ विरूपक्रयो विक्रयः, अयुक्तरूपत्वात् । अयमर्थः - सोमक्रयण्या सोमं क्रीणाति, एष यजमानः वाचा विक्रीणीते अयुक्तरूपं क्रयं करोति; एकहायन्याः वाक्त्वात् वाचो व्ययस्यायुक्तत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स्वस्ति᳓ सो᳓मसखा पु᳓नरे᳓हि सह᳓ रय्ये᳓"त्याह ।
 वाचै᳓व᳓ विक्री᳓य पु᳓नरात्म᳓न्वा᳓चन्धत्ते᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1614,11 +1844,14 @@ Hail! Return with Soma as thy comrade, with wealth', he says, verily having purc
 
 इति षष्ठे प्रथमे सप्तमोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नुपदासुकाऽस्य वा᳓ग्भवति , य᳓ एवव्ँ᳓ वे᳓द ॥ [53]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1633,4 +1866,5 @@ The speech of him who knows thus is not likely to fail.
 <details><summary>पद-पाठः</summary>
 
 अनु॑पदासु॒केत्यनु॑प-दा॒सु॒का॒ । अ॒स्य॒ । वाक् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ॥
+</details>
 </details>

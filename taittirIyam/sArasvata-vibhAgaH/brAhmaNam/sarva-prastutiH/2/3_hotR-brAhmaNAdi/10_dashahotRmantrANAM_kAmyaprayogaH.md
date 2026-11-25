@@ -8,6 +8,8 @@ unicode_script: devanagari
 प्रजा᳓पतिस् सो᳓मँ रा᳓जानम् असृजत ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒स्सोमँ॒ राजा॑नमसृजत ।
@@ -17,11 +19,14 @@ unicode_script: devanagari
 
 प्रजा᳓-पतिः । सो᳓मम् । रा᳓जानम् । असृजत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् त्र᳓यो वे᳓दा अ᳓न्वसृज्यन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,11 +82,14 @@ unicode_script: devanagari
 
 प्रजापतिः सोमं सृष्ट्वा तम् अनु त्रीन् वेदान् असृजत।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् ह᳓स्ते ऽकुरुत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,12 +110,15 @@ unicode_script: devanagari
 
 स च सोमस् तान् वेदान् स्व-मुष्टि-मध्ये गोपायामास।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ ह᳓ सी᳓ता सावित्री᳓  
 सो᳓मँ रा᳓जानञ् चकमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,11 +142,14 @@ unicode_script: devanagari
 
 [^1]: क 'ताऽऽसीत् । सा सो'
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा᳓मु स᳓ चकमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,11 +170,14 @@ unicode_script: devanagari
 
 स तु सोमः श्रद्धाख्यां काचिद् अन्यां प्रजापतेर् दुहितरं कामितवान्, न त्व् एतां सीताम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ऽऽह पित᳓रम् प्रजा᳓पतिम् उ᳓पससार ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,6 +198,7 @@ unicode_script: devanagari
 
 सा तु सीता प्रजापति-समीपम् आगत्य
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,6 +209,8 @@ unicode_script: devanagari
 सो᳓मव्ँ वै᳓ रा᳓जानङ्कामये ।
 श्रद्धा᳓मु स᳓ कामयत" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,6 +238,7 @@ unicode_script: devanagari
 नमस्कारं कृत्वा, "त्वत्-समीपे कार्यार्थं समागता ऽस्मि, त्वां भजे सर्वदा" इत्य् एवम् उवाच।  
 ततः प्रजापतिना किं कार्यम् इति पृष्टा सती सोम-विषयां कामनाम् उवाच।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -230,6 +251,8 @@ unicode_script: devanagari
 सम्भारै᳓श्च प᳓त्निभिश् च मु᳓खेऽलङ्कृ᳓त्य  
 आ᳓ऽस्या᳓र्धव्ँ᳓ वव्राज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +282,15 @@ unicode_script: devanagari
 
 ततः प्रजापतिस् तस्याः सीतायाः सोम-वशीकरणार्थं कंचित् प्रयोगं कृतवान्। स्थागरो नाम कश्चित् सुगन्ध-द्रव्य-विशेषस्, तं पिष्ट्वा तत्-संबन्धिनम् अलंकारं मण्डन-विशेषं कल्पयित्वा, तस्य पूर्वादि-दिक्षु दश-होत्रादि-मन्त्रान् पठित्वा "अग्निर् यजुर्भिः" इत्यादिभिः संभार-मन्त्रैः, “सेनेन्द्रस्य" इत्यादिभिर् देव-पत्नी-मन्त्रैश् चाभिमन्त्रितेन स्थागर-पिष्टेन तस्याः सीताया मुखे तिलकाद्य्-अलंकारं चकार। सा च सीता तस्य सोमस्य समीपे प्रत्याजगाम।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताँ᳓ होदी᳓क्ष्योवाच -  
 "उ᳓प मा᳓ वर्तस्वे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +314,7 @@ unicode_script: devanagari
 
 स च सोमस् तां दृष्ट्वा परवशो, "मां प्रति समीपे समागच्छ" इत्य् उवाच।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -296,6 +323,8 @@ unicode_script: devanagari
 एत᳓न्म आ᳓चक्ष्व ,  
 य᳓त्ते पाणा᳓व्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,11 +350,14 @@ unicode_script: devanagari
 [[P470]]  
 किंच यत् ते पाणौ मुष्टि-मध्ये गोप्यं वस्तु वर्तते, एतन् मह्यम् अवञ्चनं कृत्वा कथय।"
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या उ ह᳓ त्री᳓न् वे᳓दान् प्र᳓ददौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,11 +378,14 @@ unicode_script: devanagari
 
 ततः सोमो ऽपि प्रीत्यतिशयेन तस्यै सीतायै त्रीन् वेदान् प्रददौ, वेद-मन्त्र-लाञ्छितं किंचिद् गुटिका-द्रव्यं दत्तवान् इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् उ᳓ ह स्त्रि᳓यो भो᳓गमै᳓व᳓ हारयन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +406,7 @@ unicode_script: devanagari
 
 यस्माद् इयं सीता प्रियं वस्तु ययाचे तस्माल् लोके ऽपि स्त्रियो भोगम् उद्दिश्य प्रियं दायं पुरुषम् आहारयन्ते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -385,6 +421,8 @@ unicode_script: devanagari
 सम्भारै᳓श्च प᳓त्निभिश्च मु᳓खेऽलङ्कृ᳓त्य  
 आ᳓स्या᳓र्ध᳓व्ँ व्रजेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,11 +442,14 @@ unicode_script: devanagari
 
 सः᳓ । यः᳓ । काम᳓येत । प्रियः᳓ । स्याम् । इ᳓ति । य᳓म् । वा᳓ । काम᳓येत । प्रियः᳓ । स्यात् । इ᳓ति । त᳓स्मै । एत᳓म् । स्थागर᳓म् । अलं-कार᳓म् । कल्पयित्वा᳓ । द᳓श-होतारम् । पुर᳓स्तात् । वि-आ-ख्या᳓य । च᳓तुर्-होतारम् । दक्षिणतः᳓ । प᳓ञ्च । होतारम् । पश्चा᳓त् । ष᳓ड्ढोता । अरम् । उत्तरतः᳓ । सप्त᳓-होतारम् । उप᳓रिष्टात् । सम्भारैः᳓ । च । प᳓त्निभिः । च । मु᳓खे । अलम् । कृ᳓त्य । आ᳓स्य । अर्ध᳓म् । व्रजेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियो᳓ हैव᳓ भवति ॥46॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,4 +487,5 @@ unicode_script: devanagari
 अहम् एव तस्मै राज्ञे प्रियो भविष्यामीति वा, पुरुषो ऽयं राज्ञे प्रियो भवत्व् इति वा कामनायां सत्यां प्रीति-विषयस्य स्वस्य परस्य वा मुखे पूर्वोक्त-प्रकारेण स्थागर-पिष्ट-तिलकादिकं कृत्वा तस्य राज्ञः समीपे गच्छन्न् अयं तिलक-धारी तस्य राज्ञः प्रियो भवति॥  
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठके दशमो ऽनुवाकः ॥ १० ॥
+</details>
 </details>

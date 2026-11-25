@@ -313,12 +313,15 @@ script: grantha
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
+</details>
 </details>
 </details>
 </div>
@@ -332,12 +335,15 @@ script: grantha
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
 तपः कर्मात्मकानि वै ।  
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
+</details>
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)

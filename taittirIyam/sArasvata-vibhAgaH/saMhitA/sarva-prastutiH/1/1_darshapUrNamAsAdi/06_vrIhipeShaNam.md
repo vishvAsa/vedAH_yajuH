@@ -7,16 +7,20 @@ title: ०६ व्रीहिपेषणम्
 ____
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वधूतँ र᳓क्षो᳓ऽवधूता अ᳓रातयः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,7 +41,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
@@ -45,12 +49,16 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 </div>
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवस्तृणाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +66,8 @@ ____
 अ᳓दित्यास् त्व᳓गसि ।  
 प्र᳓ति +++(तादृशीं)+++ त्वा+++(ं)+++ पृथिवी᳓ +++(स्वस्या उपरि)+++ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,7 +95,7 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +103,8 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 अ᳓दित्यास्त्व᳓गसि,  
 प्र᳓ति त्वा पृथिवी᳓ वेत्तु
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,12 +125,16 @@ b. Thou art the skin of Aditi, may the earth recognize thee.
 
 1-2अवधूननोपस्तरणमन्त्रौ व्याख्यातौ (तै.सं. 1.1.5) ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3शम्यां निदधाति - दिव इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +143,8 @@ ____
 प्र᳓ति त्वा᳓ ऽदित्यास् त्व᳓ग् +++(स्वस्या उपरि)+++ वेत्तु ।
 +++('द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -150,12 +168,16 @@ Thou art a bowl of rock, may the supporter of the sky recognize thee.
 
 हे शम्ये अदित्यास्त्वक्, एवंभूतां त्वां, अदित्यास्त्वग्भूतं कृष्णाजिनं प्रतिवेत्तु अनुजानातु आत्मोपरि तवावस्थानम् । 'द्यावापृथिवी सहास्ताम्' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4शम्यायां दृषदमत्यादधाति - धिषणेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +185,8 @@ ____
 +++(हे दृषत्!)+++ धिष᳓णा+++(=धृष्टा = लवने समर्था)+++ ऽसि पर्वत्या᳓ +++(पर्वतमर्हतीति)+++ ।  
 प्र᳓ति त्वा दिव᳓स् स्कम्भनि᳓र् +++(शम्या)+++ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -189,12 +213,16 @@ Thou art a bowl of rock, may the supporter of the sky recognize thee.
 
 त्वामीदृशीं दिवस्कम्भनिः शम्या प्रतिवेत्तु अनुजानातु उपरिनिधानम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5दृषद्युपलामत्यादधति - धिषणेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -202,6 +230,8 @@ ____
 +++(उपले!)+++ धिष᳓णाऽसि पार्वतेयी᳓ ।  
 प्र᳓ति त्वा पर्वति᳓र् +++(=परिपूर्णा शिला = दृषत्)+++ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,22 +259,27 @@ Thou art a bowl made of the rock, may the rock recognize thee.
 धिषणा धृष्टासि हे उपले पार्वतेयी । पर्वतिः परिपूर्णा महाशिला दृषल्लक्षणा । पूर्व पर्व मर्व पूरणे, 'वहिवस्यर्तिभ्यश्चित्' (उ.सू. 500) इति वहतिर्वसतिररतिरिति विधीयमानोतिप्रत्ययो बहुलवचनात्पर्वतेरपि भवति । तस्यापत्यं पार्वतेयी । (शुभ्रादेः) आकृतिगणत्वात् (पा.सू. 4.1.123) ढकि 'कितः' (पा.सू. 6.1.165) इत्यन्तोदात्तत्वम्, उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् (पा.सू. 6.1.161) । शिलापुत्रकवदपत्यत्वमुपचर्यते ।   
 यस्मात्त्वं धिषणासि पार्वतेयी, तस्मात्त्वां दुहितृस्थानीयां सा पर्वतिः दृषत् प्रतिवेत्तु, त्वां मातेव दुहितरमुत्सङ्गस्थामनुजानातु ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6पुरोडाशीयानधिवपति - देवस्य त्वेति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,13 +312,15 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … अ᳓धिवपामि।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,10 +346,14 @@ I pour thee out.
 
 सावित्रो व्याख्यातः (तै.सं. 1.1.4) । अधिवपनं दृषदि प्रक्षेपणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अधिवपति - धान्यमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +361,8 @@ I pour thee out.
 धान्य᳙म्+++(=धा+यत्)+++ असि ।  
 धिनुहि᳓+++(=प्रीणय)+++ देवा᳓न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,12 +386,16 @@ Thou art stimulating, stimulate the gods.
 
 यस्मात्त्वमीदृशमसि तस्माद्देवानां धिनुहि प्रीणय । यद्वा - धान्यं पोषणशीलं वर्धिष्णुस्वभावं हव्यमसि । तस्माद्देवान् यावदभिलाषं प्रथित्वा प्रीणय । 'एतस्य यजुषो वीर्येण' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् । हिवि दिवि धिवि जिवि प्रीणनार्थाः । 'धिन्विकृण्व्योर च' (पा.सू. 3.1.80) इत्युप्रत्ययः । 'अतो लोपः' (पा.सू. 6.4.48), 'उतश्च प्रत्ययाच्छन्दो वा वचनम्' (पा.सू. 6.4.10 वा 1) इति हेर्लुङ्न क्रियते, पित्त्वनिषेधात् (पा.सू. 3.4.87) । ङित्त्वादुदात्तत्वं च हेः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8पिनष्टि - प्राणाय त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +404,8 @@ ____
 अपाना᳓य त्वा +++(प्रतीचीनं)+++।     
 व्याना᳓य त्वा +++(तिरश्चीनं)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -384,18 +433,24 @@ For expiration thee, for inspiration thee, for through-breathing thee (I pound).
 
 प्राणार्थं त्वां प्राचीनं पिनष्मि, अपानार्थं प्रतीचीनं, व्यानार्थं तिरश्चीनं; प्राणादिवृत्तीनामेवंरूपत्वात् । सर्वत्र थाथादिस्वरेणान्तोदात्तत्वम् (पा.सू. 6.2.144) । घञर्थे कः, घञ् वा । बहुलमिति वचनाद्वृद्ध्यभावः । व्याने संहितायां छान्दसं दीर्घत्वम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9बाहू अन्ववेक्षते - दीर्घामन्विति त्रिष्टुभैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घा᳓म् अ᳓नु +++(बाह्वोः)+++ प्र᳓सितिम्+++(=प्रबन्धम्)+++ आ᳓युषे धाम्+++(=दधामि)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,20 +471,25 @@ May I extend for long the life (of the sacrificer).
 
 प्रसितिः प्रबन्धः कर्मसन्तानः । षिञ् बन्वने, 'तादौ च निति कृत्यतौ' (पा.सू. 6.2.50) इति पूर्वपदप्रकृतिस्वरत्वम् । दीर्घामविच्छिन्नां प्रसितिमनु युवां धां दधामि अविच्छिन्नेन कर्मसन्तानेन युवां सम्बध्नामि । 'तृतीयार्थे' (पा.सू. 1.4.85) इत्यनोः कर्मप्रवचनीयत्वम् । धामिति दधातेर्लेट्, 'इतश्च लोपः परस्मैपदेषु', (पा.सू. 3.4.97), 'बहुलं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक् । आयुषे आयुरर्थं, यजमानस्याविच्छिन्नमायुर्भूयादिति । यद्वा - आयुरन्नं पुरोडाशलक्षणं, तत्सिद्ध्यर्थम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10कृष्णाजिने पिष्टानि प्रस्कन्दयति - देव इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,12 +510,15 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्यातम् (तै.सं. 1.1.5 । 'अन्तरिक्षादिव वै' (तै.ब्रा. 3.2.6) इत्यादि ब्राह्मणम् ॥
+</details>
 </details>
 
 इति षष्ठोनुवाकः

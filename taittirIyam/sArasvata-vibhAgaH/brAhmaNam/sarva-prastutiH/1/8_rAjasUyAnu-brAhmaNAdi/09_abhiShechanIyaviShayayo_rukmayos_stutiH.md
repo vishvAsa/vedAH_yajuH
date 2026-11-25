@@ -8,6 +8,8 @@ unicode_script: devanagari
 इयव्ँ᳓ वै र᳙जता᳓, असौ᳓ ह᳓रिणी ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वै॒ र॑ज॒ता ।  
@@ -26,11 +28,14 @@ unicode_script: devanagari
 पृथिवी रजता द्यौस्सैवर्णी ।  
 तस्मान्न उपरि च यद्रजतसौवर्णौ रुक्मौ भवतः तस्मादाभ्यां द्यावापृथिवीभ्यामेव ह्येष परिगृहीतो भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्रुक्मौ᳓ भ᳓वत आभ्या᳓मेवै᳓नमुभय᳓तᳶ प᳓रि गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -42,11 +47,14 @@ unicode_script: devanagari
 
 य᳓त् । रुक्मौ᳓ । भ᳓वतः । आभ्या᳓म् । एव᳓ । एनम् । उभय᳓तः । प᳓रि । गृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य वा᳓ अभिषिच्य᳓मानस्या᳓पः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,11 +71,14 @@ unicode_script: devanagari
 2 वरुणस्य वा इत्यादि ॥  
 गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रियव्ँ᳓ वीर्य᳙न्नि᳓रघ्नन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,11 +89,14 @@ unicode_script: devanagari
 
 इन्द्रिय᳓म् । वीर्य᳙म् । निः᳓ । अघ्नन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्सुव᳓र्णँ हि᳓रण्यमभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,11 +107,14 @@ unicode_script: devanagari
 
 त᳓त् । सु-व᳓र्णम् । हि᳓रण्यम् । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्रुक्म᳓मन्तर्द᳓धातीन्द्रिय᳓स्य वीर्य᳙स्या᳓निर्घाताय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -114,11 +131,14 @@ unicode_script: devanagari
 
 3 यद्रुक्ममिति ॥ सौवर्णं रुक्मं अन्तर्मध्ये राज्ञोऽपां च दधाति स्थापयति । तदिन्द्रियादेरनिर्घाताय अविनाशाय भवति । वरुणस्येव नास्यावघातः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत᳓मानो भवति शत᳓क्षरः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,11 +154,14 @@ unicode_script: devanagari
 
 शतमान शतमानयवप्रमाणकः शतक्षरः शतच्छिद्रः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शता᳓युᳶ पु᳓रुषश्शते᳓न्द्रिय आ᳓युष्येवे᳓न्द्रिये᳓ प्र᳓तितिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,11 +173,14 @@ unicode_script: devanagari
 
 शता᳓युः । पु᳓रुषः । शते᳓न्द्रियः । आ᳓युषि । एव᳓ । इन्द्रिये᳓ । प्र᳓ति । तिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युर्वै᳓ हि᳓रण्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,11 +198,14 @@ unicode_script: devanagari
 हिरण्यस्य आयुर्हेतुत्वात् आयुष्याः आयुर्वृद्धिहेतुभूता एव सत्यः एनमभ्यतिक्षरन्ति एनमभिलक्ष्य परिक्षरन्ति ।  
 'नौद्व्यचः' इति यत्, 'अभिरभागे'इति लक्षणे अनोः कर्मप्रवचनीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुष्या᳙ एवै᳓नमभ्य᳓तिक्षरन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,11 +216,14 @@ unicode_script: devanagari
 
 आयुष्याः᳙ । एव᳓ । एनम् । अभि᳓ । अ᳓ति । क्षरन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो वै᳓ हि᳓रण्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -202,11 +234,14 @@ unicode_script: devanagari
 
 ते᳓जः । वै᳓ । हि᳓रण्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजस्या᳙ एवै᳓नमभ्य᳓तिक्षरन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,11 +252,14 @@ unicode_script: devanagari
 
 तेजस्याः᳙ । एव᳓ । एनम् । अभि᳓ । अ᳓ति । क्षरन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्चो वै᳓ हि᳓रण्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -239,11 +277,14 @@ unicode_script: devanagari
 गतमन्यत् ॥  
 इति अष्टमे नवमोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्चस्या᳙ एवै᳓नमभ्य᳓ति क्षरन्ति ॥34॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,4 +294,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 वर्चस्याः᳙ । एव᳓ । एनम् । अभि᳓ । अ᳓ति । क्षरन्ति ।
+</details>
 </details>

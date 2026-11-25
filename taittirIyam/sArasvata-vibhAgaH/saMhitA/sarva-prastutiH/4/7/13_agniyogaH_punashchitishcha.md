@@ -5,6 +5,8 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अग्निर्ऋषिः
 चतुर्थकाण्डे सप्तमप्रपाठके त्रयोदशोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ( अथ चतुर्थकाण्डे सप्तमप्रपाठके त्रयोदशोऽनुवाकः )।  
@@ -12,6 +14,7 @@ title = "१३ अग्नियोगः, पुनश्चितिश्�
 अथ त्रयोदशेऽग्नियोगोऽभिधीयते।     
 “ पुरस्तात्प्रातरनुवाकादग्निं युनज्मीमिति तिसृभिरभिमृशन्नग्निं युनक्ति ” इति।  
 तत्र प्रथमामाह– अग्निं युनज्मीति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/02_agniy.Nyunajmi_shavasA.md">
@@ -58,9 +61,12 @@ Mounting the heaven above the highest vault.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– इमौ ते पक्षावति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/06_imau_te.md">
@@ -106,9 +112,12 @@ Where are the seers, the first-born, those of yore.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तृतीयामाह – चिदसि समुद्रेति ।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/10_chidasi_samudrayonirindurdakhShashshyena.md">
@@ -153,9 +162,12 @@ That hath sat down firmly in its place [1].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “यज्ञायज्ञियस्य स्तोत्र एकयाऽप्रस्तुतं भवत्यथ नमस्ते अस्तु मा मा हिँ सीरिति द्वाभ्यामग्निमभिमृशति” इति।   तत्र प्रथमामाह– नमस्ते अस्त्विति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/14_namaste_astu.md">
@@ -199,9 +211,12 @@ Sky and earth are placed on the worlds.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– उद्नो दत्तोदघिमिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/18_udno_dattodadhimbhinta.md">
@@ -254,10 +269,13 @@ Give of the water, cleave the holder of the water; from the sky, from Parjanya, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “ पुनश्चितिस्त्रिष्वर्थेषु श्रूयतेऽस्त्रवणार्थे समृद्ध्यर्थे संतानार्थे चास्रवणार्थं व्याख्यास्यामो यदीष्ट्या यदि पशुना यदि सोगेन यजेत योऽप्यस्य पुरोऽ–ग्निस्तमन्ववसाय यजेतापि वा येनर्षय इत्यष्ठौ नाना मन्त्रा उत्तरवेद्यामुपदध्यात् ” इति।  
 तत्र प्रथमामाह– येनर्षय इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/22_yenarShayastapasA_sattram.md">
@@ -300,9 +318,12 @@ Whom men call him for whom the spread is strewed.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– तं पत्नीभिरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/26_tampatnIbhiranu_gachChema.md">
@@ -346,9 +367,12 @@ Above the third firmament, in the light of the sky.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह– आ वाचो मध्यमेति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/30_A_vAcho.md">
@@ -392,9 +416,12 @@ He casteth beneath his feet [3] the combatants.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– अयमग्निरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/34_ayamagnirvIratamo_vayodhAssahasriyo.md">
@@ -449,9 +476,12 @@ Do ye approach the abodes divine.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह– सं प्र च्यवध्वमिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/13_agniyogaH_punashchitishcha/37_sampra_chyavadhvamanu.md">
@@ -484,9 +514,12 @@ O All-gods, sit ye with the sacrificer.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह– येना सहस्रमिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/41_yenA_sahasrav.Nvahasi.md">
@@ -530,9 +563,12 @@ Do thou bear this sacrifice for us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह–  २२५९ उद्वुध्यस्वाग्न इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
@@ -579,9 +615,12 @@ He hath stretched over thee this covering.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह– अयं ते योनिरिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/49_ayante_yonirRtviyo.md">
@@ -637,6 +676,8 @@ And make our wealth increase.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एतैर्मन्त्रै।   साध्यां पुनश्चितिं विधत्ते– “प्र वा एषोऽस्माल्लोकाच्च्यवते योऽग्निं चिनुते न वा एतस्यानिष्टक आहुतिरवकल्पते यां वा एषोऽनिष्टक आहुतिं जुहोति स्रवति वै सा ताँ स्रवन्तीं यज्ञोऽनुपरा भवति बज्ञं यजमानो यत्पुनश्चितिं चिनुत आहुतीनां प्रतिष्ठित्यै प्रत्याहुतयस्तिष्ठन्ति न यज्ञः पराभवति न यजमानः” [सं० का० ५ प्र० ४ अ० १०] इति।  
@@ -648,6 +689,7 @@ And make our wealth increase.
 अत्र पूर्वपक्षत्वेन शाखान्तरमतमुपन्यस्यति– “अथो खल्वाहुर्न चेतव्येति रुद्रो वा एष यदग्निर्यथा व्याघ्रँ सुप्तं बोध यति तादृगेव तत्” [सं० का० ५ प्र० ४ अ० १०] इति।  
 यथा लोके सुप्तो व्याघ्रः केनचिन्मार्गे गच्छता पुरुषेण बोधितस्तमेव बोध यितारं मारयति, एवमयं क्रूरोऽग्निः पूर्वं चितः कथंचित्पुण्यवशात्सुप्तवच्छान्तो वर्तते।   स चेत्षुनश्चीयेत प्रबोधितव्याघ्रवन्मारयेत्।   तस्मान्न चेतव्येयं पुनश्चितिरिति पूर्वः पक्षः।   तमिमं पक्षमनादृत्य स्वपक्षमेव स्थापयति– “अथो खल्वाहुश्चेतव्येति यथा वसीयाँसं भागधेयेन बोधयति तादृगेव तत्” (सं० का० ५ प्र० ४ अ० १०) इति।  
 लोके धनाढ्यं प्रभुं चिरकालव्यवधानेन विस्मृतवन्तं भृत्यः पुनरप्युपायनमानीय यथा बोधयति, स च बोधित एवाभीष्टसिध्दिं करोति, एवमयं प्रभुराग्निः पुनश्चितः सन्नमीष्टं साधयतीति चेतव्येयं पुनश्चितिः।    तस्याः पुनश्चितेः समृद्धिहेतुत्वमुदाहरणमुखेन स्पष्टयति– “मनुरग्निमचिनुत तेन नाऽऽर्ध्नोत्स एतां पुनश्चितिमपश्यत्तामचिनुत तया वै स आर्घ्नोद्यत्पुनश्चितिं चिनुत ऋद्ध्यै” [सं० का० ५ प्र० ४ अ० १०] इति।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

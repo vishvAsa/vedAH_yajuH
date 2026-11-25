@@ -5,6 +5,8 @@ title = "१० वसाहोमः"
  सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पृषदाज्येन हृदयम् अभिघारयति - सन्ते मनसेति ॥ 
@@ -13,6 +15,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्ते॒ मन॑सा॒ मन॒स्सम्प्रा॒णेन॑ प्रा॒णो जुष्ट॑न्दे॒वेभ्यो॑ ह॒व्यङ्घृ॒तव॒त् स्वाहा॑ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,6 +26,8 @@ _______
 हव्य᳓ङ् घृत᳓वत् -  
 स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,8 +59,11 @@ hail!
 
 स्वाहा इत्थं त्वामभिघारयामीति स्वैव प्रजापतेर्वागाह । यद्वा - इर्दृशं त्वं स्वाहाकार्यं च भविष्यसीति । 'प्राणापानौ वा एतौ पशूनां यत्पृषदाज्यं पशोः खलु वा आलब्धस्य हृदयमात्माभिसमेति' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2पशोर् अवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥ 2पशोरवदानानि सम्मृशति - ऐन्द्रः प्राण इत्यनुष्टुभा षट्पदया ॥
@@ -64,6 +72,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऐ॒न्द्रᳶप्रा॒णो अङ्गे॑अङ्गे॒ नि दे॑ध्यदै॒न्द्रो॑ऽपा॒नो अङ्गे॑अङ्गे॒ वि बो॑भुव॒द्देव॑ त्वष्ट॒र्भूरि॑ ते॒ सँस॑मेतु॒ विषु॑रूपा॒ यत् सल॑क्ष्माणो॒ भव॑थ देव॒त्रा यन्त॒मव॑से॒ सखा॒योऽनु॑ त्वा मा॒ता पि॒तरो॑ मदन्तु॒ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/10_vasAhomaH/02_aindrapH_prANo.md">
@@ -182,6 +191,8 @@ And thy father and mother rejoice.
 
 _______
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श्रीर॑स्य॒ग्निस्त्वा॑ श्रीणा॒त्वाप॒स्सम॑रिणम् वात॑स्य [18]त्वा॒ ध्रज्यै॑ पू॒ष्णो रँह्या॑ अ॒पामोष॑धीनाँ॒ रोहि॑ष्यै।
@@ -191,11 +202,14 @@ _______
 
 3पार्श्वेन होमार्थां वसां प्रयौति आलोडयति - श्रीरसीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्री᳓र्+++(←श्रीञ् पाके)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -211,11 +225,14 @@ Thou art fortune (śri).
 
 श्रीः । अ॒सि॒ ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓स् त्वा श्रीणातु᳓+++(←श्रीञ् पाके)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -238,6 +255,7 @@ Let Agni cook (śrinatu) thee.
 
 यत एवं तस्मात् **अग्निर्** एव स्वयमागत्य **त्वां श्रीणातु** पाकविशेषशालिनीं करोतु यस्सर्वस्य पाकहेतुरिति भावः ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +265,8 @@ ________
 पूष्णो᳓ रँ᳓ह्या+++(य् = वेगाय)+++  
 अपा᳓म् ओ᳓षधीनाँ **रो᳓हिष्यै**+++(←रुह्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,17 +310,23 @@ for the growth of the waters, of the plants.
 **आपश्च समरिणन्** त्वय्य् एकीभवन्तु । मा मुचन्न् इत्य् एवम् अर्थं त्वां मिश्रयामीति शेषः, पुनश्च त्वाशब्दश्रुतेः ।
 एवं क्रियमाणे के गुणा लोकस्य? इत्याह - वातस्येत्यादि ॥ सुबोधम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4वसां जुहोति - घृतमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓ङ् घृत-पावानᳶ पिबत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,11 +347,14 @@ Drink ghee, ye drinkers of ghee;
 
 हे घृतपावानो घृतस्य पातारो देवा यूयं घृतं वसागतं पिबत ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓साव्ँ वसा-पावानᳶ पिबत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +375,14 @@ drink fat, ye drinkers of fat.
 
 हे वसापावानः वसायाः पातारः, यूयमपि वसां पिबत । पिबतेः 'आतो मनिन्' इत्यादिना वनिप् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षस्य हवि᳓र् असि स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,11 +405,14 @@ Thou art the oblation of the atmosphere.
 
 यस्मादेवं तस्मात् अन्तरिक्षाय त्वां स्वाहाकरोमीति शेषः ॥
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वाऽन्त᳓रिक्षाय +++(अर्पयामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,8 +428,11 @@ Hail! thee to the atmosphere!
 
 अ॒न्तरि॑क्षाय ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5वसाहोमोद्रेकेण दिशो जुहोति दिग्भ्यो जुहोति - दिशः प्रादिश इति ॥
@@ -403,6 +441,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दिशᳶ॑ प्र॒दिश॑ आ॒दिशो॑ वि॒दिश॑ उ॒द्दिश॒स्स्वाहा॑ दि॒ग्भ्यो नमो॑ दि॒ग्भ्यः ॥ [19]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +452,8 @@ _______
 +++(विविधाः कोनदिशो)+++ विदि᳓श,
 उद्-दि᳓शस्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,11 +469,14 @@ The quarters, the Pradiśes, the Adiśes, the Vidiśes, the Uddiśes.
 
 दिशः॑ । प्र॒दिश॒ इति॑ प्र-दिशः॑ । आ॒दिश॒ इत्या॑-दिशः॑ । वि॒दिश॒ इति॑ वि-दिशः॑ ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(इत्य् उक्ताभ्यः)+++ स्वा᳓हा दिग्भ्यः᳓!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -474,11 +518,14 @@ Hail to the quarters!
 
 विविधं दिशन्तीति विदिशः । ऊर्ध्वं दिशन्तीत्युद्दिशः । ऋत्विगादिना दिशेः क्विन्, कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो दिग्भ्यः᳓ ॥ [19]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -502,6 +549,7 @@ Homage to the quarters.
 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
 
 'दिशो जुहोति दिश एव रसेनानक्ति' `इति ब्राह्मणम् ॥
+</details>
 </details>
 
 इति तृतीये दशमोनुवाकः ॥  

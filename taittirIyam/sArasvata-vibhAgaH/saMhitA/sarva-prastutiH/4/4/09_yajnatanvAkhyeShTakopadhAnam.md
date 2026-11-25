@@ -4,6 +4,8 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ति॒र्मन॒सान्धोऽच्छे॑तो धा॒ता दी॒क्षायाँ॑ सवि॒ता भृ॒त्याम्पू॒षा सो॑म॒क्रय॑ण्याव्ँ॒वरु॑ण॒ उप॑न॒द्धोऽसु॑रᳵ क्री॒यमा॑णो मि॒त्रᳵ क्री॒तश्शि॑पिवि॒ष्ट आसा॑दितो न॒रन्धि॑षᳶ प्रो॒ह्यमा॒णोऽधि॑पति॒राग॑तᳶ प्र॒जाप॑तिᳶ प्रणी॒यमा॑नो॒ऽग्निराग्नी॑ध्रे॒ बृह॒स्पति॒राग्नी॑ध्रात्प्रणी॒यमा॑न॒ इन्द्रो॑ हवि॒र्धानेऽदि॑ति॒रासा॑दितो॒ विष्णु॑रुपावह्रि॒यमा॒णोऽथ॒र्वोपो॑त्तो य॒मो॑ऽभिषु॑तोऽपूत॒पा आ॑धू॒यमा॑नो वा॒युᳶ पू॒यमा॑नो मि॒त्रः क्षी॑र॒श्रीर्म॒न्थी स॑क्तु॒श्रीर्वै॑श्वदे॒व उन्नी॑तो रुद्र॒ आहु॑तो वा॒युरावृ॑त्तो नृ॒चक्षा॒ᳶ प्रति॑ख्यातो भ॒क्ष आग॑तᳶ पितृ॒णान्ना॑राशँ॒सोऽसु॒रात्त॒स्सिन्धु॑रवभृ॒थम॑वप्र॒यन्त्स॑मु॒द्रोऽव॑गतस्सलि॒लᳶ प्रप्लु॑तस्सुव॑रु॒दृच॑ङ्ग॒तः ॥  
@@ -18,11 +20,14 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 कल्पः—“प्रजापतिर्मनसाऽन्धोऽच्छेत इति त्रयस्त्रिंशतं यज्ञतनू” इति।  
 पाठस्तु— प्रजापतिरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्म᳓नसा᳓न्धो᳓ऽच्छेतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,11 +54,14 @@ title = "०९ यज्ञतन्वाख्येष्टकोपधा�
 सोऽयं संकल्पदशामापन्नो यज्ञस्य विग्रहः प्रजापतिनामकः ।  
 हे इष्टके तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धाता᳓ दीक्षा᳓याम् +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -76,11 +84,14 @@ the creator in the consecration;
 हे इष्टके तद्रूपा त्वमसि ।  
 एवं सर्वत्र योज्यम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓विता᳓ भृत्या᳓म् +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,11 +112,14 @@ Savitr in the bearing;
 
 भृतिर्यज्ञ भिक्षा तस्यां सवितृसमानमूर्तिर्यज्ञतनुः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ सोमक्र᳓यण्याम्+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,11 +140,14 @@ Pusan in the cow for the purchase of the Soma;
 
 सोमक्रयण्येकहायनी गौस्तस्यां पूषसमानो यज्ञविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुण उ᳓पनद्धः᳓+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,11 +168,14 @@ Varuna when bound (in the cloth);
 
 उपनद्धो वस्त्रेण बद्धो चः सोमः स वरुणसमानशरीरो यज्ञपुरुषः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सुरᳵ क्रीय᳓माणः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,11 +196,14 @@ Asura in the being bought;
 
 क्रीयामाणो यः सोऽयमसुर इन्द्रसमानविग्रहः, शत्रू नस्यति क्षिप तीत्यसुरः असून्प्राणान्राति ददातीति वाऽसुरः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रᳵ᳓ क्रीतः᳓ +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,11 +224,14 @@ Mitra when purchased;
 
 यः क्रीतः सोमः सोऽयं  मित्रसमानविग्रहो यज्ञः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓पिविष्ट᳓ आ᳓सादितः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,11 +252,14 @@ Mitra when purchased;
 
 आसादितो यजमानस्योरौ यः स्थापितः सोमं सोऽयं शिपिविष्टो विष्णुसमानविग्रहो यज्ञः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर᳓न्धिषᳶ प्रोह्य᳓माणः +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +280,14 @@ delighter of men when being carried forward;
 
 प्रोह्यमाणः शकटेन प्राग्वंशं प्रति नीयमानो यः सोमः  सोऽयं नरंधिषोऽग्निसमासविग्रहो यज्ञः, नरैर्यजमानैर्धीयत आधीयत इति नरंविषोऽग्निः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिपतिरा᳓गतः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,11 +308,14 @@ the overlord when arrived;
 
 आगतः प्राग्वंश आसन्दीं प्रति समागतो यः सोगः सोऽयमधिपतिरसिकं पालको य आहवनीयस्तत्समानविग्रहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिᳶ प्रणीय᳓मानः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -301,11 +336,14 @@ Prajapati being carried forward;
 
 प्रणीयमानः प्राग्वंशादाग्राघ्रिं प्रति नियमानो यः सोमः सोऽयं प्रजापतिसमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓रा᳓ग्नीध्रे +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +365,14 @@ Agni in the Agnidh's altar;
 आग्नीघ्रेऽवस्थितो य  
 २०८८ सोमः सोऽयमग्निसमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिरा᳓ग्नीध्रात्प्रणीय᳓मानः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +393,14 @@ Brhaspati being carried forward from the Agnidh's altar;
 
 आग्नीघ्राद्वीवर्धानं प्रति नीयमानो यः सोमः स बृहस्पतिसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो  हविर्धा᳓ने +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,11 +421,14 @@ Indra in the oblation-holder;
 
 हविर्धाने प्रविष्ट इन्द्रसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिरा᳓सादितः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,11 +449,14 @@ Aditi when put in place;
 
 आसादित आसन्द्यां स्थापितः सोमोऽदितिसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णुरुपावह्रिय᳓माणः +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -427,11 +477,14 @@ Visnu when being taken down;
 
 उपावह्रियमाणः शकटादधिषवणफलकस्थ ग्रावस्ववरोप्यमाणः सोमो विष्णुसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थर्वो᳓पोत्तः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -452,11 +505,14 @@ Atharvan when produced;
 
 उपोत्तो वसतीवरीभिरद्भिः क्लेदितः सोमोऽथर्वाऽथर्वऋषिसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमो᳙ऽभि᳓षुतः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +533,14 @@ Yama when pressed;
 
 अभिषुतश्चूर्णितः सोमो यमसमान विग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपूतपा᳓ आधूय᳓मानः +++(असि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -502,11 +561,14 @@ unpurified drinker when being cleansed;
 
 आधयमानोऽदाभ्यग्रहे सोमांसुभिश्चाल्यमानोऽपूतं मूत्राद्युपहतं देशंपाति शोषयति विशेषेण सुद्धं करोतीत्यपूतपा आदित्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायुᳶ᳓ पूय᳓मानः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -527,11 +589,14 @@ Vayu when purifying;
 
 पूयमानो दशापवित्रेण शोध्यगानः सोमा वायुर्वायुसमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रः᳓ क्षीरश्रीः᳓+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,11 +617,14 @@ Mitra when mixed with milk;
 
 क्षीरश्रीर्मैत्रावरुणग्रहे पयसा मिश्रितः सोमो मित्रसमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थी᳓ सक्तुश्रीः᳓+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -577,11 +645,14 @@ the Manthin when mixed with meal;
 
 सक्तुश्चीर्मन्थिग्रहे सक्तुभिर्श्रितः सोमो मन्थी मन्थिग्रहदेवतारूपेन्द्रसमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेव᳓ उ᳓न्नीतः +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,11 +673,14 @@ the All-gods when taken out;
 
 उन्नीतश्चमसेषु पूरितः सोमो वैश्वदेवो विश्वै र्देवैः समानविग्रहः ।  ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रु᳓द्र आ᳓हुतः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -627,11 +701,14 @@ Rudra when offered;
 
 आहुतो वह्नौ प्रक्षिप्तः सोनो रुद्रसमानविग्रहः य़
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓रा᳓वृत्तः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -652,11 +729,14 @@ Vayu when revolving;
 
 आवृत्तो भक्षार्थं सदस्यानेतुं प्रतिनिवृत्तः सोमो वायुसमानाविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृच᳓क्षाᳶ प्र᳓तिख्यातः+++(असि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +757,14 @@ the watcher of men when looked at;
 
 प्रतिख्यातो भक्षार्थमेवेक्षितः सोमो नृचक्षा मनुष्यदृष्टिसमानविग्रहः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्ष᳓ आ᳓गतः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +785,14 @@ the consumer when arrived;
 
 आगत आस्ये प्रवेशितः सोमो भक्षो वैश्वानरसमानविग्रहः ।  भक्षयतीति व्युत्पत्त्या भक्षशब्दस्तद्वाची ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि᳓तृणा᳓न्नाराशँसः᳓+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -727,11 +813,14 @@ the Naraśaṁsa of the fathers;
 
 नारशंसो भक्षितशेषः सन्पुनर्वसतीवरीभिराप्यायितः सोम पितृसमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सुरा᳓त्तः +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,12 +841,15 @@ then taken;
 
 आत्तोऽवभृथगमनार्थं स्वीकृतः सोमोऽसुः प्राणदेवतासमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सि᳓न्धुरवभृथ᳓म् +++(असि)+++ ।  
 अव प्रय᳓न्त्समुद्रः᳓ +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -779,12 +871,15 @@ the ocean at the final bath;
 
 अवभृथमवप्रयन्नवभृथर्मार्थं मार्गे गच्छन्सोमः सिन्धुर्नदीदेवतासमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वगतस्सलिलः᳓ +++(असि)+++  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -806,11 +901,14 @@ water when gone to the goal;
 
 अवगतोऽवभृथप्रदेशं प्राप्तः सोमः समुद्रदेवतासमानविग्रहः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓प्लुतस्सु᳓वः  +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,11 +929,14 @@ the heaven when arrived at the end;
 
 प्रप्लुतो जले प्रक्षिप्तः सोमो जलदेवतासमानविग्रहः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदृ᳓चङ्गतः᳓ +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -866,6 +967,7 @@ heaven when gone to the goal.
 ज्योतिष्मतीशब्दयुक्तैर्मन्त्रैरुपधेया इष्टका ज्योतिष्मत्यः ।   ते च मन्त्रा अरण्यकाण्डे समाम्नाताः ।   तदुपधानेन ज्योतिः स्थापयति ।   किंचैताभिश्चितोऽग्निः प्रज्वलति ।   अतस्ताभिरेवैनमग्निं दीपतवान्भवति ।   ततोऽस्मै यजमानयोभयोर्लोकयोर्ज्योतिः संपद्यते।   अत्र विनियोगसंग्रहः—   
 प्रजेति यज्ञतनवस्त्रयस्त्रिंशत्समीरिताः ॥    
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके नवमोऽनुवाकः ॥     ९ ॥    
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके दशमोऽनुवाकः

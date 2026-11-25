@@ -8,6 +8,8 @@ title = "०९ शकटात् सोमस्य ग्रहणम्"
 
 ## प्रच्यावनम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शकटेन सोमं प्रच्यावयति - प्रच्यवस्वेति तिसृभिः । तत्र प्रथमा षट्पदा अतिजगती ॥
@@ -29,6 +31,7 @@ ________
 > "'प्र च्यवस्व भुवस्पत' इति प्राञ्चो ऽभिप्रयाय प्रदक्षिणम् आवर्तते 'श्येनो भूत्वा परा पतेत्य्' अध्वर्यू राजानम् अभिमन्त्रयते 'पि पन्थाम् अगस्महीत्य्' अध्वर्युर् यजमानश् च दक्षिणेनोत्तरेण वा राजानम् अतिक्रामतः"  
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/02_prachyavasva_bhuvaspate.md">
@@ -164,15 +167,20 @@ which we have prepared with the gods (for thee).
 
 ## उपस्थानादिकम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अध्वर्युयजमानौ गच्छतः - यजमानस्य स्वस्त्ययनीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम!)+++ य᳓जमानस्य स्वस्त्य᳓यन्य् असि᳓  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -202,6 +210,7 @@ Thou art the good luck of the sacrificer.
 <details><summary>सायण-टीका</summary>
 
 हे सोम, त्वं श्येनवद् उत्पतन-समर्थो भूत्वास्मद्-यजमानस्य गृहे प्राचीन-वंशे परापत शीघ्रं गच्छ। देव-सदृशैर् अध्वर्यु-प्रभृतिभिस् तवोपवेशनायाऽऽसन्दी-रूपं स्थानं संस्कृतम्। 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/04_api_panthAm.md">
@@ -279,6 +288,8 @@ and winneth wealth.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 राजानं प्रत्य् उपतिष्ठते। ।
@@ -292,6 +303,7 @@ ________
 > “अथाग्रेण शालां तिष्ठन्न् ओह्यमानं राजानं प्रति मन्त्रयते। 'नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तद् ऋतं सपर्यत दूरे-दृशे देव-जाताय केतवे दिवस्-पुत्राय सूर्याय शंसतेति'” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
@@ -308,9 +320,12 @@ ________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5राजानं प्रत्युपतिष्ठते - नमो मित्रस्येति जगत्या ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/09_shakaTAt_somasya_grahaNam/05_namo_mitrasya.md">
@@ -410,18 +425,22 @@ The son of the sky, the sun, do ye sing.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शकटम् उदग्-ईषम् उपस्तम्भयति।  
 +++(इषा = शकटस्य महादण्डो यस्यैकस्मिन् भागे वृषो युज्यते, अपरस्मिन् च शकटम्।)+++
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,7 +466,7 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +475,8 @@ Thou art the pillar of Varuna.
 वरु᳓णस्य स्कम्भ-स᳓र्जनम् असि,  
 उ᳓न्मुक्तो वरु᳓णस्य पाशः᳓ ॥ [17]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -473,8 +494,11 @@ unloosened is the noose of Varuna.
 
 व्याख्यातम् । इह त्वयं विशेषः - ईषाया उपस्कम्भनमभिधेयम्, तत्र तु गौः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शम्याम् उद्-वृहति।
@@ -491,13 +515,15 @@ ________
 
 आपस्तम्बस् तु शम्या-योक्त्राभिधानीनां क्रमेणोन्मोचनं मन्यते।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/varuNasya_skambhanam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य +++(सोमस्य च)+++ स्क᳓म्भनम्+++(=धारयिता)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -523,18 +549,23 @@ Thou art the pillar of Varuna.
 
 शाखान्तरानुसारेण 'वारुणम् असीत्य्' उक्तम्। एतच्-छाखानुसारेण 'वरुणस्य स्कम्भ-सर्जनम् असीति' द्रष्टव्यम्। युग-च्छिद्रे प्रक्षेप्यः शङ्कुः शम्या। हे शम्ये, त्वं वरुणस्योक्ष्णो निवारणीयस्य बलीवर्दस्य स्कम्भनं। निवारणं कुर्वत्य् असि। 
 </details>
-
+</details>
 </div>
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8योक्त्रमपनयति - उन्मुक्तो वरुणस्य पाश इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓न् मुक्तो व᳓रुणस्य पा᳓शः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -554,6 +585,7 @@ Varuna's noose is loosened.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपनीतोसीत्यर्थः । यद्वा - त्वय्यपनीते वरुणस्य पाशः उन्मुक्तो भवतीति ॥
+</details>
 </details>
 
 इति द्वितीये नवमोनुवाकः  

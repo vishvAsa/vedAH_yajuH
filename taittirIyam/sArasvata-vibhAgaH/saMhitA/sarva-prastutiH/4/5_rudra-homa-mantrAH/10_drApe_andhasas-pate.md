@@ -1,12 +1,17 @@
 +++
 title = "१० द्रापे॒ अन्ध॑सस्पते॒"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १ आस्तारपङ्क्तिः, २,११-१२ अनुष्टुप्, १-६ जगती,   
 ७-९ त्रिष्टुप्,१० यवमध्या महाबृहती ।  
 अग्निर्ऋषिः
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -15,6 +20,7 @@ title = "१० द्रापे॒ अन्ध॑सस्पते॒"
 अन्यतरतो-नमस्काराणि चोक्तानि।  
 अथ दशमेऽनुवाक ऋग्-रूपा मन्त्रा उच्यन्यते।  
 तत्र प्रथमामृचमाह— द्रापे अन्धसस्पत इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/02_drApe_andhasaspate.md">
@@ -84,9 +90,12 @@ Be not one of these injured.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— या ते रुद्रेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/03_yA_te.md">
@@ -133,9 +142,12 @@ With that show mercy on us for life.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— इमाँ रुद्रायेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/04_imAM_rudrAya.md">
@@ -183,9 +195,12 @@ And that all in this village be prosperous [1] and free from ill.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थमाह– मृडा नो रुद्रोतेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/05_mRDA_no.md">
@@ -233,9 +248,12 @@ May we attain that, O Rudra, under thy leadership.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— मा नो महान्तभिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/06_mA_no.md">
@@ -332,9 +350,12 @@ With oblations lot us serve thee with honour.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह–  २१३७ आरत्ते गोघ्न इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/08_ArAt_te.md">
@@ -375,9 +396,12 @@ And grant us protection in abundance.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
@@ -791,9 +815,12 @@ O bounteous one, be merciful to our children and descendants.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह– मीढुष्ठमेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
@@ -898,9 +925,12 @@ And approach us bearing the spear [4].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशीमाह—  विकिरिदेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/10_vikirida_vilohita.md">
@@ -960,9 +990,12 @@ Smite down another than us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशीमाह— सहस्राणीति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/11_sahasrANi_sahasradhA.md">

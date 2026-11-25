@@ -21,7 +21,6 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 इति सात्त्विक-त्यागं कृत्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓द्युद् असि,  
@@ -30,6 +29,8 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 म᳓यि श्रद्धा᳓। 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 विद्यु॑द् असि॒,  
@@ -37,7 +38,7 @@ title = "०६ ब्रह्म-यज्ञ-क्रमः"
 ऋ॒तात् स॒त्यम् उपै॑मि॥
 मयि॑ श्र॒द्धा।
 </details>
-
+</details>
 </div>  
  
 

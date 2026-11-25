@@ -18,11 +18,14 @@ title = "०६ प्राजापत्यादिव्रतानां 
 आचार्यः ताम्बूलदक्षिणां गृहीत्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -33,6 +36,8 @@ title = "०६ प्राजापत्यादिव्रतानां 
 न᳓मो दिवे᳓॥   
 न᳓मᳶ पृथिव्यै᳓॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,19 +62,20 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
+</details>
+</details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-
-स᳓प्रथ सभा᳓म् मे गोपाय ।  
-ये᳓ च स᳓भ्यास् सभास᳓दः ।  
-ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
-स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
-
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
 </div>
 
 (सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
@@ -275,12 +281,13 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 अनन्वारब्धः 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +299,16 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,12 +320,16 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
 (वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,12 +341,16 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
 (ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,27 +362,31 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 ब्रह्म॑णे, स्व॒य॒म्भुवे॑ - स्वाहा॑ 
 </details>
+</details>
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
-<details open><summary><h8>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य …{Loading}…</h8></summary>
+
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
+
 
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
-
 </details>
-</div>
+</div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 (स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
 </details>
-
+</details>
 </div>  
 
 माणवकः उत्तरेणाग्निं प्राङ्मुखः स्थित्वोपस्थानं कुर्यात् ।
@@ -373,21 +396,30 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 (अधः "का॒ण्ड॒र्षिभ्यः॑ प्रा॒जा॒प॒त्यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -404,16 +436,24 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -424,17 +464,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -446,16 +496,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -466,12 +524,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -482,17 +547,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -503,12 +571,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -519,17 +594,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -540,13 +618,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
 व्रती दक्षिणेन पाणिनोदकुम्भमुस्पृश्य नमोवाचे इत्यनुवाकेन शान्तिं जपेत् । 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/01_namo_vAche_yA">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ शौक्रियं काण्डमारभ्यते । आरण्यकत्वाद् अस्मिन्प्रदेशे मन्त्रब्राह्मगयोराम्नानम् । उभयं सोमार्षेयम् । तत्रादौ शान्तिमुपयन्ति - नमो वाच इति ॥
@@ -565,12 +649,15 @@ I will follow the rules; may I do so; may that be increased.
 
 *(Mantras 1–7)* Propitiatory Mantras. (From 1 to 7).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाचे᳓ या᳓ चोदिता᳓ या᳓ चा᳓नुदिता  
 त᳓स्यै वाचे᳓ न᳓मो
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -585,17 +672,17 @@ I will follow the rules; may I do so; may that be increased.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49)
-- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *VS-M*-5/16)
-- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *VS-M*-34/244)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
+- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
+- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
 - उदिता᳓ (*AV*-1, निष्ठा क्तः पा॰ ३.२.१०२, प्रत्ययस्वरः पा॰ ३.१.३)
-- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *VS-M*-34/244)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
-- अ᳓न्-उदिता (*RV*-0/1, *TB*-0/1, *AV*-1, नञ्-तत्पुरुषः पा॰ ६.२.२)
-- त᳓स्यै (*TS*-25/4763, *RV*-1/3136, *TB*-4/1327, *AV*-7/3163, *SB-M*-64/2303, *VS-M*-4/268)
-- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *VS-M*-5/16)
-- न᳓मः (*TS*-291, *RV*-49, *TB*-28, *AV*-230; पा॰ ८.१.१९)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
+- अ᳓न्-उदिता (*RV*-0/1, *TB*-0/1, *AV*-1, *SB-K*-0/14, नञ्-तत्पुरुषः पा॰ ६.२.२)
+- त᳓स्यै (*TS*-25/4763, *RV*-1/3136, *TB*-4/1327, *AV*-7/3163, *SB-M*-64/2303, *SB-K*-87/20018, *VS-M*-4/268, *VS-K*-5/395)
+- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16)
+- न᳓मः (*TS*-291, *RV*-49, *TB*-28, *AV*-230, *SB-K*-100, *VS-K*-206; पा॰ ८.१.१९)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -607,11 +694,14 @@ I will follow the rules; may I do so; may that be increased.
 
 अनुष्ठेयस्य कर्मणो मन्त्राधीनत्वान्मन्त्राणां च वाग्देवताशरीरस्वरूपत्वात्तस्यै देवतायै प्रथमं नमस्कारः क्रियते । वाक्च द्विविधा, काचित्पूर्वमुदिता व्यवहृता काचिदनुदिता व्यवहरिष्यमाणा । तयोर्मध्ये या च वागुदिता तस्या अपि नमोऽस्तु । या च पूर्वमनुदिता तस्यै वाचेऽपि नमोऽस्तु । विभज्य नमस्कृत्य पुनः समुदायाकारेण नमस्क्रियते । वाचे भागद्वयेऽप्यनुगदितायै वाग्देवतायै नमोऽस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाचे᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -627,11 +717,14 @@ salutation to the speech,
 
 अथ नमो वाचे वागभिमानिन्यै सरस्वत्यै देव्यै नमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वाच᳓स्प᳓तये
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -645,8 +738,8 @@ salutation to the lord of the speech (Vācaspati);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49)
-- वाचः᳓-प᳓तये (*TS*-5, *TB*-0/2, *VS-M*-2/4; उभे वनस्पत्यादिषु युगपत् पा॰ ६.२.१४०)
+- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
+- वाचः᳓-प᳓तये (*TS*-5, *TB*-0/2, *VS-M*-2/4, *VS-K*-2/10; उभे वनस्पत्यादिषु युगपत् पा॰ ६.२.१४०)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -658,11 +751,14 @@ salutation to the lord of the speech (Vācaspati);
 
 सेयं वाग्देवता येन बृहस्पतिरूपेण पाल्यते तस्मै वाचस्पतये नमोऽस्तु । यथा देवतानमस्कारस्तद्वदृषिभ्योऽपि नमस्कारोऽस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म ऋ᳓षिभ्यो मन्त्रकृ᳓द्भ्यो म᳓न्त्रपतिभ्यो
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -676,10 +772,10 @@ salutation to the seers, the makers of the Mantras, the lords of the Mantras;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49)
-- ऋ᳓षिभ्यः (*TS*-4/56, *RV*-1/101, *TB*-0/1, *AV*-1/70, *SB-M*-1/27, *VS-M*-0/5)
+- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
+- ऋ᳓षिभ्यः (*TS*-4/56, *RV*-1/101, *TB*-0/1, *AV*-1/70, *SB-M*-1/27, *SB-K*-5/130, *VS-M*-0/5, *VS-K*-0/31)
 - मन्त्र-कृ᳓द्भ्यः (क्विप् पा॰ ३.२.७६, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
-- म᳓न्त्र-पतिभ्यः (पत्यावैश्वर्ये पा॰ ६.२.१८, म᳓न्त्र *TS*-0/2, *RV*-4/16)
+- म᳓न्त्र-पतिभ्यः (पत्यावैश्वर्ये पा॰ ६.२.१८, म᳓न्त्र *TS*-0/2, *RV*-4/16, *SB-K*-10, *VS-K*-2)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -691,16 +787,22 @@ salutation to the seers, the makers of the Mantras, the lords of the Mantras;
 
 कीदृशेभ्यः - मन्त्रकृद्भ्यः, मन्त्रं कुर्वन्तीति मन्त्रकृतः, यद्यप्यपौरुषेये वेदे कर्तारो न सन्ति तथाऽपि कल्पादावीश्वरानुग्रहेण मन्त्राणां लब्धारो मन्त्रकृत इत्युच्यन्ते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तल्लाभश्च स्मर्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ मा᳓म् ऋ᳓षयो मन्त्रकृ᳓तो मन्त्र-प᳓तयः **प᳓रादुर्**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -714,12 +816,12 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4; पा॰ ८.१.२३)
-- मा᳓म् (*TS*-31/565, *RV*-50/1306, *TB*-8/114, *AV*-47/1248, *SB-M*-9/174, *VS-M*-4/127; पा॰ ८.१.२३)
-- ऋ᳓षयः (*TS*-21/56, *RV*-24/101, *TB*-1, *AV*-42/70, *SB-M*-15/27, *VS-M*-0/5)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98; पा॰ ८.१.२३)
+- मा᳓म् (*TS*-31/565, *RV*-50/1306, *TB*-8/114, *AV*-47/1248, *SB-M*-9/174, *SB-K*-47/728, *VS-M*-4/127, *VS-K*-6/178; पा॰ ८.१.२३)
+- ऋ᳓षयः (*TS*-21/56, *RV*-24/101, *TB*-1, *AV*-42/70, *SB-M*-15/27, *SB-K*-54/130, *VS-M*-0/5, *VS-K*-14/31)
 - मन्त्र-कृ᳓तः (*RV*-0/1, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
 - मन्त्र-प᳓तयः (म᳓न्त्र (*MW*) + प᳓ति, पत्यावैश्वर्ये पा॰ ६.२.१८)
-- प᳓रा (*TS*-29, *RV*-78, *TB*-10)
+- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4)
 - दुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -732,11 +834,14 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 "युगान्तेऽन्तर्हितान्वेदान्सेतिहासान्महर्षयः । लेभिरे तपसा पूर्वमनुज्ञाताःस्वयम्भुवा ॥ " इति । त एव महर्षयः सम्प्रदायप्रवृत्या मन्त्राणां पालनान्मन्त्रपतय इत्युच्यन्ते । तथाविधा महर्षयो मां यजमानं मा परादुः परादानमवज्ञां मा कुर्वन्तु, किन्त्वनुगृह्णन्तु । अहमपि तान्महर्षीन्मा परादामवज्ञां न करोमि, किन्त्वादरेण भजामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ ऽह᳓म् ऋ᳓षीन् मन्त्रकृ᳓तो मन्त्र-प᳓तीन् प᳓रादाम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -750,12 +855,12 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4; पा॰ ८.१.२३)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *VS-M*-4/127)
-- ऋ᳓षीन् (*TS*-0/56, *RV*-1/101, *TB*-0/1, *AV*-5/70, *SB-M*-0/27, *VS-M*-0/5)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98; पा॰ ८.१.२३)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- ऋ᳓षीन् (*TS*-0/56, *RV*-1/101, *TB*-0/1, *AV*-5/70, *SB-M*-0/27, *SB-K*-9/130, *VS-M*-0/5, *VS-K*-0/31)
 - मन्त्र-कृ᳓तः (*RV*-0/1, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
 - मन्त्र-प᳓तीन् (म᳓न्त्र (*MW*) + प᳓ति, पत्यावैश्वर्ये पा॰ ६.२.१८)
-- प᳓रा (*TS*-29, *RV*-78, *TB*-10)
+- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4)
 - दाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -763,10 +868,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 अहं च तानुभयान् मा परादां मा त्याक्षम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयभागेन नमस्कारप्रयोजनं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -774,6 +883,8 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 वैश्वदेवीव्ँ᳓ [[वा᳓चमुद्यासँ|वा᳓चमु᳓द्यासँ]]
 शिवा᳓म् अ᳓दस् तां जु᳓ष्टान् देवे᳓भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -788,14 +899,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/8 व्यत्यस्त-स्वराः)</summary>
 
-- वैश्वदेवी᳓म् (*TS*-4/7, *AV*-1/4, *VS-M*-0/1)
-- वा᳓चम् (*TS*-68/207, *RV*-72/108, *TB*-22/47, *AV*-39/86, *SB-M*-84/123, *VS-M*-10/27)
-- उत् → **उ᳓त्** (*TS*-6, *RV*-293)
+- वैश्वदेवी᳓म् (*TS*-4/7, *AV*-1/4, *SB-K*-0/10, *VS-M*-0/1, *VS-K*-0/1)
+- वा᳓चम् (*TS*-68/207, *RV*-72/108, *TB*-22/47, *AV*-39/86, *SB-M*-84/123, *SB-K*-157/597, *VS-M*-10/27, *VS-K*-18/35)
+- उत् → **उ᳓त्** (*TS*-6, *RV*-293, *SB-K*-667)
 - यासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- शिवा᳓म् (*TS*-0/59, *RV*-1/50, *TB*-0/21, *AV*-2/82, *SB-M*-3/30, *VS-M*-2/41)
+- शिवा᳓म् (*TS*-0/59, *RV*-1/50, *TB*-0/21, *AV*-2/82, *SB-M*-3/30, *SB-K*-2/49, *VS-M*-2/41, *VS-K*-2/44)
 - अ᳓दस्ताम् (*TS*-0/1, *TB*-0/1, नञ्तत्पुरुषे पा॰ ६.२.२)
-- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *VS-M*-1/24)
-- देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-33/242, *AV*-40/705, *SB-M*-119/567, *VS-M*-42/257)
+- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *SB-K*-2/52, *VS-M*-1/24, *VS-K*-1/26)
+- देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-33/242, *AV*-40/705, *SB-M*-119/567, *SB-K*-210/1945, *VS-M*-42/257, *VS-K*-59/350)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -807,6 +918,9 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 अहं वाचमुद्यासं तत्वरूपया वाचा वदिता भूयासम् । कीदृशीं वाचम् । वैश्वदेवीं सर्वदेवविषयाम् । शिवां स्तुतिरूपेण देवेभ्यः सुखप्रदाम् । अदस्तामनुपक्षीणां सम्पूर्णाम्, देवेभ्यो जुष्टां देवानां प्रियाम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -817,6 +931,7 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 तृतीयभागे देवतानुग्रहप्रार्थनारूपामृचं दर्शयति -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -824,6 +939,8 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 श᳓र्म चन्द्र᳓श् च सू᳓र्यश् च,  
 श᳓र्म ब्रह्म--प्रजा-पती᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -838,21 +955,21 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *VS-M*-16/17)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
-- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *VS-M*-10/102)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *VS-M*-16/17)
-- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *VS-M*-15/31)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *VS-M*-16/17)
-- वि᳓श्वम् (*TS*-24/275, *RV*-140/1116, *TB*-5/73, *AV*-58/350, *SB-M*-20/169, *VS-M*-16/143)
-- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *VS-M*-5/70)
-- ज᳓गत् (*TS*-6/16, *RV*-16/40, *AV*-7/20, *SB-M*-0/1, *VS-M*-4/8)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *VS-M*-16/17)
-- चन्द्रः᳓ (*TS*-0/12, *RV*-2/28, *TB*-0/4, *AV*-7/20, *SB-M*-2/7, *VS-M*-0/6)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
-- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-26/56, *TK*-3/4, *AV*-77/173, *SB-M*-30/86, *VS-M*-15/53)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *VS-M*-16/17)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
+- वि᳓श्वम् (*TS*-24/275, *RV*-140/1116, *TB*-5/73, *AV*-58/350, *SB-M*-20/169, *SB-K*-27/219, *VS-M*-16/143, *VS-K*-21/192)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
+- ज᳓गत् (*TS*-6/16, *RV*-16/40, *AV*-7/20, *SB-M*-0/1, *SB-K*-5/12, *VS-M*-4/8, *VS-K*-4/9)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
+- चन्द्रः᳓ (*TS*-0/12, *RV*-2/28, *TB*-0/4, *AV*-7/20, *SB-M*-2/7, *SB-K*-7/29, *VS-M*-0/6, *VS-K*-0/9)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
+- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-26/56, *TK*-3/4, *AV*-77/173, *SB-M*-30/86, *SB-K*-74/151, *VS-M*-15/53, *VS-K*-24/88)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
 - ब्रह्म-प्रजापती᳓ (द्वन्द्वः समासस्य पा॰ ६.१.२२३)
 </details>
 
@@ -865,10 +982,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 द्यौर्लो(द्यौर्द्योलो)कात्मको देवो मे मम शर्म सुखरूपो भवतु । अनुष्ठेये कर्मणि विघ्नपरिहारेणानुगृह्णात्वित्यर्थः । एवं पृथिव्यादिषु योज्यम् । ब्रह्म जगत्कारणं वस्तु । प्रजापतिश्चतुर्मुखः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यदुक्तं पूर्वत्र वैश्वदेवीं वाचमुद्यासमिति तस्या वाचो विषयभूतानर्थानस्य चतुर्थभागेन दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +999,8 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 त᳓पो वदिष्ये, ब्र᳓ह्म वदिष्ये,  
 सत्यव्ँ᳓ वदिष्ये,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -891,19 +1014,19 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-2/14, *AV*-29/73, *SB-M*-30/184, *VS-M*-4/19)
+- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-2/14, *AV*-29/73, *SB-M*-30/184, *SB-K*-59/290, *VS-M*-4/19, *VS-K*-4/23)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- भु᳓वनम् (*TS*-6/39, *RV*-15/144, *TB*-4/15, *AV*-8/63, *SB-M*-1/20, *VS-M*-3/32)
+- भु᳓वनम् (*TS*-6/39, *RV*-15/144, *TB*-4/15, *AV*-8/63, *SB-M*-1/20, *SB-K*-6/26, *VS-M*-3/32, *VS-K*-4/33)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-28/54, *AV*-49/76, *SB-M*-25/36, *VS-M*-8/20)
+- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-28/54, *AV*-49/76, *SB-M*-25/36, *SB-K*-92/120, *VS-M*-8/20, *VS-K*-13/26)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- य᳓शः (*TS*-11, *RV*-24, *TB*-7)
+- य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *VS-M*-0/8)
+- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *SB-K*-56/89, *VS-M*-0/8, *VS-K*-4/15)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *VS-M*-22/37)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *SB-K*-285/434, *VS-M*-22/37, *VS-K*-26/44)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *VS-M*-4/17)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *SB-K*-129/184, *VS-M*-4/17, *VS-K*-3/18)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -916,11 +1039,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 भूतमाकाशादिपञ्चमहाभूतरूपम् । भुवनं पृथिव्यादिलोकस्वरूपम् । तेजः शरीरकान्तिः । यशः कीर्तिः । तपो व्रतादिनियमविशेषः । ब्रह्म स्वाध्यायः । सत्यं यथार्थकथनम् । एतत्सर्वं वदिष्ये ममानुकूलं भवत्वित्येतत्प्रार्थयिष्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा अह᳓म् इद᳓म् उपस्त᳓रणम् **उ᳓पस्तृण**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -934,11 +1060,11 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓स्मै (*TS*-128/4763, *RV*-58/3136, *TB*-21/1327, *TK*-5/135, *AV*-84/3163, *SB-M*-61/2303, *VS-M*-22/268)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *VS-M*-4/127)
-- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *VS-M*-5/70)
+- त᳓स्मै (*TS*-128/4763, *RV*-58/3136, *TB*-21/1327, *TK*-5/135, *AV*-84/3163, *SB-M*-61/2303, *SB-K*-199/20018, *VS-M*-22/268, *VS-K*-25/395)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
 - उपस्त᳓रणम् (*RV*-1, *AV*-1)
-- उ᳓प (*TS*-723, *RV*-487, *TB*-32, *TK*-7)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-32, *TK*-7, *SB-K*-1332, *VS-K*-42)
 - स्तृण (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -946,10 +1072,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 तस्मै तादृशाय विशिष्टाय प्रयोजनाय अहमिदमुपस्तरणस्थानीयं कर्म उपस्तृणे आरभे । उपस्तरणमास्तर आसनाधारः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यथोक्तमन्त्राभिवदनसिध्यर्थं तदाधारभूतं कर्म पञ्चमभागेन प्रार्थयते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1087,8 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 उपस्त᳓रणं मे प्रजा᳓यै पशूनां᳓ **भूयाद्**  
 उपस्त᳓रणम् अहं᳓ प्रजा᳓यै पशूनां᳓ **भूयासं**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -971,15 +1103,15 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/10 व्यत्यस्त-स्वराः)</summary>
 
 - उ᳓पस्त᳓रणम् → **उपस्त᳓रणम्** (*RV*-1, *AV*-1)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401)
-- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *VS-M*-0/53)
-- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *VS-M*-4/21)
-- भूयात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
+- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31)
+- भूयात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *SB-K*-4, *VS-K*-4)
 - उपस्त᳓रणम् (*RV*-1, *AV*-1)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *VS-M*-4/127)
-- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *VS-M*-0/53)
-- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *VS-M*-4/21)
-- भूयासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-44, *RV*-1)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31)
+- भूयासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-44, *RV*-1, *SB-K*-21, *VS-K*-13)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -991,16 +1123,22 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 तस्मै पूर्वोक्तभूतादिवदनसिध्यर्थमहमिदं प्रवर्ग्याख्यं कर्मोपस्तरणं मदाधारभूतमुपस्तृणे सम्पादयामि । मे मदीयानां प्रजानां पशूनां चोपस्तरणमाधारभूतं वस्तु भूयात् । अन्याधारासंभवेऽप्यहमेव प्रजानां पशूनां चोपस्तरणमाधारो भूयासम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यथोक्तकर्मसिध्यर्थं विघ्नरूपान्मृत्योः परिपालनं षष्ठभागेन प्रार्थ्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓णापानौ मृत्यो᳓र् मा **पातं**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1021,16 +1159,22 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 हे प्राणापानावुभौ वायू मृत्योः सकाशान्मां पालयतम् । तस्मिन्पालनेऽयमुपायः । हे प्राणापानौ मां यजमानं मा हासिष्टं मा परित्यजतम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अपमृत्युपरिहारे सति प्रयोजनं सप्तमभागेन दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓णापानौ मा᳓ **मा हासिष्टं**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1051,9 +1195,9 @@ may Prāṇa and Apāna do not leave me.
 
 अपमृत्युपरिहारेण लब्धायुरहं मधु मधुरं समीचीनफलसाधनं प्रवर्ग्याख्यं कर्म मनिष्ये मनसि सङ्कल्पयिष्ये । सङ्कल्पादूर्ध्वं मधु तन्मधुरं कर्म जनिष्ये प्रादुर्भावयिष्ये, अनुष्ठातुं प्रारप्स्ये । प्रारम्भादूर्ध्वं तन्मधु मधुरं कर्म वक्ष्यामि, वहनं करिष्यामि, समाप्तिपर्यन्तं निर्वहिष्यामि । तत्सिध्यर्थं मधु मधुरं मन्त्रजातं वदिष्यामि कथयिष्यामि । न केवलं मन्त्रपाठं किंतु वाचमप्युद्देशत्यागरूपामुद्यासं वाचो वदिता भूयासम् । कीदृशीं वाचम् । देवेभ्यो मधुमतीं देवानामतिप्रियाम्, मनुष्येभ्यः शुश्रूषेण्यां मनुष्योपलक्षितानां पितॄणां श्रोतुमत्यन्तमधुराम् । तमेतादृशं मां यजमानं शोभायै शोभनफलप्राप्त्यर्थं देवाः सर्वोऽवन्तु रक्षन्तु । पितरोऽप्यनुमदन्तु, अनुजानन्तु ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -1061,6 +1205,8 @@ may Prāṇa and Apāna do not leave me.
 म᳓धु **वक्ष्यामि** ।  
 म᳓धु **वदिष्यामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1089,12 +1235,15 @@ I will think the honey (Pravargya), I will produce the honey, I will speak the h
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
 शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1123,12 +1272,15 @@ may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
 पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1157,18 +1309,23 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमभागेन स्वाभीष्टसिद्धिहेतुं परमात्मानं प्रणवेनानुस्मृत्य विघ्नत्रयपरिहारार्थं त्रिः शान्तिः पठति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओं᳓ [[शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः|शा᳓न्तिश्शान्तिश्शान्तिः]] ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1182,8 +1339,8 @@ Om Peace! Peace! Peace!
 
 <details><summary>पद-पाठः (यान्त्रिकः - 2/4 व्यत्यस्त-स्वराः)</summary>
 
-- ओ᳓म् (*TK*-1)
-- शा᳓न्तिः (*TS*-6/43, *TB*-2/15, *AV*-13/16, *SB-M*-0/14, *VS-M*-5/6)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- शा᳓न्तिः (*TS*-6/43, *TB*-2/15, *AV*-13/16, *SB-M*-0/14, *SB-K*-20/45, *VS-M*-5/6, *VS-K*-4/7)
 - शा᳓न्तिः → **शान्तिः** (द्विर्वचने परस्यानुदात्तत्वम्, पा॰ ८.१.३)
 - शा᳓न्तिः → **शान्तिः** (द्विर्वचने परस्यानुदात्तत्वम्, पा॰ ८.१.३)
 </details>
@@ -1197,6 +1354,7 @@ Om Peace! Peace! Peace!
 
 आध्यात्मिकानां विघ्नानां ज्वरादिरूपाणां शान्तिरस्तु । आधिभौतिकानां रोगोपद्रवादीनां शान्तिरस्तु । आधिदैविकानां यक्षराक्षसोपद्रवादीनां शान्तिरस्तु ॥
 </details>
+</details>
 </div>  
 
 यथास्थानमुपविश्य औदुम्बरीश् चतस्त्रस् समिधो घृतान्वक्ता अभ्यादधाति । 
@@ -1204,6 +1362,12 @@ Om Peace! Peace! Peace!
 [[112]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/82_pRthivI_samit">
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सूत्रेऽवान्तरदीक्षां व्याख्यास्याम इत्युपक्रम्याभिहितम् - "चतस्र औदुम्बरीः समिधो घृतान्वक्ता अभ्यादधाति पृथिवीसमिदित्येतैर्मन्त्रैः" इति । तत्र प्रथमं मन्त्रमाह -
+</details>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
@@ -1211,11 +1375,14 @@ Offering of the Udumbara wood to the fire while making consecration.
 
 *(Mantras 1–3)* Mantras for offering the Udumbara wood.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1227,15 +1394,29 @@ Offering of the Udumbara wood to the fire while making consecration.
 पृ॒थि॒वी स॒मित् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पृथिव्येव इयं समित् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पृथिवी देवता सम्यग्दीप्यमानत्वात्समिदित्युच्यते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1247,15 +1428,26 @@ the fire burned that,
 ताम॒ग्निस्समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-28/111, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तामग्निस्समिन्धे दीपयति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1267,15 +1459,31 @@ that (earth) burned the fire;
 साऽग्निँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 साऽग्निं समिन्धे समेधयति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तां पृथिव्याख्यां समिधमग्निर्देवः समिन्धे सम्यग्दीपितवान् । सा च पृथिव्याख्या समिदग्निं देवं समिन्धे सम्यग्दीपयति । तां पृथिवीरूपां समिधमहं समिन्धे सम्यक्प्रकाशयामि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1287,9 +1495,18 @@ I burned that (earth),
 ताम॒हँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तामहं समिन्धे समेधयामि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1300,6 +1517,8 @@ I burned that (earth),
 य᳓शसा ब्रह्मवर्चसे᳓न ।  
 अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1317,19 +1536,50 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सा मा समिद्धा समिद्धा सा समिद् आयुरादिभिर् मां समिन्तां सन्दीपयतु ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सा च देवता मया समिद्धा सती मामायुरादिभिः समिन्तां सम्यक्प्रकाशयतु । तेजः शरीरकान्तिः । वर्चो बाह्यदीप्तिः ।
+</details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/83_antarixaM_samit">
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वितीयतृतीयमन्त्रावाह -
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1341,15 +1591,29 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 अ॒न्तरि॑क्षँ॒ स॒मित् । (82)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उत्तरे व्याख्याताः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्ववद्व्याख्येयौ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1361,10 +1625,21 @@ the wind burned that;
 ताव्ँ वा॒युस्समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-12/47, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1376,10 +1651,21 @@ that burned the wind;
 सा वा॒युँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- वायु᳓म् (*TS*-15/108, *RV*-18/89, *TB*-1/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-44/227, *VS-M*-2/21, *VS-K*-3/39)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1391,6 +1677,15 @@ I burned that;
 ताम॒हँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
@@ -1399,6 +1694,8 @@ I burned that;
 य᳓शसा ब्रह्मवर्चसे᳓न ।  
 अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1416,19 +1713,40 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_dyaus_samit">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 2)* Offering of Udumbara wood.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓स्समि᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1440,15 +1758,24 @@ The heaven is the fuel;
 द्यौस्स॒मित् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उत्तरे व्याख्याताः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1460,10 +1787,21 @@ the sun burned that;
 तामा॑दि॒त्यस्समि॑न्धे । (83)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1475,10 +1813,21 @@ that burned the sun;
 साऽऽदि॒त्यँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-6/61, *AV*-5/70, *SB-M*-7/72, *SB-K*-73/438, *VS-M*-1/5, *VS-K*-1/31)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1490,14 +1839,25 @@ I burned that;
 ताम॒हँ समि॑न्धे ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
 व᳓र्चसा श्रिया᳓ ।  
 य᳓शसा ब्रह्मवर्चसे᳓न ।  
-अन्ना᳓द्येन स᳓मि᳓न्ताँ स्वा᳓हा ।
+अन्ना᳓द्येन स᳓मिन्ताँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1512,17 +1872,43 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 आयु॑षा॒ तेज॑सा ।  
 वर्च॑सा श्रि॒या ।  
 यश॑सा ब्रह्मवर्च॒सेन॑ ।  
-अ॒न्नाद्ये॑न॒ समिन्ताँ॒ स्वाहा॑ ।
+अ॒न्नाद्ये॑न॒ समि॑न्ताँ॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_prAjApatyA_me">
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+चतुर्थं मन्त्रमाह -
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1534,11 +1920,29 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 प्रा॒जा॒प॒त्या मे॑ स॒मिद॑सि सपत्न॒क्षय॑णी । भ्रा॒तृ॒व्य॒हा मे॑ऽसि॒ स्वाहा॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- प्राजापत्या᳓ (*TS*-1/53, *TB*-2/26, *AV*-1/6, *SB-M*-15/48, *SB-K*-1/90, *VS-M*-2, *VS-K*-3)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
+- सपत्न-क्ष᳓यणी (*TS*-2)
+- भ्रातृव्य-हा᳓ (*TS*-1)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्राजापत्येति ॥ प्राजापत्या प्रजापतेस्स्वभूता सपत्नक्षयणी शत्रुनाशिनी समिदसि तस्माद् भ्रातृव्यहा पाप्मनां हन्त्री भव । स्वाहा सुहुतमस्तु ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे समित्वं प्राजापत्या प्राजापतिसंबन्धिनी सपत्नक्षयणी वैरिविनाशिनी मे समिदसि सम्यग्दीपिकाऽसि । तस्मान्मे मम भ्रातृव्यहाऽसि शत्रुविघातिनी भवसि । स्वाहुतमिदमस्तु ।
+</details>
+</details>
 </div>
 
 अग्नेरुत्तरतः स्थित्वा । 
@@ -1546,21 +1950,30 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 (अधः "का॒ण्ड॒र्षिभ्यः॑ सौ॒म्यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1577,16 +1990,24 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1597,17 +2018,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1619,16 +2050,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1639,12 +2078,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1655,17 +2101,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1676,12 +2125,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1692,17 +2148,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1713,8 +2172,12 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
   
@@ -1725,21 +2188,30 @@ I will follow the rules; may I do so; may that be increased.
 (अधः "का॒ण्ड॒र्षिभ्यः॑ आ॒ग्ने॒यं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1756,16 +2228,24 @@ I will follow the rules; may I do so; may that be increased.
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1776,17 +2256,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1798,16 +2288,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1818,12 +2316,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1834,17 +2339,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1855,12 +2363,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1871,17 +2386,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1892,28 +2410,41 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
 (अधः "का॒ण्ड॒र्षिभ्यः॑ वै॒श्व॒दे॒वं व्र॒तं च॑रिष्यामि इत्यूहनीयम्।)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ देवता उपतिष्ठते - अग्ने व्रतपत इति ॥
 </details>
 
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "अथ देवता उपतिष्ठते, अग्ने व्रतपते व्रतं चरिष्यामि" इति । पाठस्तु -
+</details>
+
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantra 4)* Invitation of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1930,16 +2461,24 @@ I will follow the rules; may I do so; may that be increased.
 हे अग्ने ! व्रतपते! व्रतं शुक्रियं व्रतं चरिष्यामि । तच्छकेयं कर्तुं शक्तोऽहं भवेयम् । तद् व्रतं मे राध्यतां सिद्ध्यताम् ॥
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+हे व्रतपतेऽवान्तरदीक्षारूपस्य व्रतस्य पालकाग्ने व्रतमिदमहं चरिष्यामि ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1950,17 +2489,27 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>संयुक्त-मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓यो व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1972,16 +2521,24 @@ O wind, the lord of the rules,
 वायो॑ व्रतपते
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<details><summary>सायण-टीका</summary>
+
+वायो व्रतपत इत्येतस्मिन्नुत्तरस्मिंश्च व्रतं चरिष्यामीत्यादिकमनुषज्यते । एतदर्थमेव चतुर्थमन्त्रे पुनराम्नातम् । व्रतपत इत्युक्तस्य पुनरपि व्रतानामित्युक्तिः कृत्स्नव्रतस्वीकारार्था ।
+</details>
+</details>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -1992,12 +2549,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य व्रतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -2008,17 +2572,20 @@ O Āditya, the lord of the rules,
 
 आदि॑त्य व्रतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2029,12 +2596,19 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -2045,17 +2619,20 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 व्र॒ताना॑व्व्ँरतपते
 </details>
+</details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 (…) व्रत᳓ञ्चरिष्यामि । (84)  
 त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2066,8 +2643,12 @@ I will follow the rules; may I do so; may that be increased.
 (…) व्र॒तञ्च॑रिष्यामि । (84)  
 तच्छ॑केय॒न्तन्मे॑ राद्ध्यताम् ।
 </details>
-</div>
 
+<details><summary>सायण-टीका</summary>
+
+त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
+</div>
 </div>
 
 [[114]]

@@ -2,6 +2,8 @@
 title = "०९ चतूरात्रस्य जामदग्न्यस्य विधिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
@@ -11,6 +13,7 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 
 इतरौ तु वसिष्ठसंसर्प-विश्वामित्रसंजयाख्यौ चतूरात्रौ शाखान्तरे द्रष्टव्यौ ।
 </details>
+</details>
 
 ## फलम्  
 
@@ -18,6 +21,8 @@ title = "०९ चतूरात्रस्य जामदग्न्यस
 
 जम᳓दग्निᳶ पु᳓ष्टिकामश् चतूरात्रे᳓णायजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ Jamadagni desiring prosperity, sacrificed with the four-night rite.
 1अथ जामदग्न्यं चतूरात्रं विधातुमाह - इतरौ तु वसिष्ठसंसर्पविश्वामित्रसंजयाख्यौ चतूरात्रौ शाखान्तरे द्रष्टव्यौ । जमदग्निरित्यादि ।
 पुष्टिकामः अन्नपशुपुत्रादिवृद्धिकामश्चतूरात्रेणायजत । चतुर्णामह्नां समाहारश्चतूरात्रः । 'अहस्सर्वैकदेश' इत्यादिनाऽच्समासान्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एता᳓न्पो᳓षाँ अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ He prospered therein,
 
 तत एतान्पोषानपुष्यत् । सामान्यपुष्टेर्विशेषपुष्टिः कर्मेत्युक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पलितौ᳓ जा᳓मदग्नियौ न᳓ स᳓ञ्जानाते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,12 +100,15 @@ and accordingly the two descendants of Jamadagni are not seen as grey-haired.
 
 तस्मादित्यादि । अवधारणमत्र द्रष्टव्यम् । पलितावेव केवलमिति महापुष्टिरहितौ वृधैव पलितावस्थां प्राप्तौ दरिद्रौ जामदग्न्यौ । पितापुत्रौ न संजानाते अद्यत्वेऽपि न जायेते; समासादिताशेषपुष्टेः जमदग्नेरन्वये जातत्वात्, सर्वेषां सुपुष्टत्वात् । जनेर्व्यत्ययेन श्ना । यद्वा - जानातेरेव कर्मणि लट्, व्यत्ययेन श्ना । तादृशौ न ज्ञायेते, न स्त एवेति यावत् । यद्वा - 'संप्रतिभ्यां' इत्यात्मनेपदम् । वृधा पलितात्मानौ जामदग्न्यौ न संजानाते न प्रतिजानीते । अस्त्वेकः पुष्टिरहितः तथाऽपि आनन्तर्येण द्वौ दरिद्रौ न स्त इति ख्यापनार्थं द्वयोरुपादानम् । जमदग्निशब्दो गर्गादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓नेव᳓ पो᳓षान् पुष्यति ,
 य᳓ एवव्ँ᳓ विद्वाँ᳓श्चतूरात्रे᳓ण य᳓जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,6 +135,7 @@ That prosperity is his who knowing thus offers the four-night rite.
 
 पूर्वसञ्चिकायामपि एवमेव वाक्यं विद्यते । तत्र ब्राह्मणम् इति पदमधिकमस्ति ।
 </details>
+</details>
 
 ## पुरोडाशविधिः
 
@@ -128,6 +143,8 @@ That prosperity is his who knowing thus offers the four-night rite.
 
 पु᳓रो᳓डाशि᳓न्य +++(१२)+++ उपस᳓दो भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +165,14 @@ On the Upasads offerings of the sacrificial cake are made.
 
 2पुरोडाशिन्य इत्यादि ॥ अत्रोक्तमाचार्येण - 'आग्नेय एककपालः आश्विनो द्विकपालः वैष्णवस्त्रिकपालः सौम्यश्चतुष्कपालः सावित्रः पञ्चकपालो धात्रष्षट्कपालः मारुतस्सप्तकपालः बार्हस्पत्योष्टाकपालः मैत्रो नवकपालो वारुणो दशकपाल ऐन्द्वाग्न एकादशकपालो वैश्वदेवो द्वादशकपालो दर्विहोमा भवन्ति' इति । एवमौत्तर्ययुक्ता द्वादशोपसदो भवन्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ पुरो᳓डा᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,11 +193,14 @@ The sacrificial cake is cattle;
 
 पशवो वा इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +216,14 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नव्ँ वै᳓ पुरोडा᳓शः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -213,11 +239,14 @@ The sacrificial cake is food;
 
 अन्न॑म् । वै । पु॒रो॒डाशः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नम् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,11 +262,14 @@ verily he wins food.
 
 अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नादᳶ᳓ पशुमा᳓न् भवति,  य एवव्ँ᳓ विद्वाँ᳓श् चतूरात्रे᳓ण य᳓जते ॥ [35]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,4 +294,5 @@ An eater of food and owner of cattle he becomes who knowing thus offers the four
 <details><summary>प्रदीपसिंहः</summary>
 
 TODO
+</details>
 </details>

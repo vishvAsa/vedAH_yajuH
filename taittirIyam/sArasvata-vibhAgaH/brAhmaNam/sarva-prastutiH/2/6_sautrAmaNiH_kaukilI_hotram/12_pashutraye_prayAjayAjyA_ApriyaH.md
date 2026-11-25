@@ -3,9 +3,12 @@ title: १२  पशुत्रये प्रयाजयाज्या आ
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1एकादशे प्रयाजप्रैषा उक्ताः । द्वादशे प्रयाजयाज्या आप्रियोऽभिधीयन्ते । तत्र प्रथमामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 दुहे᳓ धेनु᳓स्स᳓रस्वती ।  
 सो᳓मँ शुक्र᳓मिहे᳓न्द्रिय᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -33,10 +38,14 @@ unicode_script: devanagari
 
 हे अश्विनौ! समिद्धः संदीप्तः समिन्नामकः प्रथमप्रयाजदेवोऽग्निः तप्तो घर्मः संतप्तप्रवर्ग्यसदृशः विराट् विशेषेण राजमानः सुत उत्पन्नः । तथा धेनुः प्रीणयित्री सरस्वती शुक्रं शुद्धं इन्द्रियं इन्द्रियवृद्धिहेतुं सोमं सोमसदृशं हविः दुहे दोग्धि संपादयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2द्वितीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ unicode_script: devanagari
 म᳓ध्वा र᳓जाँसीन्द्रिय᳓म् ।  
 इ᳓न्द्राय पथि᳓भिर्वहान् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,10 +75,14 @@ unicode_script: devanagari
 
 तनूपाः द्वितीयप्रयाजदेवः भिषजौ चिकित्सकावश्विनावुभौ सरस्वती इत्येतै देवाः सुते प्रवृत्ते कर्मणि मध्वा मधुना रसेन युक्तानि रजांसि रञ्जकानि हवींषि विविधमिन्द्रियं हविर्जन्यं सामर्थ्यं च इन्द्रार्थं पथिभिः अनुष्ठानरूपैर्मार्गैः वहान् वहन्तु संपादयन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3तृतीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -77,6 +92,8 @@ unicode_script: devanagari
 अ᳓धातामश्वि᳓ना म᳓धु ।  
 भेषज᳓म्भिष᳓जा सुते᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,10 +112,14 @@ unicode_script: devanagari
 
 नराशंसः मन्त्रपाठक्रमेण तृतीयप्रयाजदेवः तेन सहिता सरस्वती इन्द्रार्थं इन्दुं ऐश्वर्यकरं हविस्सारं नग्नहुः एतच्छब्दवाच्यं स्थूलयवपिष्टसक्तुरूपं संपादयतीति शेषः । अश्विना भिषजा चिकित्सकावश्विनौ सुते प्रवृत्तेऽस्मिन्कर्मणि मधु भेषजं मधुरमौषधरूपं हविः अधातां संपादितवन्तौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4चतुर्थीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -108,6 +129,8 @@ unicode_script: devanagari
 इ᳓डाभिरश्वि᳓नावि᳓षम् ।  
 स᳓मू᳓र्जँ सँ᳓रयि᳓न्दधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,10 +149,14 @@ unicode_script: devanagari
 
 चतुर्थप्रयाजदेवता इडाः ताभिः सहिता सरस्वती आजुह्वाना स्वयं कर्मण्याहूयमाना इन्द्रार्थमिन्द्रियाणि वीर्यं च संपादयितुं योग्यं हविः दधात्विति शेषः । अश्विनौ देवौ ताभिरिडाभिस्सह इदमन्नं दधुः संपादितवन्तः । ऊर्जं क्षीरादिरसं संपादितवन्तः । रयिं धनं संपादितवन्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5पञ्चमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -139,6 +166,8 @@ unicode_script: devanagari
 स᳓रस्वती त᳓मा᳓भरत् ।  
 बर्हि᳓षे᳓न्द्राय पा᳓तवे ॥61॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,10 +186,14 @@ unicode_script: devanagari
 
 बर्हिश्शब्दाभिवेयः पञ्चमप्रयाजदेवः । हे अश्विनौ! तेन बर्हिषा युक्ता सरस्वती सुतं अभिषुतं शुक्रं निर्मलं सोमं सोमत्वेन भावितं रसं नमुचेः साकाशात् आभरत् आहरत् । किमर्थं? इन्द्राय इन्द्रार्थं पातवे पातुम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6षष्ठीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -170,6 +203,8 @@ unicode_script: devanagari
 इ᳓न्द्रो न᳓ रो᳓दसी दु᳓घे ।  
 दुहे᳓ का᳓मान्त्स᳓रस्वती ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,10 +223,14 @@ unicode_script: devanagari
 
 दुरश्शब्दाभिधेया या द्वाराभिमानिन्यः षष्ठप्रयाजदेवताः कवष्यो न कवाटवत्य इव व्यचस्वतीः अवकाशवत्यः अश्विभ्यां न अश्विभ्यामपि सह वर्तन्त इति शेषः । इन्द्रो न इन्द्रोऽपि रोदसी दुघे द्यावापृथिव्यौ दोग्धि । सरस्वती कामान् दुहे दोग्धि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7सप्तमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -201,6 +240,8 @@ unicode_script: devanagari
 सञ्जानाने᳓ सुपे᳓शसा ।  
 स᳓मञ्जाते स᳓रस्वत्या ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,10 +260,14 @@ unicode_script: devanagari
 
 हे अश्विनौ! उषासानक्तशब्दवाच्ये अहोरात्राभिमानिन्यौ सप्तमप्रयाजदेवते इन्द्रं दिवा इन्द्रियैः संजानाने संयोजयेते । सायं सुपेशसा शोभनरूपेण संजानाने संयोजयेते । तया सरस्वत्या समञ्जाते संयोजयेते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अष्टमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -232,6 +277,8 @@ unicode_script: devanagari
 दै᳓व्या होतारा भिषजा ।  
 पात᳓मि᳓न्द्रँ स᳓चा सुते᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,10 +297,14 @@ unicode_script: devanagari
 
 हे अश्विनौ! दिवा नाऽस्मान्पातम् । हे सरस्वति! नक्तमस्मान्पाहि । दैव्यहोतृशब्दवाच्यौ हे अष्टमप्रयाजदेवौ! चिकित्सकौ सचा परस्परं संयुक्तौ सुते प्रवृतेऽस्मिन्कर्मणि इन्द्रं पातम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9नवमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -263,6 +314,8 @@ unicode_script: devanagari
 तीव्र᳓म्परिस्रु᳓ता सो᳓मम् ।  
 इ᳓न्द्राय सुषवुर्म᳓दम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,10 +334,14 @@ unicode_script: devanagari
 
 हे अश्विनौ! सरस्वती भारती इडा इत्येतास्तिस्रो नवमप्रयाजदेवताः त्रेधा लोकत्रयरूपेण वर्तमानाः परिस्रुता परिस्रवन्त्या सुरया सहितं तीव्रं तीव्रगन्धोपेतं सोमं सोमसदृशं मदं मदकरं हविः इन्द्राय सुषवुः इन्द्रार्थं संपादितवत्यः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10दशमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -294,6 +351,8 @@ unicode_script: devanagari
 इ᳓न्द्रे त्व᳓ष्टा य᳓शश्श्रि᳓यम् ।  
 रूपँ᳓ रूपमधुस्सुते᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,10 +371,14 @@ unicode_script: devanagari
 
 यावेतावश्विनौ, या च सरस्वती, योऽपि त्वष्टा दशमप्रयाजदेवः ते सर्वे मिलित्वा भेषजं सर्वेषामौषधरूपं मधु मधुरं नो भेषजं अस्माकं विशेषत औषधरूपं यशः श्रियं यशःप्रदं श्रीप्रदं रूपंरूपं बहुरूपकरं इदं हविः सुते प्रवृत्तेऽस्मिन्कर्मणि इन्द्रेऽस्मिन् अधुः स्थापितवन्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11एकादशीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -325,6 +388,8 @@ unicode_script: devanagari
 कीला᳓लमश्वि᳓भ्याम्म᳓धु ।  
 दुहे᳓ धेनु᳓स्स᳓रस्वती ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,10 +408,14 @@ unicode_script: devanagari
 
 योऽयं वनस्पतिरेकादशप्रयाजरूपो देवः सोऽयमृतुथा तस्मिंस्तस्मिन्नृतौ इन्द्र इन्द्रेणाभिन्नस्सन् परिस्रुता परितः स्रवन्त्या सुरया सह शशमानः शश्वद्वर्तते । अश्विभ्यां युक्ता सरस्वती धेनुः प्रीणयित्री सती कीलालं उदकसदृशं मधु मधुरं हविर्दुहे दोग्धि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12द्वादशीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -356,6 +425,8 @@ unicode_script: devanagari
 स᳓मधाताँ स᳓रस्वत्या ।  
 स्वा᳓हे᳓न्द्रे सुत᳓म्म᳓धु ॥63॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,4 +447,5 @@ unicode_script: devanagari
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके द्वादशोऽनुवाकः ॥  
 
+</details>
 </details>

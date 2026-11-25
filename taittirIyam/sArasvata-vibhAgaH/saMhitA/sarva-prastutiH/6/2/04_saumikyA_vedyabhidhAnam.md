@@ -3,15 +3,20 @@ title = "०४ सौमिक्या वेद्यभिधानम्"
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सु॒व॒र्गव्ँवा ए॒ते लो॒कय्ँय॑न्ति॒ य उ॑प॒सद॑ उप॒यन्ति॒ तेषाय्ँ॒य उ॒न्नय॑ते॒ हीय॑त ए॒व सः 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गव्ँ᳓ वा᳓ एते᳓ लोकय्ँ᳓ यन्ति ,य᳓ उपस᳓द उपय᳓न्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -42,11 +47,14 @@ They go to the world of heaven who perform the Upasads.
 
 यद्वा - स्तन्यं य उन्नयते उपरि नयते ओदनादेरुपर्युन्नीय भुङ्क्ते एवमपि स्तन्यमुपकृतं भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाय्ँ य᳓ उन्न᳓यते , ही᳓यत एव᳓ सः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,16 +77,22 @@ Of them he who takes out (a little food) is left behind;
 
 विहितकरणात् तस्मान्नो हीयते इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नोद॑ने॒षीति॒ सू॑न्नीयमिव॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नो᳓दनेषी᳓ति सू᳙न्नीयमिव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,16 +113,22 @@ one must take out carefully, (thinking) 'I have not taken out anything.'
 
 2इदानीमशक्तैः कथं प्रतिपत्तव्यमित्याह - नोदनेषीति सून्नीयमिवेति ॥ नोदनेषि नोन्नयनं करोमि नोन्नयनमकार्षमित्येव वा यथा वकुं शक्यते तथा सून्नीयं साधून्नेतव्यं तथाऽशितव्यं साध्वेवाशक्तैरित्यभिप्रायः, 'श्रान्तो हीयते' इति दृष्टान्तदर्शनात् । 'छन्दसि निष्टर्क्य' इत्यादिना उन्नीयशब्दो निपात्यते, ततः प्रादिसमासे अव्ययपर्वूपदप्रकृतिस्वरत्वम् । 'स्वरितो वाऽनुदात्ते पदादौ' इति स्वरितत्वम् । केचिदाहुः - उदञ्चनेषु सकृदिति कृत्वा सून्नेतव्यं भूय उन्नेतव्यं; तदयुक्तं, उन्नयनविशेषणत्वे गतित्वेन कृदुत्तरपदप्रकृतिस्वरत्वप्रसंगादिति । नयतेर्लुङि सिचि गुणे च कृते उदनेषीति रूपम् । उन्नयननिवृत्तिरेव साधीयसीति प्रदर्शनार्थमुन्नयतेररुचिं द्योतयितुमिवेत्युक्तम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै स्वा॒र्थेताय्ँ॑य॒ताँ श्रा॒न्तो हीय॑त उ॒त स नि॒ष्ट्याय॑ स॒ह व॑सति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ स्वार्थे᳓ताय् यँताँ᳓ श्रान्तो᳓ ही᳓यत , उत᳓ स᳓ निष्ट्या᳓य सह᳓ वसति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,16 +149,22 @@ He who is left behind wearied among those who go on their own mission sticks beh
 
 3अथ योऽशक्तानामनुग्रह उक्तः तं लौकिकेन दृष्टान्तेन द्रढयितुमाह - यो वा इत्यादि ॥ स्वार्थेतां स्वार्थं गच्छतां आत्मीयं प्रयोजनं साधयितुं गच्छताम् । एतेन एतेरनुदात्तेतो भाव उक्तः । एतेः क्विप् । यतां यतमानानाम्, यतेः क्विप्, 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । एतेनालस्याभाव उक्तः । यद्वा - स्वार्थेतां स्वप्रयोजनमुपगतानां यतां स्वप्रयोजनं साधयितुं गच्छताम् । एतेश्शतरि 'शतुरनुमः' इति विभक्तेरुदात्तत्वम् । ईदृशानां मध्ये यः कश्चिच्छ्रान्तो हीयते स्वार्थात्प्रच्युतो भवति, उत सोपि निष्ट्याय स्वार्थान्निर्गत्य विश्राम्य च सह वसति पुनस्स्वार्थेनैकीभूतः शेषं कार्यं सह करोति । स्त्यायतेर्ल्यपि कृदुत्तरपदप्रकृतिस्वरत्वम् । स यथा स्वार्थान्न हीयते एवमयमपि फलान्न हीयते इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तस्मा॑त्स॒कृदु॒न्नीय॒ नाप॑र॒मुन्न॑येत द॒ध्नोन्न॑येतै॒तद्वै प॑शू॒नाँ रू॒पँ रू॒पेणै॒व प॒शूनव॑ रुन्द्धे [20]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् सकृ᳓द् उन्नी᳓य ना᳓परम् उ᳓न्नयेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,11 +185,14 @@ Therefore after once taking out, one should not take out a second time.
 
 4तर्हि कथमुन्नयने कृते नोदनेषीति वक्तुं शक्यते इत्याह - तस्मात्सकृदित्यादि ॥ यस्मादेवमुन्नेतव्यश्च भवाति तस्मात्सकृदेकवारमुन्नीय नापरं न पुनर्द्वितीयमुन्नयेत । तद्धि नैवोन्नीतं नैवानुन्नीतम् । उन्नयनेऽशक्तो ध्रियते, अनुन्नयने विहिताकरणदोषप्रसङ्गात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दध्नो᳓न्नयेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -186,11 +215,14 @@ One should take out of curd,
 
 'अस्थिदधि' इत्यादिनानङ्, अल्लोपे उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् 'नामन्यतरस्याम्' इति नामउदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,11 +238,14 @@ that is the symbol of cattle;
 
 ए॒तत् । वै । प॒शू॒नाम् । रू॒पम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपे᳓णैव᳓ पशू᳓न᳓व रुन्धे ।[20]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,6 +266,7 @@ verily by the symbol he wins cattle [1].
 
 य॒ज्ञो दे॒वेभ्यो॒ निला॑यत॒ विष्णू॑ रू॒पङ्कृ॒त्वा स पृ॑थि॒वीम्प्रावि॑श॒त्तन्दे॒वा हस्ता॑न्त्सँ॒रभ्यै॑च्छ॒न्तमिन्द्र॑ उ॒पर्यु॑प॒र्यत्य॑क्राम॒त्
 </details>
+</details>
 
 ## सौमिकी
 
@@ -239,6 +275,8 @@ verily by the symbol he wins cattle [1].
 यज्ञो᳓ देवे᳓भ्यो नि᳓लायत वि᳓ष्णू रूप᳓ङ् कृत्वा᳓ ।  
 स᳓ पृथिवी᳓म् प्रा᳓विशत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -260,11 +298,14 @@ The sacrifice went away from the gods in the form of Visnu, and entered the eart
 
 5अथ सौमिकीं विधास्यन्नाह - यज्ञो देवेभ्य इत्यादि ॥ निलायत निरगच्छत् । अयतेर्लङि 'उपसर्गस्यायतौ ' इति लत्वम् । विष्णुर्भूत्वा रूपं च वैष्णवं व्यापनशीलमव्यक्तलक्षणं कृत्वा देवेभ्यः अगच्छत् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ ह᳓स्तान्त् सँर᳓भ्यैच्छन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +326,14 @@ The gods sought him grasping hands.
 
 ततस्स पृथिवीं प्राविशत् । तं यज्ञं देवाः इन्द्रादयः हस्तान् संरभ्य अन्योन्यस्य गृहीत्वा वेष्टित्वा तमैच्छन् । यद्वा - हस्तान् संरभ्य संसृष्टान् वितत्य तं ग्रहीतुमैच्छन् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् इ᳓न्द्र उप᳓र्य् उपर्य् अ᳓त्यक्रामत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,11 +354,15 @@ Indra passed over him.
 
 इन्द्रस्तु तं यज्ञमुपर्युपरि यत्रयत्र गतः तत्रतत्रोपर्यत्यक्रामत् अतिक्रम्य स्थितः । 'उपर्यध्यधस्सामीप्ये' इति द्विर्वचनम्, 'अनुदात्तं च' इति द्वितीयस्यानुदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सो॑ऽब्रवी॒त्को मा॒यमु॒पर्यु॑प॒र्यत्य॑क्रमी॒दित्य॒हन्दु॒र्गे हन्तेत्यथ॒ कस्त्वमित्य॒हन्दु॒र्गादाह॒र्तेति॒ सो॑ऽब्रवीद्दु॒र्गे वै हन्ता॑वोचथा वरा॒हो॑ऽयव्ँवा॑ममो॒षः [21]  
 स॒प्ता॒नाङ्गि॑री॒णाम्प॒रस्ता॑द्वि॒त्तव्ँवेद्य॒मसु॑राणाम्बिभर्ति॒ तञ्ज॑हि॒ यदि॑ दु॒र्गे हन्तासीति॒ स द॑र्भपुञ्जी॒लमु॒द्वृह्य॑ स॒प्त गि॒रीन्भि॒त्त्वा तम॑ह॒न्त्सो॑ऽब्रवीद्दु॒र्गाद्वा आह॑र्तावोचथा ए॒तमा ह॒रेति॒ तमे॑भ्यो य॒ज्ञ ए॒व य॒ज्ञमाह॑र॒द्यत्तद्वि॒त्तव्ँवेद्य॒मसु॑राणा॒मवि॑न्दन्त॒ तदेकव्ँ॒वेद्यै॑ वेदि॒त्वम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +370,8 @@ Indra passed over him.
 सो᳙ऽब्रवीत् ,
 को᳓ माय᳓मुप᳓र्युपर्य᳓त्यक्रमीदि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +392,14 @@ He said, 'Who has passed over me?'
 
 6स यज्ञोब्रवीत् - को यज्ञं मामुपर्युपर्यत्यक्रमीदिति । अद्यतनत्वाल्लङ्न भवति । लुङि 'नेटि' इति वृद्ध्यभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अह᳓न् दुर्गे᳓ ह᳓न्ते᳓त्य᳓थ क᳓स्त्व᳓मि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +420,14 @@ He said, 'Who has passed over me?'
 
 अथोचे - अहं दुर्गे हन्ता यत्रान्येन केन चिद्गन्तुं न शक्यते तत्रागन्तुं तत्र न्यञ्चं गन्तुं शक्तोहं कश्चिदिति । 'सुदुरोरधिकरणे' इति डः । हन्तेस्साधुकारिणि तृन् । एवमुक्त्वा इन्द्र एव पुनरूचे - अथ कस्त्वमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अह᳓न् दुर्गा᳓दा᳓हर्ते᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,6 +448,7 @@ He said, 'Who has passed over me?'
 
 अथ यज्ञ ऊचे - अहं तादृशाद्दुर्गादाहर्तेति दुर्गादिष्टमाहर्तुं समर्थोहं कश्चिदिति । पूर्ववत् तृनि 'तादौ च' इति गतेः प्रकृतिस्वरत्वमुभयत्र ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -401,6 +458,8 @@ He said, 'Who has passed over me?'
 > स᳓प्ताना᳓ङ् गिरीणा᳓म् पर᳓स्ताद् वित्तव्ँ᳓ वे᳓द्यम् अ᳓सुराणाम् बिभर्ति ,  
 > त᳓ञ् जहि य᳓दि दुर्गे᳓ ह᳓न्ता᳓सी᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,11 +481,14 @@ He said, 'Thou art called he who smites in the stronghold. Now a boar, stealer o
 
 एवमुक्त्वा स एवाब्रवीद्यज्ञः - दुर्गे हन्तेत्यवोचथास्त्वमिदानीम् । प्रूर्ववदद्यतनत्वात् लुङेव । सत्यमुच्यते वराहः सुत्यायज्ञाख्यो वरणीयदिवसात्मा वाममोषः वननीयानां धनानां मोषकः वननीयो वा मोषकः सप्तानां गिरीणामहरात्मनां दुर्गाणां परस्तात्परतः असुराणां वित्तं वसु वेद्यं वेदितव्यं वेत्तुं वा शक्यं यावत्किंचित्तत्सर्वं बिभर्ति रक्षति तं जहीति दुर्गे हन्ताऽसि अहं दुर्गे हन्तेति यत्त्वयोक्तं यदि तत्सत्यमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ दर्भपुञ्जील᳓म् उद्वृ᳓ह्य सप्त᳓ गिरी᳓न् भित्त्वा᳓ त᳓महन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,11 +509,14 @@ He plucked out a bunch of Darbha grass, pierced the seven hills, and smote him.
 
 स इन्द्रः दर्भपुञ्जीलमुद्वृह्य आदाय तेन सप्त गिरीन् भित्त्वा तमहन् तं हतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽब्रवीद् दुर्गा᳓द् वा᳓ आ᳓हर्ता ऽवोचथा एत᳓म् +++(हतं यज्ञवराहं)+++ आ᳓ हरे᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,11 +537,14 @@ He said, 'Thou art called he who brings from the stronghold; bring him.'
 
 हत्वा च सोब्रवीदिन्द्रः - त्वमपि दुर्गादाहर्तेत्यवोचथाः तद्यदि सत्यं यदि तथा तत्कर्तुं शक्यते तमाहर यमहं हतवानिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेभ्यो यज्ञ᳓ एव᳓ यज्ञ᳓मा᳓हरत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,11 +567,14 @@ So the sacrifice bore off the sacrifice for them;
 
 ततो देवा असुराणां वित्तं वेद्यं यावत्किंचित् वराहो बिभर्ति स्म तत्सर्वमविन्दन्त, यतस्तेन तत्सर्वं देवेभ्यो दत्तमित्यर्थाद्गम्यते । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् त᳓द् वित्तव्ँ᳓ वे᳓द्यम् अ᳓सुराणाम् अ᳓विन्दन्त, त᳓द् ए᳓कव्ँ वे᳓द्यै वेदित्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,6 +595,9 @@ in that they won the wealth of the Asuras which was to be won (vedyam), that alo
 
 यदाह - यत्तदित्यादि । अहो एषां संगतं यदिदमसुराणां वित्तं वेद्यं देवा अविन्दन्त तदिदं वेद्या वेदित्वमिति । अयमभिप्रायः - वेदिलक्षणविशिष्टसंबन्धसमासादितमहिमातिशयाङ्गिना यज्ञेन यद्वित्तं वेद्यं देवा अलभन्त तदङ्गेन वेद्या अलभन्तेत्यपि हि वक्तुं शक्यते, तस्माद्वित्तं वेद्यते लभ्यते अनयेति वेदिः । कलो 'इन् सर्वधातुभ्यः' इतीन्प्रत्ययः । केचिदाहुः - विद्यत इति वेदिरिति कर्मणि इन्प्रत्ययः । यदा हिं यज्ञो देवैरलभ्यत तदा वेदिरपि लब्धेति तेषां यत्तद्वित्तं वेद्यमित्यस्योपन्यासोनर्थकस्स्यात् । तस्मात् यत्तदसुराणां वित्तं वेद्यं यज्ञेन देवा अलभन्त तत्तदङ्गस्य वेद्या वेदित्वं तद्द्वारवमिति वेदितव्यम् । इदं तावदेकं वेद्या वेदित्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -531,11 +605,14 @@ in that they won the wealth of the Asuras which was to be won (vedyam), that alo
 वा इ॒यमग्र॑ आसी॒द्याव॒दासी॑नᳶ परा॒पश्य॑ति॒ ताव॑द्दे॒वाना॒न्ते दे॒वा अ॑ब्रुव॒न्नस्त्वे॒व नो॒ऽस्यामपीति॒ किय॑द्वो दास्याम॒ इति॒ याव॑दि॒यँ स॑लावृ॒की त्रिᳶ प॑रि॒क्राम॑ति॒ ताव॑न्नो द॒त्तेति॒ स इन्द्र॑स्सलावृ॒की रू॒पङ्कृ॒त्वेमान्त्रिस्स॒र्वत॒ᳶ पर्य॑क्राम॒त्तदि॒माम॑विन्दन्त॒ यदि॒मामवि॑न्दन्त॒ तद्वेद्यै॑ वेदि॒त्वम् [23]  
 सा वा इ॒यँ सर्वै॒व वेदि॒रिय॑ति शक्ष्या॒मीति॒ त्वा अ॑व॒माय॑ यजन्ते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सुराणाव्ँ वा᳓ इय᳓म᳓ग्र आसीत् । [22]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,11 +633,14 @@ The Asuras [3] indeed at first owned the earth,
 
 7अथापरं वेदित्वं दर्शयितुमाह - सुराणां वा इयमित्यादि ॥ इयं पृथिवी प्रथममग्रे असुराणामासीत् । यावदासीनः परापश्यति दूरं पश्यति तावद्देवानामासीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वदा᳓सीनᳶ पराप᳓श्यति ता᳓वद् देवा᳓नाम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,11 +656,14 @@ the gods had so much as one seated can espy.
 
 याव॑त् । आसी॑नः । प॒रा॒पश्य॒तीति॑ परा-पश्य॑ति । ताव॑त् । दे॒वाना॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अब्रुवन्न् -  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -603,11 +686,14 @@ The gods said,
 
 अथ स इन्द्रः तथा देवैः कृतसंकेतः सलावृकी भूत्वा रूपं रूपं च तस्याः कृत्वा परिगृह्य इमां पृथिवीं सर्वतस्सर्वां त्रिः पर्यक्रामत्, तत्तस्मादिमां पृथिवीं सर्वां देवा अविन्दन्त । इमां पृथिवीम् । तदप्येकं वेद्या वेदित्वं, तदवयवत्वात् । कर्मणीन् प्रत्ययः । सा खल्वियं सर्वैव पृथिवी वेदिः, विन्दतिकर्मत्वात् । विशेषस्तु - इयति एतावति प्रदेशे यष्टुं शक्यमिति तद्योग्यमवकाशमवमाय मित्वा ता वेदिं मन्यमानास्तत्र यजन्ते यजमानाः । तु वै इति द्वौ निपातौ, वर्णलोपश्छान्दसः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓स्त्वेव᳓ नो ऽस्या᳓म᳓पी᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -623,11 +709,14 @@ The gods said,
 
 अस्तु॑ । ए॒व । नः॒ । अ॒स्याम् । अपीति॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓यद्वो दास्याम इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -643,11 +732,14 @@ The gods said,
 
 किय॑त् । वः॒ । दा॒स्या॒मः॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वदियँ᳓ सलावृकी᳓ त्रिᳶ᳓ परिक्रा᳓मति ता᳓वन्नो दत्ते᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -663,11 +755,14 @@ The gods said,
 
 याव॑त् । इ॒यम् । स॒ला॒वृ॒की । त्रिः । प॒रि॒क्राम॒तीति॑ परि-क्राम॑ति । ताव॑त् । नः॒ । द॒त्त॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ इ᳓न्द्रस् सलावृकी᳓ रूप᳓ङ् कृत्वे᳓मा᳓न् त्रि᳓स् सर्व᳓तᳶ प᳓र्यक्रामत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -683,11 +778,14 @@ Indra taking the form of a Salavrki thrice ran round on all sides the earth.
 
 सः । इन्द्रः॑ । स॒ला॒वृ॒की । रू॒पम् । कृ॒त्वा । इ॒माम् । त्रिः । स॒र्वतः॑ । परीति॑ । अ॒क्रा॒म॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दिमा᳓म् अविन्दन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -703,11 +801,14 @@ So they won the earth,
 
 तत् । इ॒माम् । अ॒वि॒न्द॒न्त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दिमा᳓म᳓विन्दन्त त᳓द् वे᳓द्यै वेदित्व᳓म् ।[23]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -723,11 +824,14 @@ and in that they won it therefore is the Vedi so called [4].
 
 यत् । इ॒माम् । अवि॑न्दन्त । तत् । वेद्यै॑ । वे॒दि॒त्वमिति॑ वेदि-त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वा᳓ इयँ᳓ स᳓र्वैव᳓ वे᳓दिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -743,11 +847,14 @@ All this earth is the Vedi,
 
 सा । वै । इ॒यम् । सर्वा॑ । ए॒व । वेदिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓यति शक्ष्यामी᳓ति त्वा᳓ अवमा᳓य यजन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -763,16 +870,22 @@ but they measure off and sacrifice on so much as they deem they can use.
 
 इय॑ति । श॒क्ष्या॒मि॒ । इति॑ । तु । वै । अ॒व॒मायेत्य॑व-माय॑ । य॒ज॒न्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रिँ॒शत्प॒दानि॑ प॒श्चात्ति॒रश्ची॑ भवति॒ षट्त्रिँ॑श॒त्प्राची॒ चतु॑र्विँशतिᳶ पु॒रस्ता॑त्ति॒रश्ची॒ दश॑दश॒ सम्प॑द्यन्ते॒ दशा॑क्षरा वि॒राडन्नव्ँ॑वि॒राड्वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्ध॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिँश᳓त्पदा᳓नि पश्चा᳓त् तिर᳓श्ची भवति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -793,11 +906,14 @@ The back cross-line is thirty feet,
 
 8अधुना कियानवकाशो वेदित्वेन गृह्यते इति तत्प्रमाणं दर्शयितुमाह - त्रिंशत्पदानीति ॥ तस्मादपरस्यां दिशि त्रिंशत्पदानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ट्त्रिँशत्प्रा᳓ची च᳓तुर्विँशतिᳶ पुर᳓स्तात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -813,11 +929,14 @@ the eastern line is thirty-six feet, the front cross-line is twenty-four feet.
 
 षट्त्रिँ॑श॒दिति॒ षट्-त्रिँ॒श॒त् । प्राची॑ । चतु॑र्विँशति॒रिति॒ चतुः॑-विँ॒श॒तिः॒ । पु॒रस्ता॑त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिर᳓श्ची द᳓शदश स᳓म्पद्यन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -848,11 +967,14 @@ These make up tens;
 
 सा च दशभागहारेण ह्रियमाणा शुद्धं भागं ददातीत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शाक्षरा विरा᳓ट् । अ᳓न्नव्ँ विरा᳓ट् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -873,11 +995,14 @@ the Viraj has ten syllables; the Viraj is food;
 
 अन्नं विराडिति । अन्नसाधनत्वात् । अन्नाद्यमन्नस्यादनम् । छान्दसो यत्, कृदुत्तरपदप्रकृतिस्वरत्वम्, 'यतोऽनावः' ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जैवा᳓न्ना᳓द्यम᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -893,16 +1018,22 @@ verily by the Viraj he wins food.
 
 वि॒राजेति॑ वि-राजा॑ । ए॒व । अ॒न्नाद्य॒मित्य॑न्न-अद्य॑म् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उद्ध॑न्ति॒ यदे॒वास्या॑ अमे॒ध्यन्तदप॑ ह॒न्त्युद्ध॑न्ति॒ तस्मा॒दोष॑धय॒ᳶ परा॑ भवन्ति ब॒र्हिस्स्तृ॑णाति॒ तस्मा॒दोष॑धय॒ᳶ पुन॒रा भ॑व॒न्त्य्...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्धन्ति , य᳓देवा᳓स्या अमेध्य᳓न्त᳓द᳓प हन्ति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -923,11 +1054,14 @@ He digs up (the earth); verily he digs away whatever in it is impure.
 
 9उद्धन्तीति विधिः ॥ अमेध्यममेधार्हम् । 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । गुणान्तरबाधनार्थं द्वितीयं विधानम् । उद्धननेनौषधयो नश्यन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्धन्ति , त᳓स्मादो᳓षधयᳶ प᳓रा भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,11 +1077,14 @@ He digs up; therefore the plants perish.
 
 उदिति॑ । ह॒न्ति॒ । तस्मा॑त् । ओष॑धयः । परेति॑ । भ॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓स्स्तृणाति , त᳓स्मादो᳓षधयᳶ पु᳓नरा᳓ भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -970,16 +1107,22 @@ He spreads the sacrificial strew; therefore the plants again revive.
 
 तस्मादोषधयः पुनरुद्भवन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ुत्त॑रम्ब॒र्हिष॑ उत्तरब॒र्हिस्स्तृ॑णाति प्र॒जा वै ब॒र्हिर्यज॑मान उत्तरब॒र्हिर्यज॑मानमे॒वाय॑जमाना॒दुत्त॑रङ्करोति॒ तस्मा॒द्यज॑मा॒नोऽय॑जमाना॒दुत्त॑रः ॥ [24]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरम् बर्हि᳓ष उत्तरबर्हि᳓स्स्तृणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1000,11 +1143,14 @@ He spreads over the strew the upper strew.
 
 10उत्तरमित्यादिविधिः ॥ सौमिकस्योपरि पाशुकं बर्हिस्स्तृणाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ वै᳓ बर्हि᳓र् य᳓जमान उत्तरबर्हिः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1029,11 +1175,14 @@ The strew is the people; the upper strew is the sacrificer;
 
 इति षष्ठे द्वितीये चतुर्थोनवा�
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानम् एवा᳓यजमानाद् उ᳓त्तरङ् करोति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1049,11 +1198,14 @@ verily he makes the sacrificer higher than the man who does not sacrifice;
 
 यज॑मानम् । ए॒व । अय॑जमानात् । उत्त॑र॒मित्युत्-त॒र॒म् । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् य᳓जमानो᳓ ऽयजमानादु᳓त्तरः ॥ [24]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1068,5 +1220,6 @@ therefore the sacrificer is higher than the man who does not sacrifice.
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । यज॑मानः । अय॑जमानात् । उत्त॑र॒ इत्युत्-त॒रः॒ ॥
+</details>
 </details>
 

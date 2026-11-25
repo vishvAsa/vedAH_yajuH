@@ -3,6 +3,8 @@ title = "०५ सयुजादीष्टकोपधानम्"
 +++
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒न्द्रा॒ग्निभ्या॑न्त्वा स॒युजा॑ यु॒जा यु॑नज्म्याघा॒राभ्या॒न्तेज॑सा॒ वर्च॑सो॒क्थेभि॒स्स्तोमे॑भि॒श्छन्दो॑भी र॒य्यै पोषा॑य सजा॒ताना॑म्मध्यम॒स्थेया॑य॒ मया॑ त्वा स॒युजा॑ यु॒जा यु॑नज्म्य॒म्बा दु॒ला नि॑त॒त्निर॒भ्रय॑न्ती मे॒घय॑न्ती व॒र्षय॑न्ती चुपु॒णीका॒ नामा॑सि प्र॒जाप॑तिना त्वा॒ विश्वा॑भिर्धी॒भिरुप॑ दधामि पृथि॒व्यु॑दपु॒रमन्ने॑न वि॒ष्टा म॑नु॒ष्या॑स्ते गो॒प्तारो॒ऽग्निर्विय॑त्तोऽस्या॒न्ताम॒हम्प्र प॑द्ये॒ सा [18]  मे॒ शर्म॑ च॒ वर्म॑ चा॒स्त्वधि॑द्यौर॒न्तरि॑क्ष॒म्ब्रह्म॑णा वि॒ष्टा म॒रुत॑स्ते गो॒प्तारो॑ वा॒युर्विय॑त्तोऽस्या॒न्ताम॒हम्प्र प॑द्ये॒ सा मे॒ शर्म॑ च॒ वर्म॑ चास्तु॒ द्यौरप॑राजिता॒मृते॑न वि॒ष्टादि॒त्यास्ते॑ गो॒प्तार॒स्सूर्यो॒ विय॑त्तोऽस्या॒न्ताम॒हम्प्र प॑द्ये॒ सा मे॒ शर्म॑ च॒ वर्म॑ चास्तु ॥  
@@ -17,11 +19,14 @@ title = "०५ सयुजादीष्टकोपधानम्"
 कल्पः—“इन्द्राग्निभ्यां त्वा सयुजा युजा युनज्गीत्यग्नौ सयुजः” इति।  
 पाठस्तु— इन्द्राग्निभ्यामिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्राग्नि᳓भ्यान्त्वा सयु᳓जा युजा᳓ युनज्मि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,11 +51,14 @@ I yoke thee in bonds of fellowship with Indra and Agni,
 आधाराभ्यामित्यादिभिः सप्तभि  
 २०७२ ( षड्भि ) स्तृतीयान्तैः सह प्रत्येकं त्वा सयुजेत्यादिशेषस्थानुषङ्गे सति षण्मन्त्राः संपद्यन्ते ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आघारा᳓भ्या᳓म् +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +79,14 @@ with the ghee sprinklings,
 
 आधाराबाहुती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जसा +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,11 +107,14 @@ with brilliance,
 
 तेजः कान्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्चसा +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,11 +135,14 @@ with radiance,
 
 वर्चो धनम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्थे᳓भिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,11 +163,14 @@ with the hymns,
 
 उक्थानि शस्राणि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तो᳓मेभिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,11 +191,14 @@ with the Stomas,
 
 स्तोमानि स्तोत्राणि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दोभिः +++(त्वा᳓ सयु᳓जा युजा᳓ युनज्मि )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +219,14 @@ with the metres,
 
 छन्दांसि गायात्रादीनि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रय्यै᳓ पो᳓षाय सजाता᳓नाम्मध्यमस्थे᳓याय᳓ म᳓या त्वा सयु᳓जा युजा᳓ युनज्मि।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +258,15 @@ for the increase of wealth, for pre-eminence among thy fellows; I yoke thee in b
 अपि च यथा लोके पुरुषः स्रावभिः शरीरे सर्वतो व्याप्तस्तद्वदेता भिरिष्टकाभिरग्निः सर्वतो व्याप्तो भवति ।  
 तस्मादेता उपद्ध्यात् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अम्बा नामासीति सप्त कृत्तिकाः” इति ।  
 पाठस्तु— अम्बा दुलेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -249,6 +279,8 @@ for the increase of wealth, for pre-eminence among thy fellows; I yoke thee in b
 वर्ष᳓यन्ती +++(ना᳓मासि)+++ ।   
 चु᳓पुणी᳓का ना᳓मासि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,11 +311,14 @@ Amba, Dula, Nitatni, Abhrayanti, Meghayanti, Varsayanti, Cupunika, art thou by n
 हे इष्टके या कृत्तिकाऽम्बानामा तद्र्पा त्वमसि ।  
 एवं दुला नामासीत्यादिकं योजनियम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिना त्वा वि᳓श्वाभिर्धीभि᳓रु᳓प दधामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,11 +345,15 @@ with Prajapati, with our every prayer, I deposit thee.
 अतस्तदुपधानेन स्वर्गप्राप्तिर्भवति ।  किंच, अनेन स्वर्गे प्रकाशं प्राप्नेति ।  
 विचित्रमाभरणादिकं चास्य भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“पृथिव्युदपुरमन्नेनेति मण्डलेष्टकाम्” इति।  
 पाठस्तु— पृथिव्युदपुरमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -324,6 +363,8 @@ with Prajapati, with our every prayer, I deposit thee.
 म᳓नुष्या᳙स्ते गोप्ता᳓रः᳓ ,
 अग्नि᳓र्वि᳓यत्तोऽस्याम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -347,11 +388,14 @@ The earth penetrated by food, a reservoir of water (thou art), men are thy guard
 
 अन्नेन विष्टा न्नेन संपूर्णा या पृथिवी हे इष्टके सा पृथिव्युदपुरमुदकसंपूर्णं [ पुरम् ] ।   मनुष्यास्ते तव गोप्तारो रक्षितारः ।   अस्यां पृथिव्यामग्निर्वियत्तो रक्षणाय विशेषेण प्रयत्नवान्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मह᳓म्प्र᳓ पद्ये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,12 +417,15 @@ to it I resort,
 [ तां ] तादृशीं पृथिवीरूपां त्वामिष्टकामहं प्रपद्ये प्राप्नोमि ।   
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓  मे श᳓र्म च +++(अस्तु)+++,   
 +++(स᳓  मे )+++ व᳓र्म चास्तु᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,16 +448,22 @@ and may it be my protection and my refuge.
 सा तथाविधेष्टका मे मम यजमानस्य शर्म शरणं गृहस्थानमस्तु ।   
 वर्म च रक्षणार्थं कवचस्थानीयमप्यस्तु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अधिद्यौरिति मण्डलेष्टकाम” इति।   पाठस्तु—अधिद्यौरन्तरिक्षमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिद्यौरन्त᳓रिक्षम् ब्र᳓ह्मणा विष्टा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,6 +484,7 @@ The over-sky penetrated by holy power, the atmosphere (thou art);
 
 ब्रह्मणा विष्टा प्रोढेन जनेन विष्टा युक्ताऽधिद्यौर्दिवोऽप्यधिका या पूः साऽन्तरिक्षमन्तरिक्षनामकं हे इष्टके तव पुरम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -440,6 +494,8 @@ The over-sky penetrated by holy power, the atmosphere (thou art);
 सा᳓  मे श᳓र्म च +++(अस्तु)+++,   
 +++(सा᳓ मे )+++व᳓र्म चास्तु᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,16 +520,22 @@ the Maruts are thy guardians, Vayu is placed in this (brick), to it I resort, an
 
 मरुतो वायवस्तेष्वेको मुख्यो वायुः।   शेषं पूर्ववत् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“द्यौरपुराजितेति मण्डलेष्टकाम्” इति।   पाठस्तु— द्यौरपराजितेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓र᳓पराजितामृ᳓तेन विष्टा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -494,6 +556,7 @@ The sky, penetrated by ambrosia, the unconquered (thou art);
 
 अमृतेन विष्टा पीयूषेण पूर्णा द्यौर्द्युलोकाख्या हे इष्टके तव पूः केनाप्यपराजिता ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +566,8 @@ The sky, penetrated by ambrosia, the unconquered (thou art);
 सा᳓  मे श᳓र्म च +++(अस्तु)+++,   
 +++(सा᳓ मे )+++व᳓र्म चास्तु᳓ ।[19]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,6 +595,7 @@ the Adityas are thy guardians, the sun is deposited in this (brick), to it I res
 एतैर्मन्त्रैः साध्यमुमधानं विधत्ते— “मण्डलेष्टका उप दधातीमे वै लोका मण्डलेष्टका इमे स्त्रलु वै लोका देवपुरा देवपुरा एव प्र विशति नाऽऽर्तिमार्छत्याग्निं चिक्यानः” [सं. का. ५ प्र. ३ अ. ९] इति।  
 मण्डलाख्या इष्टकास्तिस्रः प्रथममध्यमोत्तमचितिषूपदध्यात् ।   तासां चेष्ट  २०७४ कानां लोकत्रयरूपत्वाल्लोकत्रयस्य देवपुरत्वाद्दवेपुरा एवाग्निचित्प्रविशति ।   अग्निं चिन्वानो न नाशं प्राप्नोति ।  
 
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके षष्ठोऽनुवाकः

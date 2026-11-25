@@ -9,6 +9,8 @@ unicode_script: devanagari
 अर्ध᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वा अ॒ग्नेर्हिर॑ण्यम्प्रतिजग्र॒हुषः॑ ।
@@ -40,11 +42,14 @@ unicode_script: devanagari
 
 पुरा कदाचिद् अग्निर् मन्त्रम् अन्तरेण हिरण्यं प्रतिगृहीतवान् । तस्याग्नेः शरीर-वर्ति यद् इन्द्रियं वीर्यं तस्यार्धम् अग्नेः सकाशाद् अपगतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,11 +70,14 @@ unicode_script: devanagari
 
 तदानीं स्वकीयं बल-क्षयं दृष्ट्वा तत्-परिहाराय - "राजा त्वा वरुणो नयतु देवि दक्षिणे ऽग्नये हिरण्यम्" इत्य् एतेनैव मन्त्रेण प्रत्यगृह्णात् । तत्राग्निना पठ्यमाने मन्त्रे यो ऽयं चतुर्थ्यन्तो ऽग्नि-शब्दस् तस्य कल्पान्तर-गतो ऽग्निर् इत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ सो᳙ऽर्ध᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -90,12 +98,15 @@ unicode_script: devanagari
 
 तद्-व्यवधानेन प्रतिग्रहे सति तेनैव मन्त्रेण पूर्वम् अपगतं स्वकीय-वीर्यस्यार्धं स्वस्मिन्न् एव पुनः समाधत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्ध᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् हि᳓रण्यम् प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,12 +123,15 @@ unicode_script: devanagari
 
 अथ य एवं विद्वान् हिरण्यं प्रतिगृह्णाति स इन्द्रियस्यापक्रान्तस्याप्यर्धं पुनरात्मन्युपाधते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ऽविद्वान् प्रतिगृह्णा᳓त्य्  
 अर्ध᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,12 +153,15 @@ unicode_script: devanagari
 
 यः पुमान् एवं मन्त्र-महिमानं विद्वान् प्रतिगृह्णाति तस्येन्द्रिय-भागो नातिक्रामति । किं तु स्वस्मिन्न् एव समाहितो भवति । अविदुषस् तु स भागः स्वस्माद् अपगच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वै᳓ सो᳓मस्य वा᳓सᳶ प्रतिजग्रहु᳓षस्  
 तृ᳓तीयम् इन्द्रिय᳓स्या᳓पाक्रामत् ॥11॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,11 +173,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । सो᳓मस्य । वा᳓सः । प्रतिज । ग्रह् । उ᳓षः । तृ᳓तीयम् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,11 +191,14 @@ unicode_script: devanagari
 
 त᳓त् । एते᳓न । एव᳓ । प्र᳓ति । अगृह्णात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ तृ᳓तीयम् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,12 +209,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । तृ᳓तीयम् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृ᳓तीयम् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् वा᳓सᳶ प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,12 +229,15 @@ unicode_script: devanagari
 
 तृ᳓तीयम् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । आ᳓ । धत्ते । यः᳓ । एव᳓म् । विद्वा᳓न् । वा᳓सः । प्रति । गृह्णा᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ऽविद्वान् प्रतिगृह्णा᳓ति  
 तृ᳓तीयम् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,12 +249,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । तृ᳓तीयम् । अस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वै᳓ रुद्र᳓स्य गा᳓म्प्रतिजग्रहु᳓षश्  
 चतुर्थ᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,11 +269,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । रुद्र᳓स्य । गा᳓म् । प्रतिज । ग्रह् । उ᳓षः । चतुर्थ᳓म् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓म् एते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,11 +287,14 @@ unicode_script: devanagari
 
 ता᳓म् । एते᳓न । एव᳓ । प्र᳓ति । अगृह्णात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ चतुर्थ᳓म् इन्द्रिय᳓स्यात्म᳓न्नुपा᳓धत्त ॥12॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,12 +305,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । चतुर्थ᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्थ᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् गा᳓म् प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +325,15 @@ unicode_script: devanagari
 
 चतुर्थ᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । आ᳓ । धत्ते । यः᳓ । एव᳓म् । विद्वा᳓न् । गा᳓म् । प्रति । गृह्णा᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ऽविद्वान्प्रतिगृह्णा᳓ति  
 चतुर्थ᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,12 +345,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । चतुर्थ᳓म् । अस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वै᳓ व᳓रुणस्या᳓श्वम् प्रतिजग्रहु᳓षᳶ  
 पञ्चम᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,11 +365,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । व᳓रुणस्य । अ᳓श्वम् । प्रतिज । ग्रह् । उ᳓षः । पञ्चम᳓म् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,11 +383,14 @@ unicode_script: devanagari
 
 त᳓म् । एते᳓न । एव᳓ । प्र᳓ति । अगृह्णात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ पञ्चम᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -348,12 +401,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । पञ्चम᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चम᳓म् इन्द्रिय᳓स्यात्म᳓न्नुपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् अ᳓श्वम् प्रतिगृह्णा᳓ति ॥13॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +421,15 @@ unicode_script: devanagari
 
 पञ्चम᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । आ᳓ । धत्ते । यः᳓ । एव᳓म् । विद्वा᳓न् । अ᳓श्वम् । प्रति । गृह्णा᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ऽविद्वान् प्रतिगृह्णा᳓ति  
 पञ्चम᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,12 +441,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । पञ्चम᳓म् । अस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वै᳓ प्रजा᳓पतेᳶ पु᳓रुषम् प्रतिजग्रहु᳓षश्  
 षष्ठ᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -399,11 +461,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । प्रजा᳓-पतेः । पु᳓रुषम् । प्रतिज । ग्रह् । उ᳓षः । षष्ठ᳓म् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् एते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -414,11 +479,14 @@ unicode_script: devanagari
 
 त᳓म् । एते᳓न । एव᳓ । प्र᳓ति । अगृह्णात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ षष्ठ᳓म् इन्द्रिय᳓स्यात्म᳓न्नुपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -429,12 +497,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । षष्ठ᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षष्ठ᳓म् इन्द्रिय᳓स्यात्म᳓न्नुपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् पु᳓रुषम् प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -446,12 +517,15 @@ unicode_script: devanagari
 
 षष्ठ᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । आ᳓ । धत्ते । यः᳓ । एव᳓म् । विद्वा᳓न् । पु᳓रुषम् । प्रति । गृह्णा᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ ऽविद्वान् प्रतिगृह्णा᳓ति  
 षष्ठ᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ॥14॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -463,12 +537,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । षष्ठ᳓मस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वै᳓ म᳓नोस् त᳓ल्पम् प्रतिजग्रहु᳓षस्  
 सप्तम᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,11 +557,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । म᳓नोः । त᳓ल्पम् । प्रतिज । ग्रह् । उ᳓षः । सप्तम᳓म् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् एते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,11 +575,14 @@ unicode_script: devanagari
 
 त᳓म् । एते᳓न । एव᳓ । प्र᳓ति । अगृह्णात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ सप्तम᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,12 +593,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । सप्तम᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तम᳓मिन्द्रिय᳓स्यात्म᳓न्नुपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वाँ᳓स् त᳓ल्पम् प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -527,12 +613,15 @@ unicode_script: devanagari
 
 सप्तम᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । आ᳓ । धत्ते । यः᳓ । एव᳓म् । विद्वा᳓न् । त᳓ल्पम् । प्रति । गृह्णा᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ऽविद्वान् प्रतिगृह्णा᳓ति  
 सप्तम᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -544,12 +633,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । सप्तम᳓म् । अस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य वा᳓ उत्तान᳓स्याङ्गीरस᳓स्य +अ᳓प्राणत् प्रतिजग्रहु᳓ष  
 अष्टम᳓म् इन्द्रिय᳓स्या᳓पाक्रामत् ॥15 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -561,11 +653,14 @@ unicode_script: devanagari
 
 त᳓स्य । वै᳓ । उत्-तान᳓स्य । आङ्गीरस᳓स्य । अ᳓प्राणत् । प्रतिज । ग्रह् । उ᳓षः । अष्टम᳓म् । इन्द्रिय᳓स्य । अ᳓प । अक्रामत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् एते᳓नैव᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,11 +689,14 @@ unicode_script: devanagari
 > तेन वै स तृतीयम् इन्द्रियस्यात्मन्न् उपाधत्त ।  
 > तृतीयम् इन्द्रियस्यात्मन्न् उपाधत्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ सो᳙ ऽष्टम᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +707,15 @@ unicode_script: devanagari
 
 ते᳓न । वै᳓ । सः᳓ । अष्टम᳓म् । इन्द्रिय᳓स्य । आत्म᳓न् । उप । अ᳓धत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टम᳓म् इन्द्रिय᳓स्यात्म᳓न्न् उपा᳓धत्ते  
 य᳓ एवव्ँ᳓ विद्वा᳓न् अ᳓प्राणत् प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,12 +778,15 @@ unicode_script: devanagari
 अप्राणत्, प्राण-वायु-रहितम् अचेतनं शकटम् ।  
 उत्तानायाङ्गिरसायान्येति तत्-तत्-पर्यायेषु प्रथम-पर्यायवद् व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ ऽविद्वान् प्रतिगृह्णा᳓त्य्  
 अष्टम᳓म् अस्येन्द्रिय᳓स्या᳓पक्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,12 +798,15 @@ unicode_script: devanagari
 
 अ᳓थ । यः᳓ । अ᳓विद्वान् । प्रति । गृह्णा᳓ति । अष्टम᳓म् । अस्य । इन्द्रिय᳓स्य । अ᳓प । क्रामति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वा᳓ इद᳓ङ् कि᳓ञ्च  
 त᳓त् स᳓र्वम् उत्तान᳓ एवा᳓ङ्गीरसᳶ᳓ प्र᳓त्यगृह्णात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,11 +826,14 @@ unicode_script: devanagari
 अवयवस्तुत्यर्थं पुनर्वचनम् ॥  
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके तृतीयप्रपाठके चतुर्थोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् एनम् प्र᳓तिगृहीतन् ना᳓हिनत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -734,12 +844,15 @@ unicode_script: devanagari
 
 त᳓त् । एनम् । प्र᳓ति-गृहीतम् । न᳓ । आ । अहिनत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् कि᳓ञ्च प्रतिगृह्णीया᳓त्  
 त᳓त् स᳓र्वम् "उत्तान᳓स् त्वाङ्गीरसᳶ᳓ प्र᳓तिगृह्णात्व्" इ᳓त्य् एव᳓ प्र᳓तिगृह्णीयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,12 +864,15 @@ unicode_script: devanagari
 
 य᳓त् । कि᳓म् । च । प्रति । गृह्णीया᳓त् । त᳓त् । स᳓र्वम् । उत्-तानः᳓ । तु । आङ्गीरसः᳓ । प्र᳓ति । गृह्णातु । इ᳓ति । एव᳓ । प्र᳓ति । गृह्णीयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓ उत्तान᳓ आङ्गीरस᳓  
 अन᳓यैवै᳓नत् प्र᳓तिगृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,11 +897,14 @@ unicode_script: devanagari
 > इयं वा उत्तान आङ्गीरसः ।  
 > अनयैवैनत् प्रतिगृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नै᳓नँ हिनस्ति ॥16॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -804,4 +923,5 @@ unicode_script: devanagari
 पूर्ववव्याख्येयम् ।  
 एवं मत्रमहिमाऽप्यनुसंधेय इति तात्पर्यार्थः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय तैत्तिरीय-ब्राह्मणभाष्ये द्वितीयकाण्डे तृतीयप्रपाठके चतुर्थोऽनुवाकः ॥ ४ ॥
+</details>
 </details>

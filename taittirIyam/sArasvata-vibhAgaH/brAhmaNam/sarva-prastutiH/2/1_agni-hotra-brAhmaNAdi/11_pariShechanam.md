@@ -3,15 +3,20 @@ title: ११ परिषेचनम्
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1 ऋतं त्वेत्यादि ॥ होष्यन् हुत्वा चाग्निं परिषिञ्चति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऋत᳓न्+++(→)+++ त्वा सत्ये᳓न प᳓रिषिञ्चामी᳓"ति साय᳓म् प᳓रिषिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -28,11 +33,14 @@ unicode_script: devanagari
 अग्निः **ऋतं** मानसं तथ्यं, आदित्यः **सत्यं** वाचिकं तथ्यं, अग्न्यादित्यवल्लोकानां धारकत्वात्ताच्छब्द्यं तयोः ।  
 यस्माद् एवम् ऋतात्मानं त्वां सत्येन सत्यात्मना आदित्येन सह परिषिञ्चामि, तथा सत्यात्मानं त्वामृतात्मनाऽग्निना सह परिषिञ्चामि इति सायं प्रातश्च परिषिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सत्य᳓न्+++(→)+++ त्वर्ते᳓न प᳓रिषिञ्चामी᳓"ति प्रातः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +51,14 @@ unicode_script: devanagari
 
 सत्य᳓म् । त्वा । ऋते᳓न । प᳓रि । सिञ्चामि । इ᳓ति । प्रातः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् वा᳓ ऋत᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +69,14 @@ unicode_script: devanagari
 
 अग्निः᳓ । वै᳓ । ऋत᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असा᳓व् आदित्य᳓स् सत्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -73,11 +87,14 @@ unicode_script: devanagari
 
 असौ᳓ । आदित्यः᳓ । सत्य᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓मेव᳓ त᳓दादित्ये᳓न साय᳓म्प᳓रिषिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -94,11 +111,14 @@ unicode_script: devanagari
 तत् तस्मान् अग्निमादित्येन आदित्यं चाग्निना सह परिषिञ्चति ।  
 तयोश्च सिक्तयोस्सर्वो लोकत्सिक्तो भवति, तन्मयत्वाल्लोकानाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓नाऽऽदित्य᳓म्प्रात᳓स्सः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,11 +129,14 @@ unicode_script: devanagari
 
 अग्नि᳓ना । अदि । त्य᳓म् । प्रातः᳓ । सः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वदहोरात्रे᳓ भ᳓वतस् ता᳓वदस्य लोक᳓स्य ना᳓र्तिर्न᳓ रि᳓ष्टिर् ना᳓न्तो न᳓ पर्यन्तो᳙ऽस्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -133,11 +156,14 @@ unicode_script: devanagari
 ततश्च यावत् यावन्तं कालं अहोरात्रौ भवतः एवं क्रियमाणे सायंप्रातर्होमे शक्तौ भवतः । 'हेमन्तशिशिरावहोरात्रे च' इति पूर्ववल्लिङ्गता ।   
 तावत् तावन्तं कालं अस्य लोकस्य नार्तिः न कृच्छ्रापत्तिः, न रिष्टिः न विनाशः । नान्तः न विषादः । न पर्यन्तः अपरिच्छिन्नविभवः चिरं जीवति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैवव्ँ᳓ विदु᳓षोऽग्निहोत्र᳓ञ्जु᳓ह्वति य᳓ उचैनदेवव्ँ᳓ वे᳓द ॥60॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -158,4 +184,5 @@ unicode_script: devanagari
 समाप्तः प्रथमः प्रश्नः ॥
 एष निष्पावके शाके कुशिकान्वयजन्मना ।
 भट्टभास्करमिश्रेण ज्ञानयज्ञः प्रवर्तितः ॥
+</details>
 </details>

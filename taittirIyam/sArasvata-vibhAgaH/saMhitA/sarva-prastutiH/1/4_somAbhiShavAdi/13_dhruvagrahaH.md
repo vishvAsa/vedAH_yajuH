@@ -5,9 +5,12 @@ title = "१३ ध्रुवग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्थाल्या धुवं गृह्णाति - मूर्धानमिति चतुष्पदया त्रिष्टुभा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/007/01_mUrdhAnaM_divo.md">
@@ -405,17 +408,21 @@ Das Haupt des Himmels und der Erde Ordner, den Männerhort, den frommerzeugten A
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमाम् अनुद्रुत्य उपयाम-गृहीतोस्य् अग्नये त्वा वैश्वानरायेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,13 +449,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये त्वा वैश्वानरा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,6 +473,9 @@ to Agni Vaiśvanara thee!
 
 अ॒ग्नये॑ । त्वा॒ । वै॒श्वा॒न॒राय॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -474,6 +486,7 @@ to Agni Vaiśvanara thee!
 
 2अधिवदते - ध्रुवोसीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -482,6 +495,8 @@ to Agni Vaiśvanara thee!
 ध्रुवा᳓णान् ध्रुव᳓तमः᳓   
 अ᳓च्युतानाम् अच्युत-क्षि᳓त्तमः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,17 +525,23 @@ with securest foundation of those which are secure.
 
 अच्युतानामच्युतस्थानानां मध्ये अच्युतक्षित्तमस्त्वमसि । अच्युतं स्थानं क्षियति निवसतीति क्विप् । यद्वा - अच्युतानां स्थानानां मध्ये यदच्युतमतिशयेनाच्युततमं निषेवते इति अचूततमक्षिदिति यावत् ब्रूयात्तावदच्युतक्षित्तम इति । तत्र सामर्थ्यादुपसर्जनातिशायने तमप्प्रत्ययः, छान्दसो वा । इर्दृशस्त्वमसीत्यधिवादः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एष ते योनिरग्नये त्वा वैश्वानरायेति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, अग्न᳓ये त्वा वैश्वानरा᳓य ॥ [14]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,6 +556,7 @@ This is thy birthplace; to Agni Vaiśvanara thee!
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । ते॒ । योनिः॑ । अ॒ग्नये॑ । त्वा॒ । वै॒श्वा॒न॒राय॑ ॥
+</details>
 </details>
 
 इति चतुर्थे त्रयोदशः ॥  

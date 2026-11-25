@@ -9,6 +9,8 @@ short_title = "०६ सोममानादिकम्"
 
 ## अभिमर्शः
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1सहिरण्येन पाणिना राजानमभिमृशति - अंशुनेति ॥ 
@@ -36,6 +38,7 @@ ________
 
 अँ॒शुना॑ ते अँ॒शुᳶ पृ॑च्यता॒म्परु॑षा॒ परु॑र्ग॒न्धस्ते॒ काम॑मवतु॒ मदा॑य॒ रसो॒ अच्यु॑तो॒ऽमात्यो॑ऽसि शु॒क्रस्ते॒ ग्रहः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -43,6 +46,8 @@ ________
 गन्ध᳓स् ते का᳓मम् अ᳓व᳓तु᳓ +++(यागम्)+++,  
 म᳓दाय र᳓सो अ᳓च्युतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,12 +166,15 @@ let thy savour, which falls not, cause rejoicing.
 
 तस्मिन् शकटे पूर्व-स्थापितं मध्यम-फलकम् उद्धृत्य नूतनं फलकं स्थापनीयम्। अथवोद्धृतम् उन्नत-पूर्व-फलक-रूपं मुखं यस्य शकटस्य तद् उद्धृत-पूर्व-फलकम्। परिश्रयः शकटस्योपरि गृह-कुड्य-वत् परितो वेष्टनम्। छदिर् उपरितनम् आच्छादनम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देवयज्ञादीनाम्)+++ अ᳓मा᳓त्योऽसि ।  
 शुक्र᳓स्+++(=हिरण्यं)+++ ते +++(परि)+++ग्र᳓हः +++(सहिरण्येन पाणिना ग्रहणात् क्रयणाद् वा)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,10 +201,13 @@ thy libation is bright.
 
 किञ्च - शुक्रो हिरण्यं तव ग्रहः परिग्रहः, हिरण्येन त्वं प्राप्यसे गृह्यसे वा, सहिरण्येन पाणिना ग्रहणात्क्रयणाद्वा ॥
 </details>
+</details>
 
 ## मानम्, उपसमूहनम्
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अतिच्छन्दसर्चा सोमं मिमीते - **अभित्यं देवम्** इति ।
@@ -217,6 +228,7 @@ ________
 > “क्षौमं वासो द्वि-गुणं त्रि-गुणं वा प्राग्-दशम् उत्तर-दशं वा चर्मण्य् आस्तृणात्य् उदग्-दशं वा तस्मिन् हिरण्य-पाणिर् अङ्गुष्ठेन कनिष्ठिकया चाङ्गुल्यांऽशून् संगृह्य न्यचन्न् 'अभि त्यं देवं सवितारम्' इत्य् अतिच्छन्दसर्चा मिमीते” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/06_soma-mAnAdikam/02_abhi_tyan.md">
@@ -324,6 +336,8 @@ The golden-banded sage hath measured the heaven with his form.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अवशिष्टं सोमं मितेनोपसमूहति - प्रजाभ्य इति ॥
@@ -338,11 +352,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस् त्वा +++(अवशिष्टम् उपसमूहामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,18 +385,24 @@ For offspring thee!
 
 हे सोमाशेष, प्रजार्थं त्वां समूहामि,
 </details>
+</details>
 
 ## सन्नहनम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4उष्णीषेणोपसन्नह्यति - प्राणायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य त्वा +++(सोमम् उपनह्यामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,17 +433,23 @@ For expiration thee!
 
 प्राणार्थं त्वाम् उपनह्यामि,
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5बन्धनं शिथिलीकरोति - व्यानायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य त्वा +++(अनुशृन्थामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,17 +475,23 @@ For cross-breathing thee!
 
 व्यानार्थं त्वां विस्रंसयामि।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमानमवेक्षयति सोमं - प्रजा इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓स् त्व᳓म् अ᳓नु प्रा᳓णिहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +512,14 @@ Breathe thou after offspring.
 
 हे सोम प्रजा अनु त्वं प्राणिहि प्रजार्थं जीवेत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓स् त्वा᳓म् अ᳓नु प्रा᳓णन्तु ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -516,6 +554,7 @@ Let offspring breathe after thee.
 इति।
 
 दश-कृत्वो ऽङ्गुलिभिर् मितात् सोमस्यानाधिक्ये सत्य् एतस्मिन् सदस्य् अवस्थितानाम् अपि सोमो न स्यान् मन्त्रेण समूहने तु यजमानम् अनु सदस्यान् सोमं प्रापयति। प्राण-व्यानयोः पशुषु स्थापितत्वात् स्वापे ऽपि नास्ति प्राण-परित्यागः।
+</details>
 </details>
 
 इति द्वितीये षष्ठोनुवाकः  

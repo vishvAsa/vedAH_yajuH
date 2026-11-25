@@ -2,6 +2,8 @@
 title = "०३ मुहूर्त-कलनम्"
 unicode_script = "devanagari"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 नक्षत्रेष्टिकाण्डम्‌
@@ -14,12 +16,15 @@ unicode_script = "devanagari"
 - प्रत्येकोऽपि कालो दिवसस्य पञ्चमो भाग इति सायणः। प्रत्येकोऽप्यसौ ३-मुहूर्तात्मकः। 
 
 </details>
+</details>
 
 ## कालविभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य सवितुᳶ᳓ प्रातᳶ᳓ प्रसवᳶ᳓ प्राणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -37,11 +42,14 @@ unicode_script = "devanagari"
 सवितुर्निजोदयेन सर्वस्य प्रेरयितुः देवस्य प्रसवः अनुज्ञैव स प्रातःकालः, तत्र सर्वाणि कर्माणि निजोदयेन देवोऽनुजानातीति कृत्वा, अत एव प्राणः प्राणस्थानीयः कर्मणाम् ।  
 अनेन कर्माणि प्राणन्तीव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य साय᳓म्+++(→प्रदोषः)+++ आसवो᳙ऽपानः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,11 +68,14 @@ unicode_script = "devanagari"
 यद्वा - आच्छेद आसवः कर्मणामुपरमः ।  
 अत एव अपानः अपानस्थानीयः, अपानन्त्येव कर्माणि अनेनेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रतीची᳓नं प्रातस्त᳓नात्, प्राची᳓नँ सङ्गवा᳓त् - त᳓तो देवा᳓ अग्निष्टोम᳓न् नि᳓रमिमत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,11 +95,14 @@ unicode_script = "devanagari"
 प्रातस्तनात् कालात् प्रतीचीनं संगवात् कालात् प्राचीनं दिवसस्याष्टमं द्वितीयम् ।  
 ततः कालात् सारमादाय अग्निष्टोमं निरमिमत देवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓द् आ᳓त्तवीर्यन् निर्मार्गः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,11 +120,14 @@ unicode_script = "devanagari"
 ऋजीषः ।  
 निर्मृज्यते त्यज्यते इति निर्मार्गः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्र᳓स्य सङ्गव᳓स्  त᳓त् पु᳓ण्यन् तेजस्व्य् अ᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,11 +145,14 @@ unicode_script = "devanagari"
 अयं संगवः तृतीयं अष्टमो भागो मित्रस्य ।  
 तत् अनात्तसारत्वात् पुण्यं तेजस्वि उज्ज्वलं अहः अहरकदेशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓र्हि पश᳓वस् समा᳓यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,11 +168,14 @@ unicode_script = "devanagari"
 
 तस्मात् तर्हि तस्मिन् काले पशवस्समायन्ति दिगन्तेषु चरित्वा व्रजं समागच्छन्ति तस्मात्सङ्गवत्वमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रतीची᳓नँ सङ्गवा᳓त्, प्राची᳓नं मध्य᳓न्दिना᳓त् - त᳓तो देवा᳓ उक्थ्य᳙न् नि᳓रमिमत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,11 +195,14 @@ unicode_script = "devanagari"
 तत्तदित्यादि ।  
 गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓द् आ᳓त्तवीर्यन् निर्मार्गः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,11 +213,14 @@ unicode_script = "devanagari"
 
 त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तेर् मध्य᳓न्दिनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,11 +236,14 @@ unicode_script = "devanagari"
 
 अथ बृहस्पतेर्मध्यन्दिनः पश्चमोऽष्टमांशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् पु᳓ण्यन् तेजस्व्य् अ᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,11 +260,14 @@ unicode_script = "devanagari"
 तत्पुण्यमित्यादि ।  
 गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓र्हि ते᳓क्ष्णिष्ठन्+++(=तीक्ष्णतमं)+++ तपति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,11 +284,14 @@ unicode_script = "devanagari"
 तस्मात्तर्हि तदानीं तेक्ष्णिष्ठं तीक्ष्णतमं तपति तपनः ।  
 छान्दसमेत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रतीची᳓नं मध्य᳓न्दिनात्, प्राची᳓नम् अपराह्णा᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,11 +310,14 @@ unicode_script = "devanagari"
 तदित्यादि ।  
 गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो देवा᳓ष् षोडशि᳓नन् नि᳓रमिमत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -287,11 +328,14 @@ unicode_script = "devanagari"
 
 त᳓तः । देवाः᳓ । षोडशि᳓नम् । निः᳓ । अमिमत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓द् आ᳓त्तवीर्यन् निर्मार्गः᳓ ॥ 16 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,11 +346,14 @@ unicode_script = "devanagari"
 
 त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ᳓गस्यापराह्णः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -322,11 +369,14 @@ unicode_script = "devanagari"
 
 अथ भगस्य सप्तमोऽष्टमांशः अपराह्णः, तत्पुण्यं, तेजस्वि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् पु᳓ण्यन् तेजस्व्य् अ᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -337,11 +387,14 @@ unicode_script = "devanagari"
 
 त᳓त् । पु᳓ण्यम् । तेजस्-वी᳓ । अ᳓हः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अपराह्णे᳓ कुमार्यो᳙ भ᳓गम् इच्छ᳓मानाश् चरन्ति +++(मण्डिताः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -357,11 +410,14 @@ unicode_script = "devanagari"
 
 तस्मात् तदानीं कुमार्यो भगं श्रियं सौभाग्यमिच्छन्त्यः चरन्ति मण्डनपरा वर्तन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रतीची᳓नम् अपराह्णा᳓त्, प्राची᳓नँ साया᳓त्- त᳓तो देवा᳓ अतिरात्र᳓न् नि᳓रमिमत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -381,11 +437,14 @@ unicode_script = "devanagari"
 तदित्यादि ।  
 गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓द् आ᳓त्तवीर्यन् निर्मार्गः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -396,11 +455,14 @@ unicode_script = "devanagari"
 
 त᳓त् । त᳓दा । अ᳓त्त । वीर्यम् । निर्मार्गः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य साय᳓म्+++(=प्रदोष इति भास्करमते युक्ते)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -416,11 +478,14 @@ unicode_script = "devanagari"
 
 अथ वरुणस्य सायं प्रदोषकालः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् पु᳓ण्यन् तेजस्व्य् अ᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -438,12 +503,15 @@ unicode_script = "devanagari"
 ब्राह्मणं हि भवति - 'अनृतवादिनो वरुणो हिनस्ति'इति, 'अतृते खलु वै क्रियमाणे वरुणो गृह्णाति'इति च ।  
 तूष्णीमेवासनं वरमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓र्हि ना᳓नृतव्ँ वदेत् ॥ 17 ॥  
 +++(ब्राह्मणं हि भवति - 'अनृतवादिनो वरुणो हिनस्ति' इति।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,12 +522,15 @@ unicode_script = "devanagari"
 
 त᳓स्मात् । त᳓र्हि । न᳓ । अ᳓नृतम् । वदेत् ।
 </details>
+</details>
 
 ## ब्राह्मणपात्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणो᳓ वा᳓ अष्टाविँशो᳓ न᳓क्षत्राणाम् +++(पुण्याहवाचनमुहूर्तकारीति कृत्वा, तत्रापि देवनक्षत्रम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -475,12 +546,15 @@ unicode_script = "devanagari"
 
 6 ब्रह्मणो वा इत्यादि ॥ अष्टाविंशमिदं नक्षत्रं ब्राह्मणो नाम । अष्टविंशतेः पूरणोऽष्टाविंशः । नक्षत्राणीवायमपि पुण्याहवाचनमुहूर्तकारीति कृत्वा ।
 </details>
+</details>
 
 ## संवत्सरगुप्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समान᳓स्या᳓ह्नᳶ +++(प्रातस्सङ्गवादयो भागाः)+++ प᳓ञ्च पु᳓ण्यानि न᳓क्षत्राणि +++(तदंशोपेतत्वात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,11 +565,14 @@ unicode_script = "devanagari"
 
 समान᳓स्य । अ᳓ह्नः । प᳓ञ्च । पु᳓ण्यानि । न᳓क्षत्राणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सन्धिभागाः)+++ चत्वा᳓र्य् अश्लीला᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,11 +590,14 @@ unicode_script = "devanagari"
 अथ अश्लीलानि अशोभनानि चत्वारि अग्निष्टोमोक्थ्यषोडश्यतिरात्रोत्पत्त्या हृतसाराणि ।  
 तान्युभयानि संहत्य नव भवन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि न᳓व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,12 +608,15 @@ unicode_script = "devanagari"
 
 ता᳓नि । न᳓व ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च् च पर᳓स्तान् +++(रात्रौ)+++ न᳓क्षत्राणाय्ँ य᳓च् चाव᳓स्तात् +++(सूर्योदयात् प्राक्)+++, +++(ताव् आहत्य)+++ ता᳓न्य् ए᳓कादश ।  
 ब्राह्मणो᳓ द्वादशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -546,11 +629,14 @@ unicode_script = "devanagari"
 
 य᳓त् । च । पर᳓स्तात् । न᳓क्षत्राणाम् । य᳓त् । च । अव᳓स्तात् । ता᳓नि । ए᳓कादश । ब्राह्मणः᳓ । द्वादशः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् +++(१२-कालात्मकस्याह्नो १२-मासात्मकसंवत्सरस्येव भावितं व्रतं चरित्वा)+++ सव्ँ वत्सरव्ँ᳓ व्रत᳓ञ् +++(इव)+++ च᳓रति, सव्ँ वत्सरे᳓णैवा᳓स्य व्रत᳓ङ् गुप्तं᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -568,12 +654,15 @@ unicode_script = "devanagari"
 7 अथ यच्च परस्तान्नक्षत्राणां सायंकालात्पूर्वा सन्ध्या यच्चावस्तात् प्रातस्सन्ध्या ते द्वे भवतः । अथ ताभ्यां संहतानि एकादश भवन्ति । ब्राह्मणो द्वादशः । इदं नक्षत्रकार्यकारित्वं ब्राह्मणस्य ।  
 एवं ब्राह्मणेन सह द्वादशत्वान्वयात् संवत्सरं संवत्सरस्थानीयं ऐकाहिकं व्रतं कर्म विद्वान्यश्चरति अस्य एतत् व्रतं एकेनाह्ना क्रियमाणमपि संवत्सरेण गुप्तं भवति । केचिदाहुः - 'शुक्रं परस्तात् ज्योतिरवस्तात्' इति उक्ते तयोरपि तस्मिन्नक्षत्रे क्रियमाणस्य कर्मणः साद्गुण्यहेतुत्यात् संवत्सरसिद्धिरिति ।
 </details>
+</details>
 
 ## संवत्सरगुप्तिर् मार्गान्तरेण
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समान᳓स्या᳓ह्नᳶ +++(प्रातस्सङ्गवादयो भागाः)+++ प᳓ञ्च पु᳓ण्यानि न᳓क्षत्राणि +++(तदंशोपेतत्वात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,11 +678,14 @@ unicode_script = "devanagari"
 
 समानस्येत्यादिना अन्यथा द्वादशत्वं प्रतिपादयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सन्धिभागाः)+++ चत्वा᳓र्य् अश्लीला᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -604,11 +696,14 @@ unicode_script = "devanagari"
 
 चत्वा᳓रि । अ-श्लीला᳓नि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि न᳓व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -619,11 +714,14 @@ unicode_script = "devanagari"
 
 ता᳓नि । न᳓व ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयी᳓ रा᳓त्रिः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -641,11 +739,14 @@ unicode_script = "devanagari"
 गतमन्यत् ॥  
 इति पञ्चमे तृतीयोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓म् अ᳓हः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,11 +757,14 @@ unicode_script = "devanagari"
 
 ऐन्द्र᳓म् । अ᳓हः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्य् ए᳓कादश ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -671,11 +775,14 @@ unicode_script = "devanagari"
 
 ता᳓नि । ए᳓कादश ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यो᳓ द्वादशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -686,11 +793,14 @@ unicode_script = "devanagari"
 
 आदित्यः᳓ । द्वादशः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् +++(१२-कालात्मकस्याह्नो १२-मासात्मकसंवत्सरस्येव भावितं व्रतं चरित्वा)+++ सव्ँ वत्सरव्ँ᳓ व्रत᳓ञ् +++(इव)+++  च᳓रति, सव्ँ वत्सरे᳓णैवा᳓स्य व्रत᳓ङ् गुप्तं᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,4 +811,5 @@ unicode_script = "devanagari"
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यः᳓ । एव᳓म् । विद्वा᳓न् । सम्-वत्सर᳓म् । व्र । त᳓न् । च᳓रति । सम्-वत्सरे᳓ण । एव᳓ । अस्य । व्र । त᳓ङ् । गुप्त᳓म् । भवति ।
+</details>
 </details>

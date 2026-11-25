@@ -8,6 +8,8 @@ unicode_script: devanagari
 एक-विँश᳓ एष᳓ भवति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒-विँ॒श ए॒ष भ॑वति ।
@@ -22,11 +24,14 @@ unicode_script: devanagari
 
 1 एकविंश इत्यादि ॥ एष वक्ष्यमाणो विषुवान् एकविंशः । एकविंशस्तोमकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓न वै᳓ देवा᳓ एक-विँशे᳓नादित्य᳓म् इत᳓ उत्तमँ᳓ सुवर्गल्ँ᳓ लोक᳓म् आ᳓रोहयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 एतेन वा इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वा᳓ एष᳓ इत᳓ एक-विँशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +66,14 @@ unicode_script: devanagari
 
 सः᳓ । वै᳓ । एषः᳓ । इतः᳓ । एक-विंशः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य द᳓शाव᳓स्ताद् अ᳓हानि द᳓श पर᳓स्तात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,11 +90,14 @@ unicode_script: devanagari
 
 स वा इत्यादि । स एष वक्ष्यमाण इतोपि हेतोः एकविंशः, तस्य दशावस्तादहानि परस्ताच्च दश अहानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वा᳓ एष᳓ वि-रा᳓ज्य् उभय᳓तᳶ प्र᳓तिष्ठितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -99,11 +113,14 @@ unicode_script: devanagari
 
 सः अयं मध्ये पृष्ठवंशस्थानीय उभयतः अवस्तात् परस्ताच्च विराजि प्रतिष्ठितः । कथं ? पृष्ठ्यः षडहः, विश्वजित्, त्रयः परस्सामानः विषुवान्, परतो व्यावृत्तास्त्रयः परस्सामानः, अभिजित्, पृष्ठ्यः पडह आवृत्त इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जि हि᳓ वा᳓ एष᳓ उभय᳓तᳶ प्र᳓तिष्ठितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,11 +136,14 @@ unicode_script: devanagari
 
 2 विराजि हीत्यादि ॥ एष खल्वादित्योपि हि विराज्युभयतः प्रतिष्ठितः अवस्तात् पञ्चशतानि रश्मयः परस्ताच्च पञ्चशतानि मध्ये विराजि प्रतिष्ठितो भवति । यद्वा - प्रधानभूतैर्दशभिः रश्मिभिः अवस्तात्परस्ताच्च उभयतः प्रतितिष्ठतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अन्तरे᳓मौ᳓ लोकौ᳓ य᳓न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,11 +154,14 @@ unicode_script: devanagari
 
 त᳓स्मात् । अन्तरा᳓ । इमौ᳓ । लोकौ᳓ । य᳓न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वेषु सुवर्गे᳓षु लोके᳓ष्व् अभि-त᳓पन् नेति ॥37॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -149,11 +172,14 @@ unicode_script: devanagari
 
 स᳓र्वेषु । सुवर्गे᳓षु । लोके᳓षु । अभि-त᳓पन् । न । इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वा᳓ आदित्य᳓स्य सुवर्ग᳓स्य लोक᳓स्य प᳓राचो ऽति-पादा᳓द् अबिभयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,12 +195,15 @@ unicode_script: devanagari
 
 तस्मादित्यादि । ऊर्ध्वमतिगमनात् देवा अबिभयुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ञ् छ᳓न्दोभि᳓र् अ᳓दृँ᳓ह᳓न् ,   
 धृ᳓त्यै +++(भवन्ति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,11 +219,14 @@ unicode_script: devanagari
 
 तत्परिहाराय तं आदित्यं छन्दोभिः गायत्र्यादिभिः सावनैः अदृंहन् स्तम्भितवन्तः रज्जुभिर्बद्धमिवाकुर्वन् । तस्माद्धृत्यै भवन्ति छन्दांसि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वा᳓ आदित्य᳓स्य सुवर्ग᳓स्य लोक᳓स्या᳓वाचो ऽवपादा᳓द् अबिभयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,11 +244,14 @@ unicode_script: devanagari
 3 देवा वा इत्याति ॥  
 अवाचोऽवपादात् अधस्तात् न्यक्पतनात् अबिभयुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् पञ्च᳓भी रश्मि᳓भिर् उ᳓दवयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,11 +267,14 @@ unicode_script: devanagari
 
 तत्परिहाराय पञ्चभी रश्मिभिरादित्यं उदवयन् ऊर्ध्वमुत्तम्भितवन्तः ऊर्ध्वमिवाकुर्वन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् एकविँशे᳓ ऽहन् प᳓ञ्च दिवा-कीर्त्या᳙नि क्रियन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,11 +291,14 @@ unicode_script: devanagari
 तस्मादेकविंशेऽह्नि विषुवति पञ्च दिवाकीर्त्यनामानि क्रियन्ते ।  
 रश्मिस्थानीयानि हि दिवाकीर्त्यानि सामानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्म᳓यो वै᳓ दिवा-कीर्त्या᳙नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,11 +309,14 @@ unicode_script: devanagari
 
 रश्म᳓यः । वै᳓ । दिवा-कीर्त्या᳙नि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ गायत्रे᳓ ते᳓ गायत्री᳓षु᳓+ उ᳓त्तरयोᳶ प᳓वमानयोः ॥38॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,11 +333,14 @@ unicode_script: devanagari
 
 तत्र ये भ्राजाभ्राजे नाम दिवाकीर्त्ये गायत्रे प्रातस्सवने ते एव उत्तरयोः पवमानयोः मध्यन्दिने आर्भवे च कार्ये । विशेषस्तु सावनच्छन्दो हित्वा गायत्रीष्वेव कार्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महा᳓-दिवा-कीर्त्यँ हो᳓तुᳶ पृष्ठव्ँ᳓ , वि᳓कर्ण᳓म् ब्रह्म-साम᳓म् , भासो᳙ ऽग्निष्टोमः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,11 +358,14 @@ unicode_script: devanagari
 अय माध्यन्दिनं महादिवाकीर्त्यं नाम होतुः पृष्ठं पृष्ठानां प्रथमम् । तत्रेव विकर्णं नाम ब्रह्मसामं कार्यं पृष्ठानां तृतीयं ब्रह्मणः साम ब्रह्मसामम् । 'अनसन्तान्नपुंसकात्'इत्यच् समासान्तः ।
 अथ तृतीयसवने भासो नाम अग्निष्टोमसाम कार्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थैता᳓नि प᳓राणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -326,11 +376,14 @@ unicode_script: devanagari
 
 अ᳓थ । एता᳓नि । प᳓राणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रैर् वै᳓ देवा᳓ आदित्यँ᳓ सुवर्गल्ँ᳓ लोक᳓म् अपारयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,11 +403,14 @@ unicode_script: devanagari
 यद्वा - पृ प्रीतौ ।  
 आदित्यमप्रीणयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓पारयन्न् त᳓त् प᳓राणाम् परत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,11 +427,14 @@ unicode_script: devanagari
 
 तस्मात् पराणां परस्साम्नां परत्वम् । ऋदोरप्, पचाद्यच् वा । वृषादिर्द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार᳓यन्त्य् एनम् प᳓राणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,11 +453,14 @@ unicode_script: devanagari
 अथ य एवं वेद पराणां परत्वं एनं वेदितारं पराणि पारयन्ति प्रतिष्ठितैश्वर्यं कुर्वन्ति ।  
 परैरिति कर्तरि तृतीया न हेतौ, पारयन्त्येनं पराणीति कर्तृत्वदर्शनात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,11 +471,14 @@ unicode_script: devanagari
 
 यः᳓ । एव᳓म् । वे᳓द ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ+ एता᳓नि स्प᳓राणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,11 +489,14 @@ unicode_script: devanagari
 
 अ᳓थ । एता᳓नि । स्प᳓राणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्प᳓रैर् वै᳓ देवा᳓ आदित्यँ᳓ सुवर्गल्ँ᳓ लोक᳓म् अस्पारयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,11 +507,14 @@ unicode_script: devanagari
 
 स्प᳓रैः । वै᳓ । देवाः᳓ । आदित्य᳓म् । सुवः-ग᳓म् । लोक᳓म् । अस्पारयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓स्पारयन्न् त᳓त् स्प᳓राणाँ स्परत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -464,11 +535,14 @@ unicode_script: devanagari
 एवं परस्परात्मकं नामद्वयं परस्साम्नां दर्शितम् ॥  
 इति द्वितीये चतुर्थोऽनुवाकः॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्पार᳓यन्त्य् एनँ स्प᳓राणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,11 +553,14 @@ unicode_script: devanagari
 
 स्पार᳓यन्ति । एनम् । स्प᳓राणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द ॥39॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,4 +570,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यः᳓ । एव᳓म् । वे᳓द ।
+</details>
 </details>

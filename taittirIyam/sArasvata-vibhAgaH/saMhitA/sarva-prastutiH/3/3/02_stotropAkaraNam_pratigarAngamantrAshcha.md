@@ -3,6 +3,8 @@ title = "०२ स्तोत्रोपाकरणम्, प्रति�
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ स्तोत्रोपाकरणं जपति - वायुरिति ॥ 
@@ -11,6 +13,7 @@ title = "०२ स्तोत्रोपाकरणम्, प्रति�
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒युर्हि॑ङ्क॒र्ताऽग्निᳶ प्र॑स्तो॒ता प्र॒जाप॑ति॒स्साम॒ बृह॒स्पति॑रुद्गा॒ता विश्वे॑ दे॒वा उ॑पगा॒तारो॑ म॒रुतᳶ॑ प्रतिह॒र्तार॒ इन्द्रो॑ नि॒धन॒न्ते दे॒वाᳶ प्रा॑ण॒भृतᳶ॑ प्रा॒णम्मयि॑ दधतु
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,6 +26,8 @@ title = "०२ स्तोत्रोपाकरणम्, प्रति�
 मरु᳓तᳶ प्रतिहर्ता᳓र  
 इ᳓न्द्रो निध᳓नम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,11 +48,14 @@ The maker of the sound 'Him' is Vayu, the Prastotr is Agni, the Saman is Prajapa
 
 हिंकर्ता हिंकारस्य कर्ता वायुर्भवति, प्रस्तोता प्रस्तुवन्नग्निर्भवति । प्रस्तावो गानस्य प्रारम्भः । साम गानं तत्स्वयं प्रजापतिर्भवति, उद्गाता बृहस्पतिर्भवति, उपगातारो विश्वेदेवा भवन्ति, प्रतिहर्तारो मरुतो भवन्ति, निधनं साम्न इन्द्रो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवाᳶ᳓ प्राणभृ᳓तᳶ, प्राण᳓म् म᳓यि दधतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,6 +76,9 @@ may these gods who support breath bestow breath upon me.
 
 ते वाय्वादयो हिंकर्ताद्यादिनो देवाः प्राणभृतः साम्नः प्राणं बलं आत्मानं वा बिभ्रतीति प्राणभृतः मयि प्राणं दधतु स्थापयतु । जातावेकवचनम् । प्राणापानादीन् चक्षुश्श्रोत्रादींश्चेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -78,12 +89,15 @@ may these gods who support breath bestow breath upon me.
 
 2अथात्र ब्राह्मणम् - एतद्वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 एत᳓द् वै᳓ स᳓र्वम् अध्वर्यु᳓र् उपाकुर्व᳓न्न्  
 उद्गातृ᳓भ्य उपा᳓करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -104,11 +118,14 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 
 एतत्सर्वमेतानि सर्वाणि वाय्वाद्यात्मकानि हिंकर्त्रादीनि उपाकरोति साम्नि प्रवर्तयत्यध्वर्युः । किं कुर्वन्? उद्गातृभ्य उपाकुर्वन् उपाकरणमिदं जपन् । 'नपुंसकमनपुंसकेन' इति नषुंसकैकशेषः, एकवद्भावश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ते᳓ देवाᳶ᳓ प्राणभृ᳓तᳶ प्राण᳓म् म᳓यि दधत्व्" इ᳓त्य् आह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,11 +146,14 @@ All this the Adhvaryu, as he begins, begins for the Udgatrs;
 
 किं चायमध्वर्युः ते देवाः प्राणभृतः प्राणं मयि दधत्वित्याह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् एव᳓ स᳓र्वम् आत्म᳓न् धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,8 +174,10 @@ verily he bestows all this on himself.
 
 यस्मादेवमाह, तस्मादेतत्सर्वं हिंकर्त्रादीनि सर्वाण्यपि आत्मन् धत्ते आत्मनि स्थापयति स्वयमेव हिंकर्तादिना प्रतिपद्यते । 'सुपां सुलुक्' इति सप्तम्याः लुकि 'न ङिसम्बुध्योः' इति नलोपाभावः ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -166,6 +188,7 @@ verily he bestows all this on himself.
 
 इडा॑ देव॒हूर्मनु॑र्यज्ञ॒नीर्बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द्विश्वे॑ दे॒वाः [3]  सू॒क्त॒वाच॒ᳶ पृथि॑वि मात॒र्मा मा॑ हिँसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्य॒स्तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरोऽनु॑ मदन्तु ॥ [4]  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -173,6 +196,8 @@ verily he bestows all this on himself.
 म᳓नुर् यज्ञ-नी᳓र्,  
 बृ᳓हस्-प᳓तिर् उक्था-मदा᳓नि+++(=प्रतिगरान्)+++ **शँसिषत्** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,11 +226,14 @@ May Brhaspati recite the hymns and acclamations.
 **शंसिषत्** शंसति शस्त्राणि शंसति  
 मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓स् सूक्त-वा᳓चः  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,11 +254,14 @@ The All-gods [1] are reciters of the hymns.
 
 विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓थिवि मातर् मा᳓ मा हिँसीः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +282,10 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -263,6 +293,8 @@ O earth mother, do not harm me.
 म᳓धु **वक्ष्यामि** ।  
 म᳓धु **वदिष्यामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -291,12 +323,15 @@ I will think the honey (Pravargya), I will produce the honey, I will speak the h
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
 शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -325,12 +360,15 @@ may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
 पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -359,5 +397,5 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-
+</details>
 </div>

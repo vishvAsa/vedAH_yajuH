@@ -10,6 +10,8 @@ unicode_script: devanagari
 न᳓व᳓+ एता᳓न्य् अ᳓हानि भवन्ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 नव ए॒तान्य् अहा॑नि भवन्ति ।
@@ -24,11 +26,14 @@ unicode_script: devanagari
 
 1 अथ गवामयनब्राह्मणम्, वैश्वदेवं काण्डं पञ्चानुवाकाः । नवैतान्यहानीत्यादि ॥ तत्र संवत्सरस्य गर्भभूतानि नवाहानि एतानि वक्ष्यमाणानि भवन्ति, तत्स्वरूपमिदानीं ब्रूम इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓व वै᳓ सुवर्गा᳓ लोकाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,11 +49,14 @@ unicode_script: devanagari
 
 नवधा भिद्यते सः स्वर्गादिभेदेन नवधा भिन्नत्वात् देवानाम् । यद्वा - नवधा भिन्नैश्वर्याः स्वर्गाः पृथिव्यादिप्राजापत्यान्ता लोकाः, भोगभूमयो वा नव प्राणाः नव स्वर्गाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एता᳓न्य् अ᳓हान्य् उपय᳓न्ति नव᳓स्व् एव᳓ त᳓त् सुवर्गे᳓षु लोके᳓षु सत्रि᳓णᳶ प्रति-ति᳓ष्ठन्तो यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,12 +73,15 @@ unicode_script: devanagari
 
 तत् तस्मादेषामह्नां उपायनेन नवसु स्वर्गेषु लोकेषु सत्रिणः प्रतितिष्ठन्तः प्रत्येकरस्य तद्भोगं भुञ्जाना यन्ति गच्छन्ति अविच्छेदेन वर्तन्ते । यद्वा - नवानामह्नां उपायनमेव नवसु स्वर्गेषु प्रतिष्ठात्वेन रूप्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अग्निष्टोमाᳶ᳓ प᳓रस् सामानᳵ कार्या᳙" इ᳓त्य् आहुः ।  
 "अग्निष्टोम᳓-सम्मितस् सुवर्गो᳓ लोक᳓" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -88,11 +99,14 @@ unicode_script: devanagari
 2 एवंभूतानामह्नां इदानीं स्वरूपं दर्शयति - अग्निष्टोमा इत्यादि ॥ अग्निष्टोमसामसंस्थाः अग्निष्टोमाः, द्वादश स्तोमाः, तादृशाः परस्सामानः कार्याः कर्तव्या इत्याहुः ।  
 हेतुं चाहुः - अग्निष्टोमसम्मितः तुल्यः सुवर्गो लोक इति । तुल्यत्वं चेदानीं वक्ष्यते - अत्र स्वर्गशब्देन संवत्सर उच्यते । 'संवत्सरस्सुवर्गो लोकः' इति च ब्राह्मणम् । तस्मादग्निष्टोमसंवत्सरयोः साम्यात् संवत्सरात्मनो गर्भस्य नवाहस्य सम्बन्धिनामह्नामग्निष्टोमत्वं न्याय्यमिति तेषामभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दशाग्निष्टोम᳓स्य स्तोत्रा᳓णि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -109,11 +123,14 @@ unicode_script: devanagari
 संवत्सराग्निष्टोमयोः साम्ये अन्यत् ब्राह्मणं दर्शयति - द्वादशेति ।  
 द्वादशत्वसङ्ख्यान्वयेन द्वयोस्साम्यमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश मा᳓सास् सव्ँवत्सरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,11 +141,14 @@ unicode_script: devanagari
 
 द्वा᳓दश । मा᳓साः । सम्-वत्सरः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓न् न᳓ सू᳓र्क्ष्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,11 +164,14 @@ unicode_script: devanagari
 
 3 एतद्दूषयति - तदित्थादि ॥ तत् तेषां मतं न सूर्क्ष्यं नादृत्यम् । सूर्क्ष आदरे तच्छब्दादामः षष्ठीबहुवचनस्य 'सुपां सुलुक्'इति लुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्थ्या᳙ एव᳓ सप्तदशाᳶ᳓ प᳓रस्-सामानᳵ कार्याः᳙ ॥28॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,11 +187,14 @@ unicode_script: devanagari
 
 कथं तर्हि कर्तव्याः परस्सामान इत्याह – उक्थ्या एवेत्यादि । सप्तदशाः सर्वसंस्था उक्थ्याः कार्याः दशसामान अग्निष्टोमाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ उक्था᳓नि, पशूना᳓म् अ᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -185,11 +211,14 @@ unicode_script: devanagari
 
 हेतुं चाह - पशवो वा इत्यादि । तद्धेतुत्वात्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वजिदभिजि᳓ताव् अग्निष्टोमौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,11 +234,14 @@ unicode_script: devanagari
 
 किमस्मिन्नवाहे अग्निष्टोमो नास्त्येवेत्याह – विश्वजिदभिजितौ अग्निष्टोमावेव कार्यौ परस्सामान एकोक्थ्या इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्थ्या᳙स् सप्तदशाᳶ᳓ प᳓रस्-समानः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,11 +252,14 @@ unicode_script: devanagari
 
 उक्थ्याः᳙ । सप्त-दशाः᳓ । प᳓रः । सम् । आनः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ सँ᳓स्तुता विरा᳓जम् अभि᳓-स᳓म्पद्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,11 +276,14 @@ unicode_script: devanagari
 4 इदानीं ज्येतिर्गौरायुश्चेति ते उक्त्या इति दर्शयितुं तत्प्राशस्त्यमाह - ते संस्तुता इत्यादि ॥ अत्रेयमह्नां कॢप्तिः - नवाहस्य आदावन्ते च विश्वजिदभिजितौ, मध्ये विषुवान् । तमभितस्त्रयः परस्सामान इति ।
 ते सर्वे पूर्वोक्ता इति ज्योतिरादयः सहसंस्तुताः सहपरिगणिताः स्तोत्रीयाभिः विराजं दशहरात्मभिः सम्पद्यन्ते, विराट्सम्पदा परिसमाप्तिं गच्छन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वे᳓ च᳓र्चाव् अ᳓ति-रिच्येते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -264,11 +302,14 @@ unicode_script: devanagari
 आयुस्तु एकया स्तोत्रीयया ऊनो भवति, एकोनषष्ट्यधिकं शतद्वयं स्तोत्रीया इति कृत्वा ।  
 एवं विराट्सम्पत्त्या ज्योतिषो गुणवत्त्वात्त्रयाणामपि मध्ये तस्य प्राशस्त्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कया गौ᳓र् अ᳓तिरिक्तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,11 +320,14 @@ unicode_script: devanagari
 
 ए᳓कया । गौः᳓ । अ᳓ति-रिक्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कया᳓ ऽऽयुर् ऊनः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,11 +338,14 @@ unicode_script: devanagari
 
 ए᳓कया । अ᳓युः । ऊनः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर् , ऊ᳓र्ग् विरा᳓ट् , सुवर्ग᳓म् एव᳓ ते᳓न लोक᳓म् अभि᳓-जयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -317,11 +364,14 @@ unicode_script: devanagari
 किञ्च - सुवर्गो वै लोको ज्योतिः तत्साधनत्वात् ।
 विराट् नाम ऊर्क् अन्नम् । तस्माद्विराट्सम्पत्तिद्वारेण स्वर्गमभिजयन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प᳓रँ रा᳓थन्तरन् त᳓त् प्रथमे᳓ ऽहन् कार्य᳙म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,11 +388,14 @@ unicode_script: devanagari
 
 5 यत्परमित्यादिना परस्साम्नां प्रतिष्ठा रूपयन् सामानि विदधाति ॥ राथन्तरं रथन्तरभक्तिं पृथिवीं 'मनसा ध्यायेत् प्रस्तूयमाने सम्मीलयेत्'इत्यादिधर्मयुक्तं यत् परं परस्साम तत् प्रथमेऽह्नि कार्यम् । यदा परस्सामभूतविषुवतः पूर्वेष्वहस्स्वितः पराञ्चो गृह्यन्ते तदा कार्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓द् द्विती᳓ये +++(ऽह᳓न् कार्य᳙म् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,11 +412,14 @@ unicode_script: devanagari
 एवं बृहद्वैरूपभक्तिके परे द्वितीयतृतीययोरह्नोः कार्ये ।  
 अथ उत्तरेष्वहस्सु यदा अमुतोऽर्वाञ्चो गृह्यन्ते तदा वैराजशाक्वररैवतभक्तीनि पराणि चतुर्थपञ्चमषष्ठेष्वहस्सु कार्याणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैरूप᳓न् तृती᳓ये +++(ऽह᳓न् कार्य᳙म् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,11 +430,14 @@ unicode_script: devanagari
 
 वा । एरू । प᳓न् । तृती᳓ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैराज᳓ञ् चतुर्थे᳓ +++(ऽह᳓न् कार्य᳙म् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,11 +448,14 @@ unicode_script: devanagari
 
 वै । राज᳓न् । चतुर्थे᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाक्वर᳓म् पञ्चमे᳓ +++(ऽह᳓न् कार्य᳙म् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,11 +466,14 @@ unicode_script: devanagari
 
 शाक्वर᳓म् । पञ्चमे᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रैवतँ᳓ षष्ठे᳓ +++(ऽह᳓न् कार्य᳙म् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,11 +484,14 @@ unicode_script: devanagari
 
 रैवत᳓म् । षष्ठे᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द्  उ पृष्ठे᳓भ्यो न᳓यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,11 +507,14 @@ unicode_script: devanagari
 
 तत् तथा कुर्वन्तः पृष्ठेभ्य एव परान् नयन्ति । पृष्ठ्यैः षडहतां परस्माम्नः प्रापयन्ति सत्रिणः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्त᳓नय एते᳓ ग्र᳓हा गृह्यन्ते ऽति-ग्राह्याᳶ᳙ प᳓रस्-सामसु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,11 +531,14 @@ unicode_script: devanagari
 
 6 अथात्र ग्रहकॢप्तिः परस्साम्रां - सन्तनय इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓न् एवै᳓तै᳓र् लोका᳓न्त् स᳓न्तन्वन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,11 +555,14 @@ unicode_script: devanagari
 परस्सामसु दिवसेषु पूर्वेषु एते अतिग्राह्या ग्रहाः 'अद्भ्यस्त्वौषधीभ्यो गृह्णामि'इति प्रथमः' ओषधीभ्यस्त्वाप्रजाभ्यो गृह्णामि'27इति द्वितीयः, ।  
 'प्रजाभ्यस्त्वा प्रजापतये गृह्नामि'27इति तृतीयः, एते सन्तनयः सन्तता पराञ्चो गृह्यन्ते, एतैरेवंक्रियमाणैरिमान् लोकान् संतन्वन्ति क्रमेण स्थापयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुना᳓ एते᳓ ग्र᳓हा गृह्यन्ते ऽति-ग्राह्याᳶ᳙ प᳓रस्-सामसु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -502,11 +579,14 @@ unicode_script: devanagari
 
 अथोत्तरेषु परस्सामसु एते अतिग्राह्या ग्रहा मिथुना गृह्यन्ते अमुतोऽर्वाञ्चो गह्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुन᳓म् एव᳓ तै᳓र् य᳓जमाना अ᳓व-रुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -525,11 +605,14 @@ unicode_script: devanagari
 'ओषधीभ्यस्त्वा'27इति पञ्चमः, 'अद्भ्यस्त्वा'27इति षष्ठः ।  
 तैः तथाक्रियमाणैः मिथुनमेव यजमाना लभन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓त् पृष्ठ᳓म् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -540,11 +623,14 @@ unicode_script: devanagari
 
 बृह᳓त् । पृष्ठ᳓म् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓द् वै᳓ सुवर्गो᳓ लोको᳓ बृहतै᳓व᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,11 +648,14 @@ unicode_script: devanagari
 7 अथ विषुवतो मध्यमस्याह्नो विशेषानाह - बृहदित्यादि ॥ विषुवत्यह्नि अग्निष्टोमे पृष्ठसाम बृहद्भवति ।
 बृहद्वा इति ॥ तद्धेतुत्वात्ताच्छब्द्यम् । उक्तं च - 'बृहद्वा इमान् लोकान् दाधार' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयस् -त्रिँशि᳓-ना᳓म सा᳓म मा᳓ध्यन्दिने प᳓वमाने भवति ॥31॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,11 +673,14 @@ unicode_script: devanagari
 त्रयस्त्रिशिनाम सामेत्यादि ॥  
 गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस् -त्रिँशद् वै᳓ देव᳓ताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -599,11 +691,14 @@ unicode_script: devanagari
 
 त्र᳓यः । त्रिंशत् । वै᳓ । देव᳓ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता एवा᳓व-रुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,11 +709,14 @@ unicode_script: devanagari
 
 देव᳓ताः । एवा᳓व-रुन्धते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ वा᳓ इतᳶ᳓ प᳓राञ्चँ सव्ँवत्सर᳓म् उपय᳓न्ति  न᳓ ह᳓+ एनन् ते᳓ स्वस्ति᳓ स᳓मश्ञुवते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,11 +733,14 @@ unicode_script: devanagari
 
 8 ये वा इत्यादि ॥ इतो विषुवत ऊर्ध्वं ये संवत्सरं पराञ्चं अनावृत्तमेव पूर्वस्मिन् पक्ष इव उपयन्ति ते खलु एनं संवत्सरं संवत्सरफलं स्वस्ति अविनाशेन न समश्नुवत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ ये᳙ ऽमु᳓तो ऽर्वा᳓ञ्चम् उपय᳓न्ति ते᳓ ह᳓+ एनँ स्वस्ति᳓ स᳓मश्ञुवते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,11 +757,14 @@ unicode_script: devanagari
 
 अथ ये उत्तरस्मिन् पक्षे अमुतोऽन्त्यादारभ्य अर्वाञ्चं संवत्सरं उपयन्ति एनं संवत्सरमविनाशेन प्राप्नुवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् वा᳓ अमु᳓तो ऽर्वा᳓ञ्चम् उ᳓प-यन्ति य᳓द् एव᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -677,11 +781,14 @@ unicode_script: devanagari
 
 एतद्वा इत्यादि ॥ अमुतोऽर्वागुपनयनमिदं यदेवमन्त्यदिवसमारभ्य ग्रहणम् । एवं हि सर्वे दिवसाः विषुवन्तमभिस्सतता भवन्ति । तत्र च त्रयस्त्रिंशिनाम साम भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ ह ख᳓लु वा᳓व᳓ प्रजा᳓पतिस् स᳓ उव् एवे᳓न्द्रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,11 +806,14 @@ unicode_script: devanagari
 9 यो हेत्वादि ॥  
 यः खलु अयं संवत्सरात्मा प्रजापतिः स एवेन्द्रः देवेश्वरो भवतिं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् उ देवे᳓भ्यो न᳓यन्ति ॥32॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -719,4 +829,5 @@ unicode_script: devanagari
 
 तस्मादेव कारणात् देवेभ्यः त्रयस्त्रिंशत्सङ्ख्येभ्यो नयन्ति तेषं प्रीतये यागं कुर्वन्ति ॥  
 इति द्वितीयोऽनुवाकः ॥
+</details>
 </details>

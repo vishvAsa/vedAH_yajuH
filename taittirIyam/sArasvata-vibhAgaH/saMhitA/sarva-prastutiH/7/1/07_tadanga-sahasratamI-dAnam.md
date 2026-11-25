@@ -3,15 +3,20 @@ title = "०७ तदङ्ग-सहस्रतमी-दानम्"
 +++
 ## अभिमन्त्रणम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्रतम्या᳙ वै᳓ य᳓जमानस् सुवर्गल्ँ᳓ लोक᳓म् एति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,11 +39,14 @@ By the thousandth the sacrifice goes to the world of heaven.
 
 सहस्रतम्या यजमानस्स्वर्गं गच्छति सा चैनं स्वर्गं गमयति यद्येतैर्मन्त्रैस्स्तुता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सै᳓नँ सुवर्गल्ँ᳓ लोक᳓ङ् गमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,11 +62,14 @@ She makes him go to the world of heaven.
 
 सा । ए॒न॒म् । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ग॒म॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उदीचीं नीयमानाम् अनुमन्त्रयते-)+++ "सा᳓ मा सुवर्गल्ँ᳓ लोक᳓ङ् गमये᳓"त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,11 +90,14 @@ She makes him go to the world of heaven.
 
 तस्मात् 'सा मा सुवर्गम्' इत्यादिभिरुदीचीं नीयमानामनुमन्त्रयते सा त्वं गच्छन्ती मां सुवर्गं लोकं गमयेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्ग᳓म् एवै᳓नल्ँ लोक᳓ङ् गमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -104,11 +118,14 @@ verily she makes him go to the world of heaven.
 
 सुवर्गं गमयत्येव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सा᳓ मा ज्यो᳓तिष्मन्तल्ँ लोक᳓ङ् गमये᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,11 +146,14 @@ verily she makes him go to the world of heaven.
 
 ज्योतिष्मान् लोकः आदित्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्मन्तम् एवै᳓नल्ँ लोक᳓ङ् गमयति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +169,14 @@ verily she makes him go to the world of light.
 
 ज्योति॑ष्मन्तम् । ए॒व । ए॒न॒म् । लो॒कम् । ग॒म॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सा᳓ मा स᳓र्वान् +++(इन्द्रादीनां)+++ पु᳓ण्याल्ँ लोका᳓न् गम᳓ये᳓"त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,11 +198,14 @@ verily she makes him go to the world of light.
 एक एव मन्त्रोऽवयुत्यैव ब्राह्मणेन व्याख्यायते । गता मन्त्राः, ब्राह्मणानि च ।
 पुण्या लोका इन्द्रादीनां लोकाः ब्रह्मलोकपर्यन्ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वान् एवै᳓नम् पु᳓ण्याल्ँ लोका᳓न् गमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,11 +221,14 @@ verily she makes him go to all holy worlds [1].
 
 सर्वान्॑ । ए॒व । ए॒न॒म् । पुण्यान्॑ । लो॒कान् । ग॒म॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सा᳓ मा +++(लोकेऽस्मिन्)+++ प्रतिष्ठा᳓ङ् गमय । प्रज᳓या पशु᳓भिस् सह᳓ पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +251,14 @@ verily she makes him go to all holy worlds [1].
 
 प्रतिष्ठा प्रजादिभिस्सहास्मिन् लोके धनविषयमैश्वर्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓म् प्र᳓ति ष्ठापयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,11 +274,14 @@ verily she establishes him with offspring and cattle in wealth.
 
 प्र॒जयेति॑ प्र-जया॑ । ए॒व । ए॒न॒म् । प॒शुभि॒रिति॑ प॒शु-भिः॒ । र॒य्याम् । प्रतीति॑ । स्था॒प॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓वान् पशुमा᳓न् रयिमा᳓न् भवति, य एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,6 +303,7 @@ Rich in offspring, cattle, and wealth he becomes who knows thus.
 
 प्रजावानित्यादि । विदुषस्सिद्धिः ॥
 </details>
+</details>
 
 ## दानम्
 
@@ -275,6 +311,8 @@ Rich in offspring, cattle, and wealth he becomes who knows thus.
 
 ता᳓मग्नी᳓धे वा , ब्रह्म᳓णे वा᳓ , हो᳓त्रे वोद्गात्रे᳓ वाध्वर्य᳓वे वा दद्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +335,14 @@ He should give her to the Agnidh, or the Brahman, or the Hotr or the Udgatr, or 
 
 [[TODO: include]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्रम् अस्य सा᳓ दत्ता᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,6 +358,7 @@ In giving her, he gives a thousand.
 
 स॒हस्र॑म् । अ॒स्य॒ । सा । द॒त्ता । भ॒व॒ति॒ ।
 </details>
+</details>
 
 ## प्रतिग्रहणम्
 
@@ -325,6 +367,8 @@ In giving her, he gives a thousand.
 सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति ,
 य᳓स् ता᳓म् अ᳓विद्वान् प्रतिगृह्णा᳓ति ।[30]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -347,12 +391,15 @@ A thousand he accepts who not knowing [2] accepts her.
 
 सहस्रमस्येत्यादि । यस्तामविद्वानिति विशेषं वक्ष्यामीति पुनर्वचनम् । अविदुषा प्रतिगृह्णता सहस्रं प्रतिगृहीतं भवति तस्मादेवं विदित्वा तां प्रतिगृह्णीयात् - 'एकाऽसि' इत्यादिना मन्त्रेण 'सुशेवामाविश' इत्यन्तेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तस्मादेवं विदित्वा)+++ ता᳓म् प्र᳓ति गृ᳓ह्णी᳓या᳓त् -  
 "ए᳓कासि न᳓ सह᳓स्रम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,11 +422,14 @@ He should accept her, (saying), 'Thou art one, not a thousand.
 
 एका त्वमसि न सहस्रं ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कान्त्वा भूता᳓म्प्र᳓ति गृह्णामि , न᳓ सह᳓स्रम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -400,11 +450,14 @@ Thee as one I accept, not a thousand;
 
 तस्मादेकामेव भूतां त्वां प्रतिगृह्णामि, न सहस्रभूताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓का मा भूता᳓ऽऽविश , मा᳓ सह᳓स्रम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -425,12 +478,15 @@ come to me as one, not as a thousand';
 
 तस्मात्त्वमप्येकैव भूता मामाविश, मा सहस्रभूता ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कामेवै᳓नाम्भूता᳓म्प्र᳓ति गृह्णाति ,
 न सह᳓स्रय्ँ य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,11 +513,14 @@ verily he who knows thus accepts her as one, not as a thousand.
 
 इदं ब्राह्मणवाक्यमिति भाति । विदुषो ब्राह्मणम् इति अनन्वितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स्योना᳓सि सुष᳓दा सुशे᳓वा+++(=सुफला)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -482,11 +541,14 @@ verily he who knows thus accepts her as one, not as a thousand.
 
 स्योना सुखहेतुरस्माकं सुपरिचारा वा त्वमसि । सुषदा सुखेन सादनीया दोहनादाविति । खलि कृदुत्तरपदप्रकृतिस्वरत्वम् । सुशेवा सुफला बहुदुग्धत्वात् । 'आद्युदात्तश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्योना᳓ मा᳓ विश, सुष᳓दा मा᳓ विश , सुशे᳓वा मा᳓ विश᳓" इ᳓त्याह । [31]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -507,12 +569,15 @@ come to me as gentle, well resting, auspicious,' [3] he says;
 
 सा त्वं तादृशी स्योना अविगुणा सती मामाविश यथा मे न कदाचिदपि हिंसा स्यात् तथा मामाविशेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्योनै᳓वै᳓नँ सुष᳓दा सुशे᳓वा भूता᳓ऽऽविश᳓ति᳓ ,  
 नै᳓नँ हिनस्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -539,6 +604,7 @@ verily she becoming gentle, well resting, auspicious, comes to him, and harms hi
 
 [[TODO: include]]
 </details>
+</details>
 
 ## उत्सर्गदिक्
 
@@ -547,6 +613,8 @@ verily she becoming gentle, well resting, auspicious, comes to him, and harms hi
 ब्र᳓ह्म᳓वादि᳓नो वदन्ति - "सह᳓स्रँ सहस्रतम्य् अ᳓न्वेती᳓३, +++(उत)+++ सहस्रतमीँ᳓ सह᳓स्रा᳓३म्?" इ᳓ति ।
 +++('विचार्यमाणानाम्' इति प्लुतः ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,12 +637,15 @@ The theologians say, 'Does the thousandth follow the thousand? or the thou sand 
 
 4ब्रह्मवादिन इत्यादि ॥ किं सहस्रं सहस्रतम्यन्वेति अनुगच्छति? उत सहस्रं सहस्रतमीमन्वेति । उभयत्र 'विचार्यमाणानाम्' इति प्लुतः । एवं ब्रह्मवादिनो विचारं वदन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्प्रा᳓चीमुत्सृजे᳓त् ,  
 सह᳓स्रँ सहस्रतम्य् अ᳓न्वियात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -597,11 +668,14 @@ If he were to let her go to the east, the thousandth would follow the thousand;
 5इदानीं पक्षद्वयस्योत्थापनं फलभेदं चाह - यत्प्राचीमित्यादि ॥
 यत् यद्यर्थे । यद्येनां प्राचीमुत्सृजेत् सहस्रतमी सहस्रमन्वियात् अनुगच्छेत् अग्रे सहस्रं गच्छेत् तत्सहस्रतम्यनुगच्छेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्रमप्रज्ञात्रँ᳓ सुवर्गल्ँ᳓ लोक᳓न्न᳓ प्र᳓ जानीयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -623,11 +697,14 @@ now the thousand has no understanding, and would not recognize the world of heav
 
 ततश्च तत्सहस्रमप्रज्ञात्रं प्रज्ञानरहितं स्वर्गं न प्रजानीयात् ततश्च स्वर्गं न गच्छेत् यजमानः, प्रकृष्टज्ञानं प्रज्ञात्रम् । औणादिकस्त्रप्रत्ययः, बहुव्रीहौ 'नङ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रती᳓चीमु᳓त्सृजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,11 +725,14 @@ He lets her go to the west;
 
 तस्मात्प्रतीचीमुत्सृजतीति विधिः । 'चौ' इति पूर्वपदस्य दीर्घत्वम्, अन्तोदात्तत्वं च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताँ᳓ सह᳓स्रम᳓नु पर्या᳓वर्तते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -673,11 +753,14 @@ the thousand follow after her.
 
 तां सहस्रतमीमग्रे गच्छन्तीं सहस्रमनु पर्यावर्तते अनु गच्छति । 'गतिर्गतौ' इति पूर्ववन्निघातस्समासश्च । अनुः कर्मप्रवचनीय उदात्त एव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ प्रजानती᳓ सुवर्गल्ँ᳓ लोक᳓मेति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -699,11 +782,14 @@ She knowing goes to the world of heaven.
 
 सा च प्रजानती सुवर्गं गच्छति । 'शतुरनुमः' इति नद्या उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानम् अभ्य् उ᳓त्सृजति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -724,11 +810,14 @@ He lets her go towards the sacrificer.
 
 तत्र चैवं वक्तव्यमित्याहयजमानमभि यजमानं लक्षीकृत्य तामुत्सृजति, ततश्च क्षिप्रे काले सहस्रं बहु प्रजायते यजमानः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रे᳓ +++(काले)+++ सह᳓स्रम् प्र᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -744,11 +833,14 @@ Quickly a thousand springs up.
 
 क्षि॒प्रे । स॒हस्र॑म् । प्रेति॑ । जा॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तमा᳓ नीय᳓ते , +++(पश्चात् सर्वास्ता नीयन्ते,)+++ प्रथमा᳓ देवा᳓न् गच्छति +++(यजमानमपि गृहीत्वा)+++ ॥ [32]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -771,4 +863,5 @@ The (thousandth) is the last to be taken, but the first to go to the gods.
 उत्तमा नीयते पश्चात्सर्वास्ता नीयन्ते । प्रथमा देवान् गच्छति प्रथममेव यजमानमपि गृहीत्वा देवसकाशं गच्छति । उत्तमशब्दः उञ्छादित्वादन्तोदात्तः ॥
 
 इति सप्तमे प्रथमे सप्तमोनुवाकः ॥  
+</details>
 </details>

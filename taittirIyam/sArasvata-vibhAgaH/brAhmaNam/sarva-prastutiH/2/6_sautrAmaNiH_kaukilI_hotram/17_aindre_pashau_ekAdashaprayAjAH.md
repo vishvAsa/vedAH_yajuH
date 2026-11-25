@@ -16,6 +16,8 @@ unicode_script: devanagari
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदि॒डस्प॒दे ।
@@ -38,10 +40,14 @@ unicode_script: devanagari
 
 (SB) १षोडशे पितृयज्ञयाज्यानुवाक्या उक्ताः । अथ यत्पश्वन्तरं सूत्रकारेणोदाहृतम् 'इन्द्राय वयोधसे पशुमालभते' इति, तत्र प्रयाजार्था मैत्रावरुणप्रैषाः सप्तदशेऽभिधीयन्ते । तत्र प्रथममन्त्रमाहयोऽयं दैव्यो होता सोऽयमिडस्पदे सोमक्रयणीपदपांसुयुक्ते आहवनीये समिधानं समिन्नामकं प्रथमप्रयाजदेवं यक्षत् यजतु । कीदृशं देवं? महद्यशः महतो यशसः कारणम् । सुषमिद्धं सुखेन सम्यक्प्रज्वलितम् । वरेण्यं सर्वैर्वरणीयम् । तद्देवद्वारा अग्निं तदग्निरूपं वयोधसं वय आयुष्यं धारयतीति वयोधाः तादृशमिन्द्रं पशुस्वामिनं देवं यजतु । तथा गायत्रीं छन्दः चतुर्विंशत्यक्षरं छन्दोदेवं यजतु । ततो यजमानाय इन्द्रियं चक्षुरादिपाटवं त्र्यविं गाम्, अविशब्दो मासषट्कोपलक्षक इति चतुर्थकाण्डे प्रतिपादितम् , त्रीणि मासषट्कानि यस्याः गोः सेयं त्र्यविः तादृशीं गां वय आयुष्यं च दधत् संपादयतु । अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ द्वितीयमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,6 +62,8 @@ unicode_script: devanagari
 दित्यवा᳓हङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,10 +89,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ तृतीयमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -99,6 +111,8 @@ unicode_script: devanagari
 त्रिवत्स᳓ङ्गाव्ँ᳓व᳓यो द᳓धत् ॥78॥  
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,10 +138,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ चतुर्थमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +160,8 @@ unicode_script: devanagari
 प᳓ञ्चाविङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,10 +187,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ पञ्चममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +209,8 @@ unicode_script: devanagari
 तुर्यवा᳓हङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,10 +236,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ षष्ठमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -228,6 +258,8 @@ unicode_script: devanagari
 पष्ठवा᳓हङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,10 +285,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ सप्तममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,6 +307,8 @@ unicode_script: devanagari
 अनड्वा᳓हङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,10 +334,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अष्टममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,6 +356,8 @@ unicode_script: devanagari
 धेनु᳓ङ्गा᳓न्न᳓ व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,10 +383,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9नवममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +405,8 @@ unicode_script: devanagari
 उक्षा᳓णङ्गा᳓न्न᳓ व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,10 +432,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10दशममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +454,8 @@ unicode_script: devanagari
 वशाव्ँ᳓ वेह᳓तङ्गा᳓न्न᳓ व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,10 +481,14 @@ unicode_script: devanagari
 
 - अयं प्रयाजदेव आज्यस्य वेतु हूयमानमाज्यं पिबतु । तदर्थं हे मानुष होतः! यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11 एकादशमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +503,8 @@ unicode_script: devanagari
 बृह᳓दृषभ᳓ङ्गाव्ँ᳓व᳓यो द᳓धत् ।
 वे᳓त्वा᳓ज्यस्य हो᳓तर्य᳓ज ॥83॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,4 +532,5 @@ unicode_script: devanagari
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके सप्तदशोऽनुवाकः ॥
 
+</details>
 </details>

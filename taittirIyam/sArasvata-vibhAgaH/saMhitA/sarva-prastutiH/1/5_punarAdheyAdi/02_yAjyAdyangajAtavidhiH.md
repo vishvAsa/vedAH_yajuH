@@ -6,9 +6,12 @@ title = "०२ याज्याद्यङ्गजातविधिः"
 
 ## पञ्चकपाल-विधिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 परा॒ वा ए॒ष य॒ज्ञम्प॒शून्व॑पति  यो॑ऽग्निमु॑द्वा॒सय॑ते॒ पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति पाङ्क्तो॑ य॒ज्ञᳶ पाङ्क्ताः॑ प॒शवो॑ य॒ज्ञमे॒व प॒शूनव॑ रुन्धे 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -16,6 +19,8 @@ title = "०२ याज्याद्यङ्गजातविधिः"
 प᳓रा वा᳓ एष᳓ यज्ञ᳓म् पशू᳓न् वपति,  
 यो᳙ऽग्नि᳓म् उद्वास᳓यते।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,6 +41,7 @@ He who removes the fire casts away the sacrifice and cattle.
 
 1परा वा इत्यादि ॥ परावापो विनाशः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -44,6 +50,8 @@ He who removes the fire casts away the sacrifice and cattle.
 पा᳓ङ्क्ताः पश᳓वः ।  
 यज्ञ᳓म् एव᳓ पशू᳓न᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,6 +85,7 @@ verily he wins the sacrifice and cattle.
 
 वीर॒हा वा ए॒ष दे॒वानाय्ँ॒यो॑ऽग्निमु॑द्वा॒सय॑ते न वा ए॒तस्य॑ ब्राह्म॒णा ऋ॑ता॒यवᳶ॑ पु॒राऽन्न॑मक्षन् प॒ङ्क्त्यो॑ याज्यानुवा॒क्या॑ भवन्ति॒ पाङ्क्तो॑ य॒ज्ञᳶ पाङ्क्त॒ᳶ पुरु॑षो दे॒वाने॒व वी॒रन्नि॑रव॒दाया॒ग्निम्पुन॒रा [5]ध॒त्ते । 
 </details>
+</details>
 
 ## पङ्क्ति-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -84,6 +93,8 @@ verily he wins the sacrifice and cattle.
 वी᳓रहा᳓ वा᳓ एष᳓ देवा᳓नाय्ँ, यो᳙ ऽग्नि᳓म् उद्वास᳓यते।   
 न᳓ वा᳓ एत᳓स्य ब्राह्मणा᳓ ऋताय᳓वᳶ पुरा᳓ ऽन्नम् अक्षन्+++(=नादन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,12 +117,15 @@ Brahmans desirous of holiness did not aforetime eat his food;
 
 2वीरहेत्यादि याज्यानुवाक्या विशेषविधिः ॥ देवानां मध्ये वीरस्याग्नेर्हन्ता, का कथान्येषां देवानामिति? तस्मात् सर्वेप्यस्माद्बिभ्यतीति । ऋतायवः ऋतं सत्यं यज्ञं वा आत्मन इच्छन्तः । क्यचि 'न छन्दस्यपुत्रस्य' इतीत्वाभावः । 'क्याच्छन्दसि' इत्युप्रत्ययः । ऋतायुत्वादेतस्योद्वासिताग्नेरन्नं **नाक्षन्** नादन्, अभोज्यान्नत्वादेतस्य । अत्तेर्लुङि 'लुङ्सनोर्घसॢ' इति घस्लादेशः, 'मन्त्रे घस' इत्यादिना च्लेर्लुक्, 'घसिभसोः' इत्युपधालोपः, 'शासिवसिघसीनां च' इति षत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पङ्क्त्यो᳙ याज्यानुवाक्या᳙ भवन्ति,  
 पा᳓ङ्क्तो यज्ञᳶ᳓, +++(इन्द्रियगणनया, शतायुष्ट्वात्)+++ पा᳓ङ्क्तᳶ पु᳓रुषः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -136,11 +150,14 @@ the sacrifice is fivefold, man is fivefold;
 
 पाङ्क्तः पुरुष इति । 'पाङ्क्तं वा इदं सर्वम्' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓न् एव᳓ वीर᳓न् निरवदा᳓याग्नि᳓म् पु᳓नर् आ᳓ धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,6 +178,7 @@ verily making recompense to the gods for the hero he re-establishes the fire [1]
 
 देवानिति । देवान् तेषां च वीरं निरवदाय उद्वासनलक्षणभयस्थानान्निष्कृष्य अग्निं पुनराधत्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,6 +186,8 @@ verily making recompense to the gods for the hero he re-establishes the fire [1]
 शता᳓युᳶ पु᳓रुषश् शते᳓न्द्रियः।   
 आ᳓युष्य् एवे᳓न्द्रिये᳓+++(=इन्द्रत्वे)+++ प्र᳓ति तिष्ठति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -188,12 +208,16 @@ They are of a hundred syllables; man lives a hundred years and has a hundred pow
 
 3शताक्षरा इति ॥ उक्ता अक्षरपङ्क्तयश्चतस्र इति । तत्रैकैका पञ्चविंशत्यक्षरा । सर्वास्सम्भूय शताक्षरा इति । शतायुश्शतवर्षः शतेन्द्रियश्शतवीर्यः आयुषीन्द्रिये च प्रतिष्ठितो भवति ॥
 </details>
+</details>
 
 ## अग्नेर् अवृद्धौ
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्वा अ॒ग्निराहि॑तो॒ नर्ध्यते॒ ज्यायो॑ भाग॒धेय॑न्निका॒मय॑मानो॒ यदा॑ग्ने॒यँ सर्व॒म्भव॑ति॒ सैवास्यर्धिः 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +227,8 @@ They are of a hundred syllables; man lives a hundred years and has a hundred pow
 य᳓द् आग्नेयँ᳓ स᳓र्वम् भ᳓वति +++(पुनराधाने प्राक्तनप्रपाठके देवगणोक्तरीत्या)+++,  
 सै᳓वा᳓स्य᳓र्धिः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,12 +255,16 @@ In that Agni when established does not prosper, (it is that he is) desiring a gr
 
 तस्मात् सर्वमाग्नेयं कर्तव्यमिति विधिः ॥
 </details>
+</details>
 
 ## विभक्तिविधानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सव्ँवा ए॒तस्य॑ गृ॒हे वाक्सृ॑ज्यते यो॑ऽग्निमु॑द्वा॒सय॑ते॒ स वाचँ॒ सँसृ॑ष्टाय्ँ॒यज॑मान ईश्व॒रोऽनु॒ परा॑भवितो॒र्विभ॑क्तयो भवन्ति  वा॒चो विधृ॑त्यै॒ यज॑मान॒स्याप॑राभावाय [6]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +273,8 @@ In that Agni when established does not prosper, (it is that he is) desiring a gr
 यो᳙ऽग्नि᳓म् उद्वास᳓यते।  
 स᳓ वा᳓चँ सँ᳓सृष्टाय्ँ +++(→अनु)+++ य᳓जमान ईश्वरो᳓ +++(भवति)+++ ऽनु प᳓राभवितोः+++(=पराभव + तोसुँन् = तुमुन्) +++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,11 +303,14 @@ Speech is uttered together in the house of him who removes the fire; the sacrifi
 वक्ष्यति च - 'आयतनाद् एव नैति' इति ।  
 मूकत्वं वा वाक्-संसर्गः । 'ईश्वरे तोसुन्-कसुनौ' । लक्षणेनोः कर्मप्रवचनीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(ततो 'अग्नाग्ने अग्नावग्ने अग्निनाग्ने अग्निमग्ने' इति चतस्रः)+++ वि᳓भक्तयो भवन्ति - वाचो᳓ वि᳓धृत्यै, य᳓जमानस्या᳓पराभावाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -303,11 +338,14 @@ There are discriminations, to sever speech and preserve the sacrificer [2].
 
 **विधृत्यै** विलक्षणावस्थानाय प्रयाजानाम् अग्न्याधेयाद् वैलक्षण्यापादने वाचस् संसर्गदोषः परिह्रियत इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓भक्तिङ् करोति - ब्र᳓ह्मैव᳓ त᳓द् अकः+++(=करोति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,18 +366,24 @@ He makes a discrimination; verily he makes the holy power (Brahman).
 
 6विभक्तिमिति ॥ **विभक्तिं** वैलक्षण्यविभक्तिप्रदानमस्येति[मस्य] कर्मणो यत्करोति तेन हेतुना पुनराधेयं ब्रह्म परिबृढं अग्न्याधेयात् **अकः** करोति । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् । मन्त्र इति वेदमात्रस्य ग्रहणम् । यद्वा - लङि व्यत्ययेन शपो लुक् ॥
 </details>
+</details>
 
 ## उपांशुयागः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उपाँ॒शु  य॑जति॒ यथा॑ वा॒मव्ँवसु॑ विविदा॒नो गूह॑ति ता॒दृगे॒व तद॒ग्निम्प्रति॑ स्विष्ट॒कृत॒न्निरा॑ह॒ यथा॑ वा॒मव्ँवसु॑ विविदा॒नᳶ प्र॑का॒शञ्जिग॑मिषति ता॒दृगे॒व तत्।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(ओत्तमादनूयाजात्)+++ उपाँशु᳓  यजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,11 +404,14 @@ He speaks the Yajus, muttering;
 
 7उपांश्विति ॥ सर्वो याग उपांशुः कर्तव्यः ओत्तमादनूयाजात् । 'उपाद्व्यजजिनम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था वामव्ँ᳓व᳓सु विविदानो᳓ गू᳓हति तादृ᳓गेव᳓ त᳓त्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,12 +432,15 @@ it is as if one who has found a rich treasure hides it.
 
 यथेति । यथा वामं वननीयं वरिष्ठं धनं मुषितं विविदानः लभमानः लब्धुं यतमानः तत् गूहति संवृणोति तादृक्तदुपांशुकरणम् । छान्दसस्य लिटः कानजादेशः ॥
 </details>
+</details>
 
 ## स्विष्टकृद् उच्चैः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓म् प्र᳓ति स्विष्टकृ᳓तन् नि᳓राह+++(=उच्चैर् आह)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -411,11 +461,14 @@ To Agni Svistakrt he speaks aloud;
 
 8अग्निं प्रतीति ॥ स्विष्टकृतमग्निं प्रति निराह निर्गतं ब्रूयात् उच्चैरिति यावत् । लक्षणादिना प्रतेः कर्मप्रवचनीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था वामव्ँ᳓व᳓सु विविदानᳶ᳓ प्रकाश᳓ञ् जि᳓गमिषति तादृ᳓ग् एव᳓ त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,6 +489,7 @@ it is as if one who has found a rich treasure is fain to go openly.
 
 यथेति । यथा वामं वसु विविदानः अन्विष्य लब्धवान् तत्प्रकाशं विवृतं जिगमिषति ख्यापयितुमिच्छति । अहो इदं दृष्टं पश्यतेति तादृक् तदुच्चैर्वचनम् । परोक्षे लिटः कानजादेशः ।
 </details>
+</details>
 
 ## वषट्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +499,8 @@ it is as if one who has found a rich treasure is fain to go openly.
 प्रयाजे᳓न +++(मन्त्रेण हविर् ददन्)+++ व᳓षट्करोत्य्  
 - आय᳓तनाद् एव᳓ नै᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,17 +521,23 @@ Uttering the discrimination he makes the Vasat cry with the foresacrifice; veril
 
 विभक्तिमिति । "ये यजामह" इत्य् अस्यानन्तरं **विभक्तिम् उक्त्वा** ततः **प्रयाज-मन्त्रेण वषट्-करोति** हविर् ददाति । अनेन कर्मणा स्वस्माद् **आयतनान् नैति** न गच्छति । अनुष्ठेयवचनः स्व आयतने निवसति ॥
 </details>
+</details>
 
 ## आहुतिस्थाने
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यज॑मानो॒ वै पु॑रो॒डाशᳶ॑ प॒शव॑ ए॒ते आहु॑ती॒ यद॒भितᳶ॑ पुरो॒डाश॑मे॒ते आहु॑ती [7]जु॒होति॒ यज॑मानमे॒वोभ॒यतᳶ॑ प॒शुभि॒ᳶ परि॑ गृह्णाति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानो वै᳓ पुरोडा᳓शः +++(प्राधान्यात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -496,11 +558,14 @@ The sacrificial cake is the sacrificer,
 
 9यजमानो वा इत्यादि ॥ प्राधान्यात् ताद्-धर्म्येण ताच्-छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓व एते᳓ +++(द्वे)+++ आ᳓हुती।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +586,15 @@ the oblations are cattle;
 
 पशव इति । तद्धेत्वात्ताच्छब्द्यम् । स्वयं पशव एव पुनरूर्जा निवर्तस्व सह रय्या निवर्तस्वेत्येते आहुती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अभि᳓तᳶ पुरोडा᳓शम् +++(पुरस्ताद् उपरिष्टाच् च)+++ एते᳓ आ᳓हुती  जुहो᳓ति,   
 य᳓जमानम् एवो᳓भय᳓तᳶ पशु᳓भिᳶ प᳓रि गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -548,12 +616,15 @@ in that he offers these libations on either side of the cake [3], he thus surrou
 
 यदभित इति । अभितः पुरस्ताद् उपरिष्टाच् च पुरोडाशहोमस्य । 'अभितःपरितः' इति द्वितीया । गतमन्यत् ॥
 </details>
+</details>
 
 ## सम्भारसम्भरणापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "+++(अग्न्याधेयेन)+++ कृत᳓-यजुस् स᳓म्भृत-सम्भार" इ᳓त्याहुर्, "न᳓ सम्भृ᳓त्याः सम्भारा᳓ +++(पुनराधेये)+++, न᳓ य᳓जुᳶ कर्तव्य᳙म्" इ᳓ति +++(च केचित्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -574,12 +645,15 @@ in that he offers these libations on either side of the cake [3], he thus surrou
 
 10कृतयजुरिति ॥ कृतस्तम्बयजुर् अग्न्याधेयेन **सम्भृताश्च सम्भाराः** । तस्माद् अत्र **न सम्भृत्याः** न सम्भरणीयास् **सम्भाराः** न यजुः कर्तव्यमित्याहुरेके आचार्याः । 'बृञोसंज्ञायाम्' इति क्यप् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो ख᳓लु "सम्भृ᳓त्या एव᳓ सम्भाराᳵ᳓,  
 कर्तव्यय्ँ᳙ य᳓जुर् - यज्ञ᳓स्य स᳓मृद्ध्यै"  +++(इत्य् अस्मत्पक्षः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,11 +674,15 @@ they say: the apparatus should be collected and the Yajus performed, for the pro
 
 11एतद् दूषयति - अथो खलु वयं ब्रूमः सम्भृत्या एवेति ॥ गतम् ।
 </details>
+</details>
 
 ## दक्षिणा
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पुनर्निष्कृ॒तो रथो॒ दक्षि॑णा पुनरुत्स्यू॒तव्ँवासᳶ॑ पुनरुत्सृ॒ष्टो॑ऽन॒ड्वान्पु॑नरा॒धेय॑स्य॒ समृ॑द्ध्यै 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -614,6 +692,8 @@ they say: the apparatus should be collected and the Yajus performed, for the pro
 पुनरुत्सृष्टो᳙ऽनड्वा᳓न्  
 पुनराधे᳓यस्य स᳓मृद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -637,19 +717,25 @@ The sacrificial fee is a renovated chariot, a newly-sewn garment, a draught ox l
 
 12पुनर्निष्कृत इत्यादि ॥ पुनर्निष्कृतः पुनस्संस्कृतः । पुनरुत्स्यूतं पुनस्संस्कृतमेव संहितच्छिद्रम् । षिवेर्निष्ठायां 'च्छ्वोश्शूडनुनासिके च' इत्यूठ् । पुनरुत्सृष्टः अवशीर्णगवः । एते पात्रे सम्मितादयो द्रष्टव्याः, उपपदसमासो वा । कृदुत्तरपदप्रकृतिस्वरत्वम् । पुनश्चनसौ छन्दसि' इति गतित्वात् गतिसमासो वा । प्रवृद्धादेराकृतिगणत्वादुत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 ## अग्निहोत्रविशेषः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वा इत्य॑ग्निहो॒त्रञ्जु॑होति
 यत्र॑यत्रै॒वास्य॒ न्य॑क्त॒न्ततः॑ [8] ए॒वैन॒मव॑ रुन्धे 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सप्त᳓ ते अग्ने समि᳓धस्सप्त᳓ जिह्वा᳓" इ᳓त्यग्निहोत्र᳓ञ् जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -670,11 +756,14 @@ The sacrificial fee is a renovated chariot, a newly-sewn garment, a draught ox l
 
 13सप्त ते अग्ने इति ॥ न्यक्तिः [न्यक्तं न्यक्तिः] नियता अक्तिरनुगतिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्रयत्रैवा᳓स्य न्य᳙क्तन् - त᳓त  एवै᳓नम् अ᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,12 +779,16 @@ Wherever there is anything of his nature, thence [4] does he win him.
 
 यत्र॑य॒त्रेति॒ यत्र॑-य॒त्र॒ । ए॒व । अ॒स्य॒ । न्य॑क्त॒मिति॒ नि-अ॒क्त॒म् । ततः॑ । ए॒व । ए॒न॒म् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 ## अग्नि-वारुणम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वी॒र॒हा वा ए॒ष दे॒वानाय्ँ॒यो॑ऽग्निमु॑द्वा॒सय॑ते॒ तस्य॒ वरु॑ण ए॒वर्ण॒यादा॑ग्निवारु॒णमेका॑दशकपाल॒मनु॒ निर्व॑पेद्यञ्चै॒व हन्ति॒ यश्चा॑स्यर्ण॒यात्तौ भा॑ग॒धेये॑न प्रीणाति नाऽऽर्ति॒मार्च्छ॑ति॒ यज॑मानः ॥ [9]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +800,8 @@ Wherever there is anything of his nature, thence [4] does he win him.
 तौ᳓ भागधे᳓येन प्रीणाति ।  
 ना᳓ऽऽर्तिम् आ᳓र्च्छति य᳓जमानः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -737,4 +832,5 @@ the sacrificer is not ruined.
 14वीरहेत्यादि ॥ पुनर्वचनं हविरन्तरविधानार्थम् । वरुण एव देवानां ये **ऋणयात्** ऋणेन यातयिता ऋणिनमिव तममुञ्चन् पीडयति । ण्यन्तात्क्विप् । ऋणमिच्छतीति क्यचि वा पूर्ववदीत्वाभावः, शतरि छान्दसो नुमभावः पररूपाभावश्च ॥
 
 पञ्चमे द्वितीयोनुवाकः ॥  
+</details>
 </details>

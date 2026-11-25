@@ -1,15 +1,21 @@
 +++
 title = "०३ नमः॒ सह॑मानाय"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 निषङ्गिणी। 
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 द्वितीयानुवाक उभयतोनमस्काराणि कानिचिद्यजूंष्य् उक्तानि ।  
 अथावरणि तथाविधान्येव तृतीयेऽस्पष्टार्थानि द्वादश यजूंष्य् उच्यन्ते ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,6 +23,8 @@ title = "०३ नमः॒ सह॑मानाय"
 न᳓मः स᳓हमानाय निव्याधि᳓न  
 आव्याधि᳓नीनां प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -40,12 +48,15 @@ Homage to the strong, the piercing, to the lord of assailers homage!
 विध्यतीति **निव्याधी**, तादृशाय रुद्राय नमः ।  
 आ समन्ताद्दिष्यन्तीत्य् **आव्याधिन्यः** शूराः सेनास्तासां पालकाय नमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मः ककुभा᳓य+++(=महते)+++ निषङ्गि᳓णे  
 स्तेना᳓नां प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,12 +92,15 @@ Homage to the leader, the holder of the quiver, to the lord of thieves homage!
 यथा शाखाग्रे चन्द्र इत्यत्र।  
 तस्माल्लक्ष्यार्थस्यैव विवक्षायामपि सुखावबोधद्वारत्वेन मुख्यार्थवाचकाः शब्दाः प्रयोक्तव्याः 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निषङ्गि᳓ण इषुधिम᳓ते  
 त᳓स्कराणां प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,6 +124,7 @@ Homage to the holder of the quiver, to the owner of the quiver, to the lord of r
 पृष्ठे वद्धो बाणाधार इषुधिः तदुभययुक्ताय नमः।  
 तस्काराः प्रकटचोरास्तेषां पालकाय नमः।
 </details>
+</details>
 
 [[2119]]
 
@@ -118,6 +133,8 @@ Homage to the holder of the quiver, to the owner of the quiver, to the lord of r
 न᳓मो व᳓ञ्‍चते परिव᳓ञ्‍चते  
 स्तायूनां᳓+++(←स्तै वेष्टने)+++ प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +166,14 @@ Homage to the cheater, the swindler, to the lord of burglars homage!
 ऽपहर्तारो ये ते **स्तायव**।  
 तेषां स्तायूनां पालकाय नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निचेर᳓वे+++(←चर्)+++ परिचरा᳓या᳓रण्यानां प᳓त᳓ये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,12 +198,15 @@ Homage to the glider, to the wanderer around, to the lord of the forests homage!
 **निचेरुः** परित आपणवीथिप्रवाटिकादावपहारबुद्ध्या चरणशीलः परिचरस्तदुभयरूपाय नमः।  
 मार्गे गन्तुर्द्रव्यापहारेण बाधितृ निरन्तरमरण्ये वर्तमानाश्चोरा अरण्यास्तेषां पालकायनमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म सृकावि᳓भ्यो+++(←सृक=बाणः)+++ जि᳓घाँसद्‍भ्यो  
 मुष्णतां᳓ प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -209,12 +232,15 @@ Homage to the bolt-armed destructive ones, to the lord of pilferers homage!
 तेन स्वशररिमवन्ति रक्षन्तीति सृकाविनः, प्राणिनो हन्तुमिच्छन्तश्चोरा जिघांसन्तस्तदुभयरूपाय नमः।  
 कृषिकाः सन्तः स्वामिघान्यानामपहर्तारो मुष्णन्तस्तेषां पालकाय नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मोऽसिम᳓द्‍भ्यो न᳓क्तं च᳓रद्‍भ्यः  
 प्रकृन्ता᳓नां प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,12 +266,15 @@ Homage to the bearers of the sword, the night wanderers, to the lord of cut-purs
 तदुभयरूपाय नमः।  
 हत्वैवापहरन्तः प्रकृन्तास्तेषां पालकाय नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म उष्णीषि᳓णे गिरिचरा᳓य  
 कु-लुञ्‍चा᳓नां प᳓तये न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,12 +299,15 @@ Homage to the turbaned wanderer on the mountains, to the lord of pluckers homage
 ग्राम्यजनवदुष्णीषेण शिरो वेष्टयित्वा तन्मध्ये प्रविश्य वर्तमानश्चोर उष्णीषी, गिरौ काष्ठादिसंपादकानां वस्त्रादिकम-पहर्तुं चरतीति गिरिचरस्तदुभयरूपाय नमः।  
 **कुं** भूमिं गृहक्षेत्रादिरूषां लुञ्चन्त्य् अपहरन्तीति **कुलुञ्चास्** तेषां पालकाय नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मः इ᳓षुमद्‍भ्यो  
 धन्वावि᳓भ्यश् च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -299,12 +331,15 @@ Homage to you, bearers of arrows, and to you, bowmen, homage!
 तथा भीषयितुं हस्ते धनुर्धारिणो धन्वाविनः।  
 तदुभयरूपा हे रुद्रा वो युष्मभ्यं नम इति विशेषणद्वयेन वाक्यं भेत्तुं द्विर्नमस्कारः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आतन्वाने᳓भ्यः  
 प्रतिद᳓धाने᳓भ्य᳓श्‍च᳓ न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +362,14 @@ Homage to you that string (the bow), and to you that place (on the arrow), homag
 धनुषि ज्यामारोपयन्त आतन्वानास्तद्रूपेभ्यो युष्मभ्यं रुद्रेभ्यो नमः।  
 धनुषि बाणं संदधानाः प्रतिदधानास्तद्रूपेभ्यो बुष्मभ्यं नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आय᳓च्छद्‍भ्यो विसृज᳓ड्भ्यश्‍च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,11 +392,14 @@ Homage to you that bend (the bow), and to you that let go (the arrow) homage!
 ज्याकर्षणं कुर्वन्त आयच्छन्तो वाणं मुञ्चन्तो विसृजन्तः।  
 शेषं पूर्वद्व्याख्येयम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो᳓ऽस्यद्‍भ्यो वि᳓ध्यद्‍भ्यश्‍च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +422,14 @@ Homage to you that hurl, and to you that pierce homage!
 मुक्तस्य बाणस्य लक्ष्यपर्यन्तं नमनमसनं तरय कर्ता-रोऽस्यन्तः।  
 लक्ष्यसमीपं गतस्य बाणस्य लक्ष्ये प्रवेशो वेधस्तस्य कर्तारो विध्यन्तः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आ᳓सीनेभ्यः श᳓यानेभ्यश्च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +450,14 @@ Homage to you that art seated, and to you that lie homage!
 
 अथ त्रयोदशयजुरारभ्य सप्तदशयजुःपर्यन्तानि स्पष्टार्थानि यजूंष्याह-नम आसीनेभ्य इति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मः स्वप᳓द्‍भ्यो जा᳓ग्रद्‍भ्यश्‍च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,11 +473,14 @@ Homage to you that sleep, and to you that wake homage!
 
 नमः॑ । स्व॒पद्भ्य॒ इति॑ स्व॒पत्-भ्यः॒ । जाग्र॑द्भ्य॒ इति॒ जाग्र॑त्-भ्यः॒ । च॒ । वः॒ । नमः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस् ति᳓ष्ठद्‍भ्यो धा᳓वद्‍भ्यश्‍च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +496,14 @@ Homage to you that stand, and to you that run homage!
 
 नमः॑ । तिष्ठ॑द्भ्य॒ इति॒ तिष्ठ॑त्-भ्यः॒ । धाव॑द्भ्य॒ इति॒ धाव॑त्-भ्यः॒ । च॒ । वः॒ । नमः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मः सभा᳓भ्यः सभा᳓पतिभ्यश्‍च वो न᳓मः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,11 +519,14 @@ Homage to you assemblies, and to you, lords of assemblies, homage!
 
 नमः॑ । स॒भाभ्यः॑ । स॒भाप॑तिभ्य॒ इति॑ स॒भाप॑ति-भ्यः॒ । च॒ । वः॒ । नमः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो अ᳓श्‍वेभ्योऽश्‍व᳓पतिभ्यश्‍च वो न᳓मः [ २ ] ।।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -485,5 +541,6 @@ Homage to you horses, and to you, lords of horses, homage!
 <details><summary>पद-पाठः</summary>
 
 नमः॑ । अश्वे॑भ्यः । अश्व॑पतिभ्य॒ इत्यश्व॑पति-भ्यः॒ । च॒ । वः॒ । नमः॑ ॥
+</details>
 </details>
 

@@ -8,6 +8,8 @@ unicode_script: devanagari
 प्रजा᳓पतिᳶ प्रजा᳓स् सृष्ट्वा᳓ वृत्तो᳙ ऽशयत् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जास् सृ॒ष्ट्वा वृ॒त्तो॑ ऽशयत् ।
@@ -22,11 +24,14 @@ unicode_script: devanagari
 
 1 प्रजापतिरित्यादि ॥ प्रजासृष्ट्यनन्तरं प्रजापतिर्वृत्तः उपरतव्यापारः श्रान्तः अशयत् अशेत । शेतेर्व्यत्ययेन परस्मैपदम्, विकरणव्यत्ययेन शप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ भूता᳓नाँ र᳓सन् ते᳓जस् सम्भृ᳓त्य ते᳓नैनम् अभिषज्यन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 अथ देवास्तं तथाविधं एनं प्रजापतिं भूतानां पृथिव्यादीनां रसं सारभूतं तेजः सम्भृत्य तेनाभिषज्यन् भिषजितवन्तः श्रमनिवृत्तिं कृतवन्तः । भिषज्यतिः कण्ड्वादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "महा᳓न् अववर्ती᳓"ति त᳓न् महा-व्रत᳓स्य महा-व्रतत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,11 +72,14 @@ unicode_script: devanagari
 उक्तवन्तश्च तदानीं देवा अयमिदानीं प्रजापतिः महानववर्ति महान् सम्पन्न इति ।  
 यस्मिन्नह्नि तथाकृतं देवैः तदहर्महाव्रतमिति महान्वृत्तोऽस्मिन् प्रजापतिरिति महाव्रतम् । वृतेः 'घञर्थे कविधानम्'इति कः, धातोरमागमश्छान्दसः । वर्तयतेः कर्मणि लुङि चिणादेशे छान्दसे द्विर्वचने अववर्तीति भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मह᳓द् व्रत᳓मि᳓"ति त᳓न् महा-व्रत᳓स्य महा-व्रतत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,11 +95,14 @@ unicode_script: devanagari
 
 महदिति । प्रजापतेरतिमहत्त्वहेतुत्वात् महत् इदं व्रतं कर्म इति महाव्रतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "महतो᳓ व्रत᳓मि᳓"ति त᳓न् महा-व्रत᳓स्य महा-व्रतत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -104,11 +118,14 @@ unicode_script: devanagari
 
 महत इति । महतः प्रजापतेरभ्युदयसाधनं व्रतं कर्म इति महाव्रतम् । छान्दसमात्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-विँश᳓स् स्तो᳓मो भवति ॥ 44॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,11 +144,14 @@ unicode_script: devanagari
 'स्तोमे डविधिः पञ्चदशाद्यर्थे'इति डः, 'तिविंशतेर्ङिति'इति तिलोपः ।  
 अथ पञ्चविंशस्य स्तुतिः - संवत्सरस्य चतुर्विंशतिरर्धमासा अवयवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्विँशत्य् अर्धमासस् सव्ँवत्सरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,11 +162,14 @@ unicode_script: devanagari
 
 च᳓तुर्-विंशति । अर्ध-मासः । सम्-वत्सरः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वा᳓ एत᳓स्मिन्त् सव्ँवत्सरे᳓ ऽधि-प्रा᳓जायत , त᳓द् अ᳓न्नम् पञ्च-विँश᳓म् अभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -163,11 +186,14 @@ unicode_script: devanagari
 
 यच्चास्मिन् संवत्सरे उपपद्यते उत्पद्यते अन्नं तत्पञ्चविंशम् । पञ्चविंशतेः पूरणं, 'तस्य पूरणे डट्'। तस्मात् पञ्चविंशेन स्तोमेन संवत्सरस्यान्नस्य च वशीकार इति भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यतᳵ᳓ क्रियते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,11 +210,14 @@ unicode_script: devanagari
 मध्यत इति ।  
 अन्तिममहरपेक्ष्य यन्मध्यत्वमस्य तत् स्तूयते - मध्यतो हीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यतो᳓ ह्य् अ᳓न्नम् अशित᳓न् धिनो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -206,11 +235,14 @@ unicode_script: devanagari
 यद्वा मध्यमे वयसि अन्नमेवाशितं धिनोति नार्यपक्षराशिविता ।  
 [नान्यः क्षीरादिरशितः?] 'आद्यादिभ्यस्तसिः'इति तसिप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो मध्यत᳓ एव᳓ प्रजा᳓नाम् ऊ᳓र्ग् धीयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,12 +258,15 @@ unicode_script: devanagari
 
 अथो अपिच तस्मादेव कारणात् प्रजानां शरीरे मध्यतः मध्यप्रदेशे एवोर्क् अन्नं धीयते स्थाप्यते न पर्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓द् वा᳓ इद᳓म् अन्ततᳵ᳓ क्रिय᳓ते   
 त᳓स्माद् उदन्ते᳓ प्रजा᳓स् स᳓मेधन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,11 +284,14 @@ unicode_script: devanagari
 अथेत्यादि । अथ अस्यापरमपि प्रमाणं ब्रूमः, यत् यस्मात् इदं अहः अन्ततः अन्ते कियते । दशरात्रापेक्षमन्तत्वम् ।  
 तस्मादुदन्ते उदकान्ते उदकमर्यादासु वर्तमानाः प्रजास्समेधन्ते सम्यक्प्रवर्धन्ते । उदकस्य उद्भावश्छान्दसः, शकन्ध्वादित्वात्पररूपत्वम् । यद्वा - उदन्ते वर्षान्ते सति वर्ष इति यावत् उन्दनं उत् वृष्टिः । उन्दी क्लेदने । यद्वा - उद् अन्नं तस्य रेतसो निषेकषिक्तस्यान्ते प्रजास्समेधन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्ततᳵ᳓ क्रियते प्रज᳓ननाय+ एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -269,11 +307,14 @@ unicode_script: devanagari
 
 किञ्च - यस्मात् इदमहः अन्ततः क्रियते तत् प्रजानां प्रजननाय भवति, अस्य समुदायान्तर्गतत्वान् गर्भात् प्रजा निर्गच्छन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓च् छि᳓रो भवति ॥45॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -289,11 +330,14 @@ unicode_script: devanagari
 
 3 त्रिवृदित्यादि ॥ इदार्नी महाव्रतस्तोमस्तुतिः क्रियते । तदर्थमह्नः पक्षित्वेन रूपणा क्रियते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रेधा-विहितँ᳓ हि᳓ शि᳓रो लो᳓म छवी᳓र् अ᳓स्थि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,11 +355,14 @@ unicode_script: devanagari
 त्रिवृत् स्तोमोऽस्य शिरो भवति । त्र्यवयवास्तिस्रो वृतयोऽस्यैति त्रिवृत्, त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् ।
 त्रेधा विहितं हि त्रिप्रकारं निर्मितं शिरो भवति, कथं? लोमानि केशाः छविस्त्वक् अस्थि चेति त्रिभिरेतैश्शिरो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓राचा स्तुवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -331,11 +378,14 @@ unicode_script: devanagari
 
 पराचेति ।तेन त्रिवृता पराचा अनावृत्तेन स्तुवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓त् सदृ᳓ग् एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,11 +401,14 @@ unicode_script: devanagari
 
 तस्मात्तत् शिरः सदृगेव भवति एकप्रकारमनावृत्तस्वभावम् । सकृदेवेति शाखान्तरेऽधीयते । परापूर्वादञ्चतेः ऋत्विगादिना क्विनि 'अनिगन्तोऽञ्चतावप्रत्यये'इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ मे᳓द्यतो᳓ ऽनु मेद्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -371,11 +424,14 @@ unicode_script: devanagari
 
 4 इदानीं त्रिवृतः पराक्त्वमेव समर्थयते - न मेद्यत इत्यादि ॥ तदर्थं च यदुक्तं तस्मात्तत्सदृगेवेति तत्रानावृत्तिमेव द्रढयति । तथा हितच्छिरः अनावृत्तमेव सर्वदा भवति मेद्यतः स्थूलीभवतोपि शरीरस्यानुसारेण स्वयं न अनुमेद्यति न स्थूलीभवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ कृ᳓श्यतो᳓ ऽनु कृश्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,11 +447,14 @@ unicode_script: devanagari
 
 न च कृश्यतः ह्रसतः शरीरस्यानुसारेण स्वयं कृश्यति ह्रसति सर्वदा एकस्वभावमेव'भवतीति । एवं त्रिवृदपि स्तोत्रीयः न वृद्धिं गच्छति न च हानिं प्राप्नोतीति । ञि मिदा स्नेहने. दैवादिकः 'मिदेर्गुणः।'। कृश तनूकरणे दैवादिक एव ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-दशो᳙ ऽन्यᳶ पक्षो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,11 +471,14 @@ unicode_script: devanagari
 5 पञ्चदश इत्यादि ॥  
 एकः पक्षः पञ्चदशो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त-दशो᳙ ऽन्यः +++(पक्षो᳓ भवति )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,11 +494,14 @@ unicode_script: devanagari
 
 सप्तदशोऽन्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् व᳓याँ स्य् अन्यतर᳓म् अर्ध᳓म् अभि᳓-पर्या᳓वर्तन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,11 +517,14 @@ unicode_script: devanagari
 
 तस्मात् वयांसि पक्षिणोऽन्यतरदेहार्थं अभिपर्यावर्तन्ते अन्यतरार्थाभिपर्यार्वृत्तशरीरा एव पतन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यतर᳓तो हि᳓ त᳓द् ग᳓रीयᳵ क्रिय᳓ते ॥46॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,11 +540,14 @@ unicode_script: devanagari
 
 हेतुमाह – अन्यतरेण हि पक्षेण तत् महाव्रतपक्षिशरीरं गरीयः गुरुतरं क्रियते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-विँश᳓ आत्मा᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,11 +563,14 @@ unicode_script: devanagari
 
 सप्तदशत्वादेकस्य पञ्चदशत्वच्चेतरस्य पञ्चविंश आत्मा शरीरं भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् मध्यतᳶ᳓ पश᳓वो व᳓रिष्ठा एक-विँश᳓म् पु᳓च्छन् द्विप᳓दासु स्तुवन्ति प्र᳓तिष्ठित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,11 +588,14 @@ unicode_script: devanagari
 एकविंशं पुच्छं स्तुवन्ति, कथं द्विपदासु ऋक्षु स्तुवन्ति प्रतिष्ठित्यै भवति द्वाभ्यां पद्भ्यां प्रतिष्ठा भवतीति ।
 द्वौ पादावासामिति द्विपदाः 'सङ्ख्यासुपूर्वस्य' इति लोपस्समासान्तः, 'टाबृचि' इति टाप् 'पादः पत्'इति पद्भावः 'द्वित्रिम्याम्' 'पद्दन्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वेण सह᳓ स्तुवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,11 +611,14 @@ unicode_script: devanagari
 
 सर्वेणेति सर्वेण त्रिवृदादिना सर्वेऽपि सह स्तुवन्ति न पर्यायेण न चैकैकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वेण ह्य् आ᳙त्म᳓ना ऽऽत्मन्वी᳓ +++(भवति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,11 +634,14 @@ unicode_script: devanagari
 
 हेतुमाह - सर्वेण हि अवयवेन सह पुरुष आत्मन्वी आत्मवान् भवति शरीरवान् भवति । बहुलं छन्दसि'इति विनिः । 'अनो नुट्'।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहो᳓त्प᳓तन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,11 +657,14 @@ unicode_script: devanagari
 
 अत एव हेतोः सह एव सर्वे उत्पतन्ति उत्तिष्ठन्ति । यस्याल्पाः स्तोत्रियाः सोपि तावदास्ते यावदितरेषां समाप्तिः । पक्षित्वनिरूपणाभिप्रायेण उत्पतन्तीत्युक्तम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कैकाम् उ᳓च् -छिँषन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,11 +680,14 @@ unicode_script: devanagari
 
 6 एकैकामिति ॥ सर्वेऽपि एकैकां स्तोत्रियां उच्छिषन्ति अविनियुक्तां स्थापयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓न्न् ह्य् अ᳓ङ्गानि बद्धा᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,11 +703,14 @@ unicode_script: devanagari
 
 हेतुमाह - आत्मनि शरीरे हि अङ्गानि बद्धानि सर्वोपयोगे हीनाङ्गतास्यात्तस्मादेकैकोच्छेषणेन यथास्थानस्थिताङ्गं शरीरं भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ वा᳓ एते᳓न स᳓र्वᳶ पु᳓रुषः +++(भवति)+++॥47॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -634,11 +726,14 @@ unicode_script: devanagari
 
 एतद्दूषयति - न वा इत्यादि । न खलु एतेन एतावन्मात्रेण वक्ष्यमाणेन सर्वः परिपूर्णः पुरुषो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् इत᳓इतो लो᳓मानि दतो᳓ नखा᳓न् प᳓रिमा᳓दᳵ क्रियन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -656,11 +751,14 @@ unicode_script: devanagari
 केनेत्याह -यदिति । लोमादिकं इतहतः अर्वाक् तद्वर्जयित्वा यदन्यत् वर्जनार्थो निपातः । यद्वा - इतइतोऽङ्गात् यदाकिञ्चिद्धोमादिकमुक्तिच्छिंषति तस्मादेकैकोच्छेषणेन न परिपूर्णता पुरुषस्येति । केचिदाहुः - न खल्वेतेन उक्तेन शिरःपक्षपुच्छेन सर्वः पुरुषो भवति नैतावता पुरुषस्य समाप्तिः ।
 कुत इत्याह - यस्मादयं लोमान्यपि अध्रुवाणि इतइतः सर्वत्र शरीराङ्गतः प्राप्तवान् तस्मात् सर्वार्थाः परिमादः परिमादनानि क्रियन्ते । परितो मादयन्तीति परिमादः, ण्यन्तात् क्विप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्य् एव᳓ ते᳓न प्र᳓त्य् उप्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -676,11 +774,14 @@ unicode_script: devanagari
 
 तेन परिमादेन तानि अपि लोमादीनि प्रत्युप्यन्ते पुरुषे उपयुक्तान्यपि पुनर्निरुप्याणि भवन्ति लोमादीन्यपि प्रत्युप्तानि भवन्ति । प्रत्येकं स्वस्थाने उप्तानि भवन्ति । ततस्सर्वः पुरुषो भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औ᳓दुम्बरस् त᳓ल्पो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -696,11 +797,14 @@ unicode_script: devanagari
 
 7 औदुम्बर इत्यादि ॥ उदुम्बरस्य विकारः औदुम्बरः । 'अनुदात्तादेश्च'इत्यञ् । तल्पः आसन्दी'तमारुह्योद्गातोद्गायेत् । ऊर्ग्वा इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्ग् वा᳓ अ᳓न्नम् उदुम्ब᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,11 +815,14 @@ unicode_script: devanagari
 
 ऊ᳓र्क् । वै᳓ । अ᳓न्नम् । उदुम्ब᳓रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ज᳓ एवा᳓न्ना᳓द्यस्या᳓वरुध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,11 +833,14 @@ unicode_script: devanagari
 
 ऊर्जः᳓ । एव᳓ । अन्ना᳓द्यस्य । अ᳓व । रुध्यै ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य तल्पस᳓द्यम् अ᳓नभिजितँ स्यात्त् स᳓ "देवा᳓नाँ सा᳓म्यक्षे त᳓ल्पस᳓द्यम् अभि᳓जयानी᳓"ति  त᳓ल्पम् आरु᳓ह्यो᳓द् -गायेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -748,11 +858,14 @@ unicode_script: devanagari
 यस्येत्यादि । तल्पे सदनं तल्पसद्यं महाव्रते । सदेः भावे छान्दसो यत् । यस्य उद्गातुः तल्पसद्यं अनभिजितं 'न लोकाव्यय'इति व्यत्ययेन न प्रवर्तते ।
 स इत्थमाशासानः तल्पमारुह्योद्गायेत् कथं? देवानां साम्यक्षे समक्षे तल्पसद्यं तल्पसदनार्हत्वं अभि आभिमुख्येन जयानि लिप्सीयेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तल्पस᳓द्यम् एवा᳓भि᳓-जयति ॥48॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -768,11 +881,14 @@ unicode_script: devanagari
 
 ततोऽयं तल्पसद्यमभिजयत्येव ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य तल्पस᳓द्यम् अभि᳓जितँ स्यात्त् स᳓ "देवा᳓नाँ सा᳓म्यक्षे त᳓ल्पस᳓द्यम् मा᳓ प᳓राजेषी᳓"ति त᳓ल्पम् आरु᳓ह्यो᳓द्- गायेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -789,11 +905,14 @@ unicode_script: devanagari
 8 यस्येत्यादि ॥ गतम् । चातुर्वर्ण्यादित्वात् ष्यञि सामक्ष्यमिति वक्तव्ये व्यत्ययेन मध्ये तद्धितः । यद्वा - सामीत्यर्धस्य नाम, साम्यक्षमपरिपूर्णदृष्टिः कटाक्षलाभः ।
 तस्मिन् सति तल्लाभेन मा पराजेषि तल्पसद्यात् पराजितो माभूवमिति प्रार्थयमान उद्गायेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ तल्पस᳓द्यम् प᳓रा-जयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,11 +928,14 @@ unicode_script: devanagari
 
 न कदाचित्तल्पसद्यात् पराजितो भवति । जयतेर्लुङि 'विपराभ्यां जेः'इत्यात्मनेपदं, 'पराजेरसोढ'इति अपादानत्वं व्यत्ययेन न प्रवर्तते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्लेङ्खे᳓ शँसति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -829,11 +951,14 @@ unicode_script: devanagari
 
 9 प्लेङ्ख इति ॥ प्लेङ्खः डोला तामारुह्य होता शंसति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓हो वै᳓ प्लेङ्खः᳓, म᳓हस एवा᳓न्ना᳓द्यस्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,11 +974,14 @@ unicode_script: devanagari
 
 महो वा इत्यादि । महः ओजः तद्धेतुत्वाताच्छब्द्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स् सय्ँ᳓यत्ता आसन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -869,11 +997,14 @@ unicode_script: devanagari
 
 10 देवासुरा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ आदित्ये᳓ व्या᳓यच्छन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -890,11 +1021,14 @@ unicode_script: devanagari
 आदित्ये आदित्यनिमित्तं अयमस्माकमस्तु अयमस्माकमिति व्यायच्छन्त व्यायामं कलहमकुर्वत ॥  
 'आङो यमहनः'इत्यात्मनेपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓स् स᳓मजयन्न् ॥49॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -905,11 +1039,14 @@ unicode_script: devanagari
 
 त᳓न् । देवाः᳓ । स᳓मजयन्न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मण᳓श् च शूद्र᳓श् च चर्म-कर्ते᳓ व्या᳓यच्छेते , दै᳓व्यो वै᳓ व᳓र्णो ब्राह्मण᳓  अ᳓सुर्य᳙श् शूद्रः᳓ +++(वर्णः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,11 +1065,14 @@ unicode_script: devanagari
 तं देवास्समजयन् जित्वा लब्धवन्तः । तस्मात् ब्राह्मणश्च शूद्रश्च चर्मकर्ते चर्मखण्डनिमित्तं व्यायच्छेते कलहायेते । कृत्यत इति कर्ता । कृती छेदने कर्मणि घञ् देवानां स्वभूतो दैव्यः । 'देवाद्यञञौ'इति यञ् ।  
 असुराणां स्व असुर्यः । 'असुरस्य स्वम्'इति यत् । तस्माद्देवासुरस्थानीयाविमौ व्यायच्छेते इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इमे᳙ ऽरात्सुर्" , "इमे᳓ सुभूत᳓म् अक्रन्न्" इ᳓त्य् अन्यतरो᳓ ब्रूयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -948,11 +1088,14 @@ unicode_script: devanagari
 
 इमेऽरात्सुरित्यादि । इमे सत्रिणः अरात्सुः ऋद्धा अभूवन् । यत एव इमे सुभूतं सुभिक्षं शोभनान्नं अक्रन् अकार्षुः अत एव इमेऽरात्सुरिति । अक्रन्निति कृञो लुङि 'मन्त्रे घस'इति च्लेर्लुक् । इति एवं अन्यतरो ब्राह्मणो ब्रूयात् प्रशंसेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इम᳓ उद्वासी-कारि᳓ण," "इमे᳓ दुर्भूत᳓म् अक्रन्न्" इ᳓त्य् अन्यतरः᳓ +++(ब्रूयात् )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -969,11 +1112,14 @@ unicode_script: devanagari
 अथ अन्यतरः शूद्रजातीयः इमे उद्वासीकारिणः उद्वासनमुद्वासिः 'इजादिभ्यः' इतीन्प्रत्ययः । तस्य कर्तारः प्रजानां स्वदेशादुद्वासयितारः । छान्दसं दीर्घत्वम् ।
 यत एव इमे दुर्भूतं दुर्भिक्षं दुर्लभान्नं अक्रन् तस्मादिमे उद्वासीकारिण इत्यन्यतरः शूद्रो ब्रूयात् आक्रोशेत् । निरुदकादित्वात् सुभूतदुर्भूतयोरुत्तरपदान्तोदात्तत्वम् । यद्वा - गतिसमासे कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एवै᳓षाँ सुकृतय्ँ᳓ या᳓ रा᳓द्धिस् त᳓द् अन्यतरो᳙ ऽभि᳓-श्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -989,11 +1135,14 @@ unicode_script: devanagari
 
 यदेवैषामित्यादि । एषां सत्रिणां यत् सुकृतं सुष्ठु कृतं कर्म या च राद्धिः फलसिद्धिः तत् उभयमपि अन्यतरोऽभिश्रीणाति प्रशंसन् ब्राह्मणो लोकप आभिमुख्येन उत्पादयति । श्रीञ् पाके ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एवै᳓षान् दुष्कृतय्ँ᳓ , या᳓ ऽराद्धिस् त᳓द् अन्यतरो᳓ ऽप-हन्ति , ब्रा᳓ह्मण᳓स् स᳓ञ्जयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,11 +1158,14 @@ unicode_script: devanagari
 
 अथ यदेषां दुष्कृतं दुष्टं कर्म या च अराद्धिः फलहानिः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । तत् उभयमपि अन्यतरः आक्रोशन् शूद्रः अपहन्ति नाशयति । तस्मात् सुकृतं परेण कीर्त्यमानं वर्धते । दुष्कृतं तु परेण कीर्त्यमानं विनश्यतीति । यथा - 'उत मोपवदेयुः। उत मे पान्मानमपहन्युः' इति । तत्र ब्राह्मणस्सञ्जयति सम्यक् जेता भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमु᳓म् एवा᳓दित्य᳓म् भ्रा᳓तृव्यस्य सव्ँ᳓विन्दन्ते ॥50॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1032,4 +1184,5 @@ unicode_script: devanagari
 
 इति श्रभट्टभास्करमिश्रविरचिते ज्ञानयज्ञाख्ये तैत्तिरीयब्राह्मागभाष्ये प्रथमेऽष्टके द्वितीयप्रपाठके षष्ठोऽनुवाकः ॥
 द्वितीयप्रपाठकस्समाप्तः ॥
+</details>
 </details>

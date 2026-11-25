@@ -12,9 +12,12 @@ title = "०७ एकोनपञ्चाशद्रात्रः"
 
 ## फलम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वसि॑ष्ठो ह॒तपु॑त्रोऽकामयत वि॒न्देय॑ प्र॒जाम॒भि सौ॑दा॒सान्भ॑वेय॒मिति॒ स ए॒तमे॑कस्मान्नपञ्चा॒शम॑पश्य॒त्तमाह॑र॒त्तेना॑यजत॒ ततो॒ वै सोऽवि॑न्दत प्र॒जाम॒भि सौ॑दा॒सान॑भव॒द्य ए॒वव्ँवि॒द्वाँस॑ एकस्मान्नपञ्चा॒शमास॑ते वि॒न्दन्ते॑ प्र॒जाम॒भि भ्रातृ॑व्यान्भवन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -22,6 +25,8 @@ title = "०७ एकोनपञ्चाशद्रात्रः"
 व᳓सिष्ठो हत᳓पुत्रोऽकामयत ,  
 "विन्दे᳓य प्रजा᳓म्, अभि᳓ सौदासा᳓न् भवेयम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,11 +48,14 @@ Vasistha, his sons slain, desired, 'May I win offspring, and defeat the Sauddsas
 
 1अथैकस्मान्नपञ्चाशद्रात्राः । तत्रायं प्रथमो विधीयते - वसिष्ठ इत्यादि ॥ वसिष्ठः सौदासैः हतपुत्रोकामयत प्रजां विन्देय लिप्सीय सौदासांश्चाभिभवेयमिति ॥ सुदासस्यापत्यानि सोदासाः, ऋष्यण् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् एकस्मान्नपञ्चाश᳓म् अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -74,11 +82,14 @@ He saw this (rite) of forty-nine nights;
 
 'तस्य पूरणे डट्' इति डट् । अवयवधर्मेण समुदायो व्यपदिश्यते । परिमाणे वा छान्दसो डः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मा᳓हरत् । ते᳓नायजत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,11 +106,14 @@ he grasped it, and sacrificed with it.
 
 तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ सो᳓ऽविन्दत प्रजा᳓मभि᳓ सौदासा᳓नभवद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,11 +129,14 @@ Then indeed did he win offspring and defeated the Sauddsas.
 
 ततः॑ । वै । सः । अवि॑न्दत । प्र॒जामिति॑ प्र-जाम् । अ॒भीति॑ । सौ॒दा॒सान् । अ॒भ॒व॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वाँ᳓स एकस्मान्नपञ्चाश᳓म् आ᳓सते विन्द᳓न्ते प्रजा᳓म्, अभि᳓ भ्रा᳓तृव्यान् भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,19 +157,25 @@ Those, who knowing thus perform (the rite) of forty-nine nights, win offspring a
 
 य एवं विद्वांस इत्यादि । गतम् ॥
 </details>
+</details>
 
 ## विधानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रय॑स्त्रि॒वृतो॑ऽग्निष्टो॒मा भ॑वन्ति॒ वज्र॑स्यै॒व मुखँ॒ सँ श्य॑न्ति॒ दश॑ पञ्चद॒शा भ॑वन्ति पञ्चद॒शो वज्रः॑ [25]  
 वज्र॑मे॒व भ्रातृ॑व्येभ्य॒ᳶ प्र ह॑रन्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस् त्रिवृ᳓तो ऽग्निष्टोमा᳓ भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,11 +196,14 @@ There are three Agnistomas with the Trivrt;
 
 2त्रयस्त्रिवृत इति ॥ त्रिवृत् स्तोमकास्त्रयोग्निष्टोमा भवन्ति त्रिवृतो वज्रत्वात् तत्र मुखं श्यन्ति तीक्ष्णीकुर्वन्ति पौनःपुन्येन । यद्वा - भ्रातृव्याभिभवहेतुतया वज्रस्थानीयस्यास्य सत्रस्य मुखं त्रिभिस्त्रिवृद्धिः तीक्ष्णीकुर्वन्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्रस्यैव᳓+++(→वज्रनिभयज्ञस्य)+++ मु᳓खँ सँ᳓ श्यन्ति+++(=तीक्ष्णीकुर्वन्ति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +219,14 @@ verily they sharpen the point of the bolt.
 
 वज्र॑स्य । ए॒व । मुख॑म् । समिति॑ । श्य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓श पञ्चदशा᳓+++(→पञ्चदशस्तोमवन्ति दिनानि)+++ भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +247,14 @@ There are ten Pañcadaśas;
 
 दशेति । पञ्चदशस्तोमकानि दशाहानि भवन्ति अग्निष्टोमा इत्यधिकृत्य पञ्चदश उक्थ्या इत्याचार्यः । पञ्चदश इत्यादि । वीर्यवत्त्वेन वज्रवद्भ्रातृव्याभिभवहेतुत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्चदशो᳓ व᳓ज्रः [25]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -238,11 +270,14 @@ the bolt is fifteenfold [1];
 
 प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । वज्रः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्रम् एव᳓ भ्रा᳓तृव्येभ्यᳶ प्र᳓ हरन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,16 +293,22 @@ verily they take away the bolt from their rivals.
 
 वज्र॑म् । ए॒व । भ्रातृ॑व्येभ्यः । प्रेति॑ । ह॒र॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 षोडशि॒मद्द॑श॒ममह॑र्भवति॒ वज्र॑ ए॒व वी॒र्य॑न्दधति॒ द्वाद॑श सप्तद॒शा भ॑वन्त्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॒ प्रैव तैर्जा॑यन्ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षो᳓डशिमद् द᳓शमम् अह᳓र् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +329,14 @@ The tenth day has a Sodaśin;
 
 3षोडशिमदिति ॥ एषा दशममहष्षोडशिमद्भवति, षोडशधर्मवत् । वज्रो वीर्यं ससामर्थ्यं दधति जनयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब᳓लम् एव᳓ व᳓ज्रे दधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,11 +352,14 @@ verily they place strength in the bolt.
 
 बल॑म् । ए॒व । वज्रे॑ । द॒ध॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश सप्तदशा᳓ भवन्त्य् अन्नाद्य᳓स्याव᳓रुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,11 +384,14 @@ There axe twelve Saptadaśas, to win food;
 
 अथो अपि च तैस्सप्तदशैः प्रजायन्ते च प्रजासाधनत्वात् सप्तदशस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प्रैव᳓ तै᳓र् जायन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,11 +407,14 @@ verily also they are propagated by them.
 
 अथो॒ इति॑ । प्रेति॑ । ए॒व । तैः । जा॒य॒न्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓ष्ठ्यष् षडहो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,11 +439,14 @@ There is a Prsthya Sadaha.
 
 एकविंशस्तोमकानि द्वादशाहानि भवन्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड्वा᳓ ऋत᳓वः, ष᳓ट् पृष्ठा᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +462,14 @@ Six are the seasons, six the Prsthas;
 
 षट् । वै । ऋ॒तवः॑ । षट् । पृ॒ष्ठानि॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठै᳓रेव᳓ + ऋ᳓तू᳓न् अन्वा᳓रोहन्ति, ऋ᳓तुभिस् सव्ँवत्सर᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,11 +485,14 @@ verily by the Prsthas they mount upon the seasons, by the seasons upon the year;
 
 पृ॒ष्ठैः । ए॒व । ऋ॒तून् । अ॒न्वारो॑ह॒न्तीत्य॑नु-आरो॑हन्ति । ऋ॒तुभि॒रित्यृ॒तु-भिः॒ । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ सव्ँवत्सर᳓ एव᳓ प्र᳓ति तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +508,14 @@ verily in the year they find support.
 
 ते । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । ए॒व । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दशैकविँशा᳓ भवन्ति प्र᳓तिष्ठित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,11 +536,14 @@ There are twelve Ekavinśas, for support;
 
 द्वादशेति । एकविंशस्तोमकानि द्वादशाहानि भवन्तीति । प्रतिष्ठित्या इत्यादि । एकविंशस्य प्रतिष्ठाहेतुत्वमुक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो रु᳓चम् एवा᳓त्म᳓न् दधते ।[26]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,11 +564,14 @@ verily they place radiance in themselves [2].
 
 अथो अपि च रुचं दीप्तिं आत्मन्येव दधते । रुग्वा एकविंश इत्यादि । तत्सावनत्वात्तस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बह᳓वष् षोडशि᳓नो भवन्ति वि᳓जित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -521,11 +592,14 @@ There are many Sodaśins, for conquest.
 
 5बहव इति ॥ अनन्तरोक्तेष्वेकविंशेषु अनन्तर वक्ष्यमाणेषु वा बहवप्षोडशिनो भवन्ति विजयाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षड् आ᳓श्विना᳓नि भवन्ति । ष᳓ड्वा᳓ ऋत᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -548,11 +622,14 @@ There are six (days) with the Aśvina (Śastra), six are the seasons;
 
 षड्वा इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓ष्वेव᳓ प्र᳓ति तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -568,16 +645,22 @@ verily they rest on the seasons.
 
 ऋ॒तुषु॑ । ए॒व । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऊनातिरि॒क्ता वा ए॒ता रात्र॑य ऊ॒नास्तद्यदेक॑स्यै॒ न प॑ञ्चा॒शदति॑रिक्ता॒स्तद्यद्भूय॑सीर॒ष्टाच॑त्वारिँशत ऊ॒नाच्च॒ खलु॒ वा अति॑रिक्ताच्च प्र॒जाप॑ति॒ᳶ प्राजा॑यत॒ ये प्र॒जाका॑माᳶ प॒शुका॑मा॒स्स्युस्त ए॒ता आ॑सीर॒न्प्रैव जा॑यन्ते प्र॒जया॑ प॒शुभि॑र्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊनातिरिक्ता᳓ वा᳓ एता᳓ रा᳓त्रयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,6 +683,7 @@ These nights are deficient and redundant.
 
 एता एकान्नपञ्चाशद्रात्रयः ऊनाश्चातिरिक्ताश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -607,6 +691,8 @@ These nights are deficient and redundant.
 अ᳓तिरिक्तास् त᳓द् य᳓द् भू᳓यसीर् अष्टा᳓चत्वारिँशतः ।  
 +++(अष्टाचत्वारिंशदक्षरा जगती जागताः पशवो द्विपादश् चतुष्पादश् च सर्वे। विराड् दशाक्षराः, पञ्च विराजः पञ्चाशद्, विराट् चान्नं, तच् च सर्वाः प्रजाः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -630,11 +716,14 @@ They are deficient in that they are fifty less one, redundant in that they are (
 
 यस्माच्च अष्टाचत्वारिंशतो भुयसीः भूयस्यः अष्टाचत्वारिंशत्संख्यामतीत्य वर्तन्ते तस्मादतिरिक्ताः । अष्टाचत्वारिंशदक्षरा जगती जागताः पशवो द्विपादश्चतुतपादश्च सर्वे विराड्दशाक्षराः पञ्च विराजः पञ्चाशद्विराट् चान्नं तच्च सर्वाः प्रजाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊना᳓च्+++(→बीजात्)+++ च ख᳓लु वा᳓ अ᳓तिरिक्ताच्+++(→वस्तुतो महतः)+++ च प्रजा᳓पतिᳶ प्रा᳓जायत +++(→प्रजाः प्राजनयन् सर्वाः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -650,11 +739,14 @@ Both from the deficient, indeed, and from the redundant Prajapati was propagated
 
 ऊ॒नात् । च॒ । खलु॑ । वै । अति॑रिक्ता॒दित्यति॑-रि॒क्ता॒त् । च॒ । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्रेति॑ । अ॒जा॒य॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ प्रजा᳓कामाᳶ पशु᳓कामास् स्यु᳓स् त᳓ एता᳓ आसीरन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -681,11 +773,14 @@ Those who desire offspring and cattle should perform (the rite of) these nights;
 
 'अष्टनस्सङ्ख्यायाम्' इत्यात्वम्, 'सङ्ख्या' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रै᳓व᳓ जायन्ते प्रज᳓या पशु᳓भिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -701,16 +796,22 @@ verily are they propagated with offspring and cattle.
 
 प्रेति॑ । ए॒व । जा॒य॒न्ते॒ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वैरा॒जो वा ए॒ष य॒ज्ञो यदे॑कस्मान्नपञ्चा॒शो य ए॒वव्ँवि॒द्वाँस॑ एकस्मान्नपञ्चा॒शमास॑ते वि॒राज॑मे॒व ग॑च्छन्त्यन्ना॒दा भ॑वन्त्यतिरा॒त्राव॒भितो॑ भवतो॒ऽन्नाद्य॑स्य॒ परि॑गृहीत्यै ॥ [27]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैराजो᳓ वा᳓ एष᳓ यज्ञो᳓ य᳓द् एकस्मान्नपञ्चाशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -731,12 +832,15 @@ This sacrifice is connected with the Viraj because it is one of forty-nine (nigh
 
 7किञ्चेत्याह - वैराज इत्यादि ॥ इदानीं सप्तमस्य प्रजाकारणस्य अन्नस्य साधनभावेन ताद्रूप्यमुपचर्य स्तुतिः क्रियते विराडेव वैराजः । स्वार्थिकोऽण् । यद्वा - विराजस्साधनभावेन संबन्धी वैराजः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वाँ᳓स एकस्मान्नपञ्चाश᳓म् आ᳓सते,
 विरा᳓जम् एव᳓ गच्छन्त्य्, अन्नादा᳓ भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -760,11 +864,14 @@ Those, who knowing thus perform (the rite) of forty-nine nights, attain the Vira
 
 अन्नादाश्च भवन्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिरात्रा᳓वभि᳓तो भवतो ऽन्ना᳓द्यस्य प᳓रिगृहीत्यै ॥ [27]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,4 +893,5 @@ There are Atiratras on either side, for the securing of food.
 अतिरात्राविति उक्तयोरेवानुवादः अन्नाद्यपरिग्रहाभिधानार्थः ॥
 
 इति सप्तमे चतुर्थे सप्तमोनुवाकः ॥  
+</details>
 </details>

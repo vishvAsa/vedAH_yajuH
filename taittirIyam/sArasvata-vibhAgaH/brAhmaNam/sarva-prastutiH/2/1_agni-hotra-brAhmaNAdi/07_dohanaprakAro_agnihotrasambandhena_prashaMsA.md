@@ -9,6 +9,8 @@ unicode_script: devanagari
 बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पते॒रुन्नी॑तम् ।
@@ -23,11 +25,14 @@ unicode_script: devanagari
 
 1 रौद्रं गवीत्यादि ॥ सर्वदेवत्यत्वेन पयस्स्तूयते । तत् दोहात्प्राक् गवि स्थितं रौद्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 उपसृष्टं ऊधस्स्थं वायुदेवत्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायव्य᳙मु᳓पसृष्टम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +66,14 @@ unicode_script: devanagari
 
 वायव्य᳙म् । उ᳓प-सृष्टम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓न्दुग्ध᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,11 +89,14 @@ unicode_script: devanagari
 
 दुग्धं प्रागधिश्रयणात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुण᳓म᳓धिश्रितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,11 +112,14 @@ unicode_script: devanagari
 
 अधिश्रितं अधिश्रितावस्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेवा᳓ भिन्द᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,11 +135,14 @@ unicode_script: devanagari
 
 भिन्दवो बुद्वुदा वैश्वदेवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓मु᳓दन्तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -133,11 +153,14 @@ unicode_script: devanagari
 
 पौष्ण᳓म् । उ᳓दन्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वतव्ँ᳓ विष्य᳓न्दमानम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,11 +176,14 @@ unicode_script: devanagari
 
 विष्यन्दमानं स्थाल्यां बिलमतिलङ्घितं विविधं स्यन्दनं सारस्वतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓मु᳓दन्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -173,11 +199,14 @@ unicode_script: devanagari
 
 उदन्तं स्थाल्यवकाशलङ्घनेनान्यत्र परिवर्तनं पौष्णम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्रँ᳓ श᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,11 +222,14 @@ unicode_script: devanagari
 
 शरः स्थासकं मैत्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धातु᳓रु᳓द्वासितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -213,11 +245,14 @@ unicode_script: devanagari
 
 उद्वासितं अवतारितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तेरु᳓न्नीतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,11 +268,14 @@ unicode_script: devanagari
 
 उन्नितं स्रुचि गृहीतं बार्हस्पत्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितुᳶ᳓ प्र᳓क्रान्तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,11 +286,14 @@ unicode_script: devanagari
 
 सवितुः᳓ । प्र᳓-क्रान्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यावापृथिव्यँ᳙ ह्रिय᳓माणम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,11 +309,14 @@ unicode_script: devanagari
 
 ह्रियमाणं आहवनीयं प्रति नीयमानं द्यावापृथिव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्राग्न᳓मु᳓पसन्नम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,11 +327,14 @@ unicode_script: devanagari
 
 ऐन्द्राग्न᳓म् । उ᳓प-सन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्राग्न᳓मु᳓पसन्नम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -303,11 +350,14 @@ unicode_script: devanagari
 
 उपसन्नं आहवनीयसकाशे सादितं ऐन्द्राग्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितुᳶ᳓ प्र᳓क्रान्तम् +++(अत्र मूले वा भाष्ये वा पूर्वापरीकारः सम्भाव्यते  )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,11 +373,14 @@ unicode_script: devanagari
 
 प्रक्रान्तं होमार्थं नेतुमारब्धं सावित्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नेᳶ᳓ पू᳓र्वा᳓ऽऽहुतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,11 +396,14 @@ unicode_script: devanagari
 
 पूर्वाऽऽहुतिः सायमग्नेः, प्रातराहुतिरादित्यस्य, उपलक्षणवात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेरु᳓त्तरा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -363,11 +419,14 @@ unicode_script: devanagari
 
 उत्तराऽऽडुतिः प्रजापतेः, तूष्णीकत्वात् 'तूष्णीं वै प्राजापत्यम्' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्रँ᳓ हुत᳓म् ॥50॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -384,4 +443,5 @@ unicode_script: devanagari
 ऐन्द्रं हुतम् ॥
 
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके सप्तमोऽनुवाकः ॥
+</details>
 </details>

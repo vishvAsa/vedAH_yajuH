@@ -6,6 +6,8 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 
 चतुर्थकाण्डे तृतीयप्रपाठके नवममोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेर्भा॒गो॑ऽसि दी॒क्षाया॒ आधि॑पत्य॒म्ब्रह्म॑ स्पृ॒तन्त्रि॒वृत्स्तोम॒ इन्द्र॑स्य भा॒गो॑ऽसि॒ विष्णो॒राधि॑पत्यङ्क्ष॒त्रँ स्पृ॒तम्प॑ञ्चद॒शस्स्तोमो॑ नृ॒चक्ष॑साम्भा॒गो॑ऽसि धा॒तुराधि॑पत्यञ्ज॒नित्रँ॑ स्पृ॒तँ स॑प्तद॒शस्स्तोमो॑ मि॒त्रस्य॑ भा॒गो॑ऽसि॒ वरु॑ण॒स्याधि॑पत्यन्दि॒वो वृ॒ष्टिर्वाताः॑ स्पृ॒ता ए॑कविँ॒शस्स्तोमोऽदि॑त्यै भा॒गो॑ऽसि पू॒ष्ण आधि॑पत्य॒मोज॑स्स्पृ॒तन्त्रि॑ण॒वस्स्तोमो॒ वसू॑नाम्भा॒गो॑ऽसि [16]  रु॒द्राणा॒माधि॑पत्य॒ञ्चतु॑ष्पात्स्पृ॒तञ्च॑तुर्विँ॒शस्स्तोम॑ आदि॒त्याना॑म्भा॒गो॑ऽसि म॒रुता॒माधि॑पत्य॒ङ्गर्भाः॑ स्पृ॒ताᳶ प॑ञ्चविँ॒शस्स्तोमो॑ दे॒वस्य॑ सवि॒तुर्भा॒गो॑ऽसि॒ बृह॒स्पते॒राधि॑पत्यँ स॒मीची॒र्दिश॑स्स्पृ॒ताश्च॑तुष्टो॒मस्स्तोमो॒ यावा॑नाम्भा॒गो॑ऽस्यया॑वाना॒माधि॑पत्यम्प्र॒जास्स्पृ॒ताश्च॑तुश्चत्वारिँ॒शस्स्तोम॑ ऋभू॒णाम्भा॒गो॑ऽसि॒ विश्वे॑षान्दे॒वाना॒माधि॑पत्यम्भू॒तन्निशा॑न्तँ स्पृ॒तन्त्र॑यस्त्रिँ॒शस्स्तोमः॑ ॥ [17]  
@@ -18,6 +20,7 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 अथ नवमेऽवं शिष्टास्ता उच्यन्ते ।  
 तासामवशिष्टानामिष्टकानां मन्त्रेषु प्रथमं मन्त्रमाह— अग्नेर्भागोऽसीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -26,6 +29,8 @@ title = "०९ अवशिष्टस्तोमीयोपधानम्"
 ब्र᳓ह्म स्पृत᳓म् +++(असि)+++,   
 त्रिवृ᳓त्स्तो᳓मः᳓ +++(असि)+++,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,10 +54,14 @@ Thou art the portion of Agni, the overlordship of consecration, the holy power s
 
 हे इष्टके योऽयमग्नेर्भागो हविर्लक्षणः, यच्च दीक्षादेवताया आधिपत्यं स्वामित्वं स्पृतं ब्रह्म देवानां प्रीतिकरं मन्त्रजातं ब्राह्मणजा तिर्वा, योऽपि त्रिवृदाख्यः स्तोमविशेषस्तत्सर्वं त्वमसि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयं मन्त्रमाह— इन्द्रस्य भागोऽमीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -62,6 +71,8 @@ Thou art the portion of Agni, the overlordship of consecration, the holy power s
 क्षत्रँ᳓ स्पृत᳓म्+++(असि)+++,   
 पञ्चदश᳓स्स्तो᳓मः  +++(असि)+++,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,10 +98,14 @@ Stoma.
 
 हे इष्टके योऽयमिन्द्रस्य भागो हविर्विशेषः यच्च विष्णोः परमेश्वरस्याऽऽधिपत्यं, यदपि स्पृतं प्रीतिहेतुः क्षत्त्रं बलं क्षत्त्रियजातिवां, योऽपि पञ्चदशाख्यः स्तोमस्तत्सर्वं त्वमसि ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयं मन्त्रमाह— नृचक्षसामिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -100,6 +115,8 @@ Stoma.
 जनि᳓त्रँ स्पृत᳓म् +++(असि)+++,   
 सप्तदश᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,10 +141,14 @@ Thou art the portion of them that gaze on men, the overlordship of Dhatr, the bi
 ये मनुष्याः सन्तश्चक्षते वेदं व्यक्तमुच्चारयग्ति ते नृचक्षस ऋत्विगादयस्तेषां भागो दक्षिणारूपो गवादिः।  
 धातुः प्रजापतेर्यदाधिपत्यं, यच्च स्पृतं प्रीतिकरं जनित्रं, यो हि(ऽपि) सप्तदशाख्यः स्तोमविशेषस्तत्सर्वं त्वमसि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थं मन्त्रमाह— मित्रस्य भागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +159,8 @@ Thou art the portion of them that gaze on men, the overlordship of Dhatr, the bi
 वा᳓ताः स्पृताः᳓ +++(असि)+++,  
 एकविँश᳓स्स्तो᳓मः  +++(असि)+++,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,10 +185,14 @@ Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky
 
 स्पृताः प्रीतिहेतवो वाता वायवो दिवः सकाशादागता वष्टिश्च ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमं यन्त्रमाह— अदित्यै भागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +202,8 @@ Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky
 ओ᳓जस्स्पृत᳓म् +++(असि)+++,   
 त्रिणव᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -198,10 +227,14 @@ Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twent
 
 ओजो बलमष्टमधातुर्वा ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठं मन्त्रमाह—  २००८ वसूनां भागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +244,8 @@ Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twent
 च᳓तुष्पात्स्पृत᳓म्  +++(असि)+++,   
 चतुर्विँश᳓स्स्तो᳓मः +++(असि)+++,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,10 +269,14 @@ Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadr
 
 चतुष्पाद्गवाश्वादिः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमं मन्त्रमाह— आदित्यानां भागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +286,8 @@ Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadr
 ग᳓र्भाः स्पृताः᳓+++(असि)+++,   
 पञ्चविँश᳓स्स्तो᳓मः +++(असि)+++,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,10 +311,14 @@ Thou art the portion of the Adityas, the overlordship of the Maruts, offspring s
 
 गर्भा द्विपदां चतुष्पदां चोदरगताः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमं मन्त्रमाह— देवस्य सवितुरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -283,6 +328,8 @@ Thou art the portion of the Adityas, the overlordship of the Maruts, offspring s
 समी᳓चीर्दि᳓शस्स्पृताः᳓ +++(असि)+++,  
 चतुष्टोम᳓स्स्तो᳓मः+++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,10 +353,14 @@ Thou art the portion of the god Savitr, the overlordship of Brhaspati, all the q
 
 यासु दिक्ष्ववस्थिताः प्राणिनोऽनुकूलास्ता दिशः समीच्यस्ता एव स्पृताः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमं मन्त्रमाहः— यावानां मागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -319,6 +370,8 @@ Thou art the portion of the god Savitr, the overlordship of Brhaspati, all the q
 प्रजा᳓स्स्पृताः᳓ +++(असि)+++,  
 चतुश्चत्वारिँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,10 +396,14 @@ Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring sav
 यतो मिश्री भवतः शुक्लकृष्णपक्षावत्रेति यावामासाः।  
 अतथाविधत्वादयावा अर्धमासः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमं मन्त्रमाह— ऋभूणां भागोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +413,8 @@ Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring sav
 भूत᳓न्नि᳓शान्तँ स्पृत᳓म् +++(असि)+++,   
 त्रयस्त्रिँश᳓स्स्तो᳓मः । +++(असि)+++॥ [17]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,6 +440,7 @@ Thou art the portion of the Rbhus, the overlordship, of the All-gods, being calm
 गणविशेषो विश्वे देवाः ।  
 भूतं निष्पन्नं, निशान्तं गृहम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -389,6 +449,8 @@ Thou art the portion of the Rbhus, the overlordship, of the All-gods, being calm
 ब्र᳓ह्म स्पृत᳓म् +++(असि)+++,  
 त्रिवृ᳓त्स्तो᳓मः +++(असि)+++,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,10 +480,14 @@ Thou art the portion of Agni, the overlordship of consecration, the holy power s
 स्तोत्राणां मध्ये प्रथमस्तोत्रस्य बहिष्पवमानस्य त्रिवृत्स्तोमेन निष्पाद्यमानत्वात्त्रिवृतो यज्ञमुखत्वम् ।  
 अनेन मन्त्रेणोपधाने तत्सर्वं यज्ञमुखं पुरस्तात्प्रसारयति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयं मन्त्रं विनियुङ्क्ते— “नृचक्षसां भागोऽसीति दक्षिणतः शुश्रुवाँसो वै नृचक्षसोऽन्नं धाता जातायैवास्मा अन्नमति दधाति तस्माज्जातोऽन्नमत्ति जनित्रँ स्पृतँ सप्तदशः स्तोम इत्याहान्नं वै जनित्रमन्नः सप्तदशोऽन्नमेव दक्षिणतो धत्ते तस्माद्दक्षिणेनान्नमद्यते” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +497,8 @@ Thou art the portion of Agni, the overlordship of consecration, the holy power s
 जनि᳓त्रँ स्पृत᳓म् +++(असि)+++,
 सप्तदश᳓स्स्तो᳓मः ।+++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,10 +533,14 @@ Thou art the portion of them that gaze on men, the overlordship of Dhatr, the bi
 सप्तदशस्तोमस्यान्नकारणत्वादन्नत्वम् ।  
 एवं सति कृत्स्नमप्यन्नं दक्षिणस्यां दिशि संपादयति ।   यस्माद्दक्षिणदिशोऽन्नभागित्वं तस्माद्दक्षिणहस्तेनान्नं भुङ्क्ते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थं मन्त्रं विनियुङ्क्ते— “मित्रस्य भागोऽसीति पश्चात्प्राणो वै मित्रोऽपानो वरुणः प्राणपानावेवास्मिन्दधाति दिवो वृष्टिर्वाताः स्पृता एकविँश स्तोम इत्याह प्रतिष्ठा वा एकविँशः प्रतिष्ठित्यै” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,6 +551,8 @@ Thou art the portion of them that gaze on men, the overlordship of Dhatr, the bi
 वा᳓ताः स्पृता᳓ +++(असि)+++,  
 एकविँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -503,10 +577,14 @@ Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky
 
 मित्रावरुणयोः प्राणपानाभिमानित्वात्तद्रूपत्वम् ।   तस्य मन्त्रस्योत्तरभागे सर्वस्तोमप्रतिष्ठारूपस्यैकविंशस्याभिघानं प्रतिष्ठित्यै संपद्यते ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयं मन्त्रं विनियुङ्क्ते— “इन्द्रस्य भागोऽसीत्युत्तरत ओजो वा इन्द्र ओजो विष्णुरोजः क्षत्त्रमोजः पञ्चदश ओज एवोत्तरतो धत्ते तस्मादुत्तरतोभिप्रयायी जयति” [सं॰ का॰ ५ प्र॰ ३ अ॰ ४] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,6 +594,8 @@ Thou art the portion of Mitra, the overlordship of Varuna, the rain from the sky
 क्षत्रँ᳓ स्पृत᳓म् +++(असि)+++,  
 पञ्चदश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -541,10 +621,14 @@ Stoma.
 
 इन्द्रादीनां बलवत्त्वादोजोरूपत्वम् ।   ततः सर्वमप्योज उदीच्यां दिशि स्थापितं भवति ।   ओजोयुक्तत्वादेवोत्तरदिग्गामी तीर्थयात्रादिषुण्येन स्वर्गं जयति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठं मन्त्रं विनियुङ्क्ते— “वसूनां भागोऽसीति पुरस्तादुप दधाति यज्ञमुखं वै वसवो यज्ञमुखः रुद्रा यज्ञमुखं चतुर्विँशो यज्ञमुखमेव पुरस्ताद्वि यातयति” (सं॰ का॰ ५ प्र॰ ३   अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +638,8 @@ Stoma.
 च᳓तुष्पात्स्पृत᳓म् +++(असि)+++,  
 चतुर्विँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -577,10 +663,14 @@ Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadr
 
 वसूनां प्रातःसवनाभिमानित्वाद्यज्ञमुखत्वम् ।   प्रातःसवनाभिमानित्वं च च्छन्दोगा आमनन्ति—“ब्रह्मवादिनो वदन्ति यद्वसूनां प्रातःसवनम्” इति ।   रुतं शब्दं मन्त्ररूपं द्रावयन्ति प्रवर्तयन्तीति रुद्राः ।   तथा सति रुद्रप्रवर्तितमन्त्रपूर्वकत्वाद्यज्ञस्य रुद्राणां यज्ञमुखत्वोपचारः ।   चतुर्विशचतुश्चत्वारिंशाष्टाचत्वार्विशरूपेषु च्छन्दोमेषु प्रथमत्वाच्चतुर्विंशस्य यज्ञमुखत्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २०१० अथ सप्तमं मन्त्रं विनियुङ्क्ते— “आदित्यानां भागोऽसीति दक्षिणतोऽन्नं वा आदित्या अन्नं मरुतोऽन्नं गर्भा अन्नं पञ्चविँशोऽन्नमेव दक्षिणतो धत्ते तस्माद्दक्षिणेनान्नमद्यते” [सं॰ का॰ ५ प्र॰ ३ अ॰ ४] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +680,8 @@ Thou art the portion of the Vasus [1], the overlordship of the Rudras, the quadr
 ग᳓र्भाः स्पृताः᳓+++(असि)+++,  
 पञ्चविँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,10 +705,14 @@ Thou art the portion of the Adityas, the overlordship of the Maruts, offspring s
 
 ‘आदित्याज्जायते वृष्टिर्वृष्टेरत्न्नंततः प्रजाः’ इत्यन्नहेतुत्वादादित्यानाम न्नत्वम् ।   मरुतां वैश्यरूपत्वेनान्नसंपादकत्वादन्नत्वम् ।   गर्भाणामन्नकार्यत्वादन्नत्वम् ।   पञ्चविंशस्तोमस्य शास्त्रसिद्धान्नहेतुत्वाद्न्नत्वम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमं मन्त्रं विनियुङ्क्ते— 		“अदित्यै भागोऽसीति पश्चात्प्रतिष्ठा वा अदितिः प्रतिष्ठा पूषा प्रतिष्ठा त्रिणवः प्रतिष्ठित्यै” (सं॰ का॰ ५ प्र॰ ३ अ. ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -627,6 +723,8 @@ Thou art the portion of the Adityas, the overlordship of the Maruts, offspring s
 ओ᳓जस्स्पृत᳓म् +++(असि)+++,
 त्रिणव᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -651,10 +749,14 @@ Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twent
 
 अदितिर्भूमिः ।   सा च निवासहेतुत्वात्प्रतिष्ठा ।   पूष्णः पोपकत्वेन प्रतिष्ठा त्वम् त्रिणवस्तोमस्य शास्त्रसिद्धं प्रतिष्ठात्वम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमं मन्त्रं विनियुङ्क्ते— “देवस्य सवितुर्भागोऽसीत्युत्तरतो ब्रह्म वै देवः सविता ब्रह्म बृहस्पतिर्ब्रह्म चतुष्टोमो ब्रह्मवर्चसमेवोत्तरतो धत्ते तस्मादुत्तरोऽर्धो ब्रह्मवर्चसितरः सावित्रवती भवति प्रसूत्यै तस्माद्ब्राह्मणानामुदीची सनिः प्रसूता” (सं॰ का॰ ५ प्र॰ ३   अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -664,6 +766,8 @@ Thou art the portion of Aditi, the overlordship of Pusan, force saved, the twent
 समी᳓चीर्दि᳓शस्स्पृताः᳓ +++(असि)+++,
 चतुष्टोम᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -687,11 +791,14 @@ Thou art the portion of the god Savitr, the overlordship of Brhaspati, all the q
 
 प्रातःसंध्यादौ ब्राह्मणेरुपास्यमानत्वात्सवितुर्ब्रह्मत्वम् ।   बृहस्पतेर्ब्राह्मणजात्यभिमानित्वाद्ब्रह्मत्वम् ।   तच्च “ब्रह्म वै देवानां बृहस्पतिः” इति श्रुत्यन्तरादवगम्यते ।   चतुष्टोमस्य शास्त्रासिद्धं ब्रह्मत्वम् ।   सवितृप्रतिपादको मन्त्रः सावित्रस्तेन मन्त्रेणोपहितेष्टका सावित्रवती ।   अतः सा प्रसवाय संपद्यते ।   यस्माद्ब्रह्मरूपसवितृप्रतिपादकमन्त्रसाध्येष्टकोत्तरस्यां दिश्युपहिता तस्माद्ब्राह्मणानामुदीची सनिः प्रसूनोत्तरस्यां दिशि यज्ञभिक्षादिरूपा याच्ञा शास्त्रोणाभ्यनुज्ञाता।   विन्ध्यस्योत्तरभागे हि पुण्यभूमौ शुद्धा ब्राह्मणा वर्तन्ते, तस्मात्तत्र प्रतिग्रहः प्रशस्तः ।     २०११ पूर्वानुवाकाम्नातौ सप्तदशाष्टादशमन्त्रावितः पूर्वं न विनियुक्तौ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्त्र᳓श्चतुष्टोमः᳓ ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -713,10 +820,14 @@ the support, the fourfold Stoma.
 तत्राष्टादशंमन्त्रमिदानीं विनियुङ्क्ते— “धर्त्रश्चतुष्टोम इति पुरस्तादुप दधाति यज्ञमुखं वै धर्त्रो यज्ञमुखं चतुष्टोमो यज्ञमुखमेव पुरस्ताद्वि यातयति” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।  
 धर्त्रो धारयिताऽग्निष्टोमः स च सोमयागानां प्रथमभावित्वाद्यज्ञमुखम् ।   चतुष्टोमः (* षष्टिस्तोमस्तृतीयः ) ।   तस्य यज्ञमुखभूतत्रिवृदात्मकत्वाद्यज्ञमुखत्वम्।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रकृतानुवाकगतं नवमं मन्त्रं विनियुङ्क्ते— “यावानां भागोऽसीती दक्षिणतो मासा वै यावा अर्धमासा अयावास्तस्माद्दक्षिणावृत्तो मासा अन्नं वै यावा अन्नं प्रजा अन्नमेव दक्षिणतो धत्ते तस्माद्दक्षिणेनान्नद्यते” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -726,6 +837,8 @@ the support, the fourfold Stoma.
 प्रजा᳓स्स्पृताः᳓ +++(असि)+++,  
 चतुश्चत्वारिँश᳓स्स्तो᳓मः +++(असि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -749,10 +862,14 @@ Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring sav
 
 गोलकस्य प्रादक्षिण्येन संचास्ताऽऽदित्येन निष्पाद्यत्वान्मासानां दक्षिणावृत्वम ।   यावशब्दवाच्यानां मासानां कालरूपाणामन्नपाकहेतुत्वादन्नत्वम् ।   प्रजानामन्नभोक्तृत्वादन्नत्वम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमं मन्त्रं विनियुङ्क्ते— “ऋभूणां भागोऽतीति पश्चात्प्रतिष्ठित्यै” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -762,6 +879,8 @@ Thou art the portion of the Yavas, the overlordship of the Ayavas, offspring sav
 भूत᳓न्नि᳓शान्तँ स्पृत᳓म्  +++(असि)+++,  
 त्रयस्त्रिँश᳓स्स्तो᳓मः  ॥ [17]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -794,6 +913,7 @@ Thou art the portion of the Rbhus, the overlordship, of the All-gods, being calm
 योऽग्निरस्ति स एषोऽर्कोऽर्चनीयः ।   तस्यार्चताङ्गत्वेन स्तोत्रशस्त्रो अपेक्षिते ।   तथा सति योऽयं वक्रत्वेनोपघानप्रकारोऽभिहितस्तत्रैकेनानुवाकेनोक्तं स्तोत्रमितरेणानुवाकेनोक्तं शस्त्रम् ।   एवं सत्यर्चनीये वह्नावेवार्चनयोग्यमनुष्ठानां क्रमेण संपादितं भवति ।   तदनुष्ठानं तद्वेदनं च प्रशंसति— “अत्यन्नमाऽश्यान्नादो जायते यस्यैषा विधा विधीयते य उ चैनामेवं वेद” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।  
 एनां विधाम् ।  
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

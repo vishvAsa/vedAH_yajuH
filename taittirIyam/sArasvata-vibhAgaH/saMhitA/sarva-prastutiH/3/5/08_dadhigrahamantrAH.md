@@ -4,6 +4,8 @@ title = "०८ दधिग्रहमन्त्राः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि प्र॒जाप॑तये त्वा॒ ज्योति॑ष्मते॒ ज्योति॑ष्मन्तङ्गृह्णामि॒ दक्षा॑य दक्ष॒वृधे॑ रा॒तन्दे॒वेभ्यो॑ऽग्निजि॒ह्वेभ्य॑स्त्वर्ता॒युभ्य॒ इन्द्र॑ज्येष्ठेभ्यो॒ वरु॑णराजभ्यो॒ वाता॑पिभ्यᳶ प॒र्जन्या॑त्मभ्यः
@@ -13,11 +15,14 @@ title = "०८ दधिग्रहमन्त्राः"
 
 1प्राजापत्यं दधिग्रहं गृह्णाति - उपयामगृहीतोसीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓गृहीतोऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ Thou art taken with a support;
 
 'इयं वा उपयामः' तयैव गृहीतोसि । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा ज्यो᳓तिष्मते ज्यो᳓तिष्मन्तङ्गृह्णामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,16 +71,22 @@ for Prajapati thee, for him full of light, thee full of light I take;
 
 प्रजापतये ज्योतिष्मते दीप्तिमते हे दधिग्रह त्वां दीप्तिमन्तं गृह्णामि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षाय सर्वोत्पादनसमर्थाय दक्षवृधे दक्षयोरुत्साहवतोरध्वर्युयजमानयोर्वर्धयित्रे; अन्तरितत्वादिदोषापनयनात् । 'यां वा अध्वर्युश्च यजमानश्च देवतामन्तरितः' इति ब्राह्मणम् । वृधेर्ण्यन्तात्क्विप्, 'बहुलमन्यत्रापि' इति णिलुक् । ग्रहो विशेष्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षाय दक्षवृ᳓धे रात᳓न्देवे᳓भ्योऽग्निजिह्वे᳓भ्यस्त्वर्तायु᳓भ्य इ᳓न्द्रज्येष्ठेभ्यो व᳓रुणराजभ्यो वा᳓तापिभ्यᳶ पर्ज᳓न्यात्मभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,6 +115,9 @@ for Daksa who increases cleverness, (thee) that are acceptable to the gods, thee
 वातापिभ्यः वातवद्व्याप्नुवद्भ्यः वातमाविश्य व्याप्नुवद्भ्यः अमूर्तेभ्यः पितृभ्यः । उक्तमुत्तरपदाद्युदात्तत्वम् ।  
 पर्जन्यात्मभ्यः वर्षणस्वभावेम्बः । एभ्यः सर्वेभ्यो यो दत्तो भवति, तं त्वां प्रजापतये गृह्णामीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -111,6 +128,7 @@ for Daksa who increases cleverness, (thee) that are acceptable to the gods, thee
 
 2आदायोत्तिष्ठति - दिव इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -118,6 +136,8 @@ for Daksa who increases cleverness, (thee) that are acceptable to the gods, thee
 अन्त᳓रिक्षाय त्वा +++(उद्यच्छामि)+++  ,  
 पृथिव्यै᳓ त्वा +++(उद्यच्छामि)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,6 +160,9 @@ for sky thee, for atmosphere thee, for earth thee!
 
 दिवाद्यथं त्वामुद्यच्छामीति शेषः । 'ऊडिदम्' इति दिवश्चतुर्थ्या उदात्तत्वम् । 'उदात्तयणः' इति पृथिव्याः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -150,11 +173,14 @@ for sky thee, for atmosphere thee, for earth thee!
 
 3पूर्वया द्वारा निष्क्रामति - अपेन्द्रेति पुरोष्णिहा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓पेन्द्र द्विषतो᳓ म᳓नो᳓ऽप जि᳓ज्यासतो जह्य᳓प यो᳓ नोऽरातीय᳓ति त᳓ञ्जहि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,6 +203,9 @@ Smite him away who practiseth evil against us.
 
 तृतीयस्याष्टाक्षरत्वात्, (द्वितीयस्य) । हे इन्द्र द्विषतः, योस्मान् द्वेष्टि भवन्तं वा, तस्य मनः अपजहि अपगमय नाशय । किञ्च - जिज्यासतः योस्मान् क्षपयितुमिच्छति, तस्य च मनोपजहि । ताननेन पापेन जहि । यद्वा - जिज्यासतः अस्माकं शत्रूनपजहि जिज्यासतश्च मनोऽपजहि । अरातीयति अदानमिच्छति योस्मभ्यं न किञ्चिदपि दातुमिच्छति, तं चादानशीलं शत्रुं जहि । अरातिशब्दात् 'छन्दसि परेच्छायाम्' इति क्यच् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -187,6 +216,7 @@ Smite him away who practiseth evil against us.
 
 4अथ जुहोति - प्राणाय त्वेत्यादिभिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -196,6 +226,8 @@ Smite him away who practiseth evil against us.
 सते᳓  त्वा  +++(उद्यच्छामि )+++  ,
 अ᳓सते त्वा +++(उद्यच्छामि )+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,6 +253,7 @@ For expiration thee, for inspiration thee, for cross-breathing thee for being th
 सर्वे निगदसिद्धाः । प्राणादयश्शब्दा व्युत्पादिताः ।
 सते । 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,6 +262,8 @@ For expiration thee, for inspiration thee, for cross-breathing thee for being th
 वि᳓श्वेभ्यस्त्वा +++(उद्यच्छामि )+++  ,  
 भूते᳓भ्यो +++(त्वा उद्यच्छामि )+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,12 +287,15 @@ for the waters thee, for the plants for all beings thee;
 
 अद्भ्यः । 'ऊडिदम्' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓तᳶ प्रजा᳓ अ᳓क्खिद्रा अ᳓जायन्त
 त᳓स्मै त्वा प्रजा᳓पतये विभूदा᳓व्ने ज्यो᳓तिष्मते ज्यो᳓तिष्मन्तञ्जुहोमि ॥ [25]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,4 +322,5 @@ whence offspring arose unhurt, for that thee, for Prajapati, of bounteous gifts,
  तादृशाय प्राणाद्यर्थं त्वां जुहोमीति ॥
 
 इति तृतीये पञ्चमे अष्टमोनुवाकः ॥
+</details>
 </details>

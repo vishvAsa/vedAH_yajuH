@@ -2,6 +2,8 @@
 title = "०८ देविकादिकर्मषट्कम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः  
@@ -12,6 +14,7 @@ title = "०८ देविकादिकर्मषट्कम्"
 
 1अथाग्निहोत्रं हुत्वा देविकाहवींषि निर्वपति । तानि विदधाति - धात्र इत्यादि ॥ पञ्चेमानि हवींषि । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -21,6 +24,8 @@ title = "०८ देविकादिकर्मषट्कम्"
 सिनीवाल्यै᳓ चरु᳓ङ्  
 कुह्वै᳙ चरु᳓म्।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,11 +56,14 @@ to Sinivali an oblation, to Kuhu an oblation;
 
 सिनीवाल्यै । पूर्ववद् विभक्त्युदात्तत्वम् । जुहोतेर्ह्वयतेर्वाऽपि कुहूः । 'नोङ्धात्वोः' इति विभक्तेरुदात्तत्वे प्रतिषिद्धे 'उदात्तस्वरितयोर्यणः' इति विभक्तिस्स्वर्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुनौ᳓+++(→स्त्रीपुंसौ)+++ गा᳓वौ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -76,10 +84,14 @@ the sacrificial fee is a pair of cattle.
 
 मिथुनौ स्त्रीपुंसौ गावौ दक्षिणा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ त्रिहविष्काणि त्रीणि कर्माणि भवन्ति, तानि विदधाति - आग्नावैष्णवमेकादशकपालं निर्वपतीत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +100,8 @@ the sacrificial fee is a pair of cattle.
 ऐन्द्रावैष्णव᳓म् ए᳓कादशकपालव्ँ  
 वैष्णव᳓न् त्रिकपाल᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,11 +123,14 @@ To Agni and Visnu he offers on eleven potsherds, to Indra and Visnu on eleven po
 आग्नावैष्णवमैन्द्रावैष्णवमिति 'देवताद्वन्द्वे च' इत्यानङ्, उभयपदवृद्धिश्च ।  
 वैष्णवस्त्रिकपालस्तृतीयः । 'वीर्यं वा अग्निः' इत्यादि ब्राह्मणम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓मनो᳓ वही᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -134,10 +151,14 @@ the sacrificial fee is a dwarf beast of burden.
 
 अत्र वामनो वही दक्षिणा अनुब्राह्मणवशात् ऋषभ इति गम्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ द्वितीयम् - अग्नीषोमीयमित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -147,6 +168,8 @@ the sacrificial fee is a dwarf beast of burden.
 सौम्य᳓ञ् चरु᳓म्।  
 बभ्रु᳓र् द᳓क्षिणा॥ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,10 +190,14 @@ To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven pots
 
 'ईदग्नेस्सोमवरुणयोः' इतीकारः, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'द्यावापृथिवीशुनासीर' इति छः । इन्द्रासोमीयम् । छान्दसश्छः, पूर्ववदानङ् । सौम्यश्चरुस्तृतीयः । 'सोमाट्ट्यण्' । 'अग्निः प्रजानां प्रजनयिता' इत्यादि ब्राह्मणम् । बभ्रुः श्यामकपिलो गौर्दक्षिणा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ तृतीयम् - सोमापौष्णमित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +207,8 @@ To Agni and Soma he offers on eleven potsherds, to Indra and Soma on eleven pots
 पौष्ण᳓ञ् चरु᳓म्।  
 श्यामो᳓ द᳓क्षिणा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,10 +229,14 @@ To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusa
 
 पूर्ववदानङ्, उभयपदवृद्धिश्च । पौष्णश्चरुस्तृतीयः । अत्र श्यामो गौर्दक्षिणा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ तदानीमेव कर्तव्यं यागं विदधाति - वैश्वानरं द्वादशकपालमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +245,8 @@ To Soma and Pusan he offers an oblation, to Indra and Pusan an oblation, to Pusa
 
 हि᳓रण्यन् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,10 +269,14 @@ To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold
 
 तत्र हिरण्यं दक्षिणा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ तदानीमेव वारुणं यवमयं चरुं निर्वपति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +285,8 @@ To (Agni) Vaiśvanara he offers on twelve potsherds; the sacrificial fee is gold
 
 अ᳓श्वो द᳓क्षिणा ॥ [14]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,4 +310,5 @@ To Varuna (he offers) an oblation made of barley; the sacrificial fee is a horse
 अत्राश्वो दक्षिणा ॥
 
 इत्यष्टमे अष्टमोनुवाकः ॥  
+</details>
 </details>

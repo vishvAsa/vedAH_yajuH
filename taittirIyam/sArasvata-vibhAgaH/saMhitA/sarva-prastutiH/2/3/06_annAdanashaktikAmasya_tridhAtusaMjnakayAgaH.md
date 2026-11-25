@@ -4,15 +4,20 @@ title = "०६ अन्नादनशक्तिकामस्य त्र
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तिर्दे॒वेभ्यो॒ऽन्नाद्य॒व्व्ँयादि॑श॒त्सो॑ऽब्रवी॒द्यदि॒माल्ँ लो॒कान॒भ्य॑ति॒रिच्या॑तै॒ तन्ममा॑स॒दिति॒ तदि॒माल्ँ लो॒कान॒भ्यत्य॑रिच्य॒तेन्द्रँ॒ राजा॑न॒मिन्द्र॑मधिरा॒जमिन्द्रँ॑ स्व॒राजा॑न॒न्ततो॒ वै स इ॒माल्ँ लो॒काँस्त्रे॒धादु॑ह॒त्तत्त्रि॒धातो॑स्त्रिधातु॒त्वय्यङ्का॒मये॑तान्ना॒दस्स्या॒दिति॒ तस्मा॑ ए॒तन्त्रि॒धातु॒न्निर्व॑पे॒दिन्द्रा॑य॒ राज्ञे॑ पुरो॒डाश॑म् [27]  एका॑दशकपाल॒मिन्द्रा॑याधिरा॒जायेन्द्रा॑य स्व॒राज्ञे॒ऽयव्ँवा इन्द्रो॒ राजा॒यमिन्द्रो॑ऽधिरा॒जो॑ऽसाविन्द्र॑स्स्व॒राडि॒माने॒व लो॒कान्त्स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ त ए॒वास्मा॒ अन्न॒म्प्र य॑च्छन्त्यन्ना॒द ए॒व भ॑वति॒ यथा॑ व॒त्सेन॒ प्रत्ता॒ङ्गान्दु॒ह ए॒वमे॒वेमाल्ँ लो॒कान्प्रत्ता॒न्काम॑म॒न्नाद्य॑न्दुह उत्ता॒नेषु॑ क॒पाले॒ष्वधि॑ श्रय॒त्यया॑तयामत्वाय॒ त्रयᳶ॑ पुरो॒डाशा॑ भवन्ति॒ त्रय॑ इ॒मे लो॒का ए॒षाल्ँ लो॒काना॒माप्त्या॒ उत्त॑रउत्तरो॒ ज्याया॑न्भवत्ये॒वमि॑व॒ हीमे लो॒कास्समृ॑द्ध्यै॒ सर्वे॑षामभिग॒मय॒न्नव॑ द्य॒त्यछ॑म्बट्कारव्व्ँय॒त्यास॒मन्वा॒हानि॑र्दाहाय ॥ [28]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्देवे᳓भ्योऽन्ना᳓द्यव्व्ँया᳓दिशत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,12 +38,15 @@ Prajapati assigned food to the gods;
 
 1प्रजापतिर्देवेभ्य इत्यादि ॥ व्यादिशत् पृथक्त्वेन व्यावृत्तमादिशत्, एकैकलोकविशेषावधिकमित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽब्रवीत् ।  
 य᳓दिमाल्ँ᳓ लोका᳓नभ्य᳙तिरि᳓च्याते᳓, ए᳓त᳓न्म᳓मासदि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,11 +68,14 @@ he said, 'Whatever shall be left over these worlds, be that mine.'
 
 अथ देवानां तथा व्यादिश्य सोब्रवीत्प्रजापतिः ; यदन्नाद्यमिमान् सर्वानपि लोकान् अभ्यतिरिच्यते अतिव्याप्य वर्तते नैकैकलोकावधिकं भवति तत् ममासत् अस्तु । अतिरिच्यतेर्लेटि आडागमः, ' वैतोन्यत्र ' इत्यैत्वम् । आस्तेर्लेट्याडागमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दिमाल्ँ᳓ लोका᳓नभ्य᳓त्यरिच्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,11 +96,14 @@ That was left over these worlds, Indra, the king, Indra, the overlord, Indra, th
 
 तस्मादिमान् लोकान् अभ्यत्यरिच्यत प्राजापत्यमैश्वर्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रँ रा᳓जानमि᳓न्द्रमधिराज᳓मि᳓न्द्रँ स्वरा᳓जानम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,11 +124,14 @@ thence he milked these worlds threefold;
 
 किमस्मान् लोकानित्याह – इन्द्रं राजानमित्यादि । तिस्र एतास्त्रिधातोर्देवता लोकत्रयात्मिकाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ इमाल्ँ᳓ लोकाँ᳓स्त्रेधा᳓दुहत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,11 +152,14 @@ that is the cause of its having three elements.
 
 ततः खलु त्रिधातुदेवतानां त्रित्वात्प्रजापतिः लोकत्रयव्यापी व्याप्तानिमान् लोकांस्त्रेधादुहत् त्रिप्रकारमदुहत् । उत्तरोत्तरज्यायस्त्वात्त्रिप्रकारलोकत्रयात्मना अत्मीयमैश्वर्यं विभक्तवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्त्रिधा᳓तोस्त्रिधातुत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -160,6 +180,7 @@ For him of whom he desires, 'May he be an eater of food', let him offer this (of
 
 तदित्यादि । त्रयो धातवो धनान्यस्मिन्निति त्रिधातुः, त्रेधा धातव्यत्वात्पुरोडाशस्य । धातव्या वा पुरोडाशा धातवः, त्रिधा भिन्नाः पुरोडाशा अस्मिन्निति । यद्वा - सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,6 +189,8 @@ For him of whom he desires, 'May he be an eater of food', let him offer this (of
 इ᳓न्द्राय रा᳓ज्ञे पुरोडा᳓शमे᳓कादशकपालम् ।  
 इ᳓न्द्रायाधिराजा᳓ये᳓न्द्राय स्वरा᳓ज्ञे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,12 +218,15 @@ Indra, the king, is this (world of earth), Indra, the overlord, is this (atmosph
 
 पुनस्तदन्तं कृत्वा तस्मिन्नुत्तरं ततो ज्यायांसमधिश्रयतीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयव्ँ᳓वा᳓ इ᳓न्द्रो  रा᳓जाय᳓मि᳓न्द्रोऽधिराजो᳙ऽसा᳓वि᳓न्द्रस्स्वरा᳓ट्,
 इमा᳓नेव᳓ लोका᳓न्त्स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +243,14 @@ verily he has recourse to these worlds with their own share;
 
 अ॒यम् । वै । इन्द्रः॑ । राजा॑ । अ॒यम् । इन्द्रः॑ । अ॒धि॒रा॒ज इत्य॑धि-रा॒जः । अ॒सौ । इन्द्रः॑ । स्व॒राडिति॑ स्व-राट् ॥ इ॒मान् । ए॒व । लो॒कान् । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एवा᳓स्मा अ᳓न्नम्प्र᳓यच्छन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,11 +266,14 @@ verily they bestow food on him;
 
 ते । ए॒व । अ॒स्मै॒ । अन्न॑म् । प्रेति॑ । य॒च्छ॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नाद᳓ एव᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,12 +289,15 @@ he becomes an eater of food.
 
 अ॒न्ना॒द इत्य॑न्न-अ॒दः । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था वत्से᳓न प्र᳓त्ताङ्गा᳓न्दुहे᳓ ।  
 एव᳓मेवे᳓माल्ँ᳓ लोका᳓न्प्र᳓त्तान्का᳓ममन्ना᳓द्यन्दुहे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +323,14 @@ Even as one milks a cow ready to give milk by reason of its calf, so he milks th
 
 'लोपस्त आत्मनेपदेषु' इति तलोपः । एवमेवेमान् लोकान् अनेन त्रिधातुना वत्सस्थानीयेन प्रत्तां कामं स्वाभिमतमन्नाद्यं दुघ्धे यजमानः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्ताने᳓षु कपा᳓लेष्व᳓धि श्रयति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,11 +351,14 @@ he places (the cake) on potsherds face upwards, for variety.
 
 4उत्तानेष्विति ॥ गतम् । यातयामत्वं गतरसत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓यातयामत्वाय त्र᳓यᳶ पुरोडा᳓शा भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -338,11 +379,14 @@ There are three cakes,
 
 त्रय इति । पुरोडाशत्रित्वेन लोकत्रयाप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓य इमे᳓ लोका᳓ एषाल्ँ᳓ लोका᳓नामा᳓प्त्यै᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -358,11 +402,14 @@ these worlds are three; (verily they serve) to obtain these worlds;
 
 त्रयः॑ । इ॒मे । लो॒काः । ए॒षाम् । लो॒काना॑म् । आप्त्यै॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरउत्तरो ज्या᳓यान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,11 +430,14 @@ each one above the other is larger, for so as it were are these worlds;
 
 उत्तरउत्तर इति । लोकानामुत्तरोत्तरज्यायस्त्वात् पुरोडाशानामप्युत्तरोत्तरज्यायस्त्वं समृद्ध्यै भति । सदृशयोगात्समृद्धिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एव᳓मिव ही᳓मे᳓ लोका᳓स्स᳓मृद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -403,11 +453,14 @@ each one above the other is larger, for so as it were are these worlds;
 
 ए॒वम् । इ॒व॒ । हि । इ॒मे । लो॒काः । समृ॑द्ध्या॒ इति॒ सम्-ऋ॒द्ध्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वेषामभिगम᳓यन्न᳓वद्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,11 +485,14 @@ he cuts off from all (the cakes) as he sets them up without making a failure;
 
 एतदुक्तं भवति - दक्षिणार्धात्प्रथमां देवतां यजेत्, मध्याद्द्वितीयां, उत्तरार्धात्तृतीयामिति । अछम्बट्कारं अनार्तत्वं, (य) एकस्मिन् भागे त्रयाणामवदाने त्रयमप्यार्तं स्यात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓छम्बट्कारव्व्ँयत्या᳓सम᳓न्वाहा᳓निर्दाहाय ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,4 +515,5 @@ be recites (the verses) alternating, to prevent burning.
 एवं सर्वा याज्याः पुरोनुवाक्याश्च भवन्ति । तद्यथा - 'इन्द्राय राज्ञेनुब्रूहि' इत्युक्ते प्राच्यां दिशि 'त्वमिन्द्र' इत्यन्वाह पुरोनुवाक्याम्, 'इन्द्रो जयाति न परो जयातै' इति यजति । 'इन्द्रायाधिराजाय' इत्युक्ते 'इन्द्रो जयाति न परो जयातै' इत्यन्वाह पुरोनुवाक्याम्, 'अस्ये देव प्ररिरिचे' इति यजति । 'इन्द्राय स्वराज्ञेनुब्रूहि' इत्युक्ते 'अस्ये देव' इति पुरोनुवाक्यामन्वाह, प्राच्यां दिशि 'त्वमिन्द्र' इति यजति । एवं क्रियमाणमनिर्दाहाय भवति । इतरथा हवींषि निर्दग्धानि विनाशितानि स्युः ॥
 
 इति द्वितीये तृतीये षष्ठोनुवाकः ॥  
+</details>
 </details>

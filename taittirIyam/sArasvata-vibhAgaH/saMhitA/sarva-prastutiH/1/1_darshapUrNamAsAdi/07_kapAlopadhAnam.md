@@ -4,15 +4,20 @@ title: ०७ कपालोपधानम्
 ---
 १२ अनुष्टुप् ।  प्रजापतिर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1धृष्टिमादत्ते - धृष्टिरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे उपवेष!)+++ धृ᳓ष्टिर् असि, ब्र᳓ह्म यच्छ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,18 +38,24 @@ Bold art thou, support our prayer.
 
 धृष्टिरुपवेषः । धृष्टिर्धर्षणे समर्थासि शत्रूणाम् । अतो ब्रह्म हविर्लक्षणमन्नं यच्छ देहि । किं हि नाम त्वया न शक्यते कर्तुमिति ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गार्हपत्यमभिमन्त्रयते - अपेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓पा ऽग्ने, ऽग्नि᳓म् आमा᳓+++(=अपक्वा)+++-दञ् जहि +++(, पक्वादं रक्ष)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,18 +76,24 @@ O Agni, drive off the fire that eats raw flesh,
 
 हे **अग्ने** गार्हपत्य यस्त्वयि **आमात् अग्निः** तं **जहि** नाशय । आमात् अपक्वाशी हविषो विनाशकः । 'अदोऽनन्ने' (पा.सू. 3.2.68) इति विट्प्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अङ्गारं निरस्यति - निरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓ष् क्रव्या᳓दँ सेध᳓+++(=गमय)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,18 +114,24 @@ send away the corpse-eating one
 
 क्रव्यादं अग्निं निस्सेध निष्कृष्य बहिरपनय । षिधू गत्यां, भौवादिकः । आममांसभक्षकः क्रव्यात् चिताग्निः । 'क्रव्ये च' (पा.सू. 3.2.69) इति विट्प्रत्ययः, पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अङ्गारम् अन्यम् आवर्तयति – एति  +++(आ इति इति च्छेदः)+++ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ देवय᳓जव्ँ वह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,12 +152,16 @@ bring hither the fire that sacrifices to the gods.
 
 देवान् यजतीति देवयट्, हविषां सम्यक्सम्पादकः । 'अन्येभ्योपि दृश्यते' (पा.सू. 3.2.178) इति क्विप्प्रत्ययः । स एव प्रकृतिस्वरः । देवयजं अग्निम् आवह आनय । 'य एवामात्क्रव्यात्' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अङ्गारमधिवर्तयति - निर्दग्धमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -142,6 +169,8 @@ ____
 नि᳓र्दग्धँ र᳓क्षो,  
 नि᳓र्दग्धा अ᳓रातयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,12 +200,16 @@ The Raksas is burnt, the evil spirits are burnt.
 
 </div>
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6मध्यमं कपालमुपदधाति - ध्रुवमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +219,8 @@ ____
 आ᳓युर् दृँह ।  
 प्रजा᳓न् दृँह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,15 +253,17 @@ Thou art firm; make firm the earth, make life firm, make offspring firm,
 
 यजमानस्यायुः प्रजां च दृंह । प्रजाशब्दः कृदुत्तरप्रकृतिस्वरेण (पा.सू. 6.2.139) अन्तोदात्तः ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
 +++('सजातान् अस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,14 +284,17 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7पूर्वार्धमुपदधाति - धर्त्रमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -264,6 +304,8 @@ ____
 प्राण᳓न् दृँह ।  
 अ᳓पान᳓न् दृँह ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,15 +338,17 @@ Thou art a supporter, make firm the atmosphere, make expiration firm, make inspi
 
 प्राणापानशब्दौ थाथादिस्वरेण (पा.सू. 6.2.144) अन्तोदात्तौ ।  समानमन्यत् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
 +++('सजातान् अस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -325,14 +369,17 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अपरार्धमुपदधाति - धरुणमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +389,8 @@ ____
 च᳓क्षुर् दृँह ।  
 श्रो᳓त्रन् दृँह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,15 +421,17 @@ Thou are supporting, make the heaven firm, make the eye [1] firm, make the ear f
 
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
 +++('सजातान् अस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,13 +452,16 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
-
+</details>
 </div>  
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9दक्षिणार्धमुपदधाति - धर्मेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +471,8 @@ ____
 यो᳓निन् दृँह।  
 प्रजा᳓न् दृँह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,15 +503,17 @@ Thou art a support, make the quarters firm, make the organ firm, make offspring 
 
 - [दृंह दृढां कुरु । दृह दृहि वृद्धौ, अन्तर्भावितण्यर्थः]
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
 +++('सजातान् अस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -476,14 +534,17 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अन्यान्य् उपदधाति - चित इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +555,8 @@ ____
 प्रजा᳓म् अस्मै᳓ [य᳓जमानाय प᳓र्यूह ] ।  
 रयि᳓म् अस्मै᳓  [य᳓जमानाय प᳓र्यूह ] ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -521,15 +584,17 @@ Ye are gatherers, bring offspring to this sacrificer, wealth to him,
 
 चीयन्ते उपचीयन्ते इति चितः चितयः । यस्माच्चितः स्थ, तस्मादस्य यजमानस्य प्रजार्थं पर्यूहत परितश्चिनुत । प्रत्येकमभिधानादेकवचनम् । शिष्टं स्पष्टम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/sajAtAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓जाता᳓न् अस्मै᳓ य᳓जमानाय प᳓र्यूह ।  
 +++('सजातान् अस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ।)+++
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -550,20 +615,25 @@ make his follows subordinate to this sacrificer.
 
 किञ्च अस्मै यजमानाय । षष्ठ्यर्थे चतुर्थ्यौ (पा.सू. 2.3.62 वा 1) । अस्य यजमानस्य सजातान् समानजन्मनः पर्यूह परितस्सेवमानान् कुरु । 'सजातानस्मा अभितो बहुलान् करोति' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् । 'समानस्य छन्दसि' (पा.सू. 6.3.84) इत्यादिना सभावः । 'वा जाते' (पा.सू. 6.2.171) इत्युत्तरपदान्तोदात्तत्वम् । जात्यादिग्रहणं नानुवर्तिष्यते । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अस्मा इति विभक्तेरुदात्तत्वम् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.176) यजमाने धातुस्वरः । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' (पा.सू. 1.3.29 वा 3) इत्यूह्यतेः परस्मैपदत्वम् ॥
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11अङ्गारैरभिवासयति - भृगूणामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृ᳓गूणाम् अ᳓ङ्गिरसान् त᳓पसा तप्यध्वम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -584,12 +654,16 @@ Be ye heated with the heat of the Bhrgus and the Angirases.
 
 भृगवोङ्गिरसश्च तपस्विनः प्रसिद्धाः । तेषां तपसा तप्यध्वं तप्तानि भवत । कर्मणि लकारः । 'देवतानामेव' (तै.ब्रा. 3.2.7) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12कपालानि विमुञ्चति - यानीति ॥ इष्टिसंस्थानकालभाविनोपि विमोकमन्त्रस्य प्रासङ्गिकमिहाम्नानम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">

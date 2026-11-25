@@ -3,6 +3,8 @@ title = "०३ सोमावेक्षणम्"
 +++
 
 विश्वेदेवा ऋषयः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒रि॒भूर॒ग्निम्प॑रि॒भूरिन्द्र॑म्परि॒भूर्विश्वा॑न्दे॒वान्प॑रि॒भूर्माँ स॒ह ब्र॑ह्मवर्च॒सेन॒ स नᳶ॑ पवस्व॒ शङ्गवे॒ शञ्जना॑य॒ शमर्व॑ते॒ शँ रा॑ज॒न्नोष॑धी॒भ्योऽच्छि॑न्नस्य ते रयिपते सु॒वीर्य॑स्य रा॒यस्पोष॑स्य ददि॒तार॑स्स्याम । तस्य॑ मे रास्व॒ तस्य॑ ते भक्षीय॒ तस्य॑ त इ॒दमुन्मृ॑जे ।
@@ -12,11 +14,14 @@ title = "०३ सोमावेक्षणम्"
 
 1समस्तं राजानमुपतिष्ठते - परिभूरिति संकृत्यैकादशपदया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिभू᳓रग्नि᳓म् , परिभू᳓रि᳓न्द्रम्,  परिभू᳓र्वि᳓श्वान्देवा᳓न् , परिभू᳓र्माँ᳓ सह᳓ ब्रह्मवर्चसे᳓न ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,12 +42,15 @@ Surrounding Agni, surrounding Indra, surrounding the All-gods, surrounding me wi
 
 परितस्सर्वतो भविता परिभूः । नेमिवदराणां सर्वतोग्नेः रक्षिता त्वमसि हे सोम । यद्वा - परितोग्नेर्भावयिता प्रवर्तयिता परिभूः । भवतेर्ण्यन्तात्क्विपि 'बहुलमन्यत्रापि' इति णिलुक्, 'पर्यभिभ्यां च' इति तसिः, तस्य गतार्थत्वादप्रयोगः, 'अभितःपरितस्समया' इत्यादिना द्वितीया । एवमिन्द्रादीनां ब्रह्मवर्चसेन सह मां परितो भावयति । ब्रह्मणो वर्चो बलं ब्रह्मवर्चसम् 'ब्रह्महस्तिभ्याम्' इत्यच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓ नᳶ पवस्व श᳓ङ्ग᳓वे श᳓ञ्ज᳓नाय श᳓म᳓र्वते ।  
 शँ᳓ राजन्नो᳓षधीभ्यः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ be purified for us, with healing for cattle, healing for men, healing for the ho
 
 तादृशः त्वं नः अस्मदर्थं पवस्व शुन्धस्व । पूङ् पवने, भौवादिकः । किमर्थम्? शं गवे । जातावेकवचनम् । यथा गोभ्यः शं सुखं भवति । जनाय जनेभ्यः । अर्वते अर्वद्भ्यः । ओषधीभ्यश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓च्छिन्नस्य ते रयिपते सुवी᳓र्यस्य राय᳓स्पो᳓षस्य ददिता᳓रस्स्याम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +100,14 @@ may we possess the abundance of wealth that is thine who art unbroken and of her
 
 हे राजन् दीप्तिमन् । किंच - हे रयिपते धनानां पालयितः ते त्वयि तस्य अच्छिन्नस्यानुपरतरूपस्य सुवीर्यस्य शोभनवीर्यस्य निमित्तस्य रायस्पोषस्य धनपुष्टेः पुष्टस्य धनस्य ददितारः दातारस्स्याम । दद दाने ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,10 +128,14 @@ of that give me, of that may I share, of that that is thine I procure this.
 
 तदर्थं तस्य तादृशस्य धनस्य मे मह्यं रास्व देहि । व्यत्ययेनात्मनेपदम् । पूर्ववत्कर्मणस्सम्प्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । तस्य ते तादृशं त्वां भक्षीय भजे । यद्वा - तादृशं त्वदीयं धनं भक्षीय । तस्य तादृशस्य तव प्रसादात् तादृशस्य धनस्य लाभाद्वा । इदं ब्राह्मणोक्तानां कामानां अन्यतममिष्टं उन्मृजे उन्मार्ज्मि साधयामीत्यर्थः । के पुनस्ते कामाः? 'स एनं तृप्तो भूत्याऽभिपवते' इत्यादिप्रीसद्धा भूत्यादयः, ते चास्मिन्नेवानुवाके वक्ष्यन्ते । इदमिति तेषां सामान्य निर्देशः । तं काममादित्यस्योन्मार्ष्टि - भूतिमुन्मृजे, ब्रह्मवर्चसमुन्मृजे इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथावकाशैश्चरन्ति । तत्रोपांशुपात्रमवेक्षते - प्राणायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -125,6 +143,8 @@ of that give me, of that may I share, of that that is thine I procure this.
 प्राणा᳓य मे वर्चोदा᳓ व᳓र्चसे पवस्व ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,10 +166,14 @@ For my expiration, be purified, giving splendour, for splendour;
 
 ऊर्ध्वप्रवृत्तिः प्राणः । प्राणाय प्राणार्थं मे मम वर्चोदाः वर्चसो दीप्तेर्दाता त्वं वर्चसे दीप्तये तव मम वा पवस्व शुन्धस्व शोधय वा पीतो मदीयं शरीरम् । 'तस्य मे रास्व' इत्यादि पूर्वप्रकृतं सर्वत्रानुषज्यते । 'प्राणापानाभ्यामेवोपांश्वन्तर्यामौ निरमिमीत' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अन्तर्यामपात्रमवेक्षते - अपानायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,6 +181,8 @@ For my expiration, be purified, giving splendour, for splendour;
 अपाना᳓य +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,10 +204,14 @@ For my inspiration;
 
 अपानोधोवृत्तिः । 'मे वर्चोदाः' इत्यादि मध्ये द्वितीयोनुषङ्गः सर्वत्र ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4उपांशुसवनमवेक्षते - व्यानायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +219,8 @@ For my inspiration;
 व्याना᳓य +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++   
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,10 +242,14 @@ For my cross-breathing;
 
 विष्वग्वृत्तिः व्यानः । छान्दसमुत्तरपदादेर्दीर्घत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5ऐन्द्रवायवमवेक्षते - वाचे इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +257,8 @@ For my cross-breathing;
 वाचे᳓ [7]  +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,10 +280,14 @@ For my speech [1];
 
 'सावेकाचः' इति विभक्तेरुदात्तत्तम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6मैत्रावरुणमवेक्षते - दक्षक्रतुभ्यामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +295,8 @@ For my speech [1];
 दक्षक्रतु्᳓उ᳓भ्याम् +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व )+++
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,10 +313,14 @@ For my skill and strength;
 
 द॒क्ष॒क्र॒तुभ्या॒मिति॑ दक्षक्र॒तु-भ्या॒म् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7शुक्रामन्थिनाववेक्षते - चक्षुर्भ्यामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +328,8 @@ For my skill and strength;
 च᳓क्षुर्भ्याम्मे वर्चोदौ᳓ व᳓र्चसे पवेथाम् ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -301,10 +351,14 @@ For my two eyes do ye be purified, giving splendour, for splendour;
 
 मे वर्चोदाविति । द्वितीयानुषङ्गापवादः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8आश्वीनमवेक्षते - श्रोत्रायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -312,6 +366,8 @@ For my two eyes do ye be purified, giving splendour, for splendour;
 श्रो᳓त्राय᳓ +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -333,10 +389,14 @@ For my ear;
 
 पूर्वकावेवानुषङ्गौ । अत्र 'श्रोत्रादाश्विनम् । चक्षुषश्शुक्रामन्थिनौ इति शुक्रामन्थिभ्यां पूर्वमेवाश्विनोत्पत्तिश्रुतेः आश्विनावेक्षणं पूर्वमेव कार्यमित्याहुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9आग्रयणमवेक्षते - आत्मन इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +404,8 @@ For my ear;
 आत्म᳓ने+++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,10 +422,14 @@ For my trunk;
 
 आ॒त्मने॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10उक्थ्यमवेक्षते - अङ्गेभ्य इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -371,6 +437,8 @@ For my trunk;
 अ᳓ङ्गेभ्यः᳓ +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -387,10 +455,14 @@ For my members;
 
 अङ्गे॑भ्यः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11ध्रुवमवेक्षते - आयुष इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -398,6 +470,8 @@ For my members;
 आ᳓युषे᳓ +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,10 +493,14 @@ For my life;
 
 अत्र 'प्रतिष्ठाया ऋतु पात्रे' इति दर्शनात् 'प्रतिष्ठायै मे वर्चोदाः' इत्यादिना ऋतुपात्रयोरवेक्षणं कुर्वन्ति माध्यन्दिनसवने प्रातस्सवने च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथातिग्राह्यं षोडशिनं वाऽवेक्षते - वीर्यायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,6 +508,8 @@ For my life;
 वीर्या᳙य᳓  +++(मे᳓ व᳓र्चोदा᳓ व᳓र्चसे पवस्व)+++  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,6 +526,9 @@ For my strength
 
 वी॒र्या॑य ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -456,12 +539,15 @@ For my strength
 
 13द्रोणकलशमवेक्षते - विष्णोर्जठरमसीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः +++(र्जठ᳓रमसि वर्चोदा᳓ मे व᳓र्चसे पवस्व)+++ ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -483,10 +569,14 @@ Of Visnu,
 
 वक्ष्यमाणं त्रिभिरनुषज्यते । एष तृतीयोनुषङ्गः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14आधवनीयमवेक्षते - इन्द्रस्य जठरमसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -495,6 +585,8 @@ Of Visnu,
 
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,10 +604,14 @@ Of Indra,
 
 इन्द्र॑स्य ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15पूतभृतमवेक्षते - विश्वेषां देवानां जठरमसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +619,8 @@ Of Indra,
 वि᳓श्वेषान्देवा᳓नाञ्जठ᳓रमसि वर्चोदा᳓ मे व᳓र्चसे पवस्व  ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,6 +642,9 @@ Of the All-gods thou art the belly, giving splendour to me, be purified for sple
 
 वर्चोदा इत्यादि । व्याख्यातम् । पुनराम्नानमनुषङ्गसमाप्तिं सूचयितुम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -554,11 +655,14 @@ Of the All-gods thou art the belly, giving splendour to me, be purified for sple
 
 16अथ समस्तमेव राजानमुपतिष्ठते - कोसि कोनामेति पुरउष्णिहा यजुरन्तया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 को᳙ऽसि को᳓ ना᳓म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,12 +683,15 @@ Who art thou? (Thou art) who by name.
 
 र्वात्मत्वादनिर्धारितविशेषः प्रजापतिरेव सर्वनाम्नोच्यते - अनिर्धारितविशेषः प्रजापतिरेव स्वयं त्वमसि हे सोमेति । प्रजापत्यात्मना सोमस्स्तूयते - को नामेति । नामधेयवान् 'को ह वै नाम प्रजापतिः' इति । असर्वनामैवेदं संज्ञापदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓स्मै त्वा का᳓य त्वा य᳓न्त्वा सो᳓मेना᳓तीतृपय्ँ᳓ य᳓न्त्वा सो᳓मेना᳓मीमदम् ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,12 +713,15 @@ To who (kásmai) thee, to who (káya) thee, thee whom I have delighted with Soma
 
 इदानीं तादृशप्राजापत्यात्मतया यज्ञमाह । ब्राह्मणं च भवति 'एष वै पात्रियः प्रजापतिर्यज्ञः प्रजापतिः' इति । कस्मै त्वा काय त्वा । अनिर्धारितविशेषाय कनाम्ने प्रजापत्यात्मने यज्ञाय त्वामुपतिष्ठे इति शेषः । हे सोमलतात्मन् प्रजापते यं त्वा सोमेन रसस्वरूपेण अतीतृपं स्वयमेव तृप्यन्तं यागेन तर्पयामि । 'उरृत्' इति ऋकारः । यं त्वा सोमेन अमीमदं स्वयमेव माद्यन्तं यागेन मादयामि । उभयत्र छान्दसो लुङ् । एवं प्रजापत्यभेदेन सोमो निर्दिष्टः । तादृशं त्वामुपतिष्ठ इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रजाᳶ᳓ प्रज᳓या भूयासम् ।  
 {त᳓स्य मे रास्व त᳓स्य ते भक्षीय त᳓स्य त इद᳓मु᳓न्मृजे ।}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -633,11 +743,14 @@ May I be possessed of fair offspring with offspring,
 
 एवं महानुभावस्य तव प्रसादात् अहं प्रजया सुप्रजा भूयासं शोभनापत्यः । 'नित्यमसिच्प्रजामेधयोः' इत्यसिच्, 'सोर्मनसी' इत्येतद्बाधित्वा समासान्तस्वरः प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवी᳓रो वीरैः᳓ +++(भूयासम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,11 +771,14 @@ of noble heroes with heroes,
 
 वीरैः विक्रान्तः पुरुषैः सुवीरः शोभनविक्रान्तपुरुषो भूयासम् । 'वीरवीर्यौ च' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ्सुव᳓र्चा व᳓र्चसा  +++(भूयासम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -683,11 +799,14 @@ of excellent splendour with splendour,
 
 वर्चसा दीप्त्या बलेन वा सुवर्चा भूयासम् । 'सोर्मनसी' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपो᳓षᳶ पो᳓षैः  +++(भूयासम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -708,11 +827,14 @@ of great abundance with abundances.
 
 पोषैरन्नादिपोषैः सुपोषो भूयासम् । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यो मे रूपे᳓भ्यो वर्चोदाः᳓ व᳓र्चसे पवस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -733,11 +855,14 @@ To all my forms giving splendour [2], be purified for splendour;
 
 विश्वेभ्यो रूपेभ्यः विश्वरूपार्थम् । वर्चोदा इत्यादि व्याख्यातम् , तस्य मे रास्वेत्यादि च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य मे रास्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -753,12 +878,15 @@ of that give me;
 
 तस्य॑ । मे॒ । रा॒स्व॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते भक्षीय ।  
 त᳓स्य त इद᳓मु᳓न्मृजे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -782,16 +910,22 @@ of that may I share, of that that is thine I procure this.
 
 पुनराम्नानमनुषङ्गस्याविच्छेदं दर्शयितुं समाप्तिं च द्योतयितुम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बुभू॑ष॒न्नवे॑क्षेतै॒ष वै पात्रि॑यᳶ प्र॒जाप॑तिर्य॒ज्ञᳶ प्र॒जाप॑ति॒स्तमे॒व त॑र्पयति॒ स ए॑नन्तृ॒प्तो भूत्या॒ऽभि प॑वते ब्रह्मवर्च॒सका॒मोऽवे॑क्षेतै॒ष वै पात्रि॑यᳶ प्र॒जाप॑तिर्य॒ज्ञᳶ प्र॒जाप॑ति॒स्तमे॒व त॑र्पयति॒ स ए॑नन्तृ॒प्तो ब्र॑ह्मवर्च॒सेना॒भि प॑वते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बु᳓भूषन्न᳓वेक्षेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -812,11 +946,14 @@ He who desires to be great should look (on the offerings);
 
 17बुभूषन्नित्यादयः काम्याः अवेक्षणविधयः - बुभूषन् भूतिमिच्छन् । 'इदमुन्मृजे' इति सामान्येन यदुक्तं तस्यैते विशेषा भूत्यादयः ब्राह्मणेन प्रदर्श्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ पा᳓त्रियᳶ प्रजा᳓पतिर्यज्ञᳶ᳓ प्रजा᳓पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -837,12 +974,15 @@ Prajapati is here in the vessels, Prajapati is the sacrifice;
 
 पात्रियः पात्रार्हः सोमात्मा प्रजापतिः । 'पात्राद्घः' इति घः । यज्ञश्चायं प्रजापतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेव᳓ तर्पयति।  
 स᳓ एनन्तृप्तो᳓ भू᳓त्याऽभि᳓ पवते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -864,11 +1004,14 @@ verily he delights him, and he being delighted is purified for him with prosperi
 
 तस्मादनेन अवेक्षणेन तमेव यज्ञात्मानं प्रजापतिं तर्पयति । स च तृप्त एनं भूत्या अभिपवते यथाऽयं भूतिमान् भवति तथा एतदाभिमुख्येन पवते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवर्चस᳓का᳓मो᳓ऽवेक्षेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -884,11 +1027,14 @@ He who desires splendour should look (on the offerings);
 
 ब्र॒ह्म॒व॒र्च॒सका॑म॒ इति॑ ब्रह्मवर्च॒स-का॒मः॒ । अवेति॑ । ई॒क्षे॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ पा᳓त्रियᳶ प्रजा᳓पतिर्यज्ञᳶ᳓ प्रजा᳓पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -904,12 +1050,15 @@ Prajapati is here in the vessels, Prajapati is the sacrifice;
 
 ए॒षः । वै । पात्रि॑यः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । य॒ज्ञः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेव᳓ तर्पयति ।  
 स᳓ एनन्तृप्तो᳓ ब्रह्मवर्चसे᳓नाभि᳓ पवते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -931,11 +1080,14 @@ verily he delights him, and he being delighted is purified for him with splendou
 
 एवं ब्रह्मवर्चसादिष्वपि द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमयाव्य᳓वेक्षेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -956,11 +1108,14 @@ He who is ill [3] should look (on the offerings);
 
 18आमयावी रोगवान् । आयुरर्थं सोवेक्षेत । 'बहुलं छन्दसि' इति विनिः, 'अन्येषामपि दृश्यते' इति दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ पा᳓त्रियᳶ प्रजा᳓पतिर्यज्ञᳶ᳓ प्रजा᳓पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -976,12 +1131,15 @@ Prajapati is here in the vessels, Prajapati is the sacrifice;
 
 ए॒षः । वै । पात्रि॑यः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । य॒ज्ञः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेव᳓ तर्पयति ।  
 स᳓ एनन्तृप्त᳓ आ᳓युषाभि᳓ पवते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -998,16 +1156,22 @@ verily he delights him, and he being delighted is purified for him with life.
 
 तम् । ए॒व । त॒र्प॒य॒ति॒ । सः । ए॒न॒म् । तृ॒प्तः । आयु॑षा । अ॒भीति॑ । प॒व॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अभि॒चर॒न्नवे॑क्षेतै॒ष वै पात्रि॑यᳶ प्र॒जाप॑तिर्य॒ज्ञᳶ प्र॒जाप॑ति॒स्तमे॒व त॑र्पयति॒ स ए॑नन्तृ॒प्तᳶ प्रा॑णापा॒नाभ्याव्ँ॑ वा॒चो द॑क्षक्र॒तुभ्या॒ञ्चक्षु॑र्भ्याँ॒ श्रोत्रा॑भ्यामा॒त्मनोऽङ्गे॑भ्य॒ आयु॑षो॒ऽन्तरे॑ति ता॒जक्प्र ध॑न्वति ॥ [10]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓भिच᳓रन्न᳓वेक्षेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1028,11 +1192,14 @@ He who practises witchcraft should look (on the offerings);
 
 19अभिचरन् आनिष्टं जनं मारयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ पा᳓त्रियᳶ प्रजा᳓पतिर्यज्ञᳶ᳓ प्रजा᳓पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1048,12 +1215,15 @@ Prajapati is here in the vessels, Prajapati is the sacrifice;
 
 ए॒षः । वै । पात्रि॑यः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । य॒ज्ञः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेव᳓ तर्पयति ।  
 स᳓ एनन्तृप्तᳶ᳓ प्राणापाना᳓भ्याव्ँ वाचो᳓ दक्षक्रतु᳓भ्याञ्च᳓क्षुर्भ्याँ श्रो᳓त्राभ्यामात्म᳓नो᳓ऽङ्गेभ्य आ᳓युषोऽन्त᳓रेति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1075,11 +1245,14 @@ verily he delights him, and he being delighted cuts off him (the enemy) from exp
 
 यत्सिद्ध्यर्थमुपांशुपात्रादीनां अवेक्षणं क्रियते, तेभ्यः प्राणादिभ्यः एनमभिचर्यमाणमन्तरेति अन्तरितं करोति तत्सम्बन्धमस्य निवर्तयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताज᳓क्प्र᳓ धन्वति ॥ [10]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1101,4 +1274,5 @@ swiftly he comes to ruin.
 ततश्च ताजक् तदानीमेव अयं प्रधन्वति प्रगच्छति म्रियते इत्यर्थः । धवि गतौ, इदित्वान्नुम् ॥
 
 इति तृतीये द्वितीये तृतीयः ॥
+</details>
 </details>

@@ -91,12 +91,15 @@ script: grantha
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
+</details>
 </details>
 </details>
 </div>
@@ -110,12 +113,15 @@ script: grantha
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
 तपः कर्मात्मकानि वै ।  
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
+</details>
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)
@@ -198,11 +204,13 @@ script: grantha
 <details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विद्यु॑द् असि॒,  
-विद्य॑ मे पा॒प्मान॑म्, 
-ऋ॒तात् स॒त्यम् उपै॑मि॥  
-मयि॑ श्र॒द्धा। 
+वि᳓द्युद् असि,  
+वि᳓द्य मे पाप्मा᳓नम्, 
+ऋता᳓त् सत्य᳓म् उ᳓पैमि॥  
+म᳓यि श्रद्धा᳓। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +218,7 @@ script: grantha
 विद्य॑ मे पा॒प्मान॑म्, 
 ऋ॒तात् स॒त्यम् उपै॑मि॥
 मयि॑ श्र॒द्धा।
+</details>
 </details>
 </details>
 </div>  
@@ -272,16 +281,19 @@ script: grantha
 <details open><summary><h5>वृष्टि॑रसि॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृष्टि॑रसि॒,  
-वृश्च॑ मे पा॒प्मा॑नम्,  
-ऋ॒तात् स॒त्यम् उपा॑गाम्।  
-अ॒प्सु श्र॒द्धा। 
+वृ᳓ष्टिरसि,  
+वृ᳓श्च मे पाप्मा᳙नम्,  
+ऋता᳓त् सत्य᳓म् उ᳓पागाम्।  
+अप्सु᳓ श्रद्धा᳓। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 वृष्टि॑रसि॒,  वृश्च॑ मे पा॒प्मा॑नम्, ऋ॒तात् स॒त्यम् उपा॑गाम्।  
 अ॒प्सु श्र॒द्धा।
+</details>
 </details>
 </details>
 </div>  
@@ -1186,12 +1198,15 @@ script: grantha
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
+</details>
 </details>
 </details>
 </div>
@@ -1205,12 +1220,15 @@ script: grantha
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
 तपः कर्मात्मकानि वै ।  
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
+</details>
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)

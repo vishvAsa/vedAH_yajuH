@@ -2,12 +2,17 @@
 title = "१२ अश्वमेध-दश-हविष्केष्टि-याज्यापुरोनुवाक्याः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
 </details>
+</details>
 
 ## रथन्तरम्, मधुः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे चतुर्थप्रपाठके द्वादशोऽनुवाकः)   
@@ -18,6 +23,7 @@ title = "१२ अश्वमेध-दश-हविष्केष्टि-�
 
 तत्राग्नये गायत्राय त्रिवृते राथन्तराय वासन्तायाष्टाकपाल इत्यस्य पुरोनुवाक्यामाह— समिद्दिशामिति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
@@ -73,9 +79,12 @@ May he guard our kingly power, may he protect us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह— रथंतरँ सामेति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
@@ -127,9 +136,12 @@ The ocean, the wind, make full this strength.
 
 ## इन्द्रः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथेन्द्राय त्रैष्टुभाय पञ्चदशाय बार्हताय ग्रैष्मायैकादशकपाल इत्यस्य पुरोनुवाक्यामाह— उग्रा दिशामिति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
@@ -176,9 +188,12 @@ And for us [1] on all sides do thou preserve this great kingly power.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह बृहत्सामेति बृहदाख्यं यत्साम तत्त्रिष्टुभा छन्दसा सह पिपर्त्वित्यनुवर्तते।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_bRhathsAma_khShatrabhRd.md">
@@ -225,10 +240,13 @@ Do thou guard this in the midst with the wind, with the ocean.
 </div>
 
 ## विश्वे देवाः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ विश्वेभ्यो देवेभ्यो जागतेभ्यः सप्तदशेभ्यो वैरूपेभ्यो वार्षिकेभ्यो द्वादशकपाल इत्यस्य पुरोनुवाक्यामाह— प्राची दिशामिति।   
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
@@ -274,9 +292,12 @@ Force unoverpowerable, a thousandfold and mighty.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– वैरूपे सामन्निति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
@@ -324,9 +345,12 @@ This kingly power with the ocean wind (be) dread.
 </div>
 
 ## मित्रा-वरुणौ
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ ‘मित्रावरुणाभ्यामानुष्टुभाभ्यामेकावि+शाभ्यां वैराजाभ्याँ शारदाभ्यां पयस्या’  इत्यस्य पुरोनुवाक्यामाह— धर्त्री दिशामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
@@ -373,9 +397,12 @@ Do ye accord great protection to this kingdom.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यमाह— वैराजे सामन्निति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
@@ -423,9 +450,12 @@ Do ye, O Mitra and Varuna, guard through your overlordship.
 </div>
 
 ## बृहस्पतिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ बृहस्पतये पाङ्क्ताय त्रिणवाय शाक्वराय हैमन्किया चरुः, इत्यस्य पुरोनुवाक्यामाह– सम्राड्दिशामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
@@ -471,9 +501,12 @@ Aid this sacrifice, full of ghee.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यमाह— सुवर्वतीति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
@@ -519,9 +552,12 @@ O Brhaspati, yoke a voice in the south.
 </div>
 
 ## सविता
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ ‘सवित्र आतिच्छन्दसाय त्रयस्त्रिँशाय रैवताय शैशिराय द्वादशकपालः’ इत्यस्य पुरोनुवाक्यामाह— ऊर्ध्वा दिशामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
@@ -566,9 +602,12 @@ Without a foe, be kindly to us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह— स्तोमत्रयस्त्रिँश इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
@@ -617,9 +656,12 @@ Be the bounteous region rich in milk, for us.
 </div>
 
 ## अदितिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथादित्यै विष्णुपत्न्यै चरुरित्यस्य पुरोनुवाक्यामाह— घ्रुवा दिशामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
@@ -666,9 +708,12 @@ The winds blowing together be gracious to us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह— विष्टम्भो दिव इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
@@ -721,10 +766,15 @@ May Aditi be auspicious to us in her life.
 
 ## वैश्वानरः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाग्नये वैश्वानराय द्वादशकपाल इत्यस्य याज्यानुवाक्ययोः प्रतीके दर्शयति—
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -740,6 +790,7 @@ May Aditi be auspicious to us in her life.
 
 Vaiśvanara to our help.
 Present in the sky.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
@@ -1179,10 +1230,15 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 </div>  
 
 ## अनुमतिः, अनिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 … अनु नोद्येऽति।  अनु नोऽद्यानुमतिरिति पुरोनुवाक्या।  
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1197,6 +1253,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 <details><summary>Keith</summary>
 
 Us to-day Anumati.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
@@ -1245,10 +1302,15 @@ A joy to the giver.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अन्विदनुमते त्वमिति याज्या, एतच्चोभयमिदं वामास्ये हविरित्यनुवाके व्याख्यातम्।  
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1263,6 +1325,7 @@ A joy to the giver.
 <details><summary>Keith</summary>
 
 O Anumati, thou.
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
@@ -1309,10 +1372,15 @@ Lengthen our days for us.
 </div>
 
 ## कः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ काय एककपाल इत्यस्य याज्यानुवाक्योः प्रतीके दर्शयति— कया नश्चित्र इति।   कया निश्चित्र आ भुवादिति पुरोनुवाक्या।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1328,10 +1396,14 @@ Lengthen our days for us.
 
 With what to us radiant shall he be?
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ राजप्रजाधर्ममाह ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
@@ -1601,11 +1673,16 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 को अद्य युङ्क्त इति याज्या। 
 एतच्चोभयमिन्द्राग्नी रोचनेत्यस्मिन्ननुवाके व्याख्यातम्।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1620,6 +1697,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 <details><summary>Keith</summary>
 
 Who to-day yoketh?
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/16_ko_adya.md">
@@ -1646,12 +1724,15 @@ Who to-day yoketh?
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Who to-day yoketh to the pole of holy order  
 The oxen, eager, of keen spirits, the furious,  
 With darts in their mouths, heart-piercing, healthful?  
 He who attaineth their service shall live.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/16_ko_adya.md">
@@ -1970,6 +2051,8 @@ Wer schirrt ans Joch des Opfers heut die Stiere, die kräftig sind, voll regen E
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २१०९ अत्र विनियोगसंग्रहः—   
@@ -1982,4 +2065,5 @@ Wer schirrt ans Joch des Opfers heut die Stiere, die kräftig sind, voll regen E
 पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः॥    
 इति श्रीमद्विद्यातीर्थमहेश्वरपरावतारस्य श्रीमद्राजाधिराजपरमेश्वरस्य श्रीवीरबुक्कमहाराजस्याऽऽज्ञापरिपालकेन माधावाचार्येण विरचिते  वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये  चतुर्थकाण्डे चतुर्थः प्रपाठकः ॥     ४ ॥    
 
+</details>
 </details>

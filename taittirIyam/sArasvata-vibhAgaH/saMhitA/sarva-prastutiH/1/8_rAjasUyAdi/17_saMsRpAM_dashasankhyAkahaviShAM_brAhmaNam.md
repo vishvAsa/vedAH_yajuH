@@ -4,9 +4,12 @@ title = "१७ संसृपां दशसङ्ख्याकहविष
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् - संयुक्तम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति॒ हिर॑ण्य॒न्दक्षि॑णा सारस्व॒तञ्च॒रुव्ँव॑त्सत॒री दक्षि॑णा सावि॒त्रन्द्वाद॑शकपालमुपध्व॒स्तो दक्षि॑णा पौ॒ष्णञ्च॒रुँ श्या॒मो दक्षि॑णा बार्हस्प॒त्यञ्च॒रुँ शि॑तिपृ॒ष्ठो दक्षि॑णै॒न्द्रमेका॑दशकपालमृष॒भो दक्षि॑णा वारु॒णन्दश॑कपालम्म॒हानि॑रष्टो॒ दक्षि॑णा सौ॒म्यञ्च॒रुम्ब॒भ्रुर्दक्षि॑णा त्वा॒ष्ट्रम॒ष्टाक॑पालँ शु॒ण्ठो दक्षि॑णा वैष्ण॒वन्त्रि॑कपा॒लव्ँवा॑म॒नो दक्षि॑णा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,6 +17,8 @@ title = "१७ संसृपां दशसङ्ख्याकहविष
 आग्नेय᳓म् अष्टा᳓-कपालन् नि᳓र्वपति, 
 हि᳓रण्यन् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,12 +42,15 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 
 दशपेयस्य सङ्कल्पात् प्रागेवाष्टाकपालमाग्नेयं निर्वपति । हिरण्यं दक्षिणा । 'वरुणस्य सुषुवाणस्य दशधेन्द्रियं वीर्यं परापतत्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वत᳓ञ् चरु᳓म्  +++(निर्वपति)+++ ।
 वत्सतरी᳓+++(=पौगण्ड-वत्सा)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,12 +72,15 @@ He offers to Agni on eight potsherds; the sacrificial fee is gold.
 
 2श्वोभूते सारस्वतं चरुं निर्वपति ॥ आग्नेयस्याहवनीयायतने सारस्वतस्य गार्हपत्यायतनम् । एवमुत्तरत्र द्रष्टव्यम् । अत्र वत्सतरी द्वितीयं वयः प्राप्नुवन्ती गौर्दक्षिणा । 'वत्सोक्षा' इति ष्टरच् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्र᳓न् द्वा᳓दश-कपालम्  +++(निर्वपति)+++ ।    
 उपध्वस्तो᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,12 +102,15 @@ To Savitr (he offers) on twelve potsherds; the sacrificial fee is a speckled (ox
 
 3श्वोभूते सावित्रं द्वादशकपालं निर्वपति ॥ तत्रोपध्वस्तो गौर्दक्षिणा अन्येन वर्णेन परिभूतो[/भूतनि] निजवर्ण इत्यर्थः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौष्ण᳓ञ् चरु᳓म्  +++(निर्वपति)+++ ,   
 श्यामो᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -118,12 +132,15 @@ To Pusan (he offers) an oblation; the sacrificial fee is a dark (ox),
 
 4श्वोभूते पौष्णं चरुं निर्वपति ॥ तत्र श्यामो गौर्दकिष्णा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्र्हस्पत्य᳓ञ् चरु᳓म्  +++(निर्वपति)+++ ।   
 शितिपृष्ठो᳓  द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,12 +162,15 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 
 5श्वोभूते बार्हस्पत्यं चरुं निर्वपति ॥ तत्र शितिपृष्ठश्शुक्लपृष्ठो गौर्दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓म् ए᳓कादशकपालम्  +++(निर्वपति)+++ ।  
 ऋषभो᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,12 +192,15 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 
 6श्वोभूते ऐन्द्रमेकादशकपालं निर्वपति ॥ तत्र ऋषभो दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुण᳓न् द᳓शकपालम्  +++(निर्वपति)+++ ,  
 महा᳓निरष्टो+++(=पीडितवृषणो)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,12 +222,15 @@ To Varuna (he offers) on ten potsherds; the sacrificial fee is a great castrated
 
 7श्वोभूते वारुणं दशकपालं निर्वपति ॥ तत्र महानिरष्टः पीडितवृषणो गौर्दकिष्णा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓ञ् चरु᳓म्  +++(निर्वपति)+++ ,  
 बभ्रु᳓र् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,12 +252,15 @@ To Soma (he offers) an oblation; the sacrificial fee is a brown (ox).
 
 8अथ दशपेये प्रक्रान्ते आतिथ्यया प्रचर्य उपसदां पुरस्तात्सौम्यं चरुं निर्वपति द्वादश्याम् ॥ तत्र बभ्रुश्श्वेतलोहितो गौर्दकिष्णा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वाष्ट्र᳓म् अष्टा᳓कपालम्  +++(निर्वपति)+++ ,   
 शुण्ठो᳓+++(=अल्पकायो)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,12 +282,15 @@ To Tvastr (he offers) on eight potsherds; the sacrificial fee is a white (ox)
 
 9श्वोभूते त्रयोदश्यां प्रवर्ग्योपसद्भ्यां प्रचर्य सुब्रह्मण्यान्ते त्वाष्ट्रमष्टाकपालं निर्वपति ॥ तत्र शुण्ठः अल्पकायो गौर्दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णव᳓न् त्रि-कपाल᳓म् +++(निर्वपति)+++।   
 वामनो᳓ द᳓क्षिणा ॥ [33]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,4 +313,5 @@ To Vishnu (he offers) on three potsherds; the sacrificial fee is a dwarf (ox).
 10श्वोभूते प्रवर्ग्योद्वासनात्प्राग्वैष्णवं त्रिकपालं निर्वपति ॥ तत्र वामनो ह्रस्वो गौर्दक्षिणा ॥
 
 इत्यष्टमे सप्तदशोनुवाकः ॥  
+</details>
 </details>

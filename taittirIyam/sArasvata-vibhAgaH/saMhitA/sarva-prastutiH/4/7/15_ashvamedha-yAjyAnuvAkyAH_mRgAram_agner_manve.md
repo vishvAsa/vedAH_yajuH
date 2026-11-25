@@ -9,6 +9,8 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 
 चतुर्थकाण्डे सप्तमप्रपाठके पञ्चदशोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थाष्टके सप्तमप्रपाठके पञ्चदशोऽनुवाकः)।  
@@ -20,6 +22,7 @@ title = "१५ अश्वमेध-याज्यानुवाक्या
 कल्पः— “अग्नयेऽँहोमुचेऽष्टाकपाल इति दशहविषं मृगारेष्टिमनुनिर्वपति समानं तु स्विष्टकृदिडमग्नेर्मग्ने प्रथमस्य प्रचेतस इति यथालिङ्गं याज्यानुवाक्याः” इति।  
 तत्रोदाहृतस्य प्रथमहविषः पुरोनुवाक्यामाह– अग्नेर्मन्व इति।  
 
+</details>
 </details>
 
 ## अग्निः
@@ -68,9 +71,12 @@ Him who hath entered into every concourse do we implore, May he relieve us from 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह – यस्येदं प्राणन्निति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/05_yasyedaM_prANan.md">
@@ -131,9 +137,12 @@ May he relieve us from tribulation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथेन्द्रायाँ होमुच एकादशकपाल इत्यस्य पुरोनुवाक्यामाह– इन्द्रस्य मन्य इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/08_indrasya_manye.md">
@@ -165,9 +174,12 @@ He who cometh at the call of the generous doer of good deeds [1], May he relieve
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यमाह–  २२७४ य संग्राममिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/11_yaH_sangrAmam.md">
@@ -228,9 +240,12 @@ May he relieve us from tribulation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ मित्रावरुणाभ्यामागोमुग्भ्यां पयस्येत्यस्य पुरोनुवाक्यामाह– मन्वे वाभिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/14_manve_vAm.md">
@@ -262,9 +277,12 @@ May ye relieve us from sin.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– यो वाँ रथ इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/17_yo_vAm.md">
@@ -312,9 +330,12 @@ May ye relieve us from sin.
 
 ## वायुः, सविता च
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 वायोसावित्र आगोमुग्भ्यां चरुरित्यस्य पुरोनुवाक्यामाह– वायोः सावतुरिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/20_vAyos_savitur.md">
@@ -360,9 +381,12 @@ May ye relieve us from sin.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– उप श्रेष्ठा न इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/23_upa_shreShThA.md">
@@ -423,9 +447,12 @@ May ye relieve us from sin.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाश्विभ्यामावोमुग्भ्यां धाना इत्यस्य पुरोनुवाक्यामाह– रथीतमाविति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/26_rathItamau_rathInAm.md">
@@ -457,9 +484,12 @@ Ye [3] whose might among the gods, O gods, is unextinguished, May ye relieve us 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– यदयातं वहतुमिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/29_yad_ayAtam.md">
@@ -519,9 +549,12 @@ May ye relieve us from sin.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ मरुद्भ्य एनोमुग्भ्यः सप्तकपाल इत्यस्य पुरोनुवाक्यामाह— मरुतां मन्व इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/32_marutAM_manve.md">
@@ -554,9 +587,12 @@ May they relieve us from evil.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– तिग्ममायुधामिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/35_tigmam_Ayudham.md">
@@ -617,9 +653,12 @@ May they relieve us from evil.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ किश्वेभ्यो देवेभ्य एनीमुग्भ्यो द्वादककपाल इत्बस्य पुरोनुवाक्यामाह– देवानां मन्व इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/38_devAnAM_manve.md">
@@ -652,9 +691,12 @@ That they may relieve us from evil.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– यदिदं मेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/41_yad_idam.md">
@@ -703,6 +745,8 @@ May they free us from evil.
 
 ## अनुमतिः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अनु॑ नो॒ऽद्यानु॑मति ..
@@ -715,6 +759,7 @@ May they free us from evil.
  २२७६ अनु नोऽद्येति। अनु नोऽद्यानुमतिर्यज्ञामिति पुरोनुवाक्या।   अन्विदनुमते त्वं मन्यासा इति याज्या।  
 
 एतच्चोभयमिदं वामास्ये हविरित्यनुवाके व्याख्यातम्।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
@@ -810,6 +855,8 @@ Lengthen our days for us.
 
 ## वैश्वानरः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वै॑श्वान॒रो न॑ ऊ॒त्या ..
@@ -819,6 +866,7 @@ Lengthen our days for us.
 <details><summary>सायण-टीका</summary>
 
 अथाग्नये वैश्वानराय द्वादशकपाल इत्यस्य याज्यापुरोनुनाक्ययोः प्रतीके दर्शयति– वैश्वानरो न इति।   वैश्वानरो न ऊत्या प्र यात्विति पुरोनुवाक्या ।   पृष्ठो दिवि पृष्ठो अग्निरिति याज्मा।   एतच्चोभयं वैश्वानरो न ऊत्येस्मिन्ननुवाके व्याख्यातम्।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
@@ -1260,9 +1308,12 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 </div>  
 
 ## द्यावा-पृथि॒वी
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्यावापृथिवीभ्यामँहोमुग्भ्यां द्विकपाल इत्यस्य पुरोनुवाक्यामाह– ये अप्रथेतामिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/91_ye_aprathetAm.md">
@@ -1308,9 +1359,12 @@ May ye relieve us from tribulation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह– उर्बी रोदसी इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/95_urvI_rodasI.md">
@@ -1357,9 +1411,12 @@ May ye relieve us from tribulation.
 </div>
 
 ## स्विष्टकृत्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ स्विष्टकृतः पुरोनुवाक्यामाह– यत्ते वयमिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/99_yat_te.md">
@@ -1407,9 +1464,12 @@ Remove our evil deeds on all sides, O Agni.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्यामाह – यथा ह तदिति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/103_yathA_ha.md">
@@ -1457,6 +1517,8 @@ Be our life prolonged further, O Agni.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २२७७ अत्र विनियोगसंग्रहः
@@ -1481,4 +1543,5 @@ Be our life prolonged further, O Agni.
 भाष्यक्रमेणाऽऽदितः समष्ट्यङ्का का०   ४  ।    प्र०  २६  अ० ३४३।  
 समाप्तोऽयं श्रीमत्सायणाचार्यविरचितभाष्यसमेतायाः कृष्णयजुर्वेदीयतैत्तिरीयसंहितायाश्चतुर्थः काण्डः ॥   ४ ॥  
 
+</details>
 </details>

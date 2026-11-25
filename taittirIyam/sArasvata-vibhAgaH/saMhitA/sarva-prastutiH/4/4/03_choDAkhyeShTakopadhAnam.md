@@ -4,12 +4,16 @@ title = "०३ चोडाख्येष्टकोपधानम्"
 ८ त्रिष्टुप्  
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“आयोस्त्वा सदने सादयामीति स्वयमातृण्णामभिमृश्याश्वेनोपप्राप्य   २०५६ परमेष्ठी त्वा सादयतु दिवः पृष्ठ इत्यविदुषा ब्राह्मणेन सह मध्येऽग्नेरुषदधाति” इति।   अभिमर्शनमन्त्रपाठस्तु— आयोस्त्वेति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/4/03_choDAkhyeShTakopadhAnam/ayaM_puro_harikeshaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -35,11 +39,14 @@ title = "०३ चोडाख्येष्टकोपधानम्"
 तत्रायं पश्चादिति तृतीयमन्त्रेणोपधेया येयमिष्टका तस्याश्चरमत्वं विधत्ते— “पश्चात्प्राचीमुत्तरामुप दधाति तस्मात्पश्चात्प्राची पत्न्यन्वास्ते” [सं. का. ५ प्र. ३ अ. ७] इति।  
 यस्मात्पश्चिमायां दिशि प्राङ्मुखत्वेनापेधेया इ (मि) ष्टका (कां) चरमत्वे नोपधत्ते तस्मात्पश्चिमायां दिश्यवस्थाय प्राङ्मुखी पत्नी गार्हपत्यमुपविशति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म् पुरो᳓ ह᳓रि-केशस् सू᳓र्य-रश्मिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,11 +67,14 @@ This in the front, with tawny hair, with the sun's rays;
 
 अयमग्निः पुरः पूर्वस्यां दिशि हरिकेशो हिरण्यवर्णकेशसमाना ज्वाला यस्यासौ हरिकेशः सूर्यसमानरश्मिस्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य रथगृत्स᳓श् च र᳓थौजाश्च सेनानिग्रामण्यौ᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +104,14 @@ the leaders of his host and bands are Rathagrtsa and Rathaujas,
 यस्य रथारोहणे बलाधिक्यं स रथौजाः ।  
 यथैतौ मुख्यौ परिचारकौ
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुञ्जिकस्थला᳓ च कृतस्थला᳓ चाप्सर᳓सौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,6 +134,7 @@ and Puñjikasthala and Krtasthala his Apsarases,
 तत्र पुञ्जिकस्थलेत्येकस्या नामधेयं, कृतस्तले त्यपरस्या नामधेयम् ।  
 यातुधाना रक्षांसि चेत्यवान्तरजातिभेदोऽवगन्तव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -128,6 +142,8 @@ and Puñjikasthala and Krtasthala his Apsarases,
 [ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
 ते᳓ य᳓न्द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,11 +167,14 @@ his missile wizards, his weapon the Raksases.
 रक्षांस्यतिक्रूराणि अतितीक्ष्णप्रहेतिरूपाणि ।  
 यस्याग्रेरिदं सर्वं हे इष्टके तदग्निस्वरूपाऽसीत्यभिप्रायः ।   एवं सर्वत्र योज्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓न् दक्षिणा᳓ विश्व᳓कर्मा   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,12 +195,15 @@ This on the right, all worker;
 
 अथ द्वितीयमन्त्रमाह— अयं दक्षिणेति ।   विश्वानि कर्माण्यग्निहोत्रादीनि यस्याग्नेः सोऽयं विश्वकर्मादक्षिणस्यां दिशि स्थितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य रथस्वन᳓श्च र᳓थेचित्रश्च सेनानिग्रामण्यौ᳙   ।
 मेनका᳓ च सहजन्या᳓ चाप्सर᳓सौ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,6 +225,7 @@ the leaders of his host and bands are Rathasvana and Rathecitra, and Menaka and 
 
 तस्य रथस्वनः सेनानी रथेचित्रो ग्रामणीः मेनकेति सहजन्येति चाप्सरसोर्नामधेयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,6 +233,8 @@ the leaders of his host and bands are Rathasvana and Rathecitra, and Menaka and 
 [ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,11 +255,14 @@ his missile biting beasts, his weapon the death of men.
 
 दङ्क्ष्णवो दंशनशीला व्याघ्रादयो हेतिः ।   संग्रामे पुरुषसंबन्धी यो वघः स प्रहेतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म् पश्चा᳓द् विश्व᳓व्यचाः   ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,6 +283,7 @@ This behind, all extending;
 
 अथ तृतीयमन्त्रमाह— अयं पश्चादिति ।   विश्वं व्यचति प्राप्नोतीति विश्वव्यचाः ।   सर्वमन्यत्पूर्ववद्व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -264,6 +293,8 @@ This behind, all extending;
 [ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +312,14 @@ the leaders of his host and bands are Ratheprota and Asamaratha, and Pramlocanti
 
 तस्य॑ । रथ॑प्रोत॒ इति॒ रथ॑-प्रो॒तः॒ । च॒ । अस॑मरथ॒ इत्यस॑म-र॒थः॒ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । प्र॒म्लोच॒न्तीति॑ प्र-म्लोच॑न्ती । च॒ । अ॒नु॒म्लोच॒न्तीत्य॑नु-म्लोच॑न्ती । च॒ । अ॒प्स॒रसौ॑ । स॒र्पाः । हे॒तिः । व्या॒घ्राः । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म् उत्तरा᳓त् सय्ँय᳓द्-वसुः  ।     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,6 +340,7 @@ This on the left, collecting riches;
 
 अथ चतुर्थमन्त्रमाह— अयमुत्तरादिति संयत्प्राप्तं वसु धनं यस्याग्नेः सोऽयं संयद्वसुः।   सोऽग्निरुत्तरादुत्तरस्यां दिशि वर्तते ।   शेषं पूर्वेवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -315,6 +350,8 @@ This on the left, collecting riches;
 [ते᳓भ्यो न᳓मस्, ते᳓ नो मृडयन्तु।  
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि, तव्ँ᳓ वो ज᳓म्भे दधामि]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -332,11 +369,14 @@ the leaders of his host and bands are Senajit and Susena, and Viśvaci and Ghrta
 
 तस्य॑ । से॒न॒जिदिति॑ सेन-जित् । च॒ । सु॒षेण॒ इति॑ सु-सेनः॑ । च॒ । से॒ना॒नि॒ग्रा॒म॒ण्या॑विति॑ सेनानि-ग्रा॒म॒ण्यौ॑ । वि॒श्वाची॑ । च॒ । घृ॒ताची॑ । च॒ । अ॒प्स॒रसौ॑ । आपः॑ । हे॒तिः । वातः॑ । प्रहे॑ति॒रिति॒ प्र-हे॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓म् उप᳓र्य् अर्वा᳓ग्-वसुः   ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,6 +397,7 @@ This above, bringing riches;
 
 अथ पञ्चममन्त्रमाह— अयमुत्तर्यर्वादिति ।   अर्वाग्वसुरधोमुखत्वेन वसुनो मेघाद्भूमौ पतनाद्वैद्युतोऽग्निस्तथोच्यते ।   स चोपर्यूर्ध्वायां दिशि प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -364,6 +405,8 @@ This above, bringing riches;
 उर्व᳓शी च पूर्व᳓-चित्तिश् चाप्सर᳓सौ    ।   
 विद्यु᳓द्+हेति᳓र्, अवस्फू᳓र्जन् प्र᳓हेतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,11 +429,14 @@ the leaders of his host and bands Tarksya and Aristamemi, and Urvaśi and Parvac
 
 भयहेतुप्रकाशा विद्युत् ।   मारकोऽशनिरवस्फूर्जन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्यो न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,11 +458,14 @@ To them homage;
 एतेषु पञ्चस्वपि मन्त्रेष्वनुषञ्जनीयं शेषमाह—
 तेभ्यो नमस्त इति ।   योऽयमग्निर्यौ च सेनानिग्रामण्यौ ये चाप्सरसौ यौ च हेतिप्रहेती तेभ्यः सर्वेभ्यो नमोऽस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ नो मृडयन्तु  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,11 +486,14 @@ be they gracious to us;
 
 ते सर्वे नोऽस्मान्मृडयन्तु सुखयन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ य᳓न् द्विष्मो᳓ य᳓श्च नो द्वे᳓ष्टि , तव्ँ᳓ वो ज᳓म्भे दधामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,18 +514,23 @@ him whom [2] we hate and who hateth us I place in your jaws.
 
 यं वैरिणं ते वयं द्विष्मो यश्च वैरी नोऽस्मान्द्वेष्टि तं वैरिणं युष्माभिरनुगृहितोऽहं वो   २०५५ युष्माकं जम्भे विदारितास्ये दधामि स्थापयामि ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒योस्त्वा॒ सद॑ने सादया॒म्यव॑तश्छा॒याया॒न्नम॑स्समु॒द्राय॒ नम॑स्समु॒द्रस्य॒ चक्ष॑से परमे॒ष्ठी त्वा॑ सादयतु दि॒वᳶ पृ॒ष्ठे व्यच॑स्वती॒म्प्रथ॑स्वतीव्ँवि॒भूम॑तीम्प्र॒भूम॑तीम्परि॒भूम॑ती॒न्दिवय्ँ॑यच्छ॒ दिव॑न्दृँह॒ दिव॒म्मा हिँ॑सी॒र्विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ च॒रित्रा॑य॒ सूर्य॑स्त्वा॒भि पा॑तु म॒ह्या स्व॒स्त्या छ॒र्दिषा॒ शन्त॑मेन॒ तया॑ दे॒वत॑याङ्गिर॒स्वद्ध्रु॒वा सी॑द ।    
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयो᳓स्त्वा स᳓दने सादयामि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -494,11 +551,14 @@ I place thee in the seat of the living,
 
 एति निरन्तरं गच्छतीत्यायुरादित्यः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वतश्छाया᳓यान्न᳓मः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -519,11 +579,14 @@ in the shadow of the helper;
 
 स च सर्वं जगदवति ।  तस्मादवत आयोश्छायायां सत्यां संतापपरिहारेण शौत्ये कृते सतीत्यर्थः ।   सदनेऽस्मिन्स्थाने हे इष्टके त्वां सादयामि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रा᳓य न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,11 +607,14 @@ homage to the ocean,
 
 समुद्राय समुद्रसद्रृशायाऽऽदित्याय नमोऽस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्र᳓स्य च᳓क्षसे । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,10 +635,14 @@ homage to the splendour of the ocean.
 
 समुद्रस्य चक्षसे प्रकाशकाय नमोऽस्तु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उपधानमन्त्रपाठस्तु— परमेष्ठी त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +651,8 @@ homage to the splendour of the ocean.
 
 दिवᳶ᳓ पृष्ठे᳓ व्य᳓चस्वतीम् प्र᳓थस्वतीव्ँविभू᳓मतीम्प्रभू᳓मतीम्परिभू᳓मतीम्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -603,11 +675,14 @@ May the supreme lord place thee on the ridge of the vault, encompassing, expandi
 
 परम उत्कृष्टे सत्यलोके तिष्ठतीति परमेष्ठी ब्रह्मा ।   स त्वा दिवः पृष्ठे स्वर्गस्योपरि सादयतु ।   कीदुशीं त्वां, व्यचस्वतीमभिव्यक्तिमतीं, प्रथस्वतीं विस्तारवतीं, विभूमतीं विविधनूतनोत्पादनशक्तिमतीं, प्रभूमतीं प्रभूत्वश क्तिमतीं, परिभूमतीं परसैन्यपराभवशक्तिमतीम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वय्ँयच्छ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -628,11 +703,14 @@ support the sky,
 
 दिवं यच्छ स्वर्गभोगं यजमाना धनितया नियतं कुरु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वन्दृँह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -653,11 +731,14 @@ make firm the sky,
 
 दिवं दृंह द्युलोके भोगं दृढी कुरु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वम्मा᳓ हिँसीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -678,11 +759,14 @@ harm not the sky;
 
 दिवं मा हिंसीर्दिवंद्युलोकभोगं मा विनाशय ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै चरि᳓त्राय सू᳓र्यस्त्वाभि᳓ पातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -703,6 +787,7 @@ for every expiration, inspiration, cross-breathing, out-breathing, support, move
 
 विश्वस्मै सर्वस्मै प्राणापानव्यानोदानाख्यवायुवृत्तिलाभाय, प्रतिष्ठायै स्वगृहे स्थितिलाभाय, चरित्राय शास्त्रीयाचरणाय, प्राणिनामेतस्य सर्वस्य सिद्ध्यर्थमयं सूर्यस्त्वामभितः षातु रक्षतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -710,6 +795,8 @@ for every expiration, inspiration, cross-breathing, out-breathing, support, move
 
 त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -732,10 +819,14 @@ let Surya protect thee with great prosperity, with a covering most healing; with
 
 केन रक्षणमिति तदुच्यतेमह्यास्वस्त्या महत्या योगक्षेमसंपत्त्या, शंतमेन च्छर्दिषाऽत्यन्तसुखकारिणा दीप्तिविशेषेण ।   तव स्वामिभूतया देवतयाऽनुगृहीता स्थिरा सती सीदेहोपविश ।   अङ्गिरस्वदङ्गिरसां चयनानुष्ठाने यथा त्वं ध्रुवा स्थिता तद्वत् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः— “प्रोथ दश्व इत्युत्तरेंऽसे विकर्णीम्” इति ।   पाठस्तु– प्रोथदश्वो नेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -743,6 +834,8 @@ let Surya protect thee with great prosperity, with a covering most healing; with
 प्रो᳓थद᳓श्वो न᳓ य᳓वसे अविष्य᳓न्यदा᳓ मह᳓स्सव्ँव᳓रणाद्व्य᳓स्थात् ।    
 आ᳓दस्य वा᳓तो अ᳓नु वाति शोचि᳓र᳓ध स्म ते व्र᳓जनङ्कृष्ण᳓मस्ति ॥   [9]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -781,6 +874,7 @@ And then thy path becometh black.
 
 प्रोथद्विकर्णीमादध्यान्मन्त्रा अष्टाविहेरिताः ॥    
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके तृतीयोऽनुवाकः ॥     ३॥    
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके चतुर्थोऽनुवाकः

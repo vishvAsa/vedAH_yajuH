@@ -5,6 +5,8 @@ title = "२७ पात्नीवतग्रहः"
 सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1उपांशुपात्रेण पात्नीवतम् आग्रयणाद् गृह्णाति - बृहस्पतिसुतस्येति ॥  
@@ -14,6 +16,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृह॒स्पति॑सुतस्य त इन्दो इन्द्रि॒याव॑त॒ᳶ पत्नी॑वन्त॒ङ्ग्रह॑ङ्गृह्णा॒मि ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/27_pAtnIvatagrahaH/02_bRhaspatisutasya_ta.md">
@@ -60,6 +63,8 @@ I draw the cup connected with the wives.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरया जुहोति । द्वितीया द्विपदा षोडशाक्षरा स्वाहाकारान्ता स्वयं यजुः । 
@@ -69,12 +74,15 @@ _______
 
 अग्ना३ इ पत्नी॒वा३स्स॒जूर्दे॒वेन॒ त्वष्ट्रा॒ सोम॑म्पिब॒ स्वाहा॑ ॥ [28]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ना᳓३इ᳓! प᳓त्नीवा᳓३स्!  
 सजू᳓र्+++(←स-जुष्)+++ देवे᳓न त्व᳓ष्ट्रा! सो᳓मम् पिब स्वा᳓हा ॥ [28]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,4 +113,5 @@ O Agni, with the wives, in unison with the god Tvastr, drink the Soma, hail.
 उत्तरस्य पत्नीवा इत्यस्य 'मतुवसोः' इति रुत्वम्।  
 द्वयोर् अपि षाष्ठिकम् आमन्त्रिताद्युदात्तत्वम्,  
 द्वितीयस्यापि पूर्वस्याविद्यमानत्वात् प्लुतस्योदात्, तस्यासिद्धत्वात्, वर्ज्यमान-स्वरेण निवृत्तिः ।
+</details>
 </details>

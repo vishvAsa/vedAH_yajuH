@@ -2,6 +2,8 @@
 title = "०१ कुम्भेष्टकाः - ०५-१३ यद् अदः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॒दस्स॑म्प्रय॒तीरहा॒वन॑दता ह॒ते । तस्मा॒दा न॒द्यो॑ नाम॑ स्थ॒ ता वो॒ नामा॑नि सिन्धवः ।
@@ -10,6 +12,7 @@ title = "०१ कुम्भेष्टकाः - ०५-१३ यद् �
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पञ्चमी - यदद इत्यनुष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/21_yad_adas.md">
@@ -61,6 +64,8 @@ These are your names, O streams.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्प्रेषि॑ता॒ वरु॑णेन॒ ताश्शीभँ॑ स॒मव॑ल्गत । [2]  
@@ -70,6 +75,7 @@ These are your names, O streams.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6नामान्तराणामपि व्युत्पत्तिं प्रदर्शयिष्याम इति बहुवचन-निर्देशेनोपक्षिप्तं तत्राप इति नाम व्युत्पादयितुमाह - यदिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/25_yat_preShitA.md">
@@ -116,9 +122,12 @@ Therefore ye are waters (ápah).
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒प॒का॒मँ स्यन्द॑माना॒ अवी॑वरत वो॒ हिक॑म् । इन्द्रो॑ व॒श्शक्ति॑भिर्देवी॒स्तस्मा॒द्वार्णाम॑ वो हि॒तम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/29_apakAmaM_syandamAnA.md">
@@ -169,6 +178,8 @@ Therefore your name is water (váh).
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एको॑ दे॒वो अप्य॑तिष्ठ॒त्स्यन्द॑माना यथाव॒शम् । उदा॑निषुर्म॒हीरिति॒ तस्मा॑दुद॒कमु॑च्यते ।
@@ -177,6 +188,7 @@ Therefore your name is water (váh).
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अष्टमी - एक इत्यनुष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/33_eko_devo.md">
@@ -223,10 +235,13 @@ Therefore they are called water.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॑ भ॒द्रा घृ॒तमिदाप॑ आसुर॒ग्नीषोमौ॑ बिभ्र॒त्याप॒ इत्ताः । ती॒व्रो रसो॑ मधु॒पृचा॑म् [3]  
 अ॒र॒ङ्ग॒म आ मा॑ प्रा॒णेन॑ स॒ह वर्च॑सा गन् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -273,6 +288,8 @@ The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to m
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आदित्प॑श्याम्यु॒त वा॑ शृणो॒म्या मा॒ घोषो॑ गच्छति॒ वाङ्न॑ आसाम् । मन्ये॑ भेजा॒नो अ॒मृत॑स्य॒ तर्हि॒ हिर॑ण्यवर्णा॒ अतृ॑पय्ँय॒दा वः॑ ।
@@ -281,6 +298,7 @@ The bitter sap of those dispensing sweetness [3], the satisfying, Hath come to m
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10दशमी - आदिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/41_Ad_it.md">
@@ -349,11 +367,14 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Ye, waters, are healing;  
 Further us to strength,  
 To see great joy.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/01_Apo_hi.md">
@@ -640,11 +661,14 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The most auspicious flavour that is yours,  
 Accord to us here,  
 Like eager mothers.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/02_yo_vaH.md">
@@ -896,11 +920,14 @@ Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebe
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To him may we come with satisfaction,  
 To whose dwelling ye quicken us,  
 O waters, and propagate us.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/009/03_tasmA_araM.md">

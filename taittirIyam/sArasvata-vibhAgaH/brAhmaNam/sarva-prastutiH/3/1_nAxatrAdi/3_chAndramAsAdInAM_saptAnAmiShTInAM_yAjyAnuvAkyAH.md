@@ -6,9 +6,12 @@ unicode_script = "devanagari"
 _______
 
 ## चन्द्रमाः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-2अथ 'चन्द्रमा वा अकामयत' इत्यादीनां सप्तानां क्रमेण याज्यानुवाक्याः द्वेद्वे । तत्र चन्द्रमसः (ननु 'नक्षत्रेष्टका उपदधात्येतानि वै दिवो ज्योतीँषि तान्येवावरुन्धे' इति ब्राह्मणे 'कृत्तिका नक्षत्रमग्निर्देवता' इत्यादीनामष्टाविंशतिनक्षत्रा दर्शपूर्णमासयोश्च त्रिंशतामेवोपधानमुक्तम् । किञ्च - 'अभिचरन् श्येनचिता यजेत' इत्यत्र 'अग्नेः कृत्तिकाः' इति त्रिंशतामेवोपधानम् । अत्र नक्षत्रेष्ट्यां चन्द्रादिसप्तानां यजनं किमर्थमित्यत आह - चन्द्रमा वा अकामयत इत्यादि । चन्द्रादीनामपि नक्षत्राधीनत्वात् चन्द्रसूर्ययोर्नक्षत्रेषु गमनं प्रसिद्धम् । अवशिष्टानां त्रयाणां तद्विभागतत्सन्धानतदात्मत्वेन अदितेर्विष्णोश्च यजनं नक्षत्रसत्रकर्तुः यजमानस्य ज्योतिष्ट्वावाप्तये प्रतिष्ठायै च भवति । तेषां द्वेद्वे याज्यानुऽवाक्ये) । नवोनवो भवति, यमादित्या अंशुमिति । व्याख्याते चैते द्वितीयकाण्डस्य चतुर्थान्त्ये ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/19_navonavo_bhavati.md">
@@ -368,6 +371,8 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 नवो॑नवो भवति॒ जाय॑मानो॒ …     
@@ -376,6 +381,7 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 न᳓वः-नवः । भवति । जा᳓यमानः ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
@@ -415,9 +421,12 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </div>
 
 ## अहोरात्रे
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अहोरात्रयोः - ये विरूपे इति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
@@ -484,9 +493,12 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 </div>
 
 ## उषाः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उषसः - प्रतीति परोष्णिक् ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
@@ -553,9 +565,12 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 ## नक्षत्रम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7नक्षत्राणां - संभक्तेन इत्यनुष्टुभौ ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
@@ -622,9 +637,12 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9-10सूर्यस्य - उदुत्यं, चित्रमिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
@@ -926,6 +944,8 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उदु॒ त्यञ्   
@@ -935,11 +955,15 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 उ᳓त् । उ । त्य᳓ञ् ।
 </details>
+</details>
 
 ## सूर्यः
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याते ग्रहपक्षे ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
@@ -1308,9 +1332,12 @@ _______
 
 ## अदितिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-12अदितेः - अदितिर्नः, महीमूष्विति ॥ व्याख्याते 'वैश्वानरो नः' इत्यत्र ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
@@ -1390,6 +1417,8 @@ Aditi, who giveth good protection and good guidance.
 </div>
 
 ## विष्णुः
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इ॒दव्ँ विष्णु॒ᳶ  
@@ -1404,6 +1433,7 @@ Aditi, who giveth good protection and good guidance.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13-14विष्णोः - हदं विष्णुः, प्रतद्विष्णुस्तव त हति ॥ प्रथमा 'युञ्जते मनः' इत्यत्र व्याख्याता ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
@@ -2054,6 +2084,8 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 ## अग्निः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15-16अग्नेः - अग्निर्मूर्धा, भुव इति ॥ अग्निकाण्डे व्याख्याते ॥
@@ -2065,6 +2097,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 तत्रैव व्याख्याताः त्रयोदश । अग्निं स्विष्टकृतमिति याज्या स्विष्टकृतः ।  
 जुषतां हविः इत्यन्तं यजुः । शिष्टा त्रिष्टुप् ।  
 अग्नेयदद्येति तत्रैव व्याख्याता ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
@@ -2327,6 +2360,8 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मू॒र्धा ।
@@ -2335,6 +2370,7 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अग्निः᳓ । मूर्धा᳓ ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
@@ -2374,10 +2410,13 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 ## अनुमतिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17-18अनुमतेः - अनुनोऽद्य, अन्विदनुमत इति ॥  
 'इदं वामास्ये' इत्यत्र व्याख्याते । अग्न्यनुमती सप्तस्वेवेति केचित् । सर्वत्र कृत्तिकादिष्वित्यपरे ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
@@ -2462,9 +2501,12 @@ Lengthen our days for us.
 </div>
 
 ## संयाज्ये
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19-20अथ संयाज्ये - हव्यवाहं, स्विष्टमिति ॥ व्याख्याते 'जुष्टः' इत्यत्र ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/26_havyavAhamabhimAtiShAham_rakhShohaNampRtanAsu.md">

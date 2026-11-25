@@ -13,9 +13,12 @@ title = "११ काम्येष्टि-याज्याः"
 ## वैश्वानरयागस्य पुरोनुवाक्या
 अभिशस्यमान-कर्तृके त्रिहविष्याद्यस्या वैश्वानरयागस्य पुरोनुवाक्या
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ प्राजापत्यकाण्डमध्ये याज्याकाण्डं वैश्वदेवम् । तत्र 'वैश्वानरं द्वादशकपालं निर्वपेद्वारुणं चरुं दधिक्राव्ण्णे चरुमभिशस्यमानः' इति त्रिहविष्को यो वैश्वानरो द्वादशकपालः तस्य पुरोनुवाक्या - वैश्वानरो न इति गायत्री ॥ प्रायेण पञ्चमषष्ठयोस् सर्ववैश्वानराणाम् इयमेव पुरोनुवाक्या वेदितव्या ।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
@@ -66,9 +69,12 @@ Agni through the hymn which brings (him).
 ## विद्विषाणान्नादने वैश्वानरयागे याज्या
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2'वैश्वानरं द्वादशकपालं निर्वपेद् विद्विषाणयोर् अन्नं जग्ध्वा' इत्यस्य याज्या - ऋतावानमिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
@@ -151,9 +157,12 @@ The immortal cauldron we seek.
 ## जातेष्टिरूपे वैश्वानरयागे पुरोनुवाक्या
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'वैश्वानरं द्वादशकपालं निर्वपेत्पुत्रे जाते' इत्यस्य पुरोनुवाक्या - वैश्वानरस्य दंसनाभ्य इति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/003/11_vaishvAnarasya_daMsanAbhyo.md">
@@ -494,9 +503,12 @@ Der Menschenhort liess strömen durch des Schaffens Kunst aus seiner Fülle Gros
 
 ## दर्शाद्यतिपत्तिनिमित्तके वैश्वानरयागे याज्या
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4'वैश्वानरं द्वादश-कपालं निर्वपेद् - अमावास्यां वा पौर्णमासीं वातिपाद्य' इत्यस्य याज्या' - पृष्टो दिवीति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
@@ -894,9 +906,12 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 ## जातेष्ट्याः याज्या
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5जातेष्ट्या याज्या - जातो यदग्न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/03_jAto_yadagne.md">
@@ -1273,9 +1288,12 @@ Geboren, Agni, schautest du die Wesen, wie muntre Hirten ihre Heerd' umwandeln; 
 
 ## त्रिहविष्याद्स्य वैश्वानरयागस्य याज्या
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6त्रिहविष्याद्यस्य वैश्वानरस्य याज्या - त्वमग्न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/013/02_tvamagne_shochiShA.md">
@@ -1603,9 +1621,12 @@ Du, Agni, fülltest, gleich wie du geboren, mit Glanz erstrahlend an die beiden 
 ## आयतनगमननिमित्तके वैश्वानरयागे याज्या
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'वैश्वानरं द्वादशकपालं निर्वपेदायतनं गत्वा' इत्यस्य याज्या - अस्माकमिति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/008/06_asmAkamagne_maghavatsu.md">
@@ -1960,9 +1981,12 @@ Bewahre, Agni, unsern Fürsten ungebeugt und ungeschwächt die Herrschaft und di
 
 ## सनिमेष्यतो वैश्वानरयागे याज्या
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8'वैश्वानरं द्वादशकपालं निर्वपेत्सनिमेष्यन्' इत्यस्य याज्या - यैश्वानरस्य सुमताविति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/01_vaishvAnarasya_sumatau.md">
@@ -2319,9 +2343,12 @@ Wir mögen in des Männerhortes Huld sein; denn er als König ist der Wesen Segn
 
 ## त्रिहविषि मध्यमस्य वारुणस्य
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ त्रिहविषि मध्यमस्य वारुणस्य पुरोनुवाक्या - अवते हेड इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">
@@ -2679,9 +2706,12 @@ O Varuna, wir wenden deinen Zorn ab, durch Opfer, durch Gebet, durch Trankesspen
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - उदुत्तममिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
@@ -3042,9 +3072,12 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 
 ## त्रिहविषि उत्तमस्य दधिक्राव्णस्य
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11अथ तत्रैव त्रिहविषः उत्तमस्य 'दधिक्राव्ण्णे चरुम्' इत्यस्य पुरोनुवाक्या - दधिकाव्ण्ण इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/039/06_dadhikrAvNo_akAriShaM.md">
@@ -3359,9 +3392,12 @@ Den Dadhikravan rühmte ich, das schnelle sieggewohnte Ross, Schönduftend mach 
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - आ दधिक्रा इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/038/10_A_dadhikrAH.md">
@@ -3740,9 +3776,12 @@ Mit Kraft durchdrang Dadhikra alle Völker, gleichwie die Sonne mit dem Licht di
 
 ## अग्निम् उद्वासयिष्यतः आग्नेये
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13'आग्नेयमष्टाकपालं निर्वपेद्वैश्वानरं द्वादशकपालमग्निमुद्वासयिष्यन्' इति द्विहविष्कस्याग्नेयस्य याज्यानुवाक्ये - अग्निर्मूर्धा दिवः ककुत्, भुवो यज्ञस्येति गायत्रीत्रिष्टुभौ ॥ एतयोराद्या 'उपप्रयन्तः' इत्यत्र व्याख्याता ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
@@ -4005,6 +4044,8 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्मू॒र्धा ।
@@ -4023,6 +4064,7 @@ Agni, the head.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अन्या त्वग्निकाण्डे व्याख्यास्यते, यत्राम्नायते । 'अग्निर्मूर्धा' इत्यत्रानुवाके । इह तु प्रतीके अनयोर्गृह्येते । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/04_ChandobhidheShTakopadhAnam/bhuvo_yaJNasya.md">
@@ -4073,6 +4115,8 @@ Thou makest, O Agni, thy tongue to bear the oblation.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 भुवः॑।
@@ -4087,13 +4131,17 @@ Thou makest, O Agni, thy tongue to bear the oblation.
 
 Thou art.
 </details>
+</details>
 
 ## ग्रामकामस्य मारुते पुरोनुवाक्या
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15`वैश्वानरं द्वादशकपालं निर्वपेन्मारुतं सप्तकपालं ग्रामकामः' इति द्विहविषो मारुतस्य पुरोनुवाक्या - मरुतो यद्ध वो दिव इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/007/11_maruto_yaddha.md">
@@ -4382,9 +4430,12 @@ So oft wir Huld begehrend euch vom Himmel, Maruts, rufen her, So kommet stets zu
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - या व इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/085/12_yA_vaH.md">
@@ -5139,9 +5190,12 @@ Den Schutz, der für den Opfrer euch bereit ist, der dreifach schirmt, den reich
 
 ## सङ्ग्राममुपप्रयायास्यतः आदित्ये
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17आदित्यं चरुं निर्वपेत्सङ्ग्राममुपप्रयास्यन्' इत्यत्र पुरोनुवाक्या - अदितिर्न इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" open title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/3/11_aditirna_uruShyatu.md">
@@ -5179,9 +5233,12 @@ Let Aditi guard us from tribulation.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18तत्रैव याज्या - महीमूष्विति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
@@ -5232,9 +5289,12 @@ Aditi, who giveth good protection and good guidance.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19पुनरपि तत्रैव याज्याविकल्पः - सुत्रामाणमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
@@ -5337,12 +5397,15 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20पुनरपि तत्रैव गायत्रीत्वात्पुरोनुवाक्याविकल्पः - इमामिति ॥
 
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे पञ्चमप्रपाठके एकादशोनुवाकः ॥
 समाप्तश्च प्रपाठकः ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/375_imAM_su.md">

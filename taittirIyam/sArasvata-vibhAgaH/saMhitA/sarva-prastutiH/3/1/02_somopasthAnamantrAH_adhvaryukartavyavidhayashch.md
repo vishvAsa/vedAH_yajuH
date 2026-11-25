@@ -4,6 +4,8 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 विश्वेदेवा ऋषयः।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष ते॑ गाय॒त्रो भा॒ग इति॑ मे॒ सोमा॑य ब्रूतादे॒ष ते॒ त्रैष्टु॑भो॒ जाग॑तो भा॒ग इति॑ मे॒ सोमा॑य ब्रूताच्छन्दो॒मानाँ॒ साम्रा॑ज्यङ्ग॒च्छेति॑ मे॒ सोमा॑य ब्रूतात्
@@ -13,11 +15,14 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 1-4पुरस्तात्सेोमस्य क्रयाद्राजानमभिमन्त्रयते । एष वल्लीसोमस्तव गायत्रो भागः अंशः । 'कर्षात्त्वतः' इत्यन्तोदात्तत्वम् । एतदुक्तं भवति - गायत्रीविषयं यत्तव साम्राज्यं तस्येदं स्थानं इममधिष्ठाय तत्साम्राज्यं कुरुष्वेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते गायत्रो᳓ भाग᳓ इ᳓ति मे सो᳓माय ब्रूतात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,6 +43,7 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 इत्थं मे मदर्थं मदीयं वा सोमं सोमाय राज्ञे ब्रूतात् ब्रूत । हे छन्दांसि । यद्वा - हे देवाः 'तस्य तात्' इति तादादेशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,6 +51,8 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 +++(एष᳓ ते᳓)+++ जा᳓गतो भाग᳓ इ᳓ति मे सो᳓माय ब्रूतात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,11 +75,14 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 एवं 'एष ते त्रैष्टुभः एष ते जागतः' इत्येतयोरपि वेदितव्यम् । भाग इत्युभयत्राप्यनुषज्यते । त्रिष्टुप्जगतीशब्दाभ्यामुत्सादित्वात्प्राग्दीव्यतीयोऽण् । छन्दांसि प्रधानानि वा । गायत्रीत्रिष्टुप्जगत्येतद्विषयं तत्संबन्धि यत्तव साम्राज्यादिकं तदेतेन वल्लीसोमेन गच्छ कुर्वित्यर्थः । एवं त्वां साम्राज्यं गमयामः अनेनाभिमन्त्रणेनेति भावः । शिष्टं स्पष्टम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छन्दोमा᳓नाँ सा᳓म्राज्यङ्गच्छे᳓ति मे सो᳓माय ब्रूतात् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -92,10 +103,14 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 
 सम्यग्राजत इति सम्राट्, क्विप् 'मो राजिसमः क्वौ' इति मः । तस्य भावः साम्राज्यं गुणवचनत्वात् ष्यञ् । छन्दोविषयं तवैश्वर्यमित्यर्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै सोमँ॒ राजा॑नँ॒ साम्रा॑ज्यल्ँ लो॒कङ्ग॑मयि॒त्वा क्री॒णाति॒ गच्छ॑ति॒ स्वानाँ॒ साम्रा॑ज्य॒ञ्छन्दाँ॑सि॒ खलु॒ वै सोम॑स्य॒ राज्ञ॒स्साम्रा॑ज्यो लो॒कᳶ पु॒रस्ता॒त्सोम॑स्य क्र॒यादे॒वम॒भि म॑न्त्रयेत॒ साम्रा॑ज्यमे॒व [5]  ए॒नल्ँ॒ लो॒कङ्ग॑मयि॒त्वा क्री॑णति॒ गच्छ॑ति॒ स्वानाँ॒ साम्रा॑ज्यँ
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +118,8 @@ title = "०२ सोमोपस्थानमन्त्राः अध्
 यो᳓ वै᳓ सो᳓मँ रा᳓जानँ सा᳓म्राज्ल्लोक᳓ङ्गमयित्वा᳓ क्रीणा᳓ति᳓ ।  
 ग᳓च्छति स्वा᳓नाँ सा᳓म्राज्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +142,14 @@ He who purchases King Soma after making it go to the world of lordship, becomes 
 5अथैतेषां मन्त्राणां ब्राह्मणम् - यो वै सोममिति ॥
 लोकः प्रकाशः । साम्राज्यलक्षणं लोकं गमयित्वा यस्सोमं क्रीणाति स स्वानामात्मीयानां साम्राज्यं गच्छति । तिङः परत्वान्न निहन्यते । समानवाक्ये वा पदात्परत्वाभावात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दाँसि ख᳓लु वै᳓ सो᳓मस्य रा᳓ज्ञस्सा᳓म्राज्यो लोकः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -150,11 +170,14 @@ The world of lordship of King Soma is the metres;
 
 कः पुनः साम्राज्यलक्षणो लोकः इत्याह - छन्दांसीत्यादि । साम्राज्यस्य छन्दोवीषयत्वात् ताच्छब्द्यमुपचर्यते, व्यत्ययेन पुल्लिङ्गता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुर᳓स्तात्सो᳓मस्य क्रया᳓देव᳓मभि᳓ मन्त्रयेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,12 +199,15 @@ he should utter these verses before the purchase of Soma.
 कथंपुनस्तत्सोमो गमयितव्य इत्यत आह - पुरस्तादित्यादि ।
 पुरस्तात् पूर्वस्मिन् काले । 'दिक्शब्देभ्यः ' इत्यादिना अस्तातिः, 'अस्ताति च' इति पुरादेशः । एवमिति 'एष ते गायत्रः' इत्यादिभिर्मन्त्रैरित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓म्राज्यमेव᳓ [5] एनल्ँ लोक᳓ङ्गमयित्वा᳓ क्रीणाति ।  
 ग᳓च्छति स्वा᳓नाँ सा᳓म्राज्यम्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,16 +230,22 @@ It is to the world of lordship that he makes it go when he buys (Soma) [1], and 
 इष्टसिद्धिसमर्थनेन निगमयति - साम्राज्यमेवेत्यादि ।
 एवं कुर्वन् साम्राज्यं लोकं गमयित्वैव एनं सो क्रीणाति, स्वयं च स्वानां साम्राज्यं गच्छति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ तानूनप्त्रस्यावघ्राणं विधास्यन्नाह - यो वै तानूनप्त्रस्येत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ तानूनप्त्र᳓स्य प्रतिष्ठाव्ँ᳓वे᳓द प्र᳓त्येव᳓ तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,10 +266,14 @@ He, who knows the support of the Tanunaptra finds support.
 
 तनूनामपां नप्ता चतुर्थस्तनूनपात् शरीरस्थोग्निः, तस्मै यद्गृह्यते आज्यं तत्तानूनप्त्रम् । यद्यपि 'आपतये त्वा गृह्णामि' इत्याद्यापत्यादिभ्यः प्राणादिभ्यो ह्येतद्गृह्यते । तथाऽपि प्राधान्यात्तानूनप्त्रा व्यपदिश्यते । तस्य यः प्रतिष्ठां वेद स प्रतितिष्ठत्येव ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ न प्रा॒श्ञन्ति॒ न जु॑ह्व॒त्यथ॒ क्व॑ तानून॒प्त्रम्प्रति॑ तिष्ठ॒तीति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +282,8 @@ He, who knows the support of the Tanunaptra finds support.
 न᳓ प्राश्ञ᳓न्ति ।    
 न᳓ जुह्वति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,11 +307,14 @@ The theologians say, 'They do not eat, nor offer;
 7अधुना ब्रह्मवादिभिः पर्यनुयोजयति - ब्रह्मवादिन इत्यादि ॥
 ब्रह्म वेदः तदर्थं वदितुं शीलमेषां ते ब्रह्मवादिनः । 'ब्रह्मणि वदः' इति णिनिः । वदन्ति प्रश्नं कुर्वन्ति - नेदं तानूनप्त्रं प्राश्नन्ति, न चेदं जुह्वति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ क्व᳙ तानूनप्त्र᳓म्प्र᳓ति तिष्ठती᳓ति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -294,11 +335,14 @@ then where does the Tanunaptra find support?'
 
 प्राशनेन वा होमेन वा नास्य प्रतिष्ठेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतौ म᳓नसी᳓ति ब्रूयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,6 +364,9 @@ then where does the Tanunaptra find support?'
 8अथेदानीं तानूनप्त्रं क्व प्रति तिष्ठति, काऽस्य प्रतिपत्तिरिति इदानीं तेभ्य उत्तरं अन्येनैव दापयति - प्रजापताविति ॥
 प्राजापत्यात्मनि प्रजानां वा पालके मनसि अस्य प्रतिष्ठेति ब्रूयात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -330,12 +377,15 @@ then where does the Tanunaptra find support?'
 
 9कः पुनस्तस्य प्रकार इत्यत्राह - त्रिरव जिघ्रेदिति ॥ मन्त्रमाह - प्रजापतावित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि᳓र᳓व जिघ्रेत् ।  
 प्रजा᳓पतौ त्वा म᳓नसि जुहोमी᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,11 +407,14 @@ He should smell at it thrice, (saying), 'In Prajapati thee, in the mind I offer'
 
 गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓ वै᳓ तानूनप्त्र᳓स्य प्रतिष्ठा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,11 +430,14 @@ this indeed is the support of the Tanunaptra;
 
 ए॒षा । वै । ता॒नू॒न॒प्त्रस्येति॑ तानू-न॒प्त्रस्य॑ । प्र॒ति॒ष्ठेति॑ प्रति-स्था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓त्येव᳓ तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -403,10 +459,14 @@ he who knows thus finds support.
 10एषा वा इत्यादि प्राजापत्यात्मब्राह्मणम् ॥
 गतमेव ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यः [6] वा अ॑ध्व॒र्योᳶ प्र॑ति॒ष्ठाव्ँवेद॒ प्रत्ये॒व ति॑ष्ठति॒ यतो॒ मन्ये॒तान॑भिक्रम्य होष्या॒मीति॒ तत्तिष्ठ॒न्ना श्रा॑वयेदे॒षा वा अ॑ध्व॒र्योᳶ प्र॑ति॒ष्ठा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +474,8 @@ he who knows thus finds support.
 यो᳓ वा᳓ अध्वर्योᳶ᳓ प्रतिष्ठाव्ँ᳓वे᳓द ।  
 प्र᳓त्येव᳓ तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,12 +497,15 @@ He who [2] knows the support of the Adhvaryu finds support.
 
 11यो वा अध्वर्योः प्रतिष्ठामित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓तो म᳓न्येता᳓नभिक्रम्य होष्यामी᳓ति ।  
 त᳓त्ति᳓ष्ठन्ना᳓ श्रावयेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,11 +527,14 @@ He should call (on the Agnidhra) standing in the place without moving whence he 
 
 अतीत्यावस्थानमभिक्रमणम् । यतोनभिक्रम्य होष्यामीति तत्तत्र तिष्ठन्नाश्रावयेत् ततो होष्यन्नाक्रामेदिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा᳓ वा᳓ अध्वर्योᳶ᳓ प्रतिष्ठा᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +555,14 @@ This is the support of the Adhvaryu;
 
 एवमनुष्ठानं अध्वर्योः प्रतिष्ठाहेतुत्वात्प्रतिष्ठा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓त्येव᳓ तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,10 +583,14 @@ he who knows thus finds support.
 
 12य एवमित्यादि ॥ गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॑भि॒क्रम्य॑ जुहु॒यात्प्र॑ति॒ष्ठाया॑ इया॒त्तस्मा॑त्समा॒नत्र॒ तिष्ठ॑ता होत॒व्य॑म्प्रति॑ष्ठित्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,6 +598,8 @@ he who knows thus finds support.
 य᳓दभिक्र᳓म्य जुहुया᳓त् ।  
 प्रतिष्ठा᳓या इयात्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +622,14 @@ If he were to sacrifice moving about, he would lose his support;
 13विपर्यये दोषमाह - यदभिक्रम्येत्यादि ॥
 यद्याश्रावणस्थानादभिक्रम्य जुहुयात् प्रतिष्ठाया इयात् च्यवेत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्समान᳓त्र ति᳓ष्ठता होतव्य᳙म्प्र᳓तिष्ठित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,10 +650,14 @@ therefore he should sacrifice standing in the same place, for support.
 
 तस्मात्समानत्र समानदेशे तिष्ठता होतव्यं आश्रावणदेश एवेत्यर्थः । प्रतिष्ठित्यै भवति । तदेतदन्यत्र हविर्यज्ञेभ्योऽभिक्रामं जुहोति हविर्यज्ञेषु भवतीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वा अ॑ध्व॒र्योस्स्वव्ँवेद॒ स्ववा॑ने॒व भ॑वति॒ स्रुग्वा अ॑स्य॒ स्वव्ँवा॑य॒व्य॑मस्य [7]  स्वञ्च॑म॒सो॑ऽस्य॒ स्वय्ँयद्वा॑य॒व्यव्ँ॑वा चम॒सव्ँवाऽन॑न्वारभ्याश्रा॒वये॒त्स्वादि॑या॒त्तस्मा॑दन्वा॒रभ्या॒श्राव्यँ॒ स्वादे॒व नैति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +665,8 @@ therefore he should sacrifice standing in the same place, for support.
 यो᳓ वा᳓ अध्वर्यो᳓स्स्वव्ँ᳓वे᳓द᳓ ।  
 स्व᳓वानेव᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,11 +688,14 @@ He who knows the possession of the Adhvaryu, becomes possessed (of what he needs
 
 14यो वा अध्वर्योस्स्वं वेदेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रु᳓ग्वा᳓ अस्य स्वव्ँ᳓,  वायव्य᳙म᳓स्य᳓ [7]  स्व᳓ञ्, चमसो᳙ऽस्य स्वम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -627,11 +716,14 @@ His possession is the offering spoon, his possession is the Vayu cup, his [3] po
 
 स्रुगादयः अध्वर्योस्स्वानि धनानि । तत्र सोमविषयत्वादनुवाकस्य वायव्यचमसयोरेव ग्रहणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्वायव्यव्ँ᳙वा चमसव्ँ᳓वा᳓ऽनन्वारभ्याश्राव᳓येत् स्वा᳓दियात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -652,11 +744,14 @@ If he were to call without holding the Vayu cup or the beaker, he would lose his
 
 यद्वायव्यं वा चमसं वेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादन्वार᳓भ्याश्रा᳓व्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +772,14 @@ therefore he must hold it when he calls;
 
 तस्मादित्यादि । वायव्यं वा चमसं वा हस्तेऽन्वारभ्य हस्ते गृहीत्वा आश्राव्यम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓देव᳓ नै᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,10 +800,14 @@ verily he loses not his own.
 
 एवं कुर्वन् स्वादेव नैति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै सोम॒मप्र॑तिष्ठाप्य स्तो॒त्रमु॑पाक॒रोत्यप्र॑तिष्ठित॒स्सोमो॒ भव॒त्यप्र॑तिष्ठित॒स्स्तोमोऽप्र॑तिष्ठितान्यु॒क्थान्यप्र॑तिष्ठितो॒ यज॑मा॒नोऽप्र॑तिष्ठितोऽध्व॒र्युः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -714,6 +816,8 @@ verily he loses not his own.
 अ᳓प्रतिष्ठितस्सो᳓मो भ᳓वति᳓ + अ᳓प्रतिष्ठितस्स्तो᳓मः  ।
 अ᳓प्रतिष्ठितान्युक्था᳓न्य᳓प्रतिष्ठितो य᳓जमानो᳓ऽप्रतिष्ठितोऽध्वर्युः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -736,10 +840,14 @@ If he begins the litany without placing the Soma, the Soma is not supported, the
 
 15यो वै सोममप्रतिष्ठाप्येत्यादि ॥ सोममप्रतिष्ठाय अप्रतिष्ठां गमयित्वा यः स्तोत्रमुपाकरोति तस्य सोमादयोप्रतिष्ठिताः स्वकार्यकरणे असमर्थाः भवेयुः । उक्थानि शस्त्राणि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॑य॒व्यव्ँ॑ वै सोम॑स्य प्रति॒ष्ठा च॑म॒सो॑ऽस्य प्रति॒ष्ठा सोम॒स्स्तोम॑स्य॒ स्तोम॑ उ॒क्थाना॒ङ्ग्रहव्ँ॑वा गृही॒त्वा च॑म॒सव्ँवो॒न्नीय॑ स्तो॒त्रमु॒पाकु॑र्या॒त्प्रत्ये॒व सोमँ॑ स्था॒पय॑ति॒ प्रति॒ स्तोम॒म्प्रत्यु॒क्थानि॒ प्रति॒ यज॑मान॒स्तिष्ठ॑ति॒ प्रत्य॑ध्व॒र्युः ॥ [8]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -748,6 +856,8 @@ If he begins the litany without placing the Soma, the Soma is not supported, the
 चमसो᳙ऽस्य प्रतिष्ठा᳓।  
 सो᳓मस्स्तो᳓मस्य +++(प्रतिष्ठा)+++स्तो᳓म उक्था᳓ना᳓म् +++(प्रतिष्ठा )+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -774,11 +884,14 @@ The support of the Soma is the Vayu cup, the support of it is the beaker, (the s
 
 प्रत्येव सोममित्यादि । +++(प्रत्येव सोममिति मन्त्रभाग उत्तरत्रोच्यते)+++ तेषामेव प्रस्तुतत्वात् चमसोस्य सोमस्य प्रतिष्ठेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्र᳓हव्ँवा गृहीत्वा᳓ चमसव्ँ᳓वोन्नी᳓य स्तोत्र᳓मुपा᳓कुर्यात् ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -799,10 +912,14 @@ He should grasp the cup or fill up the beaker, and then begin the litany;
 
 17कथं पुनः सोमः प्रतिष्ठां गमयितव्य इत्याह - ग्रहं वेत्यादि ॥ ग्रहचमसशब्दाभ्यां विशिष्टाधारवर्तिसोम उच्यते । तत्र ग्रहणं ग्रहस्योन्नयनम् । उन्नयनमेव चमसस्य ग्रहणम् । तस्मादुच्यते ग्रहं वा गृहीत्वा चमसं वोन्नीयेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रत्ये॒व सोमँ॑ स्था॒पय॑ति॒ प्रति॒ स्तोम॒म्प्रत्यु॒क्थानि॒ प्रति॒ यज॑मान॒स्तिष्ठ॑ति॒ प्रत्य॑ध्व॒र्युः ॥ [8]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -810,6 +927,8 @@ He should grasp the cup or fill up the beaker, and then begin the litany;
 प्र᳓त्येव᳓ सो᳓मँ स्थाप᳓यति ।  
 प्र᳓ति स्तो᳓मम्प्र᳓त्युक्था᳓नि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -832,11 +951,14 @@ a support to the Soma he verily (eva) gives, to the Stoma, to the hymns;
 18एवं हि सोमः प्रतिष्ठां गमित एवेत्याह - प्रत्येव सोममित्यादि ॥
 ग्रहचमसशब्दाभ्यां स्तोत्रोपाकरणं कृतं भवति । ग्रहप्रतिष्ठात्वात् सोमस्य, तस्य चमसप्रतिष्ठात्वात् । ततश्च सोमादीन् प्रतिष्ठापयैति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति य᳓जमानस्ति᳓ष्ठति प्र᳓त्यध्वर्युः᳓ ॥ [8]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -858,4 +980,5 @@ the sacrificer finds support, the Adhvaryu finds support.
 यजमानश्च प्रतितिष्ठति, अध्वर्युश्च प्रति तिष्ठतीत्येव ॥
 
 इति तृतीये प्रथमे द्वितीयोनुवाकः ॥
+</details>
 </details>

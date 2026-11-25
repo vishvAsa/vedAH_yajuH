@@ -5,9 +5,12 @@ title: चक्षुषो हेते
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अभिचारेष्ट्यां 'अग्रये यविष्ठाय' इत्यादौ उपहोमाः - चक्षुषो हेत इति बृहतीप्रकारः ॥ 
+</details>
 </details>
 
 ## मेनिवारणम्

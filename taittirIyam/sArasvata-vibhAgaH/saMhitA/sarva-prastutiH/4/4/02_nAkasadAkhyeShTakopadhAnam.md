@@ -4,6 +4,8 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 [3]  
@@ -20,11 +22,14 @@ title = "०२ नाकसदाख्येष्टकोपधानम्"
 कल्पः—“राज्ञ्यसि प्राची दिगिति पञ्च नाकसदः प्रतिदिशमेकां मध्ये” इति ।  
 तत्र प्रथमामाह— राज्ञ्यसि प्राचीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓ज्ञ्यसि प्रा᳓ची दि᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +50,14 @@ Thou art the queen, the eastern quarter;
 
 हे इष्टके त्वं राज्ञी राजमाना प्राची दिक्तद्रूपाऽसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सवस्ते देवा᳓ अ᳓धिपतयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,11 +78,14 @@ the Vasus, the deities, are thine overlords,
 
 ते तव वसवोऽष्टसंख्याका अधिपतयोऽधिकं पालयितारः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्हेतीना᳓म्प्रतिधर्ता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,11 +106,14 @@ Agni stayeth missiles from thee;
 
 अग्निस्तवोपद्रवकराणां हेतीनां परकीयायुधानां प्रतिधर्ता निराकर्ता ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓त्त्वा स्तो᳓मᳶ पृथिव्याँ᳓ श्रयतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,11 +134,14 @@ may the threefold Stoma support thee on earth,
 
 योऽयं त्रिवृदाख्यः स्तोमः स त्वां पृथिव्यां स्थापयतु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ज्यमुक्थ᳓म् अ᳓व्यथयत्स्तभ्नातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,11 +162,14 @@ may the Ajya hymn establish thee in firmness,
 
 यदाज्यमुक्थमाज्यनामकं प्र वो देवायाग्नय इत्यादिकं शस्त्रमवस्थितं ( तत् ) त्वामब्यथयद्व्यथारहितां कुर्वत्स्तभ्नातु दृढी करोतु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथन्तरँ᳓ सा᳓म प्र᳓तिष्ठित्यै ।  +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,10 +191,14 @@ the Rathantara Saman be thy support.
 यद्रथंतरं साम तत्प्रतिष्ठत्यै तव चिरावस्थानाय भवतु ।  
 एवभुत्तरेष्वषि मन्त्रेषु योज्यम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयं मन्त्रमाह— विराडसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +210,8 @@ the Rathantara Saman be thy support.
 प्र᳓उगमुक्थ᳓म᳓व्यथयत्स्तभ्नातु  ।  
 बृह᳓त्सा᳓म प्र᳓तिष्ठित्यै +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -212,10 +238,14 @@ Thou art the ruling, the southern quarter; the Rudras, the deities, are thine ov
 तत्तत्सामदेवतासंबन्धिनस्त्रिवृदादयः स्तोमास्ते च “समिधमा तिष्ठ” इत्यत्रैव व्याख्याताः ।  
 वायुरग्रेगा इत्यादिकं शास्त्रं प्रउगम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयं मन्त्रमाह— सम्राडसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +257,8 @@ Thou art the ruling, the southern quarter; the Rudras, the deities, are thine ov
 मरुत्वती᳓यमुक्थ᳓म᳓व्यथयत्स्तभ्नातु ।  
 वैरूपँ᳓ सा᳓म प्र᳓तिष्ठित्यै । +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,10 +284,14 @@ Thou art the sovereign, the western quarter; the Adityas, the deities, are thine
 
 “आ त्वा रथं यथोतयः” इत्यादिकं मरुत्वदीयं शस्रम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २०५० अथ चतुर्थं मन्त्रमाह— स्वराडस्युदीचीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +303,8 @@ Thou art the sovereign, the western quarter; the Adityas, the deities, are thine
 नि᳓ष्केवल्यमुक्थ᳓म᳓व्यथयत्स्तभ्नातु ।  
 वैराजँ᳓  सा᳓म प्र᳓तिष्ठित्यै +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,10 +330,14 @@ Thou art the self-ruling, the northern quarter; the All-gods are thine overlords
 
 “अभि त्वा शूर नोनुमः” इत्यादि निष्केवल्यम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमं मन्त्रमाह— अधिपत्न्यसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,6 +347,8 @@ Thou art the self-ruling, the northern quarter; the All-gods are thine overlords
 बृ᳓हस्प᳓तिर्हेतीना᳓म्प्रतिधर्ता᳓ ।  
 त्रिणवत्रयस्त्रिँशौ᳓  त्वा स्तो᳓मौ पृथिव्याँ᳓ श्रयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,6 +373,7 @@ Thou art the lady paramount, the great quarter; the Maruts, the deities, are thi
 अधिकं पालयित्र्यधिपत्नी ।  
 बृहती दिक्प्रौढोर्ध्वा दिक्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -336,6 +381,8 @@ Thou art the lady paramount, the great quarter; the Maruts, the deities, are thi
 अ᳓व्यथयन्ती स्तभ्नीताम्  ।  
 शाक्वररैवते᳓ सा᳓मनी प्र᳓तिष्ठित्यै  +++(अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -359,16 +406,22 @@ the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Śakvar
 “तत्संवितुर्वृणीमहे” इत्यादिकं शस्त्रं वैश्वदेवम्।  
 “वैश्वनराय पृथुराजसे” इत्यादिकं शस्त्रमाग्निमारुतम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सर्वेष्वपि मन्त्रेवनुषञ्चनीयं शेषमाह— अन्तरिक्षायेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,11 +442,14 @@ For the atmosphere may the Rsis firstborn among the gods extend thee with the me
 
 देवेषु मध्ये ये प्रथमजा ऋषयो नारदाद्याः ।   अत एव स्मर्यते—“देवर्षिर्नारदस्तथा’ इति ।   ते महर्षयस्त्वामिष्टकां दिवो मात्रयाऽऽका।   शस्य यत्परिमाणं तेन परिमाणेन प्रथन्तु विस्तारयन्तु ।   किमर्थम्, अन्तरिक्षार्थमन्तरिक्षं व्याप्तुमित्यर्थः ।   कीदृशेन परिमाणेन, वरिणा वरणीयेन ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधर्ता᳓  चाय᳓म᳓धिपतिश्च +++( प्रथेताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,11 +470,14 @@ and he that is disposer and overlord;
 
 न केवलमृषयः प्रथन्तु किंतु विधर्ता चायमधिपतिश्च योऽयमिष्टकानां निष्पादयिता यश्च पालकस्तावपि प्रथेताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ त्वा स᳓र्वे सव्ँविदाना᳓ ना᳓कस्य पृष्ठे᳓ सुवर्गे᳓ लोके᳓ य᳓जमानञ्च सादयन्तु ॥   [6]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -458,6 +517,7 @@ let all of them in unison establish thee and the sacrificer on the ridge of the 
 राज्ञी नाकसदः पञ्च सर्वशेषोऽन्तरित्ययम् ॥  
 
 २०५२ इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके द्वितीयोऽनुवाकः ॥  १ ॥    
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके तृतीयोऽनुवाकः

@@ -2,11 +2,14 @@
 title = "०६ त्रिरात्राङ्गहोमादिविधिश्च"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 त्रिरात्राङ्गसहस्रतम्याः प्रकारान्तरेण स्तुतिः   
 
 विश्वेदेवा ऋषयः
+</details>
 </details>
 
 ## सहस्रतमीस्तुतिः
@@ -15,6 +18,8 @@ title = "०६ त्रिरात्राङ्गहोमादिवि�
 
 सो᳓मो वै᳓ +++(गवां)+++ सह᳓स्रम् अविन्दत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,11 +41,14 @@ Soma found a thousand;
 1इदानीं प्रकारान्तरेण सहस्रतमी स्तूयते - सोमो वा इत्यादि ॥
 सोमो गवां सहस्रमलभत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् इ᳓न्द्रो᳓ ऽन्वविन्दत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,11 +69,14 @@ Indra discovered it after him.
 
 इन्द्रोपीमं सोममागम्य तदेव गवां सहस्रमविन्दत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ᳓ +++(निकामयमानः)+++ यमो᳓ न्या᳓गच्छत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,11 +97,14 @@ Yama approached them
 
 एवं तदुभयोरभवत् भागः तौ सोमेन्द्रौ यमोन्यागच्छत् निकामयमान आगच्छत् । 'गतिर्गतौ' इति गतेरनुदात्तत्वम्, समासश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अब्रवीद् - "अ᳓स्तु मे᳓ऽत्रा᳓पी᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +126,14 @@ and said to them, 'May I have a share too in it.'
 
 तौ चाब्रवीत् - ममाप्यत्र गवां सहस्रे अंशित्वमस्त्विति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓स्तु ही᳓३ इ᳓त्यब्रूताम् । +++('प्रतिश्रवणे च' इति प्लुतः, अभिपूजिते वा ।)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +154,14 @@ They said to him, 'Be it so.'
 
 अथास्तु हि इति तमब्रूताम् । 'प्रतिश्रवणे च' इति प्लुतः, अभिपूजिते वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ यम᳓ +++(गोसमूहात्)+++ ए᳓कस्याव्ँ +++(सहस्रतम्यां)+++ वीर्य᳙म् प᳓र्यपश्यद् - इयव्ँ᳓ वा᳓ अस्य᳓ सह᳓स्रस्य वीर्य᳙म् बिभर्ती᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,11 +184,14 @@ Yama saw in one of the (cows) strength.
 ततः प्रतिश्रुतांशो यमः एकस्यां सहस्रतम्यां सर्वस्मादपि गोसमूहात् वीर्यं पर्यपश्यत् कार्त्स्न्येनापश्यत्
 इयमेकैव अस्य सहस्रस्य वीर्यं बिभर्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अब्रवीद् - इय᳓म् म᳓मा᳓स्त्व्, एत᳓द् युव᳓योर् इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -189,11 +212,14 @@ He said to them, 'This one has the strength of the thousand, this be mine, the r
 
 एवं पश्यन् तौ सोमेन्द्रौ यमोब्रवीत् - इयमेकैव ममास्तु एतत्सहस्रं युवयोरस्त्विति । 'यूष्मदस्मदोर्ङसि' इति ममशब्द आद्युदात्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अब्रूताँ - +++(वयं)+++ स᳓र्वे वा᳓ एत᳓द् एत᳓स्याव्ँ वीर्य᳙म् [21] प᳓रि पश्यामः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,11 +240,14 @@ They said, 'We all see that in this one is strength [1].
 
 अथ तच्छ्रुत्वा विदिताभिप्रायौ तावब्रूताम् - सर्वे वयमेतस्यां विद्यमानं वीर्यं सहस्रसम्मितं परिपश्यामः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अतो)+++ ऽँशम् आ᳓हरामहा इ᳓ति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,11 +268,14 @@ Let us each have a portion.'
 
 अंशं च हरामहै अंशनियमं चानयैव कुर्म इतीत्थं कृतमतयस्सर्वेऽपि सोमेन्द्रयमाः तस्यामंशमाहरन्त तामेव नियमहेतुं कृत्वा स्वंस्वंमंश गृहीतवन्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्याम् अँ᳓शम् आ᳓हरन्त।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,11 +291,14 @@ So they took shares in the one.
 
 तस्या॑म् । अँश॑म् । एति॑ । अ॒ह॒र॒न्त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓म् अप्सु᳓ प्रा᳓वेशयन्थ् - सो᳓मायोदे᳓ही᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +320,14 @@ They put her into the waters, saying, 'Come out for Soma.'
 
 3कथमित्याह - तामित्यादि ॥ सोमो यादृशीं त्वामर्हति यावतीश्च गा अर्हति तदनुरूपा उदेहि उदयं प्रतिपद्यस्वेति तामप्सु प्रावेशयन् । पूर्ववद्गतिस्वरसमासौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ रो᳓हिणी पिङ्गलै᳓कहायनी+++(=एकवर्षा)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓ त्र᳓यस्त्रिँशता च त्रिभि᳓श्च शतै᳓स् सहो᳓दै᳓त्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,11 +348,14 @@ She came out in the shape of a red brown cow of one year old, together with thre
 
 सेत्यादि । रोहिणी रोहितवर्णा । 'वर्णादनुदात्तात्' इति ङीप् । पिङ्गला पिङ्गलाक्षी एकहायनी एकवर्षा । 'दामहायनान्ताच्च' इति ङीप् । ईदृशी भूत्वा रूपं चैतदनुगुणं कृत्वा त्रयस्त्रिंशदधिकशतत्रयसङ्ख्याभिर्गोभिस्सह उदैत् उदगच्छत् । पूर्ववन्निधातसमासौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ् क्रीणीयाद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -335,11 +376,14 @@ Therefore let one buy the Soma with a red brown cow one year old.
 
 तस्मादित्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिण्या पिङ्गल᳓यै᳓कहायन्या सो᳓मङ्क्रीणा᳓ति᳓, त्र᳓यस्त्रिँशता चैवा᳓स्य त्रिभि᳓श्च [22] शतै᳓स् सो᳓मᳵ क्रीतो᳓ भवति। सु᳓क्रीतेन यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,6 +409,7 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 त्रथस्त्रिंशता चैवेत्यादि । तदात्मकत्वात्तासाम् ।   
 ततस्सुक्रीतेन सोमेन यजते । प्रादिसमासे 'गतिरनन्तरः' इति स्वरः ॥
 </details>
+</details>
 
 ## इन्द्रयागे गो-निर्देशः
 
@@ -372,6 +417,8 @@ He, who knowing thus buys the Soma with a red brown cow one year old, buys the S
 
 ता᳓म् अप्सु᳓ प्रा᳓वेशयन्न्- इ᳓न्द्रायोदे᳓ही᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,11 +440,14 @@ They put her into the waters, saying, 'Come out for Indra.'
 
 4तामित्यादि ॥ इन्द्रायानुरूपमुदेहीति तां पुनरप्सु प्रावेशयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ रो᳓हिणी लक्ष्मणा᳓+++(=लक्ष्मवती)+++ पष्ठौही᳓+++(=चतुर्वर्षा)+++ वा᳓र्त्रघ्नी+++(→द्विरूपेत्येके, इन्द्ररूपधारिणीत्यन्ये)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓, त्र᳓यस्त्रिँशता च त्रिभि᳓श्च शतै᳓स्सहो᳓दै᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,11 +468,14 @@ She came out in the shape of a red draught animal with good characteristics, des
 
 रोहिणी उक्तलक्षणा । लक्ष्मणा लक्ष्मवती । पामादित्वान्नप्रत्ययः । पष्ठौही चतुर्वर्षा । पष्ठं वहतीति 'वहश्च' इति ण्विः, 'वाहः' इति ङीप्, 'वाह ऊठ्' इत्यूठ्, 'एत्येधत्यूठ्सु' इति वृद्धिः । वार्त्रघ्नी द्विरूपेत्येके । इन्द्ररूपधारिणीत्यन्ये । गतमन्यत् । 'षपूर्वस्य' इत्यादिना अल्लोपः, वृषादित्वादाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् रो᳓हिणील्ँ लक्ष्मणा᳓म् पष्ठौहीव्ँ᳓ वा᳓र्त्रघ्नीन् दध्याद् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -438,11 +491,14 @@ Therefore one should give a red draught animal with good characteristics, destro
 
 तस्मा॑त् । रोहि॑णीम् । ल॒क्ष्म॒णाम् । प॒ष्ठौ॒हीम् । वार्त्र॑घ्न॒मिति॒ वार्त्र॑-घ्न॒म् । द॒द्या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् रो᳓हिणील्ँ लक्ष्मणा᳓म् पष्ठौहीव्ँ᳓ वा᳓र्त्रघ्नीन् द᳓दाति᳓, त्र᳓यस्त्रिँशच्चैवा᳓स्य त्री᳓णि च शता᳓नि, सा दत्ता᳓  भवति ।[23] +++(उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,6 +521,7 @@ He who knowing thus gives a red draught animal with good characteristics, destro
 
 क्व पुनरियं दातव्या भवति? उक्तमाचार्येण - 'सङ्ग्रामं जित्वा राजन्ये एतां दद्यात्' इति । तत्र वचनात् प्रकरणं बाध्यते ॥
 </details>
+</details>
 
 ## अनुस्तरण-गो-निर्देशः
 
@@ -472,6 +529,8 @@ He who knowing thus gives a red draught animal with good characteristics, destro
 
 ता᳓म् अप्सु᳓ प्रा᳓वेशयन् - यम᳓योदे᳓ही᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +546,14 @@ They put her into the waters' saying, 'Come out for Yama.'
 
 ताम् । अ॒प्स्वित्य॑प्-सु । प्रेति॑ । अ॒वे॒श॒य॒न् । य॒माय॑ । उ॒देहीत्यु॑त्-एहि॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ज᳓रती मूर्खा᳓+++(=रोषणशीला)+++ तज्जघन्या᳓+++(→जघन्यतमरूपा, दुश्शीलेत्यन्ये)+++ +++(तदनुगुण)+++रूप᳓ङ् कृत्वा᳓ त्र᳓यस्त्रिँशता च त्रिभि᳓श् च शतै᳓स् सहो᳓दै᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -519,11 +581,14 @@ She came out in the shape of an aged, stupid, utterly bad animal, together with 
 
 सैव जघन्या तज्जघन्या, नेदृश्यन्या जघन्यास्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माज् ज᳓रतीम् मूर्खा᳓न् तज्जघन्या᳓म् +++(मृताय हन्यमाना, शवस्योपर्य्)+++ अनुस्त᳓रणीङ् कुर्वीत।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,12 +609,15 @@ Therefore one should offer as the funeral cow one that is aged, stupid, utterly 
 
 तस्मादित्यादि । ईदृशमिनुस्तरणीं पितृमेधे कुर्वीत । मृताय या हन्यते सानुस्तरणी । अनु स्तीर्यते इत्यनुस्तरणिः, कर्मणि ल्युट् । अत्रापि वचनात्प्रकरणबाधः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓ञ् ज᳓रतीम् मूर्खा᳓न् तज्जघन्या᳓म् अनुस्त᳓रणीङ् कुरुते᳓ ,
 त्र᳓यस्त्रिँशच् चैवा᳓स्य त्री᳓णि च शता᳓नि सा᳓ ऽमु᳓ष्मिल्ँ लोके᳓ +++(भोगाय)+++ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -571,6 +639,7 @@ If a man knowing thus offers a cow that is aged, stupid, utterly bad, as the fun
 
 साऽमुष्मिन्निति । सा एवैका गौरमुष्मिन् लोके अस्य दातुः मृतस्य वा त्रयस्त्रिंशदधिक- शतत्रयसखङ्यया परिणता भोगाय भवतीति ॥
 </details>
+</details>
 
 ## वरप्राधान्यम्
 
@@ -578,6 +647,8 @@ If a man knowing thus offers a cow that is aged, stupid, utterly bad, as the fun
 
 +++(एवं दर्शितरूपत्रया)+++ वा᳓ग् एव᳓ सहस्रतमी᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,11 +671,14 @@ Speech is the thousandth.
 
 एवं दर्शितरूपत्रया एकोनसहस्रा या सहस्रतमी सा वागेव स्वयं प्रकृष्टतमेति यावत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् वरो दे᳓यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -627,11 +701,14 @@ Therefore [4] a boon must be given;
 
 सहस्रदक्षिणेऽमुष्मिन् सहस्रं दत्तं भवतीति भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ हि᳓ व᳓रः। +++(तद्दानेन)+++ +++(गो)+++सह᳓स्रम् अस्य सा᳓ दत्ता᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -654,11 +731,14 @@ for she is a boon, and when she is given she is a thousand.
 कः पुनस्स द्रव्यविशेष इत्याह - सा हीति ।
 एषा खलु सहस्रतमी उत्कृष्टो द्रव्यविशेषः, सर्वस्माद्गोसहस्राद्वागात्मकत्वात् । तस्मात्सैवैका दत्ता अस्य दातुस्सहस्रं भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् व᳓रो न᳓ प्रति᳓गृ᳓ह्यः । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -679,11 +759,14 @@ Therefore one must not accept a boon;
 
 तस्मादेव हेतोर्वरो विशिष्टो द्रव्यविशेषः सहस्रतम्यादिः न प्रतिगृह्यः न प्रतिगृहीतव्यः । 'प्रत्यपिभ्यां ग्रहेः' इति क्यप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ हि᳓ व᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -705,11 +788,14 @@ for she is a boon;
 हेतुमाह - सा हीति ।
 सा खलु सहस्रतमी विशिष्टद्रव्यात्मिका, तामेव चायं ददाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्रम् अस्य प्र᳓तिगृहीतम् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -730,6 +816,7 @@ verily he would be accepting a thousand.
 
 तस्मात्तत्परिग्रहे सहस्रमस्य प्रतिगृहीतं भवति । ततश्च सहस्रस्य प्रतिग्रहदोषः ॥
 </details>
+</details>
 
 ## वरदानप्रक्रिया
 
@@ -737,6 +824,8 @@ verily he would be accepting a thousand.
 
 "इयव्ँ᳓ व᳓र" इ᳓ति +++(प्रतिग्राहयिता)+++ ब्रूया᳓द् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -758,11 +847,14 @@ Let him say, 'She is a boon',
 7समाधत्ते - इयं वर इति ॥
 'इयं वरः' इति सहस्रतमीं प्रतिग्राहयिता ब्रूयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थान्या᳓म् +++(अन्यो)+++ ब्रूयाद् - "इय᳓म् म᳓मे᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,11 +875,14 @@ and of another, 'Let this be mine';
 
 अथान्यामन्यो ब्रूयात् 'इयं मम' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓थास्य त᳓त् सह᳓स्रम् अ᳓प्रतिगृहीतम् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -808,6 +903,7 @@ verily he avoids accepting a thousand.
 
 तथा सति 'इयं वरः' इति वचनात् तेन सहस्रं दत्तं भवति । इयं ममेत्यन्यस्या वचनात् इतरेण सहस्रं प्र[मप्र]तिगृहीतं भवति ॥
 </details>
+</details>
 
 ## सहस्रतमीलक्षणम्
 
@@ -815,6 +911,8 @@ verily he avoids accepting a thousand.
 
 +++(सहस्रतमी)+++ उभयत-एनी᳓+++(=शुक्ला)+++ स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -837,11 +935,14 @@ She should be spotted on either side.
 
 व्यत्ययेन 'नञ्कुनिपातानाम्' इति वचनात्समासान्तोदात्तत्वमेव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आहुर् +++(अन्ये)+++ - अन्यत-एनी᳓+++(=शुक्ला)+++ स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -864,11 +965,14 @@ They say, 'Let her be spotted on one side only;
 
 तत्राहुरन्ये इत्यर्थः । अन्यतः एकपार्श्वे शुक्ला सहस्रतमी स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तस्यास् सहस्रेण तुल्यत्वात्)+++ सह᳓स्रम् पर᳓स्ताद् +++(पार्श्वे)+++ ए᳓तम् +++(शुक्लम्)+++ इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -891,11 +995,14 @@ spotted is the thousand on the other side.'
 
 उभयमिदं तुल्यं, तस्यास्सहस्रेण तुल्यत्वात् इत्येवमस्यास्स्तुतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पक्षान्तरमाह -)+++ यै᳓व᳓ व᳓रः कल्याणी᳓ रूप᳓-समृद्धा सा᳓ स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -916,11 +1023,14 @@ The one for a boon [5] should be beautiful, perfect in form;
 
 पक्षान्तरमाह - यैवेति । या वरद्रव्यात्मिका कल्याणगुणवती रूपसमृद्धा शोभनरूपा च । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । सा स्याद्देया सहस्रमध्ये सा हि तद्रूपा हि वरो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ हि᳓ व᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -936,11 +1046,14 @@ for she is a boon;
 
 सा । हि । वरः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मृद्ध्यै +++(दातुः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -961,6 +1074,7 @@ for she is a boon;
 
 तस्मात्सा दातुस्समृद्ध्यै भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ## आघ्रापणम्
 
@@ -968,6 +1082,8 @@ for she is a boon;
 
 ता᳓म् उ᳓त्तरेणा᳓ग्नीध्रम् पर्याणी᳓याहवनी᳓यस्या᳓न्ते द्रोण-कलश᳓म् अ᳓व घ्रा᳓प᳓ये᳓द् -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -988,6 +1104,7 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 
 9तामुत्तरेणेत्यादि ॥ अग्नीधश्शरणमाग्नीघ्रम् । 'अग्नीधश्शरणे च' इति रण् । तदुत्तरेण तां गां पर्याणीय परित आनीयाहवनीयस्यान्ते समीपे 'आ जिघ्र' इति मन्त्रेण द्रोणकलशमवघ्रापयेत् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -995,6 +1112,8 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 "आ᳓ जिघ्र कल᳓शम् मह्य्  
 उरु᳓धारा प᳓यस्वती ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1017,12 +1136,15 @@ Leading her round to the north of the Agnidh's place he makes her smell the wood
 
 हे महि मंहनीये कलशमाजिघ्र आभिमुख्येन जिघ्र । उरुधारा विस्तीर्णधारा त्वं पयस्वती बहुक्षीरा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ त्वा᳓ वि᳓शन्त्व् इ᳓न्दवस्+++(=सोमरसाः)+++  
 समुद्र᳓म् इव सि᳓न्धवः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1043,11 +1165,14 @@ Let the drops enter thee as the streams the ocean;
 
 त्वां इन्दवस्सोमरसाः आविशन्तु समुद्रमिव नद्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ +++(सहस्रतमी)+++ मा सह᳓स्र आ᳓ भज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1068,11 +1193,14 @@ Give me a share in a thousand,
 
 सा त्वमेवंविशिष्टा मां सहस्र आभज स्वामित्वेन स्थापय । निमित्तसप्तमी वा । सहस्रार्थमाभज ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓या पशु᳓भिस् सह᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1088,11 +1216,14 @@ with offspring, with cattle;
 
 प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । स॒ह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓नर् मा᳓ विशताद् रयि᳓र्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1113,11 +1244,14 @@ Let wealth again visit me.'
 
 प्रजया पशुभिश्च सह त्वत्प्रसादात् पुनर्मा विशतात् दानानन्तरमेव गोसहस्रलक्षणा रयिर्मां प्राप्नोतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓यैवै᳓नम् पशु᳓भी रय्या᳓ स᳓मर्धयति । (26)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1138,11 +1272,14 @@ Verily he unites him with offspring, with cattle, with wealth [6].
 
 प्रजयेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓वान् पशुमा᳓न् रयिमा᳓न् भवति य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1158,6 +1295,7 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 
 प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । प॒शु॒मानिति॑ पशु-मान् । र॒यि॒मानिति॑ रयि-मान् । भ॒व॒ति॒ । यः । ए॒वम् । वेद॑ ।
 </details>
+</details>
 
 ## होमः
 
@@ -1165,6 +1303,8 @@ He becomes rich in offspring, in cattle, in wealth, who knows thus.
 
 त᳓या सहा᳓ग्नीध्रम् परे᳓त्य पुर᳓स्तात् प्रती᳓च्यान् ति᳓ष्ठन्त्याञ् जुहुयाद् -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1187,11 +1327,14 @@ Having gone round the Agnidh's place with her, he should offer in front, while t
 
 त्रिष्टुबियं 'प्रसो अग्ने' इत्यत्र व्याख्याता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "उभा᳓ +++(इन्द्रविष्णू)+++ जिग्य᳓थु᳓र्+++(=जयथः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1212,11 +1355,14 @@ Having gone round the Agnidh's place with her, he should offer in front, while t
 
 एवं दर्शितौ उभावपि युवां सर्वदा जिग्यथुः जयथः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ प᳓रा जयेथे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1237,11 +1383,14 @@ ye are not conquered;
 
 न कदाचिदपि पराजयेथे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ प᳓रा जिग्ये कतर᳓श् चनै᳓नोः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1262,12 +1411,15 @@ Neither of the two of them hath been defeated;
 
 तथा हि - एनयोर्मध्ये कतरश्च एकतरोपि न कदाचित्पराजिग्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वम्)+++ इ᳓न्द्रश् च +++(हे)+++ विष्णो य᳓द् +++(अस्मिन् गवि)+++ अ᳓पस्पृधेथान्,  
 त्रेधा᳓ सह᳓स्रव्ँ +++(गावं)+++ वि᳓ त᳓दैरयेथाम्+++(=विभक्तवन्तौ)+++" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1297,11 +1449,14 @@ vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/2/11_traidh
 
 5तत्रैव याज्या - उभेति त्रिष्टुप् ॥ हे विष्णो त्वं चेन्द्रश्च युवामुभा उभौ जिग्यथुः सर्वदा जयथ । छान्दसो लिट्, 'सन्लिटोर्जेः' इति कुवम् । न कदाचिदपि पराजयेथे अन्येन न जीयेथे । 'विपराभ्यां जेः' इत्यात्मनेपदम् । तथाहीत्याह - एनोरिति । एनयोरिन्द्राविष्ण्वोः । एनादेशे कृते व्यत्ययेन 'ओसि च' इत्येत्वाभावे अतो गुणे पररूपत्वम् । एनयोर्मध्ये कतरश्चन अन्यतरोपि न पराजिग्ये न पराजयते पराजयं न प्राप्तवान् । पूर्ववदात्मनेपदम् कुत्वं च । कदेत्याह - यत् यदा अपस्पृधेथां तदा उभा जिग्यथुः । 'अपस्पृधेथामानृचुः' इति लिङि द्विर्वचनं संप्रसारणं च निपात्यते । यद्वा - यत् यदा अपस्पृधेथां तत् तदा सहस्रं दक्षिणाः त्रेधा व्यैरयेथां त्रेधा सहस्रं व्यभजेथाम् । 'त्रेधा विभक्तं वै त्रिरात्रे सहस्रम्' इति । यद्वा - यदर्थं युवां स्पर्धेथे तत्सहस्रं बहुमतं हविः त्रेधा विभजेथाम् 'त्रयः पुरोडाशा भवन्ति' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(ननु)+++ त्रेधा-विभक्तव्ँ᳓ वै᳓ त्रिरात्रे᳓ सह᳓स्रम् +++(गौः᳓ - "ब्रह्म᳓णे चाग्नी᳓धे च दे᳓ये᳓ति" पक्षे)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1322,11 +1477,14 @@ The thousand is divided into three parts at the three-night festival;
 
 11तदिदमनेन मन्त्रेणोक्तमिति दर्शयति - त्रेधा विभक्तं वा इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓हस्री᳓म् एवै᳓नाङ् करोति +++(अनेन कर्मणा)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1347,11 +1505,14 @@ verily he makes her possessed of a thousand,
 
 साहस्रीं सहस्रस्य संबन्धिनीं सहस्रतमीमेवैनां करोति त्रेधाविभक्तसहस्रानुवादेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्रस्यैवै᳓नाम् मा᳓त्राङ् करोति ।(27)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1372,11 +1533,14 @@ he makes her the measure of a thousand [7].
 
 किं च - सहस्रस्य मात्रां तुल्यप्रमाणामेनां करोति । मीयतेऽनयेति मात्रा उपमानम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि)+++ रूपा᳓णि +++(यथार्थमूहित्वा)+++ जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1397,11 +1561,14 @@ He offers to her forms;
 
 रूपाणीत्यादि । यान्यश्वमेधे प्रसिद्धानि 'अञ्जन्नेताय' इत्यादीनि रूपाणि तानि यथार्थमूहित्वा जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपै᳓रेवै᳓नाँ स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1422,11 +1589,14 @@ verily he unites her with her forms.
 
 रूपसमृद्धामेनां करोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या उपोत्था᳓य क᳓र्णमा᳓ जपेत् -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1442,10 +1612,14 @@ Rising up he mutters in her ear,
 
 तस्याः॑ । उ॒पो॒त्थायेत्यु॑प-उ॒त्थाय॑ । कर्ण॑म् । एति॑ । ज॒पे॒त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तस्या उपोत्थाय कर्णसमीपमागत्य स्थित्वा जपेत् - इडे रन्ते इति इयं विराट्चतुष्पदा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1455,6 +1629,8 @@ Rising up he mutters in her ear,
 प्रि᳓ये प्रे᳓यसि+++(=प्रियतरे)+++ म᳓हि वि᳓श्रुत्य् ,  
 एता᳓नि ते अघ्निये ना᳓मानि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1481,12 +1657,15 @@ Rising up he mutters in her ear,
 
 हे अघ्निये अहन्तव्ये आयुष्मति एतानि तव नामानि, सा त्वं किं नाम न कुर्याः, किं वा कर्तुं न शक्यं त्वया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकृ᳓तम् मा देवे᳓षु ब्रू᳓ता᳓द्" +++(भवती)+++  
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1507,11 +1686,14 @@ Proclaim me among the gods as a doer of good deeds.'
 
 सा तादृशी महानुभावा त्वं देवेषु सुकृतं शोभनकर्माणं मां ब्रूतात् आवेदयतादित्याशास्ते । 'सुकर्मपाप' इत्यादिना क्विप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्य एवै᳓नम् आ᳓ वेदयति᳓ । अ᳓न्व् एनन् +++(सुकर्माणं)+++ देवा᳓ बुध्यन्ते ॥ [28]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1534,4 +1716,5 @@ Verily she proclaims him among the gods, and the gods take note of him.
 देवेभ्य इत्यादि । एवमनेन प्रार्थिता सा देवेम्य एवमावेदयत्येव । आवेदनानन्तरं च एनं देवा बुद्ध्यन्ते सुकर्माणं निश्चिन्वन्ति ॥
 
 इति सप्तमे प्रथमे षष्ठोनुवाकः ॥
+</details>
 </details>

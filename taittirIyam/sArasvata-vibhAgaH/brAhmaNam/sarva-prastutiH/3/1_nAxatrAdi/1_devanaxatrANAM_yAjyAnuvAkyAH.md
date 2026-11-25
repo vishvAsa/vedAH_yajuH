@@ -10,9 +10,12 @@ unicode_script = "devanagari"
 - सर्वस्मिन् भागय् आदिमा ऋक् पुरोनुवाक्या होत्रा - ऽध्वर्युणा चोदितेन - वाच्या। अपरा याज्या ऽध्वर्युणा।
 </details>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'अग्निर्वा अकामयत' इत्यत्राम्नातानां नक्षत्रेष्टीनां क्रमेण याज्यानुवाक्ये द्वेद्वे अग्निर्नः पात्वित्याद्याः ॥ प्रथमा अनुष्टुभः । अन्त्याः त्रिष्टुभः । वैश्वदेवं काण्डं समस्तोऽयं प्रश्नः । 
+</details>
 </details>
 
 ## कृत्तिकाः - अग्निः
@@ -87,9 +90,12 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3रोहिण्याः - प्रजापतेरिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
@@ -203,9 +209,12 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5मृगशीर्षस्य - सोमो राजेति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
@@ -363,9 +372,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 ## आर्द्रा - रुद्रः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7आर्द्रायाः - आर्द्रयेति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
@@ -453,9 +465,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9पुनर्वस्वोः - पुनर्न इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
@@ -531,9 +546,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तिष्यस्य - बृहस्पतिरिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
@@ -628,9 +646,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अश्लेषाणाम् - इदं सर्पेभ्य इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
@@ -723,9 +744,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15मघानां - उपहूता इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
@@ -817,9 +841,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17फल्गुन्योः - वां पतिरिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
@@ -912,9 +939,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19उत्तरफल्गुन्योः - श्रेष्ठ इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
@@ -1003,9 +1033,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21हस्तस्य - आयात्विति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
@@ -1094,9 +1127,12 @@ Denebola - β, 93 Leonis
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23चित्रायाः - त्वष्टेति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
@@ -1187,9 +1223,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 25स्वातेः - वायुरिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
@@ -1286,9 +1325,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 27विशाखयोः - दूरमिति ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
@@ -1378,9 +1420,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 29पौर्णमास्याः - पूर्णा पश्चादिति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">

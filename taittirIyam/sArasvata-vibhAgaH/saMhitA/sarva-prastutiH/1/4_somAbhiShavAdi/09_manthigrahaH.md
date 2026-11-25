@@ -4,6 +4,8 @@ title = "०९ मन्थिग्रहः"
 जगती। सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1मन्थिनं गृह्णाति - तं प्रत्नथेति चतुष्पदया जगत्या ॥ 
@@ -12,6 +14,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तम्प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिम्बर्हि॒षदँ॑ सुव॒र्विद॑म्प्र तीची॒नव्ँवृ॒जन॑न्दोहसे गि॒राऽऽशुञ्जय॑न्त॒मनु॒ यासु॒ वर्ध॑से 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/044/01_taM_pratnathA.md">
@@ -400,17 +403,21 @@ Auf alte Art, auf frühere Art, auf alle Art, auf diese Art melkst du [Indra] au
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि मर्काय त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,13 +444,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓र्काय त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,17 +468,23 @@ to Marka thee!
 
 मर्का॑य । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिः प्रजाः पाहीति सादयति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निᳶ, प्रजाᳶ᳓ पाहि ॥ [10]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -491,4 +506,5 @@ This is thy birth place; guard offspring.
 प्रजाः यजमानस्य स्वभूतास्सर्वा वा ॥
 
 इति चतुर्थे नवमः ॥  
+</details>
 </details>

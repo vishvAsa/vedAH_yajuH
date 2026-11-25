@@ -14,12 +14,15 @@ title: १४ काम्येष्टि-याज्या-पुरोन�
 
 ## प्रजाकामः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1'प्रजापतिः प्रजा असृजत तास्सृष्टा इन्द्राग्नी अपागूहताम्' (तै.सं. 2.2.1) इति प्रश्ने काम्या इष्टय आम्नाताः ।  
 तत्र 'ऐन्द्राग्नमेकादशकपालं निर्वपेत्प्रजाकामः' । इति प्रथमा ।  
 तस्यामियं पुरोनुवाक्या - उभा वामिन्द्राग्नी इति त्रिष्टुप्चतुष्पदा ॥  
 अयं च सर्वोऽनुवाको वैश्वदेवकाण्डम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md">
@@ -392,9 +395,12 @@ Euch beide, o Indra-Agni, will ich herbeirufen, euch beide zugleich mit Gaben er
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - अश्रवमिति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/109/02_ashravaM_hi.md">
@@ -768,9 +774,12 @@ Denn ihr, so hör ich, seid an Gaben reicher, als Tochtermann und als der Gattin
 ____
 ## सङ्ग्रामं जित्वा
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ 'ऐन्द्राग्नमेकादशकपालं निर्वपेत्सङ्ग्रामं जित्वा' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या - इन्द्राग्नी नवतिमिति गायत्री त्रिपदा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/06_indrAgnI_navatiM.md">
@@ -1049,9 +1058,12 @@ Indrāgni, ihr erschüttertet die neunzig Burgen, die vom Feind Beherrschten, al
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - शुचिमिति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/093/01_shuchiM_nu.md">
@@ -1406,9 +1418,12 @@ Empfanget nun das neuerzeugte Loblied, o Feindestödter, Indra-Agni, heute, Euch
 ____
 ## सङ्ग्रामं जित्वा जनतामेष्यतः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ सङ्ग्रामं जित्वा जनतामेष्यतः 'पौष्णं चरुमनु निर्वपेत्' (तै.सं. 2.2.1) इति पौष्णश्चरुः अनुनिर्वाप्यत्वेनाम्नातः । तत्र पुरोनुवाक्या - वयमिति गायत्री त्रिपदा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/053/01_vayamu_tvA.md">
@@ -1707,9 +1722,12 @@ Wir haben dich, o Pfades Herr, wie Wagen zu dem Preisgewinn, O Puschan, zum Gebe
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - पथस्पथ इति चतुष्पदा त्रिष्ठुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/049/08_pathaspathaH_paripatiM.md">
@@ -2054,9 +2072,12 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 
 ## जनतामागत्य
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'क्षैत्रपत्यं चरुं निर्वपेज्जनतामागत्य' (तै.सं. 2.2.1) इत्यस्य पुरोनुवाक्या - चतुष्पदानुष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/01_xetrasya_patinA.md">
@@ -2348,9 +2369,12 @@ Wir mögen durch den Feldesherrn, wie durch einen lieben Freund, Rind und Ross, 
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - क्षेत्रस्य पत इति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/057/02_xetrasya_pate.md">
@@ -2366,12 +2390,15 @@ ____
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O lord of the field, the honey-bearing wave,  
 As a cow milk, so for us milk;  
 May the lords of right graciously accord us  
 That which drops honey and is well purified like ghee.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/057/02_xetrasya_pate.md">
@@ -2657,9 +2684,12 @@ ____
 
 ## दर्शपूर्णमासातिपातः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'अग्नये पथिकृते पुरोडाशमष्टाकपालं निर्वपेद्यो दर्शपूर्णमासयाजी सन्नमावास्यां वा पौर्णमासीं वातिपादयेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या - अग्ने नयेति त्रिष्टुप्चतुष्पदा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
@@ -3037,9 +3067,12 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 </div>  
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - आ देवानामिति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/03_A_devAnAmapi.md">
@@ -3428,9 +3461,12 @@ Zum Pfad der Götter sind wir nun gekommen, um drauf zu wandern, wie wir es verm
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तत्रैव स्विष्टकृतः पुरोनुवाक्या - यद्वाहिष्ठमिति चतुष्पदानुष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/025/07_yadvAhiShThaM_tadagnaye.md">
@@ -3764,9 +3800,12 @@ Dein, Agni, ist das köstlichste, o strahle hell, du glänzender, Wie eine Milch
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - अग्ने त्वमिति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
@@ -4166,9 +4205,12 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 ____
 ## अहिताग्नाव् अव्रत्यमिव चरिते
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13'अग्नये व्रतपतये पुरोडाशमष्टाकपालं निर्वपेद्य आहिताग्निस्सन्नव्रत्यमिव चरेत्' (तै.सं. 2.2.2) इत्यस्य पुरोनुवाक्या - त्वमग्ने इति त्रिपदा गायत्री, अष्टकसप्तकषट्कपदा प्रतिष्ठानाम्नी, 'षट्सप्तकाष्टकैर्वर्धमाना । विपरीता प्रतिष्ठा' (पि.छ.सू. 3.14.15) इति वचनात् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/011/01_tvamagne_vratapA.md">
@@ -4475,9 +4517,12 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव याज्या - यद्व इति चतुष्पदा त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/002/04_yadvo_vayaM.md">

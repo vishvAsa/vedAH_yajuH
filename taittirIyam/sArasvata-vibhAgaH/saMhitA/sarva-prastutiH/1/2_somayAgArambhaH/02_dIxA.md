@@ -8,6 +8,8 @@ title = "०२ दीक्षा"
 सोमऋषिः
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-4स्रुवेण चतस्रो दीक्षाहुतीर्जुहोति - आकूत्या इति ॥
@@ -31,11 +33,14 @@ ________
 
 आकू॑त्यै प्र॒युजे॒ऽग्नये॒ स्वाहा॑ मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहा॑ दी॒क्षायै॒ तप॑से॒ऽग्नये॒ स्वाहा॒ सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓कूत्यै+++(=सङ्कल्पाय)+++ प्रयु᳓जे ऽग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -73,11 +78,14 @@ To the purpose, to the impulse, to Agni, hail!
 
 यदा मनसाकूतिस् तदा पुरुष ऋत्विजाम् अग्रे यज्ञम् अभिलक्ष्य 'यजेयेति' वाचं प्रयुङ्क्ते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेधा᳓यै म᳓नसेऽग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,11 +117,14 @@ To wisdom, to thought, to Agni, hail!
 
 श्रुतयोः फल-साधनयोर् अविस्मरणेन धृतयोर् मनसा यज्ञ-कर्तव्यतां प्रतिपद्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓यै त᳓पसेऽग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,11 +150,14 @@ To consecration, to penance, to Agni, hail!
 
 तपो-ऽभिमानिनो वह्नेर् अनुग्रहेण दीक्षा-सिद्धिः स्पष्टेत्य् अभिप्रेत्य तृतीय-मन्त्रो न व्याख्यातः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै पूष्णे᳙ऽग्नये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,8 +189,11 @@ To Sarasvati, to Prisan, to Agni, hail!
 
 वाचा मन्त्रोच्चारण-सिद्धिः। पृथिव्या यज्ञस्य देव-यजन-व्रीह्यादि-द्रव्य-सिद्धिः।  
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 स्रुचा पञ्चमीं जुहोति।
@@ -205,6 +222,7 @@ ________
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुवो॒ द्यावा॑पृथि॒वी उ॒र्व॑न्तरि॑क्षम्बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु॒ स्वाहा
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
 
@@ -220,9 +238,12 @@ ________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5स्रुचा पञ्चमीं जुहोति -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/02_dIxA/02_Apo_devIr.md">
@@ -297,6 +318,8 @@ May Brhaspati rejoice in our oblation,
 … स्वा᳓हा।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 … स्वाहा॑।
@@ -316,8 +339,11 @@ hail!
 
 स्वाहा सुहुतं चेदमस्तु, युष्मभ्यं वर्धयितव्येभ्यो लोकेभ्यः वर्धयित्रे च बृहस्पतये । एवं स्वाहाकाराधिक्यात् यजुरन्ता विराडियं वेदितव्या । एवमृग्यजुषसमुदायत्वात् अस्य यजुरित्यपि व्यपदेष्टुं शक्यते । यथा 'यदेतद्यजुर्न ब्रूयात्' इति । भवति ह्यवयवधर्मेणापि समुदायव्यपदेशः, यथा कृष्टेषु चूर्णमिति । अनवसानत्वाद्वा यजुष्ट्वम् ॥
 </details>
+</details>
 
 ________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -337,6 +363,7 @@ ________
 >“द्वादश-गृहीतेन स्रुचं पूरयित्वा 'विश्वे देवस्य नेतुर्' इति पूर्णाहुतिं षष्ठीम्”  
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/03_vishve_devasya.md">
@@ -500,6 +527,8 @@ Let him choose glory that he may prosper,
 स्वा᳓हा।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
  hail!
@@ -519,8 +548,11 @@ Let him choose glory that he may prosper,
 
 स्वाहा सुहुतमिदमौद्ग्रहणाख्यं हविरस्तु । यज्ञस्योद्ग्रहणहेतुत्वादियमृगुद्ग्रहणी, इदं हविरौद्ग्रहणम् यदनया दीयते । 'प्रजापतिर्यज्ञमसृजत सोस्मात्सृष्टः पराङैत्स प्रयजुरव्लीनात्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7कृष्णाजिनस्य शुक्लकृष्णे अङ्गुष्ठाङ्गुलिभ्यां सम्मृशति - ऋक्सामयोरिति ॥
@@ -540,12 +572,15 @@ ________
 
 ऋ॒क्सा॒मयो॒श्शिल्पे॑ स्थ॒स्ते वा॒मा र॑भे ते मा॑ [3]पा॒त॒माऽस्य य॒ज्ञस्यो॒दृचः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ᳓ख्-साम᳓योश् शि᳓ल्पे स्थः।+++(५)+++  
 +++('एष वा ऋचो वर्णो यच्छुक्लं कृष्णाजिनस्य' इत्यादि ब्राह्मणम् ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -581,12 +616,15 @@ Ye are images of the Rc and the Saman.
 
 ऋक्-सामे देवते केनापि निमित्तेन देव-यज्ञार्थम् आत्मानम् अप्रकाशयमाने आत्म-तिरोधानाय कृष्ण-मृगो भूत्वा तदीयं संपूर्णं रूपं कृत्वा देवेभ्यो ऽपक्रम्य क्वचिद् गूढे ऽतिष्ठताम्। देवा विचारितवन्तो यं पुरुषम् इमे ऋक्-सामे प्राप्स्यतः स इदं यज्ञ-फलं प्राप्स्यतीति। देवास् तु ऋक्-सामे रहसि केनाप्य् उपायेनोपच्छन्दितवन्तः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ वाम् आ᳓ र+++(ल)+++भे ।  
 ते᳓ मा पातम् आऽस्य यज्ञ᳓स्योदृ᳓चः+++(=आसमाप्तेः)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,8 +685,11 @@ do ye two [1] protect me until the completion of this sacrifice.
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8कृष्णाजिनमभिसर्पति - इमामिति त्रिष्टुभा चतुष्पदया ॥
@@ -662,6 +703,7 @@ ________
 > “अथ दक्षिणं जान्वाच्यभिसर्पतीमां धियं शिक्षमाणस्य देव क्रतुं दक्षं वरुण संशिशाधि ययाति विश्वा दुरिता तरेम सु-तरमाणम् अधि नावं रुहेमेति” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/02_dIxA/04_imAn_dhiyam.md">
@@ -728,6 +770,8 @@ Whereby we' may pass over all our difficulties.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9मेखलां पर्यस्यति - ऊर्गसीति ॥
@@ -742,6 +786,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -750,6 +795,8 @@ ________
 पाहि᳓ मा ।  
 मा᳓ मा हिँसीः ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -873,11 +920,15 @@ harm me not.
 
 मेखला यजमानस्य स्त्री, योक्त्र-रूपः पत्न्याः पुमान् इति प्रत्येकं मिथुनत्वम्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10वाससा यजमानं प्रोर्णोति - विष्णोरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -885,6 +936,8 @@ ________
 वि᳓ष्णोश्+++(=यज्ञस्य)+++ श᳓र्मासि, श᳓र्म य᳓जमानस्य +++(असि)+++।  
 श᳓र्म मे यच्छ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -915,17 +968,23 @@ grant me protection.
 
 विष्णोरपि शर्म सुखमसि सुखहेतुरसि । यज्ञो वै विष्णुः । किञ्च - यजमानस्य शर्मासि । लसार्वधातुकानुदात्तत्वे धातुस्वरः । ईदृशस्त्वं मह्यमपि शर्म यच्छ देहि ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11वसनच्छिद्रेषु यजमानं वाचयति - नक्षत्राणामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे वासः!)+++ न᳓क्षत्राणाम् मा ऽतीकाशा᳓त् +++(छिद्रात्)+++ पाहि᳓  ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -951,8 +1010,11 @@ Guard me from the lustre of the Naksatras.
 
 अतीकाशश्छिद्रं, अतीत्य काशत इत्यतीकाशः । पचाद्यच्, घञ् वाधिकरणे, उभयत्रापि थाथादिस्वरेणान्तोदात्तत्वम्, 'इकः काशे' इति दीर्घत्वम् । नक्षत्राणां सम्बन्धी योतीकाशः नक्षत्रदेवत्यत्वान्नक्षत्राणामतीकाश इति । तस्मान्मां पाहि । हे वासः अतीकाशनिमित्तमनाच्छादनं दोषत्वेन न मन्तव्यम् । नक्षत्राण्येव हि तं दोषं परिहरिष्यन्तीति भावः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12कृष्णविषाणे यजमानाय प्रयच्छति - इन्द्रस्येति ॥
@@ -967,6 +1029,7 @@ ________
 
 इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -974,6 +1037,8 @@ ________
 +++( 'यज्ञो दक्षिणामभ्यध्यायत्तां समभवत्' इत्यारभ्य 'सा कृष्णविषाणाऽभवत्' इत्यन्ते ब्राह्मणे स्पष्टमिन्द्रयोनित्वमस्याः ॥)+++  
 मा᳓ मा हिँसीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1014,8 +1079,11 @@ Thou art the birthplace of Indra [2]; harm me not.
 
 यज्ञ-देवस्य दक्षिणा-देव्या सह योगम् इन्द्रो ऽवगम्य ततो जातः सर्वम् इदम् ऐश्वर्यं प्राप्स्यतीति निश्चित्य स्वयम् एव दक्षिणां प्रविश्य ततो ऽजायत। पुनर् अपि स्वस्माद् अपरस् तया जनिष्यमाणः सर्वं प्राप्स्यतीति मत्वा मातुर् योनिम् आच्छिनत्। सा च माता सकृत् प्रसूता पश्चाद् वियोनित्वेन वन्ध्याभवत्। ततो लोके पश्चान् नष्ट-बीजा सूत-वशा संपन्ना। ततस् तां योनिं हस्ते वेष्टयित्वा पश्चाद् बलिभिर् युक्तां तां योनिं कृष्ण-मृगेषु निदधौ। तत इयं कृष्ण-विषाणा यज्ञस्य भोग्या योनिर्, दक्षिणाया अवयव-भूता योनिर्, इन्द्रस्य कारण-भूता योनिः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तयान्तर्वेदि लोष्टमुद्धन्ति - कृष्यै त्वेति ॥
@@ -1030,11 +1098,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे पृथिवि!)+++ कृष्यै᳓ त्वा सुसस्या᳓यै +++(उद्धरामि)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1068,14 +1139,19 @@ For ploughing thee, for good crops,
 
 नीवारादयो ऽकृष्ट-पच्याः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14 तया दक्षिणं गोदानं कण्डूयते - सुपिप्पलाभ्य इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/02_dIxA/supippalAH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1092,11 +1168,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्पला᳓भ्यस्+++(=सुफलेभ्यः)+++ त्वौ᳓षधीभ्यः +++(कण्डूये)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1153,10 +1232,12 @@ For the plants with good berries thee!
 
 दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15औदुम्बरं दण्डं यजमानाय प्रयच्छति - सूपस्था इति ॥
@@ -1178,11 +1259,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे दण्ड!)+++ सु+उपस्था᳓ देवो᳓ व᳓नस्प᳓तिर्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1238,11 +1322,14 @@ Thou art of easy access, divine tree.
 
 मैत्रावरुणस् तत्र तत्र प्रैषैस् तेभ्य ऋत्विग्भ्यो मन्त्रान् विभजति। ते च ऋत्विजो यजमानार्थं तान् मन्त्रान् पठन्ति। अतो मैत्रावरुणस्य वाग्-रूपो दण्डो युक्तः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वो᳓ +++(त्वम्)+++ मा पाह्य् ओ᳓दृ᳓चः᳓+++(=आसमाप्तेः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1267,8 +1354,11 @@ Being erect, guard me until the completion (of the sacrifice).
 
 'वाग्वै देवेभ्योऽपाक्रामत्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _____
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16-20यजमानं वाचयति - स्वाहेति ॥
@@ -1289,6 +1379,7 @@ _____
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1298,6 +1389,8 @@ _____
 उरो᳓र् अन्त᳓रिक्षा᳓त् [आ᳓रभे᳓ ] स्वा᳓हा । +++('अन्तरिक्षे हि यज्ञः' इति च ब्राह्मणम् ।)+++  
 यज्ञव्ँ᳓ वा᳓ताद् आ᳓ रभे ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1385,4 +1478,5 @@ from the wind the sacrifice I grasp.
 इति।
 
 वैष्णवी 'विष्णो त्वं नो अन्तम' इति केचित्। 'इदं विष्णुर्' इत्य् अन्ये।
+</details>
 </details>

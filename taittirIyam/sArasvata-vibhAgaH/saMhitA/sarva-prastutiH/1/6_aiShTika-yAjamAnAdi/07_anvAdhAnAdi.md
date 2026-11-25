@@ -8,6 +8,8 @@ title = "०७ अन्वाधानादि"
 
 _______
 ## अन्वाधानम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अतः परं दर्शपूर्णमासयोर्याजमानब्राह्मणं प्राजापत्यमेव काण्डम् । तत्राग्न्यन्वाधानं विधातुमाह - यथा वा इत्यादि ॥ 
@@ -17,12 +19,15 @@ _______
 
 यथा॒ वै स॑मृतसो॒मा ए॒वव्ँवा ए॒ते स॑मृतय॒ज्ञा यद्द॑र्शपूर्णमा॒सौ कस्य॒ वाह॑ दे॒वा य॒ज्ञमा॒ गच्छ॑न्ति॒ कस्य॑ वा॒ न ब॑हू॒नाय्ँयज॑मानानाय्ँ॒यो वै दे॒वता॒ᳶ पूर्वᳶ॑ परिगृ॒ह्णाति॒ स ए॑ना॒श्श्वो भू॒ते य॑जत ए॒तद्वै दे॒वाना॑मा॒यत॑नय्ँ॒यदा॑हव॒नीयो॑ऽन्त॒राग्नी प॑शू॒नाङ्गार्ह॑पत्यो मनु॒ष्या॑णामन्वाहार्य॒पच॑नᳶ पितृ॒णाम॒ग्निङ्गृ॑ह्णाति॒ स्व ए॒वायत॑ने दे॒वता॒ᳶ परि॑ [21]गृ॒ह्णा॒ति॒ ताश्श्वो भू॒ते य॑जते  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था वै᳓ सम्+++(→युगपत्)+++-ऋत-सोमा᳓+++(→सोमयागा)+++  
 एवव्ँ᳓ वा᳓ एते᳓ सम्+++(→युगपत्)+++-ऋत-यज्ञा᳓ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,12 +65,15 @@ Even as the Soma (sacrifices) come together in competition, so the new and full 
 तमिमं देवतापरिग्रहं विधातुमादौ प्रस्तौति-   
 यथा वा इति। एकस्मिन्नेव काले संहत्य प्राप्ताः समृतसोमाः सोमयागा एकस्मिन्नेव वसन्तर्तौ बहूनां यजमानानां सोमयागाः संहत्य प्राप्यन्त एवमेव बहूनां यजमानानामेते दर्शपूर्णमासा यज्ञा एकस्मिन्नेव पर्वणि संहत्य प्राप्यन्ते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓स्य वा᳓ऽह देवा᳓ यज्ञ᳓म् आ ग᳓च्छन्ति +++(←चादिषु च)+++  
 क᳓स्य वा न᳓?  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -93,6 +101,7 @@ Whose sacrifice then do the gods approach and whose not?
 
 देवताश्चाग्न्यादयो या एकस्य यजमानस्य ताश्चान्यस्यापि। तथा सति देवानां मनसि संकटमुत्पद्यते। तत्संकटमहशब्देन द्योत्यते। देवानां पक्षपातस्यानुचितत्वात्। कस्य यजमानस्य यज्ञं देवा आगच्छन्ति कस्य वा यज्ञं नाऽऽगच्छन्तीति महदेतत्संकटम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,6 +109,8 @@ Whose sacrifice then do the gods approach and whose not?
 स᳓ एनाश् श्वो᳓ भूते᳓ यजते ।  
 +++(बहूना᳓म् - नामन्यतरस्याम् इ᳓ति विभक्तिस्वरः᳓॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,6 +139,7 @@ He, who among many sacrificers first appropriates the gods, sacrifices to them w
 तस्य संकटस्यायं परिहारः — बहूनां यजमानानां मध्ये यो यजमान इतरेभ्यः पूर्वः प्रवृत्तो देवताः परिगृह्णाति स यजमान एताः परिगृहीता देवताः परेद्युर्यष्टुमर्हति। न च सर्वेऽपि यजमानाः परस्परमात्सर्येण प्रथमं प्रवर्तन्त इति स दोषस्तदवस्थ इति शङ्कनीयम्। परिग्रहमन्त्रपाठेनैव देवसंकटस्य परिहृतत्वात्। 
 यागस्योद्देशत्यागमात्रत्वाद्देवानामागमनमन्तरेणापि सोऽनुष्ठातुं शक्यते। योगसामर्थ्येन वा बहूनि शरीराणि स्वीकृत्य तत्र सर्वत्राऽऽगमिष्यन्ति। इत्थं च परिहारं भगवान्बा-दरायणो देवताधिकरणे विरोधः कर्मणीति चेन्नानेकप्रतिपत्तेर्दर्शनादिति सूत्रयामास। किं बहुनाऽस्य वाक्यस्य देवतापरिग्रहविध्यर्थवादत्वान्न किंचिद्देवानां संकटमस्ति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -136,6 +148,8 @@ He, who among many sacrificers first appropriates the gods, sacrifices to them w
 **गा᳓र्हपत्यो** मनुष्या᳙णाम्  
 अन्वाहार्य-प᳓चनᳶ पितृणा᳓म्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,6 +188,7 @@ The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapa
 एतद्वा इति।  
 वसून्‍रुद्रानादित्यानिन्द्रेण सह देवता इत्याहवनीयार्थमन्त्रलिङ्गादाहवनीयो देवानां स्थानम्। अन्तराऽग्नी पशव इति मन्त्रलिङ्गादाहवनीयगार्हपत्ययोर्मध्यं पशूनां स्थानम्। इह प्रजा विश्वरूपा रमन्तामिति मन्त्रलिङ्गाद्गार्हपत्यो मनुष्याणां स्थानम्। अन्वाहार्यः पच्‍यतेऽस्मिन्नित्यन्वाहार्यपचनो दक्षिणाग्निः। अयं पितृणामग्निरिति मन्त्रलिङ्गादसौ पितृणां स्थानम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,6 +196,8 @@ The Ahavaniya is the abode of the gods, between the fires of cattle, the Garhapa
 स्व᳓ एवा᳓य᳓तने देव᳓ताᳶ प᳓रि [21] गृह्णाति ।  
 ता᳓श् श्वो᳓ भूते᳓ यजते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -211,12 +228,16 @@ He takes the fire; verily he appropriates [1] the gods in their own abode; to th
 देशविधिमन्त्रानुन्नीय तेषु देशेष्ववस्थितस्य देवतापरिग्रहं विदधाति-  
 अग्निं गृह्णातीति। स्पष्टोऽर्थः।  
 </details>
+</details>
 
 _______
 ## व्रतोपनयनम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ व्रतोपनयनं विधातुमाह - व्रतेन वा इत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +245,8 @@ _______
 व्रते᳓न वै᳓ मे᳓ध्यो **ऽग्नि᳓र् व्रत᳓पतिर्**,  
 ब्राह्मणो᳓ व्रत-भृ᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,12 +276,15 @@ By means of a vow is Agni, lord of vows, pure, the Brahman is a supporter of vow
 मन्त्रेण यज्ञरूपव्रतस्वीकारं विधातुं प्रस्तौति-  
 व्रतेनेति। वक्ष्यमाणमन्त्रपाठरूपेण व्रतस्वीकारेणैव व्रतपतिरयमग्निर्मेध्यो यागयोग्यो भवति। ब्राह्मणश्च यजमानो व्रतधारी भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रत᳓म् उपैष्य᳓न् ब्रूयाद्  
 "अ᳓ग्ने व्रतपते व्रत᳓ञ्चरिष्यामी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,12 +316,15 @@ When about to undertake a vow he should say, 'O Agni, lord of vows, I shall perf
 मन्त्रगतं व्रतपतिशब्दं मन्त्रतात्पर्यं च व्याचष्टे – अग्निर्वा इति।  
 तिथिविशेषेण व्रतोपायनस्य कालविशेषं विधत्ते-
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् वै᳓ देवा᳓नाव्ँ व्रत᳓पतिः ।  
 त᳓स्मा एव᳓ प्रति-प्रो᳓च्य व्रत᳓म् आ᳓लभते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -319,6 +348,7 @@ Agni is the lord of vows among the gods; verily after announcement to him he und
 
 'एत्येधत्यूठ्सु' इति वृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -326,6 +356,8 @@ Agni is the lord of vows among the gods; verily after announcement to him he und
 वत्सै᳓र् अमावास्या᳙याम्।  
 एत᳓द् ध्य् ए᳓त᳓योर् आय᳓तनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,18 +385,24 @@ At the full moon be undertakes his vow with the (strewing of the) straw, with th
 
 बर्हिषेति। बर्हिषा बर्हिराहरणेनोपलक्षिते काले वत्सैर्वत्सापाकरणेनोपलक्षिते काल इत्यर्थः। एतदुक्तं कालद्वयमेतयोस्तिथिविशेषगतयोर्व्रतस्वीकार-योरुचितं स्थानमिति शाखान्तरप्रसिद्धिः।  
 </details>
+</details>
 
 _______
 ## उपस्तरणम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथोपस्तरणं विधातुमाह - उपस्तीर्य इत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्ती᳓र्यᳶ पू᳓र्वश् चाग्नि᳓र् अ᳓परश् चे᳓त्य् आहुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,12 +432,15 @@ _______
 
 उपस्तीर्य इति। परोक्षकथनेन विधिः प्रशस्यते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्याः᳙ इ᳓न् न्वा᳓(=नु᳓+वा᳓) उ᳓पस्तीर्णम् इच्छ᳓न्ति +++(गृहम्)+++   
 कि᳓म् उ देवा᳓, ये᳓षान् न᳓वावसानम्+++(=गृहम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,6 +469,7 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 विहितमुपस्तरणमुपपादयति-  
 मनुष्या इदिति। इन्‍न्वा इति निपातत्रयसमुदायोऽपिशब्दार्थं ब्रूते। अत्यन्तदरिद्रा मनुष्या अपि शीतवातादिपरिहाराय तृणादिभिराच्छन्नं गृहमिच्छन्ति महाप्रभावा देवा उपस्तरणमिच्छन्तीति किमु वक्तव्यम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -435,6 +477,8 @@ men [2] indeed desire what is bestrewed, and, how much more the gods whose is a 
 
 य एवव्ँ᳓ विद्वा᳓न् अग्नि᳓म् उपस्तृणा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -463,12 +507,16 @@ With him, when sacrifice is to be made on the next day, do the gods dwell, who k
 
 येषां देवानामिच्छानुसारेण तदा तदा तत्र तत्र नवावसानं नूतनगृहं निष्पाद्यते। यो यजमान एवं विद्वानग्निमुपस्तृणाति अस्मिन्यजमाने परेद्युर्यक्ष्यमाणे सति पुर्वेद्युस्तत्समीपे हविर्भुजो देवता निवसन्ति।  
 </details>
+</details>
 
 _______
 ## सायमाशः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ सायमाशविषये विकल्पभेदानाह - यजमानेनेत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +525,8 @@ _______
 य᳓द् ग्राम्या᳓न् उपव᳓सति - ते᳓न ग्राम्या᳓न् अ᳓व रुन्धे,  
 य᳓द् आरण्य᳓स्याश्ञा᳓ति ते᳓नारण्या᳓न् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -509,6 +559,7 @@ _______
 आरण्यं सायमाशेऽश्नातीति सूत्रकारेण यदारण्यधान्यभोजनमुक्तं तदिदं विधातुं प्रस्तौति-  
 यजमानेनेति। अत्रायं विचारः। किं ग्राम्यधान्यस्यान्नं भोक्तव्यमारण्यधान्यस्य वा भोजनमेव वा वर्जनीयमिति। तत्राऽऽरण्यधान्यभोजनपक्षामभ्युपेत्येतरपक्षद्वयमपोद्यते। पशवो हि द्विविधाः ग्राम्या आरण्याश्च। गवाश्वाजाविपुरुषगर्दभोष्ट्राः सप्त ग्राम्याः। द्विखुरश्वापदपक्षिसरीसृपहस्तिमर्कटनादेयाः सप्ताऽऽरण्याः त एत उभयेऽपि यजमानेनावरुध्याः संपादनीया इति। बुद्धिमन्त आहुः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -519,6 +570,8 @@ _______
 
 इन्द्रिय᳓म् एवा᳓ऽऽत्म᳓न् धत्ते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -557,11 +610,15 @@ If be were to fast without eating, the Pitrs would be his divinity [3]; he eats 
 इदानीं विदधाति-  
 आरण्यस्येति। इन्द्रियाभिवृद्धिहेतुरारण्यधान्यम्। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ द्वितीयोऽपामशनकल्पः - यदित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +626,8 @@ _______
 य᳓द् अ᳓नाश्वान् उपव᳓सेत् - क्षो᳓धुकस्+++(=बुभुक्षाशीलः)+++ स्यात्   ।   
 य᳓द् अश्ञीया᳓द्  - रुद्रो᳙ऽस्य पशू᳓न् अभि᳓मन्येत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,12 +661,15 @@ If he were to fast without eating, he would be hungry; if he were to eat, Rudra 
 
 अभिमन्येत हन्यात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपो᳙ऽश्ञाति त᳓न् ने᳓वाशित᳓न् ने᳓वा᳓नशितन् - न᳓ क्षो᳓धुको भ᳓वति ।  
 ना᳓स्य रुद्रᳶ᳓ पशू᳓न् अभि᳓ मन्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -643,11 +705,15 @@ he partakes of water; that is neither eaten nor not eaten; he is not hungry and 
 
 तन्नेवेति। अशितास्वप्स्वदनाभावादशितमिव न भवति, क्षुच्छान्तेरनशितमिव न भवति। अतो न दोषद्वयम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथानशनकल्पः तृतीयः - वज्र इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +723,8 @@ _______
 य᳓द् अ᳓नाश्वान् उपव᳓सति    
 व᳓ज्रेणैव᳓ साक्षा᳓त् क्षु᳓धम् भ्रा᳓तृव्यँ हन्ति ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -683,11 +751,15 @@ The sacrificer is a bolt, the enemy of man is hunger; in that he fasts without e
 
 क्षुल्लक्षणमनशनलक्षणेन यज्ञात्मना वज्रेण हन्तीति क्षोधुकत्वदोषाप्रसङ्गः । 'व्यन् सपत्ने' इति व्यन् ॥
 </details>
+</details>
 
 इति षष्ठे सप्तमोनुवाकः ॥  
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 अथोपवासपक्षं विधत्ते-  
 वज्रो वा इति। यज्ञस्य नरकपाताद्यनिष्टनिवारकत्वाद्वज्रत्वम्। क्षुधो वैरित्वं प्रसिद्धम्। यज्ञाङ्गभूतोपवासलक्षणेनानेन वज्रेणैव भाविजन्मनि प्राप्स्यमानं साक्षाद्भ्रातृव्यं मुख्यवैरिणं क्षुद्रूपं हन्ति। अनेन यज्ञेन जन्मान्तरेऽन्नबाहुल्यस्य लप्स्यमानत्वात्।
+</details>
 </details>

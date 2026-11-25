@@ -21,12 +21,15 @@ title = "१९ ब्राह्मणविसर्जनम्"
 कृतोऽस्मासु दयालुभिः ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 धन्या वयं भवत्पाद-  
 रजः पूतम् इदं गृहम् ।  
 अनुग्रहश् च युष्माभिः  
 कृतोऽस्मासु दयालुभिः ॥  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -37,12 +40,15 @@ title = "१९ ब्राह्मणविसर्जनम्"
 विस्मृत्य क्षन्तुम् अर्हथ ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 पत्र-शाकादि-दानेन  
 क्लेशिता यूयम् ईदृशाः ।  
 तत्-क्लेश-जातं चित्तेषु  
 विस्मृत्य क्षन्तुम् अर्हथ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,6 +59,8 @@ title = "१९ ब्राह्मणविसर्जनम्"
 प्रसादात् भवतां मम ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्र-हीनं क्रिया-हीनं  
@@ -60,6 +68,8 @@ title = "१९ ब्राह्मणविसर्जनम्"
 श्राद्धं सम्पूर्णतां यातु  
 प्रसादात् भवतां मम ॥
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,12 +79,15 @@ title = "१९ ब्राह्मणविसर्जनम्"
 याता वोऽनुग्रहात् दिवम् 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अद्य मे सफलं जन्म  
 भवत्-पादाब्ज-वन्दनात् ।  
 अद्य मे वंशजाः सर्वे  
 याता वोऽनुग्रहात् दिवम् 
+</details>
 </details>
 </details>
 </div>

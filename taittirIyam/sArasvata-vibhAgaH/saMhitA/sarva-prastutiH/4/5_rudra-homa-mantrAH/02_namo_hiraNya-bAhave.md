@@ -3,6 +3,8 @@ title = "०२ नमो॒ हिर॑ण्य-बाहवे"
 +++
 अग्निर्ऋषिः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 [अथ चतुर्थकाण्डे पञ्चमप्रपाठके द्वितीयोऽनुवाकः]
@@ -20,11 +22,15 @@ title = "०२ नमो॒ हिर॑ण्य-बाहवे"
 तत्र द्वितीयेऽनुवाके त्रयोदश यजूंषि।  
 तत्र प्रथमं यजुराह— नमो हिरण्येति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑ दि॒शाञ्च॒ पत॑ये॒ नमो॒ नमो॑ वृ॒क्षेभ्यो॒ हरि॑केशेभ्यᳶ पशू॒नाम्पत॑ये॒ नमो॒ नम॑स्स॒स्पिञ्ज॑राय॒ त्विषी॑मते पथी॒नाम्पत॑ये॒ नमो॒ नमो॑ बभ्लु॒शाय॑ विव्या॒धिनेऽन्ना॑ना॒म्पत॑ये॒ नमो॒ नमो॒ हरि॑केशायोपवी॒तिने॑ पु॒ष्टाना॒म्पत॑ये॒ नमो॒ नमो॑ भ॒वस्य॑ हे॒त्यै जग॑ता॒म्पत॑ये॒ नमो॒ नमो॑ रु॒द्राया॑तता॒विने॒ क्षेत्रा॑णा॒म्पत॑ये॒ नमो॒ नम॑स्सू॒तायाह॑न्त्याय॒ वना॑ना॒म्पत॑ये॒ नमो॒ नमः॑ [5]  
 रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणा॒म्पत॑ये॒ नमो॒ नमो॑ म॒न्त्रिणे॑ वाणि॒जाय॒ कक्षा॑णा॒म्पत॑ये॒ नमो॒ नमो॑ भुव॒न्तये॑ वारिवस्कृ॒तायौष॑धीना॒म्पत॑ये॒ नमो॒ नम॑ उ॒च्चैर्घो॑षायाक्र॒न्दय॑ते पत्ती॒नाम्पत॑ये॒ नमो॒ नम॑ᳵ कृत्स्नवी॒ताय॒ धाव॑ते॒ सत्व॑ना॒म्पत॑ये॒ नमः॑ ॥ [6]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -32,6 +38,8 @@ title = "०२ नमो॒ हिर॑ण्य-बाहवे"
 न᳓मो हि᳓रण्य-बाहवे सेनान्ये᳙  
 दिशा᳓ञ्च प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,12 +63,15 @@ Homage to the golden-armed leader of hosts, and to the lord of the quarters homa
 स च संग्रामेषु सेनां नयतीति सेनानीः तादृशमूर्तिधरो यो रुद्रस्तस्मै नमोऽस्तु।  
 यश्च दिशां पालको रुद्रस्तस्मै नमोऽस्तु।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वृक्षे᳓भ्यो ह᳓रि-केशेभ्यᳶ  
 पशूना᳓म् प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,12 +95,15 @@ Homage to the trees with green tresses, to the lord of cattle homage!
 
 यो रुद्रः पशूनां पालकस्तरमै नमोऽस्तु।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस् सस्पि᳓ञ्+++(=बालतृण)+++-जराय त्वि᳓षीमते  
 पथीना᳓म् प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,12 +133,15 @@ Homage to the one who is yellowish-red like young grass, to the radiant, to the 
 
 पथीनां शास्त्रोक्तदक्षिणोत्तरतृतीयमार्गाणां पतिः पालको यो रुद्रस्तस्मै रुद्राय नमोस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो बभ्लु+++(=बभ्रु)+++-शा᳓य विव्याधि᳓ने᳓  
 ऽन्नानाम् प᳓तये  न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,11 +170,14 @@ Homage to the brown one, to the piercer, to the lord of food homage!
 
 यश्चान्नानां पालको रुद्रस्तस्मै नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो ह᳓रिकेशायोपवीति᳓ने पुष्टा᳓नाम् प᳓तये न᳓मः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,12 +201,15 @@ Homage to the green-haired, wearer of the cord, to the lord of prosperity homage
 
 पुष्टानां परिपूर्णगुणानां पुरुषाणां पतये स्वामिने नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो भव᳓स्य हेत्यै᳓  
 ज᳓गताम् प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,11 +230,14 @@ Homage to the dart of Bhava, to the lord of the moving world homage!
 
 अथ +++(अत्र टीकाभागः न लब्धः??)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो रुद्रा᳓यातत+++(धनुर्)++++अवि᳓ने क्षे᳓त्राणाम्प᳓तये न᳓मः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,12 +260,15 @@ Homage to Rudra, with bent bow, to the lord of fields homage!
 आततेन विस्तारितेन धनुषाऽवति रक्षतीत्याततावी, तस्यै रुद्राय नमोऽस्तु।  
 क्षेत्राणां पालको यो रुद्रस्तस्मै नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस् सूता᳓या᳓हन्त्याय  
 व᳓नानाम्प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,10 +294,14 @@ Homage to the minstrel, the inviolate, to the lord of the woods homage!
 
 यो वनानां पालकस्तस्मै रुद्राय नमोऽस्तु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमः॑ [5]  रोहि॑ताय स्थ॒पत॑ये वृ॒क्षाणा॒म्पत॑ये॒ नमः॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,6 +309,8 @@ Homage to the minstrel, the inviolate, to the lord of the woods homage!
 न᳓मो रो᳓हिताय स्थप᳓तये  
 वृक्षा᳓णाम्प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,12 +335,15 @@ Homage [1] to the ruddy one, the ruler, to the lord of woods homage!
 तस्मै रुद्राय नमोऽस्तु।  
 वृक्षाणां यः पालकस्तस्मै नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मन्त्रि᳓णे वाणिजा᳓य  
 क᳓क्षाणाम्+++(=गुल्मानाम्)+++ प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -330,12 +368,15 @@ Homage to the minister, the trader, to the lord of thickets homage!
 स च वणिजां स्वामित्वेन **वाणिजस्** तस्मै नमोऽस्तु।
 वनगता गुल्मादयः कक्षास्तेषां पालकाय नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो भुवन्-त᳓ये+++(←तन्)+++ वारिवस्कृता᳓य᳓+++(←वरिवस्=अवकाश)+++  
 +औ᳓षधीनाम् प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,12 +401,15 @@ Homage to the extender of the world, the offspring of the maker of room, to the 
 
 ओषधीनां ग्राम्यारण्यानां पालकस्तस्मै नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म उच्चै᳓र् घोषायाक्रन्द᳓यते  
 पत्तीना᳓म्+++(=पदातीनाम्)+++ प᳓तये न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -391,12 +435,15 @@ to the lord of footmen homage!
 
 पत्तीनां पादचारिणो योधाः पत्ति शब्दवाच्यास्तेषां पालकाय नमोऽस्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ कृत्स्न-वीता᳓य धा᳓वते  
 स᳓त्वनाम्+++(←सत्वन्=योद्धा)+++ प᳓तये न᳓मः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,6 +469,7 @@ Homage to the wholly covered, to the running, to the lord of warriors homage!
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठकेऽ द्वितीयोऽनुवाकः ॥
    २॥
+</details>
 </details>
 
 चतुर्थकाण्डे पञ्चमप्रपाठके तृतीयोऽनुवाकः

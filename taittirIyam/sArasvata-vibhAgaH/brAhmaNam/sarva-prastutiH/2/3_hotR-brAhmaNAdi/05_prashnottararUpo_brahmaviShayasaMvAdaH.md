@@ -11,6 +11,8 @@ unicode_script: devanagari
 के᳓न प्रजा᳓ असृजन्ते᳓"ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।
@@ -48,12 +50,15 @@ unicode_script: devanagari
 इति ।
 यदा दश-होतृ-मन्त्राभिमानिनो देवाः सत्रम् अन्वतिष्ठंस् तदानीं केन गृहपतिना सत्र-रूपां समृद्धिं प्राप्नुवन् । प्राप्य च केन गृहपतिना प्रजाः सृष्टवन्तः । सत्रार्थं दीक्षितेषु मध्ये मुख्यो गृहपतिः । इतरे ऽध्वर्यु-प्रभृतय ऋत्विजः । तत्राध्वर्यु-प्रश्नस्य गृहपतेर् उत्तरम् एवं दत्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिना वै᳓ ते᳓ गृह᳓पतिना ऽऽर्ध्नुवन्न्   
 ते᳓न प्रजा᳓ असृजन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +75,7 @@ unicode_script: devanagari
 
 प्रजापतिर् एव दश-होतॄणां सत्रे गृहपतिर् आसीत्, तेन प्रजापतिना फल-समृद्धिः प्रजोत्पत्तिश् च सम्पादिता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +83,8 @@ unicode_script: devanagari
 "के᳓न ते᳓ गृह᳓पतिनाऽऽर्ध्नुवन्न् ,  
 के᳓नौ᳓षधीर् असृजन्ते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,12 +106,15 @@ unicode_script: devanagari
 > केन ते गृहपतिनाऽऽर्ध्नुवन् ।  
 > केनौषधीर् असृजन्त इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मेन वै᳓ ते᳓ गृह᳓पतिनाऽऽर्ध्नुवन्न्   
 ते᳓नौ᳓षधीर् असृजन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +135,7 @@ unicode_script: devanagari
 इति ।  
 पूर्ववद् व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -132,6 +144,8 @@ unicode_script: devanagari
 के᳓नैभ्यो᳓ लोके᳓भ्यो᳓ऽसुरान् प्रा᳓णुदन्त ,
 के᳓नैषाम् पशू᳓न् अवृञ्जते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,6 +167,7 @@ unicode_script: devanagari
 > केन ते गृहपतिनाऽऽर्ध्नुवन् ।  
 > केनैभ्यो लोकेभ्यो ऽसुरान् प्राणुदन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -160,6 +175,8 @@ unicode_script: devanagari
 ते᳓नैभ्यो᳓ लोके᳓भ्यो᳓ऽसुरान् प्रा᳓णुदन्त,  
 ते᳓नैषाम् पशू᳓न् अवृञ्जत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +204,7 @@ unicode_script: devanagari
 
 [[P450]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -194,6 +212,8 @@ unicode_script: devanagari
 "के᳓न ते᳓ गृह᳓पतिनाऽऽर्ध्नुवन्न् ,  
 के᳓न र्तू᳓न् अकल्पयन्ते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +235,15 @@ unicode_script: devanagari
 > केन ते गृहपतिनाऽऽर्ध्नुवन् ।  
 > केनर्तून् अकल्पयन्त इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धात्रा᳓ वै᳓ ते᳓ गृह᳓पतिनाऽऽर्ध्नुवन्न्  
 ते᳓न र्तू᳓न् अकल्पयन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +264,7 @@ unicode_script: devanagari
 इति ।  
 पूर्ववद् व्याख्येयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,6 +273,8 @@ unicode_script: devanagari
 के᳓न सु᳓वर् आयन्न् ,  
 के᳓नेमाल्ँ᳓ लोका᳓न्त् स᳓मतन्वन्न्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,6 +307,7 @@ unicode_script: devanagari
 > केन सुवर् आयन् ।  
 > केनेमान् लोकान्त्समतन्वन्न् इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -288,6 +315,8 @@ unicode_script: devanagari
 ते᳓न सु᳓वर् आयन्न् ,  
 ते᳓नेमाल्ँ᳓ लोका᳓न्त् स᳓मतन्वन्न् इ᳓ति ॥19॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,6 +340,7 @@ unicode_script: devanagari
 सुवर् आयन्, स्वर्गं प्राप्ताः ।  
 समतन्वन्, संततान् अविच्छिन्नान् कृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -318,6 +348,8 @@ unicode_script: devanagari
 ता᳓न् य᳓ एवव्ँ᳓ विद्वा᳓न् अ᳓प्य् अन्य᳓स्य गार्हपते᳓ दी᳓क्षते  
 अवान्तर᳓म् एव᳓ सत्रि᳓णाम् ऋध्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,12 +383,15 @@ unicode_script: devanagari
 
 [^1]: ख. तस्मा अन्य
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वा᳓ अर्यम᳓णव्ँ वे᳓द  
 दा᳓नकामा अस्मै प्रजा᳓ भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,11 +424,14 @@ unicode_script: devanagari
 इति ।
 यो ऽयम् अर्यमा देवेषु गृहपतित्वेनोक्तः सो ऽयं यज्ञ-निष्पादकत्वाद् यज्ञ एव । एवं तम् अर्यमणं यो वेद, अस्य वेदितुः पुत्राद्याः प्रजा दान-कामा भवन्ति । स्व-कर्तृकं दानं कामयन्ते, दातारो भवन्तीत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वा᳓ अर्यमा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,11 +447,14 @@ unicode_script: devanagari
 
 यज्ञवत्पूज्यः खल्वर्यमा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓र्यावसति᳓र्"+++(←स्वरः??)+++ इ᳓ति वै᳓ त᳓म् आहुर् य᳓म् प्रशँ᳓सन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,12 +475,15 @@ unicode_script: devanagari
 
 आर्याः, पूज्या गुर्वादयस्, तेषाम् आवसतिः, साकल्येन निवास-हेतुर् इत्य् अनेनैव शब्देन लोके व्यवहरन्ति, यं प्रशंसितुम् इच्छन्ति । अयम् अर्थः – दान-शीलं राजानम् अमात्यं वा यदा प्रशंसन्ति तदानीम् अयं राजा आर्याणां, साधूनां, विदुषां, यष्टॄणां वा, गुरूणां च स्वकीय-गृह-निवास-हेतुर् इति प्रशंसन्ति । तस्माद् आर्य-वसति-शब्दो निरतिशय-प्रशंसा-वाची । अर्यमा-शब्दस्यार्यावसति-शब्द[ः] पर्यायः । आर्याः पूज्यन्ते मन्यन्त इति वा व्युत्पत्तेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓र्यावसति᳓र्भवति  
 य᳓ एवव्ँ᳓ वे᳓द ॥20॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -467,12 +511,15 @@ unicode_script: devanagari
 इति ।
 ईदृशम् अर्यमाणं सर्वेषाम् आर्याणां निवास-हेतुं यो वेद, सो 'प्य् आर्याणां निवास-भूमिर् भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वा᳓ इद᳓ङ् कि᳓ञ्च  
 त᳓त् स᳓र्वञ् च᳓तुर्होतारः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,11 +538,14 @@ unicode_script: devanagari
 इदं विश्वं दृश्यमानं श्रूयमाणं च चतुर्होतारः दशहोत्रादयः चत्रुर्होतृभवत्वात् ताच्छब्द्यम् ।  
 किं बहुना, यज्ञोपि सर्वश्चतुर्होतृभ्यो निर्मितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्होतृभ्यो᳓ ऽधि यज्ञो᳓ नि᳓र्मितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -520,6 +570,7 @@ unicode_script: devanagari
 > तत् सर्वं चतुर्-होतारः ।  
 > चतुर्-होतृभ्यो 'धि यज्ञो निर्मितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -527,6 +578,8 @@ unicode_script: devanagari
 "अह᳓म् एव᳓ भू᳓यो वेद ,  
 य᳓श्च᳓तुर्होतॄन् वे᳓दे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -562,12 +615,15 @@ unicode_script: devanagari
 कीदृशो विवाद इति तद् उच्यते – यो ऽहं होतृ-मन्त्रान् वेद सो ऽहम् एव सर्वेषां मध्ये भूयो वेदितेति ।  
 तस्मिन् विवादे तस्यैव होतृ-मन्त्राभिज्ञस्य जय इत्य् उत्तर-वाक्ये प्रसिद्ध-वाचिना हि-शब्देन स्पष्टीकरोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ह्य् ए᳙व᳓ भू᳓यो वे᳓द  
 य᳓श् च᳓तुर्होतॄन् वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,12 +645,15 @@ unicode_script: devanagari
 
 होतृ-मन्त्र-रहस्यं यो वेत्ति स एव भूयो वेदेत्य् अतिप्रसिद्धम् इत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ च᳓तुर्होतृणाँ हो᳓तॄन् वे᳓द  
 स᳓र्वासु प्रजा᳓स्व् अ᳓न्नम् अत्ति ॥21॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -633,11 +692,14 @@ unicode_script: devanagari
 
 होतृ-मन्त्रैर् होमादिकं निष्पाद्य फल-साधकाः प्रजापत्यादयो मन्त्राणां होतारः । तान् यो वेद सो ऽयं सर्वासु प्रजासु यद् अन्नं तत् सर्वम् अनुभवति । सर्वाः प्रजा अस्मै प्रशस्तम् अन्नं समर्पयन्तीत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वा दि᳓शो ऽभि᳓जयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -658,11 +720,14 @@ unicode_script: devanagari
 
 किं च सर्व-दिग्-वर्तिन्यः प्रजा अस्य वश्या भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् वै᳓ द᳓शहोतृणाँ हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -684,11 +749,14 @@ unicode_script: devanagari
 
 "प्रजापतिर् वै दश-होतॄणाम्" इत्य् आदौ होतृ-मन्त्रस्यावयव-भेदात् प्रयोग-भेदाद् वा बहुवचन-निर्देशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मश् च᳓तुर्होतृणाँ हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -699,11 +767,14 @@ unicode_script: devanagari
 
 सो᳓मः । च᳓तुः । होतृणाम् । हो᳓ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निᳶ᳓ प᳓ञ्चहोतृणाँ हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -714,11 +785,14 @@ unicode_script: devanagari
 
 अग्निः᳓ । प᳓ञ्च । होतृणाम् । हो᳓ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धाता᳓ ष᳓ड्ढोतृणाँ हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -729,11 +803,14 @@ unicode_script: devanagari
 
 धाता᳓ । ष᳓ड्ढोतृ । णाम् । हो᳓ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्यमा᳓ सप्त᳓होतृणाँ हो᳓ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -744,11 +821,14 @@ unicode_script: devanagari
 
 अर्यमा᳓ । सप्त᳓ । होतृणाम् । हो᳓ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ च᳓तुर्होतृणाँ हो᳓तारः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -759,12 +839,15 @@ unicode_script: devanagari
 
 एते᳓ । वै᳓ । च᳓तुः । होतृणाम् । हो᳓तारः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् य᳓ एवव्ँ᳓ वे᳓द  
 स᳓र्वासु प्रजा᳓स्व् अ᳓न्नमत्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -788,11 +871,14 @@ unicode_script: devanagari
 "तान् य एवं वेद" इत्यादि-पुनरुक्तिर् उपसंहारार्था ॥  
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठके पञ्चमो ऽनुवाकः ॥ ५ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वा दि᳓शो ऽभि᳓जयति ॥22॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -802,4 +888,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 स᳓र्वाः । दि᳓शः । अभि᳓ । जयति ।
+</details>
 </details>

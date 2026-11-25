@@ -2,10 +2,15 @@
 title = "०५ रुद्रः - परि णो"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 24अस्मिन्नेव रौद्रे पशौ विकल्पिते सूक्ते षण्णामृचां प्रतीकानि दर्शयति - 'परि णो रुद्रस्य हेतिर्वृणक्तु' इति वपाया पुरोनुवाक्या ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -15,6 +20,7 @@ title = "०५ रुद्रः - परि णो"
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 प᳓रि । णः । रुद्र᳓स्य । हेतिः᳓ । स्तुहि᳓ । श्रुत᳓म् ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
@@ -30,9 +36,12 @@ title = "०५ रुद्रः - परि णो"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— 		परि णो रुद्रस्येति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
@@ -429,15 +438,20 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'मीढुष्टम शिवतम' इति पुरोडाशस्य पुरोनुवाक्या । एतत्त्रयं रुद्राध्याये व्याख्यातम् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मी᳓ढुष्टमा᳓र्हन्बिभर्षि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,6 +461,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 मी᳓ढुः । टम् । आः᳓ । हन् । बिभर्षि ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
@@ -539,12 +554,17 @@ And approach us bearing the spear [4].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'त्वमग्ने रुद्रो असुरः' इति हविषः पुरोनुवाक्या ।  
 'अवो राजानमध्वरस्य' इति याज्या ।  
 एतच्चोभयं 'त्वमग्ने रुद्र' इत्यनुवाके व्याख्यातम् ॥
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,6 +574,7 @@ And approach us bearing the spear [4].
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त्व᳓म् । अग्ने । रुद्रः᳓ । आ᳓ । वः । रा᳓जानम् ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">

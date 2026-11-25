@@ -5,9 +5,12 @@ title = "२४ सावित्रग्रहः"
 जगती । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1सावित्रस्यैव ग्रहणविकल्पः पूर्वेण सह विकृत्यर्थः- अदब्धेभिरिति चतुष्पदया त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/071/03_adabdhebhiH_savitaH.md">
@@ -385,14 +388,17 @@ Mit unbethörter heilbegabter Hüterschar, o Savitar, beschütze heute unser Hau
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2उपयामगृहीतोसीत्यादि पूर्ववत् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/23_sAvitragrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -423,12 +429,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓य त्वा सवित्रे᳓ ॥ [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -444,6 +453,6 @@ to the god Savitr thee!
 
 दे॒वाय॑ । त्वा॒ । स॒वि॒त्रे ॥
 </details>
-
+</details>
 </div>
 

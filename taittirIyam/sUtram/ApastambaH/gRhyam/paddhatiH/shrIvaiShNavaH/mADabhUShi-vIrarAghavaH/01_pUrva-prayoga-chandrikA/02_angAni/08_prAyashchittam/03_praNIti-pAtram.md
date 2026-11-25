@@ -20,15 +20,20 @@ title = "०३ प्रणीति-पात्रम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
 <details open><summary><h5>अक्षितोऽसि ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑तोऽसि ।
+अ᳓क्षितोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,11 +54,14 @@ Thou art imperishable,
 
 अक्षितः अक्षीणोसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अक्षि॑त्यै त्वा +++(ददामि)+++।
+अ᳓क्षित्यै त्वा +++(ददामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -74,11 +82,14 @@ for imperishableness thee;
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मिल्ँ॑ लो॒के  ॥  [10]
+मा᳓ मे क्षेष्ठा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓  ॥  [10]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,6 +118,7 @@ mayst thou not perish for me, yonder, in yonder world.
 हेऽन्वाहार्य त्वमक्षितोऽक्षीणोऽसि। अपरिमितो निरुप्य इति ब्राह्मणोक्तेर्दक्षिणाग्नावन्वाहार्यं महान्तमपरिमितमोदनं पचतीति सूत्रकारोक्तेश्च।
 
 तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँ लोके त्वां यथेच्छमनुभवामीति शेषः।  
+</details>
 </details>
 </details>
 </div>  
@@ -153,6 +165,8 @@ mayst thou not perish for me, yonder, in yonder world.
 मा म॒ आयुः॑ प्रा॒णः प्र॒जाः प॒शवः॒ परा॑सिच्येरन्।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 भूर्  
@@ -162,6 +176,7 @@ mayst thou not perish for me, yonder, in yonder world.
 पशून् मे धारयत  
 मा म आयुः प्राणः प्रजाः पशवः परासिच्येरन्
 
+</details>
 </details>
 </details>
 </div>  

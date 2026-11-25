@@ -1,9 +1,12 @@
 +++
 title = "०१ सोमः"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1द्वितीये वशादीनां पशूनां सूक्तान्यभिहितानि । तृतीये सौम्यादीनां सूक्तान्युच्यन्ते । तत्र 'आग्रेयं कृष्णग्रीवमालभेत सौम्यं बभ्रुं ज्योगामयावी' इत्येतस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ title = "०१ सोमः"
 सादन्यं᳙+++(←सदन)+++ विदथ्यं᳙ सभे᳓यं  
 पितुश्-श्र᳓वणय्ँ यो᳓ **द᳓दाशद्**+++(=दद्यात्)+++ अस्मै +++(यजमानाय)+++ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -31,6 +36,9 @@ title = "०१ सोमः"
 
 योऽयं सोमो देवः सोऽयमस्मै यजमानाय धेनुं ददातु । तथा स सोमः आशुं शीघ्रगामिनमर्वन्तमश्वं ददातु । तथा स सोमः कर्मण्यं श्रौतस्मार्तकर्मयोग्यं वीरं पुत्रं ददातु । कीदृशं वीरं? सदनं गृहं तत्र साधुः सादन्यस्तं गृहनिर्वाहकमित्यर्थः । विदथे यज्ञे कुशलं विदथ्यम् । सभायां साधुः सभेयस्तं सभेयम् । स्वकीयस्य पितुः श्रवणं कीर्तिः संपाद्यते येन सोऽयं पितुःश्रवणस्तम् । यो यजमानः सोमाय देवाय ददाशत् चरु पुरोडाशादिकं ददाति । अस्मै यजमानायेति पूर्वत्रान्वयः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -55,6 +63,7 @@ title = "०१ सोमः"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ हविषः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/22_tvamimA_oShadhIH.md">
@@ -405,9 +414,12 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ हविषो याज्यामाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -417,6 +429,8 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 ते᳓भिर्नो वि᳓श्वैस्सुम᳓ना अ᳓हेडन् ।   
 रा᳓जन्त्सोम प्र᳓ति हव्या᳓ गृभाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,4 +448,5 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 <details><summary>सायण-टीका</summary>
 
 हे सोम राजन् ते तव द्युलोके या धामानि यानि स्थानानि सन्ति तथा पृथिव्यां यानि सन्ति पर्वतेष्वोषधीष्वप्सु यानि सन्ति सुमना अस्माभिः सह सौमनस्ययुक्तस्त्वं तेभिर्विश्चैस्तैः सर्वैः स्थानैर्युक्तो नोऽस्मान्प्रति हेडन्क्रोधमकुर्वन् हव्या प्रतिगृभाय हवींषि प्रतिगृहाण ॥
+</details>
 </details>

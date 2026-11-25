@@ -4,9 +4,12 @@ title = "०८ अवभृथाङ्गवेदिदाहादिमन�
 १, ३ त्रिष्टुप्,  
 ५-६ अनुष्टुप्  
 विश्वेदेवा ऋषयः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अवभृथमवैष्यन् आयुर्दा इति जुहोति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -14,6 +17,8 @@ title = "०८ अवभृथाङ्गवेदिदाहादिमन�
 आयुर्दा᳓ अग्ने हवि᳓षो जुषाणो᳓ घृत᳓प्रतीको घृत᳓योनिरेधि ।   
 घृत᳓म्पीत्वा᳓ म᳓धु चा᳓रु ग᳓व्यम्पिते᳓व पुत्र᳓मभि᳓ रक्षतादिम᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,6 +43,9 @@ As a father his son, do thou protect him.
 
 व्याख्याता चेयं 'त्वमग्ने रुद्रः' इत्यत्र । हे अग्ने त्वमायुर्दाः, त्वमस्य हविषः जुषाणः सेवमानः घृतप्रतीकः घृतारम्भः घृतस्योदकस्य योनिः कारणं भव । किं च - मधुरं गव्यं चारु घृतमिदं पीत्वा पितेव पुत्रमिमं यजमानं अभिरक्षतादिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -48,11 +56,14 @@ As a father his son, do thou protect him.
 
 2अथैतस्य मन्त्रस्य ब्राह्मणं - आवृश्च्यते इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ वृश्च्यते वा᳓ एत᳓द्य᳓जमानोऽग्नि᳓भ्याय्ँ य᳓देनयोश्शृतङ्कृ᳓त्या᳓थान्य᳓त्रावभृथ᳓मवै᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -73,11 +84,14 @@ The sacrificer falls a victim to the two fires in that having made (the offering
 
 यदेनयोः अग्न्योः शतंकृत्य हविः अथान्यत्र गत्वा अवभृथमवैति अवभृथेन प्रचरति । एतद्यजमानोग्निभ्यामावृश्च्यते विच्छिद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युर्दा᳓ अग्ने हवि᳓षो जुषाण᳓ इ᳓त्यवभृथ᳓मवैष्य᳓ञ्जुहुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,11 +112,14 @@ The sacrificer falls a victim to the two fires in that having made (the offering
 
 तस्मादवभृथमवैष्यन् आयुर्दा जुहुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓हुत्यैवै᳓नौ शमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -123,11 +140,14 @@ verily by the offering he appeases the two (fires);
 
 आहुत्याऽनया एनौ अग्नी शमयत्येव । 'एत्येधत्यूठ्सु' इति वृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓र्तिमा᳓र्च्छति य᳓जमानः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,10 +168,14 @@ the sacrificer does not go to destruction.
 
 ततश्च यजमानो नार्तिं गच्छति । 'उपसर्गादृतिधातौ' इति वृद्धिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3औपयजिरे अग्नौ बर्हिरुपोषयति - यत्कुसीदमिति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -159,6 +183,8 @@ the sacrificer does not go to destruction.
 य᳓त्कु᳓सीद᳓म᳓प्रतीत्तम्म᳓यि ये᳓न यम᳓स्य बलि᳓ना च᳓रामि ।  
 इहै᳓व᳓ स᳓न्निर᳓वदये त᳓देत᳓त्त᳓दग्ने अनृणो᳓ भवामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,10 +209,14 @@ Here, O Agni, may I be freed from that debt.
 
 'मयि' इति प्रथमपादान्तः । 'तत्' इति तृतीयपादान्तः । यत् कुसीदं ऋणं अप्रतीत्तं अप्रत्यर्पितं वेदिस्तरणार्थं दर्भग्रहणेनोपलक्षितोहं चरामि बलित्वेनावश्यदेयत्वं लक्ष्यते यमः अग्निः, 'अग्निर्वाव यमः' इति । तस्याग्नेः स्वभूतेन ऋणेन । यद्वा - अग्न्यर्थेन ऋणेन चरामि । तदेतत् ऋणमिहैव जन्मनि सन् वर्तमानः निरवदये अपाकरोमि । देङ् रक्षणे । यन्मया गृहीतं तस्यास्य बर्हिषो दहनेनेति भावः । हे अग्ने तत् तेनाहमनृणो भवामि भूयासम् । प्रतिपूर्वाद्ददातेः निष्ठायां 'अच उपसर्गात्तः' इति तादेशे 'दस्ति' इत्युपसर्गस्य दीर्घत्वम् । इत्तमिति इकारोपजनं पदकारा मन्यन्ते । इदन्तेर्वा [इन्दतेर्वा] छान्दसमित्तेति रूपम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4यदि मिश्रमिव पापेन संसृष्टमिव चरेत् स्नातकः सः उपौषमाणे अरण्ये दाव्यं दहन्तमग्निमुपगम्याञ्जलिनोपस्तीर्णेनाभिघारितेन सक्तून् प्रदाव्ये तस्मिन् दाव्याग्नौ जुहोति - विश्वलोपेति यजुरादिकयाऽनुष्टुभा ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -195,6 +225,8 @@ Here, O Agni, may I be freed from that debt.
 अ᳓हुता᳓दे᳓कस्समसना᳓दे᳓कः ।   
 ते᳓ नᳵ कृण्वन्तु भेषजँ᳓ स᳓दस्स᳓हो व᳓रेण्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,12 +254,15 @@ An abode, delightful strength.'
 
 हे अग्ने विश्वलोप विश्वं लुम्पति दहति । कर्मण्यण् । विश्वदावस्य विश्वस्य पापस्य दावस्य वनदहनस्य त्वा तव । वचन[विभक्ति] यत्ययः । आसन् आस्ये जुहोमि सक्तून् । यद्वा - विश्वस्य पापस्य लोप्तः हे सक्त्वञ्जले त्वां विश्वदावस्याग्नेरास्ये जुहोमि । 'पद्दन्' इत्यादिना आसन्भावः, 'सुपां सुलुक्' इति सप्तम्या लुक् । ध्वंसयते - अग्धात् । अत्तेः गतिकर्मणः निष्ठायां धत्वे अग्धम्, अहोमेनागतं हविः, तदत्तीति अग्धात् एकोग्निः । 'अदोनन्ने' इति विट् । अहुतस्यात्ता एकः । समसनस्य संक्षिप्तस्य वा अत्ता एकः । एवं त एते त्रयोप्यग्नयः नोस्माकं भेषजं अनुपद्रवत्वं सदः स्थानं प्रशस्तं सहः बलं वरेण्यं वरणीयं अन्यदपि यच्छ्रेष्ठं तच्च कृण्वन्तु कुर्वन्तु । प्रचयात्समुच्चयो गम्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अय᳓न्नो न᳓भसा पुर᳓स्सँस्फा᳓नो अभि᳓ रक्षतु ।  
 गृहा᳓णाम᳓समर्त्यै बह᳓वो नो गृहा᳓ असन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,12 +288,15 @@ That houses fail us not.
 
 5अयं न इत्यादयः अग्निवाय्वादित्यानामुपस्थानमन्त्राः । आद्ये अनुष्टुभौ, तृतीया पुरस्ताद्बृहती; प्रथमस्य द्वादशाक्षरत्वात् ॥ अयं नभसा नित्यबद्धेन तेजसा पुरः अग्रतः सर्वस्य वर्तते श्रेष्ठ इत्यर्थः । संस्फानः सम्यक् स्फावयिता सर्वेषाम् । स्फावयतेर्ल्युटि छान्दसो यलोपः । नोस्मानभिरक्षतु गृहाणामसमर्त्यै अविनाशार्थम् । ऋ गतौ, संपूर्वो विनाशे वर्तते, उपसर्गस्याकारोपजनः छान्दसस्सांहितिकः । ततश्च नोस्माकं बहवः गृहाः असन् सन्तु ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓ त्व᳓न्नो नभसस्पत ऊ᳓र्जन्नो धेहि भद्र᳓या ।  
 पु᳓नर्नो नष्ट᳓मा᳓ कृधि पु᳓नर्नो रयि᳓मा᳓ कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,10 +321,14 @@ Return wealth to us.
 
 6अथ वायोः - हे नभसस्पते आकाशस्य पते हे वात 'षष्ठ्याः पतिपुत्र' इत्यादिना सत्वं, 'सुबामन्त्रिते' इति पराङ्गवद्भावः । स त्वमूर्जमन्नादिरसं अस्मभ्यमेव धेहि भद्रया वाचा । किंच - नोस्माकं नष्टं पुनराकृधि अनीय देहि, रयिं धनं च प्रेप्सितं पुनःपुनः अजस्रमानीय देहि । करोतेर्लोटि शपो लुक्, 'श्रुशृणुपॄकॄ' इति धिभावः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देव॑ सँस्फान सहस्रपो॒षस्ये॑शिषे॒ स नो॑ रा॒स्वाज्या॑निँ रा॒यस्पोषँ॑ सु॒वीर्यँ॑ सव्ँवत्स॒रीणाँ॑ स्व॒स्तिम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +336,8 @@ Return wealth to us.
 दे᳓व सँस्फान ।  
 सहस्रपोष᳓स्येशिषे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,12 +359,15 @@ O god that dost fatten, thou art a lord of a thousandfold prosperity;
 
 7अथादित्यस्य - हे देव आदित्य संस्फान । गतम् । सहस्रपोषस्य पश्वादिबहुपुष्टेः त्वमेवेशिषे । 'ईशस्से' इतीडागमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ नो रास्व᳓ ।  
 अ᳓ज्यानिँ राय᳓स्पो᳓षँ सुवी᳓र्यँ सव्ँवत्सरी᳓णाँ स्वस्ति᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -344,6 +391,9 @@ do thou give us increase of wealth unfailing, rich in heroes, prosperity abiding
 
 अज्यानीं अक्षीणत्वं अदारिद्र्यम् । 'ग्लाम्लाज्याहाभ्यो निः' । रायो धनस्य पोषं पुष्टिम् । पूर्ववत्सत्वम् । सुवीर्यं शोभनवीर्यं संवत्सरीणां संवत्सरभाविनीं स्वस्तिं अविनाशं च देहि । 'संपरिपूर्वात्ख च' इति खः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -354,11 +404,14 @@ do thou give us increase of wealth unfailing, rich in heroes, prosperity abiding
 
 8अथ 'यत्कुसीदम्' इत्यादीनां मन्त्राणां ब्राह्मणम् - अग्निर्वावेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वा᳓व᳓ यम᳓ इयय्ँ᳓यमी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -379,12 +432,15 @@ Yama is Agni, Yama is this (earth);
 
 अग्निः यमः यदर्थमृणं गृह्णाति । इयं पृथिवी यमी यस्या ऋणं गृह्यते । यमस्य स्त्री यमी । अस्याः मन्त्रे श्रुताया अप्युपादानमुत्तमर्णप्रदर्शनार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कु᳓सीदव्ँवा᳓ एत᳓द्यम᳓स्य य᳓जमान आ᳓ दत्ते ।  
 य᳓दो᳓षधीभिर्वे᳓दिँ स्तृणा᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -408,12 +464,15 @@ the sacrificer becomes under a debt to Yama in that he strews the altar with pla
 
 अपरा योजना - यमोग्रिरुत्तमर्णः । यम्या उपादानं प्रासङ्गिकं, धनसम्बन्धप्रदर्शनार्थं वा । यज्ञार्थमग्नेस्सकाशात् कुसीदं गृह्णाति यदोषधीभिः यमीद्वारेण अग्नेस्स्वभूताभिः वेदिं स्तृणाति तस्मादग्नये धारयति ऋणमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓नुपौष्य प्रयाया᳓द्,
 ग्रीव᳓ब᳓द्ध᳓मेनममु᳓ष्मिल्ँ लोके᳓ नेनीयेरन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,12 +494,15 @@ if he were to go away with out burning (them), they would drag him about bound b
 
 तस्मादेतद्बहिः यदनुपौष्य अदाहयित्वाऽध्वर्युणा यः प्रयायात् इतो लोकाद्यजमानः । उष दाहे, ण्यन्ताल्ल्यप् । एङि पररूपं प्राप्तं, प्रातिशाख्यकृर्तां मते 'वृद्धिरेचि' इति वृद्धिर्लक्ष्यते । एनमृणिनं ग्रीवबद्धं ग्रीवायामृणपाशेन बद्धं अमुष्मिन् लोके परलोके नेनीयेरन् या तयेयुः । 'ङ्यापोस्संज्ञाछन्दसोः' इति ह्रस्वत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्कु᳓सीदम᳓प्रतीत्तम्म᳓यी᳓त्यु᳓पौषति ।
 इहै᳓व᳓ स᳓न् यम᳓ङ्कु᳓सीदन् निरवदा᳓यानृण᳓स्सुवर्गल्ँ᳓ लोक᳓मेति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,6 +526,9 @@ In that he burns, (saying) 'The loan which I have not yet paid', being here, hav
 
 इहैव सन् यमं यमार्थं ऋणं यमस्वभूतं वा निरवदाय अपाकृत्य अनृणो भूत्वा स्वर्गं लोकं गच्छतीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -474,6 +539,7 @@ In that he burns, (saying) 'The loan which I have not yet paid', being here, hav
 
 9अथ 'विश्वलोप' इत्यादेर्ब्राह्मणं - यदीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -481,6 +547,8 @@ In that he burns, (saying) 'The loan which I have not yet paid', being here, hav
 
 अ᳓ञ्जलि᳓ना स᳓क्तून्प्रदाव्ये᳙ जुहुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -503,11 +571,14 @@ If he does manifold things as it were, he should offer in the forest (fire) groa
 
 यदि मिश्रमिव पापसंसृष्टमिव आचरेत् अभोज्यसंसृष्टमिवाश्नीयात् तच्छुद्ध्यर्थं अञ्जलिना सक्तून् प्रदाव्ये दवाग्नौ ज्वलति 'विश्वलोप' इति जुहुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वा᳓ अग्नि᳓र्वैश्वानरो᳓ य᳓त्प्रदाव्य᳙ः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,11 +599,14 @@ the forest (fire) is Agni Vaiśvanara;
 
 एष वा इत्यादि । वैश्वानरत्वेन प्रदाव्यस्तुतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवै᳓नँ स्वदयति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -553,6 +627,9 @@ verily he appeases him.
 
 स एवैनं यजमानं स्वर्गं लोकं नयतीति । निवृत्तपापं स्वदयति स्वादून्याशयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -563,11 +640,14 @@ verily he appeases him.
 
 10अथात्र प्रयोगान्तरमाह - अह्नामित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ह्नाव्ँविधा᳓न्यामेकाष्टका᳓यामपूप᳓ञ्च᳓तुश्शरावम्पक्त्वा᳓ प्रात᳓रेते᳓न क᳓क्षमु᳓पौषेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,10 +668,14 @@ On the Ekastaka the divider of the days, he should cook a cake of four Śaravas 
 
 अह्नां विधानी एक्ताष्टका या संवत्सरस्य पत्नी । यथोक्तं - 'एषा वै संवत्सरस्य पत्नी यदेकाष्टका' इति । विशेषणोपादानं अहस्सु कृतानां तदधीनत्वख्यापनार्थम् । यद्वा - अह्नामेकाहादीनां क्रतूनां विधानी संवत्सरस्य वा क्रतोः गवामयनस्य अवयवानामह्नां विधानी । तत्रारम्भात् 'संवत्सराय दीक्षिष्यमाणा एकाष्टकायां दीक्षेरन्' इति माघकृष्णाष्टमी एकाष्टका । 'अष्टका पितृदैवत्ये' इतीत्वाभावः । अस्यां अहोरात्रे अपूपं चतुश्शरावं चतुश्शरावपरिमाणम् । द्विप्रस्थः शरावः । 'अध्यर्धपूर्वात्' इति अर्हीयस्य लुक्, 'इगन्तकाल' इति पूर्वपदप्रकृतिस्वरत्वम् । पक्त्वा प्रातः उदिते आदित्ये अरण्ये अग्निमुपसमाधाय तत्र दीप्ते पूतीतृणसहितेन अपूपेन कक्षं वनं गहनमुपोषेत् दहेत् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथैनमुद्गृह्णाति, विज्ञानमुपैति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +683,8 @@ On the Ekastaka the divider of the days, he should cook a cake of four Śaravas 
 य᳓दि [25] द᳓हति पुण्यस᳓मम्भवति ।  
 य᳓दि न᳓ द᳓हति पापस᳓मम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -622,11 +708,14 @@ if [4] it burns, it becomes a good season, if it does not burn, a bad season.
 
 यदि न दहति पापसममेतद्भवति । तदा तूष्णीमासीतेति । पूर्ववत्समासः, उत्तरपदाद्युदात्तत्वं च । 'निपातैर्यद्यदि' इति दहतीत्याख्यातं न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓न ह स्म वा᳓ ऋषयᳶ पुरा᳓ विज्ञा᳓नेन दीर्घसत्त्र᳓मु᳓प यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,6 +736,9 @@ By this mode of prognostication the seers of old used to undertake a long Sattra
 
 एतेन हि विज्ञानेन पुण्यापुण्यज्ञानोपायेन पुण्यतां सम्यग्ज्ञात्वा दीर्घसत्रं वर्षशतिकं वर्षसाहस्रिकं च ऋषयो वा ह स्म पुरा उपयन्ति उपायन् । 'लट् स्मे' इति लट् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -657,6 +749,7 @@ By this mode of prognostication the seers of old used to undertake a long Sattra
 
 11अथोपस्थानमन्त्राणां ब्राह्मणं - यो वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -664,6 +757,8 @@ By this mode of prognostication the seers of old used to undertake a long Sattra
 
 स᳓ममु᳓ष्मिल्ँ लोक᳓ इष्टापूर्ते᳓न गच्छते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -686,11 +781,14 @@ He who knowing the seer, the hearer, the reciter, sacrifices, is united in yonde
 
 उपद्रष्ट्रादीन् विद्वान् यो यजते सोमुष्मिन् लोके इष्टापूर्तेन इष्टापूर्तफलेन संगच्छते अविनष्टेन संयुज्यते । 'समो गमृच्छि' इत्यात्मनेपदम् । इष्टं च पूर्तं चेष्टापूर्तं दैव्यं पित्र्यं च कर्म । साहितिकं पूर्वपदस्य दीर्घत्वम्, गवाश्वप्रभृतित्वादेकवद्भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वा᳓ उपद्रष्टा᳓ वायु᳓रुपश्रोता᳓ऽऽदित्यो᳙ऽनुख्याता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -711,6 +809,7 @@ The seer is Agni, the hearer is Vayu, the reciter Aditya;
 
 अग्निर्वा इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -718,6 +817,8 @@ The seer is Agni, the hearer is Vayu, the reciter Aditya;
 
 स᳓ममु᳓ष्मिल्ँ लोक᳓ इष्टापूर्ते᳓न गच्छते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -735,16 +836,22 @@ he, who offers knowing thus to them, in yonder world is united with what be has 
 
 तान् । यः । ए॒वम् । वि॒द्वान् । यज॑ते । समिति॑ । अ॒मुष्मि॑न् । लो॒के । इ॒ष्टा॒पू॒र्तेनेती॑ष्ट-पू॒र्तेन॑ । ग॒च्छ॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इदानीं पदानि व्याचष्टे - अयं न इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अय᳓न्नो न᳓भसा पुर᳓ इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -760,11 +867,14 @@ he, who offers knowing thus to them, in yonder world is united with what be has 
 
 अ॒यम् । नः॒ । नभ॑सा । पु॒रः । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वै᳓ न᳓भसा पुरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -785,16 +895,22 @@ he, who offers knowing thus to them, in yonder world is united with what be has 
 
 अग्निर्वै नभसा तेजसा पुरः अग्रेसरः सर्वस्य,
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मादग्निमाह – एतद्ग्रहान् मे गोपायेति रक्षेति अनेन मन्त्रेण प्रार्थयते; अग्नेर्ग्रहपतित्वात् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓मेव᳓ त᳓दाहैत᳓न्मे गोपाये᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -810,11 +926,14 @@ verily he says to Agni, 'Guard this for me.'
 
 अ॒ग्निम् । ए॒व । तत् । आ॒ह॒ । ए॒तत् । मे॒ । गो॒पा॒य॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त्व᳓न्नो नभसस्पत इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -830,16 +949,22 @@ verily he says to Agni, 'Guard this for me.'
 
 सः । त्वम् । नः॒ । न॒भ॒सः॒ । प॒ते॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒युर्वै नभ॑स॒स्पति॑र्वा॒युमे॒व तदा॑है॒तन्मे॑ गोपा॒येति॒ देव॑ सँस्फा॒नेत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓र्वै᳓ न᳓भसस्प᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -860,16 +985,22 @@ the lord of cloud is Vayu;
 
 12वायुर्वै नभसस्पतिः आकाशस्य पालयिता,
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्माद्वायुमाह - एतदन्नं मे गोपाय नष्टमप्यानयेति प्रार्थयते ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓मेव᳓ त᳓दाहैत᳓न्मे गोपाये᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -885,11 +1016,14 @@ verily he says to Vayu, 'Guard this for me.'
 
 वा॒युम् । ए॒व । तत् । आ॒ह॒ । ए॒तत् । मे॒ । गो॒पा॒य॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓व सँस्फाने᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -905,16 +1039,22 @@ verily he says to Vayu, 'Guard this for me.'
 
 देव॑ । सँ॒स्फा॒नेति॑ सं-स्फा॒न॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒सौ वा आ॑दि॒त्यो दे॒वस्सँ॒स्फान॑ आदि॒त्यमे॒व तदा॑है॒तन्मे॑ गोपा॒येति॑ ॥ [27]   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ᳓ वा᳓ आदित्यो᳓ देव᳓स्सँस्फा᳓नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -935,16 +1075,22 @@ the god that fattens is yonder Aditya;
 
 13असौ वा आदित्यो देवः संस्फानः सम्यग्वर्धयिता प्रजानां धनानां च
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मादादित्यमाह – एतन्मे प्रजादिकं गोपायेति भूयश्च पोषयेति प्रार्थयते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓दित्य᳓मेव᳓ त᳓दाहैत᳓न्मे गोपाये᳓ति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -966,4 +1112,5 @@ verily he says to Aditya, 'Guard this for me.'
 'गुपूधूप' इत्यायप्रत्ययः ॥
 
 इति तृतीये तृतीये अष्टमोनुवाकः ॥
+</details>
 </details>

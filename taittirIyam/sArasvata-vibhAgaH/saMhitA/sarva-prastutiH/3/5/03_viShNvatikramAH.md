@@ -3,6 +3,8 @@ title = "०३ विष्ण्वतिक्रमाः"
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निना॑ दे॒वेन॒ पृत॑ना जयामि गाय॒त्रेण॒ छन्द॑सा त्रि॒वृता॒ स्तोमे॑न रथन्त॒रेण॒ साम्ना॑ वषट्का॒रेण॒ वज्रे॑ण पूर्व॒जान्भ्रातृ॑व्या॒नध॑रान्पादया॒म्यवै॑नान्बाधे॒ प्रत्ये॑नान्नुदे॒ऽस्मिन्क्षये॒ऽस्मिन्भू॑मिलो॒के यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मो विष्णो॒ᳵ क्रमे॒णात्ये॑नान्क्रामा॒मि
@@ -12,6 +14,7 @@ title = "०३ विष्ण्वतिक्रमाः"
 
 1अग्निना देवेनेत्याद्या अभिचारादिः । संवत्सरमेतैः क्रमैः क्रमेत - अग्निना देवेन पृतनाः परसेनाः जयामि अभिभवामि गायत्रेण छन्दसा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,6 +22,8 @@ title = "०३ विष्ण्वतिक्रमाः"
 
 त्रिवृ᳓ता स्तो᳓मेन रथन्तरे᳓ण सा᳓म्ना वषट्कारे᳓ण व᳓ज्रेण पूर्वजा᳓न् भ्रा᳓तृव्यान᳓धरान्पादयामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,12 +46,15 @@ By Agni, the god, I win battles, with the Gayatri metre, the Trivrt Stoma, the R
 
 गायत्र्येव गायत्रं, 'नपुंसके स्वार्थ उपसंख्यानम्' इत्यण् । त्रिवृता स्तोमेन नवस्तोत्रीयेण स्तोमेन त्र्यवयवास्तिस्रो वृत्तयः यस्य इति त्रिवृत्, त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । रथन्तरेण साम्ना 'अभी त्वा शूर नोनुमः' इत्येतद्योनिना वषट्कारेणायुधेन अग्निप्रसादेन गायत्र्यादिभिस्साधनभूतैर्जयामि पूर्वजान् प्रथमजान् भ्रातृव्यान् शत्रून् । 'व्यन् सपत्ने' इति व्यन् । अधरान् पादयामि अधोमुखान्निपातयामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वैनान्बाधे ।  
 प्र᳓त्येनान्नुदेऽस्मि᳓न्क्ष᳓येऽस्मि᳓न्भूमिलोके᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,12 +76,15 @@ I depress them, I repel them, in this home, in this world of earth;
 
 किंच - एनानवबाधे अवमतान् कृत्वा बहुधा पीडयामि यथा मामेव शरणं भजेयुः । एनादेशोनुदात्तः । किं च - एनान् प्रतिनुदे प्रत्येकं प्रातिलोम्येन वा व्यथयामि अस्मिन् क्षये गृहे । 'क्षयो निवासे' इत्याद्युदात्तत्वम् । 'ऊडिदम्' इतीदमो विभक्तिरुदात्ता । अस्मिन् भूमिलोके पृथिवीस्थाने न गृहमात्र एव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ऽस्मा᳓न्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।  
 वि᳓ष्णोᳵ क्र᳓मेणा᳓त्येनान्क्रामामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,10 +106,14 @@ him who hateth us and him whom we hate I step over him with the stride of Visnu.
 
 योस्मान् द्वेष्टि अविदितमस्माकं, यं च वयं द्विष्मः अविदितं तस्य तावुभावपि भ्रातृव्यौ पीडयामि । किं च - विष्णोः क्रमेण विष्णोरेव वा क्रमेण तेन पूर्वकृतेन साधनभूतेन निरस्य अतिक्रम्य अधितिष्ठामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रे॑ण दे॒वेन॒ पृत॑ना जयामि॒ त्रैष्टु॑भेन॒ छन्द॑सा पञ्चद॒शेन॒ स्तोमे॑न बृह॒ता साम्ना॑ वषट्का॒रेण॒ वज्रे॑ण [10]  स॒ह॒जान्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +121,8 @@ him who hateth us and him whom we hate I step over him with the stride of Visnu.
 इ᳓न्द्रेण देवे᳓न पृ᳓तना जयामि ।   
 त्रै᳓ष्टुभेन छ᳓न्दसा पञ्चदशे᳓न स्तो᳓मेन बृहता᳓ सा᳓म्ना वषट्कारे᳓ण व᳓ज्रेण सहजा᳓न् +++(भ्रा᳓तृव्यान᳓धरान्पादयामि ।  प्र᳓त्येनान्नुदेऽस्मि᳓न्क्ष᳓येऽस्मि᳓न्भूमिलोके᳓ योऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,10 +144,14 @@ By Indra, the god, I win battles, with the Tristubh metre, the Pañcadaśa Stoma
 
 2इन्द्रेणेत्यादि ॥ द्वितीयोतिक्रमः । त्रिष्टुबेव त्रैष्टुभम् । उत्सादित्वात्स्वार्थिकोञ् । पञ्चदशः पञ्चदशस्स्तोत्रीयः । 'स्तोमे डविधिः पञ्चदशाद्यर्थे' इति डः । बृहता साम्ना 'त्वामिद्धि हवामहे' इत्येतद्योनिना । समानमन्यत् । सहजानिति विशेषः । सकुल्याः स्वाभाविका वा । पूर्ववत्सः । 'भ्रातृव्यान्' इत्याद्यनुषज्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्वे॑भिर्दे॒वेभि॒ᳶ पृत॑ना जयामि॒ जाग॑तेन॒ छन्द॑सा सप्तद॒शेन॒ स्तोमे॑न वामदे॒व्येन॒ साम्ना॑ वषट्का॒रेण॒ वज्रे॑णापर॒जान्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +159,8 @@ By Indra, the god, I win battles, with the Tristubh metre, the Pañcadaśa Stoma
 वि᳓श्वेभिर्देवे᳓भिᳶ पृ᳓तना जयामि।  
 जा᳓गतेन छ᳓न्दसा सप्तदशे᳓न स्तो᳓मेन वामदेव्ये᳓न सा᳓म्ना वषट्कारे᳓ण व᳓ज्रेणापरजा᳓न् +++(भ्रा᳓तृव्यान᳓धरान्पादयामि ।  प्र᳓त्येनान्नुदेऽस्मि᳓न्क्ष᳓येऽस्मि᳓न्भूमिलोके᳓ योऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,10 +182,14 @@ By the All-gods I win battles, with the Jagati metre, the Saptadaśa Stoma, the 
 
 3विश्वेभिरिति ॥ तृतीयोतिक्रमः । जगतीशबोप्युत्सादिः । सप्तदशस्तोत्रीयः प्रवसथः । वामदेवेन दृष्टं साम वामदेव्यं, वामदेवाद्यत् । समानमन्यत् । 'कया नश्चित्र आ भुवत्' इत्येतद्योनि वामदेव्यम् । अपरजानिति विशेषः । अपरेण केनचिन्निमित्तेन सजाताश्शत्रवः । स एव सः । पूर्ववद्भ्रातृव्यानित्याद्यनुषज्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ शुक्रामन्थिनः - इन्द्रेणेति गायत्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -170,6 +197,8 @@ By the All-gods I win battles, with the Jagati metre, the Saptadaśa Stoma, the 
 इ᳓न्द्रेण सयु᳓जो वयँ᳓ सासह्या᳓म पृतन्यतः᳓ ।  
 घ्न᳓न्तो वृत्रा᳓ण्यप्रति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,18 +222,23 @@ Smiting the enemy irresistibly.
 
 इन्द्रेण सयुजः संयुक्ता वयं सासह्याम भृशमभिभवेम । यङन्ताद्व्यत्ययेन परस्मैपदम् । पृतन्यतः पृअतनां सङ्ग्राममस्माभिस्सह कर्तुमिच्छतः । क्यचि 'कव्यध्वरपृतनस्य' इति लोपः । घ्नन्तो वृत्राणि वारकाणि परबलानि पापानि वा । अप्रति अप्रतिबलं यथा भवति तथा । 'नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥ [11]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने ते᳓जस् ते᳓नाह᳓न् तेजस्वी᳓ भूयासम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -225,11 +259,14 @@ With the brilliance that is thine, O Agni, may I become brilliant;
 
 5यत्ते अग्ने इत्यादि यजुः ॥ तेजो दीप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने व᳓र्चस् ते᳓नाहव्ँ᳓ वचस्वी᳓ भूयासम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -250,11 +287,14 @@ with the radiance that is thine, O Agni, may I become radiant;
 
 वर्चोन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने ह᳓रस् ते᳓नाहँ᳓ हरस्वी᳓ भूयासम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,5 +317,5 @@ with the splendour that is thine, O Agni, may I become resplendent.
 
 इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
 </details>
-
+</details>
 </div>

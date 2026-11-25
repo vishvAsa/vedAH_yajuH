@@ -8,19 +8,23 @@ title: ०८ संवापादिः
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पिष्टानि संवपति - समिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,13 +57,15 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँ᳓-वपामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,12 +86,16 @@ I pour together.
 
 समित्येकीभावे; सह प्रक्षिपामि । सावित्रशेषश्चायम् । 'अग्नये जुष्टम्' (तै.सं. 1.1.4) इत्यपि लभ्यते ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2प्रणीता मदन्तीरानीयमानाः प्रतिमन्त्रयते - समाप इति वस्वष्टवस्वादित्यपदया उपरिष्टाद्बृहत्या ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/07_sam_Apo.md">
@@ -136,9 +146,12 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अपः परिप्लावयति - अद्भ्य इति गायत्र्यैकपदया यजुरन्तया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +159,8 @@ ____
 अद्भ्यᳶ᳓ प᳓रि प्र᳓जातास् स्थ +++(हे ओषधयः पार्थिवाः!)+++।   
 स᳓मद्भिᳶ᳓ पृच्यध्वम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,11 +186,14 @@ From the waters ye are born, be united with the waters.
 
 हे ओषधयः यूयं अद्भ्यः परिप्रजाताः अद्भ्य एव सर्वास्सम्भूताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम᳓द्भिᳶ पृच्यध्वम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,18 +214,24 @@ be united with the waters.
 
 यस्मादेवं स्थ, तस्मादाभिरद्भिस्सम्पृच्यध्वं सम्पृक्ता भवत । कर्मणि लकारः । अद्भिस्सम्पर्केण युष्माकमभिवृद्धिरिति । 'यथा सुवृष्टे' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना अद्भ्यो विभक्तेरुदात्तत्वम् । प्रकृष्टा जाताः प्रजाता इति प्रादिसमासः प्राचार्यवत् । गतित्वाभावात् अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । यद्वा अन्तर्भावितण्यर्थात् कर्मणि निष्ठायां 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आलोडयति - जनयत्या इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रजानां)+++ ज᳓नयत्यै त्वा सय्ँ᳓यौमि+++(=मिश्रीकरोमि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,12 +252,16 @@ For generation I unite thee.
 
 जनयत्यै प्रजानां जननाय त्वां संयौमि मिश्रीकरोमि । 'अमेरतिः' (उ.सू. 499) इति विधीयमानोऽतिप्रत्ययो बहुलवचनाज्जनेर्ण्यन्तादपि भवति । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति तस्य सार्वधातुकत्वात् णिलोपाभावः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5व्यूह्याभिमृशति - अग्नय इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +269,8 @@ ____
 अग्न᳓ये त्वा +++(ऽभिमृशामि)+++।   
 अग्नी᳓षो᳓माभ्याम् [त्वा]  +++(ऽभिमृशामि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -261,11 +291,14 @@ For Agni thee, for Agni and Soma.
 
 अग्न्यर्थं त्वामभिमृशामीति शेषः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नीषो᳓माभ्याम् [ त्वा ] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,18 +319,24 @@ For Agni and Soma thee!
 
 6अग्नीषोमाभ्यामित्यत्र त्वेत्यनुषज्यते । पूर्ववच्छेषः । अभिमर्शेन चान्यस्माद्व्यावृत्तिः क्रियते ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7पिण्डं करोति - मखस्य शिरोसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मख᳓स्य शि᳓रोऽसि ।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,18 +357,24 @@ Thou art the head of Makha.
 
 यज्ञो वै मखः (तै.ब्रा. 3.2.8), तस्य शिरः मुख्यमङ्गमसि, प्राधान्यात् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अधिश्रयति - घर्म इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घर्मो᳙ ऽसि विश्वा᳓युः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,21 +395,26 @@ Thou art the cauldron that contains all life.
 
 घर्मः प्रवर्ग्य आदित्यो वा, स एवासि, उष्णत्वात् । विश्वमायुर्येन क्रियत इति विश्वायुः, विश्वायुर्नामासि ॥ 'बहुव्रीहौ विश्वं संज्ञायां' (पा.सू. 6.2.106) इति पूर्वपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रथयति
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु᳓ प्रथस्व ।  
 उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,20 +446,25 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 प्रथस्व प्रसर। 
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10श्लक्ष्णीकरोति - त्वचमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓चङ् गृह्णीष्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,12 +485,16 @@ Grasp the skin.
 
 त्वचं गृह्णीष्व त्वचा अतिश्लक्ष्णतनूर्भव । 'सर्वमेवैनँ सतनुम्' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11पर्यग्नि करोति - अन्तरितमिति यजुरादिकयैकपदया गायत्र्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +503,8 @@ ____
 ऽन्त᳓रिता अ᳓रातयः +++(→दिवि᳓ ना᳓को ना᳓माग्नी᳓ रक्षोहा᳓)+++।  
 +++(अप्रदग्धश् च यजमानः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,8 +525,11 @@ I The Raksas is obstructed, the evil spirits are obstructed.
 
 अन्तरितं तिरोहितमपनीतम् । 'अन्तरपरिग्रहे' (पा.सू. 1.4.65) इति गतिसंज्ञिकत्वात् 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । व्याख्यातमन्यत् (तै.सं. 1.1.2) । 'घर्मो वा एषोऽशान्तः' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -476,12 +540,15 @@ ____
 
 － दे॒वस्त्वा॑ सवि॒ता श्र॑पयतु॒ वर्षि॑ष्ठे॒ अधि॒ नाके॒ऽग्निस्ते॑ त॒नुव॒म्माऽति॑ धाक्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स् त्वा सविता᳓ **श्रपयतु**   
 व᳓र्षिष्ठे अ᳓धि ना᳓के+++(=द्युवह्नौ रक्षोहन्त्रे)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -517,11 +584,14 @@ Let the god Savitr make thee ready on the highest firmament.
 
 'पुरोडाशं वा अधिश्रितम्' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓स् ते तनु᳓वम् मा᳓ ऽति धाक् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,20 +614,25 @@ May Agni burn not too much thy body.
 
 'तन्वादीनां छन्दसि बहुलम्' (पा.सू. 6.4.77 वा 1) इति तनोतेरुवङादेशः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13गार्हपत्यमभिमन्त्रयते - अग्न इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने हव्यँ᳓ रक्षस्व ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,25 +654,33 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्यातम् (तै.सं. 1.1.4) ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14भस्मनाभिवासयति - समिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् ब्र᳓ह्मणा पृच्यस्व +++(पशु-सम्बन्धाय, अ-खल्वाटत्वाय च)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,12 +701,16 @@ Be united with our prayer.
 
 ब्रह्मणा बृहता अनेन भस्मना संपृच्यस्व संपृक्तो भव हे पुरोडाश । पृचेः कर्मणि लकारः । 'मस्तिष्को वै पुरोडाशः' (तै.ब्रा. 3.2.8) इत्यादि ब्राह्मणम् । 'पशोर्वै प्रतिमा परोडाशः' (तै.ब्रा. 3.2.8) इति च ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15पात्रनिर्णेजनीरपो निनयति - एकतायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -633,6 +720,8 @@ ____
 त्रिता᳓य स्वा᳓हा ।  
 +++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -661,6 +750,7 @@ Hail to Ekata, hail to Dvita, hail to Trita.
 एकतादयस्संज्ञाशब्दाः 'तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्वाच्याः पित्रादयः अग्निष्वात्तादयः । तेभ्य इमा आहुतयस्सन्त्विति स्वयमेव सरस्वत्याह; न त्वहं मनुष्य इति । एकतोभिपातादस्यास्ति जन्मेत्येकतः । अर्श आदेराकृतिगणत्वादच्प्रत्ययः (पा.सू. 5.2.127) । 'तद्धितश्चासर्वविभक्तिः' (पा.सू. 1.1.38) इत्यव्ययत्वात् 'अव्ययानां भमात्रे टिलोपः' (पा.सू. 4.2.104 वा 2), अस्तिसामानाधिकरण्याभावेपि 'बहुळं छन्दसि' (पा.सू. 5.2.122) इति मत्वर्थीयो दृश्यते । यथा 'सोन्तर्वानभवत्' (तै.ब्रा. 2.2.9) इति । एवं द्वितस्त्रितोपि द्रष्टव्यः । 'देवा वै हविर्भृत्वाऽब्रुवन्' (तै.ब्रा. 3.2.8) इति ब्राह्मणम् ॥
 
 इत्यष्टमोनुवाकः
+</details>
 </details>
 
  इत्यष्टमोनुवाकः  

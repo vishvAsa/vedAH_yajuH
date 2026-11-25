@@ -1,6 +1,8 @@
 +++
 title = "०५ चित्याम् अग्नि-स्थापनादि-मारुत-होमान्तम्"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १, ५ -७ त्रिष्टुप् ।  
@@ -27,6 +29,7 @@ title = "०५ चित्याम् अग्नि-स्थापना�
 ततो नोऽस्मदीयाय द्विपदे चतुष्पदे चोर्जमन्नं धेहि संप्रादय।  
 
 - अथ गमनमन्त्राः - प्राचीमिति त्रिष्टुभौ । विक्रमस्वेति च गायत्री । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/17/66_prAchImanu_pradisham.md">
@@ -127,9 +130,12 @@ Confer strength on our bipeds and quadrupeds.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— क्रमध्वमग्निनेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/02_kramadhvam_agninA.md">
@@ -176,9 +182,12 @@ Do ye eat, mingled with the gods.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— पृथिव्या अहमिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/03_pRthivyA_aham.md">
@@ -226,9 +235,12 @@ Have I attained the heaven, the light [1].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– सुवर्यन्तो नेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/04_suvar_yanto.md">
@@ -277,9 +289,12 @@ The sacrifice, streaming on every side.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह– अग्ने प्रेहीति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/05_agne_prehi.md">
@@ -315,10 +330,13 @@ Let the sacrificers go to heaven, to prosperity.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —    “नक्तोषासाऽग्ने सहस्राक्षेति द्वाभ्यां संहिताभ्यां दध्नः पूर्णामौदुम्वरीं स्वयमातृण्णायां जुहोति” इति।  
 तत्र प्रथमामाह— नक्तोषासेति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/02_naktoShAsA_samanasA.md">
@@ -432,9 +450,12 @@ _______________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— अग्ने सहस्राक्षेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/06_agne_sahasrAkhSha.md">
@@ -471,6 +492,8 @@ To thee as such let us pay homage for strength, hail!
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सु॒प॒र्णो॑ऽसि ग॒रुत्मा॑न्पृथि॒व्याँ सी॑द पृ॒ष्ठे पृ॑थि॒व्यास्सी॑द भा॒साऽन्तरि॑क्ष॒मा पृ॑ण॒ ज्योति॑षा॒ दिव॒मुत्त॑भान॒ तेज॑सा॒ दिश॒ उद्दृँ॑ह ।
@@ -482,11 +505,14 @@ To thee as such let us pay homage for strength, hail!
 “सुपर्णोऽसि गरुत्मानिति तिसृभिः स्वयम् आतृण्णायाम् अग्निं प्रतिष्ठाप्य” इति।  
 तत्र प्रथममाह— सुपर्णोऽसीति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 सुपर्णो᳙ऽसि गरु᳓त्मान् , पृथिव्याँ᳓ सीद,  पृष्ठे᳓ पृथिव्या᳓स् सीद
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -509,10 +535,14 @@ Thou art the winged bird, sit on the earth; sit on the ridge of earth;
 अतोऽस्यां चितिरूपायां पृथिव्यां सीदोपविश।  
 तत्रापि पृथिव्याः पृष्ठ उपविश।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्विदीयामाह— मासाऽन्तरिक्षमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -521,6 +551,8 @@ Thou art the winged bird, sit on the earth; sit on the ridge of earth;
 ते᳓जसा दि᳓श **उ᳓द्दृँह** ।  
 ज्यो᳓तिषा दि᳓वम् **उ᳓त्तभान**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -548,6 +580,7 @@ with thy brilliance make firm the quarters.
 ज्योतिषा स्वकीयेन सामर्थ्येन दिवं द्युलोकमुत्तभानोर्ध्वं स्तम्भितं कुरु।  
 तथा तेजसा स्वकीयेन सामर्थ्थेन दिशः प्राच्यादिका उद्दृंहोत्कर्षेण दृढी कुरु।  
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 
@@ -561,9 +594,12 @@ with thy brilliance make firm the quarters.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— आजुह्वानः सुप्रतीक इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
@@ -599,10 +635,13 @@ O All-gods [3], do ye sit with the sacrificer.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “प्रेद्धो अग्ने दीदिहि पुरो न इत्यौदुम्बरीं समिधमादधाति” इति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/001/03_preddho_agne.md">
@@ -907,10 +946,13 @@ Entflammt, o Agni, strahle uns vor Augen mit deinem Licht, das nie verlischt, o 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “विधेम ते परमे जन्मन्नग्न इति वैकङ्कतीम्” इति।  
 समिधमादधातीत्यनुवर्तते।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/009/03_vidhema_te.md">
@@ -1281,9 +1323,12 @@ Wir huld'gen, Agni, dir in höchster Heimath, mit Liedern dir im untersten Berei
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “ताँ सवितुर्वरेण्यस्य चित्रामिति शमीमयीम्” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/08_tAM_savitur.md">
@@ -1336,9 +1381,12 @@ Streaming with a thousand (draughts) of milk [4].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “द्वादशगृहीतेन स्त्रुचं पूरयित्वा सप्त ते अग्ने समिधः सप्त जिह्णा इति सप्तवत्या पूर्णाहुतिं जुहोति” इति।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
@@ -1401,6 +1449,8 @@ Seven birthplaces with ghee do thou fill.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —    
@@ -1419,6 +1469,7 @@ Seven birthplaces with ghee do thou fill.
 
 पाठस्तु– ईदृङ्चान्यादृङिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
@@ -1432,6 +1483,8 @@ Seven birthplaces with ghee do thou fill.
 
 न **ऊत᳓ये** स᳓भरसो मरुतः! 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1470,10 +1523,14 @@ Seven birthplaces with ghee do thou fill.
 ईदृक्षास इत्यादीनि चत्वारि नामधेयानि, सोऽयं पञ्चमो गणः।  
 हे गणपञ्चकस्था मरुत एतेन समुच्चयेन वर्तन्ते [ माना ] यूयं सर्व समुच्चित्य सुष्ठु नोऽस्मान् प्रत्यायच्छत।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मि॒तास॑श्च॒ सम्मि॑तासश्च न ऊ॒तये॒ सभ॑रसो मरुतो य॒ज्ञे अ॒स्मिन्निन्द्र॒न्दैवी॒र्विशो॑ म॒रुतोऽनु॑वर्त्मानो॒ यथेन्द्र॒न्दैवी॒र्विशो॑ म॒रुतोऽनु॑वर्त्मान ए॒वमि॒मय्ँयज॑मान॒न्दैवी॑श्च॒ विशो॒ मानु॑षी॒श्चानु॑वर्त्मानो भवन्तु ॥ [26]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -1485,6 +1542,8 @@ Seven birthplaces with ghee do thou fill.
 एव᳓म् इमय्ँ᳓ य᳓जमानन्  
 दै᳓वीश् च वि᳓शो मा᳓नुषीश् **चा᳓नुवर्त्मानो भवन्तु** ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1513,6 +1572,7 @@ On Indra attend the divine folk, the Maruts; even as the divine folk, the Maruts
 एवं दैव्यो मानुष्यश्च सर्वाः प्रजा  
 इमं यजमानमनुसृत्य वर्तमाना भवन्तु।    
 एतैर्मन्त्रैः साध्या मारुतहोमा उपरि विधास्यते।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

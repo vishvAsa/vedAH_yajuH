@@ -1,9 +1,12 @@
 +++
 title = "नक्षत्रोपहोमाः"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ब्राह्मणाभ्याम् उद्धृतम्। 
+</details>
 </details>
 
 ## कृत्तिकाः - अग्निः

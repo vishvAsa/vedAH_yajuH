@@ -4,9 +4,12 @@ title = "०५ मैत्रावरुणग्रहः"
 
 गायत्री । सोमऋषिः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1मैत्रावरुणं गृह्णाति - अयं वामिति गायत्र्या त्रिपदया ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/041/04_ayaM_vAM.md">
@@ -282,11 +285,12 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,21 +317,25 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसि मित्रावरुणाभ्यां त्वेति गृह्णाति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,13 +362,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणाभ्यान्त्वा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,19 +391,24 @@ to Mitra and Varuna thee!
 
 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर् ऋतायुभ्यां त्वेति सादयति ॥   
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,13 +429,15 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतायु᳓भ्यान्त्वा ॥  [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -440,6 +457,7 @@ to the righteous thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ऋतं सत्यं यज्ञं वा आत्मनो यजमानानां वा इच्छतीति **ऋतायुः** । ' छन्दसि परेच्छायामापै' इति क्यच्, 'न च्छन्दस्यपुत्रस्य' इतीत्वप्रति षेधः, 'क्याच्छन्दसि' इत्युप्रत्ययः । 'मित्रं देवा अब्रुवन्'  इत्यादि ब्राह्मणम्  । 'सोब्रवीद्वरं वृणै मह्यं चैवैष मित्राय च' इत्यादि च । 'तावब्रूतां वरं वृणावहा एक एवावत्पूर्वो ग्रहो गृह्यातै' इत्यादि च ॥
+</details>
 </details>
 
 इति चतुर्थे पञ्चमः ॥  

@@ -6,6 +6,8 @@ short_title = "०४"
 ५ अनुष्टुप् । सोमऋषिः
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1हिरण्यं स्रुच्यवदधाति - इयमिति ॥
@@ -25,11 +27,14 @@ ________
 
 इ॒यन्ते॑ शुक्र त॒नूरि॒दव्ँवर्च॒स्तया॒ सम्भ॑व॒ भ्राज॑ङ्गच्छ
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्रुग्)+++ इय᳓न् ते +++(हे)+++ शुक्र+++(=शुद्ध [हिरण्य])+++ तनूः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,11 +110,14 @@ This is thy body, O pure one.
 
 निःशेषेण सहसा मोचन-योग्यं निष्टर्क्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदव्ँ᳓ व᳓र्चः,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +133,14 @@ This is thy splendour.
 
 इ॒दम् । वर्चः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या स᳓म्भव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,11 +156,14 @@ With it be united.
 
 तया॑ । समिति॑ । भ॒व॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓जङ् गच्छ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,8 +188,11 @@ Win brightness.
 
 'आपो वरुणस्य पत्नय आसन्' इत्यादिरस्य शेषः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तदाज्यमाहवनीये जुहोति - जूरसीति ॥
@@ -196,11 +213,14 @@ ________
 
 जूर॑सि धृ॒ता मन॑सा॒ जुष्टा॒ विष्ण॑वे॒ तस्या॑स्ते स॒त्यस॑वसᳶ प्रस॒वे वा॒चो य॒न्त्रम॑शीय॒ स्वाहा॑
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जू᳓र्+++(=गन्त्री [सोमक्रयणि वाग्-रूपे गौः])+++ असि, धृता᳓ म᳓नसा, जुष्टा वि᳓ष्णवे,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -267,6 +287,7 @@ Thou art the strong, grasped by mind, acceptable to Visnu.
 
 जवते तूर्णं कर्तव्यम् इत्य् अवगच्छति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -274,6 +295,8 @@ Thou art the strong, grasped by mind, acceptable to Visnu.
 वाचो᳓ यन्त्र᳓म्+++(=यमनम्)+++ अशीय+++(=प्राप्नुयाम्)+++  
 स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,8 +319,11 @@ In the impulse of thee, of true impulse, may I win a support for my speech. Hail
 
 'सवितृप्रसूतामेव वाचमवरुन्धे' इति ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -320,6 +346,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -327,6 +354,8 @@ ________
 अ᳓मृ᳓तम् असि,  
 वैश्वदेवँ᳓ हविः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -362,8 +391,11 @@ thou art the sacrifice for all the gods.
 
 शुक्रं दीप्तिमत्। अमृतं नाश-रहितम्। हे आज्य, हे हिरण्येति वा योज्यम्। हे आज्य, त्वं सर्व-देव-प्रियं हविर् असि। तद् इदं स्पष्टत्वाद् न ब्राह्मणे व्याख्यातम्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4हिरण्यमन्तर्धाय यजमानमादित्यमुदीक्षयति - सूर्यस्येति चतुष्पदयानुष्टुभा ।
@@ -377,6 +409,7 @@ ________
 > “अथैनद् धिरण्यम् अन्तर्धायादित्यम् उदीक्षयति 'सूर्यस्य चक्षुर् आरुहम् अग्नेर् अक्ष्णः कनीनिकां यद् एतशेभिर् ईयसे भ्राजमानो विपश्चिता' इति” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/04_somakrayaNI-saMskArAdikam/02_sUryasya_chakhShur.md">
@@ -449,6 +482,8 @@ Blazing with the wise.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमक्रयणीम् अनुमन्त्रयते।
@@ -468,6 +503,7 @@ ________
 
 आपस्तम्बस् तु त्रेधा विभज्य विनियुङ्क्ते — “'चिद् असि मनासीति' सोम-क्रयणीम् अभिमन्त्रयते, कर्ण-गृहीता पदि-बद्धा भवति, 'मित्रस् त्वा पदि बध्नात्व्' इति दक्षिणं पूर्व-पादं प्रेक्षते, 'पूषाध्वनः पात्व्' इति प्राचीम् आयतीम् अनुमन्त्रयते” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -480,6 +516,8 @@ ________
 क्षत्रि᳓या ऽसि ।  
 अ᳓दितिर् असि, उभय᳓तश् शीर्ष्णी+++(=उभयतश्शिरस्का [यज्ञानाम् आद्यन्तयोᳶ प्रधानभूतत्वात्])+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,11 +605,14 @@ thou art Aditi, double-headed.
 
 मनसा वृत्ति-त्रय-साधारणेनान्तः-करणेन चेतयते सामान्यतो जानात्य् अभिगच्छति विचारयति ध्यायति निश्चिनोति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ नः +++(सोमक्रयणे)+++ सु᳓प्राची +++(ततः प्रत्यामननेन)+++ सु᳓प्रती᳓ची᳓ स᳓म्भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -593,11 +634,14 @@ Be thou successful for us in going, successful in returning.
 तादृशी त्वं नस्सम्भव सङ्गच्छ स्वात्मनाऽस्मत्सकाशे वर्तस्व । यद्वा - नः अस्माकं सम्भव, मा कदाचिदुपेक्षिष्ठाः ।   
 कथंभूतेत्याह – सुप्राची सुप्रतीची च भूत्वा ।  प्रागञ्चतीति प्राची । सोमक्रयणं प्रति प्रथमं प्राचीनगतिर्भूत्वा पुनरपि प्रतीची अस्मत्सकाशं प्रत्यागता भूत्वास्माकमेव भवेति । 'ऋत्विक्' इत्यादिनाऽञ्चेः क्विन्प्रत्ययः । 'अञ्चतेश्चोपसङ्ख्यानम्' इति ङीप्, नकाराकारयोर्लुप्तयोः 'चौ' इति दीर्घः । ततश्शोभना प्राची शोभना प्रतीची । 'प्रादिप्रसङ्गे कर्मप्रवचनीयानां प्रतिषेधः' इति प्राप्ते, 'स्वती पूजायाम्' इति प्रादिसमासः, 'सुः पूजायाम्' इति कर्मप्रवचनीयत्वेन  गतित्वाभावादव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्र᳓स् त्वा पदि᳓+++(=पादे)+++ बध्नातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -631,11 +675,14 @@ May Mitra bind thee by the foot.
 
 अत्र पाद-बन्धनं कर्ण-ग्रहणं चामन्त्रकम् अङ्गीचकारेत्य् अविरोधः। अथवा, 'अकर्ण-गृहीता', 'अपदि-बद्धेति पद-च्छेदः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ ऽध्वनᳶ +++(भयहेतोः)+++ पातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -656,16 +703,22 @@ May Pusan guard the ways.
 
 अपिच – पूषा त्वामध्वनो मार्गान्मार्गस्थाद्भयहेतोः पातु ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रा॒याध्य॑क्षा॒यानु॑ त्वा मा॒ता म॑न्यता॒मनु॑ पि॒ताऽनु॒ भ्राता॒ सग॒र्भ्योऽनु॒ सखा॒ सयू॑थ्यः॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राया᳓ध्यक्षाया᳓नु
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -686,11 +739,14 @@ For Indra, the overseer!
 
 तृतीय-मन्त्रस्यायम् अर्थः — हे सोम-क्रयणि, त्वां पूषा पोषको देवो भयोपेतान् मार्गात् पालयतु। यागाध्यक्षायेन्द्राय त्वां सोम-क्रय-साधनेन माता-पित्रादयो ऽनुमन्यन्ताम्। स-गर्भ्यस् त्वया सहैकस्मिन् गर्भे ऽवस्थितः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वा᳓ माता᳓ मन्य᳓ता᳓म्, अ᳓नु+++(मन्यताम्)+++ पिता᳓, अ᳓नु+++(मन्यताम्)+++ भ्रा᳓ता स᳓गर्भ्यः, अनु +++(मन्यतां)+++ स᳓खा स᳓यूथ्यः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -719,11 +775,14 @@ May thy mother approve thee, thy father, thy brother sprung of the same womb, th
 
 सखा चानुमन्यताम् । कीदृशः सयूथ्यः समाने यूथे भवः, सगर्भ्यवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ देवि देव᳓म् अ᳓च्छेही᳓न्द्राय सो᳓मम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -749,11 +808,14 @@ Go, goddess, to the god, to Soma for Indra's sake.
 
 हे देवि, सा त्वम् इन्द्रार्थं सोमं देवम् अनुगच्छ। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्र᳓स् त्वा᳓ ऽऽवर्तयतु +++(कृतकृत्यानस्मान्प्रति)+++ मित्र᳓स्य पथा᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -779,11 +841,14 @@ May Rudra guide thee hither in the path of Mitra.
 
 तां त्वां रुद्रो देवो ऽस्मान् प्रति पुनर् आवर्तयतु। आवर्तयन्न् अपि न रौद्रेण मार्गेण किंतु मित्रस्य पथा। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्ति᳓ सो᳓म-सखा पु᳓नर् ए᳓हि सह᳓ रय्या᳓ ॥+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -805,7 +870,10 @@ Hail! Return with Soma as thy comrade, with wealth.
 हे सोमक्रयणि त्वं च स्वस्ति अविघ्नेन पुनरेव सोमविक्रयिणस्सकाशात् अस्मत्सकाशमेह्यागच्छ ।  
 कीदृशी भूत्वा? सोमसखा भूत्वा, सोमस्सखा यस्यास्तादृशी भूत्वा, सोमेन सख्या सहागच्छेत्यर्थः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अत एव टजभावः । अपिच – रय्या धनेनास्मदीयेन सहागच्छ । 'उदात्तयणो हल्पूर्वात् इति विभक्तेरुदात्तत्वम् । 'वाचा वा एष वि क्रीणीते' इत्यादि ब्राह्मणम्॥
 </details>
+</details>
 इति द्वितीये चतुर्थोनुवाकः
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -818,4 +886,5 @@ Hail! Return with Soma as thy comrade, with wealth.
 इति।
 
 समष्ट्यै सम्यक्-प्राप्तये। 'एतद् रुद्रस् त्वेति' यजुः। तम् एव क्रूरं रुद्रम्। अस्याः सोम-क्रयण्या आवृत्तये परस्तात् ताम् अतिलङ्घ्य पर-भागे स्थापयति। अनुपदासुका क्षय-रहिता, तद् एतद् वेतनस्य प्रशंसनम्।
+</details>
 </details>

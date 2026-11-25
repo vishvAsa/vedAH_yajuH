@@ -162,6 +162,8 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 
 ## गायत्री
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 आयात्विति गायत्र्यावाहने अनुष्टुप् यजुरन्ता ॥
@@ -170,6 +172,7 @@ title = "सन्ध्या-वन्दनादि-मन्त्र-स�
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 संध्यात्रये मार्जनादूर्ध्वं गायत्र्या आवाहनमन्त्रमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/01_AyAtu_varadA.md">
@@ -238,6 +241,8 @@ May Gayatri, the boon-giving goddess, the mother of the metres come to me, the i
 ओ᳓जोऽसि।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>त्रिभुवनः</summary>
 
 you are the brightness,
@@ -266,11 +271,14 @@ you are the brightness,
 
 हे गायत्रि देवि त्वमोजोऽसि बलहेतुभूताष्टमधातुरूपाऽसि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 स᳓होऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -286,11 +294,14 @@ you are the tolerable one,
 
 सहोऽसि शत्रूणामभिभवनशक्तिरसि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 ब᳓लमसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -306,11 +317,14 @@ you are the power,
 
 बलमसि शरीरगतव्यवहारसामर्थ्यरूपाऽसि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 भ्रा᳓जोऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -326,11 +340,14 @@ you are the shining,
 
 भ्राजोऽसि दीप्तिरूपाऽसि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 देवा᳓नान् धा᳓म ना᳓मासि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -346,12 +363,15 @@ you are the nature of the places of the gods,
 
 देवानामग्नीन्द्रादीनां धाम तेजो यदस्ति तन्नामाऽसि तदेव तव नामेत्यर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 वि᳓श्वम् असि विश्वा᳓युस्,  
 स᳓र्वम् असि सर्वा᳓युः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -378,11 +398,14 @@ you are all, you are all, all life,
 
 विश्वं सर्वजगद्रूपं त्वमेवासि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः (स्वराः व्यत्यस्ताः 2/5)</summary>
 
 अभिभू᳓र् [ओ᳓ङ् गायत्री᳓म् आ᳓वाहयामि । (41)]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -407,6 +430,7 @@ winner, Om, I invoke Gayatri.
 
 विश्वायुः संपूर्णायुःस्वरूपाऽसि। उक्तस्यैव व्याख्यानं सर्वमसि सर्वायुरिति। अभिभूः सर्वस्य पापस्य तिरस्कारहेतुरो प्रणवप्रतिपाद्यः परत्माऽसि। तादृशीं गायत्रीं मदीये मनस्यावाहयामि।
 </details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md">
@@ -418,6 +442,8 @@ winner, Om, I invoke Gayatri.
 
 ## सविता
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/27_sashiro_gAyatrI">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रणवव्याहृतिशिरोभिः सहिता सावित्री प्राणायामार्था ।
@@ -431,11 +457,14 @@ winner, Om, I invoke Gayatri.
 
 गायत्र्या आवाहनादूर्ध्वं प्राणायामार्थं मन्त्रमाह —
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -449,20 +478,20 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ओ᳓म् (*TK*-1)
-- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
-- ओ᳓म् (*TK*-1)
-- भु᳓वः (*TS*-17, *RV*-25, *TK*-3; पा॰ ६.१.१९७)
-- ओ᳓म् (*TK*-1)
-- सु᳓वः (*TS*-67, *TB*-12; पा॰ ६.१.१९७)
-- ओ᳓म् (*TK*-1)
-- म᳓हः (*TS*-6/35, *RV*-8/255, *TB*-14/29, *AV*-11/39, *SB-M*-11/24, *VS-M*-2/33; पा॰ ६.१.१९७)
-- ओ᳓म् (*TK*-1)
-- ज᳓नः (*TS*-3/33, *RV*-31/298, *TB*-0/14, *AV*-9/92, *SB-M*-3/16, *VS-M*-4/15; पा॰ ६.१.१९७)
-- ओ᳓म् (*TK*-1)
-- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *VS-M*-0/8; पा॰ ६.१.१९७)
-- ओ᳓म् (*TK*-1)
-- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *VS-M*-4/17; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5, *SB-K*-32, *VS-K*-9)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3, *SB-K*-30, *VS-K*-9; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- सु᳓वः (*TS*-67, *TB*-12, *SB-K*-117, *VS-K*-22; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- म᳓हः (*TS*-6/35, *RV*-8/255, *TB*-14/29, *AV*-11/39, *SB-M*-11/24, *SB-K*-18/34, *VS-M*-2/33, *VS-K*-3/34; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- ज᳓नः (*TS*-3/33, *RV*-31/298, *TB*-0/14, *AV*-9/92, *SB-M*-3/16, *SB-K*-4/26, *VS-M*-4/15, *VS-K*-4/20; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *SB-K*-56/89, *VS-M*-0/8, *VS-K*-4/15; पा॰ ६.१.१९७)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *SB-K*-129/184, *VS-M*-4/17, *VS-K*-3/18; पा॰ ६.१.१९७)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -475,6 +504,7 @@ Om Bhuh, Om Bhuvah, Om Suvah, Om Mahah, Om Janah, Om austerity, Om truth; Om
 <details><summary>सायण-टीका</summary>
 
 भूरादयः सत्यान्ता लोकप्रतिपादिकाः सप्त व्याहृतयः। तेषां च लोकनां प्रणवप्रतिपाद्यब्रह्मस्वरूपत्वविवक्षया प्रत्येकं प्रणवोच्चारण्। सत्सवितुरित्यादिको गायत्री मन्त्रः। तत्प्रतिपाद्यस्य ब्रह्मत्वविवक्षया तदादौ प्रणवोच्चरणम्।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
@@ -1260,6 +1290,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्सवितुरिति सावित्री त्रिपदा निचृद्गायत्रीछन्दस्का अक्षरोनत्वादस्याः ! विश्वामित्रस्यार्षेयम् । सविता देवता । अस्यास्तु प्रणवव्याहृतिसहिताया उपनयनादिषु च विनियोग उक्तः ! प्रणवः स्वयम्भुवो ब्रह्मण आर्षेयम् । देवी गायत्री छन्दः 'देवानामेकं' इति वचनान् । परमात्मा वाच्या देवता । तात्पर्यप्रतिपाद्यं परब्रह्माधिदैवतम् । अनेन वाचकनोत्थापितसंस्कारः परमात्मा साधकाभिमुखो भूत्वा प्रणवाग्रस्थं परं ब्रह्म दर्शयति । यथोक्तम् -  
@@ -1276,10 +1308,14 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 मन्त्रस्य चायमर्थ: — सवितुः प्रेरकस्यान्तर्यामिणो देवस्य वरेण्यं वरणीयं श्रेष्ठं तद्भर्गस्तेजो धीमहि ध्यायेम। यः सविता परमेश्वरो नोऽस्मदीया धियो बुद्धिवृत्तीः प्रचोदयात्प्रकर्षेण तत्त्वबोधे प्रेरयतु।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ ओमाप इत्यादि शिरः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1288,6 +1324,8 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  
 भू᳓र् भु᳓वस् सु᳓वर् ओ᳓म् । (42)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1301,16 +1339,16 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ओ᳓म् (*TK*-1)
-- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *TK*-3/4, *AV*-141/324, *SB-M*-80/116, *VS-M*-9/26)
-- ज्यो᳓तिः (*TS*-117/199, *RV*-99/148, *TB*-22/50, *AV*-43/66, *SB-M*-8/28, *VS-M*-9/23)
-- र᳓सः (*TS*-32/52, *RV*-15/42, *TB*-9/20, *AV*-9/27, *SB-M*-101/164, *VS-M*-2/7)
-- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *SB-M*-6/18)
-- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *VS-M*-22/37)
-- भूः᳓ (*TS*-9, *RV*-3, *TB*-5)
-- भु᳓वः (*TS*-17, *RV*-25, *TK*-3)
-- सु᳓वर् (*TB*-8)
-- ओ᳓म् (*TK*-1)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
+- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *TK*-3/4, *AV*-141/324, *SB-M*-80/116, *SB-K*-333/744, *VS-M*-9/26, *VS-K*-24/63)
+- ज्यो᳓तिः (*TS*-117/199, *RV*-99/148, *TB*-22/50, *AV*-43/66, *SB-M*-8/28, *SB-K*-134/174, *VS-M*-9/23, *VS-K*-23/53)
+- र᳓सः (*TS*-32/52, *RV*-15/42, *TB*-9/20, *AV*-9/27, *SB-M*-101/164, *SB-K*-184/308, *VS-M*-2/7, *VS-K*-6/10)
+- अमृ᳓तम् (*TS*-35/64, *RV*-45/187, *TB*-6/12, *AV*-38/96, *SB-M*-6/18, *SB-K*-196/312, *VS-K*-9/20)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *SB-K*-285/434, *VS-M*-22/37, *VS-K*-26/44)
+- भूः᳓ (*TS*-9, *RV*-3, *TB*-5, *SB-K*-32, *VS-K*-9)
+- भु᳓वः (*TS*-17, *RV*-25, *TK*-3, *SB-K*-30, *VS-K*-9)
+- सु᳓वर् (*TB*-8, *SB-K*-117, *VS-K*-22)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1330,6 +1368,7 @@ Om, the waters, the light, the elixir, the nectar, Brahman, Bhuh, Bhuvah, Suvah,
 - प्राणायामे पूरणे व्याहृतयः।  
 - कुम्भके गायत्रीमन्त्रः।
 - रेचके / ‌निःस्वासे पुच्छम्।
+</details>
 </details>
 </div>
 

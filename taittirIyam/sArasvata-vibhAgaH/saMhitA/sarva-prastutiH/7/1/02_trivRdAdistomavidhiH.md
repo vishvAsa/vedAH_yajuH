@@ -2,17 +2,22 @@
 title = "०२ त्रिवृदादिस्तोमविधिः "
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 (स्तोमप्रशंसा )  
 
 सोमऋषिः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रातस्-सवने᳓ वै᳓ गायत्रे᳓ण छ᳓न्दसा त्रिवृ᳓ते स्तो᳓माय ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,11 +39,14 @@ At the morning pressing he keeps glorifying the Trivrt Stoma by the Gayatri metr
 1इदानीं पुरुषमिव प्राणाः त्रिवृदादयो यज्ञाङ्गसाहित्येन भवन्तीति प्रतिपादयितुमाह - प्रातस्सवन इत्यादि ॥
 अयं यज्ञः प्रातस्सवने गायत्रोग छन्दसा त्रिवृत्सम्बन्धिना ज्योतिर्दीप्तिं दधत् त्रिवृते स्तोमाय गच्छति त्रिवृत्सकाशं गच्छति गायत्रत्वात्प्रातस्सवनस्य । गायत्र्येव गायत्रम् । 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इत्ययम् । छन्दोग्रहणं सामनिवृत्त्यर्थम् । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणस्सम्प्रदानत्वम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓ता ब्रह्मवर्चसे᳓न पञ्चदशा᳓य +++(स्तोमाय)+++ ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,11 +67,14 @@ the Pañcadaśa Stoma by the Trivrt, which is splendour;
 
 यावत्त्रिवृद्गायत्र्यन्वयाज्ज्योतिष्मान् भवति यज्ञः ततस्त्रिवृता ब्रह्मवर्चसनिमित्तेन ज्योतिर्दधत् पञ्चदशाय स्तोमायैति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च᳓दशे᳓नौ᳓जसा वीर्ये᳙ण सप्तदशा᳓य +++(स्तोमाय)+++  ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,11 +95,14 @@ the Saptadaśa by the Pañcadaśa which is force and strength;
 
 ओजोवीर्यहेतुना पञ्चदशेन ज्योतिर्दधत् सप्तदशायैति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓प्त᳓दशे᳓न प्राजापत्ये᳓न प्रज᳓ननेनैकविँशा᳓य +++(स्तोमाय)+++  ज्यो᳓तिर् द᳓धद् एति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,11 +123,14 @@ the Ekavinśa by the Saptadaśa which is connected with Prajapati and causes beg
 
 ततः प्रजननहेतुना प्राजापत्येन सप्तदशेन ज्योतिर्दधत् एकविंशायैति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तो᳓म एव᳓ त᳓त् स्तो᳓माय ज्यो᳓तिर् द᳓धदेति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -134,11 +151,14 @@ Verily thus Stoma glorifies Stoma;
 
 तस्मात्स्तोम एव भूत्वा ज्योतिर्दधदयं यज्ञः स्तोमायोत्तरस्मै एति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो स्तो᳓म एव᳓ स्तो᳓मम् अभि᳓ प्र᳓ णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,6 +179,7 @@ verily also Stoma leads Stoma forth.
 
 अथो अपि च अयमेव यज्ञः स्तोमे पञ्चदशादिके स्तोमं त्रिवृदादिकमभि प्रणयति आभिमुख्येन नयति अतस्स्तोमाधनिमस्य सर्वफलसाधनत्वामिति ॥
 </details>
+</details>
 
 ## फलस्तुतिः
 
@@ -166,6 +187,8 @@ verily also Stoma leads Stoma forth.
 
 या᳓वन्तो वै᳓ स्तो᳓माः,  ता᳓वन्तᳵ का᳓माः , ता᳓वन्तो लोकाः᳓ , ता᳓वन्ति ज्यो᳓तीँषि +++(ब्रह्मवर्चसादीनि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,11 +213,14 @@ As many as are the Stomas, so many are desires, so many the worlds, so many the 
 तावन्ति कामलोकज्योतींषि तत्रैव समाप्तानि ।
 कामाः धनपुत्रादयः । लोकाः स्वर्गादयः । ज्योतींषि तेजांसि ब्रह्मवर्चसादीनि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वत एव᳓ स्तो᳓मान्, एता᳓वतᳵ का᳓मान् , एता᳓वतो लोका᳓न् , एता᳓वन्ति ज्यो᳓तीँष्य᳓व रुन्द्धे+++(=लभते)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,4 +242,5 @@ verily so many Stomas, so many desires, so many worlds, so many lights does he w
 एतावत इत्यादि । एतावत्परिमाणान्यभिमतस्तोमादिनाऽरुन्धे लभते । एतत्स्तोमसाध्यानि सर्वाण्यपि एवमादीन्यवरुन्धे । तदेवाह - एतावत इत्यादि । एतत्स्तोमसाध्यानि सर्वाण्यपि कामलोकज्योतींषि अवरुन्धे इत्यर्थः । कः? पूर्वानुवाकशेषत्वात् 'योग्निष्टोमेन यजते' इति गम्यते ॥
 
 इति सप्तमे प्रथमे द्वितीयोनुवाकः ॥  
+</details>
 </details>

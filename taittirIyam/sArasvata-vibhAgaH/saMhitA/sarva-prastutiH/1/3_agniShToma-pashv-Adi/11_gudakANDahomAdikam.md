@@ -6,15 +6,20 @@ title = "११ गुदकाण्डहोमादिकम्"
 सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1उपयष्टोपयनति +++(आन्त्रनालखण्डम् सुशोधितस्य)+++ गुदस्य प्रच्छेदात् - समुद्रं गच्छ स्वाहेत्येकादशभिर्मन्त्रैः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्र᳓ङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,12 +40,15 @@ Go to the ocean, hail!
 
 समुद्रादिशब्दवाच्याश्च देवताः प्रसिद्धाः । गुदावदानं चेह गच्छेत्युच्यते । समुद्रवाच्यां देवतां गच्छ, स्वाहा करोमीति शेषः, समुद्राय त्वा स्वाहुतं करोमीति । एवमन्तरिक्षादिष्वपि योज्यम् । 'समुद्रं गच्छ स्वाहेत्याह रेत एव तद्दधाति' `इति ब्राह्मणम् । प्रजावृद्धिहेतुत्वादुपयजामेवमुक्तम् । 'यज्ञेन वै प्रजापतिः प्रजा असृजत ता उपयड्भिरेव' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,17 +69,23 @@ Go to the atmosphere, hail!
 
 2अन्तरिक्षं प्रजानां प्रजननं, 'अन्तरिक्षं ह्यनु प्रजाः प्र जायन्ते' ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3सविता देवस्सर्वस्य प्रेरकः, तेन सवित्रा प्रसूत एवास्मै प्रजाः प्रजनयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवँ᳓ सविता᳓रङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,12 +101,15 @@ Go to god Savitr, hail!
 
 दे॒वम् । स॒वि॒तार॑म् । ग॒च्छ॒ । स्वाहा॑ । 
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रे᳓ गच्छ᳓  स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,12 +130,15 @@ Go to day and night, hail!
 
 4अहोरात्रे प्रजानामाधारत्वेन जन्महेतू, 'अहोरात्रे ह्यनु प्रजाः प्र जायन्ते' । 'अहस्सर्वैकदेश' इत्यच्समासान्तः, 'हेमन्तशिशिरावहोरात्रे' इति निपात्यते ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणौ गच्छ स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,12 +159,15 @@ Go to Mitra and Varuna, hail!
 
 5प्रजानां प्राणापानौ मित्रावरुणौ । तेन 'प्रजास्वेव प्रजातासु प्राणापानौ दधाति' । 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,12 +188,15 @@ Go to Soma, hail!
 
 6सोमः प्रजानां देवता, 'सौम्या हि देवतया प्रजाः' इति ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓ङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,12 +217,15 @@ Go to the sacrifice, hail!
 
 7यज्ञः प्रजानामभ्युदयकारी । तेन 'प्रजा एव यज्ञियाः करोति' इति ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दाँसि गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,12 +246,15 @@ Go to the meters, hail!
 
 8छन्दांसि स्वयं पशवः, तेन पशूनेवावरुन्धे यजमानः प्रजानामेव पुष्ट्यर्थम् ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्या᳓वापृथिवी᳓ गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,12 +275,15 @@ Go to the sky and the earth, hail!
 
 9द्यावापृथिव्यौ प्रजानां वृद्धिहेतू, तेन 'प्रजा एव प्रजाता द्यावापृथिवीभ्यामुभयतः परि गृह्णाति' इति । 'दिवो द्यावा' इति द्यावादेशः, पूर्ववदुभयपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓भो दिव्य᳓ङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,12 +304,15 @@ Go to the clouds of the sky, hail!
 
 10नभस्सलिलम् । दिवे हितं दिव्यं देवेभ्यो हितं सस्याद्युत्पत्तिहेतुत्वेन यागहेतुत्वात् वर्षजलमुच्यते, 'प्रजाभ्य एव प्रजाताभ्योवृष्टिं नि यच्छति' इति । समुर्द्रे निषेकः । तस्य दिव्येव रक्षा 'भवे छन्दसि' इति यप्रत्ययः ॥
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निव्ँ᳓ वैश्वानर᳓ङ्गच्छ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,8 +333,11 @@ Go to Agni Vaiśvanara, hail!
 
 11विश्वेषां नराणाम् सम्बन्धी अग्निर्वैश्वानरो जाठर उच्यते । तेन 'प्रजा एव प्रजाता अस्यां प्रतिष्ठापयति' इति । आयुष्मतीः करोति । 'नरे संज्ञायाम्' इति पूर्वपदस्य दीर्घत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥ 
@@ -306,11 +347,14 @@ _______
 
 अद्भ्यस्त्वौष॑धीभ्यो॒ मनो॑ मे॒ हार्दि॑ यच्छ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(गुदावदानलेप!)+++ अद्भ्य᳓स्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -326,11 +370,14 @@ To the waters thee!
 
 अ॒द्भ्य इत्य॑त्-भ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वौ᳓षधीभ्यः +++(निमार्ज्मि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,16 +393,22 @@ To the plants thee!
 
 त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12बर्हिषि हस्तौ निमार्ष्टि - अद्भ्यस्त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो मे हा᳓र्दि यच्छ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -388,8 +441,11 @@ Give me mind and heart!
 
 'प्राणानां वा एषोऽवद्यति योऽवद्यति गुदस्य मनो मे' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13धूमम् अन्वीक्षते - तनूमिति ॥
@@ -399,11 +455,14 @@ _______
 
 त॒नून्त्वच॑म्पु॒त्त्रन्नप्ता॑रमशीय।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तनू᳓न् त्व᳓चम् पुत्त्र᳓न् न᳓प्तारम् अशीय।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -424,8 +483,11 @@ May I acquire body, skin, son, and grandson.
 
 शोभनतन्वादीनामाशासनस्य युक्तस्वात् शोभनास्तन्वादयो गृह्यन्ते । तन्वादीनि शौभनान्यशीय प्राप्नुयाम् । अश्नोतेर्लिङि 'बहुलं छन्दसि' इति शपो लुक्, सीयुडादि । 'कृषिचमितनि' इत्यादिना तनोतेरूप्रत्ययः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14हृदय-शूलम् उद्वासयति - शुगसीति ॥ 
@@ -435,6 +497,7 @@ _______
 
 शुग॑सि॒ तम॒भि शो॑च॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्मः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -442,6 +505,8 @@ _______
 त᳓म् अभि᳓ शोच यो᳙ऽस्मा᳓न् द्वेष्टि  
 य᳓ञ् च वय᳓न् द्विष्मः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,8 +530,11 @@ pain him who hateth us and whom we hate.
 
 हे हृदयशूल शुक् शोकस्त्वमसि, तस्माद्योस्मान्द्वेष्टि, यं च वयं द्विष्मस्तमभिशोच आभिमुख्येन शोचय । 'पशोर्वा आलब्धस्य हृदयं शुगृच्छति - सा हृदयशूलमभि समेति' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15सर्व एवाद्भिर् मार्जयन्ते - धाम्नोधाम्न इति ॥ 
@@ -475,6 +543,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण नो मुञ्च॒ यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे॒ ततो॑ वरुण नो मुञ्च ॥ [20]
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/11_gudakANDahomAdikam/02_dhAmnodhAmno_rAjann.md">

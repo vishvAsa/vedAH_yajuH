@@ -1,6 +1,8 @@
 +++
 title = "०१ चतुर्विंशति-रात्रः"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 द्वौ चतुर्विंशतिरात्रौ । प्रथमोऽत्र विधीयते।
@@ -14,18 +16,24 @@ title = "०१ चतुर्विंशति-रात्रः"
 
 विश्वेदेवा ऋषयः
 </details>
+</details>
 
 ## फलम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृह॒स्पति॑रकामयत॒ श्रन्मे॑ दे॒वा दधी॑र॒न्गच्छे॑यम्पुरो॒धामिति॒ स ए॒तञ्च॑तुर्विँशतिरा॒त्रम॑पश्य॒त्तमाह॑र॒त्तेना॑यजत॒ ततो॒ वै तस्मै॒ श्रद्दे॒वा अद॑ध॒ताग॑च्छत्पुरो॒धाय्ँय ए॒वव्ँवि॒द्वाँस॑श्चतुर्विँशतिरा॒त्रमास॑ते॒ श्रदे॑भ्यो मनु॒ष्या॑ दधते॒ गच्छ॑न्ति पुरो॒धाञ्ज्योति॒र्गौरायु॒रिति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिर् अकामयत - "श्र᳓न् मे देवा᳓ द᳓धीरन्, ग᳓च्छेयम् पुरोधा᳓म्+++(=प्राधान्यं पौरोहित्यं वा)+++" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,11 +54,14 @@ Brhaspati desired, 'May the gods have faith in me, and may I become their Purohi
 
 1अथ द्वौ चतुर्विंशतिरात्रौ । तत्रायं प्रथमः अतिरात्रो ज्योतिरादिस्त्र्यहः च त्रिरात्रः । उक्तं च - त्रिरात्रः द्वादशाहस्य दशाहानि पृष्ठ्यच्छन्दोमात्मकानि अतिरात्र इति । अयमधुना विधीयते - बृहस्पतिरित्यादि ॥ बृहस्पतिशब्दे सुट्स्वरावुक्तौ । देवा मे मम श्रद्दधीरन् श्रद्धां कुर्वन्तु सत्योयमिति । गच्छेयं च पुरोधां प्राधान्यं पौरोहित्यं वा । पुरश्शब्दस्य उपसर्गवद्भावात् 'आतश्चोपसर्गे' इत्यङ् । भिदादिर्वा द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓ञ् चतुर्विँशतिरात्र᳓म् अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +82,14 @@ He saw this (rite) of twenty-four nights;
 
 स एतमित्यादि । गतम् ॥ +++(सम्पादकटिप्पनी –  विस्तृतं व्याख्यानमन्यत्र मृग्यम्)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् आ᳓हरत् । ते᳓नायजत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,11 +105,14 @@ he grasped it, and sacrificed with it.
 
 तम् । एति॑ । अ॒ह॒र॒त् । तेन॑ । अ॒य॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ त᳓स्मै श्र᳓द् देवा᳓ अ᳓दधत᳓ । अ᳓गच्छत् पुरोधा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,12 +128,15 @@ Then the gods had faith in him, and he became their Purohita.
 
 ततः॑ । वै । तस्मै॑ । श्रत् । दे॒वाः । अद॑धत । अग॑च्छत् । पु॒रो॒धामिति॑ पुरः-धाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वाँ᳓सश् चतुर्विँशति-रात्र᳓म् आ᳓सते,  
 श्र᳓द् एभ्यो मनुष्या᳙ दधते , +++(एते च)+++ ग᳓च्छन्ति पुरोधा᳓म्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,14 +153,16 @@ In those who knowing thus perform the twenty four night (rite) men have faith, a
 
 ये । ए॒वम् । वि॒द्वाँसः॑ । च॒तु॒र्विँ॒श॒ति॒रा॒त्रमिति॑ चतुर्विँशति-रा॒त्रम् । आस॑ते । श्रत् । ए॒भ्यः॒ । म॒नु॒ष्याः॑ । द॒ध॒ते॒ । गच्छ॑न्ति । पु॒रो॒धामिति॑ पुरः-धाम् ।
 </details>
+</details>
 
 ## विधानम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/09_viMshatirAtravidhiH/jyotir_gaur_Ayur_iti_tryahAH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहा᳓ भवन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,11 +178,14 @@ There are Tryahas consisting of Jyotis, Go, and Ayus.
 
 ज्योतिः॑ । गौः । आयुः॑ । इति॑ । त्र्य॒हा इति॑ त्रि-अ॒हाः । भ॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,18 +208,23 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky);
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 2त्र्यहा इत्यादि ॥ चत्वारः, तथा सङ्ख्यापूरणात् । इयं वावेत्यादि । व्याख्यातम् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓न् एव᳓ लोका᳓न् अभ्या᳓रोहन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,11 +240,14 @@ verily they mount upon these worlds.
 
 इ॒मान् । ए॒व । लो॒कान् । अ॒भ्यारो॑ह॒न्तीत्य॑भि-आरो॑हन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपूर्व᳓न् +++(चतस्रः)+++ त्र्यहा᳓ भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,11 +263,14 @@ The three days occur in order;
 
 अ॒भि॒पू॒र्वमित्य॑भि-पू॒र्वम् । त्र्य॒हा इति॑ त्रि-अ॒हाः । भ॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपूर्व᳓मेव᳓ सुवर्गल्ँ᳓ लोक᳓म् अभ्या᳓रोहन्ति ।[23]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -250,23 +286,31 @@ verily in order do they mount upon the world of heaven.
 
 अ॒भि॒पू॒र्वमित्य॑भि-पू॒र्वम् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । अ॒भ्यारो॑ह॒न्तीत्य॑भि-आरो॑हन्ति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
 द्वादशाहस्य दशाहानि विदधाति -
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/06_panchadasharAtrayoH_vidhiH/asatram_aChandomam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अस॑त्त्रव्ँ॒वा ए॒तद्यद॑छन्दो॒मय्ँयच्छ॑न्दो॒मा भव॑न्ति॒ तेन॑ स॒त्त्रन्दे॒वता॑ ए॒व पृ॒ष्ठैरव॑ रुन्धते प॒शूञ्छ॑न्दो॒मैरोजो॒ वै वी॒र्य॑म्पृ॒ष्ठानि॑ प॒शव॑श्छन्दो॒मा ओज॑स्ये॒व वी॒र्ये॑ प॒शुषु॒ प्रति॑ तिष्ठन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(छन्दोमवतः प्रशंसार्थं वक्ति - )+++ अ᳓सत्त्रव्ँ वा᳓ एत᳓द् य᳓द् अछन्दोम᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,11 +326,14 @@ There can be no Sattra where there is no Chandoma;
 
 अस॑त्त्र॒मित्य॑-स॒त्त्र॒म् । वै । ए॒तत् । यत् । अ॒छ॒न्दो॒ममित्य॑-छ॒न्दो॒मम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च् छन्दोमा᳓ भ᳓वन्ति ते᳓न सत्त्र᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +349,14 @@ in that there axe Chandomas, there is the Sattra.
 
 यत् । छ॒न्दो॒माः । भव॑न्ति । तेन॑ । स॒त्त्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता एव᳓ पृष्ठै᳓र् अ᳓व रुन्धते पशू᳓ञ् छन्दोमैः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -322,11 +372,14 @@ The gods they win by the Prsthas, the cattle by the Chandomas.
 
 दे॒वताः॑ । ए॒व । पृ॒ष्ठैः । अवेति॑ । रु॒न्ध॒ते॒ । प॒शून् । छ॒न्दो॒मैः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वा᳓ वीर्य᳙म् पृष्ठा᳓नि, पश᳓वश् छन्दोमा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +395,14 @@ The Prsthas are force and strength, the Chandomas cattle;
 
 ओजः॑ । वै । वी॒र्य॑म् । पृ॒ष्ठानि॑ । प॒शवः॑ । छ॒न्दो॒माः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जस्य् एव᳓ वीर्ये᳙, पशु᳓षु +++(च)+++ प्र᳓ति तिष्ठन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -362,26 +418,33 @@ verily in force [2] and strength they find support.
 
 ओज॑सि । ए॒व । वी॒र्ये॑ । प॒शुषु॑ । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3असत्रं वा इत्यादि ॥ द्वादशाहीनस्य द्वादशरात्रस्य विधिः । पृष्ठ्यष्षडहश्छन्दोमा इत्यादि । ते च गताः ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृहद्रथन्त॒राभ्याय्ँ॑यन्ती॒यव्ँ वाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
 य॒न्त्यथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्त्ये॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँय॑न्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्तरा᳓भ्याय्ँ यन्ति ।
++++(दिवसेषु एकान्तराभ्यां)+++ बृ᳓ह᳓द्र᳓थ᳓न्तरा᳓भ्याय्ँ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +460,14 @@ They proceed with the Brhat and the Rathantara (Samans).
 
 बृ॒ह॒द्र॒थ॒न्त॒राभ्या॒मिति॑ बृहत्-र॒थ॒न्त॒राभ्या॑म् । य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +483,14 @@ The Rathantara is this (earth), the Brhat yonder (sky);
 
 इ॒यम् । वाव । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । अ॒सौ । बृ॒हत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,11 +506,14 @@ verily with them do they proceed;
 
 आ॒भ्याम् । ए॒व । य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अन᳓योरेव᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,11 +529,14 @@ verily also in them they find support.
 
 अथो॒ इति॑ । अ॒नयोः॑ । ए॒व । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +552,14 @@ These indeed are the quick paths of the sacrifice;
 
 ए॒ते इति॑ । वै । य॒ज्ञस्य॑ । अ॒ञ्ज॒साय॑नी॒ इत्य॑ञ्जसा-अय॑नी । स्रु॒ती इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -497,23 +575,31 @@ verily by them do they proceed to the world of heaven.
 
 ताभ्या॑म् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । य॒न्ति॒ ।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4बृहद्रथन्तराभ्यामित्यादि ॥ गतम् ॥।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 चतुर्विँशतिरा॒त्रो भ॑वति॒ चतु॑र्विँशतिरर्धमा॒सास्सव्ँ॑वत्स॒रस्सव्ँ॑वत्स॒रस्सु॑व॒र्गो लो॒कस्सव्ँ॑वत्स॒र ए॒व सु॑व॒र्गे लो॒के प्रति॑ तिष्ठ॒न्त्यथो॒ चतु॑र्विँशत्यक्षरा गाय॒त्री गा॑य॒त्री ब्र॑ह्मवर्च॒सङ्गा॑यत्रि॒यैव ब्र॑ह्मवर्च॒समव॑ रुन्धतेऽतिरा॒त्राव॒भितो॑ भवतो ब्रह्मवर्च॒सस्य॒ परि॑गृहीत्यै ॥ [3]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्-विँशति-रात्रो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -534,11 +620,14 @@ verily by them do they proceed to the world of heaven.
 
 5चतुर्विंशतिरात्र इत्यादि ॥ चतुर्विंशतिसङ्ख्य्यान्वयात् चतुर्विंशत्यर्धमासात्मके संवत्सरे स्वर्गस्थानीये प्रतितिष्ठन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्-विँशतिर् अर्धमासा᳓स् सव्ँवत्सरः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -554,11 +643,14 @@ Twenty four half-months make up the year;
 
 चतु॑र्विँशति॒रिति॒ चतुः॑-विँ॒श॒तिः॒ । अ॒र्ध॒मा॒सा इत्य॑र्ध-मा॒साः । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सर᳓स् सुवर्गो᳓ लोकः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -574,11 +666,14 @@ the year is the world of heaven;
 
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । सु॒व॒र्ग इति॑ सुवः-गः । लो॒कः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सर᳓ एव᳓ सुवर्गे᳓ लोके᳓ प्र᳓ति तिष्ठन्ति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -594,11 +689,14 @@ verily they find support in the year, the world of heaven.
 
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । ए॒व । सु॒व॒र्ग इति॑ सुवः-गे । लो॒के । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो च᳓तुर्विँशत्यक्षरा गायत्री᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -619,11 +717,14 @@ Now the Gayatri is of twenty-four syllables;
 
 अपिच चतुर्विंशत्यक्षरा गायत्री, तल्लाभेन गायत्र्यात्मकब्रह्मवर्चसलाभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्री᳓ ब्रह्मवर्चस᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -639,11 +740,14 @@ the Gayatri is splendour;
 
 गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्रिया᳓ + एव᳓ ब्रह्मवर्चस᳓म् अ᳓व रुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -659,11 +763,14 @@ verily by the Gayatri they win splendour.
 
 गा॒य॒त्रि॒या । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । अवेति॑ । रु॒न्ध॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिरात्रा᳓व् अभि᳓तो भवतो, ब्रह्मवर्चस᳓स्य प᳓रिगृहीत्यै ॥ [3]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -685,4 +792,5 @@ There are Atiratras on either side, to secure splendour.
 अतिरात्राभ्यां चाभितो ब्रह्मवर्चसस्य परिग्रहः ॥
 
 इति सप्तमे चतुर्थे प्रथमोनुवाकः ॥
+</details>
 </details>

@@ -4,6 +4,8 @@ title = "०७ स्तुतशस्त्रयोरभिधानम्"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देव॑ सवितरे॒तत्ते॒ प्राह॒ तत्प्र च॑ सु॒व प्र च॑ यज॒ बृह॒स्पति॑र्ब्र॒ह्मायु॑ष्मत्या ऋ॒चो मा गा॑त तनू॒पात्साम्न॑स्स॒त्या व॑ आ॒शिष॑स्सन्तु स॒त्या आकू॑तय ऋ॒तञ्च॑ स॒त्यञ्च॑ वदत स्तु॒त दे॒वस्य॑ सवि॒तुᳶ प्र॑स॒वे
@@ -13,11 +15,14 @@ title = "०७ स्तुतशस्त्रयोरभिधानम्"
 
 1यत्र हि 'ब्रह्मन् स्तोष्यामः प्रशास्तः' इति, तद्ब्रह्मा प्रसौति - देव सवितरिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓व सवितरेत᳓त्ते प्रा᳓ह᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ O God Savitr, he hath declared that to thee;
 
 हे देव सवितः एतत्तवायं प्राह ब्रवीति स्तोष्याम इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्प्र᳓ च सुव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,11 +71,14 @@ that do thou impel
 
 तत्प्रसुव च अनुजानीहि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ च यज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,11 +99,14 @@ and offer.
 
 प्रयज च प्रकर्षेण यागं निर्वर्तय च । 'च वा योगे प्रथमा' इति तिङ्विभक्तिर्न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिर्ब्रह्मा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,11 +127,14 @@ The Brahman is Brhaspati.
 
 हे उद्गातारः बृहस्पतिरेवाहं ब्रह्मा, न मनुष्यमात्रः, सोहं वो ब्रवीमि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युष्मत्या ऋचो᳓ मा᳓ गात त᳓नूपा᳓त्सा᳓म्नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,12 +155,15 @@ Depart not from the life-giving Rc, from the Saman which protecteth the body.
 
 आयुष्मत्या अविनष्टया ऋचा योनिभूतया मा गात मा अपगमत । कीदृश्या? तनुपात्साम्नः साम्नो गीतेश्शरीरं रक्षन्त्या ऋचा हि साम्नः शरीरं रक्ष्यते । छान्दसो लिङ्गव्यत्ययः । यद्वा - ऋचस्तनुं पालयतस्साम्नश्च मा गात तस्या ऋचश्शरीरमवलम्बमानादित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्या᳓ व आशि᳓षस्सन्तु ।  
 सत्या᳓ आ᳓कूतयः +++(सन्तु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,12 +185,15 @@ Let your wishes be accomplished, let your purposes (be accomplished).
 
 सत्या अवितथाः युष्माकमाशिषः प्रार्थनास्सन्तु । आकूतयस्संकल्पाश्च सत्या यथासंकल्पसमाप्तयः सन्त्वित्येव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓ञ्च +++(वदत)+++  ..   
 सत्य᳓ञ्च वदत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +215,14 @@ Speak right and truth.
 
 ऋतं च वदत । मानसं तथ्यमृतम् । यथा मनसाऽभिसंहितं तथा वदत । सत्यं च वदत । वाचिकं सत्यं तथ्यम् । यथा वाचा प्रतिज्ञातं तथा वदत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुत᳓ देव᳓स्य सवितुᳶ᳓ प्रसवे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,6 +243,9 @@ Praise ye on the impulse of the god Savitr.
 
 स्तुत गीत्या स्तुतिं निर्वर्तयतः देवस्य सवितुः प्रसवे अनुज्ञां लब्ध्वा स्तुतिं कुरुत । अत्र प्रातस्सवने - 'भूरिन्द्रवन्तः स्तुत' इति विशेषमाहुः । 'भुव इन्द्रवन्तस्स्तुत' इति माध्यन्दिने । 'सुवरिन्द्रवन्तस्स्तुत' इति तृतीयसवने ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -227,12 +256,15 @@ Praise ye on the impulse of the god Savitr.
 
 2अथ स्तुते स्तुतस्य दोहं वाचयति - स्तुतस्य स्तुतमसीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुत᳓स्य स्तुत᳓मसि᳓ ।  
 ऊ᳓र्जम्म᳓ह्यँ स्तुत᳓न्दुहाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -254,11 +286,14 @@ The praised of the praised art thou, may the praised milk strength for me,
 
 स्तुतस्य यज्ञस्य स्तुतं फलं त्वमसीति हे स्तोत्र त्वदधीनत्वात्तस्य । यद्वा - स्तुतस्यापि स्तुतं त्वमसि स्तोत्रस्यापि स्तोत्रमसि त्वत्तुल्यं स्तोत्रं नास्तीति । यथा - ब्राह्मणानामपि त्वं ब्राह्मण इति । स्तुतस्येति जातावेकवचनम् । तादृशं त्वां स्तुतं यथोक्तस्तुतरूपं मह्यं मदर्थं ऊर्जमन्नं दुहां दुहे । लेट्यामागमः, विकरणव्यत्ययेन शः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ मा स्तुत᳓स्य स्तुत᳓ङ्गम्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,6 +314,9 @@ may the praised of the praised come to me.
 
 ततश्च स्तुतस्य स्तुतं यथोक्तं स्तुतिफलरूपं वा विशिष्टस्तोत्ररूपं मामागम्यात् आगच्छतु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -289,12 +327,15 @@ may the praised of the praised come to me.
 
 3अथ शस्त्रे शस्त्रस्य दोहं वाचयति - शस्त्रस्येति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शस्त्र᳓स्य शस्त्र᳓म᳓सि᳓ ।  
 ऊ᳓र्जम्म᳓ह्यँ शस्त्र᳓न्दुहाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,11 +357,14 @@ Thou art the Śastra of the Śastra [1], may the Śastra milk strength for me,
 
 शस्त्रस्य शंसनफलं त्वमसि, शस्त्राणामपि वा शस्त्रमसि । तादृशशस्त्ररूपं त्वां ऊर्जं दुहे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ मा शस्त्र᳓स्य शस्त्र᳓ङ्गम्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,16 +385,22 @@ may the Śastra of the Śastra come to me.
 
 ततो मां यथोक्तं शस्त्रमागच्छतु । अत्र ष्टुञ् स्तुतौ, शंस स्तुतौ, इत्यर्थाविशेषेऽपि गीतिविशिष्टं स्तोत्रं, ऋक्समुदायमात्रं शस्त्रमित्यवगन्तव्यम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4एतयोरुभयोरभ्यासं वाचयति - इन्द्रियावन्त इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रिया᳓वन्तो वनामहे धुक्षीम᳓हि प्रजा᳓मि᳓षम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +422,14 @@ May we milk offspring and food.
 
 इयं पथ्याबृहती 'तृतीयश्चेद्द्वादशाक्षरः पथ्या' इति । द्व्यक्षरोनत्वाद्विराट् ॥ इन्द्रियावन्त इन्द्रियैरविकलैस्तद्वन्तः । 'मन्त्रे सोमाश्व' इति दीर्घत्वम् । त्वामेव वनामहे भजामहे सर्वकालम् । ते धुक्षीमहि दोहामहे त्वाम् । किम्? प्रजां पुत्रादिकां इषमन्नं तस्याश्च जीवनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ मे सत्या᳓शी᳓र्देवे᳓षु भूयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +450,14 @@ May my wish be accomplished among the gods.
 
 किं च - देवेषु मे या आशीः प्रार्थना यजामीति सा सत्या अवितथा भूयात् पुनःपुनः यज्ञ उत्पद्यतां यागश्च प्रवर्ततामिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवर्चस᳓म्मा᳓ गम्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,10 +478,14 @@ May splendour come to me.
 
 अवितथं च ब्रह्मवर्चसमागम्यात् आगच्छतु । यियक्षा वर्तिष्यते इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5यज्ञस्य पुनरालम्भं जपति - यज्ञो बभूवेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -433,6 +493,8 @@ May splendour come to me.
 यज्ञो᳓ बभूव स᳓ आ᳓ बभूव स᳓ प्र᳓ जज्ञे स᳓ वावृधे ।  
 स᳓ देवा᳓नाम᳓धिपतिर्बभूव सो᳓ अस्माँ᳓ अ᳓धिपतीन्करोतु वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,6 +534,9 @@ May we be lords of wealth.
 
   - तदर्थं वयं रयीणां धनानां पतयस्स्वामिनस्स्याम भवेम । पूर्व्ववन्नाम उदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -482,12 +547,15 @@ May we be lords of wealth.
 
 6अथ स्तुतशस्त्रयोर्दोहस्य ब्राह्मणं - यज्ञो वा वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वा वै᳓ यज्ञ᳓पतिन्दुहे᳓ ।  
 यज्ञ᳓पतिर्वा यज्ञ᳓न्दुहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -509,6 +577,7 @@ Either the sacrifice [2] milks the lord of the sacrifice, or the lord of the sac
 
 यद्द्वयमत्र भवति यज्ञो वा यज्ञपतिं दुहे, यज्ञपतिर्वा यज्ञं दुहे इति । 'लोपस्त आत्मनेपदेषु' इति तलोपः । 'वै वा वेति च छन्दसि' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -516,6 +585,8 @@ Either the sacrifice [2] milks the lord of the sacrifice, or the lord of the sac
 तय्ँ᳓ यज्ञो᳓ दुहे ।  
 स᳓ इष्ट्वा᳓ पा᳓पीयान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -538,10 +609,14 @@ Him, who sacrifices not knowing the milking of the Stotra and the Śastra, the s
 
 कस्तयोः प्रथम इत्याह - स इत्यादि । गतम् । यज्ञो दुह इति । तं रेचयति । यथा गौर्दुह्यमाना क्षीरशून्या भवति, एवमयं यज्ञेन दुह्यमानो रिक्तात्मा भवेत्, ततस्स इष्ट्वा पापीयान् भवति । अत्र दुह प्रपूरणे इति प्रशब्दः पूरणप्रतिपक्षमाह यथा प्रस्मरणं प्रस्थानमिति, एवं प्रपूरणं रेचनमिति जानीयात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य ए॑नयो॒र्दोहव्ँ॑वि॒द्वान्यज॑ते॒ स य॒ज्ञन्दु॑हे॒ स इ॒ष्ट्वा वसी॑यान्भवति स्तु॒तस्य॑ स्तु॒तम॒स्यूर्ज॒म्मह्यँ॑ स्तु॒तन्दु॑हा॒मा मा॑ स्तु॒तस्य॑ स्तु॒तङ्ग॑म्याच्छ॒स्त्रस्य॑ श॒स्त्रम॒स्यूर्ज॒म्मह्यँ॑ श॒स्त्रन्दु॑हा॒मा मा॑ श॒स्त्रस्य॑ श॒स्त्रङ्ग॑म्या॒दित्या॑है॒ष वै स्तु॑तश॒स्त्रयो॒र्दोह॒स्तय्ँ॒य ए॒वव्ँवि॒द्वान्यज॑ते दु॒ह ए॒व य॒ज्ञमि॒ष्ट्वा वसी॑यान्भवति ॥ [28]   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -549,6 +624,8 @@ Him, who sacrifices not knowing the milking of the Stotra and the Śastra, the s
 य᳓ एनयोर्दो᳓हव्ँविद्वा᳓न्य᳓जते ।  
 स᳓ यज्ञ᳓न्दुहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +647,14 @@ he, who knowing the milking of these two sacrifices, milks the sacrifice;
 
 7य एनयोरित्यादि ॥ यज्ञोनेन दुह्यमानः पुनःपुनरुपचीयमानः सदा गौरिव दोग्धुरस्योपकरोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ इष्ट्वा᳓ व᳓सीयान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -595,6 +675,7 @@ he after sacrificing becomes better.
 
 ततश्च स इष्ट्वा यज्ञवान् भूत्वा वसीयान् वसुमत्तरो भवति 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +683,8 @@ he after sacrificing becomes better.
 ऊ᳓र्जम्म᳓ह्यँ स्तुत᳓न्दुहाम् ।  
 आ᳓ मा स्तुत᳓स्य स्तुत᳓ङ्गम्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -624,6 +707,7 @@ he after sacrificing becomes better.
 
 कः पुनरेतयोः दोह इत्याह - स्तुतस्येत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -631,6 +715,8 @@ he after sacrificing becomes better.
 ऊ᳓र्जम्म᳓ह्यँ शस्त्र᳓न्दुहाम् ।  
 आ᳓ मा शस्त्र᳓स्य शस्त्र᳓ङ्गम्यादि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,11 +734,14 @@ The Śastra, of the Śastra thou art, may the Śastra milk strength for me, may 
 
 श॒स्त्रस्य॑ । श॒स्त्रम् । अ॒सि॒ । ऊर्ज॑म् । मह्य॑म् । श॒स्त्रम् । दु॒हा॒म्॒ । एति॑ । मा॒ । श॒स्त्रस्य॑ । श॒स्त्रम् । ग॒म्या॒त्॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ स्तुतशस्त्र᳓योर्दो᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -668,12 +757,15 @@ this is the milking of the Stotra and the Śastra;
 
 ए॒षः । वै । स्तु॒त॒श॒स्त्रयो॒रिति॑ स्तुत-श॒स्त्रयोः॑ । दोहः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तय्ँय᳓ एवव्ँ᳓विद्वा᳓न्य᳓जते ।  
 दुह᳓ एव᳓ यज्ञ᳓मिष्ट्वा᳓ व᳓सीयान्भवति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -696,4 +788,5 @@ he who sacrifices knowing thus milks the sacrifice, and by sacrificing becomes b
 दोहमजानन्तं गोकल्पं यज्ञो दुग्धे । दोहवित्तु यज्ञमेव गोस्थानीयं सर्वाण्यभिमतानि दुग्धे । इत्थं यज्ञवांश्च भूत्वा वसीयान् भवति गोमानिव समृद्धो भवतीत्यर्थः ॥
 
 इति तृतीये द्वितीये सप्तमोनुवाकः ॥
+</details>
 </details>

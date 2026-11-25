@@ -4,15 +4,20 @@ title = "१३ राजन्यस्य शक्तिस्तम्भन
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै रा॑ज॒न्या॑ज्जाय॑मानादबिभयु॒स्तम॒न्तरे॒व सन्त॒न्दाम्नापौ॑म्भ॒न्त्स वा ए॒षोऽपो॑ब्धो जायते॒ यद्रा॑ज॒न्यो॑ यद्वा ए॒षोऽन॑पोब्धो॒ जाये॑त वृ॒त्रान्घ्नँश्च॑रे॒द्यङ्का॒मये॑त राज॒न्य॑मन॑पोब्धो जायेत वृ॒त्रान्घ्नँश्च॑रे॒दिति॒ तस्मा॑ ए॒तमै॑न्द्राबार्हस्प॒त्यञ्च॒रुन्निर्व॑पेदै॒न्द्रो वै रा॑ज॒न्यो॑ ब्रह्म॒ बृह॒स्पति॒र्ब्रह्म॑णै॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति हिर॒ण्मय॒न्दाम॒ दक्षि॑णा सा॒क्षादे॒वैन॒न्दाम्नो॒ऽपोम्भ॑नान्मुञ्चति ॥ [43]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ राजन्या᳙ज्जा᳓यमानादबिभयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ The gods were afraid of the warrior on his birth.
 
 1देवा वा इत्यादि ॥ अन्तः गर्भ एव सन्तं दाम्ना अपौ म्भन् अपरुद्धशक्तिकाङ्गमबध्नन् । उभ उम्भ पूरणे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मन्त᳓रेव᳓ स᳓न्तन्दा᳓म्ना᳓पौम्भन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,12 +61,15 @@ While still within (the womb) they fettered him with a bond.
 
 तम् । अ॒न्तः । ए॒व । सन्त॑म् । दाम्ना॑ । अपेति॑ । औ॒म्भ॒न्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वा᳓ एषो᳓ऽपोब्धो जायते य᳓द्राजन्यः᳙ ।  
 य᳓द्वा᳓ एषो᳓ऽनपोब्धो जा᳓येत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,11 +86,14 @@ The warrior thus is born fettered; if he were born not fettered
 
 सः । वै । ए॒षः । अपो॑ब्ध॒ इत्यप॑-उ॒ब्धः॒ । जा॒य॒ते॒ । यत् । रा॒ज॒न्यः॑ । यत् । वै । ए॒षः । अन॑पोब्ध॒ इत्यन॑प-उ॒ब्धः॒ । जाये॑त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृत्रा᳓न्घ्नँ᳓श्चरेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,6 +114,7 @@ he would continually slay his foes.
 
 वृत्रानिति । वारकान् शत्रून् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -107,6 +122,8 @@ he would continually slay his foes.
 वृत्रा᳓न्घ्नँ᳓श्चरेदि᳓ति ।  
 त᳓स्मा एत᳓मैन्द्राबार्हस्पत्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,11 +150,14 @@ If one desire of a warrior, 'May he be born not fettered, may he continually sla
 
 इति काम्या इष्टयस्समाप्ताः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्रो᳓ वै᳓ राजन्यो᳙ ब्रह्म बृ᳓हस्प᳓तिर्ब्र᳓ह्मणैवै᳓नन्दा᳓म्नोऽपो᳓म्भनान्मुञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,12 +173,15 @@ verily by the holy power (Brahman) he frees him from the bond that fetters him.
 
 ऐ॒न्द्रः । वै । रा॒ज॒न्यः॑ । ब्रह्म॑ । बृह॒स्पतिः॑ । ब्रह्म॑णा । ए॒व । ए॒न॒म्॒ । दाम्नः॑ । अ॒पोम्भ॑ना॒दित्य॑प-उम्भ॑नात् । मु॒ञ्च॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्म᳓यन्दा᳓म द᳓क्षिणा ।  
 साक्षा᳓देवै᳓नन्दा᳓म्नोऽपो᳓म्भनान्मुञ्चति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,5 +197,6 @@ The sacrificial present is a golden bond; verily manifestly he frees him from th
 <details><summary>पद-पाठः</summary>
 
 हि॒र॒ण्मय॑म् । दाम॑ । दक्षि॑णा । सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । ए॒न॒म्॒ । दाम्नः॑ । अ॒पोम्भ॑ना॒दित्य॑प-उम्भ॑नात् । मु॒ञ्च॒ति॒ ॥
+</details>
 </details>
 

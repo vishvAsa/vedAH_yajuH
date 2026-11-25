@@ -2,11 +2,14 @@
 title = "०४ अङ्गिरसाम् अहीनेषु द्विरात्रविधिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 +++(अहीनः = अहस्-समूह-साध्यः। चत्वारो द्विरात्राः व्युष्टिद्विरात्रा-ऽऽङ्गिरस-कपिवन-चैत्ररथ-नामानः । )+++  
 
 सोमऋषिः
+</details>
 </details>
 
 ## फलम्
@@ -15,6 +18,8 @@ title = "०४ अङ्गिरसाम् अहीनेषु द्व�
 
 अ᳓ङ्गिरसो वै᳓ सत्त्र᳓म् आसत+++(→उपवेशने)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ The Angirases performed a sacrificial session.
 एवं सर्वेऽप्येकाहा विहिताः । द्विरात्रादयोप्यहीनाः क्रमेण विधीयन्ते । सर्वे चाहीनाः अन्यतरतोतिरात्रा भवन्ति । यदि चैवाहीनो यदि च सत्रं, उभयथैवोभयतोतिरात्रो द्वादशाहो भवति आदेशात् । अन्यथाऽहीनोपि उभयतोतिरात्रो भवति । सर्वमुत्तरत्र वक्ष्यते ।
 अङ्गिरस इत्यादि ॥ आसिरयमकर्मकः, सोस्मिन्विषये आस्थानकर्मेत्येके । यथा सत्रं भवति तथाऽऽसतेत्यन्ये । सत्रासनं सहासनं क्रतुविशेषस्याख्या, तदकुर्वतेत्यपरे ॥ यथा 'प्रति प्रातिष्ठदध्वरे' इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ सुवर्गल्ँ᳓ लोक᳓म् आयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,11 +69,14 @@ They went to the world of heaven.
 
 ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । आ॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाँ +++(जनद्वयम्)+++ हवि᳓ष्माँश् च हविष्कृ᳓च् चाहीयेताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,11 +97,14 @@ Of them Havismant and Haviskrt were left behind.
 
 तेषां मध्ये हविष्मद्धविष्कृन्नामानौ अहीयेतां तस्मात्स्थानात्प्रच्युतौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अकामयेताम् - सुवर्गल्ँ᳓ लोक᳓म् इयावे᳓ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,11 +127,14 @@ They desired, 'May we two go to the world of heaven.'
 
 तत्रैतमित्याङ्गिरसं निर्दिशति इतरनिवृत्त्यर्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् एत᳓न् +++(आङ्गिरसम्)+++ द्विरात्र᳓म् अपश्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,11 +150,14 @@ They two saw this two-night rite,
 
 तौ । ए॒तम् । द्वि॒रा॒त्रमिति॑ द्वि-रा॒त्रम् । अ॒प॒श्य॒ता॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् आ᳓हरताम्+++(→आरभेताम्)+++। ते᳓नायजेताम्।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -158,11 +178,14 @@ they grasped it, and sacrificed with it.
 
 तमाहरतां इष्टसाधन त्वेन गृहीतवन्तौ, तेनायजेतां इष्टं साधितवन्तौ । यद्वा - तमाहरतां तमारभेतां तेन अयजेतां देवान् पूजितवन्तौ ततस्स्वर्गं गतौ ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ तौ᳓ सुवर्गल्ँ᳓ लोक᳓मैताम्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,11 +206,14 @@ Then they went to the world of heaven.
 
 ऐतां स्वर्गार्थं प्रस्थितौ,   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् द्विरात्रे᳓ण य᳓जते, सुवर्ग᳓म् एव᳓ लोक᳓म् एति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,11 +229,14 @@ He, who knowing thus offers the two-night sacrifice, goes to the world of heaven
 
 यः । ए॒वम् । वि॒द्वान् । द्वि॒रा॒त्रेणेति॑ द्वि-रा॒त्रेण॑ । यज॑ते । सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । ए॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓वै᳓ताम् पू᳓र्वेणा᳓ऽह्ना᳓ऽगच्छताम् उ᳓त्तरेण।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,6 +257,7 @@ They went with the first day and arrived with the second [1].
 
 अगच्छतां स्वर्गं प्राप्तवन्तौ ।
 </details>
+</details>
 
 ## विधानम्
 
@@ -237,6 +267,8 @@ They went with the first day and arrived with the second [1].
 
 अभिप्लवᳶ᳓ +++(षडहस्याद्यम् अहः)+++ पू᳓र्वम् अ᳓हर् भवति, ग᳓तिर् +++(अष्टमोतिरात्रविशेषः)+++ उ᳓त्तरम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,11 +289,14 @@ The first day is the Abhiplava, the second the complete (gati).
 
 अभिप्लवः षडहस्याद्यमहः अस्य पूर्वमहर्भवति । गतिरुत्तरमिति । अष्टमोतिरात्रविशेषः उत्तरमहर्भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रिवृदादि-स्तोम-चतुष्टयवान्)+++ ज्यो᳓तिष्टोमो ऽग्निष्टोमᳶ᳓+++(→अग्निष्टोमसामान्तं)+++ पू᳓र्वम् अ᳓हर् भवति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,11 +317,14 @@ The first day is the Jyotistoma form of the Agnistoma;
 
 2तयोः स्तोमविधानार्थमाह - ज्योतिष्टोमः त्रिवृदादिस्तोमचतुष्टयवानग्निष्टोमः अग्निष्टोमसामान्तं पूर्वमहर्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जस् ते᳓ना᳓व रुन्धे+++(=लभते)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +340,14 @@ with it he wins splendour.
 
 तेजः॑ । तेन॑ । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्तोमो ऽतिरात्र᳓ उ᳓त्तरम्, सर्वस्या᳓ऽऽप्त्यै स᳓र्वस्या᳓वरुध्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,11 +370,14 @@ The second day is an Atiratra with all the Stomas, that he may obtain all and wi
 
 सर्वस्तोमः सर्वसंस्थासंबन्धिस्तोमवानतिरात्रो द्वितीयमहर्भवति । यथोक्तं - 'चतुर्विंशाः पवमानाः पञ्चदशानि त्रीण्याज्यानि, सप्तदशमच्छावाकस्य एकविंशानि त्रीणि पृष्ठानि, त्रिणव मच्छावाकस्य त्रयस्त्रिंशोग्निष्टोमसामानि एकविंशान्युक्थ्यानि सषोडशिकानि पञ्चदशी रात्रिः त्रिवृत्सन्धिः' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गा᳓यत्र᳓म् पू᳓र्वे᳓ ऽहन्त् सा᳓म भवति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,11 +398,14 @@ On the first day the Saman is in the Gayatri (metre).
 
 3गायत्रं गायत्रीप्रभवं पूर्वेऽह्नि साम भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो वै᳓ गायत्री᳓। गा᳓यत्री᳓ ब्रह्मवर्चस᳓म्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,11 +421,14 @@ The Gayatri is brilliance and splendour;
 
 तेजः॑ । वै । गा॒य॒त्री । गा॒य॒त्री । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ज एव᳓ ब्रह्मवर्चस᳓म् आत्म᳓न् धत्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +444,14 @@ verily he bestows brilliance and splendour on himself.
 
 तेजः॑ । ए॒व । ब्र॒ह्म॒व॒र्च॒समिति॑ ब्रह्म-व॒र्च॒सम् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रै᳓ष्टुभम् उ᳓त्तरे।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,11 +475,14 @@ On the second day (the Saman) is in the Tristubh metre.
 
 यथोक्तमाचार्येण - 'होतुराज्यं संपादयेत्' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वै᳓ वीर्य᳙म् त्रिष्टु᳓क्+++(भ्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,11 +498,14 @@ The Tristubh is force and strength;
 
 ओजः॑ । वै । वी॒र्य॑म् । त्रि॒ष्टुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓ज एव᳓ वीर्य᳙म् आत्म᳓न् धत्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,11 +521,14 @@ verily he bestows force and strength on himself.
 
 ओजः॑ । ए॒व । वी॒र्य॑म् । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथन्तर᳓म् पू᳓र्वे᳓ऽहन्त् सा᳓म भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +549,14 @@ The Saman on the first day [2] is the Rathantara.
 
 4रथन्तरं बृहच्च पृष्ठेषु नियम्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ रथन्तर᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -507,11 +572,14 @@ The Rathantara is this (earth);
 
 इ॒यम् । वै । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्या᳓मेव᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -527,11 +595,14 @@ verily he stands firm on this (earth).
 
 अ॒स्याम् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓दु᳓त्तरे।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -547,11 +618,14 @@ verily he stands firm on this (earth).
 
 बृ॒हत् । उत्त॑र॒ इत्युत्-त॒रे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असौ᳓ वै᳓ बृह᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,11 +641,14 @@ The Brhat is yonder (sky);
 
 अ॒सौ । वै । बृ॒हत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमु᳓ष्याम् एव᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -587,11 +664,14 @@ verily he stands firm on yonder (sky).
 
 अ॒मुष्या॑म् । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आहुᳶ- क्व᳙ ज᳓गती चानुष्टु᳓प् चे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -616,12 +696,15 @@ They say, 'Where are the Jagati and the Anustubh?'
 
 क्वेदानीं जगत्यनुष्टुभौ द्रष्टव्ये इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वै᳓खा᳓नस᳓म् पू᳓र्वे᳓ ऽहन्त् सा᳓म भवति ।  
 +++(बार्हतं साम वैखानसं भवति। बृहती-चतुर्-अभ्यासात् षट्-त्रिंशद्-अक्षरा ३६ = ९*४ । तत्र १२x३ जगत्यो भवन्ति ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,11 +725,14 @@ On the first day the Saman is that of Vikhanas;
 
 5परिहरति - वैखानसमिति ॥ पृष्ठेपु बार्हतं साम वैखानसं भवति बृहतीचतुरभ्यासात् षट्त्रिंशदक्षरा । तत्र चतस्रो जगत्यो भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न ज᳓गत्यै नै᳓ति +++(हानिम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -667,11 +753,14 @@ verily he does not leave the Jagati.
 
 तेन जगत्यै जगत्या नैति न हीयते यज्ञः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षो᳓डश्य् उ᳓त्तरे +++(यत्र द्वे चानुष्टुभौ)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -692,11 +781,14 @@ On the second it is the Sodaśin;
 
 षोडशीसाम गौरिवीतमुत्तरस्मिन्नह्नि भवति उक्थ्येभ्यः पुरस्तात् भवति । द्वे चानुष्टुभौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नानुष्टु᳓भः +++(नैति हानिम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -717,6 +809,7 @@ verily he does not leave the Anustubh.
 
 तेनानुष्टुभो नैतीत्येव ॥
 </details>
+</details>
 
 ## कालसूचना
 
@@ -725,6 +818,8 @@ verily he does not leave the Anustubh.
 अ᳓थाहुर्- य᳓त् समाने᳙ ऽर्धमासे᳓ स्या᳓ताम् +++(द्वे अप्यहनी)+++,
 अन्यतर᳓स्या᳓ह्नो वीर्य᳙म् अ᳓नु पद्येत+++(=प्रसज्येत)+++ +++(- एकम् एवाहस् स्यादिति यावत्)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -746,11 +841,14 @@ Then they say, 'If the days fall in the same half month, then the strength of on
 
 6अथाहुः - यदि समाने एकस्मिन्नर्धमासे स्यातां द्वे अप्यहनी अन्यतरस्याह्नः वीर्यं फलसाधनसामर्थ्यं अनुपद्येत प्रसज्येत, एकमेवाहस्स्यादिति यावत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓त्य् अमावास्या᳙याम् पू᳓र्वम् अ᳓हर् भ᳓व᳓ति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -771,11 +869,14 @@ The first day takes place on the night of new moon;
 
 तस्मादमावास्यायां पूर्वमहर्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्तरस्मिन्न् उ᳓त्तरम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -796,11 +897,14 @@ the second on the next day,
 
 उत्तरस्मिन्यजनीयेऽह्नि द्वितीयमहर्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓नैव् आ᳓र्धमास᳓योर् भवतः। ना᳓नावीर्ये भवतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -821,11 +925,14 @@ verily the days fall on separate half-months, and have the several strengths.
 
 एवं क्रियमाणे नानाभूतयोः पृथग्भूतयोरर्धमासयोः कृतौ भवतः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हवि᳓ष्मन्-निधनम्+++(=स्तोमः)+++ पू᳓र्वम् अ᳓हर् भवति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -846,11 +953,14 @@ The first day has Havismant,
 
 हविष्मन्निधनमिति । हविष्मच्छब्दवत् हविष्मत् निधनं स्तोमो यस्य तद्धविष्मन्निधनं पूर्वमहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓विष्-कृ᳓न्-निधनम् उ᳓त्तरम् +++(अहः स्वस्य)+++ प्र᳓तिष्ठित्यै +++(द्रष्टृभ्यां संबन्धेन?)+++ ॥ [13] ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -872,4 +982,5 @@ the second Haviskrt in the finale, for support.
 एवं हविष्कृन्निधनमुत्तरमहः । तत्प्रतिष्ठित्यै भवति द्रष्टृभ्यां संबन्धेन अह्नोस्स्थिरत्वं भवति । एतेनाङ्गिरसेन सर्वे द्विरात्रा व्याख्याताः ॥
 
 इति सप्तमे प्रथमे चतुर्थोनुवाकः ॥
+</details>
 </details>

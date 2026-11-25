@@ -1,10 +1,13 @@
 +++
 title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1अष्टमेऽन्नार्थपश्वादीनां सूक्तान्यभिहितानि । नवमे शुक्लकृष्णपश्वादीनां सूक्तान्युच्यन्ते । यदुक्तं सूत्रकारेण - 'सूर्याचन्द्रमोभ्यां यमौ श्वेतं च कृष्णं चैकयूपे' इति ।
 यमौ एकस्मिन् गर्भे सहोत्पन्नौ । तयोः पश्वोस्सूक्ते वपयोः पुरोनुवाक्यामाह ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
@@ -39,9 +42,12 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपयोर् याज्याम् आह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
@@ -77,9 +83,12 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
@@ -114,9 +123,12 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ पुरोडशस्य याज्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
@@ -151,9 +163,12 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ हविषः पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/102/02_asya_shravo.md">
@@ -490,9 +505,12 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ हविषो याज्यामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">

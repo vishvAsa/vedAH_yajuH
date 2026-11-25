@@ -3,9 +3,12 @@ title = "१९ अश्वचरितहोममन्त्राः"
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-11अथ पुरस्तात्स्विष्टकृतः त्र्यशीतिमश्वचरितान्युपजुहोति - ईंकारायेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ title = "१९ अश्वचरितहोममन्त्राः"
 +++(पुरस्तात् स्विष्टकृतः त्र्यशीतिर् अश्वचरितान्य् उपजुहोति)+++  
 ईङ्कारा᳓य +++(हेषाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -28,11 +33,14 @@ To the sounding of 'Im' hail!
 
 ई॒ङ्का॒रायेती॑म्-का॒राय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ई᳓ङ्कृताय +++(निवृत्तावस्थाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,11 +65,14 @@ To him over whom 'Im' is sounded hail!
 
 पूर्ववद्गतित्वात् 'गतिरनन्तरः' इति तस्य प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्र᳓न्दते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -82,11 +93,14 @@ To him neighing hail!
 
 क्रन्दते उच्चैर्हेषमाणाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव+++(मुख)+++क्र᳓न्दते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,11 +121,14 @@ To him neighing down hail!
 
 अवक्रन्दते अवाङ्मुखं निभृतं घोषमाणाय । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः, उत्तरत्र कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(नासापुटाभ्यां)+++ प्रो᳓थते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,11 +149,14 @@ To him snorting hail!
 
 प्रोथते नासापुटाभ्यां शब्दं विस्तारयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रप्रो᳓थते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,11 +179,14 @@ To him snorting forth hail!
 
 प्रोथृ पर्याप्तौ, स एव स्वरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धा᳓य +++(→गन्धयित्रे)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -186,11 +209,14 @@ To the smell hail!
 
 गन्ध अर्दने, पचाद्यच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घ्राता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,11 +241,14 @@ To what is smelt hail!
 
 'नुदविदोन्दत्राघ्रा' इति निष्ठानत्वाभावः पाक्षिकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,11 +271,14 @@ To expiration hail!
 
 द्वितीयस्य छान्दसं सांहितिकं दीर्घत्वम्, प्रातिशाख्ये चोक्तं - 'व्युत्पूर्व आननुदात्तोनूष्मवति' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,11 +294,14 @@ To cross-breathing hail!
 
 व्या॒नायेति॑ वि-अ॒नाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाना᳓य स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,16 +317,22 @@ To inspiration hail!
 
 अ॒पा॒नायेत्य॑प-अ॒नाय॑ । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्दी॒यमा॑नाय॒ स्वाहा॒ सन्दि॑ताय॒ स्वाहा॑ विचृ॒त्यमा॑नाय॒ स्वाहा॒ विचृ॑त्ताय॒ स्वाहा॑ पलायि॒ष्यमा॑णाय॒ स्वाहा॒ पला॑यिताय॒ स्वाहो॑परँस्य॒ते स्वाहोप॑रताय॒ स्वाहा॑ निवेक्ष्य॒ते स्वाहा॑ निवि॒शमा॑नाय॒ स्वाहा॒ निवि॑ष्टाय॒ स्वाहा॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दीय᳓मानाय +++(=नियम्यमानाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -307,11 +348,14 @@ To him being bound hail!
 
 स॒न्दी॒यमा॑ना॒येति॑ सम्-दी॒यमा॑नाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न्दिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +371,14 @@ To him after being bound hail!
 
 सन्दि॑ता॒येति॒ सम्-दि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचृत्य᳓मानाय+++(=विमुच्यमानाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -347,11 +394,14 @@ To him being untied hail!
 
 वि॒चृ॒त्यमा॑ना॒येति॑ वि-चृ॒त्यमा॑नाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓चृत्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +417,14 @@ To him untied hail!
 
 विचृ॑त्ता॒येति॒ वि-चृ॒त्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पलायि᳓ष्य᳓माणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -387,11 +440,14 @@ To him about to run hail!
 
 प॒ला॒यि॒ष्यमा॑णाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓लायिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -407,11 +463,14 @@ To him having run hail!
 
 पला॑यिताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपरँस्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -427,11 +486,14 @@ To him about to rest hail!
 
 उ॒प॒रँ॒स्य॒त इत्यु॑प-रँ॒स्य॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓परताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,11 +509,14 @@ To him having rested hail!
 
 उप॑रता॒येत्युप॑-र॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेक्ष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -467,11 +532,14 @@ To him about to go to rest hail!
 
 नि॒वे॒क्ष्य॒त इति॑ नि-वे॒क्ष्य॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविश᳓मानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +555,14 @@ To him going to rest hail!
 
 नि॒वि॒शमा॑ना॒येति॑ नि-वि॒शमा॑नाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓विष्टाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,11 +589,14 @@ To him having gone to rest hail!
 
 निवेक्ष्यते देवान् प्रवेक्ष्यते । अतः परं त्रिकालवर्तिचरितग्रहणम् । 'शतुरनुमः' इनि विभक्तेरुदात्तत्वम् । निविशमानाय । 'नेर्विशः' इत्यात्मनेपदम् । पूर्ववद्व्यत्ययेन कुतः सतिशिष्टस्वरः । निविष्टाय । कर्तरि निष्ठा । तत्र व्यत्ययेन गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निषत्स्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +619,14 @@ To him about to sit down hail!
 
 'सदिरप्रतेः' इति षत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निषी᳓दते स्वा᳓हा +++(←शतुरनुम इत्युदात्तो विभक्तौ)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +647,14 @@ To him sitting down hail!
 
 निषीदते पाघ्रादिना सीदादेशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष᳓ण्णाय स्वा᳓हा । [49]  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -595,11 +675,14 @@ To him having sat down hail!
 
 निषण्णाय 'रदाभ्यां' इति निष्ठानत्वम् । सर्वत्रोक्त एव स्वरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -620,11 +703,14 @@ To him having sat down hail!
 
 आसिष्यते इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓सीनाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -645,11 +731,14 @@ To him who is standing hail!
 
 आसीनाय । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसिता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,11 +754,14 @@ To him who hath stood hail!
 
 आ॒सि॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शयनादिभ्यो)+++ निपत्स्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,11 +782,14 @@ To him about to go down hail!
 
 निपत्स्यते निपतनं शयनाधिकरणस्थानपरिग्रहः । व्यत्ययेनैव परस्मैपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निप᳓द्यमानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -717,11 +812,14 @@ To him going down hail!
 
 अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वात् 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम्, उक्तमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓पन्नाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -737,11 +835,14 @@ To him having gone down hail!
 
 निप॑न्ना॒येति॒ नि-प॒न्ना॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,11 +863,14 @@ To him about to lie hail!
 
 शयिष्यते । स्वरपरस्मैपदे उक्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓यानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -787,11 +891,14 @@ To him lying hail!
 
 शयानाय । ङित्वाल्लसार्वधातुकानुदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयिता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -807,11 +914,14 @@ To him who hath lain hail!
 
 श॒यि॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्मीलिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -832,11 +942,14 @@ To him about to close the eyes hail!
 
 35-46सम्मीलिष्यते इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्मी᳓लते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -852,11 +965,14 @@ To him closing the eyes hail!
 
 स॒म्मील॑त॒ इति॑ सम्-मील॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्मीलिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -872,11 +988,14 @@ To him having closed the eyes hail!
 
 सम्मी॑लिता॒येति॒ सम्-मी॒लि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वप्स्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -897,11 +1016,14 @@ To him about to sleep hail!
 
 स्वप्स्यते बाह्यकरणोपरमः स्वापः । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वपते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -917,11 +1039,14 @@ To him sleeping hail!
 
 स्व॒प॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्ता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -937,11 +1062,14 @@ To him who hath slept hail!
 
 सु॒प्ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभोत्स्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -964,11 +1092,14 @@ To him about to wake hail!
 
 'एकाचः' इति भष्भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रबु᳓ध्यमानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -989,11 +1120,14 @@ To him awakening hail!
 
 प्रबुद्ध्यमानाय जागरिष्यते । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓बुद्धाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1009,11 +1143,14 @@ To him who hath awakened hail!
 
 प्रबु॑द्धा॒येति॒ प्र-बु॒द्धा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जागरिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1029,11 +1166,14 @@ To him about to become awake hail!
 
 जा॒ग॒रि॒ष्य॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓ग्रते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1056,11 +1196,14 @@ To him becoming awake hail!
 
 'जक्षि' इत्यादिना अभ्यस्तसंज्ञत्वात् 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जागरिता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1083,14 +1226,20 @@ To him who hath become awake hail!
 
 'जाग्रोऽविचिण्णल्ङित्सु' इति गुणः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓श्रूषमाणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1111,11 +1260,14 @@ To him about to hear hail!
 
 47-58शुश्रूषमाणाय जागरित्वा शब्दं श्रोतुमिच्छते । पूर्ववदाद्युदात्तत्वम् । 'ज्ञाश्रुस्मृदृशाम्' इत्यात्मनेपदम् । उत्तरे गते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृण्वते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1131,11 +1283,14 @@ To him hearing hail!
 
 शृ॒ण्व॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1151,11 +1306,14 @@ To him who hath heard hail!
 
 श्रु॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षिष्यते᳓ स्वा᳓हा [50]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1176,11 +1334,14 @@ To him about to look hail!
 
 वीक्षिष्यते इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वी᳓क्षमाणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1197,11 +1358,14 @@ To him who is looking hail!
 
 वीक्ष॑माणा॒येति॑ वि-ईक्ष॑माणाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वी᳓क्षिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1217,11 +1381,14 @@ To him who hath looked hail!
 
 वीक्षि॑ता॒येति॒ वि-ई॒क्षि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँहास्यते᳓ +++(→बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1242,11 +1409,14 @@ To him who is about to go out hail!
 
 संहास्यत इत्यादि । गतम् । संहासनं बाह्येन्द्रियाणां स्वैस्स्वैर्विषयैस्संयोगः । ओहाङ् गतौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्जि᳓हानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1267,11 +1437,14 @@ To him going out hail!
 
 संजिहानाय । 'भृञामित्' इतीत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उज्जि᳓हानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1292,11 +1465,14 @@ To him who hath gone out hail!
 
 उज्जिहानाय कार्येषूद्योगं कुर्वते । उक्ते स्वरपरस्मैपदे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शयनस्थानाद्)+++ विवर्त्स्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1317,11 +1493,14 @@ To him about to roll about hail!
 
 विवर्त्स्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓व᳓र्तमानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1344,11 +1523,14 @@ To him rolling about hail!
 
 ' वृद्भ्यस्स्यसनोः' इति परस्मैपदम् । 'न वृद्ब्यश्चतुर्भ्यः' इतीडभावः । उक्तमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓वृत्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1371,11 +1553,14 @@ To him who hath rolled about hail!
 
 'उदितो वा' इति विभाषितेट् 'यस्य विभाषा' इतीट्प्रतिषेधः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्थास्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1398,11 +1583,14 @@ To him about to get up hail!
 
 'उदस्स्थास्तम्भ्वोः' इति पूर्वरूपता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्ति᳓ष्ठते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1418,11 +1606,14 @@ To him getting up hail!
 
 उ॒त्तिष्ठ॑त॒ इत्यु॑त्-तिष्ठ॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्थिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1438,11 +1629,14 @@ To him who hath got up hail!
 
 उत्थि॑ता॒येत्युत्-स्थि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(देहं)+++ विधविष्यते᳓+++(=कम्पयते)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1463,11 +1657,14 @@ To him about to shake himself hail!
 
 विधविष्यते । विधवनं देहस्य कम्पनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधून्वाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1490,11 +1687,14 @@ To him shaking himself hail!
 
 उत्क्रंस्यते । उत्क्रमणं शिरःकम्पनम्, व्यत्ययेनेडभावः । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓धूताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1510,11 +1710,14 @@ To him who hath shaken himself hail!
 
 विधू॑ता॒येति॒ वि-धू॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्क्रँंस्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1530,11 +1733,14 @@ To him about to step out hail!
 
 उ॒त्क्रँ॒स्य॒त इत्यु॑त्-क्रँ॒स्य॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्क्रा᳓मते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1550,11 +1756,14 @@ To him stepping out hail!
 
 उ॒त्क्राम॑त॒ इत्यु॑त्-क्राम॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓त्क्रान्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1570,11 +1779,14 @@ To him who hath stopped out hail!
 
 उत्क्रा॑न्ता॒येत्युत्-क्रा॒न्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रमिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1597,11 +1809,14 @@ To him who is about to rush hail!
 
 यङन्ताल्ल्युटि 'यस्य हलः' इति यलोपः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रम्य᳓माणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1617,11 +1832,14 @@ To him who is rushing hail!
 
 च॒ङ्क्र॒म्यमा॑णाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चङ्क्रमि᳓ता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1637,11 +1855,14 @@ To him who hath rushed hail!
 
 च॒ङ्क्र॒मि॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्डूयिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1662,11 +1883,14 @@ To him about to scratch hail!
 
 70-80कण्डूयिष्यते । दर्पनिमित्ता कण्डूया । कण्ड्वादिभ्यो यक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्डूय᳓मानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1682,11 +1906,14 @@ To him scratching hail!
 
 क॒ण्डू॒यमा॑नाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कण्डूयिता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1702,11 +1929,14 @@ To him having scratched hail!
 
 क॒ण्डू॒यि॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(काष्ठादिषु शरीरस्य)+++ निकषिष्यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1727,11 +1957,14 @@ To him about to rub hail!
 
 निकषिष्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निक᳓षमाणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1756,11 +1989,14 @@ To him rubbing hail!
 
 निकषमाणाय । व्यत्ययेनात्मनेपदम् । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓कषिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1776,11 +2012,14 @@ To him who hath rubbed hail!
 
 निक॑षिता॒येति॒ नि-क॒षि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द᳓त्ति त᳓स्मै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1801,11 +2040,14 @@ What he eateth, to that hail!
 
 यदत्ति येन सामर्थ्येन अदनं करोति तस्मै स्वाहा । तस्मा एव वा अदनाय । एवं पानादिषु द्रष्टव्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पि᳓बति त᳓स्मै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1821,11 +2063,14 @@ What he drinketh, to that hail!
 
 यत् । पिब॑ति । तस्मै॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्मे᳓हति त᳓स्मै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1841,11 +2086,14 @@ To what he evacuateth, to that hail!
 
 यत् । मेह॑ति । तस्मै॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च्छ᳓कृत् करो᳓ति त᳓स्मै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1861,11 +2109,14 @@ To the dung he maketh hail!
 
 यत् । शकृ॑त् । क॒रोति॑ । तस्मै॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓तसे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1886,11 +2137,14 @@ To seed hail!
 
 81-84रेतसे रेतस्सेचनकर्मणे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1911,11 +2165,14 @@ To offspring hail!
 
 प्रजाभ्यः प्रजोत्पादनसामथ्यार्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓ननाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1936,11 +2193,14 @@ To begetting hail!
 
 प्रजननाय प्रजननेन्द्रियाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [51]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1962,4 +2222,5 @@ To all hail!
 सर्वस्मै अनुक्तमन्यदपि चरितमश्वस्य हासरोदनादि तस्मै सर्वस्मै स्वाहा ॥
 
 इति सप्तमे प्रथमे एकोनविंशोनुवाकः ॥  
+</details>
 </details>

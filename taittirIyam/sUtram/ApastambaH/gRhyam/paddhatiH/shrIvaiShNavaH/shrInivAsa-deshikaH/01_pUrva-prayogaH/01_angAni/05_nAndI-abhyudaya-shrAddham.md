@@ -276,6 +276,7 @@ _________
 
 ### दानम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/iDA_devahUH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -286,6 +287,7 @@ _________
 
 इडा॑ देव॒हूर्मनु॑र्यज्ञ॒नीर्बृह॒स्पति॑रुक्थाम॒दानि॑ शँसिष॒द्विश्वे॑ दे॒वाः [3]  सू॒क्त॒वाच॒ᳶ पृथि॑वि मात॒र्मा मा॑ हिँसी॒र्मधु॑ मनिष्ये॒ मधु॑ जनिष्ये॒ मधु॑ वक्ष्यामि॒ मधु॑ वदिष्यामि॒ मधु॑मतीन्दे॒वेभ्यो॒ वाच॑मुद्यासँ शुश्रू॒षेण्या॑म्मनु॒ष्ये॑भ्य॒स्तम्मा॑ दे॒वा अ॑वन्तु शो॒भायै॑ पि॒तरोऽनु॑ मदन्तु ॥ [4]  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -293,6 +295,8 @@ _________
 म᳓नुर् यज्ञ-नी᳓र्,  
 बृ᳓हस्-प᳓तिर् उक्था-मदा᳓नि+++(=प्रतिगरान्)+++ **शँसिषत्** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,11 +325,14 @@ May Brhaspati recite the hymns and acclamations.
 **शंसिषत्** शंसति शस्त्राणि शंसति  
 मदान् प्रतिगरान् शंसति । शंसेर्लेटि 'सिब्बहुलं लेटि' इति सिप् । उक्थशब्दस्य संहितायां छान्दसं दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓स् सूक्त-वा᳓चः  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +353,14 @@ The All-gods [1] are reciters of the hymns.
 
 विश्वेदेवाः सूक्तवाचः सूक्तवाकस्य वक्तारः सूक्तं सूक्तवाकः, तद्ब्रुवन्तीति सूक्तवाचः । 'क्विब्वचि' इत्यादिना क्विप्दीर्घत्वे । यस्मादेवं सर्वमेतदिडादयः कुर्वन्ति तस्मात्सत्यपि प्रमादे न मे कश्चिदपराधः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓थिवि मातर् मा᳓ मा हिँसीः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,11 +381,10 @@ O earth mother, do not harm me.
 
 तस्मात् हे पृथिवि मातः सर्वस्य रक्षिके मा मा हिंसीः ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -383,6 +392,8 @@ O earth mother, do not harm me.
 म᳓धु **वक्ष्यामि** ।  
 म᳓धु **वदिष्यामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -411,12 +422,15 @@ I will think the honey (Pravargya), I will produce the honey, I will speak the h
 
 अहं तु मधु मनिष्ये मधुवदेव मनसा चिन्तयिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुमतीन् देवे᳓भ्यो वा᳓चम् **उद्यासँ**
 शुश्रूषे᳓ण्याम् मनुष्ये᳙भ्यः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -445,12 +459,15 @@ may I speak the honeyful (sweet) speech for the gods, well-hearing for the men (
 
 मनुष्येभ्यः शुश्रूषेण्यां श्रवणीयां श्रुतिसुखहेतुं वाचं उद्यासमित्येव । उभयत्रापि षष्ठ्यर्थे चतुर्थी । सनन्तादौणादिक एण्यप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् मा देवा᳓ **अवन्तु** शोभा᳓यै ।
 पित᳓रो᳓ **ऽनु मदन्तु** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,7 +496,7 @@ may the gods protect me as such, may the fathers also please me for the sake of 
 
 इति तृतीये तृतीये द्वितीयोनुवाकः ॥
 </details>
-
+</details>
 </div>
 
 > शोभनं शोभनं शोभनं ॥ 

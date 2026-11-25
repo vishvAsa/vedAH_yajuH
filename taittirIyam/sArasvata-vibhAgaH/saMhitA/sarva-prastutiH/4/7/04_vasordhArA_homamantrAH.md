@@ -4,6 +4,8 @@ title = "०४ वसोर्धारा होममन्त्राः"
 अग्निर्ऋषिः
 
 चतुर्थकाण्डे सप्तमप्रपाठके चतुर्थोऽनुवाकः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऊर्क्च॑ मे सू॒नृता॑ च मे॒ पय॑श्च मे॒ रस॑श्च मे घृ॒तञ्च॑ मे॒ मधु॑ च मे॒ सग्धि॑श्च मे॒ सपी॑तिश्च मे कृ॒षिश्च॑ मे॒ वृष्टि॑श्च मे॒ जैत्र॑ञ्च म॒ औद्भि॑द्यञ्च मे र॒यिश्च॑ मे॒ राय॑श्च मे पु॒ष्टञ्च॑ मे॒ पुष्टि॑श्च मे वि॒भु च॑ [7]  मे॒ प्र॒भु च॑ मे ब॒हु च॑ मे॒ भूय॑श्च मे पू॒र्णञ्च॑ मे पू॒र्णत॑रञ्च॒ मेऽक्षि॑तिश्च मे॒ कूय॑वाश्च॒ मेऽन्न॑ञ्च॒ मेऽक्षु॑च्च मे व्री॒हय॑श्च मे॒ यवा॑श्च मे॒ माषा॑श्च मे॒ तिला॑श्च मे मु॒द्गाश्च॑ मे ख॒ल्वा॑श्च मे गो॒धूमा॑श्च मे म॒सुरा॑श्च मे प्रि॒यङ्ग॑वश्च॒ मेऽण॑वश्च मे श्या॒माका॑श्च मे नी॒वारा॑श्च मे ॥ [8]  
@@ -14,11 +16,14 @@ title = "०४ वसोर्धारा होममन्त्राः"
 [अथ चतुर्थाष्टके सप्तमप्रपाठके चतुर्थोऽनुवाकः]।  
 चतुर्थमाह– ऊर्क् च म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्क्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ May for me strength (prosper through the sacrifice);
 
 ऊर्गंन्नसामान्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूनृ᳓ता च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ May for me righteousness (prosper through the sacrifice);
 
 सुनृता प्रियोक्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓यश्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +100,14 @@ May for me milk (prosper through the sacrifice);
 
 पयः प्रभृतयोऽन्नविशेषाः ।  पयः क्षीरम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓सश्च मे +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,12 +128,15 @@ May for me sap (prosper through the sacrifice);
 
 रसस्तत्रत्यं सारम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓ञ्च मे  +++(कल्पताम्)+++ ।
 म᳓धु च मे  +++(कल्पताम्)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,11 +158,14 @@ May for me ghee, honey (prosper through the sacrifice);
 
 घृतमधुनी प्रसिद्धे ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ग्धिश्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -166,11 +186,14 @@ May for me eating in company (prosper through the sacrifice);
 
 सग्धिर्बन्धुभिः सह भोजनमित्यर्थः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓पीतिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,12 +214,15 @@ May for me drinking in company (prosper through the sacrifice);
 
 तथा सपीतिः सहपानम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृषि᳓श्च मे  +++(कल्पताम्)+++ ।  
 वृ᳓ष्टिश्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +244,14 @@ May for me ploughing, rain (prosper through the sacrifice);
 
 कृषिवृष्टी अन्नस्य हेतुत्वेन प्रसिद्धे ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जै᳓त्रञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,11 +272,14 @@ May for me conquest (prosper through the sacrifice);
 
 जैत्रं जयशीलं सुक्षेत्रमित्यर्थः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 औ᳓द्भिद्यञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,11 +300,14 @@ May for me victory (prosper through the sacrifice);
 
 औद्भिद्यमुद्भिदां तरुगुल्मादीना मुत्पत्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रयि᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +328,14 @@ May for me wealth (prosper through the sacrifice);
 
 रयिः सुवर्णम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓यश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,11 +356,14 @@ May for me riches (prosper through the sacrifice);
 
 रायो मणिमुक्तादिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्ट᳓ञ्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,11 +384,14 @@ May for me prosperity (prosper through the sacrifice);
 
 पुष्टं पूर्वोक्तमेव सुवर्णमतिसमृद्धम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,6 +412,7 @@ May for me prospering (prosper through the sacrifice);
 
 पुष्टिः शरीरपोषः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -379,6 +424,8 @@ May for me prospering (prosper through the sacrifice);
 पूर्ण᳓तरञ्च मे᳓ +++(कल्पताम्)+++ ।   
 अ᳓क्षितिश्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,11 +452,14 @@ May for me plenteousness, lordship, much, more, full, fuller, imperishableness (
 
 विभ्वादयोऽक्षित्यन्ता धान्यविषया उत्तरोत्तराभिवृद्धयः सप्तापि तारतम्येन द्रष्टव्याः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कू᳓यवाश्च मे᳓ +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,11 +480,14 @@ May for me bad crops (prosper through the sacrifice);
 
 न केवलं प्रयृद्धान्येव किंत्वल्पा न्यपीत्युच्यन्तेकूयवाः कुत्सितयवाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नञ्च मे᳓ +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,11 +508,14 @@ May for me food (prosper through the sacrifice);
 
 अन्नं प्रसिद्धम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓क्षुच्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,6 +536,7 @@ May for me freedom from hunger (prosper through the sacrifice);
 
 अक्षुदन्नसाध्यः क्षुत्परिहारः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -489,6 +546,8 @@ May for me freedom from hunger (prosper through the sacrifice);
 ति᳓लाश्च मे +++(कल्पताम्)+++ ।  
 मुद्गा᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -513,11 +572,14 @@ May for me rice, barley, beans, sesame, kidney beans (prosper through the sacrif
 
 व्रीहियवमापतिलमुद्राः प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खल्वा᳙श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -538,11 +600,14 @@ May for me vetches (prosper through the sacrifice);
 
 खल्वा मुद्गेभ्योऽपि स्थूलवीजाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोधू᳓माश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,11 +628,14 @@ May for me wheat (prosper through the sacrifice);
 
 गोधूमाः प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मसु᳓राश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +656,14 @@ May for me lentils (prosper through the sacrifice);
 
 मसुरा मुद्गवत्सूपहेतवः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रिय᳓ङ्गवश्च मे᳓ +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,11 +684,14 @@ May for me millet (prosper through the sacrifice);
 
 प्रियंगवः प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓णवश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,11 +712,14 @@ May for me Panicum miliaceum (prosper through the sacrifice);
 
 अणवसूक्ष्मशालयः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामा᳓काश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -663,11 +740,14 @@ May for me Panicum frumentaceum (prosper through the sacrifice);
 
 श्यामाका ग्राम्या धान्यविशेषाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीवा᳓राश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -688,4 +768,5 @@ May for me wild rice prosper through the sacrifice.
 
 नीवारा आरण्याः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  चतुर्थोऽनुवाकः ॥  ४ ॥  
+</details>
 </details>

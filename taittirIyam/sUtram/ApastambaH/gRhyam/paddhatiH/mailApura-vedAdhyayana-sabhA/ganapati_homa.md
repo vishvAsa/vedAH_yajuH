@@ -640,12 +640,15 @@ With the mantras above, a gold or silver coin should be placed in the kumbha.
 साफल्यं कुरु कर्मणि॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 कूर्चाग्रैः राक्षसान् घोरान्  
 छिन्धि कर्म-विघातिनः।  
 त्वाम् अर्पयामि कुम्भेऽस्मिन्  
 साफल्यं कुरु कर्मणि॥
+</details>
 </details>
 </details>
 </div>  
@@ -662,10 +665,13 @@ Then with the mantras above, a kūrca should be placed on top of the kalaśa.
 सर्व-दोषापनुत्तये॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वृक्षराज-समुद्भूताः शाखायाः पल्लवत्वचः।  
 युष्मान् कुम्भेष्वर्पयामि सर्वदोषापनुत्तये॥
+</details>
 </details>
 </details>
 </div>  
@@ -682,10 +688,13 @@ Saying this, a mango leaf bunch should be placed at the neck.
 पापं पीडां च मे **नुद**॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 नालिकेर-समुद्भूत त्रिनेत्र हरसम्मित।  
 शिखया दुरितं सर्वं पापं पीडां च मे नुद॥
+</details>
 </details>
 </details>
 </div>  
@@ -700,10 +709,13 @@ Saying this, a coconut smeared with haldi should be placed on top.
 आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सर्वे समुद्राः सरितस्तीर्थानि च नदा ह्रदाः।  
 आयान्तु मम सहकुटुम्बस्य दुरितक्षयकारकाः॥
+</details>
 </details>
 </details>
 </div>  
@@ -1521,12 +1533,15 @@ Stand up and recite the following.
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
+</details>
 </details>
 </details>
 </div>
@@ -1540,12 +1555,15 @@ Stand up and recite the following.
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
 तपः कर्मात्मकानि वै ।  
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
+</details>
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)

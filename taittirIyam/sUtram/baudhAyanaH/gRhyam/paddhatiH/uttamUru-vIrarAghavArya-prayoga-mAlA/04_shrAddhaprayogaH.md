@@ -669,11 +669,15 @@ title = "०४ श्राद्धप्रयोगः"
 नम॒स्सह॑मानाय निव्याधिन॑ आव्या॒धिनी॑नां पत॑ये॒ नमो॒ नमः॑ ककुभाय॑ निष॒ङ्गिणे॑ स्ते॒नानां॒ पत॑ये॒ नमो॒ नमो॑ निष॒ङ्गिण॑ इषुधि॒मते॒ तस्क॑राणां॒ पत॑ये॒ नमो॒ नमो॒ वञ्च॑ते परि॒वञ्च॑ते स्तायू॒नां पत॑ये॒ नमो॒ नमो॑ निचे॒रवे॑ परिच॒रायार॑ण्यानां॒ पत॑ये॒ नमो॒ नम॑स्सृका॒विभ्यो॒ जिघाँ॑सद्भ्यो मु॒ष्ण॒तां पत॑ये॒ नमो॒ नमो॑ऽसि॒मद्भ्यो॒ नक्तं॒चर॑द्भ्यः प्रकृ॒न्तानां॒ पत॑ये॒ नमो॒ नम॑ उष्णी॒षिणे॑ गिरिच॒राय॑ कुलु॒ञ्चानां॒ पत॑ये॒ नमो॒ नम॒ इषु॑मद्भ्यो धन्वा॒विभ्य॑श्च॒ वो॒ नमो॒ नम॑ आतन्वा॒नेभ्यः॑ प्रति॒दधा॑नेभ्यश्च वो॒ नमो॒ नम॑ आ॒यच्छ॑द्भ्यो विसृजद्भ्य॑श्च वो॒ नमो॒ नमोऽस्य॑द्भ्यो॒ विध्य॑द्भ्यश्च वो॒ नमो॒ नम॒ आसी॑नेभ्य॒श्शया॑नेभ्यश्च वो॒ नमो॒ नम॑स्स्व॒पद्भ्यो॒ जाग्र॑द्भ्यश्च वो॒ नमो॒ नम॒स्तिष्ठ॑द्भ्यो॒ धाव॑द्भ्यश्च वो॒ नमो॒ नम॑स्स॒भा॒भ्यः॑ स॒भाप॑तिभ्यश्च वो॒ नमो॒ नमो॒ अश्वे॒भ्योऽश्व॑पतिभ्यश्च वो॒ नमः॑ ॥ [[TODO:परिष्कार्यम्??]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/5_rudra-homa-mantrAH/07_namo_dundubhyAya">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निर्ऋषिः
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
@@ -682,16 +686,22 @@ title = "०४ श्राद्धप्रयोगः"
 तेभ्योऽन्यानि कानिचिद् यजूंषि सप्तमेऽभिधीयन्ते।  
 तत्र विद्यमानानि षोडश यजूंष्याह— नमो दुन्दुभ्यायेति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ दुन्दु॒भ्या॑य चाहन॒न्या॑य च॒ नमो॑ धृ॒ष्णवे॑ च प्रमृ॒शाय॑ च॒ नमो॑ दू॒ताय॑ च॒ प्रहि॑ताय च॒ नमो॑ निष॒ङ्गिणे॑ चेषुधि॒मते॑ च॒ नम॑स्ती॒क्ष्णेष॑वे चायु॒धिने॑ च॒ नम॑स्स्वायु॒धाय॑ च सु॒धन्व॑ने च॒ नम॒स्स्रुत्या॑य च॒ पथ्या॑य च॒ नम॑ᳵ का॒ट्या॑य च नी॒प्या॑य च॒ नम॒स्सूद्या॑य च सर॒स्या॑य च॒ नमो॑ ना॒द्याय॑ च वैश॒न्ताय॑ च [15]  नम॒ᳵ कूप्या॑य चाव॒ट्या॑य च॒ नमो॒ वर्ष्या॑य चाव॒र्ष्याय॑ च॒ नमो॑ मे॒घ्या॑य च विद्यु॒त्या॑य च॒ नम॑ ई॒ध्रिया॑य चात॒प्या॑य च॒ नमो॒ वात्या॑य च॒ रेष्मि॑याय च॒ नमो॑ वास्त॒व्या॑य च वास्तु॒पाय॑ च ॥ [16]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो दुन्दुभ्या᳙य चाहनन्या᳙य +++(शब्दाय)+++ च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -713,11 +723,14 @@ Homage to him of the drum, and to him of the drumstick.
 दुन्दुभौ भेर्यां भवः शब्दो दुन्दुभ्यः।  
 आहन्यते ताड्यतेऽनेत्याहननं दुन्दुभ्याघातार्थो दण्डस्तत्र ताडनरूपेणोत्पन्न आहनन्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो धृष्ण᳓वे च प्रमृशा᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -740,11 +753,14 @@ Homage to the bold, and to the cautious.
 
 प्रमृशः परसैन्यवृत्तान्तपरामर्षकः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो दूता᳓य च प्र᳓हिताय च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -767,11 +783,14 @@ Homage to the messenger, and to the servant.
 
 प्रहितः स्वामिना प्रेषितः पुरुषः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निषङ्गि᳓णे चेषुधिम᳓ते च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -794,11 +813,14 @@ Homage to the quiver-bearer, and to the owner of the quiver.
 
 इषुधि मान्बाणाधारयुक्तः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्तीक्ष्णे᳓षवे चायुधि᳓ने च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -821,11 +843,14 @@ Homage to him of the sharp arrow, and to him of the weapon.
 
 बहून्यायुधानि यस्य सन्तीत्यायुधी।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्स्वायुधा᳓य च सुध᳓न्वने च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -848,11 +873,14 @@ Homage to him of the good weapon, and to him of the good bow.
 
 शोभनं धन्वपिनाकरूपं यस्यासौ सुधन्वा।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्स्रु᳓त्याय च प᳓थ्याय च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -875,11 +903,14 @@ Homage to him of the stream, and to him of the way.
 
 पन्या रथाश्वादिसंचारक्षमः प्रौढो मार्गस्तमर्हतीति पथ्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ काऽट्या᳙य च नीप्या᳙य+++(←नीपः = जलपातस्थलम्)+++ च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -902,11 +933,14 @@ Homage to him of the hole, and to him of the pool.
 
 यस्मिंन्प्रदेशे पर्वताग्राज् जलं न्यग्भावेन पतति स प्रदेशो नीपस्तत्र जलरूपेणावस्थितो नीप्यः  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस् सू᳓द्याय+++(←सूदः=कर्दम-प्रदेशः)+++ च सरस्या᳙य च  +++(जलाय)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -929,11 +963,14 @@ Homage to him of the ditch, and to him of the lake.
 
 सरः प्रसिद्धं, तत्रत्य जलरूपः सरस्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो नाद्या᳓य च वैशन्ता᳓य +++(←अल्पसरो वेशन्तः)+++ च +++(जलाय)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -956,11 +993,14 @@ Homage to him of the stream, and to him of the tank.
 
 अल्पसरो वेशन्तस् तत्रत्यजलरूपो वैशन्तः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ कू᳓प्याय चावट्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -983,11 +1023,14 @@ Homage to him of the cistern, and to him of the well.
 
 अवटस्थजलरूपोऽवट्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  व᳓र्ष्याय चावर्ष्या᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1010,11 +1053,14 @@ Homage to him of the rain, and to him not of the rain.
 
 वर्षनिरपेक्षजलरूपोऽवर्ष्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मेघ्या᳙य च विद्युत्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1037,11 +1083,14 @@ Homage to him of the cloud, and to him of the lightning.
 
 विद्युता सह चरतीति विद्युत्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म ईध्रि᳓याय+++(←इध्)+++ चातप्या᳙य च  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1064,11 +1113,14 @@ Homage to him of the cloudy sky, and to him of the heat.
 
 आतपेन सह दृष्ट आतप्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  वा᳓त्याय च रे᳓ष्मियाय+++(←रिष्)+++ च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1091,11 +1143,14 @@ Homage to him of the wind, and to him of the storm.
 
 रिष्यन्ति विनश्यन्ति भूतान्यत्रेति **रेष्मः** प्रलयकालस्तत्र भवः शर्करापाषाणादिसहितो वृष्टिजलविशेषो रेष्मियः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वास्तव्या᳙य च वास्तुपा᳓य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1120,7 +1175,7 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे पञ्चमप्रपाठके सप्तमोऽनुवाकः॥  ७ ॥
 </details>
-
+</details>
 </div>
 
 [[217]]
@@ -1801,8 +1856,8 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 पुन॑र्मे अश्विनायु॒वं चक्षु॒राध॑त्तम॒क्ष्योस्स्वाहा॑ ॥ [[TODO:परिष्कार्यम्??]] (अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 
 (ओं᳓) भू᳓स् स्वा᳓हा ॥
 (अग्न᳓य +इदं᳓ न᳓ म᳓म)
@@ -1816,6 +1871,8 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 (ओं) भू᳓र् भु᳓वस् सु᳓व स्स्वा᳓हा ॥  
 (प्रजा᳓पतय +इदं᳓ न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1832,7 +1889,7 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 (प्रजापतय इदं न मम)  
 
 </details>
-
+</details>
 </div>
 
 इ॒ष्टेभ्यः॒ स्वाहा॑ ॥ (इष्टेभ्य इदम्) । वष॒डनि॑ष्टेभ्यः॒ स्वाहा॑ ॥ (वषडनिष्टेभ्य इदम्) । भेष॒जं दुरि॑ष्ट्यै॒ स्वाहा॑ ॥ (दुरिष्ट्या इदम्) । निष्कृ॑त्यै॒ स्वाहा॑ ॥ (निष्कृत्या इदम्) । दौरा॑र्ध्यै स्वाहा॑ ॥ (दौरार्ध्या इदम्) । दैवी॑भ्यस्त॒नूभ्यः॒ स्वाहा॑ ॥ (दैवीभ्यस्तनूभ्य इदं न मम) ऋद्ध्यै॒ स्वाहा॑ ॥ (ऋद्ध्या इदम्) समृ॑द्ध्यै॒ स्वाहा॑ ॥ (समृद्ध्या इदम्) । (स॒र्व॒समृ॑द्ध्यै॒ स्वाहा॑ ॥ (सर्वसमृद्ध्या इदं न मम) ॥ [[TODO:परिष्कार्यम्??]]
@@ -1919,16 +1976,20 @@ Homage to him of the dwelling, and to him who guardeth the dwelling.
 परिसमूह्य, समन्तम् अप्रदक्षिणं परिषिश्य, वरुणाय नमः, प्रणीता मोक्षणं - प्रोक्षणं ब्रह्मन्! वरं ते ददामि । ब्रह्मणे नमः सकलाराधनैः स्वतम् । अग्नि-उपस्थानं करिष्ये ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥ [11]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने ते᳓जस् ते᳓नाह᳓न् तेजस्वी᳓ भूयासम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1949,11 +2010,14 @@ With the brilliance that is thine, O Agni, may I become brilliant;
 
 5यत्ते अग्ने इत्यादि यजुः ॥ तेजो दीप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने व᳓र्चस् ते᳓नाहव्ँ᳓ वचस्वी᳓ भूयासम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1974,11 +2038,14 @@ with the radiance that is thine, O Agni, may I become radiant;
 
 वर्चोन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्ते अग्ने ह᳓रस् ते᳓नाहँ᳓ हरस्वी᳓ भूयासम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2001,7 +2068,7 @@ with the splendour that is thine, O Agni, may I become resplendent.
 
 इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
 </details>
-
+</details>
 </div>
 
 नमस्कृत्य पवित्रं विसृज्य आचामेत् । सात्वत्यागं [[सात्त्विक??]] कुर्यात् ।

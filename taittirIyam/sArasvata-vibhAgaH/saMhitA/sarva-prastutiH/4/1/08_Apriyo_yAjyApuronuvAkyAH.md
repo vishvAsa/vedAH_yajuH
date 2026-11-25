@@ -7,6 +7,8 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 ९  शङ्कुमती गायत्री , १३-२० त्रिष्टुप अग्निर्ऋषिः
 
 चतुर्थकाण्डे प्रथमप्रपाठकेऽष्टमोऽनुवाकः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 ( अथ चतुर्थकाण्डे प्रथमप्रपाठकेऽष्टमोऽनुवाकः )।  
@@ -15,12 +17,15 @@ title = "०८ आप्रियो याज्यापुरोनुवा
 कल्पः—‘ऊर्ध्वा अस्य समिधो भवन्तीति प्रयाजानामाप्रियो भवन्ति’ इति।  
 तत्र प्रथमामाह— ऊर्ध्वा अस्येति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वा᳓ अस्य समि᳓धो भवन्त्यूर्ध्वा᳓ शुक्रा᳓ शोचीँ᳓ष्यग्नेः᳓ ।  
 द्युम᳓त्तमा सुप्र᳓तीकस्य सूनोः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,10 +57,14 @@ Most brilliant (are they) of the son of fair countenance.
 कीदृशानि शोचींषि, शुक्रा भास्वराणि द्युमत्त-माऽतिशयेन दीप्तिमन्ति ।  
 कीदृशस्याग्नेः, सुप्र॑तीकस्य सुमुखस्य सूनोः पुत्रवद्धित-कारिणः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— तनूनपादसुर इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -63,6 +72,8 @@ Most brilliant (are they) of the son of fair countenance.
 त᳓नून᳓पाद᳓सुरो विश्व᳓वेदा देवो᳓ देवे᳓षु देवः᳓ ।  
 पथ᳓ आ᳓नक्ति म᳓ध्वा घृते᳓न ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,10 +111,14 @@ Anointeth the ways with mead and ghee.
 देवो द्योतनात्मको मनुष्यैः पूजनीयो  वा ।  
 न केवलं मनुष्येष्वेव देवो-ऽपि तु देवेष्वप्यधिको देवः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— मध्वा यज्ञमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +126,8 @@ Anointeth the ways with mead and ghee.
 म᳓ध्वा यज्ञ᳓न्नक्षसे प्रीणानो᳓ न᳓राशँ᳓सो अग्ने ।  
 सुकृ᳓द्देव᳓स्सविता᳓ विश्व᳓वारः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,10 +157,14 @@ The kindly god Savitr, with every boon.
 देवो द्योतनात्मकः सविता कर्मण्यस्माकं प्रेरकः ।  
 विश्वानि दुरितानि वार-यतीवि विश्ववारः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— अच्छायमेतीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +172,8 @@ The kindly god Savitr, with every boon.
 अ᳓च्छाय᳓मेति श᳓वसा घृते᳓नेडानो᳓ व᳓ह्निर्न᳓मसा ।  
 अग्निँ᳓ स्रु᳓चो अध्वरे᳓षु प्रय᳓त्सु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,10 +201,14 @@ To Agni the ladles (move) when the rites proceed.
 तमग्निमध्वरेषु प्रयत्सु यज्ञेषु प्रवर्तमानेषु स्रुचो घृतेन जुहूनिष्ठेनाऽऽज्येन नमसा नम-स्कारेण च परिचरेमेति शेषः ।   
 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— स यक्षदस्येति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +216,8 @@ To Agni the ladles (move) when the rites proceed.
 स᳓ यक्षदस्य महिमा᳓नमग्ने᳓स्सः᳓ [29]  ई मन्द्रा᳓सु प्रय᳓सः ।
 व᳓सुश्चे᳓तिष्ठो वसुधा᳓तमश्च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,10 +243,14 @@ Worship let him pay to the greatness of him, of Agni; He [1] indeed is pre-emine
 १८२० अधिकपरिचर्यायुक्त इत्यर्थः ।  
 किंचायं बर्हिर्नामकोऽग्निर्वसुः प्राणिनां वासयिता चेतिष्ठोऽतिशयेनाभिज्ञो वसुधातमश्च यजमानार्थं द्रव्यस्यातिशयेन धारयिता ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— द्वारो देवीरन्वस्येति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +258,8 @@ Worship let him pay to the greatness of him, of Agni; He [1] indeed is pre-emine
 द्वा᳓रो देवी᳓र᳓न्वस्य वि᳓श्वे व्रता᳓ ददन्ते अग्नेः᳓ ।  
 उरुव्य᳓चसो धा᳓म्ना प᳓त्यमानाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,10 +287,14 @@ Of wide expanse, lording it with dominion.
 कीदृशीर्द्वारः ।  
 उरुव्यचसो विस्तीर्णगतीर्धाभ्ना तेजसा प्रत्यमानाः प्राप्य- माणास्तेजास्विनीरित्यर्थः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह— ते अस्येति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +302,8 @@ Of wide expanse, lording it with dominion.
 ते᳓ अस्य यो᳓षणे दिव्ये᳓ न᳓ यो᳓नावुषा᳓सान᳓क्ता ।  
 इमय्ँ᳓ यज्ञ᳓मवतामध्वर᳓न्नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,10 +331,14 @@ Protect this our sacrifice and offering.
 कीदृश्यौ ते, योषणे परस्परमिश्रिते ।  
 तत्र दृष्टान्तः— दिव्ये न, यथा द्युलोकस्थे मूर्ती भासमाने भवत एवमेते मूर्ती ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह— दैव्या होताराविति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -301,6 +346,8 @@ Protect this our sacrifice and offering.
 दै᳓व्या होतारावूर्ध्व᳓मध्वर᳓न्नोऽग्ने᳓र्जिह्वा᳓मभि᳓ गृणीतम् ।  
 कृणुत᳓न्नस्स्वि᳙ष्टिम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,10 +376,14 @@ Make for us good offering.
 हे दैव्या होतारावग्नेर्जिह्वां ज्वालामभिलक्ष्य प्रवृत्तमूर्ध्वमत्युच्छ्रितं नोऽध्वरमस्मदीयमिमं यज्ञं गृणीतं प्रख्या पयतम् ।  
 किंच नोऽस्मदर्थं स्विष्टिं कृणुतं वैगुण्यं परिहत्येतामिष्टिं शोभनां कुरुतम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— तिस्रो देवोरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +391,8 @@ Make for us good offering.
 तिस्रो᳓ देवी᳓र्बर्हि᳓रे᳓दँ᳓ सदन्त्वि᳓डा स᳓रस्व᳓ती᳓ [30]  भा᳓रती ।  
 मही᳓ गृणाना᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,10 +417,14 @@ Ida, Sarasvati [2], Bharati, the great, being sung.
 प्राप्नुवन्तु ।  
 तासां प्रत्येके विशेषणमाह—मही महती गृणाना यज्ञं प्रख्यापयन्ती ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह— तन्नस्तुरीपमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +432,8 @@ Ida, Sarasvati [2], Bharati, the great, being sung.
 त᳓न्नस्तुरी᳓पम᳓द्भुतम्पुरुक्षु᳓ त्व᳓ष्टा सुवी᳓रम् ।  
 राय᳓स्पो᳓षव्ँवि᳓ ष्यतु ना᳓भिमस्मे᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -403,10 +462,14 @@ As increase of wealth with good heroes, as offspring to us.
 शोभना  
 १८२१ वीराः पुत्रा यस्मिंस्तत्सुवीरं, रायो धनस्य पोषः पुष्टिर्यस्मिंस्तद्रायस्पोपं, नाभिं रथचक्रगतानामराणां नाभिरिव सर्मेषां बन्धूनामाश्रयभूतं [ तादृशम् ] ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशीमाह वनस्पतेऽवेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +477,8 @@ As increase of wealth with good heroes, as offspring to us.
 व᳓नस्पते᳓ऽव सृजा र᳓राणस्त्म᳓ना देवे᳓षु ।  
 अग्नि᳓र्हव्यँ᳓ शमिता᳓ सूदयाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -439,10 +504,14 @@ Let Agni as queller make ready the oblation.
 हे वनस्पते त्वं रणाणो दानशीलः सन्रममाणो वा देवेष्वस्माभिर्यष्टव्येषु त्मनाऽवसृजास्मद्दत्तं हविः स्वयमेव स्थापय ।  
 अस्माभिः प्रार्थितोऽयमग्निः शमिता दुरितापशमस्य कर्ता सन्हव्यं सूदयाति, अस्मदीयं हर्विर्देवेषु सूदयतु ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशीमाह— अग्ने स्वाहेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -450,6 +519,8 @@ Let Agni as queller make ready the oblation.
 अ᳓ग्ने स्वा᳓हा कृणुहि जातवेद इ᳓न्द्राय हव्य᳓म् ।  
 वि᳓श्वे देवा᳓ हवि᳓रिद᳓ञ्जुषन्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +548,15 @@ May all the gods rejoice in this offering.
 यद्यप्येकादशेव प्रयाजास्तथाऽपि द्वितीयतृतीययोर्मन्त्रयोः पुरुषभेदेन व्यवस्थियत्वान्मन्त्राणां द्वादशसंख्या न विरुद्यते ।  
 सा च व्यवस्था सूत्रकारेण दर्शिता– “नराशंसो द्वितीयः प्रयाजो वसिष्ठशुनकानां तनूनपादितरेषां गोत्राणाम्” इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—हिरण्यगर्भः समवर्तताग्र इति स्रुच्यमाघारयति” इति।  
 पाठस्तु— हिरण्यगर्भ इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -489,6 +564,8 @@ May all the gods rejoice in this offering.
 हिरण्यगर्भ᳓स्स᳓मवर्तता᳓ग्रे भूत᳓स्य जातᳶ᳓ प᳓तिरे᳓क आसीत् ।  
 स᳓ दाधार पृथिवी᳓न्द्या᳓म् [31]  उते᳓मा᳓ङ्क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,6 +595,9 @@ To what god shall we offer with oblation?
 उतापि चेमां भूमिं दाधार ।  
 तादृशाय कस्मै प्रजापतये देवायाऽऽधाररूपेण हविषा विधेम परिचरेम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -526,12 +606,15 @@ To what god shall we offer with oblation?
 तत्र वपायां द्वे ऋचौ पुरोडाशे द्वे ऋचौ हविषि द्वे ऋचाविति षडृचो याज्यानुवाक्याः ।  
 तत्र प्रथमामाह— यः प्राणत इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यᳶ᳓ प्राणतो᳓ निमिषतो᳓ महित्वै᳓क इ᳓द्रा᳓जा ज᳓गतो बभू᳓व ।  
 य᳓ ई᳓शे अस्य᳓ द्विप᳓दश्च᳓तुष्पदᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -559,10 +642,14 @@ To what god shall we offer with oblation?
 अत एव यः प्रजापतिरस्य द्विपदो मनुष्यादेश्चतुष्पदो गवादेश्चेसे नियमनाव समर्थो भवति।  
 तादृशाय कस्यै देवाय हविषा विधेम ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— य आत्मदा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -570,6 +657,8 @@ To what god shall we offer with oblation?
 य᳓ आत्मदा᳓ बलदा᳓ य᳓स्य वि᳓श्व उपा᳓सते प्रशि᳓षय्ँय᳓स्य देवाः᳓ ।  
 य᳓स्य छाया᳓मृ᳓तय्ँय᳓स्य मृत्युᳵ᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,10 +689,14 @@ To what god shall we offer with oblation?
 किंच यस्य प्रशिषं देवा अप्युपासते ।  
 अमृतममरणं मोक्षरूपं यस्य च्छाया, यस्य प्रजापतेश्छायावत्स्वाधीने, मृत्युः प्राणिनां मरणमपि यस्य च्छायेव स्वाधीनस्तादृशाय कस्मै देवाय हविषा विधेम ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयमाह— यस्येमे हिमवन्त इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -611,6 +704,8 @@ To what god shall we offer with oblation?
 य᳓स्येमे᳓ हिम᳓वन्तो महित्वा᳓ य᳓स्य समुद्रँ᳓ रस᳓या सह᳓ [32]  आहुः᳓ ।  
 य᳓स्येमाᳶ᳓ प्रदि᳓शो य᳓स्य बाहू᳓ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -639,10 +734,14 @@ To what god shall we offer with oblation?
 यस्य प्रजापतेर्बाहू धर्माधर्माविति शेषः ।  
 तादृशाय कस्मा इत्यादि ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— यं क्रन्दसी इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -650,6 +749,8 @@ To what god shall we offer with oblation?
 य᳓ङ्क्र᳓न्दसी अ᳓वसा तस्तभाने᳓ अभ्यै᳓क्षेताम्म᳓नसा रे᳓जमाने ।  
 य᳓त्रा᳓धि सू᳓र उ᳓दितौ व्ये᳓ति क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -676,10 +777,14 @@ To what god shall we offer with oblation?
 ते च द्यावापृथिव्या-ववसा रक्षणेन निमित्तेन यं प्रजापतिं मनसाऽभ्यैक्षेतामभित ईक्षणं कृतवत्यौ अय-मावां रक्षत्वित्याशासनं कृतवत्यावित्यर्थः ।  
 कीदृशौ द्यावापृथिव्यौ, तस्तभाने देवानां मनुष्याणां चावस्थानाय स्तम्भिते, रेजमाने दीप्यमाने सूरः सूर्यो यत्राधि यस्मिन्प्रजाप-तावधिश्रित्योदितौ व्येति उदयविषये विविधं गच्छति, तादृशाय कस्मै देवाय हविषा विधेम ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— येन द्यौरुग्रेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -687,6 +792,8 @@ To what god shall we offer with oblation?
 ये᳓न द्यौ᳓रुग्रा᳓ पृथिवी᳓ च दृढे᳓ ये᳓न सु᳓वस्स्तभितय्ँ᳓ये᳓न ना᳓कः ।  
 यो᳓ अन्त᳓रिक्षे र᳓जसो विमा᳓नᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -714,10 +821,14 @@ To what god shall we offer with oblation?
 नाको दुःखरहितो मोक्षो येन प्रजापतिना ज्ञानिषु स्तभितः ।  
 यश्च प्रजापतिरन्तरिक्षे लोके रजसो राजसस्व यक्षगन्धर्वादेर्विमानो विमाता निर्माता, तादृशाय कस्मा इत्यादि ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह—  १८२३ आपो ह यदिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -725,6 +836,8 @@ To what god shall we offer with oblation?
 आ᳓पो ह य᳓न्महती᳓र्वि᳓श्वम् [33]  आयन्द᳓क्षन्द᳓धाना जन᳓यन्तीरग्नि᳓म् ।  
 त᳓तो देवा᳓नान्नि᳓रवर्तता᳓सुरे᳓कᳵ क᳓स्मै देवा᳓य हवि᳓षा विधेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -757,10 +870,14 @@ To what god shall we offer with oblation?
 तादृशाय कस्मा इत्यादि ।  
 सेयमृक्षष्ठी हविष याज्या ।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैवान्यां विकल्पितां याज्यामाह— यश्चिदाप इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -768,6 +885,8 @@ To what god shall we offer with oblation?
 य᳓श्चिदा᳓पो महिना᳓ पर्य᳓पश्यद्द᳓क्षन्द᳓धाना जन᳓यन्तीरग्नि᳓म् ।  
 यो᳓ देवे᳓ष्व᳓धि देव᳓ ए᳓क आ᳓सीत्क᳓स्मै देवा᳓य हवि᳓षा विधेम ॥ [34]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -851,4 +970,5 @@ To what god shall we offer with oblation?
 याज्यानुवाक्ये हि वपापुरोडाशहविःषु ताः ।  
 यश्चिद्विकल्पितो मन्त्र इति विंशतिरीरिताः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीय-तैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे प्रथमप्रपाठके अष्टमोऽनुवाकः ॥   ८ ॥  
+</details>
 </details>

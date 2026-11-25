@@ -10,29 +10,36 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 </details>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH">
 <details open><summary><h4>नक्षत्रोपहोमाः ...{Loading}...</h4></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ब्राह्मणाभ्याम् उद्धृतम्। 
 </details>
+</details>
 
 ##### कृत्तिकाः - अग्निः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
 
-अ॒ग्नये॒ स्वाहा॑  ।
-कृत्ति॑काभ्य॒स्स्वाहा॑ ।  
-अ॒म्बायै॒ स्वाहा॑ ।   
-दु॒लायै॒ स्वाहा॑ ।  
-नि॒त॒त्न्यै स्वाहा॑ ।  
-अ॒भ्रय॑न्त्यै॒ स्वाहा॑ ।  
-मे॒घय॑न्त्यै॒ स्वाहा॑ ।  
-व॒र्षय॑न्त्यै॒ स्वाहा॑ ।
-चु॒पु॒णीका॑यै॒ स्वाहा॑
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अग्न᳓ये स्वा᳓हा  ।
+कृ᳓त्तिकाभ्यस्स्वा᳓हा ।  
+अम्बा᳓यै स्वा᳓हा ।   
+दुला᳓यै स्वा᳓हा ।  
+नितत्न्यै᳓ स्वा᳓हा ।  
+अभ्र᳓यन्त्यै स्वा᳓हा ।  
+मेघ᳓यन्त्यै स्वा᳓हा ।  
+वर्ष᳓यन्त्यै स्वा᳓हा ।
+चुपुणी᳓कायै स्वा᳓हा
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॒ स्वाहा॑  ।
@@ -46,37 +53,47 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 चु॒पु॒णीका॑यै॒ स्वाहा॑
 </details>
 </details>
+
 </div>
 
 ##### रोहिणी - प्रजापतिः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
 
-प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स् स्वाहा॑ ॥28॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतये स्वा᳓हा रोहिण्यै᳓ स्वा᳓हा । रो᳓चमानायै स्वा᳓हा प्रजा᳓भ्यस् स्वा᳓हा ॥28॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स्स्वाहा॑ ॥28॥
 </details>
 </details>
+
 </div>
 
 ##### मृगशीर्षम् - सोमः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/04_somAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/04_somAya_svAhA.md">
 
-सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑ ,  
-इन्व॒काभ्य॒स् स्वाहौष॑धीभ्य॒स् स्वाहा॑ ,  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥29॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सो᳓माय स्वा᳓हा मृगशीर्षा᳓य स्वा᳓हा ,  
+इन्वका᳓भ्यस् स्वा᳓हौ᳓षधीभ्यस् स्वा᳓हा ,  
+राज्या᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥29॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/04_somAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/04_somAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑ ।  
@@ -84,71 +101,91 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 रा॒ज्याय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥29॥
 </details>
 </details>
+
 </div>
 
 ##### आर्द्रा - रुद्रः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
 
-रु॒द्राय॒ स्वाहा॒ ऽर्द्रायै॒ स्वाहा॑ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा॑ ॥30॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+रुद्रा᳓य स्वा᳓हा ऽर्द्रा᳓यै स्वा᳓हा , पि᳓न्वमानायै स्वा᳓हा पशु᳓भ्यस्स्वा᳓हा ॥30॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 रु॒द्राय॒ स्वाहा॒ऽर्द्रायै॒ स्वाहा॑ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा॑ ॥30॥
 </details>
 </details>
+
 </div>
 
 ##### पुनर्वसू - अदितिः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
 
-अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑,  
-भूत्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑ ॥31॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ᳓दित्यै स्वा᳓हा पु᳓नर्वसुभ्यां स्वा᳓हा,  
+भूत्यै स्वा᳓हा प्र᳓जात्यै स्वा᳓हा ॥31॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑, भूत्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑ ॥31॥
 </details>
 </details>
+
 </div>
 
 ##### तिष्यम् / पुष्यम् - बृहस्पतिः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
 
-बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑ ॥32॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+बृ᳓हस्प᳓तये स्वा᳓हा तिष्या᳙य स्वा᳓हा । ब्रह्मवर्चसा᳓य स्वा᳓हा ॥32॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑ ॥32॥
 </details>
 </details>
+
 </div>
 
 ##### आश्रेषाः - सर्पाः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
 
-स॒र्पेभ्य॒स् स्वाहा॑ ऽऽश्रे॒षाभ्य॒स् स्वाहा॑ ।   
-द॒न्द॒शूके॑भ्य॒स् स्वाहा॑ ॥33॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सर्पे᳓भ्यस् स्वा᳓हा ऽऽश्रेषा᳓भ्यस् स्वा᳓हा ।   
+दन्दशू᳓केभ्यस् स्वा᳓हा ॥33॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 स॒र्पेभ्य॒स्स्वाहा॑ऽऽश्रे॒षाभ्य॒स्स्वाहा॑ ।
@@ -156,417 +193,533 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 द॒न्द॒शूके॑भ्य॒स्स्वाहा॑ ॥33॥
 </details>
 </details>
+
 </div>
 
 ##### मघाः - पितरः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
 
-पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  
-ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑  
-ऽरुन्ध॒तीभ्य॒स् स्वाहा॑ ॥34॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पितृ᳓भ्यस् स्वा᳓हा मघा᳓भ्यस् स्वा᳓हा  
+ऽनघा᳓भ्यस् स्वा᳓हा गदा᳓भ्यस् स्वा᳓हा  
+ऽरुन्धती᳓भ्यस् स्वा᳓हा ॥34॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑ ऽरुन्ध॒तीभ्य॒स् स्वाहा॑ ॥34॥
 </details>
 </details>
+
 </div>
 
 ##### पूर्व-फल्गुन्यः  - अर्यमा
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
 
-अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ ,  
-प॒शुभ्य॒स् स्वाहा॑ ॥35॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अर्यम्णे᳓ स्वा᳓हा फ᳓ल्गुनीभ्याँ स्वा᳓हा ,  
+पशु᳓भ्यस् स्वा᳓हा ॥35॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ , प॒शुभ्य॒स्स्वाहा॑ ॥35॥
 </details>
 </details>
+
 </div>
 
 ##### उत्तर-फल्गुन्यः - भगः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
 
-भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+भ᳓गाय स्वा᳓हा फ᳓ल्गुनीभ्याँ स्वा᳓हा । श्रै᳓ष्ठ्याय स्वा᳓हा ॥36॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
 </details>
 </details>
+
 </div>
 
 ##### हस्तः - सविता
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
 
-स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑  
-दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑  
-प्र॒यच्छ॑ते॒ स्वाहा॑  प्रतिगृभ्ण॒ते स्वाहा॑ ॥37 ॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+सवित्रे᳓ स्वा᳓हा ह᳓स्ताय स्वा᳓हा  
+ददते᳓ स्वा᳓हा पृणते᳓ स्वा᳓हा  
+प्रय᳓च्छते स्वा᳓हा  प्रतिगृभ्णते᳓ स्वा᳓हा ॥37 ॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑ दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑ प्र॒यच्छ॑ते॒ स्वाहा॑  प्रतिगृभ्ण॒ते स्वाहा॑ ॥37 ॥
 </details>
 </details>
+
 </div>
 
 ##### चित्रा - त्वष्टा
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
 
-त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑ ।  
-चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑ ॥38॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+त्व᳓ष्ट्रे स्वा᳓हा चित्रा᳓यै स्वा᳓हा ।  
+चै᳓त्राय स्वा᳓हा प्रजा᳓यै स्वा᳓हा ॥38॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑ । चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑ ॥38॥
 </details>
 </details>
+
 </div>
 
 ##### निष्ट्या, स्वातिः - वायुः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
 
-वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ ।  
-का॒म॒चारा॑य॒ स्वाहा॒  
-ऽभिजि॑त्यै॒ स्वाहा॑ ॥39॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वाय᳓वे स्वा᳓हा नि᳓ष्ट्यायै स्वा᳓हा ।  
+कामचा᳓राय स्वा᳓हा  
+ऽभि᳓जित्यै स्वा᳓हा ॥39॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ । का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥39॥
 </details>
 </details>
+
 </div>
 
 ##### विशाखे - इन्द्राग्नी
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
 
-इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ ।  
-श्रैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इन्द्राग्नि᳓भ्याँ स्वा᳓हा वि᳓शाखाभ्याँ स्वा᳓हा ।  
+श्रै᳓ष्ठ्याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥40॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
 </details>
 </details>
+
 </div>
 
 ##### पूर्णिमा
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
 
-पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥41॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पौर्णमास्यै᳓ स्वा᳓हा का᳓माय स्वा᳓हा᳓ ऽऽगत्यै स्वा᳓हा ॥41॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥41॥
 </details>
 </details>
+
 </div>
 
 ##### अनूराधाः - मित्रः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
 
-मि॒त्राय॒ स्वाहा॑ ऽनूरा॒धेभ्य॒स् स्वाहा॑ ।  
-मि॒त्र॒धेया॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥42॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+मित्रा᳓य स्वा᳓हा ऽनूराधे᳓भ्यस् स्वा᳓हा ।  
+मित्रधे᳓याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥42॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 मि॒त्राय॒ स्वाहा॑ऽनूरा॒धेभ्य॒स्स्वाहा॑ । मि॒त्र॒धेया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥42॥
 </details>
 </details>
+
 </div>
 
 ##### ज्येष्ठा - इन्द्रः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
 
-इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑ ।  
-ज्यैष्ठ्या॑य॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥43॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+इ᳓न्द्राय स्वा᳓हा ज्येष्ठा᳓यै स्वा᳓हा ।  
+ज्यै᳓ष्ठ्याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥43॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑ ।  
 ज्यैष्ठ्या॑य॒ स्वाहा॒भिजि॑त्यै॒ स्वाहा॑ ॥43॥
 </details>
 </details>
+
 </div>
 
 ##### मूलम् - निरृतिः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
 
-प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑ । प्र॒जायै॒ स्वाहा॑ ॥44॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+प्रजा᳓पतये स्वा᳓हा मू᳓लाय स्वा᳓हा । प्रजा᳓यै स्वा᳓हा ॥44॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑ । प्र॒जायै॒ स्वाहा॑ ॥44॥
 </details>
 </details>
+
 </div>
 
 ##### अषाढाः पूर्वाः - आपः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
 
-अ॒द्भ्यस् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ ।  
-स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ ।  
-अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अद्भ्य᳓स् स्वा᳓हा ऽषाढा᳓भ्यस् स्वा᳓हा ।  
+समुद्रा᳓य स्वा᳓हा का᳓माय स्वा᳓हा ।  
+अभि᳓जित्यै  स्वा᳓हा ॥45॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यस् स्वाहा॑ऽषा॒ढाभ्य॒स् स्वाहा॑ । स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ । अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥
 </details>
 </details>
+
 </div>
 
 ##### अषाढाः उत्तराः - विश्वे देवाः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
 
-विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑ ऽषा॒ढाभ्य॒स् स्वाहा॑ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑ ॥46॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा ऽषाढा᳓भ्यस् स्वा᳓हा । अनपजय्या᳓य स्वा᳓हा जि᳓त्यै स्वा᳓हा ॥46॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 विश्वे॑भ्यो दे॒वेभ्य॒स्स्वाहा॑ऽषा॒ढाभ्य॒स्स्वाहा॑ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑ ॥46॥
 </details>
 </details>
+
 </div>
 
 ##### अभिजित्
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
 
-ब्रह्म॑णे॒ स्वाहा॑ ऽभि॒जिते॒ स्वाहा॑ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥47॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+ब्र᳓ह्मणे स्वा᳓हा ऽभिजि᳓ते स्वा᳓हा । ब्रह्मलोका᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥47॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णे॒ स्वाहा॑ऽभि॒जिते॒ स्वाहा॑ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥47॥
 </details>
 </details>
+
 </div>
 
 ##### श्रोणा / श्रवणम् - विष्णुः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
 
-विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑ ।  
-श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ ॥48॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+वि᳓ष्णवे स्वा᳓हा श्रोणा᳓यै स्वा᳓हा ।  
+श्लो᳓काय स्वा᳓हा श्रुता᳓य स्वा᳓हा ॥48॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑ । श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ ॥48॥
 </details>
 </details>
+
 </div>
 
 ##### धनिष्ठाः/ श्रविष्ठाः - वसवः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
 
-वसु॑भ्य॒स् स्वाहा॒ श्रवि॑ष्ठाभ्य॒स् स्वाहा॑ ।  
-अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑ ॥49॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+व᳓सुभ्यस् स्वा᳓हा श्र᳓विष्ठाभ्यस् स्वा᳓हा ।  
+अ᳓ग्राय स्वा᳓हा प᳓रीत्यै स्वा᳓हा ॥49॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वसु॑भ्य॒स्स्वाहा॒ श्रवि॑ष्ठाभ्य॒स्स्वाहा॑ । अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑ ॥49॥
 </details>
 </details>
+
 </div>
 
 ##### शतभिषग् - वरुणः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
 
-वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा॑ । भे॒ष॒जेभ्य॒स् स्वाहा॑ ॥50॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+व᳓रुणाय स्वा᳓हा शत᳓भिषजे स्वा᳓हा । भेषजे᳓भ्यस् स्वा᳓हा ॥50॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा॑ । भे॒ष॒जेभ्य॒स् स्वाहा॑ ॥50॥
 </details>
 </details>
+
 </div>
 
 ##### प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
 
-अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स् स्वाहा॑ ।  
-तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑ ॥51॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अजा᳓यै᳓कपदे स्वा᳓हा प्रोष्ठपदे᳓भ्यस् स्वा᳓हा ।  
+ते᳓जसे स्वा᳓हा ब्रह्मवर्चसा᳓य स्वा᳓हा ॥51॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स्स्वाहा॑ । तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑ ॥51॥
 </details>
 </details>
+
 </div>
 
 ##### प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
 
-अह॑ये बु॒ध्निया॑य॒ स्वाहा॑  
-प्रोष्ठप॒देभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑ ॥52॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अ᳓हये बुध्नि᳓याय स्वा᳓हा  
+प्रोष्ठपदे᳓भ्यस् स्वा᳓हा । प्रतिष्ठा᳓यै स्वा᳓हा ॥52॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अह॑ये बु॒ध्निया॑य॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स्स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑ ॥52॥
 </details>
 </details>
+
 </div>
 
 ##### रेवती - पूषा
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
 
-पू॒ष्णे स्वाहा॑ रे॒वत्यै॒+++(=ζ Piscium)+++ स्वाहा॑ । प॒शुभ्य॒स् स्वाहा॑ ॥53॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+पूष्णे᳓ स्वा᳓हा रेव᳓त्यै+++(=ζ Piscium)+++ स्वा᳓हा । पशु᳓भ्यस् स्वा᳓हा ॥53॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ स्वाहा॑ ।  
 प॒शुभ्य॒स्स्वाहा॑ ॥53॥
 </details>
 </details>
+
 </div>
 
 ##### अश्विनौ
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
 
-अ॒श्विभ्याँ॒ स्वाहा॑ ऽश्व॒युग्भ्याँ॒ स्वाहा॑ ।   
-श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑ ॥54॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अश्वि᳓भ्याँ स्वा᳓हा ऽश्वयु᳓ग्भ्याँ स्वा᳓हा ।   
+श्रो᳓त्राय स्वा᳓हा श्रु᳓त्यै स्वा᳓हा ॥54॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒श्विभ्याँ॒ स्वाहा॑ऽश्व॒युग्भ्याँ॒ स्वाहा॑ ।  श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑ ॥54॥
 </details>
 </details>
+
 </div>
 
 ##### भरणी - यमः
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
 
-य॒माय॒ स्वाहा॑ ऽप॒भर॑णीभ्य॒स् स्वाहा॑ ।  
-रा॒ज्याय॒ स्वाहा॒ ऽभिजि॑त्यै॒ स्वाहा॑ ॥55॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+यमा᳓य स्वा᳓हा ऽपभ᳓रणीभ्यस् स्वा᳓हा ।  
+राज्या᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हा ॥55॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 य॒माय॒ स्वाहा॑ऽप॒भर॑णीभ्य॒स्स्वाहा॑ । रा॒ज्याय॒ स्वाहा॒भिजि॑त्यै॒ स्वाहा॑ ॥55॥
 </details>
 </details>
+
 </div>
 
 ##### अमावास्या
 
-<div class="js_include" newlevelforh1="4" none="" title="विश्वास-प्रस्तुतिः - उपहोमः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
-<details open><summary><h8>विश्वास-प्रस्तुतिः - उपहोमः ...{Loading}...</h8></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
 
-अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहा ऽऽग॑त्यै॒ स्वाहा॑ ॥56॥
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+
+अमावास्या᳙यै स्वा᳓हा का᳓माय स्वा᳓हा᳓ ऽऽगत्यै स्वा᳓हा ॥56॥
 </details>
+
 </div>
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
-<details open><summary><h8>सर्वाष् टीकाः ...{Loading}...</h8></summary>
+
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥56॥
 </details>
 </details>
+
 </div>
 </details>
 </div>
@@ -574,10 +727,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <details open><summary><h5>चन्द्रमसाद्य्-उपहोमाः ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-च॒न्द्रम॑से॒ स्वाहा॑ प्रती॒दृश्या॑यै॒ स्वाहा॑ ।  
-अ॒हो॒रा॒त्रेभ्य॒स् स्वाहा॑ ऽर्धमा॒सेभ्य॒स् स्वाहा॑ ।  
-मासे॑भ्य॒स् स्वाह॒र्तुभ्य॒स् स्वाहा॑ । सव्ँ॒व॒त्स॒राय॒ स्वाहा॑
+चन्द्र᳓मसे स्वा᳓हा प्रतीदृ᳓श्यायै स्वा᳓हा ।  
+अहोरात्रे᳓भ्यस् स्वा᳓हा ऽर्धमासे᳓भ्यस् स्वा᳓हा ।  
+मा᳓सेभ्यस् स्वा᳓हर्तु᳓भ्यस् स्वा᳓हा । सव्ँवत्सरा᳓य स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -586,11 +741,19 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 मासे॑भ्य॒स् स्वाह॒र्तुभ्य॒स् स्वाहा॑ । सव्ँ॒व॒त्स॒राय॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चन्द्र᳓मसे । स्वा᳓हा । प्रति । इत् । ऋ᳓श्यायै । स्वा᳓हा । अहः-रात्रे᳓भ्यः । स्वा᳓हा । अर्ध-मासे᳓भ्यः । स्वा᳓हा । मा᳓सेभ्यः । स्वा᳓हा । ऋतु᳓भ्यः । स्वा᳓हा । सम्-वत्सरा᳓य । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अह्ने॒ स्वाहा॒ रात्रि॑यै॒ स्वाहा॑ ।  
-अति॑मुक्त्यै॒ स्वाहा॑
+अ᳓ह्ने स्वा᳓हा रा᳓त्रियै स्वा᳓हा ।  
+अ᳓तिमुक्त्यै स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -598,10 +761,18 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 अति॑मुक्त्यै॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓ह्ने । स्वा᳓हा । रा᳓त्रियै । स्वा᳓हा । अ᳓ति-मुक्त्यै । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उ॒षसे॒ स्वाहा॒ व्यु॑ष्ट्यै॒ स्वाहा॑ । व्यू॒षुष्यै॒ स्वाहा॑ व्यु॒च्छन्त्यै॒ स्वाहा॑ । व्यु॑ष्टायै॒ स्वाहा॑
+उष᳓से स्वा᳓हा व्यु᳙ष्ट्यै स्वा᳓हा । व्यूषु᳓ष्यै स्वा᳓हा व्युच्छ᳓न्त्यै स्वा᳓हा । व्यु᳙ष्टायै स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -609,12 +780,20 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 व्यु॑ष्टायै॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+उष᳓से । स्वा᳓हा । व्यु᳙ष्ट्यै । स्वा᳓हा । व्यूषु᳓ष्यै । स्वा᳓हा । वि-उच्छ᳓न्त्यै । स्वा᳓हा । वि᳓-उष्टायै । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नक्ष॑त्राय॒ स्वाहो॑देष्य॒ते स्वाहा॑ । उ॒द्य॒ते स्वाहोदि॑ताय॒ स्वाहा॑ ।     
-हर॑से॒ स्वाहा॒ भर॑से॒ स्वाहा॑ । भ्राज॑से॒ स्वाहा॒ तेज॑से॒ स्वाहा॑ ।   
-तप॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑
+न᳓क्षत्राय स्वा᳓होदेष्यते᳓ स्वा᳓हा । उद्यते᳓ स्वा᳓हो᳓दिताय स्वा᳓हा ।     
+ह᳓रसे स्वा᳓हा भ᳓रसे स्वा᳓हा । भ्रा᳓जसे स्वा᳓हा ते᳓जसे स्वा᳓हा ।   
+त᳓पसे स्वा᳓हा ब्रह्मवर्चसा᳓य स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,34 +802,64 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 तप॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+न᳓क्षत्राय । स्वा᳓हा । उत् । एष्यते᳓ । स्वा᳓हा । उत्-यते᳓ । स्वा᳓हा । उ᳓त्-इताय । स्वा᳓हा । ह᳓रसे । स्वा᳓हा । भ᳓रसे । स्वा᳓हा । भ्रा᳓जसे । स्वा᳓हा । ते᳓जसे । स्वा᳓हा । त᳓पसे । स्वा᳓हा । ब्रह्म-वर्चसा᳓य । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूर्या॑य॒ स्वाहा॒ नक्ष॑त्रेभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑
+सू᳓र्याय स्वा᳓हा न᳓क्षत्रेभ्यस् स्वा᳓हा । प्रतिष्ठा᳓यै स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 सूर्या॑य॒ स्वाहा॒ नक्ष॑त्रेभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+सू᳓र्याय । स्वा᳓हा । न᳓क्षत्रेभ्यः । स्वा᳓हा । प्रति-ष्ठा᳓यै । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदि॑त्यै॒ स्वाहा॑ प्रति॒ष्ठायै॒ स्वाहा॑
+अ᳓दित्यै स्वा᳓हा प्रतिष्ठा᳓यै स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै॒ स्वाहा॑ प्रति॒ष्ठायै॒ स्वाहा॑
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+अ᳓-दित्यै । स्वा᳓हा । प्रति-ष्ठा᳓यै । स्वा᳓हा ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्ण॑वे॒ स्वाहा॑ य॒ज्ञाय॒ स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑
+वि᳓ष्णवे स्वा᳓हा यज्ञा᳓य स्वा᳓हा । प्रतिष्ठा᳓यै स्वा᳓हा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 विष्ण॑वे॒ स्वाहा॑ य॒ज्ञाय॒ स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+वि᳓ष्णवे । स्वा᳓हा । यज्ञा᳓य । स्वा᳓हा । प्रति-ष्ठा᳓यै । स्वा᳓हा ।
+</details>
 </details>
 </details>
 </div>

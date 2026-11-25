@@ -2,9 +2,12 @@
 title = "०५ तृतीयम् आधानम्"
 +++
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-13तृतीयम् आ-दधानस्य स्रुवाहुतिमन्त्राः - लेक इत्यादयः ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/02_lekas_salekas.md">

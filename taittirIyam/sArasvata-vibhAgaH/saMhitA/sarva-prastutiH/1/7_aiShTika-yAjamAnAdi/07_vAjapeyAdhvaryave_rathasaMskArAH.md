@@ -2,6 +2,8 @@
 title = "०७ वाजपेयाध्वर्यवे रथसंस्काराः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सौम्यं वाजपेयकाण्डम्  
@@ -24,6 +26,7 @@ title = "०७ वाजपेयाध्वर्यवे रथसंस्
 
 1अथ वाजपेयकाण्डं सौम्यम् । तत्र सावित्रं जुहोति - देवसवितरिति जगत्या ॥  
 'सावित्रं जुहोति कर्मणःकर्मणः पुरस्तात्' इत्यादि ब्राह्मणम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
@@ -67,14 +70,17 @@ O god Savitr, instigate the sacrifice, instigate the lord of the sacrifice for g
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2रथम् उपावहरति - इन्द्रस्येति यजुषा ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य व᳓ज्रोऽसि,  
@@ -107,12 +113,15 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,12 +146,15 @@ with thee may he slay his foe.
 ______________
 तस्मात्तादृशेन **त्वयाऽयं** यजमानो **वृत्रं वध्याद्** इति ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अन्तर्वेद्य् अभ्यावर्तयति - वाजस्येति जगत्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
@@ -192,6 +204,8 @@ In her may the god Savitr instigate right for us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒प्सु [32]अ॒न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त  प्रश॑स्ति॒ष्वश्वा॑ भवथ वाजिनः ॥
@@ -200,6 +214,7 @@ In her may the god Savitr instigate right for us.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अश्वानप्सु स्नापयति - अप्स्वन्तरिति पुरउष्णिहा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
@@ -247,9 +262,12 @@ Be ye steeds, O ye that are strong.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5 प्रष्टि-वाहिनं रथं युनक्ति - वायुर् वा त्वेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
@@ -305,6 +323,8 @@ They placed swiftness in it.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अश्व आमन्त्र्यते - 
@@ -313,6 +333,7 @@ They placed swiftness in it.
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अपा॑न्नपादाशुहेम॒न्य ऊ॒र्मिᳵ क॒कुद्मा॒न्प्रतू॑र्तिर्वाज॒सात॑म॒स्तेना॒यव्ँवाजँ॑ सेत्  ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
@@ -358,22 +379,29 @@ with it may he win the prize.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7विष्णुक्रमान् क्रमते, रथं यजमानोभ्येति - विष्णोरिति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +422,14 @@ Thou art the stepping of Visnu,
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,11 +450,14 @@ thou art the step of Visnu,
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -444,12 +478,15 @@ thou art the stride of Visnu.
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8रथस्य चक्रे पक्षसी वाभिमृशति - अङ्काविति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">

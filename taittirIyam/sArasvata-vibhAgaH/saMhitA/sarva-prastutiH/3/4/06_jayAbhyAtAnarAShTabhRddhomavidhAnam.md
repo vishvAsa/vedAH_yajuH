@@ -4,6 +4,8 @@ title = "०६ जयाभ्यातानराष्टभृद्धो�
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत॒ तदसु॑रा अकुर्वत॒ ते दे॒वा ए॒तान॑भ्याता॒नान॑पश्य॒न्तान॒भ्यात॑न्वत
@@ -13,12 +15,15 @@ title = "०६ जयाभ्यातानराष्टभृद्धो�
 
 1अथ जयाभ्यातानानां राष्ट्रभृतां ब्राह्मणम् । तत्रादावनन्तराधिकृतानां विशिष्टफलहेतुत्वमाह - देवा वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ य᳓द्यज्ञे᳓ऽकुर्वत ।
 त᳓द् अ᳓सुरा अकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,12 +40,15 @@ What the gods did at the sacrifice, the Asuras did.
 
 दे॒वाः । वै । यत् । य॒ज्ञे । अकु॑र्वत । तत् । असु॑राः । अ॒कु॒र्व॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ एता᳓न् अभ्याताना᳓न् अपश्यन् ।
 ता᳓न् अभ्या᳓तन्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,10 +70,14 @@ The gods saw these overpowering (Homas), they performed them;
 
 अभ्यातन्यते आभिमुख्येनानीयते कर्मसमृद्धिरेभिरिति अभ्यातानाः, करणे घञ्, थाथादिनोत्तरपदान्तोदात्तत्वम् । तानभ्यातन्वत आभिमुख्येन शास्त्रमर्यादया चाकुर्वन् अजुहवुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्दे॒वाना॒ङ्कर्मासी॒दार्ध्य॑त॒ तद्यदसु॑राणा॒न्न तदा॑र्ध्यत
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,6 +85,8 @@ The gods saw these overpowering (Homas), they performed them;
 य᳓द् देवा᳓नां क᳓र्मा᳓सीद् आ᳓र्ध्यत।
 त᳓द् य᳓द् अ᳓सुराणां न᳓ त᳓दार्ध्यत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +108,14 @@ the rite of the gods succeeded, that of the Asuras did not succeed.
 
 2यद्देवानामित्यादि ॥ अभ्यातानानां देवैरेव विहितत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓न क᳓र्मणे᳓ ऽर्त्सेत्, त᳓त्र होतव्याः᳙, ऋध्नो᳓त्येव᳓ ते᳓न क᳓र्मणा॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,6 +136,9 @@ If he is desirous of prospering in a rite, then should he offer them, and in tha
 
 3येनेत्यादि ॥ यत् कर्म येन कर्मणा ईर्त्सेत् इदं मे समृद्ध्येतेति तस्मिन्नभ्याताना होतव्याः न केवलं भ्रातृव्यवतैव । ऋधेस्सनि 'आप् ज्ञप्यृधमीत्' इतीत्वम्, अभ्यासलोपश्च । केचिदाहुः - येन कर्मणेर्त्सेत् तत्र होतव्याः सर्वेऽप्यभ्याताना जया राष्ट्रभृतश्चेति । तत्र होतव्या एव क्रमात् जया अभ्याताना राष्ट्रभृत इति
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -129,11 +149,14 @@ If he is desirous of prospering in a rite, then should he offer them, and in tha
 
 4अधुना अपकृतं भ्रातृव्यवन्तमेवाधिकृत्य क्रमविशेषं चाह - यद्विश्वे देवा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न क᳓र्मणा य᳓द् वि᳓श्वे देवाः᳓ सम᳓भरन्, त᳓स्माद् अभ्याताना᳓ वैश्वदेवा᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,12 +178,15 @@ In that the All-gods brought together (the materials), the Abhyatanas are connec
 
 भ्रातृव्यवतोयं क्रमः, अभ्याताना जया राष्ट्रभृत इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्प्रजा᳓पतिर् ज᳓यान्प्रा᳓यच्छत्,  
 तस्माज् ज᳓याः प्राजापत्याः᳓ । [17]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,12 +203,15 @@ in that Prajapati bestowed the victories (Jayas), therefore the Jayas are connec
 
 यत् । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । जयान्॑ । प्रेति॑ । अय॑च्छत् । तस्मा॑त् । जयाः॑ । प्रा॒जा॒प॒त्या इति॑ प्राजा-प॒त्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्राष्ट्रभृ᳓द्भी राष्ट्र᳓म् आ᳓दद᳓त᳓,   
 त᳓द्राष्ट्रभृ᳓ताँ राष्ट्रभृत्त्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,6 +228,7 @@ in that they won the kingdom by the Rastrabhrts, that is why the Rastrabhrts (su
 
 यत् । रा॒ष्ट्र॒भृद्भि॒रिति॑ राष्ट्र॒भृत्-भिः॒ । रा॒ष्ट्रम् । एति॑ । अद॑दत । तत् । रा॒ष्ट्र॒भृता॒मिति॑ राष्ट्र-भृता॑म् । रा॒ष्ट्र॒भृ॒त्त्वमिति॑ राष्ट्रभृत्-त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -206,6 +236,8 @@ in that they won the kingdom by the Rastrabhrts, that is why the Rastrabhrts (su
 ज᳓यैर् अजयन् ।
 रा᳓ष्ट्रभृ᳓द्भी राष्ट्र᳓म् आ᳓ददत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,12 +264,15 @@ The gods overpowered the Asuras with the Abhyatanas, conquered them with the Jay
 
 राष्ट्रभृद्भिः तेषां राष्ट्रं अधिवासं आददत आत्मसादकुर्वत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् देवा᳓ अभ्यातानै᳓र् अ᳓सुरान् अभ्या᳓तन्वत,
 त᳓दभ्याताना᳓नामभ्यातानत्व᳓म्   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,12 +294,15 @@ in that the gods overpowered (abhyátanvata) the Asuras with the Abhyatanas, tha
 
 अभ्यातन्वते आभिमुख्येनानीयते भ्रातृव्य एभिरिति अभ्यातानाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ज् ज᳓यैर् अ᳓जयन्  
 त᳓ज् ज᳓यानाञ् जयत्व᳓म्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,12 +323,15 @@ in that they conquered (ájayan) them with the Jayas, that is why the Jayas have
 
 जयते भ्रातृव्य एभिरिति जयाः, करणे एरच्, 'जयः करणम्' इत्याद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् राष्ट्रभृ᳓द्भी राष्ट्र᳓म् आ᳓ददत   
 त᳓द् राष्ट्रभृ᳓ताँ राष्ट्रभृत्त्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,11 +355,14 @@ in that they won the kingdom with the Rastrabhrts, that is why the Rastrabhrts h
 
 भ्रातृव्यस्य राष्टं ह्रियते एभिरिति राष्ट्रभृतः, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो देवा᳓ अ᳓भवन् प᳓रा᳓सुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -339,10 +383,14 @@ Then the gods prospered, the Asuras were defeated.
 
 5ततो देवा इत्यादि ॥ ततस्तादृशात्प्रयोगात् देवा भूतिमन्तस्संपन्नाः, असुराश्च पराभूताः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो भ्रातृ॑व्यवा॒न्त्स्यात्स ए॒ताञ्जु॑हुयादभ्याता॒नैरे॒व भ्रातृ॑व्यान॒भ्यात॑नुते॒ जयै॑र्जयति राष्ट्र॒भृद्भी॑ रा॒ष्ट्रमा द॑त्ते॒ भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥ [18]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +398,8 @@ Then the gods prospered, the Asuras were defeated.
 यो᳓ भ्रा᳓तृव्यवान्त् स्यात्,     
 स᳓ एता᳓ञ् जुहुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,6 +421,7 @@ He who has foes should offer these (offerings);
 
 8देवा वै यद्यज्ञे इत्युपक्रममुपसंहृतं [संहर्तुं] यो भ्रातृव्यवान् स्यात् इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -378,6 +429,8 @@ He who has foes should offer these (offerings);
 ज᳓यैर् जयति ।   
 राष्ट्रभृ᳓द्भी  राष्ट्र᳓म् आ᳓दत्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,12 +448,15 @@ verily by the Abhyatanas he overpowers his foes, by the Jayas he conquers them, 
 
 अ॒भ्या॒ता॒नैरित्य॑भि-आ॒ता॒नैः । ए॒व । भ्रातृ॑व्यान् । अ॒भ्यात॑नुत॒ इत्य॑भि-आत॑नुते । जयैः॑ । ज॒य॒ति॒ । रा॒ष्ट्र॒भृद्भि॒रिति॑ राष्ट्र॒भृत्-भिः॒ । रा॒ष्ट्रम् । एति॑ । द॒त्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ᳓वत्य् आत्म᳓ना ॥
 प᳓रास्य भ्रा᳓तृव्यो भवति ॥ [18]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,4 +477,5 @@ he prospers himself, his foe is defeated.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **आत्मना** - प्रकृत्य्-आदित्वात् तृतीया ॥
+</details>
 </details>

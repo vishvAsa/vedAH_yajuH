@@ -4,15 +4,20 @@ title = "०८ सोमक्रयण्या गोर्मध्ये �
 
 सोमऋषिः  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 षट्प॒दान्यनु॒ नि क्रा॑मति षड॒हव्ँवाङ्नाति॑ वदत्यु॒त सव्ँ॑वत्स॒रस्याय॑ने॒ याव॑त्ये॒व वाक्तामव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ट्पदा᳓न्य᳓नु नि᳓ क्रामति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ He follows six steps.
 
 यस्मादेवं तस्मात् षडहं प्रष्ठ्यं वाङ्नातिवदति स्तुतशस्त्रव्यतिरेकेण न प्रवर्तते; अपि च संवत्सरस्यायने सांवत्सरिके यस्मात् एकहायनीवाग्रूपां षट्पदानि यजमानो न विसृजति तस्मात्षडहं वाङ्न विसृज्यते इति । तस्मात् षट्पदानुगमनेन यावत्येव वाक्तां सर्वामवरुन्धे ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 षडहव्ँ᳓ वा᳓ङ्ना᳓ति वदति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,11 +65,14 @@ Speech does not speak beyond the sixth day.
 
 ष॒ड॒हमिति॑ षट्-अ॒हम् । वाक् । न । अतीति॑ । व॒द॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत᳓ सव्ँवत्सर᳓स्या᳓यने या᳓वत्येव᳓ वा᳓क् , ता᳓म᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,16 +88,22 @@ He wins speech in the size in which she is found in the path of the year.
 
 उ॒त । सव्ँ॒व॒त्स॒रस्येति॑ सम्-व॒त्स॒रस्य॑ । अय॑ने । याव॑ती । ए॒व । वाक् । ताम् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सप्त॒मे प॒दे जु॑होति स॒प्तप॑दा॒ शक्व॑री प॒शव॒श्शक्व॑री प॒शूने॒वाव॑ रुन्द्धे स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तमे᳓ पदे᳓ जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,12 +126,15 @@ He offers in the seventh footprint.
 
 सप्तसंख्यान्वयेन पशुसाधनभूतसप्तपदशक्वरीलाभात् पशूनवरुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓पदा श᳓क्वरी ।  
 पश᳓वश् श᳓क्वरी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +160,14 @@ The Śakvari has seven feet, the Śakvari is cattle;
 
 'ग्रामाद्यखञौ' इति यः । कष्णादय आरण्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -160,12 +183,15 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓ ग्राम्याᳶ᳓ पश᳓वस् , सप्ता᳓रण्या᳓स् , सप्त᳓ छ᳓न्दाँसि ।  
 उभ᳓यस्या᳓वरुध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,17 +217,23 @@ There are seven domesticated animals, and seven wild; there are seven metres to 
 
 उभाववयवावस्य 'उभादुदात्तो नित्यम्' इत्ययजाद्युदात्तः, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वस्व्य॑सि रु॒द्रासीत्या॑ह रू॒पमे॒वास्या॑ ए॒तन्म॑हि॒मान॑म् [54]  
 व्याच॑ष्टे॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "व᳓स्व्यसि रुद्रा᳓सी᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +254,14 @@ There are seven domesticated animals, and seven wild; there are seven metres to 
 
 3इदानीं निष्क्रमणमन्त्रप्रभृति व्याचष्टे - वस्व्यसीत्यादि ॥ वस्वादिमतो यज्ञस्य साधनभावलक्षणमस्य महिमानमेतन्मन्त्रस्वरूपमेव व्याचष्टे । न किंचिद्व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप᳓मेवा᳓स्या एत᳓न् महिमा᳓नव्ँ व्या᳓चष्टे। [54]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,16 +277,22 @@ verily thus by her form he expounds her greatness [1].
 
 रू॒पम् । ए॒व । अ॒स्याः॒ । ए॒तत् । म॒हि॒मान॑म् । व्याच॑ष्ट॒ इति॑ वि-आच॑ष्टे ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्व॒त्वित्या॑ह॒ ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पति॒र्ब्रह्म॑णै॒वास्मै॑ प॒शूनव॑ रुन्द्धे रु॒द्रो वसु॑भि॒रा चि॑के॒त्वित्या॒हावृ॑त्त्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "बृ᳓हस्प᳓तिस्त्वा सुम्ने᳓ रण्वत्वि᳓"त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -272,11 +313,14 @@ verily thus by her form he expounds her greatness [1].
 
 4'बृहस्पतिस्त्वा' इति सप्तपदाभिग्रहागमन्त्रं व्याचष्टे ॥ बृहस्पतिशब्दो वनस्पत्यादिः, पारस्करादिश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म वै᳓ देवा᳓नाम् बृ᳓हस्प᳓तिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +341,14 @@ Brhaspati is the holy power of the gods;
 
 ब्रह्मणैवास्मै यजमानाय पशूनवरुन्धे । अस्मा इत्यन्वादेशेऽशनुदात्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणैवा᳓स्मै पशू᳓न᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +364,14 @@ verily by means of the holy power be wins cattle for him.
 
 ब्रह्म॑णा । ए॒व । अ॒स्मै॒ । प॒शून् । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "रुद्रो᳓ व᳓सुभिर् आ᳓ चिकेत्वि᳓"त्याह । आ᳓वृत्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -348,17 +398,23 @@ verily by means of the holy power be wins cattle for him.
 
 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पृथि॒व्यास्त्वा॑ मू॒र्धन्ना जि॑घर्मि देव॒यज॑न॒ इत्या॑ह पृथि॒व्या ह्ये॑ष मू॒र्धा यद्दे॑व॒यज॑न॒मिडा॑याᳶ प॒द इत्या॒हेडा॑यै॒ ह्ये॑तत्प॒दय्ँयत्सो॑म॒क्रय॑ण्यै घृ॒तव॑ति॒ स्वाहा॑ [55]  
 इत्या॑ह॒ यदे॒वास्यै॑ प॒दाद्घृ॒तमपी॑ड्यत॒ तस्मा॑दे॒वमा॑ह॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या᳓स् त्वा मूर्ध᳓न्न् आ᳓ जिघर्मि देवय᳓जन इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,11 +439,14 @@ verily by means of the holy power be wins cattle for him.
 
 यद्वा - पृथिव्या ह्येष मुर्धा मूर्धस्थानीयं सप्तमं पदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्या᳓ ह्येष मूर्धा᳓ , य᳓द् देवय᳓जनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,11 +469,14 @@ for the place of sacrifice is the head of the earth.
 
 'उदात्तयणः' इति पृथिव्या विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ᳓डायाᳶ पद᳓ "इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,11 +497,14 @@ for the place of sacrifice is the head of the earth.
 
 इडायै ह्येतदिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓डायै ह्ये᳙तत् पदय्ँ᳓ य᳓त्सोमक्र᳓यण्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,11 +527,14 @@ for the foot of the cow by which the Soma is bought is the abode of the offering
 
 'पशवो वा इडा' इति तस्मादेतदिडायाः पदं यत्सोमक्रयण्याः पदम् । षष्ठ्यर्थे चतुर्थी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "घृत᳓वति स्वा᳓हा" इ᳓त्याह ।[55]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -482,11 +550,14 @@ for the foot of the cow by which the Soma is bought is the abode of the offering
 
 घृ॒तव॒तीति॑ घृ॒त-व॒ति॒ । स्वाहा॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देवा᳓स्यै पदा᳓द् घृत᳓म᳓पीड्यत त᳓स्माद् एव᳓माह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -511,10 +582,14 @@ Because it was from her foot that ghee was pressed out, he says thus.
 
 यस्मादस्याः पदाहतमपीड्यत तस्मादेवमाह 'इडायाः पदे घृतवति' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद॑ध्व॒र्युर॑न॒ग्नावाहु॑तिञ्जुहु॒याद॒न्धो॑ऽध्व॒र्युस्स्या॒द्रक्षाँ॑सि य॒ज्ञँ ह॑न्यु॒र्हिर॑ण्यमु॒पास्य॑ जुहोत्यग्नि॒वत्ये॒व जु॑होति॒ नान्धो॑ऽध्व॒र्युर्भव॑ति॒ न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -522,6 +597,8 @@ Because it was from her foot that ghee was pressed out, he says thus.
 य᳓दध्वर्यु᳓रनग्ना᳓वा᳓हुतिञ्जुहुया᳓त् ।
 अन्धो᳙ऽध्वर्यु᳓स् स्याद् , र᳓क्षाँसि यज्ञँ᳓ हन्युः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +622,14 @@ If the Adhvaryu were to offer a libation where there were no fire, the Adhvaryu 
 
 आहुतिशब्दे 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्यमुपा᳓स्य जुहोति । अग्निव᳓त्येव᳓ जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +650,14 @@ He offers after putting down the gold; verily he offers in that which has fire,
 
 अध्वर्योरान्ध्ये सति निर्वाधानि रक्षांसि यज्ञं हन्युः, तस्माद्धिरण्यमुपास्योपधाय जुहोतीति विधिः । एवं सति अग्निवत्येव पदे जुहोति । ततश्चोक्तदोषद्वयाप्रसंगः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓न्धोऽध्वर्यु᳓र्भ᳓वति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,11 +673,14 @@ the Adhvaryu does not become blind, and the Raksases.
 
 न । अ॒न्धः । अ॒ध्व॒र्युः । भव॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ यज्ञँ᳓ र᳓क्षाँसि घ्नन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -610,17 +696,23 @@ do not destroy the sacrifice.
 
 न । य॒ज्ञम् । रक्षाँ॑सि । घ्न॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 काण्डे॑काण्डे॒ वै क्रि॒यमा॑णे य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति॒ परि॑लिखितँ॒ रक्ष॒ᳶ परि॑लिखिता॒ अरा॑तय॒ इत्या॑ह॒ रक्ष॑सा॒मप॑हत्यै [56]  
 इ॒दम॒हँ रक्ष॑सो ग्री॒वा अपि॑ कृन्तामि॒ यो॑ऽस्मान्द्वेष्टि॒ यञ्च॑ व॒यन्द्वि॒ष्म इत्या॑ह॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 का᳓ण्डेकाण्डे वै᳓ क्रिय᳓माणे यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,12 +739,15 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 पदपरिलेखनेन रक्षःप्रभृतेः परितो नाशितत्वात् एतद्वचनं रक्षसामपहत्यै भवति । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिलिखितँ र᳓क्षᳶ प᳓रिलिखिता अ᳓रातय इ᳓त्याह ।
 र᳓क्षसाम᳓पहत्यै ।[56]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -669,11 +764,14 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 परि॑लिखिता॒ इति॒ परि॑-लि॒खि॒ताः॒ । अरा॑तयः । इति॑ । आ॒ह॒ । रक्ष॑साम् । अप॑हत्या॒ इत्यप॑-ह॒त्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इद᳓महँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि , यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ्च वय᳓न् द्विष्म᳓" इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -689,16 +787,22 @@ As each part is performed, the Raksases are fain to injure the sacrifice.
 
 इ॒दम् । अ॒हम् । रक्ष॑सः । ग्री॒वाः । अपीति॑ । कृ॒न्ता॒मि॒ । यः । अ॒स्मान् । द्वेष्टि॑ । यम् । च॒ । व॒यम् । द्वि॒ष्मः । इति॑ । आ॒ह॒ । काण्डे॑काण्ड॒ इति॒ काण्डे॑-का॒ण्डे॒ । वै । क्रि॒यमा॑णे । य॒ज्ञम् । रक्षाँ॑सि । जि॒घाँ॒स॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्वौ वाव पुरु॑षौ॒ यञ्चै॒व द्वेष्टि॒ यश्चै॑न॒न्द्वेष्टि॒ तयो॑रे॒वान॑न्तरायङ्ग्री॒वाᳵ कृ॑न्तति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓ञ्चैव᳓ द्वे᳓ष्टि य᳓श् चैनन् द्वे᳓ष्टि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -721,11 +825,14 @@ There are two persons, one whom he hates and one who hates him;
 
 द्वावेतौ पुरुषौ यं च यजमानो द्वेष्टि, यश्चैनं यजमानं द्वेष्टि; एवं यजमानसंबन्धिनौ द्वेष्यद्वेष्टारौ यस्मिन्नित्यात्मसंबन्धितया अध्वर्युराहेति मन्त्राभिप्रायतया ब्राह्मणमाह । अत्रात्मनो द्वेष्टा प्रथमं मन्त्रे निर्दिष्टः, ब्राह्मणे तु द्वेष्यः । तत्र मृग्यो हेतुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓योर् एवा᳓नन्तरायङ् ग्रीवाᳵ᳓ कृन्तति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -758,17 +865,23 @@ verily successively he cuts their necks.
 
 कृती छेदने, 'शे मुचादीनाम्' इति नुम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒शवो॒ वै सो॑म॒क्रय॑ण्यै प॒दय्ँ या॑वत्त्मू॒तँ सव्ँव॑पति प॒शूने॒वाव॑ रुन्द्धे॒ऽस्मे राय॒ इति॒ सव्ँव॑पत्या॒त्मान॑मे॒वाध्व॒र्युः [57]  
 प॒शुभ्यो॒ नान्तरे॑ति॒ त्वे राय॒ इति॒ यज॑मानाय॒ प्र य॑च्छति॒ यज॑मान ए॒व र॒यिन्द॑धाति॒ तोते॒ राय॒ इति॒ पत्नि॑या अ॒र्धो वा ए॒ष आ॒त्मनो॒ यत्पत्नी॒ यथा॑ गृ॒हेषु॑ निध॒त्ते ता॒दृगे॒व तत्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ सोमक्र᳓यण्यै पद᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -789,11 +902,14 @@ The foot of the cow with which the Soma is bought is cattle;
 
 9पशवो वा इति ॥ यागद्वारेण पशुहेतुत्वात्, सप्तत्वस्य वा शाक्वरस्य शाक्वरपशुसाधनत्वात् । यावत्त्मूतं संवपतीति विधिः । यावत्प्रदेशः स्मृतः आज्येन सिक्तः तावत्संवपति गृहीत्वा मृत् धरण्यां क्षिपति, पशूनवरुन्धे । मव बन्धने, निष्ठायां 'ज्वरत्वर' इत्यादिना ऊठादेशः, जस्त्वाभावश्छान्दसः, अनुनासिकाभावश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याँ᳓वत्त्मूतँ᳓ सव्ँ᳓वपति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -809,11 +925,14 @@ he pours (the dust of the footprint) so far as it is mixed with the ghee;
 
 या॒व॒त्त्मू॒तमिति॑ यावत्-त्मू॒तम् । समिति॑ । व॒प॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -829,11 +948,14 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अस्मे᳓ रा᳓य" इ᳓ति सव्ँ᳓ वपति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -854,11 +976,14 @@ verily he wins cattle.
 
 अस्मे राय इति संवपतीति मन्त्रविधिस्स्तुत्यर्थः । आत्मानमेवेति । नान्तरेति न व्यवदधाति आत्मानमेव पशुमन्तं करोति । तस्मादस्मे रायः पशुलक्षणानि धनानि सन्त्वित्यात्मार्थमेवाऽध्वर्युः प्रार्थयते; न यजमानार्थं, तस्य 'त्वे रायः' इति प्रार्थयिष्यमाणत्वात् । त्वे राय इत्यादिविधिः । यजमान एव रयिं पशुलक्षणं दधाति स्थापयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓नम् एवा᳓ध्वर्युᳶ᳓ पशु᳓भ्यो ना᳓न्त᳓रेति ।[57]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -874,12 +999,15 @@ verily the Adhvaryu [4] does not deprive himself of cattle.
 
 आ॒त्मान॑म् । ए॒व । अ॒ध्व॒र्युः । प॒शुभ्य॒ इति॑ प॒शु-भ्यः॒ । न । अ॒न्तः । ए॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त्वे᳓ रा᳓य" इ᳓ति य᳓जमानाय प्र᳓ यच्छति ।  
 य᳓जमान एव᳓ रयि᳓न्दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -901,11 +1029,14 @@ Saying 'Thine be wealth', he hands it to the sacrificer, and so bestows wealth o
 
 तोते राय इति पत्निया इति विधिः । प्रयच्छतीत्येव । त्वया ऊतं तोतमिति गृहमुच्यते । तत्र रायो धनानि सन्त्विति पत्न्यै प्रयच्छति । तत्सा गृहेषु निदधाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तो᳓ते रा᳓य" इ᳓ति , प᳓त्नियै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -921,12 +1052,15 @@ Saying 'Thine be wealth', (the sacrificer hands it) to his wife.
 
 तोते॑ । रायः॑ । इति॑ । पत्नि॑यै ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धो᳓ वा᳓ एष᳓ आत्म᳓नो य᳓त्प᳓त्नी ।
 य᳓था गृहे᳓षु निधत्ते᳓ , तादृ᳓ग् एव᳓ त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -948,16 +1082,22 @@ For a wife is the half of oneself, and to do so is as it were to deposit it in o
 
 अर्धो वा इति । आत्मन एवैकदेशः पत्री; नेदृशं विस्रंभपात्रमस्ति । तस्माद्यथा गृहेष्वात्मीयेषु निधत्ते भूमावप्रकाशं स्थापयति तादृगेव तत् पत्न्यै प्रत्तं धनम्, अविनाशि च भवति, काले चोपयुज्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्वष्टी॑मती ते सपे॒येत्या॑ह॒ त्वष्टा॒ वै प॑शू॒नाम्मि॑थु॒नानाँ॑ रूप॒कृद्रू॒पमे॒व प॒शुषु॑ दधात्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त्व᳓ष्टीमती ते सपेये᳓"त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -980,11 +1120,14 @@ For a wife is the half of oneself, and to do so is as it were to deposit it in o
 
 त्वष्टुर्व्यापारः विविधप्रजारूपनिमार्णशक्तयः, तद्वत्यहं त्वया सपेय मिथुनीभवेयमिति यस्मादनेन मन्त्रेणाशास्ते त्वष्टा च पशूनां मिथुनानां रूपकृत् तस्मादनेन वचनेन पशुषु रूपं यथाऽनुरूपं दधाति पत्नी ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टा वै᳓ पशूना᳓म् मिथुना᳓नाँ रूपकृ᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1000,11 +1143,14 @@ Tvastr is the maker of the forms of offspring, of pairings;
 
 त्वष्टा॑ । वै । प॒शू॒नाम् । मि॒थु॒नाना॑म् । रू॒प॒कृदिति॑ रूप-कृत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूप᳓मेव᳓ पशु᳓षु दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1020,10 +1166,14 @@ verily he places form in cattle.
 
 रू॒पम् । ए॒व । प॒शुषु॑ । द॒धा॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒स्मै वै लो॒काय॒ गार्ह॑पत्य॒ आ धी॑यते॒ऽमुष्मा॑ आहव॒नीयो॒ यद्गार्ह॑पत्य उप॒वपे॑द॒स्मिल्ँ लो॒के प॑शु॒मान्त्स्या॒द्यदा॑हव॒नीये॒ऽमुष्मिल्ँ॑ लो॒के प॑शु॒मान्त्स्या॑दु॒भयो॒रुप॑ वपत्यु॒भयो॑रे॒वैनल्ँ॑ लो॒कयोः॑ पशु॒मन्त॑ङ्करोति ॥ [58]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1181,8 @@ verily he places form in cattle.
 अस्मै᳓ वै᳓ लोका᳓य गा᳓र्हपत्य आ᳓ धीयते,  
 ऽमु᳓ष्मा आहवनी᳓यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1051,12 +1203,15 @@ For this world the Garhapatya fire is piled up; for yonder world the Ahavaniya.
 
 11अस्मा इत्यादि ॥ अस्मै लोकाय अस्मिन् लोके यदीप्सितं तत्सिद्धये हेतुः गार्हपत्य आधीयते उत्पाद्यते । 'गृहपतिना संयुक्ते ञः' इति ञः । अमुष्मै आमुष्मिकफलसिद्धये आहवनीयः आधीयते । आहूयतेऽस्मिन्नित्याहवनीयः, 'कृत्यल्युटो बहुलम्' इत्यधिकरणे अनीयर्, 'उपोत्तमं रिति' इत्युपोत्तमस्योदात्त- त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्गा᳓र्हपत्य उपव᳓पेद् , अस्मिल्ँ᳓ लोके᳓ +++(यजमानः)+++ पशुमा᳓न्त् स्या᳓त् ।  
 य᳓दाहवनी᳓ये ऽमु᳓ष्मिल्ँ लोके᳓ पशुमा᳓न्त्स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1079,11 +1234,14 @@ If he were to cast it on the Garhapatya fire, he would be rich in cattle in this
 
 यदित्यादि । यदि गार्हपत्य एवेपवपेत्पदपांसून्, अस्मिन्नेव लोके पशुमांत्स्याद्यजमानः । 'ह्रस्वनुड्भ्यां मतुप्', इति मतुप उदात्तत्वम् । यद्याहवनीय एव, अमुष्मिन्नेव पशुमांत्स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभ᳓योर् उ᳓प वपति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1099,11 +1257,14 @@ he casts it on both;
 
 उ॒भयोः॑ । उपेति॑ । व॒प॒ति॒ ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभ᳓योरेवै᳓नल्ँ लोक᳓योः पशुम᳓न्तङ् करोति +++(यजमानम्।)+++॥ [58]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1125,4 +1286,5 @@ verily he makes him rich in cattle in both worlds.
 तस्मादुभयोरुपवपतीति विधिः । उभयोर्लोकयोरेन यजमानं पशुमन्तं करोतीति ॥
 
 इति षष्ठे प्रथमे अष्टमोनुवाकः ॥  
+</details>
 </details>

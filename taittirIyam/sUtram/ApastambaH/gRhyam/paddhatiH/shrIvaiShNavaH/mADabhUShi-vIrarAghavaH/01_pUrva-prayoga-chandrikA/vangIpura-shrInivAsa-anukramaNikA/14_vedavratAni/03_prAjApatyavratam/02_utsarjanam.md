@@ -14,11 +14,121 @@ title = "०२ उत्सर्जनम्"
 "प्राजापत्य-व्रतोत्सर्जनं चरिष्यामी"ति वाचयित्वा,  
 वस्त्रादि-धारणं स्नानं तर्पणञ्च पूर्ववत् कारयित्वा,  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApatim_kANDarShim.md" unfilled newLevelForH1="5" includeTitle="false">
+ऋषितीर्थेन
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+प्रजा᳓पतिं काण्डऋषिं᳓ तर्पयामि ।
+</details>
+</details>
+</div>  
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNyAdi-tarpaNam.md" unfilled newLevelForH1="5" includeTitle="false">
+ऋषितीर्थेन
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+सांहि᳓तीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
+</details>
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याज्ञि᳓कीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+याज्ञि᳓कीर् देव᳓ता उपनिष᳓दस् तर्पयामि    
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि 
+</details>
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वारु᳓णीर् देव᳓ता उपनिष᳓दस् तर्पयामि     
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+वारु᳓णीर् देव᳓ता उपनिष᳓दस् तर्पयामि     
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षदस्॒ तर्पयामि
+</details>
+</details>
+
+
+ब्रह्मतीर्थेन
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वं तर्पयामि ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वं तर्पयामि ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑णे, स्व॒य॒म्भुवं॑ - तर्पयामि 
+</details>
+</details>
+
+
+ऋषितीर्थेन
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स᳓दसस्-प᳓तिं तर्पयामि। 
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+स᳓दसस्-प᳓तिं तर्पयामि।
+</details>
+</details>
+</div>  
 
 
 ## होमः
@@ -98,18 +208,359 @@ title = "०२ उत्सर्जनम्"
 
 > स्वा᳓हा, प्रजापतय इद᳓न्, न᳓ म᳓म ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApataye_kANDarShaye.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/prajApataye_kANDarShaye.md" unfilled newLevelForH1="5" includeTitle="false">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजा᳓पतये काण्डऋष᳓ये स्वा᳓हा ।  
+(प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म । )
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+प्रजा᳓पतये काण्डऋष᳓ये स्वा᳓हा ।
+(प्रजा᳓पतये काण्डर्ष᳓य इद᳓न्, न᳓ म᳓म । )
+</details>
+</details>
+</div>  
 
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/sAMhitI-yAjnikI-vAruNI-brahma-sadasaspatayaH.md" unfilled newLevelForH1="5" includeTitle="false">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(सांहि᳓तीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
+</details>
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(याज्ञि᳓कीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्य इद᳓न्, न᳓ म᳓म)  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+या॒ज्ञिकी॑भ्यः, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑ । 
+</details>
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः स्वा᳓हा  
+(वारु᳓णीभ्यो देव᳓ताभ्य उपनिष᳓द्भ्यः इद᳓न्, न᳓ म᳓म)   
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒रुणी॑भ्यः॒, दे॒वता॑भ्यः, उ॒प॒नि॒षद्भ्यः॒ स्वाहा॑
+</details>
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
+(ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+ब्र᳓ह्मणे स्वयम्भु᳓वे स्वा᳓हा ।  
+(ब्र᳓ह्मणे स्वयम्भु᳓वे, इद᳓न्, न᳓ म᳓म)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑णे, स्व॒य॒म्भुवे॑ - स्वाहा॑ 
+</details>
+</details>
+
+
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
+
+
+स᳓दसस्प᳓तिम् अ᳓द्भुतं  
+प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
+सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
+</details>
+</div>  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+(स᳓दसस्-प᳓तये इद᳓न्, न᳓ म᳓म॥)
+</details>
+</details>
+</div>  
 
 ## उपस्थानम्
 माणवकम् उत्थाप्य,  
 
 (अधः "काण्डर्षि᳓भ्यः प्राजापत्य-व्रत᳓म्…" इत्यूहनीयम्।)
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/88_Aditya_vratapate" unfilled newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/88_Aditya_vratapate" unfilled newLevelForH1="5" includeTitle="false">
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+आदित्येत्याद्य् उपस्थानमन्त्राः । व्रतानामिति चतुर्थः ॥
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+कल्पः - "आवृत्तैर्मन्त्रैः समिध आधायाऽऽवृत्तैर्देवता उपस्थाय" इति । पाठस्तु -
+</details>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 5)* Repetitions of the first three Mantras.
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+Aditya, lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आदि॑त्य व्रतपते
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… व्रत᳓म् अचारिषम् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+I followed the rules;
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒तम॑चारिषम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+व्रतावसाने कर्तव्यत्वादचारिषमित्यादिभूतार्थवाचिशब्दप्रयोगः । तद्धि चतृषु वेदव्रतेषु सौम्यव्रतमित्यभिधीयते । एतस्य प्रवर्ग्याङ्गत्वाभावेऽपि शुक्रियकाण्डोक्तमन्त्रसापेक्षत्वादत्राऽऽम्नातम् । एतच्च सूत्रकारेण दर्शितम् - "अथैनं सर्वेषामनुवाकानां प्रभृतीरभिव्याहारयति, प्रथमोत्तमयोर्वोत्तमेनानुवाकेन शान्तिं कृत्वा" इति ॥
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् अशकन्, त᳓न् मे ऽराधि ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+I could follow that, that was increased for me.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद॑शक॒न्तन्मे॑ऽराधि ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वा᳓यो व्रतपते᳓
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O wind, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वायो॑ व्रतप॒ते
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… व्रत᳓म् अचारिषम् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+व्र॒तम॑चारिषम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् अशकन्, त᳓न् मे ऽराधि ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+तद॑शक॒न्तन्मे॑ऽराधि ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, the lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अग्ने॑ व्रतपते!
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… व्रत᳓म् अचारिषम् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+व्र॒तम॑चारिषम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् अशकन्, त᳓न् मे ऽराधि ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+तद॑शक॒न्तन्मे॑ऽराधि ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्रता᳓नाव्व्ँरतपते
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vratapati (lord of the rules), the ruling lord of the rules,
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒ताना॑व्व्ँरतपते
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… व्रत᳓म् अचारिषम् ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+I followed the rules;
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्र॒तम॑चारिषम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓द् अशकन्, त᳓न् मे ऽराधि ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+I could follow that, that was increased for me (7).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद॑शक॒न्तन्मे॑ऽराधि ।
+</details>
+</details>
+</div>  
 
 
 <details><summary>विश्वास-टिप्पनी</summary>

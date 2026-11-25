@@ -8,6 +8,8 @@ unicode_script: devanagari
 न᳓ वै᳓ सो᳓मेन सो᳓मस्य सवो᳙ऽस्ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 न वै सोमे॑न॒ सोम॑स्य स॒वो॑ऽस्ति ।
@@ -26,11 +28,14 @@ unicode_script: devanagari
 यस्मात्कारणाच्च एष सोमो हतः ।  
 हननं कथमिति तदुच्यते - यस्मादेवैष सोमोऽभिषुतस्तस्मादस्ति तस्य हननं 'घ्नन्ति वा एतत्सोमं यदभिषुण्वन्ति' इत्यन्यत्राभिषवस्य हननरूपत्वश्रवणात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतो᳓ ह्येषः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -41,11 +46,14 @@ unicode_script: devanagari
 
 हतः᳓ । हि । एषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभि᳓षुतो ह्ये᳙षः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,11 +64,14 @@ unicode_script: devanagari
 
 अभि᳓-सुतः । हि᳓ । एषः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ हि᳓ हत᳓स्सूय᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -71,11 +82,14 @@ unicode_script: devanagari
 
 न᳓ । हि᳓ । हतः᳓ । सूय᳓ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमीँ᳓ सूत᳓वशामा᳓लभते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -93,11 +107,14 @@ unicode_script: devanagari
 तस्मात्सोमस्याभिषेकसिद्धये सोमयागं परित्यज्य सोमदेवताकां सूतवशामालभते ।  
 सकृत्प्रजामुत्पाद्य पश्चाद्वन्ध्या सूतवशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मो वै᳓ रेतोधाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,11 +130,14 @@ unicode_script: devanagari
 
 सोमस्य रेतोधारकत्वात्तया देवतया रेत एव धारयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓त एव᳓ त᳓द्दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -128,11 +148,14 @@ unicode_script: devanagari
 
 रे᳓तः । एव᳓ । त᳓त् । दधाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓र्चा᳓ऽभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,11 +166,14 @@ unicode_script: devanagari
 
 सौम्या᳓ । ऋचा᳓ । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रेतोधा᳓ ह्येषा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -164,11 +190,14 @@ unicode_script: devanagari
 2अथाभिषेकमन्त्रं विधत्ते - 'अषाढम्' इत्यादिका वक्ष्यमाणा सौमी ।  
 यस्मादृगेषा रेतोधारणहेतुः सोमोऽपि रेतस्स्वरूपः अतः सौम्याभिषेके सत्यस्मिन्यजमाने रेत एव दधाति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓तस्सो᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -179,11 +208,14 @@ unicode_script: devanagari
 
 रे᳓तः । सो᳓मः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓त एवा᳓स्मिन्दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -194,12 +226,15 @@ unicode_script: devanagari
 
 रे᳓तः । एव᳓ । अस्मिन् । दधाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्कि᳓ञ्च राजसू᳓यमृते᳓ सो᳓मम् ।   
 त᳓त्स᳓र्वम्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,10 +251,14 @@ unicode_script: devanagari
 
 3अस्मिन्सवे कर्तव्यान्तरं विधते - राजसूये हेमपवित्राभिषेचनी यद्दशपेयकेशवपनीयव्युष्टिद्विरात्रक्षत्रधृतिसंज्ञकाः सप्त सोमयागाः, तान्वर्जयित्वा यात्किंचिदनुमत्यादिकं सौत्रामण्यन्तं प्रयोगजातं तत्सर्वमस्मिन् सोमसवेऽनुष्ठेयम् । तस्मिन्राजसूयप्रयोगमध्येऽरत्नीनां हविर्भ्य ऊर्ध्वं संसृपां हविर्भ्यः पुरस्तात्सौमी सूतवशाऽऽलब्धव्या । तस्याः स्विष्टकृतः पुरस्तादभिषेकः कार्यः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अभिषेकाय सौमीमृचं पठति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -229,6 +268,8 @@ unicode_script: devanagari
 भरेषुजाँ᳓ सुक्षितिँ᳓ सुश्र᳓वसम् ।   
 ज᳓यन्तन्त्वा᳓म᳓नु मदेम सोम ॥10॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,4 +289,5 @@ unicode_script: devanagari
 हे सोम! वयं त्वामनुसृत्य मदेम हृष्यास्म । कीदृशं त्वां? युत्सु युद्धेषु अषाढं सोढुमशक्यं, पृतनासु सेनासु पप्रिं पूरकं, सुवर्षां सुवः स्वर्गस्यात्यरिष्टं विनाशयतीति सुवर्षास्तं सुवर्षां अप्स्वां न केनापि प्सायते भुज्यत इत्यप्सा अप्सा एवाप्स्वास्तं, वृजनं पापवर्जनं तस्य गोपां रक्षितारं, भरेषु भरणीयेष्वग्निष्टोमादिषु जायते निवसतीति भरेषुजास्तं भरेषुजां, सुक्षितिं शोभना क्षितिर्भूमिर्निवासस्थानं यस्यासौ सुक्षितिस्तं, सुष्ठु श्रवः कीर्तिर्यस्यासौ सुश्रवास्तं सुश्रवसं, जयन्तं सर्वत्र जयशीलम् ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके चतुर्थोऽनुवाकः ॥
+</details>
 </details>

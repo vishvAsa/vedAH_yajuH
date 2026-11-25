@@ -165,7 +165,6 @@ unicode_script: devanagari
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/02_agnimukhanirUpaNam/02_07_yathopadesham_pradhAnAhutIrhutvA.md">
-
 यथोपदेशं प्रधानाहुतीर् हुत्वा,  
 +++(उपहोमाः -)+++  
 जयाभ्यातानान्,  
@@ -174,7 +173,8 @@ unicode_script: devanagari
 व्याहृतीर् विहृताः,  
 सौविष्टकृतीम् इत्य् उपजुहोति - 
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/yad_asya_karmaNaH.md">
+<details open><summary><h5>Yad asya karmaNaH ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अ॑स्य॒ कर्म॒णो ऽत्यरी॑रिचं॒  
@@ -184,15 +184,18 @@ unicode_script: devanagari
 स्वाहा॑ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यद॑स्य॒ कर्म॒णोऽत्यरी॑रिचं॒ यद्वा॒ न्यू॑नमि॒हाक॑रम् ।  
 अ॒ग्निष्टत्स्वि॑ष्ट॒कृद्वि॒द्वान्त्सर्व॒ग्ग्॒ स्वि॑ष्टँ॒ सुहु॑तं करोतु॒ स्वाहा॑ ।
 </details>
+</details>
+</details>
 </div>
 
-+इति ७  
-
++इति ७
 </div>  
 
 अन्यप्रायश्चित्ताहुतयः बोधायनोक्ताः।

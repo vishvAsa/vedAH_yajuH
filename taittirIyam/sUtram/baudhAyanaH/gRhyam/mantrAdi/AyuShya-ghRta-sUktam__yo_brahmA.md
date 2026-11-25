@@ -3,6 +3,8 @@ title = "आयुष्य/ घृत-सूक्तम्"
 
 +++
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 The modern taittirIyaka-s have a remarkable sUkta known as the AyuShya-sUkta. It is somewhat metrically irregular and has pseudo-accents. It is probably the first extant H text to call on a group of goddesses reminiscent of the mAtR^i-s of later tAntrika tradition. 
@@ -13,11 +15,14 @@ This makes us suspect it was not originally a text of the yajus tradition at all
 
 One candidate is the AV AraNyaka which was at least partly known down to the time of shaMkarAcharya. He cites the abhichArika incantation that opens it (though memory of that continues among atharvan-s and is deployed while opening certain abhichArika rites).
 </details>
+</details>
 
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
 video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) ।
+</details>
 </details>
 
 
@@ -28,6 +33,8 @@ video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) �
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,7 +59,6 @@ video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) �
 
 प्राणेश्वर इति पाठस् तु बहुत्र लभ्यते, प्राचीनलेखकैः सुदर्शनसूरि-निभैर् उल्लिखितः। 
 </details>
-
 
 <details><summary>वेङ्कटार्यः - सिद्धान्त-रत्नावल्याम्</summary>
 
@@ -89,6 +95,7 @@ _________________
 "यो ब्रह्मा ब्रह्मण उज्जहारे"त्य् अत्रापि  
 ब्रह्म-पदं परमात्म-परम् ।
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,6 +105,8 @@ _________________
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +127,7 @@ _________________
 दुष्कृद्-विनाशानार्थत्वाद् अवतारस्य  
 घर्मरुचिः अत्य्-उष्ण-दीधितिः। 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +137,8 @@ _________________
 +++(कृत्तिकास्थाग्नि-)+++सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
 तम् आयुषे **वर्धयामो** घृतेन ॥ ३ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -147,6 +159,7 @@ _________________
 "वैजयन्तः सिद्धसेन" इति वैजयन्ती,  
 किंचिद्-विकारे ऽपि न दोषः ।
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +169,8 @@ _________________
 तां +++(ब्रह्म-पत्नीं)+++ विद्यां ब्रह्म-योनिँ सरूपाम्  
 इहायुषे **तर्पयामो** घृतेन ॥ ४ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +189,7 @@ _________________
 तामिहायुषे वर्धयामो घृतेन ।  
 ब्रह्मयोनिं विद्यात् - निरुक्त-देवता-प्रतिपादक- वेदाधिदेवतां इहायुषे वर्धयामो घृतेनेत्यन्वयः ।  
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,10 +200,13 @@ _________________
 आयुषेणो घृतम् इदं **जुषन्ताम्** ॥ ५ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 दाक्षायण्यः सर्वयोन्यः सयोन्यः सहस्रशो विश्वरूपा विरूपाः ।  
 ससूनवः सपतयः सयूथ्या आयुषेणो घृतमिदं जुषन्ताम् ॥ ५ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +217,8 @@ _________________
 **मा** नः प्रजाँ **रीरिषो** मोत वीरान् ॥ ६ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 > **मा** नः प्रजाँ **रीरिषो** मोत वीरान् ॥
@@ -205,11 +226,11 @@ _________________
 इति नक्षत्रसूक्तय् आर्द्रास्थ-रुद्रं स्मारयति । 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 दिव्या गणा बहुरूपाः पुराणा आयुश्छिदो नः प्रमथ्नन्तु वीरान् ।  
 तेभ्यो जुहोमि बहुधा घृतेन मा नः प्रजाँ रीरिषो मोत वीरान् ॥ ६ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +240,8 @@ _________________
 यम् अप्य् **एति** भुवनँ **साम्पराये**  
 स नो हविर् घृतम् इहायुषे **ऽत्तु** देवः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +254,7 @@ _________________
 एकः पुरस्तादिति पुनर् भगवन्तम् आह ।  
 अत एवोत्तर-तापनीये एकः पुरस्ताद् इत्यारभ्य साम्पराय इत्यन्त-नृसिंहपरत्वेन पठितमित्याहुः । 
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +265,8 @@ _________________
 घृतँ **हुत्वा** स्वायुष्या **महयाम** शश्वत् ॥ ८ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वसून् रुद्रा-नादित्यान् मरुतोऽथ साध्यान् ऋभून् यक्षान् गन्धर्वाग्श्च  
@@ -248,6 +274,7 @@ _________________
 भृगून् सर्पाग्श्चाङ्गिरसोऽथ सर्वान् घृतँ हुत्वा स्वायुष्या महयाम  
 शश्वत् ॥ ८ ॥
 
+</details>
 </details>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
 विष्णो॒ त्वन् नो॒ अन्त॑म॒श्+++(=अन्तिकतमः)+++  
@@ -269,6 +296,8 @@ _________________
 </details>
 </details>
 </div>
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संशयास्पद-स्वर-सहितम्)</summary>
 
 यो ब्रह्मा ब्रह्मण उ॑ज्जहा॒र प्रा॒णैः शि॒रः कृत्तिवासाः॑ पिना॒की ।  
@@ -302,4 +331,5 @@ _________________
   
 ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥  
 
+</details>
 </details>

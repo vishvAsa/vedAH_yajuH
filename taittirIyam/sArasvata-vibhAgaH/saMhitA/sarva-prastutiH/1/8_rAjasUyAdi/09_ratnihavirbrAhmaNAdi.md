@@ -2,6 +2,8 @@
 title = "०९ रत्निहविर्ब्राह्मणादि"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः  
@@ -19,6 +21,7 @@ title = "०९ रत्निहविर्ब्राह्मणादि"
 अन्वहं कर्तव्यानि,  
 तानि विदधाति 'रत्निनामेतानि हवींषि भवन्ति' इत्यादि ब्राह्मणम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -26,6 +29,8 @@ title = "०९ रत्निहविर्ब्राह्मणादि"
 ब्रह्म᳓णो गृहे᳓।    
 शिति+++(=श्वेत)+++-पृष्ठो᳓ द᳓क्षिणा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,6 +54,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 अग्नीन् समारोप्य ब्रह्मणो महर्त्विजो गृहं गत्वा बार्हस्पत्यं चरुं निर्वपति । 
 पत्युत्तरपदलक्षणो ण्यः । तत्र शितिपृष्ठः श्वेतपृष्ठो गौर्दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,6 +63,8 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 ऋषभो᳓ द᳓क्षिणा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,6 +87,7 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 
 2श्वो भूते राजन्यस्य गृहं गत्वा तत्रैन्द्रमेकादशकपालं निर्वपति । तत्र ऋषभो दक्षीणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -86,6 +95,8 @@ To Brhaspati he offers an oblation in the house of the Brahman (priest); the sac
 महि᳙ष्यै गृहे᳓  +++(नि᳓र्वपति)+++।     
 धेनु᳓र् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,6 +121,7 @@ To Aditya (he offers) an oblation in the house of the chief wife; the sacrificia
 
 3श्वो भूते महिष्याः प्रथमाया राज्ञः पत्न्या गृहं गत्वा तत्रादित्यं चरुं निर्वपति । अङ्गुष्ठमात्रः पुरोडाशः इत्येके ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +131,8 @@ To Aditya (he offers) an oblation in the house of the chief wife; the sacrificia
 
 कृष्णा᳓ कूटा᳓+++(=भग्नशृङ्गा)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,6 +158,7 @@ To Nirrti (he offers) an oblation in the house of the neglected wife, made up of
 4श्वो भूते परिवृक्त्या राज्ञो मध्यमपत्न्याः । परिपूर्वात् वृणक्तेः 'क्तिचि क्तौ च संज्ञायाम्' इति क्तिच्, 'उदात्तयणः' इति विभक्तेरुदात्तत्वं बाधित्वा 'उदात्तस्वरितयोर्यणः' इति व्यत्ययेन स्वरितत्वम् । कृष्णानां व्रीहीणां पत्न्या नखैर्निर्भिन्नं नखनिर्भिन्नं तण्डुलैश्चरुं कुर्यात् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । नखेषूलूखलधर्मान् मुसलधर्मांश्च करोति ।   
 तत्र **कृष्णा कूटा** भग्नशृङ्गा गौर्दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -152,6 +167,8 @@ To Nirrti (he offers) an oblation in the house of the neglected wife, made up of
 
 हि᳓रण्यन् द᳓क्षिणा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,6 +193,7 @@ To Agni (he offers) on eight potsherds in the house of the leader of the host; t
 
 5श्वो भूते सेनान्यः सेनापतेः गृहं गत्वा तत्राग्नेयमष्टाकपालं निर्वपति । 'नोङ्धात्वोः' इति विभक्तेरुदात्तत्वे प्रतिषिद्धे पूर्ववत्स्वरितत्वम् । तत्र हिरण्यं दक्षिणा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -184,6 +202,8 @@ To Agni (he offers) on eight potsherds in the house of the leader of the host; t
 
 महा᳓-निरष्टो+++(=निर्वृषणो)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -208,6 +228,7 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 
 6श्वो भूते सूतस्य सारथेः । ब्राह्मण्यां क्षत्रियेण जातस्येत्येके । तस्य गृहं गत्वा वारुणं दशकपालं निर्वपति । महानिरष्टः पीडितवृषणो गौर्दक्षिणा देया । अश्नोतेर्निष्ठायां 'यस्य विभाषा' इतीट्प्रतिषेधः, महांश्चासौ निरष्टश्च । वृषण-पीडनेन महानभूत् । दासीभारादिर्द्रष्टव्यः, बहुव्रीहिर्वा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,6 +236,8 @@ To Varuna (he offers) on ten potsherds in the house of the minstrel; the sacrifi
 ग्रामण्यो᳙ गृहे᳓   +++(नि᳓र्वपति)+++।  
 पृ᳓श्ञिर् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -238,6 +261,7 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 
 7श्वो भूते ग्रामण्यः ग्रामस्य यो नेता तस्य गृहे मारुतं सप्तकपालं निर्वपति । तत्र पृश्निः शुक्लो गौर्दक्षिणा । कुरटाख्यो गोविशेष इत्यन्ये ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -246,6 +270,8 @@ To the Maruts (he offers) on seven potsherds in the house of the village headman
 
 उपध्वस्तो᳓+++(=परिभूतनिजवर्णो)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,6 +295,7 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 8श्वो भूते क्षत्तुर्मन्त्रिणः । अन्तःपुराध्यक्षस्येत्येके । तस्य गृहं गत्वा तत्र सावित्रं द्वादशकपालं निर्वपति । तत्र उपध्वस्तोन्येन वर्णेन परिभूतनिजवर्णो गौर्दक्षिणा । 'संज्ञायामनाचितादीनाम्' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,6 +304,8 @@ To Savitr (he offers) on twelve potsherds [1] in the house of the carver; the sa
 
 सवात्यौ᳙+++(=सोदर्यौ)+++ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,6 +329,7 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 
 9श्वो भूते सङ्गहीतुस्सारथेः रश्मिग्राहिणो गृहं गत्वा आश्विनं द्विकपालं निर्वपति । रज्जुभिर्नियन्ता कुमाराध्यक्ष इत्यन्ये । सवात्यौ समानमातृकवत्सौ समाने वाते भवौ **सवात्यौ** सोदर्यौ । 'भवे छन्दसि' इति यः । वत्सान्तरेण दोह्या मृतवत्सा च तदीया च मातेत्यन्ये ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -308,6 +338,8 @@ To the Aśvins (he offers) on two potsherds in the house of the charioteer; the 
 
 श्यामो᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -332,6 +364,7 @@ To Pusan (he offers) an oblation in the house of the divider; the sacrificial fe
 
 10श्वो भूते भागदुघस्य यो राज्ञष्षड्भागं गृह्णाति तस्य गृहं गृत्वा पौष्णं चरुं निर्वपति । 'दुह कब्घश्च' इति कप्, 'छान्दसमन्तोदात्तत्वम् । तत्र श्यामो गौर्दकिष्णा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -340,6 +373,8 @@ To Pusan (he offers) an oblation in the house of the divider; the sacrificial fe
 
 शब᳓ल उ᳓द्वारो+++(=उद्वालो)+++ द᳓क्षिणा  ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,10 +399,14 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 
 11श्वो भूते अक्षावापस्य, यस्सहायो द्यूतकर्मणि अक्षावापनस्य कर्ता तस्य गृहं गत्वा रौद्रं गावीधुकं चरुं निर्वपति । तत्र शबलः उद्वारः उद्गतवालो गौर्दकिष्णा । केचित् पौष्णरौद्रयोर्मध्ये तक्षरथकारयोर्गृहे वैष्णवं त्रिकपालं सर्वायसदक्षिणमाहुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथ रत्निनां हविष्षु संस्थितेषु अग्नीन् परिसमारोप्य यजमानस्य गृहं गत्वा ऐन्द्रं कर्म द्विहविष्कं करोति, तद्विदधाति - इन्द्राय सुत्राम्णे पुरोडाशमेकादशकपालं प्रति निर्वपति इन्द्रायां होमुचे पुरोडाशमेकादशकपालं प्रति निर्वपति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +415,8 @@ To Rudra (he offers) an oblation of Gavidhuka in the house of the thrower of the
 इ᳓न्द्रायाँहोमु᳓चे +++(चानेन मन्त्रेण - )+++  
 +++(केचिदृषभं दक्षिणामाहुः ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,10 +437,14 @@ To Indra, the good protector, he offers a cake on eleven potsherds and to Indra,
 
 प्रतिनिर्वाप्ये एते । केचिदृषभं दक्षिणामाहुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13पुरस्तात्स्विष्टकृतोध्वर्युर्जपति - अयं न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,6 +452,8 @@ To Indra, the good protector, he offers a cake on eleven potsherds and to Indra,
 अय᳓न् नो रा᳓जा +++(एव)+++ वृत्रहा᳓ -  
 रा᳓जा भूत्वा᳓ वृत्रव्ँ᳓ वध्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,16 +475,22 @@ Be our king and slay the foe.
 
 रत्निनां गृहेभ्यः प्रव्रजतोनुमन्त्रणमनेनेति केचिदाहुः । अयं नोस्माकं राजा वृत्रहा शत्रुहा भूत्वा राजा दीप्यमानश्च भूत्वा वृत्रं शत्रून् वध्यात् नाशयेदित्याशास्महे । जातावेकवचनम् । यद्वा - वृत्रहा राजा इन्द्रः यो वृत्रं हत्वा अधिकार्थं राजा स एव भूत्वा वृत्रं वध्यादिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथैन्द्रकर्मणि समाप्ते श्वो भूते अभिषेचनीयोक्थ्ये प्रक्रान्ते द्विहविष्कां दीक्षणीयामिष्टिं विदधाति - मैत्राबार्हस्पत्यं भवतीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्रा-बार्हस्पत्य᳓म् भवति +++(हविर्-द्वयम्)+++ …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,11 +512,15 @@ There is (an offering) to Mitra and Brhaspati;
 मैत्रश्च बार्हस्पत्यश्च मैत्राबार्हस्पत्यं, समाहारद्वन्द्वः ।  
 मैत्रश्च बार्हस्पत्यश्च द्वौ चरू कर्तव्यौ भवत इत्यर्थः । समासान्तोदात्तत्वं, छान्दस आनर्ङ् । तत्र बार्हस्पत्यस्य प्राथम्येपि अल्पाच्तरत्वान्मैत्रशब्दस्य पूर्वनिपातः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अधुना तयोर् बार्हस्पत्यस्य लक्षणमाह -  
 **श्वेताया** इति षष्ठ्यर्थे चतुर्थी ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +530,8 @@ There is (an offering) to Mitra and Brhaspati;
 +++(बदरादि-संयोगेन)+++ स्वयम्-मथित᳓  
 +++(आतपे स्थापनेन स्वयं विलीनय्)+++ आ᳓ज्ये …  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,10 +558,14 @@ in the milk of a white (cow) with a white calf which has curdled itself, and in 
 तन्नवनीतं दृतेर् उद्धृत्य  
 आतपे स्थापितं तत् स्वयं-विलीनम् **आज्यं** भवति । आज्य इत्यत्रापि स्वयमित्यपेक्ष्यते । ईदृश आज्ये मैत्रः कर्तव्य इत्यर्थः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अधुना मैत्रपात्रस्य लक्षणमाह - आश्वत्थ इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +573,8 @@ in the milk of a white (cow) with a white calf which has curdled itself, and in 
 आ᳓श्वत्थे [16] पा᳓त्रे  
 च᳓तुस्-स्रक्तौ+++(=चतुर्-अश्रे)+++ स्वयम्-अवपन्ना᳓यै शा᳓खायै   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -532,16 +597,22 @@ in a dish of Aśvattha wood [2] with four corners (made) of a branch which has f
 एकदेशेन कॢप्ते **आश्वत्थे** अश्वत्थविकारे **पात्रे**  
 **चतुस्स्रक्तौ** चतुरश्रे मैत्रश् चरुः कर्तव्यः । अश्वत्थशत्ब्दात् 'अनुदात्तादेरञ्' इत्यञ्प्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अधुना तयोर्विधानान्तरं विदधाति - कर्णांश्चेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्णाँ᳓श् चा᳓कर्णाँश्+++(=निष्फलीकृताः)+++ च तण्डुला᳓न् वि᳓ चिनुयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,10 +633,14 @@ he should scatter husked and unhusked rice grains;
 
 **कर्णाश्** छिद्राश् छिन्नाः **अकर्णाः** निष्फलीकृताः तन्डुलाः । कर्णांश्चाकर्णांश्च विचिनुयात् 'यथाभागं व्यावर्तेथाम्' इति मन्त्रेण पृथक्कुर्यात् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ततः किमित्याह - ये इत्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -574,6 +649,8 @@ he should scatter husked and unhusked rice grains;
 
 ये᳓ऽकर्णास् स᳓ आ᳓ज्ये मैत्रः᳓ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -596,6 +673,7 @@ the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitr
 
 तत्र ये कर्णाः छिन्नाः, स पयसि पूर्वोक्ते बार्हस्पत्यश्चरुः कार्यः । ये त्वकर्णाः स आज्ये पूर्वोर्क्ते मैत्रश्चरुः कार्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -605,6 +683,8 @@ the husked ones in the milk are Brhaspati's, the unhusked in the butter are Mitr
 सै᳓व᳓ श्वेता᳓ श्वेत᳓-वत्सा द᳓क्षिणा ॥  
 +++(एषु समन्त्रकसंस्कारो न क्रियते च।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -633,4 +713,5 @@ the Vedi must be self-made, the strew self-cut, the kindling-stick self-made; th
 अत्र यस्या दुग्धे आज्ये चरुः क्लृप्तः **सैव श्वेता श्वेतवत्सा** दक्षिणा देया । अथ शितिपृष्ठो गौर्बार्हस्पत्यस्य दक्षिणा, मैत्रस्याश्व इत्यन्ये अनुब्राह्मण्दर्शनादिच्छन्ति पूर्वोक्तञ्च ॥
 
 इत्यष्टमे नवमोनुवाकः ॥  
+</details>
 </details>

@@ -3,6 +3,8 @@ title = "०७ इडोपाह्वानविधिः"
 +++
 
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विषयः</summary>
 
 इष्टिहोत्रब्राह्मणम्
@@ -12,18 +14,24 @@ title = "०७ इडोपाह्वानविधिः"
 
 प्रजापतिर्ऋषिः
 </details>
+</details>
 
 ## गो-पदेषु घृतम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मनुᳶ॑ पृथि॒व्या य॒ज्ञिय॑मैच्छ॒त्स घृ॒तन्निषि॑क्तमविन्द॒त्सो॑ऽब्रवी॒त्को॑ऽस्येश्व॒रो य॒ज्ञेऽपि॒ कर्तो॒रिति॒ ताव॑ब्रूताम्मि॒त्रावरु॑णौ॒ गोरे॒वावमी॑श्व॒रौ कर्तोः॑ स्व॒ इति॒ तौ ततो॒ गाँ समै॑रयताँ॒ सा यत्र॑यत्र॒ न्यक्रा॑म॒त्ततो॑ घृ॒तम॑पीड्यत॒ तस्मा॑द्घृ॒तप॑द्युच्यते॒ तद॑स्यै॒ जन्मोप॑हूतँ रथन्त॒रँ स॒ह पृ॑थि॒व्येत्या॑ह [36]  282
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नुᳶ पृथिव्या᳓ यज्ञि᳓यमैच्छत्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -116,11 +124,14 @@ Manu desired what of earth was sacrificial.
 
 [^1]: अपिशब्दस्यार्थो न ज्ञायते।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ घृत᳓न् नि᳓षिक्तम् अविन्दत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -136,12 +147,15 @@ He found the poured out ghee.
 
 सः । घृ॒तम् । निषि॑क्त॒मिति॒ नि-सि॒क्त॒म्॒ । अ॒वि॒न्द॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽब्रवीत् ।  
 को᳙ ऽस्येश्वरो᳓ यज्ञे᳓ऽपि क᳓र्तोर् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,12 +182,15 @@ He said, 'Who is able to produce this also at the sacrifice?'
 
 लब्ध्वा च देवानाम् अग्रे स एवम् अब्रवीत्— अस्या गोः पदेषु स्थितस्य घृतस्य स्वरूपं यथा लौकिक-योजनादिषूपयुक्तं तथा यज्ञेषूपयुक्तं कर्तुं कः समर्थ इति। तच् छ्रुत्वा तत्र स्थितौ मित्रा-वरुणौ मनुं प्रत्य् अब्रूताम्— 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् अब्रूताम् मित्रा᳓व᳓रुणौ  
 गो᳓र् एवा᳓व᳓म् ईश्वरौ᳓ क᳓र्तोः स्व इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,11 +217,14 @@ Mitra and Varuna said,
 
 किं गोः कार्य-भूतेन घृतेन, तत्-कारण-भूताया गोर् एव यज्ञाङ्ग-भावं कर्तुम् आवां समर्थौ स्व इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ᳓ त᳓तो गाँ᳓ स᳓मैरयताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,12 +250,15 @@ Then they set the cow in motion.
 
 एवम् उक्त्वा तौ तत ऊर्ध्वं ताम् इडा-रूपां गां भूमौ सम् ऐरयतां समानयताम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ य᳓त्र-यत्र न्य᳓क्रामत्  
 त᳓तो घृत᳓म् अपीड्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,11 +285,14 @@ Wherever she stepped, there ghee was pressed out;
 
 सा च गौर् भूमौ यत्र यत्र नितरां पादं प्रक्षिप्तवती 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो घृत᳓मपीड्यत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,11 +318,14 @@ there ghee was pressed out;
 
 तत्र तत्र गो-पदाङ्किते भू-प्रदेशे घृतं निष्पीडितम् आसीत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्घृत᳓पद्युच्यते।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +346,14 @@ therefore she is called ghee-footed;
 
 यस्माद् अस्याः पादेभ्यो घृतं निर्गतम् आसीत् तस्माद् इयं घृत-पदीति प्रसिद्धाऽभूत्। एवम् अस्या इडाया यज्ञ-भूमौ जन्म संपन्नम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्यै ज᳓न्म।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,6 +378,7 @@ that is her origin.
 एवं मनुना प्रथममुपलब्धत्वात् इडा **मानवी** ।  
 पदात् घृतपीडनात् **घृतपदी** । मित्रावरुणाभ्यां समीरितत्वात् **मैत्रावरुणी** ॥
 </details>
+</details>
 
 ## रथन्तराद्य्-उपहूतिः
 
@@ -353,6 +386,8 @@ that is her origin.
 
 उ᳓पहूतँ रथन्तरँ᳓ सह᳓ पृथिव्ये᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,16 +410,22 @@ that is her origin.
 
 "उपहूतम्" इति। "रथंतरं साम, तत् पृथिव्या सह मयोपहूतं समीपे यथा तिष्ठति तथाह्वानं कृतम्" इत्य् अर्थः। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒यव्ँ वै र॑थन्त॒रमि॒मामे॒व स॒हान्नाद्ये॒नोप॑ ह्वयत॒ उप॑हूतव्ँवामदे॒व्यँ स॒हान्तरि॑क्षे॒णेत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ रथन्तर᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,11 +457,14 @@ The Rathantara is this (earth);
 
 मन्त्र-गतेन पृथिवी-शब्देन तत्-कार्यम् अन्नाद्यम् उपलक्ष्यते। तथा सत्य् अन्नाद्येन सह भूमिर् उपहूतेत्य् एवं मन्त्र-वाक्यस्यार्थः। एवम् उत्तरेऽपि मन्त्रा अनूद्य व्याख्यायन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓म् एव᳓ सहा᳓न्ना᳓द्येनो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,12 +480,15 @@ verily he invokes her with food.
 
 इ॒माम् । ए॒व । स॒ह । अ॒न्नाद्ये॒नेत्य॑न्न-अद्ये॑न । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतव्ँ वामदेव्यँ᳓  
 सहा᳓न्त᳓रिक्षेणे᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,16 +504,22 @@ verily he invokes her with food.
 
 उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । स॒ह । अ॒न्तरि॑क्षेण । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒शवो॒ वै वा॑मदे॒व्यम्प॒शूने॒व स॒हान्तरि॑क्षे॒णोप॑ ह्वयत॒ उप॑हूतम्बृ॒हत्स॒ह दि॒वेत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ वामदेव्य᳓म्  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -494,11 +547,14 @@ The Vamadevya, is cattle;
 
 "उपहूतम्" इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एव᳓ सहा᳓न्त᳓रिक्षेणो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -514,12 +570,15 @@ verily he invokes cattle with the atmosphere.
 
 स॒ह । अ॒न्तरि॑क्षेण । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतम् बृह᳓त्  
 सह᳓ दिवे᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,11 +594,14 @@ verily he invokes cattle with the atmosphere.
 
 उप॑हूत॒मित्युप॑-हू॒त॒म्॒ । बृ॒हत् । स॒ह । दि॒वा । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐरव्ँ᳓ वै᳓ बृह᳓द्,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,11 +624,14 @@ The Brhat is connected with food;
 
 "उपहूतम्" इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓राम् एव᳓ सह᳓ दिवो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -596,6 +661,7 @@ verily he invokes food with the sky.
 
 उप॑हूतास्स॒प्त होत्रा॒ इत्या॑ह॒ होत्रा॑ ए॒वोप॑ ह्वयत॒ उप॑हूता धे॒नुः [37]  स॒हर्ष॒भेत्या॑ह
 </details>
+</details>
 
 ## होत्र-हूतिः
 
@@ -603,6 +669,8 @@ verily he invokes food with the sky.
 
 उ᳓पहूतास् सप्त᳓ हो᳓त्रा इ᳓त्य् आह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -630,11 +698,14 @@ verily he invokes food with the sky.
 
 "उपहूता" इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓त्रा एवो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -650,6 +721,7 @@ verily he invokes the Hotras.
 
 होत्राः॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 ## धेन्वादि-हूतिः
 
@@ -657,6 +729,8 @@ verily he invokes the Hotras.
 
 उ᳓पहूता धेनु᳓स् सह᳓ र्षभे᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +751,14 @@ verily he invokes the Hotras.
 
 "सहर्षभेति" पदेन सूचितम् अर्थं दर्शयति "उपहूतेति"।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुन᳓म् एवो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +779,14 @@ verily he invokes a pair.
 
 6मिथुनमिति ॥ उपलक्षणत्वात्सर्वमिथुनानां प्रजनयितारमात्मानं करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूतो भक्ष᳓स् स᳓खे᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -722,11 +802,14 @@ verily he invokes a pair.
 
 उप॑हूत॒ इत्युप॑-हू॒तः॒ । भ॒क्षः । सखा॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमपीथ᳓म् एवो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,6 +835,7 @@ verily he invokes the Soma drink.
 
 "भक्षः सखेत्य्" अनेन स्वोपकारक-सोम-पानम् उपलक्ष्यत इति दर्शयति -
 </details>
+</details>
 
 ## उपहूताँ हो
 
@@ -759,6 +843,8 @@ verily he invokes the Soma drink.
 
 "उ᳓पहूताँ᳓४ हो᳓+++(→आत्मा)+++" इ᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,16 +872,22 @@ verily he invokes the Soma drink.
 
 हो इत्यात्मोच्यते । इति अग्रिममूलव्याख्याने टीकावचनम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒त्मान॑मे॒वोप॑ ह्वयत आ॒त्मा ह्युप॑हूतानाव्ँ॒वसि॑ष्ठ॒ इडा॒मुप॑ ह्वयते प॒शवो॒ वा इडा॑ प॒शूने॒वोप॑ ह्वयते च॒तुरुप॑ ह्वयते॒ चतु॑ष्पादो॒ हि प॒शवो॑ मान॒वीत्या॑ह॒ मनु॒र्ह्ये॑ताम् [38] अग्रेऽप॑श्यद्घृ॒तप॒दीत्या॑ह॒ यदे॒वास्यै॑ प॒दाद्घृ॒तमपी॑ड्यत॒ तस्मा॑दे॒वमा॑ह मैत्रावरु॒णीत्या॑ह मि॒त्रावरु॑णौ॒ ह्ये॑नाँ स॒मैर॑यताम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓नम् एवो᳓प ह्वयतेे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -830,11 +922,14 @@ verily he invokes the self,
 
 हो इत्यात्मोच्यते । इति भाष्येण पूर्वतनमूलस्थः = उप॑हू॒ताँ४ हो इत्या॑ह इत्यत्रस्थः होशब्दः व्याख्यातः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓ ह्य् उ᳓पहूतानाव्ँ व᳓सिष्ठः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -862,6 +957,7 @@ for the self is the best of those invoked.
 
 यद्वा - तस्मादिति इति टीकावाक्यम् अग्रिममूलस्य व्याख्यानम् । तस्मा॑दे॒वमा॑ह ।  इति मूलम् । एवम् = उच्चैरुपहूत इति टीकावाक्यमिदम्। इत्यर्थः ।
 </details>
+</details>
 
 ## इडाद्य्-उपहूतिः
 
@@ -869,6 +965,8 @@ for the self is the best of those invoked.
 
 इ᳓डाम् उ᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -884,11 +982,14 @@ He invokes food,
 
 इडा॑म् । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ इ᳓डा,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -924,11 +1025,14 @@ food is cattle;
 
 तस्या उपाह्वानम् "इडोपहूतेत्यादि"-वाक्येन कुर्यात्। इडायाः पशु-रूपत्वात् तद्-उपाह्वानेन पशु-प्राप्तिर् भवति। आरोहावरोह-रूपयोर् वाक्ययोर् द्विर् आवृत्तत्वाच् चतुर्-वारम् उपाह्वानं संपद्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -944,12 +1048,15 @@ verily he invokes cattle.
 
 प॒शून् । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् उ᳓प ह्वयते ।   
 च᳓तुष्-पादो हि᳓ पश᳓वः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -971,6 +1078,7 @@ He invokes four, for cattle are four-footed.
 
 पशूनां चतुष्-पदत्वाद् एतद् उपपन्नम्। तयोर् आवृत्त्या मध्ये "सेयम् इडास्मान् उपह्वयताम्" इत्य् एतद् इडा-देवतायाः प्रार्थना स्वस्मिन् देवतानुग्रहार्थम्।
 </details>
+</details>
 
 ## मानवीत्वादि
 
@@ -979,6 +1087,8 @@ He invokes four, for cattle are four-footed.
 मानवी᳓त्याह ।  
 म᳓नुर् ह्य् ए᳙ता᳓म् अ᳓ग्रे ऽप᳙श्यत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1006,11 +1116,14 @@ He invokes four, for cattle are four-footed.
 "मनुः पृथिव्या" इत्य् अस्मिन्न् उपाख्याने "मानवीत्यादि"-शब्दार्थः प्रसिद्ध इत्य् एतद् दर्शयति -  
 "मानवीत्याहेति"। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓पदी᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1031,12 +1144,15 @@ He invokes four, for cattle are four-footed.
 
 घृतपदीत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एवा᳓स्यै पदा᳓द् घृत᳓म् अ᳓पीड्यत,  
 त᳓स्माद् एव᳓म् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1053,12 +1169,15 @@ Because ghee was pressed out of her foot, therefore be says thus.
 
 यत् । ए॒व । अ॒स्यै॒ । प॒दात् । घृ॒तम् । अपी॑ड्यत । तस्मा॑त् । ए॒वम् । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्रावरुणी᳓त्याह ।  
 मित्रा᳓व᳓रुणौ ह्य् ए᳙नाँ समै᳓रयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1080,6 +1199,7 @@ Because ghee was pressed out of her foot, therefore be says thus.
 
 ब्रह्म॑ दे॒वकृ॑त॒मुप॑हूत॒मित्या॑ह॒ ब्रह्मै॒वोप॑ ह्वयते॒ दैव्या॑ अध्व॒र्यव॒ उप॑हूता॒ उप॑हूता मनु॒ष्या॑ इत्या॑ह देवमनु॒ष्याने॒वोप॑ ह्वयते
 </details>
+</details>
 
 ## ब्रह्माद्य्-उपहूतिः
 
@@ -1087,6 +1207,8 @@ Because ghee was pressed out of her foot, therefore be says thus.
 
 ब्र᳓ह्म देव᳓कृतम् उ᳓पहूतम् इ᳓त्य् आह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1113,11 +1235,14 @@ Because ghee was pressed out of her foot, therefore be says thus.
 पुरा देवैर् निष्पादितम् इडोपाह्वान-रूपं यत् परिवृत्तं (ढं) कर्म, तस्योपाह्वानं दर्शयति -  
 "ब्रह्म देवेति"।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मैवो᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1133,6 +1258,7 @@ verily he invokes the Brahman.
 
 ब्रह्म॑ । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1140,6 +1266,8 @@ verily he invokes the Brahman.
 उ᳓पहूता मनुष्या᳙  
 इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1161,11 +1289,14 @@ verily he invokes the Brahman.
 "अश्विनौ हि देवानाम् अध्वर्यू आस्ताम्" इत्यादिश्रुतिषु श्रुता ये दैव्या अध्वर्यवो ये च दृश्यमाना मानुषास् तेषाम् उपाह्वानं दर्शयति - 
 "दैव्या" इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव-मनुष्या᳓न् एवो᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1191,6 +1322,7 @@ verily he invokes the gods and men.
 
 य इ॒मय्ँ य॒ज्ञमवा॒न्ये य॒ज्ञप॑तिव्ँ॒वर्धा॒नित्या॑ह [39] य॒ज्ञाय॑ चै॒व यज॑मानाय चा॒शिष॒मा शा॑स्त॒ उप॑हूते॒ द्यावा॑पृथि॒वी इत्या॑ह॒ द्यावा॑पृथि॒वी ए॒वोप॑ ह्वयते
 </details>
+</details>
 
 ## यज्ञम् अवान्
 
@@ -1198,6 +1330,8 @@ verily he invokes the gods and men.
 
 य᳓ इमय्ँ᳓ यज्ञ᳓म् अ᳓वान्  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1220,12 +1354,15 @@ verily he invokes the gods and men.
 
 "य इमम्" इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ यज्ञ᳓पतिव्ँ व᳓र्धान् इ᳓त्य् आह ।  
 यज्ञा᳓य चैव᳓ य᳓जमानाय चाशि᳓षम् आ᳓ शास्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1246,6 +1383,7 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 
 10यज्ञाय चैवेत्यादि ॥ गतम् ॥
 </details>
+</details>
 
 ## द्यावापृथिव्यादि
 
@@ -1253,6 +1391,8 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 
 उ᳓पहूते द्या᳓वापृथिवी᳓ इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1274,11 +1414,14 @@ verily he invokes a blessing for the sacrifice and the sacrificer.
 "उपहूतं रथंतरं सह पृथिव्येत्य्" अत्र यथा पृथिवी-शब्दो ऽन्न-लक्षकः, नात्र तथा द्यावा-पृथिवी-शब्दार्थाव् किंतु स्वार्थ-पराव् इत्य् एतद् दर्शयति - 
 "उपहूते" इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्या᳓वापृथिवी᳓ एवो᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1294,10 +1437,14 @@ verily he invokes sky and earth.
 
 द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ए॒व । उपेति॑ । ह्व॒य॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पूर्व॒जे ऋ॒ताव॑री॒ इत्या॑ह पूर्व॒जे ह्ये॑ते ऋ॒ताव॑री दे॒वी दे॒वपु॑त्रे॒ इत्या॑ह दे॒वी ह्ये॑ते दे॒वपु॑त्रे॒ उप॑हूतो॒ऽयय्ँयज॑मान॒ इत्या॑ह॒ यज॑मानमे॒वोप॑ ह्वयत॒ उत्त॑रस्यान्देवय॒ज्याया॒मुप॑हूतो॒ भूय॑सि हवि॒ष्कर॑ण॒ उप॑हूतो दि॒व्ये धाम॒न्नुप॑हूतः [40] इत्या॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1305,6 +1452,8 @@ verily he invokes sky and earth.
 पूर्वजे᳓ ऋता᳓वरी इ᳓त्याह ।  
 पूर्वजे᳓ ह्य् ए᳙ते᳓ ऋता᳓वरी 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1333,12 +1482,15 @@ verily he invokes sky and earth.
 ते च द्यावा-पृथिव्यौ देव-तिर्यङ्-मनुष्याद्य्-उत्पत्तेः पूर्वम् एवोत्पन्ने, ऋत-शब्दावाच्यो यज्ञो ऽनयोर् वर्तत इति ऋतावर्त्यौ, नैते केवलम् ऋत्विग्-आदि-रूपे किंतु देव्यौ, देवाः पुत्रा ययोस् ते देव-पुत्रे इत्य् एतां विशेषणार्थ-सिद्धिं दर्शयति -  
 "पूर्वजे" इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी᳓ देव᳓पुत्रे इ᳓त्याह ।  
 देवी᳓ ह्य् ए᳙ते᳓ देव᳓पुत्रे 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1360,6 +1512,7 @@ verily he invokes sky and earth.
 
 देवनशीले देव्यौ देवाः पुत्राः ययोस्तौ तादृश्यौ ॥
 </details>
+</details>
 
 ## यजमानाद्य्-उपहूतिः
 
@@ -1367,6 +1520,8 @@ verily he invokes sky and earth.
 
 उ᳓पहूतो ऽयय्ँ᳓ य᳓जमान इ᳓त्य् आह।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1382,11 +1537,14 @@ verily he invokes sky and earth.
 
 उप॑हूत॒ इत्युप॑-हू॒तः॒ । अ॒यम् । यज॑मानः । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानम् एवो᳓प ह्वयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1408,6 +1566,7 @@ verily he invokes the sacrificer.
 "यजमानः प्रस्तर" इत्यादि-वद् अत्र यजमान-शब्दो नार्थान्तर-लक्षक इत्य् एतद् दर्शयति -  
 "उपहूतो ऽयम्" इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1415,6 +1574,8 @@ verily he invokes the sacrificer.
 भू᳓यसि हविष्क᳓रण उ᳓पहूतो,  
 दिव्ये᳓ धा᳓मन्न् उ᳓पहूत इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1436,10 +1597,14 @@ verily he invokes the sacrificer.
 येषां देव-यज्यादीनाम् अर्थे यजमानोपाह्वानं, तान् एतान् विस्पष्टं दर्शयति -- 
 "उत्तरस्याम्" इति। सोम-यागादि-रूपाया उत्तर-देव-यज्यायाः प्रजा-हेतुत्वेन प्रजात्वम्। अस्याम् एवेष्टौ बहु-हविः-संपादकस्य पशु-हेतुत्वेन पशुत्वम्। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जा वा उत्त॑रा देवय॒ज्या प॒शवो॒ भूयो॑ हवि॒ष्कर॑णँ सुव॒र्गो लो॒को दि॒व्यन्धामे॒दम॑सी॒दम॒सीत्ये॒व य॒ज्ञस्य॑ प्रि॒यन्धामोप॑ ह्वयते॒ विश्व॑मस्य प्रि॒यमुप॑हूत॒मित्या॒हाछ॑म्बट्कारमे॒वोप॑ ह्वयते ॥ [41]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1448,6 +1613,8 @@ verily he invokes the sacrificer.
 पश᳓वो भू᳓यो हविष्क᳓रणम् ।  
 सुवर्गो᳓ लोको᳓ दिव्य᳓न् धा᳓म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1470,6 +1637,7 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 
 12प्रजा वा इत्यादि ॥ दर्शपूर्णमासाद्यविच्छेदः प्रजाहेतुः ।
 </details>
+</details>
 
 ## इदम् असि
 
@@ -1477,6 +1645,8 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 
 इद᳓म् असीद᳓म् असी᳓त्य् एव᳓  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1503,11 +1673,14 @@ The highest sacrifice is offspring, the greater offering is cattle, the divine a
 "इदं मे देवा हविर् जुषन्ताम् इति तस्मिन्न् उपहूत" इत्य् अस्य स्पष्टार्थस्य मन्त्र-वाक्यस्य विवक्षितं तात्पर्यं दर्शयति -  
 "इदम् असीति"।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓स्य प्रिय᳓न् धा᳓मो᳓प ह्वयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1528,6 +1701,7 @@ thou art this', he invokes the dear abode of the sacrifice.
 
 "इदं प्रवर्तमानं मदीयं हविर् देवा जुषन्ताम्" इति वक्तुं तस्मिन् दर्श-पूर्णमास-कर्मणि यजमान उपहृत इत्य् एतावद् एव न भवति, किंत्व् "इदं निरूढ-पशुबन्ध-रूपं कर्म चिकीर्षुर् असि, सोम-याग-रूपम् इदं कर्म चिकीर्षुर् असि" इत्य् एवं सर्व-कर्म-विवक्षा-द्योतनार्था वीप्सा।
 </details>
+</details>
 
 ## विश्वस्य प्रियम्
 
@@ -1535,6 +1709,8 @@ thou art this', he invokes the dear abode of the sacrifice.
 
 वि᳓श्वमस्य प्रिय᳓म् उ᳓पहूतम् इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1555,11 +1731,14 @@ thou art this', he invokes the dear abode of the sacrifice.
 
 अन्यद् यजमानस्य यत् प्रियं तत् सर्वम् उपहूतं, तस्य चोपहूतस्य सर्वस्य प्रियस्य स्वामी यजमान उपहूत इत्य् अनेनोपाह्वानस्य न्यूनतां विचार्य संपूर्णता संपद्यतेत्य् एतद् दर्शयति - "विश्वम् अस्येति"। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓छम्-बट्कारम् एवो᳓प ह्वयते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1586,4 +1765,5 @@ verily not vainly does he invoke.
 <details><summary>सायण-टीका</summary>
 
 अपेक्षितस्यार्थस्य प्रच्छादनेनानुष्ठान-वैयर्थ्यं छम्बट्कारस् तद् यथा न भवति तथैवैनं यजमानम् उपहूतवान् भवति।
+</details>
 </details>

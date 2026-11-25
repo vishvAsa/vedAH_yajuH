@@ -2,17 +2,23 @@
 title = "०२ इडोपाह्वानब्राह्मणम्"
 
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 (इडोपाह्वानब्राह्मणम् ) सँश्रव-स्तुमिञ्जयोः प्रश्नोत्तराभ्याम् इडाप्रशंसा  
 
 प्रजापतिर्ऋषिः
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 इडाद्य् अनुमन्त्रण-मन्त्राः प्रथमे व्याख्याताः। ताम् इडां द्वितीये द्वयोर् मुन्योः प्रश्नोत्तराभ्यां प्रशंसति। तत्र प्रश्नम् अवतारयति-
 **सँश्रवा इति।**
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -21,6 +27,8 @@ title = "०२ इडोपाह्वानब्राह्मणम्"
 "य᳓त् सत्रि᳓णाँ हो᳓ता᳓ ऽभूᳵ  
 का᳓म् इ᳓डाम् उ᳓पाह्वथा" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,6 +61,7 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 संश्रवसः प्रश्नं दर्शयति- **यत् सत्रिणाम् इति।** यद् यदा, तदेत्य् अध्याहारः। **कां** किंगुणकाम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -61,6 +70,8 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 व्याने᳓न मनुष्या᳙न्,  
 अपाने᳓न पितॄ᳓न्" इ᳓ति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +101,14 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 "ताम् उपाह्व इति।" प्राणादि-वृत्तिभिर् इडाया देवादि-धारणम् उत्तरत्र स्पष्टीकरिष्यते। तां देवादि-धारण-गुणकाम् इडाम् उपहूतवान् अस्मि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,11 +142,14 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 उत्तरं दर्शयति - **छिन्नत्तीति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "छिन᳓त्ती᳓"ति होवाच ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +165,14 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 छि॒नत्ति॑ । इति॑ । ह॒ । उ॒वा॒च॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "श᳓रीरव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,11 +193,14 @@ Samśravas Sauvarcanasa said to Tumiñja Aupoditi:
 
 3संश्रवा उवाच - **शरीरमित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "गौ᳓र् वा᳓ [7] +अस्यै श᳓रीरम् ।"
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -209,11 +232,14 @@ Her body is the cow [1];
 
 ** गौर् एवास्या इडायाः शरीरम्। एतत् च "मानवी घृत-पदी मैत्रावरुणी" इत्य् एतस्य हौत्रस्येडोपाह्वान-मन्त्रस्य ब्राह्मणे "मनुः पृथिव्या" इत्य् आद्य् अनुवाके प्रसिद्धम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाव्ँ᳓ वा᳓व᳓ तौ᳓ त᳓त् प᳓र्यवदताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,6 +265,7 @@ of the cow were they two talking.
 
 अत इडायाः शरीर-भूतां गाम् एव ज्ञातवन्तौ तदानीं छिनत्तीत्य् एतादृशाभ्यां प्रश्नोत्तराभ्याम् अनिन्दताम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,6 +278,8 @@ of the cow were they two talking.
 या᳓म् पितृ᳓भ्यो घ्न᳓न्ति  
 सा᳓ ऽपाने᳓न पितॄ᳓न्। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,12 +319,15 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 सेयं गौर् अपानेनाधम-वृत्त्या मारण-रूपया पितॄन् धारयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द -  
 पशुमा᳓न् भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,12 +348,15 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 य एवमित्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
 "या᳓ प्रजाᳶ᳓ प्रभ᳓वन्तीᳶ प्र᳓त्याभ᳓वती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +388,14 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 अथ तुमिञ्जः स्वेनोपहूताया इडाया मुख्यत्वं संपादयितुं गुणान्तरेण इडाम् विशिनष्टीति दर्शयति- **अथ वेति।** पक्षान्तर-द्योतनाय "अथ वा" इति पद-द्वयम्। येयम् इडा प्रभुत्वोपेताः प्रजाः प्रत्याभिमुख्येन वर्तते तादृशीम् इडाम् उपहूतवान् अस्मि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓न्नव्ँ वा᳓ अस्यै त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,6 +421,7 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 
 संश्रवा एतस्या अपीडाया मुख्यत्वं वारयतीति दर्शयति- **अन्नं वा इति।** अस्या इडायाः संबन्धि यद् अन्नं तद् एवोपहूतवान् असि न तु मुख्याम् इडाम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -391,6 +430,8 @@ she whom they slay for the Fathers (supports) the Fathers by her inspiration;
 प्र᳓त्या᳓ भवन्ति ।   
 य᳓ एवव्ँ᳓ वे᳓दान्नादो᳓ भवति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -423,6 +464,7 @@ he who knows thus becomes an eater of food.
 
 एतद्-वेदनं प्रशंसति - **य एवम् इति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -430,6 +472,8 @@ he who knows thus becomes an eater of food.
 "या᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अनुगृह्णा᳓ति  
 प्र᳓त्याभ᳓वन्तीर् गृह्णा᳓ती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -465,12 +509,15 @@ he who knows thus becomes an eater of food.
 **अथवा इति।**   
 येयम् इडा व्याध्यादिभिः पराभूयमानाः प्रजाः स्वस्याम् अवस्थाप्य् अनुगृह्णाति, पराभूयमानाः प्रजास् तत्तद्-अपेक्षित-स्थान-प्रदानेन स्वीकरोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रतिष्ठाव्ँ᳓ वा᳓ अस्यै  
 त᳓द् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,6 +543,7 @@ Her support then hast thou invoked', he replied.
 
 अस्या अपीडाया मुख्यत्व-निराकरणोक्तिं दर्शयति- **प्रतिष्ठाम् इति।** प्रतितिष्ठत्य् अस्याम् इडा गोरूपेति प्रतिष्ठा भूमिस् ताम् एवोपहूतवान् असि न मुख्याम् इडाम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -503,6 +551,8 @@ Her support then hast thou invoked', he replied.
 इयव्ँ᳓ वै᳓ प्रजाᳶ᳓ पराभ᳓वन्तीर् अ᳓नुगृह्णाति, प्रत्याभ᳓वन्तीर् गृह्णाति ।  
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓त्य् एव᳓ तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -539,12 +589,15 @@ he who knows thus finds support.
 
 वेदनं प्रशंसति- **य एवमिति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓थ वै᳓ ता᳓म् उ᳓पाह्व" इ᳓ति होवाच  
 "य᳓स्यै निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पि᳓बन्ती᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -575,11 +628,14 @@ he who knows thus finds support.
 
 मुख्यत्व-संपादनाय गुणान्तरोक्तिं दर्शयति- **अथ वा इति।** यस्या वृष्टि-रूपाया इडाया निष्क्रमणे न्यग्-भावेन पतने सति यद् घृतं क्षरद् उदकं तज् जीवन-अर्थिन्यः प्रजा उपजीवन्ति तादृशीम् इडाम् उपहूतवान् अस्मि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "छिन᳓त्ति सा᳓ न᳓ छिनत्ती᳓३"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,12 +661,15 @@ he who knows thus finds support.
 
 संश्रवा अस्यामिडायां पूर्ववद्दोषाभावौ पृच्छति-  **छिनत्तीति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "न᳓ छिनत्ती᳓ति" होवाच  
 "प्र᳓ तु᳓ जनयती᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -637,11 +696,14 @@ he who knows thus finds support.
 
 वृष्टेर् गवान्न-भूमीनाम् इव प्रतिग्राह्य-द्रव्यत्वाभावात् तुमिञ्जस्य प्रतिग्राह्यदोषाभावोक्तिं गुणान्तरोक्तिं च दर्शयति- "न छिनत्तीति।" वृष्टि-रूपेयम् इडा कम् अपि पुरुषं न च्छिनत्ति न दूषयति किंतु प्रकर्षेण सस्यादिकं जनयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "एष᳓ वा᳓ इ᳓डाम् उ᳓पाह्वथा" इ᳓ति होवाच ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -667,12 +729,15 @@ he who knows thus finds support.
 
 "एष वा इति।" एष वृष्टिरूपेडावादी त्वम् एव मुख्याम् इडाम् उपहूतवान् असि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्टिर् वा᳓ इ᳓डा।  
 वृ᳓ष्ट्यै वै᳓ निक्र᳓मणे घृत᳓म् प्रजा᳓स् सञ्जी᳓वन्तीᳶ पिबन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -704,6 +769,7 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 
 *इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-संहिता-भाष्ये प्रथम-काण्डे सप्तम-प्रपाठके द्वितीयो ऽनुवाकः॥२॥*
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -711,6 +777,8 @@ The Ida is rain; in the step of rain people drink the ghee they live upon;
 प्रै᳓व᳓ जायते,  
 अन्नादो᳓ भवति ॥ [10]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -735,4 +803,5 @@ he who knows thus is propagated with offspring; he becomes an eater of food.
 एवं वेदिता होता प्रकरणाद्वा यजमानः वृष्टिलाभेन प्रजावान् भवति अन्नस्य चात्ता ॥
 
 इति सप्तमे द्वितीयोनुवाकः ॥  
+</details>
 </details>

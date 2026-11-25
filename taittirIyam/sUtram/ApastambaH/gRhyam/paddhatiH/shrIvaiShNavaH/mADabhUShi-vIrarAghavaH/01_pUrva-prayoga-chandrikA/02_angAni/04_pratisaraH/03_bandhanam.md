@@ -23,9 +23,12 @@ title = "०३ बन्धनम्"
 दक्षिण-हस्तं **गृहीत्वा**
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/2/3/10_AyuShkAmeShTimantrAH/agnir_AyuShmAn.md">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
@@ -192,6 +195,8 @@ the gods are full of life; they are (full of life) through the ambrosia;
 पित᳓र आ᳓युष्मन्तस् ते᳓ स्वध᳓या᳓ऽऽयुष्मन्तस्, ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि । 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 the Pitrs are full of life; they are full of life through the Svadha-call with this life I make thee full of life.
@@ -226,6 +231,7 @@ the Pitrs are full of life; they are full of life through the Svadha-call with t
 
 इति द्वितीये तृतीये दशमोनुवाकः ॥
 </details>
+</details>
 </div>  
 
 ‘बृहत्सामे'ति **बद्ध्वा**
@@ -244,6 +250,8 @@ the Pitrs are full of life; they are full of life through the Svadha-call with t
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantrAdi/AyuShya-ghRta-sUktam__yo_brahmA">
 <details open><summary><h5>आयुष्य‌/घृत-सूक्तम् ...{Loading}...</h5></summary>
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 The modern taittirIyaka-s have a remarkable sUkta known as the AyuShya-sUkta. It is somewhat metrically irregular and has pseudo-accents. It is probably the first extant H text to call on a group of goddesses reminiscent of the mAtR^i-s of later tAntrika tradition. 
@@ -254,84 +262,198 @@ This makes us suspect it was not originally a text of the yajus tradition at all
 
 One candidate is the AV AraNyaka which was at least partly known down to the time of shaMkarAcharya. He cites the abhichArika incantation that opens it (though memory of that continues among atharvan-s and is deployed while opening certain abhichArika rites).
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+video - [TW](/conversations/YT/shAnkaras/2026-04-25_shankara_on_viShNu_Aditya) ।
+</details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(मृगशिरसि यथा दृश्यते)+++  
-यो ब्रह्मा **ब्रह्मण उज्जहार**  
-प्राणैः **शिरः** कृत्ति-वासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
+यो +++(बृंहणाद्)+++ ब्रह्मा +++(रुद्रः)+++ **ब्रह्मण +++(→प्राणैः/ शिरः)+++ उज्जहार**  
+प्राणैः +++(→विष्णुना इण्वका-बाणेन)+++ +++(मृग-)+++**शिरः** कृत्ति-वासाः+++(→orion-रूपेण)+++ पिनाकी +++(आर्द्रा-स्थः)+++।  
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
-+++(मृगशिरसि यथा दृश्यते)+++  
 यो ब्रह्मा **ब्रह्मण उज्जहार**  
-प्राणैः **शिरः** कृत्तिवासाः पिनाकी +++(आर्द्रा-स्थः)+++।  
+(प्राणैः **शिरः**)(/प्राणेश्वरः) कृत्तिवासाः पिनाकी।  
 ईशानो देवः स न आयुर् **दधातु**  
 तस्मै **जुहोमि** हविषा घृतेन ॥ १ ॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+
+![](../../../../../../../../../baudhAyanaH/gRhyam/mantrAdi/images/ArdrA_mRga-shiraH_iNvakAH_kRttikAH.jpg)
+{caption="" class="thumbnail"}
+
+प्राणेश्वर इति पाठस्यापेक्षया प्राणैः **शिरः** इति पाठ एव वरः - खगोलार्थ-संवादात्, पुराण-संवादात्, उज्जहार-शब्दस्य +ऋज्वर्थात्।  
+
+प्राणैः **शिरः** इति पाठः प्राचीन इति 
+
+- Source: [TW](https://archive.org/details/sri_kanaka_sabapathiya_bodhayana_poorva_prayoga_-_s_subramanya_sastry/mode/2up)
+- Descriptive Catalogue of Sanskrit Manuscripts in Madras Vol 07 _No. 3552. आयुष्यसूक्तप्रयोगः - [TW](https://jainqq.org/explore/020192/113)
+
+प्राणेश्वर इति पाठस् तु बहुत्र लभ्यते, प्राचीनलेखकैः सुदर्शनसूरि-निभैर् उल्लिखितः। 
+</details>
+
+<details><summary>वेङ्कटार्यः - सिद्धान्त-रत्नावल्याम्</summary>
+
+तथा यो ब्रह्मेति चतुर्मुखो ऽभिधीयते स्वारस्यात् ।
+
+> यो ब्रह्मा स न आयुर् दधातु, तस्मै जुहोमि हविषा घृतेन
+
+इत्य् अन्वयः ।
+
+"प्राणेश्वरः कृत्तिवासाः पिनाकी" "ईशानो देवः" ब्रह्मणश् चतुर्मुखाद् उज्जहार - उद्बभूव ।  
+धातूनाम् अनेकार्थत्वात्  
+कर्मानुक्तेश् च  
+अयम् ईशानश् चतुर्मुखाद् उज्जहार,  
+स ईशान आयुर् दधातु,  
+तस्मै जुहोमि हविषा घृतेनेत्य् अन्वयः । 
+
+"तनूर् वर्षिष्टे"तिवत्  
+यो ब्रह्मेत्य् अनन्तरम् एव  
+स न आयुर् दधात्व् इति वक्तव्ये ऽपि  
+उभयोर् अन्वय-विवक्षयेवोभयानन्तरं पाठः ।  
+तनूर् वर्षिष्टेतिवद् एव । 
+
+_________________
+अथवा 
+
+> यो ब्रह्मा चतुर्मुख+++(ः)+++ ब्रह्मणः परमात्मन उज्जहार  
+स न आयुर् दधातु ।  
+
+> यः प्राणेश्वरः कृत्तिवासाः पिनाकी ईशानो देवः  
+ब्रह्मण उज्जहार  
+स न आयुर् दधात्व् 
+
+इत्य् अर्थः ।  
+"यो ब्रह्मा ब्रह्मण उज्जहारे"त्य् अत्रापि  
+ब्रह्म-पदं परमात्म-परम् ।
+</details>
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
-रोचमानो घर्मरुचिर् य **आगात्** ।  
+रोचमानो घर्म-रुचिर् य **आगात्** ।  
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 +++(आर्द्रा-रूपेण)+++ **विभ्राजमानः** सरिरस्य+++(=सलिलस्य [आकाशगङ्गायाः])+++ मध्याद्  
-रोचमानो घर्मरुचिर् य **आगात्** ।  
+रोचमानो घर्म-रुचिर् य **आगात्** ।  
 स मृत्यु-पाशान् **अपनुद्य** घोरान्  
 इहायुषेणो घृतम् **अत्तु** देवः ॥ २ ॥
 </details>
 
+<details><summary>वेङ्कटार्यः</summary>
+
+विभ्राजमान इत्य्-आदिना  
+भगवान् अभिधीयते ।  
+विभ्राजमान इति नैसर्गिकं तेजो ऽभिधीयते ।  
+रोचमान इत्य् अवतार-दशायां तद्-अप्रच्युतिः,  
+सरिरस्य सलिलस्य समुद्रस्य मध्याद्  
+रोचमान एवागात् अवतीर्णः ।  
+दुष्कृद्-विनाशानार्थत्वाद् अवतारस्य  
+घर्मरुचिः अत्य्-उष्ण-दीधितिः। 
+</details>
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्म-ज्योतिर् ब्रह्म-पत्नीषु गर्भं  
+ब्रह्म-ज्योतिर् +++(→सुब्रह्मण्यं)+++ ब्रह्म-पत्नीषु गर्भं  
 यम् **आदधात्** पुरु-रूपं **जयन्तम्** ।  
-सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
++++(कृत्तिकास्थाग्नि-)+++सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
 तम् आयुषे **वर्धयामो** घृतेन ॥ ३ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
-ब्रह्म ज्योतिर् ब्रह्म-पत्नीषु गर्भं  
+ब्रह्म-ज्योतिर् ब्रह्म-पत्नीषु गर्भं  
 यम् **आदधात्** पुरु-रूपं जयन्तम् ।  
 सुवर्ण-रम्भ-ग्रहम् अर्कम् **अर्च्यं**  
 तमायुषे वर्धयामो घृतेन ॥ ३ ॥
-
 </details>
+
+<details><summary>वेङ्कटार्यः - सिद्धान्त-रत्नावल्याम्</summary>
+
+ब्रह्म-ज्योतिर् इत्य्-आदिना सुब्रह्मण्यो ऽभिधीयते ।  
+ब्रह्म-ज्योतिश् चतुर्मुख-पुत्रो रुद्रः ब्रह्म-पत्नीषु ।  
+अति-सुतत्वेन ब्राह्मणस्य पत्नीषु कृष्तिकासु यं गर्भमधात्  
+बहुरूपम् अत्र सङ्ख्यानुरोधाय  
+मुखतो बहुरूपं जयन्तं सुब्रह्मण्यम्  
+असुरविजयाय देवसेनापति-पदाभिषेकात् जयशीलम्।   
+"वैजयन्तः सिद्धसेन" इति वैजयन्ती,  
+किंचिद्-विकारे ऽपि न दोषः ।
+</details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रियं लक्ष्मीम् औबलाम् अम्बिकां गां  
-षष्ठीं च याम् इन्द्र-सेनेत्य् **उदाहुः** ।  
-तां विद्यां ब्रह्म-योनिँ सरूपाम्  
++++(विष्णु-पत्नीं)+++ श्रियं लक्ष्मीम्, +++(रुद्र-पत्नीं)+++ औपलाम्+++(=शैल-सम्बन्धिनीम् ←उपल शिला)+++ अम्बिकां, +++(ब्रह्म-पत्नीं)+++ गां,  
++++(स्कन्द-पत्नीं)+++ षष्ठीं च याम् इन्द्र-सेनेत्य् **उदाहुः** ।  
+तां +++(ब्रह्म-पत्नीं)+++ विद्यां ब्रह्म-योनिँ सरूपाम्  
 इहायुषे **तर्पयामो** घृतेन ॥ ४ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
-श्रियं लक्ष्मी-मौबला-मम्बिकां गां षष्ठीं च यामिन्द्रसेनेत्युदाहुः ।  
+श्रियं लक्ष्मीमौब(प)लामम्बिकां गां षष्ठीं च यामिन्द्रसेनेत्युदाहुः ।  
 तां विद्यां ब्रह्मयोनिँ सरूपामिहायुषे तर्पयामो घृतेन ॥ ४ ॥
 </details>
 
+<details><summary>वेङ्कटार्यः - सिद्धान्त-रत्नावल्याम्</summary>
+
+अतः चतुर्णां देवानाम् अभिधानात्  
+तेषां पत्नीनामभिधानं युक्तम् ।  
+श्रियं लक्ष्मीम् इहायुषे वर्धयामो घृतेन ।  
+औपलाम् अम्बिकाम् इहायुषे वर्धयामो घृतेन  
+गाम् इहायुषे वर्धयामो घृतेन ।  
+षष्ठीं च याम् इन्द्रसेनेत्य् उदाहुः  
+तामिहायुषे वर्धयामो घृतेन ।  
+ब्रह्मयोनिं विद्यात् - निरुक्त-देवता-प्रतिपादक- वेदाधिदेवतां इहायुषे वर्धयामो घृतेनेत्यन्वयः ।  
+</details>
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दाक्षायण्यः सर्व-योन्यः स-योन्यः  
++++(प्रजापति-जनिताः)+++ दाक्षायण्यः +++(→नक्षत्राणि→ ताराः)+++ सर्व-योन्यः स-योन्यः  
 सहस्रशो विश्वरूपा विरूपाः ।  
 स-सूनवः स-पतयः स-यूथ्या  
 आयुषेणो घृतम् इदं **जुषन्ताम्** ॥ ५ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 दाक्षायण्यः सर्वयोन्यः सयोन्यः सहस्रशो विश्वरूपा विरूपाः ।  
 ससूनवः सपतयः सयूथ्या आयुषेणो घृतमिदं जुषन्ताम् ॥ ५ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,25 +464,45 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 **मा** नः प्रजाँ **रीरिषो** मोत वीरान् ॥ ६ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> **मा** नः प्रजाँ **रीरिषो** मोत वीरान् ॥
+
+इति नक्षत्रसूक्तय् आर्द्रास्थ-रुद्रं स्मारयति । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिव्या गणा बहुरूपाः पुराणा आयुश्छिदो नः प्रमथ्नन्तु वीरान् ।  
 तेभ्यो जुहोमि बहुधा घृतेन मा नः प्रजाँ रीरिषो मोत वीरान् ॥ ६ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकः पुरस्तात् य इदं **बभूव**  
 यतो **बभूव** भुवनस्य गोपाः ।  
-यम् अप्य् **एति** भुवनँ साम्पराये  
+यम् अप्य् **एति** भुवनँ **साम्पराये**  
 स नो हविर् घृतम् इहायुषे **ऽत्तु** देवः ॥ ७ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 एकः पुरस्तात् य इदं बभूव यतो बभूव भुवनस्य गोपाः ।  
 यमप्येति भुवनँ सा॑म्पराये स नो हविर्घृत-मिहायुषे॑त्तु देवः ॥ ७ ॥
 </details>
+
+<details><summary>वेङ्कटार्यः - सिद्धान्त-रत्नावल्याम्</summary>
+
+एकः पुरस्तादिति पुनर् भगवन्तम् आह ।  
+अत एवोत्तर-तापनीये एकः पुरस्ताद् इत्यारभ्य साम्पराय इत्यन्त-नृसिंहपरत्वेन पठितमित्याहुः । 
+</details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -370,6 +512,8 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 घृतँ **हुत्वा** स्वायुष्या **महयाम** शश्वत् ॥ ८ ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वसून् रुद्रा-नादित्यान् मरुतोऽथ साध्यान् ऋभून् यक्षान् गन्धर्वाग्श्च  
@@ -378,8 +522,15 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 शश्वत् ॥ ८ ॥
 
 </details>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
+</details>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+विष्णो॒ त्वन् नो॒ अन्त॑म॒श्+++(=अन्तिकतमः)+++  
+शर्म॑ **यच्छ**, +++(हे)+++ सहन्त्य ।   
+प्र ते॒ +++(श्रवणर्क्षस्थस्य, आकाश-गङ्गा→)+++ धारा॑ मधु॒श्-चुत॒  
+उत्स॑न् **दुह्रते॒** अक्षि॑तम्॥
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
 <details><summary>मूलम्</summary>
 
 विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
@@ -388,24 +539,12 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः** अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥
+मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः**+++(←अन्तमः??)+++ अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/35_viShNo_tvan.md">
-<details open><summary><h9>सर्वाष् टीकाः ...{Loading}...</h9></summary>
-<details><summary>मूलम्</summary>
+<details><summary>सर्वाष् टीकाः</summary>
 
-विष्णो॒ त्वन्नो॒ अन्त॑म॒श्शर्म॑ यच्छ सहन्त्य ।   
-प्र ते॒ धारा॑ मधु॒श्चुत॒ उत्स॑न्दुह्रते॒ अक्षि॑तम्॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-मन्त्रार्थस्तु - हे **विष्णो** यज्ञात्मन् सोम **त्वं नः** अस्माकं **अन्तिमः** अन्तिकतमः प्रत्यासन्नतमः । 'तमेतादेश्च' इति कलोपः । सः त्वमस्मभ्यं **शर्म** सुखं **यच्छ** देहि । हे **सहन्त्य** परेषामभिभवितः महाप्रभाव । सहतेरौणादिको झच् । सहन्ताः सोढारः, ततस्स्वार्थिको यः । सहन्त्य ते तव धाराः रसप्रवाहाः मधुश्चुतः मधुरं रसं क्षरन्त्यः **उत्सं** कूपभूतं **अक्षितं** अनुपक्षीणं सोमरसं प्रदुह्रते प्रकर्षेण दुहताम् । तेन यच्छुष्यति तदाप्यायितं भवति । दुहेश्छान्दसे लेटि 'बहुलं छन्दसि' इति रुडागमः ॥
-</details>
-</details>
-</div>
 <details><summary>मूलम् (संशयास्पद-स्वर-सहितम्)</summary>
 
 यो ब्रह्मा ब्रह्मण उ॑ज्जहा॒र प्रा॒णैः शि॒रः कृत्तिवासाः॑ पिना॒की ।  
@@ -439,6 +578,7 @@ One candidate is the AV AraNyaka which was at least partly known down to the tim
   
 ॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥  
 
+</details>
 </details>
 </details>
 </div>  

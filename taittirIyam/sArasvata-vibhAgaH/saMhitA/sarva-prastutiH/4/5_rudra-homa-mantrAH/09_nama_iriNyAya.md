@@ -2,6 +2,8 @@
 title = "०८ नम॑ इरि॒ण्या॑य"
 +++
 अग्निर्ऋषिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ इरि॒ण्या॑य च प्रप॒थ्या॑य च॒ नम॑ᳵ किँशि॒लाय॑ च॒ क्षय॑णाय च॒ नम॑ᳵ कप॒र्दिने॑ च पुल॒स्तये॑ च॒ नमो॒ गोष्ठ्या॑य च॒ गृह्या॑य च॒ नम॒स्तल्प्या॑य च॒ गेह्या॑य च॒ नम॑ᳵ का॒ट्या॑य च गह्वरे॒ष्ठाय॑ च॒ नमो॑ ह्रद॒य्या॑य च निवे॒ष्प्या॑य च॒ नमᳶ॑ पाँस॒व्या॑य च रज॒स्या॑य च॒ नम॒श्शुष्क्या॑य च हरि॒त्या॑य च॒ नमो॒ लोप्या॑य चोल॒प्या॑य च [19]  नम॑ ऊ॒र्व्या॑य च सू॒र्म्या॑य च॒ नमᳶ॑ प॒र्ण्या॑य च पर्णश॒द्या॑य च॒ नमो॑ऽपगु॒रमा॑णाय चाभिघ्न॒ते च॒ नम॑ आक्खिद॒ते च॑ प्रक्खिद॒ते च॒ नमो॑ वᳵ किरि॒केभ्यो॑ दे॒वानाँ॒ हृद॑येभ्यो॒ नमो॑ विक्षीण॒केभ्यो॒ नमो॑ विचिन्व॒त्केभ्यो॒ नम॑ आनिर्ह॒तेभ्यो॒ नम॑ आमीव॒त्केभ्यः॑ ॥ [20]  
@@ -11,11 +13,14 @@ title = "०८ नम॑ इरि॒ण्या॑य"
 
 नम॑ इरि॒ण्या॑य च प्रप॒थ्या॑य च  ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म इरिण्या᳙य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ Homage to him in the cleft,
 अष्टमानुवाके यान्यन्यतरतोनमस्काराणि यजूंष्युक्तानि तेभ्योऽप्यन्यानिकानिचिन्नवमेऽनुवाक उच्यन्ते।    तत्र विद्यमानान्येकोनाविंशतिसंख्याकानि यजूंष्याह— नम इरिण्याय इति।  
 इरिणमूषरं तत्र भव इरिण्यः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपथ्या᳙य च +++(नमः)+++॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,16 +71,22 @@ and to him in the distance.
 
 प्रपथो बहुभिः सेवितो मार्गस्तत्र भवः प्रपथ्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ᳵ किँशि॒लाय॑ च॒ क्षय॑णाय च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ किँशिला᳓य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -93,11 +107,14 @@ Homage to him dwelling in the stony,
 
 कुत्सिताः क्षुद्राः शिला यत्र प्रदेशे तादृशः शार्वरिस्तः प्रदेशः किंशिलः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्ष᳓यणाय च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -118,16 +135,22 @@ and to him in habitable places.
 
 क्षयणो निवासयोग्यो देशः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ᳵ कप॒र्दिने॑ च पुल॒स्तये॑ च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ कपर्दि᳓ने च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +171,14 @@ Homage to him of braided hair,
 
 कपर्दी जटाबन्धवान्।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलस्त᳓ये च  +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,16 +199,22 @@ and to him of plain hair.
 
 भक्तानां पुरतस्तिष्ठतीति पुलास्तिः
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॒  गोष्ठ्या॑य च॒ गृह्या॑य च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  गो᳓ष्ठ्याय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,11 +235,14 @@ Homage to him who dwelleth in the cowshed,
 
 गवां स्थानं गोष्ठं तत्र भवो गोष्ठ्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृ᳓ह्याय च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,16 +263,22 @@ and to him of the house.
 
 गृहे भवो गृह्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्तल्प्या॑य च॒ गेह्या॑य च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्त᳓ल्प्याय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,11 +299,14 @@ Homage to him of the bed,
 
 तल्पे खट्वायां शयानस्तल्प्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गे᳓ह्याय च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,16 +327,22 @@ and to him of the dwelling.
 
 गेहे प्रासादे भवो गेह्यः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ᳵ का॒ट्या॑य च गह्वरे॒ष्ठाय॑ च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ काट्या᳙य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,11 +363,14 @@ Homage to him of the hole,
 
 कुत्सितमटति कण्टकलतादिपूर्णतया दुष्प्रदेशत्वं प्राप्नोतीति दुर्गमोऽरण्यविशेषः काटस्तत्र भवः काट्यः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गह्वरेष्ठा᳓य च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -338,16 +391,22 @@ and to him of the abyss.
 
 गह्वरे विषमे गिरिगुहादौ तिष्ठतीति गह्वरेष्ठः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ ह्रद॒य्या॑य च निवे॒ष्प्या॑य च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो ह्रदय्या᳙य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -369,11 +428,14 @@ Homage to him of the lake,
 हृदेष्वगाधजलेषु भवो हृदय्यः।  
 गह्वरे विषमे गिरिगुहादौ तिष्ठतीति गह्वरेष्ठः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेष्प्या᳙य च +++(नमः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,16 +457,22 @@ and to him of the whirlpool.
 हृदेष्वगाधजलेषु भवो हृदय्यः।  
 निवेष्पं नीहारजलं तत्र भवो निवेष्प्यः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमᳶ॑ पाँस॒व्या॑य च रज॒स्या॑य च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳶ पाँसव्या᳙य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -425,11 +493,14 @@ Homage to him of the dust,
 
 पांसुषुपरमाणुष्ववस्थितः पांसव्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजस्या᳙य च  +++(नमः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,16 +521,22 @@ and to him of the mist.
 
 रजसि विस्पष्टायां धूल्यामवस्थितो रजस्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒श्शुष्क्या॑य च हरि॒त्या॑य च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मश्शु᳓ष्क्याय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,11 +557,14 @@ Homage to him of the dry,
 
 शुष्केषु काष्ठेषु भवः शुष्क्यः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरित्या᳙य च +++(नमः)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -505,16 +585,22 @@ and to him of the green.
 
 हरितमार्द्रं तत्र भवो हरित्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॒  लोप्या॑य चोल॒प्या॑य च  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  लो᳓प्याय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,11 +621,14 @@ Homage to him of the copse,
 
 लुप्यते तृणादिकमस्मिन्नति लोपः कठिणप्रदेशस्तत्र भवो लोप्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उलप्या᳙य च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,16 +649,22 @@ and to him of the grass.
 
 उलपा बल्वजतृणादयस्तत्र भव उलप्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ ऊ॒र्व्या॑य च सू॒र्म्या॑य च
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म ऊर्व्या᳙य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,11 +685,14 @@ Homage to him in the earth,
 
 ऊर्व्यां पृथिव्यां भव ऊर्व्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्म्या᳙य च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,16 +713,22 @@ and to him in the gully.
 
 शोभना ऊर्मयो यस्यां नद्यां सेयं सूर्मिस्तत्र भवः सूर्म्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमᳶ॑ प॒र्ण्या॑य च पर्णश॒द्या॑य च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳶ पर्ण्या᳙य च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -645,11 +749,14 @@ Homage to him of the leaf,
 
 पर्णेषु पत्रेषु भवः पर्ण्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्णशद्या᳙य च  +++(नमः)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -671,16 +778,22 @@ and to him of the leaf-fall.
 शुष्काणां पर्णानां  
 २१३३ संघातः पर्णशदस्तत्र भवः पर्णशद्यः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ऽपगु॒रमा॑णाय चाभिघ्न॒ते च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मोऽपगुर᳓माणाय च।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -701,11 +814,14 @@ Homage to him who growleth,
 
 अपगुरमाण उद्यतायुधः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिघ्नते᳓ च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -726,16 +842,22 @@ and to him who smiteth away.
 
 अभिध्नन्प्रहरन्।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ आक्खिद॒ते च॑ प्रक्खिद॒ते च  ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आक्खिदते᳓ च  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -756,11 +878,14 @@ Homage to him who draggeth,
 
 आक्खिदन्नीषत्खेदयन्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रक्खिदते᳓ च  +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -781,11 +906,14 @@ and to him who repelleth.
 
 प्रक्खिदन्नत्यन्तं खेदयन्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳵ किरिके᳓भ्यो देवा᳓नाँ हृ᳓दयेभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -806,11 +934,14 @@ Homage to you, sparkling hearts of the gods.
 
 किरन्ति भक्तेभ्यो धनानिति किरिका उदारा रुद्रावताराः ते च देवानां हृदयभूताः सर्वदेवप्रिय त्वात्तादृशेभ्यो वो युष्मभ्यं नमः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो विक्षीणके᳓भ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,11 +962,14 @@ Homage to the destroyed.
 
 क्षीणकेभ्यो विपरीता विक्षीणिकाः कदाचिदपि क्षयरहिता इत्यर्थः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो विचिन्वत्के᳓भ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -856,11 +990,14 @@ Homage to the intelligent.
 
 विचिन्वन्त्वपेक्षितमर्थं संपादयन्तीति विचिन्वत्काः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आनिर्हते᳓भ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -881,11 +1018,14 @@ Homage to the unconquerable.
 
 आसमन्तान्निःशेषेण हतं पापं यैस्त आनिर्हताः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आमीवत्के᳓भ्यः ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -915,6 +1055,7 @@ Homage to the destroyers.
 तत्र तस्य पुरश्चरणादिप्रकारस्तु रुद्रकल्पेऽभिधास्यते॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे पञ्चमप्रपाठके नवमोऽनुवाकः ॥ ९॥
+</details>
 </details>
 
 चतुर्थाष्टके पञ्चमप्रपाठके दशमोऽनुवाकः

@@ -2,6 +2,8 @@
 title = "०७ चातुर्मास्येषु शुनासीर्यपर्व"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - शुनासीरीयहवींषि १, इन्द्रतुरीयहवींषि २, पञ्चध्मीयहोमेे मन्त्राः ३-१३ , तत्र दक्षिणाविधिः१४, अपामार्गसक्तुहोमे मन्त्राः १५-१७, तत्र दक्षिणाविधिः १८  
@@ -14,11 +16,14 @@ title = "०७ चातुर्मास्येषु शुनासीर
 
 1अथ शुनासीरीयं हविर्विदधाति - ऐन्द्राग्नं द्वादशकपालमिति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्राग्न᳓न् द्वा᳓दशकपालव्ँ, वैश्वदेव᳓ञ् चरु᳓म् …   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,11 +49,14 @@ title = "०७ चातुर्मास्येषु शुनासीर
 
 तानि पञ्च हवींषि पञ्चसञ्चरव्यतिरिक्तानि, तेन दश हवींषीति केचित् । अन्ये तु 'एतद्ब्राह्मणान्येव पञ्च हवींषि' इत्युक्त्वा 'अथेन्द्राय शुनसीराय' इति त्रयाणामनुब्राह्मणे विधानादष्टावित्याहुः । तदानीमैन्द्राग्नवैश्वदेवयोर्विकल्पार्थमाम्नानम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय शुनासी᳓राय पुरोडा᳓शन् द्वा᳓दशकपालम्  +++(निर्वपति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,12 +77,15 @@ a cake on twelve potsherds to Indra Śunasira,
 
 शुनो वायुः, सीर आदित्यः, ' तद्वानिन्द्र इहोच्यते, अभेदात्मत्वात् । मत्वर्थीयो वा लुप्यते । 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायव्य᳙म् प᳓यस्, सौर्य᳓म् ए᳓ककपालम्   +++(निर्वपति)+++   
 द्वादशगवँ᳓ सी᳓रन्+++(=हलम्)+++ द᳓क्षिणा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,17 +109,23 @@ the sacrificial fee is a plough for twelve oxen.
 वायव्यम् । 'वाय्वृतुपित्रुषसो यत्' इति यत् । एवं सर्वे एककपालानां यागाः । द्वादशगवं द्वादश गावस्समाहृताः, तद्युक्तं सीरं लाङ्गलं च दक्षिणा । 'गोरतद्धितलुकि' इति अच् । राजसूयान्तर्भाविताश्चातुर्मास्ययागास्समाप्ताः
 ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एवं संवत्सरमिष्ट्वा,  
 तदन्ते आगामिन्यां पौर्णमास्याम् इन्द्रतुरीयेण चतुर्हविषा यजेत, तं विदधाति - आग्नेयमष्टाकपालं निर्वपतीत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेय᳓म् अष्टा᳓कपालन् नि᳓र्वपति  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -124,11 +141,14 @@ To Agni he offers on eight potsherds,
 
 आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रौद्र᳓ङ् गावीधुक᳓ञ्+++(=तृण-तण्डुलं)+++ चरु᳓म्  +++(निर्वपति)+++   ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +169,14 @@ to Rudra an oblation of Gavidhuka,
 
 **गावीधुको** रौद्रश् चरुर्द्वितीयः । **गवीधुकाः** तृण-तण्डुलाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓न् द᳓धि  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,12 +197,15 @@ to Indra curds,
 
 ऐन्द्रं दधि तृतीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणय्ँ᳓ यवम᳓यञ् चरु᳓म्   +++(निर्वपति)+++   ।  
 वहि᳓नी धेनु᳓र् द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,6 +229,9 @@ the sacrificial fee is a cow for draught purposes.
 वारुणो यवमयश्चरुश्चतुर्थः । 'द्व्यचश्छन्दसि' इति मयट् । तत्र वहिनी धेनुर्दक्षिणा । गतम् ।    
 'देवासुरास्संयत्ता आसन् । ते देवा अग्निमब्रुवन् । त्वया वीरेणासुरानभिभवामेति । सोब्रवीत् । त्रेधाहमात्मानम्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -214,9 +243,9 @@ the sacrificial fee is a cow for draught purposes.
 आज्येनैतान् व्याघारयतीति केचित् - ये देवाः पुरस्सद इत्यादिभिः ॥
 तत्र ये देवा इति पदद्वयं रक्षोहण इत्यादि च पूर्वत्र परत्र च पञ्चस्वप्य् अनुषज्यते ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/ye_devAH_purassadaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ देवाᳶ᳓ पुरस्-स᳓दोऽग्नि᳓-नेत्राः [रक्षो-ह᳓णस्,  
@@ -225,6 +254,8 @@ the sacrificial fee is a cow for draught purposes.
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,6 +283,7 @@ The gods that sit in the east, led by Agni;
 अग्निनेत्राः अग्निप्रधानाः । 'छन्दसि नेतुरुपसङ्ख्यानम्' इत्यप्रत्ययः, 'ऋतश्छन्दसि' इति कबभावः ।    
 रक्षोहणः रक्षसां हन्तारः, ते नो ऽस्मान्पान्तु, ते नोस्मानवन्तु प्रीणयन्तु, तेभ्यो नमः नमस्कुर्मः, तेभ्यस्स्वाहा स्वाहुतमस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -261,6 +293,8 @@ The gods that sit in the east, led by Agni;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,6 +315,7 @@ that sit in the south, led by Yama;
 
 एवं ये देवाः दक्षिणसदः यमनेत्रा रक्षोहणः ते नः पान्तु ते नोवन्त्वित्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -290,6 +325,8 @@ that sit in the south, led by Yama;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,6 +347,7 @@ that sit in the west, led by Savitr;
 
 तथा ये देवाः पश्चात्सदः सवितृनेत्राः रक्षोहण इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -319,6 +357,8 @@ that sit in the west, led by Savitr;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -339,6 +379,7 @@ that sit in the north, led by Varuna;
 
 ये देवा उत्तरसदो वरुणनेत्राः रक्षोहण इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -348,6 +389,8 @@ that sit in the north, led by Varuna;
 ते᳓भ्यो न᳓मस्,  
 ते᳓भ्यस् स्वा᳓हा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,13 +413,16 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 
 रक्षोहण इत्यादि । वनस्पत्यादित्वात् बृहस्पतिशब्दे पूर्वोत्तरयोः पदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उदवेषेण सर्वान् आहवनीयाङ्गारान्  
 मध्ये एकयोपसमूहति - समूढमिति ॥  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +430,8 @@ that sit above, led by Brhaspati; that slay the Raksases; may they protect us, m
 स᳓मूढँ र᳓क्षः ।  
 स᳓न्दग्धँ र᳓क्षः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,11 +458,14 @@ The Raksases are collected, the Raksases are burnt up;
 
 समूढमेकीकृत्य नाशितमस्तु रक्षः अनेनाङ्गारसमूहेन, तथा सन्दग्धं एकीकृत्य दग्धमस्तु । उभयत्रापि पूर्वपदप्रकृतिस्वरत्वं 'गतिरनन्तरः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓म् अहँ᳓ र᳓क्षोऽभि᳓ स᳓न्दहामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,19 +486,24 @@ here do I burn up the Raksases.
 
 तस्मादहं रक्षः इदमहमाभिसन्दहामि आभिमुख्येन चैकीकृत्य चानेन दहामि । इदमिति क्रियाविशेषणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9-13अपरं पञ्चगृहीतं गृहीत्वा पञ्च स्रुवाहुतीरभिजुहोति - अग्नये रक्षोघ्ने स्वाहेति ॥ यमादिष्वपि चतुर्ष्वनुषज्यते । 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/07_chAturmAsyeShu_shunAsIryaparva/agnaye_raxoghne_5.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये रक्षोघ्ने᳓ स्वा᳓हा   ।  
 यमा᳓य  [रक्षोघ्ने᳓ स्वा᳓हा] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,10 +520,14 @@ To Agni, slayer of Raksases, hail!  To Yama,
 
 अ॒ग्नये॑ । र॒क्षो॒घ्न इति॑ रक्षः-घ्ने । स्वाहा॑ । य॒माय॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नये॑ रक्षो॒घ्ने स्वाहा॑ य॒माय॑ सवि॒त्रे वरु॑णाय॒ बृह॒स्पत॑ये॒ दुव॑स्वते रक्षो॒घ्ने स्वाहा॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -477,6 +537,8 @@ To Agni, slayer of Raksases, hail!  To Yama,
 बृ᳓हस्प᳓तये  [रक्षोघ्ने᳓ स्वा᳓हा] ।     
 दु᳓वस्वते रक्षोघ्ने᳓ स्वा᳓हा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -503,13 +565,15 @@ Savitr, Varuna, Brhaspati, the worshipful, the slayer of Raksases, hail!
 रक्षोघ्ने रक्षसां हन्त्रे । उदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 सवित्रे इति 'उदात्तयणः' इति विभक्त्य्-उदात्तत्वम् । बृहस्पतिरुक्तस्वरः ॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रष्टि+++(=त्र्यश्व)+++-वाही᳓ र᳓थो द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -542,20 +606,25 @@ The sacrificial fee is a chariot with three horses.
 यो रक्षोभ्यो बिभीयात् पिशाचेभ्यो वा  
 सो ऽनेन यजेतेत्य् अयज्ञसंयुक्तं केचिदाहुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथ व्युष्टायां पुनर[पुरा]ग्निहोत्रात् अपामार्गसक्तून् जुहोति - देवस्येति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,13 +657,15 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‌… र᳓क्षसो वध᳓ञ् जुहोमि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,16 +686,22 @@ I offer (for) the death of the Raksases;
 
 व्याख्यातम् । रक्षसो वधं वधहेतूनिमान् जुहोमीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15स्रुवं प्रहरति - हतं रक्ष इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतँ᳓ र᳓क्षः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -640,16 +717,22 @@ the Raksases are slain
 
 ह॒तम् । रक्षः॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16उत्तिष्ठति - अवधिष्म रक्ष इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वधिष्म र᳓क्षः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -670,11 +753,14 @@ we have killed the Raksases.
 
 हतवन्तो वयं रक्षः, तत्किमिदानीमास्म इत्युत्तिष्ठति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् व᳓स्ते+++(=परिधत्ते)+++ त᳓द् द᳓क्षिणा ॥ [13]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -696,4 +782,5 @@ The sacrificial fee is what he wears.
 17अत्र राजा **यद् वस्ते** परिधत्ते तद् दक्षिणा अध्वर्यवे वस्त्रं देयम् ॥
 
 इत्यष्टमे सप्तमोनुवाकः ॥  
+</details>
 </details>

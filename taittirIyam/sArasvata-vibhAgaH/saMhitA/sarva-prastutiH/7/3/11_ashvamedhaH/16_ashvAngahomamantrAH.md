@@ -2,6 +2,8 @@
 title = "१६ अश्वाङ्गहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द॒द्भ्यस्स्वाहा॒ हनू॑भ्याँ॒ स्वाहोष्ठा॑भ्याँ॒ स्वाहा॒ मुखा॑य॒ स्वाहा॒ नासि॑काभ्याँ॒ स्वाहा॒ऽक्षीभ्याँ॒ स्वाहा॒ कर्णा॑भ्याँ॒ स्वाहा॑ पा॒र इ॒क्षवो॑ऽवा॒र्ये॑भ्य॒ᳶ पक्ष्म॑भ्य॒स्स्वाहा॑ऽवा॒र इ॒क्षवᳶ॑ पा॒र्ये॑भ्य॒ᳶ पक्ष्म॑भ्य॒स्स्वाहा॑ शी॒र्ष्णे स्वाहा॑ भ्रू॒भ्याँ स्वाहा॑ ल॒लाटा॑य॒ स्वाहा॑ मू॒र्ध्ने स्वाहा॑ म॒स्तिष्का॑य॒ स्वाहा॒ केशे॑भ्य॒स्स्वाहा॒ वहा॑य॒ स्वाहा॑ ग्री॒वाभ्य॒स्स्वाहा॑ स्क॒न्धेभ्य॒स्स्वाहा॒ कीक॑साभ्य॒स्स्वाहा॑ पृ॒ष्टीभ्य॒स्स्वाहा॑ पाज॒स्या॑य॒ स्वाहा॑ पा॒र्श्वाभ्याँ॒ स्वाहा॑ [37]  
@@ -12,11 +14,14 @@ title = "१६ अश्वाङ्गहोममन्त्राः"
 
 1अथाश्वस्याङ्गानि जुहोति - दद्भ्यः स्वाहेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दद्भ्य᳓स्+++(=दशनेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ To the teeth hail!
 
 'पद्दन्' इत्यादिना दद्भावः, 'ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓नूभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ To the jaws hail!
 
 हनूभ्यां, स्वाङ्गदीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓ष्ठाभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -82,11 +93,14 @@ To the lips hail!
 
 ओष्ठा॑भ्याम् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मु᳓खाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +116,14 @@ To the mouth hail!
 
 मुखा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓सिकाभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,11 +139,14 @@ To the nostrils hail!
 
 नासि॑काभ्याम् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षी᳓भ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,11 +167,14 @@ To the eyes hail!
 
 अक्षीभ्याम् । 'ईध द्विवचने' इतीकारः स चोदात्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓र्णाभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ To the ears hail!
 
 कर्णा॑भ्याम् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार᳓ इक्ष᳓वो+++(=अक्षिरोमाणि ये)+++ ऽवार्ये᳙भ्यᳶ+++(→अधराक्षिपुटस्थेभ्यः)+++ प᳓क्ष्म+++(रोमे)+++भ्यस् +++(तेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +218,14 @@ The eyelashes above the lower eyelashes-(to them) hail!
 
 पार इक्षव इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवार᳓ इक्ष᳓वᳶ पार्ये᳙भ्यᳶ+++(→उत्तराक्षिपुटस्थेभ्यः)+++ प᳓क्ष्मभ्यस् +++(तेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +246,14 @@ The eyelashes below the upper eyelashes-(to them) hail!,
 
 इक्षवः अक्षिरोमाणि पारे अक्ष्युपरिपुटे ये इक्षवः ते अवार्येऽभ्यः अधराक्षिपुटस्थेभ्यः पक्ष्मरोमभ्यः प्रवर्तन्ते तदर्थं तानि वा अपेक्ष्येत्यर्थ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीर्ष्णे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,11 +274,14 @@ To the head hail!
 
 तेभ्यः स्वाहेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रूभ्याँ᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -273,11 +308,14 @@ To the brows hail!
 
 उक्तं विभक्त्युदात्तत्वं 'सावेकाचः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लला᳓टाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +331,14 @@ To the forehead hail!
 
 ल॒लाटा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूर्ध्ने᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,11 +361,14 @@ To the (upper part of the) head hail!
 
 पूर्ववदुदात्तनिवृत्तिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मस्ति᳓ष्काय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,11 +389,14 @@ To the brain hail!
 
 मस्तिष्काय शिरोमांसाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 के᳓शेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,11 +412,14 @@ To the hairs hail!
 
 केशे॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓हाय+++(=वहनदेशाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,11 +440,14 @@ To the part that bears (the yoke) hail!
 
 वहाय वहनदेशाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रीवा᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,11 +468,14 @@ To the cervical vertebrae hail!
 
 ग्रीवाभ्यः धमनीभ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्कन्धे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,11 +491,14 @@ To the neck bones hail!
 
 स्क॒न्धेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 की᳓कसाभ्यस्+++(=vertebra)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -460,11 +519,14 @@ To the spinal column hail!
 
 कीकसाभ्यः ग्रीवाया आरम्य पृष्ठवंशास्थिगुळिकाभ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्टी᳓भ्यस्+++(=ribs)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -485,11 +547,14 @@ To the vertical column hail!
 
 पृष्टीभ्यः हस्तयोरुपरि पृष्ठवंशस्योभयतः स्थितानि अस्थीनि पृष्टयः । सांहितिकं दीर्घत्वं छान्दसम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाजस्या᳙य+++(=बलस्थाय [हृदयाय])+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,11 +575,14 @@ To the flank hail!
 
 पाजस्याय पाजो बलं तत्र भवाय हृदयाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पार्श्वा᳓भ्याँ स्वा᳓हा ।[37]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,11 +598,14 @@ To the sides hail! [1]
 
 पा॒र्श्वाभ्या॑म् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँ᳓साभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,11 +623,14 @@ To the shoulders hail!
 
 अँसा॑भ्याम् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोष᳓भ्याँ+++(=बाह्वोर् उत्तरार्धाभ्यां)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,11 +653,14 @@ To the upper forefeet hail!
 
 'पद्दन्' इत्यादिना दोषन्भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहु᳓भ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -599,11 +676,14 @@ To the lower forefeet hail!
 
 बा॒हुभ्या॒मिति॑ बा॒हु-भ्या॒म् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓ङ्घाभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -624,11 +704,14 @@ To the legs hail!
 
 जङ्घाभ्यां श्रोणीभ्यां छान्दसं संहितायां दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रो᳓णीभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -644,11 +727,14 @@ To the hips hail!
 
 श्रोणी॑भ्या॒मिति॒ श्रोणि॑-भ्या॒म् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊरु᳓भ्याँ  स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -664,11 +750,14 @@ To the thighs hail!
 
 ऊ॒रुभ्या॒मित्यू॒रु-भ्या॒म् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्ठीव᳓द्भ्याँ+++(=जानुभ्यां)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -684,11 +773,14 @@ To the knees hail!
 
 अ॒ष्ठी॒वद्भ्या॒मित्य॑ष्ठी॒वत्-भ्या॒म् । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓ङ्घाभ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -709,11 +801,14 @@ To the legs hail!
 
 जङ्घाभ्यामपराभ्याम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भस᳓दे+++(=गुदाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -734,11 +829,14 @@ To the buttocks hail!
 
 भसदे अपानप्रदेशाय । शिखण्डेम्यः चूडेभ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखण्डे᳓भ्यस्+++(=शिरश्चूडेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,11 +852,14 @@ To the mane hail!
 
 शि॒ख॒ण्डेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वालधा᳓नाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -779,11 +880,14 @@ To the tail hail!
 
 वालधानाय पुच्छाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आण्डा᳓भ्याँ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -804,11 +908,14 @@ To the testicles hail
 
 अण्डाभ्याम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शे᳓पाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -824,11 +931,14 @@ To the member hail!
 
 शेपा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रे᳓तसे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -844,11 +954,14 @@ To the seed hail!
 
 रेत॑से । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -864,11 +977,14 @@ To offspring hail!
 
 प्र॒जाभ्य॒ इति॑ प्र-जाभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓ननाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -889,11 +1005,14 @@ To begetting hail!
 
 प्रजननाय शफस्यैवैकदेशाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्भ्य᳓स् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -916,11 +1035,14 @@ To the feet hail!
 
 इति सप्तमे तृतीये षोडशोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शफे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -936,11 +1058,14 @@ To the hoofs hail!
 
 श॒फेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लो᳓मभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -956,11 +1081,14 @@ To the hairs (of the body) hail!
 
 लोम॑भ्य॒ इति॒ लोम॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वचे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -976,11 +1104,14 @@ To the skin hail!
 
 त्व॒चे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लो᳓हिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -996,11 +1127,14 @@ To the blood hail!
 
 लोहि॑ताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माँसा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1016,11 +1150,14 @@ To the flesh hail!
 
 माँ॒साय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्ना᳓वभ्यस्+++(=स्नायुभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1036,11 +1173,14 @@ To the sinews hail!
 
 स्नाव॑भ्य॒ इति॒ स्नाव॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्थ᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1056,11 +1196,14 @@ To the bones hail!
 
 अ॒स्थभ्य॒ इत्य॒स्थ-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मज्ज᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1076,11 +1219,14 @@ To the marrow hail!
 
 म॒ज्जभ्य॒ इति॑ म॒ज्ज-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गेभ्यस्स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1096,11 +1242,14 @@ To the limbs hail!
 
 अङ्गे॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓ने स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1116,11 +1265,14 @@ To the trunk hail!
 
 आ॒त्मने॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [38]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1135,4 +1287,5 @@ To all hail!
 <details><summary>पद-पाठः</summary>
 
 सर्व॑स्मै । स्वाहा॑ ॥
+</details>
 </details>

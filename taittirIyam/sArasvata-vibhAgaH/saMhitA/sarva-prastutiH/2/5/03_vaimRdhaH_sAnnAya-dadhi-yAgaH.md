@@ -2,24 +2,32 @@
 title = "०३ वैमुधः, सान्नाय-दधि-यागः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 पौर्णमासे अनुनिर्वाप्यो वैमृधपुरोडाशः, अमावास्यायां सान्नाय्यदधियागश्च
 
 प्रजापतिऋषिः ।
 </details>
+</details>
 
 ## वैमृधः  
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रव्ँ॑वृ॒त्रञ्ज॑घ्नि॒वाँस॒म्मृधो॒ऽभि प्रावे॑पन्त॒ स  ए॒तव्ँ वै॑मृ॒धम्पू॒णमा॑सेऽनुनिर्वा॒प्य॑मपश्य॒त्तन्निर॑वप॒त्तेन॒ वै स मृधोऽपा॑हत॒ यद्वै॑मृ॒धᳶ  पू॒र्णमा॑सेऽनुनिर्वा॒प्यो॑ भव॑ति॒ मृध॑ ए॒व तेन॒ यज॑मा॒नोऽप॑ हतः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रव्ँ वृत्र᳓ञ् जघ्निवाँ᳓सम् मृ᳓धो ऽभि᳓ प्रा᳓वेपन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +53,14 @@ When Indra had slain Vrtra, his enemies threatened him.
 
 तत्र प्रथमं तावत्पौर्णमास्याममुनिर्वाप्यं वैमृधं विधित्सुः प्रस्तौति-  **इन्द्रं वृत्रमिति।** अथ य इन्द्रो वृत्र हतवांस्तमिन्द्रं मृधो वृत्रपक्षपातिनो वैरिणोऽभितः समागत्य प्रकर्षेण भयमुत्पाद्याकम्पयन्त।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एतव्ँ᳓ वैमृध᳓म् पूर्ण᳓मासे ऽनुनिर्वाप्य᳙म् **अपश्यत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,12 +76,15 @@ He saw this enemy-dispelling (oblation) to be offered subsequently at the full m
 
 सः । ए॒तम् । वै॒मृ॒धम् । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒से॒ । अ॒नु॒नि॒र्वा॒प्य॑मित्य॑नु-नि॒र्वा॒प्य॑म् । अ॒प॒श्य॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् **नि᳓रवपत्**   
 तेन वै᳓ स᳓ मृ᳓धो᳓ **ऽपाहत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,6 +113,7 @@ He offered it, and with it drove away his enemies.
 
 तं पुरोडाशं पूर्णमासयागेऽनुनिर्वाप्यं प्रधानकर्मणः पश्चान्निर्वापयोग्यमपश्यत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -106,6 +121,8 @@ He offered it, and with it drove away his enemies.
 मृ᳓ध एव᳓ ते᳓न य᳓जमानो᳓ऽप हते ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,6 +150,7 @@ In that the enemy-dispelling (oblation) is to be offered subsequently at the ful
 
 इन्द्रो॑ वृ॒त्रँ ह॒त्वा दे॒वता॑भिश्चेन्द्रि॒येण॑ च॒ व्या॑र्ध्यत॒ स ए॒तमा॑ग्ने॒यम॒ष्टाक॑पालममावा॒स्या॑यामपश्यदै॒न्द्रन्दधि॑ [15]  तन्निर॑वप॒त्तेन॒ वै स दे॒वता॑श्चेन्द्रि॒यञ्चावा॑रुन्द्ध॒ यदा॑ग्ने॒यो॑ऽष्टाक॑पालोऽमावा॒स्या॑या॒म्भव॑त्यै॒न्द्रन्दधि॑ दे॒वता॑श्चै॒व तेने॑न्द्रि॒यञ्च॒ यज॑मा॒नोऽव॑ रुन्द्धे
 </details>
+</details>
 
 ## आग्नेयम् अष्टाकपालम्
 
@@ -141,6 +159,8 @@ In that the enemy-dispelling (oblation) is to be offered subsequently at the ful
 इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ देव᳓ताभिश् चेन्द्रिये᳓ण च व्या᳙र्ध्यत ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -170,12 +190,15 @@ Indra, having slain Vrtra, lost the gods and his power.
 
 ** इन्द्रो वृत्रवधेन भीतो दूरे पलायमानः स्वकीयाभिर्देवताभिश्च स्वकीयेन सामर्थ्येन च **व्यृद्धो** वियुक्तोऽभूत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् आग्नेय᳓म् अष्टा᳓कपालम् अमावास्या᳙याम् अपश्यत्    
 ऐन्द्र᳓न् द᳓धि त᳓न् नि᳓रवपत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,12 +216,15 @@ He saw the (offering) to Agni on eight potsherds at the new moon, and the curds 
 
 सः । ए॒तम् । आ॒ग्ने॒यम् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । अ॒मा॒वा॒स्या॑या॒मित्य॑मा-वा॒स्या॑याम् । अ॒प॒श्य॒त् । ऐ॒न्द्रम् । दधि॑ । तम् । निरिति॑ । अ॒व॒प॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न वै᳓ स᳓ देव᳓ताश् चेन्द्रिय᳓ञ् चा᳓वारुन्द्ध ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,12 +240,15 @@ He offered it, and by it he won the gods and his power.
 
 तेन॑ । वै । सः । दे॒वताः॑ । च॒ । इ॒न्द्रि॒यम् । च॒ । अवेति॑ । अ॒रु॒न्द्ध॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् आग्नेयो᳙ ऽष्टा᳓कपालो ऽमावास्या᳙याम् भ᳓वत्य् ऐन्द्र᳓न् द᳓धि,  
 देव᳓ताश् चैव᳓ ते᳓नेन्द्रिय᳓ञ् च य᳓जमानो᳓ऽव रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,6 +278,7 @@ In that at the new moon there is (an offering) to Agni on eight potsherds, and c
 
 इन्द्र॑स्य वृ॒त्रञ्ज॒घ्नुष॑ इन्द्रि॒यव्ँवी॒र्य॑म्पृथि॒वीमनु॒ व्या॑र्च्छ॒त्तदोष॑धयो वी॒रुधो॑ऽभव॒न्त्स प्र॒जाप॑ति॒मुपा॑धावद्वृ॒त्रम्मे॑ ज॒घ्नुष॑ इन्द्रि॒यव्ँवी॒र्य॑म् [16]  पृ॒थि॒वीमनु॒ व्या॑र॒त्तदोष॑धयो वी॒रुधो॑ऽभूव॒न्निति॒ स प्र॒जाप॑तिᳶ प॒शून॑ब्रवीदे॒तद॑स्मै॒ सन्न॑य॒तेति॒ तत्प॒शव॒ ओष॑धी॒भ्योऽध्या॒त्मन्त्सम॑नय॒न्तत्प्रत्य॑दुह॒न्यत्स॒मन॑य॒न्तत्सा॑न्ना॒य्यस्य॑ सान्नाय्य॒त्वय्ँयत्प्र॒त्यदु॑ह॒न्तत्प्र॑ति॒धुषᳶ॑ प्रतिधु॒क्त्वम्
 </details>
+</details>
 
 ## सान्नाय्यः  
 
@@ -258,6 +288,8 @@ In that at the new moon there is (an offering) to Agni on eight potsherds, and c
 इन्द्रियव्ँ᳓ वीर्य᳙म् पृथिवी᳓म् अ᳓नु व्या᳙र्च्छत् ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,11 +316,14 @@ When Indra had slain Vrtra, his power and strength went into the earth;
 
 तमेवं विधिं स्तोतुं सांनाय्यनिर्वचनं दर्शयति- **इन्द्रस्य वृत्रमिति।** **जघ्नुषो** हतवतः। **व्यार्छद्** विविधत्वेन प्राप्नोत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दो᳓षधयो वीरु᳓धोऽभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,6 +351,7 @@ then the plants and roots were born.
 ओषधिवीरुधोर्भेदः पूर्वाचार्यैर्दर्शितः-  
 “ओषध्यः फलपाकान्ता लता गुल्माश्च वीरुधः” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,6 +359,8 @@ then the plants and roots were born.
 
 >  वृत्र᳓म् मे जघ्नु᳓ष इन्द्रियव्ँ᳓ वीर्य᳙म् पृथिवी᳓म᳓नु व्या᳙रत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -349,6 +387,7 @@ He ran up to Prajapati, (saying), 'Now that I have slain Vrtra, my power and str
 
 तदेतदिन्द्रियसामर्थ्यस्यौषध्यादिरूपत्वं प्रजापतेरग्रे कथितवान्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -357,6 +396,8 @@ He ran up to Prajapati, (saying), 'Now that I have slain Vrtra, my power and str
 इ᳓ति ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,12 +413,15 @@ then the plants and roots have been born.'
 
 तत् । ओष॑धयः । वी॒रुधः॑ । अ॒भू॒व॒न् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रजा᳓पतिᳶ पशू᳓न् अब्रवीत्
 "एत᳓द् अस्मै स᳓न्नयते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,12 +449,15 @@ Prajapati said to cattle, 'Collect it for him.'
 
 स च प्रजापतिरेतदिन्द्रियसामर्थ्यमिन्द्रार्थं सम्यक्प्रापयतेति पशून् अब्रवीत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् पश᳓व ओ᳓षधीभ्यो᳓ ऽध्यात्म᳓न्त् स᳓मनयन् ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,11 +483,14 @@ The cattle collected it from the plants in themselves;
 
 तत्सामर्थ्यं पशव ओषधीभ्यः सकाशादानीय स्वात्मन्नधि स्वशरीरे सम्यक्स्थापितवन्तः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् प्र᳓त्यदुहन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,12 +516,15 @@ they milked it.
 
 पुनः स्वनिष्ठं तद्वीर्यं क्षीरादिरूपमिन्द्रं प्रति दुग्धवन्तः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सम᳓नयन्
 त᳓त् सान्नाय्य᳓स्य सान्नाय्यत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,12 +541,15 @@ In that they collected it, has the collected oblation (sammayya) its name;
 
 यत् । स॒मन॑य॒न्निति॑ सम्-अन॑यन् । तत् । सा॒न्ना॒य्यस्येति॑ साम्-ना॒य्यस्य॑ । सा॒न्ना॒य्य॒त्वमिति॑ सान्नाय्य-त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रत्य᳓दुहन् -  
 त᳓त् प्रतिधु᳓षᳶ प्रतिधुक्त्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -526,10 +582,14 @@ in that they milked it, has fresh milk its name (pratidhuk).
 
 यस्मादिन्द्रं प्रति दुग्धवन्तस्तस्मात् **प्रतिधुषः** प्रतिदिनं दुह्यमानस्य क्षीरस्य **प्रतिधुग्** इति नाम संपन्नम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सम॑नैषु॒ᳶ प्रत्य॑धुक्ष॒न्न तु मयि॑ श्रयत॒ इत्य॑ब्रवीदे॒तद॑स्मै [17]  शृ॒तङ्कु॑रु॒तेत्य॑ब्रवी॒त्तद॑स्मै शृ॒तम॑कुर्वन्निन्द्रि॒यव्ँवावास्मि॑न्वी॒र्य॑न्तद॑श्रय॒न्तच्छृ॒तस्य॑ शृत॒त्वँ सम॑नैषु॒ᳶ प्रत्य॑धुक्षन्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +597,8 @@ in that they milked it, has fresh milk its name (pratidhuk).
 > स᳓मनैषुᳶ प्र᳓त्यधुक्षन् ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -565,12 +627,15 @@ in that they milked it, has fresh milk its name (pratidhuk).
 
 अथ शृतनामनिर्वचनं दर्शयति- **समनैषुरिति।** भोः प्रजापते त्वदाज्ञया पशवः समनैषुः प्रत्यधुक्षंश्च क्षीररूपं तद्वीर्यं मयि न श्रयते पाकाभावान्मदुदरे तन्न जीर्यत्यर्थमुक्तवान्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ तु᳓ म᳓यि श्रयत
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -586,11 +651,14 @@ they have milked it;
 
 अ॒नै॒षुः॒ । प्रतीति॑ । अ॒धु॒क्ष॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,11 +674,14 @@ but it rests not in me', he said.
 
 न । तु । मयि॑ । श्र॒य॒ते॒ । इति॑ । अ॒ब्र॒वी॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् अस्मै शृत᳓ङ् कुरुते᳓त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -636,11 +707,14 @@ but it rests not in me', he said.
 
 ततः प्रजापतिः पशून्प्रति शृतं पक्वं कुरुतेत्यब्रवीत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्मै शृत᳓म् अकुर्वन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -672,11 +746,14 @@ They made it ready for him;
 
 य(त)स्मात् श्रा पाक इत्यस्माच्छ्रिञो वा **शृतम्** इति नाम निष्पन्नम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रियव्ँ᳓ वा᳓वा᳓स्मिन् वीर्य᳙न् त᳓द् अश्रयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -692,11 +769,14 @@ they made power and strength rest in him;
 
 इ॒न्द्रि॒यम् । वाव । अ॒स्मि॒न् । वी॒र्य॑म् । तत् । अ॒श्र॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓च् छृत᳓स्य शृतत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -712,10 +792,14 @@ verily the ready (milk) has its name (śrta).
 
 तत् । शृ॒तस्य॑ । शृ॒त॒त्वमिति॑ शृत-त्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 शृ॒तम॑क्र॒न्न तु मा॑ धिनो॒तीत्य॑ब्रवीदे॒तद॑स्मै॒ दधि॑ कुरु॒तेत्य॑ब्रवी॒त्तद॑स्मै॒ दध्य॑कुर्व॒न्तदे॑नमधिनो॒त्तद्द॒ध्नो द॑धि॒त्वम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -723,6 +807,8 @@ verily the ready (milk) has its name (śrta).
 "स᳓मनैषुᳶ,
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,12 +840,15 @@ verily the ready (milk) has its name (śrta).
 
 ** संनयनप्रतिदोहनशृतत्वानि संपन्नन्येव, किं तु तच्छृतं मां तु न धिनोति न प्रीणयतीत्युक्ते प्रजापतिरातञ्चनकर्तृन्प्रति दधि कुरुतेत्यब्रवीत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्यधुक्षन्  ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -775,11 +864,14 @@ they have milked it;
 
 अ॒नै॒षुः॒ । प्रतीति॑ । अ॒धु॒क्ष॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृत᳓म् **अक्रन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -795,11 +887,14 @@ they have made it ready;
 
 शृ॒तम् । अ॒क्र॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ तु᳓ मा +++(प्रीणने→)+++धिनोती᳓"त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -815,11 +910,14 @@ but it does not impel me', he said.
 
 न । तु । मा॒ । धि॒नो॒ति॒ । इति॑ । अ॒ब्र॒वी॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् अस्मै द᳓धि कुरुते᳓त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -840,11 +938,14 @@ but it does not impel me', he said.
 
 अथ प्रजापतिरब्रवीत् पशूनेतद् अस्मै दधि प्रीणनं कुरुतेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्मै द᳓ध्य् अकुर्वन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -865,11 +966,14 @@ They made it curds for him;
 
 ते चास्मै प्रीणनमकुर्वन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् एनम् अधिनोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -895,11 +999,14 @@ that impelled (adhinot) him;
 
 तच्च दधिकृत सदेनमिन्द्रमधिनोदप्रीणयत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् दध्नो᳓ दधित्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -928,12 +1035,16 @@ verily curds (dadhi) has its name.
 तस्माद्दधि नाम संपन्नम्। अत्रैन्द्रं दधीति विधिर्विस्पष्ट एव।  
 शृतनामनिर्वचनार्थवादनैन्द्रं पय इति विधिमुन्नयेत्। अन्यथा वक्ष्यमाणशृतावदानविचारानुदयप्रसङ्गात्।
 </details>
+</details>
 
 ### आनुपूर्वी  
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॑ह्मवा॒दिनो॑ वदन्ति द॒ध्नᳶ पूर्व॑स्याव॒देय॑म् [18]  दधि॒ हि पूर्व॑ङ्क्रि॒यत॒ इत्यना॑दृत्य॒ तच्छृ॒तस्यै॒व पूर्व॒स्याव॑ द्येदिन्द्रि॒यमे॒वास्मि॑न्वी॒र्यँ॑ श्रि॒त्वा द॒ध्नोपरि॑ष्टाद्धिनोति यथापू॒र्वमुपै॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -945,6 +1056,8 @@ verily curds (dadhi) has its name.
 
 इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -974,12 +1087,15 @@ The theologians say, 'One should offer curds first, for curds is made first' [4]
 
 तमेव विचारमभित्रेत्य पूर्वपक्षमुपन्यस्यति-  **ब्रह्मवादिन इति।** यस्मात् पूर्वदिने रात्रौ दधि क्रियते तस्माज्जुह्वामवदानेऽवदीयमाने दध्नः स्वरूपमेव पूर्वमवदेयम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नादृत्य त᳓च् छृत᳓स्यैव᳓ पू᳓र्वस्या᳓वद्येत् ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1007,12 +1123,15 @@ One should disregard that and offer ready (milk) first;
 
 क्षीरं पूर्वभावि दधि पश्चाद्भावीत्येवषुत्पत्तिक्रममपि प्राप्तवान्भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रिय᳓म् एवा᳓स्मिन् वीर्यँ᳙ श्रित्वा᳓  
 दध्नो᳓प᳓रिष्टाद् +धिनोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1028,11 +1147,14 @@ verily one places power and strength in him and later impels him by curds;
 
 इ॒न्द्रि॒यम् । ए॒व । अ॒स्मि॒न् । वी॒र्य॑म् । श्रि॒त्वा । द॒ध्ना । उ॒परि॑ष्टात् । धि॒नो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथापूर्व᳓म् उ᳓पैति   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1053,6 +1175,7 @@ and he proceeds in order (of production).
 
 यत्पू॒तीकै॑र्वा पर्णव॒ल्कैर्वा॑त॒ञ्च्यात्सौ॒म्यन्तद्यत्क्व॑लै राक्ष॒सन्तद्यत्त॑ण्डु॒लैर्वै॑श्वदे॒वन्तद्यदा॒तञ्च॑नेन मानु॒षन्तद्यद्द॒ध्ना तत्सेन्द्र॑न्द॒ध्ना त॑नक्ति [19]  से॒न्द्र॒त्वाया॑ग्निहोत्रोच्छेष॒णम॒भ्यात॑नक्ति य॒ज्ञस्य॒ सन्त॑त्यै
 </details>
+</details>
 
 ### तञ्चनम्  
 
@@ -1061,6 +1184,8 @@ and he proceeds in order (of production).
 य᳓त् पूती᳓कैर् वा पर्ण-वल्कै᳓र् वा तञ्च्या᳓त्  
 सौम्य᳓न् त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1088,11 +1213,14 @@ If he curdles it with Putika plants or with bark, that is fit for Soma;
 अथाऽऽतञ्चनं विधत्ते— **यत्पूतीकैरिति।**  
 सोमवल्लीसमानाया लतायाः खण्डाः **पूतीकाः**। पलाशवृक्षस्यांशाः **पर्णवल्काः**। प्रौढबदरफलानि **क्वलाः**। ईषदम्लतक्रम् **आतञ्चतम्**। पूतीकादिभिरातञ्चनं सोमादीनां प्रियम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् क्व᳙लै +++(त॒ञ्च्याथ्)+++ - राक्षसन् तत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1113,11 +1241,14 @@ if with jujubes, that is for the Raksases;
 
 **क्वलः** ह्रस्वह्रदः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् तण्डुलै᳓र् +++(तञ्च्या᳓थ्)+++ वैश्वदेव᳓न् त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1138,11 +1269,14 @@ if with rice grains, for the All-gods;
 
 तण्डुलाः - गताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् आत᳓ञ्चनेन +++(तञ्च्या᳓थ्)+++ मानुष᳓न् त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1158,11 +1292,14 @@ if with rennet, for men;
 
 यत् । आ॒तञ्च॑ने॒नेत्या॑-तञ्च॑नेन । मा॒नु॒षम् । तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् दध्ना᳓ +++(तञ्च्या᳓थ्)+++ त᳓त् से᳓न्द्रम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1190,11 +1327,14 @@ if with curds, that has Indra.
 
 तथा सत्यत्रेन्द्रप्रीत्यै दध्ना ऽऽतञ्च्यात्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दध्ना᳓ तनक्ति सेन्द्रत्वा᳓य।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1210,12 +1350,15 @@ He curdles it with curds [5] that it may have Indra.
 
 द॒ध्ना । एति॑ । त॒न॒क्ति॒ । से॒न्द्र॒त्वायेति॑ सेन्द्र-त्वाय॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्रोच्छेषण᳓म् अभ्या᳓तनक्ति
 यज्ञ᳓स्य स᳓न्तत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1246,6 +1389,7 @@ He curdles the remains of the Agnihotra, for the continuity of the sacrifice.
 
 इन्द्रो॑ वृ॒त्रँ ह॒त्वा परा॑म्परा॒वत॑मगच्छ॒दपा॑राध॒मिति॒ मन्य॑मान॒स्तन्दे॒वता॒ᳶ प्रैष॑मैच्छ॒न्त्सो॑ऽब्रवीत्प्र॒जाप॑ति॒र्यᳶ प्र॑थ॒मो॑ऽनुवि॒न्दति॒ तस्य॑ प्रथ॒मम्भा॑ग॒धेय॒मिति॒ तम्पि॒तरोऽन्व॑विन्द॒न्तस्मा॑त्पि॒तृभ्यᳶ॑ पूर्वे॒द्युᳵ क्रि॑यते
 </details>
+</details>
 
 ### पितृभ्यः  
 
@@ -1253,6 +1397,8 @@ He curdles the remains of the Agnihotra, for the continuity of the sacrifice.
 
 इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ प᳓राम् पराव᳓तम् अगच्छद् अ᳓पाराधम् इ᳓ति म᳓न्यमानः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1280,11 +1426,14 @@ Indra having slain Vrtra went to a great distance, thinking, 'I have sinned.'
 
 अथ पिण्डपितृयज्ञं विधत्ते—इन्द्रो वृत्रमिति। वृत्रवधेन सुरागामपराधं कृतवानस्मीति मन्यमान इन्द्रो भीतोऽत्यन्तं दूरममच्छत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देव᳓ताᳶ प्रै᳓षम् ऐच्छन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1310,12 +1459,15 @@ The gods sought to start him.
 
 तमिन्द्रं प्रति देवता अह्वानमैच्छन्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽब्रवीत् प्रजा᳓पतिर्
 "यᳶ᳓ प्रथमो᳙ऽनुविन्द᳓ति त᳓स्य प्रथम᳓म् भागधे᳓यम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1338,11 +1490,14 @@ Prajapati said, "He who first finds him will have the first share."
 
 **अनुविन्दति** अनुक्रमेण लभते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म्पित᳓रो᳓ऽन्वविन्दन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1358,11 +1513,14 @@ The Pitrs found him;
 
 तम् । पि॒तरः॑ । अन्विति॑ । अ॒वि॒न्द॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पितृ᳓भ्यᳶ पूर्वेद्युᳵ᳓ क्रियते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1389,18 +1547,24 @@ therefore an offering is made to the Pitrs on the day before.
 देवतानां मध्ये योऽन्विष्य प्रथममिन्द्रं लभते तस्य प्रथमं भागो दीयत इति प्रजापतिनोक्ताः पितरः प्रथममिन्द्रं यस्मादलभन्त तस्मात्पितृभ्य पूर्वेद्युः पिण्डपितृयज्ञं कुर्यात्।  
 दर्शयागदेवतानाममावास्यायामारम्भः प्रतिपादि तद्यागः। पितृणां त्वमावास्यायामेव पिण्डदानम्।
 </details>
+</details>
 
 ### अमावास्याया ऐन्द्रत्वम्  
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सो॑ऽमावा॒स्या॑म्प्रत्याग॑च्छ॒त्तन्दे॒वा अ॒भि सम॑गच्छ॒न्तामा वै नः॑ [20]  अ॒द्य वसु॑ वस॒तीतीन्द्रो॒ हि दे॒वानाव्ँ॒वसु॒ तद॑मावा॒स्या॑या अमावास्य॒त्वम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽमावास्या᳙म् प्र᳓त्या᳓गच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1428,11 +1592,14 @@ He approached the new moon night;
 एवं तर्हि सांनाय्यप्रशंसार्थमत्र तदनुवादोऽस्तु। तामेव स्तुतिं द्योतयितुममावास्यानिर्वचनं दर्शयति—  **सोऽमावास्यामिति।**  
 पितृभिरन्विष्य लब्धः स इन्द्रोऽमावास्यायां पलायनदेशात्प्रतिनिवृत्य समागतः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ अभि᳓ स᳓मगच्छन्त -  "+अमा᳓ वै᳓ नोऽद्य᳓ व᳓सु वसती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1460,11 +1627,14 @@ the gods met him, (saying), 'Our treasure to-day at home [6] dwells',
 
 ते देवास्तमिन्द्रमभिमुखीकर्तुं संप्राप्ताः परस्परमिदमब्रुवन्— अद्य नोऽस्माकं **वसु** श्रेष्ठं धनम् **अमा वसति** सह तिष्ठति, सर्वेषां साधारणत्वेन वर्तत इत्यर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो हि᳓ देवा᳓नाव्ँ व᳓सु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1490,11 +1660,14 @@ for Indra is the treasure of the gods,
 
 किं तद्वस्विति तदुच्यते-इन्द्रः खलु सर्वेषां देवानां वसु श्रेष्ठं धनं, तस्मिन्वर्तमाने सति स्वामिलाभात्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अमा-वास्या᳙या अमा+++(=सह)+++-वास्यत्व᳓म्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1521,10 +1694,14 @@ and that is why the new moon night has its name (ama-vasya), 'home dwelling').
 
 यस्माद्देवा एवमुक्तवन्तस्तस्मादमा वसत्यद्येति व्युत्पत्त्या ऽमावास्यानाम संपन्नम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॑ह्मवा॒दिनो॑ वदन्ति किन्देव॒त्यँ॑ सान्ना॒य्यमिति॑ वैश्वदे॒वमिति॑ ब्रूया॒द्विश्वे॒ हि तद्दे॒वा भा॑ग॒धेय॑म॒भि स॒मग॑च्छ॒न्तेति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1534,6 +1711,8 @@ and that is why the new moon night has its name (ama-vasya), 'home dwelling').
 "वैश्वदेव᳓म्" इ᳓ति ब्रूयात् ।  
 "वि᳓श्वे हि᳓ त᳓द् देवा᳓ भागधे᳓यम् अभि᳓ सम᳓गच्छन्ते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1566,6 +1745,7 @@ The theologians say, What is the deity of the Samnayya?' 'The All-gods', he shou
 ऐन्द्रं दधीति विधिवाक्ये सांनाय्यस्य यदैन्द्रत्वमुक्तं तदेव पूर्वोत्तरपक्षाभ्यां द्रढयति—  **ब्रह्मवादिन इति।**  
 पितृभिरानीयमानमिन्द्रमभिमुखीकर्तुं सर्वेऽपि देवा यदा समागच्छंस्तदा तत्सांनाय्यलक्षणं भागमभिलक्ष्यैव समागच्छन्निति सांनाय्यं वैश्वदेवमिति केषांचित्पक्षः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1573,6 +1753,8 @@ The theologians say, What is the deity of the Samnayya?' 'The All-gods', he shou
 इन्द्रव्ँ वा᳓व᳓ ते᳓ त᳓द् भिषज्य᳓न्तो ऽभि᳓ स᳓मगच्छन्ते᳓ति ॥
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1607,4 +1789,5 @@ Or rather he should reply, 'Indra, for it was in healing Indra that they won it.
 
 **अथो**शब्दः पक्षान्तरार्थः। भीत्या दूरदेशं गतमिन्द्रं भिषज्यन्त एव भयनिवारणेन समाधित्सन्त एव ते देवास्त्विन्द्रं समागताः न तु सांनाय्यलिप्सया ।  
 तस्मात्सांनाय्यम् ऐन्द्रमित्येव बुद्धिमान् ब्रूयात्।
+</details>
 </details>

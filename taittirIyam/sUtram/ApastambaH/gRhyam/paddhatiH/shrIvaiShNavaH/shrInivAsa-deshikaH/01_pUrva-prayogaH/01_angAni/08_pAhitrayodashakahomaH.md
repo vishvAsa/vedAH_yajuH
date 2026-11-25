@@ -11,20 +11,30 @@ title = "०८ पाहित्रयोदशकहोमः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
-<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -36,14 +46,20 @@ title = "०८ पाहित्रयोदशकहोमः"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
 </details>
+</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
 ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
@@ -143,18 +159,21 @@ _________
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा॑ ॥
-(अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा॑ ॥
-(वा॒यव॑ +इ॒दं न म॑म)
+(ओं᳓) भू᳓स् स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ म᳓म)
 
-(ओं) सुव॒स्स्वाहा॑ ॥  
-(सूर्या॑य +इ॒दं न म॑म)
+(ओं᳓) भु᳓वस् स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ म᳓म)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
-(प्र॒जाप॑तय +इ॒दं न म॑म)  
+(ओं᳓) सु᳓वस् स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ म᳓म)
+
+(ओं) भू᳓र् भु᳓वस् सु᳓व स्स्वा᳓हा ॥  
+(प्रजा᳓पतय +इदं᳓ न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -172,23 +191,118 @@ _________
 
 </details>
 </details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/05_pAhi_no_agne/">
 <details open><summary><h5>०५ पाहि नो अग्ने ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>त्रिभुवनः - विनियोगः</summary>
+
+*(Mantra 1)* Mantra for removing the obstacles of knowledge.
+</details>
+
+<details><summary>भास्करोक्त-विनियोगः</summary>
+
+पाहि न इति ॥ इत उत्तरे अनुवाका उपासनार्थाः ।
+</details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+पूर्वत्र भूरग्नय इत्यनुवाके सर्वसाधारणाः पापक्षयार्था होममन्त्रा उक्ताः। अथ प्रतिबन्धनिवारणेन मुमुक्षोर्ज्ञानप्राप्त्यर्था होममन्त्र उच्यन्ते —
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
 
-पा॒हि नो अग्न॒ एन॑से॒ स्वाहा॑ ।  
-पा॒हि नो वि॒श्ववे॑दसे॒ स्वाहा॑ ।  
-य॒ज्ञं पा॒हि विभावसो॒ स्वाहा॑ ।  
-सर्वं॑ पा॒हि शतक्रतो॒ स्वाहा॑ । (15)
+पाहि᳓ नो᳓ अ᳓ग्न ए᳓नसे स्वा᳓हा ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, protect us from the sin, Hail!
 </details>
 
 <details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
 
-पाहि नो अग्न एन॑से स्वा॒हा ।  
-पाहि नो विश्ववेद॑से स्वा॒हा ।  
-यज्ञं पाहि विभाव॑सो स्वा॒हा ।  
+पाहि नो अग्न एन॑से स्वा॒हा ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने! अग्रणीः! नो ऽस्मान् पाह्य् एनसे एनसः । विभक्तिव्यत्ययः । यद्वा - एनोरूपेण हिंसते तुभ्यं नमस् तथा पाह्यस्मान् संसारात् तुभ्यं विश्ववेदसे विश्वस्य वेदित्रे लब्ध्रे वा संसारात्मकाय नमः हे विभावसो! प्रभाधन! नो ऽस्मदीयं यज्ञं ज्ञानात्मकं पाहि त्वमेव जानासि तथा हे शतक्रतो! विचित्रानन्तकर्मन्! अस्मदीयं सर्वं कर्म उपासकानां ज्ञानं च पाहि करोमीति । स्वाहाकारान्तपादचतुष्टया अनुष्टुबेषा ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने नोऽस्मानेनसो ज्ञानप्रतिबन्धकात्पापात्पाहि रक्ष। तुभ्यमिदं स्वा[हा ] हुतमस्तु नोऽस्माकं विश्ववेदसे कृत्स्नतत्त्वज्ञानसिद्ध्यर्थं पाहि तत्साधनसंपादनेन पालय। तदर्थं तुभ्यमिदं स्वा[हा ]हुतमस्तु।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
+
+पाहि᳓ नो᳓ विश्व᳓वेदसे स्वा᳓हा ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+Protect us for knowledge of all, Hail!
+</details>
+
+<details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
+
+पाहि नो विश्ववेद॑से स्वा॒हा ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+विशेषेण भानं दीप्तिर्विभा सैव वसु धनं यस्याग्नेः सोऽयं विभावसुः।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
+
+यज्ञं᳓ पाहि᳓ विभावसो स्वा᳓हा ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Vibhāvasu (having the shining wealth), protect us for the sacrifice, Hail!
+</details>
+
+<details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
+
+यज्ञं पाहि विभाव॑सो स्वा॒हा ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे विभावसो यज्ञं विविदिषाहेतुत्वेनास्माभिरनुष्ठीयमानं पाहि निर्विघ्नेन समाप्तिं नीत्वा पालय। शतसंख्याकाः क्रतवो येनाग्निना निष्पाद्यन्ते सोऽयं शतक्रतुः। हे शतक्रतो सर्वं ज्ञानसाधनं गुरुशास्त्रादिकं पाहि॥
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (स्वाभाविक-स्वरेण)</summary>
+
+स᳓र्वं पाहि᳓ शतक्रतो स्वा᳓हा । (15)
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+O hundred-powered one, protect, protect all!
+</details>
+
+<details><summary>मूलम् (आरण्यक-स्वरेण)</summary>
+
 सर्वं पाहि शतक्र॑तो स्वा॒हा । (15)
+</details>
 </details>
 </details>
 </div>
@@ -210,18 +324,21 @@ _________
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा॑ ॥
-(अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा॑ ॥
-(वा॒यव॑ +इ॒दं न म॑म)
+(ओं᳓) भू᳓स् स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ म᳓म)
 
-(ओं) सुव॒स्स्वाहा॑ ॥  
-(सूर्या॑य +इ॒दं न म॑म)
+(ओं᳓) भु᳓वस् स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ म᳓म)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
-(प्र॒जाप॑तय +इ॒दं न म॑म)  
+(ओं᳓) सु᳓वस् स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ म᳓म)
+
+(ओं) भू᳓र् भु᳓वस् सु᳓व स्स्वा᳓हा ॥  
+(प्रजा᳓पतय +इदं᳓ न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +354,7 @@ _________
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्रजापतय इदं न मम)  
 
+</details>
 </details>
 </details>
 </div>  
@@ -308,6 +426,8 @@ _______________________
 विश्वे॑ दे॒वा मु॑ञ्चन्तु म॒रुतः॑ स्व॒स्त्या॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ये ते॑ श॒तं वरुण॒ ये स॒हस्रं॑  
@@ -315,6 +435,8 @@ _______________________
 तेभ्यो॑ न॒ इन्द्र॑स् सवि॒तोत विष्णु॑र्  
 विश्वे॑ दे॒वा मु॑ञ्चन्तु म॒रुतः॑ स्व॒स्त्या॥
 </details>
+</details>
+
 
 (स्वाहा॑॥ वरुणेन्द्रसवितृविष्णुविश्वेदेवमरुद्भ्य इदम् ।)
 </details>

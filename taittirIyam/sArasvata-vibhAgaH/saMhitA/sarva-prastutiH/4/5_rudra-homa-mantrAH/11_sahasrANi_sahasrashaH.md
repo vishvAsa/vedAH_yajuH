@@ -2,6 +2,8 @@
 title = "११ स॒हस्रा॑णि सहस्र॒शो"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १-१० अनुष्टुप्, अग्निर्ऋषिः
@@ -14,6 +16,7 @@ title = "११ स॒हस्रा॑णि सहस्र॒शो"
 
 अथैकादशे शिष्टा ऋचः शिष्ठानि यजूषि चोच्यन्ते।  
 तत्राऽऽदौ दशसंख्याका ऋचः। तासु प्रथमामाह– सहस्राणीनि।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/02_sahasrANi_sahasrasho.md">
@@ -76,9 +79,12 @@ At a thousand leagues.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— अस्मिन्निति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/03_asmin_mahaty.md">
@@ -125,9 +131,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह– नीलग्रीवा इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/04_nIlagrIvAsh_shitikaNThAsh.md">
@@ -176,9 +185,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— नीलग्रीवा इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/05_nIlagrIvAsh_shitikaNThA.md">
@@ -224,9 +236,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— ये वृक्षेष्विति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/06_ye_vRkhSheShu.md">
@@ -277,9 +292,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— ये भूतानामिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/07_ye_bhUtAnAm.md">
@@ -327,9 +345,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह- ये अन्नेष्विति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/08_ye_anneShu.md">
@@ -376,9 +397,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्ठमीमाह ये पथामिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/09_ye_pathAm.md">
@@ -432,9 +456,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— ये तीर्थानिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/10_ye_tIrthAni.md">
@@ -481,9 +508,12 @@ At a thousand leagues.}
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह— य एतावभ्तश्चेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/11_ya_etAvantash.md">
@@ -516,6 +546,8 @@ At a thousand leagues.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 इत्थं द्वादशसंख्याका ऋच उक्ताः।  
@@ -529,10 +561,14 @@ At a thousand leagues.
 ये दिवि येषां वर्षमिषव इति तृतीयो मन्त्रः ।  
 तेभ्यो दश प्राचीरित्यादि सर्वत्र समानम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ रु॒द्रेभ्यो॒ ये पृ॑थि॒व्याय्ँये॑ऽन्तरि॑क्षे॒ ये दि॒वि येषा॒मन्नव्ँ॒वातो॑ व॒र्षमिष॑व॒स्तेभ्यो॒ दश॒ प्राची॒र्दश॑ दक्षि॒णा दश॑ प्र॒तीची॒र्दशोदी॑ची॒र्दशो॒र्ध्वास्तेभ्यो॒ नम॒स्ते नो॑ मृडयन्तु॒ ते यन्द्वि॒ष्मो यश्च॑ नो॒ द्वेष्टि॒ तव्ँवो॒ जम्भे॑ दधामि ॥ [27]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -540,6 +576,8 @@ At a thousand leagues.
 न᳓मो रुद्रे᳓भ्यो ये᳓ पृथिव्या᳓म्   
 {ये᳓षाम् अ᳓न्नम् इ᳓षवस्}  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,9 +600,9 @@ whose arrows are food,
 ये रुद्राः पृथिव्यां वर्तन्ते तेष्वपि रुद्रेषु येषां रुद्रविशेषाणामन्नमेवेषवो बाणाः, अपथ्यान्नभक्षणे प्रवर्त्य वाऽन्नर्थं चौर्यं कारयित्वा वा यान्हिंसन्ति तान्प्रति हिंसकानां रुद्राणावन्नमेवेषवस्तेभ्यः।  
 पृथिव्यां स्थितेभ्योऽन्नबाणकेभ्यश्च रुद्रेभ्यो नमोऽस्तु।  
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्यो द᳓श प्रा᳓चीर्  
@@ -574,6 +612,8 @@ whose arrows are food,
 द᳓शोर्ध्वा᳓स्,  
 ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,13 +640,15 @@ to them homage, be they merciful to us,
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(न᳓मो रुद्रे᳓भ्यो )+++ ये᳙ऽन्त᳓रिक्षे { येषाव्ँ वा᳓त इ᳓षवः}  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -627,9 +669,9 @@ to them homage, be they merciful to us,
 
 तथा ये रुद्रा अन्तरिक्षे वर्तन्ते तेषामपि मध्ये येषां वात इषवस्तीव्रेण वायुना रोगानुत्पाद्य हिंसन्ति तभ्योऽन्तरिक्षवर्तिभ्यो वातेषुभ्यश्च रुद्रेभ्यो नमोऽस्तु।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्यो द᳓श प्रा᳓चीर्  
@@ -639,6 +681,8 @@ to them homage, be they merciful to us,
 द᳓शोर्ध्वा᳓स्,  
 ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,13 +709,15 @@ to them homage, be they merciful to us,
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(न᳓मो रुद्रे᳓भ्यो )+++ ये᳓ दिवि᳓ { ये᳓षाव्ँ वर्ष᳓म् इ᳓षवः}
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -693,9 +739,9 @@ to them homage, be they merciful to us,
 तथा ये रुद्रा दिवि वर्तन्ते तेष्वपि येषां रुद्रविशेषाणां वर्षमेवेषवोऽतिवृष्ट्यनावृष्टिभ्यां प्राणिनो हिंसन्ति तेभ्यो दिवि स्थितेभ्यो वर्षेषुभ्यो रुद्रेभ्यो नमोऽस्तु।  
 कीदृशो नमस्कार इति स एव विशेष्यते दश प्राचीः, प्राङ्मुखत्वेनाञ्चलिकरणे दशाङ्गुलयः प्रागग्रा भवन्ति एवं दक्षिणादिषूर्ध्वाभ्तेषु योज्यम्।  
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/tebhyo_dasha_namas_te_no_mRDayantu.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्यो द᳓श प्रा᳓चीर्  
@@ -705,6 +751,8 @@ to them homage, be they merciful to us,
 द᳓शोर्ध्वा᳓स्,  
 ते᳓भ्यो न᳓मस्ते᳓ नो मृडयन्तु
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -731,17 +779,18 @@ to them homage, be they merciful to us,
 
 (ईदृशैरञ्जलिविशेषैस्) तेभ्यो (रुद्रेभ्यो) नमोऽस्तु। ते च (रुद्रा) नोऽस्मान्मृडयन्तु सुखयन्तु।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ य᳓न् **द्विष्मो᳓**  
 य᳓श्च नो **द्वे᳓ष्टि**  
 तव्ँ᳓ वो **ज᳓म्भे दधामि** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,8 +811,10 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 ते च वयं नगस्कृतरुद्राः सन्तो यं वैरिणं तूष्णीमवस्थितमपि द्विष्मः, यश्च वैरी नोऽस्मांस्तुष्णीमवस्थितानपि द्वेष्टि तमुभयविधं वैरिणं हे रुद्रा वो युष्माकं जम्मे विदारितास्ये दधामि स्थापयामि।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -835,6 +886,7 @@ him whom we hate and him who hateth us, I place him within your jaws.
  “यं द्विष्या स्य संचरे पशूनां न्यस्येद्यः प्रथमः पशुरभितिष्ठति स आर्तिनार्छति” (सं. का. ५ प्र. ४ अ. ३) इति।  
 यं पुरुषं यजमानो द्विष्यात्तस्य पशूनां संचरप्रदेशे तदर्कपर्णं परित्यजेत्।  
 तत्त्यक्तं पर्णं यः पशुः प्रथम इतरेभ्यः पशुभ्बः पूर्वः सन्नभिक्रम्य तिष्ठति स श्रियेत।   
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

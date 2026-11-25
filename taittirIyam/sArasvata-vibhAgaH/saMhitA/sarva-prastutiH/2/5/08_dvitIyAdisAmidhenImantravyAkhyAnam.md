@@ -2,9 +2,12 @@
 title = "०८ द्वितीयादि-सामिधेनी-मन्त्र-व्याख्यानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रजापतिऋषिः ।
+</details>
 </details>
 
 ## अग्न आयाहीति त्यृचम्
@@ -13,6 +16,8 @@ title = "०८ द्वितीयादि-सामिधेनी-मन�
 
 अ᳓यज्ञो वा᳓ एष᳓ यो᳙ऽसामा᳓ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ Without a Saman there is no sacrifice.
 अयज्ञो वा इति।
 दर्शपूर्णमासयोः सामानि न सन्ति। तद्रहितश्च न मुख्ययज्ञः। अतोऽयं तृचः सामत्रयस्वरूपत्वेनात्र पठ्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,11 +76,14 @@ Without a Saman there is no sacrifice.
 तथाऽपि स्तुतितत्वात्तद्रूपत्वमविरुद्धम्।  
 शाखान्तरे वा तास्वृक्षु गीतानि सामानि द्रष्टव्यानि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथन्तर᳓स्यैष᳓ व᳓र्णः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,6 +109,7 @@ this is the character of the Rathantara.
 
 रथन्त॒रस्यै॒ष वर्ण॒स्तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह वामदे॒व्यस्यै॒ष वर्णो॑ बृ॒हद॑ग्ने सु॒वीर्य॒मित्या॑ह बृह॒त ए॒ष वर्णो॒ यदे॒तन्तृ॒चम॒न्वाह॑ य॒ज्ञमे॒व तत्साम॑न्वन्तङ्करोति
 </details>
+</details>
 
 ### त᳓न् त्वा समि᳓द्भिरङ्गिर!
 
@@ -105,6 +117,8 @@ this is the character of the Rathantara.
 
 "त᳓न् त्वा समि᳓द्भिरङ्गिर!" इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,11 +134,14 @@ this is the character of the Rathantara.
 
 तम् । त्वा॒ । स॒मिद्भि॒रिति॑ स॒मित्-भिः॒ । अ॒ङ्गि॒रः॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामदेव्य᳓स्यैष᳓ व᳓र्णः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,6 +157,7 @@ this is the character of the Vamadevya.
 
 वा॒म॒दे॒व्यस्येति॑ वाम-दे॒व्यस्य॑ । ए॒षः । वर्णः॑ ।
 </details>
+</details>
 
 ### बृह᳓द् अग्ने सुवी᳓र्यम्
 
@@ -147,6 +165,8 @@ this is the character of the Vamadevya.
 
 बृह᳓द् अग्ने सुवी᳓र्यम् इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,11 +192,14 @@ this is the character of the Vamadevya.
 
 बृहदग्न इति तृतीयपादोपादानं बृहत्सामद्योतकस्य बृहच्छब्दस्य प्रदर्शनार्थम्।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहत᳓ एष᳓ व᳓र्णः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,12 +215,15 @@ This is the character of the Brhat.
 
 बृ॒ह॒तः । ए॒षः । वर्णः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एत᳓न् तृच᳓म् अन्वा᳓ह …
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +244,14 @@ In that he repeats this Trca,
 
 तृचमिति । तिसृणामृचां समाहारस्तृचम् । 'ऋक्पूः' इति समासान्तः । त्रेस्सम्प्रसारणं, उत्तरपदलोपश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓म् एव᳓ त᳓त् सा᳓मन्वन्तङ् करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,6 +282,7 @@ he makes the sacrifice have Samans.
 
 अ॒ग्निर॒मुष्मिल्ँ॑ लो॒क आसी॑दादि॒त्यो॑ऽस्मिन्तावि॒मौ लो॒कावशा॑न्तौ [44]  आ॒स्ता॒न्ते दे॒वा अ॑ब्रुव॒न्नेते॒मौ वि पर्यू॑हा॒मेत्यग्न॒ आ या॑हि वी॒तय॒ इत्य॒स्मिल्ँ लो॒के॑ऽग्निम॑दधुर्बृ॒हद॑ग्ने सु॒वीर्य॒मित्य॒मुष्मिल्ँ॑ लो॒क आ॑दि॒त्यन्ततो॒ वा इ॒मौ लो॒काव॑शाम्यताय्ँ॒यदे॒वम॒न्वाहा॒नयो॑र्लो॒कयो॒श्शान्त्यै॒ शाम्य॑तोऽस्मा इ॒मौ लो॒कौ य ए॒वव्ँ वेद
 </details>
+</details>
 
 ### लोक-शमनम्
 
@@ -261,6 +291,8 @@ he makes the sacrifice have Samans.
 अग्नि᳓र् अमु᳓ष्मिल्ँ लोक᳓ आ᳓सीत् ।  
 आदि᳓त्यो ऽस्मिन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +320,14 @@ Agni was in yonder world, the sun in this;
 अस्मिन्नेव तृच आद्यन्तौ पुनः प्रशंसति-  
 अग्निरमुष्मिन्निति। पुरा स्वर्गलोकेऽग्निः स्थित आदित्यस्तु भूलोके। तदानीं लेकद्वयमशान्तं क्षुब्धमासीत्। स्वर्गे ह्यमृर्तसेविनां पाक्रापेक्षा नास्ति। प्रकाशाय केवलमादित्योऽपेक्षित एव। भूलोकवासिनां तु पाको मुख्ये प्रयोजनम्। तदुभयासिद्धेर्लोकक्षोभः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् इमौ᳓ लोका᳓व् अ᳓शान्ताव् आस्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,12 +343,15 @@ these worlds were disturbed [1].
 
 तौ । इ॒मौ । लो॒कौ । अशा॑न्तौ । आ॒स्ता॒म्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अब्रुवन् ।   
 ए᳓तेमौ᳓ वि᳓ प᳓र्यूहामे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -341,12 +379,15 @@ The gods said, 'Let us change them about.'
 तं क्षोभं दृष्ट्वा ते देवाः परस्परमिदमूचुः-  
 इमावग्न्यादित्यौ विपर्यूहाम विपरिवृत्तौ स्थापयाम्। तस्मादेते सर्वे यूयमागच्छतेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्न आ᳓ याहि वीत᳓य इ᳓त्य्  
 अस्मिल्ँ᳓ लोके᳙ऽग्नि᳓मदधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +413,14 @@ The gods said, 'Let us change them about.'
 
 अग्न आयाहीत्यस्यामृचि बर्हिषि निषीदेति लिङ्गादृचः प्राथम्याच्च प्रथमलोके स्थापनं तया संपद्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "बृह᳓द् अग्ने सुवी᳓र्यम्" इ᳓त्य् अमु᳓ष्मिल्ँ लोक᳓ आदित्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -408,11 +452,14 @@ and (saying),'The great and powerful one, O Agni', they placed the sun in yonder
 
 किंच, हंसमन्त्रवसान ऋतं बृहदित्यादित्यमणडलपरत्वेन श्रुतो बृहच्छब्दोऽत्रापि श्रूयमाण आदित्यस्य प्रत्यभिज्ञापकः। तस्मात्तेन मम्त्रेणाऽऽदित्यस्थापनं सिध्यति। अनयोर्विपर्यावृत्त्या लोकयेः स्वस्वकार्यसिद्धेर्युक्ता शान्तिः।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ इमौ᳓ लोका᳓व् अशाम्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,11 +475,14 @@ Then indeed these worlds became calm.
 
 ततः॑ । वै । इ॒मौ । लो॒कौ । अ॒शा॒म्य॒ता॒म्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एव᳓म् अन्वा᳓हान᳓योर् लोक᳓योश् शा᳓न्त्यै
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,11 +503,14 @@ In that he repeats (it) thus, (it serves) for the calming of these worlds;
 
 तस्मादनेन क्रमेण पाठो लोकयोः शान्त्यै भवति। तद्वेदितुश्च तदुभयशान्तिर्भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शा᳓म्यतो ऽस्मा᳓ इमौ᳓ लोकौ᳓ य᳓ एवव्ँ᳓ वे᳓द᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -478,6 +531,7 @@ these worlds become calm for him who knows thus.
 
 पञ्च॑दश सामिधे॒नीरन्वा॑ह॒ पञ्च॑दश [45]  वा अ॑र्धमा॒सस्य॒ रात्र॑योऽर्धमास॒शस्सव्ँ॑वत्स॒र आ॑प्यते॒ तासा॒न्त्रीणि॑ च श॒तानि॑ ष॒ष्टिश्चा॒क्षरा॑णि॒ ताव॑तीस्सव्ँवत्स॒रस्य॒ रात्र॑योऽक्षर॒श ए॒व सव्ँ॑वत्स॒रमा॑प्नोति
 </details>
+</details>
 
 ## १५ सामिधेन्यः
 
@@ -485,6 +539,8 @@ these worlds become calm for him who knows thus.
 
 प᳓ञ्चदश सामिधेनी᳓र᳓न्वाह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,12 +562,15 @@ He repeats fifteen Samidhenis [2].
 संख्या विधत्ते-   
 पञ्चदशेति। यद्यपि द्वादश पठितास्तथाऽप्येकादशैव। एकस्याः पुरुषभेदेन विकल्पितत्वात्। तासु च प्रथमोत्तमयोस्त्रिरावृत्त्या पञ्चदशत्वसंपत्तिः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चदश वा᳓ अर्धमास᳓स्य रा᳓त्रयः ।
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -532,11 +591,14 @@ The nights of the half-month are fifteen;
 
 अर्धमासस्य रात्रीणां पञ्चदशत्वात्तद्रूपत्वमपि संपद्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धमासश᳓स् सव्ँवत्सर᳓ आप्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -557,11 +619,14 @@ the year is made up of half-months.
 
 एकैकस्मिन्नर्धमासे पञ्चदशस्वन्तर्भूतासु तासामर्धमासमानां चतुर्विशतिवारमावृत्त्या संवत्सरप्राप्तिश्च संपद्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓सानन् त्री᳓णि च शता᳓नि षष्टि᳓श् चाक्ष᳓राणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,11 +647,14 @@ There are three hundred and sixty syllables in the Samidhenis;
 
 इदानीमक्षरसंख्या संवत्सरसंपत्त्या प्रशंसति-  **तासां त्रीणीति।** तासां सामिधेनीनां पञ्चदशसंख्यानां गायत्रीछन्दस्कत्वादेकैका चतुर्विशत्यक्षरा। यद्यपि वासिष्ठानां परिधानीयायास्त्रिष्टुप्त्वादधिकान्यक्षराणि तथाऽपीतरगोत्रापेक्षयाऽयमर्थवाद इत्यविरोधः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताव᳓तीस् सव्ँवत्सर᳓स्य रा᳓त्रयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -612,11 +680,14 @@ there are as many nights in the year;
 
 तथा सति मिलित्वाऽक्षरसंख्या संवत्सररात्रिसंख्या च समति कृत्वाऽक्षरद्वारा तदेवं संवत्सरप्राप्तिर्भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्ष᳓रश ए᳓व सव्ँवत्सर᳓म् आप्नोति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,18 +709,24 @@ verily by syllables he obtains the year.
 3अर्धमासशः [अर्धमासेन] अक्षरशः अक्षरेण संवत्सरमाप्नोति ।  
 पूर्ववच्छस् ॥
 </details>
+</details>
 
 ## घृतवत्-पादः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नृ॒मेध॑श्च॒ परु॑च्छेपश्च ब्रह्म॒वाद्य॑मवदेताम॒स्मिन्दारा॑वा॒र्द्रे॑ऽग्निञ्ज॑नयाव यत॒रो नौ॒ ब्रह्मी॑या॒निति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृमे᳓धश् च प᳓रुच्छेपश् च ब्रह्मवा᳓द्यम् अवदेताम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -676,11 +753,14 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 आसु सामिधेनीषु “तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि” इत्येतं मन्त्रविशेषं प्रशंसति-  
 नृमेधश्चेति। नृमेधपरुच्छेपनामानावृत्विजौ परस्परं ब्रह्मवाद्यमवदेता मन्त्रसामर्थ्यविषयं वादमकुरुताम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अस्मि᳓न् दा᳓राव् आर्द्रे᳙ ऽग्नि᳓ञ् जनयाव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -696,6 +776,7 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 
 अ॒स्मिन् । दारौ॑ । आ॒र्द्रे । अ॒ग्निम् । ज॒न॒या॒व॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -703,6 +784,8 @@ Nrmedha and Paruchepa had a theological dispute (and said),
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -728,16 +811,22 @@ which of us two is the more of a theologian.'
 
 तत्रानयोरियं प्रतिज्ञा—  आवयोरुभयोर्मध्ये यतरो ब्रह्मीयान्ब्रह्मणि सामिधेनीमन्त्रे ऽत्यतं कुशलस्तादृशं निश्चेतुं स्वस्वमनसि सामिधेनीमन्त्रमनुस्मरन्तावस्मिन्नार्द्रे काष्ठे मथनेनाग्निं जनयावेति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नृ॒मेधो॒ऽभ्य॑वद॒त्स धू॒मम॑जनय॒त्परु॑च्छेपो॒ऽभ्य॑वद॒त्सो॒॑ऽग्निम॑जनय॒दृष॒ इत्य॑ब्रवीत् [46]  यत्स॒माव॑द्वि॒द्व क॒था त्वम॒ग्निमजी॑जनो॒ नाहमिति॑ सामिधे॒नीना॑मे॒वाहव्ँवर्णव्ँ॑वे॒देत्य॑ब्रवीत्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृमे᳓धो ऽभ्य᳙वदत्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -763,11 +852,14 @@ Nrmedha spoke;
 
 तदा प्रथमं नृमेध आर्द्र काष्ठमभिलक्ष्य मन्त्रमवदत् स तन्मन्त्रसामर्थ्याद्धुममुत्पादितवान्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ धूम᳓म् अजनयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,12 +875,15 @@ he generated smoke.
 
 सः । धू॒मम् । अ॒ज॒न॒य॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रुच्छेपो ऽभ्य᳙वदत् ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -814,12 +909,15 @@ Paruchepa spoke;
 
 परुच्छेपो मन्त्रं पठित्वाऽग्निमजनयत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓ ऽग्नि᳓म् अजनयत् ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -835,11 +933,14 @@ he generated fire.
 
 सः । अ॒ग्निम् । अ॒ज॒न॒य॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऋ᳓ष!!" इ᳓त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -865,6 +966,7 @@ he generated fire.
 
 तदिदानीं नृमेधः परुच्छेपं प्रति हे ऋषे त्वमतीन्द्रियद्रष्टाऽसीत्यपिरेत्य संबोधितवान्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -873,6 +975,8 @@ he generated fire.
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -898,11 +1002,14 @@ he generated fire.
 
 संबोध्य चैवं पप्रच्छ यद्यस्मात्कारणात्समावद्विद्वाऽऽवयोः सामिधेनीवेदनं समानमेव, तथा सति कथं त्वमग्निमुत्पादितवान्न त्वहमिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सामिधेनी᳓नाम् एवा᳓हव्ँ᳓ व᳓र्णव्ँ वेदे᳓"त्य् अब्रवीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -928,10 +1035,14 @@ he generated fire.
 
 तत्र परुच्छेप उत्तरमुवाच यद्यप्यावयोः सामिधेनीपाठस्तदर्थज्ञानं च समान तथाऽप्यहं तासामेव सामिधेनीनां वर्ण रहस्यं तेजो वेद त्वं तु न वेत्सि।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्घृ॒तव॑त्प॒दम॑नू॒च्यते॒ स आ॑साव्ँ॒वर्ण॒स्तन्त्वा॑ स॒मिद्भि॑रङ्गिर॒ इत्या॑ह सामिधे॒नीष्वे॒व तज्ज्योति॑र्जनयति॒ स्त्रिय॒स्तेन॒ यदृच॒स्स्त्रिय॒स्तेन॒ यद्गा॑य॒त्रिय॒स्स्त्रिय॒स्तेन॒ यत्सा॑मिधे॒न्यो॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -939,6 +1050,8 @@ he generated fire.
 य᳓द् घृत᳓वत् पद᳓म् अनूच्य᳓ते  
 स᳓ आसाव्ँ व᳓र्णः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -964,6 +1077,7 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 
 किं तत्तेज इति तदुच्यते- घृतशब्दोपेतः पादोऽनूच्यत इति सोऽयमनुच्यमानः पादः सामिधेनीनां वर्णः सारभूतं तेजः।
 </details>
+</details>
 
 ## त᳓न् त्वा समि᳓द्भिर् अङ्गिर!
 
@@ -971,6 +1085,8 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 
 त᳓न् त्वा समि᳓द्भिर् अङ्गिर! इ᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -993,11 +1109,14 @@ The character of the Samidhenis is the quarter-verse which is repeated with the 
 
 ज्योतिष्मत्त्वमासां घृतसम्बन्धेन क्रियते तेजो घृतमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामिधेनी᳓ष्व् एव᳓ त᳓ज् ज्यो᳓तिर् जनयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1021,6 +1140,7 @@ verily he generates light in the Samidhenis.
 
 तेन त्वं पादं पठन्नपि महिमानं न जानासि। अहं तु जानामि। तस्मादार्द्रकाष्ठे मयाऽग्निरुत्पादितः।
 </details>
+</details>
 
 ## वृषण्वती
 
@@ -1030,6 +1150,8 @@ verily he generates light in the Samidhenis.
 स्त्रि᳓यस् ते᳓न य᳓द् गायत्रि᳓यः ।  
 स्त्रि᳓यस् ते᳓न य᳓त् सामिधेन्यः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1059,16 +1181,22 @@ They are feminine in that they are Rc (verses), they are feminine in that they a
 
 स्त्रियस्तेनेति। ऋग्गायत्रीसामिधेनीशब्दैः स्त्रीलिङ्गैरभिधीयमानत्वात्स्त्रीत्वमेव।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वृष॑ण्वती॒मन्वा॑ह [47]  तेन॒ पुँस्व॑ती॒स्तेन॒ सेन्द्रा॒स्तेन॑ मिथु॒ना
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓षण्वतीम् अ᳓न्वाह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1096,6 +1224,7 @@ He repeats a verse with the word 'Male' in it [4].
 
 अतः पुरुषत्वाय वृषञ्शब्दवतीमृचं ब्रूयात्। तेन पाठेन पुंस्वतीः पुरुषवत्यः सेन्द्रा इन्द्रिययुक्ताः स्त्रीपुरुषमिथुनरूपाः संपद्यन्ते। ईडेन्य इत्येषाऽपि वृषण्वती। समाग्निरिध्यने वृषेत्यन्ते पठितत्वात। वृषो अग्निरित्येषाऽपि वृषशब्दोपेतत्वाद्वृषण्वती। तयोरप्येषा प्रशंसा द्रष्टव्या।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1103,6 +1232,8 @@ He repeats a verse with the word 'Male' in it [4].
 ते᳓न से᳓न्द्राः ।   
 ते᳓न मिथुनाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1123,6 +1254,7 @@ By it he gives them a husband, makes them possess Indra, and mates them.
 
 अ॒ग्निर्दे॒वाना॑न्दू॒त आसी॑दु॒शना॑ का॒व्योऽसु॑राणा॒न्तौ प्र॒जाप॑तिम्प्र॒श्ञमै॑ताँ॒ स प्र॒जाप॑तिर॒ग्निन्दू॒तव्ँवृ॑णीमह॒ इत्य॒भि प॒र्याव॑र्तत॒ ततो॑ दे॒वा अभ॑वन्प॒रासु॑रा॒
 </details>
+</details>
 
 ## अग्नि-दौत्यम्
 
@@ -1131,6 +1263,8 @@ By it he gives them a husband, makes them possess Indra, and mates them.
 अग्नि᳓र् देवा᳓नान् दूत᳓ आ᳓सीत् +++(→चादिलोपे विभाषा)+++ …
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1157,11 +1291,14 @@ Agni was the messenger of the gods,
 अथाग्निं दूतमित्येतामृचं विशेषतः प्रशंसति-  
 अग्निर्देवानामिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उश᳓ना+++(ः)+++ काव्यो᳓ ऽसुराणाम् +++(दूत आसीत्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1187,11 +1324,14 @@ Uśanas Kavya of the Asuras.
 
 देवाःस्वकार्येष्वग्निं दूतत्वेन प्रेषयन्ति। असुरास्तु कवेः पुत्रमुशनसम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ᳓ प्रजा᳓पतिम् प्रश्ञ᳓म् ऐताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1217,11 +1357,14 @@ They went to question Prajapati;
 
 तावुभावपि प्रजापतिमुपेत्य पृष्टवन्तौ—आवयोर्मध्ये संधिविग्रहादिकार्येषु कस्य दौत्यमुचितमिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अग्नि᳓न् दूतव्ँ᳓ वृणीमह" इ᳓त्य् +++(उशनसः)+++ अभि᳓ पर्या᳓वर्तत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1247,11 +1390,14 @@ he turned away (from Uśanas) (with the words), 'Agni as messenger we choose.'
 
 तदानी प्रजापतिरग्निं दूतं वृणीमह इति मन्त्रेणोत्तरमुवाच। उक्त्वा चोशनसः सकाशात्परावृत्याग्नेरभिमुखोऽभूत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो देवा᳓ अ᳓भवन् परा᳓सुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1277,10 +1423,14 @@ Then the gods prospered, the Asuras were defeated.
 
 ततो देवानां विजयोऽभूदसुराश्च पराभूताः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यस्यै॒वव्ँवि॒दुषो॒ऽग्निन्दू॒तव्ँवृ॑णीमह॒ इत्य॒न्वाह॒ भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1290,6 +1440,8 @@ Then the gods prospered, the Asuras were defeated.
 प᳓रास्य भ्रा᳓तृव्यो भवति ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1322,6 +1474,7 @@ The man for whom, knowing thus, he repeats, 'Agni as messenger we choose, prospe
 
 अ॒ध्व॒रव॑ती॒मन्वा॑ह॒ भ्रातृ॑व्यमे॒वैतया॑ [48] ध्व॒र॒ति॒ शो॒चिष्के॑श॒स्तमी॑मह॒ इत्या॑ह प॒वित्र॑मे॒वैतद्यज॑मानमे॒वैतया॑ पवयति॒ समि॑द्धो अग्न आहु॒तेत्या॑ह
 </details>
+</details>
 
 ## अध्वरवती
 
@@ -1329,6 +1482,8 @@ The man for whom, knowing thus, he repeats, 'Agni as messenger we choose, prospe
 
 अध्वर᳓वतीम् अ᳓न्वाह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1357,11 +1512,14 @@ He repeats a verse with the word 'imperishable';
 
 हिनस्तित्यर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓तृव्यम् एवै᳓त᳓या ध्वरति +++(=नाशयति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1382,6 +1540,7 @@ verily by it he causes his enemy to perish [5].
 
 ध्वरति हिनस्तीति ध्वृ मूर्छने ।
 </details>
+</details>
 
 ## शो॒चिष्के॑श॒स्तमी॑मह॒
 
@@ -1390,6 +1549,8 @@ verily by it he causes his enemy to perish [5].
 "शोचि᳓ष्केशस् त᳓म् ईमह" इ᳓त्य् आह ।
 पवि᳓त्रम् एवै᳓त᳓द् य᳓जमानम् एवै᳓त᳓या पवयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1417,6 +1578,7 @@ verily by it he causes his enemy to perish [5].
 तस्यामृचि तृतीयपादं प्रशंसति-  
 शोचिष्केश इति। मध्यपादेऽग्निः पावक ईड्य इति पावकशब्देनवै पवित्रत्वं विस्पष्टम्। अत्र शोचिःशब्देन शुचिहेतुनां रश्मीनामुक्तिमभिप्रेत्य पवित्रमेतद्वाक्यमित्यभिधीयते। तस्मादेतयचां यजमानमेव शोधयति।
 </details>
+</details>
 
 ## समिद्धो अग्ने
 
@@ -1424,6 +1586,8 @@ verily by it he causes his enemy to perish [5].
 
 स᳓मिद्धो अग्न आहुते᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1450,11 +1614,14 @@ verily by it he causes his enemy to perish [5].
 यदुक्तं सूत्रकारेण- “समिद्धो अग्न आहुतेत्यभिज्ञायैकामनूयाजसमिधमवशिष्य सर्वमिध्यशेषमभ्यादधाति” इति। तदेतद्धृदि निधाय समिद्धो अग्न इति मन्त्रं पुनः प्रशंसति-  
 समिद्धो अग्न इति। समिद्धो अग्न इत्यनेन भूतार्थवाचिना क्तप्रत्ययेन सामिधेनीसाध्यस्याग्निसमिन्धनस्य समाप्तिः सूच्यते। परिसमाप्तये धीयमानः प्रक्षिप्यमाणाः काष्ठविशेषः परिधिः। ‘समिद्धो अग्न आहुत’ इत्येषा काचिदध्वरवती। देवान्यक्षि स्वध्वरेत्युक्तत्वात्। आ जुहोत इत्यसावप्यध्वरवती। अग्निं प्रयत्यध्वर इत्युक्तत्वात्। तयोरप्यृचोरुक्तप्रशंसा योजनीया। तदेवं सर्वासामृचां सामान्यतो विशेषतश्च प्रशंसा दर्शिता।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिधि᳓म् एवै᳓त᳓म् प᳓रि दधात्य् अ᳓स्कन्दाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1475,6 +1642,7 @@ verily he places around a barrier that may not be climbed.
 
 तथा सति समिद्ध इति समाप्तिसूचनादेतं मन्त्रं परिधित्वेन स्थापितवान्भवति। स च परिधिः प्रक्षिप्यमाणसमिघामस्कन्दायाविनाशाय भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1482,6 +1650,8 @@ verily he places around a barrier that may not be climbed.
 य᳓था बहिᳶपरिधि᳓ स्क᳓न्दति ,  
 तादृ᳓ग् एव᳓ त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1512,6 +1682,7 @@ If he were to add anything further, it would be just as when (a libation) falls 
 
 त्रयो॒ वा अ॒ग्नयो॑ हव्य॒वाह॑नो दे॒वाना॑ङ्कव्य॒वाह॑नᳶ पितृ॒णाँ स॒हर॑क्षा॒ असु॑राणा॒न्त ए॒तर्ह्या शँ॑सन्ते॒ माव्ँव॑रिष्यते॒ माम् [49]  इति॑ वृणी॒ध्वँ ह॑व्य॒वाह॑न॒मित्या॑ह
 </details>
+</details>
 
 ## हव्यवाहनः
 
@@ -1521,6 +1692,8 @@ If he were to add anything further, it would be just as when (a libation) falls 
 हव्यवा᳓हनो देवा᳓नाम् ,  
 कव्यवा᳓हनᳶ पितृणा᳓म् , सह᳓रक्षा अ᳓सुराणाम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1546,12 +1719,15 @@ There are three Agnis, the oblation bearer of the gods, the bearer of the offeri
 
 चरमायामृचि हव्यवाहनमित्यग्निविशेषणं प्रशंसति-  त्रयो वा इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एत᳓र्ह्य् आ᳓ शँसन्ते
 "माव्ँ᳓ वरिष्यते, मा᳓म्" इ᳓ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1572,11 +1748,14 @@ They repeat, 'Me will he choose, me' [6].
 
 त्रयो ऽप्य् एते ऽग्नयो ऽस्मिन्काले आशंसन्ते प्रार्थयन्ते मामयं वरिष्यते इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वृणीध्वँ᳓ हव्यवा᳓हनम्" इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1604,11 +1783,14 @@ They repeat, 'Me will he choose, me' [6].
 
 यदुक्तमाश्वलायनेन – “सामिधेनीनामुत्तमेन प्रणवेनाग्ने महा असि ब्राह्मण भारतेति निगदेऽवसाय यजमानस्याऽऽर्षेयान्प्रवृणीते यावन्तः स्युः परं परं प्रथमम्” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓ देवा᳓नान्, तव्ँ᳓ वृणीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1624,6 +1806,7 @@ They repeat, 'Me will he choose, me' [6].
 
 यः । ए॒व । दे॒वाना॑म् । तम् । वृ॒णी॒ते॒ ।
 </details>
+</details>
 
 ## आर्षेय-वरणम्
 
@@ -1631,6 +1814,8 @@ They repeat, 'Me will he choose, me' [6].
 
 आर्षेयव्ँ᳓ वृणीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1661,11 +1846,14 @@ He chooses one of a Rsi's family;
 
 तदेतद्विधत्ते- आर्षेयमिति। ऋषेरपत्यमार्षेयमात्पीयगोत्रर्षींस्तद्धित प्रत्ययान्तानामन्त्रितविभक्त्या यथाप्रवरं वृणीते। यथा, अग्ने महाँ असि ब्राह्मण भारत। भार्गवच्याव नाप्नवानौर्वजामदग्न्येति भृगुगोत्राणां पञ्चार्षेयः प्रवर इति। अनेन तत्तदपत्यतयाऽग्निरुपचर्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब᳓न्धोर् एव᳓ नै᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1691,11 +1879,14 @@ verily he departs not from the connexion,
 
 एवं वृणानः पुरुषो बन्धोर्भृग्वादेः सकाशान्नैति नापगच्छति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो स᳓न्तत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1721,16 +1912,22 @@ verily he departs not from the connexion,
 
 अपि चेदमार्षेयवरणमस्य पुत्रादिसंतानाय भवति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒रस्ता॑द॒र्वाचो॑ वृणीते॒ तस्मा॑त्प॒रस्ता॑द॒र्वाञ्चो॑ मनु॒ष्या॑न्पित॒रोऽनु॒ प्र पि॑पते ॥ [50]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर᳓स्ताद् अर्वा᳓चो वृणीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1757,12 +1954,15 @@ He chooses, beginning at the further end, in order of descent;
 अस्मिन्वरणे प्रकारविशेषं विधत्ते- परस्तादर्वांचा इति ।  
 वर्तमानं यजमानमपेक्ष्य पूर्वभावी यो गोत्रप्रवर्तकस्तमारभ्य तदपत्यपरम्परयाऽर्वाचो नीचान्वृणीते। तथैव पूर्वमुदाहृतं भृगोरपत्यं च्यवनस्तस्यापत्यमप्नवानत्तस्यापत्यमौर्वस्तस्यापत्यं जमदग्निस्तस्य संततिर्यजमान इति। तदेतदर्वाक्त्वम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पर᳓स्ताद् अर्वा᳓ञ्चो मनुष्या᳙न् पितरो᳓  
 ऽनु प्र᳓ पिपते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1792,4 +1992,5 @@ therefore the Pitrs drink after men in order of descent, beginning at the furthe
 यस्माद्धोता पूर्वभाविनमारभ्यार्वाचो वृणीते तस्मादेव कारणाल्लोकेऽपि पूर्वपूर्वभाविनः पितर उत्तरोत्तरभाविनः पुत्राननुक्रमेण पालयन्ति ।।
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये द्वितीयकाण्डे पञ्चमप्रपाठकेऽष्टमोऽनुवाकः ।। ८ ।।
+</details>
 </details>

@@ -5,9 +5,12 @@ title = "१५ ऐन्द्राग्नग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1ऋतुपात्रेणैन्द्राग्नं गृह्णाति ॥ 'यदैन्द्राग्नमृतुपात्रेण गृह्णाति' इति ब्राह्मणम्, 'ओजोभृतौ वा एतौ देवानाम्' इत्यादि च । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/012/01_indrAgnI_A.md">
@@ -318,17 +321,21 @@ Indrāgni kommt zu diesem Saft, durch Lieder zu dem schönen Duft, O trinkt ihn,
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसीन्द्राग्निभ्यां त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -355,13 +362,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्राग्नि᳓भ्यान्त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,17 +386,23 @@ to Indra and Agni thee!
 
 इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिरिन्द्राग्निभ्यां त्वेति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, इन्द्राग्नि᳓भ्यान्त्वा ॥ [16]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,6 +417,7 @@ This is thy birthplace; to Indra and Agni thee!
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । ते॒ । योनिः॑ । इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् । त्वा॒ ॥
+</details>
 </details>
 
 इति चतुर्थे पञ्चदशोनुवाकः ॥  

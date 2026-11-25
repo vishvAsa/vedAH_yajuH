@@ -6,9 +6,12 @@ title: ०५ हविःप्रोक्षणादिः
 
 १ गायत्री, ६,१४ एकपदा गायत्री,  प्रजापतिर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अप उत्पुनाति - देवो व इति गायत्र्या । 'सावित्रियर्चा' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
@@ -64,6 +67,8 @@ with the rays of the bright sun.
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2उन्महयन्नुपोत्तिष्ठति - आप इति ॥
@@ -73,12 +78,15 @@ ____
 
 आपो॑ देवीरग्रेपुवो अग्रेगु॒वोऽग्र॑ इ॒मय्ँ य॒ज्ञन्न॑य॒ताग्रे॑ य॒ज्ञप॑तिन्धत्त यु॒ष्मानिन्द्रो॑ऽवृणीत वृत्र॒तूर्ये॑ यू॒यमिन्द्र॑मवृणीध्वव्ँ वृत्र॒तूर्ये
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे)+++ आ᳓पो देवीर् अग्रेपुवो, अग्रेगुवो᳓+++(=अग्रेसराः)+++ ऽग्र इमय्ँ᳓ यज्ञ᳓न् नयत ।  
 अ᳓ग्रे यज्ञ᳓पतिन् धत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,12 +120,15 @@ Ye divine waters, that go in front and first purify, forward lead this sacrifice
 
 'पत्यावैश्वर्ये' (पा.सू. 6.2.18) इति यज्ञपतौ पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युष्मा᳓न् इ᳓न्द्रो ऽवृणीत +++(अपाम् अभि-प्रवृत्ते)+++ वृत्र-तू᳓र्ये+++(=वधे)+++  ।  
 यूय᳓म् इ᳓न्द्रम् अवृणीध्वव्ँ वृत्र-तू᳓र्ये  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,18 +160,24 @@ You Indra chose for the contest with Vrtra, ye chose Indra for the contest with 
 
 'वृत्रँ ह हनिष्यन्निन्द्र आपो वव्रे' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रोक्षणीः प्रोक्षति +++(वचनाद् एव)+++
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रो᳓क्षितास् स्थ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,12 +198,16 @@ Ye are sprinkled.
 
 स्वत एव शुद्धा यूयं शुद्धाः स्थ इति मन्त्रोच्चारणमेवासां प्रोक्षणम् । । 'अद्भिर्ह्येव हवीँषि प्रोक्षति, ब्रह्मणापः' (तै.सं. 2.6.5) इत्यादि ब्राह्मणम् । 'प्रोक्षितास्थेत्याह । तेनापः प्रोक्षिताः' (तै.ब्रा. 3.2.5) इति च । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4पुरोडाशीयान् प्रोक्षति - अग्नय इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +215,8 @@ ____
 अग्न᳓ये वो जु᳓ष्टम्+++(=प्रियं)+++ +++(यथा तथा)+++ प्रो᳓क्षामि  ।  
 अग्नी᳓षो᳓माभ्याम् [वो जु᳓ष्टम् प्रो᳓क्षामि ] +++(र᳓क्षसाम् अ᳓पहत्यै)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,20 +238,25 @@ I sprinkle you agreeable to Agni, to Agni and Soma.
 
 अग्न्यर्थं युष्मान्प्रोक्षामि आद्भिस्सिञ्चामि । जुष्टं प्रियं यथा भवति तथा सिञ्चामि । 'नित्यं मन्त्रे' (पा.सू. 6.1.210) इति जुष्टशब्द आद्युदात्तः । अग्नीषोमाभ्यामित्यत्र 'वो जुष्टं प्रोक्षामि' इत्यनुषज्यते । 'देवताद्वन्द्वे च' (पा.सू. 6.2.141) इति युगपत्स्वरः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पात्राणि प्रोक्षति - शुन्धध्वमिति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/shundhadhvam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पात्राणि!)+++ शु᳓न्धध्वन् दै᳓व्याय क᳓र्मणे देवयज्या᳓यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,32 +277,42 @@ Be ye pure for the divine rite, the sacrifice to the gods.
 
 1सान्नाय्यपात्राणि प्रोक्षति - शुन्धध्वमिति ॥ शुन्ध शुद्धौ, उदात्तेत्, व्यत्ययेनात्मनेपदम् । यद्वा, शुन्ध शौचकर्मणि ; अस्माण्ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । 'यक्चिणोः प्रतिषेधे णि श्रन्धिग्रन्थि' (पा.सू. 3.1.89 वा 1) इत्यादिना यक्प्रतिषेधः । 'बहुलं संज्ञाछन्दसोः' (उ.सू. 190) इति णिलुक् । लसार्वधातुकानुदात्तत्वे (पा.सू. 6.1.186) धातुस्वरः । देवानामिदं दैव्यं 'देवाद्यञञौ' (पा.सू. 4.1.85 वा 3) इति यञ्प्रत्ययः प्राग्दीव्यतीयः । ञित्त्वादाद्युदात्तत्वं । 'छन्दसि निष्टर्क्य' (पा.सू. 3.1.123) इत्यादौ देवयज्याशब्दो यप्रत्ययान्तो निपातितः । हे पात्राणि देवयज्यात्मने दैव्याय कर्मणे शुन्धध्वं शुद्धानि भवत, स्वयमेवात्मानं शोधयतेति वा । प्राधान्यख्यापनार्था देवशब्दावृत्तिः, साकल्यार्था वा, यथा 'निधीनां त्वा निधिपतिं हवामहे' (तै.सं. 7.4.12) इति ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 गतम् (तै.सं. 1.1.3) ।
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनमवधूनोति
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/avadhUtaM.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवधूनोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वधूतँ र᳓क्षो᳓ऽवधूता अ᳓रातयः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,7 +333,7 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 6कृष्णाजिनमवधूनोति - अवधूतमिति यजुरादिकयैकपदया गायत्र्या ॥ अवधूतं विनाशितम् । शिष्टं व्यख्यातं प्रत्युष्टादि मन्त्रेण (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/bhaTTa-bhAskara-TIkA/1/2_somayAgArambhaH/02_barhirAstaraNam/raxorAtI.md">
 
 रक्षेर् असुनि अर्थविपर्यासः । 'क्षर मूर्छने' इत्यस्य वर्णविपर्यासो वा ।
 
@@ -303,12 +341,16 @@ The Raksas is shaken off, the evil spirits are shaken off.
 
 </div>
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कृष्णाजिनम् अवस्तृणाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +358,8 @@ ____
 अ᳓दित्यास् त्व᳓गसि ।  
 प्र᳓ति +++(तादृशीं)+++ त्वा+++(ं)+++ पृथिवी᳓ +++(स्वस्या उपरि)+++ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,14 +387,17 @@ Thou art the skin of Aditi, may the earth' recognize thee [1].
 
 7कृष्णाजिनमवस्तृणाति - अदित्या इति ॥ अदितिः अखण्डनीया । कर्मणि क्तिन्, अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । अखण्डितायाः पृथिव्यास्त्वगिव प्रियतममसि, अतस्त्वामास्तीर्णां पृथिवी प्रतिवेत्तु आत्मन उपरि तवावस्थानमनुजानातु न न्यक्कारयतु । सा तु माऽवमंस्त । पृथिवीशब्दो ङीषन्तोन्तोदात्तः ॥
 </details>
-
+</details>
 </div>  
 
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उलूखलमध्यूहति - अधिषवणमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +405,8 @@ ____
 अधि-ष᳓वणम्+++(=निपीडनम्)+++ असि वानस्पत्य᳓म् ।  
 प्र᳓ति त्वा᳓+++(ं)+++ ऽदित्यास् त्व᳓ग् +++(कृष्णाजिनरूपम्)+++ वेत्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,12 +434,16 @@ Thou art the plank' of wood, may the skin of Aditi recognize thee.
 
 अधिषूयते अभिपीड्यते अवहन्यतेऽस्मिन्निति सुनोतेरधिकरणे ल्युट् (पा.सू. 3.3.117), उपसर्गात्सुनोति' (पा.सू. 8.3.65) इत्यादिना षत्वम्, कृदुत्तरपदप्रकृतिस्वरेण (पा.सू. 6.2.139) लिति (पा.सू. 6.1.193) प्रत्ययात्पूर्वस्योदात्तत्वम् । वनस्पतेर्विकार इति पत्युत्तरपदलक्षणो ण्यः (पा.सू. 4.1.85) । ईदृशं महाभागं त्वमसि । तस्मात् अदित्यास्त्वग्भूतं कृष्णाजिनं त्वां प्रतिवेत्तु अनुजानातु । आत्मोपरि तवावस्थानं क्षमताम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9पुरोडाशीयानावपति - अग्नेरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,6 +453,8 @@ ____
 +++(→यदा᳓ हि᳓ प्रजा᳓ ओ᳓षधीनाम् अश्ञ᳓न्ति,  
 अथ वा᳓चव्ँ वि᳓सृजन्ते ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,11 +490,14 @@ Thou art the body of Agni, loostener of speech.
 
 एवं विश्वजननं त्वां देववीतये देवानां भक्षणार्थं गृह्णामि उलूखले त्वां प्रक्षिपामि । दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓-वीतये+++(=भोगाय)+++ त्वा गृह्णामि᳓ ।  +++(दासीभारादित्वात् (पा.सू. 6.2.42) पूर्वपदप्रकृतिस्वरत्वम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,18 +513,24 @@ I grasp thee for the joy of the gods.
 
 दे॒ववी॑तय॒ इति॑ दे॒व-वी॒त॒ये॒ । त्वा॒ । गृ॒ह्णा॒मि॒ ।
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10मुसलमवदधाति - अद्रिरसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मुसल!)+++ अ᳓द्रिर् असि वानस्पत्यः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -493,11 +557,14 @@ Thou art the stone of wood.
 
 'छन्दसि च' (पा.सू. 5.1.67) इति यत्प्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ इद᳓न् देवे᳓भ्यो हव्यँ᳓ सुश᳓मि+++(=सु शाम्यतीति)+++  शमिष्व᳓+++(=शामय)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,12 +587,16 @@ Do thou with good labour elaborate this offering for the gods.
 
 'बहुळं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11वृषारवेण दृषदुपले समाहन्ति - इषमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +604,8 @@ ____
 इ᳓षम् आ᳓  वद  +++(देवेभ्यः!)+++।  
 ऊ᳓र्जम्+++(=रसं)+++ आ᳓ वद  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -561,11 +634,14 @@ Utter food, utter strength;
 
 - [यदिदमन्नं आवद देवेभ्य आवेदय, युष्मदर्थमिदमनेन यजमानेन संस्क्रियते, इति ]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यज्ञायुधानि!)+++ द्युम᳓द् +++(अन्नं)+++ वदत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -586,6 +662,7 @@ Make ye glorious sounds.
 
 इदानीं यज्ञायुधान्युच्यन्ते - द्युमत् दीप्तिमत् । दिवेः क्विप्प्रत्ययान्तान्मतुपि 'दिव उत्' (पा.सू. 6.1.131) इत्युत्वे 'ह्रस्वनुड्भ्यां मतुप्' (पा.सू. 6.1.176) इति मतुप उदात्तत्वम् । ईदृशमिदमन्नं संस्क्रियमाणं देवेभ्यो वदत वेदयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -593,6 +670,8 @@ Make ye glorious sounds.
 +++(म᳓नोश् श्रद्धा᳓-देवस्य य᳓जमानस्यासुर-घ्नी᳓ वा᳓ग्  
 यज्ञायुधे᳓षु प्र᳓विष्टा ऽऽसीत् ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,20 +692,25 @@ May we be victorious in contest.
 
 ननु देवास्स्वयमेव ज्ञास्यन्ति, तत्किमनेन घोषणेनेत्यत्राह - वयं युष्मदीयेन शब्देन सङ्घातं भ्रातृव्यसमूहं जेष्म जयेम । जयतेर्लेटि 'सिब्बहुळं लेटि' (पा.सू. 3.1.34) इति सिप्प्रत्यः, 'बहुळं छन्दसि' (पा.सू. 2.4.73) इति शपो लुक् । सङ्घातशब्दस्य थाथादिस्वरेण (पा.सू. 6.2.144) उत्तरपदान्तोदात्तत्वम् । 'मनोश्श्रद्धा देवस्य' (तै.ब्रा. 3.2.5) इत्यादिब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12शूर्पमुपयच्छति - वर्षवृद्धमसीति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/varSha-vRddham.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्ष᳓-वृद्धम् असि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,25 +731,33 @@ Thou art made to grow by the rains.
 
 वर्षेण वर्धितमसि । पूर्ववण्णिलुक् (उ.सू. 190) । 'तृतीया कर्मणि' (पा.सू. 6.2.48) इति पूर्वपदप्रकृतिस्वरत्वम् । वर्षशब्द उञ्छादित्वादन्तोदात्तः (पा.सू. 6.1.160) ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्यातं बर्हिषि (तै.सं. 1.1.2) । इह तु शूर्पमुच्यते ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13पुरोडाशीयानुद्वपति - प्रति त्वेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति त्वा वर्ष᳓वृद्धव्ँ वेत्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -686,12 +778,16 @@ May that which is increased by the rain recognize thee.
 
 हे पुरोडाशीयसमूह वर्षवृद्धं त्वां शूर्पः प्रतिवेत्तु अनुजानातु आत्मोपरि तव प्रक्षेपणं क्षमताम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14परापुनाति - परापूतमिति यजुरादिकैकपदया गायत्र्या ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -701,6 +797,8 @@ ____
 
 +++('यज्ञँ रक्षाँस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -721,18 +819,24 @@ The Raksas is cleared away, the evil spirits are cleared away.
 
 परापूतं परास्तम् । शिष्टं प्रत्युष्टादिना व्याख्यातम् (तै.सं. 1.1.2) । 'गतिरनन्तरः' (पा.सू. 6.2.49) इति पूर्वपदप्रकृतिस्वरत्वम् । 'यज्ञँ रक्षाँस्यनुप्राविशन्' (तै.ब्रा. 3.2.5) इति ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15तुषान्निरस्यति - रक्षसामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓क्षसाम् भागो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -753,18 +857,24 @@ Thou art the share of the Raksases.
 
 सुबोधम् । 'कर्षात्वतः' (पा.सू. 6.1.159) इति भागशब्दोन्तोदात्तः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16त्वचं विविनक्ति - वायुरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓र् वो +++(तण्डुलेभ्यः कणान्)+++ वि᳓विनक्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -785,20 +895,25 @@ Let the wind separate you.
 
 वायुर्वो युष्मान् विविनक्तु तण्डुलेभ्यः कणान्पृथक्करोतु ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तण्डुलान् [कृष्णाजिने?] प्रस्कन्दयति
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवो᳓ वस् सविता᳓ हि᳓रण्यपाणिᳶ प्र᳓तिगृह्णातु ॥ [8]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -819,7 +934,7 @@ Let the god Savitr of golden hands, seize you.
 
 17तण्डुलान् प्रस्कन्दयति - देवो व इति ॥ देवस्सविता सर्वस्य प्रेरकः हिरण्यपाणिः हिरण्याभरणपाणिः युष्मान् प्रतिगृह्णातु प्रतिगृह्य रक्षतु । हिरण्यस्य विकारो वलयाङ्गुलीयकादिः पाण्योर्य स्येति समुदायविकारषष्ठ्या (पा.सू. 2.2.24 वा 13) विगृह्य 'सप्तम्युपमानपूर्वपदस्य बहुव्रीहिर्वाच्यो वाचोत्तरपदलोपश्च' (पा.सू. 2.2.24 वा 12) इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । 'उशीरदाशेरकपालपलालशैवालश्यामाकशरीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्' (फि.सू. 67) इति हिरण्यशब्द आद्युदात्तः । 'अन्तरिक्षादिव' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ॥
 </details>
-
+</details>
 </div>  
 
 इति पञ्चमोनुवाकः ॥

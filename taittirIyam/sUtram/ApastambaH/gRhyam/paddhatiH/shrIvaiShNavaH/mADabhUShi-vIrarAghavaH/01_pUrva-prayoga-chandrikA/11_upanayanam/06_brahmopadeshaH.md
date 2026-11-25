@@ -5,11 +5,14 @@ title = "०६ ब्रह्मोपदेशः"
 सदस्यान् प्रणम्य  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -20,6 +23,8 @@ title = "०६ ब्रह्मोपदेशः"
 न᳓मो दिवे᳓॥   
 न᳓मᳶ पृथिव्यै᳓॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,19 +49,20 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
+</details>
+</details>
 </div>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-
-स᳓प्रथ सभा᳓म् मे गोपाय ।  
-ये᳓ च स᳓भ्यास् सभास᳓दः ।  
-ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
-स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
-
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+</details>
 </div>
 
 (सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
-
 </div>
 
 दक्षिणां दत्वा  

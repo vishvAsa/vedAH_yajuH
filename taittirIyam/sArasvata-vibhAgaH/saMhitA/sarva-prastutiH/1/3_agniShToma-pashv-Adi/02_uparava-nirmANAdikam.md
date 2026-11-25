@@ -6,15 +6,20 @@ title = "०२ उपरवनिर्माणादिकम्"
  सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उपरवान् खनति पूर्वयोर् दक्षिणम् एवाग्रे - रक्षोहण इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षो-ह᳓णो +++(अभिचार-हेतुक--निखात--)+++वल-ग--ह᳓नो वैष्णवा᳓न् खनामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,8 +48,11 @@ I dig those which slay the Raksas, which slay the spell, which are of Visnu.
 
 देवानां नासिकादिप्रास्थानीया उपरवाः । 'शिरो वा एतद्यज्ञस्य यद्धविर्धानं प्राणा उपरवाः' इति ब्राह्मणम् । ते च खन्यमाना रक्षांसि वलगांश्च निघ्नन्तीति । 'असुरा वै निर्यन्तः इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2पांसूनुद्वपति - इदमहमिति ॥ 
@@ -54,12 +62,15 @@ _______
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ गाय॒त्रेण॒ छन्द॒सा 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/02_uparava-nirmANAdikam/idam_aham.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इदम॒हन्तव्ँव॑ल॒गमुद्व॑पामि॒ यन्न॑स्समा॒नो यमस॑मानो निच॒खाने॒दमे॑न॒मध॑रङ्करोमि॒ यो न॑स्समा॒नो योऽस॑मानोऽराती॒यति॑ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +79,8 @@ _______
 य᳓न् नस् समानो᳓  
 य᳓म् अ᳓समानो निचखा᳓न।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,6 +102,7 @@ Here do I cast out the spell which an equal or an unequal hath buried against us
 
 2पांसूनुद्वपति - इदमहमिति ॥ इदमिति क्रियाविशेषणम् । तं वलगमहमिदमुद्वपामि उद्धृत्य बहिः प्रक्षिपामि । कमित्याह – नः अस्माकं समानस्तुल्यः यं वलगं निचखान । 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम् । उदात्तवता तिङा' इति समासः । यश्चास्माकमसमानः अतुल्यः ऊनः उत्कृष्टो वा वलग निचखान, तमुद्वपामीति । 'द्वौ वाव पुरुषौ यश्चैव समानो यश्चासमानः' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -98,6 +112,8 @@ ________
 यो᳓ऽसमानो ऽरातीय᳓ति  
 …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,13 +143,15 @@ Here do I overthrow him who equal or unequal is ill-disposed to us.
 अत्र विश्वासप्रस्तुतौ मूले पि वाक्यविभागे दोषः भाति। निचखानेदम् इदं पूर्ववाक्यम् समाप्तमासीत् । इदम् इति पदम् अग्रिमवाक्यान्वयि । 
 किञ्च – एनमहमधरं अधोगतिं करोमि । इदमिति पूर्ववत्क्रियाविशेषणम् । इति टीका । अतः व्यत्यासः कृतः
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गा᳓यत्रे᳓ण छ᳓न्दसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,17 +174,23 @@ The spell is overcome by the Gayatri metre.
 
 एवं दक्षिणपूर्वमारभ्य सर्वेभ्य उद्वपति । त्रैष्टुभेन जागतेनानुष्टुभेनेति विशेषोन्यत्र ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानस्याधस्तात्पदपांसूनुद्वपति - अवबाढ इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓व-बाढो+++(=बद्धो)+++ वलगः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,18 +211,24 @@ The spell is overcome.
 
 यजमानस्य पादयोर् अधस्तात् **बाढो** बद्धो **वलगो** ऽस्तु । बाहृ प्रयत्ने, 'क्षुब्धस्वान्त' इत्यत्र निपातितः, 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4उपरवान् क्रमेणावमृशतो ऽध्वर्युयजमानौ । ते चाधस्तात् सतृण्णाः । 'तस्मात्सतृण्णा अन्तरतः प्राणाः इति ब्राह्मणम् । बहिरसतृण्णाः । 'न सम्भिनत्ति तस्मादसभिन्नाः प्राणाः' इति ब्राह्मणम् । पूर्वयोर्दक्षिणमेवाध्वर्युरवमृशत्युत्तरं यजमानः ।    
 अथ यजमानः पृच्छति - अध्वर्यो किमत्रेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अध्वर्यो!)+++ कि᳓म् अ᳓त्र?
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,17 +244,23 @@ What is here?
 
 किम् । अत्र॑ ।  
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5इतर आह - भद्रमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(भो यजमान!)+++ भद्र᳓म्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -245,17 +281,23 @@ Good.
 
 भद्रं भजनीयं कल्याणम् । भदि कल्याणे, रन्प्रत्ययः, उपधालोपश्च ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमान आह - तन्नौ सहेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अध्वर्यो!)+++ त᳓न् नौ सह᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,8 +318,11 @@ ________
 
 तद्भद्रमावयोस्सहैवास्तु । अथाध्वर्युः पृच्छति - यजमान किमत्रेति । भद्रमित्यादि यथायथम् । एवं सर्वत्र ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7-10उपरवान् अभिमृशति सर्वान् एवानुर्पूवं - विराडिति ॥ 
@@ -287,11 +332,14 @@ _______
 
 वि॒राड॑सि सपत्न॒हा स॒म्राड॑सि भ्रातृव्य॒हा स्व॒राड॑स्यभिमाति॒हा वि॑श्वा॒राड॑सि॒ विश्वा॑सान्ना॒ष्ट्राणाँ॑ ह॒न्ता [3]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓ड् असि सपत्नहा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -312,12 +360,15 @@ Thou art Viraj, slaying our rivals;
 
 विविधं राजतीति विराट् । 'सत्सूद्विष' इति क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । सपत्राश्शत्रवस्तेषां हन्ता । 'बहुलं छन्दसि' इति क्विप्। यस्मात्त्वं विविधं दीप्यसे तस्मात्सपत्नहा ।  
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्रा᳓ड् असि भ्रातृव्यहा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -338,12 +389,15 @@ thou art Samraj, slaying our foes;
 
 सङ्गतं दीप्यत इति सम्राट् । 'मो राजि समः क्वौ' इति मस्य मः । यस्मादेवं तस्मात्त्वं भ्रातृव्यहा । भ्रातृव्यास्सपत्नाः । 'व्यन् सपत्ने' इति व्यन्प्रत्ययः । तेषां हन्ता बाह्याभ्यन्तरभेदेन नित्यानित्यभेदेन वा शत्रूणां पृथगभिधानम् ।  
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरा᳓ड् अस्य् अभिमातिहा᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,12 +418,15 @@ thou art Svaraj, slaying the enemy;
 
 स्वायत्तं दीप्यस इति स्वराट् । यस्मादेवं तस्मात्त्वं अभिमातिहा । अभिमातिः पाप्मा । मन्यतेः क्तिनि नित्यमप्यनुनासिकलोपं बाधित्वा व्यत्ययेन 'अनुनासिकस्य क्विझलोः' इति दीर्घत्वम् । ततः 'अनुदात्तोपदेश' इत्यादिनानुनासिकलोपः । तया हन्ता । महाबलेन हि पाप्मा निहन्तुं शक्यते ।  
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वारा᳓ड् असि वि᳓श्वासान् नाष्ट्रा᳓णाँ हन्ता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -391,17 +448,23 @@ thou art Viśvaraj, slayer of all destructive things [1].
 विश्वेषु लोकेषु राजतीति **विश्वाराट्** । 'विश्वस्य वसुराटोः' इति दीर्घः ।  
 यस्मादेवं तस्माद् **विश्वासां नाष्ट्राणां** नाशयितॄणां दैवादि-प्रवृत्तीनां **हन्ता** नाशयिता त्वमसि । नशेर्ण्यन्तात् 'दादिभ्यश्छन्दसि' इति त्रन्प्रत्ययः 'तितुत्रतथ' इतीट्प्रतिषेधः, णिलोपे उदात्तनिवृत्तिस्वरेण त्रन उदात्तत्वम्, 'व्रश्च' इत्यादिना षत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11उपरवान्प्रोक्षति - रक्षोहण इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षो-ह᳓णो वलग-ह᳓नᳶ प्रो᳓क्षामि वैष्णवा᳓न्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,17 +485,23 @@ I sprinkle those which slay the Raksas, which slay the spell, and which are of V
 
 युष्मान् प्रोक्षामीति सम्बन्धः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12उपरवेष्व् अपोवनयति - रक्षोहण इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णो वलग-ह᳓नो᳓ऽव नयामि वैष्णवा᳓न्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,8 +522,11 @@ I pour down those which slay the Raksas, which slay the spell, and which are of 
 
 एवंविधान् युष्मान्, अधस्तादपोवनयामि प्रापयामि आद्भिस्संयोजयामि । अवनयतिस्वभावादद्भिरेव गम्यते । नयतेश्च द्विकर्मकत्वाद्युष्मानपोवनयामीति भवति, युष्मास्वपोवनयामीति यावत्; यथा - 'अजां नयति ग्रामम्' इति । 'तस्मादार्द्रा अन्तरतः प्राणाः' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तेषु यवान्प्रस्कन्दयति - यवोसीति ॥
@@ -464,15 +536,17 @@ _______
 
 यवो॑ऽसि य॒वया॒स्मद्द्वेषो॑ य॒वयारा॑तीः 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वोऽसि।  
 यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
 यव᳓य +अ᳓रातीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,15 +594,20 @@ bar evil spirits.
 
 हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्यातम् । 'प्राणेष्वेवोर्जं दधाति' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14उपरवान् बर्हिषा ऽवस्तृणाति - रक्षोहण इति ॥
@@ -538,11 +617,14 @@ _______
 
 रक्षो॒हणो॑ वलग॒हनोऽव॑ स्तृणामि वैष्ण॒वान्र॑क्षो॒हणो॑ वलग॒हनो॒ऽभि जु॑होमि वैष्ण॒वान्र॑क्षो॒हणौ॑ वलग॒हना॒वुप॑ दधामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ पर्यू॑हामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॒ परि॑ स्तृणामि वैष्ण॒वी र॑क्षो॒हणौ॑ वलग॒हनौ॑ वैष्ण॒वी बृ॒हन्न॑सि बृ॒हद्ग्रा॑वा बृह॒तीमिन्द्रा॑य॒ वाचव्ँ॑वद ॥ [4]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णो वलगह᳓नो᳓ऽव स्तृणामि वैष्णवा᳓न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,17 +645,23 @@ I bestrew those which slay the Raksas, which slay the spell, and which are of Vi
 
 युष्मानवस्तृणामीत्यधस्ताच्छादयामीत्यर्थः । शिष्टं स्पष्टम् । 'तस्माल्लोमशा अन्तरतः प्राणाः' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15हिरण्यम् अन्तर्धाय स्रुवाहुत्या उपरवान् अभिजुहोति - रक्षोहण इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षो-ह᳓णो वलगह᳓नोऽभि᳓ जुहोमि वैष्णवा᳓न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -594,17 +682,23 @@ I pour the libation over those which slay the Raksas, which slay the spell, and 
 
 युष्मानभिजुहोमीति युष्मानाज्येन व्याघारयामीति । 'प्राणेष्वेव तेजो दधाति' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16अधिषवणफलके उपदधाति - रक्षोहणाविति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णौ वलगह᳓नाव् उ᳓प दधामि वैष्णवी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -625,17 +719,23 @@ I lay down the two Which slay the Raksas, which slay the spell, and which are of
 
 एवंगुणे युवामुपदधामीति । वैष्णवी वैष्णव्यौ । 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । 'हनू वा एते यज्ञस्य यदधिषवणे' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17अधिषवणफलके प्रदक्षिणं पुरीषेण पर्यूहति - रक्षोहणाविति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णौ वलगह᳓नौ प᳓र्यूहामि वैष्णवी᳓  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -656,17 +756,23 @@ I surround the two which slay the Raksas, which slay the spell, and which are of
 
 युवां पर्यूहामीति पुरीषेण परितः पूरयित्वा द्रढयामीति । 'उपसर्गादस्यत्यूह्योर्वा वचनम्' इति परस्मैपदम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18एते बर्हिषा परिस्तृणाति - रक्षोहणाविति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णौ वलगह᳓नौ प᳓रि स्तृणामि वैष्णवी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -687,17 +793,23 @@ I bestrew the two which slay the Raksas, which slay the spell, and which are of 
 
 युवां परिस्तृणामीति ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19एते अभिमृशति - रक्षोहणौ वलगहनौ वैष्णवी इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षोह᳓णौ वलगह᳓नौ वैष्णवी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -713,11 +825,15 @@ The two which slay the Raksas, which slay the spell, and which are of Visnu.
 
 र॒क्षो॒हणा॒विति॑ रक्षः-हनौ॑ । व॒ल॒ग॒हना॒विति॑ वलग-हनौ॑ । वै॒ष्ण॒वी इति॑ । 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20फलके ग्राव्णोद्वादयति - बृहन्निति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +841,8 @@ _______
 बृह᳓न्न् असि बृह᳓द्-ग्रावा ।  
 बृ᳓हती᳓म् इ᳓न्द्राय वा᳓चव्ँ वद ॥ [4]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,4 +870,5 @@ call forth to Indra with a great voice.
 एतदुक्तं भवति - शिरस्स्थानीये हविर्धाने प्राणस्थानीयेषूपरवेषु हनूस्थानीयाभ्यामधिषवणफलकाभ्यां परिगृहीते जिह्वास्थानीये चर्मणि दन्तस्थानीयैः ग्रावभिः खादनस्थानीयमभिषवं कृत्वा मुखस्थानीये आहवनीये हुत्वा प्रत्यग्गत्वा उदरस्थानीये सदसि भक्षयन्तीति । 'यो वै विराजो यज्ञमुखे' इत्यादि च ॥
 
 इति तृतीये द्वितीयोनुवाकः ॥
+</details>
 </details>

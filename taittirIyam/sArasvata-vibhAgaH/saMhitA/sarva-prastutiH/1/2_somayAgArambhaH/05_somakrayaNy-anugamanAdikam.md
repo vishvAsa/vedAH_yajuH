@@ -7,6 +7,8 @@ short_title = "०५"
 
 ## सोमक्रयण्य्-अनुगमनम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-6षट्पदान्यनु निक्रामति सोमक्रयणीं गच्छन्तीमनुगच्छति - वस्व्यसीत्यादिभिः ।
@@ -23,6 +25,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -35,6 +38,8 @@ ________
 चन्द्रा᳓+++(=ह्लादनवती/ हिरण्यवती)+++ ऽसि ।  
 +++(वसुरुद्रादित्याः सवनत्रयस्य देवताः । अदितिः प्रायणीयोदयनीययोः । वस्वादिमतो यज्ञस्य साधनत्वात् सोमक्रयण्यपि तद्वतीत्युच्यते ।)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,9 +93,12 @@ thou art Candra.
 
 वसु-रुद्रादित्याः सवन-त्रय-देवताः। अदितिः प्रायणीयोदयनीययोर् देवता। शुक्र-शब्देन दीप्तिमान् सोमो विवक्षितः। चन्द्र-शब्देनाह्लाद-कारि सुवर्णम्। हे सोम-क्रयणि, त्वं वस्व्-आदीनां स्वरूपम् असि। तद्-अपेक्षित-सोम-याग-साधनत्वात्।
 </details>
+</details>
 
 ## सप्तमपदे कर्म
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सप्तमं पदमभिगृह्णाति - बृहस्पतिरिति ॥
@@ -110,11 +118,14 @@ ________
 
 －बृह॒स्पति॑स्त्वा सु॒म्ने र॑ण्वतु रु॒द्रो वसु॑भि॒रा चि॑केतु
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिस् त्वा सुम्ने᳓+++(=सुखे)+++ रण्वतु+++(=गमयतु)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,11 +153,14 @@ May Brhaspati make thee rejoice in happiness.
 
 हे सोम-क्रयणी-पद, त्वां बृहस्पतिर् अस्मिन् सुख-प्रदेशे रमयतु वसुभिः सहितो रुद्रस् त्वाम् अनुजानातु आवर्तयतु वा।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रो᳓ व᳓सुभिर् आ᳓ चिकेतु+++(=जानातु)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,8 +176,11 @@ May Rudra with the Vasus be favourable to thee.
 
 रु॒द्रः । वसु॑भि॒रिति॒ वसु॑-भिः॒ । एति॑ । चि॒के॒तु॒ ।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तस्मिन् पदे जुहोति - पृथिव्या इति ॥ 
@@ -183,6 +200,7 @@ ________
 
 पृथि॒व्यास्त्वा॑ मू॒र्धन्ना जि॑घर्मि देव॒यज॑न॒ इडा॑याᳶ प॒दे घृ॒तव॑ति॒ स्वाहा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,6 +209,8 @@ ________
 +++('पृथिव्या ह्येष मूर्धा यद्देवयजनम्' इत्यादि ब्राह्मणम् ।)+++  
 स्वा᳓हा+++(=स्वाहुतं भव/ इत्थं सरस्वत्याह)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,8 +288,11 @@ on the place of sacrifice, on the abode of the offering, rich in ghee; hail!
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पदं परिलिखति।
@@ -284,9 +307,9 @@ ________
 
 इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिलिखितँ+++(=परिनाशितं)+++ र᳓क्षᳶ  
@@ -294,6 +317,8 @@ ________
 इद᳓म् अहँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि ।  
 यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -355,12 +380,14 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
-
+</details>
 </div>  
 
 ## पांसुग्रहणम्
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10पदपांसून् धरण्यां संवपति - अस्मे इति ॥
@@ -375,11 +402,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मे᳓+++(=अस्मासु)+++ रा᳓यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,17 +446,23 @@ With us be wealth.
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11यजमानाय प्रयच्छति - त्वे इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वे᳓+++(=त्वयि)+++ रा᳓यः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,17 +483,23 @@ with thee be wealth.
 
 त्वे तव । 'त्वमावेकवचने' इति त्वादेशः, पूर्ववत्सप्तम्येकवचनस्य शेआदेशः । हे यजमान त्वयि च रायस्सन्तु ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12यजमानः पत्न्यै प्रयच्छति - तोत इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तो᳓ते+++(=त्वया ऊते/रक्षिते [गृहे])+++ रा᳓यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -478,10 +520,13 @@ thine be wealth.
 
 ऊतं रक्षितम् । अवतेर्निष्ठायां ज्वरत्वरादिना ऊठादेशः । त्वया ऊतं तोतम् । त्वदूतमिति वक्तव्ये व्यञ्जनद्वयं लुप्यते, पृषोदरादित्वाद्रूपसिद्धिः, 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । हे पत्नि त्वया रक्षिते च गृहे रायस्सन्तु । 'अर्धो वा एष आत्मनः' इत्यादि ब्राह्मणम् । आहुश्च 'तत्सा गृहेषु निदधाति' इति ॥
 </details>
+</details>
 
 ## पत्नीकर्म
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13पत्नीं सोमक्रयण्या समीक्षयति - संदेवीति ॥
@@ -496,11 +541,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सं᳓+ देवि +++(सोमक्रयणि!)+++ देव्या᳓+उर्व᳓श्या+++(=उरूणि श्रेयांसि अश्नुते या तया [दृष्ट्या])+++ पश्यस्व।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -526,8 +574,11 @@ Gaze, O goddess, together with the goddess Urvaçi.
 
 हे देवि सोम-क्रयणि, त्वम् ऊर्वश्या देव्या सहेमां पश्य। अयं मन्त्रः स्पष्टार्थत्वाद् ब्राह्मणेनोपेक्षितः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14पत्नी यजमानमीक्षते - त्वष्टीमतीति अस्तारबृहत्या वस्वष्टदशपङ्क्त्यक्षरया  +++(वसु८-अष्ट-८, दश-१०,पङ्क्ति-१० अक्षराणीत्यर्थः)+++ ॥
@@ -547,6 +598,7 @@ ________
 > “'त्वष्टीमती ते सपेयेति' पत्नी सोम-क्रयणीम् अभिमन्त्रयते” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/02_tvaShTImatI_te.md">
@@ -610,6 +662,8 @@ may I find a hero in thy presence.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15 यजमानस्सोमक्रयणीमीक्षते - माहमिति चतुर्थेन पादेन ॥
@@ -628,11 +682,14 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ऽहँ᳓ राय᳓स्पो᳓षेण वि᳓ योषम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -676,4 +733,5 @@ May I not be separated from abundance of wealth.
 “पद-रजस् त्रेधा विभज्य तृतीयम् उत्तरतो गार्हपत्यस्य शीते भस्मन्य् उपवपति तृतीयम् आहवनीयस्य तृतीयं पत्नियै प्रयच्छति तत् सा गृहेषु दधाति” 
 
 इति।
+</details>
 </details>

@@ -8,6 +8,8 @@ unicode_script: devanagari
 य᳓दाग्नेयो᳓ भ᳓वत्य् अग्नि᳓मुखा ह्यृ᳓द्धिः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यदा॑ग्ने॒यो भव॑ति ।
@@ -23,12 +25,15 @@ unicode_script: devanagari
 
 1प्रथमे बृहस्मतिसवोऽभिहितः । द्वितीये वैश्यसवोऽभिधीयते! स च सूत्रकारेण स्पष्टमभिहितः - 'अथ सवानां व्याख्यातो बृहस्पतिसवः । वैश्यः पुष्टिकाम आग्नोयादीनि सप्त हवींषि निर्वपति । पृश्निः पष्ठौही मारुत्यालभ्यते । तस्याः पुरस्तात्स्विष्टकृतो यजमानायतन ऋषभचर्म प्राचीनग्रीवमुत्तरलोममास्तीर्य तस्मिन्नासीनं यजमानं दघ्नाऽभिपिञ्चति' इति । तत्र प्रथमं हविर्विघत्ते - आग्नेयोऽष्टाकपालः कर्तव्यः, समृद्धेरग्निपूर्वकत्वात् । आदावाग्नेयेन तत्समृद्धं कर्म भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓त्पौष्णः᳓ ।  
 पु᳓ष्टिर्वै᳓ पूषा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -46,11 +51,14 @@ unicode_script: devanagari
 2द्वितीयं हविर्विधत्ते - पौष्णश्चरुः कर्तव्यः, पूषदेवतायाः पुष्टिहेतुत्वात् ।  
 वैश्यस्य पुष्टिकामत्वात्पुष्टिमेव प्राप्नोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिर्वै᳓श्यस्य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -61,11 +69,14 @@ unicode_script: devanagari
 
 पु᳓ष्टिः । वै᳓श्यस्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिमेवा᳓वरुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -76,11 +87,14 @@ unicode_script: devanagari
 
 पु᳓ष्टिम् । एव᳓ । अ᳓व । रुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसवा᳓य सावित्रः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -96,12 +110,15 @@ unicode_script: devanagari
 
 3-5अथ तृतीयं हविर्विधत्ते - सावित्रोऽष्टाकपालः पुरोडाशः कार्यः । स च सवितुः प्रसवाय प्रेरणाय संपद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓त्त्वाष्ट्रः᳓ ।  
 त्व᳓ष्टा हि᳓ रूपा᳓णि विकरो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -118,11 +135,14 @@ unicode_script: devanagari
 
 चतुर्थं हविर्विधत्ते - अष्टाकपालः त्वाष्ट्रः कार्यः । तस्मात्त्वष्टा निषिक्ते रेतसि विविधानि रूपाणि करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्वरुणत्वा᳓य वारुणः᳓ ॥5॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,11 +158,14 @@ unicode_script: devanagari
 
 पञ्चमं हविर्विधत्ते - अष्टाकपालो वारुणः कार्यः । स च निर्वरुणत्वाय वरुणपाशराहित्याय संपद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓ एव᳓ क᳓श्च स᳓न्त्सूय᳓ते स᳓ हि᳓ वारुणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -159,12 +182,15 @@ unicode_script: devanagari
 
 अपिच पूर्वं यः को ह्यल्पः पुरुषः सन्सूयतेऽभिषिच्यते स हि तदा वारुणो वरूणेनानुगृहीत इत्युच्यते । तस्माद्वारुणयागोऽभिषेकयोग्यः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓द्वैश्वदेवः᳓ ।   
 वैश्वदेवो᳓ हि᳓ वै᳓श्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,12 +207,15 @@ unicode_script: devanagari
 
 6षष्ठं हविर्विधत्ते - एकादशकपालो वैश्वदेवः कार्यः । यस्माद्वैश्यः विश्वैर्देवैः सह प्रजापतेर्मध्यभागादुत्पन्नः । तं विश्वे देवा देवता अन्वसृज्यन्त । 'जगती छन्दो वैरूपं साम वैश्यो मनुष्याणाम्' इति श्रुत्यन्तरविधानात् । ततस्तदीयत्वाद्वैश्वदेवस्तत्र योग्यः॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ य᳓न्मारुतः᳓ ।   
 मारुतो᳓ हि᳓ वै᳓श्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,11 +232,14 @@ unicode_script: devanagari
 
 7सप्तमं हविर्विधत्ते - एकादशकपालो मारुतः कार्यः । मरुतां देववीट्त्वेऽन वैश्ययागे योग्यत्वात् । मरुतां विट्त्वम् 'मारुतो वै देवानां विशः' इति विप्रसिद्धश्रुतेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तै᳓ता᳓नि हवीँ᳓षि भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -223,11 +255,14 @@ unicode_script: devanagari
 
 8अधिकशङ्कानिवृत्तये हविस्संख्यां दर्शयति - 'ईदृङ् चान्यादृङ् च' इत्यादयः सप्त गणाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓गणा वै᳓ मरु᳓तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -238,11 +273,14 @@ unicode_script: devanagari
 
 सप्त᳓-गणाः । वै᳓ । मरु᳓तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓श्ञिᳶ पष्ठौही᳓ मारुत्या᳓लभ्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -258,11 +296,14 @@ unicode_script: devanagari
 
 अथ पशुं विधत्ते - पृश्निः श्वेतवर्णा, पष्ठौही चतुर्वर्षा । तादृशी काचिदजा मरुद्देवताकाऽऽलब्धव्या ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ड्वै᳓ मरु᳓तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,11 +321,14 @@ unicode_script: devanagari
 एवं सति विशः प्रजाया मध्य एतदभिषेचनं कृतं भवति ।  
 यस्माद्विशो मध्येऽभिषेकः कृतस्तस्मादेवैष वैश्यः सर्वानुष्ठायिविशां प्रियो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श एवै᳓त᳓न्मध्यतो᳙ऽभि᳓षिच्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -295,11 +339,14 @@ unicode_script: devanagari
 
 वि᳓शः । एव᳓ । एत᳓त् । मध्यतः᳓ । अभि᳓ । सिच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्वा᳓ एष᳓ विशᳶ᳓ प्रियः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,11 +357,14 @@ unicode_script: devanagari
 
 त᳓स्मात् । वै᳓ । एषः᳓ । विशः᳓ । प्रियः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशो᳓ हि᳓ मध्यतो᳙ऽभिषिच्य᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,11 +375,14 @@ unicode_script: devanagari
 
 विशः᳓ । हि᳓ । मध्यतः᳓ । अभि । सिच्य᳓ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषभचर्मे᳓ऽध्यभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -340,11 +393,14 @@ unicode_script: devanagari
 
 ऋषभ-चर्मे । अ᳓धि । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ हि᳓ प्रजनयिता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -355,11 +411,14 @@ unicode_script: devanagari
 
 सः᳓ । हि᳓ । प्र-जनयिता᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दध्ना᳓ऽभि᳓षिञ्चति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -370,11 +429,14 @@ unicode_script: devanagari
 
 दध्ना᳓ । अभि᳓ । सिञ्चति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्ग्वा᳓ अन्ना᳓द्यन्द᳓धि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -385,11 +447,14 @@ unicode_script: devanagari
 
 ऊ᳓र्क् । वै᳓ । अन्ना᳓द्यम् । द᳓धि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्जै᳓वै᳓नमन्ना᳓द्येन स᳓मर्धयति ॥6॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -407,4 +472,5 @@ unicode_script: devanagari
 अभिषेकद्रव्यं विधत्ते ।  
 दध्नो रसरूपत्वात्तादृशेनान्नेनैनं वैश्यं समर्धयति ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके द्वितीयोऽनुवाकः ॥
+</details>
 </details>

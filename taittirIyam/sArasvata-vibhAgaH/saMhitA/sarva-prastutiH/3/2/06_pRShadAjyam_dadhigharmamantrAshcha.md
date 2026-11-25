@@ -3,6 +3,8 @@ title = "०६ पृषदाज्यम्, दधिघर्ममन्�
 +++
 २ बृहती । विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 म॒ही॒नाम्पयो॑ऽसि॒ विश्वे॑षान्दे॒वाना॑न्त॒नूर्ऋ॒ध्यास॑म॒द्य पृ॑षतीना॒ङ्ग्रह॒म्पृष॑तीना॒ङ्ग्रहो॑ऽसि॒ विष्णो॒र्हृद॑यम॒स्येक॑म्
@@ -12,12 +14,15 @@ title = "०६ पृषदाज्यम्, दधिघर्ममन्�
 
 1पृषदाज्यं गृह्णाति - महीनामिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महीना᳓म्प᳓योऽसि ।  
 वि᳓श्वेषान्देवा᳓नान्तनूः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ Thou art the milk of the great ones, the body of the All-gods;
 
 महीनां महनीयानां गवां पयोसि विश्वेषां देवानां तनूः शरीरं; तत्स्थितिहेतुत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋध्या᳓समद्य᳓ पृषतीनाङ्ग्र᳓हम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ may I to-day accomplish the cup of the speckled ones;
 
 अद्येदानीं ऋध्यासं वर्धयामि त्वाम् । ऋध्रोतेः ण्यन्तादाशिषि लिङ् । 'बहुलमन्यत्रापि' इति णिलुक् । पृषतीनां ग्रहं मरुतामश्वाः पृषत्यः । श्तृवद्भावात् ङीप् । तासां गृहस्थानीयं त्वाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓षतीनाङ्ग्र᳓होऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,12 +100,15 @@ thou art the cup of the speckled ones;
 
 पृषतीनां ग्रहोसि; ग्राहकोसि प्रियतरत्वात् । यद्वा - पृषतीशब्देन मरुतस्स्वोपात् [रुतां स्वा ये] तद्वन्तो मरुत उच्यन्ते । मरुतां स्वभतो ग्रहस्त्वमसीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर्हृ᳓दयमस्ये᳓कम् इष ..   
 वि᳓ष्णुस्त्वा᳓नु वि᳓ चक्रमे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -116,16 +130,22 @@ thou art the heart of Visnu, once hath Visnu stepped apart along thee, O vigorou
 
 2विष्णोरिति विराड्गायत्री जागतगायत्री वा 'इष' इति प्रथमपादान्तः ॥ विष्णोः यज्ञात्मनः हृदयमिम प्रियोसि । कुत इत्याह - हे इष अन्नवन् । इच्छब्दात् अर्शआदिलक्षणोच्प्रत्ययः । एकं प्रधानं त्वामनु त्वया हेतुना विष्णुर्भगवान् त्रैलोक्यं विचक्रमे । 'अनुर्लक्षणे' इति कर्मप्रवचनीयत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तस्य स्कन्नस्य स्वधासंभरणमन्त्रः - भूतिरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूति᳓र्दध्ना᳓ घृते᳓न वर्धताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,11 +166,14 @@ with curds and ghee may prosperity be increased;
 
 इयमपि विराड्गायत्री द्विपदान्ता ॥ भूतिः तवैश्वर्यं दध्ना घृतेन वर्धताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य मेष्ट᳓स्य वीत᳓स्य द्र᳓विणमा᳓ गम्याः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,16 +194,22 @@ may wealth come to me from this which is offered and enjoyed
 
 तस्य तादृशस्य उद्भूतैश्वर्यस्य इष्टस्य देवानां प्रियस्य देवेभ्यो हुतस्य वीतस्य भक्षितस्य च यद्द्रविणं फलं तन्मां आगम्यात् आगच्छतु वृधा स्कन्नं मा भूदिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4दधिधर्ममवेक्षते - ज्योतिरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिरसि वैश्वानर᳓म्पृ᳓श्ञियै दुग्ध᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,10 +230,14 @@ thou art the light for all men, milked from the dappled one.
 
 अग्निस्त्वमसि; प्रवर्ग्यभक्तित्वात् वैश्वानरं विश्वेषां नराणां हितत्वेन स्वामित्वेन वा सम्बन्धी वैश्वानरः; आदित्यः तस्य स्वभूतमसि । अभेदेनोच्यते । पृश्नियै पृश्न्याः गोर्दुग्धं पयः । षष्ठ्यर्थे चतुर्थी ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ तस्य ग्रहणमन्त्रः - यावती इति चातुष्पदा बृहती ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -212,6 +245,8 @@ thou art the light for all men, milked from the dappled one.
 या᳓वती द्या᳓वापृथिवी᳓ महित्वा᳓ या᳓वच्च सप्त᳓ सि᳓न्धवो वितस्थुः᳓ ।    
 ता᳓वन्त᳓मि᳓न्द्र᳓ ते᳓ [23] ग्र᳓हँ सहो᳓र्जा᳓ गृह्णाम्य᳓स्तृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -236,6 +271,9 @@ Which unvanquished I draw off with strength.
 
 यावती यावत्यौ यत्प्रमाणे यत्प्रमाणकाले वा द्यावापृथिवी द्यावापृथिव्यौ । उभयत्रापि 'वा छन्दसि' इति पूर्वसवर्णदीधत्वम्, 'देवताद्वद्वे च' इति द्यावापृथिवीशब्द आद्युदात्तः । महित्वा महत्त्वेन । तृतीयाया आजादेशः । यावच्च यावत्कालं सप्त सिन्धवः समुद्राः वितस्थुः विभक्ताः स्थास्यन्ति । छान्दसो वा लिट्, आत्मनेपदाभावश्च । तावन्तं तावत्प्रमाणं तावत्कालस्थायिनं तावत्कालस्थितिहेतुं वा लोकानाम्, हे इन्द्र तव ग्रहं एतं अस्तृतं अहिंसितं ऊर्जा अन्नेन सह गृह्णामि । स्तृ इति ह्रस्वान्तं धात्वन्तरं, स्तृणातेर्वा ह्रस्वत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -246,12 +284,15 @@ Which unvanquished I draw off with strength.
 
 6अथ विकृतपृषदाज्यब्राह्मणं - यत्कृष्णशकुन इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्कृष्णशकुनᳶ᳓ पृषदाज्य᳓मवमृशे᳓त् ।  
 शूद्रा᳓ अस्य प्रमा᳓युकास्स्युः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -273,12 +314,15 @@ If a black bird touch the speckled butter, his slaves would be likely to die;
 
 कृष्णवर्णशकुनः पक्षी कृष्णशकुनः । पृषद्वर्णमाज्यं पृषदाज्यं पृषद्बिन्दुवन्नानावर्णम् । अवमर्शनं पद्भ्यां स्पर्शनम् । अस्य यजमानस्य शूद्राः प्रमाणशीलाः मरणशीलाः म्रियतेश्छान्दस उकञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च्छ्वा᳓ऽवमृशे᳓त् ।  
 च᳓तुष्पादोऽस्य पश᳓वᳶ प्रमा᳓युकास्स्युः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,11 +339,14 @@ if a dog touch it, his fourfooted cattle would be likely to die;
 
 यत् । श्वा । अ॒व॒मृ॒शेदित्य॑व-मृ॒शेत् । चतु॑ष्पाद॒ इति॒ चतुः॑-पा॒दः॒ । अ॒स्य॒ । प॒शवः॑ । प्र॒मायु॑का॒ इति॑ प्र-मायु॑काः । स्युः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्स्क᳓न्देद्य᳓जमानᳶ प्रमा᳓युकस्स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,11 +362,14 @@ if it were to be spilt, the sacrificer would be likely to die.
 
 यत् । स्कन्दे॑त् । यज॑मानः । प्र॒मायु॑क॒ इति॑ प्र-मायु॑कः । स्या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वै᳓ पृषदाज्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,12 +390,15 @@ The speckled butter is the cattle;
 
 पशवो वै पृषदाज्यमिति । तद्धेतुत्वात्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वो वा᳓ एत᳓स्य स्कन्दन्ति ।  
 य᳓स्य पृषदाज्यँ᳓ स्क᳓न्दति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -362,12 +415,15 @@ his cattle fall, if his speckled butter falls;
 
 प॒शवः॑ । वै । ए॒तस्य॑ । स्क॒न्द॒न्ति॒ । यस्य॑ । पृ॒ष॒दा॒ज्यमिति॑ पृषत्-आ॒ज्यम् । स्कन्द॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पृषदाज्य᳓म्पु᳓नर्गृह्णा᳓ति ।  
 पशू᳓नेवा᳓स्मै पु᳓नर्गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,11 +445,14 @@ in that he takes again the speckled butter, he takes again cattle for him.
 
 यथोक्तेन पुनर्ग्रहणेन स्कन्नस्योपलक्षणत्वात्सर्वामेध्यत्वान्निवृत्तिः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणो᳓ वै᳓ पृषदाज्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,12 +473,15 @@ The speckled butter is the breath;
 
 प्राणो वै पृषदाज्यमिति । पूर्ववत्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणो᳓ वा᳓ एत᳓स्य स्कन्दति ।  
 य᳓स्य पृषदाज्यँ᳓ स्क᳓न्दति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,12 +498,15 @@ his breath [2] falls, if his speckled butter falls;
 
 प्रा॒ण इति॑ प्र-अ॒नः । वै । ए॒तस्य॑ । स्क॒न्द॒ति॒ । यस्य॑ । पृ॒ष॒दा॒ज्यमिति॑ पृषत्-आ॒ज्यम् । स्कन्द॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पृषदाज्य᳓म्पु᳓नर्गृह्णा᳓ति ।   
 प्राण᳓मेवा᳓स्मै पु᳓नर्गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -458,10 +523,14 @@ in that he takes again the speckled butter, he takes again breath for him.
 
 यत् । पृ॒ष॒दा॒ज्यमिति॑ पृषत्-आ॒ज्यम् । पुनः॑ । गृ॒ह्णाति॑ । प्रा॒णमिति॑ प्र-अ॒नम् । ए॒व । अ॒स्मै॒ । पुनः॑ । गृ॒ह्णा॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 हिर॑ण्यमव॒धाय॑ गृह्णात्य॒मृतव्ँ॒ वै हिर॑ण्यम्प्रा॒णᳶ पृ॑षदा॒ज्यम॒मृत॑मे॒वास्य॑ प्रा॒णे द॑धाति श॒तमा॑नम्भवति श॒तायु॒ᳶ पुरु॑षश्श॒तेन्द्रि॑य॒ आयु॑ष्ये॒वेन्द्रि॒ये प्रति॑ तिष्ठ॒ति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +538,8 @@ in that he takes again the speckled butter, he takes again breath for him.
 हि᳓रण्यमवधा᳓य गृह्णाति ।  
 अमृ᳓तव्ँ वै᳓ हि᳓रण्यम्प्राणᳶ᳓ पृषदाज्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -490,11 +561,14 @@ He takes it after placing gold (in the ladle), gold is immortality, the speckled
 
 7हिरण्यमिति ॥ एतां स्रुचमप्सु प्रवेश्य अन्यस्यां स्रुचि हिरण्यमवधाय तत्पृषदाजं गृह्णाति । नित्यग्रहणमिति केचित् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृ᳓तमेवा᳓स्य प्राणे᳓ दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,12 +584,15 @@ verily he places immortality in his breath.
 
 अ॒मृत॑म् । ए॒व । अ॒स्य॒ । प्रा॒ण इति॑ प्र-अ॒ने । द॒धा॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत᳓मानम्भवति ।  
 शता᳓युᳶ पु᳓रुषश्शते᳓न्द्रियः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -537,11 +614,14 @@ It is of a hundred measures, man has a hundred years of life, a hundred powers;
 
 शतमानमिति शतं मानमस्येति । शतायुः शतसंवत्सरायुः । शतेन्द्रियः शतवीर्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युष्येवे᳓न्द्रिये᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,10 +642,14 @@ verily on life and power he rests.
 
 शतत्वसंख्यायोगादायुरिन्द्रियलाभः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अश्व॒मव॑ घ्रापयति प्राजाप॒त्यो वा अश्वᳶ॑ प्राजाप॒त्यᳶ प्रा॒णस्स्वादे॒वास्मै॒ योनेः॑ प्रा॒णन्निर्मि॑मीते॒ वि वा ए॒तस्य॑ य॒ज्ञश्छि॑द्यते॒ यस्य॑ पृषदा॒ज्यँ स्कन्द॑ति वैष्ण॒व्यर्चा पुन॑र्गृह्णाति य॒ज्ञो वै विष्णु॑र्य॒ज्ञेनै॒व य॒ज्ञँ सन्त॑नोति ॥ [25]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +657,8 @@ verily on life and power he rests.
 अ᳓श्वम᳓व घ्रापयति ।  
 प्राजापत्यो᳓ वा᳓ अ᳓श्वᳶ प्राजापत्यᳶ᳓ प्राणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -594,11 +680,14 @@ He makes a horse sniff it, the horse is connected with Prajapati;
 
 8अश्वमिति ॥ अपोद्धृत्य हिरण्यमश्वमवघ्रापयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓देवा᳓स्मै यो᳓नेः प्राण᳓न्नि᳓र्मिमीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -619,12 +708,15 @@ verily from his own place of origin he fashions offspring for him.
 
 अश्वप्राणयोः प्राजापत्यत्वादन्यतरस्यान्वये इदमभिसन्धापयतीति प्राणसिद्धिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ वा᳓ एत᳓स्य यज्ञ᳓श्छिद्यते ।  
 य᳓स्य पृषदाज्यँ᳓ स्क᳓न्दति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -641,11 +733,14 @@ His sacrifice is broken whose speckled butter is spilt.
 
 वीति॑ । वै । ए॒तस्य॑ । य॒ज्ञः । छि॒द्य॒ते॒ । यस्य॑ । पृ॒ष॒दा॒ज्यमिति॑ पृषत्-आ॒ज्यम् । स्कन्द॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णव्य᳓र्चा᳓ पु᳓नर्गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -666,11 +761,14 @@ He takes it again with a Rc addressed to Visnu;
 
 9वैष्णव्यर्चेति ॥ 'विष्णो त्वं नो अन्तमः' इत्येतामृचमनुवर्तयन् गृह्णाति पृषदाज्यम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ वि᳓ष्णुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -686,11 +784,14 @@ Visnu is the sacrifice;
 
 य॒ज्ञः । वै । विष्णुः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञे᳓नैव᳓ यज्ञँ᳓ स᳓न्तनोति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -712,4 +813,5 @@ verily he unites the sacrifice by the sacrifice.
 विच्छिन्नं यज्ञं यज्ञात्मना विष्णुना सन्तनोति संहितं करोति । बैष्णव्येत्युदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वं, 'उदात्तयणः' इति तृतीयाया उदात्तत्वम्, 'स्वरितो वाऽनुदात्ते पदादौ' इति संहितायामेकादेशस्स्वर्यते । 'सावेकाचः' इति ऋचस्तृतीयाया उदात्तत्वम् ॥
 
 इति तृतीये द्वितीये षष्ठोनुवाकः ॥
+</details>
 </details>

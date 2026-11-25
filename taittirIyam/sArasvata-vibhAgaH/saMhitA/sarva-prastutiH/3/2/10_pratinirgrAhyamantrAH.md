@@ -4,6 +4,8 @@ title = "१० प्रतिनिर्ग्राह्यमन्त्�
 
 विश्वेदेवा ऋषयः  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि वाक्ष॒सद॑सि वा॒क्पाभ्या॑न्त्वा क्रतु॒पाभ्या॑म॒स्य य॒ज्ञस्य॑ ध्रु॒वस्याध्य॑क्षाभ्याङ्गृह्णाम्युपया॒मगृ॑हीतोऽस्यृत॒सद॑सि चक्षु॒ष्पाभ्या॑न्त्वा क्रतु॒पाभ्या॑म॒स्य य॒ज्ञस्य॑ ध्रु॒वस्याध्य॑क्षाभ्याङ्गृह्णाम्युपया॒मगृ॑हीतोऽसि
@@ -13,11 +15,14 @@ title = "१० प्रतिनिर्ग्राह्यमन्त्�
 
 1द्विदेवत्यानां प्रतिनिर्ग्रह्यग्रहणमन्त्राः क्रमेण । ऐन्द्रवायवस्य - उपयामगृहीत इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓गृहीतोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ Thou art taken with a support;
 
 'इयं वा उपयामः' इत्युक्तं, तयैव गृहीतोसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्षस᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,11 +71,14 @@ thou art seated in speech;
 
 वाक्षसदसि वाक् क्षियति निवस्यत्यनयोरिति वाक्षौ इन्द्रवायू, तयोर्ग्रहो वाक्षः । यथोक्तां - 'वाग्वा ऐन्द्रवायवः' इति । छान्दसो डः । तद्ग्रहं सीदतीति वाक्षसत् । यद्वा - 'वचिपचिभ्यो डश्च' इति वचेरसुन्, णाविति तत्रानुवर्तते वाक्षो वागिन्द्रियं तत्र सीदतीति वाक्षसत्, बर्हिषदादिवत्सलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्पा᳓भ्यान्त्वा क्रतुपा᳓भ्यामस्य᳓  यज्ञ᳓स्य ध्रुव᳓स्या᳓ध्यक्षाभ्याङ्गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,11 +99,14 @@ for the guardians of speech, for the guardians of insight, for the overseers of 
 
 ईदृशस्त्वमसि, तं त्वां वाक्पाभ्यां वाचः पालयितृर्भ्यां क्रतुपाभ्यां क्रतोर्यज्ञस्य पालयितृभ्यां अस्य यज्ञस्य ध्रुवस्य अविनाशिफलस्य अध्यक्षाभ्यां स्वामिभ्यां इन्द्रवायुभ्यां गृह्णामि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓गृहीतोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,16 +122,22 @@ Thou art taken with a support;
 
 उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2मैत्रावरुणस्य - ऋतं सत्यं, 'चक्षुर्वै सत्यम्' 'चक्षुर्मैत्रावरुणः' इति चोक्तम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतस᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,11 +153,14 @@ thou art seated in holy order;
 
 ऋ॒त॒सदित्यृ॑त-सत् । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चक्षुष्पा᳓भ्यान्त्वा क्रतुपा᳓भ्यामस्य᳓ यज्ञ᳓स्य ध्रुव᳓स्या᳓ध्यक्षाभ्याङ्गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -158,16 +181,22 @@ for the guardians of sight, [for the guardians of insight, for the overseers of 
 
 मित्रावरुणाभ्यां गृह्णामि । गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श्रुत॒सद॑सि श्रोत्र॒पाभ्या॑न्त्वा क्रतु॒पाभ्या॑म॒स्य य॒ज्ञस्य॑ ध्रु॒वस्याध्य॑क्षाभ्याङ्गृह्णामि
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓गृहीतोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,11 +212,14 @@ Thou art taken with a support;
 
 उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒म-गृ॒ही॒तः॒ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतस᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -208,11 +240,14 @@ thou art seated in holy lore;
 
 3आश्विनस्य - श्रुतं श्रवणम् । 'श्रोत्रमाश्विनः' इत्युक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रोत्रपा᳓भ्यान्त्वा क्रतुपा᳓भ्यामस्य᳓ यज्ञ᳓स्य ध्रुव᳓स्या᳓ध्यक्षाभ्याङ्गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,16 +268,22 @@ for the guardians of the ear, [for the guardians of insight, for the overseers o
 
 ताभ्यामश्विभ्यां गृह्णामीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4-6अथ द्विदेवत्यशेषाणामादित्यस्थाल्यामवनयनमन्त्राः क्रमेण - देवेभ्य इत्यादयः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्यस्त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,11 +304,14 @@ For the gods thee!
 
 देवाः एकत्र इतरत्र विश्वेदेवाख्यो गणः, अपरत्र सर्वे देवाः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व᳓देवेभ्यस्त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,11 +327,14 @@ For the All-gods thee!
 
 वि॒श्वदे॑वेभ्य॒ इति॑ वि॒श्व-दे॒वे॒भ्यः॒ । त्वा॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -303,6 +350,9 @@ For all the gods thee!
 
 विश्वे॑भ्यः । त्वा॒ । दे॒वेभ्यः॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -313,11 +363,14 @@ For all the gods thee!
 
 7आदित्यस्थाल्यामपिधानमन्त्रः - विष्णविति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णवुरुक्रमैष᳓ ते सो᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -338,11 +391,14 @@ O Visnu, wide striding, this is thy Soma;
 
 हे विष्णो उरुक्रम महाविक्रम एष ते तव सोमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तँ᳓ रक्षस्व [42] त᳓न्ते दुश्च᳓क्षा मा᳓व ख्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -363,16 +419,22 @@ guard it [1] let not the evil-eyed one espy this of thine.
 
 त्वमस्य गोपयिता, तस्मात्तं रक्षस्व तं ते त्वदीयं सोमं दुश्चक्षाः पापदृष्टिः माऽवख्यत् मा द्राक्षीत् । 'अस्यतिवक्तिख्यातिभ्योङ्' । दुंष्टं चष्ट इति 'गतिकारकयोरपि' इत्यसुन्, पूर्वपदप्रकृतिस्वरस्य पाक्षिकत्वात्कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8त्रयाणां भक्षणमन्त्राः - मयीत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि व᳓सुᳶ पुरोव᳓सुर्वाक्पाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,11 +455,14 @@ In me is the Vasu, whom wealth precedeth, who guardeth the voice;
 
 मयि वर्तते वसुः धनं सोमाख्यं पुरोवसुः पुरस्कृतेतरसमस्तधनः । यद्वा - पुरस्ताद्वासयिता प्राणादीनां पुरस्सरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓चम्मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,11 +483,14 @@ guard my voice.
 
 स त्वं वाक्पाः वाचः पालयिता मे मम वाचं पाहि रक्षय । एवमुत्तरयोरपि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि व᳓सुर्विद᳓द्वसुश्चक्षुष्पाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -443,11 +511,14 @@ In me is the Vasu, who winneth wealth, who guardeth the eye;
 
 9विदद्वसुः भजमानवसुः । विन्दतेः छान्दसो नुमभावः । कर्मणि वा लिटि यगात्मनेपदाभावश्छान्दसः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुर्मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -463,11 +534,14 @@ guard my eye.
 
 चक्षुः॑ । मे॒ । पा॒हि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि व᳓सुस्सय्ँय᳓द्वसुश्श्रोत्रपाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,11 +562,14 @@ In me is the Vasu, who keepeth wealth together, who guardeth the ear;
 
 10संयद्वसुः संगच्छद्वसुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रो᳓त्रम्मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -508,6 +585,9 @@ guard my ear.
 
 श्रोत्र॑म् । मे॒ । पा॒हि॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -518,11 +598,14 @@ guard my ear.
 
 11-12उपांश्वन्तर्यामयोरनुमन्त्रणमन्त्रः - भूरिति ग्रहात्मा सोम उच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓रसि श्रे᳓ष्ठो रश्मीना᳓म् , प्राणपाःᳶ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -543,11 +626,14 @@ Thou art Bhuh, best of rays, guardian of expiration;
 
 भावयिता सुखानामसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓म्मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,11 +649,14 @@ guard my expiration.
 
 प्रा॒णमिति॑ प्र-अ॒नम् । मे॒ । पा॒हि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धू᳓रसि श्रे᳓ष्ठो रश्मीना᳓मपानपाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +677,14 @@ Thou art Dhuh, best of rays, guardian of inspiration;
 
 धूः हिंसिता दुःखानामसि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपान᳓म्मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,6 +700,9 @@ guard my inspiration.
 
 अ॒पा॒नमित्य॑प-अ॒नम् । मे॒ । पा॒हि॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -618,6 +713,7 @@ guard my inspiration.
 
 13-15द्विदेवत्यानां होममन्त्राः क्रमेण - यो न इति तिस्रो जगत्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -627,6 +723,8 @@ guard my inspiration.
 
 +++(यो न)+++अश्विनावभिदा᳓सति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -651,11 +749,14 @@ The foe who, O Indra and Vayu, (O Mitra and Varuna, O Aśvins,) is hostile to us
 
 त्रिष्टुब्वा तृतीया । तत्र त्रयाणां देवतापदानां भेदेन शेष इतरः । तेन 'यो न इन्द्रवायू अभिदासति' इति प्रथमा । 'यो नो मित्रावरुणावभिदासति' इति द्वितीया । 'यो न अश्विनावभिदासति' इति तृतीया । तत्र प्रथमा ॥ हे इन्द्रवायू यो नः अभिदासति हिनस्ति । दासृ दाने, अभिपूर्वो साकर्मा । यद्वा - दसु अपक्षये, व्यत्ययेन शप्, स्वरविकारश्छान्दसः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓तृव्य उत्पि᳓पीते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -676,11 +777,14 @@ Who seeketh to assail us,
 
 भ्रातृव्यश्शत्रुः । 'व्यन्सपत्ने' । उत्पिपीते उत्क्रम्यामार्गेण सोमं पिबति । पीङ् पाने दैवादिकः, 'बहुलं छन्दसि' इति शपश्श्लुः । पिबतेरेव वा पूर्ववत् श्लुः, व्यत्ययेनात्मनेपदम्, 'ईहल्यघोः' इतीत्वम्, 'बहुलं छन्दसि' इत्यभ्यासस्येत्वम्, 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वं अनजादावपि व्यत्ययेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभस्पती इद᳓मह᳓न्त᳓म᳓धरम्पादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -701,11 +805,14 @@ O lords of splendour, May I here hurl him below my feet,
 
 शुभस्पती शुभस्य कर्मणः पालयिता । क्विबन्तात् षष्ठी, 'षष्ठ्याः पतिपुत्र' इति सत्वम्, छान्दसष्षष्ठ्या अलुक् । इदमिति क्रियाविशेषणम् । तं भ्रातृव्यं अधरं पादयामि अपकृष्टतां नयामि यथाकृते अहमुत्तम उद्गततमश्चेतयानि जानाम्यात्मानं हे इन्द्र । यद्वा - यथा अधरं पादयामि तथा हे इन्द्र त्वमपि कुरु, अहमुत्तमश्चेतयानि चेतयिता भूयासमिति प्रार्थयते । एवमुत्तरयोरपि द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓थेन्द्राह᳓मुत्तम᳓श्चेत᳓यानि ॥ [43]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -727,4 +834,5 @@ So that, O Indra, I may shine as the highest.
 उत्तमशब्द उत्सादित्वादन्तोदात्तः ॥
 
 इति तृतीये द्वितीये दशमोनुवाकः ॥
+</details>
 </details>

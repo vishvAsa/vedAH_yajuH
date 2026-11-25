@@ -4,11 +4,14 @@ title = "०७ सामिधेनीमन्त्रव्याख्य�
 
 ## हीङ्कार-त्रयम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्राजापत्यं काण्डम्
 
 प्रजापतिऋषिः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -16,6 +19,8 @@ title = "०७ सामिधेनीमन्त्रव्याख्य�
 देवा᳓ वै᳓ न᳓र्चि᳓ न᳓ य᳓जुष्य् अश्रयन्त   
 ते᳓ सा᳓मन्न् एवा᳓श्रयन्त   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,12 +48,15 @@ The gods could not rest on the Rc or the Yajus. On the Saman only could they res
 
 यदेतदुक्तं त्रिर्हिं करोतीति तदेतविधत्ते— **देवा वै नर्चीति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓ङ् करोति   
 सा᳓मैवा᳓कर्, हि᳓ङ्करोति   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -78,6 +86,7 @@ He makes the noise 'Him'; verily he makes the Saman. He makes the noise 'Him';
 
 देवाः पूर्वमृचि नाश्रयन्त यजुष्यपि नाश्रयन्त न संतुष्टा इत्यर्थः। किंतु सामन्येव संतुष्टाः। ततो हिमितिशब्दमुच्चारयेत्। तेन सामैव कृतं भवति। पञ्चकृत्वः सप्तकृत्वो वा साम्न आदौ हिंकारस्य विद्यमानत्वात्। तस्य हिमितिशब्दस्य त्रिरुच्चारणमभिप्रेत्य त्रिवारं विधिरनूद्य प्रशस्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +94,8 @@ He makes the noise 'Him'; verily he makes the Saman. He makes the noise 'Him';
 त᳓त एवै᳓नान् प्र᳓ युङ्क्ते  
 हि᳓ङ् करोति 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,12 +123,15 @@ where the gods rested, there he sets them in motion. He makes the noise 'Him';
 
 यत्रैव देवा आश्रयन्त यत्रैव सामनि देवाः संतुष्टास्तत एव साम्न एनान्देवान्प्रयुङ्क्ते होता हिं कुर्वन्प्रकर्षेण तोषयतीत्यर्थः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच᳓ एवै᳓ष᳓ यो᳓गो - हि᳓ङ् करोति  
 प्रजा᳓ एव᳓ त᳓द् य᳓जमानस् सृजते   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,6 +160,7 @@ this is the yoking of speech. He makes the noise 'Him'; thus the sacrificers pro
 
 प्रथमोच्चारणेन साम कृतं भवति। तथा द्वितीयोच्चारणेन वाचो योगः संपद्यते। सामाश्रयभूताया ऋग्रूपाया वाचः संबन्धः संवद्यत इत्यर्थः। तृतीयोच्चारणं यदस्ति तेन यजमानः प्रजा एव सृष्टवान्भवति।  
 </details>
+</details>
 
 ## आद्यन्तयोर् आवृत्तिः
 
@@ -154,6 +169,8 @@ this is the yoking of speech. He makes the noise 'Him'; thus the sacrificers pro
 त्रिᳶ᳓ प्रथमा᳓म् अ᳓न्वाह, त्रि᳓र् उत्तमा᳓म्   
 यज्ञ᳓स्यैव᳓ त᳓द् बर्स᳓न्+++(=अन्तं)+++ नह्यत्य् अ᳓प्रस्रँसाय 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -184,6 +201,7 @@ He repeats the first (verse) thrice, the last thrice; verily he ties the end of 
 “आ जुहोत दुवस्यत” इति वा “त्वं वरुण उन मित्र” इति वा द्वयोरन्यतरोत्तमा।  
 तत्तेन प्रथमोत्तमयोस्त्रिरभ्यासेन यज्ञस्य बर्सम् अन्तभागान् नह्यति बध्नाति। यथालोके वस्त्रेण कम्बलेन वा ब्रीहीन्वोढुकामोऽन्तद्वयं बध्नाति तद्वत्। तच्च बन्धनं स्रंसनराहित्याय भवति।  
 </details>
+</details>
 
 ## सन्तत-वचनम्
 
@@ -191,6 +209,8 @@ He repeats the first (verse) thrice, the last thrice; verily he ties the end of 
 
 स᳓न्ततम् अ᳓न्वाह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,11 +236,14 @@ He repeats (it) continuously,
 
 पूर्वस्यामृच्युत्तरार्धस्योत्तरस्यामृचि पूर्वार्धस्य च परस्पराविश्लेशं विधत्ते—  **संततमन्वाहेति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓नाम् अन्ना᳓द्यस्य स᳓न्तत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,11 +269,14 @@ for the continuity of the breaths and of food,
 
 तदेतत्संततोच्चारणं यजमानस्य प्राणानां संतत्यै भोज्यवस्तुसंतत्यै च संपद्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो र᳓क्षसाम् अ᳓पहत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,6 +302,7 @@ and for the smiting away of the Raksases.
 
 किंच राक्षसाः श्वासनिरोधेनापहता भवन्ति।  
 </details>
+</details>
 
 ## रथन्तरी
 
@@ -283,6 +310,8 @@ and for the smiting away of the Raksases.
 
 रा᳓थन्तरीम् प्रथमा᳓म् अ᳓न्वाह।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,12 +337,15 @@ The first he repeats is connected with the Rathantara (Saman),
 
 यस्याः प्रथमाया आवृत्तिर्विहिता तां स्वरूपेण विधत्ते—  **राथंतरीमिति।** कस्मिंश्चित्सामशाखाविशेषे ‘प्र वो वाजाः” इत्येत श्यामृचि रथंतरसाम्नो गीतत्वादियं राथंतरी। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓थन्तरो वा᳓ अयल्ँ᳓ लोक᳓  
 इम᳓म् एव᳓ लोक᳓म् अभि᳓ जयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,6 +372,7 @@ this world is connected with the Rathantara; verily he conquers this world.
 
 रथंतरसामयुक्ते कर्मणा संपादयितुं शक्यत्वाद्भूलोकस्य राथंतरत्वम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -347,6 +380,8 @@ this world is connected with the Rathantara; verily he conquers this world.
 त्र᳓य इमे᳓ लोका᳓,  
 इमा᳓न् एव᳓ लोका᳓न् अभि᳓ जयति 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,6 +409,7 @@ He divides it thrice; these worlds are three; verily he conquers these worlds.
 
 यदुक्तं सूत्रकारेण-“तृतीयां सामिधेनीं त्रिर्विगृह्णाति” इति, तदेतद्विधत्ते—  **त्रिर्वि गह्णातीति।** तृतीयस्याः सामिधेन्याः प्रथमपादमुच्चार्य सकृद्विग्रहः कार्यः। अर्धर्चे द्वितीयो विग्रहः। तत उत्तरार्ध उपरितनमन्त्रस्य पूर्वार्धं च संयोज्य तदन्ते तृतीयो विग्रहः। एतेन विग्रहत्रयेण लोकत्रयजयो भवति। 
 </details>
+</details>
 
 ## बार्हती
 
@@ -383,6 +419,8 @@ He divides it thrice; these worlds are three; verily he conquers these worlds.
 बा᳓र्हतो वा᳓ असौ᳓ लोकः᳓,  
 अमु᳓म् एव᳓ लोक᳓म् अभि᳓ जयति 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,6 +454,7 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 
 प्र वः॑ [40]  वाजा॒ इत्यनि॑रुक्ताम्प्राजाप॒त्यामन्वा॑ह य॒ज्ञो वै प्र॒जाप॑तिर्य॒ज्ञमे॒व प्र॒जाप॑ति॒मा र॑भते॒ प्र वो॒ वाजा॒ इत्यन्वा॒हान्नव्ँ॒ वै वाजोऽन्न॑मे॒वाव॑ रुन्द्धे॒ प्र वो॒ वाजा॒ इत्यन्वा॑ह॒ तस्मा॑त्प्रा॒चीनँ॒ रेतो॑ धीय॒ते
 </details>
+</details>
 
 ## प्र वो वाजा
 
@@ -423,6 +462,8 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 
 प्र᳓ वो वा᳓जा इ᳓त्य् अ᳓निरुक्ताम् +++(अनिरुक्तत्वाद् एव→)+++ प्राजापत्या᳓म् अ᳓न्वाह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -439,12 +480,15 @@ The last he repeats is connected with the Brhat (Saman); yonder world is connect
 प्रेति॑ । वः॒ । वाजाः॑ । इति॑ ।  
 अनि॑रुक्ता॒मित्यनिः॑-उ॒क्ता॒म् । प्रा॒जा॒प॒त्यामिति॑ प्राजा-प॒त्याम् । अन्विति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ प्रजा᳓पतिर्,  
 यज्ञ᳓म् एव᳓ प्रजा᳓पतिम् आ᳓ रभते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -461,6 +505,7 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 य॒ज्ञः । वै । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।  
 य॒ज्ञम् । ए॒व । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । एति॑ । र॒भ॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -468,6 +513,8 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 अ᳓न्नव्ँ वै᳓ वा᳓जः ।  
 अ᳓न्नम् एवा᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +534,14 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 अन्न॑म् । वै । वाजः॑ ।  
 अन्न॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ वो वा᳓जा इ᳓त्य् अ᳓न्वाह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,11 +574,14 @@ Prajapati is the sacrifice; verily he grasps the sacrifice as Prajapati.
 तथाऽत्र प्रशब्दोच्चारणं प्रशंसति-  
 प्र वो वाजा इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् +++(→प्र-शब्दात्)+++ प्राची᳓नँ+++(=प्रगतं)+++ रे᳓तो धीयते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -561,6 +614,7 @@ therefore seed is deposited in front.
 
 अग्न॒ आ या॑हि वी॒तय॒ इत्या॑ह॒ तस्मा॑त्प्र॒तीचीः॑ प्र॒जा जा॑यन्ते॒ प्र वो॒ वाजाः॑ [41]  इत्यन्वा॑ह
 </details>
+</details>
 
 ## अग्न आयाहि
 
@@ -570,6 +624,8 @@ therefore seed is deposited in front.
 
 त᳓स्मात् +++(←"आयाहि")+++ प्रती᳓चीः प्रजा᳓ जायन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -603,6 +659,7 @@ therefore seed is deposited in front.
 
 मासा॒ वै वाजा॑ अर्धमा॒सा अ॒भिद्य॑वो दे॒वा ह॒विष्म॑न्तो॒ गौर्घृ॒ताची॑ य॒ज्ञो दे॒वाञ्जि॑गाति॒ यज॑मानस्सुम्न॒युरि॒दम॑सी॒दम॒सीत्ये॒व य॒ज्ञस्य॑ प्रि॒यन्धामाव॑ रुन्द्धे
 </details>
+</details>
 
 ## प्रवो वाजा
 
@@ -611,6 +668,8 @@ therefore seed is deposited in front.
 प्र᳓ वो वा᳓जा᳓ इ᳓त्य᳓न्वाह ।  
 मा᳓सा वै᳓ "वा᳓जाः" ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -640,11 +699,14 @@ therefore seed is deposited in front.
 प्र वो वाजा इति।
 वजन्ति गच्छन्ति क्रमेण प्रवर्तन्त इति चैत्रादिमासा वाजाः। इदमेव ब्राह्मणवाक्यं हृदि निधाय मन्त्रार्थः पूर्वं दर्शितः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धमासा᳓ "अभि᳓-द्यवः" .. ,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,11 +727,14 @@ therefore seed is deposited in front.
 
 अर्धमासाः अभिद्यवः दिवसैरभिगतदीप्तित्वात् साभिप्रायेण क्रियाप्रवर्तकाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ "हवि᳓ष्मन्तः" ,    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,11 +755,14 @@ therefore seed is deposited in front.
 
 हविष्मन्तो देवाः क्रियया आराध्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौ᳓र् "घृता᳓ची",   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -715,11 +783,14 @@ therefore seed is deposited in front.
 
 घृताची घृतमञ्चतीति । घृतहेतुर्गौः हविःप्रदानेन क्रियाप्रवृत्तिहेतुः । पूर्ववत् 'चौ' इति दीर्घत्वम्, अन्तोदात्तत्वं च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ "देवा᳓ञ् जिगाति" ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -740,11 +811,14 @@ therefore seed is deposited in front.
 
 स यज्ञो देवान् जिगाति गच्छति तृप्तिहेतुत्वेन । गाङ् गतौ, व्यत्ययेन परस्मैपदं, शपः श्लुः, अभ्यासस्य चेत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानस् "सुम्नयुः᳓" ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -765,6 +839,7 @@ therefore seed is deposited in front.
 
 सुम्नयुः सुखमात्मन इच्छतीति सुम्नयुर्यजमानः फलभाक् । एवमेते यज्ञस्याधाराः ।
 </details>
+</details>
 
 ## इदम् असि
 
@@ -772,6 +847,8 @@ therefore seed is deposited in front.
 
 "इद᳓म् असि, इद᳓म् असी᳓"त्य् एव᳓ यज्ञ᳓स्य प्रिय᳓न् धा᳓मा᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -803,6 +880,7 @@ therefore seed is deposited in front.
 
 प्रा॒णेनै॒वास्या॑पा॒नन्दा॑धार॒ सर्व॒मायु॑रेति
 </details>
+</details>
 
 ## सन्तत-वचनम्
 
@@ -813,6 +891,8 @@ therefore seed is deposited in front.
 "अ᳓ग्न आ᳓ याहि वीत᳓य" इ᳓ति स᳓न्ततम्  
 उ᳓त्तरम् अर्धर्च᳓म् आ᳓ लभेत 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -842,12 +922,15 @@ If he desire for a man, 'May he live all his days', he should repeat for him 'Fo
 
 यदुक्तं संततमन्वाह प्राणानामन्नाद्यस्य संतत्यै, इति, तदेवेदानीं काम्यत्वेनापि विधत्ते-  **यं कामयेतेति।** यं यजमानमुद्दिश्य होता कामयते। किमिति अयं यजमानो मृत्युरहितः सर्वमायुः प्राप्नुयादिति, तस्य यजमानस्याऽऽयुष्प्राप्तये प्रथमां सामिधेनीं सर्वामनूच्य विच्छेदमकृत्वोत्तरमन्त्रस्य प्रथममर्धर्चमुपक्रमेत। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणे᳓नैवा᳓स्यापान᳓न् दाधार ।  
 स᳓र्वम् आ᳓युर् एति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -880,6 +963,7 @@ Verily by expiration does he make steadfast his inspiration, and he lives all hi
 
 यो वा अ॑र॒त्निँ सा॑मिधे॒नीनाव्ँ॒वेदा॑र॒त्नावे॒व भ्रातृ॑व्यङ्कुरुतेऽर्ध॒र्चौ सन्द॑धात्ये॒ष वा अ॑र॒त्निस्सा॑मिधे॒नीनाय्ँ॒य ए॒वव्ँ वेदा॑र॒त्नावे॒व भ्रातृ॑व्यङ्कुरुते
 </details>
+</details>
 
 ## अर्ध-ऋक्-सन्धानम्
 
@@ -888,6 +972,8 @@ Verily by expiration does he make steadfast his inspiration, and he lives all hi
 यो᳓ वा᳓ अरत्निँ᳓+++(=elbow)+++ सामिधेनी᳓नाव्ँ वे᳓द …
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -916,11 +1002,14 @@ He, who knows the elbow of the Samidhenis, puts his enemy in his elbow.
 
 तदेव सांतस्यं पुनः प्रकारान्तरेण प्रशंसति- **यो वा अरत्निमिति।** कूर्परमारभ्य प्रसारितकनिष्ठाङ्गुलिपर्यन्तो हस्तभागोऽरत्नि। न च तस्यारत्नेर्मध्ये विच्छादोऽस्ति तद्वदुभयोः सामिधेन्योर्मध्ये सांतत्यमरत्नित्वेनोपचर्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरत्ना᳓व् एव᳓ भ्रा᳓तृव्यङ् कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -946,6 +1035,7 @@ puts his enemy in his elbow.
 
 यो होता तदिदं सांतत्यं विदित्वाऽनुतिष्ठति स होता भ्रातृव्यं यजमानस्यारत्नौ स्थापयति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -955,6 +1045,8 @@ puts his enemy in his elbow.
 य᳓ एवव्ँ᳓ वे᳓द ।  
 अरत्ना᳓वेव᳓ भ्रा᳓तृव्यङ् कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -992,6 +1084,7 @@ He joins the half-verses; this is the elbow of the Samidhenis; he who knows thus
 
 ऋषे॑र्ऋषे॒र्वा ए॒ता निर्मि॑ता॒ यत्सा॑मिधे॒न्य॑स्ता यदसय्ँ॑युक्ता॒स्स्युᳶ प्र॒जया॑ प॒शुभि॒र्यज॑मानस्य॒ वि ति॑ष्ठेरन्नर्ध॒र्चौ सन्द॑धाति॒ सय्ँयु॑नक्त्ये॒वैना॒स्ता अ॑स्मै॒ सय्ँयु॑क्ता॒ अव॑रुद्धा॒स्सर्वा॑मा॒शिष॑न्दुह्रे ॥43॥   
 </details>
+</details>
 
 ### ऋषिततिः
 
@@ -1000,6 +1093,8 @@ He joins the half-verses; this is the elbow of the Samidhenis; he who knows thus
 ऋ᳓षेर् ऋषेर् वा᳓ एता᳓ नि᳓र्मिता  
 य᳓त् सामिधेन्यः᳙ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1030,12 +1125,15 @@ The Samidhenis were brought out by Rsi after Rsi;
 युगान्तेऽन्तर्हितान्वेदान्तेतिहासान्महर्षयः।  
 लेभिरे तपसा पूर्वमनुज्ञाताः स्वयंभुवा।। इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ य᳓द् अ᳓सय्ँयुक्तास् स्युᳶ᳓  
 प्रज᳓या पशु᳓भिर् य᳓जमानस्य वि᳓ तिष्ठेरन् +++(ऋषयः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1061,12 +1159,15 @@ if they were not connected together, they would go away from the sacrificer's of
 
 तथा सति भिन्नेभ्यऋषिभ्यः प्रवर्तितास्ताः सामिधेन्यो यद्यसंयुक्ता भवेयुस्तदानीं यजमानस्य प्रजया पशुभिरेताः सामिधेन्यो **वितिष्ठेरन्** वियुक्तास्तिष्ठेयुः। प्रजापशुसमृद्धिहेतवो न भवेयुरित्यर्थः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धर्चौ᳓ स᳓न्दधाति ।  
 सय्ँ᳓ युनक्त्य् एवै᳓नाः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1095,12 +1196,15 @@ He unites the half-verses; verily he connects them together,
 
 तत्परिहाराय पूर्वस्याः सामिधेन्या उत्तरार्धमुत्तरस्याः सामिधेन्याः पूर्वार्धं च संदध्यात्। तथा सत्येनाः सामिधेनीः संयोजितवानेव भवति। न चैवमेकस्यामपि सामिधेन्यां पूर्वोत्तरार्धर्चौ संघातव्याविति शङ्कनीयम्। तयोरेकर्षिप्रवर्तितत्वेन होतृप्रयुक्तसंधानमन्तरेणापि स्वरूपतो वियोगाभावात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अस्मै सय्ँ᳓युक्ता अ᳓वरुद्धास्  
 स᳓र्वाम् आशि᳓षन् दुह्रे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1128,4 +1232,5 @@ and being so connected and secured they yield him all his desires.
 <details><summary>सायण-टीका</summary>
 
 यथोक्तरीत्या संयुक्तास्ताः सामिधेन्यो यजमानाय सर्वामाशिषं **दुहूवे** दुहन्ति संपादयन्ति।  
+</details>
 </details>

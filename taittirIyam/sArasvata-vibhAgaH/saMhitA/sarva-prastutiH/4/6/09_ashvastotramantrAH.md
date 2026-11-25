@@ -7,6 +7,8 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 
 चतुर्थकाण्डे षष्ठप्रपाठके नवमोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थाष्टके पष्टप्रपाठके नवमोऽनुवाकः)।  
@@ -15,12 +17,15 @@ title = "०९ अश्वस्तोत्रमन्त्राः"
 अथ नवमेऽविशिष्टा अश्वस्तोत्रमन्प्रा उच्यन्ते ।  
 तत्र प्रथमामृचमाह— ये बाजिनमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ये᳓ वाजि᳓नम्परिप᳓श्यन्ति पक्वय्ँ᳓य᳓ ईमाहु᳓स्सुरभि᳓र्नि᳓र्हरे᳓ति ।  
 ये᳓ चा᳓र्वतो माँसभिक्षा᳓मुपा᳓सत उतो᳓ ते᳓षामभि᳓गूर्तिर्न इन्वतु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,10 +49,14 @@ May their approval quicken us.
 
 ये पुरुषा वाजिनमेतमश्वं पक्वं पाकं प्राप्तं परिपश्यन्ति षरित आगत्याऽऽदूरेण पश्यन्ति, य ईं येऽप्यन्ये सुरभिः सुगन्धोऽयमश्वोऽस्मान्निर्हर निष्कृष्याल्पमाहरेत्याहुः, उतो अपि च ये चान्येऽर्वतोश्वस्य संबन्धिनीं मांसभिक्षामुपासते प्रार्थयन्ते, तेषां सर्वेषामभिगूर्तिः संकल्पो न इन्वतु प्राप्नोत्वस्माकं श्रेयते भवत्वित्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामृचमाह– यन्नीक्षणमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,6 +64,8 @@ May their approval quicken us.
 य᳓न्नी᳓क्षणम्माँस्प᳓चन्या उखा᳓या या᳓ पा᳓त्राणि यूष्ण᳓ आसे᳓चनानि ।  
 ऊष्मण्या᳙पिधा᳓ना चरूणा᳓मङ्का᳓स्सूनाᳶ᳓ प᳓रि भूषन्त्य᳓श्वम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,10 +91,14 @@ The hooks, the crates, attend the steed.
 
 मांसं पच्यते यस्यामुखायां सा मांस्पचनी, तस्या उखाया नीक्षणं नितरमीक्षणमादरेण दर्शनं यदस्ति, यानि च पात्राणि यूष्णो रसस्याऽऽसेचनानि सर्वतः सेचनाधारभूतानि, चरूणां मांसादीनामपिधानाऽऽच्छादनपात्राणि ??? ऊष्मण्योष्मरक्षणार्थानि यानि सन्ति, अङ्का मांसलेनाङ्किताः सूनाः स्वधितिवेतसशाखाद्या याः सन्ति, तानि सर्वाण्यश्वं परिभूषन्ति अश्वस्य यत्कार्यं तदेव कुर्वन्तीत्यर्थः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामृचमाह– निष्क्रमणमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -91,6 +106,8 @@ The hooks, the crates, attend the steed.
 निक्र᳓मणन्निष᳓दनव्ँविव᳓र्तनय्ँय᳓च्च प᳓ड्बीशम᳓र्वतः ।  
 य᳓च्च पपौ᳓ य᳓च्च घासि᳓म् [43]  जघा᳓स स᳓र्वा ता᳓ ते अ᳓पि देवे᳓ष्वस्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,10 +132,14 @@ May all these of thine be with the gods.
 
 निष्क्रमणमश्वस्य पादप्रक्षेपस्थानं निषदनं निवासस्थानं विवर्तनं परिवर्तनस्थानं च यदस्ति, यदप्यर्वतोऽश्वस्य पड्बीशं पादबन्धनस्थानं पादक्षुण्णरजो वाऽस्ति, यदप्युदकं पपौ, यच्च घासिं तृणादिकं जघास भक्षितवान्, ते त्वदीयं सर्वा ता तत्सर्वं देवेष्यप्यस्तु देवेष्वेव समर्पितं भवतु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमृचमाह– मा त्नाऽग्निरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -126,6 +147,8 @@ May all these of thine be with the gods.
 मा᳓ त्वाग्नि᳓र्ध्वनयिद्धूम᳓गन्धिर्मो᳓खा᳓ भ्रा᳓जन्त्यभि᳓ विक्त ज᳓घ्रिः ।  
 इष्टव्ँ᳓वीत᳓मभि᳓गूर्तव्ँव᳓षट्कृतन्त᳓न्देवा᳓सᳶ प्र᳓ति गृभ्णन्त्य᳓श्वम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,10 +179,14 @@ The gods accept the horse.
 त्वं तु जघ्रिराघ्राणयोग्यः सुगन्धो भ (न्विर्म) वेति शेषः ।  
 इष्टमन्तयन्तेच्छाविषयं वीतं कान्तं रमणीयपाकमभिगूर्तंदेवयोग्यमस्त्विति यजमानैः संकल्पितं वषट्कृतं वषट्कारेण प्रदत्तमश्वं देवाः प्रतिगृभ्णन्ति देवाः स्वी कुर्वन्तु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमृचमाह– यदश्वायेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +194,8 @@ The gods accept the horse.
 य᳓द᳓श्वाय वा᳓स उपस्तृण᳓न्त्यधीवासय्ँ᳓या᳓ हि᳓रण्यान्यस्मै ।  
 सन्दा᳓नम᳓र्वन्तम्प᳓ड्बीशम्प्रिया᳓ देवे᳓ष्वा᳓ यामयन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,10 +221,14 @@ As dear to the gods they offer.
 हन्यमानस्याश्वस्याधस्ताद्वस्त्रमुपरिष्टाच्च किंचिद्वस्त्रं प्रसार यन्ति, तदुभयमत्र वासःशब्देनाधीवासशब्देन चोच्यते ।  
 यद्वासोऽश्वार्थमुपस्तृणन्त्यधः प्रसारयन्ति, यच्चाधि (धी)वासमुपर्याच्छदयन्ति, यानि चान्यानि हिरण्यमण्यादीन्यस्मा अश्वार्थं संपादितानि, अर्वन्तमर्वतोऽश्वस्य यत्संदानं बन्धनसाधनं दाम, यच्च पड्बीशं पादबन्धनस्थानगता रज्जुस्तानि सर्वाणि देवेषु प्रिया प्रियाणि भूत्वाऽऽयामयन्ति सर्वतः प्रसारयन्तु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमृचमाह– यत्ते साद इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/162/17_yatte_sAde.md">
@@ -210,12 +243,15 @@ As dear to the gods they offer.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 If one hath smitten thee, riding thee driven with force,  
 With heel or with whip [2],  
 As with the ladle the parts of the oblation in the sacrifice,  
 So with holy power all these of thine I put in order.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/162/17_yatte_sAde.md">
@@ -577,9 +613,12 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सप्तमीमाह चतुस्त्रिँशदिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -587,6 +626,8 @@ Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Fers
 च᳓तुस्त्रिँशद्वाजि᳓नो देव᳓बन्धोर्व᳓ङ्क्रीर᳓श्वस्य स्व᳓धितिस्स᳓मेति ।  
 अ᳓च्छिद्रा गा᳓त्रा वयु᳓ना कृणोत प᳓रुष्परुरनुघु᳓ष्या वि᳓ शस्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,10 +656,14 @@ Declaring each part, do ye cut it asunder.
 हे शमितारो गात्रा हृदयाद्यङ्गानि अच्छिद्रा वयुना छिद्ररहितानि यथा भवन्ति तथा कृणोत कुरुत ।  
 तत्र चायमुपायः– पुरुष्परुरनुघुष्य तत्पर्वानुक्रमेण तदीदृशमिति कथमपि ज्ञात्वा विशस्त विशसनं कुरुत।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमी (मृच) माह– एकस्त्वष्टुरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -626,6 +671,8 @@ Declaring each part, do ye cut it asunder.
 ए᳓कस्त्व᳓ष्टुर᳓श्वस्या विशस्ता᳓ द्वा᳓ यन्ता᳓रा भवतस्त᳓थर्तुः᳓ ।  
 या᳓ ते गा᳓त्राणामृतुथा᳓ कृणो᳓मि ता᳓ता पि᳓ण्डानाम्प्र᳓ जुहोम्यग्नौ᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -653,10 +700,14 @@ Those in balls I offer in the fire.
 अत एवान्यत्राऽऽम्नातम् “अघ्रिगुश्चापापश्च ।  
 उभौ देवानाँ शमि तारौ” इति हेऽश्व ते तव गात्राणां यान्यङ्गानि ऋतुथर्तूपलक्षिते तत्तत्काले कृणोमि च्छिनद्मि, पिण्डानां मांसपिण्डानां मध्ये ताता तानि तान्यङ्गानि प्रजुहोम्यग्नौ प्रकर्षेण जुहोमि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमी (मृच)माह— मा त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -664,6 +715,8 @@ Those in balls I offer in the fire.
 मा᳓ त्वा तपत् [45]  प्रिय᳓ आत्मा᳓पिय᳓न्तम्मा᳓ स्व᳓धितिस्तनु᳓व आ᳓ तिष्ठिपत्ते ।  
 मा᳓ ते गृध्नु᳓रविशस्ता᳓तिहा᳓य छिद्रा᳓ गा᳓त्राण्यसि᳓ना मि᳓थू कः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,10 +743,14 @@ Missing the joints, mangle thy limbs with the knife.
 तथा स्वधितिस्ते तनुवो गात्राणि नाऽऽतिष्ठिपन्मैव स्थापयतु, किमप्यङ्गमनवशेष्य सर्वं छिनत्त्वित्यर्थः।  
 अविशस्ता विशसनकौशलरहितः केवलं मांसतृष्णायुक्तोऽतिहाय विशसनकौशलरहितप्रकारम तिलङ्घ्य ते गात्राणि तवाङ्गान्यसिना शस्त्रेण मिथु च्छिद्राणि ना कर्मा करोतु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमी (मृच) माह– न वा उवेतदिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -701,6 +758,8 @@ Missing the joints, mangle thy limbs with the knife.
 न᳓ वा᳓ उ वेत᳓न्म्रियसे न᳓ रिष्यसि देवाँ᳓ इ᳓देषि पथि᳓भिस्सुगे᳓भिः ।  
 ह᳓री ते यु᳓ञ्जा पृ᳓षती अभूतामु᳓पास्थाद्वाजी᳓ धुरि᳓ रा᳓सभस्य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -733,10 +792,14 @@ Kingship for us may the horse rich in offering gain.
 * एवं तथा मरुद्रूपं प्राप्तस्य ते पृषती चित्रवर्णे अश्वस्त्रियौ युञ्जावभूतां रथे युक्तौ भविष्यतः।  
 इदानीं रासभस्य धुरि वर्तमानस्व गर्दभवद्भारवाहिनस्तव वाज्युपास्थात्त्वां वोढुं कश्चित्प्रौढोऽश्वः प्राप्तो भविष्यति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशी[ मृच ]माह– सुगव्यमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -744,6 +807,8 @@ Kingship for us may the horse rich in offering gain.
 सुग᳓व्यन्नो वाजी᳓ स्व᳓श्वियम्पुँसᳶ᳓ पुत्राँ᳓ उत᳓ विश्वापु᳓षँ रयि᳓म् ।  
 अनागास्त्व᳓न्नो अ᳓दितिᳵ कृणोतु क्षत्र᳓न्नो अ᳓श्वो वनताँ हवि᳓ष्मान् ॥ [46]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -772,6 +837,7 @@ Kingship for us may the horse rich in offering gain.
 तदेवमेतेषु त्रिष्वनुवाकेषु अश्वस्तोत्रप्रतिपादकत्वेनाश्वस्तोमीया मन्त्राः पञ्चत्रिंशदाम्नाताः ।  
 अवशिष्टा तु पञ्चमकाण्डे समाम्नास्यते ।  
 तथा च सूत्रकार आह– “क्रमैरत्यक्रमीदित्येतां षट्त्रिंशीम्” इति।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

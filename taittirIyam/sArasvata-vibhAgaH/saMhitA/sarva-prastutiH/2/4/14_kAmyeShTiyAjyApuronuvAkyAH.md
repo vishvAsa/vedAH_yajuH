@@ -5,9 +5,12 @@ title = "१४ काम्येष्टियाज्यापुरोन�
 
 विश्वेदेवा ऋषयः ।  १-५, १५,१७ त्रिष्टुप्, ६-८ बृहती, ९ उष्णिक्, १०,१४,१६ गायत्री।  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ याज्याकाण्डं वैश्वदेवम् । 'यः पापयक्ष्मगृहीतस्स्यात्तस्मा एतमादित्यं चरुं निर्वपेत्' इत्यस्याः पुरोनुवाक्या - नवोनव इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/19_navonavo_bhavati.md">
@@ -23,12 +26,15 @@ title = "१४ काम्येष्टियाज्यापुरोन�
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 He is born ever new;  
 The banner of the days goeth before the dawns.  
 He appointeth their portion to the gods as he advanceth  
 The moon extendeth length of days.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/085/19_navonavo_bhavati.md">
@@ -375,9 +381,12 @@ Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - यमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/23_yam_AdityA.md">
@@ -423,6 +432,8 @@ The guardians of the world make us to swell.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राच्या॑न्दि॒शि त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्याव्ँवृत्रहन्वृत्र॒हासि॑ ।   
@@ -432,6 +443,7 @@ The guardians of the world make us to swell.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'यं कामयेतान्नादस्स्यादिति तस्मा एतं त्रिधातुं निर्वपेदिन्द्राय राज्ञे पुरोडाशमेकादशकपालमिन्द्रायाधिराजायेन्द्राय स्वराज्ञे' इत्यस्याः प्रथमस्याः पुरोनुवाक्या, तृतीयस्याश्च याज्या - प्राच्यामिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/28_prAchyAn_dishi.md">
@@ -484,9 +496,12 @@ On the south be the bull whom we invoke.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ प्रथमस्य याज्या, द्वितीयस्य पुरोनुवाक्या - इन्द्र इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/14_kAmyeShTiyAjyApuronuvAkyAH/32_indro_jayAti.md">
@@ -537,9 +552,12 @@ That he may be reverenced and honoured.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ तत्रैव द्वितीयस्य याज्या, तृतीयस्य पुरोनुवाक्या - अस्येदिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/061/09_asyedeva_pra.md">
@@ -555,12 +573,15 @@ That he may be reverenced and honoured.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 His greatness surpasseth  
 Sky or earth or heaven;  
 Indra sole lord, hailed by all, in his home  
 Boisterous and brave, waxeth great for the conflict.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/061/09_asyedeva_pra.md">
@@ -925,9 +946,12 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ 'य इन्द्रियकामो वीर्यकामस्स्यात्तमेतया सर्वपृष्ठया याजयेत्' इत्यस्यां सर्वपृष्ठायामिष्ट्यां प्रथमस्य 'यदिन्द्राय राथन्तराय निर्वपति' इत्यस्य प्रथमस्य हविषः पुरोनुवाक्या, षष्ठस्य च याज्या - अभि त्वेति पथ्याबृहती, तृतीयपादस्य द्वादशाक्षरत्वात् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/032/22_abhi_tvA.md">
@@ -941,12 +965,15 @@ Es überragte wahrlich seine Grösse die weite Luft, den Himmel und die Erde; Se
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 We call on thee, O hero, in praise,  
 Like kine unmilked,  
 Lord [2] of this moving world, seeing the heavenly light,  
 Lord, O Indra, of what standeth.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/032/22_abhi_tvA.md">
@@ -1251,9 +1278,12 @@ Wir schreien an, o Held, zumal wie ungemolkne Kühe dich; Den himmelsgleichen, d
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ तस्यैव प्रथमस्य याज्या, 'इन्द्राय बार्हताय' इत्यस्य च पुरोनुवाक्या - त्वामिद्धीति पूर्ववत्पथ्याबृहती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/046/01_tvAmiddhi_havAmahe.md">
@@ -1269,12 +1299,15 @@ Wir schreien an, o Held, zumal wie ungemolkne Kühe dich; Den himmelsgleichen, d
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 We call on thee,  
 We poets, to gain the prize;  
 Men call on thee, lord of heroes, O Indra, amongst foes,  
 On thee in the racing of the horse.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/046/01_tvAmiddhi_havAmahe.md">
@@ -1603,9 +1636,12 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ द्वितीयस्य याज्या, तृतीयस्य पुरोनुवाक्या - 'इन्द्राय वैरूपाय' इत्यस्य । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/070/05_yaddyAva_indra.md">
@@ -1621,12 +1657,15 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 If, O Indra, a hundred skies,  
 A hundred earths were thine,  
 Not a thousand suns could match thee at birth,  
 Nor the two worlds.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/070/05_yaddyAva_indra.md">
@@ -1958,9 +1997,12 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ तृतीयस्य याज्या, चतुर्थस्य 'इन्द्राय वैराजाय' इत्यस्य पुरोनुवाक्या - पिबा सोममिति विराट् त्रिपदा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/022/01_pibA_somamindra.md">
@@ -1975,11 +2017,14 @@ Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausen
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Drink the Soma, O Indra; let it gladden thee,  
 (The Soma) which for thee, O lord of bays, the stone  
 Through the arms of the presser [3], like a horse well guided hath expressed.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="2" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/07/022/01_pibA_somamindra.md">
@@ -2283,9 +2328,12 @@ Den Soma trink, der dich berausche, Indra, den dir der Stein gepresst, o Herr de
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अथ चतुर्थस्य याज्या, 'कदा चन' इति सूत्रकारवचनात् सैव पञ्चमस्य च 'इन्द्राय शाक्वरार्य' इत्यस्य पुरोनुवाक्या, पञ्चमस्य याज्या - रेवतीर्न इति गायत्री ॥ इयमेव षष्ठस्य च 'इन्द्राय रैवताय' इत्यस्य पुरोनुवाक्या । व्याख्याता चेयं 'अन्वह मासाः' इत्यत्र । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/030/13_revatIrnaH_sadhamAda.md">
@@ -2300,11 +2348,14 @@ Den Soma trink, der dich berausche, Indra, den dir der Stein gepresst, o Herr de
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 With Indra may splendid feasts be ours,  
 Rich in strength,  
 Wherewith we may rejoice in food.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/030/13_revatIrnaH_sadhamAda.md">
@@ -2561,9 +2612,12 @@ Reich sei uns an Gut und Nahrung jedes Mahl, dem Indra beiwohnt, Das wir labungs
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'यश्चक्षुष्कामस्स्यात्तस्मा एतामिष्टिं निर्वपेदग्नये भ्राजस्वते पुरोडाशमष्टाकपालं सौर्यं चरुमग्नये भ्राजस्वते पुरोडाशमष्टाकपालम्' इत्यत्र 'अग्नये भ्राजस्वते' इत्यस्य पुरोनुवाक्या - उदग्ने शुचयस्तवेति गायत्री ॥ व्याख्यातेयं 'त्वमग्ने रुद्र' इत्यत्र । तस्य इह प्रतीकग्रहणम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
@@ -2577,9 +2631,12 @@ Reich sei uns an Gut und Nahrung jedes Mahl, dem Indra beiwohnt, Das wir labungs
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O Agni, thy pure.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/044/17_udagne_shuchayastava.md">
@@ -2824,6 +2881,8 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उद॑ग्ने॒ शुच॑य॒स्तव॒ ..
@@ -2833,10 +2892,14 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 उदिति॑ । अ॒ग्ने॒ । शुच॑यः । तव॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - वि ज्योतिषेति त्रिष्टुप् ॥ इयमपि 'कृणुष्व पाजः' इत्यत्र व्याख्याता । प्रतीकग्रहणमत्रास्या गृह्यते । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
@@ -2852,9 +2915,12 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 With the light.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/05/002/09_vi_jyotiShA.md">
@@ -3209,6 +3275,8 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 वि ज्योति॒षा ..
@@ -3218,10 +3286,14 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 वीति॑ । ज्योति॑षा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथ सौम्यस्य चरोः पुरोनुवाक्या - उदु त्यमिति गायत्री ॥ व्याख्याता चेयं ग्रहप्रश्ने । प्रतीकग्रहणमिदम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
@@ -3236,9 +3308,12 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thee, Jatavedas.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/01_udu_tyaM.md">
@@ -3528,6 +3603,8 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उदु॒ त्यञ्जा॒तवे॑दसँ
@@ -3537,10 +3614,14 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 उदिति॑ । उ॒ । त्यम् । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म्॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव पुरोनुवाक्या विकल्पयते - सप्त त्वेति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/08_sapta_tvA.md">
@@ -3555,11 +3636,14 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Seven bays in thy chariot  
 Bear thee, O god Surya,  
 With hair of light, O wise one.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/050/08_sapta_tvA.md">
@@ -3822,6 +3906,8 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तत्रैव याज्या - चित्रमिति त्रिष्टुप् ॥ 
@@ -3831,6 +3917,7 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 
 चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒ञ्चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः ।   
 आऽप्रा॒ द्यावा॑पृथि॒वी अ॒न्तरि॑क्षँ॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुषः॑ [47] च॒ ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
@@ -3846,12 +3933,15 @@ Es fahren sieben Stuten dich, o Sonnengott, weitschauender, Im Wagen dich lichth
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The radiant countenance of the gods hath arisen,  
 The eye of Mitra, Varuna, and Agni;  
 He hath filled the sky, the earth, and the atmosphere;  
 Surya is the soul of that which moveth and standeth [4].
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
@@ -4203,9 +4293,12 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16अथ 'वैश्वदेवीं सांग्रहणीं निर्वपेद्ग्रामकामः' इत्यस्य पुरोनुवाक्या - विश्वे देवा ऋतावृध इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/052/10_vishve_devA.md">
@@ -4220,11 +4313,14 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May the All-gods who further right,  
 Who hearken to the call in due season,  
 Find pleasure in this proper drink.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/052/10_vishve_devA.md">
@@ -4484,9 +4580,12 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17 तत्रैव याज्या - विश्वे देवाः शृणुतेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/052/13_vishve_devAH.md">
@@ -4502,12 +4601,15 @@ Die heil'gen Götter mögen all' zur Festzeit hörend unsern Ruf, Geniessen den 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O ye All-gods, hear my invocation,  
 Ye that are in the atmosphere, ye that are in the sky;  
 Ye with Agni as your tongue, worthy of sacrifice,  
 Sit on this strew and rejoice.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/052/13_vishve_devAH.md">

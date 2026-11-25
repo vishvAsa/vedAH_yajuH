@@ -4,6 +4,8 @@ title = "०२ वैश्वकर्मण होमः"
 त्रिष्टुप्, १७ पङ्क्तिः ।  
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे षष्ठप्रपाठके द्वितीयोऽनुवाकः)।  
@@ -13,12 +15,15 @@ title = "०२ वैश्वकर्मण होमः"
 कल्पः —  “षोडशगृहीतेन स्रुचं पूरयित्वा वैश्वकर्मणानि जुहोति य इमा विश्वा भुवनानि जुह्वच्चक्षुषः पिता मनसा हि धीर इति नानासूक्ताभ्यां द्वे आ हुती यं कामयेत चिरं पाप्मनो निर्मुच्यतेत्येकैकं तस्येत्युक्तम्” इति।  
 २१६२ तत्र प्रथमसूक्ते प्रथमामृचमाह—य इमा विश्वेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓ इमा᳓ वि᳓श्वा भु᳓वनानि जु᳓ह्वदृ᳓षिर्हो᳓ता निषसा᳓दा पिता᳓ नः ।  
 स᳓ आशि᳓षा द्र᳓विणमिच्छ᳓मानᳶ परमच्छ᳓दो व᳓र आ᳓ विवेश ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,10 +60,14 @@ Hath entered into the boon of the first of coverers.
 तदवानुप्राविशत्” इति।  
 एवमन्याअप्युपनिषद उदाहार्याः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामृचमाह— विश्वकर्मा मनसेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -66,6 +75,8 @@ Hath entered into the boon of the first of coverers.
 विश्व᳓कर्मा म᳓नसा य᳓द्वि᳓हाया धाता᳓ विधाता᳓ परमो᳓त᳓ सन्दृ᳓क् ।  
 ते᳓षामिष्टा᳓नि स᳓मिषा᳓ मदन्ति य᳓त्र सप्तर्षी᳓न्पर᳓ ए᳓कमाहुः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,10 +110,14 @@ Where say they is one beyond the seven Rsis.
 स च परमेश्वरस्तेषां सप्तर्षिप्रभृतीनामिष्टान्य पेक्षितानि स्थानानीषा स्वेच्छामात्रेण संपादयतीति।  
 तेन च ते महर्षयो हृष्यन्ति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामृजमाह—  २१६३ यो नः पितेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -111,6 +126,8 @@ Where say they is one beyond the seven Rsis.
 [6]
 यो᳓ देवा᳓नान्नामधा᳓ ए᳓क एव᳓ तँ᳓ सम्प्रश्ञ᳓म्भु᳓वना यन्त्यन्या᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,10 +161,14 @@ Him other beings approach for knowledge.
 एकीभावयुक्ते प्रलये क र्हश्वरः कानि भुवनानीत्येवं प्रश्नः संप्रधारणं प्रवर्तते।  
 विभागाभावेन श्रुत्यनभिज्ञैर्ज्ञातुमशक्यत्वात्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमृचमाह— त आऽयजन्तेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -155,6 +176,8 @@ Him other beings approach for knowledge.
 त᳓ आ᳓यजन्त द्र᳓विणँ स᳓मस्मा ऋ᳓षयᳶ पू᳓र्वे जरिता᳓रो न᳓ भूना᳓ ।  
 असू᳓र्ता सू᳓र्ता र᳓जसो विमा᳓ने ये᳓ भूता᳓नि सम᳓कृण्वन्निमा᳓नि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -182,10 +205,14 @@ They who fashioned these beings illumined and unillumined In the expanse of spac
 कीदृशानि भूतानि असूर्ताऽसुभिः प्राणैरीरितानि प्राणयुक्तानीत्यर्थः।  
 तथा रजसो विमाने सूर्ता रञ्जनात्मकस्य विशेषेण प्रमितौ स्वस्वकर्मभिः सुष्टु प्रेरितानि।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमी मृचमाह— 		न तं विदाथेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -193,6 +220,8 @@ They who fashioned these beings illumined and unillumined In the expanse of spac
 न᳓ तव्ँ᳓विदाथ य᳓ इद᳓ञ्जजा᳓नान्य᳓द्युष्मा᳓कम᳓न्तरम्भवाति ।  
 नीहारे᳓ण प्रा᳓वृता ज᳓ल्प्या चासुतृ᳓प उक्थशा᳓सश्चरन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,10 +259,14 @@ The singers of hymns move enjoying life.
 न केवलमिह लोके भोगमात्रतृप्तिः किंतू क्थशासः परलोकेऽपि भोगं संपादयितुं नानाविधेषु यज्ञेषूक्थानि शस्त्राणि शंसन्तीत्युक्थशासः तादृशा भूत्वा भवन्तश्चरन्ति, ऐहिकामुष्मिकभोगे सर्वदा प्रवर्तन्ते।  
 तस्मादज्ञानमिथ्याज्ञानपराधीनानां भवतां नास्ति तत्त्वज्ञानमित्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमृचमाह– परो दिवेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -241,6 +274,8 @@ The singers of hymns move enjoying life.
 परो᳓ दिवा᳓ पर᳓ एना᳓ [7]  पृथिव्या᳓ परो᳓ देवे᳓भिर᳓सुरैर्गु᳓हा य᳓त् ।  
 कँ᳓ स्विद्ग᳓र्भम्प्रथम᳓न्दध्र आ᳓पो य᳓त्र देवा᳓स्सम᳓गच्छन्त वि᳓श्वे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,10 +306,14 @@ When all the gods came together?
 सोऽपि गर्भः क इति न ज्ञायते।  
 यदा स्थूलोऽप्ययं जगदाधारो न ज्ञातास्तदाऽत्यन्तसूक्ष्मतत्त्वं न ज्ञायत इति किमु वक्तव्यमित्यभिप्रायः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमृचमाह— तमिद्गर्भं प्रथममिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -282,6 +321,8 @@ When all the gods came together?
 त᳓मि᳓द्ग᳓र्भम्प्रथम᳓न्दध्र आ᳓पो य᳓त्र देवा᳓स्सम᳓गच्छन्त वि᳓श्वे ।  
 अज᳓स्य ना᳓भाव᳓ध्ये᳓कम᳓र्पितय्ँय᳓स्मिन्निदव्ँ᳓वि᳓श्वम्भु᳓वनम᳓धि श्रित᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,10 +352,14 @@ On which doth rest all this world.
 तदण्डमभबद्धैर्म कोटिसूर्यसमप्रभम्॥  
 इति ॥  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमृचमाह— विश्वकर्मेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -322,6 +367,8 @@ On which doth rest all this world.
 विश्व᳓कर्मा ह्य᳓जनिष्ट देव᳓ आ᳓दि᳓द्गन्धर्वो᳓ अभवद्द्विती᳓यः ।  
 तृती᳓यᳶ पिता᳓ जनितौ᳓षधीनाम् [8] अपा᳓ङ्ग᳓र्भव्व्ँय᳙दधात्पुरुत्रा᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,10 +397,14 @@ In many a place did he deposit the germ of the waters.
 तदेवमपां गर्भं ब्रह्माण्डं परमेश्वरः पुरुत्रा व्यदधाद्वहुधा व्यक्तं कृतवान्।  
 इत्थमेकं सूक्तं समाप्तम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयसूक्ते प्रथमामृचमाह— चक्षुष पितेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -361,6 +412,8 @@ In many a place did he deposit the germ of the waters.
 च᳓क्षुषᳶ पिता᳓ म᳓नसा हि᳓ धी᳓रो घृत᳓मेने अजनन्न᳓न्नमाने ।  
 यदे᳓द᳓न्ता अ᳓ददृँहन्त पू᳓र्व आ᳓दि᳓द्द्या᳓वापृथिवी᳓ अप्रथेताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -388,10 +441,14 @@ Then did sky and earth extend.
 यदेद्यदैव पूर्वे प्रथमा अन्ता अतनयुक्ताश्चेष्टावन्तश्चक्षुरादिप्राणा अददृंहन्त दृढा अभवन्।  
 आदिदनन्तरमेव द्यावापृथिवी अपथेतां द्यावापृथिव्यौ विस्तृते अभूताम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामृचमाह— विश्वतश्चक्षुरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -399,6 +456,8 @@ Then did sky and earth extend.
 विश्व᳓तश्चक्षुरुत᳓ विश्व᳓तोमुखो विश्व᳓तोहस्त उत᳓ विश्व᳓तस्पात् ।  
 स᳓म्बाहु᳓भ्यान्न᳓मति स᳓म्प᳓तत्रैर्द्या᳓वापृथिवी᳓ जन᳓यन्देव᳓ ए᳓कः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,10 +485,14 @@ Welds them together with arms, with wings.
 स तादृश एको देवो द्यावापृथिवी जनयन्बाहुभ्यां बाहुस्थानी याभ्यां धर्माधर्माभ्यां निमित्तकारणाभ्यां संनमति जगत्सर्गं सम्यङ्नतं स्वाधीनं करोति।  
 तथा पतनैः पतनशीलरैनित्यैः पञ्चभूतैरुपादानकारणः संनपति जगत्स्वाधीनं करोति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामृचमाह— किँ स्विदासीदिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -437,6 +500,8 @@ Welds them together with arms, with wings.
 किँ᳓ स्विदासीदधिष्ठा᳓नमार᳓म्भणङ्कतम᳓त्स्वित्कि᳓मासीत् ।  
 य᳓दी भू᳓मिञ्जन᳓यन्न् [9]  विश्व᳓कर्मा वि᳓ द्या᳓मौ᳓र्णोन्महिना᳓ विश्व᳓चक्षाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -467,10 +532,14 @@ When producing earth [4] Viśvakarman, all-seeing, Disclosed the sky with his mi
 विश्चचक्षाः सर्वद्रष्टा विश्वकर्मा यदि यस्मिन्काले भूमिं भूलोकं जनयन्वर्तते तस्मिन्काले हि महिना महिम्नैव साधनान्तरं विनैव विशेषेण द्यामौर्णोत्सृष्ट्वा द्यावापृथिव्यावाच्छादितवान्।  
 अच्छिन्त्यशक्तिरयं परमेश्वरः
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमृचमाह– किँ स्विद्वनमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -478,6 +547,8 @@ When producing earth [4] Viśvakarman, all-seeing, Disclosed the sky with his mi
 किँ᳓ स्विद्व᳓नङ्क᳓ उ स᳓ वृक्ष᳓ आसीद्य᳓तो द्या᳓वापृथिवी᳓ निष्टतक्षुः᳓ ।  
 म᳓नीषिणो म᳓नसा पृच्छ᳓ते᳓दु त᳓द्य᳓दध्य᳓तिष्ठद्भु᳓वनानि धार᳓यन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,10 +581,14 @@ On what he stood as he supported the worlds.
 अतोऽत्रापि किंस्विद्वनमित्याद्याक्षेपपरत्वेनवै योजितम्।  
 पृच्छतेदित्य स्याप्ययमभिप्रायः—भवद्भिः पृष्टेऽपि निरपेक्षत्वमेवाभिज्ञा वदिष्यन्तीति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमृचमाह— या ते धामानीति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -521,6 +596,8 @@ On what he stood as he supported the worlds.
 या᳓ ते धा᳓मानि परमा᳓णि या᳓ऽवमा᳓ या᳓ मध्यमा᳓ विश्वकर्मन्नुते᳓मा᳓ ।  
 शि᳓क्षा स᳓खिभ्यो हवि᳓षि स्वधावस्स्वयय्ँ᳓यजस्व तनु᳓वञ्जुषाणः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,10 +622,14 @@ In the offering do thou teach thy comrades, O faithful one; Do thou thyself sacr
 हे विश्वकर्मंस्ते त्वदीयानि परमाणि यानि धामान्युत्कृष्टानि सन्ति, यानि मध्यमान्यवमानि च धामानि स्यानानि सन्ति, तानीमानि सर्वाणि स्थानानि सखिभ्यः सखिवत्प्रियेभ्यो हविषि हविष्प्रदानानिमित्तं शिक्षोप  २१६७ दिश।  
 हे स्वधावः स्वधोपलक्षितहविर्लक्षणान्नवन्विश्वकर्मस्तनुवं जुषाणो यजमानशरीरंसेवमानः स्वयं यजस्व त्वदनुग्रहन्तरेण को वाऽन्यो यष्टुं शक्त इत्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमृचमाह— वाचस्पतिमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -556,6 +637,8 @@ In the offering do thou teach thy comrades, O faithful one; Do thou thyself sacr
 वाच᳓स्प᳓तिव्ँविश्व᳓कर्माणमूत᳓ये [10]  मनोयु᳓जव्ँवा᳓जे अद्या᳓ हुवेम ।  
 स᳓ नो ने᳓दिष्ठा ह᳓वनानि जोषते विश्व᳓शम्भूर᳓वसे साधु᳓कर्मा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -583,10 +666,14 @@ He with all healing, to aid (us), the doer of good deeds.
 किमर्थम्, अवसेऽस्मानवितुं रक्षितुम्।  
 कीदृशः सः, विश्वशंभूः सर्वस्मिञ्जगति सुखस्य भावयिता साधुकर्माऽस्मदनुकूलव्यापारवान्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमृचमाह– विश्वकर्मन्निति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -594,6 +681,8 @@ He with all healing, to aid (us), the doer of good deeds.
 वि᳓श्वकर्मन्हवि᳓षा वावृधान᳓स्स्वयय्ँ᳓यजस्व तनु᳓वञ्जुषाणः᳓ ।  
 मु᳓ह्यन्त्वन्ये᳓ अभि᳓तस्सप᳓त्ना इहा᳓स्मा᳓कम्मघ᳓वा सूरि᳓रस्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,10 +707,14 @@ May our patrons here be rich.
 हे विश्वकर्मन्नस्मदीयेने हविषा वावृधानोऽतिशयेन वर्धमानस्तनुवं जुषाणः शरीरं स्वीकुर्वाणः स्वयं यजस्व, अस्मत्तोऽन्ये सपत्ना इह कर्मणि गुह्यन्तु भ्रान्ता भवन्तु।  
 अस्माकं तु मधवाऽन्नयुक्तः सूरिर्विद्वान्पुत्रोऽस्तु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमृचमाह– विश्वकर्मन्हविषेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -629,6 +722,8 @@ May our patrons here be rich.
 वि᳓श्वकर्मन्हवि᳓षा व᳓र्धनेन त्राता᳓रमि᳓न्द्रमकृणोरवध्य᳓म् ।  
 त᳓स्मै वि᳓शस्स᳓मनमन्त पूर्वी᳓रय᳓मुग्रो᳓ विहव्यो᳙ य᳓था᳓ऽसत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -654,11 +749,15 @@ That he might be dread, to be severally invoked.
 अयं यजमान उग्रस्तीव्रशक्तिः सन्केनाप्यपरिभूतो विहव्यो विविधयागयोग्यो यथाऽसद्याथा भवति तथा कुरु।  
 ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “यद्येनमुदकेऽभिविन्देदुदकाञ्जलिमादाय समुद्राय वयुनायेत्यप्सु जुहुयादिति अयज्ञसंयुक्तः कलाः” इति।  
 पाठस्तु— समुद्रायेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -666,6 +765,8 @@ That he might be dread, to be severally invoked.
 समुद्रा᳓य वयु᳓नाय सि᳓न्धूनाम्प᳓तये न᳓मः ।  
 नदी᳓नाँ स᳓र्वासाम्पित्रे᳓ जुहुता᳓ विश्व᳓कर्मणे वि᳓श्वा᳓हा᳓मर्त्यँ हविः᳓ ॥ [11]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -714,6 +815,7 @@ Through all the days the immortal offering.
 पृथक्सूक्तद्वयेऽपि सामर्थ्यं पृथक्संपादितं भवति।  
 अपि च सूक्तद्वित्वं यजमानस्य त्रतिष्ठायै संपद्यते।  
 तस्मादयमेव पक्षः श्रेयानित्यर्थः।  
+</details>
 </details>
 
 चतुर्थाष्टके षष्ठप्रपाठके तृतीयोऽनुवाकः

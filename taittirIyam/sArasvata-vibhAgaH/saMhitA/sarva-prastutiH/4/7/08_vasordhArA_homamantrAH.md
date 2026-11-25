@@ -3,6 +3,8 @@ title = "०८ वसोर्धारा होममन्त्राः"
 +++
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒ध्मश्च॑ मे ब॒र्हिश्च॑ मे॒ वेदि॑श्च मे॒ धिष्णि॑याश्च मे॒ स्रुच॑श्च मे चम॒साश्च॑ मे॒ ग्रावा॑णश्च मे॒ स्वर॑वश्च म उपर॒वाश्च॑ मेऽधि॒षव॑णे च मे द्रोणकल॒शश्च॑ मे वाय॒व्या॑नि च मे पूत॒भृच्च॑ म आधव॒नीय॑श्च म॒ आग्नी॑ध्रञ्च मे हवि॒र्धान॑ञ्च मे गृ॒हाश्च॑ मे॒ सद॑श्च मे पुरो॒डाशा॑श्च मे पच॒ताश्च॑ मेऽवभृ॒थश्च॑ मे स्वगाका॒रश्च॑ मे ॥ [15]  
@@ -13,6 +15,7 @@ title = "०८ वसोर्धारा होममन्त्राः"
 
 (अथ चतुर्थाष्टके सप्तमप्रपाठकेऽष्टमोऽनुवाकः) ।  
 अष्टममाह – इध्मश्च म इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -34,6 +37,8 @@ title = "०८ वसोर्धारा होममन्त्राः"
 आ᳓ग्नीध्रञ्च मे +++(कल्पताम्)+++ ।  
 हविर्धा᳓नञ्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,6 +74,7 @@ May the kindling-wood for me, the strew, the altar, the lesser altars, the offer
 
 इध्मादीनि यज्ञाङ्गद्रव्याणि यज्ञप्रकरणे प्रसिद्धानि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,8 @@ May the kindling-wood for me, the strew, the altar, the lesser altars, the offer
 स᳓दश्च मे +++(कल्पताम्)+++ ।  
 पुरोडा᳓शाश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,12 +106,15 @@ May the house, the Sadas, the cakes (prosper for me through the sacrifice);
 
 गृहाः पत्नीशालादयः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पचता᳓श्च मे +++(कल्पताम्)+++ ।
 अवभृथ᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +136,14 @@ May the cooked offerings, the final bath (prosper for me through the sacrifice);
 
 पचताः शामित्रादयः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वगाकार᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,6 +167,7 @@ May the cry of 'Godspeed' prosper for me through the sacrifice.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठकेऽष्टमोऽनुवाकः ॥  
 ८ ॥  
+</details>
 </details>
 
 चतुर्थकाण्डे सप्तमप्रपाठके नवमोऽनुवाकः

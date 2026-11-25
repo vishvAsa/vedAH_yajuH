@@ -5,15 +5,20 @@ title = "०६ कारीरीष्टिप्राच्याङ्ग�
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 चि॒त्रया॑ यजेत प॒शुका॑म इ॒यव्ँ वै चि॒त्रा यद्वा अ॒स्याव्ँविश्व॑म्भू॒तमधि॑ प्र॒जाय॑ते॒ तेने॒यञ्चि॒त्रा य ए॒वव्ँवि॒द्वाँश्चि॒त्रया॑ प॒शुका॑मो॒ यज॑ते॒ प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्र᳓या यजेत पशु᳓कामः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,11 +39,14 @@ He who desires cattle should sacrifice with the Śitra (offering);
 
 1चित्रया यजेतेत्यादि ॥ चित्रापूर्णमासे चित्रां निर्वपेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ चित्रा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,11 +67,14 @@ He who desires cattle should sacrifice with the Śitra (offering);
 
 इयं वा इति । विश्वं भूतजनाधिकरणतया चयनीयत्वादिष्टिपृथिव्योरभेदोपचारः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्वा᳓ अस्याव्ँ᳓वि᳓श्वम्भूत᳓म᳓धि प्रजा᳓यते ते᳓नेय᳓ञ्चित्रा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,12 +95,15 @@ in that in this (earth) all things are produced, thereby is this (earth) variega
 
 य एवमित्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓विद्वाँ᳓श्चित्र᳓या पशु᳓कामो य᳓जते ।  
 प्र᳓ प्रज᳓या पशु᳓भिर्मिथुनै᳓र्जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,10 +120,14 @@ he who knowing thus sacrifices with the Śitra desirous of cattle is propagated 
 
 यः । ए॒वम् । वि॒द्वान् । चि॒त्रया॑ । प॒शुका॑म॒ इति॑ प॒शु-का॒मः॒ । यज॑ते । प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रैवाग्ने॒येन॑ वापयति॒ रेत॑स्सौ॒म्येन॑ दधाति॒ रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ वि क॑रोति सारस्व॒तौ भ॑वत ए॒तद्वै दैव्य॑म्मिथु॒नन्दैव्य॑मे॒वास्मै॑ [17]  मि॒थु॒नम्म॑ध्य॒तो द॑धाति॒ पुष्ट्यै॑ प्र॒जन॑नाय सिनीवा॒ल्यै च॒रुर्भ॑वति॒ वाग्वै सि॑नीवा॒ली पुष्टि॒ᳵ खलु॒ वै वाक्पुष्टि॑मे॒व वाच॒मुपै॑त्यै॒न्द्र उ॑त्त॒मो भ॑वति॒ तेनै॒व तन्मि॑थु॒नँ स॒प्तैतानि॑ ह॒वीँषि॑ भवन्ति स॒प्त ग्रा॒म्याᳶ प॒शव॑स्स॒प्तार॒ण्यास्स॒प्त छन्दाँ॑स्यु॒भय॒स्याव॑रुद्ध्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +136,8 @@ he who knowing thus sacrifices with the Śitra desirous of cattle is propagated 
 रे᳓तस्सौम्ये᳓न दधाति ।  
 रे᳓त एव᳓ हित᳓न्त्व᳓ष्टा रूपा᳓णि वि᳓ करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,11 +161,14 @@ With the offering to Agni he strews, with that to Soma he impregnates seed, the 
 2आग्नेयोष्टाकपालः, सौम्यश्चरुः, त्वाष्ट्रोष्टाकपालः, सरस्वत्यै चरुः, सरस्वते चरुः, सिनीवाल्यै चरुः, ऐन्द्र एकादशकपालः, सप्तैतानि हवींषि भवन्ति - प्रैवेति ॥   
 आग्नेयेन प्रवापयति प्रजनने रेतस्सिञ्चति सेचयति पुम्भिः स्त्रीषु, तत्सिक्तं सौम्येन दधाति धारयति । तत्र हितं धारितं त्वष्टा रूपाणि विकरोति विविधेन रूपेण परिणतं करोति त्वाष्ट्रेण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वतौ᳓ भवतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -166,11 +189,14 @@ there are (offerings) to Sarasvant and Sarasvati;
 
 सारस्वताभ्यां दैव्यं मिथुनं, सरस्वत्सरस्वतीतिसंबन्धाभ्यां दैव्यं मिथुनं गर्भस्थस्य जन्तोः पुष्ट्यर्थं काले प्रजननार्थं च मध्यतः अन्तर्दधाति स्थापयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ दै᳓व्यम्मिथुन᳓न्दै᳓व्यमेवास्मै मिथुन᳓म्मध्यतो᳓ दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +219,14 @@ that is the divine pair;
 
 ततस्तदपि पुष्ट्यै पजननाय च संपद्यते इति भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्ट्यै प्रज᳓ननाय सिनीवाल्यै᳓ चरु᳓र्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -213,11 +242,14 @@ verily in the midst he bestows upon him a divine [1] pair, for growth, for propa
 
 पुष्ट्यै॑ । प्र॒जन॑ना॒येति॑ प्र-जन॑नाय । सि॒नी॒वा॒ल्यै । च॒रुः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग्वै᳓ सिनीवाली᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,12 +265,15 @@ There is an oblation to Sinivali;
 
 वाक् । वै । सि॒नी॒वा॒ली ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिᳵ ख᳓लु वै᳓ वा᳓क् ।  
 पु᳓ष्टिमेव᳓ वा᳓चमु᳓पैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,11 +290,14 @@ Sinivali is speech, speech is growth;
 
 पुष्टिः॑ । खलु॑ । वै । वाक् । पुष्टि॑म् । ए॒व । वाच॑म् । उपेति॑ । ए॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓ उत्तमो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -275,11 +313,14 @@ verily he approaches speech and growth.
 
 ऐ॒न्द्रः । उ॒त्त॒म इत्यु॑त्-त॒मः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैव᳓ त᳓न्मिथुनँ᳓ सप्तै᳓ता᳓नि हवीँ᳓षि भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,11 +336,14 @@ The last is to Indra, and thereby there is a pair. Seven are these offerings,
 
 तेन॑ । ए॒व । तत् । मि॒थु॒नम् । स॒प्त । ए॒तानि॑ । ह॒वीँषि॑ । भ॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓ ग्राम्याᳶ᳓ पश᳓वस्सप्ता᳓रण्या᳓स्सप्त᳓ छ᳓न्दाँस्युभ᳓यस्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,16 +364,22 @@ the tame animals are seven, the wild seven; the metres are seven, for the winnin
 
 सप्तेति । गोजाविकपुरुष गर्दभाश्वोष्टृराः सप्त ग्राम्याः पशवः । द्विखुरश्वापदपक्षिसरीसृपहस्तिमर्कटनादेयाः सप्तारण्याः । गायत्र्युष्णिगनुष्टुब्बृहतीपङ्क्तित्रिष्टुब्जगत्यः सप्त छन्दांसि प्रधानानि । उभयस्येति । पशूनां छन्दसां च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथै॒ता आहु॑तीर्जुहोत्ये॒ते वै दे॒वाᳶ पुष्टि॑पतय॒स्त ए॒वास्मि॒न्पुष्टि॑न्दधति॒ पुष्य॑ति प्र॒जया॑ प॒शुभि॒रथो॒ यदे॒ता आहु॑तीर्जु॒होति॒ प्रति॑ष्ठित्यै ॥ [18]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थैता᳓ आ᳓हुतीर्जुहोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,11 +400,14 @@ Then he offers these oblations;
 
 3अथैता इति ॥ प्रधानयागादनन्तरं पुरस्तात्स्विष्टकृतः 'अग्ने गोभिर्न आ गहि' इत्याद्यास्सप्ताहुतीर्जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ देवाᳶ᳓ पु᳓ष्टिपतयस्त᳓ एवा᳓स्मिन्पु᳓ष्टिन्दधति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,11 +428,14 @@ these gods are the lords of growth;
 
 एते वा इति । अग्न्यादयः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्यति प्रज᳓या पशु᳓भिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,11 +451,14 @@ verily they bestow growth upon him, he grows with offspring and cattle;
 
 पुष्य॑ति । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓देता᳓ आ᳓हुतीर्जुहो᳓ति प्र᳓तिष्ठित्यै ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,4 +480,5 @@ moreover in that he offers these oblations, (they serve) for support.
 अथो इति । अपि च एता आहुतयः प्रतिष्ठित्यै च भवन्ति एतेषां देवानां प्रतिष्ठाया अपि हेतुत्वात् ॥
 
 इति द्वितीये चतुर्थे षष्ठोनुवाकः ॥  
+</details>
 </details>

@@ -3,9 +3,12 @@ title = "०५ अन्यश् चतुर्दशरात्रः"
 +++
 ## परिचयः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अत्रेयमहःकॢप्तिः - अतिरात्रः, त्र्यहः - (ज्योतिर्, गौर्, आयुः), पृष्ठ्यष्षडहः, त्र्यहः - (आयुर्, गौर्, ज्योतिर्), अतिरात्र इति ।
+</details>
 </details>
 
 ## फलम्
@@ -14,6 +17,8 @@ title = "०५ अन्यश् चतुर्दशरात्रः"
 
 प्रजा᳓पतिस् सुवर्गल्ँ᳓ लोक᳓म् ऐत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,12 +39,15 @@ Prajapati went to the world of heaven.
 
 1अथ द्वितीयश्चतुर्दशरात्रो विधीयते - प्रजातिरित्यादि ॥ अत्रेयमहःकॢप्तिः - अतिरात्रो ज्योतिर्गौरायुः । पृष्ठ्यष्षडहः, आयुर्गौर्ज्योतिरतिरात्र इति । प्रजापतिः स्वर्गमगच्छत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ अ᳓न्वायन् ।  
 ता᳓न् आदित्या᳓श् च पश᳓वश् चा᳓न्वायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,12 +69,15 @@ The gods followed him, and the Adityas and the cattle followed them.
 
 तं देवा आदित्याः पशवश्चान्वगच्छन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अब्रुवन्-
 या᳓न् पशू᳓न् उपा᳓जीविष्म त᳓ इमे᳙ ऽन्वाग्मन्न् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,12 +99,15 @@ The gods said, 'The cattle on which we have lived have followed us.'
 
 ते देवा अब्रुवन् यान् पशूनुपाजीविष्म तेऽप्यमी अस्मानन्वाग्मन् अन्वागच्छन्ति । छान्दसे लुङि 'मन्त्रे घस' इति च्लेर्लुक् । 'गतिर्गतौ' इति निघाताभावः, समासश्च । तत्रादित्याः स्वर्गं गच्छन्तु इमे तु पशवः सर्वभूतोपजीव्या अस्मिन्नेव लोके ऋद्धिमन्तः कार्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्य एत᳓ञ् चतुर्दशरात्र᳓म् प्र᳓त्यौहन्+++(=प्रत्यवहन्)+++ ।  
 +++(पृष्ठानन्तरं भूयोपि तत्रैव त्रिरात्रे प्रत्यवरोहणं प्रत्यूहः ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,11 +128,14 @@ They arranged this (rite) of fourteen nights away for them.
 
 अत्र पृष्ठवानेव चतुर्दशरात्र आदित्यानां स्वर्गगमनहेतुः, पश्वर्थे तु यतितव्यमिति कृताध्यवसाया देवाः तेभ्यः पशुभ्यः चतुर्दशरात्रं प्रत्यौहन् प्रत्यावृत्य गतिमकुर्वन्, प्रथमत्रिरात्रं कृत्वा ततः पृष्ठानन्तरं भूयोपि तत्रैव त्रिरात्रे प्रत्यवरोहणं प्रत्यूहः । ततश्चतुर्दशरात्रमकुर्वन् पशूनां प्रत्यवरोहणाय । अवयवधर्मेण समुदायव्यपदेशः यथा अवयवव्यूढतया द्वादशाहो व्यूढः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ आदित्याᳶ᳓ पृष्ठै᳓स् सुवर्गल्ँ᳓ लोक᳓म् आ᳓रोहन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,11 +156,14 @@ The Adityas mounted the world of heaven with the Prsthas;
 
 तत्रादित्याः देवसकाशं समासादितचतुर्दशरात्राः पृष्ठैरेव पृष्ठवत्तयैव स्वर्गमारोहन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्यहा᳓भ्याम् अस्मिल्ँ᳓ लोके᳓ पशू᳓न् प्र᳓त्यौहन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,11 +184,14 @@ they arranged the cattle in this world with the two Tryahas.
 
 पशूंस्तु अस्मिन्नेव लोके त्र्यहाभ्यां प्रत्यावृत्य अस्मान्देवाः प्रत्यौहन् प्रत्यावर्तयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठै᳓र् आदित्या᳓ अमु᳓ष्मिल्ँ लोक᳓ आ᳓र्ध्नुवन् , त्र्यहा᳓भ्याम् अस्मि᳓न् लोके᳓ पश᳓वः । [11] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -189,12 +212,15 @@ By means of the Prsthas the Adityas prospered in yonder world, the cattle in thi
 
 पृष्ठैरेवादित्या अमुष्मिन् आर्ध्नुवन् । त्र्यहाभ्यां यथोक्तलक्षणाभ्यां अस्मिन्पशव अर्ध्नुवन्नित्येव ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वाँ᳓सश् चतुर्दश-रात्र᳓म् आ᳓सत ,
 उभ᳓योर् एव᳓ लोक᳓योर् ऋध्नुवन्त्य्- अस्मिँ᳓श् चामु᳓ष्मिँश्च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,12 +243,15 @@ Those who, knowing thus, perform (the rite of) fourteen nights, prosper in both 
 
 2य एवमित्यादि ॥ गतम् ॥ +++(विस्तृतं व्याख्यानमन्यत्र मृग्यम्)+++।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ठै᳓र् एवा᳓मु᳓ष्मिल्ँ लोक᳓ ऋध्नुव᳓न्ति ,
 त्र्यहा᳓भ्याम् अस्मिल्ँ᳓  लोके᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,14 +268,16 @@ by the Prsthas they prosper in yonder world and by the Tryahas in this world.
 
 पृ॒ष्ठैः । ए॒व । अ॒मुष्मि॑न् । लो॒के । ऋ॒ध्नु॒वन्ति॑ । त्र्य॒हाभ्या॒मिति॑ त्रि-अ॒हाभ्या॑म् । अ॒स्मिन् । लो॒के ।
 </details>
+</details>
 
 ## विधानम्
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/jyotir_gaur_AyuH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिर् गौ᳓र् आ᳓युर् इ᳓ति त्र्यहो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,11 +293,14 @@ The three days are the Jyotis, Go, and Ayus.
 
 ज्योतिः॑ । गौः । आयुः॑ । इति॑ । त्र्य॒ह इति॑ त्रि-अ॒हः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ ज्यो᳓तिर्, अन्त᳓रिक्षङ् गौ᳓र्, असा᳓व् आ᳓युः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,13 +323,15 @@ The Jyotis is this (earth), the Go the atmosphere, the Ayus yonder (sky);
 गौः - खलु पञ्चदशो बहिष्पवमानः, त्रिवृन्त्य् आज्यानि, सप्तदशं माध्यन्दिनं सवनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २४१-स्तोत्रिया। क्थम्??  
 आयुः - त्रिवृत् बहिष्पवमानं, पञ्चदशाज्यानि, सर्वसप्तदशं माध्यन्दिनं, सर्वैकविंशं तृतीयसवनं सोक्थ्यमिति । २५९-स्तोत्रियम्। कथम्??
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓न् एव᳓ लोका᳓न् अभ्या᳓रोहन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,13 +354,15 @@ verily they mount upon these worlds.
 
 4कः पुनरस्य विशेष इत्याह - इयं वावेत्यादि ॥ इमानिति इममन्तरिक्षं अमुं च प्रत्यूहेन पुनरिमां प्राप्य ऋद्धा भवन्ति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/madhye_pRShThAni.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अन्य᳓तᳶ +++(पार्श्वे)+++ पृष्ठा᳓नि स्यु᳓र् - वि᳓+++(गत)+++-विवधँ +++(=उभयतोवलम्ब-क्षीरादि-वहन-यन्त्र-विशेष)+++ स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +378,14 @@ If the Prsthas were on one side, there would be a lack of balance;
 
 यत् । अ॒न्यतः॑ । पृ॒ष्ठानि॑ । स्युः । विवि॑वध॒मिति॒ वि-वि॒व॒ध॒म् । स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓ध्ये पृष्ठा᳓नि भवन्ति सविवधत्वा᳓य।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,11 +401,14 @@ the Prsthas are in the middle, for balance [2].
 
 मध्ये॑ । पृ॒ष्ठानि॑ । भ॒व॒न्ति॒ । स॒वि॒व॒ध॒त्वायेति॑ सविवध-त्वाय॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जो वै᳓ वीर्य᳙म् पृष्ठा᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -380,11 +424,14 @@ The Prsthas are force and strength;
 
 ओजः॑ । वै । वी॒र्य॑म् । पृ॒ष्ठानि॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓ज एव᳓ वीर्य᳙म् मध्यतो᳓ दधते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -400,26 +447,25 @@ verily they place force and strength in the middle.
 
 ओजः॑ । ए॒व । वी॒र्य॑म् । म॒ध्य॒तः । द॒ध॒ते॒ ।
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-यदन्यत इत्यादि । यदन्यतः एकतः पृष्ठानि स्युः सामर्थ्यादेकतस्त्र्यहाविति गम्यते । तद्विविवधं स्यात् । उभयतोवलम्बक्षीरादिवहनयन्त्रविशेषो विवधः; तद्विरुद्धं स्यात् विषमं स्यात् एकतोल्पं भारं एकतो महाभारमिति । तस्मान्मध्ये पृष्ठानि भवन्ति सामर्थ्यादभितस्त्र्यहाविति गम्यते । सविवधत्वाय विवधसदृशत्वाय समभारत्वायेति यावत् । सहशब्दस्य सादृश्येऽव्ययीभावः । 'अव्ययीभावे चाकाले' इति सभावः । ओजो वा इत्यादि । गतम् ॥
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/bRhad-rathantara-yAnam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृहद्रथन्त॒राभ्याय्ँ॑यन्ती॒यव्ँ वाव र॑थन्त॒रम॒सौ बृ॒हदा॒भ्यामे॒व [2]  
 य॒न्त्यथो॑ अ॒नयो॑रे॒व प्रति॑ तिष्ठन्त्ये॒ते वै य॒ज्ञस्या॑ञ्ज॒साय॑नी स्रु॒ती ताभ्या॑मे॒व सु॑व॒र्गल्ँ लो॒कय्ँय॑न्ति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(दिवसेषु एकान्तराभ्यां)+++ बृहद्रथन्तरा᳓भ्याय्ँ यन्ति ।
++++(दिवसेषु एकान्तराभ्यां)+++ बृ᳓ह᳓द्र᳓थ᳓न्तरा᳓भ्याय्ँ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,11 +481,14 @@ They proceed with the Brhat and the Rathantara (Samans).
 
 बृ॒ह॒द्र॒थ॒न्त॒राभ्या॒मिति॑ बृहत्-र॒थ॒न्त॒राभ्या॑म् । य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓व᳓ रथन्तर᳓म्, असौ᳓ बृह᳓त् +++(चास्ति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,11 +504,14 @@ The Rathantara is this (earth), the Brhat yonder (sky);
 
 इ॒यम् । वाव । र॒थ॒न्त॒रमिति॑ रथम्-त॒रम् । अ॒सौ । बृ॒हत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आभ्या᳓मेव᳓ यन्ति᳓ +++(प्रथमदिनयोः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,11 +527,14 @@ verily with them do they proceed;
 
 आ॒भ्याम् । ए॒व । य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अन᳓योरेव᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,11 +550,14 @@ verily also in them they find support.
 
 अथो॒ इति॑ । अ॒नयोः॑ । ए॒व । प्रतीति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ यज्ञ᳓स्याञ्जसा᳓यनी स्रुती᳓+++(=मार्गौ)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,11 +573,14 @@ These indeed are the quick paths of the sacrifice;
 
 ए॒ते इति॑ । वै । य॒ज्ञस्य॑ । अ॒ञ्ज॒साय॑नी॒ इत्य॑ञ्जसा-अय॑नी । स्रु॒ती इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोकय्ँ᳓ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,21 +596,17 @@ verily by them do they proceed to the world of heaven.
 
 ताभ्या॑म् । ए॒व । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । य॒न्ति॒ ।
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-5बृहद्रथन्तराभ्यामित्यादि ॥ दिवसेषु एकान्तराभ्यां यन्ति । गतमन्यत् ।
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/3/05_anyash_chaturdasharAtraH/pratyaN_tryahaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓राञ्चो +++(अपुनरावृत्ता एव)+++ वा᳓ एते᳓ सुवर्गल्ँ᳓ लोक᳓म् अभ्या᳓रोहन्ति,
 ये᳓ पराची᳓नानि पृष्ठा᳓न्य् उपय᳓न्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -565,16 +622,14 @@ They mount the world of heaven turning away (from earth), who perform the Prstha
 
 परा॑ञ्चः । वै । ए॒ते । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । अ॒भ्यारो॑ह॒न्तीत्य॑भि-आरो॑हन्ति । ये । प॒रा॒चीना॑नि । पृ॒ष्ठानि॑ । उ॒प॒यन्तीत्यु॑प-यन्ति॑ ।
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-पराञ्च इत्यादि । अपुनरावृत्ता एव स्वर्गं गच्छन्ति, पराचीनपृष्ठोपयानात् । 'विभाषाञ्चेरदिक्स्त्रियाम्' इति खः ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्य᳓ङ् त्र्यहो᳓ भवति प्रत्य᳓वरूढ्या+++(य्)+++, अ᳓थो प्र᳓तिष्ठित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,16 +645,14 @@ The Tryaha is reversed, for the return (from heaven), and for support.
 
 प्र॒त्यङ्ङ् । त्र्य॒ह इति॑ त्रि-अ॒हः । भ॒व॒ति॒ । प्र॒त्यव॑रूढ्या॒ इति॑ प्रति-अव॑रूढ्यै । अथो॒ इति॑ । प्रति॑ष्ठित्या॒ इति॒ प्रति॑-स्थि॒त्यै॒ ।
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-तस्मात्प्रत्यङ् प्रतीचीनगतिः द्वितीयस्त्र्यहो भवति, आयुर्गौर्ज्योतिरिति । प्रत्यवरूढ्यै प्रत्यवरोहणाय आत्मनो भवति । पृथिव्यामवरोहणाय प्रतिष्ठार्थं च भवति । उभयत्र 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभ᳓योर् लोक᳓यो᳓र् ऋद्ध्वो᳓त्तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,18 +668,15 @@ Having prospered in either world they cease (the rite).
 
 उ॒भयोः॑ । लो॒कयोः॑ । ऋ॒द्ध्वा । उदिति॑ । ति॒ष्ठ॒न्ति॒ ।
 </details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-एवमुभयोर्लोकयोः ऋद्धिं प्राप्य उत्तिष्ठन्ति ॥
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्दशैताः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,11 +692,14 @@ The (nights) are fourteen.
 
 चतु॑र्द॒शेति॒ चतुः॑-द॒श॒ । ए॒ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓साय्ँ या᳓ द᳓श द᳓शाक्षरा विरा᳓ड्। अ᳓न्नव्ँ विरा᳓ड्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -663,11 +716,14 @@ As for ten of them, the Viraj is ten-syllabled, the Viraj is food;
 
 तासा॑म् । याः । दश॑ । दशा॑क्ष॒रेति॒ दश॑-अ॒क्ष॒रा॒ । वि॒राडिति॑ वि-राट् । अन्न॑म् । वि॒राडिति॑ वि-राट् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जैवा᳓न्ना᳓द्यम् अ᳓व रुन्धते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -688,11 +744,14 @@ verily by the Viraj they win food.
 
 6चतुर्दशैता इत्यादि ॥ एताश्चतुर्दशरात्र्यः तासां मध्ये या दश ताभिः दशत्वान्वयात् विराडात्मकान्नलाभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓श् च᳓तस्रश् - च᳓तस्रो दि᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -708,11 +767,14 @@ As for four, the quarters are four;
 
 याः । चत॑स्रः । चत॑स्रः । दिशः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्ष्वे᳙व᳓ प्र᳓ति तिष्ठन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -733,11 +795,14 @@ verily they find support in the quarters.
 
 यास्ततः पराश्चतस्रः ताभिश्चतुष्ट्वान्वयात् दिक्षु प्रतिष्ठिता भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिरात्रा᳓व् अभि᳓तो भवतᳶ प᳓रिगृहीत्यै ॥ [13]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -759,4 +824,5 @@ There are Atiratras on either side, for security.
 अतिरात्रावभितो भवतः उभयलोकवेदिभिः परिग्रहाय ॥
 
 इति सप्तमे तृतीये पञ्चमोनुवाकः ॥
+</details>
 </details>

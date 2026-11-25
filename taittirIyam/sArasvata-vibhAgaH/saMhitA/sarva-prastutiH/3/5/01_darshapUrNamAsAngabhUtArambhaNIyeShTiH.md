@@ -4,9 +4,12 @@ title = "०१ दर्शपूर्णमासाङ्गभूतार�
 १-३ त्रिष्टुप्  , ४ शक्वरी  
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1दर्शपूर्णमासावारभमाणस्य द्वौ सारस्वतौ होमौ स्तः, तयोर्द्वे अनुवाक्ये द्वे याज्ये । तत्र प्रथमस्पानुवाक्या - पूर्णेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
@@ -59,9 +62,12 @@ _________________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीयस्य याज्या - यत्ते इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/30_yatte_devA.md">
@@ -110,6 +116,8 @@ ________________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒ह॒स्र॒पो॒षँ सु॒भगा॒ ररा॑णा॒ सा न॒ आ ग॒न्वर्च॑सा [1]  सव्ँ॒वि॒दा॒ना
@@ -118,6 +126,7 @@ ________________
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ द्वितीयस्यानुवाक्या - निवेशनीति त्रिष्टुप् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/29_niveshanI.md">
@@ -168,9 +177,12 @@ ________________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ प्रथमस्य याज्या - अग्नीषोमावित्यतिशक्वरी पञ्चपदा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -178,6 +190,8 @@ ________________
 अ᳓ग्नीषोमौ प्रथमौ᳓ वीर्ये᳙ण व᳓सून्रुद्रा᳓नादित्या᳓निह᳓ जिन्वतम् ।   
 माध्यँ᳓ हि᳓ पौर्णमास᳓ञ्जुषे᳓थाम्ब्र᳓ह्मणा वृद्धौ᳓ सुकृते᳓न साता᳓व᳓थास्म᳓भ्यँ सह᳓वीराँ रयि᳓न्नि᳓ यच्छतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,10 +217,14 @@ And allot to us wealth with heroes.
 
 हे अग्नीषोमौ युवां प्रथमौ प्रधानौ वीर्येणात्मीयेन बलेन वसून् रुद्रानादित्यान् च इहास्मिन् कर्माणि जिन्वतं प्रीणयतम् । जिवि प्रीणने, इदित्वान्नुम् । माध्यं मध्यभावं सर्वदेवसाधारणं मध्यस्थमित्यर्थः । पौर्णमासं पौर्णमास्यां भवमिदं हविः जुषेथां ततो ब्रह्मणाऽनेन अन्नेन वृद्धौ सुकृतेन शोभनकर्मणा सातौ संसक्तौ । 'सुपमानात्कः' इति सुकृतशब्दोन्तोदात्तः । अथानन्तरमस्मभ्यं सहवीरां विक्रान्तपुरुषसहितां रयिं धनं नियच्छतं नियमेन दत्तम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒दि॒त्याश्चाङ्गि॑रसश्चा॒ग्नीनाद॑धत॒ ते द॑र्शपूर्णमा॒सौ प्रैप्स॒न्तेषा॒मङ्गि॑रसा॒न्निरु॑प्तँ ह॒विरासी॒दथा॑दि॒त्या ए॒तौ होमा॑वपश्य॒न्ताव॑जुहवु॒स्ततो॒ वै ते द॑र्शपूर्णमा॒सौ [2]  पूर्व॒ आल॑भन्त दर्शपूर्णमा॒सावा॒लभ॑मान ए॒तौ होमौ॑ पु॒रस्ता॑ज्जुहुयात्सा॒क्षादे॒व द॑र्शपूर्णमा॒सावा ल॑भते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +232,8 @@ And allot to us wealth with heroes.
 आदित्या᳓श्चा᳓ङ्गिरसश्चाग्नी᳓ना᳓ऽदधत  ।   
 ते᳓ दर्शपूर्णमासौ᳓ प्रै᳓प्सन् ।     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -236,12 +256,15 @@ The Adityas and the Angirases piled up the fires, they desired to obtain the new
 5अथैनयोर्हेमयोर्ब्राह्मणम् -
 आदित्याश्चाङ्गिरसश्चाग्नीनादधत, दर्शपूर्णमासौ प्राप्तुं प्रारब्धुमैच्छन् । 'आप्ज्ञप्यृधाम्' इतीत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम᳓ङ्गिरसान्नि᳓रुप्तँ  हवि᳓रा᳓सीत् ।   
 अ᳓थादित्या᳓ एतौ᳓ हो᳓मावपश्यन्ता᳓वजुहवुः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,11 +286,14 @@ the Angirases offered the oblation, then the Adityas saw these two offerings, an
 
 तेषां मध्ये अङ्गिरसां निरुप्तमासीद्धविः । अहुत्वैव सारस्वतौ होमौ हविरुप्तवन्तः । दर्शपूर्णमासस्थानीयत्वादेतयोः होमयोर्दर्शपूर्णमासशब्दौ कर्मप्रवचनौ । तत्र दृशिरयं ज्ञानमात्रे वर्तते । अथादृष्टार्थः 'पश्यार्थैश्चानालोचने' इत्यालोचनेन न गृह्यते, अस्ति चेति तु केवलं ज्ञायते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ते᳓ दर्शपूर्णमासौ᳓  पू᳓र्व आ᳓ऽलभन्त  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +314,14 @@ then they first grasped the new and full moon (offerings) [2].
 
 अधिकरणे सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासः आत्मलाभत्वात्तदनुविधायिनोः तदपेक्षे आनुलोम्यप्रतिलोम्ये । विपर्ययलक्षणेत्येके । पूर्णमासो व्याख्यातः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शपूर्णमासा᳓वाल᳓भमान एतौ᳓ हो᳓मौ पुर᳓स्ताज्जुहुयात्   ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,11 +337,14 @@ He who is commencing the new and full moon (sacrifices) should first offer these
 
 द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । आ॒लभ॑मान॒ इत्या॑-लभ॑मानः । ए॒तौ । होमौ॑ । पु॒रस्ता॑त् । जु॒हु॒या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साक्षा᳓देव᳓ दर्शपूर्णमासा᳓वा᳓ लभते  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,10 +360,14 @@ verily straightway he commences the new and full moon (sacrifices).
 
 सा॒क्षादिति॑ स-अ॒क्षात् । ए॒व । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । एति॑ । ल॒भ॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ स त्वै द॑र्शपूर्णमा॒सावा ल॑भेत॒ य ए॑नयोरनुलो॒मञ्च॑ प्रतिलो॒मञ्च॑ वि॒द्यादित्य॑मावा॒स्या॑या ऊ॒र्ध्वन्तद॑नुलो॒मम्पौ॑र्णमा॒स्यै प्र॑ती॒चीन॒न्तत्प्र॑तिलो॒मय्ँयत्पौ॑र्णमा॒सीम्पूर्वा॑मा॒लभे॑त प्रतिलो॒ममे॑ना॒वा ल॑भेता॒मुम॑प॒क्षीय॑माण॒मन्वप॑ [3]  क्षी॒ये॒त॒ सा॒र॒स्व॒तौ होमौ॑ पु॒रस्ता॑ज्जुहुयादमावा॒स्या॑ वै सर॑स्वत्यनुलो॒ममे॒वैना॒वा ल॑भते॒ऽमुमा॒प्याय॑मान॒मन्वा प्या॑यत
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +377,8 @@ verily straightway he commences the new and full moon (sacrifices).
 स᳓ त्वै᳓ दर्शपूर्णमासा᳓वा᳓ लभेत  ।  
 य᳓ एनयोरनुलोम᳓ञ्च प्रतिलोम᳓ञ्च  विद्या᳓दि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -364,6 +402,7 @@ The theologians say, 'He indeed would begin the new and full moon (sacrifices) w
 
 6ब्रह्मवादिन इत्यादि ॥ तुशब्दोनुलोमविदन्येभ्यो व्यावर्तयति अत्रायं यज्ञात्मनः औत्तरस्मादर्धमासात् प्रतिपत्प्तभृति सन्ततं सन्तन्यते दिनेदिने चाप्यते तं सन्ततमुत्तरार्धमासे आगते आलभते न विकरोति । ततस्तं कालेकाले आगते यजते तत्र मध्यात् पूर्वपर्वसन्धौ भूयिष्ठस्योत्तरार्धमासस्य तस्मन्नह्नि यागः कर्तव्यः, अन्यथोत्तरेद्युः । एतयोश्चन्द्राधीनात्मलाभत्वात्तदनुविधायनोः तदपेक्षे आनुलोम्यप्रातिलोम्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +410,8 @@ The theologians say, 'He indeed would begin the new and full moon (sacrifices) w
 
 पौर्णमास्यै᳓ प्रतीची᳓नन्त᳓त्प्रतिलोम᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,12 +434,15 @@ What follows on the new moon is the normal, what is after the full moon is the r
 
 तत्रामावास्यायाः परस्तादूर्ध्वं उपर्युपर्युपचीयमानस्वस्वरूपं चन्द्रस्यावस्थानं यज्ञस्य तु विपरीतं तत्प्रतिलोमं भवती,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पौर्णमासी᳓म्पू᳓र्वामाल᳓भेत ।  
 प्रतिलोम᳓मेनावा᳓ लभेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -420,11 +464,14 @@ if he were to begin the full moon (offering) first, he would offer these two (li
 
 ततश्च यदि पौर्णमासीं पूर्वामालभेत प्रतिलोममेनावालभेत प्राप्नुयात् तदानीं हि चन्द्रोपचीयते यज्ञ उपचीयते इति प्रतिलोमत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमु᳓मपक्षी᳓यमाणम᳓न्व᳓प क्षीयेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +493,14 @@ he would waste away as the moon waned [3];
 ततश्चामुं चन्द्रमपक्षीयमाणमनु यज्ञोप्यपक्षीयेत । अमावास्योपक्रमे तु नायं दोषः, तदानीं हि चन्द्रोप्युपचीयते यज्ञोपीत्यनुलोमत्वम् । 'अच्प्रत्यन्ववपूर्वात् ' इत्युभयत्राच्प्रत्ययस्समासान्तः । तर्ह्यमावास्यैव पूर्वमारभ्यताम् । नैवं शक्यम् । यथोक्तमाचार्येण - 'अथेमौ दर्शपूर्णमासौ' पौर्णमास्युपक्रमावमावास्यासंस्थावाचार्या ब्रुवते ।
 तत्रोदाहरन्ति - ऊर्ध्वं मध्यरात्रात्पौणर्मास्याः चन्द्रमाः पूर्यते स एतं चापररात्रं पूर्णो भवति सर्वं चाहरुत्तरस्याश्च रात्रेरा मध्यरात्रात् । अथामावास्याया उपवसथीयेऽह्नि ऊर्ध्वं मध्याह्नरात्राच्चन्द्रमसमादित्यौ रेतस एतं चापराह्णे उपरब्धो भवति सर्वां च रात्रिमुत्तरस्य चाह्न आ मध्यन्दिनात् एवं सन्धिमभियजेतेति । रात्रिर्हि पौर्णमास्यां संशुद्धमाभाति अहरमावास्यायां द्वे पौर्णमास्यौ द्वे अमावास्ये पूर्वां पूर्वां पौर्णमसीमुत्तरामुत्तराममावास्यां, या पूर्वा पौणर्मासी साऽनुमतिः, योत्तरा सा राका, या पूवाऽमावास्या सा सिनीवाली, योत्तरा सा कुहूरित्येवमुपक्रमाणि च कर्माणि शुक्लादयः चार्धमासाः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वतौ᳓ हो᳓मौ पुर᳓स्ताज्जुहुयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,11 +516,14 @@ he should offer these libations to Sarasvant and Sarasvati in front;
 
 सा॒र॒स्व॒तौ । होमौ॑ । पु॒रस्ता॑त् । जु॒हु॒या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमावास्या᳙ वै᳓ स᳓रस्वती ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,11 +545,14 @@ Sarasvati is the new moon;
 एवं पौर्णमास्युपक्रमत्वे प्रातिलोम्यं प्रसक्तं तत्परिहारार्थमाह - सारस्वतावित्यादि ।
 अमावास्या अमावास्यास्थानीया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुलोम᳓मेवै᳓नावा᳓ लभते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -517,11 +573,14 @@ verily he commences them in normal order;
 
 सरस्वत्याः प्रथमयागात्पौर्णमास्युपक्रमदोषाप्रसंगः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमु᳓माप्या᳓यमानम᳓न्वा᳓प्यायते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -537,10 +596,14 @@ he waxes as the moon waxes.
 
 अ॒मुम् । आ॒प्याय॑मान॒मित्या॑-प्याय॑मानम् । अनु॑ । एति॑ । प्या॒य॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आग्नावैष्ण॒वमेका॑दशकपालम्पु॒रस्ता॒न्निर्व॑पे॒त्सर॑स्वत्यै च॒रुँ सर॑स्वते॒ द्वाद॑शकपालय्ँ॒यदा॑ग्ने॒यो भव॑त्य॒ग्निर्वै य॑ज्ञमु॒खय्ँय॑ज्ञमु॒खमे॒वर्द्धि॑म्पु॒रस्ता॑द्धत्ते॒ यद्वै॑ष्ण॒वो भव॑ति य॒ज्ञो वै विष्णु॑र्य॒ज्ञमे॒वारभ्य॒ प्र त॑नुते॒ सर॑स्वत्यै च॒रुर्भ॑वति॒ सर॑स्वते॒ द्वाद॑शकपालोऽमावा॒स्या॑ वै सर॑स्वती पू॒र्णमा॑स॒स्सर॑स्वा॒न्तावे॒व सा॒क्षादा र॑भत ऋ॒ध्नोत्या॑भ्या॒न्द्वाद॑शकपाल॒स्सर॑स्वते भवति मिथुन॒त्वाय॒ प्रजा॑त्यै मिथु॒नौ गावौ॒ दक्षि॑णा॒ समृ॑द्ध्यै ॥ [4]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -548,6 +611,8 @@ he waxes as the moon waxes.
 आग्नावैष्णव᳓मे᳓कादशकपालम् पुर᳓स्तान्नि᳓र्वपेत् ।   
 स᳓रस्वत्यै चरुँ᳓ स᳓रस्वते द्वा᳓दशकपालम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,12 +634,15 @@ He should offer first on eleven potsherds to Agni and Visnu, to Sarasvati an obl
 
 7आग्नावैष्णवमित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दाग्नेयो᳓ भ᳓वति  ।  
 अग्नि᳓र्वै᳓ यज्ञमुखय्ँ᳓यज्ञमुख᳓मेव᳓र्द्धिम्पुर᳓स्ताद्धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -591,12 +659,15 @@ In that it is (offered) to Agni, and the mouth of the sacrifice is Agni, verily 
 
 यत् । आ॒ग्ने॒यः । भव॑ति । अ॒ग्निः । वै । य॒ज्ञ॒मु॒खमिति॑ यज्ञ-मु॒खम् । य॒ज्ञ॒मु॒खमिति॑ यज्ञ-मु॒खम् । ए॒व । ऋद्धि॑म् । पु॒रस्ता॑त् । ध॒त्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्वैष्णवो᳓ भ᳓वति ।   
 यज्ञो᳓ वै᳓ वि᳓ष्णुर्यज्ञ᳓मेवा᳓र᳓भ्य प्र᳓ तनुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,12 +684,15 @@ in that it is (offered) to Visnu, and Visnu is the sacrifice, verily commencing 
 
 यत् । वै॒ष्ण॒वः । भव॑ति । य॒ज्ञः । वै । विष्णुः॑ । य॒ज्ञम् । ए॒व । आ॒रभ्येत्या॑-रभ्य॑ । प्रेति॑ । त॒नु॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै चरु᳓र्भवति ।  
 स᳓रस्वते द्वा᳓दशकपालः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,11 +709,14 @@ There is an oblation for Sarasvati, and (an offering) on twelve potsherds for Sa
 
 सर॑स्वत्यै । च॒रुः । भ॒व॒ति॒ । सर॑स्वते । द्वाद॑शकपाल॒ इति॒ द्वाद॑श-क॒पा॒लः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमावास्या᳙ वै᳓ स᳓रस्वती , पूर्ण᳓मासस्स᳓रस्वान् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -655,12 +732,15 @@ Sarasvati is the new moon, Sarasvant is the full moon;
 
 अ॒मा॒वा॒स्येत्य॑मा-वा॒स्या॑ । वै । सर॑स्वती । पू॒र्णमा॑स॒ इति॑ पू॒र्ण-मा॒सः॒ । सर॑स्वान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓वेव᳓ साक्षा᳓दा᳓ रभते ।   
 ऋध्नो᳓त्याभ्याम्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -682,11 +762,14 @@ verily straightway he commences these (offerings), he prospers by them.
 
 साक्षादारभते इति । अन्वारम्भणीयेयमिति त्रीण्येतानिहवींषि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दशकपालस्स᳓रस्वते भवति मिथुनत्वा᳓य प्र᳓जात्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +785,14 @@ That to Sarasvant is on twelve potsherds, for pairing, for generation.
 
 द्वाद॑शकपाल॒ इति॒ द्वाद॑श-क॒पा॒लः॒ । सर॑स्वते । भ॒व॒ति॒ । मि॒थु॒न॒त्वायेति॑ मिथुन-त्वाय॑ । प्रजा॑त्या॒ इति॒ प्र-जा॒त्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुनौ᳓ गा᳓वौ द᳓क्षिणा स᳓मृद्ध्यै ॥ [4]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -728,4 +814,5 @@ The sacrificial fee is a pair of kine, for prosperity.
 मिथुनौ गावौ स्त्रीपुंसौ । गतमन्यत् ॥
 
 इति तृतीये पञ्चमे प्रथमोनुवाकः ॥  
+</details>
 </details>

@@ -2,6 +2,8 @@
 title = "१८ अश्वावयवविरूपहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कृ॒ष्णाय॒ स्वाहा॑ श्वे॒ताय॒ स्वाहा॑ पि॒शङ्गा॑य॒ स्वाहा॑ सा॒रङ्गा॑य॒ स्वाहा॑ऽरु॒णाय॒ स्वाहा॑ गौ॒राय॒ स्वाहा॑ ब॒भ्रवे॒ स्वाहा॑ नकु॒लाय॒ स्वाहा॒ रोहि॑ताय॒ स्वाहा॒ शोणा॑य॒ स्वाहा॑ श्या॒वाय॒ स्वाहा॑ श्या॒माय॒ स्वाहा॑ पाक॒लाय॒ स्वाहा॑ सुरू॒पाय॒ स्वाहानु॑रूपाय॒ स्वाहा॒ विरू॑पाय॒ स्वाहा॒ सरू॑पाय॒ स्वाहा॒ प्रति॑रूपाय॒ स्वाहा॑ श॒बला॑य॒ स्वाहा॑ कम॒लाय॒ स्वाहा॒ पृश्ञ॑ये॒ स्वाहा॑ पृश्ञिस॒क्थाय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [40]
@@ -11,11 +13,14 @@ title = "१८ अश्वावयवविरूपहोममन्त्�
 
 1पुनरप्यश्वरूपाणि जुहोति - कृष्णायेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,11 +41,14 @@ To the black hail!
 
 अवयवरूपाणि प्रायशः पूर्वत्र, इह तु अवयविरूपाणीति पृथगारम्भः । कृष्णादयः प्रसिद्धाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,11 +64,14 @@ To the white hail!
 
 श्वे॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिश᳓ङ्गाय+++(=पिङ्गलाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,11 +92,14 @@ To the tawny hail!
 
 पिशङ्गाय गोरोचनवर्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सार᳓ङ्गाय+++(→चातकवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,11 +120,14 @@ To the spotted hail!
 
 सारङ्गाय चातकवार्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरुणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +148,14 @@ To the ruddy hail!
 
 अरुणाय अरुणवर्णय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौरा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,11 +176,14 @@ To the yellow hail!
 
 गौराय शुक्लाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभ्र᳓वे+++(=कपिलपाण्डराय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +204,14 @@ To the brown hail!
 
 बभ्रवे कपिलपाण्डराय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नकुला᳓य+++(→नकुलवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,11 +232,14 @@ To the ichneumon(-coloured) hail!
 
 नकुलाय नकुलवर्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓हिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,11 +260,14 @@ To the red hail!
 
 रोहिताय लोहितवर्णाय । अतिरक्ताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शो᳓णाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -256,11 +288,14 @@ To the purple hail!
 
 शोणाय पीतलोहिताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यावा᳓य+++(=पीतकृष्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +316,14 @@ To the dark brown hail!
 
 श्यावाय पीतकृष्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,11 +344,14 @@ To the dark blue hail;
 
 श्यामाय नीलाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाकला᳓य+++(=अव्यक्तकृष्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,11 +372,14 @@ To the dead black hail!
 
 पाकलाय अव्यक्तकृष्णाय, पाकजकृष्णसवर्णायेति केचित् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरूपा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +400,14 @@ To the fair-shaped hail!
 
 सुरूपाय शोभनरूपाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नुरूपाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -376,11 +423,14 @@ To the one of like form hail!
 
 अनु॑रूपा॒येत्यनु॑-रू॒पा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓रूपाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +446,14 @@ To the one of different form hail!
 
 विरू॑पा॒येति॒ वि-रू॒पा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रूपाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -416,11 +469,14 @@ To the one of the same form hail!
 
 सरू॑पा॒येति॒ स-रू॒पा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓तिरूपाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,11 +493,14 @@ To the one of matching form hail!
 
 प्रति॑रूपा॒येति॒ प्रति॑-रू॒पा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शब᳓लाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,11 +521,14 @@ To the tawny hail!
 
 शबलाय व्यामिश्ररूपाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कमला᳓य+++(→कमलवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +549,14 @@ To the pale red hail!
 
 कमलाय कमलवर्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृ᳓श्नये+++(=चित्रवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,11 +577,14 @@ To the speckled hail!
 
 पृश्नये चित्रवर्णाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृश्नि-सक्था᳓य+++(=ऊरुमूलस्थास्थिने)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -537,11 +605,14 @@ To the speckled-thighed hail!
 
 पृश्निसक्थाय, उक्तौ स्वरसमासान्तौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [40]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,4 +634,5 @@ To all hail!
 सर्वस्मै अनुक्तायापि रूपाय ॥
 
 इति सप्तमे तृतीये अष्टादशोनुवाकः ॥
+</details>
 </details>

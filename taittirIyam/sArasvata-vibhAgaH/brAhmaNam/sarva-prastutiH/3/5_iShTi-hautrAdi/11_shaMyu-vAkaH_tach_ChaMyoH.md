@@ -3,9 +3,12 @@ title: ११ शंयुवाकः
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शंयुवाकाय प्रेषितो ब्रवीति - तच्छंयोरित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,6 +17,8 @@ unicode_script: devanagari
 +++(देवान् प्रति)+++ गातुं᳓ +++(=गमनं [हविषाम्])+++ - यज्ञा᳓य,  
 गातुं᳓+++(=गमनम्)+++ यज्ञ᳓पतये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -31,12 +36,15 @@ unicode_script: devanagari
 
 **तत्** तादृशं प्रशस्तफलं **शंयोः** बार्हस्पत्य्-आदौ [देः] **आवृणीमहे** प्रार्थयामहे, किं पुनस्तत्? **गातुं** गमनं देवान्प्रति **यज्ञाय** यज्ञस्य, यज्ञपतये यजमानस्य च गातुं देवस्थानं प्रति गमनं वृणीमहे ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दै᳓वी स्वस्ति᳓रस्तु नः ।  
 स्वस्ति᳓र् मा᳓नुषेभ्यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -53,6 +61,7 @@ unicode_script: devanagari
 
 अत्रैवं संपत्स्यमाना नः अस्माकं दैवी स्वस्तिः देवनिमित्तं विघ्नोपशमनमस्माकमस्तु । मानुषेभ्यश्च होतृभ्यः या स्वस्तिः सा चास्माकमस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -60,6 +69,8 @@ unicode_script: devanagari
 श᳓न् नो अस्तु द्विप᳓दे ।  
 श᳓ञ् च᳓तुष्पदे ॥25॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,4 +90,5 @@ unicode_script: devanagari
 
 इत्येकादशोऽनुवाकः ॥  
 
+</details>
 </details>

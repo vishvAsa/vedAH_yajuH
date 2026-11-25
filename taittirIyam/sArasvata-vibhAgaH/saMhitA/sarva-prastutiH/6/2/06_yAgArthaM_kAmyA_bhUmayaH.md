@@ -3,15 +3,20 @@ title = "०६ यागार्थं काम्या भूमयः"
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पु॒रोह॑विषि देव॒यज॑ने याजये॒द्यङ्का॒मये॒तोपै॑न॒मुत्त॑रो य॒ज्ञो न॑मेद॒भि सु॑व॒र्गल्ँ लो॒कञ्ज॑ये॒दित्ये॒तद्वै पु॒रोह॑विर्देव॒यज॑नय्ँ॒यस्य॒ होता॑ प्रातरनुवा॒कम॑नुब्रु॒वन्न॒ग्निम॒प आ॑दि॒त्यम॒भि वि॒पश्य॒त्युपै॑न॒मुत्त॑रो य॒ज्ञो न॑मत्य॒भि सु॑व॒र्गल्ँ लो॒कञ्ज॑यत्य्...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरो᳓हविषि देवय᳓जने याजयेद् य᳓ङ् काम᳓येत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,11 +41,14 @@ On a place of sacrifice where the sacrifice faces the east should he make him to
 
 उत्तरो यज्ञः उत्तरः क्रतुः उक्थ्यादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पैनमु᳓त्तरो यज्ञो᳓ नमेद् अभि᳓ सुवर्गल्ँ᳓ लोक᳓ञ् जयेदि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,11 +64,14 @@ On a place of sacrifice where the sacrifice faces the east should he make him to
 
 उपेति॑ । ए॒न॒म् । उत्त॑र॒ इत्युत्-त॒रः॒ । य॒ज्ञः । न॒मे॒त् । अ॒भीति॑ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ज॒ये॒त् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् वै᳓ पुरो᳓हविर् देवय᳓जनय्ँ य᳓स्य हो᳓ता प्रातरनुवाक᳓मनुब्रुव᳓न्न् अग्नि᳓म् अप᳓ आदित्य᳓मभि᳓ विप᳓श्यति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ That is the place of sacrifice where the sacrifice faces the east, where the Hot
 
 हूयतेऽस्मिन्निदं अस्मै इति च हवींष्यग्न्यादयः पुरस्ताद्यस्मिन्निति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पैनमु᳓त्तरो यज्ञो᳓ नमत्यभि᳓ सुवर्गल्ँ᳓ लोक᳓ञ् जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,17 +121,23 @@ To him the higher sacrifice condescends, he gains the world of heaven.
 
 उपेति॑ । ए॒न॒म् । उत्त॑र॒ इत्युत्-त॒रः॒ । य॒ज्ञः । न॒म॒ति॒ । अ॒भीति॑ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ज॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒प्ते दे॑व॒यज॑ने याजये॒द्भ्रातृ॑व्यवन्त॒म्पन्थाव्ँ॑वाधिस्प॒र्शये॑त्क॒र्तव्ँवा॒ याव॒न्नान॑से॒ यात॒वै [30]  
 न रथा॑यै॒तद्वा आ॒प्तन्दे॑व॒यज॑नमा॒प्नोत्ये॒व भ्रातृ॑व्य॒न्नैन॒म्भ्रातृ॑व्य आप्नो॒त्य्...
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्ते᳓ देवय᳓जने याजयेद् भ्रा᳓तृव्यवन्तम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,11 +158,14 @@ On a contiguous (aptá) place of sacrifice should he make him to sacrifice who h
 
 2आप्ते देवयजने याजयेद्भातृव्यवन्तं भ्रातृव्यैराप्तमित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓न्थाव्ँ वाधिस्पर्श᳓येत् कर्तव्ँ᳓ वा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ He should make it touch the road or a pit
 
 तृतीयार्थे चतुर्थी, तादर्थ्ये वा, ' कृत्यार्थे तवैकेन्' इति तवैप्रत्ययः, 'अन्तश्च तवै युगपत्' इत्याद्यन्तयोर्युगपदुदात्तत्वम्, 'नलोकाव्यय' इति षष्ठीप्रतिषेधः । व्यत्ययेन वा षष्ठ्यर्थे चतुर्थी । द्वितीयायामपि व्यत्ययेन पथ आकारः, नकारलोपो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्ना᳓नसे या᳓तवै᳓ न᳓ र᳓थाय [30] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,11 +213,14 @@ so that neither a wagon nor a chariot can go between [1].
 
 याव॑त् । न । अन॑से । यात॒वै । न । रथा॑य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वा᳓ आप्त᳓न् देवय᳓जनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,11 +245,14 @@ That is a contiguous place of sacrifice.
 
 न हि पन्थां गर्तं वा देवयजनसमीपे, अपि तु तयोः समीपे देवयजनमिति अनेनैव तयोराप्तिरिति कृत्वा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्नो᳓त्येव᳓ भ्रा᳓तृव्यन् नै᳓नम् भ्रा᳓तृव्य आप्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -236,16 +268,22 @@ He conquers (apnoti) his foe, his foe conquers him not.
 
 आ॒प्नोति॑ । ए॒व । भ्रातृ॑व्यम् । न । ए॒न॒म् । भ्रातृ॑व्यः । आ॒प्नो॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एको॑न्नते देव॒यज॑ने याजयेत्प॒शुका॑म॒मेको॑न्नता॒द्वै दे॑व॒यज॑ना॒दङ्गि॑रसᳶ प॒शून॑सृजन्तान्त॒रा स॑दोहविर्धा॒ने उ॑न्न॒तँ स्या॑दे॒तद्वा एको॑न्नतन्देव॒यज॑नम्पशु॒माने॒व भ॑वति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कोन्नते देवय᳓जने याजयेत् पशु᳓कामम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,11 +304,14 @@ On a place of sacrifice which is elevated in one place he should make him to sac
 
 3एकोन्नत इति ॥ पशूनामेकोन्नतत्वात् सादृश्याच्च पशुसाधनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कोन्नताद् वै᳓ देवय᳓जनाद᳓ङ्गिरसᳶ पशू᳓न् असृजन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +334,14 @@ The Angirases produced cattle from a place of sacrifice elevated in one place.
 
 'शीलिकामि' इति कमेर्णः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरा᳓ सदोहविर्धाने᳓ उन्नतँ᳓ स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,11 +364,14 @@ It should be elevated between the seat and the oblation-holders.
 
 'अन्तराऽन्तरेण' इति द्वितीया ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वा᳓ ए᳓कोन्नतन् देवय᳓जनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +387,14 @@ That is a place of sacrifice elevated in one place;
 
 ए॒तत् । वै । एको॑न्नत॒मित्येक॑-उ॒न्न॒त॒म् । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुमा᳓नेव᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,17 +410,23 @@ verily he becomes possessed of cattle.
 
 प॒शु॒मानिति॑ पशु-मान् । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्र्यु॑न्नते देव॒यज॑ने याजयेत्सुव॒र्गका॑म॒न्त्र्यु॑न्नता॒द्वै दे॑व॒यज॑ना॒दङ्गि॑रसस्सुव॒र्गल्ँ लो॒कमा॑यन्नन्त॒राह॑व॒नीय॑ञ्च हवि॒र्धान॑ञ्च [31]  
 उ॒न्न॒तँ स्या॑दन्त॒रा ह॑वि॒र्धान॑ञ्च॒ सद॑श्चान्त॒रा सद॑श्च॒ गार्ह॑पत्यञ्चै॒तद्वै त्र्यु॑न्नतन्देव॒यज॑नँ सुव॒र्गमे॒व लो॒कमे॑ति॒ प्रति॑ष्ठिते देव॒यज॑ने याजयेत्प्रति॒ष्ठाका॑ममे॒तद्वै प्रति॑ष्ठितन्देव॒यज॑नय्ँ॒यत्स॒र्वत॑स्स॒मम्प्रत्ये॒व ति॑ष्ठति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्यु᳙न्नते देवय᳓जने याजयेत् सुवर्ग᳓कामम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,11 +451,14 @@ On a place of sacrifice which is elevated in three places should he make him to 
 
 अनेकोन्नतसाम्यात्स्वर्गसाम्यमिति स्वर्गसाधनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्यु᳙न्नताद् वै᳓ देवय᳓जनाद᳓ङ्गिरसस् सुवर्गल्ँ᳓ लोक᳓मायन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,11 +474,14 @@ The Angirases went to the world of heaven from a place of sacrifice elevated in 
 
 त्र्यु॑न्नता॒दिति॒ त्रि-उ॒न्न॒ता॒त् । वै । दे॒व॒यज॑ना॒दिति॑ देव-यज॑नात् । अङ्गि॑रसः । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । आ॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरा᳓ऽऽहवनी᳓यञ् च हविर्धा᳓नञ् च + उन्नतँ᳓ स्याद् ,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -440,11 +502,14 @@ It should be elevated between the Ahavaniya fire and the oblation holder [2],
 
 लक्षागमाह - अन्तरेति । आहवनीयहविर्धानयोः हविर्धानसदसोः सदोगार्हपत्ययोश्च मध्यमुन्नतं स्यात् । पूर्ववद्द्वितीया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्तरा᳓ हविर्धा᳓नञ् च , स᳓दश्चान्तरा᳓ स᳓दश्च गा᳓र्हपत्यञ् च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -460,11 +525,14 @@ between the oblation-holder and the seat, and between the seat and the Garhapaty
 
 अ॒न्त॒रा । ह॒वि॒र्धान॒मिति॑ हविः-धान॑म् । च॒ । सदः॑ । च॒ । अ॒न्त॒रा । सदः॑ । च॒ । गार्‌ह॑पत्य॒मिति॒ गार्‌ह॑-प॒त्य॒म् । च॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् वै᳓ त्र्युन्नतन् देवय᳓जनँ सुवर्ग᳓मेव᳓ लोक᳓मेति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,11 +548,14 @@ That is a place of sacrifice elevated in three places; verily he goes to the wor
 
 ए॒तत् । वै । त्र्यु॑न्नत॒मिति॒ त्रि-उ॒न्न॒त॒म् । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् । सु॒व॒र्गमिति॑ सुवः-गम् । ए॒व । लो॒कम् । ए॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓तिष्ठिते देवय᳓जने याजयेत् प्रतिष्ठा᳓कामम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -505,11 +576,14 @@ On a place of sacrifice which is firm should he make him to sacrifice who desire
 
 सर्वतः प्रतिष्ठित इति । यत्सर्वतस्समं प्रतिष्ठितं, विषमस्याप्रतिष्ठितत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ प्र᳓तिष्ठितन् देवय᳓जनय्ँ य᳓त् सर्व᳓तस् सम᳓म्प्र᳓त्येव᳓ तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,17 +604,23 @@ That is a place of sacrifice which is firm, which is level on all sides; verily 
 
 प्रतिष्ठितसंबन्धी यजमानोपि प्रतितिष्ठति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्रा॒न्याअ॑न्या॒ ओष॑धयो॒ व्यति॑षक्ता॒स्स्युस्तद्या॑जयेत्प॒शुका॑ममे॒तद्वै प॑शू॒नाँ रू॒पँ रू॒पेणै॒वास्मै॑ प॒शून् [32]  
 अव॑ रुन्द्धे पशु॒माने॒व भ॑वति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्रान्या᳓अन्या ओ᳓षधयो व्य᳓तिषक्तास्स्यु᳓स्त᳓द्याजयेत्पशु᳓कामम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,11 +647,14 @@ Where diverse plants are intertwined, there should he make him sacrifice who des
 
 तद्याजयेत् तत्र याजयेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ पशूनाँ᳓ रूप᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -592,11 +675,14 @@ That is the form of cattle;
 
 एतद्वै पशूनां रूपं पशूनां वृद्धिहेतुत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपे᳓णैवा᳓स्मै पशू᳓न् अ᳓व रुन्धे ।[32] पशुमा᳓न् एव᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -612,16 +698,22 @@ verily by the form he wins cattle for him [3]; verily be becomes possessed of ca
 
 रू॒पेण॑ । ए॒व । अ॒स्मै॒ । प॒शून् । अवेति॑ । रु॒न्द्धे॒ । प॒शु॒मानिति॑ पशु-मान् । ए॒व । भ॒व॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 निर्ऋ॑तिगृहीते देव॒यज॑ने याजये॒द्यङ्का॒मये॑त॒ निर्ऋ॑त्यास्य य॒ज्ञङ्ग्रा॑हयेय॒मित्ये॒तद्वै निर्ऋ॑तिगृहीतन्देव॒यज॑नय्ँ॒यत्स॒दृश्यै॑ स॒त्या॑ ऋ॒क्षन्निर्ऋ॑त्यै॒वास्य॑ य॒ज्ञङ्ग्रा॑हयति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रृतिगृहीते देवय᳓जने याजयेद्य᳓ङ्काम᳓येत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,11 +734,14 @@ On a place of sacrifice seized by destruction should he make him to sacrifice fo
 
 6निर्ऋतिगृहीते इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रृत्याऽस्य यज्ञ᳓ङ् ग्राहयेयमि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -669,11 +764,14 @@ On a place of sacrifice seized by destruction should he make him to sacrifice fo
 
 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् वै᳓ नि᳓रृतिगृहीतन् देवय᳓जनय्ँ , य᳓त् सदृ᳓श्यै सत्या᳙ ऋक्ष᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +800,14 @@ That is a place of sacrifice seized by destruction where there is a bare patch o
 
 'शतुरनुमः' इति नद्या उदात्तत्वम्, 'उदात्तस्वरितयोर्यणः' इति विभक्तिः स्वर्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रृत्यैवा᳓स्य यज्ञ᳓ङ् ग्राहयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -722,16 +823,22 @@ verily he causes his sacrifice to be seized by destruction.
 
 निर्‌ऋ॒त्येति॒ निः-ऋ॒त्या॒ । ए॒व । अ॒स्य॒ । य॒ज्ञम् । ग्रा॒ह॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 व्यावृ॑त्ते देव॒यज॑ने याजयेद्व्या॒वृत्का॑मय्ँ॒यम्पात्रे॑ वा॒ तल्पे॑ वा॒ मीमाँ॑सेरन्प्रा॒चीन॑माहव॒नीया॑त्प्रव॒णँ स्या॑त्प्रती॒चीन॒ङ्गार्ह॑पत्यादे॒तद्वै व्यावृ॑त्तन्देव॒यज॑नव्ँ॒वि पा॒प्मना॒ भ्रातृ॑व्ये॒णा व॑र्तते॒ नैन॒म्पात्रे॒ न तल्पे॑ मीमाँसन्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्या᳓वृत्ते देवय᳓जने याजयेद्व्यावृ᳓त्कामय्ँय᳓म्पा᳓त्रे वा त᳓ल्पे वा मी᳓माँसेरन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -756,11 +863,14 @@ On a place of sacrifice which is distinctly marked should he cause him to sacrif
 
 वर्जयेयुरिति यावत् स्वेन सह भोजनं शयनं न कुर्युरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राची᳓नमाहवनी᳓यात् प्रवणँ᳓ स्यात् प्रतीची᳓नङ् गा᳓र्हपत्याद् एत᳓द्वै᳓ व्या᳓वृत्तन् देवय᳓जनम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -776,11 +886,14 @@ It should be sloping east of the Ahavaniya and west of the Garhapatya. That is a
 
 प्रा॒चीन॑म् । आ॒ह॒व॒नीया॒दित्या॑-ह॒व॒नीया॑त् । प्र॒व॒णमिति॑ प्र-व॒नम् । स्या॒त् । प्र॒ती॒चीन॑म् । गार्‌ह॑पत्या॒दिति॒ गार्‌ह॑-प॒त्या॒त् । ए॒तत् । वै । व्यावृ॑त्त॒मिति॑ वि-आवृ॑त्तम् । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ पाप्म᳓ना भ्रा᳓तृव्येणा᳓ऽऽ वर्तते नै᳓नम्पा᳓त्रे न᳓ त᳓ल्पे मीमाँसन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -809,16 +922,22 @@ be is distinguished from his evil foe, they doubt not of him for common meal or 
 
 'विभाषाञ्चेरदिक्स्त्रियाम्' इति खः, 'प्रनिरन्त' इत्यादिना वनो नकारस्य णत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 का॒र्ये॑ देव॒यज॑ने याजये॒द्भूति॑कामङ्का॒र्यो॑ वै पुरु॑षो॒ भव॑त्ये॒व ॥ [33]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्ये᳙ देवय᳓जने याजयेद् भू᳓तिकामम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -843,11 +962,14 @@ On a place of sacrifice which is artificial should he make him sacrifice who des
 
 इति षष्ठे द्वितीये षष्ठोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यो᳙ वै᳓ पु᳓रुषो , भ᳓वत्येव᳓ ॥ [33]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -862,4 +984,5 @@ Man must be made; verily he prospers.
 <details><summary>पद-पाठः</summary>
 
 का॒र्यः॑ । वै । पुरु॑षः । भव॑ति । ए॒व ॥
+</details>
 </details>

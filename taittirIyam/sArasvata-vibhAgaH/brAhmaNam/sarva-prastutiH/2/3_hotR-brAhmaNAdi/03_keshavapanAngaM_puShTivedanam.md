@@ -9,6 +9,8 @@ unicode_script: devanagari
 वि᳓शीर्षा स᳓पाप्मा ऽमु᳓ष्मिल्ँ लोके᳓ भवति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यो वा अवि॑द्वान्निव॒र्तय॑ते ।  
@@ -39,12 +41,15 @@ unicode_script: devanagari
 > यो वा अविद्वान् निवर्तयते ।  
 विशीर्षा स पाप्माऽमुष्मिल्ँ लोके भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ यो᳓ विद्वा᳓न् निवर्त᳓यते  
 स᳓शीर्षा वि᳓पाप्माऽमु᳓ष्मिल्ँ लोके᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,11 +71,14 @@ unicode_script: devanagari
 तद्-वेदन-पूर्वके तु निवर्तने शिरः-सहितः पाप-रहितो भवति ।  
 तस्माद् वेदनं संपादयेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता वै᳓ सप्त᳓ पु᳓ष्टिकामा न्य᳙वर्तयन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,12 +94,15 @@ unicode_script: devanagari
 
 अग्न्यादयस्सप्त देवताः पुष्टिकामाः पूर्वं न्यवर्तयन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓श् च पृथिवी᳓ च वायु᳓श् चान्त᳓रिक्षञ्च ,  
 आदित्य᳓श् च द्यौ᳓श् च चन्द्र᳓माः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,12 +145,15 @@ unicode_script: devanagari
 इति ॥  
 न्यवर्तयत, स्वकीयान् केशान् न्यवर्तयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् न्य᳙वर्तयत,  
 स᳓ साहस्र᳓म् अपुष्यत् ॥9॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +175,15 @@ unicode_script: devanagari
 
 स साहस्रं, सहस्र-संख्योपेतं धनम् अपुष्यत्, [[P445]] पुष्टम् अकरोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिवी᳓ न्य᳙वर्तयत,  
 सौ᳓षधीभिर् व᳓नस्प᳓तिभिर् अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,12 +205,15 @@ unicode_script: devanagari
 
 पृथिव्यादय ओषध्यादिभिर् जगत्-पुष्टिं संपादितवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓र् न्य᳙वर्तयत,  
 स᳓ म᳓रीचीभिर् अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -215,12 +235,15 @@ unicode_script: devanagari
 
 मरीचि-शब्देन अग्नय उपलक्ष्यन्ते । वायुना ह्य् अग्नयः प्रज्वाल्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षन्न्य᳙वर्तयत,  
 त᳓द् व᳓योभिर् अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +265,15 @@ unicode_script: devanagari
 
 वयोभिः पक्षिभिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यो᳓ न्य᳙वर्तयत,  
 स᳓ रश्मि᳓भिर् अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +285,15 @@ unicode_script: devanagari
 
 आदित्यः᳓ । नि । अवर्तयत । सः᳓ । रश्मि᳓भिः । अपुष्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्यौ᳓र् न्य᳙वर्तयत,  
 सा᳓ न᳓क्षत्रैर् अपुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -276,12 +305,15 @@ unicode_script: devanagari
 
 द्यौः᳓ । नि । अवर्तयत । सा᳓ । न᳓क्षत्रैः । अपुष्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मा न्य᳙वर्तयत,  
 सो᳙ऽहोरात्रै᳓र् अर्धमासै᳓र् मा᳓सैर् ऋतु᳓भिस् सव्ँवत्सरे᳓णापुष्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -293,6 +325,7 @@ unicode_script: devanagari
 
 चन्द्र᳓मा । नि᳓ । अवर्तयत । सौ᳓ । अहोरात्रैः᳓ । अर्ध-मासैः᳓ । मा᳓सैः । ऋतु᳓भिः । सम्-वत्सरे᳓ण । आ । अपुष्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,6 +333,8 @@ unicode_script: devanagari
 याँ᳓स् ते᳓ऽपुष्यन्  
 य᳓ एवव्ँ᳓ विद्वा᳓न् नि᳓ च वर्त᳓यते प᳓रि च ॥10॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,4 +360,5 @@ unicode_script: devanagari
 यः पुमान् अग्न्यादि-देवताभिः संपादितां सृष्टिं तत्-साधनत्वं च निवर्तनस्य विद्वान् निवर्तयते परिवर्तयते वा केशानां कर्तनं, स पुमान् अग्न्यादिभिर् ये पोषाः संपादितास् तान् पोषान् सर्वान् प्रामोति ॥
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठके तृतीयोऽनुवाकः ॥ ३ ॥
+</details>
 </details>

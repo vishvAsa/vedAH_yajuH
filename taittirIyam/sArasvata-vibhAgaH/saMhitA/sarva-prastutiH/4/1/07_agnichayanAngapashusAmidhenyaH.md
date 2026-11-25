@@ -5,6 +5,8 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 अग्निर्ऋषिः
 चतुर्थकाण्डे प्रथमप्रपाठके सप्तमोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 [अथ चतुर्थकाण्डे प्रथमप्रपाठके सप्तमोऽनुवाकः]
@@ -13,12 +15,15 @@ title = "०७ अग्निचयनाङ्गपशुसामिधे�
 कल्पः—‘एकर्विंशतिं चतुर्विशतिं वा पराचीः सामिधेनीरन्वाहैकादश प्राकृतीः समास्त्वाऽग्न इति दशाऽऽग्निकीः’ इति ।  
 तत्राऽऽद्यामाह— समास्त्वाऽग्न इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓मास्त्वाग्न ऋत᳓वो वर्धयन्तु सव्ँवत्सरा᳓ ऋ᳓षयो या᳓नि सत्या᳓ ।  
 स᳓न्दिव्ये᳓न दीदिहि रोचने᳓न वि᳓श्वा आ᳓ भाहि प्रदि᳓शᳶ पृथिव्याः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,10 +54,14 @@ Illuminate all the quarters of the earth.
 तैर्वर्धितस्त्वं दिव्येन द्युलोकार्हेण रोचनेन तेजसा संदीदिहि सभ्यग्दीप्यस्व ।  
 किंच त्वदीयया दीप्त्या पृथिव्याः संबन्धिनीः प्रदिशः सर्वा दिशो विदिशश्चाऽऽभाहि सर्वतो भासय ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— सं चेध्यस्वाग्न इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -60,6 +69,8 @@ Illuminate all the quarters of the earth.
 स᳓ञ्चेध्य᳓स्वाग्ने प्र᳓ च बोधयैनमु᳓च्च तिष्ठ महते᳓ सौ᳓भगाय ।  
 मा᳓ च रिषदुपसत्ता᳓ ते अग्ने ब्रह्मा᳓णस्ते यश᳓सस्सन्तु मा᳓ऽन्ये᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,10 +101,14 @@ May thy priests be famous, not the others.
 किंच ते त्वदीया ब्रह्माणो ब्राह्मणा ऋत्विग्यजमाना यशसः सन्तु यशरिवनो भवन्तु ।  
 अन्ये त्वत्परिचर्याविमुका यशस्विनो मा भूवन् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— त्वामग्न इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -101,6 +116,8 @@ May thy priests be famous, not the others.
 त्वा᳓मग्ने वृणते ब्राह्मणा᳓ इमे᳓ शिवो᳓ अग्ने [25]  सव्ँव᳓रणे भवा नः ।  
 सपत्नहा᳓ नो अभिमातिजि᳓च्च स्वे᳓ ग᳓ये जागृह्य᳓प्रयुच्छन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,10 +146,14 @@ Do thou watch unfailing in thine own home.
 किंच नोऽस्माकं सपत्नहा वीरघाती, अभिमातिजित्पापजयकारी च भूत्वा स्वे गये स्वकीये गृहेऽप्रयुछन्प्रमादमकुर्वन्ञ्जागृहि सावधानो भव ।  
 अस्माद्धितं विचारयेत्यर्थः ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— इहैवाग्न इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -140,6 +161,8 @@ Do thou watch unfailing in thine own home.
 इहै᳓वा᳓ग्ने अ᳓धि धारया रयि᳓म्मा᳓ त्वा नि᳓ क्रन्पूर्वचि᳓तो निकारि᳓णः ।  
 क्षत्र᳓मग्ने सुय᳓ममस्तु तु᳓भ्यमुपसत्ता᳓ वर्धतान्ते अ᳓निष्टृतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,10 +188,14 @@ May not the overcomers, anticipating (us); overcome thee; May the lordly power b
 हेऽग्ने तुभ्यं तव क्षत्रं बलं सुयममस्तु सुस्थितं भवतु ।  
 ते तत्रोपसत्ता परिचारकोऽनिष्टृतः केनापि नित रामहिंसितः सन्वर्धताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— क्षत्त्रेणाग्न इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -176,6 +203,8 @@ May not the overcomers, anticipating (us); overcome thee; May the lordly power b
 क्षत्रे᳓णाग्ने स्वा᳓युस्सँ᳓ रभस्व मित्रे᳓णाग्ने मित्रधे᳓ये यतस्व ।  
 सजाता᳓नाम्मध्यमस्था᳓ एधि रा᳓ज्ञामग्ने विहव्यो᳙ दीदिहीह᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,10 +233,14 @@ O Agni, shine forth here to be invoked by kings.
 हूयतेऽत्रेति हवा यज्ञा विविधाश्च ते हवाश्च विहवाः विहवानर्हतीति विहव्यः ।  
 हेऽग्ने त्वमिह भूमौ राज्ञां विहव्यो विविधयज्ञप्रवर्तकः सन्दीदिहि, अतिशयेन दीप्यस्व ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— अति निहो अतीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,6 +248,8 @@ O Agni, shine forth here to be invoked by kings.
 अ᳓ति [26]  निहो अ᳓ति स्रि᳓धो᳓ऽत्य᳓चित्तिम᳓त्य᳓रातिमग्ने ।  
 वि᳓श्वा ह्य᳙ग्ने दुरिता᳓ स᳓हस्वा᳓थास्म᳓भ्यँ सह᳓वीराँ रयि᳓न्दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,10 +282,14 @@ And bestow upon us wealth with heroes.
 किंबहुना, हेऽग्ने विश्वान्यपि दुरितान्यनिष्टकारणानि सहस्व विनाशय ।  
 अथानन्तरमस्मभ्यं सहवीरां वीरैः पुत्रैः सहितां सयिं धनं दा देहि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह— अनाधृष्य इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -258,6 +297,8 @@ And bestow upon us wealth with heroes.
 अनाधृष्यो᳓ जात᳓वेदा अ᳓निष्टृतो विरा᳓डग्ने क्षत्रभृ᳓द्दीदिहीह᳓ ।  
 वि᳓श्वा आ᳓शाः प्रमुञ्च᳓न्मा᳓नुषीर्भिय᳓श्शिवा᳓भिरद्य᳓ प᳓रि पाहि नो वृधे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,10 +330,14 @@ Do thou this day guard us for increase with kindliness.
 किं कुर्वत् ।  
 बिश्वा आशा निषिद्धाचरणविषयाः सर्वास्तृष्णा मानुषीर्भियो मनुष्येषु प्रसक्ता व्याध्यादिभीतीश्च प्रमुञ्चन्प्रकर्षेण निवारयन् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह— बृहस्पत इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -300,6 +345,8 @@ Do thou this day guard us for increase with kindliness.
 बृ᳓हस्पते सवितर्बोध᳓यैनँ सँ᳓शितञ्चित्सन्तराँ᳓ सँ᳓ शिशाधि ।  
 वर्ध᳓यैनम्महते᳓ सौ᳓भगा᳓य᳓ [27]  वि᳓श्व एनम᳓नु मदन्तु देवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,10 +376,14 @@ Let the All-gods rejoice in him.
 एनं यजमानं महते सौभगाय वर्धय ।  
 विश्वे सर्वेऽपि देवा एनं यज-मानमनुमदन्तु समीचीनोऽयमिति हृष्यन्तु ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— अमुत्रभूयादिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -340,6 +391,8 @@ Let the All-gods rejoice in him.
 अमुत्रभू᳓याद᳓ध य᳓द्यम᳓स्य बृ᳓हस्पते अभि᳓शस्तेर᳓मुञ्चः ।  
 प्र᳓त्यौहतामश्वि᳓ना मृत्यु᳓मस्माद्देवा᳓नामग्ने भिष᳓जा श᳓चीभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,10 +424,14 @@ O Agni, the physicians of the gods with their powers.
 हेऽग्ने देवानां भिषजावश्विनौ देवौ शचीभिः।  
 स्वकीयशक्तिभिरस्माद्यजमानान्मृत्युं प्रत्याहैताम्, अपमृत्युमिह लोके निराकुरुताम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह— उद्वयं तमस इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -382,6 +439,8 @@ O Agni, the physicians of the gods with their powers.
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि प᳓श्यन्तो ज्यो᳓तिरु᳓त्तरम् ।  
 देव᳓न्देवत्रा᳓ सू᳓र्यम᳓गन्म ज्यो᳓तिरुत्तम᳓म् ॥ [28]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,6 +464,7 @@ Have come to the highest light.
 <details><summary>सायण-टीका</summary>
 
 वयं तमस उत्तरं ज्योतिस्तमसो विनाशकत्वेनोत्कृष्ट-  १८१६ मग्निसंबद्धं ज्योतिरुत्परि पश्यन्त उत्कर्षेण सर्वतोऽवलोकयन्तो देवत्रा देवेषु मध्ये सूर्यं देवं सृर्यरूपेण वर्तमानमग्निसंबद्धमेवोत्तयं ज्योतिरगन्म प्राप्तास्म ।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

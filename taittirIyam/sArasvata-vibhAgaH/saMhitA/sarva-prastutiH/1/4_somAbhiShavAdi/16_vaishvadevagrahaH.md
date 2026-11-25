@@ -5,9 +5,12 @@ title = "१६ वैश्वदेवग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शुक्रपात्रेण वैश्वदेवं कलशाद् गृह्णाति - ओमास इति त्रिपदया गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
@@ -255,17 +258,21 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः इति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,13 +299,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,20 +323,25 @@ to the All-gods thee!
 
 विश्वे॑भ्यः । त्वा॒ । दे॒वेभ्यः॑ ॥
 </details>
+</details>
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/16_vaishvadevagrahaH/eShaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्विश्वेभ्यस्त्वा देवेभ्य इति सादयति ॥ 'वैश्वदेव्यो वै प्रजा असावादित्यश्शुक्रः' इत्यादि ब्राह्मणम्  ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः ॥ [17]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,5 +357,5 @@ This is thy birthplace; to the All-gods thee!
 
 ए॒षः । ते॒ । योनिः॑ । विश्वे॑भ्यः । त्वा॒ । दे॒वेभ्यः॑ ॥
 </details>
-
+</details>
 </div>

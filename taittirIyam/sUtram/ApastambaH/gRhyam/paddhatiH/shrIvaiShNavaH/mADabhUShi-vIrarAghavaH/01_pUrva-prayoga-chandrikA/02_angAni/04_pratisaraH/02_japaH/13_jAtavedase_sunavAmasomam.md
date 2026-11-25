@@ -4,6 +4,8 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 'जातवेदसे सुनवामसोमम्' इति पञ्च,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सायण-टीका [ऽत्र](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_036_Taittiriya_Aranyakam_With_Sayana_Bhashya_Part_2_-_Babasastri_Phadke_1927#page/n361/mode/2up)। भास्करपाठो [ऽत्र](https://archive.org/details/taittiriya/taittiriya_aranyaka_bhaskara_02/page/n101/mode/2up?view=theater) ।
@@ -22,6 +24,7 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथानिष्टपरिहारार्थत्वेन जप्या मन्त्रा उच्यन्ते। तत्रैकामृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
@@ -386,10 +389,15 @@ Dem Wesenkenner lasst uns Soma brauen, des Bösen Reichthum möge er verbrennen,
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 वेदांसि वेदनानि ज्ञानानि तानि जातान्युत्पन्नानि यस्मादग्नेः सोऽयं जातवेदाः, आधानेन संस्कृतेऽग्नौ पश्चात्तदा तदा कर्तव्यविषयाणि ज्ञानान्युत्पद्यन्ते। तस्मै जातवेदसे यागकाले लतात्मकं सोमं सुनवामाभिषुतं करवाम। स्वयं सर्वं वेत्तीति वेदोऽग्निः। स चारातीयतोऽस्मास्वरातित्वं शत्रुत्वमिच्छतः पुरुषान्निदहाति नितरां भस्मी करोति। किंच सोऽग्निर्नोऽस्माकं विश्वा दुर्गाणि सर्वा आपदोऽतिपर्षदतिशयेन नाशितवानित्यर्थः। किंच यथा लोके नावा सिन्धुं सनुद्रं नाविकस्तारयति तथाऽग्निर्दुरितानि पापान्यतिशयेन तारयतीति शेषः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -399,6 +407,7 @@ Dem Wesenkenner lasst uns Soma brauen, des Bösen Reichthum möge er verbrennen,
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयामृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
@@ -464,9 +473,12 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तृतीयामृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
@@ -861,6 +873,8 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अग्ने त्वमिति व्याख्याता 'उभा वां' इत्यत्र । अत्र तु परवस्तुपरतया व्याख्येया ॥
@@ -870,10 +884,14 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 
 हेऽग्ने नव्यः स्तोतव्यस्त्वमस्मान्स्वस्तिभिः क्षेमकारिभिरुपायैर्विश्वा दुर्गाण्यति सर्वा आपदोऽतिशयेन लङ्घयित्वा पारय संसारस्य परतीरं नय। नोऽस्माकं त्वत्प्रसादात्पूश्च या निवासयोग्या पुरी साऽपि पृथ्वी विस्तीर्णा भवतु। ऊर्वी सर्वस्य निष्पादनयोग्या भूमिरपि बहुला भवतु। त्वं च तोकाय तनयायास्मदपत्याय तदीयपुत्राय च शंयोर्भव सुखस्य मिश्रयिता भव।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्थीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/09_vishvAni_no.md">
@@ -1236,10 +1254,15 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 हे जातवेदो दुर्गहा सर्वासामापदामपहन्ता त्वं विश्वानि दुरिता सर्वाणि पापानि नावा सिन्धुं न समुद्रमिव नोऽस्मानतिपर्षि अतिशयेन तारयसि। हेऽग्नेऽत्रिवदाध्यात्मिकादितापत्रयरहितत्वेनात्रिशब्दवाच्यो जीवन्मुक्तो महर्षिः "आत्मौपम्येन भूतानां दयां कुर्वीत मानवः " इत्येतच्छास्त्रमनुसृत्य "सर्वे च सुखिनः सन्तु सर्वे सन्तु निरामयाः " इत्येवं मनसा यथा सर्वदा भावयति तथा त्वमपि मनसा गृणानो गृणन्नुच्चारयन्भावयन्नस्माकं तनूनामविता रक्षिता भूत्वा बोधि बुध्यस्व सावधानो भवेत्यर्थः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1249,6 +1272,7 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पञ्चमीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
@@ -1452,8 +1476,11 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 </div>
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>द्राविडपाठः (द्रष्टुं नोद्यम्)</summary>
 
 जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो निज॑हाति॒  वेदः॑ । स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धु॑न्दुरि॒ताऽत्य॒ग्निः । ताम॒ग्निव॑र्णा॒न्तप॑सा  ज्वल॒न्तीव्ँ वै॑रोच॒नीङ्क॑र्मफ॒लेषु॒ जुष्टा॑म् । दु॒र्गान्दे॒वीँ शर॑णम॒हं प्रप॑द्ये सु॒तर॑सि तरसे॒ नमः॑ । अग्ने॒ त्वं पा॑रया॒ नव्यो॑  अ॒स्मान्त्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ । पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शय्ँयोः । विश्वा॑नि नो  दु॒र्गहा॑ जातवेद॒स्सिन्धु॒न्न ना॒वा दु॑रि॒ताति॑ पर्षि । अग्ने॑ अत्रि॒वन्मन॑सा गृणा॒नो॑ऽस्माकं॑ बोद्ध्यवि॒ता त॒नूना॑म् ।  पृ॒त॒ना॒जितँ॒ सह॑मानम॒ग्निमु॒ग्रँ हु॑वेम पर॒मात्स॒धस्था॑त् । स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वो अति॑  दुरि॒ताऽत्य॒ग्निः । प्र॒त्नोषि॑ क॒मीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑ । स्वाञ्चा॑ग्ने त॒नुवं॑ पि॒प्रय॑स्वा॒स्मभ्य॑ञ्च॒  सौभ॑ग॒माय॑जस्व ॥ (11)
+</details>
 </details>
 </div>

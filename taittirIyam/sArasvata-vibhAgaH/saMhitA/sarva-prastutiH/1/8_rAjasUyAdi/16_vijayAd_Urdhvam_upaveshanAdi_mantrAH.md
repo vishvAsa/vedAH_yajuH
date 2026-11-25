@@ -1,6 +1,8 @@
 +++
 title = "१६ विजयाद् ऊर्ध्वम् उपवेशनादि - मन्त्राः"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विजयाद् ऊर्ध्वम् उपवेशनादिमन्त्राः , जितवतो राज्ञः सेवोपचारार्थं मन्त्राः
@@ -14,11 +16,14 @@ title = "१६ विजयाद् ऊर्ध्वम् उपवेश�
 
 1वैश्वदेव्यामिक्षायां यजमानो दक्षिणं बाहुम् उपावहरते - मित्रोसीति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रो᳙ऽसि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,16 +44,22 @@ Thou art Mitra
 
 मित्रो देवस्त्वमसि वैश्वदेवत्वादन्यतररूपत्वेन भेदेन स्तुतिः । यद्वा - हिंसायास्त्रासकस्तुतिस्त्वमसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2सव्यम् उपावहरति - वरुणोसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,16 +80,22 @@ thou art Varuna.
 
 वरुणो देवस्त्वमसि । पूर्ववत् स्तुतिः । वारको वा शत्रूणामसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तामभिमृशति - समहमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् अहव्ँ᳓ वि᳓श्वैर् देवैः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,16 +116,22 @@ May I be united with the All-gods.
 
 समित्युपसर्गस्ससाधनां क्रियामाह । संहतोहं विश्वैर्देवैः । यद्वा - विश्वैर्देवैर्युक्तां त्वामहं संस्पृशामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आसन्दीं मिनोति - क्षत्रस्येति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्त्र᳓स्य ना᳓भिरसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,16 +152,22 @@ Thou art the navel of kingly power,
 
 क्षत्रस्य बलस्य नाभिस्सन्नहनं त्वमसि । 'नहो भश्च इति इञ्प्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5तस्त्याम् अधिवासं स्तृणाति - क्षत्रस्य योनिरसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्त्र᳓स्य यो᳓निर् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,10 +188,14 @@ thou are the womb of kingly power.
 
 योनिः कारणं क्षत्रस्यासि, अतो ह्ययं जायते । 'अधीवासमास्तृणाति सयोनित्वाय' ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रासीनं तम् अभिमन्त्रयते - स्योनामासीदेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +203,8 @@ thou are the womb of kingly power.
 स्योना᳓म् आ᳓ सीद ।   
 सुष᳓दाम् आ᳓ सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,12 +228,15 @@ Sit thou on the smooth, sit thou on the pleasant seat.
 
 सिवेरौणादिके नप्रत्यये ऊठि गुणे च स्योनेति भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा हिँसीत् ।  
 मा᳓ मा हिँसीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,10 +258,14 @@ May she hurt thee not; may she hurt me not.
 
 मा त्वा हिंसीदियमासन्दी । तां च त्वं मा हिंसीः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अनुमन्त्र्यमाणम् आसन्नम् अभिमन्त्रयते - निषसादेति गायत्र्या त्रिपदया ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/02_niShasAda_dhRtavrato.md">
@@ -270,18 +312,22 @@ In the waters, with keen insight, for lordship.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ ऋत्विक्षु च सर्वतः पर्युपविष्टेषु  
 अध्वर्युं राजाभिमन्त्रयते - ब्रह्मा3न् इति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,12 +348,15 @@ O Brahman!
 
 हे ब्रह्मन् इति । 'दूराद्धूते च' इति वाक्यस्य टेरुदात्तः प्लुतश्च, 'पूर्वत्रासिद्धम्' इति तस्यासिद्धत्वात् 'आमन्त्रितस्य' इति षाष्ठिकमामन्त्रिताद्युदात्तत्वं प्रवर्तते 'अनुदात्तं पदमेकवर्नम्' इति च न प्रवर्तते ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अध्वर्युः प्रत्याह - त्वमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -315,6 +364,8 @@ O Brahman!
 त्वँ᳓ राजन् ब्रह्मा᳓ ऽसि ।   
 स᳓विता᳓ ऽसि सत्य᳓-सवः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -336,18 +387,23 @@ Thou, O king, art the Brahman priest, thou art Savitr of true instigation.
 
 हे राजन् त्वमेव ब्रह्मासि नाहम् । हेतुमाह - यतस्सविता सर्वस्य प्रेरकः अनुज्ञाता वा त्वमसि त्वदाज्ञया हि सर्वं प्रवर्तते । सत्यसवः सत्यानुज्ञः अमोघशासनः, अतस्त्वमेव ब्रह्मासि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अथ ब्रह्माणमाम् अन्त्रयते - ब्रह्मा3न् इति ॥ व्याख्यातम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,12 +424,15 @@ O Brahman!
 
 हे ब्रह्मन् इति । 'दूराद्धूते च' इति वाक्यस्य टेरुदात्तः प्लुतश्च, 'पूर्वत्रासिद्धम्' इति तस्यासिद्धत्वात् 'आमन्त्रितस्य' इति षाष्ठिकमामन्त्रिताद्युदात्तत्वं प्रवर्तते 'अनुदात्तं पदमेकवर्नम्' इति च न प्रवर्तते ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11ब्रह्मा प्रत्याह - त्वमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -381,6 +440,8 @@ O Brahman!
 त्वँ᳓ राजन् ब्रह्मा᳓ऽसि।    
 इ᳓न्द्रोऽसि सत्यौ᳓जाः [31]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,18 +463,23 @@ Thou, O king, art the Brahman priest, thou art Indra of true force [1].
 
 हे राजन् त्वमेव ब्रह्मासि यतस्त्वमिन्द्रोसि सर्वस्येश्वरोसि । सत्यौजाः अवितथबलः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12होतारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -434,12 +500,15 @@ O Brahman!
 
 हे ब्रह्मन् इति । 'दूराद्धूते च' इति वाक्यस्य टेरुदात्तः प्लुतश्च, 'पूर्वत्रासिद्धम्' इति तस्यासिद्धत्वात् 'आमन्त्रितस्य' इति षाष्ठिकमामन्त्रिताद्युदात्तत्वं प्रवर्तते 'अनुदात्तं पदमेकवर्नम्' इति च न प्रवर्तते ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13स प्रत्याह - त्वमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +516,8 @@ O Brahman!
 त्वँ᳓ राजन् ब्रह्मा᳓ऽसि ।   
 मित्रो᳙ऽसि सु-शे᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,13 +539,15 @@ Thou, O king, art the Brahman priest; thou art Mitra, the kindly.
 
 हे राजन् त्वमेव ब्रह्मासि, यतो मित्रोसि शर्वस्य हिंसाभ्यस्त्रातासि । सुशेवस्सुसुखः । 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,20 +568,24 @@ O Brahman!
 
 हे ब्रह्मन् इति । 'दूराद्धूते च' इति वाक्यस्य टेरुदात्तः प्लुतश्च, 'पूर्वत्रासिद्धम्' इति तस्यासिद्धत्वात् 'आमन्त्रितस्य' इति षाष्ठिकमामन्त्रिताद्युदात्तत्वं प्रवर्तते 'अनुदात्तं पदमेकवर्नम्' इति च न प्रवर्तते ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14उद्गातारमामन्त्रयते - ब्रह्मा3न् इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/16_vijayAd_Urdhvam_upaveshanAdi_mantrAH/brahmAn.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मा३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -529,12 +606,15 @@ O Brahman!
 
 हे ब्रह्मन् इति । 'दूराद्धूते च' इति वाक्यस्य टेरुदात्तः प्लुतश्च, 'पूर्वत्रासिद्धम्' इति तस्यासिद्धत्वात् 'आमन्त्रितस्य' इति षाष्ठिकमामन्त्रिताद्युदात्तत्वं प्रवर्तते 'अनुदात्तं पदमेकवर्नम्' इति च न प्रवर्तते ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15 स प्रत्याह - त्वमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +622,8 @@ O Brahman!
 त्वँ᳓ राजन् ब्रह्मा᳓ऽसि,  
 व᳓रुणोऽसि सत्य᳓-धर्मा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,19 +644,24 @@ Thou, O king, art the Brahman priest; thou art Varuna, of true rule.
 
 हे राजन् त्वमेव ब्रह्मासि, यतस्त्वं वरुणोसि वारयिता शत्रूणां पापचोरव्याघ्रादीनां वारयितासि । सत्यधर्मा सत्यस्वभावः । 'धर्मादनिच्केवलात्' ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16ब्रह्मा स्फ्यं राज्ञे प्रयच्छति - इन्द्रस्येति ॥ व्याख्यातम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य व᳓ज्रोऽसि,  
 वा᳓र्त्रघ्नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,13 +689,15 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न मे रध्य
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -629,16 +718,22 @@ with this subject to me.
 
 तस्मात्तेन वज्रेण हेतुना मम दस्यून् रध्य नाशय । यद्वा - साधयाभिमतानीति । रध हिसासिद्ध्योः, दैवादिकः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17पञ्चाक्षान् राज्ञे प्रयछति - दिश इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓शो ऽभ्य् अ᳙यँ᳓ रा᳓जा **ऽभूत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -659,16 +754,22 @@ This king hath surmounted the quarters.
 
 अयं राजा सर्वा दिशः अभ्यभूत् अभिभवतु सर्वा दिशोधिष्ठाय स्वयमेव राजा भवत्वित्यर्थः । यद्वा - 'अभिरभागे' इति लक्षणे अभेः कर्मप्रवचनीयत्वम् । दिशोभि सर्वासु दिक्षु अयं राजा भवति सर्वदा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18मङ्गल्यनाम्नो राजाह्वयति - सुश्लोकेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓-श्लोकाँ᳓४
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -693,11 +794,14 @@ O thou of good fame!
 
 अहं सदा सुश्लोकस्स्यामित्याह्वातुरभिप्रायः । सुमङ्गलश्शोभनमङ्गलहेतुः । निरुपसृष्टाभिप्रेतार्थसिद्धिहेतुर्मङ्गलम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓मङ्गलाँ᳓४
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -713,11 +817,14 @@ O thou of prosperity!
 
 सुम॑ङ्ग॒लाँ(4) इति॒ सु-म॒ङ्ग॒लाँ(4) ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓त्य-राजा᳓३न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -742,16 +849,22 @@ O thou of true rule!
 
 'अणोप्रगृह्यस्यानुनासिकः' इति प्रथमद्वितीययोरन्त्य(रूप)स्यानुनासिकः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19अथावभृथेन प्रचर्यापामन्ते जुहोति - अपां नप्त्र इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न् न᳓प्त्रे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -772,16 +885,22 @@ To the son of the waters hail!
 
 अपां चतुर्थायाग्नये स्वाहा । अद्भ्य ओषधयः, ओषधीभ्योन्नं, अन्नादग्निरिति । 'ऊडिदम्' इति षष्ठ्युदात्ता ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20विषुवति दर्भस्तम्बे जुहोति - ऊर्जो नप्त्र इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्जो᳓ न᳓प्त्रे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -802,19 +921,24 @@ To the son of strength hail!
 
 ऊर्गन्नं तस्य नप्त्रे चतुर्थाय स्वाहा । 'अन्नाद्बलं' बलान्मथनवेगः, ततोग्निरिति । 'सावेकचः' इत्यूर्जष्षष्ठ्युदात्ता ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21पुनरेत्य गार्हपत्ये जुहोति - अग्नये गृहपतये स्वाहेति । गतम् ॥  
 अष्टमे षोडशोनुवाकः ॥  
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -835,5 +959,5 @@ To Agni, lord of the house, hail!
 
 अग्नये गृहाणां निवासाधाराणां पात्रे । 
 </details>
-
+</details>
 </div>

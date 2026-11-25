@@ -3,9 +3,12 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 +++
 तैत्तिरीय संहितीयां द्वितीय काण्डे चतुर्थप्रपाठकः ॥
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा म॑नु॒ष्याः॑ पि॒तर॒स्ते॑ऽन्यत॑ आस॒न्नसु॑रा॒ रक्षाँ॑सि पिशा॒चास्ते॑ऽन्यत॒स्तेषा॑न्दे॒वाना॑मु॒त यदल्पल्ँ॒लोहि॑त॒मकु॑र्व॒न्तद्रक्षाँ॑सि॒ रात्री॑भिरसुभ्न॒न्तान्त्सु॒ब्धान्मृ॒तान॒भि व्यौ॑च्छत्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ title = "०१ भ्रातृव्यैः स्पर्धमाने
 देवा᳓ मनुष्याः᳙ पित᳓रस्ते᳙ऽन्य᳓त आसन् ।   
 अ᳓सुरा र᳓क्षाँसि पिशाचा᳓स्तेन्य᳓तः  +++(आसन्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -34,12 +39,15 @@ The gods, men, and the Pitrs were on one side, the Asuras, Raksases, and Piśaca
 
 1देवा मनुष्या इत्यादि ॥ अन्यतः एकस्मिन् पक्षे देवादयोऽभवन् । असुरादयोऽप्येकस्मिन् । 'नपुंसकमनपुंसकेन' इत्येतद्व्यत्ययेन न प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षान्देवा᳓नामुत᳓ य᳓द᳓ल्पल्ँलो᳓हितम᳓कुर्वन् ।  
 त᳓द्र᳓क्षाँसि रा᳓त्रीभिरसुभ्नन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -61,11 +69,14 @@ Of the gods the little blood they drew the Raksases smothered by the nights
 
 अथ तेषां देवानां शरीरेषु असुरादयः यदल्पमपि लोहितमकुर्वन् व्रणमुदपादयन् तत् असुरपक्षपातीनि रक्षांसि रत्रीभिरसुभ्नन् रात्रिष्वागम्य धर्षितमकुर्वन्, येन सुम्भनेन ते मृतास्स्युः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न्त्सुब्धा᳓न्मृता᳓नभि᳓ व्यौच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,10 +97,14 @@ and dawn dawned on them smothered and dead.
 
 ततस्तान् सुब्धान् [कृतव्रणान्] तेनैव हेतुना मृतान् अभिव्यौच्छत् रात्रिरुपरताऽभवत् ; रात्र्यवसाने मृतानपश्यन्निति यावत्, व्रणाद्युत्क्षोभस्य रक्षोहेतुत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ते दे॒वा अ॑विदु॒र्यो वै नो॒ऽयम्म्रि॒यते॒ रक्षाँ॑सि॒ वा इ॒मङ्घ्न॒न्तीति॒ ते रक्षाँ॒स्युपा॑मन्त्रयन्त॒ तान्य॑ब्रुव॒न्वरव्ँ॑वृणामहै॒ यत् [1]  असु॑रा॒ञ्जया॑म॒ तन्न॑स्स॒हास॒दिति॒ ततो॒ वै दे॒वा असु॑रानजय॒न्तेऽसु॑राञ्जि॒त्वा रक्षाँ॒स्यपा॑नुदन्त
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +118,8 @@ and dawn dawned on them smothered and dead.
 य᳓द᳓सुराञ्ज᳓याम ।  
 त᳓न्नस्सहा᳓सदि᳓ति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -130,12 +147,15 @@ The gods understood, 'Him who of us dies, it is the Raksases who kill.'
 
 2ते देवा इत्यादि ॥ गतम् । तन्नस्सहेति । अस्मत्पक्षे युष्माभिर्वर्तितव्यमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ देवा᳓ अ᳓सुरानजयन् ।  
 ते᳓ऽसुराञ्जित्वा᳓ र᳓क्षाँस्य᳓पानुदन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -157,11 +177,14 @@ They invited the Raksases; they said, 'Let us choose a boon; what [1] we win fro
 
 ततो रक्षोभिस्सहायैः देवाः असुरानजयन् । जयानन्तरं रक्षांसि अपानुदन्त ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि र᳓क्षाँस्य᳓नृतमकर्ते᳓ति समन्त᳓न्देवा᳓न्प᳓र्यविशन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -182,16 +205,22 @@ Then indeed did the gods conquer the Asuras, and having conquered the Asuras, th
 
 3अथ देवैरपनुन्नानि रक्षांसि देवान् समन्तं पर्यविशन् परीत्य देवानां शरीरादिष्वनुप्रावेश्याबाधन्त । किं वदन्तीत्याह – अनृतमसत्यं अकर्त कृतवन्तो यूयमिति अन्याय्यं ख्यापयन्ति । निरुद्ध्येव स्थिता[नि] इति वा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ते दे॒वा अ॒ग्नाव॑नाथन्त॒ ते॑ऽग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपन्न॒ग्नये॑ विबा॒धव॑ते॒ऽग्नये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒रव॑पन्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अग्ना᳓वनाथन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -212,11 +241,14 @@ The Raksases (saying), 'Ye have done falsely', surrounded the gods on all sides.
 
 4अथैवं तैरभिभूयमाना देवा अग्नावनाथन्त; ऐश्वर्यमारोपयन् अग्निं नाथयन्ति स्मेति यावत् । यद्वा - अग्नौ याचितृत्वेनावर्तन्त । नाथृ नाधृ याच्ञोपतापैश्वर्याशीष्षु । त्वया वयं रक्ष्या इति ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳙ऽग्नये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓रवपन् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,11 +269,14 @@ The gods found a protector in Agni;
 
 तत एतां त्रिहविष्कामिष्टिमग्नये निरवपन् देवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये विबाध᳓वतेऽग्न᳓ये प्र᳓तीकवते य᳓दग्न᳓ये प्र᳓वते निर᳓वपन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,16 +297,22 @@ they offered to Agni, the forward, a cake on eight potsherds,
 
 प्रवते । प्रवत्, 'उपसर्गाच्छन्दसि' इति वतिः । विश्लेष्य बाधो विबाधः, तद्द्वान् तत्समर्थः ।  प्रतिकूला वृत्तिः तद्वान् प्रतीकवान् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यान्ये॒व पु॒रस्ता॒द्रक्षाँ॑सि [2]  आस॒न्तानि॒ तेन॒ प्राणु॑दन्त॒ यद॒ग्नये॑ विबा॒धव॑ते॒ यान्ये॒वाभितो॒ रक्षाँ॒स्यास॒न्तानि॒ तेन॒ व्य॑बाधन्त॒ यद॒ग्नये॒ प्रती॑कवते॒ यान्ये॒व प॒श्चाद्रक्षाँ॒स्यास॒न्तानि॒ तेनापा॑नुदन्त॒ ततो॑ दे॒वा अभ॑व॒न्परासु॑रा॒ यो भ्रातृ॑व्यवा॒न्त्स्यात्स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेता॒ग्नये॒ प्रव॑ते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेद॒ग्नये॑ विबा॒धव॑ते [3]  अ॒ग्नये॒ प्रती॑कवते॒ यद॒ग्नये॒ प्रव॑ते नि॒र्वप॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓न्येव᳓ पुर᳓स्ताद् र᳓क्षाँस्या᳓सन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,11 +333,14 @@ to Agni, the overcomer, to Agni with the face.
 
 5पुरस्तादिति ॥ पूर्वस्यां दिशि । 'अस्ताति च' इति पुरादेशः । प्रहत[थम]त्वात्तस्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि ते᳓न प्रा᳓णुदन्त।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +361,14 @@ In that they offered to Agni, the forward,
 
 प्राणुदन्तेति । प्रथमतः उत्पत्तावेवानुदन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्न᳓ये विबाध᳓वते या᳓न्येवा᳓भि᳓तो  र᳓क्षाँस्या᳓सन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +389,14 @@ the Raksases in front [2] they repelled thereby;
 
 अभित इति । दक्षिणत उत्तरतश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि ते᳓न व्य᳙बाधन्त ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +417,14 @@ in that (they offered) to Agni, the overcomer,
 
 व्यबाधन्तेति । विश्लेष्यानाशयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्न᳓ये प्र᳓तीकवते या᳓न्येव᳓ पश्चा᳓द् र᳓क्षाँस्या᳓सन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +445,14 @@ the Raksases that were around they repelled thereby;
 
 पश्चादिति । अपरस्यां दिशि । 'पश्चात्' इति निपात्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि ते᳓ना᳓पानुदन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,12 +473,15 @@ in that (they offered) to Agni with the face, the Raksases behind were repelled 
 
 अपानुदन्तेति । अपरस्यां दिशि अपकृष्यानाशयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो देवा᳓ अ᳓भवन् ।  
 प᳓रा᳓सुरा यो᳓ भ्रा᳓तृव्यवान्त्स्या᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -448,11 +507,14 @@ That the gods prospered, the Raksases were defeated.
 
 अत एवाह – पराभूता असुरा इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ स्प᳓र्धमान एत᳓ये᳓ष्ट्या यजेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,12 +530,15 @@ He who has foes should in conflict sacrifice with this offering;
 
 सः । स्पर्ध॑मानः । ए॒तया॑ । इष्ट्या॑ । य॒जे॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये प्र᳓वते पुरोडा᳓शमष्टा᳓कपालन्नि᳓र्वपेत् ।  
 अग्न᳓ये विबाध᳓वतेऽग्न᳓ये᳓ ये प्र᳓तीकवते य᳓दग्न᳓ये प्र᳓वते निर्व᳓पति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -490,16 +555,22 @@ he should offer to Agni, the forward, a cake on eight potsherds, to Agni, the ov
 
 अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म् । निरिति॑ । व॒पे॒त् । अ॒ग्नये॑ । वि॒बा॒धव॑त॒ इति॑ विबा॒ध-व॒ते॒ । अ॒ग्नये॑ । प्रती॑कवत॒ इति॒ प्रती॑क-व॒ते॒ । यत् । अ॒ग्नये॑ । प्रव॑त॒ इति॒ प्र-व॒ते॒ । नि॒र्वप॒तीति॑ निः-वप॑ति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य ए॒वास्मा॒च्छ्रेया॒न्भ्रातृ॑व्य॒स्तन्तेन॒ प्र णु॑दते॒ यद॒ग्नये॑ विबा॒धव॑ते॒ य ए॒वैने॑न स॒दृङ्तन्तेन॒ वि बा॑धते॒ यद॒ग्नये॒ प्रती॑कवते॒ य ए॒वास्मा॒त्पापी॑या॒न्तन्तेनाप॑ नुदते॒ प्र श्रेयाँ॑स॒म्भ्रातृ॑व्यन्नुद॒तेऽति॑ स॒दृश॑ङ्क्रामति॒ नैन॒म्पापी॑यानाप्नोति॒ य ए॒वव्ँवि॒द्वाने॒तयेष्ट्या॒ यज॑ते ॥ [4]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवा᳓स्माच्छ्रे᳓यान्भ्रा᳓तृव्यस्त᳓न्ते᳓न प्र᳓ णुदते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,11 +591,14 @@ In that he offers to Agni, the forward, he repels thereby the foe who is superio
 
 6य इत्यादि ॥ गतम् । श्रेयान् प्रशस्यतरः । तं तावत्प्रणुदते स्वरूपाच्च्यावयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्न᳓ये विबाध᳓वते य᳓ एवै᳓नेन सदृ᳓ङ्त᳓न्ते᳓न वि᳓ बाधते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,11 +619,14 @@ in that (he offers) to Agni, the overcomer, he repels thereby (the foe) who is e
 
 सदृङिति । समानं पश्यतीति सदृङ् । 'समानान्ययोश्च' इति दृग्भावः, 'दृक्स्ववस्स्ववतसां छन्दसि' इति नुम् ।  विबाधत इति । विश्लेष्य नाशयति । किं नैनं कदाचिदपि पीडा प्राप्नोति । साम्यमस्य निवर्तयति स्वयमतिशेत इति यावत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्न᳓ये प्र᳓तीकवते य᳓ एवा᳓स्मात्पा᳓पीयान्त᳓न्ते᳓ना᳓प नुदते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,6 +647,7 @@ in that (he offers) to Agni with the face, he repels thereby the foe which is in
 
 पापीयान् पापतरः तमपनुदते नाशयति यथास्य न कदाचिदनुकरोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -578,6 +656,8 @@ in that (he offers) to Agni with the face, he repels thereby the foe which is in
 नै᳓नम्पा᳓पीयानाप्नोति ।   
 य᳓ एवव्ँ᳓विद्वा᳓नेत᳓ये᳓ष्ट्या य᳓जते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,4 +682,5 @@ He repels the foe who is superior, he surpasses him who is like, the inferior do
 7अथ वेदितुस्स्तुतिः - श्रेयांसं प्रणुदते, सदृशमतिक्रामति, नैनं कदाचिदपि भ्रातृव्य आप्नोति । गतमन्यत् ॥
 
 इति द्वितीये चतुर्थे प्रथमोनुवाकः ॥
+</details>
 </details>

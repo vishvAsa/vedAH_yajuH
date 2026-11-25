@@ -6,6 +6,8 @@ title = "०१ पुनराधान-कालद्रव्यादि"
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रस्तावना
@@ -16,17 +18,23 @@ title = "०१ पुनराधान-कालद्रव्यादि"
 केषु चिद्विधिरेव स्यादेवं निन्दानिषेधयोः ॥ इति ॥    
 तत्र परकृतयः मनुष्यकृतयः, यथा - 'विश्वरूपो वै त्वाष्ट्रः' इत्यादयः । पुराकल्पाः प्रजापत्यादिकृतयः, यथा - 'प्रजापतिः प्रजा असृजत' इत्यादयः । सर्वाण्येतानि कल्पब्राह्मणानि । अथ ब्राह्मणानुब्राह्मणानि यथा - 'अनुमत्यै पुरोडाशमष्टाकपार्लं निर्वपति । ये प्रत्यञ्चश्शम्याः' इत्यादीनि ॥
 </details>
+</details>
 
 ## कथामुखम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आस॒न्ते दे॒वा वि॑ज॒यमु॑प॒यन्तो॒ऽग्नौ वा॒मव्ँवसु॒ सन्न्य॑दधत
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स् सय्ँ᳓यत्ता आसन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,6 +55,7 @@ The gods and the Asuras were in conflict;
 
 1देवाश्चासुराश्च संयत्ताः सङ्ग्रामार्थमुद्युक्ताः आसन् अभवन् । यती प्रयत्ने, 'श्वीदितो निष्ठायाम्' इतीट्प्रतिषेधः, सम्यग्यत्ता इति कर्तरि निष्ठा, तेन प्रादिसमासे अव्ययपूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -54,6 +63,8 @@ The gods and the Asuras were in conflict;
 ऽग्नौ᳓ वामव्ँ᳓ व᳓सु **स᳓न्-न्य्-अदधत** -  
 इद᳓मु नो भविष्यति य᳓दि +++(ते)+++ नो जेष्य᳓न्ती᳓ति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ the gods, in anticipation of the contest, deposited in Agni their desirable rich
 
 कथं मन्यमाना इत्याह - इदमु न इति । इदं तावदस्माकमेव भविष्यति यद्यपि पुनरस्मानसुरा जेष्यन्तीति मन्यमाना अयमस्माकमग्निरस्माकमास्त इति तत्र संन्यदधतेति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अग्नि᳓र् न्यकामयत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +116,14 @@ the gods, in anticipation of the contest, deposited in Agni their desirable rich
 
 तद्देवैरात्मनि निहितं वस्वग्निर्न्यकामयत आत्मसात्कर्तुमैच्छत् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ना᳓पाक्रामत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,16 +144,22 @@ and went away with it.
 
 ततस्स कामयमानस्तेन वसुना सहापाक्रामत् देवसकाशात्पलायत ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तद्दे॒वा वि॒जित्या॑व॒रुरु॑त्समाना॒ अन्वा॑य॒न्तद॑स्य॒ सह॒साऽदि॑त्सन्त  सो॑ऽरोदी॒द्यदरो॑दी॒त्तद्रु॒द्रस्य॑ रुद्र॒त्वम् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् देवा᳓ विजि᳓त्यवरु᳓रुत्समाना +++(अग्निम्)+++ अ᳓न्वायन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -157,6 +180,7 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 
 अथ देवा असुरान्विजित्य तद्वामं वस्ववरुरुत्समानाः आत्मसात्कर्तुमिच्छन्तः अग्निमन्वायन् अन्वगच्छन् ।
 </details>
+</details>
 
 ## रुद्रत्वम्
 
@@ -164,6 +188,8 @@ The gods having defeated (the Asuras) pursued (Agni) desirous of recovering it.
 
 त᳓दस्य स᳓हसा᳓ऽऽदित्सन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,11 +210,14 @@ They sought violently to take it from him.
 
 अनुगम्य च तद्वसु अस्याग्नेस्सकाशात् सहसा बलेन विनैवानुज्ञया आदित्सन्त आदातुमैच्छन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽरोदीत्।  य᳓द् अ᳓रोदीत् त᳓द् +++(अनुसारकेषु वर्तमानस्य)+++ रुद्र᳓स्य रुद्रत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -209,18 +238,24 @@ He wept; in that he wept (arodit), that is why Rudra has his name.
 
 ततःप्रभृत्यग्निं रुद्रमाचक्षते रोदनेन निमित्तेन । 'रोदेर्णिलुक्च' इति ण्यन्ताद्विधीयमानो रक्प्रत्ययो बाहुलकात्केवलादपि भवति ।
 </details>
+</details>
 
 ## रजतम् अदक्षिणा
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदश्र्वशी॑यत॒ तद् [1]र॒ज॒तँ हिर॑ण्यमभव॒त्तस्मा॑द्रज॒तँ हिर॑ण्यमदक्षि॒ण्यम॑श्रु॒जँ हि 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓श्र्व् अ᳓शीयत, त᳓द्  र᳓जतँ᳓ हि᳓रण्यम् अभवत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,11 +276,14 @@ The tear that [1] was shed became silver;
 
 तस्य रुदतो यदश्रु नेत्रजलमशीयत न्यपतत् रजतं रूप्यं हिरण्यमभवत्, हितरमणीयं वा । यद्वा - रूप्यस्वर्णयोर्हिरण्यामिति वर्तते (भवति) ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् रजतँ᳓ हि᳓रण्यम् अदक्षिण्य᳓म् - अश्रु-जँ᳓  हि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,18 +304,24 @@ therefore silver is not a suitable gift, for it is born of tears.
 
 तदिदानीं रजतेन विशेष्यते - हिरण्यशब्दाभिधानं तु प्रशंसार्थम् । तस्माद्रजतमदक्षिण्यं अदक्षिणार्हं अश्रुजम् । हीति हेतौ । हिरण्यमप्यदक्षिणार्हमिति प्रतिपादनार्थं पुनरपि हिरण्यग्रहणम् । 'कडङ्करदक्षि- णाछ्व च' इति यत्प्रत्ययः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 ## बर्हिष्य् अदानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो ब॒र्हिषि॒ ददा॑ति - पु॒राऽस्य॑ सव्ँवत्स॒राद् गृ॒हे रु॑दन्ति तस्मा॑द्ब॒र्हिषि॒ न देयम् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ बर्हि᳓षि +++(अग्निर् इव)+++ द᳓दाति - पुरा᳓ऽस्य सव्ँवत्सरा᳓द् गृहे᳓ रुदन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -298,11 +342,14 @@ He who gives on the strew, in his house before the year is out they weep;
 
 तस्मात्, बर्हिषि यज्ञे यो रजतं ददाति अस्य गृहे पुरा संवत्सरात् संवत्सरसमाप्तेः रुदन्ति रोदननिमित्तान्युत्पत्स्यन्ते । 'यावत्पुरानिपातयोर्लट्' । यद्वा - 'सप्तमीपञ्चम्यौ कारकमध्ये' इति पञ्चमी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्बर्हि᳓षि न᳓ दे᳓य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,18 +370,24 @@ therefore one should not give on the strew.
 
 तस्मात् बर्हिषि रजतं न दद्यादिति । इदं प्रास्सङ्गिकमुक्तम् ॥
 </details>
+</details>
 
 ## पुनराधाने देवता
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सो॒॑ऽग्निर॑ब्रवीद्भा॒ग्य॑सा॒न्यथ॑ व इ॒दमिति॑ पुनरा॒धेय॑न्ते॒ केव॑ल॒मित्य॑ब्रुवन् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓᳓ऽग्नि᳓र् अब्रवीत् - भाग्य् अ᳙सानि, अ᳓थ व इद᳓मि᳓ति   ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -358,11 +411,14 @@ Agni said, 'Let me have a share; then this will be yours.'
 भागी भागवान् असानि भवानि मह्यं भागो युष्माभिर्देयः,
 अथ तथाकृते इदं मयि निहितं वसु वः युष्माकमेव भविष्यति अहं दास्यामीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनराधे᳓यन् ते के᳓वलमि᳓त्यब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,16 +439,22 @@ They replied, 'The re-establishing shall be thine alone.'
 
 तच्छ्रुश्रुवांसो देवा अब्रुवन् पुनराधेयं ते तवैव केवलमस्ति नान्यः कश्चिदत्र भागीति । पुनः आधानानन्तरमग्निराधीयते तस्मिन्निति पुनराधेयं कर्म अग्न्याधेयस्यैव उत्तराततिः ऋद्धिकामिभिः कर्तव्या । अधिकरणे कृत्यः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॒ध्नव॒त्खलु॒ स इत्य॑ब्रवी॒द्यो म॑द्देव॒त्य॑म॒ग्निमा॒दधा॑ता॒ इति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋध्न᳓वत्ख᳓लु स᳓ - इ᳓त्य् अब्रवीद् - यो᳓ मद्-देवत्य᳙म् अग्नि᳓म् आद᳓धाता इ᳓ति᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,12 +477,16 @@ They replied, 'The re-establishing shall be thine alone.'
 
 कः इत्थं यो मद्देवत्यं मदेकदेवत्यमग्निमादधातै आदधीतेति द्वितीयामग्न्याधेयततिं करोतीत्यर्थः । एवमाधातुरभ्युदयमाशास्ते [सै] इति । ऋध्नोतेर्लेटि 'लेटोडाटौ इत्यडागमः । 'देवतान्तात्तादर्थ्ये यत्' । दधातेर्लेटि 'वैतोन्यत्र' इत्यैकारः । तच्च तथा देवैः प्रतिश्रुतमिति गम्यते । तस्मात् पुनराधेयं कर्तव्यमिति विधिश्चानुमीयते ।
 </details>
+</details>
 
 ### फल-स्तुतिः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तम्पू॒षाऽऽध॑त्त॒ तेन॑ [2]पू॒षाऽऽर्ध्नो॒त्तस्मा॑त्पौ॒ष्णाᳶ प॒शव॑ उच्यन्ते तन्त्वष्टाऽऽध॑त्त॒ तेन॒ त्वष्टा॑ऽऽर्ध्नो॒त्तस्मा॑त्त्वा॒ष्ट्राᳶ प॒शव॑ उच्यन्ते तम्मनु॒राऽध॑त्त॒ तेन॒ मनु॑रार्ध्नो॒त्तस्मा॑न्मान॒व्यᳶ॑ प्र॒जा उ॑च्यन्ते तन्धा॒ताऽऽध॑त्त॒ तेन॑ धा॒ताऽऽर्ध्नो॑त् सव्ँवत्स॒रो वै धा॒ता तस्मा॑त् सव्ँवत्स॒रम्प्र॒जाᳶ प॒शवोऽनु॒ प्र जा॑यन्ते । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,6 +495,8 @@ They replied, 'The re-establishing shall be thine alone.'
 ते᳓न पूषा᳓ऽर्ध्नोत् ।  
 त᳓स्मात् पौष्णाᳶ᳓ पश᳓व उच्यन्ते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,6 +519,7 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 
 अनन्तरं च ऋद्धिकामाः पूषादयः तादृशेन पुनराधेयेन ऋद्धिं प्राप्ता इति दर्शयति - पूषेत्यादि । गतम् । पूष्णः स्वभूताः पौष्णाः पशवः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -458,6 +527,8 @@ Pusan established it; therefore [2] did Pusan prosper; therefore cattle are said
 ते᳓न त्व᳓ष्टाऽऽर्ध्नोत् ।  
 त᳓स्मात् त्वाष्ट्राᳶ᳓ पश᳓व उच्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,6 +546,7 @@ Tvastr established it; therefore did Tvastr prosper; therefore cattle are said t
 
 तम् । त्वष्टा॑ । एति॑ । अ॒ध॒त्त॒ । तेन॑ । त्वष्टा॑ । आ॒र्ध्नो॒त् । तस्मा॑त् । त्वा॒ष्ट्राः । प॒शवः॑ । उ॒च्य॒न्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -482,6 +554,8 @@ Tvastr established it; therefore did Tvastr prosper; therefore cattle are said t
 ते᳓न म᳓नुर् आर्ध्नोत् ।   
 त᳓स्मान् मानव्यᳶ᳙ प्रजा᳓ उच्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,6 +573,7 @@ Manu established it; therefore did Manu prosper; therefore offspring are said to
 
 तम् । मनुः॑ । एति॑ । अ॒ध॒त्त॒ । तेन॑ । मनुः॑ । आ॒र्ध्नो॒त् । तस्मा॑त् । मा॒न॒व्यः॑ । प्र॒जा इति॑ प्र-जाः । उ॒च्य॒न्ते॒ ।
 </details>
+</details>
 
 ## सांवत्सरिकता-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -508,6 +583,8 @@ Manu established it; therefore did Manu prosper; therefore offspring are said to
 सव्ँ᳓व᳓त्सरो᳓ वै᳓ धाता᳓ ।  
 त᳓स्मात् सव्ँवत्सर᳓म् प्रजाᳶ᳓ पश᳓वो᳓ऽनु प्र᳓ जायन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -532,16 +609,22 @@ Dhatr is the year; therefore offspring and cattle are born in the course of the 
 
 संवत्सरमिति । प्रजाः पशवश्च संवत्सरमनु प्रजायन्ते । लक्षणादिना अनोः कर्मप्रवचनीयत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य ए॒वम्पु॑नरा॒धेय॒स्यर्द्धिव्ँ॒वेद॑ [3]ऋ॒ध्नोत्ये॒व यो॑ऽस्यै॒वम्ब॒न्धुताव्ँ॒वेद॒ बन्धु॑मान्भवति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓म् पुनर्-आधे᳓यस्य᳓र्द्धिव्ँ वे᳓द  ऋध्नो᳓त्य् एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,11 +645,14 @@ He who knows thus the prosperity of the re-establishing [3] prospers.
 
 3य एवमित्यादि ॥ गतम् । बन्धुतां बन्धुसमूहं पूषादीनाम् । 'ग्रामजनबन्धुसहायेभ्यस्तल्' ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ऽस्यैव᳓म् बन्धु᳓ताव्ँ वे᳓द ब᳓न्धुमान् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,12 +668,15 @@ He who knows his connexions becomes possessed of connexions himself.
 
 यः । अ॒स्य॒ । ए॒वम् । ब॒न्धुता॑म् । वेद॑ । बन्धु॑मा॒निति॒ बन्धु॑-मा॒न् । भ॒व॒ति॒ ।
 </details>
+</details>
 
 ## उद्वास्य पुनराधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भा᳓गधे᳓यव्ँ वा᳓ अग्नि᳓र् आ᳓हित इच्छ᳓मानᳶ प्रजा᳓म् पशू᳓न् य᳓जमानस्यो᳓प दोद्राव ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,16 +697,22 @@ Agni desiring a share after being established assailed the offspring and cattle 
 
 4भागधेयं वा इत्यादि ॥ गतम् । आत्मन एवासाधारणं भागमिच्छन् प्रजां पशूंश्च यजमानस्योपदोद्राव भृशमुपद्रुतान् करोति स्म । द्रवतेर् यङ्लुगन्ताच् छान्दसो लिट् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒द्वास्य॒ पुन॒रा द॑धीत भाग॒धेये॑नै॒वैनँ॒ सम॑र्धय॒त्यथो॒ शान्ति॑रे॒वास्यै॒षा 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्वा᳓स्य पु᳓नरा᳓ दधीत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,11 +733,14 @@ Having removed it, one should re-establish it;
 
 तस्माद् उद्वास्याग्निं पुनरादधीत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागधे᳓येनैवै᳓नँ स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -663,11 +761,14 @@ thus he unites him with his own portion;
 
 भागधेयेनाभीप्सितेन एनमग्निं समर्थयति सुप्रीतं करोति । +++(समर्थयति इति भाष्ये पाठः ??)+++  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो शा᳓न्तिर् एवा᳓स्यैषा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -693,12 +794,16 @@ verily he is appeased.
 +अन्यानि वा कृत्वा  
 पुनर्-आदधीताग्नीन् अग्न्याधेय-कल्पेनेति ॥
 </details>
+</details>
 
 ## पुनर्वस्वोः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पुन॑र्वस्वो॒राद॑धीतै॒तद्वै पु॑नरा॒धेय॑स्य॒ नक्ष॑त्रय्ँ॒यत्पुन॑र्वसू॒ स्वाया॑मे॒वैन॑न्दे॒वता॑यामा॒धाय॑ ब्रह्मवर्च॒सी भ॑वति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +812,8 @@ verily he is appeased.
 एत᳓द् वै᳓ पुनराधे᳓यस्य न᳓क्षत्रय्ँ य᳓त् पु᳓नर्वसू ।  
 स्वा᳓याम् एवै᳓नन् देव᳓तायाम् आधा᳓य ब्रह्मवर्चसी᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -729,18 +836,24 @@ He should establish under Punarvasu; Punarvasu is the Naksatra for the re-establ
 
 5पुनर्वस्वोरिति ॥ पुनरावर्तते वामं वस्वेतयोरिति पुनर्वसू देवतायाम् । ब्रह्मवर्चसी ब्राह्मणस्येयमेव ऋद्ध्यिरिति ॥
 </details>
+</details>
 
 ## दर्द्भैः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द॒र्भैरा द॑धा॒त्यया॑तयामत्वाय द॒र्भैरा द॑धात्य॒द्भ्य ए॒वैन॒मोष॑धीभ्योऽव॒रुध्याऽऽध॑त्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्भै᳓र् आ᳓दधाति᳓ अ᳓-यात-यामत्वाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -763,11 +876,14 @@ He establishes with Darbha grass, for variety.
 
 अयातयामत्वाय अपुनरुक्तत्वाय । किञ्च - दर्भैराधानमद्भ्यश्चौषधीभ्यश्चाग्नेरेवावरुद्ध्यै भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्भै᳓रा᳓ दधात्य् - अद्भ्य᳓ एवै᳓नम् +++(अग्निम्)+++ ओ᳓षधीभ्यो ऽवरु᳓ध्या᳓ऽऽधत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,17 +899,23 @@ He establishes with Darbha; verily winning it from the waters and the plants he 
 
 द॒र्भैः । एति॑ । द॒धा॒ति॒ । अ॒द्भ्य इत्य॑त्-भ्यः । ए॒व । ए॒न॒म् । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । अ॒व॒रुध्येत्य॑व-रुध्य॑ । एति॑ । ध॒त्ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॑कपालᳶ पुरो॒डाशो॑ भवति
 पञ्च॒ वा ऋ॒तव॑ ऋ॒तुभ्य॑ ए॒वैन॑मव॒रुध्याऽऽध॑त्ते ॥ [4]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चकपालᳶ पुरोडा᳓शो भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -814,11 +936,14 @@ The sacrificial cake is offered on five potsherds;
 
 7पञ्चकपाल इत्यष्टाकपालस्य स्थाने ॥ पञ्चसु कपालेषु संस्कृत इति तद्धितार्थे द्विगुः, 'द्विगोः' इति लुक्, 'इगन्तकाल' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अन्धसि पृथग् वर्षर्तोर् अभावात्)+++ प᳓ञ्च वा᳓ ऋत᳓व - ऋतु᳓भ्य एवै᳓नम् +++(अग्निम्)+++ अवरु᳓ध्या᳓ऽऽधत्ते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -838,6 +963,7 @@ the seasons are five; verily he wins it from the seasons and establishes it.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पञ्च वा इति ॥ हेमन्तशिशिरयोरेकत्वाभिप्रायमिदम, 'हेमन्तशिशिरावृतूनाम्' इति सहनिर्देशात् ॥
+</details>
 </details>
 
 इति पञ्चमे प्रथमोनुवाकः ॥  

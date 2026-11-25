@@ -4,15 +4,20 @@ title = "०९ कारीरीपूर्वभागविधानम्"
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मा॒रु॒तम॑सि म॒रुता॒मोज॒ इति॑ कृ॒ष्णव्ँवास॑ᳵ कृ॒ष्णतू॑ष॒म्परि॑ धत्त ए॒तद्वै वृष्ट्यै॑ रू॒पँ सरू॑प ए॒व भू॒त्वा प॒र्जन्यव्ँ॑वर्षयति र॒मय॑त मरुतश्श्ये॒नमा॒यिन॒मिति॑ पश्चाद्वा॒तम्प्रति॑ मीवति पुरोवा॒तमे॒व ज॑नयति व॒र्षस्याव॑रुद्ध्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुत᳓मसि मरु᳓तामो᳓ज इ᳓ति कृष्णव्ँ᳓वा᳓सᳵ कृष्ण᳓तूषम्प᳓रि धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ title = "०९ कारीरीपूर्वभागविधानम्"
 
 1अथ 'मारुतमस्ति' इत्यादीनां करीरीमन्त्राणां ब्राह्मणम् - मारुतमसीत्यादि ॥ कृष्णतूषं कृष्णदशान्तं (उदकं) कृष्णं वासो यजमानः परिधत्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ वृ᳓ष्ट्यै रूपँ᳓ स᳓रूप एव᳓ भूत्वा᳓ पर्ज᳓न्यव्ँवर्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,11 +66,14 @@ that is the hue of rain; verily becoming of like hue he causes Parjanya to rain.
 
 एतत्कृष्णं वासः वृष्ट्यै वृष्ट्या रूपं ; ततश्च पर्जन्यसमानरूपो भूत्वा पर्जन्यं वर्षयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रम᳓यत मरुतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -83,11 +94,14 @@ that is the hue of rain; verily becoming of like hue he causes Parjanya to rain.
 
 रमयतेत्यादि । पश्चाद्वातं अपरस्यां दिशि आगच्छन्तं वातं प्रतिमीवति प्रतिनिवर्तयति वर्षप्रतिकूलमपि पुरोवातं पूर्वस्या दिशि आगच्छन्तं वातं वर्षानुकूलं जनयत्येव । तस्य वर्षस्यावरुद्ध्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्येन᳓मायि᳓नमि᳓ति पश्चाद्वात᳓म्प्र᳓ति मीवति पुरोवात᳓मेव᳓ जनयति वर्ष᳓स्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,16 +124,22 @@ verily he produces the east wind, to win the rains.
 
 प्रतिमीवति क्षीयमाणं करोतीति यावत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वातना॒मानि॑ जुहोति वा॒युर्वै वृष्ट्या॑ ईशे वा॒युमे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ स ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयत्य॒ष्टौ [23] जु॒हो॒ति॒ चत॑स्रो॒ वै दिश॒श्चत॑स्रोऽवान्तरदि॒शा दि॒ग्भ्य ए॒व वृष्टिँ॒ सम्प्र च्या॑वयति कृष्णाजि॒ने सय्ँयौ॑ति ह॒विरे॒वाक॑रन्तर्वे॒दि सय्ँयौ॒त्यव॑रुद्ध्यै॒ यती॑नाम॒द्यमा॑नानाँ शी॒र्षाणि॒ परा॑पत॒न्ते ख॒र्जूरा॑ अभव॒न्तेषाँ॒ रस॑ ऊ॒र्ध्वो॑ऽपत॒त्तानि॑ क॒रीरा॑ण्यभवन्त्सौ॒म्यानि॒ वै क॒रीरा॑णि सौ॒म्या खलु॒ वा आहु॑तिर्दि॒वो वृष्टि॑ञ्च्यावयति॒ यत्क॒रीरा॑णि॒ भव॑न्ति [24]  सौ॒म्ययै॒वाहु॑त्या दि॒वो वृष्टि॒मव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातनामा᳓नि जुहोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +160,14 @@ He makes offering to the names of the wind;
 
 2वातनामानीति ॥ 'पुरोवातो वर्षन्' इत्यादीन्यष्टौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓र्वै᳓ वृ᳓ष्ट्या ईशे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ the wind rules the rain;
 
 'लोपस्त आत्मनेपदेषु' इति तलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायु᳓मेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +218,14 @@ verily he has recourse to the wind with its own share;
 
 अष्टावित्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एवा᳓स्मै पर्ज᳓न्यव्ँवर्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -212,11 +241,14 @@ verily it makes Parjanya rain for him.
 
 सः । ए॒व । अ॒स्मै॒ । प॒र्जन्य॑म् । व॒र्ष॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टौ᳓ जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,11 +264,14 @@ Eight offerings [1] he makes;
 
 अ॒ष्टौ । जु॒हो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तस्रो वै᳓ दि᳓शश्च᳓तस्रोऽवान्तरदिशा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,11 +287,14 @@ the quarters are four, the intermediate quarters are four;
 
 चत॑स्रः । वै । दिशः॑ । चत॑स्रः । अ॒वा॒न्त॒र॒दि॒शा इत्य॑वान्तर-दि॒शाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिग्भ्य᳓ एव᳓ वृ᳓ष्टिँ स᳓म्प्र᳓ च्यावयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -272,11 +310,14 @@ verily from the quarters he makes the rain to move.
 
 दि॒ग्भ्य इति॑ दिक्-भ्यः । ए॒व । वृष्टि॑म् । सम् । प्रेति॑ । च्या॒व॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णाजिने᳓ सय्ँ᳓यौति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -299,11 +340,14 @@ He unites (them) on a black antelope skin;
 
 अन्तर्वेदि कृष्णाजिने मधुषा करीरसक्तून् संयौतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हवि᳓रेवा᳓करन्तर्वेदि᳓ सय्ँ᳓यौत्य᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -324,11 +368,14 @@ verily he makes the offering; he unites within the Vedi, for accomplishment.
 
 हविरेवाकः अकार्षीत् करोति । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् । अन्तर्वेदि संयवनं वर्षस्यावरोधनाय भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓तीनामद्य᳓मानानाँ शीर्षा᳓णि प᳓रापतन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -349,11 +396,14 @@ When the Yatis were being eaten, their heads fell away;
 
 यतीनामिति । प्राणिनां यातयितारो रक्षोवीशेषाः यतयः तेषां षालावृकैरद्यमानानाम् । यदाह – 'इन्द्रो यतीन् सालावृकेभ्यः' इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ खर्जू᳓रा अभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,12 +424,15 @@ they became Kharjuras;
 
 खर्जूराः महातालाः तत्फलानि करीराणि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाँ र᳓स ऊर्ध्वो᳙ऽपतत् ।  
 ता᳓नि करी᳓राण्यभवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +449,14 @@ their sap rose upwards, they became Kariras;
 
 तेषा॑म् । रसः॑ । ऊ॒र्ध्वः । अ॒प॒त॒त्॒ । तानि॑ । क॒रीरा॑णि । अ॒भ॒व॒न्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्या᳓नि वै᳓ करी᳓राणि सौम्या᳓ ख᳓लु वा᳓ आ᳓हुतिर्दिवो᳓ वृ᳓ष्टिञ्च्यावयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,11 +477,14 @@ the Kariras are connected with Soma;
 
 सौम्यानीति । रसपरिणामत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्करी᳓राणि भ᳓वन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -441,11 +500,14 @@ the offering connected with Soma makes rain to move from the sky;
 
 यत् । क॒रीरा॑णि । भव॑न्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौम्य᳓यैवा᳓हुत्या दिवो᳓ वृ᳓ष्टिम᳓व रुन्द्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,16 +528,22 @@ in that there are Kariras (in the sacrifice) [2], by means of an offering which 
 
 सौम्येति । सौम्यैव हि दिवो वृष्टिं च्यावयितुं शक्नोति । गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मधु॑षा॒ सय्ँयौ॑त्य॒पाव्ँवा ए॒ष ओष॑धीनाँ॒ रसो॒ यन्मध्व॒द्भ्य ए॒वौष॑धीभ्यो वर्ष॒त्यथो॑ अ॒द्भ्य ए॒वौष॑धीभ्यो॒ वृष्टि॒न्नि न॑यति॒ मान्दा॒ वाशा॒ इति॒ सय्ँयौ॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धुषा सय्ँ᳓यौति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,11 +566,14 @@ With honey he unites (them);
 
 मधुशब्दपर्यायो मधुश्शब्दः उसिप्रत्ययान्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाव्ँ᳓वा᳓ एष᳓ ओ᳓षधीनाँ र᳓सो य᳓न्म᳓धु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,11 +589,14 @@ honey is the sap of the waters and the plants;
 
 अ॒पाम् । वै । ए॒षः । ओष॑धीनाम् । रसः॑ । यत् । मधु॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्भ्य᳓ एवौ᳓षधीभ्यो वर्षति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -543,11 +617,14 @@ verily it rains from the waters and the plants;
 
 अद्भ्य ओषधीभ्यश्च हेतुभ्यः वृष्टिं प्रवर्तयति मधुषा संयवनेन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अद्भ्य᳓ एवौ᳓षधीभ्यो वृ᳓ष्टिन्नि᳓ नयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -568,11 +645,14 @@ verily also he brings down rain from the waters and the plants.
 
 अथो इति । अपि च अद्भ्य ओषधीभ्योपि उपादानेभ्यः वृष्टिमुत्पादयति ॥
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓न्दा वा᳓शा इ᳓ति सय्ँ᳓यौति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,16 +668,22 @@ verily also he brings down rain from the waters and the plants.
 
 मान्दाः॑ । वाशाः॑ । इति॑ । समिति॑ । यौ॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नाम॒धेयै॑रे॒वैना॒ अच्छै॒त्यथो॒ यथा॑ ब्रू॒यादसा॒वेहीत्ये॒वमे॒वैना॑ नाम॒धेयै॒रा [25] च्या॒व॒य॒ति॒ वृष्णो॒ अश्व॑स्य स॒न्दान॑मसि
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामधे᳓यैरेवै᳓ना अ᳓च्छैति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,6 +704,7 @@ verily he approaches them by their names;
 
 4नामधेयैरिति ॥ मान्दादिभिरेकादशभिः । अच्छैति आभिख्येन प्राप्नोति अभिमन्त्रणेनाभिमुख्यकरणात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -625,6 +712,8 @@ verily he approaches them by their names;
 अ᳓सावे᳓ही᳓ति ।  
 एव᳓मेवै᳓ना नामधे᳓यैरा᳓ च्यावयति ।        
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,16 +736,22 @@ just as one may say, 'Come hither, N. N.', so by their names [3] he makes them m
 
 अथो इति । असाविति । नामविशेषार्थं सामान्यपदम् । यथा कश्चिदामन्त्रयमाणो ब्रूयात् दत्त एहि गुप्त एहि इति एवमेवापोपि नामधेयैरात्मसमीपे आगमयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वृष्ट्यै॒ त्वोप॑ नह्या॒मीत्या॑ह॒ वृषा॒ वा अश्वो॒ वृषा॑ प॒र्जन्य॑ᳵ कृ॒ष्ण इ॑व॒ खलु॒ वै भू॒त्वा व॑र्षति रू॒पेणै॒वैनँ॒ सम॑र्धयति व॒र्षस्याव॑रुद्ध्यै ॥ [26]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्ट्यै त्वो᳓प नह्यामी᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +772,14 @@ Thou art the fetter of the strong horse; for rain I yoke thee', he says
 
 5वृष्ण इति ॥ तिस्र पिण्डीः कृत्वा समुच्चित्यानेन मन्त्रेण कृष्णाजिनस्यान्तान् सन्दानेनोपनह्यति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓षा वा᳓ अ᳓श्वो वृ᳓षा पर्ज᳓न्यः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,11 +800,14 @@ the horse is strong, Parjanya is strong;
 
 वृषेति । वर्षिता अश्वः पर्जन्यो वा वर्षिता । तस्माद्वृषत्वेन पर्जन्यसदृशाश्वसंकीर्तनं वृष्ट्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्ण᳓ इव ख᳓लु वै᳓ भूत्वा᳓ वर्षति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -727,11 +828,14 @@ becoming black as it were he rains;
 
 किञ्च - कृष्ण इव भूत्वा पर्जन्यो वर्षति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपे᳓णैवै᳓नँ स᳓मर्धयति  वर्ष᳓स्या᳓वरुद्ध्यै ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -753,4 +857,5 @@ verily he unites him with his hue, to win the rains.
 तस्मात्कृष्णाजिनसम्बन्धः रूपसमृद्ध्या वृष्टिहेतुर्भवति ॥
 
 इति द्वितीये चतुर्थे नवमोनुवाकः ॥
+</details>
 </details>

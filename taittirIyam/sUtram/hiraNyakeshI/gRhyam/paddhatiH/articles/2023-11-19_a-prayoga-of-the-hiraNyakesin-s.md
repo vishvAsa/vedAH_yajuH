@@ -387,6 +387,7 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -397,8 +398,10 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याँ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -437,6 +440,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +449,8 @@ ______________
 यन्तु᳓र् यन्त्रे᳓ण᳓
 अ᳓ग्ने᳓स् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,12 +472,15 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 
 सरस्वत्यै सरस्वत्याः । षष्ठ्यर्थे चतुर्थी ॥ सरस्वत्या वाचस्सम्बन्धिना यन्तुर्यन्त्रेण यन्तुरप्यन्यस्य यन्त्रणेन यमनेन । सामान्येन वा विवक्ष्यते, यन्त्र्याः वाचस्सरस्वत्याः यन्त्रणेन अग्नेश्च साम्राज्येन त्वामभिषिञ्चामि । सङ्गतं राजतीति सम्राट्, 'मो राजि समः क्वौ', 'गुणवचनब्राह्मणादिभ्यः' इति ष्यञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य सा᳓म्राज्येनाभि᳓षिञ्चामि ॥  
 बृ᳓हस्प᳓तेस् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,14 +505,16 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 इति सप्तमे दशमोनुवाकः ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'तस्यां प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठन्नश्विनोः संपातैरभिषिञ्चति देवस्य त्वा' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +525,8 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 अश्वि᳓नोर्भै᳓षज्येन ।  
 ते᳓जसे ब्रह्मवर्चसा᳓याभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -528,10 +541,14 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 सवितुर्देवस्य प्रेरणे सति अश्विसंबन्धिभ्यां बाहुभ्यां पूषसंबन्धिम्यां हस्ताभ्यां अश्विनोस्सबन्धिना संपातेनौषधरूपेण कान्तिब्रह्मवर्चससिद्ध्यर्थं यजमानं त्वामभिषिञ्चामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'एवमुत्तरेण मन्त्रेण सारस्वतस्योत्तमेनैन्द्रस्य' इति। संपातेनाभिषिञ्चतीत्युभयत्रानुवर्तते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +559,8 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 स᳓रस्वत्यै भै᳓षज्येन ॥21॥  
 वीर्या᳙यान्ना᳓द्यायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,6 +575,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 पूर्ववद्व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -565,6 +585,8 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 इ᳓न्द्रस्येन्द्रिये᳓ण ।  
 श्रियै᳓ य᳓शसे ब᳓लायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,7 +601,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 7पूर्ववद्व्याख्येयम् ॥
 </details>
-
+</details>
 </div>  
 
 ## उद्वासनम्
@@ -588,10 +610,12 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 भूर् भुवः॒ सुवः॑ ।  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/5_iShTi-hautrAdi/11_shaMyu-vAkaH_tach_ChaMyoH">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शंयुवाकाय प्रेषितो ब्रवीति - तच्छंयोरित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -601,6 +625,8 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 गातुं᳓+++(=गमनम्)+++ यज्ञ᳓पतये ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तच्छय्ँ॒योरावृ॑णीमहे ।  
@@ -608,9 +634,15 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 गा॒तुय्ँ य॒ज्ञप॑तये ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓त् । शम्-योः᳓ । आ᳓-वृणीमहे । गातु᳓म् । यज्ञा᳓य । गातु᳓म् । यज्ञ᳓-पतये ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **तत्** तादृशं प्रशस्तफलं **शंयोः** बार्हस्पत्य्-आदौ [देः] **आवृणीमहे** प्रार्थयामहे, किं पुनस्तत्? **गातुं** गमनं देवान्प्रति **यज्ञाय** यज्ञस्य, यज्ञपतये यजमानस्य च गातुं देवस्थानं प्रति गमनं वृणीमहे ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,15 +651,23 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 स्वस्ति᳓र् मा᳓नुषेभ्यः ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 दैवी॑ स्व॒स्तिर॑स्तु नः ।  
 स्व॒स्तिर्मानु॑षेभ्यः ।  
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+दै᳓वी । स्वस्तिः᳓ । अस्तु । नः । स्वस्तिः᳓ । मा᳓नुषेभ्यः ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अत्रैवं संपत्स्यमाना नः अस्माकं दैवी स्वस्तिः देवनिमित्तं विघ्नोपशमनमस्माकमस्तु । मानुषेभ्यश्च होतृभ्यः या स्वस्तिः सा चास्माकमस्तु ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,11 +677,18 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 श᳓ञ् च᳓तुष्पदे ॥25॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वञ्जि॑गातु भेष॒जम् ।  
 शन्नो॑ अस्तु द्वि॒पदे॑ ।  
 शञ्चतु॑ष्पदे ॥25॥  
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+ऊर्ध्व᳓म् । जिगातु । भेषज᳓म् । श᳓न्नः । अस्तु । द्वि-प᳓दे । श᳓म् । च᳓तुः-पदे ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -651,7 +698,7 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 इत्येकादशोऽनुवाकः ॥  
 
 </details>
-
+</details>
 </div>  
 
 Notes: This Vaidika section largely follows the pattern seen in other smārta traditions.

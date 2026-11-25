@@ -4,9 +4,12 @@ title = "४६-४८ दक्षिणासङ्गतामन्त्र
 १ गायत्री २-३ त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दाक्षिणं काण्डं सौम्यमेव । तत्र शौरीभ्याम् ऋग्भ्यां गार्हपत्ये जुहोति - उदुत्यमिति प्रथमा गायत्री, द्वितीया त्रिष्टुप् ॥  तत्र प्रथमा -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
@@ -308,15 +311,21 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'उदायुषा' इत्यत्र व्याख्याता । …  'सुवर्गाय वा एतानि लोकाय हूयन्ते यद्दाक्षिणानि' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीया।  … 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
@@ -681,15 +690,21 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ईदृशो भगवाननेन होमेनास्माकमभिमतं साधयत्विति ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3आग्नीध्रीये जुहोति - अग्ने नयेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
@@ -1066,21 +1081,29 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याता चेयं 'उभावाम्' इत्यत्र । 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4हिरण्यं हुत्वोद्गृह्णाति - दिवमित्येकपदया गायत्र्या ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓वङ् **गच्छ** सु᳓वᳶ **पत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1101,11 +1124,15 @@ Go to the sky, fly to heaven.
 
 हे हिरण्य दिवं गच्छ, दीप्तिं वा प्राप्नुहि । ततस्सुवरादित्यं पत गच्छ ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5दक्षिणा अभ्येति - रूपेणेति प्रथमया चतुर्दशाक्षरया ॥ 'अभ्यैमि वयसा वयः' इति द्वितीयः पादः । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/02_rUpeNa_vo.md">
@@ -1148,9 +1175,12 @@ With my form [1] I approach your form; with my age your age.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6दक्षिणा विभजति - तुथो व इति यजुषा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1158,6 +1188,8 @@ _______
 **तुथो᳓** वो विश्व᳓वेदा  
 **वि᳓ भजतु** व᳓र्षिष्ठे अ᳓धि ना᳓के ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1183,11 +1215,15 @@ May Tutha, all knowing, allot to you in the highest firmament.
 
 ए॒तत्ते॑ अग्ने॒ राध॒ ऐति॒ सोम॑च्युत॒न्तन्मि॒त्रस्य॑ प॒था न॑य॒र्तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑क्षिणा य॒ज्ञस्य॑ प॒था सु॑वि॒ता नय॑न्तीः 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सदोऽभ्येति - एतत्ते अग्ने इति मध्येज्योतिषा जगत्या । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/03_etat_te.md">
@@ -1243,9 +1279,12 @@ Leading prosperity by the path of the sacrifice.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8आत्रेयमभ्यर्थयति - ब्राह्मणमिति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/44-45_daxiNAsangatAmantrAH_dAxiNahomAdiH/04_brAhmaNam_adya.md">
@@ -1290,15 +1329,20 @@ May I win a Brahman to-day, a seer and sprung from seers, of (famous) father and
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9यजमानम् आदित्यम् ईक्षयति - वि सुवरिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ **सु᳓वᳶ प᳓श्य** व्य᳙न्त᳓रिक्षम्  +++(पश्य)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1319,17 +1363,23 @@ Gaze on the heaven, gaze on the atmosphere.
 
 सुवः स्वर्गमादित्यं वा विपश्य विशेषेण पश्य । अन्तरिक्षं च विपश्येत्येव ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तं सदस्य् उपवेशयति - यतस्वेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **य᳓तस्व**  सदस्यैः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1350,8 +1400,11 @@ Join those in the seat.
 
 **यतस्व** व्याप्रियस्व **सदस्यैस्** सह, इदमुपस्थितं कर्म कुर्वित्यर्थः । सदसि स्थिता ऋत्विगादयस्सर्वेपि सदस्याः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11यजमानो दक्षिणास् समनुदिशति।  
@@ -1361,12 +1414,15 @@ _______
 
 अस्मद्दा॑त्रा देव॒त्रा ग॑च्छत॒ मधु॑मतीᳶ प्रदा॒तार॒मा वि॑श॒तान॑वहाया॒स्मान्दे॑व॒याने॑न प॒थेत॑ सु॒कृताल्ँ॑ लो॒के सी॑दत॒ तन्न॑स्सँस्कृ॒तम् ॥ [45]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्म᳓द्-दात्रा! **देवत्रा᳓ गच्छत** ।  
 म᳓धुमतीᳶ **प्रदाता᳓रम् आ᳓ विशत**।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1391,11 +1447,14 @@ full of sweetness; enter the giver;
 
 किञ्च - **मधुमतीः** मधुमत्यः मधुरगुणाः स्पृहणीयाः । यद्वा - मधुर्वसन्तः, मधुमत्यः बहुवसन्ता बहुवयस्का इत्यर्थः । पूर्वसवर्णदीर्घत्वम् । इर्दृश्यो भूत्वा **प्रदातारं** मां यजमानम् **आविशत** फलरूपेण । 'वयमिह' इत्यादि ब्राह्मणम्  ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नवहायास्मा᳓न् **देवया᳓नेन पथे᳓त** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1422,11 +1481,14 @@ without leaving us fare by the path leading to the gods;
 
 'समवाये च' इति सुट् ॥
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकृ᳓ताल्ँ लोके᳓ **सीदत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1442,11 +1504,14 @@ sit in the world of the righteous.
 
 सु॒कृता॒मिति॑ सु-कृता॑म् । लो॒के । सी॒द॒त॒ ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्थानं)+++ त᳓न् नस् सँस्कृत᳓म् ॥ [45]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1461,6 +1526,7 @@ Be this complete for us.
 <details><summary>पद-पाठः</summary>
 
 तत् । नः॒ । सँ॒स्कृ॒तम् ॥
+</details>
 </details>
 
 इति चतुर्थे सप्तत्रिंशोनुवाकः ॥

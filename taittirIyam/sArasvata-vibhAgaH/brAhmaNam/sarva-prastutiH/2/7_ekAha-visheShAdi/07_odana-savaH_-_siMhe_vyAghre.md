@@ -3,9 +3,12 @@ title: ०७ ओदन-सवः - सिंहे व्याघ्रे
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र प्रथमाम् ऋचम् आह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/02_siMhe_vyAghra.md">
@@ -42,9 +45,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ द्वितीयामाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/05_yA_rAjanye.md">
@@ -81,9 +87,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ तृतीयामृचमाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
@@ -120,9 +129,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ चतुर्थीमाह -
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/11_rathe_akhSheShu.md">
@@ -159,15 +171,20 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'राडसीत्येतैः प्रतिमन्त्रं मन्थान्कल्पयन्त्याज्यमन्थं ब्राह्मणः पयोमन्थं राजन्यो दधिमन्थं वैश्य उदमन्थं शूद्रः' इति । तान्मन्त्रानाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे आज्यमन्थ!)+++ रा᳓ड् असि। विरा᳓ड् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -183,11 +200,14 @@ unicode_script: devanagari
 
 हे आज्यमन्थ! त्वं राडसि राजमानोऽसि । विविधं राजत इति विराट् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्रा᳓ड् असि। स्व-रा᳓ड् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,16 +223,22 @@ unicode_script: devanagari
 
 सम्यग्राजत इति सम्राट् । स्वातन्त्र्येण राजत इति स्वराट् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'इन्द्राय त्वा तेजस्वते तेजस्वन्तं श्रीणामि' हति ब्राह्मणः सक्तुभिराज्यं श्रीत्वा 'तेजोऽसि' इत्यभिमन्त्र्य 'तत्ते प्रयच्छामि' इति यजमानाय प्रयच्छति । 'तेजस्वदस्तु मे मुखम्' इति प्रतिगृह्य भक्षयति । एवमितरेषामुतोत्तरश्रयणोऽभिमन्त्रणः प्रदानो भक्षणश्च यथालिङ्गम्' इति । तत्र श्रयणमन्त्राणां पाठस्तु - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा ते᳓जस्वते ते᳓जस्वन्तँ **श्रीणामि** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -228,11 +254,14 @@ unicode_script: devanagari
 
 हे आज्यमन्थ! त्वां तेजोयुक्तेन्द्रार्थं तेजस्वन्तं त्वां सक्तुभिस्सह श्रीणामि पचामि । आज्यस्य तेजोरूपत्वेन तेजस्त्वम् । एवं पयोमन्थादिषु योज्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वौ᳓जस्वत ओ᳓जस्वन्तँ **श्रीणामि** ॥17॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,11 +277,14 @@ unicode_script: devanagari
 
 ओजसे बलहेतुवात्पयोमन्थ ओजस्वान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा प᳓यस्वते प᳓यस्वन्तँ **श्रीणामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,11 +300,14 @@ unicode_script: devanagari
 
 दर्शेऽष्टौ च 'ऐन्द्रं पयः' इत्याम्नानादिन्द्रस्य पयस्वत्त्वम् । दधिमन्थस्य पयोविकारत्वेन पयस्वत्त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा᳓ऽऽयुष्मत आ᳓युष्मन्तँ **श्रीणामि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,16 +323,22 @@ unicode_script: devanagari
 
 चिरजीवित्वादिन्द्रस्यायुष्मत्त्वम् । उदमन्थस्यायुर्हेतुत्वादायुष्मत्त्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7आज्यमन्थस्याभिमन्त्रणादींस् त्रीन् मन्त्रानाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्यमन्थ!)+++ ते᳓जो ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -313,11 +354,14 @@ unicode_script: devanagari
 
 हे आज्यमन्थ! त्वं तेजोरूपोऽसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यजमान!)+++ त᳓त् ते प्र᳓यच्छामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,6 +376,7 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 हे यजमान! तन्मन्थद्रव्यं ते तुभ्यं प्रयच्छामि ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
@@ -370,15 +415,20 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8-9पयोमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,11 +444,14 @@ unicode_script: devanagari
 
 ओजो बलम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्ते प्र᳓यच्छामि ॥18॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +466,7 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 अन्यत्पूर्ववद्व्याख्येयम् ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/45_ojasvad_astu.md">
@@ -442,15 +496,20 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 दधिमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓योऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,11 +525,14 @@ unicode_script: devanagari
 
 दधिमन्थस्य पयोविकारत्वात्पयस्त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्ते प्र᳓यच्छामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +542,7 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓त् । ते । प्र᳓ । यच्छामि ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/50_payasvad_astu.md">
@@ -514,15 +577,20 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10-11उदमन्थस्याभिमन्त्रणादींस्त्रीन्मन्त्रानाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युरसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -538,11 +606,14 @@ unicode_script: devanagari
 
 उदमन्थस्यायुर्हेतुत्वादायुष्ट्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्ते प्र᳓यच्छामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,6 +628,7 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 अन्यत्पूर्ववत् ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/55_AyuShmad_astu.md">
@@ -586,9 +658,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः - 'ओदनशेषं यजमानः प्राश्नाति, इममग्न आयुषे वर्चसे कृधीति प्राश्नन्तमभिमन्त्रयते' इति ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/58_imam_agna.md">
@@ -623,9 +698,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12कल्पः - 'हिरण्यं यजमानाय बध्नाति' 'आयुरसि विश्वायुरसि' इत्याबध्यमानो जपति' इति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -634,6 +712,8 @@ unicode_script: devanagari
 विश्वा᳓युर् **असि** ।
 सर्वा᳓युर् **असि**, स᳓र्वम् आ᳓युर् **असि** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -652,10 +732,14 @@ unicode_script: devanagari
 
 न केवलं ममैवायुर्हेतुः किंतु विश्वेषां मनुष्याणां सर्वेषां देवानां चायुर्हेतुरसि । तस्मात्त्वमेव सर्वायुरसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13कल्पः - 'तैरेनं संसृष्टैरभिषिञ्चति यतो वातो मनोजवाः' इति । तैः अपां ग्रहैः । 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/66_yato_vAto.md">
@@ -690,9 +774,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 14कल्पः - 'समुद्र इवासि गह्मनेत्येनमभिमन्त्र्य' इति ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
@@ -727,9 +814,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13कल्पः - “अपां ग्रहान्गृह्णन्ति ये मन्थान्कल्पयन्ति 'अपां यो द्रवणे रसः' इत्येतैः प्रतिमन्त्रम्” इति । तानेतांश्चतुरो मन्त्रानाह - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -738,6 +828,8 @@ unicode_script: devanagari
 त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य +++(→पुत्राय)+++  
 ते᳓जसे ब्रह्मवर्चसा᳓य **गृह्णामि** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +848,7 @@ unicode_script: devanagari
 तं रसम् **अहम् आमुष्यायणाय** अमुष्य देवदत्तस्य पुत्रायास्मै यज्ञदत्ताख्याय यजमानाय  
 तेजोब्रह्मवर्चसयोः सिद्ध्यर्थं गृह्णामि । एवमुत्तरे त्रयो मन्त्रा व्याख्येयाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -763,6 +856,8 @@ unicode_script: devanagari
 त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
 ओ᳓जसे वीर्या᳙य **गृह्णामि** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -775,6 +870,7 @@ unicode_script: devanagari
 
 अपा᳓म् । यः᳓ । ऊर्मौ᳓ । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓यः । ओ᳓जसे । वीर्या᳙य । गृह्णामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,6 +878,8 @@ unicode_script: devanagari
 त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
 पु᳓ष्ट्यै प्रज᳓ननाय **गृह्णामि** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -793,6 +891,7 @@ unicode_script: devanagari
 
 अपा᳓म् । यः᳓ । मध्यतः᳓ । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓य । पु᳓ष्ट्यै । प्र-ज᳓ननाय । गृह्णामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -800,6 +899,8 @@ unicode_script: devanagari
 त᳓म् अह᳓म् अस्मा᳓ आमुष्यायणा᳓य  
 +आयु᳙षे दीर्घायुत्वा᳓य गृह्णामि ॥22॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -811,6 +912,9 @@ unicode_script: devanagari
 
 अपा᳓म् । यः᳓ । यज्ञि᳓यः । र᳓सः । त᳓म् । अह᳓म् । अस्मै᳓ । आमुष्यायणा᳓य । आयु᳙षे । दीर्घायु-त्वा᳓य । गृह्णामि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -833,4 +937,5 @@ unicode_script: devanagari
 अनुवाके सप्तमेऽस्मिन्मन्त्रा द्वात्रिंशदीरिताः ॥ ५ ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके सप्तमप्रपाठके सप्तमोऽनुवाकः ॥  
+</details>
 </details>

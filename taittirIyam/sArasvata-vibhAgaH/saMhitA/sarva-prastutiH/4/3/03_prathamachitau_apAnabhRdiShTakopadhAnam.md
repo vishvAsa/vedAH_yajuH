@@ -5,16 +5,21 @@ title = "०३ प्रथमचितौ अपानभृदिष्टक
 अग्निर्ऋषिः  
 चतुर्थकाण्डे तृतीयप्रपाठके तृतीयोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राची॑ दि॒शाव्ँव॑स॒न्त ऋ॑तू॒नाम॒ग्निर्दे॒वता॒ ब्रह्म॒ द्रवि॑णन्त्रि॒वृत्स्तोम॒स्स उ॑ पञ्चद॒शव॑र्तनि॒स्त्र्यवि॒र्वय॑ᳵ कृ॒तमया॑नाम्पुरोवा॒तो वात॒स्सान॑ग॒ ऋषि॑र्दक्षि॒णा दि॒शाङ्ग्री॒ष्म ऋ॑तू॒नामिन्द्रो॑ दे॒वता॑ क्ष॒त्रन्द्रवि॑णम्पञ्चद॒शस्स्तोम॒स्स उ॑ सप्तद॒शव॑र्तनिर्दित्य॒वाड्वय॒स्त्रेताया॑नान्दक्षिणाद्वा॒तो वात॑स्सना॒तन॒ ऋषिᳶ॑ प्र॒तीची॑ दि॒शाव्ँव॒र्षा ऋ॑तू॒नाव्ँविश्वे॑ दे॒वा दे॒वता॒ विट् [5]  
 द्रवि॑णँ सप्तद॒शस्स्तोम॒स्स उ॑वेकविँ॒शव॑र्तनिस्त्रिव॒त्सो वयो॑ द्वाप॒रोऽया॑नाम्पश्चाद्वा॒तो वातो॑ऽह॒भून॒ ऋषि॒रुदी॑ची दि॒शाँ श॒रदृ॑तू॒नाम्मि॒त्रावरु॑णौ दे॒वता॑ पु॒ष्टन्द्रवि॑णमेकविँ॒शस्स्तोम॒स्स उ॑ त्रिण॒वव॑र्तनिस्तुर्य॒वाड्वय॑ आस्क॒न्दोऽया॑नामुत्तराद्वा॒तो वातᳶ॑ प्र॒त्न ऋषि॑रू॒र्ध्वा दि॒शाँ हे॑मन्तशिशि॒रावृ॑तू॒नाम्बृह॒स्पति॑र्दे॒वता॒ वर्चो॒ द्रवि॑णन्त्रिण॒वस्स्तोम॒स्स उ॑ त्रयस्त्रिँ॒शव॑र्तनिᳶ पष्ठ॒वाद्वयो॑ऽभि॒भूरया॑नाव्ँविष्वग्वा॒तो वात॑स्सुप॒र्ण ऋषिᳶ॑ पि॒तरᳶ॑ पिताम॒हाᳶ परेऽव॑रे॒ ते नᳶ॑ पान्तु॒ ते नो॑ऽवन्त्व॒स्मिन्ब्रह्म॑न्न॒स्मिन्क्ष॒त्रे॑ऽस्यामा॒शिष्य॒स्याम्पु॑रो॒धाया॑म॒स्मिन्कर्म॑न्न॒स्यान्दे॒वहू॑त्याम् ॥ [6]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓ची दिशा᳓म् +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ The east of the quarters;
 तत्र प्राच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— प्राची दिशामिति।  
 हे इष्टके दिशां मध्ये या प्राची सा त्वमसि।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्त᳓ ऋतूना᳓म्  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ the spring of the seasons;
 
 ऋतूनां मध्ये यो वसन्तस्तद्रूपाऽसि।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्देव᳓ता +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +100,14 @@ Agni the deity;
 
 देवतानां मध्ये योऽग्निस्तद्रूपाऽसि।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म द्र᳓विणम् +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,11 +128,14 @@ holy power the wealth;
 
 स्वकीयत्वने संपादनीयानां द्रविणानां मध्ये विशिष्टब्राह्मण्यरूपं यद्धनं तद्रूपा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓त्स्तो᳓मः᳓ +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,11 +156,14 @@ the Trivrt the Stoma,
 
 स्तोमानां मध्ये त्रिवृन्नामको यः स्तोमस्तद्रूपा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ उ पञ्चदश᳓वर्तनिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,11 +185,14 @@ and it forming the path of the fifteenfold (Stoma);
 स उ सोऽपि त्रिवृत्स्तोमः पञ्चदशवर्तनिः पञ्चदशस्तोमस्य प्रवर्तकः।  
 बहिष्पवमानस्तोत्रे त्रिवृत्स्तोमप्रवृत्तौ सत्यां तत ऊर्ध्वभाविष्वाज्यस्तोत्रेषु पञ्चदश स्तोमाः प्रवर्तन्ते, तत्प्रवर्तकश क्तिरूषा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्य᳓विर्व᳓यः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +216,14 @@ the eighteen-month-old calf the strength;
 तथा हिअविजातै, प्रायेण गर्भधारणमारभ्यषष्टे मास्येव शिशुर्जायते।  
 त्रिसँख्वाका अविजन्मकाला यस्य वयसस्तद्वयरूपविशब्देनोच्यते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत᳓म᳓यानाम् +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +244,14 @@ the Krta of throws (at dice);
 
 अयानां युगानां मध्ये यत्कृतयुगं तद्रूपा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोवातो᳓ वा᳓तः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,11 +272,14 @@ the east wind the wind;
 
 वायूनां मध्ये पुरोवाताख्यो यो वायुस्तद्रूपा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓नग ऋ᳓षिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,10 +300,14 @@ Sanaga the Rsi;
 
 ऋषीणां मध्ये यः सानगाख्य ऋषिस्तद्रूपा त्वमसि।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दक्षिणस्यां दिश्युपधेयानां मन्त्रमाह— दक्षिणा दिशामिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +322,8 @@ Sanaga the Rsi;
 
 पञ्चदश᳓स्स्तो᳓मः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,11 +347,14 @@ The south of the quarters; the summer of the seasons; Indra the deity; the kingl
 
 द॒क्षि॒णा । दि॒शाम् । ग्री॒ष्मः । ऋ॒तू॒नाम् । इन्द्रः॑ । दे॒वता॑ । क्ष॒त्रम् । द्रवि॑णम् । प॒ञ्च॒द॒श इति॑ पञ्च-द॒शः । स्तोमः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ उ सप्तदश᳓वर्तनिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,11 +375,14 @@ and it forming the path of the seventeenfold (Stoma);
 
 माध्यंदिनसवने पञ्चदशस्तोममनूष्ठाय तत ऊर्ध्वभाविषु पृष्ठस्तोत्रेषु सप्तदशः स्तोमोऽनुष्ठातव्यः।तथा च स एव पञ्चदशः स्तोमसप्तदशस्तोमं प्रवर्तयति, तत्र या प्रवर्तनशक्तिः सा त्वमसि।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दित्यवा᳓ड्व᳓यः+++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -362,6 +406,7 @@ the two-year-old the strength;
 स च संवत्सरद्वयेन पुंबालं वहतीति दित्यवाट्शब्दः संवत्सरद्वयोपलक्षकः।   
 दितिः स्वण्डनं भाण्डभङ्गादिचापलं तदर्हतीति दित्यः पुंबाल इत्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +416,8 @@ the two-year-old the strength;
 
 सनात᳓न ऋ᳓षिः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,10 +444,14 @@ the Treta of throws; the south wind the wind; Sanatana the Rsi;
 यो वायुर्दक्षिणस्यां वाति स दक्षिणा ***  *** १९८० र्बातः।  तेन वातविशेषणेन विशेष्यो यो वायुस्तद्रूपा त्वमसि ।   
 शेषं पूर्ववत् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्रतीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— प्रतीची दिशामिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -414,6 +465,8 @@ the Treta of throws; the south wind the wind; Sanatana the Rsi;
 सप्तदश᳓स्स्तो᳓मः  +++( असि)+++ ।  
 स᳓ उवेकविँश᳓वर्तनिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,11 +489,14 @@ The west of the quarters; the rains of the seasons; the All-gods the deity; the 
 
 प्र॒तीची॑ । दि॒शाम् । व॒र्षाः । ऋ॒तू॒नाम् । विश्वे॑ । दे॒वाः । दे॒वता॑ । विट् । द्रवि॑णम् । स॒प्त॒द॒श इति॑ सप्त-द॒शः । स्तोमः॑ । सः । उ॒ । ए॒क॒विँ॒शव॑र्तनि॒रित्ये॑कविँ॒श-व॒र्त॒निः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवत्सो᳓ व᳓यः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -461,11 +517,14 @@ the three-year-old the strength;
 
 त्रयोवत्सा वत्सरा यस्यासौ त्रिवत्सो वर्षत्रयं तत्परिमितं यद्वयस्तद्रूपा त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वापरो᳓ऽयानाम्  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -486,11 +545,14 @@ the Dvapara of throws;
 
 अयसि गच्छति तत्तत्कालानुसारेण वर्तन्ते प्राणिनोऽत्रेत्यया युगरूपाः कालविशेषाः तेषां मध्ये यो द्वापरस्तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्चाद्वातो᳓ वा᳓तः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,11 +574,14 @@ the west wind the wind;
 पश्चिमायां दिशि यो वायुर्वाति तस्य पश्चाद्वात् इति संज्ञा ।  
 पतत्संज्ञको यो वातविशेषस्तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहभू᳓न ऋ᳓षिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -537,10 +602,14 @@ Ahabhuna the Rsi;
 
 अहभून इति कस्यचिदृषेर्नामधेयम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 उदीच्यां दिश्युपधेयानामिष्टकानां मन्त्रमाह— उदीची दिशामिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +619,8 @@ Ahabhuna the Rsi;
 
 मित्रा᳓व᳓रुणौ देव᳓ता +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -568,6 +639,7 @@ The north of the quarters; the autumn of the seasons; Mitra and Varuna the deity
 
 उदी॑ची । दि॒शाम् । श॒रत् । ऋ॒तू॒नाम् । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -575,6 +647,8 @@ The north of the quarters; the autumn of the seasons; Mitra and Varuna the deity
 एकविँश᳓स्स्तो᳓मः  +++( असि)+++ ।  
 स᳓ उ त्रिणव᳓वर्तनिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -598,11 +672,14 @@ prosperity the wealth; the twenty-onefold the Stoma; and it forming a path of th
 पुष्टशब्दः परिचर्यया वर्णत्रयपोषकत्वाच्छूद्रजातिमाचष्टे ।  
 अत एव वाजसनेयिनः समामनन्ति “स शौद्रं वर्णमसृजत्पूषणम्” इति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तु᳓र्यवा᳓ड्व᳓यः +++( असि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -623,11 +700,14 @@ the four-year-old the strength;
 
 तुर्यं चतुर्थ चतुर्थसंवत्सरोपक्रमं वहतीति तुर्यवाट्, सार्धत्रिसंवत्सररूपं यद्वयस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आस्कन्दो᳓ऽयानाम्  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,6 +728,7 @@ the Askanda of throws;
 
 आ समन्तात्स्कन्दनं धर्मस्य शोषणं यस्मिन्कलौ सोऽयमास्कन्दः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -655,6 +736,8 @@ the Askanda of throws;
 
 प्रत्न᳓ ऋ᳓षिः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,10 +760,14 @@ the north wind the wind; Pratna the Rsi;
 
 प्रत्न इति कस्यचिदृषेर्नाम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 मध्यदेश उपधेयानामिष्टकानां मन्त्रमाह— ऊर्ध्वा दिशामिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +778,8 @@ the north wind the wind; Pratna the Rsi;
 
 बृ᳓हस्प᳓तिर्देव᳓ता᳓+++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -710,11 +799,14 @@ The zenith of the quarters; the winter and the cool season of the seasons; Brhas
 
 ऊ॒र्ध्वा । दि॒शाम् । हे॒म॒न्त॒शि॒शि॒राविति॑ हेमन्त-शि॒शि॒रौ । ऋ॒तू॒नाम् । बृह॒स्पतिः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्चो द्र᳓विणम्  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -735,6 +827,7 @@ radiance the wealth;
 
 वर्चो वर्चस्वान्, चतुर्ष्वपि वर्णेषु यो बलवांस्तद्रूपं धनं त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -744,6 +837,8 @@ radiance the wealth;
 
 पष्ठवा᳓द्व᳓यः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -769,11 +864,14 @@ the twenty-sevenfold the Stoma, and it forming a path of the thirty-threefold; t
 षष्ठे पृष्ठे भारं वहतीति पष्ठवाट्, स एव दकारान्तशब्देनोच्यते । चतुर्थे वर्षे संपुर्णे सति प्रायेण बलीवर्दो भारं वहति ।  
 अतो वर्षचतुदृयरूपं याद्वयस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिभूः᳓ +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -794,11 +892,14 @@ the Abhibhu of throws;
 
 कृत्स्रं धर्ममभिभवतित्यमिभूः कलियुगावसानकालस्तद्रूपा त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓यानाव्ँविष्वग्वातो᳓ वा᳓तः +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -819,11 +920,14 @@ the wind blowing all ways the wind;
 
 नानादिक्षु सौकर्येण संचरन्वायुर्विष्षग्वातसंज्ञकः, तथाविधो यो वायुस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्ण᳓ ऋ᳓षिः  +++( असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -844,16 +948,22 @@ Suparna the Rsi;
 
 सुपर्ण इति कस्यचिट्टषेर्नामधेयम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सर्वेष्वेतेषु पञ्चसु मन्त्रेष्वनुषञ्जनीयं शेषमाह— पितर पितामहा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित᳓रᳶ पितामहाᳶ᳓ प᳓रे᳓ऽवरे ते᳓ नᳶ पान्तु ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -874,11 +984,14 @@ Fathers, grandfathers, near and far, may they protect us,
 
 हे पितरो हे पितामहा हे परे प्रपितामहादयो हऽवरे भ्रातृपुत्रादय ईदृशा ये भवन्तः सन्ति ते भवन्तो नोऽस्मान्कर्मानुष्ठानाय पान्तु पालयन्तु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ नोऽवन्तु ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -899,12 +1012,15 @@ may they help us,
 
 किंच ते भवन्तो नोऽस्मान्पालनसिद्ध्यर्थमवन्तु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मि᳓न्ब्र᳓ह्मन्, अस्मि᳓न्क्षत्रे᳙ऽस्याम
 आशि᳓ष्यस्या᳓म् पुरोधा᳓यामस्मि᳓न्क᳓र्मन्नस्या᳓न्देव᳓हूत्याम् ॥ [6]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -941,6 +1057,7 @@ in this holy power, this lordly power, this prayer, this Purohita-ship, this rit
 १९८२ पञ्चस्वपि मन्त्रेषु पुरोवातो दक्षिणाद्वात इत्यदिन्वायुविशेषान्प्रशंसति “सर्वतो वायुमतीर्भवन्ति तस्मादयँ सर्वतः पवते” (सं. का. ५ प्र. २ अ. १०) इति।  
 यस्मादेता इष्टकाः सर्वा अपि वायुशब्दोपेतैर्मन्त्रैरुपधेयास्तस्मादयं लोकेऽपि वायु सर्वासु दिक्षु संचरति ।   
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

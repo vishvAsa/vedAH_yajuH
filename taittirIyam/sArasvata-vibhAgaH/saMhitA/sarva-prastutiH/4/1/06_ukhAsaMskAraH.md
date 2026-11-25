@@ -7,6 +7,8 @@ title = "०६ उखासंस्कारः"
 
 चतुर्थकाण्डे प्रथमप्रपाठके षष्ठोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थाष्टके प्रथमप्रपाठके षष्ठोऽनुवाकः) ।  
@@ -24,6 +26,7 @@ title = "०६ उखासंस्कारः"
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पाठस्तु— वसवस्त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,9 +51,12 @@ title = "०६ उखासंस्कारः"
 व᳓रुणस्त्वा धूपयत्व् अङ्गिरस्व᳓त् ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; may the Rudras fumigate thee with the Tristubh metre, in the manner of Angiras; may the Adityas fumigate thee with the Jagati metre, in the manner of Angiras; may the All-gods, common to all men, fumigate thee with the Anustubh metre, in the manner of Angiras; may Indra fumigate thee in the manner of Angiras; may Visnu fumigate thee in the manner of Angiras; may Varuna fumigate thee in the manner of Angiras.
+</details>
 </details>
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -58,6 +64,8 @@ May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; ma
 शिरोवर्तिषु सप्तसु च्छिद्रेषु संचरन्तः प्राणाः सप्तसंख्याकाः ।  
 उखा च यज्ञशिरःस्थानीया ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,6 +110,9 @@ May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; ma
 ‘प्रजापतिरग्निमचिनुत’ इति श्रवणात् ।  
 अत उभयोः समानयोनित्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -117,6 +128,7 @@ May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; ma
 
 पाठस्तु– अदितिस्त्वेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +136,8 @@ May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; ma
 पृथिव्या᳓स् सध᳓स्थे  
 ऽङ्गिरस्व᳓त् **खनत्व् अवट** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,6 +165,9 @@ May Aditi, connected with the All-gods, the goddess, dig thee on the abode of ea
 न हि लोके कश्चिदपि स्वयं स्वात्मानं हिनस्ति ।  
 तस्मात्खननलक्षणक्रूरकार्यकरणाभावायेदमदितिकर्तृत्वं संपाद्यते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -161,6 +178,7 @@ May Aditi, connected with the All-gods, the goddess, dig thee on the abode of ea
 
 पाठस्तु— देवानां त्वेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,6 +187,8 @@ May Aditi, connected with the All-gods, the goddess, dig thee on the abode of ea
 पृथिव्या᳓स् सध᳓स्थे  
 ऽङ्गिरस्व᳓द्+++(=अङ्गिरस इव)+++ दधतूखे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,6 +215,9 @@ May the wives of the gods [1], the goddesses, connected with the All-gods, place
   
 पुरा देवपत्नीभिरुखागाः कृतस्वादिदानीमपि ताभिरेव स्थापिता भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -210,6 +233,7 @@ May the wives of the gods [1], the goddesses, connected with the All-gods, place
 
 पाठस्तु— धिषणास्त्वेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,6 +241,8 @@ May the wives of the gods [1], the goddesses, connected with the All-gods, place
 पृथिव्या᳓स् सध᳓स्थे  
 ऽङ्गिरस्व᳓द् **अभी᳓न्धताम्** उखे।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,6 +263,7 @@ May the Dhisanas, the goddesses connected with the All-gods, kindle thee on the 
 
 विद्याभिमानिन्यो देवता धिषणाः।   हे उखे, त्वां ता देवता **अभीन्धताम्** अभितो ज्वालयन्तु।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -245,6 +272,8 @@ May the Dhisanas, the goddesses connected with the All-gods, kindle thee on the 
 पृथिव्या᳓स् सध᳓स्थे  
 ऽङ्गिरस्व᳓च् **छ्रपयन्तूखे** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,11 +294,14 @@ may the wives, the goddesses, connected with the All-gods, prepare thee on the a
 
 छन्दोभिमानिन्यो देवता ग्नास्तास्त्वां अपयन्तु तव पच्यमानतां संपादयन्तु।   वरूत्रयो जनय इति पदभेदेन मन्त्रभेदः।   होतृप्रशास्रादिषु सप्तसु होत्रकेष्वभिमानिन्यो देवता वरूत्रयः।   सेनेन्द्रस्यत्याद्य नुवाकेनोक्ता देवपत्न्यो जनयः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रूत्रयः [त्वा देवी᳓र्विश्व᳓देव्यावतीᳶ पृथिव्या᳓स्सध᳓स्थेऽङ्गिरस्व᳓त्पचन्तूखे ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,6 +329,7 @@ may the protectors, the women,
 वरूत्रयो जनय इत्यनयोः स्वाभिप्रेतं मन्त्रभेदं दर्शयितुं पचन्त्वित्येवम-न्तस्य भागस्यानुषङ्गरूपामावृत्तिं दर्शयति— ‘द्विः पचन्त्वित्याह तस्माद्द्विः संवत्सरस्य सस्यं पच्यते’ (सं. का. ५ प्र. १ अ. ७) इति।  
 वरूत्रयः पचन्तु जनयः पचन्त्वित्येवं द्विः प्रयोगः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -304,6 +337,8 @@ may the protectors, the women,
 पृथिव्या᳓स् सध᳓स्थे  
 ऽङ्गिरस्व᳓त् **पचन्तूखे** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -324,10 +359,14 @@ the goddesses, connected with the All-gods, cook thee on the abode of earth, in 
 
 तथा जनयस्त्वां पचन्तु पक्वत्वपरीक्षां कुर्वन्तु ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र प्रथमामाह—  १८०९ मित्रैतामुखामिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
@@ -383,9 +422,12 @@ O Mitra, cook this pan; may it not break. This I place around thee, to prevent b
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— अभिमामिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
@@ -465,9 +507,12 @@ True, and most varied in fame.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः – “पक्वां देवस्त्वा सवितोद्वपत्वित्युद्वास्य” इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
@@ -512,6 +557,8 @@ Fair arms, with his might.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अपद्यमाना पृथिव्याशा दिश आ पृणेत्युत्तरतः सिकतासु प्रति-ष्ठाप्य” इति।   
@@ -521,12 +568,15 @@ Fair arms, with his might.
 
 पाठस्तु— अपद्यमानेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उखे!!)+++ **अ᳓पद्यमाना**+++(=अभग्ना)+++ पृथिव्य्! आ᳓शा दि᳓श **आ᳓ पृण** ।  
 **उ᳓त्तिष्ठ** बृहती᳓ **भवोर्ध्वा᳓ तिष्ठ** ध्रुवा᳓ त्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -554,6 +604,9 @@ Stand upright, be thou firm.
 यस्मादुखायाः सर्वदिक्पूर्तिः प्रार्थ्यते तस्मादुखया मिश्रितोऽग्निः स्वतेजसाः सर्वा दिशः प्रकाशयति।  
 उत्तरार्धेन स्थिरप्रतिष्ठा प्रार्थ्यत इति दर्शयति— “उत्तिष्ठ बृहती भावोर्ध्वा तिष्ठ घ्रुवा त्वमित्याह प्रतिष्ठित्यै” ’ [सं. का. ५ प्र. १ अ. ७] इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -568,6 +621,7 @@ Stand upright, be thou firm.
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पाठस्तु— वसवस्त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +638,8 @@ Stand upright, be thou firm.
 वि᳓श्वे त्वा देवा᳓ वैश्वानरा᳓ आ᳓च्छृन्दन्तु᳓,  
 आ᳓नुष्टुभेन छ᳓न्दसाऽङ्गिरस्व᳓त् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -621,4 +677,5 @@ May the Vasus fill thee with the Gayatri metre, in the manner of Angiras: may th
 अपेति सिकतास्वेतां निधाय वसवेत्यतः।  
 चतुष्टयादजाक्षीरं सिच्चेद्द्वाविं शतिर्मताः॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वे-दीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे प्रथमप्रपाठके  षष्ठोऽनुवाकः ॥   ६ ॥  
+</details>
 </details>

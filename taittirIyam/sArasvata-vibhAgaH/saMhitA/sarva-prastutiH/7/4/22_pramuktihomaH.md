@@ -3,6 +3,8 @@ title = "२२ प्रमुक्तिहोमः"
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सि॒ताय॒ स्वाहाऽसि॑ताय॒ स्वाहा॒ऽभिहि॑ताय॒ स्वाहाऽन॑भिहिताय॒ स्वाहा॑ यु॒क्ताय॒ स्वाहाऽयु॑क्ताय॒ स्वाहा॒ सुयु॑क्ताय॒ स्वाहोद्यु॑क्ताय॒ स्वाहा॒ विमु॑क्ताय॒ स्वाहा॒ प्रमु॑क्ताय॒ स्वाहा॒ वञ्च॑ते॒ स्वाहा॑ परि॒वञ्च॑ते॒ स्वाहा॑ सव्ँ॒वञ्च॑ते॒ स्वाहा॑ऽनु॒वञ्च॑ते॒ स्वाहो॒द्वञ्च॑ते॒ स्वाहा॑ य॒ते स्वाहा॒ धाव॑ते॒ स्वाहा॒ तिष्ठ॑ते॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [53]  
@@ -12,11 +14,14 @@ title = "२२ प्रमुक्तिहोमः"
 
 1पुनरपि रात्रिहोमेष्वेव प्रमुक्तिहोमाः - सिताय स्वाहेत्यादयो निगदसिद्धा एव ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ To the bound hail!
 
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञास्ये यजुर्वेदभाष्ये सप्तमे काण्डे चतुर्थे प्रश्ने द्वाविंशोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,11 +65,14 @@ To the unbound hail!
 
 असि॑ताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभि᳓हिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ To the fastened hail!
 
 अ॒भिहि॑ता॒येत्य॒भि-हि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नभिहिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,11 +111,14 @@ To the unfastened hail!
 
 अन॑भिहिता॒येत्यन॑भि-हि॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युक्ता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -117,11 +134,14 @@ To the yoked hail!
 
 यु॒क्ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓युक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +157,14 @@ To the unyoked hail!
 
 अयु॑क्ताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓युक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -157,11 +180,14 @@ To the well-yoked hail!
 
 सुयु॑क्ता॒येति॒ सु-यु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्युक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,11 +203,14 @@ To the unyoked hail!
 
 उद्यु॑क्ता॒येत्युत्-यु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓मुक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,11 +226,14 @@ To the one set free hail!
 
 विमु॑क्ता॒येति॒ वि-मु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓मुक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +249,14 @@ To the one lot go hail!
 
 प्रमु॑क्ता॒येति॒ प्र-मु॒क्ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ञ्चते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,11 +272,14 @@ To that which moveth crookedly hail!
 
 वञ्च॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिव᳓ञ्चते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,11 +295,14 @@ To that which moveth around hail!
 
 प॒रि॒वञ्च॑त॒ इति॑ परि-वञ्च॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँव᳓ञ्चते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,11 +318,14 @@ To that which moveth together hail!
 
 सव्ँ॒वञ्च॑त॒ इति॑ सम्-वञ्च॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुव᳓ञ्चते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +341,14 @@ To that which moveth along hail!
 
 अ॒नु॒वञ्च॑त॒ इत्य॑नु-वञ्च॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्व᳓ञ्चते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +364,14 @@ To that which goeth hail!
 
 उ॒द्वञ्च॑त॒ इत्यु॑त्-वञ्च॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,11 +387,14 @@ To that which riseth hail!
 
 य॒ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धा᳓वते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,11 +410,14 @@ To that which runneth hail!
 
 धाव॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ति᳓ष्ठते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -377,11 +433,14 @@ To that which standeth hail!
 
 तिष्ठ॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [53]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,4 +455,5 @@ To all hail!
 <details><summary>पद-पाठः</summary>
 
 सर्व॑स्मै । स्वाहा॑ ॥
+</details>
 </details>

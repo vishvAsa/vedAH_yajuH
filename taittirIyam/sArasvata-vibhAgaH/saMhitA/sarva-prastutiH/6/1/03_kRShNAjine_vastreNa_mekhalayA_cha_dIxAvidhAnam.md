@@ -4,15 +4,20 @@ title = "०३ कृष्णाजिने वस्त्रेण मे�
 
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॒क्सा॒मे वै दे॒वेभ्यो॑ य॒ज्ञायाति॑ष्ठमाने॒ कृष्णो॑ रू॒पङ्कृ॒त्वाप॒क्रम्या॑तिष्ठता॒न्ते॑ऽमन्यन्त॒ यव्ँवा इ॒मे उ॑पाव॒र्त्स्यत॒स्स इ॒दम्भ॑विष्य॒तीति॒ ते उपा॑मन्त्रयन्त॒ ते अ॑होरा॒त्रयो॑र्महि॒मान॑मपनि॒धाय॑ दे॒वानु॒पाव॑र्तेताम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्सामे᳓ वै᳓ देवे᳓भ्यो यज्ञा᳓या᳓तिष्ठमाने कृ᳓ष्णो रूप᳓ङ् कृत्वा᳓ऽपक्र᳓म्यातिष्ठताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,6 +38,7 @@ The Rc and the Saman, unwilling to remain with the gods for the sacrifice, takin
 
 1कृष्णाजिनेन दीक्षां विधास्यन् तद्गुणानाह - ऋक्सामे इति ॥ ऋक्च साम च ऋक्सामे, अचतुरादिसूत्रे अच्प्रत्ययान्तो निपात्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -40,6 +46,8 @@ The Rc and the Saman, unwilling to remain with the gods for the sacrifice, takin
 यव्ँ᳓ वा᳓ इमे᳓ उपावर्त्स्य᳓तस् स᳓ इद᳓म् भविष्यती᳓ति ते᳓ उ᳓पामन्त्रयन्त ।  
 ते᳓ अहोरात्र᳓योर् महिमा᳓नम् अपनिधा᳓य देवा᳓नुपा᳓वर्तेताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -76,16 +84,22 @@ The (gods) reflected, 'He whom they shall resort to will become all this world.'
 
 महिमानमिति महच्छब्दादिमानिच्, महतेर्वा औणादिक इमनिच् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वा ऋ॒चो वर्णो॒ यच्छु॒क्लङ्कृ॑ष्णाजि॒नस्यै॒ष साम्नो॒ यत्कृ॒ष्णम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वा᳓ ऋचो᳓ व᳓र्णो य᳓च् छुक्ल᳓ङ् कृष्णाजिन᳓स्य᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,11 +122,14 @@ This is the colour of the Rc, the white of the skin of the black antelope;
 
 तत्रापि को वा ऋचो महिमा, को वा साम्न इत्याह - एष वा इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ सा᳓म्नो य᳓त् कृष्ण᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,16 +152,22 @@ the black is the colour of the Saman.
 
 एष साम्नो वर्णः रात्रेस्साम्नि संक्रान्तः, यत्कृष्णं रूपं कृष्णाजिनस्य ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॑क्सा॒मयो॒श्शिल्पे॑ स्थ॒ इत्या॑हर्क्सा॒मे ए॒वाव॑ रुन्ध
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्साम᳓योश् शि᳓ल्पे स्थ इ᳓त्याह ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ the black is the colour of the Saman.
 
 शिल्पं कौशलं, ऋक्सामयोः कौशलोपार्जिते स्थ इति कृष्णाजिनस्य शुक्लकृष्णे राजी उच्येते । तस्मादेतदभिधानं ऋक्सामयोराप्त्यै भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्सामे᳓ एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,16 +213,22 @@ verily he wins the Rc and the Saman [1].
 
 ऋ॒क्सा॒मे इत्यृ॑क्-सा॒मे । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒षः [17] वा अह्नो॒ वर्णो॒ यच्छु॒क्लङ्कृ॑ष्णाजि॒नस्यै॒ष रात्रि॑या॒ यत्कृ॒ष्णय्ँयदे॒वैन॑यो॒स्तत्र॒ न्य॑क्त॒न्तदे॒वाव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषः᳓ वा᳓ अ᳓ह्नो व᳓र्णो य᳓च्छुक्ल᳓ङ् , कृष्णाजिन᳓स्यैष᳓ रा᳓त्रिया य᳓त् कृष्णय्ँ᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +249,14 @@ The white of the black antelope skin is the colour of the day, the black of the 
 
 4कतरः पुनस्तर्ह्यनयोरह्नो वर्णः, कतरो रात्रेरित्याह - एष वा इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देवै᳓नयोस्त᳓त्र न्य᳙क्तन् त᳓देवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -248,16 +283,22 @@ Whatever is imbued in those two, he wins.
 
 यं महिमानमृक्सामे प्राप्नुतां, तं स्वयमहोरात्रसकाशादेव प्राप्नोतीत्यर्थः । पूर्ववद्गतेरुदात्तत्वम्, ततः परस्य च स्वरितत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कृ॒ष्णा॒जि॒नेन॑ दीक्षयति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णाजिने᳓न दीक्षयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,17 +319,23 @@ He consecrates (him) with a black antelope skin.
 
 5एवं स्तुत्वा इदानीं विधत्ते - कृष्णाजिनेन दीक्षयतीति ॥ दीक्षितं संयोजयतीत्यर्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑णो॒ वा ए॒तद्रू॒पय्ँयत्कृ॑ष्णाजि॒नम्ब्रह्म॑णै॒वैन॑न्दीक्षयती॒मान्धियँ॒ शिक्ष॑माणस्य दे॒वेत्या॑ह यथाय॒जुरे॒वैतद्गर्भो॒ वा ए॒ष यद्दी॑क्षि॒त उल्बव्ँ॒वास॒ᳶ प्रोर्णु॑ते॒ तस्मा॑त् [18]  
 गर्भा॒ᳶ प्रावृ॑ता जायन्ते॒ न पु॒रा सोम॑स्य क्र॒यादपो॑र्ण्वीत॒ यत्पु॒रा सोम॑स्य क्र॒याद॑पोर्ण्वी॒त गर्भाः॑ प्र॒जाना॑म्परा॒पातु॑कास्स्युᳵ क्री॒ते सोमेऽपो॑र्णुते॒ जाय॑त ए॒व तदथो॒ यथा॒ वसी॑याँसम्प्रत्यपोर्णु॒ते ता॒दृगे॒व तद्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणो वा᳓ एत᳓द्रूपय्ँ᳓ य᳓त्कृष्णाजिन᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,11 +356,14 @@ The black antelope skin is the form of the holy power;
 
 6इदानीं स्तुत्यन्तरमाह - ब्रह्मण इति ॥ ब्रह्मणः ऋक्सामयोरित्यस्य मन्त्रस्य एतद्रूपं यत्कृष्णाजिनं नाम । केचिदाहुः - ब्रह्मणः परस्य वस्तुन एतद्रूपम् । व्यामिश्राकारत्वसाधर्म्यादेवमुक्तम्; यथा 'पुरुषं कृष्णपिङ्गलम्' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणैवै᳓नन् दीक्षयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,11 +379,14 @@ verily he consecrates him with the holy power.
 
 ब्रह्म॑णा । ए॒व । ए॒न॒म् । दी॒क्ष॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓न् धि᳓यँ शि᳓क्षमाणस्य देवे᳓त्याह यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +409,14 @@ verily he consecrates him with the holy power.
 
 'गर्भ इत्यादि ॥ गर्भः खल्वेष संजातः यो दीक्षितो भवति । तस्योल्बस्थानीयं वासः । उल्बं नाम गर्भावरणम् । प्रोर्णुत इति विधिः । वाससा छादयति दीक्षित आत्मानम् । तस्मादित्यादि । स्पष्टम् । प्रावृता इति । पूर्वपदप्रकृतिस्वरत्वम् । नापोर्ण्वीत नोद्धाटयेत् । परापातुकाः परापतनशीलाः स्युः । 'लषपत' इत्यादिना उकञ्, कृदुत्तरपदप्रकृतिस्वरत्वे 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग᳓र्भो वा᳓ एष᳓ य᳓द् दीक्षित᳓ उ᳓ल्बव्ँ वा᳓सᳶ प्रो᳓र्णुते , त᳓स्मात् गर्भाᳶ प्रा᳓वृता जायन्ते ।[18]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -382,11 +438,14 @@ The man who is consecrated is a foetus; the clothing is the caul; be covers. The
 
 क्रीते सोमेऽपोर्णुते प्रावृतमुष्णीषमिति विधिः । अपास्यतीत्यर्थः । जायत एव तज्जननं खल्वस्य तत् तदाऽसौ जायत इति वा । तिडः परत्वान्न निहन्यते, अदुपदेशाल्लसार्वधातुकानुदात्तत्वे 'ञ्नित्यादिर्नित्यम्' इत्याद्युदात्तत्वम् । अथो अपिच यथा वसीयांसं पूज्यगुर्वादिकं प्रति प्रावृतं वासोपोर्णुते तादृगेव तत् तत्तुल्यमेव तत् । अतिशयेन वसुमान् वसीयान् । ईयसुनि 'विन्मतोर्लुक्' 'टेः' इति टिलोपः । लक्षणादिना प्रतेः कर्मप्रवचनीयत्वाद्द्वितीया, 'गतिर्गतौ' इति मतेरनुदात्तत्वम् । 'तिङि चोदात्तवति' इत्यपशब्दस्य प्रादिसमासः । ननु 'प्रादिप्रसंगे कर्मप्रवचनीयानां प्रतिषेधः' इति । उच्यते - च्छान्दसत्वाददोषः । यद्वा - प्रत्यपोर्णुते उपचरति यथा वसीयांसमिति गतिसमासः । द्वितीया च कर्मण्येव । तदिव पश्यति 'त्यदादिषु दृशः' इति क्विन् 'क्विन्प्रत्ययस्य कुः' 'आ सर्वनाम्नः' इत्यात्वम्, कृदुत्तरपतदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ पुरा᳓ सो᳓मस्य क्रया᳓द᳓पोर्ण्वीत , य᳓त्पुरा᳓ सो᳓मस्य क्रया᳓दपोर्ण्वीत᳓ ग᳓र्भाः प्रजा᳓नाम् परापा᳓तुकास् स्युः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,11 +461,14 @@ He should not uncover before the purchasing of the Soma. If he were to uncover b
 
 न । पु॒रा । सोम॑स्य । क्र॒यात् । अपेति॑ । ऊ॒र्ण्वी॒त॒ । यत् । पु॒रा । सोम॑स्य । क्र॒यात् । अ॒पो॒र्ण्वी॒तेत्य॑प-ऊ॒र्ण्वी॒त । गर्भाः॑ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । प॒रा॒पातु॑का॒ इति॑ परा-पातु॑काः । स्युः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रीते᳓ सो᳓मे᳓ऽपोर्णुते जा᳓यत एव᳓ त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,11 +484,14 @@ He uncovers when the Soma has been purchased; verily he is born.
 
 क्री॒ते । सोमे॑ । अपेति॑ । ऊ॒र्णु॒ते॒ । जाय॑ते । ए॒व । तत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓था व᳓सीयाँसम्प्रत्य् अपोर्णुते᳓ तादृ᳓ग् एव᳓ त᳓द् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,17 +507,23 @@ It is also as when one uncovers to a superior.
 
 अथो॒ इति॑ । यथा॑ । वसी॑याँसम् । प्र॒त्य॒पो॒र्णु॒त इति॑ प्रति-अ॒पो॒र्णु॒ते । ता॒दृक् । ए॒व । तत् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अङ्गि॑रसस्सुव॒र्गल्ँ लो॒कय्ँयन्त॒ ऊर्ज॒व्व्ँय॑भजन्त॒ ततो॒ यद॒त्यशि॑ष्यत॒ ते श॒रा अ॑भव॒न्नूर्ग्वै श॒रा यच्छ॑र॒मयी॑ [19]  
 मेख॑ला॒ भव॒त्यूर्ज॑मे॒वाव॑ रुन्द्धे
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गिरसस् सुवर्गल्ँ᳓ लोक᳓य् यँ᳓न्त ऊ᳓र्जव्ँ व्य᳙भजन्त । त᳓तो य᳓द् अत्य᳓शिष्यत , ते᳓ शरा᳓ अभवन्न् , ऊ᳓र्ग्वै᳓ शराः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +548,14 @@ The Angirases going to the world of heaven divided their strength. What was left
 
 ऊर्ग्वै शराः ऊर्क्प्रकृतिकत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓च् छरम᳓यी मे᳓खला भ᳓वत्य् , ऊ᳓र्जम् एवा᳓व रुन्धे ।[19]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,16 +580,22 @@ In that the girdle is of Śara grass [3], he wins strength.
 
 तस्मात् शरमय्या मेखलया दीक्षयतीति विधिरनुमीयते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मध्य॒तस्सन्न॑ह्यति मध्य॒त ए॒वास्मा॒ ऊर्ज॑न्दधाति॒ तस्मा॑न्मध्य॒त ऊ॒र्जा भु॑ञ्जत...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यत᳓स् स᳓न्नह्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -536,11 +616,14 @@ He girds it in the middle;
 
 9मध्यतस्सं नह्यति मेखलामिति विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यत᳓ एवा᳓स्मा ऊ᳓र्जन् दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -561,11 +644,14 @@ verily he gives him strength in the middle.
 
 मध्यत एव शरीर मध्य एव । अस्मा उर्जमन्नं बलं वा दधाति स्थापयति । यद्वा - मध्यमायामवस्थायाम् । तस्मात्सर्वेऽपि शरीरमध्ये मध्यमावस्थायां वा ऊर्जा भुञ्जते अन्नेन सहिता भवन्ति । बलेन वा उपलक्षिता भुञ्जते । विभक्तिव्यत्ययो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् मध्यत᳓ ऊर्जा᳓ भुञ्जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,16 +674,22 @@ Therefore in the middle men enjoy strength.
 
 'सावेकाचः' इति ऊर्जेर्विभक्तेरुदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऊ॒र्ध्वव्ँ वै पुरु॑षस्य॒ नाभ्यै॒ मेध्य॑मवा॒चीन॑ममे॒ध्यय्ँयन्म॑ध्य॒तस्स॒न्नह्य॑ति॒ मेध्य॑ञ्चै॒वास्या॑मे॒ध्यञ्च॒ व्याव॑र्तय॒ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वव्ँ᳓ वै᳓ पु᳓रुषस्य ना᳓भ्यै मे᳓ध्यम् ,  अवाची᳓नम् अमेध्यय्ँ᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -622,11 +714,14 @@ The part of man above the navel is pure, that below is impure.
 
 अञ्चतेः क्विनि 'अचः' इति लोपे 'चौ' इति दीर्घत्वम्, 'विभाषाञ्चेरदिक्स्त्रियाम्' इति खः । अमेध्यममेधार्हम् । दण्डादिभ्यो यः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । तस्मान्मध्यतस्सनहनेन अस्य मेध्यामेध्ये व्यावर्तयति विभागेनावस्थापयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न् मध्यत᳓स् सन्न᳓ह्यति , मे᳓ध्यञ् च एवा᳓स्यामेध्य᳓ञ्च व्या᳓वर्तयति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,17 +737,23 @@ In that he girds him in the middle he discriminates between the pure and impure 
 
 यत् । म॒ध्य॒तः । स॒न्नह्य॒तीति॑ सम्-नह्य॑ति । मेध्य॑म् । च॒ । ए॒व । अ॒स्य॒ । अ॒मे॒ध्यम् । च॒ । व्याव॑र्तय॒तीति॑ वि-आव॑र्तयति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॑ वृ॒त्राय॒ वज्र॒म्प्राह॑र॒त्स त्रे॒धा व्य॑भव॒त्स्फ्यस्तृती॑यँ॒ रथ॒स्तृती॑यय्ँ॒यूप॒स्तृती॑यम् [20]  
 ये॑ऽन्तश्श॒रा अशी॑र्यन्त॒ ते श॒रा अ॑भव॒न्तच्छ॒राणाँ॑ शर॒त्वव्ँ वज्रो॒ वै श॒राः क्षुत्खलु॒ वै म॑नु॒ष्य॑स्य॒ भ्रातृ॑व्यो॒ यच्छ॑र॒मयी॒ मेख॑ला॒ भव॑ति॒ वज्रे॑णै॒व सा॒क्षात्क्षुध॒म्भ्रातृ॑व्यम्मध्य॒तोऽप॑ हते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो वृत्रा᳓य व᳓ज्रम् प्रा᳓हरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +778,14 @@ Indra hurled his thunderbolt against Vrtra;
 
 वृत्रवधानन्तरं स्फ्यादियज्ञोपकरणभावेन त्रेधा विभक्तात्मा बभूवेति । यद्वा - इन्द्रेण प्रहितो वज्रस्तं हन्तुं तदीययज्ञे स्फ्यादिभावेन विभक्तात्माऽभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त्रेधा᳓ व्यभवत् स्फ्य᳓स्तृ᳓तीयँ , र᳓थस्तृ᳓तीयय्ँ , यू᳓पस् तृ᳓तीयम् ।[20]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -704,11 +808,14 @@ it divided into three parts; one-third the wooden sword, one-third the chariot, 
 
 वज्रतृतीयं स्फ्यो भवतीति । 'पूरणाद्भागे तीयादन्' । एवं रथयूपौ द्रष्टव्यौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳙ऽन्त᳓श् शरा᳓ अ᳓शीर्यन्त , ते᳓ शरा᳓ अभवन् , त᳓च् छरा᳓णाँ शरत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -731,11 +838,14 @@ The internal arrows which were split (aśiryanta) became Śara grass, and that i
 
 किमनेनेत्याह - वज्रो वै शराः वज्रप्रभवत्वात् । शरशब्द उञ्छादिर्द्रष्टव्यः । अजन्तो वा पचादिर्द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्रो वै᳓ शराः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -751,11 +861,14 @@ The thunderbolt is Śara grass;
 
 वज्रः॑ । वै । श॒राः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षु᳓त् ख᳓लु वै᳓ मनुष्य᳙स्य भ्रा᳓तृव्यः । य᳓च् छरम᳓यी मे᳓खला भ᳓वति , व᳓ज्रेणैव᳓ साक्षा᳓त् क्षु᳓धम् भ्रा᳓तृव्यम् मध्यतो᳓ऽप हते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -778,16 +891,22 @@ hunger indeed is the foe of man. In that the girdle is of Śara grass, he clearl
 
 यच्छरमयी मेखला मध्यतस्सन्नद्धा भवति वज्रेणैव साक्षात्क्षुधम् शत्रुभूतां भ्रातृव्यं मध्यतोपहते अपहन्ति । व्यत्ययेनात्मनेपदम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद्भ॑वति त्रि॒वृद्वै प्रा॒णस्त्रि॒वृत॑मे॒व प्रा॒णम्म॑ध्य॒तो यज॑माने दधाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓द् भवति , त्रिवृ᳓द् वै᳓ प्राण᳓स् , त्रिवृ᳓तम् एव᳓ प्राण᳓म् मध्यतो᳓ य᳓जमाने दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -808,16 +927,22 @@ It is threefold. The breath is threefold; verily he places the threefold breath 
 
 12त्रिवृद्भवतीति विधिः ॥ तिस्रो वृत्तयो यस्य स त्रिवृत् । अन्तोदात्तप्रकरणे 'त्रिचकादीनां छन्दसि' इत्युत्तरपदान्तोदात्तत्वम् । त्रिवृत्प्राणः, अपानोदानसहितत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पृ॒थ्वी भ॑वति॒ रज्जू॑नाव्ँ॒ व्यावृ॑त्त्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथ्वी᳓ भवति , र᳓ज्जूनाव्ँ व्या᳓वृत्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -838,16 +963,22 @@ It is broad, for the discrimination of the strands.
 
 13पृथ्वी भवतीति विधिः ॥ पृथ्वी विस्तीर्णा रज्जूनां ततो व्यावृत्त्यै ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मेख॑लया॒ यज॑मानन्दीक्षयति॒ योक्त्रे॑ण॒ पत्नी॑म्मिथुन॒त्वाय॑ [21]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मे᳓खलया य᳓जमानन् दीक्षयति , यो᳓क्त्रेण प᳓त्नीम् मिथुनत्वा᳓य ।[21]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -868,17 +999,23 @@ He consecrates the sacrificer with a girdle, with a yoke his wife, for the sake 
 
 14मेखलयेत्यादिविधिः ॥ वेणीग्रथिता मेखला । विपरीतं योक्त्रम् । मिथुनत्वाय रज्ज्वोः । यद्वा - पत्नीयजमानयोरेकरूप्ये हि रज्ज्वोस्स्वाभाविकं दम्पत्योर्मिथुनत्वं तिरोहितं स्यात् । तस्माद्रज्ज्वोः वैरूप्यं तयोर्मिथुनत्वरक्षार्थमिति । 'पत्युर्नो यज्ञसंयोगे' इति ङीब्नकारौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य॒ज्ञो दक्षि॑णाम॒भ्य॑ध्याय॒त्ताँ सम॑भव॒त्तदिन्द्रो॑ऽचाय॒त्सो॑ऽमन्यत॒ यो वा इ॒तो ज॑नि॒ष्यते॒ स इ॒दम्भ॑विष्य॒तीति॒ ताम्प्रावि॑श॒त्तस्या॒ इन्द्र॑ ए॒वाजा॑यत॒ सो॑ऽमन्यत॒ यो वै मदि॒तोऽप॑रो जनि॒ष्यते॒ स इ॒दम्भ॑विष्य॒तीति॒ तस्या॑ अनु॒मृश्य॒ योनि॒माच्छि॑न॒त्सा सू॒तव॑शाभव॒त्तत्सू॒तव॑शायै॒ जन्म॑ [22]  
 ताँ हस्ते॒ न्य॑वेष्टयत॒ ताम्मृ॒गेषु॒ न्य॑दधा॒त्सा कृ॑ष्णविषा॒णाभ॑व॒दिन्द्र॑स्य॒ योनि॑रसि॒ मा मा॑ हिँसी॒रिति॑ कृष्णविषा॒णाम्प्र य॑च्छति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ द᳓क्षिणाम् अभ्य᳙ध्यायत् ताँ᳓ स᳓मभवत् त᳓दि᳓न्द्रोऽचायथ् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -899,11 +1036,14 @@ The sacrifice reflected on the gift (to the priests). He had intercourse with he
 
 15अथ कृष्णविषाणां प्रतिविधास्यन् तदुत्पत्तिमाह - यज्ञो दक्षिणामित्यादि ॥ यज्ञात्मा दक्षिणामकामयत तां समभवत्समगृह्णात् मिथुन्यभवत् । तदिन्द्रोचायत् । चायृ पूजानिशामनयोः, जातवान् । अथ सोमन्यत यो वा इतो दक्षिणाया जनिष्यते स इदं विश्वं भविष्यति इदं सर्वं तदधीनं भविष्यति । यद्वा - स इदं विश्वं प्राप्स्यति विश्वस्य स्वामी भविष्यति, तस्मादस्या अहं जनिषीयेति समालोच्य तां प्राविशदिन्द्रः । ततस्तस्या इन्द्र एव पुत्रोजायत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽमन्यत - "यो᳓ वा᳓ इतो᳓ जनिष्य᳓ते स᳓ इद᳓म्भविष्यति᳓"+इ᳓ति , ता᳓म् प्रा᳓विशत् त᳓स्या इ᳓न्द्र एवा᳓जायत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -926,11 +1066,14 @@ and reflected, 'He who will be born from this union will be this world.' He ente
 
 अथेन्द्रस्तां योनिं हस्ते न्यवेष्टयत । अथ तां योनिं मृगेषु न्यदधात् निहितवान् सा कृष्णविषाणाऽभवत् । इन्द्रस्येत्यादिविधिः । प्रयच्छति यजमानाय ददाति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽमन्यत - "यो᳓ वै᳓ म᳓दितो᳓ऽपरो जनिष्य᳓ते स᳓ इद᳓म् भविष्यती᳓"ति , त᳓स्या अनुमृ᳓श्य यो᳓निम् आ᳓च्छिनत् , सा᳓ सूत᳓वशाभवत् त᳓त् सूत᳓वशायै ज᳓न्म । [22]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -946,11 +1089,14 @@ he reflected, 'He who hence other than I will be born will be this world'. Strok
 
 सः । अ॒म॒न्य॒त॒ । यः । वै । मत् । इ॒तः । अप॑रः । ज॒नि॒ष्यते॑ । सः । इ॒दम् । भ॒वि॒ष्य॒ति॒ । इति॑ । तस्याः॑ । अ॒नु॒मृश्येत्य॑नु-मृश्य॑ । योनि॑म् । एति॑ । अ॒च्छि॒न॒त् । सा । सू॒तव॒शेति॑ सू॒त-व॒शा॒ । अ॒भ॒व॒त् । तत् । सू॒तव॑शाया॒ इति॑ सू॒त-व॒शा॒यै॒ । जन्म॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताँ᳓ ह᳓स्ते न्य᳙वेष्टयत । ता᳓म् मृगे᳓षु न्य᳙दधात्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -966,11 +1112,14 @@ He wrapped it (the yoni) in his hand, he deposited it among the wild beasts,
 
 ताम् । हस्ते॑ । नीति॑ । अ॒वे॒ष्ट॒य॒त॒ । ताम् । मृ॒गेषु॑ । नीति॑ । अ॒द॒धा॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ कृष्णविषाणा᳓भवद् , इ᳓न्द्रस्य यो᳓निरसि , मा᳓ मा हिँसीरि᳓ति कृष्णविषाणा᳓म् प्र᳓ यच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -986,16 +1135,22 @@ it became the horn of the black antelope. 'Thou art the birthplace of Indra; har
 
 सा । कृ॒ष्ण॒वि॒षा॒णेति॑ कृष्ण-वि॒षा॒णा । अ॒भ॒व॒त् । इन्द्र॑स्य । योनिः॑ । अ॒सि॒ । मा । मा॒ । हिँ॒सीः॒ । इति॑ । कृ॒ष्ण॒वि॒षा॒णामिति॑ कृष्ण-वि॒षा॒णाम् । प्रेति॑ । य॒च्छ॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सयो॑निमे॒व य॒ज्ञङ्क॑रोति॒ सयो॑नि॒न्दक्षि॑णाँ॒ सयो॑नि॒मिन्द्रँ॑ सयोनि॒त्वाय॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓योनिमेव᳓ यज्ञ᳓ङ्करोति , स᳓योनिन् द᳓क्षिणाँ , स᳓योनिम् इ᳓न्द्रँ सयोनित्वा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1018,16 +1173,22 @@ Verily he makes the sacrifice united with the womb, the gift with the womb, Indr
 
 16फलमाह - सयोनिमिति ॥ तत्र दक्षिणा योनिमती । यज्ञस्तद्योन्यभिध्यायी । इन्द्रोपि तस्या योनेर्जातः । त इमे सर्वेऽपि तस्या योन्यभावादयोनयस्स्युः । कृष्णविषाणाप्रदानेन तु सर्वेऽपि यज्ञादयो योनिमन्तः कृता भवन्ति । सह योन्या वर्तते इति । 'तेन सहेति तुल्ययोगे' इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम्, 'वोपसर्जनस्य' इति सभावः । सयोनित्वाय भवत्यात्मनोपि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कृ॒ष्यै त्वा॑ सुस॒स्याया॒ इत्या॑ह॒ तस्मा॑दकृष्टप॒च्या ओष॑धयᳶ पच्यन्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्यै᳓ त्वा सुसस्या᳓या इ᳓त्याह - त᳓स्माद् अकृष्टपच्या᳓ ओ᳓षधयᳶ पच्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1049,16 +1210,22 @@ Verily he makes the sacrifice united with the womb, the gift with the womb, Indr
 
 17कृष्यै त्वेति लोष्टोन्नयनमन्त्रोयम् ॥ अकृष्टपच्याः । राजसूयादौ 'अकृष्टे चेति वक्तव्यम्' इति यः, कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा - कृष्टं क्षेत्रमेव अकृष्टपच्यं, तत्र हि ताः पच्यन्ते । य एव राजसूयादौ कृष्टपच्यशब्दो निष्पद्यते ततो बहुव्रीहौ 'नङ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम्, पच्यन्ते इति कर्मवद्भावात् । यद्वा - कृष्टे पच्यन्ते इति कृष्टपच्याः, न कष्टपच्याः अकृष्टपच्याः, अतादृक्स्वभावात्स्वयमेव पच्यन्ते इति अव्ययपूर्वपदप्रकृतिस्वरत्वं व्यत्ययेन प्रवर्तते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सुपिप्प॒लाभ्य॒स्त्वौष॑धीभ्य॒ इत्या॑ह॒ तस्मा॒दोष॑धय॒ᳶ फल॑ङ्गृह्णन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्पला᳓भ्य᳓स् त्वौ᳓षधीभ्य इ᳓त्याह , त᳓स्माद् ओ᳓षधयᳶ फ᳓लङ् गृह्णन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1080,17 +1247,23 @@ Verily he makes the sacrifice united with the womb, the gift with the womb, Indr
 
 18सुपिप्पलाभ्य इति दक्षिणे गोदाने कण्डूयनमन्त्रः ॥ यस्मात्सुपिप्पलाभ्यः शोभनफलाभ्य इत्याह, तस्मादोषधयः फलं गृह्णन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्धस्ते॑न [23]  
 क॒ण्डू॒येत॑ पामन॒म्भावु॑काᳶ प्र॒जास्स्यु॒र्यत्स्मये॑त नग्न॒म्भावु॑काᳵ कृष्णविषा॒णया॑ कण्डूयतेऽपि॒गृह्य॑ स्मयते प्र॒जाना॑ङ्गोपी॒थाय॒ न पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णामव॑ चृते॒द्यत्पु॒रा दक्षि॑णाभ्यो॒ नेतोः॑ कृष्णविषा॒णाम॑वचृ॒तेद्योनि॑ᳶ प्र॒जाना॑म्परा॒पातु॑का स्यान्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्ध᳓स्तेन कण्डूये᳓त पामनम् भा᳓वुकाᳶ प्रजा᳓स् स्युर् य᳓त् स्म᳓येत नग्नम् भा᳓वुकाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1112,11 +1285,14 @@ If he were to scratch himself with his hand [7] his offspring would be liable to
 19यद्धस्तेनेत्यादि ॥ पामनंभावुकाः पामान्यासां सन्तीति पामनाः, पामादित्वान्नप्रत्ययः, पामना भवन्तीति पामनंभावुकाः । 'कर्तरि भुवः खिष्णुच्खुखञौ' इति व्यत्ययेन पामनेऽपि भवति, 'खित्यनव्ययस्य' इति मुम्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यत्स्मयेत हसेत् नग्नंभावुकाः प्रजास्स्युरित्येव । नग्ना भवन्ति ताच्छील्येनेति नग्नंभावुकाः, पूर्ववत्प्रत्ययादि । तस्मात् कृष्णविषाणया कण्डूयते, न हस्तेन । अपिगृह्य स्मयते अपिधाय मुखं
 स्मयते चेति विधिः । गोपीथाय रक्षणार्थम् । 'निशीथगोपीथावसथाः' इति निपात्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णविषाण᳓या कण्डूयत ,+ ऽपिगृ᳓ह्य स्मयते प्रजा᳓नाङ् गोपीथा᳓य᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1137,11 +1313,14 @@ He scratches himself with the horn of the black antelope and smiles, holding it 
 
 न पुरेति निषेधविधिः । दक्षिणानयनात्प्राक् कृष्णविषाणां नावचूतेत् न मुञ्चेत् । नयतेर्भावलक्षणे तोसुन् । दक्षिणाभ्य इति । षष्ठ्यर्थे चतुर्थी । चृततिर्हिंसार्थकस्तौदादिकः । यदवचृतेत् यन्मुश्चेत् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शस्यैवोदात्तत्वम् । प्रजानां योनिः परापातुका परापतनशीला स्यात् । पूर्ववदुकञ् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ पुरा᳓ द᳓क्षिणाभ्यो ने᳓तोः कृष्णविषाणा᳓म᳓व चृतेद्, य᳓त् पुरा᳓ द᳓क्षिणाभ्यो ने᳓तोः कृष्णविषाणा᳓म् अवचृते᳓द्, यो᳓निᳶ प्रजा᳓नाम् परापा᳓तुका स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1157,16 +1336,22 @@ He should not let go the horn of the black antelope before the bringing of the g
 
 न । पु॒रा । दक्षि॑णाभ्यः । नेतोः॑ । कृ॒ष्ण॒वि॒षा॒णामिति॑ कृष्ण-वि॒षा॒णाम् । अवेति॑ । चृ॒ते॒त् । यत् । पु॒रा । दक्षि॑णाभ्यः । नेतोः॑ । कृ॒ष्ण॒वि॒षा॒णामिति॑ कृष्ण-वि॒षा॒णाम् । अ॒व॒चृ॒तेदित्य॑व-चृ॒तेत् । योनिः॑ । प्र॒जाना॒मिति॑ प्र-जाना॑म् । प॒रा॒पातु॒केति॑ परा-पातु॑का । स्या॒त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नी॒तासु॒ दक्षि॑णासु॒ चात्वा॑ले कृष्णविषा॒णाम्प्रास्य॑ति॒ योनि॒र्वै य॒ज्ञस्य॒ चात्वा॑लय्ँ॒योनि॑ᳵ कृष्णविषा॒णा योना॑वे॒व योनि॑न्दधाति य॒ज्ञस्य॑ सयोनि॒त्वाय॑ ॥ [24]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीता᳓सु द᳓क्षिणासु चा᳓त्वाले कृष्णविषाणा᳓म् प्रा᳓स्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1189,11 +1374,14 @@ When the gifts have been brought, he casts away the horn of the black antelope i
 
 प्रास्यति प्रत्यस्येत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓निर्वै᳓ यज्ञ᳓स्य चा᳓त्वालय्ँ यो᳓निᳵ कृष्णविषाणा᳓ । यो᳓नाव् एव᳓ यो᳓निन् दधाति , यज्ञ᳓स्य सयोनित्वा᳓य ॥ [24]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1215,4 +1403,5 @@ The pit is the womb of the sacrificer; the horn of the black antelope is the wom
 योनिरित्यादि । चात्वालं यज्ञस्य योनिः धिष्ण्योपवनादेः प्रकृतत्वात् । कृष्णविषाणाया योनित्वमुक्तमेव । तस्माद्योनावेव योनिं स्थापयति, यदियं चात्वाले प्रास्यते, तस्मादेतद्यज्ञस्य सयोनित्वाय भवति, योनेरपरित्यागात् ॥
 
 इति षष्ठे प्रथमे तृतीयोनुवाकः ॥  
+</details>
 </details>

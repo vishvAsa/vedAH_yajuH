@@ -4,9 +4,12 @@ title = "०४ अतिमोक्षमन्त्राः"
 
 अनुष्टुप् , ३  , ६ , ९ , त्रिष्टुप् । विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथातिमोक्षः । वैश्वकर्मणानि हुत्वा गार्हपत्ये आज्यं विलाप्य उत्पूय स्रुचि चतुर्गृहीतं गृहीत्वा गार्हपत्ये जुहोत्यन्वारब्धे यजमाने - ये देवा इत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -14,6 +17,8 @@ title = "०४ अतिमोक्षमन्त्राः"
 ये᳓ देवा᳓ यज्ञह᳓नो यज्ञमु᳓षᳶ पृथिव्या᳓म᳓ध्या᳓सते ।   
 अग्नि᳓र्मा ते᳓भ्यो रक्षतु ग᳓च्छेम सुकृ᳓तो वय᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,10 +43,14 @@ May we go to those that do good deeds.
 
 अत्र प्रथमे अनुष्टुभौ । तृतीया त्रिष्टुप् । चतुर्थीपश्चम्यौ अनुष्टुभौ । षष्ठी त्रिष्टुप् । सप्तम्यष्टम्यावनुष्टुभौ । नवमी त्रिष्टुप् । 'ये देवा यज्ञहनो यज्ञमुषः' इति प्रथमयो प्रथमौ पादौ, समाना अन्येऽपि पादाः । एवं नफलं गच्छेम ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथाग्नीध्रमभिप्रैति - आऽगन्मेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -49,6 +58,8 @@ May we go to those that do good deeds.
 आ᳓गन्म मित्रावरुणा वरेण्या रा᳓त्रीणाम्भागो᳓ युव᳓योर्यो᳓ अ᳓स्ति ।   
 ना᳓कङ्गृह्णाना᳓स्सुकृत᳓स्य लोके᳓ तृती᳓ये पृष्ठे᳓ अ᳓धि रोचने᳓ दिवः᳓ ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -73,10 +84,14 @@ On the third ridge above the light of the sky.
 
 हे मित्रावरुणा मित्रावरुणौ वरेण्या वरेण्यौ वरणीयौ रात्रीणां सम्बन्धी अहोरात्रेषु अस्माभिर्दत्तः युवयोर्भागः हविरंशो योस्ति सामर्थ्यात्तस्य फलं वयमागन्म आभिमुख्येन गच्छेम नाकं स्वयमेव गृह्णानाः आददानाः सुकृतस्य लोके सुष्ठुकृतानां कर्मणां तृतीये फलस्थाने दिवः पृष्ठे रोचने दीप्यमाने अधि उपरि सुकृतमागन्मेति । यद्वा - अधिकं रोचमाने दिवः पृष्ठे आगन्मेति । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः, न 'भ्राण्नपात्' इत्यादौ नाकशब्दोन्तोदात्तो निपात्यते । 'सूपमानात्क्तः' इति सुकृतशब्दोन्तोदात्तः, 'अनुदात्तेतश्च हलादेः' इति रोचनशब्दो युजन्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथाग्नीध्रं गत्वा स्रुचि चतुर्गृहीतं गृहीत्वा शये[आग्नीध्रे]ऽन्वारब्धे यजमाने जुहोति - ये देवा इति द्वाभ्यां पृथगाहुतिद्वयम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -84,6 +99,8 @@ On the third ridge above the light of the sky.
 ये᳓ देवा᳓ यज्ञह᳓नो यज्ञमु᳓षोऽन्त᳓रिक्षे᳓ऽध्या᳓सते ।    
 वायु᳓र्मा ते᳓भ्यो रक्षतु ग᳓च्छेम सुकृ᳓तो वय᳓म् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,10 +125,14 @@ May we go to those that do good deeds.
 
 गतौ च मन्त्रौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथाग्नीध्रमुपतिष्ठते - यास्ते इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -119,6 +140,8 @@ May we go to those that do good deeds.
 या᳓स्ते रा᳓त्रीः सवितः [12]  देवया᳓नीरन्तरा᳓ द्या᳓वापृथिवी᳓ विय᳓न्ति ।    
 गृहै᳓श्च स᳓र्वैः प्रज᳓या न्व᳓ग्रे सु᳓वो रु᳓हाणास्तरता र᳓जाँसि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -143,10 +166,14 @@ Do ye first mounting the light traverse the regions.
 
 हे सवितः यास्तव सम्बन्धिन्यो रात्रीः रात्रयः अग्निसमीपप्राप्तिहेतवः देवयानीः देवान् गच्छन्ति यासु ता देवयान्यः यागवत्य इति यावत्, उभयत्रापि 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । द्यावापृथिवी अन्तरा द्यावापृथिव्योर्मध्ये या वियन्ति विविधं गच्छन्ति । 'दिवो द्यावा' इति द्यावादेशः 'देवताद्वन्द्वे च' इत्याद्युदात्तत्वम्। 'अन्तराऽन्तरेण' इति द्वितीया । ताभिर्हेतुभूताभिः अग्रे प्रथममेव गृहैः गृहवासिभिः सर्वैर्जनैः प्रजया सह । समुच्चये नुशब्दः । सुवो रुहाणाः सुखैकरूपं स्वर्गं आरोहन्तः ऋत्विग्यजमानाः रजांसि लोकान्तराणि दुःखबलानि तरतः तरन्तु त्वत्प्रसादेन । व्यत्ययेन मध्यमः । यद्वा - वयं तराम त्वत्प्रसादादिति । सर्वधा मध्यमव्यत्ययेन मुच्यामहे । 'अन्येषामपि दृश्यते' इति संहितायामस्य दीर्घत्वम् । 'इमानेव लोकांस्तीर्त्वा सगृहस्सपशुस्सुवर्गं लोकमेति' इति ब्राह्मणम् । 'स्वरो रोहतौ छन्दसि' इत्युत्वम् । रुहेर्व्यत्ययेनात्मनेपदम् । लसार्वधातुकानुदात्तत्वं च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथाहवनीयं [अनु]द्रुत्य स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोत्यन्वारब्धे यजमाने - ये देवा इति द्वाभ्यां पृथगाहुतिद्वयम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -154,6 +181,8 @@ Do ye first mounting the light traverse the regions.
 ये᳓ देवा᳓ यज्ञह᳓नो यज्ञमु᳓षो दिव्य᳓ध्या᳓सते ।   
 सू᳓र्यो मा ते᳓भ्यो रक्षतु ग᳓च्छेम सुकृ᳓तो वय᳓म् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,10 +207,14 @@ May we go to those that do good deeds.
 
 गतौ च मन्त्रौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथाहवनीयमुपतिष्ठते - येनेन्द्रायेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -189,6 +222,8 @@ May we go to those that do good deeds.
 ये᳓ने᳓न्द्राय सम᳓भरᳶ प᳓याँस्युत्तमे᳓न हवि᳓षा जातवेदः ।   
 ते᳓नाग्ने त्व᳓मुत᳓ वर्धयेमँ᳓ सजाता᳓नाँ श्रै᳓ष्ठ्य आ᳓ धेह्येनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -213,6 +248,9 @@ Bestow on him lordship over his fellows.
 
 हे जातवेदः जातानां वेदितः अग्ने येन बलेन स्नेहेन वा इन्द्राय पयांसि दधिघर्मादीनि समभरः संभरसि । छान्दसो लङ् । उत्तमेन तेन बलेन स्नेहेन वा । उत अपि च हविषा एतद्धुतेन हेतुना इमं यजमानं त्वं वर्धय । कीदृशी वृद्धिरस्य कर्तव्येति चेद्ब्रूमः - सजातानां समानजातानां श्रैष्ठ्ये श्रेष्ठभावे यथाऽयं सजातानां श्रेष्ठः प्रशस्यतमो भवति तथा तत्र एनं यजमानं धेहि स्थापय सजातानां मध्ये । उत्तमशब्द उञ्छादिरन्तोदात्तः । 'वा जाते' इति सजातशब्दोन्तोदात्तः । केचिदाहुः - तिस्र एव गार्हपत्ये जुहोति, तिस्र आग्नीध्रे, तिस्र आहवनीये इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -223,11 +261,14 @@ Bestow on him lordship over his fellows.
 
 7अथैषामतिमोक्षाणां ब्राह्मणम् - यज्ञहनो वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञह᳓नो वै᳓ देवा᳓ यज्ञमु᳓षस्सन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,11 +284,14 @@ The gods are destroyers of the sacrifice, stealers of the sacrifice [2];
 
 य॒ज्ञ॒हन॒ इति॑ यज्ञ-हनः॑ । वै । दे॒वाः । य॒ज्ञ॒मुष॒ इति॑ यज्ञ-मुषः॑ । स॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एषु᳓ लोके᳓ष्वासत आद᳓दाना विमथ्नाना᳓ यो᳓ द᳓दाति यो᳓ य᳓जते त᳓स्य ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,12 +312,15 @@ they sit these worlds taking and destroying from him who gives and sacrifices.
 
 आददाना हविरादि । विमथ्नानाः शालाभङ्गादिकमाचरन्तः । कस्या ? यो ददाति, यश्च यजते तस्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ देवा᳓ यज्ञह᳓नᳶ पृथिव्या᳓म᳓ध्या᳓सते ।   
 ये᳓ अन्त᳓रिक्षे ये᳓ दिवी᳓त्याह ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,11 +342,14 @@ they sit these worlds taking and destroying from him who gives and sacrifices.
 
 ये देवा यज्ञहन इति । यज्ञमोक्षणमन्त्राणामप्युपलक्षणम् । येऽन्तरिक्षे ये दिवीति शिष्टानां चतुर्णां ग्रहणम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓नेव᳓ लोकाँ᳓स्तीर्त्वा᳓ स᳓गृहस्स᳓पशुस्सुवर्गल्ँ᳓ लोक᳓मेति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,16 +365,22 @@ verily traversing the worlds, he goes to the world of heaven with his household,
 
 इ॒मान् । ए॒व । लो॒कान् । ती॒र्त्वा । सगृ॑ह॒ इति॒ स-गृ॒हः॒ । सप॑शु॒रिति॒ स-प॒शुः॒ । सु॒व॒र्गमिति॑ सुवः-गम् । लो॒कम् । ए॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अप॒ वै सोमे॑नेजा॒नाद्दे॒वता॑श्च य॒ज्ञश्च॑ क्रामन्त्याग्ने॒यम्पञ्च॑कपालमुदवसा॒नीय॒न्निर्व॑पेद॒ग्निस्सर्वा॑ दे॒वताः॑ [14]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓प वै᳓ सो᳓मेनेजाना᳓द्देव᳓ताश्च यज्ञ᳓श्च क्रामन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,11 +401,14 @@ From him who has sacrificed with the Soma (sacrifice), the deities and the sacri
 
 8अप वै सोमेनेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेय᳓म्प᳓ञ्चकपालमुदवसानी᳓यन्नि᳓र्वपेत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,12 +429,15 @@ he should offer to Agni on five potsherds as the final act;
 
 उदवसानीयं उदवसीयतेऽनेनेत्युदवसानीयं, करणे कृत्यः, 'उपोत्तमं रिति' इत्युपोत्तमस्योदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓स्स᳓र्वा देव᳓ताः ।  
 पा᳓ङ्क्तो यज्ञः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +459,14 @@ all the deities are Agni [3], the sacrifice is fivefold;
 
 अग्निस्सर्वादेवता इति । अग्न्यधीनस्थितित्वात्सर्वदेवानाम् । पाङ्क्तो यज्ञ इति । धानादिपञ्चकात्मकपङ्क्तिप्रभवत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ताश्चैव᳓ यज्ञ᳓ञ्चा᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +482,14 @@ verily he wins the deities and the sacrifice.
 
 दे॒वताः॑ । च॒ । ए॒व । य॒ज्ञम् । च॒ । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गा᳓यत्रो᳓ वा᳓ अग्नि᳓र्गायत्र᳓छन्दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -437,10 +505,14 @@ Now Agni is connected with the Gayatri and has the Gayatri as his metre;
 
 गा॒य॒त्रः । वै । अ॒ग्निः । गा॒य॒त्रछ॑न्दा॒ इति॑ गाय॒त्र-छ॒न्दाः॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9पञ्चकपालं निन्दति - गायत्रीप्रभवस्य गायत्रछन्दसः अग्नेः पञ्चकपालोऽवृद्धिहेतुः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +521,8 @@ Now Agni is connected with the Gayatri and has the Gayatri as his metre;
 
 य᳓त्प᳓ञ्चकपालङ्करो᳓ति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,11 +540,14 @@ he severs him from his metre, if he offers on five potsherds;
 
 तम् । छन्द॑सा । वीति॑ । अ॒र्ध॒य॒ति॒ । यत् । पञ्च॑कपाल॒मिति॒ पञ्च॑-क॒पा॒ल॒म् । क॒रोति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓कपालᳵ कार्यः᳙ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -491,6 +568,7 @@ it should be made on eight potsherds;
 
 तस्मादष्टाकपाल एव कार्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -498,6 +576,8 @@ it should be made on eight potsherds;
 
 गा᳓यत्रो᳙ऽग्नि᳓र्गायत्र᳓छन्दाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,11 +595,14 @@ the Gayatri has eight syllables, Agni is connected with the Gayatri and has the 
 
 अ॒ष्टाक्ष॒रेत्य॒ष्टा-अ॒क्ष॒रा॒ । गा॒य॒त्री । गा॒य॒त्रः । अ॒ग्निः । गा॒य॒त्रछ॑न्दा॒ इति॑ गाय॒त्र-छ॒न्दाः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वे᳓नैवै᳓नञ्छ᳓न्दसा स᳓मर्धयति  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,10 +618,14 @@ verily he unites him with his own metre.
 
 स्वेन॑ । ए॒व । ए॒न॒म् । छन्द॑सा । समिति॑ । अ॒र्ध॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प॒ङ्क्त्यौ॑ याज्यानुवा॒क्ये॑ भवत॒ᳶ पाङ्क्तो॑ य॒ज्ञस्तेनै॒व य॒ज्ञान्नैति॑ ॥ [15]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +633,8 @@ verily he unites him with his own metre.
 पङ्क्त्यौ᳙ याज्यानुवाक्ये᳙ भवतः ।     
 पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,16 +651,22 @@ The Yajya and the Anuvakya are in the Pañkti metre the sacrifice is fivefold;
 
 प॒ङ्क्त्यौ॑ । या॒ज्या॒नु॒वा॒क्ये॑ इति॑ याज्या-अ॒नु॒वा॒क्ये॑ । भ॒व॒तः॒ । पाङ्क्तः॑ । य॒ज्ञः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तर्हि पञ्चकपालान्वयाभावात् पाङ्क्तो यज्ञो न लभ्यते तत्राह – पङ्क्त्याविति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैव᳓ यज्ञा᳓न्नै᳓ति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -593,4 +688,5 @@ verily thereby he does not depart from the sacrifice.
 स्विष्टकृत इत्येके । प्रधानस्येत्यन्ये । याज्यानुवाक्ययोः पङ्क्तित्वात्पाङ्क्तयज्ञलाभः । पङ्क्तिशब्दोप्युत्सादिः । 'अग्ने तमद्याश्वं न स्तोमैः' इत्यक्षरपङ्क्तयः याज्यानुवाक्या भवन्ति । द्वे आग्नेयस्य । द्वे स्विष्टकृतः ॥
 
 इति तृतीये पञ्चमे चतुर्थोनुवाकः ॥  
+</details>
 </details>

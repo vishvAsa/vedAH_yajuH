@@ -510,19 +510,20 @@ title = "०४ होमः"
 इति सङ्कल्प्य
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओं᳓ भू᳓र् भु᳓वस् सु᳓वस् स्वा᳓हा ॥  
 (प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
@@ -577,8 +578,8 @@ title = "०४ होमः"
 
 ### व्याहृतिहोमाः
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/vyAhRti-homAH_4.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 
 (ओं᳓) भू᳓स् स्वा᳓हा ॥
 (अग्न᳓य +इदं᳓ न᳓ म᳓म)
@@ -592,6 +593,8 @@ title = "०४ होमः"
 (ओं) भू᳓र् भु᳓वस् सु᳓व स्स्वा᳓हा ॥  
 (प्रजा᳓पतय +इदं᳓ न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -608,7 +611,7 @@ title = "०४ होमः"
 (प्रजापतय इदं न मम)  
 
 </details>
-
+</details>
 </div>  
 
 ### पूर्णाहुति-प्राणायामौ
@@ -656,7 +659,6 @@ title = "०४ होमः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +669,8 @@ title = "०४ होमः"
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -674,11 +678,10 @@ title = "०४ होमः"
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्तान्य् अशेषाणि  
@@ -687,6 +690,8 @@ title = "०४ होमः"
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
@@ -694,9 +699,9 @@ title = "०४ होमः"
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
 </details>
+</details>
 
 (कृष्ण कृष्ण कृष्ण॥)
-
 </div>
 
 इत्युक्त्वा, प्रणम्य अभिवाद्य,

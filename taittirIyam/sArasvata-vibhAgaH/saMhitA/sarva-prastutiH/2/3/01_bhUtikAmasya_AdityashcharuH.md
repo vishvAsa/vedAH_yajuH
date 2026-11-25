@@ -4,15 +4,20 @@ title = "०१ भूतिकामस्य आदित्यश्चरु
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒दि॒त्येभ्यो॒ भुव॑द्वद्भ्यश्च॒रुन्निर्व॑पे॒द्भूति॑काम आदि॒त्या वा ए॒तम्भूत्यै॒ प्रति॑ नुदन्ते॒ योऽल॒म्भूत्यै॒ सन्भूति॒न्न प्रा॒प्नोत्या॑दि॒त्याने॒व भुव॑द्वत॒स्स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ त ए॒वैन॒म्भूति॑ङ्गमयन्ति॒ भव॑त्ये॒व
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यो भु᳓वद्वद्भ्यश्चरु᳓न्नि᳓र्वपेद्भू᳓तिकामः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ He who desires prosperity should offer to the Adityas, giving prosperity;
 
 शपि वा व्यत्ययेन गुणाभावः, तत्रादुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः, 'तसौ मत्वर्थे' इति व्यत्ययेन न प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓ वा᳓ एत᳓म्भू᳓त्यै प्र᳓ति नुदन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,11 +65,14 @@ it is the Adityas who repel from prosperity him who being fit for prosperity doe
 
 आ॒दि॒त्याः । वै । ए॒तम् । भूत्यै॑ । प्रतीति॑ । नु॒द॒न्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ऽलम्भू᳓त्यै स᳓न्भू᳓तिन्न᳓ प्राप्नो᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ verily he has recourse to the Adityas, giving prosperity, with their own share;
 
 यः । अल॑म् । भूत्यै॑ । सन् । भूति॑म् । न । प्रा॒प्नोतीति॑ प्र-आ॒प्नोति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓नेव᳓ भु᳓वद्वतस्स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,11 +111,14 @@ verily they make him attain prosperity;
 
 आ॒दि॒त्यान् । ए॒व । भुव॑द्वत॒ इति॒ भुव॑त्-व॒तः॒ । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एवै᳓नम्भू᳓तिङ्गमयन्ति भ᳓वत्येव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,12 +139,16 @@ he becomes prosperous.
 
 तत्र 'यज्ञो देवानाम्' इति पुरोनुवाक्या, 'शुचिरपः' इति याज्या, तत्र 'आदित्यासो भवता मृडयन्तः' 'य आदित्यानां भवति प्रणीतौ' इति दर्शनात् भुवद्वत्त्वम् । गतमन्यत् ॥
 </details>
+</details>
 
 ## अपरुद्धापरुद्ध्यमानयोरादित्यश्चरुः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒दि॒त्येभ्यो॑ धा॒रय॑द्वद्भ्यश्च॒रुन्निर्व॑पेदप॑रुद्धो वाऽपरु॒ध्यमा॑नो वा ..
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -135,6 +156,8 @@ he becomes prosperous.
 आदित्ये᳓भ्यो धार᳓यद्वद्भ्यश्चरु᳓न्नि᳓र्वपेत् ।   
 अ᳓परुद्धो वाऽपरुध्य᳓मानो वा +++(एतं चरुं निर्वपेत् )+++..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,6 +179,7 @@ He who has been expelled or is being expelled should offer an oblation to the Ad
 
 2धारयद्वद्भ्य इति ॥ धारयच्छब्दवत्त्वाद्याज्यानुवाक्ययोः, यथा'धारयन्त अदित्यासः' तिस्रो भूमीर्धारयन्' इति । अत्रापि पूर्ववद्भत्वाभावः, अयस्मयादित्वाद्वा उभयत्र पदत्वम् । अपरुद्ध इत्यादि । अपरुद्धो राजान्तरेणापहृतराष्ट्रः । स एतं चरुं निर्वपेत् पुना राष्ट्रं लप्सीयेति । अपरुद्ध्यमानो वा राजान्तरेणापजिहीर्षितराष्ट्रः । स वा निर्वपेदिमं चरुं मा मा राष्ट्रं हासीदिति ।
 </details>
+</details>
 
 ## अपरुद्धराष्ट्रावगतिकामस्य आदित्यश्चरुः
 
@@ -163,6 +187,8 @@ He who has been expelled or is being expelled should offer an oblation to the Ad
 
 आदित्या᳓ वा᳓ अपरोद्धा᳓रः , आदित्या᳓ अवगमयिता᳓रः , आदित्या᳓नेव᳓ धार᳓यद्वतः ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -189,11 +215,14 @@ the Adityas are the expellers, the Adityas are the procurers;
 
 धारयतेः 'दाधर्तिदर्धर्ति' इत्यादिना निपात्यते । ततश्चायमनपरुद्ध्यः अपरोद्धुमशक्यो भवति । छान्दसो यत् ; 'ययतोश्चादर्थे' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -209,11 +238,14 @@ verily he has recourse to the Adityas, the sustainers [1] with their own share;
 
 स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एवै᳓नव्ँविशि᳓ दाध्रति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,11 +261,14 @@ verily they support him in the people;
 
 ते । ए॒व । ए॒न॒म् । वि॒शि । दा॒ध्र॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनपरुध्यो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -249,18 +284,24 @@ he is unexpellable.
 
 अ॒न॒प॒रु॒ध्य इत्य॑नप-रु॒ध्यः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 ## अपरुद्ध्यमानस्य प्रतिबन्धतारतम्येन प्रयोगविशेषाः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अदि॒तेऽनु॑ मन्य॒स्वेत्य॑परु॒ध्यमा॑नोऽस्य प॒दमा द॑दीते॒यव्ँ वा अदि॑तिरि॒यमे॒वास्मै॑ रा॒ज्यमनु॑ मन्यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दिते᳓ऽनु मन्यस्व᳓, इ᳓त्यपरुध्य᳓मानोऽस्य पद᳓मा᳓ ददीत  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,11 +324,14 @@ he is unexpellable.
 
 हे अदिते अखण्डिते पृथिवि मामनुमन्यस्व अनुजानीहि राज्यप्राप्तिमिति । गतमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓ अ᳓दितिः,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -303,11 +347,14 @@ Aditi is this (earth);
 
 इ॒यम् । वै । अदि॑तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इय᳓मेवा᳓स्मै राज्य᳓म᳓नु मन्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,16 +370,22 @@ verily she confirms the kingdom for him;
 
 इ॒यम् । ए॒व । अ॒स्मै॒ । रा॒ज्यम् । अन्विति॑ । म॒न्य॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒त्याशीरित्या॑ह स॒त्यामे॒वाशिष॑ङ्कुरुते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्या᳓शी᳓रि᳓त्याह ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +406,14 @@ verily she confirms the kingdom for him;
 
 4अथ तान् पांसून् यजमानस्याञ्जलौ आवपति - सत्याशीरिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्या᳓मेवा᳓शि᳓षङ्कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -378,16 +434,22 @@ verily he makes the blessing come true;
 
 सत्या अमोघफला आशीः प्रार्थना अस्य, अयमस्माकमनुपरुद्धो भवत्विति यावत् । गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒ह  मन॒ इत्या॑ह प्र॒जा ए॒वास्मै॒ सम॑नसᳵ करो॒ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ म᳓न इ᳓त्याह,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,11 +474,14 @@ verily he makes the blessing come true;
 
 ततस्सर्वा अस्मै समनसः अस्मिन्नेव सक्तमनसः करोति, ततोनपरुद्धो भवतीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ एवा᳓स्मै स᳓मनसᳵ करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,16 +497,22 @@ verily he makes the people of one mind with him;
 
 प्र॒जा इति॑ प्र-जाः । ए॒व । अ॒स्मै॒ । सम॑नस॒ इति॒ स-म॒न॒सः॒ । क॒रो॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उप॒ प्रेत॑ मरुतः [2]  सु॒दा॒न॒व॒ ए॒ना वि॒श्पति॑ना॒भ्य॑मुँ राजा॑न॒मित्या॑ह मारु॒ती वै विड्ज्ये॒ष्ठो वि॒श्पति॑र्वि॒शैवनँ॑ रा॒ष्ट्रेण॒ सम॑र्धयति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓प प्रे᳓त मरुत सुदानव एना᳓ विश्प᳓तिना..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,11 +533,14 @@ verily he makes the people of one mind with him;
 
 6अथ पदपांसूनादाय हरति - उप प्रेतेति द्विपदया जगत्या ॥ सामर्थ्याच्चायं मन्त्रोञ्जल्यावपनमन्त्रात्पूर्वो द्रष्टव्यः । हे मरुतस्सुदानवः सुष्ठु दातारोभिमतानां उपप्रेत उपसम्प्राप्नुत एना अनेनावरोधकेन । 'सुपां सुलुक्' इति तृतीयाया आजादेशः । विश्पतिना राज्ञा सह उपप्रेत । अयस्मयादित्वेन भत्वाद्विशो जश्त्वाभावः, तेनानवग्रहः, 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓भ्यमुँ᳓ रा᳓जानमि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,11 +562,14 @@ the people are connected with the Maruts, the lord of the people is the highest;
 अमुमपरुद्ध्यमानं वीरसिंहवर्माणं राजानमभि इममभिमुखीकृत्येममनपरुद्धं कर्तुमुपप्रेतेति ।
 । मरुतां राज्ञां च विशामधिपतित्वाद्विशा राष्ट्रेण समृद्धमेव करोति, एतन्मन्त्रसामर्थ्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुती᳓ वै᳓ वि᳓ड् , ज्येष्ठो᳓ विश्प᳓तिः , विशै᳓व᳓नँ राष्ट्रे᳓ण स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -513,18 +590,24 @@ verily he unites him with the people and the realm.
 
 अथ तान् पांसून् सञ्चरे अपरोद्धुर्मार्गे परावपति । अत्र यं यजमानो द्वेष्टि तं मनसा ध्यायति । अथ चरुणा यजेतेति । एवमपरुद्ध्यमानोनपरुद्धो भवति ॥
 </details>
+</details>
 
 ## अपरुद्धराष्ट्रावगतये इष्ट्यन्तरम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यᳶ प॒रस्ता॑द्ग्राम्यवा॒दी स्यात्तस्य॑ गृ॒हाद्व्री॒हीना ह॑रेच्छु॒क्लाँश्च॑ कृ॒ष्णाँश्च॒ वि चि॑नुया॒द्ये शु॒क्लास्स्युस्तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेदादि॒त्या वै दे॒वत॑या॒ विड्विश॑मे॒वाव॑ गच्छति [3] अव॑गतास्य॒ विडन॑वगतँ रा॒ष्ट्रमित्या॑हु॒र्ये कृ॒ष्णास्स्युस्तव्ँ वा॑रु॒णञ्च॒रुन्निर्व॑पेद्वारु॒णव्ँ वै रा॒ष्ट्रमु॒भे ए॒व विश॑ञ्च रा॒ष्ट्रञ्चाव॑ गच्छति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पर᳓स्ताद्ग्राम्यवादी᳓ स्या᳓त् ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -549,11 +632,14 @@ From the house of a village judge further on he should take rice;
 
 तस्याप्या[अप्या]दित्यत्वादादीत्याया विशोवगत्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य गृहा᳓द्व्रीही᳓ना᳓ हरेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,11 +655,14 @@ he should separate out the white and the black;
 
 तस्य॑ । गृ॒हात् । व्री॒हीन् । एति॑ । ह॒रे॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाँ᳓श्च कृष्णाँ᳓श्च वि᳓ चिनुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -589,11 +678,14 @@ of the white he should offer an oblation to the Adityas;
 
 शु॒क्लान् । च॒ । कृ॒ष्णान् । च॒ । वीति॑ । चि॒नु॒या॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ शुक्ला᳓स्स्यु᳓स्त᳓मादित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -609,11 +701,14 @@ the people have the Adityas for their deity;
 
 ये । शु॒क्लाः । स्युः । तम् । आ॒दि॒त्यम् । च॒रुम् । निरिति॑ । व॒पे॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓ वै᳓ देव᳓तया वि᳓ड्, वि᳓शमेवा᳓व गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -629,12 +724,15 @@ verily he attains the people [3];
 
 आ॒दि॒त्या । वै । दे॒वत॑या । विट् ॥ विश॑म् । ए॒व । अवेति॑ । ग॒च्छ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वगतास्य वि᳓ट्  ।  
 अ᳓नवगतँ राष्ट्र᳓मि᳓त्याहुः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,11 +756,14 @@ verily he attains the people [3];
 
 अथाहुः - एवमनेन चरुणास्यापरुद्धस्य विडवगता लब्धा भवति, राष्ट्रं त्वनवगतमेवेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓ कृष्णा᳓स्स्यु᳓स्तव्ँ᳓ वारुण᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -683,11 +784,14 @@ of the dark ones he should offer an oblation to Varuna;
 
 तस्मात्कृष्णान् व्रीहीन्वारुणं चरुं निर्वपेत् । तत्रास्य वारुणत्वाद्वारुणस्य राष्ट्रस्यावगत्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणव्ँ᳓ वै᳓ राष्ट्र᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -703,11 +807,14 @@ the realm is connected with Varuna;
 
 वा॒रु॒णम् । वै । रा॒ष्ट्रम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभे᳓ एव᳓ वि᳓शञ्च राष्ट्र᳓ञ्चा᳓व गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -728,16 +835,22 @@ verily he attains both the people and the realm.
 
 तस्मासदेवमुभयोः कृतयोः विशं राष्ट्रं च कृते गते अप्यवगच्छति । 'इमं मे वरुण' 'तत्त्वा यामि' इत्यस्य याज्यानुवाक्ये ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदि॒ नाव॒गच्छे॑दि॒मम॒हमा॑दि॒त्येभ्यो॑ भा॒गन्निर्व॑पा॒म्यामुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रिति॒ निर्व॑पेदादि॒त्या ए॒वैन॑म्भाग॒धेय॑म्प्रे॒प्सन्तो॒ विश॒मव॑ [4]  ग॒म॒य॒न्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि ना᳓वग᳓च्छेत्  इम᳓मह᳓म्  +++(निर्वपेत्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -760,11 +873,14 @@ Should he not attain (them), he should offer (saying), 'To the Adityas this port
 
 अथैवं कृतेपि वारुणे यदि राष्ट्रं नावगच्छेत् न लभेत ततः 'इममहम्' इत्यादिना मन्त्रेण पुनरादित्येभ्यो निर्वपेत् । अथ निरुप्योपनमति न संसादयति, अथावगते राष्ट्रं सांसादयति । अत्र 'यज्ञो देवानाम्' 'आदित्यानामवसा' याज्यानुवाक्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यो भाग᳓न्नि᳓र्वपामि᳓ , आ᳓मु᳓ष्मादमु᳓ष्यै विशो᳓ऽवगन्तोरि᳓ति नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -780,11 +896,14 @@ verily the Adityas desiring the portion make him attain the people [4].
 
 आ॒दि॒त्येभ्यः॑ । भा॒गम् । निरिति॑ । व॒पा॒मि॒ । एति॑ । अ॒मुष्मा॑त् । अ॒मुष्यै॑ । वि॒शः । अव॑गन्तो॒रित्यव॑-ग॒न्तोः॒ । इति॑ । निरिति॑ । व॒पे॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓ एवै᳓नम्भागधे᳓यम्प्रेप्स᳓न्तो वि᳓शम᳓व [4] गमयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -811,16 +930,22 @@ Should he not attain (them), he should knock in seven pegs of Aśvattha wood in 
 
 'भावलक्षणे स्थेण्' इति तोसुन्, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदि॒ नाव॒गच्छे॒दाश्व॑त्थान्म॒यूखा॑न्त्स॒प्त म॑ध्यमे॒षाया॒मुप॑ हन्यादि॒दम॒हमा॑दि॒त्यान्ब॑ध्ना॒म्यामुष्मा॑द॒मुष्यै॑ वि॒शोऽव॑गन्तो॒रित्या॑दि॒त्या ए॒वैन॑म्ब॒द्धवी॑रा॒ विश॒मव॑ गमयन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि ना᳓वग᳓च्छेत् ,आ᳓श्वत्थान्मयू᳓खान्त्सप्त᳓ मध्यमेषा᳓यामु᳓प हन्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -843,12 +968,15 @@ Should he not attain (them), he should offer this oblation to the Adityas
 
 अत्रायं प्रयोगः - प्रागीषमनोवस्थाप्य तत्र मध्यमेषायां मध्यममुपहत्य त्रीन् प्रतीचस्त्रीन् प्राचः आयातयति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓मह᳓मादित्या᳓न्बध्नामि᳓, आ᳓मु᳓ष्मादमु᳓ष्यै विशो᳓ऽवगन्तोः इ᳓ति ,  
 आदित्या᳓ एवै᳓नम्बद्ध᳓वीरा वि᳓शम᳓व गमयन्ति़ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -871,16 +999,22 @@ and attach pegs to the kindling-wood;
 अथैवं कृते बद्धवीरा आदित्या आत्मवीर्यमोक्षार्थं विशमवगमयन्ति राष्ट्रं च ।   
 मन्त्रार्थस्तु - इदमिति क्रियाविशेषणम् । अहमादीत्यानिदं बध्नति । अमुष्मादित्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदि॒ नाव॒गच्छे॑दे॒तमे॒वादि॒त्यञ्च॒रुन्निर्व॑पेदि॒ध्मेऽपि॑ म॒यूखा॒न्त्सन्न॑ह्येदनपरु॒ध्यमे॒वाव॑ गच्छ॒त्याश्व॑त्था भवन्ति म॒रुताव्ँ॒वा ए॒तदोजो॒ यद॑श्व॒त्थ ओज॑सै॒व विश॒मव॑ गच्छति स॒प्त भ॑वन्ति स॒प्तग॑णा॒ वै म॒रुतो॑ गण॒श ए॒व विश॒मव॑ गच्छति ॥ [5]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि ना᳓वग᳓च्छेदेत᳓मेवा᳓दित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -901,11 +1035,14 @@ verily he attains what cannot be taken away.
 
 10एवं कृते यदि नावगच्छेद्राष्ट्रं विड्वा एतमनन्तरं विहितमादित्मं चरुं निर्वपेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इध्मे᳓ऽपि मयू᳓खान्त्स᳓न्नह्येत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -926,11 +1063,14 @@ verily he attains what cannot be taken away.
 
 इध्मेपि सप्ताश्वत्थान् सहेध्मेनाभ्यादध्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनपरुध्य᳓मेवा᳓व गच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -951,11 +1091,14 @@ the Aśvattha is the might of the Maruts; verily with might he attains the peopl
 
 एवं कृतेवश्यमनपरुध्यं पुनः केन चिदप्यवरोद्धुमशक्यं राष्ट्रं विशं च अवगच्छति लभते । पूर्ववदन्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓श्वत्था भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -976,6 +1119,7 @@ seven are they,
 
 आश्वत्था इत्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -983,6 +1127,8 @@ seven are they,
 य᳓दश्वत्थ᳓ ओ᳓जसैव᳓ वि᳓शम᳓व गच्छति ।  
 सप्त᳓ भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1005,11 +1151,14 @@ the Maruts are in seven troops;
 
 मरुतामोजस्त्वमत्युच्छ्रितत्वेन मरुतामचलव्यक्तिस्थानत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓गणा वै᳓ मरु᳓तो गणश᳓ एव᳓ वि᳓शम᳓व गच्छति ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1031,4 +1180,5 @@ verily in troops he attains the people.
 गणश इति । 'सङ्ख्यैकवचनाच्च' इति शम्, 'बहुगण' इति सङ्ख्यासंज्ञा । गणंगणं विशोवगच्छति ॥
 
 इति द्वितीये तृतीये प्रथमोनुवाकः ॥  
+</details>
 </details>

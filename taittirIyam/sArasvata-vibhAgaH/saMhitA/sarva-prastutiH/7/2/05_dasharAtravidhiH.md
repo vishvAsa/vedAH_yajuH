@@ -2,22 +2,30 @@
 title = "०५ दशरात्रविधिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अथ चत्वारो दशरात्राः - त्रिककुत् प्रथमः । देवपुरा द्वितीयः । छन्दोमवान् तृतीयः । कौसुरुबिन्दश्चतुर्थः ।
 </details>
+</details>
 
 ## फलम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तिरकामयत॒ प्र जा॑ये॒येति॒ स ए॒तन्दश॑होतारमपश्य॒त्तम॑जुहो॒त्तेन॑ दशरा॒त्रम॑सृजत॒ तेन॑ दशरा॒त्रेण॒ प्राजा॑यत दशरा॒त्राय॑ दीक्षि॒ष्यमा॑णो॒ दश॑होतारञ्जुहुया॒द्दश॑होत्रै॒व द॑शरा॒त्रँ सृ॑जते॒ तेन॑ दशरा॒त्रेण॒ प्र जा॑यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् अकामयत - प्र᳓ जायेये᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +46,14 @@ Prajapati desired, 'May I be propagated.'
 
 1अथ चत्वारो दशरात्राः - त्रिककुत्प्रथमः । देवपुरा द्वितीयः । छन्दोमवान् तृतीयः । कौसुरुबिन्दश्चतुर्थः । तत्र प्रथमो विधीयते - प्रजापतिरित्यादि ॥ प्रजायेय प्रजावान् स्यामिति प्रजापतिरकामयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓न् द᳓शहोतारम्+++(='चित्तिस्स्रुक्' इत्यादिकं)+++ अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,11 +74,14 @@ He saw this Daśahotr,
 
 स एतं दशहोतारं 'चित्तिस्स्रुक्' इत्यादिकं अपश्यत् । दशभूतान्याह्वानानि 'आत्मन्नात्मन्' इति स दशहोता । 'तं वा एतं दशहूतं सन्तम् । दशहेतित्याचक्षते परोक्षेण' इति ब्राह्मणम् । 'ऋतः छन्दसि' इति कबाभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् अजुहोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,11 +102,14 @@ and offered it.
 
 तमित्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न दशरात्र᳓म् असृजत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,11 +125,14 @@ By this he created (the rite) of ten nights,
 
 तेन॑ । द॒श॒रा॒त्रमिति॑ दश-रा॒त्रम् । अ॒सृ॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न दशरात्रे᳓ण प्रा᳓जायत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,11 +148,14 @@ and by this (rite) often nights he was propagated.
 
 तेन॑ । द॒श॒रा॒त्रेणेति॑ दश-रा॒त्रेण॑ । प्रेति॑ । अ॒जा॒य॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशरात्रा᳓य दीक्षिष्य᳓माणो द᳓शहोतारञ् जुहुयात्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,11 +176,14 @@ If one is about to consecrate oneself for (the rite) of ten nights one should of
 
 दशरात्राय दीक्षिष्यमाणः दशहोतारं मनसाऽनुद्रुत्य आहवनीये जुहुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शहोत्रैव᳓ दशरात्रँ᳓ सृजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,11 +204,14 @@ verily he creates by the Daśahotr (the rite) of ten nights,
 
 तेन होमेन दशरात्रं सृष्ट्वा
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न दशरात्रे᳓ण प्र᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -203,17 +232,23 @@ and by (the rite) of ten nights he is propagated.
 
 तेन दशरात्रेण प्रजायते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वैरा॒जो वा ए॒ष य॒ज्ञो यद्द॑शरा॒त्रो य ए॒वव्ँवि॒द्वान्द॑शरा॒त्रेण॒ यज॑ते वि॒राज॑मे॒व ग॑च्छति प्राजाप॒त्यो वा ए॒ष य॒ज्ञो [13]  
 यद्द॑शरा॒त्रो य ए॒वव्ँवि॒द्वान्द॑शरा॒त्रेण॒ यज॑ते॒ प्रैव जा॑यते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दशत्वान्वयाद्)+++ वै᳓राजो᳓ वा᳓ एष᳓ यज्ञो᳓ य᳓द् दशरात्रः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,11 +269,14 @@ The sacrifice of ten nights is connected with the Viraj.
 
 2वैराज इत्यादि ॥ गतम् । दशत्वान्वयाद्वैराजः,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दशरात्रे᳓ण य᳓जते, विरा᳓जम् एव᳓ गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -254,11 +292,14 @@ He, who knowing thus sacrifices with (the rite) of ten nights, attains the Viraj
 
 यः । ए॒वम् । वि॒द्वान् । द॒श॒रा॒त्रेणेति॑ दश-रा॒त्रेण॑ । यज॑ते । वि॒राज॒मिति॑ वि-राज॑म् । ए॒व । ग॒च्छ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राजापत्यो᳓ वा᳓ एष᳓ यज्ञो᳓ , य᳓द् दशरात्रः᳓ [13] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,11 +320,14 @@ The sacrifice of ten nights is connected with Prajapati [1].
 
 प्रजापतिना सृष्टत्वात्प्राजापत्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दशरात्रे᳓ण य᳓जते , प्रै᳓व᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -304,16 +348,22 @@ He, who knowing thus sacrifices with (the rite) of ten nights, is propagated.
 
 प्रैव जायते इति । प्रजापतिवत्प्राजापत्यस्यापि प्रजाहेतुत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॒ वै स॒दृङ्दे॒वता॑भिरासी॒त्स न व्या॒वृत॑मगच्छ॒त्स प्र॒जाप॑ति॒मुपा॑धाव॒त्तस्मा॑ ए॒तन्द॑शरा॒त्रम्प्रा॑यच्छ॒त्तमाह॑र॒त्तेना॑यजत॒ ततो॒ वै सो॑ऽन्या॑भिर्दे॒वता॑भि॒र्व्यावृत॑मगच्छ॒द्य ए॒वव्ँवि॒द्वान्द॑शरा॒त्रेण॒ यज॑ते व्या॒वृत॑मे॒व पा॒प्मना॒ भ्रातृ॑व्येण गच्छति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो वै᳓ सदृ᳓ङ् देव᳓ताभिर् आसीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,11 +384,14 @@ Indra was on a level with the gods,
 
 3इन्द्रो वा इत्यादि ॥ सदृक् सदृशः ...
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ न᳓ व्यावृ᳓तम् अगच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,11 +407,14 @@ he was not separated from them.
 
 सः । न । व्या॒वृत॒मिति॒ वि-आ॒वृत॑म् । अ॒ग॒च्छ॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रजा᳓पतिम् उ᳓पाधावत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,11 +430,14 @@ He ran up to Prajapati;
 
 सः । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । उप॑ । अ॒धा॒व॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एत᳓न् दशरात्र᳓म् प्रा᳓यच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +453,14 @@ he gave him this (rite) of ten nights.
 
 तस्मै॑ । ए॒तम् । द॒श॒रा॒त्रमिति॑ दश-रा॒त्रम् । प्र । अ॒य॒च्छ॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मा᳓हरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,11 +476,14 @@ He grasped it,
 
 तम् । आ । अ॒ह॒र॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नायजत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -434,11 +499,14 @@ and sacrificed with it.
 
 तेन॑ । अ॒य॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ सो᳙ऽन्या᳓भिर् देव᳓ताभिर् व्यावृ᳓तम् अगच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,11 +527,14 @@ Then indeed he became separated from the other gods.
 
 देवताभिर्व्यावृत्तिः तत्साधारणधर्मनिवृत्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दशरात्रे᳓ण य᳓जते , व्या᳓वृत᳓म् एव᳓ पाप्म᳓ना भ्रातृ᳓व्येण गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -484,17 +555,23 @@ He, who knowing thus sacrifices with (the rite) of ten nights, attains separatio
 
 पाप्मना तु व्यावृत्तिः तस्यैव निवृत्तिः, तस्यात्माश्रयत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रिक॒कुद्वै [14]  
 ए॒ष य॒ज्ञो यद्द॑शरा॒त्रᳵ क॒कुत्प॑ञ्चद॒शᳵ क॒कुदे॑कविँ॒शᳵ क॒कुत्त्र॑यस्त्रिँ॒शः
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि॒ककु᳓द् वा᳓ एष᳓ यज्ञो᳓ य᳓द् दशरात्रः [14] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,11 +592,14 @@ The sacrifice of ten nights has three eminences [2];
 
 4त्रिककुदित्यादि ॥ ककुदत्युन्नतः । निरुदकादित्वादुत्तरपदान्तोदात्त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ककु᳓त् पञ्चदशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -540,11 +620,14 @@ the Pañcadaśa (Stoma) is one eminence;
 
 अथ तान्येवोन्नतानि दर्शयति - ककुत्पञ्चदश इत्यादि । अत्रेयमहः कॢप्तिः - त्रिवृदग्निष्टोमावभितः, मध्ये पञ्चदश उक्थ्य उन्नतः । सप्तदशाग्निष्टोमावभितः, एकविंश उक्थ्य उन्नतः । त्रिणवाग्निष्टोमावभितः, मध्ये त्रयस्त्रिंश उक्थ्य उन्नतः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ककु᳓द् एकविँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,11 +643,14 @@ the Ekavinśa one eminence,
 
 क॒कुत् । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ककु᳓त् त्रयस्त्रिँशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -580,16 +666,22 @@ the Trayastrinśa one eminence.
 
 क॒कुत् । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 य ए॒वव्ँवि॒द्वान्द॑शरा॒त्रेण॒ यज॑ते त्रिक॒कुदे॒व स॑मा॒नाना॑म्भवति॒ यज॑मानᳶ पञ्चद॒शो यज॑मान एकविँ॒शो यज॑मानस्त्रयस्त्रिँ॒शः पुर॒ इत॑राः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दशरात्रे᳓ण य᳓जते त्रिककु᳓द् एव᳓ समाना᳓नाम् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -610,11 +702,14 @@ He, who knowing thus sacrifices with (the rite) of ten nights, becomes thrice em
 
 5य एवमित्यादि ॥ समानानां मध्ये त्रिककुत् त्रिभिः ककुद्भिरुन्नतैः विद्याप्रजाधनैर्युक्तो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज॑मानᳶ पञ्चद॒शः ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,11 +730,14 @@ The sacrificer is the Pañcadaśa;
 
 यजमान इत्यादि । यजमानः पञ्चदशादिः मध्ये राजवद्गोपनीयः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज॑मान एकविँ॒शः ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -655,11 +753,14 @@ the sacrificer the Ekavimśa,
 
 यज॑मानः । ए॒क॒विँ॒श इत्ये॑क-विँ॒शः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज॑मानस्त्रयस्त्रिँ॒शः ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -675,11 +776,14 @@ the sacrificer the Trayastrinśa,
 
 यज॑मानः । त्र॒य॒स्त्रिँ॒श इति॑ त्रयः-त्रिँ॒शः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुर॒ इत॑राः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -705,18 +809,24 @@ and the others are the citadels.
 
 पुरः = प्राकाराः
 </details>
+</details>
 
 ## विधानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अभिच॒र्यमा॑णो दशरा॒त्रेण॑ यजेत देवपु॒रा ए॒व पर्यू॑हते॒ तस्य॒ न कुत॑श्च॒नोपा॑व्या॒धो भ॑वति॒ नैन॑मभि॒चर॑न्त्स्तृणुते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒भिच॒र्यमा॑णो दशरा॒त्रेण॑ यजेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -737,11 +847,14 @@ If a man have witchcraft practised against him, he should sacrifice with (the ri
 
 6अभिचर्यमाण इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वपु॒रा ए॒व पर्यू॑हते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,11 +875,14 @@ verily he surrounds himself with the divine citadels;
 
 देवपुराः देवानां पुरस्थानीयानि पुरविवक्षया इतराण्यहानि पर्यूहन्ते सर्वतो नयन्ति आत्मनो रक्षार्थम् । 'ऋक्पूः' इति समासान्तः परवल्लिङ्गता च, 'उपसर्गादस्यत्यूह्योः' इति आत्मनेपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य᳓ न कुत᳓श्चनोपाव्याधो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -787,11 +903,14 @@ no harm whatever can befall him,
 
 तस्य यजमानस्य कस्मादप्युपाव्याधः अभिचारादिबाधा न भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नै᳓नम् अभिचर᳓न् स्तृणुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -812,19 +931,25 @@ the practiser of witchcraft overcomes him not.
 
 न चैनमभिचरंस्तृणुते छादयति ॥
 </details>
+</details>
 
 ## फलान्तरम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवासु॒रास्सय्ँय॑त्ता आस॒न्ते दे॒वा ए॒ताः [15]  
 दे॒व॒पु॒रा अ॑पश्य॒न्यद्द॑शरा॒त्रस्ताः पर्यौ॑हन्त॒ तेषा॒न्न कुत॑श्च॒नोपा॑व्या॒धोऽभव॒त्ततो॑ दे॒वा अभ॑व॒न्परासु॑रा॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स् सय्ँय᳓त्ता आसन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -845,11 +970,14 @@ The gods and the Asuras were in conflict.
 
 7देवासुरा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ एता᳓ देवपु᳓रा अपश्यन् य᳓द् दशरात्रः᳓ [15]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -870,11 +998,14 @@ The gods [3] saw in (the rite) of ten nights the divine citadels.
 
 ते देवाः देवपुराख्यानि दशरात्रसम्बन्धीन्यहानि । तदेवाह - यद्दशरात्र इति । दशरात्रावयवभूता इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताᳶ पर्यौ᳓हन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -895,11 +1026,14 @@ They surrounded themselves with them;
 
 ता एव देवपुराः पर्यौहन्त परितो रक्षार्थं कृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषा᳓न् न कुत᳓श्चनोपाव्याधो᳙ऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -920,11 +1054,14 @@ no harm whatever befell them;
 
 तेषामित्यादि । गतम् ॥ +++(विस्तृतव्याख्यानमन्यत्र मृग्यम्)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो᳓ देवा᳓ अभवन् परा᳓ऽसुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -940,11 +1077,14 @@ then the gods prospered, the Asuras were defeated.
 
 ततः॑ । दे॒वाः । अ॒भ॒व॒न् । परा॑ । असु॑राः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो भ्रातृ᳓व्यवा᳓न्त्स्यात् स᳓ दशरात्रे᳓ण यजेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -960,11 +1100,14 @@ He who has enemies should sacrifice with (the rite) of ten nights;
 
 यः । भ्रातृ॑व्य-वान् । स्यात् । सः । द॒श॒रा॒त्रेणेति॑ दश-रा॒त्रेण॑ । य॒जे॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे॒वपु॒रा ए॒व पर्यू॑हते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -980,11 +1123,14 @@ verily he surrounds himself with the divine citadels;
 
 दे॒व॒पु॒रा इति॑ देव-पु॒राः । ए॒व । परि॑ । ऊ॒ह॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य᳓ न कुत᳓श्चनोपाव्याधो᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1000,11 +1146,14 @@ no harm whatever befalls him;
 
 तस्य॑ । न । कुतः॑ । च॒न । उप॑-अव्याधः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भव᳓त्यात्म᳓ना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1020,11 +1169,14 @@ he prospers
 
 भव॑ति । आ॒त्मना॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परा᳓स्य भ्रातृ᳓व्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1040,18 +1192,24 @@ and his enemy is defeated.
 
 परा॑ । अस्य॑ । भ्रातृ॑व्यः । भ॒व॒ति॒ ।
 </details>
+</details>
 
 ## सामविन्यासः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स्तोम॒स्स्तोम॒स्योप॑स्तिर्भवति॒ भ्रातृ॑व्यमे॒वोप॑स्तिङ्कुरुते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तोम᳓स् स्तोम᳓स्य उप᳓स्तिर्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1072,11 +1230,14 @@ Stoma serves Stoma;
 
 8स्तोमस्स्तोमस्येत्यादि ॥ गतम् । त्रिवृदादिस्स्तोमः अभितस्स्थितः स्तोमस्य पञ्चदशादेर्मध्ये स्थितस्य उपस्तिः हीनप्राणमाधारकाष्ठं भवति । तेनोपस्तिभूतेन मध्यस्थो धार्यते । समीपे भवतीत्युपस्तिः । अस्तेः क्तिनि 'छन्दस्युभयथा' इति सार्वधातुकत्वात् 'श्नसोरल्लोपः' इत्यकारलोपः भूभावश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातृ᳓व्यमेव᳓ उप᳓स्तिङ् कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1097,17 +1258,23 @@ verily he makes his enemy his servant.
 
 भ्रातृव्यमुपस्तिहीनं करोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 जा॒मि वै [16]  
 ए॒तत्कुर्वन्ति॒ यज्ज्यायाँ॑सँ॒ स्तोम॑मु॒पेत्य॒ कनी॑याँसमुप॒यन्ति॒ यद॑ग्निष्टोमसा॒मान्य॑व॒स्ताच्च॑ पर॒स्ताच्च॑ भव॒न्त्यजा॑मित्वाय
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जामि᳓ वा᳓ एतत् कुर्वन्ति, यज् ज्यायाँ᳓सम् स्तोम᳓म् उपेत्य᳓ कनी᳓यांसम् उपय᳓न्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1128,11 +1295,14 @@ In that they perform the lesser Stoma after per forming the greater there is uni
 
 9जामि वा इत्यादि ॥ जामि आलस्य दोषवत् यत् ज्यायांसं महान्तं पञ्चदशादिकं स्तोममुपेत्य कनीयांसं त्रिवृदादिकमुपयन्ति एतद्विपरीतं भवति । अतो जाम्येतत्कुर्वन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अग्निष्टोमसा᳓मानि अव᳓स्ताच् च पर᳓स्ताच् च भव᳓न्त्य् अजामि᳓त्वाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1153,19 +1323,25 @@ to break the uniformity the Agnistoma Samans are before and after (the greater S
 
 तत्र समाधानमाह - यस्मादग्निष्टोमसामानि अवस्तात् पुरस्तात् परस्तादुपरिष्टाच्च त्र्यहस्य भवन्ति तदजामित्वाय भवति । तस्य प्रकृतित्वेन प्राधान्यात् तस्योपरिभावेऽपि नास्ति दोष इति ॥
 </details>
+</details>
 
 ### प्रतिदिनविन्यासः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रि॒वृद॑ग्निष्टो॒मो॑ऽग्नि॒ष्टुदा॑ग्ने॒यीषु॑ भवति॒ तेज॑ ए॒वाव॑ रुन्द्धे पञ्चद॒श उ॒क्थ्य॑ ऐन्द्री॒षु॑ भव॒तीन्द्रि॒यमे॒वाव॑ रुन्द्धे त्रिवृद॑ग्निष्टो॒मो वै॑श्वदे॒वीषु॑ भवति॒ पुष्टि॑मे॒वाव॑ रुन्द्धे सप्तद॒शो॑ऽग्निष्टो॒मः प्रा॑जाप॒त्यासु॑ भवति तीव्रसो॒मोऽन्नाद्य॒स्याव॑रुद्ध्यै॒ [17]  
 अथो॒ प्रैव तेन॑ जायत एकविँ॒श उ॒क्थ्य॑स्सौ॒रीषु॑ भवति॒ प्रति॑ष्ठित्यै॒ अथो॒ रुच॑मे॒वाऽऽत्मन्ध॑त्ते सप्तद॒शो॑ऽग्निष्टो॒मः प्रा॑जाप॒त्यासु॑ भवत्युपह॒व्य॑ उपह॒वमे॒व ग॑च्छति त्रिण॒वाव॑ग्निष्टो॒माव॒भित॑ ऐन्द्री॒षु भ॑वतो॒ विजि॑त्यै त्रयस्त्रिँ॒श उ॒क्थ्यो॑ वैश्वदे॒वीषु॑ भवति॒ प्रति॑ष्ठित्यै वि॒श्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [18]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रथमदिने)+++ त्रिवृ᳓द् अग्निष्टोमो᳙ऽग्निष्टु᳓द् आग्नेयी᳓षु  +++(ऋक्षु)+++ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1186,11 +1362,14 @@ There is an Agnistoma, with the Trivrt (Stoma), in praise of Agni, with verses a
 
 10त्रिवृदित्यादि ॥ अग्निष्टुत् अग्निष्टोमविशेषः । सर्वाग्नेयस्त्रिवृत् । आग्नेयीषु ऋक्षु भवति तत्प्रथममहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ज एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1206,11 +1385,14 @@ verily he wins brilliance.
 
 तेजः॑ । ए॒व । अव॑ । रु॒न्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(द्वितीयदिने ककुत्स्थाने स्तोत्रं शस्त्रं च?)+++ पञ्चदश᳓ उक्थ्य᳙ ऐन्द्री᳓षु  +++(ऋक्षु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1231,11 +1413,14 @@ There is an Ukthya, with the Pañcadaśa (Stoma), and verses addressed to Indra;
 
 पञ्चदश उक्थ्यः ऐन्द्रीषु ऋक्षु भवति द्वितीयमहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रिय᳓म् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1251,11 +1436,14 @@ verily he wins power.
 
 इन्द्रि॒यम् । ए॒व । अव॑ । रु॒न्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तृतीयदिने)+++ त्रिवृ᳓द् अग्निष्टोमो᳓ वैश्वदेवी᳓षु  +++(ऋक्षु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1276,11 +1464,14 @@ There is an Agnistoma, with the Trivrt (Stoma), and verses addressed to the All-
 
 त्रिवृदग्निष्टोमः वैश्वदेवीषु ऋक्षु भवति तृतीयमहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिम् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1296,11 +1487,14 @@ verily he wins prosperity.
 
 पुष्टि॑म् । ए॒व । अव॑ । रु॒न्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशो᳙ ऽग्निष्टोमᳶ᳓ प्राजापत्या᳓सु तीव्रसोमः᳓+++(=उक्थ्यविशेषो यत्र शतम् आशिरे दुहन्ति)+++ । अन्ना᳓द्यस्य᳓ अ᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1321,11 +1515,14 @@ There is an Agni stoma, with the Saptadaśa (Stoma), and verses addressed to Pra
 
 सप्तदशोग्निष्टोमः प्राजापत्यासु ऋक्षु भवति तीव्रसोमो नामोक्थ्यविशेषः, यत्र शतमाशिरे दुहन्ति, तद्धर्मा स भवति चतुर्थमहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प्रै᳓व᳓ ते᳓न जायते [17] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1341,11 +1538,14 @@ verily also by it he is propagated [5].
 
 अथो॒ इति॑ । प्रेति॑ । ए॒व । तेन॑ । जा॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पञ्चम-दिने ककुदि)+++ एकविँश᳓ उक्थ्य᳙स् सौरी᳓षु +++(ऋक्षु)+++ प्र᳓तिष्ठित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1366,11 +1566,14 @@ There is an Ukthya with the Ekavinśa (Stoma), and verses addressed to the sun, 
 
 एकविंश उक्थ्यः सौरीषु ऋक्षु भवाति पञ्चममहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो रु᳓चम् एवा᳓ऽऽत्म᳓न् धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1386,11 +1589,14 @@ verily he places radiance in himself.
 
 अथो॒ इति॑ । रुच॑म् । ए॒व । आ॒त्मन् । ध॒त्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशो᳙ऽग्निष्टोमᳶ᳓ प्राजापत्या᳓सूपहव्यः᳙+++(=उपहवे साधुः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1411,11 +1617,14 @@ There is an Agnistoma, with the Saptadaśa (Stoma), and verses addressed to Praj
 
 सप्तदशोग्निष्टोमः प्राजापत्यासु एव ऋक्षु उपहव्यो भवति उपहवे साधुः षष्ठमहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓प᳓हव᳓मेव᳓+++(=पूजां)+++ गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1436,11 +1645,14 @@ verily he is invited by all.
 
 उपहवं पूजां गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिणवा᳓व् अग्निष्टोमा᳓व् +++(त्रयस्त्रिंशस्य)+++ अभि᳓त  ऐन्द्री᳓षु , वि᳓जित्यै।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1461,11 +1673,14 @@ There are two Agnistomas, with the Trinava (Stoma) on either side (of the Ukthya
 
 त्रिणवाग्निष्टोमावभितः त्रयस्त्रिंशस्य पुरस्तादुपरिष्टाच्च सप्तममहः । तावुभावविशेषात् ऐन्द्रीष्वृक्षु भवतः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अष्टमदिने ककुत्स्थाने)+++ त्रयस्त्रिँश᳓ उक्थ्यो᳙ वैश्वदेवी᳓षु प्र᳓तिष्ठित्यै।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1486,35 +1701,46 @@ There is an Ukthya, with the Trayastrinśa (Stoma) with verses addressed to the 
 
 त्रयस्त्रिंश उक्थ्यो वैश्वदेवीषु ऋक्षु भवति अष्टममहः ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/7/1/10_pancharAtravidhiH/vishvajit-vidhAnam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+विश्व॒जित्सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ सर्व॑स्या॒भिजि॑त्यै ॥ [39]  
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ [18]
+विश्वजि᳓थ् +++(सहस्रदक्षिणत्वादिधर्मः)+++ स᳓र्वपृष्ठो+++(=रथन्तर-बृहद्-वैरूप-वैराज-शाक्वर-रैवत-पृष्ठः)+++ ऽतिरात्रो᳓ भवति, स᳓र्वस्याभि᳓जित्यै ॥ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
-There is an Atiratra Viśvajit with all the Prsthas, for supremacy.
+There is a Viśvajit Atiratra, with all the Prstha (Stotras), for the winning of all.
 </details>
 
 <details><summary>मूलम्</summary>
 
-वि॒श्व॒जित् सर्व॑पृष्ठोऽतिरा॒त्रो भ॑वति॒ , सर्व॑स्या॒भिजि॑त्यै ॥ [18]
+वि॒श्व॒जित्सर्व॑पृष्ठो ऽतिरा॒त्रो भ॑वति॒ ,
+सर्व॑स्या॒भिजि॑त्यै ॥  
 </details>
 
 <details><summary>पद-पाठः</summary>
 
-वि॒श्व॒जिदिति॑ विश्व-जित् । सर्व॑पृष्ठ॒ इति॒ सर्व॑-पृ॒ष्ठः॒ । अ॒ति॒रा॒त्र इत्य॑ति-रा॒त्रः । भ॒व॒ति॒ ।   
-सर्व॑स्य । अ॒भिजि॑त्या॒ इत्य॒भि-जि॒त्यै॒ ॥ [18]
+वि॒श्व॒जिदिति॑ विश्व-जित् । सर्व॑पृष्ठ॒ इति॒ सर्व॑-पृ॒ष्ठः॒ । अ॒ति॒रा॒त्र इत्य॑ति-रा॒त्रः । भ॒व॒ति॒  ।     
+सर्व॑स्य । अ॒भिजि॑त्या॒ इत्य॒भि-जि॒त्यै॒ ॥  
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-विश्वजित्सर्वपृष्ठोतिरात्रः दशममहः भवति । पृष्ठसामानि रथन्तरादीनि रैवतान्तानि । विश्वञित् सहस्रदक्षिणादिलक्षणः ॥
+विश्वजित् सर्वपृष्ठोतिरात्र पञ्चममहः । विश्वजित् सहस्रदक्षिणत्वादिधर्मः सर्वपृष्ठः रथन्तरबृहद्वैरूपवैराजशाक्वररैवतपृष्ठः सर्वस्याभिजयार्थं भवति । सर्वपृष्ठः 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । त्रिवृदादयो निरुक्ताः ॥
 
-इति सप्तमे द्वितीये पञ्चमोनुवाकः ॥
+इति सप्तमे प्रथमे दशमोनुवाकः ॥
 </details>
-
+</details>
 </div>

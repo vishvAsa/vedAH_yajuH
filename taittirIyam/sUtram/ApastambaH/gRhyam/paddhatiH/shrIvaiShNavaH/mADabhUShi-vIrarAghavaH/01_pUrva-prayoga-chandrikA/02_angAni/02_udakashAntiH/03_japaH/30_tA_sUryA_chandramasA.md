@@ -7,15 +7,18 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 
 ##### सूर्याचन्द्रमसौ
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1अष्टमेऽन्नार्थपश्वादीनां सूक्तान्यभिहितानि । नवमे शुक्लकृष्णपश्वादीनां सूक्तान्युच्यन्ते । यदुक्तं सूत्रकारेण - 'सूर्याचन्द्रमोभ्यां यमौ श्वेतं च कृष्णं चैकयूपे' इति ।
 यमौ एकस्मिन् गर्भे सहोत्पन्नौ । तयोः पश्वोस्सूक्ते वपयोः पुरोनुवाक्यामाह ।
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 ता᳓ सूर्याचन्द्रम᳓सा विश्व-भृ᳓त्तमा मह᳓त् ।   
 ते᳓जो व᳓सुमद् **राजतो** दिवि᳓ ।  
@@ -23,10 +26,12 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 य᳓योर् व्रत᳓न् न᳓ **ममे᳓** जा᳓तु देव᳓योः ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
@@ -40,15 +45,20 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 ययोः सूर्याचन्द्रमसोर्देवयोः संबन्धि व्रतं कर्म जातु कदाचिदपि न ममे कश्चिदपि मातुं न शक्तः । एतदीयं कर्मैतावता फलेन युक्तमिति न कोऽपि परिच्छेत्तुं शक्रोति । तौ तथाविधौ सूर्याचन्द्रमसौ दिवि राजतः द्युलोके दीप्येते । कीदृशौ? विश्वभृत्तमा अतिशयेन विश्वस्य भर्तारौ पोषकौ अत एव महत् महान्तौ तेजः तेजस्विनौ वसुमत् धनवन्तौ । **साम**-शब्देन साम-भेदाद्युपायेषु चतुर्षु प्रथमोपायोऽभिधीयते । तदात्मकौ प्रजापालने सामोपायप्रधानावित्यर्थः । अत एव **सामचारिणौ** साम्नोपायेन सर्वजगदनुग्राहकप्रकाशरूपेण चरणशीलौ चरतः परिभ्रमतः ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपयोर् याज्याम् आह -
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 उभा᳓व् अ᳓न्तौ **प᳓रि यात** अ᳓र्म्या+++(=गत्या)+++ ।   
 दिवो᳓ न᳓ रश्मीँ᳓स् **तनुतो᳓ व्य्** अर्णवे᳓ ।   
@@ -56,10 +66,12 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 सू᳓र्या न᳓ चन्द्रा᳓ **चरतो** हता᳓-मती ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
@@ -74,15 +86,20 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 **दिवो न** दिवीव **अर्णवे** समुद्र-समाने ऽन्तरिक्षे **रश्मीन् वितनुतः** प्रसारयतः **भुवना भुवन्ती** लोकान् भावयन्ताव् उत्पादयन्तौ **कविक्रतू** कविर्मेधावी, क्रतुः कर्ता, कवी च तौ क्रतू च कविक्रतू हतामती हता विनाशिता प्राणिनाममतिरन्धकारनिमित्तमज्ञानं याम्यां तौ हतामती **सूर्या न चन्द्रा** सूर्यश्चन्द्रश्चेत्येतावुभौ **चरतः** संचारं कुरुतः ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह -
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 प᳓ती द्युम᳓द् विश्व-वि᳓दा उभा᳓ दिवः᳓ ।   
 सू᳓र्या उभा᳓ चन्द्र᳓मसा विचक्षणा᳓ ॥ 71 ॥  
@@ -90,10 +107,12 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 ता᳓ नो **ऽवतम्** मतिम᳓न्ता म᳓हिव्रता ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
@@ -107,15 +126,20 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 द्युमत् द्युमन्तौ दीप्तिमन्ताबुभौ देवौ विश्वविदा सर्वज्ञौ दिवः पती द्युलोकस्य पालकौ वर्तेते । सूर्याचन्द्रमसा सूर्याचन्द्रमसेत्येतावुभौ विचक्षणा कुशलौ । विश्ववारा विश्वेषां शत्रूणां निवारयितारौ । **वरिवा** वरिवस्यमानौ सर्वैः परिचर्यमाणावुभौ देवौ वरेण्या वरणीयौ मतिमन्तौ अत्यन्तबुद्धियुक्तौ महिव्रता महता व्रतेन कर्मणा युक्तौ । ईदृशौ तावुभौ नोऽस्मानवतं रक्षतम् ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ पुरोडशस्य याज्यामाह -
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 विश्व-व᳓परी+++(←वप्)+++ प्रत᳓रणा **तरन्ता᳓** ।   
 सुवर्-वि᳓दा दृश᳓ये भू᳓रि-रश्मी ।  
@@ -123,10 +147,12 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 मनस्वि᳓नोभा᳓ **ऽनुचरतो᳓** नु स᳓न् दि᳓वम् ।
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
@@ -140,15 +166,20 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 **विश्ववपरी** विश्वस्मिञ्जगति रश्मीन् आवप्तारौ विस्तारयितारौ **प्रहरणा** आपदां प्रकर्षेण तारयितारौ **तरन्ता** आकाशसमुद्रं तरन्ती **सुवर्विदा** स्वर्गस्य लम्भयितारौ दृशये सर्वलोकस्य दर्शनाय **भूरिरश्मी** प्रभूतदीप्ती **सूर्या हि चन्द्रा** सूर्यश्चन्द्रश्चेत्येवं प्रसिद्धौ **वसु** वासयितारौ **त्वेषदर्शता** दीप्त्या दर्शनीयौ **मनस्विना** दृढेन मनसा युक्तौ **उभा** देवाबुभौ नु क्षिप्रं दिवं द्युलोकमनुसंचरतः ॥
 </details>
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ हविषः पुरोनुवाक्यामाह -
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/102/02_asya_shravo.md">
-<details open><summary><h10>विश्वास-प्रस्तुतिः …{Loading}…</h10></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/102/02_asya_shravo.md">
+
+<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
 अस्य᳓ +++(→तवेन्द्रस्य)+++ श्र᳓वो नद्यः᳙ सप्त᳓ **बिभ्रति**  
 द्या᳓वाक्षा᳓मा पृथिवी᳓ दर्शतं᳓+++(=दर्शनीयं)+++ व᳓पुः ।  
@@ -156,17 +187,21 @@ title = "३० ‘ता सूर्या चन्द्रमसा’,"
 श्रद्धे᳓+++(=श्रद्धया)+++ क᳓म्+++(=सुखम्)+++ इन्द्र **चरतो** वि-तर्तुर᳓म्+++(=त्वरया)+++ ॥
 
 </details>
+
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/102/02_asya_shravo.md">
-<details><summary><h10>मूलम् …{Loading}…</h10></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/102/02_asya_shravo.md">
+
+<details><summary><h5>मूलम् …{Loading}…</h5></summary>
 
 अ॒स्य श्रवो॑ न॒द्यः॑ स॒प्त बि॑भ्रति॒ द्यावा॒क्षामा॑ पृथि॒वी द॑र्श॒तं वपुः॑ ।  
 अ॒स्मे सू॑र्याचन्द्र॒मसा॑भि॒चक्षे॑ श्र॒द्धे कमि॑न्द्र चरतो वितर्तु॒रम् ॥
 </details>
+
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/102/02_asya_shravo.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/102/02_asya_shravo.md">
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -473,15 +508,20 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. परमेश्वरनिर्मित पृथ्वी इत्यादी गोल व त्यात राहणारे पदार्थ आपापल्या रूपांना धारण करून सर्व प्राण्यांच्या दर्शनासाठी व श्रद्धेसाठी असून, सुख-दुःख उत्पन्न करून गमनागमन व्यवहारासाठी असतात; परंतु कोणत्याही प्रकारे विद्येशिवाय या सांसारिक पदार्थांनी सुख मिळत नाही. यामुळे सर्वांनी ईश्वराची उपासना व विद्वानांच्या संगतीने गोलांसंबंधी विद्या प्राप्त करून सदैव सुखी व्हावे. ॥ २ ॥
 </details>
+
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ हविषो याज्यामाह -
 </details>
+</details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
-<details open><summary><h9>विश्वास-प्रस्तुतिः …{Loading}…</h9></summary>
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
+
+<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 पूर्वापर᳓ञ् **चरतो** माय᳓यैतौ᳓ ।   
 शि᳓शू **क्री᳓डन्तौ** प᳓रि यातो अ-ध्वर᳓म्+++(=अ-हिंसम्  →यज्ञम्)+++ ।  
@@ -489,10 +529,12 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 ऋतू᳓न् अन्यो᳓ **विद᳓धज् जायते** पु᳓नः ।+++(5)+++
 
 </details>
+
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
-<details open><summary><h9>सर्वाष् टीकाः …{Loading}…</h9></summary>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/44_pUrvApara~n_charato.md">
+
+<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पू॒र्वा॒प॒रञ्च॑रतो मा॒ययै॒तौ ।   
@@ -508,15 +550,20 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 उभयोर्मध्येऽन्य एक आदित्यो विश्वानि भुवनानिअभिचष्टे सर्वतः प्रकाशयति । अन्यश्चन्द्रः प्रतिपदादितिथिशुक्लकृष्णपक्षचैत्रादिमासद्वारा ऋतून्विदधत्पुनः पुनर्जायत उदयं गच्छतीत्यर्थः ॥
 </details>
 </details>
-</div>
 
+</div>
 </div>  
 
 ##### पावमान्यः - अद्भ्यो वेहतम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7यदुक्तं सूत्रकारेण - 'अद्भ्यो वेहतम्' इति । तस्य पशोः सूक्ते षण्णामृचां प्रतीकानि दर्शयति - 'हिरण्यवर्णाः शुचयः पावकाः' इति वपायाः पुरोनुवाक्या ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -526,6 +573,7 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 हि᳓रण्य-वर्णाः । शु᳓चयः । पावका᳓ । या᳓साम् । रा᳓जा ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/03_hiraNyavarNAsh_shuchayapH.md">
@@ -621,6 +669,8 @@ May these waters be gentle and kindly to us.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यासा॑न् दे॒वाश्  
@@ -630,6 +680,7 @@ May these waters be gentle and kindly to us.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 या᳓सान् । देवाः᳓ । शिवे᳓न । मा । च᳓क्षुषा । पश्यत ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_hiraNyavarNAsh_shuchayaH/12_yAsAn_devA.md">
@@ -686,9 +737,12 @@ Those that inundate the earth with their sap [1], the pure ones May these waters
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4चतुर्थी - शिवेनेति त्रिष्टुप् ॥ आप इति प्रथमपादान्तः ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_hiraNyavarNAsh_shuchayaH/16_shivena_mA.md">
@@ -719,10 +773,15 @@ Do ye confer upon me radiance and might and force.
 
 ##### आपः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'आपो भद्रा घृतमिदाप आसुः' हति हविषः पुरोनुवाक्या ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -733,6 +792,7 @@ Do ye confer upon me radiance and might and force.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 आ᳓पः । भद्राः᳓ । आ᳓दि᳓त् । पश्यामि ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -748,9 +808,12 @@ Do ye confer upon me radiance and might and force.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9नवमी - **आपो भद्रा** इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/5/6/01_kumbheShTakopAdhAna-mantrAH/37_Apo_bhadrA.md">
@@ -823,9 +886,12 @@ When I delighted you, O ye of golden hue.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
@@ -4007,9 +4073,12 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 16अथ नवमीमाह ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
@@ -6648,6 +6717,8 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 </div>
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अत्र विनियोगसंग्रहः-  
@@ -6663,6 +6734,7 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 द्वितीयाष्टकं समाप्तम् ॥
 
 ओं तत्सत् ॥  
+</details>
 </details>
 </details>
 </div>

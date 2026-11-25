@@ -2,10 +2,15 @@
 title = "०४ वारुणम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 17अथ 'यो वरुणगृहीतः स्यात्स एतं वारुणं कृष्णमेकशितिपादमालभेत' इत्यस्य पशोर्वपापुरोडाशहविषु प्रत्येकं याज्यापुरोनुवाक्ययोः प्रतीके दर्शयति - 'उदुत्तमं वरुणपाशम्' इति वपायाः पुरोनुवाक्या, सा च 'वैश्वानरः' इत्यत्र व्याख्याता ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -15,6 +20,7 @@ title = "०४ वारुणम्"
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 उ᳓त् । उत्तम᳓म् । वरुण । अ᳓स्तभ्नात् । द्या᳓म् ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md">
@@ -441,10 +447,15 @@ All these are Varuna's ordinances.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'यत्किंचेदं वरुण' इति पुरोडाशस्य पुरोनुवाक्या, 'कितवासो यद्रिरिपुः' इति याज्या, तदुभयं 'त्वमग्ने बृहत्' इत्यत्र व्याख्यातम् ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +465,7 @@ All these are Varuna's ordinances.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 य᳓त् । कि᳓म् । च । इद᳓म् । कितवा᳓सः ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/089/05_yatkiM_chedaM.md">
@@ -1207,10 +1219,15 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 'अव ते हेडो वरुणः' इति हविषः पुरोनुवाक्या, सा च 'वैश्वानरो नः' इत्यत्र व्याख्याता ।
 </details>
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1220,6 +1237,7 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अ᳓व । ते । हे᳓डः । त᳓त् । त्वा । यामि ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/14_ava_te.md">

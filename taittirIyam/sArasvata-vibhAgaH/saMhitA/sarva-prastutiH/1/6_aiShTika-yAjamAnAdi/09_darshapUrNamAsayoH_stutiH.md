@@ -5,16 +5,22 @@ title = "०९ दर्शपूर्णमासयोः स्तुति
  प्रजापतिर्ऋषिः
 
 ## अग्निहोत्रादीनां सोमयागसमता
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तिर्य॒ज्ञान॑सृजताग्निहो॒त्रञ्चा॑ग्निष्टो॒मञ्च॑
 पौर्णमा॒सीञ्चो॒क्थ्य॑ञ्चामावा॒स्या॑ञ्चातिरा॒त्रञ्च 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दर्शपूर्णमासयोर् महाफलत्वं ख्यापयितुम् आह - प्रजापतिरित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -24,6 +30,8 @@ _______
 पौर्णमासी᳓ञ् चोक्थ्य᳙ञ् च    
 अमावास्या᳙ञ् चातिरात्र᳓ञ् च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,6 +72,7 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 
 प्रजापतिरिति। अत्राग्निहोत्रपौर्णमास्यमावास्यायागा अल्पैर्द्रव्यमन्त्रक्रिया-विशेषैः साध्या अत एवाल्पफलाः। अग्निष्टोमोक्थ्यातिरात्रयागा बहुभिर्द्रव्य-मन्त्रक्रियाविशेषैः साध्या अत एवाधिकफलाः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +84,8 @@ Prajapati created the sacrifices, the Agnihotra, the Agnistoma, the full moon sa
 या᳓वती पौर्णमासी᳓  ता᳓वान् उक्थ्यः᳙ ।  
 या᳓वत्य् अमावास्या᳙ ता᳓वान् अतिरात्रः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,6 +130,7 @@ the Atiratra that of the new moon sacrifice.
 
 भावनाविधिपरत्वे वाक्यमतेत्कर्म-प्रकरणादुत्कृष्येतेति चेत्। उत्कृष्यतां नाम। अग्निचयनप्रकरणपठितानां मनश्चिदाद्युपास्तीनां प्रकरणोत्कर्षस्य व्यासेनैव निर्णीतत्वात्। अन्यपरस्या-न्यार्थत्वाद्दर्शपूर्णमासौ प्रशंसितुमत्र पाठोऽस्तु।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -134,6 +146,8 @@ the Atiratra that of the new moon sacrifice.
 या᳓वद् अतिरात्रे᳓णोपाप्नो᳓ति  
 ता᳓वद् उ᳓पाऽऽप्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,6 +173,7 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 
 यः । ए॒वम् । वि॒द्वान् । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जु॒होति॑ । याव॑त् । अ॒ग्नि॒ष्टो॒मेनेत्य॑ग्नि-स्तो॒मेन॑ । उ॒पा॒प्नोतीत्यु॑प-आ॒प्नोति॑ । ताव॑त् । उपेति॑ । आ॒प्नो॒ति॒ । यः । ए॒वम् । वि॒द्वान् । पौ॒र्ण॒मा॒सीमिति॑ पौर्ण-मा॒सीम् । यज॑ते । याव॑त् । उ॒क्थ्ये॑न । उ॒पा॒प्नोतीत्यु॑प-आ॒प्नोति॑ । ताव॑त् । उपेति॑ । आ॒प्नो॒ति॒ । यः । ए॒वम् । वि॒द्वान् । अ॒मा॒वा॒स्या॑मित्य॑मा-वा॒स्या॑म् । यज॑ते । याव॑त् । अ॒ति॒रा॒त्रेणेत्य॑ति-रा॒त्रेण॑ । उ॒पा॒प्नोतीत्यु॑प-आ॒प्नोति॑ । ताव॑त् । उपेति॑ । आ॒प्नो॒ति॒ ।
 </details>
+</details>
 
 ## दर्शपूर्णमासयोस्स्तुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -166,6 +181,8 @@ he who knowing thus offers the new moon sacrifice obtains as much as by offering
 परमेष्ठि᳓नो वा᳓ एष᳓ यज्ञो᳓ऽग्र आसीत् ।  
 ते᳓न स᳓ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,12 +209,15 @@ and by means of it he reached the supreme goal.
 
 तेन स परमां काष्ठां परमैश्वर्यकाष्ठामगच्छत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓न प्रजा᳓पतिन् निर᳓वासाययत् ।  
 ते᳓न प्रजा᳓पतिᳶ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,12 +250,15 @@ and by means of it Prajapati reached the supreme goal.
 
 तेन चेश्वरार्पणबुद्ध्याऽनुष्ठितेन स यजमानः परमां काष्ठामिदं परमेष्ठित्वपदं प्राप्तवान्। प्रजापतिर्दक्षादिः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ने᳓न्द्रन् निर᳓वासाययत् ।  
 ते᳓ने᳓न्द्रᳶ परमा᳓ङ् का᳓ष्ठाम् अगच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,12 +281,15 @@ and by means of it Indra reached the supreme goal.
 
 तं पूर्वस्मिञ्जन्मनि तेनोत्तमफलहेतुदर्शपूर्णमासोपदेशेन निरवासाययत्तोषितवाननुष्ठानाय प्रेरितवान्वा।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नाग्नी᳓-षो᳓मौ निर᳓वासाययत् ।  
 ते᳓नाग्नी᳓षो᳓मौ परमा᳓ङ् का᳓ष्ठाम् अगच्छताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -287,12 +313,15 @@ He furnished Agni and Soma with it, and by means of it Agni and Soma reached the
 
 निरवपूर्वात्स्यतेर्णिचि शाच्छासाह्वा' इति युक्, गतिद्वयमप्याख्यातेन समस्यते, गतिर्गर्तौ' इति प्रथमोनुदात्तः, `उदात्तवता च तिङा सह' इति समास(निषेधः) । एवं सर्वत्र ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ [30] एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
 परमा᳓म् एव᳓ का᳓ष्ठाङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,6 +350,7 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 
 स च तस्मिञ्जन्मनि यजमानस्तेनानुष्ठानेन परमां काष्ठां दक्षत्वपदं प्राप्तवान्। एवमितरत्र योज्यम्। अत एव दर्शपूर्णमासयोः स्वर्गकामार्थत्वमाम्नातं मीमांसकैर्विचारितं च।  
 </details>
+</details>
 
 ## द्वादशद्वन्द्वसम्पत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -328,6 +358,8 @@ He who [2] knowing thus offers the new and full moon sacrifices reaches the supr
 यो᳓ वै᳓ प्र᳓जातेन यज्ञे᳓न य᳓जते  
 प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -359,6 +391,7 @@ He who sacrifices with an abundant offering is multiplied with offspring, with c
 
 द्वादशमासोपेतसंवत्सरसाम्येन द्वादशद्वंद्वोपेतस्य यज्ञस्य प्रसृतत्वम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,6 +399,8 @@ He who sacrifices with an abundant offering is multiplied with offspring, with c
 द्वा᳓दश द्वन्द्वा᳓नि दर्शपूर्णमास᳓योस्,  
 ता᳓नि सम्पा᳓द्यानी᳓"त्य् आहुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -384,12 +419,15 @@ these are to be produced', they say.
 
 द्वाद॑श । मासाः॑ । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः । द्वाद॑श । द्व॒न्द्वानीति॑ द्वम्-द्वानि॑ । द॒र्श॒पू॒र्ण॒मा॒सयो॒रिति॑ दर्श-पू॒र्ण॒मा॒सयोः॑ । तानि॑ । स॒म्पाद्या॒नीति॑ सम्-पाद्या॑नि । इति॑ । आ॒हुः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वत्स᳓ञ् चोपावसृज᳓ति  ।  
 उखा᳓ञ् चा᳓धि श्रयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -420,12 +458,15 @@ He lets the calf go free and puts the pot on the fire:
 द्वंद्वानि विधत्ते -  
 वत्सं चोपावसृजतीति। गां दोग्धुमध्वर्युरयक्ष्मा वः प्रजयेति मन्त्रेण वत्सं बन्धनान्मुञ्चेत्। क्षीरं श्रपयितुं मातरिश्वनो घर्म इति मन्त्रेणोखां गार्हपत्ये स्थापयेत्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓व च ह᳓न्ति ।
 दृष᳓दौ च समा᳓हन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,12 +495,15 @@ he puts down (the rice), and beats the millstones together;
 
 अव रक्षो दिव इति शाखान्तरमन्त्रेण व्रीहीनवहन्यात्। इषमा वदेति मन्त्रेण पाषाणेन शम्यया वा पेषणार्थं दृषदुपले समाहन्यात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धि च व᳓पते ।  
 कपा᳓लानि चो᳓प दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,12 +532,15 @@ he scatters (the grains) and collects the potsherds;
 
 देवस्य त्वेत्यादिमन्त्रेण पेषणाय दृषदि तण्डुलानधिवपेत्। ध्रुवमसीत्यादिभिर्मन्त्रैः पुरोडाशश्रपणायाग्नौ कपालान्युपदध्यात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोडा᳓शञ् च [31] +अधिश्र᳓यति᳓,  
 आ᳓ज्यञ्च  +++(अधिश्रयति)+++  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -522,12 +569,15 @@ the cake [3] he puts on the fire and the melted butter;
 
 घर्मोऽसीति मन्त्रेण तेषु कपालेषु पुरोडाशमधिश्रयेत्। अग्निस्ते तेज इति मन्त्रेणाऽऽज्यमाहवनीयेऽधिश्रयेत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तम्बयजु᳓श् च ह᳓रति ।
 +++(सतृणं पुरीषम्)+++ अभि᳓ च गृह्णाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,12 +606,15 @@ he throws the clump of grass, and gathers it in;
 
 चिकीर्षितवेदिस्थाने पृथिवि देवयजनीत्यादिभिर्मन्त्रैः स्तम्बयजुर्हरेत्। अररुस्ते दिवमिति मन्त्रेणाऽऽग्नीध्रोऽञ्जलिना सतृणपांसूनुत्करे प्रक्षिप्तानभिगृह्णीयात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वे᳓दिञ् च परिगृह्णा᳓ति ।  
 प᳓त्नीञ् च स᳓न्नह्यति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -591,12 +644,15 @@ he surrounds the Vedi and he girds the wife (of the sacrificer);
 
 वसवस्त्वा परिगृह्णन्त्वित्यादिभिर्मन्त्रैर्वेदिं परिगृह्णीयात्। आशासानेति मन्त्रेण योक्त्रेण पत्नीं संनह्येत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रो᳓क्षणीश् चाऽऽसाद᳓यति᳓,  
 आ᳓ज्यञ् च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -625,11 +681,14 @@ he puts in place the anointing waters and the melted butter.
 
 ऋतसधस्थेति शाखान्तरमन्त्रेण स्फ्यनिष्पादितायां लेखायां प्रोक्षणीरासादयेत्। अग्नेर्जिह्वाऽसीति मन्त्रेण स्फ्यलेखायामाज्यं सादयेत्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓नि वै᳓ द्वा᳓दश द्वन्द्वा᳓नि - दर्शपूर्णमास᳓योस् ता᳓नि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -658,6 +717,7 @@ These are the twelve pairs in the new and full moon sacrifices.
 विहितानि द्वंद्वानि प्रशस्योपसंहरति-  
 एतानि वा इति। यद्यप्युक्तानां वत्सविमोकादीनां चतुर्दशत्वात्सप्तैवैतानि द्वंद्वानि तथाऽपि चकारैः पूर्वानुवाकोक्तेषु दशसु यज्ञायुधेषु समुच्चितेषु द्वादश संपद्यन्ते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -665,6 +725,8 @@ These are the twelve pairs in the new and full moon sacrifices.
 प्र᳓जातेनैव᳓ यज्ञे᳓न यजते ।  
 प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते ॥ [32]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -682,4 +744,5 @@ with cattle, with pairings.
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । स॒म्पाद्येति॑ सम्-पाद्य॑ । यज॑ते । प्रजा॑ते॒नेति॒ प्र-जा॒ते॒न॒ । ए॒व । य॒ज्ञेन॑ । य॒ज॒ते॒ । प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ॥
+</details>
 </details>

@@ -27,9 +27,12 @@ title = "१४ काम्येष्टियाज्यापुरोन�
 ## रुद्रवद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अतः परं याज्याकाण्डं वैश्वदेवम् ॥ तत्र 'अग्नये रुद्रवते पुरोडाशम् अष्टाकपालं निर्वपेदभिचरन्' इत्यस्य पुरोनुवाक्या - त्वमग्न इति जगती ॥  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
@@ -446,9 +449,12 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तस्यैव याज्या - आ व इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
@@ -464,12 +470,15 @@ _______
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Rudra, king of the sacrifice,  
 True offerer, priest of both worlds,  
 Agni before the dreadful thunder,  
 Of golden colour, win ye for help.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/003/01_A_vo.md">
@@ -817,9 +826,12 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 ## सुरभिमद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3'अग्नये सुरभिमते पुरोडाशम् अष्टाकपालं निर्वपेद् यस्य गावो वा पूरुषा वा प्रमीयेरन् यो वा बिभीयात्' इत्यस्य पुरोनुवाक्या - अग्निर्होतेति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/02_agnir_hotA.md">
@@ -866,9 +878,12 @@ Supporter of the folk in whose midst he is kindled.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - साध्वीमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md">
@@ -1240,9 +1255,12 @@ Ein heilsam Göttermahl vollbracht er heut uns, wir fanden nun des Opfers Wunder
 ## क्षामवद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'अग्नये क्षामवते पुरोडाशम् अष्टाकपालं निर्वपेत् सङ्ग्रामे संयत्ते' इत्यस्य परोनुवाक्या - अक्रन्ददिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/04_akrandadagniH_stanayanniva.md">
@@ -1614,9 +1632,12 @@ Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen fl
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तेषु त्रिष्वपि याज्या - त्वे वसूनीति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/02_tve_vasUni.md">
@@ -1976,9 +1997,12 @@ Dir, vielgestalt'ger Priester, schenkten Güter die hehren Götter Abends und de
 ## कामयागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'अग्नये कामाय पुरोडाशम् अष्टाकपालं निर्वपेद् यं कामो नोपनमेत्' इत्यस्य पुरोनुवाक्या - तुभ्यं ता इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/03_tubhyan_tA.md">
@@ -2025,9 +2049,12 @@ O Agni, have turned to gain their wish.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - अश्यामेति त्रिष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/005/07_ashyAma_taM.md">
@@ -2417,9 +2444,12 @@ Erfülle, Agni, diesen Wunsch uns hülfreich; lass Labung uns empfahn, die Labun
 ## यविष्ठयागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'अग्नये यविष्ठाय पुरोडाशम् अष्टाकपालं निर्वृपेत् स्पर्धमानः क्षेत्रे वा सजातेषु वा' इत्यस्य पुरोनुवाक्या - श्रेष्ठमिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/01_shreShThaM_yaviShTha.md">
@@ -2711,9 +2741,12 @@ Den besten Reichthum bringe her, den schönen, Agni Bharata, Den vielbegehrten, 
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - स श्वितान  इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/02_sa_shvitAnastanyatU.md">
@@ -3065,9 +3098,12 @@ Der glänzend, donnernd steht im hohen Lichtraum, der jüngste mit den ew'gen Pr
 ## आयुष्मद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'अग्नय आयुष्मते पुरोडाशम् अष्टाकपालं निर्वपेद् - यः कामयेत सर्वम् आयुर् इयाम्' इत्य् अस्य पुरोनुवाक्या - आयुष्ट इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/04_AyuShTe_vishvato.md">
@@ -3116,9 +3152,12 @@ I drive away the disease from thee.
 ##  आयुष्मद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12तत्रैव याज्या - आयुर्दा इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md">
@@ -3180,9 +3219,12 @@ As a father his son [4], do thou protect him.
 ## जातवेदोयागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13'अग्नये जातवेदसे पुरोडाशम् अष्टाकपालं निर्वपेद् भूतिकामः' इत्यस्य पुरोनुवाक्या - तस्मै त इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/05_tasmai_te.md">
@@ -3233,9 +3275,12 @@ Agni, I offer this fair praise.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव याज्या - दिवस्परीति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/01_divaspari_prathamaM.md">
@@ -3570,9 +3615,12 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 
 ## रुक्मवद्-यागः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15'अग्नये रुक्मवते पुरोडाशम् अष्टाकपालं निर्वपेद् रुक्कामः' इत्यस्य पुरोनुवाक्या - शुचिरिति गायत्री ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/007/04_shuchiH_pAvaka.md">
@@ -3849,9 +3897,12 @@ Hell strahlest du, o Flammender, gewaltig, Agni, preisenswerth, Begossen du mit 
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - दृशान इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/045/08_dRshAno_rukma.md">
@@ -4206,9 +4257,12 @@ Wie Gold zu schauen glänzt er in die Weite, zum Heile unvergänglich Leben stra
 ## तेजस्वद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17अग्नये तेजस्वते पुरोडाशम् अष्टाकपालं निर्वपेत्तेजस्कामः' इत्यस्य पुरोनुवाक्या - आ यदिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/071/08_A_yadiShe.md">
@@ -4600,9 +4654,12 @@ Wenn ihn, den Herrn, zur Labung Glanz erfüllt hat, dann strömt vom Himmel nied
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18तत्रैव याज्या - स तेजीयसेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/019/03_sa_tejIyasA.md">
@@ -4965,9 +5022,12 @@ Wen du begünstigst, der wird schärfern Geistes, und du, o Spender, spend' ihm 
 ## साहन्त्ययागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19'अग्नये साहन्त्याय पुरोडाशम् अष्टाकपालं निर्वपेत्सीक्षमाणः' इत्यस्य पुरोनुवाक्या - अग्ने सहन्तमित्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/01_agne_sahantamA.md">
@@ -5294,9 +5354,12 @@ Bring Agni Reichthum, welcher siegt durch Uebermacht gewalt'ger Kraft, Der alle 
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20तत्रैव याज्या - तमग्ने पृतनासहमित्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/023/02_tamagne_pRtanAShahaM.md">
@@ -5615,9 +5678,12 @@ Den Reichthum, welcher Heere schlägt, siegreicher Agni, bringe her; Denn Geber 
 ## अन्नवद्यागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21'अग्नयेन्नवते पुरोडाशम् अष्टाकपालं निर्वपेद् यः कामयेतान्नवान् स्याम्' इत्यस्य पुरोनुवाक्या - उक्षान्नायेति गायत्री ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/11_uxAnnAya_vashAnnAya.md">
@@ -5863,9 +5929,12 @@ Der Stiere isst und Kühe isst, dem Ordner, der den Soma trägt, Dem Agni huld'g
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 22तत्रैव याज्या - वद्मा हीति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/06_vadmA_hi.md">
@@ -5931,6 +6000,8 @@ Be victorious like a king; thou rulest within without a foe.
 ## पवमानयागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23'अग्नये पवमानाय पुरोडाशम् अष्टाकपालं निर्वपेद् अग्नये पावकायाग्नये शुचये ज्योगामयावी' इत्यस्ति त्रिहविष्कोष्टिः । तत्राग्नये पवमानायेत्यस्य पुरोनुवाक्या - अग्न आयूंषीति गायत्री ॥
@@ -5940,6 +6011,7 @@ _______
 
 अग्न॒ आयूँ॑षि [30]
 प॒व॒स॒ आ सु॒वोर्ज॒मिष॑ञ्च नः ।  आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
@@ -6231,9 +6303,12 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 24तत्रैव याज्या - अग्ने पवस्वेति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
@@ -6515,9 +6590,12 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 
 ## पावकयागः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 25अग्नये पावकायेत्यस्य पुरोनुवाक्या - अग्ने पावकेति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
@@ -6823,9 +6901,12 @@ x
 ## पावकयागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 26तत्रैव याज्या - स नः पावकेति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md">
@@ -6872,9 +6953,12 @@ __________
 ## शुचियागः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 27'अग्नये शुचये' इत्यस्य पुरोनुवाक्या - अग्निश्शुचिव्रततम इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md">
@@ -7126,9 +7210,12 @@ Agni, der hellstes Werk vollbringt, ein Priester hell, ein Seher hell, Erglänze
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 28तत्रैव याज्या - उदग्ने इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
@@ -7384,7 +7471,10 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 इतः परं  पठ्यमानः काण्डक्रमः भट्ट-सायण-भाष्यद्वयोपेतमूलपुस्तके नास्ति। 
+</details>
 </details>

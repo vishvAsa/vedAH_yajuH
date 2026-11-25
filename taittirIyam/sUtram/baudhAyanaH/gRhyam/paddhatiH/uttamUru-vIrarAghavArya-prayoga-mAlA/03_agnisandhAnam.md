@@ -8,18 +8,28 @@ title = "०३ अग्निसन्धानम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -31,9 +41,15 @@ title = "०३ अग्निसन्धानम्"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
 </details>
 </details>
 </div>
@@ -267,17 +283,197 @@ title = "०३ अग्निसन्धानम्"
 तूणीं समिधमादधाति । उपस्थानं करिष्ये ॥
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/03_viShNvatikramAH/yat_te_agne.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
-यत्ते॑ अग्ने॒ तेजस्तेना॒हं ते॑ज॒स्वी भूयासम् ।
-यत्ते॑ अग्ने॒ वर्चस्तेना॒हं व॑र्च॒स्वी भूयासम् ।
-यत्ते॑ अग्ने हरस्तेना॒हँ ह॑रस्वी र्भूयासम् ॥
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासय्ँ॒यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥ [11]
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने ते᳓जस् ते᳓नाह᳓न् तेजस्वी᳓ भूयासम्  ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+With the brilliance that is thine, O Agni, may I become brilliant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ तेज॒स्तेना॒हन्ते॑ज॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । तेजः॑ । तेन॑ । अ॒हम् । ते॒ज॒स्वी । भू॒या॒स॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+5यत्ते अग्ने इत्यादि यजुः ॥ तेजो दीप्तिः ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने व᳓र्चस् ते᳓नाहव्ँ᳓ वचस्वी᳓ भूयासम्  ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+with the radiance that is thine, O Agni, may I become radiant;
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ वर्च॒स्तेना॒हव्ँव॑च॒स्वी भू॑यासम्  ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । वर्चः॑ । तेन॑ । अ॒हम् । व॒र्च॒स्वी । भू॒या॒स॒म् ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वर्चोन्नम् ।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य᳓त्ते अग्ने ह᳓रस् ते᳓नाहँ᳓ हरस्वी᳓ भूयासम् ॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+with the splendour that is thine, O Agni, may I become resplendent.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यत्ते॑ अग्ने॒ हर॒स्तेना॒हँ ह॑र॒स्वी भू॑यासम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । अ॒ग्ने॒ । हरः॑ । तेन॑ । अ॒हम् । ह॒र॒स्वी । भू॒या॒स॒म् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हरः बलम् । त्वदीयैस्तेजःप्रभृतिभिः मदीयेन यागेन वर्धभानैर्हेतुभिः अहं तेजःप्रभृतिमान् भूयासमिति ॥
+
+इति तृतीये पञ्चमे तृतीयोनुवाकः ॥
+</details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
-मयि॑ मे॒धां मयि॑ प्र॒जां मय्यग्निस्तेजो॑ दधातु ।
-मयि॑ मे॒धां मयि॑ प्र॒जां मयीन्द्र॑ इन्द्रियं द॑धातु ।
-मयि॑ मे॒धां मयि॑ प्र॒जां मयि॒ सूर्यो भ्राजो॑ दधातु ॥
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓य्य् अग्नि᳓स् ते᳓जो दधातु ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+On me wisdom, on me offspring, on me brilliance may Agni bestow;  
+</details>
+
+<details><summary>मूलम्</summary>
+
+मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । अ॒ग्निः । तेजः॑ । द॒धा॒तु॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मेधा ग्रन्थार्थधारणसामर्थ्यम् ।  
+प्रजा पुत्रादिः ।  
+
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यी᳓न्द्र इन्द्रिय᳓न् दधातु ।  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+on me wisdom, on me offspring, on me power may Indra bestow;  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु ।  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । इन्द्रः॑ । इ॒न्द्रि॒यम् । द॒धा॒तु॒ ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इन्द्रियं चक्षुरादिशक्तिः ।  
+दधातु स्थापयतु । गतमन्यत् ॥
+
+इति तृतीये तृतीये प्रथमोनुवाकः ॥  
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
+म᳓यि सू᳓र्यो भ्रा᳓जो दधातु  ॥ [2]  
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+on me wisdom, on me offspring, on me blazing may Surya bestow.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु  ॥ [2]  
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । सूर्यः॑ । भ्राजः॑ । द॒धा॒तु॒ ॥
+</details>
+</details>
 </div>
 
 इति ।
@@ -295,12 +491,15 @@ title = "०३ अग्निसन्धानम्"
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
 भक्तिहीनं हुताशन ।  
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
+</details>
 </details>
 </details>
 </div>
@@ -314,12 +513,15 @@ title = "०३ अग्निसन्धानम्"
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
 तपः कर्मात्मकानि वै ।  
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
+</details>
 </details>
 
 (कृष्ण कृष्ण कृष्ण॥)

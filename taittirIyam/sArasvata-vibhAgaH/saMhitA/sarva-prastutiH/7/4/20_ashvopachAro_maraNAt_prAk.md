@@ -6,15 +6,20 @@ title = "२० अश्वोपचारो मरणात् प्रा�
 ९-११ गायत्री
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भूर्भुव॒स्सुव॒र्वस॑वस्त्वाञ्जन्तु गाय॒त्रेण॒ छन्द॑सा रु॒द्रास्त्वा॑ञ्जन्तु॒ त्रैष्टु॑भेन॒ छन्द॑सादि॒त्यास्त्वा॑ञ्जन्तु॒ जाग॑तेन॒ छन्द॑सा॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूर्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -30,11 +35,14 @@ Bhuh!
 
 भूः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वस्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,11 +58,14 @@ Bhuvah!
 
 भुवः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,11 +81,14 @@ Svar!
 
 सुवः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सवस् त्वाञ् जन्तु गायत्रे᳓ण छ᳓न्दसा ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,11 +109,14 @@ Let the Vasus anoint thee with the Gayatri metre.
 
 1पत्न्योश्वमञ्जन्ति । प्राक्क्रोडात् महिषी 'वसवस्त्वाञ्जन्तु गायत्रेण छन्दसा' इति भूरिति च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓स् त्वाञ् जन्तु त्रै᳓ष्टुभेन छ᳓न्दसा,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,11 +137,14 @@ Let the Rudras anoint thee with the Tristubh metre.
 
 अथ क्रोडादारभ्या नाभेर्वावाता 'रुद्रास्त्वाञ्जन्तु त्रैष्टुभेन छन्दसा' इति भुव इति च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऽऽदित्या᳓स् त्वाञ् जन्तु जा᳓गतेन छ᳓न्दसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,6 +165,9 @@ Let the Adityas anoint thee with the Jagati metre.
 
 तथा नाभेरारभ्य आपुच्छात् परिवृक्तिः 'आदित्यास्त्वाऽञ्जन्तु जागतेन छन्दसा' इति सुवरिति च । गता मन्त्राः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -155,12 +178,15 @@ Let the Adityas anoint thee with the Jagati metre.
 
 2अथ शालां नयन्ति - यद्वात इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वा᳓तो अपो᳓ अ᳓गमद् इ᳓न्द्रस्य तनु᳓वम् प्रिया᳓म् ।  
 एतँ᳓ स्तोतर् एते᳓न पथा᳓ पु᳓नर᳓श्वम् आ᳓वर्तयासि नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -185,6 +211,9 @@ Bring back to us the horse.
 
 पथ्या बृहतीयं, तृतीयस्य पादस्य द्वादशाक्षरत्वात् । पुनरिति तस्यान्तः । हे स्तोतः शव्दयितः वायो यत् येन पथा । ' सुपां सुलुक् ' इति लुक् । वातः प्राणाख्या तव वृत्तिः अपः अगमत् अगमयत् । ' बहुलमन्यत्रापि' इति णिलुक् । ' छन्दस्युभयथा ' इत्यार्धधातुकत्वात् शपः । इन्द्रस्य प्रियां तनुवं तनुम् । ' तन्वादीनां छन्दसि ' इत्युवङ् । एतेन पथा एतं अश्वे पुनरस्मान् प्रत्यावर्तयासि । आवर्तयतेर्लेट्याडागमः । (अस्माकं वा) ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -195,11 +224,14 @@ Bring back to us the horse.
 
 3अश्वाय मधुमिश्रात् लाजान् प्रकिरति - लाजीनित्यनुष्टुभा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ला᳓जी᳓ञ् (३), छा᳓ची᳓न् (३) , य᳓शो ममा᳓म् (4)।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,11 +252,14 @@ O thou that hast barley, that hast grain, (bring) renown for me;
 
 3अश्वाय मधुमिश्रात् लाजान् प्रकिरति - लाजीनित्यनुष्टुभा ॥ हे लाजवन् लाजिन् हे शाचदन् शाचिन् । यशो ममामित्यस्य मम यशोहेतोः । 'परमपि छन्दसि' इति षष्ठ्यन्तस्य पूर्वाङ्गवद्भावात् षष्ठ्यामन्त्रितसमुदायस्य स्वरः । त्रयाणामपि पूर्वपूर्वाविद्यमानवद्भावेन भावितं आमन्त्रिताद्युदात्तत्वम् । 'दूराद्धूते च' इत्युदात्तः प्लुतः, तस्यासिद्धत्वादुत्तरस्य वर्जमानस्वराभावः । अन्त्यस्य 'यणोऽप्रतिगृह्यस्य' इति सानुनासिकः प्लुतः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यव्या᳓यै गव्या᳓या एत᳓द् देवा अ᳓न्नम् अत्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -245,11 +280,14 @@ For barley, for milk, this food eat, O ye gods;
 
 यव्यायै गव्यायै च यूयं नो भवत हे लाजा हे सक्तवः । यवानां समूहो यव्या । 'पाशादिभ्यो यः' । गवां समूहो गव्या 'खलगोरथात्' इति यः । यदन्तश्च स्वभावतः स्त्रियां वर्तते । एतच्चान्नमिव इममश्वं अनुप्रविश्य हे देवाः अत्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐत᳓द् अ᳓न्नम् अद्धि प्रजापते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,6 +308,9 @@ this food eat, O Prajapati.
 
 प्रजापते त्वमपि एतदन्नमद्धि । प्राधान्यात् पुनरुपादानं प्रजापतेः । यथा - ब्राह्मणा आयाताः वसिष्ठोप्यायात इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -280,12 +321,15 @@ this food eat, O Prajapati.
 
 4अश्वं रथे युनक्ति - युऽञ्जन्ति ब्रध्रमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 युञ्ज᳓न्ति ब्रध्न᳓म् अरुष᳓ञ् च᳓रन्तम् प᳓रि तस्थु᳓षः ।
 रो᳓चन्ते रोचना᳓ दिवि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,10 +353,14 @@ The lights shine in the sky.
 
 एतास्तिस्रो गायत्र्यः । युञ्जन्ति युञ्जन्तु ब्रध्नं परिबृढमश्वं अरुषं अरोषणं च - रन्तं साधुचरणं परितस्थुषः परितस्थिवांसः । विभक्तिव्यत्ययः । (व्यष्टिं चिते) रोचन्ते अस्य पृष्ठे रोचनानि रोचमानानि रश्मयः दिवि । 'अनुदात्तेतश्च हलादेः' इति रोचतेर्युच् । 'शेश्छन्दसि' इति शेर्लोपः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑ । शोणा॑ धृ॒ष्णू नृ॒वाह॑सा ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +368,8 @@ The lights shine in the sky.
 युञ्ज᳓न्त्य् अस्य का᳓म्या ह᳓री वि᳓पक्षसा र᳓थे ।
 शो᳓णा धृष्णू᳓ नृवा᳓हसा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,6 +393,9 @@ Dark, strong, bearing heroes.
 
 5इतरयोः पृष्ठे संमृज्येते - युञ्जन्ति युञ्जन्तु अस्य काम्या काम्यौ इष्टौ । कामयतेरचो यत्, 'सुपां सुलुक्' इत्याकारः । हरी अश्वौ विपक्षसा विपक्षसौ उभयोः पक्षयोः स्थितौ । पूर्ववदाकारः । रथे शोणा शोणवर्णौ आलोहितौ धृष्णू धर्षणसमर्थौ शत्रूणां नृवाहसा नॄन् वहन्तीति नृवाहसौ मनुष्यवाहौ । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन् । 'कारकपूर्वात्' इति, णिदिति च तत्रानुवर्तते । पूर्ववदाकारः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -353,11 +406,14 @@ Dark, strong, bearing heroes.
 
 6ध्वजं प्रतिमुञ्चति -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केतु᳓ङ् कृण्व᳓न्न् अकेत᳓वे पे᳓शो मर्या अपेश᳓से । स᳓मुष᳓द्भिर् अजायथाः ॥ [51]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,4 +437,5 @@ Thou wert born with the dawns.
 केतुं ध्वजं कृण्वन् कुर्वन्तु । कृवि हिंसाकरणयोः, लेटि 'धिन्विकृण्व्योरच्' इत्युप्रत्ययः, छान्दसो निघाताभावः । अकेतवे असत्यस्मिन्नज्ञापकाय पेशः रूपं रूपवृन्दं हे मर्याः मनुष्याः । 'छन्दसि निष्टर्क्य' इत्यत्र निपात्यते । अपेशसे असत्यस्मिन् रूपरहिताय । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । तथा हि सति त्वं उषद्भिः ज्वलद्भिरिव समजायथाः ज्वालावानिव संजायस्व । जानातेर्वा छान्दसो जभावः । ज्ञापकेन हेतुना ज्वालावानिव सर्वत्र ज्ञायस्व । 'दृक् स्ववस्स्वतवसाम्' इत्यादिना उषसः तत्वम् ॥
 
 इति सप्तमे चतुर्थे विंशोनुवाकः ॥  
+</details>
 </details>

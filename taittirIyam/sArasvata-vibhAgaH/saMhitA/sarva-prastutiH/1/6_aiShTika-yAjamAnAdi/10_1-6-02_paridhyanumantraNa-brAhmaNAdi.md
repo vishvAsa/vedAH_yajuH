@@ -5,11 +5,14 @@ title = "१० १-०६-९२ परिध्यनुमन्त्रण-
 प्रजापतिर्ऋषिः
 
 ## परिधिमन्त्रणब्राह्मणम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ध्रु॒वो॑ऽसि ध्रु॒वो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मित्या॑ह ध्रु॒वाने॒वैना॑न्कुरुते
 उ॒ग्रो॑ऽस्यु॒ग्रो॑ऽहँ स॑जा॒तेषु॑ भूयास॒मित्या॒हाप्र॑तिवादिन ए॒वैना॑न्कुरुते
 अभि॒भूर॑स्यभि॒भूर॒हँ स॑जा॒तेषु॑ भूयास॒मित्या॑ह॒ य ए॒वैन॑म्प्रत्यु॒त्पिपी॑ते॒ तमुपा॑स्यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -20,6 +23,8 @@ title = "१० १-०६-९२ परिध्यनुमन्त्रण-
 इ᳓त्य् आह ।   
 ध्रुवा᳓न् एवै᳓नान् कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,6 +48,7 @@ verily he makes them secure.
 
 1ध्रुवोसीत्यादीनां याजमानमन्त्राणां ब्राह्मणम् । तत्र परिधीनामनुमन्त्रणमन्त्राः ध्रुवोसीत्यादयः ॥ एनान् सजातानविनष्टान् करोति । तथा हि सति तेष्वयं ध्रुवतरो भवति । एनानप्रतिवादिनः कुरुते सजातान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,6 +58,8 @@ verily he makes them secure.
 इ᳓त्य् आह ।  
 अ᳓प्रतिवादिन एवै᳓नान् कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,6 +83,7 @@ verily he makes them harmonious.
 
 उग्रः उद्गूर्णः यस्याग्रे न कश्रित्प्रतिवदतीति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +94,8 @@ verily he makes them harmonious.
 य᳓ एवै᳓नम् प्रत्युत्पि᳓पीते+++(←पीङ् पाने)+++,  
 त᳓म् उ᳓पास्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,12 +124,15 @@ verily he overthrows him who rises against him.
 'तिङि चोदात्तवति' इति द्वितीयस्य गतेः अनुदात्तत्वम्,  
 'गतिर्गतौ' इति प्रथमस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "युन᳓ज्मि त्वा ब्र᳓ह्मणा दै᳓व्येने᳓"त्य् आह ।  
 एष᳓ वा᳓ अग्ने᳓र् यो᳓गस्, ते᳓न [33] +एवै᳓नय्ँ युनक्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,6 +155,7 @@ this is the yoking of the fire; verily [1] with it he yokes it.
 
 2युनज्मि त्वेत्यग्नियोगः ॥ एष मन्त्रोग्नेर्योगः । अग्निर्युज्यते बद्ध्यतेऽनेनेति करणे घञ् ॥
 </details>
+</details>
 
 ## हविःसादनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,6 +164,8 @@ this is the yoking of the fire; verily [1] with it he yokes it.
 देवा᳓स् सुवर्गल्ँ᳓ लोक᳓म् आयन् ।   
 यज्ञ᳓स्य व्यृ᳙द्धे᳓न᳓+++(=ह्रसितम्)+++ +अ᳓सुरान् प᳓राभावयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,6 +188,7 @@ with the unsuccessful part they overcame the Asuras.
 
 3यज्ञस्येत्यादि ॥ यज्ञस्य यत्स्वमृद्धं हविरादीनामन्यूनत्वम्, अन्यूनं वा हविरादि, तत्स्वर्गप्राप्तिहेतु । यत् पुनर् **व्यृद्धं** स्कन्नादिवैकल्यं तेनासुरान् पराभावयन्देवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,6 +196,8 @@ with the unsuccessful part they overcame the Asuras.
 यज्ञ᳓स्यैव᳓ त᳓त् स᳓मृद्धेन य᳓जमानस् सुवर्गल्ँ᳓ लोक᳓म् एति
 यज्ञ᳓स्य व्यृ᳙द्धेन भ्रा᳓तृव्यान् प᳓रा भावयति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -202,11 +222,14 @@ with the unsuccessful part he overcomes the foes.
 
 'यन्मे अग्रे' इत्यनेनासन्नहविरभिमन्त्रणेन तद्वैकल्यं प्रति पराभवनहेतुः क्रियत इत्यर्थः । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निहोत्र᳓म् एता᳓भिर् व्या᳓हृतीभिर् उ᳓प सादयेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,6 +245,7 @@ With these Vyahrtis he should set down the Agnihotra.
 
 अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । ए॒ताभिः॑ । व्याहृ॑तीभि॒रिति॒ व्याहृ॑ति-भिः॒ । उपेति॑ । सा॒द॒ये॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -230,6 +254,8 @@ With these Vyahrtis he should set down the Agnihotra.
 ब्र᳓ह्मैता᳓ व्या᳓हृतयः,  
 यज्ञमुख᳓ एव᳓ ब्र᳓ह्म [34] +कुरुते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -260,12 +286,15 @@ verily at the beginning of the sacrifice he makes the Brahman [2].
 
 ब्रह्मैता इति, लोकत्रयात्मकत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरे᳓ पर्या᳓गत एता᳓भिर् एवो᳓पसादयेत् ।  
 ब्र᳓ह्मणैवो᳓भय᳓तस् सव्ँवत्सर᳓म् प᳓रिगृह्णाति। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,6 +312,7 @@ verily with the Brahman he surrounds the year on both sides.
 
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प॒र्याग॑त॒ इति॑ परि-आग॑ते । ए॒ताभिः॑ । ए॒व । उपेति॑ । सा॒द॒ये॒त् । ब्रह्म॑णा । ए॒व । उ॒भ॒यतः॑ । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । परीति॑ । गृ॒ह्णा॒ति॒ ।
 </details>
+</details>
 
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प॒र्याग॑त॒ इति॑ परि-आग॑ते ।   
 
@@ -290,17 +320,22 @@ verily with the Brahman he surrounds the year on both sides.
 
 ब्रह्म॑णा । ए॒व । उ॒भ॒यतः॑ । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । परीति॑ । गृ॒ह्णा॒ति॒ ।
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पर्यागते पर्यावृत्ते । पूर्व्पदप्रकृतिस्वरत्वम् ।
 
 उभयतः, सार्वविभक्तिकस्तसिल् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शपूर्णमासौ᳓ चातुर्मास्या᳓न्य् आल᳓भमान एता᳓भिर् व्या᳓हृतीभिर् हवीँ᳓ष्य् आ᳓सादयेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,6 +356,7 @@ He who is undertaking the new and full moon and the four monthly offerings shoul
 
 5दर्शपूर्णमासावित्यादि ॥ गतं प्रथमप्रयोग इदम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,6 +365,8 @@ He who is undertaking the new and full moon and the four monthly offerings shoul
 
 यज्ञमुख᳓ एव᳓ ब्र᳓ह्म कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,12 +388,15 @@ verily at the beginning of the sacrifice he makes the Brahman.
 
 य॒ज्ञ॒मु॒खमिति॑ यज्ञ-मु॒खम् । वै । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । चा॒तु॒र्मा॒स्यानीति॑ चातुः-मा॒स्यानि॑ । ब्रह्म॑ । ए॒ताः । व्याहृ॑तय॒ इति॑ वि-आहृ॑तयः । य॒ज्ञ॒मु॒ख इति॑ यज्ञ-मु॒खे । ए॒व । ब्रह्म॑ । कु॒रु॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरे᳓ पर्या᳓गत एता᳓भिरे् एवा᳓सादयेत् ।  
 ब्र᳓ह्मणैवो᳓भय᳓तस् सव्ँवत्सर᳓म् प᳓रिगृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,6 +414,7 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 
 सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रे । प॒र्याग॑त॒ इति॑ परि-आग॑ते । ए॒ताभिः॑ । ए॒व । एति॑ । सा॒द॒ये॒त् । ब्रह्म॑णा । ए॒व । उ॒भ॒यतः॑ । सव्ँ॒व॒त्स॒रमिति॑ सम्-व॒त्स॒रम् । परीति॑ । गृ॒ह्णा॒ति॒ ।
 </details>
+</details>
 
 ## सामिधेनिषु व्याहृतयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -380,6 +422,8 @@ When the year is completed, he should thus with them (Vyahrtis) set down (the ob
 य᳓द् वै᳓ यज्ञ᳓स्य सा᳓म्ना क्रिय᳓ते,  
 राष्ट्रं᳓ [35] यज्ञ᳓स्याऽऽशी᳓र् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,11 +446,14 @@ To the kingly class falls the blessing of the part of the sacrifice which is per
 6यद्वा इत्यादि ॥ **यज्ञस्य** या **अशीः साम्ना** क्रियते  
 सा सामस्थाशीः आशंसनीयं फलं **राष्ट्रं गच्छति** यत्रायं वसति तद् राष्ट्रवासिनां तत्-केवलं स्थात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् ऋचा᳓ - वि᳓शय्ँ यज्ञ᳓स्याऽऽशी᳓र् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -427,11 +474,14 @@ to the people (falls) the blessing of what (is performed) with the Rc;
 
 अथ यदृचा क्रियते सा यज्ञस्यशीः विशं गच्छति सर्वान्मनुष्यान् । जातावेकवचनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ ब्राह्मणो᳙ ऽनाशी᳓र्केण यज्ञे᳓न यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -461,12 +511,15 @@ now the Brahman sacrifices with an offering without a blessing;
 भत्वाद् विसर्जनीयाभावः,  
 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सामिधेनी᳓र् अनुवक्ष्य᳓न्न्  
 एता᳓ व्या᳓हृतीᳶ पुर᳓स्ताद् दध्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,12 +540,15 @@ when he is about to recite the kindling-verses he should first insert the Vyahrt
 
 सामिधेनीरित्यादि । समिधामाधानमन्त्रास्सामिधेन्यः 'प्र वो वाजाः' इत्याद्याः । 'समिधामाधाने षेण्यण्', 'हलस्तद्धितस्य' इति यलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मैव᳓ प्रतिप᳓दङ् कुरुते ।
 त᳓था ब्राह्मण᳓स् सा᳓शीर्केण यज्ञे᳓न यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,6 +571,7 @@ and thus the Brahman sacrifices with an offering which has a blessing.
 
 प्रतिपदं प्रारम्भं कुरुते । प्रथमतः पद्यत इति प्रतिपत् । सम्पदादित्वात्क्विप् ॥
 </details>
+</details>
 
 ## व्याहृति-स्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -525,6 +582,8 @@ and thus the Brahman sacrifices with an offering which has a blessing.
 भ्रातृव्य-देवत्या᳙ वै᳓ पुरोऽनुवाक्या᳙ ।  
 भ्रा᳓तृव्यम् एवा᳓स्य यज्ञ᳓स्य [36] +आशी᳓र् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,6 +610,7 @@ verily the blessing of his sacrifice falls to his foe [4].
 
 7यं कामयेतेत्यादि ॥ पुरस्तादवदानकालेनूच्यत इति पुरोनुवाक्या । गतमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -562,6 +622,8 @@ verily the blessing of his sacrifice falls to his foe [4].
 याज्या᳙या अर्धर्च᳓ ए᳓काम्।  
 त᳓थैनान्त् समा᳓वती यज्ञ᳓स्याऽऽशी᳓र् गच्छति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,6 +667,7 @@ and thus the blessing of the sacrifice falls to them equally.
 
 यान्का॒मये॑त॒ यज॑मानान्त्स॒माव॑त्येतान् …
 </details>
+</details>
 
 ## उदकग्रहणम्
 
@@ -615,6 +678,8 @@ and thus the blessing of the sacrifice falls to them equally.
 स्थ᳓लया +उदक᳓म् परिगृह्ण᳓न्ति -   
 आशि᳓षा यज्ञय्ँ᳓ य᳓जमानᳶ प᳓रिगृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -639,6 +704,7 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 
 यथेति । **स्थलया** कूलेन उदकं परिगृह्णन्ति निरुद्धन्ति । एवमाशिषा यज्ञं यजमानः परिगृह्णाति फलप्रदानैकव्यापारयन्त्रितमिव करोति, यथा न कदाचिदपि फलमददानस्तिष्ठति, दत्ते चेदं न याचते यजमानः, याचितेयाचिते ददाति यज्ञ इति ॥
 </details>
+</details>
 
 ## आघाराभिमन्त्रणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +715,8 @@ they surround the water with a mound, the sacrificer surrounds the sacrifice wit
 प्रा᳓जा᳓पत्यो᳓ यज्ञो᳓,  
 म᳓न एव᳓ यज्ञ᳓म् आत्म᳓न् धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -671,11 +739,15 @@ verily he confers upon himself mind and the sacrifice.
 
 9मनोसीति ॥ स्रौवाघाराभिमन्त्रणम् । प्राजापत्याविशेषान्मन इति यज्ञ उच्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वाग॑स्यै॒न्द्री स॑पत्न॒क्षय॑णी
 वा॒चा मे॑न्द्रि॒येणाऽऽवि॒शेत्या॑है॒न्द्री वै वाग्वाच॑मे॒वैन्द्रीमा॒त्मन्ध॑त्ते ॥ [38] 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +756,8 @@ verily he confers upon himself mind and the sacrifice.
 वाचा᳓ मेन्द्रिये᳓णा᳓ऽऽविशे᳓"त्य् आह।  
 ऐन्द्री᳓ वै᳓ वा᳓ग्, वा᳓चम् एवै᳓न्द्री᳓म् आत्म᳓न् धत्ते ॥ [38]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -707,4 +781,5 @@ verily he confers upon himself speech as connected with Indra.
 10वागसीति ॥ स्रुच्याघाराभिमन्त्रणम् । गतम् ॥
 
 इति षष्ठे दशमोनुवाकः ॥  
+</details>
 </details>

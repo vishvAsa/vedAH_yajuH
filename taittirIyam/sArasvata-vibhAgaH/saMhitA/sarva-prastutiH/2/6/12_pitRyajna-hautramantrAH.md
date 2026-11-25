@@ -4,9 +4,12 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 त्रिष्टुप् , १, १२ अनुष्टुप्, ५ जगती
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 महापितृयज्ञे सामिधेनी एकैव त्रिरुच्यते । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/016/12_ushantastvA_ni.md">
@@ -21,12 +24,15 @@ title = "१२ पितृयज्ञ-हौत्रमन्त्राः
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Eagerly we hail thee,  
 Eagerly would we kindle thee;  
 Eager bring the eager,  
 The fathers, to eat the offering.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/016/12_ushantastvA_ni.md">
@@ -308,12 +314,15 @@ Begehrend setzen wir dich hin, begehrend zünden wir dich an, Die Väter fahr zu
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou, O Soma, art pre-eminent in wisdom;  
 Thou movest along the straightest path;  
 Through thy guidance, O drop, our fathers wisely divided  
 The treasure among the gods.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/01_tvaM_soma.md">
@@ -684,12 +693,15 @@ Du ragst, o Soma, hoch hervor an Weisheit, du führst, o Indu, auf dem gradsten 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 By thee, O Soma Pavamana, our ancient fathers  
 Wisely ordained the offerings;  
 Conquering, untroubled, do thou open the barriers;  
 Be generous to us in heroes and horses [1].
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/096/11_tvayA_hi.md">
@@ -1041,12 +1053,15 @@ Denn unsre alten weisen Väter thaten durch dich, o heller Soma, ihre Werke, Die
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou, O Soma, in accord with the fathers,  
 Hast stretched over sky and earth;  
 To thee, O drop, let us make sacrifice with offering;  
 Let us be lords of wealth.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/048/13_tvaM_soma.md">
@@ -1351,9 +1366,12 @@ O Soma, du vereinigt mit den Vätern, hast dich verbreitet über Erd' und Himmel
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अग्निष्वात्ता इति जगती ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/11_agniShvAttAH_pitara.md">
@@ -1368,12 +1386,15 @@ O Soma, du vereinigt mit den Vätern, hast dich verbreitet über Erd' und Himmel
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O fathers, made ready by Agni, come hither;  
 With good leadership sit ye on each seat;  
 Eat ye the offerings set out on the strew;  
 And give us wealth with many heroes.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/11_agniShvAttAH_pitara.md">
@@ -1694,12 +1715,15 @@ Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O fathers that sit on the sacrificial strew, come hither with your aid;  
 We have made these offerings for you; accept them,  
 And then come to us with your most healing aid,  
 Give us [2] health, wealth, and safety!
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/04_barhiShadaH_pitara.md">
@@ -2047,9 +2071,12 @@ O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7आहमिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/03_AhaM_pitRRntsuvidatrA_N.md">
@@ -2064,12 +2091,15 @@ O Väter, auf der Streu, mit Hülfe naht euch; hier haben wir euch Trank gebraut
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 I have found the kindly fathers,  
 The scion and the step of Visnu;  
 They that sit on the sacrificial strew and enjoy the drink  
 That is pressed for them with the Svadha call are most eager to come hither.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/03_AhaM_pitRRntsuvidatrA_N.md">
@@ -2408,12 +2438,15 @@ Ich hab' entdeckt die gabenreichen Väter, die Kinder und den höchsten Schritt 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Invoked are the fathers who love the Soma  
 To their dear homes on the sacrificial strew;  
 May they come hither; may they hear us here;  
 May they speak for us; and may they aid us.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/05_upahUtAH_pitaraH.md">
@@ -2735,12 +2768,15 @@ Geladen sind die Soma-frohen Väter zu lieben Speisen, welche auf der Streu steh
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Let them arise, the lower and the higher  
 And the middle fathers who love the Soma;  
 They who lived their lives [3] in goodness and without sin;  
 May these fathers help us when we call.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/01_udIratAmavara_utparAsa.md">
@@ -3092,12 +3128,15 @@ Erheben mögen sich die ersten Väter, die letzten und die mittelsten, die fromm
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Be this homage to-day to the fathers,  
 Who went before and who went after;  
 Who are seated in the earthly region  
 Or who are now in abodes with fair dwellings.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/02_idaM_pitRbhyo.md">
@@ -3443,12 +3482,15 @@ Dies Andachtswerk sei heut geweiht den Vätern, die früher und die später heim
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 As our fathers before,  
 Of old, O Agni, furthering right,  
 Sought the pure, the devotion, singing hymns,  
 Cleaving the earth they disclosed the red ones.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/002/16_adhA_yathA.md">
@@ -3830,6 +3872,8 @@ Als unsre Väter, sie die frühern, alten, anfachten einst das heil'ge Feur, o A
 प्र᳓ च हव्या᳓नि वक्ष्यसि देवे᳓भ्यश्च पितृ᳓भ्य आ᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 When, O Agni [4], bearer of oblations,  
@@ -3859,6 +3903,7 @@ To the gods and to the fathers.
 
 इयं ऋक् शाकलसंहितायां पठ्यते ।
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/12_tvamagna_ILito.md">
 
@@ -3872,12 +3917,15 @@ To the gods and to the fathers.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou, O Agni, praised, all-knower,  
 Didst carry the offerings making them fragrant;  
 Thou didst give them to the fathers who ate them at the Svadha call;  
 Eat thou, O god, the offerings set before thee.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/015/12_tvamagna_ILito.md">
@@ -4200,9 +4248,12 @@ Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schm
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14वावृधान इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/03_mAtalI_kavyairyamo.md">
@@ -4217,12 +4268,15 @@ Du Wesenkenner, Agni, bist gepriesen, du fuhrst die Opfer jetzt, sie duftig schm
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Matali with the Kavyas, Yama with the Angirases,  
 Brhaspati rejoicing with the Rkvans,  
 Those whom the gods magnified and those who magnified the gods;  
 Some in the Svaha call, some in the Svadha rejoice [5].
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/03_mAtalI_kavyairyamo.md">
@@ -4555,12 +4609,15 @@ Dort freut sich Matali mit Kavja's, Jama mit Angiras, Brihaspati mit Rikvan's, G
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Sit on this strew, O Yama,  
 In accordance with the Angirases, the fathers;  
 Let the verses made by the poets bring thee hither;  
 Rejoice, O king, in this offering.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/04_imaM_yama.md">
@@ -4899,12 +4956,15 @@ So setz dich, Jama, hin auf diesen Grassitz, vereint den Angiras und unsern Vät
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Come with the Angirases who deserve the sacrifice,  
 Yama, rejoice here with the Vairupas;  
 I summon Vivasvant who is thy father,  
 Sitting down on the strew at this sacrifice.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/05_angirobhirA_gahi.md">
@@ -5208,9 +5268,12 @@ Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhne
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17अङ्गिर इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md">
@@ -5225,12 +5288,15 @@ Komm, Jama, mit den heil'gen Angirasen, berausch dich hier mit den Virupa-Söhne
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The Angirases, our fathers, the Navagvas,  
 Atharvans, Bhrgus, who love the Soma;  
 May we be in the favour of those ones worthy of sacrifice;  
 May we have their kindly good will.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/014/06_angiraso_naH.md">

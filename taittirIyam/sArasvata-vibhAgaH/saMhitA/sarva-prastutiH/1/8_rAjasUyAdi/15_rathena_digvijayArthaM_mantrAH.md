@@ -2,6 +2,8 @@
 title = "१५ रथेन दिग्विजयार्थं मन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १८ जगती
@@ -13,10 +15,11 @@ title = "१५ रथेन दिग्विजयार्थं मन्�
 
 1रथमुपावहरति - इन्द्रस्येति ॥ व्याख्यातम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/indrasya_vajro_si_vRtraghnaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य व᳓ज्रोऽसि,  
@@ -49,12 +52,15 @@ ______________
 यो वृत्रं हतवान् तस्येन्द्रस्य वज्रो वृत्रवधसाधनभूतो रथमसि ॥
 
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓या ऽयव्ँ᳓ वृत्रव्ँ᳓ वध्यात्  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,12 +85,15 @@ with thee may he slay his foe.
 ______________
 तस्मात्तादृशेन **त्वयाऽयं** यजमानो **वृत्रं वध्याद्** इति ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2प्रष्टिवाहिनं रथं युनक्ति - मित्रावरुणयोरिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +102,8 @@ ______________
 प्रशास्त्रोᳶ᳓ प्रशि᳓षा **युनज्मि**  
 यज्ञ᳓स्य यो᳓गेन ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,23 +124,31 @@ By the precept of Mitra and Varuna, the directors, I yoke thee with the yoking o
 
 मित्रावरुणयोः प्रशास्त्रोः । औणादिकस्तृच्, तृच इडभावः । प्रशिषा प्रकृष्टेन शासनेनाज्ञया त्वां युनाज्मि । 'शास इदङ्हलोः' इतीत्वं, 'शासिवसिघसीनाम्' इति षत्वम् । यज्ञस्य योगेन हेतुना यज्ञे यथा युज्येतेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3-5रथमभिप्रैति - विष्णोरित्यादि ॥ व्याख्यातम् ॥  
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -150,11 +169,14 @@ Thou art the stepping of Visnu,
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,11 +197,14 @@ thou art the step of Visnu,
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,18 +225,23 @@ thou art the stride of Visnu.
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6रथमातिष्ठति - मरुतामीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓ताम् प्रसवे᳓ **जेषम्**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,16 +262,22 @@ On the instigation of the Maruts may I conquer.
 
 मरुतां प्रसवे अनुज्ञायां सत्यां मरुद्भिरेवाहं जेषं जीयासं शत्रून् । जयतेर्लेटि 'सिब्बहुलं लेटि' इत्यडागमः, इतश्च लोपः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7कूबरम् अभिमन्त्रयते - आप्तमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आप्त᳓म्** म᳓नः,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,11 +302,14 @@ Be mind ready.
 
 'इन्द्रियमिन्द्रलिङ्गम्' इति निपात्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **समह᳓म्** इन्द्रिये᳓ण वीर्ये᳙ण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,11 +325,15 @@ May I be united with power and strength.
 
 समिति॑ । अ॒हम् । इ॒न्द्रि॒येण॑ । वी॒र्ये॑ण ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8 वाराही उपानहाव् उपमुञ्चते -  
 पशूनां मन्युर् असीति ॥  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +341,8 @@ May I be united with power and strength.
 प᳓शूना᳓म् मन्यु᳓र् **असि**  
 त᳓वेव मे मन्यु᳓र् **भूयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -318,16 +363,22 @@ Thou art the spirit of cattle; like them may my spirit be.
 
 पशूनां मन्युर्दीप्तिरसि क्रोधजन्मा गृह्यते । प्रकृतिशब्देन विकार उच्यते 'पशूनां वा एष मन्युः । यद्वराहः' इति च ब्राह्मणम् । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् । तवेव ममापि मन्युर्भूयात् दीप्तिमान् स्याम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9इमाम् अभिमृशति - नम इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मात्रे᳓ पृथिव्यै᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -348,10 +399,14 @@ Homage to mother earth;
 
 मात्रे सर्वस्योत्पादयित्र्यै पृथिव्यै नमः । 'उभयत्राप्युदात्तयणः' इति चतुर्थ्या उदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तस्य दक्षिणं पादमुपावहरति - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -359,6 +414,8 @@ Homage to mother earth;
 **मा᳓** ऽह᳓म् मात᳓रम् पृथिवीँ᳓ **हिँसिषम्**  ।  
 **मा᳓** मा᳓म् माता᳓ पृथिवी᳓ **हिँसीत्** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -380,16 +437,22 @@ may I not harm mother earth [1]; may mother earth harm me not.
 
 मातरं पृथिवीं अहं मा हिंसिषं अनेन पादक्रमेण । न हि कश्चिन्मातरं हिनस्ति । पृथिवी च माता मा हिंसीत् । न हि कं चिदपि माता हिनस्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11सव्येंसे राजतं मणिं प्रतिमुञ्चते - इयदिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓यद् अस्य्, आ᳓युर् अस्य्, आ᳓युर् मे धेहि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,10 +473,14 @@ So great art thou, thou art life, bestow life upon me;
 
 इदं परिमाणमस्येयत् । 'किमिदम्भ्यां वो घः' इति मतु, 'इदङ्किमोरीश्की' 'यस्येति' लोपः, उदात्तनिवृत्तिस्वरेण इकार उदात्तः । इयत्तया परिच्छिन्नमसि ; तस्मादायुरसीति आयुरिवेयत्तया परिच्छिन्नत्वात्, आयुर्हेतुत्वाद्वा ; तस्मात्तादृशस्त्वमायुर्मे धेहि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12दक्षिणेंसे औदुम्बरं - ऊर्गसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +488,8 @@ So great art thou, thou art life, bestow life upon me;
 ऊ᳓र्ग् असि ।  
 ऊ᳓र्जम् मे धेहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,10 +511,14 @@ thou art strength, bestow strength upon me;
 
 ऊर्गन्नं तदेव त्वमसि तद्धेतुर्वा । तादृशं त्वमूर्जं धेहि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13दक्षिण एवांसे सौवर्णं - युङ्ङसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +527,8 @@ thou art strength, bestow strength upon me;
 व᳓र्चो ऽसि ।  
 व᳓र्चो म᳓यि धेहि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -476,18 +551,23 @@ thou art the yoker; thou art radiance, bestow radiance upon me.
 
 योजयतीति युङ्, युक्तो वा । सर्वत्र ऋत्विगादिना क्विन्, 'युजेरसमासे' इति नुम्, 'क्विन्प्रत्ययस्य' इति कुत्वम् । तस्मात्त्वं वर्चो दीप्तिरसि । दीप्त्या हि योग्यतां भजते तत्त्वं वर्चो मे धेहि स्थापय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14-17रथविमोचनीयं जुहोति - अग्नय इत्याद्याः ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/15_rathena_digvijayArthaM_mantrAH/agnaye_gRhapataye_svAhA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये गृह᳓-पतये स्वा᳓हा ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -508,13 +588,15 @@ To Agni, lord of the house, hail!
 
 अग्नये गृहाणां निवासाधाराणां पात्रे । 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓माय व᳓नस्-प᳓तये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,11 +617,14 @@ To Soma, lord of the forest, hail!
 
 सोमाय वनानां वनप्रभवानां दारूणां पात्रे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य ब᳓लाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,11 +645,14 @@ To Indra's strength hail!
 
 'इन्द्रस्य वज्रोसि' इत्युक्तं, तदात्मने मरुतामोजसे वेगाय ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓ताम् ओ᳓जसे स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -580,10 +668,14 @@ To the Maruts' force hail!
 
 म॒रुता॑म् । ओज॑से । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18रथवाहने रथमादधाति - हंस इत्यतिजगत्या ॥ 'अतिच्छन्दसा दधाति' इत्यादि ब्राह्मणम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">

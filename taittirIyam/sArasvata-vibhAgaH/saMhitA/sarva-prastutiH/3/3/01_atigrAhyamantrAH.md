@@ -4,6 +4,8 @@ title = "०१ अतिग्राह्यमन्त्राः"
 ७-९ द्विपदा गायत्री  
 विश्वेदेवा ऋषयः  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथातिग्राह्यमाणम् आग्नेयगृहीतं होष्यन्न् अवेक्षते - अग्ने तेजस्विन्निति ॥ 
@@ -13,11 +15,14 @@ title = "०१ अतिग्राह्यमन्त्राः"
 
 अग्ने॑ तेजस्विन्तेज॒स्वी त्वन्दे॒वेषु॑ भूया॒स्तेज॑स्वन्त॒म्मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने तेजस्विन् तेजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ O Agni, brilliant, be thou brilliant among the gods;
 
 हे अग्ने तेजस्विन् अतिशयेन दीप्तिमन् त्वं देवेषु मध्ये एवं सर्वदा तेजस्वी भूयाः भक्त्यतिशयेन विच्छेदभीरुरिवाशास्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,16 +71,22 @@ make me brilliant, of long life, radiant among men;
 
 मामपि मनुष्येषु मध्ये तेजस्वन्तं अन्येभ्योधिकदीप्तिमन्तं आयुष्मन्तं दीर्घायुषं अन्येभ्योपि वाऽधिकमन्नवन्तं वर्चस्वन्तम् महाबलं महान्तं वा कुरु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2जुहोति - 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓यै च त्वा त᳓पसश् च ते᳓जसे जुहोमि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -93,6 +107,9 @@ for the brilliance of consecration and of penance do I offer to thee.
 
 दीक्षायै दीक्षायास्तपस उपवासादेश्च सकाशात् यत्तेज उत्पद्यते तन्मे भूयादिति त्वां जुहोमि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -103,11 +120,14 @@ for the brilliance of consecration and of penance do I offer to thee.
 
 3हुत्वा वाचयति - तेजोविदसीति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजो-वि᳓द् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,11 +148,14 @@ Thou dost win brilliance;
 
 तेजसो वेत्ता लब्धा लम्भयिता वा त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो मा मा᳓ हासीत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,10 +176,14 @@ may brilliance forsake me not,
 
 त्वंर्त्संबन्धात् मां तेजो मा हासीत् मा त्याक्षीत् । जहातेः लुङि 'यमरमनमातां सक्च' इति सगिटौ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इदानीं तद्-अहानं द्वेधा प्रार्थयते - माऽहमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +191,8 @@ may brilliance forsake me not,
 मा᳓ऽह᳓न्ते᳓जो हासिषम् ।  
 मा᳓ मा᳓न्ते᳓जो हासीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -185,6 +214,9 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 तेजः तेजोविषया जिहासा मम मा भूत्, तेजसोपि मद्विषया जिहासा मा भूदिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -195,12 +227,15 @@ may I forsake not brilliance, may brilliance forsake me not.
 
 इन्द्रौ॑जस्विन्नोज॒स्वी त्वन्दे॒वेषु॑ भूया॒ ओज॑स्वन्त॒म्मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑ष
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रौजस्विन्न् ओजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः ।  
 ओ᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,16 +257,22 @@ O Indra, full of force, be thou full of force among the gods, make me full of fo
 
 ओजो बलम् । गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5जुहोति - ब्रह्मण इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणश् च त्वा क्षत्र᳓स्य चौ᳓जसे जुहोमि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,6 +293,9 @@ for the force of the Brahmanhood and royalty [1] do I offer to thee.
 
 ब्रह्मभिः क्षत्रैश्च यदोज उतद्यते तन्मे भूयादिति त्वां जुहोमि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -262,11 +306,14 @@ for the force of the Brahmanhood and royalty [1] do I offer to thee.
 
 6हुत्वा वाचयति - 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओजो-वि᳓द् असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -287,6 +334,7 @@ Thou dost win force;
 
 ओजोविदिति ॥ गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -294,6 +342,8 @@ Thou dost win force;
 मा᳓ ऽह᳓म् ओ᳓जो हासिषम् ।  
 मा᳓ मा᳓म् ओ᳓जो हासीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,6 +361,9 @@ may force forsake me not, may I forsake not force, may force forsake me not.
 
 ओजः॑ । मा॒ । मा । हा॒सी॒त् । मा । अ॒हम् । ओजः॑ । हा॒सि॒ष॒म् । मा । माम् । ओजः॑ । हा॒सी॒त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -321,11 +374,14 @@ may force forsake me not, may I forsake not force, may force forsake me not.
 
 सूर्य॑ भ्राजस्विन्भ्राज॒स्वी त्वन्दे॒वेषु॑ भूया॒ भ्राज॑स्वन्त॒म् मामायु॑ष्मन्तव्ँ॒वर्च॑स्वन्तम्मनु॒ष्ये॑षु कुरु
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्य भ्राजस्विन्भ् राजस्वी᳓ त्व᳓न् देवे᳓षु भूयाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +402,14 @@ O sun, blazing, be thou blazing among the gods;
 
 भ्राजो दीप्तिः समानमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓जस्वन्तम् मा᳓म् आ᳓युष्मन्तव्ँ व᳓र्चस्वन्तम् मनुष्ये᳙षु कुरु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -366,16 +425,22 @@ make me blazing, of long life, radiant among men;
 
 भ्राज॑स्वन्तम् । माम् । आयु॑ष्मन्तम् । वर्च॑स्वन्तम् । म॒नु॒ष्ये॑षु । कु॒रु॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8जुहोति - वायोरिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायो᳓श् च त्वा ऽपा᳓ञ् च भ्रा᳓जसे जुहोमि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,6 +461,9 @@ for the blazing of the wind and of the waters do I offer to thee.
 
 वायुना अद्भिश्च यद्वाजस्संपद्यते तन्मे भूयादिति त्वां जुहोमि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -406,11 +474,14 @@ for the blazing of the wind and of the waters do I offer to thee.
 
 सुव॒र्विद॑सि॒ सुव॑र्मा॒ मा हा॑सी॒न्माहँ सुव॑र्हासिष॒म्मा माँ सुव॑र्हासीत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्-वि᳓द् असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,6 +502,7 @@ Thou dost win the light;
 
 गतम् । सुवः स्वर्गम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -438,6 +510,8 @@ Thou dost win the light;
 मा᳓हँ᳓ सु᳓वर् हासिषम् ।  
 मा᳓ माँ᳓ सु᳓वर् हासीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,17 +529,23 @@ may the light forsake me not, may I not forsake the light, may the light forsake
 
 सुवः॑ । मा॒ । मा । हा॒सी॒त् । मा । अ॒हम् । सुवः॑ । हा॒सि॒ष॒म् । मा । माम् । सुवः॑ । हा॒सी॒त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10-12त्रयाणां क्रमेण भक्षमन्त्राः - मयि मेधामित्याद्याः ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/01_atigrAhyamantrAH/mayi_medhAm.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मय्य॒ग्निस्तेजो॑ दधातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयीन्द्र॑ इन्द्रि॒यन्द॑धातु॒ मयि॑ मे॒धाम्मयि॑ प्र॒जाम्मयि॒ सूर्यो॒ भ्राजो॑ दधातु ॥ [2]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +553,8 @@ may the light forsake me not, may I not forsake the light, may the light forsake
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓य्य् अग्नि᳓स् ते᳓जो दधातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,12 +577,15 @@ On me wisdom, on me offspring, on me brilliance may Agni bestow;
 प्रजा पुत्रादिः ।  
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓यी᳓न्द्र इन्द्रिय᳓न् दधातु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -525,12 +610,15 @@ on me wisdom, on me offspring, on me power may Indra bestow;
 
 इति तृतीये तृतीये प्रथमोनुवाकः ॥  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि मेधा᳓म् म᳓यि प्रजा᳓म्,  
 म᳓यि सू᳓र्यो भ्रा᳓जो दधातु  ॥ [2]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -546,5 +634,5 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 
 मयि॑ । मे॒धाम् । मयि॑ । प्र॒जामिति॑ प्र-जाम् । मयि॑ । सूर्यः॑ । भ्राजः॑ । द॒धा॒तु॒ ॥
 </details>
-
+</details>
 </div>

@@ -15,8 +15,11 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA/page/n132/mode/
 श्री-गोपाल-गुरुं भजे ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 त्रय्यन्तसूरिसिद्धान्तदुग्धसिन्धुसुधाकरम् ।  
 आत्रेयगोत्रपद्मार्कं श्रीगोपालगुरुं भजे ॥
+</details>
 </details>

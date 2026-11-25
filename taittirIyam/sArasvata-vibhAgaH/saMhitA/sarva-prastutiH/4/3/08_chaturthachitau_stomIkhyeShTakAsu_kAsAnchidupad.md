@@ -4,6 +4,8 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒शुस्त्रि॒वृद्भा॒न्तᳶ प॑ञ्चद॒शो व्यो॑म सप्तद॒शᳶ प्रतू॑र्तिरष्टाद॒शस्तपो॑ नवद॒शो॑ऽभिव॒र्तस्स॑विँ॒शो ध॒रुण॑ एकविँ॒शो वर्चो॑ द्वाविँ॒शस्स॒म्भर॑णस्त्रयोविँ॒शो योनि॑श्चतुर्विँ॒शो गर्भाः॑ पञ्चविँ॒श ओज॑स्त्रिण॒वᳵ क्रतु॑रेकत्रिँ॒शᳶ प्र॑ति॒ष्ठा त्र॑यस्त्रिँ॒शो ब्र॒ध्नस्य॑ वि॒ष्टप॑ञ्चतुस्त्रिँ॒शो नाक॑ष्षट्त्रिँ॒शो वि॑व॒र्तो॑ऽष्टाचत्वारिँ॒शो ध॒र्त्रश्च॑तुष्टो॒मः ॥ [15]  
@@ -17,11 +19,14 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 अथाष्टमे चतुर्थ्यां चितावक्ष्णयास्तोमीयाख्यास्विष्ठकासु काश्चिदुच्यन्ते ।    कल्पः—“श्वोभूते पौर्वाह्णिकीभ्यां प्रचर्य चतुर्थी चितिं चिनोत्याशुस्त्रिवृदग्नेर्भागोऽसीत्येताभ्यां यथाब्राह्मणमुपधाय” इति।  
 तत्राऽऽद्यानुवाकपाठस्तु— आशुस्त्रिवृद्भान्त इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशु᳓स्त्रिवृ᳓त्  ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,11 +59,14 @@ title = "०८ चतुर्थचितौ स्तोमीख्येष
 तत्रैवमक्षरयोजना आशुः शैघ्ऱ्यगुणोपेतो यस्त्रिवृतस्तोमो हे इष्टके तद्रूपा त्वमसि ।  
 एवमुत्तरत्रापि याज्यम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,11 +87,14 @@ the shining, the fifteenfold;
 
 भान्तो भासमानः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यो᳙म सप्तदशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -104,11 +115,14 @@ the sky, the seventeenfold;
 
 व्योम प्रसिद्वं द्रव्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -130,11 +144,14 @@ speed, the eighteenfold;
 प्रकृष्टां तूर्तिस्त्वरा यस्यासौ प्रतूर्तिः ।  
 शघ्रिकारिणी  २००२ त्यर्थः ।    
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पो नवदशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,11 +172,14 @@ fervour, the nineteenfold;
 
 तपः प्रसिद्धम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवर्त᳓स्सविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +201,14 @@ attack, the twentyfold;
 अभिवर्तः सामविशेषः ।  
 सह विंशत्या संख्यया वर्तत इति सविंशः स्तोमविशेषः ।    
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धरु᳓ण एकविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,11 +229,14 @@ support, the twenty-onefold;
 
 धरुणो धारकः ।    
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्चो द्वाविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,11 +257,14 @@ radiance, the twenty-twofold;
 
 वर्चो बलहेतुः ।    
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -256,11 +285,14 @@ maintenance, the twenty-threefold;
 
 संभरणः सम्यक्पोषकः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓निश्चतुर्विँशः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +313,14 @@ the womb, the twenty-fourfold;
 
 योनिः प्रजोत्पादकः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,11 +341,14 @@ the embryo, the twenty-fivefold;
 
 गर्भाः प्रसिद्धाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जस्त्रिणवः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,11 +369,14 @@ might, the twenty-sevenfold;
 
 ओजोऽष्टमधातु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्र᳓तुरेकत्रिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,11 +397,14 @@ inspiration, the thirty-onefold;
 
 क्रतुर्ज्योर्तिष्टोमादिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +425,14 @@ support, the thirty-threefold;
 
 प्रतिष्ठा स्थितिहेतुः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रध्न᳓स्य विष्ट᳓पं चतुस्त्रिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -407,11 +454,14 @@ the surface of the tawny one, the thirty-fourfold;
 व्रध्नस्याऽऽदित्यस्य विष्टपं निवासस्थानम् ।  
 ‘असौ वा आदित्यो ब्नघ्नः’  इतिश्रुत्यन्तरात् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓कष्षट्त्रिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,11 +482,14 @@ the vault, the thirty-sixfold;
 
 नाकः स्वर्गाख्यभोगभूमिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवर्तो᳙ऽष्टाचत्वारिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,11 +512,14 @@ the revolving, the forty-eightfold;
 त्रिवृत्पञ्चदशसप्तदशैकविंशत्रिणवत्रयस्त्रिंशा अननैवाऽऽम्नातक्रमेण क्वचिदनुष्ठीयन्ते, क्वचितु विपरीतक्रमेण ।  
 अत एव सूत्रकारेण क्वचिदुक्तम्—‘त्रयस्त्रिंशारम्मणास्त्रिवृदुत्तमाः” इति ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्त्र᳓श्चतुष्टोमः᳓ ॥ [15]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -509,16 +565,22 @@ the support, the fourfold Stoma.
 अथ सप्तममन्त्रं विनियुङ्क्ते— “धरुण एकविँश इति पश्चात्प्रतिष्ठा वा एकविँ शः प्रतिष्ठित्यै” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।  
 सामिधेनीप्रकरण एकविंशस्तोमानां प्रतिष्ठेत्याम्नातत्वादस्य प्रतिष्ठात्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयं मन्त्रं विनियुङ्क्ते— “भान्तः पञ्चदश इत्युत्तरत ओजो वै भान्त ओजः पञ्चदश ओज एवो सरतो धते तस्मादुत्तरतोभिप्रमायी जयति” [सं॰ का॰ ५ प्र॰ ३ अ॰ ३] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भान्तᳶ᳓ पञ्चदशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -540,10 +602,14 @@ the shining, the fifteenfold;
 भासनस्यौजःकार्यत्वादोजस्त्वम् ।  
 अन्मत्र पञ्चदशो वज्र इत्यान्नातत्वादो जोवब्दलहेतुत्त्वाच्चौजरत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थं मन्त्रं विनियुङ्क्ते— “प्रतूर्तिरष्ठादश इति पुरस्तादुप दधाति द्वौ त्रिवृतावभिपूर्वं यज्ञमुखे वियातयति” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +617,8 @@ the shining, the fifteenfold;
 व्यो᳙म सप्तदशः᳓ ,
 प्र᳓तूर्तिरष्टादशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -573,16 +641,22 @@ the sky, the seventeenfold;
 अष्टादशस्तोमस्य पूर्वोत्तरभागयोर्नवसंख्योपेतत्वाद्द्वौ त्रिवृतौ संपद्येत।  
 तौ चाभिपूर्वमनुक्रमेण यज्ञमुखे प्रसारयति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठं मन्त्रं विनियुङ्क्ते—  “अभिवर्तः सविँ श इति दक्षिणतोऽन्नं वा अभिवर्तोऽन्नँ सविँशोऽ–  २००४ न्नमेव दक्षिणतो धत्ते तस्माद्दक्षिणेनान्नमद्यते” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवर्त᳓स्सविँशः᳓  ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -604,10 +678,14 @@ attack, the twentyfold;
 अभिवर्तसाम्नोऽन्नसाधनत्वादन्नत्वम् ।  
 विंशस्तोमस्य दशसंख्याकद्वयोपेतस्य विराडू द्वाराऽन्नत्वम् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमं मन्त्रं विनियुङ्क्ते— “वर्चो द्वाविँश इति पश्चाद्यद्विँ शतिर्द्वे तेन विराजौ यद्द्वे प्रतिष्ठा तेन विराजोरेवाभिपूर्वमन्नाद्ये प्रतितिष्ठति” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,6 +694,8 @@ attack, the twentyfold;
 धरु᳓ण एकविँशः᳓ ,   
 व᳓र्चो द्वाविँशः᳓ ,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -640,16 +720,22 @@ support, the twenty-onefold; radiance, the twenty-twofold;
 विंशतेरुपरि ये द्वे तेन द्विसंख्याविशेषेण पादयोरिव प्रतिष्ठाहेतुत्वम् ।  
 तथा सति विराजोः संबन्धिन्येवान्नाद्ये क्रमेण प्रतिष्ठितो भवति ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चममन्त्रं विनियुङ्क्ते— “तपो नवदश इत्युत्तरतस्तस्मात्सव्यो हस्तयोस्तपस्वितरः” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ्त᳓पो नवदशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -672,16 +758,22 @@ fervour, the nineteenfold;
 यस्मादुदीच्यां दिशि तप इति मन्त्रः प्रवर्तते तस्मादुत्तरदिग्वर्ती वामहस्तो द्वयोर्हस्तयोर्मध्येऽतिशयेन तपस्वी ।  
 दक्षिणहस्तवद्भोजनशक्त्यभावादनशनस्य तपोरूपत्वात् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमं मन्त्रं विनियुङ्क्ते— “योनिश्चतुर्विँश इति पुरस्तादुप दधाति चतुर्विँ शत्यक्षरा गायत्री गायत्री यज्ञमुखं यज्ञमुखमेव पुरस्ताद्वि यादयति” [सं॰ का॰ ५ प्र॰ ३ अ॰ ३] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓निश्चतुर्विँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -702,16 +794,22 @@ the womb, the twenty-fourfold;
 
 प्रातःसवने प्रवृत्तत्वाद्गायत्र्या यज्ञमुखत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशं मन्त्रं विनियुङ्क्ते— “गर्भाः पञ्चविँ श इति दक्षिणतोऽन्नं वे गर्भा अन्नं पञ्चविँशोऽन्नमेव दक्षिणतो धत्ते तस्माद्दक्षिणेनान्नमद्यते” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग᳓र्भाः पञ्चविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -732,16 +830,22 @@ the embryo, the twenty-fivefold;
 
 गर्भाणामन्नकार्यत्वादन्नत्वं, पञ्चविंशस्यान्नहेतुत्वादन्नत्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशं मन्त्रं विनियुङ्क्ते—  २००५ “ओजस्त्रिणव इति पश्चादिये वै लोकस्त्रिणत्र एष्वेव लोकेषु प्रति तिष्ठति” [सं॰ का॰ ५ प्र॰ ३ अ॰ ३] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जस्त्रिणवः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,16 +866,22 @@ might, the twenty-sevenfold;
 
 त्रिणवे त्रिसंख्याया विद्यमानत्वाल्लोकत्रयरूपत्वम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमं मन्त्रं विनियुङ्क्ते— “संभरणस्रवोवँश इत्युत्तरतस्तस्मात्सव्यो हस्तयोः संभार्यतरः” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ᳓रणस्त्रयोविँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -793,16 +903,22 @@ maintenance, the twenty-threefold;
 सम्यग्भरणीयं भिक्षापात्रादिकं येन वामहस्तेन सोऽयं संभार्यतरः ।  
 यतः सो तिशयेन हस्तयोर्मध्ये धार्यं धारयति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ त्रयोदशं मन्त्रं विनियुङ्क्ते— “क्रतुरेकत्रिँश इति पुरस्तादुप दधाति वाग्वै ऋतुर्यज्ञमुख बाग्यज्ञमुखमेव पुरस्ताद्वि यातयति” [सं॰ का॰ ५ प्र॰ ३ अ॰ ३] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्र᳓तुरेकत्रिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -825,16 +941,22 @@ inspiration, the thirty-onefold;
 सा च वाग्यज्ञस्य मुखम् ।  
 प्रथमं मन्त्र मुच्चार्य पश्चादनुष्ठेयत्वात् ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चदशं मन्त्रं विनियुङ्क्ते— “ब्रघ्नस्य विष्टपं चतुस्रिँश इति दक्षिणतोऽसौ वा आदित्यो ब्रघ्नस्य विष्टपं ब्रह्मवर्चसमेव दक्षिणतो धत्ते तस्माद्दक्षिणोऽर्धो ब्रह्मवर्चसितरः” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रध्न᳓स्य विष्ट᳓पं चतुस्त्रिँशः᳓,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -856,16 +978,22 @@ the surface of the tawny one, the thirty-fourfold;
 यद्यप्यादित्य एव व्रघ्नो विष्टपं तु तस्य निवासस्थानं तथाऽप्यत्राभेद उषचर्यते ।  
 दक्षिणस्यां दिश्यादित्यसंवन्धिमन्त्रेणोपधानाद्दक्षिणहस्तो ब्रह्मवर्चसाधिकः ।   दक्षिणहस्ते ब्रह्मवर्चसशब्दाभिधेयं यद्वैदिकहोमपूजादिकं धारयति तस्माद्दक्षिणभागः एवातिशयेन ब्रह्मवर्चसयुक्तः ।   अत एवाऽऽशीर्वादादौ स एवं हस्तः प्रसरति ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्दशं मन्त्रं विनियुङ्क्ते— “प्रतिष्ठा त्रयस्त्रिँश इति पश्चात्प्रतिष्ठित्यै” [सं॰ का॰ ५ प्र॰ ३ अ॰ ३] इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिष्ठा᳓ त्रयस्त्रिँशः᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -886,10 +1014,14 @@ support, the thirty-threefold;
 
 मन्त्रगतेनैव प्रतिष्ठाशब्देन प्रतिष्टा सूचिता ।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षोडशं मन्त्रं विनियुङ्क्ते–  २००६ “नाकः षट्त्रिँश इत्युत्तरतः सुवर्गो वै लोको नाकः सुवर्गस्य लोकस्य समष्ट्यै” (सं॰ का॰ ५ प्र॰ ३ अ॰ ३) इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +1030,8 @@ support, the thirty-threefold;
 विवर्तो᳙ऽष्टाचत्वारिँशः᳓ ,
 धर्त्र᳓श्चतुष्टोमः᳓ ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -919,4 +1053,5 @@ the vault, the thirty-sixfold;
 <details><summary>सायण-टीका</summary>
 
 नाकशष्दार्थः प्रसिद्ध एव ।   अत्र विनियोगसंग्रहः— आशुरष्टादशाऽऽदध्यादक्ष्णयास्तोमसंयुताः— इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे तृतीयप्रपाठकेऽ ष्टमोऽनुवाकः ॥ ८ ॥  
+</details>
 </details>

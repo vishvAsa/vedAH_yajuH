@@ -6,6 +6,8 @@ title = "०३ भक्ष्यानुमन्त्रणादि"
 प्रजापतिर्ऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1प्राशित्रे ऽवदीयमाने जपति - अग्निर्मेति ॥ 
@@ -20,12 +22,15 @@ _______
 
 तृतीयानुवाके भक्षस्येडादिभागस्या-नुमन्त्रणमुच्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् मा दु᳓रिष्टात् पातु  
 सविता᳓ ऽघ᳓शँसात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,8 +62,11 @@ Savitr from evil report.
 अग्निर्मेति। कल्पः - “प्राशित्रेऽवदीयमाने जपति अग्निर्मा दुरिष्टात्पातु सविताऽघशँ सादिति” इति।  
 मन्त्रवैकल्येन क्रियावैकल्येन वा यदिष्टं दुरिष्टं तत्तस्माद्दुरिष्टादग्निर्मां पातु। अघशंसात्पापरुचेरसुरादेः सविता मां पातु।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2यजमानोऽवदीयमाने जपति - यो म इति ॥ 
@@ -68,12 +76,15 @@ _______
 
 यो मेऽन्तीति। कल्पः - “यजमानभागे यो मेऽन्ति दूरेऽरातीयति तमेतेन जेषमिति” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो मेऽन्ति᳓ दूरे᳙ ऽरातीयति  
 तम् एतेन᳓ जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,8 +111,11 @@ Him who near or afar plots evil against me, with this may I conquer.
 यजमानभाग इत्यस्यावदीयमाने जपतीति शेषोऽनुवर्तते। यो राक्षसादिर्ममान्तिके दूरे वाऽरातीयति शत्रुत्वमिच्छति तं राक्षसादिकमेतेन यजमानभागेन जेषं जयेयम्।  
 कल्पः - “इडामाह्रियमाणामनुमन्त्रयते सुरूपवर्षवर्ण एहीति मघोनीत्यन्तः” इति।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3इडाम् आह्रियमाणाम् अनुमन्त्रयते - सुरूपवर्षवार्ण इति ॥ 
@@ -111,11 +125,14 @@ _______
 
 सुरू॑पवर्षवर्ण॒ एही॒मान्भ॒द्रान्दुर्याँ॑ अ॒भ्येहि …
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓रूप-वर्ष-वर्ण+++(य्)+++ ए᳓हि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,11 +162,14 @@ O thou of fair rain colour, come
 
 सुरूपवर्षेति। गोशरीरं (रस्य) धारयित्र्या इडाख्याया देवतायाः संबोधनं सुरूपवर्षवर्ण इति। शृङ्गपुच्छादिकं रूपम्। वर्षं वृर्ष्टिः। वर्णः शुक्लकृष्णकपिलत्वादिः। शोभना रूपवर्षवर्णा यस्याः सा तथोक्ता। शृङ्गादीनामतिदीर्घत्ववक्रत्वादिपरिहारेण दर्शनीयत्वं रूपस्य शोभनत्वम्। वर्षं द्विविधमुदकरूपं च। तत्रेडा स्वकीयात्पदाद्घृतं वर्षति। तथा च मन्त्र आम्नायते - “इडायाः पदे घृतवति स्वाहा” इति। “मानवी घृतपदी मैत्रवरुणी” इति। “इडायाः पदं घृतवच्चराचरम्” इति च। तथा ब्राह्मणमप्याम्नायते – “सा यत्र यत्र न्यक्रामत्ततो घृतमपीड्यत तस्माद्घृतपद्युच्यते” इति। वृष्टिर्वा इडा वृष्ट्यै वै निक्रमणे घृतं प्रजाः संजीवन्तीः पिबन्ति” इति च। तदिदं घृतरूपत्वं वर्षस्य शोभनत्वम्। कर्बुरादिसंकीर्णत्वपरिहारेण विस्पष्टं शुक्लकृष्णकपिलत्वादिकं वर्णस्य शोभनत्वम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓न् भद्रा᳓न् दु᳓र्याँ+++(=यज्ञगृहान्)+++ अभ्ये᳓हि मा᳓म् अ᳓नुव्रता।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,11 +198,14 @@ Approach me in devotion.
 
 तथाविधे हे इडे, इमानस्मदीयान्भद्राञ्‍शास्त्रोक्तयज्ञसाधनसंपूर्णान् दुर्यान्यज्ञगृहान्प्रत्यागच्छ। ‘गृहा वै दुर्याः’ इति हि श्रूयते। किंच मामभिलक्ष्यानुव्रताऽस्मिन्यज्ञव्रतेऽनुकूला सती, एहि आगच्छ। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्य् उ +++(वक्ष्यमाणानि)+++ शीर्षा᳓णि मृढ्वम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,20 +233,25 @@ Touch the heads.
 
 उशब्दः समुच्चये। अपि च हे इडाविशेषा यूयमस्मदीयानि शिरांसि निमृड्ढ्वं नितरां स्नेहपूर्वकाघ्राणादिना शोधयध्यम्। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इड॒ एह्यदि॑त॒ एहि॒ सर॑स्व॒त्येहि॒ रन्ति॑रसि॒ रम॑तिरसि सू॒नर्य॑सि 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/iDa_ehi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓ड+++(य्)+++ ए᳓हि+++(=आ᳓+इहि)+++ ।  
 अ᳓दित ए᳓हि ।  
 स᳓रस्वत्य् ए᳓हि+++(=आ᳓+इहि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,13 +286,15 @@ O Sarasvati, come hither.
 त एवेडाविशेषा इडादिभिः सूनर्यन्तैः षड्भिर्नामविशेषैः स्पष्टी क्रियन्ते। इडादीनां गोनामविशेषत्वं सप्तमकाण्डे समाम्नातम् – ‘इडे रन्तेऽदिते सरस्वति प्रिये प्रेयसि महि विश्रुत्येतानि ते अघ्‍निये नामानि’ (सं॰ का॰ ७ प्र॰ १ अ॰ ६) इति।  
 एतेषां प्रदर्शनार्थत्वाद्रमत्यादिकमपि द्रष्टव्यम्। 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓न्तिर् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +315,14 @@ Thou art delight,
 
 रन्तिः रतिहेतुरसीहामुत्र च । क्तिचि 'न क्तिचि दीर्घश्च' इति टिलोपाभावः, वृषादिर्द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓मतिर् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,11 +343,14 @@ thou art delighting,
 
 रमतिः रमणीया । 'रमेर्निन्' इत्यतिप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू-न᳓र्य् असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,16 +373,22 @@ thou art fair.
 यद्वा - सुष्ठु नेत्री सूनरी । नृ नये, सुपूर्वात् 'अच इः' इतीप्रत्ययः, 'कृदिकारादक्तिनः' इति ङीष्, उपसर्गविकारश्छान्दसः, सर्वधानवधारणान्नावगृह्यते ।  
 यद्वा - रन्त्यादीन्यपि त्रीणि गवां नामधेयानि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 जुष्टे॒ जुष्टि॑न्तेऽशी॒योप॑हूत उपह॒वं [8]ते॒ऽशी॒य॒ सा मे॑ स॒त्याशीर॒स्य य॒ज्ञस्य॑ भूयात् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जु᳓ष्टे जु᳓ष्टिन् ते ऽशीय।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +414,14 @@ O thou in whom joy is taken, may I attain joy from thee
 
 हे जुष्टे प्रिये सेव्ये वा ते जुष्टिं त्वदीयां प्रीतिमशीय प्राप्नुयाम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓पहूत+++(य्)+++ उपहवं᳓ तेऽशीय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -402,11 +447,14 @@ O thou who art invoked, may I obtain invocation [1] from thee.
 
 हे उपहूत इड एहीत्येवमागमनायास्माभिर-नुज्ञातेऽहमपि त उपहवं त्वदीयामनुज्ञामशीय प्राप्नुयाम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ मे सत्या᳓ ऽऽशी᳓र् अस्य᳓ यज्ञ᳓स्य भूयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,16 +480,22 @@ May the prayer of the sacrificer be fulfilled for me.
 
 अस्य यज्ञस्य येयमाशीः फलप्रार्थना सा मे सत्या भूयात्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अरे॑डता॒ मन॑सा॒ तच्छ॑केयय्ँ य॒ज्ञो दिवँ॑ रोहतु  । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓रेडता+++(←रेडृ अनादरे)+++ म᳓नसा त᳓च् छकेयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,11 +522,14 @@ With untroubled mind may I have strength for this.
 
 अरेडताऽनादरमकुर्वता मनसा तत्फलं साधियतुं शकेयं त्वत्प्रसादाच्छक्तो भूयासम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ दि᳓वँ रोहतु  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,11 +555,14 @@ May the sacrifice mount the sky,
 
 मयाऽनुष्ठितोऽयं यज्ञो निःश्रेणीमिव क्रमेण दिवमारोहतु। केनापि वैकल्यप्रतिबन्धेन भ्रंशो यज्ञस्यानारोहणं, भ्रंशाभावे तु यज्ञ आरोहत्येव। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ दि᳓वङ् गच्छतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,12 +588,15 @@ may the sacrifice reach the sky.
 
 आरुह्य च यस्यां दिवि यज्ञहविर्भाजो निवसन्ति तां दिवं स्वर्गप्रदेशविशेषं गच्छतु। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ देवया᳓नᳶ प᳓न्थास्,  
 ते᳓न यज्ञो᳓ देवाँ᳓ अ᳓प्य् एतु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -558,6 +621,7 @@ The path that leadeth to the gods, along it may the sacrifice go to the gods.
 <details><summary>सायण-टीका</summary>
 
 तस्मिन्प्रदेशे गत्वा सभायामुपविष्टा देवा येन मार्गेण हविर्भोजनशालां गच्छन्ति तेनैव मार्गेणायं यज्ञो यज्ञसंबद्धहविर्देवानप्येतु प्राप्नोतु। 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/02_asmAsv_indra.md">
@@ -614,9 +678,12 @@ To us be she dear, victorious, bountiful.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 जुष्टिरसीति। कल्पः - “अवान्तरेडा प्राश्यमानामनुमन्त्रयते जुष्टिरसि जुषस्व नो जुष्टा नोऽसि जुष्टिं ते गमेयमिति” इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -624,6 +691,8 @@ To us be she dear, victorious, bountiful.
 जु᳓ष्टिर् असि - जुष᳓स्व नः।  
 जु᳓ष्टा नो ऽसि - जु᳓ष्टिन् ते गमेयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -651,11 +720,15 @@ thou art enjoyed by us [2], may I attain joy from thee.
 
 हेऽवान्तरेडे त्वं जुष्टिरसि प्रीतिरूपाऽसि। नोऽस्माञ्‍जुषस्व प्रीणय। नोऽस्माभिर्जुष्टाऽसि सेविताऽसि। ते जुष्टिं त्वदीयां प्रीतिं गमेयं प्राप्नुयाम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5-6 अवान्तरेडां प्राश्यमानाम् अनुमन्त्रयते
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
@@ -720,6 +793,8 @@ May the All-gods rejoice herein.
 ब्र᳓ध्न+++(=पिङ्गल!)+++ पि᳓न्वस्व।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Swell, O ruddy one.
@@ -748,12 +823,15 @@ Swell, O ruddy one.
 
 यज्ञपुरुषवाची ब्रध्नशब्दः। ‘यज्ञो वै ब्रध्नः’ इति श्रुतेः हे ब्रध्न पिन्वस्वास्मानृत्विजश्च प्रीणय। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓दतो मे मा᳓ क्षायि।  
 कुर्वतो᳓ मे मो᳓पदसत्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -781,8 +859,11 @@ May (my act) as I give be not destroyed; may (my act) as I work not perish.
 
 ददतो धनं प्रयच्छतो मम देयं धनं मा क्षीयतामपि तूपचीयताम्। यागं कुर्वतो मम सामर्थ्य मोपदसन्मोपक्षीयतामपि तु पुनः पुनर्वर्धताम्। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अन्वाहार्यम् आसन्नम् अभिमन्त्रयते - प्रजापतेरिति ॥ 
@@ -792,11 +873,14 @@ _______
 
 प्र॒जाप॑तेर्भा॒गो॑ऽस्यूर्ज॑स्वा॒न्पय॑स्वान् प्राणापा॒नौ मे॑ पाहि 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेर् भागो᳙ ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -824,11 +908,14 @@ Thou art the portion of Prajapati.
 कल्पः - ‘अथान्वाहार्यं याचति तमन्तर्वेद्यासन्नमभिमन्त्रयते प्रजापतेर्भागोऽस्यूर्जस्वान्पयस्वाप्राणापानौ मे पाहि समानव्यानौ मे पाह्युदानव्यानौ मे पाह्यक्षितोऽस्यक्षित्यै त्वा मा मे क्षेष्ठा अमुत्रामुष्मिल्ँ लोक इति’ इति।  
 यद्यप्यन्वाहार्य ऋत्विजां भागस्तथाऽपि तेन प्रजापतेः परितोषात्तद्भागत्वमप्यविरुद्धम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्जस्वान् प᳓यस्वान् प्राणापानौ᳓ मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -860,11 +947,14 @@ Protect my expiration and inspiration;
 उदानः कण्ठदेशस्थो व्यानः सर्वशरीरगः” इति।  
 उच्छ्वासनिःश्वासौ प्राणव्यापारः। मलमूत्रयोरधःपातनमपानव्यापारः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समानव्यानौ᳓ मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -885,11 +975,14 @@ protect my breathing together and cross-breathing;
 
 समानो नाम सर्वसाधारणो हृदये स्थितो वायुः । व्यानो नाम मनो व्याप्य स्थितो नडीभिरन्नादिरसस्य नेता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदानव्यानौ᳓ मे पाहि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -915,18 +1008,23 @@ protect my out-breathing and cross-breathing.
 
 भुक्तस्यान्नरसस्य शरीरे साम्येन नयनं समानव्यापारः। उद्गारादिरुदानव्यापारः। कृत्स्नासु शरीरनाडीषु व्याप्य प्राणापानवृत्योः संधिकाले शरीरस्य बलप्रदानं व्यानव्यापारः। अत एव च्छन्दोगा आमनन्ति – ‘यद्वै प्राणिति स प्राणो यदपानिति सोऽपानः। अथ यः प्राणापानयोः संधिः स व्यानो यो व्यानः सा वाक्तस्मादप्राणन्ननपानन्वाचमभिव्याहरति। अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाऽग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानँ-स्तानि करोति’ इति। एवं बहुविधव्यापारहेतुत्वात्प्राधान्यं द्योतयितुं व्यानस्य द्विरुक्तिः। यद्वा नागकूर्मादिवायुविशेषाणामत्रान्तर्भामभिप्रेत्य पुनरप्युक्तिः। 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/03_bhaxyAnumantraNAdi/axitosi.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अक्षि॑तो॒ऽस्यक्षि॑त्यै त्वा॒ मा मे॑ क्षेष्ठा अ॒मुत्रा॒मुष्मि॑न्लो॒के  ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓क्षितोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -947,11 +1045,14 @@ Thou art imperishable,
 
 अक्षितः अक्षीणोसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓क्षित्यै त्वा +++(ददामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -972,11 +1073,14 @@ for imperishableness thee;
 
 अक्षित्यै इह चामुत्र चाक्षयाय त्वां ददामीति सामर्थ्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ मे क्षेष्ठा अमु᳓त्रामु᳓ष्मिल्ँ लोके᳓  ॥  [10]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1006,5 +1110,5 @@ mayst thou not perish for me, yonder, in yonder world.
 
 तस्मात्परलोकेऽप्यक्षित्यै त्वां ददामीति शेषः। तेनाभिप्रायेण दीयमानत्वादमुत्र परलोके मम भोगाय मा क्षेष्ठाः क्षयं मा प्राप्नुहि। तस्मादहमप्यमुष्मिल्ँ लोके त्वां यथेच्छमनुभवामीति शेषः।  
 </details>
-
+</details>
 </div>

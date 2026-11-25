@@ -3,15 +3,20 @@ title = "०९ हविर्धानस्य शकटे अन्तर�
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒द्धमव॑ स्यति वरुणपा॒शादे॒वैने॑ मुञ्चति॒ प्र णे॑नेक्ति॒ मेध्ये॑ ए॒वैने॑ करोति सावित्रि॒यर्चा हु॒त्वा ह॑वि॒र्धाने॒ प्र व॑र्तयति सवि॒तृप्र॑सूत ए॒वैने॒ प्र व॑र्तयति॒ वरु॑णो॒ वा ए॒ष दु॒र्वागु॑भ॒यतो॑ ब॒द्धो यदक्ष॒स्स यदु॒त्सर्जे॒द्यज॑मानस्य गृ॒हान॒भ्युत्स॑र्जेत् सु॒वाग्दे॑व॒ दुर्याँ॒ आ व॒देत्या॑ह गृ॒हा वै दुर्या॒श्शान्त्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्ध᳓म᳓व स्यति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,11 +37,14 @@ He loosens the knot;
 
 1बद्धमिति ॥ बद्धं हविर्धानयोरक्षमवस्यति मुञ्चतीति विधिः । वरुणपाशादेव एने हविर्धाने वरुणदेवते मुञ्चति । प्रणेनेक्ति क्षालयति । मेध्ये मेधार्हे एने करोति । सावित्र्यर्चा 'युञ्जते मन उत' इत्येतया सवितृप्रसूतः सवित्रा प्रसूतः सवित्राऽनुज्ञातः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुणपाशाद् एवै᳓ने मुञ्चति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,11 +65,14 @@ verily he sets them free from the noose of Varuna;
 
 वरुणो वा इति । वरुणः खल्वेष दुर्वाक् । दुष्टं वक्तीति दुर्वाक् । यदि वक्ति दुष्टमेव तदिति । 'क्विब्वचि' इत्यादिना क्विब्दीर्घौ, कृदुत्तरपदप्रकृतिस्वरत्वम् । क इत्याह - उभयतः उभाभ्यां बद्धो यदक्षो नाम' स यदुत्सर्जेत् शब्दं करोति यजमानस्य गृहानभ्युत्सर्जेत् । तान् लक्षीकृत्य शब्दं करोति तेष्वरिष्टं करोति तदोत्सर्जनेन, तस्मात् 'सुवाक्' इत्यादि जपेत् इति । गृहा वै दुर्याः यजमानसंबन्धिनोभिप्रेताः । तदुत्सर्जनशान्यै भवतीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ णेनेक्ति मे᳓ध्ये एवै᳓ने करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,11 +88,14 @@ verily he makes them fit for the sacrifice.
 
 प्रेति॑ । ने॒ने॒क्ति॒ । मेध्ये॒ इति॑ । ए॒व । ए॒ने॒ इति॑ । क॒रो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्रिय᳓र्चा᳓ हुत्वा᳓ हविर्धा᳓ने प्र᳓ वर्तयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,11 +111,14 @@ Having sacrificed with a verse to Savitr, he brings forward the oblation-holders
 
 सा॒वि॒त्रि॒या । ऋ॒चा । हु॒त्वा । ह॒वि॒र्धाने॒ इति॑ हविः-धाने॑ । प्रेति॑ । व॒र्त॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितृ᳓प्रसूत एवै᳓ने प्र᳓ वर्तयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -117,11 +134,14 @@ verily on the instigation of Savitr he brings them forward.
 
 स॒वि॒तृप्र॑सूत॒ इति॑ सवि॒तृ-प्र॒सू॒तः॒ । ए॒व । ए॒ने॒ इति॑ । प्रेति॑ । व॒र्त॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणो वा᳓ एष᳓ दुर्वा᳓ग् उभय᳓तो बद्धो᳓ य᳓द᳓क्षः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +157,14 @@ The axle which is tied on both sides is Varuna of evil speech;
 
 वरु॑णः । वै । ए॒षः । दु॒र्वागिति॑ दुः-वाक् । उ॒भ॒यतः॑ । ब॒द्धः । यत् । अक्षः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓द् उत्स᳓र्जेद् य᳓जमानस्य गृहा᳓न् अभ्यु᳓त्सर्जेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -157,11 +180,14 @@ if it were to creak, it would creak against the house of the sacrificer.
 
 सः । यत् । उ॒त्सर्जे॒दित्यु॑त्-सर्जे॑त् । यज॑मानस्य । गृ॒हान् । अ॒भ्युत्स॑र्जे॒दित्य॑भि-उत्स॑र्जेत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवा᳓ग्देव दु᳓र्याँ आ᳓ वदे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,11 +203,14 @@ if it were to creak, it would creak against the house of the sacrificer.
 
 सु॒वागिति॑ सु-वाक् । दे॒व॒ । दुर्या॑न् । एति॑ । व॒द॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहा᳓ वै᳓ दु᳓र्याः । शा᳓न्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,17 +226,23 @@ the dwelling is the house; (verily it serves) for atonement.
 
 गृ॒हाः । वै । दुर्याः॑ । शान्त्यै॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पत्नी॑ [45]  
 उपा॑नक्ति॒ पत्नी॒ हि सर्व॑स्य मि॒त्रम्मि॑त्र॒त्वाय॒ यद्वै पत्नी॑ य॒ज्ञस्य॑ क॒रोति॑ मिथु॒नन्तदथो॒ पत्नि॑या ए॒वैष य॒ज्ञस्या॑न्वार॒म्भोऽन॑वच्छित्त्यै॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓त्न्य् - उ᳓पानक्ति ।[45]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,11 +263,14 @@ The wife (of the sacrificer) [1] anoints (them),
 
 2पत्नी अक्षधुरे उपानक्तीति विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓त्नी हि᳓ स᳓र्वस्य मित्र᳓म् , मित्रत्वा᳓य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,11 +291,14 @@ for the wife is every one's friend, for friendship.
 
 पत्नी हि सर्वस्य मित्रं मित्रमिव; स्त्रीत्वात् । तस्मात्तया कृतमुपाञ्जनं मित्रत्वाय भवति वरुणस्य वा अक्षस्य वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वै᳓ प᳓त्नी यज्ञ᳓स्य करो᳓ति मिथुन᳓न् त᳓त् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,11 +319,14 @@ The share of the wife in the sacrifice makes a pair;
 
 यद्वा इत्यादि । व्याख्यातम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प᳓त्निया एवै᳓ष᳓ यज्ञ᳓स्यान्वारम्भो᳓ , ऽनवच्छित्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -298,16 +342,22 @@ verily also the wife grasps the sacrifice that it may not be interrupted.
 
 अथो॒ इति॑ । पत्नि॑याः । ए॒व । ए॒षः । य॒ज्ञस्य॑ । अ॒न्वा॒र॒म्भ इत्य॑नु-आ॒र॒म्भः । अन॑वच्छित्त्या॒ इत्यन॑व-छि॒त्त्यै॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वर्त्म॑ना॒ वा अ॒न्वित्य॑ य॒ज्ञँ रक्षाँ॑सि जिघाँसन्ति वैष्ण॒वीभ्या॑मृ॒ग्भ्याव्ँ वर्त्म॑नोर्जुहोति य॒ज्ञो वै विष्णु॑र्य॒ज्ञादे॒व रक्षाँ॒स्यप॑ हन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्त्मना वा᳓ अन्वि᳓त्य यज्ञँ᳓ र᳓क्षाँसि जिघाँसन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,11 +378,14 @@ Now the Raksases following in its track seek to injure the sacrifice;
 
 3वर्त्मनेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णवी᳓भ्याम् ऋग्भ्याव्ँ᳓ व᳓र्त्मनोर् जुहोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +406,14 @@ he makes a libation in the two tracks with Rc verses addressed to Visnu.
 
 वर्त्मना शकटमार्गेण अन्वित्यानुप्रविश्य यज्ञं रक्षांसि जिघांसन्ति हन्तुमिच्छन्ति तस्माद्वैष्णवीभ्यामृग्भ्यां वर्त्मनोर्जुहोति 'इद विष्णुः' , 'इरावती धेनुमती'39 इति द्वाभ्यां वर्त्मनोर्जुहोति । प्राधान्याद्दक्षिणस्योभयोः । उभयोर्वैकैकस्मिन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ वि᳓ष्णुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -378,11 +434,14 @@ The sacrifice is Visnu;
 
 यज्ञो वा इत्यादि । अयमेव वर्त्महोमलक्षणो यज्ञो विष्णुमन्त्रयोरुच्यते । तस्मादस्मादेव यज्ञान्निमित्ताद्रक्षांस्यपहन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञा᳓देव᳓ र᳓क्षाँस्य᳓प हन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -398,16 +457,22 @@ verily he drives away the Raksases from the sacrifice.
 
 य॒ज्ञात् । ए॒व । रक्षाँ॑सि । अपेति॑ । ह॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 हिर॑ण्यमु॒पास्य॑ जुहोत्यग्नि॒वत्ये॒व जु॑होति॒ नान्धो॑ऽध्व॒र्युर्भव॑ति॒ न य॒ज्ञँ रक्षाँ॑सि घ्नन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्यम् उपा᳓स्य जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,11 +493,14 @@ If the Adhvaryu were to pour the libation in (a place) without fire, the Adhvary
 
 4यदध्वर्युरित्यादि ॥ गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निव᳓त्येव᳓ जुहोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -448,11 +516,14 @@ verily he makes the libation in that which has fire;
 
 अ॒ग्नि॒वतीत्य॑ग्नि-वति॑ । ए॒व । जु॒हो॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓न्धोऽध्वर्यु᳓र्भ᳓वति , न᳓ यज्ञँ᳓ र᳓क्षाँसि घ्नन्ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -478,16 +549,22 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 
 व्याख्यानमन्यत्र मृग्यम् गतम् इति टीकायां वर्तते । अतः पूर्वत्र स्थितः अस्य व्याख्याभागः अत्र योजनीयः
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राची॒ प्रेत॑मध्व॒रङ्क॒ल्पय॑न्ती॒ इत्या॑ह सुव॒र्गमे॒वैने॑ लो॒कङ्ग॑मय॒त्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रा᳓ची प्रे᳓तमध्वर᳓ङ् कल्प᳓यन्ती" इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -508,11 +585,14 @@ the Adhvaryu does not become blind, the Raksases do not injure the sacrifice.
 
 5'प्राची' इत्यादिहविर्धानप्रवर्तनमन्त्रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्ग᳓मेवै᳓ने लोक᳓ङ् गमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -537,16 +617,22 @@ verily he makes them go to the world of heaven.
 
 तत्र गमने हि तदुभयमुपपद्यते इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अत्र॑ रमेथाव्ँ॒वर्ष्म॑न्पृथि॒व्या इत्या॑ह॒ वर्ष्म॒ ह्ये॑तत्पृ॑थि॒व्या यद्दे॑व॒यज॑नँ॒ शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑न्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓त्र रमेथाव्ँ व᳓र्ष्मन् पृथिव्या᳓ इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -569,11 +655,14 @@ verily he makes them go to the world of heaven.
 
 किम्? यत्र देवा इज्यन्ते तच्च हविर्धानमिति, तदधीनत्वाद्यज्ञस्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्ष्म ह्ये᳙त᳓त् पृथिव्या᳓ य᳓द् देवय᳓जनम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -589,11 +678,14 @@ for the place of sacrifice is the height of the earth.
 
 वर्‌ष्म॑ । हि । ए॒तत् । पृ॒थि॒व्याः । यत् । दे॒व॒यज॑न॒मिति॑ देव-यज॑नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓रो वा᳓ एत᳓द् यज्ञ᳓स्य य᳓द्धविर्धा᳓नम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -614,17 +706,23 @@ Now the oblation-holder is the head of the sacrifice.
 
 शिरो वा इति । यज्ञस्यैतच्छिर इव प्राधान्यात् यद्धविर्धानं नाम ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दि॒वो वा॑ विष्णवु॒त वा॑ पृथि॒व्याः [47]  
 इत्या॒शीर्प॑दय॒र्चा दक्षि॑णस्य हवि॒र्धान॑स्य मे॒थीन्नि ह॑न्ति शीर्ष॒त ए॒व य॒ज्ञस्य॒ यज॑मान आ॒शिषोऽव॑ रुन्द्धे
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवो᳓ वा विष्णवुत᳓ वा पृथिव्या᳓ इ᳓ति ।[47]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -645,11 +743,14 @@ Now the oblation-holder is the head of the sacrifice.
 
 7दिव इत्यादि विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशी᳓र्पदयर्चा᳓ द᳓क्षिणस्य हविर्धा᳓नस्य मेथी᳓न्नि᳓ हन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -672,11 +773,14 @@ with this Rc verse which contains a blessing he strikes in the prop of the south
 
 'पादस्य' इति लोपे, 'टाबृचि' इति टाप्, 'पादः पत्' इति पद्भावः, विसर्जनीयाभावश्छान्दसः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीर्षत᳓ एव᳓ यज्ञ᳓स्य य᳓जमान आशि᳓षो᳓ऽव रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -697,16 +801,22 @@ verily the sacrificer at the beginning of the sacrifice wins blessings.
 
 यज्ञस्य शिरस्तः .आशिषोवरुन्धे ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द॒ण्डो वा औ॑प॒रस्तृ॒तीय॑स्य हवि॒र्धान॑स्य वषट्का॒रेणाक्ष॑मच्छिन॒द्यत्तृ॒तीय॑ञ्छ॒दिर्ह॑वि॒र्धान॑योरुदाह्रि॒यते॑ तृ॒तीय॑स्य हवि॒र्धान॒स्याव॑रुद्ध्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दण्डो᳓ वा᳓ औपर᳓स् तृती᳓यस्य हविर्धा᳓नस्य वषट्कारे᳓णा᳓क्षमच्छिनत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -727,11 +837,14 @@ Now Danda Aupara split by the Vasat call the axle of the third oblation-holder;
 
 8दण्ड इत्यादि ॥ उपरस्य पुत्रः औपरः दण्डो नाम तृतीयहविर्धानस्याक्षं वषट्कारेणाच्छिनत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् तृती᳓यञ् छदि᳓र् हविर्धा᳓नयोरुदाह्रिय᳓ते , तृती᳓यस्य हविर्धा᳓नस्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,16 +865,22 @@ the third cover put on the oblation-holder (serves) to make up the third oblatio
 
 यदि हविर्धानयोरुदाह्रियते उपर्याह्रियते तृतीयं छदिः तृतीयस्य हविर्धानस्यावरुद्ध्यै भवति अक्षस्य छिन्नत्वाच्छदिर्मात्रमेव हविर्धानत्वेन रूप्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धानव्ँ॒विष्णो॑ र॒राट॑मसि॒ विष्णोः॑ पृ॒ष्ठम॒सीत्या॑ह॒ तस्मा॑देताव॒द्धा शिरो॒ विष्यू॑तव्ँ॒   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓रो वा᳓ एत᳓द्यज्ञ᳓स्य य᳓द्धविर्धा᳓न᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -782,11 +901,14 @@ The oblation-holder is the head of the sacrifice.
 
 9शिर इत्यादि ॥ गतम् । हविर्धानशालानिमित्तमिदमुपलक्षणमिदमेव प्रतिपादयितुं मन्त्रद्वयोपादानम् । एतावद्धविर्धानमेव शिरस्थानीयं, यावत्प्रकारं विष्यूतं तावत्प्रकारं प्रजानां शिरो विष्यूतं विविधं स्यूतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णो ररा᳓टमसि वि᳓ष्णोः पृष्ठ᳓मसी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -802,11 +924,14 @@ The oblation-holder is the head of the sacrifice.
 
 विष्णोः॑ । र॒राट॑म् । अ॒सि॒ । विष्णोः॑ । पृ॒ष्ठम् । अ॒सि॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादेतावद्धा᳓ शि᳓रो वि᳓ष्यूतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,16 +956,22 @@ Therefore so often is the head divided.
 
 'बहुगणवतु' इति संख्यात्वात् संख्याया विधार्थे धा, सिवेर्निष्ठायां 'छ्वोश्शूडनुनासिके च' इत्यूठ्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒स्स्यूर॑सि॒ विष्णो॑र्ध्रु॒वम॒सीत्या॑ह वैष्ण॒वँ हि दे॒वत॑या हवि॒र्धानय्ँ॒यम्प्र॑थ॒मङ्ग्र॒न्थिङ्ग्र॑थ्नी॒याद्यत्तन्न वि॑स्रँ॒सये॒दमे॑हेनाध्व॒र्युᳶ प्र मी॑येत॒ तस्मा॒त्स वि॒स्रस्यः॑ ॥ [48]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोस् स्यू᳓रसि , वि᳓ष्णोर्ध्रुव᳓मसी᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -861,11 +992,14 @@ Therefore so often is the head divided.
 
 10विष्णोरित्यादि ॥ अवशेषमन्त्राणामुपलक्षणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णवँ᳓ हि᳓ देव᳓तया हविर्धा᳓नम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -886,11 +1020,14 @@ for the oblation-holder is connected with Visnu as its deity.
 
 वैष्णवमिति । देवतासंबन्धेन हविर्धानं वैष्णवम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓म् प्रथम᳓ङ् ग्रन्थि᳓ङ् ग्रथ्नीया᳓द् , य᳓त् त᳓न्न᳓ विस्रँस᳓येद् - अ᳓मेहेनाध्वर्युᳶ᳓ प्र᳓ मीयेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -915,11 +1052,14 @@ Now the knot which he first ties, if he were not to unloose it, the Adhvaryu wou
 
 इति षष्ठे द्वितीये नवमोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् स᳓ विस्र᳓स्यः ॥ [48]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -934,4 +1074,5 @@ therefore it must be unloosed.
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । सः । वि॒स्रस्य॒ इति॑ वि-स्रस्यः॑ ॥
+</details>
 </details>

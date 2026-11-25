@@ -3,9 +3,12 @@ title: ०५ अभिषेकः
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1चतुर्थे उपहोमा अभिहिताः । पञ्चमेऽभिषेकोऽभिधीयते । कल्पः - 'औदुम्बर्यासन्द्यरत्निमात्रशीर्षण्यानूच्या नाभिदघ्नपादा मौञ्जविवाना मित्रोऽसि वरुणोऽसीति तां यजमानायतने प्रतिष्ठापयत्यासादनोपवेशनाभिमन्त्रणानि राजसूयवत्' इति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ unicode_script: devanagari
 मित्रो᳙ऽसि व᳓रुणोऽसि ।  
 स᳓महव्ँ᳓वि᳓श्वैर्देवैः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -29,10 +34,14 @@ unicode_script: devanagari
 
 हे आसन्दीविशेष! त्वमिष्टप्रापकत्वान्मित्रोऽसि । अनिष्टनिवारकत्वाद्वरुणोऽसि । अहमत्र त्वद्वलात्सर्वैर्देवैः संगतो भूयासम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2कल्पः - 'क्षत्रस्य नाभिरसीति तस्यां कृत्त्यधीवासमास्तीर्य' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -40,6 +49,8 @@ unicode_script: devanagari
 क्षत्र᳓स्य ना᳓भिरसि ।  
 क्षत्र᳓स्य यो᳓निरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -56,10 +67,14 @@ unicode_script: devanagari
 
 हे चर्मपट! त्वं क्षत्रस्य बलस्य नाभिर्मध्यस्थानमसि । तथा क्षत्रस्य बलस्य योनिः कारणमसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3कल्पः - 'स्योना मा सीद सुषदा मा सीदेति तामासाद्य यजमानो मा त्वा हिँसीन्मामा हिँसीदित्युपविशति' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -67,6 +82,8 @@ unicode_script: devanagari
 स्योना᳓मा᳓ सीद ।  
 सुष᳓दामा᳓ सीद ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,12 +100,15 @@ unicode_script: devanagari
 
 हे आसन्दि! त्वं स्योना सुखकरी भूत्वा मां प्रत्यासीद । तथा सुषदा सुष्ठूपवेशनयोग्या सती मां प्रत्यासदि प्राप्नुहि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा हिँसीत् ।  
 मा᳓ मा हिँसीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -105,10 +125,14 @@ unicode_script: devanagari
 
 मदीयो देहः त्वां मा हिनस्तु । त्वदीयस्वरूपमपि मां मा हिनस्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4कल्पः - 'निषसाद धृतव्रत इत्यासीनमनुमन्त्रयते' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +141,8 @@ unicode_script: devanagari
 पस्त्या᳙स्वा ॥20॥  
 सा᳓म्राज्याय सुक्र᳓तुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,16 +160,23 @@ unicode_script: devanagari
 
 अयं यजमानो धृतव्रतः स्वीकृतनियमः वरुणः फलप्रतिबन्धकपापनिवारको भूत्वा साम्राज्यं कर्तुं सुक्रतुः शोभनसंकल्पस्सन् पस्त्यासु गृहसमानेषु आसन्दीस्थानेपु आनिषसाद सर्वत उपविष्टवान् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8कल्पः - 'कोऽसि कतमोऽसीति पाणि संमृश्य' इति ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'तस्यां प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठन्नश्विनोः संपातैरभिषिञ्चति देवस्य त्वा' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,6 +187,8 @@ unicode_script: devanagari
 अश्वि᳓नोर्भै᳓षज्येन ।  
 ते᳓जसे ब्रह्मवर्चसा᳓याभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -168,10 +203,14 @@ unicode_script: devanagari
 
 सवितुर्देवस्य प्रेरणे सति अश्विसंबन्धिभ्यां बाहुभ्यां पूषसंबन्धिम्यां हस्ताभ्यां अश्विनोस्सबन्धिना संपातेनौषधरूपेण कान्तिब्रह्मवर्चससिद्ध्यर्थं यजमानं त्वामभिषिञ्चामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'एवमुत्तरेण मन्त्रेण सारस्वतस्योत्तमेनैन्द्रस्य' इति। संपातेनाभिषिञ्चतीत्युभयत्रानुवर्तते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,6 +221,8 @@ unicode_script: devanagari
 स᳓रस्वत्यै भै᳓षज्येन ॥21॥  
 वीर्या᳙यान्ना᳓द्यायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +237,7 @@ unicode_script: devanagari
 
 पूर्ववद्व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,6 +247,8 @@ unicode_script: devanagari
 इ᳓न्द्रस्येन्द्रिये᳓ण ।  
 श्रियै᳓ य᳓शसे ब᳓लायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,6 +263,7 @@ unicode_script: devanagari
 
 7पूर्ववद्व्याख्येयम् ॥
 </details>
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -226,6 +271,8 @@ unicode_script: devanagari
 को᳙ऽसि कतमो᳙ऽसि ।  
 क᳓स्मै त्वा का᳓य त्वा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,16 +289,22 @@ unicode_script: devanagari
 
 हे यजमान! त्वं कोसि प्रजापतिरूपोऽसि । अत एव कतमोऽसि अविज्ञातविशेषोऽसि । न हि प्रजापतिरीदृश एवेति केनचिदपि निर्धारयितुं शक्यते । तस्य सर्वात्मकत्वेन विशेषस्य दुर्निरूपत्वात् । अतः कस्मै अविज्ञेयस्वरूपसिद्ध्यर्थं त्वां स्पृशामि । काय प्रजापतिरूपसिद्ध्यर्थं त्वां स्पृशामि । अनेन मन्त्रेण यजमानस्य पाणिद्वयमभिसंस्पृशेत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9-11कल्पः - 'अत्र राजसूयवन्मङ्गल्यनाम्न आहूय' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓श्लोकाँ᳓ (4) सु᳓मङ्गलाँ᳓ (4) स᳓त्यराजा᳓ ३न् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,16 +320,22 @@ unicode_script: devanagari
 
 राजसूये त्वेवमुक्तम् - 'मङ्गल्यनाम्नो राजाऽऽह्वयति सुश्लोकाँ४ इति संग्रहीतारं सुमङ्गलाँ४ इति भागदुधं सत्यराजा३ निति क्षत्तारम्' इति । शोभनः श्लोकः कीर्तिर्यस्यासौ सुश्लोकः । आह्वानार्था सानुनासिका प्लुतिः । सुष्ठु मङ्गलाचरणं यस्यासौ सुमङ्गलः । सत्येन स्वामिव्यापारेण राजत इति सत्यराजः । एतैः संग्रहीत्रादय आह्वातव्याः स्युः । रथस्योपर्यश्वप्रग्रहधारी संग्रहीता । यद्वा संपादितं राजधनं भाण्डागारे सम्यक्संगृह्णातीति संग्रहीता । ग्रामेषु राजभागकरं दुग्धे स्वीकरोतीति भागदुधः । क्षत्ता सारथिर्द्वारपालको वा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 12कल्पः - 'शिरो मे श्रीरिति यथालिङ्गमङ्गानि संमृश्य' इति । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓रो मे श्रीः᳓ ॥22॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,11 +351,14 @@ unicode_script: devanagari
 
 मदीयं शिरः श्रियो हेतुत्वेन श्रीरूपमस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓शो मु᳓खम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,11 +374,14 @@ unicode_script: devanagari
 
 मुखं यशोहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वि᳓षिᳶ+++(=कान्तिः)+++ के᳓शाश्च श्म᳓श्रूणि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -332,11 +397,14 @@ unicode_script: devanagari
 
 केशाः श्मश्रूणि च कान्तिहेतवः सन्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓जा मे प्राणो᳙ऽमृ᳓तम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -352,11 +420,14 @@ unicode_script: devanagari
 
 मदीयः प्राणः सर्वेन्द्रियाणां राजा सन् अमृतहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्रा᳓ट् च᳓क्षुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -372,11 +443,14 @@ unicode_script: devanagari
 
 चक्षुरिन्द्रियं दूरसूक्ष्मादिदर्शनेन सम्यग्राजमानमस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓ट् छ्रो᳓त्रम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -392,11 +466,14 @@ unicode_script: devanagari
 
 श्रोत्रेन्द्रियं दूरशब्दमन्दध्वनिश्रवणेन विविधं राजमानमस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जिह्वा᳓ मे भद्र᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -412,11 +489,14 @@ unicode_script: devanagari
 
 मदीया जिह्वा विविधरसज्ञानेन कल्याणभोगहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ङ् म᳓हः+++(=पूजा)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,11 +512,14 @@ unicode_script: devanagari
 
 वागिन्द्रियं सभारञ्जनेन पूजाहेतूरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो मन्युः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -452,11 +535,14 @@ unicode_script: devanagari
 
 मदीयं मनः धर्मकार्यमननहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरा᳓ड् भा᳓मः+++(=क्रोधः)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,11 +558,14 @@ unicode_script: devanagari
 
 मदीयो भामः क्रोधः भ्रातृव्यनिराकरणेन स्वयमेव राजाऽस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मो᳓दाᳶ प्रमोदा᳓ अङ्गु᳓लीर᳓ङ्गानि +++(क्रमशः)+++ ॥23॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -493,11 +582,14 @@ unicode_script: devanagari
 अङ्गुलयो मोदा हर्षहेतवः सन्तु ।  
 अङ्गानि अनुक्तावयवाः प्रमोदाः प्रकृष्टहर्षहेतवः सन्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्त᳓म् मे स᳓हः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,11 +606,14 @@ unicode_script: devanagari
 मदीयं चित्तं स्तुतिनिन्दादिसहनहेतुरस्तु ।  
 मनश्चित्तयोर्वृत्तिभेदेन भेदः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहू᳓ मे ब᳓लम् इन्द्रिय᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -534,11 +629,14 @@ unicode_script: devanagari
 
 मदीयौ बाहू मणिबन्धस्य मूलभागौ प्रबलशक्तिहेतू स्ताम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓स्तौ मे क᳓र्म वीर्य᳙म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,11 +652,14 @@ unicode_script: devanagari
 
 हस्तौ मणिबन्धस्याग्रभागौ वीर्यवद्व्यापारहेत् स्ताम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓ क्षत्र᳓म् उ᳓रो म᳓म ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -574,11 +675,14 @@ unicode_script: devanagari
 
 मदीय आत्मा मध्यशरीरमुरश्च क्षत्त्रं बलहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्टी᳓र्मे +++(=पञ्चरम्/ ribs)+++ राष्ट्र᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +698,7 @@ unicode_script: devanagari
 
 पृष्ट्यादयो जान्वन्ता अवयवा राष्ट्रहेतवः सन्तु । पृष्टयः पायोरुपरिस्थान्यस्थीनि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -602,6 +707,8 @@ unicode_script: devanagari
 ऊरू᳓ अरत्नी᳓+++(=पादाग्रभागः)+++ जा᳓नुनी ।
 वि᳓शो मे᳓ऽङ्गानि सर्व᳓तः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -623,11 +730,14 @@ unicode_script: devanagari
 अरत्नी प्रकोष्ठौ ।  
 ममाङ्गानीव सर्वतो विधेयाः सन्तु । विशो मनुष्याः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓भिर्मे चित्तव्ँ᳓, विज्ञा᳓नम् पायु᳓र्, मे᳓ऽपचितिर् भस᳓त्+++(=जघनम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -644,11 +754,14 @@ unicode_script: devanagari
 मदीयो नाभिः चित्तं चैतन्यहेतुरस्तु ।  
 पायुः विज्ञानं विसर्गज्ञानकुशलोऽस्तु । भसन्मे ममोपस्थेन्द्रियं अपचितिः नियतत्वेन बहुमानहेतुरस्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनन्द-नन्दा᳓व् आण्डौ᳓ मे, भगस् सौ᳓भाग्यं प᳓सः+++(=प्रजननम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,10 +778,14 @@ unicode_script: devanagari
 मदीयावाण्डौ वृषणौ आनन्दनन्दयोर्हेतू स्ताम् । पुंसस्सुखमानन्दः । स्त्रियास्सुखं नन्दः ।   
 पसः प्रजननं भगसौभाग्यहेतुरस्तु ।भग ऐश्वर्यम् । सौभाग्यं देहशोभा ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13कल्पः - 'जङ्घाभ्यां पद्भ्यामिति प्रत्यवरुह्य' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,6 +793,8 @@ unicode_script: devanagari
 ज᳓ङ्घाभ्याम्पद्भ्या᳓न्ध᳓र्मोऽस्मि ।  
 विशि᳓ रा᳓जा प्र᳓तिष्ठितः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -692,16 +811,22 @@ unicode_script: devanagari
 
 जानुभ्यामधोभागौ जङ्घे ताभ्यां पादाम्यां च धर्मः देहस्य धारयिताऽस्मि । विशि प्रजायां प्रतिष्ठितः स्थैर्येणावस्थितः राजाऽस्मि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 14कल्पः - 'प्रतिक्षत्त्रे प्रतितिष्ठामि राष्ट्र इति जपित्वा' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति क्षत्रे᳓ प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -717,11 +842,14 @@ unicode_script: devanagari
 
 क्षत्त्रादिषु यज्ञान्तेषु प्रतितिष्ठामि स्थैर्येणावस्थितोऽस्मि । क्षत्त्रं बलं क्षत्त्रियादिर्वा । राष्ट्रं देशः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -737,11 +865,14 @@ unicode_script: devanagari
 
 अश्वादयः प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्य᳓ङ्गेषु प्र᳓तितिष्ठाम्यात्म᳓न् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -757,6 +888,7 @@ unicode_script: devanagari
 
 आत्मा शरीरम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -764,6 +896,8 @@ unicode_script: devanagari
 प्र᳓ति द्या᳓वापृथिव्योः᳓ ।  
 प्र᳓तितिष्ठामि यज्ञे᳓ ॥25॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -781,10 +915,14 @@ unicode_script: devanagari
 
 पुष्टं शरीरस्य पुष्टिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 15कल्पः - 'त्रया देवा एकादशेत्याहुतीर्जुहोति' इति । तत्र प्रथमामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,6 +937,8 @@ unicode_script: devanagari
 द्विती᳓यास्तृती᳓यैः ।  
 तृती᳓यास्सत्ये᳓न ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -822,6 +962,7 @@ unicode_script: devanagari
 
 एकादशसंख्याका देवतास्त्रयाः त्रिविधाः लोकत्रयवर्तित्वान् । तथा चाम्नातम् - 'ये देवा दिव्येकादश स्थ' इत्यादिना । ते चैते त्रयस्त्रिंशत्संख्याका देवाः सुराधसः शोभनस्य कर्मणः साधकाः । बृहस्पतिः पुरोहितो मुख्यो येषां ते बृहस्पतिपुरोहिताः । सवितुर्देवस्य प्रसवे सति ते सर्वे मुख्या देवा इतरैस्सह मामवन्तु । तत्र प्रथमगणस्थाः द्वितीयगणस्थैस्सहिताः । द्वितीयगणस्थास्तृतीयगणस्थिस्सहिताः । तृतीयगागणस्थास्सत्येन सहिताः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -834,6 +975,8 @@ unicode_script: devanagari
 वषट्कारा᳓ आ᳓हुतिभिः ।  
 आ᳓हुतयो मे का᳓मान्त्स᳓मर्धयन्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,16 +999,22 @@ unicode_script: devanagari
 
 सत्यं च यज्ञेन सहितम् । एवं यज्ञादय आहुतिपर्यन्ता उत्तरोत्तरवस्तुभिस्सह तिष्ठन्ति । ताश्चाहुतयो मदीयान्कामान्समर्धयन्तु समृद्धान्कुवन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 16अथ द्वितीयं मन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓स्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -881,16 +1030,22 @@ unicode_script: devanagari
 
 येयं भूमिस्तस्यै स्वाहा हुतमस्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 17कल्पः - 'लोमानि प्रयतिर्ममेति यथालिङ्गमङ्गानि संमृशति' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लो᳓मानि प्र᳓यतिर्म᳓म ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -906,11 +1061,14 @@ unicode_script: devanagari
 
 मदीयानि लोमानि प्रयतिः शुद्धिकराणि सन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ङ्म आ᳓नतिरा᳓गतिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -926,11 +1084,14 @@ unicode_script: devanagari
 
 मदीया त्वक् आनतिः अन्येषां प्रह्वीभावहेतुरस्तु । आगतिः अन्येषां पदार्थानामागमनहेतुरस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माँस᳓म्म उ᳓पनतिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -946,11 +1107,14 @@ unicode_script: devanagari
 
 मदीयं मांसं उपनतिः अभिप्रेतसंपत्तिहेतुरस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓स्व᳓स्थि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -966,11 +1130,14 @@ unicode_script: devanagari
 
 अस्थि च मदीयं वसु धनहेतुरस्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मज्जा᳓ म आ᳓नतिः ॥27॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -986,6 +1153,7 @@ unicode_script: devanagari
 
 मत्संबन्धिमज्जा च आनतिः अन्येषां वशीकरणहेतुरस्तु ॥
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

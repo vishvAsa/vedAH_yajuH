@@ -4,9 +4,12 @@ title = "०४ वायव्य-ऐन्द्रवायवग्रहौ
 
 १ त्रिष्टुप् २ गायत्री । सोमऋषिः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1ऐन्द्रवायवपात्रेण वायव्यं गृह्णाति - आवायो इति चतुष्पदया त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/092/01_A_vAyo.md">
@@ -409,17 +412,21 @@ Komm her, o Vaju, du des Reinen Trinker, o gabenreicher, tausend Rosse lenkst du
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 एवम् इमाम् अनुद्रुत्य गृह्णाति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,13 +453,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाय᳓वे त्वा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -473,11 +482,15 @@ to Vayu thee!
 
 हे सोम त्वमपि उपयामगृहीतोसि, अतो वायवे त्वां गृह्णामीति शेषः । जुष्टमिति केचिच्छेषमिच्छन्ति, इष्टं सेव्यं वा गृह्णामीत्यर्थः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तस्मिन्नैन्द्रवायवं गृह्णाति - इन्द्रवायू इति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/002/04_indravAyU_ime.md">
@@ -781,17 +794,21 @@ Hier, Indra-Vaju, steht der Saft, so kommt zu ihm nach eurer Lust, Die Tropfen s
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य उपयामगृहीतोसीन्द्रवायुभ्यां त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -818,13 +835,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रवायु᳓भ्यान्त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -840,19 +859,24 @@ ________________
 
 इ॒न्द्र॒वा॒युभ्या॒मिती॑न्द्रवा॒यु-भ्या॒म् । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3सादयति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/eSha_te.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -873,13 +897,15 @@ This is thy birthplace;
 
 **एष ते योनिः** स्थानम् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सजो᳓षाभ्यान् +++(इन्द्रवायुभ्यां)+++ त्वा ॥  [5]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -899,6 +925,7 @@ to the comrades thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ततस् **सजोषाभ्यां** समान-प्रीतिभ्यां, सह-सेवमानाभ्यां वा इन्द्रवायुभ्यां त्वामत्र सादयामीति शेषः । 'देवताद्वन्द्वे च' इत्यस्य पूर्वोत्तरपदप्रकृतिस्वरत्वस्य 'नोत्तरपदेनुदात्तादौ' इति प्रतिषेधे समासान्तोदात्तत्वमेवेन्द्रवायुशब्दस्य । 'वाग्वा एषा यदैन्द्रवायवः' इत्यादि ब्राह्मणम्  । 'सोब्रवीद्वरं वृणै मह्यं चैवैषः' इत्यादि च ॥
+</details>
 </details>
 
 इति चतुर्थे चतुर्थः ॥

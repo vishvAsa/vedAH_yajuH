@@ -6,6 +6,8 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मा॒रु॒तम॑सि म॒रुता॒मोजो॒ऽपान्धारा॑म्भिन्द्धि
@@ -15,12 +17,15 @@ title = "०७ कारीरीष्टिप्राच्याङ्ग�
 
 1अथ कारीरिमन्त्राः । तत्र यजमानः कृष्णं वासः कृष्णतूषं परिधत्ते - मारुतमसीति यजुषा ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुत᳓मसि ।  
 मरु᳓तामो᳓जः +++(असि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,11 +64,14 @@ Thou I art connected with the Maruts, thou art the force of the Maruts,
 
 वास आमन्त्र्योच्यते - हे वासः मारुतं मरुतां संबन्धि त्वमसि, मरुतां ओजो बलं त्वमसि ; त्वदधीनबलत्वात्तेषाम् । ]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपा᳓न्धा᳓राम्भिन्द्धि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,16 +92,22 @@ cleave the stream of the waters.
 
 अतोपां धारां भिन्धि पातय । यद्वा - अपां धारयितारं मेघं भिन्धि । लिङ्गव्यत्ययः । अपां धारयित्री वा मेघपङ्क्तिं भिन्धि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2पश्चाद्वातं प्रतिमीवति निवर्तयति - रमयतेति जगत्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रम᳓यत मरुतश्श्येन᳓मायि᳓नम्म᳓नोजवसव्ँवृ᳓षणँ सुवृक्ति᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,11 +136,14 @@ Stay, O Maruts, the speeding falcon, Swift as mind, the strong, the glorious;
 
 एवं श्रुत्यर्थाभ्यां लब्धमुभयं ब्राह्मणं प्रतिपादयति 'पश्चाद्वातं प्रति मीवति पुरोवातमेव जनयति' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓न श᳓र्ध उग्र᳓म᳓वसृष्टमे᳓ति त᳓दश्विना प᳓रि धत्तँ स्वस्ति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,6 +166,9 @@ That whereby the dread host goeth set loose, Do ye, O Aśvins, put around; hail!
 
 उग्रं उद्गूर्णं अवसृष्टं मुक्तं एति आगच्छति तथा रमयतेति । हे अश्विनौ युवामपि तदुदकं परिधर्त्तं परितो धारयतं स्वस्ति अविनाशार्थं लोकस्य उदकस्यैव वा अक्षयाय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -159,11 +179,14 @@ That whereby the dread host goeth set loose, Do ye, O Aśvins, put around; hail!
 
 3-10वातनामानि जुहोति - पुरोवात इत्यष्टौ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोवातो᳓ व᳓र्षञ्जिन्व᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -184,11 +207,14 @@ East wind, raining, quicken; Ravat! Hail!
 
 पुरोवातः पूर्वस्या दिशः आगतः पुरोवातो वर्षन् जिन्वः प्रीणयिता लोकस्य पुरोवातस्य प्रीणनत्वात् । जिवि प्रीणने, इदित्वान्नुम्, पचाद्यच्, छान्दस स्सांहितिकोस्य रेफः, उक्तं च प्रातिशाख्ये - 'आवृत्परः' इति । आवृत् आवर्तमानः आस्त्विति शेषः । आवर्ततामिति यावत् । स्वाहुतं चेदमस्तु तस्मा इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाता᳓वद्व᳓र्षन्नुग्र᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -209,11 +235,14 @@ Storming, raining, dread; Ravat! Hail!
 
 वातावत् वातेन युक्तं वर्षम् । छान्दसं दीर्घत्वम् । उग्रं उद्गूर्णम् । आवृत्परण्यं [...त्परत्वाद्रेफः] वातयुक्तस्योद्गूर्णत्वात् । समानमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तन᳓यन्व᳓र्षन्भीम᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,11 +263,14 @@ Thundering, raining, formidable; Ravat! Hail!
 
 स्तनयन् शुष्कं गर्जन् वर्षन् भीमः भीतिहेतुः प्रजानां, तस्य तत्स्वभावत्वात्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनशन्य᳙वस्फू᳓र्जन्दिद्यु᳓द्व᳓र्षन्त्वेष᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,11 +291,14 @@ Thundering without lightning, lightning, raining, resplendent; Ravat! Hail!
 
 अनशनि अविद्यमानाशनिपातं अवस्फूर्जन् अवसेचनेन शब्दयन् दिद्युत् दीप्तिमत् विद्युत्संबन्धेन प्रकाशयन् आयुधवानिव वर्तमानो वा । अत एव त्वेषः दीप्यमानः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिरात्रव्ँ᳓व᳓र्षन्पूर्ति᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,11 +319,14 @@ Raining over night, satisfying; Ravat! [1] Hail!
 
 अतिरात्रं रात्रिमप्यतीत्य सर्वमप्यहोरात्रं, न रात्रिमात्रम् । 'अहस्सर्वैक' इत्यच्समासान्तः । पूर्तिः पर्याप्तिमान् पूरयद्वा महीतलं सर्वम् । क्तिच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहु᳓ हाय᳓मवृषादि᳓ति श्रुत᳓रावृ᳓त्स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,11 +347,14 @@ Famed as having rained I much; Ravat! Hail!
 
 बहु प्रभूतम् । हेत्यवधारणे । बह्वेवायमवृषात् अवर्षत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत᳓पति  व᳓र्षन्विरा᳓डावृ᳓त्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,16 +375,22 @@ Raining while the sun shines, radiant;
 
 देव इत्येवं श्रुतः सर्वविख्यातं गच्छन् आतपति आतपे सति, ईषत्तपति वा सूर्ये वर्षन् विराट् प्रशस्ततया विराजमानः अवस्फूर्जन्दिद्युद्वर्षन्भूतः प्रभूतः सर्वलोकधारणक्षमः पुनःपुनरित्थं वर्षत्विति प्रतिपादनार्थं अवस्फूर्जन्नित्यादेः पुनराम्नानम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-13अन्तर्वेदि कृष्णाजिने कृष्णेन मधुषा करीरसक्तून् संयौति - मान्दा वाशा इति तिसृभिः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्फू᳓र्जन्दिद्यु᳓द्व᳓र्षन्भूत᳓रावृ᳓त्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,11 +417,14 @@ Ravat! Hail! Thundering, lightning, raining, waxing great; Ravat! Hail!
 
 वाशयन्ति शब्दयन्ति प्रजा इति वाशाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓न्दा वा᳓शाश्शु᳓न्ध्यूर᳓जिराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -399,11 +449,14 @@ Gladdening, obedient, purifying, agile,
 
 औणादिकः क्विप्रत्ययः, 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । अजिराः अजनशीलाः, जनन्यादिरूपेण परिणामात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्मतीस्त᳓मस्वरीरु᳓न्दतीस्सु᳓फेनाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,11 +479,14 @@ Full of light, full of darkness, flooding, with fair foam,
 उन्दत्यः क्लेदयित्र्यो भुवः ।
 सुफेनाः अलङ्कारभूतफेनाः उपर्युपरि वधर्मानाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मि᳓त्रभृतः क्ष᳓त्रभृतस्सु᳓राष्ट्रा इह᳓ माऽवत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,16 +509,22 @@ Supporting friends, supporting the warrior caste, With fair realms, do ye help m
 क्षत्रभृतः बलस्य पोषयित्र्यः । सुराष्ट्राः शोभनरार्ष्ट्रं कर्तुं समर्थाः ।
 ईदृश्यो यूयं इहास्मिन् कर्मणि मामवत अविघ्नेन प्रवर्तयत । यद्वा - कर्मफलप्रदानेन मां तर्पयत ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथ करीरसक्तून् तिस्रः पिण्डाः कृत्वा समुद्धृत्य कृष्णाजिनस्यान्तान् कृष्णेन सन्दानेनोपनह्यति - वृष्ण इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓ष्णो अ᳓श्वस्य सन्दा᳓नमसि वृ᳓ष्ट्यै त्वो᳓प नह्यामि ॥ [20]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -484,4 +546,5 @@ Thou art the fetter of the strong steed; for rain I yoke thee.
 वृष्णः वर्षितुरश्वस्य व्यापकस्य सन्दानं बन्धनमसि । अतो वृष्ट्यै वृष्ट्यर्थं त्वामुपनह्यामि बध्नामि, त्वयोपनह्यामि वा ॥
 
 इति द्वितीये चतुर्थे सप्तमोनुवाकः ॥  
+</details>
 </details>

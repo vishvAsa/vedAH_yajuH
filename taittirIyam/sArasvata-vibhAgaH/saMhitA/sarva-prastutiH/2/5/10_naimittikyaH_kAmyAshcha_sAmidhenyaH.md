@@ -2,17 +2,23 @@
 title = "१० नैमित्तिक्यः काम्याश्च सामिधेन्यः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विषयः</summary>
 
 प्रजापतिऋषिः ।
+</details>
 </details>
 
 ## राजन्यस्य
 ### त्रित्वम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्रीँ स्तृ॒चाननु॑ ब्रूयाद्राज॒न्य॑स्य॒ त्रयो॒ वा अ॒न्ये रा॑ज॒न्या॑त्पुरु॑षा ब्राह्म॒णो वैश्य॑श्शू॒द्रस्ताने॒वास्मा॒ अनु॑कान्करोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,6 +29,8 @@ title = "१० नैमित्तिक्यः काम्याश्च
 
 ता᳓न् एवा᳓स्मा अ᳓नुकान् करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,6 +77,7 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 
 पञ्च॑द॒शानु॑ ब्रूयाद्राज॒न्य॑स्य पञ्चद॒शो वै रा॑ज॒न्य॑स्स्व ए॒वैनँ॒ स्तोमे॒ प्रति॑ ष्ठापयति
 </details>
+</details>
 
 ### १५त्वम्
 
@@ -78,6 +87,8 @@ In the case of a Rajanya let him repeat the Trcas thrice three other sorts of me
 पञ्चदशो᳓ वै᳓ राजन्यः᳙ ।  
 स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,6 +118,7 @@ He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is f
 
 पक्षान्तरं विधत्ते-  **पञ्चादशानु ब्रूयादिति।** प्रजापतेरुरसो बाहुभ्यां च पञ्चदशस्तोमस्य राजन्यस्य चोत्पन्नत्वादसौ स्तोमो राजन्यस्य स्वकीयः । यद्यपि पञ्चदश सामिधेनीरन्वाहेति वर्णत्रयसाधारणवचनेनैवायं पक्षः प्राप्तस्तथाऽपि त्रीँ स्तृचानित्यनेन विशेषवचननेन नित्यबाधप्राप्तौ विकल्पार्थं पञ्चदशेति प्रतिप्रसवो विधीयते। 
 </details>
+</details>
 
 ### त्रिष्टुभ्
 
@@ -117,6 +129,8 @@ He should repeat fifteen (Samidhenis) in the case of a Rajanya; the Rajanya is f
 इन्द्रिय᳓-कामᳵ ख᳓लु वै᳓ राजन्यो᳙ यजते   
 त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् प᳓रि गृह्णाति   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,6 +165,7 @@ Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrific
 राजन्यस्य नित्यां परिधानीयां विधाय काम्यां विधत्ते—  
 **यदि कामयेतेति।**
 </details>
+</details>
 
 ## ब्रह्मवर्चसम्
 
@@ -162,6 +177,8 @@ Let him surround it with a Tristubh; the Tristubh is power, the Rajanya sacrific
 ब्रह्मवर्चसव्ँ᳓ वै᳓  गायत्री᳓   
 ब्रह्म-वर्चस᳓म् एव᳓ भवति   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,6 +213,7 @@ If he desires [1], 'May there be splendour', he should surround it with a Gayatr
 
 आजुहोत दुवस्यतेत्येषा गायत्री। तत्सवितुरित्यस्या गायत्र्या उपदेशेन ब्रह्मवर्चसनिष्पत्तेस्तस्य गायत्रीरूपत्वम्।  
 </details>
+</details>
 
 ## वैश्यस्य 
 ### १७त्वम्
@@ -206,6 +224,8 @@ If he desires [1], 'May there be splendour', he should surround it with a Gayatr
 सप्तदशो᳓ वै᳓ वै᳓श्यः   
 स्व᳓ एवै᳓नँ स्तो᳓मे प्र᳓ति ष्ठापयति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,6 +259,7 @@ He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily h
 
 जग॑त्या॒ परि॑ दध्या॒ज्जाग॑ता॒ वै प॒शवᳶ॑ प॒शुका॑म॒ᳵ खलु॒ वै वैश्यो॑ यजते॒ जग॑त्यै॒वास्मै॑ प॒शून्परि॑ गृह्णाति
 </details>
+</details>
 
 ### पशवः
 
@@ -249,6 +270,8 @@ He should repeat seventeen for a Vaiśya; the Vaiśya is seventeenfold; verily h
 पशु᳓-कामᳵ ख᳓लु वै᳓ वै᳓श्यो यजते ।  
 ज᳓गत्यैवा᳓स्मै पशू᳓न् प᳓रि गृह्णाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,6 +304,7 @@ He should surround it with a Jagati; cattle are connected with the Jagati, the V
 वैश्यस्य समिध्यमानो अमृतस्य राजसीत्येतां परिधानीयां विधत्ते-  **जगत्या परीति।** 
 जगत्यनुष्ठानलब्धत्वात्पशूनां जागतत्वम्। वैश्यस्य क्षीरदध्यादिविक्रयाय पशुकामत्वं प्रसिद्धम्। 
 </details>
+</details>
 
 ## प्रतिष्ठाकामस्य २१
 
@@ -291,6 +315,8 @@ He should surround it with a Jagati; cattle are connected with the Jagati, the V
 एकविँशः᳓ स्तो᳓मानाम् प्रतिष्ठा᳓  
 प्र᳓तिष्ठित्यै  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -336,6 +362,7 @@ He should repeat twenty one for one who desires support; the Ekavinśa is the su
 _______________  
 * अत्र ख. पुस्तके याज्यासंज्ञकानामिति पाठान्तरम्।
 </details>
+</details>
 
 ## ब्रह्मवर्चस-कामस्य २४
 
@@ -348,6 +375,8 @@ _______________
 गायत्री᳓ ब्रह्मवर्चस᳓म्    
 गायत्रियै᳓वा᳓स्मै ब्रह्मवर्चस᳓म᳓व रुन्द्धे 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -379,6 +408,7 @@ He should repeat twenty-four for one who desires splendour: the Gayatri has twen
 
 फलान्तराय विधत्ते—  **चतुर्विँ शतिमिति।** 
 </details>
+</details>
 
 ## अन्नकामस्य ३०
 
@@ -389,6 +419,8 @@ He should repeat twenty-four for one who desires splendour: the Gayatri has twen
 अ᳓न्नव्ँ विरा᳓ड्   
 विरा᳓जैवा᳓स्मा अन्ना᳓द्यम् अ᳓व रुन्द्धे   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,6 +450,7 @@ He should repeat thirty for one who desires food; the Viraj has thirty syllables
 
 पुनरपि फलान्तराय विधत्ते—   **त्रिँ शतमिति।** दशाक्षरैस्त्रिभिः पादैर्विराजस्त्रिंशदक्षरत्वम्। तच्छान्दोनुष्ठानेनान्नस्य लभ्यत्वात्तस्य च्छन्दसोऽन्नत्वम्। 
 </details>
+</details>
 
 ## प्रतिष्ठाकामस्य ३२
 
@@ -428,6 +461,8 @@ He should repeat thirty for one who desires food; the Viraj has thirty syllables
 अनुष्टु᳓प् छ᳓न्दसाम् प्रतिष्ठा᳓  
 प्र᳓तिष्ठित्यै    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -460,6 +495,7 @@ He should repeat thirty-two, for one who desires support; the Anustubh has thirt
 अन्यत्र वाग्वा अनुष्टुगिति श्रवणाद्वाग्रूपत्वमनुष्टुभः।  
 वाचि सर्वेवां छन्दसामन्तर्भावादनुष्टुवितरच्छन्दसां प्रतिष्ठा।  
 </details>
+</details>
 
 ## पशुकामस्य ३६
 
@@ -470,6 +506,8 @@ He should repeat thirty-two, for one who desires support; the Anustubh has thirt
 बा᳓र्हताᳶ पश᳓वः   
 बृ᳓हत्यै᳓वा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,6 +536,7 @@ He should repeat thirty-six for one who desires cattle; the Brhati has thirty-si
 
 पुनः फलान्तराय विधत्ते—   **षट्त्रिँ शतमिति।** पशूनां बृहतीच्छन्दसोऽनुष्ठानेन लभ्यत्वाब्दार्हतत्वम्। 
 </details>
+</details>
 
 ## इन्द्रियकामस्य ४४
 
@@ -508,6 +547,8 @@ He should repeat thirty-six for one who desires cattle; the Brhati has thirty-si
 इन्द्रिय᳓न् त्रिष्टु᳓प्,  ..
 त्रिष्टु᳓भैवा᳓स्मा इन्द्रिय᳓म् अ᳓व रुन्द्धे
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -536,6 +577,7 @@ He should repeat forty-four for one who desires power, the Tristubh has forty-fo
 
 फलान्तराय विधत्ते—   **चतुश्चत्वारिँ शतमिति।**
 </details>
+</details>
 
 ## पशुकामस्य ४८
 
@@ -546,6 +588,8 @@ He should repeat forty-four for one who desires power, the Tristubh has forty-fo
 जा᳓गताᳶ पश᳓वः  
 ज᳓गत्यैवा᳓स्मै पशू᳓न् अ᳓व रुन्द्धे   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -574,6 +618,7 @@ He should repeat forty-eight for one who desires cattle; the Jagati has forty-ei
 
 पुनः फलान्तराय विधत्ते-   **अष्टाचत्वारिँ शतमिति।** 
 </details>
+</details>
 
 ## बहुयाजिनः सर्वाणि
 
@@ -582,6 +627,8 @@ He should repeat forty-eight for one who desires cattle; the Jagati has forty-ei
 स᳓र्वाणि छ᳓न्दाँस्य् अ᳓नु ब्रूयाद् बहुयाजि᳓नः ।  
 स᳓र्वाणि वा᳓ एत᳓स्य छ᳓न्दाँस्य् अ᳓वरुद्धानि यो᳓ बहुयाजी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -612,12 +659,15 @@ He should repeat all the metres for one who makes many sacrifices, for all the m
 बहुभिदर्क्षिणीयादिभिरिष्टिभिरग्नीषोमीयादिपशुभिरैन्द्रवायवादिग्रहैश्च यजत इति बहुयाजी। एतस्य बहुयाजिनः सवनत्रयेगायत्र्युष्णिगनुष्टुब्जगतीरूपाणि सर्वाणि च्छन्दांस्यवरुद्धानि भवन्ति। तस्मात्सोमयाजी यदा दर्शपूर्णमासावनुतिष्ठति तदा तस्य त्रीणि च्छन्दांस्यनुब्रुयात्।  
 ‘समिध्यमानः प्रथमोऽनुधर्मः’ इत्येषा त्रिष्टुप्। ‘त्वामग्ने प्र दिव आहुतं घृतेन’ इत्येषा जगती। एतदुभयं समिद्धवत्याः पूर्वं पठनीयम्।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓परिमितम् अ᳓नु ब्रूयाद्  
 अ᳓परिमितस्या᳓वरुद्ध्यै ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,4 +697,5 @@ He should repeat indefinitely to win that which is not definite.
 तस्य सोमयाजिनस्त्रीँ स्तृचानित्यनुवाकेऽष्टाचत्वारिँशतमनुब्रुयादित्यन्तेयः संख्याविशेषस्तत्र स्वेच्छैव नियामिका, न तु वाचनिको नियमोऽस्तीत्येतद्विधत्ते-   **अपरिमितमिति।**  अपरिमितस्याधिकस्य फलस्येत्यर्थः। 
 
 इति द्वितीये पञ्चमे दशमोऽनुवाकः ॥
+</details>
 </details>

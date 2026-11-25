@@ -7,20 +7,28 @@ title = "१२ अश्वनामवाचनाद्यङ्गमन्�
 विश्वेदेवा ऋषयः
 
 ___________________
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अश्वस्य दक्षिणे कर्णे यजमानम् अश्वनामानि वाचयति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अश्वस्य दक्षिणे कर्णे यजमानमश्वनामानि वाचयति - विभूरित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभू᳓र् मात्रा᳓ +++(पृथिव्या)+++, प्रभूᳶ᳓ पित्रा᳓ +++(द्यवा वर्षकेण)+++। +++(उदात्तयणः इति तृतीयाया उदात्तत्वम् ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -40,6 +48,7 @@ Many through thy dam, powerful through thy sire,
 <details><summary>भट्टभास्कर-टीका</summary>
 
 धारणान्माता पृथिवी । तत्र वृष्ट्या प्रजा उत्पादयतीति पिता द्यौः । ब्राह्मणं च भवति 'इयं वै माता । असौ पिता' इति । तत्र मात्रा पृथिव्या त्वं विभूरसि विशेषण भवसि विशिष्टोसि । पित्रा दिवा च त्वं प्रभूरसि प्रकर्षेण भवसि प्रकृष्टोसि । 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् । 
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/20_ashvo-si_hayo-syatyo-si.md">
@@ -99,15 +108,20 @@ thou art a horse, thou art a steed, thou art a runner, thou art a male, thou art
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2उपतिष्ठते - आदित्यानामिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓नाम् प᳓त्वा᳓न्विहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,18 +142,24 @@ do thou follow the course of the Adityas.
 
 आदित्यानां यत्पत्व पतनं तदनुगच्छ शीघ्रं गच्छेति यावत् । यद्वा - आदित्यानां यत्पत्व मार्गः व्योम तदनु गच्छ 'उर्वन्तरिक्षमन्विहि' इति यावत् । पतेरौणादिको वनिप् ॥
 </details>
+</details>
 
 ___________________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पूर्वहोमात्पुरस्ताद्भागान् जुहोति पञ्च - अग्नये स्वाहेत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,11 +182,14 @@ To Agni hail!
 
 इन्द्राग्निशब्दे 'नोत्तरपदेऽनुदात्तादौ' इति देवताद्वन्द्वलक्षणस्य स्वरस्य प्रतिषेधः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हेन्द्राग्नि᳓भ्याम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -182,11 +205,14 @@ Hail to Indra and Agni!
 
 स्वाहा॑ । इ॒न्द्रा॒ग्निभ्या॒मिती॑न्द्रा॒ग्नि-भ्या॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा प्रजा᳓पतये।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -202,11 +228,14 @@ Hail to Prajapati!
 
 स्वाहा॑ । प्र॒जाप॑तय॒ इति॑ प्र॒जा-प॒त॒ये॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा वि᳓श्वेभ्यो देवे᳓भ्यः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,16 +251,22 @@ Hail to the All-gods!
 
 स्वाहा॑ । विश्वे॑भ्यः । दे॒वेभ्यः॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सायमश्वस्य पत्सु चतस्रो धृतीर्जुहोति - इह धृतिरित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा स᳓र्वाभ्यो देव᳓ताभ्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,9 +282,11 @@ Hail to all the deities!
 
 स्वाहा॑ । सर्वा॑भ्यः । दे॒वता॑भ्यः ।
 </details>
+</details>
 
 ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -262,11 +299,14 @@ ___________________
 
 (अत्र द्विवारं विनियोगः लभ्यते -कथं प्रदर्शनीयम् इति विचारणीयम् सम्पादकटिप्पनी-  प्रथमकाण्डे, द्वादशेऽनुवाके चतुर्थे मन्त्रे )+++ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,11 +322,14 @@ Here is support, hail!
 
 इ॒ह । धृतिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +345,14 @@ Here is keeping apart, hail!
 
 इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -322,11 +368,14 @@ Here is joy, hail!
 
 इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,25 +403,33 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
-
+</details>
 </div>  
 
 ___________________
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अश्वमुत्सृजति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अश्वमुत्सृजति - भूरसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓र् असि +++(=भावयिता त्वं विश्वस्यापि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,11 +450,14 @@ Thou art becoming;
 
 भूः भावयिता त्वं विश्वस्यापि । 'बहुलमन्यत्रापि' इति णिलुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भुवे᳓ त्वा +++(उत्सृजामि)+++, भ᳓व्याय त्वा +++(उत्सृजामि)+++, भविष्यते᳓ त्वा +++(उत्सृजामि)+++,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -428,11 +488,14 @@ to being thee, to what is becoming thee, to what shall be thee!
 
 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस् त्वा भूते्᳓ए᳓भ्यः +++(उत्सृजामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,10 +516,14 @@ To all beings thee!
 
 किं बहुना - विश्वेभ्यस्त्वा भूतेभ्यस्त्वामुत्सृजामीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथैनं देवताभ्यो रक्षार्थं परिददाति - देवा इत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -466,6 +533,8 @@ To all beings thee!
 दे᳓वा आशापाला,
 एत᳓न् देवे᳓भ्यो᳓ऽश्वम् मे᳓धाय प्रो᳓क्षितङ् गोपायत ॥ [41]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,4 +557,5 @@ O gods that guard the quarters, do ye guard for the gods for sacrifice this hors
 हे देवा आशापाला दिशां गोप्तारः । 'विभाषितं विशेषवचने बहुवचनम्' इति पूर्वस्याविद्यमानवत्त्वाभावः । एवमश्वं मेधाय यज्ञायाभिप्रोक्षितं अत एव महार्घं एतमश्वं देवेभ्यो देवार्थं गोपायत रक्षत । 'शतं वै तल्प्या राजपुत्रा देवा आशापालाः' इति ब्राह्मणम् ॥
 
 इति सप्तमे प्रथमे द्वादशोनुवाकः ॥
+</details>
 </details>

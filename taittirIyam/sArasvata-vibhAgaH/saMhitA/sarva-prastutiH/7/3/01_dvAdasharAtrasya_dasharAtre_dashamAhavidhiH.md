@@ -2,22 +2,30 @@
 title = "०१ द्वादशरात्रस्य दशरात्रे दशमाहविधिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 प्रायणीयोदयनीयौ विना दशाहत्वम् । तत्र दशममहः अविवाक्यम् इत्य् आचर्यते।  
 </details>
+</details>
 
 ## जवः पापनाशश्च
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जवव्ँ॒वा ए॒तेन॑ यन्ति॒ यद्द॑श॒ममहᳶ॑ पापाव॒हीयव्ँ॒वा ए॒तेन॑ भवन्ति॒ यद्द॑श॒ममह॒र्यो वै प्र॒जवय्ँ॑य॒तामप॑थेन प्रति॒पद्य॑ते॒ यस्स्था॒णुँ हन्ति॒ यो भ्रेष॒न्न्येति॒ स ही॑यते॒ स
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज᳓वव्ँ वा᳓ एते᳓न यन्ति, य᳓द् दशम᳓म् अ᳓हः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +46,14 @@ They go swiftly in that it is the tenth day.
 
 1अथ द्वादशाहीनस्य दशरात्रस्य दशममहः अधिकृत्योच्यते - प्रजवं वा इत्यादि ॥ प्रायणीयोदयनीयौ विना दशाहत्वम् । तत्र दशममहः अविवाक्यं, एतेन प्रजवं प्रकृष्टवेगं यन्ति प्रवर्तन्ते । क्रियाविशेषणम् । 'परादिश्छन्दसि' इत्युतरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यतः - )+++ पा᳓पा᳓वही᳓यव्ँ+++(=पापावहतिर्)+++ वा᳓ एते᳓न भवन्ति , य᳓द् दशम᳓म् अ᳓हः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -63,6 +74,7 @@ In that it is the tenth day they loosen their sins.
 
 शैघ्र्यै हेतुमाह - पापावहीयं वेत्यादि ॥ पापस्यावहतिः पापावहीयम् । भावे छान्दसः क्यप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । दशमेन हि अह्ना पापस्य समस्तस्य विनाशं प्राप्नुवन्ति सद्य एव सर्वं पापं नश्यति तत्किमिति विलम्ब्यते इति । प्राप्तिकर्मा भवतिः । कर्मणि वा क्यप्प्रत्ययः, क्रियाविशेषणं, पापमवहीनं यथा भवति तथा भवन्ति भूतिमन्तस्सपद्यन्ते ॥
 </details>
+</details>
 
 ## अविवाक्यता
 
@@ -72,6 +84,8 @@ In that it is the tenth day they loosen their sins.
 य᳓स् स्थाणुँ᳓ ह᳓न्ति+++(→गच्छति)+++ ,
 यो᳓ भ्रे᳓षन्+++(=निपतन्)+++ न्य्+ए᳓ति स᳓ हीयते । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,17 +108,23 @@ He who among men going swiftly falls in with a trackless way, he who strikes a p
 
 2यो वा इत्यादि ॥ लोके हि प्रजवं शीघ्रं गच्छतां मध्ये योपथेन अमार्गेण प्रतिपद्यते सार्धं हित्वा गच्छति, यो वा स्थाणुं हन्ति गच्छति, न्येति रोधादिकं नित्य इत्यस्य भूयो विरोधिः ? । भ्रेषं कण्टकादिना गत्यसामर्थ्यं न्येति गच्छति स हीयते तस्मात्सार्धात् भ्रष्टो भवति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै द॑श॒मेऽह॑न्नविवा॒क्य उ॑पह॒न्यते॒ स ही॑यते॒ तस्मै॒ य उप॑हताय॒ व्याह॒ तमे॒वान्वा॒रभ्य॒ सम॑श्ञु॒तेऽथ॒ यो व्याह॒ सः [1]  
 ही॒य॒ते॒ तस्मा॑द्दश॒मेऽह॑न्नविवा॒क्य उप॑हताय॒ न व्युच्य॒म्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(एवम् अस्मिन्नपि कर्मणि - )+++ यो᳓ वै᳓ दशमे᳓ ऽहन्न् अविवाक्य᳓ +++(स्मृतिविनाशादिना)+++ उपहन्य᳓ते , स᳓ हीयते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +145,14 @@ So he, who on this tenth day, the Avivakya, comes to grief, is left out.
 
 तस्मात् स यो वा एतादृशे दशमेऽहनि अविवाक्ये विवाक्यरहिते उपहन्यते स्मृतिविनाशादिना दुष्यति स हीयते एव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै य᳓ उ᳓पहताय व्या᳓ह+++(=विरुद्धमाह)+++, त᳓म् एवा᳓न्वार᳓भ्य +++(हीयमानः)+++ स᳓मश्नुते +++(सिद्धिम्)+++। अ᳓थ यो᳓ व्या᳓ह स᳓ हीयते [1]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -151,11 +174,14 @@ If one points out (an error) to one who comes to grief, he seizes hold of him an
 
 किंच - तस्मै उपहताय योन्यो व्याह विरुद्धमाह तस्य स्खलितं व्याकरोति तं स्खलितस्य व्याकर्तारमन्वारभ्य अवलम्ब्य समश्नुते व्याप्नोति कर्मसिद्धिं न तु हीयते उपहतस्खलितत्रेषव्यपगमात् । अथ योप्रा प्तकारी अविवाक्येनाह्ना व्याह स एव हीयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् दशमे᳓ऽहन्न् अविवाक्य᳓ उ᳓पहताय न᳓ व्यु᳓च्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,13 +204,17 @@ Therefore on the tenth day, the Avivakya, one should not point out (errors) to o
 
 यद्वा - विवक्तव्यं विवाक्यं तदस्मिन्नास्तीति अविवाक्यम्, बहुव्रीहौ 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 ### दोषवारणम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथो॒ खल्वा॑हुर्य॒ज्ञस्य॒ वै समृ॑द्धेन दे॒वास्सु॑व॒र्गल्ँ लो॒कमा॑यन्य॒ज्ञस्य॒ व्यृ॑द्धे॒नासु॑रा॒न्परा॑भावय॒न्निति॒ यत्खलु॒ वै य॒ज्ञस्य॒ समृ॑द्ध॒न्तद्यज॑मानस्य॒ यद्व्यृ॑द्ध॒न्तद्भ्रातृ॑व्यस्य॒ स यो वै द॑श॒मेऽह॑न्नविवा॒क्य उ॑पह॒न्यते॒ स ए॒वाति॑ रेचयति॒ ते ये बाह्या॑ दृशी॒कवः॑ [2]  
 स्युस्ते वि ब्रू॑यु॒र्यदि॒ तत्र॒ न वि॒न्देयु॑रन्तस्सद॒साद्व्युच्यय्ँ॒यदि॒ तत्र॒ न वि॒न्देयु॑र्गृ॒हप॑तिना॒ व्युच्य॒न्तद्व्युच्य॑मे॒व
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +224,8 @@ Therefore on the tenth day, the Avivakya, one should not point out (errors) to o
 यज्ञ᳓स्य वै᳓ स᳓मृद्धेन देवा᳓स् सुवर्गल्ँ᳓ लोक᳓म् आयन् ,
 यज्ञ᳓स्य व्यृ᳙द्धेना᳓सुरान् प᳓राभावयन्न् इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +250,14 @@ Or rather they say, 'By that which was successful in the sacrifice the gods went
 
 विकलं यज्ञफलमस्य शत्रोरित्यर्थः । एवं स्थिते स एष दशमेऽहनि अविवाक्ये उपहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ख᳓लु वै᳓ यज्ञ᳓स्य स᳓मृद्धन् , त᳓द् य᳓जमानस्य, य᳓द् व्यृद्धन् त᳓द् भ्रा᳓तृव्यस्य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -238,12 +273,15 @@ What is successful in the sacrifice belongs to the sacrificer, what is unsuccess
 
 यत् । खलु॑ । वै । य॒ज्ञस्य॑ । समृ॑द्ध॒मिति॒ सम्-ऋ॒द्ध॒म् । तत् । यज॑मानस्य । यत् । व्यृ॑द्ध॒मिति॒ वि-ऋ॒द्ध॒म् । तत् । भ्रातृ॑व्यस्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ यो᳓ वै᳓ दशमे᳓ ऽहन्न् अविवाक्य᳓ +++(स्मृतिभ्रंशादिना)+++ उपहन्य᳓ते, स एवा᳓ति रेचयति +++(=शेषयति [यज्ञांशम्])+++ ।  
 +++(तेन भ्रातृव्यः पुष्ट्टस् स्यात् - अतो वक्तव्यम् एव।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -264,11 +302,14 @@ Now he, who comes to grief on the tenth day, the Avivakya, produces overmuch.
 
 सोतिरेचयत्येव यज्ञं यज्ञांशं किंचिच्छेषयति तस्याकृतत्वात् तस्याविकलत्वात् यज्ञफलं भ्रातृव्यस्य स्यात्, तत् मा भूदेष दोष इति विवचनं वक्तव्यमेव विकलांशपूरणाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ये᳓ बा᳓ह्या दृशीक᳓वः+++(=प्रेक्षकाः)+++ स्युः᳓, ते᳓ वि᳓ ब्रूयुः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,11 +325,14 @@ Those who are outside as spectators [2] should point out (his error).
 
 ते । ये । बाह्याः॑ । दृ॒शी॒कवः॑ । स्युः । ते । वीति॑ । ब्रू॒युः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि त᳓त्र न᳓ विन्दे᳓युर् +++(स्खलितज्ञातॄन्)+++, अन्तस् सदसा᳓द् +++(ऋत्विग्भिर्)+++ व्यु᳓च्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,11 +358,14 @@ If there be none there, then (the error) should be pointed out from within the S
 
 कि बहुना येनकेनापि स्खलितभावविदा विवक्तव्यं नाविवाक्यमिति कथं नाम अविवाक्यमहस्स्यात् विवक्तव्यमस्मिन् नास्तीत्यविवाक्यं यथा विवक्तव्यमत्र न भवति तथाऽवहितैः कर्तव्यमिति सति तु स्खलिते विवक्तव्यमेवेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि त᳓त्र न᳓ विन्दे᳓युर्, गृह᳓पतिना+++(=मुख्ययजमानेन)+++ व्यु᳓च्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,11 +381,14 @@ If there be none there, then it should be pointed out by the Grhapati.
 
 यदि॑ । तत्र॑ । न । वि॒न्देयुः॑ । गृ॒हप॑ति॒नेति॑ गृ॒ह-प॒ति॒ना॒ । व्युच्य॒मिति॑ वि-उच्य॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् व्यु᳓च्यमेव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,18 +404,24 @@ At any rate it should be pointed out.
 
 तत् । व्युच्य॒मिति॑ वि-उच्य॑म् । ए॒व ।
 </details>
+</details>
 
 ## सर्पराज्ञि-मन्त्र-वचनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथ॒ वा ए॒तत्स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिस्स्तु॑वन्ती॒यव्ँ वै सर्प॑तो॒ राज्ञी॒ यद्वा अ॒स्याङ्किञ्चार्च॑न्ति॒ यदा॑नृ॒चुस्तेने॒यँ स॑र्परा॒ज्ञी
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ वा᳓ एत᳓त् सर्पराज्ञि᳓या+++(ज्ञ्याः)+++ +++('भूमिर्भूम्ना' इत्यादिभिः)+++ ऋग्भि᳓स् स्तुवन्ति +++(तस्मिन्नहनि समाप्तिकाले)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -388,11 +444,14 @@ They sing the verses of the serpent queen on that day.
 
 अथ वा तस्मिन्नहनि समाप्तिकाले सर्पराज्ञिया ऋग्भिः सा एतं मन्त्रमपश्यदिति सर्पराज्ञियाः पृथिव्याः अष्टाभिः 'भूमिर्भूम्ना' इत्यादिभिः ऋग्भिस्स्तुवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वै᳓ +++(पृथिवी)+++ स᳓र्पतो रा᳓ज्ञी ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,6 +474,7 @@ The queen of what creeps is this (earth).
 
 इयं पृथिवी सर्पतो गतिमततः सर्पस्य राज्ञी स्वामिनी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -422,6 +482,8 @@ The queen of what creeps is this (earth).
 य᳓द् +++(तामेव)+++ आनृचु᳓स्+++(=अर्चयन्ति)+++,  
 ते᳓नेयँ᳓ सर्पराज्ञी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -449,10 +511,14 @@ Whatever on this (earth) they praise, whatever they have praised, through that i
 
 ततः सर्पाणां राज्ञीति षष्ठीतत्पुरुषे समासान्तोदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ते यदे॒व किञ्च॑ वा॒चानृ॒चुर्यद॒तोऽध्य॑र्चि॒तारः॑ [3]  तदु॒भय॑मा॒प्त्वाव॒रुध्योत्ति॑ष्ठा॒मेति॒ ताभि॒र्मन॑सा स्तुवते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -461,6 +527,8 @@ Whatever on this (earth) they praise, whatever they have praised, through that i
 य᳓द् अतो᳓ ऽध्य् अर्चिता᳓रः,  
 तद् उभ᳓यम् आप्त्वा᳓ ऽवरु᳓ध्यो᳓त्तिष्ठामे᳓ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -487,11 +555,14 @@ Now whatever they have praised with speech and what they will praise thereafter,
 
 तेभ्य इत्यस्योत्तिष्ठामेत्यनेन संबन्धः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓भिर् म᳓नसा स्तुवते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,16 +583,22 @@ They sing these (verses) with the mind.
 
 ताभिरित्यादि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 न वा इ॒माम॑श्वर॒थो नाश्व॑तरीर॒थस्स॒द्यᳶ पर्या॑प्तुमर्हति॒ मनो॒ वा इ॒माँ स॒द्यᳶ पर्या॑प्तुमर्हति॒ मन॒ᳶ परि॑भवितु॒म्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ वा᳓ इमा᳓म् अश्वरथो᳓ ना᳓श्वतरीरथ᳓स् सद्यᳶ᳓ प᳓र्याप्तुम् अर्हति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -546,12 +623,15 @@ Neither a horse chariot nor a mule chariot can in one moment encompass this (ear
 
 'वत्सोक्षाश्वर्षभेभ्यः" इति ष्टरन् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो वा᳓ इमाँ᳓ सद्यᳶ᳓ प᳓र्याप्तुम् अर्हति ,  
 म᳓नᳶ प᳓रिभवितुम् +++(तस्मान् मनसा स्तोतव्यमिति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,18 +647,24 @@ but mind can in one moment encompass it, mind can overcome it.
 
 मनः॑ । वै । इ॒माम् । स॒द्यः । पर्या॑प्तु॒मिति॒ परि॑-आ॒प्तु॒म् । अ॒र्ह॒ति॒ । मनः॑ । परि॑भवितु॒मिति॒ परि॑-भ॒वि॒तु॒म् ।
 </details>
+</details>
 
 ## चतुर्होत्रवचनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथ॒ ब्रह्म॑ वदन्ति॒ परि॑मिता॒ वा ऋच॒ᳶ परि॑मितानि॒ सामा॑नि॒ परि॑मितानि॒ यजूँ॒ष्यथै॒तस्यै॒वान्तो॒ नास्ति॒ यद्ब्रह्म॒ तत्प्र॑तिगृण॒त आ च॑क्षीत॒ स प्र॑तिग॒रः ॥ [4]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ +++(स्तोत्रान्ते शस्त्रारम्भे चतुर्होर्त्रं)+++ ब्र᳓ह्म वदन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,6 +691,7 @@ Then they repeat the Brahman.
 
 अथ कस्माच्चतुरहोतार उच्यन्ते' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -612,6 +699,8 @@ Then they repeat the Brahman.
 +++(ब्रह्मणो)+++ अ᳓थैत᳓स्यैवा᳓न्तो ना᳓स्ति ।
 य᳓द् ब्र᳓ह्म त᳓त् प्रतिगृणत᳓ आ᳓ चक्षीत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,11 +724,14 @@ The Rc verses are limited, the Samans are limited, and the Yajuses are limited, 
 
 ऋगादीनि परिमितानि परिच्छिन्नानि 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रतिगरः᳓+++(=प्रतिवचनम् [शंसितुः प्रोत्साहनम् प्रति])+++ +++(न प्रतिगरो ऽन्य इति)+++॥ [4]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,4 +757,5 @@ That is the response.
 प्रतिगरः थाथादिनोत्तरपदान्तोदात्तत्वम् । शंसितुः प्रोत्साहनं प्रतिगरः ॥
 
 इति सप्तमे तृतीये प्रथमोनुवाकः ॥
+</details>
 </details>

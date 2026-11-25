@@ -6,15 +6,20 @@ title = "०८ प्रणयनादि"
 
 _______
 ## प्रणयनम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अपां प्रणयनं विधातुमाह - यो वा इत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ श्रद्धा᳓म् अ᳓नारभ्य यज्ञे᳓न य᳓जते - ना᳓स्येष्टा᳓य +++(दे᳓व᳓-म᳓नुष्या᳓)+++ श्र᳓द्-दधते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,6 +55,7 @@ He who offers sacrifice without faith, they place not faith in his sacrifice.
 
 विधत्ते- अपः प्रेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -57,6 +63,8 @@ He who offers sacrifice without faith, they place not faith in his sacrifice.
 श्रद्धा᳓ वा᳓ आ᳓पश्, श्रद्धा᳓म् एवा᳓ऽऽर᳓भ्य यज्ञे᳓न यजते।  
 उभ᳓ये ऽस्य देव-मनुष्या᳓ इष्टा᳓य श्र᳓द्दधते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,12 +88,15 @@ He brings waters forward, the waters are faith; verily with faith he offers sacr
 
 अपां श्रद्धाहेतुत्वमैतरेयिणः समामनन्ति - “आपो ह्यस्मै श्रद्धां संनमन्ते पुण्याय कर्मणे” इति। प्रत्यक्षं चैतत्स्नानाचमनादियुक्तस्य देवपूजादावैकाग्न्यातिशयदर्शनात्। अतोऽपां प्रणयनेन श्रद्धाया उपस्थापितत्वाद्देवानामृत्विजां चैतदीये यज्ञे विश्वासो युक्तः। यद्यपि पौरोडाशिककाण्डेऽध्वर्युकर्तृकमिदं प्रणयनं विहितं तथाऽपि शाखाभेदादपुनरुक्तिः। शाखाभेदश्चाऽऽपस्तम्बेन तत्रत्यमन्त्राणां साकल्येनानुवादाद्विधिपुनरुक्तिबाहुल्याच्चावगन्तव्यः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आहुर् - "अ᳓ति वा᳓ एता᳓ +++(आपो)+++ व᳓र्त्रन्+++(=रोधं)+++ नेदन्ति+++(=यन्ति)+++, अति वा᳓चम्।   
 म᳓नो वा᳓वै᳓ता᳓ ना᳓ति नेदन्ती᳓"ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,11 +132,14 @@ They say, 'They foam over the barrier, they foam over speech, but over mind they
 पृथिवीं च मनसा ध्यायतीति सूत्रकारेण प्रणयनकाले ध्यानमुक्तं, तदिदं विधातुं विधत्ते -  
 तदाहुरिति। तत्तत्रापां प्रणयने केचिदभिज्ञा इत्याहुः। किमिति। एता आपो वर्त्रं शरीरस्य वृत्तिमतिनेदन्ति अतिक्रामन्ति, वाचमप्यतिक्रामन्ति, न खलु प्रवहन्तीनां नद्यादिगतानामपां निवारणं शरीरेण वाचा वा कर्तुं शक्यते। मन एवैकमेता आपो नातिक्रामन्तीति। तदुत्तरत्र स्पष्टी करिष्यते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसा प्र᳓ णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +166,14 @@ He brings them forward with mind;
 विधत्ते -  
 मनसेति। पृथिवीं ध्यायन्निति शेषः। ब्राह्मणान्तरमनुसृत्य सूत्रकारेणोक्तत्वात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मनसो व्यापकत्वात्)+++ इयव्ँ᳓ +++(पृथ्वी)+++ वै᳓ म᳓नः [25] - अन᳓यैवै᳓नाᳶ प्र᳓ णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -186,11 +203,14 @@ mind is this (earth) [1]; verily with this (earth) he brings them forward.
 अनतिक्रमणमुपपादयति-  
 इयं वा इति। मनसाः पृथिवीवद्व्याप्तुं शक्यत्वात्पृथिवीत्वम्। न हि नद्यादिगता आपः पृथिव्या अतिक्रमणे शक्ताः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓स्कन्न-हविर् भवति य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,14 +237,18 @@ The sacrifice of him who knows thus does not spill.
 
 मनसा प्रणयनस्य वेदनं प्रशंसति - अस्कन्नहविरिति।  
 </details>
+</details>
 
 ## यज्ञायुधसम्भराणादि
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यज्ञायु॒धानि॒ सम्भ॑रति य॒ज्ञो वै य॑ज्ञायु॒धानि॑ य॒ज्ञमे॒व तत्सम्भ॑रति
 यदेक॑मेकँ स॒म्भरे॑त्पितृदेव॒त्या॑नि स्युः
 यत् स॒ह सर्वा॑णि मानु॒षाणि॒ द्वेद्वे॒ सम्भ॑रति याज्यानुवा॒क्य॑योरे॒व रू॒पङ्क॑रो॒ति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +257,8 @@ The sacrifice of him who knows thus does not spill.
 यज्ञो᳓ वै᳓ यज्ञायुधा᳓नि ।    
 यज्ञ᳓म् एव᳓ त᳓त् स᳓म्भरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,12 +304,15 @@ verily he collects the sacrifice.
 
 द्वित्वसाम्येन याज्यानुवाक्यारूपत्वं स्रीपुरुषात्मकमिथुनत्वं च।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् ए᳓कम् एकँ सम्भ᳓रेत् - पितृ-देवत्या᳙नि स्युः ।   
 य᳓त् सह᳓ स᳓र्वाणि - मानुषा᳓णि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,12 +331,15 @@ if all together, (they would have) men as their divinity.
 
 यत् । एक॑मेक॒मित्येक॑म्-ए॒क॒म् । स॒म्भरे॒दिति॑ सम्-भरे॑त् । पि॒तृ॒दे॒व॒त्या॑नीति॑ पितृ-दे॒व॒त्या॑नि । स्युः॒ । यत् । स॒ह । सर्वा॑णि । मा॒नु॒षाणि॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वे᳓-द्वे स᳓म्भरति -  
 याज्यानुवाक्य᳙योर् एव᳓ रूप᳓ङ् करोत्य् अ᳓थो मिथुन᳓म् एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -325,12 +357,15 @@ and thus there is a pair.
 
 द्वेद्वे॒ इति॒ द्वे-द्वे॒ । समिति॑ । भ॒र॒ति॒ । या॒ज्या॒नु॒वा॒क्य॑यो॒रिति॑ याज्या-अ॒नु॒वा॒क्य॑योः । ए॒व । रू॒पम् । क॒रो॒ति॒ । अथो॒ इति॑ । मि॒थु॒नम् । ए॒व ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ द᳓श यज्ञायुधा᳓नि वे᳓द -  
 मुखतो᳙ऽस्य यज्ञᳵ᳓ कल्पते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -358,12 +393,15 @@ If a man knows the ten weapons of the sacrifice, his sacrifice is in order at th
 संपादयनीयानां यज्ञायुधानां स्वरूपविशेषं विधातुं तद्वेदनं प्रशंसति -  
 यो वै दशेति। यो यजमानो मुखतो यज्ञारम्भे दशैतानि संपादनीयानीत्यनुसंधत्तेऽस्य यज्ञो निर्विघ्नेनानुष्ठानक्षमो भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्फ्य᳓श् [26] च कपा᳓लानि चाग्निहोत्रह᳓वणी च  ..  
 .  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,11 +428,14 @@ The wooden sword [2], the potsherds, the offering-spoon,
 आयुधविशेषस्वरूपाणि विधत्ते-  
 स्फ्यश्चेति। स्फ्यो नाम बाहुमात्रः खड्गाकारः काष्ठविशेषः । कपालानि भाण्डलेशसदृशानि। अग्निहोत्रहवणीलक्षणं सूत्रकार आह - वैकङ्कत्यग्निहोत्रहवणी बाहुमात्र्यरत्निमात्री वा प्रसृताकृतिरिति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शू᳓र्पञ्च कृष्णाजिन᳓ञ् च ..  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,12 +456,15 @@ the basket, the black antelope skin,
 
 शूर्पं परावपनार्थम् । कृष्णाजिनं कृष्णमृगचर्म उलूखलाद्यधिकरणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓म्या चोलू᳓खलञ्च मु᳓सलञ् च
 दृष᳓च् चो᳓पला च ...
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,12 +497,15 @@ the lower and upper millstones,
 तानि सर्वाण्यापस्तम्बो दर्शयति-  
 “उत्तरेण गार्हपत्याहवनीयौ दर्भान्सँस्तीर्य द्वंद्वं न्यञ्चि पात्राणि प्रयुनक्ति दशापराणि दश पूर्वाणि स्फ्यश्च कपालानि चेति यथासमाम्नातपराणि प्रयुज्य स्रुवं जुहुमुपभृतं ध्रुवां वेदं पात्रीमाज्यस्थालीं प्राशित्रहरणमिडापात्रं प्रणीताप्रणयनमिति पूर्वाणि तान्युत्तरेणावशिष्टान्यन्वाहार्यस्थालीमश्मानमुपवेषं प्रातर्दोहपात्राणि” इति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓नि वै᳓ द᳓श यज्ञायुधा᳓नि  ।  
 य᳓ एवव्ँ᳓ वे᳓द मुखतो᳙ ऽस्य यज्ञᳵ᳓ कल्पते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,9 +524,12 @@ these are the ten weapons of the sacrifice; the sacrifice of him who knows thus 
 यः । ए॒वम् । वेद॑ ।   
 मु॒ख॒तः । अ॒स्य॒ । य॒ज्ञः । क॒ल्प॒ते॒ ।
 </details>
+</details>
 
 _______
 ## हविर्-निर्वापः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ हविर्निर्वपणे कञ्चिद्विशेषमाह - यो वा इत्यादि ॥ 
@@ -489,12 +539,15 @@ _______
 
 यो वै दे॒वेभ्यᳶ॑ प्रति॒प्रोच्य॑ य॒ज्ञेन॒ यज॑ते जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यँ ह॒विर्नि॑रु॒प्यमा॑णम॒भि म॑न्त्रयेता॒ग्निँ होता॑रमि॒ह तँ हु॑व॒ इति॑ [27]दे॒वेभ्य॑ ए॒व प्र॑ति॒प्रोच्य॑ य॒ज्ञेन॑ यजते जु॒षन्ते॑ऽस्य दे॒वा ह॒व्यम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ देवे᳓भ्यᳶ प्रतिप्रो᳓च्य यज्ञे᳓न य᳓जते -  
 जुष᳓न्तेऽस्य देवा᳓ हव्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,11 +581,14 @@ they delight in his sacrifice.
 विधत्ते-  
 हविर्निरुप्यमाणमिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हवि᳓र् निरुप्य᳓माणम् अभि᳓ मन्त्रयेत - "अग्निँ᳓ हो᳓तारम् इह᳓ तँ᳓ हुव" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,12 +619,15 @@ He should as the oblation is being offered recite (the words),
 
 अस्य हविषो वियन्तु इदं हविरश्नन्त्वित्यर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्य एव᳓ प्रतिप्रो᳓च्य यज्ञे᳓न यजते ।  
 जुष᳓न्तेऽस्य देवा᳓ हव्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -586,11 +645,14 @@ and the gods delight in his sacrifice.
 
 दे॒वेभ्यः॑ । ए॒व । प्र॒ति॒प्रोच्येति॑ प्रति-प्रोच्य॑ । य॒ज्ञेन॑ । य॒ज॒ते॒ । जु॒षन्ते॑ । अ॒स्य॒ । दे॒वाः । ह॒व्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ यज्ञ᳓स्य ग्र᳓हो - गृहीत्वै᳓व᳓ यज्ञे᳓न यजते ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -617,12 +679,15 @@ This is the taking of the sacrifice and so after taking the sacrifice he sacrifi
 इदमभिमन्त्रणं पुनः प्रशंसति-  
 एष वा इति। एष मन्त्रप्रयोगो यज्ञस्वीकाररूपः। हविषो वियन्त्वित्यनेन देवतामुद्दिश्य द्रव्यत्यागस्य सूचितत्वात्।  
 </details>
+</details>
 
 ## वाग्दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् उदित्वा᳓ वा᳓चय्ँ यच्छति - यज्ञ᳓स्य धृ᳓त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -649,6 +714,7 @@ After speaking he remains silent, to support the sacrifice.
 यजमानस्य मौनं विधत्ते -  
 तदुदित्वेति। तदभिमन्त्रणमन्त्रवाक्यम्। मौनेन यज्ञो बहिरप्रकाशितत्वाद्धृतो भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +722,8 @@ After speaking he remains silent, to support the sacrifice.
 म᳓नसैव᳓ त᳓द् यज्ञ᳓न् तनुते  
 र᳓क्षसाम् अ᳓न्-अन्व्-अवचाराय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -684,12 +752,16 @@ Now Prajapati performed the sacrifice with mind; verily he performs the sacrific
 पुनरपि मौनं प्रशंसति -  
 अथो मनसेति। सति वाग्व्यापारे विवक्षितशब्दविशेषतदर्थचिन्तया तत्प्रसक्तानुप्रसक्तचिन्तया च विक्षिप्तं मनः प्रकृताद्यज्ञात्स्खलति। अतः प्रजापतिरविक्षेपाय मनसैव यज्ञमकरोत्। तद्वद्यजमानोऽपि तत्तेन मैनेन यज्ञं तनुते। तथा सति स्खलनाभावाद्रक्षसामत्र प्रचारो न भवति।  
 </details>
+</details>
 
 _______
 ## यज्ञयोगः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ यज्ञयोगं विदधाति - यो वा इत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -698,6 +770,8 @@ _______
 यो᳓ग आ᳓गते युन᳓क्ति -  
 युङ्क्ते᳓ युञ्जाने᳓षु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -724,12 +798,15 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 यज्ञयोगविधिमनुन्नेतुं प्रस्तौति-  
 यो वै यज्ञमिति। यो यजमानो यज्ञयोगकाले समागते सत्यप्रमत्तो यज्ञं युनक्ति स एव युञ्जानेषु यजमानेषु युङ्क्त इति व्यपदेशमर्हति। अकाले तु योगः कृतोऽप्यकृत एव स्यात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "क᳓स् त्वा युनक्ति  
 स᳓ त्वा युनक्त्व्" इ᳓त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -758,6 +835,7 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 कस्त्वा युनक्तीति। अयमपि मन्त्रः पूर्वप्रपाठके समाम्नातः। यः प्रजापतिः सर्वदा सर्वेषां यजमानानां यज्ञं युनक्ति स एवाद्य मदीयं यज्ञं युनक्तु रथेऽश्वमिव मयि यज्ञं संबध्नातु। अनेन मन्त्रेण यज्ञं युञ्ज्यादित्युन्नीतो विधिः।  
 इति षष्ठेष्टमोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -765,6 +843,8 @@ He who yokes the sacrifice when the yoking (time) arrives yokes it indeed among 
 प्रजा᳓पतिनैवै᳓नय्ँ युनक्ति,  
 युङ्क्ते᳓ युञ्जाने᳓षु ॥ [28]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -780,4 +860,5 @@ Ka is Prajapati--verily by Prajapati he yokes it; he yokes indeed among the yoke
 <details><summary>पद-पाठः</summary>
 
 प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वै । कः । र॒जाप॑ति॒नेति॑ प्र॒जा-प॒ति॒ना॒ । ए॒व । ए॒न॒म् । यु॒न॒क्ति॒ । यु॒ङ्क्ते । यु॒ञ्जा॒नेषु॑ ॥
+</details>
 </details>

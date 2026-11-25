@@ -4,15 +4,20 @@ title = "०३ प्रजाकामस्य पशुकामस्य �
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आस॒न्तेषा॑ङ्गाय॒त्र्योजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्त्स॒ङ्गृह्या॒दाया॑प॒क्रम्या॑तिष्ठ॒त्ते॑ऽमन्यन्त यत॒रान्वा इ॒यमु॑पाव॒र्त्स्यति॒ त इ॒दम्भ॑विष्य॒न्तीति॒ ताव्व्ँय॑ह्वयन्त॒ विश्व॑कर्म॒न्निति॑ दे॒वा दाभीत्यसु॑रा॒स्सा नान्य॑त॒राँश्च॒ नोपाव॑र्तत॒ ते दे॒वा ए॒तद्यजु॑रपश्यन्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स्सय्ँ᳓यत्ता आसन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ The gods and the Asuras were in conflict;
 
 1देवासुरा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाङ्गायत्र्यो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓न्त्सङ्गृ᳓ह्यादा᳓यापक्र᳓म्यातिष्ठत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,6 +66,7 @@ the Gayatri, grasping and taking their force, might, power, strength, offspring,
 
 तेषां देवासुराणां ओजःप्रभृति संगृह्यादाय आच्छिद्यापक्रम्य तेन सह तत्सकाशादपक्रम्य क्वाप्यतिष्ठत् गायत्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -65,6 +74,8 @@ the Gayatri, grasping and taking their force, might, power, strength, offspring,
 यतरा᳓न् वा᳓ इय᳓मुपावर्त्स्य᳓ति ।  
 त᳓ इद᳓म्भविष्यन्ती᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ they reflected, I Whomsoever of us she shall resort to, they shall become this (
 
 ते देवासुरा अमन्यन्त अस्माकं मध्ये यतरानियमुपावर्त्स्यति उपावर्तिष्यते ते इदं विश्वं भविष्यन्तीति अस्य विश्वस्य स्वामिनस्ते भविष्यन्तीति । यद्वा - इदं विश्वं ते भविष्यन्ति प्राप्स्यन्तीति । 'वृद्भ्यस्स्यसनोः' इति परस्मैपदम्, 'न वृद्ब्यश्चतुर्भ्यः' इतीडभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व्व्ँयह्वयन्त वि᳓श्वकर्मन्नि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,11 +127,14 @@ they hailed her in rivalry,
 अथ देवासुरास्तां व्यह्वयन्त विविधमाह्वयन्निति । 'निसमुपविभ्यो ह्वः' इत्यात्मनेपदम् ।
  विश्वकर्मन्निति । विश्वानि कर्माण्यस्यामिति विश्वकर्मा । 'मनः' इति ङीप्प्रतिषेधः, आमन्त्रिताद्युदात्तत्वम् । हे विश्वकर्मन्निति देवा गायत्रीमाह्वयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ दा᳓भी᳓त्य᳓सुराः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,12 +155,15 @@ they hailed her in rivalry,
 
 हे दाभि इत्यसुरा आह्वयन्, सामर्थ्यात् ह्वयत्यर्थमात्रं संबध्यते । यद्वा - व्यह्वयन्त विलक्षणमाह्वानं कृतवन्तः । वैलक्षण्यं चाह्वानपदभेदः । दभनं दाहः, दभिः प्रकृत्यन्तरमस्ति, तस्माद्घञन्तान्मत्वर्थीयोकारः, गौरादिर्द्रष्टव्यः, पूर्ववदामन्त्रिताद्युदात्तत्वम्, 'अम्बार्थनद्योः' इति ह्रस्वत्वम् । यद्वा - पचाद्यजन्तात् स्वार्थिकोऽण्, ततः 'टिढ्ढाणञ्' इति ङीप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ना᳓न्यतराँ᳓श्च नो᳓पा᳓वर्तत ।  
 ते᳓ देवा᳓ एत᳓द्य᳓जुरपश्यन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,16 +185,22 @@ they hailed her in rivalry,
 
 सेत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ओजो॑ऽसि॒ सहो॑ऽसि॒ बल॑मसि [9]  भ्राजो॑ऽसि दे॒वाना॒न्धाम॒ नामा॑सि॒ विश्व॑मसि वि॒श्वायु॒स्सर्व॑मसि स॒र्वायु॑रभि॒भूः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,11 +221,14 @@ neither did she resort to.
 
 2ओजोसीत्यादि ॥ तेजोसि यशोसि देवानाम् । सर्वत्र तद्धेतुत्वात्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓होऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,11 +249,14 @@ The gods saw this formula,
 
 सहोसि अभिभवसाधनमपि शत्रूणाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब᳓लमसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -245,11 +277,14 @@ The gods saw this formula,
 
 बलं प्रसिद्धम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रा᳓जोऽसि।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,11 +305,14 @@ thou art strength,
 
 भ्राजो दीप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नान्धा᳓म ना᳓मासि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -295,11 +333,14 @@ thou art might [1],
 
 धाम स्थानम् । नाम नमनमुपकारकम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वमसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,11 +361,14 @@ thou are blazing,
 
 विश्वमसि अन्यदपि यद्भद्रं तदसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वा᳓युः+++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -345,11 +389,14 @@ thou art by name the home of the gods,
 
 विश्वायुः विश्वा [श्वमा]युर्जीवितमस्मिन्निति विश्वायुः । 'बहुव्रीहौ विश्वं संज्ञायाम्' इति विश्वशब्दस्यान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वमसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,11 +417,14 @@ thou art all,
 
 सर्वमसि सर्वमपि जगतामेवासि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वा᳓युः +++(असि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,11 +445,14 @@ of all life thou art everything,
 
 सर्वायुरसि । सर्वाणि चायूंषि अन्नानि अस्यामिति सर्वान्नहेतुरसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिभूः᳓ +++(असि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -420,16 +473,22 @@ thou art of every life,
 
 अभिभूः यस्मादेवं तस्मात् त्वं सवर्स्योपरि भवसि सर्वस्याभिभवित्र्यसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इति॒ वाव दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून॑वृञ्जतॉ यद्गा॑य॒त्र्य॑प॒क्रम्याति॑ष्ठ॒त्तस्मा॑दे॒ताङ्गा॑य॒त्रीतीष्टि॑माहुस्सव्ँ वत्स॒रो वै गा॑य॒त्री
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓ति वा᳓व᳓ देवा᳓ अ᳓सुराणामो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓नवृञ्जत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,6 +509,7 @@ the overcoming.' (So saying) the gods appropriated the force, might, power, stre
 
 3इति वावेत्यादि ॥ इत्यनेन यजुषा देवाः असुराणामप्योज आदिकं अवृञ्जत आवर्जयन् आत्मसात्कृतवन्तः न केवलमात्मीयमेव लब्धवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -457,6 +517,8 @@ the overcoming.' (So saying) the gods appropriated the force, might, power, stre
 त᳓स्मादेता᳓ङ्गायत्री᳓ती᳓ष्टिमाहुः  ।  
 सव्ँवत्सरो᳓ वै᳓  गायत्री᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,16 +541,22 @@ Because the Gayatri remained away, therefore they style this offering the Gayatr
 
 यदित्यादि । गायत्र्यपक्रमणहेतुत्वादेतां वक्ष्यमाणामिष्टिं गायत्रीत्याहुः वेदार्थविदः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सव्ँ॑वत्स॒रो वै तद॑प॒क्रम्या॑तिष्ठ॒द्यदे॒तया॑ दे॒वा असु॑राणा॒मोजो॒ बल॑मिन्द्रि॒यव्ँवी॒र्य॑म् [10]  प्र॒जाम्प॒शूनवृ॑ञ्जत॒ तस्मा॑दे॒ताँ सव्ँ॑व॒र्ग इतीष्टि॑माहुः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवत्सरो᳓ वै᳓  त᳓दपक्र᳓म्यातिष्ठत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -509,12 +577,15 @@ the Gayatri is the year, so the year remained away;
 
 4संवत्सरो वा इत्यादि ॥ संवत्सरवत् सर्वार्थहेतुत्वात् बलसाम्यात् ताद्धर्म्यात् तदानीं संवत्सर एव देवेभ्योपक्रम्यातिष्ठत् । यथा संवत्सरापक्रमेण ओजआदिकं नश्यति तद्वदिदमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देत᳓या देवा᳓ अ᳓सुराणामो᳓जो ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म् प्रजा᳓म्पशू᳓न᳓वृञ्जत ।  
 त᳓स्मादेताँ᳓ सव्ँवर्ग᳓ इ᳓ती᳓ष्टिमाहुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -536,10 +607,14 @@ because the gods thereby appropriated the force, might, power, strength [2], off
 
 यदेतयेत्यादि । संव्रज्यते ओजआदिकं सर्वं सहैवानेनाव्रज्यते आच्छिद्यते इति संवर्गो योगः । वृजी वर्जने, घञि 'चजोः कुघिण्यतोः' इति कुत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो भ्रातृ॑व्यवा॒न्त्स्यात्स स्पर्ध॑मान ए॒तयेष्ट्या॑ यजेता॒ग्नये॑ सव्ँव॒र्गाय॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पे॒त्तँ शृ॒तमास॑न्नमे॒तेन॒ यजु॑षा॒भि मृ॑शे॒दोज॑ ए॒व बल॑मिन्द्रि॒यव्ँवी॒र्य॑म्प्र॒जाम्प॒शून्भ्रातृ॑व्यस्य वृङ्क्ते॒ भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +626,8 @@ because the gods thereby appropriated the force, might, power, strength [2], off
 ओ᳓ज एव᳓ ब᳓लमिन्द्रियव्ँ᳓वीर्य᳙म्प्रजा᳓म्पशू᳓न्भ्रा᳓तृव्यस्य वृङ्क्ते ।  
 भ᳓वत्यात्म᳓ना प᳓रास्य भ्रा᳓तृव्यो भवति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -577,4 +654,5 @@ He who has foes should in conflict sacrifice with this offering. To Agni, the ga
 5यो भ्रातृव्यवानित्यादि ॥ गतम् । एतेन यजुषेत्यादि । ओजोसीत्यादिना । अत्राचार्येण 'सर्वायुरभिभूरस्यभिभूरहं तेन हविषा(मिति) अमुं भ्रातृव्यमभिभूयासम्' इति शेषो दर्शितः ॥
 
 इति द्वितीये चतुर्थे तृतीयोनुवाकः ॥
+</details>
 </details>

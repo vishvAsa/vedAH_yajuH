@@ -5,9 +5,12 @@ unicode_script: devanagari
 ---
 ## प्राजापत्यं काण्डम्
 ## इष्टिहौत्रम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः (ल्पे) पुरस्तात् सामिधेनीनां होत्य् उपक्रम्यान्तराऽऽहवनीयम् उत्करं च प्रतीचीनं गच्छञ् जपति कं प्रपद्ये तं प्रपद्य इत्य् आदिकम् उक्त्वा सत्यं प्रपद्य इति वेति पक्षान्तरम् उक्तम्।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 सत्य᳓म् प्र᳓पद्ये ।  
 ऋत᳓म् प्र᳓पद्ये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -55,11 +60,14 @@ unicode_script: devanagari
 
 अमृतं अमृतत्वहेतुः यथातथा प्रपद्ये ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेᳶ प्रिया᳓न् तनु᳓वम् अ᳓नार्ताम् प्र᳓पद्ये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -80,12 +88,15 @@ unicode_script: devanagari
 
 देवेष्व् अप्य् आर्ति-रहितां प्रजापतेः प्रियां तनुवं प्रजापति-शरीरम् इदं कर्म प्रपद्ये।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓म् अह᳓म् पञ्चदशे᳓न व᳓ज्रेण   
 द्विष᳓न्तम् भ्रा᳓तृव्यम् अ᳓वक्रामामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +118,7 @@ unicode_script: devanagari
 
 इदम् इति हस्तेनाभिनयः। अहं होता पञ्चदश-स्तोम-सदृशेन वज्र-रूपेणानेन कर्मणा द्विषन्तं शत्रुम् अवष्टभ्य पीडयामि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -115,6 +127,8 @@ unicode_script: devanagari
 भू᳓र् भु᳓वस् सु᳓वः।  
 हि᳓म् ॥1॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -139,4 +153,5 @@ unicode_script: devanagari
 <details><summary>सायण-टीका</summary>
 
 यः शत्रुम् अस्मान् मनसा द्वेष्टि यं च शत्रुं वयं मनसा द्विष्मस् तम् उभय-विधम् एवावक्रामामि इति पूर्वत्रान्वयः। भूर् भुवः सुवर् इत्य् एतन्-नामका लोकास् तान् हिनोमि प्रीणयामीत्य् अर्थः।  
+</details>
 </details>

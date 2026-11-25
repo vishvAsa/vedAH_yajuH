@@ -10,6 +10,8 @@ title = "१८ दशपेय-ब्राह्मणम्"
 सद्य᳓स् सो᳓मङ् क्रीणन्ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 On the same day they consecrate, on the same day they buy the Soma.
@@ -38,11 +40,14 @@ On the same day they consecrate, on the same day they buy the Soma.
 
 तत्र द्वादश्यां वारुणयागानन्तरं दशपेयेन दीक्षा इत्यादि प्रथमोपसदं तदहरेव कुर्युरिति । सोमपरिवेषणं परिलुप्यते । दीक्षणीयां कृत्वा वपनदन्तधावनतूष्णींस्नानानि क्रियन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्डरि-स्रजा᳓म् प्र᳓यच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -69,11 +74,14 @@ He presents a lotus wreath.
 
 अभिषेचनीय एव दशपेयार्थं विक्रयस्य कृतत्वात् 'देवसूर्य' इत्यादि 'प्रजाभ्यस्त्वा ' इत्यन्तो लुप्यते ; पूर्वक्रीतत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश᳓भिर् वत्सतरै᳓स् सो᳓मङ् क्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +102,14 @@ He buys the Soma with (10) calves.
 
 2अथ क्रमखीशेपमाह - दशभिर्वत्सतैरिति ॥ पूर्वमेव क्रीतं पुरोहितगृहं गतं सोमं फलेन सहाहत्य 'क्षौमेण वाससोपसङ्गृह्य' इत्यादि विस्रंसनान्तं कृत्वा सोमविक्रयेण प्रदाय दशभिर्वत्सतरैः क्रीणाति । द्वितीयं वयः प्राप्नुवन्तो वत्सतराः । 'वत्सोक्षाश्व' इति ष्टरच् । दश वत्सतरान् सोमविक्रयिणे दक्षिणां दत्वा 'अस्मे ज्योतिः' इत्यादि कृत्वाऽऽदत्ते सोमम् । 'मित्रो न एहि' इत्यादि लुप्यते । 'वनेषु व्यन्तरिक्षम्' इत्यादि कुर्यात् । ततो हस्तेन राज्ञो नयनमाप्राग्वंशात् । प्राग्वंशसमीपे यत्र कुत्रचित् सोमफले स्थापयित्वाऽऽतिथ्यं कुर्यात् । आतिथ्यान्तरं सौर्येण चरुणेष्ट्वा पौर्वाह्णिकीभ्यां प्रवर्ग्योपसद्भ्यां प्रचर्य, तदहरेवापराह्णिकीभ्यां प्रचर्य विरामः ; एवं प्रथमोपसदन्तमहस्सन्तिष्ठते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशपे᳓यो भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,11 +130,14 @@ There is a drink for ten.
 
 दशपेयो भवतीति । एकैकस्मिन् चमसे दशदश ब्राह्मणास्सोमं पिबान्ति यस्मिन् स दशपेयः । अधिकरणे 'अचो यत्' इति यत्, 'ईद्यति' इतीत्वं, कृदुत्तरपदप्रकृतिस्वरत्वे 'यतो नावः' इत्याद्युदात्तत्वम्, सप्तपर्णादिवद्वीप्साद्यर्थलाभः । पात्रसंसादनकाले प्राकृतेभ्योतिरिक्ता दश चमसाः प्रयोक्तव्याः, उन्नयनकाले चोन्नेतव्या इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत᳓म् ब्राह्मणाᳶ᳓ पिबन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,11 +160,14 @@ A hundred Brahmans drink.
 
 एतेन दशपेयार्थे वीप्सां द्योतयति । ब्राह्मणग्रहणं विशिष्टब्राह्मणपरिग्रहार्थम् । तेन सोमयाजिनः आदशमात्पुरुषादविच्छिन्नसोमपीथाः विद्यावन्तस्त्रैविद्यवृद्धा वा मीमांसादिशास्त्राभियुक्ता वाकोवाक्येतिहासादिपुराणादिज्ञाः कृछ्रचान्द्रायणादितपोनिष्ठाः पवित्रार्थेष्टियज्ञक्रतूनामाहर्तारश्च ब्राह्मणाः पातारो वेदितव्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशँं᳓  स्तोत्र᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,11 +188,14 @@ The Stotra is the Saptadaśa.
 
 सप्तदशं स्तोत्रं भवतीति । सप्तदशस्तोत्रीयाः परिमाणमस्य सप्तदशम् । इदमेव स्तोत्रं स्तोमो भवति । अनुब्राह्मणं च भवति 'सप्तदशो दशपेयः' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकाशा᳓व् +++(आभरणे)+++ अध्वर्य᳓वे ददाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +216,14 @@ The two ornaments he gives to the Adhvaryu,
 
 3प्राकाशावित्यादि ॥ सौवर्णं दर्पणद्वयमध्वर्यवे ददाति । प्रकाशन्तेऽत्र रूपाणीति प्रकाशः । अधिकरणे घङ्, 'उपसर्गस्य घञ्यमनुष्ये' इति दीर्घश्छान्दसो वा, थाथादिनोत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्र᳓जम् उद्गात्रे᳓  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,11 +244,14 @@ the garland to the Udgatr,
 
 स्रजमित्यादि । अत्रापि हिरण्यस्रजमुद्गात्रे ददाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुक्मँ᳓+++(←रुच्)+++ हो᳓त्रे   +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,11 +272,14 @@ the round ornament to the Hotr,
 
 रुक्ममिति । रुक्मं रुचकम् । हिरण्यमिति केचित् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓श्वम् प्रस्तोतृ-प्रतिहर्तृ᳓भ्याम्  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,11 +300,14 @@ a horse to the Prastotr and Pratihartr,
 
 अश्वमिति गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश पष्ठौही᳓र्+++(=४-वर्षीया गर्भिण्यः ←पष्ठ+वह्)+++ ब्रह्म᳓णे  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,11 +328,14 @@ twelve heifers to the Brahman,
 
 द्वादशेति । चतुर्वर्षास्स्त्रीगवीः । पष्ठं वहन्तीति 'वहेश्च' इति ण्विः, 'वाहः' इति ङीष्, 'वाह ऊठ्' 'एत्येधत्यूठ्सु' इति वृद्धिः । द्वौ च दश च द्वादश । 'अष्टनस्सङ्ख्यायाम्' इत्यात्वम्, 'सङ्ख्या' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वशा᳓म्+++(=वन्ध्याम्)+++ मैत्रावरुणा᳓य  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,11 +356,14 @@ a cow to the Maitravaruna,
 
 वशा वन्ध्या ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषभ᳓म् ब्राह्मणाच्छँसि᳓ने   +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +384,14 @@ a bull to the Brahmanacchansin,
 
 ऋषभः खेलगतिः । ब्राह्मणादाहृत्य शंसति ब्राह्मणानि शंसति वा ब्राह्मणाच्छंसीति । 'सुप्यजातौ णिनिः', 'ब्राह्मणाच्छंसिन उपसङ्ख्यानम्' इति पञ्चम्या अलुक् । पक्षान्तरे छान्दसोदुगागमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ससी नेष्टा-पोतृ᳓भ्याम्  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,11 +412,14 @@ garments to the Nestr and Potr,
 
 नेष्टा च पोता च नेष्टापोतारौ । 'आनङृतो द्वन्द्वे' इत्यानङ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थू᳓रि+++(=धुरि बद्ध उक्षः)+++ यवाचित᳓म् अच्छावाका᳓य   +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +440,14 @@ a wagon drawn by one ox laden with barley to the Achavaka,
 
 स्थूरीति । स्थूरिः पष्ठवाट् । तत्साधर्म्याद्गोयुक्तो रथ उच्यते । यवाचितं यवा अस्मिन्नचीयन्ते यवैर्वा आचितमिति शकटमुच्यते । 'संज्ञायामनाचितादीनाम्' इत्युत्तरपदान्तोदात्तत्वं व्यत्ययेन प्रवर्तते । अच्छाभिमुख्येन ब्रवीतीत्यच्छावाकः । 'हलश्च' इति संज्ञायां घञ्, छान्दसो दीर्घः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनड्वा᳓हम् अग्नी᳓धे  +++(ददाति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,11 +468,14 @@ a draught ox to the Agnidh.
 
 अनड्वाहमिति । अनो वहतीत्यनड्वान् । पृषोदरादिः । अग्निमिन्ध इत्यग्नीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भार्गवो᳓ हो᳓ता भवति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +496,14 @@ The Hotr is a Bhargava;
 
 भार्गव इति । ऋत्विग्वरण एव भार्गवः भृगोरपत्यं तत्र वरितव्यः । श्रायन्तीयमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रायन्ती᳓यम् ब्रह्म-साम᳓म् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,11 +524,14 @@ the Saman of the Brahman is the Śrayantiya;
 
 ब्रह्मस्साम ब्रह्मसामम् । पूर्ववदच् । श्रायन्तीयं भवति 'श्रायन्त सूर्यम्' इत्यस्यामृचि गेयं भवति । श्रायन्तशब्दोस्मिन्नस्तीति श्रायन्तीयं साम । 'मतौ छस्सूक्तसाम्नोः' इति छः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारवन्ती᳓यम् अग्निष्टोम-साम᳓म्  +++(भवति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,11 +552,14 @@ the Agnistoma Saman is the Varavantiya.
 
 वारवन्तीयमिति । अग्निष्टोमस्य सामाग्निष्टोमसामं, येनाग्निष्टोमस्सन्तिष्ठते । पूर्ववदच् । तद्वारवन्तीयं भवति । 'अश्वं नत्वा वारवन्तम्' इत्यस्यामृचि गेयं भवति । वारवन्तमित्यस्मात्पूर्ववन्मत्वर्थे छः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारस्वती᳓र् अपो᳓ गृह्णाति ॥ [34]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -522,4 +581,5 @@ He takes water of the Sarasvati.
 सारस्वतीरिति । सरस्वतीनाम नदी । तदीया अपो वसतीवरीर्गृह्णाति, यदा सरस्वत्यास्समीपे यजते । इतरथा सरस्वतीजलमाहृत्य बहुयाजिकुम्भस्थं गृह्णातीत्याहुः । 'ऊडिदम्' इत्यद्भ्यो द्वितीयाया उदात्तत्वम् ॥
 
 इत्यष्टमेष्टादशोनुवाकः ॥  
+</details>
 </details>

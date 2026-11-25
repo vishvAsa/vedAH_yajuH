@@ -5,9 +5,12 @@ title = "२० सावित्रहोममन्त्राः"
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-3अथाश्वस्य सावित्राणि सप्त जुहोति - अग्नय इत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ title = "२० सावित्रहोममन्त्राः"
 +++(अथाश्वस्य सावित्राणि सप्त जुहोति)+++  
 अग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ To Agni hail!
 
 अग्नय इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाय᳓वे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,11 +67,14 @@ To Vayu hail!
 
 वा॒यवे॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,11 +90,14 @@ To Surya hail!
 
 सूर्या॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे अश्व!)+++ ऋत᳓म् असि । ऋत᳓स्यर्त᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,11 +120,14 @@ Thou art holy order, thou art the holy order of holy order;
 
 ऋतस्य ऋतमसीति । ऋतस्यापि यज्ञस्यापि त्वं यज्ञोसि त्वया हि यज्ञः इष्टसाधनं भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य᳓म् असि । सत्य᳓स्य सत्य᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,12 +148,15 @@ thou art truth, thou art the truth of truth!
 
 किं च - सत्यमवितथं सति साधु सत्यं तदपि त्वमेवासि सत्यस्यापि प्रकृष्टतरं सत्यं त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य प᳓न्था असि ।  
 देवा᳓नाञ् छाया᳓, ऽमृतस्य ना᳓म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,11 +184,14 @@ Thou art the path of holy order, the shadow of the gods, the name of immortality
 
 यद्वा - अमृतस्य पर्यायान्तरं त्वमस्यश्व इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सत्यय्ँ᳓ य᳓त् त्व᳓म् प्रजा᳓पतिर् अ᳓सि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +216,14 @@ thou art truth, thou art Prajapati.
 
 तत्र न काचित्स्तुतिरिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धि य᳓द् अस्मिन् वाजि᳓नीव शु᳓भस् स्प᳓र्धन्ते दि᳓वस् सू᳓र्येण +++(द्यु)+++वि᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -219,12 +245,15 @@ The folk of the sky vie with the sun;
 
 8-11किंच - यत् यस्मादीदृशेऽस्मिन् महाभागे वाजिनि अश्वे अधिकमिव वर्तन्ते । के? शुभः योग्यता गुणाः अग्न्यादिदेवताभ्योप्यधिकमस्मिन् अश्वे गुणास्सन्ति, तस्मादसहमानाः अनेनाश्वेन स्पर्धन्ते दिवः दिवौकसः सूर्येण सवित्रा विशः देवविशो मरुदादयश्च । यद्वा - अनेनाश्वेन सूर्येण सावकेन सर्वलोकोत्पत्तिहेतुना सह स्पर्धन्ते देवा इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपो᳓ वृणानᳶ᳓ पवते+++(=पुनाति)+++ कव्य᳓न्+++(=कवं स्तुतिम् इच्छन् ←क्यच्+शतृ)+++ ,  
 पशु᳓न् न᳓ गोपा᳓ इ᳓र्यᳶ+++(=इरासम्बन्धी)+++ प᳓रिज्मा+++(=परिगन्ता [वायुः])+++ ॥ 52 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -250,4 +279,5 @@ Like a beast the busy guardian that goeth around.
 
 प्रपाठकश्च समाप्तः ॥
 ओम् ॥  
+</details>
 </details>

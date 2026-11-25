@@ -5,6 +5,8 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 अग्निर्ऋषिः
 
 ( तत्र प्रथमोऽनुवाकः)
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 र॒श्मिर॑सि॒ क्षया॑य त्वा॒ क्षय॑ञ्जिन्व॒ प्रेति॑रसि॒ धर्मा॑य त्वा॒ धर्म॑ञ्जि॒न्वान्वि॑तिरसि दि॒वे त्वा॒ दिव॑ञ्जिन्व स॒न्धिर॑स्य॒न्तरि॑क्षाय त्वा॒न्तरि॑क्षञ्जिन्व प्रति॒धिर॑सि पृथि॒व्यै त्वा॑ पृथि॒वीञ्जि॑न्व विष्ट॒म्भो॑ऽसि॒ वृष्ट्यै॑ त्वा॒ वृष्टि॑ञ्जिन्व प्र॒वास्यह्ने॒ त्वाह॑र्जिन्वानु॒वासि॒ रात्रि॑यै त्वा॒ रात्रि॑ञ्जिन्वो॒शिग॑सि [1]    वसु॑भ्यस्त्वा॒ वसू॑ञ्जिन्व प्रके॒तो॑ऽसिरु॒द्रेभ्य॑स्त्वारु॒द्राञ्जि॑न्व सुदी॒तिर॑स्यादि॒त्येभ्य॑स्त्वाऽऽदि॒त्याञ्जि॒न्वौजो॑ऽसि पि॒तृभ्य॑स्त्वा पि॒तॄञ्जि॑न्व॒ तन्तु॑रसि प्र॒जाभ्य॑स्त्वा प्र॒जा जि॑न्व पृतना॒षाड॑सि प॒शुभ्य॑स्त्वा प॒शूञ्जि॑न्व रे॒वद॒स्योष॑धीभ्य॒स्त्वौष॑धीर्जिन्वाभि॒जिद॑सि यु॒क्तग्रा॒वेन्द्रा॑य॒ त्वेन्द्र॑ञ्जि॒न्वाधि॑पतिरसि प्रा॒णाय॑ [2]  त्वा॒ प्रा॒णञ्जि॑न्व य॒न्तास्य॑पा॒नाय॑ त्वापा॒नञ्जि॑न्व सँ॒सर्पो॑ऽसि॒ चक्षु॑षे त्वा॒ चक्षु॑र्जिन्व वयो॒धा अ॑सि॒ श्रोत्रा॑य त्वा॒ श्रोत्र॑ञ्जिन्व त्रि॒वृद॑सि प्र॒वृद॑सि सव्ँ॒वृद॑सि वि॒वृद॑सि सँरो॒हो॑ऽसि नीरो॒हो॑ऽसि प्ररो॒हो॑ऽस्यनुरो॒हो॑ऽसि वसु॒को॑ऽसि॒ वेष॑श्रिरसि॒ वस्य॑ष्टिरसि ॥
@@ -14,11 +16,14 @@ title = "०१ पञ्चम-चिति-शेष-स्तोम-भाग
 
 तत्र पूर्वस्यां दिश्युपधेयानामिष्टकानां सप्त मन्त्रानाह— 	रश्मिरसि क्षयायेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्मि᳓रसि᳓ क्ष᳓याय त्वा +++(उपदधामि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ Thou art the ray; for dwelling thee!
 
 हे इष्टके त्वमादित्यरश्मिरूपाऽस्यतः क्षयाय निवाससिद्ध्यर्थं त्वामुपदधामि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वं)+++ क्ष᳓यञ्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,11 +73,14 @@ Quicken the dwelling.
 त्वं चास्माकं क्षयं निवासं जिन्व प्रीणय संपादयेत्यर्थः ।  
 एवं सर्वं योजनीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रे᳓तिर᳓सि᳓, ध᳓र्माय त्वा +++(उपदधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +101,14 @@ Thou art advance; for right thee!
 
 प्रकृष्टा गतिर्यस्याः सा प्रेतिः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वं)+++ ध᳓र्मञ्जिन्व᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,11 +129,14 @@ Quicken right.
 
 धर्मो विहितकर्मानुष्ठानम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्वितिरसि, दिवे᳓ त्वा  +++(उपदधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +157,14 @@ Thou art following; for sky thee!
 
 अनुकूला गतिर्यस्याः साऽन्वितिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वं)+++ दि᳓वञ्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -165,11 +185,14 @@ Quicken the sky.
 
 द्यौः स्वर्गः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्धि᳓रसि, अन्त᳓रिक्षाय त्वा +++(उपदधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,11 +213,14 @@ Thou art union; for atmosphere thee!
 
 द्यावापृथिव्योर्मध्यवर्ती देशः संधिः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वं)+++ अन्त᳓रिक्षञ्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,12 +241,15 @@ Quicken the atmosphere.
 
 अन्तरिक्षं गन्धर्वादिलोकभागोऽन्तरिक्षम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिधि᳓रसि,  पृथिव्यै᳓ त्वा +++(उपदधामि)+++ ।  
 +++(त्वं)+++ पृ᳓थिवी᳓ञ्जिन्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,12 +271,15 @@ Thou art propping; for earth thee! Quicken earth.
 
 प्रतिधिशब्देन भूलोकभाग उपलक्ष्यते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्टम्भो᳙ऽसि᳓ , वृ᳓ष्ट्यै त्वा +++(उपदधामि)+++ ।   
 +++(त्वं)+++ वृ᳓ष्टिञ्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,12 +301,15 @@ Thou art a prop; for rain thee! Quicken rain.
 
 विशेषेण स्तभ्यते। जलमत्र घार्यत इति विष्टम्भो मेघः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवा᳓ऽसि᳓ , अ᳓ह्ने त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++  अ᳓हर्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,10 +331,14 @@ Thou art blowing forward; for day thee! Quicken day.
 
 प्रथमं वाति गच्छति प्रवर्तत इति प्रबोषःकालः । उषा हि सूर्योदयात्पूर्वं प्रवर्तते ।  अतोऽहसिद्ध्यर्थं त्वामुपदघामि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दक्षिणस्यां दिश्युपधेयानामिष्टकानां सप्त मन्त्रानाह— अनुवाऽसि रात्रिया इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +346,8 @@ Thou art blowing forward; for day thee! Quicken day.
 अनुवा᳓ऽसि,  रा᳓त्रियै त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++ रा᳓त्रिञ्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,11 +369,14 @@ Thou art blowing after; for night thee! Quicken night.
 
 अनु सूर्यास्तमयात्पश्चाद्वाति चरति प्रयाती  २०४४ त्यनुवा सायंसंध्या ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उशि᳓गसि᳓,  व᳓सुभ्यस्त्वा +++(उपदधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +397,14 @@ Thou art eager; for the Vasus thee!
 
 उशिग्वसुभिः काम्यमानाऽसि ।   अतो वसूभ्यो वसूनां प्रीत्यर्थं त्वामुपदधामि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वं)+++ व᳓सूञ्जिन्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -378,12 +425,15 @@ Quicken the Vasus.
 
 त्वं च वसूञ्जिन्वं प्रीणय ।   एवमुत्तरत्र योज्बम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकेतो᳙ऽसि,रुद्रे᳓भ्यस्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++ रुद्रा᳓ञ्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,12 +455,15 @@ Thou art intelligence; for the Rudras thee! Quicken the Rudras.
 
 प्रकृष्टः केनो यः ( स ) प्रकेतः । रुद्राणां यः प्रकेतस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदीति᳓रसि,  आदित्ये᳓भ्यस्त्वा +++(उपदधामि)+++ ।   
  +++(त्वं)+++ आदित्या᳓ञ्जिन्व᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,12 +485,15 @@ Thou art the brilliant; for the Adityas thee! Quicken the Adityas.
 
 शोभना दीतिः र्दीप्तिः सुदीतिः सा त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जोऽसि पितृ᳓भ्यस्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  पितॄ᳓ञ्जिन्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,12 +515,15 @@ Thou art force; for the Pitrs thee! Quicken the Pitrs.
 
 ओजो बलं पितॄणां यद्बलमनुग्रहसमर्थं तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न्तुरसि, प्रजा᳓भ्यस्त्वा +++(उपदधामि)+++ ।   
 +++(त्वं)+++  प्रजा᳓ जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -486,12 +545,15 @@ Thou art the thread; for offspring thee! Quicken offspring.
 
 तन्तु पुत्रपौत्रादिसातर्त्यम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृतनाषा᳓डसि , पशु᳓भ्यस्त्वा  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  पशू᳓ञ्जिन्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -513,10 +575,14 @@ Thou dost endure the battle; for cattle thee! Quicken cattle.
 
 स्वकीयान्गवादिपशूनपहर्तुमागता या परकीयसेना सा पृतना तां सहतेऽभिभवतीति पृतनाषाड् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पश्चिमायां दिश्युपधेयानामिष्टकानां सप्त मन्त्रानाह— रेवदस्योषघीभ्य इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +590,8 @@ Thou dost endure the battle; for cattle thee! Quicken cattle.
 रेव᳓दसि᳓, ओ᳓षधीभ्यस्त्वा᳓  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  ओ᳓षधीर्जिन्व ।  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,12 +613,15 @@ Thou art wealthy; for plants thee! Quicken plants.
 
 रा अस्यास्तीति रेवत् ।   ओषधिसाध्यं यद्धनं जीवनं तद्रूपा त्वगसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिजि᳓दसि, युक्त᳓ग्रावे᳓न्द्राय त्वा᳓  +++(उपदधामि)+++ ।   
 +++(त्वं)+++  इ᳓न्द्रञ्जिन्व᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -572,12 +643,15 @@ Thou art the victorious with ready stone; for Indra thee! Quicken Indra.
 
 जयसि शत्रूनभिभवसीत्यभिजित् ।  पाषाणसदृशो वाञ्चा ग्रावा, युक्तो हस्ते स्वीकृतो ग्रावा यस्यासौ युक्तग्रावा ।  इन्द्रश्चक्षुरदीन्द्रियाण्यधिष्ठाय पालयिता ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिपतिरसि, प्राणा᳓य त्वा +++(उपदधामि)+++ ।     
 +++(त्वं)+++ प्राण᳓ञ्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -599,12 +673,15 @@ Thou art the overlord; for expiration thee! Quicken expiration.
 
 यः श्वासरूपो वायुः सोऽधिपतिस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्ता᳓ऽसि । अपाना᳓य त्वा+++(उपदधामि)+++ ।   
 +++(त्वं)+++  अपान᳓ञ्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -626,12 +703,15 @@ Thou art the restrainer; for inspiration thee! Quicken inspiration.
 
 वहिर्निर्गतस्य श्वासस्य पुनरप्यन्तःप्रवेशाय नियामको यो वायुविशेषः , स यन्ता, तद्रूपा त्वमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँस᳓र्पोऽसि᳓ ,  च᳓क्षुषे त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++ च᳓क्षुर्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -653,12 +733,15 @@ Thou art the glider; for the eye thee! Quicken the eye.
 
 सम्यक्सर्पयति बलेन प्रवर्तयति मां चयनधनप्रस्या [ स्वीक ] रणायसंसर्पो दृष्टिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयोधा᳓ असि । श्रो᳓त्राय त्वा  +++(उपदधामि)+++ ।  
 +++(त्वं)+++ श्रो᳓त्रञ्जिन्व  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -680,11 +763,14 @@ Thou art the bestower of strength; for the ear thee! Quicken the ear.
 
 वयः पक्षी तद्वद्धावतीति वयोधाः ।   पक्षी तत्र तत्र गत्वा स्व कार्यं साधयति तथा श्रोत्रेन्द्रियशक्तिस्तत्तच्छनब्दं प्राप्य निश्चिनोति, उच्छक्तिरूपत्वमासे ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -705,16 +791,22 @@ Thou art threefold.
 
 तिस्र आवृतोऽवयवविशेषा यस्य मिथुनीभावस्य सोऽपं त्रिबृत्पुमान्यो षित्साङ्गश्चो त्यवयवत्रयं, तथाविधमिथुनीभावरूपा त्वमसि।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथोदीच्यां दिश्युपधेयानामिष्टकानां सप्त मन्त्रानाह— प्रवृदसि संवृदिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृ᳓दसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -735,11 +827,14 @@ Thou art Pravrt.
 
 स्त्रीपुरुषयोः संसर्गानन्तरभाविनी या प्रवृत्तिः सा प्रवृत्तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवृ᳓दसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -760,11 +855,14 @@ Thou art Samvrt.
 
 प्रवृत्त्यनन्त्रभावी यः सभ्यग्व्यापारः सोऽयं संवृत्तद्रुपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवृ᳓दसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -785,11 +883,14 @@ Thou art Vivrt.
 
 तद्व्यापारदूर्ध्वं या विवृत्तिः सा विवृत्तद्रूपा स्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँरोहो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -810,11 +911,14 @@ Thou art the mounter.
 
 संभोगादूर्ध्वं   २०४५ वीणस्य क्षेत्रे यः समारोपः सोऽयं संरोहस्तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीरोहो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -835,11 +939,14 @@ Thou art the descender.
 
 क्षेत्रे प्रक्षिप्तस्य वीजस्य निःशेषेण गर्भाशयव्याप्तिर्निरोहस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्ररोहो᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -860,11 +967,14 @@ Thou art the fore mounter.
 
 गर्भशथे व्याप्तस्य वीजस्य शरीराकारः परिणामाः प्ररोहस्तद्रूपा त्वमसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरोहो᳙ऽसि
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -885,16 +995,22 @@ Thou art the after mounter.
 
 तस्य च षरिणतस्य शरीरस्यानुकूलः पुत्रादिरूपेण प्रादुर्भावोऽनुरोहस्तद्रूपा त्वमसि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ मध्यदेश उपधेयानामिष्टकानां त्रीन्मन्त्रानाह— वसुकोऽसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसुको᳙ऽसि  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -910,11 +1026,14 @@ Thou art the wealthy.
 
 व॒सु॒कः । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वे᳓षश्रिरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -935,11 +1054,14 @@ Thou art the brilliant.
 
 वसु धनमस्यास्तीति वसुको धनी पुत्रस्तद्रूपा त्वमसिवेषो व्याप्तं घनं, वेषं श्रयते सेवत इति वेषश्रिः ।   माप्तस्याभिवृद्धिकारीत्यर्थः ।  तद्रूपा त्वमसि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓स्यष्टिरसि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -983,6 +1105,7 @@ Thou art the gainer of good.
 एतद्वेदनं प्रशंसति—
 “सात्माऽन्तरिँ रोहसि सप्राणोऽमुष्मिल्ँ लोके प्रति तिष्टत्यव्यर्धकः प्राणापानाभ्यां भवति य एवं देद” (सं. का. ५ प्र. ३ अ. ६) इति।  
 सात्मा सशरीरोऽन्तरिक्षँ गत्वा यज्ञगन्धर्वादिलोकेषु भोगान्भुङ्क्ते, स्वर्गलोकेऽपि प्राणशरीरयुक्त एव प्रतितिष्ठति, प्राणापानाभ्यां कदाचिदपि न वियुक्तो भवति ।  
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके द्वितीयोऽनुवाकः

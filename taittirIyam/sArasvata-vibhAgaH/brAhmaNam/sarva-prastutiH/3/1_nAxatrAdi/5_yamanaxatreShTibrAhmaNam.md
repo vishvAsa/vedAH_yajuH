@@ -11,6 +11,8 @@ unicode_script: devanagari
 "मित्र-धे᳓यम् एषु᳓ लोके᳓ष्व् **अभि᳓जयेयम्**" इ᳓ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रो वा अ॑कामयत ।  
@@ -28,11 +30,14 @@ unicode_script: devanagari
 **मित्र-धेयं** मित्रत्वं सर्वस्य ।  
 मित्राय वा धातव्यं दातव्यं मित्रधेयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् मित्रा᳓यानूराधे᳓भ्यश् चरु᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । मित्रा᳓य । अनूराधे᳓भ्यः । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ मित्रधे᳓यम् एषु᳓ लोके᳓ष्व् **अभ्य᳙जयत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,12 +66,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । मित्र-धे᳓यम् । एषु᳓ । लोके᳓षु । अभि᳓ । अजयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रधे᳓यँ ह वा᳓ एषु᳓ लोके᳓ष्व् **अभि᳓जयति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,11 +86,14 @@ unicode_script: devanagari
 
 मित्र-धे᳓यम् । ह । वै᳓ । एषु᳓ । लोके᳓षु । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -91,12 +105,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "मित्रा᳓य स्वा᳓हा ऽनूराधे᳓भ्यस् स्वा᳓हा ।  
 मित्रधे᳓याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हे᳓"ति ॥42॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +124,7 @@ unicode_script: devanagari
 
 मित्रा᳓य । स्वा᳓हा । अनूराधे᳓भ्यस् । स्वा᳓हा । मित्र-धे᳓याय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## ज्येष्ठा - इन्द्रः
 
@@ -114,6 +132,8 @@ unicode_script: devanagari
 
 इ᳓न्द्रो वा᳓  **अकामयत** - "ज्यै᳓ष्ठ्यन् देवा᳓नाम् **अभि᳓जयेयम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,11 +150,14 @@ unicode_script: devanagari
 
 2महाव्रीहयः महाशालयः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् इ᳓न्द्राय ज्येष्ठा᳓यै पुरोडा᳓शम् ए᳓कादश-कपालन् **नि᳓रवपन्** महा᳓व्रीहीणाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,11 +168,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । इ᳓न्द्राय । ज्येष्ठा᳓यै । पुरोडा᳓शम् । ए᳓कादश-कपालम् । निः᳓ । अवपन् । महा᳓-व्रीहीणाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ ज्यै᳓ष्ठ्यन् देवा᳓नाम् **अभ्य᳙जयत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,12 +186,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । ज्यै᳓ष्ठ्यम् । देवा᳓नाम् । अभि᳓ । अजयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यै᳓ष्ठ्यँ ह वै᳓ समाना᳓नाम् अभि᳓जयति  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -177,11 +206,14 @@ unicode_script: devanagari
 
 ज्यै᳓ष्ठ्यम् । ह । वै᳓ । समाना᳓नाम् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,12 +225,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इ᳓न्द्राय स्वा᳓हा ज्येष्ठा᳓यै स्वा᳓हा ।  
 ज्यै᳓ष्ठ्याय स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हे᳓"ति ॥43॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +245,7 @@ unicode_script: devanagari
 
 इ᳓न्द्राय । स्वा᳓हा । ज्येष्ठा᳓यै । स्वा᳓हा । ज्यै᳓ष्ठ्याय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## मूलम् - निरृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +253,8 @@ unicode_script: devanagari
 प्रजा᳓पतिर् वा᳓ **अकामयत** -  
 "मू᳓लम् प्रजाव्ँ᳓ **विन्देये᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -233,11 +271,14 @@ unicode_script: devanagari
 
 3मूलं प्रधानभूतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् प्रजा᳓पतये मू᳓लाय चरु᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,11 +289,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । प्रजा᳓-पतये । मू᳓लाय । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ मू᳓लम् प्रजा᳓म् **अविन्दत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -263,12 +307,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । मू᳓लम् । प्र-जा᳓म् । अविन्दत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मू᳓लँ ह वै᳓ प्रजाव्ँ᳓ **विन्दते**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -280,12 +327,15 @@ unicode_script: devanagari
 
 मू᳓लम् । ह । वै᳓ । प्र-जा᳓म् । विन्दते । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**,  
 सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,11 +347,14 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रजा᳓पतये स्वा᳓हा मू᳓लाय स्वा᳓हा । प्रजा᳓यै स्वा᳓हे᳓"ति ॥44॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,6 +365,7 @@ unicode_script: devanagari
 
 प्रजा᳓-पतये । स्वा᳓हा । मू᳓लाय । स्वा᳓हा । प्र । जा᳓यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## अषाढाः पूर्वाः - आपः
 
@@ -319,6 +373,8 @@ unicode_script: devanagari
 
 आ᳓पो वा᳓ **अकामयन्त** - "समुद्र᳓ङ् का᳓मम् **अभि᳓जयेमे᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -335,11 +391,14 @@ unicode_script: devanagari
 
 4समुद्रं कामं कामानां साधकमभिजयेमेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ एत᳓म् अद्भ्यो᳙ ऽषाढा᳓भ्यश् चरु᳓न् **नि᳓रवपन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -350,11 +409,14 @@ unicode_script: devanagari
 
 ताः᳓ । एत᳓म् । अद्भ्यः᳓ । अ-षाढा᳓भ्यः । चरु᳓म् । निः᳓ । अवपन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ता᳓स् समुद्र᳓ङ् का᳓मम् **अभ्य᳙जयन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,12 +427,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । ताः᳓ । समुद्र᳓म् । का᳓मम् । अभि᳓ । अजयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रँ᳓ ह वै᳓ का᳓मम् अभि᳓जयति  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,11 +447,14 @@ unicode_script: devanagari
 
 समुद्र᳓म् । ह । वै᳓ । का᳓मम् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -398,6 +466,7 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -405,6 +474,8 @@ unicode_script: devanagari
 समुद्रा᳓य स्वा᳓हा का᳓माय स्वा᳓हा ।  
 अभि᳓जित्यै  स्वा᳓हे᳓"ति ॥45॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -415,12 +486,15 @@ unicode_script: devanagari
 
 अद्भ्यः᳓ । स्वा᳓हा । अ-षाढा᳓भ्यः । स्वा᳓हा । समुद्रा᳓य । स्वा᳓हा । का᳓माय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## अषाढाः उत्तराः - विश्वे देवाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे वै᳓ देवा᳓ **अकामयन्त** -अनपजय्य᳓ञ् **जयेमे᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -432,11 +506,14 @@ unicode_script: devanagari
 
 वि᳓श्वे । वै᳓ । देवाः᳓ । अकामयन्त । अनप-जय्य᳓म् । जयेम । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एतव्ँ᳓ वि᳓श्वेभ्यो देवे᳓भ्यो ऽषाढा᳓भ्यश् चरु᳓न् **नि᳓रवपन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -447,11 +524,14 @@ unicode_script: devanagari
 
 ते᳓ । एत᳓म् । वि᳓श्वेभ्यः । देवे᳓भ्यः । अ-षाढा᳓भ्यः । चरु᳓म् । निः᳓ । अवपन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ते ऽनपजय्य᳓म् **अजयन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -462,12 +542,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । ते । अनप-जय्य᳓म् । अजयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनपजय्यँ᳓ ह वै᳓ **जयति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,6 +562,7 @@ unicode_script: devanagari
 
 अनप-जय्य᳓म् । ह । वै᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -486,6 +570,8 @@ unicode_script: devanagari
 "वि᳓श्वेभ्यो देवे᳓भ्यस् स्वा᳓हा ऽषाढा᳓भ्यस् स्वा᳓हा ।  
 अनपजय्या᳓य स्वा᳓हा जि᳓त्यै स्वा᳓हे᳓"ति ॥46॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -499,12 +585,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । वि᳓श्वेभ्यः । देवे᳓भ्यः । स्वा᳓हा । अ-षाढा᳓भ्यस् । स्वा᳓हा । अनप । जय्या᳓य । स्वा᳓हा । जि᳓त्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## अभिजित्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म वा᳓  **अकामयत** - "ब्रह्म-लोक᳓म् **अभि᳓जयेयम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -524,11 +613,14 @@ unicode_script: devanagari
 "ययतोः " इत्युत्तरपदान्तोदात्तत्वम् ।  
 क्रियाविशेषण चेदम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् एत᳓म् ब्र᳓ह्मणे ऽभिजि᳓ते चरु᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,11 +631,14 @@ unicode_script: devanagari
 
 त᳓त् । एत᳓म् । ब्र᳓ह्मणे । अभि-जि᳓ते । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ त᳓द् ब्रह्मलोक᳓म् **अभ्य᳙जयत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -554,12 +649,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । त᳓त् । ब्रह्म-लोक᳓म् । अभि᳓ । अजयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मलोकँ᳓ ह वा᳓ **अभि᳓जयति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -571,11 +669,14 @@ unicode_script: devanagari
 
 ब्रह्म-लोक᳓म् । ह । वै᳓ । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -587,11 +688,14 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ब्र᳓ह्मणे स्वा᳓हा ऽभिजि᳓ते स्वा᳓हा । ब्रह्मलोका᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हे᳓"ति ॥47॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -602,6 +706,7 @@ unicode_script: devanagari
 
 ब्र᳓ह्मणे । स्वा᳓हा । अभि-जि᳓ते । स्वा᳓हा । ब्रह्म-लोका᳓य । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## श्रोणा / श्रवणम् - विष्णुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -610,6 +715,8 @@ unicode_script: devanagari
 "पु᳓ण्यँ श्लो᳓कँ **शृण्वीय**,  
 न᳓ मा पापी᳓ कीर्ति᳓र् **आ᳓गच्छेद्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -627,11 +734,14 @@ unicode_script: devanagari
 
 7पुण्यश्लोकः पावनशब्दः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एतव्ँ᳓ वि᳓ष्णवे श्रोणा᳓यै पुरोडा᳓शन् त्रि-कपाल᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -642,11 +752,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । वि᳓ष्णवे । श्रोणा᳓यै । पुरोडा᳓शम् । त्रि-कपाल᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ पु᳓ण्यँ श्लो᳓कम् **अशृणुत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,11 +770,14 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । पु᳓ण्यम् । श्लो᳓कम् । अशृणुत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नै᳓नम् पापी᳓ कीर्ति᳓र् **आ᳓गच्छत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -672,6 +788,7 @@ unicode_script: devanagari
 
 न᳓ । एनम् । पापी᳓ । कीर्तिः᳓ । आ᳓ । अगच्छत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -679,6 +796,8 @@ unicode_script: devanagari
 नै᳓नम् पापी᳓ कीर्ति᳓र् **आ᳓गच्छति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,11 +809,14 @@ unicode_script: devanagari
 
 पु᳓ण्यम् । ह । वै᳓ । श्लो᳓कम् । शृणुते । न᳓ । एनम् । पापी᳓ । कीर्तिः᳓ । आ᳓ । गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -707,12 +829,15 @@ unicode_script: devanagari
 
 यः᳓ । एते᳓न । हवि᳓षा । य᳓जते । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वि᳓ष्णवे स्वा᳓हा श्रोणा᳓यै स्वा᳓हा ।  
 श्लो᳓काय स्वा᳓हा श्रुता᳓य स्वा᳓हे᳓"ति ॥48॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -723,6 +848,7 @@ unicode_script: devanagari
 
 वि᳓ष्णवे । स्वा᳓हा । श्रोणा᳓यै । स्वा᳓हा । श्लो᳓काय । स्वा᳓हा । श्रुता᳓य । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## धनिष्ठाः/ श्रविष्ठाः - वसवः
 
@@ -731,6 +857,8 @@ unicode_script: devanagari
 व᳓सवो वा᳓ **अकामयन्त** -  
 "अ᳓ग्रन् देव᳓तानाम् **प᳓रीयामे᳓"ति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,11 +875,14 @@ unicode_script: devanagari
 
 8अग्रं प्राधान्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एतव्ँ᳓ व᳓सुभ्यश् श्र᳓विष्ठाभ्यᳶ पुरोडा᳓शम् अष्टा᳓कपालन् **नि᳓रवपन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,11 +893,14 @@ unicode_script: devanagari
 
 ते᳓ । एत᳓म् । व᳓सुभ्यः । श्र᳓विष्ठाभ्यः । पुरोडा᳓शम् । अष्टा᳓-कपालम् । निः᳓ । अवपन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ते᳓ ऽग्रन् देव᳓तानाम् **प᳓र्यायन्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,6 +911,7 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । ते । अ᳓ग्रम् । देव᳓तानाम् । प᳓रि । आयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -784,6 +919,8 @@ unicode_script: devanagari
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।  
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -799,12 +936,15 @@ unicode_script: devanagari
 
 अ᳓ग्रम् । ह । वै᳓ । समाना᳓नाम् । प᳓रि । एति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । व᳓सुभ्यः । स्वा᳓हा । श्र᳓विष्ठाभ्यः । स्वा᳓हा । अ᳓ग्राय । स्वा᳓हा । प᳓रीत्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "व᳓सुभ्यस् स्वा᳓हा श्र᳓विष्ठाभ्यस् स्वा᳓हा ।  
 अ᳓ग्राय स्वा᳓हा प᳓रीत्यै स्वा᳓हे᳓"ति ॥49॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -815,6 +955,7 @@ unicode_script: devanagari
 
 व᳓सुभ्यः । स्वा᳓हा । श्र᳓विष्ठाभ्यस् । स्वा᳓हा । अ᳓ग्राय । स्वा᳓हा । प᳓रीत्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## शतभिषग् - वरुणः
 
@@ -823,6 +964,8 @@ unicode_script: devanagari
 इ᳓न्द्रो वा᳓  **अकामयत** -  
 "दृढो᳓ ऽशिथिलस् स्याम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -834,11 +977,14 @@ unicode_script: devanagari
 
 इ᳓न्द्रः । वै᳓ । अकामयत । दृढः᳓ । अ᳓-शिथिलस् । स्याम् । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एतव्ँ᳓ व᳓रुणाय शत᳓-भिषजे भेषजे᳓भ्यᳶ पुरोडा᳓शन् द᳓श-कपालन् **नि᳓रवपत्** कृष्णा᳓नाव्ँ व्रीहीणा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -849,11 +995,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । व᳓रुणाय । शत᳓-भिषजे । भेषजे᳓भ्यः । पुरः । डा᳓शन्द᳓शकपालन्नि᳓रवपत्कृष्णा᳓नाव्ंरीहीणा᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ दृढो᳓ ऽशिथिलो **ऽभवत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -864,12 +1013,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । दृढः᳓ । अ᳓-शिथिलः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृढो᳓ ह वा᳓ अ᳓शिथिलो **भवति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -886,11 +1038,14 @@ unicode_script: devanagari
 
 9-10दृढः चिरजीवनः अशिथिलः अशिथिलाङ्गः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -902,11 +1057,14 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "व᳓रुणाय स्वा᳓हा शत᳓भिषजे स्वा᳓हा । भेषजे᳓भ्यस् स्वा᳓हे᳓"ति ॥50॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -917,6 +1075,7 @@ unicode_script: devanagari
 
 व᳓रुणाय । स्वा᳓हा । शत᳓-भिषजे । स्वा᳓हा । भेषजे᳓भ्यः । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## प्रोष्ठपदाः/ भाद्रपदाः पूर्वाः - अज एकपात्
 
@@ -925,6 +1084,8 @@ unicode_script: devanagari
 अजो᳓ वा᳓ ए᳓कपाद् **अकामयत** -  
 "तेजस्वी᳓ ब्रह्मवर्चसी᳓ **स्याम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -936,12 +1097,15 @@ unicode_script: devanagari
 
 अजः᳓ । वै᳓ । ए᳓क-पात् । अकामयत । तेजस्-वी᳓ । ब्रह्म-वर्चसी᳓ । स्याम् । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् अजा᳓यै᳓कपदे प्रोष्ठ-पदे᳓भ्यश्  
 चरु᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -952,11 +1116,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । अजा᳓य । ए᳓क-पदे । प्रोष्ठ-पदे᳓भ्यः । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ तेजस्वी᳓ ब्रह्मवर्चस्य् **अ᳙भवत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -967,12 +1134,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । तेजस्-वी᳓ । ब्रह्म-वर्चसी᳓ । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजस्वी᳓ ह वै᳓ ब्रह्म-वर्चसी᳓ **भवति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -984,12 +1154,15 @@ unicode_script: devanagari
 
 तेजस्-वी᳓ । ह । वै᳓ । ब्रह्म-वर्चसी᳓ । भवति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**,  
 सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1001,12 +1174,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अजा᳓यै᳓कपदे स्वा᳓हा प्रोष्ठपदे᳓भ्यस् स्वा᳓हा ।  
 ते᳓जसे स्वा᳓हा ब्रह्मवर्चसा᳓य स्वा᳓हे᳓"ति ॥51॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,6 +1193,7 @@ unicode_script: devanagari
 
 अजा᳓य । ए᳓क-पदे । स्वा᳓हा । प्रोष्ठ-पदे᳓भ्यस् । स्वा᳓हा । ते᳓जसे । स्वा᳓हा । ब्रह्म-वर्चसा᳓य । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## प्रोष्ठपदाः/ भाद्रपदाः उत्तराः  - अहिर् बिध्नियः
 
@@ -1025,6 +1202,8 @@ unicode_script: devanagari
 अ᳓हिर् वै᳓ बुध्नि᳓यो  **ऽकामयत** -  
 "इमा᳓म् प्रतिष्ठाव्ँ᳓ विन्देये᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1036,11 +1215,14 @@ unicode_script: devanagari
 
 अ᳓हिः । वै᳓ । बुध्नि᳓यः । अकामयत । इमा᳓म् । प्रति-स्था᳓म् । विन्देय । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् अ᳓हये बुध्नि᳓याय प्रोष्ठपदे᳓भ्यᳶ पुरोडा᳓शम् भू᳓मि-कपालन् **नि᳓रवत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,11 +1233,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । अ᳓हये । बुध्नि᳓याय । प्रोष्ठ-पदे᳓भ्यः । पुरोडा᳓शम् । भू᳓मि-कपालम् । नि᳓रवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ इमा᳓म् प्रतिष्ठा᳓म् **अविन्दत** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,12 +1251,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । इमा᳓म् । प्रति-स्था᳓म् । अविन्दत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमाँ᳓ ह वै᳓ प्रतिष्ठाव्ँ᳓ **विन्दते**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,11 +1277,14 @@ unicode_script: devanagari
 11-12इमां पृथिवीमेव प्रतिष्ठां लभेथेति ।  
 भूमिकपालः भूमिरेव कपालमस्येति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1105,12 +1296,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓हये बुध्नि᳓याय स्वा᳓हा  
 प्रोष्ठपदे᳓भ्यस् स्वा᳓हा । प्रतिष्ठा᳓यै स्वा᳓हे᳓"ति ॥52॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,12 +1315,15 @@ unicode_script: devanagari
 
 अ᳓हये । बुध्नि᳓याय । स्वा᳓हा । प्रोष्ठ-पदे᳓भ्यस् । स्वा᳓हा । प्रति-ष्ठा᳓यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## रेवती - पूषा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ वा᳓  **अकामयत** - "पशुमा᳓न्त् **स्याम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1138,11 +1335,14 @@ unicode_script: devanagari
 
 पूषा᳓ । वै᳓ । अकामयत । पशु-मा᳓न् । स्याम् । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म्पूष्णे᳓ रेव᳓त्यै चरु᳓न् **नि᳓रवपत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,11 +1353,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । पूष्णे᳓ । रेव᳓त्यै । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ पशुमा᳓न् अभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1168,12 +1371,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । पशु-मा᳓न् । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुमा᳓न् ह वै᳓ **भवति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1185,11 +1391,14 @@ unicode_script: devanagari
 
 पशु-मा᳓न् । ह । वै᳓ । भवति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,11 +1410,14 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णे᳓ स्वा᳓हा रेव᳓त्यै स्वा᳓हा । पशु᳓भ्यस् स्वा᳓हे᳓"ति ॥53॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1217,6 +1429,7 @@ unicode_script: devanagari
 
 पूष्णे᳓ । स्वा᳓हा । रेव᳓त्यै । स्वा᳓हा । पशु᳓भ्यः । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## अश्विनौ
 
@@ -1224,6 +1437,8 @@ unicode_script: devanagari
 
 अश्वि᳓नौ वा᳓ अकामयेताम्- "श्रोत्रस्वि᳓नाव᳓बधिरौ स्यावे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1235,11 +1450,14 @@ unicode_script: devanagari
 
 अश्वि᳓नौ । वै᳓ । अकामयेताम् । श्रोत्र-स्वि᳓नौ । अ᳓-बधिरौ । स्या । वे᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓वेत᳓मश्वि᳓भ्यामश्वयु᳓ग्भ्याम्पुरोडा᳓शन्द्विकपाल᳓न्नि᳓रवपताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1250,11 +1468,14 @@ unicode_script: devanagari
 
 तौ᳓ । एत᳓म् । अश्वि᳓भ्याम् । अश्व-यु᳓ग्भ्याम् । पुरोडा᳓शम् । द्वि-कपाल᳓म् । निः᳓ । अवपताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ तौ᳓ श्रोत्रस्वि᳓नाव᳓बधिरावभवताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1265,6 +1486,7 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । तौ᳓ । श्रोत्र-स्वि᳓नौ । अ᳓-बधिरौ । अभवताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1272,6 +1494,8 @@ unicode_script: devanagari
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।  
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1287,12 +1511,15 @@ unicode_script: devanagari
 
 श्रोत्र-स्वी᳓ । ह । वै᳓ । अ᳓-बधिरः । भवति । यः᳓ । ए᳓तेन᳙ । हवि᳓षा । य᳓जते । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । अश्वि᳓भ्याम् । स्वा᳓हा । अश्व-यु᳓ग्भ्याम् । स्वा᳓हा । श्रो᳓त्राय । स्वा᳓हा । श्रु᳓त्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्वि᳓भ्याँ स्वा᳓हा ऽश्वयु᳓ग्भ्याँ स्वा᳓हा ।   
 श्रो᳓त्राय स्वा᳓हा श्रु᳓त्यै स्वा᳓हे᳓"ति ॥54॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1303,6 +1530,7 @@ unicode_script: devanagari
 
 अश्वि᳓भ्याम् । स्वा᳓हा । अश्व-यु᳓ग्भ्याम् । स्वा᳓हा । श्रो᳓त्राय । स्वा᳓हा । श्रु᳓त्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## भरणी - यमः
 
@@ -1310,6 +1538,8 @@ unicode_script: devanagari
 
 यमो᳓ वा᳓  **अकामयत** - " पितृणाँ᳓ राज्य᳓म् **अभि᳓जयेयम्**" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1321,11 +1551,14 @@ unicode_script: devanagari
 
 यमः᳓ । वै᳓ । अकामयत । पितृणा᳓म् । राज्य᳓म् । अभि᳓ । जयेयम् । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एतय्ँ᳓ यमा᳓यापभ᳓रणीभ्यश् चरु᳓न् **नि᳓रपवत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1336,11 +1569,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । यमा᳓य । अपभ᳓रणीभ्यः । चरु᳓म् । निः᳓ । अपवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ पितृणाँ᳓ राज्य᳓म् **अभ्य᳙जयत्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1351,12 +1587,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । पितृणा᳓म् । राज्य᳓म् । अभि᳓ । अजयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाना᳓नाँ ह वै᳓ राज्य᳓म् **अभि᳓जयति**  
 य᳓ एते᳓न हवि᳓षा **य᳓जते**।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,11 +1607,14 @@ unicode_script: devanagari
 
 समाना᳓नाम् । ह । वै᳓ । राज्य᳓म् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ च+एनद् एवव्ँ᳓ **वे᳓द**, सो᳓ऽत्र **जुहोति** …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1384,12 +1626,15 @@ unicode_script: devanagari
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "यमा᳓य स्वा᳓हा ऽपभ᳓रणीभ्यस् स्वा᳓हा ।  
 राज्या᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हे᳓"ति ॥55॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1400,6 +1645,7 @@ unicode_script: devanagari
 
 यमा᳓य । स्वा᳓हा । अपभ᳓रणीभ्यस् । स्वा᳓हा । राज्या᳓य । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+</details>
 
 ## अमावास्या
 
@@ -1407,6 +1653,8 @@ unicode_script: devanagari
 
 अ᳓थैत᳓द् अमावास्या᳙या आ᳓ज्यन् **नि᳓र्वपति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1426,6 +1674,7 @@ unicode_script: devanagari
 गतमन्यत् ॥  
 इति तैत्तिरीयब्राह्मणे तृतीये प्रथमे पञ्चमोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1433,6 +1682,8 @@ unicode_script: devanagari
 काम आ᳓ज्यम् ,  
 का᳓मेनैव᳓ का᳓मँ **स᳓मर्धयति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1445,11 +1696,14 @@ unicode_script: devanagari
 
 का᳓मः । वै᳓ । अमा-वास्या᳙ । का᳓मः । आ᳓ज्यम् । का᳓मेन । एव᳓ । का᳓मम् । स᳓म् । अर्धयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्र᳓म् एनँ स᳓का᳓म **उ᳓पनमति** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1460,12 +1714,15 @@ unicode_script: devanagari
 
 क्षिप्र᳓म् । एनम् । सका᳓ । मः । उ᳓प । नमति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓न का᳓मेन **य᳓जते᳓** सो᳓ऽत्र **जुहोति**…  
 "अमावास्या᳙यै स्वा᳓हा का᳓माय स्वा᳓हा᳓ ऽऽगत्यै स्वा᳓हे᳓"ति ॥56॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1477,4 +1734,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 ये᳓न । का᳓मेन । य᳓जते । सः᳓ । अ᳓त्र । जुहोति । अमा-वास्या᳙यै । स्वा᳓हा । का᳓माय । स्वा᳓हा । अ᳓गत्यै । स्वा᳓हा । इ᳓ति ।
+</details>
 </details>

@@ -5,6 +5,8 @@ title = "०३ अग्निप्रणयनम्"
 १३ द्विपदा त्रिष्टुप् ।  
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे षष्ठप्रपाठके तृतीयोऽनुवाकः)।  
@@ -14,12 +16,15 @@ title = "०३ अग्निप्रणयनम्"
 “उदेनमुत्तरां नयेति तिसृभिरौदुम्बरीः समिधो घृतोषितास्तिस्र आधाय पशुबन्धवदग्निं प्रणयति” इति।  
 तत्र प्रथमामाह— उदेनमुत्तरामिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓देनमुत्तरा᳓न्नया᳓ग्ने घृतेनाहुत ।  
 राय᳓स्पो᳓षेण सँ᳓ सृज प्रज᳓या च ध᳓नेन च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,10 +52,14 @@ With offspring and with wealth.
 उत्कृष्टमैश्वर्यमेव प्रपञ्च्यते— रायस्पोषेण धनसमृद्ध्या संसृज संयोजय।  
 तथा प्रजया पुत्रपौत्रादिरूपया धनेन च गवाश्वादिरूपेण संसृज।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— इन्द्रेमं प्रतरामिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +67,8 @@ With offspring and with wealth.
 इ᳓न्द्रेम᳓म्प्रतरा᳓ङ्कृधि सजाता᳓नामसद्वशी᳓ ।  
 स᳓मेनव्ँव᳓र्चसा सृज देवे᳓भ्यो भागधा᳓ असत्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,10 +96,14 @@ That he may assign their shares to the gods.
 किंचैनं वर्चसा बलेन संसृज।  
 अयं यजमानो देवेभ्यो भागधा असद्यज्ञेषु भागप्रदो भवतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तुतीयामाह— यस्य कुर्मो हविरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -96,6 +111,8 @@ That he may assign their shares to the gods.
 य᳓स्य कुर्मो᳓ हवि᳓र्गृहे᳓ त᳓मग्ने वर्धया त्व᳓म् ।  
 त᳓स्मै देवा᳓ अ᳓धि ब्रवन्नय᳓ञ्च ब्र᳓ह्मणस्प᳓तिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +148,15 @@ And he the lord of holy power.
  “औदुम्बरीर्भवन्त्यू र्ग्वा उदुम्बर ऊर्जमेवास्या अपि दधाति” [सं. का. ५ प्र. ४ अ. ६] इति।  
 ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “उदु त्वा विश्वे देवा इत्यग्निमुद्यम्य” इति।  
 पाठस्तु– उदु त्वा विश्व इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -143,6 +164,8 @@ And he the lord of holy power.
 उ᳓दु त्वा वि᳓श्वे देवाः᳓ [12]  अ᳓ग्ने भ᳓रन्तु चि᳓त्तिभिः ।  
 स᳓ नो भव शिव᳓तमस्सुप्र᳓तीको विभा᳓वसुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,11 +199,15 @@ With kindly face, abounding in light.
 तथा सति यस्मै कार्यायेदमुद्यमनं तेनैव कार्येणैनमग्निं समृद्धं करोति।  
 (* ख. पुस्तकटिप्यण्यां – चितिमन्त्रगतेनेति पाठो भवितुं युक्तः’ इति वर्तते।)
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “पञ्च दिशो दैवीरिति पञ्चमिर्हरत्याग्नीध्रात्” इति।  
 तत्र प्रथमा माह— पञ्च दिशो दैवीरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +215,8 @@ With kindly face, abounding in light.
 प᳓ञ्च दि᳓शो दै᳓वीर्यज्ञ᳓मवन्तु देवी᳓र᳓पा᳓मतिन्दुर्मति᳓म्बा᳓धमानाः ।  
 राय᳓स्पो᳓षे यज्ञ᳓पतिमाभ᳓जन्तीः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -215,10 +244,14 @@ They sacrificed embracing the heated cauldron.
 
 इमाः प्राच्यादयः पञ्च दिशो दैवीरिन्द्रयमादीनां देवीनां संबन्धिन्यो दैवीः स्वयमपि देवतारूपा अमतिमस्मदीयं प्रज्ञामान्द्यं दुर्मतिं दुष्टां पापविषयां बुद्धिं चापबाधमाना विनाशयन्त्यो रायस्पोषे धनसमृद्धौ यज्ञपतिं यजमानमा समन्तात्सेवमाना इमं यज्ञमवन्तु रक्षन्तु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– रायस्पोषे अधीति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -226,6 +259,8 @@ They sacrificed embracing the heated cauldron.
 राय᳓स्पो᳓षे अ᳓धि यज्ञो᳓ अस्थात्स᳓मिद्धे अग्ना᳓व᳓धि मामहानः᳓ ।  
 उक्थ᳓पत्त्र ई᳓ड्यो गृभीत᳓स्तप्त᳓ङ्घर्म᳓म्परिगृ᳓ह्यायजन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,10 +287,14 @@ They sacrificed embracing the heated cauldron.
 कीदृशो यज्ञः, समिद्धे सभ्यक्प्रज्वलितेऽग्ना वधि मामहानोऽधिकं पुनः पुनः पूज्यमानः, उक्थपत्र उक्थानि शस्त्राणि पत्रं वाहनं यस्यासावुक्थपत्रः, ईड्यः स्तुत्यः, गृहीतः ऋत्विग्यजमानैः परिगृहीतः।  
 ते च तप्तं प्रज्वलितं धर्ममग्निं परिगृह्यायजन्त सर्वदा यजन्ति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— ऊर्जा यद्यज्ञमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +302,8 @@ They sacrificed embracing the heated cauldron.
 ऊर्जा᳓ य᳓द्यज्ञ᳓म᳓शमन्त देवा᳓ दै᳓व्याय धर्त्रे᳓ जो᳓ष्ट्रे ।  
 देवश्री᳓श्श्री᳓मणाश्शत᳓पयाः [13]  परिगृ᳓ह्य देवा᳓ यज्ञ᳓मायन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,10 +333,14 @@ The gods kept embracing the sacrifice [2].
 श्रीमणाः श्रयते सेवत इति श्रीर्यजमानस्तस्यिन्ननुग्रहरूपं मनो यस्यासौ शतपयाः।  
 तादृशमग्निं परिगृह्य देवा ऋत्विग्यजमानाय इमं यज्ञमायन्प्राप्युवन्त्यनुतिष्ठन्तीत्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– सूर्यरश्मिरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -303,6 +348,8 @@ The gods kept embracing the sacrifice [2].
 सू᳓र्यरश्मिर्ह᳓रिकेशᳶ पुर᳓स्तात्सविता᳓ ज्यो᳓तिरु᳓दयाँ अ᳓जस्रम् ।  
 त᳓स्य पूषा᳓ प्रसवय्ँ᳓याति देव᳓स्सम्प᳓श्यन्वि᳓श्वा भु᳓वनानि गोपाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,10 +378,14 @@ The guardian, gazing on all things.
 कीदृशो देवः, गोपा रक्षकः।  
 किं कुर्वन्, विश्वा भुवनानि संपश्यन्सर्वाल्ँ लोकानवलोकयन्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह–  २१७४ देवा देवेभ्य इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -342,6 +393,8 @@ The guardian, gazing on all things.
 देवा᳓ देवे᳓भ्यो अध्वर्य᳓न्तो अस्थुर्वीतँ᳓ शमित्रे᳓ शमिता᳓ यज᳓ध्यै ।  
 तुरी᳓यो यज्ञो᳓ य᳓त्र हव्य᳓मे᳓ति त᳓तᳶ पावका᳓ आशि᳓षो नो जुषन्ताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,11 +447,15 @@ Thence let our pure invocations be accepted.
  “ततः पावका आशिषो नो जुषन्तामित्याहान्नं वै पावकोऽन्नमेवाव रुन्धे” (सं. का. ५ प्र. ४ अ. ६) इति।  
 अग्निवाचकः पावकशब्दस्तेन पच्यमानमन्नमुपलक्ष्यते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः — “विमान एव दिवो मध्य आस्त इति द्वाभ्यामाग्नीघ्रेऽश्मानं निधाय” इति।  
 तत्र प्रथमामाह– विमान एष इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -406,6 +463,8 @@ Thence let our pure invocations be accepted.
 विमा᳓न एष᳓ दिवो᳓ म᳓ध्य आस्त आपप्रिवा᳓न्रो᳓दसी अन्त᳓रिक्षम् ।  
 स᳓ विश्वा᳓चीरभि᳓ [14]  चष्टे घृता᳓चीरन्तरा᳓ पू᳓र्वम᳓परञ्च केतु᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,10 +495,14 @@ Between the eastern and the western mark.
 तथा घृताचीर्घृतप्राप्तिहेतुभूता धेनूश्चाभिचष्टे।  
 तथाऽन्तरा ब्रह्माण्डस्य पूर्वमपरं च केतुमुदयास्तमयाभ्यां पूर्वापरदिशोश्चिह्नभूतं सूर्यमभिचष्टे।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह – उक्षा समुद्र इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -447,6 +510,8 @@ Between the eastern and the western mark.
 उक्षा᳓ समुद्रो᳓ अरुण᳓स्सुपर्णᳶ᳓ पू᳓र्वस्य यो᳓निम्पितु᳓रा᳓ विवेश ।  
 म᳓ध्ये दिवो᳓ नि᳓हितᳶ पृ᳓श्ञिर᳓श्मा वि᳓ चक्रमे र᳓जसᳶ पात्य᳓न्तौ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +542,15 @@ He hath stepped apart, he guardeth the two ends of space.
 ७६ प्रविष्टवान्।    येषां दीक्षितानामाहवनीय उद्वायेदाग्नीघ्रादुद्धरेत्’ इत्याहवनीययोनित्वमाग्नीघ्रस्यान्यत्राऽऽम्नातम्।  
 अयं पृश्निः श्वेतवर्णोऽश्गा दिवो मध्ये निहितः स्थापितः सन्रजसो रञ्जनीयस्य जगतोऽन्तावुत्पत्तिप्रलयरूपं कोटिद्वयं पाति परमेश्वररूपेण पालयति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “इन्द्रं विश्वा अवीवृधन्निति चतसृभिरापुच्छाद्रत्वा” इति।  
 तत्र प्रथमामाह— इन्द्रं विश्वा अवीवृधमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -489,6 +558,8 @@ He hath stepped apart, he guardeth the two ends of space.
 इ᳓न्द्रव्ँवि᳓श्वा अवीवृधन्त्समुद्र᳓व्यचसङ्गि᳓रः ।  
 रथी᳓तमँ रथीनाव्ँ᳓वा᳓जानाँ स᳓त्पतिम्प᳓तिम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,16 +589,22 @@ True lord and lord of strength.
 वाजानां पतिमन्नानां पालकम्।  
 यथासप्ततिं सन्मार्गवर्तिनां यजमानानां पालकम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– सूम्नहूर्यज्ञ इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुम्नहू᳓र्यज्ञो᳓ देवाँ᳓ आ᳓ च वक्षद्य᳓क्षदग्नि᳓र्देवो᳓ देवाँ᳓ आ᳓ च वक्षत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,16 +628,22 @@ the gods.
 सुम्नहूः सुम्नस्य प्रजापशुरूपस्य सुखस्यगऽऽह्वाता संपादयिता यज्ञश्च देवानावक्षदावहतु।  
 यक्षदग्निश्च पूर्वोक्ताग्निरपि देवानावक्षदाह्वयतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— बाजस्य मेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓जस्य मा प्रसवे᳓नोद्ग्राभे᳓णो᳓दग्रभीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,11 +665,14 @@ With elevation he hath seized me;
 
 इन्द्रः परमैश्वर्ययुक्तोऽग्निर्वाजस्यान्नस्य प्रसूतिनिमित्तेनोद्ग्रामेणोद्ग्रहणसामर्थ्येन मां यजमानमुदग्रभीदुत्कर्ष प्रापितवान्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓था सप᳓त्नाँ इ᳓न्द्रो मे निग्राभे᳓णा᳓धराँ अकः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,10 +694,14 @@ Humble by depression.
 
 अथानन्तरमिन्द्र परमैश्वर्ययुक्तोऽयमग्निर्निग्रामेण निग्रहसामर्थ्येन मे सपत्नान्मदीयान्वैरिणोऽधरान कर्निगृहतिन्करोतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— उद्ग्रामं चेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -619,6 +709,8 @@ Humble by depression.
 उद्ग्राभ᳓ञ्च निग्राभ᳓ञ्च ब्र᳓ह्म देवा᳓ अवीवृधन् ।  
 अ᳓था सप᳓त्नानिन्द्राग्नी᳓ मे विषूची᳓नान्व्य᳙स्यताम् ॥ [15]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -650,4 +742,5 @@ Scatter my foes on every side.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठकेऽ तृतीयोऽनुवाकः ॥  
 ३ ॥  
+</details>
 </details>

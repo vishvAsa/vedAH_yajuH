@@ -2,6 +2,8 @@
 title = "०४ चातुर्मास्येषु साकमेधपर्व"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 (चातुर्मास्येषु तृतीयं साकमेधपर्व) साकमेधहविषां ब्राह्मणम्, दर्विहोमयाज्यानुवाक्ये
@@ -16,6 +18,7 @@ title = "०४ चातुर्मास्येषु साकमेधप
 
 1अथ साकमेधहवींषि विधीयन्ते । तत्र प्रथमे ऽहनि यानि भवन्ति तानि विदधाति - अग्नयेनीकवत इति ॥ 'देवासुरास्संयत्ता आसन् । सोग्निरब्रवीत् । ममेयमनीकवती तनूः' इत्यादि ब्राह्मणम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -23,6 +26,8 @@ title = "०४ चातुर्मास्येषु साकमेधप
 पुरोडा᳓शम् अष्टा᳓कपालन् नि᳓र्वपति,  
 साकँ᳓ सू᳓र्येणोद्यता᳓ …  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,12 +51,15 @@ To Agni Anikavant he offers a cake on eight potsherds as the sun rises,
 
 'राजसूय' इत्यादौ सूर्यशब्दो निपातितः, 'शतुरनुमः' इत्युद्यच्छब्दात्तृतीयाया उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓द्भ्यस् सान्तपने᳓भ्यो मध्य᳓न्दिने चरु᳓म्,  
 मरु᳓द्भ्यो गृहमेधि᳓भ्यस् स᳓र्वासान् दुग्धे᳓ साय᳓ञ् चरु᳓म्  +++(निर्वपति)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,10 +85,14 @@ and to the Maruts as lords of the house he milks at evening an oblation of all (
 
 अथ सायमस्तकाले मरुद्भ्यो गृहमेधिभ्यः गृहमेधवद्भ्यः सर्वासां गवां यजमानसम्बन्धिनीनां दुग्धे चरुं निर्वपति । 'ते देवाश्श्वो विजयिनः' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अव्युष्टायां रजन्यां पूर्णदर्व्येण चरन्ति, शरनिष्कासस्य दर्वीं पूरयित्वा गार्हपत्ये जुहोति । तत्र पुरोनुवाक्या - पूर्णेत्यनुष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/02_pUrNA_darvi.md">
@@ -128,9 +140,12 @@ Let us barter food and strength.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ याज्या - देहीत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/04_chAturmAsyeShu_sAkamedhaparva/03_dehi_me.md">
@@ -176,9 +191,12 @@ I shall accept thy offering [1].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ द्वितीयेह्नि साकं सूर्येणोद्यता मरुद्भ्यः क्रीडिभ्यः पुरोडाशं सप्तकपालं निर्वपति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,6 +205,8 @@ I shall accept thy offering [1].
 पुरोडा᳓शँ सप्त᳓कपालन् नि᳓र्वपति,  
 साकँ᳓ सू᳓र्येणोद्यता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,10 +227,14 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 
 क्रीडन्तीति क्रीडिनः, ग्रह्याडित्वाण्णिनिः । 'त एनमत्यक्रीडन् । तत्क्रीडिनां क्रीडित्वम्' इति ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ महाहविस्सम्बन्धीन्यष्टौ हवींषि विदधाति - आग्नेयमष्टाकपालमित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +248,8 @@ To the Maruts, the playful, he offers a cake on seven potsherds at the rising of
 ऐन्द्र᳓ञ् चरुव्ँ᳓,  
 वैश्वकर्मण᳓म् ए᳓ककपालम्॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,4 +278,5 @@ to Viśvakarman on eleven potsherds.
 तत्र पौष्णान्तानि पञ्च सञ्चराणि प्रागेवाम्नातान्यपि पुनः पठित्वा दर्शयति । ऐन्द्राग्रमपि वरुणप्रघासेषु षष्ठतयाम्नातमेव पुनः पठति । ब्राह्मणं च भवति 'एतद्ब्राह्मान्येव पञ्च हवींषि । एतद्ब्राह्मण ऐन्द्राग्नः' इति । 'अथैष ऐन्द्रश्चरुर्भवति' । ऐन्द्रस्यापूर्वं विधानम् । 'उद्धारं वा एतम्' इत्यादि ब्राह्मणम् । वैश्वकर्मणस्यैककपालस्य चापूर्वं विधानम् ॥
 
 इत्यष्टमे चतुर्थोनुवाकः ॥
+</details>
 </details>

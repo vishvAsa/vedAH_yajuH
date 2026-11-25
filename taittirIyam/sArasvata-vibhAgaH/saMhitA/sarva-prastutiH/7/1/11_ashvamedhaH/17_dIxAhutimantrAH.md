@@ -2,15 +2,20 @@
 title = "१७ दीक्षाहुतिमन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दीक्षाहुतयः - पृथिव्यै स्वाहेत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्यै᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -26,12 +31,15 @@ To earth hail!
 
 पृ॒थि॒व्यै । स्वाहा॑ ।
 </details>
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,11 +55,14 @@ To atmosphere hail!
 
 अ॒न्तरि॑क्षाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,11 +78,14 @@ To sky hail!
 
 दि॒वे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +101,14 @@ To Agni hail!
 
 अ॒ग्नये॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓माय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,11 +124,14 @@ To Soma hail!
 
 सोमा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +147,14 @@ To the sun hail!
 
 सूर्या॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मसे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,11 +170,14 @@ To the moon hail!
 
 च॒न्द्रम॑से । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ह्ने स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +193,14 @@ To the day hail!
 
 अह्ने॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓त्रियै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,11 +216,14 @@ To the night hail!
 
 रात्रि॑यै । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋज᳓वे +++(पृथिवीलोकाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,11 +239,14 @@ To the straight hail!
 
 ऋ॒जवे॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाध᳓वे +++(अन्तरिक्षलोकाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,11 +262,14 @@ To the good hail!
 
 सा॒धवे॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुक्षित्यै᳓ +++(द्युलोकाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,11 +290,14 @@ To fair dwelling hail!
 
 एकविंशतिः । निगदव्याख्याताः । ऋज्वादयः पृथिव्यादयो लोकाः । यथोक्तं - 'इयं वा ऋजुः । अन्तरिक्षं साधु । असौ सुक्षितिः' इति । सुक्षित्यै, स एव स्वरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुधे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,11 +318,14 @@ To hunger hail!
 
 क्षुधे 'सावेकाचः' इत्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आशितिम्ने᳓+++(=आशिताय/ खादिताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +346,14 @@ To satisfaction hail!
 
 आशितिम्ने आशितमसुहितं तत्स्वभावाय । छन्दसीमनिच् । यद्वा - आशितृशब्दात् 'छन्दसि' इतीमनिच्, 'तुरिष्ठेमेयस्सु' इति एकदेशस्य ऋकारस्य लोपश्छान्दसः, उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓गाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +374,14 @@ To disease hail!
 
 रोगाय । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिमा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -347,11 +397,14 @@ To snow hail!
 
 हि॒माय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +420,14 @@ To ice hail!
 
 शी॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आतपा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -387,11 +443,14 @@ To heat hail!
 
 आ॒त॒पायेत्या॑-त॒पाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓रण्याय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -407,11 +466,14 @@ To the wild hail!
 
 अर॑ण्याय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -427,11 +489,14 @@ To heaven hail!
 
 सु॒व॒र्गायेति॑ सुवः-गाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोका᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,11 +512,14 @@ To the world hail!
 
 लो॒काय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा । (46) ॥17॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,4 +540,5 @@ To all hail!
 
 सर्वस्मै याऽनुक्ता दीक्षादेवता, यश्च उपसर्गः, यश्च फलभूतः, पुण्यलोकः? तस्मै सर्वस्मै स्वाहेति ॥ 
 सप्तमे प्रथमे सप्तदशोनुवाकः ॥
+</details>
 </details>

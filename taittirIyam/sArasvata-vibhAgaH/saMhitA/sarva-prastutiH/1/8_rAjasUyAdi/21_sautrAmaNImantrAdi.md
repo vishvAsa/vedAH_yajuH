@@ -1,6 +1,8 @@
 +++
 title = "२१ सौत्रामणीमन्त्रादि"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 वैश्वदेवं काण्डम् - सौत्रामणी
@@ -15,6 +17,7 @@ title = "२१ सौत्रामणीमन्त्रादि"
 
 1अथ राजसूयेनेष्ट्वा सौत्रामण्या यजेत, तामधिकृत्योच्यते । वैश्वदेवं काण्डम् ।  
 आसरेणावेक्षन् सोमं सम्पादयति - स्वद्वीमिति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/02_svAdvIn_tvA.md">
@@ -56,6 +59,8 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोमे॑न॒ सोमो॑ऽस्य॒श्विभ्या॑म्पच्यस्व॒ सर॑स्वत्यै पच्य॒स्वेन्द्रा॑य सु॒त्राम्णे॑ पच्यस्व
@@ -65,6 +70,7 @@ the sacrificial fee is the northern drawer of the chariot stand.
 
 2तामुपरिस्थितामभिमृशति - सोमोसीति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,6 +79,8 @@ the sacrificial fee is the northern drawer of the chariot stand.
 स᳓रस्वत्यै पच्यस्व ।  
 इ᳓न्द्राय सु-त्रा᳓म्णे पच्यस्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,10 +109,14 @@ thou art Soma; be ready for the Aśvins, be ready for Sarasvati, be ready for In
 सरस्वत्यै पच्यस्व ।
 इन्द्राय सुत्रामृणे । सुष्ठु त्रायते शत्रुभ्य इति सुत्रामा । 'आतो मनिन्' इति मनिन् । 'एताभ्यो ह्येषा देवताभ्यः पच्यते' इत्यादि ब्राह्मणम् । यद्वा - सोमोसि सोमसमो वा भव । पावनो भव । सुनोतेःक्रन् सुरा तत एव मन्प्रत्यये सोमः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3सुरां पुनाति वालेन - पुनात्विति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/03_punAtu_te.md">
@@ -162,9 +174,12 @@ With the eternal sieve.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4सोमातिपवितस्य सोम-वामिनो वा पुनाति - वायुरिति गायत्र्या च ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/04_vAyupH_pUtapH.md">
@@ -213,9 +228,12 @@ Indra's dear friend.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5सुरा-ग्रहान् गृह्णाति - कुविदङ्गेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/21_sautrAmaNImantrAdi/05_kuvid_anga.md">
@@ -270,6 +288,8 @@ Who have not gone to the reverential cutting of the straw.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ॒श्वि॒नन्धू॒म्रमा ल॑भते सारस्व॒तम्मे॒षमै॒न्द्रमृ॑ष॒भमै॒न्द्रमेका॑दशकपाल॒न्निर्व॑पति सावि॒त्रन्द्वाद॑शकपालव्ँवारु॒णन्दश॑कपालँ॒ सोम॑प्रतीकाᳶ पितरस्तृप्णुत॒ वड॑बा॒ दक्षि॑णा ॥
@@ -279,6 +299,7 @@ Who have not gone to the reverential cutting of the straw.
 
 6अथ त्रीन् पशून् विदधाति - आश्विनमिति ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -286,6 +307,8 @@ Who have not gone to the reverential cutting of the straw.
 सारस्वत᳓म् मेष᳓म्,    
 ऐ्᳓ऐन्द्र᳓म् ऋषभ᳓म्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,10 +331,14 @@ To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
 
 आश्विनं धूम्रललाममालभते । सारस्वतं सरस्वत्यै मेषम् । ऐन्द्रमृषभम् । सुराग्रहाश्च त्रयो भवन्ति आश्विनसारस्वतैन्द्राः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ त्रीन् पुरोडाशान्विदधाति - ऐन्द्रमेकादशकपालमिति ॥ ऐन्द्रसावित्रवारुणाः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +347,8 @@ To the Aśvins he sacrifices a dusky (ox), to Sarasvati a ram, to Indra a bull.
 सावित्र᳓न् द्वा᳓-दशकपालं,   
 वारुण᳓न् द᳓श-कपालम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,16 +366,22 @@ To Indra he offers on eleven potsherds, to Savitr on twelve potsherds, to Varuna
 
 ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । निरिति॑ । व॒प॒ति॒ । सा॒वि॒त्रम् । द्वाद॑शकपाल॒मिति॒ द्वाद॑श-क॒पा॒ल॒म् । वा॒रु॒णम् । दश॑कपाल॒मिति॒ दश॑-क॒पा॒ल॒म् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथ शतातृण्णायां स्थाल्यां सुराशेषम् अवनयति - सोमप्रतीका इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓म-प्रतीकाᳶ पितरस् तृप्णुत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +402,14 @@ O Pitrs, beaded by Soma, rejoice.
 
 सोमप्रतीकाः सोमः प्रतीकः उपक्रमो येषां ते । हे सोमप्रभृतयः पितरस् **तृप्णुत** अनेन सुराशेषेण तृप्यत । व्यत्ययेन श्नुः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓डबा द᳓क्षिणा  ॥[37]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,4 +431,5 @@ The sacrificial fee is a mare.
 अस्मिन् कर्मणि वडबा अश्वा दक्षिणा । 'उत वा एषाश्वं सूते' इति ब्राह्मणम् ॥ सौत्रामणी समाप्ता ॥
 
 इत्यष्टमे एकविंशोनुवाकः ॥  
+</details>
 </details>

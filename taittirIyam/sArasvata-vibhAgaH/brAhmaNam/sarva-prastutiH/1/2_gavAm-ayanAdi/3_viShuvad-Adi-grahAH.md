@@ -10,6 +10,8 @@ unicode_script: devanagari
 य᳓त् प᳓रस्-सामानः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 सन्त॑ति॒र् वा ए॒ते ग्रहा॒ यत् पर॑स्-सामानः ।
@@ -29,11 +31,14 @@ unicode_script: devanagari
 तात्स्थ्यात् ताच्छब्द्यं 'मञ्चाः क्रोशन्ति'इतिवत् ।  
 **परस्** सामदिवसेषु गृह्यमाणा अतिग्राह्याः **ग्रहाः** ते सन्तननार्थाः सन्ततरज्जुस्थानीया इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(कुत इति चेत् -)+++ विषूवा᳓न्+++(=पक्षद्वयवान्)+++ दिवा-कीर्त्य᳙म् +++(दिनम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,12 +57,15 @@ unicode_script: devanagari
 **विष्वङ्** नाना पक्ष-द्वयावलम्बिनी स्थितिर् अस्येति **विषुवान्**  
 वंश-काष्ठ-स्थानीयो दिवसो मध्यमः, एतेन सन्तत्य्-अपेक्षा दर्शिता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था शा᳓लायै प᳓क्षस्य्,  
 एवँ᳓ सव्ँवत्सर᳓स्य प᳓क्षसी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -74,12 +82,15 @@ unicode_script: devanagari
 
 इदानीं तामेव सन्ततिं दर्शयितुं सन्तन्यमानं दर्शयति - यथेति । शालायाः पक्षाविव पक्षस्थानीयौ संवत्सरस्य पक्षौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् एते᳓ न᳓ गृह्ये᳓रन्न्  
 वि᳓षूची+++(=विष्वग्-गमने)+++ सव्ँवत्सर᳓स्य प᳓क्षसी व्य्-अ᳓वस्रँसेयाताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -97,11 +108,14 @@ unicode_script: devanagari
 तत्र यद्य् अतिग्राह्याः सन्तनन-रज्जु-स्थानीया न गृह्येरन्  
 ततो **विषूची** विष्वग्गमने संवत्सरस्य पक्षसी **व्यवस्रंसेयातां** भिन्नदिक्के पतिते स्याताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓र्तिम् आ᳓र्च्छेयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +131,7 @@ unicode_script: devanagari
 
 ततश्च आर्तिं गच्छेयुः यजमानाः कर्मनाशात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +139,8 @@ unicode_script: devanagari
 य᳓था शा᳓लायै प᳙क्षसी मध्यमव्ँ᳓ वँश᳓म् अभि᳓-समाय᳓च्छत्य्  
 एवँ᳓ सव्ँवत्सर᳓स्य प᳓क्षसी दिवा-कीर्त्य᳙म् अभि᳓-स᳓न्तन्वन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,11 +158,14 @@ unicode_script: devanagari
 
 एषां तु ग्रहणे शालायाः पक्षौ मध्यमं वंशमभिसमायच्छति लौकिक इव । संवत्सरस्य पक्षसी दिवाकीर्त्यमभिसन्तन्वन्ति आभिम्रुख्येनानीय आबध्नन्ति वंश इव दिवाकीर्त्ये सत्रिणः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓र्तिम् आ᳓र्च्छन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -161,12 +181,15 @@ unicode_script: devanagari
 
 ततो नार्तिं गच्छन्ति ॥
 </details>
+</details>
 
 ## स्तोमाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्तोमसङ्ख्यया)+++ एक-विँश᳓म् अ᳓हर् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -182,12 +205,15 @@ unicode_script: devanagari
 
 2 एतच्च अहर् एकविंशं एकविंशस्तोमकं भवति ।
 </details>
+</details>
 
 ## ग्रहा ऽतिग्राह्याश् च
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्रा᳓ग्रा ग्र᳓हा गृह्यन्ते - प्र᳓त्य् उ᳓त्तब्ध्यै, सयत्वा᳓य+++(←षिङ् बन्धने)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,12 +231,15 @@ unicode_script: devanagari
 शुक्राग्रा ग्रहा गृह्यन्ते।  
 **सयत्वाय** संश्लिष्यमाणत्वाय स्थाने शुक्रप्राधान्यात् संजज्ञानेरबन्धता(??) यथा स्यादिति । उत्तानास्यः **सयः**; षिङ् बन्धने पचाद्यजन्तात् भावप्रत्ययः ।
 </details>
+</details>
 
 ### सौर्योऽतिग्राह्यः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौर्य᳙ एत᳓द्-अ᳓हᳶ पशु᳓र् आ᳓लभ्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -229,11 +258,14 @@ unicode_script: devanagari
 दिवाकीर्त्यत्वं समृद्धं भवति ।  
 उभयत्रापि छन्दसमन्तस्वरितत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौर्यो᳙ ऽति-ग्राह्यो᳙ गृह्यते +++(सप्तमः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -244,11 +276,14 @@ unicode_script: devanagari
 
 सौर्यः᳓ । अति-ग्राह्यः᳙ । गृह्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓हर् एव᳓ रूपे᳓ण स᳓मर्धयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,11 +294,14 @@ unicode_script: devanagari
 
 अ᳓हः । एव᳓ । रूपे᳓ण । स᳓म् । अर्धयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अ᳓ह्न एवै᳓ष᳓ बलि᳓र् ह्रियते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -279,12 +317,15 @@ unicode_script: devanagari
 
 अथो अपिच एषोऽह्नो बलिर्ह्रियते पूजा क्रियते, योऽयं सप्तमः सौर्योऽतिग्राह्यः ॥
 </details>
+</details>
 
 ### सप्तत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓+ ए᳓त᳓द्-अ᳓हर् अति-ग्राह्या᳙ गृह्यन्ते ॥34॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -300,11 +341,14 @@ unicode_script: devanagari
 
 3 अस्मिन् अह्नि सप्तातिग्राह्या गृह्यन्ते ये परस्सामसम्बन्धिनः त्रयः पूर्वे त्रय उत्तरे तेपां मध्ये सौर्य इति सप्तास्मिन्नह्नि गृह्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(चक्षुःश्रोत्र-नासिकास्य-सङ्ख्यया)+++ सप्त᳓ वै᳓ शीर्षण्याᳶ᳙ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -321,11 +365,14 @@ unicode_script: devanagari
 सप्त वा इत्यादि ।  
 द्वे चक्षुषी द्वे श्रोत्रे द्वे नासिके एकमास्यमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असा᳓व् आदित्य᳓श् शि᳓रᳶ प्रजा᳓नाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -343,11 +390,14 @@ unicode_script: devanagari
 आदित्यश् शिरस्-स्थानीयः प्रजानाम् उच्छ्रितत्वात्,  
 एकविंशश् च ज्योतिः तेषां स्तोमानाम् उच्छ्रितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीर्ष᳓न्न्+++(=शिरसि)+++ एव᳓ प्रजा᳓नाम् प्राणा᳓न् दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -365,11 +415,14 @@ unicode_script: devanagari
 **प्रजानां** शिरसि **सप्त प्राणान् दधाति** स्थापयति  
 अत एव शिरसि सप्त प्राणाः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माथ् +++(सप्तातिग्राह्य-ग्रहणात्)+++ सप्त᳓ शीर्ष᳓न्+++(=शिरसि)+++ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +433,7 @@ unicode_script: devanagari
 
 त᳓स्मात् । सप्त᳓ । शीर्ष᳓न् । प्राणाः᳓ ।
 </details>
+</details>
 
 ## उत्तर-पक्ष-ग्रहाः
 ### विश्वकर्मणो ग्रहः
@@ -387,6 +441,8 @@ unicode_script: devanagari
 
 इ᳓न्द्रो वृत्रँ᳓ हत्वा᳓ऽसुरान् पराभा᳓व्य स᳓ इमाल्ँ᳓  लोका᳓न् अभ्य᳙जयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,11 +460,14 @@ unicode_script: devanagari
 
 4 इन्द्रो वृत्रं हत्वेत्यादि ॥ गतम् । पराभाव्य पराभूतान् जितान् कृत्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यासौ᳓ लोको᳓ ऽनभिजित आसीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -424,11 +483,14 @@ unicode_script: devanagari
 
 असौ लोको द्युलोकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ विश्व᳓कर्मा भूत्वा᳓ ऽभ्यजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,11 +501,14 @@ unicode_script: devanagari
 
 त᳓म् । विश्व᳓-कर्मा । भूत्वा᳓ । अभि । अजयत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् वैश्वकर्मणो᳓ गृह्य᳓ते सुवर्ग᳓स्य लोक᳓स्याभि᳓जित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -460,12 +525,15 @@ unicode_script: devanagari
 
 अस्मिन्नह्नि वैश्वकर्मणस्य ग्रहणं स्वर्गस्याभिजित्यै भवति ॥
 </details>
+</details>
 
 ### आदित्य-ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ वा᳓ एते᳙ ऽस्माल् लोका᳓च् च्यवन्ते  ये᳓ वैश्वकर्मण᳓ङ् गृह्ण᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -477,11 +545,14 @@ unicode_script: devanagari
 
 प्र᳓ । वै᳓ । एते᳓ । अस्मात् । लोका᳓त् । च्यवन्ते । ये᳓ । वैश्व-कर्मण᳓म् । गृह्ण᳓ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्य᳓श् श्वो᳓ गृह्यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -492,11 +563,14 @@ unicode_script: devanagari
 
 आदित्यः᳓ । श्वः᳓ । गृह्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓ अ᳓दितिर् - अस्या᳓म् एव᳓ प्र᳓तितिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -513,12 +587,15 @@ unicode_script: devanagari
 
 5 प्रवा इत्यादि ॥ अस्माल्लोकात् भूलोकात् । उत्तरेद्युरदितिदेवत्यस्य ग्रहणात् पुनरस्यां प्रतिष्ठा भवति ।
 </details>
+</details>
 
 ### ग्रहणक्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यो᳙ऽन्यो +++(=पृथक्)+++ गृह्येते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -535,11 +612,14 @@ unicode_script: devanagari
 अन्योन्य इत्यादि ।  
 अन्यो वा कदाचिद्वैश्वकर्मणादित्यौ पृथक् गृह्येते न सह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वान्य् एवा᳓न्ये᳓न क᳓र्माणि कुर्वाणा᳓ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -555,11 +635,14 @@ unicode_script: devanagari
 
 तत्र अन्येन वैश्वकर्मणेन विश्वानि कर्माणि स्वर्गाद्यभिजयसाधनानि कुर्वाणा यन्ति कर्मसमाप्तिं गच्छन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आदित्यग्रहेण)+++ अस्या᳓म् अन्ये᳓न प्र᳓ति-तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -575,12 +658,15 @@ unicode_script: devanagari
 
 अन्येन आदित्येन अस्यां प्रतितिष्ठन्ति । 'क्रियासमभिहारे सर्वनाम्नो द्वे भवतस्समासवच्च बहुलम्'इति द्विर्वचनं समासश्च । 'अनुदत्तं च'इति द्वितीयं निहन्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् आ᳓ऽपरार्धा᳓त् सव्ँवत्सर᳓स्य᳓ +++(प्रत्यहं)+++  
 +अन्यो᳙न्यो गृह्येते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -591,11 +677,14 @@ unicode_script: devanagari
 
 तौ᳓ । आ᳓ । परार्धा᳓त् । सम्-वत्सर᳓स्य । अन्यः᳓ । अन्यः । गृह्येते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓व् उभौ᳓ सह᳓ महा-व्रते᳓ गृह्येते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -614,11 +703,14 @@ unicode_script: devanagari
 आ अपरपक्षसमाप्तेः प्रत्यहं अन्योन्यः एकैको गृह्यते ।  
 अथ महाव्रते उपांत्येऽह्नि तौ सह गृह्येते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓स्य᳓+ एवा᳓न्तङ् गत्वोभ᳓योर् लोक᳓योᳶ प्र᳓ति-तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -635,6 +727,7 @@ unicode_script: devanagari
 
 अन्तं गत्वेति । समाप्तप्रायत्वात् । उभयोरिति । उत्तरयोर्वैश्वकर्मणादित्ययोः सहग्रहणात् ।
 </details>
+</details>
 
 ## उक्थ्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,6 +735,8 @@ unicode_script: devanagari
 अर्क्य᳙म् उक्थ᳓म् भवत्य्  
 अन्ना᳓द्यस्या᳓वरुध्यै +++('अर्को वै देवानाम् अन्नम्' इति हेतुना)+++॥ 36॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -661,4 +756,5 @@ unicode_script: devanagari
 'अर्को वै देवानाम् अन्नम्' इति तद्धेतुत्वाच्च ॥
 
 इति द्वितीये तृतीयोऽनुवाकः ॥
+</details>
 </details>

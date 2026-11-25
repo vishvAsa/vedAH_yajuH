@@ -2,15 +2,20 @@
 title = "२० वनस्पतिहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वन॒स्पति॑भ्य॒स्स्वाहा॒ मूले॑भ्य॒स्स्वाहा॒ तूले॑भ्य॒स्स्वाहा॒ स्कन्धो॑भ्य॒स्स्वाहा॒ शाखा॑भ्य॒स्स्वाहा॑ प॒र्णेभ्य॒स्स्वाहा॒ पुष्पे॑भ्य॒स्स्वाहा॒ फले॑भ्य॒स्स्वाहा॑ गृही॒तेभ्य॒स्स्वाहाऽगृ॑हीतेभ्य॒स्स्वाहाऽव॑पन्नेभ्य॒स्स्वाहा॒ शया॑नेभ्य॒स्स्वाहा॑ शि॒ष्टाय॒ स्वाहाति॑शिष्टाय॒ स्वाहा॒ परि॑शिष्टाय॒ स्वाहा॒ सँशि॑ष्टाय॒ स्वाहोच्छि॑ष्टाय॒ स्वाहा॑ रि॒क्ताय॒ स्वाहाऽरि॑क्ताय॒ स्वाहा॒ प्ररि॑क्ताय॒ स्वाहा॒ सँरि॑क्ताय॒ स्वाहोद्रि॑क्ताय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [42]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नस्प᳓तिभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -26,11 +31,14 @@ To the trees hail!
 
 वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मू᳓लेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,11 +54,14 @@ To the roots hail!
 
 मूले॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तू᳓लेभ्यस्+++(=अग्रेभ्यः)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,16 +77,22 @@ To the panicles hail!
 
 तूले॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ वनस्पतिहोमाः - वनस्पतिभ्य इत्याद्याः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्क᳓न्धोभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,11 +117,14 @@ To the corona hail!
 
 स्कन्धोभ्यः । वर्णव्यत्ययः, सकारन्त एव वा ।. गृहीतादीनि व्याख्यातानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शा᳓खाभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -120,11 +140,14 @@ To the branches hail!
 
 शाखा॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्णे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,11 +163,14 @@ To the leaves hail!
 
 प॒र्णेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्पेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -160,11 +186,14 @@ To the flowers hail!
 
 पुष्पे॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फ᳓लेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -180,11 +209,14 @@ To the fruits hail!
 
 फले॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीते᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,11 +232,14 @@ To those that are used hail!
 
 गृ॒ही॒तेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓गृहीतेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,11 +255,14 @@ To those that are not used hail!
 
 अगृ॑हीतेभ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वपन्नेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,11 +278,14 @@ To those that have fallen off hail!
 
 अव॑पन्नेभ्य॒ इत्यव॑-प॒न्ने॒भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓यानेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -260,11 +301,14 @@ To those that are lying (on the ground) hail!
 
 शया॑नेभ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्टा᳓य+++(→क्रियासूपयुक्ताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +329,14 @@ To' the one that is left hail!
 
 शिष्टाय क्रियासूपयुक्ताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓तिशिष्टाय+++(→उपयुज्य स्थापितैकदेशाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,11 +357,14 @@ To the one that is left over hail!
 
 'अतिशिष्टाय उपयुज्य स्थापितैकदेशाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिशिष्टाय+++(→उपयोगातिरिक्ताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -335,11 +385,14 @@ To the one that is left around hail!
 
 'परिशिष्टाय उपयोगातिरिक्ताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँ᳓शिष्टाय+++(→संपूर्णमुपयुज्य)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -360,11 +413,14 @@ To the one that is left along hail!
 
 संशिष्टाय संपूर्णमुपयुज्य त्यक्ताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓च्छिष्टाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -380,11 +436,14 @@ To the one left out hail!
 
 उच्छि॑ष्टा॒येत्युत्-शि॒ष्टा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुष्पफलै)+++ रिक्ता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,11 +464,14 @@ To the one deprived (of leaves) hail!
 
 रिक्ताय पुष्पफलैर्वर्जिताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓रिक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,11 +492,14 @@ To the one not deprived hail!
 
 अतिरिक्ताय अन्यतर युक्ताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓रिक्ताय+++(=सर्वथा रिक्ताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -455,11 +520,14 @@ To the one deprived around hail!
 
 प्ररिक्ताय पुष्पफलैः सर्वथा वर्जिताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पर्णैर् अपि)+++ सँ᳓रिक्ताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,11 +548,14 @@ To the one deprived along hail!
 
 संरिक्ताय पर्णैश्च वर्जिताय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्रिक्ताय+++(→सर्वैस्समृद्धाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -512,11 +583,14 @@ To the one deprived altogether hail
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये सप्तमे काण्डे तृतीयप्रश्ने विंशोनुवाकः ॥
 समाप्तश्च प्रपाठकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [42]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,4 +605,5 @@ To all hail!
 <details><summary>पद-पाठः</summary>
 
 सर्व॑स्मै । स्वाहा॑ ॥
+</details>
 </details>

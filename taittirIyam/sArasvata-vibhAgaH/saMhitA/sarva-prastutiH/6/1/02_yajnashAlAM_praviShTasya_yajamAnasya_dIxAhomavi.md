@@ -4,15 +4,20 @@ title = "०२ यज्ञशालां प्रविष्टस्य �
 
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 याव॑न्तो॒ वै दे॒वा य॒ज्ञायापु॑नत॒ त ए॒वाभ॑व॒न्य ए॒वव्ँवि॒द्वान्य॒ज्ञाय॑ पुनी॒ते भव॑त्ये॒व
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वन्तो वै᳓ देवा᳓ यज्ञा᳓या᳓ ऽपुनत , त᳓ एवा᳓भवन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ All the gods who purified themselves for the sacrifice waxed great.
 
 तस्माद्य एवं .विद्वान् यज्ञार्थमनेन विधिना शुद्धिमिच्छति स भवत्येव भूतिं भजते वर्धते इत्यर्थः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् यज्ञा᳓य पुनीते᳓ भ᳓वत्येव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,16 +67,22 @@ He who knowing thus purifies himself for the sacrifice waxes great.
 
 यः । ए॒वम् । वि॒द्वान् । य॒ज्ञाय॑ । पु॒नी॒ते । भव॑ति । ए॒व ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒हिᳶ प॑वयि॒त्वान्तᳶ प्र पा॑दयति मनुष्यलो॒क ए॒वैन॑म्पवयि॒त्वा पू॒तन्दे॑वलो॒कम्प्र ण॑य॒त्य्...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहिᳶ᳓ पवयित्वा᳓न्तᳶ᳓ प्र᳓ पादयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +103,14 @@ Having purified him without he makes him go within.
 
 2बहिः पवयित्वाऽन्तः प्र पादयतीति विधिः ॥ बहिरुदकसमीपे पवयित्वा शालायामन्तः प्रवेशयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनुष्यलोक᳓ एवै᳓नम् पवयित्वा᳓ पूत᳓न् देवलोक᳓म् प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -116,16 +133,22 @@ Verily having purified him in the world of men, he leads him forward purified to
 
 प्रणयति प्रापयति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अदी॑क्षित॒ एक॒याहु॒त्येत्या॑हुस्स्रु॒वेण॒ चत॑स्रो जुहोति दीक्षित॒त्वाय॑ स्रु॒चा प॑ञ्च॒मीम्पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्ध॒...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दीक्षित ए᳓कया᳓ ऽऽहुत्या᳓ + इ᳓त्याहुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +171,14 @@ Verily having purified him in the world of men, he leads him forward purified to
 
 एकयेति चतसृणामभावो लक्ष्यते, यदि चतस्रो न जुहुयात् तदा एकया अदीक्षित एव स्यादित्याहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रुवे᳓ण च᳓तस्रो जुहोति दीक्षितत्वा᳓य , स्रुचा᳓ पञ्चमी᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,12 +221,15 @@ verily he offers four with the dipping-ladle for consecration; the fifth he offe
 
 'सावेकाचः' इति विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +251,14 @@ the Pankti has five syllables, the sacrifice is fivefold;
 
 पञ्चाक्षरेति । व्याख्यातम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓मेवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,11 +274,15 @@ verily he wins the sacrifice.
 
 य॒ज्ञम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आकू॑त्यै प्र॒युजे॒ऽग्नये॑ [10]  
 स्वाहेत्या॒हाकू॑त्या॒ हि पुरु॑षो य॒ज्ञम॒भि प्र॑यु॒ङ्क्ते यजे॒येति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +290,8 @@ verily he wins the sacrifice.
 आ᳓कूत्यै प्रयु᳓जेऽग्न᳓ये स्वा᳓हे᳓त्याह ।[10]  
 आ᳓कू᳓त्या हि᳓ पु᳓रुषो यज्ञ᳓म् अभि᳓ प्रयुङ्क्ते᳓ य᳓जेये᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,10 +315,14 @@ verily he wins the sacrifice.
 
 4मन्त्रार्थमनुसन्धत्ते - आकूत्या इत्यादि ॥ आकूत्या संकल्पेन हि पुरुषो यजेयेति यज्ञमभि प्रयुङ्क्ते आभिमुख्येन मनसा यज्ञं प्रयोजयति । यस्मादेवं तस्मात् आकूत्यै प्रयुजे अग्नये स्वाहेति मन्त्रमाह ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मे॒धायै॒ मन॑से॒ऽग्नये॒ स्वाहेत्या॑ह मे॒धया॒ हि मन॑सा॒ पुरु॑षो य॒ज्ञम॑भि॒गच्छ॑ति॒ सर॑स्वत्यै पू॒ष्णे॑ऽग्नये॒ स्वाहेत्या॑ह॒ वाग्वै सर॑स्वती
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +330,8 @@ verily he wins the sacrifice.
 मेधा᳓यै म᳓नसेऽग्न᳓ये स्वा᳓हे᳓त्याह ।  
 मेध᳓या हि᳓ म᳓नसा पु᳓रुषो यज्ञ᳓म् अभिग᳓च्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,11 +355,14 @@ verily he wins the sacrifice.
 
 सर्वत्र 'हि च' इति निघाताभावः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै पूष्णे᳙ऽग्नये स्वा᳓हे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,11 +378,14 @@ verily he wins the sacrifice.
 
 सर॑स्वत्यै । पू॒ष्णे । अ॒ग्नये॑ । स्वाहा॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग्वै᳓ स᳓रस्वती ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -351,10 +401,14 @@ Sarasvati is speech,
 
 वाक् । वै । सर॑स्वती ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पृथि॒वी पू॒षा वा॒चैव पृ॑थि॒व्या य॒ज्ञम्प्र यु॑ङ्क्त॒...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +416,8 @@ Sarasvati is speech,
 पृथिवी᳓ पूषा᳓ ।
 वाचै᳓व᳓ पृथिव्या᳓ यज्ञ᳓म्प्र᳓ युङ्क्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,17 +442,23 @@ Pusan the earth;. verily with speech and the earth he performs the sacrifice.
 
 6पृथिवी पूषा; वृष्टिहेतुत्वात् । वाचा पृथिव्या च यज्ञं प्रयुङ्क्ते प्रवर्तयति । एकत्र 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । इतरत्र 'उदात्तयणो हल्पूर्वात्' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आपो॑ देवीर्बृहतीर्विश्वशम्भुव॒ इत्या॑ह॒ या वै वर्ष्या॒स्ताः [11]  
 आपो॑ दे॒वीर्बृ॑ह॒तीर्वि॒श्वश॑म्भुवो॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो देवीर् बृहतीर् विश्वशम् भुव इ᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +479,14 @@ Pusan the earth;. verily with speech and the earth he performs the sacrifice.
 
 7आप इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ वै᳓ व᳓र्ष्यास् , ता᳓ आ᳓पो देवी᳓र् बृहती᳓र्विश्व᳓शम् भुवः [11] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,10 +522,14 @@ The waters of the rain [2] are the divine, vast, all-soothing waters;
 
 वर्णाः खल्वापः सस्यादिनिष्पत्तिद्वारेण विश्वस्य लोकस्य सुखं भावयन्तीत्येवमुच्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदे॒तद्यजु॒र्न ब्रू॒याद्दि॒व्या आपोऽशा॑न्ता इ॒मल्ँ लो॒कमा ग॑च्छेयु॒रापो॑ देवीर्बृहतीर्विश्वशम्भुव॒ इत्या॑हा॒स्मा ए॒वैना॑ लो॒काय॑ शमयति॒ तस्मा॑च्छा॒न्ता इ॒मल्ँ लो॒कमा ग॑च्छन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,6 +537,8 @@ The waters of the rain [2] are the divine, vast, all-soothing waters;
 य᳓द् एत᳓द् य᳓जुर्न᳓ ब्रूया᳓द्  
 दिव्या᳓ आ᳓पो᳓ऽशान्ता इमल्ँ᳓  लोक᳓म् आ᳓ गच्छेयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,12 +566,15 @@ if he said not that praise, the divine waters would descend in anger on this wor
 
 दिवमन्तरिक्षं अर्हन्तीति दिव्याः, दण्डादित्वाद्यः । भवार्थे वा दिगादित्वाद्यति उत्सादित्वादन्तोदात्तत्वम् । अशान्ताः असुखा रोगाद्युपद्रवहेतवः इमं मनुष्यलोकमागच्छेयुः अस्मिन् मनुष्यलोके पतेयुः । तस्मात् 'आपः' इत्युदितं यजुः यस्मादाह तस्मात् अस्मै दिव्याय लोकाय एना दिव्या आपः शमयति स्तोत्रेण प्रसाद्यास्य सुखाः करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो देवीर् बृहतीर् विश्वशम् भुव इ᳓त्याह ।
 अस्मा᳓ एवै᳓ना लोका᳓य शमयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -517,11 +591,14 @@ He says, 'O ye divine, vast, all-soothing waters.' Verily he makes them soothing
 
 आपः॑ । दे॒वीः॒ । बृ॒ह॒तीः । वि॒श्व॒श॒म्भु॒व॒ इति॑ विश्व-श॒म्भु॒वः॒ । इति॑ । आ॒ह॒ । अ॒स्मै । ए॒व । ए॒नाः॒ । लो॒काय॑ । श॒म॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छान्ता᳓ इमल्ँ᳓  लोक᳓म् आ᳓ गच्छन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -542,11 +619,15 @@ accordingly being soothed they approach this world.
 
 तस्माच्छान्ताः इदानीमिमं लोकमागच्छन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्यावा॑पृथि॒वी इत्या॑ह॒ द्यावा॑पृथि॒व्योर्हि य॒ज्ञ उ॒र्व॑न्तरि॑क्ष॒मित्या॑हा॒न्तरि॑क्षे॒ हि य॒ज्ञो बृह॒स्पति॑र्नो ह॒विषा॑ वृधातु [12]  
 इत्या॑ह॒ ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पति॒र्ब्रह्म॑णै॒वास्मै॑ य॒ज्ञमव॑ रुन्द्धे॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +635,8 @@ accordingly being soothed they approach this world.
 द्या᳓वापृथिवी᳓ इ᳓त्याह -
 द्या᳓वापृथिव्यो᳓र्हि᳓ यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -581,11 +664,14 @@ accordingly being soothed they approach this world.
 
 ततः 'उदात्तयणः' इति विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उर्व᳙न्त᳓रिक्षमि᳓त्याह - अन्त᳓रिक्षे हि᳓ यज्ञः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -606,11 +692,14 @@ accordingly being soothed they approach this world.
 
 अन्तरिक्षे हि यज्ञ इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिर् नो हवि᳓षा वृ᳓धा᳓तु᳓ + इ᳓त्याह । [12]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -626,11 +715,14 @@ accordingly being soothed they approach this world.
 
 बृह॒स्पतिः॑ । नः॒ । ह॒विषा॑ । वृ॒धा॒तु॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म वै᳓ देवा᳓नाम् बृ᳓हस्प᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -646,11 +738,14 @@ Brhaspati is the holy power (Brahman) of the gods;
 
 ब्रह्म॑ । वै । दे॒वाना॑म् । बृह॒स्पतिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणैवा᳓स्मै यज्ञ᳓म᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -673,16 +768,22 @@ verily by the holy power he wins this sacrifice for him.
 
 बृहस्पतिर्न इत्यादि । गतम् । बृहस्पतिशब्दो वनस्पत्यादिः पारस्करादिश्च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्ब्रू॒याद्वि॑धे॒रिति॑ यज्ञस्था॒णुमृ॑च्छेद्वृधा॒त्वित्या॑ह यज्ञस्था॒णुमे॒व परि॑ वृणक्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्ब्रूया᳓द्विधेरि᳓ति । यज्ञस्थाणु᳓म् ऋच्छेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -698,11 +799,14 @@ If he were to say vidheh then he would stumble on the sacrificial post;
 
 यत् । ब्रू॒यात् । वि॒धेः॒ । इति॑ । य॒ज्ञ॒स्था॒णुमिति॑ यज्ञ-स्था॒णुम् । ऋ॒च्छे॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृधात्वि᳓त्याह यज्ञस्थाणु᳓म् एव᳓ प᳓रि वृणक्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -731,16 +835,22 @@ he says vrdhatu; verily he avoids the sacrificial post.
 
 वृधातु वर्धयत्वित्यर्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑तिर्य॒ज्ञम॑सृजत॒ सो॑ऽस्मात्सृ॒ष्टᳶ परा॑ङै॒त्स प्र यजु॒रव्ली॑ना॒त्प्र साम॒ तमृगुद॑यच्छ॒द्यदृगु॒दय॑च्छ॒त्तदौ॑द्ग्रह॒णस्यौ॑द्ग्रहण॒त्वमृ॒चा [13]  जु॒हो॒ति॒ य॒ज्ञस्योद्य॑त्या अनु॒ष्टुप्छन्द॑सा॒मुद॑यच्छ॒दित्या॑हु॒स्तस्मा॑दनु॒ष्टुभा॑ जुहोति य॒ज्ञस्योद्य॑त्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् यज्ञ᳓म् असृजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -767,11 +877,14 @@ Prajapati created the sacrifice.
 
 व्ली वरणे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽस्मात् सृष्टᳶ᳓ प᳓राङैत् । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -800,11 +913,14 @@ Being created it went away.
 
 'तस्माद्यज्ञस्यानयनार्थमौद्ग्रहणं जुहुयात्' इति विधिरनुमीयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्र᳓ य᳓जुर᳓व्लीनात्प्र᳓ सा᳓म , त᳓म् ऋ᳓गु᳓दयच्छत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -820,11 +936,14 @@ It crushed the Yajus, it crushed the Saman; the Rc raised it;
 
 सः । प्रेति॑ । यजुः॑ । अव्ली॑नात् । प्रेति॑ । साम॑ । तम् । ऋक् । उदिति॑ । अ॒य॒च्छ॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् ऋ᳓गुद᳓यच्छत् , त᳓दौद्ग्रहण᳓स्यौद्ग्रहणत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -840,11 +959,14 @@ in that the Rc raised (it), hence the elevating offering has the name.
 
 यत् । ऋक् । उ॒दय॑च्छ॒दित्यु॑त्-अय॑च्छत् । तत् । औ॒द्ग्र॒ह॒णस्येत्यौ॑त्-ग्र॒ह॒णस्य॑ । औ॒द्ग्र॒ह॒ण॒त्वमित्यौ॑द्ग्रहण-त्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋचा᳓ जुहोति , यज्ञ᳓स्यो᳓द्यत्यै । [13]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -867,11 +989,14 @@ With a Rc [4] he sacrifices, to support the sacrifice.
 
 फलमाह - यज्ञस्योद्यत्यै 'तादौ च निति' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्टु᳓प् छ᳓न्दसाम् उ᳓दयच्छद् इ᳓त्याहुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -892,11 +1017,14 @@ With a Rc [4] he sacrifices, to support the sacrifice.
 
 छन्दसां मध्ये अनुष्टुबुदयच्छदित्याहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अनुष्टु᳓भा जुहोति , यज्ञ᳓स्यो᳓द्यत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -919,16 +1047,22 @@ Therefore he sacrifices with an Anustubh, to support the sacrifice.
 
 एवमस्य मन्त्रस्य ऋक्त्वमनुष्टुप्त्वं च ज्ञात्वैव होमः कर्तव्य इति भावः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्वाद॑श वात्सब॒न्धान्युद॑यच्छ॒न्नित्या॑हु॒स्तस्मा॑द्द्वाद॒शभि॑र्वात्सबन्ध॒विदो॑ दीक्षयन्ति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश वात्सबन्धा᳓न्य् उ᳓दयच्छन्न् इ᳓त्याहुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -955,11 +1089,14 @@ Therefore he sacrifices with an Anustubh, to support the sacrifice.
 
 तस्मादेभिः द्वादशिभिः पदैः ज्ञायमानैः वात्सबन्धविदस्सन्तोध्वर्यवो दीक्षयन्ति । 'झल्युपोत्तमम्' इत्युपोत्तमस्योदात्तत्वम् । एवमस्या ऋचः पदसंख्या स्तुता । केचिदाहुः - आकूत्या इत्यादीनि ध्रुवाहुतिसंबन्धीनि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् द्वादश᳓भिर् वात्सबन्धवि᳓दो दीक्षयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -984,16 +1121,22 @@ Therefore with twelve those who know the 'calf-binders', consecrate.
 
 उद्ग्रहण्यधिकारे कः प्रसंगोन्येषामिति चिन्त्यमेतत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सा वा ए॒षर्ग॑नु॒ष्टुग्वाग॑नु॒ष्टुग्यदे॒तय॒र्चा दी॒क्षय॑ति वा॒चैवैनँ॒ सर्व॑या दीक्षयति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वा᳓ एषा᳓ + ऋ᳓गनुष्टु᳓क् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1014,11 +1157,14 @@ This Rc is an Anustubh;
 
 13अथ प्रकारान्तरेणानुष्टुप्त्वं स्तूयते - सा वा एषेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ग् अनुष्टु᳓क् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1039,11 +1185,14 @@ the Anustubh is speech;
 
 ऋक्सर्वा अनुष्टुप् 'वागनुष्टुक्' इति प्रदेशान्तरे दर्शनात् सैषा वागनुष्टुक् । तस्मादेतया अनुष्टुभा ऋचा दीक्षयति सर्वया वाचा एनं दीक्षयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देत᳓या + ऋर्चा᳓ दीक्ष᳓यति , वाचै᳓वै᳓नँ स᳓र्वया दीक्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1059,17 +1208,23 @@ in that he consecrates him with this Rc, he consecrates him with the whole of sp
 
 यत् । ए॒तया॑ । ऋ॒चा । दी॒क्षय॑ति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विश्वे॑ दे॒वस्य॑ ने॒तुरित्या॑ह सावि॒त्र्ये॑तेन॒ मर्तो॑ वृणीत स॒ख्यम् [14]  
 इत्या॑ह पितृदेव॒त्यै॑तेन॒ विश्वे॑ रा॒य इ॑षुध्य॒सीत्या॑ह वैश्वदे॒व्ये॑तेन॑ द्यु॒म्नव्ँवृ॑णीत पु॒ष्यस॒ इत्या॑ह पौ॒ष्ण्ये॑तेन॒ सा वा ए॒षर्क्स॑र्वदेव॒त्या॑ यदे॒तय॒र्चा दी॒क्षय॑ति॒ सर्वा॑भिरे॒वैन॑न्दे॒वता॑भिर्दीक्षयति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देव᳓स्य नेतु᳓र् इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1085,11 +1240,14 @@ in that he consecrates him with this Rc, he consecrates him with the whole of sp
 
 विश्वे॑ । दे॒वस्य॑ । ने॒तुः । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सावित्र्ये᳙तेन म᳓र्तो वृणीत सख्य᳓म् इ᳓त्याह । [14]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1114,11 +1272,14 @@ By that (the Rc) is connected with Savitr. '(Let every) man choose the companion
 
 पितृदेवत्या, मर्त इति म्रियत्यर्थश्रुतेः । देवतान्तात्तादर्थ्ये यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृदेवत्यै᳙तेन वि᳓श्वे राय᳓ इषुध्यसी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1134,11 +1295,14 @@ By that (the Rc) has the Pitrs for its deity.' 'Every man prayeth for wealth', h
 
 पि॒तृ॒दे॒व॒त्येति॑ पितृ-दे॒व॒त्या॑ । ए॒तेन॑ । विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेव्ये᳙ते᳓न द्युम्नव्ँ᳓ वृणीत पुष्य᳓स इ᳓त्याह पौष्ण्य् ए᳙ते᳓न ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1161,11 +1325,14 @@ By that (the Rc) is connected with the All-gods. 'Let him choose glory that he m
 
 पोष्णी; पुष्यसे इति पुष्ट्यर्थश्रुतेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ वा᳓ एष᳓र्क्सर्वदेवत्या᳙ यदेत᳓यर्चा᳓ दीक्ष᳓यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1186,11 +1353,14 @@ This Rc indeed is connected with all the gods. In that he consecrates with this 
 
 सा तादृश्येषा ऋक् सर्वदेवत्या । पूर्ववद्यत् । यदेतयेत्यदि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिर् दीक्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1206,16 +1376,22 @@ he consecrates him with all the gods.
 
 सर्वा॑भिः । ए॒व । ए॒न॒म् । दे॒वता॑भिः । दी॒क्ष॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒प्ताक्ष॑रम्प्रथ॒मम्प॒दम॒ष्टाक्ष॑राणि॒ त्रीणि॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्ता᳓क्षरम् प्रथम᳓म् पद᳓म् अष्टा᳓क्षराणि त्री᳓णि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1236,17 +1412,23 @@ The first quarter verse is of seven syllables; the other three are of eight syll
 
 15अथ सर्वच्छन्दस्त्वेन स्तूयते - सप्ताक्षरं प्रथमं पदं प्रथमः पादः । अष्टाक्षराणि त्रीणि शिष्टानि पदानि द्वितीयतृतीयचतुर्थानि । ननु द्वितीयं सप्ताक्षरम्? इयादिपूरणेनाष्टाक्षरं भविष्यति । तर्ह्यनेन न्यायेन प्रथममप्यष्टाक्षरं स्यात्? प्रयोजनाभावादियादिपूरणाप्रवृतेः । द्वितीये त्वस्ति प्रयोजनम् । अष्टाक्षराणि त्रीण्येतत्संपादनार्थत्वात् । ननु समाने सप्ताक्षरत्वे किं कारणमेकं यथा समाम्नातं सप्ताक्षरमाह, इतरं त्वियादिपूरणेनाष्टाक्षरम् । उच्यते - न न्यूनाक्षरत्वमात्रेणेयादिना पूरयितव्यम्, अपि तु वृत्त्यनुरोधेन, तत्राष्टाक्षरस्य पादस्य वृत्तिलक्षणं पञ्चममक्षरं सप्तमं च लघु स्यात्, षष्ठं गुर्विति, न च प्रथमे पादे इयादिपूरिते अभीष्टवृत्तिलाभः; सत्यप्यस्मिन् सप्तमस्य गुरुत्वात् षष्ठस्य लघुत्वापत्तेः, पञ्चमस्य प्रागेव लघुत्वात् । तस्मादियादिपूरणाप्रसंगात् सप्ताक्षरं प्रथममित्याह । द्वितीये त्वियादिपूरणे सप्तमस्य लघुवृत्तित्वं क्रियते इति तस्येयादिपूरणस्य युक्तत्वात् अष्टाक्षराणि त्रीण्याहेति वेदितव्यम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यानि॒ त्रीणि॒ तान्य॒ष्टावुप॑ यन्ति॒ यानि॑ च॒त्वारि॒ तान्य॒ष्टौ यद॒ष्टाक्ष॑रा॒ तेन॑ [15]  
 गा॒य॒त्री यदेका॑दशाक्षरा॒ तेन॑ त्रि॒ष्टुग्यद्द्वाद॑शाक्षरा॒ तेन॒ जग॑ती॒ सा वा ए॒षर्क्सर्वा॑णि॒ छन्दाँ॑सि॒ यदे॒तय॒र्चा दी॒क्षय॑ति॒ सर्वे॑भिरे॒वैन॒ञ्छन्दो॑भिर्दीक्षयति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓नि त्री᳓णि ता᳓न्यष्टा᳓वु᳓प यन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1269,11 +1451,14 @@ The three approach the eight;
 
 इयमेकत्रिंशदक्षरा, अष्टौ, एकादश च, द्वादश च एकत्रिंशद्भवन्ति । तत्र प्रथमस्य सप्ताक्षरस्य यानि त्रीण्यक्षराणि तान्यष्टौ तृतीयपादात्मकान्यक्षराणि उपयन्ति उपगच्छन्ति । अथ यान्यवशिष्टानि चत्वारि, तानि चाष्टौ चतुर्थपादाक्षराण्युपयन्ति । द्वितीयः पादोष्टाक्षर एवावतिष्ठते । तथा सति यस्मादियमष्टाक्षरा द्वितीयेन पादेन, तेनेयं गायत्री । यस्मादियमेकादशाक्षरा तृतीयेन पादेन, तेनेयं त्रिष्टुक् । यस्माच्चेयं द्वादशाक्षरा चतुर्थेन पादेन, तेनेयमृग्जगती । एतान्येव प्रधानानि सवनत्रयगतानि छन्दांसि । तस्मात्तादृश्येषा ऋक् सर्वाणि छन्दांसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓नि चत्वा᳓रि ता᳓न्यष्टौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1289,11 +1474,14 @@ the four the eight.
 
 यानि॑ । च॒त्वारि॑ । तानि॑ । अ॒ष्टौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दष्टा᳓क्षरा ते᳓न गायत्री᳓ ।[15]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1309,11 +1497,14 @@ Because it has eight syllables [6] it is a Gayatri.
 
 यत् । अ॒ष्टाक्ष॒रेत्य॒ष्टा-अ॒क्ष॒रा॒ । तेन॑ । गा॒य॒त्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दे᳓कादशाक्षरा ते᳓न त्रिष्टु᳓ग् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1329,11 +1520,14 @@ Because it has eleven syllables it is a Tristubh.
 
 यत् । एका॑दशाक्ष॒रेत्येका॑दश-अ॒क्ष॒रा॒ । तेन॑ । त्रि॒ष्टुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् द्वा᳓दशाक्षरा ते᳓न ज᳓गती सा᳓ वा᳓ एष᳓र्क्स᳓र्वाणि छ᳓न्दाँसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1349,11 +1543,14 @@ Because it has twelve syllables, it is a Jagati. This Rc indeed is all the metre
 
 यत् । द्वाद॑शाक्ष॒रेति॒ द्वाद॑श-अ॒क्ष॒रा॒ । तेन॑ । जग॑ती । सा । वै । ए॒षा । ऋक् । सर्वा॑णि । छन्दाँ॑सि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देत᳓यर्चा᳓ दीक्ष᳓यति , स᳓र्वेभिर् एवै᳓नञ् छ᳓न्दोभिर् दीक्षयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1382,16 +1579,22 @@ In that he consecrates him with this Rc, he consecrates him with all the metres.
 
 गायत्र्यादयस्तु प्राधान्याद्ब्राह्मणेन दर्शिता इति वेदितव्यम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒प्ताक्ष॑रम्प्रथ॒मम्प॒दँ स॒प्तप॑दा॒ शक्व॑री प॒शव॒श्शक्व॑री प॒शूने॒वाव॑ रुन्द्ध॒ एक॑स्माद॒क्षरा॒दना॑प्तम्प्रथ॒मम्प॒दन्तस्मा॒द्यद्वा॒चोऽना॑प्त॒न्तन्म॑नु॒ष्या॑ उप॑ जीवन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्ता᳓क्षरम् प्रथम᳓म् पद᳓म्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1407,12 +1610,15 @@ The first quarter verse is of seven syllables;
 
 स॒प्ताक्ष॑र॒मिति॑ स॒प्त-अ॒क्ष॒र॒म् । प्र॒थ॒मम् । प॒दम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓पदा श᳓क्वरी ।
 पश᳓वश् श᳓क्वरी ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1434,11 +1640,14 @@ the Śakvari is of seven syllables, the Śakvari is cattle;
 
 17इदानीं प्रथमस्य सप्ताक्षरत्वमपि महते गुणायेत्याह - यस्मादियं प्रथमपादे सप्तत्वसंख्ययाऽवरुद्धा, यतश्च सप्तपदा शक्वरी सप्तभिरष्टाक्षरैश्शक्वरी षट्पञ्चाशदक्षरेति, यस्माच्च पशवः शक्वरी शाक्वराः पशव इति तस्मादेतयर्चा दीक्षितः पशूनवरुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1454,11 +1663,14 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कस्माद् अक्ष᳓राद् अ᳓नाप्तम् प्रथम᳓म् पद᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1481,11 +1693,14 @@ The first quarter-verse is defective by one syllable.
 
 'तुरीयं वाचो मनुष्या वदन्ति' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् य᳓द् वाचो᳓ऽनाप्तन् त᳓न्मनुष्या᳙ उ᳓प जीवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1501,16 +1716,22 @@ Therefore men live on what of speech is defective.
 
 तस्मा॑त् । यत् । वा॒चः । अना॑प्तम् । तत् । म॒नु॒ष्याः॑ । उपेति॑ । जी॒व॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पू॒र्णया॑ जुहोति पू॒र्ण इ॑व॒ हि प्र॒जाप॑तिᳶ प्र॒जाप॑ते॒राप्त्यै॒ न्यू॑नया जुहोति॒ न्यू॑ना॒द्धि प्र॒जाप॑तिᳶ प्र॒जा असृ॑जत प्र॒जानाँ॒ सृष्ट्यै॑ ॥ [16]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्ण᳓या जुहोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1537,11 +1758,14 @@ He offers with a full (verse) to win Prajapati;
 
 अव्ययपूर्वपदप्रकृतिस्वरत्वेन न्यनूशब्दे 'उदात्तस्वरितयोर्यणः' इति संहितायां ततः परः ऊकारस्स्वर्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्ण᳓ इव हि᳓ प्रजा᳓पतिᳶ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1557,6 +1781,7 @@ full as it were is Prajapati.
 
 पू॒र्णः । इ॒व॒ । हि । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1564,6 +1789,8 @@ full as it were is Prajapati.
 न्यू᳙नया जुहोति ।
 न्यू᳙नाद्धि᳓ प्रजा᳓पतिᳶ प्रजा᳓ अ᳓सृजत , प्रजा᳓नाँ सृ᳓ष्ट्यै ॥ [16]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1587,4 +1814,5 @@ He offers with a defective (verse), for the creation of offspring, for from what
 असृजतेति 'हि च' इति निघाताभावे अनुदात्तत्वम् ॥
 
 इति षष्ठे प्रथमे द्वितीयोनुवाकः ॥  
+</details>
 </details>

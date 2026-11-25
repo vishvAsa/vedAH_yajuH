@@ -3,9 +3,12 @@ title: २० नूयाजादीनां मैत्रावरुण�
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1एकोनविंशे वपापुरोडाशहविषां याज्यानुवाक्या उक्ताः । अथ विंशेऽनूयाजानां मैत्रावरुणप्रैषा उच्यन्ते । तत्र प्रथममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,6 +20,8 @@ unicode_script: devanagari
 ते᳓ज इ᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वेतु य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -37,10 +42,14 @@ unicode_script: devanagari
 
 बर्हिश्शब्देन प्रथमानूयाजदेवस्वरूपमुच्यते । तच्च देवं द्योतनशीलम् । योऽयमिन्द्रो वयोधा आयुष्याधारकः तं देवमिन्द्रं पूर्वोक्तदेवनशीलं बर्हिस्स्वरूपमवर्धयद्वर्धितवत् । तच्च गायत्र्याख्येन छन्दसा सहितं सत् इन्द्रियं चक्षुरादिपाटवं तेजः शरीरकान्तिः वय आयुष्यं च दधत् संपादयति । वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ द्वितीयमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,6 +60,8 @@ unicode_script: devanagari
 प्राण᳓मि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वियन्तु य᳓ज ॥90॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,10 +83,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथतृतीयमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -86,6 +101,8 @@ unicode_script: devanagari
 वा᳓चमि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वीताय्ँय᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -107,10 +124,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ चतुर्थमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +143,8 @@ unicode_script: devanagari
 श्रो᳓त्रमि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वीताय्ँय᳓ज ॥91॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -144,10 +167,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ पञ्चममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +186,8 @@ unicode_script: devanagari
 शुक्र᳓मि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वीताय्ँय᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -181,10 +210,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ षष्ठमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +229,8 @@ unicode_script: devanagari
 त्वि᳓षिमि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वीताय्ँय᳓ज ॥92॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -218,10 +253,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ सप्तममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +272,8 @@ unicode_script: devanagari
 ब᳓लमि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुवने᳙ वसुधे᳓यस्य वियन्तु य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -253,10 +294,14 @@ unicode_script: devanagari
 
 या देव्यस्तिस्रस्त्रिसंख्याका एकैकस्यास्त्रिमूर्तित्वात्पुनरपि तिस्र इत्युच्यन्ते । तास्सर्वाः वयोधसं पालकमिन्द्रं वर्धितवत्यः । ताः पुनर्जगत्या छन्दसा सह इन्द्रियं बलं वयांसीन्द्रे संपादयन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथाष्टममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -267,6 +312,8 @@ unicode_script: devanagari
 रे᳓त इ᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वेतु य᳓ज ॥93॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -288,10 +335,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ नवममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -303,6 +354,8 @@ unicode_script: devanagari
 भ᳓गमि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वेतु य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,10 +378,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ दशममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +397,8 @@ unicode_script: devanagari
 य᳓श इ᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वेतु य᳓ज ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -362,10 +421,14 @@ unicode_script: devanagari
 
 - वसुधेयस्य धनधारकस्य देवस्य वसुवने धनदाननिमित्तं अयं प्रथमानूयाजदेवो वेतु आज्यं पिबतु । तदर्थं हे होतः? यज याज्यां पठ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथैकादशमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +439,8 @@ unicode_script: devanagari
 क्षत्र᳓मि᳓न्द्रे व᳓यो द᳓धत् ।
 वसुव᳓ने वसुधे᳓यस्य वेतु य᳓ज ॥94॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,4 +474,5 @@ unicode_script: devanagari
 
 षष्ठप्रपाठकस्समाप्तः ॥
 
+</details>
 </details>

@@ -3,6 +3,8 @@ title = "०६ गवामयनिका परःसंज्ञका अ�
 +++
 
 विश्वेदेवा ऋषयः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै यद्य॒ज्ञेन॒ नावारु॑न्धत॒ तत्परै॒रवा॑रुन्धत॒ तत्परा॑णाम्पर॒त्वम्यत्परे॑ गृ॒ह्यन्ते॒ यदे॒व य॒ज्ञेन॒ नाव॑रु॒न्द्धे तस्याव॑रुद्ध्यै॒ यम्प्र॑थ॒मङ्गृ॒ह्णाती॒ममे॒व तेन॑ लो॒कम॒भि ज॑यति॒ यन्द्वि॒तीय॑म॒न्तरि॑क्ष॒न्तेन॒ यन्तृ॒तीय॑म॒मुमे॒व तेन॑ लो॒कम॒भि ज॑यति॒ यदे॒ते गृ॒ह्यन्त॑ ए॒षाल्ँ लो॒काना॑म॒भिजि॑त्यै [16]  
@@ -12,11 +14,14 @@ title = "०६ गवामयनिका परःसंज्ञका अ�
 
 1अथ परस्साम्नां ग्रहणं विधास्यन् तत्स्तुतिं तावदाह – देवा वा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ य᳓द्यज्ञे᳓न ना᳓वा᳓रुन्धत त᳓त्प᳓रैर᳓वारुन्धत त᳓त्प᳓राणाम्परत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ What the gods could not win by the sacrifice, that they won by the Para (Grahas)
 
 यज्ञेन केवलेन परस्सामरहितेन यदभिमतं तन्नावारुन्धत नालभन्त । तत्परैः परस्सामभिः अवारुन्धत । तत्पराणां परत्वम् । पारयन्ति पूरयन्त्यभीष्टमिति पराः, 'ऋदोरप्' इति अप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्प᳓रे गृह्य᳓न्ते य᳓देव᳓ यज्ञे᳓न ना᳓वरुन्द्धे᳓ त᳓स्या᳓वरुद्ध्यै ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ In that the Paras are drawn, (it serves) to win that which one does not win by t
 
 यत्परे । असर्वनामत्वाद्व्यत्ययेन शीभावः । यदेव तेन यज्ञेन नावारुन्धत तस्यावरुद्ध्यै भवति एतेषां ग्रहणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓म्प्रथम᳓ङ्गृह्णा᳓तीम᳓मेव᳓ ते᳓न लोक᳓मभि᳓ जयति ।     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ The first he draws, by this he conquers the world;
 
 यं प्रथममित्यादि । इमं मबुष्यलोकमभिजयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्द्विती᳓यम् +++(गृण्हाति)+++अन्त᳓रिक्षन्ते᳓न +++(लोक᳓मभि᳓ जयति )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +126,14 @@ the second (he draws), by this he conquers the atmosphere;
 
 यं द्वितीयमिति । गृह्णातीत्येव । अन्तरिक्षं तेनाभिजयतीत्येव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्तृती᳓यम् +++(गृण्हाति)+++अमुमेव᳓ ते᳓न लोक᳓मभि᳓ जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +154,14 @@ the third (he draws), by this he conquers yonder world.
 
 यं तृतीयमिति । गृह्णातीत्येव ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देते᳓ गृह्य᳓न्त एषाल्ँ᳓ लोका᳓नामभि᳓जित्यै [16] ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,10 +182,14 @@ In that they are drawn, (they serve) to conquer these worlds [1].
 
 यदेते इति । एते सर्वेऽपि यद्गृह्यन्ते एतेषां सर्वेषां लोकानामभिजयाय भवति । 'तादौ च' इति गतेः प्रकृतिस्वरत्वम्, 'ऊडिदम्' इति षष्ठ्या उदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उत्त॑रे॒ष्वह॑स्स्व॒मुतो॒ऽर्वाञ्चो॑ गृह्यन्तेऽभि॒जित्यै॒वेमाल्ँ लो॒कान्पुन॑रि॒मल्ँ लो॒कम्प्र॒त्यव॑रोहन्ति॒ यत्पूर्वे॒ष्वह॑स्स्वि॒तᳶ परा॑ञ्चो गृ॒ह्यन्ते॒ तस्मा॑दि॒तᳶ परा॑ञ्च इ॒मे लो॒का यदुत्त॑रे॒ष्वह॑स्स्व॒मुतो॒ऽर्वाञ्चो॑ गृ॒ह्यन्ते॒ तस्मा॑द॒मुतो॒ऽर्वाञ्च॑ इ॒मे लो॒कास्तस्मा॒दया॑तयाम्नो लो॒कान्म॑नु॒ष्या॑ उप॑ जीवन्ति  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +197,8 @@ In that they are drawn, (they serve) to conquer these worlds [1].
 उ᳓त्तरेष्व᳓हस्स्वमु᳓तोऽर्वा᳓ञ्चो गृह्यन्ते ।  
 अभिजि᳓त्यैवे᳓माल्ँ᳓ लोका᳓न्पु᳓नरिमल्ँ᳓ लोक᳓म्प्रत्य᳓वरोहन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,12 +220,15 @@ In the latter days they are drawn hitherward from yonder, verily having conquere
 
 2उत्तरेष्वित्यादि ॥ वैषुवतादह्न उत्तरेषु त्रिष्वहस्सु अन्वहं अमुतः तृतीयदिनप्रभृति अर्वाञ्चः आवृत्ताः प्रतिलोमगतयो गृह्यन्ते । यथा - प्रथमेऽह्नि तृतीयः द्वितीये द्वितीयः तृतीये प्रथम इति । एवमिति । इमान् लोकान् अभिजित्य, इममेव लोकं पुनः प्र्यवरोहन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पू᳓र्वेष्व᳓हस्स्वितᳶ᳓ प᳓राञ्चो गृह्य᳓न्ते᳓ ।  
 त᳓स्मादितᳶ᳓ प᳓राञ्च इमे᳓ लोकाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,12 +250,15 @@ In that in the former days they are drawn thitherward from hence, therefore thes
 
 यत्पूर्वेष्विति । वैषुवतात्पूर्वेषु त्रिष्वहस्सु इतः प्रथमदिनप्रभृति पराञ्चः अनुलोभगतयः प्रथमादितृतीयान्ता गृह्यन्ते । तस्मादितो मनुष्यलोकादारभ्य पराञ्च इमे लोकाः, भूरिति प्रथमलोकः, अन्तरिक्षं द्वितीयलोकः, द्यौस्तृतीय इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दु᳓त्तरेष्व᳓हस्स्वमु᳓तोऽर्वा᳓ञ्चो गृह्य᳓न्ते ।  
 त᳓स्मादमु᳓तोऽर्वा᳓ञ्च इमे᳓ लोकाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -248,11 +280,14 @@ in that in the latter days they are drawn hitherward from thence, therefore thes
 
 यदुत्तरेष्वित्यादि । ततो द्युलोकादर्वाञ्चो लोका भवन्ति तत्रस्थानां हि द्यौः प्रथमो लोकः अन्तरिक्षं द्वितीयः, भूस्तृतीय इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद᳓यातयाम्नो लोका᳓न्मनुष्या᳙ उ᳓प जीवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -273,10 +308,14 @@ therefore men depend on the worlds in variation.
 
 तस्मादिति । अयातयाम्नोऽगतरसान् अपुनर्मुक्तसारान् लोकान् मनुष्यादय उपजीवन्ति । 'वैषुवतेषु हि पराञ्चश्च अर्वाञ्चश्च गृह्यन्ते' इत्याचार्योक्तम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति॒ कस्मा॑त्स॒त्याद॒द्भ्य ओष॑धय॒स्सम्भ॑व॒न्त्योष॑धयः [17]  म॒नु॒ष्या॑णा॒मन्न॑म्प्र॒जाप॑तिम्प्र॒जा अनु॒ प्र जा॑यन्त॒ इति॒ परा॒नन्विति॑ ब्रूयाद्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -286,6 +325,8 @@ therefore men depend on the worlds in variation.
 ओ᳓षधयो [17] मनुष्या᳙णाम᳓न्नम्+++(भवति)+++ ।  
 प्रजा᳓पतिम्प्रजा᳓ अ᳓नु प्र᳓ जायन्त इ᳓ति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,11 +350,14 @@ The theologians say, 'For what reason do plants spring from the waters, the food
 
 3ब्रह्मवादिन इत्यादि ॥ कस्मात्सत्यात् कारणात् अद्भ्य ओषधयस्सम्भवन्ति उत्पद्यन्ते? कस्माच्च कारणात्ता ओषधयः मनुष्याणामन्नं भवति? कस्माच्च पुनः कारणात् अन्नस्य दात्र्यः प्रजाः प्रजापतिमनुप्रजायन्ते । लक्षणेऽनोः कर्मप्रवचनीयत्वम् । प्रजापतिहेतुका उत्पद्यन्ते । इति ब्रह्मवादिनः प्रश्नं वदन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रान᳓न्वि᳓ति ब्रूयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,6 +378,9 @@ The theologians say, 'For what reason do plants spring from the waters, the food
 
 परानिति । परान् परस्साम्नो ग्रहान् अनु एतत्त्रितयं ब्रूयात् उत्तरम् । पूर्ववत्कर्मप्रवचनीयत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -344,11 +391,14 @@ The theologians say, 'For what reason do plants spring from the waters, the food
 
 4एवं सामान्येनोक्त्वा एकैकत्वेनाचष्टे - यदित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्गृह्णा᳓त्यद्भ्य᳓स्त्वौ᳓षधीभ्यो गृह्णामी᳓ति त᳓स्मादद्भ्य᳓ ओ᳓षधयस्स᳓म्भवन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -369,16 +419,22 @@ In that he draws (saying),'For the waters thee, for the plants I take', therefor
 
 अद्भ्यस्त्वौषधीभ्यो गृह्णामीति प्रथमो गृह्यते । अद्भ्यस्त्वा गृह्णामीति किमर्थम्? (प्रजाभ्यः प्रजार्थं) ओषधीभ्यः ओषध्यर्थम् । अद्भ्य ओषधयस्संभवन्तीति । यद्वा - अद्भ्यस्तवौषधीभ्यश्च त्वामिति किमर्थम्? उत्पाद्योत्पादकभावोस्त्वासामिति । तस्मादिति । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्गृ॒ह्णात्योष॑धीभ्यस्त्वा प्र॒जाभ्यो॑ गृह्णा॒मीति॒ तस्मा॒दोष॑धयो मनु॒ष्या॑णा॒मन्नय्ँ॒यद्गृ॒ह्णाति॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्गृह्णा᳓त्यो᳓षधीभ्यस्त्वा प्रजा᳓भ्यो गृह्णामी᳓ति त᳓स्मादो᳓षधयो मनुष्या᳙णाम᳓न्नम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -399,16 +455,22 @@ in that he draws (saying), 'For the plants thee, for offspring I take', therefor
 
 5ओषधीभ्यस्त्वा प्रजाभ्यो गृह्णामीति द्वितीयो गृह्यते । ओषधीभ्यस्त्वा गृह्णामीति किमर्थम्? प्रजाभ्यः प्रजार्थं प्रजानामन्नं ओषधयो भवन्त्विति । तस्मादिति । गतम् । उभयीभ्यो वा ग्रहणं, पूर्ववदुत्पाद्योत्पादकभावो भवत्वासामिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाभ्य॑स्त्वा प्र॒जाप॑तये गृह्णा॒मीति॒ तस्मा॑त्प्र॒जाप॑तिम्प्र॒जा अनु॒ प्र जा॑यन्ते ॥ [18]   
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्गृह्णा᳓ति प्रजा᳓भ्यस्त्वा प्रजा᳓पतये गृह्णामी᳓ति त᳓स्मात्प्रजा᳓पतिम्प्रजा᳓ अ᳓नु प्र᳓ जायन्ते ॥ [18]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,4 +492,5 @@ in that he draws (saying), 'For offspring thee, for Prajapati I take', therefore
 6प्रजाभ्यस्त्वा प्रजापतये गृह्णामीति तृतीयो गृह्यते । प्रजाभ्यस्त्वा गृह्णामीति किमर्थम्? प्रजापतये प्रजापत्यर्थं प्रजानां हेतुभावमापद्यतामिति, प्रजापतिमनुप्रजायन्तामित्यर्थः । तस्मादिति । गतम् । सहग्रहणं वा वाच्यं उभयोर्हेतुहेतुमद्भावो भवत्विति ॥
 
 इति तृतीये तृतीये षष्ठोनुवाकः ॥  
+</details>
 </details>

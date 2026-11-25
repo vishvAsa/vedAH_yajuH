@@ -5,9 +5,12 @@ title = "०२ वशालम्भनमन्त्राः"
 १, ७,९-१० त्रिष्टुप्, ८ तनुशिरा   
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अजावशाया उपाकरणेऽनुवर्तयति - आ वायो इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -15,6 +18,8 @@ title = "०२ वशालम्भनमन्त्राः"
 आ᳓ वायो भूष शुचिपा उ᳓प नस्सह᳓स्रन्ते नियु᳓तो विश्ववार ।   
 उ᳓पो ते अ᳓न्धो म᳓द्यमयामि य᳓स्य देव दधिषे᳓ पूर्वपे᳓यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,10 +48,14 @@ Whereof, O God, thou hast the first drink.
 हे वायो नियुतमश्वा अस्मानुपयान्तु । यद्वा - वायो आभूषय यज्ञं । तदर्थं किं क्रियतामित्याह – तव सहस्रं नियुतः अस्मानुपागच्छन्तु । यद्वा - भूषेत्यामन्त्रितमेव, भूषयतीति भूषः अलङ्कर्ता कस्य ? तस्य यत्र यत्र गच्छतीति । हे एवंगुणक वायो, तव सहस्रं नियुतोस्मानुपयन्तु तैस्सहितस्सन्नस्मत्सकाशमागच्छेत्यर्थः । उपसर्गद्वयेन क्रियापदमध्याह्रियते । उपो इत्युपशब्दस्यार्थे वर्तते । उपो अयामि समीपं प्रापयामि । किं सोमम् । अहं तुभ्यमागताय सोममुपहरामि । इ गतौ भौवादिकः अन्तर्भावितण्यर्थः णिलुग्वा । कीदृशमित्याह – अन्धः अदनीयम् । 'अदेर्नुम्धश्च' इत्यसुन् । मद्यं मदकरम् । 'गदमदचर' इत्यादिना यत्, 'यतो  नावः' इत्याद्युदात्तत्वम् ।   
 पुनश्च सोमो विशेष्यते - हे देव वायो यस्य पूर्वपेयं प्रथमपानं त्वं दधिषे दधासि आचरसि, यं लब्ध्वा प्रथमं पिबसि, अन्यमग्रेपिबन्तं न क्षमसे यागेषु । 'छन्दसि लुङ्लङ्लिटः' इति दधातेर्लिट् । पिबतेर्भावे 'अचो यत्', कृदुत्तरपदप्रकृतिस्वरत्वम्, 'यतो नावः' ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आकू॑त्यै त्वा॒ कामा॑य त्वा स॒मृधे॑ त्वा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -55,6 +64,8 @@ Whereof, O God, thou hast the first drink.
 का᳓माय त्वा  +++(नियुनज्मि)+++,  
 समृ᳓धे त्वा  +++(नियुनज्मि)+++   ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,6 +90,9 @@ For intent thee, for desire thee, for prosperity thee
 कामाय इच्छायै ।
 समृधे समृद्ध्यै । संपदादिलक्षणः क्विप् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -89,11 +103,14 @@ For intent thee, for desire thee, for prosperity thee
 
 3पर्यग्नौ क्रियमाणे किक्किटाकारं जुहोति - किक्किटा ते इत्यादिभिर्यजुर्भिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓क्किटा᳓ ते म᳓नᳶ प्रजा᳓पतये स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -116,11 +133,14 @@ Kikkita thy mind! to Prajapati hail!
 
 पशूनां किक्किटाकाररतित्वात् तत्प्रीणनार्थं किक्किटाकृत्य ददामि न पुनः प्रतिकूलं तवाचरामीत्येवमर्थमिदमुच्यते । ब्राह्मणं च भवति - 'किक्किटाकारेण वै ग्राम्याः पशवो रमन्ते' इत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓क्किटा᳓ ते प्राणव्ँ᳓वाय᳓वे स्वा᳓हा  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -141,11 +161,14 @@ Kikkita thy breath, to Vayu hail!
 
 एवं किक्किटाकृत्य तव प्राणं वायवे ददामि
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓क्किटा᳓ ते च᳓क्षुस्सू᳓र्याय स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -166,11 +189,14 @@ Kikkita thy eye, to Surya hail!
 
 चक्षुस्सूर्याय ददामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓क्किटा᳓ ते श्रो᳓त्रन्द्या᳓वापृथिवी᳓भ्याँ स्वा᳓हा  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,11 +217,14 @@ Kikkita thy ear, to sky and earth hail!
 
 श्रोत्रे द्यावापृथिवीभ्यां ददामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓क्किटा᳓ ते वा᳓चँ स᳓रस्वत्यै स्वा᳓हा    ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,10 +245,14 @@ Kikkita, thy speech, to Sarasvati hail! [1]
 
 वाचं सरस्वत्यै ददामि । एवं यदुदानानि [नादीनि] मनआदीनि तत्रैव हूयन्ते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथैनामन्तरेण चात्वालोत्करौ उदीचीं नीयमानामनुमन्त्रयते - त्वं तुरीयेति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -227,6 +260,8 @@ Kikkita, thy speech, to Sarasvati hail! [1]
 त्व᳓न्तुरी᳓या वशि᳓नी वशा᳓सि सकृ᳓द्य᳓त्त्वा म᳓नसा ग᳓र्भ आ᳓ऽशयत् ।   
 वशा᳓ त्वव्ँ᳓वशि᳓नी गच्छ देवा᳓न्त्सत्या᳓स्सन्तु य᳓जमानस्य का᳓माः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,6 +286,9 @@ Be the desires of the sacrificer fulfilled.
 
 वशे त्वं तुरीया चतुर्थी लोकत्रये; उत्तरस्मिन् मन्त्रे लोकत्रयस्य वक्ष्यमाणत्वात् तैर्लोकैस्समत्वमापाद्येयं स्तूयते । 'चतुरश्छयतावाद्यक्षरलोपश्च' इति छयतौ । वशिनी वशवती वश इन्द्रियसंयमः, तद्वती; यस्माच्चिरं वृषस्यन्ती न भवति । वशा क मनीया सकृत्प्रसूता वन्ध्या वशा दैवा [द] भवत् यस्मात्त्वां मनसा संकल्पेन सकृदेकवारं गर्भ आशयत् आगत्य त्वां त्वदुदरे शयितवान्, तस्माद्वशाऽसि, यस्मात्सकृदेव तस्माद्वशिनी चासि । द्वितीयादिप्रवृत्तौ मनःप्रवृत्तिरेव नास्तीति सा त्वं वशा च वशीनी च सती पुनःप्रसवरहिता देवान् गच्छ स्वर्गं गच्छ सत्यास्सन्तु यजमानस्य कामाः । 'एष वै कामो यजमानस्य यदनार्तउदृचं गच्छति' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -261,6 +299,7 @@ Be the desires of the sacrificer fulfilled.
 
 5उपासने वर्तयति - अजाऽसीति यजुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,6 +308,8 @@ Be the desires of the sacrificer fulfilled.
 ऊर्ध्वा᳓न्त᳓रिक्षमु᳓प तिष्ठस्व ।  
 दिवि᳓ ते बृह᳓द्भाः᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -294,10 +335,14 @@ Thou art the goat, resting on wealth, sit on the earth, mount aloft on the atmos
 ततः ऊर्ध्वा उन्नीता अन्तरिक्षमुपतिष्ठस्व
 दिवि ते तव बृहद्भाः महती दीप्तिः । भासेरसुनि भाः । यद्वा - 'भ्राजभास' इति भासतेः क्विप् । बृहदिति लिङ्गव्यत्ययः । एवं त्रिष्वपि लोकेषु तिष्ठेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथास्यै वपां जुहोति - तन्तुं तन्वन्निति जगत्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
@@ -315,12 +360,15 @@ Thou art the goat, resting on wealth, sit on the earth, mount aloft on the atmos
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Stretching the thread of the atmosphere do thou pursue the light;  
 Guard the paths of light made by prayer.
 Weave ye without a flaw the work of the singers;  
 Become Manu; produce thou. the host divine.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/053/06_tantuM_tanvanrajaso.md">
@@ -671,6 +719,8 @@ Die Fäden spannend geh dem Glanz der Lüfte nach, beschirm die lichten Pfade, d
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 मन॑सो ह॒विर॑सि प्र॒जाप॑ते॒र्वर्णो॒ गात्रा॑णान्ते गात्र॒भाजो॑ भूयास्म ॥ [6]  
@@ -680,12 +730,15 @@ Die Fäden spannend geh dem Glanz der Lüfte nach, beschirm die lichten Pfade, d
 
 7हविर्जुहोति - मनस इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसो हवि᳓रसि प्रजा᳓पतेर्व᳓र्णः ।
 गा᳓त्राणान्ते गात्रभा᳓जो भूयास्म ॥ [6]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -710,4 +763,5 @@ Thou art the offering of mind, the colour of Prajapati, may we share thy limbs.
 8अथास्या अवदानानि प्राश्नाति - गात्राणामिति ॥ त्वदीयानां गात्राणां संबन्धिनो वयं गात्रभाजो भूयास्म त्वत्संबन्धात् पुनरपि कर्मकृतो भूयास्म । यद्वा - अविकलाङ्गा भूयास्मेत्याशास्ते ॥
 
 इति तृतीये चतुर्थे द्वितीयोनुवाकः ॥  
+</details>
 </details>

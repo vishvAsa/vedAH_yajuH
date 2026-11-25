@@ -3,6 +3,8 @@ title: ०७ सन्तत्याख्येष्टकामन्त्
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अग्निचयनशेषा इष्टकोपधानमन्त्राः, तत्र सन्तत्याख्येष्टकामन्त्राः
@@ -12,11 +14,14 @@ unicode_script: devanagari
 
 1-12 अतः परं द्वावनुवाकाव् अग्निकाण्डम् अग्न्यार्षेयम् । तत्र प्रथमायां चितौ द्वादश-संततीर् उपदधाति आयुषः प्राणं इत्याद्याः ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युषᳶ प्राणँ᳓ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -32,11 +37,14 @@ unicode_script: devanagari
 
 **आयुषो** वयसो ऽवस्थितत्वाद्धेतोः **प्राणं संतनु**, संततमविच्छिन्नं कुरु । सति ह्यायुषि प्राणास्सन्तन्यन्ते तस्मादायुरेव तावत्संतनु ततः प्राणादिकमिति गम्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓द् अपानँ᳓ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -52,11 +60,14 @@ unicode_script: devanagari
 
 सत्यपि प्राणे निश्शेषनिष्क्रमणभयादपानाविच्छेदः प्रार्थ्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाना᳓द् व्यानँ᳓ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -72,11 +83,14 @@ unicode_script: devanagari
 
 तदुभयसद्भावे रसव्यापनाय व्यानप्रार्थना, अन्यथा शरीरधारणासिद्धेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓च् च᳓क्षुस् स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -92,11 +106,14 @@ unicode_script: devanagari
 
 ध्रियमाणेऽपि शरीरे चक्षुः प्रधानं करणमिति प्रार्थ्यते रूपग्रहणार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुषश् श्रो᳓त्रँ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +129,7 @@ unicode_script: devanagari
 
 नामग्रहणार्थं श्रोत्रप्रार्थना ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -119,6 +137,8 @@ unicode_script: devanagari
 
 म᳓नसो वा᳓चँ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -136,11 +156,14 @@ unicode_script: devanagari
 
 एतेष्ववस्थितेष्वपि वाङ्मनसाधीना व्यवहारस्थिति रिति प्रार्थ्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाच᳓ आत्मा᳓नँ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,12 +179,15 @@ unicode_script: devanagari
 
 सर्वेषामेषामवस्थितौ आत्मा तन्त्रं इत्यत्र तस्य सन्तानप्रार्थना ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓नᳶ पृथिवीँ᳓ स᳓न्तनु ।
 पृथिव्या᳓ अन्त᳓रिक्षँ स᳓न्तनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -178,12 +204,15 @@ unicode_script: devanagari
 
 तस्य सन्ततस्य उपकारकत्वात् पृथिव्यादिसन्तानं प्रार्थयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाद् दि᳓व ँस᳓न्तनु ।
 दि᳓वस् सु᳓वस् स᳓न्तनु ॥ 32 ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,4 +232,5 @@ unicode_script: devanagari
 
 इति पञ्चमे सप्तमोऽनुवाकः ॥  
 
+</details>
 </details>

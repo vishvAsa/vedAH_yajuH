@@ -2,6 +2,8 @@
 title = "१७ अश्वावयवरूपहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ञ्ज्ये॒ताय॒ स्वाहा॑ञ्जिस॒क्थाय॒ स्वाहा॑ शिति॒पदे॒ स्वाहा॒ शिति॑ककुदे॒ स्वाहा॑ शिति॒रन्ध्रा॑य॒ स्वाहा॑ शितिपृ॒ष्ठाय॒ स्वाहा॑ शि॒त्यँसा॑य॒ स्वाहा॑ पुष्प॒कर्णा॑य॒ स्वाहा॑ शि॒त्योष्ठा॑य॒ स्वाहा॑ शिति॒भ्रवे॒ स्वाहा॒ शिति॑भसदे॒ स्वाहा॑ श्वे॒तानू॑काशाय॒ स्वाहा॒ञ्जये॒ स्वाहा॑ ल॒लामा॑य॒ स्वाहाऽसि॑तज्ञवे॒ स्वाहा॑ कृष्णै॒ताय॒ स्वाहा॑ रोहितै॒ताय॒ स्वाहा॑रुणै॒ताय॒ स्वाहे॒दृशा॑य॒ स्वाहा॑ की॒दृशा॑य॒ स्वाहा॑ ता॒दृशा॑य॒ स्वाहा॑ स॒दृशा॑य॒ स्वाहा॒ विस॑दृशाय॒ स्वाहा॒ सुस॑दृ॒शाय॒ स्वाहा॑ रू॒पाय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [39]  
@@ -11,11 +13,14 @@ title = "१७ अश्वावयवरूपहोममन्त्रा�
 
 1अथाश्वरूपाणि जुहोति - अञ्ज्येतायेत्यादि ॥ अञ्ज्येताय केचिदाहुः - अञ्जिः शुक्लः एतः सन्ध्यावर्णं इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अञ्ज्य्-एता᳓य+++(=शुक्ल-चित्रवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,11 +43,14 @@ To the glossy and variegated one hail!
 
 'वर्णो वर्णेन' इति समासः, 'वर्णो वर्णेषु' इति पूर्वपदप्रकृतिस्वरत्वस्य 'अनेतः' इति पर्युदासात् । समासान्तोदात्तत्वमेव भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अञ्जि+++(=शुक्ल)+++-सक्था᳓य+++(=ऊरुमूलस्थास्थिने)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,11 +73,14 @@ To the glossy-thighed one hail!
 
 'बहुव्रीहौ सक्थ्यक्ष्णोः' इति षच्, 'सक्थं चाक्रान्तात्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिति+++(=शुक्ल)+++प᳓दे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +101,14 @@ To the white-footed hail!
 
 शितिपदे शुक्लपादाय 'पादस्य लोपः' इति लोपः समासान्त, 'पादः पत्' इति पद्भावः, 'शितेर्नित्या बह्वच्' इत्युतरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓ति-+++(भुज)+++ककुदे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,11 +129,14 @@ To the white-humped one hail!
 
 शितिककुदि शुक्लककुदाय । ककुदस्यावस्थायां लोपः । कदाचिच् बह्वच्त्वात् शितिस्वराभावात् । शितिरन्ध्रादिषु स एव च स्वरः प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिति-र᳓न्ध्राय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,11 +152,14 @@ To the one with white openings hail!
 
 शि॒ति॒रन्ध्रा॒येति॑ शिति-रन्ध्रा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिति-पृष्ठा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,11 +175,14 @@ To the white-backed one hail!
 
 शि॒ति॒पृ॒ष्ठायेति॑ शिति-पृ॒ष्ठाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शित्य्-अँ᳓साय+++(=भुजाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,11 +198,14 @@ To the white-shouldered one hail!
 
 शि॒त्यँसा॒येति॑ शिति-अँसा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्प-क᳓र्णाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,11 +226,14 @@ To the flower-cared one hail!
 
 पुष्पकर्णाय पुष्पाकारलक्षणं कर्णयोर्यस्य । 'कर्णो वर्णलक्षणात्' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शित्य्-ओ᳓ष्ठाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -220,11 +249,14 @@ To the white-lipped one hail!
 
 शि॒त्योष्ठा॒येति॑ शिति-ओष्ठा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शितिभ्र᳓वे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,11 +272,14 @@ To the white-browed one hail!
 
 शि॒ति॒भ्रव॒ इति॑ शिति-भ्रवे॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓ति-भसदे+++(=गुदाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -267,11 +302,14 @@ To the one with white buttocks hail!
 
 भसत् अपानप्रदेशः, 'अभसत्' इति पर्युदासात् शितिस्वराभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेता᳓नूकाशाय+++(=श्वेताक्षायेति केचित्, श्वेतशरीरप्रकाशायेत्यन्ये)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,11 +330,14 @@ To the white shining one hail!
 
 श्वेतानूकाय श्वेताक्षायेति केचित् । श्वेतशरीरप्रकाशायेत्यन्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अञ्ज᳓ये+++(=श्वेताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,11 +358,14 @@ To the glossy hail!
 
 अञ्जये सर्वशुक्लाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लला᳓माय+++(=ललाटाङ्काय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +386,14 @@ To the marked one hail!
 
 ललामाय ललामवते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सित-ज्ञवे+++(=जानवे)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +414,14 @@ To the black-kneed hail!
 
 असितज्ञवे, छान्दसो ज्ञुभावो जानुनः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णैता᳓य+++(=कृष्ण-चित्रवर्णाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +442,14 @@ To the black-speckled hail!
 
 कृष्णैताय कृष्णश्चासावेतश्च, स्वरसमासौ पूर्वावेव । एवमुत्तरयोरपि लोहितः शुक्लाधिको रक्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोहितैता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,11 +465,14 @@ To the red-speckled hail!
 
 रो॒हि॒तै॒तायेति॑ रोहित-ए॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरुणैता᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,11 +488,14 @@ To the ruddy-speckled hail!
 
 अ॒रु॒णै॒तायेत्य॑रुण-ए॒ताय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृ᳓शाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -457,11 +516,14 @@ To such hail!
 
 ईदृशाय इदमिव पश्यत्यात्मानमिति 'त्यदादिषु दृशः' इति कन्प्रत्ययः, 'इदंकिमोरीश्की' । एवं कीदृशाय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीदृ᳓शाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -477,11 +539,14 @@ To what sort hail!
 
 की॒दृशा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादृ᳓शाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -497,11 +562,14 @@ To one like this hail!
 
 ता॒दृशा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृ᳓शाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,11 +592,14 @@ To a like one hail!
 
 योगविभागात् अन्यत्रापीष्यते इति समानस्य सभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓सदृशाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,11 +615,14 @@ To a different one hail!
 
 विस॑दृशा॒येति॒ वि-स॒दृ॒शा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓सदृशा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -564,11 +638,14 @@ To a fair-like one hail!
 
 सुस॑दृशा॒येति॒ सु-स॒दृ॒शा॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -589,11 +666,14 @@ To form hail!
 
 रूपाय रूपमात्राय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [39]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,4 +695,5 @@ To all hail!
 सर्वस्मै अनुक्तायापि ॥
 
 इति सप्तमे तृतीये सप्तदशोनुवाकः ॥
+</details>
 </details>

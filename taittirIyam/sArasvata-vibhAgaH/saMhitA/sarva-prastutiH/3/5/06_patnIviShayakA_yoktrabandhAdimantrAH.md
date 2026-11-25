@@ -12,6 +12,8 @@ title = "०६ पत्नीविषयका योक्त्रबन्
 स᳓न्त्वा नह्यामि प्रज᳓याह᳓मद्य᳓ सा᳓ दीक्षिता᳓ सनवो वा᳓जमस्मे᳓  ।   
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 I yoke thee with milk, with ghee;  
@@ -35,10 +37,14 @@ To-day being consecrated do thou win strength for us.
 
 1पत्नीं संनह्यति - हे पत्नि त्वां संनह्यामि पयसा घृतेन च सह बध्नामि अनेन योक्त्रसंनहनेन हेतुना । किं च - अद्भिरोषधीभिश्च त्वां संनह्यामि । अप इति व्यत्ययेन तृतीयार्थे द्वितीया । यद्वा - त्वत्सन्नहनेन हेतुना अप ओषधीभिस्सह सन्नह्यामि । किं च - त्वां प्रजया पुत्रादिकयाऽहमद्य इदानीं सन्नह्यामि । सा त्वमनेन दीक्षिता अस्मे अस्मभ्यं वाजमन्नं सनवः संविभज देहि वा । यद्वा - अस्मदर्थं हविर्लक्षणमन्नं साधय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2दीक्षणीयायां पत्नीं प्राचीमुदानयन् वाचयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +52,8 @@ To-day being consecrated do thou win strength for us.
 प्रै᳓तु ब्र᳓ह्मणस्प᳓त्नी वे᳓दिव्ँव᳓र्णेन सीदतु  ।   
 अ᳓थाह᳓मनुकामि᳓नी स्वे᳓ लोके᳓ विशा᳓ इह᳓  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,10 +78,14 @@ Enter my own place, here.
 
 प्रैत्वित्यनुष्टुभा ॥ प्रैतु गच्छतु । ब्रह्मणः परिबृढस्यास्य यज्ञस्य पत्नी पालयित्री वेदिं प्राप्नोतु । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । प्राप्य च वर्णेन रूपेण सीदतु उपविशतु आत्मानमेवाह, पुरुषव्यत्ययो वा । अथानन्तरमहं अनुकामिनी अनुक्रमेण यज्ञफलं यज्ञस्यापि धनसंपादनद्वारेण कामयमाना स्वे लोके बर्हिस्थाने जघनेन गार्हपत्यं विशै उपविशानि । कारकस्य सर्वानन्यत्वात् लोपे सति निघाताभावः । इहास्मिन् कर्मणि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तत्रोपसीदति - सुप्रजस इत्यनुष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -81,6 +93,8 @@ Enter my own place, here.
 सुप्रज᳓सस्त्वा वयँ᳓ सुप᳓त्नीरु᳓प सेदिम  ।   
 अ᳓ग्ने सपत्नद᳓म्भनम᳓दब्धासो अ᳓दाभ्यम्  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,12 +119,15 @@ The undeceivable, we that are not deceived.
 
 व्याख्यातेयं 'प्रत्युष्टम्' इत्यत्र । सुप्रजसः शोभनपुत्रादिकाः सुपत्नीः शोभनभर्तृकाश्च वयं त्वामुपसेदिम उपसीदामहे । अग्ने सपत्नानां शत्रूणां दम्भनं हिंसितारं अदाभ्यं केन चिदप्यनुपहिंसितव्यम् । अदब्धासः त्वत्प्रसादेन कैनचिदप्यनुपहिंस्या वयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इमव्ँ᳓वि᳓ ष्यामि व᳓रुणस्य पा᳓शम् [19]  य᳓म᳓बध्नीत सविता᳓ सुके᳓तः  ।   
 धातु᳓श्च यो᳓नौ सुकृत᳓स्य लोके᳓ स्योन᳓म्मे सह᳓ प᳓त्या करोमि  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,6 +152,9 @@ I make it pleasant for me with my husband.
 
 4इमं विष्यामीति योक्त्रविमोचनमन्त्रोपि तत्रैव व्याख्यातः त्रिष्टुप् ॥ इमं विष्यामि वरुणस्य वारकस्य पाशं विष्यामि विश्लथयामि, यमबध्नीत सविता सुकेतः सुज्ञानः । धातुरपि कारणभूते सुकृतस्य फलस्थाने स्योनं सुखं मम पत्या सह करोमीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -145,12 +165,15 @@ I make it pleasant for me with my husband.
 
 5पन्नेजनीहस्तां पत्नीमुदानयन् वाचयति - प्रेहीति यजुरन्तमानुष्टुभम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रे᳓हि ।  
 उदे᳓हि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,11 +195,14 @@ Go forth, go up, to the lovers of holy order;
 
 हे पत्नि प्रेहि प्रथमं गच्छ, उदेह्युदयं भज यद्वा - उत्कृष्टं गच्छ, प्रथमगामित्वात् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य वामी᳓र᳓न्वग्नि᳓स्ते᳓ऽग्रन्नयतु᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,11 +223,14 @@ may Agni lead thy head,
 
 ऋतस्य यज्ञस्य वामीः वननीयेन तद्वती । 'छन्दसीवनिपौ' अग्निस्ते अग्रं अग्र्यं मार्गं अनुपश्चान्नयतु सेवताम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिर्म᳓ध्यन्ददताम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -222,11 +251,14 @@ Aditi give (thee) a middle,
 
 अदितिस्तु मध्यं मार्गस्य मध्यदेशं ददतां धारयतु । व्यत्ययेन द्विवचनम् । धात्वाकारस्य वा छान्दसं ह्रस्वत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓वसृष्टासि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,11 +279,14 @@ thou art that let loose by Rudra,
 
 रुद्रैरवसृष्टाऽसि अनुज्ञाताऽसि त्वम् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युवा᳓ ना᳓म +++(असि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -273,11 +308,14 @@ Yuva by name;
 अनुज्ञाकरणमाह - युवा युवतिर्नाम त्वमसि तस्मादहिंस्याऽसि ।
 युवशब्दात् 'यूनः' इति तिप्रत्ययापवादोसौ प्रत्ययः छान्दसः, अत एवान्तोदात्तत्वम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ मा हिँसीः  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -298,16 +336,22 @@ harm me not.
 
 मां मा हिंसीः यज्ञस्यानिवृत्तौ अहं हिंसितस्स्याम् । अत एनामादाय प्रेहीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वसु॑भ्यो रु॒द्रेभ्य॑ आदि॒त्येभ्यो॒ विश्वे॑भ्यो वो दे॒वेभ्यᳶ॑ प॒न्नेज॑नीर्गृह्णामि य॒ज्ञाय॑ वᳶ *सादयामि॒*
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यो वि᳓श्वेभ्यो वो देवे᳓भ्यो  यज्ञा᳓य वᳶ पन्ने᳓जनीर्गृह्णामि  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,11 +372,14 @@ For the Vasus, the Rudras, the Adityas, for the All-gods, I take you, foot-washi
 
 6-7पन्नेजनीनां ग्रहणसादन मन्त्रौ वसुभ्य इत्यादिका उष्णिहौ, मध्ये अष्टाक्षरः पादः, अभित एकादशाक्षरौ । 'यज्ञाय वः' इति मन्त्रयोरन्तः । गृह्णामीति सादयामीति चेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(व᳓सुभ्यो रुद्रे᳓भ्य आदित्ये᳓भ्यो वि᳓श्वेभ्यो वो देवे᳓भ्यो )+++ यज्ञा᳓य वᳶ पन्ने᳓जनीस्सादयामि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,6 +400,9 @@ For the sacrifice I place you, foot-washing (waters).
 
 सादने वसुभ्य इत्याद्यनुषज्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -363,6 +413,7 @@ For the sacrifice I place you, foot-washing (waters).
 
 8पत्न्यास्सदसि सादनमुद्गात्रा संख्याप्य वाचयति - विश्वस्य त इति द्वाभ्याम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -371,6 +422,8 @@ For the sacrifice I place you, foot-washing (waters).
 अग्ने वामी᳓र᳓नु सन्दृ᳓शि ..   
 वि᳓श्वा रे᳓ताँसि धिषीय᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,6 +447,9 @@ In the sight of thee that art all, that hast all, that hast manly power [2], O A
 
 तत्र प्रथमाऽनुष्टुप्, तवान्तो द्वितीयः पादः सन्दृश्यन्तः तृतीयः, धिषीयान्तश्चतुर्थः । द्वितीया शक्वरी षट्पदा । हे अग्ने । पादादावपि व्यत्ययेन निघातः । तत् विश्वस्य विश्वात्मनो विश्वावतः विश्वस्वामित्वात्तद्वतः । छान्दसं संहितायां दीर्घत्वम् । वृष्णियावतः वृष्णियं वीर्यं मर्माणि तद्वतः । पूर्ववद्दीर्घत्वम् । ईदृशस्य तव सन्दृशि सन्दर्शने उद्गातुरभेदोपचारः । वामीः वननीयाः पन्नेजनीरिमा आपः । गौरादीत्वान्ङीष् । विश्वा विश्वानि रेतांसि विकारजातानि । तद्धेतुत्वात्ताच्छब्द्यम् । इदृशीरिमा अनुधिषीय तव सन्दर्शनलाभानन्तरं त्वां धारयामि तेनैव हेतुना । धि धारणे, आशिषि लिङ्, 'सुधितवसुधित' इति निपात्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -408,6 +464,7 @@ In the sight of thee that art all, that hast all, that hast manly power [2], O A
 
 9अथ द्वितीया - अगन्देवानिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -415,6 +472,8 @@ In the sight of thee that art all, that hast all, that hast manly power [2], O A
 य᳓जमान आशि᳓षस्स्वा᳓हाकृतास्समुद्रेष्ठा᳓ गन्धर्व᳓मा᳓ तिष्ठता᳓ऽनु  ।   
 वा᳓तस्य प᳓त्मन्निड᳓ ईडिताः᳓ ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -439,4 +498,5 @@ The sacrifice hath come to the gods, the goddesses have left the sacrifice for t
 किं च - अस्मिन् सुन्वति सोमेन यष्टरि यजमाने या आशिषः प्रार्थनीया अर्थाः, ता अप्यशिषन्नित्येव । यथाऽस्मिन् साकल्येन संपद्यन्ते तथा कृतवत्यः । तस्माद्यूयमपि स्वाहाकृताः यागोपयुक्ताः । ऊर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । समुद्रेष्ठाः समुद्रवन्ति अस्मादाप इति समुद्र आदित्यः तत्र तिष्ठन्तीति 'सुपि स्थः' इति कः, 'तत्पुरुषे कृति बहुलम्' इति सप्तम्या अलुक् । अनु अनन्तरं च गन्धर्वं गवामुदकानां धारकं आतिष्ठत वर्तध्वम् । ततो वातस्य पत्मन् पतनस्थाने आकाशे । पतेरौणादिको मानिन् । तत्र वृष्टिद्वारेणागत्येत्यर्थः । इडः अन्नान्योषधीरातिष्ठत । व्यत्ययेन शस उदात्तत्वम्, व्यञ्जनविकारश्च । ईडितः स्तुतः सर्वैः प्रशंसनीयः ॥
 
 इति तृतीये पञ्चमे षष्ठोनुवाकः ॥  
+</details>
 </details>

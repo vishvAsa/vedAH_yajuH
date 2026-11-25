@@ -6,6 +6,8 @@ title = "१४ विहव्याख्येष्टकोपधानम�
 
 चतुर्थकाण्डे सप्तमप्रपाठके चतुर्दशोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे सप्तमप्रपाठके चतुर्दशोऽनुवाकः)।  
@@ -15,6 +17,7 @@ title = "१४ विहव्याख्येष्टकोपधानम�
  कल्पः— “ममाग्ने वर्चो विहवेष्वित्यनुवाकेन प्रतिमन्त्रमिष्टकामिर्धिष्णियाँश्चिनोत्यश्मनवमा आग्नीध्रीय उपदधाति द्वादश षोडशैकवि॑शाप्तिं चतुर्विंशतिं वा होत्रीय एकादश ब्राह्मणाच्छंसीये षण्मार्जालीयेऽष्टावष्टाद्गन्येषु धिष्णियेषूपदधातीति विज्ञायेत” इति।  
 तत्र प्रथमामाह – ममाग्ने वर्च इति।  
 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/01_mamAgne_varcho.md">
@@ -29,10 +32,13 @@ title = "१४ विहव्याख्येष्टकोपधानम�
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make ourselves to prosper; To me let the four quarters bow;  
 With thee as overseer may we conquer the fighters.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/01_mamAgne_varcho.md">
@@ -369,9 +375,12 @@ Glück werde mir, wenn ich dich, Agni, rufe, Heil sei den Leibern, wenn wir dich
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– मम देबा इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/23_mama_devA.md">
@@ -421,9 +430,12 @@ May the wind blow for me unto this desire.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह– मयि देवा इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/26_mayi_devA.md">
@@ -458,9 +470,12 @@ Unharmed may we be in ourselves, rich in heroes.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह– मह्यं यजन्त्विति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -470,6 +485,8 @@ Unharmed may we be in ourselves, rich in heroes.
 ए᳓नो **मा᳓ नि᳓ गाङ्** कतम᳓च्चन᳓+अहव्ँ᳓  
 वि᳓श्वे देवासो अ᳓धि **वोचता** मे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -494,10 +511,14 @@ May the All-gods befriend me.
 यानि मम हव्या मदीयानि हवींपि सन्ति तानि सर्वाणि मह्यं मदर्थं दैव्या ऋत्विजो यजन्तु।  
 मे मम मनस आकूतिर्मदीयस्य मनसः संबंधी योऽयं संकल्पः—  साऽऽकूतिः सत्याऽस्तु।   संकल्पितार्थः सिध्यत्वित्यर्थः।   अहं कतमच्चनैनः किमपि पापं मा **निगां** नितरां मा प्राप्नवानि।   विश्वे देवासो हे विश्वे देवा मे मदर्थमघिवोचताऽऽधिक्यं ब्रूत यजमानानां मध्येऽयमधिक इति देवानामग्रे कथयत।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह – देवीः षडुर्वीरिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/05_devIH_ShaLurvIruru.md">
@@ -512,11 +533,14 @@ May the All-gods befriend me.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O ye six spaces divine, for us make broad room; O ye All-gods, here show your prowess;  
 May we not lose offspring nor ourselves;  
 May we not fall victims to our foe, O king Soma.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/05_devIH_ShaLurvIruru.md">
@@ -871,9 +895,12 @@ Ihr weiten sechs Göttinnen schaffet Raum uns, ihr Götter alle, zeigt euch hier
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह– अग्निर्मन्युमिति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/51_agnir_manyum.md">
@@ -918,9 +945,12 @@ And be their plotting at home ruined through thy foresight.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह– धाता धातृणामिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/54_dhAtA_dhAtRNAm.md">
@@ -952,9 +982,12 @@ This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect t
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह – उरुव्यचा इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/08_uruvyachA_no.md">
@@ -970,10 +1003,13 @@ This sacrifice may the two Aśvins and Brhaspati, The gods (guard) and protect t
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May the bull, wide extending, afford us protection rich in food, He much invoked in this invocation;  
 O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon not us.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/08_uruvyachA_no.md">
@@ -1332,9 +1368,12 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह–  २२६५ ये न सपत्ना इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/128/09_ye_naH.md">
@@ -1350,11 +1389,14 @@ Der umfangsreiche Stier verleihe Schutz uns, bei diesem Ruf der vielgerufne Näh
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May our rivals depart;  
 With Indra and Agni we overthrow them;  
 The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/128/09_ye_naH.md">
@@ -1705,9 +1747,12 @@ Es mögen fern von uns die Feinde bleiben, durch Indra, Agni stossen wir zurück
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह– अर्वाञ्चमिन्द्रमिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/7/14_vihavyAkhyeShTakopadhAnam/95_arvAncham_indram.md">
@@ -1738,6 +1783,8 @@ Ally of it we make thee, O lord of the bays.
 </details>
 
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1779,4 +1826,5 @@ Ally of it we make thee, O lord of the bays.
  * न्यायमालयां ‘त्ययमाहवनीयस्यान्वाधाने करणभूतो मन्त्रोऽध्व’ इति पाठः।  
 ()‘दर्शपूर्णमासाभ्यां स्वर्गकामो यजेत’ इति न्यायामालापाठः।  
 
+</details>
 </details>

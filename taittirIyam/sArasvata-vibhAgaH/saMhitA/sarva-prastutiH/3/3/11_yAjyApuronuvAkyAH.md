@@ -7,6 +7,8 @@ title = "११ याज्यापुरोनुवाक्याः"
 
 ## इन्द्रा-बृहस्पती
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ याज्याकाण्डं वैश्वदेवं
@@ -21,6 +23,7 @@ title = "११ याज्यापुरोनुवाक्याः"
 
 इत्यस्य पुरोनुवाक्या - इदं वामिति गायत्री ॥
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/01_idaM_vAmAsye.md">
 
@@ -34,11 +37,14 @@ title = "११ याज्यापुरोनुवाक्याः"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 This oblation is dear in your mouth,  
 O Indra and Brhaspati,  
 The hymn and acclamation is recited.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/01_idaM_vAmAsye.md">
@@ -295,9 +301,12 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ तत्रैव पुरोनुवाक्या विकल्प्यते - अयं वामिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/02_ayaM_vAM.md">
@@ -312,11 +321,14 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 This Soma is poured for you,  
 O Indra and Brhaspati,  
 Dear for delight, for drinking.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/02_ayaM_vAM.md">
@@ -556,9 +568,12 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पुनश्च विकल्पः - अस्मे इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/049/04_asme_indrAbRhaspatI.md">
@@ -573,11 +588,14 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To us, O Indra and Brhaspati,  
 Grant wealth of a hundred kine,  
 Of horses a thousandfold.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/04/049/04_asme_indrAbRhaspatI.md">
@@ -798,9 +816,12 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ याज्या - बृहस्पतिर्न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/042/11_bRhaspatirnaH_pari.md">
@@ -815,12 +836,15 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 From behind may Brhaspati guard us,  
 From above, from below, from the plotter of evil;  
 May Indra from the front, from the middle,  
 Friend to friend, grant us wide room.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/042/11_bRhaspatirnaH_pari.md">
@@ -1133,9 +1157,12 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 
 ## अग्निः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'मेध्या च वा एतस्यामेध्या च तनुवौ संसृज्येते । यस्याहिताग्नेरन्यैरग्निभिरग्नयस्संसृज्यन्ते । अग्नये विविचये पुरोडाशमष्टाकपालं निर्वपेत्' इत्यस्य पुरोनुवाक्या - वि ते इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/006/03_vi_te.md">
@@ -1151,12 +1178,15 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Sped by the winds on all sides, O Agni,  
 Thy flames [1], O pure one, pure are diffused  
 Mightily destroying, the divine ones, the Navagvas  
 Assail the forests, rudely crushing (them).
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/06/006/03_vi_te.md">
@@ -1500,9 +1530,12 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ याज्या - त्वामग्ने मानुषीरिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
@@ -1551,9 +1584,12 @@ Of impetuous spirit, a good sacrificer, brilliant with ghee.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सन्ति देविकाहवींषि 'धात्रे पुरोडाशं द्वादशकपालं निर्वपति' , 'देविका निर्वपेत्प्रजाकामः' इति च विहितानि । तत्र धातुः पुरोनुवाक्या - धातेति गायत्री ॥ 
+</details>
 </details>
 
 ## धाता
@@ -1610,9 +1646,12 @@ May he favour us with a full (gift).
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8याज्या - धाता प्रजाया इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
@@ -1665,9 +1704,12 @@ To him let us offer the oblation rich in ghee.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9तत्रैव याज्यानुवाक्ये विकल्प्येते - धातेत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
@@ -1721,9 +1763,12 @@ Of the god whose gifts are true.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10याज्या - धातेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
@@ -1778,9 +1823,12 @@ The All-gods and Aditi in unison.
 
 ## अनुमतिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11अनुमतेः पुरोनुवाक्या - अनु न इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/19_anu_no-dyAnumatir.md">
@@ -1831,9 +1879,12 @@ A joy to the giver.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12याज्या - अन्वित्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
@@ -1879,9 +1930,12 @@ Lengthen our days for us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथ विकल्पार्थे अनुमन्यतामिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/29_anu_manyatAm.md">
@@ -1927,9 +1981,12 @@ May the goddess easy to invoke grant us protection.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14[याज्या]यस्यामिति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/34_yasyAm_idam.md">
@@ -1980,9 +2037,12 @@ The goddess, easy to invoke, grant us protection [4].
 </div>
 
 ## राका
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15राकायाः पुरोनुवाक्या - राकामिति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/04_rAkAmahaM_suhavAM.md">
@@ -1998,12 +2058,15 @@ The goddess, easy to invoke, grant us protection [4].
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Raka, easy to invoke, I invoke with fair praise;  
 May the fortunate one hear us and be aware of us  
 With needle that breaks not may she sew her task;  
 May she give a hero, whose wergild is a hundred, worthy of song.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/04_rAkAmahaM_suhavAM.md">
@@ -2359,9 +2422,12 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16याज्या - यास्ते इति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/05_yAste_rAke.md">
@@ -2377,12 +2443,15 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The fair thoughts of thine, O Raka,  
 Whereby thou art wont to give wealth to the giver,  
 With them to-day come to us in kindliness,  
 Granting, O fortunate one, a thousandfold prosperity.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/05_yAste_rAke.md">
@@ -2709,6 +2778,8 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17सिनीवाल्याः पुरोनुवाक्या याज्या च - सिनीवालि या सुपाणिरित्युभे अनुष्टुभौ प्रतीकग्रहणं चेदम् ॥ 
@@ -2717,6 +2788,7 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सिनी॑वालि॒ या, सु॑पा॒णिः ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/032/06_sinIvAli_pRthuShTuke.md">
@@ -2732,9 +2804,12 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 O Sinivali,
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/02/032/06_sinIvAli_pRthuShTuke.md">
@@ -3027,6 +3102,8 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 सि᳓नीवालि या᳓ सुपाणिः᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The fairhanded.
@@ -3041,10 +3118,14 @@ The fairhanded.
 
 सिनी॑वालि । या । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः । सु॒षूमेति॑ सु-सूमा॑ । ब॒हु॒सूव॒रीति॑ बहु-सूव॑री ॥ तस्यै॑ । वि॒श्पत्नि॑यै । ह॒विः । सि॒नी॒वा॒ल्यै । जु॒हो॒त॒न॒ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19कुह्वाः पुरोनुवाक्या - कुहूमहमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
@@ -3090,9 +3171,12 @@ To thee, O goddess, let us offer with oblation.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20याज्या - कुहूरिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">

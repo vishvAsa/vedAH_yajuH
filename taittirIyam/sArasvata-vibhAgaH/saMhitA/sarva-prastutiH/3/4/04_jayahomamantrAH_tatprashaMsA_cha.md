@@ -6,13 +6,15 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ जयाः स्पर्धमानस्य 'स्पर्धमानेनैते होतव्याः' इति, सामान्येन विहिताश्च 'येन कर्मणेर्त्सेत्' इति । 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्तं᳓ च [स्वा᳓हा]। चि᳓त्तिश् च [स्वा᳓हा]।  
@@ -22,6 +24,8 @@ title = "०४ जयहोममन्त्राः, तत्प्रश�
 द᳓र्शश् च [स्वा᳓हा]। पूर्ण᳓मासश् च [स्वा᳓हा]।  
 बृह᳓च् च [स्वा᳓हा]।  रथन्तरं᳓ च [स्वा᳓हा]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,12 +64,15 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 
 एवं बृहद्रथन्तरयोस्साम्नोर्वेदितव्यम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
@@ -81,9 +88,12 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ प्रजापतिर्जयानिति अत्र त्रयोदशी त्रिष्टुप् ॥ 'वृष्णे' इति प्रथमपादान्तः 'सर्वाः' इति तृतीयापादान्तः ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
@@ -125,6 +135,8 @@ For he waxed dread, worthy of offering.
 </div>
 
 ## ब्राह्मणम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवासु॒रास्सय्ँय॑त्ता आस॒न्त्स इन्द्रᳶ॑ प्र॒जाप॑ति॒मुपा॑धाव॒त्तस्मा॑ ए॒ताञ्जया॒न्प्राय॑च्छ॒त्तान॑जुहो॒त्ततो॒ वै दे॒वा असु॑रानजय॒न्यदज॑य॒न्तज्जया॑नाञ्जय॒त्वँ स्पर्ध॑मानेनै॒ते हो॑त॒व्या॑ जय॑त्ये॒व ताम्पृत॑नाम् ॥ [15]
@@ -134,11 +146,14 @@ For he waxed dread, worthy of offering.
 
 3अथ जयानां ब्राह्मणं - देवासुरा इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓स्सय्ँ᳓यत्ता आसन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,12 +169,15 @@ The gods and the Asuras were in conflict.
 
 दे॒वा॒सु॒रा इति॑ देव-अ॒सु॒राः । सय्यँ॑त्ता॒ इति॒ सं-य॒त्ताः॒ । आ॒स॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ इ᳓न्द्रᳶ प्रजा᳓पतिमु᳓पाधावत् ।  
 त᳓स्मा एता᳓ञ् ज᳓यान् प्रा᳓यच्छत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,11 +194,14 @@ Indra had recourse to Prajapati, to him he gave these victories (offerings)
 
 सः । इन्द्रः॑ । प्र॒जाप॑ति॒मिति॑ प्र॒जा-प॒ति॒म् । उपेति॑ । अ॒धा॒व॒त् । तस्मै॑ । ए॒तान् । जयान्॑ । प्रेति॑ । अ॒य॒च्छ॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् अजुहोत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +217,14 @@ he offered them
 
 तान् । अ॒जु॒हो॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ देवा᳓ अ᳓सुरानजयन्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,12 +240,15 @@ then indeed were the gods victorious over the Asuras
 
 ततः॑ । वै । दे॒वाः । असु॑रान् । अ॒ज॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓जयन्  
 त᳓ज् ज᳓यानाञ् जयत्व᳓म् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,11 +269,14 @@ in that they were victorious, that is why (the offerings) are called 'victorious
 
 तज्जयानां जयत्वमिति । जयति परसेनामेतैरिति जयाः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्प᳓र्धमानेनैते᳓ होतव्याः᳙ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,11 +292,14 @@ They should be offered by one engaged in conflict
 
 स्पर्ध॑मानेन । ए॒ते । हो॒त॒व्याः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज᳓यत्य् एव᳓ ता᳓म् पृ᳓तनाम् ॥ [15]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,4 +319,5 @@ verily does he win in the conflict.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इति तृतीये चतुर्थे चतुर्थोनुवाकः ॥  
+</details>
 </details>

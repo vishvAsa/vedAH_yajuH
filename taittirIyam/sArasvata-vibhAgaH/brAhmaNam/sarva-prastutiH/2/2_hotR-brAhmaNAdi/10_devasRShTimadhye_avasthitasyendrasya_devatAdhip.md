@@ -8,6 +8,8 @@ unicode_script: devanagari
 प्रजा᳓पतिर् इ᳓न्द्रम् असृजतानुजावर᳓न् देवा᳓नाम् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒रिन्द्र॑मसृजतानुजाव॒रन्दे॒वाना॑म् ।
@@ -45,11 +47,14 @@ unicode_script: devanagari
 यथा भ्रातॄणां मध्ये ऽनुजः पश्चाज् जातो ऽवरो निकृष्टस् तद्वद् अयम् इत्य् अनुजावरः ।  
 [[P427]] आनुजावर-शब्दस्यापि स एवार्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् प्रा᳓हिणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -60,12 +65,15 @@ unicode_script: devanagari
 
 त᳓म् । प्र᳓ । अहिणोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प᳓रेहि ।
 एते᳓षान् देवा᳓नाम् अ᳓धिपतिर् एधी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -87,6 +95,7 @@ unicode_script: devanagari
 
 सृष्टं तम् इन्द्रं देव-लोके प्रेषितवान् । हे, इन्द्र स्वर्गं गच्छैतेषां मया सृष्टानाम् अधिपतिर् भव । प्रेषितम् इन्द्रं देवाः पृच्छां कृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -97,6 +106,8 @@ unicode_script: devanagari
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +130,7 @@ unicode_script: devanagari
 
 प्रजापतिनाहं प्रेषितो ऽस्मीत्य् उत्तरे दत्ते ते देवा अब्रुवन् वयं वै त्वच्-छ्रेयांसः स्मेति त्वया कल्याण-युक्ता भवेमेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -130,6 +142,8 @@ unicode_script: devanagari
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -151,12 +165,15 @@ unicode_script: devanagari
 
 तदानीम् एवेन्द्रः परावृत्य प्रजापति-समीपं गतवान् । प्रजापतिना पृष्टे सति स इन्द्रो ऽब्रवीत् । कस् त्वम् असि वयं वै त्वच्-छ्रेयांसः स्मेति मा मां देवा अवोचन्न् अब्रुवन्न् इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ वा᳓ इद᳓न् त᳓र्हि प्रजा᳓पतौ ह᳓र आसीद्  
 य᳓द् अस्मि᳓न्न् आदित्ये᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +201,7 @@ unicode_script: devanagari
 अथ प्रजापतेर् अग्रे स्वकीय-तिरस्करणाद् ऊर्ध्वम् एवं वृत्तान्त आसीत् । यदिदम् इदानीम् अस्मिन्न् आदित्ये संतापकं तेजो दृश्यते तद् इदं हरस् तस्मिन् काले प्रजापताव् आसीत् । 
 यादृश आदित्यो ऽन्धकारादि-भर्त्सने समर्थस् तथा प्रजापतिर् अपि दुष्ट-शिक्षायां समर्थ आसीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,6 +210,8 @@ unicode_script: devanagari
 "एत᳓न् मे प्र᳓यच्छ" ,  
 "अ᳓थाह᳓म् एते᳓षान् देवा᳓नाम् अ᳓धिपतिर् भविष्यामी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -214,12 +234,15 @@ unicode_script: devanagari
 
 तत् तेज उद्दिश्येन्द्र एनं प्रजापतिम् अब्रवीत् । हे प्रजापते, एतत्तेजो मह्यं प्रयच्छ । अथाहं तेजस्वी सन्न् एतेषां देवानाम् अधिपतिर् भविष्यामीति । ततः प्रजापतिर् इदम् अब्रवीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "को᳙ऽहँ᳓ स्याम्" इ᳓त्य् अब्रवीद्,  
 "एत᳓त् प्रदा᳓ये᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -241,12 +264,15 @@ unicode_script: devanagari
 
 एतत्तेजस् तुभ्यं प्रदाय को ऽहं स्याम्, अक्षमं मां को वा गणयेद् इत्य् अभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "एत᳓त् स्या" इ᳓त्य् अब्रवीत् ।
 "य᳓द् एत᳓द् ब्र᳓वीषी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -268,11 +294,14 @@ unicode_script: devanagari
 
 अथ इन्द्रः प्रजापतिं प्रत्य् अब्रवीत्—को ऽहम् इत्य् अत्र क इत्य् अनेन शब्देन यद् एतद् ब्रवीषीत्य् एतद् एव त्वम् । अत्र यद् एतद् इन्द्रेणोक्तं तद् एतद् युक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "को᳓ ह वै᳓ ना᳓म प्रजा᳓पतिः" ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -309,11 +338,14 @@ unicode_script: devanagari
 किं तु स्वाभाविकम् ।  
 अतस् तेजसि दत्ते तव स्वभावो नापगच्छतीत्य् अब्रवीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द ॥ 61 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -324,11 +356,14 @@ unicode_script: devanagari
 
 यः᳓ । एव᳓म् । वे᳓द ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदु᳓र् एनन् ना᳓म्ना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -349,11 +384,14 @@ unicode_script: devanagari
 
 य एवं प्रजापतेः क इति नाम वेद, एनं सर्वे ऽपि नाम्ना विदुः, प्रख्यातो भवतीत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्मै रुक्म᳓ङ् कृत्वा᳓ प्र᳓त्यमुञ्चत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,11 +414,14 @@ unicode_script: devanagari
 
 [^1]: क. ख. रुक्मपुङ्खा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ इ᳓न्द्रो देवा᳓नाम् अ᳓धिपतिरभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -391,12 +432,15 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । इ᳓न्द्रः । देवा᳓नाम् । अ᳓धि-पतिः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
 अ᳓धिपतिर् एव᳓ समाना᳓नाम् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,12 +462,15 @@ unicode_script: devanagari
 
 ततः पट्ट-बन्धनाद् इन्द्रो देवानाम् अधिपतिर् अभवत् । तद् एतद् आधिपत्यं विद्वान् पुरुषः समानानां पुरुषाणां स्वयम् अधिपतिर् भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽमन्यत -  
 "कि᳓ङ् किव्ँ वा᳓ अकरम्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,11 +497,14 @@ unicode_script: devanagari
 इति ।
 स प्रजापतिर् एवम् अमन्यत । देवाधिपत्ये स्थापितस्येन्द्रस्यापेक्षितं कार्यं किं किं महत् कार्यं यन् मया कृतं न पर्याप्तं पुनर् अपि करिष्यामीत्य् अभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स᳓ चन्द्र᳓म् म आ᳓हरे᳓"ति प्रा᳓लपत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -479,11 +529,14 @@ unicode_script: devanagari
 तत आह्लाद-वाची चन्द्र-शब्दोच्चारणात् स्व-वाच्यस्मच्छब्दोच्चारणाच् च तद्-अक्षर-सदृशं चन्द्रमा इति नाम संपन्नम् ।  
 चन्द्रमा आह्लाद-करं तेजो मीयते ऽत्रेति चन्द्रमाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓च् चन्द्र᳓मसश् चन्द्रमस्त्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,12 +547,15 @@ unicode_script: devanagari
 
 त᳓त् । चन्द्र᳓मसः । चन्द्रमस् । त्व᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
 चन्द्र᳓वान् एव᳓ भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,12 +577,15 @@ unicode_script: devanagari
 
 एवं वेदिताप्य् आह्लादवान् एव भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓ अब्रुवन्न् -  
 "सुवी᳓र्यो ऽमर्या! य᳓था गोपाय᳓त" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -570,11 +629,14 @@ unicode_script: devanagari
 > तं देवा अब्रुवन् ।  
 सुवीर्यो मर्या यथा गोपायत इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् सू᳓र्यस्य सूर्यत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -605,6 +667,7 @@ unicode_script: devanagari
 हे अमर्या मरण-रहिता देवाः, शोभन-वीर्योपेतो ऽयम् इन्द्रो ऽस्मान् यथा गोपायते, सम्यग् रक्षितुं प्रभवतीत्य् अर्थः ।  
 ततः सुवीर्य-शब्दाक्षर-सादृश्यात् सूर्य-नाम संपन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -612,6 +675,8 @@ unicode_script: devanagari
 नै᳓नन् दभ्नोति ।  
 "क᳓श्चना᳓स्मिन् वा᳓ इद᳓म् इन्द्रिय᳓म् प्र᳓त्यस्थाद्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -651,11 +716,14 @@ unicode_script: devanagari
 अस्मिन्न् अपि स्थितम् इन्द्रियं सामर्थ्यं कथं को ऽपि न प्रत्यस्थात्, प्रत्यवस्थातुं निराकर्तुं न शक्नोतीति देवाः परस्परम् ऊचुः ।  
 तत्रेदम् इन्द्रियम् इत्य् अक्षर-साम्याद् इन्द्र-नाम संपन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् इ᳓न्द्रस्येन्द्रत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,12 +734,15 @@ unicode_script: devanagari
 
 त᳓त् । इ᳓न्द्रस्य । इन्द्र । त्व᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द -  
 इन्द्रियाव्य् ए᳙व᳓ भवति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -693,12 +764,15 @@ unicode_script: devanagari
 
 तन्-नामाभिज्ञः सामर्थ्यातिशयवान् भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अयव्ँ᳓ वा᳓ इद᳓म् परमो᳙ ऽभूद्" इ᳓ति  
 त᳓त् परमेष्ठि᳓नᳶ परमेष्ठित्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -724,12 +798,15 @@ unicode_script: devanagari
 
 परमः सर्वोत्तमः प्रजापतिर् एवेदम् इन्द्र-रूपो ऽभूद् इति देवा अब्रुवन् । तस्मात् परमे स्थित इत्य् अक्षर-साम्यात् परमेष्ठि-नाम संपन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
 परमा᳓म् एव᳓ का᳓ष्ठाङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -751,11 +828,14 @@ unicode_script: devanagari
 
 एतन्-नाम-वेदितैश्वर्यस्य काष्ठां प्राप्नोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् देवा᳓स् समन्त᳓म् प᳓र्यविशन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -783,11 +863,14 @@ unicode_script: devanagari
 
 [[P430]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सवᳶ पुर᳓स्तात् +++(पर्यविशन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -809,11 +892,14 @@ unicode_script: devanagari
 वस्वादयो गणाश् चतसृषु दिक्षु व्यवस्थिता उपविष्टाः ।  
 अङ्गिरः-प्रभृतयो महर्षयः क्वचिद् अप्य् उपवेशनम् अकृत्वा यदा यन्-मुखम् इन्द्रं प्रत्यञ्चं सम्मुखं कृत्वा सेवन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓ दक्षिणतः᳓ +++(पर्यविशन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -824,11 +910,14 @@ unicode_script: devanagari
 
 रुद्रा᳓ । दक्षिणतः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्याᳶ᳓ पश्चा᳓त् +++(पर्यविशन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -839,11 +928,14 @@ unicode_script: devanagari
 
 आदित्याः᳓ । पश्चा᳓त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓ उत्तरतः᳓ +++(पर्यविशन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -854,11 +946,14 @@ unicode_script: devanagari
 
 वि᳓श्वे । देवाः᳓ । उत्तरतः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गिरसᳶ प्रत्य᳓ञ्चम् +++(पर्यविशन्)+++ ॥ 64 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -876,11 +971,14 @@ unicode_script: devanagari
 यत्रक्वापि दिशि स्थिताः  
 प्रत्यक्षं प्रतिमुखावस्थानं असेवन्त अङ्गिरसः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साध्याᳶ᳓ प᳓राञ्चम् +++(पर्यविशन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -901,12 +999,15 @@ unicode_script: devanagari
 
 साध्याख्या देव-विशेषास् तम् इन्द्रं पराञ्चं विमुखं कृत्वा पृष्ठतः कृत्वा सेवन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
 उपै᳙नँ समाना᳓स् सव्ँ᳓ विशन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -928,12 +1029,15 @@ unicode_script: devanagari
 
 एवं वेदितारम् एनं पुरुषं समानाः सर्वे पुरुषा उपेत्य समीपे उपविश्य सेवन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प्रजा᳓पतिर् एव᳓ भूत्वा᳓  
 प्रजा᳓ आ᳓वयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -959,11 +1063,14 @@ unicode_script: devanagari
 इति ।
 स इन्द्रः स्वयं प्रजापतिर् एव प्रजापति-समान-सामर्थ्य-युक्त एव भूत्वा ताः प्रजा आवयत्, स्वाधीना अकरोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अस्मै ना᳓तिष्ठन्तान्ना᳓द्याय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -985,12 +1092,15 @@ unicode_script: devanagari
 
 स्व-स्वोचितं करं दातुम् आज्ञापितवान् इत्य् अर्थः । ताः सर्वाः प्रजा अस्मा अस्येन्द्रस्यान्नाद्याय नातिष्ठन्त । अन्न-भोग-करं दातुं नाङ्गीकृतवन्त इत्य् अर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ मु᳓खम् पुर᳓स्तात्प᳓श्यन्तीर्  
 दक्षिणतᳶ᳓ प᳓र्यायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1012,11 +1122,14 @@ unicode_script: devanagari
 
 तास् तथा-विधाः पूर्वस्यां दिशि वर्तमाना इन्द्रस्य मुखे मुख्यं कंचिद् इन्द्रम् ईक्षितं कर-स्वीकार-क्षमं पूर्वस्यां दिशि पश्यन्त्यस् ततः पलाय्य दक्षिणस्यां दिशि पर्ययन् गताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ दक्षिणतᳶ᳓ प᳓र्यवर्तयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1152,7 @@ unicode_script: devanagari
 
 [[P431]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1046,6 +1160,8 @@ unicode_script: devanagari
 मु᳓खन् दक्षिणतᳶ᳓  
 पश्चा᳓त् प᳓र्यायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1057,11 +1173,14 @@ unicode_script: devanagari
 
 ताः᳓ । मु᳓खम् । पुर᳓स्तात् । प᳓श्यन्तीः । मु᳓खम् । दक्षिणतः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ पश्चा᳓त् प᳓र्यवर्तयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,11 +1192,14 @@ unicode_script: devanagari
 
 पश्चा᳓त् । प᳓रि । आयन् । सः᳓ । पश्चा᳓त् । प᳓रि । अवर्तयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ मु᳓खम्पुर᳓स्तात्प᳓श्यन्तीर् मु᳓खन्दक्षिणतो᳓ मु᳓खम्पश्चा᳓द् उ᳓त्त᳓रतᳶ᳓ प᳓र्यायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1090,11 +1212,14 @@ unicode_script: devanagari
 
 ताः᳓ । मु᳓खम् । पुर᳓स्तात् । प᳓श्यन्तीः । मु᳓खम् । दक्षिणतः᳓ । मु᳓खम् । पश्चा᳓त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ उत्तरतᳶ᳓ प᳓र्यवर्तयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,6 +1231,7 @@ unicode_script: devanagari
 
 उत्तरतः᳓ । प᳓रि । आयन् । सः᳓ । उत्तरतः᳓ । प᳓रि । अवर्तयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1115,6 +1241,8 @@ unicode_script: devanagari
 मु᳓खम् उत्तरत᳓  
 ऊर्ध्वा᳓ उ᳓दायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1141,12 +1269,15 @@ unicode_script: devanagari
 एवं पश्चिम-उत्तर-ऊर्ध्व-दिक्षु योज्यम् ।  
 ततः स इन्द्रः पञ्चस्व् अपि दिक्षु स्व-कार्ये भृत्यान् अवस्थाप्य तद्-द्वारा स्वयं सर्वतो-मुखो भूत्वा सर्वाः प्रजा वशी-कृतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ उप᳓रिष्टान्न्य᳙वर्तयत ।  
 ता᳓स् सर्व᳓तोमुखो भूत्वा᳓ऽऽवयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1164,11 +1295,14 @@ unicode_script: devanagari
 
 सर्वाभ्यो दिग्भ्यो निवर्त्य उपरिष्टात् स्थापितवान् मुखं, ततस्सर्वतो मुखो भूत्वा सर्वासु दिक्षु प्रजा आवयत् भोग्या अकरोत् विधेयीकृतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ त᳓स्मै प्रजा᳓ अ᳓तिष्ठन्तान्ना᳓द्याय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1189,6 +1323,7 @@ unicode_script: devanagari
 
 ततः प्रजाः पलायितुं दिग्-अन्तरम् अलभमाना अस्येन्द्रस्यान्नाद्य-रूपं करं दातुम् अङ्गीकृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1197,6 +1332,8 @@ unicode_script: devanagari
 प्रजा᳓पतिर् एव᳓ भूत्वा᳓ प्रजा᳓ अत्ति ।  
 ति᳓ष्ठन्तेऽस्मै प्रजा᳓ अन्ना᳓द्याय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1226,11 +1363,14 @@ unicode_script: devanagari
 यः पुमान् एवम् इन्द्रस्य परिपालन-प्रकारं विद्वान् परिवर्तयते निवर्तयते च, शिक्षकस्य प्रेरणं परिवर्तनं, शिक्षिताभ्यः प्रजाभ्यः स्व-पुरुष-निवारणं निवर्तनं, तद्-उभय-कुशलः स्वयं प्रजानां पालको भूत्वा सर्वाः प्रजा अत्त्य् अनुभवतीत्य् अर्थः ।  
 ताश् च प्रजा अस्मै करं दातुम् अभ्युपगच्छन्ति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्नाद᳓ एव᳓ भ᳓वति ॥ 67 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1254,4 +1394,5 @@ unicode_script: devanagari
 असाव् अप्य् असंशयं भोग-संपन्नो भवति ॥
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे द्वितीय-प्रपाठके दशमो ऽनुवाकः ॥ १० ॥
+</details>
 </details>

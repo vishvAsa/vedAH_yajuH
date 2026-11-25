@@ -2,6 +2,8 @@
 title = "२२ काम्येष्टि-याज्यापुरोनुवाक्याः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 याज्याकाण्डं वैश्वदेवम्
@@ -15,11 +17,15 @@ title = "२२ काम्येष्टि-याज्यापुरोन
 १५ जगती
 विश्वेदेवा ऋषयः
 </details>
+</details>
 
 ## आग्नावैष्णव-यागः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ याज्याकाण्डं वैश्वदेवम् । तत्र 'आग्नावैष्णवमेकादशपालं निर्वपेदभिचरन्त्सरस्वत्याज्यभागा स्याद्बार्हस्पत्यश्चरुः' इत्यस्याग्नावैष्णवस्य पुरोनुवाक्या - अग्नाविष्णू महीति त्रिष्टुप् ॥  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/02_agnAviShNU_mahi.md">
@@ -69,9 +75,12 @@ May your tongue move forth to the ghee.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - अग्नाविष्णू इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/03_agnAviShNU_mahi.md">
@@ -119,9 +128,12 @@ May your tongue move forth to the ghee.
 </div>
 
 ## सारस्वत-यागः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तत्रैव 'सरस्वत्याज्यभागा' इत्यत्र पुरोनुवाक्या - प्र ण इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/061/04_pra_No.md">
@@ -391,9 +403,12 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - आ न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/043/11_A_no.md">
@@ -763,9 +778,12 @@ Zu unserm Opfer komme her vom Himmel, vom hohen Berg Sarasvati, die hehre; Die b
 
 ## बार्हस्पत्य-यागः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ तत्रैव 'बार्हस्पत्यश्चरुः' इत्येतस्य पुरोनुवाक्या - बृहस्पत इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/04_bRhaspate_juShasva.md">
@@ -1014,9 +1032,12 @@ Nimm, unsre Opfer gnädig an mit allen Göttern, Andachtsherr, Gib Schätze dem 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - एवा पित्र इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/050/06_evA_pitre.md">
@@ -1373,9 +1394,12 @@ So lasst dem Stier, dem Vater aller Götter, voll Demuth uns durch Tränk' und O
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7तत्रैव याज्या विकल्प्यते - बृहस्पत इपि त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/023/15_bRhaspate_ati.md">
@@ -1752,9 +1776,12 @@ Brihaspati, was recht dem Frommen werth gilt, was glänzend strahlt und wirksam 
 </div>  
 
 ## मैत्रावरुण-यागः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8'मैत्रावरुणमेककपालं निर्वपेद्वशायै काले' इत्यस्य पुरोनुवाक्या - आ न इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/16_A_no.md">
@@ -2033,9 +2060,12 @@ Benetzt, o Mitra-Varuna, mit Butter unsern Weideplatz, Mit Meth die Räume, Tref
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9तत्रैव याज्या - प्र बाहवेति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/062/05_pra_bAhavA.md">
@@ -2387,6 +2417,8 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 ## सौमा-रौद्र-यागः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 लिङ्गेन सौमारौद्रादिषु विनियोज्या ऋचः
@@ -2395,6 +2427,7 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अत्र मैत्रावरुणसोमारौद्रयोर्मध्ये कर्मान्तरं न श्रूयते, तेन लिङ्गक्रमाभ्यां याज्यार्थतायामसत्यां सोमारौद्रादिषु सामिधेन्यादिषु इतः परं काश्चिदृचो विनियुज्यन्ते ; यथासम्भवं  द्रष्टव्याः । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/14_agniM_vaH.md">
@@ -2411,12 +2444,15 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Agni for you I honour in song,  
 The god first of the bright ones;  
 Honouring him who prospereth the fields  
 Like a much loved friend.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/08/031/14_agniM_vaH.md">
@@ -2664,9 +2700,12 @@ Den Agni preise ich zuerst mit Lied, den Gott der Schätze gibt, den Hort des Fe
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11तत्र चतस्रः पङ्क्तयः पञ्चपादाः । 'देवानां य इन्मनः' इति पादत्रयं सर्वास्वनुषज्यते । तत्र द्वेद्वे सोमारौद्रे - मक्ष्वित्यादि ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/15_maxU_devavato.md">
@@ -3301,9 +3340,12 @@ Nicht trifft dich Schaden, Opferer, nicht Somapresser, Frommer dich; Wer recht d
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथ तृतीया - असदिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/18_asadatra_suvIryamuta.md">
@@ -3629,9 +3671,12 @@ Bei ihm muss Heldenfülle sein und schneller Rosse Vollbesitz; Wer recht der Gö
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथ चतुर्थी - नकिरिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/031/17_nakiShTaM_karmaNA.md">
@@ -4325,9 +4370,12 @@ Es rinnen lustbringende Ströme, die Milchtränke, hin zu dem, der geopfert hat,
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15'यो ब्रह्मवर्चसकामस्स्यात्तस्मा एतं सोमारौद्रं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमारुद्रा वि वृहतमिति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/22_kAmyeShTiyAjyApuronuvAkyAH/04_somArudrA_vi.md">
@@ -4375,9 +4423,12 @@ Whatever sin we have done remove from us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16तत्रैव याज्या - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/074/03_somArudrA_yuvametAnyasme.md">
@@ -4759,9 +4810,12 @@ O Soma-Rudra, alle Arzeneien, die wohlbekannten, legt in unsre Leiber; Macht fre
 
 ## सोमापौष्ण-यागः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17यदि बिभीयद्दुश्चर्मा भविष्यामीति सोमापौष्णं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमापूषणेति त्रिष्टुप् ॥ 21'यः पशुकामस्स्यात्तस्मा एतं सोमापौष्णं गार्मुतं चरुं निर्वपेत्' इत्यस्य पुरोनुवाक्या - सोमापूषणा जनाना रयीणामिति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/01_somApUShaNA_jananA.md">
@@ -5115,9 +5169,12 @@ x
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18तत्रैव याज्या - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/040/02_imau_devau.md">

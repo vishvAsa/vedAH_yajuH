@@ -7,6 +7,8 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 अग्निर्ऋषिः  
 चतुर्थकाण्डे षष्ठप्रपाठके षष्ठोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ चतुर्थकाण्डे षष्ठप्रपाठके षष्ठोऽनुवाकः)।  
@@ -17,12 +19,15 @@ title = "०६ अश्वमेधकर्तुः कवचादिसन
 कल्पः–“जीमूतस्येति कवचमध्यूहते” इति।  
 पाठस्तु– जीभूतस्येवेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीमू᳓तस्येव भवति प्र᳓तीकय्ँय᳓द्वर्मी᳓ या᳓ति सम᳓दामुप᳓स्थे ।  
 अ᳓नाविद्धया तनु᳓वा जय त्वँ᳓ स᳓ त्वा व᳓र्मणो महिमा᳓ पिपर्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,6 +55,9 @@ Let the might of thine armour protect thee.
 तस्मिन्काले हे राजन्ननाविद्ध्या परकीयप्रहाररहितया तनुवा स्वशरीरेण युक्तो भूत्वा विजयं प्राप्नुहि ।  
 वर्मणः कवचस्य तादृशो महिमा त्वां पिपर्तु पालयतु ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -57,12 +65,15 @@ Let the might of thine armour protect thee.
 “धन्वना गा इति धनुः” इति ।  
 पाठस्तु– धन्वना इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ध᳓न्वना गा᳓ ध᳓न्वनाजि᳓ञ्जयेम ध᳓न्वना तीव्रा᳓स्सम᳓दो जयेम ।  
 ध᳓नुश्श᳓त्रोरपकाम᳓ङ्कृणोति ध᳓न्वना स᳓र्वाः प्रदि᳓शो जयेम ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +101,15 @@ By the bow let us win in all the quarters.
 इदं धनुः शत्रोरस्मदीयवैरिणोऽपकामं कृणोति कामेभ्योऽपनयोऽपकामस्तं कृणोतु।  
 किं बहुना, सर्वा अदि प्रदिश उत्कृष्टान्सर्वदिग्वर्तिशत्रूञ्जयेम।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः — “वक्ष्यन्तीवेति ज्यामभिमृशति” इति।  
 पाठस्तु– वक्ष्यन्तीवेदा इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -102,6 +117,8 @@ By the bow let us win in all the quarters.
 वक्ष्य᳓न्तीवे᳓दा᳓ गनीगन्ति क᳓र्णम्प्रियँ᳓ स᳓खायम्परिषस्वजाना᳓ ।  
 यो᳓षेव शिङ्क्ते वि᳓तता᳓धि ध᳓न्वन्न् [27]  ज्या इयँ᳓ स᳓मने पार᳓यन्ती ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -130,11 +147,15 @@ Saving in the battle.
 कीदृशी ज्या अधि धन्वन्धनुष उपरि वितता विशेषेण प्रसारिता, समने युद्धे पारयन्ती युद्धसमाप्तिं गमयन्ती ।  
 २२०२ ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः — “ते आचरन्ती इति धनोरार्त्नी संमृशति” इति।  
 पाठस्तु ते आचरन्तीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -142,6 +163,8 @@ Saving in the battle.
 ते᳓ आच᳓रन्ती स᳓मनेव यो᳓षा माते᳓व पुत्र᳓म्बिभृतामुप᳓स्थे ।  
 अ᳓प श᳓त्रून् विध्यताँ सव्ँविदाने᳓ आ᳓र्त्नी इमे᳓ विष्फुर᳓न्ती अमि᳓त्रान् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,11 +191,15 @@ These two ends springing asunder, the enemies.
 कीदृशे कोट्यौ, समने युद्धे योषेवाऽऽचरन्ती तद्वन्मधुशब्देन हि बोधयन्त्यौ ।  
 पुनः कीदृशे, उपस्थे बिभृतां माता पुत्रमिब तद्वद्धितकारिण्यावित्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “वह्वीनां पिता बहुरस्य पुत्र इति पृष्ट इषुधिं निनह्यति” त इति।  
 पाठस्तु– वह्वीनां पितेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -180,6 +207,8 @@ These two ends springing asunder, the enemies.
 बह्वीना᳓म्पिता᳓ बहु᳓रस्य पुत्र᳓श्चिश्चा᳓ कृणोति स᳓मनावग᳓त्य ।  
 इषुधि᳓स्स᳓ङ्काᳶ पृ᳓तनाश्च स᳓र्वाः पृष्ठे᳓ नि᳓नद्धो जयति प्र᳓सूतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -208,11 +237,15 @@ Doth conquer every band and army.
 अत एवास्य षितृस्थानीयस्य पुत्रस्थानीय इषुसंघो बहुविधः ।  
 सोऽयमिषुधिः पृष्ठे निनद्धः पृष्टभागे नितरां बद्धः प्रसूतो धानुष्केण प्रेरितो बाणाकर्षणे सङ्काः सम्यक्प्राप्ताः सर्वा अपि पृतना जयति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः — “रथे  तिष्ठन्नयति वाजिन इति सारथिमभिमन्त्रयते” इति।  
 पाठस्तु– रथे तिष्ठन्निति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +253,8 @@ Doth conquer every band and army.
 र᳓थे ति᳓ष्ठन्नयति वाजि᳓नᳶ पुरो᳓ य᳓त्रयत्र काम᳓यते सुषारथिः᳓ ।  
 अभी᳓शूनाम्महिमा᳓नम् [28]  पनायत म᳓नᳶ पश्चा᳓द᳓नु यच्छन्ति रश्म᳓यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,11 +281,15 @@ The reins behind obey the mind (of the driver).
 हे ऋत्विग्यजमाना अभिशूनामश्वधारणहेतूनां रश्मीनां महिमानं पनायत वाचा स्तुर्ति कुरुत।  
 अत एव स्तुतिप्रकार उच्यते रश्मय एते प्रग्रहां सारथेर्मनोऽनुसृत्य पश्चाद्यच्छन्ति नियता भवन्ति, सारथेर्यथा मनोवृत्तिः पुरस्तात्प्रवर्तते तेनैव प्रकारेण पश्चादश्वानां नियमं कुर्वन्तीत्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “ तीव्रान्घोषान्कृण्वते वृषषाणय इत्यश्वान” इति।  
 पाठस्तु– तीव्रान्घोषानिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -258,6 +297,8 @@ The reins behind obey the mind (of the driver).
 तीव्रा᳓न्घो᳓षान्कृण्वते वृ᳓षपाणयो᳓ऽश्वा र᳓थेभिस्सह᳓ वाज᳓यन्तः ।  
 अवक्रा᳓मन्तᳶ प्र᳓पदैरमि᳓त्रान्क्षिण᳓न्ति श᳓त्रूँर᳓नपव्ययन्तः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,6 +330,9 @@ They unflinchingly destroy the foe.
 प्रपदैः पादाग्रैः खरैरमित्रान्वैरिणोऽवक्रा मन्तः ।  
 तादृशा अश्वा अनपव्ययन्तः प्रत्यापत्तिमकुर्वन्तो भीतिरहिता इत्यर्थः ।     २२०३ शूत्रून्क्षिणन्ति हिंसन्ति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -296,12 +340,15 @@ They unflinchingly destroy the foe.
 यद्यपीदमत्याधानं रथस्य प्रत्याधानादूर्ध्वभावि तथाऽप्यध्ययनसंप्रदायादयं मन्त्रोऽत्र षठितः।  
 तत्पाठस्तु– रथवाहनमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 रथवा᳓हनँ हवि᳓रस्य ना᳓म य᳓त्रा᳓युधन्नि᳓हितमस्य व᳓र्म ।  
 त᳓त्रा र᳓थमु᳓प शग्मँ᳓ सदेम विश्वा᳓हा वयँ᳓ सुमनस्य᳓मानाः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -326,11 +373,15 @@ All the days, with friendly hearts.
 
 यत्र यस्मिन्नल्पे शकटेऽस्य यजमानस्यऽऽयुध घनूरदिकं वर्म कवचं चेत्येवमादिकं निहितं स्थापितं, य(अ)स्य शकटस्य रथवाहनमिति नामधेयं, प्रत्यागत्य रथोऽस्मिञ्शकटे स्थाप्यत इति तच्छकटं रथवाहनं, तस्य हविर्वदुपकारकत्वाद्धविष्ट्वं, तत्र तस्मिन्रथवाहने शकटे विश्वाहा सर्वेष्वपि दिनेषु सुमनस्यपानाः सौमनस्यं प्राप्ता वयं शग्मं सुखगमनहेतुं रथमुपसदेमोपेत्य स्थाप याम।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “स्वादुषँसदः पितरो वयोधा इति तिसृभिः पितॄनुषतिष्ठते” इति।  
 तत्र प्रथमामाह– स्वादुषँ सद इति।   
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/46_svAduShaM_sadaH.md">
@@ -345,10 +396,13 @@ All the days, with friendly hearts.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The fathers with pleasant seats, granting strength, A support in trouble mighty and profound,  
 With varied hosts, with arrows to strengthen them, free, With real heroes, broad conquerors of hosts.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/46_svAduShaM_sadaH.md">
@@ -432,9 +486,12 @@ With varied hosts, with arrows to strengthen them, free, With real heroes, broad
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– ब्राह्मणास इति ।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/47_brAhmaNAsaH_pitaraH.md">
@@ -449,6 +506,8 @@ With varied hosts, with arrows to strengthen them, free, With real heroes, broad
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The Brahmans [3], the fathers worthy of the Soma, And sky and earth, unequalled be propitious to us; May Pusan guard us from misfortune, us that prosper holy order Do thou guard; may no foe overpower us.  
@@ -456,6 +515,7 @@ I A feather her garment, a deer her tooth,
 Tied with cowhide she flieth shot forth;  
 Where men run together and apart,  
 There may the arrows accord us protection.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/47_brAhmaNAsaH_pitaraH.md">
@@ -532,9 +592,12 @@ There may the arrows accord us protection.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह—  २२०४ सुपर्णं वस्त इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/29/48_suparNaM_vaste.md">
@@ -549,12 +612,15 @@ There may the arrows accord us protection.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 A feather her garment, a deer her tooth,  
 Tied with cowhide she flieth shot forth;  
 Where men run together and apart,  
 There may the arrows accord us protection.
+</details>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/sarvASh_TIkAH/29/48_suparNaM_vaste.md">
@@ -634,10 +700,13 @@ There may the arrows accord us protection.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “ऋजीते परि वङ्ग्धि न इत्यात्मानं प्रत्यभिमृश्य” इति।  
 पाठस्तु—  ऋजीते परीति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +714,8 @@ There may the arrows accord us protection.
 ऋ᳓जीते प᳓रि वृङ्ग्धि नो᳓ऽश्मा भवतु नस्तनूः᳓ ।  
 सो᳓मो अ᳓धि ब्रवीतु नो᳓ऽदितिः᳓ [30]  श᳓र्म यच्छतु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -673,11 +744,15 @@ And Aditi [4] grant protection!
 सोमा नोऽस्मानधिब्रत्रीतु अधिका एते मान्या इति कथयतु।  
 अदितिः शर्म यच्छतु सुखं यच्छतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “आ जङ्घन्तीत्यश्वाजनिमादाय” इति।  
 पाठस्तु– आजङ्घन्तीति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,6 +760,8 @@ And Aditi [4] grant protection!
 आ᳓ जङ्घन्ति सा᳓न्वेषाञ्जघ᳓नाँ उ᳓प जिघ्नते ।  
 अ᳓श्वाजनि प्र᳓चेतसो᳓ऽश्वान्त्सम᳓त्सु चोदय ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -711,11 +788,15 @@ The skilled horses in the battles.
 तथा पृष्ठभागानुपजिघ्नत उपेस्य ताड यन्ति।  
 तथाविधताडनहेतुभूते हेऽश्वाजनि अश्वप्रेरके कशे प्रचेतसस्ताडनेन प्रकृष्टगमने चित्तयुक्तान्समत्सु युद्धेषु चोदय प्ररेय ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “अहिरिव भोगौरिति हस्तघ्नमभिमन्त्रयते” इति।  
 पाठस्तु– अहिरिवेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -723,6 +804,8 @@ The skilled horses in the battles.
 अ᳓हिरिव भोगैᳶ᳓ प᳓र्येति बाहु᳓ञ्ज्या᳓या हेति᳓म्परिबा᳓धमानः ।  
 हस्तघ्नो᳓ वि᳓श्वा वयु᳓नानि विद्वा᳓न्पु᳓मान्पु᳓माँसम्प᳓रि पातु विश्व᳓तः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,6 +835,9 @@ Manfully guard the man on all sides.
 सोऽस्मान्विश्वतः सर्वस्मादुपद्रवात्पातु।  
 तत्र दृष्टान्तः—विश्वा वयुनानि विद्वान्सर्वान्मार्गानभिजानानः पुमान्पुमांसमन्य पुरुषं यथा पालयति तद्वदिति शेषः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -759,12 +845,15 @@ Manfully guard the man on all sides.
 ‘वनस्पते वीड्वङ्ग इति पञ्चमी रथम्’ इति।  
 तत्र प्रथमामाह–  २२०५ वनस्पते वीड्विति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 व᳓नस्पते वीड्व᳙ङ्गो हि᳓ भूया᳓ अस्म᳓त्सखा प्रत᳓रणस्सुवी᳓रः ।  
 गो᳓भिस्स᳓न्नद्धो असि वीड᳓यस्वास्थाता᳓ ते जयतु जे᳓त्वानि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -794,10 +883,14 @@ Let him that mounteth thee conquer what is to be conquered.
 गोभिः संनद्धोऽसि गवादिचर्मरज्जुभिः सम्यग्बद्धोऽसि वीडयस्वात्यन्यं दृढो भव।  
 ते तवाऽऽस्थाता जेत्वानि जेतव्यानि परसैन्यानि जयतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह– दिवः पृथिव्या इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -805,6 +898,8 @@ Let him that mounteth thee conquer what is to be conquered.
 दिवᳶ᳓ पृथिव्याᳶ᳓ प᳓रि [31]  ओज उ᳓द्भृतव्ँव᳓नस्प᳓तिभ्यᳶ प᳓र्या᳓भृतँ स᳓हः ।  
 अपा᳓मोज्मा᳓नम्प᳓रि गो᳓भिरा᳓वृतमि᳓न्द्रस्य व᳓ज्रँ हवि᳓षा र᳓थय्ँयज ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -829,10 +924,14 @@ The might of the waters surrounded with the kine, Indra's thunderbolt, the chari
 हे यजमान त्वं रथमिमं हविषा बलिकर्मणा यजपूजय।  
 कीदृशं रथम, दिवः पृथिव्याः पर्योज उद्भृतं द्युलोकात् भूलोकाच्च सर्वतो बलमानीय संपादितं, तथा वनस्पतिभ्योऽपि परितः सहो वलमानीयाऽऽभृतं संपादितम्।   तथाऽपामोज्मानमप्संबद्धमोज आनीय निष्पादितं, गोभिर्गवादिविकारैः स्नाषीभिर्श्चमर्मरज्जुभिश्च परित आवृतमिन्द्रस्य वज्रमिव दृढीभूतम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 [अथ] तृतीयामाह– इन्द्रस्य वज्र इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -840,6 +939,8 @@ The might of the waters surrounded with the kine, Indra's thunderbolt, the chari
 इ᳓न्द्रस्य व᳓ज्रो मरु᳓ताम᳓नीकम्मित्र᳓स्य ग᳓र्भो व᳓रुणस्य ना᳓भिः ।  
 से᳓मा᳓न्नो हव्य᳓दातिञ्जुषाणो᳓ दे᳓व रथ प्र᳓ति हव्या᳓ गृभाय ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -863,10 +964,14 @@ O chariot divine, take to thyself the oblations.
 
 यथेन्द्रस्य वज्रोऽत्यन्तं दृढः, यथा च मरुतामनीकं सैन्यं बहुभिर्मटैरुपेतं, यथा मित्रस्य गर्भोऽत्यन्तं सुरक्षितः, यथा वरुणस्य नाभिः केनापि तिरस्कर्तुमशक्यस्तथाविधैर्गुणैरुपेत हे देव रथ नोऽस्मदीयामिमां हव्यदातिं हविर्दानं जुषाणो हव्याऽस्मद्दत्तानि हव्यानि प्रति गृभाय प्रत्येकं गृहाण।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (अथ) चतुर्थीमाह–  उप श्वासयेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -874,6 +979,8 @@ O chariot divine, take to thyself the oblations.
 उ᳓प श्वासय पृथिवी᳓मुत᳓ द्या᳓म्पुरुत्रा᳓ ते मनुताव्ँवि᳓ष्ठितञ्ज᳓गत् ।  
 स᳓ दुन्दुभे सजू᳓रि᳓न्द्रेण देवै᳓र्दूरा᳓त् [32]  द᳓वीयो अ᳓प सेध श᳓त्रून् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -896,10 +1003,14 @@ Let the scattered world be ware of thee in many places; Do thou, O drum, in unis
 
 रथसमीपवर्तिदुन्दुभिरपि, एवंमहिमा किमुत रथ इति विवक्षया दुन्दुभिः प्रशस्यते।   हे दुन्दुभे पृथिवीमुपश्वासय त्वदीयेन शब्देन पूरय।   उतापि च द्यां द्युलोकमप्युपश्वासय।   पुरुत्रा पुरुषु द्युलोकभूलोकादिस्थानेषु विष्ठितं विशेषेण स्थितं सर्वं जगत्ते तव शब्दं मनुतां जानातु।   स त्वमिन्द्रेणान्यैर्देवश्चै सूजः समानप्रीतिः सञ्शत्रूनस्मदीयान्दूराद्दवीयो दूरादप्यत्यन्तं दूरदेशं प्रत्यपसेधापसारय।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 [अथ] पञ्चमीमाह– आ क्रन्दयेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -907,6 +1018,8 @@ Let the scattered world be ware of thee in many places; Do thou, O drum, in unis
 आ᳓ क्रन्दय ब᳓लमो᳓जो न आ᳓ धा नि᳓ ष्टनिहि दुरिता᳓ बा᳓धमानः ।  
 अ᳓प प्रोथ दुन्दुभे दुच्छु᳓नाँ इत᳓ इ᳓न्द्रस्य मुष्टि᳓रसि वीड᳓यस्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -931,10 +1044,14 @@ Indra's fist art thou; show thy strength.
 
 हे दुन्दुभे बलं परकीयसैन्यं प्रत्याक्रन्दयाऽऽक्रोशं कुरु।   अमुं जह्यमुं प्रहरेत्यत्यन्तभीतिहेतुं शब्दं कुरु।   नोऽस्माकप्रोजो बलमाधा आधेहि सम्यक्संपादय।   दुरिता बाधमानोऽस्मदीयानि दुरितानि विनाशयन्निष्टनिहि गर्जनसमानमस्मदुत्साहहेतुं शब्दं कुरु।   दुच्छुनान्दुष्टचित्तान्पुरुषानितोऽस्मादपप्रो  २२०६ थापसारय।   त्वमिन्द्रस्य मुष्टिरसि वज्रधारमकुष्टिसमानोस्यतो वडियस्व दृढी भव।   ईद्रृशैर्द्रुन्द्रुभिध्वनिभिः सहितोऽयं रथः प्रवर्तत इति तात्पर्यार्थः॥  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “आऽमूरजेति दुन्दुभिं संह्रादयन्ति” इति।   पाठस्तु– आऽमूरजेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -942,6 +1059,8 @@ Indra's fist art thou; show thy strength.
 आ᳓मू᳓रज प्रत्या᳓वर्तयेमाᳵ᳓ केतुम᳓द्दुन्दुभि᳓र्वावदीति ।  
 स᳓म᳓श्वपर्णाश्च᳓रन्ति नो न᳓रोऽस्मा᳓कमिन्द्र रथि᳓नो जयन्तु ॥ [33]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -973,4 +1092,5 @@ Be our chariotmen victorious, O Indra.
 हस्तं (स्तघ्नं) मन्त्रयतेऽहीति (येच्वाही, रथंतु वनपञ्चभिः।   
 दुन्दुभिं वादयेदाऽमूरत्र मन्त्रास्तु विंशतिः॥   
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वे दीय तैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे षष्ठप्रपाठके  षष्ठोऽनुवाकः ॥   ६॥  
+</details>
 </details>

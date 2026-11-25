@@ -4,15 +4,20 @@ title = "११ क्रीतस्य सोमस्य शकटेन प�
 
 सोसोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वा॒रु॒णो वै क्री॒तस्सोम॒ उप॑नद्धो मि॒त्रो न॒ एहि॒ सुमि॑त्रधा॒ इत्या॑ह॒ शान्त्या॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणो᳓ वै᳓ क्रीत᳓स्सो᳓म उ᳓पनद्धः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,12 +42,15 @@ The Soma when bought and tied up is connected with Varuna.
 
 तस्मान्मित्रो भूत्वाऽस्मानेहि आगच्छेति वचनं तस्य शान्त्यै भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रो᳓ न ए᳓हि सु᳓मित्रधा इ᳓त्याह ,
 शा᳓न्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,16 +67,22 @@ Come as a friend to us, creating firm friendships', he says, for atonement.
 
 मि॒त्रः । नः॒ । एति॑ । इ॒हि॒ । सुमि॑त्रधा॒ इति॒ सुमि॑त्र-धाः॒ । इति॑ । आ॒ह॒ । शान्त्यै॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्र॑स्यो॒रुमा वि॑श॒ दक्षि॑ण॒मित्या॑ह दे॒वा वै यँ सोम॒मक्री॑ण॒न्तमिन्द्र॑स्यो॒रौ दक्षि॑ण॒ आसा॑दयन्ने॒ष खलु॒ वा ए॒तर्हीन्द्रो॒ यो यज॑ते॒ तस्मा॑दे॒वमा॒ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्योरु᳓म् आ᳓ विश द᳓क्षिणमि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,11 +105,14 @@ Enter the right thigh of Indra', he says;
 
 देवास्सोमं क्रीत्वा इन्द्रस्य दक्षिणे ऊरावासादयन् । अस्मिंश्च काले अयमिन्द्रः यो यजते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ यँ᳓ सो᳓मम᳓क्रीणन्त᳓मि᳓न्द्रस्योरौ᳓ द᳓क्षिण आ᳓सादयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,11 +128,14 @@ the gods placed the Soma which they purchased in the right thigh of Indra;
 
 दे॒वाः । वै । यम् । सोम॑म् । अक्री॑णन् । तम् । इन्द्र॑स्य । ऊ॒रौ । दक्षि॑णे । एति॑ । अ॒सा॒द॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ख᳓लु वा᳓ एत᳓र्ही᳓न्द्रो यो᳓ य᳓जते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -131,11 +151,14 @@ now the sacrificer is Indra;
 
 ए॒षः । खलु॑ । वै । ए॒तर्‌हि॑ । इन्द्रः॑ । यः । यज॑ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादेव᳓माह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,17 +179,23 @@ therefore he says thus.
 
 तस्मात् 'इन्द्रस्योरुमाविश' इति मन्त्रमाह । 'इदमोर्हिल्' 'एतेतौ रथोः' इत्येतादेशः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उदायु॑षा स्वा॒युषेत्या॑ह दे॒वता॑ ए॒वान्वा॒रभ्योत् [71]  
 ति॒ष्ठ॒त्य्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दा᳓युषा स्वायु᳓षे᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,11 +216,14 @@ therefore he says thus.
 
 3उदायुषेति ॥ यस्मात् 'अमृताननु' इत्यस्मिन् मन्त्रे उच्यते तस्माद्देवता अन्वारभ्यावष्टभ्योत्तिष्ठति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता एवा᳓न्वार᳓भ्यो᳓त्तिष्ठति ।[71]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,16 +239,22 @@ verily seizing the gods [1] he rises up.
 
 दे॒वताः॑ । ए॒व । अ॒न्वा॒रभ्येत्य॑नु-आ॒रभ्य॑ । उदिति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उ॒र्व॑न्तरि॑क्ष॒मन्वि॒हीत्या॑हान्तरिक्षदेव॒त्यो ३॒॑ ह्ये॑तर्हि॒ सोमो
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उर्व᳙न्त᳓रिक्षम᳓न्विही᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,11 +279,14 @@ verily seizing the gods [1] he rises up.
 
 'देवतान्तात्तादर्थ्ये यत्', 'तित्स्वरितम्' इति स्वरितत्वम्, 'उदात्तस्वरितयोर्यणः', इति हिशब्दात्पर एकारस्स्वर्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरिक्षदेवत्यो᳙  ह्ये᳙तर्हि सो᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -261,16 +302,22 @@ for Soma has the atmosphere for its deity.
 
 अ॒न्त॒रि॒क्ष॒दे॒व॒त्य॑ इत्य॑न्तरिक्ष-दे॒व॒त्यः॑ । हि । ए॒तर्‌हि॑ । सोमः॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽदि॑त्या॒स्सदो॒ऽस्यदि॑त्या॒स्सद॒ आ सी॒देत्या॑ह यथाय॒जुरे॒वैतद्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दो ऽस्य᳓दित्यास्स᳓द आ᳓ सीदे᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +340,14 @@ for Soma has the atmosphere for its deity.
 
 कृष्णाजिनस्यादित्यास्सदनतुल्यत्वात् यजुर्यथा वदति तथैवैतदित्यर्थः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथायजु᳓र् एवै᳓त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -313,17 +363,23 @@ that is according to the text.
 
 य॒था॒य॒जुरिति॑ यथा-य॒जुः । ए॒व । ए॒तत् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि वा ए॑नमे॒तद॑र्धयति॒ यद्वा॑रु॒णँ सन्त॑म्मै॒त्रङ्क॒रोति॑ वारु॒ण्यर्चा सा॑दयति॒ स्वयै॒वैन॑न्दे॒वत॑या॒ सम॑र्धयति॒ वास॑सा प॒र्यान॑ह्यति सर्वदेव॒त्यव्ँ॑ वै वास॒स्सर्वा॑भिरे॒व [72]  
 ए॒न॒न्दे॒वता॑भि॒स्सम॑र्धय॒त्यथो॒ रक्ष॑सा॒मप॑हत्यै॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ वा᳓ एनमेत᳓दर्धयति य᳓द्वारुणँ᳓ स᳓न्तम् मैत्र᳓ङ्करो᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +402,14 @@ He severs it indeed when he makes what is connected with Varuna connected with M
 
 एनं सोमं विवर्धयति वृद्धिं करोति खल्वेतत् यद्वारुणं सन्तं मैत्रं करोति 'मित्रो न एहि' इति मन्त्रेण मैत्रतामापादयति । वरुणपरित्यागेन व्यृद्धस्स्यात्, तस्माद्वारुण्यर्चा 'वरुणोसि धृतव्रतः' इत्यनया आसादयति । स्वयैवैनं देवतया अप्रच्युतया एनं समर्धयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुण्य᳓र्चा᳓ सादयति स्व᳓यैवै᳓नन् देव᳓तया स᳓मर्धयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -366,11 +425,14 @@ he sets it down with a verse addressed to Varuna; verily he unites it with its o
 
 वा॒रु॒ण्या । ऋ॒चा । एति॑ । सा॒द॒य॒ति॒ । स्वया॑ । ए॒व । ए॒न॒म् । दे॒वत॑या । समिति॑ । अ॒र्ध॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓ससा पर्या᳓नह्यति । स᳓र्व᳓दे᳓वत्यव्ँ᳙ वै᳓ वा᳓सः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,12 +456,15 @@ He covers it round with a garment, the garment is connected with all the gods;
 
 सर्वदेवत्यमित्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वाभिरेवै᳓न᳓न् देव᳓ताभिस् स᳓मर्धयति᳓ ।[72]  
 अ᳓थो र᳓क्षसाम᳓पहत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -423,17 +488,23 @@ verily with all [2] the gods he unites it, and thus (it serves) for the smiting 
 
 'तादौ च ' इति गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वने॑षु॒ व्य॑न्तरि॑क्षन्तता॒नेत्या॑ह॒ वने॑षु॒ हि व्य॑न्तरि॑क्षन्त॒तान॒ वाज॒मर्व॒त्स्वित्या॑ह॒ वाजँ॒ ह्यर्व॑त्सु॒ पयो॑ अघ्नि॒यास्वित्या॑ह॒ पयो॒ ह्य॑घ्नि॒यासु॑ हृ॒त्सु क्रतु॒मित्या॑ह हृ॒त्सु हि क्रतुव्ँ॒वरु॑णो वि॒क्ष्व॑ग्निमित्या॑ह॒ वरु॑णो॒ हि वि॒क्ष्व॑ग्निन्दि॒वि सूर्य॑म् [73]  
 इत्या॑ह दि॒वि हि सूर्यँ॒ सोम॒मद्रा॒वित्या॑ह॒ ग्रावा॑णो॒ वा अद्र॑य॒स्तेषु॒ वा ए॒ष सोम॑न्दधाति॒ यो यज॑ते॒ तस्मा॑दे॒वमा॒ह
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नेषु व्य᳙न्त᳓रिक्षन्तताने᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -454,11 +525,14 @@ verily with all [2] the gods he unites it, and thus (it serves) for the smiting 
 
 7वनेष्विति ॥ यस्माद्वनेपु वृक्षेषु वा अन्तरिक्षं विततान विविधं स्थापितवान् तस्मादेवमाह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नेषु हि᳓ व्यन्त᳓रिक्षन् तता᳓न᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -474,11 +548,14 @@ for within the woods he stretched the atmosphere.
 
 वने॑षु । हि । वीति॑ । अ॒न्तरि॑क्षम् । त॒तान॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓जम᳓र्वत्स्वि᳓त्याह । वा᳓जँ ह्य᳓र्वत्सु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,11 +578,14 @@ for within the woods he stretched the atmosphere.
 
 यस्मादर्वत्सु अश्वेषु विततानेत्येव । यागद्वारेण सर्वाऽपीयं व्यवस्था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓यो अघ्निया᳓स्वि᳓त्याह । प᳓यो ह्य᳙घ्निया᳓सु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -526,11 +606,14 @@ for within the woods he stretched the atmosphere.
 
 पयः क्षीरादिकं अघ्नियासु गोषु विततान ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृत्सु᳓ क्र᳓तुमि᳓त्याह । हृत्सु᳓ हि᳓ क्र᳓तुम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,11 +634,14 @@ for within the woods he stretched the atmosphere.
 
 हृत्सु क्रतुं ज्ञानं विततान ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणो विक्ष्व᳙ग्नि᳓मि᳓त्याह । व᳓रुणो हि᳓ विक्ष्व᳙ग्निम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,11 +664,14 @@ for within the woods he stretched the atmosphere.
 
 विश्वेन त्वावृतो देवो व्यवस्थाः सर्वा एताः कृतवानिति । विक्षु मनुष्येषु अग्निं वैश्वानरं विततान ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवि᳓ सू᳓र्यम् इ᳓त्याह [73]। दिवि᳓ हि᳓ सू᳓र्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,11 +694,14 @@ for within the woods he stretched the atmosphere.
 
 दिव्येव हि सूर्यं दधाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मम᳓द्राव् इ᳓त्याह । ग्रा᳓वाणो वा᳓ अ᳓द्रयः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -636,11 +728,14 @@ for within the woods he stretched the atmosphere.
 
 ग्राव्णां पर्वतत्वमध्यारोप्यैवमाहेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षु वा᳓ एष᳓ सो᳓मन् दधाति यो᳓ य᳓जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -656,11 +751,14 @@ he places the Soma in them, who sacrifices;
 
 तेषु॑ । वै । ए॒षः । सोम॑म् । द॒धा॒ति॒ । यः । यज॑ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादेव᳓माह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -676,11 +774,15 @@ therefore he says thus.
 
 तस्मा॑त् । ए॒वम् । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उदु॒ त्यञ्जा॒तवे॑दस॒मिति॑ सौ॒र्यर्चा कृ॑ष्णाजि॒नम्प्र॒त्यान॑ह्यति॒ रक्ष॑सा॒मप॑हत्या॒ उस्रा॒वेत॑न्धूर्षाहा॒वित्या॑ह यथाय॒जुरे॒वैतत्प्र च्य॑वस्व भुवस्पत॒ इत्या॑ह भू॒तानाँ॒ हि [74]  
 ए॒ष पति॒र्विश्वा॑न्य॒भि धामा॒नीत्या॑ह॒ विश्वा॑नि॒ ह्ये ३॒॑ षो॑ऽभि धामा॑नि प्र॒च्यव॑ते॒ मा त्वा॑ परिप॒री वि॑द॒दित्या॑ह॒ यदे॒वादस्सोम॑माह्रि॒यमा॑णङ्गन्ध॒र्वो वि॒श्वाव॑सुᳶ प॒र्यमु॑ष्णा॒त्तस्मा॑दे॒वमा॒हाप॑रिमोषाय॒ यज॑मानस्य स्व॒स्त्यय॑न्य॒सीत्या॑ह॒ यज॑मानस्यै॒वैष य॒ज्ञस्या॑न्वार॒म्भोऽन॑वच्छित्त्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,6 +790,8 @@ therefore he says thus.
 उ᳓दु त्य᳓ञ्जात᳓वेदसमि᳓ति सौर्य᳓र्चा᳓ कृष्णाजिन᳓म् प्रत्या᳓नह्यति ।  
 र᳓क्षसाम᳓पहत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -709,11 +813,14 @@ therefore he says thus.
 
 8उदु त्यमिति प्रत्यानह्यति प्रतिबद्धद्वारं सर्वतो बध्नातीति मन्त्रविधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓स्रावे᳓तन् धूर्षाहावि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -734,11 +841,14 @@ therefore he says thus.
 
 उस्रावेतमित्यादियुग्यानयोजनमन्त्रेषु धूर्षाहावित्यादिगुणकथनम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथायजुर् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -759,11 +869,14 @@ that is according to the text.
 
 यथा यजुर्वदति तथा वेदितव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ च्यवस्व भुवस्पत इ᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -784,11 +897,14 @@ that is according to the text.
 
 प्र च्यवस्वेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूता᳓नाँ हि᳓ एष᳓ प᳓तिः ।[74]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -809,11 +925,14 @@ for he is the lord of creatures [4];
 
 भूतानामिति भुव इत्यस्यार्थमाचष्टे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वान्यभि᳓ धा᳓मानी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -829,11 +948,14 @@ for he is the lord of creatures [4];
 
 विश्वा॑नि । अ॒भीति॑ । धामा॑नि । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वानि ह्ये᳓ ३᳓ षोऽभि᳓ धा᳓मानि प्रच्य᳓वते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -849,11 +971,14 @@ for he moves forward to all his stations.
 
 विश्वा॑नि । हि । ए॒षः । अ॒भीति॑ । धामा॑नि । प्र॒च्यव॑त॒ इति॑ प्र-च्यव॑ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा परिपरी᳓ विददि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -878,12 +1003,15 @@ for he moves forward to all his stations.
 
 अदश्शब्दात्परस्याः पञ्चम्याः 'सुपां सुलुक्' इति लुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देवा᳓द᳓स् सो᳓ममाह्रिय᳓माणङ् गन्धर्वो᳓ विश्वा᳓वसुᳶ पर्य᳓मुष्णात् त᳓स्मादेव᳓माह।  
 अ᳓परिमोषाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -905,11 +1033,14 @@ since the Gandharva Viśvavasu stole the Soma when it was being carried below, h
 
 यद्वा - पर्यमुष्णादिति यददः यदिदं कारणं तस्मादेवमाह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानस्य स्वस्त्य᳓यन्यसी᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -934,11 +1065,14 @@ since the Gandharva Viśvavasu stole the Soma when it was being carried below, h
 
 स्वस्ति अविघ्नेन अयनं प्राप्नोति यज्ञस्य स्वस्त्ययनं तद्वान् सोमः तत्कारिका असीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानस्यैवै᳓ष᳓ यज्ञ᳓स्यान्वारम्भो᳓ , ऽनवच्छित्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -954,17 +1088,23 @@ verily thus the sacrificer grasps the sacrifice, that it be not interrupted.
 
 यज॑मानस्य । ए॒व । ए॒षः । य॒ज्ञस्य॑ । अ॒न्वा॒र॒म्भ इत्य॑नु-आ॒र॒म्भः । अन॑वच्छित्त्या॒ इत्यन॑व-छि॒त्त्यै॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वरु॑णो॒ वा ए॒ष यज॑मानम॒भ्यैति॒ यत् [75]  
 क्री॒तस्सोम॒ उप॑नद्धो॒ नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑स॒ इत्या॑ह॒ शान्त्या॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणो वा᳓ एष᳓ य᳓जमानमभ्यै᳓ति य᳓त् क्रीत᳓स्सो᳓म उ᳓पनद्धः ।[75]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -987,11 +1127,14 @@ The Soma when bought and tied up indeed approaches the sacrificer in the shape o
 
 योयं क्रीत उपनद्धश्च सोमः एषः वरुणः यजमानमभ्येति अभिगमनि वित्तमुक्तम् तथा हरणात् वरुण इवायं स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मित्र᳓स्य व᳓रुणस्य च᳓क्षस इ᳓त्याह । शा᳓न्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1012,10 +1155,14 @@ The Soma when bought and tied up indeed approaches the sacrificer in the shape o
 
 ततश्च यजमानो वरुणगृहीतो भवेत्, तस्मात् 'नमो मित्रस्य' इति वचनं शान्त्यै भवति मित्रत्ववचनेन बोधिते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आ सोमव्ँ॒वह॑न्त्य॒ग्निना॒ प्रति॑ तिष्ठते॒ तौ स॒म्भव॑न्तौ॒ यज॑मानम॒भि सम्भ॑वतᳶ पु॒रा खलु॒ वावैष मेधा॑या॒त्मान॑मा॒रभ्य॑ चरति॒ यो दी॑क्षि॒तो यद॑ग्नीषो॒मीय॑म्प॒शुमा॒लभ॑त आत्मनि॒ष्क्रय॑ण ए॒वास्य॒ स तस्मा॒त्तस्य॒ नाश्य॑म्पुरुषनि॒ष्क्रय॑ण इव॒ ह्य्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1024,6 +1171,8 @@ The Soma when bought and tied up indeed approaches the sacrificer in the shape o
 अग्नि᳓ना प्र᳓ति तिष्ठते ।  
 तौ᳓ सम्भ᳓वन्तौ य᳓जमानमभि᳓ स᳓म्भवतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1058,11 +1207,14 @@ They bring forward this Soma, it rests with Agni, they in uniting overpower the 
 
 तस्माद्यजमानमभिसंभवतः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा᳓ ख᳓लु वा᳓वै᳓ष᳓ मे᳓धायात्मा᳓नमार᳓भ्य चरति यो᳓ दीक्षितः᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1083,11 +1235,14 @@ Now the consecrated person has for long been holding himself ready for the sacri
 
 पुरा खल्वित्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्नीषोमी᳓यम् पशु᳓माल᳓भत आत्मनिष्क्र᳓यण एवा᳓स्य सः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1110,11 +1265,14 @@ In that he offers an animal to Agni and Soma, that is a buying-off of himself;
 
 तस्मादेव कारणात् तस्य पशोस्संबन्धीडादिकमन्नाद्यं न भक्ष्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓स्य ना᳓श्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1130,11 +1288,14 @@ therefore of it he should not eat;
 
 तस्मा॑त् । तस्य॑ । न । आ॒श्य॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरुषनिष्क्र᳓यण इव हि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1159,10 +1320,14 @@ for as it were it is a buying-off of a man.
 
 पूर्ववत्करणे ल्युट् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथो॒ खल्वा॑हुर॒ग्नीषोमा॑भ्याव्ँ॒वा इन्द्रो॑ वृ॒त्रम॑ह॒न्निति॒ यद॑ग्नीषो॒मीय॑म्प॒शुमा॒लभ॑ते॒ वार्त्र॑घ्न ए॒वास्य॒ स तस्मा॑द्वा॒श्यव्ँ॑वारु॒ण्यर्चा परि॑ चरति॒ स्वयै॒वैन॑न्दे॒वत॑या॒ परि॑ चरति ॥ [76]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,6 +1335,8 @@ for as it were it is a buying-off of a man.
 अ᳓थो ख᳓ल्वाहुर्  
 अग्नी᳓षो᳓माभ्याव्ँ वा᳓ इ᳓न्द्रो वृत्र᳓महन्नि᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1191,11 +1358,14 @@ Or rather they say, 'By Agni and Soma Indra slew Vrtra'.
 
 11अथो इति ॥ अन्ये खलु पदार्थविदोन्यदाहुः । अग्नीषोमाभ्यामिन्द्रो वृत्रमहन् हतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दग्नीषोमी᳓यम् पशु᳓माल᳓भते वा᳓र्त्रघ्न एवा᳓स्य सः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1211,11 +1381,14 @@ In that he offers an animal to Agni and Soma, it slays hostile things for him;
 
 यत् । अ॒ग्नी॒षो॒मीय॒मित्य॑ग्नी-सो॒मीय॑म् । प॒शुम् । आ॒लभ॑त॒ इत्या॑-लभ॑ते । वार्त्र॑घ्न॒ इति॒ वार्त्र॑-घ्नः॒ । ए॒व । अ॒स्य॒ । सः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्वाश्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1240,11 +1413,14 @@ therefore he should eat of it.
 
 अणन्तादपि 'यस्य' इति लोपे उदात्तनिवृत्तिस्वरेण 'उदात्तयणः' इति तृतीयाया उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुण्य᳓र्चा᳓ प᳓रि चरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1268,11 +1444,14 @@ He honours it with a verse addressed to Varuna;
 इति श्रीभट्टभास्कृरमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये षष्ठकाण्डे प्रथमप्रश्ने एकादशानुवाकः ॥
 समाप्तश्च प्रथमः प्रश्नः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓यैवै᳓नन् देव᳓तया प᳓रि चरति ॥ [76]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1287,4 +1466,5 @@ verily he honours it with its own deity.
 <details><summary>पद-पाठः</summary>
 
 स्वया॑ । ए॒व । ए॒न॒म् । दे॒वत॑या । परीति॑ । च॒र॒ति॒ ॥
+</details>
 </details>

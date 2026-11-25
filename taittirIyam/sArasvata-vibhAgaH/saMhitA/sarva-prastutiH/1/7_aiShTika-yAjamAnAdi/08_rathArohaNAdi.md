@@ -1,6 +1,8 @@
 +++
 title = "०८ रथारोहणादि"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ४ गायत्री
@@ -18,11 +20,14 @@ title = "०८ रथारोहणादि"
 
 1रथमातिष्ठति तमनुमन्त्रयते - देवस्येति यजुषा ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्याहँ᳓ सवितुᳶ᳓ प्रसवे᳓ बृ᳓हस्प᳓तिना वाजजि᳓ता वा᳓जञ् जेषम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -43,10 +48,14 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 सवितुः सर्वस्य प्रेरयितुः देवस्याहं प्रसवे अनुज्ञायां अनुज्ञां लब्ध्वैव न स्वातन्त्र्येण बृहस्पतिना ब्रह्मणा साधनभूतेन वाजजिता अन्नं जितवता वशीकृतसर्वान्नेन ; अतस्तेनाहं वाजमन्नं जेषं जयेयम् । लेटि 'सिब्बहुलं लेटि' इति सिप्, मिपोडागमः, इतश्च लोपः । बृहस्पतिशब्दे 'तद्बृहतोः' इति सुट्, वनस्पत्यादित्वात्पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2चात्वाले रथचक्रं निमितं ब्रह्माधिरोहति तमभिमन्त्रयते - देवस्येति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/02_devasyAhaM_savitupH.md">
@@ -87,6 +96,8 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3दुन्दुभिं संह्रादयति - इन्द्रायेति ॥ 
@@ -96,6 +107,7 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 
 इन्द्रा॑य॒ वाचव्ँ॑वद॒तेन्द्रव्ँ॒वाज॑ञ्जापय॒तेन्द्रो॒ वाज॑मजयित् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,6 +115,8 @@ On the instigation of the god Savitr, through Brhaspati, winner of the prize, ma
 इ᳓न्द्रव्ँ वा᳓जञ् जापयत ।   
 इ᳓न्द्रो वा᳓जम् अजयित् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,10 +139,14 @@ To Indra utter your voices, make Indra win the prize, Indra hath won the prize.
 
 इन्द्रायेन्द्रार्थं सर्वे वाचं वदत तस्य स्वामित्वात् यथेन्द्रो जयति तथा शब्दयत । यजमान एव वा ऐश्वर्ययोगादिन्द्रः ; तस्य शोभनां वाचं वदत । इन्द्रं वाजं जापयत । 'क्रीङ्जीनां णौ' इत्यात्वम्, 'अर्तिह्री' इत्यादिना पुक् । इन्द्रश्च वाजमन्नमजयित् अजयत् । जयतेश्छान्दसे लङि वर्णयत्ययेन शप इकारः । शपो वा लुकि तिप इडागमः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अश्वाजनीं प्रयच्छति - अश्वाजनीति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/03_ashvAjani_vAjini.md">
@@ -171,15 +189,20 @@ Do thou in the contests strengthen the steeds.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5-7तयाश्वान् समवक्षिणोति - अर्वासीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓र्वासि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,11 +223,14 @@ The swift art thou,
 
 अर्वा अरणकुशलः । 'अन्येभ्योपि दृश्यन्ते' इति वनिप् । तादृशोसीति दक्षिणम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓प्तिरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -225,11 +251,14 @@ the runner,
 
 सप्तिः । षप समवाये । सङ्ग्रामेषु सहसा समवैति । तादृशोसीति मध्यमम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाज्य᳙सि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -250,10 +279,14 @@ the strong.
 
 वाजी वेगवान् अन्नवान्वा । तादृशोसीत्युत्तरम् । उक्तमुदात्तयणः परस्यानुदात्तस्य स्वरितत्वम् । अग्निर्वा अर्वा । वायुस्सप्तिः । आदित्यो वजी ।' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8-9अश्वानाजिशिरोभ्यावर्तयति - वाजिन इति द्वाभ्याम् । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +294,8 @@ the strong.
 वा᳓जिनो वा᳓जन् धावत ।  
 मरु᳓ताम् प्रसवे᳓ जयत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -284,6 +319,7 @@ conquer on the instigation of the Maruts:
 तत्राद्या द्विपदा गायत्री ॥ हे वाजिनः अश्वा वाजमन्नं प्रति धावत वाजं साधयितुं शीघ्रं गच्छत । सर्तेर्वेगितायां गतौ धावादेशः ।  
 
 मरुतां प्रसवेऽनुज्ञायां जयतान्नम् । ते हि युष्मानाज्ञापयन्ति ; यूयं चास्माकं जयत ।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/04_vi_yojanA.md">
@@ -332,9 +368,12 @@ attain the goal.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अश्वान् धावतोनुमन्त्रयते - वाजेवाज इत्यादिभिश्चतसृभिः । आद्या त्रिष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/038/08_vAjevAje_avata_vAjino.md">
@@ -708,9 +747,12 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11 ते नो अर्वन्त इति द्विपदा विराट् ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/05_te_no.md">
@@ -751,9 +793,12 @@ All hearken to our cry.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12मितद्रव इति परोष्णिक् अस्तारपङ्क्तिर्वा, 'परौ चेद्द्वादशाक्षरावास्तारपङ्क्तिः' इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/06_mitadravas_sahasrasA.md">
@@ -843,9 +888,12 @@ Forever may they remove from us evil [2].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रत्याधावतोनुमन्त्रयते - एष स्य इति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/08_eSha_sya.md">
@@ -1291,9 +1339,12 @@ Und dieses schnellen Läufers Fittich fliegt dahin, wie eines Vogels, der begehr
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16रथविमोचनीयं जुहोति - आ मा वाजस्येति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/08_rathArohaNAdi/09_A_mA.md">
@@ -1342,9 +1393,12 @@ May Soma come to me for immortality.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17रथयुजोश्वान्नैवारं चरुमवघ्रापयति - वाजिन इति यजुषा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1354,6 +1408,8 @@ May Soma come to me for immortality.
 वा᳓जञ् जेष्य᳓न्तो  
 बृ᳓हस्प᳓तेर् भाग᳓म् अ᳓व **जिघ्रत** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1374,10 +1430,14 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 
 हे वाजिनः अश्वाः वाजजितः वाजमन्नं जेतुमुद्यताः । 'विभाषितं विशेषवचने बहुवचनम्' इति पूर्वस्याविद्यमानवत्त्वाभावः । वाजं वाजहेतुमाजिं सरिष्यन्तस्सर्तुकामाः सृत्वा च वाजमाजिं जेष्यन्तो जेतुकामाः । उभयत्रापि हेतौ शता । सरणार्थं जयार्थं चेत्यर्थः । बृहस्पतेः बार्हस्पत्यस्य चरोर्नैवारस्य भागमवजिघ्रत । बृहस्पतिशब्दे सुट्स्वरावुक्तौ । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18आगतवतोवघ्रापयति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1387,6 +1447,8 @@ O ye steeds, prize winning, about to run for the prize, about to win the prize, 
 वा᳓जञ् जिगिवाँ᳓सो  
 बृ᳓हस्प᳓तेर् भागे᳓ **नि᳓ मृढ्वम्** +++(←मृज् शौचे)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1407,10 +1469,14 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 
 हे वाजिनः वाजजितः वाजं ससृवां सः सृतवन्तः वाजं जिगिवांसः जितवन्तः । 'अभ्यासाच्च' इति कुत्वम् । बृहस्पतेर्भागे निमृढ्वं निमार्जयध्वं शुद्धा भवत । मृजूष् शौचालङ्कारयोः, चुरादिराधृषीयः अनुदात्तेत् अकर्मकः, 'बहुलं छन्दसि' इति शपो लुक् । मार्ष्टेर्वा व्यत्ययेनात्मनेपदम् । आत्मानं शोधयतेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19दुन्दुभीन् विमुच्यमानान् अनुमन्त्रयते - इयं व इति यजुषा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1418,6 +1484,8 @@ O ye steeds, prize winning, that have run for the prize, that have won the prize
 इयव्ँ᳓ वस् सा᳓ सत्या᳓ **सन्धा᳓ ऽभूत्**  
 या᳓म् इ᳓न्द्रेण **सम्-अ᳓धध्वम्**+++(=कृतवन्तः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1442,11 +1510,14 @@ That ye did make with Indra.
 
 केत्याह - यां सन्धां इन्द्रेण समधध्वं इन्द्रेण सह कृतवन्तः 'इन्द्राय वाचं वदत' इत्यादिका सा सत्याभूदिति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓जीजिपत वनस्पतय +++(दुन्दुभिरूपाः)+++! इ᳓न्द्रव्ँ वा᳓जव्ँ, +++(विश्रान्त्यै)+++ वि᳓मुच्यध्वम्  ॥  [37]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1468,4 +1539,5 @@ Ye have made Indra win the prize, O trees; now be ye loosed.
 किञ्च - हे **वनस्पतयः** । विकारे प्रकृतिशब्दः । वनस्पतिविकारा हि दुन्दुभयः **इन्द्रं वाजम् अजीजिपत** इन्द्रं वाजस्यान्नस्य जेतारं कृतवन्तः । यथोक्तं पूर्वं 'इन्द्रं वाजं जापयत' इति । तच्च तथा कृतवन्तस्थेत्यर्थः । सम्प्रति **विमुच्यध्वं** विश्राम्यत विमुक्ताः । जयतेर्णौ 'क्रीङ्जीनां णौ' इत्यात्त्वम्, वर्णव्यत्ययेन धातोरिकारः । वनस्पतिशत्ब्दः पारस्करादिः ॥
 
 इति सप्तमे अष्टमोनुवाकः ॥  
+</details>
 </details>

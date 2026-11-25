@@ -4,15 +4,20 @@ title = "०५ यक्ष्मगृहीतस्येष्टिः"
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ते॒स्त्रय॑स्त्रिँशद्दुहि॒तर॑ आस॒न्तास्सोमा॑य॒ राज्ञे॑ऽददा॒त्तासाँ॑ रोहि॒णीमुपै॒त्ता ईर्ष्य॑न्ती॒ᳶ पुन॑रगच्छ॒न्ता अन्वै॒त्ताᳶ पुन॑रयाचत॒ ता अ॑स्मै॒ न पुन॑रददा॒त्सो॑ऽब्रवीदृ॒तम॑मीष्व॒ यथा॑ समाव॒च्छ उ॑पै॒ष्याम्यथ॑ ते॒ पुन॑र्दास्या॒मीति॒ स ऋ॒तमा॑मी॒त्ता अ॑स्मै॒ पुन॑रददा॒त्तासाँ॑ रोहि॒णीमे॒वोप॑ [24]  ऐ॒त्तय्ँयक्ष्म॑ आर्च्छ॒द्राजा॑नय्ँ॒यक्ष्म॑ आर॒दिति॒ तद्रा॑जय॒क्ष्मस्य॒ जन्म॒ यत्पापी॑या॒नभ॑व॒त्तत्पा॑पय॒क्ष्मस्य॒ यज्जा॒याभ्योऽवि॑न्द॒त्तज्जा॒येन्य॑स्य॒ य ए॒वमे॒तेषाय्ँ॒यक्ष्मा॑णा॒ञ्जन्म॒ वेद॒ नैन॑मे॒ते यक्ष्मा॑ विन्दन्ति॒ स ए॒ता ए॒व न॑म॒स्यन्नुपा॑धाव॒त्ता अ॑ब्रुव॒न्वरव्ँ॑वृणामहै समाव॒च्छ ए॒व न॒ उपा॑य॒ इति॒ तस्मा॑ ए॒तम् [25]  आ॒दि॒त्यञ्च॒रुन्निर॑वप॒न्तेनै॒वैन॑म्पा॒पात्स्रामा॑दमुञ्च॒न्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतेस्त्र᳓यस्त्रिँशद्दुहित᳓र आसन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,11 +40,14 @@ Prajapati had thirty-three daughters;
 
 अन्ये तु - षट्कृत्तिकाः अभिजिदेका अश्विन्यादयष्षद्विंशतिरिति त्रयस्त्रिंशत्तारका इत्याहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓स्सो᳓माय रा᳓ज्ञेऽददात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,11 +63,14 @@ he gave them to Soma, the king;
 
 ताः । सोमा॑य । राज्ञे॑ । अ॒द॒दा॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓साँ रोहिणी᳓मु᳓पैत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,11 +86,14 @@ of them he associated with Rohini;
 
 तासा॑म् । रो॒हि॒णीम् । उपेति॑ । ऐ॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ ई᳓र्ष्यन्तीᳶ पु᳓नरगच्छन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,12 +114,15 @@ they returned in anger;
 
 ईर्ष्यन्तीरिति । सपत्नीबहुमानमसहमानाः पितरमेव पुनरगच्छन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अ᳓न्वैत् ।  
 ताᳶ᳓ पु᳓नरयाचत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +144,14 @@ then he followed and asked for them back;
 
 ता अन्वगच्छत् सोमः अयाचत प्रजापतिम् । ततस्तास्सोमाय नाददात्प्रजापतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अस्मै न᳓ पु᳓नरददात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,12 +167,15 @@ them he would not return;
 
 ताः । अ॒स्मै॒ । न । पुनः॑ । अ॒द॒दा॒त्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ऽब्रवीत्  ।   
 ऋ᳓त᳓ममीष्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,11 +197,14 @@ he said, 'Swear on oath
 
 अथ स प्रजापतिरब्रवीत् सोमं ऋतं सत्यममीष्व प्रतिपद्यस्व शपथं कुरु, सत्येनेति यावत् । शपो लुक्, छान्दस इडागमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था समावच्छ᳓ उपैष्या᳓मि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,11 +225,14 @@ that thou wilt equally associate (with them):
 
 शपथप्रयोगं दर्शयति - यथेति । यथा इदमर्थरूपं समावच्छ उपैष्यामीति एवं शपथः क्रियताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ ते पु᳓नर्दास्यामी᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -224,12 +253,15 @@ then will I return them to you.'
 
 अथैतास्तुभ्यं पुनर्दास्यामीति । समादावतुप् स्वार्थिकः । सममित्यर्थः । ततः 'सङ्ख्यैकवचनात्' इति शसः क्रियाविशेषणत्वात्कर्मत्वम् ।सर्वेष्वप्यहस्सु सममेवैताः सर्वा उपेष्यामीत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ऋत᳓मामीत् ।   
 ता᳓ अस्मै पु᳓नरददात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,11 +283,14 @@ He took the oath, and he returned them.
 
 स सोमस्तथाकरोत्, प्रजापतिश्च पुनरदात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓साँ रोहिणी᳓मेवो᳓पैत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,11 +311,14 @@ He associated with Rohini alone [1].
 
 अथ सोमः पुनरपि तासां मध्ये रोहिणीमेवोपैत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तय्ँ᳓य᳓क्ष्म आर्च्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -301,11 +339,14 @@ Illness seized him;
 
 अथ सत्यातिक्रमात् तं सोमं यक्ष्मः क्षयरोगः आर्तमकरोत् । यक्ष पूजायाम्, औणादिको मन्प्रत्ययः । रोगोत्तमत्वं पूजा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓जानय्ँय᳓क्ष्म आरदि᳓ति त᳓द्राजयक्ष्म᳓स्य ज᳓न्म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -326,11 +367,14 @@ Illness seized him;
 
 राजानमित्यादि । राज्ञो यक्ष्मः राजयक्ष्म इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पा᳓पीयान᳓भवत्,  त᳓त्पापयक्ष्म᳓स्य᳓ +++(जन्म)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -351,11 +395,14 @@ in that he became worse, that is (the origin) of the 'bad illness';
 
 पापीयानिति । पुरुषान्तरयक्ष्मात्पापतरत्वात्पापश्चासौ यक्ष्मश्चेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ज्जाया᳓भ्यो᳓ऽविन्दत्, त᳓ज्जाये᳓न्यस्य +++(जन्म)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -376,11 +423,14 @@ because he got it from his wives, that is (the origin) of the 'wife's disease' (
 
 जायाभ्य इति । 'तत आगतः' इति छान्दस एन्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓मेते᳓षाय्ँय᳓क्ष्माणाञ्ज᳓न्म वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,11 +451,14 @@ him who knows thus the origin of these illnesses,
 
 य एवमिति । एकस्यैव यक्ष्मस्य निमित्तभेदेन त्रित्वमुपचर्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नै᳓नमेते᳓ य᳓क्ष्मा विन्दन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,11 +479,14 @@ these illnesses do not visit.
 
 विन्दतीति । बाधितुं न लभन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एता᳓ एव᳓ नमस्य᳓न्नु᳓पाधावत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,11 +507,14 @@ He approached them respectfully;
 
 अथ सोमः प्रजापतिं मुक्त्वा एता जाया नमस्यन् पूजयन् उपाधावत् आर्तोस्मि प्रसीदन्तु भवत्य इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अब्रुवन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -476,11 +535,14 @@ they said, 'Let us choose a boon;
 
 अथ ता अब्रुवन् वरं वृणामहै सममेव चास्मानुपायः उपगच्छेति तुल्यप्रतिपत्तयो वयं स्यामेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रव्ँवृणामहै, समावच्छ᳓ एव᳓ न उ᳓पाय इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,11 +563,14 @@ do thou associate equally with us.'
 
 इत्थमिदं करिष्यामीति सोमेनाभ्युपगते तस्मै आदित्यं चरुं निरवपन् जायाः, तेनैव पापात्स्रामाद्रोगादेनममुञ्चन् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एत᳓मादित्य᳓ञ्चरु᳓न्नि᳓रवपन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -521,11 +586,14 @@ For him [2] they offered this oblation to the Adityas;
 
 तस्मै॑ । ए॒तम् । आ॒दि॒त्यम् । च॒रुम् । निरिति॑ । अ॒व॒प॒न्॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नैवै᳓नम्पापा᳓त्स्रा᳓मादमुञ्चन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -541,10 +609,14 @@ they freed him from his evil case.
 
 तेन॑ । ए॒व । ए॒न॒म्॒ । पा॒पात् । स्रामा॑त् । अ॒मु॒ञ्च॒न्॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यᳶ पा॑पय॒क्ष्मगृ॑हीत॒स्स्यात्तस्मा॑ ए॒तमा॑दि॒त्यञ्च॒रुन्निर्व॑पेदादि॒त्याने॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ त ए॒वैन॑म्पा॒पात्स्रामा॑न्मुञ्चन्त्यमावा॒स्या॑या॒न्निर्व॑पेद॒मुमे॒वैन॑मा॒प्याय॑मान॒मन्वा प्या॑ययति॒ नवो॑नवो भवति॒ जाय॑मान॒ इति॑ पुरोनुवा॒क्या॑ भव॒त्यायु॑रे॒वास्मि॒न्तया॑ दधाति॒ यमा॑दि॒त्या अँ॒शुमा॑प्या॒यय॒न्तीति॑ या॒ज्यैवैन॑मे॒तया॑ प्याययति ॥ [26]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +624,8 @@ they freed him from his evil case.
 यᳶ᳓ पापयक्ष्म᳓गृहीतस्स्या᳓त् ।  
 त᳓स्मा एत᳓मादित्य᳓ञ्चरु᳓न्नि᳓र्वपेत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -573,11 +647,14 @@ For him who is seized by the bad illness he should offer this oblation to the Ad
 
 2य इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓नेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -593,11 +670,14 @@ verily he has recourse to the Adityas with their own share;
 
 आ॒दि॒त्यान् । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓ एवै᳓नम्पापा᳓त्स्रा᳓मान्मुञ्चन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,11 +693,14 @@ verily they free him from his evil case.
 
 ते । ए॒व । ए॒न॒म्॒ । पा॒पात् । स्रामा॑त् । मु॒ञ्च॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमावास्या᳙यान्नि᳓र्वपेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -638,6 +721,7 @@ He should offer at the new moon; verily with its waxing he makes him wax.
 
 अमावास्यायामिति शुक्लप्रतिपत्प्रभृति आप्यायते चन्द्रः, तमनु यममानमाप्याययति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -647,6 +731,8 @@ He should offer at the new moon; verily with its waxing he makes him wax.
 य᳓मादित्या᳓ अँशु᳓माप्याय᳓यन्ती᳓ति᳓ ।  
 याज्यै᳓वै᳓नमेत᳓या प्याययति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -699,4 +785,5 @@ The Puronuvakya is, 'He is born ever new'; verily thereby he bestows life upon h
     2 तत्रैव याज्या - यमिति त्रिष्टुप् ॥ यमंशुं रश्मिं आत्मीयरश्मिभूतं सोममादित्या आप्याययन्ति वर्धयन्ति, यं च सोममक्षितमविच्छिन्नं सर्वेष्वपि पर्वसु अक्षितयोऽक्षीणाः पित्रादयः पिबन्ति, तेन सोमेन सह राजा देवराजः वरुणश्च बृहस्मतिश्चाप्याययन्तु इममक्षीणं यजमानं वर्धयन्तु भुवनस्य भूतजातस्य गोपाः प्रवृत्तिप्रदाः ॥
 
 इति द्वितीये तृतीये पञ्चमोनुवाकः ॥  
+</details>
 </details>

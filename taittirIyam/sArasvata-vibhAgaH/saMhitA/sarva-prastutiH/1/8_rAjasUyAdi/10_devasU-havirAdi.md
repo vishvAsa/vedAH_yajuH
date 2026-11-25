@@ -1,6 +1,8 @@
 +++
 title = "१० देवसू-हविरादि"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः  
@@ -12,6 +14,7 @@ title = "१० देवसू-हविरादि"
 
 1अथाभिषेचनीये अग्नीषोमीयस्य पशुपुरोडाशस्यानुनिर्वाप्याण्य् अष्टौ देवसुवां हवींषि सन्ति, तानि विदधाति - अग्नये गृहपतये इत्यादि ॥ 'देवसुवामेतानि हवीषि भवन्ति' इत्यादि ब्राह्मणम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,6 +22,8 @@ title = "१० देवसू-हविरादि"
 पुरोडा᳓शम् अष्टा᳓कपालन् नि᳓र्वपति  
 कृष्णा᳓नाव्ँ व्रीहीणा᳓म् …  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,12 +46,15 @@ To Agni, lord of the house, he offers a cake of black rice on eight potsherds;
 
 कृष्णव्रीह्यादयो वाक्यशेषात्प्रायशः प्रसिद्धाः कृष्णवर्णाः, कृष्णाः । व्रीहीणामित्यादौ 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … सो᳓माय व᳓नस्प᳓तये
 श्यामाक᳓ञ्चरुं᳓ …  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,6 +76,7 @@ to Soma, lord of the forest, an oblation of millet;
 
 वनानां पतिस्स्वामी वनस्पतिः । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । श्यामाकाः श्यामाकाख्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -75,6 +84,8 @@ to Soma, lord of the forest, an oblation of millet;
 पुरोडा᳓शन् द्वा᳓दशकपालम्  
 आशूनाव्ँ᳓ व्रीहीणाँ᳓ …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,11 +107,14 @@ to Savitr, of true instigation, a cake of swift-growing rice on twelve potsherds
 सवित्रे 'उदात्तयणः' इति विभक्तिरुदात्ता । सत्यप्रसवायामोघाभ्यनुज्ञाय ।
 **आशवष्** षाष्टिका इत्येके । त्रिपक्षपच्या इत्यन्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓य पशुप᳓तये गावीधुक᳓ञ्+++(=तृणजन्यं)+++ चरुं᳓…    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,11 +135,14 @@ to Rudra, lord of cattle, an oblation of Gavidhuka;
 
  पशूनां पतिस्स्वमी पशुपतिः । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । गावीधुकास्तृणतण्डुलाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तये वाच᳓स्प᳓तये नैवार᳓ञ् चरु᳓म् …      
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -146,11 +163,14 @@ to Brhaspati, lord of speech, an oblation of wild rice;
 
 बृहतां पतिः बृहस्पतिः । वनस्पतिवत्सुस्वटरौ । वाचस्पतये । 'सावेकाचः' इति षष्ठ्या उदात्तत्वम्, 'षष्ठ्याः पतिपुत्र' इति संहितायां सत्वम् । 'षष्ठीयुक्तच्छन्दसि वा' इति पत्युर्घित्वम् । नीवाराश्शुष्कजलाशयोत्थिताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय ज्येष्ठा᳓य पुरोडा᳓शम् ए᳓कादशकपालम्  महा᳓व्रीहीणाम् …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,11 +193,14 @@ to Indra, the noblest, a cake of large rice on eleven potsherds;
 महाव्रीहयश्शालय इति केचित् ।  
 स्वयं विशीर्णव्रीहिभ्यस् स्वयम्-उत्पन्ना व्रीहय इत्यन्ये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓य सत्या᳓याऽऽम्बा᳓नाञ् चरुं᳓       
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -198,11 +221,14 @@ to Mitra, the true, an oblation of Amba grain,
 
 सत्यस्वरूपाय मित्राय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणाय ध᳓र्मपतये यवम᳓यञ् चरु᳓म्॥      
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -223,10 +249,14 @@ and to Varuna, lord of right, an oblation made of barley.
 
 धर्मपतिः धर्मस्य पाता । पूर्ववत्स्वरः । यवमयं 'द्व्यचश्छन्दसि ' मयट् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथ पुरोडाशस्विष्टकृतः पुरस्तात् ब्रह्मा यजमानस्य हस्तं गृह्णाति - सवितेत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +270,8 @@ and to Varuna, lord of right, an oblation made of barley.
 मित्र᳓स् सत्या᳓नाव्ँ 
 व᳓रुणो ध᳓र्मपतीनाम्॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -270,6 +302,7 @@ Varuna of lords of right.
 
 गृहपतीनामिति । भावप्रधानो निर्देशः । यानि गृहपति त्वानि बहुविधानि तदर्थं सुवताम्, सोमस्त्वां वनस्पत्यर्थं सुवताम्, रुद्रः पशूनां पतिः त्वां पश्वर्थं सुवताम्, वागर्थं बृहस्पतिस्सुवताम्, ज्येष्ठानां ज्येष्ठत्वाय इन्द्रस्सुवताम्, सत्यत्वाय मित्रस्सुवताम्, धर्मपतित्वार्थं वरुणस्सुवताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -277,6 +310,8 @@ Varuna of lords of right.
 त᳓ इम᳓म् आमुष्यायण᳓म्  
 अनमित्रा᳓य  **सुवध्वम्** …     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -299,15 +334,17 @@ do ye instigate him, descendant of N. N., to freedom from foes,
 
 हे देवा अग्न्यादयो वरुणान्ताः ये यूयं देवसुवस्स्थ देवस्य दानादिगुणयुक्तस्य यजमानस्य सवितारः प्रेरकास्स्थ ते यूयं यस्मादेवं प्रसवादीनामनुज्ञातारः तस्मादिममामुष्यायणं सिंहवर्मणः पुत्रं नन्दिवर्माणम् अनमित्रायानमित्रत्वाय अविद्यमानशत्रुत्वाय सुवध्वम् । अनुजानीत अशत्रुमेनं कुरुतेत्यर्थः । इममामुष्यायणमिति सर्वनामद्वयं विशेषार्थमुपादीयते । अमुष्यशब्दान्नडादित्वात्फक् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/mahate_xatrAya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 … महते᳓ क्षत्त्रा᳓य
 महत᳓ आ᳓धिपत्याय  
 महते᳓ जा᳓नराज्यायै
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,20 +366,24 @@ to great lordship, to great overlordship, to great rule over the people.
 
 किञ्च - महते च क्षत्राय बलाय महते चाधिपत्याय स्वामित्वाय महते अविच्छिन्नाय च **जानराज्याय** जनानां राजा जनराजः तद्भावाय । उभयत्रापि गुणवचनत्वात् ष्यञ् । इममायुष्यायणं सुवध्वमित्येव । 'बृहन्महतोरुपसङ्ख्यानम्' इति महतो विभक्तेरुदात्तत्वम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानायतने तिष्ठन् रत्निभ्यो जानपदेभ्यो ऽध्वर्युर् आवेदयते - एष व इति ॥ 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/eSha_vo_bharatA_rAjA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 एष᳓ वो भरता रा᳓जा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -363,16 +404,22 @@ This is your king, O Bharatas;
 
 भरतानां निवासो जनपदो भरताः । 'जनपदे लुप्' । भरतानां राजानोपि भरताः । 'तस्य राजन्यपत्यवत्' इति 'जनपदशब्दात् क्षत्रियादञ्', 'यञिञोश्च' इति बहुषु लुक् । हे भरताः एष वो युष्माकं राजा, योयं राजसूयेन यजते । एवमयं व्याख्यातिगतो भवति, राज्यं चास्मिन् प्रतिहितम् । यद्यसौ भरतानामेव राजा तदानीमेवं, नान्यदा । यथाजनपदमिति केचित् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4बह्मा जपति - सोम इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मोऽस्मा᳓कम् ब्राह्मणा᳓नाँ रा᳓जा ।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -393,8 +440,10 @@ Soma is the king of us Brahmans.
 
 अस्माकं ब्राह्मणानां सोमो राजा, अधुना अयञ्चेति । सर्वदा सराजका एव वयमित्यभिप्रायः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -404,6 +453,7 @@ Soma is the king of us Brahmans.
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रति॒ त्यन्नाम॑ रा॒ज्यम॑धायि॒ स्वान्त॒नुवव्ँ॒वरु॑णो अशिश्रे॒च्छुचे॑र्मि॒त्रस्य॒ व्रत्या॑ अभू॒माम॑न्महि मह॒त ऋ॒तस्य॒ नाम॒ सर्वे॒ व्राता॒ वरु॑णस्याभूव॒न्वि मि॒त्र एवै॒ररा॑तिमतारी॒दसू॑षुदन्त य॒ज्ञिया॑ ऋ॒तेन॒ व्यु॑ त्रि॒तो ज॑रि॒माण॑न्न आनड् 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
@@ -496,22 +546,29 @@ Trita hath taken possession of our old age.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7-9त्रीन्विष्णुक्रमान् प्राचः क्रामति - विष्णोः क्रमोसीति ॥ व्याख्यातम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/viShNoH_kramaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि॒ विष्णोः॑ क्रा॒न्तम॑सि॒  विष्णो॒र्विक्रा॑न्तमसि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -532,11 +589,14 @@ Thou art the stepping of Visnu,
 
 विष्णोर्भगवत एव क्रमोसि गमनसाधनत्वात् । प्रकृष्टस्य विष्णोः क्रमरूपेण स्तूयते रथः विष्णोः क्रमवत् भविष्यसि जयहेतुरिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः क्रान्त᳓मसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -557,11 +617,14 @@ thou art the step of Visnu,
 
 विष्णोः क्रान्तमसि यत्पूर्वं विष्णुना कृतं क्रमणं, तदेव त्वमसि तद्वज्जयसाधनं भविष्यसि अस्माकम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोर् वि᳓क्रान्तमसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,5 +645,5 @@ thou art the stride of Visnu.
 
 विष्णोर्वीक्रान्तं विजयः, तदेव त्वमसि तद्वद्विजयसाधनत्वात् । पूर्ववद्गतिस्वरः ॥
 </details>
-
+</details>
 </div>

@@ -13,6 +13,8 @@ title = "१३ साकमेधादियाज्यानुवाक्�
 स᳓मिद्धश्शुक्र᳓ आ᳓हुतः ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 May Agni slay the foe,  
@@ -46,10 +48,14 @@ Kindled, pure as offered.
 
 कीदृशो ऽग्निः, वृत्राणि जङ्घनत् कर्म-अनुष्ठान-निवारकाणि पापान्य् अतिशयेन हतवान्, विपन्यया विशिष्टया ऽस्मत्-कृतया स्तुत्या द्रविणस्युर् अस्मद्-अर्थं द्रविणेच्छुः, समिद्धः सम्यक्-प्रज्वालितः, शुक्रः शोचमानः, आहुत आ समन्ताद् अस्माभिर् आकारितः, अनेनाज्येनाहुतो वा।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्याम् आह— “त्वं सोमासीति”।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/091/05_tvaM_somAsi.md">
@@ -63,11 +69,14 @@ Kindled, pure as offered.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou Soma art very lord,  
 Thou art king, and slayer of foes;  
 Thou art favouring strength.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/091/05_tvaM_somAsi.md">
@@ -365,9 +374,12 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रधानस्याग्नेर् अनीकवतो हविषः पुरोनुवाक्याम् आह— “भद्रा ते अग्न इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -375,6 +387,8 @@ Du Soma bist der starke Herr, bist König, Vritratödter du, Du bist die Kraft, 
 भद्रा᳓ ते अग्ने स्वनीक सन्दृ᳓ग्घोर᳓स्य सतो᳓ वि᳓षुणस्य चा᳓रुः ।  
 न᳓ य᳓त्ते शोचि᳓स्त᳓मसा व᳓रन्त न᳓ ध्वस्मा᳓नस्तनु᳓वि रे᳓प आ᳓ धुः ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -408,10 +422,14 @@ The defiling leave no stain in thy body.
 
 ध्वस्मानो ध्वंस-हेतवो राक्षसास् तनुवि शरीरे त्वदीये रेपः प्रहार-रूपं पापं नाऽऽधुर्नैव संपादितवन्तः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव याज्याम् आह— “भद्रं ते अग्न इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -419,6 +437,8 @@ The defiling leave no stain in thy body.
 भद्र᳓न्ते अग्ने सहसिन्न᳓नीकमुपाक᳓ आ᳓ रोचते सू᳓र्यस्य ।  [29]   
 रु᳓शद्दृशे᳓ ददृशे नक्तया᳓ चिद᳓रूक्षितन्दृश᳓ आ᳓ रूपे᳓ अ᳓न्नम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -448,10 +468,14 @@ Pleasant to the sight is food in thy form.
 
 किम् अर्थं रात्रौ तज्-ज्वाला-दर्शनम् इति तद् उच्यते? - रुशद् धिंसकं सर्पादिकं दृशे मार्गे द्रष्टुं, तथा रात्रौ भोजन-वेलायां रूपे पुरतो निरूपिते पात्रे ऽरूक्षितं रूक्षोपलक्षितम् अक्षिकाद्युपद्रव-रहितम् अन्नम् आदृशे सर्वतो द्रष्टुम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव विकल्पितां याज्याम् आह— “सैनानीकेनेति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -459,6 +483,8 @@ Pleasant to the sight is food in thy form.
 ै᳓सै᳓ना᳓नीकेन सुविद᳓त्रो अस्मे᳓ य᳓ष्टा देवाँ᳓ आ᳓यजिष्ठस्स्वस्ति᳓ ।  
 अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -489,12 +515,15 @@ O Agni, shine forth with radiance and with wealth.
 
 एनानीकेन सुविदत्र एनेन ज्वाला-समूहेन सुष्ठु वेदिता, अस्मे देवान् यष्टास्मद्-अर्थं देवान् उद्दिश्य याग-निष्पादकः, स्वस्ति विघ्न-राहित्यं यथा भवति तथा यजिष्ठो ऽतिशयेन कृत्स्न-याग-समाप्ति-कारी, अदब्धः केनाप्य् अहिंसितो गोपा यज्ञस्य गोप्ता, उतापि च नो ऽस्माकं परस्पा अतिशयेन पालयिता।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स्वस्ति᳓ नो दिवो᳓ अग्ने पृथिव्या᳓ विश्वा᳓युर्धेहि यज᳓थाय देव ।  
 य᳓त्सीम᳓हि दिविजात प्र᳓शस्तन्त᳓दस्मा᳓सु द्र᳓विणन्धेहि चित्र᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,10 +560,14 @@ Do thou bestow upon us that radiant wealth.
 
 कीदृशं द्रविणम्? प्रशस्तं विद्यमान-श्रैष्ठ्यं चित्रं मणि-मुक्तादि-नानाजात्य्-उपेतम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्याम् आह— “यथा होतरिति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -542,6 +575,8 @@ Do thou bestow upon us that radiant wealth.
 य᳓था होतर्म᳓नुषः [30]  देव᳓ताता यज्ञे᳓भिस्सूनो सहसो य᳓जासि ।  
 एवा᳓ नो अद्य᳓ समना᳓ समाना᳓नुश᳓न्नग्न उशतो᳓ यक्षि देवा᳓न् ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -581,12 +616,15 @@ To the glad gods together assembled.
 उशन् कामयमान आस्था-युक्त इत्य् अर्थः।
 कीदृशान् देवान्, समानांस् त्वया तुल्यान् उशतः कामयमानांस् त्वयि प्रीति-युक्तान् इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓मीडे पुरो᳓हितय्ँ यज्ञ᳓स्य देव᳓मृत्वि᳓जम् ।  
 हो᳓तारँ रत्नधा᳓तमम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -616,10 +654,14 @@ The Hotr, best bestower of jewels.
 [[P2036]] 
 देवं द्योतमानं, होतारं देवानाम् आह्वातारं, रत्नधातमम् अतिशयेन रत्नानां मणि-मुक्ता-प्रभृतीनां संपादकम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयाज्यभागस्य पुरोनुवाक्याम् आह— “वृषा सोमेति”।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/064/01_vRShA_soma.md">
@@ -633,11 +675,14 @@ The Hotr, best bestower of jewels.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art strong, O Soma, and bright,  
 Thou art strong, O god, and strong thy rule,  
 Strong laws dost thou establish.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/09/064/01_vRShA_soma.md">
@@ -898,9 +943,12 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रधानस्य हविषः पुरोनुवाक्याम् आह— “सांतपना इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -908,6 +956,8 @@ Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier
 सा᳓न्तपना इदँ᳓ हवि᳓र्म᳓रुतस्त᳓ज्जुजुष्टन ।  
 युष्मा᳓कोती᳓ रिशादसः ॥    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -939,10 +989,14 @@ Slay him with your most burning heat.
 किम् अर्थं? युष्माकोती युष्माकम् ऊतये क्षुद्-बाधातो रक्षणाय।
 कीदृशा मरुतः? रिशादसो रिषन्ति हिंसन्तीति रिशाः, तान् अदन्ति भक्षयन्ति विनाशयन्तीति रिशादसः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव याज्याम् आह— “यो नो मर्त इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -950,6 +1004,8 @@ Slay him with your most burning heat.
 यो᳓ नो म᳓र्तो वसवो दुर्हृणायु᳓स्तिर᳓स्सत्या᳓नि म᳓रु᳓तः᳓ [31]  जि᳓घाँसात् ।  
 द्रुहᳶ᳓ पा᳓शम्प्र᳓ति स᳓ मुचीष्ट त᳓पिष्ठेन त᳓पसा हन्तना त᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -975,10 +1031,14 @@ Slay him with your most burning heat.
 
 वसवो वास-हेतवो हे मरुतो यो मर्तो मनुष्यो दुर्हृणायुर् दुष्ट-क्रोधो ऽत्यन्तं पाप-बुद्धिः सन् सत्यानि तिरो ऽस्मान् प्रति कृतान्, सर्वथा नानिष्टं करिष्यामीत्य् एवंरूपाञ् शपथान् तिरस्कृत्य नो ऽस्मान् जिघांसाद् धन्तुम् इच्छेत्, स द्रुहो द्रोही पाशं भवदीयं बन्धन-रज्जुं प्रतिमुचीष्ट प्रतिमुञ्चतु। स्व-गले बध्नात्व् इत्य् अर्थः। ते द्रोहिणं तपिष्ठेन तपसात्यधिकेन संतापेन हन्तन मारयत।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव विकल्पितां याज्याम् आह— “संवत्सरीणा इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -986,6 +1046,8 @@ Slay him with your most burning heat.
 सव्ँवत्सरी᳓णा मरु᳓तस्स्वर्का᳓ उरुक्ष᳓यास्स᳓गणा मा᳓नुषेषु ।  
 ते᳙ऽस्मत्पाशान्प्र᳓ मुञ्चन्त्वँ᳓हसस्सान्तपना᳓ मदिरा᳓ मादयिष्ण᳓वः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1018,10 +1080,14 @@ Those that burn, delighting, granting delight,
 
 सांतपनाः सम्यक्-शत्रूणां ताप-कारिणः, मदिराः स्वयं हृष्टाः, मादयिष्णवो ऽस्मान् अपि हर्षयन्तः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव स्विष्ट-कृतः पुरोनुवाक्याम् आह— “पिप्रीहि देवान् इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1029,6 +1095,8 @@ Those that burn, delighting, granting delight,
 पिप्रीहि᳓ देवाँ᳓ उशतो᳓ यविष्ठ विद्वाँ᳓ ऋतूँ᳓रृतुपते यजेह᳓ ।  
 ये᳓ दै᳓व्या ऋत्वि᳓जस्ते᳓भिरग्ने त्वँ᳓ हो᳓तॄणामस्या᳓यजिष्ठः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1058,10 +1126,14 @@ Thou art the best sacrificer of Hotrs.
 
 देवेषु भवा ये दैव्या ऋत्विजः सन्ति, “अग्निर् होता। अश्विनाऽध्वर्यू। त्वष्टाऽग्नीत्” इत्यादिनाऽऽम्नातास् तैर् देवैः सह, त्वम् अस्य यजमानस्य संबन्धिनां होतॄणाम् ऋत्विजां मध्ये आयजिष्ठः सर्वतो यष्टृतमो ऽसि।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्याम् आह— “अग्ने यद् अद्येति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1069,6 +1141,8 @@ Thou art the best sacrificer of Hotrs.
 अ᳓ग्ने य᳓दद्य᳓ विशो᳓ अध्वरस्य होतᳶ पा᳓वक [32]  शोचे वे᳓ष्ट्वँ᳓ हि᳓ य᳓ज्वा ।  
 ऋता᳓ यजासि महिना᳓ वि᳓ य᳓द्भू᳓र्हव्या᳓ वह यविष्ठ या᳓ ते अद्य᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1096,10 +1170,14 @@ O Agni, whatever to-day, O offering Hotr of the people, O pure [4] and radiant o
 
 यद्यप्य् एतन्-मन्त्र-द्वयं दार्शिक-हौत्र-काण्डे समाम्नातत्वाच् चोदकाद् एव प्राप्तं, तथापि विस्पष्टार्थं पुनर्-वचनम् इति द्रष्टव्यम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ “मरुद्भ्यो गृहमेधिभ्यः सर्वासां दुग्धे सायं चरुम्” इत्य् अत्र प्रथमस्याज्यभागस्य पुरोनुवाक्याम् आह— “अग्निना रयिम् इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1107,6 +1185,8 @@ O Agni, whatever to-day, O offering Hotr of the people, O pure [4] and radiant o
 अग्नि᳓ना रयि᳓मश्ञवत्पो᳓षमेव᳓ दिवे᳓दिवे ।  
 यश᳓सव्ँवीर᳓वत्तमम् ॥    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1135,10 +1215,14 @@ Glory full of heroes.
 
 कीदृशं पोषं? यशसं कीर्ति-करं, वीरवत्तमं, वीरा अस्मदीयाः पुत्रा अन्येति वीरवान् अतिशयेन तथा-विधम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयस्याऽऽज्यभागस्य पुरोनुवाक्याम् आह— “गयस्फान इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1146,6 +1230,8 @@ Glory full of heroes.
 गयस्फा᳓नो अमीवहा᳓ वसुवि᳓त्पुष्टिव᳓र्धनः ।  
 सुमित्र᳓स्सोम नो भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1172,10 +1258,14 @@ O Soma, be a good friend to us.
 
 कानि तानि विशेषणानीति तान्य् उच्यन्ते— गयस्फानो गृहाणां वर्धयिता। अमीवहा रोगाणां हन्ता। वसुविद् धनस्य लम्भयिता। पुष्टि-वर्धनो गवादिषु पुष्टेर् वर्धयिता। सुमित्रः शोभनं यजमान-रूपं मित्रं यस्यासौ सुमित्रः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रधानस्य पुरोनुवाक्याम् आह— “गृहमेधास इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1183,6 +1273,8 @@ O Soma, be a good friend to us.
 गृ᳓हमेधास आ᳓ गत म᳓रुतो मा᳓प भूतन ।  
 प्रमुञ्च᳓न्तो नो अँ᳓हसः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1211,10 +1303,14 @@ Freeing us from tribulation.
 माऽपभूतन कदाचिद् अपि माऽपगच्छत।
 किं कुर्वन्तः? अंहसः पापान् नोऽस्मान्नोऽस्मान् प्रमुञ्चन्तः प्रकर्षेण वियोजयन्तः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्याम् आह— “पूर्वीभिर् हीति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1222,6 +1318,8 @@ Freeing us from tribulation.
 पूर्वी᳓भिर्हि᳓ ददाशिम᳓ शर᳓द्भिर्मरुतो वय᳓म् ।  
 म᳓होभिः [33]  चर्षणीना᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1246,10 +1344,14 @@ With the means [5] of mortal men.
 [[P2038]]
 हे मरुतो वयं यजमानाः पूर्वीभिर् अनादि-काल-प्रवृत्ताभिर् महोभिर् व्रीह्यादि-संपूर्णतया महनीयाभिः शरद्भिः संवत्सरैश् चर्षणीनां मनुष्याणाम् ऋत्विजां मध्ये स्थित्वा हि यस्माद् ददाशिम हविर् दद्मस् तस्माद् यूयम् इहाऽऽगच्छत।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव विकल्पिताम् अन्यां याज्याम् आह — “प्र बुध्नियेति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1257,6 +1359,8 @@ With the means [5] of mortal men.
 प्र᳓ बुध्नि᳓या ईरते वो म᳓हाँसि प्र᳓ णा᳓मानि प्रयज्यवस्तिरध्वम् ।  
 सहस्रि᳓यन्द᳓म्यम्भाग᳓मेत᳓ङ्गृहमेधी᳓यम्मरुतो जुषध्वम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1285,10 +1389,14 @@ Of the householder's offering.
 प्रयज्यवः प्रकृष्ट-याग-युक्ता यूयं नामानि ‘गृहमेधिनो मरुतः’ इत्यादीनि भवदीय-नामधेयानि प्रतिरध्वं, प्रकर्षेण लोके ख्यापयत।
 सहस्रियं सहस्रसमार्हं गृहमेधीयं, गृहमेधिनो युष्मान् उद्दिश्य दीयमानम् एतं भागं पुरोडाश-रूपं जुषध्वं सेवध्वम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव स्विष्ट-कृतः पुरोनुवाक्याम् आह— “उप यमेतीति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1296,6 +1404,8 @@ Of the householder's offering.
 उ᳓प य᳓मे᳓ति युवति᳓स्सुद᳓क्षन्दोषा᳓ व᳓स्तोर्हवि᳓ष्मती घृता᳓ची ।  
 उ᳓प स्वै᳓नमर᳓मतिर्वसूयुः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1321,10 +1431,14 @@ Rich in oblation, bearing ghee, approacheth night and morning, To him his own de
 
 एनं स्विष्टकृतम् अग्निम् अरमतिः कदाचिद् अप्य् उपरति-रहितो वसूयुर् धनम् इच्छन् यजमानः स्वा स्वकीयेन हविषोपैति प्राप्नोति सेवत इत्य् अर्थः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तत्रैव याज्याम् आह— “इमो अग्न इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1332,6 +1446,8 @@ Rich in oblation, bearing ghee, approacheth night and morning, To him his own de
 इमो᳓ अग्ने वीत᳓तमानि हव्या᳓जस्रो वक्षि देव᳓तातिम᳓च्छ ।  
 प्र᳓ति न ईँ सुरभी᳓णि वियन्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1357,10 +1473,14 @@ Let them accept our fragrant (offerings).
 हे ऽग्ने, इमो इमानि वीततमान्यतिशयेन कान्तानि हव्या हवींषि देवतातिम् अच्छ देवान् अभिप्राप्तुम् अजस्रो ऽनुपरतो वक्षि वह।
 नो ऽस्मत्-संबन्धीनि सुरभीणि सुगन्धीनि हवींषि प्रतीं प्रत्येकम् एव वियन्तु देवा भक्षयतु।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ “मरुद्भ्यः क्रीडिभ्यः पुरोडाशँ सप्तकपालं निर्वपति साकं सूर्येणोद्यता” इत्यस्य हविषः पुरोनुवाक्याम् आह— “क्रीडं वः शर्ध इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1368,6 +1488,8 @@ Let them accept our fragrant (offerings).
 क्रीडव्ँ᳓वश्श᳓र्धो मा᳓रुतमनर्वा᳓णँ रथेशु᳓भम् ।  
 [34]  क᳓ण्वा अभि᳓ प्र᳓ गायत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1396,10 +1518,14 @@ O Kanvas, do ye celebrate.
 भ्रातृव्यो वा अर्वेति श्रुत्यन्तरात्।
 रथेशुभ रथप्रेरणे समर्थम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्याम् आह—  “अत्यासो न य इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1407,6 +1533,8 @@ O Kanvas, do ye celebrate.
 अ᳓त्यासो न᳓ ये᳓ मरु᳓तस्स्व᳓ञ्चो यक्षदृ᳓शो न᳓ शुभ᳓यन्त म᳓र्याः ।  
 ते᳓ हर्म्येष्ठा᳓श्शि᳓शवो न᳓ शुभ्रा᳓ वत्सा᳓सो न᳓ प्रक्रीडि᳓नᳶ पयोधाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1439,10 +1567,14 @@ Bestowing milk, like playful calves.
 
 वत्सासो न प्रक्रीडिनः। यथाऽत्यन्त-बाल-वत्साः शीघ्रम् इतस् ततः पलायमानाः प्रकर्षेण क्रीडन्ति तथा तत्र तत्र संचरन्तः क्रीडापराः पयोधा मेघान् उत्पाद्य तेषु जल-धारिणः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव विकल्पिताम् अन्यां पुरोनुवाक्याम् आह— “प्रैषाम् अज्मेषु विथुरिति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1450,6 +1582,8 @@ Bestowing milk, like playful calves.
 प्रै᳓षाम᳓ज्मेषु विथुरे᳓व रेजते भू᳓मिर्या᳓मेषु य᳓द्ध युञ्ज᳓ते शुभे᳓ ।  
 ते᳓ क्रीड᳓यो धु᳓नयो भ्रा᳓जदृष्टयस्स्वय᳓म्महित्व᳓म्पनयन्त धू᳓तयः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1479,10 +1613,14 @@ They display their own greatness, the shakers.
 भ्राजदृष्टयो भ्राजो दीप्तिर् विद्युद्-रूपा दृष्टिर् येषां ते भ्राजदृष्टयः।
 धूतयः शत्रूणां कम्प-हेतवः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव विकल्पितां याज्याम् आह— “उपह्वरेषु यद् इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1490,6 +1628,8 @@ They display their own greatness, the shakers.
 उपह्वरे᳓षु य᳓द᳓चिध्वय्ँययिव्ँ᳓व᳓य इव मरुतᳵ के᳓न [35]  चित्पथा᳓ ।  
 श्चो᳓तन्ति को᳓शा उ᳓प वो र᳓थेष्वा᳓ घृत᳓मुक्षता म᳓धुवर्णम᳓र्चते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1532,12 +1672,15 @@ hh O Viśvakarman, with the oblation as strengthening.
 
 यूयम् अप्य् अर्चत यजमानाय मधु-वर्णं मधुर-रसोपेतं घृतं घृत-समानम् उदकम् आ समन्ताद् उक्षत सिञ्चत।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्नि᳓मग्निँ ह᳓वीमभिस्स᳓दा हवन्त विश्प᳓तिम् ।  
 हव्यवा᳓हम्पुरुप्रिय᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1565,10 +1708,14 @@ Bearer of the oblation, dear to many.
 
 कीदृशम् अग्निं? विश्पतिं प्रजानां पालकं, हव्य-वाहं देवान् प्रति हविषो वोढारं, पुरु-प्रियं पुरूणां बहूनां यजमानानां प्रीति-हेतुम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्रैव याज्याम् आह— [[P2040]] “तँ हि शश्वन्त इति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -1576,6 +1723,8 @@ Bearer of the oblation, dear to many.
 तँ᳓ हि᳓ श᳓श्वन्त ई᳓डते स्रुचा᳓ देव᳓ङ्घृतश्चु᳓ता ।  
 अग्निँ᳓ हव्या᳓य वो᳓ढवे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1602,16 +1751,22 @@ Agni to bear the oblation.
 
 किम् अर्थं? हव्याय वोढवे हविर् वोढुम्।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ यान्य् अन्यानि त्रीणि हवींष्य् आम्नातानि– “ऐन्द्राग्नम् एकादशकपालम् ऐन्द्रं चरुं वैश्वकर्मणम् एककपालम्” इति, तत्रैन्द्राग्नस्य याज्या-पुरोनुवाक्ययोः प्रतीके दर्शयति— “इन्द्राग्नी रोचनेति”।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राग्नी रोचना᳓ दिवः᳓ ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1640,6 +1795,9 @@ O Indra and Agni, the spaces of sky.
 
   इति। तत्रैन्द्राग्नस्य पुरोनुवाक्याम् आह— “इन्द्राग्नी रोचनेति”। दिवो द्यु-लोकस्य रोचना भासकौ हे इन्द्राग्नी, वाजेषु हविर्-लक्षणेष्व् अन्नेषु परि भूषथः परितः प्राप्नुतो भागम् इति शेषः। तत् तस्मात् कारणाद् वां युवयोर् वीर्यं सामर्थ्यं प्र चेति प्रकर्षेणाज्ञायि लोके सर्वैर् ज्ञातम् इत्य् अर्थः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1651,11 +1809,14 @@ O Indra and Agni, the spaces of sky.
 
   -   (टीका) तत्रैव याज्याम् आह— “श्नथद् वृत्रम् उतेति”।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्न᳓थद्वृत्र᳓म् ..  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1676,16 +1837,22 @@ Pierce Vrtra.
 
 यो यजमान इन्द्राग्नी सपर्यात् परिचरति। कीदृशाव् इन्द्राग्नी? सहुरी समानाह्वानौ। स यजमानो वृत्रं [[वरिणं|वैरिणं]] श्नथद् विनाशयति। [[उतापि|उत अपि]] [[P1966]] च वाजम् अन्नं सनोति सर्वेभ्यः प्रयच्छति। पुनर् अपि भूरेर् बहुलस्य वसव्यस्येरज्यन्ता, ईश्वरत्वं प्राप्तवन्तौ, सहसा स्वकीयेन बलेन सहस्तमातिशयेन सोढारौ पर-बलस्याभिभविताराव् इत्य् अर्थः। वाजयन्ता वाजम् अन्नम् आत्मन इच्छन्तौ। ]
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैन्द्रस्य याज्यानुवाक्ययोः प्रतीके दर्शयति— इन्द्र वा विश्वत इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ..  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1716,11 +1883,14 @@ Indra from all sides.
 
   - अथ याज्याकाण्डं वैश्वदेवमेव । तत्र 'ऐन्द्रमेकादशकपालं निर्वपेन्मारुतं सप्तकपालं ग्रामकामः' इत्यस्य द्विहविष इष्टेरैन्द्रस्य एकादशकपालस्य पुरोनुवाक्या  इन्द्रं व इति गायत्री ॥ व्याख्याता चेयम्, 'इन्द्रं वो विशतस्परि हवामहे' इत्यत्र । इह त्वस्याः प्रतीकग्रहणम् ।]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रन्न᳓रः ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1750,16 +1920,22 @@ Indra men.
 
   - तत्रैव याज्या  इन्द्रं नर इति त्रिष्टुप् ॥ इयमपि तत्रैव व्याख्याता । इह तु प्रतीकग्रहणम् । नरो मनुष्याः इन्द्रं हवन्ते आह्वयन्ति कीदृशं ? नेमधिता अर्धेन धार्यमाणं 'यत्सर्वेषामर्धमिन्द्रः प्रति' इति । कदा ? यदा पार्याः दुःखपारप्राप्तिहेतुभूताः धियः कर्माणि प्रज्ञा वा युनजते तदा इन्द्रमाह्वयन्ति । स त्वं शूरो नृषाता नृभिस्सम्भजनीयः शवसः बलाद्धेतोः चकानस्तृप्तिशीलः ईदृशस्त्वमस्मान् गोमति व्रजे गोष्ठे आभज स्थापयेति ॥]
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ वैश्वकर्मणस्य याज्यानुवाक्ययोः प्रतीके दर्शयति— “विश्वकर्मन्न् इति”। तत्र “विश्वकर्मन् हविषा वावृधान” इति पुरोनुवाक्या।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वकर्मन्हवि᳓षा वावृधानः᳓ ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1785,6 +1961,9 @@ O Viśvakarman, waxing great with the oblation.
 
   - अथ सप्तमीमृचमाह– विश्वकर्मन्निति।   हे विश्वकर्मन्नस्मदीयेने हविषा वावृधानोऽतिशयेन वर्धमानस्तनुवं जुषाणः शरीरं स्वीकुर्वाणः स्वयं यजस्व, अस्मत्तोऽन्ये सपत्ना इह कर्मणि गुह्यन्तु भ्रान्ता भवन्तु।   अस्माकं तु मधवाऽन्नयुक्तः सूरिर्विद्वान्पुत्रोऽस्तु। ]
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1796,11 +1975,14 @@ O Viśvakarman, waxing great with the oblation.
 
     अथाष्टमीमृचमाह– विश्वकर्मन्हविषेति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वकर्मन्हवि᳓षा व᳓र्धनेन ..  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1821,6 +2003,7 @@ O Viśvakarman, with the oblation as strengthening.
 
 हे विश्वकर्मन्नस्मदीयेन हविषा त्वं वर्धनेन युक्त इमं यजमानं त्रातारमन्येषां रक्षकमिन्द्रं परमैश्वर्योपेतंमवध्यं केनापि हिंसितुमशक्यमकृणोः कुरु।   तस्मै यजमानाय पूर्वीर्विशो वृद्ध्या वितत्यमानाः प्रजाः समनमन्स सम्यङ्नता एतदधीना भवन्तु।   अयं यजमान उग्रस्तीव्रशक्तिः सन्केनाप्यपरिभूतो विहव्यो विविधयागयोग्यो यथाऽसद्याथा भवति तथा कुरु। ]
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

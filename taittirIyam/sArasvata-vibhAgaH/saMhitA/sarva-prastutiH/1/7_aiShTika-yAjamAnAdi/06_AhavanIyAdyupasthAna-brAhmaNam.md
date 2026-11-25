@@ -6,9 +6,12 @@ title = "०६ आहवनीयाद्युपस्थान-ब्रा
 प्रजापतिर्ऋषिः  
 आहवनीयाद्युपस्थानमन्त्राणां (व्याख्यानम्)ब्राह्मणम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग॑न्म॒ सुव॒स्सुव॑रग॒न्मेत्या॑ह सुव॒र्गमे॒व लो॒कमे॑ति स॒न्दृश॑स्ते॒ मा छि॑त्सि॒ यत्ते॒ तप॒स्तस्मै॑ ते॒ मा वृ॒क्षीत्या॑ह यथाय॒जुरे॒वैतत् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -16,6 +19,8 @@ title = "०६ आहवनीयाद्युपस्थान-ब्रा
 "अ᳓गन्म सु᳓वस्, सु᳓वर् अगन्मे᳓"त्य् आह ।  
 सुवर्ग᳓म् एव᳓ लोक᳓म् एति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,6 +50,7 @@ verily he goes to the world of heaven.
 तत्राऽऽहवनीयोपस्थानमन्त्रस्य पूर्वभागं व्याचष्टे-  
 अगन्मेति। द्विरुक्त्याऽऽदरस्य प्रतीतेः सर्वथा प्राप्नोत्येव।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,6 +58,8 @@ verily he goes to the world of heaven.
 य᳓त् ते त᳓पस् त᳓स्मै ते मा᳓ वृक्षी᳓"त्य् आह। 
 यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,10 +88,14 @@ verily he goes to the world of heaven.
 उत्तरभागं व्याचष्टे -  
 संदृश इति। अस्मियजुषि तपःशब्ददर्शनात्तपसश्च विच्छिन्नो मा भूवमिति यत्प्रतीयत एतद्यजुरनतिक्रम्य तथैव प्रार्थ्यते। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सु॒भूर॑सि॒ श्रेष्ठो॑ रश्मी॒नामा॑यु॒र्धा अ॒स्यायु॑र्मे धे॒हीत्या॑हा॒ऽऽशिष॑मे॒वैतामा शा॑स्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -94,6 +106,8 @@ verily he goes to the world of heaven.
 
 आशि᳓षम् एवै᳓ता᳓म् आ᳓ शास्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,10 +139,14 @@ verily he invokes this blessing.
 आदित्योपस्थानमन्त्रं व्याचष्टे-  
 सुभूरसीति। आयुर्मे धेहीत्यनेनाऽऽशीः प्रतीयते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र वा ए॒षो॑ऽस्माल्लो॒काच्च्य॑वते॒ यः [25]वि॒ष्णु॒क्र॒मान्क्रम॑ते सुव॒र्गाय॒ हि लो॒काय॑ विष्णुक्र॒माᳵ क्र॒म्यन्ते॑ ब्रह्मवा॒दिनो॑ वदन्ति॒ स त्वै वि॑ष्णुक्र॒मान्क्र॑मेत॒ य इ॒माल्ँ लो॒कान्भ्रातृ॑व्यस्य सव्ँ॒विद्य॒ पुन॑रि॒मल्ँ लो॒कम्प्र॑त्यव॒रोहे॒दित्ये॒ष वा अ॒स्य लो॒कस्य॑ प्रत्यवरो॒हो यदाहे॒दम॒हम॒मुम्भ्रातृ॑व्यमा॒भ्यो दि॒ग्भ्यो॑ऽस्यै दि॒व इती॒माने॒व लो॒कान्भ्रातृ॑व्यस्य सव्ँ॒विद्य॒ पुन॑रि॒मल्ँ लो॒कम्प्र॒त्यव॑रोहति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +156,8 @@ verily he invokes this blessing.
 सुवर्गा᳓य हि᳓ लोका᳓य  
 विष्णुक्रमाᳵ᳓ क्रम्य᳓न्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,6 +187,7 @@ for from the world of heaven the steps of Visnu are taken.
 
 विष्णुक्रमणां स्वर्गार्थत्वाद्विष्णुक्रमैरस्माल्लोकात्प्रच्‍युतिर्भवति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -178,6 +199,8 @@ for from the world of heaven the steps of Visnu are taken.
 
 इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -205,6 +228,7 @@ The theologians say, 'He indeed would take the steps of Visnu who after acquirin
  
 तस्याः प्रच्‍युतेः परिहारोपायं ब्रह्मवादिनः परस्परमेवमाहुः — यो यजमानो वैरिण इमाल्ँ लोकांस्तेन संपादितान्वैरिनिःसारणेन लब्ध्वा विष्णुक्रमैः स्वर्गारोहणादूर्ध्वं पुनरिमं मनुष्यलोकं प्रत्यवरोहेत्स एव यजमानो विष्णुक्रमेषु चतुर इति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,6 +243,8 @@ The theologians say, 'He indeed would take the steps of Visnu who after acquirin
 इमा᳓न् एव᳓ लोका᳓न् भ्रा᳓तृव्यस्य **सव्ँवि᳓द्य**  
 पु᳓नर् इमल्ँ᳓ लोक᳓म् प्रत्य्-अ᳓वरोहति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,10 +273,14 @@ verily having acquired these worlds of his foe he descends again to this world.
 
 मन्त्रं व्याचष्टे- एष वा इति। इदमहमित्यादिमन्त्रमाहेति यदेष एव पाठोऽस्य भूलोकस्य संबन्धी प्रत्यवरोहः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सं [26]ज्योति॑षाऽभूव॒मित्या॑हा॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठत्यै॒न्द्रीमा॒वृत॑म॒न्वाव॑र्त॒ इत्या॑ह 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -258,6 +288,8 @@ verily having acquired these worlds of his foe he descends again to this world.
 "स᳓ञ्ज्यो᳓तिषा ऽभूवम्" इ᳓त्य् आह ।  
 अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,10 +318,14 @@ verily he rests on this world.
 आत्माभिमर्शनमन्त्रं व्याचष्टे-  
 संज्योतिषेति। एतल्लोकप्रापके(ण) ज्योतिषा संगतोऽहमित्येव मन्त्रे प्रतीयमानत्वात्। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 असौ वा आ॑दि॒त्य इन्द्र॒स्तस्यै॒वाऽऽवृत॒मनु॑ प॒र्याव॑र्तते दक्षि॒णा प॒र्याव॑र्तते॒ स्वमे॒व वी॒र्य॑मनु॑ प॒र्याव॑र्तते॒ तस्मा॒द्दक्षि॒णोऽर्ध॑ आ॒त्मनो॑ वी॒र्या॑वत्त॒रोऽथो॑ आदि॒त्यस्यै॒वाऽऽवृत॒मनु॑ प॒र्याव॑र्तते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,6 +334,8 @@ verily he rests on this world.
 असौ᳓ वा᳓ आदित्य᳓ इ᳓न्द्रः ।  
 त᳓स्यैवा᳓ऽऽवृ᳓तम् अ᳓नु पर्या᳓वर्तते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,6 +365,7 @@ verily he rests on this world.
 प्रदक्षिणावृत्तिमन्त्रं व्याचष्टे-  
 ऐन्द्रीमिति। परमैश्वर्ययोगादादित्यस्येन्द्रत्वम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -335,6 +374,8 @@ verily he rests on this world.
 
 त᳓स्माद् द᳓क्षिणो᳓ ऽर्ध आत्म᳓नो वीर्या᳙वत्तरः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,11 +406,14 @@ He turns to the right; verily he revolves round his own strength; therefore the 
 प्रदक्षिणावृत्तिं विधत्ते-  
 दक्षिणेति। दक्षिणा प्रादक्षिण्येन। द्रक्षिणभागमवस्थाप्य वामभागस्य परिभ्रमणात्प्रादक्षिण्यम्। पुरुषस्य दक्षिणाभागे सामर्थ्यातिशयसद्भावात्तदेवानुसृत्याऽऽवृत्तिः कृता भवति। यस्माद्दक्षिणभागे वीर्यं श्रुतेरभिप्रेतं तस्माल्लोकेषु सर्वेषु व्यापारेषु दक्षिणहस्तस्यैव वीर्यातिशय उपलभ्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आदित्य᳓स्यैवा᳓ऽऽवृ᳓तम् अ᳓नु पर्या᳓वर्तते।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,10 +439,14 @@ verily also he turns the turning of the sun.
 
 किंच, आदित्यो मेरुं प्रदक्षिणी करोति तदप्यत्रानुसृतं भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सम॒हम्प्र॒जया॒ सम्मया॑ प्र॒जेत्या॑हा॒शिष॑मे॒वैतामा शा॑स्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -407,6 +455,8 @@ verily also he turns the turning of the sun.
 
 आशि᳓षम् एवै᳓ता᳓म् आ᳓ शास्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -435,12 +485,16 @@ verily also he turns the turning of the sun.
 विपर्ययेणाऽऽवृत्तिमन्त्रं व्याचष्टे-  
 समहमिति। स्वयं यथा प्रजादिना संगच्छते तथा प्रजादिरपि स्वेन संगच्छत इत्येतदुभयं द्वितीयावृत्त्या प्रार्थ्यते। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 समि॑द्धो अग्ने मे दीदिहि
 समे॒द्धा ते॑ अग्ने दीद्यास॒मित्या॑ह
 यथाय॒जुरे॒वैतत् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -449,6 +503,8 @@ verily also he turns the turning of the sun.
 समेद्धा᳓  ते अग्ने दीद्यासम्" इ᳓त्य् आह ।  
 यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,10 +535,14 @@ that is according to the text.
 
 समिदाधानमन्त्रं स्पष्टार्थत्वेन व्याचष्टे - समिद्ध इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वसु॑मान् य॒ज्ञो वसी॑यान्भूयास॒मित्या॑हा॒ऽऽशिष॑मे॒वैतामा शा॑स्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +550,8 @@ that is according to the text.
 "व᳓सुमान् यज्ञो᳓ व᳓सीयान् भूयासम्" इ᳓त्य् आह ।  
 आशि᳓षम् एवै᳓ता᳓म् आ᳓ शास्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,10 +582,14 @@ verily he invokes this blessing.
 आहवनीयोपस्थानमन्त्रं व्याचष्टे-  
 वसुमानिति। वसीयानतिशयेन धनवान्। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒हु वै गार्ह॑पत्य॒स्यान्ते॑ मि॒श्रमि॑व चर्यत आग्निपावमा॒नीभ्या॒ङ्गार्ह॑पत्य॒मुप॑ तिष्ठते पु॒नात्ये॒वाग्निम्पु॑नी॒त आ॒त्मान॒न्द्वाभ्या॒म्प्रति॑ष्ठित्यै  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -531,6 +597,8 @@ verily he invokes this blessing.
 बहु᳓ वै᳓ गा᳓र्हपत्यस्या᳓न्ते मिश्र᳓म् इव चर्यते ।  
 आग्नि-पावमानी᳓भ्याङ् गा᳓र्हपत्यम् उ᳓प तिष्ठते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -558,11 +626,14 @@ Within the Garhapatya much variegated work is performed; with two verses to Agni
 विधत्ते-  
 बहु वा इति। गार्हपत्योऽजस्रं धार्यते। तथा सति एतत्संनिधौ बहुविधजन्तुपातकं संभाव्यते। अतो यजमानेन गार्हपत्यस्य समीपे पापमिश्रमिव होमादिकर्मानुष्ठीयते।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुना᳓त्य् एवा᳓ग्नि᳓म्, पुनीत᳓ आत्मा᳓नम्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +659,14 @@ verily he purifies the fire, he purifies himself;
 
 ततोऽग्न आयूंषीत्याद्याभ्यामग्निपवमानदेवकाभ्यां शुद्धिहेतुभ्यामग्न्युपस्थाने वह्नेः स्वस्य च शुद्धिर्भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓भ्याम् प्र᳓तिष्ठित्यै +++(उपतिष्ठते)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -613,12 +687,15 @@ verily he purifies the fire, he purifies himself;
 
 द्वाभ्यामिति । उपतिष्ठत इत्येव । प्रतिष्ठित्या इति । द्वित्वान्वयात् पद्भ्यामिव प्रतिष्ठितो भवति । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓ग्ने गृहपत" इ᳓त्य् आह [28]।  
 यथायजु᳓र् एवै᳓त᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,10 +724,14 @@ that is according to the text.
 अन्यमपि गार्हपत्योपस्थानमन्त्रं व्याचष्टे-  
 अग्ने गृहपत इति। तदिदं मन्त्रब्राह्मणं स्पष्टार्थं पूर्वप्रपाठके व्याख्यातं च। तत्र नाम गृह्णातीति विधिः।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श॒तँ हिमा॒ इत्या॑ह श॒तन्त्वा॑ हेम॒न्तानि॑न्धिषी॒येति॒ वावैतदा॑ह पु॒त्रस्य॒ नाम॑ गृह्णात्यन्ना॒दमे॒वैन॑ङ्करोति॒ तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒मिति॑ ब्रूया॒द्यस्य॑ पु॒त्त्रोऽजा॑त॒स्स्यात्ते॑ज॒स्व्ये॑वास्य॑ ब्रह्मवर्च॒सी पु॒त्त्रो जा॑यते॒ तामा॒शिष॒मा शा॑से॒ऽमुष्मै॒ ज्योति॑ष्मती॒मिति॑ ब्रूया॒द्यस्य॑ पु॒त्त्रः [29]जा॒तस्स्यात्तेज॑ ए॒वास्मि॑न्ब्रह्मवर्च॒सन्द॑धाति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +739,8 @@ that is according to the text.
 "शतँ᳓ हि᳓मा" इ᳓त्याह ।  
 "शत᳓न् त्वा हेमन्ता᳓न् इन्धिषीये᳓"ति वा᳓वै᳓त᳓द् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -680,12 +763,15 @@ that is according to the text.
 
 11शतं हिमा इत्यादि ॥ व्याख्यातं अग्निहोत्राग्न्य्-उपस्पाने 'सम्पश्यामि' इत्यत्र ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्र᳓स्य ना᳓म गृह्णात्य् -  
 अन्नाद᳓म् एवै᳓नङ् करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -711,6 +797,7 @@ He utters the name of his son; verily he makes him an eater of food.
 
 जातस्य पुत्रस्य त्वमुष्मा इत्यनेन विशेषनामनिर्देशो विवक्ष्यते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -719,6 +806,8 @@ He utters the name of his son; verily he makes him an eater of food.
 य᳓स्य पुत्रो᳓ऽजातस् स्या᳓त्।   
 तेजस्व्य् ए᳙वा᳓स्य ब्रह्मवर्चसी᳓ पुत्रो᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -755,6 +844,7 @@ who has no son born to him, verily is born to him a brilliant and resplendent so
 
 'पुत्रस्य नाम गृह्णाति' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -763,6 +853,8 @@ who has no son born to him, verily is born to him a brilliant and resplendent so
 य᳓स्य पुत्रो᳓ जात᳓स् स्या᳓त्।   
 ते᳓ज  एवा᳓स्मिन् ब्रह्मवर्चस᳓न् दधाति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,11 +878,14 @@ verily he bestows upon him brilliance and splendour.
 
 यज्ञविमोकमन्त्रं व्याचष्टे - यो वै यज्ञमिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ यज्ञ᳓म् प्रयु᳓ज्य न᳓ विमुञ्च᳓त्य् - अप्रतिष्ठानो᳓ वै᳓ स᳓ भवति। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -811,11 +906,14 @@ He, who having yoked the sacrifice does not let it free, becomes without a suppo
 
 1यो वै यज्ञमित्यादि ॥ गतम् । अप्रतिष्ठानः प्रतिष्ठारहितः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > क᳓स्त्वा युनक्ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -838,6 +936,7 @@ He, who having yoked the sacrifice does not let it free, becomes without a suppo
 
 प्रजापतिनैवैनं युनक्ति कस्त्वा युनक्ति स त्वा युनक्त्विति प्रजापतिरेव त्वां योक्तुमर्हति ; अतस्स एव त्वां युनक्त्विति, पूर्वं प्रजापतिनैव योगः कारितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -848,6 +947,8 @@ He, who having yoked the sacrifice does not let it free, becomes without a suppo
 प्रजा᳓पतिनैवै᳓न᳓य्ँ युन᳓क्ति ।   
 प्रजा᳓पतिना वि᳓ मुञ्चति प्र᳓तिष्ठित्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -879,6 +980,7 @@ by Prajapati he lets him free, for support.
 
 'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -888,6 +990,8 @@ by Prajapati he lets him free, for support.
 व्रत᳓म् एव᳓ [30] वि᳓ सृजते  
 शा᳓न्त्या अ᳓प्रदाहाय ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -918,6 +1022,7 @@ verily he releases his vow [6], for atonement, to prevent burning.
 
 ईश्वर वा इति। यत्व्रतं गृहीतं सन्न विसृष्टं तद्व्रतं प्रदहो यजमानं प्रदग्धुमीश्वरं समर्थम्। अग्ने व्रतपत इत्यादिमन्त्रपाठ एव व्रतविसर्गः। तेन शीतं सन्तं न दहति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -926,6 +1031,8 @@ verily he releases his vow [6], for atonement, to prevent burning.
 पु᳓नर् यो᳓ वै᳓ यज्ञ᳓स्य पुनर्-आलम्भव्ँ᳓ विद्वा᳓न् य᳓जते,  
 त᳓म् अभि᳓ नि᳓ वर्तते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -954,6 +1061,7 @@ to him who sacrifices knowing the restoration of the sacrifice it does turn back
 पुनरालम्भमन्त्रं व्याख्यातुं प्रस्तौति-  
 पराङिति। पराङ्वाव विमुख एव पुनर्न निवर्तते, पुनरालम्भमन्त्रवादिनं यजमानं प्रति तु पुनर्निवर्तते, पुनरप्यसावनुतिष्ठतीत्यर्थः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -962,6 +1070,8 @@ to him who sacrifices knowing the restoration of the sacrifice it does turn back
 एष᳓ वै᳓ यज्ञ᳓स्य पुनरालम्भः᳓ ।   
 ते᳓नैवै᳓नम् पु᳓नर् आ᳓लभते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -991,10 +1101,14 @@ this is the restoration of the sacrifice, and thereby he restores it.
 मन्त्रं व्याचष्टे-  
 यज्ञ इति। एष वै मन्त्रपाठ एव।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अन॑वरुद्धा॒ वा ए॒तस्य॑ वि॒राड्य आहि॑ताग्नि॒स्सन्न॑स॒भᳶ प॒शव॒ᳵ खलु॒ वै ब्रा॑ह्म॒णस्य॑ स॒भेष्ट्वा प्राङु॒त्क्रम्य॑ ब्रूया॒द्गोमाँ॑ अ॒ग्नेऽवि॑माँ अ॒श्वी य॒ज्ञ इत्यव॑ स॒भाँ रु॒न्धे प्र स॒हस्र॑म्प॒शूना॑प्नो॒त्यास्य॑ प्र॒जायाव्ँ॑वा॒जी जा॑यते ॥ [31]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,6 +1116,8 @@ this is the restoration of the sacrifice, and thereby he restores it.
 अ᳓नवरुद्धा वा᳓ एत᳓स्य विरा᳓ड्,  
 य᳓ आ᳓हिताग्निस् स᳓न्न् असभः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1029,11 +1145,14 @@ who having established a fire has no retinue;
 गोमतीमन्त्रं विधातुं प्रस्तौति-  
 अनवरुद्धा इति। यो यजमान आहिताग्निरपि सन्सभारहितो भवेत्, एतस्य यजमानस्य विराड्विशेषेण राजमाना स्वोचितसभा कदाचिदप्यनवरुद्धाऽस्वाधीना भवति। यागकाले सभाहीनस्य लोकव्यावहारकालेऽपि सभा न संभवेदित्यर्थः। नात्र राज्ञ इवामात्यस्वभटरूपा सभा ब्राह्मणस्योचिता, किं तर्हि यज्ञनिष्पादका द्विपदश्चतुष्पादश्च पशवोऽस्य सभा॥  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓वᳵ ख᳓लु वै᳓ ब्राह्मण᳓स्य सभा᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1062,6 +1181,7 @@ cattle indeed are the retinue of a Brahman.
 
 भूमनिन्दाप्रशंसास्विति वैयाकरणैरुक्तत्वाद्गोमानित्यादिको मतुप्प्रत्ययो बाहुल्यवाची।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1071,6 +1191,8 @@ cattle indeed are the retinue of a Brahman.
 इ᳓ति।  
 अ᳓व सभाँ᳓ रुन्धे᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1092,11 +1214,14 @@ Having sacrificed, he should step forward to the east and say, 'Rich in cattle, 
 
 द्विपादश्चतुष्पादश्च तस्मादिष्ट्वा प्राङुत्क्रम्य उदेत्य 'गोमाँ अग्ने' इत्यादिकां गोमतीमृचं ब्रूयात् जपेत्, अवरुन्धे च सभाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ सह᳓स्रम् पशू᳓न् आप्नोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1122,11 +1247,14 @@ he obtains a thousand cattle,
 
 अतः सहस्रप्राप्तिर्युक्ता। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓स्य प्रजा᳓याव्ँ वाजी᳓ जायते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1156,4 +1284,5 @@ in his offspring a strong one is born.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये प्रथमकाण्डे सप्तमप्रपाठके  
 षष्ठोऽनुवाकः॥६॥
+</details>
 </details>

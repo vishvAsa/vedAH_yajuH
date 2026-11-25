@@ -5,9 +5,12 @@ title = "४९-५१ अवभृथः (अवभृथसङ्गता म
 १-४ त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अवभृथार्थमन्तरेण चात्वालोत्कराव् उपनिष्क्रामति - उरुं हि राजेति त्रिष्टुभा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/08_uruM_hi.md">
@@ -370,9 +373,12 @@ Denn weite Bahn schuf Varuna, der König, dort für die Sonne, dass sie ihn durc
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अपो दृष्ट्वा यजमानं वाचयति - शतं ते राजन्निति त्रिष्टुभम् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/09_shataM_te.md">
@@ -755,15 +761,20 @@ Du hast an hundert, tausend Arzeneien, o König, weit und tief ist deine Güte; 
   
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अधितिष्ठति - अभिष्ठित इति विराजैकपदया ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभि᳓ष्ठितो व᳓रुणस्य पा᳓शः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -784,11 +795,15 @@ The noose of Varuna is overcome.
 
 अभिष्ठितः अभिभूय क्रान्तोस्माभिर्वरुणस्य पाशः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अप्सु बर्हिः प्रास्यति - अग्नेरनीकमिति त्रिपदया विराजा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/02_agner_anIkam.md">
@@ -836,15 +851,20 @@ In each home [1] do thou offer the kindling-stick, O Agni;
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5तत्स्रुवाहुत्याभिजुहोति - प्रति त इति त्रिष्टुभैकपदया ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति ते जिह्वा᳓ **घृत᳓म् उ᳓च्चरण्येत्**+++(=उद्विन्देत)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -865,17 +885,23 @@ Let thy tongue seek the ghee.
 
 हे अग्ने तव जिह्वा घृतं प्रतीत्य **उच्चरण्येत्** उत्क्षिप्य भक्षयतु । चरण गतौ कण्ड्वादिः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अप्सु स्रुचं प्रतिष्ठापयति - समुद्र इति त्रिष्टुभैकपदया ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रे᳓ ते हृ᳓दयम् अप्स्व् अ᳙न्तः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -896,17 +922,23 @@ In the sea is thy heart, within the waters;
 
 हे अग्ने तव हृदयं जुहूलक्षणं समुद्रे समुन्दनशीलास्वप्सु अन्तरपां मध्ये प्रतिष्ठापयामीति शेपः । 'ऊडिदम्' इत्यद्भ्यस्सप्तम्युदात्ता, 'उदात्तस्वरितयोः' इति ततः परस्यानुदात्तस्य संहितायां स्वरितत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7तामद्भिः पूरयति - सत्वेति त्रिष्टुभैकपदया ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न्त्वा विशन्त्व् ओ᳓षधीर् उता᳓ ऽऽपः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -927,11 +959,15 @@ Let the plants and the waters enter thee;
 
 हे जुहु त्वामोषधीः ओषधयस्संविशन्तु समागच्छन्तु त्वदीयेन कर्मणां सिद्धा भवन्तु । उत अपिच आपश्च साक्षादिदानीं त्वां संविशन्तु प्राप्नुवन्तु । ओषधीरिति पूर्वत्पूर्वसवर्णदीर्घः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8ता अप्सु जुहोति - यज्ञस्येति द्विपदया त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/03_yajnasya_tvA.md">
@@ -974,6 +1010,8 @@ Let us worship at the utterance of the hymn, at the utterance of homage.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अप्सु अवभृथद्रव्याण्यवकिरति - अवभृथेति । अतः पराणि यजूंषि ॥
@@ -983,11 +1021,14 @@ _______
 
 अव॑भृथ निचङ्कुण निचे॒रुर॑सि निचङ्कु॒णाव॑ दे॒वैर्दे॒वकृ॑त॒मेनो॑ऽया॒डव॒ मर्त्यै॒र्मर्त्य॑कृतमु॒रोरा नो॑ देव रि॒षस्पा॑हि 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वभृथ नि-चङ्कुण+++(←कुण् शब्दोपकरणयोः)+++! निचेरु᳓र् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1011,6 +1052,7 @@ O bath, O flood, thou glidest
 हे **निचङ्कुण** नीचैः क्वणति शब्दं करोति अवकीर्णद्रव्यद्वारेणेति निचङ्कुणः । कुणतेर् यङ्लुगन्तात्पचाद्यचि छान्दसं सम्प्रसारणम्, कुण शब्दोपकरणयोः, इत्यस्माद्वा, 'न धातुलोप आर्धधातुके' इति गुणाभावः । 'घञर्थे कविधानम्' । इति वाधिकरणे कः, निभृतशब्दकरद्रव्याधिकरणत्वात् । 
 
 **निचेरुर् असि** निभृतं चरसीति, निभृतं वा चरत्य् अस्मिन्नित्यौणादिके उप्रत्यये छान्दसमेत्वम् । अत्वरं क्रियमाणोसीत्यर्थः, निगूढचरद्रव्याभिप्रायं वा ।  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/04_nichankuNa_ava.md">
@@ -1058,6 +1100,8 @@ O flood; thou hast removed by sacrifice the sin committed by the gods, through t
 उरो᳓र् आ᳓ नो देव रिष᳓स्+++(←रिष् हिंसायां)+++ पाहि ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 guard us, O god, from wide hostility.
@@ -1077,11 +1121,15 @@ guard us, O god, from wide hostility.
 
 किञ्च - हे **देव उरोर्** विस्तीर्णात् **रिषः** हिंसितुः हिंसायां वा । रिषेः क्विबन्तात् 'सावेकाचः' इति पंचम्या उदात्तत्वम्, ऽपातौ च बहुलम्' इति तस्यास्संहितायां सत्वम् । ततो नः अस्मानापाहि **परिपाहि** ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अञ्जलिनाऽप उपवहति - सुमित्रा इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1089,6 +1137,8 @@ _______
 सु᳓मित्रा᳓ न आ᳓प ओ᳓षधयः [50] सन्तु  
 दुर्मित्रा᳓स् त᳓स्मै भूयासुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1109,17 +1159,23 @@ Be the water and plants friendly to us [2];
 
 आप ओषधयश्च नः अस्मभ्यं सुमित्रास्सन्तु शोभनं मित्रं यासाम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11द्वेष्टारं द्वेष्यं च प्रतिरुक्षति – 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दु᳓र्मित्रा᳓स् त᳓स्मै भू᳓या᳓सुः᳓ र्योऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1140,11 +1196,15 @@ be they hostile to him who hateth us and whom we hate.
 
 दुष्टं मित्रं मित्रवद्वर्तमानं यासाम् । छान्दसमन्तोदात्तत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12ऋजीषम् अप्सु प्लावयति - देवीराप इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/49-51_avabhRthaH_avabhRthasangatA_mantrAH/05_devIr_Apa.md">
@@ -1186,9 +1246,12 @@ Ye divine waters, this is thy foetus, glad and well tended have we made it for y
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अपामन्तं प्रतियौति - प्रतियुत इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,6 +1259,8 @@ _______
 प्र᳓ति-युतो+++(←यु विश्लेषणे)+++ व᳓रुणस्य पा᳓शᳶ  
 प्र᳓त्य्-अस्तो व᳓रुणस्य पा᳓शः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1218,11 +1283,15 @@ the noose of Varuna is loosed.
 प्रतियुतः प्रत्येकं पृथक्कृतः वरुणस्य पाशः ।  
 पृथक्कृत्य च प्रत्यस्तः प्रतिक्षिप्तः विनाशित इत्यर्थः । पूर्ववद्गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14प्रपथे समिधः कुर्वते - एधोसीति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
@@ -1265,6 +1334,8 @@ Thou art fuel; may we prosper;
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15आहवनीये समिधमभ्यादधाति - समिदिति ॥ 
@@ -1273,6 +1344,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒मिद॑सि॒ तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/04_samidasi_samedhiShImahi.md">
@@ -1354,9 +1426,12 @@ _______
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16आहवनीयमुपतिष्ठते - अप इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">

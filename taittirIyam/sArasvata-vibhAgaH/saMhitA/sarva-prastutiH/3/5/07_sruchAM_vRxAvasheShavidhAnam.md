@@ -4,6 +4,8 @@ title = "०७ स्रुचां वृक्षावशेषविधा
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 व॒ष॒ट्का॒रो वै गा॑यत्रि॒यै शिरो॑ऽच्छिन॒त्तस्यै॒ रस॒ᳶ परा॑पत॒त्स पृ॑थि॒वीम्प्रावि॑श॒त्स ख॑दि॒रो॑ऽभव॒द्यस्य॑ खादि॒रस्स्रु॒वो भव॑ति॒ छन्द॑सामे॒व रसे॒नाव॑ द्यति॒ सर॑सा अ॒स्याहु॑तयो भवन्ति
@@ -13,11 +15,14 @@ title = "०७ स्रुचां वृक्षावशेषविधा
 
 1अथ स्रुचां लक्षणार्थं ब्राह्मणं - वषट्कार इत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वषट्कारो᳓ वै᳓ गायत्रियै᳓ शि᳓रोऽच्छिनत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,6 +43,7 @@ The Vasat call cleft the head of the Gayatri;
 
 स्तुत्यर्थमुत्प्रेक्षेयं क्रियते । वषट्क्रियतेऽनेनेति वषट्कारः, वौषट्छब्दः, थाथादिनोत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -45,6 +51,8 @@ The Vasat call cleft the head of the Gayatri;
 स᳓ पृथिवी᳓म्प्रा᳓विशत्।  
 स᳓ खदिरो᳙ऽभवत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,12 +70,15 @@ its sap fell away, it entered the earth, it became the Khadira;
 
 तस्यै॑ । रसः॑ । परेति॑ । अ॒प॒त॒त् । सः । पृ॒थि॒वीम् । प्रेति॑ । अ॒वि॒श॒त् । सः । ख॒दि॒रः । अ॒भ॒व॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य खादिर᳓स्स्रुवो᳓ भ᳓वति ।  
 छ᳓न्दसामेव᳓ र᳓सेना᳓व द्यति  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,11 +100,14 @@ he, whose dipping-spoon is make of Khadira wood, cuts off with the sap of the me
 
 खादिर इति । बिल्वादित्वादण् । छन्दसामिति । सर्वच्छन्दःप्रकृतित्वाद्गायत्र्याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रसा अस्या᳓हुतयो भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,16 +128,22 @@ his oblations are full of sap.
 
 गतमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तृ॒तीय॑स्यामि॒तो दि॒वि सोम॑ आसी॒त्तङ्गा॑य॒त्र्याह॑र॒त्तस्य॑ प॒र्णम॑च्छिद्यत॒ तत्प॒र्णो॑ऽभव॒त्तत्प॒र्णस्य॑ पर्ण॒त्वय्ँयस्य॑ पर्ण॒मयी॑ जु॒हूः [22]  भव॑ति सौ॒म्या अ॒स्याहु॑तयो भवन्ति जु॒षन्ते॑ऽस्य दे॒वा आहु॑तीः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृती᳓यस्यामितो᳓ दिवि᳓ सो᳓म आसीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,6 +164,7 @@ Soma was in the third sky from hence;
 
 2तृतीयस्यां दिवि इतः तृतीये लोके द्युसंज्ञे सोम आसीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -152,6 +173,8 @@ Soma was in the third sky from hence;
 त᳓त्पर्णो᳙ऽभवत्  ।  
 त᳓त्पर्ण᳓स्य पर्णत्व᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,12 +198,15 @@ the Gayatri fetched it, a leaf of it was cut off, that became the Parna, that is
 
 पर्णं पत्रं सोमाभरणं रभसेनाच्छिद्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य पर्णम᳓यी जुहूः᳓ [22]  भ᳓वति ।  
 सौम्या᳓ अस्या᳓हुतयो भवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -202,11 +228,14 @@ He whose ladle is made of Parna wood [1] has his oblations acceptable;
 
 पर्णमयीति । 'नित्यं वृद्धशरादिभ्यः' इति मयट् । सौम्या इति । सोममाहरन्त्याः गायत्र्याः ऋक्पर्णात्मिकया जुह्वा हुतत्वात् । आसोमाड्ड्यण्' ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जुष᳓न्तेऽस्य देवा᳓ आ᳓हुतीः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,16 +256,22 @@ the gods rejoice in his oblation.
 
 अस्याहुतिर्देवा जुषन्ते प्रीयमाणा भजन्ते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै ब्रह्म॑न्नवदन्त॒ तत्प॒र्ण उपा॑शृणोत्सु॒श्रवा॒ वै नाम॒ यस्य॑ पर्ण॒मयी॑ जु॒हूर्भव॑ति॒ न पा॒पँ श्लोकँ॑ शृणोति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ ब्र᳓ह्मन्नवदन्त ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,11 +292,14 @@ The gods discussed regarding holy power;
 
 3ब्रह्मन् ब्रह्मविषये अवदन्त वादं कृतवन्तः । भासने आत्मनेपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त्पर्ण᳓ उ᳓पाशृणोत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,11 +315,14 @@ the Parna overheard it;
 
 तत् । प॒र्णः । उपेति॑ । अ॒शृ॒णो॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुश्र᳓वा वै᳓ ना᳓म य᳓स्य पर्णम᳓यी जुहू᳓र्भ᳓वति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,11 +338,14 @@ he whose ladle is made of Parna wood is styled famous;
 
 सु॒श्रवा॒ इति॑ सु-श्रवाः॑ । वै । नाम॑ । यस्य॑ । प॒र्ण॒मयीति॑ पर्ण-मयी॑ । जु॒हूः । भव॑ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ पापँ᳓ श्लो᳓कँ शृणोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -322,16 +366,22 @@ he hears no evil bruit.
 
 ब्रह्मवादश्रवणं पूरणवर्णात्मकजुहूसंबन्धेन पापशब्दानामश्रवणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॒ वै प॒र्णो विण्म॒रुतोऽन्नव्ँ॒विण्मा॑रु॒तो॑ऽश्व॒त्थो यस्य॑ पर्ण॒मयी॑ जु॒हूर्भव॒त्याश्व॑त्थ्युप॒भृद्ब्रह्म॑णै॒वान्न॒मव॑ रु॒न्द्धेऽथो॒ ब्रह्म॑ [23]  ए॒व वि॒श्यध्यू॑हति रा॒ष्ट्रव्ँ वै प॒र्णो विड॑श्व॒त्थो यत्प॑र्ण॒मयी॑ जु॒हूर्भव॒त्याश्व॑त्थ्युप॒भृद्रा॒ष्ट्रमे॒व वि॒श्यध्यू॑हति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म वै᳓ पर्णो᳓ वि᳓ण्मरु᳓तो᳓ऽन्नव्ँवि᳓ण्मारुतो᳙ऽश्वत्थः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,6 +402,7 @@ The Parna is holy power, the Maruts are the people, the people are food, the Aś
 
 4ब्रह्म वै पर्ण इति ॥ ब्राह्मणजातिः तदेव पर्णः ; प्रशस्तत्वसामान्यात् । विट् वैश्यजातिः, सा मरुतः; कृष्यादिप्रयासबहुलत्वात् विशोन्नत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,6 +414,8 @@ The Parna is holy power, the Maruts are the people, the people are food, the Aś
 
 अ᳓थो ब्र᳓ह्मैव᳓ विश्य᳓ध्यूहति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,11 +442,14 @@ he whose ladle is made of Parna wood, and his spoon (upabhrt) is of Aśvattha, b
 
 अपि च - विश उपरि ब्रह्माध्यूहति स्थापयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राष्ट्रव्ँ᳓ वै᳓ पर्णः᳓ , वि᳓डश्वत्थः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -409,12 +465,15 @@ The Parna is the royalty, the Aśvattha is the people;
 
 रा॒ष्ट्रम् । वै । प॒र्णः । विट् । अ॒श्व॒त्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्पर्णम᳓यी जुहू᳓र्भ᳓वति ।  
 आ᳓श्वत्थ्युपभृ᳓द्राष्ट्र᳓मेव᳓ विश्य᳓ध्यूहति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,16 +490,22 @@ in that the ladle is made of Parna wood and the spoon of Aśvattha, verily he pu
 
 यत् । प॒र्ण॒मयीति॑ पर्ण-मयी॑ । जु॒हूः । भव॑ति । आश्व॑त्थी । उ॒प॒भृदित्यु॑प-भृत् । रा॒ष्ट्रम् । ए॒व । वि॒शि । अधीति॑ । ऊ॒ह॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र॒जाप॑ति॒र्वा अ॑जुहो॒त्सा यत्राहु॑तिᳶ प्र॒त्यति॑ष्ठ॒त्ततो॒ विक॑ङ्कत॒ उद॑तिष्ठ॒त्ततᳶ॑ प्र॒जा अ॑सृजत॒ यस्य॒ वैक॑ङ्कती ध्रु॒वा भव॑ति॒ प्रत्ये॒वास्याहु॑तयस्तिष्ठ॒न्त्यथो॒ प्रैव जा॑यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर्वा᳓ अजुहोत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -461,12 +526,15 @@ Prajapati sacrificed;
 
 5प्रजापतिर्वा इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ य᳓त्रा᳓हुतिᳶ प्रत्य᳓तिष्ठत् ।  
 त᳓तो वि᳓कङ्कत उ᳓दतिष्ठत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -483,11 +551,14 @@ where the oblation found support, thence sprung the Vikankata;
 
 सा । यत्र॑ । आहु॑ति॒रित्या-हु॒तिः॒ । प्र॒त्यति॑ष्ठ॒दिति॑ प्रति-अति॑ष्ठत् । ततः॑ । विक॑ङ्कत॒ इति॒ वि-क॒ङ्क॒तः॒ । उदिति॑ । अ॒ति॒ष्ठ॒त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तᳶ प्रजा᳓ असृजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -503,12 +574,15 @@ there he created offspring;
 
 ततः॑ । प्र॒जा इति॑ प्र-जाः । अ॒सृ॒ज॒त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य वै᳓कङ्कती ध्रुवा᳓ भ᳓वति ।  
 प्र᳓त्येवा᳓स्या᳓हुतयस्तिष्ठन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,11 +604,14 @@ the oblation of him whose Dhruva, is made of Vikankata, wood finds rest;
 
 वैकङ्कती । पूर्ववदञ् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प्रै᳓व᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -550,16 +627,22 @@ verily he is propagated.
 
 अथो॒ इति॑ । प्रेति॑ । ए॒व । जा॒य॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वै स्रु॒चाँ रू॒पय्ँयस्यै॒वँरू॑पा॒स्स्रुचो॒ भव॑न्ति॒ सर्वा॑ण्ये॒वैनँ॑ रू॒पाणि॑ पशू॒नामुप॑ तिष्ठन्ते॒ नास्याप॑रूपमा॒त्मञ्जा॑यते ॥ [24]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्वै᳓ स्रुचाँ᳓ रूप᳓म् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -580,6 +663,7 @@ That is the form of the offering-spoons;
 
 6स्रुचामिति ॥ स्रुक्साहचर्यात् स्रुवोपि स्रुगिति व्यपदिश्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,6 +672,8 @@ That is the form of the offering-spoons;
 स᳓र्वाण्येवै᳓नँ रूपा᳓णि पशूना᳓मु᳓प तिष्ठन्ते ।  
 ना᳓स्या᳓परूपमात्म᳓ञ्जायते ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -612,4 +698,5 @@ on him whose spoons are so formed all forms of cattle attend, nothing unshapely 
 नास्येति । अस्य यजमानस्य आत्मन् शरीरे अपरूपं रूपशून्यं न जायते रूपवानेव भवतीति ॥
 
 इति तृतीये पञ्चमे सप्तमोनुवाकः ॥  
+</details>
 </details>

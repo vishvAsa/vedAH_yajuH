@@ -2,6 +2,8 @@
 title = "०९ वसोर्धारा होममन्त्राः"
 +++
 अग्निर्ऋषिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निश्च॑ मे घ॒र्मश्च॑ मे॒ऽर्कश्च॑ मे॒ सूर्य॑श्च मे प्रा॒णश्च॑ मेऽश्वमे॒धश्च॑ मे पृथि॒वी च॒ मेऽदि॑तिश्च मे॒ दिति॑श्च मे॒ द्यौश्च॑ मे॒ शक्व॑रीर॒ङ्गुल॑यो॒ दिश॑श्च मे य॒ज्ञेन॑ कल्पन्ता॒मृक्च॑ मे॒ साम॑ च मे॒ स्तोम॑श्च मे॒ यजु॑श्च मे दी॒क्षा च॑ मे॒ तप॑श्च म ऋ॒तुश्च॑ मे व्र॒तञ्च॑ मेऽहोरा॒त्रयो॑र्वृ॒ष्ट्या बृ॑हद्रथन्त॒रे च॑ मे य॒ज्ञेन॑ कल्पेताम्  [16]  
@@ -12,11 +14,14 @@ title = "०९ वसोर्धारा होममन्त्राः"
 (अथ चतुर्थाष्टके सप्तमप्रपाठके नवमोऽनुवाकः)।  
 नवममाह– अग्निश्च म इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ May the fire for me (prosper through the sacrifice);
 
 अग्निश्चीयमानो वह्निः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घर्म᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ May the cauldron for me (prosper through the sacrifice);
 
 धर्मः प्रवर्ग्यः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्क᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ May the beam for me (prosper through the sacrifice);
 
 इन्द्रायार्क वंते पुरोडाशमिति विहितो यागोऽर्कः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्यश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +126,14 @@ May the sun for me (prosper through the sacrifice);
 
 सौर्यं चरुमिति विहितो यागः सूयः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓श्च मे +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +154,14 @@ May breath for me (prosper through the sacrifice);
 
 प्राणाय स्वाहेति विहितो होमःप्राणः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वमेध᳓श्च  मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,6 +182,7 @@ May the horse sacrifice for me (prosper through the sacrifice);
 
 अश्वमेधः प्रसिद्धः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -170,6 +191,8 @@ May the horse sacrifice for me (prosper through the sacrifice);
 दि᳓तिश्च मे  +++(कल्पताम्)+++ ।  
 द्यौ᳓श्च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -193,11 +216,14 @@ May earth, Aditi, Diti, sky (prosper through the sacrifice);
 
 पृथिव्यादयो देवताविशेषाः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓क्वरीः +++(मे᳓ यज्ञे᳓न कल्पन्ताम्  )+++  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -218,11 +244,14 @@ May the Sakvari verses prosper for me through the sacrifice;
 
 शक्वरीः शक्वर्यः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गु᳓लयः +++(मे᳓ यज्ञे᳓न कल्पन्ताम्  )+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,11 +272,14 @@ May the fingers prosper for me through the sacrifice;
 
 अङ्गुलयोऽङ्गुलिवद्विराट्पुरुषस्यावयवविशेषाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दि᳓शश्च मे यज्ञे᳓न कल्पन्ताम्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -269,12 +301,15 @@ May the quarters prosper for me through the sacrifice;
 दिशः प्राच्याद्याः चशब्दाद्विदिशोऽपि ।  
 ताः सर्वा मे मदीयेन यज्ञेन कल्पन्तां स्वस्वव्यापारसमर्था भवन्तु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋ᳓क्च मे  +++(कल्पताम्)+++ ।  
 सा᳓म च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,12 +331,15 @@ May the Rc, the Saman (prosper through the sacrifice);
 
 ऋगादयो मन्त्रविशेषाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तो᳓मश्च मे  +++(कल्पताम्)+++ ।  
 य᳓जुश्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -323,11 +361,14 @@ May the hymn tune, the Yajus (prosper through the sacrifice);
 
 स्तोमः सामावृत्तिरूपं स्तोत्रम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓ च मे  +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -348,11 +389,14 @@ May consecration (prosper through the sacrifice);
 
 दीक्षा यजमानसंस्कारः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पश्च मे +++(कल्पताम्)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,11 +417,14 @@ May penance (prosper through the sacrifice);
 
 तपः पापक्षयार्थमनशनादि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓श्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -398,11 +445,14 @@ May the season (prosper through the sacrifice);
 
 ऋतुर्यज्ञाङ्गभूतः कालः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रत᳓ञ्च मे +++(कल्पताम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -423,11 +473,14 @@ May the vow prosper through the sacrifice;
 
 व्रतमेकस्तनादि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्र᳓योर्वृष्ट्या᳓ +++(कल्पताम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -448,11 +501,14 @@ May (prosperity come) through the rain of day and night;
 
 अहोरात्रयोः संबन्धिनी या वृष्टिस्तया मदीयं सस्यं कल्पतामिति शेषः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहद्रथन्तरे᳓ च मे यज्ञे᳓न कल्पेताम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,6 +531,7 @@ May the Brhat and Rathantara prosper for me through the sacrifice.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे सप्तमप्रपाठके  नवमोऽनुवाकः ॥  
 ९ ॥  
+</details>
 </details>
 
 चतुर्थाष्टके सप्तमप्रपाठके दशमोऽनुवाकः

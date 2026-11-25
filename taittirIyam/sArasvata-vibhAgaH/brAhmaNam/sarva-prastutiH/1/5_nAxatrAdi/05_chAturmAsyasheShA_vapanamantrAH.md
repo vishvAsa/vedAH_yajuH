@@ -15,6 +15,8 @@ unicode_script: devanagari
 ऋते᳓ भू᳓मिर् इयँ᳓ श्रिता᳓ ।   +++(अत्र टीकायां गायत्रीछन्द इत्युक्तम् । त्रिपाद्याः कथं चतुर्थपादयोजना इति न स्पष्टम् - सम्पादकीयम्)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तम् ए॒व प॑रमे॒ष्ठि ।  
@@ -33,6 +35,7 @@ unicode_script: devanagari
 
 1 ऋतमित्यादि ॥ गायत्र्यः । ऋतं यज्ञः तत् एव परमेष्ठि परमे महिम्नि तिष्ठति । यद्वा - तदेव प्रजापतिः । ऋतं नात्येति नातिक्रामति किंचन किञ्चिदपि ऋतं एव सर्वं भूतम् । समुद्रोपि ऋते आहितः अवस्थितः । इयं च भूमिः ऋते स्थिता सर्वोत्पादकत्वाद्यज्ञस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -40,6 +43,8 @@ unicode_script: devanagari
 त᳓प आ᳓क्रान्तम् उष्णि᳓हा ।   
 शि᳓रस् त᳓पस्या᳓हितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +62,7 @@ unicode_script: devanagari
 
 2 अग्निरिति ॥ अयं अग्निः तिग्मेन निशितेन शोचिषा तेजसा इत्थंभूतः । अङ्गनादिमान् आयसे निशितः क्षुर उच्यते । किञ्च - तपः तप्ताङ्गोऽयःक्षुरः उष्णिहा त्रिपदया त्रेण्या शलल्या आक्रान्तं अधिष्ठितः । किञ्च - अस्मिन् तपसि क्षुरे अस्य यजमानस्य शिर आहितं तदधीनत्वात् शिरस्संस्कारस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -64,6 +70,8 @@ unicode_script: devanagari
 ऋते᳓नास्य नि᳓ वर्तये ।  
 सत्ये᳓न प᳓रि वर्तये  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -82,6 +90,7 @@ unicode_script: devanagari
 3 वैश्वानरस्येति ॥ वैश्वानरस्य विश्वेषां नराणां सम्बधिनोऽग्नेः तेजसा तेजःपरिणामेन त्रेण्या ऋतेन सत्येन सेचनादिना अस्य केशान् निवर्तये आवप्तव्येभ्यः पृथक्करोमि ।
 सत्येन स्वकार्याव्यभिचारिणा अनेन क्षुरेण केशान् परिवर्तये परिवापयामि । परिवापणं मद्राकरणम् । यथा 'मद्रात् परिवापणे'इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -89,6 +98,8 @@ unicode_script: devanagari
 शिवे᳓नास्यो᳓प वर्तये ।   
 शग्मे᳓नास्याभि᳓ वर्तये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,16 +119,22 @@ unicode_script: devanagari
 अस्य क्षुरस्य शिवेन सुखहेतुना रूपेण उपवर्तये उप्तानुप्तसमीकरणाय उप्तसमीपे वर्तयामि ।  
 अस्य क्षुरस्य शग्मेन शक्तिविशेषेण अभिवर्तये उपरि वर्तये । अभिरूपत्वाय वा श्लक्ष्णीकरोमि उप्तकेशं प्रदेशम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5 निवर्त्यमाने यजमानो जपति - तदृतमित्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् ऋत᳓न् ,त᳓त् सत्य᳓न्, त᳓द् व्रत᳓न्, त᳓च् छकेयन्,  ते᳓न शकेयन् , ते᳓न राध्यासम् ॥ 21 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,10 +155,14 @@ unicode_script: devanagari
 तादृशं तत् कर्म शकेयं निर्वोढुं समर्थो भूयासम् ।   
 तेन अनेन शकेयं अभिमतं फलं साधयितुं समर्थो भूयासं तेन चानेन राध्यासं बुद्धिमान् भूयासम् । शकेराशिषि लिङि 'लिङ्याशिष्यङ्'॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6 वरुणप्रघासेषु पूर्ववत् निवर्तनं, सर्वं वापयेत्, मन्त्रादिर्विक्रियते - यत्घर्म इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -152,6 +173,8 @@ unicode_script: devanagari
 व᳓रुणो धीति᳓भिस् सह᳓ ।  +++(८ अक्षराणि)+++  
 इ᳓न्द्रो मरु᳓द्भिस् स᳓खिभिस् सह᳓ । +++(१० अक्षराणि)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +197,7 @@ unicode_script: devanagari
 अग्निरीशानः समर्थः ओजसा तयोरन्तान् पर्यवर्तयत् । वरुणश्च धीतिभिः उदकव्यापारैः सह तयोरन्तान् पर्यवर्तयत् ।
 इन्द्रश्च मरुद्भिः सखिभिः समानख्यानैः सह तयोरन्तान् पर्यवर्तयत् यस्मादेवं तेऽप्यकुनर्वन् तस्मादहमपि अग्निस्तिग्मेनेति । समानं पूर्वेण ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -181,6 +205,8 @@ unicode_script: devanagari
 त᳓प आ᳓क्रान्तम् उष्णि᳓हा ।  
 शि᳓रस् त᳓पस्या᳓हितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -193,6 +219,7 @@ unicode_script: devanagari
 
 अग्निः᳓ । तिग्मे᳓न । शोचि᳓षा । त᳓पः । आ᳓-क्रान्तम् । उष्णि᳓हा । शि᳓रः । त᳓पसि । आ᳓-हितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -200,6 +227,8 @@ unicode_script: devanagari
 ऋते᳓नास्य नि᳓ वर्तये ।  
 सत्ये᳓न प᳓रि वर्तये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +241,7 @@ unicode_script: devanagari
 
 वैश्वानर᳓स्य । ते᳓जसा । ऋते᳓न । अस्य । नि᳓ । वर्तये । सत्ये᳓न । प᳓रि । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -219,6 +249,8 @@ unicode_script: devanagari
 शिवे᳓नास्यो᳓प वर्तये ।   
 शग्मे᳓नास्याभि᳓ वर्तये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,11 +263,14 @@ unicode_script: devanagari
 
 त᳓पसा । अस्य । अ᳓नु । वर्तये । शिवे᳓न । अस्य । उ᳓प । वर्तये । शग्मे᳓न । अस्य । अभि᳓ । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् ऋत᳓न् ,त᳓त् सत्य᳓न्, त᳓द् व्रत᳓न्, त᳓च् छकेयन्,  ते᳓न शकेयन् , ते᳓न राध्यासम् ॥  22 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -248,10 +283,14 @@ unicode_script: devanagari
 
 त᳓त् । ऋत᳓म् । त᳓त् । सत्य᳓म् । त᳓त् । व्रत᳓म् । त᳓त् । शकेयम् । ते᳓न । शकेयम् । ते᳓न । राध्यासम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7 अथ साकमेधेषु पूर्ववन्निवर्तनादीनि । मन्त्रादिस्तु विक्रियते यो अस्या इति । पङ्क्तिः ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -262,6 +301,8 @@ unicode_script: devanagari
 व᳓रुणो धीति᳓भिस् सह᳓ ।   
 इ᳓न्द्रो मरु᳓द्भिस् स᳓खिभिस् सह᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,6 +323,7 @@ unicode_script: devanagari
 यो अस्याः पृथिव्याः त्वचि उपरि प्ररूढामौषधिं (ढा ओषधीः) निवर्तयति दाहेन परिवापयति वा ।  
 अग्निरीशान इत्यादि ॥ समानम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -289,6 +331,8 @@ unicode_script: devanagari
 त᳓प आ᳓क्रान्तम् उष्णि᳓हा ।  
 शि᳓रस् त᳓पस्या᳓हितम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -301,6 +345,7 @@ unicode_script: devanagari
 
 अग्निः᳓ । तिग्मे᳓न । शोचि᳓षा । त᳓पः । आ᳓-क्रान्तम् । उष्णि᳓हा । शि᳓रः । त᳓पसि । आ᳓-हितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -308,6 +353,8 @@ unicode_script: devanagari
 ऋते᳓नास्य नि᳓ वर्तये ।  
 सत्ये᳓न प᳓रि वर्तये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -320,6 +367,7 @@ unicode_script: devanagari
 
 वैश्वानर᳓स्य । ते᳓जसा । ऋते᳓न । अस्य । नि᳓ । वर्तये । सत्ये᳓न । प᳓रि । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -327,6 +375,8 @@ unicode_script: devanagari
 शिवे᳓नास्यो᳓प वर्तये ।   
 शग्मे᳓नास्याभि᳓ वर्तये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -339,11 +389,14 @@ unicode_script: devanagari
 
 त᳓पसा । अस्य । अ᳓नु । वर्तये । शिवे᳓न । अस्य । उ᳓प । वर्तये । शग्मे᳓न । अस्य । अभि᳓ । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् ऋत᳓न् ,त᳓त् सत्य᳓न्, त᳓द् व्रत᳓न्, त᳓च् छकेयन्,  ते᳓न शकेयन् , ते᳓न राध्यासम् ॥ 23 ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +409,7 @@ unicode_script: devanagari
 
 त᳓त् । ऋत᳓म् । त᳓त् । सत्य᳓म् । त᳓त् । व्रत᳓म् । त᳓त् । शकेयम् । ते᳓न । शकेयम् । ते᳓न । राध्यासम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -364,6 +418,8 @@ unicode_script: devanagari
 ते᳓नाभ्यो म᳓ह आ᳓वहत् ।  
 अमृ᳓तम् म᳓र्त्याभ्यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +438,7 @@ unicode_script: devanagari
 
 8 अथ शुनासीरिये निवर्तनादि पूर्ववत् । मन्त्रादिविकारस्तु - एकं मासमिति । तिस्रोऽनुष्टुभः ॥ अष्टपदाष्टिर्वा द्वितीया । एकं मासं कालांशं परमेष्ठी प्रजाभ्यः उदसृजत् उत्सृष्टमकरोत् पुत्रादिसाधारणत्वात् । यमुदसृजत् तेन कालेन आभ्यः मर्त्याभ्यो मरणशीलाभ्यः महो महत् महनीयं वा अमृतं अमृतत्वं आवहत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -390,6 +447,8 @@ unicode_script: devanagari
 ये᳓न मा᳓सा अर्ध-मासाः᳓ ।  
 ऋत᳓वᳶ परिवत्सराः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +467,7 @@ unicode_script: devanagari
 
 किं पुनस्तदित्याह - प्रजामनु प्रजया सह प्रजायसे । तृतीयार्थेऽनोः कर्मप्रवचनीयत्वम् । हे मर्त्य! यजमान! मरणधर्मन् । ते तव तदु तदेव अमृतं अमृतत्वम् । न हि म्रियसे पुत्रपौत्रनप्त्रादिभावेन त्वमेवावतिष्ठसे । तस्मात्तं कालमेव प्रजाभ्य उदसृजत् उत्सृज्य चामृतत्वमावहद्येन परमेष्ठी ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -416,6 +476,8 @@ unicode_script: devanagari
 ते᳓नाह᳓म्  अस्य᳓ ब्र᳓ह्मणा ।   
 नि᳓वर्तयामि जीव᳓से ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,6 +496,7 @@ unicode_script: devanagari
 
 अथ हे प्रजापते! तासां प्रजानां तादृशामृतत्वभाजां पते! ते च मासादयो येन ते तव ईजानस्य इष्टवतो न्यवर्तयन् तेन तादृशेन प्रशस्तेन ब्रह्मणा मन्त्रेण कर्मणा वा अस्य यजमानस्य निवर्तयामि जीवसे जीवयितुं यथोक्तामृतत्वलक्षणं प्राजापत्यमप्यायुरस्य यथा स्यादिति अयुष्यमिदं कर्म करोमि -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -441,6 +504,8 @@ unicode_script: devanagari
 त᳓प आ᳓क्रान्तम् उष्णि᳓हा ।   
 शि᳓रस् त᳓पस्या᳓हितम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +518,7 @@ unicode_script: devanagari
 
 अग्निः᳓ । तिग्मे᳓न । शोचि᳓षा । त᳓पः । आ᳓-क्रान्तम् । उष्णि᳓हा । शि᳓रः । त᳓पसि । आ᳓-हितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -460,6 +526,8 @@ unicode_script: devanagari
 ऋते᳓नास्य नि᳓ वर्तये ।   
 सत्ये᳓न प᳓रि वर्तये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -472,6 +540,7 @@ unicode_script: devanagari
 
 वैश्वानर᳓स्य । ते᳓जसा । ऋते᳓न । अस्य । नि᳓ । वर्तये । सत्ये᳓न । प᳓रि । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -479,6 +548,8 @@ unicode_script: devanagari
 शिवे᳓नास्यो᳓प वर्तये ।   
 शग्मे᳓नास्याभि᳓ वर्तये ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,11 +562,14 @@ unicode_script: devanagari
 
 त᳓पसा । अस्य । अ᳓नु । वर्तये । शिवे᳓न । अस्य । उ᳓प । वर्तये । शग्मे᳓न । अस्य । अभि᳓ । वर्तये ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् ऋत᳓न् त᳓त् सत्य᳓न् , त᳓द् व्रत᳓न् , त᳓च् छकेयन्, ते᳓न शकेयन् , ते᳓न राध्यासम् ॥ 24 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -514,4 +588,5 @@ unicode_script: devanagari
 अग्निस्तिग्मेनेति । समानं परम् ॥
 
 इति पञ्चमे पञ्चमोऽनुवाकः ॥  
+</details>
 </details>

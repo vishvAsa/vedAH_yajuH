@@ -2,6 +2,8 @@
 title = "१० वाजप्रसवीयादि"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 १-३ त्रिष्टुप् जगती वा
@@ -13,6 +15,7 @@ title = "१० वाजप्रसवीयादि"
 
 1सप्त वाजप्रसवीयान् जुहोति - वाजस्येति ॥  
 तत्राद्यास्तिस्रस्त्रिष्टुभः, अन्त्या अनुष्टुभः ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
@@ -58,9 +61,12 @@ May we as Purohitas watch over the kingship.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
@@ -149,9 +155,12 @@ And may he accord us wealth [1] with all heroes.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ चतुर्थी - अग्न इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/05_agne_achChA.md">
@@ -199,9 +208,12 @@ Thou art the giver of wealth to us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ पञ्चमी - प्र ण इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/06_pra_No.md">
@@ -247,9 +259,12 @@ May the goddess speech be bountiful to us.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6षष्ठी - अर्यमणमिति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
@@ -295,9 +310,12 @@ And Savitr the strong.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सप्तमी - सोममिति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
@@ -344,6 +362,7 @@ And Brhaspati, the Brahman (priest).
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -354,8 +373,10 @@ And Brhaspati, the Brahman (priest).
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याँ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
@@ -394,6 +415,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +424,8 @@ ______________
 यन्तु᳓र् यन्त्रे᳓ण᳓
 अ᳓ग्ने᳓स् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -423,12 +447,15 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 
 सरस्वत्यै सरस्वत्याः । षष्ठ्यर्थे चतुर्थी ॥ सरस्वत्या वाचस्सम्बन्धिना यन्तुर्यन्त्रेण यन्तुरप्यन्यस्य यन्त्रणेन यमनेन । सामान्येन वा विवक्ष्यते, यन्त्र्याः वाचस्सरस्वत्याः यन्त्रणेन अग्नेश्च साम्राज्येन त्वामभिषिञ्चामि । सङ्गतं राजतीति सम्राट्, 'मो राजि समः क्वौ', 'गुणवचनब्राह्मणादिभ्यः' इति ष्यञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य सा᳓म्राज्येनाभि᳓षिञ्चामि ॥  
 बृ᳓हस्प᳓तेस् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -453,6 +480,6 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 
 इति सप्तमे दशमोनुवाकः ॥
 </details>
-
+</details>
 </div>
 

@@ -6,15 +6,20 @@ title = "०५ अभ्युदयेष्टिः"
 
 ## सोम-याज्य्-अधिकारः  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नासो॑मयाजी॒ सन्न॑ये॒दना॑गतव्ँ॒वा ए॒तस्य॒ पयो॒ योऽसो॑मयाजी॒ यदसो॑मयाजी स॒न्नये॑त्परिमो॒ष ए॒व सोऽनृ॑तङ्करो॒त्यथो॒ परै॒व सि॑च्यते सोमया॒ज्ये॑व सन्न॑येत् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓सोमयाजी स᳓न्नयेत् +++(अमावास्यासु दधि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -40,11 +45,14 @@ No one who is not a Soma sacrificer should offer the Samnayya.
 
 तत्र तावत्सांनाय्याधिकारिणं विविनक्ति-  **नासोमयाजीति।** सोमयागात्पुरा दर्शयागी सांनाय्यं नानुतिष्ठेत्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓नागतव्ँ वा᳓ एत᳓स्य प᳓यो यो᳓ऽसोमयाजी।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,6 +78,7 @@ For the milk of him who is not a Soma sacrificer is imperfect,
 
 असोमयाजिनः पयोऽनागतमप्राप्त। सोमस्यौषधिरसत्वेन तदभावे सत्योषधिरसविशेषस्य पयसः सुतरामभावात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,6 +86,8 @@ For the milk of him who is not a Soma sacrificer is imperfect,
 परिमोष᳓ एव᳓ सो᳓ ऽनृतङ् करोति ।  
 अ᳓थो प᳓रैव᳓ सिच्यते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,11 +120,14 @@ and (his milk) is poured forth in vain.
 
 एवं सति यद्यसोमयाजी संनयेत्तर्ह्यसौ परिमोष एव तस्कर एव सन्ननृतं करोत्यन्याय्यं करोति। अपि च वह्नौ सिच्यमानं तत्सांनाय्यमन्वाय्यत्वात्परैव सिच्यते विनाश्यत एव।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमयाज्ये᳙व᳓ स᳓न्नयेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,10 +153,14 @@ A Soma sacrificer only should offer the Samnayya.
 
 तस्मात्सोमयाज्येव संनयेत्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पयो॒ वै सोम॒ᳶ पय॑स्सान्ना॒य्यम्पय॑सै॒व पय॑ आ॒त्मन्ध॑त्ते  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -151,6 +169,8 @@ A Soma sacrificer only should offer the Samnayya.
 प᳓यस् सान्नाय्य᳓म्।  
 प᳓यसैव᳓ प᳓य आत्म᳓न् धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,6 +203,7 @@ verily with milk he places milk in himself.
 
 वि वा ए॒तम्प्र॒जया॑ प॒शुभि॑रर्धयति व॒र्धय॑त्यस्य॒ भ्रातृ॑व्यय्ँ॒यस्य॑ ह॒विर्निरु॑प्तम्पु॒रस्ता॑च्च॒न्द्रमाः॑ [27]  अ॒भ्यु॑देति॑ त्रे॒धा त॑ण्डु॒लान्वि भ॑जे॒द्ये म॑ध्य॒मास्स्युस्तान॒ग्नये॑ दा॒त्रे पु॑रो॒डाश॑म॒ष्टाक॑पालङ्कुर्यात्  
 </details>
+</details>
 
 ## अभ्युदयः  
 
@@ -193,6 +214,8 @@ verily with milk he places milk in himself.
 य᳓स्य हवि᳓र् नि᳓रुप्तम् पुर᳓स्ताच् चन्द्र᳓मा **अभ्यु᳙दे᳓ति** ।
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,6 +344,7 @@ on whose sacrifice, when offered, it rises in the east [1].
 ततः प्रतीक्ष्यमाणश् चन्द्रमाः पूर्वस्यां दिशि अभ्युदेति।  
 चन्द्र एतं यजमानं प्रजया पशुभिश्च व्यर्धयत्य्, एवास्य भ्रातृव्यं च वर्धयति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -332,6 +356,8 @@ on whose sacrifice, when offered, it rises in the east [1].
 ये᳓ऽणिष्ठास् ता᳓न् वि᳓ष्णवे शिपि+++(=किरण, गो)+++-विष्टा᳓य शृते᳓ चरु᳓म्
  । ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -395,10 +421,14 @@ the smallest (he should give) as a mess in boiled (milk) to Visnu Śipivista.
 
 विभज्य च दात्रादि-गुणकाग्न्य्-आदि-देवताभ्यो हविः कुर्यात्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अग्निरे॒वास्मै॑ प्र॒जाम्प्र॑ज॒नय॑ति वृ॒द्धामिन्द्र॒ᳶ प्र य॑च्छति य॒ज्ञो वै विष्णुᳶ॑ प॒शव॒श्शिपि॑र्य॒ज्ञ ए॒व प॒शुषु॒ प्रति॑ तिष्ठति  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +436,8 @@ the smallest (he should give) as a mess in boiled (milk) to Visnu Śipivista.
 अग्नि᳓र् एवा᳓स्मै प्रजा᳓म् प्रजन᳓यति +++(←चादिषु च)+++।  
 वृद्धा᳓म् इ᳓न्द्रᳶ प्र᳓ यच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -429,6 +461,7 @@ Indra gives it in crease;
 
 5अग्निरेवेत्यादि ॥ गतम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -436,6 +469,8 @@ Indra gives it in crease;
 पश᳓वश् शि᳓पिः ।  
 यज्ञ᳓ एव᳓ पशु᳓षु प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,12 +497,16 @@ verily on the sacrifice and cattle he rests.
 
 पशवश्शिपिरिति । शिपयो रश्मयः तैर्विशिष्टः प्रविष्टः **शिपिविष्टः** । निर्वेष्टितशेपश्शिपिविष्टः । इत्यन्ये । तत्र पशुहेतुत्वात् ताच्छब्द्यम् । यज्ञे पशुषु च प्रतिष्ठितो भवतीत्येव ॥  
 </details>
+</details>
 
 ## सुमना  
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 न द्वे [28]  य॒जे॒त॒ यत्पूर्व॑या सम्प्र॒ति यजे॒तोत्त॑रया छ॒म्बट्कु॑र्या॒द्यदुत्त॑रया सम्प्र॒ति यजे॑त॒ पूर्व॑या छ॒म्बट्कु॑र्या॒न्नेष्टि॒र्भव॑ति॒ न य॒ज्ञस्तदनु॑ ह्रीतमु॒ख्य॑पग॒ल्भो जा॑यत॒ एका॑मे॒व य॑जेत प्रग॒ल्भो॑ऽस्य जाय॒तेऽना॑दृत्य॒ तद्द्वे ए॒व य॑जेत यज्ञमु॒खमे॒व पूर्व॑या॒लभ॑ते॒ यज॑त॒ उत्त॑रया दे॒वता॑ ए॒व पूर्व॑यावरु॒न्द्ध इ॑न्द्रि॒यमुत्त॑रया देवलो॒कमे॒व [29]  पूर्व॑याभि॒जय॑ति मनुष्यलो॒कमुत्त॑रया॒ भूय॑सो यज्ञक्र॒तूनुपै॑त्ये॒षा वै सु॒मना॒ नामेष्टि॒र्यम॒द्येजा॒नम्प॒श्चाच्च॒न्द्रमा॑ अ॒भ्यु॑देत्य॒स्मिन्ने॒वास्मै॑ लो॒केऽर्धु॑कम्भवति  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +521,8 @@ verily on the sacrifice and cattle he rests.
 न᳓ यज्ञः᳓।  
 त᳓द् अ᳓नु ह्रीत-मुख्य् अ᳙पगल्भो᳓ जायते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -549,12 +590,15 @@ for that cause a son is born shamefaced and retiring.
 तैः पृष्टः सन्नुत्तरं वक्तुं न प्रगल्भो भवेत्।
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ए᳓काम् एव᳓ यजेत ।  
 प्रगल्भो᳙ऽस्य जायते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -584,6 +628,7 @@ a valiant son is born to him.
 अस्य यजमानस्य पुत्रोऽपि सभायां प्रगल्भो जायते।  
 किमु वक्तव्यमयमिति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -599,6 +644,8 @@ a valiant son is born to him.
 देवलोक᳓म् एव᳓ पू᳓र्वयाऽभिज᳓यति,  
 मनुष्यलोक᳓म् उ᳓त्तरया ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -642,12 +689,15 @@ the world of men with the second;
 **उत्तरया** सम्यगनुष्ठितया प्रकृतयज्ञसंपूर्तिर् इन्द्रियावरोधो मनुष्यलोकजयश्चेति संपद्यते त्रीणि प्रयोजनानि।  
 अतो नैकस्या अपि वैयर्थ्यम् नापीष्टियज्ञत्वयोरभावः, प्रत्येकमिष्टित्त्रेऽपि संमूहितस्य प्रौढयज्ञत्वात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓यसो यज्ञक्रतू᳓न् उ᳓पैति ।  
 एषा᳓ वै᳓ सुम᳓ना ना᳓मे᳓ष्टिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -721,6 +771,7 @@ This offering is called 'the friendly';
 
 अत एतदनुष्ठानेन भूयसो बहुतेकाहाहीनसत्ररूपान्यज्ञक्रतूनुपैति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -728,6 +779,8 @@ This offering is called 'the friendly';
 अस्मि᳓न्न् एवा᳓स्मै लोके᳓ ऽर्धुकम् भवति  ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,18 +805,24 @@ after he has sacrificed on that day.
 
 किंचाद्य द्वितीयायामिष्टवन्तं यजमानमभिलक्ष्य पश्चाच्चन्द्रमा अभ्युदेति तस्येयमिष्टिर्नाम्ना सुमना इत्युच्यते। वर्धिष्णुचन्द्रोदयस्य सौमनस्यहेतुत्वात्। ततोऽस्मिन्नेव लोके तस्य समृद्धिर्धनं भवति।  
 </details>
+</details>
 
 ## स्वर्गकामस्य दाक्षायणयज्ञः  
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दाक्षायणय॒ज्ञेन॑ सुव॒र्गका॑मो यजेत पू॒र्णमा॑से॒ सन्न॑येन्मैत्रावरु॒ण्याऽऽमिक्ष॑यामावा॒स्या॑याय्ँयजेत  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दाक्षायण-यज्ञे᳓न सुवर्ग᳓-कामो यजेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -789,12 +848,15 @@ He who desires heaven should sacrifice with the Daksayana sacrifice.
 
 यथेयं सुमना नामेष्टिर् दर्शपूर्णमासयोर् गुणविकृतिस्थेवान्यां गुणविकृतिं विधत्ते- **दाक्षायणयज्ञेनेति।**  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(द्वे)+++ पूर्ण᳓मासे स᳓न्नयेन् मैत्रावरुण्या᳓ ।  
 +++(द्वे)+++ आमि᳓क्षया ऽमावास्या᳙याय्ँ यजेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -829,16 +891,22 @@ on the new moon he should sacrifice with clotted curds for Mitra and Varuna.
 
 तत्रोत्तरस्यां पौर्णमास्यामुत्तरस्याममावास्यायां चैकैकं विधत्ते-  **पूर्णमासे समिति।**  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पू॒र्णमा॑से॒ वै दे॒वानाँ॑ सु॒तस्तेषा॑मे॒तम॑र्धमा॒सम्प्रसु॑त॒स्तेषा॑म्मैत्रावरु॒णी व॒शामा॑वा॒स्या॑यामनूब॒न्ध्या॑  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्ण᳓मासे वै᳓ देवा᳓नाँ सुतः᳓  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -865,11 +933,14 @@ On the full moon (the Soma) is pressed for the gods;
 तत्रैन्द्रं दधिरूपं यदुत्तरस्मिन्पौर्णमासे सांनाय्यं तत्प्रशंसति- **पूर्णमासे वा इति।**  
 यदैन्द्रं दध्यनुष्ठित, तेन पौर्णमास एव देवानां सोमेऽभिषुतो भवति | पयो वै सोमः पय सांनाय्यमित्युक्तत्वात्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम् एत᳓म् अर्धमास᳓म् प्र᳓सुतः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -895,11 +966,14 @@ during this half-month it is pressed forth for them,
 
 तेषां देवानां पौर्णमासीमारभ्यामावास्यापर्यन्तमर्धमासं नैरन्तर्येण सोमः प्रकर्षेण सुतो भवति। प्रतिदिनमनुष्ठिताभिः सोमविकृतिभिर्या प्रीतिः सा तेन सांनाय्येन संपद्यत इत्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम् मैत्रावरुणी᳓ वशा᳓+++(=वन्ध्या गौः)+++ ऽमावास्या᳙याम् अनूबन्ध्या᳙ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -925,10 +999,14 @@ and a cow for Mitra and Varuna is to be slaughtered for them at the new moon.
 
 अथोत्तरस्याममावास्यायां विहितामामिक्षां प्रशंसति- **तेषां मैत्रावरुणीति।** येयममावास्यायामनुष्ठिता मैत्रावरुण्यामिक्षा सा तेषां देवानां वशाऽनूबन्ध्या संपद्यते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत् [30]  पू॒र्वे॒द्युर्यज॑ते॒ वेदि॑मे॒व तत्क॑रोति॒ यद्व॒त्सान॑पाक॒रोति॑ सदोहविर्धा॒ने ए॒व सम्मि॑नोति॒ यद्यज॑ते दे॒वैरे॒व सु॒त्याँ सम्पा॑दयति॒ स ए॒तम॑र्धमा॒सँ स॑ध॒माद॑न्दे॒वैस्सोम॑म्पिबति॒ यन्मै॑त्रावरु॒ण्यामि॑क्षयामावा॒स्या॑याय्ँ॒यज॑ते॒ यैवासौ दे॒वानाव्ँ॑व॒शानू॑ब॒न्ध्या॑  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -937,6 +1015,8 @@ and a cow for Mitra and Varuna is to be slaughtered for them at the new moon.
 वे᳓दिम् एव᳓ त᳓त् करोति।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -964,6 +1044,7 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 तत्कथमिति तदुच्यते- पूर्वेद्युः शुक्लप्रतिपदि यजत इति यत्तेन सौमिकीं वेदिमेव कृतवान्भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -972,6 +1053,8 @@ In that [4] he sacrifices on the day before, he makes the sacrificial enclosure.
 
 य᳓द् य᳓जते देवै᳓र् एव᳓ सुत्याँ᳓ **स᳓म्पादयति**।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1004,12 +1087,15 @@ In that he sacrifices, he produces with the gods the pressing day.
 
 तस्मिन्नेव दिने पुनरेव वत्सानपाकरोतीति यत्तेन सदोहविर्धाने ‘द्वौ मण्डपौ संपादितवान्भवति। द्वितीयायां प्रातराग्नेयेनाष्टाकपालेन यजत इति यत्तेन देवैरिष्यभाणां सूत्यामेव संपादितवान्भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् अर्धमासँ᳓ सधमा᳓दन्  
 देवै᳓स् सो᳓मम् **पिबति** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1035,6 +1121,7 @@ He drinks for the half-month Soma in carouse with the gods.
 
 स तादृशो यजमान एतमर्धमासं शुक्लपक्षं नैरन्तर्येण देवैः सधमादं सहर्षोपेतं सोमं पीतवान्भवति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1042,6 +1129,8 @@ He drinks for the half-month Soma in carouse with the gods.
 यै᳓वा᳓सौ᳓ देवा᳓नाव्ँ वशा᳓ऽनूबन्ध्या᳓  
 सो᳓ एवै᳓षै᳓त᳓स्य।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1071,11 +1160,15 @@ becomes his also.
 
 तस्मादाग्नेयादूर्ध्वं तस्मन्द्वितीयामावास्याकर्मणि मैत्रावरुण्याऽऽमिक्षया यजत इति यत्सो एवाऽऽमिक्षा यजमानस्य वशा संपद्यते। काऽसौ वशेति तदुच्यते- सोमयागावसाने देवानामर्थ एव या वशाऽनूबन्ध्या क्रियते सैवेयमामिक्षेत्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सा॒क्षाद्वा ए॒ष दे॒वान॒भ्यारो॑हति॒ य ए॑षाय्ँ य॒ज्ञम् [31]  
 अ॒भ्या॒रोह॑ति॒ यथा॒ खलु॒ वै श्रेया॑न॒भ्यारू॑ढᳵ का॒मय॑ते॒ तथा॑ करोति  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1084,6 +1177,8 @@ becomes his also.
 य᳓ एषाय्ँ यज्ञ᳓म् अभ्यारो᳓हति ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1113,12 +1208,15 @@ who mounts upon their sacrifice [5].
 
 दाक्षायणयज्ञानुष्ठानं प्रशंसति-  **साक्षाद्वा इति।** यो यजमान एषां विधिवाक्योक्तानामग्न्यादिनां देवानां यज्ञम् **अभ्यारोहति** सम्यगनुतिष्ठति एषां साक्षादेव तानग्न्यादिदेवानभ्यारोहति प्राप्नोति। बहुकालं (ल) व्यवधानमन्तरेणैव देवसदृशं भोगं प्राप्नोतीत्यर्थः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था ख᳓लु वै᳓ श्रे᳓यान् अभ्या᳓रूढᳵ काम᳓यते  
 त᳓था करोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1149,6 +1247,7 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 
 यद्य॑व॒विध्य॑ति॒ पापी॑यान्भवति॒ यदि॒ नाव॒विध्य॑ति स॒दृङ्व्या॒वृत्का॑म ए॒तेन॑ य॒ज्ञेन॑ यजेत क्षु॒रप॑वि॒र्ह्ये॑ष य॒ज्ञस्ता॒जक्पुण्यो॑ वा॒ भव॑ति॒ प्र वा॑ मीयते  
 </details>
+</details>
 
 ## व्यावृत्-कामस्य  
 
@@ -1158,6 +1257,8 @@ Just as a great man who has attained (fortune) desires (and does), so he does.
 पा᳓पीयान् भवति  
 य᳓दि ना᳓ववि᳓ध्यति सदृ᳓ङ् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1189,11 +1290,14 @@ if he does not, he remains the same.
 
 पूर्वं स्वर्गकामस्यायं यज्ञ उक्तः, इदानीं व्यावृत्कामस्य स एवोच्यते-  **यद्यवविध्यतीति।** अन्येषु यज्ञेषु यदि **अवविध्यति** किंचिद्वैकल्यं करोति तदानीं **पापीयान्भवति**, अन्ययजमानापेक्षयाऽतिनिकृष्टो भवति। यदि **नावविध्यति** वैकल्यं न करोति तदानीमन्यैः **सदृङ्** समान एव भवति न तु तेभ्य आधिक्यलक्षणा व्यावृत्तिः सिध्यति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यावृ᳓त्-काम एते᳓न यज्ञे᳓न यजेत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1219,6 +1323,7 @@ One who desires distinction should sacrifice with it,
 
 अतो व्यावृत्काम एतेन दाक्षायणयज्ञेन यजत।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1226,6 +1331,8 @@ One who desires distinction should sacrifice with it,
 ताज᳓क् पु᳓ण्यो वा भ᳓वति  
 प्र᳓ वा मीयते  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1252,10 +1359,14 @@ and swiftly he becomes holy or perishes.
 
 यस्यादेष यज्ञः क्षुरवद् वज्रवच्च+ अतितीक्ष्णस्तस्मादेतदनुष्ठायी ताजक्पुण्यो वा भवति तदानीमेवेतरेभ्यो व्यावृत्त एव भवति। एतद्विरोधी ताजक्प्रमीयत एव। अथवा यजमान एव सम्यगनुष्ठानादुत्तमो भवति वैकल्यात्प्रमीयते वा।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तस्यै॒तद्व्र॒तन्नानृ॑तव्ँवदे॒न्न माँ॒सम॑श्ञीया॒न्न स्त्रिय॒मुपे॑या॒न्नास्य॒ पल्पू॑लनेन॒ वासᳶ॑ पल्पूलयेयुरे॒तद्धि दे॒वास्सर्व॒न्न कु॒र्वन्ति॑ ॥ [32]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1267,6 +1378,8 @@ and swiftly he becomes holy or perishes.
 ना᳓स्य प᳓ल्पूलनेन वा᳓सᳶ पल्पूलयेयुः।  
 एत᳓द् +धि᳓ देवा᳓स् स᳓र्वन् न᳓ कुर्व᳓न्ति ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1314,4 +1427,5 @@ for all these things the gods do not do.
 अस्य दाक्षायणयज्ञस्याऽऽधानादूर्ध्वं दर्शपूर्णमासाभ्यां सह विकल्पो द्रष्टव्यः।
 
 तथा च सूत्रकार आह- ‘(*दर्शपूर्णमासयोः प्रक्रमे विकल्पते, एतेन दर्शपूर्णमासाभ्यां वा यजते, एतेन पञ्चदश वर्षाणीष्ट्वा वा विरमेद्यजेत वा) संतिष्ठते दाक्षायणयज्ञः इति’ ।  
+</details>
 </details>

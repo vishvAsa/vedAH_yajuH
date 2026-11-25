@@ -11,6 +11,8 @@ unicode_script: devanagari
 ये᳓ वै᳓ चत्वा᳓रस् स्तो᳓माᳵ कृत᳓न् त᳓त् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ये वै च॒त्वार॒स्स्तोमाः॑ ।
@@ -26,11 +28,14 @@ unicode_script: devanagari
 
 1 ये वै चत्वातस्स्तोमा इति ॥ ये त्रिवृदादयः चत्वार एव स्तोमाः स्युः तत् कृतं पुष्कलं पृथुलधर्मकेण कृतेन तुल्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ ये᳓ प᳓ञ्च क᳓लिस् सः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,11 +53,14 @@ unicode_script: devanagari
 अथ ये पञ्च स्युः त्रिवृदादयः कलिः सः क्षीणधर्मकेण कलिना तुल्यं तत् ।  
 प्रकृताभा[वभा]वात् यदैवं सम्भवति तदानीमेवं क्रियते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् च᳓तुष्टोमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -69,11 +77,14 @@ unicode_script: devanagari
 तस्माच्चतुष्टोम एव कर्तव्यः ।  
 इदमेव ज्योतिष्टोमस्य चतुष्टोमत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓च् च᳓तुष्टोमस्य चतुष्टोमत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -84,12 +95,15 @@ unicode_script: devanagari
 
 त᳓त् । च᳓तु-ष्टोमस्य । चतु-ष्टोम । त्व᳓म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दाहुः ।  
 "कतमा᳓नि ता᳓नि ज्यो᳓तीँषि । य᳓ एत᳓स्य स्तो᳓मा" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,11 +120,14 @@ unicode_script: devanagari
 
 2 तदाहुरित्यादि ॥ चत्वारस्स्तोमा इति सामान्योक्त्या विशेषं पृच्छन्ति - य एतस्येति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓त् पञ्चदश᳓स् सप्तदश᳓ एकविँशः᳓ ॥ 51 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -121,11 +138,14 @@ unicode_script: devanagari
 
 त्रि-वृ᳓त् । पञ्च-दशः᳓ । सप्त-दशः᳓ । एक-विंशः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓नि वा᳓व᳓ ता᳓नि ज्यो᳓तीँषि य᳓ एत᳓स्य स्तो᳓माः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,11 +162,14 @@ unicode_script: devanagari
 
 त्रिवृदादीनां ज्योतिषां प्रसिद्धत्वादेवास्य ज्योतिष्टोमात्मकतासिद्धिरित्याह - वाव तानि ज्योतींषीति ॥ द्योतनहेतुत्वाद्यज्ञस्य एतानि ज्योतींषि एतत्स्तोमत्वात् ज्योतिष्टोमत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽब्रवीत् - "सप्तदशे᳓न ह्रिय᳓माणो व्य᳙लेशिषि, भिष᳓ज्यत मे᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -165,11 +188,14 @@ unicode_script: devanagari
 3 सोऽब्रवीदित्यादि ॥ सः इन्द्रः अब्रवीत् ।
 यदा अहं सप्तदशेन स्तोमेन ह्रियमाणोऽभूवं तदा व्यलेशिषि विलिष्टोऽकार्षं तेजसा अल्पोऽभूवम् । यथोक्तं - 'तस्य सप्तदशेन ह्रियमाणस्य तेजो हरोऽपतत्' इति । लिश अल्पीभावे कर्मणि उत्तमपुरुषैकवचनम् ।  तस्मात् क्षीणतेजसं मा मां भिषज्यत चिकित्सत इति देवानब्रवीत् । भिषज्यतिः कण्ड्वादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म᳓ अश्वि᳓नौ धाना᳓भिर् अभिषज्यताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,11 +212,14 @@ unicode_script: devanagari
 अथ धानादिभिरश्विन्यादयोऽभिषज्यन् ।  
 तण्डुलप्रभवा लाजा धानाः, दधिसम्मिश्राः सक्तवः करम्भाः, परिवापो लाजाः, पयस्या पयोविकारः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ करम्भे᳓ण +++(अभिषज्यतु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,11 +230,14 @@ unicode_script: devanagari
 
 पूषा᳓ । करम्भे᳓ण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भा᳓रती परिवापे᳓ण +++(अभिषच्यतु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -216,11 +248,14 @@ unicode_script: devanagari
 
 भा᳓रती । परि-वापे᳓ण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणौ पयस्य᳙या +++(अभिषज्यताम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +266,7 @@ unicode_script: devanagari
 
 मित्रा᳓-व᳓रुणौ । पयस्य᳙या ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -238,6 +274,8 @@ unicode_script: devanagari
 "य᳓द् अश्वि᳓भ्यान् धानाः᳓ ।  पूष्णᳵ᳓ करम्भः᳓ ।  भा᳓रत्यै परिवापः᳓ ।  मित्रा᳓व᳓रुणयोᳶ पयस्या᳓ ।  
 अ᳓थ क᳓स्माद् एते᳓षाँ हवि᳓षाम् इ᳓न्द्रम् एव᳓ यजन्ती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -256,12 +294,15 @@ unicode_script: devanagari
 4 तदाहुरिति ॥ एतानि सवनीयादीनि वस्वादिभ्यो निरुप्यन्ते ।  
 अथेदानीं कस्मात् पुनरिन्द्र एवेज्यत इति पर्यनुयोगं आहुः । तृतीयार्थे षष्ठी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "एता᳓ ह्येनन् देव᳓ता" इ᳓ति ब्रूयात् ।  
 "एतै᳓र् ‌हवि᳓र्भिर् अ᳓भिषज्यँ स्त᳓स्मादि᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,11 +319,14 @@ unicode_script: devanagari
 
 उत्तरं - एता हीति । एता देवता अश्व्यादयः एतैर्हविर्भिः धानादिभिः एनं यस्मात् अभिषज्यन् तस्मादिति ब्रूयात् । 'तस्मात्'इत्यस्यानन्तरं 'इति ब्रूयात्'इत्येतत् द्रष्टव्यम् । यस्मादेवं तस्मादिति ब्रूयात् उत्तरमित्यर्थः । एक इतिशब्दो भिषज्याया अग्नित्वे[भिषज्याया अश्व्यादिकृतत्वस्य हेतुत्वे ?] द्वितीयः निर्वापस्य हेतुत्वे । यस्मादेता देवता अभिषज्यन् तस्मादेताभ्यो निरुप्यन्ते, यस्मादेताभ्यो निरुप्यन्ते तस्मादेवमिन्द्रमभिषज्यन्, तस्मादिन्द्र इज्यते इति उभयत्रान्वयः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ व᳓सवो ऽष्टा᳓कपालेन प्रातस्-सवने᳙ ऽभिषज्यन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -299,11 +343,14 @@ unicode_script: devanagari
 5 तं वसव इत्यादि ॥  
 वस्वादय इव यद्यष्टाकपालादीन् प्रातस्सवनादिषु कुर्यात्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓ ए᳓कादश-कपालेन मा᳓ध्यन्दिने स᳓वने +++(ऽभिषज्यन्न् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,11 +361,14 @@ unicode_script: devanagari
 
 रुद्राः᳓ । ए᳓कादश-कपालेन । मा᳓ध्यन्दिने । स᳓वने ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓ द्वा᳓दश-कपालेन तृतीयसवने᳓ +++(ऽभिषज्यन्न् )+++॥ 53 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -329,12 +379,15 @@ unicode_script: devanagari
 
 वि᳓श्वे । देवाः᳓ । द्वा᳓दश-कपालेन । तृतीय-सवने᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ य᳓द् अष्टा᳓कपालान् प्रातस्-सवने᳓ कुर्या᳓द् ए᳓कादशकपालान् मा᳓ध्यन्दिने स᳓वने +++(कुर्या᳓त् )+++,
 द्वा᳓दशकपालाँस् तृतीयसवने᳓ +++(कुर्या᳓त् )+++ वि᳓लोम त᳓द् यज्ञ᳓स्य क्रियेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,11 +406,14 @@ unicode_script: devanagari
 
 तत् यज्ञस्य विलोम प्रतिलोम कियते सवनीययागस्यैन्द्रत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कादशकपालानेव᳓ प्रातस्-सवने᳓ कुर्याद् ए᳓कादशकपालान् मा᳓ध्यन्दिने स᳓वने +++(कुर्यात्)+++, ए᳓कादशकपालाँस् तृतीयसवने᳓ +++(कुर्यात्)+++, यज्ञ᳓स्य सलोमत्वा᳓य ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -376,12 +432,15 @@ unicode_script: devanagari
 
 तस्मात् एकादशकपालानेव सर्वेषु कुर्यात् इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दाहुः ।  
 "य᳓द् व᳓सूनाम् प्रातस्सवन᳓म् , रुद्रा᳓णाम् मा᳓ध्यन्दिनँ स᳓वनम् , वि᳓श्वेषान्देवा᳓नान् तृतीयसवन᳓म् , अ᳓थ क᳓स्माद् एते᳓षाँ हवि᳓षाम् इ᳓न्द्रम् एव᳓ यजन्ती᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,12 +462,15 @@ unicode_script: devanagari
 गतम् ॥  
 इति पञ्चमे एकादशोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "एता᳓ ह्य् एनन् देव᳓ता"  इ᳓ति ब्रूयात् ।  
 "एतै᳓र् ‌हवि᳓र्भिर् अ᳓भिषज्यँ स्त᳓स्मादि᳓"ति ॥ 54 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -419,4 +481,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 एताः᳓ । हि । एनन् । देव᳓ताः । इ᳓ति । ब्रूयात् । एतैः᳓ । हवि᳓र्भिः । अ᳓भिषज्यन् । त᳓स्मात् । इ᳓ति ।
+</details>
 </details>

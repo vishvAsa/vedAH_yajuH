@@ -2,6 +2,8 @@
 title = "१४ अनुभूतिहोममन्त्राः (अनुभूर्होममन्त्राः)"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्निना॒ तपोऽन्व॑भवद्वा॒चा ब्रह्म॑ म॒णिना॑ रू॒पाणीन्द्रे॑ण दे॒वान्वाते॑न प्रा॒णान्त्सूर्ये॑ण॒ द्याञ्च॒न्द्रम॑सा॒ नक्ष॑त्राणि य॒मेन॑ पितॄन्राज्ञा॑ मनु॒ष्या॑न्फ॒लेन॑ नादे॒यान॑जग॒रेण॑ स॒र्पान्व्या॒घ्रेणा॑र॒ण्यान्प॒शूञ्छ्ये॒नेन॑ पत॒त्रिणो॒ वृष्णाश्वा॑नृष॒भेण॒ गा ब॒स्तेना॒जा वृ॒ष्णिनावी॑र्व्री॒हिणान्ना॑नि॒ यवे॒नौष॑धीर्न्य॒ग्रोधे॑न॒ वन॒स्पती॑नुदु॒म्बरे॒णोर्ज॑ङ्गायत्रि॒या छन्दाँ॑सि त्रि॒वृता॒ स्तोमा॑न्ब्राह्म॒णेन॒ वाच॑म् ॥ [35]  
@@ -10,6 +12,7 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथानुभूतीर्जुहोति - अग्निनेत्यादि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -23,6 +26,8 @@ title = "१४ अनुभूतिहोममन्त्राः (अन�
 चन्द्र᳓मसा न᳓क्षत्राणि +++(अनुभवतु)+++।  
 यमे᳓न पितॄ᳓न् +++(अनुभवतु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,12 +55,15 @@ By fire he surmounted fervour, by speech holy power, by a gem forms, by Indra th
 
 अग्निना तपः ऊष्म अन्वभवत् अनुभवतु स्वीकरोतु यजमानः अग्न्यात्मा भूत्वा स्वसामर्थ्येन सर्वं तपो व्याप्नोतु । वाग्रूपो भूत्वा सर्वं ब्रह्म मन्त्रजातं अन्वभवदित्येव । एवं सर्वत्र । छान्दसो लङ् । मणिना रूपाणि रूपवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓ज्ञा मनुष्या᳙न् +++(अनुभवतु)+++।  
 फले᳓न नादेया᳓न्+++(→रसवतोऽर्थान्)+++ +++(अनुभवतु)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -77,6 +85,7 @@ by the king men, by fruit the flavours,
 
 फलेन नादेयान् रसवतोऽर्थान् । नद्यादिभ्यो ढक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -88,6 +97,8 @@ by the king men, by fruit the flavours,
 बस्ते᳓न᳓ + अजाः᳓ +++(अनुभवतु)+++।  
 वृष्णि᳓ना᳓+++(=मेषेण)+++ ऽवीः +++(अनुभवतु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -109,6 +120,7 @@ by the boa constrictor serpents, by the tiger wild beasts, by the eagle birds, b
 
 अ॒ज॒ग॒रेण॑ । स॒र्पान् । व्या॒घ्रेण॑ । आ॒र॒ण्यान् । प॒शून् । श्ये॒नेन॑ । प॒त॒त्रिणः॑ । वृष्णा॑ । अश्वान्॑ । ऋ॒ष॒भेण॑ । गाः । ब॒स्तेन॑ । अ॒जाः । वृ॒ष्णिना॑ । अवीः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -117,6 +129,8 @@ by the boa constrictor serpents, by the tiger wild beasts, by the eagle birds, b
 न्यग्रो᳓धेन व᳓नस्प᳓तीन् +++(अनुभवतु)+++।  
 उदुम्ब᳓रेणो᳓र्जम् +++(अनुभवतु)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,6 +154,7 @@ by rice food, by barley plants, by the banyan trees, by the Udumbara strength,
 
 उदुम्बवरेण ऊर्जं क्षीरवन्ति वस्तूति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -147,6 +162,8 @@ by rice food, by barley plants, by the banyan trees, by the Udumbara strength,
 त्रिवृ᳓ता स्तो᳓मान् +++(अनुभवतु)+++।  
 ब्राह्मणे᳓न वा᳓चम् +++(अनुभवतु)+++॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -170,4 +187,5 @@ by the Gayatri the metres, by the Trivrt the Stomas, by the Brahmana speech.
 ब्राह्मणेन वाचं वेदात्मिकाम् ॥
 
 इति सप्तमे तृतीये चतुर्दशोनुवाकः ॥  
+</details>
 </details>

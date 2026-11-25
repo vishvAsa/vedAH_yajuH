@@ -8,15 +8,20 @@ title = "०६ आहवनीयोपस्थानादिमन्त्�
 
 ## आहवनीयोपस्थानम्
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1आहवनीयम् उपतिष्ठते - अगन्मेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓गन्म सु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +50,14 @@ We have come to the heaven;
 अगन्मेति। कल्पः - ‘अथात्रैव तिष्ठन्नाहवनीयमपतिष्ठते अगन्म सुवः सुवरगन्म संदृशस्ते मा छित्सि यत्ते तपस्तस्मै ते माऽऽ वृक्षीति’ इति।  
 आद्येन सुवःशब्देन कर्मफलभोगभूमिरभिधीयते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् अगन्म ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,11 +83,14 @@ to the heaven we have come.
 
 द्वितीयेन सुवःशब्देन मोक्षद्वारभूत आदित्यलोकः। हे आहवनीय त्वत्प्रसादात्प्रथमं फलभोगस्थानं सपुत्रपात्रा वयं गम्यास्म। ततो मोक्षद्वारमादित्यलोकं गम्यास्म। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दृ᳓शस् ते मा᳓ छित्सि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,11 +116,14 @@ May I not be cut off from seeing thee;
 
 तदर्थमहं तव संदृशः कटाक्षान्मा च्छित्सि विच्छिन्ने मा भूवम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते त᳓पस् त᳓स्मै ते मा᳓ ऽऽवृक्षि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,9 +149,12 @@ what heat is thine, to that of thee may I not be brought low.
 
 ते त्वदर्थं यत्तपोऽस्माभिरनुष्ठास्यते तस्मै तपसे ते तवानुग्रहान्माऽऽवृक्षि आ समन्ताद्वृक्तो विच्छिन्नो मा भूवम्।  
 </details>
+</details>
 
 ## सूर्योपस्थानमन्त्राः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2आदित्यमुपतिष्ठते - सुभूरिति ॥ 
@@ -147,11 +164,14 @@ _______
 
 सुभूरसीति। कल्पः - ‘अथाऽऽदित्यमुपतिष्ठते-सुभूरसि श्रेष्ठो रश्‍मीनामायुर्धा अस्यायुर्मे धेहि वर्चोधा असि वर्चो मयि धेहीति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु-भू᳓र् असि श्रे᳓ष्ठो रश्मीना᳓म् +++(← 'नामन्यतरस्याम्' इति स्वरः)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -180,11 +200,14 @@ Thou art good, the best of rays,
 
 हे आदित्य त्वं सुभूरसि सुष्ठु भवत्युदेतीति सुभूः। रश्‍मीनां रश्‍मियुक्तानां चन्द्रादीनां मध्ये श्रेष्ठोऽसि। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुर्धा᳓ अस्य्, आ᳓युर् मे धेहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -211,11 +234,14 @@ upon me
 
 आयुषः स्थापयिताऽसि। अतो मय्यायुः स्थापय। एवं ब्रह्मवर्चसेऽपि योज्यम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्चो-धा᳓ असि, व᳓र्चो म᳓यि धेहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -236,8 +262,11 @@ thou art radiance-bestowing, bestow radiance upon me.
 
 वर्चोधाः वर्चसो बलस्य धाता स्थापयिता चासि त्वं मयि वर्चो धेहि स्थापय ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सर्वतो भ्रातृव्यं निर्भजति - इदमहमिति ॥ 
@@ -252,6 +281,7 @@ _______
 
 इदमहमिति। कल्पः - ‘अथैभ्यो लोकेभ्यो भ्रातृव्यं निर्भजति-इदमहममुं भ्रातृव्यमाभ्यो दिग्भ्योऽस्यै दिवोऽस्मादन्तरिक्षादस्यै पृथिव्या अस्मादन्नाद्या-न्निर्भजामि निर्भक्तः स यं द्विष्म इति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,6 +292,8 @@ _______
 अस्यै᳓ पृथिव्या᳓ +++(← उदात्तयणः … इति स्वरः)+++  
 अस्मा᳓द् अन्ना᳓द्यान् नि᳓र्भजामि
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,18 +332,23 @@ Here do I exclude my enemy, N. N., from these quarters, this sky, this atmospher
 
 यो भ्रातृव्यो मदीयो वैरी पृथिव्यादिलोकत्रये प्राच्यादिदिक्षु मम विरोधमाचरति मदीयमन्नाद्यं चापजिहीर्षति अमुं भ्रातृव्यं ततः पृथिव्यादेरिदं निर्भजामि शीघ्रमेव निःसारयामि। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सं ज्योतिषेति। कल्पः - ‘सं ज्योतिषाऽभूवमित्यात्मानं प्रत्यभिमृशते’ इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -344,18 +381,23 @@ excluded is he whom we hate.
 
 यमभिमातिं वयं द्विष्मः सोऽभिमातिर्निर्भक्तोऽ-स्मात्प्रदेशान्निःसारितः। एवमुत्तरत्र योज्यम्। अभिशस्तिरन्यैरापादितोऽ-पवादः। रातिर्दानं द्रव्यलाभः। तन्निवारणमरातिस्तदिच्छन्तो विरोधिनोऽ-रातीयतः(न्त)। तृतीयप्रक्रमस्तान्हन्ति।
 </details>
-
+</details>
 </div>
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4आत्मानम् अभिमृशति - सं ज्योतिषेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ञ्ज्यो᳓तिषाऽभूवम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,8 +423,11 @@ I have been united with the light.
 
 अहमादित्यज्योतिषा समभूवं संगतो भूयासम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उदङ्पर्यावर्तते - ऐन्द्रीमिति ॥ 
@@ -392,11 +437,14 @@ _______
 
 ऐन्द्रीमिति। कल्पः - ‘दक्षिणमँसमभि पर्यावर्तत ऐन्द्रीमावृतमन्वावर्त इति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्री᳓म् आवृ᳓तम् अन्वा᳓वर्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -422,8 +470,11 @@ I turn the turning of Indra.
 
 परमैश्वर्ययोगादादित्य इन्द्रः। तदीयमावर्तनमन्वहमपि प्रादक्षिण्येनाऽऽवर्ते।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6उपीतष्ठते - समहमिति ॥ 
@@ -433,13 +484,15 @@ _______
 
 समिद्ध इति। कल्पः - ‘अथाऽऽहवनीये समिधमादधाति समिद्धो अग्ने मे दीदिहि समेद्धा ते अग्ने दीद्यासँ स्वाहेति’ इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/06_AhavanIyopasthAnAdimantrAH/samaham_prajayA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् अह᳓म् प्रज᳓या  +++(भूयासम्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -470,11 +523,14 @@ ___________
 समहमिति। कल्पः - ‘अथोदङ्पर्यावर्तते समहं प्रजया सं मया प्रजा समहँ रायस्पोषेण सं मया रायस्पोष इति’ इति’ इति।  
 अहं प्रजया संगतो भूयासम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म् म᳓या प्रजा᳓  +++(भूयात्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -502,11 +558,14 @@ __________
 
 प्रजाऽपि मया संगता भूयात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓महँ᳓ राय᳓स्पो᳓षेण  +++(भूयासम्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -534,11 +593,14 @@ _______________
 
 रायस्पोषेऽप्येवं योज्यम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓म्म᳓या राय᳓स्पो᳓षः   +++(भूयात्)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -561,19 +623,24 @@ increase of wealth with me.
 _____________
 रायश्च पोषश्च मया सङ्गच्छताम् । रायो विभक्त्युदात्तत्वं सत्वं चोक्तम् ॥
 </details>
-
+</details>
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7समिधमादधाति - समिद्ध इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मिद्धो अग्ने मे दीदिहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -600,11 +667,14 @@ Kindled, O Agni, shine for me;
 
 अत्र समित्प्रक्षेपाय स्वाहेति शब्दोऽध्याहृतः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समेद्धा᳓+++(=सन्दीपयिता)+++ ते अग्ने दीद्यासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -630,8 +700,11 @@ kindling thee, O Agni, may I shine.
 
 हेऽग्नेऽनया समिधा प्रदीप्तस्त्वं मे मदर्थं दीदिहि दीप्यस्व। तव दीपयिताऽहमपि त्वत्प्रसादाद्दीप्तो भूयासम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उपतिष्ठते - वसुमानिति ॥ 
@@ -641,11 +714,14 @@ _______
 
 वसुमानिति। कल्पः - ‘अथाऽऽहवनीयप्रुपतिष्ठते वसुमान्यज्ञो वसीयान्भूयासमिति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सुमान् यज्ञो᳓, व᳓सीयान् भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -671,11 +747,15 @@ Be rich the sacrifice; may I be rich.
 
 अयं यज्ञस्त्वत्प्रसादाद्वसुमान्धनवान्। अहमपि त्वतप्रसादाद्वसीयान्वसुमत्तरो भूयासम्।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9-10गार्हपत्यमुपतिष्ठते - अग्न आयूंषीति गायत्रीभ्याम् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">

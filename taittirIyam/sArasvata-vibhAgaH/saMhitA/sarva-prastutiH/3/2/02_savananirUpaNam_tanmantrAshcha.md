@@ -2,6 +2,8 @@
 title = "०२ सवन-निरूपणम्, तन्मन्त्राश्च"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 २-३ त्रिष्टुप्, विश्वेदेवा ऋषयः ।
@@ -11,11 +13,14 @@ title = "०२ सवन-निरूपणम्, तन्मन्त्र�
 
 अथ॑ तृ॒तीयँ॒ सव॑न॒मव॑ लुम्पन्त्यनँ॒शु कु॒र्वन्त॑ उपाँ॒शुँ हु॒त्वोपाँ॑शुपा॒त्रेऽँ॑शुम॒वास्य॒ तन्तृ॑तीयसव॒ने॑ऽपि॒सृज्या॒भि षु॑णुया॒द्यदा॑प्या॒यय॑ति॒ तेनाँ॑शु॒मद्यद॑भिषु॒णोति॒ तेन॑र्जी॒षि सर्वा॑ण्ये॒व तत्सव॑नान्यँशु॒मन्ति॑ शु॒क्रव॑न्ति स॒माव॑द्वीर्याणि करोति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्री᳓णि वा᳓व᳓ स᳓वनानि
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,11 +41,14 @@ There are three pressings.
 
 1त्रीणि वाव सवनानीत्यादि ॥ त्रीण्येतानि सवनानि प्रातस्सवनादीनि तैः त्रिभिर् अपि सवनैः सवनवद्भिर् भवितव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ तृती᳓यँ स᳓वनम᳓व लुम्पन्त्य् अन्-अँशु᳓+++(=अ-[सोम-]नालं)+++ कुर्व᳓न्तः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,6 +70,7 @@ Now they spoil the third pressing if there are no stalks of the Soma in it.
 अथैवं सति तृतीयसवनं **अनंशु** कुर्युः।  
 इदं **लुम्पेयुर्** विनाशयेयुः, सवन-स्वभाववैधुर्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -70,6 +79,8 @@ Now they spoil the third pressing if there are no stalks of the Soma in it.
 त᳓न् तृतीय-सवने᳙ **ऽपिसृ᳓ज्य᳓**+  
 +**अभि᳓षुणुयात्** ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +105,14 @@ Having offered the silent cup, he puts a shoot in the vessel which holds it, and
 प्रक्षिप्य  
 अभिषुणुयात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् आप्याय᳓यति ते᳓नाँशुम᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,11 +133,14 @@ In that he makes it swell, it has a stalk (of the Soma);
 
 यदाप्याययतीत्यादि । केचिदाहुः - अंशोः प्रक्षेप आप्यायनमिति । अन्ये आहुः - अद्भिराप्यायनं कर्तव्यमिति । तेनाप्यायनेन अंशुमद्भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अभिषुणो᳓ति ते᳓नर्जीषि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -144,11 +161,14 @@ in that he presses it out, it has the lees (of the Soma);
 
 तृतीयसवनस्याभिषवणे च ऋजीषवत्त्वं,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वाण्येव᳓ त᳓त्स᳓वनान्यँशुम᳓न्ति शुक्र᳓वन्ति समा᳓वद्वीर्याणि करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -169,10 +189,14 @@ verily he makes all the pressings have stalks and pure Soma, and be of equal str
 
 तेन सर्वाणि सवनानि अंशुमन्ति शुक्रवन्ति रसवन्ति च भवन्ति । अतस्सर्वाणि सवनानि समावद्वीर्याणि तुल्यवीर्याणि च करोति । समादावतुप् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2आधवनीये दीर्णे प्रवृत्ते [अपवृत्ते] वा पात्र्यां चतुर्गृहीतं गृहीत्वा आहवनीये प्रायश्चित्तं जुहोति अन्वारब्धे यजमाने - द्वौ समुद्राविति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -180,6 +204,8 @@ verily he makes all the pressings have stalks and pure Soma, and be of equal str
 द्वौ᳓ समुद्रौ᳓ वि᳓ततावजूर्यौ᳓ पर्या᳓वर्तेते जठ᳓रेव पा᳓दाः ।  
 त᳓योᳶ प᳓श्यन्तो अ᳓ति यन्त्यन्य᳓म᳓पश्यन्तः [4]  सेतुना᳓ति यन्त्यन्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,10 +230,14 @@ Seeing not [1] they pass over the other with a bridge.
 
 द्वौ समुद्रौ समुद्रसदृशौ आनन्त्यसाम्यात् अहोरात्रावुच्येते । तौ विततौ विस्तीर्णौ । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । अजूर्यौ अहिंस्यौ अप्रतिबद्धौ । जुरी हिंसाहान्योः, 'ययतोश्चातदर्थे' इत्युत्तरपदान्तोदात्तत्वम् । पर्यावर्तेते पर्यायेणावर्तेते जठरा जठरे । 'सुपां सुलुक्' इति सप्तम्या आकारः । यथा समुद्रस्य जठरे उदरे इव पादाः ऊर्मिप्रवाहाः पर्यावर्तन्ते उपर्युपरि पर्यायेणापतन्ति; एवमेतौ समुद्रौ पर्यावर्तेते । तयोरिति निर्धारणे । तयोर्मध्ये अन्यमेकमहरात्मकं समुद्रं पश्यन्तः अतियन्ति अहनि वृत्तं प्रेक्षमाणाः जनास्तदतिवाहयन्ति । अन्यमेकं रात्र्यात्मकं समुद्रं अपश्यन्तोतियन्ति, अदर्शने हेतुमाह - सेतुना । यथा उदकरोधकृता सेतुना समुद्रान्तर्गतमुदकं न पश्यन्ति, एवं प्रबोधनिरोधकारिणा स्वप्नेन रात्रिवृत्तमपश्यन्तः अतियन्ति । इत्थं महानुभावौ तावेव प्रमादकृतमेतत्समृद्धं कुरुतामिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथ पूतभृति दीर्णे प्रवृत्ते [अपवृत्ते] वा तथैव पात्र्यां चतुर्गृहीतं गृहीत्वा आहवनीये जुहोत्यन्वारब्धे यजमाने - द्वे द्रधसी इति त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -215,6 +245,8 @@ Seeing not [1] they pass over the other with a bridge.
 द्वे᳓ द्र᳓धसी सत᳓ती वस्त ए᳓कᳵ केशी᳓ वि᳓श्वा भु᳓वनानि विद्वा᳓न् ।  
 तिरोधा᳓यैत्य᳓सितव्ँव᳓सानश्शुक्र᳓मा᳓ दत्ते अनुहा᳓य जार्यै᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,10 +271,14 @@ He putteth on his bright robe abandoning that of the worn-out one.
 
 द्वे द्रधसी वाससी अहोरात्रात्मके । द्रोणे विधार्येते इति द्रधसी, द्रधतिर्वा छान्दसो धातुराच्छादनकर्मा । सतती सविस्तारे सन्तते वा अन्योन्यानुषक्ते ते वासस्थानीये द्वे । एकः अयनशीलः आदित्यः वस्ते आच्छादयति । केशी रश्मिवान् । विश्वा विश्वानि भुवनानि भूतजातानि विद्वान् जानन् । तयोरसितं कृष्णं रात्र्यात्मकं वासो वसानः स आत्मा तिरोधाय अन्तर्हितं कृत्वा एति गच्छति । शुक्रं शुक्लं अहरात्मकं वास आदत्ते धारयति अनुहाय जीर्णाया रात्रेः पश्चादागत्य । यद्वा - जीर्णां वासस्थानीयां रात्रिं अनुक्रमणे हित्वा शुक्रमभिनवं वास आदत्ते तद्वसानः प्रकाशं गच्छतीति । 'नञञादिभ्यः' इति जीर्यतेरिन्प्रत्ययः, 'कृदिकारादक्तिनः' इति ङीष् 'उदात्तयणः' इति विभक्तेरुदात्तत्वम्, 'क्रियाग्नहाणं कर्तव्यम्' इति कर्मणस्संप्रदानत्वाच्चतुर्थी । एवमहोरात्रयोरपि प्रवर्तयिता देवः इदं समृद्धं करोत्विति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत॒ तदसु॑रा अकुर्वत॒ ते दे॒वा ए॒तम्म॑हाय॒ज्ञम॑पश्य॒न्तम॑तन्वताऽग्निहो॒त्रव्व्ँर॒तम॑कुर्वत॒ तस्मा॒द्द्विव्र॑तस्स्या॒द्द्विर्ह्य॑ग्निहो॒त्रञ्जुह्व॑ति पौर्णमा॒सय्ँ य॒ज्ञम॑ग्नीषो॒मीय॑म् [5]  प॒शुम॑कुर्वत दा॒र्श्यय्ँ य॒ज्ञमा॑ग्ने॒यम्प॒शुम॑कुर्वत वैश्वदे॒वम्प्रा॑तस्सव॒नम॑कुर्वत वरुणप्रघा॒सान्माध्य॑न्दिनँ॒ सव॑नँ साकमे॒धान्पि॑तृय॒ज्ञन्त्र्य॑म्बकाँस्तृतीयसव॒नम॑कुर्वत॒ तमे॑षा॒मसु॑रा य॒ज्ञम॒न्ववा॑जिगाँस॒न्तन्नान्ववा॑य॒न्ते॑ऽब्रुवन्नध्वर्त॒व्या वा इ॒मे दे॒वा अ॑भूव॒न्निति॒ तद॑ध्व॒रस्या॑ध्वर॒त्वन्ततो॑ दे॒वा अभ॑व॒न्परासु॑रा॒ य ए॒वव्ँवि॒द्वान्त्सोमे॑न॒ यज॑ते॒ भव॑त्या॒त्मना॒ परा॑स्य॒ भ्रातृ॑व्यो भवति ॥ [6]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -250,6 +286,8 @@ He putteth on his bright robe abandoning that of the worn-out one.
 देवा᳓ वै᳓ य᳓द्यज्ञे᳓ऽकुर्वत ।  
 त᳓द᳓सुरा अकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,12 +309,15 @@ Whatever the gods did at the sacrifice the Asuras did.
 
 4देवा वा इत्यादि ॥ यन्नाम यत्किंचित्कर्म देवा असुरजयार्थं यज्ञे विषये अकुर्वत, तत्सर्वं असुरा अप्यकुर्वत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ एत᳓म्महायज्ञ᳓मपश्यन्त᳓मतन्वत ।  
 अग्निहोत्र᳓व्व्ँरत᳓मकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,11 +341,14 @@ The gods saw this great sacrifice, they extended it, they performed the Agnihotr
 
 कः पुनस्स महायज्ञ इत्याह - अग्निहोत्रमित्यदि । अत्रोक्तमाचार्येण – 'तत्पृच्छति कः पुनस्स महायज्ञ इति । अयमेवैष चातुर्मास्यः सोम उक्तो भवति इति । अथ खलु य एव कश्चन सौम्योध्वरस्स महायज्ञः' इति । अग्निहोत्रादिरूपेण प्रच्छन्नं व्रतोपाकरणादि कुवर्न्तः सोममाहरन् । यथाधिगतपरमार्था असुरास्स्वयमनुष्ठातुं न शक्नुयुः, यथा चाग्निहोत्रादिकमेवैते कर्म कुर्वन्तीति मन्येरन् तथा प्रच्छन्नं सोममाहरन्निति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्द्वि᳓व्रतस्स्याद्द्वि᳓र्ह्यग्निहोत्र᳓ञ्जु᳓ह्वति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -325,11 +369,14 @@ therefore one should perform the vow twice, for twice they offer the Agnihotra.
 
 द्वयोः कालयोः व्रतं यस्य स द्विव्रतः । जुह्वतीति । 'हि च' इति निघातप्रतिषेधः 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पौर्णमासय्ँ᳓ यज्ञ᳓मग्नीषोमी᳓यम्पशु᳓मकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,11 +397,14 @@ They performed the full moon rite, as the animal sacrifice to Agni and Soma [2].
 
 अग्नीषोमीयमिति । द्यावापृथिव्यादिना छः, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्, 'ईदग्नेस्सोमवरुणयोः' इतीकारः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दार्श्यय्ँ᳓ यज्ञ᳓माग्नेय᳓म्पशु᳓मकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -375,11 +425,14 @@ They performed the new moon rite, as the animal sacrifice to Agni.
 
 दर्शे भवो दार्श्यः, छान्दसो ण्यः । आग्नेयमिति । अग्नेर्ढक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेव᳓म्प्रातस्सवन᳓मकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -400,11 +453,14 @@ They performed the sacrifice to the All-gods as the morning pressing.
 
 वैश्वदेवादयः चातुर्मास्ययागाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरुणप्रघासा᳓न्मा᳓ध्यन्दिनँ स᳓वनम् +++(अकुर्वत)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -420,11 +476,14 @@ They performed the Varunapraghasas, as the midday pressing.
 
 व॒रु॒ण॒प्र॒घा॒सानिति॑ वरुण-प्र॒घा॒सान् । माध्य॑न्दिनम् । सव॑नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साकमेधा᳓न्पितृयज्ञ᳓न्त्र्यम्बकाँस्तृतीयसवन᳓मकुर्वत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -445,11 +504,14 @@ They performed the Sakamedhas, the sacrifice to the fathers, and the offering to
 
 साकमेधादित्रयं तृतीयसवनमकुर्वत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मेषाम᳓सुरा यज्ञ᳓मन्व᳓वाजिगाँसन्त᳓न्ना᳓न्व᳓वायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -470,6 +532,7 @@ The Asuras sought to follow their sacrifice, but could not get on its tracks.
 
 तमेषामित्यादि । एषां देवानां तादृशं यज्ञं महायज्ञात्मकं असुरा अन्ववाजिगांसन् अन्ववैतुमनुष्ठातुमैच्छन् । 'सनि च' इति गमिरादेशः, 'अज्झनगमां सनि' इति दीर्घत्वम् । तमन्वेतुं नाशक्नुवन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -477,6 +540,8 @@ The Asuras sought to follow their sacrifice, but could not get on its tracks.
 
 अध्वर्तव्या᳓ वा᳓ इमे᳓ देवा᳓ अभूवन्नि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -499,11 +564,14 @@ They said, 'These gods have become inviolable (adhvartavyah).
 
 तेऽब्रुवन्नसुराः अध्वर्तव्या अस्माभिबार्धीतुमशक्याः इमे देवा अभूवन्निति । 'कृत्योकेष्णुच्चार्वादयश्च' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓दध्वर᳓स्याध्वरत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,11 +592,14 @@ That is why the sacrifice (adhvara) is inviolable.
 
 तदध्वरस्येत्यादि । अध्वर्तव्या अनेन देवा अभूवन्नित्यध्वरः । ध्वररहितत्वादध्वरः । ध्वरतेः पचाद्यच्, बहुव्रीहौ 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - कर्मणि छान्दसोच्, 'अच्कावशक्तौ' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो देवा᳓ अ᳓भवन् , प᳓रा᳓सुराः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -549,6 +620,7 @@ Then the gods prospered, the Asuras were defeated.
 
 ततो देवा अभवन् भूतिमन्तस्सम्पन्नाः । अस्रुराश्च पराभवन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -556,6 +628,8 @@ Then the gods prospered, the Asuras were defeated.
 
 भ᳓वत्यात्म᳓ना प᳓रास्य भ्रा᳓तृव्यो भवति ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -579,4 +653,5 @@ He who knowing thus offers the Soma, prospers himself, the enemy is defeated.
 य एवमित्यादि । गतम् ॥
 
 इति तृतीये द्वितीये द्वितीयोनुवाकः ॥
+</details>
 </details>

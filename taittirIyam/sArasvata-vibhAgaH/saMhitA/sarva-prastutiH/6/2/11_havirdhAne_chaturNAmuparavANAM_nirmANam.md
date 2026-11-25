@@ -4,15 +4,20 @@ title = "११ हविर्धाने चतुर्णामुपरव
 
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म्प्रा॒णा उ॑पर॒वा ह॑वि॒र्धाने॑ खायन्ते॒ तस्मा॑च्छी॒र्षन्प्रा॒णा अ॒धस्ता॑त्खायन्ते॒ तस्मा॑द॒धस्ता॑च्छी॒र्ष्णᳶ प्रा॒णा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓रो वा᳓ एत᳓द्यज्ञ᳓स्य य᳓द्धविर्धा᳓नम्प्राणा᳓ उपरवाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,11 +40,14 @@ The oblation-holder is the head of the sacrifice, the sounding holes are the vit
 
 प्राणाः नासिकादयः । तत्स्थानीया उपरवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓विर्धा᳓ने खायन्ते ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ They are dug in the oblation-holder;
 
 उपरवा नाम बिलविशेषाः प्रादेशमुखाः प्रादेशान्तराळाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छीर्ष᳓न् प्राणाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,11 +98,14 @@ therefore. the vital airs are in the head.
 
 तस्माच्छीर्षन् प्राणाः नासिकादयः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध᳓स्तात् खायन्ते ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +126,14 @@ They are dug below;
 
 अधस्ताच्च तस्य खायन्ते इति विधिः । 'ये विभाषा' इत्यात्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अध᳓स्ताच् छीर्ष्णᳶ᳓ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,16 +154,22 @@ therefore the vital airs are below the head.
 
 तस्माच्छीर्ष्णः अधस्तात्प्राणाः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 र॑क्षो॒हणो॑ वलग॒हनो॑ वैष्ण॒वान्ख॑ना॒मीत्या॑ह वैष्ण॒वा हि दे॒वत॑योपर॒वा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓क्षोह᳓णो वलगह᳓नो वैष्णवा᳓न् खनामी᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +190,14 @@ therefore the vital airs are below the head.
 
 2रक्षोहण इत्यादि ॥ देवतासंबन्धेन वैष्णवाः उपरवा भवन्ति; मन्त्रलिङ्गात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णवा᳓ हि᳓ देव᳓तयोपरवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -187,16 +213,22 @@ for the sounding-holes have Visnu for their deity.
 
 वै॒ष्ण॒वाः । हि । दे॒वत॑या । उ॒प॒र॒वा इत्यु॑प-र॒वाः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 असु॑रा॒ वै नि॒र्यन्तो॑ दे॒वाना॑म्प्रा॒णेषु॑ वल॒गान्न्य॑खन॒न्तान्बा॑हुमा॒त्रेऽन्व॑विन्द॒न्तस्मा॑द्बाहुमा॒त्राᳶ खा॑यन्त
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सुरा वै᳓ निर्य᳓न्तो देवा᳓नाम् प्राणे᳓षु वलगा᳓न्न्यखनन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,11 +253,14 @@ The Asuras in retreat dug in spells against the vital airs of the gods;
 
 वलगा नाम वलनाम्ना असुरराजेन दृष्टाः परमाराणप्रयोजनार्थं घटपटादिनिक्षिप्तास्थिरोमनखादिविविधामङ्गलद्रव्यसंभाररूपा भूमावन्तर्हिता उच्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् बाहुमात्रे᳓ ऽन्वविन्दन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,11 +281,14 @@ they found them at the distance of an arm;
 
 तान् वलगान् देवा बाहुमात्रे अन्वविन्दन् लब्धवन्तः असुरैः प्रयुक्तान् ज्ञात्वा गृहीतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् बाहुमात्राᳶ᳓ खायन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -271,17 +309,23 @@ therefore they are dug an arm's length deep.
 
 तस्मादुपरवा बाद्वुमात्राः खायन्ते इति विधिः । बाडुप्रमाणान् बाहुमात्रा मानं प्रमाणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒दम॒हन्तव्ँव॑ल॒गमुद्व॑पामि [56]  
 यन्न॑स्समा॒नो यमस॑मानो निच॒खानेत्या॑ह॒ द्वौ वाव पुरु॑षौ॒ यश्चै॒व स॑मा॒नो यश्चास॑मानो॒ यमे॒वास्मै॒ तौ व॑ल॒गन्नि॒खन॑त॒स्तमे॒वोद्व॑पति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद᳓मह᳓न् तव्ँ᳓ वलग᳓म् उ᳓द्वपामि ।[56]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +346,14 @@ therefore they are dug an arm's length deep.
 
 4इदमहमित्यादिपांसूद्वापनमन्त्रः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न्नस् समानो᳓ य᳓म᳓समानो निचखा᳓ने᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -322,11 +369,14 @@ which an equal or an unequal hath buried', he says;
 
 यम् । नः॒ । स॒मा॒नः । यम् । अस॑मानः । नि॒च॒खानेति॑ नि-च॒खान॑ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वौ᳓ वा᳓व᳓ पु᳓रुषौ य᳓श् चैव᳓ समानो᳓ य᳓श् चा᳓समानः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -347,11 +397,14 @@ there are two sorts of men, the equal and the unequal;
 
 द्वौ एतौ पुरुषौ यश्च यजमानस्य विद्यावित्तसौभाम्यादिभिस्समानः तुल्यः यश्चासमान ऊनः उत्कृष्टो वा तौ वलगं अस्मै यजमानाय यजमानविनाशार्थं निखनतः, तमुद्वपत्येव ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓मेवा᳓स्मै तौ᳓ वलग᳓न् निख᳓नतस् , त᳓मेवो᳓द्वपति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,16 +420,22 @@ verily whatever spell they dig against him he thus casts out.
 
 यम् । ए॒व । अ॒स्मै॒ । तौ । व॒ल॒गमिति॑ वल-गम् । नि॒खन॑त॒ इति॑ नि-खन॑तः । तम् । ए॒व । उदिति॑ । व॒प॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सन्तृ॑णत्ति॒ तस्मा॒त्सन्तृ॑ण्णा अन्तर॒तᳶ प्रा॒णा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न्तृणत्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +451,14 @@ He unites them;
 
 समिति॑ । तृ॒ण॒त्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् स᳓न्तृण्णा अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,16 +481,22 @@ therefore the vital airs are united within.
 
 तस्मात्सन्तृण्णाः अभ्यन्तरे एकीभूताः प्राणा नासिकादयः । अकर्मणि निष्ठायामपि व्यत्ययेन गतेः प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 न सम्भि॑नत्ति॒ तस्मा॒दस॑म्भिन्नाᳶ प्रा॒णा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ स᳓म्भिनत्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,11 +519,14 @@ He does not combine them;
 
 बहिर्नैकीकरोतीत्यर्थः । तस्माद्बहिरसंभिन्नाः प्राणाः नासिकादयः पृथगधिष्ठाना एव वर्तन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद᳓सम्भिन्नाᳶ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,17 +542,23 @@ therefore the vital airs are not combined.
 
 तस्मा॑त् । अस॑म्भिन्ना॒ इत्यस॑म्-भि॒न्नाः॒ । प्रा॒णा इति॑ प्र-अ॒नाः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒पोऽव॑ नयति॒ तस्मा॑दा॒र्द्रा अ॑न्तर॒तᳶ प्रा॒णा यव॑मती॒रव॑ नयति [57]  
 ऊर्ग्वै यव॑ᳶ प्रा॒णा उ॑पर॒वाᳶ प्रा॒णेष्वे॒वोर्ज॑न्दधाति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपो᳓ऽव नयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -502,11 +579,14 @@ He pours water over;
 
 7अपोवनयति तेषूपरवेष्विति विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आर्द्रा᳓ अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -527,11 +607,14 @@ therefore the vital airs are moist within.
 
 तस्मादभ्यन्तरे आर्द्राः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वमतीर᳓व नयति ।[57]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,11 +635,14 @@ therefore the vital airs are moist within.
 
 यवमतीरित्यादि । ऊर्गन्नं यवः प्राणस्थानीयेषूपरवेषु तं दधाति यवमतीनामपामवनयने ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्ग्वै᳓ य᳓वᳶ , प्राणा᳓ उपरवाᳶ᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -572,11 +658,14 @@ barley is strength, the sounding-holes are the vital airs;
 
 ऊर्क् । वै । यवः॑ । प्रा॒णा इति॑ प्र-अ॒नाः । उ॒प॒र॒वा इत्यु॑प-र॒वाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणे᳓ष्वेवो᳓र्जन् दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -592,16 +681,22 @@ verily he places strength in the vital airs.
 
 प्रा॒णेष्विति॑ प्र-अ॒नेषु॑ । ए॒व । ऊर्ज॑म् । द॒धा॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब॒र्हिरव॑ स्तृणाति॒ तस्मा॑ल्लोम॒शा अ॑न्तर॒तᳶ प्रा॒णा
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓र᳓व स्तृणाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -622,11 +717,14 @@ He spreads over the strew;
 
 8बर्हिरवस्तृणात्यवटेष्विति विधिः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माल् लोमशा᳓ अन्तरतᳶ᳓ प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -647,16 +745,22 @@ therefore the vital airs are hairy within.
 
 तस्माल्लोमशाः लोमवन्तः अन्तरतः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 आज्ये॑न॒ व्याघा॑रयति॒ तेजो॒ वा आज्य॑म्प्रा॒णा उ॑पर॒वाᳶ प्रा॒णेष्वे॒व तेजो॑ दधाति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ज्येन व्या᳓घारयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +781,14 @@ He besprinkles (the holes) with butter;
 
 9आज्येनेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो वा᳓ आ᳓ज्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -697,11 +804,14 @@ butter is brilliance,
 
 तेजः॑ । वै । आज्य॑म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓ उपरवाᳶ᳓ , प्राणे᳓ष्वेव᳓ ते᳓जो दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -722,16 +832,22 @@ the sounding-holes are the vital airs; verily he places brilliance in the vital 
 
 प्राणेषु तेजः तेजनं सामर्थ्यातिशयं दधाति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 हनू॒ वा ए॒ते य॒ज्ञस्य॒ यद॑धि॒षव॑णे॒ न सन्तृ॑ण॒त्त्यस॑न्तृण्णे॒ हि हनू॒ अथो॒ खलु॑ दीर्घसो॒मे स॒न्तृद्ये॒ धृत्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓नू वा᳓ एते᳓ यज्ञ᳓स्य य᳓दधिष᳓वणे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -752,11 +868,14 @@ The pressing-boards are the jaws of the sacrifice;
 
 10हनू इत्यादि ॥ यस्मादसन्तृण्णे हनू तस्मात् अधिषवणफलके न संतृणत्ति विध्वा प्रोते न करोति । एवं हि हनुत्वं भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ स᳓न्तृणत्ति᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -772,11 +891,14 @@ he does not join them,
 
 1न । समिति॑ । तृ॒ण॒त्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓सन्तृण्णे हि᳓ ह᳓नू᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -792,11 +914,14 @@ for the jaws are not joined;
 
 अस॑न्तृण्णे॒ इत्यस॑म्-तृ॒ण्णे॒ । हि । हनू॒ इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो ख᳓लु दीर्घसोमे᳓ सन्तृ᳓द्ये , धृ᳓त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -821,17 +946,23 @@ or rather at a long Soma sacrifice they should be joined, for firmness.
 
 'ऋदुपधाच्च' इति तृणातेः क्विप् । उक्थादि दीर्घसोम इत्यन्ये । स्तोमपृथुमान् [सौमप्रथिमा दैर्घ्यम्] ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 शिरो॒ वा ए॒तद्य॒ज्ञस्य॒ यद्ध॑वि॒र्धान॑म् [58]  
 प्रा॒णा उ॑पर॒वा हनू॑ अधि॒षव॑णे जि॒ह्वा चर्म॒ ग्रावा॑णो॒ दन्ता॒ मुख॑माहव॒नीयो॒ नासि॑कोत्तरवे॒दिरु॒दरँ॒ सदो॑ य॒दा खलु॒ वै जि॒ह्वया॑ द॒त्स्वधि॒ खाद॒त्यथ॒ मुख॑ङ्गच्छति य॒दा मुख॒ङ्गच्छ॒त्यथो॒दर॑ङ्गच्छति॒ तस्मा॑द्धवि॒र्धाने॒ चर्म॒न्नधि॒ ग्राव॑भिरभि॒षुत्या॑हव॒नीये॑ हु॒त्वा प्र॒त्यञ्च॑ᳶ प॒रेत्य॒ सद॑सि भक्षयन्ति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शि᳓रो वा᳓ एत᳓द् यज्ञ᳓स्य य᳓द्धविर्धा᳓नम् ।[58]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -854,11 +985,14 @@ The oblation-holder is the head of the sacrifice [3],
 
 शिर इव भवति हविर्धानं यज्ञात्मनः पुरुषस्य प्राधान्यान् तत्राधस्तना उपरवास्तस्य प्राणपदव्यां वर्तन्ते तत्सकाशस्थिते अधिषवणफलके तस्य हनुसंकाशे दृश्येते, विधारकत्वात् । तत्रास्तीर्णं चर्म तस्य जिह्वेव भाति, कुट्टनाद्याधारकत्वात् । तत्र निषण्णा ग्रावाणः तस्य दन्ता इव राजन्ते, कुट्टनादिकारकत्वात् । तस्य मुखं आस्यमिवाहवनीयोग्निः प्रकाशते, हविषामदनीयानां प्रक्षेपात् । तस्य नासिकेव उत्तरवेदिः उत्तरनाभिरिवभाति, हविर्गन्धना[र्गन्धा]देस्तत्र व्यक्तीकरणात् । तस्योदरमिव सदस्सन्दृश्यते, तत्र सर्वभक्षाणां सन्निधानात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓ उपरवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -874,11 +1008,14 @@ the sounding-holes are the vital airs,
 
 प्रा॒णा इति॑ प्र-अ॒नाः । उ॒प॒र॒वा इत्यु॑प-र॒वाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓नू अधिष᳓वणे , जिह्वा᳓ च᳓र्म , ग्रा᳓वाणो द᳓न्ता , मु᳓खमाहवनी᳓यो , ना᳓सिकोत्तरवेदि᳓र् उद᳓रँ स᳓दः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -894,11 +1031,14 @@ the pressing-boards the jaws, the skin the tongue, the pressing-stones the teeth
 
 हनू॒ इति॑ । अ॒धि॒षव॑णे॒ इत्य॑धि-सव॑ने । जि॒ह्वा । चर्म॑ । ग्रावा॑णः । दन्ताः॑ । मुख॑म् । आ॒ह॒व॒नीय॒ इत्या॑-ह॒व॒नीयः॑ । नासि॑का । उ॒त्त॒र॒वे॒दिरित्यु॑त्तर-वे॒दिः । उ॒दर॑म् । सदः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ ख᳓लु वै᳓ जिह्व᳓या दत्स्व᳓धि खा᳓दत्य᳓थ मु᳓खङ् गच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -919,11 +1059,14 @@ When he eats with his tongue on his teeth, (the food) goes to the mouth;
 
 इदं स्पष्टतरं प्रदर्शयितुं लौकिकभोक्तरि तावद्दशर्यति - यदा खलु वा इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ मु᳓खङ् ग᳓च्छत्य᳓थोद᳓रङ् गच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -944,11 +1087,14 @@ when it goes to the mouth, then it goes to the stomach,
 
 यदा खलु जिह्वया दत्सु दन्तेषु अधिखादति अधि उपरि क्रियते अभ्यवहार्यं अथ पुरुषः खादति, अथानन्तरं मुखं गच्छति यदा मुखं गच्छति अथ तदानीमेव तदुदरं गच्छति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्धविर्धा᳓ने च᳓र्मन्न᳓धि ग्रा᳓वभिरभिषु᳓त्य् - आहवनी᳓ये हुत्वा᳓ प्रत्य᳓ञ्चᳶ परे᳓त्य स᳓दसि भक्षयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -973,16 +1119,22 @@ therefore they press (the juice) with the pressing-stones on the oblation-holder
 
 अन्य आहुः - आस्यस्थमिये प्रक्षिप्तस्य उदरं प्रविष्टस्य पुनश्चर्वणस्थानीयं भक्षणं तदभिनयमृत्विजः कुर्युरिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै वि॒राजो॑ यज्ञमु॒खे दोहव्ँ॒वेद॑ दु॒ह ए॒वैना॑मि॒यव्ँ वै वि॒राट्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳓ वै᳓ विरा᳓जो यज्ञमुखे᳓ दो᳓हव्ँ वे᳓द ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1005,11 +1157,14 @@ He who knows the milking of the Viraj in
 
 शिर आदिरूपकान्तं यज्ञमुखे यज्ञारम्भे यो विराजो यज्ञैर्दोहं वेद एनां विराजं दुहे दुग्धे उपक्रम एव तस्या ज्ञानत् तां दोग्धुं प्रभवतीति । विराजोन्नस्य हेतुत्वादियं विराट् । यद्वा - इयं विराट्संख्या संपद्यते, नवतिशतस्तोत्रीयत्वात् । तस्माद्वा इयं यज्ञभूत्यै धेनुर्विराडित्युच्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुह᳓ एवै᳓नाम् । इयव्ँ᳓ वै᳓ विरा᳓ट् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1025,16 +1180,22 @@ the mouth of the sacrifice milks her;
 
 दु॒हे । ए॒व । ए॒ना॒म् । इ॒यम् । वै । वि॒राडिति॑ वि-राट् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तस्यै॒ त्वक्चर्मोधो॑ऽधि॒षव॑णे॒ स्तना॑ उपर॒वा ग्रावा॑णो व॒त्सा ऋ॒त्विजो॑ दुहन्ति॒ सोम॒ᳶ पयो॒ य ए॒वव्ँ वेद॑ दु॒ह ए॒वैना॑म् ॥ [59]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यै त्व᳓क् च᳓र्मो᳓धोऽधिष᳓वणे स्त᳓ना उपरवा᳓ ग्रा᳓वाणो वत्सा᳓ ऋत्वि᳓जो दुहन्ति सो᳓मᳶ प᳓यः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1064,11 +1225,14 @@ the Viraj is this (cow), the skin is its hide, the pressing-boards its udder, th
 इति भट्टभास्करमिश्रविरचिते ज्ञानयज्ञाख्ये यजुर्वेदभाष्ये षष्ठे काण्डे द्वितीयप्रश्ने एकादशोनुवाकः ॥
 प्रश्नश्च समाप्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द दुह᳓ एवै᳓नाम् ॥ [59]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1083,4 +1247,5 @@ He, who knows thus, milks her.
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वेद॑ । दु॒हे । ए॒व । ए॒ना॒म् ॥
+</details>
 </details>

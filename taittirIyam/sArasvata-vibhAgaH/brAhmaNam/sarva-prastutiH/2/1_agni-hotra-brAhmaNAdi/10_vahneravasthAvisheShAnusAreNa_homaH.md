@@ -8,6 +8,8 @@ unicode_script: devanagari
 य᳓दग्नि᳓मुद्ध᳓रति व᳓सवस्त᳓र्ह्यग्निः᳓ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 यद॒ग्निमु॒द्धर॑ति ।
@@ -23,11 +25,14 @@ unicode_script: devanagari
 
 1 यदग्निमित्यादि ॥ यत् यदा अग्निरुद्ध्रियते तर्हि तस्मिन् काले वसवोऽग्निः वसुभिरेकीभूतस्तिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वति व᳓सुष्वेवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -44,11 +49,14 @@ unicode_script: devanagari
 
 तस्मिन् तथाविधे तादृक्प्रकारेऽग्नौ यस्य जुह्वति वसुष्वेवास्य हुतं भवति वसवस्तर्पिता अनेन भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓हितो धूपाय᳓ञ्छेते रुद्रा᳓स्त᳓र्ह्यग्निः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -65,11 +73,14 @@ unicode_script: devanagari
 
 निहितः स्थापितः धूपायन् धूमं कुर्वन् 'गुपू धूप' इत्यायप्रत्ययः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वति  रु᳓द्रे᳓ष्वेवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -87,11 +98,14 @@ unicode_script: devanagari
 तस्मिन् काले रुद्रैरेकीभूतोऽग्निस्तिष्ठति ।  
 तस्मिन् हुतेन रुद्रास्तर्पिता भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रथम᳓मिध्म᳓मर्चि᳓रा᳓ लभत आदित्या᳓स्त᳓र्ह्यग्निः᳓ ॥57॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -108,11 +122,14 @@ unicode_script: devanagari
 
 प्रथममिति । प्रथमक्षिप्तां समिधमर्चिरालभते आश्लिष्य ज्वलयति । यद्वा - इध्मं प्रक्षिप्तं प्रथममालभते अर्चिर्गृह्णाति आदित्यरूपत्वादग्रेः हुतं आदित्यतृप्त्यै भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वत्य् आदित्ये᳓ष्वेवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -124,11 +141,14 @@ unicode_script: devanagari
 
 त᳓स्मिन् । य᳓स्य । त᳓था-विधे । जु᳓ह्वति । आदित्ये᳓षु । एव᳓ । अस्य । अग्नि-होत्र᳓म् । हुत᳓म् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्व एव᳓ सर्वश᳓ इध्म᳓ आ᳓दीप्तो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -145,11 +165,14 @@ unicode_script: devanagari
 सर्व इति ।  
 सर्वः इध्मः सर्वशः सर्वतः आदीप्तो भवति ज्वलति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे देवा᳓स्त᳓र्ह्यग्निः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -160,11 +183,14 @@ unicode_script: devanagari
 
 वि᳓श्वे । देवाः᳓ । त᳓र्हि । अग्निः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वति वि᳓श्वेष्वेवा᳓स्य देवे᳓ष्वग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,11 +202,14 @@ unicode_script: devanagari
 
 त᳓स्मिन् । य᳓स्य । त᳓था-विधे । जु᳓ह्वति । वि᳓श्वेषु । एव᳓ । अस्य । देवे᳓षु । अग्नि-होत्र᳓म् । हुत᳓म् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नितरा᳓मर्चि᳓रुपा᳓वैति लोहिनी᳓केव भवती᳓न्द्रस्त᳓र्ह्यग्निः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -201,11 +230,14 @@ unicode_script: devanagari
 'वर्णादनुदात्तात्' इति ङीप्, संज्ञायां कन्, प्रत्ययात्पूर्वस्योदात्तत्वं छान्दसम् ।  
 तदा अग्नेरिन्द्रेणैक्यात्तत्र हुतमिन्द्रतृप्तये भवति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वती᳓न्द्र एवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ॥58 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,12 +249,15 @@ unicode_script: devanagari
 
 त᳓स्मिन् । य᳓स्य । त᳓था-विधे । जु᳓ह्वति । इ᳓न्द्रः । एव᳓ । अस्य । अग्नि-होत्र᳓म् । हुत᳓म् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ङ्गारा भवन्ति ।  
 ते᳓भ्यो᳓ऽङ्गारेभ्योऽर्चि᳓रु᳓देति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -234,11 +269,14 @@ unicode_script: devanagari
 
 अ᳓ङ्गाराः । भवन्ति । ते᳓भ्यः । अ᳓ङ्गारेभ्यः । अर्चिः᳓ । उ᳓त् । एति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिस्त᳓र्ह्यग्निः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -249,11 +287,14 @@ unicode_script: devanagari
 
 प्रजा᳓-पतिः । त᳓र्हि । अग्निः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वति प्रजा᳓पतावेवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +311,15 @@ unicode_script: devanagari
 
 3 अङ्गारा इति ॥ अङ्गारभूतेषु काष्ठेषु या अर्चिरुदेति तत्र हुतं प्रजापतितृप्तये भवति । अग्न्यस्यस्य जिह्वास्थनीया अङ्गारा वह्निरूपाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓रो᳓ऽङ्गारा अ᳓ध्यूहन्ते ब्र᳓ह्म त᳓र्ह्यग्निः᳓ ।  
 त᳓स्मिन्य᳓स्य त᳓थाविधे जु᳓ह्वति ब्र᳓ह्मन्नेवा᳓स्याग्निहोत्रँ᳓ हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -294,11 +338,14 @@ unicode_script: devanagari
 
 शर इति । शृणोतेरसुनि शरः भस्म, तत् अङ्गारा अध्यूहन्ते उपरि वहन्ति । तस्मिन् कालेऽग्निर्ब्रह्मस्वरूपत्वात्तत्र हुतं ब्रह्मण्येव हुतं भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सुषु रुद्रे᳓ष्वादित्ये᳓षु वि᳓श्वेषु देवे᳓ष्व् इ᳓न्द्रे प्रजा᳓पतौ ब्र᳓ह्मन्न् अ᳓परिवर्गमेवा᳓स्यैता᳓सु देव᳓तासु हुत᳓म्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -311,11 +358,14 @@ unicode_script: devanagari
 
 व᳓सुषु । रुद्रे᳓षु । आदित्ये᳓षु । वि᳓श्वेषु । देवे᳓षु । इ᳓न्द्रे । प्रजा᳓-पतौ । ब्र᳓ह्मन् । अ᳓परि-वर्गम् । एव᳓ । अस्यै । ता᳓सु । देव᳓तासु । हुत᳓म् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्यैवव्ँ᳓ विदु᳓षोऽग्निहोत्र᳓ञ्जु᳓ह्वति य᳓ उ चैनदेवव्ँ᳓ वे᳓द ॥59॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,4 +383,5 @@ unicode_script: devanagari
 4 अथ वेदितुः स्तुतिः - वसुष्वित्यादि ॥ अपरिवर्गं काश्रिदपि देवता अपरिवृज्य अवर्जयित्वा एतासु देवतासु हुतं भवत्यग्निहोत्रं यस्यैवं विदुषो जुह्वति, यश्चैनदेवं वेद अग्निहोत्रमाहात्म्यम्
 
  इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके दशमोऽनुवाकः ॥
+</details>
 </details>

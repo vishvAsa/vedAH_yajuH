@@ -10,6 +10,8 @@ short_title = "१२ उत्तरवेदीसंस्कारः"
 
 ## मानम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 शम्यया चात्वालं=उत्तरवेदीं परिमिमीते। प्राक् मिमीते। 
@@ -37,11 +39,14 @@ ________
 
 [[P307]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे भूमे!)+++ वित्ता᳓यनी मेऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,16 +72,22 @@ Thou I art the abode of riches for me;
 
 हे उत्तर-वेदे त्वं मम वित्तायनी वह्नि-रूपस्य वित्तस्य प्रापिका ऽसि। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2दक्षिणतो मिमीते - तिक्तायनीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिक्ता᳓यनी+++(←तिज निशातने)+++ मेऽसि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,16 +113,22 @@ thou art the resort of the afflicted for me;
 
 तिक्तायनी वह्नि-तेजसो ज्वाला-रूपस्य प्रापिका ऽसि। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पश्चान्मिमीते - अवतादिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वतान् मा+++(मां→मम)+++ नाथित᳓म्+++(=याचितम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,16 +154,22 @@ protect me when in want;
 
 नाथितं वह्नि-याचकं माम् अवतात्, रक्ष। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरतो मिमीते - अवतादिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वतान्मा व्यथित᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,8 +195,11 @@ protect me when afflicted.
 
 व्यथितं वह्न्यलाभाद् भीतं मां रक्ष।  
 </details>
+</details>
 
 ## स्फ्येन प्रहारः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -193,12 +219,15 @@ protect me when afflicted.
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विदे᳓र् - अग्नि᳓र् न᳓भो +++(इति ते)+++ ना᳓म+अ᳓ग्ने अङ्गिरो]  
 यो᳙ ऽस्या᳓म् [पृथिव्या᳓म् अ᳓सि᳓] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,17 +273,23 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in this earth.
 
 अयं चाग्निः सोम-आहुत्य्-आधारत्वाद् गार्हपत्य-दक्षिणाग्न्यादीनां मध्ये सारः। हे ऽङ्गिरो यस् त्वम् अस्यां चात्वाल-गत-मृद्-रूपायां पृथिव्याम् असि वर्तसे 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6पुरीषमादत्ते - आयुषेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓युषा ना᳓म्ने᳓हि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -280,19 +315,24 @@ come with the name of Ayus
 
 स त्वम् आयुष्-प्रदेन नभो-नाम्ना सहित एहि उत्तर-वेद्याम् आगच्छ। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेद्यां निवपति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,16 +360,21 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं द्वितीयं तृतीयं च करोति ।    
 विदेरग्निर्नभो नामेत्यादिकं सर्वत्रानुवर्तते ।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
@@ -348,11 +393,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विदे᳓र् - अग्नि᳓र् न᳓भो +++(इति ते)+++ ना᳓म+] अ᳓ग्ने अङ्गिरो यो᳓ द्विती᳓यस्यां᳓  [पृथिव्या᳓म् +++(अन्तरिक्षे)+++ अ᳓सि᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -378,13 +426,15 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the second ea
 
 अयं तु विशेषः, द्वितीयपर्याये 'अग्ने अङ्गिरो यो द्वितीयस्यां पृथिव्यामसि' इति भवति । द्वितीया पृथिवी अन्तरिक्षम् ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,10 +462,12 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 चात्वाल-स्थे बर्हिषि स्फ्येन प्रहरति। ततः पूर्ववत् पुरिषादानम्, उत्तरवेद्यां च निवपनम्।
@@ -427,11 +479,14 @@ ________
 
 [[P308]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [विदे᳓र् - अग्नि᳓र् न᳓भो +++(इति ते)+++ ना᳓म+] अ᳓ग्ने अङ्गिरो य᳓स् तृती᳓यस्या᳓म्  [पृथिव्या᳓म् +++(दिव्य्)+++ अ᳓सि᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -454,13 +509,15 @@ May Agni, named Nabhas, know (thee), Agni Angiras, thou who art in the third ear
 
 तृतीये तु, 'अग्ने अङ्गिरो यस्तृतीयस्यां पृथिव्यामसि' इति । तृतीया पृथिवी द्युलोकः पृथुत्वात्पृथिवी । समानमन्यत् । 'विदेरग्निर्नभो नामाग्ने अङ्गिर इति त्रिर्हरति' इति ब्राह्मणम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/12_uttara-vedI-saMskAraH/yatte.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् ते᳓ ऽनाधृष्टन् ना᳓म यज्ञि᳓यन् +++(नभ इत्यादि)+++ ते᳓न त्वा᳓ ऽऽदधे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -488,10 +545,12 @@ Whatsoever unapproached, holy name is thine, [1] therewith I take thee up.
 
 यत् तवानाधृष्टं केनाप्य् अतिरस्कृतं नाम यज्ञ-संबद्धं तेन नाम्ना व्यवहृत्य त्वाम् उत्तर-वेद्याम् आदधे।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10पुरीषं सम्प्रयौति - सिंहीरिति ॥
@@ -511,12 +570,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे उत्तरवेदे!)+++ सिँही᳓र् असि ।  
 महिषी᳓र् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,8 +614,11 @@ thou art a buffalo.
 
 महिषी महनीया। ब्राह्मणान्तरे वा महिषी-जातित्वं द्रष्टव्यम्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 प्रथयति।
@@ -566,14 +631,16 @@ ________
 
 इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु᳓ प्रथस्व ।  
 उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,19 +672,24 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 प्रथस्व प्रसर। 
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12स्फ्येन दृढीकरोति - ध्रुवाऽसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रु᳓वा᳓ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -643,19 +715,25 @@ Thou art firm.
 
 ध्रुवा दृढा। 
 </details>
+</details>
 
 ## अवोक्षणादिकम्
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अद्भिरवोक्षति - देवेभ्य इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्यश् शुन्धस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -681,17 +759,23 @@ Be pure for the gods.
 
 शुन्धस्व शुद्धा भव। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14सिकताभिरनुप्रकिरति - देवेभ्य इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्यश् शुम्भस्व+++(←शुभ शुम्भ शोभनार्थे)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -717,8 +801,11 @@ be bright for the gods.
 
 शुम्भस्व शोभिता भव।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15उत्तरवेदेः प्राग्भागं प्रोक्षति - इन्द्रघोष इति ॥
@@ -735,11 +822,14 @@ ________
 
 [[P310]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(स्तनयित्नुः)+++ इन्द्र-घोष᳓स् त्वा व᳓सुभिᳶ +++(सह)+++ पुर᳓स्तात् पातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -765,17 +855,23 @@ May the cry of Indra guard thee in front with the Vasus;
 
 इन्द्रघोषादि-नामका देवाः परिवृढास् तद्-अनुचरा वस्वादि-गणास् तैर् गणैः सहितास् ते देवाः पान्तु।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणभागं प्रोक्षति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यमः)+++ म᳓नोजवास् त्वा पितृ᳓भिर्  +++(सह)+++  दक्षिणतᳶ᳓ पातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -796,17 +892,23 @@ may the swift of mind guard thee on the right with the Pitrs;
 
 16दक्षिणभागं प्रोक्षति- मनोजवा इति ॥ मनसो जव इव जवो वेगो यस्य स मनोजवाः यमः । तस्य हि मनस इव जवो भवति । जवतेरसुनि जवः । स पितृभिस्सह त्वां दक्षिणतः पातु त्वदीयं दक्षिणभागं पातु ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17पश्चिमभागं प्रोक्षति - प्रचेता इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓चेतास् त्वा रुद्रैᳶ᳓  +++(सह)+++  पश्वा᳓त्पातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -827,17 +929,23 @@ may the wise one guard thee behind with the Rudras;
 
 प्रकृष्टचेताः प्रकृष्टविज्ञानो वरुणः । स रुद्रैस्सह त्वां पश्चात्पातु पश्चाद्भागं पातु ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18उत्तरभागं प्रोक्षति - विश्वकर्मेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्वष्टा)+++ विश्व᳓कर्मा त्वा ऽऽदित्यै᳓र्  +++(सह)+++  उत्तरतᳶ᳓ पातु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -858,9 +966,12 @@ may Viçvakarman guard thee on the left with the Adityas.
 
 विश्वानि कर्माण्यस्मिन्निति विश्वकर्मा त्वष्टा, लोकपालाधिकाराद्वैश्रवणो वा । 'बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । स आदित्यैस्सह त्वामुत्तरतः पातु तवोत्तरभागं पातु । 'असुरा वज्रमुद्यत्य देवानभ्यायन्त' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ## व्याघारादिकम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 उत्तरवेदिम् अक्ष्णया=?? व्याघारयति।
@@ -874,11 +985,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र् असि, सपत्न-साही᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -905,17 +1019,23 @@ Thou art a lioness, overcoming rivals; hail!
 
 हे उत्तर-वेदे त्वं सिंह-रूप-धारिण्य् असि। सपत्न-साही वैरि-घातिनी। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20उत्तरस्यां श्रोण्यां -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र् असि, सुप्रजा-व᳓निस्+++(=काङ्क्षा)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -942,17 +1062,23 @@ Thou art a lioness, bestowing fair offspring; hail!
 
 सु-प्रजा-वनिः शोभनापत्य-भृत्य-प्रदा।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 दक्षिणस्यां श्रोण्यां।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र् असि, रायस्+++(←छान्दसष् षष्ठ्या अलुक्)+++-पोष-व᳓निस्+++(=काङ्क्षा)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -984,17 +1110,23 @@ Thou art a lioness, [2] bestowing increase of wealth; hail!
 
 रायस्-पोष-वनिः पश्वादि-धन-समृद्धि-दा। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 22उत्तरेंसे - सिंहीस्त्वमसि आदित्यवनिः अदितिपुत्राणां सम्भक्त्री ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र् अस्य्, आदित्य-व᳓निस्+++(=काङ्क्षा)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1016,17 +1148,23 @@ Thou art a lioness, winning (the favour of) the Adityas hail!
 
 आदित्य-वनिर्-भूति-संबन्धि-प्रतिष्ठा-प्रदा। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मध्ये।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र् असि । आ᳓ वह देवा᳓न् , दे᳓व᳓यते᳓+++(=देवान् कामयमानाय, 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम्)+++ य᳓जमानाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1059,8 +1197,11 @@ Thou art a lioness; bring the gods to the pious sacrificer; hail!
 
 देवयते देवान् इच्छते यजमानाय तवेदं हुतम् अस्तु।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 24स्रुचमुद्गृह्णाति - भूतेभ्य इति ॥
@@ -1074,11 +1215,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूते᳓भ्यस् त्वा +++(उद्गृह्णामि)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1104,11 +1248,14 @@ To beings thee!
 
 हे जुहूस् त्वां भूतेभ्यश्-चिरंतनेभ्यो देवेभ्य उद्गृह्णामि।
 </details>
+</details>
 
 _____
 
 ## परिधिस्थापनादिकम्
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पौतुद्रवान् = देवदारुभवान् परिधीन् परिदधाति।  तत्र मध्यमं परिदधाति।।
@@ -1122,11 +1269,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मध्यमपरिधि!)+++ विश्वा᳓युर् असि। पृ᳓थिवी᳓न् दृँह+++(=दृढीकुरु)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1152,17 +1302,23 @@ Thou containest all life, strengthen the earth;
 
 हे मध्यम-परिधे त्वं कृत्स्नायुः-प्रदो ऽसि पृथिवीं दृढां कुरु। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 26दक्षिणं परिदधाति - ध्रुवक्षिदिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दक्षिणपरिधि!)+++ ध्रु᳓व-क्षि᳓द्+++(=वास्तव्या)+++ अ᳓सि᳓ । अन्त᳓रिक्षन् दृँह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1195,17 +1351,23 @@ thou restest firm, strengthen the atmosphere;
 
 हे दक्षिण-परिधे त्वं स्थिर-निवासो ऽसि। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 27उत्तरं परिदधाति - अच्युतक्षिदिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उत्तर-परिधि!)+++ अ᳓च्यु᳓त-क्षि᳓द् असि । दि᳓वन् दृँह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1238,8 +1400,11 @@ thou restest inviolable, strengthen the heaven.
 
 हे उत्तर-परिधे त्वम्-अविनष्ट-निवासो ऽसि।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 28सम्भारान्निवपति - अग्नेरिति ॥
@@ -1253,11 +1418,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र्  +++(भस भर्त्सनदीप्त्योः→)+++भ᳓स्मासि । अग्नेᳶ᳓ +++(भस्मवद् दीप्तिसाधनं)+++ पु᳓रीषम् असि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1290,6 +1458,7 @@ Thou art the ashes of Agni; thou art the rubble of Agni.
 <details><summary>सायण-टीका</summary>
 
 हे संभार-स्वरूप त्वम्-अग्नेर्-भासकं पूरकं चासि।
+</details>
 </details>
 
 इति द्वितीये द्वादशोनुवाकः  

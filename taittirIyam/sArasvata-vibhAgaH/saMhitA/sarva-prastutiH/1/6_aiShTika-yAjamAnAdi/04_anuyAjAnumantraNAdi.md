@@ -10,15 +10,20 @@ title = "०४ अनुयाजानुमन्त्रणादि"
 
 ## अनूयाजाः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अनूयाजान् क्रमेणानुमन्त्रयते - बर्हिष इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓षो ऽह᳓न् देवयज्य᳓या प्रजा᳓वान् भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,11 +51,14 @@ By sacrifice to the divine straw, may I be possessed of children.
 बर्हिषोऽहमिति। कल्पः - ‘अनूयाजानामिष्टमिष्टमनुमन्त्रयते बर्हिषोऽहं देवयज्यया प्रजावान्भूयासं नराशँसस्याहं देवयज्यया पशुमान् भूयासमग्नेः स्विष्टकृतोऽहं देवयज्ययाऽऽयुष्मान्यज्ञेन प्रतिष्ठां गमेयमिति’ इति।  
 बर्हिर्नराशंसस्विष्टकृच्छब्दा अनुयाजदेवानामग्निविशेषाणां वाचकाः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नराशँ᳓सस्याह᳓न् देवयज्य᳓या पशुमा᳓न् भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -78,12 +86,15 @@ By sacrifice to the god Naraśansa, may I be possessed of cattle.
 
 कल्पः - ‘अथ यत्र होतुरभिजानात्यग्निरिदं हविजुषतेति तद्यजमानमुज्जि-तीर्वाचयति अग्नेरहमुज्जतिमनूज्जेषमिति यथेष्टम्’ इति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓स् स्विष्टकृ᳓तो ऽह᳓न् देवयज्य᳓या᳓  
 ऽऽयुष्मान्, यज्ञे᳓न प्रतिष्ठा᳓ङ् गमेयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,10 +117,13 @@ By sacrifice to the god Agni Svistakrt, may I attain security through the sacrif
 
 - [ स्विष्टकृतः - अग्नेस्स्विष्टकृत इति ॥ स्विष्टं करोर्तीति स्विष्टकृत्, तस्य देवयज्ययाहमायुष्मान्भूत्वा यज्ञेन प्रतिष्ठां गमेयम् । यज्ञेन या प्रतिष्ठा भवति 'यो यतो यज्ञं प्रयुङ्क्ते । तदेनं प्रतिष्ठापयतीति । प्रति तिष्ठति प्रजया पशुभिर्यजमानः' इति तामपि प्रतिष्ठां गमेयम् । 'लिङ्याशिष्यङ्' ॥]
 </details>
+</details>
 
 ## उज्झितिमन्त्राः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4-11सूक्तवाके 'अग्निरिदं हविरजुषत' इत्यादिक्रमेण उज्जितीर्वाचयति - अग्नेरहमित्याद्याः ॥ दर्शपूर्णमासाभ्यां पूर्ववद् देवता इष्ट्वा, तयोर् **उज्जितिम्** उच्छ्रितम् ऊर्ध्वलोक-विषयं वा जयं नः अनूदजयन् तद्धेतुकाम् **उज्जितिम्** अलभन्त । 'दर्शपूर्णर्मासयोर् वै देवाः' इत्यादि ब्राह्मणम् । 
@@ -119,11 +133,14 @@ _______
 
 अ॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षँ॒ सोम॑स्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेर॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नीषोम॑योर॒हमुज्जि॑ति॒मनूज्जे॑षमिन्द्राग्नि॒योर॒हमुज्जि॑ति॒मनूज्जे॑ष॒मिन्द्र॑स्या॒हम् [11]उज्जि॑ति॒मनूज्जे॑षम्महे॒न्द्रस्या॒हमुज्जि॑ति॒मनूज्जे॑षम॒ग्नेस्स्वि॑ष्ट॒कृतो॒ऽहमुज्जि॑ति॒मनूज्जे॑षम् 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,11 +171,14 @@ May I be victorious through the victory of Agni.
 पाठस्तु -  
 अग्नेहरमिति। आज्यभागदेवोऽग्निर्हविः सेवित्वा तेन हविषा पुष्टो यज्ञविरोधिनोऽसुरादीनभिभवन्नुत्कृष्टं जयं प्राप्तवान्। तदीयां तामुज्जितिमनु यजमानोऽहं पापरूपं वैरिणमभिभवन्नुत्कृष्टं जयं प्राप्तोऽस्मि। एवं सर्वत्र योज्यम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,11 +194,14 @@ May I be victorious through the victory of Soma.
 
 सोम॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,11 +217,14 @@ May I be victorious through the victory of Agni.
 
 अ॒ग्नेः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नी᳓षो᳓मयोर् अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,11 +240,14 @@ May I be victorious through the victory of Agni and Soma.
 
 अ॒ग्नीषोम॑यो॒रित्य॒ग्नी-सोम॑योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्राग्नियो᳓र्+++(→ग्न्योर् इति स्वरः)+++ अह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -234,11 +263,14 @@ May I be victorious through the victory of Indra and Agni.
 
 इ॒न्द्रा॒ग्नि॒योरिती॑न्द्र-अ॒ग्नि॒योः । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -254,11 +286,14 @@ May I be victorious through the victory of Indra [1].
 
 इन्द्र॑स्य । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महेन्द्र᳓स्याह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -274,11 +309,14 @@ May I be victorious through the victory of Mahendra.
 
 म॒हे॒न्द्रस्येति॑ महा-इ॒न्द्रस्य॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓स् स्विष्टकृ᳓तो ऽह᳓म् उ᳓ज्जितिम् अ᳓नू᳓ज्जेषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -294,9 +332,12 @@ I May I be victorious through the victory of Agni Svistakrt.
 
 अ॒ग्नेः । स्वि॒ष्ट॒कृत॒ इति॑ स्विष्ट-कृतः॑ । अ॒हम् । उज्जि॑ति॒मित्युत्-जि॒ति॒म् । अनु॑ । उदिति॑ । जे॒ष॒म् ।
 </details>
+</details>
 
 ## स्रुग्-व्यूहनम्
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11-13स्रुग्-व्यूहन-मन्त्रौ वाजस्येत्यनुष्टुभौ ॥ व्याख्याते चैते ।
@@ -306,18 +347,23 @@ _______
 
 एमा अग्मन्निति। कल्पः - “अथ यत्र होतुरभिजानात्याशास्तेऽयं यजमा-नोऽसाविति तद्यजमानं यज्ञस्य दोहं वाचयत्येमा अग्मन्नाशिषो दोहकामा इन्द्रवन्तो वनामहे धुक्षीमहि प्रजामिषमिति” इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्य+++(=अन्नस्य)+++ मा प्रसवे᳓न+++(=योनिना)++++उद्ग्राभे᳓ण᳓+++(=ग्रहेण [जुह्वा])+++ +उ᳓दग्रभीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,11 +396,15 @@ ___________
 वाजस्य मेति। इन्द्रो वाजस्यान्नस्य प्रसूतिनिमित्तेन स्रुच ऊर्ध्वग्रहणेन मामुग्रभीदुत्कर्षं प्रापितवात्। 
 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एवमनेनार्धर्चेन दक्षिणेन जुहूमुद्गृह्य अर्धर्चान्तरेण सव्येनोपभृतं निगृह्णाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +412,8 @@ _______
 अ᳓था सप᳓त्नाँ इ᳓न्द्रो मे  
 निग्राभे᳓णा᳓धराँ अकः+++(=करोतु)+++ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +444,15 @@ ____________
 
 अथ स्रुचो न्यक्कारेण मम सपत्नानधरान्न्यक्‍कृतानकरोत्। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एवं जुहूपभृतोः उद्ग्रहणनिग्रहणे कृत्वा प्राचीं जुहूं व्यूहति - उद्ग्राभं च निग्राभं च देवा इहागताः अवीवृधन्वर्धयन्तु ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -405,6 +461,8 @@ ________
 
 +++( 'अथ स्रुचावनुष्टुग्भ्यां वाजवतीभ्याम्' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -434,11 +492,15 @@ ____________
 
 देवा ब्रह्म परिवृढं स्रुचोरुद्ग्राहनिग्राहरूपं कर्मद्वयमवर्धयन्। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4एवं च प्रतीचीमुपभृतं प्रत्यूहति - अथेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,6 +508,8 @@ _______
 अ᳓था सप᳓त्नान् इन्द्राग्नी᳓  
 मे विषूची᳓नान्+++(=विष्वग्-गतान्)+++ व्य᳙स्यताम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -476,11 +540,13 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-
+</details>
 </div>  
 
 ## दोहः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14यज्ञस्य दोहं वाचयति - एमा इति । 
@@ -489,6 +555,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एमा अ॑ग्मन्ना॒शिषो॒ दोह॑कामा॒ इन्द्र॑वन्तः [12]व॒ना॒म॒हे॒ धु॒क्षी॒महि॑ प्र॒जामिष॑म् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/06_AimA_agmann.md">
@@ -545,6 +612,8 @@ May we milk offspring and food.
 
 ## प्रस्तरप्रहारे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15-17प्रस्तरं प्रह्रियमाणमनुमन्त्रयते - रोहितेनेति ॥ 
@@ -559,11 +628,14 @@ _______
 
 रोहितेनेति। कल्पः - “प्रस्तरं प्रह्रियमाणमनुमन्त्रयते रोहितेन त्वाऽग्निर्देवतां गमयतु हरिभ्यां त्वेन्द्रो देवतां गमयत्वेतशेन त्वा सूर्यो देवतां गमयत्विति” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓हितेन त्वा ऽग्नि᳓र् देव᳓ताङ् गमयतु ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -589,11 +661,14 @@ With the red steed may Agni convey thee to the god;
 
 रोहितहर्येतशब्दा अग्नीन्द्रसूर्याणामश्वानभिदधते। हे प्रस्तर तैरश्वैरग्न्यादयस्त्वां सूक्तवाकोक्तां देवतां गमयन्तु।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह᳓रिभ्यान् त्वे᳓न्द्रो देव᳓ताङ् गमयतु᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -614,11 +689,14 @@ with the tawny ones may Indra convey thee to the god;
 
 हरिभ्यामात्मीयाभ्यामश्वाभ्यामिन्द्रसवां देवानां सकाशं प्रापयतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓तशेन त्वा सू᳓र्यो देव᳓ताङ् गमयतु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -639,10 +717,13 @@ with Etaśa may Sarya convey thee to the god.
 
 सूर्यश्चात्मीयेनैतशेनाश्वेन त्वां देवतापार्श्वं प्रापयतु । रोहितादयोग्न्यादीनामश्वाः, 'एते वै देवाश्वाः' इति च ब्राह्मणम् ॥
 </details>
+</details>
 
 ## विमुच्यमानपरिध्यनुमन्त्रणम्
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18परिधीन् विमुच्यमानान् अनुमन्त्रयते - वि ते मुञ्चामीति त्रिष्टुभा ॥
@@ -656,6 +737,7 @@ _______
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 वि ते मुञ्चामीति। कल्पः - “परिधीन्विमुच्‍यमानाननुमन्त्रयते वि ते मुञ्चामि रशना वि रश्मीन्वि योक्त्रा यानि परिचर्तनानि। धत्तादस्मासु द्रविणं यच्च भद्रं प्र णो ब्रूताद्भागधान्देवतास्विति” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/07_vi_te.md">
@@ -714,6 +796,8 @@ Proclaim us sharers among the gods.
 
 ## शंयुवाकानुमन्त्रणम्
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19शंयुवाकम् उक्तम् अनुमन्त्रयते - विष्णोरिति ॥ 
@@ -723,12 +807,15 @@ _______
 
 विष्णोः शंयोरिति। कल्पः - ‘शंयुवाकमुक्तमनुमन्त्रयते विष्णोः शंयोरहं देवयज्यया यज्ञेन प्रतिष्ठां गमेयमिति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोः शय्ँ-यो᳓र्+++(←यु पृथक्करणे)+++ अह᳓न् देवयज्य᳓या यज्ञे᳓न  
 प्रतिष्ठा᳓ङ् गमेयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -755,9 +842,12 @@ By sacrifice to the god Visnu, by the sacrifice, may I attain health and wealth,
 
 शंयुशब्दः सुखमिश्रं बृहस्पतिपुत्रं ब्रूते। ते शंयुं बार्हस्पत्यमिति ब्राह्मणोक्तेः। स च बहुषु कार्येषु व्याप्नुवन्विष्णुरित्युच्यते। तस्य परितोषहेतुत्वात्परिधिप्र-हरणं तदीया देवयज्या तथा यजमानोऽहं कृत्स्नयज्ञेन निष्पन्नां प्रतिष्ठां फलं गमेयं प्राप्नुयाम्।  
 </details>
+</details>
 
 ## पत्नीसंयाजानुमन्त्रणम्
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20-21पत्नीसंयाजाननुमन्त्रयते - सोमस्याहमित्यादिभिः ॥ 
@@ -767,12 +857,15 @@ _______
 
 सोमस्याहमिति। कल्पः - ‘पत्नीसंयाजानामिष्टमनुमन्‍त्रयते सोमस्याहं देवयज्यया सुरेता रेतो धिषीय त्वष्टुरहं देवयज्यया पशूनाँ रूपं पुषेयमिति’ इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मस्याह᳓न् देव-यज्य᳓या  
 सुरे᳓ता रे᳓तो धिषीय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -800,12 +893,15 @@ By sacrifice to the god Soma [3], possessing good seed, may I impregnate seed.
 
 चतुर्णां पत्नीसंयाजानां क्रमेण सोमस्त्वष्टा देवपत्न्यो गृहपत्यग्निरिति चतस्रो देवताः। तत्र सोमस्य रेतोधारणाभिमानित्वात्तदीययागेनाहं रेतो घिषीय धारयेयम्। द्विविधं रेतो वन्ध्यमुत्यादकं च। तत्र वन्ध्यव्यावृत्तये सुरेता इति विशेष्यते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्टुर् अह᳓न् देव-यज्य᳓या  
 पशूनाँ᳓ रूप᳓म् पुषेयम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -831,8 +927,11 @@ By sacrifice to the god Tvastr, may I prosper the form of cattle.
 
 त्वष्टा तु निषिक्तं रेतः पश्वादिरूपेण विकारयति। अतस्तद्यागेन पशुरूपं पुषेयं पुष्यासम्। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 22अथान्ययोस् सहानुमन्त्रणम् - देवानामिति ॥ 
@@ -842,6 +941,7 @@ _______
 
 दे॒वाना॒म्पत्नी॑र॒ग्निर्गृ॒हप॑तिर्य॒ज्ञस्य॑ मिथु॒नम् 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -849,6 +949,8 @@ _______
 अग्नि᳓र् गृह᳓-पतिर् +++(इति)+++  
 यज्ञ᳓स्य मिथुन᳓म्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -875,12 +977,15 @@ The wives of the gods, Agni lord of the house, are the pair of the sacrifice;
 
 मिथुनत्वसिद्ध्यर्थमेकस्मिन्नेव मन्त्रे तृतीयचतुर्थदेवते समस्येते। या देवपत्न्यो यश्च गृहपतिरग्निस्तदुभयं मिलित्वा यज्ञसंबन्धि मिथुनम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓योर् अह᳓न् देव-यज्य᳓या  
 मिथुने᳓न प्र᳓ भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -906,9 +1011,12 @@ by sacrifice to these deities, may I be propagated with a pair.
 
 तदीययागेनाहमपि मिथुनेत पुत्रपुत्रीरूपेण प्रकृष्टो भूयासम्।  
 </details>
+</details>
 
 ## वेदे निधीयमाने
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23वेदेन्तर्वेदि निधीयमाने यजमानं वाचयति - वेदोसीति षट्पदया शक्वर्या ॥
@@ -918,11 +1026,14 @@ _______
 
 वे॒दो॑ऽसि॒ वित्ति॑रसि वि॒देय॒ कर्मा॑सि क॒रुण॑मसि क्रि॒यासँ॑ स॒निर॑सि सनि॒तासि॑ स॒नेय॑ङ्घृ॒तव॑न्तङ्कुला॒यिनँ॑ रा॒यस्पोषँ॑ सह॒स्रिणव्ँ॑वे॒दो द॑दातु वा॒जिन॑म् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदो᳙ऽसि, वि᳓त्तिर् असि। विदे᳓य।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -952,11 +1063,14 @@ Thou art the bundle, thou art gain, may I gain.
 पाठस्तु-  
 वेदोऽसीति। वेदोऽसीत्यस्य वाक्यस्यार्थो वित्तिरसीत्यनेन स्पष्टी क्रियते। हे दर्भमय त्वं वेदनामाऽसि। तस्य नाम्नोऽयमर्थः - वित्तिर्द्रव्यलाभसाधनमित्यतस्तत्प्रसादेनाहं धनं विदेय लभेय। तथैवोपरि व्याख्येयम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓र्मासि, करु᳓णम् असि। क्रिया᳓सम्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -982,11 +1096,14 @@ Thou art action, thou art making, may I make.
 
 कर्मासि कर्मनामकम(कोऽ)सि। तस्य व्याख्यानं करुणमसीति। क्रियतेऽनेनेति करुणं वेदिसंमार्जनभस्माध्यूहनादिसाधनमित्यर्थः। अतस्त्वयाऽहं संमार्जनादिकं क्रियासम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सनि᳓र् असि, सनिता᳓सि। सने᳓यम्।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1011,6 +1128,7 @@ Thou art winning, thou art the winner, may I win.
 <details><summary>सायण-टीका</summary>
 
 तथा त्वं सनिरसि सनिनामाऽसि। तद्व्याख्यानं सनिताऽसीति। धनस्य दाताऽसीत्यर्थः। अतस्त्वत्प्रसादेन सनेयं धनमृत्विगादिभ्यो देयासम्। 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/04_anuyAjAnumantraNAdi/08_ghRtavanta~N_kulAyinam.md">

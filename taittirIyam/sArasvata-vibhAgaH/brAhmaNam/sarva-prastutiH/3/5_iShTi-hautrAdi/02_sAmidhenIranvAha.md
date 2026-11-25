@@ -3,11 +3,14 @@ title: ०२ सामिधेनीरन्वाह
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः- व्याहृतीर् उक्त्वा त्रिर् अभिहिंकृत्य अनवानम् अभिहिंकाराद् ऋचम् उपसंदधाति प्र वो वाजा अभिद्यव इत्य् एकादशेमाः सामिधेन्यः इति।
 
 अनवानम् उच्छ्वसन्।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/027/01_pra_vo.md">
@@ -589,6 +592,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 बृह᳓च्छोचा यविष्ठ्य ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तन्त्वा॑ स॒मिद्भि॑रङ्गिरः ।  
@@ -617,6 +622,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 हे ऽङ्गिरो ऽग्ने तं त्वा तादृशं देवानाम् आह्वातारं त्वां समिद्भिर् घृतेन च वर्धयामः। हे यविष्ठ्य युवतम बृहज्ज्वालाधिक्यं यथा भवति तथा शोच दीप्यस्व।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -624,6 +630,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अ᳓च्छा देव विवाससि ।  
 बृह᳓द् अग्ने सुवी᳓र्यम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -653,6 +661,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 हे ऽग्ने देव स त्वं नो ऽस्मद्-अर्थं पृथु विस्तीर्णं श्रवाय्यं देवैः श्रोतुं योग्यम् इदं कर्माच्छाभिमुखीकृत्य बृहत्-सुवीर्यं च यथा भवति तथा विवाससि विभातं कुरु। प्रकाशयेत्य् अर्थः। बृहच्छब्देन ज्वालाधिक्यं विवक्षितम्। सुवीर्य-शब्देन हूयमानस्य हविषः सम्यग्-दहन-सामर्थ्यम् उच्यते।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,6 +669,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 त᳓माँसि दर्शतः᳓ ।  
 स᳓म् अग्नि᳓र् इध्यते वृ᳓षा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +700,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 अयम् अग्निः सम्यग् इध्यते। कीदृशः, ईडेन्यः स्तोतुं योग्यः, नमस्यो नमस्कार-योग्यः, तमांसि तिरस्कुर्वन् दर्शतः पदार्थानाम् आर्दशयिता, वृषा कामानां वर्धयिता।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -696,6 +708,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अ᳓श्वो न᳓ देव-वा᳓हनः ।  
 तँ᳓ हवि᳓ष्मन्त ईडते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +739,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 अयम् अग्निः सम्यग् इध्यते। कीदृशः। वृषः कामानां वर्षयिता। अश्वो न देव-वाहनो ऽश्व इव देवार्थस्य हविषो वोढा। तम् इमम् अग्निं हविष्मन्तो यजमानाः स्तुवते। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -732,6 +747,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 वृ᳓षाणस् स᳓मिधीमहि ॥3॥  
 अ᳓ग्ने दी᳓द्यतम् बृह᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,6 +778,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 हे वृषन् कामानां वर्षकाग्ने वृषणं कामानां वर्षितारं त्वां वृषाणो वयम् आहुति-वृष्टिं कुर्वन्तो वयं समिधीमहि सम्यक् प्रकाशयामः। कीदृशं त्वां, बृहद् दीद्यतं प्रौढ-ज्वालं यथा भवति तथा दीप्यमानम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -768,6 +786,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 हो᳓तारव्ँ विश्व᳓वेदसम् ।  
 अस्य᳓ यज्ञ᳓स्य सुक्र᳓तुम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -797,6 +817,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 इमम् अग्निं वयं वृणीमहे प्रार्थयामहे। कीदृशं, दूतं देवान् प्रति प्रेषणार्हं, होतारम् आह्वातारं, विश्ववेदसं विश्वान् सर्वान् देवान् वेत्तीति विश्ववेदास् तादृशम्। अस्य यज्ञस्य संबन्धिनं सुक्रतुं शोभन-कर्माणम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -804,6 +825,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अग्निᳶ᳓ पावक᳓ ई᳓ड्यः ।  
 शोचि᳓ष्-केशस् त᳓म् ईमहे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -833,6 +856,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 यो ऽग्निर् अध्वरे ऽस्मिन् कर्मणि समिध्यमानः पावकः शुद्धि-हेतुर् ईड्यः स्तुत्यः शोचींषि दीप्तयः केश-स्थानीया यस्यासौ शोचिष्केशस् तम् अग्निम् ईमहे प्राप्नुमः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -840,6 +864,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 देवा᳓न् यक्षि स्वध्वर ।  
 त्वँ᳓ हि᳓ हव्य-वा᳓ड् अ᳓सि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -870,10 +896,14 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 हे आहुताऽऽहुत्याराधिताग्ने त्वं समिद्धः सन् देवान् यक्षि यजसि। हे स्वध्वर सुष्ठु-निष्पादित-याग हि यस्मात् त्वं हव्यवाड् असि तस्माद् यजेत्य् अन्वयः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11वसिष्ठराजन्यव्यतिरिक्तानां परिधानीया - आजुहोतेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -882,6 +912,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 अग्नि᳓म् प्रयत्य् अ᳙ध्वरे᳓ ।  
 वृणीध्वँ᳓ हव्य-वा᳓हनम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,10 +943,14 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 इति।  
 हे यजमाना इमम् अग्निम् आहुतिभिर् आ जुहोत प्रीणयत, दुवस्यत परिचरत, प्रयति प्रयत्नेन वर्तमाने ऽस्मिन्न् अध्वरे यागे हव्य-वाहनम् अग्निं वृणीध्वं प्रार्थयध्वम्। अनया सामिधेनीनां परिसमाप्यमानत्वाद् इयं परिधानीया। तत्र पुरुष-भेदेनान्या परिधानीया विकल्पते। तथा च सूत्र-कारः- "त्वं वरुण इति वसिष्ठ-राजन्यानां परिधानीया, आजुहोतेतीतरेषां गोत्राणाम्" इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथ वसिष्ठराजन्यानां परिधानीया - त्वं वरुण इति त्रिष्टुप् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +960,8 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 त्वे᳓ व᳓सु सुषणना᳓नि सन्तु ।  
 यूय᳓म् पात स्वस्ति᳓भिस् स᳓दा नः ॥4॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -956,4 +994,5 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 इति।  
 हे ऽग्ने त्वम् अनिष्ट-निवारकत्वाद्वरुण इष्ट-प्रापकत्वान् मित्रश् च। वसिष्ठ-गोत्रीया मतिभिर् मनीषाभिः स्तुतिभिर् वर्धन्ति वर्धयन्ति त्वाम्। त्वे त्वयि वसु धनं सुषणनानि सुष्ठु दातव्यानि हवींषि च सन्तु तिष्ठन्तु। यूयं च नो ऽस्मान् स्वस्तिभिः सदा पात रक्षत। यूयम् इति बहु-वचनं पूजार्थम्।
+</details>
 </details>

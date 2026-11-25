@@ -6,6 +6,8 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 
 चतुर्थकाण्डे तृतीयप्रपाठके पञ्चमोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्र्यवि॒र्वय॑स्त्रि॒ष्टुप्छन्दो॑ दित्य॒वाड्वयो॑ वि॒राट्छन्द॒ᳶ पञ्चा॑वि॒र्वयो॑ गाय॒त्री छन्द॑स्त्रिव॒त्सो वय॑ उ॒ष्णिहा॒ छन्द॑स्तुर्य॒वाड्वयो॑ऽनु॒ष्टुप्छन्दᳶ॑ पष्ठ॒वाद्वयो॑ बृह॒ती छन्द॑ उ॒क्षा वय॑स्स॒तोबृ॑हती॒ छन्द॑ ऋष॒भो वय॑ᳵ क॒कुच्छन्दो॑ धे॒नुर्वयो॒ जग॑ती॒ छन्दो॑ऽन॒ड्वान्वयᳶ॑ प॒ङ्क्तिश्छन्दो॑ ब॒स्तो वयो॑ विव॒लञ्छन्दो॑ वृ॒ष्णिर्वयो॑ विशा॒लञ्छन्द॒ᳶ पुरु॑षो॒ वय॑स्त॒न्द्रञ्छन्दो॑ व्या॒घ्रो वयोऽना॑धृष्ट॒ञ्छन्द॑स्सिँ॒हो वय॑श्छ॒दिश्छन्दो॑ विष्ट॒म्भो वयोऽधि॑पति॒श्छन्दः॑ क्ष॒त्रव्ँवयो॒ मय॑न्द॒ञ्छन्दो॑ वि॒श्वक॑र्मा॒ वयᳶ॑ परमे॒ष्ठी छन्दो मू॒र्धा वयᳶ॑ प्र॒जाप॑ति॒श्छन्दः॑ ॥ [10]  
@@ -18,11 +20,14 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 कल्पः—“त्र्यविर्वय इति पञ्च दक्षिणस्यां श्रोण्यां षष्ठवाद्वय इति पञ्चो त्तरस्यां बस्तो वय इति दक्षिर्णेऽसे वृष्णिर्वय इत्युत्तरे व्याघ्नो वय इति दक्षिणे पक्षे सिँ हो वय इत्युत्तर एतद्वा विपरीतं पुरुषो वय इति मध्ये विष्यम्भ्यो वय इति चतस्त्रो वयस्याः पुरस्तात्प्रतीचीः” इति ।  
 पाठस्तु— त्र्यविर्वय इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र्य᳓विर्व᳓यस्त्रिष्टु᳓प्छ᳓न्दः  +++(त्वमसि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,11 +52,14 @@ title = "०५ द्वितीयचितौ वयस्याख्ये
 त्रिष्टुपूचतुश्चत्वारिंशदक्षरा, तादृशं छन्दस्त्वमसि ।  
 एवं सर्वत्र योज्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दित्यवा᳓ड्व᳓यो᳓  विरा᳓ट्छ᳓न्दः +++(त्वमसि)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,11 +80,14 @@ the two-year-old in strength, the Viraj metre;
 
 दित्यवाड्द्विवत्सरपरिमितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाविर्व᳓यो गायत्री᳓ छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -97,11 +108,14 @@ the two-and-a-half year-old in strength, the Gayatri metre;
 
 पञ्चाविः सार्धद्विवत्सरपरिमितम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवत्सो᳓ व᳓य उष्णि᳓हा छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,11 +136,14 @@ the three-year old in strength, the Usnih metre;
 
 त्रिवत्सो वत्सरत्रयपरिमितम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुर्यवा᳓ड्व᳓योऽनुष्टु᳓प्छ᳓न्दः +++(त्वमसि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,11 +164,14 @@ the four-year-old in strength, the Anustubh metre;
 
 तुर्यवाट्सार्धसंवत्सरत्रयपरिगितम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पष्ठवा᳓द्व᳓यो बृहती᳓ छ᳓न्दः +++(त्वमसि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -172,11 +192,14 @@ the draught ox in strength, the Brhati metre;
 
 षष्ठवात्संवत्सरचतुष्टयपरिमितम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्षा᳓ व᳓यस्सतो᳓बृहती छ᳓न्दः +++(त्वमसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,6 +222,7 @@ the bull in strength, the Satobrhati metre;
 तावति हि काले गौः सेक्ता भवति ।  
 एव मृषभादिशब्दास्तत्तत्प्रसिद्धार्थद्वारेण तत्तदर्थसंबन्धिवयोविशेषार्थत्वेनोन्नेयाः ।    विवलविशालादिशब्दा लोकप्रसिद्धच्छन्दांस्यनभिदघाना अपि शतपथब्राह्मणादिप्रसिद्धच्छन्दोविशेषवाचिन इति द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -211,6 +235,8 @@ the bull in strength, the Satobrhati metre;
 व्याघ्रो᳓ व᳓यो᳓ऽनाधृष्टञ्छ᳓न्दः +++(त्वमसि)+++।   
 सिँहो᳓ व᳓यश्छदि᳓श्छ᳓न्दः  +++(त्वमसि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -240,11 +266,14 @@ the bullock in strength, the Kakubh metre; the milch cow in strength, the Jagati
 तत्सांनिघ्याद्विष्टम्भक्षत्त्रमूर्धशब्दाश्च तदीयमेकदेशविशेषमाचक्षते ।  
 तत्र विश्वकर्मशब्देन प्रजापत्यायुःपरिमितः काल उपलक्ष्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्टम्भो᳓ व᳓यो᳓ऽधिपतिश्छ᳓न्दः +++(त्वमसि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,12 +294,15 @@ the support in strength, the overlord metre;
 
 विष्टभ्भशब्देण जगद्धारणवाचिनैकस्याः सृष्टेः स्थितिकाल उपलक्ष्यते ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रव्ँ᳓व᳓यो म᳓यन्दञ्छ᳓न्दः  +++(त्वमसि)+++ ।  
 विश्व᳓कर्मा व᳓यᳶ परमेष्ठी᳓छ᳓न्दः +++(त्वमसि)+++  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,11 +325,14 @@ the lordly power in strength, the delight-giving metre; the all-creating in stre
 क्षत्त्रशब्दो बलवाची ।  
 ततो यावता कालेनो त्पन्नं ब्राह्मण्यं प्रबलं भवति तावान्कालः क्षत्त्रशब्दोनोपलक्ष्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूर्धा᳓ व᳓यᳶ प्रजा᳓पतिश्छ᳓न्दः +++(त्वमसि)+++  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,4 +391,5 @@ the head in strength, the Prajapati metre.
 त्रियविस्तु ( त्र्यविर्वयो ) वयस्याख्या दध्यादिकोनविंशतिः ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे तृतीयप्रपाठके  पञ्चमोऽनुवाकः ॥  ५ ॥  
 [अथ चतुर्थकाण्डे तृतीयप्रपाठके षष्ठोऽनुवाकः]।  
+</details>
 </details>

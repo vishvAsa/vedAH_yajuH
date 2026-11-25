@@ -8,6 +8,8 @@ unicode_script: devanagari
 प्रजा᳓पतिरकामयत "बहो᳓र्भू᳓यान्त्स्या"मि᳓ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिरकामयत "ब॒होर्भूया॑न्त्स्या॒"मिति॑ ।
@@ -17,11 +19,14 @@ unicode_script: devanagari
 
 प्रजा᳓-पतिः । अकामयत । बहोः᳓ । भू᳓यान् । स्याम् । इ᳓ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म्पञ्चशारदी᳓यमपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -32,11 +37,14 @@ unicode_script: devanagari
 
 सः᳓ । एत᳓म् । पञ्चशारदी᳓यम् । अपश्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓मा᳓ऽहरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -47,11 +55,14 @@ unicode_script: devanagari
 
 त᳓म् । आ᳓ । अ । अ᳓हरत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नायजत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,11 +73,14 @@ unicode_script: devanagari
 
 ते᳓न । अयजत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ स᳓ बहो᳓र्भू᳓यानभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,11 +91,14 @@ unicode_script: devanagari
 
 त᳓तः । वै᳓ । सः᳓ । बहोः᳓ । भू᳓यान् । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳵ᳓ काम᳓येत बहो᳓र्भू᳓यान्त्स्यामि᳓ति स᳓ पञ्चशारदी᳓येन यजेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -98,11 +115,14 @@ unicode_script: devanagari
 
 (SB) 1नवमेऽनुवाके ओदनसवोऽभिहितः । दशमे पञ्चशारदीयविधिरुच्यते । स च सूत्रकारेण स्पष्टमुदाहृतः - 'पञ्चशारदीयेन बहोर्भूयान्भवति । अनुवत्सरं पशुबन्धेन यजते । सप्तदश पृश्नीनुक्ष्णः पञ्चवर्षानानयन्ति । सप्तदश पृश्नीर्वत्सतर्यः स्त्रीवत्सा अप्रवीताः । प्रोक्षितान्पर्यग्निकृतानुक्ष्ण उत्सृजन्ति वत्सतरीरालभन्ते' इति । तमिमं पञ्चशारदीयं विधत्ते - बहोर्धनप्रजादिसमृद्धादन्यपुरुषादपि भूयानत्यन्तसमृद्धः । पञ्चसु शरत्सु संवत्सरेष्वनुष्ठेयः पञ्चशारदीयः । स्पष्टमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहो᳓रेव᳓ भू᳓यान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -113,11 +133,14 @@ unicode_script: devanagari
 
 बहोः᳓ । एव᳓ । भू᳓यान् । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरुत्स्तोमो᳓ वा᳓ एषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -134,11 +157,14 @@ unicode_script: devanagari
 3तमेतं प्रशंसति - स्तोमशब्देन स्तोमयुक्तो यज्ञ उपलक्ष्यते ।  
 मरुत्संज्ञकानां देवगणानां संबन्धी स्तोमो मरुत्स्तोमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तो हि᳓ देवा᳓नाम्भू᳓यिष्ठाः ॥30 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,11 +180,14 @@ unicode_script: devanagari
 
 मरुतो ह्येतस्यानुष्ठानेन देवानां मध्येऽत्यन्तं समृद्धाः संपन्नाः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहु᳓र्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,11 +198,14 @@ unicode_script: devanagari
 
 बहुः᳓ । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एते᳓न य᳓जते, य᳓ उचैनमेवव्ँ᳓ वे᳓द पञ्चशारदी᳓यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,11 +229,14 @@ unicode_script: devanagari
 पञ्चमे संवत्सरे वत्सतरीर्हि चरमभाविनीरालभ्य पश्चात्पञ्चरात्राय दीक्ष- यित्वा क्रमेण त्रिवृदग्निष्टोमादीनि पञ्चाहान्यनुष्ठेयानि ।  
 तेषु पञ्चस्वप्यहस्स्वेकविंशत्रिणवादयः स्तोमा न विद्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च वा᳓ ऋत᳓वस्सव्ँवत्सरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -212,11 +247,14 @@ unicode_script: devanagari
 
 प᳓ञ्च । वै᳓ । ऋत᳓वः । सम्-वत्सरः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓ष्वेव᳓ सव्ँवत्सरे᳓ प्र᳓तितिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,11 +265,14 @@ unicode_script: devanagari
 
 ऋतु᳓षु । एव᳓ । सम्-वत्सरे᳓ । प्र᳓ति । तिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,11 +283,14 @@ unicode_script: devanagari
 
 अ᳓थो । प᳓ञ्चाक्षरा । पङ्क्तिः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पा᳓ङ्क्तो यज्ञः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -257,11 +301,14 @@ unicode_script: devanagari
 
 पा᳓ङ्क्तः । यज्ञः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓मेवा᳓वरुन्धे      ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -272,11 +319,14 @@ unicode_script: devanagari
 
 यज्ञ᳓म् । एव᳓ । अ᳓व । रुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशँ᳓ स्तो᳓मा ना᳓तियन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +342,15 @@ unicode_script: devanagari
 
 सोऽयं सप्तदशस्तोमानतिक्रमः 'आश्रावय' इत्याद्यक्षरात्मकत्वेन प्रजापतिस्सप्तदशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशᳶ᳓ प्रजा᳓पतिः ।  
 प्रजा᳓पतेरा᳓प्त्यै ॥31॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -314,4 +367,5 @@ unicode_script: devanagari
 
 अतस्तदनतिक्रमः प्रजापतेः प्रात्यै भवति ॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितियाष्टके सप्तमप्रपाठके दशमोऽनुवाकः ॥
+</details>
 </details>

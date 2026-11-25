@@ -3,9 +3,12 @@ title: १३ पशुत्रये  वपादीनां याज्य
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1द्वादशे प्रयाजयाज्या आप्रियोऽभिहिताः । त्रयोदशे वपादीनां याज्यानुवाक्या उच्यन्ते - त्रिपशुके वपापुरोडाशहविर्यागानां पुरोनुवाक्यास्ता एव याज्याः । तत्र तिसृणां वपानां तिस्र ऋचः तासां चैकैका कस्यांचिद्वपायां पूरोनुवाक्या कस्यांचिद्याज्येत्येवं द्विरूपा । तत्र प्रथमायां पुरोनुवाक्यां तृतीयायां याज्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 आ᳓ शुक्र᳓मासुरा᳓द्वसु᳓ ।  
 मघ᳓मि᳓न्द्राय जभ्रिरे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -33,10 +38,14 @@ unicode_script: devanagari
 
 यावेतावश्विनौ, या च सरस्वती ते त्रयो मिलित्वा धिया स्वबुद्ध्या इन्द्रार्थं नमुचिनाम्नोऽसुरात् हविराजभ्रिरे आहृतवन्तः । कीदृशं हविः? इन्द्रियं इन्द्रियवधर्कं शुक्रं निर्मलं वसु निवासकारणं मघं महनीयम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ प्रथमायां याज्यां द्वितीयस्यां पुरोनुवाक्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ unicode_script: devanagari
 स᳓ बिभेद वल᳓म्मघ᳓म् ।  
 न᳓मुचावासुरे᳓ स᳓चा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,10 +75,14 @@ unicode_script: devanagari
 
 अश्विनावुभौ सरस्वती चेत्येते त्रयो हविषा यमिन्द्रमवर्धयन् सोऽयमिन्द्रः नमुचिनाम्नि आसुरे सचा संबद्धं मघं महनीयं वलं बलनामानमसुरं बिभेद विदारितवान् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ द्वितीयस्यां याज्यां तृतीयस्यां पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -77,6 +92,8 @@ unicode_script: devanagari
 द᳓धाना अभ्य᳙नूषत ।  
 हवि᳓षा यज्ञ᳓मिन्द्रिय᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,10 +112,14 @@ unicode_script: devanagari
 
 छागमेषर्षभा य एते पशवः, यावुभावश्विनौ, या च सरस्वती ते सर्वे सचा परस्परं संबद्धाः इन्द्रियं इन्द्वियवृद्धिहेतुं यज्ञं हविषा दधानाः तमिन्द्रमभ्यनूषत ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ त्रिषु पुरोडाशेषु पूर्ववत्तिस्र ऋच आम्नाताः । तत्र प्रथमस्य पुरोडाशस्य पुरोनुवाक्यां तृतीयस्य याज्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -108,6 +129,8 @@ unicode_script: devanagari
 स᳓ सुत्रा᳓मा हवि᳓ष्पतिः ।  
 य᳓जमानाय सश्चत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,10 +149,14 @@ unicode_script: devanagari
 
 इन्द्रसवितृवरुणाः पुरोडाशदेवता भगोऽपि तत्सहचारी कश्चित् । ये यस्मिन् इन्द्रे सवितृवरुणभगा इन्द्रियं दधुः संपादितवन्तः सोऽयमिन्द्रः सुत्रामा सुष्ठु रक्षकः हविष्पतिः हविषां पालकः यजमानार्थं सश्चत संवृद्धोऽभूत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ प्रथमस्य याज्यां द्वितीयस्य पुरोनुवाक्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -139,6 +166,8 @@ unicode_script: devanagari
 आ᳓दत्त न᳓मुचेर्व᳓सु ।  
 सुत्रा᳓मा ब᳓लमिन्द्रिय᳓म् ॥65॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,10 +186,14 @@ unicode_script: devanagari
 
 यः सविता सोऽयं दाशुषे हविर्दत्तवते यजमानाय दधत् अपेक्षितं संपादयतु । तथा च वरुणोऽपि संपादयतु । सुत्रामा इन्द्र बलमिन्द्रियं बलेन्द्रिययोः कारणं वसु हविस्स्वरूपं धनं नमुचेः सकाशादादत्त ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ द्वितीयस्य याज्यां तृतीयस्य पुरोनुवाक्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -170,6 +203,8 @@ unicode_script: devanagari
 सुत्रा᳓मा य᳓शसा ब᳓लम् ।  
 द᳓धाना यज्ञ᳓माशत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,10 +223,14 @@ unicode_script: devanagari
 
 योऽयं वरुणः सोऽयं क्षत्त्रं बलं इन्द्वियं च दधाति । भगेन सह सविता श्रियं दधाति । सुत्रामा इन्द्रः यशसा सह बलं दधाति । त एते त्रयो देवाः त्रिविधं दधानाः यजमानस्य यज्ञमाशत प्राप्तवन्तः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7अथ हविषस्तिस्र आम्नाताः । तत्र प्रथमस्य पुरोनुवाक्यां तृतीयस्य याज्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -201,6 +240,8 @@ unicode_script: devanagari
 हवि᳓षे᳓न्द्रँ स᳓रस्वती ।  
 य᳓जमानमवर्धयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,10 +260,14 @@ unicode_script: devanagari
 
 अश्विनोभौ सरस्वती च इत्येते त्रयो देवाः. गोभिरिन्द्रियं संपाद्य अश्वेभिर्वीर्यं बलं च संपाद्य अत्रत्येन हविषा इन्द्रं यजमानं च अवर्धयन् । हविर्भोक्तृत्वमिन्द्रस्य वृद्धिः । हविर्द्रातृत्वं यजमानस्य वृद्धिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथ प्रथमस्य याज्यां द्वितीयस्य पुरोनुवाक्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -232,6 +277,8 @@ unicode_script: devanagari
 स᳓रस्वती हवि᳓ष्मती ।  
 इ᳓न्द्र क᳓र्मसु नोऽवत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,10 +297,14 @@ unicode_script: devanagari
 
 ता नासत्या तावश्विनौ सुपेशसा सुरूपौ हिरण्यवर्तनी आभरणैस्सह वर्तमानौ नरा जगद्व्यवहारस्य नेतारौ । सरस्वती चात्र हविष्मती हविर्युक्ता । हे इन्द्र! त्वं च सरस्वती च अश्विनौ च इत्येते यूयं अनुष्ठीयमानेष्वेतेषु कर्मसु नोऽस्मान् अवत रक्षत ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ द्वितीयस्य याज्यां तृतीयस्य पुरोनुवाक्यामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -263,6 +314,8 @@ unicode_script: devanagari
 स᳓ वृत्रहा᳓ शत᳓क्रतुः ।  
 इ᳓न्द्राय दधुरिन्द्रिय᳓म् ॥66॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -283,4 +336,5 @@ unicode_script: devanagari
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्यप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके त्रयोदशोऽनुवाकः ॥
 
+</details>
 </details>

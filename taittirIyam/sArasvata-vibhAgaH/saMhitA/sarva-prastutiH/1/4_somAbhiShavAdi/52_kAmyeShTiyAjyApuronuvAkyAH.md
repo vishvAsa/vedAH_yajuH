@@ -2,6 +2,8 @@
 title = "५२ काम्येष्टियाज्यापुरोनुवाक्याः"
 +++
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 संहितायां २-२-४ अनुवाकशेषे समाम्नातानां काम्येष्टीनां याज्यापुरोनुवाक्याः
@@ -16,15 +18,19 @@ title = "५२ काम्येष्टियाज्यापुरोन�
 
 १-२, ४.८. १० त्रिष्टुप्, ३,५,७,९, ११-१२ गायत्री , ६ अनुष्टुप्
 </details>
+</details>
 
 ## पुत्रवद्यागे
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 एवमाध्वरिका मन्त्रा अवभृथान्तास्समाप्ताः । अतः परमन्त्योनुवाको याज्या, वैश्वदेवं काण्डम् ॥
 
 1तत्र 'अग्नये पुत्रवते पुरोडाशमष्टाकपालं निर्वपेदिन्द्राय पुत्रिणे पुरोडाशमेकादशकपालं प्रजाकामः' इत्यस्याग्नेयस्य पुरोनुवाक्या - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/10_yastvA_hRdA.md">
@@ -379,9 +385,12 @@ Der dankerfüllten Herzens dein gedenkend, ich Sterblicher dich rufe, der unster
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2तत्रैव याज्या - यस्मा इति त्रिष्टुप् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/11_yasmai_tvaM.md">
@@ -743,9 +752,12 @@ O Wesenkenner, welchem frommen Manne du Raum verschaffst und Lust gewährst, o A
 
 ## ऐन्द्रयागे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अथैन्द्रस्य पुरोनुवाक्या - त्वे इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/092/14_tve_su.md">
@@ -988,9 +1000,12 @@ Es wandten sich, o Herr der Kraft, zu dir sogleich die wünschenden; Nichts übe
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4तत्रैव याज्या - उक्थउक्थ इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/026/02_ukthaukthe_soma.md">
@@ -1345,9 +1360,12 @@ Bei Spruch um Spruch erfreut den Indra Soma, bei Lied um Lied den mächt'gen die
 
 ## रसवद्यागे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5'अग्नये रसवतेजक्षीरे चरुं निर्वपेद्यः कामयेत रसवान् स्याम्' इत्यस्य पुरोनुवाक्या- अग्ने रसेनेति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/02_agne_rasena.md">
@@ -1394,9 +1412,12 @@ Slayer of Raksases, suppressor of demons.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6तत्रैव याज्या - अप इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/06_apo_adyAnvachAriSham.md">
@@ -1448,9 +1469,12 @@ ___________
 
 ## वसुमद्यागे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7'अग्नये वसुमते पुरोडाशमष्टाकपालं निर्वपेद्यः कामयेत वसुमान् स्याम्' इत्यस्य पुरोनुवाक्या - वसुर्वसुपतिरिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/03_vasur_vasupatir.md">
@@ -1495,9 +1519,12 @@ May we enjoy thy loving kindness.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तत्रैव याज्या - त्वामग्न इति त्रिष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/01_tvAmagne_vasupatiM.md">
@@ -1858,9 +1885,12 @@ O Agni dich, den Güterherrn der Güter, erfreue ich, o König, bei den Festen, 
 
 ## वसुमद्यागे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9'अग्नये वाजसृते पुरोडाशमष्टाकपालं निर्वपेत्सङ्ग्रामे संयत्ते' इत्यस्य पुरोनुवाक्या - त्वामग्ने वाजसातममिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/013/05_tvAmagne_vAjasAtamaM.md">
@@ -2152,9 +2182,12 @@ Dich hochgelobten stärkt die Schar der Sänger, dich, der Kraft verleiht, So sc
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10तत्रैव याज्या - अयं न इति त्रिष्टुप् ॥ व्याख्याता चेयं 'त्वं सोम' इत्यत्र । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/04_ayan_no.md">
@@ -2202,9 +2235,12 @@ May he win booty in the contest for booty.
 
 ## अग्निवद्यागे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11'अग्नयेग्निवते पुरोडाशमष्टाकपालं निर्वपेद्यस्याग्नावग्निमभ्युद्धरेयुः' इत्यस्य पुरोनुवाक्या - अग्निनाग्निरिति गायत्री ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/52_kAmyeShTiyAjyApuronuvAkyAH/05_agninAgnis_samidhyate.md">
@@ -2249,9 +2285,12 @@ The bearer of the oblation, with ladle in his mouth.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12 तत्रैव याज्या - त्वं ह्यग्न इति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/043/14_tvaM_hyagne.md">
@@ -2529,6 +2568,8 @@ Vom Weisen wirst du Weiser ja, o Glut, von Glut, vom Helden Held, Ein Freund vom
 ## ज्योतिष्मद्यागे
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13'अग्नये ज्योतिष्मते पुरोडाशमष्टाकपालं निर्वपेद्यस्याग्निरुद्धृतोहुतेग्निहोत्र उद्वायेत्' इत्यस्य पुरोनुवाक्या - उदग्न इति गायत्री ॥ 
@@ -2537,6 +2578,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उद॑ग्ने॒  शुच॑य॒स्तव॑  ...
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
@@ -2792,12 +2834,17 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याता चेयं 'त्वमग्ने रुद्रः' इत्यत्र । इह तु प्रतीकमस्या गृह्यते ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14तत्रैव याज्या - वि ज्योतिषेति त्रिष्टुप् ॥ 
@@ -2806,6 +2853,7 @@ _______
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि ज्योति॑षा ..॥ [54]  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
@@ -3173,6 +3221,8 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयमपि 'कृणुष्वपाजः' इत्यत्र व्याख्याता । इह तु प्रतीकं गृह्यते । 
@@ -3180,4 +3230,5 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमकाण्डे चतुर्थप्रपाठके चत्वारिंशोनुवाकः ॥
 
 समाप्तः प्रपाठकः ॥
+</details>
 </details>

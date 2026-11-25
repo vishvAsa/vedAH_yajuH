@@ -4,15 +4,20 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवा॑ वसव्या॒ देवाः॑ शर्मण्या॒ देवाः॑ सपीतय॒ इत्या ब॑ध्नाति दे॒वता॑भिरे॒वान्व॒हव्ँवृष्टि॑मिच्छति॒ यदि॒ वर्षे॒त्ताव॑त्ये॒व हो॑त॒व्यय्ँ॑यदि॒ न वर्षे॒च्छ्वो भू॒ते ह॒विर्निर्व॑पेदहोरा॒त्रे वै मि॒त्रावरु॑णावहोरा॒त्राभ्या॒ङ्खलु॒ वै प॒र्जन्यो॑ वर्षति॒ नक्तव्ँ॑वा॒ हि दिवा॑ वा॒ वर्ष॑ति मि॒त्रावरु॑णावे॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ तावे॒वास्मै॑ [27]  अ॒हो॒रा॒त्राभ्या॑म्प॒र्जन्यव्ँ॑वर्षयतः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दे᳓वा वसव्या दे᳓वाः शर्मण्या दे᳓वाः सपीतय इ᳓त्या᳓बध्नाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ title = "१० कारीर्युत्तरभागविधानम�
 
 1'देवा वस्व्याः' इत्यादिभिः त्रिभिर्मन्त्रैः तिसृषु गधासु त्रिषु दिनेषु अन्वहमाबध्नाति पिण्डीः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ताभिरेवा᳓न्वहव्ँ᳓वृ᳓ष्टिमिच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,11 +61,14 @@ verily by means of the gods he daily seeks rain.
 
 दे॒वता॑भिः । ए॒व । अ॒न्व॒हमित्य॑नु-अ॒हम् । वृष्टि॑म् । इ॒च्छ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि व᳓र्षेत्ता᳓वत्येव᳓ होतव्य᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -80,11 +91,14 @@ If it should rain, so much only should be offered;
 
 तत्रान्वहमिति वचनात् त्रिषु दिनेषु पिण्डीहोमः । श्वोभूते चतुर्थेऽहनि हविर्निर्वपेत् । तत्रायं क्रमः - यदि प्रथमे दिने वर्षेत् तावति तस्मिन्नेवाहनि होतव्यं पिण्डीलक्षणं हविः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दि न᳓ व᳓र्षेच्छ्वो᳓ भूते᳓ हवि᳓र्नि᳓र्वपेत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -105,11 +119,14 @@ if it should not rain, on the next day he should offer an oblation.
 
 अथ यदि तत्र न वर्षेत् द्वितीये दिने मध्यमायां कृष्णाजिनमाबध्नीयात् । यदि तस्मिन् दिने वर्षेत् तावत्येव होतव्यम् । यदि तस्मिन्नपि न वर्षेत् तृतीये दिने तृतीयस्यां कृष्णाजिनमाबध्नीयात् । यदि तस्मिन् दिने वर्षेत्, यदि च न वर्षेत् उभयथापि तृतीये दिने पिण्डीर्जुहुयात् । अथ यदि न वर्षेत् श्वोभूते चतुर्थेऽह्नि प्राप्ते हविर्निर्वपेत् । हविरिति जातावेकवचनम् । धामच्छदादीनि त्रीणि हवींषि निर्वपेत् कृष्णानां व्रीहीणाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रे᳓ वै᳓  मित्रा᳓व᳓रुणावहोरात्रा᳓भ्याङ्ख᳓लु वै᳓ पर्ज᳓न्यो वर्षति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -130,11 +147,14 @@ Mitra and Varuna are day and night, by day and night Parjanya rains,
 
 अहोरात्र इत्युक्तं एकैकस्यां गधायामहोरात्रावसक्तं भवति । सति वर्षे तत्रैव तत्रैव होमः, असति श्वोभूते हविर्निर्वप्तव्यमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓क्तव्ँवा हि᳓ दि᳓वा वा व᳓र्षति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -155,11 +175,14 @@ for by night or by day he rains;
 
 तत्राहोरात्रावसक्ते वृष्टिहेतुत्वं तावत्समर्थयते - नक्तं वा दिवा वा अहोरात्राभ्यामेव पर्जन्यो वर्षति । तयोश्च मित्रावरुणात्मकत्वात् तावेव पर्जन्यं वर्षयतः, अहोरात्रावसञ्जलक्षणस्वभागोपहृतत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रा᳓व᳓रुणावेव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -175,11 +198,14 @@ verily he has recourse to Mitra and Varuna with their own share;
 
 मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓वेवा᳓स्मा अहोरात्रा᳓भ्याम्पर्ज᳓न्यव्ँवर्षयतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -195,10 +221,14 @@ verily they [1] make Parjanya rain for him by day and night.
 
 तौ । ए॒व । अ॒स्मै॒ । अ॒हो॒रा॒त्राभ्या॒मित्य॑हः-रा॒त्राभ्या॑म् । प॒र्जन्य॑म् । व॒र्ष॒य॒तः॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नये॑ धाम॒च्छदे॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर्व॑पेन्मारु॒तँ स॒प्तक॑पालँ सौ॒र्यमेक॑कपालम॒ग्निर्वा इ॒तो वृष्टि॒मुदी॑रयति म॒रुत॑स्सृ॒ष्टान्न॑यन्ति य॒दा खलु॒ वा अ॒सावा॑दि॒त्यो न्य॑ङ्र॒श्मिभिᳶ॑ पर्या॒वर्त॒तेऽथ॑ वर्षति धाम॒च्छदि॑व॒ खलु॒ वै भू॒त्वा व॑र्षत्ये॒ता वै दे॒वता॒ वृष्ट्या॑ ईशते॒ ता ए॒व स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ ताः [28]  ए॒वास्मै॑ प॒र्जन्यव्ँ॑वर्षयन्त्यु॒ताव॑र्षिष्य॒न्वर्ष॑त्ये॒व
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +236,8 @@ verily they [1] make Parjanya rain for him by day and night.
 अग्न᳓ये धामच्छ᳓दे पुरोडा᳓शमष्टा᳓कपालन्नि᳓र्वपेत् ।  
 मारुतँ᳓ सप्त᳓कपालँ सौर्य᳓मे᳓ककपालम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,11 +259,14 @@ To Agni, hiding his abode, he should offer a cake on eight potsherds, to the Mar
 
 2अथ हवींषि विदधाति - अग्नये धामच्छद इत्यादि ॥ धामानि स्थितानि तेजांसि वा छादयति वृष्टिकाल इति धामच्छत् । 'बहुलं संज्ञाछन्दसोः' इति णिलुक् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्वा᳓ इतो᳓ वृ᳓ष्टिमु᳓दीरयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -252,11 +287,14 @@ Agni thence causes the rain to arise,
 
 अग्निर्वा इति । आहुतिद्वारेण अग्निर्वृष्टिमुदकं उदीरयति ऊर्ध्वं गमयति आदित्यं प्रापयति, तस्मादग्नये निरुप्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मरु᳓तस्सृष्टा᳓न्नयन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,11 +315,14 @@ the Maruts lead it out when produced;
 
 तां वृष्टिं सृष्टां अवसृष्टां मरुतो नयन्ति देशान्तरं प्रापयन्ति, तस्मान्मरुद्भ्यो निरुप्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा᳓ ख᳓लु वा᳓ असा᳓वादित्यो᳓ न्यङ्रश्मि᳓भिᳶ पर्याव᳓र्तते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -302,11 +343,14 @@ when yonder Sun Moves low with his rays,
 
 यदा खल्वादित्यो रश्मिभिः न्यङ् अवाक्प्रवृत्तिः पर्यावर्तते इतोमुखं प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थ वर्षति धामच्छ᳓दिव ख᳓लु वै᳓ भूत्वा᳓ वर्षति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +371,14 @@ then he rains; becoming a hider of his abode, as it were, he rains;
 
 अथ वर्षिष्ठरश्मिषु पक्वमुदकं पर्जन्यस्स्र्वावयति, तस्मात्सूर्याय निरुप्यते इति । अनेन त्रिहविष्केण यागेन पर्जन्यो धामच्छदिव भूत्वा वर्षति भूयिष्ठं वर्षतीति यावत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓ वै᳓ देव᳓ता वृ᳓ष्ट्या ईशते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +399,14 @@ these deities are the lords of rain;
 
 एता वा इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ एव᳓ स्वे᳓न भागधे᳓येनो᳓प धावति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +422,14 @@ them he has recourse to with their own share;
 
 ताः । ए॒व । स्वेन॑ । भा॒ग॒धेये॒नेति॑ भाग-धेये॑न । उपेति॑ । धा॒व॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ एवा᳓स्मै पर्ज᳓न्यव्ँवर्षयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +445,14 @@ they [2] make Parjanya rain for him;
 
 ताः । ए॒व । अ॒स्मै॒ । प॒र्जन्य॑म् । व॒र्ष॒य॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उता᳓वर्षिष्यन्व᳓र्षत्येव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,16 +468,22 @@ even if he is not minded to rain yet he rains.
 
 उ॒त । अव॑र्षिष्यन् । वर्ष॑ति । ए॒व ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सृ॒जा वृ॒ष्टिन्दि॒व आद्भिस्स॑मु॒द्रम्पृ॒णेत्या॑हे॒माश्चै॒वामूश्चा॒पस्सम॑र्धय॒त्यथो॑ आ॒भिरे॒वामूरच्छै॑त्य॒ब्जा अ॑सि प्रथम॒जा बल॑मसि समु॒द्रिय॒मित्या॑ह यथाय॒जुरे॒वैतत्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सृजा᳓ वृष्टि᳓न्दिव᳓ आ᳓द्भि᳓स्समुद्र᳓म्पृणे᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,11 +504,14 @@ even if he is not minded to rain yet he rains.
 
 3कुम्भीमद्भिः पूरयति - सृजा वृष्टिमिति ॥ इमा भूयिष्ठाः अमूः दिविष्ठाः मेघस्था वा अपस्समृद्धाः करोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमा᳓श्चैवा᳓मू᳓श्चाप᳓स्स᳓मर्धयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -467,11 +532,14 @@ verily these and yonder waters he unites;
 
 अपि चाभिरेव करणभूताभिः अमूः आभिमुख्येन प्राप्नोति सृजा वृष्टिमिति वचनात् वर्षेण इमास्समृद्धा भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आभि᳓रेवा᳓मू᳓र᳓च्छैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,12 +560,15 @@ then with these he approaches yonder (waters).
 
 आभिरद्भिस्समृद्धस्य मेघस्थस्य उदकस्यापूरणात् अमूस्समृद्धा भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्जा᳓ असि ।  
 प्रथमजा᳓ ब᳓लमसि समुद्रि᳓यमि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -519,11 +590,14 @@ then with these he approaches yonder (waters).
 
 अब्जा इति । अविमभिजुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓था᳓यजु᳓रेवै᳓त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,16 +618,22 @@ that is according to the text.
 
 यथायजुरिति । मेघोदकस्य बलहेतुस्त्वमसीत्येतत् यथायजुर्भवत्येव ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उन्न॑म्भय पृथि॒वीमिति॑ वर्षा॒ह्वाञ्जु॑होत्ये॒षा वा ओष॑धीनाव्ँवृष्टि॒वनि॒स्तयै॒व वृष्टि॒मा च्या॑वयति॒ ये दे॒वा दि॒विभा॑गा॒ इति॑ कृष्णाजि॒नमव॑ धूनोती॒म ए॒वास्मै॑ लो॒काᳶ प्री॒ता अ॒भीष्टा॑ भवन्ति ॥ [29]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓न्नम्भय पृथिवी᳓मि᳓ति वर्षाह्वा᳓ञ्जुहोति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -578,6 +658,7 @@ that is according to the text.
 उ॒द्नो दि॒व्यस्य॑ नो दे॒हीशा॑नो॒ वि सृ॑जा॒ दृति॑म् ।
  अथ वर्षाभूस्तम्भमभिजुहोति - उन्नम्भयेत्यनुष्टुभा ॥ हे वर्षाभूस्तम्भ उन्नम्भय उच्छ्वासय । नभिः गतिकर्मा छान्दसो नुम् । पृथिवीं वृष्ट्या । तद्दर्शयति - इदं दिव्यं दिवि स्थितं नभः मेघं भिन्धि । नभेरसुनि नभः । गत्वरम् । तथा कृत्वा उद्गः उदकस्य दिव्यस्य नः अस्मभ्यं देहि । कर्मणस्सम्प्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । ईशानः उदकं दातुं समर्थः त्वं विसृज विमुञ्च दृतिं दृतिस्थानीयं मेघं क्षारय । 'द्व्यचोतस्तिङः' इति दीर्घत्वम् । पूर्ववदुदकस्योदन्भावः उदात्तनिवृत्तिस्वरश्च । उद्ग ईशान इति वा । 'अधीगर्थ' इति षष्ठी ॥}
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +666,8 @@ that is according to the text.
 ये᳓ देवा᳓ दिवि᳓भागा इ᳓ति कृष्णाजिन᳓म᳓व धूनोति ।  
 इम᳓ एवा᳓स्मै लोकाᳶ᳓ प्रीता᳓ अभी᳓ष्टा भवन्ति ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -608,4 +691,5 @@ this of plants is that which wins rain, and thereby he causes rain to fall. 'The
 पुनर्नविकोच्यते - वृष्टिवनिरिति । ओषधीनां मध्ये एषा वृष्टेः संविभक्तिः । 'छन्दसि वनसन' इतीन्प्रत्ययः । गतमन्यत् ॥
 
 इति द्वितीये चतुर्थे दशमोनुवाकः ॥
+</details>
 </details>

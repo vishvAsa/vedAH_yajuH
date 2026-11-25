@@ -3,9 +3,12 @@ title = "०८ पावमानीमन्त्राः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1 प्रथमा - पवमान इति गायत्री ॥ 2 द्वितीया - गायत्री ॥ 3 तृतीया - अनुष्टुप् ॥ 4 अथ चतुर्थी - यत्त इति गायत्री ॥ 5 अथ पञ्चमी - उभाभ्यामिति गायत्री ॥ 6 अथ षष्ठी - वैश्वदेवीति त्रिष्टुप् ॥ 7 अथ सप्तमी - वैश्वानर इति त्रिष्टुप् ॥ 8 अथाष्टमी - बृहद्भिरिति गायत्री ॥ 9 अथ नवमी - येन देवा इत्यनुष्टुप् ॥ 11 अथ एकादशी - पावमानीरित्यनुष्टुप् ॥ अर्धर्चो गतः । 12 अथ द्वादशी - पावमानीर् इत्यनुष्टुप् ॥ 14 अथ चतुर्दशी - पावमानीरित्यनुष्टुबेव ॥ पावमानीरिति गतम् । 15 अथ पञ्चदशी - येनेति त्रिष्टुबेव ॥ 17 अथ सप्तदशी - इन्द्रः सुनीतीति त्रिष्टुप् ॥
+</details>
 </details>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
@@ -553,7 +556,10 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 स्मार्ते स्नानादौ मार्जनार्थाश्च।
+</details>
 </details>

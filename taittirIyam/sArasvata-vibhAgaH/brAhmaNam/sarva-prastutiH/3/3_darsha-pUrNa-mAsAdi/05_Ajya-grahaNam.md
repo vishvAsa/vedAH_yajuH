@@ -9,6 +9,8 @@ unicode_script: devanagari
 देवासुरा᳓स् सय्ँ᳓यत्ता आसन् ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
@@ -28,11 +30,14 @@ unicode_script: devanagari
 
 आहुतेः कस्या अप्यलोपोऽनन्तरायः यदेतदाज्यावेक्षणं पूर्वमुक्तं तत्र विशेषं वक्तुं तत्प्रस्तौति — ‘देवासुराः संयत्ता आसन्। स एतमिन्द्र आज्यस्यावकाशमपश्यत्। तेनावैक्षत।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓म् इ᳓न्द्र आ᳓ज्यस्यावकाश᳓म् +++(→प्रकाशक-मन्त्रम्)+++ अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -48,11 +53,14 @@ unicode_script: devanagari
 
 आज्यस्यावकाशमिति 'अग्नेर्जिह्वा'1 इत्यवेक्षणमन्त्रस्यैषा संज्ञा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ना᳓वैक्षत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +71,7 @@ unicode_script: devanagari
 
 ते᳓न । अ᳓व । ऐक्षत ।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/3_darsha-pUrNa-mAsAdi/05_Ajya-grahaNam/tato_devA_abhavan.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,6 +79,8 @@ unicode_script: devanagari
 त᳓तो देवा᳓ अ᳓भव᳓न्न् +++(←`चादिलोपे विभाषा`)+++,  
 प᳓रा᳓ऽसुराः +++(चाभवन्)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,6 +107,7 @@ _________________________________
 
 देवानां यज्ञं दृष्ट्वा तथैवानुचरतामसुराणां देवसमानं विजयं दृष्ट्वा देवास्तानसुरान्वञ्चयित्वाऽनुष्ठितेनानुनिर्वाप्येण स्वयं विजयं प्राप्ता असुराश्च पराभूताः। 
 </details>
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -104,6 +116,8 @@ _________________________________
 भ᳓वत्य् आत्म᳓ना,  
 प᳓रा ऽस्य भ्रा᳓तृव्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,11 +140,14 @@ _________________________________
 
 य एवं विद्वानाज्यमवेक्षते। भवत्यात्मना। पराऽस्य भ्रातृव्यो भवति’ (ब्रा. का. ३ प्र. ३ अ. ५) इति। **अवकाशः** प्रकाशको मन्त्रः। स चाग्नेर् जिह्वाऽसीत्य्-आदिकः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरो᳓ वा᳓ एषो᳙ऽन्धो᳓ भ᳓वितोः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -141,11 +158,14 @@ _________________________________
 
 ईश्वरः᳓ । वै᳓ । एषः᳓ । अन्धः᳓ । भ᳓वितोः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓श्च᳓क्षुषा᳓ऽऽज्यमवे᳓क्षते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -156,11 +176,14 @@ _________________________________
 
 यः᳓ । च᳓क्षुषा । अ᳓ज्य । मो । आ᳓ । ईक्षते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमी᳓ल्या᳓वेक्षेत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,6 +193,7 @@ _________________________________
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 निमी᳓ । ल्यौ᳓ । आ । ईक्षेत ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -181,6 +205,8 @@ _________________________________
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +229,7 @@ _________________________________
 
 अभिघारणरूपत्वकथनेनावेक्षणं प्रशंसति – ‘ब्रह्मवादिनो वदन्ति। यदाज्योनान्यानि हवीँष्याभिघारयति। अथ केनाऽऽज्यमिति। शत्येनेति ब्रूयात्। चक्षुर्वै सत्यम्। सत्येनैवैनदभिघारयति’ (ब्रा. का. ३ प्र. ३ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,6 +237,8 @@ _________________________________
 +++(5)+++  
 च᳓क्षुर्वै᳓ सत्य᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -227,11 +256,14 @@ _________________________________
 
 सत्यं सतां साधु यथार्थग्रहणसामर्थ्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्ये᳓नैवै᳓नद् अभि᳓ घारयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -242,12 +274,15 @@ _________________________________
 
 सत्ये᳓न । एव᳓ । एनत् । अभि᳓ । घारयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरो᳓ वा᳓ एषो᳙ ऽन्धो᳓ भ᳓वितोर् -  
 य᳓श् च᳓क्षुषा᳓ ऽऽज्यम् अवे᳓क्षते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,6 +313,7 @@ _________________________________
 अवेक्षणे निमीलनरूपं विशेषं – “ईश्वरो वा एषोऽन्धे भवितोः। यश्चक्षुषाऽऽज्यमवेक्षते। निमील्यावेक्षेत। दाधाराऽऽत्मन्चक्षुः।  
 अभ्याज्यं धारयति’ (ब्रा. का. ३ प्र. ३ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -285,6 +321,8 @@ _________________________________
 दाधा᳓रात्म᳓ञ् च᳓क्षुः ।  
 +++(अवेक्षणेन)+++ अभ्या᳓ज्यङ् घारयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -296,12 +334,15 @@ _________________________________
 
 दाधा᳓र । आत्म᳓न् । च᳓क्षुः । अभि᳓ । आ᳓ज्यम् । घारयति ।
 </details>
+</details>
 
 ## आज्य-ग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ज्यङ् गृह्णाति ॥23॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -323,11 +364,14 @@ _________________________________
 
 विधत्ते — ‘आज्यं गृह्णाति। छन्दाँसि वा आज्यम्। छन्दाँस्येव प्रीणाति’ (ब्रा. का. ३ प्र. ३ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दाँसि वा᳓ आ᳓ज्यम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,11 +382,14 @@ _________________________________
 
 छ᳓न्दांसि । वै᳓ । आ᳓ज्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 छ᳓न्दाँस्य् एव᳓ प्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,11 +400,14 @@ _________________________________
 
 छ᳓न्दांसि । एव᳓ । प्रीणाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् जुह्वा᳓ङ् गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -379,11 +429,14 @@ _________________________________
 
 स्रुग्विशेषेणाऽऽवृत्तिविशेषं विधत्ते — ‘चतुर्जुह्वां गृह्णाति। चतुष्पादः पशवः। पशूनेवावरुन्धे।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुष्-पादᳶ पश᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -394,11 +447,14 @@ _________________________________
 
 च᳓तुः-पादः । पश᳓वः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓वरुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -409,11 +465,14 @@ _________________________________
 
 पशू᳓न् । एव᳓ । अ᳓व । रुन्धे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓व् उपभृ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -434,11 +493,14 @@ _________________________________
 
 अष्टावुपभृति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓क्षरा गायत्री᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,11 +516,14 @@ _________________________________
 
 अष्टाक्षरा गायत्री।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्रᳶ᳓ प्राणः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -474,11 +539,14 @@ _________________________________
 
 गायत्रः प्राणः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓म् एव᳓ पशु᳓षु दधाति   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -494,11 +562,14 @@ _________________________________
 
 प्राणमेव पशुषु दधाति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् ध्रुवा᳓याम् ॥24 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -519,11 +590,14 @@ _________________________________
 
 चतुर्ध्रुवायाम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुष्-पादᳶ पश᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,11 +613,14 @@ _________________________________
 
 चतुष्पादः पशवः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशु᳓ष्व् एवो᳓प᳓रिष्टात् प्र᳓तितिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -559,11 +636,14 @@ _________________________________
 
 पशुष्वेवोपरिष्टात्प्रतितिष्ठति” (ब्रा. का. ३ प्र. ३ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यजमान-देवत्या᳙ वै᳓ जुहूः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -579,11 +659,14 @@ _________________________________
 
 ग्राह्यस्याऽऽज्युस्य स्रुग्विशेषेणाल्पाधिकपरिमाणं विधत्ते — “यजमानदेवत्या वै जुहूः। भ्रातृव्यदेवत्योपभृत्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातृव्य-देवत्यो᳙पभृ᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -594,11 +677,14 @@ _________________________________
 
 भ्रातृव्य-देवत्या᳙ । उप-भृ᳓त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् जुह्वा᳓ङ् गृह्ण᳓न् भू᳓यो गृह्णीयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -625,11 +711,14 @@ _________________________________
 
 चतुर्जुह्वा गृह्णन्भूयो गृह्णीयात्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓व् उपभृ᳓ति गृह्ण᳓न् क᳓नीयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,11 +734,14 @@ _________________________________
 
 अष्टावुपभृति गृह्णन्कनीयः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानायैव᳓ भ्रा᳓तृव्यम् उ᳓पस्तिङ्+++(=उपस्थम्→गौणम्)+++ करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -666,11 +758,14 @@ _________________________________
 यजमानायैव भ्रातृव्यमुपस्तिं करोति” (ब्रा. का. ३ प्र. ३ अ. ५) इति।  
 उप समीपे भृत्यत्वेनास्ति तिष्ठतीत्युपस्तिः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौ᳓र् वै᳓ स्रु᳓चः  +++(अभीष्ट-धुक्त्वात्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -694,6 +789,7 @@ _________________________________
 
 संख्यां पुनः प्रकारान्तरेण स्तौति – “गौर्वै स्रुचः चतुर्जुह्वां गृह्णाति। तस्माच्चतुष्पदी। अष्टावुपभृति। तस्मादष्टाशफा। चतुर्ध्रुवायाम्। तस्माच्चतुस्तना।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -701,6 +797,8 @@ _________________________________
 
 चतु᳓र् जुह्वा᳓ङ् गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -711,11 +809,14 @@ _________________________________
 
 चतुः᳓ । जुह्वा᳓म् । गृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् च᳓तुष्-पदी ॥25॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -726,11 +827,14 @@ _________________________________
 
 त᳓स्मात् । च᳓तुः-पदी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓व् उपभृ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -747,11 +851,14 @@ _________________________________
 अष्टावुपभृति गृह्णातीत्येव ॥  
 इति तैत्तिरीयब्राह्मणे तृतीये तृतीये पञ्चमोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अष्टा᳓-शफा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -762,11 +869,14 @@ _________________________________
 
 त᳓स्मात् । अष्टा᳓-शफा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र् ध्रुवा᳓याम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,11 +887,14 @@ _________________________________
 
 चतुः᳓ । ध्रुवा᳓याम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् च᳓तुस्-स्तना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,11 +905,14 @@ _________________________________
 
 त᳓स्मात् । च᳓तुः । स्तना ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गा᳓म् एव᳓ त᳓त् सँ᳓स्करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,11 +928,14 @@ _________________________________
 
 गामेव तत्सँस्करोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓स्मै सँ᳓स्कृते᳓षम् ऊ᳓र्जन् दुहे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,12 +951,15 @@ _________________________________
 
 साऽस्मै सँस्कृतेषमूर्जं दुहे” (ब्रा. का. ३ प्र. ३ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ज् जुह्वा᳓ङ् गृह्णा᳓ति -
 प्रयाजे᳓भ्यस् त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -856,12 +978,15 @@ _________________________________
 पञ्चसु प्रयाजेषु त्रयं जौहवाज्येन निष्पाद्यं, द्वयं त्वौपभृतार्धेन, शिष्टेन त्वनूयाजाः।  
 यत्र द्रव्यापेक्षा तत्र सर्वत्र ध्रौवम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् उपभृ᳓ति -  
 प्रयाजानूयाजे᳓भ्यस् त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -873,12 +998,15 @@ _________________________________
 
 य᳓त् । उप-भृ᳓ति । प्र-याजाः । अनूयाजे᳓भ्यः । त᳓त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै वा᳓ एत᳓द् यज्ञा᳓य गृह्यते  
 यद् ध्रुवा᳓याम् आ᳓ज्यम् ॥26॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,4 +1017,5 @@ _________________________________
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 स᳓र्वस्मै । वै᳓ । एत᳓त् । यज्ञा᳓य । गृह्यते । य᳓त् । ध्रुवा᳓याम् । आ᳓ज्यम् ।
+</details>
 </details>

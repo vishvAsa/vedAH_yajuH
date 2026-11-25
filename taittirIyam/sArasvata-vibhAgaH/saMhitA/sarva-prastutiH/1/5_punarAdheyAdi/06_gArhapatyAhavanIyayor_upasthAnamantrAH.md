@@ -10,9 +10,12 @@ title = "०६ गार्हपत्याहवनीययोर् उप
 अग्निर्ऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1गृहांश्च पशूंश्चोपतिष्ठते - सं पश्यामीति । तत्र प्रथमा गायत्री । शेषाणि यजूंषि 'मयि वो रायश्श्रयन्ताम्' इत्यन्तानि ॥  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/02_sampashyAmi_prajA.md">
@@ -56,9 +59,12 @@ May they all be in our house.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अम्भ॒स्स्थाम्भो॑ वो भक्षीय॒ मह॑स्स्थ॒ महो॑ वो भक्षीय॒ सह॑स्स्थ॒ सहो॑ वो भक्षी॒योर्ज॒स्स्थोर्जव्ँ॑वो भक्षीय॒ रेव॑ती॒ रम॑ध्वम॒स्मिल्ँ लो॒के॑ऽस्मिन्गो॒ष्ठे॑ऽस्मिन्क्षये॒ऽस्मिन् योना॑वि॒हैव स्ते॒तो माऽप॑ गात ब॒ह्वीर्मे॑ भूयास्त
+</details>
 </details>
 
 _______
@@ -68,6 +74,8 @@ _______
 +++(पशवः!)+++ अ᳓म्भस् स्थ।  
 अ᳓म्भो वो भक्षीय।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -93,11 +101,14 @@ may I share your water.
 
 तस्माद्वा युष्माकमम्भः क्षीराज्यादिरूपमदनीयं भक्षीय भजेयम् । भजेराशिषि लिङ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++ म᳓हस् स्थ, म᳓हो वो भक्षीय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -118,11 +129,14 @@ Ye are greatness, may I share your greatness;
 
 महः पूजा ब्रह्म वा महः तद्धेतवः स्थ यागादिद्वारेण । वः युष्माकं अदनीयं क्षीरादि भक्षीय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++ स᳓हस्स्थ - स᳓हो वो भक्षीय᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -143,11 +157,14 @@ ye are might, may I share your might;
 
 सहो बलं तद्धेतवः स्थ युष्माकं बलकरं घृतादि भक्षीय ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पशवः!)+++ ऊ᳓र्जस् स्थ, ऊ᳓र्जव्ँव भक्षीय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,6 +185,7 @@ ye are strength, may I share your strength.
 
 ऊर्जः रसः क्षीरादि तद्धेतवः स्थ युष्माकमूर्जं बलकररसं भक्षीय । मह्यादिभ्योऽसुन् । ऊर्जयतेः क्विप् सम्पदादिलक्षणः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -181,6 +199,8 @@ ye are strength, may I share your strength.
 इतो᳓  मा᳓ऽप गात ।  
 बह्वी᳓र्मे भूयास्त [21] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,8 +241,11 @@ be many for me [1].
 
 अपि तु बह्वीः बह्व्यः पुत्रपुत्रादिमत्यो मम भूयास्त ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अग्निहोत्रीवत्सम् अभिमृशति - संहितेति ॥ 
@@ -232,6 +255,7 @@ _______
 
 सँ॒हि॒तासि॑ विश्वरू॒पीरा मो॒र्जा वि॒शाऽऽगौ॑प॒त्येनाऽऽरा॒यस्पोषे॑ण सहस्रपो॒षव्ँवᳶ॑ पुष्यास॒म्मयि॑ वो॒ राय॑श्श्रयन्ताम् ॥  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -240,6 +264,8 @@ _______
 आ᳓ गौपत्ये᳓न   
 आराय᳓स्-पो᳓षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,11 +292,14 @@ Thou art composed of every form; enter me with strength, with lordship of kine, 
 
 गौपत्येन च मामाविशेत्येव । गवां पतिः स्वामी तद्भावो गोपत्यम् । पत्यन्तलक्षणो यत् । यथाहं गोपतिर्भवानि तथा मयि वर्तस्व । रायो धनस्य पोषेण पुष्ट्या च मामाविश मदीयानि धनानि पोषयन्ती स्वजन इव मम भव । 'ऊडिदम्' इति रायो विभक्तिरुदात्ता । 'षष्ठ्याः पतिपुत्र' इति सत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहस्रपोषव्ँ᳓वᳶ पुष्यासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -291,11 +320,14 @@ May I prosper with your thousandfold prosperity;
 
 किं बहुना, वः युष्माकं सहस्रपोषं बहुप्रकारमहं पुष्यासं पौष्कल्येनोद्भावयिषीय बह्वीनां युष्माकं सम्बन्धी भूयासम् । गोपोषं पुष्णातीतिवत् सामान्यवचनोन्यतरो द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓यि वो रा᳓यश् श्रयन्ताम्  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -316,9 +348,12 @@ may your wealth rest in me.
 
 वः युष्माकं रायो धनानि क्षीरादीनि मयि श्रयन्तां अविच्छेदेन सन्ततं वर्धन्ताम् ॥
 </details>
+</details>
 
 ## गार्हपत्योपस्थानमन्त्राः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4गार्हपत्यमुपतिष्ठते - उप त्वाग्न इति तिसृभिर्गायत्रीभिः,  
@@ -326,6 +361,7 @@ _______
 'जागतगायत्राभ्यां विराड्गायत्री' इति ।  
 'गायत्रीभिरुपतिष्ठते' इत्यादि  ब्राह्मणम् ।  
 उप त्वेति प्रथमा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/001/07_upa_tvAgne.md">
@@ -619,9 +655,12 @@ Dir, Agni, nahn wir Tag für Tag, o Nachterheller, mit Gebet Und bringen dir Ver
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5राजन्तमिति द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/70_rAjantam_adhvarANA~N.md">
@@ -673,9 +712,12 @@ Waxing in his own horne.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6स न इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/75_sa_napH.md">
@@ -721,9 +763,12 @@ Befriend us for prosperity.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अग्ने त्वं न इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/80_agne_tvan.md">
@@ -1026,6 +1071,8 @@ Come hither in thy greatest splendour and give us wealth.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10पुनश्च गृहांश्च पशूंश्चोपतिष्ठते - ऊर्जा व इति । एतानि यजूंषि ॥ 
@@ -1035,12 +1082,15 @@ _______
 
 ऊ॒र्जा वᳶ॑ पश्याम्यू॒र्जा मा॑ पश्यत रा॒यस्पोषे॑ण वᳶ पश्यामि रा॒यस्पोषे॑ण मा पश्य॒त 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्जा᳓ वᳶ पश्यामि ।  
 ऊर्जा᳓ मा  पश्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1062,12 +1112,15 @@ With strength I gaze on you; gaze on me with strength.
 
 ऊर्जा क्षीरादिना रसेन समग्रास्सदा वः पश्यामि । यूयमपि ऊर्जा रसेन स्नेहेन बलेन वा सहितं मां पश्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राय᳓स्पो᳓षेण वᳶ पश्यामि ।  
 राय᳓स्पो᳓षेण मा पश्यत᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1088,6 +1141,7 @@ With increase of wealth I gaze on you; gaze on me with increase of wealth.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 किञ्च - रायो धनस्य पुत्रपश्वादिलक्षणस्य घासादिलक्षणस्य वा पोषेण वृद्ध्या वः पश्यामि । यूयमपि रायो धनस्य पशुहिरण्यलक्षणस्य पोषेण मां पश्यत । पूर्ववत्सत्वस्वरौ ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/121_iDAH_stha.md">
@@ -1138,9 +1192,12 @@ may I prosper with your thousandfold   prosperity [3], may your wealth rest on m
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12आहवनीयमुप्तिष्ठते - तत्सवितुरिति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
@@ -1929,9 +1986,12 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13पुनरप्य् आहवनीयमुपतिष्ठते - सोमानमिति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/01_somAnaM_svaraNaM.md">
@@ -2221,9 +2281,12 @@ Mach, o Gebetsherr, glanzbegabt den, welcher dir den Soma bringt, Kakschivat, ih
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14रात्रिमुपतिष्ठते - कदा चनेति पथ्याबृहत्या ॥ 'तृतीयश्चेद्द्वादशाक्षरः पथ्या' इति ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
@@ -2565,15 +2628,21 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 व्याख्याता चेयमादित्यग्रहे - इन्द्रात्मना रात्रिस्स्तूयते ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15गार्हपत्यम् उपतिष्ठते - परि त्वेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/216_pari_tvAgne.md">
@@ -2623,6 +2692,7 @@ Destroyer of that which may be broken.
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/5_punarAdheyAdi/06_gArhapatyAhavanIyayor_upasthAnamantrAH/agne_gRhapate.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2633,12 +2703,15 @@ _______
 
 अग्ने॑ गृहपते सुगृहप॒तिर॒हन्त्वया॑ गृ॒हप॑तिना भूयासँ सुगृहप॒तिर्मया॒ त्वङ्गृ॒हप॑तिना भूयाश्श॒तँ हिमाः …
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने गृहपते! सुगृह-पति᳓र् अह᳓न् त्व᳓या गृह᳓-पतिना भूयासम् ।  
 सुगृहपति᳓र् म᳓या त्व᳓ङ् गृह᳓पतिना भूयाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2669,6 +2742,7 @@ ____________
 अग्ने गृहपत इति। कल्पः - ‘अथ गार्हपत्यमेत्योपतिष्ठते - अग्ने गृहपते सुगृहपतिरहं त्वया गृहपतिना भूयासँ सुगृहपतिर्मया त्वं गृहपतिना भूयाः शतँ हिमा मह्यममुष्मै ज्योतिष्मतीं तामाशिषमाशासेऽमुष्मा अमुष्मा इति यावन्तोऽस्य पुत्रा जाता भवन्ति तन्तव इत्यन्ततः’ इति।  
 यद्यप्यत्र ‘तामाशिषमाशासे तन्तवे ज्योतिष्मतीं तामाशिषमाशासेऽमुष्मै ज्योतिष्मतीम्’ इत्याम्नायपाठस्तथाऽप्यदःशब्दस्योत्पन्नपुत्रविषयत्वात्तन्तुशब्दस्यानुत्पन्नपुत्रविषयत्वान्नायं क्रमो न्याय्य इत्यभिप्रेत्य शाखान्तरानुसारेण सूत्रकारो मन्त्रं पपाठ। अयं गार्हपत्योऽग्निरस्मिन्गृहे सर्वदा धार्यमाणत्वाद्गृहपतिः। हे गृहपतिना गृहपतेऽग्ने त्वयाऽनुगृहीतोऽहं सुष्ठु गृहपतिर्भूयासम्। त्वमपि गृहपतिना मया पजितः सुष्ठु गृहपतिर्भूयाः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2677,6 +2751,8 @@ ____________
 +++(अजातपुत्र-पक्षे - )+++ त᳓न्तवे ज्यो᳓तिष्मतीन् ता᳓म् आशि᳓षम् आ᳓शासे ।  
 +++(जातपुत्र-पक्षे -)+++ [ता᳓म् आशि᳓षम् आ᳓शासे] अमु᳓ष्मै+++(→अपत्य-नाम-निर्देशः)+++ ज्यो᳓तिष्मतीम् ॥  [24]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2719,5 +2795,5 @@ _____________
 
 हिमशब्दो हेमन्तवाची सन्संवत्सरमुपलक्षयति। शतसंवत्सरानग्निमिन्धानोऽहं तन्तवेऽनुन्पन्नबहुपुत्रोत्पत्तये ज्योतिष्मतीं तदुत्पत्तिप्रकाशनसमर्थां तामाशिषमाशासे। अमुष्मा उत्पन्नपुत्राय देवदत्तादिनामकाय ज्यो-तिष्मतीमतिबुद्धिप्रकाशनसमर्थां तामाशिषमाशासे।
 </details>
-
+</details>
 </div>

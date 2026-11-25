@@ -5,6 +5,8 @@ title = "२८ हारियोजनग्रहः"
 सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1हारियोजनं गृह्णाति - हरिरसीति ॥ 
@@ -14,12 +16,15 @@ _______
 
 हरि॑रसि हारियोज॒नो हर्योः॑ स्था॒ता वज्र॑स्य भ॒र्ता पृश्ञेः॑ प्रे॒ता तस्य॑ ते देव सोमे॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ हरि॑वन्त॒ङ्ग्रह॑ङ्गृह्णामि 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे सोम! इन्द्रात्मना- )+++ ह᳓रिर् असि, हारि-योजनः᳓   
 ह᳓र्योः स्थाता᳓, व᳓ज्रस्य भर्ता᳓, पृ᳓श्ञेः+++(=बिन्दुमतः)+++ प्रेता᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -44,6 +49,7 @@ mounter on the bays, bearer of the bolt, lover of Prśni;
 
 हर्योः स्थाता, हर्योरश्वयोः स्थाता, इन्द्ररूपत्वात्, हरिभ्यां भक्षितऋजीषरूपत्वाद्वा । वज्रस्य भर्ता धारयिता इन्द्ररूपत्वादेव । पृष्नेः प्रेता, **पृश्नेर्** अन्नस्य याग-साधनद्वारेण **प्रेता** प्रेरयिता प्रापयिता वा । प्रीङ् तर्पणे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -51,6 +57,8 @@ mounter on the bays, bearer of the bolt, lover of Prśni;
 +इष्ट᳓-यजुषस्, स्तुत᳓-स्तोमस्य, शस्तो᳓क्थस्य,  
 ह᳓रिवन्तङ् **ग्र᳓हङ् गृह्णामि**  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,17 +87,23 @@ I draw the cup connected with the bays.
 
 तस्य तव विशेष सस्कार-संस्कृतस्य **हरिवन्तं** हरिमन्तं **ग्रहं गृह्णामि**, आग्रयणस्थालीगतस्य सर्वस्य गृह्यमाणत्वात् । तस्येत्यन्त्यात् [स्येत्यादेः?] कर्मणि षष्ठ्यन्तत्वात्तादृशं हरिवन्तं इन्द्रवन्तं ग्रहं गृह्णामीति । 'छन्दसीरः' इति मतुपो वत्वम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2धानाभिश्श्रीणाति - हरीः स्थेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरी᳓स् स्थ, ह᳓र्योर् धानाः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,17 +126,23 @@ Ye two are bays; ye are the grains for the bays,
 
 किञ्च - हर्योरश्वयोर्धानास्थ हरिवत इन्द्रस्येति भावः । 'इन्द्रो वृत्रमहन् तस्य शीर्षकपालमुदौब्जत्' इत्यादि ब्राह्मणम्  ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3जुहोति 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓-सोमा
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,11 +165,14 @@ mixed with Soma.
 
 'वोपसर्जनस्य' इति पाक्षिकत्वात् सभावाभावः । हे धाना ईदृश्यो यूयमिन्द्राय स्वाहा स्वाहुतास्थ ॥
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय स्वा᳓हा ॥ [29]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,4 +187,5 @@ To Indra hail!
 <details><summary>पद-पाठः</summary>
 
 इन्द्रा॑य । स्वाहा॑ ॥
+</details>
 </details>

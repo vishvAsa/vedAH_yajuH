@@ -8,6 +8,8 @@ unicode_script: devanagari
 अग्निष्टोम᳓म᳓ग्र आ᳓हरति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नि॒ष्टो॒ममग्र॒ आह॑रति ।
@@ -23,11 +25,14 @@ unicode_script: devanagari
 1 अग्निष्टोममग्र इत्यादि ॥  
 अग्रे आदौ राजसूयस्य अग्निष्टोमं पवित्राख्यं आहरति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञमुखव्ँ᳓ वा᳓ अग्निष्टोमः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -38,11 +43,14 @@ unicode_script: devanagari
 
 यज्ञ-मुख᳓म् । वै᳓ । अग्नि-ष्टोमः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञमुख᳓मेवा᳓र᳓भ्य सव᳓मा᳓क्रमते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +66,14 @@ unicode_script: devanagari
 
 यज्ञामुखं हि अग्निष्टोमः । तस्माद्यज्ञमुखमेवारभ्य राजसूयमाक्रमते अधितिष्ठति मुखमेवाक्रम्य सर्वं करोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थैषो᳙ऽभिषेचनी᳓यश्चतुस्त्रिँश᳓पवमानो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -78,11 +89,14 @@ unicode_script: devanagari
 
 2 अथेत्यादि ॥ अथाभिषेचनीयः उक्थ्याख्यश्चतुस्त्रिंशपवमानो भवति । अथेत्यहरानन्तर्यं द्योतयति । चतुस्त्रिंशस्तोत्रीयस्तोमश्चतुस्त्रिंशः । तादृशपवमान एष इति अवयवद्वारेण अवयवी स्तूयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस्त्रिँशद्वै᳓ देव᳓तास् ता᳓ एवा᳓प्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -100,11 +114,14 @@ unicode_script: devanagari
 त्रयस्त्रिंशदित्यादि ।  
 गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिश्चतुस्त्रिँश᳓स् त᳓मेवा᳓प्नोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -116,11 +133,14 @@ unicode_script: devanagari
 
 प्रजा᳓-पतिः । चतुः-त्रिंशः᳓ । त᳓म् । एव᳓ । आप्नोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सँशर᳓ एष᳓ स्तो᳓मानाम᳓यथापूर्वम् य᳓द्वि᳓षमास्स्तो᳓माः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -138,11 +158,14 @@ unicode_script: devanagari
 3 संशर इति ॥ संशरणं सशरः । 'ऋदोरप्'थाथादिना उत्तरपदान्तोदात्तत्वम् । स्तोमानामेष संशरः शीर्णता संभूयविनाशः यत् स्तोमास्सर्वेऽपि अयथापूर्वं भवन्ति । यथा पूर्वस्तोमः तथा उतरे न भवन्ति ।
 किमुक्तं भवतीत्याह - विषमा इति । बहिष्पवमाने चतुस्त्रिंशः, माध्यंदिनादयः पञ्चदशादय एव स्युरिति । यद्वा पूर्वं प्रकृतौ स्तोमानां साम्यं दृष्टं,तदतिक्रमणे यत् स्तोमा विषमाः स्युः एष संशरः स्तोमानामिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वान् वै᳓ यज्ञो᳓ या᳓वान्प᳓वमानाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -154,11 +177,14 @@ unicode_script: devanagari
 
 एता᳓वान् । वै᳓ । यज्ञः᳓ । या᳓वान् । प᳓वमानाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तश्श्ले᳓षणन्त्वा᳓ अन्य᳓द् य᳓त्समाᳶ᳓ प᳓वमानाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,11 +202,14 @@ unicode_script: devanagari
 ननु संशीर्णता संभूय स्तोमानां भवतु, का क्षतिर्यज्ञस्येत्याह - एतावानित्यादि ।  
 पवमाना एव यज्ञः, पवमानव्यतिरिक्तं सर्वं तु अन्तश्श्लेषणमेव यद्दार्ढ्यार्थं भित्त्यादावन्तर्निधीयते तदन्तश्लेषणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ना᳓ऽसँशरस् ते᳓न यथापूर्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -197,11 +226,14 @@ unicode_script: devanagari
 
 तस्मात् सर्वपवमानसाम्येन संशराभावः । यथापूर्वमेव च कृतं भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓नैवा᳓ग्निष्टोमे᳓नर्ध्नो᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -217,11 +249,14 @@ unicode_script: devanagari
 
 4 आत्मनैवेत्यादि ॥ आत्मा अग्निष्टोमसाम तस्मात् तत्संस्थेन यागेन आत्मस्थानीयेन स्वयमृध्नोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म᳓ना पु᳓ण्यो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,11 +272,14 @@ unicode_script: devanagari
 
 किंच आत्मस्थानीयेन तेन पुण्यश्च स्वयं भवति । 'प्रकृत्यादिभ्यः'इति तृतीया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ वा᳓ उक्था᳓नि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -259,12 +297,15 @@ unicode_script: devanagari
 तत्संस्थ उक्थ्यः प्रजापशुस्थानीयः यस्मात् द्वितीयमहर्भवति तदनु संतत्यै अनुक्रमेण संतानसमृद्ध्यै भवति ॥  
 इति अष्टमे सप्तमोऽनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश᳓व उक्था᳓नि ।  
 य᳓दुक्थ्यो᳙ भवत्य᳓नु स᳓न्तत्त्यै ॥28॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -275,4 +316,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 पश᳓वः । उक्था᳓नि । य᳓त् । उक्थ्यः᳙ । भवति । अ᳓नु । स᳓म् । तत् । त्यै ।
+</details>
 </details>

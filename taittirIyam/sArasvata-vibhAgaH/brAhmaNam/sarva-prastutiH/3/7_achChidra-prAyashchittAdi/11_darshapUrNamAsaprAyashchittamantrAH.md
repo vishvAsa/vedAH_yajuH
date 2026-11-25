@@ -3,9 +3,12 @@ title: ११ दर्शपूर्णमासप्रायश्चित
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ दर्शपूर्णमासयोः प्रायश्चित्तहोमा नित्याः - ब्रह्म प्रतिष्ठेति द्वे पञ्चपदे शक्वर्यौ ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/02_brahma_pratiShThA.md">
@@ -146,6 +149,8 @@ unicode_script: devanagari
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 उद्व॒यन्तम॑स॒स्परि॑ ।  
@@ -241,6 +246,7 @@ unicode_script: devanagari
   - 20'यः प्रजाकामस्स्यात्तस्मा एतं प्राजापत्यं गार्मुतं चरुं निर्वपेत्' इत्यस्याः पुरोऽनुवाक्या - प्रजापते न त्वदिति त्रिष्टुप् ॥
 व्याख्यातेयं 'सोमस्य त्विषिरसि' इत्यत्र इह त्वस्याः प्रतीकं गृह्यते । हे प्रजापते त्वदन्य एतानि विश्वानि जातानि भुवनानि परिबभूव सर्वतो व्याप्नोति । तस्माद्यद्यत्कामयमानास्ते जुहुमो वयं तत्तथैवास्माकमस्तु वयं रयीणां पतयस्स्यामेति ॥
 </details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/17_imanjIvebhyapH_paridhindadhAmi.md">
 
@@ -278,6 +284,8 @@ unicode_script: devanagari
 इष्टे᳓भ्यस्स्वा᳓हा व᳓षड᳓निष्टेभ्यस्स्वा᳓हा ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इ॒ष्टेभ्य॒स्स्वाहा॒ वष॒डनि॑ष्टेभ्य॒स्स्वाहा॑ ।  
@@ -292,6 +300,7 @@ unicode_script: devanagari
 
 6इष्टेभ्य इत्यादीनि यजूंषि ॥ इष्टेभ्यः सम्यग्यागेनाराधितेभ्यः अग्न्यादिभ्यः स्वाहुतमिदमस्तु तृप्त्यतिशयाय । वषडनिष्टेभ्यः ये अनिष्टा वष्ट्कारेण अनाराधिताः देवाः तेभ्यः इदमेव वषट्कृतं हविरस्तु तदर्थं इदं स्वाहुतं करोमि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
@@ -299,6 +308,8 @@ unicode_script: devanagari
 दौ᳓रार्ध्यै स्वा᳓हा दै᳓वीभ्यस्तनू᳓भ्यस्स्वा᳓हा ॥113॥  
 ऋ᳓द्ध्यै स्वा᳓हा स᳓मृद्ध्यै स्वा᳓हा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +326,7 @@ unicode_script: devanagari
 <details><summary>भट्टभास्कर-टीका</summary>
 
 भेषजं अनिष्टकारित्वशमनं दुरिष्टचै दुरिष्ट्याः प्रमादादिना विगुणा इष्टिः दुरिष्टिः तस्याः स्विष्टं स्वाहुतमिदमस्तु । निष्कृतिः प्रायश्चित्तार्थो होमादिः । तत्सामर्थ्यार्थं स्वाहुतमिदमस्तु ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">

@@ -4,9 +4,12 @@ title = "०८ शुक्रग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1शुक्रं गृह्णाति - अयं वेन इति त्रिष्टुभा चतुष्पदया ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/01_ayaM_venashchodayatpRshnigarbhA.md">
@@ -348,17 +351,21 @@ Der lichtumhüllte, holde trieb die Töchter der bunten Wolke an, die Luft durch
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि शण्डाय त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,13 +392,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓ण्डाय त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,17 +421,23 @@ to Çanda thee!
 
 शण्डो नामासुरपुरोहितः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्वीरतां पाहीति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, वीर᳓ताम् पाहि ॥ [9]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,6 +457,7 @@ This is thy birthplace; guard the folk.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 वीरता शूरता याग-लक्षण-त्यागं प्रति । 'बृहस्पतिर्देवानां पुरोहित आसीत्' इत्यादि ब्राह्मणम्  । 'असौ वा आदित्यश्शुक्रश्चन्द्रमा मन्थी' इत्यादि, 'चक्षुषी वा एते यज्ञस्य यच्छुक्रामन्थिनौ' इत्यादि च ॥
+</details>
 </details>
 
 इति चतुर्थेऽष्टमः ॥  

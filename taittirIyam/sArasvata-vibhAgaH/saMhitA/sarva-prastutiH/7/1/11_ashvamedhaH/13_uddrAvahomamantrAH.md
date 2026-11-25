@@ -2,6 +2,8 @@
 title = "१३ उद्द्रावहोममन्त्राः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विश्वेदेवा ऋषयः
@@ -11,12 +13,15 @@ title = "१३ उद्द्रावहोममन्त्राः"
 
 अथ त्रयोदश ध्रुवा जुहोति - आयनाय स्वाहेत्यादि ॥  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(त्रयोदश ध्रुवा जुहोति)+++  
 आ᳓यनाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,11 +37,14 @@ To the going hail!
 
 आय॑ना॒येत्या-अ॒य॒ना॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓यणाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -52,11 +60,14 @@ To the advancing hail!
 
 प्राय॑णा॒येति॑ प्र-अय॑नाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्द्रावा᳓य +++(भावाय)+++ स्वा᳓हाः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,11 +92,14 @@ To the running hail!
 
 'उदि श्रयति यौति' इत्यादिना करणे घञ् । द्रवणहेतुः शक्तिविशेषः उद्द्रावः । थाथादिनोत्तरपदान्तोदात्तत्वम् । उद्द्रुतमुत्प्लुत्य गतिः । 'गतिरन्तरः' इत्यकर्मण्यपि व्यत्ययेन गतेः प्रकृतिस्वरत्वम् । कर्मणोभिधानं वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्द्रुताय +++(कर्मणे)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,11 +115,14 @@ To him after be hath run hail!
 
 उद्द्रु॑ता॒येत्युत्-द्रु॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूकारा᳓य+++(=swish-शब्दाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,11 +145,14 @@ To the crying of 'shoo' hail!
 
 तत्करणं शूकृतं 'अनुकरणं चानिति परं' इति गतित्वात्पूर्वत्र थाथादिस्वरः, उत्तरत्र गतिस्वरः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शू᳓कृताय +++(कर्मणे)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +168,14 @@ To him over whom is cried 'shoo' hail!
 
 शूकृ॑ता॒येति॒ शू-कृ॒ता॒य॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓लायिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,11 +191,14 @@ To him who hath moved hail!
 
 पला॑यिताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप᳓लायिताय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -188,11 +214,14 @@ To him who hath moved forward hail!
 
 आ॒पला॑यिता॒येत्या॑-पला॑यिताय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आव᳓ल्गते+++(=विक्रमणाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +246,14 @@ To him springing forward hail!
 
 आवल्गते आवल्गनं गतिविशेषः विक्रमणपर्यायः, तेन गतिविशेषेणागच्छते । परावल्गनेनापि गतिविशेषेणागच्छते । उभयत्रापि कृदुत्तरपदप्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराव᳓ल्गते स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,11 +269,14 @@ To him jumping away hail!
 
 प॒रा॒वल्ग॑त॒ इति॑ परा-वल्ग॑ते । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयते᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -262,11 +297,14 @@ To him who advanceth hail!
 
 आयते आयनकुशलाय । वर्तमानविवक्षायामेतेर्लट्, शत्रादेशः । 'इणो यण्' ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयते᳓+++(=प्रयाणकुशलाय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -289,11 +327,14 @@ To him who advanceth forward hail!
 
 उभयत्रापि 'शतुरनुमः' इति चतुर्थ्या उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [42]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,4 +356,5 @@ To all hail!
 सर्वस्मै अन्योपि यो गमनमकारोस्य दुर्निरूपः तस्मै सर्वस्मै स्वाहा । पूर्णाहुतिरियम् । 'सर्वस्य सुपि' इत्याद्युदात्तत्वम् ॥
 
 इति सप्तमे प्रथमे त्रयोदशोनुवाकः ॥  
+</details>
 </details>

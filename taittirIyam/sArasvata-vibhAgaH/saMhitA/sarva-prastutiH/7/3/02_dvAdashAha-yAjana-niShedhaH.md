@@ -2,10 +2,13 @@
 title = "०२ द्वादशाह-याजन-निषेधः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति॒ किन्द्वा॑दशा॒हस्य॑ प्रथ॒मेनाह्न॒र्त्विजाय्ँ॒यज॑मानो वृङ्क्त॒ इति॒ तेज॑ इन्द्रि॒यमिति॒ किन्द्वि॒तीये॒नेति॑ प्रा॒णान॒न्नाद्य॒मिति॒ किन्तृ॒तीये॒नेति॒ त्रीनि॒माल्ँ लो॒कानिति॒ किञ्च॑तु॒र्थेनेति॒ चतु॑ष्पदᳶ प॒शूनिति॒ किम्प॑ञ्च॒मेनेति॒ पञ्चा॑क्षराम्प॒ङ्क्तिमिति॒ किँ ष॒ष्ठेनेति॒ षडृ॒तूनिति॒ किँ स॑प्त॒मेनेति॑ स॒प्तप॑दाँ॒ शक्व॑री॒मिति॑ [5]  
 किम॑ष्ट॒मेनेत्य॒ष्टाक्ष॑राङ्गाय॒त्रीमिति॒ किन्न॑व॒मेनेति॑ त्रि॒वृतँ॒ स्तोम॒मिति॒ किन्द॑श॒मेनेति॒ दशा॑क्षराव्ँवि॒राज॒मिति॒ किमे॑काद॒शेनेत्येका॑दशाक्षरान्त्रि॒ष्टुभ॒मिति॒ किन्द्वा॑द॒शेनेति॒ द्वाद॑शाक्षरा॒ञ्जग॑ती॒मित्ये॒ताव॒द्वा अ॑स्ति॒ याव॑दे॒तद्याव॑दे॒वास्ति॒ तदे॑षाव्ँवृङ्क्ते ॥ [6]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ title = "०२ द्वादशाह-याजन-निषेधः"
 ब्रह्मवादि᳓नो वदन्ति -  
 कि᳓न् द्वादशाह᳓स्य प्रथमे᳓ना᳓ह्नर्त्वि᳓जाय्ँ य᳓जमानो वृङ्क्त इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -36,11 +41,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 द्वादशाहसंबन्धिना प्रथमेनाह्ना ऋत्विक्संबन्धि किं यजमानो वृङ्क्ते आदत्ते इति ब्रह्मवादिनः पृच्छन्ति तेज इन्द्रियं च वृङ्क्ते इत्युत्तरं ब्रूयात् । एवं द्वितीयादिष्वपि द्रष्टव्यं प्रश्नः प्रतिवचनं च । अन्नस्यादनं अन्नाद्यं । छान्दसः क्यप् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ज इन्द्रिय᳓म् इ᳓ति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,11 +64,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 तेजः॑ । इ॒न्द्रि॒यम् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓न् द्विती᳓येने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -76,11 +87,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । द्वि॒तीये॑न । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓न् अन्ना᳓द्यम्+++(=अन्नस्यादनं)+++ इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,11 +110,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 प्रा॒णानिति॑ प्र-अ॒नान् । अ॒न्नाद्य॒मित्य॑न्न-अद्य॑म् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓न् तृती᳓येने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -116,11 +133,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । तृ॒तीये॑न । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्री᳓न् इमाल्ँ᳓ लोका᳓न् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -136,11 +156,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 त्रीन् । इ॒मान् । लो॒कान् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓ञ् चतुर्थे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,11 +179,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । च॒तु॒र्थेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुष्पदᳶ पशू᳓न् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +207,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 चतुष्पदः 'संख्यासुपूर्वस्य' इति पादस्य लोपः समासान्तः, 'पादः पत्' इति पत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓म् पञ्चमे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,11 +230,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । प॒ञ्च॒मेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चाक्षराम् पङ्क्ति᳓म् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,11 +258,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 पञ्चाक्षरां पञ्चाक्षरपदाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किँ᳓ षष्ठे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,11 +281,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । ष॒ष्ठेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड् ऋतू᳓न् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,11 +304,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 षट् । ऋ॒तून् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किँ᳓ सप्तमे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,11 +327,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । स॒प्त॒मेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓पदाँ श᳓क्वरीम् इ᳓ति [5] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,11 +350,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 स॒प्तप॑दा॒मिति॑ स॒प्त-प॒दा॒म् । शक्व॑रीम् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓म् अष्टमे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -326,11 +373,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । अ॒ष्ट॒मेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓क्षराङ् गायत्री᳓म् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -346,11 +396,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 अ॒ष्टाक्ष॑रा॒मित्य॒ष्टा-अ॒क्ष॒रा॒म् । गा॒य॒त्रीम् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓न् नवमे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -366,11 +419,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । न॒व॒मेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिवृ᳓तँ स्तो᳓मम् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -386,11 +442,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 त्रि॒वृत॒मिति॑ त्रि-वृत॑म् । स्तोम॑म् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓न् दशमे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +465,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । द॒श॒मेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शाक्षराव्ँ विरा᳓जम् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,11 +488,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 दशा॑क्षरा॒मिति॒ दश॑-अ॒क्ष॒रा॒म् । वि॒राज॒मिति॑ वि-राज॑म् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓म् एकादशे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -446,11 +511,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । ए॒का॒द॒शेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कादशाक्षरान् त्रिष्टु᳓भम् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -466,11 +534,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 एका॑दशाक्षरा॒मित्येका॑दश-अ॒क्ष॒रा॒म् । त्रि॒ष्टुभ॑म् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कि᳓न् द्वादशे᳓ने᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -486,11 +557,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 किम् । द्वा॒द॒शेन॑ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दशाक्षराञ् ज᳓गतीम् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +580,14 @@ The theologians say, 'By the first day of the twelve-day rite what is it that th
 
 द्वाद॑शाक्षरा॒मिति॒ द्वाद॑श-अ॒क्ष॒रा॒म् । जग॑तीम् । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वद् वा᳓ अस्ति या᳓वद् एत᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,11 +608,14 @@ So much is there as that.
 
 एतावद्वा इत्यादि । यावदिदं तदनुक्रान्तं इव यदेव हि तेषामस्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वद् एवा᳓स्ति त᳓द् एषाव्ँ वृङ्क्ते ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -557,4 +637,5 @@ So much as that he takes from them.
 यद्यावच्च तेषामस्ति तत्सर्वं वृङ्क्ते द्वादशाहेन । तस्मात् द्वादशाहेन न याज्यमिति ॥
 
 इति सप्तमे तृतीये द्वितीयोनुवाकः ॥
+</details>
 </details>

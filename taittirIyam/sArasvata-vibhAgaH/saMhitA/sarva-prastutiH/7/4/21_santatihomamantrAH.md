@@ -3,6 +3,8 @@ title = "२१ सन्ततिहोममन्त्राः"
 +++
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ नक्तं होमेष्वेव सन्ततिहोमाः - प्राणाय स्वाहा व्यानाय स्वाहा इत्याद्याः ।
@@ -12,11 +14,14 @@ title = "२१ सन्ततिहोममन्त्राः"
 
 प्रा॒णाय॒ स्वाहा॑ व्या॒नाय॒ स्वाहा॑ऽपा॒नाय॒ स्वाहा॒ स्नाव॑भ्य॒स्स्वाहा॑ सन्ता॒नेभ्य॒स्स्वाहा॒ परि॑सन्तानेभ्य॒स्स्वाहा॒ पर्व॑भ्य॒स्स्वाहा॑ स॒न्धाने॑भ्य॒स्स्वाहा॒ शरी॑रेभ्य॒स्स्वाहा॑ य॒ज्ञाय॒ स्वाहा॒ दक्षि॑णाभ्य॒स्स्वाहा॑ सुव॒र्गाय॒ स्वाहा॑ लो॒काय॒ स्वाहा॒ सर्व॑स्मै॒ स्वाहा॑ ॥ [52]  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ To expiration hail!
 
 इति सप्तमे चतुर्थे एकविंशोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,11 +67,14 @@ To cross-breathing hail!
 
 व्या॒नायेति॑ वि-अ॒नाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,11 +90,14 @@ To inspiration hail!
 
 अ॒पा॒नायेत्य॑प-अ॒नाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्ना᳓वभ्यस्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,11 +113,14 @@ To sinews hail!
 
 स्नाव॑भ्य॒ इति॒ स्नाव॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ताने᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,11 +136,14 @@ To ligatures hail!
 
 स॒न्ता॒नेभ्य॒ इति॑ सम्-ता॒नेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिसन्तानेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,11 +159,14 @@ To surrounding ligatures hail!
 
 परि॑सन्तानेभ्य॒ इति॒ परि॑-स॒न्ता॒ने॒भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓र्वभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -159,11 +182,14 @@ To joints hail!
 
 पर्व॑भ्य॒ इति॒ पर्व॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्धा᳓नेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -179,11 +205,14 @@ To joinings hail!
 
 स॒न्धाने॑भ्य॒ इति॑ सम्-धाने॑भ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓रीरेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,11 +228,14 @@ To bodies hail!
 
 शरी॑रेभ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञा᳓यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -219,11 +251,14 @@ To the sacrifice hail!
 
 य॒ज्ञाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓क्षिणाभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -239,11 +274,14 @@ To the sacrificial gifts hail!
 
 दक्षि॑णाभ्यः । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,11 +297,14 @@ To heaven hail!
 
 सु॒व॒र्गायेति॑ सुवः-गाय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोका᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,11 +320,14 @@ To the world hail!
 
 लो॒काय॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥ [52]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -298,5 +342,6 @@ To all hail!
 <details><summary>पद-पाठः</summary>
 
 सर्व॑स्मै । स्वाहा॑ ॥
+</details>
 </details>
 

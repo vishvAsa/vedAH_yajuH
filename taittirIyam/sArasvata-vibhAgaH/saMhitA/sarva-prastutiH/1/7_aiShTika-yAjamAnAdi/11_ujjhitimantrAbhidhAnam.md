@@ -2,6 +2,8 @@
 title = "११ उज्झितिमन्त्राभिधानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सोमऋषिः  
@@ -12,11 +14,14 @@ title = "११ उज्झितिमन्त्राभिधानम्"
 
 1उज्जितीस्सप्तदश यजमानं वाचयति - अग्निरित्याद्याः ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् ए᳓काक्षरेण वा᳓चम् उ᳓दजयत्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,10 +42,14 @@ Agni with one syllable won speech;
 
 एकमक्षरं यस्य तेनैकाक्षरेण छन्दसाग्निर्वाचमुदजयत् उज्जितवान्, तद्वदहमप्येकाक्षरेण वाचमुज्जीयासमिति । सर्वत्रैवमुक्तादीन्यष्ट्यन्तानि द्रष्टव्यानि, सप्तदश छन्दांसि स्तूयन्ते । केचिदाहुः - 'आश्रावयेति चतुरक्षरमस्तु श्रौषडिति चतुरक्षरं यजेति द्व्यक्षरं ये यजामह इति पञ्चाक्षरं द्व्यक्षरो वषट्कार एष वै सप्तदशः प्रजापतिः' इत्यस्यैकाक्षरादारभ्योच्यन्ते, इति । तेषां बहुव्रीहिस्वरो नोपपद्यते । 'ता वा एता उज्जितयो व्याख्यायन्ते । यज्ञस्य सर्वत्वाय । देवतानामनिर्भागाय' । इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒श्विनौ॒ द्व्य॑क्षरेण प्राणापा॒नावुद॑जयताव्ँ॒विष्णु॒स्त्र्य॑क्षरेण॒ त्रील्ँ लो॒कानुद॑जय॒त् सोम॒श्चतु॑रक्षरेण॒ चतु॑ष्पदᳶ प॒शूनुद॑जयत्पू॒षा पञ्चा॑क्षरेण प॒ङ्क्तिमुद॑जयद्धा॒ता षड॑क्षरेण॒ षडृ॒तूनुद॑जयन्म॒रुत॑स्स॒प्ताक्ष॑रेण स॒प्तप॑दाँ॒ शक्व॑री॒मुद॑जय॒न्बृह॒स्पति॑र॒ष्टाक्ष॑रेण गाय॒त्रीमुद॑जयन्मि॒त्रो नवा॑क्षरेण त्रि॒वृतँ॒ स्तोम॒मुद॑जयत् [43]वरु॑णो॒ दशा॑क्षरेण वि॒राज॒मुद॑जय॒दिन्द्र॒ एका॑दशाक्षरेण त्रि॒ष्टुभ॒मुद॑जय॒द्विश्वे॑ दे॒वा द्वाद॑शाक्षरेण॒ जग॑ती॒मुद॑जय॒न्वस॑व॒स्त्रयो॑दशाक्षरेण त्रयोद॒शँ स्तोम॒मुद॑जयन् रु॒द्राश्चतु॑र्दशाक्षरेण चतुर्द॒शँ स्तोम॒मुद॑जयन्नादि॒त्याᳶ पञ्च॑दशाक्षरेण पञ्चद॒शँ स्तोम॒मुद॑जय॒न्नदि॑ति॒ष्षोड॑शाक्षरेण षोड॒शँ स्तोम॒मुद॑जयत्प्र॒जाप॑तिस्स॒प्तद॑शाक्षरेण सप्तद॒शँ स्तोम॒मुद॑जयत् ॥ [44] 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -49,6 +58,8 @@ Agni with one syllable won speech;
 वि᳓ष्णुस्त्र्य᳙क्षरेण त्रील्ँ᳓ लोका᳓नु᳓दजयत्।  
 सो᳓मश् च᳓तुरक्षरेण च᳓तुष्पदᳶ पशू᳓न् उ᳓दजयत्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +82,14 @@ the Aśvins with two syllables won expiration and inspiration; Visnu with three 
 
 2-17अश्विनावित्यादयो निगदसिद्धाः । चतुष्पदः चत्वारः पादा येषाम् । 'सङ्ख्यासुपूर्वस्य' इति पादस्य लोपे 'पादः पत्' इति पद्भावः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा᳓ प᳓ञ्चाक्षरेण पङ्क्ति᳓मु᳓दजयत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,6 +110,7 @@ Pusan with five syllables won the Pankti;
 
 पङ्क्तिः पञ्चपदा । सप्तपदा । 'टाबृचि' इति टाप् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,6 +118,8 @@ Pusan with five syllables won the Pankti;
 मरु᳓तस्सप्ता᳓क्षरेण सप्त᳓पदाँ श᳓क्वरीमु᳓दजयन्।  
 बृ᳓हस्प᳓तिरष्टा᳓क्षरेण गायत्री᳓मु᳓दजयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,11 +146,14 @@ Brhaspati with eight syllables won the Gayatri;
 
 (बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मित्रो᳓ न᳓वाक्षरेण त्रिवृ᳓तँ स्तो᳓मम् उ᳓दजयत् [43]।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -154,11 +174,14 @@ Mitra with nine syllables won the threefold Stoma [1];
 
 त्रिवृतमिति । अवयवेषु अवयविनि च तिस्रो वृत्तयो यस्य इति बहुव्रीहौ त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । नवस्तोत्रीयस्तोमस्त्रिवृत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणो द᳓शाक्षरेण विरा᳓जमु᳓दजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -179,12 +202,15 @@ Varuna with ten syllables won the Viraj;
 
 विराट् दशाक्षरा, अन्नं चोच्यते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र ए᳓कादशाक्षरेण त्रिष्टु᳓भम् उ᳓दजयत्  ।  
 वि᳓श्वे देवा᳓ द्वा᳓दशाक्षरेण ज᳓गतीम् उ᳓दजयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,6 +227,7 @@ Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables
 
 इन्द्रः॑ । एका॑दशाक्षरे॒णेत्येका॑दश-अ॒क्ष॒रे॒ण॒ । त्रि॒ष्टुभ॑म् । उदिति॑ । अ॒ज॒य॒त् । विश्वे॑ । दे॒वाः । द्वाद॑शाक्षरे॒णेति॒ द्वाद॑श-अ॒क्ष॒रे॒ण॒ । जग॑तीम् । उदिति॑ । अ॒ज॒य॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -210,6 +237,8 @@ Indra with eleven syllables won the Tristubh; the All-gods with twelve syllables
 अ᳓दितिष् षो᳓डशाक्षरेण षोडशँ᳓ स्तो᳓मम् उ᳓दजयत् ।  
 प्रजा᳓पतिस् सप्त᳓दशाक्षरेण सप्तदशँ᳓ स्तो᳓मम् उ᳓दजयत् ॥   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -242,4 +271,5 @@ the Vasus with thirteen syllables won the thirteenfold Stoma; the Rudras with fo
 त्रयोदश-षोडशानां चास्तित्वे इदम् एव प्रमाणम् ॥
 
 इति सप्तमे एकादशोनुवाकः ॥  
+</details>
 </details>

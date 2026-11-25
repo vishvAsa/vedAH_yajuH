@@ -3,9 +3,12 @@ title: ०४ स्रुचावादापयति
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचावादापयति - अग्निर्होतेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13,6 +16,8 @@ unicode_script: devanagari
 अग्नि᳓र् हो᳓ता, वे᳓त्व् अग्निः᳓ ।  
 होत्रव्ँ᳓ वेत्तु प्रावित्र᳓म्+++(←रक्षणे)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -35,11 +40,14 @@ unicode_script: devanagari
 ([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/09) द्रष्टव्यम्।)
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मो᳓ वय᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -57,11 +65,14 @@ unicode_script: devanagari
 यथा सर्वदा यष्टारस्स्याम ।  
 दैवहोतृमात्रेण यागानिर्वृत्तेरित्थमुक्तम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु᳓ ते यजमान देव᳓ता ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -77,11 +88,14 @@ unicode_script: devanagari
 
 हे यजमान! तव साधु साधयित्र्येव देवता अभिप्रेतस्य, साधु वाऽभिप्रेतं संपादयिष्यति संपादयतु वा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓वतीम् अध्वर्यो स्रु᳓चम् आ᳓स्यस्व ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -97,11 +111,14 @@ unicode_script: devanagari
 
 हे अध्वर्यो! त्वं तदर्थं घृतवतीं घृतपूर्णां स्रुचं जुहूं आस्यस्व आदत्स्व आक्षेप आदानम् । 'उपसर्गादस्यत्योह्योर्वा वचनम्' इत्यात्मनेपदम् । स्रुचमिति सामान्येन जुहूपभृतोरभिधानम् । 'यद्द्वे इव ब्रूयात्' इति द्विवचनप्रतिषेधात् । यद्वा - जुह्वा एव ग्रहणं होमसाधनत्वात् तामेवादापयति, तदर्थत्वादितरा तामनुगच्छत्येव । 'द्वे इव' इति चार्थस्य प्रतिषेधः, न शब्दमात्रस्य, तेन द्वयोस्सामान्यग्रहणं युक्तमेव तस्याः भ्रातृव्यदेवत्यत्वात्, तस्माज्जुहूमेवादापयति ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवायु᳓वव्ँ विश्व᳓वाराम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +134,7 @@ unicode_script: devanagari
 
 देवायुवं देवानामाहुतिभिः मिश्रयित्रीम् । यौतेः क्विप् । 'ऊञ्च गमादीनाम्' इति ऊकारः ।देवान्वा भोक्तृत्वेन कामयमानाम् । 'क्याच्छन्दमि' इत्युप्रत्यये तन्वादित्वात् उवङ् । विश्ववारां विश्वेऽपि वरितारो यस्याः सर्वसिद्धिहेतुत्वात् । विश्वकालवर्तिनींवा ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,6 +142,8 @@ unicode_script: devanagari
 नमस्या᳓म नमस्या᳙न् ।   
 य᳓जाम यज्ञि᳓यान् ॥7॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -143,4 +163,5 @@ unicode_script: devanagari
 
 इति तैत्तिरीये ब्राह्मणे तृतीये पञ्चमे चतुर्थोऽनुवाकः ॥  
 
+</details>
 </details>

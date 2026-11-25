@@ -6,15 +6,20 @@ title = "०१ प्रयाजविधिः"
 
 ## ऋतु-जयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒मिधो॑ यजति वस॒न्तमे॒वर्तू॒नामव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति ग्री॒ष्ममे॒वाव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समि᳓धो यजति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -41,11 +46,14 @@ He offers to the kindling-sticks;
 
 एषां च यागेन वसन्ताद्यृतुधर्मे प्रवृत्तिर्यथायथं भवति । वसन्ताद्यृतुधर्मप्रवर्तनेन लोकस्याधारा एते । एताश्च एतैः प्रीणयति । भावानां समिन्धयितारः समिधः । अग्नेरियं संज्ञा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसन्त᳓म् एव᳓ र्तूना᳓म् अ᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -66,11 +74,14 @@ verily he wins spring among the seasons.
 
 वसन्ते हि भावाः समुज्ज्वला भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नू-न᳓पातय्ँ यजति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -86,11 +97,14 @@ He offers to Tanunapat;
 
 तनू॒नपा॑त॒मिति॒ तनू॑-नपा॑तम् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्रीष्म᳓म् एवा᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -113,16 +127,22 @@ verily he wins the hot season.
 
 ग्रीष्मे हि सर्वे भावाः सङ्कोचं व्रजन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒डो य॑जति व॒र्षा ए॒वाव॑ रुन्द्धे ब॒र्हिर्य॑जति श॒रद॑मे॒वाव॑ रुन्द्धे स्वाहाका॒रय्ँय॑जति हेम॒न्तमे॒वाव॑ रुन्द्धे॒ तस्मा॒त्स्वाहा॑कृता॒ हेम॑न्प॒शवोऽव॑ सीदन्ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ यजति  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -147,11 +167,14 @@ He offers to the oblations;
 
 वर्षासु हि सर्वसस्याभिवृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्षा᳓ एवा᳓वरुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,12 +197,15 @@ verily he wins the rains.
 
 स्वाहुतमिव दग्धं करोतीति स्वाहाकारो हिमाग्निः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓र् यजति ।   
 शर᳓दम् एवा᳓व रुन्धे।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +222,14 @@ He offers to the sacrificial strew, verily lie wins autumn.
 
 ब॒र्हिः । य॒ज॒ति॒ । श॒रद॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहाकारय्ँ᳓ यजति।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,11 +245,14 @@ He offers with the cry of 'Hail!';
 
 स्वा॒हा॒का॒रमिति॑ स्वाहा-का॒रम् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेमन्त᳓म् एवा᳓व रुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,11 +273,14 @@ verily he wins the winter.
 
 हेमन्ते हि सर्वं जगत् हिमाग्निना दग्धमिव भवति । तदेवाह - तस्मात्स्वाहाकारेण हिमाग्निना दग्धाः हेमन्ते पशवो द्विपादश्चतुष्पादश्चावसीदन्ति विनश्यन्ति । इयमपि स्तुत्यर्थमेव । ऋतुधर्मप्रवृत्तिः कीर्त्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् स्वा᳓हाकृता हे᳓मन् पश᳓वो᳓ऽव सीदन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -266,6 +301,7 @@ Therefore in winter animals over which the cry of 'Hail!' is raised perish.
 
 उ॒षस॑ ए॒व दे॒वता॑ना॒मव॑ रुन्द्धे॒ तनू॒नपा॑तय्ँयजति य॒ज्ञमे॒वाव॑ रुन्द्धे [1]  इ॒डो य॑जति प॒शूने॒वाव॑ रुन्द्धे ब॒र्हिर्य॑जति प्र॒जामे॒वाव॑ रुन्द्धे
 </details>
+</details>
 
 ## दिनांशादि-जयः
 
@@ -273,6 +309,8 @@ Therefore in winter animals over which the cry of 'Hail!' is raised perish.
 
 समि᳓धो यजति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +326,14 @@ He offers to the kindling sticks;
 
 स॒मिध॒ इति॑ सम्-इधः॑ । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उष᳓स एव᳓ देव᳓तानाम् अ᳓व रुन्धे  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,11 +356,14 @@ verily he wins the dawns of the goddesses.
 
 समिद्धत्वान्वयाद्देवानां योग्या उषसः उदयान् लभन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नू-न᳓पातय्ँ **यजति**  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +384,14 @@ He offers to Tanunapat;
 
 तनुमतां मनुष्याणामवनहेतोरग्निविशेषात् यज्ञलाभः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓म् एवा᳓व रुन्द्धे  ।     
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -365,11 +412,14 @@ verily he wins the sacrifice [1].
 
 इडः पशव इति । पशुलाभहेतुरिडाभागः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ यजति  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,11 +435,14 @@ He offers to the oblations;
 
 इ॒डः । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न् एवा᳓व रुन्द्धे  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -405,11 +458,14 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓र् यजति  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -430,11 +486,14 @@ He offers to the sacrificial strew;
 
 बर्हिरिति । प्रजालाभहेतुर्बहिर्यागः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓म् एवा᳓व रुन्द्धे  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,16 +509,22 @@ verily he wins offspring.
 
 प्र॒जामिति॑ प्र-जाम् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒मान॑यत उप॒भृत॒स्तेजो॒ वा आज्य॑म्प्र॒जा ब॒र्हिᳶ प्र॒जास्वे॒व तेजो॑ दधाति स्वाहाका॒रय्ँय॑जति॒ वाच॑मे॒वाव॑ रुन्द्धे॒ दश॒ सम्प॑द्यन्ते॒ दशा॑क्षरा वि॒राड्वि॒राजै॒वान्नाद्य॒मव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समा᳓नयत उपभृ᳓तः। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,12 +545,15 @@ He takes (the oblation) from the Upabhrt.
 
 4समानयत इति ॥ त्रीन् प्रयाजानिष्ट्वा अर्धमौपभृतस्य जुह्वामानीय चतुर्थपञ्चमौ यजति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जो वा᳓ आ᳓ज्यम् ।
 प्रजा᳓ बर्हिᳶ᳓,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -506,11 +574,14 @@ The oblation is brilliance, the sacrificial strew offspring;
 
 तेजो वा इति । पुनराज्याधानेन प्रजानां तेजस्समृद्धिः क्रियते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓स्व् एव᳓ ते᳓जो दधाति  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -531,11 +602,14 @@ verily he places brilliance in offspring.
 
 5`स्वैव ते वागित्यब्रवीत्' इति स्वाहाकारेण वागवरोधः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहाकारय्ँ᳓ यजति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -551,11 +625,14 @@ He offers with the cry of 'Hail!';
 
 स्वा॒हा॒का॒रमिति॑ स्वाहा-का॒रम् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓चम् एवा᳓व रुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -571,6 +648,7 @@ verily he wins speech.
 
 वाच॑म् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -578,6 +656,8 @@ verily he wins speech.
 द᳓शाक्षरा विरा᳓ट् ।  (अ᳓न्नं विरा᳓ट्।)  
 विरा᳓जैवा᳓न्ना᳓द्यम् अ᳓व रुन्द्धे ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -609,6 +689,7 @@ the Viraj has ten syllables,
 
 स॒मिधो॑ यजति अ॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति॒ तनू॒नपा॑तय्ँयजति [2]  य॒ज्ञ ए॒वान्तरि॑क्षे॒ प्रति॑ तिष्ठती॒डो य॑जति प॒शुष्वे॒व प्रति॑ तिष्ठति ब॒र्हिर्य॑जति॒ य ए॒व दे॑व॒याना॒ᳶ पन्था॑न॒स्तेष्वे॒व प्रति॑ तिष्ठति स्वाहाका॒रय्ँय॑जति सुव॒र्ग ए॒व लो॒के प्रति॑ तिष्ठत्ये॒ताव॑न्तो॒ वै दे॑वलो॒कास्तेष्वे॒व य॑थापू॒र्वम्प्रति॑ तिष्ठति
 </details>
+</details>
 
 ## प्रतिष्ठा
 
@@ -616,6 +697,8 @@ the Viraj has ten syllables,
 
 समि᳓धो यजति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -631,11 +714,14 @@ He offers to the kindling-sticks;
 
 स॒मिध॒ इति॑ सम्-इधः॑ । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -656,11 +742,14 @@ verily he finds support in this world.
 
 6इदानीं पञ्चविधायाः प्रतिष्ठाया हेतुत्वं प्रयाजानामाह - अस्मिन् इति ॥ प्रथमत्वात्प्रकाशितत्वाच्च अस्मिन् मनुष्यलोके प्रथमे प्रतिष्ठितो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नू-न᳓पातय्ँ यजति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -681,11 +770,14 @@ He offers to Tanunapat [2];
 
 यज्ञादिसर्वपरिस्पन्दाश्रयेऽन्तरीक्षे द्वितीयेन प्रतितिष्ठति । इड्यागेन पशुषु प्रतिष्ठां गन्ता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓ एवा᳓न्त᳓रिक्षे प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -706,11 +798,14 @@ verily in the sacrifice and in the atmosphere he finds support.
 
 बर्हिषः बृंहकत्वात् सर्वदेवयानपथप्रतिष्ठाहेतुत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ यजति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -726,11 +821,14 @@ He offers to the oblations;
 
 इ॒डः । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशु᳓ष्व् एव᳓ प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -746,12 +844,15 @@ verily in cattle he finds support.
 
 प॒शुषु॑ । ए॒व । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बर्हि᳓र् यजति ।  
 य᳓ एव᳓ देवया᳓नाᳶ प᳓न्थानस्   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -767,11 +868,14 @@ He offers to the sacrificial strew;
 
 ब॒र्हिः । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ष्व् एव᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -792,11 +896,14 @@ verily he finds support in the paths that lead to the gods.
 
 स्वाहुतत्वस्याग्न्यादितृप्तिहेतुत्वात् स्वाहाकारेण स्वर्गे प्रतितिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाहाकारय्ँ᳓ यजति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -812,11 +919,14 @@ He offers with the cry of 'Hail!';
 
 स्वा॒हा॒का॒रमिति॑ स्वाहा-का॒रम् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्ग᳓ एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -832,11 +942,14 @@ verily he finds support in the world of heaven.
 
 सु॒व॒र्ग इति॑ सुवः-गे । ए॒व । लो॒के । प्रतीति॑ । ति॒ष्ठ॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वन्तो वै᳓ देवलोका᳓स्  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -857,11 +970,14 @@ So many are the worlds of the gods;
 
 देवलोका इति । सुखहेतुत्वात् देवलोकत्वमेषाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ष्व् एव᳓ यथापूर्व᳓म् प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -882,18 +998,24 @@ verily in them in order he finds support.
 
 यथापूर्वमिति । यथाक्रमं प्रयाजादिनां क्रमात् ॥
 </details>
+</details>
 
 ## प्रयाजः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 देवासु॒रा ए॒षु लो॒केष्व॑स्पर्धन्त॒ ते दे॒वाᳶ प्र॑या॒जैरे॒भ्यो लो॒केभ्योऽसु॑रा॒न्प्राणु॑दन्त॒ तत्प्र॑या॒जाना॑म् [3] प्र॒या॒ज॒त्वय्ँयस्यै॒वव्ँवि॒दुषᳶ॑ प्रया॒जा इ॒ज्यन्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवासुरा᳓ एषु᳓ लोके᳓ष्व् अस्पर्धन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -916,11 +1038,14 @@ The gods and the Asuras contended as to these worlds.
 
 प्रथमत इज्यन्ते इति प्रयाजाः भ्रातृव्यप्रणोदनफलाः । यद्वा - प्रस्थानादिवत् धात्वर्थनिवृत्तौ प्रशब्दः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवाᳶ᳓ प्रयाजै᳓र् एभ्यो᳓ लोके᳓भ्यो᳓ ऽसुरान् **प्रा᳓णुदन्त** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,11 +1068,14 @@ The gods by the fore-sacrifices drove the Asuras away from these worlds;
 
 'प्रयाजानुयाजौ यज्ञाङ्गे' इति कुत्वाभावः । थाथादिना उत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् प्रयाजा᳓नाम् प्रयाजत्व᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -963,10 +1091,14 @@ that is why the fore-sacrifices [3] are so called.
 
 तत् । प्र॒या॒जाना॒मिति॑ प्र-या॒जाना॑म् । प्र॒या॒ज॒त्वमिति॑ प्रयाज-त्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रैभ्यो लो॒केभ्यो॒ भ्रातृ॑व्यान्नुदतेऽभि॒क्राम॑ञ्जुहोत्य॒भिजि॑त्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -974,6 +1106,8 @@ that is why the fore-sacrifices [3] are so called.
 य᳓स्यैवव्ँ᳓ विदु᳓षᳶ प्रयाजा᳓ इज्य᳓न्ते  
 प्रै᳓भ्यो᳓ लोके᳓भ्यो भ्रा᳓तृव्यान् नुदते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -990,6 +1124,7 @@ He for whom knowing thus are offered the fore-sacrifices, drives his enemy away 
 
 यस्य॑ । ए॒वम् । वि॒दुषः॑ । प्र॒या॒जा इति॑ प्र-या॒जाः । इ॒ज्यन्ते॑ । प्रेति॑ । ए॒भ्यः । लो॒केभ्यः॑ । भ्रातृ॑व्यान् । नु॒द॒ते॒ ।
 </details>
+</details>
 
 ## अभिक्रामः
 
@@ -997,6 +1132,8 @@ He for whom knowing thus are offered the fore-sacrifices, drives his enemy away 
 
 अभिक्रा᳓मञ् जुहोत्य् अभि᳓जित्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1017,13 +1154,17 @@ He offers stepping near, for conquest.
 
 8अभिक्राममिति ॥ अभिक्रम्याभिक्रम्य आभिमुख्येनाक्रम्य ॥
 </details>
+</details>
 
 ## प्रयाज-मिथुनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वै प्र॑या॒जाना॑म्मिथु॒नव्ँवेद॒ प्र प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते स॒मिधो॑ ब॒ह्वीरि॑व यजति॒ तनू॒नपा॑त॒मेक॑मिव मिथु॒नन्तद् इ॒डो ब॒ह्वीरि॑व यजति ब॒र्हिरेक॑मिव मिथु॒नन्तद्  
 ए॒तद्वै प्र॑या॒जाना॑म्मिथु॒नम्य ए॒वव्ँ वेद॒ प्र [4]  प्र॒जया॑ प॒शुभि॑र्मिथु॒नैर्जा॑यते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1172,8 @@ He offers stepping near, for conquest.
 यो᳓ वै᳓ प्रयाजा᳓नाम् मिथुनव्ँ᳓ वे᳓द  
 प्र᳓ प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1046,12 +1189,15 @@ He who knows the pairing of the fore sacrifices is propagated with offspring, wi
 
 यः । वै । प्र॒या॒जाना॒मिति॑ प्र-या॒जाना॑म् । मि॒थु॒नम् । वेद॑ । प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समि᳓धो बह्वी᳓र् इव यजति,   
 तनून᳓पातम् ए᳓कम् इव। मिथुन᳓न् त᳓त्।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1074,12 +1220,15 @@ to Tanunapat as one, and that makes a pair.
 
 9मिथुनमिति ॥ स्त्रीपुंसयोर्युगळम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इडो᳓ बह्वी᳓र् इव यजति,  
 बर्हि᳓र् ए᳓कम् इव - मिथुन᳓न् त᳓त्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1100,11 +1249,14 @@ He offers to the kindling-sticks (sic) as many, to the sacrificial strew as one,
 
 बह्वीरिति । स्त्रीत्वं बहुलं चाविवक्षितम् । एकमिवेत्यत्रापि पुंस्त्वमेकत्वं च । लिङ्गवचनविशेषयोरग्नावपारमार्थ्यमिवशब्देन द्योत्यते । एवमिडाबर्हिषोर्वेदितव्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द् वै᳓ प्रयाजा᳓नाम् मिथुन᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1120,11 +1272,14 @@ That is the pairing of the fore-sacrifices.
 
 ए॒तत् । वै । प्र॒या॒जाना॒मिति॑ प्र-या॒जाना॑म् । मि॒थु॒नम् । यः । ए॒वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓ [4]  प्रज᳓या पशु᳓भिर् मिथुनै᳓र् जायते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1140,18 +1295,24 @@ He who knows thus [4] is propagated with offspring, with cattle, with pairings.
 
 वेद॑ । प्रेति॑ । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । मि॒थु॒नैः । जा॒य॒ते॒ ।
 </details>
+</details>
 
 ## प्रयाजानुजाय-वर्मता
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वानाव्ँ॒ वा अनि॑ष्टा दे॒वता॒ आस॒न्नथासु॑रा य॒ज्ञम॑जिघाँस॒न्ते दे॒वा गा॑य॒त्रीव्व्ँयौ॑ह॒न्पञ्चा॒क्षरा॑णि प्रा॒चीना॑नि॒ त्रीणि॑ प्रती॒चीना॑नि॒ ततो॒ वर्म॑ य॒ज्ञायाभ॑व॒द्वर्म॒ यज॑मानाय
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नाव्ँ वा᳓ अ᳓न्-इष्टा देव᳓ता आ᳓सन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1172,11 +1333,14 @@ These deities were not sacrificed to by the gods;
 
 10देवानां इत्यादि ॥ पूर्वं देवानां यागेन प्रयाजदेवता अनिष्टा आसन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓था᳓सुरा यज्ञ᳓म् अजिघाँसन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1197,12 +1361,15 @@ then the Asuras were fain to harm the sacrifice.
 
 अथ तादृशं यज्ञं असुरा हन्तुमैच्छन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ गायत्रीव्ँ᳓ व्यौहन् -  
 पञ्चाक्ष᳓राणि प्राची᳓नानि, त्री᳓णि प्रतीची᳓नानि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1227,11 +1394,14 @@ five syllables in front and three behind.
 
 पञ्चाक्षराणि यज्ञस्य प्राचीनानि पुरस्तात्स्थितान्येको व्यूहः । त्रीण्यक्षराणि प्रतीचीनानि पश्चात् स्थितान्यन्यो व्यूहः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो व᳓र्म यज्ञा᳓या᳓भवद्,  व᳓र्म य᳓जमानाय +++(अभवत् )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1252,10 +1422,14 @@ Then the sacrifice was protected, and the sacrificer.
 
 ततस्स तथा व्यूढाष्टाक्षरा गायत्री मध्यस्थस्य यज्ञस्य यजमानस्य च रक्षाकवचत्वेन सम्पन्ना ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यत्प्र॑याजानूया॒जा इ॒ज्यन्ते॒ वर्मै॒व तद्य॒ज्ञाय॑ क्रियते॒ वर्म॒ यज॑मानाय॒ भ्रातृ॑व्याभिभूत्यै॒ तस्मा॒द्वरू॑थम्पु॒रस्ता॒द्वर्षी॑यᳶ प॒श्चाद्ध्रसी॑यः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1438,8 @@ Then the sacrifice was protected, and the sacrificer.
 व᳓र्मैव᳓ त᳓द् यज्ञा᳓य क्रियते  
 व᳓र्म य᳓जमानाय, भ्रा᳓तृव्याभिभूत्यै+++(←बहुव्रीहिः??)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1285,12 +1461,15 @@ protection is afforded to the sacrifice and to the sacrificer, for the overcomin
 
 11यदित्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् व᳓रूथम्+++(←वृ)+++ पुर᳓स्तात् व᳓र्षीयᳶ  
 पश्चा᳓द् +ध्र᳓सीयः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1312,12 +1491,16 @@ Therefore a covering is larger in front and smaller behind.
 
 वरूथमिति । रक्षकं सेनाबलादिकं पुरस्ताद्वर्षीयः वृद्धतरः । 'प्रियस्थिर' इत्यादिना वर्षादेशः । पश्चाद्ध्रसीयः ह्रस्वतरः । 'स्थूलदूर' इत्यादिना यणादिलोपः ॥
 </details>
+</details>
 
 ## सन्तानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै पु॒रा रक्षो॑भ्यः [5]  इति॑ स्वाहाका॒रेण॑ प्रया॒जेषु॑ य॒ज्ञँ सँ॒स्थाप्य॑मपश्य॒न्तँ स्वा॑हाका॒रेण॑ प्रया॒जेषु॒ सम॑स्थापय॒न्वि वा ए॒तद्य॒ज्ञञ्छि॑न्दन्ति॒ यत्स्वा॑हाका॒रेण॑ प्रया॒जेषु॑ सँस्था॒पय॑न्ति प्रया॒जानि॒ष्ट्वा ह॒वीँष्य॒भि घा॑रयति य॒ज्ञस्य॒ सन्त॑त्या॒ अथो॑ ह॒विरे॒वाक॒रथो॑ यथापू॒र्वमुपै॑ति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1326,6 +1509,8 @@ Therefore a covering is larger in front and smaller behind.
 स्वाहाकारे᳓ण प्रयाजे᳓षु  
 यज्ञँ᳓ सँस्था᳓प्यम् अपश्यन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1348,11 +1533,14 @@ The gods thought that the sacrifice must be completed (in the fore-sacrifice) be
 
 ननु किं प्रयाजेभ्य ऊर्ध्वमेव लुप्तो देवानां यागः । न ब्रूमः प्रयाजान्तो याग इति, किंतु - स्वाहाकारेण सर्वो यज्ञो यथा सन्तिष्ठते । तादृशं प्रयोगं कृतवन्तो देवा इत्युच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तँ᳓ स्वाहाकारे᳓ण प्रयाजे᳓षु स᳓मस्थापयन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1373,12 +1561,15 @@ They completed it with the cry of 'Hail!' in the fore-sacrifices.
 
 स च प्रयाजानन्तरं स्वाहाकारेण विच्छिन्नं हविषामभिघारणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ वा᳓ एत᳓द् यज्ञ᳓ञ् छिन्दन्ति  
 य᳓त् स्वाहाकारे᳓ण प्रयाजे᳓षु सँस्थाप᳓यन्ति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1400,11 +1591,14 @@ They split the sacrifice who complete it with the cry of 'Hail!' in the fore-sac
 
 तदेव प्रतिपादयति - वि वा एतदित्यादि । यदि प्रयाजान्तो यज्ञः संस्थाप्यते विच्छेद एवायं यज्ञस्य क्रियते न पुनस्सर्वोऽयं यज्ञस्संस्थाप्यते । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाजा᳓न् इष्ट्वा᳓ हवीँ᳓ष्य् अभि᳓ घारयति यज्ञ᳓स्य स᳓न्तत्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1420,12 +1614,15 @@ Having offered the fore sacrifices he sprinkles the oblations, for the continuit
 
 प्र॒या॒जानिति॑ प्र-या॒जान् । इ॒ष्ट्वा । ह॒वीँषि॑ । अ॒भीति॑ । घा॒र॒य॒ति॒ । य॒ज्ञस्य॑ । सन्त॑त्या॒ इति॒ सम्-त॒त्यै॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो हवि᳓र् एवा᳓कः ।  
 अ᳓थो यथापूर्व᳓म् उ᳓पैति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1457,16 +1654,22 @@ then verily he makes the oblation, and then he proceeds in order.
 
 इदं कृतमिदं कृतमिदानीं कर्तव्यमिति बुद्ध्या उपसंप्राप्नोति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पि॒ता वै प्र॑या॒जाᳶ प्र॒जानू॑या॒जा यत्प्र॑या॒जानि॒ष्ट्वा ह॒वीँष्य॑भिघा॒रय॑ति पि॒तैव तत्पु॒त्रेण॒ साधा॑रणम् [6] कुरुते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता᳓ वै᳓ प्रयाजाᳶ᳓, प्रजा᳓ ऽनूयाजाः᳓।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1491,6 +1694,7 @@ The fore-sacrifices are the father, the after-sacrifices the son;
 
 'आग्नीध्रसाधारणादञ् वक्तव्यः' इति अञ् प्रत्ययः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1498,6 +1702,8 @@ The fore-sacrifices are the father, the after-sacrifices the son;
 हवीँ᳓ष्य् अभिघार᳓यति ,   
 पितै᳓व᳓ त᳓त् पुत्रे᳓ण सा᳓धारणं कुरुते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1514,6 +1720,7 @@ in that having offered the fore-sacrifices he sprinkles the oblations, the fathe
 
 यत् । प्र॒या॒जानिति॑ प्र-या॒जान् । इ॒ष्ट्वा । ह॒वीँषि॑ । अ॒भि॒घा॒रय॒तीत्य॑भि-घा॒रय॑ति । पि॒ता । ए॒व । तत् । पु॒त्रेण॑ । साधा॑रणम् । कु॒रु॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1523,6 +1730,8 @@ in that having offered the fore-sacrifices he sprinkles the oblations, the fathe
 
 इ᳓ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1556,6 +1765,7 @@ Therefore they say, who know it or who know not,
 
 अस्क॑न्नमे॒व तद्यत्प्र॑या॒जेष्वि॒ष्टेषु॒ स्कन्द॑ति गाय॒त्र्ये॑व तेन॒ गर्भ॑न्धत्ते॒ सा प्र॒जाम्प॒शून्यज॑मानाय॒ प्र ज॑नयति ॥ [7]  
 </details>
+</details>
 
 ## अस्कन्नता
 
@@ -1564,6 +1774,8 @@ Therefore they say, who know it or who know not,
 अ᳓स्कन्नम् एव᳓ त᳓द्  
 य᳓त् प्रयाजे᳓ष्व् इष्टे᳓षु स्क᳓न्दति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1586,11 +1798,14 @@ is not really spilt.
 
 15किं चेत्याह - अस्कन्नमित्यादि ॥ प्रथमत एव इष्टप्रायत्वात् । तस्मात् प्रयाजाः कार्या इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायत्र्य् ए᳓व᳓ ते᳓न ग᳓र्भन् धत्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1611,11 +1826,14 @@ The Gayatri conceives through it,
 
 अपिचेत्याह – गायत्र्येवेत्यादि । प्रयाजानूयाजात्मकेन यागाष्टकेनाष्टाक्षरा गायत्री गर्भं धत्ते ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ प्रजा᳓म् पशू᳓न् य᳓जमानाय प्र᳓ जनयति ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1637,4 +1855,5 @@ and produces offspring and cattle for the sacrificer.
 सा कालेन यजमानाय प्रजां पुत्रादिकां पशूंश्च गवादीन् यजमानाय प्रजनयति । प्रसूते । तस्मात् प्रयाजा अनूयाजाश्च कर्तव्या इति ॥
 
 इति द्वितीये षष्ठे प्रथमोऽनुवाकः ॥  
+</details>
 </details>

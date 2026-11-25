@@ -5,9 +5,12 @@ title = "२१ माहेन्द्रग्रहः"
 त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1बृहत्पृष्ठपक्षे माहेन्द्रं गृह्णाति - महाँइन्द्रो नृवदिति चतुष्पदया त्रिष्टुभा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/019/01_mahA_N_indro.md">
@@ -427,6 +430,8 @@ Gross ist und mannhaft, Völker segnend, Indra und doppelt stark, gewaltig er an
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2 ग्रहणसादने पूर्ववदेव ॥
@@ -436,16 +441,20 @@ _______
 
 उ॒प॒या॒मगृ॑हीतोऽसि महे॒न्द्राय॑ त्वै॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥ [22]
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/20_mahendragrahaH/upayAmagRhItaH.md">
-
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोसि महेन्द्राय त्वेति गृह्णाति ॥
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -476,12 +485,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓हेन्द्रा᳓य त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -497,18 +509,24 @@ to Mahendra thee!
 
 म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्महेन्द्राय त्वेति सादयति ॥ 'इन्द्रो वृत्रमहन् तं देवा अब्रुवन्महान्वा अयमभूत्' इत्यादि ब्राह्मणम्  ॥
 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, महेन्द्रा᳓य त्वा ॥ [21]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -524,6 +542,6 @@ This is thy birthplace; to Mahendra thee!
 
 ए॒षः । ते॒ । योनिः॑ । म॒हे॒न्द्रायेति॑ महा-इ॒न्द्राय॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
 

@@ -2,6 +2,8 @@
 title = "१४ कृणुष्व पाजः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 काम्य(सामिधेनी)इष्टियाज्यापुरोनुवाक्याः।  
@@ -22,6 +24,7 @@ title = "१४ कृणुष्व पाजः"
 
 त्रयोदशे ऽनुवाके हविर्धान-मण्डप-निर्माणम् उक्तम्। यद्य् अपि नैतावता किंचित् प्रमेयं परिसमाप्तं तथाप्य् अध्यापक-संप्रदाय-परम्परया प्रपाठक उत्तरानुवाके समाप्यत इत्य् अन्तिमानुवाकत्वाच् चतुर्दशे काम्याः सामिधेन्यः पुरोनुवाक्या याज्यश् चोच्यन्ते। 
 अस्याम् इष्टौ "कृणुष्व पाज" इत्य् अनुवाकः कृत्स्नो विनियुक्तः। तस्मिन्न् ऋचो ऽष्टादश। तासु पञ्चदश सामिधेन्यः। एका पुरोनुवाक्या, द्वे याज्ये विकल्पिते।
+</details>
 </details>
 
 ## आह्वानम्
@@ -437,9 +440,12 @@ Breit aus dein Licht wie eine weite Heerschar, gleich mächt'gem König geh mit 
 
 ## युद्धप्रार्थना
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ द्वितीया - तवेति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/02_tava_bhramAsa.md">
@@ -812,9 +818,12 @@ Es fliegen eilend deine Wirbelflammen, folg auf dem Fuss mit kühnem Muthe strah
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अथ तृतीया - प्रतीति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/03_prati_spasho.md">
@@ -1238,9 +1247,12 @@ Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ चतुर्थी - उदग्न इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/04_udagne_tiShTha.md">
@@ -1659,9 +1671,12 @@ Erheb dich, Agni, spanne deinen Bogen, mit scharfer Waffe brenn die Feinde niede
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ पञ्चमी - ऊर्ध्व इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/05_Urdhvo_bhava.md">
@@ -2070,9 +2085,12 @@ Erheb dich, jage fort von uns die Feinde, mach kund, o Agni, deine Götterkräft
 
 ## उपासकसौभाग्यम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ षष्ठी - स त इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/06_sa_te.md">
@@ -2477,9 +2495,12 @@ Der spüret recht, o jüngster, deine Güte, wer einer solchen Andacht Fortgang 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ सप्तमी - सेदिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/07_sedagne_astu.md">
@@ -2907,9 +2928,12 @@ Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und 
 
 ## प्रतिज्ञा
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अथाष्टमी - अर्चामीति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/08_archAmi_te.md">
@@ -3312,9 +3336,12 @@ Ich sing' ein Lied dir, in der Näh' erschall' es; dir soll erklingen dieses lie
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ नवमी - इहेति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/09_iha_tvA.md">
@@ -3696,9 +3723,12 @@ Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich mor
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10अथ दशमी - यस्त्वेति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/10_yastvA_svashvaH.md">
@@ -4078,9 +4108,12 @@ Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11अथैकादशी - महो रुजामीति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/11_maho_rujAmi.md">
@@ -4481,9 +4514,12 @@ Durch meiner Sippe Lieder schlag' ich Helden; das kam auf mich von Gotama, dem V
 
 ### किरणकीर्तिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथ द्वादशी - अस्वप्नज इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/12_asvapnajastaraNayaH_sushevA.md">
@@ -4824,9 +4860,12 @@ Die schlummerlosen, eilenden, getreuen, sehr holden, die nicht rasten, noch erm�
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथ त्रयोदशी - ये पायव इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/13_ye_pAyavo.md">
@@ -5221,9 +5260,12 @@ Den Mamateja schützten deine Hüter, den Blinden sehend, vor Gefahr, o Agni; De
 
 ## प्रतिज्ञानुवर्तनम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अथ चतुर्दशी - त्वयेति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/14_tvayA_vayaM.md">
@@ -5553,9 +5595,12 @@ Von dir geleitet mögen wir erlangen, von dir geschützt, durch deine Führung, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15।अथ पञ्चदशी - अयेति ॥ 18अथ याज्याविकल्पः, उपहोमार्था वा - उतेति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/004/15_ayA_te.md">
@@ -5925,9 +5970,12 @@ Wir huld'gen, Agni, dir mit diesem Brennholz, empfange du das ausgesprochne Lobl
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/087/01_raxohaNaM_vAjinamA.md">
@@ -6262,9 +6310,12 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 
 ## रक्षोहाग्निध्यानम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>गरणि-विस्तारः</summary>
 
 17अथ याज्या - वीति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/09_vi_jyotiShA.md">
@@ -6632,9 +6683,12 @@ Mit hellem Glanze strahlet weithin Agni, in Herrlichkeit macht alles offenbar er
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18अथ याज्याविकल्पः, उपहोमार्था वा - उतेति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/002/10_uta_svAnAso.md">

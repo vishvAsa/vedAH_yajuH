@@ -2,6 +2,8 @@
 title = "०५ नमो भवाय"
 +++
 अग्निर्ऋषिः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ भ॒वाय॑ च रु॒द्राय॑ च॒ नम॑श्श॒र्वाय॑ च पशु॒पत॑ये च॒ नमो॒ नील॑ग्रीवाय च शिति॒कण्ठा॑य च॒ नम॑ᳵ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च॒ नम॑स्सहस्रा॒क्षाय॑ च श॒तध॑न्वने च॒ नमो॑ गिरि॒शाय॑ च शिपिवि॒ष्टाय॑ च॒ नमो॑ मी॒ढुष्ट॑माय॒ चेषु॑मते च॒ नमो॑ ह्र॒स्वाय॑ च वाम॒नाय॑ च॒ नमो॑ बृह॒ते च॒ वर्षी॑यसे च॒ नमो॑ वृ॒द्धाय॑ च सव्ँ॒वृध्व॑ने च [11]नमो॒ अग्रि॑याय च प्रथ॒माय॑ च॒ नम॑ आ॒शवे॑ चाजि॒राय॑ च॒ नम॒श्शीघ्रि॑याय च॒ शीभ्या॑य च॒ नम॑ ऊ॒र्म्या॑य चावस्व॒न्या॑य च॒ नम॑स्स्रोत॒स्या॑य च॒ द्वीप्या॑य च ॥ [12]  
@@ -11,11 +13,14 @@ title = "०५ नमो भवाय"
 
 नमो॑ भ॒वाय॑ च रु॒द्राय॑ च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो भवा᳓य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -39,11 +44,14 @@ Homage to Bhava,
 तत्र पञ्चमानुवाके प्रथमं यजुरारभ्य पञ्चदश यजूंष्याह— नमो भवाय चेति।  
 भवन्ति प्राणिनोऽस्मादिति भवः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓य च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,16 +72,22 @@ and to Rudra.
 
 रुद्रोदनहेतुभूतं दुःखं द्रावयतीति रुद्रः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑श्श॒र्वाय॑ च पशु॒पत॑ये च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मश्शर्वा᳓य च।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -94,11 +108,14 @@ Homage to Śarva,
 
 शृणाति हिनस्ति पापमिति शर्वः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशुप᳓तये च +++(नमः)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,16 +136,22 @@ and to the lord of cattle.
 
 पशुसमानानज्ञा  २१२५ निनः पुरुषान्पालयतीति पशुपतिः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॒  नील॑ग्रीवाय च शिति॒कण्ठा॑य च  ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो  नी᳓लग्रीवाय च  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +172,14 @@ Homage to the blue-necked one,
 
 कालकूटधारणेन नीलवर्णो ग्रीवैकदेशो यस्यासौ नीलग्रीवः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शितिक᳓ण्ठाय च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,16 +200,22 @@ and to the white-throated.
 
 शितिः श्वेतवर्णोऽवशिष्टः कण्ठप्रदेशो यस्यासौ शितिकण्ठः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ᳵ कप॒र्दिने॑ च॒ व्यु॑प्तकेशाय च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मᳵ कपर्दि᳓ने च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,11 +236,14 @@ Homage to the wearer of braids,
 
 कपर्दो जटाजूटो यस्यास्तीति कपर्दी।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यु᳙प्तकेशाय च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,16 +266,22 @@ and to him of shaven hair.
 पाशुपतादिवेषेण कपर्दित्वम्।  
 यत्यादिवेषेण मुण्डितकेशत्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑स्सहस्रा॒क्षाय॑ च श॒तध॑न्वने च ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्सहस्राक्षा᳓य च ..   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -261,11 +302,14 @@ Homage to him of a thousand eyes,
 
 इन्द्रवेषेण सहस्राक्षत्बम्।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत᳓धन्वने च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -286,11 +330,14 @@ and to him of a hundred bows.
 
 सहस्रभुजावतारित्वेन शतसंख्याकैर्धनुर्निरुपेतत्वम्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो गिरिशा᳓य᳓ च᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -311,11 +358,14 @@ Homage to him who haunteth the mountains,
 
 गिरौ कैलासे शेते तिष्ठतीति गिरिशः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिपिविष्टा᳓य च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -337,16 +387,22 @@ and to Śipivista.
 विष्णुमूर्तिधारी शिपिविष्टः।  
 “विष्णुः शिपिविष्टः” इति श्रुतेः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ मी॒ढुष्ट॑माय॒ चेषु॑मते च +++(नमः)+++।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मीढु᳓ष्टमाय च᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +423,14 @@ Homage to the most bountiful,
 
 मेघरूपेणात्यन्तं वर्षयिता भीढुष्टमः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓षुमते च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +451,14 @@ and to the bearer of the arrow.
 
 बाणधारक इषुमान्।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो ह्रस्वा᳓य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +479,14 @@ Homage to the short,
 
 शरीरेऽल्पप्रमाणत्वं ह्रस्वत्वम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वामना᳓य च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,16 +507,22 @@ and to the dwarf.
 
 अङ्गुल्याद्यवयवयसंकोचाद्वामनत्वम्।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ बृह॒ते च॒ वर्षी॑यसे च  ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो बृहते᳓ च᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,11 +543,14 @@ Homage to the great,
 
 आकारेण प्रौढो बृहन्।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्षीयसे च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -497,16 +571,22 @@ and to the stronger.
 
 गुणैः सगृद्धो वर्षीयान्।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॑ वृ॒द्धाय॑ च सव्ँ॒वृध्व॑ने च ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वृद्धा᳓य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -527,11 +607,14 @@ Homage to him who hath waxed,
 
 वयसाऽधिको वृद्धः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवृ᳓ध्वने च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,16 +635,22 @@ and to the waxing.
 
 सन्यक्स्तृतिभिर्वर्धितः संवृध्वा।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नमो॒ अग्रि॑याय च प्रथ॒माय॑ च  ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो अ᳓ग्रियाय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,11 +671,14 @@ Homage to the chief,
 
 जगदुत्पत्तेः पूर्वमवस्थितोऽग्रियः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रथमा᳓य च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -607,16 +699,22 @@ and to the first.
 
 सभायां मुख्यः प्रथमः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ आ॒शवे॑ चाजि॒राय॑ च ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म आश᳓वे च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -637,11 +735,14 @@ Homage to the swift,
 
 आशर्व्यापी।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अजिरा᳓य  च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -662,16 +763,22 @@ and to the active.
 
 अजिरो गमनकुशलः।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒श्शीघ्रि॑याय च॒ शीभ्या॑य च ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मश्शी᳓घ्रियाय च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -692,11 +799,14 @@ Homage to the rapid,
 
 शीघ्रियः शीघ्रगामी।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शी᳓भ्याय च +++(नमः)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -717,16 +827,22 @@ and to the hasty.
 
 शीमशब्द उदकप्रवाहवाची, तत्रोवस्थितः शीभ्यः।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑ ऊ॒र्म्या॑य चावस्व॒न्या॑य च ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓म ऊर्म्या᳙य च  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -747,11 +863,14 @@ Homage to him of the wave,
 
 ऊर्मौ तरङ्गे स्थित ऊर्म्यः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवस्वन्या᳙य च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -772,16 +891,22 @@ and to the roaring.
 
 अवस्वने ध्वनिरहिते स्थिरजलेऽवस्थितोऽवस्वन्यः।    
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॑स्स्रोत॒स्या॑य च॒ द्वीप्या॑य च ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मस्स्रोतस्या᳙य च
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -802,11 +927,14 @@ Homage to him of the stream,
 
 स्त्रोतसि प्रवाहे स्थितः स्रो तस्यः।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वी᳓प्याय च +++(नमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -830,4 +958,5 @@ and to him of the island.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके पञ्चमोऽनुवाकः ॥  ५ ॥
    चतुर्थकाण्डे पञ्चमप्रपाठके षष्ठोऽनुवाकः
+</details>
 </details>

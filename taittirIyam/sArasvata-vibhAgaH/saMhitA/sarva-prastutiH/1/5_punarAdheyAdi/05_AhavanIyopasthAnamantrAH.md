@@ -13,10 +13,13 @@ title = "०५ आहवनीयोपस्थानमन्त्राः"
 अग्निर्ऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अग्न्युपस्थानकाण्डं अग्न्यार्षम् ॥
 1आहवनीयमुपतिष्ठते - उपप्रयन्त इति षड्भिः । 'षड्भिरुत्तराभिरुपतिष्ठते' इत्यादि ब्राह्मणम् । प्रथमा गायत्री ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/074/01_upaprayanto_adhvaraM.md">
@@ -287,9 +290,12 @@ Zum Opfer schreitend wollen wir dem Agni sprechen ein Gebet, Der uns auch aus de
 
 </div>  
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2द्वितीया - अस्य प्रत्नामिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/054/01_asya_pratnAmanu.md">
@@ -554,9 +560,12 @@ Nachfolgend seinem alten Glanz, entziehn die Kecken hellen Trank Dem Sänger, de
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तृतीया - अग्निरिति गायत्री ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/16_agnirmUrdhA_divaH.md">
@@ -820,9 +829,12 @@ Agni, des Himmels Haupt und Höh', und er, der Erde Oberherr, Erregt der Wasser 
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4चतुर्थी - अयमिहेति जगती ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/007/01_ayamiha_prathamo.md">
@@ -1192,9 +1204,12 @@ Errichtet wurde dieser von den Ordnern hier, der beste Opfrer, bei den Festen pr
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उभा वामिति पञ्चमी - प्रथमे प्रश्ने पठिता व्याख्याता च ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/060/13_ubhA_vAmindrAgnI.md">
@@ -1566,9 +1581,12 @@ Euch beide, o Indra-Agni, will ich herbeirufen, euch beide zugleich mit Gaben er
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ षष्ठी - अयं त इत्यनुष्टुप् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
@@ -1625,9 +1643,12 @@ _______
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सप्तमी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/19_agna_AyUMShi.md">
@@ -1918,15 +1939,21 @@ Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse w
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 7अथ सप्तम्याद्याष्षडपि गायत्र्यः व्याख्याताश्च 'त्वमग्ने रुद्रः' इत्यत्र ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8अष्टमी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/066/21_agne_pavasva.md">
@@ -2207,9 +2234,12 @@ O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut un
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9नवमी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
@@ -2513,9 +2543,12 @@ x
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10दशमी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/agne_naH.md">
@@ -2560,9 +2593,12 @@ __________
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11एकादशी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/21_agniH_shuchivratatamaH.md">
@@ -2814,9 +2850,12 @@ Agni, der hellstes Werk vollbringt, ein Priester hell, ein Seher hell, Erglänze
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12द्वादशी - 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/044/17_udagne_shuchayastava.md">
@@ -3073,15 +3112,20 @@ Es steigen deine Flammen auf, die lichten, hellen, strahlenden, O Agni, deiner L
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13तत्राहवनीयमेवोपतिष्ठते - आयुर्दा इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुर्दा᳓ अग्नेऽस्य् - आ᳓युर् मे [19]  देहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -3102,11 +3146,14 @@ Thou art giver of life, O Agni; give me life [3].
 
 हे अग्ने त्वमायुर्दाः आयुषोन्नस्य जीवितस्य वा दातासि तस्मादायुर्मे देहि । एरवमुत्तरत्रापि द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्चोदा᳓ अग्नेऽसि व᳓र्चो मे देहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -3127,11 +3174,14 @@ Thou art giver of radiance, O Agni; give me radiance.
 
 वर्चो बलं दीप्तिर्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓नूपा᳓ अग्नेऽसि - तनु᳓वम् मे पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -3152,11 +3202,14 @@ Thou art guardian of the body, O Agni; guard my body.
 
 तनूनां शरीराणां पाता तनूपाः । सर्वत्र 'आतो मनिन्' इति विच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने य᳓न् मे तनु᳓वा ऊन᳓न्, त᳓न् म आ᳓ पृण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -3177,16 +3230,22 @@ O Agni, whatever is deficient in my body, do thou make that good for me.
 
 हे अग्ने ऊनं विकलीभूतं छिन्नं भिन्नं ॥ यन्मे तनुवाः तन्वा ऊनं तन्मे त्वां भजमानस्य आपृण आपूरय । यद्वा - यन्मे तन्वाः तनुस्थानीयानां प्रजानां पशूनां ऊनं तदापूरय । पृण प्रीणने अत्रापूरणे वर्तते । तन्वादीनां छन्दसि बहुलम्' इत्युवङादेशः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14रात्रिमुपतिष्ठते - चित्रावसो इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि᳓त्रावसो +++(→रात्रे)+++! स्वस्ति᳓ ते पार᳓म् अशीय᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -3207,11 +3266,15 @@ O thou of various splendour, in safety may I reach the end of thee.
 
 चित्राः नानारूःपाः चायनीया वा । वसवो वसून्यावसनानि वस्तारो वा यस्यां सा चित्रावसुः रात्रिः । सांहितिकं दीर्घत्वम् । त्वयि वसन्ति सर्वेपि सुखेन अतोहम्पि ते तव पारं समाप्तिं व्युष्टिं स्वस्ति अविनाशेन सुखेन अशीय प्राप्नुयां त्वत्प्रमोदेन । अश्नोतेर्लिङि शपो लुक् ॥
 </details>
+</details>
 
 ___________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15आहवनीये समिधमादधाति - इन्धाना इति सप्तपदया शक्वर्या ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/02_indhAnAs_tvA.md">
@@ -3267,9 +3330,12 @@ in the highest firmament.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16पुनरुपतिष्ठते - सं त्वमग्न इति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/05_AhavanIyopasthAnamantrAH/03_san_tvam.md">

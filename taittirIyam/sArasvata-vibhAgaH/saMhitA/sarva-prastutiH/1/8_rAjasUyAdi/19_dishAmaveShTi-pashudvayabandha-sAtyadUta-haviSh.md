@@ -2,11 +2,14 @@
 title = "१९ दिशामवेष्टि-पशुद्वयबन्ध-सात्यदूत-हविषां ब्राह्मणम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 दिशामवेष्टि-पशुद्वयबन्ध-सात्यदूत-हविषां ब्राह्मणम्
 
 विश्वेदेवा ऋषयः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,6 +17,8 @@ title = "१९ दिशामवेष्टि-पशुद्वयबन्
 आग्नेय᳓म् अष्टा᳓कपालन् नि᳓र्वपति ।   
 हि᳓रण्यन् द᳓क्षिणा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,12 +40,15 @@ To Agni he offers on eight potsherds; the sacrificial fee is gold.
 
 1अथ पञ्चहविषामवेष्ट्योदवस्यति, तां विदधाति - आग्नेयमित्यादि ॥ 'ईश्वरो वा एष दिशोनून्मदितोः' इत्यादि ब्राह्मणम् । आग्नेयैन्द्रवैश्वदेवमैत्रावरुणबार्हस्पत्यानि पञ्च हवींषि निर्वपति । हिरण्यऋषभपष्ठौहीवशाशितिपृष्ठेत्येतानि दक्षिणाकाले देयनि । सन्तिष्ठते दशपेयः । 'एतया दिशामवेष्ट्या तेजस्कामो ब्राह्मणो राजन्यो वा वैश्यो वा' इत्ययज्ञसंयुक्तं केचिदाहुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓म् ए᳓कादश-कपालम् +++(निर्वपति)+++  ।  
 ऋषभो᳓ द᳓क्षिणा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -57,12 +65,15 @@ To Indra (he offers) on eleven potsherds; the sacrificial fee is a bull.
 
 ऐ॒न्द्रम् । एका॑दशकपाल॒मित्येका॑दश-क॒पा॒ल॒म् । ऋ॒ष॒भः । दक्षि॑णा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्वदेव᳓ञ् चरु᳓म्  +++(निर्वपति)+++  ।  
 पिश᳓ङ्गी पष्ठौही᳓+++(=4-वर्षीया)+++ द᳓क्षिणा   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -79,12 +90,15 @@ To the All-gods (he offers) an oblation; the sacrificial fee is a tawny heifer.
 
 वै॒श्व॒दे॒वमिति॑ वैश्व-दे॒वम् । च॒रुम् । पि॒शङ्गी॑ । प॒ष्ठौ॒ही । दक्षि॑णा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैत्रावरुणी᳓म् आमि᳓क्षाम् +++(निर्वपति)+++  ।     
 वशा᳓+++(=वन्ध्या)+++ द᳓क्षिणा  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -101,12 +115,15 @@ To Mitra and Varuna (he offers) clotted curds; the sacrificial fee is a cow.
 
 मै॒त्रा॒व॒रु॒णीमिति॑ मैत्रा-व॒रु॒णीम् । आ॒मिक्षा॑म् । व॒शा । दक्षि॑णा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बार्र्हस्पत्य᳓ञ्चरु᳓म्  +++(निर्वपति)+++  ।   
 शिति+++(=श्वेत)+++-पृष्ठो᳓ द᳓क्षिणा   ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -123,12 +140,15 @@ To Brhaspati (he offers) an oblation; the sacrificial fee is a white-backed (ox)
 
 बा॒र्ह॒स्प॒त्यम् । च॒रुम् । शि॒ति॒पृ॒ष्ठ इति॑ शिति-पृ॒ष्ठः । दक्षि॑णा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या᳓म् मल्हा᳓ङ् +++(अजां, यस्या ग्रीवायां मणिवन्मांसद्वयमवलम्बते)+++ गर्भि᳓णीम् आ᳓ लभते,  
 मारुती᳓म् पृ᳓श्ञिम् पष्ठौही᳓म्+++(=४-वर्षीयाम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,11 +169,14 @@ To the Adityas he sacrifices a sheep in young, to the Maruts a dappled heifer.
 
 2अथ यस्यां दशपेयासमाप्तिस्तस्यां प्रथमायामपराह्णे द्विपशुना पशुबन्धेन यजते, तं विदधाति - आदित्यां मल्हामिति ॥ आदित्यो देवता । 'दित्यदित्यादित्य' इति ण्यः । मल्हा मणिला अजा, यस्या ग्रीवायां मणिवन्मांसद्वयमवलम्बते । तादृशीं गर्भिणीमालभेत । मारुतीं च पृश्निं श्वेतवर्णां पष्ठौहीम् । उक्ता पष्ठौही ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓भ्याम् पूष्णे᳓ पुरोडा᳓शन् द्वा᳓-दश-कपालन् नि᳓र्वपति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -174,11 +197,14 @@ To the Aśvins and Pusan he offers a cake on twelve potsherds;
 
 3श्वोभूते द्वितीयायां सात्यदूतानां त्रिहविषेष्ट्या यजते, तां विदधाति - अश्विभ्यामित्यादि ॥ अश्विनौ पूषा च सम्भूय देवते । 'अश्विभ्यां पूष्णे जुष्टं निर्वपामि' इति निर्वापः । पूष्ण इत्याद्युदात्तनिवृत्तिस्वरेण चतुर्थ्या उदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वते सत्य-वा᳓चे चरु᳓म्  +++(निर्वपति)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -199,6 +225,7 @@ to Sarasvati of true speech an oblation;
 
 सरस्वान् सत्यवाङ्नाम देवता । सत्यं वक्ति सत्यवाक् । 'क्विब्वचि' इत्यादिना क्विब्दीर्घौ, कृदुत्तरपदप्रकृतिस्वरत्वम्, 'अन्तोदात्तादुत्तरपदात्' इति विभक्त्युदात्तत्वं नित्यसमासत्वान्न भवति । बहुव्रीहौ त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम्, 'अन्यतरस्यां' इति वचनाद्विभक्त्युदात्तत्वाभावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -206,6 +233,8 @@ to Sarasvati of true speech an oblation;
  +++(निर्वपति)+++,  
 तिसृ+++(-इषु)+++-धन्वँ᳓, शुष्क-दृति᳓र्+++(=स्यूतं)+++ द᳓क्षिणा ॥ [35]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,4 +260,5 @@ the sacrificial fee is a dry skin bag and a bow with three arrows.
 सवित्रे । 'उदात्तयणः' इति विभक्त्युदात्तत्वम् । सत्यप्रसवाय सत्याभ्यनुज्ञानाय तिसृधन्वं शुष्कदृतिश्च दक्षिणा । तिसृभिरिषुभिर्युक्तं धनुः तिसृधन्वम् । शुष्का केवला दृतिश् शुष्कदृतिः ॥
 
 इत्यष्टमे एकोनविंशोनुवाकः ॥  
+</details>
 </details>

@@ -9,10 +9,13 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 पञ्चमेऽनुवाके वयस्वाख्या इष्टका उक्ताः ।  
 तावता द्वितीयचितिः समाप्ता।    अथ षष्टे तृतीयस्यां चित्तौ स्वयमातृण्णाद्या उच्यन्ते ।  
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“श्वोभूते पौर्वाहनिकीभ्यां प्रचर्य तृतीयां चितिं चिनौतीन्द्राग्नी अव्यथमानमिति स्वयमातृण्णाममिमृश्याश्वेनोपघ्राप्य” इति ।  
 पाठस्तु—  १९९४ इन्द्राग्नी इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -20,6 +23,8 @@ title = "०६ तृतीयचितौ स्वयमातृण्णा
 इ᳓न्द्राग्नी अ᳓व्यथमानामि᳓ष्टकान्दृँहतय्ँयुव᳓म् ।  
 पृष्ठे᳓न द्या᳓वापृथिवी᳓ अन्त᳓रिक्षञ्च वि᳓ बाधताम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,6 +50,9 @@ The sky and earth and atmosphere.
 हे इन्द्राग्नी युवं युवाव्यथमानां भङ्गरहितां स्वयभातृण्णाख्यामिष्टकां दृंहतं दृढी कुरुतम् ।  
 इयं चेष्टका स्वकीयेनोपरिभागेन [ ण] लोकत्रयं विवाधतां बाधमानेव व्याप्नोत्वित्यर्थः ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -57,11 +65,14 @@ The sky and earth and atmosphere.
 कल्पः “विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठ इत्याविदुषा ब्राह्मणेन सह मध्येऽग्नेरुपधाति” इति ।  
 पाठस्तु— विश्वकर्मा त्वेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्व᳓कर्मा त्वा सादयतु अन्त᳓रिक्षस्य पृष्ठे᳓ ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -83,11 +94,14 @@ Let Viśvakarman place thee in the ridge of the atmosphere,
 विश्वानि कर्माणि यस्यासौ विश्वकर्मा प्रजापतिः ।  
 हे स्वयमातृण्णे प्रजापतिस्त्वामन्तरिक्षस्य पृष्ठ उपरि सादयतु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्य᳓चस्वतीम्प्र᳓थस्वतीम्भा᳓स्वतीँ सूरिम᳓तीमा᳓ या᳓ द्या᳓म्भा᳓सि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -110,11 +124,14 @@ encompassing, expanding, resplendent, possessing the sun, thee that dost illumin
 
 कीदृशीं, व्यचस्वतीं व्यक्तियुक्तां प्रथस्वतीं विस्तारयुक्तां भास्वतीं भायुक्तां सूरिमतीं विद्वद्भिर्ऋत्विग्भिर्युक्तां, तां येयं स्वयमातृण्णा त्वं द्युलोकमाभासि सर्वतः प्रकाशयसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ पृथिवी᳓म् +++(भासि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,11 +152,14 @@ the earth,
 
 तथा पृथिवीमाभासि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓र्वन्त᳓रिक्षम् +++(भासि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -160,11 +180,14 @@ the broad atmosphere,
 
 उरु विस्तीर्णमन्तरिक्षं चाऽऽभासि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षय्ँयच्छ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -185,11 +208,14 @@ support the atmosphere,
 
 तादृशी त्वमन्तरिक्षमिदं यच्छ गन्धर्वाप्सरोगणादिधारकतया नियमय ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ अन्त᳓रिक्षन्दृँह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,11 +236,14 @@ make firm the atmosphere,
 
 तथाऽन्तरिक्षं र्दृह परोपद्रववराहित्येन दृढी कुरु ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षम्मा᳓ हिँसीः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -235,12 +264,15 @@ harm not the atmosphere;
 
 त्वमपि तदन्तरिक्षं मा हिंसीः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै चरि᳓त्राय वायु᳓स्त्वाभि᳓ पातु,
 मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा [11] श᳓न्तमेन,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -263,11 +295,14 @@ for every expiration, inspiration, cross-breathing, out-breathing, support, move
 विश्वस्मै सर्वस्मै प्राणापानव्यानोदानाख्यवायुवृत्तिलाभाय, प्रतिष्ठायौ स्मगृहे प्रतिष्ठालाभाय, चरित्राय शास्त्रीया चरणाय, प्राणिनामेतस्य सर्वस्य सिद्ध्यर्थमयं वायुस्त्याममितः पातु ।  
 केन रक्षणमिति तदुच्यतेमह्या स्वस्त्या महत्या योगक्षेमसंपत्त्या शंतमेन च्छर्दिषा सुखकारिणा दीप्तिविशेषेण ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,6 +341,9 @@ with that deity do thou sit firm in the manner of Angiras.
 सति हि च्छिन्द्रे श्वासोऽनुपरुद्धः सन्निर्गच्छति ।  
 आवरणाभावत्स्वर्गोऽपि द्रष्टुं शक्यते
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -317,11 +355,14 @@ with that deity do thou sit firm in the manner of Angiras.
 कल्पः “राज्ञ्यसि प्राची दिगिति पञ्च दिश्याः प्रतिदिशमेकां मध्ये” इति।  
 पाठस्तु— राज्ञ्यसि प्राचीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रा᳓ज्ञ्यसि प्रा᳓ची दि᳓क् ।    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,11 +383,14 @@ Thou art the queen, the eastern quarter;
 
 हे इष्टके त्वं राज्ञी राजमाना दीप्यमाना सती प्राची दिगासि पूर्वदिग्रूपाऽसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓डसि दक्षिणा᳓ दि᳓क्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -367,11 +411,14 @@ thou art the ruling, the southern quarter;
 
 विराड्विविधं राजमाना दक्षिणा दिगासि ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्रा᳓डसि प्रती᳓ची दि᳓क्  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +439,14 @@ thou art the sovereign, the western quarter;
 
 सम्राट् सम्यग्राजमाना प्रतीची दिगसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरा᳓डस्यु᳓दीची दि᳓क् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +467,14 @@ thou art the self-ruling, the northern quarter;
 
 स्वराट्स्वयमेव राजमानोदीची दिगसि ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓धिपत्न्यसि बृहती᳓ दि᳓क् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -451,6 +504,9 @@ thou art the lady paramount, the great quarter.
 दिक्शब्दोपेतैर्मन्त्रैरुपधेया इष्टका दिश्याः ।  
 तदुपधानद्देवानामिव यजमानस्यापि दिशो दृढा भवन्ति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -463,6 +519,7 @@ thou art the lady paramount, the great quarter.
 कल्पः—“आयुर्मे पाहीति दश प्राणभृतः पुरस्तादुपधाय” इति।  
 पाठस्तु— आयुर्मे पाहीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -474,6 +531,8 @@ thou art the lady paramount, the great quarter.
 श्रो᳓त्रम्मे पाहि ।   
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -501,12 +560,15 @@ Protect my life; protect my expiration; protect my inspiration; protect my cross
 हे इष्टके मे मदीयमायुः पाहि रक्ष ।  
 एवमुत्तरत्रापि योज्यम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नो मे जिन्व ।   
 वा᳓चम्मे पिन्व ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,11 +590,14 @@ quicken my mind; strengthen my voice;
 
 जिन्व प्रीणय ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा᳓नम्मे पाहि ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -553,11 +618,14 @@ protect my breath;
 
 आत्मानं जीवस्वरूपम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिर्मे यच्छ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -592,6 +660,7 @@ accord me light.
 दीप्तिवाचिना राजतिधातुजन्येन निर्दिश्यमानत्वादिर्य विराट्छन्दसां मध्ये ज्योतिः ।  
 तथा सति तादृग्धशानां पूर्वदिश्युपधानेन ज्योतिरेव तत्र धारितं भवति ।  
 यस्मात्पूर्वस्यां दिशि ज्योतिर्धृतं तस्माद्वयं प्रातःसंध्याकाले षूर्वस्यां दिशि ज्योतिर्मण्डलमुपास्महे ।  
+</details>
 </details>
 
 चतुर्थकाण्डे तृतीयप्रपाठके सप्तमोऽनुवाकः

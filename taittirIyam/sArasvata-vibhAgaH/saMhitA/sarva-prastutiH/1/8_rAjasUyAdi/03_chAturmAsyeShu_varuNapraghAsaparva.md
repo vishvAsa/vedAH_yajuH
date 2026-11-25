@@ -2,6 +2,8 @@
 title = "०३ चातुर्मास्येषु वरुणप्रघासपर्व"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 २ गायत्री
@@ -16,6 +18,7 @@ title = "०३ चातुर्मास्येषु वरुणप्र
 
 1अथ वरुणप्रघासहवींषि विदधाति - ऐन्द्राग्नमित्यादि ॥ एतानि चत्वारि हवींषि पञ्चसञ्चरातिरिक्तानि । 'एतद्ब्राह्मणान्येव पञ्च हवींषि । 'अथैष ऐन्द्राग्नो भवति' इत्यादि ब्राह्मणम् । तेन सञ्चरैस्सह नव भवन्ति । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -24,6 +27,8 @@ title = "०३ चातुर्मास्येषु वरुणप्र
 वारुणी᳓म् आमि᳓क्षाम्  ।   
 काय᳓म्+++(←कः प्रजापतिः)+++ ए᳓क-कपालम् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -50,6 +55,9 @@ and on one potsherd to Ka.
 
 को देवता अस्य कायम् । 'कस्येत्' इतीत्वम् । कः प्रजापतिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -59,6 +67,7 @@ and on one potsherd to Ka.
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2गृहीत-करम्भ-पात्रां पत्नीम् उदानयित्वा वाचयति प्रतिप्रस्थाता - प्रघास्यानिति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/02_praghAsyAn_havAmahe.md">
@@ -105,9 +114,12 @@ Rejoicing in the mush.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3यजमानः पुरोनुवाक्यामन्वाह - मो षूण इति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
@@ -178,6 +190,8 @@ Rich in oblation are the Maruts whom our song praises.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4दम्पती याज्यां ब्रूतः - यद्ग्राम इति ।
@@ -186,6 +200,7 @@ Rich in oblation are the Maruts whom our song praises.
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यद्ग्रामे॒ यदर॑ण्ये॒ यत् स॒भायाय्ँ॒यदि॑न्द्रि॒ये । यच्छू॒द्रे यद॒र्य॑ एन॑श्चकृ॒मा व॒यम् । यदेक॒स्याधि॒ धर्म॑णि॒ तस्या॑व॒यज॑नमसि॒ स्वाहा॑ ॥  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
@@ -238,9 +253,12 @@ Of that thou art the expiation; hail!
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पृथग् गच्छन्ताव् अनुमन्त्रयेते पत्नीय-जमानौ - अक्रन्निति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">

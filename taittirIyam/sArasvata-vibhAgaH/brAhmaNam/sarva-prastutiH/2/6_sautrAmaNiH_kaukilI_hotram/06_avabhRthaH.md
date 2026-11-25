@@ -3,9 +3,12 @@ title: ०६ अवभृथः
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1पञ्चमेऽभिषेक उक्तः । षष्ठेऽवभृथ उच्यते । कल्पः - 'यद्देवा देवहेडनमित्यवभृथे पञ्चाहुतीर्जुहोति' इति । तत्र प्रथमामृचमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 अग्नि᳓र्मा त᳓स्मादे᳓नसः ।  
 वि᳓श्वान्मुञ्चत्वँ᳓हसः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -33,10 +38,14 @@ unicode_script: devanagari
 
 देवासः द्योतनात्मका हे देवाः! देवहेडनं देवविषयमनादररूपं यत्पापं वयं सभृत्यपुत्राः चकृम कृतवन्तः । अंहसः अभिभवनस्वभावात् विश्वत्मात्सर्वस्मात् तस्मादेनसः पापात् अग्रिर्मा मां मुञ्चतु मुक्तं करोतु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2द्वितीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ unicode_script: devanagari
 वायु᳓र्मा त᳓स्मादे᳓नसः ।  
 वि᳓श्वान्मुञ्चत्वँ᳓हसः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,10 +75,14 @@ unicode_script: devanagari
 
 कालविशेषे कृतात्पाप्मनो वायुर्मोचकोऽस्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3तृतीयामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -77,6 +92,8 @@ unicode_script: devanagari
 सू᳓र्यो मा त᳓स्मादे᳓नसः ।  
 वि᳓श्वान्मुञ्चत्वँ᳓हसः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,10 +112,14 @@ unicode_script: devanagari
 
 अवस्थाविशेषे कृतात्पाप्मनः सूर्यो मोचकोऽस्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4चतुर्थीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +131,8 @@ unicode_script: devanagari
 य᳓दे᳓कस्या᳓धि ध᳓र्मणि ।  
 त᳓स्यावय᳓जनमसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,10 +153,14 @@ unicode_script: devanagari
 
 अर्यः स्वामी वैश्यो वा । अरण्यादिदेशविशेषे चक्षुरादीन्द्रियविशेषे शूद्गादिपुरुषविशेषे च यदेनो वयं चकृम यदप्येकस्य अन्यपुरुषस्य धर्मणि अग्निहोत्रादिधर्मकार्ये अधिकं पापं चकृम तस्य सर्वस्य पापस्य हे आहुतिरूप! त्वं अवयजनं विनाशकमसि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5पञ्चमीमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +168,8 @@ unicode_script: devanagari
 य᳓दा᳓पो अ᳓घ्निया व᳓रुणे᳓ति श᳓पामहे ।  
 त᳓तो वरुण नो मुञ्च ॥29॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,10 +186,14 @@ unicode_script: devanagari
 
 हे वरुण! या आपः सन्ति याश्चाध्निया गावः एतद्द्वयं भूम्यादेरुपलक्षणम् । तेषु सर्वेषु विषयेषु इति अनेन प्रकारेण शपामहे सत्यत्वेन अनृतत्वेन वा शपथं कुर्मः । यत्पापमस्ति हे वरुण! ततः शपथकृतात्पापात् नोऽस्मान् मुञ्च मुक्तान्कुरु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'अवभृथ निचङ्कुणेत्यवभृथं यजमानोऽभिमन्त्र्य' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -170,6 +203,8 @@ unicode_script: devanagari
 अ᳓व म᳓र्त्यैर्म᳓र्त्यकृतम् ।  
 उरो᳓रा᳓ नो देव रिष᳓स्पाहि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -188,10 +223,14 @@ unicode_script: devanagari
 
 हे अवभृथ! कर्माभिमानिन्वरुण! निचङ्कण! राक्षसभर्त्सनार्थं नितरां ध्वनिकारिन्! निचेरुरसि अस्मद्रक्षणार्थं निगूढत्वेन चरणशीलोऽसि । हे निचङ्कुण! अस्माभिर्देवेषु कृतं एनः अपराधं तैर्देवैस्सह त्वं अवायाट् विनाशय । मर्त्येषु ऋत्विक्षु कृतं तैर्मर्त्यैस्सह तदवायाट् विनाशय । हे देव! उरो अधिकात् रिषः देवमर्त्यकृतात् हिंसनात् नः अस्मान् आ समन्तात्पाहि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 7कल्पः - 'सुमित्रा न आपो द्रुपदादिवेन्मुमुचान इत्याप्लुत्य' इति । तत्र प्रथममन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -201,6 +240,8 @@ unicode_script: devanagari
 यो᳙ऽस्मा᳓न्द्वे᳓ष्टि ।  
 य᳓ञ्च वय᳓न्द्विष्मः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -219,10 +260,14 @@ unicode_script: devanagari
 
 या एता अब्देवताः याश्चौषधिदेवताः तास्सर्वाः नोऽस्मान्प्रति सुमित्रा अत्यन्तमनुकूलाः सन्तु । योऽस्मानुदासीनानपि द्वेष्टि यं चान्यमुदासीनमपि वयं द्विष्मः तस्मै द्विविधाय तादृशषुरुषाय ता आप ओषधयश्च दुर्मित्राः प्रतिकूलाः सन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8द्वितीयमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -232,6 +277,8 @@ unicode_script: devanagari
 पूत᳓म्पवि᳓त्रेणेवा᳓ज्यम् ।  
 आ᳓पश्शुन्धन्तु मै᳓नसः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,10 +297,14 @@ unicode_script: devanagari
 
 राजानो हि अपराधिनस्तस्करस्य पादं सच्छिद्रे काष्ठे कीलयन्ति तत् द्रुपदमित्युच्यते । तस्मान्मुमुचान इव एतद्बन्धनान्मुक्तः पुरुषश्चौर्याभियोगं परित्यज्य शुद्ध इत्येव व्यवह्रियते । यथा स्विन्नः पुरुषः स्नात्वी स्नानं कृत्वा मलान्मुमुचानः शुद्ध इत्येव व्यवह्रियते । यथा च कर्मण्याज्यं उत्पवनपवित्रेण पूतं भवति तथेमा आपो मामेनसः पापात् शुन्धन्तु शुद्धं कुर्वन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9कल्पः - 'उद्वयं तमसस्परीत्यादित्यमुपस्थाय' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -263,6 +314,8 @@ unicode_script: devanagari
 देव᳓न्देवत्रा᳓ सू᳓र्यम् ।  
 अ᳓गन्म ज्यो᳓तिरुत्तम᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,10 +334,14 @@ unicode_script: devanagari
 
 तमसस्परि अन्धकारस्योपरि वर्तमानं उत्तरं ज्योतिः उत्कृष्टं प्रकाशं उत्पश्यन्तः उत्कर्षेण वीक्षमाणा वयं देवत्रा देवेषु मध्ये देवं द्योतमानं सूर्यं सूर्यस्वरूपं उत्तमं ज्योतिः अगन्म प्राप्ताः स्मः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10कल्पः - 'प्रतियुतो वरुणस्य पाश इत्युदकान्तं प्रत्यस्यति' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -292,6 +349,8 @@ unicode_script: devanagari
 प्र᳓तियुतो व᳓रुणस्य पा᳓शः ।  
 प्र᳓त्यस्तो व᳓रुणस्य पा᳓शः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -308,16 +367,22 @@ unicode_script: devanagari
 
 योऽयं वरुणस्य पाशः जलमध्यवर्ती सोऽस्माभिः बहिर्निर्गच्छद्भिः प्रतियुतः परित्यक्तः । तथा वरुणस्य पाशः प्रत्यस्तः विनाशितः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11-13कल्पः - 'पशुवत्समिध उपस्थानं च' इति । पशौ त्वेवमूऽक्तम् - 'एधोऽस्येधिषीमहीत्याहवनीये समिध आधायापो अन्वचारिषमित्युपतिष्ठन्ते' इति । तत्र समिदाधानमन्त्रात् त्रीनाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓धोऽस्येधिषीम᳓हि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -333,11 +398,14 @@ unicode_script: devanagari
 
 हे समित्! त्वमेधोऽसि अभिवृद्धिहेतुरसि । अतस्त्वामाधाय वयमेधिषीमहि वृद्धिं प्राप्नुम ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समि᳓दसि ॥31॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -353,11 +421,14 @@ unicode_script: devanagari
 
 हे द्वितीयसमित्! त्वं समिन्धनसाधनमसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓जोऽसि ते᳓जो म᳓यि धेहि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,10 +444,14 @@ unicode_script: devanagari
 
 हे तृतीयसमित्! त्वं तेजोहेतुरसि । अतो मयि तेजो धेहि संपादय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 14'उपस्थानमन्त्रमाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -387,6 +462,8 @@ unicode_script: devanagari
 त᳓म्मा सँ᳓सृज व᳓र्चसा ।  
 प्रज᳓या च ध᳓नेन च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -406,10 +483,14 @@ unicode_script: devanagari
 
 अहमेता अपः अनुसृत्याचारिषं कर्मानुष्ठितवानस्मि । रसेन जलगतेन सारेण समसृक्ष्महि संसृष्टा अभूम । हे अग्ने! पयस्वान् जलसारयुक्तोऽहमागमं त्वत्समीपे समागतोऽस्मि । तमेतादृशं मां वर्चसा बलेन च प्रजया धनेन च संसृन संयोजय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 13कल्पः - 'समाववर्तीत्युपस्थाय' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +502,8 @@ unicode_script: devanagari
 वैश्वानर᳓ज्योतिर्भूयासम् ।  
 विभु᳓ङ्का᳓मव्व्ँय᳙श्ञवै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -441,16 +524,22 @@ unicode_script: devanagari
 
 येयं पृथिवी सा समाववर्ति सम्यगावृत्ता मया सह समागता । एवमुषःकालः, सूर्यः, सर्वमिदं जगच्च समाववर्ति । हे वैश्वानर! अहं ज्योतिस्स्वरूपो भूयासम् । त्वत्प्रसादाद्विभुं कामं व्याप्तं फलं व्यश्नवै प्राप्नवानि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 16कल्पः - 'भूस्स्वाहेत्याहुतिं हुत्वा' इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓स्स्वा᳓हा ॥32॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -466,6 +555,7 @@ unicode_script: devanagari
 
 येयं भूः पृथिवी सा स्वाहा त्वयि स्वाहुता ॥
 
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

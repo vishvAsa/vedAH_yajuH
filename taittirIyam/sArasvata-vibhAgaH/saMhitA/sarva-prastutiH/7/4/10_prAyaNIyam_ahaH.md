@@ -3,15 +3,20 @@ title = "१० प्रायणीयम् अहः"
 +++
 ## अग्निष्टोमम्, उक्थम्, षोडशी, अतिरात्रम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्त्यतिरा॒त्रᳶ प॑र॒मो य॑ज्ञक्रतू॒नाङ्कस्मा॒त्तम्प्र॑थ॒ममुप॑ य॒न्तीत्ये॒तद्वा अ॑ग्निष्टो॒मम्प्र॑थ॒ममुप॑ य॒न्त्यथो॒क्थ्य॑मथ॑ षोड॒शिन॒मथा॑तिरा॒त्रम॑नुपू॒र्वमे॒वैतद्य॑ज्ञक्र॒तूनु॒पेत्य॒ ताना॒लभ्य॑ परि॒गृह्य॒ सोम॑मे॒वैतत्पिब॑न्त आसते॒ ज्योति॑ष्टोमम्प्रथ॒ममुप॑ यन्ति॒ ज्योति॑ष्टोमो॒ वै स्तोमा॑ना॒म्मुख॑म्मुख॒त ए॒व स्तोमा॒न्प्र यु॑ञ्जते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्त्य् - "अतिरात्रᳶ᳓ परमो᳓ यज्ञ-क्रतूना᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ The theologians say, 'The Atiratra is the highest of the forms of sacrifice.
 
 1अतः परमह्नां कॢप्तिः - ब्रह्मवादिन इत्यादिः ॥ यज्ञक्रतवस्सोमयागाः । अतिरात्रस्तेषां परमः उत्तमः अन्त्यां संस्था ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्मा᳓त् त᳓म् प्रथम᳓म् उ᳓प यन्ति᳓"+ इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,12 +66,15 @@ Why do they perform it first?'
 
 तत् तस्मात्कारणात् तं प्रथममुपयन्तीति ब्रह्मवादिनः पर्यनुयोगं वदन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अथ समाधत्ते - )+++ एत᳓द् वा᳓ अग्निष्टोम᳓म् प्रथम᳓म् उ᳓पयन्त्य्, अ᳓थोक्थ्य᳙म्, अ᳓थ षोडशि᳓नम्, अ᳓थातिरात्र᳓म् +++(संवत्सरस्य मुखय् एकाष्टकायाः ४ दिनेभ्यः पूर्वम् आरभ्य)+++।  
 अनुपूर्व᳓म् एवै᳓त᳓द् यज्ञक्रतू᳓न् उपे᳓त्य ता᳓न् आल᳓भ्य परिगृ᳓ह्य सो᳓मम् एवै᳓त᳓त् पि᳓बन्त +++(संवत्सराय)+++ आसते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,6 +96,7 @@ Now in doing so they really perform in order first the Agnistoma, then the Ukthy
 
 अथ समाधत्ते - एतद्वा इत्यादि । यदेतदतिरात्रं प्रथमं प्रायणीयं उपयन्ति एतत्खल्वग्निष्टोमादीन् चतुरो यज्ञक्रतून् संवत्सरस्य मुखे अनुपूर्वमनुक्रमेण उपेत्य तानालभ्य पृथक्पृथगारभ्य परिगृह्य समाप्यते सोमं पिबन्तः संवत्सरायासते सत्रिणः ।
 </details>
+</details>
 
 ## ज्योतिष्टोमम् अतिरात्रे
 
@@ -92,6 +104,8 @@ Now in doing so they really perform in order first the Agnistoma, then the Ukthy
 
 ज्यो᳓तिष्टोमम् प्रथम᳓म् उ᳓प यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -112,11 +126,14 @@ They perform the Jyotistoma first;
 
 ज्योतिष्टोममित्यादि । तस्मात्सर्वयज्ञक्रत्वर्थं ज्योतिष्टोममेवातिरात्रं प्रथममुपयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्टोमो वै᳓ स्तो᳓मानाम् मु᳓खम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,11 +154,14 @@ the Jyotistoma is the beginning of the Stomas;
 
 ज्योतिष्टोमः स्तोमानां स्तोमवतां मुखम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुखत᳓ एव᳓ स्तो᳓मान् प्र᳓ युञ्जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -162,14 +182,16 @@ verily they commence the Stomas from the beginning [1].
 
 तस्मान्मुखत एवारभ्य सर्वान् स्तोमान् प्रयुञ्जते ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/4/10_prAyaNIyam_ahaH/jyotir-virAT-tvam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ +++(ज्योतिर्गौरायुरिति त्रयः)+++ सँ᳓स्तुता विरा᳓जम् +++(दशाक्षरां)+++ अभि᳓ स᳓म्पद्यन्ते ।[32]  
-+++(गोआयुषी)+++ द्वे᳓ च + ऋचा᳓व् अ᳓ति रिच्येते ।
++++(गोआयुषी)+++ द्वे᳓ च᳓ + ऋ᳓चाव् अ᳓ति रि᳓च्ये᳓ते᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,12 +200,13 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 
 <details><summary>मूलम्</summary>
 
-ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे॑ च॒ ऋचा॒वति॑रिच्येते ।
+ते सँ॑स्तुता वि॒राज॑म॒भि स॑म्पद्यन्ते । द्वे च॒ ऋचा॒वति॑रिच्येते ।
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 ते । सँस्तु॑ता॒ इति॒ सम्-स्तु॒ताः॒ । वि॒राज॒मिति॑ वि-राज॑म् । अ॒भि । समिति॑ । प॒द्य॒न्ते॒ । द्वे इति॑ । च॒ । ऋचौ॑ । अतीति॑ । रि॒च्ये॒ते॒ इति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +214,8 @@ These (Stomas) being sung together make up the Viraj, and two verses are redunda
 ए᳓कया +++(२४१-स्तोत्रिया)+++ गौ᳓र् अ᳓तिरिक्त , ए᳓कया᳓ +++(२५९-स्तोत्रिया??)+++ ऽऽयुर् ऊनः᳓ ।  
 +++(ज्योतिरतिरात्रस्य १९०*२ = ३७० स्तोत्रिया / ज्योतिष्टोमस्य १९० स्तोत्रिया इति कृत्वा, तस्यैव तु दशकपूरणम् भवति। ततो हि ज्योतिर् गृह्यते प्रथमं गोआयुषी परित्यज्य।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -206,11 +231,14 @@ the Gostoma has one too many, and the Ayustoma one too few.
 
 एक॑या । गौः । अति॑रिक्त॒ इत्यति॑-रि॒क्तः॒ । एक॑या । आयुः॑ । ऊ॒नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्गो᳓ वै᳓ लोको᳓ ज्यो᳓तिर्, +++(यत)+++ ऊ᳓र्ग्+++(=अन्नं)+++ विरा᳓ट् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,13 +254,15 @@ The Jyotistoma is the world of heaven, the Viraj is strength;
 
 सु॒व॒र्ग इति॑ सुवः-गः । वै । लो॒कः । ज्योतिः॑ । ऊर्क् । वि॒राडिति॑ वि-राट् ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुवर्ग᳓म् एव᳓ ते᳓न लोकय्ँ᳓ यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,18 +288,24 @@ verily by it they go to the world of heaven.
 
 3पुनरपि ज्योतिरेव स्तूयते - सुवर्गो वा इत्यादि ॥ गतम् । किं बहुना सुवर्ग एव लोको ज्योतिः । तत्साधनत्वात्ताच्छब्द्यम् । ऊर्गन्नं विराट् । तां चाभिसम्पद्यते ज्योतिः तस्मात्तेन ज्योतिषा स्वर्गमेव गच्छन्ति । अन्नस्य स्वर्गपर्यायत्वात्पृथगुपादानम् ॥
 </details>
+</details>
 
 ## सौरभविधानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रथन्त॒रन्दिवा॒ भव॑ति रथन्त॒रन्नक्त॒मित्या॑हुर्ब्रह्मवा॒दिन॒ᳵ केन॒ तदजा॒मीति॑ सौभ॒रन्तृ॑तीयसव॒ने ब्र॑ह्मसा॒मम्बृ॒हत्तन्म॑ध्य॒तो द॑धति॒ विधृ॑त्यै॒ तेनाजा॑मि ॥ [33]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अतिरात्रे)+++ "रथन्तरन् दि᳓वा भ᳓वति , रथन्तर᳓न् न᳓क्तम्" इ᳓त्य् आहुर् ब्रह्मवादि᳓नᳵ -"के᳓न त᳓द् अ᳓जामी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,11 +326,14 @@ verily by it they go to the world of heaven.
 
 4रथन्तरमित्यादि ॥ अतिरात्रे दिवासवनेषु रथन्तरमेव साम भवति । नक्तमपि रथन्तरमेव प्रवर्तते । त्रिवृद्रथन्तरसन्धिरिति च सन्ध्यभिप्रायम् । एवमस्य रथन्तरैकसामतां अपश्यन्तो ब्रह्मवादिन आहुः - केन तदजामित्वं आलस्याभावः केन तत्र सम्पद्यते इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(उक्थ्यपर्याये)+++ सौभर᳓न् तृतीयसवने᳓ ब्रह्मसाम᳓म् बृह᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,11 +354,14 @@ The great Saman of Sobhari is used as the Brahmasaman at the third pressing;
 
 तत्रोत्तरं ब्रूयात् - सौभरमित्यादि । तृतीयसवने उक्थ्यपर्याये सौभरो नाम ब्रह्मणस्सामास्ति । 'अनसन्तान्नपुंसकात्' इति अच् समासान्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(बृहत् बृहता गेयः,)+++ त᳓न् मध्यतो᳓ दधति वि᳓धृत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -340,11 +382,14 @@ it they place in the middle, to separate them;
 
 बृहत् बृहता गेयः तन्मध्यतः मध्यमे उक्थ्ये विदधाति विधृत्यै विधारणार्थं उक्थ्यानाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ना᳓जामि ॥ [33]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -366,5 +411,6 @@ verily there is no repetition.
 तेनेत्यादि । तेन इत्थं क्रियमाणेन अजामि अजामित्वमपि सम्पद्यते इति ॥
 
 इति सप्तमे चतुर्थे दशमोनुवाकः ॥
+</details>
 </details>
 

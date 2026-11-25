@@ -8,6 +8,8 @@ unicode_script: devanagari
 ब्र᳓ह्माऽऽत्मन्व᳓द् असृजत ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मा॑त्म॒न्वद॑सृजत ।
@@ -27,12 +29,15 @@ unicode_script: devanagari
 द्विरुक्तिर्बह्वर्था ।  
 बहुकृत्व आहूतवानित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अकामयत -  
 "स᳓म् आत्म᳓ना पद्येये᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -68,11 +73,14 @@ unicode_script: devanagari
 तत् सृष्ट्वा चानन्तरम् अनेन जीवात्मना संपद्येय, संगतो भवेयम् इति विचार्य, तं जीवात्मानम् उद्दिश्यात्मन्न् इति संबोध्याऽऽमन्त्रितवान्।  
 द्विरुक्तिर् बह्वर्था, बहु-कृत्वाऽऽहूतवान् इत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓त्मन्न् आ᳓त्मन्न्" इ᳓त्य् आ᳓मन्त्रयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -83,11 +91,14 @@ unicode_script: devanagari
 
 आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै दशमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,11 +121,14 @@ unicode_script: devanagari
 एवं ब्रह्मणि आह्वयति सति दशमे पर्याये समाहूतो जीवात्मा प्रत्य् अशृणोत्, "भो" इति प्रत्युत्तरं दत्तवान्।  
 तावता तस्य दश-होतेति नाम संपन्नम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ द᳓शहूतो ऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -125,11 +139,14 @@ unicode_script: devanagari
 
 सः᳓ । द᳓श । हूतः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शहूतो ह वै᳓ ना᳓मैषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -153,12 +170,15 @@ unicode_script: devanagari
 सो ऽयं वस्तुतो दश-हूत एव।  
 एतम् एव वास्तवं नाम-विशेषम् आच्छाद्यापरेण वर्णान्तर-व्यवहृतेन दश-होतेति-नाम्ना व्यवहरन्ति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वा᳓ एत᳓न् द᳓शहूतँ स᳓न्तम्  
 "द᳓शहोते᳓"त्य् आ᳓चक्षते परो᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -170,11 +190,14 @@ unicode_script: devanagari
 
 त᳓म् । वै᳓ । एत᳓म् । द᳓श । हूतम् । स᳓न्तम् । द᳓श-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ॥47॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,11 +213,14 @@ unicode_script: devanagari
 
 यस्माद् देवाः पूज्याः पित्राचार्यादयः स्वकीयं वास्तवं नाम परित्यज्य "हे तात", "हे आचार्य" इति परोक्षेणाह्वानं कुर्वन्ति, तस्माद् युक्तः परोक्ष-नाम-व्यवहारः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓त्मन्न् आ᳓त्मन्न्" इ᳓त्य् आ᳓मन्त्रयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,11 +231,14 @@ unicode_script: devanagari
 
 आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै सप्तमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -220,11 +249,14 @@ unicode_script: devanagari
 
 त᳓स्मै । सप्तम᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ सप्त᳓-हूतोऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -235,11 +267,14 @@ unicode_script: devanagari
 
 सः᳓ । सप्त᳓ । हूतः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓हूतो ह वै᳓ ना᳓मैषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -250,12 +285,15 @@ unicode_script: devanagari
 
 सप्त᳓ । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वा᳓ एतँ᳓ सप्त᳓हूतँ स᳓न्तम्  
 "सप्त᳓होते᳓"त्य् आ᳓चक्षते परो᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -267,11 +305,14 @@ unicode_script: devanagari
 
 त᳓म् । वै᳓ । एत᳓म् । सप्त᳓ । हूतम् । स᳓न्तम् । सप्त᳓-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्ष-प्रिया इव हि᳓ देवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,11 +323,14 @@ unicode_script: devanagari
 
 परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓त्मन्न् आ᳓त्मन्न्" इ᳓त्य् आ᳓मन्त्रयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -297,11 +341,14 @@ unicode_script: devanagari
 
 आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै षष्ठँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -312,11 +359,14 @@ unicode_script: devanagari
 
 त᳓स्मै । षष्ठ᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ष᳓ड्ढूतोऽभवत् ॥48॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -327,11 +377,14 @@ unicode_script: devanagari
 
 सः᳓ । ष᳓ड्ढूतो । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड्ढूतो ह वै᳓ ना᳓मैषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -342,12 +395,15 @@ unicode_script: devanagari
 
 ष᳓ड्ढूतो । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वा᳓ एतँ᳓ ष᳓ड्ढूतँ स᳓न्तम्  
 ष᳓ड्ढोते᳓त्य् आ᳓चक्षते परो᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -358,11 +414,14 @@ unicode_script: devanagari
 
 त᳓म् । वै᳓ । एत᳓म् । ष᳓ड्ढूतम् । स᳓न्तम् । ष᳓ड्ढोता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -373,11 +432,14 @@ unicode_script: devanagari
 
 परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓त्मन्न् आ᳓त्मन्न्" इ᳓त्य् आ᳓मन्त्रयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -388,11 +450,14 @@ unicode_script: devanagari
 
 आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै पञ्चमँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -403,11 +468,14 @@ unicode_script: devanagari
 
 त᳓स्मै । पञ्चम᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ प᳓ञ्चहूतोऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,11 +486,14 @@ unicode_script: devanagari
 
 सः᳓ । प᳓ञ्च । हूतः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्चहूतो ह वै᳓ ना᳓मैषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +504,15 @@ unicode_script: devanagari
 
 प᳓ञ्च । हूतः । ह । वै᳓ । ना᳓म । एषः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वा᳓ एत᳓म् प᳓ञ्चहूतँ स᳓न्तम्  
 "प᳓ञ्चहोते᳓"त्य् आ᳓चक्षते परो᳓क्षेण ॥49॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -450,11 +524,14 @@ unicode_script: devanagari
 
 त᳓म् । वै᳓ । एत᳓म् । प᳓ञ्च । हूतम् । स᳓न्तम् । प᳓ञ्च-होता । इ᳓ति । आ᳓ । चक्षते । परो᳓-क्षेण ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -465,11 +542,14 @@ unicode_script: devanagari
 
 परो᳓क्षप्रियाः । इव । हि᳓ । देवाः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "आ᳓त्मन्न् आ᳓त्मन्न्" इ᳓त्य् आ᳓मन्त्रयत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -480,11 +560,14 @@ unicode_script: devanagari
 
 आ᳓त्मन् । आ᳓त्मन् । इ᳓त्या । अ᳓मन्त्रयत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मै चतुर्थँ᳓ हूतᳶ᳓ प्र᳓त्यशृणोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -495,11 +578,14 @@ unicode_script: devanagari
 
 त᳓स्मै । चतुर्थ᳓म् । हूतः᳓ । प्र᳓ति । अशृणोत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ च᳓तुर्हूतोऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -510,11 +596,14 @@ unicode_script: devanagari
 
 सः᳓ । च᳓तुः । हूतः । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्हूतो ह वै᳓ ना᳓मैषः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,11 +631,14 @@ unicode_script: devanagari
 > सप्त-हूतो ह वै नामैषः।  
 > तं वा एतं सप्त-हूतं सन्तम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वा᳓ एत᳓ञ् च᳓तुर्हूतँ स᳓न्तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -557,11 +649,14 @@ unicode_script: devanagari
 
 त᳓म् । वै᳓ । एत᳓म् । च᳓तुः । हूतम् । स᳓न्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्होते᳓त्य् आ᳓चक्षते परो᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -577,11 +672,14 @@ unicode_script: devanagari
 
 > सप्त-होतेत्य् आचक्षते परोक्षेण।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो᳓क्षप्रिया इव हि᳓ देवाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -624,6 +722,7 @@ unicode_script: devanagari
 इति।  
 सप्त-होतृ-षड्-ढोतृ-पञ्च-होतृ-चतुर्-होतृ-नाम-निर्वचन-वाक्यानि दश-होतृ-वाक्यवद् व्याख्येयानि॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -631,6 +730,8 @@ unicode_script: devanagari
 "त्व᳓व्ँ वै᳓ मे ने᳓दिष्ठँ हूतᳶ᳓ प्र᳓त्यश्रौषीस्",  
 "त्व᳓यैनान् आख्याता᳓र" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,11 +766,14 @@ unicode_script: devanagari
 इति॥
 चतुर्-होतृ-मन्त्राभिमानिनं देवं प्रजापतिर् एवम् अब्रवीत्। त्वम् एवैको मया समाहूतः सन् मदीयं वाक्यं यन् नेदिष्ठम् अति-समीपं यथा भवति तथा श्रुत्वा प्रत्युत्तरं दत्तवान्। चतुर्थम् आमन्त्रणं त्वया श्रुतम्, इतरे न तथा सहसा श्रुतवन्तः। तस्मात् त्वयैव सर्वान् एताञ् जनाः कथयिष्यन्ति। "एते चतुर्-होतारः" इत्य् एवं त्वन्-नाम्नैव व्यवहारो भविष्यतीत्य् अर्थः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मान् नु᳓ हैनाँश्च᳓तुर्होतार इ᳓त्य् आ᳓चक्षते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -690,11 +794,14 @@ unicode_script: devanagari
 
 यस्माद् एवं प्रजापतिना वरो दत्तस्, तस्माद् एतान् दश-होत्रादीन् सर्वान् अपि "चतुर्-होतारः" इत्य् एव वचनं वैदिका आचक्षते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छुश्रूषुᳶ᳓ पुत्रा᳓णाँ हृ᳓द्यतमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -710,11 +817,14 @@ unicode_script: devanagari
 
 यस्माद् एवं शीघ्रं वाक्यं श्रुतवतश् चतुर्-होतुः प्रजापतेर् वर-लाभस्, तस्माल् लोके ऽपि पुत्राणां मध्ये यः पितुर् वाक्यम् आदरेण श्रोतुम् इच्छति स एव पितुर् हृद्यतमो ऽत्यन्तं प्रियः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ने᳓दिष्ठो हृ᳓द्यतमः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -731,12 +841,15 @@ unicode_script: devanagari
 यस्मादेवं शीघ्रं वाक्यं श्रुतवतश्चतुर्होतुः प्रजापतेर्वरलाभस्तस्माल्लोकेऽपि, पुत्राणां मध्ये यः पितृवाक्यमादरेण श्रोतुमिच्छति स एव पितुर्हृद्यतमोऽत्यन्तं प्रियः ।  
 योऽतिप्रियः स नेदिष्ठोऽतिसमीपवर्ती भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ने᳓दिष्ठो ब्र᳓ह्मणो भवति  
 य᳓ एवव्ँ᳓ वे᳓द ॥50॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -761,4 +874,5 @@ unicode_script: devanagari
 यो ऽतिप्रियः स नेदिष्ठो ऽति-समीप-वर्ती भवति। यः पुमान् एवं चतुर्-होतृ-ब्रह्म-समीप-वर्तित्वं वेद, स स्वयम् अपि ब्रह्मणो ऽति-समीप-वर्ती भवति॥
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठक एकादशो ऽनुवाकः ॥ ११ ॥
+</details>
 </details>

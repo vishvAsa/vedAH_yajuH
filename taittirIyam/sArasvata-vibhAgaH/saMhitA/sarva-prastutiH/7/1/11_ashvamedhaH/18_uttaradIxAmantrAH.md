@@ -3,6 +3,8 @@ title = "१८ (क्रतु)उत्तरदीक्षामन्त�
 +++
 ___________________
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथोत्तरा ऋतुदीक्षाः - भुवो देवानामिति ॥ 
@@ -13,12 +15,15 @@ ___________________
 
 एते च 'वैश्वानरो न ऊत्या' इत्यत्र व्याख्याते, इह तु प्रतीकग्रहणम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वो +++(उत्पद्यस्व)+++ - देवा᳓नाङ् क᳓र्मणा , ऽप᳙सा +ऋत᳓स्य ।
 प᳓थ्या᳙ऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +50,14 @@ Thou hast come into being by the toil; the work of the gods thou art the way of 
 
 पथ्या हिता खल्वसि सर्वस्य लोकस्य । छान्दसमन्तस्वरितत्वम्, डादेशो वा विभक्तेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **व᳓सुभिर्** देवे᳓भिर् देव᳓तया **गायत्रे᳓ण** त्वा छ᳓न्दसा युनज्मि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -72,6 +80,7 @@ With the Vasus, the gods, as deity, with the Gayatri metre I yoke thee;
 
 'छन्दसः प्रत्ययविधाने नपुंसके स्वार्थ उपसंख्यानम्' इति गायत्र्यादिषु स्वार्थिकोण् । त्रिष्टुबादिभ्य उत्सादित्वादञ् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,6 +89,8 @@ With the Vasus, the gods, as deity, with the Gayatri metre I yoke thee;
 [मही᳓म् ऊ षु᳓ … ]  
 [सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,12 +113,15 @@ with the spring season as oblation I consecrate thee.
 
 'तत्करोति' इति णिच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणाऽप᳙सा । ऋत᳓स्य प᳓थ्याऽसि ।]  
 **रुद्रे᳓भिर्** देवे᳓भिर् देव᳓तया **त्रै᳓ष्टुभेन** त्वा छ᳓न्दसा युनज्मि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,6 +147,7 @@ With the Rudras, the gods, as deity, with the Tristubh metre, I yoke thee;
 
 "वसु॑भिर्दे॒वेभि॑र्दे॒वत॑या गाय॒त्रेण॑ त्वा॒ छन्द॑सा युनज्मि वस॒न्तेन॑ त्व॒र्तुना॑ ह॒विषा॑ दीक्षयामि" इति भागस्य टीकाया अनुमेयम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,6 +156,8 @@ With the Rudras, the gods, as deity, with the Tristubh metre, I yoke thee;
 [मही᳓म् ऊ षु᳓ … ]  
 [सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,12 +173,15 @@ with the summer season as oblation I consecrate thee.
 
 ग्री॒ष्मेण॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणाऽप᳙सा । ऋत᳓स्य प᳓थ्याऽसि ।]  
 **आ᳓दित्ये᳓भिर्** देवे᳓भिर् देव᳓तया **जा᳓गतेन** त्वा छ᳓न्दसा युनज्मि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,6 +197,7 @@ With the Adityas, the gods, as deity, with the Jagati metre, I yoke thee;
 
 आ॒दि॒त्येभिः॑ । दे॒वेभिः॑ । दे॒वत॑या । जाग॑तेन । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -185,6 +206,8 @@ With the Adityas, the gods, as deity, with the Jagati metre, I yoke thee;
 [मही᳓म् ऊ षु᳓ … ]  
 [सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,12 +223,15 @@ with the rainy season as oblation I consecrate thee.
 
 व॒र्षाभिः॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणाऽप᳙सा । ऋत᳓स्य प᳓थ्याऽसि ।]  
 **वि᳓श्वेभिर् देवे᳓भिर्** देव᳓तया᳓ **आ᳓नुष्टुभेन** त्वा छ᳓न्दसा युनज्मि [47] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,6 +247,7 @@ With the All-gods as deity, with the Anustubh metre, I yoke thee [1];
 
 विश्वे॑भिः । दे॒वेभिः॑ । दे॒वत॑या । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -229,6 +256,8 @@ With the All-gods as deity, with the Anustubh metre, I yoke thee [1];
 [मही᳓म् ऊ षु᳓ … ]  
 [सुत्रा᳓माणम् पृथिवी᳓न् …]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,12 +273,15 @@ with the autumn season as oblation I consecrate thee.
 
 श॒रदा॑ । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [भु᳓वो +++(उत्पद्यस्व)+++ देवा᳓नाङ् क᳓र्मणाऽप᳙सा । ऋत᳓स्य प᳓थ्याऽसि ।]  
 **अ᳓ङ्गिरोभिर्** देवे᳓भिर् देव᳓तया **पा᳓ङ्क्तेन** त्वा छ᳓न्दसा युनज्मि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,11 +297,14 @@ With the Angirases, the gods, as deity, with the Pankti metre, I yoke thee;
 
 अङ्गि॑रोभि॒रित्यङ्गि॑रः-भिः॒ । दे॒वेभिः॑ । दे॒वत॑या । पाङ्क्ते॑न । त्वा॒ । छन्द॑सा । यु॒न॒ज्मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **हेमन्त-शिशिरा᳓भ्यान्** त्वर्तु᳓ना हवि᳓षा दीक्षयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +320,14 @@ with the winter and cool seasons as oblation I consecrate thee.
 
 हे॒म॒न्त॒शि॒शि॒राभ्या॒मिति॑ हेमन्त-शि॒शि॒राभ्या॑म् । त्वा॒ । ऋ॒तुना॑ । ह॒विषा॑ । दी॒क्ष॒या॒मि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ ऽह᳓न् दीक्षा᳓म् अरुहम् ऋत᳓स्य प᳓त्नीङ् गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -314,11 +352,14 @@ I have mounted upon consecration, the wife of holy order, with the Gayatri metre
 
 'पत्युर्नः' इति ङीप्नकारौ । गायत्रेण छन्दसा ब्रह्मणा च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓म् सत्ये᳙ऽधाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -339,11 +380,14 @@ holy order have I placed upon truth;
 
 ऋतं सत्ये अधां दधामि स्थापयामि । छान्दसो लुङ् । मानसं सत्यमृतं, वाचिकं सत्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य᳓म् ऋते᳙ऽधाम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -358,6 +402,7 @@ truth have I placed upon holy order.
 <details><summary>पद-पाठः</summary>
 
 स॒त्यम् । ऋ॒ते । अ॒धा॒म् ॥
+</details>
 </details>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/devaH/AryaH/hindukaH/classes/lokAntaram/Rk/mahIm_U_Shu/">
@@ -408,6 +453,8 @@ Aditi, who giveth good protection and good guidance.
 </div>  
 
 ___________________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 पत्स्व् आहुतयः।
@@ -416,6 +463,7 @@ ___________________
 <details><summary>विश्वास-टिप्पनी</summary>
 
 उत्सृष्टे चतुर्षु पत्सु चतस्र आहुतीर्जुहोति  
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
@@ -518,6 +566,7 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/1/11_ashvamedhaH/12_ashvanAmavAchanAdyangamantrAH/iha_dhRtiH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -530,11 +579,14 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 
 (अत्र द्विवारं विनियोगः लभ्यते -कथं प्रदर्शनीयम् इति विचारणीयम् सम्पादकटिप्पनी-  प्रथमकाण्डे, द्वादशेऽनुवाके चतुर्थे मन्त्रे )+++ ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ धृ᳓तिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -550,11 +602,14 @@ Here is support, hail!
 
 इ॒ह । धृतिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ वि᳓धृतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +625,14 @@ Here is keeping apart, hail!
 
 इ॒ह । विधृ॑ति॒रिति॒ वि-धृ॒तिः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓न्तिस्+++(=रतिसाधनभूता)+++ +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,11 +648,14 @@ Here is joy, hail!
 
 इ॒ह । रन्तिः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ र᳓मतिस् +++(स्यात्)+++ स्वा᳓हा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -622,5 +683,5 @@ Here is delight, hail!'
 
 इति सप्तमे प्रथमे अष्टादशोनुवाकः ॥  
 </details>
-
+</details>
 </div>

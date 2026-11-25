@@ -11,20 +11,30 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
-<details open><summary><h10>नमस् सदसे ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नम॒स् सद॑से॥  
-नम॒स् सद॑स॒स्-पत॑ये॥    
-नम॒स् सखी॑नाम् पुरो॒गाणा॒ञ् चक्षु॑षे॥    
-नमो॑ दि॒वे॥   
-नमᳶ॑ पृथि॒व्यै॥
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -36,14 +46,20 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 नमᳶ॑ पृथि॒व्यै
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
 </details>
 </details>
+</details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
-<details open><summary><h9>267 सप्रथ सभाम् ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
 ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
@@ -408,14 +424,17 @@ y los medios de alcanzarlo).
 <details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
-(प्रजापतय इदं न मम) ॥१॥
+ओं᳓ भू᳓र् भु᳓वस् सु᳓वस् स्वा᳓हा ॥  
+(प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
+</details>
 </details>
 </details>
 </div>
@@ -545,14 +564,17 @@ y los medios de alcanzarlo).
 <details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
-(प्रजापतय इदं न मम) ॥१॥
+ओं᳓ भू᳓र् भु᳓वस् सु᳓वस् स्वा᳓हा ॥  
+(प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
+</details>
 </details>
 </details>
 </div>
@@ -612,18 +634,21 @@ y los medios de alcanzarlo).
 <details open><summary><h5>व्याहृति-होमाः ४ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(ओं) भूस्स्वाहा॑ ॥
-(अ॒ग्नय॑ +इ॒दं न म॑म)
 
-(ओं) भुव॒स्स्वाहा॑ ॥
-(वा॒यव॑ +इ॒दं न म॑म)
+(ओं᳓) भू᳓स् स्वा᳓हा ॥
+(अग्न᳓य +इदं᳓ न᳓ म᳓म)
 
-(ओं) सुव॒स्स्वाहा॑ ॥  
-(सूर्या॑य +इ॒दं न म॑म)
+(ओं᳓) भु᳓वस् स्वा᳓हा ॥
+(वाय᳓व +इदं᳓ न᳓ म᳓म)
 
-(ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
-(प्र॒जाप॑तय +इ॒दं न म॑म)  
+(ओं᳓) सु᳓वस् स्वा᳓हा ॥  
+(सू᳓र्याय +इदं᳓ न᳓ म᳓म)
+
+(ओं) भू᳓र् भु᳓वस् सु᳓व स्स्वा᳓हा ॥  
+(प्रजा᳓पतय +इदं᳓ न᳓ म᳓म)  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +664,7 @@ y los medios de alcanzarlo).
 (ओं) भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥  
 (प्रजापतय इदं न मम)  
 
+</details>
 </details>
 </details>
 </div>

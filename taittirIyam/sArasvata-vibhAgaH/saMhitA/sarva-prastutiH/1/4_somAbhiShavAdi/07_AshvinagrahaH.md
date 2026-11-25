@@ -5,9 +5,12 @@ title = "०७ आश्विनग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पुनरप्याश्विनग्रहणमन्त्रः - प्रातर्युजाविति गायत्री त्रिपदा । पूर्वेण सहास्य विकल्पः ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/07_AshvinagrahaH/02_prAtaryujau_vi.md">
@@ -52,17 +55,21 @@ To drink this Soma.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इत्यनुद्रुत्योपयामगृहीतोस्यश्विभ्यां त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -89,13 +96,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓भ्यान्त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -111,17 +120,23 @@ to the Aśvins thee!
 
 अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिरश्विभ्यां त्वेति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्, अश्वि᳓भ्यान् त्वा ॥ [8]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -136,6 +151,7 @@ This is thy birthplace; to the Aśvins thee!
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । ते॒ । योनिः॑ । अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । त्वा॒ ॥
+</details>
 </details>
 
 इति चतुर्थे सप्तमोनुवाकः ॥  

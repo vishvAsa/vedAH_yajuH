@@ -7,9 +7,12 @@ unicode_script: devanagari
 
 ## आग्नेयं काण्डम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1 अथाधानमन्त्राः - आग्नेयं काण्डम् । तत्र प्राचीनप्रवणं देवयजनमुद्धन्ति - उद्धन्यमानमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/02_uddhanyamAnamasyA_amedhyam.md">
@@ -44,9 +47,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2 अद्भिरवोक्षति - शंनो देवीरिति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
@@ -79,9 +85,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3 अत्र सप्तपार्थिवान् सम्भारान् आहरत्येवं वानस्पत्यान् । तत्र सिकताः - वैश्वानरस्येति गायत्र्या पादनिवृता ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/10_vaishvAnarasya_rUpam.md">
@@ -114,9 +123,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4 अथोषान् - यदिदमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/14_yadidandivo_yadadapH.md">
@@ -151,9 +163,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5 अथाखुकरीषं - ऊतीः कुर्वाण इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/18_UtIkH_kurvANo.md">
@@ -188,9 +203,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6 अथ वल्मीकवपां - ऊर्जमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/22_Urjam_pRthivyA.md">
@@ -225,9 +243,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7 अथ सूदम् - प्रजापतिसृष्टानामिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/26_prajApatisRShTAnAm_prajAnAm.md">
@@ -262,9 +283,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8 अथ वराहविहतम् - यस्य रूपमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/30_yasya_rUpam.md">
@@ -300,9 +324,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9 अथ पुष्करपर्णम् - यत्पर्यपश्यदिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/34_yat_paryapashyath.md">
@@ -337,9 +364,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10 अथ शर्कराः - याभिरिति त्रिपदया विराजा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/38_yAbhir_adRMhaj.md">
@@ -372,9 +402,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11 अथ हिरण्यशकलम् - अग्ने रेत इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/42_agne_retash.md">
@@ -409,9 +442,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12 अथाश्वत्थम् - अश्वो रूपमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/46_ashvo_rUpa~N.md">
@@ -446,9 +482,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13 अथोदुम्बरम् - ऊर्जः पृथिव्या इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/50_UrjapH_pRthivyA.md">
@@ -483,9 +522,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14 अथ पर्णम् - गायत्र्येति द्वाभ्यां त्रिष्टुब्भ्याम् ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/54_gAyatriyA_hriyamANasya.md">
@@ -520,9 +562,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15 अथ द्वितीया - देवानामिति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/58_devAnAm_brahmavAdav.N.md">
@@ -557,9 +602,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16 अथ शमीम् - यया त इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/62_yayA_te.md">
@@ -592,9 +640,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17 अथ विकङ्कतम् - यत्ते सृष्टस्येति त्रिष्टुभा । 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/66_yat_te.md">
@@ -629,9 +680,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18 अथाशनिहतस्य वृक्षस्य - यत्त इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/70_yat_te.md">
@@ -666,9 +720,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19 चित्रियस्य अश्वत्थस्य तिस्रस्समिधः आद्यास्सपलाशाः प्रादेशमात्र्यः त्रिभागवत्यो विवर्तर्यति - चित्रियादिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/74_chitriyAd_ashvatthAth.md">
@@ -703,9 +760,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20 शमीगर्भस्य अश्वत्थस्यारणी अभिमन्त्रयते - अश्वत्थादिति प्रस्तारपङ्क्त्या ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/78_ashvatthAd_dhavyavAhAd.md">
@@ -740,9 +800,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 21 तथाविधे अरणी आहरति - यो अश्वत्थ इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/82_yo_ashvatthash.md">
@@ -777,9 +840,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 22 सम्भारानेकत्र निदधाति - यं त्वेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/86_yan_tvA.md">
@@ -814,9 +880,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 23 दर्व्या ब्रह्मौदनं जुहोत्यभिमन्त्रयते वा - प्रवेधस इति उपरिष्टाज्ज्योतिषा त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/90_pravedhase_kavaye.md">
@@ -851,9 +920,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 24 चित्रियस्याश्वत्थस्य तिस्रस्समिध आदधाति - समिधाऽग्निं दुवस्यतेति तिसृभिर्गायत्रीभिः ब्राह्मणस्य ॥ तत्र प्रथमा - 'अन्नपते' इत्यत्र व्याख्याता ।
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/94_samidhA.agnin.md">
@@ -892,9 +964,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 25 अथ द्वितीया - उप त्वेति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/98_upa_tvA.md">
@@ -927,9 +1002,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 26 अथ तृतीया - तं त्वेति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/102_tan_tvA.md">
@@ -962,9 +1040,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 27 राजन्यस्यादधाति - समिध्यमान इति तिसृभिस्त्रिष्टुग्भिः ॥ प्रथमा - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/106_samidhyamAnapH_prathamo.md">
@@ -999,9 +1080,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 28 द्वितीया - घृतप्रतीक इति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/110_ghRtapratIko_ghRtayonir.md">
@@ -1036,9 +1120,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 29 तृतीया - आयुर्दा इति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/114_AyurdA_agne.md">
@@ -1079,9 +1166,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 30 वैश्यस्यादधाति - त्वामग्ने इति जगतीभिस्तिसृभिः ॥ तत्र प्रथमा - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/118_tvAm_agne.md">
@@ -1116,9 +1206,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 31 द्वितीया - त्वामग्ने प्रदिव इति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/122_tvAm_agne.md">
@@ -1153,9 +1246,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 32 अथ तृतीया - घृतप्रतीकमिति ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/126_ghRtapratIkav.N_va.md">
@@ -1190,9 +1286,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 33 उतरेण गार्हपत्यायतनं कल्माषमजं बध्नाति । सोऽग्निरूपेण स्तूयते - प्रजा अग्ने संवासयेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/130_prajA_agne.md">
@@ -1227,9 +1326,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 34 अरणी अध्वर्युणा दीयमाने यजमानः प्रतीक्षते - मही विश्पत्नी इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/134_mahI_vishpatnI.md">
@@ -1264,9 +1366,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 35 अरणी प्रतिगृह्णाति यजमानः - आरोहतमिति जगत्या ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/138_Arohatan_dashatam.md">
@@ -1301,9 +1406,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 36-37 प्रतिगृह्यारणिमभिमन्त्रयते यजमानः - ऋत्वियवती इति द्वाभ्याम् ॥ प्रथमा जगती विस्तृतपदा , द्वितीया विषमपदा, अतिजगती बृहती वा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/142_RtviyavatI_stho.md">
@@ -1366,9 +1474,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 38 अथ यजमानो व्रतमुपैति, वाचं च यच्छति - अनृतादिति । गायत्रीप्रकारोऽयं, यजुरित्येके ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/149_anRtAth_satyam.md">
@@ -1401,9 +1512,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 39 शल्कैरेतां रात्रिं एतमग्निमिन्धान आस्ते - शल्कैरित्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/153_shalkair_agnim.md">
@@ -1438,9 +1552,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 40 तस्मिन्नुपव्युषमरणी निष्टपति - जातवेद इति त्रिष्टुभा अयं ते योनिरित्यनुष्टुभा च ॥ तत्र प्रथमा - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/157_jAtavedo_bhuvanasya.md">
@@ -1475,9 +1592,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 41 अथ द्वितीया - अयं ते योनिरिति ॥ 
+</details>
 </details>
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
@@ -1515,9 +1635,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 42 गार्हपत्यादीनामायतनमुद्घन्ति - अपेतेति त्रिष्टुभा ॥ इयं चाग्निकाण्डे व्याख्याता । 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/165_apeta_vIta.md">
@@ -1555,9 +1678,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 43 सिकता निवपति - अग्नेर्भस्मासीति यजुषा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1565,6 +1691,8 @@ unicode_script: devanagari
 अग्ने᳓र् भ᳓स्मासि ।  
 अग्नेᳶ᳓ पु᳓रीषम् असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1587,10 +1715,14 @@ unicode_script: devanagari
 एतन्मन्त्रसाध्यं सिकतावापं विधत्ते— “सिकता नि वपत्येतद्वा अग्नेर्कैश्वानरस्य रूपँरूपेणैव वैश्वानरमव रुन्धे” (सं. का. ५ प्र. २ अ. ३) इति।  
 आधाना प्रकरणे “वैश्वानरस्य रूपम्।   पृथिव्यां परिस्त्रसा” इत्याम्नातत्वात्सि-कताशरीरं वैश्वानरस्याग्नेः स्वरूपम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 44 अथोषा निवपति - संज्ञानमिति यजुषा ॥ इदमपि तत्रैव व्याख्यातम्13 । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1598,6 +1730,8 @@ unicode_script: devanagari
 संज्ञा᳓नम् असि काम-ध᳓रणम् ।  
 म᳓यि ते काम-ध᳓रणम् भूयात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -1627,10 +1761,14 @@ unicode_script: devanagari
 “द्यावापृथिवी सहाऽस्तां ते वियती अब्रूतामस्त्वेव नौ सह यज्ञियमिति यदमुष्या यज्ञियमासीत्तदस्यामदधात्त ऊषा अभवन्यदस्या यज्ञियमासीत्तदमुष्याम दधात्तददश्चन्द्रमसि कृष्णमूषान्निवपन्नदो ध्यादेद्द्यावापृथिव्योरेव यज्ञियेऽग्निं चिनुते” [सं. का. ५ प्र. २ अ. ३] इति।  
 पुरा सृष्टिकाले प्रजापतिना सृष्टे द्यावापृथिव्यौ जतुकाष्ठवत्संश्लिष्टे तिष्ठतः।   ते यदा प्रजापत्यनुज्ञया वियुज्येते तदानीं परस्परानुरागेणैवं भागं कृतवत्यौ नावावयोर्यद्यज्ञयोग्यं सारं तत्सहैवास्त्विति।   ततोऽमुष्या दिवो यद्यज्ञयोग्यं सारमासीत्तदस्यां पृथिव्यां सा द्यौः स्थापितवती।   तच्च सारं भूमाविदानीं दृश्यमानास्ते प्रसिद्धा ऊषा आसन्।   यच्चास्याः पृथिव्या यज्ञयोग्यं सारमासीत्तत्सारममुष्यां दिवि सा पृथिवी स्थापितवती।   तत्स्थापितं चन्द्रमसि दृश्यमानं कृष्णरूपमभूत् ।   अत उभयोः सारयोरेकीभावायोषान्निवपन्नदश्चन्द्रमसि कृष्णरूपं ध्यायेत् ।   तेन ध्यानेन द्यावापृथिव्योः संबन्धिनि यज्ञयोग्ये सारेऽग्निं चितवान्भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 45 अथ वानस्पत्यान् संसृजति - सं व इति द्वाभ्यां गायत्र्यनुष्टुब्भ्याम् । तत्र प्रथमा - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/177_sav.Nvas_sRjAmi.md">
@@ -1663,9 +1801,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 46 द्वितीया - सं या व इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/180_say.NyA_vapH.md">
@@ -1702,9 +1843,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 47 कॢप्तिसामनसीभ्यामग्नीन् यजमान उपतिष्ठते - कल्पेतामिति द्वाभ्यामनुष्टुबस्तारपङ्क्तिभ्याम् ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/184_kalpetAn_dyAvApRthivI.md">
@@ -1742,9 +1886,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 48 द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/188_ye.agnayas.md">
@@ -1793,9 +1940,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 49 गार्हपत्यमादधाति - दिवस्त्वेत्यनुष्टुभा उष्णिहा वा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/192_divas_tvA.md">
@@ -1830,9 +1980,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 50 जातमग्निमञ्जलिनाऽभिगृह्णाति - अजीजनन्निति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/196_ajIjanann_amRtam.md">
@@ -1867,9 +2020,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 51 जातं यजमानोऽभिप्रणिति - प्रजापतेस्त्वेति जगतीप्रकारेण पञ्चपादेन ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/200_prajApates_tvA.md">
@@ -1906,9 +2062,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 52 आहवनीयमाधीयमानमभिमन्त्रयते यजमानः - अहं त्वदस्मीति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/204_ahan_tvadasmi.md">
@@ -1948,6 +2107,8 @@ unicode_script: devanagari
 प्राणे᳓ त्वा ऽमृ᳓तम् आ᳓दधाम्य् अन्नाद᳓म् अन्ना᳓द्याय गोप्ता᳓रङ् गु᳓प्त्यै ।    
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णे त्वा॒ऽमृत॒माद॑धामि ।
@@ -1959,10 +2120,14 @@ unicode_script: devanagari
 
 प्र । आणे᳓ । त्वा । अ-मृ᳓तम् । आ᳓ । दधामि । अन्नाद᳓म् । अन्ना᳓द्याय । गोप्ता᳓रम् । गु᳓प्त्यै ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 53 गार्हपत्यमाधीयमानमनुमन्त्रयते यजमानः - सुगार्हपत्य इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/211_sugArhapatyo_vidahann.md">
@@ -1997,9 +2162,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 54 आहवनीयाधानार्थं व्रजन्ति - इमा इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/215_imA_u.md">
@@ -2034,9 +2202,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 55 आहवनीयमुद्यच्छति - ओजेस इत्यादिभिः । प्रथमा ककुप् । उष्णिक् द्वितीया । त्रिष्टुप्तृतीया ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/219_ojase_balAya.md">
@@ -2069,9 +2240,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 56 द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/223_yas_te.md">
@@ -2106,9 +2280,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 57 तृतीया - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/227_divapH_pRthivyApH.md">
@@ -2143,9 +2320,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 58 अथ गमनमन्त्राः - प्राचीमिति त्रिष्टुभौ । विक्रमस्वेति च गायत्री । प्रथमा - प्राचीमिति । अग्निकाण्डे व्याख्याता । 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/231_prAchIm_anu.md">
@@ -2182,9 +2362,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 59 द्वितीया - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/235_anv_agnir.md">
@@ -2219,9 +2402,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 60 तृतीया - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/239_vikramasva_mahAm.md">
@@ -2254,9 +2440,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 61 अभिमन्त्र्याहवनीयमादधाति - यदिदमिति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/243_yadidan_divo.md">
@@ -2298,15 +2487,20 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 62 आहवनीयमादधाति - प्राणं त्वेति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राण᳓न् त्वाऽमृ᳓त आ᳓ दधाम्य् अन्नाद᳓म् अन्ना᳓द्याय गोप्ता᳓रङ् गु᳓प्त्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2322,6 +2516,7 @@ unicode_script: devanagari
 
 व्याख्यातप्रायम् । प्राणात्मानं त्वां अमृते अमृतनिमित्तं आदधामि । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2330,6 +2525,8 @@ unicode_script: devanagari
 ते᳓न मे दीदिहि ते᳓न त्वा᳓ ऽऽदधे ।  
 अग्नि᳓ना ऽग्ने ब्र᳓ह्मणा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2350,11 +2547,14 @@ unicode_script: devanagari
 
 - अथ पूर्ववत्प्रत्यक्षेणाह - यत्त इति । अजस्रं सन्ततं [अजस्रमित्यन्तं] वा यजुः । हे शुक्र! निर्मल! वीर्यस्य वा कारणभूत! यत् तव शुक्रं तादृशं वर्चः बलं तादृशी च तनूः शरीरं तादृशं च ज्योतिः तेजः अजस्रं नित्यं तेन मे मां दीदिहि दीपय । तेन इत्थंभूतं त्वां आदधे । अग्निना अङ्गनादिगुणेन ब्रह्मणा परिबृढेन तेनोपलक्षितम् । यद्वा - अनेन ब्रह्मणा घर्मशिरस्संज्ञेन मन्त्रोण त्वामादधे हे अग्ने! ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आनशे᳓ व्य् आनशे स᳓र्वम् आ᳓युर् व्या᳙नशे ॥ 24॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -2370,10 +2570,14 @@ unicode_script: devanagari
 
 - 5आहवनीयमाधीयमानं यजमानोऽभिमन्त्रयते - आनश इति ॥ द्विपदा गायत्रीत्येके । आनशे व्याप्तवान् विश्वम् । व्यानशे विशेषेण व्याप्तवान् । सर्वं च आयुः जीवितं हविर्वा व्यानशे लब्धवान् । छान्दसो लिट् 'अश्नोतेश्च' इति नुट् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 63 अथ विराट्क्रमैर्यजमान उपतिष्ठते । तत्र गार्हपत्यम् - नर्य प्रजां मे इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/255_narya_prajAm.md">
@@ -2408,9 +2612,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 64 अन्वाहर्यपचनमुपतिष्ठते - अथर्वेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/259_atharva_pitum.md">
@@ -2445,9 +2652,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 65 आहवनीयमुपतिष्ठते - शंस्य पशून् म इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/263_shaMsya_pashUn.md">
@@ -2482,9 +2692,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 66 सभ्यमुपतिष्ठते - सप्रथेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
@@ -2519,9 +2732,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 67 आवस्थ्यमुपतिष्ठते - अहे बुध्नियेत्यनुष्टुभा अभिक्रान्ताक्षरया पुरस्ताद्बृहत्या वा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/271_ahe_budhniya.md">
@@ -2556,9 +2772,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 68 वेदिं संसृज्यमानामनुमन्त्रयते - चतुश्शिखण्डेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/275_chatush_shikhaNDA.md">
@@ -2593,9 +2812,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 69 अथ यद्यनुपस्थाय प्रवसेत् प्रमादादिना तदा पत्नय उपतिष्ठेरन् सर्वान् - इहैवेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/279_ihaiva_santatra.md">
@@ -2630,9 +2852,12 @@ unicode_script: devanagari
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 70 विराट्क्रमानन्तरं यजमानः यज्ञविराट्क्रमेणानेन सर्वानुपतिष्ठते पञ्चधेत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/283_panchadhA.agnIn.md">

@@ -11,6 +11,8 @@ unicode_script: devanagari
 "कि᳓ञ् च᳓तुर्होतृणाञ् चतुर्होतृत्व᳓म्" इ᳓ति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।
@@ -44,6 +46,7 @@ unicode_script: devanagari
 इति ।
 चतुर्होतृ-शब्देन व्यवह्रियमाणानां “चित्तिः स्रुक्" इत्य् आदि-मन्त्राणां चतुर्होतृ-शब्द-वाच्यत्वं कथम् इत्य् एवं ब्रह्मवादिनां प्रश्नः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -51,6 +54,8 @@ unicode_script: devanagari
 ते᳓न च᳓तुर्होतारस्  
 त᳓स्माच् च᳓तुर्होतार उच्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -81,11 +86,14 @@ unicode_script: devanagari
 
 इति । यस्माद् एवं तस्माद् वैदिकैः सर्व एते मन्त्राश् चतुर्-होतार इत्य् उच्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓च् च᳓तुर्होतृणाञ् चतुर्-होतृत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -106,11 +114,14 @@ unicode_script: devanagari
 
 चत्वारो होम-कर्तारो येषु मन्त्रेष्व् इति व्युत्पत्त्या तेषां मन्त्राणां चतुर्होतृ-नाम सम्पन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓मो वै᳓ च᳓तुर्होता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -127,11 +138,14 @@ unicode_script: devanagari
 2 सोमो वा इत्यादि ॥  
 सोमादिभाव एवैषां हृदयेष्ववगन्तव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निᳶ᳓ प᳓ञ्चहोता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -150,11 +164,14 @@ unicode_script: devanagari
 > सोमो वै चतुर्-होता ।  
 अग्निः पञ्च-होता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धाता᳓ ष᳓ड्ढोता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -171,11 +188,14 @@ unicode_script: devanagari
 धाता षड्-ढोता ।  
 इन्द्रः सप्त-होता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस् सप्त᳓होता ॥1॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,11 +206,14 @@ unicode_script: devanagari
 
 इ᳓न्द्रः । सप्त᳓-होता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् द᳓शहोता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -210,12 +233,15 @@ unicode_script: devanagari
 
 इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓ञ् च᳓तुर्होतृणाम् ऋ᳓द्धिव्ँ वे᳓द,  
 ऋध्नो᳓त्य् एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -237,12 +263,15 @@ unicode_script: devanagari
 
 यथोक्त-सोमादि-देवता-रूपत्वम् एव मन्त्राणां समृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एषाम् एव᳓म् बन्धु᳓ताव्ँ वे᳓द  
 ब᳓न्धुमान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -271,12 +300,15 @@ unicode_script: devanagari
 [[P438]] 
 तत्-समूहे बन्धु-भावं यो वेद सो ऽयं बहुभिर् बन्धुभिर् युक्तो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एषाम् एव᳓ङ् कॢ᳓प्तिव्ँ वे᳓द  
 क᳓ल्पतेऽस्मै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,12 +330,15 @@ unicode_script: devanagari
 
 कॢप्तिर् अनुष्ठान-जप-होमादिकम् । तद्-वेदनेन स्वाभिमत-मन्त्र-क्रिया कल्प्यते निष्पाद्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एषाम् एव᳓म् आय᳓तनव्ँ वे᳓द  
 आय᳓तनवान्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -330,11 +365,14 @@ unicode_script: devanagari
 प्रतिष्ठा-फलम् – “आऽस्य वीरो जायते" इत्यादिकम् ।  
 तद्-वेदिता धनादिभिः प्रतिष्ठितो भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एषाम् एव᳓म् प्रतिष्ठाव्ँ᳓ वे᳓द ॥2॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -345,11 +383,14 @@ unicode_script: devanagari
 
 यः᳓ । एषाम् । एव᳓म् । प्रति-स्था᳓म् । वे᳓द ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्येव᳓ तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -360,12 +401,15 @@ unicode_script: devanagari
 
 प्र᳓ति । एव᳓ । तिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्ति -"द᳓शहोता च᳓तुर्होता प᳓ञ्चहोता ष᳓ड्ढोता सप्त᳓होता ।  
 अ᳓थ क᳓स्माच् च᳓तुर्होतार उच्यन्त" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -395,11 +439,14 @@ unicode_script: devanagari
 दश-होत्रादयः पञ्च-शब्दा विद्यन्ते तेषां मध्ये चतुर्होतृ-शब्देन यथा सर्वेषाम् उपलक्षणम्, एवं दश-होत्रादि-शब्देनापि छत्रिन्यायेनोपलक्षयितुं शक्यत्वात् कुतः शब्दान्तरैर् नोपलक्ष्यन्ते । चतुर्होतृ-शब्देनैव तद्-उपलक्षण-नियमे किं कारणम् इति ब्रह्मवादिनां प्रश्नः । तत्रैतद् उत्तरम् । 
 [[P439]]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो वै᳓ च᳓तुर्होता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -422,11 +469,14 @@ unicode_script: devanagari
 चतुर्होतृ-मन्त्राणां कारणत्वाद् अयं मन्त्र इन्द्र-स्वरूपः ।  
 तत्-कारणत्वं च पूर्वोक्तम् – "तं चतुर्-होत्रा प्राजनयन्" इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रᳵ ख᳓लु वै᳓ श्रे᳓ष्ठो देव᳓तानाम् उपदे᳓शनात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,12 +504,15 @@ unicode_script: devanagari
 इन्द्र-रूपत्वेन चतुर्-होता सर्वेषु श्रेष्ठः ।  
 ततः श्रेष्ठेनैव सर्वस्य व्यपदेशो युक्तो न त्व् अन्येन ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓म् इ᳓न्द्रँ श्रे᳓ष्ठन् देव᳓तानाम् उपदे᳓शनाद् वे᳓द  
 व᳓सिष्ठस् समाना᳓नाम् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -481,11 +534,14 @@ unicode_script: devanagari
 
 यः पुमान् इन्द्र-श्रेष्ठत्वं श्रुत्य्-उपदिष्टं वेद स पुमान् समानानां स्वकीयानां निवास-हेतुर् भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छ्रे᳓ष्ठम् आय᳓न्तम् प्रथमे᳓नैवा᳓नुबुध्यन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -506,12 +562,15 @@ unicode_script: devanagari
 
 यस्माद् अत्र श्रेष्ठेनैव चतुर्-होत्रा सर्वेषां व्यपदेशो नेतरेण तस्माल् लोके 'पि सहस्र-संख्याकैर् जनैः सह समागच्छन्तं श्रेष्ठं राजानम् अमात्यं वा दृष्ट्वा प्रजाः सर्वाः प्रथमेनैव श्रेष्ठ-पुरुष-नाम्नानुबुध्यन्ते व्यवहरन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अय᳓म् आ᳓गन् ।
 अय᳓म् अ᳓वासाद्" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -533,11 +592,14 @@ unicode_script: devanagari
 
 अयम् आगन्, अयं राजागन्, आगच्छति । अयम् अमात्यः समागच्छतीति । अथापि तेन सह सर्वेप्य् अन्ये समागच्छन्ति तथापि छत्र-धारी समागच्छति चामर-धारी समागच्छतीत्य् एवं श्रेष्ठ-नाम्ना संघं व्यवहरन्ति । तथा तस्मिन् ग्रामे 'यम् अवासात् । ग्राम-स्वामी देवदत्तो 'त्र निवसतीत्य् एवं श्रेष्ठ-नाम्ना व्यवहरन्ति । न त्व् अस्मिन् नगरे दासो निवसति दासी निवसतीति वा कदाप्य् अश्रेष्ठ-नाम्ना व्यवहरन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कीर्ति᳓र् अस्य पू᳓र्वा᳓ऽऽगच्छति जन᳓ताम् आयतः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -558,6 +620,7 @@ unicode_script: devanagari
 
 किं च दूर-देशाद् आगच्छतो राज्ञः कीर्तिः पूर्व-भाविनी सती देश-विशेषे ऽवस्थितं जन-समूहं प्राप्नोति तदापि मुख्यस्यैव कीर्तिर् न चाश्रेष्ठस्य भृत्यादेः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -565,6 +628,8 @@ unicode_script: devanagari
 "अय᳓म् आ᳓गन् ।  
 अय᳓म् अ᳓वासाद्" इ᳓ति ॥3॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -590,4 +655,5 @@ unicode_script: devanagari
 अतो ऽपि कारणाद् एनं जन-संघम् आयन्तं मुख्यस्य नाम्नैव व्यवहरन्ति – अयं राजा समागच्छतीति । तथाऽस्मिन् ग्रामेऽयं स्वामी निवसतीति । तस्माल् लोकवद् एवात्रापि श्रेष्ठेन चतुर्-होत्रा सर्व-मन्त्र-व्यवहारो न त्व् इतरैर् दश-होत्रादिभिर् इत्य् अर्थः ।
 
 इति श्रीमत्-सायणाचार्य-विरचिते माधवीये वेदार्थ-प्रकाशे कृष्ण-यजुर्वेदीय-तैत्तिरीय-ब्राह्मण-भाष्ये द्वितीय-काण्डे तृतीय-प्रपाठके प्रथमो ऽनुवाकः ॥ १ ॥
+</details>
 </details>

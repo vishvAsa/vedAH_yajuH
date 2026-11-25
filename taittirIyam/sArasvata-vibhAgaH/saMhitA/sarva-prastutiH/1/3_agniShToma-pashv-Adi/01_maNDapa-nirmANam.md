@@ -6,10 +6,15 @@ title = "०१ मण्डप-निर्माणम्"
 १७ अनुष्टुप् । सोमऋषिः
 
 ________
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 तत्रौदुम्बर्य-वट-परिलेखनार्थम् अभ्रिम्+++(=अग्नीध्र-खनित्रम्)+++ आदत्ते - देवस्य त्वेति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -27,15 +32,17 @@ ________
 
 तामभिमन्त्रयते - अभ्रिरसीति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,13 +75,15 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ ददे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,8 +104,11 @@ I grasp thee.
 
 अतः परमध्वरकाण्डं सोमार्षेयम् ।  व्याख्यातं चैतत् । **हे अभ्रे त्वामादद** इति सावित्रस्यैवायं शेषः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "अभ्रिरिति"। कल्पः — 
@@ -105,11 +117,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓भ्रिर्+++(=अग्नीध्र-खनित्रम्)+++ असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,16 +153,22 @@ thou art the spade
 
 खनन-साधन-भूता काष्ठमयी तीक्ष्ण-मुखाग्रा ऽभ्रिर् इत्युच्यते। 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तयावटं परिलिखति - परिलिखितमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓रिर् असि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,8 +194,11 @@ thou art the woman.
 
 यद्य् अपि त्वम् अभ्रिर् असि तथाप्य् अस्मान् प्रति नारिर् अशत्रुर् असि।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "परिलिखितमिति"। कल्पः — 
@@ -188,9 +212,9 @@ ________
 
 अग्रादारभ्यौदुम्बरीं प्रोक्षति - दिवे त्वेति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिलिखितँ+++(=परिनाशितं)+++ र᳓क्षᳶ  
@@ -198,6 +222,8 @@ ________
 इद᳓म् अहँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि ।  
 यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -259,15 +285,20 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3अपिकृन्तमीत्यन्तो मन्त्रो व्याख्यातः ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "दिव इति"। बौधायनः – 
@@ -287,9 +318,9 @@ ________
 
 7अवटे अपोवनयति - शुन्धतामिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/dive_tvA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा  +++(प्रोक्षामि)+++ ।  
@@ -297,6 +328,8 @@ ________
 पृथिव्यै᳓ त्वा +++(प्रोक्षामि)+++ ।
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>प्रदीपसिंहः</summary>
 
@@ -331,15 +364,20 @@ To sky thee, to atmosphere thee, to earth thee!
 
 4अन्तर्वेद्यूर्ध्वाग्रं बर्हिस्स्थापयित्वा प्रोक्षति - दिव इति ॥ अग्रमध्यमूलेषु क्रमेण प्रोक्षणम् । सर्वत्र प्रोक्षामीति शेषः । यागनिर्वृत्तिद्वारेण द्युप्रभृतीनां लोकानां धारणार्थं प्रोक्षणं भवति । 'ऊडिदम्' (पा.सू. 6.1.171) इत्यादिना दिव इति विभक्तेरुदात्तत्वम् । पृथिव्या इत्यादौ 'उदात्तयणो हल्पूर्वात्' (पा.सू. 6.1.174) इति विभक्तेरुदात्तत्वम् ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4-6 बर्हिःप्रोक्षणे व्याख्यातम् द्युलोकादिस्थित्यर्थं त्वां प्रोक्षामीत्यौदुम्बर्या अग्रमध्यमूलानि पृथक्पृथक्प्रोक्ष्यन्ते । 'परस्तादर्वाचीम्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "शुन्धतामिति"। कल्पः —  
@@ -353,13 +391,15 @@ ________
 
 8अवटे यवान्प्रक्षिपति - यवोसीति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/shundhantAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓न्धताल्ँ लोकᳶ᳓ पितृ-ष᳓दनः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,10 +430,12 @@ Pure be the world where the Pitrs sit.
 
 पितरः सीदन्त्य् अस्मिनन् इति पितृ-षदनो ऽवटाख्यो लोकः शुद्धो भवतु।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>सायण-टीका</summary>
 
 "यवो ऽसीति"। कल्पः —  
@@ -402,20 +444,25 @@ ________
 
 इति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9तस्मिन् व्यतिषज्य बर्हिर्-मुष्टिं निदधाति - पितृणामिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/yavosi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वोऽसि।  
 यव᳓य+++(=अपनय)+++ +अस्म᳓द्-द्वे᳓षः ।    
 यव᳓य +अ᳓रातीः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -463,10 +510,12 @@ bar evil spirits.
 
 हे धान्य त्वं यवो ऽसि अमिश्री-कर्ता ऽसि। अतो द्वेषिणो राक्षसान् इतरान् अपि शत्रून् अस्मत्तो वियोजय।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "पितृणामिति"। कल्पः —  
@@ -480,14 +529,16 @@ ________
 
 10औदुम्बरीम् उच्छ्रयति - उद्दिवमिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/pitRNAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृणाँ᳓+++(=पितॄणाम्)+++ स᳓दनमसि।  
 +++('नामन्यतरस्याम्' इति षष्ठीबहुवचनस्योदात्तत्वम्। )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,10 +569,12 @@ Thou art the seat of the Pitrs.
 
 बर्हिर्-हस्तो बर्हिर्-मुष्टिः। हे बर्हिः पितृणां स्थानम् असि।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 "उद्दिवमिति"। कल्पः —  
@@ -530,6 +583,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -537,6 +591,8 @@ ________
 आ᳓ +अन्त᳓रिक्षम् पृण+++(=पूरय)+++ ।   
 पृथिवी᳓न् दृँह ।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -571,8 +627,11 @@ Support the sky, fill the atmosphere, make firm the earth.
 
 हे औदुम्बरि द्यु-लोकम् ऊर्ध्व-देशे विधारय, अन्तरिक्षं पूरय, पृथिवीं दृढी कुरु।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11प्राचनिकर्णामौदुम्बरीम् मिनोति - द्युतानस्त्वेति द्विपदया विराजा जगत्या वा ॥
@@ -586,12 +645,15 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्युतान᳓स्+++(=द्योतनशीलास्)+++ त्वा मारुतो᳓ **मिनोतु**  
 मित्रा᳓व᳓रुणयोर् ध्रुवे᳓ण ध᳓र्मणा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -621,14 +683,19 @@ May Dyutana Maruta set thee up according to the established law of Mitra and Var
 
 हे औदुम्बरि मित्रावरुणयोः सम्बन्धिना दृढेन त्वदीय-धारणेनेतस्-ततः पतितां त्वां मरुत्-पुत्रो द्युतान-नामको देवो ऽवटे प्रक्षिपतु।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12पुरीषेणौदुम्बरीं प्रदक्षिर्णं पर्यूहति - ब्रह्मवनिमिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma-vanim.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -642,11 +709,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म-व᳓निन् त्वा  क्षत्र-व᳓निँ सुप्रजा-व᳓निँ रायस्-पोष-व᳓निम् प᳓र्यूहामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -680,11 +750,13 @@ Thee that art winner of Brahmans, winner of nobles, winner of fair offspring, wi
 
 ब्रह्म ब्राह्मण-जातिं वनति भजतीति ब्रह्म-वनिः। हे औदुम्बरि ब्राह्मण्यादि-प्रदां त्वां परितो मृत्तिकां प्रक्षिपामि।
 </details>
-
+</details>
 </div>  
 
 ________
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13 मैत्रावरुणदण्डेन संहन्ति - ब्रह्म दृंहेति ॥
@@ -697,12 +769,15 @@ _______
 
 इति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/brahma_dRMha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्म॑ दृँह क्ष॒त्रन्दृँ॑ह प्र॒जान्दृँ॑ह रा॒यस्पोष॑न्दृँह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +787,8 @@ _______
 प्रजा᳓न् दृँह।  
 राय᳓स्-पो᳓षन् दृँह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -754,10 +831,12 @@ strengthen increase of wealth.
 [[P337]]
 
 </details>
-
+</details>
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14औदुम्बरी-विशाखयोर् मध्ये विशाखाग्रयोर् वा हिरण्यं निधाय स्रुवेणाभिजुहोति - घृतेनेति ॥
@@ -771,11 +850,14 @@ _______
 
 इति। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृते᳓न द्यावापृथिवी आ᳓ पृणेथाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -801,8 +883,11 @@ With ghee, O sky and earth, be filled.
 
 हे द्यावा-पृथिवी-रूपे औदुम्बर्या अग्रमूले घृतेनानेन समन्तात् तृप्येथाम्।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15मध्यम छदिर्निदधाति - इन्द्रस्येति ॥
@@ -822,11 +907,14 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -847,17 +935,23 @@ Thou art the seat of Indra,
 
 इन्द्रस्य सदः सदनं गृह असि । 'ऐन्द्रं हि देवतया सदः' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16पार्श्वयोश्छदिर्निदधाति - विश्वजनस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वजन᳓स्य छाया᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -878,10 +972,14 @@ the shade of all folk.
 
 विश्वजनस्य सर्वजनस्य छाया गृहमासि । 'विश्वजनस्य ह्येषा छाया' `इति ब्राह्मणम् । छायाशब्दो गृहनामसु निरुक्तकारैः पठ्यते ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17सदः पारिश्रयति - परित्वेति चतुष्पदयानुष्टुभा ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/01_maNDapa-nirmANam/02_pari_tvA.md">
@@ -937,6 +1035,8 @@ May they be dear delights.
 
 ________
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18दक्षिण-द्वार्-बाहौ कुश-मुष्टिम् उपनिगृह्य दर्भेण स्पन्द्यां प्रवर्तयति - इन्द्रस्येति ॥ 
@@ -954,11 +1054,14 @@ _______
 
 इन्द्र॑स्य॒ स्यूर॒सीन्द्र॑स्य ध्रु॒वम॑स्यै॒न्द्रम॒सीन्द्रा॑य त्वा ॥ [2]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य स्यू᳓र्+++(=सूची)+++ असि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -986,17 +1089,23 @@ Thou art the string of Indra;
 
 व्याख्यातं हविर्धानेन।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19ग्रन्थिं करोति - इन्द्रस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य ध्रुव᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1019,17 +1128,23 @@ thou art the fixed point of Indra.
 
   - [ विष्णुना **ध्रुवम्** अचलितं करणीयमसि ॥]
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20सदोभिमृशति - ऐन्द्रमसीति॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐन्द्र᳓म् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1054,11 +1169,14 @@ Thou art of Indra.
 
 'ऐन्द्रं हि देवतया सदः' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय त्वा ॥[2]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1082,6 +1200,7 @@ To Indra thee!
 - [ हविर्धानमण्डपमभिमृशति - वैष्णवमिति ॥ वैष्णवं विष्णुदेवत्यं त्वमसि । अतो विष्णवे त्वामभिमृशामि ।
 
 'वैष्णवं हि देवतया हविर्धानम्' `इति ब्राह्मणम् ॥]
+</details>
 </details>
 
 इति तृतीये प्रथमोनुवाकः ॥

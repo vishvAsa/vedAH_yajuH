@@ -4,15 +4,20 @@ title = "०७ उत्तरवेदिनिर्माणम्"
 
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तेभ्य॑ उत्तरवे॒दिस्सिँ॒ही रू॒पङ्कृ॒त्वोभया॑नन्त॒राप॒क्रम्या॑तिष्ठ॒त्ते दे॒वा अ॑मन्यन्त यत॒रान्वा इ॒यमु॑पाव॒र्त्स्यति॒ त इ॒दम्भ॑विष्य॒न्तीति॒ तामुपा॑मन्त्रयन्त॒ साब्र॑वी॒द्वरव्ँ॑वृणै॒ सर्वा॒न्मया॒ कामा॒न्व्य॑श्ञवथ॒ पूर्वान्तु मा॒ऽग्नेराहु॑तिरश्ञवता॒ इति॒ तस्मा॑दुत्तरवे॒दिम्पूर्वा॑म॒ग्नेर्व्याघा॑रयन्ति॒ वारे॑वृतँ॒ ह्य॑स्यै॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓भ्य उत्तरवेदि᳓स् सिँही᳓ रूप᳓ङ्कृत्वो᳓भ᳓यानन्तरा᳓पक्र᳓म्यातिष्ठत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ The high altar taking the form of a lioness went away and remained between the t
 
 1उत्तरवेद्या व्याघारणं विधास्यन् आह - तेभ्य इत्यादि ॥ देवासुरास्संयत्ता अधिकृताः, ते उभये अपि सर्वनाम्ना अपेक्ष्यन्ते । उत्तरवेदिस्सिंहीः तदीयं च रूपं कृत्वा तेभ्यो देवासुरेभ्योपक्रम्य उभयानन्तरा उभयेषां मध्ये उभयपक्षपरित्यागेन अतिष्ठत्, सिंहीरिति । हल्ङ्यादिलोपाभावश्छान्दसः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ अमन्यन्त  -  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,11 +66,14 @@ The gods reflected,
 
 ते देवा इत्यादि । व्याख्यातप्रायम् । यतरानिति । 'किंयत्तदः' इति इतरच् । तामिति । उपामन्त्रयन्त तामुत्तरवेदिमुपच्छन्दितवन्तो देवाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतरा᳓न्वा᳓ इय᳓मुपावर्त्स्य᳓ति त᳓ इद᳓म् भविष्यन्ती᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -78,11 +89,14 @@ The gods reflected,
 
 य॒त॒रान् । वै । इ॒यम् । उ॒पा॒व॒र्त्स्यतीत्यु॑प-आ॒व॒र्त्स्यति॑ । ते । इ॒दम् । भ॒वि॒ष्य॒न्ति॒ । इति॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓मु᳓पामन्त्रयन्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,11 +112,14 @@ They called to her;
 
 ताम् । उपेति॑ । अ॒म॒न्त्र॒य॒न्त॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ऽब्रवीद् , व᳓रव्ँ वृणै स᳓र्वान् म᳓या का᳓मान्व्य᳙श्ञवथ पू᳓र्वा᳓न् तु᳓ माऽग्ने᳓रा᳓हुतिरश्ञवता इ᳓ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -125,11 +142,14 @@ she said, 'Let me choose a boon; through me shall ye obtain all your desires, bu
 
 तस्मादग्नेः पूर्वमेव उत्तरवेदिं व्याघारयन्ति दक्षिणांसप्रभृति विविधमाघारयन्ति । वारेवृतं ह्येतत् अस्यै अस्या यद्व्याघारणादि । अश्नोतेर्लेटि 'लेटोऽडाटौ' इत्यडागमः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादुत्तरवेदि᳓म् पू᳓र्वामग्ने᳓र् व्या᳓घारयन्ति वा᳓रेवृतँ ह्य᳙स्यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -145,17 +165,23 @@ Therefore do they besprinkle the high altar before (they sprinkle) the fire, for
 
 तस्मा॑त् । उ॒त्त॒र॒वे॒दिमित्यु॑त्तर-वे॒दिम् । पूर्वा॑म् । अ॒ग्नेः । व्याघा॑रय॒न्तीति॑ वि-आघा॑रयन्ति । वारे॑वृत॒मिति॒ वारे॑-वृ॒त॒म् । हि । अ॒स्यै॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 शम्य॑या॒ परि॑ मिमीते [34]  
 मात्रै॒वास्यै॒ साऽथो॑ यु॒क्तेनै॒व यु॒क्तमव॑ रुन्द्धे वि॒त्ताय॑नी मे॒ऽसीत्या॑ह
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श᳓म्यया प᳓रि मिमीते ।[34]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -186,11 +212,14 @@ He measures (it) round with the yoke-pin [1], that is its measure;
 
 एवं मन्त्रब्राह्मणयोरविरोधः, उत्तरवेदिरेव प्रकृतिस्थानीयेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓त्रैवा᳓स्यै सा᳓ ऽथो युक्ते᳓नैव᳓ युक्त᳓म᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -213,11 +242,14 @@ verily also by what is fitting he wins what is fitting.
 
 मात्रा प्रमाणमस्यास्सा शम्या मात्रैव शम्याप्रमाणत्वादस्याः । अथो अपिच युक्तेन योग्येनैव सूक्तं योग्यमवरुन्धे । युक्तकारिणो ह्यर्थं योग्यं लभन्ते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्ता᳓यनी मेऽसी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,16 +265,22 @@ verily also by what is fitting he wins what is fitting.
 
 वि॒त्ताय॒नीति॑ वित्त-अय॑नी । मे॒ । अ॒सि॒ । इति॑ । आ॒ह॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि॒त्ता ह्ये॑ना॒नाव॑त्ति॒क्ताय॑नी मे॒ऽसीत्या॑ह ति॒क्तान्ह्ये॑ना॒नाव॒दव॑तान्मा नाथि॒तमित्या॑ह नाथि॒तान्ह्ये॑ना॒नाव॒दव॑तान्मा व्यथि॒तमित्या॑ह व्यथि॒तान्ह्ये॑ना॒नाव॑द्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्ता᳓ ह्येनाना᳓वत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -275,11 +313,14 @@ for being found (vitta) she helped them;
 
 तदाह - वित्ता लब्धा देवैः देवानावत् अरक्षदिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिक्ता᳓यनी मेऽसी᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -300,11 +341,14 @@ thou art the resort of the afflicted for me', he says,
 
 तिक्तायनीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिक्ता᳓न्ह्येनाना᳓वत्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -325,11 +369,14 @@ for she helped them in affliction;
 
 तिक्तं तेजः तस्य प्रापणी तिक्तायनी । देवानतिक्तान् स्वापक्रमेण अतेजस्कान् तिक्तान् आवत् अरक्षत् तेजस्विनोकरोत् तेजसः प्रापिता तेषामासीत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वतान्मा नाथित᳓मि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +399,14 @@ for she helped them in affliction;
 
 इदमेवैश्वर्यं यद्याचारं रक्षन्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाथिता᳓न् ह्येनाना᳓वत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +422,14 @@ for she protected them when in want;
 
 ना॒थि॒तान् । हि । ए॒ना॒न् । आव॑त् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓वतान्मा व्यथित᳓मि᳓त्याह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +450,14 @@ for she protected them when in want;
 
 व्यथितानिति । व्यथितात् देवानरक्षत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यथिता᳓न् ह्येनाना᳓वत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,17 +473,23 @@ for she protected them when afflicted.
 
 व्य॒थि॒तान् । हि । ए॒ना॒न् । आव॑त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वि॒देर॒ग्निर्नभो॒ नाम॑ [35]  
 अग्ने॑ अङ्गिर॒ इति॒ त्रिर्ह॑रति॒ य ए॒वैषु लो॒केष्व॒ग्नय॒स्ताने॒वाव॑ रुन्द्धे
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदे᳓रग्नि᳓र् न᳓भो ना᳓मा᳓ग्ने अङ्गिर इ᳓ति त्रि᳓र् हरति ।[35]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -448,11 +510,14 @@ for she protected them when afflicted.
 
 4विदेरिति विधिः ॥ य एतेषु त्रिष्वपि लोकेष्वग्नयः तान् सर्वानवरुन्धे ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवै᳓षु᳓ लोके᳓ष्व् अग्न᳓यस् ता᳓नेवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,16 +533,22 @@ verily he wins the fires that are in these worlds.
 
 ये । ए॒व । ए॒षु । लो॒केषु॑ । अ॒ग्नयः॑ । तान् । ए॒व । अवेति॑ । रु॒न्द्धे॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तू॒ष्णीञ्च॑तु॒र्थँ ह॑र॒त्यनि॑रुक्तमे॒वाव॑ रुन्द्धे
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूष्णी᳓ञ् चतुर्थँ᳓ हरत्य᳓निरुक्तमेवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,17 +569,23 @@ He strokes in silence for the fourth time, verily he wins that which is not indi
 
 5तूष्णीमिति विधिः ॥ अनिरुक्तं अव्याकृतमप्रार्थितमिष्टमवरुन्धे ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सिँ॒हीर॑सि महि॒षीर॒सीत्या॑ह सिँ॒हीर्ह्ये॑षा रू॒पङ्कृ॒त्वोभया॑नन्त॒राप॒क्रम्याति॑ष्ठदु॒रु प्र॑थस्वो॒रु ते॑ य॒ज्ञप॑तिᳶ प्रथता॒मित्या॑ह॒ यज॑मानमे॒व प्र॒जया॑ प॒शुभि॑ᳶ प्रथयति ध्रु॒वा [36]  
 अ॒सीति॒ सँ ह॑न्ति॒ धृत्यै॑ दे॒वेभ्य॑श्शुन्धस्व दे॒वेभ्य॑श्शुम्भ॒स्वेत्यव॑ चो॒क्षति॒ प्र च॑ किरति॒ शुद्ध्या॑
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सिँही᳓रसि महिषी᳓रसी᳓"त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -529,11 +606,14 @@ He strokes in silence for the fourth time, verily he wins that which is not indi
 
 6'सिंहीरसि' इति पुरीषसंप्रयणं व्याचष्टे - सिंहीरसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिँही᳓र्ह्येषा रूप᳓ङ् कृत्वो᳓भ᳓यानन्तरा᳓पक्र᳓म्या᳓तिष्ठत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -556,11 +636,14 @@ for it (the high altar) taking the form of a lioness went away and remained betw
 
 'चवायोगे प्रथमा' इति तिङ्विभक्तिर्न निहन्यते । अवोक्षति चाद्भिः प्रकिरति च सिकताभिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु᳓ प्रथस्व + उरु᳓ ते यज्ञ᳓पतिᳶ प्रथतामि᳓त्याह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,11 +659,14 @@ for it (the high altar) taking the form of a lioness went away and remained betw
 
 उ॒रु । प्र॒थ॒स्व॒ । उ॒रु । ते॒ । य॒ज्ञप॑ति॒रिति॑ य॒ज्ञ-प॒तिः॒ । प्र॒थ॒ता॒म् । इति॑ । आ॒ह॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानमेव᳓ प्रज᳓या पशु᳓भिᳶ प्रथयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -596,11 +682,14 @@ verily he enriches the sacrificer with offspring and cattle.
 
 यज॑मानम् । ए॒व । प्र॒जयेति॑ प्र-जया॑ । प॒शुभि॒रिति॑ प॒शु-भिः॒ । प्र॒थ॒य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रुवा᳓ असी᳓ति सँ᳓ हन्ति धृ᳓त्यै [36], देवे᳓भ्यश् शुन्धस्व ,   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -616,11 +705,14 @@ verily he enriches the sacrificer with offspring and cattle.
 
 ध्रु॒वा । अ॒सि॒ । इति॑ । समिति॑ । ह॒न्ति॒ । धृत्यै॑ । दे॒वेभ्यः॑ । शु॒न्ध॒स्व॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्यश् शुम्भस्वे᳓त्य᳓व चोक्ष᳓ति , प्र᳓ च किरति शु᳓द्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -641,17 +733,23 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 शुद्ध्यै भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रघो॒षस्त्वा॒ वसु॑भिᳶ पु॒रस्ता॑त्पा॒त्वित्या॑ह दि॒ग्भ्य ए॒वैना॒म्प्रोक्ष॑ति दे॒वाँश्चेदु॑त्तरवे॒दिरु॒पाव॑वर्ती॒हैव वि ज॑यामहा॒ इत्यसु॑रा॒ वज्र॑मु॒द्यत्य॑ दे॒वान॒भ्या॑यन्त॒ तानि॑न्द्रघो॒षो वसु॑भिᳶ पु॒रस्ता॒दप॑ [37]  
 अ॒नु॒द॒त॒ मनो॑जवाᳶ पि॒तृभि॑र्दक्षिण॒तᳶ प्रचे॑ता रु॒द्रैᳶ प॒श्चाद्वि॒श्वक॑र्मादि॒त्यैरु॑त्तर॒तो यदे॒वमु॑त्तरवे॒दिम्प्रो॒क्षति॑ दि॒ग्भ्य ए॒व तद्यज॑मानो॒ भ्रातृ॑व्या॒न्प्रणु॑दत॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र᳓घोष᳓स्त्वा व᳓सुभिᳶ पुर᳓स्तात्पात्वि᳓त्याह दिग्भ्य᳓ एवै᳓नाम्प्रो᳓क्षति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -674,11 +772,14 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 दिग्भ्य एवेति । प्राच्यादिदिग्भ्योपादाय एनां क्रमेण प्रोक्षति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाँ᳓श्चे᳓दुत्तरवेदि᳓र् उपा᳓ववर्तीहै᳓व᳓ वि᳓ जयामहा इ᳓त्य᳓सुरा व᳓ज्रम् उद्य᳓त्य देवा᳓नभ्या᳙यन्त , ता᳓निन्द्रघोषो᳓ व᳓सुभिᳶ पुर᳓स्ताद᳓पानुदत , [37]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -699,11 +800,14 @@ be bright for the gods', (with these words) he moistens it and scatters (sand) o
 
 देवांश्चेदिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नोजवाᳶ पितृ᳓भिर् दक्षिणतᳶ᳓ , प्र᳓चेता रुद्रैᳶ᳓ पश्चा᳓द् ,  विश्व᳓कर्मादित्यै᳓र् उत्तरतः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -719,11 +823,14 @@ the swift of mind with the Pitrs on the right, the wise one with the Rudras behi
 
 मनो॑जवा॒ इति॒ मनः॑-ज॒वाः॒ । पि॒तृभि॒रिति॑ पि॒तृ-भिः॒ । द॒क्षि॒ण॒तः । प्रचे॑ता॒ इति॒ प्र-चे॒ताः॒ । रु॒द्रैः । प॒श्चात् । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । आ॒दि॒त्यैः । उ॒त्त॒र॒त इत्यु॑त्-त॒र॒तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देव᳓मुत्तरवेदि᳓म् प्रोक्ष᳓ति , दिग्भ्य᳓ एव᳓ त᳓द् य᳓जमानो भ्रा᳓तृव्यान् प्र᳓णुदते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -750,16 +857,22 @@ In that he sprinkles the high altar, verily thus does the sacrificer repel his f
 
 'सावेकाचः' इति दिग्भ्यो विभक्तेरुदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इन्द्रो॒ यती॑न्त्सालावृ॒केभ्य॒ᳶ प्राय॑च्छ॒त्तान्द॑क्षिण॒त उ॑त्तरवे॒द्या आ॑द॒न्यत्प्रोक्ष॑णीनामु॒च्छिष्ये॑त॒ तद्द॑क्षिण॒त उ॑त्तरवे॒द्यै नि न॑ये॒द्यदे॒व तत्र॑ क्रू॒रन्तत्तेन॑ शमयति॒ यन्द्वि॒ष्यात्तन्ध्या॑येच्छु॒चैवैन॑मर्पयति ॥ [38]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रो य᳓तीन्त् सालावृके᳓भ्यᳶ प्रा᳓यच्छत् , ता᳓न्दक्षिणत᳓ उत्तरवेद्या᳓ आदन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -784,11 +897,14 @@ Indra gave the Yatis to the Salavrkas; them they ate on the right of the high al
 
 तान् हत्वेन्द्रः सालावृकेभ्यः प्रायच्छत् । तानुत्तरवेद्या दक्षिणतः आदन् अभक्षयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रो᳓क्षणीनाम् उच्छि᳓ष्येत त᳓द् दक्षिणत᳓ उत्तरवेद्यै᳓ नि᳓ नयेद् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -809,11 +925,14 @@ Whatever is left of the sprinkling waters he should pour on the right of the hig
 
 तस्माद्यत्प्रोक्षणीनामतिरिच्येत्, तदुत्तरवेद्या दक्षिणतो निनयेत् इति विधिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓देव᳓ त᳓त्र क्रूर᳓न् त᳓त् ते᳓न शमयति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -836,11 +955,14 @@ whatever cruel is there that he appeases thereby.
 
 इति षष्ठे द्वितीये सप्तमोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓न् द्विष्या᳓त् त᳓न् ध्यायेच् छुचै᳓वै᳓नमर्पयति ॥ [38]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -855,4 +977,5 @@ He should think of whomever he hates; verily he brings affliction upon him.
 <details><summary>पद-पाठः</summary>
 
 यम् । द्वि॒ष्यात् । तम् । ध्या॒ये॒त् । शु॒चा । ए॒व । ए॒न॒म् । अ॒र्प॒य॒ति॒ ॥
+</details>
 </details>

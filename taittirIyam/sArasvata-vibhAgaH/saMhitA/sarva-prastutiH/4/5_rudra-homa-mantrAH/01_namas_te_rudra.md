@@ -2,6 +2,8 @@
 title = "०१ नमस्ते रुद्र"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
  - १-१५ अनुष्टुप्, ३ विषमपदा बृहती,
@@ -15,6 +17,7 @@ title = "०१ नमस्ते रुद्र"
 २११२ कल्पः—“शतरुद्रीयं जुहोति जतिलयवाग्वा वा गवीधुकयवाग्वा वा जर्तिलगवीधुकसक्तुभिर्वा कुशयवसर्पिषाऽजाक्षीरेण मृगीक्षीरेण वाऽर्कपर्णेनोदङ्तिष्ठ न्नुत्तरस्य पक्षस्य उत्तरामपस्यां स्रक्त्यां विकर्ण्यां स्वयमातृण्णायामनुपरिचारं (क्रामं) वा नमस्ते रुद्र मन्यव इत्येताननुवाकांस्त्रेधा विभज्यापि वा प्रथमादुपक्रम्य नमस्तक्षभ्य इति जानुदघ्ने धारयमाणो रथकारेभ्य इत्युपक्रम्य नमः स्वायुधायेति नाभिदघ्ने शेषेण प्रागवसानेभ्य आस्यदघ्ने हुत्वा सहस्राणि सहस्रश इति दशावदानानि हुत्वाऽन्वारोहाञ्जुहोति नमो रुद्रेभ्यो ये पृथिव्यामिति जानुदघ्ने धारयमाणे नमो रुद्रेभ्यो येऽन्तरिक्ष इति नाभिदघ्ने नमो रुद्रेभ्यो ये दिवीत्यास्यदघ्ने हुत्वैतानेव यजमानं वाचयित्वैतानेव विपरीतान्प्रत्यवरोहान्हुत्वा संचरे पशूनामर्कपर्णमुदस्यति यं द्विष्यात्तस्य संचर इति” इति।  
 तत्र प्रथमानुवाके प्रथमामृचमाह— नमस्ते रुद्रेति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -23,6 +26,8 @@ title = "०१ नमस्ते रुद्र"
 न᳓मस्ते अस्तु **ध᳓न्वने**  
 **बाहु᳓भ्या्** अुत᳓ ते न᳓मः ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -53,10 +58,14 @@ And homage to thine arms.
 उतापि च ते बाहुभ्यां त्वदीयाभ्यां धनुर्बाणोपेताभ्यां हस्ताभ्यां नमोऽस्तु।  
 एतत्सर्वान्वौरिष्वेव प्रवर्ततां न तु मयीत्यभिप्रायः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयामृचमाह— या त इषुरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -66,6 +75,8 @@ And homage to thine arms.
 शिवा᳓ शरव्या᳙+++(=इषुधिः)+++ या तव  
 त᳓या नो रुद्र **मृडय** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,10 +102,14 @@ Be gentle to us, O Rudra.
 हे रुद्र ते त्वदीया येयमिषुः शिवतमा शान्ततमा बभूव तथा ते त्वदीयं यद्धनुः शिवं शान्तं बभूव, तथा या च तव **शरव्या** तवेषुधिस् तया शान्तयेष्वा तेन च शान्तेन धनुषा तया च शान्तया शरव्यया नो ऽस्मान्मृडय सुखय।  
 भक्तेषु प्रवृत्त्यभावात्तेषां शान्तत्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामृचमाह— या ते रुद्रेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -104,6 +119,8 @@ Be gentle to us, O Rudra.
 त᳓या नस् तनु᳓वा श᳓न्तमया  
 गि᳓रि-शन्त+++(←शम्)+++ +अभि᳓ **चाकशीहि** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -137,10 +154,14 @@ O haunter of the mountains, do thou look on us.
 तथाविध हे रुद्र शंतमयाऽतिशयेन सुखकारिण्या तया तनुवा **ऽभिचाकशीहि** मामभिलक्ष्य प्रकाशं करु।  
 एतादृशीं त्वदीयां तुनं प्रकाश्य मां सुखिनं कुर्वित्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमृचमाह— यमिषुमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +171,8 @@ O haunter of the mountains, do thou look on us.
 **शिवा᳓ङ्** गिरि-त्र! ता᳓ङ् **कुरु**  
 **मा᳓ हिँसीᳶ** पु᳓रुषञ् ज᳓गत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,10 +199,14 @@ That make thou kindly, O guardian of mountains; Harm not the world of men.
 तथाविध हे रुद्र तां हस्ते घृतामिषुं शिवामस्मासु शान्तां कुरु।  
 पुरुषमस्मदीयं मनुष्यं जगन्मनुष्यव्यतिरिक्तमपि जङ्गमं गवादिकं मा हिंसीः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— शिवेन वचसेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -189,6 +216,8 @@ That make thou kindly, O guardian of mountains; Harm not the world of men.
 य᳓था नस् स᳓र्वम् इ᳓ज् ज᳓गद्  
 अयक्ष्मँ᳓ **सुम᳓ना अ᳓सत्** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -214,10 +243,14 @@ Be free from sickness and of good cheer.
 गिरौ कौलासे शेते तिष्टतीति गिरिशः।  
 हे गिरिश त्वामच्छ प्राप्तुं शिवेन मङ्गलेन स्तुतिरूपेण वचसा वदामसि वयं प्रार्थयामहे यथा येन प्रकारेण नोऽस्मददीयं सर्वमिज्जगन्सर्वमपि मनुष्यपश्वादिकं जङ्गप्रजातमयक्ष्मं रोगरहितं सुमना असत्सौमनस्योपेतं भवति तथा कुरु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह– अध्यवोचदिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +260,8 @@ Be free from sickness and of good cheer.
 अ᳓हीँश् च स᳓र्वाञ् **जम्भ᳓यन्त्**  
 स᳓र्वाश् च यातुधान्यः᳙ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -255,10 +290,14 @@ And all sorceries.
 भिषगेतस्य ध्यानमात्रेण सर्वरोगोपशमनादयं चिकित्सकः।  
 किं कुर्वन्, अहींश्च सर्वान्सर्पब्याघ्रादन्सिर्वानपि सर्वाश्च यातुधान्यः सर्वा अपि राक्षसजातीर्जम्भयंन्विनाशयन्।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह— असौ यस्ताम्र इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -268,6 +307,8 @@ And all sorceries.
 ये᳓ चेमाँ᳓ रुद्रा᳓ अभि᳓तो दिक्षु᳓ [2]   
 **श्रिता᳓स्** सहस्रशो᳓ **ऽवैषाँ हे᳓ड ईमहे** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -299,10 +340,14 @@ Their wrath do we deprecate.
 ते च सह  २११४ स्त्रशोऽनेकसहस्रसंख्याका।  
 एषामादित्यतद्रश्मिरूपाणां सर्वेषां रुद्राणां हेडः क्रोधसदृशं तीक्ष्णत्वमवेमहे भक्तिनमस्कारादिना निवारयामः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्टमीमाह— असौ योऽयेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -314,6 +359,8 @@ Their wrath do we deprecate.
 उतै᳓नव्ँ वि᳓श्वा भूता᳓नि  
 स᳓ **दृष्टो᳓ मृडयाति** नः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -349,10 +396,14 @@ May be, seen, be gentle unto us.
 कैलासादिवर्ति रुद्रस्य रूपं तु वेदशास्त्राभिज्ञैरेव दृश्यते नान्यैः।  
 तादृशो रुद्रो दृष्टः सन्नोऽस्मान्मृडयाति सुखिनः करोत्वित्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ नवमीमाह— नमो अस्त्विति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -362,6 +413,8 @@ May be, seen, be gentle unto us.
 अ᳓थो ये᳓ अस्य +++(भृत्यरूपाः)+++ स᳓त्वानो  
 ऽह᳓न् ते᳓भ्यो **ऽकरन् न᳓मः** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,10 +442,14 @@ I have paid my homage.
 तादृशाय रुद्राय नमोऽस्तु।  
 अथो अपि च ये केचिदस्य रुद्रस्य **सत्त्वानो** भृत्यरूपाः प्राणिनस्तेभ्यः सर्वेभ्योऽहं नमोऽकरं नमस्करोति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ दशमीमाह— प्र मुञ्चेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +459,8 @@ I have paid my homage.
 या᳓श्च ते ह᳓स्त इ᳓षवः [3]   
 **प᳓रा** ता᳓ भगवो **वप** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -429,10 +488,14 @@ The arrows in thy hand [3].
 उभयोर् **आर्त्नियोः** कोट्योर् अवस्थितां ज्यां मौर्वीं प्रमुञ्चावरोपय।  
 याश्व ते हस्त इषवो वर्तन्ते ता अपि परावप परित्यज।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथैकादशीमाह— अवतत्येति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -442,6 +505,8 @@ The arrows in thy hand [3].
 **निशी᳓र्य** +++(बाण-)+++शल्या᳓नाम् मु᳓खा  
 शिवो᳓ नस् **सुम᳓ना भव** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -468,10 +533,14 @@ Be gentle and kindly to us.
 शतसंख्याका इषुधयो बाणस्थापनकोशा यस्यासौ शतेषुधिः।  
 तादृश हे रुद्र धनुरवतत्यावरोषितज्याकं कृत्वा शल्यानां मुखा मुकानिषुगतलोहानामग्राणि नि शीर्येषुधिषु न्यग्भावेन शीर्णानि कृत्वा नोऽस्मान्प्रति सुमना अनुग्रहयुक्तः सञ्शिवः शान्तो भव।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वादशीमाह— विज्यं धनुरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -481,6 +550,8 @@ Be gentle and kindly to us.
 अ᳓नेशन्न्+++(←नश्)+++ अस्ये᳓षव  
 आभु᳓र् अस्य निषङ्ग᳓थिः+++(=निषङ्ग-धिः इति माध्यन्दिनो वरः)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -515,10 +586,14 @@ Empty is his quiver.
 न तु बाणाकर्षण-योग्य इत्यर्थः।  
 अथवा **निषङ्गथिः** खड्गाकर्षण-समर्थः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अश्च त्रयोदशीमाह— या ते हेतिरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,6 +603,8 @@ Empty is his quiver.
 त᳓यास्मा᳓न् विश्व᳓तस् त्व᳓म्  
 अयक्षम᳓या **प᳓रि भुज** ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -552,10 +629,14 @@ Free from sickness.
 
 हे मीढुष्टमातिशयेन कामभिवर्पक या ते हेतिस्तव संबन्धि खड्गादिरूपं यदायुधं, यदपि ते तव हस्ते धनुर्वभूव, अयक्ष्मयाऽनुपद्रवकारिण्या तया हेत्या तथाविधेन धनुषा च त्वमस्मीन्विश्वतः **परिभुज** सर्वतः परिपालय।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्दशीमाह— नमस्ते अस्त्विति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -563,6 +644,8 @@ Free from sickness.
 **न᳓मस्** ते अस्त्व् आ᳓युधाय+ अ᳓नातताय धृष्ण᳓वे ।   
 उभा᳓भ्याम् उत᳓ ते न᳓मो बाहु᳓भ्यान् त᳓व ध᳓न्वने ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -590,10 +673,14 @@ To thy bow.
 किंच ते त्वदीयाभ्यामुभाभ्यां बाहुभ्यां नमोऽस्तु।  
 तथा तव त्वदीयाय धन्वने नमोऽस्तु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चदशीमाह— परि ते धन्वन इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -603,6 +690,8 @@ To thy bow.
 अ᳓थो य᳓ इषुधि᳓स् त᳓वारे᳓  
 अस्म᳓त्+ **नि᳓ धेहि** त᳓म् ॥ [4]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -630,6 +719,7 @@ This quiver that is thine.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके  प्रथमोऽनुवाकः ॥
    १॥
+</details>
 </details>
 
 चतुर्थकाण्डे पञ्चमप्रपाठके द्वितीयोऽनुवाकः

@@ -6,6 +6,8 @@ title = "०८ उपस्थान-ब्राह्मणम्"
 
 ## पशवः
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ गृहपश्वाद्युपस्थानमन्त्राणां ब्राह्मणम् - सं पश्यामीत्यादि ॥
@@ -17,12 +19,15 @@ _______
 याव॑न्त ए॒व ग्रा॒म्याᳶ प॒शव॒स्ताने॒वाव॑ रु॒न्धे
 अम्भ॒स्स्थाम्भो॑ वो भक्षी॒येत्या॒ह 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स᳓म्पश्यामि प्रजा᳓ अह᳓म्" इ᳓त्य् आह ।  
 या᳓वन्त एव᳓ ग्राम्याᳶ᳓ पश᳓वस् ता᳓न् एवा᳓व रुन्धे᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,12 +51,15 @@ verily he wins all the domesticated animals.
 
 गृहाणां पशूनां चोपस्थानमन्त्रः । ग्राम्याः पशवो गोश्वाजाविपुरुषगर्दभोष्ट्रास्सप्त ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓म्भस् स्थ, अ᳓म्भो वो भक्षीये᳓त्याह᳓ ।  
 अ᳓म्भो ह्ये᳙ताः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -73,11 +81,14 @@ verily he wins all the domesticated animals.
 
 2अम्भो ह्येता इति ॥ अदनीयं क्षीराद्यन्नम् अम्भः । 'अदेर्नुम्भश्च' इत्यसुन् । तत्-साधनत्वात् ताच्छब्द्यं गवाम् । एवं सर्वत्र द्रष्टव्यम्॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓हस् स्थ, म᳓हो वो भक्षीये᳓त्याह।  म᳓हो ह्ये᳙ताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -98,11 +109,14 @@ verily he wins all the domesticated animals.
 
 3महः पूजा ब्रह्म वा, यागादिद्वारेण तत्साधनत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓हस्स्थ, स᳓हो वो भक्षीये᳓त्याह स᳓हो ह्ये᳙ताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -123,11 +137,14 @@ verily he wins all the domesticated animals.
 
 4सहो बलं, घृतादीनां बलहेतुत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्ज स्थ᳓, ऊ᳓र्जव्ँवो भक्षीये᳓त्य् आ᳓ह᳓। ऊ᳓र्जो ह्य् ए᳙ताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,10 +165,14 @@ verily he wins all the domesticated animals.
 
 5ऊर्जः क्षीरादिरसः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रेव॑ती॒ रम॑ध्व॒मित्या॑ह प॒शवो॒ वै रे॒वतीः॑ प॒शूने॒वात्मन् र॑मयत इ॒हैव स्ते॒तो माऽप॑ गा॒तेत्या॑ह 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +181,8 @@ verily he wins all the domesticated animals.
 पश᳓वो वै᳓ रेव᳓तीः।  
 पशू᳓न् एवा᳓त्म᳓न् रमयते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,12 +206,15 @@ verily he makes cattle stay with himself.
 
 6पशवो वै रेवतीः रैवत्यः, क्षीरादिसाधनेन तद्वत्त्वात् । 'रयेर्मतौ बहुलम्' इति सम्प्रसारणम्, 'वाच्छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । रेवतीशब्दः पशूनां संज्ञात्वेनाजहत्स्वलिङ्ग एव पशुषु वर्तते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहै᳓व᳓ स्तेतो᳓ मा᳓ऽप गाते᳓त्याह ।
 ध्रुवा᳓ एवै᳓ना अ᳓नपगाᳵ कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,10 +236,14 @@ verily he makes cattle stay with himself.
 
 7ध्रुवा नित्याः अनपगाः अनपाक्ताः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इष्टक॒चिद्वा अ॒न्यो॑ऽग्निᳶ प॑शु॒चिद॒न्यस्सँ॑हि॒तासि॑ विश्वरू॒पीरिति॑ व॒त्सम॒भि मृ॑श॒त्युपै॒वैन॑न्धत्ते पशु॒चित॑मेनङ्कुरुते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +251,8 @@ verily he makes cattle stay with himself.
 इष्टकचि᳓द् वा᳓ अन्यो᳙ ऽग्निः ।  
 पशुचि᳓द् अन्यः᳓  +++(अग्निः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,6 +278,7 @@ Now one fire is piled with bricks, one with cattle.
 
 पशुभिर् एको ऽग्निश् चीयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -253,6 +286,8 @@ Now one fire is piled with bricks, one with cattle.
 उ᳓पैवै᳓नन् धत्ते।  
 पशुचि᳓तम् एनङ् +++(अग्निं)+++ कुरुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,11 +311,15 @@ verily he piles it up and makes it piled with cattle.
 
 तत्र 'संहिता' इति मन्त्रेणाग्निहोत्रीवत्सस्याभिमर्शनेन उपधान-स्थानीयेन एवं वत्सम् उपधत्ते । पशुचितम् एनमग्निं कर्वाणो भवति ॥
 </details>
+</details>
 
 ## गार्हपत्यम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्र [32]वा ए॒षो॑ऽस्माल्लो॒काच्च्य॑वते॒ य आ॑हव॒नीय॑मुप॒तिष्ठ॑ते॒ गार्ह॑पत्य॒मुप॑ तिष्ठते॒ऽस्मिन्ने॒व लो॒के प्रति॑ तिष्ठ॒त्यथो॒ गार्ह॑पत्यायै॒व नि ह्नु॑ते  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +327,8 @@ verily he piles it up and makes it piled with cattle.
 प्र᳓ वा᳓ एषो᳙ ऽस्माल् लोका᳓च् च्यवते  
 य᳓ आहवनी᳓यमुपति᳓ष्ठते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,6 +350,7 @@ He falls away [2] from this world who pays reverence to the Ahavaniya;
 
 9प्र वा एष इत्यादि ॥ 'सुवर्गो लोक आहवनयिः' इत्यन्यत्र दर्शनात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -316,6 +358,8 @@ He falls away [2] from this world who pays reverence to the Ahavaniya;
 अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ।  
 अ᳓थो गा᳓र्हपत्यायैव᳓ नि᳓ ह्नुते +++(आहवनीय-वन्दनेनोपेक्षाम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -339,11 +383,15 @@ verily he rests on this world, and also he makes amends to the Garhapatya.
 
 गार्हपत्यमिति । 'गृहपतिना संयुक्ते ञ्यः' । अथो अपि च उपस्थानेन गार्हपत्याय निह्नुते प्रह्वीभवति । यद्वा - आहवनीयं छादयति । त्वमेवोपस्थेय इति ॥
 </details>
+</details>
 
 ### गायत्र्यः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 गाय॒त्रीभि॒रुप॑ तिष्ठते॒ तेजो॒ वै गा॑य॒त्री तेज॑ ए॒वात्मन्ध॒त्तेऽथो॒ यदे॒तन्तृ॒चम॒न्वाह॒ सन्त॑त्यै 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -351,6 +399,8 @@ verily he rests on this world, and also he makes amends to the Garhapatya.
 गायत्री᳓भिर् उ᳓प  तिष्ठते ।  
 ते᳓जो वै᳓ गायत्री᳓ - ते᳓ज एवा᳓त्म᳓न् धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,11 +424,14 @@ the Gayatri is brilliance; verily he confers brilliance upon himself;
 10गायत्रीभिरिति ॥ 'उप त्वाग्ने दिवेदिवे' इत्येताभिस्तिसृभिः ।
 तेजो वा इति । पूर्ववत्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो य᳓द् एत᳓न् तृच᳓म् अन्वा᳓ह - स᳓न्तत्यै +++(तत्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -399,12 +452,16 @@ moreover in that he repeats the triad (of verses), (it serves) for continuity.
 
 अथो अपि च एतस्य तृचस्यानुवचनं सन्तत्यै भवति । 'पितेव सूनवे' इति च मन्त्रपदम् । 'तादो च' इति गतेः प्रकृतिस्वरत्वम् । तिस्र ऋचस्समाहृताः । 'ऋक्पूरब्धूः' इति समासान्तः, 'ऋचि त्रेरुत्तरपदादिलोपश्च' इति सम्प्रसारणम् ॥
 </details>
+</details>
 
 ### द्विपदाः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 गार्ह॑पत्यव्ँ॒ वा अनु॑ द्वि॒पादो॑ वी॒राᳶ प्र जा॑यन्ते॒ य  ए॒वव्ँवि॒द्वान्द्वि॒पदा॑भि॒र्गार्ह॑पत्यमुप॒तिष्ठ॑ते [33]आऽस्य॑ वी॒रो जा॑यत  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +470,8 @@ moreover in that he repeats the triad (of verses), (it serves) for continuity.
 य᳓ एव᳓ व्ँविद्वा᳓न् द्विप᳓दाभिर् गा᳓र्हपत्यम् उपति᳓ष्ठते -  
 आ᳓ऽस्य वीरो᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -436,10 +495,14 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 
 द्विपदाभिरिति । 'अग्ने त्वं नः' इति तिसृभिर्द्विपदाभिर्विराड्गायत्रीभिरिति । पूर्ववत्समासान्तः, 'टावृचि' इति टापि, 'पादः पत्' इति पद्भावः, 'द्वित्रिभ्यां पाद्दन्' इत्युभयत्राप्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऊ॒र्जा वᳶ॑ पश्याम्यू॒र्जा मा॑ पश्य॒तेत्या॑हा॒ऽऽशिष॑मे॒वैतामा शा॑स्ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +510,8 @@ Because of the Garhapatya men are born with two feet; to him who knowing thus pa
 "ऊर्जा᳓ वᳶ पश्याम्य्, ऊर्जा᳓ मा पश्यते᳓"त्याह ।  
 आशि᳓षम् एवै᳓ता᳓म् आ᳓ शास्ते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -470,12 +535,15 @@ verily he invokes this blessing.
 
 12ऊर्जा व इत्यादि ॥ अयमपि ग्रहपशूपस्थानमन्त्रः । पुष्यासं श्रयन्तामित्येतामाशिषमाशास्ते ॥
 </details>
+</details>
 
 ## आहवनीयोपस्थानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त᳓त् सवितु᳓र् व᳓रेण्यम्" इ᳓त्याह - प्र᳓सूत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,10 +564,14 @@ verily he invokes this blessing.
 
 13तत्सवितुरिति आहवनीयोपस्थानम् ॥ प्रसूत्यै अनुज्ञानाय भवति । पूर्ववद्गतिस्वरः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सो॒मानँ॒ स्वर॑ण॒मित्या॑ह सोमपी॒थमे॒वाव॑ रुन्धे कृणु॒हि ब्र॑ह्मणस्पत॒ इत्या॑ह ब्रह्मवर्च॒समे॒वाव॑ रुन्धे  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,6 +579,8 @@ verily he invokes this blessing.
 सोमा᳓नँ स्व᳓रणम् इ᳓त्य् आह ।  
 सो᳓म᳓-पीथ᳓म्+++(=पानम्)+++ एवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,12 +604,15 @@ verily he wins the Soma draught.
 14सोमानम् इत्याहवनीयोपस्थानम् एव ॥  
 **सोमपीथम् एव** सोम-पानम् एव अनेनावरुन्धे । पिबतेरौणादिकस्थक्प्रत्ययः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "कृ᳓णुहि᳓ ब्रह्मणस्पत" इ᳓त्याह  ।
 ब्रह्मवर्चस᳓म् एवा᳓व रुन्धे।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -558,11 +635,15 @@ verily he wins splendour.
 
 15ब्रह्मवर्चसमिति ॥ 'ब्रह्महस्तिभ्यां वर्चसः' इत्यत् ॥
 </details>
+</details>
 
 ## रात्र्युपस्थानम्
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 क॒दा च॒न स्त॒रीर॒सीत्या॑ह न स्त॒रीँ रात्रिव्ँ॑वसति [34]य ए॒वव्ँवि॒द्वान॒ग्निमु॑प॒तिष्ठ॑ते 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -571,6 +652,8 @@ verily he wins splendour.
 न᳓ स्तरीँ᳓+++(=वन्ध्यां)+++ रा᳓त्रिव्ँ वसति  
 य᳓ एवव्ँ᳓ विद्वा᳓न् अग्नि᳓म् उपति᳓ष्ठते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -596,12 +679,16 @@ who knowing thus pays reverence to the fire.
 
 य एवमस्य मन्त्रस्यार्थं विद्वानग्न्यात्मिकां रात्रिमुपतिष्ठते स स्तरीं छादयित्रीं विनाशयित्रीं रात्रिं न वसति, अपि तु सुखयित्रीमेवाधिवसति सुखहेतुरेव भवतीति यावत् । 'अवितृस्तृतन्त्रिभ्य ईः' इतीप्रत्ययः ॥
 </details>
+</details>
 
 ## गार्हपत्योपस्थानम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 परि॑ त्वाग्ने॒ पुरव्ँ॑व॒यमित्या॑ह परि॒धिमे॒वैतम्परि॑ दधा॒त्यस्क॑न्दा॒य 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +696,8 @@ who knowing thus pays reverence to the fire.
 "प᳓रि त्वा ऽग्ने पु᳓रव्ँ वय᳓म्" इ᳓त्याह ।  
 प᳓रिधि᳓म् एवै᳓त᳓म् प᳓रि दधात्य् +अ᳓स्कन्दाय᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -631,11 +720,14 @@ verily he sets around a barrier, that nothing be spilt.
 
 17परि त्वेति गार्हपत्योपस्थानम् ॥ इममेव मन्त्रं परिध्यात्यकं परितस्सर्वतो दधाति । तच्चास्कन्दायाग्नेर्भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓ग्ने गृहपत" इ᳓त्याह यथा यजु᳓र् एवै᳓त᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -656,10 +748,14 @@ verily he sets around a barrier, that nothing be spilt.
 
 18अग्ने गृहपत इति गार्हपत्योपस्थानमेव ॥ अत्र सूगृहपतित्वादिफलं यथा यजुर्वदति तथा भवत्येव ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 श॒तँ हिमा॒ इत्या॑ह श॒तन्त्वा॑ हेम॒न्तानि॑न्धिषी॒येति॒ वावैतदा॑ह
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +763,8 @@ verily he sets around a barrier, that nothing be spilt.
 "शतँ᳓ हि᳓मा" इ᳓त्याह -  
 +++(तेन)+++ शत᳓न् त्वा हेमन्ता᳓न् इन्धिषीये᳓ति वा᳓वै᳓त᳓द् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -688,11 +786,15 @@ verily he sets around a barrier, that nothing be spilt.
 
 19शतं त्वेति ॥ हिमशब्देन संवत्सराभिधानमुक्तम् । इन्धिषीयेति । इदमेव सुगृहपतित्वमिति ॥
 </details>
+</details>
 
 ### पुत्राशिषः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पु॒त्रस्य॒ नाम॑ गृह्णात्यन्ना॒दमे॒वैन॑ङ्करोति॒ तामा॒शिष॒मा शा॑से॒ तन्त॑वे॒ ज्योति॑ष्मती॒मिति॑ ब्रूयात्  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -700,6 +802,8 @@ verily he sets around a barrier, that nothing be spilt.
 पुत्र᳓स्य ना᳓म गृह्णाति ।  
 अन्नाद᳓म् एवै᳓नङ् करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -723,11 +827,14 @@ verily he makes him an eater of food.
 20पुत्रस्येति ॥ अमुष्मा इत्यत्र यथा नारायणाय केशवायेति ।  
 अन्नादमिति । इदमेव ज्योतिष्मत्त्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ता᳓म् आशि᳓षम् आ᳓ शासे त᳓न्तवे ज्यो᳓तिष्मतीम्" इ᳓ति ब्रूयाद् य᳓स्य पुत्त्रो᳓ऽजातस् स्या᳓त् - तेजस्व्य् ए᳙वा᳓स्य ब्रह्मवर्चसी᳓ पुत्त्रो᳓ जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -750,16 +857,22 @@ who has no son born; verily is born to him a son brilliant and resplendent.
 
 21यस्य पुत्र इति ॥ यस्याजातः पुत्रः तस्य तन्तव इति ब्रूयात् असन्निहितत्वात् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तामा॒शिष॒मा शा॑से ऽमुष्मै॒ ज्योति॑ष्मती॒मिति॑ ब्रूया॒द्यस्य॑ पु॒त्त्रो जा॒तस्स्यात्तेज॑ ए॒वास्मि॑न्ब्रह्मवर्च॒सन्द॑धाति ॥[35]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ता᳓म् आशि᳓षम् आ᳓ शासे अमु᳓ष्मै ज्यो᳓तिष्मतीम्" इ᳓ति ब्रूयाद् य᳓स्य पुत्त्रो᳓ जात᳓स् स्या᳓त् - ते᳓ज  एवा᳓स्मिन् ब्रह्म-वर्चस᳓न् दधाति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,4 +896,5 @@ who has no son born; verily is born to him a son brilliant and resplendent.
 अमुष्मा इति जातं निर्देष्टुं शक्यत इति तन्तव इत्युच्यते । अमुष्मा इति जातपुत्रस्य, अदश्-शब्दस्य सन्निहितविषयत्वात् ॥
 
 इति पञ्चमे अष्टमोनुवाकः ॥  
+</details>
 </details>

@@ -15,6 +15,8 @@ title = "०१ अग्निसंस्कारेषु परिषेच
 अद्भ्य᳓ ओ᳓षधीभ्यो व᳓नस्प᳓तिभ्यो᳓ऽधि स᳓म्भृतान्ता᳓न्न इ᳓षमू᳓र्जन्धत्त मरुतस्सँरराणाः᳓ ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 The strength resting on the stone, the bill,  
@@ -52,17 +54,23 @@ That food and strength do ye, O Maruts, bounteously bestow upon us.
 कीदृशमिषम्, अश्मन्पाषाणे पर्वते मेरुविन्ध्यहिमवदादौ वात प्रचण्डवायौ पर्जन्ये वर्षणक्षमे प्रौढे मेघे वरुणस्य शुष्मे वरुणसंवन्धिनि बले च शिश्रियाणामाश्रितामूर्जं सारभूतां, तथाऽद्भ्यो जलेभ्य ओषधीम्यो व्रीहियवादिम्यो वनस्पतिम्य उदुम्बरादिम्यः सकाशादधिसंभृतामधिकत्वेन सम्यक्संपादिताम्।  
 यदन्नमश्मादिष्वाश्रित्य सारत्वेनावतिष्ठते, यच्च जलादिम्यः संपाद्यते, यदप्यस्माकं बलहेतुस्तथाविधमन्नं प्रयच्छ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—  “अश्मँस्ते क्षुदुमं ते शुगृच्छत्विति त्रिरपरिषिञ्चन्प्रति पर्येति” इति।  
 पाठस्तु— अश्मँस्ते क्षुदमुमिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓श्मँस्ते क्षु᳓दमु᳓न्ते शु᳓गृच्छतु य᳓न्द्विष्मः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,11 +99,15 @@ In the stone is thy hunger; let thy pain reach N. N., whom we hate.
  “त्रिः पुनः पर्येति षट्सं पद्यन्ते षडवा ऋतव ऋतुभिरेवास्य शुचँ शमयति” [सं. का. ५ प्र. ४ अ. ४] इति।  
 पूर्वेण प्रदक्षिणत्रयेण सह षट्संख्यासंपत्तिः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “अवकां वेतसशाखां मण्डूकं च दीर्घवंशे प्रवघ्य समुद्रस्य त्वाऽवाकयेति सप्तभिरष्टभिर्वाऽग्निं विकर्षति” इति।  
 तत्र प्रथमामाह— समुद्रस्य त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -103,6 +115,8 @@ In the stone is thy hunger; let thy pain reach N. N., whom we hate.
 समुद्र᳓स्य त्वाऽवा᳓कया᳓ग्ने प᳓रि व्ययामसि ।  
 पा᳓वको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -129,10 +143,14 @@ Be thou purifying and auspicious to us.
 उपरिभागे सर्वत्र विकर्षामीत्यर्थः।  
 त्वं च स्मभ्यमस्तदर्थं पावकः शोधकः शिवः शान्तश्च भव।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वीतीवामाह— हिमस्य त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +158,8 @@ Be thou purifying and auspicious to us.
 हिम᳓स्य त्वा जरा᳓युणा᳓ग्ने प᳓रि व्ययामसि ।  
 पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,10 +184,14 @@ Be thou purifying and auspicious to us.
 हेऽग्ने त्वां हिमस्य शैत्यस्य जरायुणा जरायुवदुत्पत्ति स्थानीयेन शैवालेन।  
 शेषं पूर्ववत्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— उप ज्मन्नुपेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +199,8 @@ Be thou purifying and auspicious to us.
 उ᳓प [1]  ज्म᳓न्नु᳓प वेतसे᳓ऽवत्तरन्नदी᳓ष्वा᳓ ।  
 अ᳓ग्ने पित्त᳓मपा᳓मसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,10 +227,14 @@ Thou, O Agni, art the bile of the waters,
 तथा नदीष्वा नदीणलेष्वपि अवत्तरमतिशयेन रक्षकत्वे यथा भवति तथोपोगतो वर्तसे।  
 तथा त्वमपां पित्तमसि तेजोऽसि।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ चतुर्थीमाह— भण्डृकि ताभिरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +242,8 @@ Thou, O Agni, art the bile of the waters,
 म᳓ण्डूकि ता᳓भिरा᳓ गहि से᳓म᳓न्नो यज्ञ᳓म् ।  
 पावक᳓वर्णँ शिव᳓ङ्कृधि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -235,10 +267,14 @@ Do thou make this sacrifice of ours
 हे मण्ढुकि मण्डूकजातीये ताभिः समनश्वर्रोक्ताभिर्ऋग्मिः सहाऽऽगह्यागच्छ।  
 सा त्वमिमनुष्ठीयमानं नो॑ऽमदीयं यज्ञं पावक वर्णमग्निसमानते॑जस्कं शिवं फलप्रदत्वेत शान्त कृधि कुरु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पञ्चमीमाह— पावक आ इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +282,8 @@ Do thou make this sacrifice of ours
 पावक᳓ आ᳓ चित᳓यन्त्या कृपा᳓ ।  
 क्षा᳓मन्रुरुच᳓ उष᳓सो न᳓ भानु᳓ना ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -272,10 +310,14 @@ On earth he hath shone as with the light of dawn.
 तत्र दृष्मान्तः—उषसो न भानुना।  
 उषःकालसंबन्धिना प्रकाशेन यथा पदार्था दीप्यन्ते तद्वत्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ षष्ठीमाह— तूर्वन्न यामन्निति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -283,6 +325,8 @@ On earth he hath shone as with the light of dawn.
 तू᳓र्वन्न᳓ या᳓मन्ने᳓तशस्य नू᳓ र᳓ण आ᳓ यो᳓ घृणे᳓ ।  
 न᳓ ततृषाणो᳓ अज᳓रः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -307,10 +351,14 @@ In the heat unathirst, immortal.
 योऽग्निरेतशस्य गमनकुशलस्याश्वस्य यामिन्नियामके रणे युद्धे तूर्वन्न परबलानि हिंसन्निवाऽऽघृणे नु सर्वतो दीप्यते खलु सोऽग्निरजरो जरारहितस्ततृषाणो न तृष्णायुक्तो न भवति।  
 यथा लोके शीघ्रगमनस्वभावमश्वं वामहस्तगतेन खलीनेन दृढं नियम्य रणे प्रवर्तमानः पुरुषः परबलानि हिंसन्न त्वरत एवमयमग्निः प्रज्वलति न कदाचिज्जीर्यति, नाप्यसौ तृष्णायुक्तः किंतु तृप्त इत्यर्थः।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ सप्तमीमाह— अग्ने पावकेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/026/01_agne_pAvaka.md">
@@ -613,9 +661,12 @@ x
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथाष्ठमीमाह स न पावकेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -623,6 +674,8 @@ x
 स᳓ नᳶ पावक दीदिवो᳓ऽग्ने देवाँ᳓ इहा᳓ वह ।  
 उ᳓प यज्ञँ᳓ हवि᳓श्च नः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -668,11 +721,15 @@ Be thou purifying and auspicious to us.
 पावको अस्मभ्यँ शिवो भवेत्येवं पावकशब्दो चास्वृक्षु वर्तते ताः पावकवत्य इत्यर्थः ताभिर्विकर्षतीत्यनुवर्तते।  
 पावकस्याग्नेरन्नवचनहेतुत्वादन्नत्वम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “अपामिदं न्ययनं नमस्ते हरसे शोचिष इति द्वाभ्यामग्निमधिरोहति” इति।  
 तत्र प्रथमामाह– अपामिदमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -680,6 +737,8 @@ Be thou purifying and auspicious to us.
 अपा᳓मिद᳓न्न्य᳓यनँ समुद्र᳓स्य निवे᳓शनम् ।  
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -707,10 +766,14 @@ Be thou purifying and auspicious to us.
 तद्रूप हेऽग्ने ते त्वदीया हेतयोऽस्मतोऽन्यं विरोधिनं पुरुषं तपन्तु क्लेशयन्तु।  
 अस्मभ्यमस्मदर्थं पावकः शुद्धः शिवः शान्तश्च भव।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयमाह–  नमस्ते हरस इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +781,8 @@ Be thou purifying and auspicious to us.
 न᳓मस्ते ह᳓रसे शोचि᳓षे न᳓मस्ते अस्त्वर्चि᳓षे ।  
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -771,6 +836,9 @@ Be thou purifying and auspicious to us.
 अपामिदमित्येवमपूशब्दो ययोर्ऋचोस्ते अपस्यवत्यौ।  
 ताभ्यामधिरोहणे सत्यग्नितापस्य शान्तिर्भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -778,11 +846,14 @@ Be thou purifying and auspicious to us.
 “नृषदे वडिति पञ्चभिरुत्तरवेदिवदाग्निं स्वयमातृण्णां वा व्प्राधार्य” इति।  
 पाठस्तु— नुषदे वडिति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृष᳓दे व᳓ट् [3]  अप्सुष᳓दे व᳓ड्वनस᳓दे व᳓ड्बर्हिष᳓दे व᳓ट्त्सुवर्वि᳓दे व᳓ट् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -815,10 +886,14 @@ To him that sitteth in man, hail! [3] To him that sitteth in the waters, hail! T
 “यद्वषट्कुर्याद्यातयामाऽस्य वषट्कारः स्याद्यान्न वषट्कुर्याद्रक्षाँसि यज्ञँ हन्युर्वडित्याह परोक्षमेव वषट्करोति नास्य यातयामा वषट्कारो भवति न यज्ञँरक्षाँसि घ्नन्ति” (सं. का. ५ प्र. ४ अ. ५) इति।  
 एतच्च वाक्यं सं ते वायुर्मातरिश्वा दधात्वितिमन्त्रे तस्मै च देवि वषडस्तु तुभ्यमित्यस्य पदस्य व्याख्यानरूपत्वं ब्राह्ममेनादाहृत्य सम्यग्षिवृतम्।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “ये देवा देवानामिति द्वाभ्यामनुपरिचारं दध्ना मधुमिश्रेण दर्भग्रुमष्टिनाऽग्निं व्यवोक्षति” तत्र प्रथमामाह— ये देवा देवानामिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -826,6 +901,8 @@ To him that sitteth in man, hail! [3] To him that sitteth in the waters, hail! T
 ये᳓ देवा᳓ देवा᳓नाय्ँ यज्ञि᳓या यज्ञि᳓यानाँ सव्ँवत्सरी᳓णमु᳓प भाग᳓मा᳓सते ।  
 अहुता᳓दो हवि᳓षो यज्ञे᳓ अस्मि᳓न्त्स्वय᳓ञ्जुहुध्वम्म᳓धुनो घृत᳓स्य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -858,10 +935,14 @@ Do ye delight yourselves with honey and ghee.
 हुतं स्वाहाकारणे समर्पितमदन्तीति हुताद इन्द्रादयस्तद्विपरितत्वात्प्राणा अहुतादः।  
 तथाविधा हे प्राणा अस्मिन्यज्ञे हविषोऽस्माभिर्हूयमानस्य मधुनो मधुरस्य(घृतस्य) भागं स्वयं जुहुध्वं मदीयेन स्वाहाकारसमर्पणेन विना स्वयमेव स्वी कुरुत।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— ये देवा देवेष्विति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -869,6 +950,8 @@ Do ye delight yourselves with honey and ghee.
 ये᳓ देवा᳓ देवे᳓ष्व᳓धि देवत्व᳓मा᳓यन्ये᳓ ब्र᳓ह्मणᳶ पुरएता᳓रो अस्य᳓ ।  
 ये᳓भ्यो न᳓र्ते᳓ प᳓वते धा᳓म कि᳓ञ्चन᳓ न᳓ ते᳓ दिवो᳓ न᳓ पृथिव्या᳓ अ᳓धि स्नु᳓षु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -904,10 +987,14 @@ Neither on the heights of sky or earth are they.
 अनुपरिचारमनुक्रमेण परितश्चरित्वा परिवर्गमेवाग्न्यवयवेषु कस्यापि वर्जनमकृत्वेवैनामग्न्यवयवान्प्रीणाति।  
 ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “प्राणदा अपानदा इति प्रत्पवरोह्य” इति।   पाठस्तु— प्राणदा अपानदा इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -915,6 +1002,8 @@ Neither on the heights of sky or earth are they.
 प्राणदाः᳓ [4]  अपानदा᳓ व्यानदा᳓श्चक्षुर्दा᳓ वर्चोदा᳓ वरिवोदाः᳓ ।  
 अन्य᳓न्ते अस्म᳓त्तपन्तु हेत᳓यᳶ पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -941,10 +1030,14 @@ Be thou purifying and auspicious to us.
 प्राणादिदानप्रशक्तिपूर्वकं मन्त्रं व्याचष्टे– “वि वा एष प्राणैः प्रजया पशुभिर्ऋघ्यते योऽग्निं चिन्वन्नधिक्रामति प्राणदा अपानदा इत्याह प्राणानेवाऽऽत्मन्धत्ते वर्चोदा वरिवोदा इत्याह प्रजा वै वर्चः पशवो वरिवः प्रजामेव पशूनात्मन्धत्ते” (सं. का. ५ प्र. ४ अ. ५) इति।  
 यो यजगानोऽग्निचयनकालेऽग्निमधिरोहत्येष प्राणादिभिर्वियुज्यते।   अतः प्राणादिदानं प्रार्थनीयमिति मन्त्रः प्रवर्तते।   तत्र पूर्वभागेन (ण) प्राणादीन्स्वात्मनि सुस्थितान्करोति उत्तरभागेन (ण) बलवाचिना वर्चःशब्देन पुत्रपौत्रादिरूपाः प्रजा उपलक्षिताः।   तासु हि सतीषु व्यवहर्तुं प्रवलत्वात्।   पूजावाचिना बरिवःशब्देन पशव उपलक्षिताः।   तेषु सत्सु क्षीरादिसंपत्त्या पूज्यो भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 २१५८ तत्र प्रथमामाह— अग्निस्तिग्मेनेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -952,6 +1045,8 @@ Be thou purifying and auspicious to us.
 अग्नि᳓स्तिग्मे᳓न शोचि᳓षा यँ᳓सद्वि᳓श्वन्न्य᳙त्रि᳓णम् ।  
 अग्नि᳓र्नो वँसते रयि᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -975,10 +1070,14 @@ May Agni win for us wealth.
 
 अयं चीयमानोऽग्निस्तिग्मेन शोचिषा तीक्ष्णया ज्वालयाऽत्त्रिणं राक्षसादिं विश्वं सर्व विरोधिनं नियंसन्नियमयतु।   विनाशयीत्वत्यर्थः।   अत्त्रमदनशीलं बाधकमनिष्टं तदस्यास्तीत्यत्त्री तं विनाशयतु।   किंचायमग्निर्नोऽस्मदर्थं रयिं धनं वंसते वंसितुं संभाजयितुमिच्छतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— सैनाऽनीकेनेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -986,6 +1085,8 @@ May Agni win for us wealth.
 सै᳓ना᳓नीकेन सुविद᳓त्रो अस्मे᳓ य᳓ष्टा देवाँ᳓ आ᳓यजिष्ठस्स्वस्ति᳓ ।  
 अ᳓दब्धो गोपा᳓ उत᳓ नᳶ परस्पा᳓ अ᳓ग्ने द्युम᳓दुत᳓ रेव᳓द्दिदीहि ॥ [5]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1021,6 +1122,7 @@ O Agni, shine forth with radiance and with wealth.
 आद्योऽवयव्यसत्त्वेन मवं भूदेशसत्त्वुतः॥  
 “इष्टकाभिरग्निं चिनुते” इति श्रूयते ।   तत्रेदमान्नायते—“मण्डूकेनाग्निं विकर्षति।   वेतसशाखाया चावकाभिश्चाग्निं विकर्षति।   हिरण्यशकलसहस्रेणाग्निं प्रोक्षति” इति।   शाखाग्रे मण्ढूकं बद्ध्वा तेन विकर्षतीत्यर्थः।   ते च विकर्षणप्रोक्षणे प्रतीष्टकं कर्तव्ये।   कुतः।   चिताभ्य इष्टकाभ्यः पृथमग्निशब्दार्थस्य   २१५९ कस्यचिदवयविद्रव्यस्याभावादिति चेन्मैवम्।   उपहिताभिरिष्टकाभिः संयुक्तस्य प्रदेशस्यावयविद्रव्यत्वात्।   तस्य चाग्न्माघारत्वेनाग्निशब्दार्थत्वम्।   तस्मादग्नेरे कत्वात्सकृदेव विकर्षणप्रोक्षणे कुर्यात्॥  
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतीत्तरीयसंहिताभाष्ये चतुर्थकाण्डे षष्ठप्रपाठके प्रथमोऽनुवाकः ॥   १॥  
+</details>
 </details>
 
 चतुर्थकाण्डे षष्ठप्रपाठके द्वितीयोऽनुवाकः

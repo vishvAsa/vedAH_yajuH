@@ -12,11 +12,16 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 १६ अनुष्टुप्
 सोमऋषिः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ द्वितीयः प्रपाठकः  
 अतः परमग्निष्टोममन्त्राः, येषामाध्वरिका इत्याख्या । एषां च सोमः काण्डऋषिः 'कृणुष्व पाजः' इत्यतः प्राक्, अध्वरग्रहदाक्षिणानां सोमार्षेयत्वात् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -88,8 +93,11 @@ short_title = "०१ अग्निष्टोमे यजमानस्य
 
 इह-लोके तावत् सुखं प्रत्यक्ष-सिद्धम्। गृह-क्षेत्र-पुत्र-मित्रादिभिस् तद्-उत्पादात्॥ स्वर्गे तु संदिग्धम्। यद्य् अविघ्नेनेदं कर्म साङ्गं समाप्येत तदा सुखम् अस्ति नान्यथा। भवद् अपि तत् सुखं नेदानीं भवति किंतु मरणाद् ऊर्ध्वम्। तदापि प्रबलेन केनचिन् नरक-प्रदेन कर्मणा प्रतिबन्धे सति ततो ऽपि विलम्ब्येत। तस्माद् इदानीम् एवास्माल् लोकान् न सर्वात्मना निर्गन्तव्यम् इति बुद्धिमन्त आहुः। तत एतल्-लोक-दर्शनाय द्वारेषु कृतेषु लोक-द्वय-जयो भवति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 सोमः काण्डऋषिः। दीक्षिष्यमाणस्य यजमानस्य दक्षिणं गोदानम् उनत्ति।।
@@ -104,12 +112,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓प उन्दन्तु+++(=क्लेदयन्तु)+++ जीव᳓से ।  
 दीर्घायुत्वा᳓य व᳓र्चसे ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,14 +153,19 @@ For length of days, for glory.
 
 गोदानं शिरसो भागः। जीवनायुर्-वृद्धि-ब्रह्मवर्चसेभ्य आपः शिर आर्द्रीकुर्वन्तु।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2ऊर्ध्वाग्रं बर्हिरनुच्छ्रयति - ओषध इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -166,11 +182,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,26 +223,33 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 तस्मिन् बर्हिषि स्वधितिं तिर्यञ्चं निदधाति।
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓धिते+++(=क्षुर)+++! मै᳓नँ हिँसीः  ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -256,13 +282,16 @@ Axe, hurt him not.
 
 स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
-
+</details>
 </div>  
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4प्रवपति - देवश्रूरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -270,6 +299,8 @@ ________
 देवश्रू᳓र्+++(=देवनापितः)+++ एता᳓नि प्र᳓ वपे।  
 +++('केशश्मश्रु वपते' इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -290,17 +321,23 @@ Obedient to the gods I shear these.
 
 देवश्रूर्नाम देवनापितः, देवेषु श्रूयते तत्र प्रसिद्धिं गच्छतीति कृत्वा । शृणोतेः 'अन्येभ्योपि दृश्यन्ते' इति कर्मणि विच्, दृशिग्रहणस्य विध्यन्तरोपसङ्ग्रहार्थत्वाद्दीर्घत्वम्, कृदुत्तरपदप्रकृतिस्वरत्वम् । देवश्रूरेव भूत्वा अहमेतानि श्मश्नुप्रभृतीनि प्रवपे प्रकृष्टं वपे छिनद्मि । वपतिस्स्वरितेत् । 'केशश्मश्रु वपते' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5उप्तदेशं यजमानोभिमृशति - स्वस्तीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वस्त्य् उ᳓त्तराण्य् +++(कर्माणि)+++ अशीय᳓+++(=व्याप्नुयाम्)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -321,8 +358,11 @@ With success may I reach further days.
 
 स्वस्ति अविघ्नेनोत्तराणि कर्माणि अशीय व्याप्नुयाम् । अश्नोतेर्लिङि 'बहुलं छन्दसि' इति शपो लुक् । सीयुडादि ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6यजमानमभिषिञ्चति - आपो अस्मानिति द्विपदया विराजा ॥ 
@@ -336,6 +376,7 @@ ________
 >  ‘अथैनम् अद्भिर् अभिषिञ्चत्य् 'आपो अस्मान् मातरः शुन्धन्तु घृतेन नो घृतपुवः पुनन्त्विति। संप्रधाव्य रजः प्रक्षालयति 'विश्वम् अस्मत् प्र वहन्तु रिप्रम्' इति’ 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn.md">
@@ -384,15 +425,20 @@ With ghee let those that purify our ghee purify us.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7सम्प्रधाव्य रजः प्लावयति - विश्वमिति विराजैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वम् अस्म᳓त् प्र᳓ वहन्तु रिप्र᳓म्+++(=पापम्)+++ ।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -413,17 +459,23 @@ Let them bear from us all pollution.
 
 अस्मत् अस्मभ्यं अस्मदीयेभ्यो यजमानेभ्यः विश्वं रिप्रं पापं इमा आपः प्रवहन्तु देशान्तरं प्रापयन्तु नाशयन्त्विति यावत् ॥
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8एति यजमानः - उदाभ्य इति विराजैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द् +++(अद्भ्य)+++ आभ्यश् शु᳓चिर् आ᳓ पूत᳓ एमि ।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -479,8 +531,11 @@ Forth from these waters do I come bright, in purity.
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9वासः परिधत्ते - सोमस्येति ॥
@@ -495,6 +550,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,6 +558,8 @@ ________
 +++('सौम्यं वै क्षौमं देवतया' इति च ब्राह्मणम् ।  )+++  
 तनु᳓वम् मे पाहि।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -570,11 +628,15 @@ Thou art the body of Soma, guard my body.
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10 नवनीतेन मुखमभ्यङ्क्ते - महीनामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +645,8 @@ ________
 वर्चोधा᳓ असि ।  
 व᳓र्चो म᳓यि धेहि।+++(र४)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -650,8 +714,11 @@ splendour [1] place in me.
 इति।
 मनुष्याणां नास्त्यानुलोम्ये नियमः न वाभ्यङ्गे मन्त्रो ऽस्ति। तस्माद् व्यावृत्त्यै तद् उभयम् अत्रेति नियम्यते।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11अञ्जनेनाङ्क्ते - वृत्रस्येति ॥
@@ -666,6 +733,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,6 +741,8 @@ ________
 चक्षुष्पा᳓ असि ।  
 च᳓क्षुर् मे पाहि ।+++(र५)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -739,8 +809,11 @@ guard my eye.
 
 तूल-रहित-शर-काष्ठस्य तीक्ष्णाग्रत्वाद् वज्र-समत्वम्।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12-14दर्भपुञ्जीलैर्यजमानं पवयति - चित्पतिरित्यादिभिः त्रिपदाभिर्गायत्रीभिः ॥
@@ -753,6 +826,7 @@ ________
 > ‘अथैनम् एकविंशत्या दर्भ-पुञ्जीलैः पवयति 'चित्-पतिस् त्वा पुनातु वाक्-पतिस् त्वा पुनातु देवस् त्वा सविता पुनात्व् अच्छिद्रेण पवित्रेण वसोः सूर्यस्य रश्मिभिर्' इति” 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/03_chitpatis_tvA.md">
@@ -942,6 +1016,8 @@ With the rays of the bright sun.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15'यजमानं वाचयति, स च ब्रूते - तस्य त इति ॥ 
@@ -956,11 +1032,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य ते पवित्र-पते पवि᳓त्रेण +++(रश्मिलक्षणेन)+++ य᳓स्मै +++(प्रयोजनाय)+++ क᳓म्+++(=आत्मानम्)+++ **पुने᳓**, +++(कर्म)+++ त᳓च् **छकेयम्** ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -992,8 +1071,11 @@ O lord of the purifier, with thy purifier for whatsoever I purify myself, that m
 
 इति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16शालां यजमानमानयति - आव इति चतुष्पदयानुष्टुभा ।
@@ -1013,6 +1095,7 @@ ________
 > आ वो देवास ईमहे' इति पूर्वया द्वारा प्राग्-वंशे प्रविश्य 
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/06_A_vo.md">
@@ -1070,15 +1153,20 @@ For that we ask you, O holy ones.
 </div>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 17 शालां यजमानं प्रवेशयति - इन्द्राग्नी इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राग्नी द्या᳓वापृथिवी आ᳓प ओषधीः +++(अनुमन्यध्वम्!)+++।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1117,17 +1205,23 @@ Indra and Agni, heaven and earth, waters, plants.
 
 हे इन्द्रादय, एनम् अनुजानीतेति शेषः।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 18आहवनीयमन्वीक्षयति - त्वमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓न् दीक्षा᳓णाम् अ᳓धिपतिर् असि ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1181,17 +1275,23 @@ Thou art the lord of consecrations
 
 अभवन्न् ऐश्वर्यं प्राप्तः। भवत्य् एवैश्वर्यं प्राप्नोत्य् एव।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19यजमान आत्मानमीक्षते - इहेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह᳓ मा स᳓न्तम् पाहि ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1211,6 +1311,7 @@ Guard me that am here.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इह एतस्यां दीक्षायां सन्तं वर्तमानं मा मां पाहि ॥
+</details>
 </details>
 
 इति प्रथमस्य काण्डस्य द्वितीयप्रपाठके प्रथमोनुवाकः  ॥

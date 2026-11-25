@@ -2,6 +2,8 @@
 title = "०५ भक्षानुवाकः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ८ गायत्री , ९ बृहती  
@@ -20,12 +22,15 @@ title = "०५ भक्षानुवाकः"
 
 भक्षेहि॒ मा वि॑श दीर्घायु॒त्वाय॑ शन्तनु॒त्वाय॑ रा॒यस्पोषा॑य॒ वर्च॑से सुप्रजा॒स्त्वायेहि॑ वसो पुरोवसो प्रि॒यो मे॑ हृ॒दो॑ऽस्य॒श्विनो॑स्त्वा बा॒हुभ्याँ॑ सघ्यासम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भ᳓क्ष! +ए᳓हि**, मा᳓ **विश**  
 दीर्घायुत्वा᳓य शन्तनुत्वा᳓य राय᳓स्-पो᳓षाय व᳓र्चसे सु-प्रजास्त्वा᳓य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,11 +51,14 @@ Food come hither, enter me for long life, for health, for increase of wealth, fo
 
 भक्ष्यत इति भक्षः । हे भक्ष । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । एहि आगच्छ । गुणे कृते, 'अन्तादिवच्च' इति तस्य आङ्ग्रहणेन ग्रहणात् 'ओमाङोश्च' इति पररूपत्वम् । स त्वं मामाविश भक्षितोन्तः प्रविश दीर्घायुत्वाय । तादर्थ्ये चतुर्थी । मम दीर्घमायुर्यथा स्यादिति । बहुव्रीहौ छान्दसोन्त्यलोपः । शन्तनुत्वाय आरोग्याय रायो धनस्य पोषाय पुष्ट्यर्थम् । पूर्ववत्सत्वम् । वर्चसे दीप्तये बलाय वा । सुप्रजास्त्वाय शोभनापत्यत्वार्थं मामाविशेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **ए᳓हि** वसो! पुरो-वसो!  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -71,11 +79,14 @@ Come hither, O Vasu, preceded by wealth;
 
 एहि वसो वासहेतो सर्वेषां, आगच्छ हे पुरोवसो पुरस्ताद्वसो वासयितॄणां पूर्वधनानां वा,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियो᳓ मे हृदो᳙ऽसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -96,11 +107,14 @@ thou art dear to my heart.
 
 प्रथमं मे मम हृदयस्य प्रियोसि, प्रीणयिताऽसि उपकारकत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓नोस् त्वा बाहु᳓भ्याँ **सघ्यासम्**+++(←ग्रहणे)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,10 +135,14 @@ May I grasp thee with the arms of the Aśvins.
 
 अश्विनोर्बाहुभ्यां त्वां सघ्यासं गृह्लामि । आत्मनस्स्वातन्त्र्यनिवृत्यर्थमेवमुक्तम् । सघिः ग्रहणकर्मा छान्दसः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अवेक्षते - नृचक्षसमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +150,8 @@ May I grasp thee with the arms of the Aśvins.
 +++(नृ-वीक्षणेन)+++ नृ-च᳓क्षसन् त्वा देव सोम  
 सु-च᳓क्षा अ᳓व ख्येषम्+++(=वीक्षेयम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,6 +172,9 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 
 नॄन् चष्टे पश्यतीति नृचक्षाः । 'गतिकारकयोरपि' इत्यसुन्, कृदुत्तरपदप्रकृतिस्वरत्वम् । ईदृशं त्वां हे देव सोम त्वत्प्रसादात् सुचक्षाः सुष्ठु द्रष्टा अहम् । पूर्ववदसुन् । अवख्येषम् । अवचष्टेराशिषि लिङ्, ख्यादेशः, लिङ्याशिष्यङ्, अतो येयः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -161,6 +184,7 @@ With clear sight may I gaze' upon thee, O god Soma, who regardest men.
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 म॒न्द्राभिभू॑तिᳵ के॒तुर्य॒ज्ञानाव्ँ॒वाग्जु॑षा॒णा सोम॑स्य तृप्यतु म॒न्द्रा स्व॑र्वा॒च्यदि॑ति॒रना॑हतशीर्ष्णी॒ वाग्जु॑षा॒णा सोम॑स्य तृप्य॒त्वेहि॑ विश्वचर्षणे [16]  श॒म्भूर्म॑यो॒भूस्स्व॒स्ति मा॑ हरिवर्ण॒ प्र च॑र॒ क्रत्वे॒ दक्षा॑य रा॒यस्पोषा॑य सुवी॒रता॑यै
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/02_mandrA.abhibhUtikH.md">
@@ -252,9 +276,12 @@ Come hither, O thou who art of all men [1], with healing and favour; with safety
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ परोष्णिक्, गायत्री वा - मा मां राजन्निति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/04_mA_mA.md">
@@ -296,9 +323,12 @@ Terrify me not, O king, pierce not my heart with thy radiance, for manly strengt
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5वसुमद्गणस्य वसुमान् गणो यस्य स तथोक्तः । अष्टौ वसवः तत्रावयवेन समुदायो गणस्तद्वानिति मत्वर्थोपपत्तिः । कश्चिदाह - वसुमान् धनवान् गण ऋत्विक्सङ्घो यस्येति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -307,6 +337,8 @@ Terrify me not, O king, pierce not my heart with thy radiance, for manly strengt
 ते मति-वि᳓दᳶ  
 प्रातस्-सवन᳓स्य गायत्र᳓-छन्दस …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,15 +361,17 @@ Of thee, O god Soma, who hast the Vasus for thy troop, who knowest the mind, who
 
 गायत्रछन्दसः । गायत्र्येव गायत्रं, तदेव छन्दो यस्य स्तोत्रादिषु तादृशस्य विश्वजनादित्वात्तुगभावः ।   
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/indra-pItasya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र-पीतस्य न᳓राशँ᳓स-पीतस्य पितृ᳓-पीतस्य  
 म᳓धुमत  
 **उ᳓पहूतस्यो᳓पहूतो भक्षयामि** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,12 +395,15 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 पितृपीतस्य पितृभिरस्मत्पूर्वैः पीतस्य । स एव स्वरः ।  
 मधुमतः मधुररसवतः **उपहूतस्य** इन्द्रादिभिरनुज्ञातस्य ईदृशस्य तव अहं **उपहूतः** देवैस्सहभक्षिभिरनुज्ञातः **भक्षयामि** । सर्वत्र कर्मणि षष्ठी ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ माध्यन्दिने सवने - रुद्रवद्गणस्येत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,6 +411,8 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 रुद्र᳓वद्-गणस्य सोम देव  
 ते मतिवि᳓दो मा᳓ध्यन्दिनस्य स᳓वनस्य त्रिष्टु᳓प्-छन्दस …
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -394,15 +433,17 @@ Of thee, O god Soma, who hast the Rudras for thy troop, who knowest the mind, wh
 
 माध्यन्दिनस्येति । दिनस्य मध्यं मध्यन्दिनम् 'मध्यो मध्यन्दिनं चास्मात्' इति । तत्र भवं माध्यन्दिनम् । तस्य सवनस्य सूयमानस्य सोमस्य तव भक्षयामीति । एवमेतादृशसोमसंबन्धात् प्रातस्सवनादयश्शब्दाः कर्मणि वर्तन्ते । गतमन्यत् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/indra-pItasya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र-पीतस्य न᳓राशँ᳓स-पीतस्य पितृ᳓-पीतस्य  
 म᳓धुमत  
 **उ᳓पहूतस्यो᳓पहूतो भक्षयामि** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,12 +467,15 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 पितृपीतस्य पितृभिरस्मत्पूर्वैः पीतस्य । स एव स्वरः ।  
 मधुमतः मधुररसवतः **उपहूतस्य** इन्द्रादिभिरनुज्ञातस्य ईदृशस्य तव अहं **उपहूतः** देवैस्सहभक्षिभिरनुज्ञातः **भक्षयामि** । सर्वत्र कर्मणि षष्ठी ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अथ तृतीयसवने - आदित्यवद्गणस्येति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +483,8 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 आदित्य᳓वद्-गणस्य सोम देव ते  
 मति-वि᳓दस् तृती᳓यस्य स᳓वनस्य ज᳓गती-छन्दस … 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -459,15 +505,17 @@ Of thee, O god Soma, who hast the Adityas for thy troop, who knowest the heart, 
 
 तृतीयस्य सवनस्य सूयमानस्य तव भक्षयामीति । एवं सोमविशेषणतया नीतानि दश पदानि षष्ठ्यन्तानि । इतरथा इन्द्रपीतस्येत्याद्यघटमान् स्यात् । वैयधिकरण्यं तु क्लिष्टमिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/indra-pItasya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्र-पीतस्य न᳓राशँ᳓स-पीतस्य पितृ᳓-पीतस्य  
 म᳓धुमत  
 **उ᳓पहूतस्यो᳓पहूतो भक्षयामि** ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -491,12 +539,15 @@ who art drunk by Indra, who art drunk by Naraśansa, who art drunk by the father
 पितृपीतस्य पितृभिरस्मत्पूर्वैः पीतस्य । स एव स्वरः ।  
 मधुमतः मधुररसवतः **उपहूतस्य** इन्द्रादिभिरनुज्ञातस्य ईदृशस्य तव अहं **उपहूतः** देवैस्सहभक्षिभिरनुज्ञातः **भक्षयामि** । सर्वत्र कर्मणि षष्ठी ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8चमसान् आप्याययति - आप्यायस्वेति गायत्र्या ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
@@ -759,9 +810,12 @@ Schwill, Soma, an, es komme dir von allen Seiten Heldenkraft, Sei, wo die Kraft 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9भक्षयित्वा आत्मानमभिमृशति - हिन्वेति पथ्याबृहत्या ॥ तृतीयस्य द्वादशाक्षरत्वात् । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/05_hinva_me.md">
@@ -807,9 +861,12 @@ Do not go below my navel [3].
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10आदित्यमुपतिष्ठते - अपामेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/06_apAma_somam.md">
@@ -869,6 +926,8 @@ Of mortal man do to us, O immortal?
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11आग्नीध्रे स्रुवाहुतिं जुहोति - यन्म आत्मन इति द्वाभ्याम्, प्रथमा त्रिष्टुप् जगती वा । 
@@ -878,6 +937,7 @@ Of mortal man do to us, O immortal?
 
 सर्वत्र स्कन्ने भिन्ने छिन्ने भग्ने नष्टे क्षामे विपर्यास उद्दाह ऊनातिरिक्ते वा "यन्म आत्मनो मिन्दाभूत्, पुनरग्निश्चक्षुरदाद्" इत्येताभ्याँ स्रुवाहुती जुहुयात्।  
  सर्वेष्वग्न्युपघातेषु "पुनस्त्वादित्या रुद्रा वसवः समिन्धतामि"त्येतया समिधमादध्यादेतयैव स्रुवाहुतिं जुहुयात्।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
@@ -935,9 +995,12 @@ Agni hath put that right, all-knower, he who belongeth to all men;
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12अथ द्वितीया - पुनरिति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
@@ -985,9 +1048,12 @@ Replace my eye within its sockets.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13अथ हारियोजने धानानां भक्षणमन्त्रः - इष्टयजुष इत्यादि यजुः ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
@@ -997,6 +1063,8 @@ Replace my eye within its sockets.
 ह᳓रिवत इ᳓न्द्र-पीतस्य म᳓धुमत  
 **उ᳓पहूतस्यो᳓पहूतो भक्षयामि ।**
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1018,16 +1086,22 @@ Of thee, O god Soma, over whom the Yajus is spoken, the Stoma sung [4], the Ukth
 
 हे देव सोम ते तव त्वां भक्षयामि । पूर्ववत्कर्मणि षष्ठी कीदृशस्य? इष्टयजुषः । इष्टमेभिरिति छान्दसः करणे क्तः । इष्टानि यजूंषि यस्य । स्तुतस्तोमस्य स्तुताः स्तोमाः यस्य । शस्तोक्थस्य शस्तानि शस्त्राणि यस्य तादृशस्य, हरिवत इत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14धाना निर्णिज्योत्तरवेद्यां सन्निवपति - आपूर्या इति द्विपदया गायत्र्या ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **आपू᳓र्यास्** स्थ᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1050,11 +1124,14 @@ Ye are to be filled;
 भक्षणेन न क्षयः कश्चिद् अस्माभिः कृतः ।  
 कर्तरि कृत्यः । यद्वा - करणे । आपूर्यः स्थ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +आ᳓ मा **पूरयत** प्रज᳓या च ध᳓नेन च ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1076,18 +1153,23 @@ With offspring and wealth.
 
 तस्मान्मामापूरयत प्रजया च धनेन च ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15-17तिस्रो धाना ददाति - एतत्ते ततेति ॥ 'सोमाय पितृमते' इत्यत्रैतद्व्याख्यातम् । 
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/etat_te_tata.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए॒तत् ते॑ तत॒ ये च॒ त्वाम् अनु॑।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1109,12 +1191,15 @@ This for thee, O father, and for thy line;
 एनदन्नं ते तव भवतु हे तत तात ।  
 ये च त्वामनुगता आश्रिताः अन्ये, तेषाञ्चैतदन्नं भवतु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [ए॒तत् ते॑] पितामह [ये᳓ च॒ त्वाम् अनु॑]।  
 [ए॒तत् ते॑] प्रपितामह॒ [ये᳓ च॒ त्वाम् अनु॑]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1140,11 +1225,14 @@ _____________
 
 हे तत तात एतदशनं तव ये चान्ये त्वामनुगताः । एतत्ते पितामह, ये च त्वामनुगताः । एतत्ते प्रपितामह, ये च त्वामनुगताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓त्र पितरो यथाभाग᳓म् मन्दध्वम्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1168,10 +1256,11 @@ Rejoice therein, O fathers, according to your shares.
 
 अधुना सर्वेपि सामान्येनोच्यन्ते । अत्र अस्मिन् कर्मणि हे पितरः पातारः पितृप्रभृतयो वा पितृपितामहप्रपितामहाः यथाभागं योयो यस्य भागः तेनतेन । 'यथाऽसादृश्ये' इत्यव्ययीभावः । यूयं मन्दध्वं मोदध्वम् । मदि स्तुतिमोदमदस्वप्नगतिषु ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1182,11 +1271,14 @@ Rejoice therein, O fathers, according to your shares.
 
 नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मिल्ँ॑ लो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मिल्ँ॑ लो॒के स्थ यू॒यन्तेषाव्ँ॒वसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषाव्ँ॒वसि॑ष्ठो भूयासम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो र᳓साय । [पि᳓तरो न᳓मो वः।],
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1207,11 +1299,14 @@ Homage to your taste, O fathers;
 
 हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरश् शु᳓ष्माय +++(पि᳓तरो न᳓मो वः )+++,,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1232,11 +1327,14 @@ homage to your birth, O fathers;
 
 शुष्मो बलम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो जीवा᳓य᳓ । [पि᳓तरो न᳓मो वः।],
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1257,11 +1355,14 @@ homage to your life, O fathers;
 
 जीवः प्राणः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरस् स्वधा᳓यै । [पि᳓तरो न᳓मो वः।],,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1282,11 +1383,14 @@ homage to your [5] custom, O fathers;
 
 स्वधा अन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो मन्य᳓वे । [पि᳓तरो न᳓मो वः।],,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1307,11 +1411,14 @@ homage to your anger, O fathers;
 
 मन्युर्दीप्तिः, क्रोधो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो घोरा᳓य । [पि᳓तरो न᳓मो वः।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1332,11 +1439,14 @@ homage to your terrors, O fathers;
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि᳓तरो न᳓मो वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1357,11 +1467,14 @@ O fathers, homage to you.
 
 हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ युष्माँ᳓स्ते᳓ऽनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1382,11 +1495,14 @@ Ye that are in that world, may they follow you;
 
 ये एतस्मिन् लोके पितरः स्थ । एतस्मिन्निति पितृलोकं व्यपदिशति । स्थेति सर्वपित्रभिप्रायेणोक्तम् । ते सर्वे युष्माननुसन्तु युष्मत्प्रधाना भवन्तु । 'हीने' इत्यनोः कर्मप्रवचनीयत्वम् । युष्मानिति पित्रादित्रयं व्यपदिशति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳙ऽस्मिल्ँ᳓ लोके᳓ मा᳓न् ते᳓ऽनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1407,11 +1523,14 @@ ye that are in this world, may they follow me.
 
 अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ यूय᳓न् ते᳓षाव्ँ व᳓सिष्ठा भूयास्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1432,11 +1551,14 @@ Ye that are in that world, of them be ye the most fortunate;
 
 ये यूयमेतस्मिन् लोके स्थ तेषां पितॄणां यूयं वसिष्ठाः वसुमत्तमा भूयास्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳙ऽस्मिल्ँ᳓ लोके᳙ ऽहन् तेषाव्ँव᳓सिष्ठो भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1457,12 +1579,15 @@ ye that are in this world, of these may I be the most fortunate.
 
 येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 19प्राजापत्यया त्रैष्टुभा गार्हपत्यमुपतिष्ठते - प्रजापत इति ॥ व्याख्याता चेयं 'सोमस्य त्विषिरसि' इत्यत्र । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
@@ -1848,10 +1973,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/devakRtasyainasaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20-22शकलैश् चरन्ति - देवकृतस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1860,6 +1987,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 मनुष्य᳙कृ᳓त᳓स्यै᳓नसोऽवय᳓जनमसि ।  
 पितृ᳓कृतस्यै᳓नसोऽवय᳓जनमसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1883,12 +2012,13 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 
 देवादिविषये यदस्माभिः कृतमेनः अधर्मः तस्यावयजनं नाशनं असि । 'क्षेपे' इति सप्तम्यास्समासः, सप्तमीपूर्वपदप्रकृतिस्वरत्वम् । यद्वा - देवादिभिरस्मद्विषये, यत्कृतमेनःफलं दुखं तस्यावयजनमसि । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्ववम् । एतेनोभे व्याख्याते ॥
 </details>
-
+</details>
 </div>  
 
 ## अवभृथभक्षमन्त्रः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/apsu_dhautasya.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1899,6 +2029,7 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 
 अ॒प्सु धौ॒तस्य॑ सोम देव ते॒ नृभि॑स्सु॒तस्ये॒ष्टय॑जुषस्स्तु॒तस्तो॑मस्य श॒स्तोक्थ॑स्य॒ यो भ॒क्षो अ॑श्व॒सनि॒र्यो गो॒सनि॒स्तस्य॑ ते पि॒तृभि॑र्भ॒क्षङ्कृ॑त॒स्योप॑हूत॒स्योप॑हूतो भक्षयामि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1908,6 +2039,8 @@ Thou art the expiation of sin committed by the gods, thou art the expiation of s
 यो᳓ भक्षो᳓ अश्व-स᳓निर् यो᳓ गो-स᳓निस्  
 त᳓स्य ते पितृ᳓भिर् **भक्ष᳓ङ् कृतस्यो᳓पहूतस्यो᳓पहूतो भक्षयामि** ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1939,5 +2072,5 @@ Of thee, O god Soma, that art purified in the waters, that art pressed by men, o
 
 इति तृतीये द्वितीये पञ्चमोनुवाकः ॥
 </details>
-
+</details>
 </div>

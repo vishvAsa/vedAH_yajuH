@@ -4,9 +4,12 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 रज॑नो॒ वै कौ॑णे॒यᳵ क्र॑तु॒जित॒ञ्जान॑किञ्चक्षु॒र्वन्य॑मया॒त्तस्मा॑ ए॒तामिष्टि॒न्निर॑वपद॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पाल॒न्तयै॒वास्मि॒ञ्चक्षु॑रदधा॒द्यश्चक्षु॑ष्काम॒स्स्यात्तस्मा॑ ए॒तामिष्टि॒न्निर्व॑पेद॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालँ सौ॒र्यञ्च॒रुम॒ग्नये॒ भ्राज॑स्वते पुरो॒डाश॑म॒ष्टाक॑पालम्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14,6 +17,8 @@ title = "०८ चक्षुष्कामस्येष्टिः"
 र᳓जनो वै᳓ कौणेयᳵ᳓ क्रतुजि᳓तञ्जा᳓नकिञ्चक्षुर्व᳓न्यमयात् ।  
 त᳓स्मा एता᳓मि᳓ष्टिन्नि᳓रवपत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,6 +40,7 @@ Rajana Kauneya went to Kratujit Janaki for a cure for eyesight;
 
 1रजनो वा इत्यादि ॥ रजनो नाम कुणेरपत्यम् । 'इतश्चानिञः' इति ढक् । क्रतुजितं नाम जनकस्यापत्यं अयात्प्रापद्यत । कीदृशम् चक्षुर्वन्यं चक्षुषो वनितारं संविभक्तारं चक्षुषः प्रदातारम् । छान्दसः कर्तरि कृत्यः । यद्वा - कूणिताक्षः कूणिर्वीपन्नाक्षः ; तस्यापत्यं कौणेयः । पितुरक्षिव्यापत्तिकथनं पुत्रस्य व्यापन्नाक्षित्वं द्योतयितुम् । पित्रा सरूपो हि सन् पुत्रो भवतीति । जानकिमयात् चक्षुषो लाभाय, चक्षुषो वननं संभजनं चक्षुर्वन्यं, तत् जानकिमयात् । याच्ञाकर्मा वा यातिः ; चक्षुर्लाभं तमयाचतेति । चक्षुरेव वा वननीयं चक्षुर्वर्न्यं ; तत् तमयाचतेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -42,6 +48,8 @@ Rajana Kauneya went to Kratujit Janaki for a cure for eyesight;
 अग्न᳓ये  भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालम् ।  
 त᳓यैवा᳓स्मिञ्च᳓क्षुरदधात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -64,11 +72,14 @@ for him he offered this sacrifice, to Agni, the blazing, a cake on eight potsher
 
 भ्राजस्वान् दीप्तिमान् । उभयतः आग्नेयावष्टाकपालौ पुरोडाशौ, मध्ये सौर्यश्चरुः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓श्च᳓क्षुष्कामस्स्या᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -84,12 +95,15 @@ verily thereby he bestowed sight upon him.
 
 यः । चक्षु॑ष्काम॒ इति॒ चक्षुः॑-का॒मः॒ । स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एता᳓मि᳓ष्टिन्नि᳓र्वपेत् ।  
 अग्न᳓ये भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालँ सौर्य᳓ञ्चरु᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -106,11 +120,14 @@ For him who desires sight he should offer this sacrifice, to Agni, the blazing, 
 
 तस्मै॑ । ए॒ताम् । इष्टि॑म् । निरिति॑ । व॒पे॒त्॒ । अ॒ग्नये॑ । भ्राज॑स्वते । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म्॒ । सौ॒र्यम् । च॒रुम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये भ्रा᳓जस्वते पुरोडा᳓शमष्टा᳓कपालम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,16 +143,22 @@ to Surya an oblation, to Agni, the blazing, a cake on eight potsherds;
 
 अ॒ग्नये॑ । भ्राज॑स्वते । पु॒रो॒डाश॑म् । अ॒ष्टाक॑पाल॒मित्य॒ष्टा-क॒पा॒ल॒म्॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अ॒ग्नेर्वै चक्षु॑षा मनु॒ष्या॑ वि [33]  प॒श्य॒न्ति॒ सूर्य॑स्य दे॒वा अ॒ग्निञ्चै॒व सूर्य॑ञ्च॒ स्वेन॑ भाग॒धेये॒नोप॑ धावति॒ तावे॒वास्मि॒ञ्चक्षु॑र्धत्त॒श्चक्षु॑ष्माने॒व भ॑वति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र्वै᳓ च᳓क्षुषा मनुष्या᳙ वि᳓ पश्यन्ति ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -156,6 +179,7 @@ by the eye of Agni men see [1],
 
 2अग्नेर्वै चक्षुषेति ॥ अग्नेर्हेतोर्यच्चक्षुः प्रवर्तते तेनेत्यर्थः । विभक्तिव्यत्यये वा अग्निना चक्षुषेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +187,8 @@ by the eye of Agni men see [1],
 अग्नि᳓ञ्चैव᳓ सू᳓र्यञ्च स्वे᳓न भागधे᳓येनो᳓प धावति ।  
 ता᳓वेवा᳓स्मिञ्च᳓क्षुर्धत्तश्च᳓क्षुष्मानेव᳓ भवति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -185,16 +211,22 @@ by the eye of Agni men see [1],
 
 एवं - सूर्यस्येति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यदा॑ग्ने॒यौ भव॑त॒श्चक्षु॑षी ए॒वास्मि॒न्तत्प्रति॑ दधाति॒ यत्सौ॒र्यो नासि॑का॒न्तेना॒भित॑स्सौ॒र्यमा॑ग्ने॒यौ भ॑वत॒स्तस्मा॑द॒भितो॒ नासि॑का॒ञ्चक्षु॑षी॒ तस्मा॒न्नासि॑कया॒ चक्षु॑षी॒ विधृ॑ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓दाग्नेयौ᳓ भ᳓वतश्च᳓क्षुषी एवा᳓स्मिन्त᳓त्प्र᳓ति दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -217,11 +249,14 @@ In that there are two for Agni, he restores his eyes for him;
 
 अभितस्सौर्यमिति । अभितः उभयतः आदावन्ते च सौर्यस्य । 'अभितः परितः' इति द्वितीया । यस्मादेवं तस्मान्नासिकामभितश्चक्षुषी तस्मादेव चक्षुषी नासिकया विधृते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त्सौर्यो᳓ ना᳓सिकाम् +++(प्रतिदधाति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -237,11 +272,14 @@ in that there is (an oblation) for Surya, (he restores) his nose;
 
 यत् । सौ॒र्यः । नासि॑काम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नाभि᳓तस्सौर्य᳓माग्नेयौ᳓ भवतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,12 +295,15 @@ the two for Agni are on either side of that for Surya;
 
 तेन॑ । अ॒भितः॑ । सौ॒र्यम् । आ॒ग्ने॒यौ । भ॒व॒तः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मादभि᳓तो ना᳓सिकाञ्च᳓क्षुषी ।  
 त᳓स्मान्ना᳓सिकया च᳓क्षुषी वि᳓धृते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -279,16 +320,22 @@ therefore the two eyes are on either side of the nose, therefore by the nose the
 
 तस्मा॑त् । अ॒भितः॑ । नासि॑काम् । चक्षु॑षी॒ इति॑ । तस्मा॑त् । नासि॑कया । चक्षु॑षी॒ इति॑ । विधृ॑ते॒ इति॒ वि-धृ॒ते॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 समा॒नी या॑ज्यानुवा॒क्ये॑ भवतस्समा॒नँ हि चक्षु॒स्समृ॑द्ध्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समानी᳓ याज्यानुवाक्ये᳙ भवतः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,11 +356,14 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
 4समानी इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समानँ हि᳓ च᳓क्षुस्स᳓मृद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -338,10 +388,14 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
 'केवलमामक' इति समानशब्दात् ङीष्, 'वा च्छन्दसि' इति पूर्वसवर्ण दीर्घत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 उदु॒ त्यञ्जा॒तवे॑दसँ स॒प्त त्वा॑ ह॒रितो॒ रथे॑ चि॒त्रन्दे॒वाना॒मुद॑गा॒दनी॑क॒मिति॒ पिण्डा॒न्प्र य॑च्छति॒ चक्षु॑रे॒वास्मै॒ प्र य॑च्छति॒ यदे॒व तस्य॒ तत् ॥ [34]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +404,8 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 सप्त᳓ त्वा हरि᳓तो र᳓थे ..  
 चित्र᳓न्देवा᳓नामु᳓दगाद᳓नीकम्  इ᳓ति पि᳓ण्डान्प्र᳓ यच्छति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -391,12 +447,15 @@ The Yajya, and the Anuvakya, are alike, for the eye is alike;
 
   - तत्रैव (सौम्यस्य चरोः)याज्या - चित्रमिति त्रिष्टुप् ॥ चित्रं चायनीयं सर्वलोकपूजितं देवानां रश्मीनामिन्द्रादीनां वा ऋत्विजां अनीकं मुखस्थानीयं समूहस्थानीयं वा उदगादुद्गच्छति सर्वात्मकसमष्टिरूपत्वात् । किं च – चक्षुस्थानीयं ख्यातिकरं वा मित्रादीनां । अयं देवो द्यावापृथिवी द्यावापृथिव्यौ अन्तरिक्षं च आप्राः आ (प्रागाः) पूरयति तेजसा । प्रा पूरणे, पूरुषव्यत्ययः । जगतः जङ्गमस्य सर्वस्य तस्थुषः स्थावरस्य सर्वस्यात्मा सूर्यः एकः प्रेरको वा सर्वस्य तस्मादात्मा ; सर्वोपकारकत्वात् । यद्वा - 'स यश्चायं पूरुषे । यश्चासावादित्ये । स एकः' इति दर्शनात् आत्मा सर्वस्य । अत्राचार्येण 'समानी याज्यानुवाक्ये भवतः' इत्येतदनुसारेण 'उदग्ने शुचयस्तव' 'विज्योतिषा' 'उदु त्यं जातवेदसम्' 'चित्रं देवानाम्' इति हविषां याज्यानुवाक्याः 'उदुत्यं जातवेदसम्' 'सप्त त्वा हरितो रथे' 'चित्रं देवानाम्' इति पिण्डान् प्रयच्छति इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुरेवा᳓स्मै प्र᳓ यच्छति ।  
 य᳓देव᳓ त᳓स्य त᳓त् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,4 +478,5 @@ verily he gives sight to him; what was his, that (is his again).
 ननु चक्षुष्कामस्य किं पिण्डैरित्याह - चक्षुरेवास्मै सनासिकमिदानीं दीयते, न पिण्डत्रयमात्रम् । किं यत्किञ्चित् चक्षुर्देहाननुगुणमेव दीयते ? नेत्याह - यदेव तस्य चक्षुः तदेव दीयते, न यत्किञ्चित् ॥
 
 इति द्वितीये तृतीयेष्टमोनुवाकः ॥  
+</details>
 </details>

@@ -4,15 +4,20 @@ title = "१० तदीय-कतिपय-गुण-विधयः"
 
 ## फलम् सत्राणाम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 न वा ए॒षो॑ऽन्यतो॑वैश्वानरस्सुव॒र्गाय॑ लो॒काय॒ प्राभ॑वदू॒र्ध्वो ह॒ वा ए॒ष आत॑त आसी॒त्ते दे॒वा ए॒तव्ँ वै॑श्वान॒रम्पर्यौ॑हन्त्सुव॒र्गस्य॑ लो॒कस्य॒ प्रभू॑त्यै
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ वा᳓ एषो᳙ऽन्य᳓तोवैश्वानरस् सुवर्गा᳓य लोका᳓य प्रा᳓भवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -33,11 +38,14 @@ This (rite) with a Vaiśvanara on one side (only) was not able to win the world 
 
 1पुनरपि द्वादशाह एव गुणविधयः क्रियन्ते - न वा एष इत्यादि ॥ एष द्वादशाहः अन्यतो वैश्वानरः, एकतोऽतिरात्रः । आदावेवातिरात्रवान् सुवर्गाय लोकाय न प्राभवत् स्वर्गं प्रापयितुं न समर्थोऽभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वो᳓ ह वा᳓ एष᳓ +++(स्वर्ग)+++ आ᳓तत आसीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -58,11 +66,14 @@ it was stretched upwards
 
 कुत इत्याह - एष हि स्वर्गः ऊर्ध्व आततः विस्तीर्णः आस्तर्णिः आसीत् तस्माद्यावत्स्वर्गप्रापणाय पर्याप्तो नाभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ देवा᳓ एतव्ँ᳓ वैश्वानर᳓म् प᳓र्यौहन्थ्+++(=पर्यवहन् [द्वादशाहेन])+++ , सुवर्ग᳓स्य लोक᳓स्य प्र᳓भूत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -83,18 +94,24 @@ and the gods piled round this Vaiśvanara, to overcome the world of heaven.
 
 ततः ते देवाः द्वादशाहं तथा दृष्टवन्तः । एतमेव वैश्वानरं पर्यौहन् परित आदावन्ते चानयन् । ततोसौ महत्त्वात् स्वर्गस्य प्रभूत्यै प्रभूतये यावत्स्वर्गं प्रापयितुं प्रभुरभवत् ॥
 </details>
+</details>
 
 ## फलम् अहीनयागस्य
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॒तवो॒ वा ए॒तेन॑ प्र॒जाप॑तिमयाजय॒न्तेष्वा॑र्ध्नो॒दधि॒ तत्...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓वो +++(ऋत्विग्भूता)+++ वा᳓ एते᳓न प्रजा᳓पतिम् अयाजयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,11 +132,14 @@ The seasons made Prajapati sacrifice with it,
 
 2ऋतवो वा इत्यादि ॥ एतेन द्वादशाहेन पूर्वं ऋतवः ऋत्विजो भूत्वा प्रजापतिमयाजयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(ऋत्विक्षु)+++ ते᳓ष्व् आर्ध्नोद् अ᳓धि+++(कं)+++ त᳓त्+++(=ततः)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -140,16 +160,22 @@ and in them because of it he prospered.
 
 ततः तत्तस्मात् तेन कर्मणा वा तेषु निमित्तभूतेषु प्रजापतिरधिकं आर्ध्नोत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऋ॒ध्नोति॑ ह॒ वा ऋ॒त्विक्षु॒ य ए॒वव्ँवि॒द्वान्द्वा॑दशा॒हेन॒ यज॑ते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋध्नो᳓ति ह वा᳓ ऋत्वि᳓क्षु य᳓ एवव्ँ᳓ विद्वा᳓न् द्वादशाहे᳓न य᳓जते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -170,17 +196,23 @@ He prospers among the priests who knowing thus sacrifices with (the rite) of twe
 
 3ऋध्नोतीत्यादि ॥ तस्मादेवं विदित्वा द्वादशाहेन यष्टा ऋत्विक्षु निमित्तेषु ऋध्नोत्येव ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ते॑ऽस्मिन्नैच्छन्त॒ स रस॒मह॑ वस॒न्ताय॒ प्राय॑च्छत् [37]  
 यव॑ङ्ग्री॒ष्मायौष॑धीर्व॒र्षाभ्यो॑ व्री॒हीञ्छ॒रदे॑ माषति॒लौ हे॑मन्तशिशि॒राभ्या॒न्...
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳙ ऽस्मिन्न् ऐच्छन्त +++(दक्षिणाम्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -201,11 +233,14 @@ They were desirous of obtaining (their desires) from him.
 
 4त इत्यादि ॥ ततस्ते ऋतवः अस्मिन् प्रजापतौ ऐच्छन्त दक्षिणामलिप्सन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ र᳓सम् अ᳓ह वसन्ता᳓य प्रा᳓यच्छत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,11 +261,14 @@ He gave to the spring the sap [1],
 
 स च प्रजापतिः अनन्तरं वसन्ताय रसं मध्वादि प्रायच्छत् पुष्पादिसम्बन्धेन मधुमानभूत् वसन्त: ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓वङ् ग्रीष्मा᳓यौ᳓षधीर् वर्षा᳓भ्यो, व्रीही᳓ञ् छर᳓दे, माषतिलौ᳓ हेमन्तशिशिरा᳓भ्याम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,16 +289,22 @@ to the hot season barley, to the rains plants, to autumn rice, beans and sesamum
 
 यवं ग्रीष्मायेत्यादि । गतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तेनेन्द्र॑म्प्र॒जाप॑तिरयाजय॒त्ततो॒ वा इन्द्र॒ इन्द्रो॑ऽभव॒त्तस्मा॑दाहुरानुजाव॒रस्य॑ य॒ज्ञ इति॒ स ह्ये॑तेनाग्रेऽय॑जत...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ने᳓न्द्रम् प्रजा᳓पतिर् अयाजयत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,11 +325,14 @@ Prajapati made Indra sacrifice with it.
 
 5तेनेन्द्रमित्यादि ॥ इन्द्रमनुजावरं प्रजापतिरयाजयत्,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वा᳓ इ᳓न्द्र इ᳓न्द्रो ऽभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -306,11 +353,14 @@ Then indeed did Indra become Indra;
 
 तत इन्द्र इन्द्रोऽभवत् अनुजावरत्वमपास्य प्रागिवेश्वरोऽभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आहुर् - "आनु᳓जा᳓वर᳓स्य यज्ञ᳓" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,11 +381,14 @@ therefore they say, 'It is the sacrifice of the inferior',
 
 तस्मादाहुः आनुजावरस्य यज्ञ इति । य उत्कृष्टस्सन् अवरभावं गतः स एतेन यजेतेति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ह्य् एते᳓ना᳓ग्रे᳓ ऽयजत +++(इन्द्रः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,19 +409,25 @@ for he by it first sacrificed.
 
 यस्मात्स तादृश इन्द्र एतेनाग्रे प्रथममयजत अनुजावरत्वनिवृत्तये, ईश्वरश्च संपन्न इति ॥
 </details>
+</details>
 
 ## दक्षिणा सत्त्रे
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष ह॒ वै कु॒णप॑मत्ति॒ यस्स॒त्त्रे प्र॑तिगृ॒ह्णाति॑ पुरुषकुण॒पम॑श्वकुण॒पङ्गौर्वा अन्नय्ँ॒येन॒ पात्रे॒णान्न॒म्बिभ्र॑ति॒ यत्तन्न नि॒र्णेनि॑जति॒ ततोऽधि॑ [38]  
 मल॑ञ्जायत॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ह वै᳓ कुण᳓पम्+++(=मांसम्)+++ अत्ति, य᳓स् सत्त्रे᳓ प्रतिगृह्णा᳓ति +++(यतस् सत्त्रे सर्वे यजमानाः)+++ -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -389,11 +448,14 @@ He eats a corpse who accepts a present at a Sattra;
 
 6संप्रति अहीनयाजकदूषणेन अहीनमेव दूषयितुमाह- एष ह वा इत्यादि ॥ कुणपमत्ति मांसमत्ति, अकार्यं करोतीति यावत् यस्सत्रे अहस्समूहे प्रतिगृह्णाति याजयित्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरुषकुणप᳓म् अश्वकुणप᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -414,11 +476,14 @@ a human corpse or the corpse of a horse.
 
 कुणपं विशिनष्टि - पुरुषकुणपमित्यादि । पुरुषादिग्रहणेनाभक्ष्यत्वं दर्शयति । न मांसमात्रं, अपि तु पुरुषादिमांसमेवाभक्ष्यमत्तीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दक्षिणा-)+++गौ᳓र् वा᳓ अ᳓न्नम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -439,11 +504,14 @@ Food is the cow;
 
 गौर्वा अन्नमिति । गोशब्देन दक्षिणोच्यते । अन्नस्थानीया दक्षिणा, प्रतिग्रहीता तु पात्रस्थानीयः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓न पा᳓त्रेणा᳓न्नम् बि᳓भ्रति, यत् तन् न निर्णे᳓निजति, ततोऽधि म᳓लञ् जायते । +++(एवम् पात्रतुल्यो प्रतिगृहीता।)+++[38]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,18 +532,24 @@ in that he does not purify the vessel in which they carry food, filth is produce
 
 तत्र येन पात्रोणान्नं बिभ्रति यदि तत्पात्रं न निर्णेनिजति न शोधयति । 'निजां त्रयाणां गुणः' इत्यभ्यासस्य गुणः । ततोधि मलं जायते तस्मात्पात्रस्थानीयः प्रतिग्रहीता अन्नस्थानीयया दक्षिणया मलिनो भवति । प्रतिग्राह्यविशेषेण पुरुषो दुष्यति अन्नविशेषेणेव पात्रं । तस्मात् नाहीने प्रतिग्राह्यमिति अहीनस्यैव निषेधः सत्रम प्रतिषिद्धमेवेति ।
 </details>
+</details>
 
 ## अहीन-याग-गुणः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॑ ए॒व य॑जे॒तैको॒ हि प्र॒जाप॑ति॒रार्ध्नो॒द्...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓क एव᳓ यजेत +++(अहीनयागेषु / असत्त्रयागेषु)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -496,11 +570,14 @@ One should sacrifice by oneself,
 
 7इदानीं अहीनं विदधाति- एव यजेतेति ॥ अहीनमपि कुर्यादेवेत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓को हि᳓ प्रजा᳓पतिर् आ᳓र्ध्नोत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -521,18 +598,24 @@ for Prajapati prospered by himself.
 
 समर्थयते - एको हीति । एको हि प्रजापतिः द्वादशाहेन ऋद्धिं गतः । स यद्येको यष्टा कथं सत्रं स्यात्? । अथ यद्यहीनो न कर्तव्य एव, कथमनेन प्रजापतिः ऋद्धः स्यात्, तस्मात् अहीनः कर्तव्य इति ॥
 </details>
+</details>
 
 ## यागसामान्ये दीक्षा
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्वाद॑श॒ रात्री॑र्दीक्षि॒तस्स्या॒द्द्वाद॑श॒ मासाः॑ सव्ँवत्स॒रस्सव्ँ॑वत्स॒रᳶ प्र॒जाप॑तिᳶ प्र॒जाप॑ति॒र्वावैष...
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश रा᳓त्रीर् दीक्षित᳓स् स्या᳓त् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -553,11 +636,14 @@ One should be consecrated for twelve nights;
 
 8अथ उभयसाधारणो विधिः - द्द्वादशरात्रीरित्मादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश मा᳓साः सव्ँवत्सरः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -573,11 +659,14 @@ the year consists of twelve months,
 
 द्वाद॑श । मासाः॑ । सव्ँ॒व॒त्स॒र इति॑ सम्-व॒त्स॒रः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँ᳓वत्सरᳶ᳓ प्रजा᳓पतिः, प्रजा᳓पतिर् वा᳓व᳓+एषः᳓ +++(याजकः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -598,8 +687,11 @@ Prajapati is the year, he is Prajapati,
 
 प्रजापतिरेवैष यजमानः स्वयं तस्मात् द्वादशदीक्षा - इति ॥
 </details>
+</details>
 
 ## यागसामान्ये उपसद्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -611,11 +703,14 @@ Prajapati is the year, he is Prajapati,
 ए॒ष ह॒ त्वै जा॑यते॒ यस्तप॒सोऽधि॒ जाय॑ते चतु॒र्धा वा ए॒तास्ति॒स्रस्ति॑स्रो॒ रात्र॑यो॒ यद्द्वाद॑शोप॒सदो॒ याᳶ प्र॑थ॒मा य॒ज्ञन्ताभि॒स्सम्भ॑रति॒ या द्वि॒तीया॑ य॒ज्ञन्ताभि॒रा र॑भते [39]  
 यास्तृ॒तीया॒ᳶ पात्रा॑णि॒ ताभि॒र्निर्णे॑निक्ते॒ याश्च॑तु॒र्थीरपि॒ ताभि॑रा॒त्मान॑मन्तर॒तश्शु॑न्धते॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ह त्वै᳓ जायते, यस् तपसो᳓ऽधि जा᳓यते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -636,11 +731,14 @@ he is born indeed who is born from fervour.
 
 9अथोपसदां विधिः - एष हेति ॥ एष एव जायते जातव्यपदेशमर्हति । कः? यस्तपसः उपसदो जायते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓तुर्धा᳓ वा᳓ एता᳓स् तिस्र᳓स् तिस्रो रा᳓त्रयो य᳓द् द्वा᳓दशोपस᳓दः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -661,11 +759,14 @@ The twelve Upasads are these four sets of three nights;
 
 चतुर्धेत्यादि । द्वादशोपसदः चतुर्धा तिस्रो भवन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याᳶ᳓ प्रथमा᳓ यज्ञ᳓न् ता᳓भिस् स᳓म्भरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -686,11 +787,14 @@ with the first three he prepares the sacrifice,
 
 तत्र याः प्रथमाः तिस्र उपसदः ताभिः यज्ञं संभरति तत्साधनान्यर्जयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ द्विती᳓या यज्ञ᳓न्ता᳓भिरा᳓ रभते [39] ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -711,11 +815,14 @@ with the second three he grasps the sacrifice [3],
 
 द्वितीयाभिः तिसृभिः यज्ञमारभते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓स् तृती᳓याᳶ पा᳓त्राणि ता᳓भिर् नि᳓र्णेनिक्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -736,11 +843,14 @@ with the third three he cleanses the vessels,
 
 तृतीयाभिः पात्राणि शोधयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓श् चतुर्थी᳓र् अ᳓पि ता᳓भिर् आत्मा᳓नम् अन्तरत᳓श् शुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -761,18 +871,24 @@ and with the fourth three he purifies himself within.
 
 चतुर्थीभिरपि आत्मानं शोधयति । यद्वा - चतुर्थीभिरात्मानमपि शोधयति अन्तरतः अन्ततः । आद्यादित्वात्तसिः । अवसानवचनोन्तरशब्दः; यथाऽऽहुः - 'अन्तरमवसानावधिपारिधानान्तर्धिभेदतादर्थ्ये' इत्यादि । ततश्चाहीनपक्षेऽपि तस्य शुद्धत्वात् तस्य प्रतिग्रहोपि न दोषायेति तदनुज्ञा ॥
 </details>
+</details>
 
 ## सत्त्र-दक्षिणा-निषेधः
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 यो वा अ॑स्य प॒शुमत्ति॑ माँ॒सँ सो॑ऽत्ति॒ यᳶ पु॑रो॒डाश॑म्म॒स्तिष्कँ॒ स यᳶ प॑रिवा॒पम्पुरी॑षँ॒ स य आज्य॑म्म॒ज्जानँ॒ स यस्सोमँ॒ स्वेदँ॒ सोऽपि॑ ह॒ वा अ॑स्य शीर्ष॒ण्या॑ नि॒ष्पद॒ᳶ प्रति॑ गृह्णाति॒ यो द्वा॑दशा॒हे प्र॑तिगृ॒ह्णाति॒ तस्मा॑द्द्वादशा॒हेन॒ न याज्य॑म्पा॒प्मनो॒ व्यावृ॑त्त्यै ॥ [40]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तत्र दक्षिणा न भवति।)+++ यो᳓ वा᳓ अस्य पशु᳓म् अ᳓त्ति माँसँ᳓ सो᳙ऽत्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -793,11 +909,14 @@ He who eats his victim, eats his flesh,
 
 10पुनः दूषयति - यो वा अस्येत्यादि ॥ एवमहीनस्य विधिनिषधेपरंपरया सत्रस्य प्रशस्तताऽऽख्यायते । स चास्याहनिस्य पशुं पश्ववदानानि अत्ति न मांसमेव केवलमत्ति यजमानसंबन्धी
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पुरोडा᳓शम् मस्ति᳓ष्कँ सः᳓ +++(अत्ति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -818,11 +937,14 @@ who eats his sacrificial cake, eats his brains,
 
 यः पुरोडाशमत्तीत्वेव । मस्तिष्कं सः । अत्राप्यत्तीत्येव । मस्तिष्कः शिरोमांसः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ परिवाप᳓म्+++(=लाजान्)+++ पु᳓रीषँ सः᳓ +++(अत्ति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -843,11 +965,14 @@ who eats his fried grain, eats his excrement,
 
 यः परिवापं लाजानत्ति पुरीषं सोत्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ आ᳓ज्यम् मज्जा᳓नँ सः᳓ +++(अत्ति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -868,11 +993,14 @@ who eats his ghee, eats his marrow,
 
 यः आज्यमत्ति मज्जानं सोत्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स् सो᳓मँ स्वे᳓दँ सः᳓ +++(अत्ति)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -893,11 +1021,14 @@ who eats his Soma, eats his sweat,
 
 यः सोममत्ति स्वेदमेव सोत्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓पि ह वा᳓ अस्य शीर्षण्या᳙ निष्प᳓दᳶ +++(यूकादयः)+++ प्र᳓ति गृह्णाति , यो᳓ द्वादशाहे᳓ प्रतिगृह्णा᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -918,11 +1049,14 @@ and also he eats the excrements from his head, who accepts (a present) at the tw
 
 अपि च अस्य यजमानस्य शीर्षण्याः शिरसि भवाः निष्पदः निष्पद्यन्ते इति निष्पदः यूकादयः, ता एव प्रतिगृह्णाति यो द्वादशाहे गवादिदक्षिणां प्रतिगृह्णाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् द्वादशाहे᳓न न᳓ या᳓ज्यम् +++(ऋत्विक्त्वेन)+++, पाप्म᳓नो व्या᳓वृत्त्यै ॥ [40]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -944,4 +1078,5 @@ Therefore one should not cause one to sacrifice with the twelve-day (rite), to a
 तस्मात् द्वादशाहेन न याज्यम् । ऋत्विक्त्वमिदं निषिध्यते इत्येके । अहीनस्य निषेध इत्यन्ये । यजेर्ण्यन्तात् अचो यत् । 'यतोऽनावः' इत्याद्युदात्तत्वम् । पाप्मनो व्यावृत्त्यै पृथग्भावार्थम् । 'तादौ च' इत्यनन्तरस्य गतेः प्रकृतिस्वरत्वम् ॥
 
 इति सप्तमे द्वितीये दशमोनुवाकः ॥
+</details>
 </details>

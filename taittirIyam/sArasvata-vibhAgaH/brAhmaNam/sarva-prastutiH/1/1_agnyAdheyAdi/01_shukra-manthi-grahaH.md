@@ -3,6 +3,8 @@ title: ०१ सोमयाग-शुक्रा-मन्थि-ग्रह
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सोमयाग-शेषभूताः शुक्रा-मन्थि-ग्रह-प्रचारार्था मन्त्राः
@@ -33,11 +35,14 @@ unicode_script: devanagari
 1तत्र जघनेनोत्तरवेदिं ग्रहावरत्नी वा सन्धत्तो ऽध्वर्युः प्रतिप्रस्थाता च -  
 ब्रह्म संधत्तमिति यजूंषि ॥ 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्म स᳓न्धत्तम् +++(मया सह)+++। त᳓न् +++(ब्रह्म)+++ मे जिन्वतम्+++(=प्रीणयतम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -55,11 +60,14 @@ unicode_script: devanagari
 
 किञ्च - तत् ब्रह्म मे जिन्वतं प्रीणयतम् । जिवि प्रीणने, इदित्त्वान्नुम् । एवं क्षत्रादिषु द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्त्रँ᳓ स᳓न्धत्तम् +++(मया सह)+++। त᳓न् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -75,11 +83,14 @@ unicode_script: devanagari
 
 क्षत्रं क्षत्रियजातिं बलं वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓षँ+++(=अन्नम्)+++ स᳓न्धत्तम् +++(मया सह)+++। ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,11 +106,14 @@ unicode_script: devanagari
 
 इट् अन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓र्जँ+++(=रसं)+++ स᳓न्धत्तम् +++(मया सह)+++। ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -115,11 +129,14 @@ unicode_script: devanagari
 
 ऊर्क् रसः, तां उर्जं दुग्धादिम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रयिँ᳓ स᳓न्धत्तम् +++(मया सह)+++। ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -135,11 +152,14 @@ unicode_script: devanagari
 
 रयिं धनं हिरण्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्टिँ स᳓न्धत्तम् +++(मया सह)+++। ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -155,11 +175,14 @@ unicode_script: devanagari
 
 पुष्टिः वृद्धिः अविशेषात्सर्वस्य ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजाँ᳓ स᳓न्धत्तम् +++(मया सह)+++। ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -175,11 +198,14 @@ unicode_script: devanagari
 
 प्रजापुत्रपौत्रादिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓न्त् स᳓न्धत्तम् +++(मया सह)+++। ता᳓न्मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -195,12 +221,16 @@ unicode_script: devanagari
 
 पशवो गवाश्वादयः ॥
 </details>
+</details>
 
 __________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अथ ग्रहावध्वर्यू आददाते अध्वर्युः प्रतिप्रस्थाता चस्तुतोसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -208,6 +238,8 @@ __________
 स्तुतो᳙ ऽसि ज᳓नधाः ।  
 देवा᳓स् त्वा शुक्र+++(पात्रस्थ-सोम)+++पाᳶ᳓ प्र᳓णयन्तु ॥ 1 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -226,16 +258,22 @@ __________
 
 शुक्रपाः शुक्रपात्रस्यं सोमं ये पिबन्ति ते देवाः त्वा प्रणयन्तु प्रस्थापयन्तु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3दक्षिणेनोत्तरवेदिमध्वर्युः प्रतिपद्यते - सुवीरा इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे ग्रह!)+++ सुवी᳓राᳶ प्रजाᳶ᳓ प्रजन᳓यन् प᳓रीहि शुक्र᳓श् शुक्र᳓-शोचिषा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -252,10 +290,14 @@ __________
 
 वीराः पुत्रादयः विक्रान्ता वा । शोभनवीराः सर्वाः प्रजाः सर्वेषामस्माकमेव वा लिप्सूनां प्रजनयन् उत्पादयत् परीहि सर्वतो गच्छ । हेतौ शतृप्रत्ययः, प्रजननार्थमित्यर्थः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् । शुक्रश्शुक्रशोचिषा निर्मलतेजसा, इत्थंभूतः । दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । यद्वा - शुक्रशोचिषा शरीरेण इत्थंभूतः परीहीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ प्रतिप्रस्थाता +++(ऽऽददाति मन्थिगृहम्)+++ - स्तुतोसीति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -263,6 +305,8 @@ __________
 स्तुतो᳙ ऽसि ज᳓नधाः ।  
 देवा᳓स् त्वा मन्थि+++(पात्रस्थ-सोम)+++पाᳶ᳓ प्र᳓णयन्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -281,16 +325,22 @@ __________
 
 मन्थिपाः मन्थिपात्रस्थं सोमं ये पिबन्ति ते मन्थिपाः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथोत्तरेणोत्तरवेदिं प्रतिप्रस्थाता प्रतिपद्यते - सुप्रजा इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रजाᳶ᳓ प्रजाᳶ᳓ प्रजन᳓यन् प᳓रीहि मन्थी᳓ मन्थि᳓-शोचिषा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -307,12 +357,16 @@ __________
 
 शोभनापत्यास्सर्वाः प्रजाः अस्मदीया वा प्रजनयन् परीहि । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम्, व्यत्ययेन समासान्ताभावः । मन्थी मन्थ्याख्यस्त्वं मन्थिशोचिषा अरीणां मन्थनहेतुना तेजसा इत्थंभूतः । बहुव्रीहिर्वा पूर्ववत् ॥
 </details>
+</details>
 
 __________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथाग्रेणोत्तरवेदिं ग्रहावरत्नी वा सन्धत्तोऽध्वर्युः प्रतिप्रस्थाता च - सञ्जग्मानाविति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +374,8 @@ __________
 सञ्जग्मानौ᳓ दिव᳓ आ᳓पृथिव्या᳓ ऽऽयुस् स᳓न्धत्तम्  ।   
 +++(आयुस्)+++ त᳓न् मे जिन्वतम्+++(=प्रीणयतम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,12 +394,15 @@ __________
 
 तच्चायुर्मम जिन्वतं प्रीणयतम् । प्रीत्या वृद्धिर्लक्ष्यते । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणँ᳓ स᳓न्धत्तम्  ।   
 त᳓न् मे जिन्वतम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +418,15 @@ __________
 
 प्राण ऊर्ध्ववृत्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपानँ᳓ स᳓न्धत्तम्  ।   
 त᳓न् मे जिन्वतम् ॥ 2 ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -380,12 +442,15 @@ __________
 
 अपानोऽधोवृत्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यानँ᳓ स᳓न्धत्तम्  ।   
 त᳓म् मे जिन्वतम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,12 +466,15 @@ __________
 
 व्यानो विषूचीनवृत्तिः । अन्यवृत्तीनामेतत्त्रयमुपलक्षणम्, ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुस् स᳓न्धत्तम्  ।   
 त᳓न् मे जिन्वतम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -417,12 +485,15 @@ __________
 
 च᳓क्षुः । स᳓म् । धत्तम् । त᳓त् । मे । जिन्वतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रो᳓त्रँ स᳓न्धत्तम्  ।   
 त᳓न्  मे जिन्वतम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -433,12 +504,15 @@ __________
 
 श्रो᳓त्रम् । स᳓म् । धत्तम् । त᳓त् । मे । जिन्वतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नस्स᳓न्धत्तम्  ।   
 त᳓न्  मे जिन्वतम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -449,12 +523,15 @@ __________
 
 म᳓नः । स᳓म् । धत्तम् । त᳓त् । मे । जिन्वतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓चँ स᳓न्धत्तम्  ।   
 ता᳓म् मे जिन्वतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,6 +547,7 @@ __________
 
 चक्षुश्श्रोत्रे ज्ञानेन्द्रियाणाम्, वाक्तु कर्मेन्द्रियाणाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -478,6 +556,8 @@ __________
 आ᳓युर् यज्ञा᳓य धत्तम् ।  
 आ᳓युर् यज्ञ᳓-पतये धत्तम् । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +578,7 @@ __________
 यज्ञाय च आयुर्धत्तम्, अविच्छेदेन समाप्तिर्यज्ञस्यायुः ।  
 यज्ञपतये यजमानाय च आयुर्धत्तं अविघ्नयागसमाप्त्या आयुष्मन्तमेनं कुरुतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -507,6 +588,8 @@ __________
 प्राणय्ँ᳓ यज्ञा᳓य धत्तम् ॥ 3 ॥  
 प्राणय्ँ᳓ यज्ञ᳓-पतये धत्तम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -519,6 +602,7 @@ __________
 
 प्राणः᳓ । स्थः । प्राण᳓म् । मे । धत्तम् । प्राण᳓म् । यज्ञा᳓य । धत्तम् । प्राण᳓म् । यज्ञ᳓-पतये । धत्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -527,6 +611,8 @@ __________
 च᳓क्षुर् यज्ञा᳓य धत्तम् ।  
 च᳓क्षुर् यज्ञ᳓-पतये धत्तम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -539,6 +625,7 @@ __________
 
 च᳓क्षुः । स्थः । च᳓क्षुः । मे । धत्तम् । च᳓क्षुः । यज्ञा᳓य । धत्तम् । च᳓क्षुः । यज्ञ᳓-पतये । धत्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -547,6 +634,8 @@ __________
 श्रो᳓त्रय्ँ यज्ञा᳓य धत्तम् ।  
 श्रो᳓त्रय्ँ यज्ञ᳓-पतये धत्तम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -564,12 +653,15 @@ __________
 
 एवं प्राणादिष्वपि व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ᳓ देवौ शुक्रा-मन्थिनौ कल्प᳓यतन् दै᳓वीर् वि᳓शः ।  
 कल्प᳓यतम् मा᳓नुषीः ॥ 4 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +681,7 @@ __________
 
 मानुषीः मनुष्यसम्बन्धिनीश्च विशः कल्पयतम् । 'मनोर्जातौ' इत्यङ्, षुगागमश्च ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -596,6 +689,8 @@ __________
 प्राणा᳓न् पशु᳓षु +++(धत्तम्)+++।  
 प्रजा᳓म् म᳓यि च य᳓जमाने च +++(धत्तम् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -617,7 +712,10 @@ __________
 
 प्रजां पुत्रादिकां प्रनननसामर्थ्यं वा मयि च यजमाने च धत्तम् ॥
 </details>
+</details>
 ____________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -625,11 +723,14 @@ ____________
 
 निरस्तः शण्डः इत्यध्वर्युः, निरस्तो मर्क इति प्रतिप्रस्थाता । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रस्तश् श᳓ण्डः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -645,11 +746,14 @@ ____________
 
 निरस्तो बहिः क्षिप्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓रस्तो म᳓र्कः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -665,11 +769,14 @@ ____________
 
 शण्डामर्कौ चासुरपुरोहितौ यावपनुद्य इन्द्रायैव ग्रहौ हूयेते। ताभ्यां गृहीतावपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓पनुत्तौ श᳓ण्डा-म᳓र्कौ सहा᳓मु᳓ना ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -685,18 +792,24 @@ ____________
 
 किञ्च - एतौ शण्डामर्कौ अमुना अस्मद्द्वेष्येण पाप्मादिना सहापनुत्तौ अपास्तौ । 'नुदविद' इति नत्वाभावः ॥
 </details>
+</details>
 
 ____________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9अथ प्रोक्षितावादत्तः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्र᳓स्य समि᳓द् असि   +++(तां त्वामादधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -712,11 +825,14 @@ ____________
 
 शुक्रस्य समिदसि समिन्धन्यसीत्यध्वर्युः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थि᳓नस् समि᳓द् असि ।  +++(तां त्वामादधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -732,10 +848,14 @@ ____________
 
 मन्थिनस्समिदसीति प्रतिप्रस्थाता । तां त्वामादधामीत्युभयत्र शेषः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10पुरस्तात्प्रत्यञ्चावध्वर्यू जुहुतः - स प्रथम इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -745,6 +865,8 @@ ____________
 स᳓ प्रथमो᳓ बृ᳓हस्प᳓तिश्चिकित्वा᳓न् ।  
 त᳓स्मा इ᳓न्द्राय सुत᳓मा᳓ जुहोमि ॥ 5 ॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -765,4 +887,5 @@ ____________
 
 इति प्रथमाष्टके प्रथमोऽनुवाकः ।  
 
+</details>
 </details>

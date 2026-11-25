@@ -8,6 +8,8 @@ unicode_script: devanagari
 तार्प्यय्ँ᳓ य᳓जमानम् प᳓रिधापयति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 ता॒र्प्यय्ँ यज॑मान॒म् परि॑धापयति ।
@@ -22,11 +24,14 @@ unicode_script: devanagari
 
 1 तार्प्यमित्यादि ॥ आज्येन संतृप्तं वासः तार्प्यम् । तृपाख्यस्य वृक्षविशेषस्य विकार इत्येके । परिधानस्य प्राप्तिविशेषत्वात् अणौ कर्तुः कर्मता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वै᳓ तार्प्यय्ँ᳓ यज्ञे᳓न+ एवै᳓नँ स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -43,11 +48,14 @@ unicode_script: devanagari
 
 यज्ञो वा इति । तत्परिधानत्वात्ताच्छब्द्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्भम᳓यम् प᳓रिधापयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -58,11 +66,14 @@ unicode_script: devanagari
 
 दर्भ-म᳓यम् । प᳓रि । धापयति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पवि᳓त्रव्ँ वै᳓ दर्भाᳶ᳓ पुना᳓त्य् एवै᳓नम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -79,11 +90,14 @@ unicode_script: devanagari
 
 2 दर्भमयमिति ॥ 'द्व्यचश्छन्दसि'इति मयट् । दर्भविकारं वासो यजमानमेव परिधापयति । 'पुनात्येवैनम्'इति द्वयोस्समुच्चयः । विकल्पमेके । केचित्तु समुच्चयस्यासम्भवात् विकल्पस्य चान्याय्यत्वात् दर्भमयं पत्रीं परिधापयतीति । एनमिति कथम्? तादृशपत्नीयोगेन यजमान एव पूतो भवतीत्यदोषः । उक्तं चाचार्यैः 'दर्भमयं पत्रीं'इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓जव्ँ वा᳓ एषो᳓ ऽवरुरुत्सते यो᳓ वाजप᳓येन य᳓जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,11 +109,14 @@ unicode_script: devanagari
 
 वा᳓जम् । वै᳓ । एषः᳓ । अ᳓व । रुरुत्सते । यः᳓ । वा । जप᳓ । येन । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधयᳵ ख᳓लु वै᳓ वा᳓जः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -110,11 +127,14 @@ unicode_script: devanagari
 
 ओ᳓षधयः । ख᳓लु । वै᳓ । वा᳓जः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् दर्भम᳓यम् परिधाप᳓यति  वा᳓जस्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -131,11 +151,14 @@ unicode_script: devanagari
 
 वाजं वा इत्यादि । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "जा᳓य ए᳓हि सु᳓वो रो᳓हावे᳓"त्य् आह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -146,11 +169,14 @@ unicode_script: devanagari
 
 जा᳓ये । आ᳓ । इहि । सु᳓वः । रो᳓हाव । इति । आह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓त्निया एवै᳓ष᳓ यज्ञ᳓स्यान्वारम्भो᳓ ऽनवच्छित्त्यै +++(भवति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -169,11 +195,14 @@ unicode_script: devanagari
 अन्वारम्भः 'जाय एहि' इति पत्न्यामन्त्रणम् ।  
 स च अनवच्छित्यै पत्नीयजमानयोरविच्छेदाय भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓दशारत्निर् यू᳓पो भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -184,11 +213,14 @@ unicode_script: devanagari
 
 सप्त᳓दशा-रत्निः । यू᳓पः । भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तदशᳶ᳓ प्रजा᳓पतिᳶ  प्रजा᳓पतेर् आ᳓प्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -205,11 +237,14 @@ unicode_script: devanagari
 
 4 सप्तदशारत्निरिति ॥ चतुर्विंशतिरङ्गुलयोऽरत्निः । गतमन्यत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूपर᳓श् च᳓तुरश्रिर् भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -225,11 +260,14 @@ unicode_script: devanagari
 
 5 तूपर इत्यादि ॥ तूपरः शृङ्गहीनः । इह तु चषालादूर्ध्वं या शिखा तद्रहितत्वाद्यूपस्तूपर उच्यते । चतस्वोऽश्रयो यस्य स चतुरश्रिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गौधूम᳓ञ् चषा᳓लम् +++(भवति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -245,11 +283,14 @@ unicode_script: devanagari
 
 गौधूमं गोधूमविकारः पिष्टमय इत्येके । कपाल इत्यन्ये । गोधूमा उक्ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ वा᳓ एते᳓ व्रीह᳓यो,  न᳓ य᳓वा , य᳓द् गोधू᳓माः ॥41॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -261,11 +302,14 @@ unicode_script: devanagari
 
 न᳓ । वै᳓ । एते᳓ । व्रीह᳓यः । न᳓ । य᳓वाः । य᳓त् । गो-धू᳓माः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एव᳓म् इव हि᳓ प्रजा᳓पतिस् स᳓मृद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -282,11 +326,14 @@ unicode_script: devanagari
 न वा एत इति ।  
 प्रसिद्धजात्यन्वयाभावेन गोधूमप्रजापत्योस्साम्यात् समृद्धिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अमु᳓म् एवा᳓स्मै लोक᳓म् अ᳓न्नवन्तङ् करोति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -302,11 +349,14 @@ unicode_script: devanagari
 
 अथो इति । यूपेन परलोकजयः पुनरपि तदुपरि गोधूमसंबन्धः पुनरपि देवलोकमन्नवन्तं यजमानाय करोति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓सोभिर् वेष्टयत्य् + एष᳓ वै᳓ य᳓जमानो य᳓द् यू᳓पः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,11 +375,14 @@ unicode_script: devanagari
 वेष्टनमुपरिबन्धनम् ।  
 प्राधान्यात् यूपयजमानयोस्ताच्छब्द्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-देवत्यव्ँ᳙  वा᳓सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -346,11 +399,14 @@ unicode_script: devanagari
 
 'अग्नेस्तूषाधानम्' इत्यत्र वाससः सर्वदेवत्यत्वमुक्तम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वाभिर् एवै᳓नन् देव᳓ताभिस् स᳓मर्धयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,11 +422,14 @@ unicode_script: devanagari
 
 तादृशवासस्संबन्धेन सर्वाभिर्देवताभिर्यूपं समृद्धं करोति तद्वन्तं वा यजमानम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आक्र᳓मणम् एव᳓ त᳓त् से᳓तुय्ँ य᳓जमानᳵ कुरुते  सुवर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -387,11 +446,14 @@ unicode_script: devanagari
 
 अथो अपि च उपर्युपरि वासोवेष्टनेन आक्रमणं सोपानं सेतुं सोपानपरंपरां स्वर्गस्य प्राप्त्यै कुरुते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश वाजप्रसवी᳓यानि जुहोति ॥42॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -402,11 +464,14 @@ unicode_script: devanagari
 
 द्वा᳓दश । वाज-प्रसवी᳓यानि । जुहोति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वा᳓दश मा᳓सास् सव्ँत्सर᳓स् सव्ँवत्सर᳓मेव᳓ प्रीणाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -418,11 +483,14 @@ unicode_script: devanagari
 
 द्वा᳓दश । मा᳓साः । सम्-वत्सरः᳓ । सम्-वत्सर᳓म् । एव᳓ । प्रीणाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो सव्ँवत्सर᳓म् एवा᳓स्मा उ᳓पदधाति सुवर्ग᳓स्य लोक᳓स्य स᳓मष्ट्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -439,11 +507,14 @@ unicode_script: devanagari
 
 7 द्वादशेत्यादि ॥ 'वाजश्च प्रसवश्च' इत्यादीनि । वाजस्य अन्नस्य प्रसव उत्पत्तिः तत्प्रयोजनानि । अनुप्रवचनादित्वाच्छः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दश᳓भिᳵ क᳓ल्पै रोहति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -454,11 +525,14 @@ unicode_script: devanagari
 
 दश᳓भिः । क᳓ल्पै । रोहति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓व वै᳓ पु᳓रुषे प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -469,11 +543,14 @@ unicode_script: devanagari
 
 न᳓व । वै᳓ । पु᳓रुषे । प्राणाः᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ना᳓भिर् दशमी᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -484,11 +561,14 @@ unicode_script: devanagari
 
 ना᳓भिः । दशमी᳓ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓नेव᳓ यथास्थान᳓ङ् कल्पयित्वा᳓ सुवर्गल्ँ᳓ लोक᳓म् एति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -500,11 +580,14 @@ unicode_script: devanagari
 
 प्र । अणा᳓न् । एव᳓ । यथा-स्थान᳓म् । कल्पयित्वा᳓ । सुवः-ग᳓म् । लोक᳓म् । एति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वद् वै᳓ पु᳓रुषस्य स्वय्ँ᳓ या᳓वत् प्राणाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -521,11 +604,14 @@ unicode_script: devanagari
 
 8 दशभिरिति ॥ 'आयुर्यज्ञेन कल्पताम्' इत्यादिभिः यज्ञस्य कॢप्तिहेतुभिरारोहति । गतमन्यत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वद् एवा᳓स्या᳓स्ति ते᳓न सह᳓ सुवर्गल्ँ᳓ लोक᳓म् एति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -542,11 +628,14 @@ unicode_script: devanagari
 
 तेन सहेति । दशशब्दान्वयात् सर्वेण तेजसा सह स्वर्गे गच्छति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "सु᳓वर् देवाँ᳓ अगन्मे᳓"त्य् आह᳓ , सुवर्ग᳓म् एव᳓ लोक᳓म् एति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -563,11 +652,14 @@ unicode_script: devanagari
 
 9 'सुवर्देवा अगन्म'14इत्यग्रं प्राप्य जपति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अमृ᳓ता अभूमे᳓"त्य् आहामृ᳓तम् इव हि᳓ सुवर्गो᳓ लोकः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -584,12 +676,15 @@ unicode_script: devanagari
 
 10 अमृतमिवेति ॥ अमृतमिव मरणरहिताः स्वर्वासिन इत्यर्थः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "प्रजा᳓पतेᳶ प्रजा᳓ अभूमे᳓"त्य् आह  ,
 प्राजापत्यो᳓ वा᳓ अयल्ँ᳓ लोको᳓ ऽस्मा᳓देव᳓ ते᳓न लोका᳓न् नै᳓ति ॥44॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -607,11 +702,14 @@ unicode_script: devanagari
 
 11 प्राजापत्यो वा इति ॥ मनुष्यलोकस्य प्राजापत्यत्वात् 'प्रजापतेः प्रजा अभूम'14इति वचनमस्माल्लोकादागमनाय भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "स᳓मह᳓म् प्रज᳓या स᳓म्म᳓या प्रजे᳓" त्य् आहाशि᳓षम् एवै᳓ता᳓म् आ᳓शास्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -628,11 +726,14 @@ unicode_script: devanagari
 
 12 समहं प्रजयेति ॥ गृहपशुप्रेक्षणम् । आशिषमिति । समित्युपसर्गाक्षिप्ता संगसीयेत्येताम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसपुटै᳓र् घ्नन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -643,11 +744,14 @@ unicode_script: devanagari
 
 आसपुटैः᳓ । घ्नन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓न्नव्ँ वा᳓ इय᳓म् अन्ना᳓द्येन+ एवै᳓नँ स᳓मर्धयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -664,11 +768,14 @@ unicode_script: devanagari
 
 13 आसपुटैरित्यादि ॥ कृष्टक्षेत्रपांसव आसाः तत्पुटिकाभिरवतरन्तं घ्नन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊ᳓षैर् घ्नन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -679,11 +786,14 @@ unicode_script: devanagari
 
 ऊ᳓षैः । घ्नन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ हि᳓ साक्षा᳓द् अ᳓न्नय्ँ य᳓द् ऊ᳓षाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -701,11 +811,14 @@ unicode_script: devanagari
 14 एते हीति ॥  
 आधानादौ साधनभावेन साक्षादन्नहेतुत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साक्षा᳓द् एवै᳓नम्‌ अन्ना᳓द्येन स᳓मर्धयन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -716,11 +829,14 @@ unicode_script: devanagari
 
 साक्षा᳓त् । एव᳓ । एनम् । अन्ना᳓द्येन । स᳓म् । अर्धयन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुर᳓स्तात् प्रत्य᳓ञ्चं घ्नन्ति ॥45॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -736,11 +852,14 @@ unicode_script: devanagari
 
 15 पुरस्तादित्यादि ॥ यूपस्य पुरस्तात् स्थिताः प्रत्यञ्चं प्रत्यङ्मुखं आत्माभिमुखं घ्नन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुर᳓स्ताद् धि᳓ प्रतीची᳓नम् अ᳓न्नम् अद्य᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -756,11 +875,14 @@ unicode_script: devanagari
 
 पुरस्ताद्धीति । प्राक् मुखैः भुञ्जानैः पुरस्तात् स्थितात् भाजनादादाय प्रतीचीनं प्रत्यग्गमनं आस्ये प्रक्षिप्य अन्नमद्यते ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीर्षतो᳓ घ्नन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -777,11 +899,14 @@ unicode_script: devanagari
 16 शीर्षत इति ॥  
 शिरसि शीर्षतो भवति आस्ये प्रक्षिप्तं जठरमागच्छति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शीर्षतो᳓ ह्य् अ᳓न्नम् अद्य᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -792,11 +917,14 @@ unicode_script: devanagari
 
 शीर्षतः᳓ । हि᳓ । अ᳓न्नम् । अद्य᳓ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिग्भ्यो᳓ घ्नन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -812,11 +940,14 @@ unicode_script: devanagari
 
 17 दिग्भ्य इति ॥ एवं सर्वे सर्वासु दिक्षु घ्नन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिग्भ्य᳓ एवा᳓स्मा अन्ना᳓द्यम् अ᳓वरुन्धते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -832,11 +963,14 @@ unicode_script: devanagari
 
 दिग्भ्यस्सर्वाभ्यस्समाहृत्य अस्मै यजमानाय यजमानार्थं अवरुन्धते परिगृह्णन्ति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरो᳓ वा᳓ एष᳓ प᳓राङ् प्रद᳓घो यो᳓ यू᳓पँ रो᳓हति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -857,11 +991,14 @@ unicode_script: devanagari
 दघेः 'ईश्वरे तोसुन्कसुनौ' इति कसुन् ।  
 +++(अत्र प्रदघशब्दार्थः अन्यः , प्रकृते अन्यः,)+++
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हि᳓रण्यम् अध्य᳓वरोहति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -872,11 +1009,14 @@ unicode_script: devanagari
 
 हि᳓रण्यम् । अधि । अव᳓ । रोहति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमृ᳓तव्ँ वै᳓ हि᳓रण्यम् , अमृ᳓तँ सुवर्गो᳓ लोको᳓ ऽमृ᳓त एव᳓ सुवर्गे᳓ लोके᳓ प्र᳓तितिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -889,11 +1029,14 @@ unicode_script: devanagari
 
 अ-मृ᳓तम् । वै᳓ । हि᳓रण्यम् । अ-मृ᳓तम् । सुवः-गः᳓ । लोकः᳓ । अमृ᳓तः । एव᳓ । सुवः-गे᳓ । लोके᳓ । प्र᳓ति । तिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत᳓मानम् भवति शता᳓युᳶ पु᳓रुषश् शते᳓न्द्रिय आ᳓युष्य् एवे᳓न्द्रिये᳓ प्र᳓ति तिष्ठति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -911,11 +1054,14 @@ unicode_script: devanagari
 
 शतमानमिति । गतम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्ट्यै वा᳓ एत᳓द् रूपय्ँ᳓ य᳓द् अजा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -932,11 +1078,14 @@ unicode_script: devanagari
 
 19 पुष्ट्यै वा इति ॥ अजानां पुष्ट्या रूपं पुष्टिरेव स्वयं अजारूपोण वर्तते । षष्ठ्यर्थे चतुर्थी ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि᳓स् सव्ँवत्सर᳓स्यान्या᳓न् पशू᳓न् प᳓रि प्र᳓जायते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -947,11 +1096,14 @@ unicode_script: devanagari
 
 त्रिः᳓ । सम्-वत्सर᳓स्य । अन्या᳓न् । पशू᳓न् । प᳓रि । प्र᳓ । जायते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बस्ताजिन᳓म् अध्य᳓व रोहति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -972,11 +1124,14 @@ unicode_script: devanagari
 'कृत्वोर्थप्रयोगे'इति वा ।  
 एवमजत्वजातेर्महाभागत्वात् बस्ताजिनमध्यवरोइति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓ष्ट्याम् एव᳓ प्रज᳓नने प्र᳓तितिष्ठति ॥47॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -993,4 +1148,5 @@ unicode_script: devanagari
 एवं कुर्वन् पुष्ट्यां प्रजननात्मिकायां प्रतिष्ठितो भवति ॥
 
 इति तृतीये सप्तमोऽनुवाकः ॥
+</details>
 </details>

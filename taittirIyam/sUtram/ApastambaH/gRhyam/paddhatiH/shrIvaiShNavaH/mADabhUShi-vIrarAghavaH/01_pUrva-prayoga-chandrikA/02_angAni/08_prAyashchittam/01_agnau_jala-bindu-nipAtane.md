@@ -25,14 +25,17 @@ title = "०१ अग्नौ जल-बिन्दु-निपातने"
 <details open><summary><h5>भूर् भुव॒स् सु॒व॒स् स्वाहा॑ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
-(प्रजापतय इदं न मम) ॥१॥
+ओं᳓ भू᳓र् भु᳓वस् सु᳓वस् स्वा᳓हा ॥  
+(प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
 ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
 (प्रजापतय इदं न मम) ॥१॥
+</details>
 </details>
 </details>
 </div>

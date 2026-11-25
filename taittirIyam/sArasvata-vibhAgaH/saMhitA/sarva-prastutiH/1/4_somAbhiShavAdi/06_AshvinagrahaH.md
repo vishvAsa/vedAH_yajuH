@@ -5,9 +5,12 @@ title = "०६ आश्विनग्रहः"
 गायत्री । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1बहिष्पवमाने स्तुते आश्विनं गृह्णाति - या वां कशेति गायत्र्या त्रिपदया ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/03_yA_vAM.md">
@@ -272,17 +275,21 @@ Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetz
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इत्यनुद्रुत्य उपयामगृहीतोस्यश्विभ्यां त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -309,13 +316,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्वि᳓भ्यान्त्वा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,17 +340,23 @@ to the Aśvins thee!
 
 अ॒श्विभ्या॒मित्य॒श्वि-भ्या॒म् । त्वा॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एष ते योनिर्माध्वीभ्यां त्वेति सादयति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निर्; मा᳓ध्वीभ्यान् त्वा ॥ [7]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,6 +376,7 @@ This is thy birthplace; to the sweet thee!
 <details><summary>भट्टभास्कर-टीका</summary>
 
 मध्वस्यास्तीति मध्वम् मधुभाजनं, दृतिरूपम् । 'यो हि वां मधुनो दृतिः' इत्यादौ प्रसिद्धम् । तदन्तान्मत्वर्थीय इकारः । 'ऋत्व्यवास्त्व्यवास्त्व' इत्यादौ 'माध्वी' इति निपात्यते । यद्वा - मध्वेव माध्वी, आग्नीध्रादिवत्स्वार्थेऽञ्, माध्वीभ्यामिति मधुमद्भ्यामित्यर्थः । 'यज्ञस्य शिरोच्छिद्यत ते देवा अश्विनावब्रुवन्' इत्यादि ब्राह्मणम्  । 'ते देवा अब्रुवन्नपूतौ वा इमौ' इत्यादि च 'तस्माद्बहिष्पवमाने स्तुत आश्विनो गृह्यते' इत्यन्तम् । 'वाग्वा ऐन्द्रवायवः' इत्यादि च ॥
+</details>
 </details>
 
 इति चतुर्थे षष्ठोनुवाकः ॥  

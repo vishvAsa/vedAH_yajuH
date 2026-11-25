@@ -3,9 +3,12 @@ title: १९ ऐन्द्रे पशौ वपादीनां (वप�
 unicode_script: devanagari
 
 ---
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 (SB) 1ऐन्द्रस्य पशोः प्रयाजयाज्या अष्टादशेऽभिहिताः । एकोनविंशे वपापुरोडाषहविषां याज्यानुवाक्या उच्यन्ते । तत्र वपायाः पूरोनुवाक्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15,6 +18,8 @@ unicode_script: devanagari
 अ᳓तिच्छन्दाश्छ᳓न्द इन्द्रिय᳓म् ।   
 बृह᳓दृषभो᳓ गौ᳓र्व᳓यो दधुः ॥ 87॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -33,10 +38,14 @@ unicode_script: devanagari
 
 वसन्ताख्येनर्तुदेवेन सहिता वसवो देवा इन्द्रे हविरिदं समर्प्यमाणं वय आयुष्यं च दधुः संपादितवन्तः । कीदृशं हविः? त्रिवृदाख्येन स्तोमेन स्तुतम् । तथा तेजसा तेजस्विना रथंतराख्येन साम्ना स्तुतम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपाया याज्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ unicode_script: devanagari
 बृहता᳓ य᳓शसा ब᳓लम् ।  
 हवि᳓रि᳓न्द्रे व᳓यो दधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -64,10 +75,14 @@ unicode_script: devanagari
 
 ग्रीष्मर्तुमा सहिता इन्द्राः पञ्चदशस्तोमे यशस्विना बृहत्साम्ना स्तुतं बलकरं हविर्वयश्चेन्द्रे दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 3अथ पुरोडाशस्य पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -77,6 +92,8 @@ unicode_script: devanagari
 वैरूपे᳓ण विशौ᳓जसा ।  
 हवि᳓रि᳓न्द्रे व᳓यो दधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -95,10 +112,14 @@ unicode_script: devanagari
 
 वर्षर्तुना सहिता आदित्याः सप्तदशस्तोमे वैश्यानुग्राहकेण ओजस्विना वैरूपसाम्ना स्तुतं हविर्वयश्चेन्द्रे दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 4अथ पुरोडाशस्य याज्पामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -108,6 +129,8 @@ unicode_script: devanagari
 वैराजे᳓न श्रिया᳓ श्रि᳓यम् ।  
 हवि᳓रि᳓न्द्रे व᳓यो दधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -126,10 +149,14 @@ unicode_script: devanagari
 
 शरदृतुसहिता ऋभुनामका देवा एकविंशस्तोमे श्रिया श्रीप्रदेन वैराजेन साम्ना स्तुतं श्रियं श्रीप्रदं हविर्वयश्चेन्द्रे दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5अथ हविषः पुरोनुवाक्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -139,6 +166,8 @@ unicode_script: devanagari
 ब᳓लेन श᳓क्वरीस्स᳓हः ।   
 हवि᳓रि᳓न्द्रे व᳓यो दधुः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -157,10 +186,14 @@ unicode_script: devanagari
 
 हेमन्तर्तुसहिता मरुन्नामका देवाः त्रिणवस्तोमे बलेन बलप्रदेन शक्वरीः शक्वरसाम्ना स्तुतं सहो बलप्रदं हविर्वयश्चेन्द्रे दधुः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ हविषो याज्यामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -170,6 +203,8 @@ unicode_script: devanagari
 सत्ये᳓न रेव᳓तीः क्षत्र᳓म् ।  
 हवि᳓रि᳓न्द्रे व᳓यो दधुः ॥ 89॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -190,4 +225,5 @@ unicode_script: devanagari
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके एकोनविंशोऽनुवाकः ॥
 
+</details>
 </details>

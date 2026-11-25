@@ -7,6 +7,8 @@ title = "०५ यूपच्छेदनम्"
  सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 यूपार्थं वृक्षम् उपतिष्ठते - अत्यन्यानिति-द्वादशाक्षर-त्रिपदया  महाबृहत्या ।
@@ -26,6 +28,7 @@ _______
 
 इति।
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
 
@@ -39,9 +42,12 @@ _______
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अतः परं पाशुकं काण्डं सोमार्षेयमेव । यूपार्थं वृक्षम् उपतिष्ठते - अत्यन्यानिति द्वादशाक्षर-त्रिपदया  महाबृहत्या । ताण्डिन एतां सतोबृहतीमाहुः, ऊर्ध्वबृहर्तीं बह्वृचाः ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/02_atyanyAn_agAn.md">
@@ -83,17 +89,21 @@ So I welcome thee, that art of Visnu, for the sacrifice to the gods.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2यूपमाज्येनानक्ति - देवस्त्वेति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/devas_tvA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स् त्वा सविता᳓ म᳓ध्वाऽनक्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -119,16 +129,20 @@ Let the god Savitr anoint thee with honey.
 
 8यूपस्याग्रमनक्ति - देवस्त्वेति ॥ व्याख्यातम् ॥  
 </details>
-
+</details>
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ऊर्ध्वाग्रं बार्हिर् अनूच्छ्रयति - ओषधे त्रायस्वैनमिति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/oShadhe.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -145,11 +159,14 @@ _______
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधे त्रा᳓यस्वैनम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -183,22 +200,26 @@ O plant, protect him.
 
 10वपाग्रहणदेशे प्राचीनाग्रं बर्हिर्निदधाति - ओषधे त्रायस्वैनमिति ॥ व्याख्यातम् ॥
 </details>
-
+</details>
 </div>  
 
 _______
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/svadhite.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4स्वधितिना तिर्यञ्चं प्रहरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व᳓धिते+++(=क्षुर)+++! मै᳓नँ हिँसीः  ।+++(र४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -231,10 +252,12 @@ Axe, hurt him not.
 
 स्वधितिः क्षुरः। देवेषु प्रसिद्धत्वेन श्रूयत इति देवश्रूर् देव-नापितस् तद्-रूपो ऽहं वपनं कुर्वे। एतानि केशादीनि।
 </details>
-
+</details>
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5पतन्तमनुमन्त्रयते - दिवमग्रेणेति ॥
@@ -244,6 +267,7 @@ _______
 
 दिव॒मग्रे॑ण॒ मा ले॑खीर॒न्तरि॑क्ष॒म्मध्ये॑न॒ मा हिँ॑सीᳶ पृथि॒व्या सम्भ॑व।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -251,6 +275,8 @@ _______
 अन्त᳓रिक्षम् म᳓ध्येन मा᳓ हिँसीः ।  
 पृथिव्या᳓ स᳓म्भव।+++(5)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -277,17 +303,23 @@ with earth be united.
 
 आत्मीयेनाग्रेण दिवं मा लेखीः मा विदारीः । 'नेटि' इति वृद्धिप्रतिषेधः । तथात्मीयेन मदेनान्तरिक्षं मा हिंसीः । पृथिव्या च सम्भव संयुजस्व पृथिवीमपि मा प्रहासीः; प्रमाणानतिरेकस्सम्भवः; पृथिवीमतिक्रम्य मा गाः । यथा - त्वदीयैरग्रमध्यमूलैर्विदारणाभिघातविपाटनकारिभिः लोकत्रयं न नश्यति तथा पतेत्यर्थः । पृथिवीशब्दो ङीषन्तोन्तोदात्तः, तेन 'उदात्तयणो हल्पूर्वात्' । इति विभक्तेरुदात्तत्वम् । 'इमे वै लोकाः' इत्यादि बाह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6आव्रश्चने हिरण्यं निधाय सम्परिस्तीर्याभिजुहोति - वनस्पत इति त्रैष्टुभैकपदया ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नस्पते शत᳓वल्शो वि᳓ रोह ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,19 +340,24 @@ O tree, grow with a hundred shoots; may we grow with a thousand shoots.
 
 बर्हिराच्छेदनाभिमर्शनेन व्याख्यातप्रायमिदम् । पारस्करादिर्वनस्पतिशब्दः । 'तस्मादाव्रश्चनात्' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7आत्मानं प्रत्यभिमृशति - सहसवल्शा इति त्रिष्टुभैकपदया ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/sahasra-valshAH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓स्र-वल्शाः+++(=प्ररोहाः)+++ वि᳓ वयँ᳓ रुहेम ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -342,24 +379,32 @@ Let us rise with a thousand shoots.
 9आत्मानं प्रत्यभिमृशति - सहस्रवल्शा इति त्रिष्टुभैकपदया ॥   
 वयमपि सहस्रवल्शाः पुत्रपौत्राद्यनेकप्ररोहवन्तो विरुहेम विरूढा भूयास्म । 'लिङ्याशिष्यङ्' (पा.सू. 3.1.86) इत्यङ्प्रत्ययः । यासुडादि (पा.सू. 3.4.103) । 'छन्दस्युभयथा' (पा.सू. 3.4.117) इति सार्वधातुकत्वादिय् । यस्य लोपः (पा.सू. 6.1.66) ॥
 </details>
-
+</details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इदमपि प्रागेव व्याख्यतम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8 अन्वग्रं शाखाः प्रसूयति - यं त्वेति द्विपदया त्रिष्टुभा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(तादृशस् त्वं)+++ य᳓न् त्वाऽयँ᳓ स्व᳓धितिस् ते᳓तिजानᳶ प्रणिना᳓य महते᳓ सौ᳓भगाय ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -380,24 +425,32 @@ Thou, whom this sharp axe hath brought forward for great good fortune,
 
 तेतिजानो नीशितधारोयं स्वधितिः । तिज निशातने, यङ्क्लुगन्ताल्लटो व्यत्ययेनात्मनेपदं शानच् । 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । यं त्वां यूपार्थं वृक्षं प्राणिनाय प्रकर्षेण नयति शाखा प्रसाध्य विशिष्टं रूपं प्रापयति । 'छन्दसि लुङ्लङ्लिटः' इति लिट् । किमर्थं? महते सौभगाय सुभगत्वाय सुश्रीकत्वाय । उद्गात्रादिषु ' सुभगं मन्त्रे' इति पाठात् भावे अञ्प्रत्ययः । स खलु त्वमसीति शेषः । सत्वमस्मद्यज्ञं साधयेति वा ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/3_agniShToma-pashv-Adi/05_yUpachChedanam/achChinnaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 15अधस्ताद् वपरं परिवासयति - अच्छिन्न इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓च्छिन्नो रा᳓यस् सुवी᳓रः ॥ [9]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,7 +472,7 @@ uncut, with wealth of heroes, (give us) riches.
 9चतुरङ्गुलमग्रं चषालाय+++(=यूप-कटकाय)+++ प्रच्छेदयति - अच्छिन्न इति ॥ अच्छिन्नः । अद्व्ययपूर्वपदप्रकृतिस्वरत्यम् । रायः धनानि देहीति शेषः । यद्वा - अच्छिन्नो धनस्य सुवीरश्च भवेत्यध्याहारः । 'ऊडिदं' इत्यादिना तृतीयादेर्विभक्तेरुदात्तत्वं व्यत्ययेन न क्रियते । ईदृशस्त्वमेव नो रायः । शोभना वीराः पुत्रपौत्रादयोस्य यजमानस्य येन भवन्ति स सुवीरः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युतात्त्वन् । यस्मात्त्वया यजमानस्य आयुष्मन्तः पूत्रादय उत्पद्यन्ते, तस्मात्तेषामभिवृद्ध्यर्थं अविच्छेदेन धनानि देहीति ॥
 
 </details>
-
+</details>
 </div>  
 
 इति तृतीये पञ्चमोनुवाकः ॥  

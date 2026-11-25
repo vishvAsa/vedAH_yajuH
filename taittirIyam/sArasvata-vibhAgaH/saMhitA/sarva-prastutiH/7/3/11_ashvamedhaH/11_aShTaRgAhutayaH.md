@@ -2,6 +2,8 @@
 title = "११ अष्टऋगाहुतयः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अथाश्वमेधे अष्टावाहुतीः जुहोति  
@@ -16,6 +18,7 @@ title = "११ अष्टऋगाहुतयः"
 
 1अथाश्वमेधे अष्टावाहुतीः जुहोति - अर्वाङित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -23,6 +26,8 @@ title = "११ अष्टऋगाहुतयः"
 अमु᳓ष्माद्+++(→शत्रोः / स्वर्गात्)+++ अ᳓धि मा᳓मभि᳓ ।  
 ऋ᳓षीणाय्ँ यᳶ᳓ पुरो᳓हितः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,6 +51,9 @@ The sacrifice which the Rsis have brought forward.
 
 प्रथमा गायत्री त्रिपदा । अर्वाङितो मुखो यज्ञः संक्रामतु यजमानं समागच्छतु । कीदृशः? ऋषीणां ज्ञानवतां यजमानानां यः पुरोहितः सर्वार्थेषु साधनभावेन पुरस्तान्निहितः । 'पुरोव्ययम्' इति गतित्वात् 'गतिरनन्तरः' इति प्रकृतिस्वरत्वम् । सोयं यज्ञो मामभि मामेव लक्षीकृत्य अधिकमर्वाक् संक्रामतु आगच्छतु । अर्वागञ्चतीति 'ऋत्विक्' इत्यादिना क्विन्, 'क्विन्प्रत्ययस्य कुः' इति कुत्वम् । अमुष्माद्देवदत्तादेरपक्रम्य यो मां द्वेष्टि तं हित्वा मामभि संक्रामतु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -56,6 +64,7 @@ The sacrifice which the Rsis have brought forward.
 
 2अथ द्वितीया - निर्देवमिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -64,6 +73,8 @@ The sacrifice which the Rsis have brought forward.
 श᳓रीरय्ँ यज्ञ-शमल᳓ङ्+++(=पुरिषं)+++ कु᳓सीदन्+++(=वृद्धिप्रयोगजीवनं)+++  
 त᳓स्मिन्त् सीदतु, यो᳙ ऽस्मा᳓न् द्वे᳓ष्टि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -88,6 +99,9 @@ May it rest with him who hateth us.
 
 पङ्क्तिविशेषः । निर्देवं निर्गता देवा यस्मात्तं निस्स्वाहाकारवषट्कारतया देवैर्बहिष्कृतं निर्वीरं निर्गतवीरं देवेन पुरुषकारेण च विरहितं कृत्वा विष्कन्धं विविधशोषणं शरीरं कृपणं तस्मिन् हीयतां स्थाप्यताम् । हि गतौ । दधातेर्वा छान्दसो हिभावः । उत्तरार्धर्चे स्थितं शरीरग्रहणमिह संबध्यते । यद्वा - द्वेष्टरि निर्देवादिगुणे कृते तस्मिन् तस्य शरीरं विविधशोषं हीयतां क्षीयताम् । जहातेर्घुमास्थादिना ईत्वम् । स्कन्धेर्घञ् । 'वेस्कन्देरनिष्ठायाम्' इति षत्वम् । व्यत्ययेन घत्वम् । सर्वत्राव्ययपूर्वपदप्रकृतिस्वरत्वम् । यद्वा - विरूपस्कन्धावयवं शरीरम् । सुषामादित्वात् षत्वम् । तद्द्वेष्टरि स्थाप्यताम् । तादृशं वा तत्क्षीयतां प्रवृत्त्यभावेन । तदेवाह - यज्ञशमलं शमेरौणादिको लप्रत्ययः । अगागमश्च । कुसीदं वृद्धिप्रयोगजीवनं यज्ञशमलं यज्ञानर्हत्वनिमित्तं तस्मिन् सीदतु जीविकात्वेन वर्तताम् । ततश्चायज्ञीयत्वं 'यज्ञेन देवेभ्यः' इति वचनात् न कदाचिदप्यनृणस्स्यात् । यज्ञनिमित्तानि च श्रेयांसि न प्राप्नुयात् । योस्वान् द्वेष्टीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -98,6 +112,7 @@ May it rest with him who hateth us.
 
 3अथ तृतीया - यज्ञ यज्ञस्येति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -105,6 +120,8 @@ May it rest with him who hateth us.
 य᳓ज्ञ! यज्ञ᳓स्य य᳓त् ते᳓जस्  
 ते᳓न **स᳓ङ्क्राम** मा᳓म् अभि᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,12 +143,15 @@ With the brilliance of the sacrifice.
 
 उपरिष्टाद्बृहती चतुर्थस्य द्वादशा क्षरत्वात् अन्येषां चाष्टाक्षरत्वात् । उक्तं यज्ञो मामभिसंक्रामत्विति; अधुना यज्ञं प्रत्यक्षवदाह - हे यज्ञ! यज्ञस्य सम्यगनुष्ठितस्थ तव यत्तेजः तेन मामभिसंक्राम यथा मय्यपि तेजः स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणा᳓न् ऋत्वि᳓जो देवा᳓न् यज्ञ᳓स्य  
 त᳓पसा ते᳓ स᳓व᳓ +अह᳓म् **आ᳓ हुवे**+++(=आह्वये)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -153,6 +173,9 @@ With the brilliance of thee, the sacrifice, O offering.
 
 यथा चाहं ब्राह्मणान् ऋत्विजो देवांश्च यज्ञस्य तव तपसा इह अस्मिन् प्रयोगे आह्वये आह्वयामि; तव हि तेजसा निर्भयोऽहं इमान् आह्वातुमर्हामि । हे सव! महायज्ञ! । ह्वयतेर्लटि शपो लुक् । 'बहुलं छन्दसि' इति संप्रसारणम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -164,12 +187,15 @@ With the brilliance of thee, the sacrifice, O offering.
 
 4अथ चतुर्थी - इष्टेनेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टे᳓न पक्व᳓म् उ᳓प  
 ते **हुवे** सवा᳓ह᳓म्  [30]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -190,12 +216,15 @@ With the sacrifice I summon the cooked food [1] to thee, O offering.
 
 द्विपदा जगती द्व्यक्षराधिका । अहमादिः द्वितीयः पादः । पादमध्येवस्यति छन्दोविचितिव्यत्ययोऽयम् । हे सव त्वयि मयि संक्रान्ते अहं तव इष्टेन त्वत्संबन्धिना यजमानेन पक्वमुपहुवे उपह्वयामि मम भोगार्थं आकाङ्क्षामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓न् ते **वृञ्जे** सुकृतँ᳓  
 स᳓म्प्रजा᳓म् पशू᳓न् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -216,6 +245,9 @@ I gather for thee good deeds, offspring, and cattle.
 
 किंच - तवेष्टेन सुकृतं प्रजां पशून् संवृजे समाकर्षामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -226,6 +258,7 @@ I gather for thee good deeds, offspring, and cattle.
 
 5अथ पञ्चमी - प्रैषानिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,6 +266,8 @@ I gather for thee good deeds, offspring, and cattle.
 प्रैषा᳓न्त् सामिधेनी᳓र् आघारा᳓व् आ᳓ज्यभागाव्   
 आ᳓श्रुतम् प्रत्या᳓श्रुतम् आ᳓ शृणामि ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,12 +288,15 @@ The Praisas, the kindling-(verses), the butter sprinklings, the shares of the gh
 
 । उपरिष्टाज्ज्योतिर्जगती, चतुर्थस्य पादस्याष्टाक्षरत्वात् । प्रैषादयः प्रसिद्धाः । तान् त्वदर्थमाशृणोमि आश्रयामि । श्रयतेर्विकरणव्यत्ययः, संप्रसारणं छान्दसम् । धात्वन्तरं वा द्रष्टव्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाज᳓ + अनूयाजा᳓न्त् स्विष्टकृ᳓तम्  
 इ᳓डाम् आशि᳓ष आ᳓ वृञ्जे सु᳓वः+++(=स्वर्गम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -297,6 +335,9 @@ The prayers, I win, the light.
 
 स्वर्गस्य प्राधान्यात्पुनरुपादानम् यथा - 'ब्राह्मणा आयाता वसिष्ठोप्यायातः' इति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -307,12 +348,15 @@ The prayers, I win, the light.
 
 6अथ षष्ठी - अग्निनेति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓ने᳓न्द्रेण सो᳓मेन स᳓रस्-  
 वत्या वि᳓ष्णुना देव᳓ताभिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -334,12 +378,15 @@ By Sarasvati, by Visnu, by the gods.
 
 पुरस्ताज्ज्योतिर्जगती; प्रथमस्याष्टाक्षरत्वात् । अहमादिश्चतुर्यः पादः । अग्न्यादिभिः हविर्भाग्भिः देवताभिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याज्यानुवाक्या᳙भ्याम् उ᳓प ते **हुवे**+++(=जुहोमि)+++  
 सव᳓ +अहय्ँ᳓ यज्ञ᳓म् **आ᳓ ददे** ते व᳓षट्कृतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -361,6 +408,9 @@ I take for thee the sacrifice with the Vasat cry.
 
 याज्यानुवाक्याभ्यां च हविषां विधिप्रधानाभ्यां च त्वदर्थमहमुपहवे उपजुहोमि । हे सव! पूर्ववच्छपो लुक् । ततश्च यज्ञं वषट्कृतं कृतवषट्कारं विलक्षणं ते त्वत्प्रसादात् अहं आददे उत्पादयामि । वषट्छन्दस्यौर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः स्वरः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -372,12 +422,15 @@ I take for thee the sacrifice with the Vasat cry.
 
 7अथ सप्तमी - स्तुतमित्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्तुतँ᳓+++(→स्तोत्रं)+++ शस्त्र᳓म् प्रतिगर᳓ङ् ग्र᳓हम्  
 इ᳓डाम् आशि᳓ष **आ᳓ वृञ्जे** सु᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -399,12 +452,15 @@ The cup, the Ida, the prayers, I win, the light.
 
 इयमपि पुरस्ताज्ज्योतिर्जगती । पूर्ववत् अहमादिश्चतुर्थः पादः । स्तुतं स्तोत्रं तदादीनि इडान्तानि आवृञ्जे आकर्षामि । ततः एतैः आशिषः स्वर्गं च आवृञ्जे ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्नी-सय्ँयाजा᳓न् **उ᳓प** ते **हुवे**  
 सवाहँ᳓ समिष्टयजु᳓र् **आ᳓ ददे** त᳓व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -426,6 +482,9 @@ I take thy offering and sacrificial utterance.
 
 किं च पत्नीसंयाजान् ते त्वदर्थं अहं उपहुवे उपजुहोमि । हे सव! किं च त्वदर्थं समिष्टयजुः आददे निर्वर्तयामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -436,6 +495,7 @@ I take thy offering and sacrificial utterance.
 
 8अथाष्टमी - पशूनिति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -444,6 +504,8 @@ I take thy offering and sacrificial utterance.
 देवा᳓न्त् से᳓न्द्रान् उ᳓प ते **हुवे** सवाह᳓म्  
 अग्नि᳓मुखान्त् सो᳓मवतो ये᳓ च वि᳓श्वे॥ [32]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -469,4 +531,5 @@ Lead by Agni, with Soma, and them all.
 अस्तारपङ्क्तिः ; प्रथमयोरष्टाक्षरत्वात् । उक्तः सामान्येन यज्ञः, अधुना तद्विशेषा उच्यन्ते - पशून् अग्नीषोमीयादीन् सुतं सोमं पुरोडाशान् सवनीयान् सवनानि प्रातस्सवनादीनि उत अपि च यज्ञं देवांश्च सेन्द्रान् ते त्वदर्थं उपहुवे तव समीपे आह्वयामि । हे सव! अग्निमुखान् देवान् सोमवतश्च ये च विश्वे देवाः तांश्चाहमाह्वयामि ॥
 
 इति सप्तमे तृतीये एकादशोनुवाकः ॥  
+</details>
 </details>

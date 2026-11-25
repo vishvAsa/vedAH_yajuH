@@ -2,6 +2,8 @@
 title = "१० प्रवासोपस्थानं, याजमानम्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रवासोपस्थानम्  
@@ -15,11 +17,15 @@ title = "१० प्रवासोपस्थानं, याजमान�
 ८ द्विपदा  
 प्रजापतिर्ऋषिः
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अग्निभ्यः प्रवत्स्यन्नाहवनीयमुपतिष्ठते - मम नामेति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/02_mama_nAma.md">
@@ -83,9 +89,12 @@ O Agni, may I bear thy name.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2आगत्य प्रवासात्पुनस्तमुपतिष्ठते - मम नाम तव चेति । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/07_mama_nAma.md">
@@ -143,9 +152,12 @@ Thou for life, and we to live.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3गार्हपत्यमुपतिष्ठते - नमोग्नय इति त्रिष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/12_namo.agnaye.md">
@@ -201,9 +213,12 @@ Powerful, the best, the Gandharva.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अन्वाहार्यपचनम् उपतिष्ठते - त्वत्पितार इति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/17_tvatpitAro_agne.md">
@@ -261,9 +276,12 @@ And bestow on me good fortune.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5आहवनीयमुपतिष्ठते - अयमित्यनुष्टुभा+++(??)+++ ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/22_ayam_agnish.md">
@@ -325,6 +343,8 @@ To him be all good strength.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6विच्छिन्ननिमित्तो होमः - मनो ज्योतिरिति । 
@@ -334,6 +354,7 @@ _______
 
 कल्पः — “नवमीं चेदति प्रवसेन्मित्रो जनान्यातयति प्रजानन्निति मैत्र्योप  
 स्थाय मनो ज्योतिर्जुषतामित्याहुतिं जुहुयात्” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
@@ -414,6 +435,8 @@ I unite with oblation and ghee.
 दार्शिकयाजमानशेषाः आचमनव्रतौपायनादीनां मन्त्राः      (१० ७-१४ मन्त्राः )
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7अतः परम् इष्टि-याजमान-काण्डं प्राजापत्यम् । तत्राप आचामति - पयस्वतीरित्यनुष्टुभा ॥ 
@@ -425,6 +448,7 @@ _______
 कल्पः — “पयस्वतीरोषधय इत्यप आचामत्युपस्पृशति वा” इति।  
 
 पाठस्तु -  **पयस्वतीरिति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/32_payasvatIr_oShadhayaH.md">
@@ -480,6 +504,8 @@ O Indra, do thou unite me.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8व्रतमुपैति - अग्ने व्रतपत इति यजुषा ॥ 
@@ -494,11 +520,14 @@ _______
 
 अग्ने व्रतपत इति। कल्पः — “दक्षिणेनाऽऽहवनीयमवस्थाय व्रतमुपैष्यन्समुद्रं मनसा ध्यायत्यथ जपति अग्ने व्रतपते व्रतं चरिष्यामीति ब्राह्मणः” इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने व्रतपते व्रत᳓ञ् चरिष्यामि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -519,11 +548,14 @@ O Agni, lord of vows, I shall perform this vow;
 
 हे अग्ने **व्रतानां** ब्रह्मचर्यादीनां **पते** पालयितः । 'नामन्त्रिते समानाधिकरणे सामान्यवचनम्' इति पूर्वस्याविद्यमानवत्वनिषेधाद्द्वितीयं निहन्यते । व्रतं यथोक्तं चरिष्यामि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓च् छकेयम् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -544,11 +576,14 @@ may I accomplish it;
 
 तद्व्रतमहं शकेयं चरितुं समर्थो भूयासम् । लिङ्याशिष्यङ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓न् मे राध्यताम्+++(=सिद्ध्यतु)+++  ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,8 +611,11 @@ may it be successful for me.
 
 तद्व्रतमनुष्ठातुं शक्तो भूयासं, मदीयं तद्व्रतं समृद्धं भवति।  
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9हविर्निरुप्यमाणमभिमन्त्रयते - अग्निं होतारमिति । 
@@ -586,6 +624,7 @@ _______
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अग्निँ होतारमिति। कल्पः — “अग्निँ होतारमिह तँ हुव इति हविर्निरूप्यमाणमभिमन्त्रयते हविर्निर्वपणं वा पात्रमभिमृशत्यभि वा मन्त्रयते” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/51_agniM_hotAram.md">
@@ -642,15 +681,20 @@ Let the gods enjoy this oblation of me.
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 10यज्ञं यज्ञयोगेन युनक्ति - कस्त्वेति यजुषा ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓स्+++(→प्रजापतिः पक्षे)+++ त्वा युनक्ति -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -679,11 +723,14 @@ Who yoketh thee?
 कल्पः — “अथ यज्ञं युनक्ति कस्त्वा युनक्ति स त्वा युनक्त्विति सर्वं विहारमनुवीक्षते” इति।  
 हे यज्ञ कः प्रजापतिः सर्वत्र त्वां युनक्ति योग्यं करोति। तस्मादत्रापि स एव त्वां युनक्तु।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त्वा युनक्तु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -699,11 +746,15 @@ Let him yoke thee.
 
 सः । त्वा॒ । यु॒न॒क्तु॒ ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 11कपालानि विमुञ्चति - यानि घर्म इत्यनुष्टुभा ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/07_kapAlopadhAnam/yAni_gharme.md">
@@ -767,12 +818,17 @@ ______________
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इयं चाध्वर्यवे व्याख्याता 'धृष्टिरसि' इत्यत्र ।
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 12भिन्नं कपालम् उत्कर उदस्यति - अभिन्न इति । 
@@ -782,6 +838,7 @@ _______
 
 अभिन्न इति। अथ प्रायश्चित्तम्। 
 तत्र कल्पः — “यदि कपालं भिद्येत गायत्रिया त्वा शताक्षरया संदधामीति तत्संधायोपरि गार्हपत्ये धार्यमाणम-भिजुहुयान्मनो ज्योतिर्जुषतामित्यथैनदपोऽभ्यवहरेदभिन्नो घर्मो जीरदानुरिति” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
@@ -831,9 +888,12 @@ It hath returned to that whence it came;
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 13आहवनीये सम्मीननीं जुहोति - इध्मो वेदिरित्युत्तरेणार्धर्चेन त्रयस्त्रिंशदिति त्रिष्टुभा च ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/73_idhmo_vedipH.md">
@@ -879,9 +939,12 @@ Attend the life of the sacrifice.
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 त्रयस्रिँशदिति। कल्पः — “अथान्यत्संस्कृत्य कपालेष्वतिसृजेत्त्रयस्रिँश-त्तन्तव इति” इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/77_trayastriMshat_tantavo.md">
@@ -937,15 +1000,20 @@ Of these the broken one I restore; hail!
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 14अन्यं कपालं तेषु विसृजति - घर्म इति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घर्मो᳓ देवाँ᳓ अ᳓प्येतु  ॥ [46]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -973,4 +1041,5 @@ Let the cauldron go to the gods.
 
 अतः स्वाहा सुष्टु प्रतिसंहितो घर्मो दीप्तो यज्ञाङ्गविशेषो देवानप्येतु प्राप्नोतु।  
 इति पञ्चमे दशमोनुवाकः ॥
+</details>
 </details>

@@ -10,6 +10,8 @@ title = "०५ उस्रानिर्माणम्"
 
 चतुर्थकाण्डे प्रथमप्रपाठकेपञ्चमोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 [अथ चतुर्थकाण्डे प्रथमप्रपाठके चतुर्थोऽनुवाकः]।  
@@ -17,12 +19,15 @@ title = "०५ उस्रानिर्माणम्"
 अथ पञ्चम उखानिमीणमुच्यते— कल्पः—‘वि पाजसेति विस्रस्य’ इति।  
 पाठस्तु— वि पाजसेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि᳓ पा᳓जसा पृथु᳓ना शो᳓शुचानो बा᳓धस्व द्विषो᳓ रक्ष᳓सो अ᳓मीवाः ।  
 सुश᳓र्मणो बृहत᳓श्श᳓र्मणि स्यामग्ने᳓रहँ᳓ सुह᳓वस्य प्र᳓णीतौ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -54,11 +59,15 @@ May I enjoy the leadership of Agni, easy to invoke.
 सा च विषूची सर्वतः प्रसृता बहुधा रज्जुभिरावेष्ट्याऽऽहृतत्वात्।  
 अस्याग्नेस्तादृशीं वरुणमेनिं मन्त्रेण विमोचितवान्भवति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः — ‘आपो हि ष्ठा मयोभुव इति तिसृभिरप उपसृज्य’ इति।  
 तत्र प्रथमामाह—  १७९८ आपो हि ष्ठेति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
@@ -73,11 +82,14 @@ May I enjoy the leadership of Agni, easy to invoke.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Ye, waters, are healing;  
 Further us to strength,  
 To see great joy.
+</details>
 </details>
 
 <div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/009/01_Apo_hi.md">
@@ -352,9 +364,12 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— यो वः शिवतम इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -362,6 +377,8 @@ Ihr Wasser seid erquickend ja, drum führet uns zu frischer Kraft, Damit wir hoh
 यो᳓ वश्शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓रिव मात᳓रः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -385,10 +402,14 @@ Like eager mothers.
 
 यो युष्माक्रं शिवतमः शान्ततमः सुखैकहेतुर्यो रसोऽस्ति, इहास्मिन्कर्मणि नोऽस्मांस्तस्य भाजयत (तं) रसं प्रापयत।   तत्र दृष्टान्तः—उशतीरिव मातर इति।   कामयमानाः प्रीतियुक्ता मातरो यथा वत्सान्स्वकीयस्तन्यरसं प्रापयन्ति तद्वत्।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह— तस्मा अरमिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -396,6 +417,8 @@ Like eager mothers.
 त᳓स्मा अ᳓रङ्गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ ।  
 आ᳓पो जन᳓यथा च नः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,10 +444,14 @@ O waters, and propagate us.
 आपो हि ष्ठेत्याद्युचस्तत्र विनियुङ्क्ते— ‘तिसृभिरुप सृजति त्रिवृद्वा अग्निर्यावानेवाग्निस्तस्य शुचँ शमयति’ (सं. का. ५ प्र. १ अ. ६) इति।  
 आहवनीयादिरूपेणाग्नेस्त्रैगुण्यम्।   तस्य सर्वस्याग्नेर्मन्त्रत्रयेण दाहशान्तिः।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—‘मित्रः सँ सृज्य पृथिवीमिति द्वाभ्यां संजर्जनीयैः संसृजत्यर्मक-पालैः पित्रैः पिष्टैर्वेण्वङ्गारैर्व्रीहितुषैः पलाशकषायेण शर्कराभिः पिष्टाभिः कृष्णाजिन लोमभिरजलोमभिः ’  इति।   तत्र प्रथमामाह— मित्रः सँसृज्येति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -432,6 +459,8 @@ O waters, and propagate us.
 मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,10 +485,14 @@ Common to all men, the wide extending.
 
 मित्रनामकः सर्वेषामाप्तो देवः पृथिवी भूमिं विस्तृता-मिमां भृदं, चशब्दादस्यां मुद्युपसृष्टा जपश्च ज्योतिषा ज्योतिःशब्दोपलक्षितेदार्ढ्यहेतु-ना वक्ष्यमाणार्मकपालादिना संसृज्याग्निं सुजातमकरोदिति शेषः।   अग्निशब्दोपल-क्षितामुखां निर्मितवानित्यर्थः।   कीदृशमग्निं, जातवेदसमुत्पन्नप्राण्यभिज्ञं    १७९९ वैश्वानरं सर्वपुरुषोपकारकत्वेन तत्संबन्धिनं विभुं सर्वेषु यजमानगृहेषु व्याप्तम।   
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— अयक्ष्माय त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -467,6 +500,8 @@ Common to all men, the wide extending.
 मित्रः᳓ [18]  सँसृ᳓ज्य पृथिवी᳓म्भू᳓मिञ्च ज्यो᳓तिषा सह᳓ ।  
 सु᳓जातञ्जात᳓वेदसमग्निव्ँ᳓ वैश्वानरव्ँ᳓विभु᳓म् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,10 +530,14 @@ For health I unite thee, for offspring; may the All-gods, connected with all the
 अजत्वाजातेरग्नेश्च प्रजापतिमुखजत्वसाम्यादजेयमग्नेः प्रिया तनूः ।   न केवलं   १८०० प्रियत्वं किंत्वग्निसंबन्धात्तेजोरूपत्वमपि।   अतः प्रियया तन्वा तेजसा चाग्निं समर्धयति ।   पुनरपि द्रव्यान्तरसंसर्गं विधत्ते— “कृष्णाजिनस्य लोमभिः सँ सृजति यज्ञो वै कृष्णाजिनं यज्ञेनैव यज्ञँसँसृजति” [सं. का. ५ प्र. १ अ. ६] इति।  
 अन्यत्र “यज्ञो देवेभ्यो निलायत कृष्णो रूपं कृत्वा” इत्युक्तत्वाद्यज्ञस्य कृष्णाजिनत्वम् ।   अतः कृष्णाजिनरूपेण यज्ञेनाग्निरूपं यज्ञं संसृजति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“रुद्राः संभृत्य पृथिवीमिति मृदं संक्षिप्यं” इति।   पाठस्तु— रुद्राः संभृत्येति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -506,6 +545,8 @@ For health I unite thee, for offspring; may the All-gods, connected with all the
 रुद्रा᳓स्सम्भृ᳓त्य पृथिवी᳓म्बृह᳓ज्ज्यो᳓तिस्स᳓मीधिरे ।  
 ते᳓षाम्भानु᳓र᳓जस्र इ᳓च्छुक्रो᳓ देवे᳓षु रोचते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -530,10 +571,14 @@ Shineth clear among the gods.
 
 रुद्रनामका देवाः पृथिवीमुखानिष्पादिकां मृदं संभृत्य सम्यग्भरणं कृत्वोखाकरणाय मृदु यथा भवति तथा हस्ताभ्यां संघट्टनं कृत्वेत्यर्थः।   तथा कृत्वा बृहज्ज्योतिः समीधिरे प्रौढमग्निं दीपितवन्तः ।   तेषां रुद्राणामयमग्निर्भानु-र्भासमानोऽजस्र इन्निरन्तर एव शुक्रो दीप्तियुक्तो देवेषु रोचते शोभते।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः —  “सँ सृष्टां वसुभिरिति तिसृभिः कर्त्रे प्रयच्छति” (सं. का. ५ प्र. १ अ. ६) इति।   तत्र प्रथमामाह— सँसृष्टां वसुभिरिति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +587,8 @@ Shineth clear among the gods.
 ह᳓स्ताभ्याम्मृद्वी᳓ङ्कृत्वा᳓ सिनीवाली᳓ करोतु [19]  ताम् ।
 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,10 +614,14 @@ May Sinivali fashion [2] this (pan).
 
 पूर्वमन्त्रे रुद्रशब्देन वसवोऽप्युपलक्षिताः ।   अतो धीरैर्बुद्धिर्वसुभी रुद्रैश्च या मृदर्मकपालादिभिः संयोजिता सती कर्मण्योखा कर्मयोग्या संपन्ना जाता तां मृदं सिनीवाली देवी पुनरपि  हस्ताभ्यां मृद्वीं कृत्वा करोतु, उखां निष्पादयतु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयामाह— सिनिवालीति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -578,6 +629,8 @@ May Sinivali fashion [2] this (pan).
 सिनीवाली᳓ सुकपर्दा᳓ सुकुरीरा᳓ स्वौपशा᳓ ।  
 सा᳓ तु᳓भ्यमदिते मह ओ᳓खा᳓न्दधातु ह᳓स्तयोः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -602,10 +655,14 @@ Place within thy hands the pan.
 
 या सिनीवाली सुकपर्दा, कपर्दोऽत्र स्त्रीणामुचितः केशब-न्धविशेषः।   शोभनः कपर्दो यस्याः सा सुकपर्दा ।   कुरीरशब्देन स्त्रीभिः शृङ्गारार्थं शिरसि धार्यमाणं जालकमुच्यते।   शोभनं कुरीरं यस्याः सुकुरीरा ।   उपशेते सम्य-क्शयनं करोति यैरवयवविशेषैस्ते सर्व उपशास्तोषां समूह औपशः।   शोभन औपशो यस्याः सा स्वौपशा।   हे महे प्रौढेऽदिते भूमिदेवि सा सिनीवाली तुभ्यं तव हस्तयोरु-खामादधातु।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ तृतीयामाह—  १८०१ उखां करोत्विति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -613,6 +670,8 @@ Place within thy hands the pan.
 उखा᳓ङ्करोतु श᳓क्त्या बाहु᳓भ्याम᳓दितिर्धिया᳓ ।  
 माता᳓ पुत्रय्ँ᳓य᳓थोप᳓स्थे सा᳓ग्नि᳓म्बिभर्तु ग᳓र्भ आ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -641,16 +700,22 @@ I Thou art the head of Makha.
 रुद्राः वसवः सिनिवाल्यदितिश्चेत्येतच्छब्दपरामृष्टा देवताः।  
 मखस्येति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—‘मखस्य शिरोऽसीति पिण्डं कृत्वा’ इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मख᳓स्य शि᳓रोऽसि
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -674,16 +739,22 @@ Thou art the head of Makha.
 [सं. का. ५ प्र. १ अ. ६] इति।  
 यज्ञस्येति।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—‘यज्ञस्य पदे स्थ इति कृष्णाजिनं पुष्करपर्णे चाभिमृ-शति’ इति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓स्य पदे᳓ स्थः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -705,6 +776,9 @@ Ye are the two feet of the sacrifice.
 हे कृष्णाजिनपुष्करपर्णे युवामुभे यज्ञस्य पादरूपे स्थः ।  
 कृष्णाजिनपुष्करपर्णयोर्यज्ञप्राप्तिहेतुत्वाद्यज्ञपदत्वं प्रसिद्धमित्यतेद्दर्शयति— ‘यज्ञस्य पदे स्थ इत्याह यज्ञस्य ह्येते अथो प्रतिष्ठित्यै’ (सं. का. ५ प्र. १ अ. ६) इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -716,6 +790,7 @@ Ye are the two feet of the sacrifice.
 
 कल्पः—“वसवस्त्वा कृण्वन्तु गायत्रेण छन्दसेति चतुर्भिर्महिष्युख करोति बहुभार्यस्याध्वर्युरेकभारस्य क्रियमाणामेतैरेव यजमानोऽनुमन्त्रयते” इति।   
 पाठस्तु— वसवस्त्वा कृण्वन्त्विति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +805,8 @@ Ye are the two feet of the sacrifice.
 आदित्या᳓स्त्वा कृण्वन्तु जा᳓गतेन छ᳓न्दसा ।  
 अङ्गिरस्व᳓द्द्यौ᳓रसि +++(ध्रुवा᳓सि ।  धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  )+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -758,11 +835,14 @@ May the Vasus fashion thee with the Gayatri metre, in the manner of Angiras. Tho
 
 हे उखे वस्वाख्या देवाः सहकारिणा गायत्रेण च्छन्दसा सहाङ्गिरस इव त्वां कृण्वन्तु निष्पादयन्तु । त्वं च पृथिवीरूपाऽसि।   एवमुत्तरेषु त्रिष्वपि योज्यम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वे त्वा देवा᳓ वैश्वानराᳵ᳓ कृण्वन्तु᳓ , आ᳓नुष्टुभेन छ᳓न्दसा ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -783,6 +863,7 @@ Thou art the sky; may the All-gods, connected with all the gods, fashion thee wi
 
 वैश्वानराः सर्वमनुष्योपकारिणः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -790,6 +871,8 @@ Thou art the sky; may the All-gods, connected with all the gods, fashion thee wi
 ध्रुवा᳓सि ।  
 धार᳓या म᳓यि प्रजाँ᳓ राय᳓स्पो᳓षङ्गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न्य᳓जमानाय᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -817,16 +900,22 @@ Thou art the quarters; thou art the fixed (quarter); fix in me offspring, increa
 
 वसवस्त्वेत्यादिभिर्मन्त्रैर्यजमानस्यानुमन्त्रणं पूर्वं विहितमिदानीं तैरेव मन्त्रै कर्तुः कर्मनिष्पादनं विधत्ते— ‘छन्दोभिः करोति वीर्यं वै छन्दाँसि वीर्योणैवैनां करोति’ (सं. का. ५ प्र. १ अ. ६) इति।  छन्दोभिश्छन्दोलिङ्गकैर्वसवस्त्वेत्यादिभिर्मन्त्रैः।  अदित्या इति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः– ‘अदित्यै रास्नाऽसीति रास्नां करोति’ इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यै रा᳓स्नाऽसि ,  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -847,16 +936,22 @@ Thou art the girdle of Aditi.
 
 रशनासदृशी भाण्डस्य बलगता रेखा रास्ना ।   हे रेखे त्वमदित्यै भूमिरू-पाया उखाया रास्ना काञ्चीगुणस्थानीया रशनाऽसि।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः–‘अदितिस्ते बिलं गृह्णात्विति बिलं कृत्वा’ इति।   पाठस्तु– अदितिस्ते बिलमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिस्ते बि᳓लङ्गृह्णातु पा᳓ङ्क्तेन छ᳓न्दसाऽङ्गिरस्व᳓त् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -888,10 +983,14 @@ Let Aditi seize thy hole with the Pankti metre, in the manner of Angiras.
 ‘अश्रीणां रास्नायाश्च संधौ द्वौ चतुरः षडष्टौ वा स्तनान्करोति’ इति।   अधिकारिविशेषेणाश्रिषु संख्याविशेषं विधत्ते— ‘नवाश्रिमभिचरतः कुर्यात्त्रिषृतमेव वज्रँ संभृत्य भ्रातृव्याय प्र हरति स्तृत्यै’ [सं. का. ५ प्र. १ अ. ६] इति।  
 त्रिवृत्स्तोमस्य नवभिर्ऋग्भिरुपेतत्वादश्रिसंख्या त्रिवृत्संपद्यते ।   स च त्रिवृ   १८०४ त्स्तोमो वैरिविनाशकत्वाद्वज्रसमानः ।   अतो नवसंख्या भ्रातृव्याय वज्रप्रहरणं संपद्यते ।   अभिचाराभावे त्वश्रिसंख्यां सूत्रकारो दर्शयति– ‘कुर्वं श्चतस्त्रोऽश्री प्रति-दिशमुन्नयत्यष्टाश्रीर्वा’ इति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—‘कृत्वाय सा महीमुखामित्युत्तरसः सिकतासु प्रतिष्ठाप्य’ इति।    पाठस्तु— कृत्वाय सेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -899,6 +998,8 @@ Let Aditi seize thy hole with the Pankti metre, in the manner of Angiras.
 कृत्वा᳓य सा᳓ मही᳓मुखा᳓म्मृन्म᳓यीय्ँयो᳓निमग्न᳓ये ।  
 ता᳓म्पुत्रे᳓भ्यस्स᳓म्प्रा᳓यच्छद᳓दितिश्श्रप᳓यानि᳓ति ॥ [21]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -923,6 +1024,7 @@ Aditi gave it to her sons,
 
 सेयमदितिर्मृन्मयीं मृत्कार्यामग्नये योनिमग्नेः कारणभूतां महीं महतीमुखां कृत्वाय निष्पाद्य ततस्तामुखां पुत्रेभ्यः स्वपुत्रसदृशेभ्यः श्रपणकारिमभ्यः संप्रायच्छत्सम्यग्दत्तवती।   किं ब्रुवतीति ततुच्यते— श्रपयानिति अपयन्तु भवन्त इति ब्रुवती ।     
 अदितिपुत्राणां देवतारूपत्वाद्देवतासु प्रतिष्ठापनं संपद्यते।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>

@@ -8,6 +8,8 @@ title = "१३ सोमावरोहणादिकम्"
  सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1-2दक्षिणस्य हविर्-धानस्यान्तरेणेषे राजानम् उपावहरति - अवतारयति हविर्धानात् - हृदे त्वेति ॥
@@ -17,11 +19,14 @@ _______
 
 हृ॒दे त्वा॒ मन॑से त्वा दि॒वे त्वा॒ सूर्या॑य त्वो॒र्ध्वमि॒मम॑ध्व॒रङ्कृ॑धि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृदे᳓ त्वा   +++(उपावहरामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -37,11 +42,14 @@ To the heart thee!
 
 हृ॒दे । त्वा॒ ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓नसे त्वा  +++(उपावहरामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,11 +70,14 @@ To mind thee!
 
 हे सोम त्वां हृदे हृदयवद्भ्यो मनुष्येभ्यः उपावहरामीति शेषः ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ त्वा   +++(उपावहरामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -91,11 +102,14 @@ To the sky thee!
 
 'पितृभ्य एवैतेन करोति' इत्यादि ब्राह्मणम् ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय त्वा  +++(उपावहरामि)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -122,12 +136,15 @@ To the sun thee!
 
 हृदे दिवे इति 'ऊडिदम्' इत्यादिना विभक्तेरुदात्तत्वम् ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(सोम)+++ ऊर्ध्व᳓म् इम᳓म् अध्वर᳓ङ्कृधि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -149,12 +166,15 @@ Raise aloft the sacrifice;
 हे सोम अवरोप्यमाणश्च त्वमिममध्वरं यज्ञमूर्ध्वं कृधि अविघ्नेन समाप्तं कुरु । ऊर्ध्वं देवाभिमुखं वा कुरु ।  
 यद्वा - इमं यज्ञमध्वरं बाधकरहितं कुरु । 'बहुलं छन्दसि' इति शपो लुक्, 'श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति हेर्धिभावः ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवि᳓ देवे᳓षु हो᳓त्रा यच्छ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -176,18 +196,24 @@ in the sky guide to the gods the prayers.
 किञ्च - दिवि दिवि स्थितेषु देवेषु होत्रा अस्मदीया वाचः स्तुतिरूपाः यच्छ अवस्थापय ।  
 तदर्थं हे सोम राजन् एहि आगच्छ मम हस्तम् ।
 </details>
+</details>
 
 ________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोम॑ राज॒न्नेह्यव॑ रोह॒ मा भेर्मा सव्ँवि॑क्था॒ मा त्वा॑ हिँसिषम् 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓म राजन्न् ए᳓ह्य्, अ᳓व रोह ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -208,12 +234,15 @@ O King Soma, come hither, descend.
 
 अत्र सोमराजन्नित्यारभ्य मन्त्रान्तरम् । यथाह भगवान् - "हृदे त्वा मनसे त्वा सोम राजन्नेह्यव रोहेति द्वाभ्याम्" इति । ततश् चापदात् परत्वात् सोमशब्दो न निहन्यते । 'नामन्त्रिते समानाधिकरणे' इति तस्याविद्यमानवत्त्वनिषेधाद्राजन्निति निहन्यते । आगत्य च मम हस्तं हविर्धानादवरोह ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ भे᳓र्, मा᳓ सव्ँ᳓विक्थाः+++(=कम्पिष्ठाः)+++  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -238,11 +267,14 @@ Fear not, tremble not.
 
 कस्मादित्याह - मा खलु त्वामहं हिंसिषम्, यागसाधनत्वापत्त्या उत्तमा गतिस्त्वया प्राप्स्यत इति ।
 </details>
+</details>
 
 <details><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा हिँसिषम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,6 +290,7 @@ Let me not harm thee.
 
 मा । त्वा॒ । हिँ॒सि॒ष॒म् ।
 </details>
+</details>
 
 ________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +298,8 @@ ________
 प्रजा᳓स् त्व᳓म् उपा᳓वरोह ।  
 प्रजा᳓स् त्वा᳓म् उपा᳓व रोहन्तु ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -292,6 +327,7 @@ let creatures descend to thee.
 
 ननु गत्यर्थलोटा युक्तत्वाद्द्वितीयायास्तिङ्विभक्तेः 'लोट्च' इति निघातेन न भवितव्यम् । 'विभाषितं सोपसर्गमनुत्तमम्' इति निहन्यत एवेत्यदोषः । उपावरोहेत्यत्र 'गतिर्गतौ' इति पूर्वस्यानुदात्तत्वम्; उदात्तवता तिङा' इति समासः । तथा उपावरोहत्वित्यत्रापि । 'ब्रह्मवादिनो वदन्ति स त्वा अध्वर्युस्स्याद्यस्सोममुपावहरन्' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
 
@@ -308,9 +344,12 @@ ________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एकधनादिलक्षणा अपो जिघृक्षन् स्रुचि चतुर्गृहीतं गृहीत्वा आहवनीये जुहोति - श्रुणोत्वग्निरिति त्रिष्टुभा चतुष्पदया ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/02_shRNotv_agnis.md">
@@ -417,6 +456,8 @@ Pure to the drinkers of the pure, (to them) whose share ye are;
 स्वा᳓हा ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 hail
@@ -437,17 +478,23 @@ hail
 स्वाहा स्वाहुतं चेदं युष्मभ्यमाज्यमस्तु ।  
 'आहुत्यैवैना निष्क्रीय गृह्णात्य् - अथो हविष्कृतानाम् एवाभिघृतानां गृह्णाति' इति ब्राह्मणम् । 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5मैत्रावरुणचमसेनाहुतिं प्लावयाति - कार्षिरसीति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ का᳓र्षिर्+++(=कर्षणीयम्)+++ अस्य्, अ᳓प᳓ +अपा᳓म् मृध्र᳓म्+++(←मृध् युद्धे)+++ +++(कर्षामि/ कर्ष)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -473,17 +520,23 @@ Thou art the dragger; do thou drag away the foe of the waters.
 
 यद्वा - कठिनत्वं लक्ष्यते; आज्यं च जलगतं चेत्कठिनं भवति; तस्य दोषरूपत्वादपनयामीति । 'कार्षिरसीत्याह शमलमेवासामप प्लावयति' `इति ब्राह्मणम् ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6बर्हिष्य् अन्तर्धायोन्नयति - समुद्रस्य व इति ॥ 6बर्हिष्यन्तर्धायोन्नयति - समुद्रस्य व इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्र᳓स्य᳓ वो᳓ ऽक्षित्या उ᳓न्नये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -504,6 +557,7 @@ I draw you for the sustenance of the waters.
 
 समुद्रस्योदकराशेः पूर्वेद्युर्गृहीतस्य वसतीवरीशब्दवाच्यस्य अक्षित्यै अक्षणाय युष्मानुन्नये मैत्रावरुणचमसेन गृह्णामीति । 'मित्रावरुणौ वा अपां नेतारौ' 'तस्मादद्यमानाः' इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ________
 
@@ -519,9 +573,12 @@ ________
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7क्रतुकरणं जुहोति - यमग्न इति त्रिपदया गायत्र्या ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/13_somAvarohaNAdikam/04_yam_agne.md">

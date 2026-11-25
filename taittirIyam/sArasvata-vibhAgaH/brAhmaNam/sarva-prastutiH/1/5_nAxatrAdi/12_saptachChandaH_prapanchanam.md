@@ -11,6 +11,8 @@ unicode_script: devanagari
 त᳓स्या᳓वाचो ऽवपादा᳓द् अबिभयुः ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 तस्यावा॑चो ऽवपा॒दाद् अ॑बिभयुः ।
@@ -25,11 +27,14 @@ unicode_script: devanagari
 
 1 तस्यावाच इत्यादि ॥ उक्तमेकविंशेनादित्यस्य मात्रामिन्द्रो गत इति । तस्य आदित्यात्मन इन्द्रस्य अवाचोऽवपादात् अधः पतनात् अबिभयुः कदाचिदयमवाक्पतेदिति देवा भीतिं गताः । पद्यतेर्घञ्, थाथादिना उतरपदान्तोदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् एते᳓षु सप्त᳓सु छ᳓न्दस्स्व् अश्रयन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -45,11 +50,14 @@ unicode_script: devanagari
 
 अथ तमेतेषु गायत्र्यादिषु सप्तसु छन्दस्सु अश्रयन् स्थापितवन्तः सप्तछन्दांस्याश्रयमकुर्वन् साम्नि । तत् तस्मात्तदाधारस्य सामविशेषस्य श्रायन्तीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓श्रयन्न् त᳓च् छ्रायन्ती᳓यस्य श्रायन्तीयत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -66,11 +74,14 @@ unicode_script: devanagari
 
 श्रयत्यनेन छन्दांस्यादित्य इति श्रायन्तीयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अ᳓वारयन्न् त᳓द् वारवन्ती᳓यस्य वारवन्तीयत्व᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -87,11 +98,14 @@ unicode_script: devanagari
 
 यत् यस्माच्चावाक्पतनादादित्यं अवारयन् निवारितवन्तो देवाः, तद्वारवन्तीयस्य सामविशेषस्य वारवन्तीयत्वम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्या᳓वाच एवा᳓वपादा᳓द् अबिभयुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -102,11 +116,14 @@ unicode_script: devanagari
 
 त᳓स् । याः᳓ । वाचः । एव᳓ । अव-पादा᳓त् । अबिभयुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मा एता᳓नि सप्त᳓ चतुरुत्तरा᳓णि छ᳓न्दाँस्य् उ᳓पादधुः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -122,11 +139,14 @@ unicode_script: devanagari
 
 2-3 तस्मात् सामद्वारेण गायत्र्यादीनि सप्त चतुरुत्तराणि छन्दांस्युपादधुः समन्तादुत्तम्भनत्वेन स्थापितवन्तः, चतुर्भिश्च चतुर्भिरुत्तरैः पूर्वस्मात्पूर्वस्मादुत्तराणि उद्गततराणीति । चतुर्विंशत्यक्षरा गायत्री, अष्टाविंशत्यक्षरा उष्णिगित्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षाम् अ᳓ति त्री᳓ण्य् अरिच्यन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -142,11 +162,14 @@ unicode_script: devanagari
 
 अथ तेषां छन्दसां मध्ये त्रीणि पङ्क्त्यादीनि छन्दांसि आदित्यं अत्यरिच्यन्त अतिक्रम्य स्थितानि । तेन तमुत्तम्भयितुमयोग्यानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ त्री᳓ण्य् उ᳓दभवन्न् ॥ 55 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -162,11 +185,14 @@ unicode_script: devanagari
 
 अथ त्रीणि गायत्र्यादीनि छन्दांसि आदित्यं नोदभवन् न प्राप्नुवन् ऊनप्रमाणत्वादादित्यमप्राप्य स्थितानि तेन तान्यप्युत्तम्भनासमर्थानि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ बृहती᳓म् एवा᳓स्पृशद् "द्वा᳓भ्याम् अक्ष᳓राभ्याम् अहोरात्रा᳓भ्याम्" एव᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -186,11 +212,14 @@ unicode_script: devanagari
 
 केन प्राकारेण बृहतीमादित्योऽस्पृशदित्पाह - द्वाभ्यामक्षराभ्यामित्वादि । द्वाभ्यां अविनाशाभ्यां नित्यप्रपृत्ताभ्यामेव क्वचित् बृहती सम्पद्यते । संवत्सरात्मकाहोरात्रसमुदायस्य बृहतीत्वेन रूपणात् तदवयवयोरहोरात्रयोः अक्षरत्वेन रूपणं क्रियते । बृहत्येव इत्थं भूत्वा आदित्यं देवं धारयितुं समर्था तस्मात् स बृहतीमेवास्पृशदिति । अन्यानि छन्दांसि नैवमहोरात्र्यां अन्येनैव [रात्राभ्यामनन्येनैव?] प्रकारेण आदित्यं स्पृशन्ति । तस्मात् तानि न्यूनान्यतिरिक्तानि चेत्युक्तम् । बृहत्यां तु षट्त्रिंशदक्षरसममितषट्त्रिंशदहोरात्रविशेषसमासादितबृहती एव [हतीसमभावक?] संवत्सरात्मिकां [संवत्सरात्मकस्य?] देवस्य आदित्यस्य सङ्ख्यातानुरूप्यं वहन्त्यां आदित्यः प्रतितिष्ठति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् आहुᳵ "कतमा᳓ सा᳓ देवा᳓क्षरा बृहती᳓", य᳓स्यान् त᳓त् प्रत्य᳓तिष्ठत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -208,6 +237,7 @@ unicode_script: devanagari
 
 कतमा सा देवाक्षरा बृहती यस्यामादित्यः प्रतितिष्ठतीति,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -215,6 +245,8 @@ unicode_script: devanagari
 एषा᳓ वा᳓व᳓ सा᳓ देवा᳓क्षरा बृहती᳓",  
 य᳓स्यान् त᳓त् प्रत्य᳓तिष्ठद् इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -232,12 +264,15 @@ unicode_script: devanagari
 
 एवं पृष्टे उत्तरं - द्वादशेत्यादि । देवाः आदित्याः, ते च द्वादश, ते च त्रिरावृत्ताः षट्त्रिंशत् । बृहती च षट्त्रिंशदक्षरा । तिथयोऽप्येता द्वादशद्वादश संवत्सरे संभूय षट्त्रिंशदित्येवं देवनिरूप्याक्षरा बृहती इति उत्तरं ब्रूयात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓नि च छ᳓न्दाँस्य् अत्य᳓रिच्यन्त,  
 या᳓नि च नो᳓द᳓भवन्न् ,ता᳓नि नि᳓र्वीर्याणि हीना᳓न्य् अमन्यन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -255,11 +290,14 @@ unicode_script: devanagari
 
 4 यानि चेत्यादि ॥ अन्यानि यानि छन्दांसि न्यूनातिरिक्तानि निर्वीर्याणि कार्यं कर्तुमसमर्थानि तानि हीनानि वयं स्मः इति अमन्यन्त उत्तम्भनकार्यात् गळितानि निर्वीर्याण्यभवन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓ ऽब्रवीद् बृहती᳓ - "मा᳓म् एव᳓ भूत्वा᳓ मा᳓मु᳓प सँ᳓श्रयते᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -278,11 +316,14 @@ unicode_script: devanagari
 अथ सा बृहती छन्दांसि अब्रवीत् मामेव भूत्वा मद्रूपमेव प्राप्य । भू प्राप्तौ । मया तुल्याक्षरतां प्राप्य मामुपसंश्रयत मत्समीपे मया तुल्यकार्याणि वर्तध्वं इति ।
 ततः छन्दोभिः ओं तथेत्यनुमते स्वयमेव बृहती तेषामक्षरसाम्यमकरोत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र्भिर् अक्ष᳓रैर् अनुष्टु᳓ग्-बृहती᳓न् नो᳓दभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -298,11 +339,14 @@ unicode_script: devanagari
 
 5 चतुर्भिरित्यादि ॥ द्वात्रिंशदक्षराऽनुष्टुप् षट्त्रिंशदक्षरा बृहती बृहत्यात्मानं आदित्यं चतुर्भिरक्षरैः नोदभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतु᳓र्भिर् अक्ष᳓रैᳶ पङ्क्ति᳓र् बृहती᳓म् अ᳓त्यरिच्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -318,11 +362,14 @@ unicode_script: devanagari
 
 पङ्क्तिः चतुश्चत्वारिंशदक्षरा चतुर्भिरक्षरैः बृहतीमत्यरिच्यत
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्याम् एता᳓नि चत्वा᳓र्य् अक्ष᳓राण्य् अपच्छि᳓द्यादधात् ॥ 57 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -338,11 +385,14 @@ unicode_script: devanagari
 
 अथ एतानि पङ्क्त्या अधिकानि चत्वार्यक्षराणि अतोऽपच्छिद्य तस्यां अनुष्टुभि अदधात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ बृहती᳓ एव᳓ भूत्वा᳓ बृहती᳓म् उ᳓प स᳓मश्रयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -359,11 +409,14 @@ unicode_script: devanagari
 
 एवं कृते ते द्वे अपि अनुष्टुप्पङ्क्ती बृहती बृहत्यौ बृहतीतुल्याक्षरे एव भूत्वा बृहत्या समेत्य तुल्यकार्ये अभूताम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टाभि᳓र् अक्ष᳓रैर् उष्णि᳓ग्-बृहती᳓न् नो᳓दभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -374,11 +427,14 @@ unicode_script: devanagari
 
 अष्टाभिः᳓ । अ-क्ष᳓रैः । उष्णि᳓ । ग्बृहती᳓न् । नो᳓त् । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टाभि᳓र् अक्ष᳓रैस् त्रिष्टु᳓ग् बृहती᳓म् अ᳓त्यरिच्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -389,11 +445,14 @@ unicode_script: devanagari
 
 अष्टाभिः᳓ । अ-क्ष᳓रैः । त्रि-ष्टु᳓क् । बृहती᳓म् । अ᳓ति । अरिच्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्याम् एता᳓न्य् अष्टा᳓व् अक्ष᳓राण्य् अपच्छि᳓द्यादधात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -404,11 +463,14 @@ unicode_script: devanagari
 
 त᳓स्याम् । एता᳓नि । अष्टौ᳓ । अ-क्ष᳓राणि । अप । च्छि᳓द्यात् । अधात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ बृहती᳓ एव᳓ भूत्वा᳓ बृहती᳓म् उ᳓प स᳓मश्रयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -425,11 +487,14 @@ unicode_script: devanagari
 
 6 अष्ठाभिरित्यादि ॥ अष्टाविंशत्यक्षरा उष्णिक् । चक्षुश्चत्वारिंशदक्षरा त्रिषुप् । तयोः अष्टाक्षरापच्छेदादानाभ्यां बृहतीप्रकारः कृतः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वादश᳓भिर् अक्ष᳓रैर् गायत्री᳓ बृहती᳓न् नो᳓दभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -440,11 +505,14 @@ unicode_script: devanagari
 
 द्वादश᳓भिः । अ-क्ष᳓रैः । गायत्री᳓ । बृहती᳓न् । नो᳓त् । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वादश᳓भिर् अक्ष᳓रैर् ज᳓गती बृहती᳓म् अ᳓त्यरिच्यत ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -455,11 +523,14 @@ unicode_script: devanagari
 
 द्वादश᳓भिः । अ-क्ष᳓रैः । ज᳓गती । बृहती᳓म् । अ᳓ति । अरिच्यत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्याम्‌ एता᳓नि द्वा᳓दशाक्ष᳓राण्य् अपच्छि᳓द्यादधात् ॥ 58 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -470,11 +541,14 @@ unicode_script: devanagari
 
 त᳓स्याम् । एता᳓नि । द्वा᳓ । दशाक्ष᳓राणि । अप । च्छि᳓द्यात् । अधात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ बृहती᳓ एव᳓ भूत्वा᳓ बृहती᳓म् उ᳓प स᳓मश्रयताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -491,11 +565,14 @@ unicode_script: devanagari
 
 7 द्वादशभिरिति ॥ चतुर्विंशत्यक्षरा गायत्री । अष्टाचत्वारिंशदक्षरा जगती, तस्मात् तयोः द्वादशाक्षरापच्छेदादानाभ्यां बृहतीभावमकरोत् । अथ सर्वैश्छन्दोभिः उत्तम्भित आदित्यस्तिष्ठतीति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳙ ऽब्रवीत् प्रजा᳓पतिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -512,12 +589,15 @@ unicode_script: devanagari
 8 सोऽब्रवीदित्यादि ॥  
 आदित्यः प्रजापतिरित्येके ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "छ᳓न्दाँसि र᳓थो मे भवत ।  
 युष्मा᳓भिर् अह᳓म् एत᳓म् अ᳓ध्वानम् अ᳓नु स᳓ञ्चराणी᳓"ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -536,11 +616,14 @@ unicode_script: devanagari
 युष्माभिः रथभूतैः अनु क्रमेण सञ्चराणि ।  
 'समस्तृतीया युक्तात्'इति व्यत्ययेन न प्रवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्य गायत्री᳓ च ज᳓गती च पक्षा᳓व् अभवताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -556,11 +639,14 @@ unicode_script: devanagari
 
 पक्षौ चक्रे बाह्ये गायत्रीजगत्यौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उष्णि᳓क् च त्रिष्टु᳓प् च प्र᳓ष्ट्यौ +++(अ᳓भवताम् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -576,11 +662,14 @@ unicode_script: devanagari
 
 अथाभ्यन्तरेण प्रष्टयौ बहिर्युजावश्वौ । उष्णिक्त्रिष्टुभौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुष्टु᳓प् च पङ्क्ति᳓श् च धु᳓र्यौ +++(अ᳓भवताम् )+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -596,11 +685,14 @@ unicode_script: devanagari
 
 अथ तयोरन्तरा धुर्यौ अन्तर्युजावश्वौ अनुष्टुप् पङ्क्तिश्च [बृहती] उद्धिः ऊर्ध्वा स्थापनीया उपवेशनफलकरूपा अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहत्य् ए᳙वो᳓द्धि᳓र् अभवत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -611,11 +703,14 @@ unicode_script: devanagari
 
 बृहति᳓ । एव᳓ । उद्-धिः᳓ । अभवत् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓ञ् छन्दोरथ᳓म् आस्था᳓यैत᳓म् अ᳓ध्वानम् अ᳓नु स᳓मचरत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -632,11 +727,14 @@ unicode_script: devanagari
 
 स प्रजापतिस्तादृशं रथमारुह्यानुदिनमेतन्मार्गं संचरति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतँ᳓ ह वै᳓ छन्दोरथ᳓म् आस्था᳓यैत᳓म् अ᳓ध्वानम् अ᳓नु स᳓ञ्चरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -657,12 +755,15 @@ unicode_script: devanagari
 इति श्रीभट्टक्षभास्करविरचिते पारक्षुद्रभाष्ये प्रथमाष्टकस्य पञ्चमे प्रपाठके द्वादशोऽनुवाकः ॥  
 प्रपाठकश्च समाप्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳓नैष᳓ एत᳓त् सञ्च᳓रति ।  
 य᳓ एवव्ँ᳓ विद्वा᳓न्त् सो᳓मेन य᳓जते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -674,11 +775,14 @@ unicode_script: devanagari
 
 ये᳓न । एषः᳓ । एत᳓त् । सम् । च᳓रति । यः᳓ । एव᳓म् । विद्वा᳓न् । सो᳓मेन । य᳓जते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ उ चैनम् एवव्ँ᳓ वे᳓द ॥ 59 ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -688,4 +792,5 @@ unicode_script: devanagari
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यः᳓ । उ । च । एनम् । एव᳓म् । वे᳓द ।
+</details>
 </details>

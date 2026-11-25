@@ -2,9 +2,12 @@
 title = "०३ अतिरात्रविधिः"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 सोमऋषिः
+</details>
 </details>
 
 ## अग्निष्टोमात् परमेव सर्वस्तोम अधिकारः
@@ -15,6 +18,8 @@ title = "०३ अतिरात्रविधिः"
 
 ब्रह्मवादि᳓नो व᳓द᳓न्ति᳓ -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -30,11 +35,14 @@ The theologians say,
 
 ब्र॒ह्म॒वा॒दिन॒ इति॑ ब्रह्म-वा॒दिनः॑ । व॒द॒न्ति॒ ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ त्वै᳓ यजेत
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -56,11 +64,14 @@ The theologians say,
 1अधुना स्तोमान्तरयं निन्दन्विशिष्टरूपतामस्य ज्ञात्वैव यष्टव्यमनेनेति दर्शयितुमाह - ब्रह्मवादिन इत्यादि ॥
 स एव यष्टुमर्हति । 'अर्हे कृत्यतृचश्च' इति यजेर्लिङादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो᳙ऽग्निष्टोमे᳓न य᳓जमानोऽथ स᳓र्वस्तोमेन  य᳓जेते᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,12 +92,15 @@ who having sacrificed with the Agnistoma should also sacrifice with the Sarvasto
 
 इतः पूर्वं योग्निष्टोमेन यजमानस्सन् इदानीं सर्वस्तोमेन यजेत । 'शकि लिङ्च' इति द्वितीये पर्याये लिङ् । चतुष्टोमेनाप्यन्तरितेन सर्वस्तोमेन स्तोमानां याथात्म्यं विदित्वा अप्रमत्तो यष्टुं शक्नोतीति ब्रह्मवादिन आहुः । संहितायां तोरन्तलोपश्छान्दसः, उक्तं च प्रातिशाख्ये - 'तुनुपूर्व उदात्तयोर्वकारः' इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य त्रिवृ᳓तम् अन्तर्+++(रा)+++-य᳓न्ति,  
 प्राणाँ᳓स् त᳓स्याऽन्त᳓र्+++(रा)+++-यन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -108,12 +122,15 @@ If they omit the Trivrt Stoma, then his vital airs are omitted,
 2यस्येत्यादि ॥ अन्तर्यन्ति प्रमादादुत्सृजन्ति । 'अन्तरपरिग्रहे' इति गतित्वात् 'तिङि चोदात्तवति' इति अन्तश्शब्दो निहन्यते, 'उदात्तवता तिङा' इति समासः,
 प्राणान्यजमानस्योत्सृजन्ति विनाशयन्ति साम्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(न केवलं स्वर्ग एव,)+++ प्राणे᳓षु मे᳓ऽप्य् असद् +++(भागित्वम्)+++  
 इ᳓ति खलु वै᳓ यज्ञे᳓न य᳓जमानो यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -135,6 +152,7 @@ but he who offers the sacrifice does so with the wish, 'May it be in my vital ai
 
 ननु यद्यन्तरिताः प्राणाः प्रेप्सितस्य स्वर्गस्य का गतिरित्याह - प्राणेष्विति । न केवलं स्वर्ग एव अपि तु प्राणेष्वपि मे मम भागित्वमसत् अस्तीति खलु वै यज्ञेनानेन अग्निष्टोमेन यजमानो यजते सर्वेभ्यः कामेभ्योग्निष्टोम इति । यद्वा - प्राणेष्विति निमित्तसप्तमी । न केवलं स्वर्गार्थमेव, अपि तु प्राणार्थमपि ममायं यज्ञोस्तु इति यजमानो यजते, एवं सर्वत्र द्रष्टव्यम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -143,6 +161,8 @@ but he who offers the sacrifice does so with the wish, 'May it be in my vital ai
 वीर्ये᳙ मे᳓ऽप्य् असद्  +++(भागित्वम्)+++  
 इ᳓ति खलु वै᳓ यज्ञे᳓न य᳓जमानो यजते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -166,6 +186,7 @@ If they omit the Pañcadaśa Stoma, his strength is omitted, but he who offers t
 
 3वीर्यमिति ॥ पञ्चदशस्य वीर्यस्थानादुत्पन्नत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -174,6 +195,8 @@ If they omit the Pañcadaśa Stoma, his strength is omitted, but he who offers t
 प्रजा᳓याम् मे᳓ऽप्य् असद्  +++(भागित्वम्)+++  
 इ᳓ति ख᳓लु वै᳓ यज्ञे᳓न य᳓जमानो यजते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,6 +220,7 @@ If they omit the Saptadaśa Stoma [1], his offspring is omitted, but he who offe
 
 4प्रजामिति ॥ प्रजननसाधनत्वात्सप्तदशस्य ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -205,6 +229,8 @@ If they omit the Saptadaśa Stoma [1], his offspring is omitted, but he who offe
 प्रतिष्ठा᳓याम् मे᳓ ऽप्य् असद्  +++(भागित्वम्)+++  
 इ᳓ति ख᳓लु वै᳓ यज्ञे᳓न य᳓जमानो यजते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,12 +255,16 @@ If they omit the Ekavinśa Stoma, his support is omitted, but he who offers the 
 
 5प्रतिष्ठामिति ॥ एकविंशस्य पद्भ्यामुत्पन्नत्वात् ॥
 </details>
+</details>
 
 ______________________
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
 त्रिणव-त्रयस्त्रिंशयोः चतुष्टोमेऽस्मिन् कः प्रसंगः? सत्यम्, एतयोर् अप्य् अन्तराय-दोषश्रवणात् एताव् अप्य् अग्निष्टोमे ऋद्ध्या संपाद्याव् इति भावः । तत्कथमेतौ संपादितौ स्यातामिति? आज्यानि चत्वारि पञ्चदशान्नानि संभूय षष्टिस् स्तोत्रिया भवन्ति। ताश्च द्वौ त्रिंशद् वर्गौ तत्रैकस्मात्तिस्र उद्ध्रियन्ते एताश् चेतरत्र दीयन्ते - ६० = २७ + ३३।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +273,8 @@ ______________________
 +++(नक्षत्रसंख्यान्वयेन संवत्सरात्मकत्वात्त्रिणवस्य)+++  
 ऋतूँ᳓श्च᳓ त᳓स्य, नक्षत्रि᳓याञ् च  विरा᳓जम् अन्त᳓र्+++(रा)+++-यन्ति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -264,12 +296,15 @@ If they omit the Trinava Stoma, his seasons and the strength of the Naksatras ar
 
 6त्रिणवमिति ॥ त्रीणि नवकानि परिमाणमस्येति पूर्ववत् डः । सप्तविंशस्तोत्रियस्त्रिणवः । 'पर्वूपदात्संज्ञायामगः' इति णत्वम् । ननु त्रिणवत्रयस्त्रिंशयोः चतुष्टोमेऽस्मिन् कः प्रसंगः । सत्यम्, एतयोरप्यन्तरयदोषश्रवणात् एतावप्यग्निष्टोमे ऋद्ध्या संपाद्याविति भावः । तत्कथमेतौ संपादितौ स्यातामिति? उच्यते -आज्यानि चत्वारि पञ्चदशान्नानि संभूय षष्टिस्स्तोत्रिया भवन्ति ताश्च द्वौ त्रिंशद्वर्गौ तत्रैकस्मात्तिस्र उद्ध्रियन्ते एताश्चेतरत्र दीयन्ते । एवमेतौ संपन्नावनन्तरितौ भवतः । ततश्च तदन्तरयदोषो न भविष्यतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतु᳓षु मे᳓ +++(भागित्वम्)+++ ऽप्य् असन् नक्षत्रि᳓यायाञ् च +++(त्र्यक्षरोण-त्रिपाद-)+++विरा᳓जी᳓ति ,[9]
 खलु वै᳓ यज्ञे᳓न य᳓जमानो यजते।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -291,12 +326,15 @@ but he who offers the sacrifice does so with the wish, 'May it be in my seasons 
 
 ऋतूनिति । नक्षत्रसंख्यान्वयेन संवत्सरात्मकत्वात्त्रिणवस्य । ऋत्वन्तरये च सर्वपुरुषार्थलोपः । नक्षत्रियामिति । नक्षत्रसमूहात्मिकां विराजमन्तर्यन्ति । 'नक्षत्राद्घः' इति समूहे घः । सप्तविंशतिनक्षत्राणीति तिस्रो विराजो निवृतः एकैकाक्षरोनत्वात् । एकैव त्रिवत् त्रिपदा विराट् । त्रिणवत्वस्यान्तरये नक्षत्राण्येवान्तरितानि स्युः ततोस्य सर्वार्थलोपः । यद्वा - जीवितविषयत्वात् जन्मदिनानामावृत्त्या त्रिंशन्नक्षत्राणि भवन्तीति पूर्णा एव तिस्रो विराजः । तदन्तरये जीवितलोप इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्य त्रयस्त्रिँश᳓म् अन्तर्+++(रा)+++-य᳓न्ति  
 +++(त्रयस्त्रिंशत्वात्)+++ देव᳓तास् त᳓स्यान्त᳓र्+++(रा)+++-यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -317,12 +355,15 @@ If they omit the Trayastrinśa Stoma, his deities are omitted,
 
 7त्रयस्त्रिंशमिति ॥ त्रयश्च त्रिंशच्च त्रयस्त्रिंशत्, 'त्रेस्त्रयः' इति त्रयसादेशः । तावत्यस्स्तोत्रियाः परिमाणमस्येति पूर्ववत् डः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓तासु मे᳓ऽप्यसद् +++(भागित्वम्)+++  
 इ᳓ति खलु वै᳓ यज्ञे᳓न य᳓जमानो यजते
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -343,6 +384,7 @@ and he who offers the sacrifice does so with the wish, 'May it be in my deities.
 
 देवता इति । तासां त्रयस्त्रिंशत्वात् द्युपृथिव्यन्तरिक्षस्थानां प्रत्येकमेकादशत्वात् ॥
 </details>
+</details>
 
 ## अतिरात्रविधानम्
 
@@ -351,6 +393,8 @@ and he who offers the sacrifice does so with the wish, 'May it be in my deities.
 +++('अतिरात्रः परमो यज्ञक्रतूनाम्')+++  
 यो᳓ वै᳓ स्तो᳓मानाम् अवम᳓म्+++(=आदिमम्)+++ +++(अतिरात्रे)+++ परम᳓ताङ् ग᳓च्छन्तव्ँ वे᳓द,  परम᳓तामेव᳓  गच्छति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +416,14 @@ He who knows the lowest of the Stomas attaining the first place, obtains him sel
 
 8एवं सर्वप्रकृतिरग्निष्टोमः सगुणो विहितः । अथ विकृतीनामप्युदाहरणार्थं अतिरात्रो यज्ञक्रतूनां परमो विधीयते । यथोक्तं - 'अतिरात्रः परमो यज्ञक्रतूनाम्' इति । तदर्थं तद्गतं कंचिद्गुणविशेषं विधातुमाह - यो वा इत्यादि ॥ अवमः अल्पः परमः उत्तमः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रकृतियागे)+++ त्रिवृ᳓द् वै᳓ स्तो᳓मानाम् अवमः᳓। +++(अतिरात्रे तु)+++ त्रिवृ᳓त् परमः᳓।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -397,11 +444,14 @@ The Trivrt is the lowest of Stomas, the Trivrt occupies the first place.
 
 यद्वा - अवमः आद्यः परमः अन्त्यस्त्रिवृत् स्तोमानामवमः सोतिरात्रे परमो भवतीति 'त्रिवृद्रथन्तरसन्धिः' इति सन्धिस्तोत्रस्य त्रिवृत्त्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
  य᳓ एवव्ँ᳓ वे᳓द, परम᳓ताम् एव᳓ गच्छति ॥+++(४)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -423,4 +473,5 @@ He who know thus obtains the first place.
 एवं वेदिता परमतामुत्तमतां गच्छति । तस्मात् तथा कर्तव्यमिति शेषः । एवंगुणकोतिरात्रः कर्तव्य इति विधिरनुमीयते उपलक्षागत्वाच्च सर्वेऽप्येकाहा विहिता भवन्तीति ॥
 
 इति सप्तमे प्रथमे तृतीयोनुवाकः ॥
+</details>
 </details>

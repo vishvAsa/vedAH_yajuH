@@ -2,24 +2,32 @@
 title = "०६ दर्शपूर्णमासौ सोमात् प्राक्"
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 दर्शपूर्णमासयोः सोमयागेन सह पौर्वापर्यम्  
 प्रजापतिऋषिः ।
 
 </details>
+</details>
 
 ## रथत्वम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै दे॑वर॒थो यद्द॑र्शपूर्णमा॒सौ यो द॑र्शपूर्णमा॒सावि॒ष्ट्वा सोमे॑न॒ यज॑ते॒ रथ॑स्पष्ट ए॒वाव॒साने॒ वरे॑ दे॒वाना॒मव॑ स्यति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ वै᳓ देवरथो᳓ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -46,6 +54,7 @@ The new and the full moon (sacrifices) are the chariot of the gods.
 अथ षष्ठे दर्शपूर्णमासयोः सोमयागेन सह पौर्वापर्यं विधत्ते-  **एष वा इति।**  
 दर्शपूर्णमासाविति यदस्त्येष एव देवानां रथो रथसदृशः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,6 +62,8 @@ The new and the full moon (sacrifices) are the chariot of the gods.
 र᳓थ-स्पष्ट एवा᳓वसा᳓ने व᳓रे देवा᳓नाम् **अ᳓वस्यति** ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -87,6 +98,7 @@ which is conspicuous for its chariot (tracks).
 वरः श्रेष्ठश्चासौ भवति तादृशे मार्गे मनुष्या अनायासेन गन्तुं शक्नुवन्ति, तथा देवानां संबन्धिना दर्शपूर्णमासरथेन स्पष्टे सुखेनाध्यवसातुं शक्ये श्रेष्ठे मार्गे यजमानः सोमेन यष्टुमध्यवस्यति।   
 दर्शपूर्णमासयोरिष्टिप्रकृतित्वात्तयोः प्रयोगे स्वाधीने सति तद्विकृतिभूताः सोमाङ्गभूता प्रायणीयाद्याः साङ्गाः सुखेनानुष्ठातुं शक्यन्ते। अननुष्ठितयोस्तु दर्शपूर्णमासयोः सोमप्रकरणे दीक्षणीयादिकर्मस्वरूपमात्रस्योपदिष्टत्वात्तदङ्गानि प्रयाजादीन्यनुष्ठातुं न शक्यन्ते। तस्मादिष्टिपूर्वत्वं दर्शपूर्णमासयोर्बहुधा प्रशस्यते।  
 </details>
+</details>
 
 ## संवत्सराङ्गत्वम्
 
@@ -95,6 +107,8 @@ which is conspicuous for its chariot (tracks).
 एता᳓नि वा᳓ अ᳓ङ्गाप᳓रूँषि  
 सव्ँवत्सर᳓स्य य᳓द् दर्श-पूर्णमासौ᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -121,12 +135,15 @@ The new and the full moons are the limbs and joints of the year;
 
 तत्र प्रथमं संवत्सरावयवत्वेन प्रशंसति- **एतानि वा इति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते᳓  
 ऽङ्गाप᳓रूँष्य् एव᳓ सव्ँवत्सर᳓स्य प्र᳓ति दधाति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -148,11 +165,14 @@ thus unites the limbs and joints of the year.
 
 यथा मनुष्यस्य हस्तपादादीनि **अङ्गानि** मणिबन्धकूर्परकक्षादिसंधिरूपाणि **परूंषि** पर्वाणि तथा संवत्सरस्य द्वादश दर्शा अङ्गानि द्वादश पौर्णमास्यः परूंषि तद्विदित्वानुष्ठाने तदुभयं **प्रविदधाति** सम्यगनुष्ठापयति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते᳓ वै᳓ सव्ँवत्सर᳓स्य च᳓क्षुषी य᳓द्दर्शपूर्णमासौ᳓ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -173,12 +193,15 @@ The new and the full moon are the eyes of the year;
 
 अथ चक्षुष्ट्वेन प्रशंसति-  **एते वा इति।**
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
 ता᳓भ्याम् एव᳓ सुवर्गल्ँ᳓ लोक᳓म् अ᳓नु पश्यति    
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -204,6 +227,7 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 ए॒षा वै दे॒वानाव्ँ॒विक्रा॑न्ति॒र्यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते दे॒वाना॑मे॒व विक्रा॑न्ति॒मनु॒ वि क्र॑मते
 </details>
+</details>
 
 ## देव-विक्रान्तिः
 
@@ -211,6 +235,8 @@ he who knowing thus offers the new and the full moon (sacrifices) thus sees with
 
 एषा᳓ वै᳓ देवा᳓नाव्ँ वि᳓क्रान्तिर् य᳓द् दर्श-पूर्णमासौ᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,12 +258,15 @@ The new and the full moon are the striding of the gods;
 अथेन्द्रपराक्रमरूपेण प्रशंसति-  **एषा वै इति।**  
 सर्वेभ्यः कामेभ्यो दर्शपूर्णमासाविति शाखान्तरे श्रुतत्वाद्युद्धजयहेतुत्वमप्यस्तीति पराक्रमरूपत्वम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते    
 देवा᳓नाम् एव᳓ वि᳓क्रान्तिम् अ᳓नु वि᳓ क्रमते  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -265,12 +294,16 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 
 **अनु विक्रमते इति ।** यत्रयत्र देवा विक्रमन्ते तत्रतत्रायमप्रतिबन्धेन विक्रमते । लक्षणेनोः कर्मप्रवचनीयत्वम् ।  'वृत्तिसर्गतायनेषु क्रमः' इति वृत्तावात्मनेपदम् ॥
 </details>
+</details>
 
 ## देव-पन्था
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै दे॑व॒यान॒ᳶ पन्था॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ य ए॒व दे॑व॒यान॒ᳶ पन्था॒स्तँ स॒मारो॑हति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +311,8 @@ he who knowing thus offers the new and the full moon (sacrifices) steps in the s
 एष᳓ वै᳓ देवया᳓नᳶ प᳓न्था  
 य᳓द् दर्शपूर्णमासौ᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -293,6 +328,7 @@ The new and the full moon are the path on which the gods fare;
 
 ए॒षः । वै । दे॒व॒यान॒ इति॑ देव-यानः॑ । पन्थाः॑ । यत् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,6 +336,8 @@ The new and the full moon are the path on which the gods fare;
 य᳓ एव᳓ देवया᳓नᳶ प᳓न्थास्  
 तँ᳓ समा᳓रोहति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,12 +366,16 @@ he who knowing thus offers the new and the full moon (sacrifices) mounts the pat
 अथ स्वर्गमार्गत्वेन प्रशंसति-  **एष वै इति।**  
 देवा यान्ति गच्छन्ति अस्मिन्मार्गे सोऽयं **देवयानः**।  
 </details>
+</details>
 
 ## देव-हरी
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तौ वै दे॒वानाँ॒ हरी॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते॒ यावे॒व दे॒वानाँ॒ हरी॒ ताभ्या॑म वैभ्यो॑ ह॒व्यव्ँव॑हति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +383,8 @@ he who knowing thus offers the new and the full moon (sacrifices) mounts the pat
 एतौ᳓ वै᳓ देवा᳓नाँ ह᳓री  
 य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -356,6 +400,7 @@ The new and the full moons are the bay steeds of the gods;
 
 ए॒तौ । वै । दे॒वाना॑म् । हरी॒ इति॑ । यत् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,6 +408,8 @@ The new and the full moons are the bay steeds of the gods;
 या᳓व् एव᳓ देवा᳓नाँ ह᳓री  
 ता᳓भ्याम् [34] एवै᳓भ्यो हव्यव्ँ᳓ वहति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -390,12 +437,16 @@ he who knowing thus offers the new and the full moon (sacrifices) carries to the
 
 अथाश्वरूपेण प्रशंसति- **एतौ वा इति।** एभ्योऽग्यादिदेवेभ्यस्ताभ्यामेव दर्शपूर्णमासाभ्यां यजमानः पुरोडाशं वहति। 
 </details>
+</details>
 
 ## देवास्यम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒तद्वै दे॒वाना॑मा॒स्यय्ँ॑यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते सा॒क्षादे॒व दे॒वाना॑मा॒स्ये॑ जुहोति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +454,8 @@ he who knowing thus offers the new and the full moon (sacrifices) carries to the
 एत᳓द् वै᳓ देवा᳓नाम् आस्यय्ँ᳙  
 य᳓द् दर्शपूर्णमासौ᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,12 +471,15 @@ The new and the full moon (sacrifices) are the mouth of the gods;
 
 ए॒तत् । वै । दे॒वाना॑म् । आ॒स्य॑म् । यत् । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ विद्वा᳓न् दर्शपूर्णमासौ᳓ य᳓जते  
 साक्षा᳓द् एव᳓ देवा᳓नाम् आस्ये᳙ जुहोति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -449,12 +505,16 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 
 अथ देवमुखत्वेन प्रशंसति-  **एतद्वै देवानामिति।** **साक्षाद्** व्यवधानमन्तरेणैव यथा ब्राह्मणाय दत्तमन्नं पात्रहस्तव्यवधानेन मुखं प्रविशति तद्वन्नेत्यर्थः। 
 </details>
+</details>
 
 ## हविर्धानी
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ष वै ह॑विर्धा॒नी यो द॑र्शपूर्णमासया॒जी सा॒यम्प्रा॑तरग्निहो॒त्रञ्जु॑होति॒ यज॑ते दर्शपूर्णमा॒सावह॑रहर्हविर्धा॒निनाँ॑ सु॒तः
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +524,8 @@ he who knowing thus offers the new and the full moon (sacrifices) manifestly sac
 य᳓जते दर्शपूर्णमासौ᳓  
 अ᳓हर्-अहर् हविर्धानि᳓नाँ सुतः᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -484,12 +546,15 @@ on every day (the Soma) of those who have oblation holders is pressed.
 
 ए॒षः । वै । ह॒वि॒र्धा॒नीति॑ हविः-धा॒नी । यः । द॒र्श॒पू॒र्ण॒मा॒स॒या॒जीति॑ दर्शपूर्णमास-या॒जी । सा॒यम्प्रा॑त॒रिति॑ सा॒यम्-प्रा॒तः॒ । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जु॒हो॒ति॒ । यज॑ते । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ । अह॑रह॒रित्यहः॑-अ॒हः॒ । ह॒वि॒र्धा॒निना॒मिति॑ हविः-धा॒निना॑म् । सु॒तः ।
 </details>
+</details>
 
 ए॒षः । वै । ह॒वि॒र्धा॒नीति॑ हविः-धा॒नी । यः । द॒र्श॒पू॒र्ण॒मा॒स॒या॒जीति॑ दर्शपूर्णमास-या॒जी ।  
 
 सा॒यम्प्रा॑त॒रिति॑ सा॒यम्-प्रा॒तः॒ । अ॒ग्नि॒हो॒त्रमित्य॑ग्नि-हो॒त्रम् । जु॒हो॒ति॒ ।   
 यज॑ते । द॒र्श॒पू॒र्ण॒मा॒साविति॑ दर्श-पू॒र्ण॒मा॒सौ ।   
 अह॑रह॒रित्यहः॑-अ॒हः॒ । ह॒वि॒र्धा॒निना॒मिति॑ हविः-धा॒निना॑म् । सु॒तः ।
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -504,6 +569,7 @@ on every day (the Soma) of those who have oblation holders is pressed.
  हवींषि सोमग्रहरूपाणि धीयन्त असाद्यन्ते यस्मिन्मण्डपे तदिहं हविर्धानं तदस्यास्तीति **हविर्धानी** सोमयाजी।   
  दर्शपूर्णमासयाजिनः सोमयाजित्वं कथमित्युच्यते- आधानान्तरमेव प्रवृत्तं यदग्निहोत्रं तत्प्रतिहोत्रं सायंप्रातरनुतिष्ठति, पर्वणि च दर्शपूर्णमासौ यजते। तदुभयानुष्ठानेन हविर्धानिनां सोमदेवानां प्रतिदिनं सोमोऽभिषुतो भवति। सोमाभिषवणे या प्रीतिः सा देवानामत्र संपद्यते। अग्निहोत्रदर्शपूर्णमासप्रवृत्त्या तदनन्तरभाविनि सोमयागेऽपि प्रवर्तिष्यत इत्येव तैर्निश्चेतुं शक्यत्वात्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -511,6 +577,8 @@ on every day (the Soma) of those who have oblation holders is pressed.
 हविर्धान्य् अ᳙स्मीति  
 स᳓र्वम् एवा᳓स्य बर्हिष्य᳙न् दत्त᳓म् भवति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -546,18 +614,24 @@ everything is given as on the strew.
 तत्प्रवृत्तिक्रमश्च सूत्रकारेण दर्शितः-   
 “अथकेषामग्नीनाधाय हस्ताववनिज्य संवत्सरमाग्निहोत्रं’ हुत्वा दर्शपूर्णमासावारभते ताभ्यां संवत्सरमिष्ट्वा सोमेन पशुना वा यजेत तत ऊर्ध्वमन्यानि कर्माणि कुरुते” इति यजमान एवं देवानां भविष्यत्सोमयागविषयां प्रीतिं विद्वानहं हविर्धानी सोमयाजी भवामीति बुद्ध्वा दर्शपूर्णमासौ यजते। तत ऊर्ध्वमस्य यजमानस्य वर्हिषि सोमयागे दातव्यं यद्यद्विद्यते तत्सर्वं वर्हिष्यं दत्तं भवति।  
 </details>
+</details>
 
 ## पवित्रता
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वा अहः॑ [35]  य॒ज्ञिय॒न्नावि॑न्द॒न्ते द॑र्शपूर्णमा॒साव॑पुन॒न्तौ वा ए॒तौ पू॒तौ मेध्यौ॒ यद्द॑र्शपूर्णमा॒सौ य ए॒वव्ँवि॒द्वान्द॑र्शपूर्णमा॒सौ यज॑ते पू॒तावे॒वैनौ॒ मेध्यौ॑ यजते॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वा᳓ अ᳓हर् यज्ञि᳓यन् ना᳓विन्दन्  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -586,12 +660,15 @@ The gods [3] could not find the suitable day for the sacrifice.
 स्वल्पेऽपि कर्मण्यधिककर्मसंपादनवेदनेन फलाधिक्यप्राप्तिः पूर्वकाण्डे प्रजापतिर्यज्ञानसृजतेत्यनुवाके प्रपञ्चिता। अथ दर्शपूर्णमासकर्मणोस्तिथिविषयविधिमर्थवादेनोन्नयति-  
 देवा वा इति। एतौ दर्शपूर्णमासौ यज्ञावर्हतीति यज्ञियं, तादृशमेकमप्यहर्देवा न लेभिरे। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ दर्शपूर्णमासा᳓व् अपुनन् ।
 तौ᳓ वा᳓ एतौ᳓ पूतौ᳓ मे᳓ध्यौ य᳓द् दर्शपूर्णमासौ᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -625,6 +702,7 @@ the new and the full moon (sacrifices) are these pure and sacrificial (days).
 यस्यां तिथौ चन्द्रमण्डलं संपूर्णं दृश्यते सा **पौर्णमासी।** सा चन्द्रमसः पूर्तेः पूर्णनामाङ्कितस्य कर्मणो योग्या।   
 प्रतिपदादिषु चतुर्दश्यन्तासु तिथिषु चन्द्रमा लेशतो दृश्यते। न पूर्णो नाप्यत्बन्तमदृष्टः अतस्तयोः कर्मणोर्योग्या न भवन्ति। तस्मात्तावेव  **एतौ** उक्तौ तिथिविशेषौ देवैरुक्तरीत्या शोधितौ सन्तौ यज्ञयोग्यौ संपन्नौ। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -632,6 +710,8 @@ the new and the full moon (sacrifices) are these pure and sacrificial (days).
 पूता᳓व् एवै᳓नौ मे᳓ध्यौ यजते ।
  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -660,6 +740,7 @@ offers them as pure and sacrificial.
 
 अत्र दर्शपूर्णमासशब्दस्तिथिपरो न कर्मपरः। यस्त्येवं तिथ्योः शुद्धिं विद्वान्कर्मद्वयं कुरुते सोऽयं शोधितौ यज्ञयोग्यौ तिथिविशेषावेव प्राप्य कृतवान्भवति। तश्मात्तयोस्तिथ्थोः कुर्यादिति तात्पर्यार्थः। 
 </details>
+</details>
 
 ## यभन-निषेधः
 
@@ -667,6 +748,8 @@ offers them as pure and sacrificial.
 
 ना᳓मावास्या᳙याञ्च पौर्णमास्या᳓ञ्च स्त्रि᳓यम् उ᳓पेयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -692,11 +775,14 @@ One should not approach a woman on the new moon or the full moon night;
 
 प्रसङ्गात्पुरुषार्थं कंचिन्नियमं विधत्ते-  **नामावास्यायामिति।** 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् उपेया᳓त् नि᳓रिन्द्रियस् स्यात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -712,11 +798,15 @@ if one were to do so, one would be impotent.
 
 यत् । उ॒पे॒यादित्यु॑प-इ॒यात् । निरि॑न्द्रिय॒ इति॒ निः-इ॒न्द्रि॒यः॒ । स्या॒त् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सोम॑स्य॒ वै राज्ञो॑ऽर्धमा॒सस्य॒ रात्र॑य॒ᳶ पत्न॑य आस॒न्तासा॑ममावा॒स्या॑ञ्च पौर्णमा॒सीञ्च॒ नोपै॑त् [36]  
 ते ए॑नम॒भि सम॑नह्येता॒न्तय्ँयक्ष्म॑ आर्च्छत्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -725,6 +815,8 @@ if one were to do so, one would be impotent.
 रा᳓त्रयᳶ प᳓त्नय आसन् ।  
 ता᳓साम् अमावास्या᳙ञ् च पौर्णमासी᳓ञ् च नो᳓पैत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -749,12 +841,15 @@ of these be did not approach the new moon night and the full moon night [4].
 
 12रात्रय इति ॥ पञ्चदश तिथयः । पत्नय इति छान्दसो वर्णविकारः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓+++(←द्विवचनत्वात् न सन्धिः)+++ एनम् अभि᳓ स᳓मनह्येताम् ।   
 तय्ँ᳓ य᳓क्ष्म आर्च्छत्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -789,6 +884,7 @@ They grasped him about, and illness seized him.
 ते अमावास्यापौर्णमास्यावेनं सोममभिसमगह्येतामाभिमुख्येन संभोगाय गृहीतवत्यौ। बलात्कारेण भुज्यमानं तंसोममतिव्यवायेन क्षयव्याधिः प्राप्तवान्।   
 एतच्च प्रजापतेस्त्रयस्त्रिँ शद्दुहितर इत्यत्र व्याख्यातं तथैव व्याख्येयम्। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -799,6 +895,8 @@ They grasped him about, and illness seized him.
 य᳓ज् जाया᳓भ्याम् अ᳓विन्दत्  
 त᳓ज् जाये᳓न्यस्य।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -825,12 +923,15 @@ that is (the origin) of the 'wife's disease' (Jayenya),
 यत् । पापी॑यान् । अभ॑वत् । तत् । पा॒प॒य॒क्ष्मस्येति॑ पाप-य॒क्ष्मस्य॑ ।  
 यत् । जा॒याभ्या॑म् । अवि॑न्दत् । तत् । जा॒येन्य॑स्य ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एव᳓म् एते᳓षाय्ँ य᳓क्ष्माणाञ् ज᳓न्म वे᳓द   
 नै᳓नमेते᳓ य᳓क्ष्मा विन्दन्ति ।+++(4)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -853,16 +954,22 @@ these illnesses do not visit.
 
 13राजानं यक्ष्म आरदित्यादि ॥ व्याख्यातममावास्यायामिति शेषः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स ए॒ते ए॒व न॑म॒स्यन्नुपा॑धाव॒त्ते अ॑ब्रूताव्ँ॒वरव्ँ॑वृणावहा आ॒वन्दे॒वाना॑म्भाग॒धे अ॑साव [37]  आ॒वदधि॑ दे॒वा इ॑ज्यान्ता॒ इति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एते᳓ एव᳓ नमस्य᳓न्न् उ᳓पाधावत् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -883,6 +990,7 @@ He ran up to these two in reverence;
 
 14स एते इत्यादि ॥ गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -894,6 +1002,8 @@ He ran up to these two in reverence;
 
 इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -932,6 +1042,7 @@ they said,
 
 **आवाम्** उभे एव देवानां हविर्भागधारिण्यौ भवाव आवयोरधिश्रित्गाग्न्यादयो देवा इज्यन्तामित्यनयोर्वरः। एतबोभगिधारित्वं जानते मनुष्याः सर्वेऽपि भागं धारयित्वा प्रयच्छन्ति।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -942,6 +1053,8 @@ they said,
 भाग-धा᳓ अस्मै मनुष्या᳙ भवन्ति,  
 य᳓ एवव्ँ᳓ वे᳓द   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -969,12 +1082,16 @@ Men appoint portions to him who knows thus.
 
 15तस्मादित्यादि ॥ गतम् ॥
 </details>
+</details>
 
 ## क्षुत्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 भू॒तानि॒ क्षुध॑मघ्नन्त्स॒द्यो म॑नु॒ष्या॑ अर्धमा॒से दे॒वा मा॒सि पि॒तर॑स्सव्ँवत्स॒रे वन॒स्पत॑य॒स्तस्मा॒दह॑रहर्मनु॒ष्या॑ अश॑नमिच्छन्तेऽर्धमा॒से दे॒वा इ॑ज्यन्ते मा॒सि पि॒तृभ्य॑ᳵ क्रियते सव्ँवत्स॒रे वन॒स्पत॑य॒ᳶ फल॑ङ्गृह्णन्ति॒ य ए॒वव्ँ वेद॒ हन्ति॒ क्षुध॒म्भ्रातृ॑व्यम् ॥ [38]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,6 +1102,8 @@ Men appoint portions to him who knows thus.
 मासि᳓ पित᳓रस्  
 सव्ँवत्सरे᳓ व᳓नस्प᳓तयः
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1018,6 +1137,7 @@ trees in a year.
 
 अथ मनुष्यादिसाम्योपन्यासेनोक्तार्थमेव पुनः प्रशंसति-  **भूतानि क्षुधमिति।** भूतानि मनुष्याद्याः प्राणिनः। 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1026,6 +1146,8 @@ trees in a year.
 मासि᳓ पितृ᳓भ्यᳵ क्रियते,  
 सव्ँवत्सरे᳓ व᳓नस्प᳓तयᳶ फ᳓लङ् गृह्णन्ति
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1061,12 +1183,15 @@ in a year trees produce fruit.
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये  द्वितीयकाण्डे पञ्चमप्रपाठके  षष्टोऽनुवाकः।। ६ ।।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द  
 ह᳓न्ति क्षु᳓धम् भ्रा᳓तृव्यम् ॥ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1081,4 +1206,5 @@ He who knows thus slays the enemy, hunger.
 <details><summary>पद-पाठः</summary>
 
 यः । ए॒वम् । वेद॑ । हन्ति॑ । क्षुध॑म् । भ्रातृ॑व्यम् ॥
+</details>
 </details>

@@ -4,9 +4,12 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 १ त्रिष्टुप्  
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ तृतीयेऽह्नि प्राजापत्यमतिग्राह्यं गृह्णाति - त्वे क्रतुमपि वृञ्जन्तीत्येकां त्रिष्टुभमनुद्रुत्य उपयामगृहीतोसीति यजुषा ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -14,6 +17,8 @@ title = "१० अग्निग्रहाः प्राणग्रहा
 त्वे᳓ क्र᳓तुम᳓पि वृञ्जन्ति वि᳓श्वे द्वि᳓र्य᳓देते᳓ त्रि᳓र्भ᳓वन्त्यू᳓माः  ।   
 स्वादो᳓स्स्वा᳓दीयस्स्वादु᳓ना सृजा स᳓म᳓त ऊ षु᳓ म᳓धु म᳓धुनाभि᳓ योधि  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -38,6 +43,9 @@ I have won with the mead the mead.
 
 त्वे तव । 'सुपां सुलुक्' इति शे आदेशः । क्रतुं कर्म पूजादिकं विश्वे सर्वेऽपि वृञ्जन्ति सकृदनुष्ठाय संस्थापयन्ति । तत्र द्विरनुष्ठानं, तेनैते स्मः अस्मदादीनां विलक्षणानां यज्ञकर्मणि वर्तमानानां सः स्वभाव इति । ये त्रिरनुतिष्ठन्ति ते ऊमाः अवितारस्सर्वस्य अस्मत्तोपि विलक्षणाः देवा भवन्ति, देवानां स स्वभाव इति । तस्मादस्माभिः द्वितीयः प्राजापत्यग्रहो गृह्यते इति । त्रिरिति । एकवाक्ये पदात्परत्वाभावाद्भवन्तीति न निहन्यते । अवतेरौणादिके मत्प्रत्यये 'ज्वरत्वर' इत्यादिना ऊठ् । तस्मात्स्वादोः पूर्वस्मात् प्राजापत्यात् स्वादीयः स्वादुतरमेतत् स्वादुना दध्यादिना संसृज संसृजामि । पुरुषव्यत्ययः, 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् । अतस्त्वमपि हे प्रजापते ग्रह एव वा । मधु मधुनः फलस्य साधनमेतत्कर्म मधुना कर्मफलेन सुष्ठु अभियोधि आभिमुख्येन संसृज । 'वा छन्दसि' इत्यपित्त्वाभावेनाङित्त्वात् 'अङितश्च' इति धिभावः, 'उतो वृद्धिः' इति व्यत्ययेन न क्रियते, 'अन्येषामपि दृश्यते' इति उकारस्य संहितायां दीर्घत्वम्, 'सुञः' इति षत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -48,13 +56,15 @@ I have won with the mead the mead.
 
 4प्राणग्रहान् गृह्णातीत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -81,15 +91,16 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/prajApataye_tvA.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा जु᳓ष्टङ्गृह्णामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -114,16 +125,22 @@ agreeable to Prajapati I take thee
 _________________
 
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3अनेन गृहीत्वा परिमृज्य सादयति - एष ते योनिः प्रजापतये त्वेत्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -139,11 +156,14 @@ this is thy birthplace;
 
 ए॒षः । ते॒ । योनिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतये त्वा ॥ [46]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,13 +184,15 @@ to Prajapati thee!
 
 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् ॥
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणग्रहा᳓न्गृह्णाति  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -191,16 +213,22 @@ He draws the Prana, cups;
 
 एषां मन्त्रास्त्वनन्तरकाण्डे भविष्यन्ति । तत्रायं प्रयोगक्रमः - सन्नद्धस्य राज्ञो नवांशून् प्राच आयातयति 'अयं पुरोभुवः' इति । 'अयं दक्षिणा विश्वकर्मा' इति नव दक्षिणा आयातयति । 'अयं पश्चाद्विश्वव्यचाः' इति नव प्रतीच आयातयति । 'इदमुत्तरात्सुवः' इति नवोदीच आयातयति । 'इयमुपरि मतिः' इति नवोपरिष्टात्प्रदक्षिणं पर्यायातयति । तानपानभृद्भिः प्रत्यूहति 'प्राची दिशाम्' इति । वाचयति 'पितरः पितामहाः' इति, ये पुरस्ताद्भवन्ति । अथ 'दक्षिणा दिशाम्' इति ये दक्षिणतो भवन्ति । अथ 'प्रतीची दिशाम्' इति ये पश्चाद्भवन्ति । अथ 'उदीची दिशाम्' इति य उत्तरतो भवन्ति । अथ 'ऊर्ध्वा दिशाम्' इति य उपरिष्टात्प्रदक्षिणं पर्याता भवन्ति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ए॒ताव॒द्वा अ॑स्ति॒ याव॑दे॒ते ग्रहा॒स्स्तोमा॒श्छन्दाँ॑सि पृ॒ष्ठानि॒ दिशो॒ याव॑दे॒वास्ति॒ तत् [29] अव॑ रुन्द्धे ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एता᳓वद्वा᳓ अस्ति या᳓वदेते᳓ ग्र᳓हास्स्तो᳓माश्छ᳓न्दाँसि पृष्ठा᳓नि दि᳓शः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,11 +249,14 @@ so much is there as are these cups, these Stomas, these metres, these Prstha (St
 
 5एतावद्वा इत्यादि ॥ एतावदेवास्मिन् जगति पुनरेते ग्रहाः स्तोमास्त्रिवृदादयः, छन्दांसि गायत्र्यादीनि, पृष्ठानि सामानि रथन्तरादीनि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓वदेवा᳓स्ति त᳓द᳓व रुन्द्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -246,16 +277,22 @@ whatever there is [1] that he wins.
 
 एतदात्मका एते ग्रहाः एतावदेवास्ति सर्वमवरुन्धे ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ज्ये॒ष्ठा वा ए॒तान्ब्रा॑ह्म॒णाᳶ पु॒रा वि॒द्वाम॑क्र॒न्तस्मा॒त्तेषाँ॒ सर्वा॒ दिशो॒ऽभिजि॑ता अभूव॒न्यस्यै॒ते गृ॒ह्यन्ते॒ ज्यैष्ठ्य॑मे॒व ग॑च्छत्य॒भि दिशो॑ जयति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठा᳓ वा᳓ एता᳓न्ब्राह्मणाᳶ᳓ पुरा᳓ विद्वा᳓मक्रन् ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,11 +313,14 @@ The highest Brahmans have proclaimed these before;
 
 6ज्येष्ठा वा इत्यादि ॥ गतम् । विदामक्रन् । विदेर्लुङि 'अभ्युत्सादयाम्' इत्यादौ आम्प्रत्ययो निपात्यते, 'मन्त्रे घस' इत्यादिना अनुप्रयुज्यमानस्य च्लेर्लुक् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्ते᳓षाँ स᳓र्वा दि᳓शोऽभि᳓जिता अभूवन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -296,6 +336,7 @@ they have therefore won all the quarters.
 
 तस्मा॑त् । तेषा॑म् । सर्वाः॑ । दिशः॑ । अ॒भिजि॑ता॒ इत्य॒भि-जि॒ताः॒ । अ॒भू॒व॒न् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,6 +344,8 @@ they have therefore won all the quarters.
 
 अभि᳓ दि᳓शो जयति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -320,10 +363,14 @@ He for whom these are drawn attains supremacy, he conquers the quarters.
 
 यस्य॑ । ए॒ते । गृ॒ह्यन्ते॑ । ज्यैष्ठ्य॑म् । ए॒व । ग॒च्छ॒ति॒ । अ॒भीति॑ । दिशः॑ । ज॒य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॑ गृह्यन्ते॒ पञ्च॒ दिश॒स्सर्वा॑स्वे॒व दि॒क्ष्वृ॑ध्नुवन्ति॒ नव॑नव गृह्यन्ते॒ नव॒ वै पुरु॑षे प्रा॒णाᳶ प्रा॒णाने॒व यज॑मानेषु दधति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -331,6 +378,8 @@ He for whom these are drawn attains supremacy, he conquers the quarters.
 प᳓ञ्च गृह्यन्ते ।  
 प᳓ञ्च दि᳓शः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -352,11 +401,14 @@ Five are drawn, the quarters are five;
 
 7पञ्च गृह्यन्ते इत्यादयो विधयः । नियतमेव नवांशवो गृह्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓र्वास्वेव᳓ दिक्ष्वृ᳙ध्नुवन्ति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -372,11 +424,14 @@ verily they prosper in all the quarters.
 
 सर्वा॑सु । ए॒व । दि॒क्षु । ऋ॒ध्नु॒व॒न्ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓वनव गृह्यन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,11 +447,14 @@ Nine each are drawn;
 
 नव॑न॒वेति॒ नव॑-न॒व॒ । गृ॒ह्य॒न्ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓व वै᳓ पु᳓रुषे प्राणाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -417,11 +475,14 @@ nine are the vital airs in man;
 
 नव वा इति । सप्त शीर्षण्याः, द्वाववाञ्चौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓नेव᳓ य᳓जमानेषु दधति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -442,16 +503,22 @@ verily upon the sacrificers he bestows the vital airs.
 
 यजमानेषु दधतीति । सत्रविषयत्वाद्बहुवचनम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राय॒णीये॑ चोदय॒नीये॑ च गृह्यन्ते प्रा॒णा वै प्रा॑णग्र॒हाः [30] प्रा॒णैरे॒व प्र॒यन्ति॑ प्रा॒णैरुद्य॑न्ति दश॒मेऽह॑न्गृह्यन्ते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायणी᳓ये  चोदयनी᳓ये च गृह्यन्ते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -472,11 +539,14 @@ At the beginning and at the end they are drawn;
 
 8क्व पुनरेते ग्रहाः गृहीतव्या इत्याह - प्रायणीये चेत्यादि ॥ एते प्रायणीयोदयनीययोरेव नियुक्ता गृह्यन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणा᳓ वै᳓ प्राणग्रहाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,12 +562,15 @@ the Prana cups are the vital airs [2];
 
 प्रा॒णा इति॑ प्र-अ॒नाः । वै । प्रा॒ण॒ग्र॒हा इति॑ प्राण-ग्र॒हाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राणै᳓रेव᳓ प्रय᳓न्ति ।  
 प्राणै᳓रु᳓द्यन्ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -514,10 +587,14 @@ verily they begin with the vital airs, and end with the vital airs.
 
 प्रा॒णैरिति॑ प्र-अ॒नैः । ए॒व । प्र॒यन्तीति॑ प्र-यन्ति॑ । प्रा॒णैरिति॑ प्र-अ॒नैः । उदिति॑ । य॒न्ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रा॒णा वै प्रा॑णग्र॒हाᳶ प्रा॒णेभ्य॒ᳵ खलु॒ वा ए॒तत्प्र॒जा य॑न्ति॒ यद्वा॑मदे॒व्यय्ँयोने॒श्च्यव॑ते दश॒मेऽह॑न्वामदे॒व्यय्ँयोने॑श्च्यवते॒ यद्द॑श॒मेऽह॑न्गृ॒ह्यन्ते॑ प्रा॒णेभ्य॑ ए॒व तत्प्र॒जा न य॑न्ति ॥ [31]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,6 +603,8 @@ verily they begin with the vital airs, and end with the vital airs.
 प्राणा᳓ वै᳓ प्राणग्रहाᳶ᳓ प्राणे᳓भ्यᳵ ख᳓लु वा᳓ एत᳓त्प्रजा᳓ यन्ति ।  
 य᳓द्वामदेव्यय्ँ᳓यो᳓नेश्च्य᳓वते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -548,16 +627,22 @@ Now offspring leave their vital airs in that the Vamadevya (Saman) departs from 
 
 'दशमेहंस्तदु रात्रिसत्रेष्वग्निष्टोम आयातयति वा गृह्णीयादगदो हैव भवति' इत्याचार्याः ॥ 9प्राणेभ्य इत्यादि - प्राणेभ्यः प्रजायन्ति उपगच्छन्ति तदा, यदा वामदेव्यं साम योनेश्च्यवते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 कदा पुनस्तद्योनेश्च्यवते? आह - दशमेऽहन्नित्यादि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द᳓शमे᳓ऽहन्वामदेव्यय्ँ᳓यो᳓नेश्च्यवते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -573,12 +658,15 @@ on the tenth day the Vamadevya departs from its norm;
 
 द॒श॒मे । अह॑न् । वा॒म॒दे॒व्यमिति॑ वाम-दे॒व्यम् । योनेः॑ । च्य॒व॒ते॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द्दशमे᳓ऽहन्गृह्य᳓न्ते ।  
 प्राणे᳓भ्य एव᳓ त᳓त्प्रजा᳓ न᳓ यन्ति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -601,4 +689,5 @@ in that they are drawn on the tenth day, offspring leave not their vital airs.
 गतम् । 'वामदेवाड्ड्यड्ड्यौ' ॥
 
 इति तृतीये पञ्चमे दशमोनुवाकः ॥  
+</details>
 </details>

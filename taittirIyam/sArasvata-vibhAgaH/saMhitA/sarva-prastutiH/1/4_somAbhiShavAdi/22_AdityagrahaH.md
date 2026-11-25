@@ -4,12 +4,15 @@ title = "२२ आदित्यग्रहः"
 १-२ बृहती , ३-त्रिष्टुप् । सोमऋषिः
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1तृतीयसवने आदित्यं गृह्णाति - कदा चन स्तरीरसीति पथ्यया पञ्चपदया ।  
 यथोक्तं - 'पथ्या पञ्चभिरष्टाक्षरैः' इति । इयं तु शङ्कुमतीनाम पथ्या, यथोक्तं - 'एकस्मिन् पञ्चके छन्दश्शङ्कुमती' इति ।  
 पथ्या बृहती वा जागत-तृतीय-पादत्वात् ।  
 </details>
+</details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
 
@@ -351,14 +354,17 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति । 'अदितिः पुत्राकामा इत्यादि ब्राह्मणम्  ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -389,12 +395,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -410,14 +419,17 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2शृतातंक्येन श्रीणाति - कदा चन प्र युच्छसीति पथ्ययैव पूर्वोक्तया । अत्र तु तृतीयपादः पञ्चाक्षरः । आदित्यग्रह एवात्रामन्त्र्यते । 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/051/07_kadA_chana.md">
@@ -760,15 +772,18 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 </div>  
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमाम् अनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वा जुष्टं गृह्णामीति श्रीणाति ।  
 उपयामगृहीतोसीत्यस्य पूर्वत्राम्नातस्य उत्तरयानया ऋचा सम्बन्धः । 'पशवो वा एते यदादित्य ऊर्ग्दधि' इत्यादि ब्राह्मणम्  ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -799,12 +814,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -820,14 +838,17 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3पुनरपि तस्मिन्नेव सोमं गृह्णाति - यज्ञो देवानामिति चतुष्पदया त्रिष्टुभा । 'तिसृभिर् ऋग्भिर्गृह्णाति' इति ब्राह्मणम् ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/107/01_yajno_devAnAM.md">
@@ -1233,14 +1254,17 @@ Zur Huld der Götter eilet hin das Opfer, o seid uns gnädig, ihr Aditi-Söhne, 
 </div>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्योपयामगृहीतोस्यादित्येभ्यस्त्वेति गृह्णाति ॥
 </details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/22_AdityagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -1271,12 +1295,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्ये᳓भ्यस्त्वा ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1292,11 +1319,13 @@ to the Adityas thee!
 
 आ॒दि॒त्येभ्यः॑ । त्वा॒ ॥
 </details>
-
+</details>
 </div>
   
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4एनम् उपांशु-सवनेन श्रीणाति - विवस्व इति ॥
@@ -1306,6 +1335,7 @@ _______
 
 विव॑स्व आदित्यै॒ष ते॑ सोमपी॒थस्तेन॑ मन्दस्व॒ तेन॑ तृप्य तृ॒प्यास्म॑ ते व॒यं त॑र्पयि॒तारो॒ या दि॒व्या वृष्टि॒स्तया॑ त्वा श्रीणामि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1314,6 +1344,8 @@ _______
 ते᳓न तृप्य ।  
 तृप्या᳓स्म ते वयं᳓ तर्पयिता᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1341,11 +1373,14 @@ Delight in it, have gladness in it; may we that gladden thee have gladness;
 
 ते तव तर्पयितारो वयमपि तृप्यास्म तृप्ता भूयास्म । आशिषि लिङ्, तिङः परत्वान्न निहिन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ दिव्या᳓ वृ᳓ष्टिस्त᳓या त्वा श्रीणामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1366,4 +1401,5 @@ With the rain of the sky I mix thee.
 
 किञ्च - या दिव्या वृष्टिः । दिवमर्हतीति 'छन्दसि च' इति यत्प्रत्ययः ।  
 ननु 'मन्त्रे वृष' इति क्तिन उदात्तत्वेन भवितव्यम् । भाव्यं भावे क्तिनः, इह तु करणे क्तिन् । तया हे सोम त्वां श्रीणामि मिश्रयामि । ननूपांशुसवनेन श्रीणातीत्युक्तं तत्कथं वृष्ट्या श्रीयत इति । नैष दोषः, 'वृष्टिकामस्य श्रीणीयात्' इति श्रयणस्व वृष्टिहेतुत्वादभेदोपचारः, वृष्टिहेतुनोपांशुसवनेन श्रीणामीति यावत् । 'यदि ताजक्प्रस्कन्देत्' इत्यादि ब्राह्मणम्  ॥
+</details>
 </details>

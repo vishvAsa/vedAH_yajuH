@@ -295,6 +295,7 @@ title = "०५ भोजनम्"
 'रक्षोघ्नमन्त्रपठनं करिष्ये' इति सङ्कल्प्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_niyata-yajJNa-prashaMsA/">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -327,12 +328,15 @@ Om Peace! Peace! Peace!
 
 तत्राऽऽद्येनुवाकेऽध्ययनाङ्गत्वेन यज्ञोपवीतं विधातुं तत्प्रशंसार्थमादावुपाख्यानमाह -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ह वै᳓ देवा᳓नाञ् चा᳓सुराणाञ् च यज्ञौ᳓ प्र᳓तताव् आस्ताव्ँ,  
 "वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -354,11 +358,14 @@ Om Peace! Peace! Peace!
 
 वयमेवाऽऽधिपत्यनिमित्तं स्वर्गं गमिष्याम इत्येवं देवा यदा यज्ञे प्रवृत्तास्तदानीमेवासुरा अपि तथैवाभिप्रेत्य यज्ञे प्रवृत्ताः, तावुभौ यज्ञौ प्रततौ विस्तीर्णावास्ताम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ ऽसुरास् सन्न᳓ह्य स᳓हसैवा᳓चरन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -379,11 +386,14 @@ Those Asuras being equipped conducted all of a sudden;
 
 तदानीं तथाविधा असुराः संनह्य कृतसन्नाहाः सहसैव भुजबलान्न शास्त्रेणैवाऽऽचरन्यज्ञमारब्धवन्तः, ते मौर्ख्याद्ब्रह्मचर्यादिनियमं चानादृतवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मच᳓र्येण त᳓पसैव देवाः᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -404,11 +414,14 @@ and the Devas (performed their sacrifice) by the austerity.
 
 देवास्तु ब्रह्मचर्यात्समस्ततपसा युक्ताः सन्तो यथाशास्त्रमनुष्ठितवन्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ऽसुरा अमुह्यँस्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -429,11 +442,14 @@ Those Asuras became stupified;
 
 ते मूर्खा असुरा अमुह्यन्मौर्ख्यपारवश्येन मोहं प्राप्ताः, मूढाः सन्तः कर्तव्याकर्तव्यं किमपि न प्रजानन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ न᳓ प्रा᳓जानँस्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -454,11 +470,14 @@ they did not know,
 
 ततो यथाशास्त्रानुष्ठानाभावात्स्वर्गं न प्राप्ताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ प᳓राऽभवन्,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -474,11 +493,14 @@ they were defeated
 
 ततश्चैव ते पराभवन् विनष्टा अभवन्, प्रारब्धकर्मफलालाभो विनाशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓ न᳓ स्वर्गल्ँ᳓ लोक᳓मायन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -494,20 +516,24 @@ and did not reach the heaven.
 
 ततस् ते स्वर्गं लोकं नायन्न गताः । अय गतौ ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/01_yajJNopavItam/">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 1–3)* Importance of the sacrificial thread. The description of the Yajñopavīta (sacrificial thread).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓सृतेन वै᳓ यज्ञे᳓न देवा᳓स् स्वर्गल्ँ᳓ लोक᳓म् आयन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -528,11 +554,14 @@ The Devas reached to the heavenly world by the well-performed sacrifice
 
 देवास्तु प्रसृतेनैव यज्ञेन स्वर्गं प्राप्ताः, अप्रसृतेन यज्ञेन युक्तानसुरान्पराभावयन् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓प्र᳓सृतेना᳓सुरान् प᳓राभावयन्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -548,10 +577,14 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 नप्रसृतेन प्रसृतविपरीतेन यज्ञेनेष्टवतोऽसुरान् पराभावयन् । नप्रसृतमप्रसृतं नलोपाभावश्छान्दसः । असुराः पराभूता इत्यर्थः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रसृताप्रसृतयोः स्वरूपं विभजते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +592,8 @@ and they defeated the Asuras, having no well-performed sacrifice.
 प्र᳓सृतो ह वै᳓ यज्ञोपवीति᳓नो यज्ञो᳓,  
 ऽप्रसृतो᳓ ऽनुपवीति᳓नः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -581,10 +616,14 @@ and they defeated the Asuras, having no well-performed sacrifice.
 
 यज्ञोपवीतयुक्तस्य यो यज्ञः सोऽयं गुणाधिक्यात्प्रसृतः प्रकर्षेण वृत्त इत्युच्यते । अनुपवीतिनो यज्ञोपवीतरहितस्य यज्ञो गुणहीनत्वादप्रसृत इत्युच्यते । किञ्च ब्राह्मणो यज्ञोपवीतयुक्तः सन्यत्किमप्यधीते तत्सर्वं यागानुष्ठानसमं भवति । तदेवं यज्ञोपवीतं प्रशस्याध्ययनोपयोगं वदन्यज्ञानामङ्गत्वेन विधत्ते । प्रसृतिः प्रकृष्टगुणयुक्तत्वम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 यज्ञोपवीतसाधनं द्रव्यं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -592,6 +631,8 @@ and they defeated the Asuras, having no well-performed sacrifice.
 य᳓त्कि᳓ञ् च ब्राह्मणो᳓ यज्ञोपवीत्य् अ᳓धीते  
 य᳓जत एव᳓ त᳓त्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -612,12 +653,15 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 कृष्णाजिनवस्त्रयोरन्यतरद्द्रव्यं दक्षिणभागे लम्बमानं कृत्वाऽधीयीतेत्यर्थः । एवमध्ययनादावनेनैव वाक्येन विहितस्यपि यज्ञोपवीतस्य दर्शपूर्णमासप्रकरणे निवीतं मनुष्याणामित्यत्र पुनर्विधानं तदतिक्रमे तत्रत्यविशेषप्रायश्चित्तार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् यज्ञोपवीत्य् ए᳙वा᳓धीयीत  
 याज᳓येद् य᳓जेत वा।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -633,6 +677,9 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 तस्माद्यज्ञोपवीत्येव अध्ययनं यजनं याजनं च कुर्याद् यज्ञस्य प्रसृत्यै प्रसृतगुणकत्वाय ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -642,6 +689,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 *(Mantras 4–5)* The articles of the Yajñopavīta and its wearing.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -653,6 +701,8 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 ऽव धत्ते सव्य᳓म्  
 इ᳓ति यज्ञोपवीत᳓म् एत᳓द् एव᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -681,11 +731,14 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 
 दक्षिणं बाहुमूर्ध्वं धृत्वा सव्ये बाहौ लम्बमाने सति यद्वेष्टनं तद्यज्ञोपवीतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓परीतं प्राचीनावीतँ᳓
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -706,11 +759,14 @@ contradictory to this is (called) the Prācīnāvīta;
 
 एतदेव विपरीतं सव्यबाहोरूर्ध्वं धारणं दक्षिणबाहोर्लम्बमानं चेद्भवति तदा वेष्टनं प्राचीनावीतमित्युच्यते । बाह्वोरुभयोरप्यधो लम्बमानयोरंसद्वये (यद्वेष्टनं तत्) संवीतं तदेतन्मानुषं मनुष्याणामृषीणाम्, यज्ञोपवीतं देवानां यथा वा प्राचीनावीतं पितॄणां तद्वत् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सव्ँवी᳓तं मानुष᳓म् । 1 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -727,12 +783,13 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 संवीतं समं वीतम् अंसद्वयावलम्बनेन वीतं संवीतम् । उभावपि बाहू यत्राधः क्रियते तत् संवीतं मानुषं मनुष्याणां स्वं भवति ॥  
 इत्यारण्यके द्वितीये प्रथमोनुवाकः ॥
 </details>
-
+</details>
 </div>
 
 [[124]]
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/02_sandhyA-vandanam/">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -743,11 +800,14 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 
 *(Mantras 1–5)* The importance of the Gāyatrī-Mantra (Sandhyā).
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 र᳓क्षाँसि ह᳓ वा पुरोऽनुवाके᳓ त᳓पो᳓ग्रम् अतिष्ठन्त।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -768,11 +828,14 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 
 द्वितीये संध्योपासनविधानमुच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् प्रजा᳓पतिर् वरे᳓णोपा᳓मन्त्रयत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -788,16 +851,22 @@ Prajāpati asked them to choose some boon.
 
 अथ तान् तानि रक्षांसि । लिङ्गव्यत्ययः । यद्वा - शेर्लोपेऽपि नुम् प्रवर्तते । प्रजापतिर् वरेण देयेन उपामन्त्रयत वरं वृणीध्वमिति रहस्युपच्छन्दितवान् । अथ तानि वरमवृणीत अवृणत । वर्णव्यत्ययेन ईकारः । वचनव्यत्ययो वा ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्प्रशंसार्थमादावाख्यायिकामाह -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓नि व᳓रम् अवृणीत - "आदित्यो᳓ नो यो᳓द्धा" इ᳓ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -818,11 +887,14 @@ Prajāpati asked them to choose some boon.
 
 हवाशब्दः प्रसिध्यर्थः । पुरोनुवाकः पूर्वकालः, पुर इत्येव पूर्वैरनूच्यते न त्विदानीमिति वा पश्चादिति वोच्यते । एतादृशे पूर्वकाले रक्षांसि खलूग्रं श्रेष्ठं तीव्रं तपोऽतिष्ठन्त कृतवन्तः । तेन तपसा तुष्टः प्रजापतिस्तान्रक्षोविशेषान्वरेणोपामन्त्रयतोपच्छन्दितवान्, वरं वृणीध्वमित्युक्त्वा तान्परितोष्य तपसो निवारितवान् । तानि रक्षांस्यादित्यो नोऽस्माकं योद्धा भवत्वित्येवंवरमवृणीत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓न् प्रजा᳓पतिर् अब्रवीद् - "यो᳓धयध्व᳓मि᳓"ति᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -843,11 +915,14 @@ Prajāpati said to them, "fight".
 
 प्रजापतिस्तानादित्येन सह युद्धं कुरुतेत्यनुज्ञां दत्तवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् उ᳓त्तिष्ठन्तँ ह᳓ वा ता᳓नि र᳓क्षाँस्यादित्यय्ँ᳓ यो᳓धयन्ति या᳓वदस्तम᳓न्वगात्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -870,6 +945,7 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 
 तस्मात्कारणात्तानि रक्षांसि, उत्तिष्ठन्तं हवोद्यन्तमेवाऽऽदित्यं योधयन्ति युद्धे प्रवर्तयन्ति । यावदयमादित्योऽस्तमन्वगादस्तं प्राप्नोति उदयमारभ्य तावदादित्येन सह युद्धं कुर्वन्ति ।
 </details>
+</details>
 
 ### अर्घ्यम्
 
@@ -878,6 +954,8 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 ता᳓नि ह वा᳓ एता᳓नि र᳓क्षाँसि  
 गायत्रिया᳓ ऽभिमन्त्रितेना᳓म्भसा शाम्यन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -899,10 +977,14 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 
 तदा च युद्धे प्रवृत्तानि तानि रक्षांसि तत्सवितुर्वरेण्यमित्यनया गायत्र्याऽभिमन्त्रितं यज्जलं तेनैव शाम्यन्ति न त्वन्येन केनापि ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 इत्यनेनाऽऽख्यानेन जलं प्रशस्यार्घ्यमभिधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -910,6 +992,8 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 त᳓दु ह वा᳓ एते᳓ ब्रह्मवादि᳓नः पूर्वा᳓भिमुखाः᳓ सन्ध्या᳓याङ्  
 गायत्रिया᳓ ऽभिमन्त्रिता आ᳓प ऊर्ध्वं᳓ वि᳓क्षिपन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -931,11 +1015,14 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 
 यस्मादनेन जलेन रक्षसां शान्तिः, तदु ह वै तस्मादेव कारणादेते लोके दृश्यमाना ब्रह्मवादिनो वेदस्य वक्तारः संध्यायां प्रातःसंध्याकाले पूर्वाभिमुखाः सन्तो गायत्र्याऽभिमन्त्रितं जलमूर्ध्वं विक्षिपन्ति प्रक्षिपेयुरित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ एता᳓ आ᳓पो वज्री᳓भूत्वा᳓ ता᳓नि र᳓क्षाँसि मन्दे᳓हा᳓रुणे द्वीपे᳓ प्र᳓क्षिपन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -956,18 +1043,24 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 ताश्च विक्षिप्ता आपो गायत्रीसामर्थ्याद्वज्ररूपं प्राप्य तान्यादित्ययुद्धार्थमागतानि रक्षांसि मन्देहनामकानां रक्षसां स्वभूते कस्मिंश्चिदरुणनाम्नि द्वीपे प्रक्षिपन्ति ।
 </details>
+</details>
 
 ### प्रदक्षिणीकरणम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ प्रदक्षिणावृत्तिं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् प्रदक्षिणं᳓ प्र᳓क्रमन्ति, ते᳓न पाप्मा᳓नम् अ᳓वधून्वन्ति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -990,12 +1083,16 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 प्रदक्षिणाप्रारम्भमावर्तनं प्रक्रमेयुः कुर्युः । तेन च पापक्षयो भवति ।
 </details>
+</details>
 
 ### ब्रह्म-भावनम्
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ ध्यानं विधत्ते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1004,6 +1101,8 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 कुर्व᳓न् ब्राह्मणो᳓ विद्वा᳓न्त् सक᳓लं भद्र᳓म् अश्नुते -  
 असा᳓व् आदित्यो᳓ ब्रह्मे᳓ति -
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1026,10 +1125,14 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 अयं परिदृश्यमान आदित्यो ब्रह्मेति शास्त्रतो विद्वान्पुमानुद्यन्तमस्तं यन्तं वाऽऽदित्यं तथा ध्यायन्प्रदक्षिणं च कुर्वन्वर्तते स पुमान्सकलं भद्रमश्नुते श्रेयः प्राप्नोति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 वेदनं प्रशंसति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1037,6 +1140,8 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 ब्र᳓ह्मैव᳓ स᳓न् ब्र᳓ह्माप्ये᳓ति-  
 य᳓ एवव्ँ᳓ वे᳓द ।2।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1059,7 +1164,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 
 यः पुमानादित्यो ब्रह्मेति वेद स पुमान्पूर्वमजानानोऽपि स्वयं वस्तुतो ब्रह्मैव सन्प्राप्ताद्वेदनादज्ञानापगमे सति स्वानुभवेनापि ब्रह्माऽऽप्नोति ॥
 </details>
-
+</details>
 </div>
 
 इति जपित्वा,  
@@ -1262,9 +1367,12 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 [[128]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 प्राणाहुतिष्वेव विकल्पितानि मन्त्रान्तराणि दर्शयति —
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1273,6 +1381,8 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 प्राणा᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1310,6 +1420,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 
 हूयमान हे द्रव्यविशेष त्वं शिवः शान्तो भूत्वा मां प्रविश। किमर्थम्। अप्रदाहाय क्षुत्संपादितदाहशान्त्यर्थम्। अन्यत्पूर्ववव्द्याख्येयम्॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1317,6 +1428,8 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 अपाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1344,6 +1457,7 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 - अपाना᳓य (*TS*-16/54, *TB*-1/4, *AV*-6/30, *SB-K*-10/32)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1351,6 +1465,8 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 व्याना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1378,6 +1494,7 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 - व्याना᳓य (*TS*-8/26, *TB*-2/5, *SB-M*-4/12, *SB-K*-8/51, *VS-M*-8/11, *VS-K*-7/13)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1385,6 +1502,8 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 उदाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1412,6 +1531,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 - उदाना᳓य (*TS*-3/4, *SB-M*-1/15, *SB-K*-5/51, *VS-K*-2/5)
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1419,6 +1539,8 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
 समाना᳓य स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1446,6 +1568,7 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 - समाना᳓य (*TS*-0/50, *RV*-0/67, *TB*-0/17, *AV*-0/32, *SB-M*-0/12, *SB-K*-1/78, *VS-M*-0/4, *VS-K*-0/5, प्रातिपदिकम् समान᳓ (*MW*))
 - स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
 </details>
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
@@ -1453,6 +1576,8 @@ I sacrifice nectar sitting in the Samana-breath; enter me being auspicious for n
 
 ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (48)
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -1475,6 +1600,7 @@ My soul is in Brahman for immortality.
 <details><summary>सायण-टीका</summary>
 
 एताभिः पञ्चभिराहुतिभिरमृतत्वाय मोक्षाय मे मदीय आत्मा जीवो ब्रह्मणि परमात्मनि एकी भवत्विति शेषः॥
+</details>
 </details>
 </div>  
 
@@ -1595,6 +1721,8 @@ My soul is in Brahman for immortality.
 (मधुत्रयम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/10_3_madhu">
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु वाता इति ॥
@@ -1603,6 +1731,7 @@ My soul is in Brahman for immortality.
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 एकादशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/01_madhu_vAtA.md">
@@ -1659,6 +1788,8 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधु नक्तमिति ॥
@@ -1667,6 +1798,7 @@ May the winds be honeyful for us, who wish the settled order; may the rivers pou
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वादशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/03_madhu_naktam.md">
@@ -1725,6 +1857,8 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 मधुमान्न इति ॥
@@ -1733,6 +1867,7 @@ May honey be for us at night and dawn; may the earthly world be honeyful; may th
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 त्रयोदशीमृचमाह —
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_3/05_madhumAn_no.md">
@@ -2015,6 +2150,7 @@ May the vegetable be honeyful for us; may the sun be honeyful; may the cows be h
 (उपस्थानम्)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/05_bhaxAnuvAkaH/namo_vaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2025,11 +2161,14 @@ May the vegetable be honeyful for us; may the sun be honeyful; may the cows be h
 
 नमो॑ वᳶ पितरो॒ रसा॑य॒ नमो॑ वᳶ पितर॒श्शुष्मा॑य॒ नमो॑ वᳶ पितरो जी॒वाय॒ नमो॑ वᳶ पितरः [20]  स्व॒धायै॒ नमो॑ वᳶ पितरो म॒न्यवे॒ नमो॑ वᳶ पितरो घो॒राय॒ पित॑रो॒ नमो॑ वो॒ य ए॒तस्मिल्ँ॑ लो॒के स्थ यु॒ष्माँस्तेऽनु॒ ये॑ऽस्मिल्ँ लो॒के मान्तेऽनु॒ य ए॒तस्मिल्ँ॑ लो॒के स्थ यू॒यन्तेषाव्ँ॒वसि॑ष्ठा भूयास्त॒ ये॑ऽस्मिल्ँ लो॒के॑ऽहन्तेषाव्ँ॒वसि॑ष्ठो भूयासम्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो र᳓साय । [पि᳓तरो न᳓मो वः।],
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2050,11 +2189,14 @@ Homage to your taste, O fathers;
 
 हे पितरः युष्मभ्यं नमः नमस्करोमि रसाय रसार्थं रसवान् भूयासमिति । 'पितरो नमो वः' इत्यादिकं षट्स्वप्यजुषज्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरश् शु᳓ष्माय +++(पि᳓तरो न᳓मो वः )+++,,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2075,11 +2217,14 @@ homage to your birth, O fathers;
 
 शुष्मो बलम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो जीवा᳓य᳓ । [पि᳓तरो न᳓मो वः।],
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2100,11 +2245,14 @@ homage to your life, O fathers;
 
 जीवः प्राणः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरस् स्वधा᳓यै । [पि᳓तरो न᳓मो वः।],,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2125,11 +2273,14 @@ homage to your [5] custom, O fathers;
 
 स्वधा अन्नम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो मन्य᳓वे । [पि᳓तरो न᳓मो वः।],,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2150,11 +2301,14 @@ homage to your anger, O fathers;
 
 मन्युर्दीप्तिः, क्रोधो वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो वᳶ पितरो घोरा᳓य । [पि᳓तरो न᳓मो वः।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2175,11 +2329,14 @@ homage to your terrors, O fathers;
 
 घोरः क्रूरम् । एतयोः स्थाने प्राधान्यं प्रार्थ्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पि᳓तरो न᳓मो वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2200,11 +2357,14 @@ O fathers, homage to you.
 
 हे पितरः युष्मभ्यं नमः । फलमनपेक्ष्य सप्तमोयं नमस्कारः क्रियते । पुनर्वचनं फलनिरपेक्षया नमस्कारार्थम् । अन्य आहुः - पितृसंबन्धिभ्यो रसादिभ्यः प्रथमं षण्णमस्काराः, ततः पितृभ्य एव सप्तम इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ युष्माँ᳓स्ते᳓ऽनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2225,11 +2385,14 @@ Ye that are in that world, may they follow you;
 
 ये एतस्मिन् लोके पितरः स्थ । एतस्मिन्निति पितृलोकं व्यपदिशति । स्थेति सर्वपित्रभिप्रायेणोक्तम् । ते सर्वे युष्माननुसन्तु युष्मत्प्रधाना भवन्तु । 'हीने' इत्यनोः कर्मप्रवचनीयत्वम् । युष्मानिति पित्रादित्रयं व्यपदिशति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳙ऽस्मिल्ँ᳓ लोके᳓ मा᳓न् ते᳓ऽनु ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2250,11 +2413,14 @@ ye that are in this world, may they follow me.
 
 अस्मिन् मनुष्यलोके मनुष्याः स्थ, ते सर्वे मामनु सन्तु मत्प्रधाना भवन्तु ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एत᳓स्मिल्ँ लोके᳓ स्थ᳓ यूय᳓न् ते᳓षाव्ँ व᳓सिष्ठा भूयास्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2275,11 +2441,14 @@ Ye that are in that world, of them be ye the most fortunate;
 
 ये यूयमेतस्मिन् लोके स्थ तेषां पितॄणां यूयं वसिष्ठाः वसुमत्तमा भूयास्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये᳙ऽस्मिल्ँ᳓ लोके᳙ ऽहन् तेषाव्ँव᳓सिष्ठो भूयासम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2300,7 +2469,7 @@ ye that are in this world, of these may I be the most fortunate.
 
 येऽस्मिन् लोके सन्ति मनुष्यास्तेषां मनुष्याणामहं वसिष्ठो वसुमत्तमो भूयासम् । वसुशब्दादिष्ठनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः ॥
 </details>
-
+</details>
 </div>  
 
 [[137]]
@@ -2333,16 +2502,20 @@ ye that are in this world, of these may I be the most fortunate.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/brAhmaNam/sarva-prastutiH/5/4/11/aShTAv_aShTau.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ऽष्टाव॑ष्टाव॒न्येषु॒ धिष्णि॑ये॒षूप॑ दधात्य॒ष्टाश॑फाᳶ प॒शवᳶ॑ प॒शूने॒वाव॑ रुन्द्धे॒ षण्मा॑र्जा॒लीये॒ षड्वा ऋ॒तव॑ ऋ॒तव॒ᳵ खलु॒ वै दे॒वाᳶ पि॒तर॑ ऋ॒तूने॒व दे॒वान्पि॒तॄन्प्री॑णाति ॥ [55]
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ष्टा᳓व् अष्टावन्ये᳓षु धि᳓ष्णियेषू᳓प दधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2364,11 +2537,14 @@ Eight each he puts down in the other altars;
 14अष्टाविति ॥ एकां याजुषीम् । सप्त च लोकंपृणाः ।  
 अन्येषु धिष्ण्येषु आग्नीध्रीयादिषु
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अष्टा᳓शफाᳶ पश᳓वः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2384,11 +2560,14 @@ cattle have eight half-hooves;
 
 अ॒ष्टाश॑फा॒ इत्य॑ष्ट-शफाः॑ । प॒शवः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पशू᳓नेवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2404,11 +2583,14 @@ verily he wins cattle.
 
 प॒शून् । ए॒व । अवेति॑ । रु॒न्धे॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ण्मार्जाली᳓ये ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2429,12 +2611,15 @@ verily he wins cattle.
 
 षडिति । एकां याजुषीं पञ्च लोकंपृणाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ष᳓ड्वा᳓ ऋत᳓वः ।  
 ऋत᳓वᳵ ख᳓लु वै᳓ देवाᳶ᳓ पित᳓रः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2456,11 +2641,14 @@ the seasons are six, the gods, the fathers, are the seasons;
 
 ऋतव एव खलु पितृरूपेण वर्तन्ते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋतू᳓नेव᳓ देवा᳓न्पितॄ᳓न्प्रीणाति ॥ [55]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -2483,7 +2671,7 @@ verily he delights the seasons, the gods, the fathers.
 
 इति पञ्चमे चतुर्थे एकादशोनुवाकः ॥
 </details>
-
+</details>
 </div>  
 
 इत्य् उपस्थाय -  
@@ -2536,7 +2724,6 @@ verily he delights the seasons, the gods, the fathers.
 [[138]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/dhanyA_vayam__patra-shAkAdi__mantrahInam__adya_me">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्या वयं भवत्पाद-  
@@ -2545,12 +2732,15 @@ verily he delights the seasons, the gods, the fathers.
 कृतोऽस्मासु दयालुभिः ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 धन्या वयं भवत्पाद-  
 रजः पूतम् इदं गृहम् ।  
 अनुग्रहश् च युष्माभिः  
 कृतोऽस्मासु दयालुभिः ॥  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2561,12 +2751,15 @@ verily he delights the seasons, the gods, the fathers.
 विस्मृत्य क्षन्तुम् अर्हथ ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 पत्र-शाकादि-दानेन  
 क्लेशिता यूयम् ईदृशाः ।  
 तत्-क्लेश-जातं चित्तेषु  
 विस्मृत्य क्षन्तुम् अर्हथ ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2577,6 +2770,8 @@ verily he delights the seasons, the gods, the fathers.
 प्रसादात् भवतां मम ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्र-हीनं क्रिया-हीनं  
@@ -2584,6 +2779,8 @@ verily he delights the seasons, the gods, the fathers.
 श्राद्धं सम्पूर्णतां यातु  
 प्रसादात् भवतां मम ॥
 </details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2593,6 +2790,8 @@ verily he delights the seasons, the gods, the fathers.
 याता वोऽनुग्रहात् दिवम् 
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अद्य मे सफलं जन्म  
@@ -2600,7 +2799,7 @@ verily he delights the seasons, the gods, the fathers.
 अद्य मे वंशजाः सर्वे  
 याता वोऽनुग्रहात् दिवम् 
 </details>
-
+</details>
 </div>  
 
 इत्युपचारान् उत्त्वा,  
@@ -2644,6 +2843,8 @@ verily he delights the seasons, the gods, the fathers.
 मनो᳓न्मनाय +++(←स्वरः?? व्युत्पत्तिः?)+++ न᳓मः । (59)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>स्वरोहः</summary>
 
 तत्पुरुषग्रहणे -
@@ -2672,23 +2873,23 @@ Hail for Vamadeva, salutation for the oldest, salutation for the best, salutatio
 <details><summary>पद-पाठः (यान्त्रिकः - 5/18 व्यत्यस्त-स्वराः)</summary>
 
 - वाम-देवा᳓य (*AV*-0/1, कर्मधारयः समासस्य पा॰ ६.१.२२३; ऋषिनामनि बहुव्रीहौ तु वाम᳓-देव पा॰ ६.२.१, *RV*-0/1, *AV*-1, *MW*)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
-- ज्येष्ठा᳓य (*TS*-2/10, *RV*-0/2, *TB*-0/6, *AV*-5/20, *SB-M*-2/3, *VS-M*-1)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
-- रुद्रा᳓य (*TS*-13/162, *RV*-13/99, *TB*-11/42, *AV*-4/44, *SB-M*-6/34, *VS-M*-6/25)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
-- का᳓लाय → **काला᳓य** (*TS*-0/3, *RV*-0/1, *TB*-0/1, *AV*-0/43, *SB-M*-0/4, काल᳓ *TS*-2, *TB*-1, *AV*-15, *SB-M*-1, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
+- ज्येष्ठा᳓य (*TS*-2/10, *RV*-0/2, *TB*-0/6, *AV*-5/20, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1, *VS-K*-1)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
+- रुद्रा᳓य (*TS*-13/162, *RV*-13/99, *TB*-11/42, *AV*-4/44, *SB-M*-6/34, *SB-K*-6/118, *VS-M*-6/25, *VS-K*-6/35)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
+- का᳓लाय → **काला᳓य** (*TS*-0/3, *RV*-0/1, *TB*-0/1, *AV*-0/43, *SB-M*-0/4, *SB-K*-0/23, काल᳓ *TS*-2, *TB*-1, *AV*-15, *SB-M*-1, *SB-K*-5, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - क᳓ल-विकरणाय → **कल-विक᳓रणाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - ब᳓ल-विकरणाय → **बल-विक᳓रणाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - ब᳓ल-प्रमथनाय → **बल-प्रम᳓थनाय** (कर्तरि ल्युट् पा॰ ३.३.११३, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - स᳓र्व-भूत-दमनाय → **सर्व-भूत-द᳓मनाय** (कर्तरि ल्युः पा॰ ३.१.१३४, लिति पा॰ ६.१.१९३, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९; बहुव्रीहौ तु पूर्वपदप्रकृतिस्वरः पा॰ ६.२.१)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 - मनो᳓न्मनाय (पा॰ ६.२.१९९)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *VS-M*-177/181)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
 </details>
 
 <details><summary>मूलम् - आन्ध्र-पाठः</summary>
@@ -2763,6 +2964,7 @@ namaH kalavikaraNAya balapramathanAya |
 namaH sarvabhUtadamanAya manonmanAya cha ||
 
 The more common 11, 9, and 8 name variants probably emerged early and existed side by side, depending on the theological principle onto which they were mapped.
+</details>
 </details>
 </div>  
 

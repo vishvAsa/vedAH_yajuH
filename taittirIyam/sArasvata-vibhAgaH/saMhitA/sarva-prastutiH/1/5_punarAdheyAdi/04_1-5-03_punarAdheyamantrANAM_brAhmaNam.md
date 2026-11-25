@@ -6,15 +6,20 @@ title = "०४ पुनराधेयमन्त्राणां ब्र
 
 ## सर्पसादृश्यं नवीकरणे
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ सर्पराज्ञ्यादीनां मन्त्राणां ब्राह्मणं - भूमिरित्यादि ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓मिर् भूम्ना᳓ द्यौ᳓र् वरिणे᳓त्य् आहाऽऽशि᳓षैवै᳓नम् +++(अग्निम्)+++ आ᳓ धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,16 +40,22 @@ _______
 
 आशिषा अन्नाद्यं प्राप्तुमिच्छया ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 स॒र्पा वै जीर्य॑न्तोऽमन्यन्त स ए॒तङ्क॑स॒र्णीर॑ᳵ काद्रवे॒यो मन्त्र॑मपश्य॒त्ततो॒ वै ते जी॒र्णास्त॒नूरपा॑घ्नत
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्पा᳓ वै᳓ जी᳓र्यन्तो ऽमन्यन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -65,11 +76,14 @@ The serpents thought that they were growing worn out;
 
 2सर्पा वा इत्यादि ॥ धिक् जरा प्राप्यतेऽस्माभिरिति सविषादां मतिमकुर्वत सर्पाः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ एत᳓ङ् कसर्णी᳓रᳵ काद्रवेयो᳓ म᳓न्त्रम् अपश्यत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -90,11 +104,14 @@ Kasarnira Kadraveya beheld this Mantra;
 
 अथ तेषु कसर्णीरो नाम कश्चित्कद्रूपुत्रः स एतं भूमिर्भूम्नेत्यादिकं सर्पराज्ञ्याख्यं मन्त्रमपश्यत् । 'स्त्रीभ्यो ढक्' इति ढक् । ततस्सर्पा एतेनाग्निमादधतेति सामर्थ्याद्गम्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓तो वै᳓ ते᳓ जीर्णा᳓स् तनू᳓र्+++(→चर्म)+++ अ᳓पाघ्नत।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -115,6 +132,7 @@ then did they strike off their worn-out skins.
 
 ततश्च जीर्णास्तनूरपहत्याभिनवा अलभन्तेत्यर्थः ।
 </details>
+</details>
 
 ## सर्पराज्ञि-मन्त्र-प्रयोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -122,6 +140,8 @@ then did they strike off their worn-out skins.
 स᳓र्प᳓-राज्ञि᳓या ऋग्भि᳓र् +++(भूमिर्भूम्नेत्यादिभिः)+++ गा᳓र्हपत्यम् आ᳓ दधाति ।  
 +++(रोहिणीस्थ-विषुव-सूर्य-स्मारका हि मन्त्रास् ते।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -142,11 +162,14 @@ With the verses of the queen of serpents he establishes the Garhapatya,
 
 सर्पराज्ञिया इत्यादि । गतम् ।  पृथिवी सर्पराज्ञी । यथोक्तम् - 'इयं वै सर्पतो राज्ञी' इति । तस्या ऋग्भिः भूमिर्भूम्नेत्यादिभिः । 'अपोद्धृत्य घर्मशिर एतस्य सर्पराज्ञी रोप्य गार्हपत्यमेव सर्वाभिराददीत' इत्याचार्याः । राजनशीला राज्ञी । 'कनिन्युवृष' इति कनिन्प्रत्ययः, 'ऋन्नेभ्यः' इति ङीप् । सर्पाणां राज्ञी स्वामिनी सर्पराज्ञी । 'समासस्य' इत्यन्तोदात्तत्वम् । 'उदात्तयणः' इत्येतद्बाधित्वा व्यत्ययेन । उदात्तस्वरितयोर्यणः' इति विभक्तिस्त्वर्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर् नव᳓म् एवै᳓नम् अज᳓रङ् कृत्वा᳓ ऽऽधत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,16 +190,22 @@ and so renewing it he establishes it as immortal.
 
 पुनर्नवमित्यादि । गतम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अथो॑ पू॒तमे॒व पृ॑थि॒वीम॒न्नाद्य॒न्नोपा॑नम॒त्सैतं [13]मन्त्र॑मपश्य॒त्ततो॒ वै ताम॒न्नाद्य॒मुपा॑नम॒द्यत्स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिर्गार्ह॑पत्यमा॒दधा॑त्य॒न्नाद्य॒स्याव॑रुद्ध्या॒ अथो॑ अ॒स्यामे॒वैन॒म्प्रति॑ष्ठित॒मा ध॑त्ते॒ यत्त्वा॑ क्रु॒द्धᳶ प॑रो॒वपेत्या॒हाप॑ह्नुत ए॒वास्मै॒ तत्पुन॒स्त्वोद्दी॑पयाम॒सीत्या॑ह॒ समि॑न्ध ए॒वैनय्ँ॒यत्ते॑ म॒न्युप॑रोप्त॒स्येत्या॑ह दे॒वता॑भिरे॒व [14] ए॒नँ॒ सम्भ॑रति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो पूत᳓मेव᳓  +++(आधत्ते)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -197,6 +226,7 @@ Pure
 
 अथो अपिच पूतमेवाधत्ते । येनायमृद्धिहेतुर्भवति इत्यादि हेतुश्च न भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -204,6 +234,8 @@ Pure
 सै᳓तं᳓ म᳓न्त्रम् अपश्यत् ।  
 त᳓तो वै᳓ ता᳓म् अन्ना᳓द्यम् उ᳓पानमद्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -226,12 +258,15 @@ food did not come to the earth; she [1] beheld this Mantra; then food came to he
 
 पृथिवीमित्यादि । गतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓त् सर्पराज्ञि᳓या ऋग्भि᳓र् गा᳓र्हपत्यम् आद᳓धाति  ..  
 अन्ना᳓द्यस्या᳓वरुद्ध्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -253,11 +288,14 @@ In that he establishes the Garhapatya with the verses of the serpent queen (it s
 
 'अन्नाद्यायादधे' इति मन्त्रपदम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो अस्या᳓म् एवै᳓नम् +++(अग्निम्)+++ प्र᳓तिष्ठितम् आ᳓ धत्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,12 +316,15 @@ verily he establishes it firm in the (earth).
 
 अथो अपिच अस्यां पृथिव्यां प्रतिष्ठितमाधत्ते । 'उपस्थे ते देवि' इति मन्त्रपदम् ।
 </details>
+</details>
 
 ## यत्त्वा॑ क्रु॒द्धᳶ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "य᳓त्त्वा क्रुद्धᳶ᳓ परोव᳓पे᳓"त्य् आह᳓ - +अ᳓पह्नुत एवा᳓स्मै त᳓त् +++('सुकल्पमग्ने तत्' इत्य् अनेन)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -304,12 +345,15 @@ verily he establishes it firm in the (earth).
 
 यत्त्वेति । आत्मीयम् उद्वासनात्मकं दुष्कृतम् अस्मा अग्नये **ऽपह्नुते** अपनय[पलप]ति 'सुकल्पमग्ने तत्' इति प्रच्छादयति । तद्दुष्कृतमपि त्वत्प्रसादात् सुकृतमेव भवतीति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓नस्त्वो᳓द्दीपयामसी᳓त्याह ।  
 स᳓मिन्ध एवै᳓नम्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -331,6 +375,7 @@ verily he establishes it firm in the (earth).
 
 पुनस्त्वेत्यादि । गतम् ॥
 </details>
+</details>
 
 ## यत् ते॑ म॒न्युप॑रोप्त॒स्य
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -338,6 +383,8 @@ verily he establishes it firm in the (earth).
 य᳓त् ते  मन्यु᳓परोप्तस्ये᳓त्याह -  
 देव᳓ताभिर् एवै᳓नँ स᳓म्भरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -359,6 +406,7 @@ verily he establishes it firm in the (earth).
 
 वि वा ए॒तस्य॑ य॒ज्ञश्छि॑द्यते॒ यो॑ऽग्निमु॑द्वा॒सय॑ते॒ बृह॒स्पति॑वत्य॒र्चोप॑ तिष्ठते॒ ब्रह्म॒ वै दे॒वाना॒म्बृह॒स्पति॒र्ब्रह्म॑णै॒व य॒ज्ञँ सन्द॑धाति॒ विच्छि॑न्नय्ँ य॒ज्ञँ समि॒मन्द॑धा॒त्वित्या॑ह॒ सन्त॑त्यै॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ता॒मित्या॑ह स॒न्तत्यै॒व य॒ज्ञन्दे॒वेभ्योऽनु॑ दिशति स॒प्त ते॑ अग्ने स॒मिध॑स्स॒प्त जि॒ह्वाः [15]इत्या॑ह स॒प्तस॑प्त॒ वै स॑प्त॒धाऽग्नेᳶ प्रि॒यास्त॒नुव॒स्ता ए॒वाव॑ रुन्धे॒ पुन॑रू॒र्जा स॒ह र॒य्येत्य॒भितᳶ॑ पुरो॒डाश॒माहु॑ती जुहोति॒ यज॑मानमे॒वोर्जा च॑ र॒य्या चो॑भ॒यत॒ᳶ परि॑ गृह्णाति 
 </details>
+</details>
 
 ## बार्हस्पत्यमन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -367,6 +415,8 @@ verily he establishes it firm in the (earth).
 यो᳙ऽग्नि᳓म् उद्वास᳓यते बृ᳓हस्प᳓तिवत्यर्चो᳓प तिष्ठते +++("मनो ज्योतिः…" इति)+++ ।   
 ब्र᳓ह्म वै᳓ देवा᳓नाम्बृ᳓हस्प᳓तिः , ब्र᳓ह्मणैव᳓ यज्ञँ᳓ स᳓न्दधाति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +440,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 
 3वि वा एतस्येत्यादि ॥ 'मनो ज्योतिः' इत्येषा बृहस्पतिवती ऋक् । 'छन्दसीरः' इति मतुपो वत्वम् । बृहस्पतिशब्दस्याद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -397,6 +448,8 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 "वि᳓श्वे देवा᳓ इह᳓ मादयन्ताम्" इ᳓त्याह ।  
 सन्त᳓त्यैव᳓ यज्ञ᳓न् देवे᳓भ्यो᳓ऽनु दिशति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -419,6 +472,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 
 विश्वे देवा इति । विच्छिन्नयज्ञं सन्तत्यैव सन्धाय सन्ततमिहेति देवेभ्योनुदिशति ज्ञापयति ।
 </details>
+</details>
 
 ## सप्त ते अग्ने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -426,6 +480,8 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 "सप्त᳓ ते अग्ने समि᳓धस्, सप्त᳓ जिह्वा᳓" इ᳓त्याह ।  
 सप्त᳓सप्त वै᳓ सप्तधा᳓ ऽग्नेᳶ᳓ प्रिया᳓स् तनु᳓वस् - ता᳓ एवा᳓व रुन्धे ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,6 +503,7 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 
 सप्त त इति । समिदादयस्सप्तसप्त प्रत्येकं सप्तसङ्ख्याः सप्तधा सर्वा अपि सप्तधा भिन्नाः अग्नेः प्रियास्तनुवः तनुवत् मूर्तिरिव प्रधानभूताः अग्नेस्तास्सर्वाः अवरुन्धे स्वाभिमतसाधनतया लभते ।
 </details>
+</details>
 
 ## पुरोडाशम् अभितः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +511,8 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 पु᳓नर् ऊर्जा᳓, सह᳓ रय्या᳓ +++(निवर्तस्व)+++   
 +इ᳓त्यभि᳓तᳶ पुरोडा᳓शम् आ᳓हुती जुहोति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -475,11 +534,14 @@ The sacrifice of him who removes the fire is split; he pays reverence with a ver
 
 पुनरूर्जेति । 'पुनरूर्जा निवर्तस्व' 'सह रय्या नि वर्तस्व' इति मन्त्राभ्यामभितः पुरोडाशमाहुती जुहोति पुरस्तादुर्परिष्टाच्च । 'अभितःपरितः' इति द्वितीया ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓जमानम् एवो᳓र्जा᳓ च रय्या᳓ चोभय᳓तᳶ प᳓रि गृह्णाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -505,6 +567,7 @@ verily with strength and with wealth he surrounds on either side the sacrificer.
 
 आदि॒त्या वा अ॒स्माल्लो॒काद॒मुल्ँ लो॒कमा॑य॒न्ते॑ऽमुष्मिल्ँ॑ लो॒के व्य॑तृष्य॒न्त इ॒मल्ँ लो॒कम्पुन॑रभ्य॒वेत्या॒ग्निमा॒धायै॒तान् होमा॑नजुहवु॒स्त आ॑र्ध्नुव॒न्ते सु॑व॒र्गल्ँ लो॒कमा॑य॒न्यᳶ प॑रा॒चीन॑म्पुनरा॒धेया॑द॒ग्निमा॒दधी॑त॒ स ए॒तान् होमा॑ञ्जुहुया॒द्यामे॒वाऽऽदि॒त्या ऋद्धि॒मार्ध्नु॑व॒न्तामे॒वर्ध्नो॑ति ॥
 </details>
+</details>
 
 ## तृतीयाग्नेर् आधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -512,6 +575,8 @@ verily with strength and with wealth he surrounds on either side the sacrificer.
 आ᳓दित्या᳓ वा᳓ अस्मा᳓ल् लोका᳓द् अमुल्ँ᳓ लोक᳓म् आयन् +++(पुनराधानेन)+++ ।  
 ते᳓ अमु᳓ष्मिल्ँ लोके᳓ व्यतृष्यन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -533,6 +598,7 @@ The Adityas went from this world to yonder world, they were thirsty in yonder wo
 
 4आदित्या इत्यादि ॥ भूलोकाद्द्योलोकं गताः ऋद्ध्यर्थं कृत-पुनर्-आधानाः आदित्याः । तत्र च ते **व्यतृष्यन्** भूयोपि ऋद्ध्य्-अभावेन विविधं तृष्यन्तोभवन् । तृषा पिपासायां दैवादिकः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +606,8 @@ The Adityas went from this world to yonder world, they were thirsty in yonder wo
 त᳓ आर्ध्नुवन् ।   
 ते᳓ सुवर्गल्ँ᳓ लोक᳓मायन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -562,12 +630,15 @@ having returned to this world and having established the fire, they offered thes
 
 ततस्ते पुनरपि इममेव लोकमभ्यवेत्य अभ्यावृत्य तृतीयम् अग्निम् आधाय एतान् 'लेकः' इत्यादीन् होमानजुहवुः ऋद्धाः स्वगं गताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यᳶ᳓ पराची᳓नम्+++(=अनन्तरम्)+++ पुनर् आधे᳓याद् अग्नि᳓म् आद᳓धीत ...   
 स एता᳓न् हो᳓माञ् जुहुयात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -589,11 +660,14 @@ He, who establishes a fire after the second establishment, should offer these ob
 
 य इत्यादि । पराचीनं पुनराधेयात् पुनराधेयानन्तरं तृतीयमित्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓म् एवा᳓ ऽऽदित्या᳓ ऋ᳓द्धिम् आ᳓र्ध्नुवन् ता᳓म् एव᳓र्ध्नोति ॥ [16]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -615,4 +689,5 @@ be prospers with the prosperity where with the Adityas prospered.
 यामित्यादि । अयमृध्नोतिः ऋद्धौ च वर्तते यथा ऋध्नुवन्तीति । ऋद्धिकर्मिकायां च प्राप्तौ ऋद्धिमार्ध्नुवन्निति । तत्र पोषं पुष्णातीतिवत्प्राप्तिमात्रप्रवृत्तिर्द्वितीयो द्रष्टव्यः ॥
 
 इति पञ्चमे चतुर्थोनुवाकः ॥
+</details>
 </details>

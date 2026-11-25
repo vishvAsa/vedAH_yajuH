@@ -4,6 +4,8 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 कृत्ति॑का॒ नक्ष॑त्रम॒ग्निर्दे॒वता॒ग्ने रुच॑स्स्थ प्र॒जाप॑तेर्धा॒तुस्सोम॑स्य॒र्चे त्वा॑रु॒चे त्वा॑ द्यु॒ते त्वा॑ भा॒से त्वा॒ज्योति॑षे त्वा रोहि॒णी नक्ष॑त्रम्प्र॒जाप॑तिर्दे॒वता॑ मृगशी॒र्षन्नक्ष॑त्रँ॒ सोमो॑ दे॒वता॒र्द्रा नक्ष॑त्रँरु॒द्रो दे॒वता॒ पुन॑र्वसू॒ नक्ष॑त्र॒मदि॑तिर्दे॒वता॑ ति॒ष्यो॑ नक्ष॑त्र॒म्बृह॒स्पति॑र्दे॒वता॑श्रे॒षा नक्ष॑त्रँ स॒र्पा दे॒वता॑ म॒घा नक्ष॑त्रम्पि॒तरो॑ दे॒वता॒ फल्गु॑नी॒ नक्ष॑त्रम् [26]  अ॒र्य॒मा दे॒वता॒ फल्गु॑नी॒ नक्ष॑त्र॒म्भगो॑ दे॒वता॒ हस्तो॒ नक्ष॑त्रँ सवि॒ता दे॒वता॑ चि॒त्रा नक्ष॑त्र॒मिन्द्रो॑ दे॒वता॑ स्वा॒ती नक्ष॑त्रव्ँवा॒युर्दे॒वता॒ विशा॑खे॒ नक्ष॑त्रमिन्द्रा॒ग्नी दे॒वता॑ऽनूरा॒धा नक्ष॑त्रम्मि॒त्रो दे॒वता॑ रोहि॒णी नक्ष॑त्र॒मिन्द्रो॑ दे॒वता॑ वि॒चृतौ॒ नक्ष॑त्रम्पि॒तरो॑ दे॒वता॑षा॒ढा नक्ष॑त्र॒मापो॑ दे॒वता॑षा॒ढा नक्ष॑त्रव्ँ॒विश्वे॑ दे॒वा दे॒वता॑ श्रो॒णा नक्ष॑त्त्रव्ँ॒विष्णु॑र्दे॒वता॒ श्रवि॑ष्ठा॒ नक्ष॑त्रव्ँ॒वस॑वः [27]  दे॒वता॑ श॒तभि॑ष॒ङ्नक्ष॑त्र॒मिन्द्रो॑ दे॒वता॑ प्रोष्ठप॒दा नक्ष॑त्रम॒ज एक॑पाद्दे॒वता॑ प्रोष्ठप॒दा नक्ष॑त्र॒महि॑र्बु॒ध्नियो॑ दे॒वता॑ रे॒वती॒ नक्ष॑त्रम्पू॒षा दे॒वता॑श्व॒युजौ॒ नक्ष॑त्रम॒श्विनौ॑ दे॒वता॑प॒भर॑णी॒र्नक्ष॑त्रय्ँय॒मो दे॒वता॑ पू॒र्णा प॒श्चाद्यत्ते॑ दे॒वा अद॑धुः ॥  
@@ -21,6 +23,7 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 तत्र येष्टका पौर्णमास्याख्या पूर्वस्यां दिश्युपधेया तां सर्वासामन्तत उपदध्यात् ।   
 तत्र प्रथममन्त्रपाठस्तु— 		कृत्तिका नक्षत्रमिति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -32,6 +35,8 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,10 +72,14 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 तत्तत्सिद्ध्यर्थं त्वामुपदधामि ।  
 एवमुत्तरेष्वपि  नक्षत्रमन्त्रेषु योजनीयम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 द्वितीयनक्षत्रमन्त्रमारभ्य षड्विंशतिनक्षत्रमन्त्राणां पाठस्तु— रोहिणी नक्षत्रमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -82,6 +91,8 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,6 +113,7 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 
 अथ रोहिण्यादयो नक्षत्रविशेषा ज्योतिः शास्त्रा भिज्ञेषु तदीव्यवहाराभिज्ञेषु च प्रसिद्धाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -112,6 +124,8 @@ title = "१० नक्षत्रेष्टकोपधानम्"
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,6 +141,7 @@ Mrgaśirsa the Naksatra, Soma the deity;
 
 मृ॒ग॒शी॒र्षमिति॑ मृग-शी॒र्षम् । नक्ष॑त्रम् । सोमः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -137,6 +152,8 @@ Mrgaśirsa the Naksatra, Soma the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,6 +169,7 @@ Ardra the Naksatra, Rudra the deity;
 
 आ॒र्द्रा । नक्ष॑त्रम् । रु॒द्रः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,6 +180,8 @@ Ardra the Naksatra, Rudra the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,6 +197,7 @@ the two Punarvasus the Naksatra, Aditi the deity;
 
 पुन॑र्वसू॒ इति॒ पुनः॑-व॒सू॒ । नक्ष॑त्रम् । अदि॑तिः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -187,6 +208,8 @@ the two Punarvasus the Naksatra, Aditi the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,6 +230,7 @@ Tisya the Naksatra, Brhaspati the deity;
 
 तिष्यः पुष्यः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -217,6 +241,8 @@ Tisya the Naksatra, Brhaspati the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -232,6 +258,7 @@ the Aśresas the Naksatra, the serpents the deity;
 
 आ॒श्रे॒षा इत्या॑-श्रे॒षाः । नक्ष॑त्रम् । स॒र्पाः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -242,6 +269,8 @@ the Aśresas the Naksatra, the serpents the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,6 +286,7 @@ the Maghas the Naksatra, the fathers the deity;
 
 म॒घाः । नक्ष॑त्रम् । पि॒तरः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -267,6 +297,8 @@ the Maghas the Naksatra, the fathers the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,6 +314,7 @@ the two Phalgunis the Naksatra, Aryaman the deity;
 
 फल्गु॑नी॒ इति॑ । नक्ष॑त्रम् । अ॒र्य॒मा । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -292,6 +325,8 @@ the two Phalgunis the Naksatra, Aryaman the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -307,6 +342,7 @@ the two Phalgunis the Naksatra, Bhaga the deity;
 
 फल्गु॑नी॒ इति॑ । नक्ष॑त्रम् । भगः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -317,6 +353,8 @@ the two Phalgunis the Naksatra, Bhaga the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -332,6 +370,7 @@ Hasta the Naksatra, Savitr the deity;
 
 हस्तः॑ । नक्ष॑त्रम् । स॒वि॒ता । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -342,6 +381,8 @@ Hasta the Naksatra, Savitr the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -357,6 +398,7 @@ Citra the Naksatra, Indra the deity;
 
 चि॒त्रा । नक्ष॑त्रम् । इन्द्रः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -367,6 +409,8 @@ Citra the Naksatra, Indra the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -382,6 +426,7 @@ Svati the Naksatra, Vayu the deity;
 
 स्वा॒ती । नक्ष॑त्रम् । वा॒युः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -392,6 +437,8 @@ Svati the Naksatra, Vayu the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -407,6 +454,7 @@ the two Viśakhas the Naksatra, Indra and Agni the deity;
 
 विशा॑खे॒ इति॒ वि-शा॒खे॒ । नक्ष॑त्रम् । इ॒न्द्रा॒ग्नी इती॑न्द्र-अ॒ग्नी । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,6 +465,8 @@ the two Viśakhas the Naksatra, Indra and Agni the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,6 +482,7 @@ Anuradha the Naksatra, Mitra the deity;
 
 अ॒नू॒रा॒धा इत्य॑नु-रा॒धाः । नक्ष॑त्रम् । मि॒त्रः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -442,6 +493,8 @@ Anuradha the Naksatra, Mitra the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -462,6 +515,7 @@ Rohini the Naksatra, Indra the deity;
 
 द्वितीया रोहिणी ज्येष्ठा ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -472,6 +526,8 @@ Rohini the Naksatra, Indra the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -495,6 +551,7 @@ the two Viśrts the Naksatra, the fathers the deity;
 पितृशब्दोऽत्र निर्ऋतिवाची ।  
 आधानेन पालनात्पितृत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,6 +562,8 @@ the two Viśrts the Naksatra, the fathers the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -520,6 +579,7 @@ the Asadhas the Naksatra, the waters the deity;
 
 अ॒षा॒ढाः । नक्ष॑त्रम् । आपः॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -530,6 +590,8 @@ the Asadhas the Naksatra, the waters the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -545,6 +607,7 @@ the Asadhas the Naksatra, the All-gods the deity;
 
 अ॒षा॒ढाः । नक्ष॑त्रम् । विश्वे॑ । दे॒वाः । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -555,6 +618,8 @@ the Asadhas the Naksatra, the All-gods the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -575,6 +640,7 @@ the Asadhas the Naksatra, the All-gods the deity;
 
 श्रोणाशब्दः श्रवण  २०९२ वाची ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +651,8 @@ the Asadhas the Naksatra, the All-gods the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -605,6 +673,7 @@ the Asadhas the Naksatra, the All-gods the deity;
 
 श्रविष्ठाशब्दो धनिष्ठावाची ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -615,6 +684,8 @@ the Asadhas the Naksatra, the All-gods the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,6 +706,7 @@ the Asadhas the Naksatra, the All-gods the deity;
 
 शतभिषङ्नक्षत्रस्य वरुणो देवता स च परमैश्वर्ययोगादिन्द्र इत्युच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -645,6 +717,8 @@ the Asadhas the Naksatra, the All-gods the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -660,6 +734,7 @@ Prosthapadas the Naksatra, the goat of one foot the deity;
 
 प्रो॒ष्ठ॒प॒दा इति॑ प्रोष्ठ-प॒दाः । नक्ष॑त्रम् । अ॒जः । एक॑पा॒दित्येक॑-पा॒त् । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -670,6 +745,8 @@ Prosthapadas the Naksatra, the goat of one foot the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,6 +767,7 @@ the Prosthapadas the Naksatra, the serpent of the deep the deity;
 
 प्रोष्ठपदा भाद्रपदाः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -700,6 +778,8 @@ the Prosthapadas the Naksatra, the serpent of the deep the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -715,6 +795,7 @@ Revati the Naksatra, Pusan the deity;
 
 रे॒वती॑ । नक्ष॑त्रम् । पू॒षा । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -725,6 +806,8 @@ Revati the Naksatra, Pusan the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -740,6 +823,7 @@ the two Aśvayujs the Naksatra, the Aśvins the deity;
 
 अ॒श्व॒युजा॒वित्य॑श्व-युजौ॑ । नक्ष॑त्रम् । अ॒श्विनौ॑ । दे॒वता॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -750,6 +834,8 @@ the two Aśvayujs the Naksatra, the Aśvins the deity;
 भासे᳓ त्वा+++( उपदधामि)+++ ।    
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -765,16 +851,22 @@ the Apabharanis the Naksatra, Yama the deity.
 
 अ॒प॒भर॑णी॒रित्य॑प-भर॑णीः । नक्ष॑त्रम् । य॒मः । दे॒वता॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ पौर्णमास्यमावास्याभिधेययोरिष्टकयोर्यौ मन्त्रौ तयो प्रतीके दर्शयति— पूर्णा पश्चादिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णा᳓ पश्चा᳓त् ..
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -814,11 +906,14 @@ Full on the west; (what the gods placed).
 
 छान्दसे लिटि 'सन् लिटोर्जेः' इति कुत्वम् । तस्यां तादृश्यां देवा अधिसंवसन्त एकीभूय वर्तमाना उत्तमे उद्गततमे नाके सुखैकरूपे इहास्मिन् लोके मादयन्ताम् । मद तृप्तियोगे, चौरादिकः, उत्तमशब्द उञ्छादिरन्तोदात्तः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓त्ते देवा᳓ अ᳓दधुर्भागधे᳓यम᳓मावास्ये सव्ँव᳓सन्तो महित्वा᳓ । सा᳓ नो यज्ञ᳓म्पिपृहि विश्ववारे रयि᳓न्नो धेहि सुभगे सुवी᳓रम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -852,6 +947,7 @@ What the gods placed.
 कृत्ति  नक्षत्रेष्टकाः स्युः सप्तविंशतिरीरिताः ।  
 ऋचे त्वा सर्वशेषः स्यात्पूर्णा यत्त इति द्वयम् ॥    
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके दशमोऽनुवाकः ॥     १०॥
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके दशमोऽनुवाकः

@@ -3,15 +3,20 @@ title = "०५ प्रायणीयेष्टिविधानम्"
 +++
 सोमऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 दे॒वा वै दे॑व॒यज॑नमध्यव॒साय॒ दिशो॒ न प्राजा॑न॒न्तेऽ३॒॑ न्यो॑न्यमुपा॑धाव॒न्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓ वै᳓ देवय᳓जनम् अध्यवसा᳓य दि᳓शो न᳓ प्रा᳓जानन् , ते᳓ ऽ३᳓न्योन्य᳓म् उ᳓पाधावन् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -32,16 +37,22 @@ The gods, having fixed up a place of sacrifice, could not distinguish the quarte
 
 1अत्र 'भद्रादभि श्रेयः' इत्यादीनां दीक्षितवादानां ब्राह्मणमौपानुवाक्यस्य प्रथमानुवाके द्रष्टव्यम् । अथ प्रायणीयोदयनीययोः कांश्चिद्विशेषान्विधातुमाह - देवा वै देवयजनमित्यादि ॥ देवा इज्यन्तेऽस्मिन्निति देवयजनम्; कृदुत्तरपदप्रकृतिस्वरत्वेन लित्स्वरः । देवा वै देवयजनमध्यवसाय 'अत्र देवा यष्टव्याः' इति स्थानविशेषाध्यवसायानन्तरं दिशः प्रागादिकाः न प्राजानन् इयं प्राचीयं दक्षिणेत्यादि निश्चेतुं नाशकुवन् । ततश्च व्यामुग्धचित्ताः दिग्विशेषापरिज्ञानेन प्राग्वंशादिकरणासमर्थाः अभवन् । ततस्ते अन्योन्यमुपाधावन् अन्यमन्योऽन्यं चान्य इत्येवं परस्परस्य समीपमगच्छन् । 'कर्मव्यतिहारे सर्वनाम्नो द्वे भवतः समासवच्च बहुलम् । यदा समासवत्तदा पूर्वस्य प्रथमैकवचनम्' इति रूपसिद्धिः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 त्वया॒ प्र जा॑नाम॒ त्वयेति॒ तेऽदि॑त्याँ॒ सम॑ध्रियन्त॒ त्वया॒ प्र जा॑ना॒मेति॒
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓या प्र᳓ जानाम त्व᳓ये᳓ति , ते᳓ऽदित्याँ स᳓मध्रियन्त , त्व᳓या प्र᳓ जानामे᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -62,10 +73,14 @@ They ran up to one another, (saying) 'By thee shall we distinguish them, by thee
 
 2केनाभिप्रायेणोपाधावन्नित्याह - त्वया प्र जानाम दिशः त्वं नो दिशः प्रज्ञापयेति वदन्तो देवास्मंभूय एकमुपाधावन्निति । उपगन्तव्यस्य वीप्स्यमानत्वाद्द्विर्वचनं - त्वया त्वया च [त्वयेति] । वीप्सायाश्च सुब्विषयत्वादाख्यातं न द्विरुच्यते । यथा - 'पुरुष इष्टकामुपादधात्पुरुष इष्टकाम्' इति । अथ देवा अन्यतोनुत्पन्नदिग्ज्ञानाः अदित्यां समघ्रियन्त अदितिसकाशे संभूयातिष्ठन्त त्वया प्र जानामेति । धृङ् अवस्थाने, तौदादिकः, 'रिङ्शयग्लिङ्क्षु' ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 साब्र॑वी॒द्वरव्ँ॑वृणै॒ मत्प्रा॑यणा ए॒व वो॑ य॒ज्ञा मदु॑दयना अस॒न्निति॒ तस्मा॑दादि॒त्यᳶ प्रा॑य॒णीयो॑ य॒ज्ञाना॑मादि॒त्य उ॑दय॒नीय॒ᳶ
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,6 +88,8 @@ They ran up to one another, (saying) 'By thee shall we distinguish them, by thee
 सा᳓ब्रवीद् - "व᳓रव्ँ वृणै म᳓त् प्रायणा एव᳓ वो यज्ञा᳓ म᳓दुदयना असन्न्"इ᳓ति ।  
 त᳓स्माद् आदित्यᳶ᳓ प्रायणी᳓यो यज्ञा᳓नाम् आदित्य᳓ उदयनी᳓यः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,17 +116,23 @@ She said, 'Let me choose a guerdon. Let the opening oblation in the sacrifice be
 
 तस्मात् यज्ञानां प्रायणीय उदयनीयश्च आदित्यः अदितिदेवत्यः । 'दित्यदिति' इति ण्यः । प्रायणीयः प्रारम्भयागः, उदयनीयस्समाप्तियागः । उभयत्रापि 'कृत्यल्युटो बहुलम्' इति करणे अनीयर्, 'उपोत्तमं रिति' इत्युपोत्तमस्योदात्तत्वम् । यद्वा - प्रायणं प्रारम्भः, उदयनं समाप्तिः, तत्र भवो याग इति ग्रहादित्वाच्छप्रत्ययः, प्रत्ययाद्युदात्तत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 पञ्च॑ दे॒वता॑ यजति॒ पञ्च॒ दिशो॑ दि॒शाम्प्रज्ञा॑त्यै [34]  
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिᳶ पाङ्क्तो॑ य॒ज्ञो य॒ज्ञमे॒वाव॑ रुन्द्धे॒ पथ्याँ॑ स्व॒स्तिम॑यज॒न्प्राची॑मे॒व तया॒ दिश॒म्प्राजा॑नन्न॒ग्निना॑ दक्षि॒णा सोमे॑न प्र॒तीचीँ॑ सवि॒त्रोदी॑ची॒मदि॑त्यो॒र्ध्वाम्पथ्याँ॑ स्व॒स्तिय्ँय॑जति॒
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓ञ्च देव᳓ता यजति प᳓ञ्च दि᳓शो , दिशा᳓म् प्र᳓ज्ञात्यै [34] ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -138,11 +161,14 @@ He offers to five gods; there are five quarters, (and so it serves) for the dist
 
 'तादौ च' इति गतेः प्रत्कृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो प᳓ञ्चाक्षरा पङ्क्तिᳶ᳓ । पा᳓ङ्क्तो यज्ञः᳓ । यज्ञ᳓मेवा᳓व रुन्धे ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -167,11 +193,14 @@ Now the Pankti is of five elements, the sacrifice is fivefold; verily he wins th
 
 पञ्चानां योगो यज्ञावरुद्ध्यै च भवति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓थ्याँ स्वस्ति᳓म् अय᳓ज᳓न् , प्रा᳓चीमेव᳓ त᳓या दि᳓शम् प्रा᳓जानन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,11 +221,14 @@ They made sacrifice to Pathya Svasti. The eastern quarter they distinguished by 
 
 काः पुनस्ता देवता इत्याह - पथ्यामित्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓ना दक्षिणा᳓ , सो᳓मेन प्रती᳓चीँ , सवित्रो᳓दीचीम् , अ᳓दित्योर्ध्वा᳓म्  +++( प्राजानन्)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -227,11 +259,14 @@ by Agni the southern, by Soma the western, by Savitr the northern, by Aditi the 
 
 अग्निमयजन् तेन दक्षिणामजानन् । एवं सर्वत्र । दक्षिणशब्दाद्द्वितीयैकवचनस्याजादेशः । यस्मादेवं पथ्यास्वस्त्यादीनां यागेन देवाः प्राच्याद्याः प्राजानन् तस्मात्पथ्यां स्वस्तिं यजति यजेत् इत्यादयो विधयः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓थ्याँ स्वस्तिय्ँ᳓ यजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -247,17 +282,23 @@ He offers to Pathya Svasti;
 
 पथ्या॑म् । स्व॒स्तिम् । य॒ज॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राची॑मे॒व तया॒ दिश॒म्प्र जा॑नाति॒ पथ्याँ॑ स्व॒स्तिमि॒ष्ट्वाग्नीषोमौ॑ यजति॒ चक्षु॑षी॒ वा ए॒ते य॒ज्ञस्य॒ यद॒ग्नीषोमौ॒ ताभ्या॑मे॒वानु॑ पश्यति [35]  
 अ॒ग्नीषोमा॑वि॒ष्ट्वा स॑वि॒तारय्ँ॑यजति सवि॒तृप्र॑सूत ए॒वानु॑ पश्यति सवि॒तार॑मि॒ष्ट्वादि॑तिय्ँयजती॒यव्ँ वा अदि॑तिर॒स्यामे॒व प्र॑ति॒ष्ठायानु॑ पश्य॒त्य्
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा᳓चीमेव᳓ त᳓या दि᳓शम् प्र᳓ जानाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,11 +319,14 @@ verily he distinguishes the eastern quarter.
 
 5प्राचीमेवेत्यादीनि फलानि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓थ्याँ स्वस्ति᳓मिष्ट्वा᳓ ऽग्नी᳓षो᳓मौ यजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -305,11 +349,14 @@ Having offered to Pathya Svasti, he offers to Agni and Soma.
 
 'ईदग्नेः' इतीत्वम्, 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम्; 'देवताद्वन्द्वे च' इति द्वयोर्युगपत्प्रकृतिस्वरत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 च᳓क्षुषी वा᳓ एते᳓ यज्ञ᳓स्य ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -330,11 +377,14 @@ Agni and Soma indeed are the eyes of the sacrificer;
 
 चक्षुषी इत्यादि । यज्ञचक्षुर्भूताभ्यां ताभ्यामनुपश्यति अनुक्रमेण जानाति, अनन्तरे दिशौ दक्षिणां प्रतीचीं च जानाति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓द् अग्नी᳓षो᳓मौ ता᳓भ्याम् एवा᳓नु पश्यति [35]।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -350,11 +400,14 @@ verily he sees with them [2].
 
 यत् । अ॒ग्नीषोमा॒वित्य॒ग्नी-सोमौ॑ । ताभ्या॑म् । ए॒व । अन्विति॑ । प॒श्य॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नी᳓षो᳓माव् इष्ट्वा᳓ सविता᳓रय्ँ यजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -370,11 +423,14 @@ Having offered to Agni and Soma, he offers to Savitr;
 
 अ॒ग्नीषोमा॒वित्य॒ग्नी-सोमौ॑ । इ॒ष्ट्वा । स॒वि॒तार॑म् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवितृ᳓प्रसूत एवा᳓नु पश्यति ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -401,11 +457,14 @@ verily on the instigation of Savitr he sees.
 
 अत्र सर्वत्रेष्ट्वेति क्त्वाप्रत्ययेन यष्टव्यानां देवतानां क्रमं दर्शयति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सविता᳓रम् इष्ट्वा᳓ऽदितिय्ँ यजति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -421,11 +480,14 @@ Having offered to Savitr, he offers to Aditi;
 
 स॒वि॒तार॑म् । इ॒ष्ट्वा । अदि॑तिम् । य॒ज॒ति॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓ अ᳓दितिर् अस्या᳓मेव᳓ प्रतिष्ठा᳓या᳓नु पश्यति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -441,16 +503,22 @@ Aditi indeed is this (earth); verily taking his stand on it he sees.
 
 इ॒यम् । वै । अदि॑तिः । अ॒स्याम् । ए॒व । प्र॒ति॒ष्ठायेति॑ प्रति-स्थाय॑ । अन्विति॑ । प॒श्य॒ति॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 अदि॑तिमि॒ष्ट्वा मा॑रु॒तीमृच॒मन्वा॑ह म॒रुतो॒ वै दे॒वानाव्ँ॒विशो॑ देववि॒शङ्खलु॒ वै कल्प॑मानम्मनुष्यवि॒शमनु॑ कल्पते॒ यन्मा॑रु॒तीमृच॑म॒न्वाह॑ वि॒शाङ्कॢप्त्यै॑
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दितिमिष्ट्वा᳓ मारुती᳓म् ऋ᳓चम् अ᳓न्वाह - मरु᳓तो वै᳓ देवा᳓नाव्ँ वि᳓शः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,11 +539,14 @@ Having offered to Aditi, he repeats the verse to the Maruts. The Maruts are the 
 
 6अदितिमिष्ट्वेत्यादि ॥ मारुत्या अनुवचनविधिः । यां कांचिन्मरुद्देवत्यामन्वाह ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवविश᳓ङ् ख᳓लु वै᳓ क᳓ल्पमानम् मनुष्यविश᳓म् अ᳓नु कल्पते । य᳓न् मारुती᳓म् ऋ᳓चम् अन्वा᳓ह विशा᳓ङ्कॢ᳓प्त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -504,17 +575,23 @@ As the subjects of the gods are in harmony, so he brings the human subjects into
 
 लिङ्गस्वाभाव्यान्नपुंसकत्वम्, यथोक्तं - 'लिङ्गमशिष्यम्' इति । अयमर्थः - यदा देवानां विशः कल्पन्ते संपद्यन्ते तदा तेनैव हेतुना लक्षणेन वा मनुष्याणां विशः कल्पन्ते संपन्ना भवन्ति । लक्षणेनोः कर्मप्रवचनीयत्वम् । तस्मान्मारुत्या अनुवचनं विशां कॢप्त्यै भवति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ब्रह्मवा॒दिनो॑ वदन्ति प्रया॒जव॑दननूया॒जम्प्रा॑य॒णीय॑ङ्का॒र्य॑मनूया॒जव॑त् [36]  
 अ॒प्र॒या॒जमु॑दय॒नीय॒मिति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्ति - "प्रयाज᳓वदननूयाज᳓म् प्रायणी᳓यङ् कार्य᳙म् अनूयाज᳓वद् अप्रयाज᳓म् मुदयनी᳓य᳓म्"इ᳓ति  ।[36]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -535,10 +612,14 @@ The theologians say, 'The opening oblation should be performed with a fore-offer
 
 7ब्रह्मवादिन इत्यादि ॥ प्रारम्भे यष्टव्याः प्रयाजाः । अनु पश्चात् समाप्तौ यष्टव्याः अनूयाजाः । 'प्रयाजानूयाजौ यज्ञाङ्गे' इति कुत्वाभावो निपात्यते, थाथादिनोत्तरपदान्तोदात्तत्वम् । 'उपसर्गस्य घञ्यमनुष्ये बहुलम्' इत्यनोर्दीर्घत्वम् । प्रयाजयुक्तमविद्यमानानूयाजं प्रायणीयं कार्यं अनूयाजयुक्तमविद्यमानप्रयाजमुदयनीयं कार्यमिति ब्रह्मवादिन आहुः । अत्र पूर्वयोः 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । प्रायणीयोदयनीयशब्दौ अर्धर्चादिद्रष्टव्यौ ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 इ॒मे वै प्र॑या॒जा अ॒मी अ॑नूया॒जास्सैव सा य॒ज्ञस्य॒ सन्त॑ति॒स्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +627,8 @@ The theologians say, 'The opening oblation should be performed with a fore-offer
 इमे᳓ वै᳓ प्रयाजा᳓, अमी᳓ अनूयाजाः᳓ ।
 सैव᳓ सा᳓ यज्ञ᳓स्य स᳓न्ततिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -567,17 +650,23 @@ These are the fore-offerings, and these the after-offerings, and this is the cou
 
 8अथ ब्रह्मवादिन उक्तेऽर्थे कारणं वदन्ति - इमे इत्यादि ॥ सन्निहितपुरोवर्तिविषय इदंशब्दः, विपरीतविषयोदश्शब्दः । अयमर्थः - इमे प्रयाजाः अस्मिन् यागारम्भकाले सन्निहिताः प्रयाजाः । अमी अनूयाजाः उत्तरस्मिन् यागसमाप्तिकाले भविष्यन्त्यनूयाजाः । तस्मात्सैव प्रायणीये प्रयाजप्रभृति प्रवृत्ता सा यज्ञस्य सन्ततिः । या उदयनीयानूयाजकाले सन्तन्यते । एतावन्तं कालमेकैकाविच्छेदेन यज्ञस्य सन्ततिः संपन्ना भवति । अन्यथा यदि प्रायणीये अनूयाजास्स्युः, तेषां यज्ञसमाप्तिविषयत्वात् यज्ञसन्ततिः प्रस्तुता विच्छिन्ना स्यात् । अथ यद्युदयनीये प्रयाजास्स्युः तेषां यज्ञारम्भविषयत्वात् प्रस्तुतयज्ञसन्ततिविच्छिदोनेनानुमीयते । तस्मादुभयाभावात् सैव सा यज्ञस्य सन्ततिर्भवति । यद्वा - इमे वै प्रयाजा आरम्भयागाः खलु प्रयाजाः, तस्मात्त एवारम्भयागे प्रायणीये स्युरिति युज्यते । अथामी अनूयाजाः समाप्तियागाः, त एव समाप्तियागाः उदयनीये भवितुमर्हन्तीत्यर्थः । एतदेव समर्थयते - सैवेति । सैव हि यज्ञस्य प्रायणनीयस्य सैवोदयनीयस्य च सन्ततिरिति । यद्वा - इमे इदंरूपाः भूलोकात्मानः प्रयाजाः । अमी अदोरूपाः स्वर्लोकात्मानोनूयाजाः । सैव सा उदयनीयसमाप्तिः एतल्लोकसंबन्धिन्येव यज्ञस्य सन्ततिर्भवति, तथा यजमानोस्मिन् लोके प्रतिष्ठितो भवतीति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 तत्तथा॒ न का॒र्य॑मा॒त्मा वै प्र॑या॒जाᳶ प्र॒जानू॑या॒जा यत्प्र॑या॒जान॑न्तरि॒यादा॒त्मान॑म॒न्तरि॑या॒द्यद॑नूया॒जान॑न्तरि॒यात्प्र॒जाम॒न्तरि॑या॒द्यत॒ᳵ खलु॒ वै य॒ज्ञस्य॒ वित॑तस्य॒ न क्रि॒यते॒ तदनु॑ य॒ज्ञᳶ परा॑ भवति य॒ज्ञम्प॑रा॒भव॑न्तय्ँ॒यज॑मा॒नोऽनु॑ [37]  
 परा॑भवति
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓त् त᳓था न᳓ कार्य᳙म् , आत्मा᳓ वै᳓ प्रयाजाᳶ᳓ प्रजा᳓ ऽनूयाजाः᳓ । य᳓त् प्रयाजा᳓न् अन्तरिया᳓द् , आत्मा᳓नम् अन्त᳓रियाद् , य᳓दनूयाजा᳓न् अन्तरिया᳓त् , प्रजा᳓म् अन्त᳓रियात् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -604,12 +693,15 @@ This is not to be followed. The fore offerings are the self; the after-offerings
 
 अन्तरियात् विनाशयेत् । तस्मादन्यतरान्तरयेऽन्यतरान्तरयस्स्यात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓तᳵ ख᳓लु वै᳓ यज्ञ᳓स्य वि᳓ततस्य न᳓ क्रिय᳓ते त᳓द᳓नु यज्ञᳶ᳓ प᳓रा भवति ।
 यज्ञ᳓म् पराभ᳓वन्तय्ँ य᳓जमानो᳓ऽनु प᳓राभवति ।[37]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -635,16 +727,22 @@ In so far as the whole of the sacrifice is not performed, in so far does the sac
 
 तस्मादसमीचीनं ब्रह्मवादिवचनमिति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्रया॒जव॑दे॒वानू॑या॒जव॑त्प्राय॒णीय॑ङ्का॒र्य॑म्प्रया॒जव॑दनूया॒जव॑दुदय॒नीय॒न्नात्मान॑मन्त॒रेति॒ न प्र॒जान्न य॒ज्ञᳶ प॑रा॒भव॑ति॒ न यज॑मानᳶ
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाज᳓वद् एवा᳓नूयाज᳓वत् प्रायणी᳓यङ् कार्य᳙म् , प्रयाज᳓वद् अनूयाज᳓वद् उदयनी᳓यन् ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -665,11 +763,14 @@ Verily the opening oblation should be performed with both fore- and after-offeri
 
 10कथं तर्हि कर्तव्यमित्याह - प्रयाजवदेवेत्यादि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ आत्मा᳓नम् अन्तरे᳓ति , न᳓ प्रजा᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -690,11 +791,14 @@ He does not omit the self, nor offspring;
 
 उभयमुभयवदेव कर्तव्यमिति नात्मानं न च प्रजामन्तरेति, न यज्ञो न च यजमानः पराभवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓ यज्ञᳶ᳓ पराभ᳓वति , न᳓ य᳓जमानः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -710,16 +814,22 @@ the sacrifice does not come to ruin, nor the sacrificer.
 
 न । य॒ज्ञः । प॒रा॒भव॒तीति॑ परा-भव॑ति । न । यज॑मानः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 प्राय॒णीय॑स्य निष्का॒स उ॑दय॒नीय॑म॒भि निर्व॑पति॒ सैव सा य॒ज्ञस्य॒ सन्त॑ति॒र्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायणी᳓यस्य निष्कास᳓ उदयनी᳓यम् अभि᳓ नि᳓र्वपति ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -742,11 +852,14 @@ He offers the concluding oblation in the scrapings of the opening oblation;
 
 प्रायणीयस्य निष्कासे स्थाल्यां मेक्षणे च लग्नं यदन्नकल्पमन्नं तस्योपर्युदयनीयं निर्वपति । एतेन प्रायणीयोदयनीययोरेका यज्ञस्य सन्ततिः कृता भवति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सै᳓व᳓ सा᳓ यज्ञ᳓स्य स᳓न्ततिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -762,16 +875,22 @@ this is the course of the sacrifice.
 
 सा । ए॒व । सा । य॒ज्ञस्य॑ । सन्त॑ति॒रिति॒ सम्-त॒तिः॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 याᳶ प्रा॑य॒णीय॑स्य या॒ज्या॑ यत्ता उ॑दय॒नीय॑स्य या॒ज्याः॑ कु॒र्यात्परा॑ङ॒मुल्ँ लो॒कमा रो॑हेत्प्र॒मायु॑कस्स्या॒द्
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याᳶ᳓ प्रायणी᳓यस्य याज्या᳙ य᳓त्ता᳓ उदयनी᳓यस्य याज्याः᳙ कुर्या᳓त् , प᳓राङ् अमुल्ँ᳓ लोक᳓म् आ᳓ रोहेत् प्रमा᳓युकस् स्यात् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -792,16 +911,22 @@ Now if he were to make the Yajya verses of the opening libation the Yajya verses
 
 12अत्र तैर्ब्रह्मवादिभिर्यदुक्तं 'याः प्रायणीयस्य याज्यास्ता एवोदयनीयस्य याज्याः कार्याः' इति तदपि दूषयति - यत् यदि तथा कुर्यात् पराङपुनरावृत्त एव एनं लोकं मुक्त्वा अमुमूर्ध्वलोकमारोहेत्; ततश्च प्रमायुकः परागतासुः स्यात् । यजत्याभिरिति याज्याः, 'कृत्यल्युटो बहुलम्' इति करणे ल्युट्, 'यजयाचरुचप्रवचर्चश्च' इति कुत्वाभावः । पराऽञ्चतीति पराङ्, ऋत्विगादिना क्विनि अनुनासिकलोपे संयोगान्तलोपे च 'क्विन्प्रत्ययस्य कुः' इति कुत्वम्, 'अनिगन्तोञ्चतावप्रत्यये' इति गतेः प्रकृतिस्वरत्वम् । मीयतेः छान्दस उकञ्, कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 याᳶ प्रा॑य॒णीय॑स्य पुरोनुवा॒क्या॑स्ता उ॑दय॒नीय॑स्य या॒ज्याः॑ करोत्य॒स्मिन्ने॒व लो॒के प्रति॑ तिष्ठति ॥ [38]  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याᳶ᳓ प्रायणी᳓यस्य पुरोनुवाक्या᳙स् , ता᳓ उदयनी᳓यस्य याज्याः᳙ करोत्य् ,
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -826,11 +951,14 @@ The Puronuvakya verses of the opening libation should be made the Yajya verses o
 
 याः प्रायणीयस्य याज्याः ता उदयनीयस्य पुरोनुवाक्याः कुर्यादित्ययमपि गम्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मि᳓न्न् एव᳓ लोके᳓ प्र᳓ति तिष्ठति ॥ [38]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -856,4 +984,5 @@ verily he finds support in this world.
 'ऊडिदम्' इत्यादिना इदमो विभक्तेरुदात्तत्वम् ॥
 
 इति षष्ठे प्रथमे पञ्चमोनुवाकः ॥
+</details>
 </details>

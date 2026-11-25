@@ -4,6 +4,8 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 
 अग्निर्ऋषिः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 बृह॒स्पति॑स्त्वा सादयतु पृथि॒व्याᳶ पृ॒ष्ठे ज्योति॑ष्मतीव्ँ॒विश्व॑स्मै प्रा॒णाया॑पा॒नाय॒ विश्व॒ञ्ज्योति॑र्यच्छा॒ग्निस्तेऽधि॑पतिर्वि॒श्वक॑र्मा त्वा सादयत्व॒न्तरि॑क्षस्य पृ॒ष्ठे ज्योति॑ष्मतीव्ँ॒विश्व॑स्मै प्रा॒णाया॑पा॒नाय॒ विश्व॒ञ्ज्योति॑र्यच्छ वा॒युस्तेऽधि॑पतिᳶ प्र॒जाप॑तिस्त्वा सादयतु दि॒वᳶ पृ॒ष्ठे ज्योति॑ष्मतीव्ँ॒विश्व॑स्मै प्रा॒णाया॑पा॒नाय॒ विश्व॒ञ्ज्योति॑र्यच्छ परमे॒ष्ठी तेऽधि॑पतिᳶ पुरोवात॒सनि॑रस्यभ्र॒सनि॑रसि विद्यु॒त्सनिः॑ [20]  
@@ -12,12 +14,15 @@ title = "०६ विश्वज्योतिरादीष्टकोप�
 
 (अथ चतुर्थकाण्डे चतुर्थप्रपाठके षष्टोऽनुवाकः)।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तिस्त्वा सादयतु पृथिव्याᳶ᳓ पृष्ठे᳓ ज्यो᳓तिष्मतीव्ँवि᳓श्वस्मै
 प्राणा᳓यापाना᳓य ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -45,11 +50,14 @@ Let Brhaspati place thee on the ridge of earth, full of light, for every expirat
 कीदृशीं त्वां, ज्योतिष्मतीं प्रकाशवतीम् ।  
 किमर्थम्, विश्वस्मै प्राणायापानाय सर्वस्य प्राणिजातस्य प्राणापानवृत्तिलाभार्थम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वञ्ज्यो᳓तिर्यच्छ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -70,11 +78,14 @@ support all the light,
 
 विश्वं कृत्स्न ( त्स्त्रं ) स्वर्ग प्रकाशकं ज्योतिर्यच्छ नियमय ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓स्ते᳓ऽधिपतिः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -95,11 +106,15 @@ Agni is thine overlord.
 
 ते तवाग्निरधिपतिः पालकोऽस्ति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“विश्वकर्मा त्वा सादयत्वन्तरिक्षस्य पृष्ठे ज्योतिष्मतीमिति विश्व ज्योतिषम्” इति ।  
 पाठस्तु—  २०७६ विश्वकर्मा त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -110,6 +125,8 @@ Agni is thine overlord.
 वि᳓श्वञ्ज्यो᳓तिर्यच्छ ।   
 वायु᳓स्ते᳓ऽधिपतिः  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -134,11 +151,15 @@ Let Viśvakarman place thee on the ridge of the atmosphere, full of light, for e
 
 पूर्ववद्व्याख्येयम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“प्रजापतिस्त्वा सादयतु दिवः पृष्ठे ज्योतिष्मतीमिति विश्वज्योतिषम्” इति ।  
 पाठस्तु— प्रजापतिस्त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,6 +170,8 @@ Let Viśvakarman place thee on the ridge of the atmosphere, full of light, for e
 वि᳓श्वञ्ज्यो᳓तिर्यच्छ ।   
 परमेष्ठी᳓ ते᳓ऽधिपतिः  ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -178,10 +201,14 @@ Let Prajapati place thee on the ridge of the sky, full of light, for every expir
 तदुपधानेन लोकान् प्रकाशवतः करोति ।  
 किंच, एता इष्टका यजमानस्य प्राणान्दृढं धारयन्ति ।   एतेषु मन्त्रेषु प्रतीयमाना बृहस्पत्यादय एता देवताः स्वर्गयोग्यास्ता एवानुसृत्येष्टका उपधाय स्वर्गं प्राप्नोति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“पुरोवातसनिरसीति पञ्च वृष्टिसनीरनुपरिहारम्” इति।   पाठस्तु— पुरोवतासनिरिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +223,8 @@ Let Prajapati place thee on the ridge of the sky, full of light, for every expir
 
 +++( त्वं)+++वृ᳓ष्टिस᳓निरसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -230,16 +259,22 @@ Thou art the bringer of the east wind; thou art the winner of rain; thou art the
 एकामिष्टकां हस्ते धृत्वा चयनक्षेत्रं प्रदक्षिणीकृत्योपदध्यात् ।   एवमनुक्रमेणोपधाने सति सर्वेष्वप्यृतुषु वृष्टिर्भवति ।   मन्त्रेषु पुरोवातादिशब्दानां तात्पर्य दर्शयति— पुरोवातसनिरसीत्याहैतद्वै वृष्ट्यै रूपँ रूपेणैव वृष्टिमव रुन्धे” (सं. का. ५ प्र. ३ अ. १०) इति।  
 २०७७ पुरोवाताभ्रवीद्युत्स्तनयित्नुवर्षणानि मिलित्वा पञ्च वृष्टेः स्वरूपम् ।   अतो वृष्टिरूपवाचिना मन्त्रेणैव वृष्टिं प्राप्नोति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अग्नेर्यान्यसीति द्वे संयान्यै” इति।   पाठस्तु— अग्नेर्यान्यसीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्ने᳓र्या᳓न्यसि देवा᳓नाम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -260,11 +295,14 @@ Thou art the path of Agni;
 
 हे इष्टके त्वमग्नेश्चीयजमानस्य वह्नेर्यानी प्रापिकाऽसि ।   अनेन मन्त्रेण यजमानस्याग्निप्राप्तिरुक्ता ।   द्वितीयेन देवानामग्निप्राप्तिरुच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्नेया᳓न्यसि वायोः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -285,11 +323,14 @@ thou art the gods' path of Agni.
 
 हेऽग्ने त्वं यानो प्रापकोऽसीत्येतादृगुच्चारणं यस्यामिष्टकायां सेयमग्नेयानी ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓न्यसि देवा᳓ना᳓म् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -310,10 +351,14 @@ Thou art the path of Vayu;
 
 हे इष्टके देवानां संबन्धिनी तथाविधा त्वमसि ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“वायोर्यान्यसीति द्वे संयान्यौ” इति।   पाठस्तु— 		वायोर्यानीति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,6 +367,8 @@ Thou art the path of Vayu;
 
  - वा᳓योर्या᳓न्यसि +++( अत्र  वायोयान्यसि इति  भवितव्यं इति भाति  सम्पादकटिप्पणि- मूले अवलोकितव्यम्)+++   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -344,10 +391,14 @@ thou art the gods' path of Vayu.
 
 पूर्ववद्व्याख्येयम् ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“अन्तरिक्षस्य यानसीति द्वे संयान्यौ” इति।   पाठस्तु— 		अन्तरिक्षमिति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +406,8 @@ thou art the gods' path of Vayu.
 अन्त᳓रिक्षस्य या᳓न्यसि ।
 देवा᳓नामन्तरिक्षया᳓न्यसि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -371,11 +424,14 @@ Thou art the path of the atmosphere; thou art the gods' path of the atmosphere.
 
 अ॒न्तरि॑क्षस्य । यानी॑ । अ॒सि॒ । दे॒वाना॑म् । अ॒न्त॒रि॒क्ष॒यानीत्य॑न्तरिक्ष-यानी॑ । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षमसि  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +452,14 @@ Thou art the atmosphere;
 
 हे इष्टके त्वमन्तरिक्षरूपाऽसि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय त्वा +++(उपदधामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -427,16 +486,22 @@ to the atmosphere thee!
 २०७८ चीयमानस्याग्निसमुद्रस्य संयानीसमूहोऽयं प्लवरूपः ।   अतस्ततुपधानेनाग्न्यर्थे प्लवरूपमेवोपदधाति ।   प्रकारान्तरेण पुनः प्रशंसति– 		“उत यस्यैतासूपहितास्वापोऽग्निँ हरन्त्यहृत एवास्याग्निः” [सं. का. ५ प्र. ३ अ. १०] इति।  
 अपि च तदुपधानादूर्ध्वं यदि कथंचिद्वहुलवृष्टिसंपादितप्रवाहेण चीयमानो हृतो भवेत्तथाऽप्यस्य यजमानस्याग्निरहृत एव भवति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“सलिलाय त्वेत्यष्टावादित्येष्टकाः” इति।   पाठस्तु— सलिलाय त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सलिला᳓य त्वा +++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -464,11 +529,14 @@ To the ocean thee, to water thee, to the watery thee,
 
 प्रवाहरूपेण सरणशीलं जलं सर्णीकम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 के᳓ताय त्वा +++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -489,11 +557,14 @@ to impulse thee,
 
 तत्रैव सद्भावमापन्नं जलं सतीकम्, केतो ज्ञानमात्रम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓चेतसे त्वा +++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -514,11 +585,14 @@ to the wise thee,
 
 प्रचेतः प्रकृष्टज्ञानम् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓वस्वते त्वा+++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -539,11 +613,14 @@ to the radiant thee,
 
 विशेषेण वासहेतुः सूर्यप्रकाशो विवस्वान् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव᳓स्त्वा +++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -576,10 +653,14 @@ to the light of the sky thee, to the Adityas thee!
 दृष्टमात्राः पुननत्येते तस्मात्पश्येत नित्यशः॥    
 इत्यादिस्मृतिविषयत्वेनैनं मनुष्या भणयन्ति।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः—“ऋचे त्वा रुचे त्वेति पञ्च घृतेष्टकाः” इति।   पाठस्तु— ऋचे त्वेति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +671,8 @@ to the light of the sky thee, to the Adityas thee!
 भासे᳓ त्वा +++( उपदधामि)+++ ।   
 ज्यो᳓तिषे त्वा +++( उपदधामि)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,10 +701,14 @@ To the Rc thee, to radiance thee, to the shining thee, to the blaze thee, to the
 “अनुपरिहारँ सादयत्त्यपरिवर्गमेवास्मिन्तेजो दधाति” (सं. का. ५ प्र. ३ अ. १०) इति।  
 परितः।   क्वापि वर्जनमकृत्वा सर्वतो यजमाने तेजः स्थापयति ।  
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 कल्पः– “यशोदां त्वेति पञ्च यशोदाः” इति ।   पाठस्तु– यशोदां त्वेति।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +716,8 @@ To the Rc thee, to radiance thee, to the shining thee, to the blaze thee, to the
 यशोदा᳓न्त्वा य᳓शसि  +++(सादयामि)+++ ।
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -650,12 +739,15 @@ Thee, giving glory, in glory;
 
 यशः कीर्तिः ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेजोदा᳓न्त्वा ते᳓जसि  +++(सादयामि)+++ ।   
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,12 +769,15 @@ thee, giving brilliance, in brilliance;
 
 तेजः कान्तिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पयोदा᳓न्त्वा प᳓यसि  +++(सादयामि)+++ ।  
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -704,12 +799,15 @@ thee, giving milk, in milk;
 
 पयः क्षरिम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्चोदा᳓न्त्वा व᳓र्चसि +++(सादयामि)+++ ।  
 +++(ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥  )+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -731,6 +829,7 @@ thee, giving radiance, in radiance;
 
 वर्चो बलम्।     
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -738,6 +837,8 @@ thee, giving radiance, in radiance;
 
 ते᳓न᳓र्षिणा ते᳓न ब्र᳓ह्मणा त᳓या देव᳓तयाङ्गिरस्व᳓द्ध्रुवा᳓ सीद ॥   [21]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -774,6 +875,7 @@ thee giving wealth, in wealth I place; with this seer, the holy power, this deit
 यशः पञ्च यशोदाः स्युः सादयाम्यनुषज्यते ॥    
 षष्ठानुवाके संप्रोक्ताश्चतुस्त्रिंशत्तुशमन्त्रकाः ॥    
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे चतुर्थप्रपाठके षष्ठोऽनुवाकः ॥   ६ ॥    
+</details>
 </details>
 
 चतुर्थकाण्डे चतुर्थप्रपाठके सप्तमोऽनुवाकः

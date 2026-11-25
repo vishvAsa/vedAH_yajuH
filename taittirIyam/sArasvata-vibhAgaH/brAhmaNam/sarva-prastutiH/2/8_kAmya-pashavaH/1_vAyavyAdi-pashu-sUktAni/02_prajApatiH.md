@@ -1,9 +1,12 @@
 +++
 title = "०२ प्रजापतिः"
 +++
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6अथ 'यः प्रजाकामः पशुकामस्स्यात्स एतं प्राजापत्यमजं तूबरमालभेत' इत्यस्य पशोः सूक्ते वपायाः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
@@ -396,6 +399,8 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रजा॑पते॒ न त्वदे॒तान्य॒न्यः ।  
@@ -408,10 +413,14 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 प्र᳓जा-पते । न᳓ । त्व᳓त् । एता᳓नि । अन्यः᳓ । वि᳓श्वा । जाता᳓नि । प᳓रि । ताः᳓ । बभूव । य᳓त्-कामाः । ते । जुहुमः᳓ । त᳓त् । न । उ । अस्तु । वय᳓म् । स्याम । प᳓तयः । रयीणा᳓म् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 2अथ वपाया याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
@@ -446,9 +455,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 8अथ पुरोडाशस्य पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
@@ -483,9 +495,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 9अथ पुरोडाशस्य याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
@@ -520,9 +535,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 10अथ हविषः पुरोनुवाक्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
@@ -557,9 +575,12 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 11अथ हविषो याज्यामाह - 
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">

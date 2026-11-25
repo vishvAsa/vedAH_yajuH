@@ -5,9 +5,12 @@ unicode_script: devanagari
 ---
 ## पशुहौत्रम्
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1पर्यग्निकरणे मैत्रावरुणः प्रेषितो ब्रवीति - अग्निर्होता न इति ॥
+</details>
 </details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/015/01_agnirhotA_no.md">
@@ -319,6 +322,8 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 आ᳓ देवे᳓षु प्र᳓यो द᳓धत् ।   
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 परि॑त्रिवि॒ष्ट्य॑ध्व॒रम् ।  
@@ -335,6 +340,7 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 2परित्रिविष्टीति ॥ त्रिविष्टि त्रिव्याप्ति त्रिबेष्टनं वा परियाति परिगच्छति अयमग्निः अध्वरं अध्वरसाधनं पशुं रथीरिव रथवानिव शीघ्रं गच्छति । 'छन्दसीवनिपौ' इति मत्वर्थीय ईकारः । किमर्थं परियाति? देवेषु प्रय अन्नं हविर्लक्षणं आदधत् आदधात्विति एवमर्थं परियाति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -342,6 +348,8 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 अग्नि᳓र्हव्या᳓न्यक्रमीत् ।  
 द᳓धद्र᳓त्नानि दाशु᳓षे ॥11॥  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,4 +374,5 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे पशुहौत्रे चतुर्थोऽनुवाकः ॥  
 
+</details>
 </details>

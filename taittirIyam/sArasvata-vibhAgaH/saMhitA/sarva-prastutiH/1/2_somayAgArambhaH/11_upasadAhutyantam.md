@@ -4,6 +4,8 @@ title = "११ उपसदाहुत्यन्तम्"
 सोम-करणक-करिष्यमाण-याग-विघ्न-कार्य्-असुर-पराभवार्थोपसद्-वर्णनम्  
 सोमऋषिः
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1सोममाप्याययति - अंशुरंशुरिति ॥
@@ -19,6 +21,7 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -26,6 +29,8 @@ ________
 आ᳓ तु᳓भ्यम्+++(=त्वत्पानाय)+++ इ᳓न्द्रᳶ प्यायताम् ।  
 आ᳓ त्व᳓म् इ᳓न्द्राय प्यायस्व᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -68,11 +73,15 @@ Do thou swell for Indra.
 
 आपस्तम्बस्य तु एक एव मन्त्रः। मदन्त्यस् तप्ता आपः। अंशुः सूक्ष्मो ऽवयवः। हे सोम देव, ते यो ऽंशुः शुष्यति यश्चांशुः क्षीयते स सर्वो ऽप्य् अंशुर् वर्धताम्। किमर्थम्? इन्द्रार्थम्। कीदृशायेन्द्राय? एकं मुख्यं शोभनं सोम-रूपं धनं वेत्तीत्य् एक-धन-वित्, तस्मै। हे सोम, तुभ्यं त्वदर्थम् इन्द्र आप्यायतां त्वां पातुम् उत्सहताम्। त्वम् अपीन्द्रार्थम् आप्यायस्व वर्धस्व।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2यजमानं वाचयति - आप्याययेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,6 +89,8 @@ ________
 आ᳓प्यायय स᳓खीन् सन्या᳓ मेध᳓या ।  
 स्वस्ति᳓ ते देव सोम सुत्या᳓म्+++(=अभिषवम्)+++ अशीय+++(=आप्नुयाम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,9 +144,12 @@ may I accomplish thy pressing, O god Soma.
 
 अस्य सोमस्य यद् अङ्गम् अपुवायते शुष्यति यच् च मीयते।
 </details>
+</details>
 
 ________
 ## नमस्कारः
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3प्रस्तरे पाणिं निधाय नमस्कुर्वन्ति - एष्टा राय इति ॥
@@ -155,11 +169,14 @@ ________
 
 एष्टा॒ राय॒ᳶ प्रेषे भगा॑य॒र्तमृ॑तवा॒दिभ्यो॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे प्रस्तर)+++ ए᳓ष्टा+++(=इच्छुक)+++ रा᳓यᳶ प्र᳓+इषे᳓ भ᳓गाय
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -228,11 +245,14 @@ Desired are riches exceedingly for food, for prosperity.
 
 आप्यायितस्य सोमस्य नाभि-दघ्न्याम् आसन्द्यां पर्यवस्थितत्वाद् अन्तरिक्ष-देवत्यत्वम्। तादृशस्य सोमस्याप्याययितारो ऽपि तथा-विधा इत्य् आस्माल् लोकात् प्रच्युता अतो ऽस्मिन् लोके प्रतिष्ठित्यै नमस्कारः क्रियते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +ऋत᳓म् ऋतवादि᳓भ्यः +++(भव)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -248,6 +268,7 @@ Be right to the proclaimers of right.
 
 ऋ॒तम् । ऋ॒त॒वा॒दिभ्य॒ इत्यृ॑तवा॒दि-भ्यः॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -255,6 +276,8 @@ Be right to the proclaimers of right.
 न᳓मᳶ पृथिव्यै᳓ ।  
 +++('द्यावापृथिवीभ्यामेव नमस्कृत्यास्मिन् लोके प्रतितिष्ठन्ति' इति ब्राह्मणम् ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -281,9 +304,12 @@ honour to the earth!
 
 'उदात्तयणः' इति पृथिव्या विभक्तेरुदात्तत्वम् ॥
 </details>
+</details>
 
 ________
 ## अवान्तरदीक्षा
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4यजमानम् अवान्तर-दीक्षाम् उपनयति- अग्न इति । 
@@ -303,6 +329,7 @@ ________
 
 अग्ने॑ व्रतपते॒ त्वव्व्ँर॒ताना॑व्व्ँर॒तप॑तिरसि॒ या मम॑ त॒नूरे॒षा सा त्वयि॑ [20]या तव॑ त॒नूरि॒यँ सा मयि॑ स॒ह नौ॑ व्रतपते व्र॒तिनो॑र्व्र॒तानि
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -310,6 +337,8 @@ ________
 या᳓ म᳓म तनू᳓र् एषा᳓ +++(इत्यङ्गुल्या अग्नेस्तनूं दर्शयति)+++ सा᳓ त्व᳓यि +++(निवेशिता)+++।  
 या᳓ त᳓व तनू᳓र् इयँ᳓ +++(आत्मशरीरमङ्गुल्या दर्शयति)+++ सा᳓ म᳓यि +++(निवेशिता)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -353,11 +382,14 @@ that body of thine be in me.
 
 नैकस्य व्रतस्य पतिः, किंतु सर्वेषाम् इति विवक्षां द्योतयितुं 'व्रतानाम्' इत्य् उक्तम्। व्रतम् आचरन्ती मदीया तनूस् त्वयि मनसा समर्पिता। त्वदीया तु व्रतं पालयन्ती तनूर् मयि मनसा स्थापिता। तथा सत्य् आवाम् उभाव् अपि व्रतिती संपद्यावहे। तयोर् व्रतानि सह प्रवर्तन्ताम्।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह᳓ नौ व्रतपते व्रति᳓नोर् व्रता᳓नि᳓ । +++(यन्मया कृतं तत्त्वयापि कृतं भवतीति ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -373,8 +405,11 @@ Together, O lord of vows, be the vows of us two that keep vows.
 
 स॒ह । नौ॒ । व्र॒त॒प॒त॒ इति॑ व्रत-प॒ते॒ । व्र॒तिनोः॑ । व्र॒तानि॑ ।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 उपसदः सौमिकी वेदिः, दीक्षितस्य व्रतनिर्णयः, काम्यानि देवयजनानि, उपसदः
@@ -394,12 +429,15 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या᳓ ते अग्ने रु᳓द्रिया तनू᳓स्, त᳓या नᳶ पाहि ।  
 त᳓स्यास् ते +++(पतिभूताय)+++ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -463,8 +501,11 @@ hail to that form of thine!
 
 स्वोदराग्नेर् अपरं रूपं रुद्रिया तनूस् तया दुग्धे तप्ते सति स्वया देवतया सहैव दुग्धं व्रतयति भुङ्क्ते। तच् च भोजनं स-योनित्वाय योनि-भूतेनाग्निना साहित्याय। तच् च साहित्यम् उग्रस्याग्नेः शान्त्यै भवति।
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः - ऋक्</summary>
 
 6उपसदाहुतीर्जुहोति - तिसृषूपसत्सु अनुक्रमेण या त इति तिसृभिरनुष्टुग्भिः । तत्र प्रथमायां 'या ते अग्नेयाशया' इति ॥  
@@ -479,6 +520,7 @@ ________
 > “आज्य-स्थाल्याः स्रुवेणोपहत्य प्रथमाम् उपसदं जुहोति 'या ते अग्ने ऽयाशया तनूर् वर्षिष्ठा गह्वरेष्ठोग्रं वचो अपावधीं त्वेषं वचो अपावधीं स्वाहेति'”  
 
 इति।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/11_upasadAhutyantam/02_yA_te.md">
@@ -549,9 +591,12 @@ the highest, that dwells in the cleft,
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7द्वितीयस्यां जुहोति -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/03_rajAshayA.md">
@@ -608,9 +653,12 @@ the highest, that dwells in the cleft,
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8तृतीयायां जुहोति -
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/11_upasadAhutyantam/04_harAshayA.md">

@@ -4,9 +4,12 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 
 विश्वेदेवा ऋषयः ।
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ चित्रायागो वक्ष्यते । तस्यामेते उपहोममन्त्रास्सप्त । तत्राद्याश्चतस्रो गायत्र्यः । पञ्चमी (सतो) बृहती । ततो द्वे यजुषी । तत्र प्रथमा - अग्ने गोभिरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -14,6 +17,8 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 अ᳓ग्ने गो᳓भिर्न आ᳓ गही᳓न्दो पुष्ट्या᳓ जुषस्व नः ।  
 इ᳓न्द्रो धर्ता᳓ गृहे᳓षु नः ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -35,10 +40,14 @@ O Agni come to us with kine; O drop, delight us with increase; Indra is the supp
 
 हे अग्ने गोभिः नः अस्मानागहि आगच्छ । शपो लुक् । हे इन्दो पुष्ट्या पशुपुष्ट्या अस्माकं जुषस्व सेवस्व प्रीणय वा । इन्द्रश्च गृहेषु अस्माकं धर्ता धारको भवितुमर्हतीति । 'अर्हे कृत्यतृचश्च' इति तृच् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2द्वितीया - सवितेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -46,6 +55,8 @@ O Agni come to us with kine; O drop, delight us with increase; Indra is the supp
 सविता᳓ य᳓स्सहस्रि᳓यस्स᳓ नो गृहे᳓षु रारणत् ।   
 आ᳓ पूषा᳓ एत्वा᳓ व᳓सु ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -67,10 +78,14 @@ Savitr, the thousandfold, May he delight us in our homes; May Pusan come, may we
 
 यस्सविता सहस्रियः सहस्रेण संमितः । 'सहस्रेण संमितौ घः' । सोस्माकं गृहेषु रारणत् रमताम् । रमतेर्लेटि शपश्श्लुः, तुजादित्वादभ्यासस्य दीर्घत्वम्, लेटोऽडागमः, वर्णव्यत्ययेन णत्वम् । पूषा चास्मद्गृहेषु ऐतु आगच्छतु । वसु पशुलक्षणं धनं चास्मद्गृहेष्वागच्छतु ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3तृतीया - धातेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -78,6 +93,8 @@ Savitr, the thousandfold, May he delight us in our homes; May Pusan come, may we
 धाता᳓ ददातु नो रयि᳓मी᳓शानो ज᳓गतस्प᳓तिः ।  
 स᳓ नᳶ पूर्णे᳓न वावनत् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -100,10 +117,14 @@ May Dhatr give us wealth, The lord, the ruler of the world; May he favour us wit
 धाता सर्वस्य विधाता देवोस्मभ्यं रयिं धनं पशुलक्षणं ददातु ईशानः दातुं समर्थः जगतः पतिः पालयिता । 'षष्ठ्याः पतिपुत्र' इति सत्वम् ।  
 किञ्च - स देवोस्मान् पूर्णेन सर्वाभिमतैराप्यायितेन धनेन वावनत् संभजतां अस्मान् परिगृह्णातु । वन षण संभक्तौ, लेटि शपश्श्लुः, अडादि पूर्ववत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4अथ चतुर्थी - त्वष्टेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -111,6 +132,8 @@ May Dhatr give us wealth, The lord, the ruler of the world; May he favour us wit
 त्व᳓ष्टा यो᳓ वृषभो᳓ वृ᳓षा स᳓ नो गृहे᳓षु रारणत् ।  
 सह᳓स्रेणायु᳓तेन च ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,10 +155,14 @@ Tvastr the bull, the strong, May he delight us in our homes, With a thousand, wi
 
 यस्त्वष्टा वृषभः वर्षिता कामानां वृषा प्रधानभूतः सेक्ता वा सोस्माकं गृहेषु रारणत् रमताम् । व्याख्यातम् । सहस्रेण पशुना दशभिश्शतैः रमताम् । अयुतेन दशभिस्सहस्रैश्च रमताम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5अथ पञ्चमी - येनेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +170,8 @@ Tvastr the bull, the strong, May he delight us in our homes, With a thousand, wi
 ये᳓न देवा᳓ अमृ᳓तम् [15]  दीर्घँ᳓ श्र᳓वो दिव्यै᳓रयन्त ।   
 रा᳓यस्पोष त्व᳓मस्म᳓भ्यङ्ग᳓वाङ्कुल्मि᳓ञ्जीव᳓स आ᳓ युवस्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -164,16 +193,22 @@ Thou whereby the gods moved immortality [1], Enduring fame, in the sky, O increa
 
 हे रायस्पोष धनपुष्ट येन त्वया देवा अमृतं अमृतत्वं दीर्घमविच्छिन्नं श्रवः अन्नं च दिवि ऐरयन्त द्युलोके प्राप्नुवन् स त्वमस्मभ्यं गवां कुल्मिं संघातं सन्तानं वा आयुवस्व अस्माभिर्मिश्रय, देहीति यावत् । यौतेर्व्यत्यन्येनात्मनेपदम्, विकर्णव्यत्ययेन शः । जीवसे अस्मान् जीवयितुम् । तुमर्थे असेप्रत्ययः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6अथ षष्ठो मन्त्रः - अग्निरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र्गृह᳓पतिस्सो᳓मो विश्वव᳓निस्सविता᳓ सुमेधा᳓स्स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -194,6 +229,9 @@ Agni, lord of the house, Soma, all-winning, Savitr the wise; hail!
 
 गृहाणां पतिः पाता अग्निः सोमः सर्वस्य धनस्य संभक्ता संविभक्ता । 'छन्दसि वनसन' इतीन्प्रत्ययः । सविता सुमेधाः शोभनमतिः सदा सानुग्रहबुद्धिः । तस्मादेतेभ्यो महानुभावेभ्यः इदं स्वाहुतमस्त्विति ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -204,11 +242,14 @@ Agni, lord of the house, Soma, all-winning, Savitr the wise; hail!
 
 7अथ सप्तमः - अग्न इति ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने गृहपते य᳓स्ते घृ᳓त्यो भाग᳓स्ते᳓न स᳓ह ओ᳓ज आक्र᳓ममाणाय धेहि ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -229,12 +270,15 @@ O Agni, lord of the house, with thy ghee portion do thou vouchsafe strength and 
 
 हे अग्ने गृहपते गृहाणां पातः । 'नामन्त्रिते समानाधिकरणे' इति पूर्वपदस्य विद्यमानत्वाभावादिदं निहन्यते । यस्ते घृत्यः घृतार्हः, छान्दसो यत् । भागः एकदेशोङ्गभेदः तेन कर्मणा आक्रममाणाय शत्रूनभिभवते अन्यग्भूताय मह्यं सहः बलं ओजस्तेजश्च धेहि देहि । यद्वा - यस्ते भागः हविर्भागः घृत्यः घृते भवः घृतप्रकृतिर्वा, तेनानेन हेतुना शत्रूनाक्रममाणाय मह्यं सह ओजश्च देहि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रै᳓ष्ठ्यात्पथो᳓ मा᳓ योषम्मूर्धा᳓ भूयासम् ।  
 स्वा᳓हा ॥ [16]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -257,4 +301,5 @@ may I not wander from the highest of the path; may I become the head; hail!
 श्रैष्ठ्यात् पथो मार्गात् मा योषं अपहृतो मा भूवम् । यौर्तेर्लिङि वृद्ध्यभावश्छान्दसः, इडभावश्च । अपि च मूर्धा प्रधानभूतो भूयास्मम् । स्वाहुतँ चेदं घृतं तुभ्यमस्तु ॥
 
 इति द्वितीये चतुर्थे पञ्चमोनुवाकः ॥  
+</details>
 </details>

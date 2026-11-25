@@ -5,15 +5,20 @@ title: १२ आघारः
 १ एकपदा गायत्री, ८ द्विपदा गायत्री ।  प्रजापतिर्ऋषिः
 ____
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अग्रेण जुहूप्रभृतौ प्राञ्चमञ्जलिं करोति - भुवनमिति यजुरादिकयैकपदया गायत्र्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भु᳓वनम् +++(→यज्ञः)+++ असि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -29,11 +34,14 @@ Thou art the world, be extended.
 
 भुव॑नम् । अ॒सि॒ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्रज᳓या पशु᳓भिᳶ)+++ वि᳓ प्रथस्वा᳓ग्ने य᳓ष्टर्, इद᳓न् न᳓मः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -60,12 +68,16 @@ O Agni, sacrificer, this reverence.
 
 'आमन्त्रितं पूर्वमविद्यमानवत्' (पा.सू. 8.1.72) इति तस्याविद्यमानत्वात् यष्टरित्यपि न निहन्यते । द्वयोरपि षाष्ठिकमाद्युदात्तत्वम् (पा.सू. 6.1.198) । त्वं भुवनमसि त्वदायत्तत्वात्समस्तभूतजातस्य । तस्मात् विप्रथस्व विस्तीर्णो भव । तुभ्यमिदं नमः, अयमञ्जलिस्त्वां प्रीणयितुं क्रियते ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2दक्षिणेन जुहूमादत्ते - जुह्विति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,6 +85,8 @@ ____
 जुह्वे᳓हि ।  
 अग्नि᳓स् त्वा ह्वयति देवयज्या᳓यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -99,12 +113,16 @@ O juhu, come hither, Agni summons thee for the sacrifice to the gods.
 
 हे जुहु एहि अस्मद्धस्तमागच्छ । यतोग्निस्त्वां देवयज्यायै देवयागार्थमाह्वयति । 'छन्दसि निष्टर्क्य' (पा.सू. 3.1.123) इत्यत्र देवयज्याशब्दो यप्रत्ययान्तो निपातितः । 'आग्नेयी वै जुहूः' (तै.ब्रा. 3.3.7) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3सव्येनोपभृतमादत्ते - उपभृदिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +130,8 @@ ____
 उ᳓पभृद् ए᳓हि ।  
 देव᳓स् त्वा सविता᳓ ह्वयति देवयज्या᳓यै ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -133,12 +153,16 @@ O upabhrt, come hither, the god Savitr summons thee for the sacrifice to the god
 
 हे उपभृत् एहि । यतस्सर्वस्य प्रेरकस्सविता देवयज्यायै आह्वयति । 'सावित्र्युपभृत्' (तै.ब्रा. 3.3.7) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 अत्याक्रामं जपति - अग्नाविष्णू इति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +170,8 @@ ____
 अ᳓ग्नाविष्णू+++(→आहवनीय-यज्ञौ)+++ मा᳓ वाम् अ᳓व क्रमिषम् ।  
 +++(यज्ञश् चान्तर्वेदि स्रुचामग्रत आस्ते।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -171,11 +197,14 @@ O Agni and Visnu, let me not step down upon you.
 
 4अग्निराहवनीयः, विष्णुर्यज्ञः, यज्ञश्चान्तर्वेदि स्रुचामग्रत आस्ते ; तावाह हे अग्नाविष्णू युवामहं मावक्रमिषम् अवक्रम्य मा गाम् । 'नेटि' (पा.सू. 7.2.4) इत्यादिना वृद्धिप्रतिषेधः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(मार्गदानाय)+++ वि᳓ जिहाथाम्+++(=विगच्छतम्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -196,11 +225,14 @@ Be ye parted,
 
 तदर्थं युवां विजिहाथां मम मार्गप्रदानार्थं विगच्छतम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ मा स᳓न्ताप्तम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -224,11 +256,14 @@ consume me not.
 'झलो झलि' (पा.सू. 8.2.26) इति सिचो लोपः, 'वदव्रज' (पा.सू. 7.2.3) इति वृद्धिः ।  
 वां लोककृतौ स्थानप्रदौ मम च लोकं स्थानं कृणुतं कुरुतम् । 'धिन्विकृण्व्योरच' (पा.सू. 3.1.80) इत्युप्रत्ययः । 'अतो लोपः' (पा.सू. 6.4.48) ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोक᳓म् मे +++(हे)+++ लोककृतौ +++( वां)+++ कृणुतम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -244,18 +279,24 @@ Make ye a place for me, ye place-makers.
 
 लो॒कम् । मे॒ । लो॒क॒कृ॒ता॒विति॑ लोक-कृ॒तौ॒ । कृ॒णु॒त॒म् ।
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5स्थानं कल्पयति - विष्णोरिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णोस् +++(→यज्ञस्य)+++ स्था᳓नम् असि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -276,12 +317,16 @@ Thou art the abode of Visnu.
 
 विष्णोर्यज्ञात्मनः स्थानमसि, अतः प्रशस्तेऽस्मिन् स्थाने स्थित्वा यागं निर्वर्तयामीति भावः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 6आघारमाघारयति - इत इति ॥
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/12_AghAraH/37_ita_indro.md">
@@ -341,6 +386,8 @@ Offered to Indra, hail!
 स्वा᳓हा ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Hail!
@@ -360,18 +407,24 @@ Hail!
 
 स्वाहा स्वयमेवेत्थं सरस्वत्याह । अह्रुत इति 'ह्रु ह्वरेश्छन्दसि' (पा.सू. 7.2.31) इति ह्रुभावः । होमपक्षे स्वाहेति प्रक्षेपार्थो निपातः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 7स्रुचमुद्गृह्णाति - बृहदिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓द् भाः᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -392,12 +445,16 @@ Great light.
 
 क्रियाविशेषणम् । भासत इति भाः । 'भ्राजभास' (पा.सू. 3.2.177) इत्यादिना क्विप् । यस्मादयमग्निरनेनाघारेण भृशं भासते ज्वलति तस्मात्स्रुचमुद्गृह्णामीति भावः ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8उदङ्ङत्याक्रामं जपति - पाहीति द्विपदया गायत्र्या ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -405,6 +462,8 @@ ____
 पाहि᳓ माग्ने दु᳓श्चरितात् ।   
 आ᳓ मा सु᳓चरिते भज+++(=स्थापय)+++ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -432,12 +491,16 @@ Guard me, O Agni, from misfortune, place me in good fortune.
 हे अग्ने नः दुश्चरितात् प्रमादकृतनिन्दिताच्चरितात् कर्मापराधान्मां पाहि यथा कर्मापराधो न भवति तथा कुरु । 'दुर्निन्दायां' (पा.भा. 2.2.18 वा 4) इति प्रादिसमासः । दुश्शब्देन चरितं विशेष्यते, न तु चरणम्; तेन गतित्वाभावादव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ।  
 किञ्च - सुचरिते शोभनचरिते कर्मणि मा मां भज स्थापय । विद्यमानोप्यपराधो गुणत्वेन ग्रहीतव्य इति भावः । 'सुः पूजायाम्' (पा.सू. 1.4.94) इति कर्मप्रवचनीयत्वात् यद्यपि 'प्रादिप्रसङ्गे कर्मप्रवचनीयानां प्रतिषेधः' (पा.भा. 2.2.18 वा 1) इत्यस्ति, तथापि 'स्वती पूजायाम्' (पा.सू. 2.2.18 वा 4) इति प्रादिसमासः, तेन गतित्वाभावात् 'गतिरनन्तरः' (पा.सू. 6.2.49) इत्यस्यापवादः, 'सूपमानात् क्तः' (पा.सू. 6.2.145) इत्युत्तरपदान्तोदात्तत्वम् न प्रवर्तते, तेन पूर्ववदव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) । 'अग्निर्वाव पवित्रं । वृजिनमनृतं दुश्चरितम्' (तै. ब्रा. 3.3.7) इत्यादि ब्राह्मणम् ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 9जुह्वा ध्रुवां समनक्ति - मखस्येति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +508,8 @@ ____
 +++(हे निर्वर्तिताघारा जुहूः!)+++ मख᳓स्य शि᳓रोऽसि ।  
 +++(अतस् ते)+++ स᳓ञ् ज्यो᳓तिषा +++(घृतेन ध्रौवं)+++ ज्यो᳓तिर्  अङ्क्ताम्+++(=संगच्छताम्)+++ ॥ [21]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -471,6 +536,7 @@ be light united with light.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 निर्वर्तिताघारा जुहूरभिमन्त्र्यते । हे जुहु मखस्य यज्ञस्य शिरः शिर इव उत्तमाङ्गमसि । तस्मात्तव ज्योतिषा घृतेन इदं ध्रौवं ज्योतिर्घृतं समङ्क्तां संगच्छताम् । व्यत्ययेनात्मनेपदम् । 'शिरो वा एतद्यज्ञस्य । यदाघारः' (तै.ब्रा. 3.3.7) इति ब्राह्मणम् ॥
+</details>
 </details>
 
 इति द्वादशोनुवाकः  

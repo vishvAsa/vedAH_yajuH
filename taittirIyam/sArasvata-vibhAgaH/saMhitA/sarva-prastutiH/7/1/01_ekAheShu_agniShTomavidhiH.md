@@ -8,6 +8,8 @@ title = "०१ एकाहेषु अग्निष्टोमविधि
 +++(नानाफलक-विकृति)+++प्रज᳓ननञ् ज्यो᳓तिः+++(→अग्निष्टोमः)+++ ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Production of offspring is light.
@@ -27,6 +29,7 @@ Production of offspring is light.
 
 1षष्ठेन काण्डेन दीक्षाद्युदयनीयान्तोग्निष्टोमस्सगुणः प्रतिपादितः । स इदानीमिह विधीयते । पूर्वत्र हि कर्तव्यतामात्रमस्य विहितम् । अस्यैव गुणविकारास्सर्वसंस्था उत्तरा अत्यग्निष्टोमाद्यप्तोर्यामान्ताः । एतत्प्रकृतिकास्सर्वे विश्वजिदादय एकाहाः, द्विरात्रप्रभृतयश्चाहीनाः, द्वादशाहादीनि च सत्त्राणि । तत्र पूर्वप्रकरणशेषभूतं तद्गतमेव किञ्चिदारभ्यते । तत्र त्रिवृदादिस्तोमभेदनिबन्धनत्वात्तेषामह्नामहीनानां च विभागस्य । तेषां स्वरूपमुत्पत्तिं चाभिधास्यन् तन्निमित्तं चास्य ज्योतिरिति संज्ञां निर्वक्ष्यत् प्रथममनयैव संज्ञया इदमुपादाय विशिष्टफलसाधनत्वमस्य दर्शयतिप्रजनं ज्योतिरिति ॥ एषां च सर्वविकारार्थतां द्योतयितुं काण्डभेदः । अस्य च सर्वप्रकृतितां सूचयितुं काण्डभेदेन पृथक्कारः कृतः । तत्राद्यमनुवाकत्रयं सौम्यम्, शिष्टमपि सर्वं काण्डं वैश्वदेवम् । प्रजननं सर्वासां प्रजानां जन्महेतुः, वक्ष्यति च - 'अग्निष्टोमेन वै प्रजापतिः प्रजा असृजत' इति । ज्योतिरग्निष्टोमः ।
 </details>
+</details>
 
 ______________
 
@@ -35,6 +38,8 @@ ______________
 +++(कुतो ऽग्निष्टोमो ज्योतिः इति चेत्- )+++  
 अग्नि᳓र् देव᳓तानाञ् ज्यो᳓तिः । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -55,6 +60,7 @@ Agni is the light of the gods;
 
 ज्योतिष्ट्वं चास्येदानीं प्रतिपादयति - अग्निरिति । देवानां मध्ये अग्निर्ज्योतिः द्योतमानो भवति,
 </details>
+</details>
 
 ______________
 
@@ -62,6 +68,8 @@ ______________
 
 विरा᳓ट् छ᳓न्दसाञ् ज्यो᳓तिः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -82,11 +90,14 @@ the Viraj is the light of the metres.
 
 छन्दसां मध्ये विराट् दशाक्षरा ज्योतिर्विराजमाना भवति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓ड्+++(→१०)+++ +++(स्तोमगत)+++वाचो᳙ ऽग्नौ᳓+++(→अग्निष्टोमाख्ये यज्ञायज्ञीये सामनि)+++ स᳓न्तिष्ठते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -107,11 +118,14 @@ The Viraj of speech ends in Agni;
 
 भवतामग्निविराजौ ज्योतिषी, किन्निमित्तमग्निष्टोमस्य ज्योतिष्ट्वमित्याह - विराड्वाच इत्यादि । वाचस्स्तोमलक्षणायास्सम्बन्धिन्यग्नावाग्नेये अग्निष्टोमाख्ये यज्ञायज्ञीये सामनि संस्थिते विराट् संतिष्ठते विराट्संख्या पूर्यते, 'वाचोग्नौ सन्तिष्ठते' इति तलवकारब्राह्मणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरा᳓जम् +++(संपद्यमानाम्)+++ अभि᳓ +++(अग्निष्टोमोऽपि)+++ स᳓म्पद्यते ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -132,12 +146,15 @@ it is produced according to the Viraj.
 
 तां च विराजं संपद्यमानामभि अग्निष्टोमोपि सम्पद्यते । 'अभिरभागे' इत्यभेः लक्षणे कर्मप्रवचनीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓ज्+++(→अग्निष्टोमः)+++ ज्यो᳓तिर् उच्यते ।+++(४)+++  
 +++(अग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं १९० = 9+60+15+68+17+21 स्तोत्रीया भवन्ति । ताश्च दशभिर् ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्-सम्पत्तिः, नैवम् उक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -158,6 +175,7 @@ Therefore it is called light.
 
 यस्मादयं ज्योतिर्द्द्वयसंपत्त्यधीनोस्यात्मलाभः तस्मात्सोग्निष्टोमो ज्योतिरुच्यते । तत्र बहिष्पवमाने नव स्तोत्रिया त्रिवृद्वहिष्पवमान इति । पञ्चदशान्याज्यानि; तत्र षष्टिः स्तोत्रीयाः । पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः स्तोत्रीयाः । सप्तदशार्भवः पवमान इति सप्तदश स्तोत्रीयाः । एकविंशमग्निष्टोमसामेति एकविंशतिः स्तोत्रीयाः । एवमग्निष्टोमस्य द्वादशस्तोत्रस्य नवतिशतं स्तोत्रीया भवन्ति । ताश्च दशभिर्ह्रियमाणाः शुद्धं भागं प्रयच्छन्तीति विराट्सम्पत्तिः, नैवमुक्थ्यादीनां दशके सम्पूर्णे समाप्तिरिति ॥
 </details>
+</details>
 
 ## स्तोमकलनम्
 
@@ -166,6 +184,8 @@ Therefore it is called light.
 द्वौ᳓ +++(त्रिवृत्-पञ्चदशौ)+++ स्तो᳓मौ प्रातस् सवनव्ँ᳓ वहतो,  य᳓था प्राण᳓श् चापान᳓श्च ।  
 +++(तत्र बहिष्पवमाने नव ३*३ = ९ स्तोत्रिया त्रिवृद्वहिष्पवमान इति। पञ्चदशान्याज्यानि; तस्य षष्टिः १५*४ = ६० स्तोत्रीयाः ।)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -192,6 +212,7 @@ Two Stomas bear the morning pressing, like expiration and inspiration;
 2अथ के पुनस्ते स्तोमाः ? को वा यज्ञस्य तदुपकारः ? इत्याह - द्वावित्यादि ॥ त्रिवृत्पञ्चदशौ प्रातस्सवनं धारयतः।
 यथा प्राणापानौ पुरुषं धारयतः । जन्मकाल एवानेन संयुज्येते इति पूर्वभावित्वमेतयोः ।
 </details>
+</details>
 
 ______________
 
@@ -200,6 +221,8 @@ ______________
 द्वौ᳓ +++(पञ्चदशसप्तदशौ)+++ मा᳓ध्यन्दिनँ स᳓वनं  +++(वहतः)+++  य᳓था च᳓क्षुश्च श्रो᳓त्रञ्च ।  
 +++( पञ्चदशो माध्यन्दिनः पवमान इति पञ्चदश १५ स्तोत्रीयाः । सप्तदशानि पृष्ठानि; तत्र अष्टषष्टिः १७*४ = ६८ स्तोत्रीयाः ।)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -221,6 +244,7 @@ two the midday pressing, like eye and ear;
 द्वौ माध्यन्दिनं पञ्चदशसप्तदशौ वहत इत्येव,
 यथा चक्षुश्च श्रोत्रं च पुरुषं वहतः । जननोत्तरकालं विषयग्रहणमेतयोर्भवतीति मध्यभावित्वमेतयोः ।
 </details>
+</details>
 
 ______________
 
@@ -230,6 +254,8 @@ ______________
 +++(सप्तदशार्भवः पवमान इति सप्तदश १७ स्तोत्रीयाः । एकविंशम् अग्निष्टोम-सामेति एकविंशतिः २१ स्तोत्रीयाः ।)+++  
 +++(MT: "aitareya 30th brAhmaNa on the bringing of agni & soma regarding the recitation of the incantation to varuNa asura medhira; it clearly says there 12 mAsa-s+5 R^itu-s+3 loka-s all supported by the +1 Aditya (here ided with varuNa)=21")+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -251,12 +277,15 @@ two the third pressing, like speech and support.
 द्वौ तृतीयसवनं वहतः सप्तदशैकविंशौ,
 यथा वाक्च प्रतिष्ठा चादौ पुरुषं वहतः । वाक्प्रतिष्ठयोः स्वकार्यकरणसामर्थ्ये कतिपयदिवसव्यपगतौ भवत इति चरमभावित्वमेतयोः ।
 </details>
+</details>
 ______________
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पु᳓रुष-सम्मितो+++(=तुल्यः)+++ वा᳓ एष᳓ यज्ञो᳓ ऽस्थूरिः+++(=अनेकाश्वशकटम् →अग्निष्टोमः इति शाखान्तरादपि, यतः प्रतिसवनं द्वाभ्यां युज्यमानस् स्वकार्यं करोति)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -278,6 +307,7 @@ This sacrifice is commensurate with man, and is perfect [1].
 यथा प्राणादिवृत्तित्वेऽविशिष्टेऽपि विशिष्टोपकारजनकतया प्राणापानादिषट्कं भिद्यते एवं सवनभेदेनोपकारविशेषजनकतया पञ्चदशसप्तदशयोरावृत्त्याऽवस्थानात् षट्त्वोपपत्तिस्स्तोमानाम् ।
 यस्मादेवं तस्मादेष यज्ञः पुरुषसम्मितः पुरुषेण तुल्यः । उपमानपूर्वपदप्रकृतिस्वरत्वम्, 'तृतीया कर्मणि' इति वा । अस्थूरिः अग्निष्टोमः । शाखान्तरीयपाठे च इयमग्निष्टोमस्याख्या । सर्वं स्वर्गादिफलं अस्थूरिणाऽग्निष्टोमेन अभ्यश्नुते, न प्रजापतिमेव । अस्थूरित्वं चास्य 'द्वौ स्तोमौ प्रातस्सवनम्' इत्यादिना प्रतिपादितम् । तथा अस्थूरिः पृष्ठवाही स चतुर्भिः पादैर्युज्यमानः स्वकार्यवहनं करोति यथा गवादिः । अयं तु प्रतिसवनं द्वाभ्यां युज्यमानस्स्वकार्यं करोति यथा शिरोवाही पुरुषः । तस्मादेष पुरुषसम्मित इति । 'हि च' इति निघाताभावः, 'तिङि चोदात्तवति' इति गतेरनुदात्तत्वम्, समासश्च ॥
 </details>
+</details>
 
 ## फलस्मारणम्
 
@@ -286,6 +316,8 @@ This sacrifice is commensurate with man, and is perfect [1].
 य᳓ङ् का᳓मङ् काम᳓यते, तम् एते᳓नाऽभ्य᳙श्ञुते।
 स᳓र्वँ ह्य् अ᳓स्थूरिणा ऽभ्यश्ञुते᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -303,12 +335,15 @@ Whatever desire a man has, he wins by it, for one wins all by that which is perf
 यम् । काम॑म् । का॒मय॑ते । तम् । ए॒तेन॑ । अ॒भीति॑ । अ॒श्ञु॒ते॒ ।  
 सर्व॑म् । हि । अस्थू॑रिणा । अ॒भ्य॒श्ञु॒त इत्य॑भि-अ॒श्ञु॒ते ।     
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः।)+++  
 अग्निष्टोमे᳓न वै᳓ प्रजा᳓पतिᳶ प्रजा᳓ असृजत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -329,11 +364,14 @@ By means of the Agnistoma Prajapati created off spring;
 
 3अय यदुक्तं 'प्रजननं ज्योतिः' इति, तत्समर्थयते अग्निष्टोमेनेत्यादिना ॥ अप्रजाताः प्रजा अजनयत्, प्रजाताश्च पर्यगृह्णात् विधेयीकृतवान् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ता᳓ अग्निष्टोमे᳓नैव᳓ प᳓र्यगृह्णात्+++(=विधेयीकृतवान्)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -354,6 +392,7 @@ by means of the Agnistoma he grasped them.
 
 अग्नेस्स्तोमो यज्ञायज्ञीयः, तदन्तः क्रतुरग्निष्टोमः 'अग्नेस्तुत्स्तोमसोमाः' इति षत्वम् ।
 </details>
+</details>
 
 ## अश्वतर-दक्षिणा-योग्यता
 
@@ -361,6 +400,8 @@ by means of the Agnistoma he grasped them.
 
 ता᳓साम् प᳓रिगृहीतानाम् अश्वतरो᳓+++(=अश्वायां गर्दभेनोत्पन्नः)+++ ऽत्य् अप्रवत+++(←ज्युङ् प्रुङ् प्लुङ् गतौ)+++ । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -381,11 +422,14 @@ When he grasped them the mule escaped.
 
 तासां परिगृहीतानां प्रजानां मध्ये अश्वतरोत्यप्रवत परिग्रहमतीत्यागच्छत् । ज्युङ् प्रुङ् प्लुङ् गतौ । अश्वायां गर्दभेनोत्पन्नोश्वतरः । 'वत्सोक्षाश्व' इत्यादिना ष्टरच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्यानुहा᳓य+++(←ओहाङ् गतौ)+++ रे᳓त आ᳓दत्त ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -406,11 +450,14 @@ Following it he took its seed,
 
 तस्यानुहायानुगम्य रेत आदत्त गृहीतवान् । ओहाङ् गतौ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् गर्दभे᳓ न्यमार्ट्।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -431,11 +478,14 @@ and placed it in the ass.
 
 तद्रेतो गर्दभे न्यमार्ट् निसृष्टवान् । मृजेर्लङि तिपि 'मृजेर्वृद्धिः' इति वृद्धिः, व्रश्चादिना षत्वम्, तिपो हल्ङ्यादिलोपे कृते 'रात्सस्य' इति नियमादन्त्यस्य न संयोगान्तलोपः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद्गर्दभो᳓ द्विरे᳓ताः +++(यतो गर्दभ्या बडबायाश्च जनयति)+++।+++(४)+++  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -456,11 +506,14 @@ Therefore the ass has double seed.
 
 तस्माद्गर्दभो द्विरेताः द्वयोर्गर्दभ्या बडबायाश्च प्रजायते इति कृत्वा द्विशक्तिकं रेतोस्येति द्विरेताः । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो +++(अन्ये)+++ आहुर् व᳓डबायान्+++(=अश्व्यां)+++ न्य᳙मार्ड् इ᳓ति᳓ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -482,11 +535,14 @@ They also say, 'He placed it in the mare.'
 
 अथो अन्ये बडबायामश्वायां न्यमार्डित्याहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् व᳓डबा द्विरे᳓ताः᳓ +++(यतो अश्वगर्दभाभ्यां जनयति)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -507,11 +563,14 @@ Therefore the mare has double seed.
 
 तस्माद्बडबा द्विरेता द्वाभ्यामश्वगर्दभाभ्यां प्रजायते इति कृत्वा द्वे रेतसी अस्मा[स्मि]न्निषिच्येते इति द्विरेताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो +++(अन्ये)+++ आहुर् ओ᳓षधी᳓षु᳓ न्यमार्डि᳓ति । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -532,11 +591,14 @@ They also say, 'In the plants [2] he placed it.'
 
 अथो अन्ये ओषधीषु न्यमार्डित्याहुः । 'ओषधेश्च विभक्तौ' इति दीर्घः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् ओ᳓षधयो᳓ ऽनभ्यक्ता+++(→अकृतमैथुना)+++ रेभन्ति+++(→प्रथन्ते)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -557,11 +619,14 @@ Therefore plants, though not anointed, glisten.'
 
 तस्मादोषधयोऽनभ्यक्ता अकृतमैथुना रेभन्ति जगति । प्रथने रेभशब्दः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आहुᳶ प्रजा᳓सु न्यमार्डि᳓ति᳓ ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -582,11 +647,14 @@ They also say, 'He placed it in offspring.'
 
 अथापरे प्रजासु न्यमार्द्धित्याहुः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् यमौ᳓ जायेते ।+++(४)+++ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -607,11 +675,14 @@ Therefore twins are born.
 
 तस्माद्यमौ प्रजासु प्रजायेते, रेतोद्वयस्य विद्यमानत्वात् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् अश्वतरो᳓ न᳓ प्र᳓ जायत ।   
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -632,11 +703,14 @@ Therefore the mule has no offspring, for his seed has been taken from him.
 
 तस्मादश्वतरो न प्रजायते इति यस्मात्तस्मादनुहाय रेत आदत्ते इति प्रकृतेनान्वीयते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓त्त-रेता हि᳓ त᳓स्माद् बर्हि᳓ष्य्+++(→यज्ञे दक्षिणादौ)+++ अ᳓नवकॢप्तः ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -657,11 +731,14 @@ Therefore he is not suitable for the sacrifice,
 
 तदेवाह - आत्तरेता हीति । हेतौ हिशब्दः । तस्मादेव बर्हिषि यज्ञे अश्वतरोनवकॢप्तः दक्षिणादौ योग्यतां न भजते, आत्तरेतस्त्वेनासारत्वात् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-वेदसे᳓+++(=धनाय [यज्ञाय])+++ वा, सह᳓स्रे+++(→सहस्रदक्षिणाय)+++  वा᳓ऽवक्ल्प्तः। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -683,11 +760,14 @@ but is suitable if there is a sacrifice when one gives (to the priests) all one'
 4सर्ववेदस इत्यादि ॥ सर्वाणि वेदांसि अस्मिन्देयानीति सर्ववेदसं सर्वस्वदानम् 'अनसन्तात्' इत्यच्समासान्तः । यद्वा - सर्वधनवत्सर्ववेदसं, अर्शआदिनाऽच्समासान्तः ।
 सहस्रदक्षिणत्वात्सहस्रमित्युपचारः, तत्रावकॢप्तः देय एव । गतिरनन्तरः ' इति गतेः प्रकृतित्वरत्वम् । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(प्राकृतीर्दक्षिणा)+++ अ᳓ति ह्य् अ᳓प्र+++(प्ल)+++वत +++(विकृतियागेषु तु भवति)+++। +++('हि च' इति निघातप्रतिषेधः ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -708,6 +788,7 @@ for he escaped.
 
 हेतुमाह - अति ह्यप्रवतेति । 'हि च' इति निघातप्रतिषेधः । अयं च बर्हिष्यनवकॢप्तत्वे इतरत्र प्रदेयत्वे हेतुः । अग्निष्टोमदक्षिणाभूतगवादिसकाशात् निष्क्रान्तत्वात् तत्र तावदनवकॢप्तः सोयं 'गौश्चाश्वतरश्च' इति प्रकृतावाम्नानात् इह च प्रतिषिद्धत्वात् साप्तदश्यवत् विकृत्यर्थो भवति । तदिदमुक्तं - अति ह्यप्रवतेति । प्राकृतीर्दक्षिणा अतीत्य गतोयं इदानीं विकृत्यर्थोपि यदि न स्यात् आम्नानवैयर्थ्यं स्यात् । प्रासंगिकोयमश्वतरस्य क्षेपः ॥
 </details>
+</details>
 
 ## प्राशस्त्यकथनम्
 
@@ -716,6 +797,8 @@ for he escaped.
 य᳓ एवव्ँ᳓ विद्वा᳓न् +++(स)+++ अग्निष्टोमे᳓न य᳓जते᳓+++(→यजेत)+++ - प्रा᳓जाताᳶ प्रजा᳓ जन᳓यति,
 प᳓रि प्र᳓जाता गृह्णाति।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -740,11 +823,14 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 
 'चादिलोपे विभाषा' इति प्रथमा तिङ्विभक्तिर्न निहन्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् आहुर् - "ज्येष्ठय॒ज्ञ" इ᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -767,11 +853,14 @@ Therefore they say, 'It is the best of sacrifices [3].'
 
 ज्येष्ठस्य प्रशस्तस्य प्रजापतेः यज्ञ इति कृत्वा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर् वा᳓+++(वै)+++व᳓ ज्ये᳓ष्ठः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -792,11 +881,14 @@ Prajapati indeed is the best,
 
 तदेवाह - प्रजापतिर्वावेत्यादि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ ह्य् एते᳓ना᳓ऽऽग्रे᳓ ऽयजत । +++(अतो ऽग्निष्ठोमो ज्येष्ठः।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -817,6 +909,7 @@ for he sacrificed with it first.
 
 अग्र इतीदानीमधिकं स्यात्; तस्मादन्यथा व्याख्यायते - ज्येष्ठः प्रथमः ज्येष्ठश्चासौ यज्ञश्चेति ज्येष्ठयज्ञः । प्राथम्ये हेतुमाह - यस्मात्प्रजापतिरनेनाग्रे प्रथममयजत ततोन्यः क्रतुभिः अयष्ट तस्मात् अयं प्रथमो यज्ञानामासीदिति, यथोक्तं - 'एष वाव प्रथमो यज्ञो यज्ञानाम्' इति । इदमिदानीं किमर्थं प्रजापतिर्वाव ज्येष्ठ इति? नानेन ज्येष्ठपदं व्याख्यायते, अपि तर्हि? वृद्धतमत्वं प्रजापतेरुच्यते; यथाऽनेन कृतं तथाऽन्यैः कर्तव्यमिति प्रतिपादनार्थम् । तस्मादनेनानिष्ट्वा अन्येन विकारेण न यजेतेति । 'हि च' इति निघाताभावः ॥
 </details>
+</details>
 
 ## स्तोमोत्पत्तिः
 
@@ -824,6 +917,8 @@ for he sacrificed with it first.
 
 प्रजा᳓पतिर् अकामयत । प्र᳓ जायेये᳓ति।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -845,11 +940,14 @@ Prajapati desired, 'May I have offspring.'
 
 6प्रजापतिरकामयतेत्यादि ॥  स्तोमानामुत्पत्तिरिहोच्यते । प्रासङ्गिकमग्न्यादीनाम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ मुखत᳓स् त्रिवृ᳓तन्+++(=नवस्तोत्रीयं स्तोमं, त्र्यवयवास्तिस्रो वृत्तयोस्येति)+++ नि᳓र् अमिमीत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -870,11 +968,14 @@ He meted out the Trivrt from his mouth.
 
 त्रिवृतं नवस्तोत्रीयं स्तोमं मुखतो निरमिमीत । 'अपादाने चाहीयरुहोः' इति तसिः । त्र्यवयवास्तिस्रो वृत्तयोस्येति त्रिवृत्, त्रिचक्रादित्वादुत्तरपदान्तादोत्तत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् अग्नि᳓र् देव᳓ता᳓ऽन्वसृज्यत, गायत्री᳓ छ᳓न्दो, रथन्तरँ᳓ सा᳓म, ब्राह्मणो᳓ मनुष्या᳙णाम्, अजᳶ᳓ पशूना᳓म्। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -895,11 +996,14 @@ After it the god Agni was created, the Gayatri metre, the Rathantara Saman, of m
 
 तमनु तेन सहाग्न्यादयोन्वसृज्यन्त । तृतीयार्थे अनोः कर्मप्रवचनीयत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् ते᳓ मु᳓ख्याः। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -920,11 +1024,14 @@ therefore are they the chief,
 
 मुख्याः प्रधाना इत्यर्थः । 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मु᳓खतो᳓ ह्य᳓सृज्यन्त᳓ । +++("अ᳓ग्न आ᳓ याहि" इत्यादेस् त्र्यर्चस्य भवति।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -945,6 +1052,7 @@ for they were produced from the mouth.
 
 तमेव हेतुमाह -मुखत इति । मुखे भवत्वान्मुख्यस्य च प्रधानत्वात् । दिगादित्वाद्यत् । यतो हि यत् निर्मीयते तत्र भवति तत् । न हि निष्क्रमणमात्रं निर्माणमिति । पूर्ववन्निघाताभावः ॥
 </details>
+</details>
 
 _____
 
@@ -952,6 +1060,8 @@ _____
 
 उ᳓रसो बाहु᳓भ्याम् पञ्चदश᳓न् +++(स्तोत्रीयं)+++ नि᳓र् अमिमीत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -972,11 +1082,14 @@ From the breast and arms he meted out the Pañcadaśa Stoma.
 
 7उरसो बाहुभ्यां पञ्चदशं पञ्चदशस्तोत्रीयं निरमिमीत । 'स्तोमे डविधिः पञ्चदशाद्यर्थे' इति डः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓म् इ᳓न्द्रो देव᳓ता᳓ऽन्वसृज्यत - त्रिष्टु᳓प् छ᳓न्दो, बृह᳓त् सा᳓म, राजन्यो᳙ मनुष्या᳙णाम्, अ᳓विᳶ पशूना᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -997,11 +1110,14 @@ After it the god Indra was created, the Tristubh metre, the Brhat [4] Saman, of 
 
 ततस्त्विन्द्रादयोसृज्यन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात्ते᳓ वीर्या᳙वन्तः। 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1022,11 +1138,14 @@ There fore they are strong,
 
 वीर्यावन्तः । 'अन्येषामपि' इति दीर्घत्वम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर्या᳙द् ध्य् अ᳓सृज्यन्त। +++("त्वा᳓मि᳓द्धि᳓ ह᳓वामहे साता᳓…")+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1047,6 +1166,7 @@ for they were created from strength.
 
 तमेव हेतुमाह - वीर्यादिति । वीर्यवतः स्थानादित्यर्थः । वीर्यवत्त्वातिशयप्रदर्शनार्थं ताच्छब्द्यम् । लुप्तमत्वर्थीयो वा ॥
 </details>
+</details>
 
 _____
 
@@ -1055,6 +1175,8 @@ _____
 +++("यद् द्याव इन्द्र ते")+++  
 म᳓ध्यत᳓स् सप्तदश᳓न् +++(स्तोत्रीयं)+++ नि᳓र् अमिमीत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1075,11 +1197,14 @@ From the middle he meted out the Saptadaśa Stoma.
 
 8मध्यत उदरात् सप्तदशस्तोत्रं निरमिमीत ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव्ँ᳓ वि᳓श्वे देवा᳓ देव᳓ता अ᳓न्व् असृ᳓ज्य᳓न्त᳓, ज᳓गती छ᳓न्दो, वैरूपँ᳓ सा᳓म, वै᳓श्यो मनुष्या᳙णाङ्, गा᳓वᳶ पशूना᳓म्।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1100,11 +1225,14 @@ After it the All-gods as deities were created, the Jagati metre, the Vairupa Sam
 
 तमनु विश्वेदेवादयोन्वसृज्यन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् त᳓ आद्याः᳙+++(=उपजीव्याः)+++। अ᳓न्न-धा᳓नाद् ध्य् अ᳓सृज्यन्त।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1126,11 +1254,14 @@ Therefore are they to be eaten, for they were created from the receptacle of foo
 
 आद्या उपजीव्याः, कृष्यादीनां क्षीरादीनां च तदधीनत्वात् । तमेव हेतुमाह - अन्नधानादित्यादि । अन्नानि अशनामि धीयन्ते अस्मिन्नित्यन्नधानमुदरम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माद् भू᳓याँसो +++(स्तोत्राणि)+++ ऽन्ये᳓भ्यः।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1151,11 +1282,14 @@ Therefore are they more numerous than others,
 
 तस्माद्भूयांसो बहुतराः अन्येभ्यः उत्पन्नेभ्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भू᳓यिष्ठा हि᳓ देव᳓ता अ᳓न्व् अ᳓सृज्यन्त ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1176,6 +1310,7 @@ for they were created after the most numerous of the gods.
 
 तमेव हेतुमाह - यस्मात् भूयिष्ठाभिर्बहुतमाभिः देवताभिर्विश्वेदेवाख्याभिस्सहासृज्यन्त जगत्यादयः तस्मात् भूयांसोन्येभ्यः, अन्ये त्वेकैकामनूत्पन्ना इति नातिभूयांसः ॥
 </details>
+</details>
 
 _____
 
@@ -1183,6 +1318,8 @@ _____
 
 पत्त᳓+++(=पद्भ्यां)+++ एक-विँश᳓न् नि᳓र् अमिमीत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1203,6 +1340,7 @@ From his feet he meted out the Ekavinśa Stoma.
 
 9पत्तः पद्भ्यां एकविंशस्तोत्रीयं निरमिमीत । 'पद्दन्नः' इत्यादिना पद्भावः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1210,6 +1348,8 @@ From his feet he meted out the Ekavinśa Stoma.
 वैराजँ सा᳓म,  
 शूद्रो᳓ मनु᳓ष्याणा᳓म्, अ᳓श्वᳶ पशूना᳓म् ।  +++("पिब सोमम् इन्द्र!?")+++ 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1233,11 +1373,14 @@ After it the Anustubh metre [5] was created, the Vairaja Saman, of men the Śudr
 
 तमनुष्टुबादयोन्वसृज्यन्त ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् तौ᳓ भूत-सङ्क्रामि᳓णौ अ᳓श्वश् च शूद्र᳓श् च ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1258,11 +1401,14 @@ Therefore the two, the horse and the Śudra, are dependent on others.
 
 तौ भूतसंक्रामणौ विदितावेतावनन्तरोक्तावश्वशूद्रौ भूतानां संक्रामयितारौ वोढृत्वेन देशाद्देशान्तरं प्रापयतः कृष्यादिव्यापारद्वारा इत्यर्थः । वक्ष्यमाणः 'पत्तो ह्यसृज्येताम्' इति हेतुः अत्रापि द्रष्टव्यः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्माच् छूद्रो᳓ यज्ञे᳓ +++(दक्षिणात्वेन)+++ ऽनवकॢप्तः । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1283,11 +1429,14 @@ Therefore the Śudra is not fit for the sacrifice,
 
 तस्मादेव शूद्रो यज्ञे सर्वात्मनाऽनवकॢप्तः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यतो)+++ न᳓ हि᳓ देव᳓ता अ᳓न्व᳓सृज्यत । 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1308,12 +1457,15 @@ for he was not created after any gods.
 
 हेतुं चाह - न हीति । न ह्यश्वशूद्रौ देवताभिस्सहासृज्यत, एकविंशसृष्ट्यादौ देवतासृष्ट्यभावात् । नन्वश्वस्यापि समानमेतत् । सत्यम् । तस्य स्वयमेव सर्वदेवताधारत्वात् न देवताभिस्सह सृष्ट्यभावो यागायोग्यतामस्यावहतीति नूनं मन्यन्ते । यथोक्तं - 'तस्मादश्वे सर्वा देवता अन्वायत्ताः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(अश्वस् तु याग-योग्य एव - सर्वदेवताधारत्वात्।)+++  
 त᳓स्मात् पा᳓दाव् उ᳓प जीवतः +++(शूद्राश्वौ)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1334,11 +1486,14 @@ Therefore they depend on their feet,
 
 तस्मात्पादावुपजीवत इति । स्वप्रयासाधीनजीवना इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्तो᳓ ह्य् अ᳓सृज्येताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1359,6 +1514,7 @@ for they were created from the feet.
 
 कस्मादित्याह - पत्तो हीति ॥
 </details>
+</details>
 
 _____
 
@@ -1366,6 +1522,8 @@ _____
 
 +++(नवत्वान्वयात्)+++ प्राणा᳓ वै᳓ त्रिवृ᳓त्+++(स्तोमानि)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1386,11 +1544,14 @@ The Trivrt is the breaths;
 
 10प्राणा वा इत्यादि ॥ स्तोमानां स्तुतिः । नवत्वान्वयात्त्रिवृदादीनां प्राणादित्वेन स्तुतिः 'न व वै पुरुषे प्राणाः' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(दिवसैः)+++ अर्धमासाᳶ᳓ पञ्च-दशः᳓ +++(स्तोत्रम्)+++ ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1411,11 +1572,14 @@ the Pañcadaśa the half-months;
 
 अर्धमासाः पञ्चदशदिवसाः पञ्चदशः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓-पतिस् सप्त-दशः᳓ +++(स्तोत्रम्)+++।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1436,11 +1600,14 @@ the Saptadaśa Prajapati;
 
 प्रजापतिः सप्तदशात्मा छन्दस्यः । यथा - 'यो वै सप्तदशम्' इत्यादि । यद्वा - प्रजोत्पत्तिहेतुत्वात्सप्तदशस्य प्रजापतित्वेन स्तुतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓य इमे᳓ लोकाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1461,11 +1628,14 @@ these worlds are three;
 
 सप्तदशेन प्रजापतिना त्रिभिश्च लोकैः सम्मितः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असा᳓व् आदित्य᳓ एकविँशः᳓ +++(स्तोमः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1486,11 +1656,14 @@ the Ekavinśa is the sun yonder.
 
 आदित्यः एकविंशत्यन्वयादेकविंशः स्तोमः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓स्मिन् +++(अग्निष्टोमे)+++ वा᳓ एते᳓ +++(प्राणादय आदित्यपर्यन्ताश्)+++ श्रिताः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1511,11 +1684,14 @@ In this they rest,
 
 11एतस्मिन्नित्यादि ॥ एवमनेन प्रकारेण एतस्मिन्नेतत्स्तोमचतुष्टयवत्यग्निष्टोमे एते प्राणादय आदित्यपर्यन्ताश्श्रिताः,
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓स्मिन् प्र᳓तिष्ठिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1537,11 +1713,14 @@ in this they find support.
 एतस्मिन्नेव प्रतिष्ठिताः
 अत्रैव नियतं वर्तन्ते, न कदाचिदिमं त्यजन्ति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓दैत᳓स्मिन्न् एव᳓ श्रयते ।  एत᳓स्मिन् प्र᳓ति तिष्ठति ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1563,4 +1742,5 @@ He who knows thus rests on this, finds, support in this.
 एवं वेदिता एतस्मिन्नग्निष्टोमे श्रितः प्रतिष्ठितश्च भवति एतदनुष्ठानशीलो भवति ॥
 
 इति सप्तमे प्रथमे प्रथमोनुवाकः ॥
+</details>
 </details>

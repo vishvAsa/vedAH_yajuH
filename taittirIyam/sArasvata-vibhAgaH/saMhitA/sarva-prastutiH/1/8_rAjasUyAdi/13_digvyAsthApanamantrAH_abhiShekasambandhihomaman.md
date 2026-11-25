@@ -4,10 +4,13 @@ title = "१३ दिग्व्यास्थापनमन्त्रा�
 
 विश्वेदेवा ऋषयः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1अथ यजमानम् अध्वर्युर् दिशो व्यास्थापयति,  
 मध्ये पश्चिमेन समिधम् आतिष्ठति पञ्चभिः । तत्र प्राचीं - समिधमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -17,6 +20,8 @@ title = "१३ दिग्व्यास्थापनमन्त्रा�
 त्रिवृ᳓त् स्तो᳓मो, रथन्तरँ᳓ सा᳓म  
 +अग्नि᳓र् देव᳓ता, ब्र᳓ह्म द्र᳓विणम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -47,10 +52,14 @@ Do I thou mount the kindling (quarter); let the Gayatri of metres help thee; the
 
 ब्रह्म ब्राह्मणः द्रविणं प्रशस्तं धनं त्वामवतु द्रविणानां मध्ये ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2दक्षिणां उग्रामिति ॥ 
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/13_digvyAsthApanamantrAH_abhiShekasambandhihomaman/02_ugrAm_A.md">
@@ -94,9 +103,12 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 
 </div>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3प्रतीचीं - विराजमिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,6 +118,8 @@ Do thou mount the dread (quarter); let the Tristubh of metres help thee, the Pa�
 सप्त-दश᳓स् स्तो᳓मो, वैरूपँ᳓ सा᳓म,  
 मरु᳓तो देव᳓ता, वि᳓ड् द्र᳓विणम् 
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,10 +140,14 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 
 जगती विराट् उपर्युपरि शान्ता भवतीति । अष्टाचत्वारिंशदक्षरा जगती । सप्तदशस्स्तोमः सप्तदशस्तोत्रीयः । वैरूपाख्यं साम । मरुतो देवता । विट् वैश्याः ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4उत्तरां - उदीचीमिति ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +156,8 @@ Do thou mount the shining (quarter); let the Jagati of metres help thee, the Sap
 आनुष्टु᳓प् त्वा [24] छ᳓न्दसाम् **अवत्व्**  
 एकविँश᳓स् स्तो᳓मो, वैराजँ᳓ सा᳓म, मित्रा᳓व᳓रुणौ देव᳓ता, ब᳓लन् द्र᳓विणम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -161,10 +181,14 @@ Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], 
 वैराजाख्यं साम ।  
 मित्रावरुणौ देवता । समुदायस्य देवतात्वादेकवचनं, देवतात्वमात्रस्य विवक्षितत्वात् ; श्रुतयः प्रमाणमिति यथा । 'देवताद्वन्द्वे च' इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 5मध्ये - ऊर्ध्वामिति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +199,8 @@ Do thou mount the northern (quarter); let the Anustubh of metres help thee [1], 
 शाक्वर-रैवते᳓ सा᳓मनी  
 बृ᳓हस्प᳓तिर् देव᳓ता, व᳓र्चो द्र᳓विणम्
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -200,6 +226,9 @@ Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and 
 
 निगदसिद्धमन्यत् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -207,6 +236,7 @@ Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and 
 तत्र मध्यमानि सप्तकपालानि  
 'धुनिश्च ध्वान्तश्च' इत्यारण्येनानुवाक्येनोपधीयन्ते ।  
 अन्यानि चतुर्दश, एताभ्यां गणाभ्याम् उपदधाति - ईदृङ् चेत्यादिना ॥ 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -218,6 +248,8 @@ Do thou mount the zenith; let the Pañkti of metres help thee, the Trinava, and 
 सत्य᳓-ज्योतिश् च ज्यो᳓तिष्माँश् च  
 सत्य᳓श् च+ऋत-पा᳓श् चा᳓त्य्-अँहाः +++(इति ७)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -243,16 +275,22 @@ Of pure radiance, of varied radiance, of true radiance, the radiant, true, prote
 **शुक्रज्योतिः** येन ज्योतींषि शुक्राणि क्रियन्ते । चित्राणि पूजनीयानि ज्योतींषि येन क्रियन्ते स **चित्रज्योतिः** । सत्सु साधूनि सत्यानि ज्योतींषि येन स **सत्यज्योतिः** । ज्योतिष्मान् **ब्रह्मज्योतिः** । **सत्यस्** सति साधुः । छान्दसमन्तोदात्तत्वम् ।  
 ऋतस्य यज्ञस्य पाता रक्षकः **ऋतपाः** । अत्यंहाः अंहोतिक्रान्तवान् । अत्यर्थं वा गच्छतीत्यत्यंहाः । 'गतिकारकयोरपि' इत्यंहेरसुन् ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 20-25षट्पार्थिवानि वारुणानि पुरस्तादभिषेकस्य जुहोति - अग्नये स्वाहेत्यादीनि बृहस्पत्यन्तानि ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्न᳓ये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -268,11 +306,14 @@ To Agni hail!
 
 अ॒ग्नये॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓माय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -288,11 +329,14 @@ To Soma hail!
 
 सोमा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवित्रे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -308,11 +352,14 @@ To Savitr hail!
 
 स॒वि॒त्रे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -328,11 +375,14 @@ To Sarasvati hail!
 
 सर॑स्वत्यै । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूष्णे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -348,11 +398,14 @@ To Pusan hail!
 
 पू॒ष्णे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृ᳓हस्प᳓तये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -368,16 +421,22 @@ To Brhaspati hail!
 
 बृह॒स्पत॑ये । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 26-31 षडुपरिष्टात् - इन्द्राय स्वाहेत्यादीनि क्षेत्रस्य पतये स्वाहे त्यन्तानि ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्राय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -398,11 +457,14 @@ To Indra hail!
 
 सर्वाणि निगदसिद्धानि ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घो᳓षाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -418,11 +480,14 @@ To sound hail!
 
 घोषा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्लो᳓काय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -438,11 +503,14 @@ To verse hail!
 
 श्लोका॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंँ᳓शाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -458,11 +526,14 @@ To Anśa hail!
 
 अँशा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ᳓गाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -478,11 +549,14 @@ To Bhaga hail!
 
 भगा॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षे᳓त्रस्य प᳓तये स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,16 +572,22 @@ To the lord of the field hail!
 
 क्षेत्र॑स्य । पत॑ये । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 32-37षट्पुरस्ताद्भूतानामवेष्टीर्जुहोति - पृथिव्यै स्वाहेत्याद्यानि नक्षत्रेभ्यस्स्वाहेत्यन्तानि ॥ पृथिव्यादिभ्यः मृत्युरवेष्टो भवति विनाशितो भवति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्यै᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -523,11 +603,14 @@ To earth hail!
 
 पृ॒थि॒व्यै । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्त᳓रिक्षाय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -543,11 +626,14 @@ To atmosphere hail!
 
 अ॒न्तरि॑क्षाय । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवे᳓ स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -563,11 +649,14 @@ To sky hail!
 
 दि॒वे । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सू᳓र्याय स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -583,11 +672,14 @@ To the sun hail!
 
 सूर्या॑य । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्र᳓मसे स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -603,11 +695,14 @@ To the moon hail!
 
 च॒न्द्रम॑से । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓क्षत्रेभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -623,16 +718,22 @@ To the Naksatras hail!
 
 नक्ष॑त्रेभ्यः । स्वाहा॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 38-43षडुपरिष्टादद्भ्यस्स्वाहेत्याद्याः सरीसृपेभ्यस्स्वाहेत्यन्ताः । 
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्भ्य᳓स् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -657,11 +758,14 @@ To the waters hail!
 
 इत्यष्टमे त्रयोदशोनुवाकः ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓षधीभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -677,11 +781,14 @@ To plants hail!
 
 ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓नस्-प᳓तिभ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -697,11 +804,14 @@ To trees hail!
 
 वन॒स्पति॑भ्य॒ इति॒ वन॒स्पति॑-भ्यः॒ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चराचरे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -717,11 +827,14 @@ To moving creatures hail!
 
 च॒रा॒च॒रेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिप्लवे᳓भ्यस् स्वा᳓हा ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -737,11 +850,14 @@ To swimming creatures hail!
 
 प॒रि॒प्ल॒वेभ्य॒ इति॑ परि-प्ल॒वेभ्यः॑ । स्वाहा॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सरी-सृपे᳓भ्यस् स्वा᳓हा ॥ [26]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -756,4 +872,5 @@ To creeping creatures hail!
 <details><summary>पद-पाठः</summary>
 
 स॒री॒सृ॒पेभ्यः॑ । स्वाहा॑ ॥
+</details>
 </details>

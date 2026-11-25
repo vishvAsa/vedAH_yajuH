@@ -5,9 +5,12 @@ title = "३३-३ सङ्गाहनम्"
 गायत्री । सोमऋषिः  
 आरण्यकसम्बद्धा अनुवाकाः
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 अत्र  33-तः 37 पर्यन्तं संहिताभाष्यं नास्ति । अत्र भास्कराचार्यैर्न व्याख्यातः  । किन्तु आरण्यकभाष्ये ।
+</details>
 </details>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
@@ -458,6 +461,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 सोमऋषिः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/33-35_sangAhanam/jyotiShmantaM.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -468,11 +472,14 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 
 आत्मज्योतिषो वृत्तिभेदाः ते इष्टकावेन स्तूयन्ते
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्यो᳓तिष्मतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -498,11 +505,14 @@ I place thee that hast light.
 
 ज्योतिष्मती प्रशस्तज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिष्कृ᳓तन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -528,11 +538,14 @@ I put you as the maker of the light
 
 ज्योतिष्कृत् ज्योतिरन्तरस्य कर्त्रीं ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्योतिर्वि᳓दन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -558,11 +571,14 @@ I put you as the knower of the light
 
 ज्योतिषां लम्भयित्री ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भा᳓स्वतीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -588,11 +604,14 @@ I put you as full of light
 
 भास्वती बहुप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्व᳓लन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -618,11 +637,14 @@ I put you as burning
 
 ज्वलन्ती अविच्छिन्नप्रकाशा ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मल्म᳓लाभ᳓वन्तीन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -648,11 +670,14 @@ I put you as being burnt with the 'Malmala' sounds of the flames
 
 मल्मलाभवन्ती महाघोषवती । 'अव्यक्तानुकरणात्' इति डाच् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दी᳓प्यमानान्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -678,11 +703,14 @@ I put you as being shined
 
 दीप्यमाना हृदये आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रो᳓चमानान्त्वा सादयामि᳓।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -708,11 +736,14 @@ I put you as being lighted
 
 रोचमाना गगने आविर्भवन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓जस्रान्त्वा  सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -738,11 +769,14 @@ I put you as many
 
 अजस्रा अनुपहिंस्या केनचिदपि ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृह᳓ज्ज्योतिषन्त्वा सादयामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -768,11 +802,14 @@ I put you as of great light
 
 बृहज्ज्योतिः बृंहितज्योतिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बोध᳓यन्तीन्त्वा सादयामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -798,11 +835,14 @@ I put you as awaking one
 
 बोधयन्ती दृश्यं प्रकाशयन्ती ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जा᳓ग्रतीन्त्वा सादयामि ॥ [35]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -828,5 +868,5 @@ I put you as waking one.
 
 जाग्रती स्वयंप्रकाशात्मना ॥
 </details>
-
+</details>
 </div>

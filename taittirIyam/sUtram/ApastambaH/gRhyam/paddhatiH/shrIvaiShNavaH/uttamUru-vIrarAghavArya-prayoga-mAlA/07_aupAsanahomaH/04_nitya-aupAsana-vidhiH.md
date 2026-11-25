@@ -110,7 +110,6 @@ title = "०४ नित्य-औपासन-विधिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
-
 (अग्नये नमः)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,6 +120,8 @@ title = "०४ नित्य-औपासन-विधिः"
 परिपूर्णं तदस्तु ते ॥  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 मन्त्रहीनं क्रियाहीनं  
@@ -128,11 +129,10 @@ title = "०४ नित्य-औपासन-विधिः"
 यद्धुतं तु मया देव  
 परिपूर्णं तदस्तु ते ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/prAyashcittAny_asheShANi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रायश्चित्तान्य् अशेषाणि  
@@ -141,6 +141,8 @@ title = "०४ नित्य-औपासन-विधिः"
 कृष्णानुस्मरणं परम् ॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तान्यशेषाणि  
@@ -148,9 +150,9 @@ title = "०४ नित्य-औपासन-विधिः"
 यानि तेषामशेषाणां  
 कृष्णानुस्मरणं परम्॥
 </details>
+</details>
 
 (कृष्ण कृष्ण कृष्ण॥)
-
 </div>
 
 इति प्रणम्य, अभिवाद्य, आचम्य,

@@ -4,7 +4,6 @@ unicode_script = "devanagari"
 +++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/trapA-hRtiH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपस्तम्बानुयायित्वम्  
@@ -12,6 +11,8 @@ unicode_script = "devanagari"
 त्रपां हर्तुं सताम् भूयाद्  
 ग्रन्थोऽयं विष्णु-कारितः॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>English</summary>
 
@@ -29,5 +30,5 @@ dishonestly mentioning their followership of the Apastamba school
 त्रपां हर्तुं सताम् भूयाद्  
 ग्रन्थोऽयं विष्णु-कारितः॥
 </details>
-
+</details>
 </div>

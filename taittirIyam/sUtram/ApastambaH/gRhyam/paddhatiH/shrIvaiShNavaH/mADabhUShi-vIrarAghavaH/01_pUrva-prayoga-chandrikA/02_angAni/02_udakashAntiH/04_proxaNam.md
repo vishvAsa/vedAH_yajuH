@@ -7,19 +7,24 @@ title = "०४ प्रोक्षणम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/devasya_tvA_tejo-vIrya-shrIbhyaH.md">
 <details open><summary><h5>देवस्य त्वा - तेजोवीर्य-श्रीभ्यः ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 5कल्पः - 'तस्यां प्राङ्मुखमासीनं प्रत्यङ्मुखस्तिष्ठन्नश्विनोः संपातैरभिषिञ्चति देवस्य त्वा' इति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-अ॒श्विनो॒र्भैष॑ज्येन ।  
-तेज॑से ब्रह्मवर्च॒साया॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+अश्वि᳓नोर्भै᳓षज्येन ।  
+ते᳓जसे ब्रह्मवर्चसा᳓याभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -34,20 +39,26 @@ title = "०४ प्रोक्षणम्"
 
 सवितुर्देवस्य प्रेरणे सति अश्विसंबन्धिभ्यां बाहुभ्यां पूषसंबन्धिम्यां हस्ताभ्यां अश्विनोस्सबन्धिना संपातेनौषधरूपेण कान्तिब्रह्मवर्चससिद्ध्यर्थं यजमानं त्वामभिषिञ्चामि ॥
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 6कल्पः - 'एवमुत्तरेण मन्त्रेण सारस्वतस्योत्तमेनैन्द्रस्य' इति। संपातेनाभिषिञ्चतीत्युभयत्रानुवर्तते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-सर॑स्वत्यै॒ भैष॑ज्येन ॥21॥  
-वी॒र्या॑या॒न्नाद्या॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+स᳓रस्वत्यै भै᳓षज्येन ॥21॥  
+वीर्या᳙यान्ना᳓द्यायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -62,15 +73,18 @@ title = "०४ प्रोक्षणम्"
 
 पूर्ववद्व्याख्येयम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे ।  
-अ॒श्विनो॑र्बा॒हुभ्या॑म् ।  
-पू॒ष्णो हस्ता॑भ्याम् ।  
-इन्द्र॑स्येन्द्रि॒येण॑ ।  
-श्रि॒यै यश॑से॒ बला॑या॒भिषि॑ञ्चामि ।
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓ ।  
+अश्वि᳓नोर्बाहु᳓भ्याम् ।  
+पूष्णो᳓ ह᳓स्ताभ्याम् ।  
+इ᳓न्द्रस्येन्द्रिये᳓ण ।  
+श्रियै᳓ य᳓शसे ब᳓लायाभि᳓षिञ्चामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -86,9 +100,12 @@ title = "०४ प्रोक्षणम्"
 7पूर्ववद्व्याख्येयम् ॥
 </details>
 </details>
+</details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/devasya_tvA_sAmrAjyenAbhiShinchAmi.md">
 <details open><summary><h5>दे॒वस्य॑ त्वा - साम्रा॑ज्येना॒भिषि॑ञ्चामि  ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 8-10अभिषेकमन्त्राः - देवस्येत्यादयः ॥
@@ -98,13 +115,15 @@ title = "०४ प्रोक्षणम्"
 
 दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॑ऽश्विनो॑र्बा॒हुभ्या॑म्पू॒ष्णो हस्ता॑भ्याँ॒ सर॑स्वत्यै वा॒चो य॒न्तुर्य॒न्त्रेणा॒ग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चा॒मीन्द्र॑स्य॒ बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥ [42]
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-<details open><summary><h10>देवस्य त्वा सवितुः ...{Loading}...</h10></summary>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे॒॑+++(=अनुज्ञायां)+++,  
-+++(देवाध्वर्यू→)+++ ऽश्विनो॑र् बा॒हुभ्या॑म्,  
-पू॒ष्णो हस्ता॑भ्याम्…
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
++++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
+पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
 
 <details><summary>Keith</summary>
@@ -138,14 +157,17 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-</details>
+
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर॑स्वत्यै वा॒चो  
-य॒न्तुर् य॒न्त्रेण
-अग्नेस् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
+स᳓रस्वत्यै वाचो᳓  
+यन्तु᳓र् यन्त्रे᳓ण᳓
+अ᳓ग्ने᳓स् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि  ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -158,16 +180,24 @@ with the bond of Sarasvati, of speech, the binder, I anoint thee with the lordsh
 अग्नेस्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि  ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+सर॑स्वत्यै । वा॒चः । य॒न्तुः । य॒न्त्रेण॑ । अ॒ग्नेः । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सरस्वत्यै सरस्वत्याः । षष्ठ्यर्थे चतुर्थी ॥ सरस्वत्या वाचस्सम्बन्धिना यन्तुर्यन्त्रेण यन्तुरप्यन्यस्य यन्त्रणेन यमनेन । सामान्येन वा विवक्ष्यते, यन्त्र्याः वाचस्सरस्वत्याः यन्त्रणेन अग्नेश्च साम्राज्येन त्वामभिषिञ्चामि । सङ्गतं राजतीति सम्राट्, 'मो राजि समः क्वौ', 'गुणवचनब्राह्मणादिभ्यः' इति ष्यञ् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द्र॑स्य॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥  
-बृह॒स्पते॑स् त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
+इ᳓न्द्रस्य सा᳓म्राज्येनाभि᳓षिञ्चामि ॥  
+बृ᳓हस्प᳓तेस् त्वा सा᳓म्राज्येनाभि᳓षिञ्चामि ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -181,11 +211,17 @@ with the lordship of Indra, of Brhaspati, I anoint thee.
 बृह॒स्पते॑स्त्वा॒ साम्रा॑ज्येना॒भिषि॑ञ्चामि ॥
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑स्य । बृह॒स्पतेः॑ । त्वा॒ । साम्रा॑ज्ये॒नेति॒ साम्-रा॒ज्ये॒न॒ । अ॒भीति॑ । सि॒ञ्चा॒मि॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एवं 'इन्द्रस्य त्वा साम्राज्येन' 'बृहस्पतेस्त्वा साम्राज्येन', इत्येतौ गतौ ॥
 
 इति सप्तमे दशमोनुवाकः ॥
+</details>
 </details>
 </details>
 </div>

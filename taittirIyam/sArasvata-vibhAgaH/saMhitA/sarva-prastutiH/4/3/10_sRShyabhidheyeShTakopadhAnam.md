@@ -6,6 +6,8 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 
 चतुर्थकाण्डे तृतीयप्रपाठके दशमोऽनुवाकः
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 एक॑यास्तुवत प्र॒जा अ॑धीयन्त प्र॒जाप॑ति॒रधि॑पतिरासीत्ति॒सृभि॑रस्तुवत॒ ब्रह्मा॑सृज्यत॒ ब्रह्म॑ण॒स्पति॒रधि॑पतिरासीत्प॒ञ्चभि॑रस्तुवत भू॒तान्य॑सृज्यन्त भू॒ताना॒म्पति॒रधि॑पतिरासीत्स॒प्तभि॑रस्तुवत सप्त॒र्षयो॑ऽसृज्यन्त धा॒ताधि॑पतिरासीन्न॒वभि॑रस्तुवत पि॒तरो॑ऽसृज्य॒न्तादि॑ति॒रधि॑पत्न्यासीदेकाद॒शभि॑रस्तुवत॒र्तवो॑ऽसृज्यन्तार्त॒वोऽधि॑पतिरासीत्त्रयोद॒शभि॑रस्तुवत॒ मासा॑ असृज्यन्त सव्ँवत्स॒रोऽधि॑पतिः [18]  
@@ -22,12 +24,15 @@ title = "१० सृष्यभिधेयेष्टकोपधानम�
 कल्पः— “एकयाऽस्तुवतेति सप्तदश सृष्टीः” इति।  
 पाठस्तु— एकयाऽस्तुवतेति ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ए᳓कयास्तुवत  
 ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -49,11 +54,14 @@ They praised with one,
 
 पूर्वे महर्षयः कदाचिद्यागकाल एकया स्तोत्रिययर्चा स्तुतिमकुर्वन् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓ अधीयन्त  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -75,12 +83,15 @@ creatures were established,
 तत्तत्सामर्थ्यात्प्रजा अधीयन्त  
 तैर्महर्षिभिरुदपाद्यन्त ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिर᳓धिपतिरासीत्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -102,11 +113,14 @@ Prajapati was overlord.
 
 तदानीं प्रजापतिस्तासां प्रजानामधिपतिरासीत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिसृ᳓भिरस्तुवत  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -127,11 +141,14 @@ They praised with three,
 
 अथ कदाचित्तिसृभिः स्तोत्रियाभिरस्तुवत्।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मासृज्यत  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,12 +169,15 @@ the holy power was created,
 
 तत्सामर्थ्याद्ब्रह्म ब्राह्मणजातिस्तैरसृज्यत ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्र᳓ह्मणस्प᳓तिर᳓धिपतिरासीत्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -179,6 +199,7 @@ the lord of holy power was overlord.
 
 ब्रह्मणस्पतिरिति प्रसिद्धो यो देवः सोऽयं ब्राह्मणजातेरधिपतिरासीत् एवं सर्वत्र योज्यम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -186,6 +207,8 @@ the lord of holy power was overlord.
 भूता᳓न्यसृज्यन्त  ।  
 भूता᳓नाम्प᳓तिर᳓धिपतिरासीत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -210,6 +233,7 @@ They praised with five, beings were created, the lord of beings was the overlord
 अत एवान्यत्राऽऽम्नातम्—“भूतानां पतये स्वाहा” इति ।  
 सोऽयमत्र तिप तभूनिंराधपतिः स्वाम्यासीत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -218,6 +242,8 @@ They praised with five, beings were created, the lord of beings was the overlord
 ।  
 धाता᳓ऽधिपतिरासीत्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -241,6 +267,7 @@ They praised with seven, the seven seers were created, Dhatr was the overlord.
 
 धाता जगत्स्त्रष्टा ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -249,6 +276,8 @@ They praised with seven, the seven seers were created, Dhatr was the overlord.
 अ᳓दितिर᳓धिपत्न्यासीत्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -272,6 +301,7 @@ They praised with nine, the fathers were created, Aditi was the overlady.
 
 अदितिर्भूमिः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -281,6 +311,8 @@ They praised with nine, the fathers were created, Aditi was the overlady.
 आर्तवो᳓ऽधिपतिरासीत्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -305,12 +337,15 @@ They praised with eleven, the seasons were created, the seasonal one was the ove
 
 आर्तव  २०१५ ऋतुपालकः कश्चिद्देवविशेषः ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयोदश᳓भिरस्तुवत ।  
 मा᳓सा असृज्यन्त  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -327,11 +362,15 @@ They praised with thirteen, the months were created,
 
 त्र॒यो॒द॒शभि॒रिति॑ त्रयोद॒श-भिः॒ । अ॒स्तु॒व॒त॒ । मासाः॑ । अ॒सृ॒ज्य॒न्त॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 सव्ँ॒व॒त्स॒रोऽधि॑पतिः [18] आ॒सीत्  
 ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +385,8 @@ They praised with thirteen, the months were created,
 इ᳓न्द्रो᳓ऽधिपतिरासीत्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -374,6 +415,7 @@ the year was the overlord [1]. They praised with fifteen, the lordly class was c
 
 क्षत्त्रं क्षात्त्रियजातिः।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -387,6 +429,8 @@ the year was the overlord [1]. They praised with fifteen, the lordly class was c
 शू᳓द्रार्या᳓वसृज्येताम्  
 ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -415,11 +459,14 @@ They praised with seventeen, cattle were created, Brhaspati was the overlord. Th
 
 शूद्रार्यौ शूद्रो वैश्यश्चेति जातिद्वयम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहोरात्रे᳓ अ᳓धिपत्नी आस्ताम्  ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -440,6 +487,7 @@ day and night were the overlords.
 
 अहर्देवता रात्रिदेवता चेत्येते जातिद्वयस्याधिपत्नी स्वामिरूपे आस्ताम् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -458,6 +506,8 @@ day and night were the overlords.
 
 ्सप्त᳓विँशत्याऽस्तुवत ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -486,16 +536,22 @@ They praised with twenty-one, the whole-hooved cattle were created, Varuna was t
 
 एक॑विँश॒त्येत्येक॑-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ । एक॑शफा॒ इत्येक॑-श॒फाः॒ । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । वरु॑णः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । त्रयो॑विँश॒त्येति॒ त्रयः॑-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ । क्षु॒द्राः । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । पू॒षा । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । पञ्च॑विँश॒त्येति॒ पञ्च॑-विँ॒श॒त्या । अ॒स्तु॒व॒त॒ । आ॒र॒ण्याः । प॒शवः॑ । अ॒सृ॒ज्य॒न्त॒ । वा॒युः । अधि॑पति॒रित्यधि॑-प॒तिः॒ । आ॒सी॒त् । स॒प्तविँ॑श॒त्येति॑ स॒प्त-विँ॒श॒त्या॒ । अ॒स्तु॒व॒त॒ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 द्यावा॑पृथि॒वी वि [19]  ऐ॒ताम् ।  
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्या᳓वापृथिवी᳓  व्यैताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -516,11 +572,14 @@ sky and earth [2] went apart,
 
 सप्तविंशतिस्तोत्रसामर्थ्यात्पूर्वमेकीभूते द्यावापृथिव्यौ परस्परं वियुक्ते अतामभु ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सवो रुद्रा᳓ आदित्या᳓ अ᳓नु व्या᳙यन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -541,11 +600,14 @@ the Vasus, Rudras, and Adityas followed their example,
 
 तयोर्वियोमेन वस्वादयस्त्रयो गणाः परस्परं वियुक्ता अभवन् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓षामा᳓धिपत्यमासीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -566,6 +628,7 @@ theirs was the overlordship.
 
 तेषां वस्वादीनां द्यावापृथिव्यौ प्रत्याधिपत्यमासीत् ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -576,6 +639,8 @@ theirs was the overlordship.
 प्रजा᳓ असृज्यन्त ।  
 या᳓वानाञ्चा᳓यावानाञ्चा᳓धिपत्यमासीत् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -601,12 +666,15 @@ They praised with twenty-nine, trees were created, Soma was the overlord. They p
 
 यावा मासदेवता अथवा अर्धमासदेवताः ।  उभयविधदेवतानां प्रजाः प्रति आधिपत्यमासीत् ।  
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्र᳓यस्त्रिँशताऽस्तुवत ।  
 भूता᳓न्यशाम्यन् ।  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -628,12 +696,15 @@ They praised with thirty-three, creatures came to rest,
 
 भूतान्यशाम्यन्, प्राणीनः शान्तानुपद्रवरहितानकुर्वत ।   
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजा᳓पतिᳶ परमेष्ठ्य᳓धिपतिरासीत् ॥  
 [20]  
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -657,6 +728,7 @@ Prajapati was the overlord and chief.
 एतैर्मन्त्रैः साध्यमुपधानं विधत्ते— “सृष्टीरुप दधाति यथासृष्टमेवाव रुन्धे” (सं॰ का॰ ५ प्र॰ ३ अ॰ ४) इति।  
 सृजतिधातुयुक्तैर्मन्त्रैरुपधेया इष्टकाः सृष्टयः ।  
 तासामुपधाने सति यद्वस्तु यथा सृष्टं तत्तथैव प्राप्नोति ।  
+</details>
 </details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>
