@@ -47,7 +47,7 @@ We specially invoke the grace of Savitar, observant God, The great good-will tha
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-“सवित्र आसवित्र” इत्य्-अस्या “देवस्य चेततो महीम्" इत्य्-आदिकं याज्यानुवाक्ये ।
+“सवित्र आसवित्र” इत्य्-अस्या “देवस्य चेततो महीम्" इत्य्-आदिकं याज्यानुवाक्ये ।  
 [ २४। १२-१४ ( अनु० ४।२-४ ) ] सायण-भाष्योपेता
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
