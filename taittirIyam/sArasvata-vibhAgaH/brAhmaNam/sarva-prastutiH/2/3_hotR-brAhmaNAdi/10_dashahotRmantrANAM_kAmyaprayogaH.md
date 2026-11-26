@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created King Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒स्सोमँ॒ राजा॑नमसृजत ।
@@ -27,6 +32,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Along after him the three Vedas were created.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -91,6 +101,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He held them in his hand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान् हस्ते॑ऽकुरुत ।
@@ -119,6 +134,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then Sītā Sāvitrī  
+loved King Soma;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -151,6 +172,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he loved Faith (Śraddhā).
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धामु॒ स च॑कमे ।
@@ -178,6 +204,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She approached her father Prajāpati.  
+She said to him:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -211,6 +243,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Homage to you, reverend sir;  
+I would approach you;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +292,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I take refuge with you.  
+I love King Soma,  
+and he loves Faith.'  
+Having prepared for her a fragrant adornment of sthagara,  
+having recited the Daśahotṛ formula in front,  
+the Caturhotṛ on the south,  
+the Pañcahotṛ in the rear,  
+the Ṣaḍḍhotṛ on the north,  
+the Saptahotṛ from above,  
+and having adorned her face with the requisites and with the wives \[formulas\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑ उ॒ ह स्था॑ग॒रम॑लङ्का॒रङ्क॑ल्पयि॒त्वा ।
@@ -292,6 +344,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+she went near to him.  
+Looking up at her, he said:  
+'Turn towards me!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताँ हो॒दीक्ष्यो॑वाच ।
@@ -326,6 +385,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She said to him:  
+'Explain to me the enjoyment;  
+explain this to me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तँ हो॑वाच ।
@@ -359,6 +425,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what is in your hand.'  
+To her he gave the three Vedas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑ उ॒ ह त्रीन् वेदा॒न्प्रद॑दौ ।
@@ -386,6 +458,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore women fetch enjoyment indeed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -424,6 +501,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who should desire: 'May I be dear,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 स यᳵ का॒मये॑त प्रि॒यस्स्या॒मिति॑ ॥45॥  
@@ -450,6 +532,20 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or to whomever one should desire that he should be dear:  
+having prepared for him this fragrant adornment of sthagara,  
+having recited the Daśahotṛ in front,  
+the Caturhotṛ on the south,  
+the Pañcahotṛ in the rear,  
+the Ṣaḍḍhotṛ on the north,  
+the Saptahotṛ from above,  
+and having adorned his face with the requisites and with the wives \[formulas\],  
+he should go near to him;  
+he indeed becomes dear.
+</details>
 
 <details><summary>मूलम्</summary>
 

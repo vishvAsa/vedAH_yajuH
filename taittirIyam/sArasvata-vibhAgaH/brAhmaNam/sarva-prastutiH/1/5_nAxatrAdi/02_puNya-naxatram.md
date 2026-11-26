@@ -14,6 +14,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever lunar mansion is auspicious,  
+at that \[time\] indeed he should act, at the break of dawn.  
+For when the sun rises,  
+then the lunar mansion does not come \[into view\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पुण्य॒न्नक्ष॑त्रम् ।  
@@ -52,6 +60,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+As far as the sun would advance there,  
+where he might see the lowest \[degree of it\],  
+in so much \[time\] he should act, whatever he would do.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याव॑ति॒ तत्र॒ सूर्यो॒ गच्छे॑त् ।
@@ -88,6 +103,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He acts on an auspicious day itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒ण्या॒ह ए॒व कु॑रुते ।
@@ -118,6 +138,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus indeed the Matsya \[king\] settled Yajñeṣu and Śatadyumna.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -193,6 +218,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows the astral Prajāpati,  
+they know him in both worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वै न॑क्ष॒त्रिय॑म्प्र॒जाप॑तिव्ँ॒वेद॑ ।  
@@ -217,6 +248,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hasta indeed is his hand;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्त॑ ए॒वास्य॒ हस्तः॑ ।
@@ -234,6 +270,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Citrā is the head;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +294,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Niṣṭyā is the heart;
+</details>
+
 <details><summary>मूलम्</summary>
 
 निष्ट्या॒ हृद॑यम् ।
@@ -270,6 +316,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the two Viśākhes are the thighs;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -289,6 +340,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Anūrādhās are the firm foundation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒ष्ठा ऽनू॑रा॒धाः ।
@@ -306,6 +362,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the astral Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +392,12 @@ unicode_script: devanagari
 {caption="नक्षत्रियः प्रजापतिः"}
 
 नाम - सूर्यपथि निष्ट्याम् आनेतुम् (projection) यो जानाति, (तथा प्रायेण विषुवस्थाने तस्यावस्थानं यो वेद), स हि नक्षत्रियं प्रजापतिं वेद, स हि उभयोर् लोकयोस् तं वेद।
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,  
+they know him in both worlds,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -361,6 +428,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+both in this and in that.  
+Whichever daughter he would wish to be dear,  
+he should give her away under Niṣṭyā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याङ्का॒मये॑त दुहि॒तर॑म्प्रि॒या स्या॒दिति॑ ।
@@ -384,6 +458,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She becomes dear indeed;  
+yet she returns again.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -409,6 +489,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Abhijit is a lunar mansion by name,  
+above the Aṣāḍhās,  
+below Śroṇā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भि॒जिन्नाम॒ नक्ष॑त्रम् ।  
@@ -429,6 +516,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।
@@ -447,6 +539,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those gods triumphed under that lunar mansion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते दे॒वास् तस्मि॒न् नक्ष॑त्रे॒ ऽभ्य॑जयन्न् ॥ 8 ॥
@@ -464,6 +561,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they conquered (abhyajayan), that is the conquering nature (abhijittva) of Abhijit.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -489,6 +591,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should desire of someone, 'May he conquer unconquerably,' he should cause him to march under this lunar mansion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यङ्का॒मये॑तानपज॒य्यञ्ज॑ये॒दिति॑ ।
@@ -512,6 +619,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He conquers unconquerably, though as if \[defeating\] one already poorly defeated.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -537,6 +649,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प॒शून् अ॑सृजत ।
@@ -559,6 +676,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They waited upon lunar mansion after lunar mansion.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -583,6 +705,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They remained just equal \[in number\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते स॒माव॑न्त ए॒वाभ॑वन् ।
@@ -606,6 +733,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They waited upon Revatī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते रे॒वती॒म् उपा॑तिष्ठन्त ॥ 9 ॥
@@ -623,6 +755,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They prospered at Revatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -647,6 +784,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, regarding domestic animals, one should act under Revatī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द् रे॒वत्या॑म् पशू॒नाङ् कु॑र्वीत ।
@@ -664,6 +806,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever \[rites there are\] short of soma, they indeed prosper.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +838,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Water, verily, was this between.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒लि॒लव्ँ वा इ॒दम् अ॑न्त॒र् आसी॑त् ।
@@ -708,6 +860,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they crossed over (ataran), that is the star-nature (tārakatva) of the stars (tārakā).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -735,6 +892,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who sacrifices here reaches (nakṣate) that realm; that is the lunar-mansion-nature (nakṣatratva) of the lunar mansions (nakṣatra).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा इ॒ह यज॑ते ऽ॒मुँ स लो॒कन् न॑क्षते॒, तन् नक्ष॑त्राणान् नक्षत्र॒त्वम् ॥ 10 ॥
@@ -758,6 +920,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lunar mansions, verily, are the dwellings of the gods. He who knows thus becomes possessed of a dwelling.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व॒गृ॒हा वै नक्ष॑त्राणि ।
@@ -779,6 +946,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Verily, whatever bright ornaments (citrāṇi) there are of the earth, those are the lunar mansions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -805,6 +977,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, under an inauspiciously named \[lunar mansion\] and under Citrā,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -839,6 +1016,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+one should neither settle nor sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ पापा॒हे कु॑रु॒ते ।
@@ -864,6 +1046,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as one fares on an evil day, such indeed is that. Some are the divine lunar mansions,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -894,6 +1081,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+others are Yama's lunar mansions. The Kṛttikās are the first,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत्ति॑काᳶ प्रथ॒मम् ।
@@ -918,6 +1110,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Viśākhās the last:
+</details>
+
 <details><summary>मूलम्</summary>
 
 विशा॑खे उत्त॒मम् ।
@@ -935,6 +1132,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+these are the divine lunar mansions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -963,6 +1165,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Anūrādhās are the first,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒नू॒रा॒धाᳶ प्र॑थ॒मम् ।
@@ -980,6 +1187,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Apabharaṇīs the last:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -999,6 +1211,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+these are Yama's lunar mansions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानि॑ यम-नक्ष॒त्राणि॑ ।
@@ -1016,6 +1233,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ones that are the divine lunar mansions go around by the south.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1035,6 +1257,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ones that are Yama's lunar mansions
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1060,6 +1287,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[go around\] by the north. 'We have prospered after them (ánv eṣām arātsma),' \[they thought\]; therefore \[the name is\] Anūrādhās.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्वे॑षामरा॒त्स्मेति॑ ।
@@ -1083,6 +1315,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'We have slain their eldest (jyeṣṭham eṣām avadhiṣma),' \[they thought\]; therefore \[the name is\] Jyeṣṭhaghnī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1108,6 +1345,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'We have uprooted their root (mūlam eṣām avṛkṣāma),' \[they thought\]; therefore \[the name is\] Mūlabarhaṇī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूल॑मेषावृक्षा॒मेति॑ । तन्मू॑ल॒वर्ह॑णी ।
@@ -1130,6 +1372,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they could not endure (yán nā́sadhanta), therefore \[the name is\] Aṣāḍhās.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1155,6 +1402,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because it limped (áśloṇat),
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदश्लो॑णत् ॥ 13 ॥  
@@ -1178,6 +1430,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore \[the name is\] Śroṇā. Because it heard (áśṛṇot), therefore \[the name is\] Śraviṣṭhās.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1203,6 +1460,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because a hundred healed (śatam ábhiṣajyan), therefore \[the name is\] Śatabhiṣaj.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यच्छ॒तमभि॑षज्यन् ।
@@ -1227,6 +1489,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the Proṣṭhapadās they held up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रो॒ष्ठ॒प॒देषूद॑यच्छन्त ।
@@ -1249,6 +1516,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At Revatī they roared.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1273,6 +1545,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the Aśvayujau they harnessed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्व॒युजो॑र् अयुञ्जत ।
@@ -1295,6 +1572,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the Apabharaṇīs they carried off.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1320,6 +1602,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These indeed are Yama's lunar mansions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानि॒ वा ए॒तानि॑ यम-नक्ष॒त्राणि॑ ।
@@ -1337,6 +1624,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever are the divine lunar mansions, under them should one act, whatever one may do. He acts verily on an auspicious day.
+</details>
 
 <details><summary>मूलम्</summary>
 

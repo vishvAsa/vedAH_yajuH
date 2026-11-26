@@ -12,6 +12,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'At the impulse of the god Savitṛ, with Bṛhaspati who wins the prize, may I win the prize,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वाज॑ञ् जेष॒मि"त्य् आ॑ह ।
@@ -34,6 +39,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+impelled by Savitṛ, through brahman indeed he wins the prize.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -61,6 +71,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'At the impulse of the god Savitṛ, with Bṛhaspati who wins the prize, may I mount the highest vault of heaven,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्या॒हँ स॑वि॒तुᳶ प्र॑स॒वे बृह॒स्पति॑ना वाज॒जिता॒ वर्षि॑ष्ठ॒न् नाकँ॑ रुहेय॒"मित्य् आ॑ह ।
@@ -84,6 +99,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+impelled by Savitṛ, through brahman indeed he mounts the highest vault of heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तृप्र॑सूत ए॒व ब्रह्म॑णा॒ वर्षि॑ष्ठ॒न् नाकँ॑ रोहति ।
@@ -101,6 +121,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He mounts a chariot wheel set up upon the cātvāla;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -125,6 +150,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from this, indeed, the highest Aṅgirases went to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतो॒ वा अङ्गि॑रस उत्त॒मास् सु॑व॒र्गल्ँ लो॒कम् आ॑यन् ।
@@ -148,6 +178,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Directly the sacrificer goes to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा॒क्षाद् ए॒व यज॑मानस् सुव॒र्गल्ँ लो॒कम् ए॑ति ।
@@ -165,6 +200,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He causes \[it\] to spin around.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -188,6 +228,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The chariot is indeed a vajra;  
+with the vajra indeed he conquers the directions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +259,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sāman of the swift ones is sung;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒जिनाँ॒ साम॑ गायते ।
@@ -237,6 +288,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+food indeed is the prize;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नव्ँ॒ वै वाजः॑ ।
@@ -254,6 +310,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+food he thereby secures.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -273,6 +334,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The summit of speech departed from the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चो वर्ष्म॑ दे॒वेभ्यो ऽपा॑क्रामत् ।
@@ -290,6 +356,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it entered into the trees.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +380,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the speech which speaks in the trees,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैषा वाग्वन॒स्पति॑षु वदति ।
@@ -326,6 +402,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+which is in the war-drum.  
+Therefore the war-drum surpasses all speech.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -346,6 +428,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They beat the war-drums together;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दु॒न्दु॒भीन्त् स॒माघ्न॑न्ति ।
@@ -363,6 +450,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+supreme indeed is this speech.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +480,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Which is in the war-drum;  
+by the supreme speech indeed he secures the lower speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒र॒मयै॒व वा॒चा ऽव॑राव्ँ॒ वाच॒म् अ॑वरुन्धे ।
@@ -410,6 +508,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And also the sacrificer secures the summit of speech.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -434,6 +537,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Speak speech for Indra, make Indra win the prize, Indra has won the prize,' he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य॒ वाचव्ँ॑वद॒तेन्द्रव्ँ॒वाज॑ञ्जापय॒तेन्द्रो॒ वाज॑मजयि॒दित्या॑ह ।
@@ -457,6 +565,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This one is Indra at this time,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वा ए॒तर्ही इन्द्रः॑ ।
@@ -474,6 +587,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he who sacrifices.  
+The sacrificer himself wins the prize.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -500,6 +619,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seventeen arrow-shots they run the race;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तद॑श प्रव्या॒धाना॒जिन् धा॑वन्ति ।
@@ -522,6 +646,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the stotra is seventeen-fold;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -546,6 +675,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+seventeen by seventeen \[gifts\] are given.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तद॑श सप्तदश दीयन्ते ॥33॥
@@ -568,6 +702,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seventeen-fold is Prajāpati;  
+\[this is\] for obtaining Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -593,6 +733,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are a courser, you are a steed, you are a runner,' he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्वा॑ऽसि॒ सप्ति॑रसि वा॒ज्य॑सीत्या॑ह ।
@@ -610,6 +755,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the courser,  
+Vāyu is the steed,  
+the Āditya is the runner.  
+With these deities indeed he yokes the chariot of the gods for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -637,6 +790,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He yokes a chariot with an outrunner;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ष्टि॒-वा॒हिनय्ँ॑ युनक्ति ।
@@ -659,6 +817,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the chariot of the gods indeed has an outrunner;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -684,6 +847,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he yokes the chariot of the gods for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व॒-र॒थम् ए॒वास्मै॑ युनक्ति ॥34॥
@@ -701,6 +869,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'O swift ones, run for the prize, reach the goal,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -720,6 +893,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the heavenly realm is indeed the goal;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒व॒र्गो वै लो॒कᳵ काष्ठा॑ ।
@@ -738,6 +916,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+to the heavenly realm indeed they go.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒व॒र्गम् ए॒व लो॒कय्ँ य॑न्ति ।
@@ -755,6 +938,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the heavenly realm go they  
+who run the race.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -783,6 +972,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They run towards the east;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राञ्चो॑ धावन्ति ।
@@ -801,6 +995,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the heavenly realm is, as it were, towards the east.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राङ् इ॑व॒ हि सु॑व॒र्गो लो॒कः ।
@@ -818,6 +1017,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He pronounces mantras over \[them\] with four \[verses\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -842,6 +1046,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+four are the meters;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -868,6 +1077,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of the meters indeed he causes them to go to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छन्दो॑भिर् ए॒वैना॑न्त् सुव॒र्गल्ँ लो॒कङ् ग॑मयति ॥35॥
@@ -885,6 +1099,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They depart from this world,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +1123,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who run the race.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आ॒जिन् धाव॑न्ति ।
@@ -921,6 +1145,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They turn back toward the north;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -946,6 +1175,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from this world they thereby do not lead \[them\] away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्माद् ए॒व तेन॑ लो॒कान् नय॑न्ति ।
@@ -963,6 +1197,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers the chariot-unloosing oblation for firm standing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -982,6 +1221,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May the surge of refreshment come to me,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "आ मा॒ वाज॑स्य प्रस॒वो ज॑गम्या॒दि"त्य् आ॑ह ।
@@ -999,6 +1243,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+food indeed is the prize;  
+he thereby secures food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,6 +1273,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+According to their proper sphere do they conquer,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1049,6 +1304,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who run the race.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आ॒जिन् धाव॑न्ति ॥36॥
@@ -1066,6 +1326,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He gives a kṛṣṇala to each of those running for the prize;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1089,6 +1354,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whichever prize, whichever realm they win,  
+purchasing that, he secures it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1114,6 +1385,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In one lot he offers \[them\] to the Brahman;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धा ब्र॒ह्मण॒ उप॑हरति ।
@@ -1138,6 +1414,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in one lot indeed he places heroic power in the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धैव यज॑माने वी॒र्य॑न् दधाति ।
@@ -1155,6 +1436,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods ran a race for the plants;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,6 +1465,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati won them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता बृह॒स्पति॒र् उद॑जयत् ।
@@ -1201,6 +1492,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He chose the wild rice (nīvāra);
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1232,6 +1528,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the nature of wild rice (nīvāratva).
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन् नी॒वारा॑णान् नीवार॒त्वम् ।
@@ -1249,6 +1550,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is a boiled mess of wild rice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1272,6 +1578,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is indeed the supreme food of the gods,  
+that is, the wild rice;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1297,6 +1609,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by the supreme edible food indeed he secures for him the lower edible food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒र॒मेणै॒वास्मा॑ अ॒न्नाद्ये॒नाव॑रम् अ॒न्नाद्य॒म् अव॑रुन्धे ।
@@ -1320,6 +1637,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It consists of seventeen platters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तद॑श-शरावो भवति ।
@@ -1338,6 +1660,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+seventeen-fold is Prajāpati;  
+\[this is\] for obtaining Prajāpati.  
+It is cooked in milk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्त॒द॒शᳶ प्र॒जाप॑तिः । प्र॒जाप॑ते॒राप्त्ये॑ । क्षी॒रे भ॑वति ।
@@ -1355,6 +1684,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+brightness indeed he places in him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1380,6 +1714,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is full of ghee for sacrificial fitness;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒र्पिष्वा॑न्भवति मेध्य॒त्वाय॑ ।
@@ -1397,6 +1736,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Bṛhaspati by deity is this one.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,6 +1767,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who sacrifices with the Vājapeya;  
+belonging to Bṛhaspati is this caru.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्वा॑न्त् सरिष्य॒तस् स॒स्रुष॒श् चअव॑ घ्रापयति ।
@@ -1440,6 +1790,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He makes the horses, both about to run and having run, smell it;  
+whichever prize, whichever realm they win,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1467,6 +1823,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that he secures.  
+'You have caused Indra to win the prize, O trees, be unyoked,' saying thus he unyokes the war-drums;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अजी॑जिपत वनस्पतय॒ इन्द्रव्ँ॒ वाजव्ँ॒ विमु॑च्यध्व॒मि"ति॑ दुन्दु॒भीन् विमु॑ञ्चति ।
@@ -1484,6 +1846,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whichever prize, whichever realm, whichever sensory power the war-drums win,  
+that he secures.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -18,6 +18,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the Hotṛ sacrifice in the place of sacred food,  
+kindle the great renown,  
+well kindled, choice,  
+Agni, Indra, who bestows youthful vitality,  
+the gāyatrī meter, power of the senses,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदि॒डस्प॒दे ।
@@ -64,6 +73,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestowing a eighteen-month-old bovine animal, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to Tanūnapāt of pure vows,  
+the breakthrough-maker,  
+whom Aditi bore as an embryo,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -114,6 +132,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+pure Indra who bestows youthful vitality,  
+the uṣṇih meter, power of the senses,  
+bestowing a two-year-old bovine animal, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the praiseworthy one,  
+praised, greatest slayer of Vṛtra,  
+power to be praised with offerings of sacred food,  
+Soma, Indra, who bestows youthful vitality,  
+the anuṣṭubh meter, power of the senses,  
+bestowing a three-year-old bovine animal, youthful vitality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदी॒डेन्य॑म् ।
@@ -162,6 +194,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the one seated well on the sacred grass,  
+accompanied by Pūṣan, immortal,  
+sitting on the dear sacred grass,  
+the immortals, to Indra who bestows youthful vitality,  
+the bṛhatī meter, power of the senses,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +254,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestowing a thirty-month-old bovine animal, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the spacious ones,  
+easy to approach, increasers of cosmic order,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒द्व्यच॑स्वतीः ।
@@ -260,6 +310,20 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the divine, golden doors,  
+Brahman, Indra who bestows youthful vitality,  
+the paṅkti meter, power of the senses here,  
+bestowing a four-year-old bovine animal, youthful vitality.  
+Let them partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the well-formed,  
+finely adorned, both lofty ones,  
+Night and Dawn, splendid to behold,  
+the All, Indra who bestows youthful vitality,  
+the triṣṭubh meter, power of the senses,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +374,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestowing a five-year-old bovine animal, youthful vitality.  
+Let them partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the two wise ones,  
+highest renown of the gods,  
+the two divine Hotṛs, the two sages,  
+the two companions, Indra who bestows youthful vitality,  
+the jagatī meter, power of the senses here,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒त्प्रचे॑तसा ।
@@ -358,6 +433,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestowing a draft-ox, youthful vitality.  
+Let them partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the adorned,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +490,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+three divine, golden goddesses,  
+the Bhāratīs, lofty, great,  
+the protector, Indra who bestows youthful vitality,  
+the virāj meter, power of the senses here,  
+bestowing like a milch cow, youthful vitality.  
+Let them partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the one rich in seed,  
+Tvaṣṭṛ, increaser of nourishment,  
+bearing distinct forms,  
+nourishment, Indra who bestows youthful vitality,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्सु॒रेत॑सम् ।
@@ -457,6 +553,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the two-footed meter, power of the senses here,  
+bestowing like an ox, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the one of a hundred resolves,  
+golden-winged, possessing hymns,  
+holding the halter, willful,  
+Bhaga, Indra who bestows youthful vitality,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षच्छ॒तक्र॑तुम् ।
@@ -505,6 +612,20 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the kakubh meter, power of the senses here,  
+bestowing like a barren or miscarrying cow, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!  
+Let the Hotṛ sacrifice to the Svāhā-utterances,  
+Agni, the householder severally,  
+Varuṇa, the medicine, the sage,  
+regal power, Indra who bestows youthful vitality,  
+the aticchandas meter, power of the senses,  
+bestowing a great bull, youthful vitality.  
+Let him partake of the clarified butter. Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -828,6 +828,14 @@ praised in the twenty-onefold [stoma], with the Vairāja [sāman], with splendou
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the winter season, the gods,  
+the Maruts with the thrice-ninefold \[stoma\], what was praised,  
+with power, the Śakvarī verses, overriding force,  
+the oblation, bestowed youthful vitality in Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हे॒म॒न्तेन॒र्तुना॑ दे॒वाः ।  

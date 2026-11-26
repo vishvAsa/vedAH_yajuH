@@ -22,6 +22,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This tiger has entered and moves within the fire;  
+this son of the ṛṣis is the protector from curse.  
+With homage,  
+with reverence, I offer unto you;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒घ्रो॑ऽयम॒ग्नौ च॑रति॒ प्रवि॑ष्टः ।  
@@ -102,6 +110,14 @@ then impel for us, O Savitṛ, desirable things day by day, abundant in cattle.
 
 सा᳓वीर्हि᳓ देव प्रथमा᳓य पित्रे᳓ वर्ष्मा᳓णमस्मै वरिमा᳓णमस्मै।  
 अ᳓थास्म᳓भ्यँ सवितर्वा᳓र्याणि दिवे᳓ दिव आ᳓सुवा भू᳓रि पर्श्वः᳓
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.3.1)+++सावीर् हि देव प्रथमाय पित्रे  
+वर्ष्माणम् अस्मै वरिमाणम् अस्मै ।  
+अथास्मभ्यं सवितर् वार्याणि  
+द्वेद्वे आ सुवा भूरि पश्वः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -445,6 +461,14 @@ with which abundant ones they wrapped speech, with that luster anoint this [king
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he shine with might over the five peoples;  
+like Indra, may he be the eldest, endowed with offspring;  
+to him may there be abundant, wondrous brightness;  
+may he unite the two midspaces in his lap.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आऽयम्भा॑तु॒ शव॑सा॒ पञ्च॑ कृ॒ष्टीः ।  
@@ -544,7 +568,7 @@ with which abundant ones they wrapped speech, with that luster anoint this [king
 - चित्र᳓भानु (*RV*-5/7, *TB*-2, *AV*-1, *KS*-2/4, *MS*-2, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
 - य᳓स्मिन् (*TS*-9/3383, *RV*-51/4011, *TB*-2/728, *AV*-46/3120, *SB-M*-43/8327, *SB-K*-35/8438, *VS-M*-3/244, *VS-K*-1/456, *KS*-5/818, *MS*-14/3763)
 - सू᳓र्याः (*TS*-1/109, *RV*-1/337, *TB*-0/56, *AV*-3/173, *SB-M*-0/152, *SB-K*-0/151, *VS-M*-0/53, *VS-K*-0/88, *KS*-2/52, *MS*-1/143)
-- अ᳓र्पिताः → **अर्पिताः᳓** (*RV*-1)
+- अ᳓र्पिताः (*TS*-0/2, *RV*-0/7, *TB*-0/1, *AV*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1, *MS*-0/2)
 - सप्त᳓ (*TS*-74/88, *RV*-122/128, *TB*-19/23, *TK*-6, *AV*-76/77, *SB-M*-163/182, *SB-K*-150/170, *VS-M*-19, *VS-K*-21, *KS*-29/32, *MS*-65/77)
 - साक᳓म् (*TS*-9, *RV*-56, *TB*-4, *SB-K*-3, *VS-K*-4, *KS*-7, *MS*-19)
 - त᳓स्मि᳓न् → **त᳓स्मिन्** (*TS*-23/4763, *RV*-22/3136, *TB*-3/1327, *TK*-1/135, *AV*-53/3165, *SB-M*-158/20457, *SB-K*-161/20018, *VS-M*-1/268, *VS-K*-2/395, *KS*-12/1225, *MS*-33/5550)
@@ -605,6 +629,11 @@ in which seven suns are fixed together, in that establish this king.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are heaven; you are earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यौर॑सि पृथि॒व्य॑सि ।
@@ -638,6 +667,11 @@ in which seven suns are fixed together, in that establish this king.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A tiger upon the tiger skin.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +714,20 @@ in which seven suns are fixed together, in that establish this king.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rest upon the great quarters.  
+Let all the clans desire you;  
+let not sovereignty fall away from you.  
+The waters that are divine, which have arisen with milk,  
+those in the intermediate space and those that are earthly—  
+with the luster of them all  
+I sprinkle you with splendor.  
+I sprinkle you with divine splendor  
+together with milk,  
+so that you shall be an increaser of sovereignty;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -766,6 +814,18 @@ True lord and lord of strength.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so may Savitṛ make you.  
+All songs have magnified Indra,  
+expansive as the sea,  
+the best chariot-fighter of chariot-fighters,  
+the true lord, master of spoils.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓सवस्त्वा पुर᳓स्तादभि᳓षिञ्चन्तु गायत्रे᳓ण छ᳓न्दसा ।  
@@ -776,6 +836,15 @@ True lord and lord of strength.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Vasus sprinkle you from the east with the gāyatrī meter.  
+May the Rudras sprinkle you from the south with the triṣṭubh meter.  
+May the Ādityas sprinkle you from the west with the jagatī meter.  
+May the All-gods sprinkle you from the north with the anuṣṭubh meter.  
+May Bṛhaspati sprinkle you from above with the paṅkti meter.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -814,6 +883,14 @@ True lord and lord of strength.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, the ruddy wolf, the fierce one, maker of turmoil,  
+shining at the head of the Maruts' blaze,  
+accompanied by the sun, the generous, the conqueror,  
+Indra, most invoked by name in the ukthyas, may we invoke.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1354,6 +1431,12 @@ O streckt die Arme vor, damit wir leben, besprengt mit fetter Nahrung unsre Wies
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your two arms, doing the heroic deeds of Indra,  
+I bring down.
+</details>
 
 <details><summary>मूलम्</summary>
 

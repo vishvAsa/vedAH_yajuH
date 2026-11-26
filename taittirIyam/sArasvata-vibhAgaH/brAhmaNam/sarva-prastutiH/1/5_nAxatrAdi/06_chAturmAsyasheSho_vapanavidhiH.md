@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, whatever the gods did in the sacrifice,  
+the asuras did that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा वै यद्य॒ज्ञेऽकु॑र्वत ।
@@ -37,6 +43,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those asuras did not see upwards from the back \[of their heads\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते ऽसु॑रा ऊ॒र्ध्वम् पृ॒ष्ठेभ्यो॒ नाप॑श्यन् ।
@@ -59,6 +70,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they shaved their head-hair first,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +100,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the beard,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ श्मश्रू॑णि ।
@@ -101,6 +122,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the armpits.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +146,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon they went downwards;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत॒स् ते ऽवा॑ञ्च आयन् ।
@@ -138,6 +169,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they were defeated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परा॑ ऽभवन् ।
@@ -155,6 +191,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whomever they shave thus,  
+he goes downwards,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -181,6 +223,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he becomes as if ruined.  
+Then the gods saw upwards from the back \[of their heads\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ दे॒वा ऊ॒र्ध्वम् पृ॒ष्ठेभ्यो॑ ऽपश्यन् ।
@@ -205,6 +253,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they shaved the armpits first,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त उ॑पप॒क्षाव् अग्रे॑ ऽवपन्त ।
@@ -222,6 +275,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the beard,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +299,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the head-hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ केशा॑न्।
@@ -258,6 +321,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon they prospered;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +345,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they went to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒व॒र्गल्ँ लो॒कम् आ॑यन् ।
@@ -294,6 +367,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whomever they shave thus,  
+he prospers in his own self,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -320,6 +399,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he goes to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ सुव॒र्गल्ँ लो॒कम् ए॑ति ॥ 26 ॥
@@ -337,6 +421,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then Manu saw this pair for the shaver:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -361,6 +450,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he shaved the beard first,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स श्मश्रू॒ण्य् अग्रे॑ ऽवपत ।
@@ -378,6 +472,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the armpits,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -397,6 +496,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the head-hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ केशा॑न्।
@@ -415,6 +519,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon indeed he reproduced with offspring and domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स प्राजा॑यत प्र॒जया॑ प॒शुभिः॑ ।
@@ -432,6 +541,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whomever they shave thus,  
+he propagates in pairs with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +572,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।
@@ -481,6 +601,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they contended over the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते सव्ँ॑वत्स॒रे व्याय॑च्छन्त ।
@@ -498,6 +623,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods engaged them with the Four-Month rites alone.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -522,6 +652,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the Vaiśvadeva, having Indra as king, they wrested four months;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वेन॑ च॒तुरो॑ मा॒सो॑ ऽवृञ्ज॒तइन्द्र॑-राजानः ।
@@ -545,6 +680,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they turned those down and around upon the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताञ् छी॒र्षन्नि चाव॑र्तयन्त॒ परि॑ च ।
@@ -567,6 +707,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the Varuṇapraghāsa rites, having Varuṇa as king, they wrested four months;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -592,6 +737,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they turned those down and around upon the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताञ् छी॒र्षन्नि चाव॑र्तयन्त॒ परि॑ च ।
@@ -609,6 +759,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the Sākamedha rites, having Soma as king, they wrested four months;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -628,6 +783,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they turned those down and around upon the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताञ् छी॒र्षन्नि चाव॑र्तयन्त॒ परि॑ च ।
@@ -645,6 +805,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever livelihood there was in the year,  
+they wrested that from them.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +830,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon the gods prospered;  
+the asuras were defeated.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +861,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, knowing thus, sacrifices with the Four-Month rites,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वाँश् चा॑तुर्मा॒स्यैर् यज॑ते ।
@@ -706,6 +883,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having wrested the months of his rival,  
+turns them down and around upon his head.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +909,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever livelihood there is in the year,  
+he wrests that from his rival.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -752,6 +941,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+His rival perishes through hunger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लो॒हि॒ता॒य॒सेन॒ नि व॑र्तयते ।
@@ -774,6 +968,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He shaves with a bronze \[blade\].  
+When Agni shaves this \[earth\] when the season has come,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -799,6 +999,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+having made it into this very form he shaves it;  
+she then goes on, becoming greater day by day;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा तत॒श्श्वश्वो॒ भूय॑सी॒ भव॑न्त्येति ॥ 29 ॥  
@@ -823,6 +1029,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+she reproduces.  
+He who, knowing thus, shaves with a bronze \[blade\],  
+having made this very form, he shaves;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वाल्ँ लो॑हिताय॒सेन॑ निव॒र्तय॑ते ।
@@ -841,6 +1054,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he then goes on, becoming greater day by day;  
+he reproduces.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -866,6 +1085,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should shave with a three-spotted porcupine quill;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रे॒ण्या श॑ल॒ल्या नि व॑र्तयेत ।
@@ -888,6 +1112,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+threefold indeed are the prosperous \[things\] of the gods:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -913,6 +1142,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+three meters,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीणि॒ छन्दाँ॑सि ।
@@ -930,6 +1164,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+three pressings,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -949,6 +1188,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+these three worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑ इ॒मे लो॒काः ॥ 30 ॥
@@ -966,6 +1210,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He thus firmly establishes himself in prosperity, in heroic power, in these worlds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -990,6 +1239,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the sacrificer of the Four-Month rites were not to offer \[a portion\] of himself,  
+he would be cut off from the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यच्चा॑तुर्मास्यया॒ज्या॑त्मनो॒ नाव॒द्येत् ।
@@ -1013,6 +1268,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should shave every four months;  
+thereby he secretly offers \[a portion\] of himself to the gods, in order not to be cut off.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1039,6 +1300,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, he is brought to the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वानाव्ँ॒वा ए॒ष आनी॑तः ।
@@ -1063,6 +1329,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificer of the Four-Month rites who, knowing thus, turns \[the razor\] down and around;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वान्नि च॑ व॒र्तय॑ते॒ परि॑ च ।
@@ -1086,6 +1357,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he joins the deities;  
+Rudra does not harm his offspring or domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 

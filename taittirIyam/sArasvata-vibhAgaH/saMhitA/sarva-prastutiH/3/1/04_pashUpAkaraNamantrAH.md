@@ -18,8 +18,8 @@ title = "०४ पशूपाकरणमन्त्राः"
 त᳓स्मै प्र᳓ति प्र᳓ वेदय चिकित्वाँ᳓ अ᳓नु मन्यताम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/01_prajApaterjAyamAnA_prajA_jAtAshcha.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 The offspring, being born of Prajapati  
@@ -28,10 +28,18 @@ To him declare them;
 Let the wise one reflect thereon.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र॒जाप॑ते॒र्जाय॑मानाᳶ प्र॒जा जा॒ताश्च॒ या इ॒माः ।   
 तस्मै॒ प्रति॒ प्र वे॑दय चिकि॒त्वाँ अनु॑ मन्यताम् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+प्रजापतेर् जायमानाः  
+प्रजा जाताश् च या इमाः ।  
+ता अस्मै प्रति वेदय  
+चिकित्वाँ अनु मन्यताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -45,6 +53,7 @@ Let the wise one reflect thereon.
 मन्त्रार्थस्तु - जायमानाः जाताश्च या इमास्तास्सर्वाः प्रजापतेः प्रजाः अपत्यानि । तस्मात्तस्मै प्रजापतये प्रजानामुत्पादयित्रे प्रतिप्रवेदय प्रतिबोधय । हे पशो स चिकित्वान् एतज्ज्ञातवान् अनुमन्यतां त्वदालम्भनमनुजानातु । यद्वा - चिकित्वान् सर्वार्थज्ञः । कित ज्ञाने, छान्दसस्य लिटः क्वसुरादेशः, 'दीर्घादटि समानपादे' इति रुत्वम् ॥
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -291,6 +300,14 @@ may the god Agni, Prajāpati, in concord with offspring, release them in the beg
 
 ये बध्यमानमनुबध्यमाना अन्वैक्षन्त मनसा चक्षुषा च।  
 अग्निष्टाँ अग्रे प्रमुमोक्तु देवः प्रजापतिः प्रजया संविदानः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+ये बध्यमानम् अनु दीध्याना +++(Bhatt. dīdhyānāṃ)+++  
+अन्वैक्षन्त मनसा चक्षुषा च ।  
+अग्निष् टान् अग्रे प्र मुमुक्त देवः  
+प्रजापतिः प्रजया संविदानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

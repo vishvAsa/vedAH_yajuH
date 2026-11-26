@@ -18,6 +18,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Divine slaughterers and human, begin!  
+Bring near to the doors \[the victim\] fit for sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैव्या॑श्शमितार उ॒त म॑नुष्या॒ आर॑भध्वम् ।  
@@ -40,6 +46,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+promising sacrifice to the two lords of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +76,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Agni forward for it!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रास्मा॑ अ॒ग्निम्भ॑रत ।   
@@ -87,6 +103,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Strew the sacrificial grass!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +134,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May its mother consent to it,  
+may its father \[consent\],  
+may its brother of the same womb \[consent\],
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +169,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may its friend of the same herd \[consent\].  
+Place its feet facing northward!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒दी॒चीनाँ॑ अस्य प॒दो निध॑त्तात् ॥13॥  
@@ -165,6 +199,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Send its eye to the sun;  
+release its exhalation to the wind,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वात॑म्प्रा॒णम॒न्वव॑सृजतात् ।   
@@ -187,6 +227,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+its ear to the quarters,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -211,6 +256,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+its life-spirit to the intermediate space,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्ष॒मसु॑म्।
@@ -233,6 +283,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+its body to the earth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -257,6 +312,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cut off its skin in a single piece;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धाऽस्य॒ त्वच॒माच्छ्य॑तात् ।   
@@ -279,6 +339,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+before the navel is cut open, tear out the omentum;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -303,6 +368,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+keep the heat within it;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरे॒वोष्माणव्ँ॑ वारयतात् ।   
@@ -325,6 +395,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+make its breast an eagle,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +424,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+its two forelegs two wings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒शसा॑ बा॒हू॥14॥
@@ -371,6 +451,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+its forearms two shafts,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -395,6 +480,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+its shoulders like tortoises,
+</details>
+
 <details><summary>मूलम्</summary>
 
 क॒श्यपे॒वाँसा॑।
@@ -417,6 +507,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+its hips unbroken,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -441,6 +536,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+its thighs curved, its kneecaps shaped like oleander leaves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क॒वषो॒रू स्रे॒कप॑र्णाष्ठी॒वन्ता॑।
@@ -463,6 +563,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twenty-six are its ribs;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -487,6 +592,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+remove them in their proper order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॑नु॒ष्ठ्योच्च्या॑वयतात् ।   
@@ -509,6 +619,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+make limb after limb of it complete.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +648,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dig an earthly pit to hide the stomach-contents;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒व॒ध्य॒गो॒हम्पार्थि॑वङ्खनतात् ।   
@@ -555,6 +675,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+unite the demon with the blood;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -579,6 +704,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+do not tear its entrails,
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒नि॒ष्ठुम॑स्य॒ मा रा॑विष्ट ॥15॥  
@@ -601,6 +731,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thinking \[them\] an owl,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +760,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+lest any sounder sound among your children and offspring,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नेद्व॑स्तो॒के तन॑ये॒ रवि॑ता॒ रव॑त् ।
@@ -647,6 +787,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O slaughterers.  
+O Adhrigu, perform the work!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +819,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Perform the work well!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒शमि॑ शमीध्वम् ।
@@ -696,6 +847,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Perform the work, O Adhrigu!
+</details>
+
 <details><summary>मूलम्</summary>
 
 श॒मी॒ध्वम॑ध्रिगो ।   
@@ -718,6 +874,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Adhrigu and Apāpa  
+are the two slaughterers of the gods.  
+May those two, fully knowing, cook this domestic animal,  
+strictly according to its cooking.
+</details>
 
 <details><summary>मूलम्</summary>
 

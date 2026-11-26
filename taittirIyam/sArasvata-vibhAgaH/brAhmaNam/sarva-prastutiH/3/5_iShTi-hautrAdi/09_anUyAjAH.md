@@ -12,6 +12,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine sacrificial grass  
+go for the winning of wealth, to the making of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिः ।  
@@ -41,6 +47,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Narāśaṃsa  
+go for the winning of wealth, to the making of wealth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +122,15 @@ true in thought, sacrificing, a Hotṛ better at sacrificing than any Hotṛ:
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, the gods to whom you have sacrificed,  
+whom you have gratified,  
+who have rejoiced in your Hotṛ-offering:  
+through that successful, god-reaching Hotṛ-offering,  
+speed this sacrifice to the gods in heaven!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॒ यान्दे॒वानया॑ट् ।  
@@ -137,6 +158,11 @@ true in thought, sacrificing, a Hotṛ better at sacrificing than any Hotṛ:
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And, O Agni, you have become the Sviṣṭakṛt Hotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वि॒ष्ट॒कृच्चाग्ने॒ होताऽभूः॑ ।  
@@ -160,6 +186,11 @@ true in thought, sacrificing, a Hotṛ better at sacrificing than any Hotṛ:
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+at the utterance of homage, go for the winning of wealth, to the making of wealth!
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -336,6 +336,16 @@ Ich habe dich hierher gebracht, sei hier, nicht wankend stehe fest; Lieb sollst 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that goddess, easily invoked, grant us protection.  
+I have brought you hither; you have stepped inside;  
+stand firm, unshakeable;
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/05_dhruvA_dyaur.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -425,6 +435,17 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let all the clans desire you;  
+let not the kingdom fall away from you.  
+Firm is the sky, firm is the earth,  
+firm is this entire world;
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/08_ihaivaidhi_mA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -480,6 +501,14 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 इ॒ह रा॒ष्ट्रमु॑ धारय ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इहैवैधि माप च्योष्ठाः  
+पर्वत इवाविचाचलत् । +++(Bhatt. ivāvicācaliḥ)+++  
+इन्द्रेह ध्रुवस् तिष्ठ-  
+-इह राष्ट्रं नि धारय ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒ह। ए॒व। ए॒धि॒। मा। अप॑। च्यो॒ष्ठाः॒। पर्व॑तःऽइव। अवि॑ऽचाचलत्। इन्द्रः॑ऽइव। इ॒ह। ध्रु॒वः। ति॒ष्ठ॒। रा॒ष्ट्रम्। ऊं॒ इति॑। धारय। ८७.२।
@@ -523,6 +552,16 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+firm indeed are these mountains;  
+firm is this king of the clans.  
+Be right here, do not waver,
+
+Unshakeable like a mountain;  
+like Indra, stand firm here;
+</details>
+
 <details><summary>English</summary>
 
 Grow right here, don't be distressed.  
@@ -548,6 +587,14 @@ Bear the nation here.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/12_abhitiShTha_pRtanyataH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and maintain the kingdom here.  
+Trample upon those who fight against you;  
+let your enemies be beneath \[you\];  
+stand like Indra, the slayer of Vṛtra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भिति॑ष्ठ पृतन्य॒तः ।
@@ -591,6 +638,15 @@ Thoroughly winning (their) deeds and lands.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_20-24_A_tvA_hArSham/16_indra_eNam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+winning waters and fields.  
+Indra has held him firm,  
+with a firm oblation;  
+to him have the gods spoken favor,  
+and this Brahmaṇaspati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ एणमदीधरत् ।

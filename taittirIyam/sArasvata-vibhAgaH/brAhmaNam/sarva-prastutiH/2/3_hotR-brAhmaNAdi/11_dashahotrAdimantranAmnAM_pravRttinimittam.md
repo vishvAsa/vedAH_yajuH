@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The brahman created an embodied form.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मा॑त्म॒न्वद॑सृजत ।
@@ -38,6 +43,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It desired:  
+‘May I be united with myself.’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -82,6 +93,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It called out: ‘O self! O self!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
@@ -99,6 +115,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Called a tenth time, \[one\] answered it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -130,6 +151,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He became Daśahūta.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स दश॑हूतोऽभवत् ।
@@ -147,6 +173,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Daśahūta, indeed, is his name.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -180,6 +211,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being indeed Daśahūta,  
+they cryptically call him Daśahotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वा ए॒तन्दश॑हूतँ॒ सन्त॑म् ।  
@@ -198,6 +235,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the gods love the cryptic, as it were.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -222,6 +264,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It called out: ‘O self! O self!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
@@ -239,6 +286,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Called a seventh time, \[one\] answered it.  
+He became Saptahūta.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -258,6 +311,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Saptahūta, indeed, is his name.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स स॒प्तहू॑तोऽभवत् ।
@@ -275,6 +333,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being indeed Saptahūta,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -295,6 +358,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they cryptically call him Saptahotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वा ए॒तँ स॒प्तहू॑तँ॒ सन्त॑म् ।  
@@ -314,6 +382,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the gods love the cryptic, as it were.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
@@ -331,6 +404,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It called out: ‘O self! O self!’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -350,6 +428,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Called a sixth time, \[one\] answered it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मै॑ ष॒ष्ठँ हू॒तᳶ प्रत्य॑शृणोत् ।
@@ -368,6 +451,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He became Ṣaḍḍhūta.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स षड्ढू॑तोऽभवत् ॥48॥
@@ -385,6 +473,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ṣaḍḍhūta, indeed, is his name.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -405,6 +498,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being indeed Ṣaḍḍhūta,  
+they cryptically call him Ṣaḍḍhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वा ए॒तँ षड्ढू॑तँ॒ सन्तं॒ "षड्ढो॒ते"त्याच॑क्षते प॒रोक्षे॑ण ।
@@ -422,6 +521,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the gods love the cryptic, as it were.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -441,6 +545,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It called out: ‘O self! O self!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्म॒न्नात्म॒न्नित्याम॑न्त्रयत ।
@@ -458,6 +567,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Called a fifth time, \[one\] answered it.  
+He became Pañcahūta.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -477,6 +592,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pañcahūta, indeed, is his name.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स पञ्च॑हूतोऽभवत् ।
@@ -494,6 +614,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being indeed Pañcahūta,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -514,6 +639,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they cryptically call him Pañcahotṛ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वा ए॒तम्पञ्च॑हूतँ॒ सन्त॑म् ।  
@@ -533,6 +663,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the gods love the cryptic, as it were.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒रोक्ष॑प्रिया इव॒ हि दे॒वाः ।
@@ -550,6 +685,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It called out: ‘O self! O self!’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -569,6 +709,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Called a fourth time, \[one\] answered it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मै॑ चतु॒र्थँ हू॒तᳶ प्रत्य॑शृणोत् ।
@@ -587,6 +732,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He became Caturhūta.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स चतु॑र्हूतोऽभवत् ।
@@ -604,6 +754,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Caturhūta, indeed, is his name.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -640,6 +795,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being indeed Caturhūta,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वा ए॒तञ्चतु॑र्हूतँ॒ सन्त॑म् ।
@@ -657,6 +817,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they cryptically call him Caturhotṛ;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +845,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the gods love the cryptic, as it were.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -733,6 +903,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It said to him:  
+‘You indeed, when called, answered me most closely;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम॑ब्रवीत् ।
@@ -775,6 +951,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through you these shall be named.’  
+Therefore people now call them Caturhotṛs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒न्नु है॑नाँ॒श्चतु॑र्होतार॒ इत्याच॑क्षते ।
@@ -803,6 +985,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore among sons, the one who is obedient is dearest;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑च्छुश्रू॒षुᳶ पु॒त्राणाँ॒ हृद्य॑तमः ।
@@ -825,6 +1012,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the closest is dearest.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -850,6 +1042,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus  
+becomes closest to the brahman.
+</details>
 
 <details><summary>मूलम्</summary>
 

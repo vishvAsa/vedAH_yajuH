@@ -509,6 +509,15 @@ The guardians of the world make us to swell.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two of different form, of one mind, clothing themselves together,  
+who stretch around the common thread,
+</details>
+</details>
+
 ## अहोरात्रे
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -533,6 +542,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the pervasive, the potent, the conforming, I call from every side;  
+may those two lunar mansions come to our call!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये विरू॑पे॒ सम॑नसा सव्ँ॒ व्यय॑न्ती ।  
@@ -565,6 +580,13 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+We, being in accord with the goddess through brahman,  
+rich in jewels, presenting the feast for the gods,  
+increasing day and night with oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒यन्दे॒वी ब्रह्म॑णा सव्ँ विदा॒नाः ।     
@@ -608,6 +630,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we pass beyond evil through deliverance!  
+Lo, she has been seen approaching,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  
@@ -641,6 +669,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+shining forth, the daughter of heaven;  
+the great one uncovers the waters with her eye.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ।  
@@ -686,6 +720,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The noble one makes light out of darkness;  
+the sun accompanies the reddish dawn-rays;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  
@@ -720,6 +760,11 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+rising together with them, the radiant lunar mansion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र नक्ष॑त्राय दे॒वाय॑ ।  
@@ -1194,6 +1239,11 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 ## सूर्यः
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we attain our share!
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -1752,6 +1802,11 @@ Let Aditi give us protection,
 Let Aditi guard us from tribulation.
 </details>
 
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the brilliant fiery energy rising up,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2547,6 +2602,14 @@ víśvā ← víśva- (nominal stem)
 
 प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.6.10)+++प्र तद् विष्णु स्तवते वीर्याणि  
+मृगो न भीमः कुचरो गिरिष्ठाः ।  
+यस्योरुषु त्रिषु विक्रमणेष्व्  
+अधिक्षियन्ति भुवनानि विश्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4224,6 +4287,15 @@ A joy to the giver.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“Here Viṣṇu…”, “Forth that Viṣṇu…”  
+“Agni is head…”, “Bhūḥ…”
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -4510,6 +4582,13 @@ Favor that well-offered [rite], O Agni,
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+overcome all hostiles, O god;  
+shine out, showing us the broad path;  
+grant us luminous, unaging \[life\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वि॑ष्टमग्ने अ॒भि तत्पृ॑णाहि ।  

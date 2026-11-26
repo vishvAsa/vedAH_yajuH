@@ -373,6 +373,15 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father of luminous bodies, the bull of riches,  
+omniform entered the intermediate space.  
+They revere that calf with praises,  
+magnifying him who is brahman with brahman.  
+Brahman generated the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒ता वि॒राजा॑मृष॒भो र॑यी॒णाम् ।  
@@ -413,6 +422,13 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+brahman \[generated\] this whole world;  
+from brahman regal power was fashioned;  
+brahman is the Brahmin by himself;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दे॒वान॑जनयत् ।  
@@ -453,6 +469,16 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+within it are these worlds;
+
+within it is this whole world;  
+brahman alone is the eldest of beings;  
+who is able to contend with it?  
+In brahman are the thirty-three gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑स्मिन्नि॒मे लो॒काः ॥ 67 ॥  
@@ -493,6 +519,14 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in brahman are Indra and Prajāpati;  
+in brahman indeed all beings  
+are held together as within a ship.  
+Let the four fires proceed to the quarters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑न्दे॒वास्त्रय॑स्त्रिँशत् ।  
@@ -533,6 +567,14 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+knowing \[the way\], let him lead this sacrifice of ours,  
+swelling with ghee, unaging, rich in heroes.
+
+Brahman becomes the kindling-stick of the oblations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   

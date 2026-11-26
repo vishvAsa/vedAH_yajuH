@@ -20,6 +20,19 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are Mitra, you are Varuṇa.  
+I \[am united\] with all the gods.  
+You are the navel of regal power;  
+you are the womb of regal power.  
+Sit down on the comfortable \[seat\];  
+sit down on the easy-to-sit-on \[seat\].  
+May it not harm you;  
+may it not harm me.  
+Varuṇa, whose ordinances are steadfast,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रो॑ऽसि॒ वरु॑णोऽसि ।  
@@ -52,6 +65,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+has sat down among the dwellings,
+
+well-disposed for universal sovereignty.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +106,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the impulse of the divine Savitṛ,  
+with the arms of the Aśvins,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्यो॒नामा सी॑द ।  
@@ -110,6 +136,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the hands of Pūṣan,  
+with the healing power of the Aśvins,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -737,6 +769,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the hands of Pūṣan,  
+with the healing power of Sarasvatī,
+</details>
+
 <details><summary>मूलम्</summary>
 
 को॑ऽसि कत॒मो॑ऽसि ।  
@@ -769,6 +807,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I perform your royal unction for heroic power, for the eating of food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुश्लो॒काँ (4) सुम॑ङ्ग॒लाँ (4) सत्य॑रा॒जा३न् ।  
@@ -800,6 +843,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the impulse of the divine Savitṛ,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिरो॑ मे॒ श्रीः ॥22॥  
@@ -822,6 +870,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the arms of the Aśvins,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -846,6 +899,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the hands of Pūṣan,  
+with the sensory power of Indra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्विषि॒ᳵ केशा॑श्च॒ श्मश्रू॑णि ।  
@@ -868,6 +927,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I perform your royal unction for glory, for fame, for strength.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -892,6 +956,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Who are you? Which one are you?
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्राट्चक्षुः॑ ।  
@@ -914,6 +983,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whom are you? For what are you?
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -938,6 +1012,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having good renown, highly auspicious, true kings!
+</details>
+
 <details><summary>मूलम्</summary>
 
 जि॒ह्वा मे॑ भ॒द्रम् ।  
@@ -960,6 +1039,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+My head is majesty;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -984,6 +1068,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+fame is my face;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनो॑ म॒न्युः ।  
@@ -1007,6 +1096,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+brilliance are my head-hair and whiskers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॒राड्भामः॑ ।  
@@ -1029,6 +1123,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the King is my immortal exhalation;  
+the universal sovereign is my sight;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1054,6 +1154,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the all-ruler is my hearing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्तम्मे॒ सहः॑ ।  
@@ -1078,6 +1183,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+my tongue is auspiciousness;  
+speech is greatness;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बा॒हू मे॒ बल॑मिन्द्रि॒यम् ।  
@@ -1100,6 +1211,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+mind is wrath;  
+self-ruler is wrathful glow;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,6 +1241,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+pleasures and delight are my fingers and limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मा क्ष॒त्रमुरो॒ मम॑ ।  
@@ -1146,6 +1268,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+My thought is overpowering force;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1172,6 +1299,13 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+my arms are power and sensory faculty;  
+my hands are ritual action and heroic power;  
+my self is regal power, my chest \[its domain\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1336,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+My back-ribs are the realm, my belly, my shoulders, neck, and hips;  
+my thighs, forearms, knees;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभि॑र्मे चि॒त्तव्ँ, वि॒ज्ञान॑म् पा॒युर्, मेऽप॑चितिर् भ॒सत् ।
@@ -1225,6 +1365,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the clans are my limbs on every side;  
+my navel is thought and discernment;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1258,6 +1404,14 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+my anus is reverence, my buttocks \[respect\].
+
+Pleasure and joy are my two testicles;  
+portion and good fortune are my penis;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1299,6 +1453,12 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 [^egg_642]: 254:4 That is, when the throne-seat has been lowered again, he rises from it and stands on the deer-skin.
 
 [^egg_643]: 254:5 The function of 'prati' here seems to be to strengthen the preposition in the verb 'prati-tishṭḥāmi.'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by my shanks and feet I am sacred order,  
+the king firmly established among the clan.
 </details>
 
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
@@ -1365,6 +1525,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In regal power he is established, in the realm;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।
@@ -1388,6 +1553,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am firmly established among horses, firmly established among cattle;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1413,6 +1583,14 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am firmly established in the limbs, in the self;  
+I am firmly established in the vital breaths, in nourishment;  
+in heaven and earth;  
+I am firmly established in the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1455,6 +1633,18 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods, three times eleven,  
+thirty-three, bountiful,  
+with Bṛhaspati as their domestic priest,  
+at the impulse of the god Savitṛ,  
+may the gods help me with the gods:  
+the first with the second,  
+the second with the third,  
+the third with truth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र॒या दे॒वा एका॑दश ।  
@@ -1492,6 +1682,19 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+truth with sacrifice,  
+the sacrifice with yajus formulas,
+
+the yajus formulas with sāmans,  
+the sāmans with verses,  
+the verses with offering-verses,  
+the offering-verses with vaṣaṭ-calls,  
+the vaṣaṭ-calls with oblations.  
+May the oblations fulfill my desires.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1531,6 +1734,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhūḥ, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूस्स्वाहा॑ ।  
@@ -1562,6 +1770,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+My hairs are striving forth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोमा॑नि॒ प्रय॑ति॒र्मम॑ ।  
@@ -1584,6 +1797,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+my skin is bowing down, coming forth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1608,6 +1826,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+my flesh is submission;
+</details>
+
 <details><summary>मूलम्</summary>
 
 माँ॒सम्म॒ उप॑नतिः ।  
@@ -1631,6 +1854,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+wealth is my bone;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस्वस्थि॑ ।  
@@ -1653,6 +1881,11 @@ In seinem Palast sitzet er, Gesetz beschirmend Varuna, Zur Herrschaft der allmä
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+my marrow is bowing down.
+</details>
 
 <details><summary>मूलम्</summary>
 

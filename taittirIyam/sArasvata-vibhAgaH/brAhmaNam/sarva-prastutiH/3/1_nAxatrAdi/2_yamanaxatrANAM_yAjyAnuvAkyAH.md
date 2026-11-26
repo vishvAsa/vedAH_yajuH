@@ -28,6 +28,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching with homage, may we prosper through oblations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्नम॑सोप॒सद्य॑ ।  
@@ -63,6 +68,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let the god Mitra become our alliance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रन्नक्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
@@ -101,6 +111,14 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Strengthening the Anūrādhas with an oblation,
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/15_anurAdhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -128,6 +146,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we live a hundred autumns,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति ।   
@@ -163,6 +186,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessing heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑ ।  
@@ -201,6 +229,14 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The splendid lunar mansion has risen in the east,
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/16_jyeShThA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -232,6 +268,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+which they call the Anūrādhas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  
@@ -265,6 +306,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/06_aharno_adya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+through it Mitra walks along the paths of the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   
@@ -292,6 +338,14 @@ unicode_script = "devanagari"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+golden
+</details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/17_mUlam/">
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -325,6 +379,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/07_yA_divyA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and spread wide in the midspace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   
@@ -359,6 +418,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra follows the lunar mansion Jyeṣṭhā,
+</details>
+
 <details><summary>मूलम्</summary>
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   
@@ -427,6 +491,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्नो॒ विश्वे॒ उप॑शृण्वन्तु दे॒वाः ।  
@@ -461,6 +530,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+which he overcame Vṛtra in the battle
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स्सु॒पेश॑सः ।   
@@ -498,6 +572,14 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for Vṛtra.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/19_aShADhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -524,6 +606,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Milking immortality in it,  
+may we cross over hunger, misery, and poor sacrifice.  
+For the fortress-destroyer, the bull, the daring,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒त्सर्व॑मे॒तत् ।   
@@ -559,6 +648,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the unconquered, the victorious, the bounteous,  
+for Indra, may Jyeṣṭhā, milking sweetness,  
+make wide space for the sacrificer.  
+May I attain Mūla, offspring possessing heroes;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  
@@ -592,6 +689,16 @@ unicode_script = "devanagari"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let Nirṛti go far away, departing.  
+Anointed with cows and domestic animals, may the lunar mansion  
+become day for me, the sacrificer.
+</details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_abhijit/">
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -627,6 +734,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May it place us today in auspicious fortune,  
+the lunar mansion that they call Mūla;  
+with speech I drive Nirṛti far away;  
+may there be blessing for offspring, blessing for me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम् ।  
@@ -662,6 +777,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine waters that arose with milk,  
+those in the midspace and those belonging to the earth,  
+whose desire the Aṣāḍhās pursue,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   
@@ -699,6 +821,16 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may those waters be peaceful and pleasant to us;  
+both those from wells and those from streams, from the sea,  
+those belonging to ponds and those flowing forth,
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/20_shroNA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -730,6 +862,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose sweetness the Aṣāḍhās consume:  
+may those waters be peaceful and pleasant to us.  
+May all the gods listen to this for us;  
+may the Aṣāḍhās come unto that sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  
@@ -764,6 +904,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that lunar mansion extend itself for domestic animals;  
+may plowing and rain be ready for the sacrificer.  
+Bright maidens, youthful, richly ornamented,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  
@@ -801,6 +948,16 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+performing deeds, doing good works, possessing heroic power,  
+strengthening all the gods with an oblation,  
+let the Aṣāḍhās approach the sacrifice according to desire.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/21_shraviShThA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -833,6 +990,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+In which the brahman conquered all this—  
+both yonder world and all of this;  
+having conquered, may that lunar mansion Abhijit
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  
@@ -868,6 +1032,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+grant fortune to us, being unangered.  
+Both these worlds are completely conquered by the brahman;  
+may that lunar mansion Abhijit look upon that for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्नो॒ राजा॒ वरु॑ण॒ उप॑यातु ।   
@@ -905,6 +1076,17 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it may we conquer armies;  
+may the gods grant that desire to us.  
+They hear Śroṇā, the protector of immortality;  
+I listen to her holy voice.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/22_shatabhiShA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -939,6 +1121,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great goddess, the ageless wife of Viṣṇu,  
+turned toward us, we worship her with an oblation.  
+Threefold Viṣṇu of wide stride stepped out:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त् ।  
@@ -973,6 +1162,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the great sky, the earth, the midspace.  
+Unto that Śroṇā goes, desiring fame,  
+making a holy renown for the sacrificer.  
+The eight divine Vasus, belonging to Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   
@@ -1011,6 +1208,16 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the four goddesses, the ageless Śraviṣṭhās:  
+may they protect the sacrifice from beyond the realm of air,  
+safe, immortal, through the entire year.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/23_proShThapadaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -1044,6 +1251,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Vasus protect our sacrifice from the east;  
+from the south may the Śraviṣṭhās approach.  
+May we enter into the holy lunar mansion;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  
@@ -1078,6 +1292,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let no malevolence, chanting evil, come upon us.  
+Varuṇa is the king, the overlord of regal power;  
+Śatabhiṣaj is the most excellent among lunar mansions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒त्वार॒ एक॑म॒भिकर्म॑ दे॒वाः ।   
@@ -1115,6 +1336,17 @@ unicode_script = "devanagari"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Both of them establish long lifespan for the gods;  
+they grant a hundred, a thousand remedies.  
+May king Varuṇa come unto our sacrifice;  
+may all the gods assemble here for that.
+</details>
+</details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/24_proShThapadaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -1154,6 +1386,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that lunar mansion Śatabhiṣaj, being pleased with us,  
+prolong long lifespan \[and\] remedies.  
+Aja Ekapād has risen in the east,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म् ।   
@@ -1188,6 +1427,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+greeting all beings with joy.  
+All the gods follow his impulse,  
+the Proṣṭhapadās, the protectors of immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षु॒द्रान्प॒शून्र॑क्षतु रे॒वती॑ नः ।    
@@ -1222,6 +1468,17 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Blazing, ignited, fierce,  
+he mounted the midspace, he attained the sky;  
+that god, the sun, Aja Ekapād,  
+all the Proṣṭhapadās follow.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/25_revatI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -1255,6 +1512,13 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ahi Budhnya goes spreading out,  
+the best of gods and of mortals.  
+Him the soma-drinking Brahmins, worthy of Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   
@@ -1290,6 +1554,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Proṣṭhapadās, all protect.  
+Four gods for a single work,  
+those whom they call the Proṣṭhapadās:  
+praising the Budhnya who sits in council,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  
@@ -1327,6 +1599,16 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they protect the serpent, approaching with homage.  
+Pūṣan and Revatī follow the path,  
+masters of nourishment, protectors of cattle, whose dwelling is prize-wealth.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/26_ashvinI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -1356,6 +1638,15 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Enjoying these offered oblations,  
+may they come unto our sacrifice with easy-going conveyances.  
+May Revatī protect our small domestic animals;  
+may Pūṣan follow our cows and horses.  
+Guarding food of many various kinds,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।   
@@ -1390,6 +1681,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they grant prize-wealth and sacrifice to the sacrificer.  
+May the Aśvins approach that with the Aśvayujas,  
+foremost in going to beauty with well-guided horses,  
+worshiping their own lunar mansion with an oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्नक्ष॑त्रे य॒म एति॒ राजा॑ ।  
@@ -1438,6 +1737,14 @@ unicode_script = "devanagari"
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+united with sweetness, anointed with sacrificial formula.
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/27_bharaNI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -1470,6 +1777,14 @@ Holder and gatherer of riches,
 Clad in all rich forms,  
 Granting a thousandfold prosperity,  
 The fortunate one hath come to us with radiance accordant [1].
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two who are the physicians of the gods, the bearers of oblations,  
+the messengers of everything, the guardians of immortality—  
+let those two, rejoicing in their lunar mansion, come hither.  
+Homage we pay to the Aśvins, the Aśvayujas!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1568,6 +1883,14 @@ ________________
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the Bharaṇīs carry away evil!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1576,3 +1899,18 @@ ________________
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let King Yama, the fortunate, behold that.  
+King of the realm, great indeed among the great,  
+let him make our path easy to travel and free of fear.  
+In which lunar mansion King Yama goes,  
+in which the gods anointed him \[with royal unction\],  
+that wondrous \[place\] of his let us worship with oblation.  
+Let the Bharaṇīs carry away evil!  
+The abiding place which the gods established for you—
+</details>
+</details>

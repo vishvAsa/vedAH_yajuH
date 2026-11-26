@@ -23,6 +23,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Enclose, enclose the fire all around;  
+enclosed, let Agni protect the sacrificer.  
+The sap of the waters, the golden essence of the plants,  
+may these golden ornaments of the sacrificer yield all wishes,  
+yonder in that other world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परि॑स्तृणीत॒ परि॑धत्ता॒ग्निम् ।  
@@ -60,6 +69,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O lord of the earth, lord of the world,  
+lord of the great being,  
+we choose you as the brahman-priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूप॑ते॒ भुव॑नपते ।  
@@ -95,6 +111,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am the lord of the earth, I am the lord of the world,  
+I am the lord of the great being.
+
+Impelled by the divine Savitṛ, I shall perform the office of ṛtvij.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हम्भूप॑तिर॒हम्भुव॑नपतिः ।  
@@ -121,6 +145,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O divine Savitṛ, they choose this one: you,  
+Bṛhaspati, as the divine brahman-priest.  
+That I proclaim to the mind;  
+the mind to the Gāyatrī;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -156,6 +188,17 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Gāyatrī to the Triṣṭubh;  
+the Triṣṭubh to the Jagatī;  
+the Jagatī to the Anuṣṭubh;  
+the Anuṣṭubh to the Paṅkti;  
+the Paṅkti to Prajāpati;
+
+Prajāpati to the All-Gods;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -193,6 +236,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the All-Gods to Bṛhaspati;  
+Bṛhaspati to brahman;  
+brahman: bhūr, bhuvaḥ, suvaḥ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑र्दे॒वाना॑म्ब्र॒ह्मा ।  
@@ -216,6 +266,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati is the brahman-priest of the gods;  
+I of men.  
+O Bṛhaspati, protect the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -250,6 +307,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I make this dwelling for him  
+who among you, O gods, practices studenthood of sacred lore,  
+wise, endowed with austerities, with his mind in the quarters of space.
+
+As a messenger, he moves within human females;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -287,6 +353,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the maiden with four locks of hair, beautifully adorned,  
+with ghee-anointed face in the middle of the world,  
+grooming herself for great good fortune:  
+yield desires to me, the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -327,6 +401,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Becoming the earth, she nourished greatness;  
+thence the goddess increases milk;  
+worthy of sacrifice, they diverge and converge at the sacrifice,  
+the plants, waters, and mighty verses here.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूमि॑र्भू॒त्वा म॑हि॒मान॑म्पुपोष ।  
@@ -363,6 +445,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever \[hates\] me with heart, with mind, and whoever with speech,
+
+whoever hates the gods with sacred lore or with rite,  
+and whoever through sacred study or by an eager heart:  
+I sever his head with Indra's vajra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +492,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soft as wool, spreading out, comfortable,  
+the sacrificial grass acceptable to the gods to sit upon:  
+do establish the sacrificer in the heavenly realm,  
+and me upon the back of the firmament in the highest heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्णा॑मृदु॒ प्रथ॑मानँ स्यो॒नम् ।  
@@ -438,6 +537,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The maiden with four locks of hair, beautifully adorned,  
+with ghee-anointed face, clothes herself in forms;  
+she, being strewn for great good fortune,
+
+yield desires to me, the sacrificer!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑श्शिखण्डा युव॒तिस्सु॒पेशाः॑ ।  
@@ -468,6 +576,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be propitious and helpful to me;  
+be gentle and easy to sit upon for me;  
+be full of vigor and full of milk for me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वा च॑ मे श॒ग्मा चै॑धि ।  
@@ -496,6 +611,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+swell refreshment and vigor for me;  
+swell spiritual preeminence and fiery energy for me;  
+swell regal power and splendorous might for me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इष॒मूर्ज॑म्मे पिन्वस्व ।  
@@ -522,6 +644,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+swell the common people and nourishment for me;  
+swell lifespan and proper food for me;  
+swell offspring and domestic animals for me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -558,6 +687,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At this sacrifice now, for further \[welfare\] for me,  
+for non-commotion, I lay down the enclosing sticks.  
+Upholder, foundation, strong upholder,  
+may Agni expel hatreds from here.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -596,6 +733,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the two separating sticks I sever the rivals,  
+born enemies and those yet to be born.  
+With the two controllers of the common people I blow them away;  
+may I be highest among my own people, O gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विच्छि॑नद्मि॒ विधृ॑तीभ्याँ स॒पत्ना॑न् ।  
@@ -625,6 +770,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two controllers of the common people, driving away enmity,  
+\[driving away\] all evil, distress, and the one who wishes to kill,
+
+sitting, divine, in the world of good deeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒शो य॒न्त्रे नु॒दमा॑ने॒ अरा॑तिम् ।  
@@ -652,6 +805,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two are support, separation, self-supported;  
+uphold the exhalations in me;  
+uphold offspring in me;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +849,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+uphold domestic animals in me.  
+This prastara-bunch is the upholder of both,  
+upholder of fore-offerings and of after-offerings;  
+it has upheld fuel sticks of every form;  
+upon it I place the offering ladles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्प्र॑स्त॒र उ॒भय॑स्य ध॒र्ता ।  
@@ -725,6 +894,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount the paths leading to the gods, O juhu ladle!
+
+Where the ancient first-born seers are,  
+golden-winged, swift, of complete limbs,  
+convey me where the worlds of the virtuous are.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -841,6 +1019,15 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever seeks my death with speech, with mind,  
+or plots against me with his heart, who assails \[me\], O Agni—
+
+subordinate to the dhruvā spoon is this intention of his.  
+May I be superior;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मा॑ वा॒चा मन॑सा दुर्मरा॒युः ।  
@@ -877,6 +1064,14 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may my rivals be beneath me.  
+You are the mighty bull,  
+son of the butter-flowing \[ladles\].  
+Sit in your dear seat with your dear name;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +1110,14 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+sit kindly for me, easy to sit upon on the earth.  
+Extend \[me\] with offspring, with domestic animals, in the heavenly realm;  
+sit in heaven, on earth, in the intermediate space.  
+May I be superior;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्यो॒नो मे॑ सीद सु॒षद॑ᳶ पृथि॒व्याम् ।  
@@ -952,6 +1155,14 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may my rivals be beneath me.  
+This pot is full of ghee,  
+a fountain of a hundred streams with unceasing milk.  
+With divine shelter through the Maruts,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यँ स्था॒ली घृ॒तस्य॑ पू॒र्णा ।  
@@ -987,6 +1198,13 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are the sacrifice, supported on every side;  
+may what has been and what will be support me on every side.  
+May a hundred blessings be mine;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो॑ऽसि स॒र्वत॑श्श्रि॒तः ।  
@@ -1012,6 +1230,12 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may a thousand pleasant words be mine,  
+full of refreshments, full of domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1040,6 +1264,16 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are Prajāpati, supported on every side;
+
+may what has been and what will be support me on every side.  
+May a hundred blessings be mine;  
+may a thousand pleasant words be mine,  
+full of refreshments, full of domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1080,6 +1314,14 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the immortal, potent heroic power;  
+by this, the domestic animals were discerned for Indra.  
+Thereby, O gods, favor me.  
+Here may I win refreshment, vigor, glory, victorious power, and splendorous might.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दमि॑न्द्रि॒यम॒मृतव्ँ॑ वी॒र्य॑म् ।  
@@ -1119,6 +1361,16 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May what is cooked rest in me;  
+that which moved over the earth has entered it.
+
+Wherewith Prajāpati poured strength into Indra,  
+this is that bright, prize-winning sweetness;  
+wherewith he pleased Mahendra from above,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पृ॑थि॒वीमच॑र॒त्तत्प्रवि॑ष्टम् ॥66॥  
@@ -1157,6 +1409,15 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the curds please me.  
+This sacred broom found the earth,  
+which was hidden in the deep, in recesses;  
+may it find a world for the sacrificer;  
+may it of manifold actions make the sacrifice free from defect.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यव्ँ वे॒दᳶ पृ॑थि॒वीमन्व॑विन्दत् ।  
@@ -1194,6 +1455,15 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This sacrifice, possessing oblations, has taken its place,  
+with the Ṛg verse, the Sāman, the Yajus, and with the deities.
+
+Thereby may we conquer the sunlit worlds;  
+may I attain friendship with Indra and immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यय्ँ य॒ज्ञस्सम॑सदद्ध॒विष्मा॑न् ।  
@@ -1230,6 +1500,14 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever here would wish for us less,  
+for me the sacrificer in this sacrifice,  
+may Indrāgnī thrust him away from this world.  
+May I find offspring rich in heroes.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1269,6 +1547,17 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, winner of the prize,  
+thee who art about to run for the prize,  
+who art about to conquer the prize,  
+the prize-seeking winner of the prize,
+
+for winning the prize I wipe down;  
+Agni, the eater of food, for the eating of food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1312,6 +1601,16 @@ May I become the highest; may my rivals be beneath!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked is Father Sky;  
+may Father Sky invoke me;  
+Agni from the Agnīdhra fire,  
+for lifespan, spiritual preeminence, life-sustenance, and holiness.  
+Invoked is Mother Earth;  
+may Mother Earth invoke me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूतो॒ द्यौᳶ पि॒ता ।  
@@ -1342,6 +1641,14 @@ May I become the highest; may my rivals be beneath!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni from the Agnīdhra fire,
+
+for lifespan, spiritual preeminence,  
+for life-sustenance, and holiness.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1444,6 +1751,16 @@ May the All-gods rejoice herein.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May mind, the light, relish the clarified butter;  
+may it put together this broken sacrifice;  
+may Bṛhaspati extend this \[sacrifice\] of ours;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1461,6 +1778,13 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the All-gods rejoice here.  
+Whomever, O Agni, I cut off,  
+or if I, being injured, wander about,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1490,6 +1814,15 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+both his offspring and his root  
+do you, O gods, cut off downward.
+
+O Agni, whoever assails us,  
+whether a kinsman or an outsider,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1521,6 +1854,14 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+like burning firewood,  
+may nothing of him remain.  
+Whoever hates me, O Jātavedas,  
+and whom I hate and who \[hates\] me,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1560,6 +1901,19 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+burn them all completely, O Agni,  
+those whom I hate and who \[hate\] me.  
+O Agni, winner of the prize,  
+thee who hast run for the prize,
+
+who hast conquered the prize,  
+the prize-seeking winner of the prize,  
+for winning the prize I wipe down;  
+Agni, the eater of food, for the eating of food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1602,6 +1956,15 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The altar, the sacrificial grass, the cooked oblation,  
+the firewood, the enclosure sticks, the spoons,  
+the clarified butter, the sacrifice, the Ṛg verses, the Yajus,  
+the offering verses and the vaṣaṭ-calls—  
+may my compliances bend together for me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदि॑र्ब॒र्हिश्शृ॒तँ ह॒विः ।  
@@ -1643,6 +2006,18 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when the cord binding the firewood is offered.
+
+A peg of heaven driven down,  
+arisen from the earth,  
+with that of a thousand joints  
+we cause the hater to grieve.  
+May my hater grieve much;  
+O herb, may I not grieve.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वᳵ खीलोऽव॑ततः ।  
@@ -1680,6 +2055,12 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O sacrifice, homage to thee, O sacrifice;  
+homage and homage to thee, O sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञ॒ नम॑स्ते यज्ञ ।  
@@ -1703,6 +2084,11 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conclude for me propitiously;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1728,6 +2114,13 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+conclude for me kindly;
+
+conclude for me with prosperity;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्यो॒नेन॑ मे॒ सन्ति॑ष्ठस्व ॥73॥  
@@ -1751,6 +2144,11 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+conclude for me with spiritual preeminence;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1780,6 +2178,11 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+conclude following the success of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्यर्द्धि॒मनु॒ सन्ति॑ष्ठस्व ।  
@@ -1804,6 +2207,12 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Near to thee, O sacrifice, is homage;  
+near to thee is homage;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1832,6 +2241,15 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+near to thee is homage.  
+Of \[the grains\] being husked three times,  
+whatever remainder is left behind,  
+the portion of the rakṣases—  
+may the waters carry that away from here.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1870,6 +2288,14 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever has stuck in the mortar, in the pestle, and on the winnowing basket,  
+what on the millstone, what on the potsherd,  
+the falling drops, the scattered particles, I offer together;  
+may the All-gods relish this oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒लूख॑ले॒ मुस॑ले॒ यच्च॒ शूर्पे॑ ।  
@@ -1896,6 +2322,12 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever many drops there are in the sacrifice,  
+all those I offer in the fire, well-sacrificed, well-poured.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1932,6 +2364,14 @@ May the All-gods rejoice herein.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rising today, O Mitra of vast might,  
+destroy my rivals;  
+strike them with lightning from heaven;  
+setting, make them low.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्यन्न॒द्यमि॑त्र महः ।  
@@ -1960,6 +2400,14 @@ May the All-gods rejoice herein.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rising today, share out to us  
+as a father to his sons;  
+for thou rulest over long life,  
+grant us that, O Sūrya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2277,6 +2725,17 @@ Aufgehend heute, o Freunderfreuer, aufsteigend zum höchsten Himmel, o Sonnengot
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rising today, O Mitra of vast might,  
+mounting the higher heaven,  
+my heart disease, O Sūrya,  
+and the jaundice make vanish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓केषु मे हरिमा᳓णम् ।  
@@ -2559,6 +3018,18 @@ Auf die Papageien und die Drosseln legen wir meine Gelbsucht, auf die gelbfüssi
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+My jaundice to the parrots  
+and to the starlings we transfer;
+
+and also to the yellow wagtails  
+we deposit my jaundice.
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2869,6 +3340,17 @@ Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hass
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Up has risen this Āditya  
+together with all victorious power,  
+subduing my hater;  
+may I not yield to the hater.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ नश्श᳓पाद᳓शपतः ।  
@@ -2878,6 +3360,14 @@ Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hass
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever curses us when we curse not,  
+and whoever curses us when we curse,  
+may Dawn and Sunset  
+sweep together all evil for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2915,6 +3405,14 @@ Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hass
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever is our rival, whoever is hostile,  
+the mortal who assails \[us\], O gods,  
+like burning firewood,  
+may nothing of him remain.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3003,3 +3501,14 @@ Not one of them do thou spare.
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Loosed, fly far away,  
+O arrow sharpened by brahman;  
+go, enter the enemies,  
+leave not any of them remaining.
+</details>
+</details>

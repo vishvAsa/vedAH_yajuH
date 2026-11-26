@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no consecration of soma with soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 न वै सोमे॑न॒ सोम॑स्य स॒वो॑ऽस्ति ।
@@ -37,6 +42,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is slain,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ह॒तो ह्ये॑षः ।
@@ -54,6 +64,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is pressed;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -73,6 +88,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for what is slain is not consecrated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न हि ह॒तस्सू॒यते॑ ।
@@ -90,6 +110,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He seizes a barren cow that has calved for Soma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -116,6 +141,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma is the placer of seed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ वै रे॑तो॒धाः ।
@@ -139,6 +169,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places seed \[in him\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 रेत॑ ए॒व तद्द॑धाति ।
@@ -157,6 +192,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles \[him\] with a verse addressed to Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒म्यर्चाऽभिषि॑ञ्चति ।
@@ -174,6 +214,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is the placer of seed;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -199,6 +244,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma is seed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रेत॒स्सोमः॑ ।
@@ -216,6 +266,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places seed in him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +290,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever \[there is\] of the Rājasūya except Soma,  
+all that takes place.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -270,6 +331,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Unconquered in battles, savior in conflicts,  
+heaven-winning, water-winning, guardian of the clan,  
+born in battles, good dwelling, renowned,  
+victorious—following you, O Soma, may we rejoice!'
+</details>
 
 <details><summary>मूलम्</summary>
 

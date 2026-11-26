@@ -18,6 +18,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I sprinkle around you, the cosmic order, with truth,' thus he sprinkles around in the evening.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तन्त्वा॑ स॒त्येन॒ परि॑षिञ्चा॒मीति॑ सा॒यम्परि॑षिञ्चति ।
@@ -42,6 +47,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I sprinkle around you, the truth, with cosmic order,' thus in the morning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्यन्त्व॒र्तेन॒ परि॑षिञ्चा॒मीति॑ प्रा॒तः ।
@@ -59,6 +69,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, indeed, is cosmic order;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -78,6 +93,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that sun is truth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒सावा॑दि॒त्यस्स॒त्यम् ।
@@ -95,6 +115,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He thereby sprinkles around Agni with the sun in the evening;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +145,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he \[sprinkles around\] the sun with Agni in the morning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निना॑ऽऽदि॒त्यम्प्रा॒तस्सः ।
@@ -137,6 +167,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As long as day and night exist,  
+so long, for this world of his,  
+there is neither affliction nor harm,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +201,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+neither end nor boundary,  
+for him who knows thus when they offer the agnihotra,  
+and who knows it thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

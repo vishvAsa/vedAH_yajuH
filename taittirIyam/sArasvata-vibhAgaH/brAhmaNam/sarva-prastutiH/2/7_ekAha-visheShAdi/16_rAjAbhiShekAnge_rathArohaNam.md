@@ -21,6 +21,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go forward, display your heroism;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भिप्रेहि॑ वी॒रय॑स्व ।  
@@ -50,6 +55,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+fierce, mindful, slayer of rivals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आति॑ष्ठ मित्र॒वर्ध॑नः ।
@@ -77,6 +87,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount \[the chariot\], supreme slayer of Vṛtra;  
+the gods have spoken on your behalf.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +219,17 @@ The fires which are furtherers, further us.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two hooks and nooks on both sides of the chariot,  
+moving along through the darkness, following the front of the wind,  
+far-darting, possessing sensory power, winged—  
+may those Agnis, fulfilling, bear us across.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -217,6 +244,11 @@ The fires which are furtherers, further us.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage to you, O seer; utter \[your words\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +273,11 @@ The fires which are furtherers, further us.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for harmlessness to you, for self-sustenance to you!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव्य॑थायै त्वा स्व॒धायै॑ त्वा ॥55॥  
@@ -264,6 +301,11 @@ The fires which are furtherers, further us.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let not \[enemies\] harm us from around you, O lofty Indra;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा न॑ इन्द्रा॒भित॒स्त्वदृ॒ष्वारि॑ष्टासः ।
@@ -286,6 +328,11 @@ The fires which are furtherers, further us.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thus, O brahman, let it be yours.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -318,6 +365,11 @@ The fires which are furtherers, further us.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stand upon the chariot, you who hold the vajra in your hand;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तिष्ठा॒ रथे॒ अधि॒ यद्वज्र॑हस्तः ।  
@@ -348,6 +400,11 @@ The fires which are furtherers, further us.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O god, having good horses, gather in the reins.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +437,12 @@ The fires which are furtherers, further us.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount, O slayer of Vṛtra, around him who mounts;  
+let Indra exult along with you, let Mitra and Varuṇa exult along with you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -458,6 +521,14 @@ The fires which are furtherers, further us.
 
 द्यौ᳓श्च त्वा पृथिवी᳓ च प्र᳓चेतसा यज्ञो᳓ बृह᳓द्द᳓क्षिणा त्वा पिपर्तु।  
 अ᳓नु स्वधा᳓ चिकिते सो᳓मो अग्नि᳓र᳓नु त्वावतु सविता᳓ सवे᳓न
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+द्यौश् च त्वा पृथिवी च प्रचेतसौ  
+शुक्रो बृहन् दक्षिणा त्वा पिपर्तु ।  
+अनु स्वधा चिकितां सोमो अग्निः  
+पूषा त्वावतु सविता सवेन ॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -578,6 +649,17 @@ True lord and lord of strength.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+All songs have magnified Indra,  
+wide as the sea,  
+the greatest charioteer among charioteers,  
+the true lord, the master of prizes.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -595,6 +677,13 @@ True lord and lord of strength.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the sounds of the army  
+and the greedy bowstrings bypass me;  
+standing at the post, swelling here,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -633,6 +722,13 @@ True lord and lord of strength.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let them enter into me, the lord of cattle.  
+May Anumati agree to that for me;  
+may mother earth and father heaven agree to that;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्मेऽनु॑मति॒रनु॑ मन्यताम् ।  
@@ -666,6 +762,11 @@ True lord and lord of strength.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the soma-pressing, delightful pressing-stones \[hear\] that;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +861,14 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 म॒र्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व॑न्तः ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+एना व्याघ्रं परिषस्वजानाः  
+सिंहं हिन्वन्ति महते सौभगाय ।  
+महिषं न सुभुवस् तस्थिवांसं  
+मर्मृज्यन्ते द्वीपिनम् अप्स्व् अन्तः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 ए॒ना। व्या॒घ्रम्। प॒रि॒ऽस॒स्व॒जा॒नाः। सिं॒हम्। हि॒न्व॒न्ति॒। म॒ह॒ते। सौभ॑गाय। स॒मु॒द्रम्। न। सु॒ऽभुवः॑। त॒स्थि॒ऽवांस॑म्। म॒र्मृ॒ज्यन्ते॑। द्वी॒पिन॑म्। अ॒प्ऽसु। अ॒न्तः। ८.७।
@@ -805,6 +914,18 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+hear that, O Aśvins, you two who bring good fortune!  
+\[I have removed\] your wrath; lift up the highest \[plank\].  
+Clasping the tiger with this \[formula\],  
+they urge the lion toward great good fortune;  
+like the easily invoked sea standing firm,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -822,6 +943,14 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they cleanse the leopard within the waters.  
+May that sun rise;  
+may this utterance of mine rise.  
+Rise up, O divine sun,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -851,6 +980,15 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+along with my voice.  
+I am the arbiter of speech;  
+in me let speech remain steadfast.  
+May the rivers flow, may the rain-gods rain,  
+may the plants have abundant fruit;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -886,6 +1024,12 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may I become the king of those possessing food,  
+possessing boiled rice messes, possessing curds!
+</details>
 
 <details><summary>मूलम्</summary>
 

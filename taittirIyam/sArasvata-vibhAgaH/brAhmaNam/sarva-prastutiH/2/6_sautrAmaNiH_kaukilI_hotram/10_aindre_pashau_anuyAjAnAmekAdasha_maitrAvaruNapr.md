@@ -22,6 +22,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine grass made Indra, the good god, grow together with the gods;  
+strewn with heroes upon the altar, it made \[him\] grow.  
+Chosen at dawn, borne forth at dusk,  
+with wealth it surpassed the possessor of sacrificial grass.  
+For the win of wealth, may he partake of the bestowal of wealth; Hotṛ, sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिरिन्द्रँ॑ सुदे॒वन्दे॒वैः ।  
@@ -60,6 +69,17 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine doors in the clash made Indra grow;  
+firm in the movement, they made \[him\] grow.  
+Moved by the young calf and the young boy, let them thrust away the runner  
+kicking up dust.  
+For the win of wealth, may they partake of the bestowal of wealth; Hotṛ, sacrifice!
+
+The divine Dawn and Night
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -102,6 +122,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+invoked Indra as the sacrifice went forward.  
+They advanced through the divine clans;  
+they became well pleased, well established.  
+For the win of wealth, may the two partake of the bestowal of wealth; Hotṛ, sacrifice!  
+The two divine lovers, bestowers of wealth,  
+made the god Indra grow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी उ॒षासा॒नक्ता॑ ।  
@@ -143,6 +173,17 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The one kept away evils and hatreds;  
+the other brought desirable wealth  
+for the instructed sacrificer.
+
+For the win of wealth, may the two partake of the bestowal of wealth; Hotṛ, sacrifice!  
+The divine vigor-libations, milking, yielding well,  
+made Indra grow with milk.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -190,6 +231,19 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The one brought refreshment and vigor;  
+the other, eating together and drinking together.  
+Honoring the earlier with the new,  
+and the new with the ancient,  
+the two vigor-libations established vigor and desirable wealth  
+for the instructed sacrificer.  
+For the win of wealth, may the two partake of the bestowal of wealth; Hotṛ, sacrifice!
+
+The two divine Hotṛs
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी ऊ॒र्जाहु॑ती॒ दुघे॑ सु॒दुघे॑ ।  
@@ -236,6 +290,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+made the god Indra grow.  
+Having slain the evil-speakers, the two brought desirable wealth  
+for the instructed sacrificer.  
+For the win of wealth, may the two partake of the bestowal of wealth; Hotṛ, sacrifice!  
+The three goddesses, the three goddesses,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा दैव्या॒ होता॑रा ।  
@@ -277,6 +340,18 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+made their husband Indra grow:  
+Bhāratī touched heaven,  
+Sarasvatī the sacrifice with the Rudras,  
+Iḍā, possessing wealth, the homes.
+
+For the win of wealth, may they partake of the bestowal of wealth; Hotṛ, sacrifice!  
+The divine Indra Narāśaṃsa,  
+with three shelters, three chariot-boxes,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -320,6 +395,17 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+made the god Indra grow.  
+Set with a hundred dark-backed \[steeds\],  
+he rolls forward with a thousand.  
+Mitra and Varuṇa indeed are worthy of his Hotṛ-ship,  
+Bṛhaspati of the chant,  
+the Aśvins of the Adhvaryu-ship.  
+For the win of wealth, may he partake of the bestowal of wealth; Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -365,6 +451,19 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Indra, the Lord of the Forest,  
+golden-leaved, honey-branched, bearing good fruit,  
+made the god Indra grow.  
+With his tip he filled heaven;  
+he made firm the atmosphere and the earth.  
+For the win of wealth, may he partake of the bestowal of wealth; Hotṛ, sacrifice!  
+The divine grass of the streams  
+made the god Indra grow.  
+Having a good seat, seated with Indra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व इन्द्रो॒ वन॒स्पतिः॑ ।  
@@ -408,6 +507,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it overcame the other grass-strewn layers.  
+For the win of wealth, may it partake of the bestowal of wealth; Hotṛ, sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिर्वारि॑तीनाम् ।  
@@ -449,6 +554,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Agni Sviṣṭakṛt  
+made the god Indra grow.  
+Making the sacrifice well offered, Sviṣṭakṛt,  
+let him make \[the sacrifice\] well offered for us today.  
+For the win of wealth, may he partake of the bestowal of wealth; Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

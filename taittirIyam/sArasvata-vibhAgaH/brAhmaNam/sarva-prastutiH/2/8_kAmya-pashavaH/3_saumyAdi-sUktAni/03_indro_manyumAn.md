@@ -362,6 +362,15 @@ Mit diesen stürze hin die nah'nden Feinde, des Hassers Zorn, o Indra, ohne Säu
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+confound the fury of the enemy, O Indra; with these, scatter all the assailants in all directions;  
+cast down the Dāsa clans for the Ārya.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>

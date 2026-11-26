@@ -911,22 +911,30 @@ Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen fl
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
-अ᳓ग्नेऽभ्यावर्तिन्नभि᳓ न आ᳓ वर्तस्वा᳓युषा व᳓र्चसा सन्या᳓ मेध᳓या प्रज᳓या ध᳓नेन ।  
+अ᳓ग्नेऽभ्यावर्तिन्नभि᳓ न आ᳓ वर्तस्वा᳓युषा व᳓र्चसा सन्या᳓ मेध᳓या प्रज᳓या ध᳓नेन ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/01_AsandyAmukhAgnisthApanam/06_agne-bhyAvartinnabhi_na_A.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 O Agni, returner, to us return  
 With life, with radiance, with gain, with wisdom, with offspring, with wealth.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
-अग्ने॑ऽभ्यावर्तिन्न॒भि न॒ आ व॑र्त॒स्वायु॑षा॒ वर्च॑सा स॒न्या मे॒धया॑ प्र॒जया॒ धने॑न ।  
+अग्ने॑ऽभ्यावर्तिन्न॒भि न॒ आ व॑र्त॒स्वायु॑षा॒ वर्च॑सा स॒न्या मे॒धया॑ प्र॒जया॒ धने॑न ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अग्ने ऽभ्यावर्तिन्न्  
+अभि न आ ववृत्स्व ।  
+आयुषा वर्चसा सन्या  
+मेधया प्रजया धनेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -936,9 +944,10 @@ With life, with radiance, with gain, with wisdom, with offspring, with wealth.
 
 <details><summary>सायण-टीका</summary>
 
-आभिमुख्येनाऽऽवर्तितुं शीलमस्यास्तीत्याभ्यावर्ति, तादृश  हेऽग्न आयुरादिभिः सह नोऽस्मानभिलक्ष्बाऽऽवर्तस्व ।   आयुरपमृत्युरहितं वर्चः कान्ति-र्बलं वा, सनिर्धनदानं, मेधा श्रुतार्थधारणशक्तिः ।   प्रजा पुत्रादिः।   धनं सुवर्णम् ।   धन-शब्देन संपादयितब्यमुच्यते ।   सनिशब्देय संपादितस्या बन्धुभ्यः प्रदानशक्तिरुच्यते ।  
+आभिमुख्येनाऽऽवर्तितुं शीलमस्यास्तीत्याभ्यावर्ति, तादृश  हेऽग्न आयुरादिभिः सह नोऽस्मानभिलक्ष्बाऽऽवर्तस्व ।   आयुरपमृत्युरहितं वर्चः कान्ति-र्बलं वा, सनिर्धनदानं, मेधा श्रुतार्थधारणशक्तिः ।   प्रजा पुत्रादिः।   धनं सुवर्णम् ।   धन-शब्देन संपादयितब्यमुच्यते ।   सनिशब्देय संपादितस्या बन्धुभ्यः प्रदानशक्तिरुच्यते ।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1715,6 +1724,14 @@ I brought thee: thou hast entered in. Stand stedfast and immovable. Lot all the 
 
 आ त्वा॑हार्षम॒न्तर॑भूर्द्ध्रु॒वस्ति॒ष्ठावि॑चाचलिः ।  
 विश॑स्त्वा॒ सर्वा॑ वाञ्छन्त्व॒स्मिन्रा॒ष्ट्रमधि॑ श्रय ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आ त्वाहार्षम् अन्तर् अभूर्  
+ध्रुवस् तिष्ठाविचाचलत् ।  
+विशस् त्वा सर्वा आ यन्तु  
+मा त्वद् राष्ट्रम् अधि भ्रशत् ॥
 </details>
 
 <details><summary>पदपाठः</summary>

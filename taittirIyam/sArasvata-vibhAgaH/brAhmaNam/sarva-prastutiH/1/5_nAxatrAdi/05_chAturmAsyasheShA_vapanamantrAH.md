@@ -17,6 +17,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truth is the highest,  
+nothing surpasses truth.  
+On truth the ocean is established,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तम् ए॒व प॑रमे॒ष्ठि ।  
@@ -46,6 +53,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+on truth this earth is supported.  
+Agni with sharp flame,  
+heat reached by the Uṣṇih meter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस् ति॒ग्मेन॑ शो॒चिषा॑ ।   
@@ -72,6 +86,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the head placed in heat,  
+with the fiery energy of Vaiśvānara  
+through truth I turn it back,  
+through reality I turn it around.
+
+Through heat I turn it along,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +124,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the auspicious I turn it toward,  
+through the powerful I turn it against.  
+That is truth, that is reality,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -135,6 +166,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that vow, may I be capable of it;  
+through it may I be capable, through it may I succeed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -176,6 +213,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the Gharma cauldron turned around  
+the ends of earth and heaven,  
+Agni, ruler through splendorous might,  
+Varuṇa together with the visions,
+
+Indra together with the Maruts as companions,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् घ॒र्मᳶ प॒र्यव॑ र्तयत्।   
@@ -208,6 +255,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni with sharp flame,  
+heat reached by the Uṣṇih meter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस् ति॒ग्मेन॑ शो॒चिषा॑ ।   
@@ -229,6 +282,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the head placed in heat,  
+with the fiery energy of Vaiśvānara  
+through truth I turn it back,  
+through reality I turn it around,  
+through heat I turn it along,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -252,6 +314,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the auspicious I turn it toward,  
+through the powerful I turn it against.
+
+That is cosmic order, that is truth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑सा॒ ऽस्यानु॑ वर्तये ।   
@@ -271,6 +341,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the vow; may I be able to keep that;  
+by that may I be able, by that may I succeed!  
+He who on the surface of this earth
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +381,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+brings back the plants,  
+Agni the ruler through splendorous might,  
+Varuṇa together with his insights,  
+Indra together with the Maruts, his companions,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो अ॒स्याᳶ पृ॑थि॒व्यास्त्व॒चि ।
@@ -334,6 +419,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni with his sharp blaze—  
+the heat has been stepped upon by the uṣṇih.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस् ति॒ग्मेन॑ शो॒चिषा॑ ।  
@@ -355,6 +446,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The head is placed upon heat,  
+with the fiery energy of Vaiśvānara.  
+By truth I turn it downwards;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -378,6 +476,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by truthfulness I turn it around;  
+by ascetic heat I turn it along;  
+by what is auspicious I turn it towards;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑सा॒ ऽस्यानु॑ वर्तये ।   
@@ -397,6 +502,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by what is beneficial I turn it over.  
+That is the cosmic order, that is truth;  
+may I be equal to that vow;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -420,6 +532,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through it may I be capable, through it may I succeed.
+
+Parameṣṭhin released one month  
+for offspring.  
+Through it he brought splendor to them,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +571,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+immortality to mortals:  
+'Thou dost reproduce following offspring;  
+that indeed is thine immortality, O mortal!'  
+By which months, half-months,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जामनु॒ प्र जा॑यसे ।  
@@ -479,6 +608,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+seasons, \[and\] years \[revolve\],  
+by which those \[rites\] of thine, O Prajāpati,  
+for the one who has sacrificed, they turned downward—
+
+By that brahman of his
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॒ ते ते॑ प्रजापते ।  
@@ -507,6 +645,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+do I turn \[the razor\] for life.  
+Agni with sharp flaming glow,  
+heat pervaded by the Uṣṇih,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस् ति॒ग्मेन॑ शो॒चिषा॑ ।  
@@ -528,6 +673,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the head placed upon heat  
+with the fiery energy of Vaiśvānara:  
+by truth I turn it downwards;  
+by truthfulness I turn it around;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -551,6 +704,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by ascetic heat I turn it along;  
+by what is auspicious I turn it towards;  
+by what is beneficial I turn it over.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑सा॒ ऽस्यानु॑ वर्तये ।   
@@ -570,6 +730,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the cosmic order, that is truth;  
+may I be equal to that vow;  
+through it may I be capable, through it may I succeed.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -58,6 +58,17 @@ O Agni Vaiśvanara, hail!
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bright light that was born  
+on the far shore of the mist,  
+may that carry us across our haters!  
+O Agni Vaiśvānara, svāhā!
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓स्माद्भीषा᳓ऽवाशिष्ठाः ।  
@@ -65,6 +76,12 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That out of fear of which you cried out,  
+from that make us free from danger;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -90,6 +107,12 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+be gracious to all offspring!  
+Homage to Rudra the bountiful!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +140,12 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That out of fear of which you sat down,  
+from that make us free from danger!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -150,6 +179,15 @@ O Agni Vaiśvanara, hail!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be gracious to all offspring;  
+homage to Rudra the bounteous!  
+Arise, bull; stand firm, do not come to harm;  
+do not harm this sacrifice or the sacrificer.  
+Establish the sacrificer in the heavenly realm;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑स्र तिष्ठ॒ प्रति॑तिष्ठ॒ मा रि॑षः ।  
@@ -178,6 +216,15 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+be prosperity for our two-footed, prosperity for our four-footed!  
+From whatever you trembled in fear, fled, or collapsed,  
+make us safe from that;  
+be gracious to all offspring;  
+homage to Rudra the bounteous!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -209,6 +256,13 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever has done this,  
+homage to him,  
+svāhā to him!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +297,12 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You do not indeed die now…' \[etc.\];  
+'The regions you…', 'All the regions…' \[etc.\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -298,6 +358,13 @@ O Agni Vaiśvanara, hail!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you two are seasonal \[rulers\] of the sacrifice,  
+and mindful, O Indra and Agni.  
+Delight in the offered and the unoffered,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ हि स्थ ऋ॒त्वियौ॑ ।  
@@ -326,6 +393,15 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the unoffered and the offered,  
+in the offered and the unoffered,  
+in the unoffered and the offered!  
+O Indra and Agni, partake of this soma,  
+drink and be pleased!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -359,6 +435,14 @@ O Agni Vaiśvanara, hail!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May darkness not find the sacrificer,  
+nor the officiating priests, nor these offspring,  
+nor whoever will drink this soma!  
+Both are combined, are made.
+</details>
 
 <details><summary>मूलम्</summary>
 

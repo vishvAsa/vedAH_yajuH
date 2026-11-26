@@ -178,6 +178,38 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked is the Rathaṃtara together with the earth;  
+may the Rathaṃtara together with the earth invoke me.  
+Invoked is the Vāmadevya together with the intermediate space;  
+may the Vāmadevya together with the intermediate space invoke me.  
+Invoked is the Bṛhat together with heaven;  
+may the Bṛhat together with heaven invoke me.  
+Invoked are the seven Hotrās;  
+may the seven Hotrās invoke me.  
+Invoked is the milch cow together with the bull;  
+may the milch cow together with the bull invoke me.
+
+Invoked is the companion portion;  
+may the companion portion invoke me.  
+Invoked! Ho!  
+Iḍā is invoked;  
+invoked is Iḍā;  
+may Iḍā invoke us.  
+Iḍā is invoked;  
+invoked is Iḍā,  
+daughter of Manu, ghee-footed, belonging to Mitra and Varuṇa.  
+Invoked is the divine-fashioned brahman.
+
+Invoked are the divine Adhvaryus;  
+invoked are the human \[Adhvaryus\],  
+who will protect this sacrifice,  
+who will magnify the wife of the sacrificer.  
+Invoked are heaven and earth,  
+first-born, true to order,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैव्या॑ अध्व॒र्यव॒ उप॑हूताः ।  
@@ -220,6 +252,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+divine, having gods as sons.  
+Invoked is this wife of the sacrificer,  
+not a widow, like Indrāṇī,  
+having good sons, like Aditi.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूते॒यय्ँयज॑माना ।  
@@ -242,6 +282,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked is she in the higher worship of the gods;  
+invoked is she in the greater preparation of the oblation;  
+invoked is she in the heavenly dwelling.  
+Invoked is she at \[the thought\]: 'May the gods enjoy this my offering.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +320,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+All that is dear to her is invoked;  
+she is invoked of all that is dear and invoked.
+</details>
 
 <details><summary>मूलम्</summary>
 

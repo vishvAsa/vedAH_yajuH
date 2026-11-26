@@ -1806,6 +1806,17 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you made your tongue the bearer of oblations, O Agni.  
+O Prajāpati, none other than you  
+has encompassed all these beings born;  
+with whatever desire we sacrifice to you, let that be ours.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ वेद पुत्रᳶ᳓ पित᳓रँ, स᳓ मात᳓रम् ।  
@@ -1862,6 +1873,16 @@ He as a son knoweth the father, he the mother, He is a son, he is of generous re
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be lords of riches!  
+He knows the father, he the mother, as the son;  
+he shall become the son, he shall become repeatedly giving gifts;
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2107,6 +2128,15 @@ Zugleich gerufen, gleich an Gut seid, Agni-Soma, hold dem Lied, Zugleich seid be
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he covered the sky, the intermediate space, and the light of heaven;  
+he became all existences, he came into being.
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5077,6 +5107,18 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He has sacrificed to the dear abodes of Soma.
+
+He has sacrificed to the dear abodes of Agni.  
+He has sacrificed to the dear abodes of Prajāpati.  
+He has sacrificed to the dear abodes of Agni and Soma.  
+He has sacrificed to the dear abodes of Indra and Agni.  
+He has sacrificed to the dear abodes of Indra.  
+He has sacrificed to the dear abodes of Mahendra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निँ स्वि॑ष्ट॒कृत॑म् ।  
@@ -5113,6 +5155,12 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He has sacrificed to the dear abodes of the gods who drink clarified butter.  
+May he sacrifice to the dear abodes of Agni the Hotṛ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यक्ष॑द॒ग्नेर्होतु॑ᳶ प्रि॒या धामा॑नि ।   
@@ -5137,6 +5185,11 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he sacrifice to his own greatness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आय॑जता॒मेज्या॒ इषः॑ ।  
@@ -5160,6 +5213,13 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he win by sacrifice the offerings, the refreshments.  
+May he, Jātavedas, perform the sacrificial rites;  
+may he enjoy the oblation!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -5608,3 +5668,14 @@ Wenn zu den Menschen heut, o Opferpriester, mit hellem Licht du kommst – denn 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, Hotṛ of the settlement, Hotṛ of the sacrificial rite today,  
+of purifying flame, enjoy \[it\], for you are the sacrificer.  
+Sacrifice with truth, since you have become wide through greatness!  
+Bear the oblations today, O youngest one, which are yours!
+</details>
+</details>

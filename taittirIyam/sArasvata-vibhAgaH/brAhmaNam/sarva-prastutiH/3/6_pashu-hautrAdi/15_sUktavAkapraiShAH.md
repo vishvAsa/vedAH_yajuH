@@ -21,6 +21,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Today this sacrificer has chosen Agni as hotṛ, cooking the cooked offerings, cooking the sacrificial cake, binding the he-goat for Indra and Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निम॒द्य होता॑रमवृणीत ।  
@@ -47,6 +52,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Vanaspati was today a good resting place for Indra
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूप॒स्था अ॒द्य दे॒वो वन॒स्पति॑रभवदिन्द्रा॒ग्निभ्या॒ञ्छागे॑न ।
@@ -70,6 +80,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and Agni with the he-goat;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अघ॑स्ताम् ।  
@@ -92,6 +107,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they two have eaten from the fat, they have accepted the cooked offering,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +137,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have grown strong by the sacrificial cake.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवी॑वृधेताम् पुरो॒डाशे॑न  ।   
@@ -139,6 +164,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Today, O seer, of seers' descent, grandson of seers, this sacrificer has chosen you from among many who have assembled, saying, 'This one will sacrifice for me among the gods for wealth and choice goods.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +196,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever gifts of the gods the gods have given, teach them,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता या दे॒वा दे॑व॒दाना॒न्यदु॒स्तान्य॑स्मा॒ आ च॒ शास्व॑ ।
@@ -189,6 +224,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+promise them to him!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ च॑ गुरस्व ।
@@ -211,6 +251,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And you, O hotṛ, are sent for good utterance; human \[hotṛ\], directed for the sūktavāka, utter the well-spoken hymns!
+</details>
 
 <details><summary>मूलम्</summary>
 

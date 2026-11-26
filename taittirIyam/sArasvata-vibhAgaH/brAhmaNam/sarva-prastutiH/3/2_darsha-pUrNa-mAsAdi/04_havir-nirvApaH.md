@@ -10,6 +10,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'For the work of you two, for the gods, may I be able,' for capability.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्म॑णे वान्दे॒वेभ्य॑श्शकेय॒"मित्या॑ह॒ शक्त्यै॑ ।
@@ -39,6 +44,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Along with the continuity of the sacrifice the offspring and domestic animals of the sacrificer are continued.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -70,6 +80,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Along with the disruption of the sacrifice the offspring and domestic animals of the sacrificer are disrupted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ विच्छि॑त्ति॒मनु॑ प्र॒जाᳶ प॒शवो॒ यज॑मानस्य॒ विच्छि॑द्यन्ते ।
@@ -89,6 +104,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With 'You are the continuity of the sacrifice; for the continuity of the sacrifice I strew you; for the continuity of the sacrifice \[I strew\] you,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ सन्त॑तिरसि य॒ज्ञस्य॑ त्वा॒ सन्त॑त्यै स्तृणामि॒ सन्त॑त्यै ।
@@ -107,6 +127,18 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he stretches \[a line of straw\] continuously up to the āhavanīya fire,  
+for the continuity of the sacrificer's offspring and domestic animals.  
+He leads forward the waters.  
+The waters indeed are faith; having undertaken and led forward faith, he proceeds.  
+He leads forward the waters.  
+The sacrifice indeed is the waters.
+
+Having undertaken and led forward the sacrifice, he proceeds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -139,6 +171,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He leads forward the waters.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -472,6 +509,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The thunderbolt indeed is the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "वेषा॑य॒ त्वे"त्या॑ह ।
@@ -501,6 +543,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having hurled the thunderbolt at his rivals and led it forward, he proceeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेषा॑य॒ ह्ये॑नदाद॒त्ते ।
@@ -522,6 +569,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Scorched is the demon, scorched are the adversaries,'  
+for the destruction of the demons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -540,6 +593,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the warding off of the Rakṣases.
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4प्रत्युष्टमिति प्रतितपनम् ॥
@@ -553,6 +611,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'You are the yoke-pole.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +645,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This fire indeed belongs to the yoke-pole.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष वै धुर्यो॒ऽग्निः ।
@@ -608,6 +676,13 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to pass beyond it without touching \[it\],
+
+it would burn up both the adhvaryu and the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तय्ँ यदनु॑पस्पृश्याती॒याद् अ॒ध्व॒र्युञ्च॒ यज॑मानञ्च॒ प्रद॑हेत् ।
@@ -627,6 +702,12 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He passes beyond having touched it,  
+so that neither the adhvaryu nor the sacrificer may be burned.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒स्पृश्यात्ये॑त्य् अ॒ध्व॒र्योश्च॒ यज॑मानस्य॒ चाप्र॑दाहाय ।
@@ -645,6 +726,12 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'Injure him who injures us; injure him whom we injure.'  
+There are two men indeed:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +767,13 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the one whom he injures,  
+and the one who injures him.  
+Both of them he pierces with anguish.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ वाव पुरु॑षौ ।  
@@ -700,6 +794,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'You among the gods are the most successful, the most fulfilling, the most agreeable, the most transporting, the best invoker of the gods.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -734,6 +833,13 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is precisely according to the Yajus formula.
+
+He says, 'You are the uncrooked cart for oblations,' to prevent failure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒था॒य॒जुरे॒वैतत् ॥ 31॥  
@@ -759,6 +865,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Be firm, do not stagger!" he says, for stability.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दृँह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै॑ ॥17॥
@@ -778,6 +889,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'I look upon you with the eye of Mitra,' for friendship.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +923,12 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'Do not fear, do not tremble, may I not harm you,' for harmlessness.  
+Whatever the wind does not blow upon,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "मा भेर्मा सव्ँ वि॑क्था॒ मा त्वा॑ हिँसिष॒म्" इत्या॒हाहिँ॑सायै ।
@@ -833,6 +955,14 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that all belongs to Varuṇa.  
+He says, 'Wide for the wind.'  
+He thereby makes it free from Varuṇa.  
+He says, 'At the instigation of the divine Savitṛ,' for impulsion.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -866,6 +996,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'With the arms of the Aśvins,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवा॑रुणमे॒वैन॑त्करोति ।
@@ -891,6 +1026,12 @@ ___________________________________________
 'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the Aśvins were the two adhvaryus of the gods.  
+He says, 'With the hands of Pūṣan,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
@@ -908,13 +1049,14 @@ ________________________________________________________________________________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
 अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -943,11 +1085,14 @@ ________________________________________________________________________________
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -974,11 +1119,16 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-
+</details>
 </div>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for proper order.
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -992,6 +1142,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'Agreeable to Agni I measure out \[you\].'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1018,6 +1173,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He measures it out agreeable to Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नय॑ ए॒वैना॒ञ्जुष्ट॒न्निर्व॑पति ।
@@ -1035,6 +1195,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three times with a Yajus formula;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1066,6 +1231,12 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+three are these worlds;  
+\[it is\] for the attainment of these worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑ इ॒मे लो॒काः ।  
@@ -1085,6 +1256,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Silently a fourth time;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तू॒ष्णीञ्च॑तु॒र्थम् ।
@@ -1103,6 +1279,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he thereby secures the unlimited.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑रिमितमे॒वाव॑रुन्धे ।
@@ -1120,6 +1301,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this very manner he measures out the oblations in order.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1144,6 +1330,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'This for the gods, this in turn together for us,' for separation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1174,6 +1365,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'For abundance \[I take\] you, not for malice,' for protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "स्फा॒त्यै त्वा॒ नारा॑त्या॒" इत्या॑ह॒ गुप्त्यै॑ ।
@@ -1196,6 +1392,12 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, he moves as if in darkness,  
+he who is within the cart-frame.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,6 +1429,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'May I behold the sun, the Vaiśvānara light.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "सुव॑र॒भि विख्ये॑षव्ँ वैश्वान॒रञ्ज्योति॒"रित्या॑ह ।
@@ -1244,6 +1451,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He thereby looks upon the sun, the Vaiśvānara light.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1277,6 +1489,12 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Heaven and earth trembled when the oblation was taken.  
+He says, 'May the dwellings of heaven and earth be firm,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी ह॒विषि॑ गृही॒त उद॑वेपेताम् ।
@@ -1300,6 +1518,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the stability of heaven and earth, the two dwellings.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1326,6 +1549,13 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are going to the gods," he says.  
+He makes it go to the gods.  
+He sets \[it\] down not below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "उ॒र्व॑न्तरि॑क्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
@@ -1345,6 +1575,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for passage.
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15उर्विति गमनम् ॥
@@ -1358,6 +1593,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'I place you in the lap of Aditi.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,6 +1627,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aditi indeed is this \[earth\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा अदि॑तिः ।
@@ -1404,6 +1649,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sets it down in her lap.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,6 +1673,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'O Agni, protect the oblation,' for protection.
+</details>
 
 <details><summary>मूलम्</summary>
 

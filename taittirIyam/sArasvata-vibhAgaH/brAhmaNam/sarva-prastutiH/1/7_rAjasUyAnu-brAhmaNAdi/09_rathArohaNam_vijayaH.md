@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He brings down the chariot for victory, saying: 'You are Indra's thunderbolt, the slayer of Vṛtra.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ वज्रो॑ऽसि॒ वार्त्र॑घ्न॒ इति॒ रथ॑मु॒पाव॑हरति॒ विजि॑त्यै ।
@@ -34,6 +39,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'I yoke you by the command of Mitra and Varuṇa, the two directors.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "मि॒त्रावरु॑णयोस्त्वा प्रशा॒स्त्रोᳶ प्र॒शिषा॑ युन॒ज्मी"त्या॑ह ।
@@ -57,6 +67,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of brahman he yokes it with the two deities.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णै॒वैन॑न्दे॒वता॑भ्याय्ँ युनक्ति ।
@@ -74,6 +89,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He yokes three horses.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -101,6 +121,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The chariot of the gods is drawn by three horses;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ष्टि॒वा॒ही वै दे॑वर॒थः ।
@@ -119,6 +144,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he yokes a divine chariot for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व॒र॒थमे॒वास्मै॑ युनक्ति ।
@@ -136,6 +166,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are three horses,  
+the chariot is the fourth,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +202,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the warrior and charioteer are two;  
+they amount to six.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षट्त्सम्प॑द्यन्ते ॥ 53 ॥  
@@ -185,6 +227,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Six are the seasons;  
+with the seasons he yokes it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +258,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He takes the strides of Viṣṇu;  
+becoming Viṣṇu he conquers these worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णु॑रे॒व भू॒त्वेमाल्ँ लो॒कान॒भिज॑यति ।
@@ -227,6 +281,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The kṣatriya who is set in place  
+takes hold of him from behind;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +313,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he becomes the realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्रमे॒व भ॑वति ।
@@ -270,6 +335,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He takes hold from behind with a triṣṭubh;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -295,6 +365,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the triṣṭubh is sensory power;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रि॒यव्ँ वै त्रि॒ष्टुक् ।
@@ -313,6 +388,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places sensory power in the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रि॒यमे॒व यज॑माने दधाति ॥ 54 ॥
@@ -330,6 +410,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'May I conquer in the impulse of the Maruts.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -354,6 +439,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Impelled by the Maruts he conquers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुद्भि॑रे॒व प्रसू॑त॒ उज्ज॑यति ।
@@ -371,6 +461,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'The mind has been reached.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -394,6 +489,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever he desired in mind,  
+that he reached.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -419,6 +520,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He overpowers a Rājanya;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒ज॒न्य॑ञ्जिनाति ।
@@ -441,6 +547,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+unattacked, he attacks.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -465,6 +576,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed is deprived of sensory power and heroic power
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि वा ए॒ष इ॑न्द्रि॒येण॑ वी॒र्ये॑णर्ध्यते ।
@@ -482,6 +598,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who overpowers a Rājanya.  
+He says: 'May I unite with sensory power and heroic power.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -508,6 +630,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He places Indra's power and heroic power into himself.  
+'You are the fury of the beasts; may my fury be like yours,' he says, and puts on boar-skin sandals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शू॒नाम्म॒न्युर॑सि॒ तवे॑व मे म॒न्युर्भू॑या॒दिति॒ वारा॑ही उपा॒नहा॒वुप॑ मुञ्चते ।
@@ -530,6 +658,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this is the fury of the beasts, namely the boar.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -555,6 +688,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereby he places the fury of the beasts into himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनै॒व प॑शू॒नाम्म॒न्युमा॒त्मन्ध॑त्ते ।
@@ -572,6 +710,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Verily, this \[earth\] yearns toward him who has consecrated himself \[by pressing soma\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +740,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She is capable of taking away his Indra's power and heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वारा॑ही उपा॒नहा॒वुप॑मुञ्चते ।
@@ -615,6 +763,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He puts on boar-skin sandals.  
+He separates himself from her,  
+so that his Indra's power and heroic power are not taken away.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +797,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Homage to mother earth,' he says, for non-injury.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "नमो॑ मा॒त्रे पृ॑थि॒व्या" इत्या॒हाहिँ॑सायै ।
@@ -664,6 +824,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Thou art so much, thou art lifespan, bestow lifespan on me,' he says;  
+he places vigor into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +855,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Thou art vigor, bestow vigor on me,' he says;  
+he places vigor into himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ग॒स्यूर्ज॑म्मे धे॒हीत्या॑ह ।
@@ -712,6 +884,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Thou art yoked, thou art luster, bestow luster upon me,' he says;  
+he places luster into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -737,6 +915,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He brings \[these offerings\] together to the brahman priest in a single act;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धा ब्र॒ह्मण॒ उप॑हरति ।
@@ -761,6 +944,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in a single act the sacrificer thus bestows lifespan, vigor, and luster \[upon himself\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धैव यज॑मान॒ आयु॒रूर्जव्ँ॒वर्चो॑ दधाति ।
@@ -778,6 +966,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers the chariot-unloosing oblations for firm standing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -804,6 +997,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are three horses;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रयोऽश्वा॑ भवन्ति ।
@@ -821,6 +1019,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the chariot is the fourth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -840,6 +1043,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore he makes four offerings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑च्च॒तुर्जु॑होति ।
@@ -857,6 +1065,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If both were to step down together,  
+they would go to the same world.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +1096,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Together with the charioteer he places the chariot on the chariot-stand;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ह स॑ङ्ग्रही॒त्रा र॑थ॒वाह॑ने॒ रथ॒माद॑धाति ।
@@ -904,6 +1123,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he thereby screens him from the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +1152,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The swan seated in the clear \[sky\],' with this \[verse\] he places it;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हँ॒सश्शु॑चि॒षदित्याद॑धाति ।
@@ -945,6 +1174,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he brings it down with the brahman;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -969,6 +1203,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places it with the brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒णाऽऽद॑धाति ।
@@ -986,6 +1225,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He places it with an aticchandas verse;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,6 +1249,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+verily, the aticchandas is all the meters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अति॑च्छन्दा॒ वै सर्वा॑णि॒ छन्दाँ॑सि ।
@@ -1022,6 +1271,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places it with all the meters.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,6 +1295,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the summit of the meters,  
+namely the aticchandas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्ष्म॒ वा ए॒षा छन्द॑साम् ।  
@@ -1059,6 +1319,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+because he places it with an aticchandas,  
+he makes him the summit among his equals.
+</details>
 
 <details><summary>मूलम्</summary>
 

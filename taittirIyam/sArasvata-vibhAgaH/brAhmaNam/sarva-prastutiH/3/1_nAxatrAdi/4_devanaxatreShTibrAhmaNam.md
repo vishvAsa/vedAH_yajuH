@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni desired:  
+“May I be the eater of food among the gods.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्वा अ॑कामयत ।   
@@ -36,6 +42,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this eight-pot-sherd cake to Agni, to the Kṛttikās.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +74,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed became the eater of food among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै सो॑ऽन्ना॒दो दे॒वाना॑मभवत् ।
@@ -80,6 +96,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni indeed is the eater of food among the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +121,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as Agni is the eater of food among the gods,  
+even so he becomes among humans
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +153,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,  
+and who knows this thus.  
+There he offers:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -154,6 +188,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To Agni, svāhā! To the Kṛttikās, svāhā!  
+To Ambā, svāhā! To Dulā, svāhā!  
+To Nitatnī, svāhā! To Abhrayantī, svāhā!  
+To Meghayantī, svāhā! To Varṣayantī, svāhā!  
+To Cupuṇīkā, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -195,6 +238,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
@@ -219,6 +267,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having been created, they went away from him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॑स्मात्सृ॒ष्टाᳶ परा॑चीरायन् ।
@@ -236,6 +289,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among them he set his heart upon Rohiṇī.  
+He desired:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +319,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“May she return to me;  
+may I unite with her.”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -286,6 +351,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this caru to Prajāpati, to Rohiṇī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तम्प्र॒जाप॑तये रोहि॒ण्यै च॒रुन्निर॑वपत् ।
@@ -310,6 +380,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon she indeed returned to him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै सा तमु॒पाव॑र्तत ।
@@ -327,6 +402,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he united with her.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -346,6 +426,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unto him indeed returns what is dear;  
+he unites with what is dear,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +458,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,  
+and who knows this thus.  
+There he offers:
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒तेन॑ ह॒विषा॒ यज॑ते ।  
@@ -392,6 +485,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To Prajāpati, svāhā! To Rohiṇī, svāhā! To the shining one, svāhā! To offspring, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -419,6 +517,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma desired:  
+“May I win the kingship of the plants.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ वा अ॑कामयत ।  
@@ -444,6 +548,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this caru of śyāmāka grain in milk to Soma, to Mṛgaśīrṣa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तँ सोमा॑य मृगशी॒र्षाय॑ श्यामा॒कञ्च॒रुम्पय॑सि॒ निर॑वपत् ।
@@ -461,6 +570,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed won the kingship of the plants.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +594,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He wins indeed the kingship over his equals  
+who sacrifices with this oblation,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -506,6 +626,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows this thus.  
+There he offers:
+</details>
+
 <details><summary>मूलम्</summary>
 
 य उ॑ चैनदे॒वव्ँ वेद॑ ।  
@@ -527,6 +653,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To Soma, svāhā! To Mṛgaśīrṣa, svāhā!  
+To the Invakās, svāhā! To the plants, svāhā!  
+To kingship, svāhā! To victory, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -554,6 +687,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rudra desired:  
+“May I possess domestic animals.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्रो वा अ॑कामयत ।  
@@ -573,6 +712,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this caru of priyaṅgu grain in milk to Rudra, to Ārdrā.  
+Thereupon he indeed came to possess domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -598,6 +743,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed comes to possess domestic animals
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स प॑शु॒मान॑भवत् ।
@@ -616,6 +766,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,  
+and who knows this thus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -636,6 +792,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There he offers:  
+“To Rudra, svāhā! To Ārdrā, svāhā!  
+To the swelling one, svāhā! To domestic animals, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +827,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bare indeed and hairless was this \[earth\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒क्षा वा इ॒यम॑लो॒मका॑ऽऽसीत् ।
@@ -689,6 +857,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She desired:  
+“May I bring forth through plants and trees.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 साऽका॑मयत ।  
@@ -708,6 +882,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She offered this caru to Aditi, to the Punarvasus.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैतमदि॑त्यै॒ पुन॑र्वसुभ्याञ्च॒रुन्निर॑वपत् ।
@@ -725,6 +904,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon she brought forth through plants and trees.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -745,6 +929,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He brings forth indeed with offspring and domestic animals  
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रजा॑यते ह॒ वै प्र॒जया॑ प॒शुभिः॑ ।  
@@ -764,6 +954,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows this thus.  
+There he offers: “To Aditi, svāhā! To the Punarvasus, svāhā! To prosperity, svāhā! To procreation, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -793,6 +989,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati desired:  
+“May I possess spiritual preeminence.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॒र्वा अ॑कामयत ।  
@@ -811,6 +1013,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this caru of wild rice in milk to Bṛhaspati, to Tiṣya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -836,6 +1043,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed came to possess spiritual preeminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स ब्र॑ह्मवर्च॒स्य॑भवत् ।
@@ -854,6 +1066,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed comes to possess spiritual preeminence  
+who sacrifices with this oblation,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +1092,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows this thus.  
+There he offers:
+</details>
+
 <details><summary>मूलम्</summary>
 
 य उ॑ चैनदे॒वव्ँ वेद॑ ।  
@@ -892,6 +1116,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To Bṛhaspati, svāhā! To Tiṣya, svāhā!  
+To spiritual preeminence, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -912,6 +1142,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and asuras were in conflict.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -940,6 +1175,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those gods offered groats mixed with clarified butter to the serpents, to the Āśreṣās.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते दे॒वास्स॒र्पेभ्य॑ आश्रे॒षाभ्य॒ आज्ये॑ कर॒म्भन्निर॑वपन् ।
@@ -957,6 +1197,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of these very deities they brought them down.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -977,6 +1222,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of these deities he brings down the hateful rival
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ताभि॑र्ह॒ वै दे॒वता॑भिर्द्वि॒षन्त॒म्भ्रातृ॑व्य॒मुप॑नयति।
@@ -994,6 +1244,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,  
+and who knows this thus.  
+There he offers:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,6 +1272,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To the serpents, svāhā! To the Śreṣās, svāhā!  
+To the biting serpents, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1044,6 +1307,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fathers desired:  
+“May we prosper in the realm of the fathers.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तरो॒ वा अ॑कामयन्त - "पितृलो॒क ऋ॑ध्नुया॒मे"ति॑ ।
@@ -1063,6 +1332,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They offered this six-pot-sherd cake to the fathers, to the Maghās.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त ए॒तम्पि॒तृभ्यो॑ म॒घाभ्य॑ᳶ पुरो॒डाशँ॒ षट्क॑पाल॒न्निर॑वपन् ।
@@ -1080,6 +1354,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon they indeed prospered in the realm of the fathers.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1100,6 +1379,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the realm of the fathers he indeed prospers  
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तृ॒लो॒के ह॒ वा ऋ॑ध्नोति ।  
@@ -1118,6 +1403,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows this thus.  
+There he offers:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1139,6 +1430,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To the fathers, svāhā! To the Maghās, svāhā! To the sinless ones, svāhā! To the disease-free ones, svāhā! To the unhindered ones, svāhā!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,6 +1461,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aryaman desired: 'May I be rich in domestic animals.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒मा वा अ॑कामयत - "पशु॒मान्त्स्या॒"मिति॑ ।
@@ -1184,6 +1485,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this caru for Aryaman and the Phalgunīs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तम॑र्य॒म्णे फल्गु॑नीभ्याञ्च॒रुन्निर॑वपत् ।
@@ -1201,6 +1507,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he became rich in domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1225,6 +1536,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed becomes rich in domestic animals,  
+who sacrifices with this oblation,  
+and who knows it thus.  
+He offers here:  
+'To Aryaman svāhā! To the Phalgunīs svāhā!  
+To domestic animals svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1252,6 +1573,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhaga desired: 'May I be fortunate and foremost among the gods.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगो॒ वा अ॑कामयत  - "भ॒गी श्रे॒ष्ठी दे॒वानाँ॑ स्या॒"मिति॑ ।
@@ -1276,6 +1602,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this caru for Bhaga and the Phalgunīs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तम्भगा॑य॒ फल्गु॑नीभ्याञ्च॒रुन्निर॑वपत् ।
@@ -1293,6 +1624,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he became fortunate and foremost among the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1313,6 +1649,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed becomes fortunate and foremost among his peers,  
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ॒गी ह॒ वै श्रे॒ष्ठी स॑मा॒नाना॑म्भवति ।  
@@ -1331,6 +1673,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows it thus.  
+He offers here:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1351,6 +1699,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Bhaga svāhā! To the Phalgunīs svāhā!  
+To preeminence svāhā!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहे"ति॑ ॥36॥
@@ -1370,6 +1724,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ desired: 'May the gods place faith in me;  
+may I be an impeller.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,6 +1756,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this cake on twelve potsherds of swift-growing rice for Savitṛ and Hasta.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तँ स॑वि॒त्रे हस्ता॑य पुरो॒डाश॒न्द्वाद॑शकपाल॒न्निर॑वपदाशू॒नाव्ँ व्रीँ॑ही॒णाम् ।
@@ -1419,6 +1784,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon the gods placed faith in him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै तस्मै॒ श्रद्दे॒वा अद॑धत ।
@@ -1436,6 +1806,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he became an impeller.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1457,6 +1832,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men indeed place faith in him;  
+he becomes an impeller among his peers,  
+who sacrifices with this oblation,  
+and who knows it thus.  
+He offers here:  
+'To Savitṛ svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1481,6 +1866,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Hasta svāhā! To the giver svāhā! To the bestower svāhā! To the dispenser svāhā! To the receiver svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1507,6 +1897,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭṛ desired: 'May I obtain variegated offspring.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ वा अ॑कामयत - "चि॒त्रम्प्र॒जाव्ँ वि॑न्दे॒ये"ति॑ ।
@@ -1531,6 +1926,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this cake on eight potsherds for Tvaṣṭṛ and Citrā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तन्त्वष्ट्रे॑ चि॒त्रायै॑ पुरो॒डाश॑म॒ष्टाक॑पाल॒न्निर॑वपत् ।
@@ -1548,6 +1948,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he obtained variegated offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1568,6 +1973,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed obtains variegated offspring,  
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रँ ह॒ वै प्र॒जाव्ँ वि॑न्दते ।  
@@ -1586,6 +1997,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows it thus.  
+He offers here:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1606,6 +2023,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Tvaṣṭṛ svāhā! To Citrā svāhā!  
+To the manifold svāhā! To offspring svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1632,6 +2055,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu desired: 'May I win free movement through these worlds.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर्वा अ॑कामयत - "काम॒चार॑मे॒षु लो॒केष्व॒भिज॑येय॒"मिति॑ ।
@@ -1654,6 +2082,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this boiled milk of a cow that has calved once for Vāyu and Niṣṭyā.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1680,6 +2113,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he won free movement through these worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स का॑म॒चार॑मे॒षु लो॒केष्व॒भ्य॑जयत् ।
@@ -1699,6 +2137,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed wins free movement through these worlds,  
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 का॒म॒चारँ॑ ह॒ वा ए॒षु लो॒केष्व॒भिज॑यति ।  
@@ -1717,6 +2161,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows it thus.  
+He offers here:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1739,6 +2189,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Vāyu svāhā! To Niṣṭyā svāhā!  
+To free movement svāhā! To victory svāhā!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ । का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहे"ति॑ ॥39॥
@@ -1759,6 +2215,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra and Agni desired: 'May we two win preeminence among the gods.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी वा अ॑कामयेता॒म् - "श्रैष्ठ्य॑न्दे॒वाना॑म॒भिज॑ये॒वे"ति॑ ।
@@ -1778,6 +2239,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They two poured out this cake on eleven potsherds for Indra and Agni and the Viśākhās. Thereupon they two won preeminence among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तावे॒तमि॑न्द्रा॒ग्निभ्याव्ँ॒विशा॑खाभ्याम्पुरो॒डाश॒मेका॑दशकपाल॒न्निर॑वपताम् ।
@@ -1795,6 +2261,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed wins preeminence among his peers,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1815,6 +2286,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रैष्ठ्यँ॑ ह॒ वै स॑मा॒नाना॑म॒भि ज॑यति ।  
@@ -1833,6 +2309,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows it thus.  
+He offers here:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1854,6 +2336,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Indra and Agni svāhā! To the Viśākhās svāhā!  
+To preeminence svāhā! To victory svāhā!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहे"ति॑ ॥40॥
@@ -1874,6 +2362,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he pours out this clarified butter of the full-moon day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒तत्पौ॑र्णमा॒स्या आज्य॒न्निर्व॑पति ।
@@ -1893,6 +2386,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The full-moon day is desire;  
+clarified butter is desire.  
+Through desire he makes desire succeed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1919,6 +2419,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Quickly that desire comes to him,  
+with which desire he sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षि॒प्रमे॑नँ॒ सकाम॒ उप॑नमति ।  
@@ -1943,6 +2449,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers here:  
+'To the full-moon day svāhā! To desire svāhā! To attainment svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 

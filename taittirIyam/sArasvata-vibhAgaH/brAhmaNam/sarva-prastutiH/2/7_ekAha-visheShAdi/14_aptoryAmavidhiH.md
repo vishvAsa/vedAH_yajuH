@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प॒शून॑सृजत ।
@@ -36,6 +41,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Created by him, they went away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽस्मात्सृ॒ष्टाᳶ परा॑ञ्च आयन् ।
@@ -53,6 +63,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He did not reach them with the Agniṣṭoma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +87,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He did not reach them with the Ukthya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानु॒क्थ्ये॑न॒ नाप्नो॑त् ।
@@ -89,6 +109,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He did not reach them with the Ṣoḍaśin.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +133,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He did not reach them with the Rātri.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान्रात्रि॑या॒ नाप्नो॑त् ।
@@ -125,6 +155,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He did not reach them with the Saṃdhi.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -145,6 +180,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said to Agni:
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽग्निम॑ब्रवीत् ।  
@@ -163,6 +203,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Wish to obtain these for me."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +232,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni did not reach them with the trivṛt stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान॒ग्निस्त्रि॒वृता॒ स्तोमे॑न॒ नाप्नो॑त् ॥46॥
@@ -210,6 +260,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said to Indra:  
+"Wish to obtain these for me."
+</details>
+
 <details><summary>मूलम्</summary>
 
 स इन्द्र॑मब्रवीत् ।  
@@ -229,6 +285,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra did not reach them with the fifteenfold stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानिन्द्र॑ᳶ पञ्चद॒शेन॒ स्तोमे॑न॒ नाप्नो॑त् ।
@@ -246,6 +307,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said to the All-gods:  
+"Wish to obtain these for me."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -266,6 +333,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The All-gods did not reach them with the seventeenfold stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान् विश्वे॑ दे॒वास्स॑प्तद॒शेन॒ स्तोमे॑न॒ नाप्नु॑वन् ।
@@ -283,6 +355,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said to Viṣṇu:  
+"Wish to obtain these for me."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +387,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Viṣṇu reached them with the twenty-onefold stoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान् विष्णु॑रेकविँ॒शेन॒ स्तोमे॑नाप्नोत् ।
@@ -327,6 +410,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He warded them off with the Vāravantīya \[sāman\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒र॒व॒न्तीये॑नावारयत ॥47॥
@@ -344,6 +432,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Through this Viṣṇu strode,"—saying this, he strode forth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -368,6 +461,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He from whom domestic animals should scatter away, as it were,  
+should sacrifice with this \[rite\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मा॑त्प॒शव॒ᳶ प्रप्रेव॒ भ्रँशे॑रन् ।
@@ -391,6 +490,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because he obtained (āpnot) \[them\],  
+that is why the Aptoryāma has the nature of the Aptoryāma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -419,6 +524,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having won what was to be won by this, the gods  
+attained whatever desire they desired.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तेन॒ वै दे॒वा जैत्वा॑नि जि॒त्वा ।  
@@ -437,6 +548,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever desire he desires,  
+that he attains by this.
+</details>
 
 <details><summary>मूलम्</summary>
 

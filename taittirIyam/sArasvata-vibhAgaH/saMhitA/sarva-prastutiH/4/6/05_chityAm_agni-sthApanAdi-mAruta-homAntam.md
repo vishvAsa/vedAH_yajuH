@@ -1,6 +1,7 @@
 +++
 title = "०५ चित्याम् अग्नि-स्थापनादि-मारुत-होमान्तम्"
 +++
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -335,6 +336,14 @@ Go ye by Agni to the sky bearing the Ukhya in your hands. Reaching the heights o
 दिवः᳓ पृष्ठँ᳓ स्वर्गत्वा᳓ मिश्रा᳓ देवे᳓भिराध्वम्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+क्रमध्वम् अग्निभिर् नाकम्  
+उख्यां हस्तेषु बिभ्रतः ।  
+दिवस् पृष्ठं स्वर् गत्वा  
+मिश्रा देवेभिर् आध्वम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 क्रम॑ध्वम्। अ॒ग्निना॑। नाक॑म्। उख्या॑न्। हस्ते॑षु। बिभ्र॑तः। दि॒वः। पृ॒ष्ठम्। स्वः᳡। ग॒त्वा। मि॒श्राः। दे॒वेभिः॑। आ॒ध्व॒म्। १४.२।
@@ -637,6 +646,14 @@ who, knowing well, have extended the sacrifice of all-sided stream.
 यज्ञं᳓ ये᳓ विश्व᳓तोधारँ सु᳓विद्वाँसो वितेनिरे᳓
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+स्वर् यन्तो नापेक्षन्त  
+आ द्यां रोहन्तु राधसः ।  
+यज्ञं ये विश्वतोधारं  
+सुविद्वांसो वि तेनिरे ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 स्वः᳡। यन्तः॑। न। अप॑। ई॒क्ष॒न्ते॒। आ। द्याम्। रो॒ह॒न्ति॒। रोदसी॒ इति॑। य॒ज्ञम्। ये। वि॒श्वतः॑ऽधारम्। सुऽवि॑द्वांसः। वि॒ऽते॒नि॒रे। १४.४।
@@ -833,6 +850,18 @@ who, knowing well, have extended the sacrifice of all-sided stream.
 **इ᳓यक्षमाणा** भृ᳓गुभिस् सजो᳓षास्  
 सु᳓वर् **यन्तु** य᳓जमानास् स्वस्ति᳓ ।
 </details>
+
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/05_agne_prehi_prathamo.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अग्ने प्रेहि प्रथमो देवयतां  
+चक्षुर् देवानाम् उत मर्त्यानाम् ।  
+इयक्षमाणा भृगुभिः सजोषसः  
+स्वर् यन्तु यजमानाः स्वस्ति ॥
+</details>
+</details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

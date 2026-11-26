@@ -1766,6 +1766,14 @@ pressed strong Soma, the exhilarating drink, with the foaming liquor for Indra.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+healing for us is Sarasvatī;  
+Tvaṣṭṛ \[placed\] in Indra glory, prosperity,  
+every single form they placed at the pressed \[soma\];  
+in due season Indra, the Lord of the Forest,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्वि॑ना भेष॒जम्मधु॑ ।  
@@ -1946,6 +1954,16 @@ Praising with foaming liquor at due times, Indra, Vanaspatî, Sarasvatî as cow 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+exerting himself with filtered wine,  
+sweet draught for the Aśvins  
+yields Sarasvatī, the milch cow.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2099,3 +2117,14 @@ Asvins, to Indra ye with cows, with Mâsara and foaming drink Gave, with Sarasva
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As if with cows, soma, O Aśvins,  
+adorned with fermented liquor,  
+they set together with Sarasvatī,  
+Svāhā, honey pressed for Indra.
+</details>
+</details>

@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he lifts up the fire,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒ग्निमु॒द्धर॑ति ।
@@ -33,6 +38,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the fire is the Vasus.  
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in the Vasus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -58,6 +70,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Laid down, it lies smoldering;  
+then the fire is the Rudras.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निहि॑तो धूपा॒यञ्छे॑ते ।  
@@ -81,6 +99,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in the Rudras.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -107,6 +131,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The flame first touches the kindling-stick;  
+then the fire is the Ādityas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒थ॒ममि॒ध्मम॒र्चिरा ल॑भते ।
@@ -131,6 +161,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in the Ādityas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मि॒न्यस्य॒ तथा॑विधे॒ जुह्व॑ति ।  
@@ -149,6 +185,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The kindling-stick is completely blazing all over;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +215,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the fire is the Viśve Devas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वास्तर्ह्य॒ग्निः ।
@@ -191,6 +237,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in the Viśve Devas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +262,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The flame sinks low, becoming reddish, as it were;  
+then the fire is Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +297,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मि॒न्यस्य॒ तथा॑विधे॒ जुह्व॑ति ।  
@@ -259,6 +323,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are glowing coals;  
+from those glowing coals flame rises up;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अङ्गा॑रा भवन्ति ।  
@@ -278,6 +348,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the fire is Prajāpati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒स्तर्ह्य॒ग्निः ।
@@ -295,6 +370,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in Prajāpati.  
+Coals covered with ash are gathered up;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -320,6 +402,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the fire is the brahman.  
+In it, being such, when they offer for him,  
+his agnihotra becomes offered in the brahman.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -347,6 +436,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the Vasus, the Rudras, the Ādityas, the Viśve Devas,  
+in Indra, in Prajāpati, in the brahman—  
+without any omission indeed it becomes offered for him in these deities,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसु॑षु रु॒द्रेष्वा॑दि॒त्येषु॒ विश्वे॑षु दे॒वेषु॑ ।
@@ -366,6 +462,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for him who knows thus when they offer the agnihotra,  
+and who knows it thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

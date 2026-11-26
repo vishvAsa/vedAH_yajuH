@@ -21,6 +21,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those that flow from the front,  
+from above, and from every side,  
+with them, purified by rays,  
+I begin faith, the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याᳶ पु॒रस्ता॑त्प्र॒स्रव॑न्ति ।  
@@ -52,6 +60,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O gods, finders of the path,  
+find the path for the sacrifice.  
+With the divine Lord of the Mind,  
+may the sacrifice be joined from the wind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॑ गातुविदः ।  
@@ -83,6 +99,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the third heaven  
+Soma was brought by the Gāyatrī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तृ॒तीय॑स्यै दि॒वः ।  
@@ -114,6 +136,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To curdle for the soma-draught,  
+I take the inner bark.  
+O divine Waters, you are pure;  
+cleanse these vessels.  
+For the curdling agent of the gods,  
+cleanse also the parṇa-bark.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ देवीश्शु॒द्धास्स्थ॑ ।  
@@ -145,6 +177,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Milk in the houses, milk in the inviolable cows,  
+milk in the calves; be held as milk, as oblation for Indra.  
+May the Gāyatrī, with the parṇa-bark,  
+make this milk into Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पयो॑ गृ॒हेषु॒ पयो॑ अघ्नि॒यासु॑ ।  
@@ -176,6 +216,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I grasp Agni of good chariot, who is causing joy,  
+who ascends to the rising sun for the day,  
+the Āditya, highest light of lights;  
+let him rest for tomorrow's sacrifice for the deities.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निङ्गृ॑ह्णामि सु॒रथय्ँ॒यो म॑यो॒भूः ।  
@@ -199,6 +247,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Vasus, the Rudras, the Ādityas,  
+the deities together with Indra—  
+those I grasp first
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसू॑न्रु॒द्राना॑दि॒त्यान् ।  
@@ -222,6 +277,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in \[their\] own abode with thought.  
+Those who have entered this fifteenth vigor—  
+those deities I grasp first.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मामूर्ज॑म्पञ्चद॒शीय्ँय्ँ ये प्रवि॑ष्टाः ।  
@@ -245,6 +307,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni, carrier of oblations, bring them here;  
+this full-moon oblation of theirs is in me;  
+this new-moon oblation of theirs is in me.  
+Between the two fires, the domestic animals
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒मा॒वा॒स्यँ॑ ह॒विरि॒दमे॑षा॒म्मयि॑ ।  
@@ -274,6 +344,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+have come to the assembly of the gods;  
+those I grasp first  
+in \[their\] own abode with thought.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒राऽग्नी प॒शवः॑ ।  
@@ -307,6 +384,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May all-formed offspring rest here,  
+dwelling around Agni, the master of the house;  
+those I grasp first
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ह प्र॒जा वि॒श्वरू॑पा रमन्ताम् ।  
@@ -332,6 +416,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in \[their\] own abode with thought.  
+May all-formed domestic animals rest here,  
+dwelling around Agni, the master of the house;  
+those I grasp first  
+in \[their\] own abode with thought.  
+This fire of the ancestors
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ह प॒शवो॑ वि॒श्वरू॑पा रमन्ताम् ।  
@@ -366,6 +460,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+has carried the oblations to the ancestors;  
+that \[fire\] I grasp first;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्पि॑तृ॒णाम॒ग्निः ।  
@@ -398,6 +498,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may it make our food free from poison.  
+May the guardians of the hall continuously
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज॑स्र॒न्त्वाँ स॑भापा॒लाः ॥28॥  
@@ -429,6 +535,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+kindle you, who have the share of victory.  
+O Sabhya Agni, shine for me,  
+for victory, for a hundred autumns.  
+May I bring near the food of the hall,  
+for a hundred autumns.  
+In the hall, may Ahi Budhnya
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑मावस॒थीय॑म् ।  
@@ -462,6 +578,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestow prosperity and sacred utterance.  
+Here I announce the sacrifice to the Vasus,  
+who have Agni as their chief.  
+Here I announce the sacrifice to the Rudras,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -557,6 +681,17 @@ O Indra, do thou unite me.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who have Indra as their chief.  
+Here I announce the sacrifice to the Ādityas,  
+who have Varuṇa as their chief.  
+Rich in milk are the plants;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -576,6 +711,13 @@ O Indra, do thou unite me.
 <details><summary>Eggeling</summary>
 
 I will keep the vow! may I be equal to it, may I succeed in it!'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+rich in milk is the sap of the herbs;  
+that sap which is the milk of the waters—  
+with that, O Indra, unite me.
 </details>
 
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
@@ -648,6 +790,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, lord of vows, I will perform the vow;  
+may I be able to do that; may that succeed for me.  
+O Vāyu, lord of vows! O Āditya, lord of vows!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायो॑ व्रतपत॒ आदि॑त्य व्रतपते ॥30॥  
@@ -678,6 +827,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O lord of vows of vows, I will perform the vow;  
+may I be able to do that; may that succeed for me.  
+Facing east, facing north,  
+prepared for refreshment and vigor,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒माम्प्राची॒मुदी॑चीम् ।  
@@ -709,6 +866,16 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+having many leaves, its tip not dried,  
+I bring the guardian of domestic animals.  
+Since, having assumed a black form,  
+you entered the trees,  
+therefore, being well gathered, I gather you  
+in twenty-one pieces.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्कृष्णो॑ रू॒पङ्कृ॒त्वा ।  
@@ -732,6 +899,12 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three enclosing-sticks, three kindling-sticks,  
+traversing according to the lifespan of the sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीन्प॑रि॒धीँ स्ति॒स्रस्स॒मिधः॑ ।  
@@ -763,6 +936,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the fire-shovel, the stirring-stick, the fire-poker—  
+well gathered, I gather.  
+The plants that were born  
+for the gods three ages ago,
+</details>
+
 <details><summary>मूलम्</summary>
 
 या जा॒ता ओष॑धयः ।  
@@ -794,6 +975,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may I succeed in their joint  
+as I bring the strew.  
+Pure for water, worthy of sacrifice,  
+accompanied by the gods, may it be auspicious to me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम्मेध्यय्ँ॑ य॒ज्ञिय॑म् ।  
@@ -817,6 +1006,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May I, the cutter, not harm you;  
+may I live a hundred autumns.  
+You are the measured ones of the unmeasured;  
+I tie \[you\] together for well-done ritual work.  
+May I fall into no sin whatsoever;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑रिमिताना॒म्परि॑मिताः ।  
@@ -853,6 +1051,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+rising up again, may \[the plants\] become abundant.  
+Cut only once, the sacred grass is soft as wool;  
+comfortable for the fathers, I bring you.  
+Upon this let my soma-loving fathers sit,  
+grandfathers and great-grandfathers, together with their followers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिरूर्णा॑मृदु ।  
@@ -884,6 +1091,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Threefold darbha-grass in palāśa leaves,  
+of this size, measured as a span;  
+as the purifier in the sacrifice, most purifying,  
+let it prepare the milk as an offering for me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृत्प॑ला॒शे द॒र्भः ।  
@@ -907,6 +1122,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Exhalation and inhalation,  
+swelling every limb of the sacrifice,  
+let the two purifiers move about,  
+cleansing the sacrificial substance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मौ प्रा॑णापा॒नौ ।  
@@ -936,6 +1159,12 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two are the purifiers sacred to Viṣṇu;  
+may Vāyu purify you with his mind.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -971,6 +1200,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let this exhalation and inhalation  
+reach the sacrificer;  
+for they have become the two purifiers at the sacrifice,  
+the two strainers cleansing the sacrificial substance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्प्रा॒णश्चा॑पा॒नश्च॑ ।  
@@ -1002,6 +1239,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through you they discovered the altar, the earth;  
+through you the sacrifice is born, granting all things.  
+Knowing, you follow the unblemished sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वया॒ वेदिव्ँ॑ विविदुᳶ पृथि॒वीम् ।  
@@ -1033,6 +1277,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+through you the hotṛ extends the half-months.  
+You are the thirty-third of the threads;  
+come together with the purifier.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र॒य॒स्त्रिँ॒शो॑ऽसि॒ तन्तू॑नाम् ।  
@@ -1064,6 +1315,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Auspicious is this halter, the neck-rope;  
+let it serve the inviolable cow.  
+So that the sacrifice does not slip down,  
+I place the two cooking pots.  
+Let the two bear \[the milk\] gathered together by the cattle,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्र॑स्रँसाय य॒ज्ञस्य॑ ।  
@@ -1095,6 +1355,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the cooked milk and curds for Indra.  
+You are the fire-stirrer for the sacrifice;  
+they maintained you for serving the meal.  
+Making the oblation for Indra,  
+be auspicious and helpful to us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒वे॒षो॑ऽसि य॒ज्ञाय॑ ।  
@@ -1126,6 +1395,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the divine vessel, not made of clay,  
+be employed during the lifespan of the sacrifice.  
+Carried across the strainer,  
+hold the waters, let them not overflow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अमृ॑न्मयन्देवपा॒त्रम् ।  
@@ -1157,6 +1434,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purified by god Savitṛ,  
+by the rays of the radiant sun,  
+cleanse the cow, the milking strainers, the rope,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेन॑ सवि॒त्रोत्पू॑ताः ।  
@@ -1188,6 +1472,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+and all the vessels.  
+These \[cows\] approach, yielding sweet \[milk\],  
+rich in offspring, glorious, of all colors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ता आच॑रन्ति॒ मधु॑म॒द्दुहा॑नाः ।  
@@ -1216,6 +1507,11 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Becoming many, being born,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा स्थ॑ ।
@@ -1244,6 +1540,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Indra delight you cows here.  
+You are Pūṣan.  
+Free from disease, I unite you with your offspring;  
+becoming abundant through increase of wealth,  
+swelling with vigor, milk, and ghee,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒य॒क्ष्मा व॑ᳶ प्र॒जया॒ सँसृ॑जामि ।  
@@ -1274,6 +1579,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may I, living, dwell beside you living ones.  
+Let heaven and earth milk this sacrifice together;  
+may the Creator, together with Soma, and Vāyu with the wind,  
+bestow wealth upon the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यौश्चे॒मय्ँ य॒ज्ञम्पृ॑थि॒वी च॒ सन्दु॑हाताम् ।  
@@ -1304,6 +1617,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+They milk the fountain, the four-spouted pitcher,  
+the divine Iḍā, full of sweetness, finding heaven.  
+Let Indrāgnī quicken that with truth;  
+let that place the sacrificer in immortality.  
+Which \[cow\] have you milked? Tell us forth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्स॑न्दुहन्ति क॒लश॒ञ्चतु॑र्बिलम् ।  
@@ -1336,6 +1658,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the offering with Indra's power for Indra;  
+that one in which is placed the milk  
+of the gods and of humans.  
+Milk much for Indra, for the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 काम॑धुक्ष॒ᳶ प्र णो॑ ब्रूहि ।  
@@ -1369,6 +1699,11 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let the offering swell again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हु दु॒ग्धीन्द्रा॑य दे॒वेभ्यः॑ ।  
@@ -1400,6 +1735,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the calves, for humans,  
+may it be capable of milking again.  
+You are the continuity of the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्य॒ सन्त॑तिरसि ।  
@@ -1429,6 +1771,13 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+following the continuity of the sacrifice, I extend you.  
+You are unbroken; for Viṣṇu,  
+for the sacrifice, I cover you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अद॑स्तमसि॒ विष्ण॑वे त्वा ।  
@@ -1460,6 +1809,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With water, with a vessel not empty,  
+which purified lie around,  
+having made this milk into soma,  
+let it go to its own womb.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒यम्पय॒स्सोम॑ङ्कृ॒त्वा ।  
@@ -1491,6 +1848,15 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The parṇa-bark is the purifier,  
+sacred to Soma, for it was fashioned from soma.  
+These two, the parṇa and the darbha,  
+are the purifiers of the offering for the gods.  
+Guard \[the milk\] for the morning service; for, O Viṣṇu, you protect the offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मौ प॒र्णञ्च॑ द॒र्भञ्च॑ ।  
@@ -1522,6 +1888,14 @@ I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him who spreads the sacred grass on both fires,  
+let the deities stay near me;  
+I stay near the domestic animals,  
+for myself, the lord of cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भाव॒ग्नी उ॑पस्तृण॒ते ।  

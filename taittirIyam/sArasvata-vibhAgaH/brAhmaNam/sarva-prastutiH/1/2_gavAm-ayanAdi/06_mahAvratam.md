@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati, having emitted creatures, lay curled up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जास् सृ॒ष्ट्वा वृ॒त्तो॑ ऽशयत् ।
@@ -32,6 +37,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods, having collected the sap, the fiery energy of beings,  
+treated him with it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +68,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'He rolled around greatly' (mahān avavarti):  
+that is the great-vow-ness (mahāvratatva) of the Mahāvrata.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒हान॑वव॒र्तीति॑ । तन्म॑हाव्र॒तस्य॑ महाव्रत॒त्वम् ।
@@ -81,6 +98,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'A great vow' (mahad vratam):  
+that is the great-vow-ness of the Mahāvrata.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒हद्व्र॒तमिति॑ । तन्म॑हाव्र॒तस्य॑ महाव्रत॒त्वम् ।
@@ -104,6 +127,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The vow of the great one' (mahato vratam):  
+that is the great-vow-ness of the Mahāvrata.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ह॒तो व्र॒तमिति॑ । तन्म॑हाव्र॒तस्य॑ महाव्रत॒त्वम् ।
@@ -126,6 +155,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stoma is twenty-five-fold.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -153,6 +187,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The year has twenty-four half-months.  
+What was born upon this year,
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑र्विँशत्य् अर्धमासस् सव्ँवत्स॒रः ।
@@ -170,6 +210,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that food became the twenty-fifth.  
+It is performed in the middle;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -195,6 +241,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for food, when eaten, gratifies from the middle;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ध्य॒तᳵ क्रि॑यते ।
@@ -218,6 +269,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+moreover, vigor is placed in the middle of offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -244,6 +300,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And because this is performed at the end,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ मध्य॒त ए॒व प्र॒जाना॒म् ऊर्ग् धी॑यते ।
@@ -267,6 +328,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore offspring thrive at the end.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -293,6 +359,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is performed at the end just for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒तᳵ क्रि॑यते प्र॒जन॑नाय ए॒व ।
@@ -316,6 +387,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The head is the Trivṛt \[stoma\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृच् छिरो॑ भवति ॥45॥
@@ -338,6 +414,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the head is threefold:  
+hair, skin, bone.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -364,6 +446,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They praise facing away;
+</details>
+
 <details><summary>मूलम्</summary>
 
 परा॑चा स्तुवन्ति ।
@@ -386,6 +473,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore that \[head\] is uniform;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +502,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it does not fatten along with the fattening \[body\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 न मेद्य॒तो ऽनु॑ मेद्यति ।
@@ -433,6 +530,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+nor does it become emaciated along with the emaciating \[body\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 न कृश्य॒तो ऽनु॑ कृश्यति ।
@@ -455,6 +557,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The other wing is fifteen-fold;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +587,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the other is seventeen-fold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्त॒-द॒शो॑ ऽन्यः।
@@ -502,6 +614,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore birds turn toward one side,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -526,6 +643,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is made heavier on one side.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्य॒त॒रतो॒ हि तद् गरी॑यᳵ क्रि॒यते॑ ॥46॥
@@ -549,6 +671,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The body is twenty-five-fold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒-विँ॒श आ॒त्मा भ॑वति ।
@@ -571,6 +698,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore animals are thickest in the middle.  
+The tail is twenty-one-fold.  
+They praise on two-footed \[verses\] for support.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +731,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They praise together with all;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वे॑ण स॒ह स्तु॑वन्ति ।
@@ -619,6 +758,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for through the whole body one is embodied.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -643,6 +787,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They fly up together;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒होत्पत॑न्ति ।
@@ -665,6 +814,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they leave one remaining;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -689,6 +843,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the limbs are bound in the body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मन्न् ह्य् अङ्गा॑नि ब॒द्धानि॑ ।
@@ -712,6 +871,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Not everyone indeed \[is whole\] by this man.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न वा ए॒तेन॒ सर्व॒ᳶ पुरु॑षः॥47॥
@@ -734,6 +898,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because hair, teeth, nails from here and there  
+\[are fallen\], songs of mourning (parimādaḥ) are performed;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +930,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that, these very \[parts\] are replanted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान्य् ए॒व तेन॒ प्रत्य् उ॑प्यन्ते ।
@@ -782,6 +957,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The couch is made of udumbara wood;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -806,6 +986,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the udumbara is vigor, food;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ग् वा अन्न॑म् उदु॒म्बरः॑ ।
@@ -824,6 +1009,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[it is\] for securing vigor, food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ज ए॒वान्नाद्य॒स्याव॑रुध्यै ।
@@ -841,6 +1031,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who has not won couch-sitting,  
+he, in the presence of the gods,  
+should ascend the couch and chant, thinking: 'May I win couch-sitting!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -867,6 +1064,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He wins couch-sitting.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त॒ल्प॒सद्य॑म् ए॒वाभि-ज॑यति ॥48॥
@@ -889,6 +1091,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who has won couch-sitting,  
+he, in the presence of the gods,  
+should ascend the couch and chant, thinking: 'May I not lose couch-sitting!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -914,6 +1123,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He does not lose couch-sitting.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न त॑ल्प॒सद्य॒म् परा॑-जयते ।
@@ -936,6 +1150,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He recites on a swing;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -960,6 +1179,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the swing is majesty;  
+\[it is\] for securing majesty, food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महो॒ वै प्ले॒ङ्खः, मह॑स ए॒वान्नाद्य॒स्याव॑रुद्ध्यै ।
@@ -983,6 +1208,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।
@@ -1005,6 +1235,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they contended for the sun;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1030,6 +1265,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the gods won it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन् दे॒वास् सम॑जयन्न् ॥49॥
@@ -1047,6 +1287,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin and a Śūdra contend over a round hide.  
+The Brahmin is divine in caste;  
+the Śūdra is of asuric nature.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1074,6 +1321,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'These have succeeded, these have produced good fortune,' one should say;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "इ॒मे॑ ऽरात्सुर्" , "इ॒मे सु॑भू॒तम् अ॑क्र॒न्न्" इत्य् अ॑न्यत॒रो ब्रू॑यात् ।
@@ -1096,6 +1348,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'These have abandoned, these have produced ill fortune,' the other.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1121,6 +1378,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever good deed they have, whatever success,  
+that one joins with;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदे॒वैषाँ॑ सुकृ॒तय्ँया राद्धिः॑ । तद॑न्यत॒रो॑ऽभिश्री॑णाति ।
@@ -1144,6 +1407,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever bad deed they have, whatever success,  
+that the other strikes away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदे॒वैषा॑न्दुष्कृ॒तय्ँयाऽरा॑द्धिः । तद॑न्यत॒रोऽप॑हन्ति । ब्रा॒ह्म॒णस्सञ्ज॑यति ।
@@ -1166,6 +1435,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin wins;  
+they win that very sun from the rival.
+</details>
 
 <details><summary>मूलम्</summary>
 

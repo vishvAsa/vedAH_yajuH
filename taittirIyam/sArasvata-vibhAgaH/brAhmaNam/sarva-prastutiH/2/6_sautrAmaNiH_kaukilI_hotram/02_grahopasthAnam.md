@@ -260,6 +260,13 @@ this milk, the immortal honey.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma apart from the waters with the meter;  
+through truth, real faculty.  
+It drank milk apart from the waters,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑म॒द्भ्यो व्य॑पिबत् ।  
@@ -287,6 +294,14 @@ this milk, the immortal honey.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the curlew descended from Aṅgiras, with thought;  
+through truth, real faculty.  
+Regal power with sacred prayer  
+drank the sap apart from the food of overflowing liquor;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -327,6 +342,15 @@ this milk, the immortal honey.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through truth, real faculty.  
+One leaves behind semen and urine;  
+faculty enters the womb;  
+the embryo covered with the chorion  
+leaves behind the amnion through birth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 योनि॑म्प्रवि॒शदि॑न्द्रि॒यम् ।  
@@ -356,6 +380,14 @@ this milk, the immortal honey.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through truth, real faculty.
+
+Prajāpati differentiated forms  
+into real and unreal through sacred knowledge;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -398,6 +430,18 @@ this milk, the immortal honey.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through truth, real faculty.  
+Prajāpati drank apart two Somas with Soma,  
+the pressed and the unpressed;  
+through truth, real faculty.  
+Having seen two forms, Prajāpati  
+differentiated truth and untruth;  
+Prajāpati placed unfaith in untruth,  
+faith in truth;
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that was the tiger;  
+what \[came\] from his two ears,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य सुषुवा॒णस्य॑ दश॒धेन्द्रि॒यव्ँ वी॒र्य॑म्परा॑ऽपतत् ।
@@ -27,6 +33,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that was the wolf;  
+what was upward,  
+that was Soma;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -55,6 +68,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what was downward,  
+that was the surā liquor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्द्वि॒तीय॑म् ।  
@@ -74,6 +93,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are three kinds of groats,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्तृ॒तीय॑म् ।  
@@ -92,6 +116,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for securing capacity;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +144,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[there are\] three kinds of hairs.
+
+That is the tiger.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +177,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is at the ears,  
+that is the wolf.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्कर्ण॑योः ।   
@@ -164,6 +206,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is upward,  
+that is Soma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +237,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is downward,  
+that is surā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याऽवा॑ची॒ सा सुरा॑ ।
@@ -213,6 +267,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are three kinds of groats,  
+for the securing of Indra's power;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र॒यास्सक्त॑वो भवन्ती॒न्द्रि॒यस्याव॑रुद्ध्यै ।
@@ -235,6 +295,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+there are three kinds of hairs.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -259,6 +324,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He secures brilliant splendor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्विषि॑मे॒वाव॑रुन्धे ।
@@ -281,6 +351,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are three grahas;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -305,6 +380,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वी॒र्य॑मे॒वाव॑रुन्धे ।
@@ -322,6 +402,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By name, \[there is\] a tenth \[graha\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +434,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nine indeed are the exhalations in a person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव॒ वै पुरु॑षे प्रा॒णाः ।
@@ -367,6 +457,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the navel is the tenth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभि॑र्दश॒मी ।
@@ -384,6 +479,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The exhalations are physical faculty and heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -409,6 +509,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer places the exhalations, physical faculty, and heroic power into himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णाने॒वेन्द्रि॒यव्ँ वी॒र्यय्ँ॑यज॑मान आ॒त्मन्ध॑त्ते ।
@@ -426,6 +531,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With lead, he buys the sprouted grass from a eunuch.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +560,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this is neither iron nor gold.
+
+Since it is lead,
+</details>
+
 <details><summary>मूलम्</summary>
 
 न वा ए॒तदयो॒ न हिर॑ण्यम् ॥17॥  
@@ -468,6 +585,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[it is\] neither female nor male.  
+Since \[he is\] a eunuch,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -494,6 +617,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[it is\] neither soma nor surā.  
+That Sautrāmaṇī is for success.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न सोमो॒ न सुरा॑ ।  
@@ -518,6 +647,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Thee, sweet, with what is sweet.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "स्वा॒द्वीन्त्वा॑ स्वा॒दुने"त्या॑ह ।
@@ -541,6 +675,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He makes it Soma indeed.  
+He says: 'Thou art Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑मे॒वैना॑ङ्करोति ।
@@ -558,6 +698,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+cook for the Aśvins, cook for Sarasvatī, cook for Indra the good savior.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +727,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For it is cooked for these deities.  
+It rests blended for three \[nights\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ताभ्यो॒ ह्ये॑षा दे॒वता॑भ्य॒ᳶ पच्य॑ते ।
@@ -604,6 +755,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For bought Soma rests for three nights.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -628,6 +784,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the yajus formula: 'May he purify thy filtered liquor', he purifies it for distinction.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "पु॒नातु॑ ते परि॒स्रुत॒"मिति॒ यजु॑षा पुनाति॒ व्यावृ॑त्त्यै ।
@@ -650,6 +811,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He purifies it with a strainer;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -674,6 +840,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for with a strainer they purify Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒वित्रे॑ण॒ हि सोम॑म्पु॒नन्ति॑ ।
@@ -691,6 +862,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'With hair, with the continuous offspring.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -718,6 +894,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For with horsehair they purify Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वारे॑ण॒ हि सोम॑म्पु॒नन्ति॑ ।
@@ -736,6 +917,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With: 'Vāyu, purified by the strainer'—he should not purify with this \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 "वा॒युᳶ पू॒तᳶ प॒वित्रे॒णे"ति॒ नैतया॑ पुनीयात् ।
@@ -753,6 +939,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is flawed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -778,6 +969,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of one excessively purified by soma, he should purify with this \[formula\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ति॒प॒वि॒तस्यै॒तया॑ पुनीयात् ।
@@ -800,6 +996,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With: 'Will indeed, comrade?'—an unspecified \[verse\] addressed to Prajāpati—he draws \[the cup\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +1026,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is unspecified;  
+\[it is\] for obtaining Prajāpati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनि॑रुक्तᳶ प्र॒जाप॑तिः ।  
@@ -848,6 +1055,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He draws with a single verse;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +1086,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places heroic power in the sacrificer singly.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धैव यज॑माने वी॒र्य॑न्दधाति ।
@@ -891,6 +1108,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He seizes a smoke-colored \[victim\] for the Aśvins;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -917,6 +1139,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Aśvins indeed are the two physicians of the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्विनौ॒ वै दे॒वाना॑म्भि॒षजौ॑ ।
@@ -934,6 +1161,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the two of them he makes medicine for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -953,6 +1185,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[He seizes\] a ram for Sarasvatī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तम्मे॒षम्।
@@ -970,6 +1207,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sarasvatī indeed is speech;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -989,6 +1231,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by speech indeed he heals him.  
+\[He seizes\] a bull for Indra, for possession of Indra's nature.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -23,6 +23,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sinless are we before you,  
+sent forth by Indra.  
+May Vāyu be the stalk-producer for you;  
+may Mitra be the stalk-producer for you;  
+may Varuṇa be the stalk-producer for you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ना॒गस॑स्त्वा व॒यम् ।  
@@ -61,6 +70,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Inhabitants of the waters, embryos of the truth,  
+guardians of the world, falcon guests,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपा॑ङ्क्षया॒ ऋत॑स्य गर्भाः ।  
@@ -87,6 +102,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+peaks of the mountains, unfailing descendants,
+</details>
+
 <details><summary>मूलम्</summary>
 
 घोषे॒णामी॑वाँ श्चातयत ॥96॥  
@@ -109,6 +129,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+call Indra with your rumble;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +167,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+drive away ailments with your noise!
+
+Yoked are you; draw!  
+The divine pressing stones have sounded: 'Indu, Indra!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा "ग्रावा॑ण॒ इन्दु॒रिन्द्र॒" इत्य॑वादिषुः ।  
@@ -169,6 +202,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They have shaken Indra hither from the farthest distance,  
+from this seat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आऽस्मात्स॒धस्था॑त् ।  
@@ -194,6 +233,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the wide intermediate space.  
+They have pressed forth good fortune,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ सु॑भू॒तम॑सुषवुः ।  
@@ -218,6 +263,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have pressed forth spiritual preeminence for me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म॒रे रक्षाँ॑स्यवधिषुः ।  
@@ -240,6 +290,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have slain the demons in the conflict.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -274,6 +329,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Slain is the \[enemy\] of the robber of sacred lore.  
+May speech and mind cook you;
+
+may exhalation and inhalation cook you;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाक्च॑ त्वा॒ मन॑श्च श्रीणीताम् ॥97॥  
@@ -299,6 +362,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may sight and hearing cook you;  
+may skill and strength cook you;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दक्ष॑श्चत्वा॒ बल॑ञ्च श्रीणीताम् ।  
@@ -323,6 +392,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may splendorous might and force cook you;  
+may lifespan and old age cook you;  
+may soul and body cook you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -350,6 +426,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are cooked, made cooked;  
+for the cooked \[god\] to you, for the cooked \[gods\] to you!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -385,6 +467,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whom they call Indra, whom they call Varuṇa,  
+whom they call Mitra, and whom they call Truth;
+
+who is the most divine of the gods, born of heat,  
+for him to you, for them to you!  
+In me is that great indriya power;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -422,6 +514,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in me is skill, in me is mental power;  
+in me is excellent heroic power established.  
+May the triply shining cauldron beam out for me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मयि॒ त्यदि॑न्द्रि॒यम्मह॒त् ।  
@@ -453,6 +552,18 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+along with intention and mind,  
+along with the virāj metre and light,  
+along with sacrifice and milk;  
+may we obtain its milk!
+
+May we obtain its favor;  
+may we obtain its portion.  
+May speech, finding pleasure, be satisfied with the soma!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -491,6 +602,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Mitra brings men together…', 'He, O Mitra…' \[etc.\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -661,6 +777,18 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Than whom none other was born higher,  
+who entered all worlds,  
+Prajāpati, agreeing with offspring,  
+accompanies the three lights, being the sixteenfold.  
+This is the seasonal priest,
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 एष᳓ ब्रह्मा᳓ य᳓ ऋत्वि᳓यः ।  
@@ -668,6 +796,13 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+known by the name of Indra in the troop.
+
+I have praised your two bay steeds for the great rite,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -694,6 +829,12 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[the steeds\] which are seasonal; I solicit for you  
+the desirable exhilaration of the worshiper.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -722,6 +863,13 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra by name, who like clarified butter  
+is delightfully poured out with the bay steeds;  
+famed in the troop, let the songs
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -761,6 +909,14 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+enter you who possess bay form!  
+O Indra, overlord, you are the overlord of the gods;  
+make me an overlord,  
+long-lived and radiant among humans!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्राधि॑प॒तेऽधि॑पति॒स्त्वन्दे॒वाना॑मसि ।  
@@ -788,6 +944,14 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra the emperor and Varuṇa the king,  
+they two first made this portion for you;  
+in following of them two, I partake of the portion.  
+May speech, finding pleasure, be satisfied with the soma!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +989,14 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati Viśvakarman,  
+may I propitiate his divine mind with sacrifice!  
+You go straight to the goal, not forsaken;  
+O lord of the homestead, find a homestead for me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -864,6 +1036,16 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage to Rudra, lord of the homestead,  
+in coming, in running away;
+
+in setting forth, in departing,  
+in turning towards, in turning away,  
+whoever watches over, him I call.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ रु॒द्राय॑ वास्तो॒ष्पत॑ये ।  
@@ -901,6 +1083,15 @@ Than whom there is none other born more mighty, who hath pervaded all existing c
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever debts I have that are not paid back,  
+for which I go about with Yama's tribute,  
+being here indeed, may we repay that;  
+living, may we pay it back to the living.  
+Debt-free in this world, debt-free in the next,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -979,6 +1170,14 @@ May we be free in this world and that yonder, in the third world may we be unind
 सर्वा॑न्प॒थो अ॑नृ॒णा आक्षी॑येम ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अनृणा अस्मिन्न् अनृणाः परस्मिन्  
+तृतीये नाके अनृणाः स्याम ।  
+ये देवयाना उत पितृयाणाः  
+सर्वान् पथो अनृणाः क्षयेम ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒नृ॒णाः। अ॒स्मिन्। अ॒नृ॒णाः। पर॑स्मिन्। तृ॒तीये॑। लो॒के। अ॒नृ॒णाः। स्या॒म॒। ये। दे॒व॒ऽयानाः॑। पि॒तृ॒ऽयानाः॑। च॒। लो॒काः। सर्वा॑न्। प॒थः। अ॒नृ॒णाः। आ। क्षि॒ये॒म॒। ११७.३।
@@ -1024,6 +1223,18 @@ May we be free in this world and that yonder, in the third world may we be unind
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we be debt-free in the third world!  
+The paths that are of the gods and that are of the ancestors,
+
+debt-free may we dwell along all the paths!  
+We have just now come to this better homestead;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1041,6 +1252,13 @@ May we be free in this world and that yonder, in the third world may we be unind
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+propitious to us are both these, heaven and earth,  
+possessing cattle, possessing wealth, possessing horses, full of vigor;  
+endowed with heroes, may we move about together with heroes.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1079,6 +1297,14 @@ May we be free in this world and that yonder, in the third world may we be unind
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sun is the purifier, measuring the realm of space;  
+it purifies all the creatures of the gods.  
+Heaven and earth, agreeing in milk,  
+swollen, yield clarified butter, the nectar of immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्कᳶ प॒वि॒त्रँ॒ रज॑सो वि॒मानः॑ ।  
@@ -1107,6 +1333,14 @@ May we be free in this world and that yonder, in the third world may we be unind
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sun, the purifier, measuring the realm of space,  
+purifies all the creatures of the gods.  
+Light, heavenly light, great glory,  
+may we attain a shallow and a firm foundation!
+</details>
 
 <details><summary>मूलम्</summary>
 

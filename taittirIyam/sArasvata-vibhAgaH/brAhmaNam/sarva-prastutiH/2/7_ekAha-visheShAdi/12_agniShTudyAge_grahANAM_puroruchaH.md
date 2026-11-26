@@ -465,6 +465,16 @@ Sein sind der Häuser ewig junge Feuer, die treibenden, mit hellem Rauche flamme
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+His unaging, destructive fires in the house,  
+with blazing smoke, are purifying,  
+white-gleaming, invigorating, active,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -846,6 +856,15 @@ Verehr' uns, Mitra-Varuna, die Götter und das hehre Recht, O Agni, ehr' dein ei
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+dwelling in the woods, like winds, like soma draughts.  
+Sacrifice for us to Mitra and Varuṇa,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1063,6 +1082,18 @@ O Ritter, trinkt den süssen Trank, ihr hellentflammten, reingesinnt, Und nehmt 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sacrifice to the gods, to the great truth;  
+Agni, sacrifice in your own house!  
+Aśvins, drink the pressed \[soma\],  
+you two whose fires shine, whose vows are pure,  
+carrying the sacrifice in due season!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1183,6 +1214,14 @@ suvárcāḥ ← suvárcas- (nominal stem)
 अ॒न्याऽन्या॑ व॒त्समुप॑धापयेते ।  
 हरि॑र॒न्यस्या॒म्भव॑ति स्व॒धावा॑न् ।  
 शु॒क्रो अ॒न्यस्या॑न्ददृशे सु॒वर्चाः॑  ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+द्वे विरूपे चरतः स्वर्थे  
+अन्यान्या वत्सम् उप धापयेते ।  
+हरिर् अन्यस्यां भवति स्वधावाञ्  
+छुक्रो अन्यस्यां ददृशे सुवर्चाः ॥ +++(Bhatt. śukro)+++
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1589,6 +1628,17 @@ Zwei ungleichfarb'ge gehn zu schönem Ziele, ihr Junges säugend, eine um die an
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two of different forms wander with a single purpose;  
+each in turn suckles the calf.  
+The tawny one is in the one, possessing the customary offering;  
+the clear, bright-lustered one is seen in the other.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1992,6 +2042,15 @@ Nacheinander umwandern mit ihrer Zaubermacht diese beiden munteren Kinder [Sonne
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three hundred, three thousand,  
+and thirty-nine gods served Agni.
+
+They sprinkled \[him\] with clarified butter, they spread the sacrificial grass for him;  
+then they seated him as the Hotṛ priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीणि॑ श॒ता त्रीष॒हस्रा॑ण्य॒ग्निम् ।  
@@ -2324,6 +2383,13 @@ Der Glut-Gott wird durch Glut entflammt, der weise Jüngling, Hauses Herr, Der O
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the belly of the gods,  
+of purified skill, whose will is wisdom;  
+may the god come with the gods!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2719,6 +2785,20 @@ Wie Feuer glänzt die menschenholde Marutschar, wir wünschen ihre schnelle, sta
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Maruts, of fiery splendor, belonging to all peoples,  
+we ask for their brilliant, mighty favor.
+
+They are masters, Rudra's sons, rain-attired,  
+like lions, of roaring strength, very generous.  
+Whether, O Maruts, O fortunate ones dwelling in heaven,  
+you are in the highest, the middle,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -3122,6 +3202,15 @@ Wenn ihr, o reiche Maruts, seid im höchsten, im mittlern oder auch im tiefsten 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or the lowest,  
+from there, O Rudras, or also from here,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3139,6 +3228,15 @@ Wenn ihr, o reiche Maruts, seid im höchsten, im mittlern oder auch im tiefsten 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+know our oblation, O Agni, when we sacrifice!  
+I praise Agni of great aid with homages;  
+crawling forth here, may he examine our deed.  
+As if on swift-footed chariots, I offer \[praise\];  
+circling to the right, may I succeed with the chant of the Maruts.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3574,6 +3672,18 @@ O Agni hör, erhörender, begleitet von dem Götterzug; Lass auf die Streu sich 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Listen, O keen-eared one, along with the conveyers,  
+the gods, Agni, who travel with you!  
+Let them sit on the sacrificial grass:  
+Mitra, Varuṇa, Aryaman,  
+who go early in the morning to the sacrificial rite.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3591,6 +3701,15 @@ O Agni hör, erhörender, begleitet von dem Götterzug; Lass auf die Streu sich 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aditi of all the worshipful ones,  
+the guest of all men,  
+Agni, granting the aid of the gods,  
+very gracious, knowing all things, may he be!  
+Begging good favor in you, O Agni,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3954,6 +4073,16 @@ Von dir, o Agni, holden Sinn erbittend, erlangten Ruhm im Himmel die verehrten; 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the worshipful ones have established renown in heaven,  
+and have made Night and Dawn of different forms,  
+and have set together the black and the ruddy color.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3971,6 +4100,14 @@ Von dir, o Agni, holden Sinn erbittend, erlangten Ruhm im Himmel die verehrten; 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, the Ādityas made their mouth;  
+you, O sage, the pure ones made their tongue;  
+you, the bestowers of gifts, attended at the sacrificial rites;  
+in you the gods eat the offered oblation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4308,6 +4445,17 @@ Wie Manus setzen wir, o Gott, dich als den Opferfördrer ein, Als Priester, Agni
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We install you, the accomplisher of sacrifice,  
+Agni, the Hotṛ, the ṛtvij priest,  
+zealously, O god, we set you, the wise,  
+the swift messenger, the immortal!
+</details>
+</details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>
 

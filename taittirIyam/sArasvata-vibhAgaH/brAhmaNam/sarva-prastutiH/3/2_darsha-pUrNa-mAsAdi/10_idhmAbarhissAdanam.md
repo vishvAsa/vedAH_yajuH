@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wooden sword is a thunderbolt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वज्रो॒ वै स्फ्यः ।
@@ -40,6 +45,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should hold it pointing lengthwise,  
+the Adhvaryu would injure himself on the thunderbolt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् अ॒न्वञ्चं॑ धा॒रये॑त् ।  
@@ -66,6 +77,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He holds it crosswise in front.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रस्ता॑त्ति॒र्यञ्चं॑ धारयति ।
@@ -83,6 +99,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wooden sword is a thunderbolt.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +133,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the thunderbolt he strikes away the rakṣases to the south of the sacrifice:  
+with the two fires, those in the east and the west;  
+with the wooden sword, those in the north and down below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -149,6 +177,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the wooden sword as a thunderbolt, having struck away evil, his rival,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्फ्येन॒ वा ए॒ष वज्रे॑णा॒स्यै पा॒प्मान॒म्भ्रातृ॑व्यमप॒हत्य॑ ।
@@ -179,6 +212,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he cuts \[him\] down onto the rubbish heap,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त्क॒रेऽधि॒ प्रवृ॑श्चति ॥83॥  
@@ -205,6 +243,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+just as they cut down \[a victim\] having laid it on a block.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -234,6 +277,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He washes his hands;  
+he purifies himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्फ्यम्प्रक्षा॑लयति मेध्य॒त्वाय॑ ।
@@ -256,6 +305,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He rinses the wooden sword for fitness for sacrifice;  
+then he cuts away the trace of evil, the rival.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -287,6 +342,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sets near the kindling wood and sacrificial grass for joining,  
+for forming a pair in the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ध्माब॒र्हिरुप॑सादयति॒ युक्त्यै॑ ।  
@@ -316,6 +377,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he establishes this as a preliminary illumination,  
+for the clear perception of the subsequent ritual action.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -348,6 +415,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not set them near from east to west.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न पु॒रस्ता॑त्प्र॒त्यगुप॑सादयेत्॥84॥
@@ -372,6 +444,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should set them near from east to west,  
+he would cause the kindling wood to arrive away from the path of the oblations.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -399,6 +477,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificial grass is offspring;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा वै ब॒र्हिः ।
@@ -416,6 +499,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would miss the procreation of offspring with the sacrificial grass.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -439,6 +527,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sets them near from west to east;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -468,6 +561,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he causes the kindling wood to arrive by the path of the oblations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒हु॒ति॒प॒थेने॒ध्मम्प्रति॑पादयति ।
@@ -491,6 +589,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he meets the procreation of offspring directly with the sacrificial grass.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्प्र॒त्ये॑व ब॒र्हिषा॑ प्र॒जाना॑म्प्र॒जन॑न॒मुपै॑ति ।
@@ -513,6 +616,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The kindling wood is to the south,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -543,6 +651,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificial grass to the north.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्त॑रम्ब॒र्हिः ।
@@ -560,6 +673,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The kindling wood is the self;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -583,6 +701,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificial grass is offspring;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -615,6 +738,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for offspring are farther north of oneself at the crossing place.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा ह्या॑त्मन॒ उत्त॑रतरा ती॒र्थे ।
@@ -638,6 +766,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having brought the sacrificial substance near from there,  
+he establishes it according to each deity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -672,6 +806,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer firmly establishes himself with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 

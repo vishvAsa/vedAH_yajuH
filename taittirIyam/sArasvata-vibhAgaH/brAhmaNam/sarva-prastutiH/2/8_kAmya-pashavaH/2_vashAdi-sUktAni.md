@@ -22,6 +22,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May they, radiant, bright, ray-possessing,  
+the Ādityas, sit upon the dear sacred grass!  
+According to \[our\] desire, gods riding together from heaven,  
+let them come to our sacrifice, enjoying \[it\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते शु॒क्रास॒श्शुच॑यो रश्मि॒वन्तः॑ ।   
@@ -58,6 +66,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those sons of Aditi, born of truth, swelling with ghee,  
+will welcome the fat refreshment;  
+worthy of sacrifice, they have extended toward the sacrificer,  
+the Ādityas, a food-rich desire for us.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -96,6 +112,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the sons of Aditi come to our sacrifice,  
+the Ādityas, along the paths traveled by the gods,
+
+granting desire to us, to the giver;  
+may they enjoy the ghee-anointed sacrificial cake!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ न॑ᳶ पु॒त्रा अदि॑तेर्यान्तु य॒ज्ञम् ।  
@@ -132,6 +157,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ward off perdition, drive away poverty,  
+striving forward with your rays, unflagging ones!  
+O Ādityas, according to your desire, at the offered vaṣaṭ-utterance
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -170,6 +202,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+enjoy our offering of oblations, O adorable ones!  
+Let us call the Ādityas according to desire for assistance,  
+who, generating beings, looked forth;  
+may the sons of Aditi sit in the lap,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यान्काम॒मव॑से हुवेम ।  
@@ -206,6 +246,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the gods on the strewn sacred grass, to eat the oblation!
+
+Sit on the strewn sacred grass at this sacrifice,  
+swiftly driving away ill-fortune and poverty!  
+May the sons of Aditi extend to us \[blessings\],  
+the Ādityas, according to desire, enjoying the oblation!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2904,6 +2954,12 @@ O Sänger streckt mit Andacht eifrig wirkend, ihr Frommen, vor den Löffel für 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra the heroes, I yoke the chariot;  
+I have grasped your right hand, O Indra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॒न्नरो॑ यु॒जे रथ॑म् ।
@@ -3299,6 +3355,17 @@ Wir haben deine rechte Hand ergriffen, nach Schätzen lüstern, Indra, Herr der 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+seeking goods, O lord of goods of all goods!  
+For we know you, O hero, as lord of cattle of cows;  
+give us wondrous, fecund wealth!  
+Yours is all this around that has cattle,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3381,6 +3448,17 @@ Thine is this world of flocks and herds around thee, which with the eye of Surya
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever you behold through the eye of the sun;  
+you alone, O Indra, are the lord of cows of the cattle;  
+may we partake of your offered treasure!  
+Unite us with wisdom, O Indra, with cows,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3444,6 +3522,17 @@ With loving kindness of the gods to whom sacrifice is made.
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+unite us with the patron-singers, O bounteous one, unite us with well-being,  
+unite us with brahman, whatever is made by the gods,
+
+unite us with the favor of the gods worthy of sacrifice!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -3840,6 +3929,11 @@ Auch aus der Ferne stosse fort die Feinde mit deiner starken Waffe, vielgerufner
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the creator, for he is pure;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ वे॒धसँ॒ स हि शुचिः॑ ।
@@ -4159,6 +4253,11 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Hither to us from heaven,"
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॑स्पते॒ पर्ये॒वा पि॒त्रे ।
@@ -4200,6 +4299,11 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Belonging to the lance,"
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ नो॑ दि॒वᳶ पावी॑रवी ।
@@ -4239,6 +4343,11 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"These offering," "What breast of yours,"
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मा जुह्वा॑ना॒ यस्ते॒ स्तनः॑ ।
@@ -4275,6 +4384,11 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"O Sarasvatī, lead us forward."
+</details>
 
 <details><summary>मूलम्</summary>
 

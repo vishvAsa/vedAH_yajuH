@@ -19,6 +19,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the Hotṛ; may Agni partake.  
+May he partake of the hotr office, of the protective \[drink\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर् होता॒ वेत्व॒ग्निः ।  
@@ -49,6 +55,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We are \[ready\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्मो व॒यम् ।  
@@ -74,6 +85,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fit for you, O sacrificer, is the deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा॒धु ते॑ यजमान दे॒वता॑ ।  
@@ -97,6 +113,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Adhvaryu, take up the ladle full of ghee,  
+god-seeking, possessing all boons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तव॑तीमध्वर्यो॒ स्रुच॒मास्य॑स्व ।  
@@ -119,6 +141,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We praise the gods who are worthy of praise;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -144,6 +171,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+we revere those worthy of reverence;  
+we sacrifice to those worthy of sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 

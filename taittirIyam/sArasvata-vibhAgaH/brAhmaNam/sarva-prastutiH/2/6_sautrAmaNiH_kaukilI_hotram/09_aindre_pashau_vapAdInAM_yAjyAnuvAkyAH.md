@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The filler of peoples has arrived, which has attended me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आच॑र्षणि॒प्रा वि॒वेष॒ यन्मा॑ ।  
@@ -64,6 +69,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+coming together with him.
+</details>
 
 <details><summary>मूलम्</summary>
 

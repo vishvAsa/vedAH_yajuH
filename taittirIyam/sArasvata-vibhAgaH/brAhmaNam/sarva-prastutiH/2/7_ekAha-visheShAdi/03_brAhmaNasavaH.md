@@ -11,6 +11,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That there is \[an oblation\] to Agni:  
+the Brahmin belongs to Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा॑ग्ने॒यो भव॑ति ।  
@@ -36,6 +42,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Soma:  
+the Brahmin belongs to Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यत्सौ॒म्यः ।   
@@ -59,6 +71,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[The oblation\] to Savitṛ is for impulsion.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +103,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Bṛhaspati:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यद्बा॑र्हस्प॒त्यः ।  
@@ -110,6 +132,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+this is the Brahmin's mastery of speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यद॑ग्नीषो॒मीयः॑ ।
@@ -128,6 +155,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Agni and Soma:
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यो वै ब्रा॑ह्म॒णः ।
@@ -145,6 +177,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Brahmin belongs to Agni;  
+when these two come together,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +209,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then he becomes more endowed with heroic power.  
+Then that there is \[one\] to Sarasvatī:  
+this visibly is the Brahmin's mastery of speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यत्सा॑रस्व॒तः ।  
@@ -195,6 +240,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[The oblation\] to Varuṇa is for freedom from Varuṇa's \[fetters\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒र्व॒रु॒ण॒त्वायै॒व वा॑रु॒णः ।
@@ -217,6 +267,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, whosoever is consecrated  
+belongs to Varuṇa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +299,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Heaven and Earth:  
+Indra raised his thunderbolt against Vṛtra;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यद्द्या॑वापृथि॒व्यः॑ ।  
@@ -268,6 +330,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Heaven and Earth did not assent to it for him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्द्यावा॑पृथि॒वी नान्व॑मन्येताम् ।
@@ -291,6 +358,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by this very sacrificial share they assented to it for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -317,6 +389,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is for the approval of the thunderbolt,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टावे॒तानि॑ ह॒वीँषि॑ भवन्ति ।
@@ -340,6 +417,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+so that he may be consecrated with an approved thunderbolt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टाक्ष॑रा गाय॒त्री ।
@@ -357,6 +439,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These offerings are eight.  
+The gāyatrī has eight syllables;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -376,6 +464,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the gāyatrī is spiritual preeminence;  
+by the gāyatrī he secures spiritual preeminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रि॒यैव ब॑ह्मवर्च॒समव॑रुन्धे ।
@@ -393,6 +487,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He purifies the clarified butter with gold,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -417,6 +516,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for fiery energy, for luster.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेज॑स ए॒व रु॒चे ।
@@ -435,6 +539,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles \[him\] upon a black-antelope skin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृ॒ष्णा॒जि॒ने॑ऽभिषि॑ञ्चति ।
@@ -452,6 +561,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the form of brahman, of Ṛg and Sāman,  
+namely, the black-antelope skin;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +595,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in brahman, in the Ṛg and Sāman, he sprinkles him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑न्ने॒वैन॑मृक्सा॒मयो॒रध्य॒भिषि॑ञ्चति ।
@@ -498,6 +618,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles \[him\] with clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒तेना॒भिषि॑ञ्चति ।
@@ -515,6 +640,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thus he becomes more endowed with heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 

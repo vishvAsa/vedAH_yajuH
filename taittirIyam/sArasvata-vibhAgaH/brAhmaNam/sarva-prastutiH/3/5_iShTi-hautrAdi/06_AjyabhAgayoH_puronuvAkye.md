@@ -437,6 +437,14 @@ Die Feinde schlage, Agni, todt im Beutedrang mit Wundermacht, Entflammt, beopfer
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Delighted, may Agni partake of the ghee.  
+You, O Soma, are the true master;  
+you are the king and slayer of Vṛtra;  
+you are auspicious wisdom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जु॒षा॒णो अ॒ग्निराज्य॑स्य वेतु ।  
@@ -472,6 +480,15 @@ Die Feinde schlage, Agni, todt im Beutedrang mit Wundermacht, Entflammt, beopfer
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Delighted, may Soma partake of the oblation of ghee.  
+Agni, through his ancient birth,  
+adorning his own body,  
+the poet, has grown great through the inspired sage.  
+Delighted, may Agni partake of the ghee.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -830,6 +847,11 @@ Wir redekund'gen stärken dich, o Soma, durch der Lieder Schall, Komm reich an G
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Delighted, may Soma partake of the oblation of ghee.
+</details>
 
 <details><summary>मूलम्</summary>
 

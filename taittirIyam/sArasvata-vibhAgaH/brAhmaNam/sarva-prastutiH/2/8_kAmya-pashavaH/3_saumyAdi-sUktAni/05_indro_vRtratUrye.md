@@ -91,6 +91,14 @@ After him the ancient clans rejoiced: 'This is the king of the living world, of 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is the sole ruler, the supreme protector of the moving world.  
+When the hero Indra crossed over Vṛtra,  
+then he became the subduer of the attackers.  
+Indra, magnifying the sacrifice, all-knowing,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒व वी॒रस्स उ॑ वी॒र्या॑वान् ।  
@@ -127,6 +135,15 @@ After him the ancient clans rejoiced: 'This is the king of the living world, of 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he enjoy the oblation of our sacrificial cake.  
+Having overcome Vṛtra, the Dānava, with the vajra in arm,
+
+he made firm the directions that were made firm by his firming.  
+Magnifying this sacrifice, all-knowing,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ य॒ज्ञव्ँव॒र्धय॑न्वि॒श्ववे॑दाः ।   
@@ -161,6 +178,14 @@ After him the ancient clans rejoiced: 'This is the king of the living world, of 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Indra accept the sacrificial cake.  
+When the hero Indra crossed over Vṛtra,  
+then he became the sole king of the peoples.  
+Indra helped the gods in the slaying of Śambara;
+</details>
 
 <details><summary>मूलम्</summary>
 

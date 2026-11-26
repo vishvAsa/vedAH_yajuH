@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agastya consecrated oxen for the Maruts;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒गस्त्यो॑ म॒रुद्भ्य॑ उ॒क्ष्णᳶ प्रौक्ष॑त् ।
@@ -32,6 +37,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra took them away.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -56,6 +66,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Raising the vajra, they approached him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त ए॑नव्ँ॒वज्र॑मु॒द्यत्या॒भ्या॑यन्त ।
@@ -79,6 +94,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agastya and Indra appeased them with the Kayāśubhīya hymn;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान॒गस्त्य॑श्चै॒वेन्द्र॑श्च कयाशु॒भीये॑नाशमयताम् ।
@@ -96,6 +116,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he summoned them when appeased.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +140,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that the Kayāśubhīya is \[recited\], it is for appeasement.  
+Therefore these oxen dedicated to Indra and the Maruts are sacrificial offerings.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +172,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three are seized on the first day,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +207,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+likewise on the second,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒वन्द्वि॒तीये॑ ।
@@ -188,6 +229,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+likewise on the third,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +253,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+likewise on the fourth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒वञ्च॑तु॒र्थे ।
@@ -224,6 +275,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+five are seized on the final day,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +299,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for this day is the greatest, as it were.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्षि॑ष्ठमिव॒ ह्ये॑तदहः॑ ।
@@ -261,6 +322,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He becomes the greatest among his peers
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्षि॑ष्ठस्समा॒नाना॑म्भवति ।
@@ -278,6 +344,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+This sacrifice is indeed self-rule;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +377,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by this Ékayāvan Kāndama went to self-rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तेन॒ वा एक॒यावा॑ कान्द॒मस्स्वारा॑ज्यमगच्छत् ।
@@ -322,6 +400,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He goes to self-rule
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वरा॑ज्यङ्गच्छति ।
@@ -339,6 +422,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -365,6 +453,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who knows it thus.  
+This chant belongs to the Maruts;  
+by this the Maruts became the most numerous of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तेन॒ वै म॒रुतो॑ दे॒वाना॒म्भूयि॑ष्ठा अभवन् ।
@@ -383,6 +478,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He becomes the most numerous among his peers
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूयि॑ष्ठस्समा॒नाना॑म्भवति ।
@@ -400,6 +500,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+This sacrifice is the Pañcaśāradīya;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +533,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+unto the fifth generation he eats food,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ प॑ञ्च॒मात्पुरु॑षा॒दन्न॑मत्ति ।
@@ -443,6 +555,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+The chants do not exceed the seventeenfold \[stoma\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -469,6 +588,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is seventeenfold;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -510,6 +634,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he does not depart from Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 

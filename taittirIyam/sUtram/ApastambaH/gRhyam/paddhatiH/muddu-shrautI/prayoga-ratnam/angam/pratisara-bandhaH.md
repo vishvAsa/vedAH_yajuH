@@ -486,6 +486,14 @@ who bore Agni as an embryo, diverse in form—may those waters be peaceful and p
 या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्तास्त॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+हिरण्यवर्णाः शुचयः पावका  
+यासु जातः कश्यपो यास्व् इन्द्रः ।  
+या अग्निं गर्भं दधिरे सुवर्णास्  
+ता न आपः शं स्योना भवन्तु ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 हिर॑ण्यवर्णा॒ इति॒ हिर॑ण्य-व॒र्णाः॒ । शुच॑यः । पा॒व॒काः । यासु॑ । जा॒तः । क॒श्यपः॑ । यासु॑ । इन्द्रः॑ ॥ अ॒ग्निम् । याः । गर्भ॑म् । द॒धि॒रे । विरू॑पा॒ इति॒ वि-रू॒पाः॒ । ताः । नः॒ । आपः॑ । शम् । स्यो॒नाः । भ॒व॒न्तु॒ ॥
@@ -1112,6 +1120,14 @@ Indra, with his powers, [held back] you, the divine [waters]; therefore the name
 इ᳓न्द्रो वः श᳓क्तिभिर् देवीस् त᳓स्माद् वा᳓र् ना᳓म वो हित᳓म्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अपकामं स्यन्दमाना  
+अवीवरत वो हिकम् ।  
+इन्द्रो वः शक्तिभिर् देवीस्  
+तस्माद् वार् णाम वो हिकम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒प॒ऽका॒मम्। स्यन्द॑मानाः। अवी॑वरत। वः॒। हि। क॒म्। इन्द्रः॑। वः॒। शक्ति॑ऽभिः। दे॒वीः॒। तस्मा॑त्। वाः। नाम॑। वः। हि॒तम्। १३.३।
@@ -1465,6 +1481,14 @@ sharp is the sap of those that blend with sweetness, coming readily; may it come
 तीव्रो᳓ र᳓सो मधुपृ᳓चामरङ्गम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसागन्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आपो देवीर् घृतम् इद् आप आहुर्  
+अग्नीषोमौ बिभ्रत्य् आप इत् ताः ।  
+तीव्रो रसो मधुपृचाम् अरङ्गम  
+आ मा प्राणेन सह वर्चसागन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 आपः॑। भ॒द्राः। घृ॒तम्। इत्। आपः॑। आ॒स॒न्। अ॒ग्नीषोमौ॑। बि॒भ्र॒ती॒। आपः॑। इत्। ताः। ती॒व्रः। रसः॑। म॒धु॒ऽपृचा॑म्। अ॒र॒म्ऽग॒मः। आ। मा॒। प्रा॒णेन॑। स॒ह। वर्च॑सा। ग॒मे॒त्। १३.५।
@@ -1656,6 +1680,14 @@ I considered myself a partaker of nectar then, when I satisfied you, the golden-
 
 आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्ग आसाम्।  
 मेने᳓ भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आद् इत् पश्याम्य् उत वा शृणोम्य्  
+आ मा घोषो गच्छति वाङ् मासाम् ।  
+मेने भेजानो अमृतस्य तर्हि  
+हिरण्यवर्णा अतृपं यदापः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -9128,6 +9160,15 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those abodes of yours that are in heaven, those on earth,  
+those on the mountains, in the plants, in the waters—
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -9246,6 +9287,14 @@ víśvā ← víśva- (nominal stem)
 
 प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.6.10)+++प्र तद् विष्णु स्तवते वीर्याणि  
+मृगो न भीमः कुचरो गिरिष्ठाः ।  
+यस्योरुषु त्रिषु विक्रमणेष्व्  
+अधिक्षियन्ति भुवनानि विश्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -9988,6 +10037,16 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Forth that Viṣṇu."  
+Growing in body beyond all measure,  
+they do not attain your greatness.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -10344,6 +10403,17 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We know both of your spaces on the earth, O god Viṣṇu;  
+you know the highest \[space\].
+
+\[The pratīkas:\] "He strode forth," "Three times the god,"
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -10683,6 +10753,16 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Hither your great," "Who as soon as born."  
+\[Pratīka:\] "Toward the cowpens."  
+With these \[allies\], not suffering harm, \[defeating\] the competing rivals,
+</details>
+</details>
 </div>
 
 ### दुर्गासूक्तम्
@@ -12057,6 +12137,14 @@ We call with lauds from his most lofty dwelling victorious Agni, conqueror in ba
 क्षाम॑द् दे॒वो अति॑ दुरि॒तात्य् अ॒ग्निः॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.32.8)+++पृतनाजितं सहमानम् अग्निम्  
+उग्रं हुवेम परमात् सधस्थात् ।  
+स नः पर्षद् अति दुर्गाणि विश्वहा  
+क्षासद् देवो ऽति दुरितान्य् अग्निः ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 पृ॒त॒ना॒ऽजित॑म्। सह॑मानम्। अ॒ग्निम्। उ॒क्थैः। ह॒वा॒म॒हे॒। प॒र॒मात्। स॒धऽस्था॑त्। सः। नः॒। प॒र्ष॒त्। अति॑। दुः॒ऽगानि॑। विश्वा॑। क्षाम॑त्। दे॒वः। अति॑। दुः॒ऽ0इ॒तानि॑। अ॒ग्निः। ६५.१।
@@ -12282,7 +12370,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-गो᳓भिर् जु᳓ष्टम् +++(उद्दिश्य)+++, +++(पापेन)+++ [[अयु᳓जो|अयुजो᳓]], नि᳓षिक्तं +++(चोद्दिश्य)+++  
+गो᳓भिर् जु᳓ष्टम् +++(उद्दिश्य)+++, +++(पापेन)+++ अयु᳓जो, नि᳓षिक्तं +++(चोद्दिश्य)+++  
 त᳓वेन्द्र+++(←स्वरः परिष्कृतः)+++ वि᳓ष्णोर्+++(=व्यापकस्य)+++ अ᳓नु स᳓ञ्चरेम।  
 ना᳓कस्य पृष्ठ᳓म् अभि᳓ संव᳓सानो  
 [[वै᳓ष्णवीं|वैष्णवीं᳓]] +++(यथा तथा)+++ लोक᳓+++(य्)+++ इह᳓ +++(भवन्तो)+++ **मादयन्ताम्**॥
@@ -12302,11 +12390,11 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 वैष्ण॑वीं लो॒क इ॒ह मा॑दयन्ताम्॥
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 3/18 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - 2/18 व्यत्यस्त-स्वराः)</summary>
 
 - गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-2/32, *AV*-19/195, *SB-M*-0/35, *SB-K*-5/149, *VS-M*-3/32, *VS-K*-6/44, *KS*-2/37, *MS*-14/149)
 - जु᳓ष्टम् (*TS*-15/19, *RV*-9/22, *TB*-5, *AV*-1/2, *SB-M*-25, *SB-K*-34/46, *VS-M*-21, *VS-K*-23, *KS*-9/11, *MS*-36/53)
-- अयु᳓जः → **अयुजः᳓** (*RV*-1)
+- अयु᳓जः (*TB*-0/1, *SB-M*-2/5, *SB-K*-1/2)
 - नि᳓षिक्तम् (*TS*-2, *VS-M*-1, *VS-K*-1)
 - त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-4/46, *AV*-92/627, *SB-M*-13/116, *SB-K*-34/387, *VS-M*-22/95, *VS-K*-24/114, *KS*-41/165, *MS*-53/382)
 - इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *SB-K*-17, *VS-K*-22, *KS*-28, *MS*-51; मूले तवे॑न्द्र)

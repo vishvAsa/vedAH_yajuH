@@ -4410,10 +4410,18 @@ May Indra accord you protection
 That ye may be unassailable.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
 इन्द्रो॑ व॒श्शर्म॑ यच्छत्वनाधृ॒ष्या यथाऽस॑थ ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+प्रेता जयता नर  
+उग्रा वः सन्तु बाहवः ।  
+इन्द्रो वः शर्म यच्छत्व्  
+अनाधृष्या यथासथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

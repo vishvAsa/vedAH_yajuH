@@ -11,6 +11,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is indeed without sacrifice  
+who is without a wife.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अय॑ज्ञो॒ वा ए॒षः ।  
@@ -41,6 +47,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offspring would not be brought forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न प्र॒जाᳶ प्रजा॑येरन् ।
@@ -58,6 +69,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wife sits nearby:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +97,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has thereby made the sacrifice
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +133,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the bringing forth of offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाना॑म्प्र॒जन॑नाय ।
@@ -137,6 +163,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If she were to be girded while standing,  
+she would exclude a dear kinsman.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +199,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She is girded while seated;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आसी॑ना॒ सन्न॑ह्यते ।
@@ -195,6 +232,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for while seated she produces heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आसी॑ना॒ ह्ये॑षा वी॒र्य॑ङ्क॒रोति॑ ॥11॥
@@ -220,6 +262,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If she were to sit behind \[the fires\] facing east,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +301,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+she would enter into conflict with this \[earth\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाना॒म् पत्नि॑या स॒मद॑न् दधीत ।
@@ -277,6 +329,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+she would enter into conflict with the wife of the gods.  
+She sits south of the place, facing north,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +365,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the protection of herself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +404,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Praying for favor,' she says;  
+having made her fit for sacrifice and single-minded,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मेध्या॑मे॒वैना॒ङ्केव॑लीङ्कृ॒त्वा ।  
@@ -359,6 +428,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he enriches her with a blessing.  
+'Having become obedient to Agni, I gird myself for good deeds,' she says.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +457,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the initiation into the vow for the wife.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -407,6 +487,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By this he initiates her into the vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनै॒वैना॑व्व्ँर॒तमुप॑नयति ।
@@ -428,6 +513,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore they say:  
+'Both he who knows thus and he who does not—  
+the girdle is tied;  
+\[the wife\] who sits nearby him,  
+becomes his in yonder world by the girdle.'  
+In that it is a girdle (yoktra),
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -468,6 +563,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is acquisition (yoga).
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्योक्त्र॑म् ।
@@ -492,6 +592,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that she sits,  
+that is preservation (kṣema).
+
+For the accomplishment of acquisition and preservation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -526,6 +634,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May the blessing be undertaken, may it be joined to desire,' he says,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यु॒क्तङ्क्रि॑याता आ॒शीᳵ कामे॑ युज्याता॒ इति॑ ।
@@ -559,6 +672,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the success of the blessing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्र॒न्थिङ्ग्र॑थ्नाति ।
@@ -582,6 +700,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He ties a knot;  
+he thereby fastens the blessings upon her.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒शिष॑ ए॒वास्या॒म्परि॑गृह्णाति ।
@@ -599,6 +723,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The knot is male,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +752,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the wife is female:
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री पत्नी॑ ।
@@ -645,6 +779,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is a pair.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -669,6 +808,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pair he thereby makes in his sacrifice for propagation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒थु॒नमे॒वास्य॒ तद्य॒ज्ञे क॑रोति प्र॒जन॑नाय ।
@@ -692,6 +836,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer propagates with offspring and domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रजा॑यते प्र॒जया॑ प॒शुभि॒र्यज॑मानः ॥14॥
@@ -714,6 +863,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, she is half of oneself,  
+namely the wife,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -739,6 +894,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the holding-fast of the sacrifice, that it may not become slack.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -774,6 +934,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'With good offspring, we have approached you, having good wives,' she says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒प्र॒जस॑स्त्वा व॒यँ सु॒पत्नी॒रुप॑सेदि॒मेत्या॑ह ।
@@ -806,6 +971,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+thereby she makes the sacrifice paired.  
+'Let the excess be put into the deficient,' so \[he acts\] for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञमे॒व तन्मि॑थु॒नीक॑रोति ।  
@@ -831,6 +1002,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are the milk of the great ones, the sap of the plants,' she says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -861,6 +1037,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+she thereby explains its form and majesty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रू॒पमे॒वास्यै॒तन्म॑हि॒मान॒व्व्ँयाच॑ष्टे ।
@@ -878,6 +1059,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'For the worship of the gods, I pour you out, who are undecaying,' she says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -901,6 +1087,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+she thereby invokes this blessing.
+</details>
 
 <details><summary>मूलम्</summary>
 

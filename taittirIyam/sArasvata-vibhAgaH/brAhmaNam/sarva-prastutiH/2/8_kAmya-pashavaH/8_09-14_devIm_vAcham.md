@@ -14,6 +14,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods brought forth divine speech—what speech they speak—
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वीव्ँ वाच॑मजनयन्त॒ यद्वाग्वद॑न्ती ।
@@ -363,6 +368,16 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+infinite, fashioned great from the end,  
+in which the gods placed refreshments;  
+of one syllable, of two feet, and of six feet.
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -663,6 +678,16 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+All the gods live upon speech;  
+all the gods live upon speech;  
+gandharvas, domestic animals, and mortals \[live upon\] speech;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -686,6 +711,13 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+in speech are set all these beings.
+
+May she, the wife of Indra, favor our invocation:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न॒न्तामन्ता॒दधि॒ निर्मि॑ताम्म॒हीम् ।  
@@ -725,6 +757,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+speech, the imperishable syllable, first-born of truth,  
+mother of the Vedas, navel of immortality!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।  
@@ -764,6 +802,13 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May she, delighting \[in us\], come to the sacrifice;  
+may the goddess, easily invoked, be my protector!  
+Whom the seers, the mantra-makers, the wise ones,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाग॒क्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  
@@ -803,6 +848,13 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+sought out, \[whom\] the gods \[sought\] by ascetic toil, by effort;  
+that divine speech we worship with oblation;  
+may she place us in the world of the well-done!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यामृष॑यो मन्त्र॒कृतो॑ मनी॒षिणः॑ ।  
@@ -1184,4 +1236,15 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 भावार्थभाषाः -  विद्वान व अविद्वानात इतकाच फरक आहे, की जे विद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात या चारहींना जाणतात. त्यापैकी तीन ज्ञानात असतात. चौथ्या सिद्ध शब्दसमूहाला (वाणीला) सर्वजण प्रसिद्ध व्यवहारात जाणतात. जे अविद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात जाणत नाहीत, परंतु निपातरूपी साधन-ज्ञानरहित शब्दांचा प्रयोग करतात. ॥ ४५ ॥
 </details>
 </details>
-</div> 
+</div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Speech is measured out in four steps.
+
+Those the Brahmins who are wise know;  
+three, placed in secret, they do not stir;
+</details>
+</details> 

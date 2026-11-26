@@ -10,7 +10,7 @@ unicode_script: devanagari
 
 कूर्कुर᳓स्+++(=श्वा)+++ सुकूर्कुरः᳓  
 कूर्कुरो᳓+++(=श्वा)+++ वाल-ब᳓न्धनः ।  
-उप᳓रिष्टाद् य᳓द् [[ए᳓जाय|एजा᳓य]]+++(=आगच्छति)+++  
+उप᳓रिष्टाद् य᳓द् एजा᳓य+++(=आगच्छति)+++  
 +++(कुतः - )+++ तृती᳓यस्या इतो᳓ दिवः᳓ ।  
 
 </details>
@@ -65,9 +65,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/06_tatsatyaM_yatte.md">
 <details open><summary><h2>०६ तत्सत्यं यत्ते ...{Loading}...</h2></summary>
 
-त᳓त् सत्यं᳓ य᳓त् ते [[सरमा᳓|सर᳓मा]]  
+त᳓त् सत्यं᳓ य᳓त् ते सर᳓मा  
 माता᳓ लो᳓हितः पिता᳓ ।  
-अमी᳓ ए᳓के स-रस्यका᳓ [[अवधा᳓वत|अ᳓वधावत]]  
+  अमी᳓ ए᳓के सरस्यका᳓ अ᳓वधावत  
 तृती᳓यस्या इतो᳓ दिवः᳓ ।  
 
 </details>

@@ -18,6 +18,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni has this day been chosen as Hotṛ
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निम॒द्य होता॑रमवृणीत ।  
@@ -35,6 +40,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by this sacrificer who has pressed and not pressed,  
+cooking the cooked offerings,  
+cooking the puroḍāśas,  
+drawing the cups,  
+binding a goat for the two Aśvins, for Sarasvatī, for Indra,  
+binding a ram for Sarasvatī, for Indra, for the two Aśvins,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -66,6 +81,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+binding a bull for Indra, for the two Aśvins, for Sarasvatī.  
+Today the divine tree of the forest has provided a good lap  
+with the goat for the two Aśvins, for Sarasvatī, for Indra;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्विभ्या॒ञ्छागे॑न॒ सर॑स्वत्या॒ इन्द्रा॑य॥73॥
@@ -88,6 +110,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the ram for Sarasvatī, for Indra, for the two Aśvins;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -112,6 +139,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the bull for Indra, for the two Aśvins, for Sarasvatī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑यर्ष॒भेणा॒श्विभ्याँ॒ सर॑स्वत्यै।
@@ -134,6 +166,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They have eaten them from the fat;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +195,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have received their cooked portions;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मे॑द॒स्तᳶ प्रति॑पच॒ताग्र॑भीषुः ।  
@@ -181,6 +223,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have magnified themselves with the cups.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवी॑वृधन्त॒ ग्रहैः॑ ।  
@@ -203,6 +250,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two Aśvins, Sarasvatī, \[and\] Indra Sutrāman, the Vṛtra-slayer, have drunk  
+the somas mixed with surā.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -230,6 +283,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Ukthas and exhilarating drinks have been attended to; the non-intoxicating drinks have eaten;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपो॑ उक्थाम॒दाश्श्रौ॒द्विमदा॑ अदन् ।  
@@ -254,6 +312,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have magnified themselves with shouts of praise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवी॑वृधन्ताङ्गू॒षैः ।  
@@ -277,6 +340,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You today, O sage, descendant of a sage, grandson of sages, has he chosen,  
+this sacrificer who has pressed and not pressed,  
+out of many who have assembled,  
+saying: 'He shall sacrifice for me among the gods for desirable goods.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +378,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those divine gifts which the gods have given,  
+those pray for him,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता या दे॒वा दे॑व॒दाना॒न्यदुः॑ ।  
@@ -331,6 +408,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and approve them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ च॑ गुरस्व ।  
@@ -354,6 +436,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And you, O Hotṛ, are urged, dispatched as a human for speaking auspicious words;  
+recite the hymns for the recitation of the hymns!
+</details>
 
 <details><summary>मूलम्</summary>
 

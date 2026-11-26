@@ -22,6 +22,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ, Mitra, and Aryaman have ascended;  
+he has slain all enemies with his yoke.  
+He has made me great and rich in heroes.  
+Rest in the Rathaṃtara, svāhā, on the earth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद॑स्ताम्प्सीत्सवि॒ता मि॒त्रो अ॑र्य॒मा ।  
@@ -56,6 +64,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rest in the Vāmadevya, svāhā, in the intermediate space!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒म॒दे॒व्ये श्र॑यस्व॒ स्वाहा॒ऽन्तरि॑क्षे ।  
@@ -86,6 +99,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rest in the Bṛhat, svāhā, in heaven!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +136,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the Bṛhat I prop you up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒ता त्वोप॑स्तभ्नोमि ।  
@@ -149,6 +172,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I take you for glory and for heroic power.  
+In us, O cows that must not be harmed, establish indriya power and milk!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -183,6 +212,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever drop of yours, whatever swelling of yours \[there is\],
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -220,6 +254,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the divine banner has entered the whole world;  
+protect us for injury-free survival, svāhā!  
+May this whole sacrifice follow after me,  
+the All-gods, the Maruts, the sāman, the praise song,  
+the Āprī hymns, the metres, the nivid formulas, the sacrificial formulas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनु॑ मा॒ सर्वो॑ य॒ज्ञो॑ऽयमे॑तु ।  
@@ -250,6 +293,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever belonging to this earth is sacrificial.  
+Follow the track of Prajāpati;  
+may we succeed following with heroes, with cattle,  
+following with horses, and following with all thriving things,  
+following with offspring, following with indriya power!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेर्वर्त॒निमनु॑ वर्तस्व ।  
@@ -278,6 +330,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the gods lead our sacrifice straight!  
+I stand firm in regal power, I stand firm in the realm,  
+I stand firm in horses, I stand firm in cattle,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +374,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I stand firm in offspring, I stand firm in what is to be.  
+The one has made everything grow;  
+that rests upon the other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्व॑म॒न्याऽभि॑वावृ॒धे ।  
@@ -344,6 +410,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And to heaven, to Viśvakarman,  
+and to earth I have made homage.  
+Heaven leaped upon earth;  
+the young bull leaped upon the cows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अस्का॒न्द्यौᳶ पृ॑थि॒वीम् ।  
@@ -371,6 +445,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Spilled are all these worlds.  
+Let the spilled sacrifice produce \[offspring\].  
+It has been spilled; it was born, it was generated.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -407,6 +488,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the spilled \[seed\] the bull is born.  
+From the spilled \[seed\] may we be born.  
+Which gods, to whom this share belonged,  
+whose are the fore-offerings and after-offerings,  
+to those with Indra as eldest, with Varuṇa as king,  
+to the gods with Agni as Hotṛ, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -445,6 +536,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And may that divine prayer of ours by day...
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒त त्या नो॒ दिवा॑ म॒तिः ॥108॥  
@@ -473,6 +569,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+...may Aditi come with aid.  
+May she, pacifying, bring joy.  
+Away with adversities!  
+And may those two divine physicians,  
+the Aśvins, bring welfare to us;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -504,6 +609,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they ward off disease from us.  
+Away with adversities!  
+May Agni bring welfare along with the fires;  
+may the sun shine welfare upon us;  
+may the wind blow free of disease, bringing welfare.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -543,6 +657,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Away with adversities!  
+Not even the wise man knows that track,  
+by which one who has died returns to the living.  
+The threefold \[chariot\] of the world that revolves as a chariot,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -842,6 +964,17 @@ Bring ihm, dem trunkbegierigen, dem weisen alle Tränke dar; Der hülfreich komm
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he, living as an embryo, not dead, live.  
+For him who wishes to drink,  
+bring all things to the wise one,  
+who arrives readily, who goes,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -857,6 +990,12 @@ Bring ihm, dem trunkbegierigen, dem weisen alle Tränke dar; Der hülfreich komm
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the man who does not lag behind.  
+The drop has approached the drop;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -882,6 +1021,13 @@ Bring ihm, dem trunkbegierigen, dem weisen alle Tränke dar; Der hülfreich komm
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra has drunk of the drop.  
+Of that \[drop\] of yours, O drop, drunk by Indra, honeyed,  
+summoned, being summoned, I partake.
+</details>
 
 <details><summary>मूलम्</summary>
 

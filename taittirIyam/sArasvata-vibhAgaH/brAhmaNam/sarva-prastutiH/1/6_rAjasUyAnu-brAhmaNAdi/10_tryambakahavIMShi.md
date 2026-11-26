@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He parcels out one-cup-sized cakes for each person.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒पू॒रु॒षमेक॑कपाला॒न् निर्व॑पति ।
@@ -36,6 +41,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He appeases Rudra away from the offspring already born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जा॒ता ए॒व प्र॒जा रु॒द्रान् नि॒रव॑दयते ।
@@ -58,6 +68,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[He parcels out\] one extra;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -82,6 +97,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he appeases Rudra away from the offspring about to be born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज॒नि॒ष्यमा॑णा ए॒व प्र॒जा रु॒द्रान् नि॒रव॑दयते ।
@@ -100,6 +120,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They are on a single potsherd;
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑कपाला भवन्ति ।
@@ -117,6 +142,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in one stroke he appeases Rudra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +172,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He does not pour butter over \[them\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभिघा॑रयति ।
@@ -159,6 +194,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to pour butter over \[them\],  
+he would make Rudra dwell within \[the village\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +225,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They go with a single firebrand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒को॒ल्मु॒केन॑ यन्ति ॥ 71॥
@@ -208,6 +254,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For that is Rudra's portion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्धि रु॒द्रस्य॑ भाग॒धेय॑म् ।
@@ -230,6 +281,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They go in this \[northern\] direction.  
+For that is Rudra's direction.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +313,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In his own direction he appeases Rudra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाया॑म् ए॒व दि॒शि रु॒द्रन् नि॒रव॑दयते ।
@@ -273,6 +335,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rudra does not abide an offering without cattle.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -297,6 +364,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'That one is your cattle,' thus he should indicate toward him whom he hates.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒सौ ते॑ प॒शु"रिति॒ निर्दि॑शे॒द् यन् द्वि॒ष्यात् ।
@@ -319,6 +391,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whomever he hates,  
+him he indicates as cattle for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +422,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should not hate \[anyone\],  
+he should say: 'The mole is your cattle.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒ न द्वि॒ष्यात् ।
@@ -368,6 +452,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He harms neither domestic animals
+</details>
+
 <details><summary>मूलम्</summary>
 
 न ग्रा॒म्यान् प॒शून् हि॒नस्ति॑ ।
@@ -391,6 +480,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+nor wild ones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नार॒ण्यान्।
@@ -408,6 +502,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers at a crossroad.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -431,6 +530,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For that is called the fetter of the fires.  
+He offers on that which possesses fire.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -456,6 +561,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers with a middle palāśa leaf,
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ध्य॒मेन॑ प॒र्णेन॑ जुहोति ।
@@ -474,6 +584,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for that is a ladle.  
+And further,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्रुग्घ्ये॑षा ।
@@ -491,6 +607,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it should be offered with the outermost \[leaf\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -517,6 +638,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the very boundary he appeases Rudra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒त ए॒व रु॒द्रन् नि॒रव॑दयते ॥73॥
@@ -535,6 +661,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'This is your share, O Rudra, together with your sister Ambikā.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒ष ते॑ रुद्र भा॒गस्स॒ह स्वस्राऽम्बि॑क॒ये"त्य् आ॑ह ।
@@ -552,6 +683,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Autumn is his sister Ambikā.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +716,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With her he harms  
+whomever he harms;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तया॒ वा ए॒ष हि॑नस्ति ।
@@ -597,6 +739,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with her he appeases him.  
+He says: 'Healing for the cows!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -622,6 +770,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+As many domestic animals as there are,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "भे॒ष॒जङ्गव॒" इत्य् आ॑ह ।
@@ -644,6 +797,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for them he provides healing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -669,6 +827,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'We have appeased Rudra, O mother!'  
+He thereby prays for this blessing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवा॑म्ब रु॒द्रम॑दिम॒हीत्या॑ह ।
@@ -693,6 +857,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'We sacrifice to Tryambaka.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "त्र्य॑म्बकय्ँ यजामह॒" इत्य् आ॑ह ।
@@ -715,6 +884,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May I be released from death, not from immortality,' is what he indeed says thereby.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -740,6 +914,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They toss \[the cakes\] up;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्कि॑रन्ति ।
@@ -762,6 +941,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they seek to obtain fortune.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +970,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placing \[them\] in a basket, they hang \[them\] up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूते॑-कृ॒त्वा ऽऽस॑जन्ति ।
@@ -808,6 +997,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as one provides provisions for a person setting out on a journey,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -833,6 +1027,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+such indeed is that.  
+He says: 'This is your share, O Rudra,' for appeasement.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒ष ते॑ रुद्र भा॒ग" इत्य् आ॑ह नि॒रव॑त्त्यै ।
@@ -856,6 +1056,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They return facing the point \[of the spear\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्र॑तीक्ष॒माय॑न्ति ।
@@ -873,6 +1078,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles water around  
+to shut out Rudra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -898,6 +1109,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They fall away from this world
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र वा ए॒ते॑ऽस्माल्लो॒काच्च्य॑वन्ते ।
@@ -915,6 +1131,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who perform the Tryambaka offerings.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -934,6 +1155,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having returned, he distributes a caru for Aditi.  
+This \[earth\] is Aditi;  
+it is on this that they firmly establish themselves.
+</details>
 
 <details><summary>मूलम्</summary>
 

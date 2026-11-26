@@ -22,6 +22,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This has become auspicious, O heaven and earth.  
+We have brought to success the Sūktavāka  
+and the utterance of homage.  
+May we succeed, O Agni, in that which is to be spoken in the hymn;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दन्द्या॑वापृथिवी भ॒द्रम॑भूत् ।  
@@ -51,6 +59,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are the speaker of the hymn,  
+leaning upon heaven and earth.  
+May heaven and earth be full of protection for you in this sacrifice, O sacrificer,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वँ सू॑क्त॒वाग॑सि ।  
@@ -77,6 +92,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+bringing peace to the homestead, of quick-flowing gifts,  
+not trembling, not liable to sink,  
+of wide pastures, providing security.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -106,6 +128,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having rain as their sky, flowing with waters,  
+bringing welfare, bringing joy,  
+full of vigor and full of milk,  
+easy to approach and easy to dwell upon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -151,6 +181,12 @@ unicode_script: devanagari
 <details><summary>C R Swaminathan</summary>
 
 (He says), "Agni has with pleasure accepted this oblation, he has greatly grown, he has made (acquired) greater power (lustre)". Thus he speaks of the Agni's share of ghee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the presence of these two:  
+Agni has enjoyed this oblation;
 </details>
 
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
@@ -237,6 +273,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+Soma has enjoyed this oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑ इ॒दँ ह॒विर॑जुषत ।  
@@ -262,6 +304,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+Agni has enjoyed this oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निरि॒दँ ह॒विर॑जुषत ॥21॥  
@@ -281,6 +329,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+Prajāpati has enjoyed this oblation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +361,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+Agni and Soma have enjoyed this oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोमा॑वि॒दँ ह॒विर॑जुषेताम् ।  
@@ -326,6 +386,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have magnified themselves; they have accomplished greater greatness.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -347,6 +412,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra and Agni have enjoyed this oblation;  
+they have magnified themselves; they have accomplished greater greatness.  
+Indra has enjoyed this oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ इ॒दँ ह॒विर॑जुषत ।  
@@ -366,6 +438,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+Mahendra has enjoyed this oblation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +465,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+The gods who drink clarified butter have enjoyed the clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा आ॑ज्य॒पा आज्य॑मजुषन्त ।  
@@ -406,6 +490,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they have magnified themselves; they have accomplished greater greatness.  
+Agni, through the Hotṛ's office, has enjoyed this oblation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -431,6 +521,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has magnified himself; he has accomplished greater greatness.  
+In this god-reaching Hotṛ's office may he prosper!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्यामृध॒द्धोत्रा॑यान्देवङ्ग॒माया॑म् ।  
@@ -453,6 +549,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This sacrificer, so-and-so, prays for:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -477,6 +578,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prays for lifespan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॒राशा॑स्ते ।  
@@ -500,6 +606,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prays for good offspring;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒प्र॒जा॒स्त्वमाशा॑स्ते ।  
@@ -522,6 +633,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prays for the affection of his kinsmen;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -548,6 +664,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prays for a subsequent sacrifice to the gods;  
+he prays for a greater offering-preparation;  
+he prays for a heavenly abode;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्त॑रान्देवय॒ज्यामाशा॑स्ते ।  
@@ -572,6 +695,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prays for all that is dear;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -601,6 +729,12 @@ unicode_script: devanagari
 <details><summary>Eggeling</summary>
 
 'May he obtain, may he accomplish what he prays for through this offering!'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever he prays for with this oblation,  
+may he attain that, may he succeed in that!
 </details>
 
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
@@ -656,6 +790,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the gods bestow that upon him!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद॑स्मै दे॒वा रा॑सन्ताम् ।  
@@ -679,6 +818,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That, may the divine Agni win from the gods!  
+We are Agni's human \[subjects\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद॒ग्निर्दे॒वो दे॒वेभ्यो॒ वन॑ते ।  
@@ -701,6 +846,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is sacrificed and what is enjoyed—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +876,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and may both heaven and earth protect us from distress!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ष्टञ्च॑ वी॒तञ्च॑ ।  
@@ -750,6 +905,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here is the resort of you two, and this \[is ours\].  
+Homage to the gods!
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -12,6 +12,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The discussers of sacred lore say: 'How many vessels carry the sacrifice?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒-वा॒दिनो॑ वदन्ति ।  
@@ -39,6 +44,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Thirteen,' he should say.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "त्रयो॑द॒शे"ति॑ ब्रूयात् ।
@@ -56,6 +66,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should ask, 'Who fashioned them?' 'Prajāpati,' he should say.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +99,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should ask, 'From what did he fashion them?' 'From himself,' \[he should say\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 स यद्ब्रू॒यात् ।
@@ -109,6 +129,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From exhalation and inhalation he fashioned the Upāṃśu and Antaryāma \[cups\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णा॒पा॒नाभ्या॑म् ए॒वोपाँ॑श्वन्तर्या॒मौ निर॑मिमीत ॥ 19 ॥
@@ -133,6 +158,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From diffused breath \[he fashioned\] the Upāṃśusavana \[stone\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒नाद् उ॑पाँशु॒-सव॑नम्।
@@ -151,6 +181,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From speech \[he fashioned\] the Aindravāyava \[cup\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒च ऐ॑न्द्रवाय॒वम्।
@@ -168,6 +203,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From insight and will \[he fashioned\] the Maitrāvaruṇa \[cup\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -192,6 +232,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From hearing \[he fashioned\] the Āśvina \[cup\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रोत्रा॑द् आश्वि॒नम्।
@@ -210,6 +255,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From sight \[he fashioned\] the Śukra and Manthin \[cups\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑षश् शु॒क्रा-म॒न्थिनौ॑ ।
@@ -227,6 +277,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From himself \[he fashioned\] the Āgrayaṇa \[cup\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +306,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the limbs \[he fashioned\] the Ukthya \[cup\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अङ्गे॑भ्य उ॒क्थ्य॑म् ।
@@ -269,6 +329,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From lifespan \[he fashioned\] the Dhruva \[cup\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑षो ध्रु॒वम् ।
@@ -286,6 +351,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From foundation \[he fashioned\] the two Ṛtupātra cups.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +380,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati verily fashioned that sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञव्ँ वाव तम् प्र॒जाप॑ति॒र् निर॑मिमीत ।
@@ -333,6 +408,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When fashioned, it could not support itself; it collapsed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स निर्मि॑तो॒ नाद्ध्रि॑यत॒ सम॑व्लीयत ।
@@ -355,6 +435,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati saw these grain additions (apivāpa);
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -381,6 +466,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he poured them out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान् निर॑वपत् ।
@@ -398,6 +488,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With them he built up the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -421,6 +516,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that there are grain additions, it is for the support of the sacrifice, that it may not collapse.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -14,6 +14,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The moon desired:  
+“Having obtained the day-and-nights, the half-months, the months, the seasons, the year,  
+may I obtain unison with the moon, co-residence \[with him\].”
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रमा॒ वा अ॑कामयत ।  
@@ -42,6 +49,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He poured out this fifteen-cup sacrificial cake for the moon, for Pratīdṛśī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तञ्च॒न्द्रम॑से प्रती॒दृश्या॑यै पुरो॒डाश॒म्पञ्च॑दशकपाल॒न्निर॑वपत् ।
@@ -61,6 +73,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then indeed, having obtained the day-and-nights, the half-months, the months, the seasons, the year,  
+he obtained unison with the moon, co-residence \[with him\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +101,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, having obtained the day-and-nights, the half-months, the months, the seasons, the year,  
+he obtains unison with the moon, co-residence \[with him\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हो॒रा॒त्रान् ह॒ वा अ॑र्धमा॒सान्मासा॑नृ॒तून्त्सव्ँ॑वत्स॒रमा॒प्त्वा ।  
@@ -101,6 +125,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation  
+and who likewise knows this thus.  
+He offers here:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +155,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To the moon hail! To Pratīdṛśī hail!  
+To the day-and-nights hail! To the half-months hail!  
+To the months hail! To the seasons hail!  
+To the year hail!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 "च॒न्द्रम॑से॒ स्वाहा॑ प्रती॒दृश्या॑यै॒ स्वाहा॑ ।अ॒हो॒रा॒त्रेभ्य॒स्स्वाहा॑ऽर्धमा॒सेभ्य॒स्स्वाहा॑ ।  मासे॑भ्य॒स्स्वाह॒र्तुभ्य॒स्स्वाहा॑ । सव्ँ॒व॒त्स॒राय॒ स्वाहे"ति॑ ॥57॥
@@ -145,6 +184,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Day and night desired:  
+“May we two be released beyond day and night;  
+may day and night not overtake us two.”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -175,6 +221,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They poured out this caru for day and night,  
+of two kinds of rice,  
+both white and black,  
+in the milk of two calving at the same time,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते ए॒तम॑होरा॒त्राभ्या॑ञ्च॒रुन्निर॑वपताम् ।  
@@ -196,6 +250,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+both of a white and of a black \[cow\].  
+Then indeed they two were released beyond day and night;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -219,6 +279,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+day and night did not overtake them two.  
+Indeed, he is released beyond day and night;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अति॑ ह॒ वा अ॑होरा॒त्रे मु॑च्यते ।  
@@ -237,6 +303,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+day and night do not overtake him,  
+who sacrifices with this oblation
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -258,6 +330,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who likewise knows this thus.  
+He offers here:  
+“To day hail! To night hail!  
+To release beyond hail!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -284,6 +364,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The dawn desired:  
+“May I be dear to the sun, fortunate.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒षा वा अ॑कामयत ।  
@@ -308,6 +394,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+She poured out this caru for the dawn.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैतमु॒षसे॑ च॒रुन्निर॑वपत् ।
@@ -325,6 +416,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then indeed she became dear to the sun, fortunate.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +440,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, he becomes dear to his equals, fortunate,  
+who sacrifices with this oblation
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -365,6 +467,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and who likewise knows this thus.  
+He offers here:
+</details>
+
 <details><summary>मूलम्</summary>
 
 य उ॑ चैनदे॒वव्ँ वेद॑ ।  
@@ -383,6 +491,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To the dawn hail! To the dawning hail!  
+To the one that has dawned hail! To the one dawning hail!  
+To the dawned hail!”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -404,6 +519,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he offers a boiled rice mess to this lunar mansion, \[praying:\]  
+'As you are among the gods,  
+so may I be among men.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -427,6 +549,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as this \[lunar mansion is\] among the gods,  
+so indeed does he become among men,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॑ ह॒ वा ए॒तद्दे॒वाना॑म् ।  
@@ -445,6 +573,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this oblation,  
+and who thus knows this.  
+Here he offers \[an oblation with the formula\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +602,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To the lunar mansion, svāhā! To the one about to rise, svāhā!  
+To the rising one, svāhā! To the risen one, svāhā!  
+To heat, svāhā! To support, svāhā!  
+To radiance, svāhā! To fiery energy, svāhā!  
+To heat-austerity, svāhā! To spiritual preeminence, svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +640,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sūrya, indeed, desired:  
+'May I be the foundation of the lunar mansions.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यो॒ वा अ॑कामयत ।  
@@ -515,6 +665,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered this boiled rice mess to Sūrya \[and\] to the lunar mansions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तँ सूर्या॑य॒ नक्ष॑त्रेभ्यश्च॒रुन्निर॑वपत् ।
@@ -532,6 +687,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, indeed, he became the foundation of the lunar mansions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -552,6 +712,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A foundation of his peers, indeed, he becomes,  
+who sacrifices with this oblation,  
+and who thus knows this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒ति॒ष्ठा ह॒ वै स॑मा॒नाना॑म्भवति ।  
@@ -570,6 +737,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here he offers \[with the formula\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -590,6 +762,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Sūrya, svāhā! To the lunar mansions, svāhā!  
+To the foundation, svāhā!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "सूर्या॑य॒ स्वाहा॒ नक्ष॑त्रेभ्य॒स्स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहे"ति॑ ॥61॥
@@ -609,6 +787,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he offers this boiled rice mess to Aditi.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒तमदि॑त्यै च॒रुन्निर्व॑पति ।
@@ -626,6 +809,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This \[earth\], indeed, is Aditi.  
+On this \[earth\] indeed he becomes established.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -654,6 +843,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here he offers \[with the formula\]:  
+'To Aditi, svāhā! To the foundation, svāhā!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोऽत्र॑ जुहोति ।  
@@ -674,6 +869,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he offers this boiled rice mess to Viṣṇu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒तव्ँ विष्ण॑वे च॒रुन्निर्व॑पति ।
@@ -691,6 +891,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrifice, indeed, is Viṣṇu.  
+In the sacrifice itself he ultimately becomes established.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -711,6 +917,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here he offers \[with the formula\]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोऽत्र॑ जुहोति ।
@@ -728,6 +939,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To Viṣṇu, svāhā! To the sacrifice, svāhā!  
+To the foundation, svāhā!'
+</details>
 
 <details><summary>मूलम्</summary>
 

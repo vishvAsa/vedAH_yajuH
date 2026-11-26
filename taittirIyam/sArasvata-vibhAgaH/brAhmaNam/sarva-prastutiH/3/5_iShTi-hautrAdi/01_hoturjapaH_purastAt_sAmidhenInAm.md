@@ -21,6 +21,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I enter Truth.  
+I enter Order.  
+I enter the immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्यम्प्रप॑द्ये ।  
@@ -69,6 +76,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I enter the beloved, unhurt body of Prajāpati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेᳶ प्रि॒यान्त॒नुव॒मना॑र्ता॒म्प्रप॑द्ये ।  
@@ -97,6 +109,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Herewith, with the fifteenfold thunderbolt,  
+I trample down the hating rival,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -129,6 +147,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he who hates us  
+and whom we hate.  
+Bhūḥ! Bhuvaḥ! Suvaḥ!  
+Him!
+</details>
 
 <details><summary>मूलम्</summary>
 

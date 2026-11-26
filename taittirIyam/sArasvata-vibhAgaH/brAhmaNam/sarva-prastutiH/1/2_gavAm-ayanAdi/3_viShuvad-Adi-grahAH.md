@@ -12,6 +12,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Continuity indeed are these cups  
+which are the paraḥsāmans,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्त॑ति॒र् वा ए॒ते ग्रहा॒ यत् पर॑स्-सामानः ।
@@ -40,6 +46,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the solstice day, the central day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒षू॒वान् दि॑वा-की॒र्त्य॑म् ।
@@ -67,6 +78,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as the two wings of a shed,  
+even so are the two wings of the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॒ शाला॑यै॒ पक्ष॑सी ।  
@@ -91,6 +108,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If these were not drawn,  
+the two divergent wings of the year would fall apart;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -117,6 +140,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they would incur ruin.  
+When these are drawn,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आर्ति॒मार्च्छे॑युः ।
@@ -141,6 +170,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+just as one joins the two wings of a shed to the central beam,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +201,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+even so they connect the two wings of the year to the central day;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नार्ति॒म् आर्च्छ॑न्ति ।
@@ -191,6 +230,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they do not incur ruin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒-विँ॒शम् अह॑र् भवति ।
@@ -214,6 +258,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The day becomes twenty-one-fold.  
+The cups are drawn with the clear soma cup at the beginning
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +291,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for support, for union.  
+On this day a animal for Sūrya is offered;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒र्य॑ ए॒तद्-अह॑ᳶ प॒शुर् आल॑भ्यते ।
@@ -267,6 +323,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+an atigrāhya cup for Sūrya is drawn;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒र्यो॑ ऽति-ग्रा॒ह्यो॑ गृह्यते ।
@@ -285,6 +346,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they enrich the day itself with its form.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑र् ए॒व रू॒पेण॒ सम॑र्धयन्ति ।
@@ -302,6 +368,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, this tribute is brought for the day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -327,6 +398,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven atigrāhya cups are drawn on this day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्त एतदह॑रतिग्रा॒ह्या॑ गृह्यन्ते ॥34॥
@@ -349,6 +425,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven indeed are the breaths in the head;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -373,6 +454,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+yonder sun is the head of offspring;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -399,6 +485,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the head of offspring he places the breaths;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शी॒र्षन्ने॒व प्र॒जाना॑म्प्रा॒णान्द॑धाति ।
@@ -424,6 +515,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore there are seven breaths in the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑त्स॒प्त शी॒र्षन्प्रा॒णाः ।
@@ -443,6 +539,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, having slain Vṛtra,  
+having overthrown the asuras,  
+conquered these worlds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -469,6 +572,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That world yonder was unconquered by him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॒सौ लो॒को ऽन॑भिजित आसीत् ।
@@ -492,6 +600,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+having become Viśvakarman, he conquered it,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वि॒श्वक॑र्मा भू॒त्वा ऽभ्य॑जयत् ।
@@ -509,6 +622,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when the Vaiśvakarmaṇa \[cup\] is drawn.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -535,6 +653,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the winning of the heavenly realm.  
+They indeed fall away from this world,  
+who draw the Vaiśvakarmana cup.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र वा ए॒ते॑ऽस्माल्लो॒काच्च्य॑वन्ते ।  
@@ -554,6 +679,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Āditya cup is drawn on the morrow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यश् श्वो गृ॑ह्यते ।
@@ -571,6 +701,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This \[earth\] is Aditi.  
+In her indeed they establish themselves.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +733,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two are drawn alternately.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्यो॑न्यो गृह्येते ।
@@ -621,6 +762,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Performing all rites through the one, they proceed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वा॑न्य् ए॒वान्येन॒ कर्मा॑णि कुर्वा॒णा य॑न्ति ।
@@ -643,6 +789,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in this \[earth\] through the other, they establish themselves.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -668,6 +819,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two are drawn alternately until the second half of the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तावाप॑रा॒र्धात्सव्ँ॑वत्स॒रस्या॒न्यो॑न्यो गृह्येते ।
@@ -685,6 +841,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two are drawn together at the Mahāvrata.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -712,6 +873,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having gone to the very end of the sacrifice,  
+they establish themselves in both worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्यै॒वान्त॑ङ्ग॒त्वा ।
@@ -737,6 +904,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The recitation is the Arkya,  
+for the obtainment of food.
+</details>
 
 <details><summary>मूलम्</summary>
 

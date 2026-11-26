@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer what has run out,  
+the sacrificer would be without offspring, without domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्विष्ष॑ण्णेन जुहु॒यात् ।  
@@ -37,6 +43,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to pour it out on an improper place,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदना॑यतने नि॒नये॑त् ।  
@@ -55,6 +66,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would be without a proper place.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -79,6 +95,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With a verse to Prajāpati, he should pour it out into the mound of an anthill.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यो वै व॒ल्मीकः॑ ।
@@ -96,6 +117,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The anthill belongs to Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +146,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrifice is Prajāpati.  
+He establishes the sacrifice in Prajāpati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तावे॒व य॒ज्ञम्प्रति॑ष्ठापयति ।
@@ -137,6 +169,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Bhūḥ.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +201,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is being.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू॒तो वै प्र॒जाप॑तिः ॥10॥
@@ -181,6 +223,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He attains prosperity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -201,6 +248,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having done that,  
+and having milked another \[cow\], an offering should be made again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्कृ॒त्वा ।  
@@ -220,6 +273,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the expiation for it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैव तत॒ᳶ प्राय॑श्चित्तिः  ।
@@ -237,6 +295,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer what an insect has fallen into,  
+the sacrificer would be without offspring, without domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -264,6 +328,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to pour it out on an improper place,  
+he would be without a proper place.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदना॑यतने नि॒नये॑त् ।  
@@ -283,6 +353,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the middle \[leaf\] of the Palāśa tree, with a verse to heaven and earth, he should pour it out inside the enclosing sticks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ध्य॒मेन॑ प॒र्णेन॑ द्यावापृथि॒व्य॑य॒र्चाऽन्त॑ᳶपरि॒धि निन॑येत् ।
@@ -301,6 +376,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He establishes it in heaven and earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒व्योरे॒वैन॒त्प्रति॑ष्ठापयति ॥11॥
@@ -318,6 +398,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having done that,  
+and having milked another \[cow\], an offering should be made again.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -346,6 +432,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the expiation for it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैव तत॒ᳶ प्राय॑श्चित्तिः ।
@@ -363,6 +454,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer what has been rained upon,  
+a disfigurement would arise on his body:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +479,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+either white leprosy or piles.  
+If he were to turn back,  
+he would interrupt the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -411,6 +515,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should offer \[saying\]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 स जु॑हुयात् ।
@@ -431,6 +540,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Mitra arranges the peoples, knowing well;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -463,6 +577,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mitra has supported earth and heaven;  
+Mitra gazes upon the settlements unblinking;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्रेणै॒वैन॑त्कल्पयति ।
@@ -480,6 +600,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+to truth offer the ghee-rich oblation.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -505,6 +630,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through Mitra he arranges it.  
+Having done that,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैव तत॒ᳶ प्राय॑श्चित्तिः ।
@@ -522,6 +653,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and having milked another \[cow\], an offering should be made again.  
+That is the expiation for it.  
+If, when the first offering has been offered, the subsequent offering spills,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -546,6 +684,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificer would be deprived of two-footed domestic animals.  
+If he should pour \[an offering\] over it with the subsequent \[mantra\],
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +716,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificer would be deprived of four-footed domestic animals.  
+Having laid on a kindling-stick with a verse addressed to the forest lord: 'Where, O forest lord, you know the secret names of the gods,  
+there convey the oblations,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "यत्र॒ वेत्थ॑ वनस्पते दे॒वाना॒ङ्गुह्या॒ नामा॑नि ।  
@@ -592,6 +743,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he should offer again silently.  
+Through the forest lord he supports the injured and the uninjured offerings of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वन॒स्पति॑नै॒व य॒ज्ञस्यार्ता॒ञ्चाना॑र्ता॒ञ्चाहु॑ती॒ विदा॑धार ।
@@ -609,6 +766,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having done that,  
+and having milked another \[cow\], an offering should be made again.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +802,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the expiation for it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सैव तत॒ᳶ प्राय॑श्चित्तिः ।
@@ -656,6 +824,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If, before the fore-sacrifices, an ember should jump eastward,  
+there would be misfortune for the Adhvaryu and for the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -685,6 +859,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If southward,  
+there would be misfortune for the Brahman and for the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्द॑क्षि॒णा ।  
@@ -703,6 +883,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If westward,  
+there would be misfortune for the Hotṛ, the wife, and the sacrificer.  
+If northward,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -723,6 +910,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+there would be misfortune for the Agnīdh, the domestic animals, and the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदुदङ्ङ्॑ ।  
@@ -741,6 +933,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to pour an offering over it,  
+Rudra would be a slayer of his domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -768,6 +966,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were not to pour an offering over it,  
+it would be cast into \[the fire\] unappeased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्नाभि॑जुहु॒यात् ।  
@@ -786,6 +990,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should press it down with the bottom of the sruva spoon:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -815,6 +1024,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Do not faint; let not the sacrifice faint; let not the sacrificer faint.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा त॑मो॒ मा य॒ज्ञस्त॑म॒न्मा यज॑मानस्तमत् ।
@@ -833,6 +1047,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage be to you coming;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नम॑स्ते अस्त्वाय॒ते ।
@@ -850,6 +1069,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+homage, O Rudra, to you departing;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -875,6 +1099,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+homage to where you sit down;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -904,6 +1133,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+do not harm so-and-so, do not harm so-and-so'—referring to the one towards whom it jumped.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मुम्मा हिँ॑सीर॒मुम्मा हिँ॑सी॒रिति॒ येन॒ स्कन्दे॑त् ।
@@ -931,6 +1165,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cast it \[into the fire\]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्रह॑रेत् ।
@@ -948,6 +1187,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The thousand-horned bull, Jātavedas,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -972,6 +1216,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+backed by chants, rich in ghee, fair-faced,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -999,6 +1248,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he not forsake us, when addressed let him not forsake us;  
+bestow on us increase of cattle and increase of heroes.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा नो॑ हासीन्मेत्थि॒तो नेत्त्वा॒ जहा॑म ।  
@@ -1018,6 +1273,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the brahman he casts it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णै॒वैन॒म्प्रह॑रति ।
@@ -1035,6 +1295,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the expiation for it.
+</details>
 
 <details><summary>मूलम्</summary>
 

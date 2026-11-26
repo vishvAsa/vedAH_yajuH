@@ -26,6 +26,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/02_prajApatis_striyAy.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he conquer the enemies, exulting;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिस्स्त्रि॒याय्ँ यशः॑ ।  
@@ -66,6 +71,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/05_modapH_pramoda.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he conquer prize in the winning of prize.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मोद॑ᳶ प्रमो॒द आ॑न॒न्दः ॥55॥  
@@ -108,6 +118,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/08_manasash_chittam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, bearer of regal power, of unbent splendorous might,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन॑सश्चि॒त्तमाकू॑तिम् ।  
@@ -148,6 +163,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/11_yathA-hamasyA_atRpa.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessed of thousands, may he blaze without neglect;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॒ऽहम॒स्या अतृ॑पँ स्त्रि॒यै पुमा॑न् ।  
@@ -188,6 +208,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/14_dadAmIty_agnir.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+shining brightly, kindled, fierce,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ददा॒मीत्य॒ग्निर्व॑दति ।  
@@ -228,6 +253,11 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/6_15-20_kanyA-daxiNA/17_Apas_tath.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+he mounted the intermediate realm, he went to heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप॒स्तत्स॒त्यमाभ॑रन् ।  

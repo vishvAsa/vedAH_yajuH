@@ -8,6 +8,20 @@ title = "2"
 
 1चतस्रस् स्वयमातृण्णा दिक्षूपदधाति -
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+प्रथमे नवसु लेखासु नाभ्यां चेष्टकोपधानम् उक्तम् ।  
+द्वितीये स्वयमातृण्णोपधानम् उच्यते ।  
+कल्पः — [[66|]] "चतस्रः स्वयमातृण्णाः दिक्षूपदधाति — भूर् अग्निं च पृथिवीं च मां च" इति ।  
+तत्र प्रथमं मन्त्रम् आह —
+
+> भूमिं च॑ पृथि॒वीं च मां च॑ ।  
+> त्रींश् च लोकान् संवत्सरं च ।  
+> प्रजापतिस् त्वा सादयतु ।  
+> तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रुवा सीद  
+> इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -19,6 +33,11 @@ title = "2"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Bhūḥ! Agni, the earth, measure me, and the three worlds, the years! May Prajāpati seat you. With that deity, settle firmly in the manner of the Aṅgirases.’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -43,6 +62,31 @@ title = "2"
 एवं सर्वासु दिक्षु योज्यम् ॥  
 इति प्रथमे काठके सप्तदशोऽनृवाकः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयो ऽनुवाकः ।  
+हे स्वयमातृष्णे  
+प्रजापतिर् देवस् त्वां प्राच्यां दिशि सादयतु ।  
+तथा भूः-शब्दाभिधेयां प्रथम-व्याहृत्य् अभिमानिनीं देवताम् अग्निं देवं पृथिवीं देवतां मां यजमानं च  
+लोक-त्रयाभिमानिनो देवान् संवत्सराभिमानिनं देवं च सादयतु ।  
+यथा पुराङ्गिरोभिर् महर्षिभिर् उपहिता त्वं धृता स्थिता ।  
+तथैव तया प्रजापति-देवतयोपहिता सती  
+ध्रुवा सीद ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+दक्षिणादि-दिक्षु स्वयमातृण्णानाम् उपधान-अर्थे त्रीन् मन्त्रान् आह —
+
+> भुवो॑ वा॒युं चान्तरि॑क्षं च॒ मा च ।  
+> त्रींश् च लोका-न्त्संवत्सरं च॑ ।  
+> प्रजाप॑तिस् त्वा सादयतु ।  
+> तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रुवा सीद ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -54,6 +98,11 @@ title = "2"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Bhuvaḥ! Vāyu, the intermediate space, measure me, and the three worlds, the years! May Prajāpati seat you. With that deity, settle firmly in the manner of the Aṅgirases.’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -79,6 +128,11 @@ title = "2"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Svaḥ! Āditya, the sky, measure me, and the three worlds, the years! May Prajāpati seat you. With that deity, settle firmly in the manner of the Aṅgirases.’
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व॑रादि॒त्यञ्च॒ दिव॑ञ्च॒ माञ्च॑ ।  
@@ -90,6 +144,14 @@ title = "2"
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 स्वः᳙ । आदित्य᳓म् । च । दि᳓वम् । च । मा᳓म् । च । त्री᳓न् । च । लोका᳓न् । सम् । वत्सर᳓म् । च । प्रजा᳓-पतिः । त्वा । सादयतु । त᳓या । देव᳓तया । अङ्गिरस्व᳓त् । ध्रुवा᳓ । सीद ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+> स्वर्-आदि॒त्यं च॒ दिवं च॒ मां च॑ ।  
+> त्रींश् च लो॒कान्त् सं॑वत्स॒रं च॑ ।  
+> प्र॒जाप॑तिस् त्वा सादयतु ।  
+> तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रुवा सीद ।
 </details>
 </details>
 
@@ -103,6 +165,11 @@ title = "2"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Bhūr bhuvaḥ svaḥ! Candramas and the directions, measure me, and the three worlds, the years! May Prajāpati seat you. With that deity, settle firmly in the manner of the Aṅgirases.’
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूर्भुव॒स्स्व॑श्च॒न्द्रम॑सञ्च॒ दिश॑श्च॒ माञ्च॑ ।  
@@ -114,5 +181,17 @@ title = "2"
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 भूः᳓ । भु᳓वस् । स्वः᳙ । चन्द्र᳓मसम् । च । दि᳓शः । च । मा᳓म् । च । त्री᳓न् । च । लोका᳓न् । सम् । वत्सर᳓म् । च । प्रजा᳓-पतिः । त्वा । सादयतु । त᳓या । देव᳓तया । अङ्गिरस्व᳓त् । ध्रुवा᳓ । सीद ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+> भूर् भुवः स्वश् च॒न्द्रम॑सं च दिश॑श् च मां च ।  
+> त्रींश् च लोकान्त् संवत्सरं च ।  
+> प्रजापतिस् त्वा सादयतु ।  
+> तया॑ दे॒वत॑या ऽङ्गिर॒स्वद् ध्रुवा सीद ( १ )  
+> इति ॥
+
+संवत्सरं च षट् च ॥  
+पूर्ववद् व्याख्येयम् ॥
 </details>
 </details>

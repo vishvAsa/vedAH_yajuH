@@ -26,6 +26,15 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am the first-born of truth,  
+prior to the gods, the navel of immortality.  
+He who gives me, he indeed has preserved me;  
+I, food, eat the eater of food.  
+Prior to fire, food also consumes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हम॑स्मि प्रथम॒जा ऋ॒तस्य॑ ।  
@@ -76,6 +85,13 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where those two sit, in the highest \[heavens\],  
+the animals see his open mouth, well-toothed;  
+the wise perceive \[it\], the simple-minded wander about.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न॑म् ।  
@@ -130,6 +146,15 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I abandon the one, I do not abandon the other;  
+I, food, wander at will.
+
+To a common purpose I go around, consuming;  
+what mortal would have mercy on me, the food?
+</details>
+
 <details><summary>मूलम्</summary>
 
 जहा॑म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  
@@ -175,6 +200,13 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placed in the far distance, in this world,  
+is food, guarded by all the gods, by the ancestors.  
+That which is eaten, that which is torn away, that which is cast aside—
+</details>
+
 <details><summary>मूलम्</summary>
 
 परा॑के॒ अन्न॒न्निहि॑तल्ँ लो॒क ए॒तत् ।  
@@ -218,6 +250,14 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+that has become my hundredth body.  
+The two great vessels were filled with a single milking,  
+heaven and the dappled earth together;  
+drinking it fully, the wise ordainers do not diminish it;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒हान्तौ॑ च॒रू स॑कृद्दु॒ग्धेन॑ पप्रौ ।   
@@ -261,6 +301,15 @@ title = "८ ०१ अहमस्मि प्रथमजा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+it neither becomes greater nor less.
+
+They call food exhalation, food inhalation;  
+food they call death, and that same \[food\] they call life;  
+food the Brahmins call old age;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑म्प्रा॒णमन्न॑मपा॒नमा॑हुः ।  
@@ -611,6 +660,17 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+food they call the generative power of offspring.  
+In vain does the unthinking man obtain food;  
+I speak the truth: it is indeed his death;  
+he nourishes neither Aryaman nor a comrade;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -635,6 +695,16 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+eating alone, he becomes purely guilty.  
+I am the cloud, thundering, raining;  
+me they eat, I eat the others.
+
+I, being \[truth\], become immortal;  
+through me all the Ādityas shine with heat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हम्मे॒घस्स्त॒नय॒न्वर्ष॑न्नस्मि ।  

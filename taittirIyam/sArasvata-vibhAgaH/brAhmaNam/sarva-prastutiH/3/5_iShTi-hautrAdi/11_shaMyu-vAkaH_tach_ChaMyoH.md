@@ -20,6 +20,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We choose that blessing of Śaṃyu:  
+a path for the sacrifice,  
+a path for the lord of the sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तच्छय्ँ॒योरावृ॑णीमहे ।  
@@ -46,6 +53,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May divine wellbeing be ours;  
+wellbeing for mortals!  
+Upward may the medicine go!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैवी॑ स्व॒स्तिर॑स्तु नः ।  
@@ -71,6 +85,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May there be peace for our two-footed,  
+peace for our four-footed!
+</details>
 
 <details><summary>मूलम्</summary>
 

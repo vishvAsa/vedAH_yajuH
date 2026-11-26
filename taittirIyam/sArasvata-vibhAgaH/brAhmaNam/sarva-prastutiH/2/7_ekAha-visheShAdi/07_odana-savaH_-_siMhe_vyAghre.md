@@ -73,6 +73,14 @@ You are a ruler.
 इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न से᳓य᳓मा᳓गाद्व᳓र्चसा संविदाना᳓
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सिंहे व्याघ्र उत या पृदाकौ  
+त्विषिर् अग्नौ ब्राह्मणे सूर्ये या ।  
+इन्द्रं या देवी सुभगा ववर्ध  
+सा न ऐतु वर्चसा संविदाना ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सिं॒हे। व्या॒घ्रे। उ॒त। या। पृदा॑कौ। त्विषिः॑। अ॒ग्नौ। ब्रा॒ह्म॒णे। सूर्ये॑। या। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.१।
@@ -259,12 +267,28 @@ For long-lived Indra, I mix you long-lived.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is in the elephant, in the panther, that which is in gold,  
+the brilliance in horses, in men, in cows,
+
+the divine, fortunate goddess who gave birth to Indra—  
+may she come to us, agreeing, with luster!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये ।  
 त्विषि॒रश्वे॑षु॒ पुरु॑षेषु॒ गोषु॑ ॥16॥  
 इन्द्रय्ँ॒या दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+(या) हस्तिनि द्वीपिनि या हिरण्ये  
+त्विषिर् अश्वेषु पुरुषेषु गोषु ।  
+(…) ॥ +++(see 1cd)+++
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -344,6 +368,14 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न से᳓य᳓मा᳓गाद्व᳓र्चसा संविदाना᳓
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+रथे अक्षेष्व् ऋषभस्य वाजे  
+पर्जन्ये वाते वरुणस्य शुष्मे ।  
+इन्द्रं या देवी सुभगा ववर्ध  
+(…) ॥ +++(see 1d)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 रथे॑। अ॒क्षेषु॑। ऋ॒ष॒भस्य॑। वाजे॑। वाते॑। प॒र्जन्ये॑। वरु॑णस्य। शुष्मे॑। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.३।
@@ -417,6 +449,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are king, you are sovereign ruler,
+</details>
+
 <details><summary>मूलम्</summary>
 
 राड॑सि वि॒राड॑सि ।
@@ -439,6 +476,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are emperor, you are autonomous ruler.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -471,6 +513,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of fiery energy, I mix you full of fiery energy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तँ श्रीणामि ।  
@@ -493,6 +540,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of splendorous might, I mix you full of splendorous might.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -517,6 +569,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of milk, I mix you full of milk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा॒ पय॑स्वते॒ पय॑स्वन्तँ श्रीणामि ।
@@ -539,6 +596,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra endowed with a lifespan, I mix you endowed with a lifespan.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -571,6 +633,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You are fiery energy;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेजो॑ऽसि ।  
@@ -593,6 +660,12 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.  
+Fiery may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +699,14 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+fiery may my head be;  
+fiery facing in all directions.  
+Unite me with fiery energy!”  
+“You are splendorous might;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेज॑स्वदस्तु मे॒ मुख॑म् ।  
@@ -661,6 +742,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि ।
@@ -683,6 +769,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Might-filled may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +870,11 @@ Sap-rich be my face, sap-rich be my head;
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You are milk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पयो॑ऽसि ।
@@ -801,6 +897,11 @@ Sap-rich be my face, sap-rich be my head;
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -892,6 +993,11 @@ long-lived from every side, turned inwards, unite me with life.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑रसि ।
@@ -914,6 +1020,11 @@ long-lived from every side, turned inwards, unite me with life.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endowed with a lifespan may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1073,6 +1184,14 @@ O ye All-gods, that he may win old age.
 मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इमम् अग्न आयुषे वर्चसे धाः  
+प्रियं रेतो वरुण मित्र राजन् ।  
+मातेवास्मा अदिते शर्म यच्छ  
+विश्वे देवा जरदष्टिर् जथासत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒मम्। अ॒ग्ने॒। आयु॑षे। वर्च॑से। न॒य॒। प्रि॒यम्। रेतः॑। व॒रु॒ण॒। मि॒त्रऽरा॒ज॒न्। मा॒ताऽइ॑व। अ॒स्मै॒। अ॒दि॒ते॒। शर्म॑। य॒च्छ॒। विश्वे॑। दे॒वाः॒। ज॒रत्ऽअ॑ष्टिः। यथा॑। अस॑त्। २८.५।
@@ -1135,6 +1254,16 @@ O ye All-gods, that he may win old age.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“Make this man, O Agni, \[ready\] for lifespan, for luster,  
+a dear seed, O Varuṇa, O king Soma;  
+like a mother, O Aditi, grant him protection,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1151,6 +1280,11 @@ O ye All-gods, that he may win old age.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O All-gods,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1398,17 @@ with the brilliance of all of them, with luster, I consecrate you.
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+whence the rivers flow,  
+with the brilliance of all of them,  
+with luster I sprinkle you.”  
+“Like the ocean are you in depth;  
+like Soma are you unassailable;  
+like Agni facing in all directions;  
+like the sun pervading with light.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्र इ॑वासि ग॒ह्मना॑ ।  
@@ -1297,6 +1442,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“The essence of the waters which is in their flowing,  
+that do I draw for this descendant of so-and-so,  
+for fiery energy, for spiritual preeminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँ यो द्रव॑णे॒ रसः॑ ।  
@@ -1325,6 +1477,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is in the wave,  
+that do I draw for this descendant of so-and-so,  
+for splendorous might, for heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँय ऊ॒र्मौ रसः॑ ।   
@@ -1347,6 +1506,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is in the middle,  
+that do I draw for this descendant of so-and-so,  
+for nourishment, for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ ।  
@@ -1367,6 +1533,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is fit for sacrifice,  
+that do I draw for this descendant of so-and-so,  
+for lifespan, for long life.”
+</details>
 
 <details><summary>मूलम्</summary>
 

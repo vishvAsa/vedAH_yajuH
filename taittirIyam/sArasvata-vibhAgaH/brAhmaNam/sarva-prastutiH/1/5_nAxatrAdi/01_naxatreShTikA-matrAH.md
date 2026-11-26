@@ -26,6 +26,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni's are the Kṛttikās:  
+bright above, light below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेᳵ कृत्ति॑काः । शु॒क्रम् प॒रस्ता॒ज् ज्योति॑र् अ॒वस्ता॑त् ।
@@ -48,6 +54,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati's is Rohiṇī:  
+waters above, plants below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +84,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma's is Invakā:  
+\[threads\] stretched above, weavers below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑स्येन्व॒का वित॑तानि । प॒रस्ता॒द् वय॑न्तो॒ ऽवस्ता॑त् ।
@@ -94,6 +112,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rudra's are the Bāhū:  
+hunters above, the dripping \[prey\] below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +142,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aditi's are the Punarvasus:  
+wind above, moisture below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदि॑त्यै॒ पुन॑र्वसू । वात॑ᳶ प॒रस्ता॑द् आ॒र्द्रम् अ॒वस्ता॑त् ॥ 1 ॥  
@@ -140,6 +170,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati's is Tiṣya:  
+those who sacrifice above, the sacrificers below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +200,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The serpents' are the Āśreṣās:  
+approaching above, dancing toward below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒र्पाणा॑म् आश्रे॒षाः । अ॒भ्या॒गच्छ॑न्तᳶ प॒रस्ता॑द् अभ्या॒नृत्य॑न्तो॒ ऽवस्ता॑त् ।
@@ -186,6 +228,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ancestors' are the Maghās:  
+weepers above, falling away below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +258,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aryaman's are the Pūrve Phalgunī:  
+the wife above, the bull below.  
+Bhaga's are the Uttare \[Phalgunī\]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒म्णᳶ पूर्वे॒ फल्गु॑नी । जा॒या प॒रस्ता॑द् ऋष॒भो॑ ऽवस्ता॑त् ।
@@ -232,6 +287,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the bridal carts above, those who are borne along below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +316,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The god Savitṛ's is Hasta:  
+impulsion above, acquisition below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ सवि॒तुर् हस्तः॑ । प्र॒स॒वᳶ प॒रस्ता॑त् स॒निर् अ॒वस्ता॑त् ।
@@ -279,6 +345,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra's is Citrā:  
+truth above, reality below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य चि॒त्रा । ऋ॒तम् प॒रस्ता॑त् स॒त्यम् अ॒वस्ता॑त् ।
@@ -301,6 +373,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu's is Niṣṭyā:  
+creepers above, unfulfillment below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -326,6 +404,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indrāgni's are the Viśākhes:  
+yokes above, plowing below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नि॒योर् विशा॑खे । यु॒गानि॑ प॒रस्ता॑त् कृ॒षमा॑णा अ॒वस्ता॑त् ।
@@ -348,6 +432,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mitra's are the Anūrādhās:  
+mounting above, the mounted below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +462,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra's is Rohiṇī:  
+crushing above, crushing in return below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य रोहि॒णी । शृ॒णत् प॒रस्ता॑त् प्रतिशृ॒णद्‌ अ॒वस्ता॑त् ।
@@ -394,6 +490,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nirṛti's are the Mūlavarhaṇīs:  
+breaking in pieces above, breaking in pieces in return below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -418,6 +520,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Waters' are the Pūrvā Aṣāḍhās:  
+luster above, assembly below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम् पूर्वा॑ अषा॒ढाः । वर्च॑ᳶ प॒रस्ता॒त् समि॑तिर् अ॒वस्ता॑त् ।
@@ -441,6 +549,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The All-gods' are the Uttarās:  
+conquering completely above, conquered completely below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑षान् दे॒वाना॒म् उत्त॑राः ।  अ॒भि॒जय॑त् प॒रस्ता॑द् अ॒भिजि॑तम् अ॒वस्ता॑त् ।
@@ -463,6 +577,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Viṣṇu's is Śroṇā:  
+questioning above, the path below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -488,6 +608,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Vasus' are the Śraviṣṭhās:  
+what has become above, prosperity below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसू॑नाँ॒ श्रवि॑ष्ठाः । भू॒तम् प॒रस्ता॒द् भूति॑र् अ॒वस्ता॑त् ।
@@ -510,6 +636,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra's is Śatabhiṣak:  
+all-encompassing above, all-abiding below.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -534,6 +666,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aja Ekapād's are the Pūrve Proṣṭhapadās:  
+Vaiśvānara above, belonging to all Vasus below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒जस्यैक॑पद॒ᳶ पूर्वे॑ प्रोष्ठप॒दाः । वै॒श्वा॒न॒रम् प॒रस्ता॑द् वैश्वावस॒वम् अ॒वस्ता॑त् ।
@@ -556,6 +694,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ahi Budhnya's are the Uttare \[Proṣṭhapadās\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +723,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+consecrating above, pressing soma below.  
+Pūṣan's is Revatī:
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒ष्णो रे॒वती॑ । गाव॑ᳶ प॒रस्ता॑द् व॒त्सा अ॒वस्ता॑त् ।
@@ -602,6 +751,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+cows above, calves below.  
+The Aśvins' are the Aśvayujas:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -626,6 +781,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the village above, the army below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒मस्या॑प॒भर॑णीः । अ॒प॒कर्ष॑न्तᳶ  प॒रस्ता॑द् अप॒वह॑न्तो॒ ऽवस्ता॑त् ।
@@ -648,6 +808,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yama's are the Apabharaṇīs:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +856,11 @@ In her let the gods dwelling together
 Rejoice here in the highest firmament.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+hauling away above, conveying away below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
@@ -732,6 +902,11 @@ _________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The full \[moon\] from behind,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -821,6 +996,11 @@ ________________
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+which the gods established for you.
+</details>
 
 <details><summary>विस्वरपाठः (द्रष्टुं नोद्यम्)</summary>
 

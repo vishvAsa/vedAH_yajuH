@@ -22,6 +22,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What they cut of you with the pressing-stone, O King Soma,  
+your dear limbs, the joints with the knife,  
+unite that with clarified butter, and make yourself flourish!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ ग्राव्ण्णा॑ चिच्छि॒दुस्सो॑म राजन् ।  
@@ -50,6 +57,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we, free from guilt, dwell together in prosperity.  
+What they made fall of you, as the stone fell from the arm,  
+what the men milked of you with the right \[hand\],
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +94,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let that swell for you, let that  
+be restored to you!  
+What they tore of your skin and what of your womb,  
+as you yearn, having fallen from your place by yourself:
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ त्वच॑म्बिभि॒दुर्यच्च॒ योनि॑म् ।  
@@ -108,6 +130,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by you, O Soma, let that be guarded for us!  
+May that union of ours be in the highest firmament!  
+He has abandoned his body, uniting with milk;  
+one after another is his color.  
+Invited into that, we belong to you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -138,6 +169,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Grant us a share in the all-formed assembly!  
+May Soma be farsighted and attentive!  
+May he not forsake us, receiving our songs,  
+free from guilt, having strengthened his bodies!  
+May he, being born, convey beauty unto us!
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृ॒चक्षा॒स्सोम॑ उ॒त शु॒श्रुग॑स्तु ।  
@@ -166,6 +206,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ladles flow over with clarified butter,  
+strengthening your dear limbs.  
+To you, O Soma, be homage and vaṣaṭ!  
+Summon me, O King, for virtuous action!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +244,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be united with exhalation and inhalation, and with sight;  
+be united with hearing, O King Soma!  
+What has been placed upon you, let that be peace for you!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्प्रा॑णापा॒नाभ्याँ॒ समु॒ चक्षु॑षा॒ त्वम् ।  
@@ -225,6 +280,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Know us at the meeting of paths!  
+Know this one in the highest firmament!  
+O wolves of the assembly, discern his form!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तञ्जा॑नीतात्पर॒मे व्यो॑मन् ।  
@@ -253,6 +315,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he comes along the paths traveled by the gods,  
+reveal to him his sacrifices and charitable gifts!  
+Uninjured, O King, free from sickness, go forth!  
+Homage be to your swift-moving eye!  
+Ascend to the vault of heaven together with the sacrificer!  
+Go to the sun in the highest firmament!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -701,6 +773,14 @@ Gott Savitar ist hoch zu ehren nun von uns, zu rühmen heut am Tage von der Män
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come here and aid us, O Mitra and Varuṇa!  
+May the two friends attend to us here!  
+May the snare, the missile of the Ādityas,  
+fierce, having a hundred barbs, full of poison, spare us!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ नो मित्रावरुणावि॒हाव॑तम् ।  
@@ -726,6 +806,11 @@ Gott Savitar ist hoch zu ehren nun von uns, zu rühmen heut am Tage von der Män
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Swell up...’, ‘May they unite for you...’
+</details>
 
 <details><summary>मूलम्</summary>
 

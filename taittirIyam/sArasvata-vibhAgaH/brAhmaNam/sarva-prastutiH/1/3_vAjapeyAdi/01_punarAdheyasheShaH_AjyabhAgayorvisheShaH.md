@@ -12,6 +12,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास् सय्ँय॑त्ता आसन् ।
@@ -35,6 +40,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those gods, setting out for victory,  
+deposited the fiery energetic forms of Agni and Soma \[saying\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +74,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"This shall be ours  
+if they defeat us."
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेना॒ग्नीषोमा॒व् अपा॑क्रामताम् ।
@@ -85,6 +102,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore Agni and Soma departed.  
+The gods, having conquered,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -110,6 +133,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+sought after Agni and Soma.  
+They found Agni disappeared into the seasons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ ऽग्निम् अन्व् अ॑विन्दन्न् ऋ॒तुषूत्स॑न्नम् ।
@@ -133,6 +162,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the grammatical case-forms, they obtained his fiery energetic forms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ विभ॑क्तीभिस् तेज॒स्विनी॑स् त॒नूर् अवा॑रुन्धत ॥1॥
@@ -150,6 +184,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They found Soma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -169,6 +208,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They struck him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम् अ॑घ्नन् ।
@@ -186,6 +230,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They drew out his forms according to recognition.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -209,6 +258,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These became the soma draughts.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +289,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the drawn nature of the soma draughts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् ग्रहा॑णाङ् ग्रह॒त्वम् ।
@@ -252,6 +311,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus, for him the soma draughts are drawn;  
+for him indeed they are drawn.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +337,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should not make \[anything\] non-Agni-related at the re-establishment \[of the fires\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाना॑ ऽऽग्नेयम् पुनर् आ॒धेये॑ कुर्यात् ।
@@ -289,6 +359,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one were to make \[something\] non-Agni-related at the re-establishment,  
+that indeed would be disordered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -314,6 +390,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, this is made non-Agni-related  
+when one offers the kindling sticks, Tanūnapāt, the ritual refreshments, the sacred grass.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अना॑ग्नेयव्ँ॒वा ए॒तत्क्रि॑यते ।
@@ -338,6 +420,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Both portions of clarified butter should belong to Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भाव् आ॑ग्ने॒याव् आज्य॑-भागौ स्याताम् ।
@@ -360,6 +447,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"They become not \[true\] portions of clarified butter,"  
+they say, "if both, one after the other, belong to Agni."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -385,6 +478,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The latter should be for Agni Pavamāna.  
+Because it is for Pavamāna,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॒ पव॑माना॒योत्त॑रस् स्यात् ।
@@ -402,6 +501,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thereby it is a portion of clarified butter,  
+thereby it belongs to Soma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +533,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The invitatory verse for Agni's portion of clarified butter contains \[the word\] "awakening".
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुध॑न्वत्य् आग्ने॒यस्याज्य॑भागस्य पुरोऽनुवा॒क्या॑ भवति ॥3॥
@@ -450,6 +560,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as one awakens a sleeping person,  
+just so is that.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -474,6 +590,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The verses for the wife-offerings should be marked with Agni.  
+Thereby everything becomes Agni-related.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -500,6 +622,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"He approaches the deity of fiery energy as single,"  
+they say, "it is liable to burn him up."
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒क॒धा ते॑ज॒स्विनी॑न् दे॒वताम् उपै॒ती"त्य् आ॑हुः ।
@@ -524,6 +652,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should say: "No.  
+Agni is indeed generation;  
+he approaches generation indeed."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -552,6 +687,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With sacrificial formula uttered, with materials gathered,"  
+they say,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "कृ॒त-य॑जु॒स् सम्भृ॑त-सम्भार॒" इत्य् आ॑हुः ॥4॥  
@@ -579,6 +720,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"no materials are to be gathered,  
+no sacrificial formula is to be performed."
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॒ खलु॑ ।  
@@ -598,6 +745,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And then moreover \[they say\]:  
+"The materials are indeed to be gathered;  
+the sacrificial formula is to be performed
+</details>
+
 <details><summary>मूलम्</summary>
 
 का॒र्यय्ँ॑यजुः॑ ।  
@@ -616,6 +770,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the success of the re-establishment."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +798,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore he proceeds in a whisper.  
+As if seeking, indeed, is he,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -666,6 +831,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+namely \[the one performing\] the re-establishment;  
+just as one seeks what is lost in a whisper,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथो॑पाँ॒शु न॒ष्टम् इ॒च्छति॑ ॥5॥  
@@ -690,6 +861,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+just so is that.  
+He releases the offering to \[Agni\] Sviṣṭakṛt aloud,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒च्चैस् स्वि॑ष्ट॒कृत॒म् उथ्-सृ॑जति ।
@@ -708,6 +885,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+just as one, having found what is lost, says: "Here it is!"  
+Just so is that.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -733,6 +916,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"He approaches the deity of fiery energy as single,"  
+they say, "it is liable to burn him up."
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धा ते॑ज॒स्विनी॑न्दे॒वता॒मुपै॒तीत्या॑हुः ।  
@@ -751,6 +940,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He does not approach it thus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -777,6 +971,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should make the grammatical case-forms in the fore-offerings and after-offerings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒या॒जा॒नू॒या॒जेष्व् ए॒व विभ॑क्तीᳵ कुर्यात् ।
@@ -799,6 +998,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two portions of clarified butter should be as formerly \[prescribed\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +1029,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so too the wife-offerings.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -853,6 +1062,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Thus he approaches it characterized by Vaiśvānara, more characterized by generation."  
+Regarding that, they say:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदा॑हुः ।
@@ -878,6 +1093,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Indeed, this is disordered;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +1125,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+indeed, this is made non-Agni-related."  
+He should say: "No.  
+He offers to Agni first among the case-forms,  
+to Agni last among the wife-offerings.  
+Thereby it is made Agni-related,  
+thereby it is made successful."
+</details>
 
 <details><summary>मूलम्</summary>
 

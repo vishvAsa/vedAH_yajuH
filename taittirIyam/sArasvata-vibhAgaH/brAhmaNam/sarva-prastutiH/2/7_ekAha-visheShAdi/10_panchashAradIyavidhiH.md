@@ -16,6 +16,11 @@ unicode_script: devanagari
 1. Prajāpati desired, 'Would that I were great, and more numerous!'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired: "May I become more numerous than the many."
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्र॒जाप॑तिरकामयत "ब॒होर्भूया॑न्त्स्या॒"मिति॑ ।
@@ -67,6 +72,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Pañcaśāradīya \[rite\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तम्प॑ञ्चशार॒दीय॑मपश्यत् ।
@@ -84,6 +94,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he fetched it;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -103,6 +118,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sacrificed with it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेना॑यजत ।
@@ -121,6 +141,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon indeed he became more numerous than the many.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स ब॒होर्भूया॑नभवत् ।
@@ -138,6 +163,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: "May I become more numerous than the many,"  
+he should sacrifice with the Pañcaśāradīya;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -163,6 +194,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he becomes more numerous than the many.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒होरे॒व भूया॑न्भवति ।
@@ -180,6 +216,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is a Marutstoma;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +246,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the Maruts are the most numerous of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुतो॒ हि दे॒वाना॒म्भूयि॑ष्ठाः ॥30 ॥
@@ -228,6 +274,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He becomes numerous
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हुर्भ॑वति ।
@@ -245,6 +296,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+It is a Pañcaśāradīya;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +335,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+five are the seasons, the year;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॒ वा ऋ॒तव॑स्सव्ँवत्स॒रः ।
@@ -294,6 +357,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is established in the seasons, in the year.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -313,6 +381,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Furthermore, the paṅkti verse has five syllables;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॒ पञ्चा॑क्षरा प॒ङ्क्तिः ।
@@ -330,6 +403,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sacrifice belongs to the fivefold paṅkti;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +427,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञमे॒वाव॑रुन्धे      ।
@@ -366,6 +449,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The chants do not exceed the seventeenfold \[stoma\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -390,6 +478,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is seventeenfold;  
+\[it is\] for the attainment of Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 

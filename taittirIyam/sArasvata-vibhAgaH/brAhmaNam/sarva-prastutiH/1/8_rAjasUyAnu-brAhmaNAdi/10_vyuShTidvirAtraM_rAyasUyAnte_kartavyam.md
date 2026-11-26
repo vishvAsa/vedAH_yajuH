@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They say: 'He is unestablished  
+who sacrifices with the Rājasūya.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्र॑तिष्ठितो॒ वा ए॒ष इत्या॑हुः ।  
@@ -35,6 +41,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with this two-night rite,  
+then he attains a firm foundation,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +77,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then he attains the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ सव्ँवत्स॒रमा॑प्नोति ।
@@ -82,6 +99,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As many day-and-nights as belong to the year,  
+so many are the stotriya verses of this \[rite\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -102,6 +125,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He firmly establishes himself in the day-and-nights.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हो॒रा॒त्रेष्वे॒व प्रति॑तिष्ठति ।
@@ -119,6 +147,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Agniṣṭoma is the first day;  
+the Atirātra is the second.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -139,6 +173,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He firmly establishes himself distinctly in both day and night.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नानै॒वाहो॑रा॒त्रयो॒ᳶ प्रति॑तिष्ठति ।
@@ -157,6 +196,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the full moon is the first day;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒र्ण॒मा॒स्याम्पूर्व॒मह॑र्भवति ।
@@ -174,6 +218,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+on the Vyaṣṭakā is the second.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -200,6 +249,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[Thus\] he firmly establishes himself distinctly in both half-months.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नानै॒वार्ध॑मा॒सयो॒ᳶ प्रति॑तिष्ठति ।
@@ -223,6 +277,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the new moon is the first day;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मा॒वा॒स्या॑या॒म्पूर्व॒मह॑र्भवति ।
@@ -240,6 +299,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when \[the new moon\] is visible is the second.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -267,6 +331,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He firmly establishes himself distinctly in both months.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नानै॒व मास॑यो॒ᳶ प्रति॑तिष्ठति ।
@@ -284,6 +353,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And furthermore,  
+whichever two auspicious days there may be in the same fortnight,  
+on those two it should be performed, for firm establishment.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +386,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They say: 'The two-night rite is destitute of domestic animals,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒प॒श॒व्यो द्वि॑रा॒त्र" इत्या॑हुः ।
@@ -332,6 +413,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for these two meters—  
+the Gāyatrī and the Triṣṭubh—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -357,6 +444,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+exclude the Jagatī.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 जग॑तीम॒न्तर्य॑न्ति ।
@@ -380,6 +472,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They say: 'The Jagatī is not made thereby,  
+because they perform it at the third pressing.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -405,6 +503,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When it obtains the day of the Ahīna,  
+or the pressing of the day,  
+then indeed the Jagatī is made;  
+then it is endowed with domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -432,6 +538,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This two-night rite is dawn.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ पश॒व्यः॑ ।
@@ -449,6 +560,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever, knowing thus, sacrifices with the two-night rite,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -476,6 +592,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it dawns for him,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वि॒द्वान्द्वि॑रा॒त्रेण॒ यज॑ते ।
@@ -500,6 +621,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he smites away darkness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॒ तम॑ ए॒वाप॑हते ।
@@ -522,6 +648,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the end he performs the Agniṣṭoma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -552,6 +683,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is all the deities;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निस्सर्वा॑ दे॒वताः॑ ।
@@ -569,6 +705,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he firmly establishes himself in the deities.
+</details>
 
 <details><summary>मूलम्</summary>
 

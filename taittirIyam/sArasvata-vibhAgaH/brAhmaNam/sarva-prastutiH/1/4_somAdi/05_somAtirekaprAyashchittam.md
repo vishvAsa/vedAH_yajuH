@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whom soma remains over at the morning pressing,  
+it remains over as desiring the midday pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॑ प्रातस्सव॒ने सोमो॑ ऽति॒-रिच्य॑ते ।  
@@ -38,6 +44,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"The cow of the Maruts suckles"—they perform \[it\] on verses containing "suckles".
+</details>
+
 <details><summary>मूलम्</summary>
 
 "गौर् ध॑यति म॒रुता॒मि"ति॒ धय॑द्वतीषु कुर्वन्ति ।
@@ -61,6 +72,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is recited at a juncture indeed injures;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हि॒नस्ति॒ वै स॒न्ध्यधी॑तम् ।
@@ -83,6 +99,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this indeed is like a juncture,  
+which remains over from a pressing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +131,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that they perform on verses containing "suckles",  
+\[it is\] for the appeasement of the juncture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्धय॑द्वतीषु कु॒र्वन्ति॑ ।
@@ -132,6 +160,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sāman is the Gāyatra, the stoma is the fifteenfold \[stoma\];  
+by that indeed they do not depart from the morning pressing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -157,6 +191,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They perform on \[verses\] addressed to the Maruts;  
+by that indeed they do not depart from the midday pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒रुत्व॑तीषु कुर्वन्ति ।
@@ -181,6 +221,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They draw \[soma\] into the Hotṛ's cup;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होतु॑श् चम॒सम् अनून्न॑यन्ते ।
@@ -204,6 +249,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Hotṛ recites along.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता ऽनु॑ शँसति ।
@@ -226,6 +276,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the middle indeed he connects the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +306,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whom soma remains over at the midday pressing,  
+it remains over as desiring the third pressing of the Ādityas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॒ माध्य॑न्दिने॒ सव॑ने॒ सोमो॑ ऽति॒-रिच्य॑ते ।  
@@ -275,6 +336,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sāman is the Gaurīvita;
+</details>
+
 <details><summary>मूलम्</summary>
 
 गौ॒रि॒वी॒तँ साम॑ भवति ।
@@ -293,6 +359,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Gaurīvita indeed is redundant,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अति॑रिक्तव्ँ॒ वै गौ॑रिवी॒तम् ।
@@ -310,6 +381,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+redundant is what remains over from a pressing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +411,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[It is\] for the appeasement of the redundant.  
+"Truly you are great, O Sūrya"—they perform \[with this\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 "बण्म॒हाँ अ॑सि सू॒र्ये"ति॑ कुर्वन्ति ।
@@ -352,6 +434,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With whatever desire of the Ādityas' pressing it remains over,  
+with that very desire they make him prosper.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -377,6 +465,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sāman is the Gaurīvita;
+</details>
+
 <details><summary>मूलम्</summary>
 
 गौ॒रि॒वी॒तँ साम॑ भवति ।
@@ -400,6 +493,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that indeed they do not depart from the midday pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेन॑ ए॒व माध्य॑न्दिना॒त् सव॑ना॒न् नय॑न्ति ।
@@ -417,6 +515,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stoma is the seventeenfold;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -444,6 +547,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that indeed they do not depart from the third pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेन॑ ए॒व तृ॑तीयसव॒नान् नय॑न्ति ।
@@ -461,6 +569,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They draw \[soma\] into the Hotṛ's cup;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -480,6 +593,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Hotṛ recites along.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता ऽनु॑ शँसति ॥30॥
@@ -498,6 +616,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the middle indeed he connects the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒ध्य॒त ए॒व य॒ज्ञँ स॒म् आद॑धाति ।
@@ -515,6 +638,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whom soma should remain over at the third pressing,  
+he should perform an Ukthya.  
+For whom it should remain over at an Ukthya,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -540,6 +670,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he should perform an Atirātra.  
+For whom it should remain over at an Atirātra—
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्यो॒क्थ्ये॑ऽति॒रिच्ये॑त ।
@@ -563,6 +699,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that indeed is difficult to discern.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -588,6 +729,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The domestic animals indeed go overpowering the sacrificer at this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानव्ँ॒ वा ए॒तत् प॒शव॑ आ॒साह्य॑यन्ति ।
@@ -610,6 +756,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sāman is the Bṛhat;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -637,6 +788,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Bṛhat indeed upheld these worlds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हद् वा इ॒माल्ँ लो॒कान् दा॑धार ।
@@ -654,6 +810,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+domestic animals belong to the Bṛhat;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +834,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by the Bṛhat indeed he upholds the domestic animals for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒तैवास्मै॑ प॒शून्दा॑धार ।
@@ -690,6 +856,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They perform on verses containing "śipiviṣṭa";
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -714,6 +885,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Śipiviṣṭa indeed is the fatness of the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒पि॒वि॒ष्टो वै दे॒वाना॑म् पु॒ष्टम् ।
@@ -737,6 +913,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with nourishment indeed they cause him to prosper.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्ट्यै॒वैनँ॒ सम॑र्धयन्ति ।
@@ -754,6 +935,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They draw \[soma\] into the Hotṛ's cup;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -782,6 +968,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Hotṛ recites along.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता ऽनु॑-शँसति ।
@@ -799,6 +990,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the middle indeed he connects the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 

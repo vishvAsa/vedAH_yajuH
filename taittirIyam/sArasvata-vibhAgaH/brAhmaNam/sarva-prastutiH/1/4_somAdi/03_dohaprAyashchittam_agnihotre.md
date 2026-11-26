@@ -15,6 +15,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Aditi of all forms has stood up;  
+she has placed lifespan in the lord of the sacrifice,  
+making a portion for Indra,  
+and for Mitra and Varuṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद॑स्थाद्दे॒व्यदि॑तिर्विश्वरू॒पी ।  
@@ -43,6 +51,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the Agnihotra cow;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा अ॑ग्निहो॒त्री ।
@@ -61,6 +74,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+this indeed sinks down for him
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा ए॒तस्य॒ निषी॑दति ।
@@ -78,6 +96,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose Agnihotra cow sinks down.  
+He should make her rise,  
+saying: 'The divine Aditi has stood up.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +130,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the divine Aditi.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वै दे॒व्य् अदि॑तिः ॥11॥
@@ -123,6 +153,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He raises this \[earth\] up for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒माम् ए॒वास्मा॒ उत्था॑पयति ।
@@ -140,6 +175,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'She has placed lifespan in the lord of the sacrifice,' he says;  
+he places lifespan in him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -160,6 +201,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Making a portion for Indra, and for Mitra and Varuṇa,' he says;  
+this is according to the sacrificial formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -184,6 +231,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having perceived his distress, his evil, she sits down,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -214,6 +266,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose Agnihotra cow, having been let loose \[to the calf\], sits down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्या॑ग्निहो॒त्र्य्  उप॑सृष्टा नि॒षीद॑ति ।  
@@ -232,6 +289,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having milked her, he should give her to a Brahmin  
+whose food he would not eat.  
+He fastens distress, evil, onto him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -257,6 +321,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He gives \[her\] after milking;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दु॒ग्ध्वा द॑दाति ।
@@ -279,6 +348,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for an unseen sacrificial fee is not given.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -308,6 +382,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The milk of him enters the earth  
+whose Agnihotra, while being milked, spills.  
+'What milked today has clung to the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वीव्ँ वा ए॒तस्य॒ पय॒ᳶ प्रवि॑शति ।  
@@ -335,6 +416,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what has flowed to the plants, what to the waters,  
+milk in the houses, milk in the cows,  
+milk in the calves, may that milk be in me,' he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "यद॒द्य दु॒ग्धम्पृ॑थि॒वीमस॑क्त ।  
@@ -361,6 +449,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He places milk in himself, in his houses, in his cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पय॑ ए॒वात्मन् गृ॒हेषु॑ प॒शुषु॑ धत्ते ।
@@ -383,6 +476,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He pours water on it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -408,6 +506,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With water he overtakes it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भिर् ए॒वैन॑द् आप्नोति ।
@@ -426,6 +529,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who mingles the afflicted with the unafflicted of the sacrifice,  
+both of them then suffer affliction.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -451,6 +560,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, this Agnihotra suffers affliction,  
+which spills while being milked.  
+If he should milk more onto it,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आर्च्छ॑ति॒ खलु॒ वा ए॒तद॑ग्निहो॒त्रम् ।
@@ -474,6 +590,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would mingle the afflicted with the unafflicted of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +623,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever it is like, it should just be offered;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् ए॒व या॒दृक् की॒दृक् च॑ होत॒व्य॑म् ।
@@ -524,6 +650,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then, having milked another \[cow\], one should offer again.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -549,6 +680,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of the unafflicted he restores the afflicted of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अना॑र्तेन ए॒वार्तय्ँ॑ य॒ज्ञस्य॒ निष्क॑रोति ॥14॥
@@ -572,6 +708,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If it should spill of one who has run up,  
+if, not having offered from that, he should go back,  
+he would cut off the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +742,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where it spills,  
+sitting down there, he should take \[milk\] again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्र॒ स्कन्दे॑त् ।
@@ -617,6 +766,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just where it spills,  
+from there he takes it again.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -642,6 +797,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever it is like, it should just be offered;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् ए॒व या॒दृक् की॒दृक् च॑ होत॒व्य॑म् ।
@@ -665,6 +825,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then, having milked another \[cow\], one should offer again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथा॒न्यान् दु॒ग्ध्वा पुन॑र् ‌होत॒व्य॑म् ।
@@ -687,6 +852,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of the unafflicted he restores the afflicted of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -712,6 +882,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrifice of him is severed  
+across whose Agnihotra, when set on the fire, a dog runs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि वा ए॒तस्य॑ य॒ज्ञश् छि॑द्यते ।  
@@ -730,6 +906,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is Rudra,  
+namely, Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +936,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to lead a cow across after it,  
+he would deliver the cattle to Rudra;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -783,6 +971,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrificer would be without cattle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प॒शुर् यज॑मानस् स्यात् ।
@@ -800,6 +993,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to sprinkle water after it,  
+waters are non-food for Agni;  
+he would deliver non-food to both of them.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -826,6 +1026,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having taken ashes from the Gārhapatya,  
+he should run up scattering them from the Āhavanīya with the verse to Viṣṇu: 'This Viṣṇu...';
+</details>
+
 <details><summary>मूलम्</summary>
 
 गार्ह॑पत्या॒द्भस्मा॒दाय॑ ।
@@ -850,6 +1056,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Viṣṇu indeed is the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वै विष्णुः॑ ।
@@ -868,6 +1079,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of the sacrifice he stretches out the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञेन॑ ए॒व य॒ज्ञँ सन्त॑नोति ।
@@ -885,6 +1101,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He covers the footprint with ashes for appeasement.
+</details>
 
 <details><summary>मूलम्</summary>
 

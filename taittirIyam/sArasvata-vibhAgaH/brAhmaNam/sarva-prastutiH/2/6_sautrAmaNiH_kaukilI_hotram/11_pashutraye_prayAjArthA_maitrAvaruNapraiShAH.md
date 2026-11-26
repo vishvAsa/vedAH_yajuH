@@ -23,6 +23,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice with kindling to Agni at the place of Iḍā,  
+to the Aśvins, to Indra, to Sarasvatī:  
+the he-goat like smoke, with wheat and jujube-fruit as the medicine,  
+honey with sprouted grains, fiery energy, power of the senses;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्स॒मिधा॒ऽग्निमि॒डस्प॒दे ।  
@@ -64,6 +72,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+milk, soma with parisrut, ghee, honey—  
+may they partake of the ghee; Hotṛ, sacrifice!  
+May the Hotṛ sacrifice: Tanūnapāt, Sarasvatī,  
+the sheep like a ram as the medicine;  
+along the honeyed path the Aśvins  
+brought heroic power to Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +127,20 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With jujube berries and upavāka seeds, with sprouting shoots as the medicine,  
+milk, soma with parisrut, ghee, honey—  
+may they partake of the ghee; Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to Narāśaṃsa like yeast,  
+the medicine for the lord of surā;  
+the ram, Sarasvatī the physician;  
+shining like a chariot, the omentum of the Aśvins, the heroic power of Indra;  
+with jujube berries and upavāka seeds, with sprouting shoots as the medicine,  
+milk, soma with parisrut, ghee, honey—  
+may they partake of the ghee; Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -157,6 +189,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to the praised Iḍā, invoking Sarasvatī,  
+strengthening Indra with power,  
+with a bull, with a cow, \[giving\] sensory power,  
+\[and\] the two Aśvins \[giving\] heroic power to Indra;  
+with barley, with karkandhu berries,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदि॒डेडि॒त आ॒जुह्वा॑न॒स्सर॑स्वतीम् ।  
@@ -202,6 +243,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sweet like groats \[mingled with\] fermented liquor;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the sacrificial grass, spread wide, soft as wool;  
+the healer, the two Nāsatyas,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +301,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the two Aśvins as healers, the mare with foal;  
+the healer, Sarasvatī the milch cow;  
+the healer yields healing to Indra;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the doors, the quarters,  
+wide-opening like portal-valves;  
+the doors, the quarters, as for the Aśvins;  
+Indra as the two yielding world-halves;  
+Sarasvatī yields desires;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒द्दुरो॒ दिशः॑ ।  
@@ -299,6 +363,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Aśvins \[yield\] healing to Indra,  
+bright light, sensory power;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the well-adorned Day and Night, by day,  
+the two Aśvins in accord;  
+they are anointed together with Sarasvatī,  
+\[bringing\] radiance to Indra, as healing;  
+like a falcon through the middle realm, by heart;  
+milk, soma, filtered wine, ghee, honey—
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्सु॒पेश॑सो॒षे नक्त॒न्दिवा॑ ।  
@@ -342,6 +420,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they partake of the butter! Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +470,19 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to the two divine Hotṛs, the healing Aśvins;  
+watchful over Indra, by day and by night, with remedies;  
+Sarasvatī the vigorous healer,  
+with lead yields sensory power;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the three goddesses, as healing,  
+threefold workers of the three realms,  
+golden form in Indra;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -435,6 +531,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Aśvins, Iḍā, and Bhāratī;  
+Sarasvatī with speech;  
+greatness, sensory power have they bestowed on Indra;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to Tvaṣṭṛ, Indra, the Aśvins,  
+to Sarasvatī as healer;  
+splendorous might, impulse, sensory power;  
+fierce like a wolf, the healer;  
+glory, with liquor, as healing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒त्त्वष्टा॑र॒मिन्द्र॑म॒श्विना॑ ।  
@@ -481,6 +591,18 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+like fermented liquor with beauty;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the Lord of the Forest,  
+the slaughterer of hundredfold resolve,  
+dread wrath, the king, the tiger; the Aśvins with reverence, Sarasvatī the fierce healer;  
+she yields sensory power to Indra;  
+milk, soma, filtered wine, ghee, honey—may they partake of the butter! Hotṛ, sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒द्वन॒स्पति॑म् ।  
@@ -524,6 +646,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to Agni: Svāhā to the drops of butter!  
+Svāhā to the fats severally!  
+Svāhā to the goat for the Aśvins!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षद॒ग्निँ स्वाहाऽऽज्य॑स्य स्तो॒काना॑म् ।  
@@ -551,6 +680,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to the ram for Sarasvatī!  
+Svāhā to the bull for Indra, the lion, with might, sensory power!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ऽग्निन्न भे॑ष॒जम् ।  
@@ -573,6 +708,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Agni as healing!  
+Svāhā to Soma, sensory power!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +738,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Indra Sutrāman, Savitṛ, Varuṇa the lord of healers!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहेन्द्रँ॑ सु॒त्रामा॑णँ सवि॒तारव्ँ॒वरु॑णम्भि॒षजा॒म्पति॑म् ।  
@@ -620,6 +766,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to the Lord of the Forest, the dear resort, as healing!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ वन॒स्पति॑म्प्रि॒यम्पाथो॒ न भे॑ष॒जम् ।  
@@ -642,6 +793,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to the butter-drinking gods!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -667,6 +823,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Agni from the Hotṛ-office, Agni enjoying healing;  
+milk, soma, filtered wine, ghee, honey—  
+may they partake of the butter! Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the Aśvins, Sarasvatī, Indra Sutrāman;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -713,6 +877,20 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+these somas rich in surā,  
+pressed with goats, rams, and bulls,  
+with young sprouts and green shoots,  
+mighty with parched grains,  
+intoxications adorned with fermented liquor,  
+clear, milky, immortal,  
+set forth for you, dripping honey; those may the Aśvins, Sarasvatī, Indra Sutrāman, the slayer of Vṛtra,  
+enjoy, the soma-honey;  
+let them drink, revel, partake of soma!  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

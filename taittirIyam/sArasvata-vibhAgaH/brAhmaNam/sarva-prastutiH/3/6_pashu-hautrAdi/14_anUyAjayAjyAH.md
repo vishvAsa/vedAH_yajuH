@@ -18,6 +18,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine sacrificial grass:  
+may it enjoy the gift of wealth for the winning of wealth!  
+The divine doors:  
+may they enjoy the gift of wealth for the winning of wealth!  
+The divine Dawn and Night:  
+may they two enjoy the gift of wealth for the winning of wealth!  
+The two divine loving ones:
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिर्वारि॑तीनान्नि॒धेधा॑ऽसि॒ प्रच्यु॑तीना॒मप्र॑च्युतन्निकाम॒धर॑णम्पुरुस्पा॒र्हय्ँयश॑स्वदे॒ना ब॒र्हिषा॒ऽन्या ब॒र्हीँष्य॒भि ष्या॑म वसु॒वने॑ वसु॒धेय॑स्य वेतु॒ यज॑ ।   
@@ -35,6 +46,36 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they two enjoy the gift of wealth for the winning of wealth!  
+The two divine oblations of vigor:  
+may they two enjoy the gift of wealth for the winning of wealth!
+
+The two divine hotṛs:  
+may they two enjoy the gift of wealth for the winning of wealth!  
+The three divine goddesses:  
+may they enjoy the gift of wealth for the winning of wealth!  
+The divine Narāśaṃsa:  
+may he enjoy the gift of wealth for the winning of wealth!  
+The divine Vanaspati:  
+may he enjoy the gift of wealth for the winning of wealth!  
+The divine sacrificial grass of the flowing \[waters\]:  
+may it enjoy the gift of wealth for the winning of wealth!
+
+The divine Agni Sviṣṭakṛt,  
+possessing good wealth, cheerful, wise,  
+true of thought, the well-sacrificing hotṛ,  
+more sacrificing than any hotṛ:  
+O Agni, the gods whom you have sacrificed to,  
+whom you have gratified,  
+who rejoiced in your hotṛ-office,  
+that successful priestly invocation which reaches the gods,  
+send this sacrifice in heaven to the gods!  
+You have become, O Agni, the hotṛ that makes the sacrifice right;  
+enjoy \[the offering\] at the utterance of homage for the winning of wealth!
+</details>
 
 <details><summary>मूलम्</summary>
 

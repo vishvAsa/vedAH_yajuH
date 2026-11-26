@@ -906,6 +906,11 @@ Nacheinander umwandern mit ihrer Zaubermacht diese beiden munteren Kinder [Sonne
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+two children playing, they go round the sacrificial rite.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासाँ॒ राजा॑ ।
@@ -962,6 +967,14 @@ who bore Agni as an embryo, diverse in form—may those waters be peaceful and p
 
 हिर॑ण्यवर्णा॒श्शुच॑यः पाव॒का यासु॑ जा॒तः क॒श्यपो॒ यास्व॒ग्निः ।  
 या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्तास्त॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+हिरण्यवर्णाः शुचयः पावका  
+यासु जातः कश्यपो यास्व् इन्द्रः ।  
+या अग्निं गर्भं दधिरे सुवर्णास्  
+ता न आपः शं स्योना भवन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1207,6 +1220,15 @@ who moisten the earth with milk, bright—may those waters be peaceful and pleas
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+there was neither the realm of space nor the sky beyond.  
+What covered \[it\]? Where? In whose protection?
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1293,6 +1315,11 @@ All the fires that sit in the waters I invoke; deposit in me brilliance, strengt
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+there was no sign of night nor of day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा  
@@ -1317,6 +1344,16 @@ All the fires that sit in the waters I invoke; deposit in me brilliance, strengt
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That One breathed, breathless, by its own impulse;  
+other than that there was nothing whatever beyond.  
+Darkness there was, hidden by darkness in the beginning;
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1396,6 +1433,14 @@ sharp is the sap of those that blend with sweetness, coming readily; may it come
 
 आपो देवीर्धृतमिदाप आसन्नग्रीषोमौ बिभ्रत्या᳓प इ᳓त्ताः᳓।  
 तीव्रो᳓ र᳓सो मधुपृ᳓चामरङ्गम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसागन्
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आपो देवीर् घृतम् इद् आप आहुर्  
+अग्नीषोमौ बिभ्रत्य् आप इत् ताः ।  
+तीव्रो रसो मधुपृचाम् अरङ्गम  
+आ मा प्राणेन सह वर्चसागन् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -1576,6 +1621,14 @@ I considered myself a partaker of nectar then, when I satisfied you, the golden-
 
 आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्ग आसाम्।  
 मेने᳓ भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आद् इत् पश्याम्य् उत वा शृणोम्य्  
+आ मा घोषो गच्छति वाङ् मासाम् ।  
+मेने भेजानो अमृतस्य तर्हि  
+हिरण्यवर्णा अतृपं यदापः ॥
 </details>
 
 <details><summary>पदपाठः</summary>

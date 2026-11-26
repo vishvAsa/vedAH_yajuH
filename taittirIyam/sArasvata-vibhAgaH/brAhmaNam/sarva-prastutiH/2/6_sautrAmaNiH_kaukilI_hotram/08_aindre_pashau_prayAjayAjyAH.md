@@ -513,6 +513,15 @@ possessing the omentum with cattle, anointing with mead, shimmering with gold, m
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+praised by the gods, having bay steeds, helping,  
+invoked, emboldening himself with the oblation.
+
+May the breaker of fortresses, the bounteous one, vajra in arm,  
+come to our sacrifice, enjoying it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ई॒डि॒तो दे॒वैर्हरि॑वाँ अभि॒ष्टिः ।  

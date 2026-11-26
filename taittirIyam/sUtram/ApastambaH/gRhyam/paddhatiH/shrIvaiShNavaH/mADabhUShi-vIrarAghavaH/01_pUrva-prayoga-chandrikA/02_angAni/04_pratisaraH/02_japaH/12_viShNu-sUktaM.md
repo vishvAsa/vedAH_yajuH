@@ -824,6 +824,15 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those abodes of yours that are in heaven, those on earth,  
+those on the mountains, in the plants, in the waters—
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -942,6 +951,14 @@ víśvā ← víśva- (nominal stem)
 
 प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.6.10)+++प्र तद् विष्णु स्तवते वीर्याणि  
+मृगो न भीमः कुचरो गिरिष्ठाः ।  
+यस्योरुषु त्रिषु विक्रमणेष्व्  
+अधिक्षियन्ति भुवनानि विश्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1684,6 +1701,16 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Forth that Viṣṇu."  
+Growing in body beyond all measure,  
+they do not attain your greatness.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2040,6 +2067,17 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We know both of your spaces on the earth, O god Viṣṇu;  
+you know the highest \[space\].
+
+\[The pratīkas:\] "He strode forth," "Three times the god,"
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -2379,5 +2417,15 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Hither your great," "Who as soon as born."  
+\[Pratīka:\] "Toward the cowpens."  
+With these \[allies\], not suffering harm, \[defeating\] the competing rivals,
+</details>
+</details>
 </details>
 </div>

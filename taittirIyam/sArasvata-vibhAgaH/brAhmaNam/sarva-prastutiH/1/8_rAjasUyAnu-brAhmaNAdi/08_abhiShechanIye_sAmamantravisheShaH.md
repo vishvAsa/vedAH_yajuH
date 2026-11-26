@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The introductory verse is: 'Unto thee the sister voices.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ त्वा जा॒मयो॒ गिर॒ इति॑ प्रति॒पद्भ॑वति ।
@@ -32,6 +37,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu indeed is speech;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -58,6 +68,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+this royal unction is of speech itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒च ए॒वैषो॑ऽभिषे॒कः ।
@@ -75,6 +90,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is consecrated for all offspring;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +119,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+all offspring address him as 'King'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वा॑ एनम्प्र॒जा राजेति॑ वदन्ति ।
@@ -122,6 +147,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'And that one, the ten fingers.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒तमु॒ त्यन्दश॒ क्षिप॒" इत्या॑ह ।
@@ -139,6 +169,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offspring indeed are of Āditya;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +199,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by this he is consecrated for offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाना॑मे॒वैतेन॑ सूयते ।
@@ -187,6 +227,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They go away from the opening of the sacrifice,  
+those who made the materials to be brought together.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -212,6 +258,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he says: 'Flow, chief of speech',  
+thereby they do not go away from the opening of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदाह॒ पव॑स्व वा॒चो अ॑ग्रिय॒ इति॑ ।  
@@ -235,6 +287,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An anuṣṭubh is the first;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -260,6 +317,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+an anuṣṭubh is the last;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒नु॒ष्टुगु॑त्त॒मा ।
@@ -277,6 +339,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+speech indeed is the anuṣṭubh;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -296,6 +363,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by speech indeed they go forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चैव प्र॒यन्ति॑ ।
@@ -313,6 +385,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by speech they rise up.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -336,6 +413,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They are \[verses\] containing the word 'up';
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -361,6 +443,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+containing the word 'up' indeed is the form of the anuṣṭubh;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्व॒द्वा अ॑नु॒ष्टुभो॑ रू॒पम् ।
@@ -384,6 +471,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Rājanya is connected with the anuṣṭubh.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आनु॑ष्टुभो राज॒न्यः॑ ॥30॥
@@ -401,6 +493,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore \[the verses\] contain the word 'ud-'.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +523,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The final verse is a solar Anuṣṭubh,  
+for the continuity of the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒र्य॑नु॒ष्टुगु॑त्त॒मा भ॑वति ।
@@ -449,6 +552,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever departs from the soma-consecration,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -474,6 +582,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the soma-consecration does not yield to him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्साम॑भ्य॒ एति॑ ।  
@@ -498,6 +611,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who departs from the chants  
+becomes worse after consecration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तानि॒ खलु॒ वै सामा॑नि ।  
@@ -516,6 +635,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These indeed are the chants:  
+the Pṛṣṭhas.  
+In that there are Pṛṣṭhas,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -541,6 +667,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by them he does not depart from the consecration.  
+Through those chants which belong to the divine kings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यानि॑ देवरा॒जानाँ॒ सामा॑नि ।  
@@ -564,6 +696,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prospers in yonder realm.  
+Through those chants which belong to human kings,  
+he prospers in this realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -589,6 +728,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He prospers in both realms,  
+both in the realm of the gods and in the realm of men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भयो॑रे॒व लो॒कयो॑र् ऋध्नोति ।  
@@ -613,6 +758,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The twenty-one-fold is the final \[stoma\] of the Abhiṣecanīya;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒विँ॒शो॑ऽभिषेच॒नीय॑स्योत्त॒मो भ॑वति ।
@@ -636,6 +786,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the twenty-one-fold is the first of the Keśavapanīya;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒विँ॒शᳵ के॑शवप॒नीय॑स्य प्रथ॒मः ।
@@ -658,6 +813,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the seventeen-fold is the Daśapeya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -683,6 +843,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The people (viś) are the twenty-one-fold;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विड्वा ए॑कविँ॒शः ।
@@ -700,6 +865,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the realm (rāṣṭra) is the seventeen-fold.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -719,6 +889,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus he is anointed in the midst of the people.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश॑ ए॒वैतन्म॑ध्य॒तो॑ऽभिषि॑च्यते ।
@@ -736,6 +911,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore is he dear to the people,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -760,6 +940,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for he is anointed in the midst of the people.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒शो हि म॑ध्य॒तो॑ऽभिषि॒च्यते॑ ।
@@ -782,6 +967,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they make him step out in different directions,  
+he thereby mounts up to the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +998,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were not to descend to this realm,  
+he would go to an alien land,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒मल्ँ लो॒कन्न प्र॑त्यव॒रोहे॑त् ।
@@ -830,6 +1027,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or he would run mad.  
+Because this \[rite\] has a descending stoma,  
+he thereby descends to this realm,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +1062,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he firmly establishes himself in this realm, so as not to run mad.
+</details>
 
 <details><summary>मूलम्</summary>
 

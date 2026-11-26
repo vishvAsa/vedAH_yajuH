@@ -113,6 +113,13 @@ he who is the purifier, may he purify me!
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine folk purify me;  
+may the Manus purify me with vision;  
+may all human beings purify me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒नन्तु॑ मा देवज॒नाः ।  
@@ -146,6 +153,14 @@ he who is the purifier, may he purify me!
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Jātavedas, possessor of the purifier,  
+purify me with the purifier,  
+shining with bright light, O god,  
+O Agni, along with will according to wills.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -439,6 +454,16 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That purifier of thine which is in the flame,  
+stretched out within, O Agni,  
+with that brahman we purify ourselves.
+</details>
+</details>
+
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 
 <details><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -453,6 +478,13 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By both, O divine Savitṛ,  
+by the purifier and by the impulse,  
+we purify this brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भाभ्या॑न् देव सवितः ।  
@@ -737,6 +769,13 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Vaiśvānara purify me with his rays;  
+may the Wind, swift and beneficent, \[purify me\] with his breath;  
+may heaven and earth, rich in order and worthy of sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रो र॒श्मिभि॑र् मा पुनातु ।   
@@ -827,6 +866,15 @@ O Agni, with skills we purify ourselves.
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By that with which the gods purified \[themselves\],  
+by which the waters \[purified\] the celestial whip,  
+by that celestial brahman,
+
+we purify this brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा अपु॑नत ।   
@@ -1129,6 +1177,17 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever studies the purifying \[hymns\],  
+the sap gathered by the ṛṣis,  
+eats all that is purified,  
+sweetened by Mātariśvan.
+</details>
+</details>
+
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 
 <details><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1419,6 +1478,17 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever studies the purifying \[hymns\],  
+the sap gathered by the ṛṣis,  
+for him Sarasvatī yields  
+milk, clarified butter, honey, and water.
+</details>
+</details>
+
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 
 <details><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1434,6 +1504,15 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purifying \[hymns\] bringing well-being,
+
+yielding good milk, rich in milk—  
+the sap gathered by the ṛṣis,  
+immortality placed within the Brahmins—
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ॥49॥  
@@ -1471,6 +1550,14 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the purifying \[hymns\] assign to us  
+this world and also that one;  
+may they fulfill our desires,  
+divine \[powers\] brought together by the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीर् दि॑शन्तु नः ।  
@@ -1504,6 +1591,15 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purifying \[hymns\] bringing well-being,  
+yielding good milk, dripping with clarified butter,  
+the sap gathered by the ṛṣis,
+
+immortality placed within the Brahmins—
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ।  
@@ -1534,6 +1630,14 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that filter with which the gods  
+continually purify themselves,  
+with that thousand-streamed \[filter\]  
+may the purifying \[hymns\] purify \[us\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -1566,6 +1670,14 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The filter belonging to Prajāpati,  
+stretching out a hundredfold, made of gold—  
+by that, we who know brahman  
+purify the purified brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
@@ -1599,6 +1711,14 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Indra purify me with good guidance;  
+Soma with well-being; Varuṇa with concordance;  
+may King Yama purify me with crushing blows;  
+may Jātavedas purify me with invigorating \[power\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स् सुनी॒ती स॒ह मा॑ पुनातु ।  

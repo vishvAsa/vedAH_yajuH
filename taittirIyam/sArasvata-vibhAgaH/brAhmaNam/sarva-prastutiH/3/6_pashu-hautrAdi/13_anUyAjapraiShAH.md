@@ -22,6 +22,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine sacrificial grass be rich in gods together with the gods, rich in heroes together with heroes; by day let it be plucked, by night brought forward; may we exult surpassing others in wealth by having sacrificial grass! May it enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिस्सु॑दे॒वन्दे॒वैस्स्यात्सु॒वीरव्ँ॑ वी॒रैर् ..  
@@ -50,6 +55,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine doors, firm in joint and loose in movement, be steadfast at the invocation of the gods; may a young calf bleat around them, or a newborn boy; let not the dust-scattering courser touch them! May they enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +90,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Dawn and Night, as this sacrifice proceeds today, call \[the gods\]; may they now advance to the divine clans, well-pleased, well-established! May they two enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी उ॒षासा॒नक्ताऽद्या॒स्मिन्य॒ज्ञे प्र॑य॒त्य॑ह्वेता॒म् ..  
@@ -109,6 +124,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine loving ones, bestowers of wealth: of them, may the one keep afar evils and enmities, may the other bring wealth and choice goods for the sacrificer! May they two enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी जोष्ट्री॒ वसु॑धिती॒ ययो॑र॒न्याऽघा द्द्वेषाँ॑सि यू॒यव॒दान्याव॑क्ष॒द् ..  
@@ -137,6 +157,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine oblations of vigor: may the one bring refreshment and vigor, the other common meals and drinking together; may we, distributing the old with the new, the new with the old, \[abide\]! That vigor the two oblations of vigor, bestowing vigor, have established. May they two enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -168,6 +193,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine hotṛs, the neṣṭṛs, the potṛs, slayers of him who speaks evil, bringing wealth! May they two enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा दैव्या॒ होता॑रा॒ नेष्टा॑रा॒ पोता॑रा ह॒ताघ॑शँसावाभ॒रद्व॑सू ..  
@@ -195,6 +225,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three divine goddesses, Iḍā, Sarasvatī, Bhāratī: may Bhāratī touch heaven together with the Ādityas; Sarasvatī has favored this sacrifice together with the Rudras; right here, along with Iḍā who possesses wealth, may we rejoice in communal delight! May they enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -224,6 +259,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Narāśaṃsa, three-headed, six-eyed: a hundred white-backed \[horses\] carry him forward, a thousand bear him along; Mitra and Varuṇa are worthy of his office of hotṛ, Bṛhaspati of his praise-song, the Aśvins of his adhvaryu-offices. May he enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -255,6 +295,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Vanaspati, furthering the rain, robed in ghee: with his top he has touched heaven, with his middle he has filled the intermediate space, with his base he has made firm the earth. May he enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वो वन॒स्पति॑र्व॒र्षप्रा॑वा घृ॒तनि॑र्णि॒ग्द्यामग्रे॒णास्पृ॑क्ष॒द् ..   
@@ -282,6 +327,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine sacrificial grass, foundation for the placement of flowing \[waters\], unmoved among things that fall away, providing whatever is desired, much coveted, glorious: by this sacrificial grass may we surpass other sacrificial grasses! May it enjoy the gift of wealth for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +365,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Agni Sviṣṭakṛt, possessing good wealth, cheerful, wise, true of thought, well-sacrificing hotṛ, more sacrificing than any hotṛ: O Agni, the gods whom you have sacrificed to, whom you have gratified, who rejoiced in your hotṛ-office, send that successful priestly invocation which reaches the gods, \[send\] this sacrifice in heaven to the gods! You have become, O Agni, the hotṛ that makes the sacrifice right; enjoy \[the offering\] at the utterance of homage for the winning of wealth; recite the offering verse!
+</details>
 
 <details><summary>मूलम्</summary>
 

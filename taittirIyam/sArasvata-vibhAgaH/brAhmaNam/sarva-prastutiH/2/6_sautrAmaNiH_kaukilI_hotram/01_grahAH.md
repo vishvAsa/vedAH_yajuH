@@ -634,6 +634,16 @@ Ergiesset den gepressten hier den Soma, ihn den besten Trank, Der zwischen Wasse
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the daughter of the sun  
+purify your overflowing  
+Soma with eternal, continuous  
+filter.  
+Vāyu is purified by the strainer;  
+Soma has run past eastward,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒नातु॑ ते परि॒स्रुत॑म् ।  
@@ -666,6 +676,11 @@ Ergiesset den gepressten hier den Soma, ihn den besten Trank, Der zwischen Wasse
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a suitable friend of Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -923,6 +938,17 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Surely, as those having barley harvest barley,  
+having separated it in due order,  
+so make here and here the food of these  
+who have not gone to bend in reverence to the sacrificial grass.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -937,6 +963,14 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are taken with a support; I take you agreeable to the Aśvins,
+
+to Sarasvatī, to Indra the Good Protector.  
+This is your womb; for fiery energy \[I take\] you;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -970,6 +1004,11 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for heroic power \[I take\] you, for strength \[I take\] you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒स्तेज॑से त्वा ।  
@@ -1002,6 +1041,11 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are fiery energy; place fiery energy in me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ।  
@@ -1020,6 +1064,11 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are heroic power; place heroic power in me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वी॒र्य॑मसि वी॒र्य॑म्मयि॑ धेहि ।  
@@ -1037,6 +1086,11 @@ What then? As men who have barley Reap the barley in order, removing it, Hither 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are strength; place strength in me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1305,6 +1359,13 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+do not harm me, entering your own womb.
+
+You are taken with a support; the fiery energy belongs to the Aśvins,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽस्याश्वि॒नन्तेजः॑ ।  
@@ -1338,6 +1399,12 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the heroic power to Sarasvatī,  
+the strength to Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ते॒ योनि॒र्मोदा॑य त्वा ।  
@@ -1355,6 +1422,11 @@ You are taken with a support.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is your womb; for delight \[I take\] you,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1387,6 +1459,11 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for joy \[I take\] you, for greatness \[I take\] you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॒ऽस्योजो॒ मयि॑ धेहि ।  
@@ -1404,6 +1481,11 @@ You are taken with a support.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are splendorous might; place splendorous might in me;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1423,6 +1505,11 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are wrath; place wrath in me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 महो॑ऽसि॒ महो॒ मयि॑ धेहि ।  
@@ -1440,6 +1527,11 @@ You are taken with a support.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are greatness; place greatness in me;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1475,6 +1567,14 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are overpowering force; place overpowering force in me.  
+The Viṣūcikā who protects the tiger  
+and both the wolf  
+and the flying falcon, the lion,
+</details>
+
 <details><summary>मूलम्</summary>
 
 या व्या॒घ्रव्ँविषू॑चिका ।  
@@ -1509,6 +1609,11 @@ You are taken with a support.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may she protect this one from distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्पृच॑स्स्थ॒ सम्मा॑ भ॒द्रेण॑ पृङ्क्त ।  
@@ -1531,6 +1636,12 @@ You are taken with a support.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are connectors; connect me with good fortune;  
+you are separators; separate me from evil.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+thereby they produce the forms.  
+\[A cake\] on twelve potsherds to Vaiśvānara;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यम॒ष्टाक॑पाल॒न्निर्व॑पति ।
@@ -33,6 +39,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore in the late summer heat the Kuru-Pañcālas go westward.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒च्छिशि॑रे कुरुपञ्चा॒लाᳶ प्राञ्चो॑ यान्ति ।
@@ -55,6 +66,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a mess of boiled grain to Sarasvatī;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +97,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore in the rainy season all voices speak.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्वस॒न्तव्ँ व्य॑व॒साया॑दयन्ति ।
@@ -98,6 +119,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through \[the offering\] to Pūṣan they settle down;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -121,6 +147,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through \[the offering\] to Mitra they plow;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -150,6 +181,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through \[the offering\] to Varuṇa they remain restrained;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बा॒र्ह॒स्प॒त्यञ्च॒रुम् ।
@@ -174,6 +210,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through \[the offering\] to Kṣetrapati they ripen \[crops\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒त्रैव वि॒रुध्य॑ ।  
@@ -192,6 +233,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through \[the offering\] to Aditi they deposit \[grain\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -217,6 +263,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"These oblations are to be offered month after month," they say,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रू॒पाण्ये॒व तेन॑ कुर्वते ।
@@ -234,6 +285,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"thereby he employs the seasons."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -259,6 +315,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then they say:  
+"Who will live for a year?"
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑ज्जघ॒न्ये॑ नैदा॑घे प्र॒त्यञ्च॑ᳵ कुरुपञ्चा॒ला या॑न्ति ।
@@ -281,6 +343,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Six are to be offered on the day before,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -308,6 +375,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+six on the following day;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑त्प्रा॒वृषि॒ सर्वा॒ वाचो॑ वदन्ति ।
@@ -325,6 +397,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thereby he employs the seasons.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -349,6 +426,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The right ox of the cart-bearer is the dakṣiṇā for the former ones,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मै॒त्रेण॑ कृषन्ते ।
@@ -371,6 +453,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the left for the latter ones.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -395,6 +482,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He yokes the two ends of the year,
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षै॒त्र॒प॒त्येन॑ पाचयन्ते ।
@@ -417,6 +509,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the attainment of the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -442,6 +539,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Indra had pressed \[soma\], his capacity and heroic power flew away in ten parts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "मा॒सिमा॑स्ये॒तानि॑ ह॒वीँषि॑ नि॒रुप्या॒णी"त्या॑हुः ।
@@ -466,6 +568,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What he first spat out,  
+that became the jujube berry;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॒ खल्वा॑हुः ।
@@ -489,6 +597,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+what \[he spat out\] the second time,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -515,6 +628,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that became the jujube fruit;
+</details>
+
 <details><summary>मूलम्</summary>
 
 षडु॑त्तरे॒द्युः ।
@@ -533,6 +651,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what \[he spat out\] the third time,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनै॒वर्तून्प्रयु॑ङ्क्ते ।
@@ -550,6 +673,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that became the wild jujube berry;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -576,6 +704,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what \[came\] from his nose,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्त॑र॒ उत्त॑रेषाम् ।
@@ -598,6 +731,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that was the lion;  
+what \[came\] from his two eyes,
+</details>
 
 <details><summary>मूलम्</summary>
 

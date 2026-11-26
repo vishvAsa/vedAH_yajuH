@@ -360,6 +360,18 @@ Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehe
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the prize-winners have approached the assembly,  
+the inspired poets seeking guidance with songs,  
+like steeds reaching the goal,  
+those men calling aloud upon Indra-Agni.  
+O tree, having bound with a cord,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -496,6 +508,21 @@ convey the oblations to the gods, wishing to place them, and announce the giver 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni has sacrificed to the dear abodes of the goat oblation of Indra-Agni;
+
+he has sacrificed to the dear places of the tree;  
+he has sacrificed to the dear abodes of the ghee-drinking gods.  
+May he sacrifice to the Hotṛ Agni's  
+dear abodes;  
+may he sacrifice to his own greatness;  
+may he sacrifice for refreshments worthy of sacrifice.  
+Let him make the sacrificial rites, the Jātavedas;  
+let him enjoy the oblation.  
+O Agni, when today, Hotṛ of the people of the sacrificial rite,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -957,3 +984,13 @@ Wenn zu den Menschen heut, o Opferpriester, mit hellem Licht du kommst – denn 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you of purifying glow proceed—for you are the sacrificer—  
+sacrifice according to truth, since in your greatness you expand;  
+carry the oblations today, O youngest one, which are yours.
+</details>
+</details>

@@ -12,6 +12,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificial grass is threefold:  
+mother, father, son;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृद्ब॒र्हिर्भ॑वति ।
@@ -36,6 +42,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that indeed is that pair;  
+amnion, embryo, chorion;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -65,6 +77,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that indeed is that pair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् ए॒व तन् मि॑थु॒नम् ।
@@ -83,6 +100,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Threefold is the sacrificial grass tied together.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रे॒धा ब॒र्हिस् सन्न॑द्धम् भवति ।
@@ -100,6 +122,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three are these worlds;  
+he firmly establishes himself in these very worlds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -125,6 +153,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is tied together again as one,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒धा पुन॒स् सन्न॑द्धम् भवति ।
@@ -142,6 +175,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for this world is, as it were, one.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +205,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He firmly establishes himself in this very world through it.  
+There are \[offerings to\] the prasūs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒सुवो॑ भवन्ति ।
@@ -189,6 +233,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He wins the firstborn nourishment itself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -214,6 +263,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A firstborn calf is the sacrificial gift, for success.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒थ॒म॒जो व॒त्सो दक्षि॑णा॒ समृ॑द्ध्यै ।
@@ -231,6 +285,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He scoops the clotted butter.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +315,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The clotted butter is domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शवो॒ वै पृ॑षदा॒ज्यम् ।
@@ -273,6 +337,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He wins domestic animals as it were.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +361,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is taken in five ladlings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒-गृ॒ही॒तम् भ॑वति ।
@@ -309,6 +383,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for domestic animals are fivefold.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -333,6 +412,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is multiform,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -359,6 +443,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for domestic animals are multiform, for success.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हु॒-रू॒पा हि प॒शव॒स् समृ॑द्ध्यै ।
@@ -376,6 +465,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They churn the fire.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -395,6 +489,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With Agni as mouth did Prajāpati create offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नि-मु॑खा॒ वै प्र॒जाप॑तिᳶ प्र॒जा अ॑सृजत ।
@@ -412,6 +511,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they churn the fire,  
+the sacrificer creates offspring with Agni as mouth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -437,6 +542,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nine fore-offerings are sacrificed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव॑ प्रया॒जा इ॑ज्यन्ते ।  
@@ -456,6 +566,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+nine after-offerings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टौ ह॒वीँषि॑ ।
@@ -473,6 +588,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+eight oblations,  
+two ghee pours,  
+two butter portions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +620,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They amount to thirty.  
+The virāj has thirty syllables;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिँ॒शत्सम्प॑द्यन्ते ।  
@@ -522,6 +650,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the virāj is food;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नव्ँ॑ वि॒राट् ।
@@ -540,6 +673,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through the virāj he wins edible food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒राजै॒वान्नाद्य॒म् अव॑रुन्धे ।
@@ -557,6 +695,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The single potsherd \[cake\] is the sacrificer;  
+ghee is fiery energy.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -577,6 +721,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he pours ghee upon the single potsherd \[cake\],  
+he supplies the sacrificer with fiery energy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदेक॑कपाल॒ आज्य॑मा॒नय॑ति ।
@@ -596,6 +746,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The single potsherd \[cake\] is the sacrificer;  
+ghee is domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालः ।
@@ -614,6 +770,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he pours ghee upon the single potsherd \[cake\],  
+he supplies the sacrificer with domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +801,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should pour a little,  
+few domestic animals, enjoying \[him\], would attend him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदल्प॑मा॒नये॑त् ।
@@ -657,6 +825,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should pour much,  
+many domestic animals, enjoying \[him\], would attend him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -681,6 +855,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having poured much, he should make its back visible;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -708,6 +887,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+many domestic animals indeed, enjoying \[him\], attend him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒हव॑ ए॒वैन॑म् प॒शवो॑ भु॒ञ्जन्त॒ उप॑तिष्ठन्ते ।
@@ -726,6 +910,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The single potsherd \[cake\] is the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालः ।
@@ -743,6 +932,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one were to cut a portion from the single potsherd \[cake\],
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -768,6 +962,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+one would cut off a portion of the sacrificer;  
+the sacrificer would either go mad
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्वा॒ माद्ये॒द्यज॑मानः ।
@@ -791,6 +991,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or perish.  
+It should be offered just once,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -817,6 +1023,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the heavenly realm is, as it were, once \[attained\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒कृदि॑व॒ हि सु॑व॒र्गो लो॒कः ।
@@ -835,6 +1046,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered \[it\], he makes an additional oblation over it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हु॒त्वा ऽभि-जु॑होति ।
@@ -852,6 +1068,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having brought the sacrificer to the heavenly realm,  
+he supplies \[him\] with fiery energy.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -872,6 +1094,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The single potsherd \[cake\] is the sacrificer;  
+the heavenly realm is the āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानो॒ वा एक॑कपालः ।
@@ -890,6 +1118,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he offers the single potsherd \[cake\] in the āhavanīya,  
+he brings the sacrificer to the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +1149,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer with the hand,  
+he would cast the sacrificer away from the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्धस्ते॑न जुहु॒यात् ।
@@ -933,6 +1173,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers with the ladle,  
+for the attainment of the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -959,6 +1205,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If it should fall eastward,  
+he would win the world of the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्प्राङ्पद्ये॑त ।  
@@ -979,6 +1231,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+if southward, the world of the ancestors;  
+if westward,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् द॑क्षि॒णा पि॑तृ-लो॒कम्।  
@@ -998,6 +1256,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the rakṣases would slay the sacrifice;  
+if northward,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1023,6 +1287,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would win the world of humans.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रति॑ष्ठितो होत॒व्यः॑ ।
@@ -1047,6 +1316,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It must be offered while standing firm.  
+Following the single potsherd \[cake\] standing firm, heaven and earth stand firm;
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑कपालव्ँ॒ वै प्र॑ति॒तिष्ठ॑न् त॒न् द्यावा॑-पृथि॒वी अनु॒ प्रति॑-तिष्ठतः ।
@@ -1064,6 +1339,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+following heaven and earth, the seasons;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1088,6 +1368,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+following the seasons, the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तून् य॒ज्ञः ।
@@ -1105,6 +1390,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+following the sacrifice, the sacrificer;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1124,6 +1414,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+following the sacrificer, offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मानम् प्र॒जाः ।
@@ -1141,6 +1436,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore it must be offered while standing firm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1165,6 +1465,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sacrifices to the Vājins:
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒जिनो॑ यजति ।
@@ -1182,6 +1487,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, Vāyu, Sūrya—  
+these indeed are the Vājins;  
+it is them that he sacrifices to.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1514,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover they say:  
+'The metres indeed are the Vājins';  
+it is them that he sacrifices to.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,6 +1547,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Ṛk and the Sāman are Indra's two bay steeds, soma-drinkers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒ख्-सा॒मे वा इन्द्र॑स्य॒ हरी॑ सोम॒-पानौ॑ ।
@@ -1245,6 +1569,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the enclosing sticks are their stall,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1264,6 +1593,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the whey is their portion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाजि॑नम्भाग॒धेय॑म् ॥27॥
@@ -1281,6 +1615,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should offer without throwing in the enclosing sticks,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1304,6 +1643,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would give fodder \[to the horses\] while the stalls are between \[them\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1329,6 +1673,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+having thrown in the enclosing sticks, he offers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒हृत्य॑ परि॒धीञ् जु॑होति ।
@@ -1353,6 +1702,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he gives fodder \[to them\] without stalls intervening.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निरा॑धानाभ्याम् ए॒व घा॒सम् प्रय॑च्छति ।
@@ -1371,6 +1725,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Spattering it upon the sacrificial grass, he brings the whey.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒र्हिषि॑ विषि॒ञ्चन् वाजि॑न॒म् आन॑यति ।
@@ -1388,6 +1747,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offspring is the sacrificial grass;  
+semen is the whey;  
+he places semen in offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1414,6 +1780,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having invited each other, they consume \[it\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒प॒हूय॑ भक्षयन्ति ।
@@ -1431,6 +1802,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for they are soma-drinkers in this rite;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1458,6 +1834,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+moreover, they place semen in themselves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ आ॒त्मन्न् ए॒व रेतो॑ दधते ।
@@ -1476,6 +1857,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer consumes last.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज॑मान उत्त॒मो भ॑क्षयति ।
@@ -1493,6 +1879,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The whey is domestic animals;  
+they establish domestic animals in the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 

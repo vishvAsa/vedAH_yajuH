@@ -33,6 +33,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/01_agnirnapH_pAtu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni protect our Kṛttikās,  
+the divine, potent lunar mansion.  
+This is their looking-place;  
+offer an oblation into their mouth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न॑ᳶ पातु॒ कृत्ति॑काः ।   
@@ -64,6 +72,12 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/02_yasya_bhAnti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose rays shine, whose banners \[shine\],  
+whose are all these worlds—
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑ ।   
@@ -115,8 +129,16 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/01_kRttikAH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he, dwelling together with the Kṛttikās,  
+may Agni, the god, place us in prosperity!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/01_kRttikAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png)
@@ -129,7 +151,6 @@ unicode_script = "devanagari"
 
 - in Greek tradition there was an older record of 7 with Aratus claiming that one of them had faded away. This is generally believed to be Ambā (Greek Pleione/ 28 Tauri).  - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
@@ -140,6 +161,14 @@ unicode_script = "devanagari"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Rohiṇī, the wife of Prajāpati, approach,
+</details>
+</details>
 
 ## रोहिणी - प्रजापतिः
 
@@ -156,6 +185,11 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/03_prajApate_rohiNI.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+all-formed, lofty, of variegated brightness!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते रोहि॒णी वे॑तु॒ पत्नी॑ ।   
@@ -168,6 +202,7 @@ unicode_script = "devanagari"
 <details><summary>भट्टभास्कर-टीका</summary>
 
 प्रजापतेः स्वभूता रोहिणी नक्षत्रं पत्नी पालयित्री यज्ञस्य विश्वरूपा विश्वरूपैः उत्पाद्यैः तद्वती बृहती परिबृढा चित्रभानुः चायनीयदीप्तिः सा इदं हविः वेतु भुङ्क्ताम् । नः अस्मान् यज्ञस्य सुविते सुगमे फले दधातु, यथा वयं जीवेम शरदः बहून् संवत्सरान् सवीराः पुत्रपौत्रसहिताः ॥
+
 
 </details>
 
@@ -193,12 +228,19 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/04_rohiNI.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May she place us in the prosperity of the sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रो॒हि॒णी दे॒व्युद॑गात्पु॒रस्ता॑त् ।  
 विश्वा॑ रू॒पाणि॑ प्रति॒मोद॑माना ।  
 प्र॒जाप॑तिँ ह॒विषा॑ व॒र्धय॑न्ती ।  
 प्रि॒या दे॒वाना॒मुप॑यातु य॒ज्ञम् ।   
+
+
 
 </details>
 
@@ -234,8 +276,15 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/02_rohiNI/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+so that we may live autumns accompanied by heroes!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/02_rohiNI/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/kRttikA.png)
@@ -254,7 +303,6 @@ unicode_script = "devanagari"
 - "Interesting both the kR^ittikAH (Pleiades) and Hyades which contains rohiNI are close by open clusters; 1 young, 1 older. "
 - मैत्रायणीयसम्प्रदाये - "In some reckonings it holds rohiNI as the nakShatra of soma & narrates how of all the daughters of prajApati soma preferred rohiNI and was afflicted with TB. Hence, the ritual in rohiNI is recommended for TB. It also mentions a certain brAhmaNa-nakShatra for soma at the end of the list in the ritual of the laying of the nakShatra bricks during the somayAga."
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
@@ -265,6 +313,17 @@ unicode_script = "devanagari"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rohiṇī, the goddess, has risen in the east,  
+rejoicing over all forms,  
+strengthening Prajāpati with the oblation;  
+dear to the gods, may she come to the sacrifice!
+</details>
+</details>
 
 ## मृगशीर्षम् - सोमः
 
@@ -283,6 +342,14 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/05_somo_rAjA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+King Soma has come with Mṛgaśīrṣa,  
+the auspicious lunar mansion, his dear abode;  
+swelling abundantly among the peoples,  
+may he place semen \[and\] offspring in the sacrificer!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॑ मृगशी॒र्षेण॒ आग॑न् ।   
@@ -290,11 +357,14 @@ unicode_script = "devanagari"
 आ॒प्याय॑मानो बहु॒धा जने॑षु ।  
 रेत॑ᳶ प्र॒जाय्ँयज॑माने दधातु ॥2॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आगन् आगच्छतु । छान्दसो लुङ्, 'मन्त्रे घस' इति च्लेर्लुक् । ईषा अक्षादित्वात्पूर्वेण संहिताभावः । अस्य सोमस्य इदं शिवं कल्याणतरं नक्षत्त्रं प्रियं धाम स्थानं, तस्मात् तेन सह आगच्छत्विति ब्रूमः । जनेषु जनननिमित्तं जनेषु वा यजमानेषु हविषा बहुधा आप्यायमानः वर्धयन् रेतः बीजं उदकं वा प्रजां च पुत्रादि यजमाने दधातु ॥
+
 
 </details>
 </details>
@@ -315,12 +385,21 @@ unicode_script = "devanagari"
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/06_yatte.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is your lunar mansion, Mṛgaśīrṣa,  
+dear, O King, dearest of the dear,  
+to that \[mansion\] of yours, O Soma, may we pay worship with oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ न॑क्षत्रम्मृगशी॒र्षमस्ति॑ ।   
 प्रि॒यँ रा॑जन्प्रि॒यत॑मम्प्रि॒याणा॑म् ।  
 तस्मै॑ ते सोम ह॒विषा॑ विधेम ।  
 शन्न॑ एधि द्वि॒पदे॒ शञ्चतु॑ष्पदे ।  
+
+
 
 </details>
 
@@ -337,7 +416,6 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/03_mRgashiraH/">
-
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
@@ -362,12 +440,12 @@ unicode_script = "devanagari"
 
 The Romans, like the H, seemed to remember of Orion as being the "leader of the constellations" i.e. the AgrayaNa position. Did some see the belt as the sword?:
 
+
 > Orion may be seen stretching his arms over a vast expanse of sky and rising to the stars with no less huge a stride. A single light marks each of his shining shoulders, and three aslant trace the downward line of his sword ; but three mark Orion’s head, which is embedded in high heaven with his countenance remote. It is Orion who leads the constellations as they speed over the full circuit of heaven. Astronomica by Marcus Manilius (translated by Goold)
 
 - "In Vaidika reckoning the core of Mṛga was Orion with the arrow of Rudra shot through it (See below). The arrow is identified with the three stars of the belt of Orion (ζ , ε , δ Orionis). " ता इण्वकाः। "Taittirīya Brāhmaṇa 1.5.1.1 states: somasyenvakā vitatāni ।" - ([MT](https://manasataramgini.wordpress.com/2017/07/01/a-note-on-the-asterisms-forming-the-nak%e1%b9%a3atra-s/))
 - "It is also likely that the 3 stars in a line inspired the myth of the tripura-s with the 3 asura forts need to be a in a line to be pierced by the arrow of rudra."
 </details>
-
 </div>  
 
 ## आर्द्रा - रुद्रः
@@ -393,6 +471,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/07_ArdrayA_rudrapH.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+be peace to our two-footed, peace to our four-footed!  
+Rudra comes expanding with Ārdrā,  
+the best of the gods, the lord of the unslayable \[cows\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान एति ।  
@@ -405,6 +490,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आर्द्रया नक्षत्रेण प्रथमानः विस्तीर्यमाणतेजा एति नः यज्ञं प्राप्नोति । अघ्नियानां गवां पतिः तस्यास्य नक्षत्रं आद्रां विधेम परिचरेम । नः प्रजां पुत्रपौत्रादिकं मा रीरिषत् मा हिंसीः । उत अपि च वीरान् पुत्रान् आश्रितोपाश्रितान् पुरुषान् ॥
+
 
 </details>
 </details>
@@ -425,6 +511,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/08_hetI_rudrasya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we pay worship to his lunar mansion with oblation;  
+may he not harm our offspring nor our heroes!  
+May the missile of Rudra pass around us;  
+may the Ārdrā lunar mansion enjoy our oblation!
+</details>
+
 <details><summary>मूलम्</summary>
 
 हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु ।  
@@ -438,12 +532,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 8हेती रुद्रस्येति ॥ रुद्रायुधं नः परितो वृणक्तु वर्जयतु । नः हविर्जुषतां सेवताम् । अथ तौ रुद्र आर्द्रा च उभौ विश्वानि दुरितानि प्रमुञ्चमानौ । अघशंसं पापरुचिम् । यद्वा - मम पापशंसिनमरातिं अपनुदतां विशेषेण नाशयताम् ॥
 
+
 </details>
 </details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/04_ArdrA/">
-
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/mRgashIrSha.png)
@@ -462,7 +556,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - "A good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun. IA good challenge in this constellation is to see the companion star of Sirius . It was predicted by great mathematician Friedrich Bessel through the wobble of Sirius and seen only later by others. It is a small star about the size of the Earth but with the mass of the sun."
 - Sirius, the head of shabala praised at the morning shuna shairya offering of the pa\~nchavimsha brAhmaNa.
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -482,6 +575,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Releasing \[us\] from all distresses,  
+may the two thrust away the speaker of evil, the enemy!
+</details>
+</details>
+
 ## पुनर्वसू - अदितिः
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/1/09_punarno.md">
@@ -499,6 +601,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/09_punarno.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the goddess Aditi rescue us again;  
+may the two Punarvasus come again to our sacrifice!  
+May all the gods turn again toward us;  
+again and again we worship you with an oblation!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑र्नो दे॒व्यदि॑तिस्स्पृणोतु ।   
@@ -506,11 +616,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 पुन॑र्नो दे॒वा अ॒भिय॑न्तु॒ सर्वे॑ ।    
 पुन॑ᳶपुनर्वो ह॒विषा॑ यजामः ।    
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अदितिः देवी नः **पुनःपुनः स्पृणोतु** प्रीणयतु । **स्पॄ** प्रीतौ, **पुनर्वसू** च नक्षत्रं नः यज्ञं पुनःपुनः **एतां** आगच्छताम् । **देवाः सर्वे** च **अभियन्तु** आभिमुख्येनागच्छन्तु । गतमन्यत् ॥
+
 
 </details>
 </details>
@@ -529,6 +642,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/10_evA_na.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even so, may the unobstructed goddess Aditi,  
+the supporter of all, the foundation of the world,  
+strengthening the two Punarvasus with an oblation,  
+approach the dear dwelling of the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒वा न दे॒व्यदि॑तिरन॒र्वा ।   
@@ -536,11 +657,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 पुन॑र्वसू ह॒विषा॑ व॒र्धय॑न्ती ।   
 प्रि॒यन्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥4॥  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 10एवा नेति ॥ नकारः समुच्चये । एव? सांप्रतिकः एवं च, अयनशीला वा अदितिः देवी पृथिवी देवमाता वा शैलकन्या वा । 'अदितिः शैलकन्यायां पृथिव्यां देवमातरि' इत्यभिधानम् । अत्र अदितिशब्दो रुद्राणीवचनः । पूर्वनक्षत्रं रौद्रं, तयोरुभयोस्साहचर्यात् । अनर्वा अपापा अप्रच्युतिर्वा । यद्वा - सप्तम्या आकारः । एवा अयने अनर्वा अवद्यरहिता विश्वस्य भर्त्री धारयित्री पुनर्वसू नक्षत्रं आत्मानं च हविषा वर्धयन्ती पाथः अन्नरूपं हविः अप्येतु प्राप्नोतु । 'पाथसी सलिलोदनौ' इत्यभिधानम् ॥
+
 
 </details>
 </details>
@@ -564,8 +687,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/05_punarvasU/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati, being born first,
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/05_punarvasU/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/punarvasU.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/punarvasU.png)
@@ -581,7 +711,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - रामायणे - "kumbhakarṇa-śiro bhāti kuṇḍalālaṅkṛtaṃ mahat । āditye’bhyudite rātrau madhyastha iva candramāḥ ॥"
 - "These allusions indicate that the two-headed nature of the constellation of Gemini was transposed on to the presiding deity Aditi and the inversion associated with the two heads along with the eastward and westward paths might indicate an old memory of the start of the ecliptic at Aditi in prehistoric times (>7000 years BP)."
 </details>
-
 </div>  
 
 ## तिष्यम् / पुष्यम् - बृहस्पतिः
@@ -599,6 +728,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/11_bRhaspatipH_prathamanjAyamAnaH.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+came into being over the Tiṣya lunar mansion,  
+the best of the gods, victorious in battles;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः ।   
@@ -611,6 +746,7 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जायमानः तिष्यं नक्षत्त्रं प्रथमं प्रधानमभिलक्ष्य सम्बभूव । लक्षणहेत्वोः कर्मप्रवचनीयत्वात् द्वितीया । पृतनासु सङ्ग्रामेषु । दिशोऽनु सर्वासु दिक्षु अभयहेतुरस्तु । हेतौ कर्मप्रवचनम् ॥
+
 
 </details>
 </details>
@@ -629,6 +765,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/12_tiShyapH_purastAduta.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+along all quarters may there be fearlessness for us!  
+May Tiṣya protect us in front and in the middle;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒ष्य॑ᳶ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॑ ।  
@@ -636,11 +778,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 बाधे॑ता॒न्द्वेषो॒ अभ॑यङ्कृणुताम् ।  
 सु॒वीर्य॑स्य॒ पत॑यस्स्याम ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 12तिष्यो बृहस्पतिश्च न: पुरस्तात् आदौ शरीरे मध्यतो यौवने च पश्चादन्ते वार्धके च सर्वतः पालयतु । द्वेषः द्वेषम् । कर्मण्यसुन् । यद्वा - द्वेष्टॄन् । विजन्तात् शस् । बाधेतां नाशयताम् । नः अभयं च कृणुतां कुरुताम् । सुवीर्यस्य शोभनवीर्यस्य ॥
+
 
 </details>
 </details>
@@ -663,8 +808,16 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/06_tiShyaH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Bṛhaspati protect us from behind!  
+May the two ward off enmity, may they make fearlessness;
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/06_tiShyaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/tiShya.png)
@@ -679,7 +832,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
   - " The comparison of great riches, in thousands, is indicative of the great mass of stars in the open cluster supporting the identification of the old Tiṣya with M44."
 - "The name tiShya seems homologous to the Iranian tiShtrya. Today the Iranian asterism is equated with Sirius but there is a suspicion that this might have been secondary."
 </details>
-
 </div>  
 
 ## आश्रेषाः - सर्पाः
@@ -697,6 +849,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/13_idaM_sarpebhyo.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we be masters of heroic strength!  
+May this oblation be pleasing to the serpents,  
+whose intent the Āśreṣās follow!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दँ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट॑म् ।  
@@ -704,11 +863,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 ये अ॒न्तरि॑क्षम्पृथि॒वीङ्क्षि॒यन्ति॑ ।  
 ते न॑स्स॒र्पासो॒ हव॒माग॑मिष्ठाः ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 जुष्टं प्रियं अस्तु । आश्रेषा नक्षत्रं येषां चेतः अनुयन्ति, क्षियन्ति अधिवसन्ति । ते सर्पासः हवं यज्ञं आगमिष्ठाः अतिशयेन आगन्तारो भवन्तु । आगन्तृशब्दात्तृन्नन्तात् 'तुश्छन्दसि' इतीष्ठन्प्रत्यये 'तुरिष्ठेमेयस्सु' इति टिलोपः ॥
+
 
 </details>
 </details>
@@ -727,6 +888,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/14_ye_rochane.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+They who dwell in the intermediate space \[and\] on the earth,  
+may those serpents come most readily to our call!  
+Those serpents who are also in the realm of the sun,  
+who wander along the divine heaven,  
+whose desire the Āśreṣās follow—
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये रो॑च॒ने सूर्य॒स्यापि॑ स॒र्पाः ।   
@@ -734,11 +904,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 येषा॑माश्रे॒षा अ॑नु॒यन्ति॒ काम॑म्   
 तेभ्य॑स्स॒र्पेभ्यो॒ मधु॑मज्जुहोमि ।   
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14ये रोचन इति ॥ ये सर्पाः सूर्यस्यापि रोचने मण्डले नियुक्ताः वसन्ति । ये च दिवं देवीं द्योतनवतीं अनुसंचरन्ति अनुव्याप्य संचरन्ति । येषां च कामं इच्छां आश्रेषा अनुयन्ति अनुसरन्ति । तेभ्यस्सर्पेभ्यः साश्रेषेभ्यः इदं मधुमत् मधुररसवत् हविः जुहोमि ॥
+
 
 </details>
 </details>
@@ -762,8 +934,15 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/07_AshreShA/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+to those serpents I sacrifice accompanied by sweetness!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/07_AshreShA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/AshreShA.png)
@@ -777,7 +956,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 - "It corresponds to the head of the Greek constellation of Hydra, suggesting that the link to a snake goes back to early Indo-European times. Āśleṣā is specifically associated with the head of the snake. Hence, the 6 stars should correspond to θ , ζ , ε , δ , σ , η Hydrae."
 </details>
-
 </div>  
 
 ## मघाः - पितरः
@@ -795,12 +973,21 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/15_upahUtApH_pitaro.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked are the Fathers who are in the Maghās,  
+swift as thought, doing good, of good deeds;  
+may they come most readily to our call at the lunar mansion,  
+with the ancestral offerings may they enjoy the proffered sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ ।  
 मनो॑जवसस्सु॒कृत॑स्सुकृ॒त्याः ।  
 ते नो॒ नक्ष॑त्रे॒ हव॒माग॑मिष्ठाः ।  
 स्व॒धाभि॑र्य॒ज्ञम्प्रय॑तञ्जुषन्ताम् ॥6॥  
+
 
 </details>
 
@@ -824,6 +1011,12 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/16_ye_agnidagdhA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are burned by fire, those who are unburned by fire,  
+the Fathers who dwell in yonder world,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  
@@ -831,11 +1024,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 याँश्च॑ वि॒द्म याँ उ॑ च॒ न प्र॑वि॒द्म ।  
 म॒घासु॑ य॒ज्ञँ सुकृ॑तञ्जुषन्ताम् ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 16ये अग्निदग्धा इति ॥ अग्निनैव दाह इति सामर्थ्याद्गम्यते ये संस्कृतेनाग्निया दग्धाः पितरः ये चानग्निदग्धाः मिथ्याग्निदग्धाः ये च पितरः अमुं लोकं, इमं लोकमित्युपलक्षणम् । क्षियन्ति अधिवसन्ति । यांश्च वयं विद्म जानीमः, यानपि च न प्रविद्म प्रकर्षेण न जानीमः ते सर्वे पितरः मघासु मघानिमित्तं अस्माकं सुकृतं यज्ञं जुषन्तां सेवन्ताम् ॥
+
 
 </details>
 </details>
@@ -860,8 +1056,16 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those whom we know and those whom we do not know—  
+may they enjoy the well-performed sacrifice in the Maghās!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/08_maghAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -874,7 +1078,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 - "Atharvaveda Nakṣatra sūkta states that the summer solstice happened in this asterism pointing to a period of ~4400 YBP"
 </details>
-
 </div>  
 
 ## पूर्व-फल्गुन्यः  - अर्यमा
@@ -894,6 +1097,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/17_gavAmpatipH_phalgunInAmasi.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the lord of the cows, of the Phalgunīs,  
+that, O Aryaman, Varuṇa, Mitra, is delightful!  
+As such, may we, living, dwell near you,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गवा॒म्पति॒ᳶ फल्गु॑नीनामसि॒ त्वम् ।  
@@ -922,6 +1132,13 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/18_yenemA_vishvA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the living one, the winner of winnings,  
+by whom all these worlds have been won together,  
+whose intent the gods follow!
+</details>
+
 <details><summary>मूलम्</summary>
 
 येने॒मा विश्वा॒ भुव॑नानि॒ सञ्जि॑ता ।  
@@ -929,11 +1146,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 अ॒र्य॒मा राजा॒ऽजर॒स्तुवि॑ष्मान् ।  
 फल्गु॑नीनामृष॒भो रो॑रवीति ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 18येनेमा इति ॥ इमानि विश्वानि भुवनानि येन संजिता सम्यक् जितानि सहैव वा जितानि । देवा अपि यस्य चेतः चित्तं अनुसंयन्ति संगच्छन्ति । सोऽर्यमा राजा दीप्तिमान् अजरः जरामरणरहितः तुविष्मान् वृद्धिमान् । फल्गुनीनां गोस्थानीयानां ऋषभः सेक्ता रोरवीति भृशं शब्दायते ख्यापयत्यात्मानमित्यर्थः ॥
+
 
 </details>
 </details>
@@ -957,8 +1177,16 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aryaman, the unaging, mighty king,  
+the bull of the Phalgunīs, roars loudly.
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/09_phAlgunyaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -968,7 +1196,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 - अत्र वै यदा चन्द्रमा ऽवर्तत ३००० BCE इति वर्षे, तदाभूद् वत्सरारम्भः।
   - विवरणानि सौर-चान्द्र-मान-पृष्ठे। 
 </details>
-
 </div>  
 
 ## उत्तर-फल्गुन्यः - भगः
@@ -986,6 +1213,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/19_shreShTho_devAnAmbhagavo.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Best of the gods, O Bhaga, you are Bhaga;  
+the Phalgunīs know that of you; know that!  
+Push together here for us unaging regal power,  
+accompanied by heroic strength, rich in cows, rich in horses!
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रेष्ठो॑ दे॒वाना॑म्भगवो भगासि ।  
@@ -993,11 +1228,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 अ॒स्मभ्य॑ङ्क्ष॒त्रम॒जरँ॑ सु॒वीर्य॑म् ।  
 गोम॒दश्व॑व॒दुप॒सन्नु॑दे॒ह ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवानां मध्ये श्रेष्ठः प्रशस्यतमोसि हे भगवः! ऐश्वर्यादिमन्! 'मतुवसो रुः' इति रुत्वम् । हे भग! तत् तं, द्वितीया लुप्यते । तादृशं त्वां उत्तराः फल्गुन्यः विदुः जानन्ति । यद्वा - तत् तस्मात् त्वां फल्गुन्यः लभन्ते सेवन्ते । त्वमपि तस्य महिमानं वित्तात् जानीथाः । कर्मणि षष्ठी । ततः तादृशं आत्मनो माहात्म्यं विद्वान् तादृशीभिः फल्गुनीभिः सह त्वं अस्मभ्यं क्षत्त्रं बलं अजरं अनुपक्षयं सुवीर्यं शोभनवीरकर्मयुक्तं गोमत् बहुगु अश्ववत् प्रशस्तात् इह कर्मणि उपसंनुद अस्माकं समीपे प्रेरय । तिङन्तस्य उदात्तत्वाभावात् गत्योर्निघाताभावः ॥
+
 
 </details>
 </details>
@@ -1016,6 +1254,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/20_bhago_ha.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhaga indeed is the giver, Bhaga is the distributor;  
+Bhaga entered the divine Phalgunīs;  
+may we go to that instigation of Bhaga,  
+where we may revel in joint revelry with the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगो॑ ह दा॒ता भग॒ इत्प्र॑दा॒ता ।  
@@ -1023,11 +1269,14 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 भग॒स्येत्तम्प्र॑स॒वङ्ग॑मेम ।  
 यत्र॑ दे॒वैस्स॑ध॒माद॑म्मदेम ॥8॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 20भगो हेति ॥ भगो दाता भग एव प्रदाता प्रकर्षेण दाता भग एव देवीः देवनस्वभावाः फल्गुनीः उत्तराः आविवेश अनुप्रविश्य तिष्ठति । तस्मात् भगस्येत् । इदित्यव्ययम् । भगस्यैव तं प्रसवं अनुज्ञां गमेम गम्यास्म । 'लिङ्याशिष्यङ्' । कम्? यत्र प्रसवे सति देवैः सधमादं सहमादं मदेम माद्येम तं प्रसवं गमेमहि ॥
+
 
 </details>
 </details>
@@ -1050,8 +1299,16 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the god Savitṛ come, may he approach  
+with his well-turning golden chariot,
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/10_phAlgunyaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/maghA.png)
@@ -1059,7 +1316,6 @@ The Romans, like the H, seemed to remember of Orion as being the "leader of the 
 
 Denebola - β, 93 Leonis
 </details>
-
 </div>  
 
 ## हस्तः - सविता
@@ -1079,6 +1335,12 @@ Denebola - β, 93 Leonis
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/21_AyAtu_devassavitopayAtu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+bringing the auspicious, skillfully working Hasta,  
+toward the bountiful, meritorious \[mansion\] that bestows!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्स॑वि॒तोप॑यातु ।  
@@ -1086,11 +1348,14 @@ Denebola - β, 93 Leonis
 वह॒न् हस्तँ॑ सु॒भगव्ँ॑विद्म॒नाप॑सम् ।  
 प्र॒यच्छ॑न्त॒म्पपु॑रि॒म्पुण्य॒मच्छ॑ ।    
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 देवस्सविता आयातु आगच्छतु अस्मान् प्रति उपयातु च उपगच्छतु चास्मत्पार्श्वम् । हिरण्ययेन हिरण्यविकारेण सुवृता सुवृत्तिकेन । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । ईदृशेन रथेनायातु । हस्तं नक्षत्रं सुभगं शोभनधनं विद्मनापसं विद्मनं विदितं विख्यातं अपसं कर्म यस्य तादृशम् । विदेर्लुटि धातोर्मुमागमः । प्रयच्छन्तं अभिमतानि ददतं पपुरिं पूरयितारं कामानाम् । 'आदृगमहन' इति किन् प्रत्ययः । पुण्यं पावनं लोकस्य ईदृशं हस्तं रथेन आत्मीयेन वहन् अच्छ अस्मदाभिमुख्येन आयातु ॥
+
 
 </details>
 </details>
@@ -1110,12 +1375,20 @@ Denebola - β, 93 Leonis
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/22_hastapH.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Hasta bestow nectar, superior wealth;  
+with the right hand may we receive it!
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्त॒ᳶ प्रय॑च्छत्व॒मृतव्ँ॒वसी॑यः ।   
 दक्षि॑णेन॒ प्रति॑गृभ्णीम एनत् ।  
 दा॒तार॑म॒द्य स॑वि॒ता वि॑देय ।  
 यो नो॒ हस्ता॑य प्रसु॒वाति॑ य॒ज्ञम् ।
+
+
 
 </details>
 
@@ -1146,15 +1419,22 @@ Denebola - β, 93 Leonis
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May I find Savitṛ today as the giver,  
+who shall impel the sacrifice for our Hasta!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/11_hastaH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/hasta.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/hasta.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/hastaH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/hastaH.png)
 Corvus- α , β , γ , δ , ε Corvi.
 </details>
-
 </div>  
 
 ## चित्रा - त्वष्टा
@@ -1174,6 +1454,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/23_tvaShTA_nakhShatramabhyeti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭṛ approaches the Citrā lunar mansion,  
+the shapely, shining maiden,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  
@@ -1181,11 +1467,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 नि॒वे॒शय॑न्न॒मृता॒न्मर्त्याँ॑श्च ।  
 रू॒पाणि॑ पिँ॒शन्भुव॑नानि॒ विश्वा॑ ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्वष्टा चित्रा नक्षत्रं अभ्येति आभिमुख्येन गच्छति । तया एकीभवति । सुभंससं शोभनदीप्तिं 'भस भर्त्सनदीप्त्योः' असुनि अनुस्वारोपजनः छान्दसः । यद्वा - सुभसत् शोभनजघना । छान्दसो विकारः । पर्यायान्तरं वा भसदः । युवतिं मिश्रिणीं रोचमानां दीप्यमानां त्वष्ट्रे वा रोचमानाम् । किं कुर्वन्नभ्येति? अमृतान् देवान् मर्त्यान् मनुजान् । चकारस्सर्वसमुच्चये । निवेशयन् यथास्वरूपं स्थापयन् । किञ्च - रूपाणि रूपवन्ति रूपणीयानि वा विश्वानि भुवनानि भूतानि पिंशन् अवयववन्ति रूपयन् । पिश अवयवे, व्यत्ययेन श्नम् ॥
+
 
 </details>
 </details>
@@ -1206,6 +1495,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/24_tannastvaShTA_tadu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+establishing mortals and immortals,  
+fashioning forms, all the worlds.  
+May Tvaṣṭṛ look upon that for us, and may Citrā \[look upon it\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्न॒स्त्वष्टा॒ तदु॑ चि॒त्रा विच॑ष्टाम् ।  
@@ -1213,11 +1509,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 तन्न॑ᳶ प्र॒जाव्ँ वी॒रव॑तीँ सनोतु ।   
 गोभि॑र्नो॒ अश्वै॒स्सम॑नक्तु य॒ज्ञम् ।   
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 24तन्न इति ॥ त्वष्टा चित्रा च नः अभिमतं विचष्टां व्यक्तं वदतु, उत्पादयत्विति यावत् । किं च - तत् चित्राख्यं नक्षत्रं मह्यं भूरिदा बहुनो धनस्य दातृ अस्तु । लिङ्गव्यत्ययः, चित्राभिप्रायं वा स्त्रीत्वम् । तत् देवता नक्षत्रं च तद्द्वयं नः वीरवतीं विक्रान्तपुरुषवतीं प्रजां सन्ततिं सनोतु ददातु । षणु दाने । गोभिरश्वैश्च नः यज्ञं समनकु समृद्धं करोतु ॥
+
 
 </details>
 </details>
@@ -1241,8 +1540,17 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/12_chitrA/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that lunar mansion be a giver of abundance to me!  
+May it win for us offspring rich in heroes;  
+may it anoint our sacrifice with cattle \[and\] with horses!
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/12_chitrA/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/chitrA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/chitrA.png)
@@ -1256,7 +1564,6 @@ Corvus- α , β , γ , δ , ε Corvi.
 - "Whereas the taittirIya brAhmaNa & other traditions recognize tvaShTR^i as the god of the asterism, the other taittirIya saMhitA, assigns 3 nakShatra-s to indra at intervals of 7 centered in Antares; chitra is the first of them. This might relate to the timing of ancient aindra rituals along the early satra."
 - "this constellation offers a window, with a relatively small telescope 6-10in, of both the vastness & higher order structure of the universe. 1st we can start with M 104 or the Sombrero galaxy at the border with Corvus. It is probably the brightest galaxy in our local group& has a gigantic black hole at its center. I have routinely seen it with my 50x70 binocs on good nights. Moving from the Local group we go to the upper part of Virgo. The galaxies M 100,M 49,M 58,M 59,M 60,M 61,M 84,M 85,M 86,M 87,M 88,M 89,M 90,M 91,M 98,M 99 can be seen as part of this cluster with a small telescope. This cluster with our own local group and many others forms the Virgo supercluster. A lot of what we know of the universe is from this cluster."
 </details>
-
 </div>  
 
 ## निष्ट्या, स्वातिः - वायुः
@@ -1276,6 +1583,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/25_vAyurnakhShattramabhyeti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu approaches the Niṣṭyā lunar mansion,  
+the sharp-horned bull, roaring loudly;  
+setting the worlds in motion, Mātariśvan,  
+may he thrust away hatreds \[and\] enemies!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर्नक्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  
@@ -1283,11 +1598,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 स॒मी॒रय॒न्भुव॑ना मात॒रिश्वा॑ ।  
 अप॒ द्वेषाँ॑सि नुदता॒मरा॑तीः ॥10॥  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 निष्ट्या स्वातीनक्षत्रं वायुः अभ्येति अभिगच्छति । तिग्मगृङ्गः तीक्ष्णातेजाः वृषभः वर्षिता रोरुवाणः शब्दायमानः । यङ्लुगन्ताद्व्यत्ययेनात्मनेपदम् । भुवनानि भूतजातानि समीरयन् समन्तात् प्रेरयन् मातरिश्वा विश्वं मातीति विश्वमातर्याकाशे श्रयति वर्धते नः द्वेषांसि द्वेष्याणि अरातीः अदातॄंश्च । लिङ्गव्यत्ययः । अपनुदतां नाशयतु ॥
+
 
 </details>
 </details>
@@ -1308,6 +1626,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/26_tanno_vAyustadu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Vāyu hear that for us, and may Niṣṭyā \[hear\] that;  
+may that lunar mansion be a giver of abundance to me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   
@@ -1315,11 +1639,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 तन्नो॑ दे॒वासो॒ अनु॑जानन्तु॒ काम॑म् ।  
 यथा॒ तरे॑म दुरि॒तानि॒ विश्वा॑ ।
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 26तन्न इति । । तत् नः अस्मदभिमतं वायुः शृणोतु यथाप्रार्थनं ददात्विति यावत् । निष्ट्या स्वाती च तच्छृणोतु । तत् नक्षत्रं भूरिदा अस्तु मह्यं तं अस्माकं कामं इष्टं देवा अनुजानन्तु । कः पुनस्स इत्याह - यथा वयं दुरितानि विश्वानि तरेम, तथाऽनुजानन्तु ॥
+
 
 </details>
 </details>
@@ -1344,14 +1670,23 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/13_svAtiH/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the gods grant us that desire,  
+so that we may cross over all misfortunes.  
+Afraid, let our enemies depart far from us;
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/13_svAtiH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
+
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/niShTyA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/niShTyA.png)
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/stellarium/niShTyA_svAtiH.png)
 </details>
-
 </div>  
 
 ## विशाखे - इन्द्राग्नी
@@ -1371,6 +1706,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/27_dUramasmachChatravo_yantu.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let Indra and Agni effect that, let the Viśākhās \[effect\] that.  
+Let the gods welcome this sacrifice of ours;  
+let there be safety for us from behind and from before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दू॒रम॒स्मच्छत्र॑वो यन्तु भी॒ताः ।   
@@ -1378,11 +1720,14 @@ Corvus- α , β , γ , δ , ε Corvi.
 तन्नो॑ दे॒वा अनु॑मदन्तु य॒ज्ञम् ।   
 प॒श्चात्पु॒रस्ता॒दभ॑यन्नो अस्तु ।  
 
+
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 । अस्मत् अस्मत्तः भीताश्शत्रवो दूरं यन्तु पलायन्ताम् । तदभिमतं इन्द्राग्नी कृणुतां कुरुतां, विशाखे च नक्षत्रं तत्कृणुतामित्येव, तत्तत्साधनमस्माकं यज्ञं देवाः अनुमदन्तु अनुमोदनां फलनिष्पत्तिमनुजानन्तु । ततश्चास्माकं पश्चात्पुरस्ताच्च सर्वास्ववस्थासु अस्माकमभयमस्तु ॥
+
 
 </details>
 </details>
@@ -1403,6 +1748,12 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/28_nakhShatrANAmadhipatnI.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Viśākhās are the mistresses among the lunar mansions,  
+the best, Indra and Agni the protectors of the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नक्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   
@@ -1410,11 +1761,13 @@ Corvus- α , β , γ , δ , ε Corvi.
 विषू॑च॒श्शत्रू॑नप॒ बाध॑मानौ ।  
 अप॒ क्षुध॑न्नुदता॒मरा॑तिम् ।  
 
+
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 28नक्षत्राणामिति ॥ नक्षत्राणां मध्ये अधिपत्नी अधिकं पालयित्र्यौ विशाखे नक्षत्रं, तद्देवते इन्द्राग्नी श्रेष्ठौ प्रशस्यतमौ भुवनस्य भूतजातस्य गोपौ गोपयितारौ अतोऽस्माकं विषूचः विष्वग्गतान् इतश्चेतश्च पलायितान् अपबाधमानौ पीडयन्तौ अस्माकं क्षुधं अरातिं शत्रुस्थानीयाम् । यद्वा - क्षुधं अरातिं चापनुदताम् ॥
+
 
 </details>
 </details>
@@ -1438,8 +1791,16 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">
+<details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thrusting back the enemies in all directions,  
+may they drive away hunger and malevolence.
+</details>
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/14_vishAkhe/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 [<img src="/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/vishAkhA.png" width="250"/>](/devaH/AryaH/hindukaH/classes/lokAntaram/images/naxatram/wiki/vishAkhA.png)
@@ -1453,7 +1814,6 @@ Corvus- α , β , γ , δ , ε Corvi.
 - "The constellation of the Ikṣvāku-s according to the Rāmāyaṇa."
 - "Observationally, one may attempt to see if 1 perceives beta Librae as having a green hue. Some people say so making it the only naked eye star with a greenness to it."
 </details>
-
 </div>  
 
 ## पूर्णिमा
@@ -1473,12 +1833,30 @@ Corvus- α , β , γ , δ , ε Corvi.
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/29_pUrNA_pashchAduta.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Keith</summary>
+
+Full behind, and full in front,  
+In the middle hath she of the full moon been victorious;  
+In her let the gods dwelling together  
+Rejoice here in the highest firmament.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+hauling away above, conveying away below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   
 उन्म॑ध्य॒तᳶ पौ॑र्णमा॒सी जि॑गाय ।  
 तस्या॑न्दे॒वा अधि॑ सव्ँ॒वस॑न्तः ।  
 उ॒त्त॒मे नाक॑ इ॒ह मा॑दयन्ताम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पू॒र्णा । प॒श्चात् । उ॒त । पू॒र्णा । पु॒रस्ता॑त् । उदिति॑ । म॒ध्य॒तः । पौ॒र्ण॒मा॒सीति॑ पौर्ण-मा॒सी । जि॒गा॒य॒ ॥ तस्या॑म् । दे॒वाः । अधीति॑ । सव्ँ॒वस॑न्त॒ इति॑ सं-वस॑न्तः । उ॒त्त॒म इत्यु॑त्-त॒मे । नाके॑ । इ॒ह । मा॒द॒य॒न्ता॒म् ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1510,12 +1888,20 @@ _________________
 
 <div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/1/30_pRthvI_suvarchA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+rejoice here on the highest firmament.  
+Broad, well-radiant, a harmonious maiden,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थ्वी सु॒वर्चा॑ युव॒तिस्स॒जोषाः॑ ।  
 पौ॒र्ण॒मा॒स्युद॑गा॒च्छोभ॑माना ।  
 आ॒प्या॒यय॑न्ती दुरि॒तानि॒ विश्वा॑ ।  
 उ॒रुन्दुहाय्ँ॒यज॑मानाय य॒ज्ञम् ॥12॥  
+
+
 
 </details>
 
@@ -1536,3 +1922,13 @@ _________________
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Full-Moon night has risen gleaming,  
+filling up all misfortunes;  
+may she milk a wide sacrifice for the sacrificer.
+</details>
+</details>

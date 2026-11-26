@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They feared his falling downward.  
+Him they supported on these seven meters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्यावा॑चो ऽवपा॒दाद् अ॑बिभयुः ।
@@ -36,6 +42,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that they supported (aśrayan) \[him\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम् ए॒तेषु॑ स॒प्तसु॒ छन्द॑स्स्व् अश्रयन् ।
@@ -58,6 +69,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the śrāyantīya nature of the Śrāyantīya \[sāman\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +99,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that they warded off (avārayan),  
+that is the vāravantīya nature of the Vāravantīya \[sāman\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदवा॑रयन् ।  
@@ -107,6 +129,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They feared indeed his falling downward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्यावा॑च ए॒वाव॑पा॒दाद् अ॑बिभयुः ।
@@ -124,6 +151,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for him they placed these seven meters, each increasing by four syllables.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +180,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of them three were redundant;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेषा॒म् अति॒ त्रीण्य् अ॑रिच्यन्त ।
@@ -171,6 +208,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+three were insufficient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न त्रीण्य् उद॑भवन्न् ॥ 55 ॥
@@ -193,6 +235,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He reached the Bṛhatī itself  
+by two syllables,  
+indeed by day and night.  
+As to this they say:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -221,6 +271,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Which is that Bṛhatī of divine syllables  
+upon which he then established himself?'  
+Twelve full-moon days,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदा॑हुः ।
@@ -248,6 +305,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+twelve aṣṭakās,  
+twelve new-moon days:  
+this indeed is that Bṛhatī of divine syllables
+</details>
+
 <details><summary>मूलम्</summary>
 
 "द्वाद॑श पौर्णमा॒स्यः॑ । द्वाद॒शाष्ट॑काः ।  द्वाद॑शामावा॒स्याः॑ ।  
@@ -274,6 +338,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+upon which he then established himself.  
+And those meters which were redundant,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यानि॑ च॒ छन्दाँ॑स्य॒त्यरि॑च्यन्त ।
@@ -298,6 +368,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and those which were insufficient,  
+those they considered powerless and defective.  
+The Bṛhatī said:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -325,6 +402,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Becoming me,  
+rest upon me!'  
+By four syllables the Anuṣṭubh was insufficient for the Bṛhatī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒तुर्भि॑र् अ॒क्षरै॑र् अनु॒ष्टुग्-बृ॑ह॒तीन् नोद॑भवत् ।
@@ -347,6 +431,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by four syllables the Paṅkti was redundant for the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +460,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cutting off these four syllables from it \[the Paṅkti\], she placed \[them in the Anuṣṭubh\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑म् ए॒तानि॑ च॒त्वार्य् अ॒क्षरा॑ण्य् अप॒च्छिद्या॑दधात् ॥ 57 ॥
@@ -393,6 +487,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, having become the Bṛhatī itself,  
+rested upon the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -418,6 +518,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By eight syllables the Uṣṇih was insufficient for the Bṛhatī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टा॒भिर् अ॒क्षरै॑र् उ॒ष्णिग्-बृ॑ह॒तीन् नोद॑भवत् ।
@@ -435,6 +540,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by eight syllables the Triṣṭubh was redundant for the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +564,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cutting off these eight syllables from it \[the Triṣṭubh\], she placed \[them in the Uṣṇih\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑म् ए॒तान्य् अ॒ष्टाव् अ॒क्षरा॑ण्य् अप॒च्छिद्या॑दधात् ।
@@ -471,6 +586,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, having become the Bṛhatī itself,  
+rested upon the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -496,6 +617,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By twelve syllables the Gāyatrī was insufficient for the Bṛhatī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वा॒द॒शभि॑र् अ॒क्षरै॑र् गाय॒त्री बृ॑ह॒तीन् नोद॑भवत् ।
@@ -513,6 +639,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by twelve syllables the Jagatī was redundant for the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -532,6 +663,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cutting off these twelve syllables from it \[the Jagatī\], she placed \[them in the Gāyatrī\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॑म्‌ ए॒तानि॒ द्वाद॑शा॒क्षरा॑ण्य् अप॒च्छिद्या॑दधात् ॥ 58 ॥
@@ -549,6 +685,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, having become the Bṛhatī itself,  
+rested upon the Bṛhatī.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -574,6 +716,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati said:  
+'Meters, become my chariot!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ ऽब्रवीत् प्र॒जाप॑तिः ।
@@ -598,6 +746,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By you may I travel along this way.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +778,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+His wings became the Gāyatrī and the Jagatī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॑ गाय॒त्री च॒ जग॑ती च प॒क्षाव् अ॑भवताम् ।
@@ -647,6 +805,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the side-horses, the Uṣṇih and the Triṣṭubh;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -671,6 +834,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the yoke-horses, the Anuṣṭubh and the Paṅkti;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒नु॒ष्टुप् च॑ प॒ङ्क्तिश् च॒ धुर्यौ॑।
@@ -694,6 +862,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the chariot-frame became the Bṛhatī itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒ह॒त्य् ए॑वोद्धिर् अ॑भवत् ।
@@ -711,6 +884,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having mounted this chariot of meters,  
+he traveled along this way.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -735,6 +914,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having mounted this chariot of meters,  
+he indeed travels along this way
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -765,6 +950,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by which this one \[the sun\] travels,  
+\[namely, he\] who, knowing thus, sacrifices with Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 येनै॒ष ए॒तत् स॒ञ्चर॑ति ।  
@@ -783,6 +974,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and he who thus knows it.
+</details>
 
 <details><summary>मूलम्</summary>
 

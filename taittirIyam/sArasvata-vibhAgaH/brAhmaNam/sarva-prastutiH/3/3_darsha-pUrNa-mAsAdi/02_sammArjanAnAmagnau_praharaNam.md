@@ -12,6 +12,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The artwork of the sky stretched down,  
+resting on the crest of the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वश्शिल्प॒मव॑ततम् ।  
@@ -46,6 +52,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with that thousand-branched one  
+we destroy the rival, svāhā,' \[with this formula\] he throws the cleaning grasses of the ladles into the fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेन॑ व॒यँ स॒हस्र॑वल्शेन ।  
@@ -69,6 +81,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Darba grasses are water;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -101,6 +118,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he thus proclaims their form and their greatness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रू॒पमे॒वैषा॑मे॒तन्म॑हि॒मान॒व्व्ँयाच॑ष्टे ।
@@ -119,6 +141,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With an anuṣṭubh verse \[he throws them\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -152,6 +179,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is connected with the anuṣṭubh;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आनु॑ष्टुभᳶ प्र॒जाप॑तिः ।
@@ -170,6 +202,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the broom of grass belongs to Prajāpati;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यो वे॒दः ।
@@ -187,6 +224,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the cleaning grasses of the ladles are the top of the broom.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +249,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He equips them with their own meter,  
+with their own deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वेनै॒वैना॑नि॒ छन्द॑सा ।  
@@ -225,6 +273,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, the verse is female;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -255,6 +308,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+darbha grass is male;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒र्भो वृषा॑ ।
@@ -272,6 +330,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is a pair.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -291,6 +354,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He thus makes a pair of it in the sacrifice for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒थु॒नमे॒वास्य॒ तद्य॒ज्ञे क॑रोति प्र॒जन॑नाय ।
@@ -308,6 +376,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer propagates with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -328,6 +401,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Some cast them away at random;  
+that must not be done so.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -368,6 +447,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That would be a draining of the sacrificial act that has been undertaken.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आर॑ब्धस्य य॒ज्ञिय॑स्य॒ कर्म॑ण॒स्सवि॑दो॒हः ॥7॥
@@ -387,6 +471,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If domestic animals were to step upon them,  
+that would not be pleasant for the domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्ये॑नानि प॒शवो॑ऽभि॒तिष्ठे॑युः ।  
@@ -405,6 +495,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having wiped them with water, he should throw them down on the rubbish-heap.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -435,6 +530,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When anything of a sacrificial act remains over, other than the oblations,  
+the rubbish-heap is indeed its firm foundation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +568,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the gods brought together this firm foundation for it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ताँ हि तस्मै॑ प्रति॒ष्ठान्दे॒वास्स॒मभ॑रन् ।
@@ -490,6 +596,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he wipes them with water,  
+thereby it is appeased.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -517,6 +629,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he throws them down on the rubbish-heap,  
+he thereby causes them to go to their firm foundation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदु॑त्क॒रे न्य॒स्यति॑ ।  
@@ -541,6 +659,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer stands firm with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -567,6 +690,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, this is the form of a clump of grass,  
+namely the ladle-wipers.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -601,6 +730,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Plants indeed \[grow\] in clumps.  
+In their dry thicket domestic animals do not take pleasure;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त॒म्ब॒शो वा ओष॑धयः ।  
@@ -629,6 +764,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for a dry thicket is unpleasant to them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रि॑यो॒ ह्ये॑षाञ्जरत्क॒क्षः ।
@@ -647,6 +787,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As unpleasant as a dry thicket is to domestic animals,  
+so unpleasant becomes \[the sacrificer\] to domestic animals
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -667,6 +813,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose \[wipers\] they place elsewhere than in the fire.  
+But in plants springing up anew after fire domestic animals take pleasure;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -700,6 +852,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for fresh pasture after fire is dear to them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न॒व॒दा॒वो ह्ये॑षाम्प्रि॒यः ।
@@ -718,6 +875,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As dear as fresh pasture after fire is to domestic animals,  
+so dear becomes \[the sacrificer\] to domestic animals
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +917,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose \[wipers\] they cast into the fire.  
+Therefore he should cast them right into the fire,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्यै॒तान्य॒ग्नौ प्र॒हर॑न्ति ।  
@@ -779,6 +948,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in whichever \[fire\] he wipes \[the spoons\],  
+for the holding-fast of domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -813,6 +988,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'He who is the overlord of beings,  
+Rudra who wanders on the tether, the bull—  
+do not injure our domestic animals!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो भू॒ताना॒मधि॑पतिः ।
@@ -844,6 +1026,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let this be sacrificed to you, svāhā!' Saying this, he casts the fire-wipers into the fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहेत्य॑ग्निस॒म्मार्ज॑नान्य॒ग्नौ प्रह॑रति ।
@@ -872,6 +1059,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is their womb;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒षा वा ए॒तेषाय्ँ॒योनिः॑ ।
@@ -894,6 +1086,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this is their firm foundation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -920,6 +1117,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He causes them to go to their own womb,  
+to their own firm foundation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -952,6 +1155,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificer stands firm with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -12,6 +12,11 @@ title = "०४ वारुणम्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Soma, the lord of wealth, grant wealth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदु॑त्त॒मव्ँव॑रु॒णास्त॑भ्ना॒द्द्याम् ।  
@@ -372,6 +377,14 @@ O Varuna, lös' ab von uns die Stricke, den untersten, den mittelsten und höchs
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the goddess Aditi, unassailed, help \[us\];
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md">
 
@@ -799,6 +812,11 @@ Der weise Gott befestigte den Himmel und mass rings aus der weiten Erde Umfang; 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One has engendered all beings;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1649,6 +1667,11 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through you two may we conquer all battle-hosts!
+</details>
 
 <details><summary>मूलम्</summary>
 

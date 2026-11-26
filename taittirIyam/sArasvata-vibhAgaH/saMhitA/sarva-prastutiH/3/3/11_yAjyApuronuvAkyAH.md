@@ -2551,7 +2551,8 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 सा᳓ नो देवी᳓ सुह᳓वा श᳓र्म **यच्छतु** ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/13_anu_manyatAm_anumanyamAnA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 May she favouring, favour (us)  
@@ -2560,10 +2561,18 @@ In her disfavour may we not fall;
 May the goddess easy to invoke grant us protection.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अनु॑ मन्यतामनु॒मन्य॑माना प्र॒जाव॑न्तँ र॒यिमक्षी॑यमाणम् ।   
 तस्यै॑ व॒यँ हेड॑सि॒ मापि॑ भूम॒ सा नो॑ दे॒वी सु॒हवा॒ शर्म॑ यच्छतु ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.4.1)+++अनु मन्यताम् अनुमन्यमाना  
+प्रजावतीषम् अक्षीयमाणम् ।  
+तस्या वयं हेडसि मा वि भूम  
+सा नो देवी सुहवा शर्म यच्छतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2576,6 +2585,7 @@ May the goddess easy to invoke grant us protection.
 अनुमन्यमाना अनुमतिर्देवी संगत्या रयिमनुमन्यताम् । कीदृशम्? प्रजावन्तं प्रजायुक्तं अक्षीयमाणं च । किंच - तस्यै तस्या अनुमतिदेव्याः **हेडसि** क्रोधे **ऽपि मा भूम**, किन्तु अनुग्रह एव भूयास्म । सा च देवी नोस्मभ्यं शर्म सुखं यच्छतु ददातु सुहवा स्वाह्वाना । 'बहुलं छन्दसि' इति प्रागेव प्रत्ययोत्पत्तेस्संप्रसारणे कृते आकारान्तत्वाभावात्तलेव प्रवर्तते ॥
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -3124,6 +3134,14 @@ subhage ← subhága- (nominal stem)
 
 या᳓स्ते राके सुमत᳓यस्सूपे᳓शसो या᳓भिर्द᳓दासि दाशु᳓षे व᳓सूनि।  
 ता᳓भिर्नो अद्य᳓ सुमना उपा᳓गहि सहस्रपोषँ᳓ सुभगे र᳓राणा
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.10.9)+++यास् ते राके सुमतयः सुपेशसो  
+याभिर् ददाति दाशुषे वसूनि ।  
+ताभिर् नो अद्य सुमना उपागहि  
+सहस्रपोषं सुभगे रराणा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

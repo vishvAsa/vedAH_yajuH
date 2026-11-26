@@ -22,6 +22,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The inspired poet, seeking care with songs,  
+praises glorious wealth that receives the first share.  
+Indra and Agni, slayers of Vṛtra with good vajras,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गी॒र्भिर्विप्र॒ᳶ प्रम॑तिमि॒च्छमा॑नः ।   
@@ -385,6 +392,16 @@ Daß wir die Zügel nicht zerreißen", also flehend und der Väter Leistungen ei
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+extend our lifespan with new gifts.  
+'May we not cut the reins,' thus praying,  
+keeping pace with the powers of the fathers,
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अग्निँ᳓ सुदीतिँ᳓ सुदृ᳓शङ्गृण᳓न्तः ।   
@@ -394,6 +411,16 @@ Daß wir die Zügel nicht zerreißen", also flehend und der Väter Leistungen ei
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the bulls exhilarate themselves for Indra and Agni,  
+for they are the two stones in the lap of the offering-place.  
+Praising Agni of fair radiance, fair to behold,  
+we pay homage to you, the praiseworthy Jātavedas;  
+you as messenger, chariot-wheel, oblation-bearer,  
+the gods made the navel of immortality.
+</details>
 
 <details><summary>मूलम्</summary>
 

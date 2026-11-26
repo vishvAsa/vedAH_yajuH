@@ -19,6 +19,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni has conquered;  
+he has won the prize.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अजै॑द॒ग्निः ।  
@@ -46,6 +52,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The god conveyed the offerings to the gods,  
+impelled forward with bright colors,  
+prepared with milk-cows,  
+extending the lifespan of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वो दे॒वेभ्यो॑ ह॒व्यावा॑ट् ।  
@@ -71,6 +85,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Urge \[the offerings\], O hotṛ,  
+the offerings for the gods!
+</details>
 
 <details><summary>मूलम्</summary>
 

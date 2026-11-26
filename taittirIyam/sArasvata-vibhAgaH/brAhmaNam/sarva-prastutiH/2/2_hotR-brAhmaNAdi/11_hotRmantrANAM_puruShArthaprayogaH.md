@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired: 'May I become more numerous than much.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिरकामयत "ब॒होर्भूया॑न्त्स्या॒"मिति॑ ।
@@ -47,6 +52,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Daśahotṛ formula.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तन्दश॑होतारमपश्यत् ।
@@ -65,6 +75,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He employed it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्रायु॑ङ्क्त ।
@@ -82,6 +97,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon its employment, he became more numerous than much.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +140,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: 'May I become more numerous than much,'  
+he should employ the Daśahotṛ formula.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यᳵ का॒मये॑त ब॒होर्भूया॑न्त्स्या॒मिति॑ ।  
@@ -145,6 +171,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He becomes more numerous than much.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब॒होरे॒व भूया॑न्भवति ।
@@ -162,6 +193,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He desired: 'May a hero be born to me.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -181,6 +217,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the Daśahotṛ he fashioned the Caturhotṛ formula.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स दश॑होतु॒श्चतु॑र्होतार॒न्निर॑मिमीत ।
@@ -199,6 +240,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He employed it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्रायु॑ङ्क्त ॥ 68 ॥
@@ -216,6 +262,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon its employment, Indra was born.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -236,6 +287,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: 'May a hero be born to me,'  
+he should employ the Caturhotṛ formula.  
+A hero is born to him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +330,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He desired: 'May I possess domestic animals.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत पशु॒मान्त्स्या॒मिति॑ ।
@@ -289,6 +352,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the Caturhotṛ he fashioned the Pañcahotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -308,6 +376,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He employed it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्रायु॑ङ्क्त ।
@@ -325,6 +398,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon its employment, he came to possess domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -345,6 +423,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: 'May I possess domestic animals,'  
+he should employ the Pañcahotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -380,6 +464,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He indeed comes to possess domestic animals.  
+He desired: 'May the seasons be properly ordered for me.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत॒र्तवो॑ मे कल्पेर॒न्निति॑ ।
@@ -397,6 +487,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the Pañcahotṛ he fashioned the Ṣaḍḍhotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -416,6 +511,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He employed it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्रायु॑ङ्क्त ।
@@ -433,6 +533,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon its employment, the seasons were properly ordered for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -453,6 +558,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: 'May the seasons be properly ordered for me,'  
+he should employ the Ṣaḍḍhotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -489,6 +600,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The seasons are properly ordered for him.  
+He desired: 'May I be a soma-drinker, a soma-sacrificer;  
+may a soma-drinker, a soma-sacrificer be born to me.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत सोम॒पस्सो॑मया॒जी स्या॑म् ।  
@@ -508,6 +626,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the Ṣaḍḍhotṛ he fashioned the Saptahotṛ formula.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स षड्ढो॑तुस्स॒प्तहो॑तार॒न्निर॑मिमीत ।
@@ -525,6 +648,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He employed it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -544,6 +672,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon its employment, he became a soma-drinker, a soma-sacrificer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ प्रयु॑क्ति सोम॒पस्सो॑मया॒ज्य॑भवत् ।
@@ -561,6 +694,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a soma-drinker, a soma-sacrificer was born to him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -581,6 +719,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever should desire: 'May I be a soma-drinker, a soma-sacrificer;  
+may a soma-drinker, a soma-sacrificer be born to me,'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -608,6 +752,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he should employ the Saptahotṛ formula.  
+He indeed becomes a soma-drinker, a soma-sacrificer;  
+a soma-drinker, a soma-sacrificer is born to him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -660,6 +811,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This domestic animal indeed stands firmly in five ways:
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वा ए॒ष प॒शुᳶ प॑ञ्च॒धा प्रति॑तिष्ठति ॥ 71 ॥
@@ -696,6 +852,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by the feet \[and\] by the mouth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒द्भिर्मुखे॑न ।
@@ -714,6 +875,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those gods, having found domestic animals,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -748,6 +914,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+went to the heavenly realm.  
+They hungered in that realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽमुष्मिल्ँ॑ लो॒के व्य॑क्षुध्यन् ।
@@ -773,6 +945,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They said:  
+'We have lived upon what was offered from there.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽब्रुवन् ।  
@@ -793,6 +971,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having arranged the sacrifice as the Saptahotṛ, they sent Ayāsya  
+Āṅgirasa, \[saying\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -826,6 +1010,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Arrange \[it\] over there by means of this.'  
+His arrangement was this:
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तेना॒मुत्र॑ कल्प॒येति॑ ।  
@@ -858,6 +1048,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever exists here.  
+For him who knows thus, it is properly ordered.  
+This sacrifice among humans, the Saptahotṛ,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वा अ॒यम्म॑नु॒ष्ये॑षु य॒ज्ञस्स॒प्तहो॑ता ।
@@ -875,6 +1072,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+bears the oblation to the gods residing over there.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -899,6 +1101,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,  
+to him the sacrifice inclines.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -928,6 +1136,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever knows the foundational cause of the Caturhotṛ formulas,  
+he comes to possess a foundational cause.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वै चतु॑र्होतृणान्नि॒दानव्ँ॒वेद॑ ।  
@@ -946,6 +1160,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Agnihotra is the foundational cause of the Daśahotṛ;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -979,6 +1198,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the New and Full Moon sacrifices, of the Caturhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒र्श॒पू॒र्ण॒मा॒सौ चतु॑र्होतुः ।
@@ -996,6 +1220,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the four-month sacrifices, of the Pañcahotṛ;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1015,6 +1244,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the animal sacrifice, of the Ṣaḍḍhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शु॒ब॒न्धष्षड्ढो॑तुः ।
@@ -1032,6 +1266,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the soma sacrificial rite, of the Saptahotṛ.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1051,6 +1290,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the foundational cause of the Caturhotṛ formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तद्वै चतु॑र्होतृणान्नि॒दान॑म् ।
@@ -1069,6 +1313,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus  
+comes to possess a foundational cause.
+</details>
 
 <details><summary>मूलम्</summary>
 

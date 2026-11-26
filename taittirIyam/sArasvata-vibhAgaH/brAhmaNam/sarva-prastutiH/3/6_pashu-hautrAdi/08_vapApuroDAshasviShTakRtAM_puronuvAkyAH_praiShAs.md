@@ -431,6 +431,14 @@ Mit siegverleihnden Kräften, Feindbesieger, o Indra-Agni, naht euch durch Gebet
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the hotṛ sacrifice to Indra and Agni.  
+Of the goat's omentum \[and\] fat,  
+let them enjoy the offering.  
+Hotṛ, sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदिन्द्रा॒ग्नी ।   
@@ -851,6 +859,18 @@ Ich schaute aus im Geiste Gut begehrend, Indrāgni, nach Bekannten und Verwandte
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For I looked around in mind, wishing for wealth,  
+O Indra and Agni, to kinsmen or relatives;
+
+no other care than yours is mine:  
+so have I fashioned a thought winning prizes for you.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदिन्द्राग्नी᳓ ।   
@@ -859,6 +879,13 @@ Ich schaute aus im Geiste Gut begehrend, Indrāgni, nach Bekannten und Verwandte
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the hotṛ sacrifice to Indra and Agni.  
+Of the rice cake let them enjoy the offering.  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1216,6 +1243,17 @@ Dich fordern stets, die Opferspeisen bringend, den emsigen, die Menschen auf zur
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you, the swift one, they pray for messengership,  
+mortals always possessing oblations.  
+On whose sacrificial grass you have sat down with the gods, O Agni,  
+may the days be fair days for him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदग्नि᳓म् ।   
@@ -1224,6 +1262,13 @@ Dich fordern stets, die Opferspeisen bringend, den emsigen, die Menschen auf zur
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the hotṛ sacrifice to Agni.  
+Of the rice cake let him enjoy the offering.  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

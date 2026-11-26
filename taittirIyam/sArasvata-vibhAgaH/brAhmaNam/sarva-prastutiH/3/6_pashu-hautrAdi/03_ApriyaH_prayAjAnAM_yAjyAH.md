@@ -1771,6 +1771,17 @@ Die Götterthore mögen weit sich öffnen, so wie geschmückte Frauen ihren Gatt
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wide-spreading, let them open wide,  
+like wives adorning themselves for their husbands.  
+O divine doors, lofty, all-impelling,  
+be easy of access for the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓सुष्व᳓यन्ती यजते᳓ उ᳓पाके ।   
@@ -2519,6 +2530,18 @@ Die Götterpriester, welche herrlich singend, zuerst in Stand des Menschen, Opfe
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine hotṛs, the first, eloquent in speech,  
+measuring out the sacrifice for mortal man to worship,
+
+impelling the singers at the assemblies,  
+pointing out the eastern light by instruction,
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ नो यज्ञ᳓म्भा᳓रती तू᳓यमेतु ।   
@@ -2844,6 +2867,17 @@ Schnell komme Bhāratī zu unserm Opfer und Iḍā hier nach Menschen Art ersche
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let Bhāratī come swiftly to our sacrifice,  
+\[and\] Iḍā making \[it\] conscious here in the manner of Manu;  
+let the three goddesses, the Sarasvatīs skilled in work,  
+sit upon this pleasant sacrificial grass.
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3390,6 +3424,16 @@ Nach deiner Art ergiess die Opfertränke der Ordnung nach der Götter Stätte sa
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let loose \[the victim\], anointing \[it\] personally  
+into the domain of the gods, the offerings in due season;  
+let the divine tree, the slaughterer, divine Agni,
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

@@ -508,6 +508,16 @@ may Sūrya release me from that sin, from every distress!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+what against a Śūdra, what against an Arya,  
+whatever sin we have committed,  
+what against the law of one \[person\],  
+whatever sin we have committed,  
+what against the law of one \[person\]—  
+of that you are the expiation by sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒ जाग्र॒द्यदि॒ स्वप्ने॑ ।  
@@ -616,6 +626,12 @@ from that, O Varuṇa, release us!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O final bath, O deep-moving one, you wander low, O deep-moving one!  
+The sin committed against the gods by the gods you have removed by sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव॑भृथ निचङ्कुण निचे॒रुर॑सि निचङ्कुण ।  
@@ -652,6 +668,13 @@ from that, O Varuṇa, release us!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that committed by mortals against mortals.  
+From broad injury protect us, O god!  
+May the waters, the plants, be friendly to us;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -824,6 +847,18 @@ As one unfastened from a stake, or cleansed by bathing after toil, As butter whi
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they be unfriendly to him  
+who hates us  
+and whom we hate.  
+As one released from the wooden post,  
+as one sweating \[cleansed\] from dirt after bathing,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -956,6 +991,13 @@ May we go to the supreme light seeing the light above the darkness and the bette
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+we have reached the highest light.  
+Untied is Varuṇa's noose;  
+thrown back is Varuṇa's noose.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रति॑युतो॒ वरु॑णस्य॒ पाशः॑ ।  
@@ -988,6 +1030,11 @@ May we go to the supreme light seeing the light above the darkness and the bette
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are fuel: may we prosper.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एधो॑ऽस्येधिषी॒महि॑ ।  
@@ -1011,6 +1058,11 @@ May we go to the supreme light seeing the light above the darkness and the bette
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are kindling:
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मिद॑सि ॥31॥  
@@ -1033,6 +1085,11 @@ May we go to the supreme light seeing the light above the darkness and the bette
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are fiery energy: place fiery energy in me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,6 +1230,18 @@ The waters I this day have sought, and to their essence have we come. Agni, come
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have followed after the waters;  
+we have united with the sap.  
+Endowed with milk, O Agni, I have come;  
+unite me with luster,  
+with offspring, and with wealth.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1192,6 +1261,16 @@ The waters I this day have sought, and to their essence have we come. Agni, come
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gathered together has the earth rolled round,  
+together the Dawns,  
+together Sūrya,  
+together this entire moving world.  
+May I become one of the light of Vaiśvānara;  
+may I attain all-pervading desire!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,6 +1307,11 @@ The waters I this day have sought, and to their essence have we come. Agni, come
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhūḥ, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 

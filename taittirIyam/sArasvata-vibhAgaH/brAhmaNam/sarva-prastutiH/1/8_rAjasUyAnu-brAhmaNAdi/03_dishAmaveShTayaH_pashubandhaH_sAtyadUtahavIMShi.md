@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a dewlapped, pregnant \[heifer\] to Aditi,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ई॒श्व॒रो वा ए॒ष दिशोऽनून्म॑दितोः ।
@@ -27,6 +32,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a speckled four-year-old heifer to the Maruts.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -52,6 +62,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He puts the common people and the realm in harmony for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒क्ष्वे॑व प्रति॑ तिष्ठ॒त्यनु॑न्मादाय ।
@@ -74,6 +89,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He proceeds with that for Aditi first,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +119,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with that for the Maruts afterwards;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॒ दिशः॑ ।
@@ -116,6 +141,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he fastens the common people to the realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +170,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He calls for the Śraukṣat loudly for the one to Aditi,  
+in a whisper for the one to the Maruts;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ह॒विषो॑हविष इ॒ष्ट्वा बा॑र्हस्प॒त्यम॒भिघा॑रयति ।
@@ -162,6 +198,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore the realm commands the common people.  
+The \[heifer\] for Aditi is pregnant;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +229,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the embryo is capacity;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याम्म॒ल्हाङ्ग॒र्भिणी॒मा ल॑भते ।
@@ -209,6 +256,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm endowed with capacity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -233,6 +285,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The \[heifer\] for the Maruts is not pregnant;
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश॑ञ्चै॒वास्मै॑ रा॒ष्ट्रञ्च॑ स॒मीची॑ दधाति ।
@@ -255,6 +312,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Maruts are the common people;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -281,6 +343,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the common people devoid of capacity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा॒रु॒त्योत्त॑रया।
@@ -298,6 +365,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -322,6 +394,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the gods, having deposited the truth of speech with the Aśvins and Pūṣan,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒च्चैरा॑दि॒त्याया॒ आश्रा॑वयति ।
@@ -339,6 +416,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+overcame the asuras by means of untruth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -358,6 +440,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They offered a cake on twelve potsherds to the Aśvins and to Pūṣan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्रा॒ष्ट्रव्ँ विश॒मति॑वदति ।
@@ -375,6 +462,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thence they secured the truth of speech.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -394,6 +486,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he offers a cake on twelve potsherds to the Aśvins and to Pūṣan,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रि॒यव्ँ वै गर्भः॑ ।
@@ -411,6 +508,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having overcome his rivals by means of untruth,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -430,6 +532,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures the truth of speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग॒र्भा मा॑रु॒ती ।
@@ -447,6 +554,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A mess of boiled grain to Sarasvat, whose speech is true;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -471,6 +583,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[what was\] spoken before,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश॑मे॒व निरि॑न्द्रियामकः ।
@@ -488,6 +605,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he confirms with what follows.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -511,6 +633,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A cake on twelve potsherds to Savitṛ of true impulse, for impulse.  
+He dispatches messengers;  
+these are declarations;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -536,6 +665,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they cause him to attain renown;  
+moreover, he is not cut off from the messengers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽश्विभ्या॑म्पू॒ष्णे पु॑रो॒डाश॒न्द्वाद॑शकपाल॒न्निर॑वपन् ।
@@ -553,6 +688,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A bow with three arrows and a dry leather bag are the dakṣiṇā, for prosperity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +712,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers \[a cake\] on eight potsherds to Agni;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॒श्विभ्या॑म्पू॒ष्णे पु॑रो॒डाश॒न्द्वाद॑शकपालन्नि॒र्वप॑ति ।
@@ -589,6 +734,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore in the cold season the Kuru-Pañcālas go eastward.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -608,6 +758,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A mess of boiled grain to Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒चस्स॒त्यमव॑रुन्धे ।
@@ -625,6 +780,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore settling down in spring, they feast.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -649,6 +809,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[A cake\] on twelve potsherds to Savitṛ;  
+therefore prior to the barleys they ward \[them\] off by means of Savitṛ.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +846,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A mess of boiled grain to Bṛhaspati;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दू॒तान्प्रहि॑णोति ।
@@ -702,6 +873,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having warded off by means of Savitṛ,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +902,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of brahman they set the barleys \[to grow\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒विद॑मे॒वैन॑ङ्गमयन्ति ।
@@ -749,6 +930,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[A cake\] on eight potsherds to Tvaṣṭṛ;
+</details>
 
 <details><summary>मूलम्</summary>
 

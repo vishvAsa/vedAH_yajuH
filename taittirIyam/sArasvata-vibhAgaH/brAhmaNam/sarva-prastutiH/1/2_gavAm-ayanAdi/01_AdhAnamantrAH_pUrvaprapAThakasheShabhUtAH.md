@@ -25,6 +25,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let what is impure being dug up from her  
+strike away the evil of the sacrificer.  
+May the four directions be auspicious for us;  
+may mother earth be peaceful to us in the winning of children.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्ध॒न्यमा॑नम॒स्या अ॑मे॒ध्यम् ।  
@@ -433,6 +441,13 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they flow over us for blessing and happiness.  
+May the forms of Vaiśvānara,  
+flowing all around the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रस्य॑ रू॒पम् ।   
@@ -463,6 +478,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+enter us gently.
+
+Whatever of this is of heaven, whatever of that is of earth,  
+the two worlds, having come to agreement, came into being together.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒दन्दि॒वो यद॒दᳶ पृ॑थि॒व्याः ।  
@@ -494,6 +517,13 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the saline earth protect the black, may the black protect the saline earth;  
+may you two come here most worthy of sacrifice for both.  
+When wandering over the earth performing protective acts,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒तीᳵ कु॑र्वा॒णो यत् पृ॑थि॒वीम् अच॑रः ।  
@@ -525,6 +555,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+assuming the form of a mouse, making a burrow,  
+collecting that embedded form of yours here,  
+may we live a hundred autumns with heroes.  
+Bringing the vigor and the sap of the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ज॑म् पृथि॒व्या रस॑म् आ॒भर॑न्तः ।  
@@ -556,6 +594,16 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we live a hundred full autumns.
+
+Found by ants in secret places,  
+hearing your broad \[call\], may we not be deaf.  
+For the offspring created by Prajāpati,  
+may there be safe passage for the destruction of hunger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति-सृष्टानाम् प्र॒जाना॑म् ।  
@@ -587,6 +635,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bringing here refreshment and vigor to the pierced offspring,  
+I bring a well of sap to the households.  
+Taking whose form he found her  
+who had entered the secret place in the midst of the watery deep,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॑ रू॒पम् बिभ्र॑द् इ॒माम् अवि॑न्दत् ।   
@@ -619,6 +675,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+bringing his dug-up \[earth\],  
+may we worship on her without interruption.
+
+What he saw in the midst of the watery deep,  
+he saw the broad \[earth\], the foundation of the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् प॒र्यप॑श्यत् सरि॒रस्य॒ मध्ये॑ ।  
@@ -649,6 +714,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore born from the abode of the lotus,  
+I bring the leaf, the expanse of the earth.  
+With which he made firm the foundation of the world,  
+this broad earth, the bearer of all people,
+</details>
+
 <details><summary>मूलम्</summary>
 
 याभि॒र् अदृँ॑ह॒ज् जग॑तᳶ प्रति॑ष्ठाम् ।   
@@ -679,6 +752,16 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may all those gravels be auspicious to us.  
+The semen of Agni, the shining gold,  
+born from the waters, immortal among offspring—  
+bringing it and placing it to the north,
+
+bestowing across, may I cross over misfortune.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्ने रेत॑श् च॒न्द्रँ हिर॑ण्यम् ।   
@@ -710,6 +793,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When, having assumed the form of a horse, you stood in the aśvattha tree,  
+hiding from the gods for a year,  
+bringing that embedded form of yours here,  
+may we live a hundred autumns with heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्वो॑ रू॒पङ् कृ॒त्वा यद् अ॑श्व॒त्थे ऽति॑ष्ठः ।   
@@ -741,6 +832,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You have risen up from the vigor of the earth;  
+O lord of the forest, sprout forth with a hundred branches!  
+Delighting in refreshment and vigor through you,  
+may we delight in refreshment with increase of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्जᳶ पृ॑थि॒व्या अध्युत्थि॑तो ऽसि ।  
@@ -772,6 +871,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When your \[leaf\] was being carried away by the Gāyatrī,
+
+a leaf fell from the third heaven;  
+that is this parṇa tree, born indeed from the soma-leaf;  
+from it I take \[a stick\] for obtaining the drinking of soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गा॒य॒त्रि॒या ह्रि॒यमा॑णस्य॒ यत् ते॑ ॥5॥  
@@ -803,6 +911,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When you listened to the gods  
+speaking the discussion of sacred lore, you are indeed renowned as Suśravas;  
+from that let spiritual preeminence enter me;  
+bringing it together, may I obtain that perceptibly.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाना॑म् ब्रह्म-वा॒दव्ँ वद॑ताय्ँ॒ यत् ।   
@@ -833,6 +949,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+By which, when Agni was created,  
+Prajāpati appeased his weapon,  
+that very \[branch of\] śamī for non-burning,
+
+I bring
+</details>
+
 <details><summary>मूलम्</summary>
 
 यया॑ ते सृ॒ष्टस्या॒ग्नेः ।  
@@ -863,6 +988,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+for appeasement.  
+When your light, O Jātavedas, as you were created,  
+surpassed the viṅkaṅkata tree,  
+measured by that light,  
+shine forth along our broad world!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् ते॑ सृ॒ष्टस्य॑ य॒तः ।   
@@ -894,6 +1028,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the Maruts, having choked it with waters, torn away the heart  
+of you, exhausted, O Jātavedas,  
+that \[heart\] of yours I collect from the thunderbolt;  
+here, O Agni, be endowed with self and endowed with heart!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् ते॑ ता॒न्तस्य॒ हृद॑य॒म् आच्छि॑न्दञ् जातवेदः ।  
@@ -925,6 +1067,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gathered from the sacred aśvattha tree, the great \[verses\]...
+
+Formed for the body are you,  
+matched by Prajāpati the face of the sacrifice,  
+three united pairs with the threefold ones for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चित्रि॑याद् अश्व॒त्थात् सम्भृ॑ता बृह॒त्यः ॥7॥  
@@ -956,6 +1107,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Born from the Aśvattha, carrying the oblation,  
+I gather Agni's sacrificial body,  
+whose womb is pacified, born within the Śamī,  
+for Agni to be engendered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्व॒त्थाद् ध॑व्यवा॒हाद् धि जा॒ताम् ।    
@@ -987,6 +1146,15 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Aśvattha that, pregnant with the Śamī,  
+mounted upon you in unison,  
+that I bring to you with the brahman,
+
+together with sacrificial banners.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो अ॑श्व॒त्थश् श॑मी-ग॒र्भः ।  
@@ -1018,6 +1186,14 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+As you were gathered, Jātavedas,  
+according to each body inherent in creatures,  
+so gathered, sit down propitious to offspring;  
+wise one, lead us to a wide realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन् त्वा॑ स॒मभ॑रञ् जातवेदः ।  
@@ -1755,6 +1931,16 @@ Rich in oblations, dropping oil, to thee, sweet Agni, let them go. Accept with f
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+pour oblations into him.  
+Towards you, Agni, let the oblation-bearing  
+ladles dripping with clarified butter approach, o desired one;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2139,6 +2325,17 @@ Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+enjoy my fuel-sticks.  
+Thee, Agni, with fuel, o Aṅgiras,  
+with clarified butter we magnify,  
+shine brightly, youngest one.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2491,6 +2688,22 @@ Entzündet nach althergebrachten Bräuchen wird er der reiche nun gesalbt mit Sa
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being kindled, the first ordinance now,  
+anointed with unguents, possessing all boons,
+
+hair of flames, robed in clarified butter, purifying,  
+sacrificial Agni, for sacrificing to the gods.  
+Having clarified butter as womb is Agni;  
+kindled with clarified butter, clarified butter is his food;  
+streams dripping with clarified butter bear you;  
+drinking clarified butter, sacrificer of good sacrifices, sacrifice to the gods.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2508,6 +2721,16 @@ Entzündet nach althergebrachten Bräuchen wird er der reiche nun gesalbt mit Sa
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bestower of lifespan, Agni, taking pleasure in the oblation,  
+having clarified butter for face, having clarified butter for womb be;  
+having drunk clarified butter, honey, pleasant, of the cow,  
+as a father his son, do you protect this man.
+
+Thee, Agni, being kindled, youngest one,
+</details>
+
 <details><summary>मूलम्</summary>
 
 घृ॒त-प्र॑तीको घृ॒त-यो॑निर् अ॒ग्निः ।   
@@ -2627,6 +2850,16 @@ As a father his son [4], do thou protect him.
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the gods made the messenger, the oblation-bearer;  
+of wide course, having clarified butter as womb, offered unto,  
+a dazzling sight they placed in the urging \[offering\].
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2981,6 +3214,16 @@ Dich, den entflammten, machte sich die Götterschar zum Boten, jüngster Agni, d
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thee, Agni, offered unto with clarified butter from of old,  
+desiring favor, with good fuel they kindled;  
+he, grown great, sprinkled by the plants,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -3344,6 +3587,15 @@ Dich Agni haben huldbegier'ge einst entflammt, mit schönem Brennholz und mit Bu
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+spreadest over the wide terrestrial realms.  
+Having clarified butter for face and seated at the helm of cosmic order,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -3722,6 +3974,18 @@ Der, Fett im Antlitz, eures Opfers Deichsel zieht, zu Agni wie zum Freunde streb
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+men adorn Agni as a friend when kindled.
+
+Kindled, the swift horse shining at assemblies,  
+will lift up our bright-hued prayer.  
+Make the offspring dwell together, Agni,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3877,6 +4141,14 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount, you two, my ten Śakvarīs,  
+with cosmic order, Agni, with lifespan, with luster;  
+living long through each succeeding year,  
+so that I may perform the New-moon and Full-moon sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आरो॑हतन् द॒शतँ॒ शक्व॑री॒र् मम॑ ।  
@@ -3907,6 +4179,13 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two are possessed of the season, bearing the seed of Agni;  
+you two bear the embryo, these two of you I take;  
+that is true: that you bear a hero,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋत्वि॑यवती स्थो अ॒ग्नि-रे॑तसौ ।  
@@ -3928,6 +4207,13 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+you will bring forth a hero;  
+you two shall be born from me in the morning,  
+you, having brought forth, will cause me to bring forth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते मत् प्रा॒तᳶ प्रज॑निष्येथे ।   
@@ -3957,6 +4243,12 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+with offspring, with domestic animals, with spiritual preeminence in the heavenly realm.  
+From untruth I approach the truth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनृ॑तात् स॒त्यम् उपै॑मि ।  
@@ -3987,6 +4279,15 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the human I approach the divine,  
+I restrain speech for the divine.  
+Kindling Agni with wood-chips,  
+may I win both worlds;  
+having prospered in both worlds,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शल्कै॑र् अ॒ग्निम् इ॑न्धा॒नः ।  
@@ -4018,6 +4319,16 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I cross beyond death.  
+Jātavedas, seed of the world,  
+pour here what will be born from ascetic heat.
+
+Agni, the oblation-bearer from the Aśvattha,  
+bringing forth from the Śamī-womb, he who brings delight,
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात॑वेदो॒ भुव॑नस्य॒ रेतः॑।  
@@ -4170,6 +4481,14 @@ Then (he chants), "This is thy seasonal source (womb), born from which you shone
 <details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
 
 अ᳘थायं᳘ ते यो᳘निरृत्वि᳘यो य᳘तो जातो अ᳘रोचथाः । तं᳘ जानन्नग्न आ᳘रोहा᳘थ नो वर्धया रयिमि᳘ति
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अयं ते योनिर् ऋत्वियो  
+यतो जातो अरोचथाः ।  
+तं जानन्न् अग्न आ रोह-  
+-अथा नो वर्धया रयिम् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -4763,6 +5082,11 @@ You all that are stationed here from old and you that are new, Yama has given hi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yama has granted this resting-place of the earth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेर् भस्मा॑सि ।  
@@ -4877,6 +5201,14 @@ let the holding of desire be in me!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are mutual accord, the fulfiller of desires;  
+may the fulfillment of desires be in me.  
+I unite your hearts,  
+let your mind be united,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँव॑स् सृजामि॒ हृद॑यानि ।   
@@ -5272,6 +5604,13 @@ fitting with these two spring seasons, may they enter into [me] like the gods in
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+by the nourishment of the atmosphere,  
+I establish you, possessing all domestic animals.  
+Mortals have engendered the immortal,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वस् त्वा॑ वी॒र्ये॑ण ।   
@@ -5377,6 +5716,16 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the exhalation of Prajāpati I breathe upon you,  
+with the nourishment of Pūṣan, for myself,  
+for long life of a hundred autumns,  
+for a hundred autumns, for lifespan, for luster,
+
+for long life, for merit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तेस् त्वा प्रा॒णेनाभि॒ प्राणि॑मि ।  
@@ -5409,6 +5758,14 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am from you, you are this from me;  
+you are my womb, I am your womb;  
+being mine, carry the oblations, Agni,  
+a son making a realm for the father, Jātavedas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हन् त्वद॑स्मि॒ मद॑सि॒ त्वम् ए॒तत् ।   
@@ -5429,6 +5786,13 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the breath I establish you, the immortal,  
+the eater of food for the eating of food,  
+the protector for protection;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -5460,6 +5824,15 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessing a good householder's fire, burning away hostilities,  
+bringing ever better dawns,
+
+repelling rivals, Agni,  
+bestow nourishment of wealth, refreshment, vigor upon us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒गा॒र्ह॒प॒त्यो वि॒दह॒न्न् अरा॑तीः ।   
@@ -5491,6 +5864,15 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May these riches wait upon me,  
+with these offspring may I dwell together here;  
+here let Iḍā abide, all-formed;  
+shine in the midst of wealth, Jātavedas.  
+For splendorous might, for strength I raise you up,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मा उ॒ माम् उप॑-तिष्ठन्तु॒ रायः॑ ।   
@@ -5521,6 +5903,13 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the bull, for vigor, for lifespan, for luster.  
+You are the slayer of rivals, the slayer of Vṛtra;  
+whatever is your heavenly greatness among the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओज॑से॒ बला॑य॒ त्वोद्य॑च्छे ।   
@@ -5551,6 +5940,13 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+That self of yours which has entered into domestic animals,  
+that nourishment of yours which spread out among humans —  
+taking pleasure in that, O Agni, come to us
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस् ते॑ दे॒वेषु॑ महि॒मा सु॑व॒र्गः ॥21॥   
@@ -5582,6 +5978,13 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the sky, from the earth, from the intermediate space,  
+from the wind, from domestic animals, from the plants.  
+Wherever you have come into being, O Jātavedas,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वᳶ पृ॑थि॒व्याᳶ पर्य॒न्तरि॑क्षात् ।   
@@ -5888,6 +6291,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 अनु॒ द्यावा॑-पृथि॒वी आत॑तान ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अन्व् अग्निर् उषसाम् अग्रम् अख्यद्  
+अन्व् अहानि प्रथमो जातवेदाः ।  
+अनु सूर्यस्य पुरुत्रा च रश्मीन्  
+अनु द्यावापृथिवी आ ततान ॥
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अनु॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। अनु॑। अहा॑नि। प्र॒थ॒मः। जा॒तवे॑दा॒ इति॑ जा॒तऽवे॑दाः। अनु॑। सूर्य॑स्य। पु॒रु॒त्रेति॑ पुरु॒ऽत्रा। च॒। र॒श्मीन्। अनु॑। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। आ। त॒त॒न्थ॒। १७।
@@ -6030,6 +6441,13 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+sitting on the altar for humans;  
+watch in the three worlds.  
+What \[is\] here of the sky, what yonder of the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 विक्र॑मस्व म॒हाँ अ॑सि ।  
@@ -6060,6 +6478,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the two harmonious worlds came into being.
+
+On their back let Jātavedas sit,  
+bringing welfare to offspring, gentle to the body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॒दन् दि॒वो यद॒दᳶ पृ॑थि॒व्याः ।   
@@ -6096,6 +6522,13 @@ and you have stretched along the rays of the sun in many places, along heaven an
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I place breath in you, the immortal,  
+the eater of food for food-eating,  
+the protector for protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णन् त्वा॒ऽमृत॒ आ द॑धाम्य् अन्ना॒दम् अ॒न्नाद्या॑य गो॒प्तार॒ङ् गुप्त्यै॑ ।  
@@ -6121,6 +6554,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What clear splendor, clear body is yours, O clear one,  
+what clear, unfailing light,  
+with that shine for me, with that I establish you  
+with Agni, O Agni, with brahman.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -6149,6 +6590,11 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have reached, I have pervaded, I have pervaded the full lifespan.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -6183,6 +6629,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O friendly one, protect my offspring,  
+for immortality, for life,  
+both born and to be born,  
+established in the immortal, in the real.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नर्य॑ प्र॒जाम् मे॑ गोपाय ।   
@@ -6214,6 +6668,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Atharvan, protect my food,  
+the sap, the nourishment here for lifespan.  
+O you of unassailable lifespan, of unchilled body,  
+make our food poison-free.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑र्व पि॒तुम् मे॑ गोपाय ।   
@@ -6245,6 +6707,15 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O praiseworthy one, protect my domestic animals,  
+those two-footed and those four-footed,
+
+and those of eight hooves here, O Agni,  
+and those of one hoof, swift-running.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शँस्य॑ प॒शून् मे॑ गोपाय ।   
@@ -6281,6 +6752,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O far-reaching one, protect my assembly  
+and the assembly-men who sit in the assembly;  
+make them endowed with faculties;  
+may they attend during their full lifespan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
@@ -6312,6 +6791,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O serpent of the deep, protect my mantra  
+which the three-knowledge seers know:  
+the verses, the chants, the sacrificial formulas;  
+for that is the immortal prosperity of the good.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहे॑ बुध्निय॒ मन्त्र॑म् मे गोपाय ।  
@@ -6343,6 +6830,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having four braids, youthful, fair-formed,  
+butter-faced in the middle of the world,  
+adorning herself for great good fortune,  
+yield desires to me, the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑श् शिखण्डा युव॒तिस् सु॒पेशाः॑ ।  
@@ -6374,6 +6869,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being here indeed, you fires who are there,  
+I sustain you with exhalation, speech, mind.  
+May lifespan not abandon me who am hidden.  
+With the light of Vaiśvānara I attend upon you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒हैव सन्तत्र॑ स॒तो वो॑ अग्नयः ।  
@@ -6405,6 +6908,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fivefold she stepped across the fires,  
+the Virāj created by Prajāpati,  
+mounting upward, ascending,  
+the womb of Agni, the foundation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒धा ऽग्नीन् व्य॑क्रामत् ।   

@@ -275,6 +275,17 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the fourth \[part\] of speech humans speak.  
+By faith Agni is kindled,  
+by faith the oblation is obtained.  
+Faith upon the head of Bhaga
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -546,6 +557,16 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+we proclaim with our speech.  
+Dear, O Faith, to the giver,  
+dear, O Faith, to one who desires to give,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -810,6 +831,18 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+dear to the generous sacrificers—
+
+Make this \[wish\] of mine fulfilled!  
+Just as the gods placed faith  
+in the fierce asuras,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1076,6 +1109,18 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so among the generous sacrificers  
+make our \[wish\] fulfilled!  
+The gods who sacrifice, guarded by Vāyu,  
+revere Faith.  
+Faith with the intention of the heart,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1347,6 +1392,18 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with faith the oblation is poured.  
+Faith we invoke in the morning,
+
+Faith around midday,  
+Faith at the setting of the sun.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1371,6 +1428,15 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Faith, inspire faith in me here!  
+Faith encompasses the gods,  
+Faith this whole world.  
+Faith, the mother of desire,  
+we magnify with an oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धा दे॒वानधि॑ वस्ते ।  

@@ -461,6 +461,17 @@ Die schönen, goldnen, lichten Sonnenrosse, die schimmernden, begrüsst von Jube
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Auspicious are the tawny mares of the sun,  
+bright, swift, praiseworthy;  
+receiving homage, they mounted the back of heaven;  
+in a single day they traverse heaven and earth.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -859,6 +870,18 @@ Das ist des Sonnengottes Macht und Gottheit, im Wirken rollt den Aufzug er zusam
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the godhead of the sun, that is his greatness:  
+in the middle of his work he gathered up what was outspread.
+
+When he unyoked his tawny mares from their stand,  
+then Night spreads her garment over everyone.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1247,6 +1270,18 @@ Vor Varuna's und Mitra's Aug' entfaltet im Himmelsschooss die Sonne ihre Schönh
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That the sun displays for Mitra and Varuṇa to see,  
+his form in the lap of heaven;  
+one bright, radiant splendor of his is endless,  
+the other, dark, his tawny mares gather together.  
+Today, O gods, at the rising of the sun,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2161,6 +2196,13 @@ Weitschauend steigt empor des Himmels Goldschmuck, nach weitem Ziele dringend, h
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+auspicious with your light, auspicious in cold, auspicious with your heat,  
+so that there may be peace for him, peace in the dwelling.  
+Grant that varied wealth, O sun!
+</details>
+
 <details><summary>मूलम्</summary>
 
 शन्नो॑ भव॒ चक्ष॑सा॒ शन्नो॒ अह्ना॑ ।   
@@ -2716,6 +2758,12 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Tvaṣṭṛ granting, that our turīpa,  
+Tvaṣṭṛ a hero, tawny-formed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ दध॒त्तन्न॑स्तु॒रीप॑म् ।
@@ -2745,6 +2793,11 @@ Es stieg empor der Götter lichtes Antlitz, das Auge Mitra's, Varuna's und Agni'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ten unwearied maidens brought forth this embryo of Tvaṣṭṛ,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2880,6 +2933,14 @@ virócamānam ← √ruc- (root)
 अत॑न्द्रासो युव॒तयो॒ बिभ॑र्त्रम् ।   
 ति॒ग्मानी॑कँ॒ स्वय॑शस॒ञ्जने॑षु ।   
 वि॒रोच॑मान॒म्परि॑षीन्नयन्ति ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+दशेमं त्वष्टुर् जनयन्त गर्भम्  
+अतन्द्रासो युवतयो विभृत्रम् ।  
+तिग्मानीकं स्वयशसं जनेषु  
+विरोचमानं परि षीं नयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3115,6 +3176,17 @@ Zehn Jungfraun, nie ermattend, zeugten diesen, des Tvaschtar Spross, der weithin
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a foster-child;  
+sharp-faced, self-renowned among people,  
+shining brightly, they lead him round.  
+Becoming manifest, lovely among them, he grows,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3223,6 +3295,14 @@ siṁhám ← siṁhá- (nominal stem)
 जि॒ह्माना॑मू॒र्ध्वस्वय॑शा उ॒पस्थे॑ ॥ 52 ॥  
 उ॒भे त्वष्टु॑र्बिभ्यतु॒र्जाय॑मानात् ।  
 प्र॒तीची॑ सिँ॒हम्प्रति॑जोषयेते ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आविष्ट्यो वर्धते चारुर् आसु  
+जिह्मानाम् ऊर्ध्वः स्वयसाम् उपस्थे ।  
+उभे त्वष्टुर् बिभ्यतुर् जायमानात्  
+प्रतीची सिंहं प्रति जोषयेते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3468,6 +3548,17 @@ Der schöne wächst in ihnen sich enthüllend, selbstherrlich aufrecht in dem Sc
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+standing erect, self-renowned, in the lap of the crooked \[fire-sticks\].
+
+Both \[worlds\] feared Tvaṣṭṛ's \[child\] as he was being born;  
+facing him, they welcome the lion.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3482,6 +3573,11 @@ Der schöne wächst in ihnen sich enthüllend, selbstherrlich aufrecht in dem Sc
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mitra \[arranges\] the peoples; may that, O Mitra;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3851,6 +3947,16 @@ Sehr lieb ist dieser Mitra, hoch zu ehren, als holder Fürst geboren, wohlregier
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this Mitra is worthy of worship, very gracious,  
+the king with good regal power, the ordainer, has been born.  
+In the benevolence of that worshipful one, even in his auspicious favor may we be,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -4162,6 +4268,19 @@ Von Krankheit frei, uns frischer Kraft erfreuend, und starken Knies auf dem Rund
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+unailing, rejoicing with refreshing drink,  
+firm-footed on the expanse of the earth,  
+abiding by the ordinance of the Āditya.
+
+May we be in the benevolence of Mitra!  
+Mitra to us, with work, possessing cattle among cows,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -4179,6 +4298,13 @@ Von Krankheit frei, uns frischer Kraft erfreuend, und starken Knies auf dem Rund
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the devout brought \[him\] forth in the sacred gathering, in the waters;  
+with his radiance, with praise, they made the two world-halves tremble;  
+toward the dear, worshipful help of the born.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4541,6 +4667,17 @@ Ja, gross ist Mitra, demuthsvoll zu ehren, die Menschen eint er und ist hold dem
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great Āditya is to be approached with reverence,  
+who sets peoples in order, very gracious to the singer;  
+for him, most praiseworthy, offer into the fire  
+an agreeable oblation to Mitra!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -4856,6 +4993,18 @@ Mit starken Hengsten nahe euer Wagen, der goldne, der an Erd' und Himmel anstös
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May your chariot, pressing on the two world-halves,
+
+golden, come with bull-strong horses,  
+whose path is clarified butter, shining with rims,  
+bearer of refreshments, lord of men, rich in prize-horses;
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -5193,6 +5342,17 @@ Der weit sich ausdehnt über alle Lande, drei Sitze trägt, der geistgeschirrte 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+spreading itself out, \[it has encompassed\] the five realms of earth.  
+May it come three-seated, yoked by thought,  
+by which you two go to the clans that seek the gods;  
+making your journey somewhere, O Aśvins,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5512,6 +5672,18 @@ O kommt herbei auf schönen Rossen herrlich, geniesst das süsse Mahl, ihr wunde
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with good horses, come hither with fame!  
+O wonder-workers, you shall drink the sweet store;  
+your chariot, parting \[the darkness\], accompanied by the bride,
+
+presses upon the ends of heaven with its rims.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5828,6 +6000,17 @@ Die junge Maid erwählte eure Schönheit, der Sonne Tochter, in des Morgens Dunk
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The maiden chose your beauty,  
+the sun's daughter, at the circling \[contest\].  
+When you protect the godly man with your wondrous powers,  
+the burning heat is yours, your mind, your vigor, the cow;
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -6190,6 +6373,18 @@ Den Bhudschju fuhrt ihr, den ins Meer gestossnen, aus Flut empor mit euren Flüg
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two \[saved\] Bhujyu cast into the ocean;
+
+you brought him up from the surging wave with unfailing,  
+winged, unwearied, untroubled \[steeds\],  
+with wondrous deeds, O Aśvins, may they bring across!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -6207,6 +6402,14 @@ Den Bhudschju fuhrt ihr, den ins Meer gestossnen, aus Flut empor mit euren Flüg
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Soma, whoever today  
+serves this word to you two,  
+to him grant heroic power,  
+abundance of cows, good horsemen!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -6536,6 +6739,19 @@ Wer euch mit Trank, o Agni-Soma, ehret, mit gottergebnem Herzen, wer mit Butter,
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Soma, whoever would serve with oblation,  
+with mind turned toward the gods, who \[serves\] with clarified butter,  
+protect his ordinance, protect \[him\] from distress!
+
+Grant great protection to the settlement, to the people!  
+O Agni and Soma, whoever \[offers\] an oblation,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -6908,6 +7124,13 @@ O Agni-Soma, wer mit Trank und Butterspende euch verehrt, Der mög' durch Kinder
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Soma, that heroic deed of yours was recognized,  
+that you robbed the Paṇi of his food, the cow;  
+you laid low the remainder of Prathaya; you found the one light for many.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नी॑षोमा॒ चेति॒ तद्वी॒र्यव्ँ॑वाम् ।  
@@ -6941,6 +7164,11 @@ O Agni-Soma, wer mit Trank und Butterspende euch verehrt, Der mög' durch Kinder
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Soma, \[listen\] well to this of mine; O Agni and Soma, of the oblation set forth,
+</details>
 
 <details><summary>मूलम्</summary>
 

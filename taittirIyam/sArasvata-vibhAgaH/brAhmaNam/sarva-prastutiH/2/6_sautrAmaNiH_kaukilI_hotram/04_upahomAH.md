@@ -909,6 +909,14 @@ like the sap with the foaming liquor, the dark red [blood], the yeast, like a he
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with milk \[they produce\] the bright, immortal seed of origin,  
+from urine they generate semen through surā,  
+driving away destitution and ill will,  
+the belly's waste and foul flatulence far away.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पय॑सा शु॒क्रम॒मृत॑ञ्ज॒नित्र॑म् ।  

@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired: 'May I create the New and Full Moon sacrifices.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिरकामयत दर्शपूर्णमा॒सौ सृ॑जे॒येति॑ ।
@@ -79,6 +84,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Caturhotṛ formula.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तञ्चतु॑र्होतारमपश्यत् ।
@@ -96,6 +106,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recited it in mind, he offered it in the Āhavanīya fire.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +130,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed created the New and Full Moon sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स द॑र्शपूर्णमा॒साव॑सृजत ।
@@ -132,6 +152,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Created, they departed from him.  
+He grasped them with a cup.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -151,6 +177,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the cup-nature of the cup.  
+Undertaking the New and Full Moon sacrifices,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -185,6 +217,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+one should, having recited the Caturhotṛ formula in mind, offer it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒र्श॒पू॒र्ण॒मा॒सावा॒लभ॑मानः ।  
@@ -204,6 +241,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having created the New and Full Moon sacrifices, having taken hold of them, he extends them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒र्श॒पू॒र्ण॒मा॒सावे॒व सृ॒ष्ट्वाऽऽरभ्य॒ प्रत॑नुते ॥ 8 ॥
@@ -222,6 +264,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It becomes a cup  
+for the upholding of the New and Full Moon sacrifices when created.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +291,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He desired: 'May I create the Four-Month sacrifices.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत चातुर्मा॒स्यानि॑ सृजे॒येति॑ ।
@@ -260,6 +313,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Pañcahotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -279,6 +337,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recited it in mind, he offered it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्मन॑साऽनु॒द्रुत्या॑हव॒नीये॑ऽजुहोत् ।
@@ -296,6 +359,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed created the Four-Month sacrifices.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -316,6 +384,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Created, they departed from him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तान्य॑स्मात्सृ॒ष्टान्यपा॑क्रामन् ।
@@ -333,6 +406,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He grasped them with a cup.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -352,6 +430,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the cup-nature of the cup.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्ग्रह॑स्य ग्रह॒त्वम् ।
@@ -369,6 +452,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Undertaking the Four-Month sacrifices,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +516,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+one should, having recited the Pañcahotṛ formula in mind, offer it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चा॒तु॒र्मा॒स्यान्ये॒व सृ॒ष्ट्वाऽऽरभ्य॒ प्रत॑नुते ।
@@ -458,6 +551,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having created the Four-Month sacrifices, having taken hold of them, he extends them.  
+It becomes a cup
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रहो॑ भवति ।  
@@ -477,6 +576,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the upholding of the Four-Month sacrifices when created.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत पशुब॒न्धँ सृ॑जे॒येति॑ ।
@@ -494,6 +598,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He desired: 'May I create the animal sacrifice.'  
+He saw this Ṣaḍḍhotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -513,6 +623,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recited it in mind, he offered it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्मन॑साऽनु॒द्रुत्या॑हव॒नीये॑ऽजुहोत् ।
@@ -530,6 +645,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed created the animal sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -549,6 +669,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Created, it departed from him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑स्मात्सृ॒ष्टोऽपा॑क्रामत् ।
@@ -566,6 +691,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He grasped it with a cup.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -585,6 +715,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the cup-nature of the cup.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्ग्रह॑स्य ग्रह॒त्वम् ।
@@ -603,6 +738,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+About to sacrifice with the animal sacrifice,  
+one should, having recited the Ṣaḍḍhotṛ formula in mind, offer it in the Āhavanīya fire.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -646,6 +787,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having created the animal sacrifice, having taken hold of them, he extends it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शु॒ब॒न्धमे॒व सृ॒ष्ट्वाऽऽरभ्य॒ प्र त॑नुते ।
@@ -669,6 +815,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It becomes a cup  
+for the upholding of the animal sacrifice when created.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -723,6 +875,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He desired: 'May I create the Soma sacrifice.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽकामयत सौ॒म्यम॑ध्व॒रँ सृ॑जे॒येति॑ ।
@@ -740,6 +897,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Saptahotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -759,6 +921,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recited it in mind, he offered it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्मन॑साऽनु॒द्रुत्या॑हव॒नीये॑ऽजुहोत् ।
@@ -776,6 +943,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon he indeed created the Soma sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -795,6 +967,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Created, it departed from him.  
+He grasped it with a cup.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽस्मात्सृ॒ष्टोऽपा॑क्रामत् ।
@@ -813,6 +991,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the cup-nature of the cup.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तङ्ग्रहे॑णागृह्णात् ।
@@ -830,6 +1013,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+About to undergo consecration,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -850,6 +1038,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+one should, having recited the Saptahotṛ formula in mind, offer it in the Āhavanīya fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दी॒क्षि॒ष्यमा॑णः ।
@@ -868,6 +1061,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having created the Soma sacrifice, having taken hold of it, he extends it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -909,6 +1107,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It becomes a cup  
+for the upholding of the Soma sacrifice when created.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -970,6 +1174,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrifice did not suffice for the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेभ्यो॒ वै य॒ज्ञो न प्राभ॑वत् ।
@@ -988,6 +1197,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they gathered it together in so many parts.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1017,6 +1231,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That there are ritual requisites,  
+thereupon the sacrifice sufficed for them.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1050,6 +1270,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That there are ritual requisites  
+is for the sufficiency of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1104,6 +1330,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having set down the guest-offering, he explains \[the formulas\].  
+The guest-offering is the face of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ति॒थ्यमा॒साद्य॒ व्याच॑ष्टे ।  
@@ -1140,6 +1372,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Right from the face, having collected the sacrifice, he extends it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मु॒ख॒त ए॒व य॒ज्ञँ स॒म्भृत्य॒ प्र त॑नुते ।
@@ -1158,6 +1395,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Non-sacrifice indeed is this  
+which is without a wife.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1182,6 +1425,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offspring would not be produced.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1210,6 +1458,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He explains the wives \[of the gods\];  
+he has indeed made it a sacrifice  
+for the generation of offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,6 +1534,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He explains during the Upasad rites;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒सत्सु॒ व्याच॑ष्टे ।
@@ -1301,6 +1561,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this indeed is the proper place of the wives.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,6 +1599,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In their own proper place he accommodates them.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -431,6 +431,15 @@ he split the power, the bounty, together with the Asura Namuci.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra him the cattle together,  
+both Aśvins, Sarasvatī,
+
+holding, have acclaimed;  
+the sacrifice, sensory power, through the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमिन्द्र॑म्प॒शव॒स्सचा॑ ।  

@@ -31,6 +31,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/02_chaxuSho_hete.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Missile of the eye, missile of the mind,  
+missile of speech, missile of brahman—  
+whoever, seeking to harm, attacks me,  
+render him missile-less through your missile, O Agni!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑षो हेते॒ मन॑सो हेते ।
@@ -63,6 +71,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/05_yo_mA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever attacks me with the eye, whoever with the mind,  
+whoever with speech, with brahman, seeking to harm,  
+through that missile, O Agni,  
+render that one missile-less!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मा॒ चक्षु॑षा॒ यो मन॑सा ।
@@ -97,6 +113,15 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/08_yat_kinchAsau.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever that man offers with mind or with speech,  
+through sacrifices, through the sacrificial formula, through oblations,
+
+May Death, in agreement with Nirṛti,  
+strike down his offerings before they are accomplished!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्किञ्चा॒सौ मन॑सा॒ यच्च॑ वा॒चा ।
@@ -129,6 +154,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/11_yAtudhAnA_nirRtir.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sorcerers, Nirṛti, and the rakṣas—  
+let them destroy his truth with untruth;  
+impelled by Indra, let them churn out his clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 या॒तु॒धाना॒ निर्ऋ॑ति॒रादु॒रक्षः॑ ।
@@ -163,6 +195,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/14_hanmi_te-ham.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let not that which he performs succeed!  
+I strike your prepared oblation,  
+\[you\] who have worked terror against me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हन्मि॑ ते॒ऽहङ्कृ॒तँ ह॒विः ।
@@ -195,6 +234,16 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/17_apanahyAmi_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+both your arms turned backwards  
+I bind fast, \[and\] your mouth.
+
+I bind fast your arms,  
+I bind fast your mouth;  
+by the brahman of god Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑नह्यामि ते बा॒हू ।
@@ -229,6 +278,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/20_purA.amuShya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have struck down all your preparation.  
+Before that man's vaṣaṭ-call,  
+make our sacrifice reach the gods;  
+may our offering be well sacrificed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒राऽमुष्य॑ वषट्का॒रात् ।
@@ -261,6 +318,15 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/23_anti_dUre.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+let not hostile forces reach us!  
+From near or from afar, O Agni,  
+of the rival who attacks \[us\],
+
+Through the vaṣaṭ-call as a vajra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्ति॑ दू॒रे स॒तो अ॑ग्ने ।
@@ -293,6 +359,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/2_01-09_chaxuSho_hete/26_yo_mA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I strike the sorcery that has been performed.  
+Whoever by night, by day, at evening,  
+and at the morning of the day looks maliciously upon me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मा॒ नक्त॒न्दिवा॑ सा॒यम् ।

@@ -719,6 +719,17 @@ Ihr hüllt euch in fettglänzende Gewänder; ununterbrochen strömen eure Pläne
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two of you put on garments of fatness;  
+without break are your designs and courses.  
+You crossed beyond all falsehoods;  
+you accompany Mitra and Varuṇa with truth.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1079,6 +1090,16 @@ Varuna-Mitra, diese eure Grösse, die nutzten täglich aus, die euch zur Hand st
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That, O Mitra and Varuṇa, is your greatness:  
+the cows that stood still have been milked through the days;  
+you swell all the milch cows of the pasture; one felly of yours turns along.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1096,6 +1117,14 @@ Varuna-Mitra, diese eure Grösse, die nutzten täglich aus, die euch zur Hand st
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is most firm, not to be broken through, O generous ones,  
+the unbroken shelter, O guardians of the world,  
+from that, O Mitra and Varuṇa, protect us,  
+that we may be winning and victorious!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1446,6 +1475,17 @@ Erfreut durch Opfer, Varuna und Mitra, besprengt mit Fett und Labetrunk die Wies
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To our offering of oblation, O Mitra and Varuṇa,  
+sprinkle the pasture with ghee and with refreshments!  
+To your satisfaction here for the people,  
+fill \[us\] with the stream of the lovely divine \[rain\]!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

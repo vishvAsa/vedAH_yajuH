@@ -21,6 +21,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Heat is the head: so this Agni;  
+may he become well-beloved by the domestic animals;  
+extend protection to offspring and descendants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घ॒र्मश् शिर॒स् तद् अ॒यम् अ॒ग्निः ।  
@@ -56,6 +63,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wind is exhalation: so this Agni;  
+may he become well-beloved by the domestic animals;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वात॑ᳶ प्रा॒णस् तद् अ॒यम् अ॒ग्निः ।
@@ -79,6 +92,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+cook seasoned food for offspring and descendants.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -339,6 +357,12 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The sun is the eye: so yonder sun, so this Agni;  
+may he become well-beloved by the domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्कश् चक्षु॒स् तद अ॒सौ सूर्य॒स् तद् अ॒यम् अ॒ग्निः ।   
@@ -365,6 +389,14 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What bright luster is yours, O bright one, what bright body,  
+what bright, unceasing light,  
+with that shine upon me; with that I establish you.  
+Fire through fire, through the brahman,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -400,6 +432,11 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have reached, I have pervaded, I have pervaded the full lifespan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒न॒शे व्या॑नशे॒ सर्व॒म् आयु॒र् व्या॑नशे ।   
@@ -433,6 +470,13 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two kindly bodies of yours, O Agni,  
+Virāj and Svarāj,  
+may they enter me, may they invigorate me.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ते॑ अग्ने शि॒वे त॒नुवौ॑ ।   
@@ -459,6 +503,13 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Those two kindly bodies of yours, O Agni,  
+Samrāj and Abhibhū,  
+may they enter me, may they invigorate me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -487,6 +538,13 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two kindly bodies of yours, O Agni,  
+Vibhū and Paribhū,  
+may they enter me, may they invigorate me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये ते॑ अग्ने शि॒वे त॒नुवौ॑ ।   
@@ -513,6 +571,13 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two kindly bodies of yours, O Agni,  
+Prabhvī and Prabhūti,  
+may they enter me, may they invigorate me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -541,6 +606,14 @@ shining through all the quarters, beam out; bestow nourishment upon our two-foot
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those which are your kindly bodies, O Agni,  
+with them I establish you.  
+Those which are your dread bodies, O Agni,  
+with them go to that one.'
+</details>
 
 <details><summary>मूलम्</summary>
 

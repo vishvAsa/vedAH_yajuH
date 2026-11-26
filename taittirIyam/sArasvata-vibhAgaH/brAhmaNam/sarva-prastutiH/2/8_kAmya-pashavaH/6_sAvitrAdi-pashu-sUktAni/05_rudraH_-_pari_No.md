@@ -12,6 +12,11 @@ title = "०५ रुद्रः - परि णो"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we propagate, O Rudra, through offspring!
+</details>
+
 <details><summary>मूलम्</summary>
 
 परि॑ णो रु॒द्रस्य॑ हे॒तिस्स्तु॒हि श्रु॒तम् ।   
@@ -35,6 +40,14 @@ title = "०५ रुद्रः - परि णो"
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus, O tawny, wise bull,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -609,6 +622,14 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+be one who hears our calls here, O Rudra!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -623,6 +644,11 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we, rich in heroes,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -747,6 +773,14 @@ And approach us bearing the spear [4].
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+speak loudly in the assembly!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -758,6 +792,11 @@ And approach us bearing the spear [4].
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“May the weapon of Rudra avoid us...”, “Praise the renowned...”,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,6 +1232,14 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“O most bountiful...”, “Worthy you bear...”,
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
 

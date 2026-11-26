@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O conqueror, see this!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सक्षे॒दम्प॑श्य ।  
@@ -41,6 +46,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O sustainer, see this!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -68,6 +78,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O firmament, see this!  
+The most wondrous delight,  
+the highest truth,  
+which they call immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाके॒दम्प॑श्य ।  
@@ -94,6 +112,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sun, the widest, shines with \[his\] eyes,  
+along with heaven and earth whose sons are gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -127,6 +151,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the consecration, the womb of heat;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दी॒क्षाऽसि॒ तप॑सो॒ योनिः॑ ।  
@@ -149,6 +178,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are heat, the womb of brahman.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +208,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are brahman, the womb of regal power;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मा॑सि क्ष॒त्रस्य॒ योनिः॑ ।  
@@ -196,6 +235,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are regal power, the womb of truth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -222,6 +266,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are truth, the earth. I take hold of  
+faith with the mind,  
+consecration with heat,  
+the sovereign mistress of the whole world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धाम्मन॑सा।  
@@ -245,6 +297,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May all desires of the sacrificer be fulfilled.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -280,6 +337,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the mind we take hold of the wind, the exhalation,  
+of Prajāpati who is the guardian of the world:  
+may he rescue us from death, protect us from distress!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वात॑म्प्रा॒णम्मन॑सा॒ऽन्वार॑भामहे ।  
@@ -314,6 +378,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Living long, may we reach old age.  
+O mighty Indra, I resort to the gāyatrī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ शाक्वर गाय॒त्रीम्प्रप॑द्ये ।  
@@ -336,6 +406,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I yoke for you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -361,6 +436,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O mighty Indra, I resort to the triṣṭubh;  
+that I yoke for you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ शाक्वर त्रि॒ष्टुभ॒म्प्रप॑द्ये ।  
@@ -380,6 +461,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O mighty Indra, I resort to the jagatī;  
+that I yoke for you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +488,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O mighty Indra, I resort to the anuṣṭubh;  
+that I yoke for you.  
+O mighty Indra, I resort to the paṅkti;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ शाक्वरानु॒ष्टुभ॒म्प्रप॑द्ये ।  
@@ -420,6 +514,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I yoke for you.  
+I have ascended to the consecration, the wife of truth,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +557,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the gāyatrī meter and with brahman.  
+Truth has been set in reality;  
+reality has been set in truth;  
+both truth and reality have come to be for me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आऽहन्दी॒क्षाम॑रुहमृ॒तस्य॒ पत्नी॑म् ।  
@@ -485,6 +593,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have become light; I have gone to the sun;  
+I have gone to the heavenly realm, the back of the firmament,  
+the summit of the bright one.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -520,6 +635,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The earth is the consecration.
+
+With that consecration Agni was consecrated;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वी दी॒क्षा ॥82॥  
@@ -543,6 +665,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with which consecration Agni was consecrated,  
+with that consecration I consecrate you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -570,6 +698,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The intermediate space is the consecration;  
+with that consecration Vāyu was consecrated;  
+with which consecration Vāyu was consecrated,  
+with that consecration I consecrate you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षन्दी॒क्षा ।  
@@ -593,6 +729,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sky is the consecration;  
+with that consecration the Āditya was consecrated;  
+with which consecration the Āditya was consecrated,
+
+with that consecration I consecrate you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -618,6 +763,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The directions are the consecration;  
+with that consecration the Moon was consecrated;  
+with which consecration the Moon was consecrated,  
+with that consecration I consecrate you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिशो॑ दी॒क्षा ।  
@@ -641,6 +794,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The waters are the consecration;  
+with that consecration King Varuṇa was consecrated;  
+with which consecration King Varuṇa was consecrated,  
+with that consecration I consecrate you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -666,6 +827,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The plants are the consecration;
+
+with that consecration King Soma was consecrated;  
+with which consecration King Soma was consecrated,  
+with that consecration I consecrate you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओष॑धयो दी॒क्षा ॥84॥  
@@ -689,6 +859,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Speech is the consecration;  
+with that consecration the exhalation was consecrated;  
+with which consecration the exhalation was consecrated,  
+with that consecration I consecrate you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +904,20 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the earth consecrate herself after you as you are being consecrated;  
+may the intermediate space consecrate itself after you as you are being consecrated;  
+may the sky consecrate itself after you as you are being consecrated;
+
+may the directions consecrate themselves after you as you are being consecrated;  
+may the waters consecrate themselves after you as you are being consecrated;  
+may the plants consecrate themselves after you as you are being consecrated;  
+may speech consecrate itself after you as you are being consecrated;  
+may the ṛc verses consecrate themselves after you as you are being consecrated;  
+may the sāman chants consecrate themselves after you as you are being consecrated;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वी त्वा॒ दीक्ष॑माण॒मनु॑दीक्षताम् ।  
@@ -759,6 +951,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the yajus formulas consecrate themselves after you as you are being consecrated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑श्च॒ रात्रि॑श्च।  
@@ -782,6 +979,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Day and night,  
+plow-land and rain,  
+brilliance and reverence,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +1011,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+waters and plants,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप॒श्चौष॑धयश्च।  
@@ -825,6 +1034,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+vigor and pleasant speech—  
+may they consecrate themselves after you as you are being consecrated.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -861,6 +1076,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In your own skill, O father of skill, sit here,  
+the favor of the gods for the great battle.  
+Well seated, enter with \[your\] body;  
+be like a father very kind to a son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वे दक्षे॒ दक्ष॑पिते॒ह सी॑द ।  
@@ -896,6 +1119,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Auspicious, enter into me as auspicious.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒वो मा॑ शि॒वमावि॑श ।  
@@ -920,6 +1148,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truth is my self;  
+faith is my inexhaustibility;
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धा मेऽक्षि॑तिः ॥87॥  
@@ -942,6 +1176,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+heat is my foundation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -966,6 +1205,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Impelled by Savitṛ, may the directions consecrate me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तृप्र॑सूता मा॒ दिशो॑ दीक्षयन्तु ।  
@@ -988,6 +1232,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am truth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1022,6 +1271,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am from you; you are this from me.  
+You are my womb; I am your womb.  
+Being mine indeed, convey the oblations, O Agni,  
+a son to a father, creating a place, O Jātavedas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1298,6 +1555,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/41_ekamiShe_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+One: may Viṣṇu follow you for refreshment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑मि॒षे विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1329,6 +1591,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two: may Viṣṇu follow you for vigor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे ऊ॒र्जे विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1354,6 +1621,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three: may Viṣṇu follow you for vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीणि॑ व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1379,6 +1651,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four: may Viṣṇu follow you for delight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒त्वारि॒ मायो॑भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1404,6 +1681,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Five: may Viṣṇu follow you for domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॑ प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1429,6 +1711,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/46_ShaDrAyaspoShAya_viShNustvA-nvetu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Six: may Viṣṇu follow you for prosperity of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षड्रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।
@@ -1452,6 +1739,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven: may Viṣṇu follow you for seven hotrā offices.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1484,6 +1776,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Friends of seven steps have we become;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सखा॑यस्स॒प्तप॑दा अभूम ।  
@@ -1506,6 +1803,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may I attain your friendship.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1530,6 +1832,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May I not be separated from your friendship;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ख्यात्ते॒ मा यो॑षम् ।  
@@ -1552,6 +1859,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+do not be separated from my friendship!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1585,6 +1897,13 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are she, O Subrahmaṇyā;  
+of you, as such, the earth is a foot.  
+You are she, O Subrahmaṇyā;
+</details>
+
 <details><summary>मूलम्</summary>
 
 साऽसि॑ सुब्रह्मण्ये ।  
@@ -1609,6 +1928,12 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+of you, as such, the intermediate space is a foot.  
+You are she, O Subrahmaṇyā;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1635,6 +1960,12 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+of you, as such, the sky is a foot.  
+You are she, O Subrahmaṇyā;
+</details>
+
 <details><summary>मूलम्</summary>
 
 साऽसि॑ सुब्रह्मण्ये ।  
@@ -1660,6 +1991,13 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+of you, as such, the directions are a foot.
+
+Beyond the dust is your fifth foot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साऽसि॑ सुब्रह्मण्ये ।  
@@ -1683,6 +2021,11 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As such, milk for us refreshment, vigor,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1708,6 +2051,13 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+fiery energy, sensory power,  
+spiritual preeminence, food.  
+I measure you out, full of milk,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1744,6 +2094,14 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the easy-to-milk, non-kicking cow of the gods.  
+May Indra drink Soma;  
+may there be safety for us.  
+Men, having come, make this altar,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1784,6 +2142,15 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessed of Vasus, possessed of Rudras, possessed of Ādityas,
+
+of the sky,  
+at the navel of the earth,  
+so that this sacrificer will not be harmed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मान्न॑राᳵ कृणुत॒ वेदि॒मेत्य॑ ।  
@@ -1822,6 +2189,14 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+at the impulse of the god Savitṛ.  
+A four-crested maiden, well-adorned,  
+with a face of ghee, in the middle of the world,  
+upon whom two fair-winged birds have settled—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1863,6 +2238,14 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+on them is the gods' share.  
+Drive away fear from strangers;  
+roll away the wheels!  
+Go to the house of Soma!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒प जन्य॑म्भ॒यन्नु॑द ।  
@@ -1898,6 +2281,14 @@ on this higher seat may all the gods and the sacrificer sit down.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You do not die indeed at this; you are not harmed;  
+you go to the gods along paths easy to travel,  
+where the doers of good go, not the doers of evil:  
+there may the god Savitṛ place you.
+</details>
 
 <details><summary>मूलम्</summary>
 

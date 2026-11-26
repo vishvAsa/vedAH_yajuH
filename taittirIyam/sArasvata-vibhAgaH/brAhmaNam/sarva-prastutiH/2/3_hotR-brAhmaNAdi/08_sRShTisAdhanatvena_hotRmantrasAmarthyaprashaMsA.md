@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired:
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिरकामयत॒ प्र जा॑ये॒येति॑ ।
@@ -34,6 +39,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"May I propagate!"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -62,6 +72,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He practiced
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +115,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+ascetic heat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स हरि॑तश्श्या॒वो॑ऽभवत् ।
@@ -128,6 +148,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He became pregnant.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +183,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He turned pale-yellow
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वि॒जाय॑मानो॒ गर्भे॑णाताम्यत् ।
@@ -186,6 +216,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and dark.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ता॒न्तᳵ कृ॒ष्णश्श्या॒वो॑ऽभवत् ।
@@ -213,6 +248,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +283,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+a pregnant
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्यासु॑रे॒वाजी॑वत् ॥31॥
@@ -270,6 +315,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+woman,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -301,6 +351,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+being fair,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदसु॑राणामसुर॒त्वम् ।
@@ -319,6 +374,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+turns dark.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -351,6 +411,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Giving birth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नैन॒मसु॑र्जहाति ।
@@ -369,6 +434,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he suffered
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -407,6 +477,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+exhaustion
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदनु॑ पि॒तॄन॑सृजत ।
@@ -434,6 +509,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -464,6 +544,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+embryo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वम्पि॑तृ॒णाम्पि॑तृ॒त्वव्ँ वेद॑ ।  
@@ -493,6 +578,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Exhausted,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्त्य॑स्य पि॒तरो॒ हव॑म् ।
@@ -520,6 +610,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he turned
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -561,6 +656,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+black
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदनु॑ मनु॒ष्या॑नसृजत ।
@@ -591,6 +691,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and dark.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्म॑नु॒ष्या॑णाम्मनुष्य॒त्वम् ।
@@ -609,6 +714,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore one
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -639,6 +749,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who is
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -680,6 +795,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+exhausted
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिवा॑ देव॒त्राऽभ॑वत् ।
@@ -707,6 +827,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+turns black
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -738,6 +863,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and dark.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्दे॒वाना॑न्देव॒त्वम् ।
@@ -756,6 +886,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+His vital
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -786,6 +921,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+breath alone
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -823,6 +963,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+lived on.
+</details>
 
 <details><summary>मूलम्</summary>
 

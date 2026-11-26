@@ -22,6 +22,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine sacred grass \[and\] Sarasvatī,  
+well-divine in Indra, the two Aśvins,  
+like fiery energy, the sight in the two eyes,  
+established indriya through the sacred grass.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिस्स॑रस्वती ।  
@@ -60,6 +69,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine doors, the two Aśvins,  
+the two physicians, Sarasvatī in Indra,  
+like exhalation, the heroic power in the nose,  
+the doors established indriya.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +118,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine dawns, the two Aśvins,  
+the two physicians, Sarasvatī in Indra,  
+like strength, the speech in the mouth,  
+through the two dawns established indriya.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -142,6 +169,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine caring ladies, the two Aśvins, Sutrāman, Sarasvatī in Indra,  
+like hearing, the renown in the two ears,  
+through the two caring ladies established indriya.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी जोष्ट्री॑ अ॒श्विना॑ ।  
@@ -180,6 +215,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine vigor-oblations, yielding and yielding abundantly,  
+with milk, Indra, Sarasvatī, \[and\] the Aśvins, the two physicians, favored;  
+like bright light, in the two breasts, may the two oblations establish indriya.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!  
+The two divine physicians of the gods,  
+the two Hotṛs, the two Aśvins for Indra,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -220,6 +265,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sarasvatī with the vaṣaṭ-calls,  
+like splendor, the thought in the heart,  
+through the two Hotṛs established indriya.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -262,6 +315,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three divine, the three goddesses—  
+Sarasvatī, the two Aśvins, Bhāratī, \[and\] Iḍā—  
+like vigor in the center, in the navel,  
+established indriya for Indra.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वीस्ति॒स्रस्ति॒स्रो दे॒वीः ।  
@@ -301,6 +363,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Indra, Narāśaṃsa;  
+provided with triple protection, the chariot goes with Sarasvatī \[and\] the two Aśvins;  
+like seed, the immortal form, the womb—  
+Tvaṣṭṛ establishing indriyas for Indra, for the winning of wealth let them partake of the gift of wealth; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -343,6 +413,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Indra, the tree of the forest,  
+golden-leaved for the two Aśvins,  
+with fine berries for Sarasvatī;  
+for Indra, the sweet drink is cooked.  
+Like splendorous might, speed; like a bull, fury;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -387,6 +466,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the tree of the forest establish indriyas for us.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!  
+The divine sacred grass of the waters,  
+strewn at the sacrificial rite for the two Aśvins,  
+soft as wool for Sarasvatī;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -437,6 +525,26 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pleasant seat for you, O Indra;  
+they established wrath for the sovereign, the king, indriya through the sacred grass.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!  
+May the divine Agni Sviṣṭakṛt  
+sacrifice to the gods according to their order;  
+the two Hotṛs, the two Aśvins for Indra,  
+with speech, speech to Sarasvatī,  
+Agni, Soma, the Sviṣṭakṛt;  
+well-sacrificed is Indra Sutrāman, Savitṛ, Varuṇa the physician;  
+sacrificed to is the divine tree of the forest;  
+well-sacrificed are the gods who drink clarified butter;  
+sacrificed to is Agni by Agni;  
+the Hotṛ, the Sviṣṭakṛt for the priest,  
+establishing indriya like renown,  
+vigor, reverence, the svadhā-call.  
+For the winning of wealth, let them partake of the gift of wealth; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

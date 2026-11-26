@@ -282,6 +282,14 @@ through the overlordships of Indra may it fill us from here; may it support this
 इन्द्राधिपत्यैः पिपृतादतो नो महि क्षत्रं विश्वतो धारयेदम्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+उग्रा दिशाम् अभिभूतिर् वयोधाः  
+शुचिः शुक्रे अहन्य् ओजस्ये ।  
+इन्द्राधिपतिः पिपृताद् अतो नो  
+मयि क्षत्रं विश्वतो धारयेदम् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒ग्रा । दि॒शाम् । अ॒भिभू॑ति॒रित्य॒भि-भू॒तिः॒ । व॒यो॒धा इति॑ वयः-धाः । शुचिः॑ । शु॒क्रे । अह॑नि । ओ॒ज॒सीना॑ ॥ इन्द्र॑ । अधि॑पति॒रित्यधि॑-प॒तिः॒ । पि॒पृ॒ता॒त् । अतः॑ । नः॒ । महि॑ । क्ष॒त्रम् । वि॒श्वतः॑ । धा॒र॒य॒ । इ॒दम् ॥
@@ -478,7 +486,8 @@ O Indra, with the fifteenfold stoma, with the wind, with the ocean, protect this
 ऽनाधृष्टँ सहस्रि᳓यँ स᳓हस्वत् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/05_prAchI_dishA.N_saha.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 (May) the eastern among the quarters, famous and renowned,  
@@ -487,10 +496,18 @@ Let this kingly power be unassailable,
 Force unoverpowerable, a thousandfold and mighty.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्राची॑ दि॒शाँ स॒हय॑शा॒ यश॑स्वती॒ विश्वे॑ देवाᳶ प्रा॒वृषाह्नाँ॒ सुव॑र्वती ।    
 इ॒दङ्क्ष॒त्रन्दु॒ष्टर॑म॒स्त्वोजोऽना॑धृष्टँ सह॒स्रियँ॒ सह॑स्वत् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+प्राची दिशां सहयशा यशस्वती  
+विश्वे देवाः प्रावृषाह्नां स्वर्वती ।  
+इदं क्षत्रं दुष्टरम् अस्त्व् ओजो  
+अनाधृष्टं सहस्वं सहस्वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -503,6 +520,7 @@ Force unoverpowerable, a thousandfold and mighty.
 अत्र प्रशब्दः प्रतिशब्दार्थे वर्तते।   तथा सति दिशां मध्ये प्राची पश्चिमा दिगित्यर्थः।   सा च सहयशा अस्मासु संपाद्यमानेन   २१०६ यशसा सहिता स्वयमपि यशस्वती।   सा च सुवर्वती स्वर्गनिवासिनी सूर्येणास्तमयकालभाविना युक्ता।   तथाविधा दिगस्मान्पात्विति शेषः।   तथा विश्वे देवाः प्रावृषा वर्षर्तुना तदीयानामह्नां समूहेन सहिताऽस्मान्पालयत्विति शेषः।   इदं क्षत्त्रमस्मत्परिपालकं राजशरीरं केनाप्यन्तेन् वैरिणा तरितुं लङ्घीयतुमशक्यमस्तु।   ओजो मदीयं वलमनाधृष्टं केनाप्यतिरस्कृतमस्तु।   तथा सहस्त्रियं सहस्त्रसंख्यायोग्यं सहस्वत्प्रवलं धामास्तु।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -565,7 +583,8 @@ This kingly power with the ocean wind (be) dread.
 अस्मै᳓ राष्ट्रा᳓य म᳓हि **श᳓र्म यच्छतम्** ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_dhartrI_dishA~N_xatram.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 The supporter among the quarters doth support this lordly power,  
@@ -574,10 +593,18 @@ O Mitra and Varuna, ye wise ones with the autumn of the days,
 Do ye accord great protection to this kingdom.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ध॒र्त्री दि॒शाङ्क्ष॒त्रमि॒दन्दा॑धारोप॒स्थाशा॑नाम्मि॒त्रव॑द॒स्त्वोजः॑ ।    
-मित्रा॑वरुणा श॒रदाह्ना॑ञ्चिकित्नू अ॒स्मै रा॒ष्ट्राय॒ महि॒ शर्म॑ यच्छतम् ।    
+मित्रा॑वरुणा श॒रदाह्ना॑ञ्चिकित्नू अ॒स्मै रा॒ष्ट्राय॒ महि॒ शर्म॑ यच्छतम् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+धत्री दिशां क्षत्रम् इदं दाधर्तु-  
+-उपस्थाशानां मित्रवद् अस्त्व् ओजः ।  
+मित्रावरुणा शरदाह्ना चिकित्नू  
+अस्मै क्षत्राय महि शर्म यच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -587,9 +614,10 @@ Do ye accord great protection to this kingdom.
 
 <details><summary>सायण-टीका</summary>
 
-दिशां मध्ये धर्त्र्यस्माकं धारयित्रीयमुदीची दिगिदं क्षत्त्रमस्मत्पालकं क्षत्रियशरीरं दाधार पोषयामास।   कीदृशी, आशानामुपस्था, अस्माकं धनादिविषयाणामाशानां सिद्ध्यर्थं सेव्या।   य(त)स्या दिशः प्रसादादस्मदीयमोजो बलं मित्रवदस्तु बहुभिर्मित्रैरुपेतमस्तु।   हे मित्रावरुणा **शरदा** शरन्नामकेनर्तुना तदीयानामह्नां **चिकित्नू** ज्ञातारौ युवामस्मा इदानीं वर्तमानाय राष्ट्राय महि शर्म यच्छतं महत्सुस्त्रं संपादयतम्।   
+दिशां मध्ये धर्त्र्यस्माकं धारयित्रीयमुदीची दिगिदं क्षत्त्रमस्मत्पालकं क्षत्रियशरीरं दाधार पोषयामास।   कीदृशी, आशानामुपस्था, अस्माकं धनादिविषयाणामाशानां सिद्ध्यर्थं सेव्या।   य(त)स्या दिशः प्रसादादस्मदीयमोजो बलं मित्रवदस्तु बहुभिर्मित्रैरुपेतमस्तु।   हे मित्रावरुणा **शरदा** शरन्नामकेनर्तुना तदीयानामह्नां **चिकित्नू** ज्ञातारौ युवामस्मा इदानीं वर्तमानाय राष्ट्राय महि शर्म यच्छतं महत्सुस्त्रं संपादयतम्।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -646,6 +674,14 @@ this dominion, rich in friends, giving moisture, strength, O Mitra and Varuṇa,
 
 वैराजे सामन्नधि मे मनीषानुष्टुभा सम्भृतं दुष्टरँ सहः।  
 इदं क्षत्रं मित्रवदार्ददान्वोजो मित्रावरुणा रक्षतमाधिपत्यैः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+वैराजे सामन्य् अधि मे मनीषा-  
+-अनुष्टुभा संभृतं वीर्यं सहः ।  
+इदं क्षत्रं मित्रवद् आर्द्रदान्व् ओजा  
+मित्रावरुणा रक्षतम् आधिपत्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -808,7 +844,8 @@ With wind seeking help, lofty like the Śakvarī; may the [quarter] dripping wit
 बृ᳓हस्पते या᳓म्याय्ँ +++(दिशि)+++ **युङ्ग्धि** वा᳓चम् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_suvarvatI_sudughA_na.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 May the heavenly of the quarters, the easily milked, the rich in milk, The goddess aid us, full of ghee;  
@@ -816,10 +853,18 @@ Thou art the protector, who goest in front and behind;
 O Brhaspati, yoke a voice in the south.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 सुव॑र्वती सु॒दुघा॑ न॒ᳶ पय॑स्वती दि॒शान्दे॒व्य॑वतु नो घृ॒ताची॑ ।    
 त्वङ्गो॒पाᳶ पु॑रए॒तोत प॒श्चाद्बृह॑स्पते॒ याम्याय्ँ॑युङ्ग्धि॒ वाच॑म् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+स्वर्वती सुदुघा नः पयस्वती  
+दिशां देव्य् अवतु नो घृताची ।  
+त्वं गोपाः पुरएतोत पश्चाद्  
+बृहस्पते याम्यां युङ्धि वाचम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -832,6 +877,7 @@ O Brhaspati, yoke a voice in the south.
 दिशां स्वामिभूता देवी सुवर्वती स्वर्गयुक्ता स्वर्गप्रदेत्यर्थः।   नोऽस्मान्प्रति सुदुधा कामधेनुवत्सुष्ठु दोहनशीला।   अत एव पयस्वती क्षीरादिरसद्रव्यपूर्णं विशेषतो घृताची घृतं प्राप्नुवती।   हे बृहस्पते त्वं पुरएता पुरतो गन्ता सन्गोपा रक्षक उतापि च पश्चात्पृष्टतोऽपि रक्षकस्तादृशस्त्वं याम्यां यममयीं वाचं युङ्ग्धि योजय, एवमेवं वर्तस्वेत्यादिशेत्यर्थः।
 </details>
 </details>
+</div>
 
 ## सविता
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1045,6 +1091,14 @@ May Bṛhaspati, Mātariśvan, and Vāyu, the winds blowing together, sing prais
 बृ᳓हस्प᳓तिर् मातरि᳓श्वोत᳓ वायुः᳓ सं᳓ध्वाना वा᳓ता अभि᳓ नो गृणन्तु
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+ध्रुवा दिशां विष्णुपत्न्य् अघोरा-  
+-अस्येशाना सहसो या मनोता ।  
+बृहस्पतिर् मातरिश्वोत वायुः  
+संधाना वाता अभि नो गृणन्तु ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ध्रु॒वा । दि॒शाम् । विष्णु॑प॒त्नीति॒ विष्णु॑-प॒त्नी॒ । अघो॑रा । अ॒स्य । ईशा॑ना । सह॑सः । या । म॒नोता॑ ॥ बृह॒स्पतिः॑ । मा॒त॒रिश्वा॑ । उ॒त । वा॒युः । स॒न्धु॒वा॒ना इति॑ सम्-धु॒वा॒नाः । वाताः॑ । अ॒भीति॑ । नः॒ । गृ॒ण॒न्तु॒ ॥
@@ -1124,6 +1178,14 @@ Spacious, invigorating, prosperous, may she be auspicious to us in the lap of Ad
 
 विष्टम्भो᳓ दिवो᳓ धरु᳓णा पृथिव्या᳓ अस्ये᳓शाना ज᳓गतो वि᳓ष्णुपत्नी  
 व्य᳓चस्वतीष᳓यन्ती सु᳓भूतिः शिवा᳓ नो अस्त्व् अ᳓दितेर् उप᳓स्थे
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+विष्टम्भो दिवो धरुणः पृथिव्या  
+अस्येशाना जगतो विष्णुपत्नी ।  
+विश्वव्यचा इषयन्ती सुहुतिः  
+स्योना नो अस्त्व् अदितेर् उपस्थे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2839,6 +2901,14 @@ yáḥ ← yá- (pronoun)
 
 को अ॒द्य यु॑ङ्क्ते धु॒रि गा ऋ॒तस्य॒ शिमी॑वतो भा॒मिनो॑ दुर्हृणा॒यून् ।  
 आ॒सन्नि॑षून्हृ॒त्स्वसो॑ मयो॒भून्य ए॑षाम्भृ॒त्यामृ॒णध॒त्स जी॑वात् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+को अद्य युङ्क्ते धुरि गा ऋतस्य  
+शिमीवतो भामिनो दुर्हणायून् ।  
+आसन्निषून् हृतस्वसो मयोभून्  
+य एषां भृत्याम् ऋणधत् स जीवात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

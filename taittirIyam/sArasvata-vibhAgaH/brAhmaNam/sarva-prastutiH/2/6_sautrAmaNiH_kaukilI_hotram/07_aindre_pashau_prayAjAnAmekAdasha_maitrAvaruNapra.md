@@ -22,6 +22,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the hotṛ sacrifice to Indra with the kindling-stick at the place of Iḍā,  
+upon the navel of the earth.  
+He is kindled at the height of heaven,  
+most mighty, conquering men.  
+May he enjoy the ghee; hotṛ, sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्स॒मिधेन्द्र॑मि॒डस्प॒दे ।  
@@ -61,6 +70,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the hotṛ sacrifice to Tanūnapāt  
+with aids, the conqueror, undefeated,  
+to Indra, the god who finds the sun,  
+along the sweetest paths,  
+with the fiery energy belonging to Narāśaṃsa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -102,6 +120,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to Indra praised with the iḍās,  
+invoked, immortal,  
+the god along with the gods, heroic,  
+vajra in hand, breaker of forts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒दिडा॑भि॒रिन्द्र॑मीडि॒तम् ।  
@@ -140,6 +167,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to Indra seated on the sacrificial grass,  
+the bull of manly deeds,  
+with the Vasus, Rudras, and Ādityas,  
+his companions; may he sit on the barhis.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -180,6 +216,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice: like splendorous might, heroic power,  
+and overpowering force, the doors magnified Indra.  
+Easy of approach, increasing sacred order, may they open wide,  
+the doors for generous Indra!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒दोजो॒ न वी॒र्य॑म् ।  
@@ -218,6 +263,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May they enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to Dawn and Night, the two milch cows of Indra,  
+yielding good milk, the two great mothers;  
+like two mothers of calves, two fiery energies,  
+they magnified the calf Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -259,6 +313,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the two enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to the two divine hotṛs,  
+the two physicians, companions;  
+with oblation they heal Indra, the two sages, the wise gods;  
+bestow sensory power upon Indra!
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒द्दैव्या॒ होता॑रा ।  
@@ -299,6 +362,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the two enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to the three goddesses,  
+the three threefold active ones,  
+Iḍā, Sarasvatī, Bhāratī,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्ति॒स्रो दे॒वीः ।  
@@ -337,6 +408,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the great ones, wives of Indra, possessing oblations.  
+May they enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to Tvaṣṭṛ, to Indra the god,  
+the healer, well-sacrificed, adorned with ghee,  
+multiform, with good seed, the generous one;  
+may Tvaṣṭṛ place sensory faculties in Indra!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -377,6 +458,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to the Lord of the Forest, the slaughterer of hundredfold resolve,  
+the lover of prayer, the sensory power,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -421,6 +509,22 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+anointing with honey along easy paths;  
+he shall sweeten the offering with honey and ghee.  
+May he enjoy the ghee; hotṛ, sacrifice!  
+May the hotṛ sacrifice to Indra: svāhā of ghee!  
+Svāhā of omentum!  
+Svāhā of drops!  
+Svāhā of the svāhā-utterances!  
+Svāhā of the offering-recitations!  
+Svāhā to the gods who drink ghee!  
+Svāhā: delighted from the Hotr-office,  
+may they, \[and\] Indra, partake of the ghee!  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -378,6 +378,17 @@ O bringt herbei und schenket, blitzbewehrte, mit euren Kräften helft uns, Indra
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring \[wealth\], give \[it\], you two with vajras in your arms;  
+protect us, O Indra-Agni, with your aids.  
+These now are those rays of the sun,  
+by which our fathers came to communion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदिन्द्राग्नी᳓ ।   
@@ -389,6 +400,16 @@ O bringt herbei und schenket, blitzbewehrte, mit euren Kräften helft uns, Indra
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to Indra-Agni.  
+Let them eat today of the goat's oblation;  
+the fat is extracted from the middle.  
+Before malice,  
+before human seizure,  
+let them eat now.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -432,6 +453,17 @@ O bringt herbei und schenket, blitzbewehrte, mit euren Kräften helft uns, Indra
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the eating of the wide pastures expanding with grass,  
+freely flowing, belonging to the hundred Rudras,  
+consumed by Agni, clothed in fat,  
+from the flank, from the thigh, from the liver, from the rump,  
+cut off limb by limb.  
+Thus may Indra-Agni do;  
+let them enjoy the oblation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -574,6 +606,17 @@ Fastening [them] around with a cord to the right, convey them along the straight
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tying around clockwise with a cord,  
+carry \[them\] by the straightest paths of truth.  
+May the Hotṛ sacrifice to the tree. For he has encircled \[it\]  
+with the best-prepared, fastest cord,  
+where the dear abodes of the goat oblation of Indra-Agni are,  
+where the dear places of the tree are,  
+where the dear abodes of the ghee-drinking gods are,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षद्वन॒स्पति॑म॒भिहि ।   
@@ -602,6 +645,12 @@ Fastening [them] around with a cord to the right, convey them along the straight
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+where the dear abodes of Agni the Hotṛ are;  
+there he has let it loose, as if to praise beforehand, as if to laud,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्रै॒तम्प्र॒स्तुत्ये॑वोप॒स्तुत्ये॑ वो॒पाव॑स्रक्षत् ।   
@@ -624,6 +673,11 @@ Fastening [them] around with a cord to the right, convey them along the straight
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having made it, as it were, swifter.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -648,6 +702,11 @@ Fastening [them] around with a cord to the right, convey them along the straight
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus may the divine tree do;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर॑दे॒वन्दे॒वो वन॒स्पतिः॑ ।  
@@ -671,6 +730,12 @@ Fastening [them] around with a cord to the right, convey them along the straight
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let it enjoy the oblation.  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1173,6 +1238,20 @@ Erfreu, o jüngster, die begier'gen Götter, der Zeiten kundig opfre, Herr der Z
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to Agni Sviṣṭakṛt.  
+Agni has sacrificed to the dear abodes of the goat oblation of Indra-Agni;  
+he has sacrificed to the dear places of the tree;  
+he has sacrificed to the dear abodes of the ghee-drinking gods.  
+May he sacrifice to the dear abodes of Agni the Hotṛ;  
+may he sacrifice to his own greatness;  
+may he sacrifice for refreshments worthy of sacrifice.  
+Let him make the sacrificial rites, the Jātavedas;  
+let him enjoy the oblation.  
+Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

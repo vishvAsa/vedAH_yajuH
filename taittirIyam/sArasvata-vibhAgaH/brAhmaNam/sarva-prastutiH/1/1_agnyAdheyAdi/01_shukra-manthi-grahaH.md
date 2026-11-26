@@ -44,6 +44,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite brahman, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ सन्ध॑त्त॒न्तन्मे॑ जिन्वतम् ।
@@ -69,6 +74,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite regal power, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्त्रँ सन्ध॑त्त॒न्तन्मे॑ जिन्वतम् ।
@@ -91,6 +101,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite refreshment, invigorate that for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +130,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite vigor, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्जँ॒ सन्ध॑त्त॒न्ताम्मे॑ जिन्वतम् ।
@@ -137,6 +157,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite wealth, invigorate that for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -161,6 +186,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite nourishment, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्टिँ॒ सन्ध॑त्त॒न्ताम्मे॑ जिन्वतम् ।
@@ -184,6 +214,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite offspring, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाँ सन्ध॑त्त॒न्ताम्मे॑ जिन्वतम् ।
@@ -206,6 +241,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite domestic animals, invigorate them for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -241,6 +281,12 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are praised, supporter of people;  
+let the gods who drink the clear soma cup lead you forth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तु॒तो॑ ऽसि॒ जन॑धाः ।  
@@ -275,6 +321,12 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go around, begetting offspring with good heroes,  
+clear with clear brilliance!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒वीरा॑ᳶ प्र॒जाᳶ प्र॑ज॒नय॒न्परी॑हि ।
@@ -307,6 +359,12 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are praised, supporter of people;  
+let the gods who drink the stirred soma cup lead you forth!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +399,12 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go around, begetting good offspring,  
+stirred with stirred brilliance!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -377,6 +441,12 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having met from heaven and earth, unite lifespan;  
+invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒ञ्ज॒ग्मा॒नौ दि॒व आपृ॑थि॒व्यायुः॑ ।
@@ -404,6 +474,11 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite exhalation, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णँ सन्ध॑त्त॒न्तम्मे॑ जिन्वतम् ।
@@ -427,6 +502,11 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite inhalation, invigorate that for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -452,6 +532,11 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite diffused breath, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒नँ सन्ध॑त्त॒न्तम्मे॑ जिन्वतम् ।
@@ -476,6 +561,11 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite sight, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॒स्सन्ध॑त्त॒न्तन्मे॑ जिन्वतम् ।
@@ -494,6 +584,11 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite hearing, invigorate that for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -514,6 +609,11 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite mind, invigorate that for me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन॒स्सन्ध॑त्त॒न्तन्मे॑ जिन्वतम् ।
@@ -532,6 +632,11 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite speech, invigorate that for me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -558,6 +663,11 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two are lifespan: grant me lifespan!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -591,6 +701,14 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Grant lifespan to the sacrifice!  
+Grant lifespan to the lord of the sacrifice!  
+You two are exhalation: grant me exhalation!  
+Grant exhalation to the sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णस्स्थ॑ᳶ प्रा॒णम्मे॑ धत्तम् ।  
@@ -614,6 +732,14 @@ __________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Grant exhalation to the lord of the sacrifice!  
+You two are sight: grant me sight!  
+Grant sight to the sacrifice!  
+Grant sight to the lord of the sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑स्स्थ॒श्चक्षु॑र्मे धत्तम् ।  
@@ -636,6 +762,13 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two are hearing: grant me hearing!  
+Grant hearing to the sacrifice!  
+Grant hearing to the lord of the sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -662,6 +795,13 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You two gods, clear and stirred soma cups,  
+arrange the divine clans,  
+arrange the human \[clans\]!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +831,13 @@ __________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Place refreshment and vigor in us,  
+exhalations in the domestic animals,  
+offspring in me and in the sacrificer!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -732,6 +879,11 @@ ____________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Śaṇḍa is cast out!
+</details>
+
 <details><summary>मूलम्</summary>
 
 निर॑स्त॒श् शण्डः॑ ।  
@@ -755,6 +907,11 @@ ____________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Marka is cast out!
+</details>
+
 <details><summary>मूलम्</summary>
 
 निर॑स्तो॒ मर्कः॑ ।  
@@ -777,6 +934,11 @@ ____________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Śaṇḍa and Marka are driven away along with that \[foe\]!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -811,6 +973,11 @@ ____________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the kindling stick of the clear soma cup;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒क्रस्य॑ स॒मिद् अ॑सि ।
@@ -833,6 +1000,11 @@ ____________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are the kindling stick of the stirred soma cup.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -867,6 +1039,14 @@ ____________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is the first, the arranger, Viśvakarman;  
+he is the first, Mitra, Varuṇa, Agni;  
+he is the first, wise Bṛhaspati;  
+to that Indra I offer the pressed \[soma\]!
+</details>
 
 <details><summary>मूलम्</summary>
 

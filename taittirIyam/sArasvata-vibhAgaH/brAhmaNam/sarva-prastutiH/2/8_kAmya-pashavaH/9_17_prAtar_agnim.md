@@ -364,6 +364,15 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the morning we invoke Agni, in the morning Indra,  
+in the morning Mitra and Varuṇa, in the morning the two Aśvins,
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -888,6 +897,17 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the morning Bhaga, Pūṣan, Brahmaṇaspati;  
+in the morning may we invoke Soma and Rudra.  
+In the morning we invoke the victorious, mighty Bhaga,  
+the son of Aditi, who is the sustainer,
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -1370,6 +1390,18 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+upon whom the wretched, thinking \[of him\], and the swift \[call\],
+
+upon whom the king says, 'May I enjoy Bhaga!'  
+O Bhaga, leader! O Bhaga of true gifts!  
+O Bhaga, promote this inspired thought, giving to us!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -1714,6 +1746,18 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bhaga, generate us forth with cattle, with horses!  
+O Bhaga, with men may we be rich in men!  
+And may we now be fortunate,  
+and at the early morning, and in the middle of the days,  
+and at the rising of the sun, O bounteous one!
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
 
@@ -2231,6 +2275,19 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be in the goodwill of the gods!  
+May Bhaga indeed be fortunate, O gods!
+
+Through him may we be fortunate!  
+As such, O Bhaga, do I invoke you entirely.  
+As such, O Bhaga, be our forerunner here!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -2665,6 +2722,17 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the dawns bow down toward the sacrificial rite,  
+like Dadhikrāvan toward the bright place!  
+May the swift horses bring here to us  
+Bhaga, turned toward us, who finds wealth, like a chariot!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -2994,3 +3062,14 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rich in horses, rich in cattle, rich in heroes,  
+may the auspicious dawns ever shine upon us,  
+yielding ghee, overflowing from every side!  
+Do you always protect us with blessings!
+</details>
+</details>

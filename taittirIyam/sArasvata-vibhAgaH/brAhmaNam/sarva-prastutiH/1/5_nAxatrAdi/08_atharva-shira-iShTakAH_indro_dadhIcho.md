@@ -541,6 +541,16 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seeking the head of the horse  
+that was hidden in the mountains,  
+he found it in Śaryaṇāvant.
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -2326,6 +2336,13 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, be made to give;  
+he is most splendorous in might, established in strength,  
+resplendent, renowned, related to Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॒स् स दाम॑ने कृ॒तः ।   

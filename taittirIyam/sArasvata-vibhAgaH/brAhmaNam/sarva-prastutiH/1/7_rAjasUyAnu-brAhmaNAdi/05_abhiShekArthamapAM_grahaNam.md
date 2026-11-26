@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You have arrived for the purpose,' \[saying this\] he offers an oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒र्थेत॒स्स्थे"ति॑ जुहोति ।
@@ -32,6 +37,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of the oblation he redeems them and takes \[them\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -56,6 +66,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, he draws \[water\] from those \[waters\] that are made into sacrificial matter and sprinkled with clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ ह॒विष्कृ॑तानाम् ए॒वाभिघृ॑तानाङ्गृह्णाति ।
@@ -79,6 +94,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He draws \[waters\] that are flowing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वह॑न्तीनाङ्गृह्णाति ।
@@ -101,6 +121,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+these indeed are the realm of the waters;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +151,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he draws the realm for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्रम् ए॒वास्मै॑ गृह्णाति ।
@@ -143,6 +173,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, they bear him to prosperity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -166,6 +201,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are the lord of the waters,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -193,6 +233,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has produced a pair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒थु॒नम् ए॒वाकः॑ ।
@@ -210,6 +255,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are a virile wave,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -235,6 +285,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He makes him billowy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "वृ॒ष॒से॒नो॑ ऽसी"त्य् आ॑ह ।
@@ -257,6 +312,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are possessed of a mighty army,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -282,6 +342,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sharpens his army.  
+'You abide in the enclosure,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "व्र॒ज॒क्षित॒स् स्थे"त्य् आ॑ह ।
@@ -304,6 +370,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+these \[waters\] indeed are the clans of the waters;  
+he gathers the clan about him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +401,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are the splendorous might of the Maruts,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "म॒रुता॒मोज॒स् स्थे"त्य् आ॑ह ।
@@ -346,6 +423,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Maruts indeed are food;  
+he secures food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +454,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You have the splendor of the sun,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्य॑वर्चस॒स्स्थेत्या॑ह ॥29॥  
@@ -390,6 +478,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm radiant.  
+'You have the skin of the sun,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "सूर्य॑-त्वचस॒स् स्थे"त्य् आ॑ह ।
@@ -407,6 +501,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this indeed is truth,  
+when it rains;  
+it is untruth when it shines while raining;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -435,6 +536,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures both truth and untruth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्या॒नृ॒ते ए॒वाव॑रुन्धे ।
@@ -457,6 +563,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truth and untruth do not harm him when spoken,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -481,6 +592,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whoever knows thus.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -498,6 +614,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are soothing,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -522,6 +643,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm possessed of spiritual preeminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒ष्ट्रम् ए॒व ब्र॑ह्मवर्च॒स्य॑कः ॥30॥
@@ -544,6 +670,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are compliant,' he says;  
+he makes the realm obedient.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -569,6 +701,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are powerful,' he says;  
+the Śakvarī meters are domestic animals;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -596,6 +734,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures domestic animals.  
+'You are all-supporting,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒भृत॒स्स्थेत्या॑ह ।
@@ -619,6 +763,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm rich in milk.  
+'You are folk-supporting,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -644,6 +794,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm possessed of sensory faculty.  
+'You belong to the fiery energy of Agni,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेस्ते॑ज॒स्या॑स्स्थेत्या॑ह ॥31 ॥  
@@ -667,6 +823,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm endowed with fiery energy.  
+'You are the essence of waters and plants,' he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -692,6 +854,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the realm sweet.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सा॒र॒स्व॒तङ्ग्रह॑ङ्गृह्णाति ।
@@ -709,6 +876,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He draws the cup belonging to Sarasvatī;  
+this indeed is the summit of the waters,  
+that Sarasvatī is;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -728,6 +902,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes him the summit among his equals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -754,6 +933,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He draws with sixteen \[mantras\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 षो॒ड॒शभि॑र् गृह्णाति ।
@@ -777,6 +961,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a person is composed of sixteen parts;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -802,6 +991,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+as great as the person is,  
+in him he places heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावा॑ने॒व पुरु॑षः ।
@@ -826,6 +1021,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With sixteen he offers, with sixteen he draws;  
+they amount to thirty-two;
+</details>
+
 <details><summary>मूलम्</summary>
 
 षो॒ड॒शभि॑र्जु॒होति॑ षोड॒शभि॑र्गृह्णाति ।
@@ -844,6 +1045,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the anuṣṭubh consists of thirty-two syllables;  
+speech is the anuṣṭubh, \[and speech is\] all the meters;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -872,6 +1079,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with speech, with all the meters, he consecrates him.
+</details>
 
 <details><summary>मूलम्</summary>
 

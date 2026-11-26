@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This becomes the twenty-first \[day\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒क॒-विँ॒श ए॒ष भ॑वति ।
@@ -32,6 +37,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of this twenty-first, the gods indeed  
+made the sun mount from here to the highest heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +68,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is indeed this twenty-first from here;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वा ए॒ष इ॒त ए॑क-विँ॒शः ।
@@ -74,6 +90,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+ten days are below it,  
+ten days beyond.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +121,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It is established on both sides upon the Virāj;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वा ए॒ष वि॒-राज्य् उ॑भ॒यत॒ᳶ प्रति॑ष्ठितः ।
@@ -121,6 +148,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for indeed it is established on both sides upon the Virāj.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -145,6 +177,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, going between these two worlds,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द् अन्त॒रेमौ लो॒कौ यन् ।
@@ -163,6 +200,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it proceeds burning upon all the heavenly realms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वे॑षु सुव॒र्गेषु॑ लो॒केष्व् अ॑भि॒-तप॑न् नेति ॥37॥
@@ -180,6 +222,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods feared the falling away of the sun,  
+of the heavenly realm, into the beyond.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -205,6 +253,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They made it firm with the meters for support.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तञ्छन्दो॑भिरदृँह॒न्धृत्यै॑ ।
@@ -227,6 +280,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods feared the falling downward of the sun,  
+of the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +312,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They wove it upward with five rays.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम् प॒ञ्चभी॑ र॒श्मिभि॒र् उद॑वयन् ।
@@ -275,6 +339,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, on the twenty-first day, five Divākīrtya \[chants\] are performed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +369,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Divākīrtyas are indeed rays.
+</details>
+
 <details><summary>मूलम्</summary>
 
 र॒श्मयो॒ वै दि॑वा-की॒र्त्या॑नि ।
@@ -317,6 +391,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those that are in the Gāyatra  
+are on Gāyatrī \[verses\] in the latter two Pavamānas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +421,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Mahādivākīrtya is the Pṛṣṭha \[sāman\] of the Hotṛ;  
+the Vikarṇa is the Brahma-sāman;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -367,6 +453,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Bhāsa is the Agniṣṭoma \[sāman\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒तानि॒ परा॑णि ।
@@ -384,6 +475,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now these are the Pāras;  
+by the Pāras the gods brought the sun across to the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -412,6 +509,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they brought \[it\] across (apārayan),
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदपा॑रयन् ।
@@ -435,6 +537,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the crossing nature (paratva) of the Pāras.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -462,6 +569,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Pāras bring him across
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -479,6 +591,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -498,6 +615,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now these are the Spāras;  
+by the Spāras the gods rescued the sun to the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्परै॒र् वै दे॒वा आ॑दि॒त्यँ सु॑व॒र्गल्ँ लो॒कम् अ॑स्पारयन् ।
@@ -515,6 +638,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they rescued \[it\] (aspārayan),
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -544,6 +672,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the saving nature (sparatva) of the Spāras.  
+The Spāras rescue him
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्पा॒रय॑न्त्य् एनँ॒ स्परा॑णि ।
@@ -561,6 +695,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

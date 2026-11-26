@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Varuṇa had consecrated himself \[by pressing soma\], his Indra's power and heroic power flew away in ten portions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य सुषुवा॒णस्य॑ दश॒धेन्द्रि॒यव्ँ वी॒र्य॑म्परा॑ऽपतत् ।
@@ -33,6 +38,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He crept after it with the creeping \[offerings\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -59,6 +69,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the creeping-nature of the creeping \[offerings\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्सँ॒सृपाँ॑ सँसृ॒त्त्वम् ।
@@ -76,6 +91,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With Agni as the deity he harnessed \[it\] on the first day;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -100,6 +120,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Sarasvatī as speech on the second;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर॑स्वत्या वा॒चा द्वि॒तीये॑।
@@ -122,6 +147,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Savitṛ as impulse on the third;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -146,6 +176,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Pūṣan as beasts on the fourth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒ष्णा प॒शुभि॑श्चतु॒र्थे।।
@@ -168,6 +203,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Bṛhaspati as brahman on the fifth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -192,6 +232,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Indra as the deity on the sixth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रे॑ण दे॒वेन॑ ष॒ष्ठे ।।
@@ -214,6 +259,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Varuṇa, his own deity, on the seventh;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -238,6 +288,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with King Soma on the eighth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमे॑न॒ राज्ञा॑ऽष्ट॒मे।।
@@ -260,6 +315,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Tvaṣṭṛ as form on the ninth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -284,6 +344,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with Viṣṇu as the sacrifice he attained it \[on the tenth\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्णु॑ना य॒ज्ञेना॑प्नोत् ।
@@ -306,6 +371,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that there are creeping \[offerings\],  
+the sacrificer thereby attains Indra's power and heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +402,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Each preceding sacrificial altar becomes higher and higher,  
+for the securing of Indra's power and heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पूर्वा॑पूर्वा॒ वेदि॑र्भवति ।
@@ -354,6 +431,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Before the upasads he proceeds with \[the oblation\] to Soma;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +461,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for Soma is the placer of semen;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ वै रे॑तो॒धाः ।
@@ -396,6 +483,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he thus deposits the semen.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -415,6 +507,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Between them \[he proceeds\] with
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्त॒रा त्वा॒ष्ट्रेण॑ ।
@@ -433,6 +530,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that to Tvaṣṭṛ;  
+when semen is placed, Tvaṣṭṛ fashions forms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रेत॑ ए॒व हि॒तन्त्वष्टा॑ रू॒पाणि॒ विक॑रोति ।
@@ -450,6 +553,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Above, \[he proceeds\] with that to Viṣṇu;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -476,6 +584,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for Viṣṇu is the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वै विष्णुः॑ ।
@@ -493,6 +606,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he firmly stands in the sacrifice at the end.
+</details>
 
 <details><summary>मूलम्</summary>
 

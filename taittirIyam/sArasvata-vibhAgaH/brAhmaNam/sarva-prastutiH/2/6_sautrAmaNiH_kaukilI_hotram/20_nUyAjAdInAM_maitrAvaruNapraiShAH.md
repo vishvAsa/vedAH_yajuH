@@ -23,6 +23,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine sacred grass made Indra, the bestower of youthful vitality, the god, thrive;  
+with the gāyatrī meter, power of the senses,  
+bestowing fiery energy, youthful vitality in Indra.  
+For the win of wealth, let him partake of the treasure-store. Sacrifice!  
+The divine doors made the god Indra, bestower of youthful vitality, the god, thrive;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिरिन्द्रव्ँ॑वयो॒धस॑म् ।
@@ -62,6 +71,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the uṣṇih meter, power of the senses,  
+bestowing exhalation, youthful vitality in Indra.  
+For the win of wealth, let them partake of the treasure-store. Sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -104,6 +120,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Dawns made the god, bestower of youthful vitality,  
+Indra, thrive;  
+with the anuṣṭubh meter, power of the senses,  
+bestowing speech, youthful vitality in Indra.  
+For the win of wealth, let the two partake of the treasure-store. Sacrifice!  
+The two divine Welcoming Ones made the god Indra, bestower of youthful vitality,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी दे॒वव्ँव॑यो॒धस॑म् ।
@@ -145,6 +171,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the two goddesses made the god thrive;  
+with the bṛhatī meter, power of the senses,  
+bestowing hearing, youthful vitality in Indra.  
+For the win of wealth, let the two partake of the treasure-store. Sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -189,6 +223,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Offerings of Vigor \[strengthened\] the divine Indra, the bestower of vigor;  
+the two goddesses strengthened the god;  
+with the paṅkti meter, placing the power of the senses,  
+brightness, \[and\] vitality in Indra.  
+For the win of wealth, may they partake of the treasure; sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वी ऊ॒र्जाहु॑ती दे॒वमिन्द्रव्ँ॑वयो॒धस॑म् ।
@@ -231,6 +274,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Hotṛs \[strengthened\] the divine Indra, the bestower of vigor;  
+the two gods strengthened the god;  
+with the triṣṭubh meter, placing the power of the senses,  
+brilliancy, \[and\] vitality in Indra.  
+For the win of wealth, may they partake of the treasure; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -275,6 +327,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three goddesses, the three goddesses \[strengthened\] Indra the lord,  
+the bestower of vigor;  
+with the jagatī meter, placing the power of the senses,  
+strength, \[and\] vitality in Indra.  
+For the win of wealth, may they partake of the treasure; sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वीस्ति॒स्रस्ति॒स्रो दे॒वीर्व॑यो॒धस॑म् ।
@@ -314,6 +375,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Narāśaṃsa \[strengthened\] the divine Indra, the bestower of vigor;  
+the god strengthened the god;  
+with the virāj meter, placing the power of the senses,  
+seed, \[and\] vitality in Indra.  
+For the win of wealth, may he partake of the treasure; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -356,6 +426,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Lord of the Forest \[strengthened\] the divine Indra, the bestower of vigor;  
+the god strengthened the god;  
+with the two-footed meter, placing the power of the senses,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -400,6 +477,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+good fortune, \[and\] vitality in Indra.  
+For the win of wealth, may he partake of the treasure; sacrifice!  
+The divine sacrificial grass of the streams \[strengthened\] the divine Indra, the bestower of vigor;  
+the god strengthened the god;  
+with the kakubh meter, placing the power of the senses,  
+fame, \[and\] vitality in Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वम्ब॒र्हिर्वारि॑तीनान्दे॒वमिन्द्रव्ँ॑वयो॒धस॑म् ।
@@ -441,6 +528,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the win of wealth, may he partake of the treasure; sacrifice!  
+The divine Agni Sviṣṭakṛt \[strengthened\] the divine Indra, the bestower of vigor;  
+the god strengthened the god;  
+with the atichandas meter, placing the power of the senses,  
+regal power, \[and\] vitality in Indra.  
+For the win of wealth, may he partake of the treasure; sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

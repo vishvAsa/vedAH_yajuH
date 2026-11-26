@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati, having generated offspring, fell apart.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिᳶ प्र॒जास्सृ॒ष्ट्वा व्य॑स्रँसत ।
@@ -49,6 +54,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He lay as a mere heart.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स हृद॑यम्भू॒तो॑ऽशयत् ।
@@ -76,6 +86,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out: "O self!"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +120,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The waters answered him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप॒ᳶ प्रत्य॑शृण्वन् ।
@@ -133,6 +153,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They approached with the rite of sacrifice which is the agnihotra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॑ग्निहो॒त्रेणै॒व य॑ज्ञक्र॒तुनोप॑ प॒र्याव॑र्तन्त ।
@@ -155,6 +180,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They pushed together \[his\] trunk.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -185,6 +215,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore of the agnihotra rite of sacrifice  
+there is one officiating priest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑दग्निहो॒त्रस्य॑ यज्ञक्र॒तोः ।
@@ -214,6 +250,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out four times:  
+Agni, Vāyu, Āditya, and the Moon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +296,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They answered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते प्रत्य॑शृण्वन् ।
@@ -276,6 +323,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They approached with the rite of sacrifice which is the new- and full-moon rites.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -307,6 +359,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They pushed together the four limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त उपौ॑हँश्च॒त्वार्यङ्गा॑नि ।
@@ -334,6 +391,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore of the new- and full-moon rite of sacrifice  
+there are four officiating priests.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -364,6 +427,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out five times.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒कृत्वोऽह्व॑यत् ।
@@ -387,6 +455,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The domestic animals answered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शव॒ᳶ प्रत्य॑शृण्वन् ।
@@ -404,6 +477,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They approached with the rite of sacrifice which is the Cāturmāsyas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +532,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They pushed together hair, skin, flesh, bone, and marrow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त उपौ॑हल्ँ॒लोम॑ छ॒वीम्माँ॒समस्थि॑ म॒ज्जान॑म् ।
@@ -472,6 +555,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore of the Cāturmāsya rite of sacrifice
+
+there are five officiating priests.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +592,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out six times.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ष॒ट्कृत्वोऽह्व॑यत् ।
@@ -519,6 +614,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The seasons answered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -538,6 +638,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They approached with the rite of sacrifice which is the animal sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते प॑शुब॒न्धेनै॒व य॑ज्ञक्र॒तुनोप॑प॒र्याव॑र्तन्त ।
@@ -555,6 +660,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They pushed together the two breasts, the two testicles, the penis, and the downward breath.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -574,6 +684,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore of the animal sacrifice rite of sacrifice
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -614,6 +729,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+there are six officiating priests.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्त॒कृत्वोऽह्व॑यत् ।
@@ -636,6 +756,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out seven times.  
+The Hotrās answered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -662,6 +788,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They approached with the rite of sacrifice which is the soma sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -693,6 +824,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They pushed together the seven vital breaths of the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता उपौ॑हन्त्स॒प्त शी॑र्ष॒ण्या॑न्प्रा॒णान् ।
@@ -716,6 +852,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore of the soma sacrifice rite of sacrifice  
+seven Hotrās pronounce the vaṣaṭ-call facing eastward.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -746,6 +888,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He called out ten times.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒श॒कृत्वोऽह्व॑यत् ।
@@ -763,6 +910,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Heat answered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -790,6 +942,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It approached by means of the ritual action, with the year, with all the rites of sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +982,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It pushed together his entire self without omission.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्सर्व॑मा॒त्मान॒मप॑रिवर्ग॒मुपौ॑हत् ।
@@ -852,6 +1014,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore in the year all rites of sacrifice are obtained.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -881,6 +1048,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore the ten-hotṛ, the four-hotṛ,  
+the five-hotṛ, the six-hotṛ, the seven-hotṛ
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -923,6 +1096,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+bring tribute to the one-hotṛ; offspring bring tribute to him;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हर॑न्त्यस्मै प्र॒जा ब॒लिम् ।
@@ -947,6 +1125,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he attains \[renown\] that is never contradicted,  
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

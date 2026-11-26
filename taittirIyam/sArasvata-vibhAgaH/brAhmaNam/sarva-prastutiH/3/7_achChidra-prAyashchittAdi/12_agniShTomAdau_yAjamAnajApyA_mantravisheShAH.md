@@ -3,6 +3,7 @@ title: १२ अग्निष्टोमादौ याजमानजा�
 unicode_script: devanagari
 
 ---
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -20,6 +21,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever offense to the gods, O gods,  
+we have committed, O gods,  
+O Ādityas, release me from that,  
+and by the truth of cosmic order, release me!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -52,6 +61,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If, O gods, desiring life,  
+we have spoken falsehood with speech,  
+may Agni Gārhapatya  
+release me from that sin!  
+Whatever bad deeds we have done,  
+may he make me sinless!
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॑ जीवनका॒म्या यत् ।  
@@ -83,6 +102,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By cosmic order, O heaven and earth,  
+by cosmic order, you, O Sarasvatī,  
+by cosmic order, release me from distress,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तेन॑ द्यावापृथिवी ।  
@@ -112,6 +138,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever committed by another we have contracted!  
+From the curse of a kinsman or from the curse of a sibling,  
+from the curse of an elder
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒जा॒त॒शँ॒सादु॒त वा॑ जामिशँ॒सात् ।  
@@ -140,6 +173,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or from of a younger,  
+whatever unknown sin committed against the gods \[there be\],  
+from that release us, O Jātavedas!  
+What by speech, what by mind,  
+by arms, by thighs, by knees...
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +216,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+...by genitals, whatever untruth we have committed,  
+may Agni \[release\] me from that sin!  
+What offenses I have committed with both hands,  
+beating down upon the rattle of the dice,  
+Far-seeing and Nation-bearing,  
+let those two Apsarases remit those debts!  
+What debt I incurred without gambling,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्धस्ता॑भ्याञ्च॒कर॒ किल्बि॑षाणि ।  
@@ -201,6 +254,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or what I promised to people without intending to give,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -232,6 +290,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Agni \[release\] me from that sin!  
+What my mother, while I was in the womb...
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -266,6 +330,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+...committed as sin, what my father \[did\],  
+may Agni \[release\] me from that sin!  
+If, suckling, a joyful son  
+has hurt mother or father,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा॑पि॒पेष॑ मा॒तर॑म्पि॒तर॑म् ।  
@@ -293,6 +365,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the parents be unharmed by me in that;  
+in that, O Agni, may I be free of debt.  
+If the atmosphere, earth, or sky,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -325,6 +404,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+if mother or father we have harmed,  
+may Agni \[release\] me from that sin!  
+What by wishful thinking, what by whispering, what by slander...
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा॒शसा॑ नि॒शसा॒ यत्प॑रा॒शसा॑ ॥119॥  
@@ -352,17 +438,34 @@ unicode_script: devanagari
 अ᳓तिक्रामामि दुरितय्ँ᳓य᳓दे᳓नः ।  
 ज᳓हामि रिप्र᳓म्परमे᳓ सध᳓स्थे ।  
 य᳓त्र य᳓न्ति सुकृ᳓तो ना᳓पि दुष्कृ᳓तः ।  
-त᳓मा᳓रोहामि सुकृ᳓तान्नु᳓ लोक᳓म् ।  
+त᳓मा᳓रोहामि सुकृ᳓तान्नु᳓ लोक᳓म् ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/12_atikrAmAmi_duritay.NyadenaH_jahAmi.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
 
-<details><summary>मूलम्</summary>
+...whatever sin we have committed, new or old,  
+may Agni \[release\] me from that sin!  
+I step over whatever sin is a misdeed;  
+I leave behind stain in the highest assembly.  
+Where the doers of good go, not the doers of evil,
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अति॑क्रामामि दुरि॒तय्ँयदेनः॑ ।  
 जहा॑मि रि॒प्रम्प॑र॒मे स॒धस्थे॑ ।  
 यत्र॒ यन्ति॑ सु॒कृतो॒ नापि॑ दु॒ष्कृतः॑ ।  
-तमारो॑हामि सु॒कृता॒न्नु लो॒कम् ।  
+तमारो॑हामि सु॒कृता॒न्नु लो॒कम् ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अति क्रामामि दुरितं यद् एनो  
+जहामि रिप्रं परमे सधस्थे ।  
+येन यन्ति सुकृतो नापि दुष्कृतस्  
+तम् आ रुहेम सुकृताम् उलोकम् ॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -375,6 +478,7 @@ unicode_script: devanagari
 12अतिक्रामामीति त्रिष्टुप् ॥ यद्दुरितं दुर्गतिकारणं एनः पापं तदहं अतिक्रामामि अतिक्रम्य गच्छामि त्वत्प्रसादात् । किञ्च - परमे सधस्थे सहस्थाने अस्मिन् संसारे यन्मयि रिप्रं पापं लिप्तमिव निर्माष्टुं शक्यं तदपि जहामि त्यजामि त्वत्प्रसादात् । ततश्च यत्र यन्ति सुकृत एव न कदाचिदपि दुष्कृतः तं सुकृतामेव सम्बन्धिनं लोकं आरोहामि । नु पूरणं अविघ्नेन वा ॥
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -389,6 +493,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+to that realm of the doers of good I now ascend.  
+Upon Trita the gods wiped off this sin;  
+Trita wiped it off upon humans;  
+thence if anything has reached me,  
+may Agni \[release\] me from that sin!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -425,6 +538,18 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Gārhapatya release \[me\]!  
+Whatever bad deeds we have done,  
+may he make me sinless!  
+Born in heaven, born in the waters,  
+which are born from plants,  
+and the waters that are born of fire,  
+may they, the cleansers, cleanse us.  
+If by night, O waters, we commit a misdeed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒वि जा॒ता अ॒प्सु जा॒ताः ।  
@@ -453,6 +578,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+or if by day, new or old,  
+O golden-hued ones, purify us out of that!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदापो॒ नक्त॑न्दुरि॒तञ्चरा॑म ।  
@@ -479,6 +610,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This my \[prayer\], O Varuṇa; That I ask of you;  
+You to us, O Agni; So you to us, O Agni;  
+You, O Agni, are Ayās...
+</details>
 
 <details><summary>मूलम्</summary>
 

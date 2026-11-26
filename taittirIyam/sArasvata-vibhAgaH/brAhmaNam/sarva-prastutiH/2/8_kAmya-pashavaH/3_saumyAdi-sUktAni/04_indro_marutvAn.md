@@ -1649,6 +1649,18 @@ Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verl
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fleeing from the snorting of Vṛtra,  
+all the gods, who were your companions, abandoned you;  
+with the Maruts let your friendship be, O Indra.
+
+Then you will conquer all these armies.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2383,3 +2395,14 @@ Er, der ein Stier ist, reich an Stiereskräften des grossen Himmels und der Erde
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who is the bull, sharing a common dwelling with bull-like powers,  
+sovereign of great heaven and earth,  
+of true nature, to be invoked in battles—  
+may Indra, accompanied by the Maruts, be present for our aid.
+</details>
+</details>

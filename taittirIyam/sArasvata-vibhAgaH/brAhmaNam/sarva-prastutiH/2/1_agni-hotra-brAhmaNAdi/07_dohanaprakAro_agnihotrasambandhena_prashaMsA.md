@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Belonging to Rudra in the cow;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पते॒रुन्नी॑तम् ।
@@ -33,6 +38,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Vāyu when let loose \[to the calf\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +67,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to the Aśvins when being milked;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒य॒व्य॑मुप॑सृष्टम् ।
@@ -74,6 +89,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Soma when milked;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -98,6 +118,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Varuṇa when placed on the fire;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒रु॒णमधि॑श्रितम् ।
@@ -120,6 +145,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to the Viśvedevas are the drops;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -144,6 +174,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Pūṣan when boiling up;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒ष्णमुद॑न्तम् ।
@@ -161,6 +196,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Sarasvatī when overflowing;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -185,6 +225,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Mitra the scum;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒ष्णमुद॑न्तम्।
@@ -207,6 +252,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Dhātṛ
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +281,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when removed \[from the fire\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒तुरुद्वा॑सितम् ।
@@ -253,6 +308,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Bṛhaspati when ladled out;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +337,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Savitṛ when stepped forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
@@ -294,6 +359,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to heaven and earth
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -318,6 +388,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when being carried;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नमुप॑सन्नम् ।
@@ -335,6 +410,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Indra
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -359,6 +439,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and Agni when set down;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम्।
@@ -381,6 +466,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Agni the first oblation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -405,6 +495,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Prajāpati the second;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते॒रुत्त॑रा ।
@@ -427,6 +522,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Indra when offered.
+</details>
 
 <details><summary>मूलम्</summary>
 

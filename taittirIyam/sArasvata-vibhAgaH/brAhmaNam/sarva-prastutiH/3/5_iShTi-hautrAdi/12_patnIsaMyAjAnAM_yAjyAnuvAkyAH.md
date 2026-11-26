@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Swell up', 'Together with you',
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप्या॑यस्व॒ सन्ते॑ ।  
@@ -74,6 +79,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Here Tvaṣṭṛ, the foremost', 'That virile seed of ours'—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -488,6 +498,17 @@ Der Götter Frauen mögen gern uns hülfreich sein, zu Kinderschar und reichem G
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the wives of the gods, longing, favor us;  
+may they favor us for offspring and the winning of booty.  
+Those that are of the earth and those that are in the realm of waters,  
+let those goddesses, easily invoked, grant us protection!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -834,6 +855,17 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And may the divine wives, the women, come:  
+Indrāṇī, Agnāyī, Aśvinī the queen;  
+may Rodasī and Varuṇānī listen;  
+may the goddesses come, for it is the season of the wives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि᳓र् हो᳓ता गृह᳓पतिस्स᳓ रा᳓जा ।  
@@ -1174,6 +1206,18 @@ Agni ist Priester, Hausgebieter, König; der Wesenkenner kennet alle Wesen; Der 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the Hotṛ, the master of the house, he the king;  
+he knows all births, Jātavedas;  
+of the gods and of mortals,  
+as the best sacrificer, true to cosmic order, may he sacrifice!  
+And we, O Agni, master of the house of the people,
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1527,3 +1571,13 @@ Wir haben dich, o Agni, Hausherr der Menschen, gross gemacht durch Brennholz; vi
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+have made you great with kindling wood;  
+unflagging may our household fires be;  
+sharpen us with sharp fiery energy!
+</details>
+</details>

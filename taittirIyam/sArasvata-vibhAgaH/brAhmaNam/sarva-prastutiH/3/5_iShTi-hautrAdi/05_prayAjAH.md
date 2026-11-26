@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the firesticks partake of the ghee, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मिधो॑ अग्न॒ आज्य॑स्य वियन्तु ।
@@ -27,6 +32,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Tanūnapāt partake of the ghee, O Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -46,6 +56,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Iḍās partake of the ghee, O Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒डो अ॑ग्न॒ आज्य॑स्य वियन्तु ।   
@@ -63,6 +78,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the strew partake of the ghee, O Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +104,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Agni!  
+Svāhā to Soma!  
+Svāhā to Agni!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ऽग्निम् ।  
@@ -103,6 +130,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Prajāpati!  
+Svāhā to Agni and Soma!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -125,6 +158,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Indra and Agni!  
+Svāhā to Indra!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॒ऽग्नीषोमौ॑ ।   
@@ -144,6 +183,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Mahendra!  
+Svāhā to the ghee-drinking gods!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -165,6 +210,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Svāhā to Agni! Delighting from the hotr office,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाहा॑ दे॒वाँ आ॑ज्य॒पान् ।   
@@ -183,6 +233,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they partake of the ghee, O Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That there is \[an oblation\] to Agni:  
+for success has Agni at its head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा॑ग्ने॒यो भव॑ति ।
@@ -34,6 +40,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Pūṣan:  
+Pūṣan is nourishment;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -60,6 +72,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+nourishment belongs to the Vaiśya;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्टि॒र्वैश्य॑स्य ।
@@ -78,6 +95,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures nourishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्टि॑मे॒वाव॑रुन्धे ।
@@ -95,6 +117,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[The oblation\] to Savitṛ is for impulsion.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -120,6 +147,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to Tvaṣṭṛ:  
+Tvaṣṭṛ fashions forms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यत्त्वा॒ष्ट्रः ।  
@@ -144,6 +177,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[The oblation\] to Varuṇa is for freedom from Varuṇa's \[fetters\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒र्व॒रु॒ण॒त्वाय॑ वारु॒णः ॥5॥
@@ -166,6 +204,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, whosoever is consecrated  
+belongs to Varuṇa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -192,6 +236,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to the All-gods:  
+the Vaiśya belongs to the All-gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यद्वै॑श्वदे॒वः ।   
@@ -217,6 +267,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then that there is \[one\] to the Maruts:  
+the Vaiśya belongs to the Maruts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यन्मा॑रु॒तः ।   
@@ -241,6 +297,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These offerings are seven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तैतानि॑ ह॒वीँषि॑ भवन्ति ।
@@ -264,6 +325,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Maruts are seven troops.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तग॑णा॒ वै म॒रुतः॑ ।
@@ -281,6 +347,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A speckled, six-year-old cow is seized for the Maruts.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +375,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The people are the Maruts;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -330,6 +406,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from the midst of the people he is consecrated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश॑ ए॒वैतन्म॑ध्य॒तो॑ऽभिषि॑च्यते ।
@@ -347,6 +428,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore he is dear to the people,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -366,6 +452,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for he is consecrated from the midst of the people.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒शो हि म॑ध्य॒तो॑ऽभिषि॒च्यते॑ ।
@@ -383,6 +474,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles him upon a bull's hide;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -402,6 +498,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for \[the bull\] is a procreator.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स हि प्र॑जनयि॒ता ।
@@ -419,6 +520,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles him with curd.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +544,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Curd is vigor and edible food;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ग्वा अ॒न्नाद्य॒न्दधि॑ ।
@@ -455,6 +566,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with vigor and edible food he endows him.
+</details>
 
 <details><summary>मूलम्</summary>
 

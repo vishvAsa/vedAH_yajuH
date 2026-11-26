@@ -505,6 +505,17 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Abounding in fatness, increasing wealth, highly wise,  
+white, the beauty of the team of horses attaches itself \[to him\];  
+they, of one mind, have dispersed for Vāyu;  
+all the heroes have produced good offspring.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -514,6 +525,11 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Following wealth, both heaven and earth brought him forth;
+</details>
 
 <details><summary>सायण-टीका</summary>
 
@@ -530,6 +546,15 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for wealth the divine Dhiṣaṇā establishes the god;  
+then his own teams attend upon Vāyu,  
+and upon the white vessel of treasures in seclusion.  
+\[The hymns\] "O Vāyu, \[come\] hither", "Forward with those \[teams\]",  
+and "Forward toward Vāyu the lofty prayer..."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -564,6 +589,11 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[are recited\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -611,6 +641,12 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[Possessing\] great wealth, desirable to all, chariot-filling,  
+of shining path, master of the teams of steeds,
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हद्र॑यिव्ँ वि॒श्ववा॑राँ रथ॒प्राम् ।   
@@ -646,6 +682,14 @@ Der Vielgespanne lichter, weiser Lenker liebt die, die fette Speis' und Gaben br
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+as a poet to a poet do you sacrifice, O worthy of sacrifice!  
+Come to our sacrificial rite with your teams by the hundreds,  
+approach our sacrifice with thousands!  
+O Vāyu, rejoice in this oblation!
+</details>
 
 <details><summary>मूलम्</summary>
 

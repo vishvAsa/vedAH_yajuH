@@ -11,6 +11,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Agni accepted gold,  
+half of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वा अ॒ग्नेर्हिर॑ण्यम्प्रतिजग्र॒हुषः॑ ।
@@ -51,6 +57,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -78,6 +89,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed half of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +124,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Half of the faculty he places into himself,  
+who, knowing thus, accepts gold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्धमि॑न्द्रि॒यस्या॒त्मन्नु॒पाध॑त्ते ।
@@ -132,6 +154,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+half of his faculty departs.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -163,6 +191,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Soma accepted a garment,  
+a third of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वै सोम॑स्य॒ वास॑ᳶ प्रतिजग्र॒हुषः॑ ।  
@@ -182,6 +216,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -199,6 +238,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed a third of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -218,6 +262,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A third of the faculty he places into himself,  
+who, knowing thus, accepts a garment.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +289,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+a third of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -259,6 +315,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Rudra accepted a cow,  
+a fourth of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वै रु॒द्रस्य॒ गाम्प्र॑तिजग्र॒हुष॑श्  
@@ -278,6 +340,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तामे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -295,6 +362,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed a fourth of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -314,6 +386,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A fourth of the faculty he places into himself,  
+who, knowing thus, accepts a cow.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +413,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+a fourth of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -355,6 +439,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Varuṇa accepted a horse,  
+a fifth of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वै वरु॑ण॒स्याश्व॑म्प्रतिजग्र॒हुष॑ᳶ  
@@ -374,6 +464,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -391,6 +486,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed a fifth of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +510,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A fifth of the faculty he places into himself,  
+who, knowing thus, accepts a horse.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -431,6 +537,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+a fifth of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -451,6 +563,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Prajāpati accepted a human,  
+a sixth of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वै प्र॒जाप॑ते॒ᳶ पुरु॑षम्प्रतिजग्र॒हुषः॑ ।  
@@ -470,6 +588,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted him with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -487,6 +610,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed a sixth of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -506,6 +634,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A sixth of the faculty he places into himself,  
+who, knowing thus, accepts a human.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -527,6 +661,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+a sixth of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -547,6 +687,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Manu accepted a couch,  
+a seventh of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वै मनो॒स्तल्प॑म्प्रतिजग्र॒हुषः॑ ।  
@@ -566,6 +712,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमे॒तेनै॒व प्रत्य॑गृह्णात् ।
@@ -583,6 +734,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed a seventh of the faculty into himself.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -602,6 +758,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A seventh of the faculty he places into himself,  
+who, knowing thus, accepts a couch.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +785,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+a seventh of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -643,6 +811,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Uttāna Āṅgirasa accepted an inanimate thing,  
+an eighth of his faculty departed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य॒ वा उ॑त्ता॒नस्या॑ङ्गीर॒सस्याप्रा॑णत्प्रतिजग्र॒हुषः॑ ।  
@@ -661,6 +835,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He accepted it with this very \[formula\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -698,6 +877,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by it he placed an eighth of the faculty into himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेन॒ वै सो॑ऽष्ट॒ममि॑न्द्रि॒यस्या॒त्मन्नु॒पाध॑त्त ।
@@ -716,6 +900,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An eighth of the faculty he places into himself,  
+who, knowing thus, accepts an inanimate thing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -788,6 +978,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who accepts unknowing,  
+an eighth of his faculty departs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ योऽवि॑द्वान्प्रतिगृ॒ह्णाति॑ ।  
@@ -807,6 +1003,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever there is here,  
+all that Uttāna Āṅgirasa accepted;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -835,6 +1037,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it did not injure him when accepted.  
+Whatever one accepts,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदे॑न॒म्प्रति॑गृहीत॒न्नाहि॑नत् ।
@@ -853,6 +1061,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+one should accept it all only with the words, 'May Uttāna Āṅgirasa accept you!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -873,6 +1086,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This \[earth\] indeed is Uttāna Āṅgirasa;  
+by means of her he accepts it;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +1124,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it does not injure him.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He undertakes the Agniṣṭoma at first;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नि॒ष्टो॒ममग्र॒ आह॑रति ।
@@ -34,6 +39,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Agniṣṭoma indeed is the opening of the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञ॒मु॒खव्ँ वा अ॑ग्निष्टो॒मः ।
@@ -51,6 +61,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having begun at the opening of the sacrifice, he advances to the consecratory rite.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -75,6 +90,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then this consecratory rite has a thirty-four-fold Pavamāna;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथै॒षो॑ऽभिषेच॒नीय॑श्चतुस्त्रिँ॒शप॑वमानो भवति ।
@@ -97,6 +117,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thirty-three indeed are the deities;  
+he attains them;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -123,6 +149,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is the thirty-fourth;  
+him indeed he attains.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिश्चतुस्त्रिँ॒शः ।  
@@ -141,6 +173,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is a destruction of the chants out of normal order,  
+in that the chants are uneven.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +205,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrifice is just as much  
+as the Pavamānas are.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तावा॒न् वै य॒ज्ञः ।  
@@ -185,6 +229,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Another, however, is the interior fastening;  
+in that the Pavamānas are even;  
+thereby there is no destruction;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -211,6 +262,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+thereby it is according to the normal order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनाऽसँ॑शरः ।
@@ -235,6 +291,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through himself, through the Agniṣṭoma, he thrives;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मनै॒वाग्नि॑ष्टो॒मेन॒र्ध्नोति॑ ।
@@ -258,6 +319,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through himself he becomes pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मना॒ पुण्यो॑ भवति ।
@@ -280,6 +346,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Ukthas indeed are offspring;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -306,6 +377,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Ukthas are domestic animals;  
+in that it is an Ukthya, \[it is\] for continuous succession.
+</details>
 
 <details><summary>मूलम्</summary>
 

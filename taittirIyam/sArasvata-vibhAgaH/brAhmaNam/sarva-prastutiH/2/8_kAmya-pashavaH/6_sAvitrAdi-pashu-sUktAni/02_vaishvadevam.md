@@ -818,6 +818,17 @@ Uns sein zum Heil der Götterallheit Götter, Sarasvati mit Göttinnen der Andac
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Sarasvatī together with prayers bring peace.
+
+Peace from those who attend \[us\], peace from the bestowers of gifts!  
+Peace to us from the heavenly, the earthly, and the watery!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1139,6 +1150,17 @@ Ihr Götter alle, die ihr in dem Gesetz des wahrhaft belebenden Savitar und des 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those all-gods who are in the ordinance of Savitṛ of true impulsion,  
+of Mitra, and of Varuṇa,  
+do you place in us good fortune, possessions rich in heroes and cattle,  
+and diverse wealth!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1493,6 +1515,17 @@ Geh aus auf Botschaft, Agni, säume nimmer, hin zu den Göttern mit der Schar de
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, go as an envoy, you who are worthy to be chosen,  
+toward the gods with the host that performs the brahman!  
+Worship Sarasvatī, the Maruts, the Aśvins, the Waters,  
+and all the gods, for the bestowing of treasures!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1849,6 +1882,19 @@ O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Adit
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Father Heaven, O Mother Earth, who do not deceive,  
+O brother Agni, O Vasus, be gracious to us!  
+All you Ādityas, harmonious with Aditi,  
+extend abundant protection to us!  
+O all-gods, hear this call of mine,  
+you who are in the midspace and you who abide in heaven,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2384,3 +2430,12 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you whose tongue is Agni, and who are worthy of worship;  
+seated on this barhis-grass, rejoice!
+</details>
+</details>

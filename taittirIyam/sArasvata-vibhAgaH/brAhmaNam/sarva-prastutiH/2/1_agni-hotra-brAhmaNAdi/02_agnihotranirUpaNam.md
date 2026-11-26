@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created Agni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिर॒ग्निम॑सृजत ।
@@ -36,6 +41,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offspring were created after him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्र॒जा अन्व॑सृज्यन्त ।
@@ -54,6 +64,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being portionless, he waited upon him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम॑भा॒ग उपा॑स्त ।
@@ -71,6 +86,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He departed from him with his offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -94,6 +114,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Desiring to recover him, \[Prajāpati\] followed after him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -119,6 +144,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He could not recover him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम॑व॒रुध॒न्नाश॑क्नोत् ।
@@ -136,6 +166,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He performed tapas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -160,6 +195,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That Agni paused, thinking:
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽग्निरुपा॑रम॒ताता॑पि॒ वै स्य प्र॒जाप॑ति॒रिति॑ ।
@@ -182,6 +222,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Verily this Prajāpati has performed tapas.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -206,6 +251,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That became clarified butter.  
+Therefore, he whose hair is swept away on the right side,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -234,6 +285,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they call that the elder mark derived from Prajāpati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्र॒राटा॑दु॒दमृ॑ष्ट ।
@@ -253,6 +309,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because he swept it upwards from the forehead,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -279,6 +340,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore there is no hair on the forehead.  
+He held it towards the fire.  
+He hesitated:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्व्य॑चिकित्सत् ।
@@ -303,6 +371,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Shall I offer, or shall I not offer?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद्वि॑चिकि॒त्सायै॒ जन्म॑ ।
@@ -326,6 +399,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That was the origin of hesitation.  
+He who, knowing thus, hesitates,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -353,6 +432,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he perceives what is better.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तव्ँ वाग॒भ्य॑वदज्जु॒हुधीति॑ ।
@@ -378,6 +462,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Speech addressed him: 'Offer!'  
+He said:
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् -
@@ -397,6 +487,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Who are you?'  
+'I am your own speech,' she said.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वैव ते॒ वागित्य॑ब्रवीत् ।
@@ -414,6 +510,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered, saying 'Svāhā.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -441,6 +542,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the origin of the utterance 'svāhā'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्स्वा॑हाका॒रस्य॒ जन्म॑ ।
@@ -459,6 +565,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows the origin of the utterance 'svāhā',  
+performs heroic power by the utterance 'svāhā'.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +597,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whoever, knowing thus, they offer with the utterance 'svāhā',
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्यै॒वव्ँवि॒दुष॑स्स्वाहाका॒रेण॒ जुह्व॑ति ॥6॥  
@@ -510,6 +627,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+his offering turns out for enjoyment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्या॒ आहु॑त्यै॒ पुरु॑षमसृजत ।
@@ -527,6 +649,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For that offering he created man.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -546,6 +673,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered a second time;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोऽश्व॑मसृजत ।
@@ -563,6 +695,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he created the horse.  
+He offered a third time;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -582,6 +720,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he created the cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स गाम॑सृजत ।
@@ -599,6 +742,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered a fourth time;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -618,6 +766,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he created the sheep.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोऽवि॑मसृजत ।
@@ -636,6 +789,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered a fifth time;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒ञ्च॒मम॑जुहोत् ।
@@ -653,6 +811,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he created the goat.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +836,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni was afraid:  
+'With oblations indeed he reaches me.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -699,6 +868,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He entered Prajāpati again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स प्र॒जाप॑ति॒म्पुन॒ᳶ प्रावि॑शत् ।
@@ -716,6 +890,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati said to him:  
+'Be born.'  
+He said:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -741,6 +922,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'What portion shall I have when born?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् ।
@@ -764,6 +950,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'To you indeed let this be offered,' he said.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -789,6 +980,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He was born to this portion,  
+namely, the Agnihotra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तद्भा॑ग॒धेय॑म॒भ्य॑जायत ।  
@@ -807,6 +1004,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore it is called the Agnihotra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -832,6 +1034,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When that was being offered, Āditya said:  
+'Do not offer.  
+This belongs to both of us.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -861,6 +1070,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni said:  
+'How will they offer to the two of us?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽग्निर॑ब्रवीत् ।  
@@ -879,6 +1094,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'In the evening let them offer to you,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -902,6 +1122,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the morning to me,' he said.  
+Therefore, in the evening it is for Agni,  
+in the morning for Sūrya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒तर्मह्य॒मित्य॑ब्रवीत् ।  
@@ -923,6 +1150,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The night belongs to Agni;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ने॒यी वै रात्रिः॑ ।
@@ -940,6 +1172,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the day belongs to Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -959,6 +1196,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one should offer in the morning when the sun has not risen,  
+both would belong to Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -985,6 +1228,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers in the morning when the sun has risen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदि॑ते॒ सूर्ये॑ प्रा॒तर्जु॑होति ।
@@ -1003,6 +1251,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus in the evening it is offered to Agni,  
+in the morning to Sūrya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,6 +1283,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Following the night, indeed, offspring are born;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रात्रिव्ँ॒ वा अनु॑ प्र॒जाᳶ प्रजा॑यन्ते ।
@@ -1051,6 +1310,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by day they stand firm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,6 +1339,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he offers in the evening,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1102,6 +1371,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that he is brought forth.  
+He offers in the morning when the sun has risen;  
+by that he stands firm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदि॑ते॒ सूर्ये॑ प्रा॒तर्जु॑होति ।  
@@ -1121,6 +1397,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired: 'May I propagate offspring.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1427,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He saw this Agnihotra as a pair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तद॑ग्निहो॒त्रम्मि॑थु॒नम॑पश्यत् ।
@@ -1165,6 +1451,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offered that when the sun had risen:  
+one with a sacrificial formula,  
+the other silently.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1186,6 +1479,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon, indeed, he propagated offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै स प्राजा॑यत ।
@@ -1206,6 +1504,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him who knows thus, when they offer the Agnihotra after the sun has risen,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1236,6 +1539,16 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is brought forth.  
+And also, just as one walks by day knowing the way,  
+just like that is this.  
+Moreover, they say:  
+'In whose house two worthy men reside,  
+if he satisfies one of them and not the other,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1271,6 +1584,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he runs into the wrath of both.'  
+Āditya indeed enters Agni in the evening;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निव्ँ वावादि॒त्यस्सा॒यम्प्रवि॑शति ।
@@ -1296,6 +1615,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore Agni is seen from afar at night,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द॒ग्निर्दू॒रान्नक्त॑न्ददृशे ।
@@ -1313,6 +1637,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for both their fiery energies are united.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1332,6 +1661,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni indeed mounts after the rising Āditya;  
+therefore only the smoke of Agni is seen by day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒द्यन्तव्ँ॒वावादि॒त्यम॒ग्निरनु॑स॒मारो॑हति ।
@@ -1349,6 +1684,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer in the evening to Agni,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1368,6 +1708,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would be cut off from Sūrya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1397,6 +1742,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he were to offer in the morning to Sūrya,  
+he would be cut off from Agni;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्सूर्या॑य प्रा॒तर्जु॑हु॒यात् ।  
@@ -1416,6 +1767,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would set conflict among the deities.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1442,6 +1798,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Agni is light, light is Sūrya, svāhā'—thus indeed one should offer in the evening.  
+'Sūrya is light, light is Agni, svāhā'—thus in the morning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यो॒ ज्योति॒र्ज्योति॑र॒ग्निस्स्वाहेति॑ प्रा॒तः ।
@@ -1459,6 +1821,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus in the evening it is offered to both,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1478,6 +1845,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the morning to both;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भाभ्या॑म्प्रा॒तः ।
@@ -1495,6 +1867,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he does not set conflict among the deities.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1514,6 +1891,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Agni is light.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्ज्योति॒रित्या॑ह ।
@@ -1531,6 +1913,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, indeed, is the placer of seed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1550,6 +1937,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Offspring is light,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा ज्योति॒रित्या॑ह ।
@@ -1567,6 +1959,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he propagates offspring for him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1586,6 +1983,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Sūrya is light,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यो॒ ज्योति॒रित्या॑ह ।
@@ -1603,6 +2005,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places seed in the offspring that have been born.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1622,6 +2029,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Light is Agni, svāhā,' he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्योति॑र॒ग्निस्स्वाहेत्या॑ह ।
@@ -1639,6 +2051,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he establishes the born offspring firmly upon this \[earth\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1658,6 +2075,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers the second oblation silently,  
+for pairing, for propagation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1687,6 +2110,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should offer in the morning when the sun has risen,  
+just as when they bring food for a guest who has departed to an empty dwelling,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदुदि॑ते॒ सूर्ये॑ प्रा॒तर्जु॑हु॒यात् ।
@@ -1715,6 +2144,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+such indeed is that.  
+'Where then does that go?' they say,  
+'since he does not know it,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1751,6 +2187,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he for whom they bring it?'  
+Therefore when he offers at dawn,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒द्यदौ॑ष॒सञ्जु॒होति॑ ।
@@ -1775,6 +2217,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that alone is proper.  
+And also, just as one serves in accordance with the need at dawn,  
+such indeed is that.
+</details>
 
 <details><summary>मूलम्</summary>
 

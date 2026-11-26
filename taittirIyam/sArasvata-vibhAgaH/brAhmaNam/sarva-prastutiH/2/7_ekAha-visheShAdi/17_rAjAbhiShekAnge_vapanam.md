@@ -3,6 +3,7 @@ title: १७ राजाभिषेकाङ्गे वपनम्
 unicode_script: devanagari
 
 ---
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -20,6 +21,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those long-haired ones who first sat at the sacrificial session,  
+by whom that which shines forth here was brought near—  
+to them I offer abundantly with ghee;  
+unite him with prosperity of wealth, with brilliance!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -58,6 +67,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without brahman and ascetic fervor there is no release;  
+having two names, the consecration is indeed dominant and fierce;  
+the hairs sprout, they become jointed stalks;  
+brahman alone has power over their shaving, no other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नर्ते ब्रह्म॑ण॒स्तप॑सो विमो॒कः ।  
@@ -94,6 +111,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount the bench, overcome the enemies;  
+the consecration has come down, dominant and fierce.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -132,6 +155,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Give the sacrificial gift, extend your lifespan;  
+then be released from Varuṇa's noose.  
+With which razor Savitṛ shaved,  
+knowing \[the head\] of King Soma and of Varuṇa,  
+with that, O Brahmins, shave this \[head\] of his;
+</details>
+
 <details><summary>मूलम्</summary>
 
 येनाव॑पत्सवि॒ता क्षु॒रेण॑ ।  
@@ -164,17 +196,34 @@ unicode_script: devanagari
 मा᳓ ते के᳓शान᳓नु गाद्व᳓र्च एत᳓त् ।  
 त᳓था धाता᳓ करोतु ते ।  
 तु᳓भ्यमि᳓न्द्रो बृ᳓हस्प᳓तिः ।  
-सविता᳓ व᳓र्च आ᳓दधात् ॥60॥    
+सविता᳓ व᳓र्च आ᳓दधात् ॥60॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/17_rAjAbhiShekAnge_vapanam/05_mA_te_keshAnanu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
 
-<details><summary>मूलम्</summary>
+unite him with vigor, with wealth, with brilliance!  
+Let not this brilliance depart following your hairs;  
+so may Dhātṛ do for you;  
+to you Indra, Bṛhaspati,  
+and Savitṛ have bestowed brilliance.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 मा ते॒ केशा॒ननु॑ गा॒द्वर्च॑ ए॒तत् ।  
 तथा॑ धा॒ता क॑रोतु ते ।  
 तुभ्य॒मिन्द्रो॒ बृह॒स्पतिः॑ ।  
-स॒वि॒ता वर्च॒ आद॑धात् ॥60॥    
+स॒वि॒ता वर्च॒ आद॑धात् ॥60॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+मा ते केशाँ अनु गाद् वर्च एतत्  
+तथा धाता दधातु ते ।  
+तुभ्यम् इन्द्रो वरुणो बृहस्पतिः  
+सविता वर्च आ दधन् ॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -187,6 +236,7 @@ unicode_script: devanagari
 हे राजन्, ते वर्चो वलं केशाननु मा गात् माऽपगच्चछतु । ते तवैतद्यथा भवति तथा धाता करोतु । तुभ्यं त्वदर्थमिन्द्रबृहस्पतिसवितारो नूतनमप्यधिकं वर्चो बलं संपादयन्तु ॥
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -205,6 +255,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For them they sought out a deposit in many places  
+between heaven and earth, the waters, and the sun;  
+placing it upon a clump of darbha grass made into heroic power,  
+unite him with virility, with brilliance!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -242,6 +300,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Savitṛ place strength in your two arms;  
+may Soma anoint you with milk and ghee;  
+place this form in women, O Aśvins;  
+unite him with virility, with brilliance!  
+Where the comb scratched your parting,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -281,6 +348,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or where the razor passed over as it shaved you,  
+place this form in women, O Aśvins;  
+unite him with virility, with heroic power!
+</details>
 
 <details><summary>मूलम्</summary>
 

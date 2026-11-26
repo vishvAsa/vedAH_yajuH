@@ -549,6 +549,13 @@ sákhāyaḥ ← sákhi- (nominal stem)
 स᳓खाया इ᳓न्द्रम् ऊत᳓ये
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+योगे योगे तपस्तरं  
+वाजे वाजे हवामहे ।  
+सखाय इन्द्रम् ऊतये ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 योगे॑ऽयोगे । त॒वःऽत॑रम् । वाजे॑ऽवाजे । ह॒वा॒म॒हे॒ ।  
@@ -1053,6 +1060,14 @@ and you have stretched along the rays of the sun in many places, along heaven an
 अन्व् अहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
 अनु॒ सूर्य॑स्य पुरु॒त्रा च॑ र॒श्मीन् ।   
 अनु॒ द्यावा॑-पृथि॒वी आत॑तान ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अन्व् अग्निर् उषसाम् अग्रम् अख्यद्  
+अन्व् अहानि प्रथमो जातवेदाः ।  
+अनु सूर्यस्य पुरुत्रा च रश्मीन्  
+अनु द्यावापृथिवी आ ततान ॥
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>

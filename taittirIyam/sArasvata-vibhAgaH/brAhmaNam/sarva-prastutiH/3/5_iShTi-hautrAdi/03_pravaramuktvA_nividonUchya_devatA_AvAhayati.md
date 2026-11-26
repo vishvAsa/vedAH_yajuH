@@ -22,6 +22,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, great are you, O Brahmin, O Bhārata,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्ने॑ म॒हाँ अ॑सि ब्राह्मण भारत ।  
@@ -67,6 +72,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+N.N.!
+</details>
+
 <details><summary>मूलम्</summary>
 
 असा॒वसौ॑ ।  
@@ -89,6 +99,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled by the gods, kindled by Manu,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -118,6 +133,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+praised by the ṛṣis, celebrated by sages,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋषि॑ष्टुतो॒ विप्रा॑नुमदितः ।  
@@ -140,6 +160,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+lauded by poets, sharpened by brahman, invoked with ghee,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -164,6 +189,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the leader of sacrifices,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒णीर्य॒ज्ञाना॑म् ।  
@@ -186,6 +216,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the charioteer of sacrificial rites,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +245,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the unassailable Hotṛ,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒तूर्तो॒ होता॑ ।  
@@ -232,6 +272,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the swift bearer of oblations,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -256,6 +301,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the mouth-vessel, the offering-spoon of the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आस्पात्र॑ञ्जु॒हूर्दे॒वाना॑म् ॥5॥  
@@ -278,6 +328,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the cup from which the gods drink.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -306,6 +361,11 @@ unicode_script: devanagari
 <details><summary>Eggeling</summary>
 
 15. Further, 'Thou, O Agni! dost encompass the gods, as the felly the spokes;'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As a rim surrounds the spokes, O Agni, you surround the gods.
 </details>
 
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
@@ -367,6 +427,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring the gods hither for the sacrificer!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ व॑ह दे॒वान् यज॑मानाय ।  
@@ -399,6 +464,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Agni hither, O Agni!  
+Bring Soma hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निम॑ग्न॒ आव॑ह ।  
@@ -423,6 +494,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Agni hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निमाव॑ह ।  
@@ -445,6 +521,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Prajāpati hither!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -469,6 +550,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Agni and Soma hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नीषोमा॒वाव॑ह ।   
@@ -491,6 +577,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Indra and Agni hither!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -516,6 +607,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Indra hither!  
+Bring Mahendra hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॒माव॑ह ।    
@@ -540,6 +637,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring the ghee-drinking gods hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वाँ आ॑ज्य॒पाँ आव॑ह ।  
@@ -562,6 +664,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring Agni hither for the hotr office!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -586,6 +693,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring your own greatness hither!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वम्म॑हि॒मान॒माव॑ह ।  
@@ -609,6 +721,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+And bring the gods hither, O Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ चा॑ग्ने दे॒वान् वह॑ ।  
@@ -631,6 +748,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and sacrifice with good sacrifices, O Jātavedas!
+</details>
 
 <details><summary>मूलम्</summary>
 

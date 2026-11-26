@@ -23,6 +23,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Continue exhalation from lifespan;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑षᳶ प्रा॒णँ सन्त॑नु ।
@@ -45,6 +50,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue inhalation from exhalation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -69,6 +79,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue diffused breath from inhalation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पा॒नाद् व्या॒नँ सन्त॑नु ।
@@ -92,6 +107,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue sight from diffused breath;
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्या॒नाच् चक्षु॒स् सन्त॑नु ।
@@ -114,6 +134,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue hearing from sight;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +165,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue mind from hearing;  
+continue speech from mind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रोत्रा॒न् मन॒स् सन्त॑नु ।
@@ -165,6 +196,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue the self from speech;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒च आ॒त्मानँ॒ सन्त॑नु ।
@@ -188,6 +224,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue the earth from the self;  
+continue the intermediate region from the earth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +255,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue heaven from the intermediate region;  
+continue the light of heaven from heaven.
+</details>
 
 <details><summary>मूलम्</summary>
 

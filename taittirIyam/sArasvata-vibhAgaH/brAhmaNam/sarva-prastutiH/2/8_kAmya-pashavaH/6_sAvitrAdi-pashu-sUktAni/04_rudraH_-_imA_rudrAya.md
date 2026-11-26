@@ -353,6 +353,15 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These songs to Rudra of the firm bow,  
+of swift arrows, the self-ruling god,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -370,6 +379,11 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+unconquerable, overpowering, the bountiful,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +415,11 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+of sharp weapons—bring them and hear!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -831,6 +850,15 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Drive far away hatred from us, drive away distress,  
+drive away the diseases in every direction!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1306,6 +1334,15 @@ Es nahe deine Huld, o Marut-Vater, nicht halte fern uns von der Sonne Anblick; D
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May your favor come, O father of the Maruts!  
+Do not separate us from the sight of the sun!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1689,3 +1726,11 @@ Als solcher dich, o brauner Stier, erweisend, der nicht, o Gott, du zürnest, no
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May our hero hold his own upon his steed!
+</details>
+</details>

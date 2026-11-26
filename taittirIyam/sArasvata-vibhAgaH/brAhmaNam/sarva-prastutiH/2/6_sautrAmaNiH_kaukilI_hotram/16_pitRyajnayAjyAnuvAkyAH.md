@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Fathers, releasing from distress, devoted to soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒शन्त॑स्त्वा हवामह॒ आ नो॑ अग्ने सुके॒तुना॑ ।  
@@ -53,6 +58,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+becoming immortal, both higher and lower,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -91,6 +101,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they speak in our favor, may they protect us,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -237,6 +252,12 @@ may those sages, easily invoked, be gracious to us; may they bring welfare to ou
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Arising, the lower and the higher,  
+consumed by fire, in agreement with the seasons,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निष्वा॒त्ता येऽन॑ग्निष्वात्ताः ॥75॥  
@@ -274,6 +295,12 @@ may those sages, easily invoked, be gracious to us; may they bring welfare to ou
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+accompanied by Indra, may they enjoy this oblation.  
+When, O Agni, bearer of ancestral oblations; you, O Agni, praised, O Jātavedas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒न्या॑यै दु॒ग्धे जु॒षमा॑णाᳵ कर॒म्भम् ।  
@@ -300,6 +327,12 @@ may those sages, easily invoked, be gracious to us; may they bring welfare to ou
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mātali with the ancestral offerings;  
+who, yearning among the gods, took delight;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -683,6 +716,14 @@ Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang g
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Serving Agni, the conveyor of oblations, ageless, dear to many,  
+with clarified butter, with the offering,  
+I have approached the ancestral oblation-bearer of the Fathers;  
+May he unite us with offspring rich in heroes!
+</details>
 
 <details><summary>मूलम्</summary>
 

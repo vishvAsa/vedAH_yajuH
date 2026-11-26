@@ -13,6 +13,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Discussers of sacred lore say:  
+'What is the caturhotṛ-nature of the Caturhotṛ formulas?'  
+Because the hotṛ priests are fourfold in them,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।
@@ -57,6 +64,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore they are the Caturhotṛs;  
+therefore they are called Caturhotṛs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदे॒वैषु च॑तु॒र्धा होता॑रः ।
@@ -95,6 +108,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the caturhotṛ-nature of the Caturhotṛ formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तच्चतु॑र्होतृणाञ्चतुर्होतृ॒त्वम् ।
@@ -123,6 +141,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma indeed is the Caturhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ वै चतु॑र्होता ।
@@ -146,6 +169,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the Pañcahotṛ;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -173,6 +201,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dhātṛ is the Ṣaḍḍhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता षड्ढो॑ता ।
@@ -197,6 +230,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is the Saptahotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्स॒प्तहो॑ता ॥1॥
@@ -214,6 +252,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is the Daśahotṛ.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -242,6 +285,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows the prosperity of the Caturhotṛ formulas,  
+he indeed prospers.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +321,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows their kinship,  
+he comes to possess kin.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -310,6 +365,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows their proper order,  
+it is properly ordered for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॑षामे॒वङ्कॢप्तिव्ँ॒वेद॑ ।
@@ -339,6 +400,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows their proper domain,  
+he comes to possess a proper domain.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -374,6 +441,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thus knows their firm foundation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॑षामे॒वम्प्र॑ति॒ष्ठाव्ँ वेद॑ ॥2॥
@@ -391,6 +463,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he stands firmly.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +487,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Discussers of sacred lore say:  
+'The Daśahotṛ, the Caturhotṛ,  
+the Pañcahotṛ, the Ṣaḍḍhotṛ, the Saptahotṛ—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -448,6 +532,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then why are they called Caturhotṛs?'  
+Indra indeed is the Caturhotṛ;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॒ वै चतु॑र्होता ।
@@ -477,6 +567,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is indeed the highest of deities by instruction.  
+He who thus knows Indra to be the highest of deities by instruction,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -514,6 +610,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he becomes the most distinguished among his peers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वमिन्द्रँ॒ श्रेष्ठ॑न्दे॒वता॑नामुप॒देश॑ना॒द्वेद॑ ।
@@ -542,6 +643,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, as the highest person approaches, they notice him at the first \[step\]:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +678,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Here he has come;  
+here he has taken up residence.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒यमाग॑न् ।
@@ -600,6 +712,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+His fame arrives beforehand among the people as he approaches;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -630,6 +747,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and they notice him at the first \[step\]:  
+'Here he has come;  
+here he has taken up residence.'
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -26,6 +26,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that I consecrated myself with mind and with speech,  
+or with the breaths, with sight, and with hearing,  
+with seed, with a partner, and with self—  
+from the waters the worlds have established fiery energy and sensory power.  
+Bright, releasing from the consecration, from ascetic heat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्दि॑दी॒क्षे मन॑सा॒ यच्च॑ वा॒चा ।  
@@ -58,6 +67,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the releasing waters \[establish\] in me fiery energy and sensory power!  
+In that I consecrated myself with ṛc, with sāman, with yajus,  
+on the hide of cattle, with the oblation,  
+in that with meters, with plants, on a tree—  
+from the waters the worlds have established fiery energy and sensory power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -93,6 +111,17 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bright, releasing from the consecration, from ascetic heat,  
+may the releasing waters \[establish\] in me fiery energy and sensory power!  
+Whereby brahman, whereby regal power,  
+whereby Indra and Agni, Prajāpati, Soma, Varuṇa the king,  
+the All-Gods, the sages, whereby the breaths \[are established\]—  
+from the waters the worlds have established fiery energy and sensory power.  
+Bright, releasing from the consecration, from ascetic heat,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -134,6 +163,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the releasing waters \[establish\] in me fiery energy and sensory power!  
+You are the flower of the waters, the sap of the plants,  
+the dear domain of Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम्पुष्प॑म॒स्योष॑धीनाँ॒ रसः॑ ।  
@@ -161,6 +197,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The dearest oblation of Agni, svāhā!  
+You are the flower of the waters, the sap of the plants,  
+the dear domain of Soma,  
+the dearest oblation of Indra, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम्पुष्प॑म॒स्योष॑धीनाँ॒ रसः॑ ।  
@@ -187,6 +231,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the flower of the waters, the sap of the plants,  
+the dear domain of Soma,  
+the dearest oblation of the All-Gods, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -223,6 +274,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we, O Soma, in your observance,  
+filling our minds in our bodies,  
+reach \[fulfillment\], having offspring.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒यँ सो॑म व्र॒ते तव॑ ।  
@@ -256,6 +314,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the divine ancestors, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वेभ्य॑ᳶ पि॒तृभ्य॒स्स्वाहा॑ ।  
@@ -279,6 +342,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Soma-loving ancestors, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॒म्येभ्य॑ᳶ पि॒तृभ्य॒स्स्वाहा॑ ।  
@@ -301,6 +369,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the kavya-loving ancestors, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -335,6 +408,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O divine ones, rejoice here!  
+O Soma-loving ones, rejoice here!  
+O kavya-loving ones, rejoice here!
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॑स इ॒ह मा॑दयध्वम् ।  
@@ -367,6 +447,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Soma-loving ancestors are not excluded from the drinking of soma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -403,6 +488,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May death depart; may immortality come to us!  
+May the son of Vivasvat make fearlessness for us!  
+Like a leaf from a tree,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -993,6 +1085,18 @@ Zieh weit von hier, o Tod, auf deine Strasse, die fern ist von dem gottbetretnen
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may wealth fall upon us!  
+May the lord of might attend us!  
+Depart, O Death, along a further path,  
+which is your own, other than that traveled by the gods.  
+I speak to you who have sight and who hear:
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1011,6 +1115,16 @@ Zieh weit von hier, o Tod, auf deine Strasse, die fern ist von dem gottbetretnen
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+do not harm our offspring nor our heroes!  
+Now we have arrived at this better resting-place,  
+which wins cattle, wins wealth, wins horses.  
+Like a leaf from a tree,  
+may wealth fall upon us!  
+May the lord of might attend us!
+</details>
 
 <details><summary>मूलम्</summary>
 

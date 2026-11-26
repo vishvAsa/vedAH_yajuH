@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers seven food-oblations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒प्तान्न॑-हो॒माञ् जु॑होति ।
@@ -27,6 +32,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+there are seven foods;  
+as many foods as there are,  
+those very ones he secures.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -52,6 +64,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven are cultivated plants,  
+seven are wild;  
+for the securing of both.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -79,6 +98,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers oblation of every food,  
+for the securing of every food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑स्यान्नस्य जुहोति ।
@@ -102,6 +127,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the performer of the Vājapeya should eat of what has not been secured,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -128,6 +158,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he would be deprived of what has been secured.  
+Having cut off a portion from each, he offers,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्व॑स्य समव॒दाय॑ जुहोति ।
@@ -152,6 +188,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the securing of what has not been secured.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औदु॑म्बरेण स्रु॒वेण॑ जुहोति ।
@@ -174,6 +215,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers with a ladle of udumbara wood;  
+the udumbara is vigor, food;  
+for the securing of vigor, of food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -199,6 +247,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"At the instigation of divine Savitṛ," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒वे"त्य् आ॑ह ।
@@ -222,6 +275,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+impelled by Savitṛ, he sprinkles him with brahman, with deities.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तृ-प्र॑सूत ए॒वैन॒म् ब्रह्म॑णा दे॒वता॑भिर् अ॒भिषि॑ञ्चति ।
@@ -244,6 +302,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles with every food,  
+for the securing of every food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -269,6 +333,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles \[him\] from the front facing west;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रस्ता॑त् प्र॒त्यञ्च॑म् अ॒भिषि॑ञ्चति ।
@@ -293,6 +362,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for food is eaten from the front towards the back.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒रस्ता॒द् धि प्र॑ती॒चीन॒म् अन्न॑म् अ॒द्यते॑ ।
@@ -310,6 +384,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sprinkles from the head;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +408,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for food is eaten from the head.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शी॒र्ष॒तो ह्य् अन्न॑म् अ॒द्यते॑ ।
@@ -346,6 +430,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He lets it stream down up to the mouth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +460,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places food into him right from the mouth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मु॒ख॒त ए॒वास्मा॑ अ॒न्नाद्य॑न् दधाति ।
@@ -389,6 +483,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With the universal sovereignty of Agni I sprinkle you," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒ग्नेस् त्वा॒ साम्रा॑ज्येना॒भि-षि॑ञ्चा॒मी"त्य् आ॑ह ।
@@ -406,6 +505,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+this indeed is Agni's unction;  
+with that very \[power\] he sprinkles him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -430,6 +535,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With the universal sovereignty of Indra I sprinkle you," he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -456,6 +566,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+faculty he thereby places in him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रि॒यम् ए॒वास्मि॑न्न् ए॒तेन॑ दधाति ।
@@ -473,6 +588,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With the universal sovereignty of Bṛhaspati I sprinkle you," he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -492,6 +612,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bṛhaspati is the brahman among the gods;  
+with brahman he sprinkles him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वै दे॒वाना॒म् बृह॒स्पति॑र् ब्रह्म॑णै॒वैन॑म् अ॒भिषि॑ञ्चति ।
@@ -509,6 +635,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They bring the soma cups and the offering portions to the priests;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -533,6 +664,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that other realm he makes full of food through them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मुम् ए॒व तैर् लो॒कम् अन्न॑वन्तङ् करोति ।
@@ -555,6 +691,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And \[they bring\] the liquor cups and the non-offering portions to the racers;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -579,6 +720,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+this realm he makes full of food through them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मम् ए॒व तैर् लो॒कम् अन्न॑वन्तङ् करोति ।
@@ -602,6 +748,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is sprinkled with both;  
+the racers make a scuffle,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑ उ॒भयी॑ष्व् ए॒वाभि-षि॑च्यते ।
@@ -624,6 +776,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the securing of faculty.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -649,6 +806,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They chant the praise with unexpressed \[verses\] at the morning pressing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनि॑रुक्ताभिᳶ प्रातस् सव॒ने स्तु॑वते ।
@@ -666,6 +828,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is unexpressed;  
+for the attainment of Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -686,6 +854,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With \[verses\] containing \[the word\] "speed" at midday;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाज॑वतीभि॒र् माध्य॑न्दिने।
@@ -703,6 +876,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+speed is food;  
+food he secures.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -728,6 +907,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With \[verses\] containing \[the word\] "Śipiviṣṭa" at the third pressing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 शि॒पि॒वि॒ष्टव॑तीभिस् तृतीयसव॒ने।
@@ -750,6 +934,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sacrifice is Viṣṇu;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -777,6 +966,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+domestic animals are the śipi-flesh;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शव॒श् शिपिः॑ ।
@@ -794,6 +988,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrifice is established in domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -817,6 +1016,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Bṛhat \[chant\] is the final one;  
+he brings him to the very end of prosperity.
+</details>
 
 <details><summary>मूलम्</summary>
 

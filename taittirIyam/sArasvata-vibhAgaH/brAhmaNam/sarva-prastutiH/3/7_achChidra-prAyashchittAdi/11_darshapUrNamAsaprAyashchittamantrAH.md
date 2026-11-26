@@ -21,6 +21,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahman is the foundation of mind; brahman of speech;  
+brahman of sacrifices, of oblations, of clarified butter.  
+What is redundant in the rite and what is deficient,  
+the sacrifice, extending the joints, goes on putting in order.  
+May the oblation consecrated with svāhā reach the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ प्रति॒ष्ठा मन॑सो॒ ब्रह्म॑ वा॒चः ।  
@@ -46,6 +55,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What was made to resound, what was made to over-resound,  
+what was pronounced with vaṣaṭ, and what was over-recited in the sacrifice,  
+what is redundant in the rite and what is deficient,  
+the sacrifice, extending the joints, goes on putting in order.  
+May the oblation consecrated with svāhā reach the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आश्रा॑वितम॒त्याश्रा॑वितम् ।  
@@ -73,6 +91,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+If, O gods, I should overstep,  
+even with speech, an intention offending the gods,  
+the stingy one plots misfortune against us;  
+elsewhere from us, O Maruts, deposit that!  
+My work is extended; that indeed is extended again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्वो॑ देवा अतिपा॒दया॑नि ।  
@@ -457,12 +484,31 @@ Gespannt war mein Gewebe, wieder spann' ich es zu preisen euch, ertönt der süs
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sweetest reflection is recited for the chant.  
+This ocean is all-healing;  
+be satisfied with what is consecrated with svāhā, O Ṛbhus!  
+Up from darkness we,  
+Up that \[sun\], wondrous...
+
+This my \[prayer\], O Varuṇa; That I ask of you;
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।  
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You to us, O Agni; So you to us, O Agni;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -572,6 +618,15 @@ Gespannt war mein Gewebe, wieder spann' ich es zu preisen euch, ertönt der süs
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/17_imanjIvebhyapH_paridhindadhAmi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, are Ayās; O Prajāpati;  
+This perimeter I place for the living,  
+lest any other of them go to this region now.  
+May they live a hundred full autumns;  
+let them conceal death with a mountain.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 इ॒मञ्जी॒वेभ्य॑ᳶ परि॒धिन्द॑धामि ।  
@@ -639,6 +694,12 @@ I put this enclosure for the living ones; may none of us obtain only his half li
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the sacrificed, svāhā! To the unsacrificed, vaṣaṭ, svāhā!  
+Medicine for mis-sacrifice, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒ष्टेभ्य॒स्स्वाहा॒ वष॒डनि॑ष्टेभ्य॒स्स्वाहा॑ ।  
@@ -663,6 +724,14 @@ I put this enclosure for the living ones; may none of us obtain only his half li
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For expiation, svāhā!  
+For bad success, svāhā! To the divine bodies, svāhā!
+
+To success, svāhā! To full success, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -785,6 +854,14 @@ ví ← ví (invariable)
 
 यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि ।  
 मघ॑वञ्छ॒ग्धि तव॒ तन्न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+यत इन्द्र भयामहे  
+ततो नो अभयं कृधि ।  
+मघवञ् छग्धि तव त्वं न ऊतिभिर्  
+वि द्विषो वि मृधो जहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1012,6 +1089,17 @@ Was uns, o Indra, Furcht erregt, davor verschaff uns Sicherheit; Gewähr, o star
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wherefrom we fear, O Indra,  
+therefrom make freedom from fear for us.  
+O bounteous one, grant that to us for aid;  
+destroy the haters, destroy the adversaries!
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md">
 
@@ -1289,6 +1377,16 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Giving welfare, the lord of the people,  
+the slayer of Vṛtra, the dispeller of adversaries, sovereign,  
+may the bull Indra go before us,
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1302,6 +1400,14 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+bestowing welfare, creating freedom from fear.  
+What is deficient from this through these songs...
+
+Swell, O lord of bay steeds, increasing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒भिर्गी॒र्भिर्यदतो॑ न ऊ॒नम् ॥114॥  
@@ -1329,6 +1435,14 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+when for the praisers you burst open the great cow-pens,  
+then may we have the greatest shares.  
+What is unknown, what is known,  
+that is done mistakenly in the sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
@@ -1356,6 +1470,14 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, put that in order here;  
+for you know how it truly is.  
+The sacrifice is proportionate to man;  
+man is proportionate to the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -1696,3 +1818,16 @@ Wenn Sterbliche, im Geiste schwach an Einsicht in Thorheit nicht des Gottesdiens
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, put that in order here;  
+for you know how it truly is.  
+If mortals with simple mind, weak in insight,  
+do not understand the sacrifice,  
+Agni, the Hotṛ, knowing the rite, discerning,  
+most sacrificial, shall sacrifice to the gods in due season.
+</details>
+</details>

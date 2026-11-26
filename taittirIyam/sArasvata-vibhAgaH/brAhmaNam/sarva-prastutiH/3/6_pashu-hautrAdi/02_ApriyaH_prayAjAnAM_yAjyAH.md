@@ -21,6 +21,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to the three goddesses:
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षद॒ग्निँ स॒मिधा॑ सुष॒मिधा॒ समि॑द्ध॒न्नाभा॑ पृथि॒व्यास्स॑ङ्ग॒थे वा॒मस्य॑ ।   
@@ -45,6 +50,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+most active among the active, let them perform this flawless work today;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -71,6 +81,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+goddesses for the gods, let them enjoy the divine work.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒न्नरा॒शँस॑न्नृश॒स्त्रन्नॄँᳶ प्र॑णेत्रम् ।   
@@ -95,6 +110,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May they partake of the ghee. O Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -121,6 +141,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to Tvaṣṭṛ: swift, far-reaching, placer of semen, renowned, bestower of glory,
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षद्ब॒र्हिस्सु॒ष्टरी॒मोर्ण॑म्म्रदा अ॒स्मिन् य॒ज्ञे वि च॒ प्र च॑ प्रथताँ स्वास॒स्थन्दे॒वेभ्यः॑ ।   
@@ -145,6 +170,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+multiform, not wasting desires, rich in nourishment; may he be with nourishments, rich in heroes with heroes.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +201,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he partake of the ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षदु॒षासा॒नक्ता॑ बृह॒ती सु॒पेश॑सा॒ नॄँᳶ पति॑भ्यो॒ योनि॑ङ्कृण्वा॒ने ।   
@@ -195,6 +230,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Hotṛ, sacrifice!  
+May the Hotṛ sacrifice to the lord of the forest:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -221,6 +262,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has released, the cherisher of devotion, whom the men have honored;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्षत्ति॒स्रो दे॒वीर॒पसा॑म॒पस्त॑मा॒ अच्छि॑द्रम॒द्येदमप॑स्तन्वताम् ।   
@@ -245,6 +291,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the axe sweeten \[the offering\] in due season today; the god, oblation-bearer for the gods, may he partake of the ghee. O Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -271,6 +322,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Hotṛ sacrifice to Agni: hail of ghee, hail of fat, hail of drops, hail of hail-utterances, hail of oblation-hymns;
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ यक्ष॒द्वन॒स्पति॑मु॒पाव॑स्रक्षद्धि॒यो जो॒ष्टारँ॑ श॒शम॒न्नरः॑ ।   
@@ -295,6 +351,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+hail to the gods who drink ghee, hail to Agni from the Hotrā. Relishing \[it\], O Agni, may they enjoy the ghee. O Hotṛ, sacrifice!
+</details>
 
 <details><summary>मूलम्</summary>
 

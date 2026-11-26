@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The one who is consecrated with soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वै सोमे॑न सू॒यते॑ ।  
@@ -29,6 +34,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the divine consecration.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -60,6 +70,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The one who is consecrated with an animal,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इष्ट्या॑ सू॒यते॑ ।  
@@ -78,6 +93,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the divine consecration.  
+The one who is consecrated with an iṣṭi,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -106,6 +127,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the human consecration.  
+This \[consecration\] indeed the gods gave to Pṛthi;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै सोऽप्या॑र॒ण्याना॑म्पशू॒नाम॑सूयत ।
@@ -123,6 +150,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+thence indeed he was consecrated even over wild animals.  
+As many beings as speak speech,  
+over all of them is he consecrated
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +182,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+He sprinkles him with a verse praising men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒तेन॒ यज॑ते ।  
@@ -167,6 +208,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men indeed are praised of men.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -194,6 +240,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having made an atonement indeed,  
+he then sprinkles him.  
+Whatever rite there is of the rājasūya without a high altar,
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒ह्नुत्य॒ वावैतत् ।  
@@ -213,6 +266,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+all that is performed.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -571,3 +629,15 @@ Die fünfzig Rosse mir verliehn, für den vereinten Preisgesang, Den Reichen sch
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“They who gave me fifty  
+horses in joint praise,  
+brilliant, O Agni, great renown,  
+lofty, make for the generous patrons,  
+heroic, O immortal, for men.”
+</details>
+</details>

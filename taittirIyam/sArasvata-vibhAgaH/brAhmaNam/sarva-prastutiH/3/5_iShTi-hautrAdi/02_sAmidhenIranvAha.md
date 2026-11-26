@@ -1012,6 +1012,16 @@ Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sit down as Hotṛ upon the strew.  
+As such, O Aṅgiras, with firesticks  
+and with ghee we magnify you;
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ नᳶ पृथु᳓श् श्रवा᳓य्यम् ॥2॥  
@@ -1020,6 +1030,14 @@ Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+glow greatly, O youngest one!  
+May he \[bring\] us broad, renowned \[wealth\].
+
+Toward \[us\], O god, you strive to win
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1135,6 +1153,16 @@ Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+great, heroic power, O Agni.  
+Worthy of worship, to be reverenced, shining  
+through the darknesses, lovely to behold.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓षो अग्नि᳓स् स᳓मिध्यते ।  
@@ -1219,6 +1247,16 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, the bull, is kindled together;  
+the bull Agni is kindled,  
+like a horse that bears the gods;
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वृ᳓षणन् त्वा वयव्ँ᳓ वृ᳓षन् ।  
@@ -1227,6 +1265,13 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+those possessing oblations praise him.  
+You, the bull, O bull,  
+we, bulls, would kindle.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1311,14 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, shining greatly!  
+Agni the messenger we choose,  
+the Hotṛ who knows all,  
+the one of good wisdom for this sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1557,6 +1610,16 @@ Der helle Agni wird entflammt, beim Opferfest des Preises werth, Den flammenhaar
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being kindled at the sacrificial rite,  
+Agni, the purifier, worthy of worship,  
+with hair of flame, him we beseech.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मिद्धो अग्न आहुत ।  
@@ -1841,6 +1904,16 @@ Entflammt, o Agni, opferreich, die Götter ehr beopferter; Du bist's ja, der die
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled, O Agni, invoked with oblation,  
+sacrifice to the gods, O you of noble rite;  
+for you are the bearer of oblations.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2115,6 +2188,16 @@ Begiesst den Agni und beschenkt bei vorgeschrittner Feier ihn, Zum Opferfahrer w
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Offer oblation, pay worship  
+to Agni as the sacrificial rite proceeds;  
+choose the bearer of oblations.
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2486,3 +2569,14 @@ Tы – Варуна, а также Митра, о Агни.
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are Varuṇa and Mitra, O Agni;  
+the Vasiṣṭhas magnify you with prayers.  
+In you let there be treasures easily gained;  
+do you \[gods\] always protect us with blessings!
+</details>
+</details>

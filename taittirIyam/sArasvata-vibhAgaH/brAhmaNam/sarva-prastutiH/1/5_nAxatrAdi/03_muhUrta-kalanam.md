@@ -26,6 +26,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the morning, the impelling of the god Savitṛ is exhalation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वस्य॑ सवि॒तुᳶ प्रा॒तᳶ प्र॑स॒वᳶ प्रा॒णः ।
@@ -50,6 +55,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the evening, the extraction of Varuṇa is inhalation.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -76,6 +86,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is westward from the morning \[period\] and eastward from the cow-gathering \[period\], from that the gods fashioned the Agniṣṭoma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -104,6 +119,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is that whose vigor has been drawn out, \[a mere\] sweepings-out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत् तदात्त॑वीर्यन् निर्मा॒र्गः ।
@@ -128,6 +148,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The cow-gathering belongs to Mitra; that is an auspicious, fiery-energetic part of the day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -154,6 +179,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore domestic animals gather together then.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त् तर्हि॑ प॒शव॑स् स॒माय॑न्ति ।
@@ -176,6 +206,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is westward from the cow-gathering
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -204,6 +239,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and eastward from midday, from that the gods fashioned the Ukthya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ।
@@ -221,6 +261,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is that whose vigor has been drawn out, \[a mere\] sweepings-out. Midday belongs to Bṛhaspati;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -244,6 +289,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is an auspicious, fiery-energetic part of the day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -269,6 +319,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore it burns hottest then.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त्तर्हि॒ तेक्ष्णि॑ष्ठन्तपति ।
@@ -292,6 +347,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is westward from midday and eastward from the afternoon,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -319,6 +379,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+from that the gods fashioned the Ṣoḍaśin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॑ दे॒वाष्षो॑ड॒शिन॒न्निर॑मिमत ।
@@ -337,6 +402,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is that whose vigor has been drawn out, \[a mere\] sweepings-out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ॥ 16 ॥
@@ -354,6 +424,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The afternoon belongs to Bhaga;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -378,6 +453,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is an auspicious, fiery-energetic part of the day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्पुण्य॑न्तेज॒स्व्यहः॑ ।
@@ -395,6 +475,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore in the afternoon maidens go about seeking Bhaga (good fortune).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -418,6 +503,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is westward from the afternoon and eastward from evening, from that the gods fashioned the Atirātra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -446,6 +536,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is that whose vigor has been drawn out, \[a mere\] sweepings-out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्तदात्त॑वीर्यन्निर्मा॒र्गः ।
@@ -463,6 +558,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Evening belongs to Varuṇa;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -486,6 +586,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is an auspicious, fiery-energetic part of the day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -513,6 +618,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore at that time one should not speak untruth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒त् तर्हि॒ नानृ॑तव्ँ वदेत् ॥ 17 ॥
@@ -531,6 +641,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin, verily, is the twenty-eighth of the lunar mansions.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -556,6 +671,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of the same day, five lunar mansions are auspicious, four are inauspicious: those are nine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मा॒नस्याह्न॒ᳶ पञ्च॒ पुण्या॑नि॒ नक्ष॑त्राणि ।
@@ -573,6 +693,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is beyond the lunar mansions and what is below:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +724,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those are eleven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानि॒ नव॑ ।
@@ -617,6 +747,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin is the twelfth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -637,6 +772,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, knowing thus, observes the vow for a year, his vow is guarded by the year.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -664,6 +804,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of the same day, five lunar mansions are auspicious,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मा॒नस्याह्न॒ᳶ पञ्च॒ पुण्या॑नि॒ नक्ष॑त्राणि ।
@@ -687,6 +832,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+four are inauspicious:
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒त्वार्य॑श्ली॒लानि॑ ।
@@ -705,6 +855,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those are nine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तानि॒ नव॑ ।
@@ -722,6 +877,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Night belongs to Agni,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -748,6 +908,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+day belongs to Indra:
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रमहः॑ ।
@@ -765,6 +930,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+those are eleven.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -784,6 +954,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Āditya is the twelfth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यो द्वा॑द॒शः ।
@@ -801,6 +976,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, knowing thus, observes the vow for a year, his vow is guarded by the year.
+</details>
 
 <details><summary>मूलम्</summary>
 

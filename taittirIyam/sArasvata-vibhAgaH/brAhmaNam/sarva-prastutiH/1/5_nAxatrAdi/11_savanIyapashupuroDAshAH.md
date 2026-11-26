@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those which are the four stomas,  
+that is the Kṛta \[throw\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये वै च॒त्वार॒स्स्तोमाः॑ ।
@@ -36,6 +42,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And that which is five,  
+that is Kali.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -62,6 +74,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore it is the Catuṣṭoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒च् चतु॑ष्टोमः ।
@@ -86,6 +103,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the catuṣṭoma nature of the Catuṣṭoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तच् चतु॑ष्टोमस्य चतुष्टोम॒त्वम् ।
@@ -104,6 +126,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As to this they say:  
+'Which are those lights  
+that are the stomas of this \[rite\]?'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -129,6 +158,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The nine-versed, the fifteen-versed, the seventeen-versed, \[and\] the twenty-one-versed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृत् प॑ञ्चद॒शस् स॑प्तद॒श ए॑कविँ॒शः ॥ 51 ॥
@@ -146,6 +180,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These indeed are those lights  
+that are the stomas of this \[rite\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -170,6 +210,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said:  
+'Being conveyed by the seventeenfold, I have become unstrung;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -197,6 +243,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+heal me!'  
+Him the two Aśvins healed with parched grains,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम अ॒श्विनौ॑ धा॒नाभि॑र् अभिषज्यताम् ।
@@ -221,6 +273,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pūṣan with groats,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा क॑र॒म्भेण॑।
@@ -239,6 +296,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhāratī with puffed grain,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भार॑ती परिवा॒पेण॑।
@@ -256,6 +318,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mitra and Varuṇa with curdled milk.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -276,6 +343,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As to this they say:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +376,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Since the parched grains belong to the two Aśvins,  
+the groats to Pūṣan,  
+the puffed grain to Bhāratī,  
+the curdled milk to Mitra and Varuṇa,  
+why then do they sacrifice to Indra with these oblations?'  
+'Because these deities,' one should say,  
+'healed him with these oblations; therefore \[they do so\].'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒ता ह्ये॑नन् दे॒वता॒" इति॑ ब्रूयात् ।  
@@ -327,6 +410,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Vasus healed him at the morning pressing with \[a cake\] on eight potsherds,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -352,6 +440,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Rudras with \[a cake\] on eleven potsherds at the midday pressing,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्रा एका॑दश-कपालेन॒ माध्य॑न्दिने॒ सव॑ने।
@@ -369,6 +462,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the All-gods with \[a cake\] on twelve potsherds at the third pressing.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -388,6 +486,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should prepare \[cakes\] on eight potsherds at the morning pressing,  
+\[cakes\] on eleven potsherds at the midday pressing,  
+\[and cakes\] on twelve potsherds at the third pressing,  
+that would be done against the grain of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -415,6 +521,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should prepare \[cakes\] on eleven potsherds at the morning pressing,  
+\[cakes\] on eleven potsherds at the midday pressing,  
+\[and cakes\] on eleven potsherds at the third pressing,  
+for the regular flow of the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एका॑दशकपालाने॒व प्रा॑तस्सव॒ने कु॑र्यात् ।
@@ -441,6 +555,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As to this they say:  
+'Since the morning pressing belongs to the Vasus,  
+the midday pressing to the Rudras,  
+the third pressing to the All-gods,  
+why then do they sacrifice to Indra with these oblations?'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -471,6 +594,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Because these deities,' one should say,  
+'healed him with these oblations; therefore \[they do so\].'
+</details>
 
 <details><summary>मूलम्</summary>
 

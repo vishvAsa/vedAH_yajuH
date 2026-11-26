@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a twelve-pot-sherd cake to Dhātṛ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒त्रे पु॑रो॒डाश॒न् द्वाद॑शकपाल॒न् निर्व॑पति ।
@@ -41,6 +46,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dhātṛ is the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रो वै धा॒ता ।
@@ -59,6 +69,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of the year, he generates offspring for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रेणै॒वास्मै॑ प्र॒जाᳶ प्रज॑नयति ।
@@ -76,6 +91,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Anumati assents for him;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +125,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rākā grants;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रा॒ते रा॒का ।
@@ -133,6 +158,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sinīvālī brings forth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र सि॑नीवा॒ली ज॑नयति ।
@@ -156,6 +186,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when the offspring are brought forth, Kuhū places speech \[in them\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जास्वे॒व प्रजा॑तासु कु॒ह्वा॑ वाच॑न् दधाति ।
@@ -178,6 +213,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pair of bovines is the sacrificial gift for success.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +247,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers an eleven-pot-sherd cake to Agni and Viṣṇu,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒ग्ना॒वै॒ष्ण॒वम् एका॑दशकपाल॒न् निर्व॑पति ।
@@ -234,6 +279,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+an eleven-pot-sherd cake to Indra and Viṣṇu,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒वै॒ष्ण॒वम्  एका॑दशकपालम्॥ 10॥
@@ -252,6 +302,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+a three-pot-sherd cake to Viṣṇu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒ष्ण॒वन् त्रि॑कपा॒लम् ।
@@ -269,6 +324,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is heroic power;  
+Indra is heroic power;  
+Viṣṇu is heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -295,6 +357,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He establishes the offspring, once brought forth, in heroic power;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जा ए॒व प्रजा॑ता वी॒र्ये॑ प्रति॑ष्ठापयति ।
@@ -318,6 +385,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore offspring possess heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -344,6 +416,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dwarf bull, a draft animal, is the sacrificial gift.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒म॒न ऋ॑ष॒भो व॒ही दक्षि॑णा ।
@@ -361,6 +438,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he is a draft animal, thereby he belongs to Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -386,6 +468,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he is a bull,
+
+thereby he belongs to Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदृ॑ष॒भः ॥11॥  
@@ -404,6 +493,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that he is a dwarf,  
+thereby he belongs to Viṣṇu, for success.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +523,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers an eleven-pot-sherd cake to Agni and Soma,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -458,6 +558,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+an eleven-pot-sherd cake to Indra and Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒सो॒मीय॒म् एका॑दशकपालम्।
@@ -482,6 +587,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+a mess of boiled rice to Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौ॒म्यञ्च॒रुम्।
@@ -499,6 +609,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma is the placer of semen;  
+Agni is the progenitor of offspring;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -527,6 +643,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is the dispenser of what has grown.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॑ ए॒वास्मै॒ रेतो॒ दधा॑ति ॥12॥
@@ -550,6 +671,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma places semen in him;
+
+Agni brings forth offspring;  
+Indra bestows them when grown.  
+A reddish-brown animal is the sacrificial gift for success.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -583,6 +713,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a mess of boiled rice to Soma and Pūṣan,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॒मा॒पौ॒ष्णञ् च॒रुन् निर्व॑पति ।
@@ -608,6 +743,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+a mess of boiled rice to Indra and Pūṣan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒पौ॒ष्णञ् च॒रुम्।
@@ -625,6 +765,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma is the placer of semen;  
+Pūṣan is the progenitor of domestic animals;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -653,6 +799,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is the dispenser of what has grown.  
+Soma places semen in him;  
+Pūṣan brings forth domestic animals;
+
+Indra bestows them when grown.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -686,6 +841,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is a mess of boiled rice to Pūṣan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒ष्णश् च॒रुर् भ॑वति ।  
@@ -712,6 +872,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pūṣan is this \[earth\];  
+he is established upon her.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्या॒मो दक्षि॑णा॒ समृ॑द्ध्यै ।
@@ -729,6 +895,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dark-colored animal is the sacrificial gift for success.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -762,6 +933,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man enters into much that is impure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रन् द्वाद॑शकपाल॒न् निर्व॑पति ।
@@ -779,6 +955,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a twelve-pot-sherd cake to Vaiśvānara.  
+Agni Vaiśvānara is the year.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -812,6 +994,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of the year, he sweetens him.  
+Gold is the sacrificial gift.
+
+Gold is a purifier;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्य॒न्दक्षि॑णा ॥14॥  
@@ -842,6 +1032,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it purifies him.  
+A Rājanya commits much untruth:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -875,6 +1071,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he robs a relative;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑ जा॒म्यै हर॑ते ।
@@ -904,6 +1105,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he oppresses a Brahmin;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -935,6 +1141,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he speaks untruth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वद॒त्य् अनृ॑तम् ।
@@ -958,6 +1169,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When untruth is committed, Varuṇa seizes \[him\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनृ॑ते॒ खलु॒ वै क्रि॒यमा॑णे॒ वरु॑णो गृह्णाति ।
@@ -976,6 +1192,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers a mess of boiled barley to Varuṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒रु॒णय्ँ य॑व॒मय॑ञ् च॒रुन् निर्व॑पति ।
@@ -993,6 +1214,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He frees him from Varuṇa's fetter.  
+A horse is the sacrificial gift;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1025,6 +1252,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the horse belongs to Varuṇa by deity, for success.
+</details>
 
 <details><summary>मूलम्</summary>
 

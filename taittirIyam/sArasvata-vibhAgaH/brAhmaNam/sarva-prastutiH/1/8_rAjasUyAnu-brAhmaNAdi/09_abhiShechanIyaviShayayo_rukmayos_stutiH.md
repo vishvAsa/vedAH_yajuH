@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This \[earth\] is silver;  
+yonder \[heaven\] is golden.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वै॒ र॑ज॒ता ।  
@@ -37,6 +43,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that there are two gold plates,  
+he encloses him from both sides by these two.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्रु॒क्मौ भव॑तः ।  
@@ -55,6 +67,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Varuṇa was being anointed, the waters
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -80,6 +97,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+struck out his sense-faculty and heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रि॒यव्ँ वी॒र्य॑न्निर॑घ्नन् ।
@@ -98,6 +120,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That became gold.  
+In that he inserts a gold plate,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्सु॒वर्णँ॒ हिर॑ण्यमभवत् ।
@@ -115,6 +143,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it is for not striking out his sense-faculty and heroic power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +173,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+It weighs a hundred measures, having a hundred syllables.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श॒तमा॑नो भवति श॒तक्ष॑रः ।
@@ -163,6 +201,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Man has a lifespan of a hundred years, a hundred sense-faculties;  
+he firmly establishes himself in lifespan and sense-faculty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श॒तायु॒ᳶ पुरु॑षश्श॒तेन्द्रि॑यः ।  
@@ -181,6 +225,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gold is lifespan;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +256,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+endowed with lifespan, \[the waters\] flow over him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒यु॒ष्या॑ ए॒वैन॑म॒भ्यति॑क्षरन्ति ।
@@ -224,6 +278,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gold is fiery energy;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +302,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+endowed with fiery energy, they flow over him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॒ज॒स्या॑ ए॒वैन॑म॒भ्यति॑क्षरन्ति ।
@@ -260,6 +324,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gold is luster;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -285,6 +354,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+endowed with luster, they flow over him.
+</details>
 
 <details><summary>मूलम्</summary>
 

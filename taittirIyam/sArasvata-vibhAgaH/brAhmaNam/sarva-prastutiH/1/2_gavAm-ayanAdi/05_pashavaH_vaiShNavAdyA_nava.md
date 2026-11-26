@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They indeed go to lack of support
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्र॑तिष्ठाव्ँ॒वा ए॒ते ग॑च्छन्ति ।  
@@ -38,6 +43,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for whom,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒का॒द॒शिन्या॒प्यते॑ ।  
@@ -58,6 +68,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when the year is not completed,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञम् ए॒वाल॑भन्ते॒ प्रति॑ष्ठित्यै ।
@@ -75,6 +90,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +119,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the group of eleven \[victims\] is completed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्नी वै दे॒वाना॒म् अया॑तयामानौ ।
@@ -121,6 +146,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate a dwarf \[victim\] sacred to Viṣṇu;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -146,6 +176,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Viṣṇu is indeed the sacrifice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्व॒दे॒वम् आल॑भन्ते ।
@@ -169,6 +204,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they immolate the sacrifice itself
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वता॑ ए॒वाव॑रुन्धते ।
@@ -186,6 +226,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for support.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,6 +255,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate \[a victim\] sacred to Indra
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒व्योर् ए॒व प्रति॑तिष्ठन्ति ।
@@ -227,6 +277,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and Agni;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -251,6 +306,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर् ए॒वैभ्यो॑ यथा ऽऽयत॒नाद् दे॒वता॒ अव॑रुन्धे ।
@@ -268,6 +328,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and Agni are the
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +357,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+unexhausted among the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा अदि॑तिः ।
@@ -309,6 +379,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whichever two deities are unexhausted,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -328,6 +403,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+those two they immolate.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मै॒त्रा॒व॒रु॒णीम् आल॑भन्ते ॥41॥
@@ -345,6 +425,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate \[a victim\] sacred to the All-gods;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -369,6 +454,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they secure the deities.  
+They immolate a cow sacred to heaven and earth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यन् तू॑प॒रम् म॑हा-व्र॒त आल॑भन्ते ।
@@ -392,6 +483,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they find support in heaven and earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यो॑ ऽति-ग्रा॒ह्यो॑ गृह्यते ।
@@ -409,6 +505,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate a calf sacred to Vāyu;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -433,6 +534,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu secures for them the deities from their proper abode.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॒ अह्न॑ ए॒वैष ब॒लिर् ह्रि॑यते ।
@@ -455,6 +561,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate a barren ewe sacred to Aditi;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -479,6 +590,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aditi is this \[earth\];  
+they find support on this \[earth\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ज॒-पे॒त्वान् वा ए॒ते पूर्वै॒र् मासै॒र् अव॑रुन्धते ।
@@ -502,6 +619,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They immolate \[a victim\] sacred to Mitra and Varuṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदे॒ते ग॒व्याᳶ प॒शव॑ आल॒भ्यन्ते॑ । उ॒भये॑षाम्पशू॒नामव॑रुद्ध्यै ॥42॥
@@ -524,6 +646,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By Mitra they appease what is well-offered in the sacrifice,  
+by Varuṇa what is ill-offered.  
+At the Mahāvrata they immolate a hornless \[he-goat\] sacred to Prajāpati;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -549,6 +678,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+an Atigrāhya \[cup\] sacred to Prajāpati is drawn;  
+they furnish the day with its proper form;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्द्वौद्वौ॑ प॒शू स॒मस्ये॑युः ।
@@ -572,6 +707,21 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+moreover, this tribute is brought for the day.  
+They immolate \[a victim\] sacred to Agni for recognition.  
+By the previous months they secure non-bovine animals;  
+when these bovine animals are immolated,  
+it is to secure both kinds of animals.  
+If they were to immolate a superfluous group of eleven,  
+it would exceed over the disliked rival.  
+If they were to combine the animals two by two,  
+they would make their lifespan shorter.  
+When these animals accompanied by Brāhmaṇa \[exegesis\] are immolated,  
+it does not exceed over the disliked rival,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +747,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[and\] they do not make their lifespan shorter.
+</details>
 
 <details><summary>मूलम्</summary>
 

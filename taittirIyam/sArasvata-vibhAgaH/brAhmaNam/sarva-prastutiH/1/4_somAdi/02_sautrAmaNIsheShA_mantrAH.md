@@ -392,6 +392,13 @@ lords of beauty, protect Indra in his rites!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+aid Indra with deeds, with wondrous arts,  
+when thou didst drink off the surā with powers,  
+\[and\] Sarasvatī cleansed thee, O Maghavan.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒त्त्रमि॑व पि॒तरा॑व॒श्विनो॒भा ।  
@@ -1482,6 +1489,13 @@ Zu welchem Rosse, Stiere, Ochsen, Kühe auch und Widder man entsendet und als Op
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For separately measured has been your seat ordained by the gods;  
+may you two not commingle in the highest heaven.  
+Thou art surā, foaming; this is soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाना॒ हि वा॑न्दे॒वहि॑तँ॒ सदो॑ मि॒तम् ।  
@@ -1700,6 +1714,14 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two pathways have I heard of for the fathers,  
+\[and\] I \[heard of two\] for gods and mortals;  
+by these two this whole world unites,  
+between the eastern and the western banner.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे स्रु॒ती अ॑शृणवम्पितृ॒णाम् ।   
@@ -1735,6 +1757,12 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What noose is thine, O god Varuṇa, of gāyatrī-metre,  
+that I remove from thee by this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस् ते॑ देव वरुण गाय॒त्रछ॑न्दा॒ᳶ पाशः॑ ।  
@@ -1760,6 +1788,12 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What noose is thine, O god Varuṇa, of triṣṭubh-metre,  
+that I remove from thee by this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस् ते॑ देव वरुण त्रि॒ष्टुप्छ॑न्दा॒ᳶ पाशः॑ ।  
@@ -1779,6 +1813,12 @@ that King Soma of his with a gracious mind I consume here.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What noose is thine, O god Varuṇa, of jagatī-metre,  
+that I remove from thee by this.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1812,6 +1852,12 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma takes away his kingship  
+who, being a king or eligible to be king, sacrifices with soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ वा ए॒तस्य॑ रा॒ज्यमाद॑त्ते ।   
@@ -1836,6 +1882,11 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These are the oblations of the divine instigators;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒व॒सु॒वाम् ए॒तानि॑ ह॒वीँषि॑ भवन्ति ।  
@@ -1858,6 +1909,11 @@ that King Soma of his with a gracious mind I consume here.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so many are the instigations of the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1882,6 +1938,11 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They give him the instigations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त ए॒वास्मै॑ स॒वान्प्रय॑च्छन्ति ।
@@ -1905,6 +1966,11 @@ that King Soma of his with a gracious mind I consume here.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they instigate him again for kingship;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त ए॑न॒म् पुन॑स् सुवन्ते रा॒ज्याय॑ ।  
@@ -1927,6 +1993,11 @@ that King Soma of his with a gracious mind I consume here.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he becomes an instigated king.
+</details>
 
 <details><summary>मूलम्</summary>
 

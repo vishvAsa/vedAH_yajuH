@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the cow-consecration;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष गो॑स॒वः ।
@@ -35,6 +40,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it is a thirty-six-verse ukthya having the Bṛhat-sāman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ष॒ट्त्रिँ॒श उ॒क्थ्यो॑ बृ॒हत्सा॑मा ।
@@ -57,6 +67,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the pavamāna-laud the Kaṇvarathaṃtara is used.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -81,6 +96,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is the Vājapeya,  
+that is the emperor's consecration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वै वा॑ज॒पेयः॑ ।  
@@ -104,6 +125,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is the rājasūya,  
+that is Varuṇa's consecration.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -130,6 +157,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati Parameṣṭhin is autonomous rule;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒स्स्वारा॑ज्यम्परमे॒ष्ठी ।
@@ -147,6 +179,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+autonomous rule is indeed the cow.  
+Like a cow does he become
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -174,6 +212,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who sacrifices with this,  
+and who knows it thus.  
+Both the Bṛhat and the Rathaṃtara are used,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒तेन॒ यज॑ते ।  
@@ -194,6 +239,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for that is autonomous rule.  
+Ten thousand are the sacrificial gifts,  
+for that is autonomous rule.  
+He sprinkles him with fresh milk drawn right from the udder,  
+for that is autonomous rule.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -227,6 +281,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On an unraised \[ground\] of the altar, south of the Āhavanīya, facing the laud of the Bṛhat, he sprinkles him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनु॑द्धते॒ वेद्यै॑ दक्षिण॒त आ॑हव॒नीय॑स्य बृह॒तस्स्तो॒त्रम्प्रत्य॒भिषि॑ञ्चति ।
@@ -249,6 +308,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This \[earth\] indeed is the Rathaṃtara;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -273,6 +337,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that \[sky\] is the Bṛhat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒सौ बृ॒हत् ।
@@ -290,6 +359,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Between these two, uninterrupted, he sprinkles him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -309,6 +383,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+An animal praise-song indeed is this;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शु॒स्तो॒मो वा ए॒षः ।  
@@ -327,6 +406,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore it is the cow-consecration.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -365,6 +449,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The thirty-six-verse \[rite\] is complete.  
+“Richly born, grown by might,  
+the best bearer of regal power among regal powers, bestower of youthful vigor,  
+great, standing firm in greatness,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रे॒वज्जा॒तस्सह॑सा वृ॒द्धः ।  
@@ -391,6 +483,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+be wakeful in regal power and in the realm!  
+With the autonomous rule of Prajāpati Parameṣṭhin I sprinkle you,” he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "प्र॒जाप॑तेस्त्वा परमे॒ष्ठिन॒स्स्वारा॑ज्येना॒भिषि॑ञ्चा॒मी"त्या॑ह ।
@@ -415,6 +513,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To autonomous rule indeed he leads him.
+</details>
 
 <details><summary>मूलम्</summary>
 

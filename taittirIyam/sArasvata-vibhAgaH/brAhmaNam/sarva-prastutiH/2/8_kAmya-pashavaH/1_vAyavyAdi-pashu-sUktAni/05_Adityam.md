@@ -17,6 +17,11 @@ title = "०५ आदित्यम्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+not by the aid of the Ādityas is the sacrificial gift;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्याना॒मव॑सा॒ न द॑क्षि॒णा ।   
@@ -42,6 +47,11 @@ title = "०५ आदित्यम्"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Ādityas upheld, they upheld the three earths;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -85,6 +95,11 @@ title = "०५ आदित्यम्"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the sacrifice of the gods, bright water.
+</details>
 
 <details><summary>मूलम्</summary>
 

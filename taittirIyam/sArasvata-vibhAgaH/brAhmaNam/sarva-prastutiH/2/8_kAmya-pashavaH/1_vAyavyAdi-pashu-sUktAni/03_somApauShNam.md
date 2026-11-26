@@ -18,6 +18,11 @@ title = "०३ सोमापौष्णम्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma and Pūṣan, these two gods—
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमा॑पूषणे॒मौ दे॒वौ ।
@@ -375,6 +380,16 @@ O Soma, Puschan treibet her den Wagen, der siebenrädrig durch die Lüfte eilet,
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma and Pūṣan, the measurers of space,  
+\[they drive\] the seven-wheeled chariot, not urged by all,  
+turning in all directions, harnessed by the mind;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -392,6 +407,12 @@ O Soma, Puschan treibet her den Wagen, der siebenrädrig durch die Lüfte eilet,
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that five-reined one the two bulls stimulate.  
+One has made his seat high in heaven,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +777,15 @@ Die Bitte fördre Puschan alldurchdringend, und Schatz verleih der Herr des Scha
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the other on earth and in the intermediate space;  
+may they two untie for us, rich in variety and rich in cattle,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1095,3 +1125,13 @@ Der eine war's, der alle Wesen zeugte, der andre wandert, alles rings beschauend
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the navel \[source\] of increase of wealth!
+
+May Pūṣan, all-impelling, inspire our vision;
+</details>
+</details>

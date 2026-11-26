@@ -1094,6 +1094,15 @@ With a strainer of a hundredfold lifetime may I attain all lifetime!
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may I attain the full lifespan.  
+O Agni, you purify lifespans; O Agni, purify \[us\]!  
+O Pavamāna, heaven-finder, may the divine hosts purify me.  
+O Jātavedas, possessed of a strainer, what strainer of yours is in the flame,  
+with both, O divine Savitṛ, the purifying \[strainer\] belonging to all gods, \[purify me\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्न॒ आयूँ॑षि पव॒सेऽग्ने॒ पव॑स्व ।  
@@ -1357,6 +1366,14 @@ theirs is the world, svadhā, homage! May their sacrifice be accomplished among 
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those kinsmen of equal mind,  
+who are my living among the living—  
+may their glory be established in me  
+in this world for a hundred autumns.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1880,6 +1897,14 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May this oblation be productive of offspring for me,  
+bringing ten heroes, all their followers, for wellbeing:  
+winning self, winning offspring,  
+winning domestic animals, winning safety, winning the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दँ ह॒विᳶ प्र॒जन॑नम्मे अस्तु ।  
@@ -1906,6 +1931,11 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni make my offspring abundant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निᳶ प्र॒जाम्ब॑हु॒लाम्मे॑ करोतु ।  
@@ -1929,6 +1959,11 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Place food, milk, \[and\] seed in us;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॒म्पयो॒ रेतो॑ अ॒स्मासु॑ धत्त ।   
@@ -1951,6 +1986,11 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he sustain within us wealth's increase, refreshment, \[and\] vigor. Svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 

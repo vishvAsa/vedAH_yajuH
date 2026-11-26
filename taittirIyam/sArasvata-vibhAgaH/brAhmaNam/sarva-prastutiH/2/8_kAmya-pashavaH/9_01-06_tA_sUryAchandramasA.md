@@ -26,6 +26,14 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, sun and moon, sustaining all, great,  
+radiant with treasure, rule in heaven;  
+their essence is the Sāman, moving in harmony,  
+the course of which two gods has never been measured.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
@@ -66,6 +74,13 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two travel around both borders \[of the sky\];  
+they spread out their rays like \[rays\] of heaven in the ocean;  
+both discerning beings, having poetic vision,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
@@ -107,6 +122,15 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+sun and moon travel, minds intent;  
+both lords of heaven, luminous, all-knowing,  
+both sun and moon, far-seeing,
+
+all-desirable, wide-ruling, both choice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
@@ -147,6 +171,14 @@ title = "९ ०१-०६ ता सूर्याचन्द्रमसा"
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may those two wise ones of great vows protect us!  
+All-nourishing, transporting across, conquering,  
+finding heaven, of many rays for seeing,  
+sun and moon, bright treasures, wondrous to behold,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
@@ -497,6 +529,17 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+both thoughtful ones now traverse the sky together.  
+Seven rivers carry his fame;  
+heaven and earth \[bear\] the wondrous form.  
+For us to behold the sun and the moon,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

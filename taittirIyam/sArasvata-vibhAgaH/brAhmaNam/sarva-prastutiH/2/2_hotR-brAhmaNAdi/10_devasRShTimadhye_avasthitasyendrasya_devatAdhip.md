@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati created Indra as the junior among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒रिन्द्र॑मसृजतानुजाव॒रन्दे॒वाना॑म् ।
@@ -56,6 +61,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He sent him forth:  
+"Go away;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तम्प्राहि॑णोत् ।
@@ -74,6 +85,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+become the overlord of these gods!"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -108,6 +124,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods said to him:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -145,6 +166,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Who are you?
+</details>
+
 <details><summary>मूलम्</summary>
 
 सो॑ऽब्रवीत् ।  
@@ -174,6 +200,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We, truly, are better than you!"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -213,6 +244,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He said:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदे॑नमब्रवीत् ।
@@ -244,6 +280,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"'Who are you?
+</details>
+
 <details><summary>मूलम्</summary>
 
 को॑ऽहँ स्या॒मित्य॑ब्रवीत् ।
@@ -274,6 +315,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We, truly, are better than you'—thus the gods have spoken to me."
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ए॒तत्स्या॒" इत्य॑ब्रवीत् ।
@@ -302,6 +348,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now at
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -347,6 +398,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that time there was this fiery glow in Prajāpati,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ॥ 61 ॥
@@ -364,6 +420,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+which is in this sun.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -392,6 +453,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he said to him:  
+"Bestow this on me;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -423,6 +490,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then I shall become the overlord of these gods."
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वा इन्द्रो॑ दे॒वाना॒मधि॑पतिरभवत् ।
@@ -441,6 +513,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Who (kaḥ) should I become," he said,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -471,6 +548,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"having given this away?"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -506,6 +588,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You should become this," he said,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "स च॒न्द्रम्म॒ आह॒रे"ति॒ प्राल॑पत् ।
@@ -538,6 +625,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"which you say: 'kaḥ'."
+</details>
+
 <details><summary>मूलम्</summary>
 
 तच्च॒न्द्रम॑सश्चन्द्रम॒स्त्वम् ।
@@ -556,6 +648,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Ka", indeed, is Prajāpati by name.  
+He who knows thus,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -586,6 +684,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they know him by name.  
+Having made a gold ornament for him, he fastened it on him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -638,6 +742,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon Indra became the overlord of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्सूर्य॑स्य सूर्य॒त्वम् ।
@@ -677,6 +786,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,  
+becomes the overlord of his peers.  
+He thought:  
+"What, indeed, have I done?"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +842,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Bring me the moon (candram)!" he shouted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदिन्द्र॑स्येन्द्र॒त्वम् ।
@@ -743,6 +865,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the moonness of the moon (Candramas).  
+He who knows thus,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -773,6 +901,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+becomes possessed of glittering splendour.  
+The gods said to him:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -808,6 +942,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"O men, protect him as one of good heroic power (suvīrya)!"
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -836,6 +975,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is the sunness of the sun (Sūrya).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -872,6 +1016,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वस॑वᳶ पु॒रस्ता॑त्।
@@ -901,6 +1050,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+no one overpowers him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्रा द॑क्षिण॒तः।
@@ -918,6 +1072,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"In him this Indra-power (indriya) has stood firm!" \[they said\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -937,6 +1096,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the Indraness of Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वा उ॑त्तर॒तः।
@@ -954,6 +1118,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,  
+becomes full of Indra-power.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -979,6 +1149,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"This one, truly, has become supreme (parama)!" \[they said\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1009,6 +1184,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the Parameṣṭhin-hood of Parameṣṭhin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -1038,6 +1218,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows thus,  
+goes to the supreme summit.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1072,6 +1258,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods sat round him on every side:
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता अ॑स्मै॒ नाति॑ष्ठन्ता॒न्नाद्या॑य ।
@@ -1102,6 +1293,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Vasus in the east,  
+the Rudras in the south,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता मुख॑म्पु॒रस्ता॒त्पश्य॑न्तीः ।
@@ -1130,6 +1327,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Ādityas in the west,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1163,6 +1365,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Viśve Devas in the north,  
+the Aṅgirases behind,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता मुख॑म्पु॒रस्ता॒त्पश्य॑न्तीः ।  
@@ -1181,6 +1389,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Sādhyas beyond.  
+He who knows thus,  
+his peers sit down around him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1201,6 +1416,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having become Prajāpati, he approached offspring.  
+They did not stay for him for eating food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता मुख॑म्पु॒रस्ता॒त्पश्य॑न्तीः ।  
@@ -1220,6 +1441,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seeing a face in front,  
+they went around to the south.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1243,6 +1470,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He turned around to the south.  
+Seeing a face in front,  
+\[and\] a face in the south,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1279,6 +1513,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They went around to the west.  
+He turned around to the west.  
+Seeing a face in front,  
+a face in the south,  
+a face in the west,  
+they went around to the north.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वा उदा॑यन् ।  
@@ -1303,6 +1547,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He turned around to the north.  
+Seeing a face in front,  
+a face in the south,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,6 +1585,19 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a face in the west,  
+a face in the north,  
+they flew up high.  
+He turned down from above.  
+Having become facing in all directions, he gathered them in.  
+Then indeed offspring stayed for him for food.  
+He who, knowing thus, turns around and turns down,  
+having become Prajāpati himself, eats offspring;  
+offspring stay for him for food;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1371,6 +1635,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he becomes an eater of food.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'A pure praise song now, smiting Vṛtra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुचि॒न्नु स्तोमँ॒ श्ञथ॑द्वृ॒त्रम् ।
@@ -56,6 +61,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+both of you, Indra and Agni, forth to the peoples,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -96,6 +106,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+come, O two Vṛtra-slayers, the wise one with songs!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -505,6 +520,17 @@ Gebetes Herr, sei dieses Liedes Lenker, und Kindeskinder mögest du uns schaffen
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Brahmaṇaspati, be the driver of this  
+well-spoken hymn, and quicken our lineage!  
+All that is auspicious which the gods favor:  
+may we, possessing good heroes, speak loudly at the assembly!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -522,6 +548,15 @@ Gebetes Herr, sei dieses Liedes Lenker, und Kindeskinder mögest du uns schaffen
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He with his true, gleaming companions,  
+pierced the cow-stall with wealth-winning ones,  
+Brahmaṇaspati, with the boar-like bulls.
+
+With the sweat of the cauldron, he attained wealth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -901,6 +936,16 @@ Ihm, dem Gebets Herrn, ward nach Wunsch der Zorn zur That als er zu thun das gro
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+it became according to the desire of Brahmaṇaspati.  
+True was the wrath of him who was about to do a great deed;  
+he who drove out the cows divided them
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1295,6 +1340,18 @@ x
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for heaven.  
+Like a great stream, he rushed apart with power;  
+kindling the fire, he will conquer those who attack;  
+having performed the sacred rite, he has prospered, he whose oblation is offered.  
+What is born leaps beyond what is born, he advances beyond:
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1652,6 +1709,18 @@ Brihaspati, wir seien Wagenlenker stets des schöngelenkten Schatzes, der an Lab
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whomever Brahmaṇaspati makes his ally.  
+O Brahmaṇaspati, may we always \[be masters\] of easy-to-control \[wealth\]—
+
+may we be the charioteers of the wealth of Vivasvant!  
+Unite us, as heroes among heroes,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2057,6 +2126,18 @@ Durch Volk, Geschlecht, Verwandte, durch der Söhne Schar erlanget Preis und Beu
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when, as ruler through brahman, you attend to my call!  
+He indeed with his folk, with his clan, with his race,  
+with his sons, wins booty and wealth with men—  
+he who seeks to win the father of the gods,  
+Brahmaṇaspati, with oblation and a trusting mind.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2071,6 +2152,13 @@ Durch Volk, Geschlecht, Verwandte, durch der Söhne Schar erlanget Preis und Beu
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The ships of yours, O Pūṣan, which within...  
+one of your \[forms\] is bright, Pūṣan \[governs\] these directions,  
+Pūṣan was born on the distant pathway of paths.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2101,6 +2189,11 @@ Durch Volk, Geschlecht, Verwandte, durch der Söhne Schar erlanget Preis und Beu
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the distant pathway of heaven, on the distant pathway of earth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2458,6 +2551,16 @@ Erzeugt ist Puschan auf der Bahn der Pfade auf Himmels Bahn und auf der Bahn der
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+towards both most beloved dwelling-places  
+he travels to and fro, knowing well:  
+Pūṣan, the good kinsman of heaven and earth,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2475,6 +2578,13 @@ Erzeugt ist Puschan auf der Bahn der Pfade auf Himmels Bahn und auf der Bahn der
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the lord of nourishment, the bounteous one of wondrous radiance.  
+Him the gods gave to Sūryā,  
+made according to desire, strong, moving well,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2512,6 +2622,15 @@ Erzeugt ist Puschan auf der Bahn der Pfade auf Himmels Bahn und auf der Bahn der
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with goats for horses, guardian of livestock, rich in booty,  
+quickening thought, placed in every creature:  
+Pūṣan brandishes his loose goad.
+
+Beholding all creatures, the god moves.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3649,6 +3768,18 @@ An euren Schultern, Maruts, glänzen Spangen, mit Goldschmuck habt ihr eure Brus
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On your shoulders, O Maruts, are the rings;
+
+on your chests are golden breastplates resting,  
+gleaming like lightnings through the downpours of rain,  
+striving according to their custom with weapons!
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -5653,6 +5784,18 @@ Mit aller Kraft, die dein ist, mächt'ger Indra, gerühmter, hilf den Männern, 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What vigor is yours, O Indra, O bounteous one—
+
+Give generously to your friends, to the men, O much-invoked one!  
+For you, O bounteous one, are wise \[and open\] the strongholds.  
+Uncover the treasure like an enclosure!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -6005,6 +6148,18 @@ Der Menschen, des Lebend'gen Fürst ist Indra, des vielgestalt'gen auf der Erde 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is king of the moving world, of the peoples,  
+of whatever of varied form is upon the earth.  
+From that let him give riches to the worshiper;  
+praised, let him impel treasure toward us.  
+Praise him, whose might is overpowering,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -6373,6 +6528,17 @@ Den Indra preise, der von hoher Kraft ist, und ungefährdet siegreich, vielgeruf
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+who wins without being assailed, Indra, the much-invoked!  
+With these songs exalt the unconquerable, the fierce, the conquering bull of the peoples!  
+He who rules over solid, great wealth,  
+that Indra let us praise in the assemblies!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -6736,6 +6902,16 @@ Den Indra lasst uns preisen bei den Festen, der über grosses, starkes Gut gebie
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who with Vāyu wins in the contests for cattle,  
+leads boldly toward greater wealth.  
+Let your bull-like fury come from behind,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

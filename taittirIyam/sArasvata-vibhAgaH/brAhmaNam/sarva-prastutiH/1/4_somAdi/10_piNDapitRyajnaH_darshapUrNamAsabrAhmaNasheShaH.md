@@ -12,6 +12,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is indeed the year;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर् वाव सव्ँ॑वत्स॒रः ।
@@ -44,6 +49,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Āditya is the full year (parivatsara);
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यᳶ प॑रिवत्स॒रः ।
@@ -70,6 +80,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Moon is the recurring year (idāvatsara);
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रमा॑ इदावत्स॒रः ।
@@ -87,6 +102,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu is the following year (anuvatsara).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +135,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Vaiśvadeva,  
+he thereby attains Agni, the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्वै॑श्वदे॒वेन॒ यज॑ते ।
@@ -133,6 +159,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, the sacrificer, when performing the Vaiśvadeva,  
+should pray, saying: "He prays for the well-being of the year."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -158,6 +190,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Varuṇapraghāsas,  
+he thereby attains Āditya, the full year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्व॑रुणप्रघा॒सैर्यज॑ते ।
@@ -176,6 +214,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, the sacrificer, when performing the Varuṇapraghāsas,  
+should pray, saying: "He prays for the well-being of the full year."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +240,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Sākamedhas,  
+he thereby attains the Moon, the recurring year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्सा॑कमे॒धैर्यज॑ते ।
@@ -214,6 +264,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, the sacrificer, when performing the Sākamedhas,  
+should pray, saying: "He prays for the well-being of the recurring year."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +295,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Pitṛyajña,  
+he thereby settles along with the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पि॑तृय॒ज्ञेन॒ यज॑ते ।
@@ -263,6 +325,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But Vāyu and the following year would be left unpropitiated for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒वा अ॑स्य वा॒युश् चा॑नुवत्स॒रश् चाप्री॑ता॒व् उच्छि॑ष्येते ।
@@ -286,6 +353,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Śunāsīrīya,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यच्छु॑नासी॒रीये॑ण॒ यज॑ते ॥58 ॥  
@@ -304,6 +376,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he thereby attains Vāyu, the following year.  
+Therefore, the sacrificer, when performing the Śunāsīrīya,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -329,6 +407,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+should pray, saying: "He prays for the well-being of the following year."
+</details>
+
 <details><summary>मूलम्</summary>
 
 सव्ँ॒व॒त्स॒रव्ँ वा ए॒ष ई॑प्स॒तीत्या॑हुः ।
@@ -353,6 +436,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"He seeks to win the year," they say,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ष ह॒ त्वै सव्ँ॑वत्स॒रम् आ॑प्नोति ।
@@ -375,6 +463,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"who sacrifices with the four-month sacrifices."  
+He indeed attains the year
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -399,6 +493,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who knows thus and sacrifices with the four-month sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑ दे॒वास् सम॑यजन्त ।
@@ -417,6 +516,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+All the gods sacrificed together;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ ऽग्निम् ए॒वाय॑जन्त ।
@@ -434,6 +538,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they sacrificed to Agni alone.  
+They won this world
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -458,6 +568,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in which Agni is.  
+When he sacrifices with the Vaiśvadeva,  
+he wins this very world  
+in which Agni is.  
+He attains unison with Agni.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -485,6 +604,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he sacrifices with the Vaiśvadeva,  
+then he attains the master of the house of the year;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒दा वै॑श्वदे॒वेन॒ यज॑ते ।
@@ -504,6 +629,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when he attains the master of the house of the year,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒दा सव्ँ॑वत्स॒रस्य॑ गृ॒हप॑तिमा॒प्नोति॑ ।
@@ -522,6 +652,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then he attains the sacrificer of a thousand;  
+when he attains the sacrificer of a thousand,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -547,6 +683,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then he attains the sacrificer of domestic rites (gṛhamedhin);  
+when he attains the sacrificer of domestic rites,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒दा गृ॑हमे॒धिन॑मा॒प्नोति॑ ।
@@ -570,6 +712,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then he becomes Agni;  
+when he becomes Agni,  
+then he becomes a cow.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -595,6 +744,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the measure of the Vaiśvadeva.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒षा वै वै॑श्वदे॒वस्य॒ मात्रा॑ ।
@@ -617,6 +771,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is indeed the lowest of these;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -641,6 +800,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+higher and higher than this become the superior \[states\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतो॑तो॒ वा उत्त॑राणि॒ श्रेयाँ॑सि भवन्ति ।
@@ -663,6 +827,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because all the gods (viśve devāḥ) sacrificed together,  
+that is the all-god-nature of the Vaiśvadeva.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -688,6 +858,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then Āditya sacrificed to king Varuṇa with the Varuṇapraghāsas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथा॑दि॒त्यो वरु॑णँ॒ रा॑जानव्ँ वरुणप्रघा॒सैर॑यजत ।
@@ -705,6 +880,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He conquered that world  
+where Āditya is.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +906,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one sacrifices with the Varuṇapraghāsas,  
+he conquers that very world
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्व॑रुणप्रघा॒सैर्यज॑ते ।  
@@ -743,6 +930,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+where Āditya is.  
+He attains unison with Āditya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -769,6 +962,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because Āditya sacrificed to king Varuṇa with the Varuṇapraghāsas,  
+that is the essence of the Varuṇapraghāsas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा॑दि॒त्यो वरु॑णँ॒ राजा॑नव्ँवरुणप्रघा॒सैरय॑जत ।
@@ -794,6 +993,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then King Soma sacrificed to the metres with the Sākamedhas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ सोमो॒ राजा॒ छन्दाँ॑सि साकमे॒धैर॑यजत ॥62॥
@@ -811,6 +1015,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He conquered that world  
+where the moon shines forth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -830,6 +1040,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one sacrifices with the Sākamedhas,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +1073,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he conquers that very world  
+where the moon shines forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रम॑स ए॒व सायु॑ज्य॒म् उपै॑ति ।
@@ -875,6 +1096,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He attains unison with the moon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -898,6 +1124,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma indeed is the moon.  
+He directly partakes of Soma,  
+who, knowing thus, sacrifices with the Sākamedhas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -923,6 +1156,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because King Soma and the metres prospered together (samaidhanta),
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्सोम॑श्च॒ राजा॒ छन्दाँ॑सि च स॒मैध॑न्त ॥63॥  
@@ -947,6 +1185,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is the essence of the Sākamedhas.  
+Then the seasons, the ancestors, sacrificed to Prajāpati the father with the Pitṛyajña.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒र्तव॑ᳶ पि॒तर॑ᳶ प्र॒जाप॑तिम् पि॒तर॑म् पितृय॒ज्ञेना॑यजन्त ।
@@ -964,6 +1208,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They conquered that world  
+where the seasons are.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -984,6 +1234,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one sacrifices with the Pitṛyajña,  
+he conquers that very world
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पि॑तृय॒ज्ञेन॒ यज॑ते ।  
@@ -1003,6 +1259,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+where the seasons are.  
+He attains unison with the seasons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॑न्नृ॒तवः॑ ।  
@@ -1021,6 +1283,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because the seasons, the ancestors, sacrificed to Prajāpati the father with the Pitṛyajña,  
+that is the essence of the Pitṛyajña.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1046,6 +1314,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the plants sacrificed to this deity with the Tryambakas, \[saying,\] “May we spread forth!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथौष॑धय इ॒मन् दे॒वन् त्र्य॑म्बकैर् अयजन्त॒ प्रथे॑म॒हीति॑ ।
@@ -1064,6 +1337,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then indeed they spread forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै ता अ॑प्रथन्त ।
@@ -1081,6 +1359,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, knowing thus, sacrifices with the Tryambakas,  
+spreads forth with offspring and domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1106,6 +1390,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then Vāyu sacrificed to Parameṣṭhin with the Śunāsīrīya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ वा॒युᳶ प॑रमे॒ष्ठिनँ॑ शुनासी॒रीये॑णायजत ।
@@ -1123,6 +1412,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He conquered that world  
+where Vāyu is.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1142,6 +1437,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one sacrifices with the Śunāsīrīya,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1169,6 +1469,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he conquers that very world  
+where Vāyu is.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॑न्वा॒युः ॥65॥  
@@ -1188,6 +1494,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He attains unison with Vāyu.  
+The discussers of sacred lore say:  
+“Does the performer of the four-month sacrifices die or does he not die?”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1213,6 +1526,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Living indeed, he enters into the seasons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जीव॒न् वा ए॒ष ऋ॒तून् अप्ये॑ति ।
@@ -1235,6 +1553,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he dies in the spring,  
+he becomes the spring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1266,6 +1590,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If in the summer, the summer.  
+If in the rains, the rains.  
+If in the autumn, the autumn.  
+If in the winter, the winter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॑ ग्री॒ष्मे ग्री॒ष्मः ।  
@@ -1295,6 +1627,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having become a season, he enters into the year.  
+The year is Prajāpati.  
+He indeed is Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 

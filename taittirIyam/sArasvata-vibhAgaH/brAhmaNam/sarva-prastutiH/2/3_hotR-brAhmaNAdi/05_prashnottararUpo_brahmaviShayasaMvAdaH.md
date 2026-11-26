@@ -13,6 +13,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The discussers of sacred lore say:  
+'When the Daśahotṛs held a sacrificial session,  
+by means of what householder did they prosper?
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्र॒ह्म॒वा॒दिनो॑ वदन्ति ।
@@ -60,6 +67,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of what did they create offspring?'  
+By means of Prajāpati as householder they prospered;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिना॒ वै ते गृ॒हप॑तिनाऽऽर्ध्नुवन् ।  
@@ -85,6 +98,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by means of him they created offspring.  
+'When the Caturhotṛs held a sacrificial session,  
+by means of what householder did they prosper?
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -115,6 +135,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By means of what did they create plants?'  
+By means of Soma as householder they prospered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -147,6 +173,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through him they generated the plants.  
+When the five-hotṛ-formula deities sat for a sacrificial session,  
+with what householder did they prosper?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पञ्च॑होतारस्स॒त्रमास॑त ।  
@@ -177,6 +210,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With whom did they drive away the asuras from these worlds?  
+With whom did they take away their domestic animals?"  
+With Agni as their householder they prospered.  
+Through him they drove away the asuras from these worlds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -215,6 +256,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through him they took away their domestic animals.  
+When the six-hotṛ-formula deities sat for a sacrificial session,  
+with what householder did they prosper?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्षड्ढो॑तारस्स॒त्रमास॑त ।  
@@ -244,6 +292,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With whom did they arrange the seasons?"  
+With Dhātṛ as householder they prospered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -275,6 +329,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through him they arranged the seasons.  
+When the seven-hotṛ-formula deities sat for a sacrificial session,  
+with what householder did they prosper?  
+With whom did they go to heaven?
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -318,6 +380,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With whom did they stretch across these worlds?"  
+With Aryaman as householder they prospered.  
+Through him they went to heaven.  
+Through him they stretched across these worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒म्णा वै ते गृ॒हप॑तिनाऽऽर्ध्नुवन् ।  
@@ -350,6 +420,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These gods indeed are the householders.  
+Knowing them thus, he who  
+undergoes initiation even at another's householder fire  
+prospers directly among the participants of the sacrificial session.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -393,6 +471,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows Aryaman,  
+for him offspring are eager to make gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा अ॑र्य॒मणव्ँ॒वेद॑ ।
@@ -433,6 +517,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aryaman is indeed the sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वा अ॑र्य॒मा ।
@@ -455,6 +544,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"A noble abode," they say of him whom they praise.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -484,6 +578,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A noble abode he becomes,  
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -521,6 +621,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever there is here,  
+all that is the cāturhotṛ formulae.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्वा इ॒दङ्किञ्च॑ ।  
@@ -546,6 +652,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the cāturhotṛ formulae the sacrifice was fashioned.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -580,6 +691,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one knowing thus should argue:  
+"I know more,  
+who know the cāturhotṛ formulae,"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -625,6 +743,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he indeed knows more,  
+who knows the cāturhotṛ formulae.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ह्ये॑व भूयो॒ वेद॑ ।
@@ -654,6 +778,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows the hotṛs of the cāturhotṛ formulae  
+eats food among all creatures;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -701,6 +831,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he conquers all quarters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वा॒ दिशो॒ऽभिज॑यति ।
@@ -728,6 +863,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati is the hotṛ of the ten-hotṛ formula;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -758,6 +898,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma is the hotṛ of the four-hotṛ formula;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोम॒श्चतु॑र्होतृणाँ॒ होता॑ ।
@@ -775,6 +920,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the hotṛ of the five-hotṛ formula;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -794,6 +944,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dhātṛ is the hotṛ of the six-hotṛ formula;
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒ता षड्ढो॑तृणाँ॒ होता॑ ।
@@ -811,6 +966,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Aryaman is the hotṛ of the seven-hotṛ formula.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -830,6 +990,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These indeed are the hotṛs of the cāturhotṛ formulae.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒ते वै चतु॑र्होतृणाँ॒ होता॑रः ।
@@ -848,6 +1013,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows them thus  
+eats food among all creatures;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -879,6 +1050,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he conquers all quarters.
+</details>
 
 <details><summary>मूलम्</summary>
 

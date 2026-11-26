@@ -28,6 +28,19 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O gods, stride forth among the gods;  
+the first among the second,  
+the second among the third;  
+you thrice eleven, protect me here.  
+May I accomplish this that I am doing;  
+let the self act for the self.  
+I shall perform this healing;  
+O you who have all healing remedies,  
+you two Aśvins, protect this \[work\] of mine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॑ दे॒वेषु॒ परा॑क्रमध्वम् ।  
@@ -61,6 +74,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here do I \[turn away\] the front of the attacking army.
+
+I wipe away the surface.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दम॒हँ सेना॑या अ॒भीत्व॑र्यै ॥42॥  
@@ -85,6 +105,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Shine out with the light of the sun,  
+for great power of the senses.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -123,6 +149,17 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the womb of ghee swell;  
+may Agni approve the offerings.  
+Anoint your opening, anoint your skin,  
+you of handsome form, finding goods  
+by the fiery energy of cattle;  
+I besprinkle \[it\], acceptable to Agni;  
+I make a pleasant seat for you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप्या॑यताङ्घृ॒तयो॑निः ।  
@@ -160,6 +197,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With a stream of ghee I prepare a very kind \[seat\].  
+Sit upon that, stand firm upon immortality,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्यो॒नन्ते॒ सद॑नङ्करोमि ॥43॥  
@@ -184,6 +227,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you sacrificial essence of rice, being well-disposed;  
+moist, expansive, guardian of the world,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -217,6 +266,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+cooked, the generator of thoughts swims up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒र्द्रᳶ प्र॑थस्नु॒र्भुव॑नस्य गो॒पाः ।  
@@ -247,6 +301,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That self of yours which has entered the cattle,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -282,6 +341,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+which was distributed throughout the forms of the gods—  
+having indeed become endowed with a self, O Soma, full of ghee,  
+go to the gods, find heaven for me, the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्त॑ आ॒त्मा प॒शुषु॒ प्रवि॑ष्टः ।  
@@ -316,6 +382,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let refreshment, prosperity, the sap of the earth not depart.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इरा॒ भूति॑ᳶ पृथि॒व्यै रसो॒ मोत्क्र॑मीत् ॥44॥  
@@ -349,6 +420,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods are the fathers, the fathers are the gods;  
+being who I am, I sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवा॑ᳶ पितर॒ᳶ पित॑रो देवाः ।  
@@ -376,6 +453,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I do not bypass him whose I am.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -411,6 +493,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+My own is the offered, my own the given,  
+my own the consecrated work, my own the toiled,  
+my own the poured oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वम्म॑ इ॒ष्टँ स्वन्द॒त्तम् ।  
@@ -435,6 +524,18 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of that, Agni is the overseer for me,  
+Vāyu the listener,  
+the Āditya the announcer,  
+heaven the father,
+
+the earth the mother,  
+Prajāpati the kinsman.  
+Just being who I am, I sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -476,6 +577,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do not fear, do not tremble, may I not harm you;  
+may your fiery energy not depart.  
+O two Bhāratas, lift \[it\] up, pour \[ghee\] after it.  
+I shall cut off portions for you in return.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -521,6 +630,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage be to you, do not harm me;  
+if, cutting portions of you,  
+I have done what goes against the hair of your self,
+
+with ghee I anoint it in return;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद॑व॒दाना॑नि तेऽव॒द्यन् ।  
@@ -559,6 +677,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let that swell again for you.  
+Not larger than a barleycorn,  
+let this be cut from the wound.  
+May we not impair the sacrifice;  
+pure and well-sacrificed is this offering.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +726,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seen by Manu, stepping in ghee,  
+stirred by Mitra and Varuṇa,  
+without tearing from the southern half,  
+I cut off \[a portion from the cake\] facing one side.
+
+O Iḍā, enjoy our share;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनु॑ना दृ॒ष्टाङ्घृतप॑दीम् ।  
@@ -636,6 +773,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+quicken the cows, quicken the coursers.  
+May we be consumers of you,  
+whole in self, whole in troop.  
+O bright sun, swell;  
+may there be no exhaustion for me as I give;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इडे॑ भा॒गञ्जु॑षस्व नः ।  
@@ -672,6 +818,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may there be no deficiency for me as I act.  
+You are the ordering of the directions;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रध्न॒ पिन्व॑स्व ।  
@@ -701,6 +853,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the directions be ordered for me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒शाङ्कॢप्ति॑रसि ।  
@@ -725,6 +882,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the directions be ordered for me.
+
+both divine and human.  
+May day and night be well-ordered for me.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +921,16 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the half-months be well-ordered for me.  
+May the months be well-ordered for me.  
+May the seasons be well-ordered for me.  
+May the year be well-ordered for me.  
+You are order; let there be order for me.  
+For the guardians of the regions of the world,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हो॒रा॒त्रे मे॑ कल्पेताम् ।  
@@ -786,6 +961,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the four immortals,  
+for the overseers of being, with this \[offering\],
+
+may we worship with the oblation.  
+Let the one entitled to a share receive his share;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -824,6 +1008,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the one without a share not receive it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भज॑ताम्भा॒गी भा॒गम् ।  
@@ -847,6 +1036,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We exclude the one without a share.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -874,6 +1068,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swell the waters;  
+quicken the plants;  
+protect the two-footed;  
+guard the four-footed;  
+send rain down from heaven.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -929,6 +1132,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This oblation belongs to the Brahmins,
+
+to those worthy of soma who drink the soma draught.  
+Excluded is the non-Brahmin;  
+there is nothing here for the non-Brahmin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रा॒ह्म॒णाना॑मि॒दँ ह॒विः ॥50॥  
@@ -966,6 +1178,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the sacrificial grass be anointed with the oblation, with ghee,  
+together with the Ādityas, the Vasus, and the Maruts.  
+Let it be anointed with Indra, with the All-Gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम॑ङ्क्ताम्ब॒र्हिर्ह॒विषा॑ घृ॒तेन॑ ।  
@@ -1000,6 +1219,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may that which is svāhā go to the heavenly sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दि॒व्यन्नभो॑ गच्छतु॒ यत्स्वाहा॑ ।  
@@ -1033,6 +1257,15 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like Indrāṇī, may I never become a widow;  
+like Aditi, may I be blessed with good sons.  
+O Gārhapatya, \[may I sit\] beside you steadily,
+
+to sit down for good offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1071,6 +1304,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the wife unite with her husband through good deed;  
+yoked to the sacrifice, they have become draft animals.  
+Being of one accord, let them cast off enmities;  
+let them attain imperishable light in heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्पत्नी॒ पत्या॑ सुकृ॒तेन॑ गच्छताम् ।  
@@ -1108,6 +1349,14 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ten are your sacrificial bodies, O sacrifice;  
+let the sacrificer propitiate them with ghee.  
+Praising the instruction of the two Nāriṣṭhas,  
+the sacrificer has become immortal among the divine host of gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दश॑ते त॒नुवो॑ यज्ञ य॒ज्ञियाः॑ ।  
@@ -1137,6 +1386,15 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The share of vigor that the gods allotted to you two,
+
+O two of a hundred resolves,  
+let me propitiate you with that;  
+be sated with that, O you two conquerors of distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यव्ँ वा॑न्दे॒वा अ॑कल्पयन्न् ॥52॥  
@@ -1165,6 +1423,14 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am in the world of the gods who have done good deeds;  
+this sacrifice of mine shall not fail.  
+Knowing \[them\], I make the after-offering to the two Nāriṣṭhas,  
+the share which Indra assigned to them.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1237,6 +1503,14 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 मा नो॑ विदद्वृ॒जना॒ द्वेष्या॒ या ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अदारसृद् भवतु देव सोम-  
+-अस्मिन् यज्ञे मरुतो मृडता नः ।  
+मा नो विदद् अभिभा मो अशस्तिर्  
+मा नः प्रापद् दुच्छुना द्वेष्या या ॥ +++(Bhatt. prāpat ducch-)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अदा॑रऽसृत्। भ॒व॒तु॒। दे॒व॒। सो॒म॒। अ॒स्मिन्। य॒ज्ञे। म॒रु॒तः॒। मृ॒डत॑। नः॒। मा। नः॒। वि॒द॒त्। अ॒भि॒ऽभाः। मो इति॑। अश॑स्तिः। मा। नः॒। वि॒द॒त्। वृ॒जि॒ना। द्वेष्या॑। या।
@@ -1282,6 +1556,19 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be not evasive, O divine Soma;  
+in this sacrifice, O Maruts, be gracious to us.  
+May anger and curses not overtake us;
+
+may hatred and treacherous plots not overtake us.  
+We sacrifice to the vigorous bull,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1301,6 +1588,16 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the full moon.  
+May he yield for us noble heroic power,  
+thousandfold increase of wealth,  
+for exhalation rich in bounties.  
+Svāhā to the full moon!  
+The auspicious, very benevolent new moon,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1334,6 +1631,15 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+swelling ever more like a milk cow,  
+may she yield for us noble heroic power,  
+thousandfold increase of wealth,  
+for inhalation rich in bounties.  
+Svāhā to the new moon!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1373,6 +1679,14 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Strew around, enclose the altar!  
+Being laid this way, do not harm your kin.  
+The seats of the hotṛ are golden-yellow, of beautiful color;  
+these golden ornaments belong to the sacrificer at the sun.
+</details>
 
 <details><summary>मूलम्</summary>
 

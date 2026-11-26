@@ -886,6 +886,15 @@ Dann setztest du am Andachtsort dich nieder, als bester Opfrer, preisenswerth, e
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+paying attention \[to you\] for great wealth.  
+As if encompassed by many treasures,  
+the vigilant followed the wealth in you.
+
+Agni, bright, visible, vast,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृ॒तेव॒ यन्त॑म्ब॒हुभि॑र्वस॒व्यैः॑ ।   
@@ -2500,6 +2509,17 @@ Drum kommen wir zu dir voll Andacht, Agni, dem neu erzeugten, fromm und gotterge
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, through the great luminous sphere of heaven,  
+the poet of the clans, the lord of perpetual clans,  
+the conqueror, the bull of peoples.
+
+The impetuous, refreshing, purifying,  
+radiant, worshipful Agni of riches—  
+that mortal has sacrificed and striven, O Agni,
+</details>
 
 <details><summary>मूलम्</summary>
 

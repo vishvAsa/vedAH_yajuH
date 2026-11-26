@@ -2448,6 +2448,17 @@ Zur guten Stunde ward das Kind geboren, genähret ward es in der Festversammlung
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that youth growing at the assembly;  
+the wise workers purify him with insight;  
+turning to the gods, the sage lifts up his voice.  
+A youth, well clad, wrapped round, he has arrived;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3805,3 +3816,14 @@ Tы – Варуна, а также Митра, о Агни.
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are Varuṇa and Mitra, O Agni;  
+the Vasiṣṭhas magnify you with their thoughts;  
+in you let there be goods easily won;  
+protect us always with your blessings.
+</details>
+</details>

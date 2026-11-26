@@ -2716,6 +2716,19 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </div>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whence it was born, whence this manifold creation?  
+The gods are on this side of its creation;
+
+then who knows whence it came into being?  
+Whence this manifold creation came into being,  
+whether it fashioned \[itself\] or whether not,
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -3202,6 +3215,18 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he who is its overseer in highest heaven,  
+he indeed knows, or if he does not know.  
+What was the forest, and what was the tree,  
+from which they carved out heaven and earth?  
+Wise men, ask with your mind that very thing,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3226,6 +3251,16 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+whereon he stood while supporting the worlds:  
+brahman was the forest, brahman was that tree.
+
+From which they fashioned heaven and earth.  
+Wise men, with mind I declare \[it\] to you:  
+Brahman stood over them, sustaining the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  

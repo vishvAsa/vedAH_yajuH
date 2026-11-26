@@ -11,6 +11,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods and the asuras were in conflict.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वा॒सु॒रास्सय्ँय॑त्ता आसन् ।
@@ -39,6 +44,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra saw this gaze at the clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ए॒तमिन्द्र॒ आज्य॑स्यावका॒शम॑पश्यत् ।
@@ -61,6 +71,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With it he gazed down.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +101,11 @@ unicode_script: devanagari
 
 Then the gods prospered,  
 the Asuras were defeated. 
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon the gods came to be;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -119,6 +139,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the asuras were defeated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँवि॒द्वानाज्य॑म॒वेक्ष॑ते ।
@@ -149,6 +174,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, knowing thus, gazes at the clarified butter
+</details>
+
 <details><summary>मूलम्</summary>
 
 ई॒श्व॒रो वा ए॒षो॑ऽन्धो भवि॑तोः ।
@@ -167,6 +197,12 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+thrives in his own person;  
+his rival is defeated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यश्चक्षु॒षाऽऽज्य॑म॒वेक्ष॑ते ।
@@ -184,6 +220,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The discussers of sacred lore say:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +248,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘When with clarified butter he sprinkles the other oblations,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -240,6 +286,13 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then with what \[does he sprinkle\] the clarified butter?’  
+‘With truth,’ he should say.  
+Truth indeed is the eye;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ केनाज्य॒मिति॑ ।  
@@ -265,6 +318,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with truth indeed he sprinkles it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒त्येनै॒वैन॑द॒भि घा॑रयति ।
@@ -283,6 +341,13 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Liable to become blind is he  
+who gazes at the clarified butter with his eye.  
+Having closed \[his eyes\], he should gaze;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -324,6 +389,12 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he retains the eye in himself.  
+He sprinkles the clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दा॒धारा॒त्मञ् चक्षुः॑ ।  
@@ -343,6 +414,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he ladles the clarified butter.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -373,6 +449,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The metres indeed are clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 छन्दाँ॑सि॒ वा आज्य॑म् ।
@@ -391,6 +472,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he gratifies the metres themselves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छन्दाँ॑स्य् ए॒व प्री॑णाति ।
@@ -408,6 +494,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four times he ladles into the juhū spoon;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -438,6 +529,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+four-footed are domestic animals;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑ष्पादᳶ प॒शवः॑ ।
@@ -456,6 +552,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he secures domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒शूने॒वाव॑रुन्धे ।
@@ -473,6 +574,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eight times into the upabhṛt spoon;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -502,6 +608,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+of eight syllables is the gāyatrī;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टाक्ष॑रा गाय॒त्री ।
@@ -524,6 +635,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+of gāyatrī nature is exhalation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -548,6 +664,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he places exhalation in domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णमे॒व प॒शुषु॑ दधाति   ।
@@ -570,6 +691,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four times into the dhruvā spoon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +725,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four-footed are domestic animals;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑ष्पादᳶ प॒शवः॑ ।
@@ -621,6 +752,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he establishes himself on domestic animals from above.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -645,6 +781,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dedicated to the sacrificer is the juhū;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज॒मा॒न॒दे॒व॒त्या॑ वै जु॒हूः ।
@@ -668,6 +809,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+dedicated to the rival is the upabhṛt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ्रा॒तृ॒व्य॒दे॒व॒त्यो॑प॒भृत् ।
@@ -685,6 +831,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ladling four times into the juhū, he should ladle more;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -720,6 +871,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+ladling eight times into the upabhṛt, less;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टावु॑प॒भृति॑ गृ॒ह्णन्कनी॑यः ।
@@ -742,6 +898,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes the rival subservient to the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -766,6 +927,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A cow is the sruva spoon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -800,6 +966,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four times he ladles into the juhū;
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒तुर्जु॒ह्वाङ्गृ॑ह्णाति ।
@@ -818,6 +989,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore she is four-footed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒च्चतु॑ष्पदी ॥25॥
@@ -835,6 +1011,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eight times into the upabhṛt;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -860,6 +1041,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore she has eight hooves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द॒ष्टाश॑फा ।
@@ -877,6 +1063,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four times into the dhruvā;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -896,6 +1087,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+therefore she has four teats.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒च्चतु॑स्स्तना ।
@@ -913,6 +1109,11 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He thus prepares the cow;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -937,6 +1138,11 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+she, prepared, yields refreshment and vigor for him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सास्मै॒ सँस्कृ॒तेष॒मूर्ज॑न्दुहे ।
@@ -960,6 +1166,12 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which he ladles into the juhū,  
+that is for the fore-offerings;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -988,6 +1200,12 @@ _________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that which \[he ladles\] into the upabhṛt,  
+that is for the fore-offerings and after-offerings;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदु॑प॒भृति॑ ।  
@@ -1007,6 +1225,12 @@ _________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the entire sacrifice, indeed, is that ladled  
+which is the clarified butter in the dhruvā.
+</details>
 
 <details><summary>मूलम्</summary>
 

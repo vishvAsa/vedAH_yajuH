@@ -15,6 +15,13 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the server of the forest trees,  
+namely, the poker.  
+Whoever knows thus
+</details>
+
 <details><summary>मूलम्</summary>
 
 प॒रि॒वे॒षो वा ए॒ष वन॒स्पती॑नाम् ।
@@ -46,6 +53,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+obtains a server.  
+\[He hides\] it in the rubbish heap:
+</details>
+
 <details><summary>मूलम्</summary>
 
 य ए॒वव्ँ वेद॑ ।
@@ -75,6 +88,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Which poker the gods
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -106,6 +124,12 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+placed among mortals,  
+those who are without sense toward us,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -141,6 +165,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+bring them here to us!  
+O poker, enter into us,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "उप॑वे॒षोप॑विड्ढि नः ॥76॥
@@ -173,6 +203,14 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+offspring, nourishment, and wealth;  
+our two-footed and four-footed \[creatures\]  
+make firm and non-departing!'  
+Thus he conceals it from east to west.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति॑ पु॒रस्ता॑त्प्र॒त्यञ्च॒मुप॑गूहति ।
@@ -195,6 +233,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore the Śūdras settle from east to west.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -224,6 +267,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He conceals it from the thick end;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थ॒वि॒म॒त उप॑गूहति ।
@@ -251,6 +299,12 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he makes them non-dissenting.  
+The poker is a fire-stirrer,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -287,6 +341,13 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+a bolt reached with heat, sharpened by the brahman.  
+'The sorrow which is in the poker,  
+may that reach him whom we hate!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 धृष्टि॒र्वा उ॑पवे॒षः ।
@@ -320,6 +381,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, having uttered his name, he hurls it at him:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +445,14 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 इन्द्र॑ एण॒म्परा॑शरीत् ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+निर् अमुन् नुद ओकसः  
+सपत्नो यः पृतन्यति ।  
+निर्बाध्येन हविषा-  
+-इन्द्र एनं पराशरीत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 निः। अ॒मुम्। नु॒दे॒। ओक॑सः। स॒ऽपत्नः॑। यः। पृ॒त॒न्यति॑। नैः॒ऽबा॒ध्ये᳡न। ह॒विषा॑। इन्द्रः॑। ए॒न॒म्। परा॑। अ॒श॒री॒त्। ७५.१।
@@ -431,7 +505,20 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 पुनरप्यृचां त्रयमभिचारार्थमुत्पादयति “निरमुं नुद ओकसः। सपत्नो यः पृतन्यति। निर्बाध्येन हविषा। इन्द्र एणं पराशरीत्।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Thrust that one out of his home,  
+the rival who fights against \[us\]!  
+With the repelling oblation  
+Indra shattered him.
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 > **इहि᳓** तिस्रᳶ᳓ पराव᳓तः ।
 **इहि᳓** प᳓ञ्च ज᳓नाँ अ᳓ति ।
@@ -439,14 +526,30 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 या᳓वत् सू᳓र्यो अ᳓सद्दिवि᳓ ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/3_darsha-pUrNa-mAsAdi/11_upaveShopagUhanam/13_ihi_tisra_parAvataH.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Gemini 3.8 Flash</summary>
 
-<details><summary>मूलम्</summary>
+Go to the three distances!  
+Go beyond the five peoples!  
+Go beyond the three luminaries, as far as  
+the sun shall be in the sky,
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 इ॒हि ति॒स्रᳶ प॑रा॒वतः॑ ।
 इ॒हि पञ्च॒ जनाँ॒ अति॑ ।
 इ॒हि ति॒स्रोऽति॑ रोच॒नायाव॑त् ।  
 सूर्यो॒ अस॑द्दि॒वि ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इहि तिस्रः परावत  
+इहि पञ्च जनाँ अति ।  
+इहि सप्ताति रोचना  
+यावत् सूर्यो असद् दिवि ॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -466,6 +569,7 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 इहि तिस्रः परावतः। इहि पञ्चजनाँ अति। इहि तिस्रोऽतिरोचना यावत्। सूर्यो असद्दिवि।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
@@ -478,6 +582,11 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+to the furthest distance!'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -513,6 +622,12 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"May Indra, the slayer of Vṛtra, lead you  
+where you will not return from again,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि॒वृद्वा ए॒ष वज्रो॒ ब्रह्म॑णा॒ सँशि॑तः ।
@@ -546,6 +661,15 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for unending years!"  
+This threefold thunderbolt is indeed sharpened by brahman.  
+Having struck him with burning pain,  
+having expelled him from these worlds,  
+he lays him low with the thunderbolt of brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒चैवैनव्ँ॑वि॒ध्वा ।  
@@ -565,6 +689,11 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Dead is so-and-so, we have killed so-and-so," he says for the sake of laying \[him\] low.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -590,6 +719,12 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whomever he hates, he should concentrate on him;  
+he strikes him with burning pain.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -11,6 +11,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who turns away unknowing  
+becomes headless, sinful in yonder world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो वा अवि॑द्वान्निव॒र्तय॑ते ।  
@@ -51,6 +57,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+But he who turns away knowing  
+becomes head-possessing, sinless in yonder world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ यो वि॒द्वान्नि॑व॒र्तय॑ते ।  
@@ -80,6 +92,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven deities desiring nourishment turned away:
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वता॒ वै स॒प्त पुष्टि॑कामा॒ न्य॑वर्तयन्त ।
@@ -103,6 +120,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni and the earth,  
+Vāyu and the intermediate space,  
+and Āditya and the sky, and the moon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -155,6 +179,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni turned away;  
+he prospered a thousandfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न्य॑वर्तयत ।
@@ -184,6 +214,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The earth turned away;  
+she prospered with plants \[and\] trees.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -215,6 +251,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu turned away;  
+he prospered with rays of light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर्न्य॑वर्तयत ।
@@ -244,6 +286,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The intermediate space turned away;  
+it prospered with birds.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -275,6 +323,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Āditya turned away;  
+he prospered with rays.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒दि॒त्यो न्य॑वर्तयत ।  
@@ -294,6 +348,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sky turned away;  
+it prospered with lunar mansions.  
+The moon turned away;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -315,6 +376,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prospered with day-and-nights, half-months, months, seasons, \[and\] the year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रमा॒ न्य॑वर्तयत ।  
@@ -335,6 +401,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He prospers with those nourishments  
+with which they prospered,  
+who, knowing thus, turns away and turns around.
+</details>
 
 <details><summary>मूलम्</summary>
 

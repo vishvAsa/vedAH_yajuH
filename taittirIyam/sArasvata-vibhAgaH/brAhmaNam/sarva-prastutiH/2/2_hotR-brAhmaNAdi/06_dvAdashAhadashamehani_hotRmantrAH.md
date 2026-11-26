@@ -12,6 +12,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the end of the sacrifice,  
+namely the tenth day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तो॒ वा ए॒ष य॒ज्ञस्य॑ ।  
@@ -45,6 +51,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the tenth day they praise with the verses of the Serpent Queen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒श॒मेऽह॑न्त्सर्परा॒ज्ञिया॑ ऋ॒ग्भिस्स्तु॑वन्ति ।
@@ -76,6 +87,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having reached the end of the sacrifice,  
+they obtain proper food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञस्यै॒वान्त॑ङ्ग॒त्वा ।  
@@ -94,6 +111,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They praise with three \[verses\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +148,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three are these worlds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑ इ॒मे लो॒काः ।
@@ -149,6 +176,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+from these worlds alone they obtain proper food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -178,6 +210,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They contain \[the word\] 'pṛśni';
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृश्ञि॑वतीर्भवन्ति ।
@@ -195,6 +232,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+food is indeed 'pṛśni'.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -214,6 +256,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They obtain food itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑मे॒वाव॑ रुन्धते ।
@@ -231,6 +278,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the mind he chants the prelude;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -263,6 +315,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the mind he sings the udgītha;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन॒सोद्गा॑यति ।
@@ -280,6 +337,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the mind he chants the response.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,6 +366,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Prajāpati is mind-like;  
+\[it is\] for the attainment of Prajāpati.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +399,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The gods are the serpents;  
+of them this \[earth\] is the queen.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -370,6 +444,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In that they praise with the verses of the Serpent Queen,  
+they become established on this \[earth\] itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्स॑र्परा॒ज्ञिया॑ ऋ॒ग्भिस्स्तु॒वन्ति॑ ।  
@@ -403,6 +483,11 @@ unicode_script: devanagari
 18. The Hotr̥ recites the Four-Hotr̥ formulas, whereby he follows up that chant by a Śastra [^egg_1044].
 
 [^egg_1044]: 452:1 According to this (and Tāṇḍya Br. IV, 9, 13) it would seem that the Hotr̥ is not to recite the hymn of the Mānasa-stotra, as prescribed by the Ait. Br. and Āśv.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Hotṛ recites the Caturhotṛ formulas;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -473,6 +558,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he recites along after the chant for appeasement.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तु॒तमनु॑शँसति॒ शान्त्यै॑ ।
@@ -502,6 +592,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this is the end of the sacrifice,  
+namely, the tenth day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -537,6 +633,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This indeed is the supreme secret brahman of the gods,  
+namely, the Caturhotṛ formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तत्खलु॒ वै दे॒वाना॑म्पर॒मङ्गुह्य॒म्ब्रह्म॑ ।  
@@ -562,6 +664,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the tenth day he recites the Caturhotṛ formulas:
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒श॒मेऽहँ॒ श्चतु॑र्होतॄ॒न्व्याच॑ष्टे ।
@@ -585,6 +692,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having gone to the very end of the sacrifice,  
+he secures the supreme secret brahman of the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -610,6 +723,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He brings it to light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तदे॒व प्र॑का॒शङ्ग॑मयति ॥ 36 ॥
@@ -633,6 +751,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That \[brahman\], having gone to light,  
+brings him to the light of offspring.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -659,6 +783,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He restrains his speech  
+for the support of the sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -693,6 +823,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Day belongs to the deity of the sacrificer;
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज॒मा॒न॒दे॒व॒त्यव्ँ॑ वा अहः॑ ।
@@ -716,6 +851,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+night belongs to the deity of the rival.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -763,6 +903,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By day he should meditate on the night;  
+thereby he deprives the rival of his world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह्ना॒ रात्रि॑न्ध्यायेत् ।
@@ -792,6 +938,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should release speech by day,  
+he would leave the day over for the rival.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -825,6 +977,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should release \[speech\] by night,  
+he would leave the night over for the rival.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन्नक्तव्ँ॑विसृ॒जेत् ।  
@@ -843,6 +1001,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the sun is above the trees, he releases his speech:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -872,6 +1035,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he leaves only so much of the world over for him  
+as \[the time\] while the sun sets.
+</details>
 
 <details><summary>मूलम्</summary>
 

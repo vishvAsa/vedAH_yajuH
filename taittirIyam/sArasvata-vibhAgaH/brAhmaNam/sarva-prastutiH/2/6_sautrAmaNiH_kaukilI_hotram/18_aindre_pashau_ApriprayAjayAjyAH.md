@@ -615,6 +615,14 @@ the Anuṣṭubh metre, faculty, the five-year-old bull, [and] vitality have bes
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni on good sacred grass, accompanied by Pūṣan,  
+on strewn sacred grass, the immortal one;  
+the bṛhatī meter, power of the senses,  
+a thirty-month-old cow—they bestowed youthful vitality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒ब॒र्हिर॒ग्निᳶ पू॑ष॒ण्वान् ।
@@ -1511,6 +1519,14 @@ the Dvipadā metre, faculty, like a bull, [and] vitality have bestowed [it].
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The plant \[and tree\] is our slaughterer,  
+Savitṛ impelling Bhaga;  
+the kakubh meter, power of the senses here,  
+like a barren or miscarrying cow—they bestowed youthful vitality.
+</details>
 
 <details><summary>मूलम्</summary>
 

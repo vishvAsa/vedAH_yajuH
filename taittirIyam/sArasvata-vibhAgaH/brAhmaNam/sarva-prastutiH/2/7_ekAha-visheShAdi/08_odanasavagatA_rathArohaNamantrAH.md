@@ -19,6 +19,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“Step forth, show your heroism,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भिप्रेहि॑ वी॒रय॑स्व ।
@@ -41,6 +46,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+fierce avenger, slayer of rivals!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -73,6 +83,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount \[the chariot\], advancer of friends;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आति॑ष्ठ मित्र॒वर्ध॑नः ।
@@ -95,6 +110,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+on your behalf the gods have spoken.”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -126,6 +146,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount the chariot on its curved parts, O slayer of Vṛtra!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -634,6 +659,16 @@ Sie alle schmückten den, der nun emporstieg [die Sonne]; in Glanz gekleidet wan
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Around him mounting, all \[creatures\] adorned themselves;  
+clothed in splendor, self-luminous he moves;  
+great is that name of this Asura;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -734,6 +769,16 @@ may all the gods favor you, the seven kings who have been consecrated with water
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Soma, may Agni have protected \[you\]!  
+May the All-gods help you,  
+and the seven kings who have also been consecrated.  
+May Mitra and Varuṇa help you here,  
+and heaven and earth that bring welfare to all.  
+May the sun help you with the days;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनु॑ त्वा मि॒त्रावरु॑णावि॒हाव॑तम् ।  
@@ -770,6 +815,15 @@ may all the gods favor you, the seven kings who have been consecrated with water
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the moon help you with the lunar mansions.  
+May heaven and earth, wise ones,  
+may the clear soma cup and the lofty sacrificial gift protect you!  
+Attentive to the ancestral oblation, may Soma and Agni,  
+may this one fill both realms and the lap!”
+</details>
 
 <details><summary>मूलम्</summary>
 

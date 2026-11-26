@@ -782,6 +782,17 @@ Den perlgeschmückten, allgestalt'gen Wagen, mit goldnem Joch den hohen hat best
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Covered with pearls, all-formed,  
+with golden yoke-pins, worthy of worship, great,  
+god Savitṛ of bright radiance has mounted his chariot,  
+traversing the dark realms, displaying strength.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1133,6 +1144,18 @@ Es schaffe nun Gott Savitar, der starke, uns Schätze her, der reiche Herr der S
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that god Savitṛ, the lord of goods,  
+impel wealth for us at his impelling.
+
+Spreading out broad brilliance,  
+he now bestows sustenance upon mortals.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1472,6 +1495,17 @@ Weissfüss'ge Braune, die den Wagen ziehen, dess Deichsel golden, bringen Licht 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The dark, white-footed steeds have looked out upon the peoples,  
+drawing the chariot with its golden pole.  
+Continually all realms have stood within the lap  
+of the divine Savitṛ, according to the quarters.
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1832,6 +1866,17 @@ Der schön beschwingte hat erhellt die Lüfte, der tieferregte Gott, der herrlic
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The beautiful-winged bird has surveyed the midspaces,  
+the asura of deep stirring, the good guide.  
+Where is the sun now? Who has understood it?  
+To which heaven has his ray extended?
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1849,6 +1894,14 @@ Der schön beschwingte hat erhellt die Lüfte, der tieferregte Gott, der herrlic
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seeking to win Bhaga, the prayer, and Purandhi,  
+may Narāśaṃsa, the lord of the wives of the gods, protect us!  
+When goods are brought together,  
+may we be dear to the lovely god Savitṛ.
+</details>
 
 <details><summary>मूलम्</summary>
 

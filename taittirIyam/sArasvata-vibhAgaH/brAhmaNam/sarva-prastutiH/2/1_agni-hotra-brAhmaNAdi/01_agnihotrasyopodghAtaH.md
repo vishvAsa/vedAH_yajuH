@@ -13,6 +13,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Aṅgirases sat for a sacrificial session.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अङ्गि॑रसो॒ वै स॒त्त्रमा॑सत ।
@@ -36,6 +41,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Their milk-cow for the hot offering was Pṛśni.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेषा॒म्पृश्ञि॑र्घर्म॒धुगा॑सीत् ।
@@ -58,6 +68,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She lived on the pressed soma-dregs.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +99,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They said:  
+'For what purpose do we sit for a sacrificial session,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते॑ऽब्रुवन् ।
@@ -109,6 +130,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+if we do not produce plants for her?'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते दि॒वो वृष्टि॑मसृजन्त ।
@@ -132,6 +158,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They sent forth rain from heaven.  
+As many drops as fell down,  
+so many plants sprang up.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -157,6 +190,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Fathers smeared those that had grown with poison.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता जा॒ताᳶ पि॒तरो॑ वि॒षेणा॑लिम्पन्न् ॥1॥
@@ -179,6 +217,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having eaten of them, \[the cow\] wandered about suffering pain.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +246,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They said:  
+'Who has done this in this manner?'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -229,6 +278,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'We, desiring a share,' the Fathers said.  
+'What is your share?' \[they asked\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 "व॒यम्भा॑ग॒धेय॑मि॒च्छमा॑ना॒" इति॑ पि॒तरो॑ऽब्रुवन् ।  
@@ -254,6 +309,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Let us have a share in the Agnihotra,' they said.  
+They gave them this share,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒ग्नि॒हो॒त्र ए॒व नोऽप्य॒स्त्वि"त्य॑ब्रुवन् ।
@@ -277,6 +338,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+namely that after offering, he wipes off \[his hand\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -302,6 +368,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon they made the plants sweet.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॒ वै त ओष॑धीरस्वदयन् ।
@@ -325,6 +396,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[He who\] knows thus—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -352,6 +428,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the plants become sweet to him.  
+They sent forth the calf:  
+'Make her give this offering for us.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते व॒त्समु॒पावा॑सृजन् ।  
@@ -377,6 +460,13 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It said: 'Let me choose a boon:  
+when born, let them not milk me for ten nights;  
+let me wander with my mother until the cow-gathering time.'
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -405,6 +495,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore they do not milk a calf when born for ten nights;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्व॒त्सञ्जा॒तन्दश॒ रात्री॒र्न दु॑हन्ति ।
@@ -429,6 +524,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it wanders with its mother until the cow-gathering time,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒स॒ङ्ग॒वम्मा॒त्रा स॒ह च॑रति ।
@@ -447,6 +547,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it is chosen as its boon.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -476,6 +581,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore Rudra is prone to kill a calf that suckles promiscuously,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द्व॒त्सँ सँ॑सृष्टध॒यँ रु॒द्रो घातु॑कः ।
@@ -493,6 +603,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for it suckles beyond the agreement.
+</details>
 
 <details><summary>मूलम्</summary>
 

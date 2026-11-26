@@ -446,6 +446,7 @@ the waters are Bhuh, Bhuvah, Suvah, Om.
 
 
 
+
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="../03_japaH">
 
 </div>
@@ -785,6 +786,7 @@ the waters are Bhuh, Bhuvah, Suvah, Om.
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03_japaH/04_indraM_vo_vishvataspari_havAmahe_ityanuvAkaM">
 
 ### ०४ ‘इन्द्रं वो विश्वतस्परि' …{Loading}…
+
 
 
 
@@ -4610,6 +4612,14 @@ Smite the foes, drive away the enemy.
 सृ॒कँ सँ॒शाय॑ प॒विमि॑न्द्र ति॒ग्मव्ँवि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व  ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+मृगो न भीमः कुचरो गिरिष्ठाः  
+परावत आ जगामा परस्याः ।  
+सृकं संशाय पविम् इन्द्र तिग्मं  
+वि शत्रून् ताढि वि मृधो नुदस्व ॥ +++(Bhatt. tāḍi)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 मृ॒गः। न। भी॒मः। कु॒च॒रः। गि॒रि॒ऽस्थाः। प॒रा॒ऽवतः॑। आ। ज॒ग॒म्या॒त्। पर॑स्याः। सृ॒कम्। स॒म्ऽशाय॑। प॒विम्। इ॒न्द्र॒। ति॒ग्मम्। वि। शत्रू॑न्। ता॒ढि॒। वि। मृधः॑। नु॒द॒स्व॒। ८९.३।
@@ -4873,6 +4883,14 @@ svastí ← svastí- (nominal stem)
 
 त्रातारमिन्द्रमवितारमिन्द्रँ हवे हवे सुहवँ शूरमिन्द्रम्।  
 ह्वयामि शक्रं पुरुहूतमिन्द्रँ स्वस्ति नो मघवा धात्विन्द्रः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+त्रातारम् इन्द्रम् अवितारम् इन्द्रं  
+हवेहवे सुहवं शूरम् इन्द्रम् ।  
+हुवेम शक्रं पुरुहूतम् इन्द्रं  
+स्वस्ति नो मघवान् पात्व् इन्द्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -8235,6 +8253,7 @@ him whom [2] we hate and who hateth us I place in your jaws.
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03_japaH/17_AshushshishAnaH">
 
 ### १७ 'आशुश्शिशानः' …{Loading}…
+
 
 
 
@@ -12665,10 +12684,18 @@ May Indra accord you protection
 That ye may be unassailable.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उप॒ प्रेत॒ जय॑ता नरस्स्थि॒रा व॑स्सन्तु बा॒हवः॑ ।  
 इन्द्रो॑ व॒श्शर्म॑ यच्छत्वनाधृ॒ष्या यथाऽस॑थ ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+प्रेता जयता नर  
+उग्रा वः सन्तु बाहवः ।  
+इन्द्रो वः शर्म यच्छत्व्  
+अनाधृष्या यथासथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -13484,6 +13511,7 @@ May for me fair dawning, and fair day prosper through the sacrifice.
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="../03_japaH/19_mamAgne">
 
 ### १९ ‘ममाग्ने’, …{Loading}…
+
 
 
 
@@ -15479,6 +15507,14 @@ rīriṣaḥ ← √riṣ- (root)
 स नः प्रजायै हर्यश्व मृडेन्द्र मा नो रीरधो मा परा दाः
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+उरुव्यचा नो महिषः शर्म यच्छाद्  
+अस्मिन् वाजे पुरुहूतः पुरुक्षुः ।  
+स नः प्रजायै हर्यश्व मृड-  
+-इन्द्र मा नो रीरिषो मा परा दाः ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒रु॒ऽव्यचाः॑ । नः॒ । म॒हि॒षः । शर्म॑ । यं॒स॒त् । अ॒स्मिन् । हवे॑ । पु॒रु॒ऽहू॒तः । पु॒रु॒ऽक्षुः ।  
@@ -16353,6 +16389,7 @@ Ally of it we make thee, O lord of the bays.
 
 
 
+
 ‘अग्नेर्मन्वे’ इत्यनुवाकान्,
 
 <div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/7/15_ashvamedha-yAjyAnuvAkyAH_mRgAram_agner_manve/">
@@ -17110,6 +17147,14 @@ who have become the two overlords of all: release us from transgression.
 
 वायोस्सवितुर्विदथानि मन्महे या आत्मन्वद्विभृथो यौ च रक्षथः।  
 यौ विश्वस्याधिपा बभूवथुस्तौ नो मुञ्चतमागसः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+वायोः सवितुर् विदथानि मन्महे  
+याव् आत्मन्वद् विदथो यौ च रक्षथः ।  
+यौ विश्वस्य परिभू बभूवथुस्  
+तौ नो मुञ्चतम् अंहसः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -22990,6 +23035,7 @@ the formidable, unconquered one has grown great.
 
 
 
+
 <div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/7_ekAha-visheShAdi/07_odana-savaH_-_siMhe_vyAghre">
 <details open><summary><h4>०७ ओदन-सवः - सिंहे व्याघ्रे ...{Loading}...</h4></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -23060,6 +23106,14 @@ You are a ruler.
 
 सिँहे᳓ व्याघ्र᳓ उत᳓ या᳓ पृ᳓दाकौ त्वि᳓षिरग्नौ᳓ ब्राह्मणे᳓ सू᳓र्ये या᳓।  
 इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न से᳓य᳓मा᳓गाद्व᳓र्चसा संविदाना᳓
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सिंहे व्याघ्र उत या पृदाकौ  
+त्विषिर् अग्नौ ब्राह्मणे सूर्ये या ।  
+इन्द्रं या देवी सुभगा ववर्ध  
+सा न ऐतु वर्चसा संविदाना ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -23248,12 +23302,28 @@ For long-lived Indra, I mix you long-lived.
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/08_yA_hastini.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is in the elephant, in the panther, that which is in gold,  
+the brilliance in horses, in men, in cows,
+
+the divine, fortunate goddess who gave birth to Indra—  
+may she come to us, agreeing, with luster!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये ।  
 त्विषि॒रश्वे॑षु॒ पुरु॑षेषु॒ गोषु॑ ॥16॥  
 इन्द्रय्ँ॒या दे॒वी सु॒भगा॑ ज॒जान॑ ।  
 सा न॒ आग॒न्वर्च॑सा सव्ँ विदा॒ना ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+(या) हस्तिनि द्वीपिनि या हिरण्ये  
+त्विषिर् अश्वेषु पुरुषेषु गोषु ।  
+(…) ॥ +++(see 1cd)+++
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -23333,6 +23403,14 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 इ᳓न्द्रं या᳓ देवी᳓ सुभ᳓गा जजा᳓न से᳓य᳓मा᳓गाद्व᳓र्चसा संविदाना᳓
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+रथे अक्षेष्व् ऋषभस्य वाजे  
+पर्जन्ये वाते वरुणस्य शुष्मे ।  
+इन्द्रं या देवी सुभगा ववर्ध  
+(…) ॥ +++(see 1d)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 रथे॑। अ॒क्षेषु॑। ऋ॒ष॒भस्य॑। वाजे॑। वाते॑। प॒र्जन्ये॑। वरु॑णस्य। शुष्मे॑। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.३।
@@ -23406,6 +23484,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are king, you are sovereign ruler,
+</details>
+
 <details><summary>मूलम्</summary>
 
 राड॑सि वि॒राड॑सि ।
@@ -23428,6 +23511,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are emperor, you are autonomous ruler.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23460,6 +23548,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of fiery energy, I mix you full of fiery energy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा॒ तेज॑स्वते॒ तेज॑स्वन्तँ श्रीणामि ।  
@@ -23482,6 +23575,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of splendorous might, I mix you full of splendorous might.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23506,6 +23604,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra full of milk, I mix you full of milk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य त्वा॒ पय॑स्वते॒ पय॑स्वन्तँ श्रीणामि ।
@@ -23528,6 +23631,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra endowed with a lifespan, I mix you endowed with a lifespan.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23560,6 +23668,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You are fiery energy;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेजो॑ऽसि ।  
@@ -23582,6 +23695,12 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.  
+Fiery may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23615,6 +23734,14 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/38_tejasvad_astu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+fiery may my head be;  
+fiery facing in all directions.  
+Unite me with fiery energy!”  
+“You are splendorous might;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेज॑स्वदस्तु मे॒ मुख॑म् ।  
@@ -23650,6 +23777,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ओजो॑ऽसि ।
@@ -23672,6 +23804,11 @@ the fortunate goddess who brought forth Indra, she has come here, harmonizing wi
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Might-filled may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23768,6 +23905,11 @@ Sap-rich be my face, sap-rich be my head;
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You are milk;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पयो॑ऽसि ।
@@ -23790,6 +23932,11 @@ Sap-rich be my face, sap-rich be my head;
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -23881,6 +24028,11 @@ long-lived from every side, turned inwards, unite me with life.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that I bestow on you.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॑रसि ।
@@ -23903,6 +24055,11 @@ long-lived from every side, turned inwards, unite me with life.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endowed with a lifespan may my face be;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -24062,6 +24219,14 @@ O ye All-gods, that he may win old age.
 मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इमम् अग्न आयुषे वर्चसे धाः  
+प्रियं रेतो वरुण मित्र राजन् ।  
+मातेवास्मा अदिते शर्म यच्छ  
+विश्वे देवा जरदष्टिर् जथासत् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 इ॒मम्। अ॒ग्ने॒। आयु॑षे। वर्च॑से। न॒य॒। प्रि॒यम्। रेतः॑। व॒रु॒ण॒। मि॒त्रऽरा॒ज॒न्। मा॒ताऽइ॑व। अ॒स्मै॒। अ॒दि॒ते॒। शर्म॑। य॒च्छ॒। विश्वे॑। दे॒वाः॒। ज॒रत्ऽअ॑ष्टिः। यथा॑। अस॑त्। २८.५।
@@ -24124,6 +24289,16 @@ O ye All-gods, that he may win old age.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“Make this man, O Agni, \[ready\] for lifespan, for luster,  
+a dear seed, O Varuṇa, O king Soma;  
+like a mother, O Aditi, grant him protection,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -24140,6 +24315,11 @@ O ye All-gods, that he may win old age.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O All-gods,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -24253,6 +24433,17 @@ with the brilliance of all of them, with luster, I consecrate you.
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/07_odana-savaH_siMhe-vyAghre/69_samudra_ivAsi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+whence the rivers flow,  
+with the brilliance of all of them,  
+with luster I sprinkle you.”  
+“Like the ocean are you in depth;  
+like Soma are you unassailable;  
+like Agni facing in all directions;  
+like the sun pervading with light.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्र इ॑वासि ग॒ह्मना॑ ।  
@@ -24286,6 +24477,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+“The essence of the waters which is in their flowing,  
+that do I draw for this descendant of so-and-so,  
+for fiery energy, for spiritual preeminence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँ यो द्रव॑णे॒ रसः॑ ।  
@@ -24314,6 +24512,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is in the wave,  
+that do I draw for this descendant of so-and-so,  
+for splendorous might, for heroic power.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँय ऊ॒र्मौ रसः॑ ।   
@@ -24336,6 +24541,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is in the middle,  
+that do I draw for this descendant of so-and-so,  
+for nourishment, for procreation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाय्ँ यो म॑ध्य॒तो रसः॑ ।  
@@ -24356,6 +24568,13 @@ with the brilliance of all of them, with luster, I consecrate you.
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The essence of the waters which is fit for sacrifice,  
+that do I draw for this descendant of so-and-so,  
+for lifespan, for long life.”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -31377,6 +31596,7 @@ Es werde diese Zumischung dieser Milch zugefüllt, und dem Samen des Stieres [de
 
 
 
+
 <div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/9_shukla-kRShNa-pashvAdi-mantrAH">
 <details open><summary><h4>०९ शुक्लकृष्णपश्वादीनां सूक्तानि ...{Loading}...</h4></summary>
 
@@ -32283,6 +32503,11 @@ Nacheinander umwandern mit ihrer Zaubermacht diese beiden munteren Kinder [Sonne
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+two children playing, they go round the sacrificial rite.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिर॑ण्यवर्णा॒श्शुच॑यᳶ पाव॒का यासाँ॒ राजा॑ ।
@@ -32339,6 +32564,14 @@ who bore Agni as an embryo, diverse in form—may those waters be peaceful and p
 
 हिर॑ण्यवर्णा॒श्शुच॑यः पाव॒का यासु॑ जा॒तः क॒श्यपो॒ यास्व॒ग्निः ।  
 या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्तास्त॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+हिरण्यवर्णाः शुचयः पावका  
+यासु जातः कश्यपो यास्व् इन्द्रः ।  
+या अग्निं गर्भं दधिरे सुवर्णास्  
+ता न आपः शं स्योना भवन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -32584,6 +32817,15 @@ who moisten the earth with milk, bright—may those waters be peaceful and pleas
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+there was neither the realm of space nor the sky beyond.  
+What covered \[it\]? Where? In whose protection?
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -32670,6 +32912,11 @@ All the fires that sit in the waters I invoke; deposit in me brilliance, strengt
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+there was no sign of night nor of day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपो॑ भ॒द्रा  
@@ -32694,6 +32941,16 @@ All the fires that sit in the waters I invoke; deposit in me brilliance, strengt
 </details>
 
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That One breathed, breathless, by its own impulse;  
+other than that there was nothing whatever beyond.  
+Darkness there was, hidden by darkness in the beginning;
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -32773,6 +33030,14 @@ sharp is the sap of those that blend with sweetness, coming readily; may it come
 
 आपो देवीर्धृतमिदाप आसन्नग्रीषोमौ बिभ्रत्या᳓प इ᳓त्ताः᳓।  
 तीव्रो᳓ र᳓सो मधुपृ᳓चामरङ्गम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसागन्
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आपो देवीर् घृतम् इद् आप आहुर्  
+अग्नीषोमौ बिभ्रत्य् आप इत् ताः ।  
+तीव्रो रसो मधुपृचाम् अरङ्गम  
+आ मा प्राणेन सह वर्चसागन् ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -32953,6 +33218,14 @@ I considered myself a partaker of nectar then, when I satisfied you, the golden-
 
 आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्ग आसाम्।  
 मेने᳓ भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आद् इत् पश्याम्य् उत वा शृणोम्य्  
+आ मा घोषो गच्छति वाङ् मासाम् ।  
+मेने भेजानो अमृतस्य तर्हि  
+हिरण्यवर्णा अतृपं यदापः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -43005,6 +43278,7 @@ ________________
 
 
 
+
 'नवोनवो भवति' इत्यनुवाकान्
 
 <div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/1_nAxatrAdi/3_chAndramAsAdInAM_saptAnAmiShTInAM_yAjyAnuvAkyAH">
@@ -43514,6 +43788,15 @@ The guardians of the world make us to swell.
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two of different form, of one mind, clothing themselves together,  
+who stretch around the common thread,
+</details>
+</details>
+
 ###### अहोरात्रे
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -43538,6 +43821,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/03_ye_virUpe.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+the pervasive, the potent, the conforming, I call from every side;  
+may those two lunar mansions come to our call!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये विरू॑पे॒ सम॑नसा सव्ँ॒ व्यय॑न्ती ।  
@@ -43570,6 +43859,13 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/04_vayandevI_brahmaNA.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+We, being in accord with the goddess through brahman,  
+rich in jewels, presenting the feast for the gods,  
+increasing day and night with oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒यन्दे॒वी ब्रह्म॑णा सव्ँ विदा॒नाः ।     
@@ -43613,6 +43909,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/05_pratyuvadRshyAyatI_24.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we pass beyond evil through deliverance!  
+Lo, she has been seen approaching,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  
@@ -43646,6 +43948,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/06_tamo_jyotiShkRNoti.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+shining forth, the daughter of heaven;  
+the great one uncovers the waters with her eye.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ।  
@@ -43691,6 +43999,12 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/07_sambhaktena_gamemahi.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The noble one makes light out of darkness;  
+the sun accompanies the reddish dawn-rays;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  
@@ -43725,6 +44039,11 @@ The guardians of the world make us to swell.
 
 <div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/3/08_pra_nakhShatrAya.md">
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+rising together with them, the radiant lunar mansion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र नक्ष॑त्राय दे॒वाय॑ ।  
@@ -44199,6 +44518,11 @@ Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann 
 
 ###### सूर्यः
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we attain our share!
+</details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -44757,6 +45081,11 @@ Let Aditi give us protection,
 Let Aditi guard us from tribulation.
 </details>
 
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the brilliant fiery energy rising up,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -45552,6 +45881,14 @@ víśvā ← víśva- (nominal stem)
 
 प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
 य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.6.10)+++प्र तद् विष्णु स्तवते वीर्याणि  
+मृगो न भीमः कुचरो गिरिष्ठाः ।  
+यस्योरुषु त्रिषु विक्रमणेष्व्  
+अधिक्षियन्ति भुवनानि विश्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -47229,6 +47566,15 @@ A joy to the giver.
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“Here Viṣṇu…”, “Forth that Viṣṇu…”  
+“Agni is head…”, “Bhūḥ…”
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/24_anv_id.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -47515,6 +47861,13 @@ Favor that well-offered [rite], O Agni,
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/4_upahomAdi/1/29_sviShTamagne_abhi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+overcome all hostiles, O god;  
+shine out, showing us the broad path;  
+grant us luminous, unaging \[life\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वि॑ष्टमग्ने अ॒भि तत्पृ॑णाहि ।  
@@ -51288,6 +51641,7 @@ Dies bitt' ich dich, verehrend mit Gebeten, und darum wirbt mit Opfertrank der O
 
 
 
+
 <details><summary>वडवूरु-श्रीनिवास-विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अत्र प्रतिसर-जप-काले "हिरण्य-वर्णा इत्य् अनुवाक" इतिवद्  
@@ -51366,6 +51720,14 @@ who bore Agni as an embryo, diverse in form—may those waters be peaceful and p
 
 हिर॑ण्यवर्णा॒श्शुच॑यः पाव॒का यासु॑ जा॒तः क॒श्यपो॒ यास्व॒ग्निः ।  
 या अ॒ग्निं गर्भं॑ दधि॒रे सु॒वर्णा॒स्तास्त॒ आप॒श्शँ स्यो॒ना भ॑वन्तु ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+हिरण्यवर्णाः शुचयः पावका  
+यासु जातः कश्यपो यास्व् इन्द्रः ।  
+या अग्निं गर्भं दधिरे सुवर्णास्  
+ता न आपः शं स्योना भवन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -51994,6 +52356,14 @@ Indra, with his powers, [held back] you, the divine [waters]; therefore the name
 इ᳓न्द्रो वः श᳓क्तिभिर् देवीस् त᳓स्माद् वा᳓र् ना᳓म वो हित᳓म्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अपकामं स्यन्दमाना  
+अवीवरत वो हिकम् ।  
+इन्द्रो वः शक्तिभिर् देवीस्  
+तस्माद् वार् णाम वो हिकम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒प॒ऽका॒मम्। स्यन्द॑मानाः। अवी॑वरत। वः॒। हि। क॒म्। इन्द्रः॑। वः॒। शक्ति॑ऽभिः। दे॒वीः॒। तस्मा॑त्। वाः। नाम॑। वः। हि॒तम्। १३.३।
@@ -52347,6 +52717,14 @@ sharp is the sap of those that blend with sweetness, coming readily; may it come
 तीव्रो᳓ र᳓सो मधुपृ᳓चामरङ्गम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसागन्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आपो देवीर् घृतम् इद् आप आहुर्  
+अग्नीषोमौ बिभ्रत्य् आप इत् ताः ।  
+तीव्रो रसो मधुपृचाम् अरङ्गम  
+आ मा प्राणेन सह वर्चसागन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 आपः॑। भ॒द्राः। घृ॒तम्। इत्। आपः॑। आ॒स॒न्। अ॒ग्नीषोमौ॑। बि॒भ्र॒ती॒। आपः॑। इत्। ताः। ती॒व्रः। रसः॑। म॒धु॒ऽपृचा॑म्। अ॒र॒म्ऽग॒मः। आ। मा॒। प्रा॒णेन॑। स॒ह। वर्च॑सा। ग॒मे॒त्। १३.५।
@@ -52538,6 +52916,14 @@ I considered myself a partaker of nectar then, when I satisfied you, the golden-
 
 आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्ग आसाम्।  
 मेने᳓ भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आद् इत् पश्याम्य् उत वा शृणोम्य्  
+आ मा घोषो गच्छति वाङ् मासाम् ।  
+मेने भेजानो अमृतस्य तर्हि  
+हिरण्यवर्णा अतृपं यदापः ॥
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -54518,6 +54904,14 @@ Indra, with his powers, [held back] you, the divine [waters]; therefore the name
 इ᳓न्द्रो वः श᳓क्तिभिर् देवीस् त᳓स्माद् वा᳓र् ना᳓म वो हित᳓म्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अपकामं स्यन्दमाना  
+अवीवरत वो हिकम् ।  
+इन्द्रो वः शक्तिभिर् देवीस्  
+तस्माद् वार् णाम वो हिकम् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 अ॒प॒ऽका॒मम्। स्यन्द॑मानाः। अवी॑वरत। वः॒। हि। क॒म्। इन्द्रः॑। वः॒। शक्ति॑ऽभिः। दे॒वीः॒। तस्मा॑त्। वाः। नाम॑। वः। हि॒तम्। १३.३।
@@ -54871,6 +55265,14 @@ sharp is the sap of those that blend with sweetness, coming readily; may it come
 तीव्रो᳓ र᳓सो मधुपृ᳓चामरङ्गम᳓ आ᳓ मा प्राणे᳓न सह᳓ व᳓र्चसागन्
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आपो देवीर् घृतम् इद् आप आहुर्  
+अग्नीषोमौ बिभ्रत्य् आप इत् ताः ।  
+तीव्रो रसो मधुपृचाम् अरङ्गम  
+आ मा प्राणेन सह वर्चसागन् ॥
+</details>
+
 <details><summary>पदपाठः</summary>
 
 आपः॑। भ॒द्राः। घृ॒तम्। इत्। आपः॑। आ॒स॒न्। अ॒ग्नीषोमौ॑। बि॒भ्र॒ती॒। आपः॑। इत्। ताः। ती॒व्रः। रसः॑। म॒धु॒ऽपृचा॑म्। अ॒र॒म्ऽग॒मः। आ। मा॒। प्रा॒णेन॑। स॒ह। वर्च॑सा। ग॒मे॒त्। १३.५।
@@ -55062,6 +55464,14 @@ I considered myself a partaker of nectar then, when I satisfied you, the golden-
 
 आ᳓दि᳓त्पश्याम्युत᳓ वा शृणोम्या᳓ मा घो᳓षो गच्छति वा᳓ङ्ग आसाम्।  
 मेने᳓ भेजानो᳓ अमृ᳓तस्य त᳓र्हि हि᳓रण्यवर्णा अ᳓तृपं यदा᳓ वः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आद् इत् पश्याम्य् उत वा शृणोम्य्  
+आ मा घोषो गच्छति वाङ् मासाम् ।  
+मेने भेजानो अमृतस्य तर्हि  
+हिरण्यवर्णा अतृपं यदापः ॥
 </details>
 
 <details><summary>पदपाठः</summary>

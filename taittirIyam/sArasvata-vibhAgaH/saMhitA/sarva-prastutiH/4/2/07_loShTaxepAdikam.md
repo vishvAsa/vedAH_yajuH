@@ -391,14 +391,14 @@ Uns thu kein Leid der Schöpfer dieser Erde, er, der nach heil'gem Recht den Him
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अभ्या᳓वर्तस्व पृथिवि यज्ञे᳓न प᳓यसा सह᳓ ।  
-वपा᳓न्ते अग्नि᳓रिषितो᳓ऽव सर्पतु ।  
+वपा᳓न्ते अग्नि᳓रिषितो᳓ऽव सर्पतु ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/07_loShTaxepAdikam/02_abhyAvartasva_pRthivi_yajnena.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Turn towards (us), O earth,  
@@ -406,10 +406,17 @@ With the sacrifice, with milk;
 Over thy caul let Agni, aroused, creep.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒भ्याव॑र्तस्व पृथिवि य॒ज्ञेन॒ पय॑सा स॒ह ।  
-व॒पान्ते॑ अ॒ग्निरि॑षि॒तोऽव॑ सर्पतु ।  
+व॒पान्ते॑ अ॒ग्निरि॑षि॒तोऽव॑ सर्पतु ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अभ्य् आ वर्तस्व पृथिवी  
+यज्ञेन पयसा सह ।  
+अपान्तो अग्निर् इषितो ऽव रोहतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -419,9 +426,10 @@ Over thy caul let Agni, aroused, creep.
 
 <details><summary>सायण-टीका</summary>
 
-हे पृथिवि यज्ञेनानुष्ठातव्येन पयसा च तत्फलभूतेन सहा-भ्यावर्तस्वास्मदाभिमुख्येनाऽऽगच्छ ।   इषित इच्छावानाग्निस्ते वपां त्वदीयवपासदृशमिमं प्रदेशभवसर्पतु प्राप्नोतु ।   
+हे पृथिवि यज्ञेनानुष्ठातव्येन पयसा च तत्फलभूतेन सहा-भ्यावर्तस्वास्मदाभिमुख्येनाऽऽगच्छ ।   इषित इच्छावानाग्निस्ते वपां त्वदीयवपासदृशमिमं प्रदेशभवसर्पतु प्राप्नोतु ।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2315,6 +2323,14 @@ Swelling for immortality, O Soma, place the highest glories in heaven!"
 **सं ते पयाँसि समु यन्तु वाजास्सं वृष्णयान्यभिमातिषाहः। 
 आप्यायमानो अमृताय सोम दिवि श्रवाँस्युत्तमानि 
 धिष्व
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(ab = PSK 20.51.6ab(c); (c)d- not found in PSK, PSK 20.51.6cd is = PS 18.70.5cd- āpyāyamānāḥ prajayā dhanena śuddhā bhavantu śucayaḥ pāvakāḥ ॥)+++सं ते पयांसि सम् उ यन्तु वजाः  
+सं वृष्ण्यान्य् अभिमातिषाहः ।  
+आप्यायमानो अमृताय सोम  
+दिवि श्रवांस्य् उत्तमानि धिष्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>

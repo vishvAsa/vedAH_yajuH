@@ -10,6 +10,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He lets \[the calf\] loose from the south:  
+he thereby wins the world of the fathers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द॒क्षि॒ण॒त उप॑सृजति ।  
@@ -33,6 +39,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He turns \[the cow\] toward the east:  
+he thereby wins the world of the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -58,6 +70,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having turned her toward the north, he milks \[her\]:  
+he thereby wins the world of men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदी॑चीमा॒वृत्य॑ दोग्धि ।  
@@ -82,6 +100,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should milk the two front \[teats\] for the eldest son of the first wife,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पूर्वौ॑ दुह्याज्ज्ये॒ष्ठस्य॑ ज्यैष्ठिने॒यस्य॑ ।
@@ -104,6 +127,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or for one who has attained prosperity.  
+One should milk the two rear \[teats\] for the youngest son of the youngest wife,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -129,6 +158,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or for one who desires to become \[prosperous\].
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -156,6 +190,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He does not touch \[them together\],  
+to keep the worse and the better separated.  
+Belonging to Vāyu indeed is this \[milk\] when let loose;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒य॒व्यव्ँ॑वा ए॒तदुप॑सृष्टम् ।
@@ -173,6 +214,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to the Aśvins when being milked;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -192,6 +238,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Mitra when milked;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मै॒त्रन्दु॒ग्धम् ।
@@ -209,6 +260,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Aryaman when being removed \[from the fire\];
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -228,6 +284,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Tvaṣṭṛ when being ladled out;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वा॒ष्ट्रमु॑न्नी॒यमा॑नम् ।
@@ -245,6 +306,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Bṛhaspati when ladled out;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -264,6 +330,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Savitṛ when stepped forward;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒तुᳶ प्रक्रा॑न्तम् ।
@@ -281,6 +352,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to heaven and earth when being carried;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -300,6 +376,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+belonging to Indra and Agni when set down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐ॒न्द्रा॒ग्नमुप॑सादितम् ।
@@ -317,6 +398,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To all the deities indeed he offers  
+who offers the Agnihotra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -341,6 +428,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as one satisfies a cow at a watering place,  
+so the Agnihotra-cow satisfies the sacrificer.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -367,6 +460,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is satisfied with offspring and domestic animals;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तृप्य॑ति प्र॒जया॑ प॒शुभिः॑ ।
@@ -390,6 +488,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he knows the heavenly realm;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र सु॑व॒र्गल्ँ लो॒कञ्जा॑नाति ।
@@ -407,6 +510,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sees a son;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -426,6 +534,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sees a grandson;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पश्य॑ति॒ पौत्त्र॑म् ।
@@ -443,6 +556,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he propagates with offspring, domestic animals, and pairs—
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -467,6 +585,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for whom, knowing thus, they offer the Agnihotra,  
+and who knows it thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

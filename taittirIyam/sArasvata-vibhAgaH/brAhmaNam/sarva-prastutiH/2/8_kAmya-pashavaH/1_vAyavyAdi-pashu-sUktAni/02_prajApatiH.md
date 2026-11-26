@@ -703,6 +703,17 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do you ever protect us with blessings!  
+O Prajāpati, none other than you  
+has encompassed all these creatures;  
+that desire with which we offer to you, let that be ours!
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓जापते न᳓ त्व᳓देता᳓न्यन्यः᳓ ।  
@@ -1392,6 +1403,17 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be masters of wealth!  
+The lord of wealth, the adorable, the great,  
+the most heroic in this contest for winning spoils,  
+Prajāpati, the firstborn of truth (ṛta),
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1635,6 +1657,14 @@ O Prajāpati, creator of the all, rich in life, accept this our oblation, O god!
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati, the foremost of those worthy of sacrifice,  
+worship the adorable one at the head of the gods!  
+May he grant us wealth and heroic sons;  
+may he untie for us the navel \[source\] of increase of wealth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  

@@ -12,6 +12,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These days become nine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव ए॒तान्य् अहा॑नि भवन्ति ।
@@ -35,6 +40,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nine indeed are the heavenly realms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नव॒ वै सु॑व॒र्गा लो॒काः ।
@@ -57,6 +67,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they undertake these days,  
+the session-performers proceed establishing themselves in the nine heavenly realms.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -83,6 +99,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They say: 'The paraḥsāman \[days\] should be made as agniṣṭomas,  
+for the heavenly realm is commensurate with the agniṣṭoma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒ग्नि॒ष्टो॒माᳶ पर॑स् सामानᳵ का॒र्या॑" इत्य् आ॑हुः ।  
@@ -108,6 +130,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twelve are the laudatory chants of the agniṣṭoma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वाद॑शाग्निष्टो॒मस्य॑ स्तो॒त्राणि॑ ।
@@ -132,6 +159,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+twelve are the months of the year.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वाद॑श॒ मासा॑स् सव्ँवत्स॒रः ।
@@ -149,6 +181,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That is not to be heeded.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -173,6 +210,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The seventeenfold ukthyas alone should be made as paraḥsāman \[days\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्थ्या॑ ए॒व स॑प्तद॒शाᳶ पर॑स्-सामानᳵ का॒र्याः॑ ॥28॥
@@ -195,6 +237,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ukthas are indeed domestic animals,  
+for the securing of domestic animals.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -220,6 +268,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Viśvajit and Abhijit are two agniṣṭomas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒जि॒द॒भि॒जिता॑व् अग्निष्टो॒मौ ।
@@ -243,6 +296,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the paraḥsāmans are seventeenfold ukthyas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒क्थ्या॑स् सप्तद॒शाᳶ पर॑स्-समानः ।
@@ -260,6 +318,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Being fully praised, they correspond to the Virāj.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -284,6 +347,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And two verses exceed:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -311,6 +379,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by one the Gau is excessive,
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑या॒ गौर् अति॑रिक्तः ।
@@ -329,6 +402,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by one the Āyus is deficient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॒या ऽऽयु॑र् ऊ॒नः ।
@@ -346,6 +424,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The heavenly realm is indeed light;  
+the Virāj is vigor.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -373,6 +457,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+By that they conquer the heavenly realm itself.  
+The higher Rāthantara  
+is to be performed on the first day,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्परँ॒ राथ॑न्तरम् ।
@@ -396,6 +487,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Bṛhat on the second,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -421,6 +517,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Vairūpa on the third,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒रू॒पन् तृ॒तीये॑।
@@ -438,6 +539,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Vairāja on the fourth,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -457,6 +563,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Śākvara on the fifth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 शा॒क्व॒रम् प॑ञ्च॒मे।
@@ -475,6 +586,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Raivata on the sixth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रै॒व॒तँ ष॒ष्ठे।
@@ -492,6 +608,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And they lead them from the pṛṣṭhas;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -515,6 +636,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+these cups are drawn continuous.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -540,6 +666,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The atigrāhyas on the paraḥsāman \[days\] —
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मान् ए॒वैतैर् लो॒कान्त् सन्त॑न्वन्ति ।
@@ -564,6 +695,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by them they connect these worlds.  
+These cups are drawn as a pair,  
+the atigrāhyas on the paraḥsāman \[days\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒थु॒ना ए॒ते ग्रहा॑ गृह्यन्ते ।  
@@ -587,6 +725,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by them the sacrificers secure a pair.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -614,6 +757,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Bṛhat becomes the pṛṣṭha;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृ॒हत् पृ॒ष्ठम् भ॑वति ।
@@ -631,6 +779,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the heavenly realm is indeed the Bṛhat;  
+by the Bṛhat alone they go to the heavenly realm.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -657,6 +811,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The chant called the Trayastriṃśa  
+is on the midday purifying \[chant\].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र॒य॒स्त्रिँ॒शिनाम॒ साम॑ ।  
@@ -682,6 +842,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thirty-three indeed are the deities;
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रय॑स् -त्रिँश॒द् वै दे॒वताः॑ ।
@@ -700,6 +865,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they secure the deities alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वता॑ ए॒वाव॑-रुन्धते ।
@@ -717,6 +887,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who go through the year facing away from here  
+do not attain it with well-being;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -742,6 +918,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+but those who go through it facing toward this side from yonder
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॒ ये॑ऽमुतो॒ऽर्वाञ्च॑मुप॒यन्ति॑ ।
@@ -765,6 +946,12 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+attain it with well-being.  
+That they thus go toward this side from yonder,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -790,6 +977,13 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that is so.  
+Prajāpati indeed is he  
+who is Indra himself;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो ह॒ खलु॒ वाव प्र॒जाप॑तिः ।  
@@ -814,6 +1008,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and that they lead to the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 

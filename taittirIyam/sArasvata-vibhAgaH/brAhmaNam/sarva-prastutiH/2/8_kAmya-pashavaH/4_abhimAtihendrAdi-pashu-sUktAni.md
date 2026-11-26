@@ -228,6 +228,14 @@ Having slain foes and armies, O forceful one, then create safety for us on all s
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Praise the hero, bearer of the vajra, unopposed,  
+the slayer of the assailant, much-invoked Indra,  
+who is the sole master of a hundred among peoples—  
+to that Indra offer the oblation!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्तु॒हि शूरव्ँ॑व॒ज्रिण॒मप्र॑तीत्तम् ।   
@@ -403,6 +411,11 @@ may he accept our oblation for giving; may the god of gods, our guardian of trea
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"The Anus your chariot," "For the bull what yours,"
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन॑वस्ते॒ रथव्ँ॒ वृष्णे॒ यत्ते॑ ।
@@ -435,6 +448,11 @@ may he accept our oblation for giving; may the god of gods, our guardian of trea
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Indra's heroic deeds now," "He slew the serpent."
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -588,6 +606,14 @@ tā́ ← sá- ~ tá- (pronoun)
 शम॑स्य च शृ॒ङ्गिणो॒ वज्र॑बाहुः ।  
 सेदु॒ राजा॑ क्षेति चर्षणी॒नाम् ।   
 अ॒रान्न ने॒मिᳶ परि॒ ता ब॑भूव ॥ 25 ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इन्द्रो यातो ऽवसितस्य राजा  
+शमस्य च शृङ्गिणो वज्रबाहुः ।  
+सेद् उ राजा क्षयति चर्षणीणाम्  
+अरान् न नेमिः परि ता बभूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -847,6 +873,17 @@ Was geht und steht, beherrscht als König Indra, das arbeitsame Vieh und das geh
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is king of what moves and of what rests,  
+and of the horned and hornless, with the vajra in arm.  
+He indeed dwells as king of the peoples;  
+like a felly around the spokes, he has encompassed them.
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1218,6 +1255,17 @@ Auf seine Feinde ging er graden Laufes, zerschmetterte mit scharfem Blitz die Bu
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The swift one advanced against his enemies;  
+with his sharp bull he burst the strongholds.  
+Indra joined battle with Vṛtra with his vajra;  
+displaying his might, he advanced his own resolve.
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2365,6 +2413,17 @@ Macht, Sänger, euch geneigt durch neue Lieder, im heil'gen Sitz die urgebornen 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+as an axle for men, with far-extended courses,  
+bring forward the two primeval parents  
+with newest songs in the seat of truth!  
+Come to us, O heaven and earth, with the divine
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2687,6 +2746,17 @@ Der war fürwahr ein Künstler unter Göttern, der diese beiden, Erd' und Himmel
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+folk; great is your protection.  
+He indeed was of skillful work among the creatures,  
+who generated these two, heaven and earth;  
+the two wide, deep, well-founded mid-regions,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2704,6 +2774,15 @@ Der war fürwahr ein Künstler unter Göttern, der diese beiden, Erd' und Himmel
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the wise one joined together without a beam, through his skill.
+
+Two unmoving ones hold a manifold moving,  
+footed embryo, though they are footless;  
+like an own son in the lap of the parents,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3088,6 +3167,17 @@ Dies werde wahr nun, Himmel du und Erde, was ich zu euch, o Vater, Mutter, rede,
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+nourish that truth-speaking one, O heaven and earth!  
+May this be true, O heaven and earth,  
+what I speak here to you two, father and mother:  
+be present at the lowest \[station\] of the gods with your protections!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3440,6 +3530,18 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we find refreshment, an abode, and quick-giving rain!  
+Broad, wide, vast, with distant ends,  
+I invoke you two with reverence at this sacrifice.  
+You two who bear \[all\], fortunate, swift-moving:  
+O heaven and earth, protect us from monstrosity!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -3454,6 +3556,11 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The plants which arose, surpassing all,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3491,6 +3598,11 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the plants whose king is Soma, possessing horses, possessing Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 या ओष॑धय॒स्सोम॑राज्ञीरश्वाव॒तीँ सो॑मव॒तीम् ।
@@ -3526,6 +3638,11 @@ Die weiten, breiten, grossen, fernbegrenzten ruf' ich mit Ehrfurcht an bei diese
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O plants, mothers, may one of you help another!'
+</details>
 
 <details><summary>मूलम्</summary>
 

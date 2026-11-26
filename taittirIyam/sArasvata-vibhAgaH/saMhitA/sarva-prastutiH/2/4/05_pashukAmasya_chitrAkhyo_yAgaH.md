@@ -18,17 +18,24 @@ title = "०५ पशुकामस्य चित्राख्यो य�
 इ᳓न्द्रो धर्ता᳓ गृहे᳓षु नः ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/01_agne_gobhirna_A.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 O Agni come to us with kine; O drop, delight us with increase; Indra is the supporter in our homes.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अग्ने॒ गोभि॑र्न॒ आ ग॒हीन्दो॑ पु॒ष्ट्या जु॑षस्व नः ।  
 इन्द्रो॑ ध॒र्ता गृ॒हेषु॑ नः ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अग्ने गोभिर् न आ गहि-  
+-इन्दो रय्या सचस्व नः ।  
+इन्द्रो धर्ता गृहेषु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -41,6 +48,7 @@ O Agni come to us with kine; O drop, delight us with increase; Indra is the supp
 हे अग्ने गोभिः नः अस्मानागहि आगच्छ । शपो लुक् । हे इन्दो पुष्ट्या पशुपुष्ट्या अस्माकं जुषस्व सेवस्व प्रीणय वा । इन्द्रश्च गृहेषु अस्माकं धर्ता धारको भवितुमर्हतीति । 'अर्हे कृत्यतृचश्च' इति तृच् ।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -182,17 +190,24 @@ may he favor us with fullness!
 सह᳓स्रेणायु᳓तेन च ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/04_tvaShTA_yo_vRShabho.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Tvastr the bull, the strong, May he delight us in our homes, With a thousand, with ten thousand.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 त्वष्टा॒ यो वृ॑ष॒भो वृषा॒ स नो॑ गृ॒हेषु॑ रारणत् ।  
 स॒हस्रे॑णा॒युते॑न च ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+त्वष्टा यो वृषभो युवा  
+स नो गृहेषु रारणत् ।  
+सहस्रेण शतेन च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,6 +220,7 @@ Tvastr the bull, the strong, May he delight us in our homes, With a thousand, wi
 यस्त्वष्टा वृषभः वर्षिता कामानां वृषा प्रधानभूतः सेक्ता वा सोस्माकं गृहेषु रारणत् रमताम् । व्याख्यातम् । सहस्रेण पशुना दशभिश्शतैः रमताम् । अयुतेन दशभिस्सहस्रैश्च रमताम् ॥
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

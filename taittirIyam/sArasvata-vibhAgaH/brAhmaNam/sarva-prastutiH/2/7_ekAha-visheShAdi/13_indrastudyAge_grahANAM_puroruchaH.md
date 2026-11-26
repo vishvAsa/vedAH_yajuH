@@ -379,6 +379,17 @@ Besteig die Füchse, die den Wagen ziehen, komm zu uns wie der Wind mit seinen R
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount the two bay steeds being harnessed to your chariot, and drive forth;  
+like Vāyu with his teams, come toward us.  
+Drink this pressed juice, sent forth for us;  
+O Indra, Svāhā! We have offered it for your exhilaration.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -597,6 +608,16 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By whose pressed \[soma\] does the bull,  
+with his teams, the virile one, delight—  
+the slayer of Vṛtra, to drink soma?
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -854,6 +875,16 @@ Im grossen Kampfe rufen wir den Indra und im kleinen auch, den Freund, der auf d
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra in the great contest,  
+Indra in the small do we invoke,  
+as an ally against the foes, the wielder of the vajra.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1097,6 +1128,17 @@ Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen k
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra of a hundred resolves,  
+who is indeed the best slayer of Vṛtra,  
+knows our pressed \[soma\]; \[come\] with your two bay steeds.  
+That sun, generating light, \[found\] Indra;
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1113,6 +1155,13 @@ Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen k
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through this prayer, the swift one, firm like a rock,  
+mighty through truth, purified by hymns of praise,  
+the weapon broke the rock of the hostile ones.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1149,6 +1198,15 @@ Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen k
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And that wealth of swift horses,  
+which, O Indra, among the Nahuṣa clans  
+shone forth at the head of the peoples.
+
+In battles we invoke Indra, easily invoked,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1227,6 +1285,17 @@ In contests we invoke Indra, swift to hear, The divine folk working good, freein
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the deliverer from distress, the well-acting divine race,  
+Agni, Mitra, Varuṇa, Bhaga for gain,  
+heaven and earth, the Maruts for well-being.  
+Having found a wide domain and much delight,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1598,6 +1667,17 @@ Einen grossen, sehr glänzenden Grundbesitz ertheilend, beförderte er den Freun
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+straightway he sped the chariot onward for his companions;  
+Indra, shining forth, generated with the men all at once  
+the sun, the dawn, a path, and Agni.  
+Knowing \[the way\], you guide us to a broad world,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -1956,6 +2036,17 @@ Zu weitem Raume leite uns, du weiser, zu hellem Glanze und zu sicherm Wohlsein; 
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+light endowed with the heavenly realm, freedom from fear, and well-being.
+
+Lofty are your two arms, O ancient Indra;  
+may we take shelter under their broad protection.
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2581,6 +2672,16 @@ Die Kühe strömten süsse Milch dem Indra zu, dem blitzenden, Dass er sie find'
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+placing virile power in us, O Indra.  
+For Indra, the cows have milked  
+the sweet milk admixture for the wielder of the vajra,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -2598,6 +2699,16 @@ Die Kühe strömten süsse Milch dem Indra zu, dem blitzenden, Dass er sie find'
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when he found it in the secret recess.  
+May those milk cows of yours, O wielder of the vajra, refresh us.
+
+Your rays, your teams, bringing all desirable things,  
+resounding ever more day by day,  
+are full of rich food, O Indra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3160,6 +3271,17 @@ Dir trag' ich dieses grosse Lied des grossen vor, wenn dir der Becher festlich w
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the great one I bring forth this great prayer,  
+since the sacred word has anointed itself in praise of him;  
+in the festival and in the contest, Indra the conqueror,  
+him the gods cheered following his might.
+</details>
+</details>
 
 <details><summary>विनियोगसङ्ग्रहः</summary>
 

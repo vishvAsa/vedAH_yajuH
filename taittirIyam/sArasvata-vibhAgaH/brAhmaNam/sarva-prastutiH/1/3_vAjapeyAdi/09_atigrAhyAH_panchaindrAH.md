@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You that sit in the waters,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "नृ॒षद॒न् त्वे"त्य् आ॑ह।
@@ -32,6 +37,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you that sit in the ghee," he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -57,6 +67,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is consecrated over waters and over ghee by this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "द्रु॒षद॒मि"त्य् आ॑ह।
@@ -74,6 +89,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You that sit in the sky," he says;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -99,6 +119,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+when one becomes wealthier,
+</details>
+
 <details><summary>मूलम्</summary>
 
 "भु॒व॒न॒सद॒मि"त्य् आ॑ह ।
@@ -122,6 +147,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they say of him: "He has reached the sky";
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -148,6 +178,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he reaches the sky by this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒प्सु॒षद॑न् त्वा घृत॒सद॒मि"त्य् आ॑ह।
@@ -172,6 +207,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You that sit on earth, you
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम् ए॒वैतेन॑ घृ॒तस्य॑ सूयते ।
@@ -195,6 +235,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that sit in the intermediate space," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "व्यो॒म॒सद॒मि"त्य् आ॑ह।
@@ -213,6 +258,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is consecrated over these realms by this.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -239,6 +289,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, the performer of the Vājapeya descends before no one;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "पृ॒थि॒वि॒षद॑न् त्वा ऽन्तरिक्ष॒सद॒मि"त्य् आ॑ह।
@@ -256,6 +311,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for he is consecrated, as it were, over the deities.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -281,6 +341,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You that sit in heaven," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑द् वाजपेयया॒जी न कञ्च॒न प्र॒त्यव॑रोहति ।
@@ -303,6 +368,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when one becomes wealthier,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -327,6 +397,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they say of him: "He has reached heaven";
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ना॒क॒सद॒मि"त्य् आ॑ह।
@@ -345,6 +420,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he reaches heaven by this.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,6 +451,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Which cups belong to the five peoples," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "ये ग्रहा॑ᳶ पञ्चज॒नीना॒" इत्य् आ॑ह।
@@ -388,6 +473,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is consecrated over the five peoples by this.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -414,6 +504,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"The sap of the waters, highest vigor," he says;
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒पाँ रस॒म् उद्व॑यस॒मि"त्य् आ॑ह।
@@ -432,6 +527,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he is consecrated over the sap of the waters by this.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पाम् ए॒वैतेन॒ रस॑स्य सूयते ।
@@ -449,6 +549,11 @@ unicode_script: devanagari
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Brought together with the sun's ray," he says, for the sake of clear brightness.
+</details>
 
 <details><summary>मूलम्</summary>
 
