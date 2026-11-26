@@ -30,6 +30,7 @@ The gods and the asuras were in conflict.
 
 1 देवासुरा इत्यादि  ॥ संयत्ताः संघातस्थाः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -66,6 +67,7 @@ and then you will overcome the asuras.'
 अग्निरनीकवान्देवान् अब्रवीत् ।  
 गतमन्यत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -89,6 +91,7 @@ Those gods poured out an eight-pot-sherd cake for Agni the sharp-fronted.
 
 ते᳓ । देवाः᳓ । अग्न᳓ये । अ᳓नीक-वते । पुरोडा᳓शम् । अष्टा᳓ । कप् । आलन् । निः᳓ । अवपन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +117,7 @@ brought forth vanguard forces fourfold.
 
 सः᳓ । अग्निः᳓ । अ᳓नीक-वान् । स्वे᳓न । भाग-धे᳓येन । प्रीतः᳓ । चतुः-धा᳓ । अ᳓नीका । नि । अजनयत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +142,7 @@ the asuras were defeated.
 
 त᳓तः । देवाः᳓ । अ᳓भ । व᳓न्न् । प᳓रा । अ᳓सुराः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +193,7 @@ brings forth vanguard forces fourfold.
 
 सः᳓ । अग्निः᳓ । अ᳓नीक-वान् । स्वे᳓न । भाग-धे᳓येन । प्रीतः᳓ । चतुः-धा᳓ । अ᳓नीकानि । जनयते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +217,7 @@ That yonder sun, indeed, is Agni the sharp-fronted.
 
 असौ᳓ । वै᳓ । आदित्यः᳓ । अग्निः᳓ । अ᳓नीक-वान् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,6 +241,7 @@ His rays are the vanguard forces.
 
 त᳓स्य । रश्म᳓यः । अ᳓नीकानि ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -257,6 +265,7 @@ Along with the rising sun he pours out \[the offering\].
 
 साक᳓म् । सू᳓र्येण । उत्-यता᳓ । निः᳓ । वपति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -280,6 +289,7 @@ Directly he brings forth vanguard forces for him.
 
 साक्षा᳓त् । एव᳓ । अ᳓स्मै । अ᳓नीकानि । जनयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -310,6 +320,7 @@ took refuge in heaven and earth.
 
 चतुर्धेति । सान्तपनादिभेदेन चतुर्धा सेना उत्पादितवान् । सर्वतोसुराणामपनोदनायतैरनीकैः तद्वानग्निनीकवान् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -333,6 +344,7 @@ Those gods poured out a mess of boiled rice for the scorching Maruts.
 
 ते᳓ । देवाः᳓ । मरु᳓त् । भ्यस । साम्-तपने᳓भ्यः । च । रु᳓न् । निः᳓ । अवपन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -364,6 +376,7 @@ from both heaven and earth the sacrificer scorches his rivals.
 
 2 द्यावापृथिवी इति ॥ द्यावापृथिव्यौ दुर्गत्वेनगूढं प्रविष्टाः । उभयत इति । उपर्यधश्च सन्तपनात्सान्तपनाः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +408,7 @@ It is a mess of boiled rice;
 
 तेक्ष्णिष्ठमिति । तदानीं तीक्ष्णतरं तपतीति । छान्दसमेत्वम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +432,7 @@ from all sides he scorches them.
 
 चरुः᳓ । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -447,6 +462,7 @@ Those gods, being victorious on the morrow,
 सर्वत इति ।  
 चरोः सर्वतः तप्तवान् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -483,6 +499,7 @@ poured out a mess of boiled rice for the domestic rite from the milk of all \[th
 आशिता एवेति । अशनेनतृप्ता एव अस्मिन्उपवसामअग्निसमीपेवर्तेमहि ।  
 किं कारणमितिचेत्- उच्यते- कस्यवा इति । इदं वर्तमानं अस्मिन्नेवाह्निकस्यभविष्यतिकस्यवाश्वोभवितेतिनज्ञायते । तस्मादाशिता एवोपवसामेति । अहेतिनिपातः प्रसिद्धौ, विषादेवा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -511,6 +528,7 @@ poured out a mess of boiled rice for the domestic rite from the milk of all \[th
 
 अथचरुं श्रपयित्वा अहुतस्यानशनात्गृहमेधिभ्योऽजुहवुः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -534,6 +552,7 @@ Whose \[will this world\] be,
 
 त᳓स्य । अ᳓-हुतस्य । ना᳓श्ञन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -558,6 +577,7 @@ It became cooked.
 
 न᳓ । हि᳓ । देवाः᳓ । अ᳓-हुतस्य । अश्ञ᳓न्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +603,7 @@ When it was not offered, they did not eat of it,
 
 ते᳓ । अब्रुवन् । क᳓स्मै । इम᳓म् । होष्यामः । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -608,6 +629,7 @@ They said:
 
 मरु᳓द्भ्यः । गृहमेधि᳓भ्यः । इ᳓ति । अब्रुवन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -657,6 +679,7 @@ the asuras were defeated.
 
 त᳓तः । देवाः᳓ । अ᳓भवन् । प᳓रा । अ᳓सुराः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +707,7 @@ his rival is defeated.
 
 य᳓स्य । एव᳓म् । विदु᳓षः । मरु᳓द्भ्यः । गृहमेधि᳓भ्यः । गृहे᳓ । जु᳓ह्वति । भ᳓वति । आत्म᳓ना । प᳓रा । अस्य । भ्रा᳓तृव्यः । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -724,6 +748,7 @@ in that there is no kindling-wood and sacred grass,
 यत्खलुयज्ञस्य पाकमल्पं क्रियतेतत्पशुभ्योहितं  भवति ।  
 पाकयज्ञविधयेत्यन्ये ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +772,7 @@ nor does he recite the kindling verses.
 
 न᳓ । साम्-इधेनीः᳓ । अनु । आ᳓ह ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -770,6 +796,7 @@ Fore-sacrifices are not offered,
 
 न᳓ । प्र-याजाः᳓ । इज्य᳓न्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,6 +820,7 @@ nor after-sacrifices.
 
 न᳓ । अनु-याजाः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +851,7 @@ becomes possessed of domestic animals.
 
 किपुनः पाकत्राकरणमित्याह- यदित्यादि। गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -855,6 +884,7 @@ he does not omit the two eyes of the sacrifice.
 4 आज्यभागौ यज्ञस्य चक्षुष्ट्वात्कर्तव्याविति ।  
 नान्तरेति न तिरोदधाति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +908,7 @@ He sacrifices to the domestic Maruts;
 
 मरु᳓तः । गृह-मेधि᳓नः । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +932,7 @@ he makes them prosper with their share.
 
 भाग-धे᳓येनः । एव᳓ । एनान् । स᳓म् । अर्धयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +956,7 @@ He sacrifices to Agni Sviṣṭakṛt for stability.
 
 अग्नि᳓म् । स्विष्ट-कृ᳓तम् । यजति । प्र᳓ति-ष्ठित्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -953,6 +986,7 @@ It ends with the iḍā.
 5 स्विष्टदिडयोरनूद्यस्तुतिः फलविशेषप्रदशनार्था ॥  
 इति षष्ठे षष्ठोऽनुवाकः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -976,6 +1010,7 @@ The iḍā is domestic animals;
 
 पश᳓वः । वै᳓ । इ᳓डा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -999,4 +1034,5 @@ upon domestic animals he firmly stands from above.
 
 पशु᳓षु । एव᳓ । उप᳓रिष्टात् । प्र᳓ति । तिष्ठति ।
 </details>
+
 </details>

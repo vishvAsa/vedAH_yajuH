@@ -25,6 +25,13 @@ The discussers of sacred lore say:
 
 ब्रह्म । वादि᳓नः । वदन्ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ चतुर्थोऽनुवाकः ।  
+ग्रहविधिम् एतेन अनुवाकेन समाप्य अनुवाकान्तरेण पशून् विधातुं प्रस्तौति —  
+ब्रह्मवादिनो वदन्ति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -57,6 +64,13 @@ why then in the Vājapeya are all the sacrificial rites obtained?’
 
 1 ब्रह्मवादिन इत्यादि ॥ इदानीं पशुद्वारेण अग्निष्टोमादिरूपाणां वाजपेयस्य प्रतिपादयति - अग्निष्टोमाद्यात्मनोऽप्यस्य सर्वयज्ञक्रत्वात्मकत्वं वा कस्माद्धेतोर्भवति । अस्ति खलु स उपाय इति तज्जिज्ञासवो ब्रह्मवादिनः पृच्छन्ति । उक्थ्यादयोऽग्निष्टोमस्य गुणविकाराः । यज्ञाश्च क्रतवश्च यज्ञक्रतवः । क्रतवो यूपवन्तः, प्राधान्यात्पुनरुपादानम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+नाग्निष्टोमो नोक्थ्यः ।  
+न षोडशी नातिरात्रः ।  
+अथ कस्माद् वाजपेये सर्वे यज्ञक्रतवोऽवरुध्यन्त इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -84,6 +98,27 @@ He should say: ‘By the sacrificial animals.’
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पशुभिरिति । तेभ्यः पशुभिरिति उत्तरं भूयात् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पशुभिरिति ब्रूयात्, इति ।  
+यज्ञशब्देन उद्देशत्यागरूपाः प्रयाजादयः प्रत्येकमभिधीयन्ते, तत्समूहरूप एव फलसाधनात्मा कर्मविशेषः क्रतुः ।  
+वेदवादिनो मिलित्वा परस्परमेवं विचारयन्ति ।  
+यज्ञाश्च क्रतवश्च सर्वेऽपि वाजपेयेऽन्तर्भूता इत्यस्ति प्रसिद्धिः ।  
+तत् कथम् उपपद्यते ।  
+तथा हि ।  
+प्रयाजादीनां दीक्षणीयादिद्वारा तत्रान्तर्भावेऽप्यग्निष्टोमादीनाम् अनन्तर्भावात् ।  
+तेषां ब्रह्मवादिनां मध्ये कश्चिद् बुद्धिमान् एवम् उत्तरं ब्रूयात् — अग्निष्टोमादिगतैर् आग्नेयादिसवनीयपशुभिः क्रतवोऽन्तर्भूता इति ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+पशून् विधत्ते —  
+आग्नेयं पशुम् आलभते ।
 </details>
 </details>
 
@@ -138,6 +173,11 @@ by that he obtains the Agniṣṭoma itself;
 
 अग्नि-ष्टोम᳓म् । एव᳓ । ते᳓न । अ᳓व । रुन्धे ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अग्निष्टोमम् एव तेनाव रुन्धे ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +224,12 @@ by one sacred to Indra, the laud of the Ṣoḍaśin;
 
 ऐन्द्रे᳓ण । षोडशि᳓नः । स्तोत्र᳓म् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ऐन्द्रम् उक्थ्य्-अम् ।  
+ऐन्द्रेण षोडशिनः स्तोत्रम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -213,6 +259,11 @@ by one sacred to Sarasvatī, the Atirātra;
 सारस्वती मेषी ।  
 मारुती वशा ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सारस्वत्याऽतिरात्रम् (१) ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +286,11 @@ by one sacred to the Maruts, the laud of the Bṛhat.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 मारुत्या᳓ । बृहतः᳓ । स्तोत्र᳓म् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मारुत्या बृहत्तः बृह॒तः स्तोत्रम् ।
 </details>
 </details>
 
@@ -265,6 +321,11 @@ So many indeed are the sacrificial rites;
 2 एतावन्त इत्यादि ॥  
 गतम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+एतावन्तो वै यज्ञक्रतवः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,6 +348,19 @@ them he obtains through the sacrificial animals themselves.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 ता᳓न् । पशु᳓भिः । एव᳓ । अ᳓व । रुन्धे ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तान् पशुभिर् एव अवरुन्धे, इति ।  
+आग्नेयादयोऽग्निष्टोमादीनां व्यावर्तकाः पशवः ।  
+षोडशिनो ग्रहस्य स्तोत्रं तेन स ऋतुरुपलक्ष्यते ।  
+सारस्वती मेषी सा चातिरात्रस्य व्यावृत्तिहेतुः ।  
+मारुती वशा तयाऽनुबन्ध्यया बृहत्सामसंबन्धि स्तोत्रम् अवरुन्धे, तेन च स्तोत्रेण वाजपेय उपलक्ष्यते तस्य चासाधारणत्वात् ।  
+तानेतान् पशुविधीन् बौधायन उदाहरति —  
+“आश्विनं गृहीत्वा षड्-रशना आदाय यूपम् अभ्यैति स्वर्वन्तं यूपम् उत्सृज्याथैनान् पशून् उपाकरोत्य् आग्नेयम् ऐन्द्राग्नम् ऐन्द्रं मारुतीं वशां सप्तदश प्राजापत्यान् आमानेकरूपान् सारस्वतीम् अन्ततः” इति ।  
+आपस्तम्बस्त्वाग्नेयादीनां चोदकप्राप्तानाम् अनुवादं मत्वा मेषीमारुत्योर् विधिम् उदाहरति —  
+“पशुकाले त्रीन् क्रतुपशून् उपाकृत्य मारुतीं वशाम् उपाकरोति सारस्वतीं च मेषीम्” इति ।
 </details>
 </details>
 
@@ -317,6 +391,13 @@ He preserves himself by the Agniṣṭoma;
 स्पृणोति प्रीणयति ।  
 अयं वाजपेयोऽग्निष्टोमाद्यात्मना आत्मादिप्रीणनहेतुर्भवति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+शंसति —  
+आत्मादिप्रीतिहेतुत्वेन भूम्यादिलोकजयहेतुत्वेन तेजःप्रभृतिधारणहेतुत्वेन च क्रतुपशून् प्रशस्यते —  
+आत्मानम् एव स्पृणोत्य् अग्निष्टोमेन ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,6 +420,11 @@ exhalation and inhalation by the Ukthya;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 प्राणापानौ᳓ । उक्थ्ये᳙न ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राणापानाव् उक्थ्येन ।
 </details>
 </details>
 
@@ -363,6 +449,11 @@ heroic power by the laud of the Ṣoḍaśin;
 
 वीर्य᳙म् । षोडशि᳓नः । स्तोत्रे᳓ण ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वीर्यं षोडशिनः स्तोत्रेण ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +477,11 @@ speech by the Atirātra;
 
 वा᳓चम् । अति-रात्रे᳓ण ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वाचम् अतिरात्रेण ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +504,11 @@ offspring by the laud of the Bṛhat.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 प्र-जा᳓म् । बृहतः᳓ । स्तोत्रे᳓ण ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रजां बृहतः स्तोत्रेण ।
 </details>
 </details>
 
@@ -437,6 +538,11 @@ This world he conquers by the Agniṣṭoma;
 
 किञ्च - अनेन वाजपेयेन अग्निष्टोमाद्यात्मना पृथिव्यादीन् जयति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इमम् एव लोकम् अभिजयत्य् अग्निष्टोमेन ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,6 +565,11 @@ the intermediate space by the Ukthya;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अन्त᳓रिक्षम् । उक्थ्ये᳙न ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अन्तरिक्षम् उक्थ्येने (२) ।
 </details>
 </details>
 
@@ -483,6 +594,11 @@ the heavenly realm by the laud of the Ṣoḍaśin;
 
 सुवः-ग᳓म् । लोक᳓म् । षोडशि᳓नः । स्तोत्रे᳓ण ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सुवर्गं लोकं षोडशिनः स्तोत्रेण ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +621,11 @@ the paths trodden by the gods he mounts by the Atirātra;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 देव-या᳓नान् । एव᳓ । पथः᳓ । आ᳓ । रोहति । अति-रात्रे᳓ण ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देवयानान् एव पथ आरोहत्य् अतिरात्रेण ।
 </details>
 </details>
 
@@ -529,6 +650,11 @@ the firmament he mounts by the laud of the Bṛhat.
 
 ना᳓कम् । रोहति । बृहतः᳓ । स्तोत्रे᳓ण ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+नाकं रोहति बृहतः स्तोत्रेण ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -551,6 +677,11 @@ Fiery energy he places in himself by the animal sacred to Agni;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 ते᳓जः । एव᳓ । आत्म᳓न् । धत्ते । आग्नेये᳓न । पशु᳓ना ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तेज एव आत्मन् धत्त आग्नेयेन पशुना ।
 </details>
 </details>
 
@@ -575,6 +706,11 @@ splendorous might and strength by the one sacred to Indra and Agni;
 
 ओ᳓जः । ब᳓लम् । ऐन्द्राग्ने᳓न ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ओजो बलम् ऐन्द्राग्नेयेन ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,6 +734,11 @@ faculties of sense by the one sacred to Indra;
 
 इन्द्रिय᳓म् । ऐन्द्रे᳓ण ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द्रियमैन्द्रेण ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +761,11 @@ speech by the one sacred to Sarasvatī;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 वा᳓चम् । सारस्वत्या᳓ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वाचं सारस्वत्या ।
 </details>
 </details>
 
@@ -648,6 +794,22 @@ both the realm of the gods and the realm of men he conquers by the barren cow sa
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अपि च तत्तत्सवनपशुभिराग्नेयादिभिः तेजःप्रभृतीन्यात्मनि धत्ते स्थापयति । ओजः ओजिष्ठमुज्ज्वलं बलम् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उभाव एव दैवलोकं च मनुष्यलोकं च अभिजयति मारुत्या वशया, इति ।  
+अत्राग्निष्टोमेनेत्यादिशब्दैः तन्निष्पादका आग्नेयादिपशवो विवक्षिताः पशुविधेः प्रस्तुतत्वात् ।  
+आग्नेयेन पशुनेत्य् अन्तिमपर्याये पर्याये विधानाच्च ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+विधत्ते —  
+सप्तदश प्राजापत्यान् पशून् आलभते ।
 </details>
 </details>
 
@@ -698,6 +860,12 @@ for obtaining Prajāpati.
 
 सप्त-दशः᳓ । प्रजा᳓-पतिः । प्रजा᳓-पतेः । आ᳓प्त्यै ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सप्तदशः प्रजापतिः (३) ।  
+प्रजापतेर् आप्त्यै, इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +896,19 @@ for Prajāpati is like this, for success.
 
 3 सप्तदशेत्यादि ॥ गतम् ॥ एवमिवेति अव्यक्तत्वाच्छ्याम इव वर्णजात्याद्यनवधारणादेकरूपः । तस्माद्रूपसमृद्धिर्भवतीति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+श्रीमत्सायणाचार्यविरचितं भाष्यसमेतमू —  
+तेषु पशुषु गुणद्वयं वाक्यभेदसङ्गीकृत्य विधत्ते —  
+श्यामा एकरूपा भवन्ति ।  
+एवमिव हि प्रजापतिः समृद्ध्यै, इति ।  
+पशूनाम् एकरूपत्वं नाम एकविधशृङ्गपुच्छादिभिर् युक्तत्वम् ।  
+प्रजापति-शब्देनात्रेश्वरस्य हिरण्यगर्भ-शरीराद्यभिव्यक्तेः प्रागवस्था विवक्ष्यते, सा चावस्था श्यामेव भवति ।  
+तम आसीत्तमसा गूढम् इति श्रुतेः ।  
+जगद्रूपस्य नानात्वस्यानुत्पत्तेरेकरूपत्वम्, एकमेवाद्वितीयम् इति श्रुतेः ।  
+पशूनां जगदीश्वरेण साम्ये सति समृद्धिर्भवति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,6 +938,13 @@ Having carried fire around them, he releases them.
 4 तानित्यादि ॥  
 तेषां प्राजापत्यानां पर्यग्निकरणानन्तरं उत्तरं प्राकृतं कर्म न कुर्यात् .।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रकृतिभूते ऽग्नीषोमीये पशौ पर्यमिकरणादूर्ध्वम् अविलम्बेनाऽऽलम्भस्य विहितत्वात्, अत्रापि चोदक-परम्परया तत्प्राप्तौ सहसाऽऽलम्भनं निषेधति—  
+तान्पर्य॑ग्निकृतानुत्सृ॑जति, इति ।  
+तदानीं नाऽऽलभेतेत्यर्थः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -779,6 +967,12 @@ The Maruts wished to strike down the sacrifice of Prajāpati;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 मरु᳓तः । यज्ञ᳓म् । अजिघांसन् । प्रजा᳓-पतेः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आलम्भस्य व्यवधाने कारणमाह—  
+म॒रुतो॑ य॒ज्ञम॑जिघासन्प्र॒जाप॑तेः ।
 </details>
 </details>
 
@@ -808,6 +1002,11 @@ for them he immolated this barren cow sacred to the Maruts;
 
 अपि तु मारुतीं वशामालभेत ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+तेभ्य॑ ए॒तां मरुतों वशामालभत ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -830,6 +1029,11 @@ with it he appeased them.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓या । एव᳓ । एनान् । अशमयत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तयैवैना॑न॒शमयत्, इति ।
 </details>
 </details>
 
@@ -889,6 +1093,26 @@ so as not to injure the sacrifice.
 
 हेतुमाह - मरुत इत्यादि ॥ गतम् ॥ तस्मान्मारुत्या प्रचर्य एतान् प्राजापत्यान् संज्ञपयेत् मारयेत् । शमयत्येव यज्ञस्य हन्तॄम् मरुतः । प्राजापत्यानां प्रचारः कृतो भवति । तच्च यज्ञस्यावधाय भवति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सप्तदश-प्रजापति-रूपो यो प्रजापतेर्यज्ञस्तं यज्ञं मरुतः पर्यनिकरणादूर्ध्वं हन्तुमुद्यताः ।  
+तदानीम् उत्कोचरूपेण प्रजापतिर्मरुद्भ्यो वशामालभत, क्रुद्धान्मरुतस्तया वशया शमितवान् ।  
+प्राजापत्यानां संज्ञपनकालं विधत्ते—  
+मारुत्या प्रचर्य एतान् संज्ञेपयेत् ।  
+मरुत॑ एव शेमयित्वा (४) ए॒तैः प्रच॑रति ।  
+य॒ज्ञस्यावा॑ताय॒ इति ।  
+प्रचर्य मारुत्या वशाया वपां हुत्वेत्यर्थः ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सप्तदशानां वपानां सह प्रचारं विदधाति—  
+एकधा वपा जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1166,11 @@ are these;
 
 5 एकधेति ॥ न पृथग्जुहोति । हेतुमाह - एकदेवत्या ह्येत हति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+एकदेवत्या हि एते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -969,6 +1198,11 @@ also all at once he places heroic power in the sacrificer.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथो अपि च एकीकृत्य सर्वं वीर्यं यजमाने दधाति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथो एकधैव यज॑माने वीर्यं दधाति, इति ।
 </details>
 </details>
 
@@ -998,6 +1232,12 @@ With a dish of wild rice containing seventeen platters he proceeds at this time;
 
 6 नैवारेणेत्यादि ॥ सप्तदशशरावेण सप्तदशसु शरावेषु संस्कृतेन । 'द्विगोः'इति लुक् । 'इगन्तकालकपालभगालशरावेषु'इति पूर्वपदप्रकृस्विरत्वम् । तत्रापि 'सङ्ख्या'इति पूर्वपदप्रकृतिस्वरत्वम् । ईदृशेन चरुणा एतर्हि एतस्मिन् काले वपाहोमानन्तरं प्रचरति । 'इदमोर्हिल्'एते तौ रथोः'इत्येतादेशः ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+विधत्ते—  
+नैवारेण सप्तदशशरावेणैतर्हि प्रचं- रति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1025,6 +1265,11 @@ for these are the sacrificial cakes of these;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 एतत्पुरोडाशाः एषः नैवारः पुरोडाशो येषां पुरोडाशकार्यकरणाच्चरुः पुरोडाशः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एतत्पु॑रोडाशा ह्येते ।
 </details>
 </details>
 
@@ -1054,6 +1299,14 @@ also he stops up the deficiency of the animals.
 
 अथो अपि च पशूनां छिद्रं कर्मवैकल्यमेतत्कालेन चरुणा अपिदधाति आपूरयति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथो पशू॒नामे॒व च्छिद्रमपि॑द्धाति, इति ।  
+नीवारैर्निष्पन्नश्चरुर्नैवारः, सप्तदशसंख्याकैः शरावैर्निर्मितः शरावैर्निर्मितः सप्तदशशरावः, तेनैव चरुणैतर्हि प्राजापत्यवपाहोमादूर्ध्वं प्रचरेत् ।  
+एष एव चरुः पशुपुरोडाशस्थानीयो येषां प्राजापत्यपशूनां त एतत्पुरोडाशाः, अतः प्रकृतौ यथा वपया प्रचर्य पुरोडाशेन प्रचरति तद्वदत्रापि ।  
+किंच वपोत्खेदात्पशूनां यच्छिद्रं कर्मवैकल्यं भवति तदेतेन चरुणाऽपिहितं भवति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1330,12 @@ speech indeed is Sarasvatī;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 सारस्वत्या᳓ । उत्-तम᳓या । प्र᳓ । चरति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सारस्वत्या मेष्याऽङ्गप्रचारस्य कालविशेषं विधत्ते—  
+सारस्वत्योत्तमया प्रच॑रति ।
 </details>
 </details>
 
@@ -1109,6 +1368,12 @@ therefore among the vital breaths speech is the last;
 वाग्वा इत्यादि ॥  
 गतम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वाग्वै सरस्वती ।  
+तस्मात्प्राणानां वाग्-उत्तमा ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,6 +1401,11 @@ also in Prajāpati he establishes the sacrifice;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 सारस्वत्या उत्तमत्वात् प्रजापतावेव यज्ञः प्रतिष्ठापितः समापितो भवति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ प्रजाप॑तावेव यज्ञं प्रतिष्ठापयति ।
 </details>
 </details>
 
@@ -1167,6 +1437,17 @@ It has not shed its teeth;
 
 हेतुमाह - प्रजापतिर्हि वाक् सर्वात्मकत्वाद्वाजपेयस्य । अपन्नदती अविपन्नदन्ता सरस्वती भवति 'छन्दसि च' इति दतृभावः ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्र॒जाप॑ति॒र्हि वाक्, इति ।  
+सारस्वती यथोत्तमा चरमा भवति तथा प्रचरेत् ।  
+सप्तदशपश्वङ्गप्रचारादूर्ध्वं प्रचरेदित्यर्थः ।  
+यस्मात्सारस्वत्या उत्तमत्वं तस्माल्लोकेऽपि सरस्वतीरूपा वाक्प्राणापानचक्षुःश्रोत्रादीनां मध्य उत्तमा, सभामध्ये विद्वदमात्यादेर्वाग्मिनः प्रागल्भ्यदर्शनात् ।  
+किंच प्रजापतेः सरस्वतीपतित्वात्तदभेदोपनचारेण वाग्रूपत्वे सति सारस्वत्या समापनेन प्रजापतावेव यज्ञः समापितो भवति ।  
+सारस्वत्या मेष्याः किं [[(कं)|]] चिद्-गुणं विधत्ते—  
+अप॑न्न॒त भवति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,5 +1477,13 @@ therefore men speak all speech.
 तस्मान्मनुष्याः सर्वां बहुप्रकारां वाचं वदन्ति ॥
 
 इति तृतीये चतुर्थोऽनुवाकः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तस्मा॑न्मनु॒ष्या॑ः सर्वां वाचं वदन्ति (५), इति ।  
+अपतितदन्तोपेता मेषी कार्या ।  
+लोके ऽप्यपतितदन्ताः पुरुषाः सर्वाक्षराणि यथोक्तस्थानप्रयत्नालोपेतान्येवोच्चारयन्ति ।  
+अतिरात्रमन्तरिक्षमुक्थ्ये॑न प्रजाप॑तिः शमयित्वोत्तमया प्रच॑रति षट् च ॥
 </details>
 </details>

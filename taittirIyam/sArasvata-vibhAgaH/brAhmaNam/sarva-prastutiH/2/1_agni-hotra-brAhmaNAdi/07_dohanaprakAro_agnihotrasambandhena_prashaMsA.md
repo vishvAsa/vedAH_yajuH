@@ -30,6 +30,14 @@ Belonging to Rudra in the cow;
 
 1 रौद्रं गवीत्यादि ॥ सर्वदेवत्यत्वेन पयस्स्तूयते । तत् दोहात्प्राक् गवि स्थितं रौद्रम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ सप्तमोऽनुवाकः ।  
+षष्ठे होमाभावप्रतीकारो ऽभिहितः ।  
+सप्तमे होतव्यस्य हविषो ऽवस्थाभेदेन सर्वदेवताप्रियत्वं प्रशंसार्थम् अनुसंधानार्थं च दर्शयति—  
+रौद्रं गवं ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -81,6 +89,12 @@ belonging to the Aśvins when being milked;
 
 वायव्य᳙म् । उ᳓प-सृष्टम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वायव्यम् उपसृष्टम् ।  
+आश्विनं दुह्यमानम् दुह्यमानम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +122,11 @@ belonging to Soma when milked;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 दुग्धं प्रागधिश्रयणात् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सौम्यं दुग्धम् ।
 </details>
 </details>
 
@@ -137,6 +156,11 @@ belonging to Varuṇa when placed on the fire;
 
 अधिश्रितं अधिश्रितावस्थम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वारुणम् अधिश्रितम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +189,11 @@ belonging to the Viśvedevas are the drops;
 
 भिन्दवो बुद्वुदा वैश्वदेवाः ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वैश्वदेवा बिन्दवः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,6 +216,11 @@ belonging to Pūṣan when boiling up;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 पौष्ण᳓म् । उ᳓दन्तम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पौष्णम् उदन्तम् ।
 </details>
 </details>
 
@@ -215,6 +249,11 @@ belonging to Sarasvatī when overflowing;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 विष्यन्दमानं स्थाल्यां बिलमतिलङ्घितं विविधं स्यन्दनं सारस्वतम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सारस्वतं विष्यन्दमानम् ।
 </details>
 </details>
 
@@ -272,6 +311,11 @@ belonging to Dhātṛ
 
 शरः स्थासकं मैत्रम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+मैत्रः शरैः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -299,6 +343,11 @@ when removed \[from the fire\];
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उद्वासितं अवतारितम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+धातुरूसितम् ।
 </details>
 </details>
 
@@ -328,6 +377,11 @@ belonging to Bṛhaspati when ladled out;
 
 उन्नितं स्रुचि गृहीतं बार्हस्पत्यम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+बृहस्पतेर् उन्नीतम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -350,6 +404,11 @@ belonging to Savitṛ when stepped forward;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 सवितुः᳓ । प्र᳓-क्रान्तम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सवितुः प्रक्रान्तम् ।
 </details>
 </details>
 
@@ -378,6 +437,11 @@ belonging to heaven and earth
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ह्रियमाणं आहवनीयं प्रति नीयमानं द्यावापृथिव्यम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+द्यावापृथिव्योर् हियमाणम् ।
 </details>
 </details>
 
@@ -429,6 +493,11 @@ belonging to Indra
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उपसन्नं आहवनीयसकाशे सादितं ऐन्द्राग्नम् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऐन्द्राग्नम् उपसन्नम् ।
 </details>
 </details>
 
@@ -486,6 +555,11 @@ belonging to Agni the first oblation;
 
 पूर्वाऽऽहुतिः सायमग्नेः, प्रातराहुतिरादित्यस्य, उपलक्षणवात् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अग्नेः पूर्वा ऽऽहुतिः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -513,6 +587,11 @@ belonging to Prajāpati the second;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 उत्तराऽऽडुतिः प्रजापतेः, तूष्णीकत्वात् 'तूष्णीं वै प्राजापत्यम्' इति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रजापतेर् उत्तरा ।
 </details>
 </details>
 
@@ -543,5 +622,28 @@ belonging to Indra when offered.
 ऐन्द्रं हुतम् ॥
 
 इति तैत्तिरीयब्राह्मणे द्वितीयाष्टके प्रथमप्रपाठके सप्तमोऽनुवाकः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऐन्द्रं हुतम् ( १ ), इति ॥  
+उद्वासितं सप्त च ॥  
+पयो यदा गवि तिष्ठति तदा रुद्रस्य प्रियम् ।  
+वत्सेनोपसृष्टं चोष्यमाणं वायोः प्रियम् ।  
+दोहनमापन्नमश्विनोः प्रियम् ।  
+दोहादूर्ध्वं सोमस्य प्रियम् ।  
+वह्नावधिश्रितं वरुणस्य प्रियम् ।  
+दर्व्या क्षोभ्यमाणस्य पयसो ये बिन्दवस्ते विश्वेषां देवानां प्रियाः ।  
+तापाधिक्येन पात्रस्यान्तपर्यन्तं यदुद्गमनं तत्पूष्णः प्रियम् ।  
+उत्सिक्तस्य पात्रगतप्रदेशेषु सर्वेषु विविधं स्यन्दनं प्रसरणं यत्तत्सरस्वत्याः प्रियम् ।  
+क्षीरमध्ये घनीभूतं यच्छरः सारं तन्मित्रस्य प्रियम् ।  
+पाकादूर्ध्वमुद्वासितं धातुः प्रियम् ।  
+स्रुच्युन्नीतं बृहस्पतेः प्रियम् ।  
+आहवनीयसमीपे गन्तुं यत्प्रक्रान्तं तत्सवितुः प्रियम् ।  
+तत्र हियमाणं द्यावापृथिव्योः प्रियम् ।  
+नीत्वा तत्समीप उपसन्नमिन्द्राग्न्योः प्रियम् ।  
+प्रथमाहुतिरग्नेः प्रिया ।  
+द्वितीयाहुतिः प्रजापतेः प्रिया ।  
+होमादूर्ध्वमिन्द्रस्य प्रियम् ॥
 </details>
 </details>

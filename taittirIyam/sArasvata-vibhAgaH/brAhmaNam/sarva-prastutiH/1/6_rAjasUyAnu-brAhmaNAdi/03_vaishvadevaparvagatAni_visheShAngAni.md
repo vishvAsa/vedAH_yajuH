@@ -34,6 +34,7 @@ mother, father, son;
 1.6.3
 1 वैश्वदेवपर्वगतान्येवविशेषाङ्गानिविधीयन्ते । तत्र  चोदकप्राप्तस्यबर्हिषस्त्रैगुण्यं  विधत्ते- त्रिवृदिति  ॥ मात्रादित्रयं  यदस्ति तदेव पुत्रयुक्तत्वात्तन्मिथुनं  सार्थकम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -68,6 +69,7 @@ amnion, embryo, chorion;
 उल्बजराय्वोर्द्वित्वसाम्येनमिथुनत्वम् ।  
 बर्हिषस्त्रैगुण्येसतियथोक्तमिथुनद्वयसाम्यं सम्पद्यते ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +116,7 @@ Threefold is the sacrificial grass tied together.
 
 त्रेधा᳓ । बर्हिः᳓ । स᳓म्-नद्धम् । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +147,7 @@ he firmly establishes himself in these very worlds.
 
 2 प्रकृतौदर्भमुष्टीनां पृथग्बन्धनं नविहितम् । इहतुमुष्टित्रयस्यपृथग्बन्धनं विधत्ते- त्रेधेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +171,7 @@ It is tied together again as one,
 
 एक-धा᳓ । पु᳓नः । स᳓म्-नद्धम् । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +201,7 @@ for this world is, as it were, one.
 
 3 पृथग्बद्धानां त्रयाणां मुष्टीनां पुनर्मिळित्वाबन्धनं विधत्ते- एकधेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,6 +231,7 @@ There are \[offerings to\] the prasūs.
 
 4 चोदकेनसामान्यतः प्राप्तानां दर्भाणां पुष्पितत्वरूपं विशेषं विधत्ते- प्रसुव इति ॥ प्रसूनोपेताः दर्भाः प्रसुवः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -254,6 +261,7 @@ He wins the firstborn nourishment itself.
 प्रथमज इति ।  
 स्पष्टम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,6 +285,7 @@ A firstborn calf is the sacrificial gift, for success.
 
 प्रथम-जः᳓ । वत्सः᳓ । द᳓क्षिणा । स᳓म्-ऋद्ध्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -329,6 +338,7 @@ The clotted butter is domestic animals.
 
 पश᳓वः । वै᳓ । पृषत्-आज्य᳓म् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +362,7 @@ He wins domestic animals as it were.
 
 पशू᳓न् । एव᳓ । अ᳓व । रुन्धे ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +386,7 @@ It is taken in five ladlings,
 
 पञ्च-गृहीत᳓म् । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -404,6 +416,7 @@ for domestic animals are fivefold.
 6 ग्रहणेसंख्यां विधत्ते- पञ्चेति ॥  
 सपुच्छपादैः पञ्चभिर्युक्तत्वात्पङ्किच्छन्दसः साध्यत्वाद्वापशूनां पाङ्क्तत्वम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,6 +447,7 @@ It is multiform,
 दधिबिन्दूनां  आज्यबिन्दूनामनेकरूपत्वात्बहुरूपत्वम् ।  
 गोमहिषादिरूपेणपशवोबहुरूपाः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +471,7 @@ for domestic animals are multiform, for success.
 
 बहु-रूपा᳓ । हि᳓ । पश᳓वः । स᳓म्-ऋद्ध्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -480,6 +495,7 @@ They churn the fire.
 
 अग्नि᳓म् । मन्थन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +519,7 @@ With Agni as mouth did Prajāpati create offspring.
 
 अग्नि᳓-मुखा । वै᳓ । प्रजा᳓-पतिः । प्र-जाः᳓ । असृजत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -557,6 +574,7 @@ Nine fore-offerings are sacrificed,
 
 न᳓व । प्र-याजाः᳓ । इज्यन्ते । न᳓व । अनु-याजाः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +598,7 @@ nine after-offerings,
 
 अष्टौ᳓ । हवीं᳓षि ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -611,6 +630,7 @@ two butter portions.
 
 9 शाखान्तराभिहितां प्रयाजानूयाजसङ्ख्यां हृदिनिधाययागं प्रशंसति- नवेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +661,7 @@ The virāj has thirty syllables;
 
 दशाक्षरपादैस्त्रिभिर्युक्तस्यविराट्छन्दसः त्रिंशदक्षरत्वम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -664,6 +685,7 @@ the virāj is food;
 
 अ᳓न्नम् । वि-रा᳓ट् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +709,7 @@ through the virāj he wins edible food.
 
 वि-रा᳓जा । एव᳓ । अन्ना᳓द्यम् । अ᳓व । रुन्धे ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,6 +735,7 @@ ghee is fiery energy.
 
 य᳓जमानः । वै᳓ । ए᳓क-कपालः । ते᳓जः । आ᳓ज्यम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -762,6 +786,7 @@ ghee is domestic animals.
 
 य᳓जमानः । वै᳓ । ए᳓क-कपालः । पश᳓वः । आ᳓ज्यम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -817,6 +842,7 @@ few domestic animals, enjoying \[him\], would attend him.
 
 य᳓त् । अ᳓ल्प । मान᳓येत् । अ᳓ल्पाः । एनम् । पश᳓वः । भुञ्ज᳓न्तः । उ᳓प । तिष्ठेरन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +873,7 @@ many domestic animals, enjoying \[him\], would attend him.
 
 11 विशेषान्तरं विधातुं प्रस्तौति- यदल्पमिति ॥ भुञ्जन्तः पालयन्तः । अभुञ्जन्तः अपालयन्तः । पशूनामल्पत्वमपालयितृत्वं चेतिदोषौ । बहुत्वं पालयितृत्वं चेतिगुणौ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +905,7 @@ Having poured much, he should make its back visible;
 तथासतिआज्यस्यबहुत्वात्पशूनामल्पत्वदोषोनभविष्यति ।  
 पुरोडाशपृष्ठस्याविर्भूतत्वात् अपालयितृत्वमपि न भवति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +929,7 @@ many domestic animals indeed, enjoying \[him\], attend him.
 
 बह᳓वः । एव᳓ । एनम् । पश᳓वः । भुञ्ज᳓न्तः । उ᳓प । तिष्ठन्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +953,7 @@ The single potsherd \[cake\] is the sacrificer.
 
 य᳓जमानः । वै᳓ । ए᳓क-कपालः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -953,6 +983,7 @@ If one were to cut a portion from the single potsherd \[cake\],
 
 12 कृत्स्नस्यापिपुरोडाशस्यहोमं विधातुं प्रस्तौति- यजमान इति ॥ इतरपुरोडाशेषु भक्षणाद्यर्थमवशेष्यकिञ्चिदेवावदीयेत । तद्वदत्राप्यवदानेनयजमानस्यावयवः छिद्येत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -983,6 +1014,7 @@ the sacrificer would either go mad
 
 अथवा उन्मत्तोभवेत् । यद्वाप्रमीयेत ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1014,6 +1046,7 @@ It should be offered just once,
 सकृदेवकृत्स्न एव ।  
 स्वर्गलोकस्यसकृत्त्वमखण्डितत्वम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1037,6 +1070,7 @@ for the heavenly realm is, as it were, once \[attained\].
 
 सकृ᳓त् । इव । हि᳓ । सुवः-गः᳓ । लोकः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1119,7 @@ he supplies \[him\] with fiery energy.
 
 य᳓जमानम् । एव᳓ । सुवः-ग᳓म् । लोक᳓म् । गमयित्वा᳓ । ते᳓जसा । स᳓म् । अर्धयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1145,7 @@ the heavenly realm is the āhavanīya fire.
 
 य᳓जमानः । वै᳓ । ए᳓क-कपालः । सुवः-गः᳓ । लोकः᳓ । आ-हवनी᳓यः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1165,6 +1201,7 @@ he would cast the sacrificer away from the heavenly realm.
 
 य᳓त् । ह᳓स्तेन । जुहुया᳓त् । सुवर्गा᳓त् । लोका᳓त् । य᳓जमानम् । अ᳓व । विध्येत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,6 +1233,7 @@ for the attainment of the heavenly realm.
 15 कथाचिदुपपत्त्यापुरोडाशस्यचोदकप्राप्तं स्रुचाहोममपोद्यहस्तेनहोमः प्रसक्तः । तद्वारणायस्रुचाहोमस्यप्रतिप्रसवं विधत्ते- यदिति  ॥ अवविध्येत्प्रच्यावयेत् । पुरोडाशोयेनसन्निवेशेनपात्रेऽवस्थितः तेनैव सन्निवेशेनाग्नौतस्यस्थितिः शाखान्तरेविहिता ।
 स्रुचाहूयमानस्त्ववाङ्मुखोवह्नौपतेत् । अतः तद्विरोधं परिहर्तुं हस्तेनहोतव्यं इत्येषामन्दानामुपपत्तिः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1248,6 +1286,7 @@ if westward,
 
 य᳓त् । दक्षिणा᳓ । पितृ-लोक᳓म् । य᳓त् । प्रत्य᳓क् । र᳓क्षांसि । यज्ञ᳓म् । हन्युः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1278,6 +1317,7 @@ if northward,
 
 16 हुतस्यपुरोडाशस्यनैश्चल्यं विधातुं प्रस्तौति- यत्प्राङिति ॥ यद्यपिलोकादिजयोनस्वरूपेणजयः । तथाऽप्यधिकफलभावनायां सत्यां तावन्मात्रत्वं दोष एव ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1307,6 +1347,7 @@ he would win the world of humans.
 17 विधत्ते- प्रतिष्ठित इति ॥  
 प्रागादिदिक्षु पतनपरिहारेणहोमस्थान एवप्रतिष्ठितः निश्चलोयथाभवतितथाहोतव्यः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1331,6 +1372,7 @@ Following the single potsherd \[cake\] standing firm, heaven and earth stand fir
 
 ए᳓क-कपालम् । वै᳓ । प्रति-ति᳓ष्ठन् । तन् । द्या᳓वा-पृथिवी᳓ । अ᳓नु । प्र᳓ति । तिष्ठतः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1359,6 +1401,7 @@ following heaven and earth, the seasons;
 
 ऋतव इत्यादिषु अनुप्रतितिष्ठन्तीत्यादिकं द्रष्टव्यम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1382,6 +1425,7 @@ following the seasons, the sacrifice;
 
 ऋतू᳓न् । यज्ञः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1405,6 +1449,7 @@ following the sacrifice, the sacrificer;
 
 यज्ञ᳓म् । य᳓जमानः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1428,6 +1473,7 @@ following the sacrificer, offspring.
 
 य᳓जमानम् । प्र-जाः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1456,6 +1502,7 @@ Therefore it must be offered while standing firm.
 
 तस्मादिति  । पूर्वस्यविधेरुपसंहारः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1479,6 +1526,7 @@ He sacrifices to the Vājins:
 
 वाजि᳓नः । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1506,6 +1554,7 @@ it is them that he sacrifices to.
 
 अग्निः᳓ । वायुः᳓ । सू᳓र्यः । ते᳓ । वै᳓ । वाजि᳓नः । ता᳓न् । एव᳓ । त᳓त् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1538,6 +1587,7 @@ it is them that he sacrifices to.
 
 18 वैश्वदेव्यामिक्षयानिस्सृतं वाजिनशब्दाभिधेयं यन्नीरं तस्यवाजिसं ज्ञकान्देवानुद्दिश्ययागं विधत्ते- वाजिन इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1561,6 +1611,7 @@ The Ṛk and the Sāman are Indra's two bay steeds, soma-drinkers;
 
 ऋख्सामे᳓ । वै᳓ । इ᳓न्द्रस्य । ह᳓री । सोम-पा᳓नौ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1584,6 +1635,7 @@ the enclosing sticks are their stall,
 
 त᳓योः । परि-ध᳓यः । आ-धा᳓नम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1635,6 +1687,7 @@ If he should offer without throwing in the enclosing sticks,
 
 19 तस्ययागस्यकालं विधातुं प्रस्तौति- ऋगिति ॥ हरीअश्वौ । तयोः वशीकरणाय      मुखे प्रक्षिप्तो लोहविशेषआधानम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1664,6 +1717,7 @@ he would give fodder \[to the horses\] while the stalls are between \[them\];
 
 अन्तः मुखमध्येऽवस्थितमाधानं  ययोस्तावन्तराधानौ । हस्तेनमुखेप्रक्षिप्यमाणः साज्यशर्करमुद्गादिपिण्डोघासः । तृणविशेषोवा । नह्याधानऽन्तरवस्थितेसतिघासोभक्षयितुं शक्यः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1716,6 +1770,7 @@ he gives fodder \[to them\] without stalls intervening.
 
 निः᳓-आधानाभ्याम् । एव᳓ । घास᳓म् । प्र᳓ । यच्छति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1739,6 +1794,7 @@ Spattering it upon the sacrificial grass, he brings the whey.
 
 बर्हि᳓षि । विषिन् । च᳓न् । वा᳓जिनम् । आ᳓नयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1771,6 +1827,7 @@ he places semen in offspring.
 
 21 तत्र  पात्रेग्रहणकालेपात्रस्याभिरक्षणेन अधोऽवस्थितस्यबर्हिषः विशेषणसेचनं विधत्ते- बर्हिषीति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1794,6 +1851,7 @@ Having invited each other, they consume \[it\],
 
 सम्-उपहू᳓य । भक्षयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1825,6 +1883,7 @@ for they are soma-drinkers in this rite;
 किन्तुसोमवद्भक्षयेत् ।  
 एतदेव वाजिनभक्षणं सोमपीथः सोमपानं येषां ऋत्विजां ते एतत्सोमपीथाः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1848,6 +1907,7 @@ moreover, they place semen in themselves.
 
 अ᳓थो । आत्म᳓न् । एव᳓ । रे᳓तः । दधते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1871,6 +1931,7 @@ The sacrificer consumes last.
 
 य᳓जमानः । उत्तमः᳓ । भक्षयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1903,4 +1964,5 @@ they establish domestic animals in the sacrificer.
 
  इति षष्ठे तृतीयोऽनुवाकः ॥
 </details>
+
 </details>

@@ -30,6 +30,7 @@ Prajāpati created offspring by means of the Vaiśvadeva \[offering\].
 
 1 सन्तिराजसूयेचातुर्मास्यहवींषि । तत्र   वैश्वदेवपर्वहवींषि  स्तौति- वैश्वदेवेनेति ॥ वैश्वदेवाख्यं कर्मानुष्ठाय तेनैवाहितः प्रजापतिः प्रजा असृजत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +59,7 @@ Being created, they did not propagate.
 
 तास्सृष्टाः प्रजानप्राजायन्तनस्वापत्यानिलेभिरे ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +90,7 @@ Agni desired:
 
 सः तासुप्रजासुमध्येस्थितः अग्निः अहं प्रजाः प्रजनयेयमितिअकामयत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -118,6 +121,7 @@ in Prajāpati.
 सः  एवं कामयमानः अग्निः प्रजापतयेशुचं शोकं अदधात् ।  
 प्रजापतिसृष्टानां प्रजानामपत्याभावस्य अपत्योत्पादनकामिनावह्निनास्मारितत्वात्प्रजापतौवह्निश्शोकोत्पादकउच्यते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,6 +150,7 @@ He grieved, desiring offspring.
 
 यस्मात्पुत्रवान्प्रजापतिः पौत्रमिच्छन्नशोचत्
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +180,7 @@ Therefore, both the one whom offspring support and the one whom they do not,
 
 यस्मात्पुत्राभावादग्निरशोचत्तस्मात्  लोकेऽपि  यं पितरं उत्पन्नाप्रजापुत्ररूपाभुनक्ति पालयति यं च अपत्यरहितं अनुत्पन्नाप्रजानपालयतितावुभौ पौत्ररूपां पुत्ररूपां च प्रजां इच्छमानौशोचतः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -203,6 +209,7 @@ they both grieve, desiring offspring.
 
 2 तासुस्वासुप्रजासुप्रजापतिः प्रजामुत्पादयितुं अग्निं असृजत्अभ्यनुज्ञातवान् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -232,6 +239,7 @@ Agni approached them.
 
 तथा अनुज्ञातः अग्निः प्रजाः अध्यैत्प्राप्तवान्मिथुनभावेनसङ्गतवान् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -288,6 +296,7 @@ Savitṛ generated \[them\].
 
 ततः सविताप्रसवकालेप्राजनयत्प्रजाः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -316,6 +325,7 @@ Sarasvatī placed speech \[in them\].
 
 तेषु अपत्येषु सरस्वतीवाचं अदधात्सं भाषितुं अभ्यासं कारयामास । ़
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -344,6 +354,7 @@ Pūṣan nourished \[them\].
 
 ततः सम्भाषमाणान्बालकान्पूषा अपोषयत्अभ्यवर्धयत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -375,6 +386,7 @@ the gods who are lords of nourishment.
 येदेवाः अग्निसोमादयः पुष्टिपतयः अपत्यपोषकाः त एते अग्न्यादयः पूषान्ताः पञ्चदेवाः पुष्टिकरत्वेनसंवत्सरस्यमध्येचातुर्मास्येषु त्रिः प्रयुज्यन्ते ।
 वैश्ववेवरुणप्रघाससाकमेधाख्येषु पर्वसुपञ्चानामेतेषां आग्नेयादीनां संचारितत्वात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -403,6 +415,7 @@ The year indeed is Prajāpati.
 
 सोऽयं प्रयोगत्रयकालः संवत्सर एवप्रजापतिः तत्स्वरूपः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -431,6 +444,7 @@ By means of the year he generated offspring for him.
 
 अतः प्रजापतिरूपेणप्रयोगत्रययुक्तेनसंवत्सरेणैव अस्मैअनुष्ठात्रेप्रजाः प्राजनयत् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -463,6 +477,7 @@ The Maruts slew those offspring once born, \[saying\],
 3  एवंपञ्चयागान्प्रशस्यषष्ठंयागंप्रशंसति- मरुतः ताः जाताः प्रजाः हतवन्तः ।  
 केनाभिप्रायेण अस्मानपि एतस्मिन्वैश्वदेवेकर्मणि न प्रायुक्षत न प्रयुक्तवत्यः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,6 +529,7 @@ He poured it out.
 
 त᳓त् । निः᳓ । अवपत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -542,6 +558,7 @@ Then indeed he became fit for offspring.
 
 प्रजाभ्योऽकल्पतप्रजारक्षणसमर्थोऽभूत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -573,6 +590,7 @@ it is for the fitting of the sacrifice,
 
 यज्ञस्यकॢप्त्यैसंपूर्त्यै । प्रजानां अघाताय अहिंसायै ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,6 +614,7 @@ for the non-slaughter of offspring.
 
 सप्त᳓-कपालः । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -626,6 +645,7 @@ The Maruts are seven troops.
 
 4 तत्र  कपालसङ्ख्यां प्रशंसति- सप्तानां समूहएकैकोगणः तादृशागणाः सप्तसङ्ख्याकाः यत्रतेमरुतः । गणश एवसङ्घरूपां विशं प्रजां अस्मैयजमानायकल्पयतिसप्तकपालोमारुतः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +669,7 @@ In troops he arranges the people for him.
 
 सः᳓ । प्रजा᳓-पतिः । अशोचत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -682,6 +703,7 @@ the Maruts have slain them.
 
 5 सप्तमयागेद्रव्यं प्रशंसति- याः पूर्वाः प्रजा असृक्षिसृष्टाः ताः मरुतः अवधिषुः  इति  एवं सः प्रजापतिः अशोचत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +733,7 @@ His heat rolled out as an egg.
 
 तस्यतथाशोचतः प्रजापतेः शुष्मः बलं आण्डं भूतं अण्डवत्पिण्डाकारं निरवर्ततनिर्वृत्तम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -740,6 +763,7 @@ He nourished it.
 
 तत्तथानिर्वृत्तं व्युदहरत्विभज्योद्धृतवान् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +792,7 @@ It propagated.
 
 उद्धृत्यचतत्पोषयित्वाप्रजारूपेणउदपादयत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +816,7 @@ This indeed is the form of an egg,
 
 त᳓त् । प्र᳓ । अजायत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -823,6 +849,7 @@ in that he draws it out.
 पिण्डरूपाया  आमिक्षाया अण्डरूपत्वात्तद्व्युद्धरेणप्रजापतिवत्यजमानः प्रजाः पोषयति ।  
 अनेनच अर्थवादेन अपूर्वार्थत्वात्व्युद्धरेदिति विधिरुन्नेतव्यः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -875,6 +902,7 @@ The clotted curds belong to the All-gods.
 6 तत्र  देवतां प्रशंसति- वैश्वदेवीति ॥  
 बहुभिः देवैः अग्न्यादिभिः उक्तप्रकारेणोत्पादितत्वात्प्रजानां वैश्वदेवत्वम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +926,7 @@ Offspring indeed belong to the All-gods.
 
 वैश्व-देव्यः᳙ । वै । प्र-जाः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +950,7 @@ He generates offspring for him.
 
 प्र-जाः᳓ । एव᳓ । अ᳓स्मै । प्र᳓ । जनयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,6 +981,7 @@ He brings the whey.
 दध्यानयनेनघनीभूतामिक्षाशब्दवाच्यक्षीरपिण्डस्यप्रजारूपेणाविर्भावः पुर्वार्थवादे निरूपितः ।  
 अतः तस्मिन्पिण्डेवाजिनाख्येनक्षीरगतनीरेणसेचनेसतिप्रजातासुप्रजासुरेतोधारितं भवति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -997,6 +1028,7 @@ There is \[an offering\] on one potsherd to Heaven and Earth.
 
 द्यावा-पृथिवी । ए᳓क-कपालः । भवति ।
 </details>
+
 </details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1005,6 +1037,7 @@ There is \[an offering\] on one potsherd to Heaven and Earth.
 
 द्या॒वा॒पृ॒थि॒व्य॑ एक॑कपालो भवति । -अयं पराङ्कुशाचार्यमूले पाठः । अन्यत्र द्या॒वा॒पृ॒थि॒व्येक॑कपालो भवति । इति पठ्यते। साधुत्वं विचारणीयम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1056,6 +1089,7 @@ The gods and the asuras were in conflict.
 
 देवासुराः᳓ । सं᳓-यत्ताः । आसन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1129,7 @@ with me as the mouth you shall conquer the asuras.'
 अपराकियत्यपिसेनापुरोगतायाः सेनायाः पृष्ठतस्सहायत्वेनावतिष्ठते ।  
 तानेतान्पञ्चविधव्यापारान्अग्न्यादयः क्रमेणस्वीकृतवन्तः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1156,7 @@ with me as the mouth you shall conquer the asuras.'
 
 मा᳓न् । द्विती᳓यम् । इ᳓ति । सो᳓मः । अब्रवीत् । म᳓या । रा᳓ज्ञा । जेष्यथ᳓ । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1147,6 +1183,7 @@ with me as the mouth you shall conquer the asuras.'
 
 मा᳓न् । तृती᳓यम् । इ᳓ति । सविता᳓ । म᳓या । प्र᳓-सूता । जेष्यथ᳓ । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1210,7 @@ with me as the mouth you shall conquer the asuras.'
 
 मा᳓न् । चतुर्थी᳓म् । इ᳓ति । स᳓रस्वती । इन्द्रिय᳓म् । वः । अह᳓न् । धास्यामि । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1237,7 @@ with me as the mouth you shall conquer the asuras.'
 
 मा᳓म् । पञ्चम᳓म् । इ᳓ति । पूषा᳓ । म᳓या । प्रति-ष्ठ᳓या । जेष्यथः᳓ । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1284,7 @@ with Soma as king,
 
 सो᳓मेन । रा᳓ज्ञा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1268,6 +1308,7 @@ impelled by Savitṛ;
 
 सवित्रा᳓ । प्र᳓-सूताः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1291,6 +1332,7 @@ Sarasvatī placed physical power \[in them\];
 
 स᳓रस्वती । इन्द्रिय᳓म् । अदधात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1314,6 +1356,7 @@ Pūṣan was the firm foundation.
 
 पूषा᳓ । प्रति-ष्ठा᳓ । असि । इत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1337,6 +1380,7 @@ Then indeed the gods were victorious.
 
 त᳓तः । वै᳓ । देवाः᳓ । वि । अजयन्त ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1371,6 +1415,7 @@ He does not heap up the high altar;
 10 शाखान्तरगतेन'उपवपन्ति' इत्यादि वाक्येनवैश्वदेवादिषु चतुर्षु चातुर्मास्यपर्वसुसाधारण्येनोत्तरवेद्युपवापः प्राप्तः ।  
 तमुपवापं वैश्वदेवपर्मणिप्रतिषेधति- नोत्तरवेदिमिति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1401,6 +1446,7 @@ for the high altar is domestic animals,
 पूर्वोक्तरीत्यावैश्वदेवस्यप्रजासृष्टिसाधनत्वात्स्रष्टव्यासुप्रजास्वन्तर्भूतानां पशूनां वैश्वदेवादूर्ध्वमुत्पत्तिकालोनत्विदानीम् ।  
 अतः पशुरूपाउत्तरवेदिः नात्रोपवपनीया ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1429,4 +1475,5 @@ and domestic animals are, as it were, unborn at that time.
 
 इति षष्ठेद्वितीयः ॥
 </details>
+
 </details>

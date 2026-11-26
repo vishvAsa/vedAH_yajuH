@@ -34,6 +34,7 @@ If the wife were to eat of the Gṛhamedhīya offering,
 
 1 यत्पत्नीत्यादि ॥ गृहमेधीयस्य पत्न्या अशने यजमानो गृहमेधी भवत्येव, किन्तु अस्य यज्ञो व्यृद्ध्येत ऋद्धिहीनस्स्यात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,6 +66,7 @@ she would be performing the domestic sacrifice,
 नित्ययोगेमतुप्, ततोनञ्समासः ।  
 यज्ञव्यृद्धिस्तुनभवत्येव ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +90,7 @@ but his sacrifice would fail.
 
 न᳓ । अस्य । यज्ञः᳓ । व्यृ᳙द्ध्या । इत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -117,6 +120,7 @@ If she were not to eat,
 तस्माद्दोषद्वयनिवृत्तयेप्रतिवेशं पचेयुः तत्संयुक्तं  पाकान्तरं  सर्वात्थं कुर्युः ।  
 गतमन्यत् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +144,7 @@ she would not be performing
 
 त᳓स्य । अश्ञीयात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +168,7 @@ the domestic sacrifice,
 
 गृह-मेधी᳓ । एव᳓ । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +192,7 @@ the domestic sacrifice,
 
 न᳓ । अस्य । यज्ञः᳓ । व्यृद्धि । अते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +226,7 @@ They should cook \[food\]
 
 2 तेदेवा इत्यादि  ॥ गृहमेधीयेनेष्ट्वा अञ्जनाभ्यञ्जनेकृत्वा अनन्तरं तत्र  वत्सानन्ववासयन्नित्येके । मातृभिस्सहवत्सान्वासयन्तीत्यन्ये । 'तृतीयार्थे' इत्यहोकर्मप्रवचनयित्वम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +255,7 @@ for a neighbor;
 
 तेभ्य इत्यादि  । अत्रान्तरे असुरादेवेभ्यः क्षुधं प्राहिण्वन्प्रेषितवन्तः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -276,6 +285,7 @@ she should eat of that.
 
 साक्षुत्देवेषु लोकं  अवकाशं  अवित्वा अलब्ध्वापनरपि असुरानेव अगच्छत्गृहमेधीयानुभावेन ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -300,6 +310,7 @@ She indeed performs the domestic sacrifice,
 
 गृहमेधी᳓येन । इष्ट्वा᳓ । आ᳓शिताः । भवन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -323,6 +334,7 @@ She indeed performs the domestic sacrifice,
 
 आ᳓-अञ्जते । अभि᳓-अञ्जते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -346,6 +358,7 @@ Those gods, having sacrificed with the Gṛhamedhīya,
 
 अ᳓नु । वत्सा᳓न् । वासयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -376,6 +389,7 @@ they anointed their eyes and limbs;
 तस्माद्गृहमेधीयेनेत्यादिविधिः ।  
 एवमनेन कर्मणा भ्रातृव्यायैव यजमानेन क्षुत्प्रहिताभवति॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +423,7 @@ To them the asuras dispatched hunger.
 3 तेदेवा इत्यादि  ॥ निष्कासं  पचनस्थालीलग्नं  क्षामकार्षं  तमुद्धृत्यइन्द्रायन्यदधुः ।  
 केनाभिप्रायेणेत्याह- निहितभागत्वात् अस्मानैव श्व इन्द्र उपावर्तिता अवश्यमेवश्वआगन्ताईति । अनेनाभिप्रायेण निष्कासं  इन्द्रार्थं  न्यदधुः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,6 +447,7 @@ That \[hunger\], not finding a place among the gods,
 
 ता᳓न् । इ᳓न्द्रः । नि᳓-हितभागः । उप । अ᳓वर्तत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,6 +473,7 @@ Having sacrificed with the Gṛhamedhīya,
 
 गृहमेधी᳓येन । इष्ट्वा᳓ । इ᳓न्द्राय । निः । का । स᳓म् । नि᳓ । दध्यात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -486,6 +503,7 @@ they become sated;
 इन्द्रोपि निहितभागत्वादेव उत्तरेद्युः उपावर्तत ।  
 तस्मात्  - गृहमेधीयेनेत्यादिविधिः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +555,7 @@ they let the calves go to \[the cows\].
 
 भाग-धे᳓येनः । एव᳓ । एनम् । स᳓म् । अर्धयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,6 +587,7 @@ The sacrificer thereby dispatches hunger to his rival.
 
 तस्मात्  तस्मिन्नुदिते जुहोतीति गम्यते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -597,6 +617,7 @@ set aside the scraping for Indra,
 
 अथो अपिच भ्रातृव्यस्यइन्द्रियं  वीर्यं  च यजमानो वृङ्क्ते वर्जयति । इन्द्रवीर्यवृषभरवाश्रयात् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -628,6 +649,7 @@ To them Indra turned back, having his portion set aside.
 
 5 इन्द्रोवृत्रमित्यादि ॥ परां  परावतं  परागतं  दूरतरं  देशं  अगच्छत्अपारधमहं  वाया इति अपाराधमिति मन्यमानः पुनरपि वृत्रभयात्दूरतरं  गतइति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -659,6 +681,7 @@ Having sacrificed with the Gṛhamedhīya,
 
 इदमित्थं  कोवेदिष्यतिज्ञास्यतिवेदितुं  समर्थः कइति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -693,6 +716,7 @@ He offers it in the Gārhapatya \[fire\].
 अथवयमेवइदं  वेदामज्ञातुं समर्थाइति । लोटि'आडुत्तमस्य'  इत्याडागमः ।
 कः पुनः सइति चेत्  अस्मभ्यमेवप्रथमं  प्रधानहविर्भ्यः प्रागेव अस्मदीयं  हविर्निरुप्यातै निरूप्येत इति अयमस्माकं  वर  इति । 'उपसं  वादाशङ्कयोश्च' इति लेटि'वैतोऽन्यत्र' इत्यैकारः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +740,7 @@ He satisfies him with his own share.
 
 ते᳓ । एनम् । अ᳓धि । अक्रीडन् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -749,6 +774,7 @@ that is verily his vaṣaṭ-call.
 ततोमृतइत्यजानन्निति ।  
 तस्मात्  क्रीडिभ्योमरुद्भ्यः प्रथमं  हविर्निर्वापोविजयायभवति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -780,6 +806,7 @@ Moreover, the sacrificer thereby strips away the rival's sensual power and heroi
 लोकेअवकाशेयदुदयकालेइन्द्रोवृत्रं  हतवान् ।  
 तस्मात्  तत्र  निर्वापोऽस्यसमृद्ध्यैभवति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -804,6 +831,7 @@ went to the farthest distance,
 
 एत᳓स्मिन् । वै᳓ । लोकः᳓ । इ᳓न्द्रः । वृत्र᳓म् । अहन् । स᳓म्-ऋद्ध्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,6 +860,7 @@ thinking, "I have committed a fault."
 
 7  एतत्ब्राह्मणान्येवेत्यादि ॥ अनन्तरोदितवैश्वदेवादि ब्राह्मणोत्पन्नान्येव पञ्च हवींषि  आग्नेयादीनि पौष्णान्तानि अत्रापि कर्तव्यानि ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -861,6 +890,7 @@ He said,
 
 अथतदनन्तरवरुणप्रघासब्राह्मणविहितोयऐन्द्राग्नः स एवात्रापिषष्ठं  हविः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +919,7 @@ The Maruts said, "Let us choose a boon:
 
 अथसप्तमादिविधीयतेएन्द्रश्चरुः सप्तमः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +949,7 @@ let the first oblation be poured out for us."
 
 8 उद्धारं  वा इत्यादि  ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +990,7 @@ having slain Vṛtra,
 यथा- अधिपञ्चालेषु ब्रह्मदत्तइति ।  
 तद्विषयैश्वर्यनिमित्तोयउद्धारः आत्मनउच्छ्रायः तं एतं  अनेनचरुणाउदहरत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1022,7 @@ When this mess of boiled rice for Indra is \[prepared\],
 यदेष इत्यादि  ।  
 गतम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1046,7 @@ the sacrificer takes up that selected share
 
 अन्या᳓सु । प्र-जा᳓सु । अ᳓धि ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1040,6 +1075,7 @@ over and above the other creatures.
 
 वैश्वकर्मणएककपालोऽष्टमः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1069,4 +1105,5 @@ by that the sacrificer secures all ritual acts.
 
 इति षष्ठे सप्तमः ॥
 </details>
+
 </details>

@@ -31,6 +31,7 @@ He says:
 
 1 अग्नयेदेवेभ्य इत्यादि  ॥ सामिधेनीसंप्रैषोऽयम् । देवार्थं पित्रर्थं च अग्नयेसमिध्यमानायानुब्रूहिसामिधेनीरनुब्रूहीति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,6 +60,7 @@ He says:
 
 अत्रयत्देवेभ्यः पितृभ्यः इति उभयमुच्यतेतत्राभिप्रायमाह- उभयेहीति । 'अग्नयेसमिध्यमानायानुब्रूहि' इति प्राकृतः । वैकृतः - 'देवेभ्यः पितृभ्यः ' इति प्रक्षिप्यते, उभयोरत्रेज्यमानत्वात् । उपलक्षणं चेदं अन्यत्रापिसहकीर्तनं  'देवबर्हिश्शतवल्शम्'  इत्यादि  ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,6 +114,7 @@ mantra\]
 
 ए᳓का । हि᳓ । पितृणा᳓म् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +143,7 @@ for Agni
 
 तामेकामृचं त्रिरन्वाह ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -168,6 +172,7 @@ being kindled
 
 त्रिर्हिदेवानां संबन्धिक्रियते 'त्रिषत्या हि देवाः ' इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +202,7 @@ for the
 
 3 आघारावाघारयतीति । प्राप्तस्यैववचनं फलविशेषवत्तया अवश्यकर्तव्यत्वख्यापनार्थम् । तदाह-यज्ञपरुषोः यज्ञस्यपर्वणोरन्तरिति र्विलोपोमाभूदिति  तयोस्सर्वाहुतिव्यवस्थानात् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -220,6 +226,7 @@ gods,
 
 न᳓ । आर्षेय᳓म् । वृणीते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +250,7 @@ for the
 
 न᳓ । हो᳓तारम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +299,7 @@ For both
 
 प्र-मा᳓युकः । हो᳓ता ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -320,6 +329,7 @@ the gods
 
 4 नार्षेयमित्यादिभिः प्राप्तस्यप्रतिषेधः - नार्षेयं वृणीतेहोता 'अग्नेमहां असि' इत्यदि । नचहोतारमध्वर्युः वृणीते 'अग्निर्देवोहोता'  इत्यादि  । पूर्ववद्धोतृयजमानयोः त्रिषु कीर्तनात् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +358,7 @@ and the
 
 5 अपबर्हिष इत्यादि  ॥ गतम् । चतुर्थवर्जितं इत्यर्थः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -372,6 +383,7 @@ Fathers are
 
 प्र-जा᳓ । वै᳓ । बर्हिः᳓ । प्र-जाः᳓ । एव᳓ । मृत्योः᳓ । उ᳓त् । सृजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -402,6 +414,7 @@ sacrificed to.
 
 आज्यभागयोः प्राग्वत्फलविशेषवत्तया आवश्यकत्वख्यापनाय पुनर्विधानम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,6 +438,7 @@ He recites once.
 
 प्राचीनावीती᳓ । सो᳓मम् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +468,7 @@ For one is of the Fathers.
 
 प्राचीनावीतीत्यादि । गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -482,6 +497,7 @@ He recites three times.
 
 6 पञ्चकृत्व इति ॥ आदावुपस्तरणं , हविषां पुरोडाशधानामन्थानां सकृत्सकृत् अवदानं तूष्णीं भवति । अभिघारणं पञ्चममिति ।  एतैः पञ्चभिः पञ्चदेवताः प्रीणयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,6 +526,7 @@ For three is of the gods.
 
 ताश्च दर्शयति- पञ्च ह्येता इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +555,7 @@ He pours the two
 
 द्वे पुरोऽनुवाक्ये प्रत्येकं हविषां द्वेद्वेपुरोऽनुवाक्ये'त्वं सोमप्रचिकितः '  इत्यादिके ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -567,6 +585,7 @@ libations of butter,
 याज्येति ।  
 'अग्निष्वात्ताः पितरः '26  इत्यादिका एका ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +609,7 @@ so
 
 ताः᳓ । एव᳓ । प्रीणाति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +640,7 @@ that the two joints
 
 संततमिति । एकैका देवतात्रिष्वपि हविष्षु यथा अविच्छिन्ना भवति तथा सन्ततमवद्यति । ऋतूनां अविच्छेदाय तद्भवति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +664,7 @@ of the sacrifice
 
 प्र᳓ । ए᳓व । ए᳓भ्यः । पू᳓र्वया । पुरः । अनु-वाक्य᳙या । अह ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +689,7 @@ are not separated.
 
 प्र᳓ । नयति । द्विती᳓यया । गम᳓यति । याज्य᳙या ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -696,6 +719,7 @@ He does not select
 
 7 प्रैवैभ्य इत्यादि  ॥ किञ्चेत्याह- इत इति । इतोमनुष्यलोकात्तृतीयेलोकेपितरः । तत्र  स्थितान्एनान्पितॄन्पूर्वयापुरोऽनुवाक्यया अह्नः प्रकाशमानान्द्युलोकात्अत्यानयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -724,6 +748,7 @@ the lineage of ṛṣis,
 
 ततोद्वितीययारात्रियै । पञ्चम्यर्थेचतुर्थी । रात्रियारात्रितुल्यात्अन्तरिक्षात्अत्यानयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -752,6 +777,7 @@ nor \[does he
 
 तत एनान् भूलोकप्राप्तान् याज्यया हविः आगमयति प्रापयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -781,6 +807,7 @@ select\] the Hotṛ.
 
 8 दक्षिणत इत्यादि  ॥ वेदेः दक्षिणतोहवींषि अवदायउदङ् अतिक्रामतिवेदिं  व्याकृत्यैव्यावृत्त्यर्थं  देवयज्ञात् । प्रदर्शनार्थमिदम् । परिक्रामन्तिऋत्विजोविपरिहरन्तिस्रुचोहवीं षिपरिश्रयणानीति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -811,6 +838,7 @@ If he were to select the lineage of ṛṣis,
 
 आश्रावयस्वधां  पितृभ्यइत्यर्थः । अथाग्नीध्रोपि' अस्तु श्रौषट्' इत्यत्र श्रौषट्पदमपोह्य अस्तुस्वधेतिप्रत्याश्रावयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,6 +867,7 @@ if \[he were to select\] the Hotṛ,
 
 पितॄणां  स्वधासिद्धयेआश्रावणमस्त्विति । उपलक्षणत्वात्स्वधेतियाज्यां  संप्रेष्यति । अथ'येयजामहे'27 इत्यतो येयजामह इति पदमपास्ययेस्वधामहइति याज्यां ब्रूयात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -867,6 +896,7 @@ the sacrificer would be prone to die;
 
 अथस्वधानमइति वषट्करोति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -895,6 +925,7 @@ the Hotṛ would be prone to die.
 
 स्वधाकारः पितृणां  प्रियइति उक्तसमर्थनार्थोहेतुः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -918,6 +949,7 @@ Therefore he does not select,
 
 सो᳓मम् । अ᳓ग्रे । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -947,6 +979,7 @@ for the protection of the sacrificer \[and\] of the Hotṛ.
 
 10 सोमप्रयाजाइति ॥ सोमः प्रयष्टव्यो येषां  तादृशाः । पितृमन्तं पितृगणसहितम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -978,6 +1011,7 @@ He delivers the offspring from death.
 
 संवत्सरः पितृमान्सोमः 'मासावैपितरोबर्हिषदः । अर्धमासावैपितरोऽग्निष्वात्ताः ' इति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1035,7 @@ He offers the two portions of clarified butter.
 
 पितॄ᳓न् । बर्हि-स᳓दः । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1032,6 +1067,7 @@ Wearing his sacred thread over the right shoulder, he sacrifices to Soma,
 
 यज्वानः श्रौताग्न्यनुप्रविष्टावर्हिषदोनाम ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1055,6 +1091,7 @@ for this offering belongs to the Fathers.
 
 पितॄ᳓न् । अग्नि-ष्वात्ता᳓न् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1087,6 +1124,7 @@ two introductory verses,
 
 अयज्वानो गृहमेधिनः गृहस्थाः लौकिकाग्न्यधीनाः ते अग्निष्वात्ता नाम      पितरः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1110,6 +1148,7 @@ the offering verse, the deity, \[and\] the vaṣaṭ-call.
 
 अग्नि᳓म् । कव्य-वा᳓हनम् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1133,6 +1172,7 @@ Those very \[deities\] he pleases.
 
 यः᳓ । एव᳓ । पितृणा᳓म् । अग्निः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1156,6 +1196,7 @@ He cuts off continuously,
 
 त᳓म् । एव᳓ । त᳓त् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1187,6 +1228,7 @@ With the first introductory verse he announces to them;
 
 ये अपिच अयं स्विष्टकृत्स्थानीयोवेदितव्यः यथादेवानां स्विष्टकृन्नाम एवमयं पितृणामिति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1215,6 +1257,7 @@ with the second he brings \[them\] forward;
 
 11  एतत्तेततेत्यादि ॥ तिसृषु स्रक्तीषु दक्षिणायां  श्रोण्यां दक्षिणोत्तरयोरं सयोरिति  पिण्डान्निदधाति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1243,6 +1286,7 @@ with the offering verse he makes \[them\] arrive.
 
 त्रय एवयष्टव्याः । पितापितामहः प्रपितामह इति । आतृतीयादिति चाभिव्याप्तावाकारः । चतुर्थः संप्रदार्तेषमिति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1271,6 +1315,7 @@ The Fathers are indeed in the third world from here.
 
 तस्मात् त्रयः पिण्डा दीयन्ते   इति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1299,6 +1344,7 @@ With the first introductory verse he brings them across the day;
 
 'अत्रपितरः ' इत्युक्त्वानिष्क्रामन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1329,6 +1375,7 @@ with the second, \[across\] the night;
 कर्तरिक्विबन्तात्सं ज्ञायां कन् ।  
 कपिलकादित्वाल्लत्वविकल्पः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1352,6 +1399,7 @@ with the offering verse he makes them arrive.
 
 उ᳓दञ्चः । निः᳓ । क्रामन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1382,6 +1430,7 @@ he steps across towards the north for separation.
 
 उदञ्च इत्यादि  । गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1411,6 +1460,7 @@ And just as he sacrifices to Agni Sviṣṭakṛt,
 12 आहवनीयमिति ॥  
 तेनोपस्थानात् अस्मा आहवनीयाय निह्नुवते व्यलीकं कुर्वन्ति छादयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1435,6 +1485,7 @@ He places \[them\] down on three corners with: 'This for you, father, and for th
 
 नि᳓ । एव । अस्मै । त᳓त् । ध्नुवते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1464,6 +1515,7 @@ Therefore they recite the names \[of ancestors\] down to the third generation;
 
 केचिदाहुः - नमस्यन्ति प्रसादनार्थमिति । किं पुनस्तद्व्यलीकमित्याह- यदिति  ॥ यस्मादिमेसत्येवआहवनीयेअन्यत्रदक्षिणाग्नौचरन्ति एतं ह्नुवतेतस्मादेवमर्थमेव ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1521,6 +1573,7 @@ He says: 'Here, O Fathers, gladden yourselves, each according to his share!'
 
 आहवनीयमेव अग्निमुपद्रष्टारंसाक्षिणमनुज्ञातारं कृत्वापितॄन्निरवदयन्तेबहिर्निष्कृष्य दक्षिणाग्नौ चरणेन तर्पयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,6 +1604,7 @@ They walk out towards the north.
 अन्तं वा  इत्यादि  ।  
 गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1603,6 +1657,7 @@ It is towards their own direction that they walk out.
 13 सुसंदृशंत्वा'  इत्याहवनयोपस्थानमन्त्रः ॥  
 अयुक्त अयुज्यत इन्द्र ते हरी योजायोजय इति येषां प्राणानामन्तं गतं पुनर्योजयति वचनव्यत्ययो वा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1626,6 +1681,7 @@ The breath is of lovely sight.
 
 प्राणः᳓ । वै᳓ । सु-सन्दृ᳓क् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1649,6 +1705,7 @@ It is breath that they place in themselves.
 
 प्राण᳓म् । एव᳓ । आत्म᳓न् । दधते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1672,6 +1729,7 @@ He says: 'Yoke now, O Indra, your two bay steeds!'
 
 यो᳓जा । नु᳓ । इन्द्र । ते । ह᳓री । इ᳓ति । आह ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1700,6 +1758,7 @@ He has yoked the breath anew.
 
 पुनः प्राणमयुजन्त इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1729,6 +1788,7 @@ They attend upon the Gārhapatya \[fire\] with: 'They have eaten, they have rejo
 14 अक्षन्नित्यादि ॥ गार्हपत्योपस्थानमन्त्रः ।
 ननुपितृणां साहित्यमनेनप्रीतिकरं क्रियतेतत्किमुपस्थानमनेनगार्हपत्यस्येतिचोद्यावसरेमन्त्राभिप्रायमाह-  एतेपितरोअक्षन्भुक्तवन्तः अमीमदन्तअमोदन्त । वयं  तदर्थं त्वां हित्वा अन्यत्र चराम ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1785,6 +1845,7 @@ They approach with: 'The Soma-loving Fathers have rejoiced!'
 
 अमीमदन्त अमोदन्त पितरः सोम्यास्सोमार्हा इति अन्वाहार्यपचनं  अभिप्रपद्यन्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1813,6 +1874,7 @@ They approach with: 'The Soma-loving Fathers have rejoiced!'
 
 अस्यापि मन्त्रस्याभिप्रपतौ तात्पर्यमिति व्याचष्टे - अमीमदन्तेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1837,6 +1899,7 @@ he purifies them.
 
 अपः᳓ । प᳓रि । सिञ्चति । मार्ज᳓यति । एव᳓ । एनान् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1862,6 +1925,7 @@ He is satiated with offspring and with domestic animals,
 
 अ᳓थो । तर्प᳓यति । एव᳓ । तृ᳓प्यति । प्र-ज᳓या । पशु᳓भिः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1890,6 +1954,7 @@ The sacred grass is offspring.
 
 यः᳓ । एव᳓म् । वे᳓द । अ᳓प । बर्हिषा । उ । अनूयाजौ᳓ । यजति । प्र-जा᳓ । वै᳓ । बर्हिः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1913,6 +1978,7 @@ He delivers the offspring from death.
 
 प्र-जाः᳓ । एव᳓ । मृत्योः᳓ । उ᳓त् । सृजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1936,6 +2002,7 @@ He offers four fore-offerings
 
 चतु᳓रः । प्र-याजा᳓न् । यजति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1961,6 +2028,7 @@ Six are the seasons;
 
 द्वौ᳓ । अनूयाजौ᳓ । ष᳓ट् । स᳓म् । पद्यन्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1990,6 +2058,7 @@ The wife does not sit beside \[the rite\];
 
 15 अपः परिषिञ्चतीत्यादि ॥ गतम् । वेदिं परितः सिञ्चति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2013,6 +2082,7 @@ they do not perform the consort-offerings.
 
 न᳓ । प᳓त्नि । अ᳓नु । आस्ते । न᳓ । स᳓म् । याजयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

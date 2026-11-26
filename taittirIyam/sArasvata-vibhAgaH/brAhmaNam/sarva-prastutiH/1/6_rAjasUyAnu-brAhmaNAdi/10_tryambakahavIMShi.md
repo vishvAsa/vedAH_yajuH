@@ -32,6 +32,7 @@ He parcels out one-cup-sized cakes for each person.
 यावन्तो यजमानस्य गृह्या जनास्तावत  एककपालान्निर्वपति ।  
 'यथार्थेयदव्ययम्' इति वीप्सायामव्ययीभावः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +61,7 @@ He appeases Rudra away from the offspring already born.
 
 निरवदयते रुद्रसकाशान्निष्कृष्यावस्थाप्य रक्षति  ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -88,6 +90,7 @@ He appeases Rudra away from the offspring already born.
 
 एकमतिरिक्तमिति । निर्वपतीत्येव ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -111,6 +114,7 @@ he appeases Rudra away from the offspring about to be born.
 
 जनिष्य᳓माणाः । एव᳓ । प्र-जा᳓ । रुद्रा᳓न् । निः । अ᳓व । दयते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -134,6 +138,7 @@ They are on a single potsherd;
 
 ए᳓ककपाला । भवन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -163,6 +168,7 @@ in one stroke he appeases Rudra.
 एकधैवेति ।  
 एकेनैव प्रकारेणनपुनरावृत्त्या रुद्रं  देवतान्तरसकाशान्निष्कृष्य अवस्थाय तर्पयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +192,7 @@ He does not pour butter over \[them\].
 
 न᳓ । अभि᳓ । घारयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +223,7 @@ he would make Rudra dwell within \[the village\].
 
 2 अन्तरवचारिणमिति ॥ आभ्यन्तरमनुप्रविश्यानिष्टाचरणशीलं  कुर्यात् । स्निग्धत्वादेनं नमुञ्चेत्ततश्चप्रजानश्येयुः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +281,7 @@ For that is Rudra's portion.
 
 तद्धि रुद्रस्य भागधेयं भजनीयम् एकत्वसामान्यात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +313,7 @@ For that is Rudra's direction.
 इमामिति ।  
 उत्तरपूर्वाम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -327,6 +337,7 @@ In his own direction he appeases Rudra.
 
 स्वा᳓याम् । एव᳓ । दिशि᳓ । रुत् । र᳓न् । निः । अ᳓व । दयते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +366,7 @@ Rudra does not abide an offering without cattle.
 
 4 रुद्रोवा इत्यादि  ॥ तादृशाहुत्यर्थं आत्मानं न प्रकाशयति । 'प्रकाशनस्थेयाख्ययोश्च' इत्यात्मनेपदम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -383,6 +395,7 @@ Rudra does not abide an offering without cattle.
 
 तस्य नाम देवदत्तादिकं द्विषन्तं  असौ तव पशुरिति नाम् नानिर्दिशेत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -413,6 +426,7 @@ him he indicates as cattle for him.
 
 सद्वेष्योऽस्मै पशुत्वेन निर्दिष्टो भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +457,7 @@ he should say: 'The mole is your cattle.'
 
 अथयदिकश्चित्नद्विष्यात्आखुस्तेपशुरिति ब्रूयात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,6 +486,7 @@ He harms neither domestic animals
 
 ततस्तावतातृप्तः किञ्चिदपिपशुं नहिनस्ति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,6 +510,7 @@ nor wild ones.
 
 न᳓ । आरण्या᳓न् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +569,7 @@ He offers on that which possesses fire.
 
 पड्बीश इति । अग्नीनां पत्सु ह िप्रदेयः  यत्र पुनः पुनराधावन्ति । पत्सु प्रविष्टः पड्बीश इति पृषोदरादिः । अश्वानां संदानस्थानं  पड्बीश इत्येके । तस्मात्  अग्निवत िअग्नियुक्तेहुतं भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,6 +617,7 @@ And further,
 
 स्रु᳓ग्घ्येषा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -629,6 +648,7 @@ it should be offered with the outermost \[leaf\];
 मध्यमेनेत्यादि ।  
 गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -652,6 +672,7 @@ from the very boundary he appeases Rudra.
 
 अन्ततः᳓ । एव᳓ । रुत् । र᳓न् । निः । अ᳓व । दयते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -675,6 +696,7 @@ He says: 'This is your share, O Rudra, together with your sister Ambikā.'
 
 एषः᳓ । ते । रुद्र । भागः᳓ । सह᳓ । स्व᳓स्रा । अ᳓म्बि । कये᳓त्य् । आह ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +729,7 @@ Autumn is his sister Ambikā.
 शॄहिं सायां  , 'शॄदृभसोदिः ' इत्यदिप्रत्ययः ।  
 ऋतुविशेषः शरत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -731,6 +754,7 @@ whomever he harms;
 
 त᳓या । वै᳓ । एषः᳓ । हिनस्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -761,6 +785,7 @@ He says: 'Healing for the cows!'
 
 सा खलु रोगबहुलत्वात्सर्वप्रजा हिनस्ति । तस्मादस्य देवस्य हिंसितुः सहचारिणी । शरद्रूपिकयावातया सहचारिण्या हिनस्ति प्रजाः । यदाह- 'तया वा एष हिनस्ति' इयं  दुर्वृत्तादिकं  हिनस्ति । तस्मात् 'सहस्वस्रा' इति वचनात्तयासहएनं  देवं शमयति । प्रदर्शनार्थचेदं शरल्लक्षणसहचारिणीनां  शक्तीनाम् । तत्र  त्र्यम्बकानां  शरत्प्रीत्या तामेव प्रदर्शयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +814,7 @@ As many domestic animals as there are,
 
 7 भेषजं गवइति ॥ चतुष्पथमग्निं  परिषिञ्चति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,6 +844,7 @@ for them he provides healing.
 
 यावन्तइति । 'गवेश्वाय' इत्यादि यथामन्त्र आहतथासर्वेभ्यः पशुभ्योभेषजं  करोतियथाशरन्नहिनस्ति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -848,6 +875,7 @@ He thereby prays for this blessing.
 
 8 अवाम्बरुद्रमिति यजमानोजपति ॥ आशिषमिति । 'यथानः श्रेयसस्करत्'33 इत्यादि  कामाशिषमनेन आशास्तेलभतेचतथाताम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +904,7 @@ He says: 'We sacrifice to Tryambaka.'
 
 9 त्र्यम्बकमिति अग्निं  परियन्ति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +934,7 @@ He says: 'We sacrifice to Tryambaka.'
 अस्य मन्त्रस्य तात्पर्यमाह- मृत्योरिति  ।  
 मृत्योर्मुक्षीय मुक्तो भूयासं  अमृतात्मा मुक्षीयेत्येतदयं मन्त्रः प्राधान्येन  एतदाह इत्यर्थः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -933,6 +963,7 @@ They toss \[the cakes\] up;
 
 10 उत्किरन्तीति ॥ ऊर्ध्वान्पुरोडाशानुदस्यन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -961,6 +992,7 @@ they seek to obtain fortune.
 
 भगस्येति चतुर्थ्यर्थे षष्ठी । भगाय ऐश्वर्याय तान्पततोलीप्सन्तेलब्धुमिच्छन्ति गृह्णन्ति । छान्दसं दीर्घत्वम् । तस्मात्भगस्यभगायवालिप्सतिअपादत्ते । केचिदाहुः - उत्किरन्तीत्ययं फलस्तुतिरिति  । यउत्किरन्तितत्भगस्यलीप्सन्ते ऐश्वर्यमेवतल्लब्धुमिच्छन्तीति । ऐश्वर्यस्थानीयात्तान्ग्रहीतुमुत्किरन्तीति । तस्माद्भगस्ययोलिप्सेततान्पततोगृह्णातीतिशेषः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1021,7 @@ Placing \[them\] in a basket, they hang \[them\] up.
 
 11 मूतेकृत्वेति ॥ मूते कृत्वा मूतस्थान्कृत्वा रुद्रार्थं शुष्कस्थाण्वादौ आसजन्ति आबध्नन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1018,6 +1051,7 @@ Just as one provides provisions for a person setting out on a journey,
 
 यथाजनं जनपदादिकं यते गन्तुं प्रवृत्ताय अवसं पाथेयान्नं करोति, तादृक्तत्इति जानीयात् । यातेः शतरि'शतुरनुमः ' इति चतुर्थ्या उदात्तत्वम् । 'स्वरितोवाऽनुदात्तेपदादौ' इति तस्यसं हितायां स्वरितत्वम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1047,6 +1081,7 @@ He says: 'This is your share, O Rudra,' for appeasement.
 
 12 एष ते रुद्र भाग इत्यासञ्जनमन्त्रः ॥ निरवत्त्यै इति । निष्कृष्यपृथक्त्वेनभागप्रदानार्थम् । निरवपूर्वाद्ददातेः क्तिनि 'अचउपसर्गात्तः ' इति तादेशः । 'तादौच' इत्यनन्तरस्यगतेः प्रकृतिस्वरत्वम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1070,6 +1105,7 @@ They return facing the point \[of the spear\].
 
 अ᳓-प्रतीक्षम् । आ᳓ । यन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1136,7 @@ to shut out Rudra.
 
 अप्रतीक्षं अपुनर्निरीक्षणं  आयन्ति आगच्छन्ति चतुष्पथात् । अपः परिषिञ्चतिरुद्रस्यान्तर्हित्यै अन्तर्धानं रुद्रः कुर्यादिति  ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1123,6 +1160,7 @@ They fall away from this world
 
 प्र᳓ । वै᳓ । एते᳓ । अस्मात् । लोका᳓त् । च्यवन्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1147,6 +1185,7 @@ who perform the Tryambaka offerings.
 
 ये᳓ । त्र्यम्बकैः । च᳓रन्ति । आदित्य᳓म् । चरु᳓म् । पु᳓न । रे᳓त्य । निः᳓ । वपति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1182,4 +1221,5 @@ it is on this that they firmly establish themselves.
 
 षष्ठप्रपाठकस् समाप्तः ॥
 </details>
+
 </details>

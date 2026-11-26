@@ -35,6 +35,7 @@ For Anumati he pours out a cake on eight potsherds.
 
 1 अनुमत्या इति ॥ चतुर्दशीमिश्रितायाः पौर्णमास्या अभिमानिदेवताऽनुमतिः । 'अमावास्यासिनीवालीपौर्णमास्यनुमतिः '  इति श्रुतेः । सा चानुमतिरत्रदेवतापुरोडाशोद्रव्यमित्येतदेकं  कर्म ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,6 +66,7 @@ are for Nirṛti on one potsherd.
 
 अस्मिन्कर्मणि पुरोडाशार्थं तण्डुलेषु पिष्यमाणेषु पश्चिमायां दिशिदृषदमभ्याधातुमधः स्थापितायाः शम्यायाः प्रत्यञचः प्रतीचीनाः य ेतण्डुलपिष्टलेशा अवशीयन्ते अधः पतन्ति   तत्तादृशद्रव्यलेशजनितं एककपालं एककपालपुरोडाशात्मकं द्रव्यं नैर्ऋतं निर्ऋतिदेवताकम्।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,6 +95,7 @@ This \[earth\] indeed is Anumati;
 
 इयं शालिगोधूमादिसर्वसस्याढ्याभूमिः अनुमतिः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,6 +152,7 @@ He proceeds first with the one for Nirṛti;
 
 2 पश्चान्निरुप्तस्यनैर्ऋतस्यानुमतादुत्तरकालेन्यायप्राप्तं प्रधानयागप्रचारं बाधितुं पूर्वकालं विधत्ते- नैर्ऋतेनेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,6 +234,7 @@ singly indeed he appeases Nirṛti.
 
 एकधैवएकेनैव प्रयत्नेन । कपालबाहुल्येहिप्रयत्नबाहुल्यमपेक्ष्येतेति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -261,6 +266,7 @@ If without having offered \[in it\] they were to go from the Gārhapatya,
 
 3 नैर्ऋतयागात्पूर्वं होमविशेषं विधातुमाह- यदिति  ॥ रुद्रः क्रूरदेवोभूत्वा'रूद्रोवैक्रूरः'  इति श्रुतेः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +297,7 @@ would strike both the Adhvaryu and the sacrificer.
 
 4 तत्र  होमेमन्त्रः - हेगार्हपत्य! स्वाहातुभ्यं दत्तां आहुतिं जुषाणः सेवमानः वीहिदक्षिणां दिशं जिगमिषुभिः अस्माभिः विगतोभवमाऽस्माननूत्थायबाधिष्ठाः  इति यथा मन्त्र आह तथैव एनं  अग्निं  शमयति अक्रूरं  करोति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,6 +344,7 @@ Neither the Adhvaryu nor the sacrificer meets with misfortune.
 
 ना᳓र्तिम् । आ᳓र्च्छत्य् । अध्वर्युः᳓ । न᳓ । य᳓जमानः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +373,7 @@ They go with a single firebrand;
 
 5 दक्षिणाग्नेरुल्मुकनयनं विधत्ते- एकेति ॥ उल्मुकेनयुक्ताइत्यध्याहारः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -420,6 +429,7 @@ In her own direction he appeases Nirṛti.
 
 इमां दक्षिणपूर्वाम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -496,6 +506,7 @@ In her own abode he appeases Nirṛti by offering a portion.
 
 स्वः᳓ । एव᳓ । आ-य᳓तने । नि᳓रृत् । इत् । निः । अ᳓व । दयते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,6 +537,7 @@ he assigns \[it\] to her.
 
 7 नैर्ऋतहोममन्त्रं व्याचष्टे- एष  इति ॥ एनां निर्ऋतिं हविर्भागग्रहणायप्रत्यक्षमेवनिर्दिशति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +566,7 @@ he assigns \[it\] to her.
 
 मन्त्रेभूते इति भूतिहेतुत्वेनदेवतायानिर्देशात्भूतिं ऐश्वर्यं उपावर्ततेप्राप्नोति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +620,7 @@ he releases him from distress.
 
 इमं यजमानं अंहसोमुञ्चेतिमन्त्रेऽभिधानात्एनं यजमानं अं हसः सकाशात्मुञ्चत्येवमोचयत्येवदेवतासा ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -663,6 +677,7 @@ From the very end he appeases Nirṛti.
 
 अन्तत  एव हस्ताग्रेणैवनिर्ऋतिं निरवदयतेनिवारयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -691,6 +706,7 @@ A black garment with a black fringe is the sacrificial fee.
 
 9 मुख्यब्राह्मणे (तै.सं . १-८प्रपाठके) विहितां दक्षिणां प्रशंसति- कृष्णमिति ॥ कृष्णतूषं कृष्णदशान्तम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -747,6 +763,7 @@ By means of the form itself he appeases Nirṛti.
 
 रूपेणैवतदीयरूपात्मनैव दक्षिणाद्रव्येणनिर्ऋतिं विनाशयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -777,6 +794,7 @@ for the concealment of Nirṛti.
 
 अप्रतीक्षं पृष्ठभागदर्शनरहितं आयन्तिप्रत्यागच्छन्तिअन्तर्हित्यैअदर्शनाय ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -853,6 +871,7 @@ This \[earth\] indeed is Anumati.
 
 10 स्वाहेत्यादि ॥ गतम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -876,6 +895,7 @@ This \[earth\] approves royal power for him.
 
 इय᳓म् । एव᳓ । अ᳓स्मै । राज्य᳓म् । अ᳓नु । मन्यते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -906,6 +926,7 @@ He makes this \[earth\] a milch cow.
 
 11 धेनुः नवसूतिका । इमामेव अनुमतिरूपां भूमिमेव ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +955,7 @@ He pours out a caru to the Ādityas.
 
 12 आनुमतादन्यान्दिनान्तरेष्वनुष्ठेयान्सप्तमुख्यान्यागान्प्रशं सति- आदित्यमिति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -991,6 +1013,7 @@ both divine and human.
 
 वरः गौः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1022,6 +1045,7 @@ for royal power is a chosen boon, for prosperity.
 +++(वरः गौः । )+++
 राज्यं राजगृहार्हम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1053,6 +1077,7 @@ Agni is all the deities;
 
 13 अग्निस्सर्वा इति ॥ अन्यत्राप्याम्नातम्- 'ते देवा अग्नौ तनूस्सं न्यदधत । तस्मादाहुः । अग्निस्सर्वादेवताः '  इति । 'यज्ञोवैविष्णुः '  इति च ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1077,6 +1102,7 @@ He wins both the deities and the sacrifice.
 
 वामनः᳓ । वही᳓ । द᳓क्षिणा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1159,6 +1185,7 @@ He pours out \[an offering\] on eleven potsherds to Agni and Soma.
 
 अग्नी-सोमी᳓यम् । ए᳓कादश । कप् । आलन् । निः᳓ । वपति । अग्नी᳓षो᳓माभ्याम् । वै᳓ । इ᳓न्द्रः । वृत्र᳓म् । अहन् । इ᳓ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1189,6 +1216,7 @@ In that he pours out \[an offering\] on eleven potsherds to Agni and Soma,
 
 14 अग्नीषोमीयमिति ॥ अग्नीषोमीयस्यवैरिघातित्वं याजमानमन्त्रब्राह्मणयोः वृत्रवधब्राह्मणेचप्रसिद्धम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1221,6 +1249,7 @@ Indra, having slain Vṛtra,
 15 मुख्यब्राह्मणगतेनेन्द्रेणसहविकल्पितमैन्द्राग्रं प्रस्तुत्यविधत्ते- इन्द्र  इति ॥  
 व्यार्ध्यत वियुक्तोऽभूत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1274,7 @@ He saw this \[offering\] on eleven potsherds to Indra and Agni.
 
 सः᳓ । एत᳓म् । ऐन्द्राग्न᳓म् । ए᳓कादश-कपालम् । अपश्यत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1291,6 +1321,7 @@ Thereby he won both the deities and physical power.
 
 ते᳓न । वै᳓ । सः᳓ । देव᳓ताः । च । इन्द्रि । य᳓न् । च । अ᳓वाः । रुन्धे ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1339,6 +1370,7 @@ A draft-bull is the sacrificial fee.
 
 ऋषभः᳓ । वही᳓ । द᳓क्षिणा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1416,6 +1448,7 @@ thereby it belongs to Indra, for prosperity.
 
 आग्नेय᳓म् । अष्टा᳓ । कप् । आलन् । निः᳓ । वपति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1440,6 +1473,7 @@ He pours out \[an offering\] on eight potsherds to Agni,
 
 ऐन्द्र᳓म् । द᳓धि । य᳓त् । आग्नेयः᳓ । भ᳓वति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1514,6 +1548,7 @@ he wins physical power.
 
 ऋषभः᳓ । वही᳓ । द᳓क्षिणा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1600,6 +1635,7 @@ All the offspring that ate plants without their having been offered,
 17 ऐन्द्राग्नवैश्वदेवसौम्येषु दक्षिणाद्वयस्यपृथक्छ्रवणेऽपि कर्मैकत्वसिद्ध्यर्थं आग्रयणवतीं सङ्घरूपां विधातुं प्रस्तौति- यावतीरिति  ॥
 यावतीः यावत्यः प्रजाः अहुतानां ओषधीनां अहुताओषधीः आश्नन्कर्मणश्शेषत्वविवक्षयाषष्ठी ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1631,6 +1667,7 @@ for the non-perishing of the sacrificer.
 
 आग्रयणं सङ्घीभावः हुताद्यायहुतानामेवओषधीनां अदनाय ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1659,6 +1696,7 @@ The gods ran a race for the plants.
 
 18 तादृशसङ्घे ऐन्द्राग्नादीन्त्रीन्यागान्जयहेतुत्वादिनाप्रशंसति- देवावा इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1707,6 +1745,7 @@ They chose this \[offering\] on twelve potsherds to Indra and Agni.
 
 तौ᳓ । एत᳓म् । ऐन्द्राग्न᳓न् । द्वा᳓दश । कप् । आलन् । निः᳓ । अवृणाताम् । य᳓त् । ऐन्द्राग्नः᳓ । भ᳓वति । उ᳓ज्जित्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1734,6 +1773,7 @@ Twelve months are the year.
 
 द्वा᳓दश-कपालः । भवति । द्वा᳓दश । मा᳓साः । सम्-वत्सरः᳓ । सम्-वत्सरे᳓ण । एव᳓ । अ᳓स्मै । अ᳓न्नम् । अ᳓व । रुन्धे ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1757,6 +1797,7 @@ By means of the year he wins food for him.
 
 वैश्व-देवः᳓ । चरुः᳓ । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1789,6 +1830,7 @@ He makes food savory for him.
 
 अस्मै इति । 'रुच्यर्थानाम्'  इति सं प्रदानतयाचतर्थी ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1812,6 +1854,7 @@ A first-born calf is the sacrificial fee, for prosperity.
 
 सौम्य᳓म् । श्यामा । क᳓न् । च । रु᳓न् । निः᳓ । वपति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1844,6 +1887,7 @@ He makes what ripens unplowed savory for him.
 19 सौम्यमिति ॥  
 प्रतिग्रहमन्त्रे'सोमायवासः '  इति श्रवणात् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1867,6 +1911,7 @@ A garment is the sacrificial fee,
 
 वा᳓सः । द᳓क्षिणा ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1890,6 +1935,7 @@ for a garment belongs to Soma by deity, for prosperity.
 
 सौम्य᳓म् । हि᳓ । देव᳓तया । वा᳓सः । स᳓म्-ऋद्ध्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1913,6 +1959,7 @@ He pours out a caru to Sarasvatī,
 
 स᳓रस्वत्यै । च । रु᳓न् । निः᳓ । वपति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1943,6 +1990,7 @@ He wins a pair.
 
 20 सारस्वतयागं प्रशंसति- सरस्वत्या इति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1966,6 +2014,7 @@ A pair of cattle is the sacrificial fee, for prosperity.
 
 मिथुनौ᳓ । गा᳓वौ । द᳓क्षिणा । स᳓म्-ऋद्ध्यै ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1994,6 +2043,7 @@ He departs from the mouth of the sacrifice, from prosperity,
 
 21 अत्रद्रव्यदेवतासम्बन्धानामष्टभ्योऽधिकत्वात्यागेष्वप्याधिक्यशङ्कावारणाय अष्टसङ्ख्यां  विधातुं प्रस्तौति-  एतीति ॥  एति पृथग्भवति अपगच्छति । वक्ष्यमाणप्रकारेणाग्नेः अष्टत्वसङ्ख्यात्मकत्वात्तत्सङ्ख्याया अपगम एव अग्निसकाशादपगमः । योऽग्नेः अष्टत्वात्मकात् अपगच्छति सयज्ञमुखात् यज्ञप्रारम्भात् ऋद्ध्याः यज्ञसमाप्तेश्च अपगच्छति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2019,6 +2069,7 @@ There are these eight oblations.
 
 यः᳓ । अग्नेः᳓ । देव᳓तायाः । ए᳓ति । अष्टौ᳓ । एता᳓नि । हवीं᳓षि । भवन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2042,6 +2093,7 @@ The gāyatrī has eight syllables.
 
 अष्टा᳓क्षरा । गायत्री᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2074,4 +2126,5 @@ Thereby he does not depart from the mouth of the sacrifice, from prosperity, fro
 
  इति षष्ठेप्रथमः ॥
 </details>
+
 </details>

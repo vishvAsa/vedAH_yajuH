@@ -293,6 +293,18 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथर्वणः पुत्रः कश्चिद्-ऋषिर् दध्यङ्-नामा तस्य यान्य् अस्थीनि वज्र-समानि तैर-स्थिभिस् त्रीणि निवारकाणि पर-बलानि जघान ।  
+कीदृश इन्द्रो ऽप्रतिष्कुतः ।  
+प्रतिकूलो भूत्वा कुतो ऽयम् इत्येवं निराकर्ता वैरी यस्यासौ प्रतिष्कुतस्-तथाविध-शत्रु-राहित्याद् अयम् अप्रतिष्कुतः ।  
+कियन्ति वृत्राणि नव-संख्याका नवतीर् दशाधिकाण्य् अष्ट-शतानीत्यर्थः ।  
+हे इष्टके तथा-विधैन्द्र-रूपा त्वम् असि तादृश इन्द्रस् त्वाम् उपदधात्विति वा ऽध्याहर्त्तव्यम् ।
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -548,6 +560,15 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 Seeking the head of the horse  
 that was hidden in the mountains,  
 he found it in Śaryaṇāvant.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयाम् आह—  
+इच्छन्न् अश्व॑स्य॒ यच्छरैः शिरः । पवैतेषु पर्वतेष्व् अप॑श्रितम् । तद् वि॑द॒च्छ॒र्य॒णाव॑ति, इति ।  
+अग्निः कदाचिद् अश्वो भूत्वा देवेभ्यो ऽपक्रम्य पर्वतेषु निलीनः ।  
+तदानीम् अयम् इन्द्रस् तस्याश्वस्य यच्छिरो द्रष्टुम् इच्छन् पर्वतेषु चचार, तदानीं पर्वतेष्वाश्रितं तद् अश्वस्य शिरः शर्यणावन्-नाम के कस्मिंश्चित् पर्वते विदल् लब्धवान् ।  
+हे इष्टके त्वं तथा-विधाश्व-शिरो-रूपा ऽसि ।
 </details>
 </details>
 
@@ -877,6 +898,29 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथ तृतीयाम् आह—  
+अत्राह गोरम॑न्वत ।  
+नाम॒ त्वष्टुंर् त्वष्टुर् अपीच्य॑म् ।  
+इत्था च॒न्द्रम॑सो गृहे, इति ।  
+त्वष्टुः सूर्यस्य गो-शब्दाभिधेयो रश्मिर् यो ऽस्ति तस्य नामैवास्मिन्न् एवाग्नौ विद्यत इत्येवं यजमानो ऽमन्वत ।  
+अग्निं दीप्तं दृष्ट्वा सूर्यरश्मिरित्येव भावितवन्त इत्यर्थः ।  
+कीदृशं रश्मि-नाम ।  
+अपीच्यम् अप्यञ्चति पुनः पुनर्गच्छतीत्य् अपीच्यम् ।  
+यदा यदा वह्नि-ज्वाला तदा तदा सूर्यरश्मिरित्येवं तेषां निश्चयः ।  
+एतच्च युक्तम् ।  
+एतस्यैव तेजसो रात्राव् अनिप्रवेशस्य दिवसे सूर्य-प्रवेशस्य चाग्निहोत्र-ब्राह्मणे प्रपञ्चयिष्यमाणत्वात् ।  
+इत्था चन्द्रमसो गृहे ।  
+एवम् एव चन्द्रमण्डले यो रश्मिस् तन्-नामाप्य् अस्मिन्न् एवाग्नौ मन्यन्ते ।  
+“सूर्यरश्मेरेव चन्द्रगत-सुषुम्नः सूर्यरश्मिश्चन्द्रमाः” इति श्रुत्यन्तरात् ।  
+यः सूर्यरश्मिर् यश्च चन्द्र-श्मिस् चन्द्ररश्मिस् तद्-उभय-रूपेयम् अग्नि-ज्वालेति तात्पर्यार्थः ।  
+हे इष्टके तथा-विधानित्वाद् रूपा त्वम् असि ।
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 
@@ -1208,6 +1252,20 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथ चतुर्थीम् आह—  
+इन्द्र॒म् इद्रा॒थिनो॑ बृ॒हत् ( १ ) इन्द्र॑म् अर्केभर् अर्केभिर् अर्किणः । इन्द्रं वाणीर् अनूषत इति ।  
+गाथिनः सामगा इन्द्रम् इद् इन्द्रम् एव बृहद् यथा महद् भवति तथा गायन्तीति शेषः ।  
+अर्किणः शस्त्रिणो होतारः ।  
+अर्केभिर् अर्चनीयैः शस्त्रैर् इन्द्रं शंसन्तीति शेषः ।  
+वाणीर् अध्वर्योर् वाच इन्द्रम् अनूषत स्तुवन्ति ।  
+हे इष्टके तथा-विधैन्द्र-रूपा त्वम् असि ।
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -1506,6 +1564,19 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमीम् आह—  
+इन्द्र इर्योः सच । संमिश्ल आ वचोयुज । इन्द्रो वज्री हिरण्ययः, इति ।  
+हर्योर् अश्वयोर् इन्द्र इद् इन्द्र एव सचा सक्तः संबद्धो हरि-द्वय-युक्ते रथे ऽवस्थित इत्यर्थः ।  
+तथा वचोयुजा नानाविध-वाक्य-संदर्भ-युक्तेन स्तोत्रेण आ समन्तात् संमिश्लः संयुक्तः ।  
+स एवेन्द्रो वज्री वज्र-हस्तः ।  
+हिरण्ययः सुवर्णाभरण-युक्तः ।
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
 
@@ -1807,6 +1878,17 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथ षष्ठीम् आह—  
+इन्द्रो दीर्घाय चक्षसे । आ सूर्य रोहयद् दिवि । वि गोभिर् अर्द्रिम् अद्रिम् ऐरयत् इति ।  
+अथेन्द्रो दीर्घाय चक्षसे दूरवर्तिनो दर्शनाय दिवि द्युलोके सूर्यम् आरोहयद् आरोहं कृतवान् ।  
+स च सूर्यो गोभी रश्मिभिर् अद्रिं पर्वतादि-युक्तां भूमिं विशेषेणैैरयत्प्रेरितवान् प्रकाशितवानित्यर्थः ।
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -2093,6 +2175,16 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथ सप्तमीम् आह —  
+इन्द्र॒ वाजे॑षु॒ नो अव । स॒हस्र॑प्रधनेषु च (२) उग्र उग्राभि॑रूतिभिः॒ः, इति ।  
+हे इन्द्र, त्वम् उग्रः प्रतिकूलनिवारणे तीव्रः सन्, वाजेषुसन्नेषु वाजेषु सहस्रप्रधनेषु सहस्र-सङ्ख्याकेषु प्रकृष्टधनेषु च निमित्तभूतेषु, उग्राभिर्-ऊतिभिः प्रतिबन्धनिवारणाय तीव्रैर्तीव्रैः रक्षणैर् नोऽस्मान् अव रक्ष ।
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
@@ -2321,6 +2413,18 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>सायण-टीका</summary>
+
+अथाष्टमीम् आह —  
+तम् इन्द्रे वाजयामसि । महे वृत्राय हन्त॑वे । स वृषा॑ वृष॒भोऽर्भुवद्-अभुवद्, इति ।  
+तथाविधगुणयुक्तम् इन्द्रं वयं वाजयामसि गमयामो भक्त्या प्रेरयाम इत्यर्थः ।  
+किम् अर्थम्? महे वृत्राय वृत्राय हन्तवे महान्तं पापरूपं वैरिणं हन्तुम् ।  
+स च इन्द्रो वृषा-ऽस्माकं कामानां वर्षयिता सन्, वृषभोऽभुवच्-छ्रेष्टो भवतु ।
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -2353,6 +2457,18 @@ resplendent, renowned, related to Soma;
 <details><summary>भट्टभास्कर-टीका</summary>
 
 9 इन्द्रस्स इति ॥ स तादृश इन्द्रः अस्मान् **दामने** दमनार्थे दमनकृत्ये वा बन्धने **कृतः** बन्धनयोगैर् वशीकृतकृत्य इत्यर्थः । उत्सादिर्द्रष्टव्यः । किञ्च - इन्द्रः ओजिष्ठः बलवत्तरः अभीतः बले हितः स बलीन्द्रो बले स्थितः द्युम्नी अन्नवान् यशस्वी वा । श्लोको स्तुतिमान् । सौम्य'सोमार्हः । 'तदर्हति'इति यत् । ततश्छान्दसमन्तस्वरितत्वम् । ईदृश इन्द्रो अस्माभिस्स्वीकृत इति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ नवमीम् आह —  
+इन्द्र॒ स दाम॑ने कृ॒तः । जर्जष्टः ओजिष्ठः स बलें हितः । द्युम्नी लोकी श्लोकी स सौम्यः, इति ।  
+स तादृश इन्द्रो दामने दामकृत्ये बन्धने कृतः पाशैर् वशीकृत इत्यर्थः ।  
+स च इन्द्र ओजिष्ठोऽतिबलवान् ।  
+अत एव बले हितो बलकृत्ये वैरिविनाशनेऽस्माभिर् भक्त्या प्रेरितः ।  
+स च इन्द्रो द्युम्नी धनवान् ।  
+श्लोकी कीर्तिमान् ।  
+सौम्यो रमणीयः ।
 </details>
 </details>
 
@@ -2416,6 +2532,22 @@ resplendent, renowned, related to Soma;
 
 Like a thunderbolt amassed by song, possessed of strength, not to be displaced,  
 the formidable, unconquered one has grown great.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ दशमीम् आह —  
+गिरा वज्रो न संभृतः । सर्बलो सबलो अन॑पच्युतः । ववक्षुर् उग्रो अस्तृतः (३), इति ।  
+बृहच्चास्तृतः ॥  
+सोऽयम् इन्द्रो गिरा-ऽस्मदीयया स्तुतिरूपया वाचा वज्रो न वज्र इव संभृतः ।  
+सम्यग् अस्माभिर् वशीकृतः ।  
+सबलो बलेन सैन्येन युक्तः ।  
+अनपच्युतः कदाचिद् अप्य् अपलायितः ।  
+ववक्षुर् युद्धभारं वोदुम् इच्छुः ।  
+उग्रः शत्रूणां भयंकरः ।  
+अस्तृतः केनाप्य् अहिंसितः ।  
+हे इष्टक, ईदृग्-इन्द्ररूपा त्वम् असि ।  
+ईदृग्-इन्द्रस् त्वाम् उपदधात्विति सर्वत्र शेषोऽध्याहर्तव्यः ॥
 </details>
 </details>
 

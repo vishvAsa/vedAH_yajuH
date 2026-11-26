@@ -35,6 +35,16 @@ Mitra desired: 'May I win friendship in these worlds.'
 **मित्र-धेयं** मित्रत्वं सर्वस्य ।  
 मित्राय वा धातव्यं दातव्यं मित्रधेयम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमोऽनुवाकः ।  
+चतुर्थे देवनक्षत्राणामिष्टयो विहिताः ।  
+अथ पञ्चमे यमनक्षत्राणामिष्टयो विधीयन्ते ।  
+तत्र प्रथमस्येष्टिं विधत्ते—  
+मित्रो वा अकामयत ।  
+मित्रधेयमेषु लोकेष्व- भिज॑येयमेति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -58,6 +68,11 @@ He poured out this caru for Mitra and the Anūrādhas.
 
 सः᳓ । एत᳓म् । मित्रा᳓य । अनूराधे᳓भ्यः । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स ए॒तं मि॒ित्राया॑नूरा॒धेभ्य॑श्च॒रुं निरपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,6 +95,11 @@ Thereupon he won friendship in these worlds.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । मित्र-धे᳓यम् । एषु᳓ । लोके᳓षु । अभि᳓ । अजयत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स मित्रधेयमेषु लोकेष्व- भ्यंजयत् ।
 </details>
 </details>
 
@@ -107,6 +127,12 @@ who sacrifices with this oblation,
 
 मित्र-धे᳓यम् । ह । वै᳓ । एषु᳓ । लोके᳓षु । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+मित्रधेय ह वा एषु लोकेष्वभि- जयति ।  
+य ए॒तेन॑ ह॒विषा॒ यज॑ते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +158,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+य उ॑ चैनदेवं वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +195,14 @@ To friendship svāhā! To victory svāhā!'
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 मित्रा᳓य । स्वा᳓हा । अनूराधे᳓भ्यस् । स्वा᳓हा । मित्र-धे᳓याय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मित्राय - स्वाहा॑ऽनूराधेभ्यः स्वाहा॑ ।  
+मित्रवेर्याय स्वाहाऽभिर्जित्यै स्वाहेतिं ( १ ), इति ।  
+मित्रेणाऽऽप्तेन पुरुषेण धेयं संपादनीयं धनं मित्रधेयम् ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -188,6 +235,13 @@ Indra desired: 'May I win supremacy among the gods.'
 
 2महाव्रीहयः महाशालयः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयस्येष्टिं विधत्ते—  
+इन्द्रो॒ वा अ॑कामयत ।  
+ज्यैष्ठ्च॑ दे॒वाना॑म॒भिज॑- येयमितिं ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -211,6 +265,11 @@ He poured out this cake on eleven potsherds of large rice for Indra and Jyeṣ�
 
 सः᳓ । एत᳓म् । इ᳓न्द्राय । ज्येष्ठा᳓यै । पुरोडा᳓शम् । ए᳓कादश-कपालम् । निः᳓ । अवपन् । महा᳓-व्रीहीणाम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतमिन्द्रा॑य॒ ज्येष्ठायें पुरोडाश- मेर्कादशकपालं निर्वपन्महात्रीहीणाम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -233,6 +292,11 @@ Thereupon he won supremacy among the gods.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । ज्यै᳓ष्ठ्यम् । देवा᳓नाम् । अभि᳓ । अजयत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स ज्यैष्ठ्यं॑ दे॒वाना॑म॒भ्य॑ज॒यत् ।
 </details>
 </details>
 
@@ -260,6 +324,12 @@ who sacrifices with this oblation,
 
 ज्यै᳓ष्ठ्यम् । ह । वै᳓ । समाना᳓नाम् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ज्येष्ठ ह वै समानार्नामभिर्जयति ।  
+य एतेनं हविषा यज॑ते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +355,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+य उं चैनदेवं वेदं ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽयं जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -309,6 +392,15 @@ He offers here:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 इ᳓न्द्राय । स्वा᳓हा । ज्येष्ठा᳓यै । स्वा᳓हा । ज्यै᳓ष्ठ्याय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द्राय स्वाहा॑ ज्येष्ठायै स्वाहा॑ ।  
+ज्यैष्टयांय स्वाहाऽभिर्जित्यै स्वाहेति ( २ ) , इति ।  
+ज्यैष्ठयमतिशयेन प्रशस्तत्वं वृद्धत्वं च ।  
+महात्रीहयः स्थूलवीहयः ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -342,6 +434,13 @@ He poured out this caru for Prajāpati and Mūla.
 
 3मूलं प्रधानभूतम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ तृतीयस्येष्टिं विधत्ते—  
+प्र॒जाप॑तिर्वा अ॑कामयत ।  
+मूल॑ प्र॒जां वि॑िन्दे॒येति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -365,6 +464,11 @@ Thereupon he obtained offspring from the root.
 
 सः᳓ । एत᳓म् । प्रजा᳓-पतये । मू᳓लाय । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतं प्रजाप॑तये मूलाय चरुं निरंखपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -387,6 +491,11 @@ He indeed obtains offspring from the root,
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । मू᳓लम् । प्र-जा᳓म् । अविन्दत ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स मूलं प्रजार्मविन्दत ।
 </details>
 </details>
 
@@ -412,6 +521,12 @@ who sacrifices with this oblation,
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 मू᳓लम् । ह । वै᳓ । प्र-जा᳓म् । विन्दते । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मूल ह वै प्रजां विन्दते ।  
+य एतेन॑ ह॒विषा॒ यज॑ते ।
 </details>
 </details>
 
@@ -439,6 +554,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+य चैनदे॒वं वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +590,21 @@ To offspring svāhā!'
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 प्रजा᳓-पतये । स्वा᳓हा । मू᳓लाय । स्वा᳓हा । प्र । जा᳓यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्र॒जाप॑तये॒ स्वाहा॑हा॒ मूलाय स्वाहा ।  
+प्रजायै स्वाहेति ( ३ ), इति ।  
+अत्र प्रजापतिशब्देन निर्ऋतिर्विवक्ष्यते ।  
+यद्यप्यसानुग्रदेवता तथाऽपि हविषा तुष्टा सती न बाधते किंत्वनिष्टनिवारणेन पालयति ।  
+तस्मात्प्रजापति- स्त्वमुपपन्नम् ।  
+कुलाचारस्य निर्वाहिका पुत्रादिरूपा प्रजा मूलमिति विशे- ष्यते ।  
+तथा स्वभृत्येष्वाप्ता प्रजा मूलमिति लोकैर्व्यवहियते ।  
+तादृशीमुभयविधां प्रजां लभेयेति निर्ऋतेः कामना ।  
+स्पष्टमन्यत् ।  
+अथ चतुर्थस्येष्टिं विधत्ते—  
+आपो वा अंकामयन्त ।
 </details>
 </details>
 
@@ -494,6 +637,11 @@ The Waters desired: 'May we win ocean-like desire.'
 
 4समुद्रं कामं कामानां साधकमभिजयेमेति ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+समुद्रं कार्ममभिर्ज- येमेति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -517,6 +665,11 @@ They poured out this caru for the Waters and the Aṣāḍhās.
 
 ताः᳓ । एत᳓म् । अद्भ्यः᳓ । अ-षाढा᳓भ्यः । चरु᳓म् । निः᳓ । अवपन् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त एतमभ्यो॑ ऽपढभ्य॑श्वरुं निर॑व- पन् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +692,11 @@ Thereupon they won ocean-like desire.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । ताः᳓ । समुद्र᳓म् । का᳓मम् । अभि᳓ । अजयन् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो॒ वैताः स॑मु॒द्रं काम॑म॒भ्य॑जयन् ।
 </details>
 </details>
 
@@ -566,6 +724,12 @@ who sacrifices with this oblation,
 
 समुद्र᳓म् । ह । वै᳓ । का᳓मम् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+समुद्र‍ ह॒ वै काम॑म॒भिज॑यति ।  
+य ए॒तेन॑ हविषा यज॑ते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,6 +754,19 @@ He offers here:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+य उं चैनदेवं वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति ।
 </details>
 </details>
 
@@ -618,6 +795,16 @@ To victory svāhā!'
 
 अद्भ्यः᳓ । स्वा᳓हा । अ-षाढा᳓भ्यः । स्वा᳓हा । समुद्रा᳓य । स्वा᳓हा । का᳓माय । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अभ्यः स्वाहा॑ऽषाढाभ्यः स्वाहा॑ ।  
+समुद्राय स्वाहा॒ कामा॑य॒ स्वाहा॑ स्वाहा॑ ।  
+इति ।  
+अभिर्जित्यै स्वाहेतिं ( ४ ), योऽयं समुद्रो जलराशिस्तमेतं जलराशिं काममभिजयेम स्वेच्छया वशी कुर्म इत्येवमदेवतानां कामना ।  
+यजमानस्तु समुद्रस्यातिप्रभूतत्वेन समुद्रसदृशं काममभिलषितार्थमभिजयति ।  
+स्पष्टमन्यत् ।
+</details>
 </details>
 
 ## अषाढाः उत्तराः - विश्वे देवाः
@@ -643,6 +830,12 @@ The All-gods desired: 'May we win an unconquerable \[realm\].'
 
 वि᳓श्वे । वै᳓ । देवाः᳓ । अकामयन्त । अनप-जय्य᳓म् । जयेम । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमस्येष्टिं विधत्ते—  
+विश्वे वै दे॒वा अ॑कामयन्त, अनपजय्यं जये - मेति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +860,11 @@ Thereupon they won an unconquerable \[realm\].
 
 ते᳓ । एत᳓म् । वि᳓श्वेभ्यः । देवे᳓भ्यः । अ-षाढा᳓भ्यः । चरु᳓म् । निः᳓ । अवपन् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त ए॒तं विश्वे॑भ्यो दे॒वेभ्यो॑षा॒ढाभ्य॑श् निरवपत् च॒रुं निरवपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +887,11 @@ He indeed wins an unconquerable \[realm\],
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । ते । अनप-जय्य᳓म् । अजयन् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै तेऽनपजय्यम॑जयन् ।
 </details>
 </details>
 
@@ -716,6 +919,20 @@ He offers here:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अनप-जय्य᳓म् । ह । वै᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनपजय्य‍ ह वै ज॑यति, य ए॒तेन॑ ह॒विषा यज॑ते, य उ॑ चैनदे॒वं वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति —  
+विश्वे॑भ्यो दे॒वेभ्यः॒ स्वाहा॑ऽषाढभ्यः स्वाहा॑, अनपजय्याय स्वाहा जित्यै स्वाहेति (५), इति ।
 </details>
 </details>
 
@@ -745,6 +962,13 @@ To the unconquerable svāhā! To conquest svāhā!'
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । वि᳓श्वेभ्यः । देवे᳓भ्यः । स्वा᳓हा । अ-षाढा᳓भ्यस् । स्वा᳓हा । अनप । जय्या᳓य । स्वा᳓हा । जि᳓त्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+जेतुमशक्यः शत्रुरनपजय्यस्तं जयेमेति विश्वेषां देवानां कामना ।  
+तस्य जेतुमशक्यस्य शत्रोरभिमानी देवोऽप्यनपजय्यस्तस्य जयाभिमानी देवो जितिः ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -779,6 +1003,12 @@ The brahman desired: 'May I win the world of brahman.'
 "ययतोः " इत्युत्तरपदान्तोदात्तत्वम् ।  
 क्रियाविशेषण चेदम् ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ षष्ठस्येष्टिं विधत्ते—  
+ब्रह्म वा अकामयत, ब्रह्मलोकमभिजयेयमिति॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -802,6 +1032,11 @@ It poured out this caru for the brahman and Abhijit.
 
 त᳓त् । एत᳓म् । ब्र᳓ह्मणे । अभि-जि᳓ते । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+तदे॒तं ब्रह्मणेऽभिजितें चरुं निरवपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -824,6 +1059,11 @@ Thereupon it won the world of brahman.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । त᳓त् । ब्रह्म-लोक᳓म् । अभि᳓ । अजयत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै तद्ब्रह्मलोकमभ्यंजयत् ।
 </details>
 </details>
 
@@ -851,6 +1091,11 @@ who sacrifices with this oblation,
 
 ब्रह्म-लोक᳓म् । ह । वै᳓ । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मलोक‍ ह वा अभिजयति, य एतेन॑ ह॒विषा यज॑ते, य उ चैनदेवं वेदं — ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -877,6 +1122,15 @@ and who knows it thus.
 </details>
 </details>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति —  
+ब्रह्म॑णे स्वाहा॑ ऽभिजिते स्वाहा, ब्रह्मलोकाय स्वाहाऽभिजित्यै स्वाहेति (६), इति ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ब्र᳓ह्मणे स्वा᳓हा ऽभिजि᳓ते स्वा᳓हा । ब्रह्मलोका᳓य स्वा᳓हा ऽभि᳓जित्यै स्वा᳓हे᳓"ति ॥47॥
@@ -898,6 +1152,13 @@ To the world of brahman svāhā! To victory svāhā!'
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 ब्र᳓ह्मणे । स्वा᳓हा । अभि-जि᳓ते । स्वा᳓हा । ब्रह्म-लोका᳓य । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मलोकः सत्यलोकस्तत्स्वामित्वं कामयमानो ब्राह्मणत्वजातियुक्तः पुरुषो ब्रह्मशब्देन विवक्षितः ।  
+अभिजित्संज्ञकं चोत्तराषाढा श्रवणयोर्मध्यवर्ति नक्षत्रं तदभिमानिदेवस्यापि ब्रह्मेति नामधेयम् ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -934,6 +1195,12 @@ may evil fame not come to me.”
 
 7पुण्यश्लोकः पावनशब्दः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ सप्तमस्येष्टिं विधत्ते—  
+विष्णुर्वा अकामयत, पुण्य‍ श्लोकं शृण्वीय, न मां पापी कीर्तिराग॑च्छदितं कीर्तिरागच्छेत् इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1224,11 @@ He poured out this three-cup sacrificial cake for Viṣṇu, for Śroṇā.
 
 सः᳓ । एत᳓म् । वि᳓ष्णवे । श्रोणा᳓यै । पुरोडा᳓शम् । त्रि-कपाल᳓म् । निः᳓ । अवपत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स ए॒तं विष्ण॑वे श्रोणायै पुरोडाशं त्रिकपालं निर्वपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -979,6 +1251,11 @@ Then indeed he heard good praise;
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । पु᳓ण्यम् । श्लो᳓कम् । अशृणुत ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो॒ वै स पुण्यः॒ श्लोक॑मशृणुत, नैव पापी कीर्तिरार्गच्छत् कीर्तिरगच्छत् ।
 </details>
 </details>
 
@@ -1030,6 +1307,11 @@ evil fame does not come to him,
 
 पु᳓ण्यम् । ह । वै᳓ । श्लो᳓कम् । शृणुते । न᳓ । एनम् । पापी᳓ । कीर्तिः᳓ । आ᳓ । गच्छति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पुण्यं ह वै लोक‍ शृणुते, नैव पापी कीर्तिरागच्छति, य ए॒तेन॑ ह॒विषा॒ यज॑ते, य उ॑ चैनदे॒वं वेद॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1059,6 +1341,15 @@ He offers here:
 </details>
 </details>
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति —  
+विष्ण॑वे॒ स्वाहा॑ श्रोणायै स्वाहा॑, श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहेतिं (७), इति ।
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वि᳓ष्णवे स्वा᳓हा श्रोणा᳓यै स्वा᳓हा ।  
@@ -1081,6 +1372,18 @@ To praise hail! To what is heard hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 वि᳓ष्णवे । स्वा᳓हा । श्रोणा᳓यै । स्वा᳓हा । श्लो᳓काय । स्वा᳓हा । श्रुता᳓य । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुण्यश्लोकः स्तुतिः ।  
+पापकीर्तिर्निन्दा ।  
+श्रोणा श्रवणनक्षत्रम् ।  
+श्लोकः स्तुत्यभिमानी देवः ।  
+श्रुतः श्रवणाभिमानी देवः ।  
+स्पष्टमन्यत् ।  
+अथाष्टमस्येष्टिं विधत्ते—  
+वस॑वो वा अंकामयन्त, अयं दे॒वता॑नां परी- यामेतिं परीयाम इति ।
 </details>
 </details>
 
@@ -1138,6 +1441,11 @@ They poured out this eight-cup sacrificial cake for the Vasus, for the Śraviṣ
 
 ते᳓ । एत᳓म् । व᳓सुभ्यः । श्र᳓विष्ठाभ्यः । पुरोडा᳓शम् । अष्टा᳓-कपालम् । निः᳓ । अवपन् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त एतं वसु॑भ्यः श्रवि॑ष्ठाभ्यः पुरो-डाशंमष्टाकपालं निरवपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1160,6 +1468,11 @@ Then indeed they attained the forefront of the deities.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । ते । अ᳓ग्रम् । देव᳓तानाम् । प᳓रि । आयन् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै तेऽयं देवतानां पर्ययन् ।
 </details>
 </details>
 
@@ -1196,6 +1509,20 @@ To the forefront hail! To the attainment hail!”
 
 अ᳓ग्रम् । ह । वै᳓ । समाना᳓नाम् । प᳓रि । एति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । व᳓सुभ्यः । स्वा᳓हा । श्र᳓विष्ठाभ्यः । स्वा᳓हा । अ᳓ग्राय । स्वा᳓हा । प᳓रीत्यै । स्वा᳓हा । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अयं ह वै समानानां पर्येति, य एतेन हविषा यज॑ते, य उं चैन-देवं वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति —  
+वसु॑भ्यः स्वाहा श्रविष्ठाभ्यः स्वाहा, अग्राय स्वाहा परीत्यै स्वाहेतिं (८) इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1219,6 +1546,12 @@ Indra desired:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 व᳓सुभ्यः । स्वा᳓हा । श्र᳓विष्ठाभ्यस् । स्वा᳓हा । अ᳓ग्राय । स्वा᳓हा । प᳓रीत्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देवतानां मध्येऽयं मुख्यत्वं परीयाम परितः प्रामुमः ।  
+धनिष्ठाख्यनक्षत्र-मूर्तयः श्रविष्टाः ।
 </details>
 </details>
 
@@ -1247,6 +1580,15 @@ Indra desired:
 
 इ᳓न्द्रः । वै᳓ । अकामयत । दृढः᳓ । अ᳓-शिथिलस् । स्याम् । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अग्रशब्देन श्रेष्ठ्याभिमानी देवः ।  
+परीतिशब्देन तत्प्राप्त्य-भिमानी देवः ।  
+स्पष्टमन्यत् ।  
+अथ नवमस्येष्टिं विधत्ते इन्द्रो वा अंकामयत् ।  
+दृढः असिथिलः स्याम् इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1612,11 @@ He poured out this ten-cup sacrificial cake of black rice for Varuṇa, for Śat
 
 सः᳓ । एत᳓म् । व᳓रुणाय । शत᳓-भिषजे । भेषजे᳓भ्यः । पुरः । डा᳓शन्द᳓शकपालन्नि᳓रवपत्कृष्णा᳓नाव्ंरीहीणा᳓म् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतं वरुणाय शतभिषजे भेषजेभ्यः पुरोडाशं दर्शकपालं निरवपत् कृष्णानी व्रीहीणाम् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1292,6 +1639,11 @@ Then indeed he became firm, not slack.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । दृढः᳓ । अ᳓-शिथिलः । अभवत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स दृढः असिथिलोऽभवत् ।
 </details>
 </details>
 
@@ -1324,6 +1676,12 @@ who sacrifices with this oblation
 
 9-10दृढः चिरजीवनः अशिथिलः अशिथिलाङ्गः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+- दृढः ह वा असिथिलो भवति ।  
+य एतेन हविषा यर्जते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1349,6 +1707,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+य उ च एनदेवं वेदम् ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सः अजुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1372,6 +1743,18 @@ To the healing herbs hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 व᳓रुणाय । स्वा᳓हा । शत᳓-भिषजे । स्वा᳓हा । भेषजे᳓भ्यः । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वरुणाय स्वाहा शतभिषजे स्वाहा ।  
+भेषजेभ्यः स्वाहेति ( ९ ) इति ।  
+इन्द्रशब्देन परमैश्वर्ययोगाद् ऋण उच्यते ।  
+स च दायम् अशैथिल्यं च कामयामास ।  
+स्वस्य कार्यक्षमत्वं दायेन परैर् अभिभवाभावः अशैथिल्यं शतभिषङ्क्षत्रम् ।  
+भेषजानि उपधाभिमानि देवताशरीराणि ।  
+वरुणनक्षत्रभेषजेभ्यो देवेभ्यः कृष्णवर्णानां व्रीहीणां पुरोडाशं निरूप्य दायम् अशैथिल्यं च प्राप्तवान् ।  
+स्पष्टम् अन्यत् ।
 </details>
 </details>
 
@@ -1401,6 +1784,12 @@ Aja Ekapād desired:
 
 अजः᳓ । वै᳓ । ए᳓क-पात् । अकामयत । तेजस्-वी᳓ । ब्रह्म-वर्चसी᳓ । स्याम् । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ दशमस्येष्टिं विधत्ते अजो वा एकपादकामयत् ।  
+तेजस्वी ब्रह्मवर्चसी स्याम् इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1425,6 +1814,11 @@ He poured out this caru for Aja Ekapād, for the Proṣṭhapadas.
 
 सः᳓ । एत᳓म् । अजा᳓य । ए᳓क-पदे । प्रोष्ठ-पदे᳓भ्यः । चरु᳓म् । निः᳓ । अवपत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतम् अजायैकपदे प्रोष्ठपदेभ्यः श्वरुं निरपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1447,6 +1841,11 @@ Then indeed he came to possess fiery energy, possess spiritual preeminence.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । तेजस्-वी᳓ । ब्रह्म-वर्चसी᳓ । अभवत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स तेजस्वी ब्रह्मवर्चस्यभवत् ।
 </details>
 </details>
 
@@ -1474,6 +1873,12 @@ who sacrifices with this oblation
 
 तेजस्-वी᳓ । ह । वै᳓ । ब्रह्म-वर्चसी᳓ । भवति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+तेजस्वी ह वै ब्रह्मवर्चसी भवति ।  
+य एतेन हविषा यजते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1500,6 +1905,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+यु च एनदेवं वेदम् ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सः अत्र जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1524,6 +1942,17 @@ To fiery energy hail! To spiritual preeminence hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अजा᳓य । ए᳓क-पदे । स्वा᳓हा । प्रोष्ठ-पदे᳓भ्यस् । स्वा᳓हा । ते᳓जसे । स्वा᳓हा । ब्रह्म-वर्चसा᳓य । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अजायैकपदे स्वाहा प्रोष्ठपदेभ्यः स्वाहा ।  
+तेजसे स्वाहा ब्रह्मवर्चसाय स्वाहेति ( १० ) इति ।  
+अजो गमनशील इदानीम् नजन्मरहितो वा ।  
+एकः जगदुपकारकः पादो यस्यासौ एकपात् ।  
+अथ च एकः एव पद्यते गच्छति इति एकपात् " सूर्य एकाकी चरति " इति श्रुतेः ।  
+तेजस्वी शरीरकान्तियुक्तः ब्रह्मवर्चसी वेदशास्त्राद्यध्ययनादिजन्यकान्तियुक्तः ।  
+स्पष्टम् अन्यत् ।
 </details>
 </details>
 
@@ -1553,6 +1982,12 @@ Ahi Budhnya desired:
 
 अ᳓हिः । वै᳓ । बुध्नि᳓यः । अकामयत । इमा᳓म् । प्रति-स्था᳓म् । विन्देय । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ एकादशस्येष्टिं विधत्ते अहिर्वै बुनीयः अकामयत् ।  
+इमां प्रतिष्ठां विंदेय इति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1576,6 +2011,11 @@ He poured out this sacrificial cake on an earthen potsherd for Ahi Budhnya, for 
 
 सः᳓ । एत᳓म् । अ᳓हये । बुध्नि᳓याय । प्रोष्ठ-पदे᳓भ्यः । पुरोडा᳓शम् । भू᳓मि-कपालम् । नि᳓रवत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतम् अहये बुनीयाय प्रोष्ठपदं पुरोडाशं भूमिकपालं निरवपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1598,6 +2038,11 @@ Then indeed he found this firm foundation.
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । इमा᳓म् । प्रति-स्था᳓म् । अविन्दत ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स इमां प्रतिष्ठामविन्दत् ।
 </details>
 </details>
 
@@ -1630,6 +2075,20 @@ who sacrifices with this oblation
 
 11-12इमां पृथिवीमेव प्रतिष्ठां लभेथेति ।  
 भूमिकपालः भूमिरेव कपालमस्येति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इमा प्रतिष्ठां विंदते ।  
+य एतेन हविषा यजते यु च एनदेवं वेदम् ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सः अत्र जुहोति ।
 </details>
 </details>
 
@@ -1680,6 +2139,14 @@ To the firm foundation hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अ᳓हये । बुध्नि᳓याय । स्वा᳓हा । प्रोष्ठ-पदे᳓भ्यस् । स्वा᳓हा । प्रति-ष्ठा᳓यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अहये बध्नियाय स्वाहा प्रोष्ठपदेभ्यः स्वाहा ।  
+प्रतिष्ठायै स्वाहेति ( ११ ) इति ।  
+न हीयते इति अहिः ।  
+बुध्ने मूले सृष्ट्यादौ भवः वुनियः ।
 </details>
 </details>
 
@@ -1804,6 +2271,22 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इमां भूमिं प्रतिष्ठां स्वनिवासाय प्रतिष्ठिताम् ।  
+भूमिकपालस्य स्वरूपं बोधायन आह – " कपालमात्रं भूमिं परिलिख्याङ्गारम् अधिवर्तयति तस्यैककपालवत्संस्कारः " इति ।  
+तथाविध भूमिकपालोपेतपुरोडाशं निरूप्य स्वापेक्षितं फलम् अलभत् ।  
+स्पष्टमन्यत् ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+अथ द्वादशस्येष्टिं विधत्ते पूषा वा अंकामयत् । पशुमांसाम् इति । स एतं पूष्णे रेवत्यै चरुं निखपत् । ततो वै स शुमानभवत् । पशुमान् वै भवति । य एतेन हविषा यजते । यु च एनदेवं वेदम् । सः अत्र जुहोति । पूष्णे स्वाहा रेवत्यै स्वाहा । पशुभ्यः स्वाहेति ( १२ ) स्पष्टोऽर्थः ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1828,6 +2311,11 @@ To domestic animals hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 पूष्णे᳓ । स्वा᳓हा । रेव᳓त्यै । स्वा᳓हा । पशु᳓भ्यः । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ त्रयोदशस्येष्टिं विधत्ते (१२), इति ।
 </details>
 </details>
 
@@ -1855,6 +2343,12 @@ The two Aśvins desired:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अश्वि᳓नौ । वै᳓ । अकामयेताम् । श्रोत्र-स्वि᳓नौ । अ᳓-बधिरौ । स्या । वे᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अश्विनौ वा अंकामयेताम् ।  
+श्रोत्रस्विनावनं-९०० - [३] तृतीय काण्डे - घिरौ स्यावेतिं इह तावेतमश्विभ्यां॑म॒श्वयुग्भ्यां पुरोडाशं द्विकपालं निर॑वपताम् ।
 </details>
 </details>
 
@@ -1904,6 +2398,19 @@ who sacrifices with this oblation
 
 त᳓तः । वै᳓ । तौ᳓ । श्रोत्र-स्वि᳓नौ । अ᳓-बधिरौ । अभवताम् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै तौ श्रोत्रस्विनावबंधिरावभवताम् ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1936,6 +2443,19 @@ To hearing hail! To hearing hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 श्रोत्र-स्वी᳓ । ह । वै᳓ । अ᳓-बधिरः । भवति । यः᳓ । ए᳓तेन᳙ । हवि᳓षा । य᳓जते । यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति । अश्वि᳓भ्याम् । स्वा᳓हा । अश्व-यु᳓ग्भ्याम् । स्वा᳓हा । श्रो᳓त्राय । स्वा᳓हा । श्रु᳓त्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+श्रोत्रस्वी ह वा अबंधिरो भवति ।  
+य ए॒तेन॑ ह॒विषा यज॑ते ।  
+य उ चैनदेवं वेद॑ ।  
+अ॒श्विभ्या॒ स्वाहा॑ऽश्व॒युभ्या॒ स्वाहा॑ ।  
+श्रोत्रा॑य॒ स्वाहा श्रुत्यै स्वाहेतिं (१३), इति ।  
+योजनादिव्यवहितवार्तायाः श्रवणसामर्थ्य श्रोत्रस्वित्वं वार्धकेऽपि बाधि- र्यराहित्यमवधिरत्वम् ।  
+श्रोत्रायेत्यनेन दूरवार्ताश्रवणसामर्थ्यप्रदो देवो विव- क्षितः ।  
+श्रुत्या इत्यनेन वाधिर्यनिवारको देवविशेषः ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -1988,6 +2508,12 @@ He poured out this caru for Yama, for the Apabharaṇīs.
 
 यमः᳓ । वै᳓ । अकामयत । पितृणा᳓म् । राज्य᳓म् । अभि᳓ । जयेयम् । इ᳓ति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ चतुर्दशस्येष्टिं विधत्तेय॒मो वा अ॑कामयत् त एष यमो ।  
+पि॒तृ॒णा‍ राज्यमभिज॑ये- यमितिं ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2011,6 +2537,11 @@ Then indeed he won the sovereignty of the ancestors.
 
 सः᳓ । एत᳓म् । यमा᳓य । अपभ᳓रणीभ्यः । चरु᳓म् । निः᳓ । अपवत् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+स एतं यमार्यापभरणीभ्यश्वरुं निरं- वपत् ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2033,6 +2564,11 @@ Indeed, he wins the sovereignty of his equals
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 त᳓तः । वै᳓ । सः᳓ । पितृणा᳓म् । राज्य᳓म् । अभि᳓ । अजयत् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ततो वै स पितॄणा‍ राज्यमभ्य॑जयत् ।
 </details>
 </details>
 
@@ -2059,6 +2595,12 @@ who sacrifices with this oblation
 
 समाना᳓नाम् । ह । वै᳓ । राज्य᳓म् । अभि᳓ । जयति । यः᳓ । एते᳓न । हवि᳓षा । य᳓जते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+समानाना॑ ह वै राज्यमभिज॑यति ।  
+य ए॒तेन॑ हविषा यज॑ते ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2084,6 +2626,19 @@ He offers here:
 
 यः᳓ । उ । च । एनत् । एव᳓म् । वे᳓द । सः᳓ । अ᳓त्र । जुहोति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+य उं चैनदेवं वेदे वेद॑ ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽ जुहोति सोऽत्र॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2108,6 +2663,14 @@ To sovereignty hail! To conquest hail!”
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 यमा᳓य । स्वा᳓हा । अपभ᳓रणीभ्यस् । स्वा᳓हा । राज्या᳓य । स्वा᳓हा । अभि᳓-जित्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यमाय स्वाहा॑ ऽपभरणीभ्यः स्वाहा॑ ।  
+रा॒ज्याय॒ स्वाहा॑हा॒ऽभिजि॑त्यै॒ स्वाहेतिं (१४), इति ।  
+यथा यमस्य पितृराज्यप्राप्तिरेवमन्यस्य यजमानस्यापि स्वसमानानां मध्ये राज्यं भवति ।  
+स्पष्टमन्यत् ।
 </details>
 </details>
 
@@ -2143,6 +2706,11 @@ Now he pours out this clarified butter for the new moon day.
 गतमन्यत् ॥  
 इति तैत्तिरीयब्राह्मणे तृतीये प्रथमे पञ्चमोऽनुवाकः ॥
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+तदेवं यमनक्षत्राणामिष्टीरभिधायामावास्यादेवताया इष्टिं विधत्तेअथैतद॑मावस्या॑या आज्यं निर्वपति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2172,6 +2740,13 @@ By means of desire, he fulfills desire.
 
 का᳓मः । वै᳓ । अमा-वास्या᳙ । का᳓मः । आ᳓ज्यम् । का᳓मेन । एव᳓ । का᳓मम् । स᳓म् । अर्धयति ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+कामो वा अमावास्यां ।  
+काम आज्य॑म् ।  
+कामेनैव कामः समर्धयति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2194,6 +2769,19 @@ Swiftly does that desire fall to him
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 क्षिप्र᳓म् । एनम् । सका᳓ । मः । उ᳓प । नमति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+क्षिप्रमेन‍ स काम उपनमति ।
+</details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सोऽत्र॑ जुहोति ।
 </details>
 </details>
 
@@ -2222,5 +2810,13 @@ He offers here:
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 ये᳓न । का᳓मेन । य᳓जते । सः᳓ । अ᳓त्र । जुहोति । अमा-वास्या᳙यै । स्वा᳓हा । का᳓माय । स्वा᳓हा । अ᳓गत्यै । स्वा᳓हा । इ᳓ति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+येन कार्मेन यज॑ते कामेन ।  
+अमावास्यायै स्वाहा कार्माय स्वाहा गयै स्वाहेति (१५), इति ।  
+ॐ मित्र इन्द्रः प्रजापतिर्दर्श दशाऽऽप एकादश विश्वे ब्रह्म दर्श दश विष्णुस्त्रयोदश वर्सव वृषव इन्द्रोऽजोऽहिर्वै बुनिर्यः बुर्निर्यः पूषाऽश्विनों यमो दश॑ दशामावास्याया अष्टौ पञ्चदश ॥  
+पौर्णमासी वाक्यवव्याख्येयम् ॥
 </details>
 </details>

@@ -30,6 +30,7 @@ He places the other oblations upon the northern altar,
 1 उत्तरस्यामित्यादि ॥  
 अन्यानिमारुत्याआमिक्षायाः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -53,6 +54,7 @@ the \[curd\] sacred to the Maruts on the southern \[altar\].
 
 द᳓क्षिणायाम् । मारुती᳓म् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -85,6 +87,7 @@ He hitches it, as it were, away from the yoke.
 तत्र  एनाविशः अपक्रमणशीलाः पृथक्स्वभावाः मारुत्याः पृथक्सादितत्वात् ।  
 यद्वा- अन्यतोपाक्रमणं  सत्यमुक्त्वा अन्यत्रासत्येअपसर्पणम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +111,7 @@ And he takes away their splendorous might.
 
 अ᳓थो । ओ᳓जः । एव᳓ । आ । असामि᳓ । अ᳓व । हरति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +135,7 @@ Therefore the people (the Viś) turn away elsewhere from the Brahmin and from th
 
 त᳓स्मात् । ब्र᳓ह्मणः । च । क्षत्रा᳓त् । च । वि᳓शः । अन्यतः । अपक्रमि᳓णीः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,6 +161,7 @@ he averts falsehood.
 
 मारुत्या᳓ । पू᳓र्वया । प्र᳓ । चरति । अ᳓नृतम् । एव᳓ । अ᳓व । यजते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -186,6 +192,7 @@ at the very end he averts Varuṇa.
 
 2 मारुत्यापूर्वयाप्रथमयाप्रचरितव्यम् । तेन अनृतं  विशस्स्वभावं  अन्यतोऽपक्रमणशीलत्वं  अवयजतेनाशयति । वारुण्योत्तरयाप्रचरितव्यम् । अन्ततोवरुणं वारकं वरुणपाशं वा अवयजते अनतावयजनादनन्तरम् । यद्वा- अन्ततः यावदन्तं कृत्स्नं वरुणमित्यर्थः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -215,6 +222,7 @@ What the Adhvaryu does,
 
 3 यदेवेत्यादि ॥ यत्यज्जातीयं प्रतिप्रस्थाताकरोति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,6 +253,7 @@ Therefore, what the better \[person\] does,
 
 श्रेयान्प्रशस्यतरः । पापीयान्अल्पतरः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -273,6 +282,7 @@ that the worse \[person\] does.
 
 पत्नीं वाचयति 'प्रघास्यान्'  इति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,6 +312,7 @@ He makes her fit for sacrifice.
 
 मेधार्हां एनां वाचनेनकरोति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,6 +341,7 @@ And he brings ascetic heat upon her.
 
 अथो अपिच अनेनवाचनेनएनां तप एवोपनयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -361,6 +373,7 @@ she would injure a dear relative.
 4 यज्जारमित्यादि ॥ अत्रप्रतिप्रस्थातापृच्छतिपत्नीं कतितेजारा  इति तत्र  यदिजारं विद्यमानं न प्रब्रूयात् ।  
 प्रियं ज्ञातिं भर्तारं पुत्रं वारून्ध्यात्वरुणपाशेन ग्राहयेत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,6 +402,7 @@ She should point him out: 'So-and-so is my lover.'
 
 तस्मात्  असौ मे जार इति नाम्ना जारं निर्दिशेत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -417,6 +431,7 @@ Pointing him out, she causes him to be seized by the noose of Varuṇa.
 
 एनं निर्दिश्यनिर्देशं जारस्यकुर्वतीएनं जारं  एववरुणपाशेनग्राहयतिनतुप्रियं ज्ञातिम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -445,6 +460,7 @@ With 'We invoke the voracious ones,' he leads the wife up.
 
 5 प्रघास्यान्हवामह  इति ॥ प्रतिप्रस्थातापत्नीमुदानयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -473,6 +489,7 @@ He brings her up as one summoned.
 
 एनामह्वत आह्वयति । 'लिपिसिचिह्वश्च' इत्यङ्छान्दसोलुङ् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,6 +520,7 @@ the sacrificer would become devoid of heroic power.
 
 6 यत्पत्नीति ॥ 'मोषूणइन्द्र'7इत्येताम् । निर्वीर्य  इति । आशासनीयेनयजमानस्यासम्बन्धात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -533,6 +551,7 @@ The sacrificer recites it;
 यजमान एव अन्वाहपुरोनुवाक्याम् ।  
 तथाकुर्वन्नात्मनिवीर्यं स्थापयति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +575,7 @@ he places heroic power in himself.
 
 आत्म᳓न् । एव᳓ । वीः । य᳙न् । धत्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +604,7 @@ Both \[utter\] the offering verse for the sake of possessing heroic power.
 
 उभौ पत्नीयजमानौयाज्यां ब्रूतः 'यद्ग्रामेयदरण्ये' इत्येताम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -614,6 +635,7 @@ he averts Varuṇa just as has been stated.
 
 यद्ग्राम इत्यादि  नाग्रामादिविषयस्यैनसः कर्तनेनयथोदितं यथोक्तं ग्रामादि विषयेसमस्तं वरुणं वारकं पापं अवयजतेनाशयत्येव ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -637,6 +659,7 @@ The Āhavanīya fire has the sacrificer as its deity,
 
 यजमान-देवत्यः᳙ । वै᳓ । आ-हवनी᳓यः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -660,6 +683,7 @@ the southern \[fire\] has the rival as its deity.
 
 भ्रातृव्य-देवत्यः᳙ । द᳓क्षिणः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,6 +709,7 @@ he would cause the sacrificer to be seized by the noose of Varuṇa.
 
 य᳓त् । आ-हवनी᳓ये । जुहुया᳓त् । य᳓जमानम् । वरुण-पाशे᳓न । ग्राहयेत् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -716,6 +741,7 @@ He offers with a winnowing fan;
 
 7 यजमानदेवत्योवा इत्यादि  ॥ गतम् । देवतान्तात्तादर्थ्येयत् । जुहुयादिति  । करम्भपात्रणि ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -746,6 +772,7 @@ Placing \[it\] on his head, he offers;
 
 8 अन्न्यमिति ॥ शूर्पस्य अन्नसाधनत्वात्तेनहोमं कुर्वन्अन्न्यं अन्नेभवं वरुणमवयजते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -776,6 +803,7 @@ Standing facing west, he offers.
 
 शीर्षत  इति । शिरआरभ्यस्थितं वरुणमवयजते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +833,7 @@ Standing facing west, he offers.
 
 प्रत्यङ्प्रत्यङ्मुखः । प्रत्यङ्प्रतीपगमन एववरुणपाशान्निर्मुच्यते । यत्रगृहीत्वैवनयतिवरुणपाशं अन्ततोनिष्कृष्यप्रतिकूलमुक्त्वाआनीयते ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -840,6 +869,7 @@ Having paid the debt to the gods,
 9 अक्रन्कर्मकर्मकृत  इति ॥ विपरायन्तौजपतः ।
 तत्र  मन्त्रस्याभिप्रायमाह- देवानित्यादि । देवसं बन्धिऋणं देवानित्युच्यते ।  एवमनेनयागेनवरुणं निरवदाय'यज्ञेनदेवेभ्यः ' इत्युक्तं ऋणं देवानामपाकृत्य अनृणाः सन्तः इदानीं  गृहानुपप्रेतउपसं प्राप्नुतेत्येतदर्थरूपमेव आह अयं  मन्त्रः । ऋणं निरवदायेत्यनेन'देवेभ्यः ' कर्मकृत्वा'7 इत्यस्यार्थोविवृतः । गृहानुपप्रेतेत्यस्यार्थोव्याख्यातः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -869,6 +899,7 @@ is seized by Varuṇa for the sacrifice:
 
 10 वरुणगृहीतं वा इत्यादि  ॥  एतत्वरुणेनगृहीतं भवतियज्ञस्ययन्मन्त्रेणगृर्हीतं अतिरिच्यतेपूर्ववदवशिष्टं गृहीतस्यादिस्थानमतिरेकः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -898,6 +929,7 @@ the husks and the scraping \[of dough\].
 
 कः पुनरत्रातिरिच्यत इत्याह- तुषाश्च निष्कासश्च तण्डुलावरणानिस्थालीलेपश्च ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -926,6 +958,7 @@ With the husks and the scraping he goes down to the purificatory bath.
 
 तस्मात्  तुषैः निष्कासेनचावभृथमवैति  इति सगुणस्यावभृथस्यविधिः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,6 +987,7 @@ With what is seized by Varuṇa he averts Varuṇa.
 
 एवं कुर्वन्तेनैव वरुणगृहीतेनतुषादिनातमेवग्रहीतारं वरुणमवयजते अवमोचयति ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -977,6 +1011,7 @@ He goes down to the water for the purificatory bath.
 
 अपः᳓ । अव-भृथ᳓म् । अ᳓व । एति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1002,6 +1037,7 @@ Directly he averts Varuṇa.
 
 अप्सु᳓ । वै᳓ । व᳓रुणः । साक्षा᳓त् । एव᳓ । व᳓रुणम् । अ᳓व । यजते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1063,7 @@ From the noose of Varuṇa he is released.
 
 प्र᳓ति । युतः । व᳓रुणस्य । पा᳓शः । इ᳓ति । आह । वरुण-पाशा᳓त् । एव᳓ । निः᳓ । मुच्यते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1094,7 @@ for the concealing of Varuṇa.
 
 11 अपोऽवभृथमवैतीत्यादि ॥ गतम् । 'प्रतियुतोवरुणस्यपाशः ' इत्युदकान्तं प्रत्यस्यति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1108,6 +1146,7 @@ Reverencing Agni with a kindling stick, they approach.
 
 सम्-इ᳓धा । एव᳓ । अग्नि᳓त् । नमस्य᳓न्तः । उप । आ᳓ । यन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1140,4 +1179,5 @@ Fiery energy he places in himself.
 
  इति षष्ठेपञ्चमोऽनुवाकः ॥
 </details>
+
 </details>

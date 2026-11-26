@@ -886,6 +886,7 @@ Then there is this \[cake\] for Indra and Agni.
 
 अ᳓थ । य᳓त् । सप्त-दशे᳓न । स्तुव᳓ते । सप्त-दशे᳓ । नः᳓ । एव᳓ । त᳓त् । य᳓जमानम् । आ᳓ । ददते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +935,7 @@ he wins exhalation and inhalation.
 
 प्रजा᳓-पतिः । वै᳓ । सप्त-दशः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -958,6 +960,7 @@ Indra and Agni are the splendorous might and strength of the gods.
 
 प्रजा᳓-पतेः । एव᳓ । एनम् । त᳓त् । मा᳓त्राम् । सा᳓युज्यम् । सलोक᳓ताम् । गमयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -26,6 +26,7 @@ By means of the Vaiśvadeva, Prajāpati created offspring;
 
 वैश्वदेवे᳓न । वै᳓ । प्रजा᳓-पतिः । प्र-जाः᳓ । असृजत ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -409,6 +410,7 @@ by the Tryambakas
 गतम् ।  
 धानास्तण्डुलप्रभवालाजाः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,6 +614,7 @@ He pours out a cake on six potsherds for Soma accompanied by the fathers;
 
 4 मन्थस्सक्तवो द्रवद्रव्यावलोडिताः इह तु अभिवान्यायामृतवत्सायादुग्धे भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +638,7 @@ Soma accompanied by the fathers is the year;
 
 अर्ध-मासाः᳓ । वै᳓ । पित᳓रः । अग्नि-स्वात्ताः᳓ ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +662,7 @@ he satisfies the year itself.
 
 अर्ध-मासा᳓न् । एव᳓ । प्रीणाति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -681,6 +686,7 @@ Parched grains for the fathers seated on the sacrificial grass;
 
 अभि-वान्या᳙यै । दुग्धे᳓ । भवति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +715,7 @@ the months are the fathers seated on the sacrificial grass;
 
 साखलुपितृदेवत्यं क्षीरं दुहेदग्धे । 'लोपस्तआत्मनेपदेषु'  इति तलोपः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -767,6 +774,7 @@ that \[season\] belongs to him in yonder world.
 
 अर्धादुपरिउपर्यर्धः । उपरितनोवा अर्धउपर्यर्धः । तत्देवानां सम्बन्धि, उपरितनलोकवर्तित्वाद्देवानाम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,6 +826,7 @@ for the conquest of the days and nights.
 
 अर्धः᳓ । उ᳓प । मन्थति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -848,6 +857,7 @@ the half-months are the fathers consumed by fire;
 
 अर् धउपमन्थतीति अर्धेदुग्धं  अर्धे सक्तव इत्येवार्धद्वयमवस्थाप्यउपमन्थति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +888,7 @@ he satisfies the half-months themselves.
 दक्षिणादक्षिणामुखोवा ।  
 दक्षिणावृत्त्वं व्याख्यातम् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -901,6 +912,7 @@ It is in milk from a cow whose calf is adopted;
 
 दक्षिणा᳓-वृत् । हि᳓ । पितृणा᳓म् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,6 +943,7 @@ for she yields milk sacred to the fathers.
 अनारभ्यस्थूणादिष्वनाबद्ध्यहस्ताभ्यामेव उपमन्थति ।  
 पितॄणां हृदयंगमम् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -955,6 +968,7 @@ that belongs to humans;
 
 त᳓त् । हि᳓ । पितॄ᳓न् । ग᳓च्छति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -984,6 +998,7 @@ the upper half belongs to the gods;
 6 इमामिति ॥  
 दक्षिणपूर्वां दिशं दक्षिणपूर्वदिगनुसारेणवेदिमुद्धन्तिउत्पादयन्ति ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1007,6 +1022,7 @@ a half belongs to the fathers.
 
 उभ᳓ये । हि᳓ । देवाः᳓ । च । पित᳓रः । च । इज्य᳓न्ते ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1051,7 @@ He stirs it halfway;
 
 देवानां पितॄणां चसंबन्धित्वाद्दिग्द्वयस्यचतुस्स्रक्तिः चतुरश्राः प्रतिदिशं स्रक्तवः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1510,6 +1527,7 @@ they amount to six;
 
 त्रिः पुनः पर्येतिआस्तृणन् ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1692,6 +1710,7 @@ If he were to lay down three enclosing sticks,
 
 य᳓त् । त्री᳓न् । परि-धी᳓न् । परि । दध्या᳓त् । मृत्यु᳓ना । य᳓जमानम् । प᳓रि । गृह्णीयात् ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1723,6 +1742,7 @@ the rakṣases would strike the sacrifice;
 
 10 यत्त्रीनिति ॥ मृत्युनायजमानं परिग्राहयेत् । परिधिरिति त्रिषु तत्कीर्तनात् । अग्रहणेरक्षांसिअप्रतिबन्धेनयज्ञमनुप्रविश्यहन्युः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1754,6 +1774,7 @@ for driving away the rakṣases;
 तस्मात्  द्वौपाश्चात्योत्तरौपरिदधाति ।  
 एवं हि कृतं चाकृतं चपरिधानमितिदोषद्वयाप्रसङ्गः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1808,6 +1829,7 @@ three by three of them would die together;
 11 यत्त्रीणीत्यादि ॥ यदित्रीणिहवीं षि'सोमायपितृमते'  इत्यादि  विहितानिसहवेद्यां  उदाहरेयुः सादयेयुः अध्वर्य्वादयः तदाएषां  यजमानानामध्वर्यूणां वासंबन्धिनः पुरुषाः त्रयस्त्रयः साकं सहप्रमीयेरन्म्रियेरन् ।
 ननु त्रीण्येव हवींषि  सोमबर्हिषदग्निष्वात्तेभ्योविहितानि तत्कथं वीप्सा, उच्यते- अध्वर्युसमुदायविषयमिदम् । तत एवोदाहरेयुरिति बहुवचनम् । प्रत्यध्वर्युत्रीणिभवन्तीतिवीप्सोपपत्तिः ।
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1864,6 +1886,7 @@ one by one following another of them dies.
 
 एषां संबन्धीपुरुषएकैक एवप्रमीयतेम्रियते । पूर्ववदेकवचनम् । अन्वञ्चः अनुक्रमेणस्थिताः अनुक्रमेणस्वकालेम्रियन्तेसर्वेपुरुषा इत्यर्थः ॥
 </details>
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1902,4 +1925,5 @@ according to their share he satisfies them.
 
  इति षष्ठेअष्टमोऽनुवाकः ॥
 </details>
+
 </details>
