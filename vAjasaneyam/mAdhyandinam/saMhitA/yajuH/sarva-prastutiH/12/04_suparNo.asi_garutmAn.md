@@ -26,7 +26,7 @@ Thou art the goodly-pinioned Bird: go skyward, soar to heavenly light.
 </details>
 <details><summary>उवट-टीका</summary>
 
-दिवं गच्छ स्वः स्वर्लोकं पत॥ ४॥
+दिवं गच्छ स्वः स्वर्-लोकं पत॥ ४॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -36,9 +36,8 @@ Thou art the goodly-pinioned Bird: go skyward, soar to heavenly light.
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अतः दिवम् आकाशं प्रति गच्छ ।
-
-तत्रापि स्व: पत स्वर्ग लोकं प्राप्नुहि ॥
+अतः दिवम् आकाशं प्रति गच्छ ।  
+तत्रापि स्वः पत स्वर्ग-लोकं प्राप्नुहि ॥
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 

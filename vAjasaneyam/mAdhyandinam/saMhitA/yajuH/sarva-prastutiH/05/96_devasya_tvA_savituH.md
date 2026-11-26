@@ -32,10 +32,8 @@ At the impulsion of the god Savitṛ, with the arms of the Aśvins, with the han
 
 <details><summary>उवट-टीका</summary>
 
-अभ्रिमादत्ते।
-
-देवस्य त्वेति व्याख्यातो मन्त्रः।
-
+अभ्रिम् आदत्ते।  
+देवस्य त्वेति व्याख्यातो मन्त्रः।  
 आददे गृह्णामि।
 </details>
 

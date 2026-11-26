@@ -26,11 +26,9 @@ Kind, bounteous, and divine, they have strengthened bright Indra, force-giver, t
 </details>
 <details><summary>उवट-टीका</summary>
 
-देवी जोष्ट्री।
-
-ये देव्यौ जोष्ट्र्यौ जोषयित्र्यौ।
-
-वसुधिती वसुधात्र्यौ देवं दीप्तं वयोधसमायुषो धारयितारमिन्द्रम् देव्यौ देवमवर्धताम्।
+देवी जोष्ट्री।  
+ये देव्यौ जोष्ट्र्यौ जोषयित्र्यौ।  
+वसु-धिती वसु-धात्र्यौ देवं दीप्तं वयोधसम् आयुषो धारयितारम् इन्द्रम् देव्यौ देवम् अवर्धताम्।
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -48,16 +46,13 @@ Kind, bounteous, and divine, they have strengthened bright Indra, force-giver, t
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अवर्धताम्, बलं शरीर-सामर्थ्यम् ।
-
-शिष्टं पूर्ववत् ।
-
-अथ चतुर्थप्रैषः-
+अवर्धताम्, बलं शरीर-सामर्थ्यम् ।  
+शिष्टं पूर्ववत् ।  
+अथ चतुर्थ-प्रैषः-
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-वसुधिती ।
-
+वसु-धिती ।  
 वसूनां धारयित्र्यौ ।
 </details>
 <details><summary>अनन्ताचार्य-टीका</summary>

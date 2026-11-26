@@ -42,7 +42,7 @@ To consecration, to ascetic toil, to Agni, svāhā!
 
 <details><summary>उवट-टीका</summary>
 
-दीक्षालक्षणाय तपोलक्षणाय च अग्नये स्वाहा।
+दीक्षा-लक्षणाय तपो-लक्षणाय च अग्नये स्वाहा।
 </details>
 
 <details><summary>महीधर-टीका</summary>

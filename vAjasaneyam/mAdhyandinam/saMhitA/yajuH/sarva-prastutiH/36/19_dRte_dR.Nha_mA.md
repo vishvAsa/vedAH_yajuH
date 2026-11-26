@@ -26,11 +26,7 @@ Do thou, O Caldron, strengthen me.
 </details>
 <details><summary>उवट-टीका</summary>
 
-दृते दृᳪं᳭ह।
-
-यजुः।
-
-दृते दृᳪं᳭ह मा।
+दृते दृᳪं᳭ह। यजुः। दृते दृᳪं᳭ह मा।
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -38,6 +34,6 @@ Do thou, O Caldron, strengthen me.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-१० ( मा० ३६।१३ ) ।
+१० (मा० ३६।१३) ।
 </details>
 </details>

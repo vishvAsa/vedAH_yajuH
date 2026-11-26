@@ -74,7 +74,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md">
 <details open><summary><h2>०९ मा ते ...{Loading}...</h2></summary>
 
-**[[मा|मा᳓]]**᳓ ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
+**मा᳓** ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
 अन्य᳓त्र त्व᳓द्+++(=त्वत्तः)+++ **रुदत्य᳙स् सव्ँ᳓ विशन्तु** ।  
 **मा᳓** त्वं᳓ विकेश्य् उ᳓र आ᳓ **[[व᳓धिष्ठा|वधिष्ठा]]**+++(=आताडयेः)+++ जीव᳓पत्नी  
 पति-लोके᳓ **वि᳓राज, प᳓श्यन्ती** प्रजाँ᳓ सुमनस्य᳓मानाम् ।+++(५)+++

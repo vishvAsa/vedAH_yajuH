@@ -30,6 +30,6 @@ and my Pûshan and my Indra prosper by sacrifice.
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-यज्ञन कल्पन्ताम्
+[[यज्ञन|यज्ञेन]] कल्पन्ताम्
 </details>
 </details>

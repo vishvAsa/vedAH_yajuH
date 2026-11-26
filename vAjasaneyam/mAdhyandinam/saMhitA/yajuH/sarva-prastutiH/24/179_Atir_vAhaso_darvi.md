@@ -32,7 +32,7 @@ the waterfowl, the vāhasa, the woodpecker: those belong to Vāyu;
 
 <details><summary>उवट-टीका</summary>
 
-आतिः आडी वाहसः दार्विदा काष्ठकुट्टः ते त्रयः पक्षिविशेषाः वायवे।
+आतिः आडी वाहसः दार्विदा काष्ठ-कुट्टः ते त्रयः पक्षि-विशेषाः वायवे।
 </details>
 
 <details><summary>महीधर-टीका</summary>

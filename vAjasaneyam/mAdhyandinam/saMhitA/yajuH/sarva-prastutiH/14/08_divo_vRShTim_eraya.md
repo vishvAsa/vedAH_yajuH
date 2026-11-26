@@ -26,7 +26,7 @@ Send rain from heaven.
 </details>
 <details><summary>उवट-टीका</summary>
 
-दिवो वृष्टिमेरय द्युलोकाद्वृष्टिं आईरय आगमय॥ ८॥
+दिवो वृष्टिम् एरय द्यु-लोकाद् वृष्टिं आ ईरय आगमय॥ ८॥
 </details>
 <details><summary>महीधर-टीका</summary>
 

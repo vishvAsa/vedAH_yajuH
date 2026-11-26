@@ -42,7 +42,7 @@ Atharvan first pressed thee out, O Agni,
 
 <details><summary>उवट-टीका</summary>
 
-त्वां प्रथमो निरमन्थत् मथितवान् हे अग्ने, पिण्डं हरति षड्भिराग्नेयीभिः।
+त्वां प्रथमो निरमन्थत् मथितवान् हे अग्ने, पिण्डं हरति षड्भिर् आग्नेयीभिः।
 </details>
 
 <details><summary>महीधर-टीका</summary>

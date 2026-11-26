@@ -32,8 +32,7 @@ To the grandfathers entitled to the svadhā, svadhā, homage!
 
 <details><summary>उवट-टीका</summary>
 
-बहुवचनं पितृव्यसव्यपेक्षं पूजार्थं वा।
-
+बहुवचनं पितृव्य-सव्यपेक्षं पूजार्थं वा।  
 पितामहेभ्यः उक्तोदर्कम्।
 </details>
 </details>

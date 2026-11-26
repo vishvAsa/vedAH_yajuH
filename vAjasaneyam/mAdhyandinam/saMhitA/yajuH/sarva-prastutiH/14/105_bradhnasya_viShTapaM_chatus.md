@@ -42,8 +42,7 @@ the summit of the ruddy sun is the thirty-four-fold;
 
 <details><summary>उवट-टीका</summary>
 
-ब्रध्नस्य विष्टपम्।
-
+ब्रध्नस्य विष्टपम्।  
 स्वाराज्यं वै ब्रध्नस्य विष्टपम्।
 </details>
 

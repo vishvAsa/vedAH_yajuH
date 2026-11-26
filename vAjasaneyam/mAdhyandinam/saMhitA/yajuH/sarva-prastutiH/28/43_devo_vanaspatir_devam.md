@@ -26,11 +26,9 @@ The God the Forest Sovran hath strengthened bright Indra, force-giver, the God h
 </details>
 <details><summary>उवट-टीका</summary>
 
-देवो वनस्पतिः।
-
-यो देवो वनस्पतिर्यूपः।
-
-देवं द्युस्थानमिन्द्रं वयोधसमायुषो धारयितारम् देवो देवम् - दीप्त इत्युभयत्र।
+देवो वनस्पतिः।  
+यो देवो वनस्पतिर् यूपः।  
+देवं द्यु-स्थानम् इन्द्रं वयोधसम् आयुषो धारयितारम् देवो देवम् - दीप्त इत्य् उभयत्र।
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -40,12 +38,9 @@ The God the Forest Sovran hath strengthened bright Indra, force-giver, the God h
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-पदच्छेदः स्पष्टः ॥४२॥
-
-नराशंसौ, नरैः ऋत्विग्भिः आशंसनीयः अग्निः ।
-
-शिष्टं स्पष्टम् ।
-
+पदच्छेदः स्पष्टः ॥४२॥  
+[[नराशंसौ|नराशंसः]], नरैः ऋत्विग्भिः आशंसनीयः अग्निः ।  
+शिष्टं स्पष्टम् ।  
 अथ नवमः -
 </details>
 <details><summary>अनन्ताचार्य-टीका</summary>

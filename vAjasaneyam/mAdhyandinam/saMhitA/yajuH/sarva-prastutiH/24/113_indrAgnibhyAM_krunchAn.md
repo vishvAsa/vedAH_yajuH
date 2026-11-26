@@ -32,8 +32,7 @@ for Indra and Agni, curlews;
 
 <details><summary>उवट-टीका</summary>
 
-अथ चतुर्थेऽवकाशे।
-
+अथ चतुर्थे ऽवकाशे।  
 त्रीन् क्रुञ्चान् पक्षिणः इन्द्राग्निभ्याम्।
 </details>
 

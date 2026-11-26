@@ -46,12 +46,11 @@ Let not opponents, let not robbers find thee, let not malignant wolves await thy
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-मा त्वा परिपरिणो विदन् मा त्वा परिपन्धिनो विदन् मा त्वा वृका अघायवो विदन् ।
+मा त्वा परि-परिणो विदन् मा त्वा [[परिपन्धिनो|परि-पन्थिनो]] विदन् मा त्वा वृका अघायवो विदन् ।
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-विकर्तशीलाः वृकाः ।
-
+विकर्त-शीलाः वृकाः ।  
 अघं पापं परस्य ये कर्तुम् इच्छन्ति ते अघायवः ।
 </details>
 </details>

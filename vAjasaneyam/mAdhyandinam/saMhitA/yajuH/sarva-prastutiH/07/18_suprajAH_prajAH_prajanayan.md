@@ -26,10 +26,6 @@ Well stored with people and begetting people, with growth of wealth surround the
 </details>
 <details><summary>उवट-टीका</summary>
 
-पूर्वेण गच्छति।
-
-सुप्रजाः।
-
-यतस्त्वं सुप्रजाः।
+पूर्वेण गच्छति। सु-प्रजाः। यतस् त्वं सु-प्रजाः।
 </details>
 </details>

@@ -26,7 +26,7 @@ On Aditi's head I sprinkle thee, on the earth's place of sacrifice.
 </details>
 <details><summary>उवट-टीका</summary>
 
-अदित्यास्त्वा अदित्याः पृथिव्यास्त्वाम् हे आज्य, मूर्धनि शिरसि आजिघर्मि।
+अदित्यास् त्वा अदित्याः पृथिव्यास् त्वाम् हे आज्य, मूर्धनि शिरसि आजिघर्मि।
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -40,10 +40,8 @@ On Aditi's head I sprinkle thee, on the earth's place of sacrifice.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-' अदित्यास् त्वा ' इति ।
-
-आज्य-देवत्योष्णिक ।
-
+'अदित्यास् त्वा' इति ।  
+[[आज्य-देवत्योष्णिक|आज्य-देवत्योष्णिक्]] ।  
 हे आज्य, अदित्याः पृथिव्याः मूर्धन् मूर्ध्नि आजिघर्मि आक्षारयामि ।
 </details>
 </details>

@@ -32,7 +32,7 @@ Homage to the thousand-eyed one and to the hundred-bowed one!
 
 <details><summary>उवट-टीका</summary>
 
-नमः सहस्राक्षाय च शतधन्वने च बह्वक्षाय बहुधनुष्काय च।
+नमः सहस्राक्षाय च शत-धन्वने च बह्व्-अक्षाय बहु-धनुष्काय च।
 </details>
 
 <details><summary>महीधर-टीका</summary>

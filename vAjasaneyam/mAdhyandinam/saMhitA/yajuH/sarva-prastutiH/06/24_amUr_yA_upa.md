@@ -26,7 +26,7 @@ May waters gathered near the Sun, and those wherewith the Sun is joined,
 </details>
 <details><summary>उवट-टीका</summary>
 
-याभिर्वा सूर्यः सह।
+याभिर् वा सूर्यः सह।
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -36,6 +36,6 @@ May waters gathered near the Sun, and those wherewith the Sun is joined,
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अमूर्या उप सूर्ये याभिवी सूर्यः सह ।
+अमूर् या उप सूर्ये [[याभिवी|याभिर् वा]] सूर्यः सह ।
 </details>
 </details>

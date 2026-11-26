@@ -26,6 +26,6 @@ Thee for heaven, thee for earth, thee for the welkin.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-यवानावपति-- ' यवो ऽसि ' इति ।
+यवान् आवपति - 'यवो ऽसि' इति ।
 </details>
 </details>

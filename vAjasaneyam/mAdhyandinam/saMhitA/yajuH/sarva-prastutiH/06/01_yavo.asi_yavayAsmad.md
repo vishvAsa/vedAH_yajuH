@@ -26,8 +26,7 @@ Barley art thou. Bar off from us our haters, bar our enemies.
 </details>
 <details><summary>उवट-टीका</summary>
 
-परिलिखति इदमहम्।
-
-यवानावपति यवोऽसि।
+परिलिखति इदम् अहम्।  
+यवान् आवपति यवो ऽसि।
 </details>
 </details>

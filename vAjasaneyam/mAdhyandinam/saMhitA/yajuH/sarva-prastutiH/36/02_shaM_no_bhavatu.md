@@ -26,9 +26,8 @@ Gracious to us be he, Protector of the world.
 </details>
 <details><summary>उवट-टीका</summary>
 
-शं नः सुखरूपोऽस्माकं भवतु।
-
-भुवनस्य भूतजातस्य यः पतिः योऽधिपतिः प्रवर्ग्यरूपो यज्ञः॥ २॥
+शं नः सुख-रूपो ऽस्माकं भवतु।  
+भुवनस्य भूत-जातस्य यः पतिः यो ऽधिपतिः प्रवर्ग्य-रूपो यज्ञः॥ २॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -38,8 +37,7 @@ Gracious to us be he, Protector of the world.
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-दोषोपशमं करोतु इत्य् अर्थः ।
-
+दोषोपशमं करोतु इत्य् अर्थः ।  
 अपि च यः भुवनस्य भूत-जातस्य पतिः सः नः अस्माकं शं सुखं भवतु सुखं करोतु इत्य् अर्थः ।
 </details>
 </details>

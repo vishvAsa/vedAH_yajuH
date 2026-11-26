@@ -26,10 +26,8 @@ Invited, I enjoy a share of that which hath been offered me, the savoury draught
 </details>
 <details><summary>उवट-टीका</summary>
 
-अग्नौ हूयत इत्यग्निहुत् तस्याग्निहुतः।
-
-अपिच इन्द्रपीतस्य प्रजापतिभक्षितस्य।
-
+अग्नौ हूयत इत्य् अग्नि-हुत् तस्याग्नि-हुतः।  
+अपि च इन्द्र-पीतस्य प्रजा-पति-भक्षितस्य।  
 मधुमतः रसवतः उपहूतः उपहूतस्य ग्रहस्य भक्षयामि॥ २८॥
 </details>
 <details><summary>महीधर-टीका</summary>

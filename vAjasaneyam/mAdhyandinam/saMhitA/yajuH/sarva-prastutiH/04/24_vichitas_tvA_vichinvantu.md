@@ -26,7 +26,7 @@ Let separators pick thee out.
 </details>
 <details><summary>उवट-टीका</summary>
 
-किंच विचितः विचयनकर्तारः त्वां विचिन्वन्तु विविक्तं कुर्वन्तु॥ २४॥
+किंच विचितः विचयन-कर्तारः त्वां विचिन्वन्तु विविक्तं कुर्वन्तु॥ २४॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -38,6 +38,6 @@ Let separators pick thee out.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-किं च विचित: चयन-कर्तारः त्वां विचिन्वन्तु ॥२॥
+किं च विचितः चयन-कर्तारः त्वां विचिन्वन्तु ॥२॥
 </details>
 </details>

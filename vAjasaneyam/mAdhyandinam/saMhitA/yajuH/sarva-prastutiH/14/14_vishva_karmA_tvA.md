@@ -26,9 +26,8 @@ On the air's back may Visvakarman set thee luminous.
 </details>
 <details><summary>उवट-टीका</summary>
 
-विश्वकर्मा त्वा।
-
-वायुदेवत्या॥ १४॥
+विश्व-कर्मा त्वा।  
+वायु-देवत्या॥ १४॥
 </details>
 <details><summary>महीधर-टीका</summary>
 

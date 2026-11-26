@@ -26,9 +26,8 @@ The Fathers have enjoyed themselves, and hither, like bulls, come each to his al
 </details>
 <details><summary>उवट-टीका</summary>
 
-अमीमदन्त हर्षं प्राप्तवन्तः पितरो यथाविभागं च आवृषायिषत अशितवन्तः।
-
-‘यथाभागमाशिषुरित्येवैतदाह’ इति श्रुतिः॥ ३१॥
+अमीमदन्त हर्षं प्राप्तवन्तः पितरो यथा-विभागं च आवृषायिषत अशितवन्तः।  
+‘यथा-भागम् आशिषुर् इत्य् एवैतद् आह’ इति श्रुतिः॥ ३१॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -46,6 +45,6 @@ The Fathers have enjoyed themselves, and hither, like bulls, come each to his al
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-[ अमीमदन्त ] हर्षं प्राप्तवन्तः "पितरः "यथाभागम् "आवृषायिषत अशितवन्तः ॥ ३ ॥
+[ अमीमदन्त ] हर्षं प्राप्तवन्तः "पितरः "यथा-भागम् "आवृषायिषत अशितवन्तः ॥ ३ ॥
 </details>
 </details>

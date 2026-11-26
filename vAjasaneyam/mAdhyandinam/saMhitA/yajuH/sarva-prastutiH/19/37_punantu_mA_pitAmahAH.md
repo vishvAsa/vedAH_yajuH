@@ -26,10 +26,8 @@ May my Grandfathers cleanse me, may my Great-grand-fathers make me clean.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-' पुनन्तु मा ' इति ।
-
-'पुनन्तु 'मा मां पितामहाः, प्रपितामहाः च मां पुनन्तु ।
-
+' पुनन्तु मा ' इति ।  
+'पुनन्तु 'मा मां पितामहाः, प्रपितामहाः च मां पुनन्तु ।  
 " शतायुषा "पवित्रेण पितरः पुनन्तु, पितामहाश् च पुनन्तु, प्रपितामहाश् च पुनन्तु ।
 </details>
 <details><summary>अनन्ताचार्य-टीका</summary>

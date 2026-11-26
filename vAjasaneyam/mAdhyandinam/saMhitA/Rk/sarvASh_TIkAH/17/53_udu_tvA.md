@@ -17,9 +17,8 @@ May the All-Gods, O Agni, bear and lift thee upward with their thoughts. Fair to
 </details>
 <details><summary>उवट-टीका</summary>
 
-अग्निमुद्यच्छति।
-
-उदुत्वेति व्याख्यातम्॥ ५३॥
+अग्निम् उद्यच्छति।  
+उद् उ त्वेति व्याख्यातम्॥ ५३॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -29,11 +28,9 @@ May the All-Gods, O Agni, bear and lift thee upward with their thoughts. Fair to
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-अग्निमुद्यच्छति - ' उदुत्वा' इति ।
-
-द्वितीय-दशकस्य तृतीयाध्याये व्याख्याता ॥ ५३ ॥
-अयं च ब्रुवन्तु ( 14 )
-12- 3 शतकस्य for दशकस्य
+अग्निम् उद्यच्छति - 'उदु त्वा' इति ।  
+द्वितीय-दशकस्य तृतीयाध्याये व्याख्याता ॥ ५३ ॥  
+अयं च ब्रुवन्तु (14) 12-3 शतकस्य for दशकस्य
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
