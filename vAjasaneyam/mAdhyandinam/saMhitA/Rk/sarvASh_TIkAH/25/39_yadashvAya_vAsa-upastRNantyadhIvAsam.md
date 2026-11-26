@@ -16,6 +16,18 @@ The bond of the steed, the hobble,
 As dear to the gods they offer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The cloth they spread under the horse, the upper garment, the gold pieces [given] to him,  
+the halter, the steed, the foot-fetter: as dear things they extend them among the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+What cloth they spread under the horse, what upper garment, what gold ornaments for him,  
+the halter, the courser's hobble—[these] dear things they stretch out among the gods.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदश्वा॑य॒ वास॑ऽउपस्तृ॒णन्त्य॑धीवा॒सं या हिर॑ण्यान्यस्मै।  
@@ -34,6 +46,12 @@ As dear to the gods they offer.
 स॒न्दान॒मर्व॑न्त॒म्पड्बी॑शम्प्रि॒या दे॒वेष्वा या॑मयन्ति ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓द् अ᳓श्वाय वा᳓स उपस्तृण᳓न्त्य् अधिवासँ᳓ या᳓ हि᳓रण्यान्य् अस्मै  
+संदा᳓नम् अ᳓र्वन्तं प᳓ड्वीशं प्रिया᳓ देवे᳓ष्व् आ᳓यामयन्ति
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 यत्। अश्वा॑य। वासः॑। उ॒प॒स्तृ॒णन्तीत्यु॑पऽस्तृ॒णन्ति॑। अ॒धी॒वा॒सम्। अ॒धि॒वा॒समित्य॑धिऽवा॒सम्। या। हिर॑ण्यानि। अ॒स्मै॒। स॒न्दान॒मिति॑ स॒म्ऽदान॑म्। अर्व॑न्तम्। पड्वी॑शम्। प्रि॒या। दे॒वेषु॑। आ। या॒म॒य॒न्ति॒। य॒म॒य॒न्तीति॑ यमयन्ति। ३९।
@@ -47,6 +65,26 @@ As dear to the gods they offer.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यत् । अश्वा॑य । वासः॑ । उ॒प॒स्तृ॒णन्तीत्यु॑प-स्तृ॒णन्ति॑ । अ॒धी॒वा॒समित्य॑धि-वा॒सम् । या । हिर॑ण्यानि । अ॒स्मै॒ ॥ स॒न्दान॒मिति॑ सम्-दान॑म् । अर्व॑न्तम् । पड्बी॑शम् । प्रि॒या । दे॒वेषु॑ । एति॑ । या॒म॒य॒न्ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अ᳓श्वाय (*TS*-5/126, *RV*-4/226, *TB*-2/167, *AV*-0/76, *SB-M*-10/262, *SB-K*-9/255, *VS-M*-2/54, *VS-K*-2/51, *KS*-2/26)
+- वा᳓सः (*TS*-15/22, *RV*-8/12, *TB*-12/14, *TK*-1, *AV*-26/32, *SB-M*-35/54, *SB-K*-31/47, *VS-M*-5, *VS-K*-4, *KS*-5)
+- उप (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-74, *TK*-4, *AV*-1, *SB-M*-790, *SB-K*-757, *VS-M*-1, *VS-K*-1, *KS*-26)
+- स्तृण᳓न्ति (*RV*-1, *TB*-1, *SB-M*-2, *VS-K*-1)
+- अधि-वास᳓म् (*TS*-1, *TB*-1, *SB-M*-1/2, *SB-K*-2/5, *VS-M*-1, *VS-K*-1)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/639, *VS-K*-28/581, *KS*-83/818)
+- हि᳓रण्यानि (*TS*-1/62, *RV*-1/12, *TB*-1/46, *TK*-0/8, *AV*-0/27, *SB-M*-2/134, *SB-K*-1/128, *VS-M*-1/8, *VS-K*-1/7, *KS*-0/22)
+- अस्मै (*TS*-286, *RV*-132, *TB*-49, *TK*-11, *AV*-65, *SB-M*-251, *SB-K*-223, *VS-M*-11, *VS-K*-11, *KS*-29)
+- सम्-दा᳓नम् (*TS*-4, *RV*-2, *AV*-4/5, *VS-M*-2, *VS-K*-2, *KS*-1)
+- अ᳓र्वन्तम् (*TS*-3/4, *RV*-7/21, *TB*-2/3, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-4/7, *VS-K*-2/3)
+- प᳓ड्वीशम् (*AV*-1/6, *VS-M*-2/3, *VS-K*-2/3)
+- प्रिया᳓ (*TS*-12/92, *RV*-29/213, *TB*-30/83, *TK*-0/1, *AV*-7/90, *SB-M*-13/134, *SB-K*-17/141, *VS-M*-22/60, *VS-K*-16/45, *KS*-6/26)
+- देवे᳓षु (*TS*-41/1025, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/517, *VS-K*-30/498, *KS*-13/317)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- यामयन्ति (*TS*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>

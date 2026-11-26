@@ -16,6 +16,18 @@ Every man prayeth for wealth;
 Let him choose glory that he may prosper,
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Every mortal would choose the friendship of the divine guide;  
+everyone begs for wealth; he would choose splendor to flourish, svāhā!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+Every mortal should choose the friendship of the divine leader;  
+everyone seeks wealth, should choose brilliance to thrive. // Svāhā!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 विश्वो॑ दे॒वस्य॑ ने॒तुर्मर्त्तो॑ वुरीत स॒ख्यम्।  
@@ -27,6 +39,12 @@ Let him choose glory that he may prosper,
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यम्।  
 विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॑।  
 (स्वाहा॑ ।)
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वो देव᳓स्य नेतु᳓र् म᳓र्तो वुरीत सख्य᳓म्  
+वि᳓श्वो राय᳓ इषुध्यति द्युम्नँ᳓ वृणीत पुष्य᳓से ॥ स्वा᳓हा
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -42,6 +60,23 @@ Let him choose glory that he may prosper,
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विश्वे॑ । दे॒वस्य॑ । ने॒तुः । मर्तः॑ । वृ॒णी॒त॒ । स॒ख्यम् । विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वः (*TS*-0/283, *RV*-16/1116, *TB*-0/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-7/219, *VS-M*-7/214, *VS-K*-6/214, *KS*-1/118)
+- देव᳓स्य (*TS*-39/1025, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-43/517, *VS-K*-37/498, *KS*-22/317)
+- नेतुः᳓ (*TS*-4/9, *RV*-1/16, *TB*-0/1, *AV*-0/4, *SB-M*-4/9, *SB-K*-4, *VS-M*-3/6, *VS-K*-3/6, *KS*-1/4)
+- म᳓र्तः (*TS*-7/9, *RV*-34/136, *TB*-3, *AV*-3/11, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-2/6, *KS*-3/4)
+- वुरीत (*RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-3)
+- सख्य᳓म् (*TS*-5/7, *RV*-44/134, *TB*-3/5, *AV*-2/12, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-5/6, *VS-K*-5, *KS*-2/4)
+- वि᳓श्वः (*TS*-0/283, *RV*-16/1116, *TB*-0/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-7/219, *VS-M*-7/214, *VS-K*-6/214, *KS*-1/118)
+- रायः᳓ (*TS*-50/80, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63, *KS*-5/23)
+- इषुध्यति (*RV*-1, *SB-M*-1, *SB-K*-2)
+- द्युम्न᳓म् (*TS*-6/13, *RV*-23/61, *TB*-2/6, *TK*-0/1, *AV*-5/12, *SB-M*-9/11, *SB-K*-7/10, *VS-M*-8/12, *VS-K*-15/18, *KS*-0/2)
+- वृणीत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-3, *TB*-1, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- पुष्य᳓से (*TS*-3, *RV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-478, *KS*-116)
 </details>
 
 <details><summary>उवट-टीका</summary>

@@ -8,6 +8,14 @@ title = "५३ इन्दुर्दक्षः श्येनऽऋता
 The Drop, the powerful, the falcon, righteous, impetuous bird borne on his golden pinions, Great, stedfast, settled in the habitation—to thee be reverence! Forbear to harm thee!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The drop, the skilled falcon, possessing truth, the golden-winged bird, active,  
+great, firmly seated in the assembly;  
+homage be to you;  
+do not harm me!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्दु॒र्दक्षः॑ श्ये॒नऽऋ॒तावा॒ हिर॑ण्यपक्षः शकु॒नो भु॑र॒ण्युः।  
@@ -20,6 +28,12 @@ The Drop, the powerful, the falcon, righteous, impetuous bird borne on his golde
 हिर॑ण्यपक्षश्शकु॒नो भु॑र॒ण्युः ।  
 म॒हान्त्स॒धस्थे॑ ध्रु॒व आनिष॑त्तः ।  
 नम॑स्ते अस्तु॒ मा मा॑  हिँसीः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्दुर्दक्षश्श्येन ऋतावा हिरण्यपक्षश्शकुनो भुरण्युः।  
+महान्सधस्थे ध्रुव आ निषत्तो नमस्ते अस्तु मा मा हिँसीः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +49,28 @@ The Drop, the powerful, the falcon, righteous, impetuous bird borne on his golde
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-काठकम्)</summary>
 
 इ᳓न्दुः । द᳓क्षः । श्येनः᳓ । ऋत᳓-वा । हि᳓रण्य-पक्षः । शकुनः᳓ । भुरण्युः᳓ । महा᳓न् । सध᳓-स्थे । ध्रुवः᳓ । आ᳓नि᳓षत् । तः । न᳓मः । ते । अस्तु । मा᳓ । मा । हिंसीः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्दुः (*MS*-3/12, *TS*-5/12, *RV*-67/179, *TB*-3/9, *TK*-1, *AV*-4/16, *SB-M*-6/14, *SB-K*-5/10, *VS-M*-3/14, *VS-K*-3/8)
+- द᳓क्षः (*Whitney*, *MS*-5/19, *TS*-3/13, *RV*-13/92, *TB*-2/5, *TK*-1/2, *AV*-0/11, *SB-M*-6/10, *SB-K*-7/13, *VS-M*-4/12, *VS-K*-4/13)
+- श्येनः᳓ (*MS*-9/18, *TS*-8/19, *RV*-35/53, *TB*-1/6, *TK*-1, *AV*-7/12, *SB-M*-11/16, *SB-K*-13/19, *VS-M*-3/9, *VS-K*-2/8)
+- ऋत᳓-वा (*MS*-6/9, *TS*-3/84, *RV*-31/32, *TB*-1/31, *TK*-1/4, *AV*-1/17, *SB-M*-0/200, *SB-K*-1/188, *VS-M*-0/7, *VS-K*-0/7)
+- हि᳓रण्य-पक्षः (*MS*-2, *TS*-1, *TB*-0/1, *TK*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- शकुनः᳓ (*MS*-2, *TS*-1, *RV*-6/10, *TK*-1, *AV*-3/7, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- भुरण्युः᳓ (*MS*-3/4, *TS*-2/3, *RV*-1/4, *TB*-0/1, *TK*-1, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/4, *VS-K*-2/4)
+- महा᳓न् (*MS*-7/36, *TS*-11/26, *RV*-79/364, *TB*-5/17, *TK*-2/5, *AV*-41/77, *SB-M*-28/37, *SB-K*-30/37, *VS-M*-18/35, *VS-K*-22/41)
+- सध᳓-स्थे (*MS*-27/40, *TS*-16/28, *RV*-24/45, *TB*-3/7, *TK*-1, *AV*-10/18, *SB-M*-21/39, *SB-K*-18/30, *VS-M*-15/27, *VS-K*-11/21)
+- ध्रुवः᳓ (*Whitney*, *MS*-25/89, *TS*-23/82, *RV*-7/52, *TB*-0/18, *TK*-1/34, *AV*-5/48, *SB-M*-17/93, *SB-K*-15/92, *VS-M*-11/47, *VS-K*-6/40)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- नि᳓-सत्तः (*MS*-2/3, *TS*-1/2, *RV*-7/11, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- न᳓मः (*Whitney*, *MS*-286/313, *TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-147/168)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- हिंसीः᳓ (*SB-M*-15, *SB-K*-32)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -134,6 +170,11 @@ The Drop, the powerful, the falcon, righteous, impetuous bird borne on his golde
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5नमस्त इति यजुस्तत्रैव व्याख्यातम्3 ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[273_1]** Ch शक्तनो भुरण्यः.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

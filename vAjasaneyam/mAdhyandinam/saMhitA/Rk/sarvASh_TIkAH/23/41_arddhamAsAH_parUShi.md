@@ -13,6 +13,12 @@ Let the Half-months and let the Months, while sacrificing, flay thy limbs: Let D
 May the half-months, the months, Cut thy joints, piercing, May the days and nights, the Maruts, Make whole thine injuries [1].
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the half-months, stitching, cut up your joints, [and so] the months;  
+let the Maruts, the days and nights, bring into order what is torn apart.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒र्द्ध॒मा॒साः परूँ॑षि ते॒ मासा॒ऽआच्छ्य॑न्तु॒ शम्य॑न्तः।  
@@ -31,6 +37,12 @@ May the half-months, the months, Cut thy joints, piercing, May the days and nigh
 अ॒हो॒रा॒त्राणि॑ म॒रुतो॒ विलि॑ष्टँ सूदयन्तु ते । [63]
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अर्धमासाः᳓ प᳓रूँषि ते मा᳓साश्छ्यन्तु शि᳓म्यन्तः।  
+अहोरात्रा᳓न्ति मरु᳓तो वि᳓लिष्टँ सूदयन्तु ते
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒र्द्ध॒मा॒सा इत्य॑र्द्धमा॒साः। परूँ॑षि। ते॒। मासाः॑। आ। छ्यन्तु॒। शम्य॑न्तः। अ॒हो॒रा॒त्राणि॑। म॒रुतः॑। विलि॑ष्ट॒मिति॒ विऽलि॑ष्टम्। सू॒द॒य॒न्तु॒। ते॒। ४१।
@@ -44,6 +56,22 @@ May the half-months, the months, Cut thy joints, piercing, May the days and nigh
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒र्ध॒मा॒सा इत्य॑र्ध-मा॒साः । परूँ॑षि । ते॒ । मासाः॑ । छ्य॒न्तु॒ । शिम्य॑न्तः ॥ अ॒हो॒रा॒त्राणीत्य॑हः-रा॒त्राणि॑ । म॒रुतः॑ । विलि॑ष्ट॒मिति॒ वि-लि॒ष्ट॒म् । सू॒द॒य॒न्तु॒ । ते ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अर्ध-मासाः᳓ (*MS*-3/12, *TS*-17/42, *TB*-3/18, *TK*-3/10, *AV*-3/7, *SB-M*-36/62, *SB-K*-36/63, *VS-M*-2/4, *VS-K*-1/3)
+- प᳓रूंषि (*MS*-2, *TS*-2, *TB*-1, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- मा᳓साः (*MS*-33/56, *TS*-40/68, *RV*-5/9, *TB*-17/30, *TK*-4/9, *AV*-4/24, *SB-M*-110/179, *SB-K*-107/174, *VS-M*-4/6, *VS-K*-2/5)
+- छ्यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *VS-M*-1, *VS-K*-1)
+- शि᳓म्यन्तः (*TS*-2)
+- अहोरात्राः᳓ (*MS*-0/46, *TS*-0/39, *RV*-0/1, *TB*-0/37, *TK*-0/17, *AV*-1/23, *SB-M*-1/127, *SB-K*-1/12, *VS-M*-1/7, *VS-K*-0/7)
+- अ᳓न्ति (*MS*-2/84, *TS*-2/25, *RV*-34/68, *TB*-0/23, *TK*-0/6, *AV*-4/16, *SB-M*-1/73, *SB-K*-1/90, *VS-M*-0/4, *VS-K*-0/3)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- वि᳓-लिष्टम् (*TS*-5, *SB-M*-9, *SB-K*-11, *VS-M*-4, *VS-K*-3)
+- सूदयन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -98,6 +126,11 @@ May the half-months, the months, Cut thy joints, piercing, May the days and nigh
 <details><summary>भट्टभास्कर-टीका</summary>
 
 4चतुर्थी - अर्धमासाः परूंषि पर्वाणि पूर्णमासादयो मासाश्च छ्यन्तु छेदनेन त्वा हविः कुर्वन्तु शिम्यन्तः शमयन्तः । यद्वा - अर्धमासाश्च तव परूंषि अवयवान् शिम्यन्तु छ्यन्तु अहोरात्राणि मरुतश्च ते विलिष्टं विनाशितं विश्लिश्टं वा सूदयन्तु क्षारयन्तु स्वादुकुर्वन्तु वा । यद्वा - यद्विलिष्टं यागायोग्यं यद्विरूपं विशसितं तद्विनाशयन्तु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[649_4]** Ch छन्तु
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

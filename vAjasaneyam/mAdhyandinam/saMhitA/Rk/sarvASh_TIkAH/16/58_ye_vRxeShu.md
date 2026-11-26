@@ -16,6 +16,18 @@ Grass green, are in the trees--
 At a thousand leagues.}
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who in the trees are meadow-yellow, blue-necked, bright-red,  
+their bows we unstring a thousand leagues away.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Those who in the woods are yellow as young grass, blue-necked, bright red;  
+at a thousand leagues away we unstring their bows.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ये वृ॒क्षेषु॑ श॒ष्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः।  
@@ -26,6 +38,12 @@ At a thousand leagues.}
 
 ये वृ॒क्षेषु॑ स॒स्पिञ्ज॑रा॒ नील॑ग्रीवा॒ विलो॑हिताः ।   
 {तेषाँ॑ सहस्रयोज॒नेऽव॒ धन्वा॑नि तन्मसि }
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ये᳓ व᳓नेषु शष्पि᳓ञ्जरा नी᳓लग्रीवा वि᳓लीहिताः।  
+ते᳓षाँ सहस्रयोजने᳓ऽव ध᳓न्वानि तन्मसि
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -41,6 +59,21 @@ At a thousand leagues.}
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ये । वृ॒क्षेषु॑ । स॒स्पिञ्ज॑राः । नील॑ग्रीवा॒ इति॒ नील॑-ग्री॒वाः॒ । विलो॑हिता॒ इति॒ वि-लो॒हि॒ताः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- व᳓नेषु (*MS*-6/13, *TS*-5/12, *RV*-20/76, *TB*-0/1, *AV*-4/19, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-8/13, *VS-K*-6/11)
+- शष्पि᳓ञ्जरा (*MS*-1/2, *VS-M*-1/2, *VS-K*-1/2)
+- नी᳓ल-ग्रीवाः (*MS*-3/5, *TS*-3/6, *VS-M*-3/6, *VS-K*-2/4)
+- वि᳓ली (*SB-K*-0/1)
+- हिताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ते᳓षाम् (*MS*-68/5550, *TS*-52/4761, *RV*-26/3136, *TB*-18/2709, *TK*-1/363, *AV*-40/3165, *SB-M*-137/20457, *SB-K*-115/20018, *VS-M*-21/780, *VS-K*-18/660)
+- सहस्र-योजने᳓ (*MS*-10, *TS*-2, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-10, *VS-K*-10)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- ध᳓न्वानि (*MS*-10/20, *TS*-2/13, *RV*-7/33, *TB*-0/1, *AV*-1/14, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-10/18, *VS-K*-10/18)
+- तन्मसि (*MS*-10, *TS*-2, *VS-M*-10, *VS-K*-10)
 </details>
 
 <details><summary>उवट-टीका</summary>

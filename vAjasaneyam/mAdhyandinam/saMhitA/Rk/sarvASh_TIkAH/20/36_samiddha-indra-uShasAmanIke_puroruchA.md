@@ -8,6 +8,18 @@ title = "३६ समिद्धऽइन्द्रऽउषसामनी�
 Kindred in forefront of the Mornings, Indra with forward light, long-active, waxing mighty, With three-and thirty Gods, the Thunder-wielder, smote. Vritra dead and threw the portals open.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled, Indra, in front of the dawns, having grown by the morning-shine as the first-maker,  
+with the thirty-three gods, the mace-armed one slew Vṛtra and uncovered the doors.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Kindled at the front of the dawns, Indra, the creator of old, growing with the prelude,  
+with the thirty-three gods, the mace-armed one slew Vṛtra and opened the doors.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 समि॑द्ध॒ऽइन्द्र॑ऽउ॒षसा॒मनी॑के पुरो॒रुचा॑ पूर्व॒कृद्वा॑वृधा॒नः।  
@@ -20,6 +32,12 @@ Kindred in forefront of the Mornings, Indra with forward light, long-active, wax
 पु॒रो॒रुचा॑ पूर्व॒कृद्वा॑वृधा॒नः ।  
 त्रि॒भिर्दे॒वैस्त्रिँ॒शता॒ वज्र॑बाहुः ।  
 ज॒घान॑ वृ॒त्रव्ँ वि दुरो॑ ववार ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓मिद्धा इ᳓न्द्र उष᳓साम् अ᳓नीके पुरोरु᳓चा पूर्वकृ᳓द् वावृधानः᳓  
+त्रिभि᳓र् देवै᳓स् त्रिँश᳓ता व᳓ज्रबाहुर् जघा᳓न वृत्रँ᳓ वि᳓ दु᳓रो ववार
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +53,26 @@ Kindred in forefront of the Mornings, Indra with forward light, long-active, wax
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓म्-इद्धः । इ᳓न्द्रः । उष᳓साम् । अ᳓नीके । पुरो-रु᳓चा । पूर्व-कृ᳓त् । वावृधानः᳓ । त्रिभिः᳓ । देवैः᳓ । त्रिंश᳓ता । व᳓ज्र-बाहुः । जघा᳓न । वृत्र᳓म् । वि᳓ । दु᳓रः । ववार ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म्-इद्धाः (*TS*-1/10, *RV*-1/42, *TB*-0/11, *TK*-0/2, *SB-M*-3/39, *SB-K*-2/34, *VS-M*-2/10, *VS-K*-2/9, *KS*-1/9)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- उष᳓साम् (*TS*-7/20, *RV*-19/237, *TB*-2/13, *TK*-0/1, *AV*-8/39, *SB-M*-4/12, *SB-K*-3/11, *VS-M*-4/21, *VS-K*-4/17, *KS*-0/6)
+- अ᳓नीके (*TS*-0/11, *RV*-6/37, *TB*-1/5, *AV*-0/8, *SB-M*-0/25, *SB-K*-0/25, *VS-M*-2/8, *VS-K*-1/10, *KS*-1/5)
+- पुरो-रु᳓चा (*TS*-0/3, *RV*-0/1, *TB*-1/3, *SB-M*-3/19, *SB-K*-3/12, *VS-M*-1, *VS-K*-1)
+- पूर्व-कृ᳓त् (*TB*-1, *VS-M*-1, *VS-K*-1)
+- वावृधानः᳓ (*TS*-4/6, *TB*-3/4, *TK*-1, *SB-M*-0/1, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-4/6, *KS*-1/2)
+- त्रिभिः᳓ (*TS*-7/235, *RV*-9/156, *TB*-4/101, *TK*-3/17, *AV*-4/86, *SB-M*-31/420, *SB-K*-25/388, *VS-M*-2/46, *VS-K*-2/45, *KS*-1/32)
+- देवैः᳓ (*TS*-23/1025, *RV*-38/1342, *TB*-15/582, *TK*-1/32, *AV*-21/707, *SB-M*-39/2031, *SB-K*-45/1945, *VS-M*-24/517, *VS-K*-24/498, *KS*-10/317)
+- त्रिंश᳓ता (*TS*-0/13, *RV*-1/12, *TB*-1/5, *AV*-1/6, *SB-M*-1/28, *SB-K*-1/26, *VS-M*-2/5, *VS-K*-2/4, *KS*-0/3)
+- व᳓ज्र-बाहुः (*TS*-2/3, *RV*-10/15, *TB*-5/6, *AV*-2/8, *VS-M*-3/5, *VS-K*-3/6, *KS*-2/4)
+- जघा᳓न (*RV*-15, *TB*-1, *AV*-10, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वृत्र᳓म् (*TS*-35/59, *RV*-83/173, *TB*-22/30, *AV*-10/40, *SB-M*-47/93, *SB-K*-43/93, *VS-M*-7/10, *VS-K*-5/8, *KS*-9/16)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- दु᳓रः (*TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6, *KS*-1)
+- ववार (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -162,6 +200,11 @@ Kindred in forefront of the Mornings, Indra with forward light, long-active, wax
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 समिन्नामको योऽयं प्रथमप्रयाजदेवोऽग्निः स एवायमिन्द्रस्वरूपः, स चोषसां प्रातःकालानां अनीके मुखे वर्तते । किं कुर्वन्? पुरः पूर्वस्यां दिशि रोचत इति पुरोरुक् आहवनीयः तेन पूर्वकृत् पूर्वाणि कर्माण्यग्रिहोत्रादीनि कुर्वन् । वावृधानः अतिशयेन वर्धमानः । स च त्रिसंख्याकैस्त्रिंशत्संख्याकैश्च हविर्भाग्भिदैवैः सहितः वज्रबाहुस्सन् वृत्रं वैरिणं जघान हतवान् । दुरः स्वर्गस्य द्वाराणि विववार विवृतानि चकार ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[572_2]** So corr. Ch परोरुचा (Thus emended; Ch reads परोरुचा)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

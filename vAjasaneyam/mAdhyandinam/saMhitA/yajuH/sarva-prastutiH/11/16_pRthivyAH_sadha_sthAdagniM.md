@@ -2,28 +2,39 @@
 title = "१६ पृथिव्याः सध स्थादग्निं"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याः᳓ सध᳓-स्थादग्निं᳓ पुरीष्य᳙म् अङ्गिरस्व᳓दा᳓भर
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 From the Earth's seat, like Angiras, bring thou Purîshya Agni forth.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+suitable for the loose earth, from the seat of the earth like the Aṅgirases!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒व्याः स॒धस्था॑द॒ग्निं पु॑री॒ष्य᳙मङ्गिर॒स्वदाभ॑र
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 पृ॒थि॒व्याः। स॒धस्था॒दिति॑ स॒धऽस्था॑त्। अ॒ग्निम्। पु॒री॒ष्य᳖म्। अ॒ङ्गि॒र॒स्वत्। आ। भ॒र॒।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 पृ॒थि॒व्याः। स॒धस्था॒दिति॑ स॒धऽस्था॑त्। अ॒ग्निम्। पु॒री॒ष्य᳖म्। अ॒ङ्गि॒र॒स्वत्। आ। भ॒र॒।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 अजमुत्क्रामयति।
@@ -32,6 +43,7 @@ From the Earth's seat, like Angiras, bring thou Purîshya Agni forth.
 
 अग्निम् व्याख्यातम्।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 यजुः।
@@ -40,6 +52,7 @@ From the Earth's seat, like Angiras, bring thou Purîshya Agni forth.
 
 हे अभ्रे, पृथिव्याः भूमेः सधस्थात् सहस्थानात् पुरीष्यं पशव्यमग्निमङ्गिरस्वदङ्गिरस इवाभर आहर।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ तृतीयः ' पृथिव्याः सध-स्थादग्निं पुरीष्यम् अङ्गिर-स्वदा भर ' इति ।
@@ -48,6 +61,7 @@ From the Earth's seat, like Angiras, bring thou Purîshya Agni forth.
 
 कृत्स्नापि मृत्तिका सह तिष्ठति मिलिखा वर्तते तत्रेति सधस्थः प्रदेश-विशेषस् तस्मात् प्रदेशात् ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 अजमुत्क्रामयति- ' पृथिव्याः सधस्थात् ' इति ।

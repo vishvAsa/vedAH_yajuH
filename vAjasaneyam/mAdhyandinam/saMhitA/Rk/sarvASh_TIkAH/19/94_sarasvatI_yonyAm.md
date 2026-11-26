@@ -8,6 +8,18 @@ title = "९४ सरस्वती योन्याम्"
 Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infant. King Varuna with waters’ wealthy essence begetting Indra in the floods for glory.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sarasvatī, the wife, bears within the womb the well-formed embryo for the two Aśvins;  
+as Varuṇa with the sap of the waters, with the chant, the king generating Indra in the waters for splendor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sarasvatī, the wife, bears within the womb the well-made embryo for the two Aśvins;  
+generating Indra for prosperity in the waters, King [Soma], with the sap of the waters, with Varuṇa, with the Sāman.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सर॑स्वती॒ योन्यां॒ गर्भ॑म॒न्तर॒श्विभ्यां॒ पत्नी॒ सुकृ॑तं बिभर्ति।  
@@ -28,6 +40,12 @@ Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infa
 इन्द्रँ॑ श्रि॒यै ज॒नय॑न्न॒प्सु राजा॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सरस्वती योन्यां गर्भमन्तरश्विभ्यां पत्नी सुकृतं बिभर्ति।  
+अपां रसेन वरुणेन साम्नेन्द्रँ श्रियै जनयन्नप्सु राजा
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सर॑स्वती। योन्या॑म्। गर्भ॑म्। अ॒न्तः। अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। पत्नी॑। सुकृ॑त॒मिति॒ सुऽकृ॑तम्। बि॒भ॒र्ति॒। अ॒पाम्। रसे॑न। वरु॑णः। न। साम्ना॑। इन्द्र॑म्। श्रि॒यै। ज॒नय॑न्। अ॒प्स्वित्य॒प्ऽसु। राजा॑। ९४।
@@ -41,6 +59,27 @@ Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infa
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓रस्वती । यो᳓न्याम् । ग᳓र्भम् । अन्तः᳓ । अश्वि᳓भ्याम् । प᳓त्नी । सु᳓-कृतम् । बिभर्ति । अपा᳓म् । र᳓सेन । व᳓रुणः । न᳓ । सा᳓म्ना । इ᳓न्द्रम् । श्रियै᳓ । जन᳓यन् । अप्सु᳓ । रा᳓जा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- यो᳓न्याम् (*MS*-2/208, *TS*-1/170, *RV*-0/110, *TB*-1/38, *TK*-0/6, *AV*-1/45, *SB-M*-0/284, *SB-K*-0/261, *VS-M*-2/93, *VS-K*-2/100)
+- ग᳓र्भम् (*MS*-27/67, *TS*-17/66, *RV*-55/95, *TB*-12/25, *AV*-30/66, *SB-M*-43/143, *SB-K*-30/135, *VS-M*-10/32, *VS-K*-10/27)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- प᳓त्नी (*MS*-25/73, *TS*-14/39, *RV*-3/25, *TB*-9/21, *TK*-1/3, *AV*-5/20, *SB-M*-36/123, *SB-K*-36/116, *VS-M*-1/13, *VS-K*-1/15)
+- सु᳓-कृतम् (*MS*-2/4, *TS*-1/3, *RV*-8/17, *TB*-1/3, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-3/4, *VS-K*-2/3)
+- बिभर्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-9, *TS*-4, *RV*-21, *TB*-3, *AV*-7, *SB-M*-38, *SB-K*-37, *VS-K*-1)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- र᳓सेन (*MS*-21, *TS*-16, *RV*-4, *TB*-4, *AV*-9, *SB-M*-61, *SB-K*-65, *VS-M*-5, *VS-K*-4)
+- व᳓रुणेन (*MS*-13, *TS*-6, *RV*-3, *TB*-2, *AV*-7, *SB-M*-7, *SB-K*-7, *VS-M*-1, *VS-K*-1)
+- सा᳓म्ना (*MS*-3/6, *TS*-7/12, *RV*-1/4, *TB*-5/7, *TK*-1/2, *AV*-3/5, *SB-M*-19/51, *SB-K*-14/43, *VS-M*-2, *VS-K*-2)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- श्रियै᳓ (*MS*-3, *TS*-2, *TB*-3, *SB-M*-14, *SB-K*-8, *VS-M*-3, *VS-K*-3)
+- जन᳓यन् (*MS*-6, *TS*-4, *RV*-27, *TB*-2, *AV*-6, *VS-M*-3, *VS-K*-2)
+- अप्सु᳓ (*MS*-38/374, *TS*-37/319, *RV*-84/532, *TB*-21/152, *TK*-3/14, *AV*-51/324, *SB-M*-61/760, *SB-K*-58/744, *VS-M*-18/146, *VS-K*-16/124)
+- रा᳓जा (*MS*-42/60, *TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-21/29)
 </details>
 
 <details><summary>उवट-टीका</summary>

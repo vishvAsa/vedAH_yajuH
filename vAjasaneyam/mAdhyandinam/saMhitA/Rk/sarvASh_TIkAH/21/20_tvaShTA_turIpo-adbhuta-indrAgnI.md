@@ -8,6 +8,18 @@ title = "२० त्वष्टा तुरीपोऽअद्भुतऽ
 Tvashtar the wondrous, full of seed, Indrâgnî furtherers of weal, Dvipadâ metre, and a cow and vigorous bull give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭar, vigorous, wondrous, Indra-Agni, increasers of nourishment;  
+the dvipadā metre, faculty, like a bull, they placed [as his] vigor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Tvaṣṭṛ, the wondrous swift one; Indra-and-Agni, who increase nourishment;  
+the Dvipadā metre, faculty, like a bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 त्वष्टा॑ तु॒रीपो॒ऽअद्भु॑तऽइन्द्रा॒ग्नी पु॑ष्टि॒वर्ध॑ना।  
@@ -112,6 +124,11 @@ Tvashtar the wondrous, full of seed, Indrâgnî furtherers of weal, Dvipadâ met
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 त्वष्टा नवमप्रयाजदेवः । स च तुरीपः शीघ्रप्राप्तिमान् अद्भुत आश्चर्यविग्रहः तादृशो यो देवः, यौ च पुष्टिवर्धना पुष्टिं वर्धयितरौ ताविन्द्राग्नी, यदपि द्विपात् पादद्वयोपेतं छन्दः, उक्षा गौर्न सेचनसमर्थो गौरपि यो विद्यते, ते देवा इह कर्मणि इन्द्रियं वयश्च दधुः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_4]** So corr. Ch पुष्टिर्वर्धना (Thus emended; Ch reads पुष्टिर्वर्धना)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

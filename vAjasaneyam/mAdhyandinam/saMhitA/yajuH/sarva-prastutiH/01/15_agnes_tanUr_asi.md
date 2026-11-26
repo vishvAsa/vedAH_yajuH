@@ -20,6 +20,11 @@ Body of Agni art thou, the releaser of speech.
 Thou art the body of Agni, loostener of speech.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the body of Agni, the release of speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नेस्त॒नूर॑सि वा॒चो वि॒सर्ज॑नम्

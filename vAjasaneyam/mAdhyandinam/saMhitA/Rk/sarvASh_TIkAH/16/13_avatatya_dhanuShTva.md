@@ -16,6 +16,12 @@ Destroying the points of thine arrows,
 Be gentle and kindly to us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having unstrung your bow, O thousand-eyed one of a hundred quivers,  
+having blunted the points of your arrowheads, become auspicious and of good cheer to us.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒व॒तत्य॒ धनु॒ष्ट्वँ सह॑स्राक्ष॒ शते॑षुधे।  
@@ -26,6 +32,12 @@ Be gentle and kindly to us.
 
 अ॒व॒तत्य॒ धनु॒स्त्वँ सह॑स्राक्ष॒ शते॑षुधे ।   
 नि॒शीर्य॑ श॒ल्याना॒म्मुखा॑ शि॒वो न॑स्सु॒मना॑ भव ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अवत᳓त्य ध᳓नुस्त्व᳓ स᳓हस्राक्ष श᳓तेषुधे।  
+निशी᳓र्य शल्या᳓नां मु᳓खँ शिवो᳓ नस्सुम᳓ना भव
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -41,6 +53,22 @@ Be gentle and kindly to us.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒व॒तत्येत्य॑व-तत्य॑ । धनुः॑ । त्वम् । सह॑स्रा॒क्षेति॒ सह॑स्र-अ॒क्ष॒ । शते॑षुध॒ इति॒ शत॑-इ॒षु॒धे॒ ॥ नि॒शीर्येति॑ नि-शीर्य॑ । श॒ल्याना॑म् । मुखा॑ । शि॒वः । नः॒ । सु॒मना॒ इति॑ सु-मनाः॑ । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अव-त᳓त्य (*MS*-2, *TS*-1, *VS-M*-1, *VS-K*-1)
+- ध᳓नुः (*MS*-11, *TS*-11/14, *RV*-6, *TB*-1, *AV*-6/7, *SB-M*-7/15, *SB-K*-7/16, *VS-M*-3, *VS-K*-2)
+- त्व᳓ (*MS*-232, *TS*-169, *RV*-724, *TB*-2, *TK*-11, *AV*-360, *SB-M*-1, *SB-K*-266, *VS-M*-119, *VS-K*-94)
+- स᳓हस्राक्ष (*MS*-1, *TS*-2)
+- श᳓तेषुधे (*MS*-1, *TS*-1)
+- नि-शी᳓र्य (*TS*-1, *VS-M*-1, *VS-K*-1)
+- शल्या᳓नाम् (*MS*-1/6, *TS*-1/2, *RV*-0/1, *AV*-0/5, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-1, *VS-K*-1)
+- मु᳓खम् (*MS*-12/27, *TS*-13/18, *RV*-3/5, *TB*-17/26, *TK*-1, *AV*-22/33, *SB-M*-46/82, *SB-K*-47/78, *VS-M*-8/11, *VS-K*-3/7)
+- शिवः᳓ (*MS*-23/68, *TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-19/49)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- सु-म᳓ना (*MS*-4/7, *TS*-6/10, *RV*-27, *TB*-1/2, *AV*-1, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-9, *VS-K*-4/8)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
 </details>
 
 <details><summary>उवट-टीका</summary>

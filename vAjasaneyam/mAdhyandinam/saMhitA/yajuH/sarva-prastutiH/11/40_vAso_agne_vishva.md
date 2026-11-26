@@ -2,28 +2,44 @@
 title = "४० वासो अग्ने विश्व"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓सो अग्ने विश्व᳓-रूपँ सं᳓व्ययस्व विभा-वसो ॥४० ॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 O Agni, Rich in Splendour, robe thyself in many-hued attire.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, clad yourself in a garment of every form, O radiant one!"
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+put on the garment of all forms, o Agni, radiant with light.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वासो॑ऽअग्ने वि॒श्वरू॑पँ॒ संव्य॑यस्व विभावसो ॥४० ॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 वासः॑। अ॒ग्ने॒। वि॒श्वरू॑प॒मिति॑ वि॒श्वऽरू॑पम्। सम्। व्य॒य॒स्व॒। वि॒भा॒व॒सो॒ इति॑ विभाऽवसो। ४०।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 वासः॑। अ॒ग्ने॒। वि॒श्वरू॑प॒मिति॑ वि॒श्वऽरू॑पम्। सम्। व्य॒य॒स्व॒। वि॒भा॒व॒सो॒ इति॑ विभाऽवसो। ३।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 वासो अग्ने।
@@ -36,6 +52,7 @@ O Agni, Rich in Splendour, robe thyself in many-hued attire.
 
 ‘व्येञ् संवरणे’ परिधत्स्व॥ ४०॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 उद्गृहीतात्कृष्णाजिनपुष्करपर्णयोरन्तान्मुञ्जयोक्त्रेण बध्नात्युत्तरार्धेनेति सूत्रार्थः।
@@ -44,6 +61,7 @@ O Agni, Rich in Splendour, robe thyself in many-hued attire.
 
 ‘व्येञ् संवरणे’ अस्य रूपम्॥ ४०॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 66 कात्यायनः त्रिवृता मुञ्जयोक्त्रेणोपनह्यति वासो अग्न इति ” ( काश्रौ १६०३०५ ) इति ।
@@ -57,6 +75,7 @@ O Agni, Rich in Splendour, robe thyself in many-hued attire.
 विभा दीप्तिर् एव वसु धनं यस्यासौ विभावसुस्तादृश हे 'अने, 'विश्व-रूप बहु-प्रकार-रूपं
 "वासः कृष्णाजिनरूपं वस्त्रं 'संव्ययस्व सम्यक् परिधानं कुरु ॥३॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 आग्नेय्य् अनुष्टुप् ।

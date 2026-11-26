@@ -8,6 +8,12 @@ title = "४५ वनस्पतिरवसृष्टो न"
 Let the divine Stake, like an Immolator, bind, as one ordered, to himself the victim, And, filling Indra's belly with ablations, season the sacrifice with sweets and butter.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lord of the forest, as if released from fetters, anointing of his own accord, like a divine slaughterer,  
+filling Indra's belly with oblations, shall sweeten the oblation with honey and ghee!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 वन॒स्पति॒रव॑सृष्टो॒ न पाशै॒स्त्मन्या॑ सम॒ञ्जञ्छ॑मि॒ता न दे॒वः।  
@@ -28,6 +34,12 @@ Let the divine Stake, like an Immolator, bind, as one ordered, to himself the vi
 स्वदा॑ति ह॒व्यम्मधु॑ना घृ॒तेन॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+व᳓नस्प᳓तिर् अ᳓वसृष्टो न᳓ पा᳓शैस् त्म᳓न्या समञ्ज᳓ञ् शमिता᳓ न᳓ देवः᳓  
+इ᳓न्द्रस्य हव्यै᳓र् जठ᳓रं पृणानः᳓ स्व᳓दातु हव्यं᳓ म᳓धुना घृते᳓न
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 वन॒स्पतिः॑। अव॑सृष्ट॒ इत्य॒वऽसृ॑ष्टः। न। पाशैः॑। त्मन्या॑। स॒म॒ञ्जन्निति॑ सम्ऽअ॒ञ्जन्। श॒मि॒ता। न। दे॒वः। इन्द्र॑स्य। ह॒व्यैः। ज॒ठर॑म्। पृ॒णा॒नः। स्वदा॑ति। य॒ज्ञम्। मधु॑ना। घृ॒तेन॑। ४५।
@@ -41,6 +53,28 @@ Let the divine Stake, like an Immolator, bind, as one ordered, to himself the vi
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 व᳓नस्प᳓तिः । अ᳓व-सृष्टः । न᳓ । पा᳓शैः । त्म᳓न्या । सम्-अञ्ज᳓न् । शमिता᳓ । न᳓ । देवः᳓ । इ᳓न्द्रस्य । हव्यैः᳓ । जठ᳓रम् । पृणानः᳓ । स्व᳓दाति । हव्य᳓म् । म᳓धुना । घृते᳓न ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- व᳓नस्प᳓तिः (*TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-14/23, *KS*-2)
+- अ᳓व-सृष्टः (*TS*-0/1, *RV*-1, *TB*-2, *AV*-0/1, *VS-K*-1, *KS*-0/1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- पा᳓शैः (*TS*-3/26, *RV*-0/10, *TB*-2/12, *TK*-0/1, *AV*-5/96, *SB-M*-3/16, *SB-K*-3/14, *VS-M*-4/9, *VS-K*-1/8, *KS*-1/13)
+- त्म᳓न्या (*TS*-1, *RV*-2, *TB*-2, *AV*-1, *VS-M*-3, *VS-K*-2, *KS*-1)
+- सम्-अञ्ज᳓न् (*TS*-1, *RV*-4, *TB*-5, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-8, *KS*-4)
+- शमिता᳓ (*TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-6/11, *KS*-4/5)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- हव्यैः᳓ (*TS*-0/50, *RV*-10/81, *TB*-2/21, *AV*-0/25, *SB-M*-0/22, *SB-K*-0/24, *VS-M*-1/18, *VS-K*-1/19, *KS*-1/24)
+- जठ᳓रम् (*TS*-1/3, *RV*-6/30, *TB*-2, *AV*-3/8, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/4, *VS-K*-1/3, *KS*-0/1)
+- पृणानः᳓ (*TB*-1, *VS-M*-1, *VS-K*-1)
+- स्व᳓ (*TS*-20, *RV*-43, *TB*-30, *TK*-4, *AV*-1, *SB-M*-112, *SB-K*-93, *VS-M*-7, *VS-K*-13, *KS*-20)
+- दातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- हव्य᳓म् (*TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-13/19, *KS*-15/24)
+- म᳓धुना (*TS*-4/44, *RV*-16/153, *TB*-10/46, *TK*-0/3, *AV*-17/92, *SB-M*-6/98, *SB-K*-5/86, *VS-M*-6/70, *VS-K*-6/59, *KS*-3/24)
+- घृते᳓न (*TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-21, *KS*-14)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -147,6 +181,13 @@ Let the divine Stake, like an Immolator, bind, as one ordered, to himself the vi
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 दशमप्रयाजदेवो वनस्पतिः । स च मधुना मधुरेण घृतेन हव्यं स्वदाति स्वादूकरोति । तत्र दृष्टान्तः - पाशैरवसृष्टो न यथा कारागृहे बद्धः पुरुषः पाशैर्मुक्तस्सत् स्वगृहे गत्वा विस्रम्भेण व्यापारं करोति तद्वत् । किं कुर्वन्? त्मन्या समञ्जन् आत्मनैव सम्यग्गच्छन् स्वतन्त्रस्सन्नित्यर्थः । स्वातन्त्र्ये दृष्टान्तः - शमिता देवो न यथा पशोर्विशसनकर्ता विशसने स्वतन्त्रस्तद्वत् । पुनः किं कुर्वत्? हव्यैरिन्द्रस्य जठरं उदरं पृणानःपूरयन् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[573_3]** So corr. Ch स्त्वन्या समञ्जश्छमिता; cf. VS 20, 45. (Thus emended; Ch reads स्त्वन्या समञ्जश्छमिता; cf. VS 20, 45)
+
+- **[573_4]** So auch VS 20, 45; dagegen MS 3, 11, 1 स्वदातु (Thus also VS 20, 45; on the other hand MS 3, 11, 1 स्वदातु)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

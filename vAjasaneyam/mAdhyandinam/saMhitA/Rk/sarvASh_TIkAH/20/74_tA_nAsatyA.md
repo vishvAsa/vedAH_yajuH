@@ -8,6 +8,12 @@ title = "७४ ता नासत्या"
 May those Nâsatyas, fair of form, the Men who ride on paths of gold, Oblation-rich Sarasvatî, thou, Indra! help us in our rites.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two Nāsatyas, well-formed, traveling on golden paths, the two men,  
+and Sarasvatī, rich in oblations: protect us, Indra, in our rites!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ता नास॑त्या सु॒पेश॑सा॒ हिर॑ण्यवर्त्तनी॒ नरा॑।  
@@ -149,6 +155,11 @@ May those Nâsatyas, fair of form, the Men who ride on paths of gold, Oblation-r
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 ता नासत्या तावश्विनौ सुपेशसा सुरूपौ हिरण्यवर्तनी आभरणैस्सह वर्तमानौ नरा जगद्व्यवहारस्य नेतारौ । सरस्वती चात्र हविष्मती हविर्युक्ता । हे इन्द्र! त्वं च सरस्वती च अश्विनौ च इत्येते यूयं अनुष्ठीयमानेष्वेतेषु कर्मसु नोऽस्मान् अवत रक्षत ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_1]** So VS 20, 74 ती᳓न्द्र; dagegen MS 3, 11, 4 ती᳓न्द्रं (Thus VS 20, 74 ती᳓न्द्र; on the other hand MS 3, 11, 4 ती᳓न्द्रं)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

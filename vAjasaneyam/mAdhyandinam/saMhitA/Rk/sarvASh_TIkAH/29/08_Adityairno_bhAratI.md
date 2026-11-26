@@ -13,6 +13,12 @@ Bhâratî with Âdityas love our worship! Sarasvatî with Rudras be our helper, 
 May Bharati with the Adityas love our sacrifice; Sarasvati with the Rudras hath holpen us, And Ida invoked with the Vasus in unison; Our sacrifice, O goddesses, place ye with the immortals.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Bhāratī with the Ādityas desire our sacrifice; may Sarasvatī with the Rudras help us!  
+May Iḍā, invoked, in concord with the Vasus, [aid us]! O goddesses, place our sacrifice among the immortals!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒दि॒त्यैर्नो॒ भार॑ती वष्टु य॒ज्ञँ सर॑स्वती स॒ह रु॒द्रैर्न॑ऽआवीत्।  
@@ -146,6 +152,11 @@ May Bharati with the Adityas love our sacrifice; Sarasvati with the Rudras hath 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आदित्यैस्सह नः अस्माकं यज्ञं भारती देवी वष्टु कामयताम् । वश कान्तौ । रुद्रैस्सह सरस्वती देवी नः अस्मान् आवीत् अवतु । अस्माकं वा यज्ञमवतु । छान्दसो लुङ् । इडा देवी अस्माभिः आहूता वसुभिः सजोषाः समानप्रीतिः अस्माकमवत्वित्येव । किं बहुना, देवी देव्यः यूयं तिस्रोपि इडा सरस्वती भरती च नः अस्माकं यज्ञं अमृतेषु अविद्यमानमरणेषु देवेषु धत्त स्थापयत । 'नङो जरमर' इत्युत्तरपदाद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_5]** So corr. Ch मह; vgl. MS 3, 16, 2; TS 5, 1, 11, 3; VS 29, 8. (Thus emended; Ch reads मह; cf. MS 3, 16, 2; TS 5, 1, 11, 3; VS 29, 8)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

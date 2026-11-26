@@ -16,6 +16,12 @@ All that be ghee for thee;
 Accept it, O youngest one.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What the ant eats, what the ant crawls over,  
+may all that be clarified butter for you; relish that, O youngest one!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदत्त्यु॑प॒जिह्वि॑का॒ यद्व॒म्रोऽअ॑ति॒सर्प॑ति।  

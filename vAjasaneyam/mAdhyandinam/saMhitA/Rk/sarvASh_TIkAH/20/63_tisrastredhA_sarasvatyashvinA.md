@@ -8,6 +8,12 @@ title = "६३ तिस्रस्त्रेधा सरस्वत्य
 The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladden Indra, poured strong Soma with the foaming juice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three threefold goddesses—Sarasvatī, the Aśvins, Bhāratī, and Iḍā—  
+pressed strong Soma, the exhilarating drink, with the foaming liquor for Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ति॒स्रस्त्रे॒धा सर॑स्वत्य॒श्विना॒ भार॒तीडा॑।  
@@ -28,6 +34,12 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 इन्द्रा॑य सुषवु॒र्मद॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तिस्रस्त्रेधा सरस्वत्यश्विना भारतीडा।  
+तीव्रं परिस्रुता सोममिन्द्रायासुषवुर्मदम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ति॒स्रः। त्रे॒धा। सर॑स्वती। अ॒श्विना॑। भार॑ती। इडा॑। ती॒व्रम्। प॒रि॒स्रुतेति॑ परि॒ऽस्रुता॑। सोम॑म्। इन्द्रा॑य। सु॒षु॒वुः॒। सु॒सु॒वु॒रिति॑ सुसुवुः। मद॑म्। ६३।
@@ -41,6 +53,23 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तिस्रः᳓ । त्रेधा᳓ । स᳓रस्वती । अश्वि᳓ना । भा᳓रती । इ᳓डा । तीव्र᳓म् । परि-स्रु᳓ता । सो᳓मम् । इ᳓न्द्राय । सुष । वुः । म᳓दम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- त्रेधा᳓ (*MS*-25, *TS*-12, *RV*-10, *TB*-10, *AV*-14, *SB-M*-25, *SB-K*-42, *VS-M*-4, *VS-K*-4)
+- स᳓रस्वति (*MS*-10/119, *TS*-3/43, *RV*-7/52, *TB*-6/86, *AV*-4/26, *SB-M*-7/65, *SB-K*-9/65, *VS-M*-0/95, *VS-K*-2/92)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- भा᳓रती (*MS*-8, *TS*-2, *RV*-8/10, *TB*-11/13, *AV*-3, *SB-K*-1, *VS-M*-9/10, *VS-K*-9/10)
+- इ᳓डा (*Whitney*, *MS*-33/72, *TS*-17/45, *RV*-18/53, *TB*-15/30, *AV*-5/10, *SB-M*-34/66, *SB-K*-25/51, *VS-M*-10/26, *VS-K*-10/42)
+- तीव्र᳓म् (*MS*-1/6, *TS*-1/5, *RV*-5/21, *TB*-1/3, *AV*-0/7, *SB-M*-0/2, *SB-K*-1/3, *VS-K*-1)
+- परि-स्रु᳓ता (*MS*-18/22, *TS*-0/1, *RV*-0/3, *TB*-17/21, *AV*-0/1, *SB-M*-2/19, *SB-K*-1/16, *VS-M*-18/23, *VS-K*-9/14)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- इ᳓न्द्रायास् (*MW*, *MS*-0/714, *TS*-0/498, *RV*-0/1356, *TB*-0/369, *TK*-0/8, *AV*-0/606, *SB-M*-0/535, *SB-K*-0/509, *VS-M*-0/392, *VS-K*-0/381)
+- उष᳓ (*MW*, *Macdonell*, *MS*-4, *TS*-3, *RV*-54, *TB*-4, *AV*-12, *SB-M*-4/9, *SB-K*-3/10, *VS-M*-2, *VS-K*-1)
+- वुः᳓ (*MS*-0/35, *TS*-0/844, *RV*-0/55, *TB*-0/16, *TK*-0/6, *AV*-0/7, *SB-M*-0/29, *SB-K*-0/50, *VS-M*-0/1, *VS-K*-0/1)
+- म᳓दम् (*MS*-3/15, *TS*-1/9, *RV*-23/273, *TB*-3/8, *AV*-6/37, *SB-M*-0/10, *SB-K*-0/10, *VS-M*-1/11, *VS-K*-1/10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -124,6 +153,13 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 हे अश्विनौ! सरस्वती भारती इडा इत्येतास्तिस्रो नवमप्रयाजदेवताः त्रेधा लोकत्रयरूपेण वर्तमानाः परिस्रुता परिस्रवन्त्या सुरया सहितं तीव्रं तीव्रगन्धोपेतं सोमं सोमसदृशं मदं मदकरं हविः इन्द्राय सुषवुः इन्द्रार्थं संपादितवत्यः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_1]** So corr. Ch तीड (Thus emended; Ch reads तीड)
+
+- **[575_2]** So corr. Ch यासुषवर्म°; VS 20, 63 य सुषुवुर्म᳓° ; MS 3, 11, 3 या᳓सुषुवुर्म᳓° ; aber Padap. richtiger इन्द्राय। सुषुवुः। (Thus emended; Ch यासुषवर्म°; VS 20, 63 य सुषुवुर्म᳓°; MS 3, 11, 3 या᳓सुषुवुर्म᳓°; but Padapāṭha more correctly इन्द्राय। सुषुवुः।)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

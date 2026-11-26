@@ -8,6 +8,12 @@ title = "६२ पातं नोऽअश्विना"
 Guard us, O Asvins, through the day, guards us by night, Sarasvatî. Celestial Hotars, Leeches! both guard Indra when the juice is pressed.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protect us, O Aśvins, by day; protect us, O Sarasvati, by night;  
+you two divine Hotṛs, physicians, protect Indra together at the pressing!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 पा॒तं नो॑ऽअश्विना॒ दिवा॑ पा॒हि नक्तँ॑ सरस्वति।  
@@ -104,6 +110,11 @@ Guard us, O Asvins, through the day, guards us by night, Sarasvatî. Celestial H
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 हे अश्विनौ! दिवा नाऽस्मान्पातम् । हे सरस्वति! नक्तमस्मान्पाहि । दैव्यहोतृशब्दवाच्यौ हे अष्टमप्रयाजदेवौ! चिकित्सकौ सचा परस्परं संयुक्तौ सुते प्रवृतेऽस्मिन्कर्मणि इन्द्रं पातम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_7]** So corr. Ch सरस्वती; cf. MS 3, 11, 3; VS 20, 62. (Thus emended; Ch reads सरस्वती; cf. MS 3, 11, 3; VS 20, 62)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

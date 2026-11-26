@@ -16,6 +16,12 @@ Within her thou liest, most auspicious,
 As on the lap of a mother.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having sat again in your seat, in the waters and the earth, O Agni,  
+you lie as if in the lap of a mother, inside her, most auspicious.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 पुन॑रा॒सद्य॒ सद॑नम॒पश्च॑ पृथि॒वीम॑ग्ने।  

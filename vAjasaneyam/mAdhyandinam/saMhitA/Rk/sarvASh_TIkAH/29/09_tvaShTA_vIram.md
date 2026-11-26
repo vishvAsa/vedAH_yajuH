@@ -13,6 +13,12 @@ The God-devoted son Tvashtar produces: from Tvashtar springs to life your fleet-
 Tvastr begot the hero with love for the gods; From Tvastr is born the courser, the swift steed [3]; Tvastr produced all this world; The maker of much do thou offer to, as Hotr.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭṛ generated a hero desiring the gods; from Tvaṣṭṛ was born the courser, the swift horse;  
+Tvaṣṭṛ generated all these beings; sacrifice here, O Hotṛ, to the maker of much!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 त्वष्टा॑ वी॒रं दे॒वका॑मं जजान॒ त्वष्टु॒रर्वा॑ जायतऽआ॒शुरश्वः॑।  
@@ -23,6 +29,12 @@ Tvastr begot the hero with love for the gods; From Tvastr is born the courser, t
 
 त्वष्टा॑ वी॒रन् दे॒वका॑मञ् जजान॒ , त्वष्टु॒रर्वा॑ जायत आ॒शुरश्वः॑ । [58]  
 त्वष्टे॒दव्ँ विश्व॒म् भुव॑नञ् जजान , ब॒होᳵ क॒र्तार॑मि॒ह य॑क्षि होतः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓ष्टा वीरं᳓ देव᳓कामं जजान त्व᳓ष्टुर् अ᳓र्वा जायत आशु᳓र् अ᳓श्वः  
+त्व᳓ष्टेमा᳓ वि᳓श्वा भु᳓वना जजान बहोः᳓ कर्ता᳓रम् इह᳓ यक्षि होतः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -38,6 +50,29 @@ Tvastr begot the hero with love for the gods; From Tvastr is born the courser, t
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वष्टा॑ । वी॒रम् । दे॒वका॑म॒मिति॑ दे॒व-का॒म॒म् । ज॒जा॒न॒ । त्वष्टुः॑ । अर्वा॑ । जा॒य॒ते॒ । आ॒शुः । अश्वः॑ ॥ त्वष्टा॑ । इ॒दम् । विश्व॑म् । भुव॑नम् । ज॒जा॒न॒ । ब॒होः । क॒र्तार॑म् । इ॒ह । य॒क्षि॒ । हो॒तः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-15, *TK*-0/1, *AV*-29/30, *SB-M*-28, *SB-K*-30, *VS-M*-16/17, *VS-K*-13, *KS*-7)
+- वीर᳓म् (*TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17, *KS*-3/9)
+- देव᳓-कामम् (*TS*-1/3, *RV*-0/6, *AV*-0/3, *VS-M*-1, *VS-K*-1)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
+- त्व᳓ष्टुः (*TS*-9/54, *RV*-8/59, *TB*-2/29, *AV*-5/37, *SB-M*-7/45, *SB-K*-6/44, *VS-M*-6/34, *VS-K*-4/30, *KS*-2/10)
+- अ᳓र्वा (*TS*-12/13, *RV*-21/22, *TB*-6, *AV*-2, *SB-M*-5/6, *SB-K*-3, *VS-M*-4/5, *VS-K*-3/5, *KS*-2)
+- जायते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-66, *RV*-17, *TB*-42, *TK*-2, *AV*-10, *SB-M*-131, *SB-K*-124, *VS-M*-7, *VS-K*-6, *KS*-10)
+- आशुः᳓ (*TS*-8/15, *RV*-8/76, *TB*-4/8, *TK*-1/2, *AV*-3/18, *SB-M*-9/13, *SB-K*-8/13, *VS-M*-7/11, *VS-K*-7/11, *KS*-2/5)
+- अ᳓श्वः (*TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-M*-110/262, *SB-K*-111/255, *VS-M*-9/56, *VS-K*-8/52, *KS*-6/26)
+- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-15, *TK*-0/1, *AV*-29/30, *SB-M*-28, *SB-K*-30, *VS-M*-16/17, *VS-K*-13, *KS*-7)
+- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301, *KS*-20/319)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224, *KS*-19/118)
+- भु᳓वना (*TS*-6/45, *RV*-37/181, *TB*-4/36, *TK*-0/6, *AV*-13/78, *SB-M*-1/31, *SB-K*-3/29, *VS-M*-3/45, *VS-K*-3/44, *KS*-3/19)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
+- बहोः᳓ (*TS*-1/21, *RV*-1/27, *TB*-10/28, *AV*-0/35, *SB-M*-1/59, *SB-K*-1/58, *VS-M*-1/6, *VS-K*-1/8, *KS*-0/4)
+- कर्ता᳓रम् (*TS*-1/2, *RV*-0/7, *TB*-0/1, *AV*-4/7, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-1, *VS-K*-1/3, *KS*-0/1)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91, *KS*-43)
+- यक्षि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-20, *TB*-3, *AV*-2, *SB-M*-3, *SB-K*-2, *VS-M*-5, *VS-K*-7, *KS*-4)
+- होतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-10, *RV*-18, *TB*-3, *AV*-2, *SB-M*-7, *SB-K*-1, *VS-M*-3, *VS-K*-4, *KS*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>

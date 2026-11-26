@@ -8,6 +8,12 @@ title = "१७ उषे यह्वी"
 The two young Darns of lovely form, the deathless Universal Gods, The Trishtup metre, here, a bull in his sixth year, give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two young and well-adorned dawns, the immortal All-Gods;  
+the Triṣṭubh metre, faculty here, the six-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उ॒षे य॒ह्वी सु॒पेश॑सा॒ विश्वे॑ दे॒वाऽअम॑र्त्याः।  
@@ -20,6 +26,12 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 विश्वे॑ दे॒वा अम॑र्त्याः ।   
 त्रि॒ष्टुप्छन्द॑ इन्द्रि॒यम् ।
 प॒ष्ठ॒वाद्गौर्वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उषे यह्वी सुपेशसा विश्वे देवा अमर्त्याः।  
+त्रिष्टुप्छन्द इहेन्द्रियं पष्ठवाङ्गौर्वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +47,21 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उषे᳓ । यह्वी᳓ । सु-पे᳓शसा । वि᳓श्वे । देवाः᳓ । अ᳓मर्त्याः । त्रि-ष्टु᳓प् । छं᳓दः । इन्द्रिय᳓म् । पष्ठ-वा᳓त् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उषे᳓ (*MS*-1/6, *TS*-0/3, *RV*-0/54, *TB*-3/8, *AV*-0/12, *SB-M*-0/4, *SB-K*-0/3, *VS-M*-3/7, *VS-K*-5/7)
+- यह्वी᳓ (*MS*-1/2, *TS*-1, *RV*-7/21, *TB*-1, *VS-M*-1, *VS-K*-1)
+- सु-पे᳓शसा (*MS*-6/10, *TS*-0/1, *RV*-5/18, *TB*-4/6, *AV*-0/2, *VS-M*-6, *VS-K*-6)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अ᳓मर्त्याः (*MS*-1/12, *TS*-0/7, *RV*-3/56, *TB*-1/7, *TK*-0/1, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/4, *VS-K*-0/7)
+- त्रि-ष्टुप्छंदः᳓ (समासस्य पा॰ ६.१.२२३)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- प᳓ष्ठवाङ्गौर्वयो (अनाम्नातम् (अनुमानम्))
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -130,6 +157,11 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 उषे षष्ठप्रयाजदेवते । यह्वी प्रयतमाने । सुपेशसा शोभमानरूपे । ईदृश्यौ ये देव्यौ, ये चामर्त्या मरणधर्मरहिता विश्वे देवाः, यच्च त्रिष्टुप्छन्दः, योऽपि संवत्सरचतुष्टयोपेतो गौः एते देवा इन्द्रियं वयश्च दधुः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_3]** So corr. Ch उषी; cf. MS 3, 11, 11; VS 21, 17. (Thus emended; Ch reads उषी; cf. MS 3, 11, 11; VS 21, 17)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

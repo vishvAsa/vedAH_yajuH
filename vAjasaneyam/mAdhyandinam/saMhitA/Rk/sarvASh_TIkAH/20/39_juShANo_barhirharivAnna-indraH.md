@@ -8,6 +8,18 @@ title = "३९ जुषाणो बर्हिर्हरिवान्न
 May Indra, Lord of Bays, sit by direction eastward on earth, accepting our oblation, And sacred grass, fair, far-spread, widely-stretching, anointed by Âdityas and by Vasus.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking pleasure in the barhis, let our Indra possessing bay steeds sit facing eastward by direction of the earth,  
+far-extending, expanding, comfortable, anointed by the Ādityas, together with the Vasus!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Pleased with our sacrificial grass, may Indra, accompanied by his bays, sit eastward in the direction of the earth,  
+widely extended, stretching out, pleasant, anointed by the Ādityas, in concord with the Vasus!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 जु॒षा॒णो ब॒र्हिर्हरि॑वान्न॒ऽइन्द्रः॑ प्रा॒चीनँ॑ सीदत् प्र॒दिशा॑ पृथि॒व्याः।  
@@ -20,6 +32,12 @@ May Indra, Lord of Bays, sit by direction eastward on earth, accepting our oblat
 प्रा॒चीनँ॑ सीदत्प्र॒दिशा॑ पृथि॒व्याः ।   
 उ॒रु॒व्यचा॒ᳶ प्रथ॑मानँ स्यो॒नम् ।  
 आ॒दि॒त्यैर॒क्तव्ँवसु॑भिस्स॒जोषाः॑ ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+जुषाणो᳓ बर्हि᳓र् ह᳓रिवान् ना इ᳓न्द्रः प्राची᳓नँ सीदात् प्रदि᳓शा पृथिव्याः᳓  
+उरुप्र᳓थाः प्र᳓थमानँ स्योन᳓म् आदित्यै᳓र् अक्तँ᳓ व᳓सुभिः सजो᳓षाः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +53,26 @@ May Indra, Lord of Bays, sit by direction eastward on earth, accepting our oblat
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 जुषाणः᳓ । बर्हिः᳓ । ह᳓रि-वान् । नः । इ᳓न्द्रः । प्राची᳓नम् । सीदत् । प्र-दि᳓शा । पृथिव्याः᳓ । उरु-व्य᳓चाः । प्र᳓थमानम् । स्योन᳓म् । आदित्यैः᳓ । अक्त᳓म् । व᳓सुभिः । सजो᳓षाः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- जुषाणः᳓ (*TS*-9/14, *RV*-25/28, *TB*-10/15, *TK*-2/3, *AV*-9/14, *SB-M*-10/12, *SB-K*-9/14, *VS-M*-9/12, *VS-K*-8/11, *KS*-3/4)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-19/39, *KS*-11/13)
+- ह᳓रि-वान् (*TS*-0/2, *RV*-4/5, *TB*-2, *AV*-2, *SB-M*-0/2, *VS-M*-2, *VS-K*-2, *KS*-0/4)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- प्राची᳓नम् (*TS*-12/14, *RV*-7/9, *TB*-14, *AV*-3, *SB-M*-8, *SB-K*-3, *VS-M*-4, *VS-K*-4, *KS*-5)
+- सीदात् (मूल-पाठः)
+- प्र-दि᳓शा (*TS*-1/15, *RV*-4/19, *TB*-3/6, *AV*-3/52, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-4/16, *VS-K*-4/16, *KS*-2/9)
+- पृथिव्याः᳓ (*TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-45/49, *KS*-20/21)
+- उरु-प्र᳓थाः (*VS-M*-1, *VS-K*-1/2)
+- प्र᳓थमानम् (*TS*-1, *TB*-2, *AV*-0/1, *VS-M*-2/3, *VS-K*-1/2)
+- स्योन᳓म् (*TS*-5/14, *RV*-5/8, *TB*-7/10, *AV*-16/36, *SB-M*-1/10, *SB-K*-1/9, *VS-M*-6/10, *VS-K*-4/8, *KS*-3/6)
+- आदित्यैः᳓ (*TS*-8/195, *RV*-16/91, *TB*-5/131, *TK*-0/21, *AV*-9/71, *SB-M*-5/445, *SB-K*-5/438, *VS-M*-8/44, *VS-K*-6/58, *KS*-3/53)
+- अक्त᳓म् (*TS*-1/6, *RV*-4/9, *TB*-2, *TK*-0/1, *AV*-2, *SB-M*-2/8, *SB-K*-2/8, *VS-M*-2/4, *VS-K*-1/3)
+- व᳓सुभिः (*TS*-16/143, *RV*-27/311, *TB*-3/59, *TK*-0/2, *AV*-6/90, *SB-M*-8/113, *SB-K*-10/111, *VS-M*-11/76, *VS-K*-9/95, *KS*-5/41)
+- सजो᳓षाः (*TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-7, *KS*-9)
 </details>
 
 <details><summary>उवट-टीका</summary>

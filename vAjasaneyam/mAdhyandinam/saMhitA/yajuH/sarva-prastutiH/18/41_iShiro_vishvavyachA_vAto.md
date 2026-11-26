@@ -20,6 +20,11 @@ The Quick, All-reaching, Wind is the Gandharva.
 The swift, all-pervading wind is the Gandharva;
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the vigorous, all-encompassing Wind is the Gandharva;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒षि॒रो वि॒श्वव्य॑चा॒ वातो॑ गन्ध॒र्वः

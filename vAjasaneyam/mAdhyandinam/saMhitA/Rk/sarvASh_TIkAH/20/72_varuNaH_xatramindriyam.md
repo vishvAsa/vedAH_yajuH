@@ -8,6 +8,12 @@ title = "७२ वरुणः क्षत्रमिन्द्रियम
 Varuna giving sway and power, Savitar grace with happiness, The Good Protector giving strength with fame, obtained the sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Varuṇa [bestowing] dominion and faculty, Savitṛ with Bhaga [bestowing] fortune,  
+Sutrāman with fame [bestowing] power, they attained the sacrifice.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 व॑रुणः क्ष॒त्रमि॑न्द्रि॒यं भगे॑न सवि॒ता श्रिय॑म्।  
@@ -28,6 +34,12 @@ Varuna giving sway and power, Savitar grace with happiness, The Good Protector g
 दधा॑ना य॒ज्ञमा॑शत ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वरुणः क्षत्रमिन्द्रियं भगेन सविता श्रियम।  
+सुत्रामा यशसा बलं दधाना यज्ञमाशत
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 वरु॑णः। क्ष॒त्रम्। इ॒न्द्रि॒यम्। भगे॑न। स॒वि॒ता। श्रिय॑म्। सु॒त्रामेति॑ सु॒ऽत्रामा॑। यश॑सा। बल॑म्। दधा॑नाः। य॒ज्ञम्। आ॒श॒त॒। ७२।
@@ -41,6 +53,23 @@ Varuna giving sway and power, Savitar grace with happiness, The Good Protector g
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 व᳓रुणः । क्षत्र᳓म् । इन्द्रिय᳓म् । भ᳓गेन । सविता᳓ । श्रि᳓यम् । सु-त्रा᳓मा । य᳓शसा । ब᳓लम् । द᳓धाना । यज्ञ᳓म् । आशत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- भ᳓गेन (*MS*-2/33, *TS*-0/13, *RV*-0/115, *TB*-1/23, *TK*-0/1, *AV*-7/65, *SB-M*-0/23, *SB-K*-0/17, *VS-M*-1/26, *VS-K*-1/26)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- श्रि᳓ (*MS*-0/9, *TS*-0/9, *RV*-0/2, *TB*-0/19, *TK*-0/2, *AV*-0/2, *SB-M*-1/71, *SB-K*-1/66, *VS-M*-0/5, *VS-K*-1/6)
+- यम᳓ (*Whitney*, *MS*-22, *TS*-4, *RV*-21, *TB*-1, *AV*-1, *SB-M*-17, *SB-K*-1, *VS-M*-5, *VS-K*-3)
+- सु-त्रा᳓मा (*MS*-10/17, *TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20)
+- य᳓शसा (*MS*-6/24, *TS*-2/14, *RV*-0/24, *TB*-2/36, *TK*-3/9, *AV*-15/49, *SB-M*-18/104, *SB-K*-19/106, *VS-M*-2/14, *VS-K*-2/15)
+- ब᳓लम् (*MS*-22/32, *TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21)
+- द᳓धाना (*MS*-8/18, *TS*-2/7, *RV*-9/77, *TB*-4/8, *AV*-12/18, *SB-M*-1, *SB-K*-1, *VS-M*-1/8, *VS-K*-1/8)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- आशत (समानान्तर-पाठः (VS-K), *MS*-1, *RV*-22, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>

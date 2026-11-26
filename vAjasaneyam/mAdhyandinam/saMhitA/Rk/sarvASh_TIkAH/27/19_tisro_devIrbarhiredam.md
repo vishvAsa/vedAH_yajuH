@@ -14,6 +14,12 @@ May the three goddesses sit on this strew,
 Ida, Sarasvati [2], Bharati, the great, being sung.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the three goddesses sit on this sacrificial grass: Iḍā, Sarasvatī, Bhāratī,  
+the great ones being praised.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ति॒स्रो दे॒वीर्ब॒र्हिरेदँ स॑द॒न्त्विडा॒ सर॑स्वती॒ भार॑ती।  
@@ -32,6 +38,11 @@ Ida, Sarasvati [2], Bharati, the great, being sung.
 म॒ही गृ॑णा॒ना ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तिस्रो देवीर्बर्हिरेदँ सदन्त्विडा सरस्वती भारती महीर्गृणानाः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ति॒स्रः। दे॒वीः। ब॒र्हिः। आ। इ॒दम्। स॒द॒न्तु॒। इडा॑। सर॑स्वती। भार॑ती। म॒ही। गृ॒णा॒ना। १९।
@@ -45,6 +56,21 @@ Ida, Sarasvati [2], Bharati, the great, being sung.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ति॒स्रः । दे॒वीः । ब॒र्हिः । एति॑ । इ॒दम् । स॒द॒न्तु॒ । इडा॑ । सर॑स्वती । भार॑ती ॥ म॒ही । गृ॒णा॒ना ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- बर्ह् (समानान्तर-पाठः (TS), *TB*-1)
+- इ᳓रा (*MW*, *MS*-1, *TS*-4, *RV*-1, *TB*-2/3, *TK*-2, *AV*-1/4, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-0/1)
+- इद᳓म् (*MW*, *MS*-231/1379, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/319, *VS-K*-64/301)
+- सदन्तु (*MS*-1, *TS*-1, *RV*-7, *TB*-2, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-3)
+- इ᳓डा (*Whitney*, *MS*-33/72, *TS*-17/45, *RV*-18/53, *TB*-15/30, *AV*-5/10, *SB-M*-34/66, *SB-K*-25/51, *VS-M*-10/26, *VS-K*-10/42)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- भा᳓रती (*MS*-8, *TS*-2, *RV*-8/10, *TB*-11/13, *AV*-3, *SB-K*-1, *VS-M*-9/10, *VS-K*-9/10)
+- महीः᳓ (*MS*-5/28, *TS*-2/24, *RV*-29/131, *TB*-3/8, *TK*-0/1, *AV*-10/47, *SB-M*-2/19, *SB-K*-2/19, *VS-M*-4/26, *VS-K*-3/27)
+- गृणानाः᳓ (*MS*-0/5, *TS*-1/2, *RV*-6/44, *AV*-0/5, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -115,6 +141,11 @@ Ida, Sarasvati [2], Bharati, the great, being sung.
 इडा सरस्वती भारतीत्यादिशब्दवाच्यास्तिस्रो देव्योऽ-ग्निमूर्तयो याः सन्ति ता इदं बर्हिरिमं यज्ञमासदन्तु ।  
 प्राप्नुवन्तु ।  
 तासां प्रत्येके विशेषणमाह—मही महती गृणाना यज्ञं प्रख्यापयन्ती ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[275_1]** Ch गृणानः.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

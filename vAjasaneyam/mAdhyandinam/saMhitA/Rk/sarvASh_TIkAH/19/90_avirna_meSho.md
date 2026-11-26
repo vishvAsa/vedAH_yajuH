@@ -8,6 +8,18 @@ title = "९० अविर्न मेषो"
 The sheep, the ram to give his nostril vigour. the immortal path of breath by both libations. By Indra-grains and sacrificial jujubes Sarasvatî produced through-breath and nose hairs.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a sheep, a ram in the nostril for virility, the immortal path of breath through the two cups;  
+Sarasvatī with upavāka-grains produced the out-breath, with badara-berries the nasal hairs, the barhis.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Like a sheep, a ram in the nose for virility, the immortal path of breath from two cups;  
+Sarasvatī brought forth the circulating breath with upavāka seeds, the nasal hairs with sacrificial grass, with jujubes.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अवि॒र्न मे॒षो न॒सि वी॒र्या᳖य प्रा॒णस्य॒ पन्था॑ऽअ॒मृतो॒ ग्रहा॑भ्याम्।  
@@ -28,6 +40,12 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 नस्या॑नि ब॒र्हिर्बद॑रैर्जजान ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓विर् न᳓ मेषो᳓ नसि᳓ वीर्या᳙य प्राण᳓स्य प᳓न्था अमृ᳓तं ग्र᳓हाभ्याम्  
+स᳓रस्वत्य् उपवा᳓कैर् व्यानं᳓ न᳓स्यानि बर्हि᳓र् ब᳓दरैर् जजान
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अविः॑। न। मे॒षः। न॒सि। वी॒र्या᳖य। प्रा॒णस्य॑। पन्थाः॑। अ॒मृतः॑। ग्रहा॑भ्याम्। सर॑स्वती। उ॒प॒वाकै॒रित्यु॑प॒ऽवाकैः॑। व्या॒नमिति॑ विऽआ॒नम्। नस्या॑नि। ब॒र्हिः। बद॑रैः। ज॒जा॒न॒। ९०।
@@ -41,6 +59,27 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓विः । न᳓ । मेषः᳓ । नसि᳓ । वीर्या᳙य । प्राण᳓स्य । प᳓न्थाः । अमृ᳓तः । ग्र᳓हाभ्याम् । स᳓रस्वति । उ᳓प । वा᳓कैः । व्यान᳓म् । नः᳓ । यानि । बर्हिः᳓ । ब᳓दरैः । जजान ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓विः (*TS*-4/19, *RV*-1/13, *TB*-2/8, *AV*-5/16, *SB-M*-10/34, *SB-K*-8/29, *VS-M*-4/6, *VS-K*-4/10, *KS*-0/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- मेषः᳓ (*TS*-2/6, *RV*-1/10, *TB*-4/10, *AV*-0/1, *SB-M*-6/12, *SB-K*-5/10, *VS-M*-4/14, *VS-K*-5/15, *KS*-2/6)
+- नसि᳓ (*TB*-2, *VS-M*-2, *VS-K*-1)
+- वीर्या᳙य (*TS*-3, *RV*-11, *TB*-6, *AV*-6, *SB-M*-5, *SB-K*-3, *VS-M*-3, *VS-K*-3, *KS*-2)
+- प्राण᳓स्य (*TS*-1/157, *RV*-0/5, *TB*-1/90, *TK*-0/5, *AV*-1/132, *SB-M*-21/1145, *SB-K*-22/1073, *VS-M*-1/42, *VS-K*-1/36, *KS*-0/70)
+- प᳓न्थाः (*TS*-8/72, *RV*-17/149, *TB*-3/22, *AV*-4/76, *SB-M*-7/46, *SB-K*-8/52, *VS-M*-3/38, *VS-K*-3/35, *KS*-0/21)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- स᳓रस्वति (*TS*-3/43, *RV*-7/52, *TB*-6/86, *AV*-4/26, *SB-M*-7/65, *SB-K*-9/65, *VS-M*-0/95, *VS-K*-2/92, *KS*-2/10)
+- उप-वा᳓कैः (*TB*-0/2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/6)
+- व्यान᳓म् (*TS*-1/15, *TB*-4/8, *SB-M*-3/49, *SB-K*-3/51, *VS-M*-0/2, *VS-K*-2/6, *KS*-1/9)
+- नः᳓ → **नः** (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- यानि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *SB-M*-5, *SB-K*-1, *KS*-1)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41, *KS*-11/13)
+- ब᳓दरैः (*TB*-3/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-3/4, *VS-K*-3/7)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -99,6 +138,11 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 अविर्न अविरिव वर्तमानो यः सारस्वतो मेषः सोऽयं नसि नासिकायां वीर्याय श्वासप्रवृत्तिसामर्थ्याय प्रवर्तते । इयं च नासिका प्राणाख्यस्य वायोः अमृतः कदाचिदपि विनाशरहितः पन्थाः गमनागमनहेतुः ग्रहाभ्यां पयस्सुराभ्यां निष्पादितः । तथेयं सरस्वती उपवाकैः हरितयवसक्तुभिः व्यानवायुं जनयति । नस्यानि नासिकायां भवानि बर्हिः बर्हींषि लोमानि बदरैः सक्तुनिष्पादनाय संपादितैः बदरफलैः जजान संपादयामास ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_1]** So corr. Ch नमि; cf. Mâitr. S. 3, 11, 9. (Thus emended; Ch reads नमि; cf. Mâitr. S. 3, 11, 9)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,6 +8,12 @@ title = "२२ स्वाहा यज्ञम्"
 With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Brihat, and a steer and bull give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hail! May Varuṇa of good dominion make the sacrifice a medicine;  
+the Aticchandas, great faculty, the bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स्वाहा॑ य॒ज्ञं वरु॑णः। सुक्ष॒त्रो भे॑ष॒जं क॑रत्।  
@@ -28,6 +34,12 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 बृ॒हदृ॑ष॒भो गौर्वयो॑ दधुः ॥ 87॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्वाहा यज्ञं वरुणस्सुक्षत्रो भेषजं करत्।  
+अतिच्छन्द इन्द्रियं बृहद्वृषभो गौर्वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स्वाहा॑। य॒ज्ञम्। वरु॑णः। सु॒क्ष॒त्र इति॑ सुऽक्ष॒त्रः। भे॒ष॒जम्। क॒र॒त्। अति॑च्छन्दा॒ इत्यति॑ऽछन्दाः। इ॒न्द्रि॒यम्। बृ॒हत्। ऋ॒ष॒भः। गौः। वयः॑। द॒धुः॒। २२।
@@ -41,6 +53,23 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स्वा᳓हा । यज्ञ᳓म् । व᳓रुणः । सु-क्षत्रः᳓ । भेषज᳓म् । करत् । अ᳓ति-छन्दाः । छ᳓न्दः । इन्द्रिय᳓म् । बृह᳓त् । ऋषभः᳓ । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्वा᳓हा (*Whitney*, *MS*-536, *TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-480)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- सु-क्षत्रः᳓ (*MS*-1, *RV*-2/7, *TB*-3, *VS-M*-1, *VS-K*-1)
+- भेषज᳓म् (*MS*-34/38, *TS*-25/26, *RV*-14/21, *TB*-33/37, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21)
+- क᳓रत् (*MS*-6/7, *TS*-5, *RV*-12/14, *TB*-1/2, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-6/8, *VS-K*-3/6)
+- अ᳓तिच्छन्दः (*MW* ŚBr., *TS*-0/6, *SB-M*-0/5, *SB-K*-0/5, *VS-K*-0/2)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- वृषभः᳓ (*MS*-15/25, *TS*-7/15, *RV*-80/149, *TB*-6/17, *AV*-20/37, *SB-M*-6/11, *SB-K*-3/7, *VS-M*-6/12, *VS-K*-7/11)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -97,6 +126,11 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठकेऽष्टादशोऽनुवाकः ॥
 
 वसन्ताख्येनर्तुदेवेन सहिता वसवो देवा इन्द्रे हविरिदं समर्प्यमाणं वय आयुष्यं च दधुः संपादितवन्तः । कीदृशं हविः? त्रिवृदाख्येन स्तोमेन स्तुतम् । तथा तेजसा तेजस्विना रथंतराख्येन साम्ना स्तुतम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 11; VS 21, 12–22; TBr. 2, 6, 18.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

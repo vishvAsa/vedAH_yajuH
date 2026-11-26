@@ -8,6 +8,12 @@ title = "८२ तदश्विना भिषजा"
 His inner shape Sarasvatî arranges and, borne on bright paths, the Physician Asvins: With Mâsaras and sieve his bone and marrow, as on the Oxen's hide they lay the liquor.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the two physician Aśvins, pursuing a wild path, Sarasvatī weaves the inner embellishment,  
+depositing bone and marrow with māsara-liquor through the filter on the hide of cattle.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तद॒श्विना॑ भि॒षजा॑ रु॒द्रव॑र्तनी॒ सर॑स्वती वयति॒ पेशो॒ऽअन्त॑रम्।  
@@ -20,6 +26,12 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 सर॑स्वती वयति॒ पेशो॒ अन्त॑रः ॥14॥  
 अस्थि॑ म॒ज्जान॒म्मास॑रैः ।  
 का॒रो॒त॒रेण॒ दध॑तो॒ गवा॑न्त्व॒चि ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+तदश्विना भिषजा रुद्रवर्तनी सरस्वती वयति पेशो अन्तरम्।  
+अस्थि मज्जानं मासरैः करोतरेण दधतो गवां त्वचि
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +47,26 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓त् । अश्वि᳓ना । भिष᳓जा । रुद्र᳓-वर्तनी । स᳓रस्वती । वयति । पे᳓शः । अ᳓न्तरः । अ᳓स्थि । मज्जा᳓नम् । मा᳓सरैः । कारोतरे᳓ण । द᳓धतः । ग᳓वाम् । त्वचि᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- भिष᳓जा (*MS*-12/30, *TS*-1/12, *RV*-5/11, *TB*-13/29, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-15/32, *VS-K*-15/28)
+- रुद्र᳓-वर्तनी (*MS*-1, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- वयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1, *TB*-2, *AV*-3, *SB-M*-2, *VS-K*-1)
+- पे᳓शः (*Whitney*, *MS*-3, *TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- अ᳓न्तरम् (*MS*-4/5, *TS*-2/5, *RV*-4/16, *TB*-0/1, *TK*-0/1, *AV*-4, *SB-M*-12/183, *SB-K*-10/168, *VS-M*-2/4, *VS-K*-2/4)
+- अ᳓स्थि (*MS*-4/5, *TS*-4/5, *TB*-11/12, *AV*-7/13, *SB-M*-30/50, *SB-K*-29/52, *VS-M*-2/3, *VS-K*-2/3)
+- मज्जा᳓नम् (*MS*-1/4, *TS*-2/7, *RV*-1, *TB*-3/5, *AV*-4/11, *SB-M*-1/22, *SB-K*-1/22, *VS-M*-1/5, *VS-K*-1/3)
+- मा᳓सरैः (*MS*-0/5, *TB*-1/5, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/7, *VS-K*-1/3)
+- करो᳓ (*SB-M*-1)
+- त᳓रेण (*MW*, *Macdonell*, *Lanman*, *RV*-0/7, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1)
+- द᳓धतः (*MS*-1/20, *TS*-0/13, *RV*-6/42, *TB*-1/35, *AV*-1/5, *SB-M*-0/23, *SB-K*-0/19, *VS-M*-2/34, *VS-K*-2/53)
+- ग᳓वाम् (*MS*-13/149, *TS*-4/108, *RV*-52/521, *TB*-6/76, *AV*-16/195, *SB-M*-6/168, *SB-K*-4/149, *VS-M*-1/67, *VS-K*-2/67)
+- त्वचि᳓ (*MS*-3, *TS*-1, *RV*-9, *TB*-4, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -139,6 +171,13 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 रुद्रस्येव वर्तनिर्मार्गो ययोरश्विनोस्तौ रुद्रवर्तनी । यथा रुद्रः क्रूरो देवो हिंसितुं समर्थ एवमेतावश्विनौ व्याधिं नाशयितुं समर्थावित्यर्थः । तादृशावश्विनौ तत्र यज्ञे भिषजौ चिकित्सकौ । या तु सरस्वती अन्तरः शरीरमध्ये पेशो वयति रूपं निष्पादयति । मासरशब्देन यवनिष्पन्नाः सूक्ष्मसक्तवो दधिमिश्रा दर्भैः परिवेष्टिता उच्यन्ते । कारोतरशब्देनावटस्थानीयस्तत्सदृशो वेणुदलनिर्मितश्चर्मणा सर्वतः परिवेष्टितः सुराश्रपणार्थभाण्डाधारः पदार्थविशेष उच्यते । गवां त्वच्यवस्थितेन कारोतरेण मासरैश्च मज्जानमस्थि च दधतः दधाति सरस्वती संपादयतीत्यर्थः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_4]** So corr. Ch अन्तरः ; cf. Mâitr. S. 3, 11, 9 = Corr. (Thus emended; Ch reads अन्तरः; cf. Mâitr. S. 3, 11, 9, which agrees with the emendation.)
+
+- **[569_5]** So Ch; Mâitr. S. 3, 11, 9 कारो° (Thus Ch; Mâitr. S. 3, 11, 9 reads कारो°)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

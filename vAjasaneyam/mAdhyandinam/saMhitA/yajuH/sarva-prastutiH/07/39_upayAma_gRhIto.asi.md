@@ -2,30 +2,47 @@
 title = "३९ उपयाम गृहीतो ऽसि"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि महेन्द्रा᳓य त्वैष᳓ ते यो᳓निर् महेन्द्रा᳓य त्वा ॥३९॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Taken upon a base art thou. Thee for Mahendra. This is thy dwelling-place. Thee for Mahendra.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are taken with a support;
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+This is your womb;  
+for Great Indra, you!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒या॒मगृ॑हीतोऽसि महे॒न्द्राय॑ त्वै॒ष ते॒ योनि॑र्महे॒न्द्राय॑ त्वा ॥३९॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒प॒या॒मगृ॑हीत॒ इत्यु॑पया॒मऽगृ॑हीतः। अ॒सि॒। म॒हे॒न्द्रायेति॑ महाऽइ॒न्द्रा॑य। त्वा॒। ए॒षः। ते॒। योनिः॑। म॒हे॒न्द्रायेति॑ महाऽइ॒न्द्राय॑। त्वा॒। ३९।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 हे ग्रह, त्वमुपयामेन गृहीतोऽसि महेन्द्राय त्वां गृह्णामि।
 
 सादयति एष ते योनिः महेन्द्राय त्वा सादयामि॥ ३९॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 पाठस् तु - 'महार इन्द्रो नृवदा चर्षणिया उत द्विबह अमिनः सहोभिः ।
@@ -44,5 +61,21 @@ Taken upon a base art thou. Thee for Mahendra. This is thy dwelling-place. Thee 
 कीदृशी तस्याभिवृद्धिः ?
 
 'उरु: यशसा विपुलः, "पृथुः बलेन विस्तृतः । स्पष्टम् अन्यत् ॥१॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**टिप्पणी (अनङ्किता 1–8)**
+
+- **1.** In Ch findet sich hier noch महसे त्वोपयामगृहीतो सि (Dittographie !) (In Ch there is also found here महसे त्वोपयामगृहीतो सि (dittography!))
+- **2.** Ch सहसोव
+- **3.** So T4 ; Ch धियोषिता (Thus T4; Ch reads धियोषिता)
+- **4.** Ch hat 2 Mal त्वेष ते योनिरिन्द्राग्निभ्यां, eine offenbare Dittographie ; in T4 richtig. (Ch has 2 times त्वेष ते योनिरिन्द्राग्निभ्यां, an evident dittography; in T4 correct.)
+- **5.** T4 धन᳓नद्ध᳓
+- **6.** So T4 ; Ch सोमँ (Thus T4; Ch reads सोमँ)
+- **7.** Ch प्रणोति
+- **8.** T4 रा᳓जास्य oder रा᳓जस्य (T4 रा᳓जास्य or रा᳓जस्य)
+
+**समानान्तराणि:** cfr. Mâitr. S. 1, 3, 20—25 ; Kap. S. 3, 6.
 </details>
 </details>

@@ -15,6 +15,12 @@ In thy hand [1] thou bearest to shoot,
 That make thou kindly, O guardian of mountains; Harm not the world of men.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The arrow, O dweller on the mountain, which you bear in your hand to shoot,  
+make that auspicious, O mountain-protector; do not harm man or beast.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यामिषुं॑ गिरिशन्त॒ हस्ते॑ बि॒भर्ष्यस्त॑वे।  
@@ -134,6 +140,11 @@ That make thou kindly, O guardian of mountains; Harm not the world of men.
 कैलासाख्यं गिरिं त्रायते पालयतीति गिरित्रस्तत्संबोधनं हे **गिरित्र**।  
 तथाविध हे रुद्र तां हस्ते घृतामिषुं शिवामस्मासु शान्तां कुरु।  
 पुरुषमस्मदीयं मनुष्यं जगन्मनुष्यव्यतिरिक्तमपि जङ्गमं गवादिकं मा हिंसीः।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[251_3]** T5 गिरित.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

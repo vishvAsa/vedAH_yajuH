@@ -8,6 +8,12 @@ title = "१६ यदि जाग्रद्"
 If when awake or in our sleep we have committed acts of sin, May Sûrya set me free from that iniquity and all distress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether waking or sleeping we have committed sins,  
+may Sūrya release me from that sin, from every distress!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदि॒ जाग्र॒द् यदि॒ स्वप्न॒ऽएनाँ॑सि चकृ॒मा व॒यम्।  
@@ -109,6 +115,11 @@ If when awake or in our sleep we have committed acts of sin, May Sûrya set me f
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 अवस्थाविशेषे कृतात्पाप्मनः सूर्यो मोचकोऽस्तु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[571_3]** T7 स्व᳓प्नमे᳓नांसि ; desgl. W1, ohne Accent; dagegen T1 स्व᳓प्न ए᳓नाँसि (T7 स्व᳓प्नमे᳓नांसि; likewise W1, without accent; on the other hand T1 स्व᳓प्न ए᳓नाँसि)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -13,6 +13,12 @@ Gâyatrî, Trishtup, Jagatî, and Pankti with Anushtup joined, Brihatî, Kakup, 
 May the Gayatri, the Tristubh, the Jagati, The Anustubh, with the Pankti, The Brhati, the Usnih, and the Kakubh, Pierce thee with needles.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Gāyatrī, the Triṣṭubh, the Jagatī, the Anuṣṭubh along with the Paṅkti,  
+the Bṛhatī, the Uṣṇih, the Kakubh—let them stitch you with needles.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 गा॒य॒त्री त्रि॒ष्टुब्जग॑त्यनु॒ष्टुप्प॒ङ्क्त्या स॒ह।  
@@ -31,6 +37,12 @@ May the Gayatri, the Tristubh, the Jagati, The Anustubh, with the Pankti, The Br
 बृ॒ह॒त्यु॑ष्णिहा॑ क॒कुत्सू॒चीभि॑श् शिम्यन्तु त्वा ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+गायत्री᳓ त्रिष्टु᳓ब्ज᳓गत्यनुष्टु᳓प्पङ्क्त्या᳓ सह᳓।  
+बृहत्युष्णि᳓हा ककु᳓प्सूची᳓भिश्शिम्यन्तु त्वा
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 गा॒य॒त्री। त्रि॒ष्टुप्। त्रि॒स्तुबिति॑ त्रि॒ऽस्तुप्। जग॑ती। अ॒नु॒ष्टुप्। अ॒नु॒स्तुबित्य॑नु॒ऽस्तुप्। प॒ङ्क्त्या। स॒ह। बृ॒ह॒ती। उ॒ष्णिहा॑। क॒कुप्। सू॒चीभिः॑। श॒म्य॒न्तु॒। त्वा॒। ३३।
@@ -44,6 +56,22 @@ May the Gayatri, the Tristubh, the Jagati, The Anustubh, with the Pankti, The Br
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 गा॒य॒त्री । त्रि॒ष्टुप् । जग॑ती । अ॒नु॒ष्टुगित्य॑नु-स्तुक् । प॒ङ्क्त्या॑ । स॒ह ॥ बृ॒ह॒ती । उ॒ष्णिहा॑ । क॒कुत् । सू॒चीभिः॑ । शि॒म्य॒न्तु॒ । त्वा॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गायत्री᳓ (*MS*-58/79, *TS*-68/82, *RV*-2, *TB*-14/22, *AV*-4/8, *SB-M*-113/142, *SB-K*-109/136, *VS-M*-6/8, *VS-K*-4/5)
+- त्रि-ष्टु᳓प् (*MS*-31/36, *TS*-17/19, *TB*-7, *SB-M*-74/81, *SB-K*-76/80, *VS-M*-6, *VS-K*-3/5)
+- ज᳓गति (*MS*-6/36, *TS*-0/46, *RV*-1, *TB*-1/17, *AV*-1/3, *SB-M*-1/51, *SB-K*-5/49, *VS-M*-0/11, *VS-K*-0/8)
+- अनु-ष्टु᳓प् (*MS*-34/37, *TS*-8, *TB*-4, *SB-M*-43/44, *SB-K*-43/44, *VS-M*-8, *VS-K*-3)
+- पङ्क्त्या᳓ (*MS*-6, *TS*-5/10, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-0/3, *VS-K*-2)
+- सह᳓ (*MS*-105, *TS*-97, *RV*-59, *TB*-40, *AV*-134, *SB-M*-170, *SB-K*-159, *VS-M*-32, *VS-K*-32)
+- बृहति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *SB-K*-5)
+- उष्णि᳓हा (*MS*-4/9, *TS*-6/8, *RV*-0/2, *TB*-5/6, *AV*-1/5, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-3/5, *VS-K*-3/5)
+- ककु᳓प् (*MS*-5/6, *AV*-1, *SB-M*-4, *SB-K*-4/5, *VS-M*-4, *VS-K*-4)
+- सूची᳓भिः (*MS*-3, *TS*-5/9, *TB*-1, *SB-M*-1, *SB-K*-1/3, *VS-M*-4, *VS-K*-4)
+- शिम्यन्तु (*TS*-6)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -93,6 +121,13 @@ May the Gayatri, the Tristubh, the Jagati, The Anustubh, with the Pankti, The Br
 <details><summary>भट्टभास्कर-टीका</summary>
 
 असिमार्गकल्पनं सुखविशसनार्थम् । तत्र महिषी सौवर्णीभिः सूचिभिः प्राक्क्रोडादसिपथान् कल्पयति प्रथमाभ्याम् । अथ राजतीभिः सूचीभिः वावाता प्रत्यक्क्रोडान् प्राङ्नाभेरुत्तराभ्याम् । अथोत्तराभ्यां लौहितीभिः सूचीभिः परिवृक्ती वेषमार्गं कल्पयति । सर्वश्चायमानुष्टुभोऽनुवाकः । कुविदङ्गेति त्रिष्टुप् । तत्र प्रथमा - जगत्यन्तः प्रथमः पादः । गायत्र्यादीनि छन्दांसि पङ्क्त्या सहितानि बृहती चोष्णिहा ककुप्च । उष्णिहाशब्द आकारान्तोप्यस्ति । यद्वा - उष्णिहा सहिता बृहती ककुप्च ककुदतिच्छन्दाः । तेन सर्वाणि छन्दांसि गृह्यन्ते इत्येकेन उष्णिग्विशेषेण ककुद्ग्रहणम् । यथोक्तम् 'मध्ये चेद्द्वादशाक्षरः ककुदुष्णिक्' इति । एतेनैव सर्वाणि छन्दांसि गृह्यन्ते इति तानि सर्वाणि छन्दांसि त्वां संशमयन्तु । शम्यतिः छान्दसः शमयतिकर्मा शमितृव्यापारमाचष्टे । विशसनकाले भविष्यतामसिपथानां प्रतिपथः छन्दः प्रतिरेव (?) शमितृत्वेन वर्तमाने कल्पितात् विशसनकाले दुःखं न भविष्यतीते प्रयोजनम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[648_7]** Dies Cap. in Brl fol. 174. 175 vorhanden; darnach accentuirt. (This chapter is extant in Brl fol. 174, 175; accented according to it.)
+
+- **[648_8]** Die drei ersten Sylben in Brl abgebrochen; der erste Accent ergänzt (The first three syllables broken off in Brl; the first accent supplied.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

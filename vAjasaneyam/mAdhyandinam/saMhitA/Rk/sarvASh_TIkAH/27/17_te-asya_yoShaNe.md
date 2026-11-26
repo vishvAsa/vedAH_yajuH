@@ -15,6 +15,18 @@ Like heavenly maidens in his birthplace
 Protect this our sacrifice and offering.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May those two divine maidens, as if in a womb, Dawn and Night,  
+aid this our sacrificial rite.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+These two women of his, dawn and night, as heaven is his womb, O Agni,  
+may they protect this our sacrifice, our rite.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तेऽअ॑स्य॒ योष॑णे दि॒व्ये न योना॑ऽ उ॒षासा॒नक्ता॑।  
@@ -33,6 +45,12 @@ Protect this our sacrifice and offering.
 इ॒मय्ँ य॒ज्ञम॑वतामध्व॒रन्नः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ते अस्य योषणे दिव्यो न योनिरुषासानक्ताग्नेः।  
+इमं यज्ञमवतामध्वरं नः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ते इति॒ ते। अ॒स्य॒। योष॑णे॒ इति॒ योष॑णे। दि॒व्ये इति॑ दि॒व्ये। न। योनौ॑। उ॒षासा॒नक्ता॑। उ॒षसा॒नक्तेत्यु॒षसा॒नक्ता॑। इ॒मम्। य॒ज्ञम्। अ॒व॒ता॒म्। अ॒ध्व॒रम्। नः॒। १७।
@@ -46,6 +64,23 @@ Protect this our sacrifice and offering.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ते इति॑ । अ॒स्य॒ । योष॑णे॒ इति॑ । दि॒व्ये इति॑ । न । योनौ॑ । उ॒षासा॒नक्ता॑ ॥ इ॒मम् । य॒ज्ञम् । अ॒व॒ता॒म् । अ॒ध्व॒रम् । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- यो᳓षणे (*MS*-2/6, *TS*-1/4, *RV*-2/40, *TB*-1/5, *AV*-0/4, *SB-M*-0/60, *SB-K*-0/60, *VS-M*-2/4, *VS-K*-2/3)
+- दिव्यः᳓ (*MS*-6/38, *TS*-2/33, *RV*-12/98, *TB*-1/15, *AV*-7/47, *SB-M*-5/23, *SB-K*-3/20, *VS-M*-4/20, *VS-K*-7/21)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- यो᳓निः (*MS*-114/208, *TS*-72/170, *RV*-9/110, *TB*-16/38, *TK*-2/6, *AV*-5/45, *SB-M*-142/284, *SB-K*-129/261, *VS-M*-60/93, *VS-K*-45/100)
+- उषा᳓सान᳓क्ता (*MS*-8, *TS*-1, *TB*-5, *AV*-1, *VS-M*-5, *VS-K*-5)
+- अग्नेः᳓ (*MS*-200/1297, *TS*-163/1194, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/325, *VS-K*-44/349)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- अवताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- अध्वर᳓म् (*MS*-16/44, *TS*-9/27, *RV*-49/196, *TB*-10/25, *TK*-0/2, *AV*-5/22, *SB-M*-6/71, *SB-K*-6/68, *VS-M*-11/29, *VS-K*-10/22)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>उवट-टीका</summary>

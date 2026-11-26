@@ -13,6 +13,18 @@ Your two chief Hotars have I pleased, bright-coloured, borne on one car, Gods wh
 First for you have I made glad the two, who share one car, fair of hue, The gods that gaze on all the worlds, Those that ordain your ordinances, The two Hotrs, that indicate the light in its place.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two first divine charioteers of beautiful color, beholding all beings,  
+the two Hotṛs, I have pleased them, measuring out the impulse, pointing out the light with direction.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Foremost for you, chariot-companions, fair-hued, the two divine ones watching all beings,  
+I have gladdened you, measuring your impulses, O two Hotṛs, pointing out the light according to the quarter!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 प्र॒थ॒मा वाँ॑सर॒थिना॑ सु॒वर्णा॑ दे॒वौ पश्य॑न्तौ॒ भुव॑नानि॒ विश्वा॑।  
@@ -146,6 +158,11 @@ First for you have I made glad the two, who share one car, fair of hue, The gods
 <details><summary>भट्टभास्कर-टीका</summary>
 
 हे दम्पति! युवां युवयोरर्थाय ईदृशौ देवा होतारौ अपिप्रयं प्रीणयामि । प्रीञ् तर्पणे, छान्दसो लङ्, 'बहुलं छन्दसि' इति शपः श्लुः, ' नाभ्यस्तस्य' इति गुणाभावो व्यत्ययेन प्रवर्तते । कीदृशौ - प्रथमा प्रथमौ प्रधानौ । पूर्ववदाकारः । सरथिना सरथिनौ समानरथः सरथः तद्वन्तौ । सुवर्णा शोभनवर्णौ देवौ दीप्तिमन्तौ विश्वा भुवनानि भूतजातानि वां युवयोः चोदना चोदितानि विहितानि कर्माणि । पूर्ववदाकारः । मिमाना । यद्वा - चोदना चोदनौ कर्मणा मिमाना मानकुशलौ ज्योतिः प्रकाशं प्रदिशा प्रधानदिग्भिः दिशन्ता विसृजन्तौ । सर्वत्रैवाकारः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_4]** So corr. Ch चोदनानाम्मि॰ ; vgl. MS 3, 16, 2; TS 5, 1, 11, 3; VS 29, 7. (Thus emended; Ch reads चोदनानाम्मि॰; cf. MS 3, 16, 2; TS 5, 1, 11, 3; VS 29, 7)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

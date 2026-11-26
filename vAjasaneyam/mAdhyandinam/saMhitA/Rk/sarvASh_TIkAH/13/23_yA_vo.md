@@ -17,6 +17,12 @@ O Indra and Agni, O Brhaspati,
 With all of these grant us brilliance.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What splendors of yours, o gods, are in the sun, what splendors in cattle, in horses,  
+with all of them, o Indra and Agni, o Bṛhaspati, bestow splendor on us!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 या वो॑ देवाः॒ सूर्य्ये॒ रुचो॒ गोष्वश्वे॑षु॒ या रुचः॑।  

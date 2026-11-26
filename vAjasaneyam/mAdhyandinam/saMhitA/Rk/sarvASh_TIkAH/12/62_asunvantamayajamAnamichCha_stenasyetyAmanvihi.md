@@ -14,6 +14,18 @@ Seek the man who poureth not offering nor sacrifices; The road of the thief and 
 Homage be to thee, O Nirrti, O goddess.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seek him who does not press Soma, who does not sacrifice! Follow the trail of the robber, of the thief!  
+Seek another than us; that is your trail. Homage be to you, O divine Nirṛti!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Seek him who presses not, who sacrifices not; follow the path of the thief, of the robber!  
+Seek another than us; that is your path; homage, o goddess Nirṛti, be to you!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 असु॑न्वन्त॒मय॑जमानमिच्छ स्ते॒नस्ये॒त्यामन्वि॑हि॒ तस्क॑रस्य।  
@@ -24,6 +36,12 @@ Homage be to thee, O Nirrti, O goddess.
 
 असु॑न्वन्त॒मय॑जमानमिच्छ स्ते॒नस्ये॒त्यान्तस्क॑र॒स्यान्वे॑षि ।  
 अ॒न्यम॒स्मदि॑च्छ॒ सा त॑ इ॒त्या नमो॑ देवि निर्ऋते॒ तुभ्य॑मस्तु ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+असुन्वन्तमयजमानमिच्छ स्तेनस्येत्यां तस्करस्यान्विहि।  
+अन्यमस्मदिच्छ सा त इत्या नमो देवि निर्ऋते तुभ्यमस्तु
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -39,6 +57,29 @@ Homage be to thee, O Nirrti, O goddess.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 असु॑न्वन्तम् । अय॑जमानम् । इ॒च्छ॒ । स्ते॒नस्य॑ । इ॒त्याम् । तस्क॑रस्य । अन्विति॑ । ए॒षि॒ ॥ अ॒न्यम् । अ॒स्मत् । इ॒च्छ॒ । सा । ते॒ । इ॒त्या । नमः॑ । दे॒वि॒ । नि॒र्॒ऋ॒त॒ इति॑ निः-ऋ॒ते॒ । तुभ्य॑म् । अ॒स्तु॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓सुन्वन्तम् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓-यजमानम् (*MS*-1, *TS*-1/8, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- इच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-4, *TB*-1, *AV*-4, *SB-M*-7, *SB-K*-3, *VS-M*-3, *VS-K*-2)
+- स्तेन᳓स्य (*MS*-1/11, *TS*-1/8, *RV*-0/11, *TB*-0/1, *AV*-0/12, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-1/6, *VS-K*-1/6)
+- इत्या᳓म् (*MS*-1/3, *TS*-1/2, *RV*-0/2, *TB*-0/1, *SB-M*-2/22, *SB-K*-2/34, *VS-M*-1/3, *VS-K*-1/5)
+- त᳓स्करस्य (*MS*-1/3, *TS*-1/5, *RV*-0/3, *TB*-0/3, *AV*-0/5, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-1/6, *VS-K*-1/6)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-88, *TS*-69, *RV*-61, *TB*-18, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-20)
+- अन्य᳓म् (*MS*-12/208, *TS*-21/165, *RV*-23/176, *TB*-5/92, *TK*-2, *AV*-13/108, *SB-M*-34/332, *SB-K*-37/340, *VS-M*-3/32, *VS-K*-2/34)
+- अस्म᳓त् (*MS*-33/641, *TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/315, *VS-K*-22/274)
+- इच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-4, *TB*-1, *AV*-4, *SB-M*-7, *SB-K*-3, *VS-M*-3, *VS-K*-2)
+- सा᳓ (*MS*-276/5550, *TS*-167/4761, *RV*-89/3136, *TB*-111/2709, *TK*-6/363, *AV*-179/3165, *SB-M*-701/20457, *SB-K*-649/20018, *VS-M*-30/780, *VS-K*-28/660)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- इत्या᳓ (*MS*-2/3, *TS*-1/2, *RV*-1/2, *TB*-1, *SB-M*-19/22, *SB-K*-30/34, *VS-M*-2/3, *VS-K*-1/5)
+- न᳓मः (*Whitney*, *MS*-286/313, *TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-147/168)
+- दे᳓वि (*MS*-0/16, *TS*-1/10, *RV*-2/6, *TB*-0/2, *AV*-0/1, *SB-M*-1/11, *SB-K*-2/12, *VS-M*-1/8, *VS-K*-0/8)
+- निः-ऋते (समानान्तर-पाठः (TS), *MS*-2, *TS*-2, *RV*-6, *TB*-1, *AV*-4, *SB-M*-4, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- तु᳓भ्यम् (*MS*-14/382, *TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/216, *VS-K*-10/180)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
 </details>
 
 <details><summary>उवट-टीका</summary>

@@ -8,6 +8,18 @@ title = "३७ नराशंसः प्रति"
 Son of Himself, the Praise of Men, the hero, measuring out the sacrificial stations, Rich in bulls’ fat, anointing with sweet butter, wise, bright with gauds of gold, he sacrificeth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Narāśaṃsa, matching, the heroic Tanūnapāt, matching the station of the sacrifice,  
+possessing omentum with cows, anointing with honey, the shining wise one sacrifices with gold pieces.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Measuring opposite the heroic Narāśaṃsa, opposite the domain of sacrifice, Tanūnapāt,  
+possessing the omentum with cattle, anointing with mead, shimmering with gold, may the wise one sacrifice!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 नरा॒शँसः॒ प्रति॒ शूरो॒ मिमा॑न॒स्तनू॒नपा॒त् प्रति॑ य॒ज्ञस्य॒ धाम॑।  
@@ -20,6 +32,18 @@ Son of Himself, the Praise of Men, the hero, measuring out the sacrificial stati
 तनू॒नपा॒त्प्रति॑ य॒ज्ञस्य॒ धाम॑ ।   
 गोभि॑र्व॒पावा॒न्मधु॑ना सम॒ञ्जन् ।  
 हिर॑ण्यैश्च॒न्द्री य॑जति॒ प्रचे॑ताः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+नराशँ᳓सः प्र᳓ति शू᳓रो मि᳓मानस् त᳓नून᳓पात् प्र᳓ति यज्ञ᳓स्य धा᳓म  
+गो᳓भिर् वपा᳓वान् म᳓धुना समञ्ज᳓न् हि᳓रण्यैश् चन्द्री᳓ यजति प्र᳓चेताः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+नराशँसः प्रति शूरो मिमानस्तनूनपात्प्रति यज्ञस्य धाम।  
+गोभिर्वपावान्मधुना समञ्जन्हिरण्यैश्चन्द्री यजतु प्रचेताः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +59,46 @@ Son of Himself, the Praise of Men, the hero, measuring out the sacrificial stati
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 न᳓राशं᳓सः । प्र᳓ति । शू᳓रः । मि᳓मानः । त᳓नू-न᳓पात् । प्र᳓ति । यज्ञ᳓स्य । धा᳓म । गो᳓भिः । वपा᳓वान् । म᳓धुना । सम्-अञ्ज᳓न् । हि᳓रण्यैः । चन्द्री᳓ । यजति । प्र᳓-चेताः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- नराशं᳓सः (*TB*-1, *SB-M*-0/1, *VS-M*-0/1)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- शू᳓रः (*TS*-3/5, *RV*-44/70, *TB*-7/9, *AV*-4/7, *SB-M*-2, *SB-K*-2, *VS-M*-4/7, *VS-K*-4/7, *KS*-1/3)
+- मि᳓मानः (*RV*-3/7, *TB*-1, *AV*-5, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓नू-न᳓पात् (*TS*-1, *RV*-2, *TB*-4, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-4, *VS-K*-4)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- यज्ञ᳓स्य (*TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/179, *KS*-26/171)
+- धा᳓म (*TS*-31/53, *RV*-39/92, *TB*-7/31, *TK*-2, *AV*-29/45, *SB-M*-26/67, *SB-K*-28/71, *VS-M*-8/49, *VS-K*-9/42, *KS*-8/20)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- वपा᳓वान् (*TB*-2, *VS-M*-1, *VS-K*-1)
+- म᳓धुना (*TS*-4/44, *RV*-16/153, *TB*-10/46, *TK*-0/3, *AV*-17/92, *SB-M*-6/98, *SB-K*-5/86, *VS-M*-6/70, *VS-K*-6/59, *KS*-3/24)
+- सम्-अञ्ज᳓न् (*TS*-1, *RV*-4, *TB*-5, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-8, *KS*-4)
+- हि᳓रण्यैः (*TS*-1/62, *RV*-4/12, *TB*-2/46, *TK*-0/8, *AV*-0/27, *SB-M*-1/134, *SB-K*-1/128, *VS-M*-2/8, *VS-K*-2/7, *KS*-0/22)
+- चन्द्री᳓ (*TB*-2/3, *VS-M*-2, *VS-K*-1)
+- यजति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-49, *RV*-1, *TB*-24, *AV*-1, *SB-M*-84, *SB-K*-71)
+- प्र᳓-चेताः (*TS*-5/7, *RV*-12, *TB*-2, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-3/6, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नराशं᳓सः (*MS*-1, *TB*-1, *SB-M*-0/1, *VS-M*-0/1)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- शू᳓रः (*MS*-5/14, *TS*-3/5, *RV*-44/70, *TB*-7/9, *AV*-4/7, *SB-M*-2, *SB-K*-2, *VS-M*-4/7, *VS-K*-4/7)
+- मि᳓मानः (*MS*-1/2, *RV*-3/7, *TB*-1, *AV*-5, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓नू-न᳓पात् (*MS*-6, *TS*-1, *RV*-2, *TB*-4, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-4, *VS-K*-4)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- धा᳓म (*MS*-33/69, *TS*-31/53, *RV*-39/92, *TB*-7/31, *TK*-2, *AV*-29/45, *SB-M*-26/67, *SB-K*-28/71, *VS-M*-8/49, *VS-K*-10/45)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- वपा᳓वान् (*MS*-2, *TB*-2, *VS-M*-1, *VS-K*-1)
+- म᳓धुना (*MS*-7/81, *TS*-4/44, *RV*-16/153, *TB*-10/46, *TK*-0/3, *AV*-17/92, *SB-M*-6/98, *SB-K*-5/86, *VS-M*-6/70, *VS-K*-7/62)
+- सम्-अञ्ज᳓न् (*MS*-5, *TS*-1, *RV*-4, *TB*-5, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-10)
+- हि᳓रण्यैः (*MS*-3/63, *TS*-1/62, *RV*-4/12, *TB*-2/46, *TK*-0/8, *AV*-0/27, *SB-M*-1/134, *SB-K*-1/128, *VS-M*-2/8, *VS-K*-2/7)
+- चन्द्री᳓ (*MS*-2/3, *TB*-2/3, *VS-M*-2, *VS-K*-1)
+- यजतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *SB-K*-1)
+- प्र᳓-चेताः (*MS*-4, *TS*-5/7, *RV*-12, *TB*-2, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4/7)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -153,6 +217,13 @@ Son of Himself, the Praise of Men, the hero, measuring out the sacrificial stati
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 तनूनपात्संज्ञको द्वितीप्रयाजदेवः । स च नराशंस ऋत्विग्भिर्नरैः आ समन्तात् शंसनीयः युद्धेषु शूरस्सन् प्रतिमिमान: वैरिणां बलमियत्तया परिच्छिन्दन् वर्तते । तथा यज्ञस्य धाम फलभूतं स्थानं प्रतिमिमानो वर्तते । तथा गोभिः स्वकीयैः रश्मिभिः वपावान् शरीरपुष्टिमान् वर्तते । तथा मधुना मधुरेण धृतेन समञ्जन् पुरोडाशादिहवींषि श्लक्ष्णीकुर्वन् वर्तते । तथा भक्तेभ्यो दीयमानैर्हिरण्यैः चन्द्री आह्लादकारी सन् प्रचेताः प्रकृष्टज्ञानयुक्तो यजति देवान्पूजयति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[572_3]** So. corr. Ch समञ्जान्हि° (Thus emended; Ch समञ्जान्हि°)
+
+- **[572_4]** MS 3, 11, 1 यजति; desgl. VS 20, 37. (MS 3, 11, 1 यजति; likewise VS 20, 37.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

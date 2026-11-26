@@ -8,6 +8,18 @@ title = "८० सीसेन तन्त्रम्"
 Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî, Savitar, Varuna, the Asvins span sacrifice and healed his form for Indra.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With lead the wise weave the warp with the mind, the poets with woolen thread;  
+the two Aśvins the sacrifice, Savitar, Sarasvatī, Varuṇa healing the form of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With lead the wise weave the warp with the mind, with woolen thread the poets,  
+the two Aśvins, Savitṛ, Sarasvatī, [weaving] the sacrifice, and Varuṇa, healing the form of Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सीसे॑न॒ तन्त्रं॒ मन॑सा मनी॒षिण॑ऽऊर्णासू॒त्रेण॑ क॒वयो॑ वयन्ति।  
@@ -28,6 +40,12 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 इन्द्र॑स्य रू॒पव्ँवरु॑णो भिष॒ज्यन् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सीसेन तन्त्रं मनसा मनीषिण ऊर्णासूत्रेण कवयो वयन्ति।  
+अश्विना यज्ञँ सविता सरस्वतीन्द्रस्य रूपं वरुणो भिषज्यम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सीसे॑न। तन्त्र॑म्। मन॑सा। म॒नी॒षिणः॑। ऊ॒र्णा॒सू॒त्रेणेत्यू॑र्णाऽसू॒त्रेण॑। क॒वयः॑। व॒य॒न्ति॒। अ॒श्विना॑। य॒ज्ञम्। स॒वि॒ता। सर॑स्वती। इन्द्र॑स्य। रू॒पम्। वरु॑णः। भि॒ष॒ज्यन्। ८०।
@@ -41,6 +59,25 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सी᳓सेन । त᳓न्त्रम् । म᳓नसा । मनीषि᳓णः । ऊर्णा-सूत्रे᳓ण । कव᳓यः । वयन्ति । अश्वि᳓ना । यज्ञ᳓म् । सविता᳓ । स᳓रस्वती । इ᳓न्द्रस्य । रूप᳓म् । व᳓रुणः । भिषज् । य᳓न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सी᳓सेन (*MS*-3/9, *TS*-0/2, *TB*-4/5, *TK*-0/1, *AV*-1/8, *SB-M*-6/11, *SB-K*-5/11, *VS-M*-2/4, *VS-K*-1/3)
+- त᳓न्त्रम् (*MS*-1, *RV*-1, *TB*-1, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1, *VS-K*-1)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- मनीषि᳓णः (*RV*-16/32, *TB*-1, *AV*-5/8, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-1/2, *MS*-1)
+- ऊर्णा-सूत्रे᳓ण (*MS*-1, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- कव᳓यः (*MS*-11/36, *TS*-6/31, *RV*-36/200, *TB*-5/21, *AV*-12/30, *SB-M*-4/11, *SB-K*-3/9, *VS-M*-5/23, *VS-K*-5/26)
+- वयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-3, *TB*-1, *SB-M*-4, *SB-K*-6, *VS-K*-1)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- भिषज्य᳓म् (*Macdonell*, *MS*-2, *SB-M*-0/1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -163,6 +200,11 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 मनीषिणो बुद्धिमन्त ऊहापोहकुशलाः कवयो विद्वांसः शास्त्राभिज्ञा ऋत्विजः स्वमनसा प्रयोगं सर्वं विचार्य सीसद्रव्यक्रीतेन व्रीह्यङ्कुरादिना तन्त्रं सौत्रामणियज्ञविस्तारं ऊर्णासूत्रेणेव वयन्ति निष्पादयन्ति । यथा लोके केचिदविपालका ऊर्णासूत्रेण कम्बलं वयन्ति । एवमेतेऽप्यृत्विजः सीसक्रीतद्रव्यादिना यज्ञाख्यं दीर्घतन्तुरूपं वयन्ति । अश्विनासरस्वत्याद्या देवता इन्द्रस्य स्वरूपभूतमिमं यज्ञमोषधिसदृशैः पश्वङ्गैः भिषज्यन् चिकित्सन्ते ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_1]** So Ch; in Mâitr. S. 3, 11, 9 भिषज्यन् (Thus Ch; in Mâitr. S. 3, 11, 9 भिषज्यन्)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

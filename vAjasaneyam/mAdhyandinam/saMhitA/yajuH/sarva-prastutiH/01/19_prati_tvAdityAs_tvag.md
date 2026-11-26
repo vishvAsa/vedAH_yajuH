@@ -2,32 +2,44 @@
 title = "१९ प्रति त्वादित्यास् त्वग्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓ति त्वा᳓दित्यास् त्व᳓ग् वेत्तु
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 May Aditi's skin receive thee.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the skin of Aditi receive you!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रति॒ त्वादि॑त्या॒स्त्वग्वे॑त्तु
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 प्रति॑। त्वा॒। अदि॑त्याः। त्वक्। वे॒त्तु॒।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्रति॑। त्वा॒। अदि॑त्याः। त्वक्। वे॒त्तु॒। २।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 अदित्याः भूमेः त्वक् कृष्णाजिनरूपा तादृशीं त्वा त्वां प्रति वेत्तु त्वदवस्थानमनुजानातु।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अत्र द्वयोर् मन्त्रयोः साधारण-वाक्य-शेषं पृथग्-योजयित्वा कण्वो विस्पष्टं दर्शयति- " स प्रतिगृह्णात्यद्विरसि वानस्पत्यः प्रति त्वा ऽदित्यास् त्वग्-वेत्व् इति वा ग्रावासि पृथु-बुध्नः प्रति त्वा ऽदित्यास् त्वग्वेत्त्विति घा " ( काशना २.१.३.१२ ) इति ।
@@ -40,6 +52,7 @@ May Aditi's skin receive thee.
 तमिममुपचारम्-- “ यथा वा अदः सोमं ग्रावभिः " ( काशचा २.१.३.१२ ) इत्य्-आदिना कण्वः
 प्रपञ्चयाम् आस ॥ २ ॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 अतस् त्वा "अदित्याः त्वक् कृष्णाजिनं त्वा त्वाम् प्रति वेत्तु प्रतिजानातु ॥२॥

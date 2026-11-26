@@ -2,28 +2,39 @@
 title = "४५ ऋतस्य पथा प्रेत"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत᳓स्य पथा᳓ प्रे᳓त चन्द्र᳓-दक्षिणाः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Go forth, bright-gifted! on the path of Order.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go forth along the path of sacred order, having shining sacrificial gifts;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒तस्य॑ प॒था प्रेत॑ च॒न्द्रद॑क्षिणाः
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ऋ॒तस्य॑। प॒था। प्र। इ॒त॒। च॒न्द्रद॑क्षिणा॒ इति॑ च॒न्द्रऽद॑क्षिणाः।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऋ॒तस्य॑। प॒था। प्र। इ॒त॒। च॒न्द्रद॑क्षिणा॒ इति॑ च॒न्द्रऽद॑क्षिणाः। ५।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 यूयं चैतज्जानानाः ऋतस्य यज्ञस्य प्रस्तुतस्य पथा मार्गेण प्रेत प्रगच्छत।
@@ -34,6 +45,7 @@ Go forth, bright-gifted! on the path of Order.
 
 शाकपार्थिवादित्वान्मध्यमपदलोपी समासः।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 नष्टरूपानुष्टुप् दक्षिणदेवत्या।
@@ -60,12 +72,14 @@ Go forth, bright-gifted! on the path of Order.
 
 दक्षिणादैवत्यम्।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 पाठस्तु- " रूपेण वो रूपम् अभ्यागां तुथो वो विश्व-वेदा विभजतु । ऋतस्य पथा प्रेत चन्द्र-दक्षिणा: ' इति । हे दक्षिणाः, 'रूपेण अनेनोद्धत हिरण्येन सह वः वेदेर् दक्षिण-भागे ऽवस्थितानां युष्माकं रूपम् ' अभ्यागाम् आभिमुख्येन प्राप्नोमि । विश्वं वेत्ति वेदयतीति वा "विश्व-वेदाः सर्वज्ञः । तुथ-नामकः देवः 'वः युष्मान् 'विभजतु ऋत्विजां यथाईं विभागं करोतु ।
 
 ऋतस्य प्रस्तुतस्य यज्ञस्य पथा मार्गेण चन्द्र-दक्षिणाः चन्द्रं हिरण्यं दक्षिणार्थं प्रधान-द्रव्यं यजमान हस्त-गतं यासां दक्षिणानां ता यूयं प्रेत गच्छत ॥५॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 तुथ इति ब्रह्मणो नाम ।

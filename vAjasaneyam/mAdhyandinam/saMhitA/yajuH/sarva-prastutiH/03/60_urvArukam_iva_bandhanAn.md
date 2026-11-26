@@ -2,28 +2,39 @@
 title = "६० उर्वारुकम् इव बन्धनान्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उर्वारुक᳓म् इव ब᳓न्धनान् मृत्यो᳓र् मुक्षीय मा᳓ ऽमृ᳓तात्।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 As from its stem a cucumber, may I be freed from bonds of death, not reft of immortality.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+as a gourd from its stem, may I be freed from death, not from immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ माऽमृता॑त्।
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒र्वा॒रु॒कमि॒वेत्यु॑र्वारु॒कम्ऽइ॑व। बन्ध॑नात्। मृ॒त्योः। मु॒क्षी॒य॒। मा। अ॒मृता॑त्।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒र्वा॒रु॒कमि॒वेत्यु॑र्वारु॒कम्ऽइ॑व। बन्ध॑नात्। मृ॒त्योः। मु॒क्षी॒य॒। मा। अ॒मृता॑त्। ४।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 योऽस्मान् उर्वारुकमिव बन्धनात् ।
@@ -42,6 +53,7 @@ As from its stem a cucumber, may I be freed from bonds of death, not reft of imm
 
 यं त्र्यम्बकं यजामहे शोभन: गन्धम् ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 हे त्र्यम्बक, त्वत्-प्रसादात् मृत्योः मरण-हेतोः संसार- लक्षणाद् वा मृत्योः "मुक्षीय । वचन-व्यत्ययः । मुक्षीमहि स्वयं मुक्ता भवेम । यथा लोके "उर्वारुकं कर्कव्यादेः परिपकफलं बन्धनात् वृन्तात् मुच्यते एवम् अहम् अपि मृत्योः मुक्षीय स्वं मोचय ।

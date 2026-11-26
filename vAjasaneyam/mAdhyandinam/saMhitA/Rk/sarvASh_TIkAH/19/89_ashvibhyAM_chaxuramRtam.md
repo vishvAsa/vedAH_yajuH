@@ -8,6 +8,18 @@ title = "८९ अश्विभ्यां चक्षुरमृतम्
 Asvins with both cups made his eye immortal, the goat and cooked oblation gave it keenness. With wheat eyelashes and with jujube eyebrows they clothe as ’twere a black and brilliant figure.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the two Aśvins immortal sight [arose] through the two cups, brilliance through the goat, through the oblation, through the ghee;  
+the eyelashes are woven with wheat, with jujube-berries; as an ornament they put on the white and black [of the eye].
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the two Aśvins the immortal eye from two cups; with the goat brilliance from the boiled oblation;  
+the eyelashes are woven with wheat and jujubes; they put on the white and black like an embroidered cloth.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विभ्यां॒ चक्षु॑र॒मृतं॒ ग्रहा॑भ्यां॒ छागे॑न॒ तेजो॑ ह॒विषा॑ शृ॒तेन॑।  
@@ -28,6 +40,18 @@ Asvins with both cups made his eye immortal, the goat and cooked oblation gave i
 पेशो॒ न शु॒क्लमसि॑तव्ँवसाते ॥17॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अश्वि᳓भ्यां च᳓क्षुर् अमृ᳓तं ग्र᳓हाभ्यां छा᳓गेन ते᳓जो हवि᳓षा घृते᳓न  
+प᳓क्ष्माणि गोधृ᳓मैः कु᳓वलैर् उता᳓नि पे᳓शो न᳓ शुक्र᳓म् अ᳓सितँ वसाते
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्विभ्यां चक्षुरमृतं महाभ्यां छागेन तेजो हविषा शृतेन।  
+पक्ष्माणि गोधूमैः कुवलैरुतानि पेशो न शुक्लमसितं वसाते
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। चक्षुः॑। अ॒मृत॑म्। ग्रहा॑भ्याम्। छागे॑न। तेजः॑। ह॒विषा॑। शृ॒तेन॑। पक्ष्मा॑णि। गो॒धूमैः॑। कुव॑लैः। उ॒तानि॑। पेशः॑। न। शु॒क्रम्। असि॑तम्। व॒सा॒ते॒ऽइति॑ वसाते। ८९।
@@ -41,6 +65,50 @@ Asvins with both cups made his eye immortal, the goat and cooked oblation gave i
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अश्वि᳓भ्याम् । च᳓क्षुः । अ-मृ᳓तम् । ग्र᳓हाभ्याम् । छा᳓गेन । ते᳓जः । हवि᳓षा । शृते᳓न । प᳓क्ष्माणि । गो-धू᳓मैः । क्व᳙लैः । उ । ता᳓नि । पे᳓शः । न᳓ । शुक्ल᳓म् । अ᳓सितम् । वसाते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अश्वि᳓भ्याम् (*TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103, *KS*-2/32)
+- च᳓क्षुः (*TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56, *KS*-21/27)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- छा᳓गेन (*TS*-0/3, *RV*-0/1, *TB*-3/11, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-4/15, *VS-K*-4/16, *KS*-0/2)
+- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-63/103, *TK*-7/12, *AV*-49/77, *SB-M*-71/97, *SB-K*-92/120, *VS-M*-17/31, *VS-K*-23/48, *KS*-19/31)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101, *KS*-19/60)
+- घृते᳓न (*TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22, *KS*-14)
+- प᳓क्ष्माणि (*TS*-1/5, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3, *VS-K*-3)
+- गोधृ᳓मैः (मूल-पाठः)
+- कु᳓वलैः (*SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/3, *VS-K*-1/4)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- ता᳓नि (*TS*-37/4761, *RV*-34/3136, *TB*-39/2709, *TK*-2/363, *AV*-27/3165, *SB-M*-245/20457, *SB-K*-236/20018, *VS-M*-5/780, *VS-K*-6/660, *KS*-26/1225)
+- पे᳓शः (*TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- शुक्र᳓म् (*TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50, *KS*-16/37)
+- अ᳓सितम् (*TS*-1/2, *RV*-2/3, *TB*-4/5, *AV*-1/4, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वसाते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- च᳓क्षुः (*Whitney*, *MS*-77/124, *TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- म᳓हाभ्याम् (*MW*, *Macdonell*, *Lanman*, *MS*-0/15, *TS*-0/8, *RV*-0/8, *TB*-0/19, *TK*-0/2, *AV*-0/12, *SB-M*-0/26, *SB-K*-0/20, *VS-M*-0/6, *VS-K*-0/5)
+- छा᳓गेन (*MS*-2/10, *TS*-0/3, *RV*-0/1, *TB*-3/11, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-4/15, *VS-K*-4/16)
+- ते᳓जः (*Whitney*, *MS*-107/155, *TS*-111/152, *RV*-2/7, *TB*-63/103, *TK*-7/12, *AV*-49/77, *SB-M*-71/97, *SB-K*-92/120, *VS-M*-17/31, *VS-K*-23/48)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- शृते᳓न (*TB*-2, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- प᳓क्ष्माणि (*MS*-4, *TS*-1/5, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3, *VS-K*-3)
+- गो-धू᳓मैः (*MS*-1/3, *TS*-0/1, *TB*-2/3, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-2/4, *VS-K*-2/4)
+- कु᳓वलैः (*MW* ŚBr., *MS*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/3, *VS-K*-1/4)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- तानि᳓ (समानान्तर-पाठः (VS-K))
+- पे᳓शः (*Whitney*, *MS*-3, *TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शुक्ल᳓म् (*MS*-2/8, *TS*-2/5, *TB*-2/4, *AV*-0/1, *SB-M*-24/45, *SB-K*-24/45, *VS-M*-1, *VS-K*-1/2)
+- अ᳓सितम् (*MS*-2, *TS*-1/2, *RV*-2/3, *TB*-4/5, *AV*-1/4, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1, *VS-K*-1)
+- वसाते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>

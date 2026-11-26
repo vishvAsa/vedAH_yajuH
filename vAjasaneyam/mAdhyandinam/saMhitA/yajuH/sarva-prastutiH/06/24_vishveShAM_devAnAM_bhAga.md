@@ -2,28 +2,44 @@
 title = "२४ विश्वेषां देवानां भाग"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेषां देवा᳓नां भाग-धे᳓यीः स्थ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 The share of all the Gods are ye.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are the shares of all the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑षां दे॒वानां॑ भाग॒धेयी॑ स्थ।
 </details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वेषां * देवा᳓नां भागधे᳓यीः स्थ
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 विश्वे॑षाम्। दे॒वाना॑म्। भा॒ग॒धेयी॒रिति॑ भाग॒ऽधेयीः॑। स्थ॒।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्वे॑षाम्। दे॒वाना॑म्। भा॒ग॒धेयी॒रिति॑ भाग॒ऽधेयीः॑। स्थ॒। २।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 इन्द्राग्न्योर्भागधेयी स्थ।
@@ -44,6 +60,7 @@ The share of all the Gods are ye.
 
 सूर्यस्येति विभक्तिव्यत्ययः।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 उत्तरवेदिश्रोणेः सकाशाद्वसतीवरीरादायानीध्रीयस्य पश्चान्निदध्यादिति।

@@ -8,6 +8,12 @@ title = "९५ तेजः पशूना\uf15c"
 Splendour of victims, powerful oblation, honey and meath with milk and foaming liquor, Healing Sarasvatî effused, and Asvins; from pressed and unpressed Soma, deathless Indu.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The brilliance of the animals, the oblation possessing faculty, the wild honey with the foaming liquor and with milk;  
+milked by the two physician Aśvins, by Sarasvatī, through what is pressed and unpressed, Soma is the immortal drop.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तेजः॑ पशू॒नाँ ह॒विरि॑न्द्रि॒याव॑त् परि॒स्रुता॒ पय॑सा सार॒घं मधु॑।  
@@ -153,6 +159,15 @@ Splendour of victims, powerful oblation, honey and meath with milk and foaming l
 पशूनां तेजः सारभूतं हविः भिषजा चिकित्सकाभ्यामश्विभ्यां दुग्धं संपादितमित्यर्थः । केन द्रव्येण? परिस्रुता पयसा परितः स्रवतीति परिस्रुत् सुरा तया क्षीरेण च संपादितं हविः । कीदृशं हविः? इन्द्रियावत् इन्द्रियाभिवृद्धिकरं सारघं मधु सरघाभिः संपादितेन मधुना सदृशं यथा अश्विभ्यां हविः संपादितं तथा सरस्वत्या तत्फलभूतो यजमानस्य इन्द्रसदृशः संपादितः । केन साधनेन? सतासताभ्यां अभिषवसदृशव्यापारेण संपादिता सुरा सुता । तादृक्प्रयासरहितक्षीरमसुतं ताभ्यां देहः संपादितः । कीदृशो देहः? अमृतः देवलोके समुत्पन्नत्वान्मरणरहितः सोमः सौम्यः दृष्टिप्रियः इन्द्रः चन्द्रवदाह्लादकरः परमैश्वर्ययुक्तो वा । एवमेतैः षोडशभिर्मन्त्रैर्यजमानस्य भाविदेहसूचनपरैरुपहोमः कर्तव्यः ॥
 
 इति तैत्तिरयिब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके चतुर्थोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_5]** So corr. Ch तेजा° (Thus emended; Ch reads तेजा°)
+
+- **[570_6]** So corr. Ch मुग्धग्भिषजा (Thus emended; Ch reads मुग्धग्भिषजा)
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 9; TBr. 2, 6, 4; VS 19, 80 flg. (cf. Mâitr. S. 3, 11, 9; TBr. 2, 6, 4; VS 19, 80 ff.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

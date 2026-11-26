@@ -8,6 +8,18 @@ title = "६० कवष्यो न"
 Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and earth, the regions, the resounding and expansive doors.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Expansive like folding leaves, like the doors, the directions for the two Aśvins,  
+like Indra the two world-halves, Sarasvatī milks desires.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Like opening, spacious doors for the Aśvins, so are the directions;  
+like Indra the two world-halves milk, Sarasvatī milks all desires.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 क॒व॒ष्यो᳙ न व्यच॑स्वतीर॒श्विभ्यां॒ न दुरो॒ दिशः॑।  
@@ -28,6 +40,12 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 दु॒हे कामा॒न्त्सर॑स्वती ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कवष्यो न व्यचस्वतीरश्विभ्यां न दुरो दिशः।  
+इन्द्रो न रोदसी दुघे दुहे कामान्सरस्वती
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 क॒व॒ष्यः᳙। न। व्यच॑स्वतीः। अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। न। दुरः॑। दिशः॑। इन्द्रः॑। न। रोद॑सी॒ऽइति॒ रोद॑सी। उ॒भेऽइत्यु॒भे। दु॒हे। कामा॑न्। सर॑स्वती। ६०।
@@ -41,6 +59,25 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 कवष् । यः᳙ । न᳓ । व्य᳓चस्वतीः । अश्वि᳓भ्याम् । न᳓ । दुरः᳓ । दि᳓शः । इ᳓न्द्रः । न᳓ । रो᳓दसी । दु᳓घे । दुहे᳓ । का᳓मान् । स᳓रस्वती ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कव᳓ष् (*MW*, *MS*-0/1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- व्य᳓चस्वतीः (*MS*-3/7, *TS*-0/4, *RV*-2, *TB*-4, *AV*-1, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-4/7, *VS-K*-4/10)
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- दु᳓रः (*MS*-13, *TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6)
+- दि᳓शः (*MS*-70, *TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-25)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- दु᳓घे (*MS*-1/2, *RV*-0/1, *TB*-4, *TK*-0/1, *AV*-0/1, *VS-M*-4, *VS-K*-3)
+- दुहे᳓ (*Whitney*, *MW* ŚBr., *MS*-14, *TS*-9, *RV*-3/5, *TB*-9, *AV*-5/7, *SB-M*-6, *SB-K*-5, *VS-M*-6, *VS-K*-6)
+- का᳓मान् (*MS*-7/76, *TS*-9/60, *RV*-3/75, *TB*-8/60, *TK*-3/43, *AV*-6/64, *SB-M*-55/327, *SB-K*-52/349, *VS-M*-3/20, *VS-K*-2/19)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -137,6 +174,11 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 दुरश्शब्दाभिधेया या द्वाराभिमानिन्यः षष्ठप्रयाजदेवताः कवष्यो न कवाटवत्य इव व्यचस्वतीः अवकाशवत्यः अश्विभ्यां न अश्विभ्यामपि सह वर्तन्त इति शेषः । इन्द्रो न इन्द्रोऽपि रोदसी दुघे द्यावापृथिव्यौ दोग्धि । सरस्वती कामान् दुहे दोग्धि ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_6]** Für दुघे haben MS 3, 11, 3 und VS 20, 60 उभे᳓; aber VS 21, 34 auch दु᳓घे (For दुघे, MS 3, 11, 3 and VS 20, 60 have उभे᳓; but VS 21, 34 also has दु᳓घे)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

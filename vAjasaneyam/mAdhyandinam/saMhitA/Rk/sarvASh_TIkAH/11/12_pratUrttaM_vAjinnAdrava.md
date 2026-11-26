@@ -16,6 +16,13 @@ In the sky is thy highest birth,
 In the atmosphere thy navel, on the earth thy birthplace.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Speed forth, o courser, run along the highest path.  
+In the sky is your highest birth; in the intermediate space is your navel;  
+on the earth is your womb.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 प्रतू॑र्त्तं वाजि॒न्नाद्र॑व॒ वरि॑ष्ठा॒मनु॑ सं॒वत॑म्।  

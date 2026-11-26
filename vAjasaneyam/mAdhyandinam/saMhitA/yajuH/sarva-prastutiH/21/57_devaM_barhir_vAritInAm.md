@@ -2,24 +2,35 @@
 title = "५७ देवं बर्हिर् वारितीनाम्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवं᳓ बर्हि᳓र् वा᳓रितीनाम् अध्वरे᳓ स्तीर्ण᳓म् अश्वि᳓भ्या मू᳓र्ण-म्रदाः स᳓रस्वत्या स्योन᳓म् इन्द्र ते स᳓दः।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Strewn, soft as wool, in sacrifice, with Asvins and Sarasvatî, The sacred robe of water-plants be, Indra, a fair seat for thee!
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine barhis of the waters, strewn at the sacrifice with the two Aśvins,  
+soft as wool with Sarasvatī, a pleasant seat, O Indra, for you;
+</details>
+
 <details><summary>मूलम्</summary>
 
 दे॒वं ब॒र्हिर्वारि॑तीनामध्व॒रे स्ती॒र्णम॒श्विभ्या॒मूर्णम्रदाः॒ सर॑स्वत्या स्यो॒नमि॑न्द्र ते॒ सदः॑।
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 दे॒वम्। ब॒र्हिः। वारि॑तीना॑म्। अ॒ध्व॒रे। स्ती॒र्णम्। अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। ऊर्ण॑म्रदा॒ऽइत्यूर्ण॑ऽम्रदाः। सर॑स्वत्या। स्यो॒नम्। इ॒न्द्र॒। ते॒। सदः॑।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 देवं बर्हिः।
@@ -36,6 +47,7 @@ Strewn, soft as wool, in sacrifice, with Asvins and Sarasvatî, The sacred robe 
 
 हे इन्द्र, तव सदः स्थानम्।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 हे इन्द्र, वारितीनां वारि जले इतिर्गतिर्यासां ता वारितयः तासां जलोद्भवानामोषधीनां संबन्धि बर्हिः ते तव सदः सदसि अध्वरे यज्ञे अश्विभ्यां सरस्वत्या च स्तीर्णमास्तृतम्।
@@ -50,6 +62,7 @@ Strewn, soft as wool, in sacrifice, with Asvins and Sarasvatî, The sacred robe 
 
 अतएव स्योनं सुखरूपम्।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 देवो द्योतमानः, हिरण्य-पर्णः हिरण्य-पत्रः, वनस्-पतिः वनस्-पत्याख्यो ऽनुयाजद् एवः, देवैर् इन्द्रादिभिः सहितः सन् अश्विभ्यां सरस्वत्या च, इन्द्राय इन्द्रार्थम्, सुपिप्-पल: सुकर्म-फलः पच्यते ।
@@ -61,6 +74,7 @@ Strewn, soft as wool, in sacrifice, with Asvins and Sarasvatî, The sacred robe 
 
 देवं द्योतमानं बर्हिः बहिः शब्द-वाच्यम् अनुयाज-देवतात्मकं वारितीनाम् उदक-जातानाम् ओषधीनां सम्बन्धि अध्वरे यागे, अश्विभ्याम् अध्वर्युभ्याम् “अश्विनावध्वर्यू" इति श्रुतेः (श०, का० १२ । प्र० ४ । ब्रा० १ । ब्रा०.२ । क०२२) । सरस्वत्या च स्तीर्णम्, सरस्वत्याः इति पाठे व्यत्ययः । ऊर्णम्रदा ऊर्णावत् मृदु च, अतो हे इन्द्र ते तव स्योनं सुखकरं सदः उपवेशन- स्थानं मनुताम्'। तस्मिन् सदसि ईशायै ईशितायै ऐश्वर्याय इत्य् अर्थः । मन्युं पापकारिणं प्रति क्रोधा- त्मकं राजानं दीप्तिम् अन्तम् इन्द्रं त्वां दधुः, अश्विप्रभृतयो देवाः स्थापितवन्तः । किं च बर्हिषा बहि:- शब्द-वाच्यानुयाज-देवता-मुखेन देवा इन्द्रियं सामर्थ्यं दधुः इन्द्रे स्थापयाम् आसुः । वसुवने इत्यादि समानम् ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 'देवं बर्हिर् वारितीनाम्' इति ।
@@ -78,6 +92,7 @@ Strewn, soft as wool, in sacrifice, with Asvins and Sarasvatî, The sacred robe 
 
 हे श्रीभगवन् इन्द्र,
 </details>
+
 <details><summary>अनन्ताचार्य-टीका</summary>
 
 'देवं बर्हिर् वारितीनाम् ' ।

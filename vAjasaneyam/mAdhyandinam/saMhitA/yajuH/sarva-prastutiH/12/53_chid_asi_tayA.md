@@ -20,6 +20,12 @@ Ranker art thou: Angiras-like sit steady with that Deity.
 Thou art a piler; in the manner of Angiras be firm with that deity.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are piled;  
+by that deity, like Aṅgiras, sit firm!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिद॑सि॒ तया॑ दे॒वत॑याङ्गिर॒स्वद् ध्रु॒वा सी॑द।

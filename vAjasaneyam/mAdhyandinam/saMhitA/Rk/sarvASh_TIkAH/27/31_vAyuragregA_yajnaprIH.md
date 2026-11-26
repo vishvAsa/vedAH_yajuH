@@ -8,6 +8,12 @@ title = "३१ वायुरग्रेगा यज्ञप्रीः"
 Lover of worship, leader, come Vâyu with thought, to sacrifice, Propitious with propitious teams!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu, going in front, satisfying the sacrifice, went together with the mind to the sacrifice,  
+propitious with his propitious teams of horses.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 वा॒युर॑ग्रे॒गा य॑ज्ञ॒प्रीः सा॒कं ग॒न्मन॑सा य॒ज्ञम्।  
@@ -19,6 +25,12 @@ Lover of worship, leader, come Vâyu with thought, to sacrifice, Propitious with
 वा॒युर॑ग्रे॒गा य॑ज्ञ॒प्रीः ।
 सा॒कङ्ग॒न्मन॑सा य॒ज्ञम् ।
 शि॒वो नि॒युद्भि॑श्शि॒वाभिः॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वायुरग्रेगा यज्ञप्रीस्माकं गन्मनसा यज्ञम्।  
+शिवो नियुद्भिश्शिवाभिः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -34,6 +46,21 @@ Lover of worship, leader, come Vâyu with thought, to sacrifice, Propitious with
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 वायुः᳓ । अग्रे-गाः᳓ । यज्ञ-प्रीः᳓ । साक᳓म् । गन् । म᳓नसा । यज्ञ᳓म् । शिवः᳓ । नियु᳓द्भिः । शिवा᳓भिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वायुः᳓ (*MS*-62/119, *TS*-52/108, *RV*-22/89, *TB*-39/62, *TK*-7/13, *AV*-27/42, *SB-M*-155/252, *SB-K*-134/227, *VS-M*-25/48, *VS-K*-19/55)
+- अग्रे-गाः᳓ (*TS*-2, *RV*-0/1, *TB*-1, *VS-M*-1, *MS*-1)
+- यज्ञ-प्री᳓स् (समासस्य पा॰ ६.१.२२३, *TB*-1, *VS-M*-1, *VS-K*-1)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- क᳓म् (*Whitney*, *MW* ŚBr., *MS*-25, *TS*-19, *RV*-81, *TB*-4, *TK*-1, *AV*-25, *SB-M*-74, *SB-K*-66, *VS-M*-3, *VS-K*-3)
+- गन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-1, *TB*-1, *AV*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- शिवः᳓ (*MS*-23/68, *TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-19/49)
+- नियु᳓द्भिः (*MS*-4, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- शिवा᳓भिः (*MS*-4/68, *TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/49)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -110,6 +137,11 @@ Lover of worship, leader, come Vâyu with thought, to sacrifice, Propitious with
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 16अथ षोडशी - अयं वायुरग्रेगाः प्रथमगामी यज्ञप्रीः यज्ञेन प्रीयमाणः शिवाभिः शान्ताभिः नियुद्भिः नियुन्नामिकाभिः स्वकीयाभिर्वडवाभिः साकं शिवः स्वयमपि शान्तस्सन् मनसा गन् ध्यानमात्रेण यज्ञं गच्छतु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[140_1]** So corr.; Ch गर्मनसा; D घर्मनसा; cf. aber TBr 2, 4, 7, 6. (Thus emended; Ch गर्मनसा; D घर्मनसा; cf. however TBr 2, 4, 7, 6.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

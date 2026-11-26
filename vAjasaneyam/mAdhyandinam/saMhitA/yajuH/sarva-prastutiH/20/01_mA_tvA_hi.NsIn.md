@@ -2,28 +2,40 @@
 title = "०१ मा त्वा हिँसीन्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा᳓ त्वा हिँसीन् मा᳓ मा हिँसीः ॥१ ॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Harm not thyself: do me no harm.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May it not harm you!  
+Do not harm me!
+</details>
+
 <details><summary>मूलम्</summary>
 
 मा त्वा॑ हिँसी॒न्मा मा॑ हिँसीः ॥१ ॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मा। त्वा॒। हिँ॒सी॒त्। मा। मा॒। हिँ॒सीः॒। १।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 मा। त्वा॒। हिँ॒सी॒त्। मा। मा॒। हिँ॒सीः॒।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 कृष्णाजिनमस्यामास्तृणाति।
@@ -40,6 +52,7 @@ Harm not thyself: do me no harm.
 
 ‘यज्ञो वै कृष्णाजिनं यज्ञस्य चैवात्मनश्च हिंसायाः’ इति श्रुतिः॥ १॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 यज्ञाध्यासेन कृष्णाजिनं प्रार्थ्यते।

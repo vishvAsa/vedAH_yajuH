@@ -2,21 +2,55 @@
 title = "३८ उरु विष्णो"
 
 +++
+
 <details><summary>Griffith</summary>
 
 O Vishnu, stride thou widely forth, give ample room for our abode. Drink butter, homed in butter! Still speed on the sacrifice's lord. All-hail!
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stride wide, O Viṣṇu; make wide [space] for our abode!  
+Drink the ghee, O ghee-loving one; advance the lord of the sacrifice! Svāhā!
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उ॒रु वि॑ष्णो॒ विक्र॑मस्वो॒रु क्षया॑य नस्कृधि।  
 घृतं घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिं तिर॒ स्वाहा॑ ॥३८॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उरु᳓ विष्णो वि᳓क्रमस्वोरु᳓ क्ष᳓याय नस् कृधि  
+घृतं᳓ घृतवने पिब प्र᳓प्र यज्ञ᳓पतिं तिर ॥ स्वा᳓हा
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒रु। वि॒ष्णो॒ऽइति॑ विष्णो। वि। क्र॒म॒स्व॒। उ॒रु। क्षया॑य। नः॒। कृ॒धि॒। घृ॒तम्। घृ॒त॒यो॒न॒ इति॑ घृतऽयोने। पि॒ब॒। प्रप्रेति॒ प्रऽप्र॑। य॒ज्ञप॑ति॒मिति॑ य॒ज्ञऽप॑तिम्। ति॒र॒। स्वाहा॑। ३८।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उरु᳓ (*TS*-37/52, *RV*-63/118, *TB*-3/7, *TK*-0/3, *AV*-20/40, *SB-M*-21/38, *SB-K*-22/38, *VS-M*-19/29, *VS-K*-22/33, *KS*-9/15)
+- विष्णो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-10, *RV*-13, *TB*-3, *AV*-19, *SB-M*-9, *SB-K*-9, *VS-M*-8, *VS-K*-11, *KS*-3)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- क्रमस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-4, *AV*-4, *SB-M*-7, *SB-K*-7, *VS-M*-6, *VS-K*-8, *KS*-2)
+- उरु᳓ (*TS*-37/52, *RV*-63/118, *TB*-3/7, *TK*-0/3, *AV*-20/40, *SB-M*-21/38, *SB-K*-22/38, *VS-M*-19/29, *VS-K*-22/33, *KS*-9/15)
+- क्ष᳓याय (*TS*-6/19, *RV*-24/72, *TB*-0/1, *AV*-2/5, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-4/8, *VS-K*-8/11, *KS*-2/3)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- कृधि (*TS*-28, *RV*-76, *TB*-6, *AV*-42, *SB-M*-3, *SB-K*-3, *VS-M*-16, *VS-K*-17, *KS*-15)
+- घृत᳓म् (*TS*-41/64, *RV*-51/91, *TB*-21/34, *TK*-1, *AV*-26/40, *SB-M*-35/51, *SB-K*-33/51, *VS-M*-33/49, *VS-K*-26/43, *KS*-22/39)
+- घृत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- वने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *KS*-1)
+- पिब (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-31, *AV*-10, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-8, *KS*-2)
+- प्र᳓-प्र (*TS*-3, *RV*-12, *TB*-2, *TK*-1, *AV*-1, *SB-M*-4, *VS-M*-5, *VS-K*-9)
+- यज्ञ᳓-पतिम् (*TS*-24/40, *RV*-0/1, *TB*-2/12, *AV*-3/4, *SB-M*-23/37, *SB-K*-14/25, *VS-M*-16/22, *VS-K*-22/30, *KS*-5/6)
+- तिर (*TS*-1, *RV*-11, *AV*-4, *SB-M*-1, *VS-M*-2, *VS-K*-6, *KS*-1)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-478, *KS*-116)
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 उरुविष्णो।
@@ -53,6 +87,7 @@ O Vishnu, stride thou widely forth, give ample room for our abode. Drink butter,
 
 पुत्र्यश्वादिभिः॥ ३८॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 पूर्वमन्त्रेणाग्नीध्रीये होमोऽनेन त्वाहवनीय इति सूत्रार्थः।
@@ -75,6 +110,7 @@ O Vishnu, stride thou widely forth, give ample room for our abode. Drink butter,
 
 तुभ्यं सुहुतमस्तु॥ ३८॥
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विष्णुर्देवता

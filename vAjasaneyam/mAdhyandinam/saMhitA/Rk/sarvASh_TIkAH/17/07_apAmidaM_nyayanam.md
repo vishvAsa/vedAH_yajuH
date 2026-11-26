@@ -16,6 +16,18 @@ May thy bolts afflict another than us;
 Be thou purifying and auspicious to us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This is the resting-place of the waters, the abode of the ocean;  
+let your missiles burn others away from us; become purifying and auspicious to us!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+the release-place of the sea;  
+let your missiles burn others than us; purifier, be auspicious to us.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒पामि॒दं न्यय॑नँ समु॒द्रस्य॑ नि॒वेश॑नम्।  
@@ -26,6 +38,12 @@ Be thou purifying and auspicious to us.
 
 अ॒पामि॒दन्न्यय॑नँ समु॒द्रस्य॑ नि॒वेश॑नम् ।  
 अ॒न्यन्ते॑ अ॒स्मत्त॑पन्तु हे॒तयᳶ॑ पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपा᳓मिदं᳓ न्य᳓यनँ समुद्र᳓स्य विमो᳓चनम्।  
+अन्या᳓स्ते अस्म᳓त्तपन्तु हेत᳓यः पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -41,6 +59,24 @@ Be thou purifying and auspicious to us.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पाम् । इ॒दम् । न्यय॑न॒मिति॑ नि-अय॑नम् । स॒मु॒द्रस्य॑ । नि॒वेश॑न॒मिति॑ नि-वेश॑नम् ॥ अ॒न्यम् । ते॒ । अ॒स्मत् । त॒प॒न्तु॒ । हे॒तयः॑ । पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अप᳓ (*MS*-8, *TS*-10, *RV*-159, *TB*-1, *TK*-2, *AV*-1, *SB-M*-141, *SB-K*-130, *VS-M*-21, *VS-K*-2)
+- अमिद᳓न् (मूल-पाठः)
+- न्य᳓यनम् (*MS*-1/3, *SB-M*-1, *SB-K*-1)
+- समुद्र᳓स्य (*MS*-8/62, *TS*-8/51, *RV*-9/131, *TB*-2/22, *TK*-1/3, *AV*-4/66, *SB-M*-6/71, *SB-K*-7/74, *VS-M*-5/35, *VS-K*-5/33)
+- वि-मो᳓चनम् (*TS*-1, *RV*-5/8, *SB-M*-3, *SB-K*-3)
+- अन्याः᳓ (*MS*-18/208, *TS*-13/165, *RV*-7/176, *TB*-7/92, *TK*-0/2, *AV*-2/108, *SB-M*-26/332, *SB-K*-26/340, *VS-M*-0/32, *VS-K*-1/34)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अस्म᳓त् (*MS*-33/641, *TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/315, *VS-K*-22/274)
+- तपन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-4)
+- हेत᳓यः (*MS*-6/21, *TS*-7/24, *RV*-2/17, *TB*-0/3, *AV*-5/28, *SB-M*-6/29, *SB-K*-6/30, *VS-M*-5/18, *VS-K*-6/23)
+- पावकः᳓ (*MS*-10/28, *TS*-12/24, *RV*-20/46, *TB*-2/11, *TK*-1, *AV*-2/7, *SB-M*-7/19, *SB-K*-7/19, *VS-M*-6/10, *VS-K*-7/11)
+- अस्म᳓-भ्यम् (*MS*-33/641, *TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/315, *VS-K*-20/274)
+- शिवः᳓ (*MS*-23/68, *TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-19/49)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
 </details>
 
 <details><summary>उवट-टीका</summary>

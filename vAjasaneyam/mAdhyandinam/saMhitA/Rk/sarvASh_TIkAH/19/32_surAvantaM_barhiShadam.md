@@ -8,6 +8,18 @@ title = "३२ सुरावन्तं बर्हिषदम्"
 The rite with sacred grass, wine, store of heroes, the mighty ones speed on with adorations. May we, sweet-singing sacrificers, setting Soma mid Gods in heaven, give joy to Indra.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great [priests] speed with homages the sacrifice that possesses surā, seated on the barhis, with good heroes,  
+the sacrificing [priests] with good praises bestowing Soma in heaven upon the deities, [magnifying] Indra with exhilaration.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Possessing surā, seated on the sacrificial grass, possessing good heroes, the mighty ones speed the sacrifice with reverent homages,  
+placing Soma in heaven among the deities, the sacrificers with fair songs [speeding] Indra in exhilaration.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सुरा॑वन्तं बर्हि॒षदँ॑ सु॒वीरं॑ य॒ज्ञँ हि॑न्वन्ति महि॒षा नमो॑भिः।  
@@ -20,6 +32,12 @@ The rite with sacred grass, wine, store of heroes, the mighty ones speed on with
 य॒ज्ञँ हि॑न्वन्ति महि॒षा नमो॑भिः ।  
 दधा॑ना॒स्सोम॑न्दि॒वि दे॒वता॑सु ।  
 मदे॒मेन्द्रय्ँ॒यज॑मानास्स्व॒र्काः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सु᳓रावन्तं बर्हिष᳓दँ सुवी᳓रँ यज्ञँ᳓ हिन्वन्ति महिषा᳓ न᳓मोभिः  
+द᳓धानाः सो᳓मं दिवि᳓ देव᳓तासु म᳓देने᳓न्द्रँ य᳓जमानाः स्वर्काः᳓
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +53,44 @@ The rite with sacred grass, wine, store of heroes, the mighty ones speed on with
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सु᳓रावन्तम् । बर्हि-स᳓दम् । सु-वी᳓रम् । यज्ञ᳓म् । हिन्वन्ति । महिषा᳓ । न᳓मोभिः । द᳓धानाः । सो᳓मम् । दिवि᳓ । देव᳓तासु । म᳓देम । इ᳓न्द्रम् । य᳓जमानाः । स्वर्काः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सु᳓रावन्तम् (*TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- बर्हि-स᳓दम् (*TS*-1/4, *RV*-2/5, *TB*-5/10, *AV*-0/1, *SB-K*-5/9, *VS-M*-1/4, *VS-K*-1/3, *KS*-2/4)
+- सु-वी᳓रम् (*TS*-7/26, *RV*-24/92, *TB*-6/13, *AV*-3/22, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-5/13, *KS*-3/13)
+- यज्ञ᳓म् (*TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-81/179, *KS*-53/171)
+- हिन्वन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-22, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *KS*-3)
+- महिषा᳓ (*TS*-1/7, *RV*-1/39, *TB*-1, *AV*-0/15, *SB-M*-3/10, *SB-K*-3/10, *VS-M*-3/6, *VS-K*-1/7, *KS*-1)
+- न᳓मोभिः (*TS*-3/315, *RV*-45/182, *TB*-5/60, *TK*-0/4, *AV*-4/248, *SB-M*-3/105, *SB-K*-2/102, *VS-M*-4/244, *VS-K*-3/167, *KS*-7/305)
+- द᳓धानाः (*TS*-3/5, *RV*-31/68, *TB*-2/4, *AV*-11/18, *SB-M*-1, *SB-K*-1, *VS-M*-6/7, *VS-K*-6/7, *KS*-5/7)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-32/108, *KS*-24/80)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- देव᳓तासु (*TS*-7/381, *RV*-0/14, *TB*-5/156, *TK*-0/54, *AV*-3/35, *SB-M*-5/570, *SB-K*-5/590, *VS-M*-1/36, *VS-K*-1/35, *KS*-2/100)
+- म᳓देन (*TS*-0/9, *RV*-3/273, *TB*-1/8, *AV*-0/37, *SB-M*-2/10, *SB-K*-2/10, *VS-M*-1/11, *VS-K*-1/7, *KS*-2/5)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- य᳓जमानाः (*TS*-18/419, *RV*-3/63, *TB*-6/267, *TK*-0/1, *AV*-2/46, *SB-M*-12/614, *SB-K*-11/631, *VS-M*-3/52, *VS-K*-3/56, *KS*-2/53)
+- स्वर्काः᳓ (*TB*-1, *SB-K*-1, *VS-K*-2, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सु᳓रावन्तम् (*MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- बर्हि-स᳓दम् (*TS*-1/4, *RV*-2/5, *TB*-5/10, *AV*-0/1, *SB-K*-5/9, *VS-M*-1/4, *VS-K*-1/4, *MS*-4/8)
+- सु-वी᳓रम् (*MS*-7/20, *TS*-7/26, *RV*-24/92, *TB*-6/13, *AV*-3/22, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-5/14)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- हिन्वन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-22, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-1)
+- महिषा᳓ (*MS*-1/10, *TS*-1/7, *RV*-1/39, *TB*-1, *AV*-0/15, *SB-M*-3/10, *SB-K*-3/10, *VS-M*-3/6, *VS-K*-1/7)
+- न᳓मोभिः (*MS*-11/313, *TS*-3/315, *RV*-45/182, *TB*-5/60, *TK*-0/4, *AV*-4/248, *SB-M*-3/105, *SB-K*-2/102, *VS-M*-4/244, *VS-K*-3/168)
+- द᳓धानाः (*MS*-6/10, *TS*-3/5, *RV*-31/68, *TB*-2/4, *AV*-11/18, *SB-M*-1, *SB-K*-1, *VS-M*-6/7, *VS-K*-6/7)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- देव᳓तासु (*MS*-6/411, *TS*-7/381, *RV*-0/14, *TB*-5/156, *TK*-0/54, *AV*-3/35, *SB-M*-5/570, *SB-K*-5/590, *VS-M*-1/36, *VS-K*-1/36)
+- म᳓देन (*MS*-2/15, *TS*-0/9, *RV*-3/273, *TB*-1/8, *AV*-0/37, *SB-M*-2/10, *SB-K*-2/10, *VS-M*-1/11, *VS-K*-1/10)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- य᳓जमानाः (*MS*-11/350, *TS*-18/419, *RV*-3/63, *TB*-6/267, *TK*-0/1, *AV*-2/46, *SB-M*-12/614, *SB-K*-11/631, *VS-M*-3/52, *VS-K*-4/57)
+- स्वर्काः᳓ (*MS*-3, *TB*-1, *SB-K*-1, *VS-K*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -157,6 +213,13 @@ The rite with sacred grass, wine, store of heroes, the mighty ones speed on with
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 महिषाः महनीयाः पूजनीया यजमाना नमोभिः नमस्कारोपेतैर्मन्त्रैः यज्ञमिमं सौत्रामण्याख्यं हिन्वन्ति प्रीणयन्ति सम्यगनुतिष्ठन्तीत्यर्थः । कीदृशं यज्ञं? सुरावन्तं सुराद्रव्योपेतं बर्हिषदं बर्हिषि दर्भे आसाद्यमानेन हविषा युक्तं सुवीरं शोभनापत्यप्रदम् । दिवि द्युलोके देवतासु सोमं दधानाः संपादयन्तो वयं यजमानाः स्वर्काः शोभनेनार्चनेन युक्ता इन्द्रं मदेम हृष्टं करवाम ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[567_2]** Der Anfang des Capitels in T1 und Brl vorhanden ; darnach accentuirt. (The beginning of the chapter present in T1 and Brl; accented accordingly.)
+
+- **[567_3]** So corr., nach Anleitung von Mâitr. S. 3, 11, 7; cf. auch den folgenden Vers; Ms. म᳓देमे᳓न्द्रं; Ch so ohne Acc. (Thus emended, following the instruction of Mâitr. S. 3, 11, 7; cf. also the following verse; ms. म᳓देमे᳓न्द्रं; Ch thus without accent.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

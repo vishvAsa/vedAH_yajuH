@@ -2,28 +2,39 @@
 title = "४८ इमं मा हिँसीर्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमं᳓ मा᳓ हिँसीर् ए᳓क-शफं पशुं᳓ कनिक्रदं᳓ वाजि᳓नं वा᳓जिनेषु।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Harm not this animal whose hooves are solid, the courser neighing in the midst of coursers.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let thy burning pain reach the gaur;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒मं मा हिँ॑सी॒रेक॑शफं प॒शुं क॑निक्र॒दं वा॒जिनं॒ वाजि॑नेषु।
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इ॒मम्। मा। हिँ॒सीः॒। एक॑शफ॒मित्येक॑ऽशफम्। प॒शुम्। क॒नि॒क्र॒दम्। वा॒जिन॑म्। वाजि॑नेषु।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 इ॒मम्। मा। हिँ॒सीः॒। एक॑शफ॒मित्येक॑ऽशफम्। प॒शुम्। क॒नि॒क्र॒दम्। वा॒जिन॑म्। वाजि॑नेषु।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 अथाश्वस्य।
@@ -32,6 +43,7 @@ Harm not this animal whose hooves are solid, the courser neighing in the midst o
 
 कनिक्रदमत्यर्थं क्रन्दितारम् वाजिनं वेगवन्तम् वेगवत्सु मध्ये व्यवस्थितम्।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 अथाश्वस्य।
@@ -52,10 +64,12 @@ Harm not this animal whose hooves are solid, the courser neighing in the midst o
 
 तेषु मध्ये वाजिनं वेगवन्तम्।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथाश्वोपस्थान मन्त्र-पाठस् तु - ' इमं मा हिसीर् एकशर्फ पशुं कनिक्रदं वाजिनं वाजिनेषु ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 अथाश्वस्य ।

@@ -1,5 +1,5 @@
 +++
-title = "eSha_te_gAyatro"
+title = "८९ एष ते गायत्रो"
 unicode_script = "devanagari"
 +++
 

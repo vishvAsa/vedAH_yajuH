@@ -8,6 +8,12 @@ title = "७१ सविता वरुणो"
 Savitar, Varuna bestow gifts on the liberal offerer, Strength, power and treasure which the Good Protector took from Namuchi!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ and Varuṇa, bestowing upon the generous sacrificer,  
+Sutrāman, took the wealth, the power, and the faculty from Namuci.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒वि॒ता वरु॑णो॒ दध॒द् यज॑मानाय दा॒शुषे॑।  

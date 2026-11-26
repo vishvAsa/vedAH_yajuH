@@ -8,6 +8,12 @@ title = "६७ अश्विना हविरिन्द्रियम्
 The Asvins and Sarasvatî by wit from fiendish Namuchi Brought unto Indra sacred food, strength, brilliant treasure, ample wealth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two Aśvins and Sarasvatī with wisdom brought the oblation, faculty,  
+the bright wealth, the bounty from the Asura Namuci for Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विना॑ ह॒विरि॑न्द्रि॒यं नमु॑चेर्धि॒या सर॑स्वती।  
@@ -159,6 +165,13 @@ The Asvins and Sarasvatî by wit from fiendish Namuchi Brought unto Indra sacred
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 यावेतावश्विनौ, या च सरस्वती ते त्रयो मिलित्वा धिया स्वबुद्ध्या इन्द्रार्थं नमुचिनाम्नोऽसुरात् हविराजभ्रिरे आहृतवन्तः । कीदृशं हविः? इन्द्रियं इन्द्रियवधर्कं शुक्रं निर्मलं वसु निवासकारणं मघं महनीयम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_6]** So corr. Ch मास्वराद्वसु; cf. MS 3, 11, 4 und VS 26, 67 = Corr. (Thus emended; Ch मास्वराद्वसु; cf. MS 3, 11, 4 and VS 26, 67 agrees with the emendation)
+
+- **[575_7]** Auch VS 20, 67 मघ᳓° ; dagegen MS 3, 11, 4 मद्य᳓° (Also VS 20, 67 मघ᳓°; on the other hand MS 3, 11, 4 मद्य᳓°)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

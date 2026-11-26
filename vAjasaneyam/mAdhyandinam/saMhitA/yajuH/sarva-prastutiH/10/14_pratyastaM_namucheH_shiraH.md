@@ -2,38 +2,51 @@
 title = "१४ प्रत्यस्तं नमुचेः शिरः"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्यस्तं न᳓मुचेः शि᳓रः ॥१४॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 The head of Namuchi hath been cast from me.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Repelled is the head of Namuci!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्य॑स्तं॒ नमु॑चेः॒ शिरः॑ ॥१४॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 प्रत्य॑स्त॒मिति॒ प्रति॑ऽअस्तम्। नमु॑चेः। शिरः॑। १४।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्रत्य॑स्त॒मिति॒ प्रति॑ऽअस्तम्। नमु॑चेः। शिरः॑। ५।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 ‘असु क्षेपणे’ प्रतिगृह्य क्षिप्तम्।
 
 नमुचेरसुरस्य शिरः॥ १४॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 'वर्चः तेजोऽभिमानी देवो धनं रक्षतु ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 एवम् ऊर्ध्वं दिशम् 'आरोह । ऊर्ध्वा दिशम् आक्रममाणं त्वां 'पङ्क्तिः नाम छन्दः "अवतु । शाकर-रैवते 'सामनी द्वे त्वाम् अवताम् । त्रिणव-त्रयस्त्रिंशस्तो मौ च त्वामवताम् । "हेमन्त शिशिरौ च 'ऋतू त्वामवताम् । 'वर्चः 'द्रविणम् । अत्र ब्रह्मवर्चसमेतद्भविणं त्वामवतु । सीसं निरस्यति ' प्रत्यस्तं नमुचेः शिरः' इति ।

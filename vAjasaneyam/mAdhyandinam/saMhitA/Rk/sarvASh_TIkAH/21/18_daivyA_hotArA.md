@@ -8,6 +8,12 @@ title = "१८ दैव्या होतारा"
 The two celestial Hotars, both Physicians, Indra's close-knit friends, The metre Jagatî, an ox who draws the wain, give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Hotṛs, the physicians, joined with Indra as an ally;  
+the Jagatī metre, faculty, the draft-ox, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दैव्या॒ होता॑रा भि॒षजेन्द्रे॑ण स॒युजा॑ यु॒जा।  

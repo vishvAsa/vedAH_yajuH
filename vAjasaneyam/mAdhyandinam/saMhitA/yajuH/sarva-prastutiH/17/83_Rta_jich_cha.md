@@ -2,24 +2,36 @@
 title = "८३ ऋत जिच् च"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत-जि᳓च् च सत्य-जि᳓च् च सेन-जि᳓च् च सुषे᳓णश् च। अ᳓न्ति-मित्रश् च दूरे᳓ अमित्रश् च गणः᳓ ॥८३ ॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Friends-are-Near-at-Hand, Whose-Banded-Enemies-are-Far-Away:
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and Winner of truth, and Winner of reality,  
+and Winner of armies, and Having good armies;  
+and Having friends near, and Having foes afar, a troop;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒त॒जिच्च॑ सत्य॒जिच्च॑ सेन॒जिच्च॑ सु॒षेण॑श्च। अन्ति॑मित्रश्च दू॒रेऽअ॑मित्रश्च ग॒णः ॥८३ ॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ऋ॒त॒जिदित्यृ॑त॒ऽजित्। च॒। स॒त्यजिदिति॑ सत्य॒ऽजित्। च॒। से॒न॒जिदिति॑ सेन॒ऽजित्। च॒। सु॒षेणः॑। सु॒सेन॒ इति॑ सु॒ऽसेनः॑। च॒। अन्ति॑मित्र॒ इत्यन्ति॑ऽमित्रः। च॒। दू॒रेऽअ॑मित्र॒ इति॑ दू॒रेऽअ॑मित्रः। च॒। ग॒णः। ८३।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 ऋतजिच्च।
@@ -34,6 +46,7 @@ Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Fr
 
 दूरेअमित्रश्च गणः ऋजुः॥ ८३॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 उष्णिक्।
@@ -54,6 +67,7 @@ Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Fr
 
 गणयति सर्वमिति गणः॥ ८३॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ तृतीयः
@@ -67,6 +81,7 @@ Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Fr
 
 गणयतीति गणः ॥ ३ ॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ' ऋतजिच् च ' इति ।
@@ -82,6 +97,7 @@ Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Fr
 गणयतीति
 गणः ॥ ८२ ॥
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मरुतो देवताः
@@ -89,30 +105,37 @@ Winner-of-Right, Winner-of-Truth, Host-Conquering, Lord-of-Goodly-Host, Whose-Fr
 - भुरिगार्ष्युष्णिक्
 - ऋषभः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब विद्वान् लोग कैसे हों, यह विषय अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  जो (ऋतजित्) विशेष ज्ञान को बढ़ानेहारा (च) और (सत्यजित्) कारण तथा धर्म को उन्नति देनेवाला (च) और (सेनजित्) सेना को जीतनेहारा (च) और (सुषेणः) सुन्दर सेनावाला (च) और (अन्तिमित्रः) समीप में सहाय करनेहारे मित्रवाला (च) और (दूरे अमित्रः) शत्रु जिससे दूर भाग गये हों (च) और अन्य भी जो इस प्रकार का हो, वह (गणः) गिनने योग्य होता है ॥८३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  जो मनुष्य विद्या और सत्य आदि कामों की उन्नति करें तथा मित्रों की सेवा और शत्रुओं से वैर करें, वे ही लोक में प्रशंसा योग्य होते हैं ॥८३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 अथ विद्वांसः कीदृशा भवेयुरित्युच्यते
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  य ऋतजिच्च सत्यजिच्च सेनजिच्च सुषेणश्चान्तिमित्रश्च दूरेऽअमित्रश्च भवेत्, स एव गणो गणनीयो जायते ॥८३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  ये मनुष्या विद्यासत्यादीनि कर्माण्युन्नयेयुर्मित्रसेविनः शत्रुद्वेषिणश्च भवेयुस्त एव लोके प्रशंसनीयाः स्युः ॥८३ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे विद्या व सत्याची वृद्धी करून मित्रांना मदत करतात व शत्रूंपासून दूर राहतात तीच प्रशंसा करण्यायोग्य असतात.

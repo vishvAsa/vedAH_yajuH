@@ -16,6 +16,12 @@ Without top-knot, with braided hair--
 At a thousand leagues.}
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are overlords of spirits, hairless or braided-haired;  
+at a thousand leagues away we unstring their bows.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ये भू॒ताना॒मधि॑पतयो विशि॒खासः॑ कप॒र्दिनः॑।  
@@ -76,6 +82,11 @@ At a thousand leagues.}
 भूतशब्देनान्तर्हितशरीराः सन्तो मनुष्योपद्रवकारिणो गणविशेषा उच्यन्ते।  
 तेषामधिपतयो ये रुद्रास्तेषु केचिद्विशिखासो युण्डिमूर्धानः।  
 अपरे कपर्दिनो जटाबन्धोपेतास्तेषा मित्यादि।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[256_4]** Ch खासाः
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

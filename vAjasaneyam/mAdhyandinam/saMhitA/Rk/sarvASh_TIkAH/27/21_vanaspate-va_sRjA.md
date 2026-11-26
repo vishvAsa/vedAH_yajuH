@@ -15,10 +15,22 @@ Bestowing with thyself among the gods;
 Let Agni as queller make ready the oblation.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+O tree, release [it], bestowing it yourself among the gods;  
+may Agni the slaughterer prepare the oblation.
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 वन॑स्प॒तेऽव॑ सृजा॒ ररा॑ण॒स्त्मना॑ दे॒वेषु॑।  
 अ॒ग्निर्ह॒व्यँ श॑मि॒ता सू॑दयाति ॥२१ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वनस्पतेऽवसृज रराणस्त्मना देवेषु।  
+अग्निर्हविश्शमिता सूदयाति
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -34,6 +46,20 @@ Let Agni as queller make ready the oblation.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वन॑स्पते । अवेति॑ । सृ॒ज॒ । ररा॑णः । त्मना॑ । दे॒वेषु॑ ॥ अ॒ग्निः । ह॒व्यम् । श॒मि॒ता । सू॒द॒या॒ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓नस्पते (*MS*-5, *TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-3)
+- अ᳓व (*Whitney*, *MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- सृज᳓ (*MS*-2/4, *TS*-3/5, *RV*-4, *AV*-11, *SB-M*-2/4, *SB-K*-3/5, *VS-M*-2, *VS-K*-2)
+- र᳓राणः (*MS*-2, *TS*-3, *RV*-10/12, *AV*-3, *VS-M*-2, *VS-K*-2)
+- त्म᳓ना (*MS*-8, *TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- शमिता᳓ (*MS*-4/9, *TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-7/12)
+- सूदयाति (*MS*-1, *TS*-1, *RV*-3)
 </details>
 
 <details><summary>उवट-टीका</summary>

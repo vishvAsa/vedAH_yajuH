@@ -15,6 +15,12 @@ The priest implored with adoration;
 To Agni the ladles (move) when the rites proceed.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+comes toward this [sacrifice] with might, with ghee.  
+Invoked, the carrier [praising] with reverence Agni, while the ladles proceed at the rites,
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अच्छा॒यमे॑ति॒ शव॑सा घृ॒तेने॑डा॒नो वह्नि॒र्नम॑सा।  
@@ -25,6 +31,12 @@ To Agni the ladles (move) when the rites proceed.
 
 अच्छा॒यमे॑ति॒ शव॑सा घृ॒तेने॑ळा॒नो वह्नि॒र्नम॑सा ।  
 अ॒ग्निँ स्रुचो॑ अध्व॒रेषु॑ प्र॒यत्सु॑ ॥४॥ १४
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓छाय᳓म् एति श᳓वसा घृते᳓न  
+ईडानो᳓ व᳓ह्निर् न᳓मसाग्निँ᳓ स्रु᳓चो अध्वरे᳓षु प्रय᳓त्सु
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -40,6 +52,21 @@ To Agni the ladles (move) when the rites proceed.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अच्छ॑ । अ॒यम् । ए॒ति॒ । शव॑सा । घृ॒तेन॑ । ई॒डा॒नः । वह्निः॑ । नम॑सा ॥ अ॒ग्निम् । स्रुचः॑ । अ॒ध्व॒रेषु॑ । प्र॒यत्स्विति॑ प्र॒यत्-सु॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓-छाय᳓म् → **अ-छाय᳓म्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *SB-M*-1)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2, *KS*-18)
+- श᳓वसा (*TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8, *KS*-6/7)
+- घृते᳓नः (मूल-पाठः)
+- ईडानः᳓ (*TS*-1, *VS-M*-1, *VS-K*-1)
+- व᳓ह्निः (*TS*-5/15, *RV*-30/65, *TB*-4/9, *AV*-2/7, *VS-M*-2/4, *VS-K*-2/6)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/322, *VS-K*-62/339, *KS*-38/256)
+- स्रु᳓चः (*TS*-5/21, *RV*-5/11, *TB*-9/19, *AV*-3/7, *SB-M*-24/128, *SB-K*-16/107, *VS-M*-2/4, *VS-K*-2/5, *KS*-3/7)
+- अध्वरे᳓षु (*TS*-4/27, *RV*-27/196, *TB*-1/25, *TK*-0/2, *AV*-3/22, *SB-M*-1/71, *SB-K*-1/68, *VS-M*-5/26, *VS-K*-4/21, *KS*-2/15)
+- प्रय᳓त्सु (*TS*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>

@@ -8,6 +8,12 @@ title = "१६ दुरो देवीर्दिशो"
 The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, here a bull in his fourth year, give power and life
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine doors, the great quarters, the divine Brahman Bṛhaspati;  
+the Paṅkti metre, faculty here, the four-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दुरो॑ दे॒वीर्दिशो॑ म॒हीर्ब्र॒ह्मा दे॒वो बृह॒स्पतिः॑।  
@@ -20,6 +26,12 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 ब्र॒ह्मा दे॒वो बृह॒स्पतिः॑ ।  
 प॒ङ्क्तिश्छन्द॑ इ॒हेन्द्रि॒यम् ।
 तु॒र्य॒वाड्गौर्वयो॑ दधुः ॥85॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दुरो देवीर्दिशो महीर्ब्रह्मा देवो बृहस्पतिः।  
+पङ्क्तिश्छन्द इदेन्द्रियं तुर्यवाङ्गौर्वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +47,26 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 दु᳓रः । देवीः᳓ । दि᳓शः । महीः᳓ । ब्रह्मा᳓ । देवः᳓ । बृ᳓हस्प᳓तिः । पङ्क्तिः᳓ । छ᳓न्दः । इह᳓ । इन्द्रिय᳓म् । तुर्य-वा᳓ट् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दु᳓रः (*MS*-13, *TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- दि᳓शः (*MS*-70, *TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-25)
+- महीः᳓ (*MS*-5/28, *TS*-2/24, *RV*-29/131, *TB*-3/8, *TK*-0/1, *AV*-10/47, *SB-M*-2/19, *SB-K*-2/19, *VS-M*-4/26, *VS-K*-3/27)
+- ब्रह्मा᳓ (*MS*-16/31, *TS*-10/26, *RV*-24/47, *TB*-25/38, *TK*-1/2, *AV*-21/64, *SB-M*-65/112, *SB-K*-72/113, *VS-M*-9/14, *VS-K*-7/16)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- पङ्क्तिः᳓ (*MS*-11/22, *TS*-21/31, *RV*-0/1, *TB*-6/9, *TK*-1, *AV*-2/5, *SB-M*-20/39, *SB-K*-19/33, *VS-M*-5/6, *VS-K*-3/7)
+- छ᳓न्दः (*Whitney*, *MS*-138/416, *TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89)
+- इदा᳓ (*MS*-1/232, *TS*-0/139, *RV*-16/194, *TB*-0/104, *TK*-0/34, *AV*-1/259, *SB-M*-0/1046, *SB-K*-1/985, *VS-M*-0/65, *VS-K*-0/64)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- तुरि᳓ (*Whitney*)
+- अ᳓वाङ् (*MS*-3, *TS*-3, *TB*-1, *SB-M*-15, *SB-K*-23)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -114,6 +146,13 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 दुरः पञ्चमप्रयाजदेवताः । ताश्च देवीः द्योतमानाः । दिशो दिग्रूपाः । महीर्महत्यः । यश्च ब्रह्मा ब्राह्मणस्वामी बृहस्पतिर्देवः, यदपि पङ्किश्छन्दः, योऽपि सार्धसंवत्सरत्रयोपेतो गौः एते देवा इन्द्रियं, वयश्च दधुः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_1]** So corr. Ch महा ब्रह्मा (Thus emended; Ch reads महा ब्रह्मा)
+
+- **[577_2]** So corr. Ch पाङ्ङ्क्ति° (Thus emended; Ch reads पाङ्ङ्क्ति°)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

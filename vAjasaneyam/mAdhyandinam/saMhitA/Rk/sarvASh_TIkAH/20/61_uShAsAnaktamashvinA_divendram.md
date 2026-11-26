@@ -8,6 +8,12 @@ title = "६१ उषासानक्तमश्विना दिवेन
 Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, with Sarasvatî, deck Indra with surpassing powers.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dawn and Night, the two Aśvins, Indra by day, at evening with faculties,  
+agreeing, well-formed, anoint together with Sarasvatī.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उ॒षासा॒नक्त॑मश्विना॒ दिवेन्द्रँ॑ सा॒यमि॑न्द्रि॒यैः।  
@@ -28,6 +34,12 @@ Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, wi
 सम॑ञ्जाते॒ सर॑स्वत्या ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उषा᳓सा न᳓क्तम् अश्वि᳓ना दिवे᳓न्द्रँ सा᳓यम् इन्द्रियैः᳓  
+संजानाने᳓ सुपे᳓शसा स᳓मञ्जाते स᳓रस्वत्या
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒षासा॑। उ॒षसेत्यु॒षसा॑। नक्त॑म्। अ॒श्वि॒ना॒। दिवा॑। इन्द्र॑म्। सा॒यम्। इ॒न्द्रि॒यैः। स॒ञ्जा॒ना॒ने इति॑ सम्ऽजाना॒ने। सु॒पेश॒सेति॑ सु॒ऽपेश॑सा। सम्। अ॒ञ्जा॒ते॒ऽइत्य॑ञ्जाते। सर॑स्वत्या। ६१।
@@ -41,6 +53,22 @@ Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, wi
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उषा᳓सा । न᳓क्तम् । अश्विना । दि᳓वा । इ᳓न्द्रम् । साय᳓म् । इन्द्रियैः᳓ । सम्-जानाने᳓ । सु-पे᳓शसा । स᳓मम् । जाते । स᳓रस्वत्या ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उषा᳓सा (*TS*-1/2, *TB*-1, *VS-M*-2/5, *VS-K*-2/4)
+- न᳓क्तम् (*TS*-15, *RV*-33, *TB*-15, *TK*-1, *AV*-11, *SB-M*-10, *SB-K*-9, *VS-M*-8, *VS-K*-6, *KS*-6)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- दिवा᳓ (*TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9, *KS*-5)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380, *KS*-41/189)
+- सा᳓यम् (मूल-पाठः)
+- इन्द्रियैः᳓ (*TS*-0/191, *RV*-1/41, *TB*-1/217, *TK*-0/1, *AV*-1/21, *SB-M*-0/99, *SB-K*-0/98, *VS-M*-2/106, *VS-K*-2/83, *KS*-0/55)
+- सम्-जानाने᳓ (*TS*-0/1, *RV*-0/2, *TB*-2/4, *AV*-0/2, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *KS*-0/1)
+- सु-पे᳓शसा (*TS*-0/1, *RV*-5/18, *TB*-4/6, *AV*-0/2, *VS-M*-6, *VS-K*-6, *KS*-0/1)
+- स᳓मम् (*TS*-0/14, *RV*-0/3, *TB*-2/5, *AV*-0/12, *SB-M*-0/9, *SB-K*-0/13, *VS-M*-0/8, *VS-K*-0/14, *KS*-0/2)
+- जाते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- स᳓रस्वत्या (*TS*-2/45, *RV*-1/54, *TB*-6/87, *AV*-1/32, *SB-M*-1/63, *SB-K*-2/59, *VS-M*-11/105, *VS-K*-8/94, *KS*-3/11)
 </details>
 
 <details><summary>उवट-टीका</summary>

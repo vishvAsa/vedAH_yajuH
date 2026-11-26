@@ -8,6 +8,18 @@ title = "४५ ये समानाः"
 The Fathers who in Yama's realm are equal and unanimous— Their world is Svadhâ, reverence. To Gods let sacrifice be paid.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those fathers who are equals, like-minded, in the realm of Yama—  
+let their world, the Svadhā, homage, the sacrifice be prepared among the gods!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Those fathers who are equals, of one mind, in Yama's realm:  
+theirs is the world, svadhā, homage! May their sacrifice be accomplished among the gods!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ये स॑मा॒नाः सम॑नसः पि॒तरो॑ यम॒राज्ये॑।  
@@ -116,6 +128,11 @@ The Fathers who in Yama's realm are equal and unanimous— Their world is Svadh�
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 यमराज्ये यमलोके वर्तमानाः पितरो मया समानस्वभावाः संगतमनस्काश्च ये सन्ति तेषां पितॄणां लोको ममास्त्विति शेषः । तेभ्यः पितृभ्यः स्वधा हविश्शेषो दत्तो नमस्कारश्च कृतः । अयं मदीयो यज्ञो देवेषु कल्पतां तृप्तिप्रदो भवतु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[568_6]** Hier bricht T7 ab, desgleichen Brl fol. 91; daher das Weitere ohne Accent, nur nach Ch. (Here T7 breaks off, likewise Brl fol. 91; hence the rest without accent, after Ch alone.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

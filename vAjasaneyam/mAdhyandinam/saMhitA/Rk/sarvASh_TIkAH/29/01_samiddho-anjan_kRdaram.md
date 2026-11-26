@@ -13,6 +13,12 @@ DECKING the treasure-house of prayers, O Agni, enkindled, pouring forth sweet-ta
 Enkindled, decking the store-room of prayers, Swelling with sweet butter, O Agni, Steed bearing the strong drink, O all-knower, Carry it to the dear place of the gods.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled, anointing the chamber of prayers, Agni, swelling with sweet ghee,  
+bringing the courser as a courser, Jātavedas, bring [him] to the dear dwelling of the gods.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 समि॑द्धोऽअ॒ञ्जन् कृद॑रं मती॒नां घृ॒तम॑ग्ने॒ मधु॑म॒त् पिन्व॑मानः।  
@@ -23,6 +29,12 @@ Enkindled, decking the store-room of prayers, Swelling with sweet butter, O Agni
 
 समि॑द्धो अ॒ञ्जन् कृद॑रम्मती॒नाङ् घृ॒तम॑ग्ने॒ मधु॑म॒त्पिन्व॑मानः ।  
 वा॒जी वह॑न्वा॒जिन॑ञ् जातवेदो दे॒वानाव्ँ॑ वक्षि प्रि॒यमा स॒धस्थ॑म् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+समिद्वो अञ्जन्कृदरं मतीनां घृतमग्रे मधुमत्पिन्वमानः।  
+वाजी वहन्वाजिनं जातवेदो देवानां वक्षि प्रियमा सधस्थम्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -38,6 +50,28 @@ Enkindled, decking the store-room of prayers, Swelling with sweet butter, O Agni
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 समि॑द्ध॒ इति॒ सम्-इ॒द्धः॒ । अ॒ञ्जन् । कृद॑रम् । म॒ती॒नाम् । घृ॒तम् । अ॒ग्ने॒ । मधु॑म॒दिति॒ मधु॑-म॒त् । पिन्व॑मानः ॥ वा॒जी । वह॑न् । वा॒जिन॑म् । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । दे॒वाना॑म् । व॒क्षि॒ । प्रि॒यम् । एति॑ । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सम्-इ᳓त् (*MS*-23, *TS*-1/4, *RV*-3/6, *TB*-6/7, *TK*-1, *AV*-5, *SB-M*-21/30, *SB-K*-21/30, *VS-M*-6/7, *VS-K*-5/7)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- अञ्ज᳓न् (*MS*-1, *TS*-2, *RV*-2, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- कृ᳓दरम् (*MS*-1, *TS*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मतीना᳓म् (*MS*-3/16, *TS*-2/9, *RV*-23/141, *TB*-2/10, *TK*-0/1, *AV*-4/18, *SB-M*-3/12, *SB-K*-3/11, *VS-M*-2/13, *VS-K*-2/14)
+- घृत᳓म् (*MS*-72/118, *TS*-41/64, *RV*-51/91, *TB*-21/34, *TK*-1, *AV*-26/40, *SB-M*-35/51, *SB-K*-33/51, *VS-M*-33/49, *VS-K*-26/45)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- म᳓धुमत् (*MS*-9/16, *TS*-3/11, *RV*-19/43, *TB*-1/4, *TK*-0/1, *AV*-17/29, *SB-M*-1/5, *SB-K*-1/6, *VS-M*-3/10, *VS-K*-3/10)
+- पि᳓न्वमानः (*MS*-1/4, *TS*-1/5, *RV*-2/10, *TB*-0/4, *TK*-2/3, *AV*-2/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-2/6, *VS-K*-2/6)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- व᳓हन् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-4, *VS-M*-1, *VS-K*-1)
+- वाजि᳓नम् (*MS*-6/48, *TS*-11/55, *RV*-51/172, *TB*-3/18, *TK*-1, *AV*-10/25, *SB-M*-3/28, *SB-K*-3/24, *VS-M*-5/35, *VS-K*-5/33)
+- जात-वेदः (समानान्तर-पाठः (TS), *MS*-21, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-11)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- वक्षि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-25, *TB*-1, *AV*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- प्रिय᳓म् (*MS*-36/135, *TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-10/47)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सध᳓-स्थम् (*MS*-10/40, *TS*-9/28, *RV*-14/45, *TB*-2/7, *TK*-0/1, *AV*-6/18, *SB-M*-13/39, *SB-K*-9/30, *VS-M*-7/27, *VS-K*-6/21)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -137,6 +171,11 @@ Enkindled, decking the store-room of prayers, Swelling with sweet butter, O Agni
 वाजिनम् "वाजि-लक्षणं विशिष्टं हविः । वहन् देवान् प्रति देवानां प्रियं मधुमद् घृतम् । आसघस्थम् सह स्थितम् । [ १००४ भ्वादिः ] आभिमुख्येन प्रापय ॥ १ ॥ .
 वहन् प्रापयन् । हे श्री-जात-वेदः,
 देवान् प्रति आवक्षि 'वह प्रापणे'
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[638_3]** Ch कदर
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

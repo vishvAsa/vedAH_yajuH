@@ -2,28 +2,39 @@
 title = "१७ जूर् असि धृता"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जू᳓र् असि धृता᳓ म᳓नसा जु᳓ष्टा वि᳓ष्णवे ॥१७॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Impetuous art thou, upheld by mind, and Vishnu loveth thee.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are impetuous, held by the mind, pleasing to Viṣṇu;
+</details>
+
 <details><summary>मूलम्</summary>
 
 जूर॑सि धृ॒ता मन॑सा॒ जुष्टा॒ विष्ण॑वे ॥१७॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 जूः। अ॒सि॒। धृ॒ता। मन॑सा। जुष्टा॑। विष्ण॑वे। १७।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 जूः। अ॒सि॒। धृ॒ता। मन॑सा। जुष्टा॑। विष्ण॑वे। १।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 अस्य क्विबन्तस्यापि डूप्रत्यये जूरिति भवति।
@@ -44,6 +55,7 @@ Impetuous art thou, upheld by mind, and Vishnu loveth thee.
 
 विष्णवे विष्णोः सोमस्य॥ १७॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 हे वाक्, त्वं जूरसि वेगयुक्तासि।
@@ -68,6 +80,7 @@ Impetuous art thou, upheld by mind, and Vishnu loveth thee.
 
 यज्ञस्य रुचिता॥ १७॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 पाठस् तु - 'जूरसि धृता मनसा जुष्टा विष्णवे । तस्यास् ते सत्य-सवसः प्रसवे तनु यन्त्रमशीय स्वाहा' इति ।
@@ -76,6 +89,7 @@ Impetuous art thou, upheld by mind, and Vishnu loveth thee.
 
 'विष्णवे 'जुष्टा यज्ञाथं प्रीति-युक्ताऽसि ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 या वं जीवनम् असि ।

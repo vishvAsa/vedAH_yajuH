@@ -16,6 +16,12 @@ May we enjoy the loving favour of earth,
 That are about to dig fire in her lap.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Step forth for great good fortune from this place, O courser who gives wealth!  
+May we be in the goodwill of the earth, digging Agni in her lap!'
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उत्क्रा॑म मह॒ते सौभ॑गाया॒स्मादा॒स्थाना॑द् द्रविणो॒दा वा॑जिन्।  
@@ -114,6 +120,11 @@ That are about to dig fire in her lap.
 <details><summary>सायण-टीका (तैत्तिरीया)</summary>
 
 हे वाजिन्द्रविणोदा धनप्रदस्त्वं यजमानस्य महते सौभगाय सौभाग्याभिवृद्ध्यर्थमस्मादास्थानात्खननप्रदेशादुत्क्रामोद्गतो भव।   वयं पृथिब्याः सुमतावनुग्रहचित्ते स्याम तिष्ठेम।   कीदृशा वयम्।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[220_3]** So corr. Die Mss. यास्सादा॰ (Thus emended the mss. यास्सादा॰)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

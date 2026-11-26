@@ -8,6 +8,18 @@ title = "८५ इन्द्रः सुत्रामा"
 Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave truth its being. Varuna, doctoring the lungs and liver, forms, as with Vâyu cups, the gall and kidneys.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, the good protector, with his heart [produced] truth, Savitar produced [it] with the puroḍāśa;  
+Varuṇa healing the liver, the lungs, does not injure the bile with the kidneys, as with the Vāyu-cups.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Indra Sutrāman with the heart, Savitṛ brought forth the truth with the sacrificial cake;  
+Varuṇa, healing the liver and the lungs, measures out the bile in the kidneys, as if with Vāyavya cups.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्रः॑ सु॒त्रामा॒ हृद॑येन स॒त्यं पु॑रो॒डशे॑न सवि॒ता ज॑जान।  
@@ -28,6 +40,18 @@ Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave t
 मत॑स्ने वाय॒व्यै॑र्न मि॑नाति पि॒त्तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रः सुत्रा᳓मा हृ᳓दयेन सत्यं᳓ पुरोडा᳓शेन सविता᳓ जजान  
+य᳓कृत् क्लोमा᳓नँ व᳓रुणो भिषज्य᳓न् म᳓तस्ने वायव्यै᳙र् न᳓ मिनाति पित्त᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्रस्सुत्रामा हृदयेन सत्यं पुरोडाशेन सविता जजान।  
+यकृत्क्लोमानं वरुणो भिषज्यन्मतस्ने वायव्यैर्न मिनाति पित्तम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इन्द्रः॑। सु॒त्रामेति॑ सु॒ऽत्रामा॑। हृद॑येन। स॒त्यम्। पु॒रो॒डाशे॑न। स॒वि॒ता। ज॒जा॒न॒। यकृ॑त्। क्लो॒मान॑म्। वरु॑णः। भि॒ष॒ज्यन्। मत॑स्ने॒ इति॒ मत॑ऽस्ने। वा॒य॒व्यैः᳖। न। मि॒ना॒ति॒। पि॒त्तम्। ८५।
@@ -41,6 +65,47 @@ Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave t
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्रः । सु-त्रा᳓मा । हृ᳓दयेन । सत्य᳓म् । पुरो-डा᳓शेन । सविता᳓ । जजान । य᳓कृत् । क्लोमा᳓नम् । व᳓रुणः । भिषज् । य᳓न् । म᳓तस्ने । वायव्यैः᳙ । न᳓ । मिनाति । पित्त᳓म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-72/189)
+- सु-त्रा᳓मा (*TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20, *KS*-2/3)
+- हृ᳓दयेन (*TS*-2, *TB*-2, *AV*-2, *SB-M*-9, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47, *KS*-13/24)
+- पुरो-डा᳓शेन (*TS*-2/116, *RV*-0/19, *TB*-2/52, *TK*-0/7, *AV*-0/4, *SB-M*-24/210, *SB-K*-19/171, *VS-M*-3/9, *VS-K*-3/19, *KS*-0/7)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109, *KS*-14/41)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
+- य᳓कृत् (*TB*-1, *AV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-1)
+- क्लोमा᳓नम् (*TS*-0/1, *TB*-1, *AV*-0/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84, *KS*-41/72)
+- भिषज् (*TB*-3)
+- य᳓त् (*TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609, *KS*-257/818)
+- म᳓तस्ने (*TS*-0/2, *RV*-0/1, *TB*-1, *AV*-1/3, *SB-M*-2, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/3)
+- वायव्यैः᳙ (*TS*-1, *TB*-1, *VS-M*-1, *VS-K*-2/4)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- मिनाति (*RV*-10, *TB*-1, *AV*-3, *SB-K*-6, *VS-K*-1, *KS*-1)
+- पित्त᳓म् (*TS*-1/2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-2/3, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- सु-त्रा᳓मा (*MS*-10/17, *TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20)
+- हृ᳓दयेन (*MS*-1, *TS*-2, *TB*-2, *AV*-2, *SB-M*-9, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- पुरो-डा᳓शेन (*MS*-4/67, *TS*-2/116, *RV*-0/19, *TB*-2/52, *TK*-0/7, *AV*-0/4, *SB-M*-24/210, *SB-K*-19/171, *VS-M*-3/9, *VS-K*-3/19)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5)
+- य᳓कृत् (*MS*-1, *TB*-1, *AV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-1)
+- क्लोमा᳓नम् (समानान्तर-पाठः (MS), *MS*-1/4, *TS*-0/1, *TB*-1, *AV*-0/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- भिषज्य᳓म् (*Macdonell*, *MS*-2, *SB-M*-0/1, *VS-M*-2, *VS-K*-2)
+- म᳓तस्ने (*MS*-1/3, *TS*-0/2, *RV*-0/1, *TB*-1, *AV*-1/3, *SB-M*-2, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/3)
+- वायव्यैः᳙ (*MS*-1, *TS*-1, *TB*-1, *VS-M*-1, *VS-K*-2/4)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- मिनाति (समानान्तर-पाठः (MS), *MS*-1, *RV*-10, *TB*-1, *AV*-3, *SB-K*-6, *VS-K*-1)
+- पित्त᳓म् (*MS*-2/3, *TS*-1/2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-2/3)
 </details>
 
 <details><summary>उवट-टीका</summary>

@@ -8,6 +8,12 @@ title = "३५ यदत्र रिप्तम्"
 Whatever portion of the savoury fluid is clinging here, what Indra drank with powers, That drop thereof with pure and holy spirit I drink and feed upon, the King, the Soma.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What of the pressed, sapful draught was smeared here, what Indra drank through his deeds of might,  
+that King Soma of his with a gracious mind I consume here.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदत्र॑ रि॒प्तँ र॒सिनः॑ सु॒तस्य॒ यदिन्द्रो॒ऽअपि॑ब॒च्छची॑भिः।  
@@ -146,6 +152,11 @@ Whatever portion of the savoury fluid is clinging here, what Indra drank with po
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 भक्षयत इति शेषः । रसिनो रसयुक्तस्य सुतस्याभिषुतस्य सोमात्मकस्य पयसो यदवशिष्टं पात्रे रिप्तं लिप्तं यच्चेन्द्रः स्वकीयाभिः शचीभिः शक्तिभिः सहापिबत् । अस्य सोमात्मकस्य पयसः तदवशिष्टं रसरूपं सोमराजत्वेन भाव्यमानं इह कर्मणि शिवेन मनसाऽहं भक्षयामि ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[567_7]** Bis hierher nach T1 und Brl accentuirt; T1 geht dann weiter auf Kâth. 13, 16 über; auch Brl bricht hier ab. (Accented up to here according to T1 and Brl; T1 then proceeds to Kâth. 13, 16; Brl also breaks off here.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

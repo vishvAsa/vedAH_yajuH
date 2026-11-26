@@ -13,6 +13,12 @@ Let the divine Adhvaryus flay thy body and dissect thy frame, And let the sacrif
 May the divine Adhvaryus cut thee, And divide thee; May the piercers piercing Joint thy limbs.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the divine Adhvaryus cut you up and carve you;  
+joint by joint let them make stitchings, stitching your limbs.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दैव्या॑ऽअध्व॒र्यव॒स्त्वाच्छ्य॑न्तु॒ वि च॑ शासतु।  
@@ -31,6 +37,12 @@ May the divine Adhvaryus cut thee, And divide thee; May the piercers piercing Jo
 गात्रा॑णि पर्व॒शस् ते॒ शिमाः॑ कृण्वन्तु॒ शिम्य॑न्तः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+दै᳓व्या अध्व᳓र्यवस्त्वा छ्य᳓न्तु वि᳓ च शासतु।  
+गा᳓त्राणि पर्वश᳓श्शि᳓माः कृण्वन्तु शि᳓म्यन्तः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 दैव्याः॑। अ॒ध्व॒र्यवः॑। त्वा॒। आ। छ्य॒न्तु॒। वि। च॒। शा॒स॒तु॒। गात्रा॑णि। प॒र्व॒श इति॑ पर्व॒ऽशः। ते। सिमाः॑। कृ॒ण्व॒न्तु॒। शम्य॑न्तीः। ४२।
@@ -44,6 +56,22 @@ May the divine Adhvaryus cut thee, And divide thee; May the piercers piercing Jo
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 दैव्याः॑ । अ॒ध्व॒र्यवः॑ । त्वा॒ । छ्यन्तु॑ । वीति॑ । च॒ । शा॒स॒तु॒ ॥ गात्रा॑णि । प॒र्व॒श इति॑ पर्व-शः । ते॒ । शिमाः॑ । कृ॒ण्व॒न्तु॒ । शिम्य॑न्तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दै᳓व्याः (*MS*-4/31, *TS*-3/29, *RV*-3/79, *TB*-5/33, *AV*-3/17, *SB-M*-3/32, *SB-K*-7/37, *VS-M*-2/22, *VS-K*-2/25)
+- अध्व᳓र्यवः (मूल-पाठः)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- छ्य᳓न्तु (*TS*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- शासतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *VS-M*-2, *VS-K*-2)
+- गा᳓त्राणि (*MS*-2/3, *TS*-3/9, *RV*-2/4, *TB*-0/1, *AV*-3/4, *VS-M*-3/6, *VS-K*-2/5)
+- पर्व-शः᳓ (*TS*-1, *RV*-5, *TB*-2, *AV*-1, *SB-M*-12, *SB-K*-12, *VS-M*-1, *VS-K*-1)
+- शि᳓माः (*TS*-1)
+- कृण्वन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-7, *TS*-7, *RV*-4, *AV*-4, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4)
+- शि᳓म्यन्तः (*TS*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -104,6 +132,15 @@ May the divine Adhvaryus cut thee, And divide thee; May the piercers piercing Jo
 <details><summary>भट्टभास्कर-टीका</summary>
 
 3तृतीया - दैव्याः दिव्याः । 'देवाद्ययञौ' इति यञ् । अध्वर्युः अध्वरस्य नेता । क्यचि 'कव्यध्वरपृतनस्यर्चि' इति लोपः 'क्याच्छन्दसि' इति उप्रत्ययः । त्वा छ्यन्तु संविशसन्तु च । ते तव गात्राणि पर्वशः । 'संख्यैकवचनाच्च' इति शस् । विशसनसमर्थाः ते दैव्या अध्वर्यवः शिम्यन्तः शमयन्तः कृण्वन्तु पर्वशः कुर्वन्तु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[649_1]** Ch देव्या
+
+- **[649_2]** So Brl; in Ch छान्तु (Thus Brl; in Ch छान्तु)
+
+- **[649_3]** So Brl; in Ch शिमां (Thus Brl; in Ch शिमां)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -2,23 +2,57 @@
 title = "५० उदेनमुत्तरां नयाग्ने"
 
 +++
+
 <details><summary>Griffith</summary>
 
 Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him growth of riches and multiply him with progeny.
 </details>
-<details><summary>मूलम्</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lead him higher up, O Agni, [you who are] offered to with ghee;  
+unite [him] with increase of wealth, and make [him] rich in offspring.
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उदे॑नमुत्त॒रां न॒याग्ने॑ घृतेनाहुत।  
 रा॒यस्पोषे॑ण॒ सँसृ॑ज प्र॒जया॑ च ब॒हुं कृ॑धि ॥५० ॥
 </details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓देनमुत्तरां᳓ नया᳓ग्ने घृते᳓ना᳓हुतः।  
+राय᳓स्पोषेण स᳓सृज प्रज᳓या च बहुं᳓ कृधि
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उत्। ए॒न॒म्। उ॒त्त॒रामित्यु॑त्ऽत॒राम्। न॒य॒। अग्ने॑। घृ॒ते॒न॒। आ॒हु॒तेत्या॑ऽहुत। रा॒यः। पोषे॑ण। सम्। सृ॒ज॒। प्र॒जयेति॑ प्र॒ऽजया॑। च॒। ब॒हुम्। कृ॒धि॒। ५०।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 रा॒यः। पोषे॑ण। सम्। सृ॒ज॒। प्र॒जयेति॑ प्र॒ऽजया॑। च॒। ब॒हुम्। कृ॒धि॒। १।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *MS*-614, *TS*-568, *RV*-76, *TB*-338, *TK*-26, *AV*-250, *SB-M*-1703, *SB-K*-1791, *VS-M*-27, *VS-K*-20)
+- उत्-तरा᳓म् (*MS*-0/14, *TS*-2/7, *RV*-0/2, *TB*-1/2, *AV*-0/17, *SB-M*-2/10, *SB-K*-4/13, *VS-M*-1/3, *VS-K*-0/3)
+- नय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-7, *RV*-11, *AV*-9, *SB-M*-10, *SB-K*-8, *VS-M*-10, *VS-K*-8)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- घृते᳓न (*MS*-37, *TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22)
+- आ᳓-हुतः (*MS*-4/10, *TS*-5/7, *RV*-18/36, *TB*-1/3, *AV*-2/7, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3/5, *VS-K*-1/3)
+- राय᳓स्-पोषेण (मूल-पाठः)
+- स᳓सृज (मूल-पाठः)
+- प्र-ज᳓या (*MS*-44/407, *TS*-59/482, *RV*-11/70, *TB*-42/258, *TK*-1/13, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-7/68, *VS-K*-8/61)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- बहु᳓म् (*MS*-2/46, *TS*-0/21, *RV*-0/27, *TB*-1/28, *AV*-4/35, *SB-M*-1/59, *SB-K*-1/58, *VS-M*-1/6, *VS-K*-1/8)
+- कृधि (*MS*-24, *TS*-28, *RV*-76, *TB*-6, *AV*-42, *SB-M*-3, *SB-K*-3, *VS-M*-16, *VS-K*-17)
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 उदेनम्।
@@ -37,6 +71,7 @@ Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him g
 
 प्रजया च बहुं पुत्रपौत्रसंकुलं कृधि कुरु॥ ५०॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 तिस्रोऽनुष्टुभः प्रथमाग्निदेवत्या द्वितीयेन्द्रदेवत्या तृतीया लिङ्गोक्तदेवता।
@@ -53,6 +88,7 @@ Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him g
 
 बहुकुटुम्बं कुर्वित्यर्थः॥ ५०॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 चतुर्थे ऽनुवाके ब्रह्मणा जप्यम् अप्रतिरथाख्यं सूक्तम् उक्तम् ।
@@ -69,6 +105,7 @@ Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him g
 
 'रायस्पोषेण धन-समृद्धया संसृज संयोजय । किं च- 'प्रजया च संतस्था "बहुं पुत्रादिभिरति बहु-भावम् आपन्नं कृषि कुरु ॥ १ ॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 तिस्रो ऽनुष्टमः ।
@@ -82,6 +119,12 @@ Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him g
 
 रायस्पोषेण धनस्य पुष्टया यजमानं संतत्या 'बहुं पुत्रपौत्रादिभिरति बहु-भावम् आपन्नं कृधि कुरु ॥५०॥
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[263_12]** Dies Kap. collat. auch mit T1 und W1; accent. nach T1; Mss. रा᳓न्नया᳓ग्ने, resp. so ohne Acc. (This chapter also collated with T1 and W1; accented after T1; mss. read रा᳓न्नया᳓ग्ने, or thus without accent.)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता
@@ -89,30 +132,37 @@ Worshipped with butter, Agni, lead this man to high preeminence. Vouchsafe him g
 - विराडार्ष्यनुष्टुप्
 - गान्धारः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (घृतेन) घृत से (आहुत) तृप्ति को प्राप्त हुए (अग्ने) प्रकाशयुक्त सेनापति तू (एनम्) इस जीतनेवाले वीर को (उत्तराम्) जिससे उत्तमता से संग्राम को तरें, विजय को प्राप्त हुई उस सेना को (उत्, नय) उत्तम अधिकार में पहुँचा (रायः, पोषेण) राजलक्ष्मी की पुष्टि से (सम्, सृज) अच्छे प्रकार युक्त कर (च) और (प्रजया) बहुत सन्तानों से (बहुम्) अधिकता को प्राप्त (कृधि) कर ॥५० ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  जो सेना का अधिकारी वा भृत्य धर्मयुक्त युद्ध से दुष्टों को जीते, उसका सभा, सेना के पति धनादिकों से बहुत प्रकार सत्कार करें ॥५० ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे घृतेनाहुताग्ने सेनापते ! त्वमेनमुत्तरामुन्नय रायस्पोषेण संसृज प्रजया च बहुं कृधि ॥५० ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  यः सेनाधिकारी भृत्यो वा धर्म्येण युद्धेन दुष्टान् विजयेत, तं सभासेनापतयो धनादिना बहुधा सत्कुर्युः ॥५० ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जो सेनेचा अधिकारी किंवा सैनिक धर्मयुद्धाने दुष्टांना जिंकतो त्याचा सभा व सेनापती यांनी धन इत्यादीद्वारे चांगल्या प्रकारे सन्मान करावा.

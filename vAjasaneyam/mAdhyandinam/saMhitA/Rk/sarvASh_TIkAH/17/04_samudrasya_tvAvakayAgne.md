@@ -15,6 +15,12 @@ We envelop thee, O Agni;
 Be thou purifying and auspicious to us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the avakā of the ocean we wrap you round, O Agni;  
+become purifying and auspicious to us!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒मु॒द्रस्य॒ त्वाव॑क॒याग्ने॒ परि॑व्ययामसि।  
@@ -25,6 +31,12 @@ Be thou purifying and auspicious to us.
 
 स॒मु॒द्रस्य॑ त्वा॒ऽवाक॒याग्ने॒ परि॑ व्ययामसि ।  
 पाव॒को अ॒स्मभ्यँ॑ शि॒वो भ॑व ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+समुद्र᳓स्य त्वा᳓वकाया᳓ग्ने प᳓रिव्ययामसि  
+पावको᳓ अस्म᳓भ्यँ शिवो᳓ भव
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -40,6 +52,20 @@ Be thou purifying and auspicious to us.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 स॒मु॒द्रस्य॑ । त्वा॒ । अ॒वाक॑या । अग्ने॑ । परीति॑ । व्य॒या॒म॒सि॒ ॥ पा॒व॒कः । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म् । शि॒वः । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- समुद्र᳓स्य (*TS*-8/51, *RV*-9/131, *TB*-2/22, *TK*-1/3, *AV*-4/66, *SB-M*-6/71, *SB-K*-7/74, *VS-M*-5/35, *VS-K*-5/33, *KS*-2/14)
+- तु᳓ (*TS*-31, *RV*-57, *TB*-17, *TK*-1, *AV*-15, *SB-M*-257, *SB-K*-233, *VS-M*-6, *VS-K*-3, *KS*-5)
+- आ᳓वकाय (मूल-पाठः)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- व्ययामसि (*TS*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-2)
+- पावकः᳓ (*TS*-12/24, *RV*-20/46, *TB*-2/11, *TK*-1, *AV*-2/7, *SB-M*-7/19, *SB-K*-7/19, *VS-M*-6/10, *VS-K*-7/11, *KS*-7/14)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-18/47, *KS*-9/26)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-36, *KS*-28)
 </details>
 
 <details><summary>उवट-टीका</summary>

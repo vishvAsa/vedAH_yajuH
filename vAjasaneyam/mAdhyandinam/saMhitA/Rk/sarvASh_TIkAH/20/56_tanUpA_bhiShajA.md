@@ -8,6 +8,18 @@ title = "५६ तनूपा भिषजा"
 When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to Indra strength by passage through the realms of air.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protectors of the body, healers at the pressed [offering], both Aśvins and Sarasvatī:  
+carry through the spaces along the paths with honey faculty for Indra!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Both Aśvins, the physicians, and Sarasvatī are body-protecting at the pressing;  
+with mead she shall convey the realms, the faculty for Indra by the paths.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 त॒नू॒पा भि॒षजा॑ सु॒ते᳙ऽश्विनो॒भा सर॑स्वती।  
@@ -28,6 +40,12 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 इन्द्रा॑य प॒थिभि॑र्वहान् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तनूपा᳓ भिष᳓जा सुते᳙ ऽश्वि᳓नोभा᳓ स᳓रस्वती  
+म᳓ध्वा र᳓जाँसीन्द्रिय᳓म् इ᳓न्द्राय पथि᳓भिर् वह
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 त॒नू॒पेति॑ तनू॒ऽपा। भि॒षजा॑। सु॒ते। अ॒श्विना॑। उ॒भा। सर॑स्वती। मध्वा॑। रजाँ॑सि। इ॒न्द्रि॒यम्। इन्द्रा॑य। प॒थिभि॒रिति॑ प॒थिऽभिः॑। व॒हा॒न्। ५६।
@@ -41,6 +59,22 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तनू-पाः᳓ । भिष᳓जा । सुते᳓ । अश्वि᳓ना । उभा᳓ । स᳓रस्वती । म᳓ध्वा । र᳓जांसि । इन्द्रिय᳓म् । इ᳓न्द्राय । पथि᳓भिः । वहान् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- तनू-पाः᳓ (*TS*-5/9, *RV*-6/9, *TB*-1/2, *AV*-3/4, *SB-M*-4, *SB-K*-3, *VS-M*-3/4, *VS-K*-1/2, *KS*-2)
+- भिष᳓जा (*TS*-1/12, *RV*-5/11, *TB*-13/29, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-15/32, *VS-K*-15/28, *KS*-0/3)
+- सुते᳓ (*TS*-0/19, *RV*-56/392, *TB*-4/20, *AV*-19/61, *SB-M*-0/28, *SB-K*-0/29, *VS-M*-9/39, *VS-K*-9/32, *KS*-0/15)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-14/28, *VS-K*-19/34, *KS*-3/14)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- म᳓ध्वा (*TS*-8/12, *RV*-19/107, *TB*-3/5, *AV*-5/16, *SB-M*-4/6, *SB-K*-4/5, *VS-M*-10/18, *VS-K*-10/15, *KS*-5/7)
+- र᳓जांसि (*TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21, *KS*-4/11)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+- इ᳓न्द्राय (*TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380, *KS*-38/189)
+- पथि᳓भिः (*TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-14/38, *VS-K*-11/35, *KS*-3/21)
+- वह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-63, *TB*-13, *TK*-3, *AV*-24, *SB-M*-14, *SB-K*-20, *VS-M*-6, *VS-K*-5, *KS*-10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -142,6 +176,13 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 तनूपाः द्वितीयप्रयाजदेवः भिषजौ चिकित्सकावश्विनावुभौ सरस्वती इत्येतै देवाः सुते प्रवृत्ते कर्मणि मध्वा मधुना रसेन युक्तानि रजांसि रञ्जकानि हवींषि विविधमिन्द्रियं हविर्जन्यं सामर्थ्यं च इन्द्रार्थं पथिभिः अनुष्ठानरूपैर्मार्गैः वहान् वहन्तु संपादयन्तु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_3]** So corr. Ch स्सर° (Thus emended; Ch reads स्सर°)
+
+- **[574_4]** So auch VS 20, 56; dagegen MS 3, 11, 3 वह (Thus also VS 20, 56; on the other hand MS 3, 11, 3 वह)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

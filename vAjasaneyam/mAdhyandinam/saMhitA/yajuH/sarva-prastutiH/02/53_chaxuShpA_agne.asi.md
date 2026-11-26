@@ -1,5 +1,5 @@
 +++
-title = "chaxuShpA_agne.asi"
+title = "५३ चक्षुष्पा अग्ने ऽसि"
 unicode_script = "devanagari"
 +++
 

@@ -13,6 +13,18 @@ Let the Steed seek his home, and balmed with butter go of himself unto the Gods 
 May the steed, anointed with glee, of his own impulse Go to the gods in due season to their abode; May the forest lord knowing the world of the gods, Bear the oblations made ready by Agni.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the horse, anointed with ghee, go by himself in due season to the divine domain;  
+may the Lord of the Forest, knowing the world of the gods, carry the oblations sweetened by Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The horse, anointed on his own with ghee, shall go according to season to the domain of the gods;  
+knowing the divine realm, the tree shall carry the oblations sweetened with Agni!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अश्वो॑ घृ॒तेन॒ त्मन्या॒ सम॑क्त॒ऽउप॑ दे॒वाँ२ऽऋ॑तु॒शः पाथ॑ऽएतु।  
@@ -31,6 +43,18 @@ May the steed, anointed with glee, of his own impulse Go to the gods in due seas
 वन॒स्पति॑र् देवलो॒कम् प्र॑जा॒नन्न् अ॒ग्निना॑ ह॒व्या स्व॑दि॒तानि॑ वक्षत् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓श्वो घृते᳓न त्म᳓न्या स᳓मक्ता उ᳓प देवं᳓ ऋतुशः᳓ पा᳓थ एतु  
+व᳓नस्प᳓तिर् देवलोकं᳓ प्रजान᳓न्न् अग्नि᳓ना हव्या᳓ स्वदिता᳓नि वक्षत्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्वो घृतेन त्मन्या समक्त उप देवाँ ऋतुशः पाथ एतु।  
+वनस्पतिर्देवलोकं प्रजानन्नग्निना हव्या स्वदितानि वक्षत्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अश्वः॑। घृ॒तेन॑। त्मन्या॑। सम॑क्त॒ इति॒ सम्ऽअ॑क्तः। उप॑। दे॒वान्। ऋ॒तु॒श इत्यृ॑तु॒ऽशः। पाथः॑। ए॒तु॒। वन॒स्पतिः॑। दे॒व॒लो॒कमिति॑ देवऽलो॒कम्। प्र॒जा॒नन्निति॑ प्रऽजा॒नन्। अ॒ग्निना॑। ह॒व्या। स्व॒दि॒तानि॑। व॒क्ष॒त्। १०।
@@ -44,6 +68,46 @@ May the steed, anointed with glee, of his own impulse Go to the gods in due seas
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अश्वः॑ । घृ॒तेन॑ । त्मन्या॑ । सम॑क्त॒ इति॒ सम्-अ॒क्तः॒ । उपेति॑ । दे॒वान् । ऋ॒तु॒श इत्यृ॑तु-शः । पाथः॑ । ए॒तु॒ ॥ वन॒स्पतिः॑ । दे॒व॒लो॒कमिति॑ देव-लो॒कम् । प्र॒जा॒नन्निति॑ प्र-जा॒नन् । अ॒ग्निना॑ । ह॒व्या । स्व॒दि॒तानि॑ । व॒क्ष॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓श्वः (*TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-M*-110/262, *SB-K*-111/255, *VS-M*-9/56, *VS-K*-8/52, *KS*-6/26)
+- घृते᳓न (*TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22, *KS*-14)
+- त्म᳓न्या (*TS*-1, *RV*-2, *TB*-2, *AV*-1, *VS-M*-3, *VS-K*-3, *KS*-1)
+- स᳓म्-अक्ताः (*TS*-0/1, *RV*-1/2, *AV*-0/3, *VS-M*-0/1)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- देव᳓म् (*TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523, *KS*-10/317)
+- ऋतु-शः᳓ (*TS*-3, *RV*-4, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3, *KS*-1)
+- पा᳓थः (*TS*-12/13, *RV*-18, *TB*-3/6, *AV*-2, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-9/12, *VS-K*-5/7, *KS*-1)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11, *KS*-8)
+- व᳓नस्प᳓तिः (*TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-15/24, *KS*-2)
+- देव-लोक᳓म् (*TS*-13/30, *TB*-5/10, *SB-M*-27/56, *SB-K*-27/56, *VS-M*-1/2, *VS-K*-1/2, *KS*-3)
+- प्र-जान᳓न् (*TS*-8, *RV*-14, *TB*-4, *AV*-15, *SB-M*-4, *SB-K*-3, *VS-M*-6, *VS-K*-5, *KS*-3)
+- अग्नि᳓ना (*TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349, *KS*-5/256)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27, *KS*-10/34)
+- स्वदिता᳓नि (*TS*-1, *RV*-0/1, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- वक्षत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-6, *RV*-7, *TB*-1, *AV*-4, *SB-K*-4, *VS-M*-6, *VS-K*-5, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓श्वः (*MS*-38/117, *TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-M*-110/262, *SB-K*-111/255, *VS-M*-9/56, *VS-K*-8/52)
+- घृते᳓न (*MS*-37, *TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22)
+- त्म᳓न्या (*MS*-3, *TS*-1, *RV*-2, *TB*-2, *AV*-1, *VS-M*-3, *VS-K*-3)
+- स᳓म्-अक्तः (*MS*-0/3, *TS*-1/2, *RV*-0/1, *AV*-2/4, *VS-M*-1)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- देवा᳓न् (*MS*-77/1216, *TS*-95/1023, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-M*-185/2031, *SB-K*-183/1945, *VS-M*-29/528, *VS-K*-28/523)
+- ऋतु-शः᳓ (*MS*-4, *TS*-3, *RV*-4, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- पा᳓थः (*Whitney*, *MS*-7/10, *TS*-12/13, *RV*-18, *TB*-3/6, *AV*-2, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-9/12, *VS-K*-5/7)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-26, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11)
+- व᳓नस्प᳓तिः (*MS*-17, *TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-15/24)
+- देव-लोक᳓म् (*MS*-4/9, *TS*-13/30, *TB*-5/10, *SB-M*-27/56, *SB-K*-27/56, *VS-M*-1/2, *VS-K*-1/2)
+- प्र-जान᳓न् (*MS*-15, *TS*-8, *RV*-14, *TB*-4, *AV*-15, *SB-M*-4, *SB-K*-3, *VS-M*-6, *VS-K*-5)
+- अग्नि᳓ना (*MS*-45/1297, *TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- स्वदिता᳓नि (*MS*-1/5, *TS*-1, *RV*-0/1, *VS-M*-1, *VS-K*-1)
+- वक्षत् (समानान्तर-पाठः (TS), *MS*-12, *TS*-6, *RV*-7, *TB*-1, *AV*-4, *SB-K*-4, *VS-M*-6, *VS-K*-5)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -134,6 +198,11 @@ May the steed, anointed with glee, of his own impulse Go to the gods in due seas
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अश्वोऽयं घृतेन समक्तः सर्वात्मना अभ्यक्तः त्मना आत्मनैव सुभावत एव स्वादुभूत इति यावत् । 'सुपां सुलुक्' इति 'मन्त्रेष्वाङ्यादेः' इत्याकारलोपः । पाथोऽन्नं स्वादु भूत्वा देवानुपैतु उपगच्छतु ऋतुशः ऋतावृतौ काले 'सङ्कैयकवचनाच्च' इति शस् । देवानित्यस्मिन् नकारस्य 'दीर्घादटि समानपादे' इति संहितायां रुत्वम् । वनस्पतिः वानस्पत्योऽग्निः । विकारे प्रकृतिशब्दः सुट्स्वरावुक्तौ । देवलोकं प्रजानन् अग्निना आहवनीयेन सह स्वदितानि स्वादूकृतानि हव्या हव्यानि वक्षत् वहतु । 'शेश्छन्दसि' इति लोपः । वहेर्लेटि 'सिब्बहुलं लेटि' इति सिप् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_6]** So corr. Ch लोकः ; vgl. MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 10. (Thus emended; Ch reads लोकः; cf. MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 10)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

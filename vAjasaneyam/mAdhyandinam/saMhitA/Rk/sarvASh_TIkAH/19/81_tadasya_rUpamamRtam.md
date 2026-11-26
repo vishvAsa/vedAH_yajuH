@@ -8,6 +8,18 @@ title = "८१ तदस्य रूपममृतम्"
 This his immortal shape with mighty powers three Deities bestowing gifts compounded. His hair they made with sprouts of grass and barley, and roasted grain with skin and flesh supplied him.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That immortal form of his the three goddesses bestowed, being gracious through their arts;  
+his hairs [became] like tender shoots, multiplied like malt-sprouts; his skin, his flesh became like fried rice.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+This immortal form of his the three goddesses bestowed, being generous through their wondrous powers:  
+his bodily hairs like sprouting grass in many ways, his skin not with young shoots, his flesh became like parched grains.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तद॑स्य रू॒पम॒मृतँ॒ शची॑भिस्ति॒स्रो द॑धु॒र्दे॒वताः॑ सँररा॒णाः।  
@@ -28,6 +40,12 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 त्वग॑स्य माँ॒सम॑भव॒न्न ला॒जाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तदस्य रूपममृतँ शचीभिस्तिस्रो ददुर्देवतास्संरराणाः।  
+लोमानि शष्पैर्बहुधा न तोक्मभिस्त्वगस्य माँसमभवन्न लाजाः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तत्। अ॒स्य॒। रू॒पम्। अ॒मृत॑म्। शची॑भिः। ति॒स्रः। द॒धुः॒। दे॒वताः॑। सँ॒र॒रा॒णा इति॑ सम्ऽररा॒णाः। लोमा॑नि। शष्पैः॑। ब॒हु॒धा। न। तोक्म॑भि॒रिति॒ तोक्म॑ऽभिः। त्वक्। अ॒स्य॒। माँ॒सम्। अ॒भ॒व॒त्। न। ला॒जाः। ८१।
@@ -41,6 +59,31 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓त् । अस्य । रूप᳓म् । अ-मृ᳓तम् । श᳓चीभिः । तिस्रः᳓ । अदधुः । देव᳓ताः । सम्-रराणाः᳓ । लो᳓मानि । श᳓ष्पैः । बहु-धा᳓ । न᳓ । तो᳓क्मभिः । त्व᳓क् । अस्य । माम् । स᳓म् । अभवत् । न᳓ । लाजाः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- श᳓चीभिः (*MS*-8/10, *TS*-3, *RV*-36/54, *TB*-9/10, *AV*-11/16, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-8/9, *VS-K*-11/16)
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- ददुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *AV*-4, *SB-M*-2, *SB-K*-3)
+- देव᳓ताः (*MS*-100/411, *TS*-109/381, *RV*-0/14, *TB*-49/156, *TK*-4/54, *AV*-11/35, *SB-M*-141/570, *SB-K*-157/590, *VS-M*-3/36, *VS-K*-2/36)
+- सम्-रराणाः᳓ (*TS*-2/3, *RV*-0/3, *TB*-1, *AV*-0/3, *SB-K*-1/2, *VS-M*-2/5, *VS-K*-1/3, *MS*-2/4)
+- लो᳓मानि (*MS*-4/10, *TS*-1/8, *RV*-0/1, *TB*-7/13, *TK*-1/2, *AV*-6/9, *SB-M*-35/55, *SB-K*-38/55, *VS-M*-2/7, *VS-K*-2/7)
+- श᳓ष्पैः (*MW*, *Macdonell*, *MS*-3, *TB*-3/5, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-3/4, *VS-K*-1/5)
+- बहु-धा᳓ (*MS*-7, *TS*-3, *RV*-9, *TB*-3, *TK*-1, *AV*-44, *SB-M*-6, *SB-K*-6, *VS-M*-2, *VS-K*-2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- तो᳓क्मभिस् (*MW*, *MS*-4, *TB*-4, *VS-M*-4, *VS-K*-1/3)
+- त्व᳓क् (*MS*-14, *TS*-6/9, *RV*-1, *TB*-5, *SB-M*-36, *SB-K*-40, *VS-M*-8, *VS-K*-8/9)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- मा᳓म् (*MW*, *MS*-37/641, *TS*-31/565, *RV*-50/1308, *TB*-25/270, *TK*-16/66, *AV*-47/1252, *SB-M*-42/723, *SB-K*-47/728, *VS-M*-8/315, *VS-K*-7/274)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अभवत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-98, *TS*-81, *RV*-43, *TB*-87, *TK*-17, *AV*-50, *SB-M*-188, *SB-K*-196, *VS-M*-11, *VS-K*-9)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- लाजाः᳓ (*MS*-1/3, *TB*-2/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-2/4, *VS-K*-2/6)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -107,6 +150,13 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 द्वावश्विनौ एका सरस्वती इत्येतास्तिस्रो देवताः शचीभिः स्वकीयशक्तिभिः अस्येन्द्रस्य तत् यज्ञात्मकं रूपं अमृतं विनाशरहितं यथा भवति तथा दधुः संपादयामासुः । कीदृश्यो देवताः? संरराणाः संभूय परस्परं रममाणाः । तोक्मशब्देनाङ्कुरिता व्रीहय उच्यन्ते । तदङ्कुररूपं बालतृणं शष्पशब्देनोच्यते । नकार उपमार्थः । तोक्मभिः शष्पैर्बहुधा लोमानीव निष्पादितवन्तः । अङ्कुरप्ररोहधारभूता बीजविशेषा लाजशब्देनोच्यन्ते । ते च लाजा अस्य यज्ञरूपस्येन्द्रस्य त्वगिव मांसमिवाभवत् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_2]** Mâitr. S. 3, 11, 9 दधु°
+
+- **[569_3]** So corr. Ch शष्मैर्ब° (Thus emended; Ch reads शष्मैर्ब°)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -16,6 +16,12 @@ That all our folk
 Be free from sickness and of good cheer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With auspicious speech we address you, O dweller on the mountain,  
+so that all this world of ours may be healthy and of good cheer.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शि॒वेन॒ वच॑सा॒ त्वा॒ गिरि॒शाच्छा॑ वदामसि।  
@@ -26,6 +32,12 @@ Be free from sickness and of good cheer.
 
 शि॒वेन॒ वच॑सा त्वा॒ गिरि॒शाच्छा॑ वदामसि ।   
 यथा॑ न॒स्सर्व॒मिज्जग॑दय॒क्ष्मँ सु॒मना॒ अस॑त् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+शिवे᳓न व᳓चसा त्वा गि᳓रिशाच्छा᳓ वदामसि।  
+य᳓था नस्स᳓र्वमि᳓ज्ज᳓गदयक्ष्म᳓ सुम᳓ना अ᳓सत्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -41,6 +53,24 @@ Be free from sickness and of good cheer.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 शि॒वेन॑ । वच॑सा । त्वा॒ । गिरि॑श । अच्छ॑ । व॒दा॒म॒सि॒ ॥ यथा॑ । नः॒ । सर्व॑म् । इत् । जग॑त् । अ॒य॒क्ष्मम् । सु॒मना॒ इति॑ सु-मनाः॑ । अस॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शिवे᳓न (*MS*-5/68, *TS*-3/59, *RV*-1/50, *TB*-8/26, *TK*-0/1, *AV*-5/83, *SB-M*-4/52, *SB-K*-4/49, *VS-M*-5/53, *VS-K*-4/49)
+- व᳓चसा (*MS*-2/15, *TS*-4/14, *RV*-10/100, *TB*-1/12, *TK*-0/2, *AV*-14/39, *SB-M*-2/18, *SB-K*-2/18, *VS-M*-2/13, *VS-K*-3/8)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- गि᳓रिश (*TS*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- अच्छा᳓ (मूल-पाठः)
+- वदामसि (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- य᳓था (*MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- स᳓र्वम् (*MS*-69/419, *TS*-49/287, *RV*-19/68, *TB*-44/159, *TK*-19/114, *AV*-108/444, *SB-M*-869/2265, *SB-K*-832/2224, *VS-M*-13/55, *VS-K*-7/43)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- ज᳓गत् (*MS*-6/24, *TS*-6/16, *RV*-16/40, *TB*-1/6, *TK*-0/1, *AV*-7/20, *SB-M*-6/9, *SB-K*-5/12, *VS-M*-7/14, *VS-K*-5/15)
+- अ-यक्ष्म᳓ (*MS*-1/4, *TS*-4/8, *RV*-1, *TB*-1, *AV*-4/5, *SB-M*-3/5, *SB-K*-2/4, *VS-M*-4/7, *VS-K*-3/7)
+- सु-म᳓नाः (*MS*-10/14, *TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13)
+- अ᳓सत् (*MS*-9/12, *TS*-15/23, *RV*-32/44, *TB*-4/7, *AV*-21/31, *SB-M*-31/35, *SB-K*-30/34, *VS-M*-9/10, *VS-K*-10/14)
 </details>
 
 <details><summary>उवट-टीका</summary>

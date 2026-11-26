@@ -2,28 +2,39 @@
 title = "५८ धारया मयि प्रजाँ"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धार᳓या म᳓यि प्रजाँ᳓ राय᳓स् पो᳓षं गौपत्यँ᳓ सुवी᳓र्यँ सजाता᳓न् य᳓जमानाय
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Establish in me progeny, command of cattle, growth of wealth, kinsmen for me the worshipper.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Maintain in me offspring, increase of wealth, lordship of cattle, good heroic sons, kinfolk for the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धा॒रया॒ मयि॑ प्र॒जाँ रा॒यस्पोषं॑ गौप॒त्यँ सु॒वीर्यँ॑ सजा॒तान् यज॑मानाय
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 धा॒रय॑। मयि॑। प्र॒जामिति॑ प्र॒ऽजाम्। रा॒यः। पोष॑म्। गौ॒प॒त्यम्। सु॒वीर्य्य॒मिति॑ सु॒ऽवीर्य्य॑म्। स॒जा॒तानिति॑ सऽजा॒तान्। यज॑मानाय।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 धा॒रय॑। मयि॑। प्र॒जामिति॑ प्र॒ऽजाम्। रा॒यः। पोष॑म्। गौ॒प॒त्यम्। सु॒वीर्य्य॒मिति॑ सु॒ऽवीर्य्य॑म्। स॒जा॒तानिति॑ सऽजा॒तान्। यज॑मानाय।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 प्रजां धनस्य च पुष्टिं गोपतित्वं च।
@@ -40,6 +51,7 @@ Establish in me progeny, command of cattle, growth of wealth, kinsmen for me the
 
 अदित्यास्त्वा द्यौरसि।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 मयीति सामानाधिकरण्यात् हे उखे, मयि यजमाने प्रजां पुत्रादिकां धारय स्थापय।
@@ -56,6 +68,7 @@ Establish in me progeny, command of cattle, growth of wealth, kinsmen for me the
 
 उखादेवत्यम् ।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 उखानिर्माणे तेषामवान्तर-विनियोगस् तु कात्यायन-सूत्रे द्रष्टव्यः ।
@@ -74,6 +87,7 @@ Establish in me progeny, command of cattle, growth of wealth, kinsmen for me the
 
 धारया मयि प्रजा रायस्पोषं गौपत्यं सुवीर्य‍ सजातान् यजमानाय ' इति । विश्वेषां नराणां संबन्धिन: 'वैश्वानराः ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 किं च रायस्पोषं धनस्य पुष्टिं च धारय ।

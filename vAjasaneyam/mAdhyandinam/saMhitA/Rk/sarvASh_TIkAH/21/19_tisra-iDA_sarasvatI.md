@@ -8,6 +8,12 @@ title = "१९ तिस्रऽइडा सरस्वती"
 The Three, Ida, Sarasvatî, and Bhâratî, the Marut folk, Virâj the metre, here, a cow in milk, a bull, give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three: Iḍā, Sarasvatī, and Bhāratī; the Maruts, the clans;  
+the Virāj metre, faculty here, like a milch-cow, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ति॒स्रऽइडा॒ सर॑स्वती॒ भार॑ती म॒रुतो॒ विशः॑।  

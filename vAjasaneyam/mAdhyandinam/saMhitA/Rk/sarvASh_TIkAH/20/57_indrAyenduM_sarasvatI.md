@@ -8,6 +8,18 @@ title = "५७ इन्द्रायेन्दुं सरस्वती
 When Soma flowed the Asvins Twain, the Leeches, brought sweet medicine, With Men's Desire Sarasvatî for Indra, Soma, Nagnahu.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra the drop, Sarasvatī through Narāśaṃsa the ferment,  
+the two Aśvins, healers, deposited honey, medicine at the pressed [offering].
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sarasvatī [placed] the drop for Indra, yeast through Narāśaṃsa;  
+the two Aśvins, the physicians, placed mead, the medicine, at the pressing.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्रा॒येन्दुँ॒ सर॑स्वती॒ नरा॒शँसे॑न न॒ग्नहु॑म्।  
@@ -94,6 +106,11 @@ When Soma flowed the Asvins Twain, the Leeches, brought sweet medicine, With Men
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 नराशंसः मन्त्रपाठक्रमेण तृतीयप्रयाजदेवः तेन सहिता सरस्वती इन्द्रार्थं इन्दुं ऐश्वर्यकरं हविस्सारं नग्नहुः एतच्छब्दवाच्यं स्थूलयवपिष्टसक्तुरूपं संपादयतीति शेषः । अश्विना भिषजा चिकित्सकावश्विनौ सुते प्रवृत्तेऽस्मिन्कर्मणि मधु भेषजं मधुरमौषधरूपं हविः अधातां संपादितवन्तौ ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_5]** So corr. Ch नग्नहुः; MS 3, 11, 3 und VS 20, 57 = Corr. (Thus emended; Ch reads नग्नहुः; MS 3, 11, 3 and VS 20, 57 agree with the emendation.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

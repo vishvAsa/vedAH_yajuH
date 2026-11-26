@@ -8,6 +8,12 @@ title = "०५ ब्रह्म क्षत्रम्"
 Soma with Wine, pressed; filtered for the banquet, cleanses priest, noble, brilliancy and vigour. God, with the Bright give Deities enjoyment: give food with flavour to the Sacrificer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Priesthood and nobility purify themselves, brilliance and faculty; pressed with surā, the Soma is pressed for exhilaration.  
+With the bright [juice], O god, satisfy the deities; with the sap bestow food on the sacrificer.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ब्रह्म॑ क्ष॒त्रं प॑वते॒ तेज॑ऽइन्द्रि॒यँ सुर॑या॒ सोमः॑ सु॒तऽआसु॑तो॒ मदा॑य।  
@@ -136,6 +142,11 @@ Soma with Wine, pressed; filtered for the banquet, cleanses priest, noble, brill
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 पुनातीत्यनुवर्तते । ब्राह्मणजातिः क्षत्रियजातिश्च तेजःकारणमिन्द्रियवृद्धिकारणं चेदं द्रव्यं पवते पुनाति । अनया सुरया सह सोमः सुत उत्पादितः । मदाय देवानां मदार्थं आसुतः सर्वतोऽभिषुतश्च । हे सोमदेव! तव शुक्रेण निर्मलेन रसेन देवताः पिपृग्धि संपृक्ताः कुरु । यजमानाय चान्नं संपादय ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[564_8]** So corr. Ch सुता; cf. Mâitr. S. 3, 11, 7. (Thus emended; Ch reads सुता; cf. Mâitr. S. 3, 11, 7)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -16,6 +16,12 @@ Increase him to great prosperity [3]
 Let the All-gods rejoice in him.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bṛhaspati, O Savitṛ, awaken him; sharpen further him who is already sharp;  
+make him grow for great good fortune; may all the gods rejoice in him.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 बृह॑स्पते सवितर्बो॒धयै॑नँ॒सँशि॑तं चित्सन्त॒राँ सँशि॑शाधि।  

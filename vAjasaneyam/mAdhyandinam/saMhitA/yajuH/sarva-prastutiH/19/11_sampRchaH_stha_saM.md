@@ -2,34 +2,51 @@
 title = "११ सम्पृचः स्थ सं"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पृ᳓चः स्थ सं᳓ मा भद्रे᳓ण पृङ्क्त
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 United are ye all: with bliss unite me.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are unifiers: unite me with good!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒म्पृच॑ स्थ॒ सं मा॑ भ॒द्रेण॑ पृङ्क्त
 </details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सम्पृचस्स्थ सं मा भद्रेण पृङ्क्त
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स॒म्पृच॒ इति॒ स॒म्ऽपृचः॑। स्थ॒। सम्। मा॒। भ॒द्रेण॑। पृ॒ङ्क्त॒।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 स॒म्पृच॒ इति॒ स॒म्ऽपृचः॑। स्थ॒। सम्। मा॒। भ॒द्रेण॑। पृ॒ङ्क्त॒।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 संपृचन्तीति संपृचः स्थ स्वया क्रियया व्यपदिश्यन्ते।
 
 ये दास्यन्ते संपृच स्थ तानहं ब्रवीमि संमा भद्रेण पृङ्क्त संसृजत मां भद्रेण भन्दनीयेन कल्याणेन।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 हे पयोग्रहाः, यूयं संपृचः स्थ संपृञ्चन्ति संयोजयन्तीति संपृचः स्वत एव संयोजका भवत।
@@ -42,6 +59,7 @@ United are ye all: with bliss unite me.
 
 पृचे रौधादिकाल्लोट् संपृङ्क्तः।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 तथाच ब्राह्मणम्-
@@ -57,6 +75,7 @@ United are ye all: with bliss unite me.
 
 ते यूयं मा मां पापेन विपृङ्क्त वियोजयत ।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 पयोग्रहान् संपृशति - ' संपृच स्थ ' इति पयोग्रहदेवत्यं यजुः ।
@@ -66,8 +85,16 @@ United are ye all: with bliss unite me.
 
 वि मा यजमानं विपृक्त वियोजयत वियोगं कुरुत ॥११॥
 </details>
+
 <details><summary>अनन्ताचार्य-टीका</summary>
 
 अथैकादशी ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[565_5]** So corr. Ch सम्पृजास्स्थ (Thus emended; Ch reads सम्पृजास्स्थ)
+
+- **[565_7]** So die Unterschrift des Capitels in Ch. (Thus the colophon of the chapter in Ch)
 </details>
 </details>

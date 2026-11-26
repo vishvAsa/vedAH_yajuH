@@ -8,6 +8,12 @@ title = "७३ अश्विना गोभिरिन्द्रियम
 With cows the Asvins, mighty power, with horses manly vigour, strength, With sacred food Sarasvatî, made Indra, Sacrificer, strong.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two Aśvins with cattle [bestowed] faculty, with horses virility and power;  
+Sarasvatī and the sacrificer strengthened Indra with the oblation.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विना॒ गोभि॑रिन्द्रि॒यमश्वे॑भिर्वी॒र्यं᳙ बल॑म्।  
@@ -107,6 +113,11 @@ With cows the Asvins, mighty power, with horses manly vigour, strength, With sac
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 अश्विनोभौ सरस्वती च इत्येते त्रयो देवाः. गोभिरिन्द्रियं संपाद्य अश्वेभिर्वीर्यं बलं च संपाद्य अत्रत्येन हविषा इन्द्रं यजमानं च अवर्धयन् । हविर्भोक्तृत्वमिन्द्रस्य वृद्धिः । हविर्द्रातृत्वं यजमानस्य वृद्धिः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_10]** So corr. Ch वर्धयम; cf. aber MS 3, 11, 4 und VS 20, 73 = Corr. (Thus emended; Ch वर्धयम; cf. but MS 3, 11, 4 and VS 20, 73 agrees with the emendation)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

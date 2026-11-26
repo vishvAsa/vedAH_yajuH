@@ -8,6 +8,18 @@ title = "४० इन्द्रं दुरः"
 To the strong Indra go the sounding Portals, dames with a goodly husband, swiftly moving! Well-manned, divine, wide be the Doors thrown open, expanding in their greatness fir the Hero!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Toward Indra running, the wide-opening doors, the good wives go to the bull;  
+let the divine doors swing wide on both sides, with good heroes, expanding through greatness to the hero!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May the wide-opening doors run toward Indra, the bull, like wives having good husbands;  
+may the divine doors fling open on all sides, rich in heroes, spreading out with splendors toward the hero!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्रं॒ दुरः॑ कव॒ष्यो᳙ धाव॑माना॒ वृषा॑णं यन्तु॒ जन॑यः सु॒पत्नीः॑।  
@@ -28,6 +40,12 @@ To the strong Indra go the sounding Portals, dames with a goodly husband, swiftl
 सु॒वीरा॑ वी॒रम्प्रथ॑माना॒ महो॑भिः ॥40॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रं दु᳓रः कवष्यो᳙ धा᳓वमाना वृ᳓षाणँ यन्ति ज᳓नयः सुप᳓त्नीः  
+द्वा᳓रो देवी᳓र् अभि᳓तो वि᳓श्रयन्ताँ सुवी᳓रा वीरं᳓ प्र᳓थमाना म᳓होभिः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इन्द्र॑म्। दुरः॑। क॒व॒ष्यः᳖। धाव॑मानाः। वृषा॑णम्। य॒न्तु॒। जन॑यः। सु॒पत्नी॒रिति॑ सु॒ऽपत्नीः॑। द्वारः॑। दे॒वीः। अ॒भितः॑। वि। श्र॒य॒न्ता॒म्। सु॒वीरा॒ इति॑ सु॒ऽवीराः॑। वी॒रम्। प्रथ॑मानाः। महो॑भि॒रिति॒ महः॑ऽभिः। ४०।
@@ -41,6 +59,28 @@ To the strong Indra go the sounding Portals, dames with a goodly husband, swiftl
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्रम् । दु᳓रः । कवष् । यः᳙ । धा᳓वमानाः । वृ᳓षाणम् । यन्तु । ज᳓नयः । सु-प᳓त्नीः । द्वा᳓रः । देवीः᳓ । अभि᳓तः । वि᳓ । श्रयन्ताम् । सु-वी᳓रा । वीर᳓म् । प्र᳓थमाना । म᳓होभिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- दु᳓रः (*TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6, *KS*-1)
+- कवष् (*TB*-4)
+- यः᳙ (*TS*-6, *RV*-1038, *TB*-3, *TK*-123, *AV*-928, *SB-M*-1906, *SB-K*-1905, *VS-M*-137, *VS-K*-126, *KS*-223)
+- धा᳓वमाना (*RV*-0/1, *TB*-1, *AV*-0/1, *VS-M*-1, *VS-K*-1/2)
+- वृ᳓षाणम् (*TS*-1/51, *RV*-2/366, *TB*-2/33, *TK*-0/1, *AV*-0/71, *SB-M*-2/80, *SB-K*-2/76, *VS-M*-1/30, *VS-K*-1/26, *KS*-0/21)
+- यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-76, *TB*-34, *TK*-2, *AV*-22, *SB-M*-133, *SB-K*-108, *VS-K*-1, *KS*-10)
+- ज᳓नयः (*TS*-4, *RV*-12/28, *TB*-2, *AV*-4/11, *SB-M*-5, *SB-K*-5, *VS-M*-5/6, *VS-K*-4/5, *KS*-2)
+- सु-प᳓त्नीः (*TS*-3/4, *RV*-2/3, *TB*-2/3, *AV*-2/3, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-2, *KS*-1/2)
+- द्वा᳓रः (*TS*-2/3, *RV*-6/25, *TB*-9/10, *TK*-2/3, *AV*-1/6, *SB-M*-1/13, *SB-K*-2/18, *VS-M*-11/12, *VS-K*-10)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- अभि᳓तः (*TS*-38, *RV*-25, *TB*-10, *AV*-15, *SB-M*-64, *SB-K*-67, *VS-M*-6, *VS-K*-7, *KS*-5)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- श्रयन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-5, *TB*-5, *AV*-3, *VS-M*-3, *VS-K*-3, *KS*-5)
+- सु-वी᳓रा (*TS*-2/26, *RV*-2/92, *TB*-2/13, *AV*-10/22, *SB-M*-1/6, *SB-K*-0/7, *VS-M*-3/12, *VS-K*-1/13, *KS*-2/13)
+- वीर᳓म् (*TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/16, *KS*-3/9)
+- प्र᳓थमाना (*TS*-0/1, *TB*-1/3, *AV*-1/2, *VS-M*-1/3, *VS-K*-1/3, *KS*-1)
+- म᳓होभिः (*TS*-1/14, *RV*-13/27, *TB*-2/27, *TK*-0/2, *AV*-0/16, *SB-M*-0/28, *SB-K*-0/21, *VS-M*-1/12, *VS-K*-1/9, *KS*-1/5)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -160,6 +200,15 @@ To the strong Indra go the sounding Portals, dames with a goodly husband, swiftl
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 द्वाशब्दाभिधेया देव्यः पञ्चमप्रयाजदेवस्य स्त्रीमूर्तयः ताश्चेन्द्रमभितो विश्रयन्तां विशेषेण सेवन्ताम् । कीदृश्यो द्वारः? दुरः छिद्रभूयिष्ठाः महावकाशाः इत्यर्थः । कवष्यः कवाटवत्यः, धावमानाः प्रवेशनिर्गमनरूपगतिमत्यः शुद्धिमत्यो वा, जनयः यज्ञानां जनयित्र्यः, सुपत्नीः सुष्ठु पालयित्र्यः, तादृश्यो देव्यः वृषाणं कामानां वर्षयितारं यन्तु प्राप्नुवन्तु । पुनरपि कीदृश्यः? सुवीराः शोभनवीरपुरुषाधिष्ठिताः, महोभिः कीर्तिभिः प्रथमानाः लोकेषु प्रख्याताः । कीदृशमिन्द्रं? वीरं युद्धेषु शूरम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[572_5]** So corr. Ch इन्द्र (Thus emended; Ch reads इन्द्र)
+
+- **[572_6]** MS 3, 11, 1 यन्ति; VS 20, 40 यन्तु
+
+- **[572_7]** So corr. Ch मवोभिः (Thus emended; Ch reads मवोभिः)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -8,6 +8,18 @@ title = "१३ तनूनपाच्छुचिव्रतस्तनू�
 Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre and the steer of two years’ age give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tanūnapāt of pure vows, and Tanūpā, and Sarasvatī;  
+the uṣṇih metre, faculty, a two-and-a-half-year-old steer, they placed [as his] vigor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Tanūnapāt of pure vows, and Sarasvatī the body-protector;  
+the Uṣṇih metre, faculty, the two-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तनू॒नपा॒च्छुचि॑व्रतस्तनू॒पाश्च॒ सर॑स्वती।  
@@ -20,6 +32,12 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 त॒नू॒पाच्च॒ सर॑स्वती ।  
 उ॒ष्णिक्छन्द॑ इन्द्रि॒यम् ।
 दि॒त्य॒वाड्गौर्वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓नून᳓पाञ् शु᳓चिव्रतस् तनूपा᳓श् च स᳓रस्वती । *  
+उष्णि᳓क् छ᳓न्द इन्द्रियं᳓ दित्यवा᳓ड् गौ᳓र् व᳓यो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -35,6 +53,22 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓नू-न᳓पात् । शु᳓चि-व्रतः । तनू-पा᳓त् । च । स᳓रस्वती । उष्णि᳓क् । छ᳓न्दः । इन्द्रिय᳓म् । दित्य-वा᳓ट् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓नून᳓पान् → **त᳓नूनपान्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *RV*-0/3, *TB*-0/1, *AV*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- शु᳓चि-व्रतः (*RV*-0/3, *TB*-1/2, *VS-M*-1, *VS-K*-1)
+- तनू-पाः᳓ (*TS*-5/9, *RV*-6/9, *TB*-1/2, *AV*-3/4, *SB-M*-4, *SB-K*-3, *VS-M*-3/4, *VS-K*-1/2, *KS*-2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-57/91, *KS*-5/11)
+- उष्णि᳓क् (*TB*-2, *AV*-1, *SB-M*-6, *SB-K*-7, *VS-M*-2, *VS-K*-1)
+- छ᳓न्दः (*TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89, *KS*-16/30)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+- दित्य-वा᳓ट् (*TS*-3, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1, *KS*-1)
+- गौः᳓ (*TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/66, *VS-K*-13/64, *KS*-4/37)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -141,6 +175,13 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 तनूनपाच्छब्देन द्वितीयप्रयाजदेव उच्यते । स च शुचिव्रतः शुद्धेन व्रतकर्मणा युक्तः तादृशः तद्रूपात् शरीरप्राप्तिहेतुः । सरस्वती च, उष्णिक्छन्दश्च दित्यवाट्, संवत्सरद्वयोपेतो गौश्च इत्येते देवा इन्द्रियं, वयश्च संपादयन्तु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_9]** So corr. Ch पाछुचि, wie VS 21, 13 schreibt, während MS ञ्शुचि° bietet. Im Kâṭh. aber pflegt aus त् + श ein च्छ zu werden. (Thus emended Ch पाछुचि, as VS 21, 13 writes, while MS offers ञ्शुचि°. In the Kāṭh., however, त् + श usually becomes च्छ.)
+
+- **[576_10]** So corr. Ch स्वतीः (Thus emended; Ch reads स्वतीः)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

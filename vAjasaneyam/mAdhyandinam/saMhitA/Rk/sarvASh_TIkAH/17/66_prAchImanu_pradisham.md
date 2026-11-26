@@ -16,6 +16,20 @@ Illumine with thy radiance all the regions;
 Confer strength on our bipeds and quadrupeds.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go forth knowing along the eastern direction; of Agni, O Agni, be here in front, O Agni!  
+Shining through all regions, beam forth; place nourishment in us,
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Stride to the firmament with the fire, carrying the one of the pan in your hands;  
+having reached the back of heaven, the light, sit mingled with the gods.  
+Go forth following the eastern direction, knowing; O Agni, be ahead of Agni, O Agni, here;  
+shining through all the quarters, beam out; bestow nourishment upon our two-footed and four-footed.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 प्राची॒मनु॑ प्र॒दिशं॒ प्रेहि॑ वि॒द्वान॒ग्नेर॑ग्ने पु॒रोऽअ॑ग्निर्भवे॒ह।  
@@ -36,6 +50,12 @@ Confer strength on our bipeds and quadrupeds.
 ऊर्ज॑न् नो धेहि द्वि॒पदे॒ चतु॑ष्पदे ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रा᳓चीम᳓नु प्रदि᳓शं प्रे᳓हि विद्वा᳓नग्ने᳓रग्ने पुरो᳓ अग्ने भवेह᳓।  
+वि᳓श्वा आ᳓शा दी᳓द्यद्वि᳓भाह्यू᳓र्जं नो धेहि द्विप᳓दे च᳓तुष्पदे
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 प्राची॑म्। अनु॑। प्र॒दिश॒मिति॑ प्र॒ऽदिश॑म्। प्र। इ॒हि॒। वि॒द्वा॒न्। अ॒ग्नेः। अ॒ग्ने॒। पु॒रोऽअ॑ग्नि॒रिति॑ पु॒रःऽअ॑ग्निः। भ॒व॒। इ॒ह। विश्वाः॑। आशाः॑। दीद्या॑नः। वि। भा॒हि॒। ऊर्ज्ज॑म्। नः॒। धे॒हि॒। द्वि॒ऽपदे॑। चतु॑ष्पदे॑। चतुः॑पद॒ इति॒ चतुः॑ऽपदे। ६६।
@@ -49,6 +69,32 @@ Confer strength on our bipeds and quadrupeds.
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 प्रा᳓चीम् । अ᳓नु । प्र-दि᳓शम् । प्र᳓ । इहि । विद्वा᳓न् । अग्नेः᳓ । अग्ने । पुरः᳓ । अग्निः । भव । इह᳓ । वि᳓श्वाः । आ᳓शा । दी᳓द्यानः । वि᳓ । भाहि । ऊ᳓र्जन् । नः । धेहि । द्वि-प᳓दे । च᳓तुष्-पदे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्रा᳓चीम् (*MS*-14/42, *TS*-9/42, *RV*-3/11, *TB*-7/10, *TK*-0/6, *AV*-3/22, *SB-M*-30/91, *SB-K*-26/83, *VS-M*-2/9, *VS-K*-1/7)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- प्र-दि᳓शम् (*MS*-1/18, *TS*-2/15, *RV*-2/19, *TB*-2/6, *AV*-1/52, *SB-M*-2/5, *SB-K*-2/6, *VS-M*-1/16, *VS-K*-1/19)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-88, *TS*-69, *RV*-61, *TB*-18, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-20)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- अग्नेः᳓ (*MS*-200/1297, *TS*-163/1194, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/325, *VS-K*-44/349)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- पुरः᳓ (*MS*-39, *TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- आ᳓शा (*MS*-6/14, *TS*-2/12, *RV*-7/8, *TB*-1/6, *TK*-2/5, *AV*-9/15, *SB-M*-9/14, *SB-K*-4/12, *VS-M*-8/10, *VS-K*-5/13)
+- दी᳓द्यत् (*MS*-4/5, *TS*-2, *RV*-7/8, *TB*-0/1, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- भाहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-10, *TB*-3, *AV*-2, *SB-M*-5, *SB-K*-5, *VS-M*-4, *VS-K*-4, *MS*-7)
+- ऊ᳓र्जम् (*MS*-66/144, *TS*-73/123, *RV*-36/58, *TB*-41/60, *TK*-2/3, *AV*-29/41, *SB-M*-37/121, *SB-K*-41/124, *VS-M*-21/51, *VS-K*-39/69)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- द्वि-प᳓दे (*MS*-14/24, *TS*-7/21, *RV*-11/16, *TB*-6/15, *TK*-1, *AV*-3/23, *SB-M*-6/11, *SB-K*-5/8, *VS-M*-5/10, *VS-K*-3/10)
+- च᳓तुः-पदे (*MS*-12/26, *TS*-7/24, *RV*-12/15, *TB*-5/12, *TK*-1, *AV*-4/23, *SB-M*-2/11, *SB-K*-1/14, *VS-M*-9/17, *VS-K*-5/13)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -149,6 +195,11 @@ Confer strength on our bipeds and quadrupeds.
 <details><summary>भट्टभास्कर-टीका (ब्राह्मणम्)</summary>
 
 व्याख्यातेयमग्निकाण्डे । प्रधानां दिशमनुक्रमेण गच्छ विद्वान् । हे अग्ने! अङ्गनादिगुण! अश्व! अग्नेः पुरोग्निः अग्नेः पुरो गन्ता भव । इह अस्मिन् कर्मणि । विश्वा दिशः दीद्यानः दीपयन् विभाहि विशेषणे दीप्यस्व । ऊर्जं अन्नं रसं वा अस्माकं द्विपदे चतुष्पदे च धेहि इति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[78_1]** Ch ग्निरग्ने
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>

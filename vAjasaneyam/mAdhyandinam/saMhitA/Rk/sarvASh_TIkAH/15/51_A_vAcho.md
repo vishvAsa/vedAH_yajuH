@@ -16,6 +16,18 @@ Established on the back of the earth, the radiant one,
 He casteth beneath his feet [3] the combatants.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bustling, perceptive Agni, the lord of the good, has mounted into the middle of speech;  
+laid down on the back of the earth, shining brightly, let him tread underfoot those who are hostile.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The active one has mounted the middle of speech, this Agni, lord of the good, perceptive;  
+deposited on the back of the earth, glittering, may he make those who fight [against us] beneath our feet.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ वा॒चो मध्य॑मरुहद् भुर॒ण्युर॒यम॒ग्निः सत्प॑ति॒श्चेकि॑तानः।  
@@ -124,6 +136,13 @@ He casteth beneath his feet [3] the combatants.
 <details><summary>सायण-टीका (तैत्तिरीया)</summary>
 
 अयगग्निर्वाचो मध्यमारुहत्स्तोत्ररूपाया वाचः प्रतिपाद्यमर्थमारूढः स्तोत्रगतसर्वगुणयुक्त इत्यर्थः।   कीदृशोऽग्निः, भुरण्युर्जनद्भरणशीलः।   सत्पतिः सतां पालकः।   चेकितानोऽभिज्ञानवान्।   स च पृथिव्याः पृष्ठे भूमेरुपरि निहितः स्थापितो दविद्युतदतिशयेन द्योतते।   ये तु विरोधिनः पृतन्यवोऽस्माभिः सह कलहं कर्तुमिच्छन्ति तानधस्पदं कृणुतेऽस्माकं पादस्याधस्तादर्वास्थितान्करोति।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[275_4]** Ch ण्यरयत्पतिस्सत्प°.
+
+- **[275_5]** Ch निहिते
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -15,6 +15,12 @@ Uplifted and pure are the rays of Agni,
 Most brilliant (are they) of the son of fair countenance.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upright are his kindling-sticks, upright the bright flames of Agni,  
+most luminous, of the fair-faced son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊ॒र्ध्वाऽ अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चीँष्य॒ग्नेः।  

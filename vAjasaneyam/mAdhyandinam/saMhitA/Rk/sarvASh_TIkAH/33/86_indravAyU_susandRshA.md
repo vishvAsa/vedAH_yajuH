@@ -2,21 +2,90 @@
 title = "८६ इन्द्रवायू सुसन्दृशा"
 
 +++
+
 <details><summary>Griffith</summary>
 
 Indra and Vâyu, fair to see and swift to hear, we call to us, That in assembly all, yea, all the folk may be benevolent to us and free from malady.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra and Vāyu, good to look upon, easily invoked, we invoke here,  
+so that every man in the assembly may be well-minded toward us.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+'Indra and Vāyu, fair to behold, easy to invoke, do we invoke here,  
+so that all our people in the gathering may be of one mind.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+We invoke Indra and Vāyu of fair appearance, easy to invoke here,  
+so that all our people in the assembly may be of good mind.
+
+Indra and Vāyu, fair to behold, easy to invoke, we call here,  
+so that all people in the gathering may be well-minded toward us.
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इ॒न्द्र॒वा॒यू सु॑स॒न्दृशा॑ सु॒हवे॒ह ह॑वामहे।  
 यथा॑ नः॒ सर्व॒ऽइज्जनो॑ऽनमी॒वः स॒ङ्गमे॑ सु॒मना॒ऽअस॑त् ॥८६ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इन्द्रवायू᳓ सुसंदृ᳓शा सुह᳓वेह᳓ हवामहे  
+य᳓था नः स᳓र्वा इ᳓ज् ज᳓नः संगमे᳓ सुम᳓ना अ᳓सत्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्रवायू सुसन्दृशा सुहवेह हवामहे।  
+यथा नस्सर्व इज्जनस्सङ्गमे सुमना असत्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इ॒न्द्र॒वा॒यू इती॑न्द्रऽवा॒यू। सु॒स॒न्दृशेति॑ सुऽस॒न्दृशा॑। सु॒हवेति॑ सु॒ऽहवा॑। इ॒ह। ह॒वा॒म॒हे॒। यथा॑। नः॒। सर्वः॑। इत्। जनः॑। अ॒न॒मी॒वः। स॒ङ्गम॒ इति॑ स॒म्ऽगमे॑। सु॒मना॒ इति॑ सु॒ऽमनाः॑। अस॑त्। ८६।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इन्द्र-वायू᳓ (*TS*-3/4, *RV*-8, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-1/2, *KS*-0/2)
+- सु-सन्दृ᳓शा (*TS*-0/1, *RV*-1/6, *TB*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-0/1, *KS*-0/2)
+- सु-ह᳓वाः (*TS*-0/4, *RV*-0/23, *TB*-0/1, *AV*-1/9, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/1)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- हवामहे (*TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-11, *KS*-7)
+- य᳓था (*TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24, *KS*-37)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- स᳓र्वाः (*TS*-51/287, *RV*-12/68, *TB*-34/159, *TK*-58/114, *AV*-67/444, *SB-M*-143/2265, *SB-K*-143/2224, *VS-M*-13/55, *VS-K*-12/42, *KS*-11/43)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- ज᳓नः (*TS*-3/35, *RV*-31/298, *TB*-1/27, *AV*-9/92, *SB-M*-4/26, *SB-K*-4/26, *VS-M*-5/27, *VS-K*-3/25, *KS*-2/19)
+- सम्-गमे᳓ (*TS*-1, *RV*-4/5, *AV*-0/2, *SB-K*-1, *VS-M*-2, *VS-K*-1, *KS*-1)
+- सु-म᳓नाः (*TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13, *KS*-1/3)
+- अ᳓सत् (*TS*-15/23, *RV*-32/44, *TB*-4/7, *AV*-21/31, *SB-M*-31/35, *SB-K*-30/34, *VS-M*-9/10, *VS-K*-10/13, *KS*-3/5)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इन्द्र-वायू᳓ (*MS*-4/5, *TS*-3/4, *RV*-8, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-1/2)
+- सु-सन्दृ᳓शा (*MS*-2/6, *TS*-0/1, *RV*-1/6, *TB*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-0/1)
+- सु-ह᳓वा (*MS*-3/12, *TS*-3/9, *RV*-6/30, *TB*-3/4, *AV*-8/17, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/4)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- हवामहे (समानान्तर-पाठः (MS), *MS*-19, *TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-13)
+- य᳓था (*MW* ŚBr., *MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- स᳓र्वे (*MS*-52/419, *TS*-17/287, *RV*-8/68, *TB*-13/159, *TK*-9/114, *AV*-64/444, *SB-M*-213/2265, *SB-K*-199/2224, *VS-M*-6/55, *VS-K*-6/43)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- ज᳓नः (*Whitney*, *MS*-11/62, *TS*-3/35, *RV*-31/298, *TB*-1/27, *AV*-9/92, *SB-M*-4/26, *SB-K*-4/26, *VS-M*-5/27, *VS-K*-3/27)
+- सम्-गमे᳓ (*TS*-1, *RV*-4/5, *AV*-0/2, *SB-K*-1, *VS-M*-2, *VS-K*-1, *MS*-5)
+- सु-म᳓नाः (*MS*-10/14, *TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13)
+- अ᳓सत् (*MW* ŚBr., *MS*-9/12, *TS*-15/23, *RV*-32/44, *TB*-4/7, *AV*-21/31, *SB-M*-31/35, *SB-K*-30/34, *VS-M*-9/10, *VS-K*-10/14)
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 इन्द्रवायू सुसंदृशा।
@@ -37,6 +106,7 @@ Indra and Vâyu, fair to see and swift to hear, we call to us, That in assembly 
 
 असत् भूयात्॥८६॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 तापसदृष्टैन्द्रवायवी।
@@ -61,6 +131,12 @@ Indra and Vâyu, fair to see and swift to hear, we call to us, That in assembly 
 
 उदारो वक्ता चेत्यर्थः॥ ८६॥
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[140_10]** D सर्वमिज्जन
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रवायू देवते
@@ -68,30 +144,37 @@ Indra and Vâyu, fair to see and swift to hear, we call to us, That in assembly 
 - निचृद्बृहती
 - मध्यमः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हम लोग जिन (सुसन्दृशा) सुन्दर प्रकार से सम्यक् देखनेवाले (सुहवा) सुन्दर बुलाने योग्य (इन्द्रवायू) राजप्रजाजनों को (इह) इस जगत् में (हवामहे) स्वीकार करते हैं (यथा) जैसे (सङ्गमे) संग्राम वा समागम में (नः) हमारे (सर्वः, इत्) सभी (जनः) मनुष्य (अनमीवः) नीरोग (सुमनाः) प्रसन्न चित्तवाले (असत्) होवें, वैसे किया करें ॥८६ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। वैसे ही राजप्रजा-पुरुष प्रयत्न करें, जैसे सब मनुष्य आदि प्राणी नीरोग प्रसन्न मनवाले होकर पुरुषार्थी हों ॥८६ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  वयं यौ सुसन्दृशा सुहवा इन्द्रवायू इह हवामहे यथा सङ्गमे नोऽनमीवः सुमनाः सर्व इज्जनो असत् तथा तौ कुर्याताम् ॥८६ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्रोपमालङ्कारः। तथैव राजप्रजाजनाः प्रयतेरन् यथा सर्वे मनुष्यादयः प्राणिनोऽरोगाः प्रसन्नमनसो भूत्वा पुरुषार्थिनः स्युः ॥८६ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. राजा व प्रजा यांनी असा प्रयत्न करावा की, ज्यामुळे सर्व माणसे निरोगी व प्रसन्न राहावीत, तसेच पुरुषार्थी बनावीत.

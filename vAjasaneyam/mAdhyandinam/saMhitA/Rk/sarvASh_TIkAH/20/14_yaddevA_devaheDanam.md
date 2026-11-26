@@ -8,6 +8,12 @@ title = "१४ यद्देवा देवहेडनम्"
 Gods, Deities, whatever fault of ours have stirred the wrath of Gods, May Agni set me free from that iniquity and all distress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever offense to the gods, O gods, we have committed,  
+may Agni release me from that sin, from every distress!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृ॒मा व॒यम्।  
@@ -114,6 +120,13 @@ Gods, Deities, whatever fault of ours have stirred the wrath of Gods, May Agni s
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 देवासः द्योतनात्मका हे देवाः! देवहेडनं देवविषयमनादररूपं यत्पापं वयं सभृत्यपुत्राः चकृम कृतवन्तः । अंहसः अभिभवनस्वभावात् विश्वत्मात्सर्वस्मात् तस्मादेनसः पापात् अग्रिर्मा मां मुञ्चतु मुक्तं करोतु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[571_1]** Die ersten drei Verse accentuirt nach T1 und T7; Weiteres fehlt dort. Auch in W1 finden sich diese drei Verse, doch ohne Accente. (The first three verses accented according to T1 and T7; further details missing there. These three verses are also found in W1, but without accents.)
+
+- **[571_2]** Ch देवासा च°
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

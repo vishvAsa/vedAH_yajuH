@@ -8,6 +8,18 @@ title = "५९ अश्विना नमुचेः"
 The Asvins brought from Namuchi pressed Soma bright with foaming juice. Sarasvatî with sacred grass brought that to Indra for his drink.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Soma pressed from Namuci, bright with liquor, O Aśvins,  
+Sarasvatī brought that with the barhis for Indra to drink.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The Aśvins [took] the bright Soma pressed from the foaming liquor of Namuci;  
+Sarasvatī brought that with sacrificial grass for Indra to drink.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विना॒ नमु॑चेः सु॒तँ सोमँ॑ शु॒क्रं प॑रि॒स्रुता॑।  

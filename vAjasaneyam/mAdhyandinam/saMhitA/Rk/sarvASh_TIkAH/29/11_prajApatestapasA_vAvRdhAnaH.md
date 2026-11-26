@@ -13,6 +13,18 @@ Thou, waxing by Prajâpati's strong fervour, born quickly, guardest sacrifice, O
 Waxing with the fervour of Prajapati, Immediately on birth, O Agni, thou didst support the sacrifice; As harbinger with the oblation offered with Hail! Do thou go; let the gods eat the oblation duly.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Waxing by the heat of Prajāpati, born just now, you have undertaken the sacrifice, O Agni;  
+as the leader with the oblation made with Svāhā, go! May the Sādhya gods eat the oblation!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Growing through the heat of Prajāpati, born just now, you have measured out the sacrifice, O Agni;  
+as leader, go forth with the oblation offered with 'svāhā'! In friendship may the gods eat the oblation!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 प्र॒जाप॑ते॒स्तप॑सा वावृधा॒नः स॒द्यो जा॒तो द॑धिषे य॒ज्ञम॑ग्ने।  
@@ -23,6 +35,18 @@ Waxing with the fervour of Prajapati, Immediately on birth, O Agni, thou didst s
 
 प्र॒जाप॑ते॒स् तप॑सा वावृधा॒नस् स॒द्यो जा॒तो द॑धिषे य॒ज्ञम॑ग्ने ।   
 स्वाहा॑कृतेन ह॒विषा॑ पुरोगा या॒हि , सा॒ध्या ह॒विर॑दन्तु दे॒वाः ॥ [59]
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रजा᳓पतेस् त᳓पसा वावृधानः᳓ सद्यो᳓ जातो दधिषे यज्ञ᳓म् अग्ने  
+स्वा᳓हाकृतेन हवि᳓षा पुरोगा᳓ याहि᳓ साध्या᳓ हवि᳓र् अदन्तु देवाः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रजापतेस्तपसा वावृधानस्सद्यो जातो ममिषे यज्ञमग्ने।  
+स्वाहाकृतेन हविषा पुरोगा याहि सख्या हविरदन्तु देवाः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -38,6 +62,46 @@ Waxing with the fervour of Prajapati, Immediately on birth, O Agni, thou didst s
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 प्र॒जाप॑ते॒रिति॑ प्र॒जा-प॒तेः॒ । तप॑सा । वा॒वृ॒धा॒नः । स॒द्यः । जा॒तः । द॒धि॒षे॒ । य॒ज्ञम् । अ॒ग्ने॒ ॥ स्वाहा॑कृते॒नेति॒ स्वाहा॑-कृ॒ते॒न॒ । ह॒विषा॑ । पु॒रो॒गा॒ इति॑ पुरः-गाः॒ । या॒हि । सा॒ध्या । ह॒विः । अ॒द॒न्तु॒ । दे॒वाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्रजा᳓-पतेः (*TS*-44/437, *RV*-0/5, *TB*-33/248, *TK*-2/46, *AV*-15/76, *SB-M*-77/774, *SB-K*-80/769, *VS-M*-5/44, *VS-K*-5/46, *KS*-6/48)
+- त᳓पसा (*TS*-15/46, *RV*-11/21, *TB*-8/43, *TK*-4/30, *AV*-43/88, *SB-M*-18/97, *SB-K*-20/89, *VS-M*-5/20, *VS-K*-5/22, *KS*-2/12)
+- वावृधानः᳓ (*TS*-4/6, *TB*-3/4, *TK*-1, *SB-M*-0/1, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-4/6, *KS*-1/2)
+- सद्यः᳓ (*TS*-11, *RV*-78, *TB*-10, *AV*-21, *SB-M*-9, *SB-K*-8, *VS-M*-9, *VS-K*-8, *KS*-2)
+- जातः (मूल-पाठः)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3, *KS*-1)
+- यज्ञ᳓म् (*TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187, *KS*-53/171)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114, *KS*-122)
+- स्वा᳓हा-कृतेन (*TS*-1/9, *RV*-0/5, *TB*-0/4, *AV*-0/2, *SB-M*-0/8, *SB-K*-0/12, *VS-M*-1/8, *VS-K*-1/8, *KS*-0/2)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101, *KS*-19/60)
+- पुरः-गाः᳓ (*TS*-2/3, *RV*-3, *TB*-2, *AV*-1, *SB-K*-3, *VS-M*-3, *VS-K*-1, *KS*-4)
+- याहि᳓ (*TS*-2, *RV*-21, *TB*-3, *AV*-2, *SB-M*-1, *VS-M*-5, *VS-K*-3, *KS*-1)
+- साध्या᳓ (*TS*-3/11, *RV*-3, *TB*-1/4, *AV*-6/7, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-1/6, *VS-K*-1/6, *KS*-3)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101, *KS*-23/60)
+- अदन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-2, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2, *KS*-1)
+- देवाः᳓ (*TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523, *KS*-89/317)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्रजा᳓-पतेः (*MS*-39/297, *TS*-44/437, *RV*-0/5, *TB*-33/248, *TK*-2/46, *AV*-15/76, *SB-M*-77/774, *SB-K*-80/769, *VS-M*-5/44, *VS-K*-5/46)
+- त᳓पसा (*MS*-16/44, *TS*-15/46, *RV*-11/21, *TB*-8/43, *TK*-4/30, *AV*-43/88, *SB-M*-18/97, *SB-K*-20/89, *VS-M*-5/20, *VS-K*-5/22)
+- वावृधानः᳓ (*MS*-5/7, *TS*-4/6, *TB*-3/4, *TK*-1, *SB-M*-0/1, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-4/6)
+- सद्यः᳓ (*MS*-10, *TS*-11, *RV*-78, *TB*-10, *AV*-21, *SB-M*-9, *SB-K*-8, *VS-M*-9, *VS-K*-8)
+- जातः᳓ (*MS*-26/57, *TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37)
+- ममिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- स्वा᳓हा-कृतेन (*MS*-1/5, *TS*-1/9, *RV*-0/5, *TB*-0/4, *AV*-0/2, *SB-M*-0/8, *SB-K*-0/12, *VS-M*-1/8, *VS-K*-1/8)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- पुरः-गाः (समानान्तर-पाठः (TS), *TS*-1, *VS-M*-1, *VS-K*-1)
+- याहि᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-4, *TS*-2, *RV*-21, *TB*-3, *AV*-2, *SB-M*-1, *VS-M*-5, *VS-K*-3)
+- स᳓ख्या (*MS*-3/34, *TS*-3/31, *RV*-7/225, *TB*-0/12, *AV*-2/64, *SB-M*-1/20, *SB-K*-1/19, *VS-M*-0/29, *VS-K*-0/31)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- अदन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-2, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -118,6 +182,13 @@ Waxing with the fervour of Prajapati, Immediately on birth, O Agni, thou didst s
 अदन्तु भक्षयन्तु ॥ ११ ॥
 इत उत्तरम् अश्वस्य रक्षिणस्तद्-युद्धोपकरणानि च स्तूयन्ते -
 केतुं कृण्व्-अत्र केतवे पेशो मर्या अपेशसे ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_7]** So Ch; vgl. dagegen दधिषे in MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 11. (Thus Ch; cf. on the other hand दधिषे in MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 11.)
+
+- **[639_8]** So Ch; dagegen साध्या MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 11. (Thus Ch; on the other hand साध्या MS 3, 16, 2; TS 5, 1, 11, 4; VS 29, 11.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

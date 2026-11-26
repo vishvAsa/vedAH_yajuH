@@ -2,28 +2,39 @@
 title = "४० सुषुम्णः सूर्य रश्मिश्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुषुम्णः᳓ सू᳓र्य-रश्मिश् चन्द्र᳓मा गन्धर्वः᳓
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 The Highly-Blessed, the Moon whose rays are like the Sun's, is the Gandharva.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Suṣumṇa, sun-beamed Soma the moon is the Gandharva;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सु॒षु॒म्णः सूर्य॑रश्मिश्च॒न्द्रमा॑ गन्ध॒र्वः
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सु॒षु॒म्णः। सु॒सु॒म्न इति॑ सुऽसु॒म्नः। सूर्य॑रश्मि॒रिति॒ सूर्य॑ऽरश्मिः। च॒न्द्रमाः॑। ग॒न्ध॒र्वः।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 सुषुम्ण:। सूर्यरश्मिश्चन्द्रमा। गन्धर्वः।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 सुषुम्णः सूर्यरश्मिः।
@@ -34,6 +45,7 @@ The Highly-Blessed, the Moon whose rays are like the Sun's, is the Gandharva.
 
 चन्द्रमा गन्धर्वः तस्य नक्षत्राणि अप्सरसः।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 यश्चन्द्रमा गन्धर्वः स नोऽस्माकमिदं ब्रह्म क्षत्रं च पातु।
@@ -52,6 +64,7 @@ The Highly-Blessed, the Moon whose rays are like the Sun's, is the Gandharva.
 
 तस्मै चन्द्रमसे स्वाहा वाट्।
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 [ ' सुषुम्णः ' इति । यः

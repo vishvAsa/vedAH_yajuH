@@ -8,6 +8,12 @@ title = "१५ यदि दिवा"
 If in the day-time or at night we have committed acts of sin, May Vâyu set me free from that iniquity and all distress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether by day or by night we have committed sins,  
+may Vāyu release me from that sin, from every distress!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदि॒ दिवा॒ यदि॒ नक्त॒मेनाँ॑सि चकृ॒मा व॒यम्।  

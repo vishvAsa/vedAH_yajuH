@@ -8,6 +8,18 @@ title = "९२ आत्मन्नुपस्थे न"
 Hair of the wolf was on his waist and body: the beard upon his face was hair of tigers. Lions hair were his locks, for fame and beauty, worn on his head, his crest and sheen and vigour.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the trunk, on the lap [the hair is] like the wolf's hair; on the face the beard like the tiger's hair;  
+the hair on the head [is] for glory, for splendor; the crest, the hair of the lion, is brilliance, faculties.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+On his body, on the lap, like a wolf's hair; on his face whiskers like a tiger's hair;  
+the hair on the head like locks for glory and fortune; the lion's hair is brilliance, the sensory faculties.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒त्मन्नु॒पस्थे॒ न वृक॑स्य॒ लोम॒ मुखे॒ श्मश्रू॑णि॒ न व्या॑घ्रलो॒म।  
@@ -93,6 +105,13 @@ Hair of the wolf was on his waist and body: the beard upon his face was hair of 
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 'प्रकृतिभूतायां सौत्रामण्यां त्रयाणां लोमानि' इति वाक्येन वृकव्याघ्रसिंहानां लोमानि विहितानि । तान्यत्र चोदकप्राप्तानि ग्रहत्रये प्रक्षिप्यन्ते । तत्र यद्वृकस्य लोम तत् आत्मन् संपाद्यमानशरीरे उपस्थे न गुह्यप्रदेश इव वर्तते । यत्तु व्याघ्रलोम तत् मुखे वर्तमानानि श्मश्रूणीव । यत्तु सिंहस्य लोम तच्छिरसि केशा इव । केशनिष्पन्ना च शिखा यशसे श्रियै च संपद्यते । अनुष्ठानकाले सशिखत्वेन यशः । लोके व्यवहारे रमणीयत्वेन श्रीः । या तु लोमगता त्विषिः दीप्तिः सा तु संपाद्यस्य शरीरस्येन्द्रियस्थानीया ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_3]** So corr. Ch श्मश्रुणि (Thus emended; Ch reads श्मश्रुणि)
+
+- **[570_4]** So corr. Ch लोमस्, erste Hand लोमम् (Thus emended Ch लोमस्, first hand लोमम्)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

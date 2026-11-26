@@ -13,6 +13,12 @@ Who flays thee? Who dissects thee? Who prepares thy limbs for sacrifice? Who is 
 Who cutteth thee? Who doth divide thee Who doth pierce thy limbs? Who, too, is thy wise dissector?
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Who cuts you up? Who carves you? Who stitches your limbs?  
+And who is your wise slaughterer?
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 कस्त्वाछ्य॑ति॒ कस्त्वा॒ विशा॑स्ति॒ कस्ते॒ गात्रा॑णि शम्यति।  
@@ -23,6 +29,12 @@ Who cutteth thee? Who doth divide thee Who doth pierce thy limbs? Who, too, is t
 
 कस्त्वा॑ छ्यति॒ , कस्त्वा॒ वि शा॑स्ति॒ , कस्ते॒ गात्रा॑णि शिम्यति ।   
 क उ॑ ते शमि॒ता क॒विः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+क᳓स्त्वा छ्यति क᳓स्त्वा वि᳓शास्ति क᳓स्ते गा᳓त्राणि शिम्यति।  
+क᳓ उ ते शमिता᳓ कविः᳓
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -38,6 +50,26 @@ Who cutteth thee? Who doth divide thee Who doth pierce thy limbs? Who, too, is t
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कः । त्वा॒ । छ्य॒ति॒ । कः । त्वा॒ । वीति॑ । शा॒स्ति॒ । कः । ते॒ । गात्रा॑णि । शि॒म्य॒ति॒ ॥ कः । उ॒ । ते । श॒मि॒ता । क॒विः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कः᳓ (*MS*-38/183, *TS*-36/158, *RV*-155/375, *TB*-25/93, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/850, *VS-M*-30/98, *VS-K*-22/86)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- छ्यति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *TB*-1)
+- कः᳓ (*MS*-38/183, *TS*-36/158, *RV*-155/375, *TB*-25/93, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/850, *VS-M*-30/98, *VS-K*-22/86)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- शास्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *TB*-1, *SB-M*-4, *SB-K*-2)
+- कः᳓ (*MS*-38/183, *TS*-36/158, *RV*-155/375, *TB*-25/93, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/850, *VS-M*-30/98, *VS-K*-22/86)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- गा᳓त्राणि (*MS*-2/3, *TS*-3/9, *RV*-2/4, *TB*-0/1, *AV*-3/4, *VS-M*-3/6, *VS-K*-2/5)
+- शिम्यति (*TS*-1)
+- कः᳓ (*MS*-38/183, *TS*-36/158, *RV*-155/375, *TB*-25/93, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/850, *VS-M*-30/98, *VS-K*-22/86)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- शमिता᳓ (*MS*-4/9, *TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-7/12)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -170,6 +202,13 @@ Who cutteth thee? Who doth divide thee Who doth pierce thy limbs? Who, too, is t
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अयमपि सर्व आनुष्टुभोनुवाकः । प्रथमा गायत्री । कः प्रजापतिः स एव त्वा छ्यति छिनत्ति स एव योग्य इति । छो छेदने, 'ओतश्श्यनि' इत्योकारलोपः । क एव त्वां विशास्ति विशसतीत्यनया भूयुक्तं करोति । विपूर्वश्शास्तिर्विशसने । यद्वा - शसु हिंसायां इत्यस्य 'बहुलं छन्दसि' इति शपो लुक्, वर्णव्यत्ययेन अकारः । क एव ते तव गात्राणि शिम्यति शमयति सुखेन विशसति । यद्वा - अविनाशेन अङ्गानि विशस्य स्थापयति । यस्मादेवं तस्मात् क एव शमिता शमयिता कविः मेधावी अवयवविभागज्ञः । 'शमिता यज्ञे' इति ण्यन्तस्य निपात्यते ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[648_11]** Auch dies Cap. in Brl fol. 175 vorhanden ; darnach accentuirt. (This chapter is also extant in Brl fol. 175; accented according to it.)
+
+- **[648_12]** Ch छति oder छृति; vgl. TS 5, 2, 12, 1; VS 23, 39. (Ch छति or छृति; cf. TS 5, 2, 12, 1; VS 23, 39.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

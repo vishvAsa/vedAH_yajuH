@@ -8,6 +8,12 @@ title = "१४ इडाभिरग्निरीड्यः सोमो"
 Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre and the steer of thirty months give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is to be praised with refreshments, Soma the immortal god;  
+the Anuṣṭubh metre, faculty, the five-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इडा॑भिर॒ग्निरीड्यः॒ सोमो॑ दे॒वोऽअम॑र्त्यः।  
@@ -28,6 +34,12 @@ Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre 
 त्रि॒व॒त्सो गौर्वयो॑ दधुः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इडाभिरग्निरीड्यस्सोमो देवो अमर्त्यः।  
+अनुष्टुप्छन्द इन्द्रियं पञ्चाविर्गौर्वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इडा॑भिः। अ॒ग्निः। ईड्यः॑। सोमः॑। दे॒वः। अम॑र्त्यः। अ॒नु॒ष्टुप्। अ॒नु॒स्तुबित्य॑नुऽस्तुप्। छन्दः॑। इ॒न्द्रि॒यम्। पञ्चा॑वि॒रिति॒ पञ्च॑ऽअविः। गौः। वयः॑। द॒धुः॒। १४।
@@ -41,6 +53,22 @@ Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓डाभिः । अग्निः᳓ । ई᳓ड्यः । सो᳓मः । देवः᳓ । अ᳓मर्त्यः । अनु-ष्टु᳓प् । छ᳓न्दः । इन्द्रिय᳓म् । त्रि-वत्सः᳓ । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓डाभिः (*MS*-3/72, *TS*-1/45, *RV*-6/53, *TB*-5/30, *AV*-0/10, *SB-M*-0/66, *SB-K*-0/51, *VS-M*-7/26, *VS-K*-5/42)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- ई᳓ड्यः (*MS*-9/12, *TS*-6, *RV*-23/39, *TB*-3/5, *TK*-1, *AV*-7/12, *SB-M*-6, *SB-K*-5, *VS-M*-11/12, *VS-K*-8/9)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- अ᳓मर्त्यः (*MS*-8/12, *TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7)
+- अनुष्टु᳓प्छन्दः (*MS*-0/1, *MW*)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- प᳓ञ्चाविः (*MS*-3/4, *TS*-0/2, *TB*-1/2, *SB-M*-1/3, *SB-K*-1/3, *VS-K*-2/7)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>

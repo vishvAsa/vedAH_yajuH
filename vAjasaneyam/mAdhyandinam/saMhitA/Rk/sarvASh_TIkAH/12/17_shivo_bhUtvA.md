@@ -21,6 +21,12 @@ Sit here on thine own birthplace.
 auspicious to me, O Agni, auspicious do thou sit down.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having become kind to me, o Agni, then sit down kind;  
+having made all quarters kind, sit here in your own womb!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शि॒वो भू॒त्वा मह्य॑मग्ने॒ऽअथो॑ सीद शि॒वस्त्वम्।  
@@ -89,6 +95,15 @@ auspicious to me, O Agni, auspicious do thou sit down.
 आविदं ख्यातिम् ।   किंच प्राणापानव्यानानां त्रित्वात्तानपि त्रिसंख्यया स्वात्मनि स्थापयति ।
 
 हेऽग्ने मह्यं मदर्थं शिवः शान्तो भूत्वाऽथो अनन्तरं त्वं शिवः सीद सर्वान्प्रति शान्तः सन्नुपविश ।   सर्वा दिशः शान्ताः कृत्वेहास्यामुखायां स्वां योनिं स्वकीयं स्थानमासद आगत्योपविश ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**टिप्पणी (अनङ्किता 4)**
+
+- **4.** Ch प्रतिविशां रिशाम
+
+**समानान्तराणि:** cf. Mâitr. S. 2, 7, 8.**
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

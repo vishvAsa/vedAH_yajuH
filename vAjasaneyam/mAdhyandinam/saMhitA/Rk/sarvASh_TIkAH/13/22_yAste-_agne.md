@@ -15,6 +15,12 @@ In the sun with rays envelop the sky,
 With all of them bring us to brilliance, to men.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What splendors of yours, o Agni, are in the sun, extending heaven with rays,  
+with all of them today make us splendid for the people!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यास्ते॑ऽ अग्ने॒ सूर्य्ये॒ रुचो॒ दिव॑मात॒न्वन्ति॑ र॒श्मिभिः॑।  

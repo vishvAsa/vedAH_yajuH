@@ -16,6 +16,12 @@ Shining with great radiance,
 Harm not our offspring with thy body.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go forward, o Agni, full of light, with gracious flames;  
+shining with lofty beams, do not harm our offspring with your body!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 प्रेद॑ग्ने॒ ज्योति॑ष्मान् याहि शि॒वेभि॑र॒र्चिभि॒ष्ट्वम्।  

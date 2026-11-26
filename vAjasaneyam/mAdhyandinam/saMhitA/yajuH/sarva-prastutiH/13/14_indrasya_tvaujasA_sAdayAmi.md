@@ -2,28 +2,39 @@
 title = "१४ इन्द्रस्य त्वौजसा सादयामि"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इ᳓न्द्रस्य त्वौ᳓जसा सादयामि ॥१४ ॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 I settle thee with the great strength of Indra.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By the vigor of Indra I set you down;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स्य॒ त्वौज॑सा सादयामि ॥१४ ॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इन्द्र॑स्य। त्वा॒। ओज॑सा। सा॒द॒या॒मि॒। १४।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 इन्द्र॑स्य। त्वा॒। ओज॑सा। सा॒द॒या॒मि॒। १४।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 आग्नेय्या च त्रिष्टुभा।
@@ -32,6 +43,7 @@ I settle thee with the great strength of Indra.
 
 बलेन सादयामि॥ १४॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 इन्द्रस्य त्वेति यजुषा भुव इति ऋचा च।
@@ -40,6 +52,7 @@ I settle thee with the great strength of Indra.
 
 हे स्रुक्, इन्द्रस्यौजसा तेजसा त्वां सादयामि स्थापयामि॥ १४॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 कात्यायनः ॥

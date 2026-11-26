@@ -8,6 +8,18 @@ title = "२६ शारदेनऽऋतुना देवाऽएकवि
 With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja, give with grace to Indra grace, life, sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the autumn season the gods, the Ṛbhus, praised in the twenty-onefold [stoma];  
+with the Vairāja, with splendor, they placed splendor, the oblation, vigor, in Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the autumn season the divine Ṛbhus placed the oblation, fortune, in Indra,  
+praised in the twenty-onefold [stoma], with the Vairāja [sāman], with splendour.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शा॒र॒देन॑ऽऋ॒तुना॑ दे॒वाऽए॑कविँ॒शऽऋ॒भव॑ स्तु॒ताः।  
@@ -28,6 +40,18 @@ With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja,
 ह॒विरिन्द्रे॒ वयो॑ दधुः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+शारदे᳓न ऋतु᳓ना देवा᳓ एकविँश᳓ ऋभ᳓वः स्तुत᳓म्  
+वैराजे᳓न श्रिया᳓ श्रि᳓यँ हवि᳓र् इ᳓न्द्रे व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+शारदेनर्तुना देवा एकविँश ऋृभवस्स्तुतम्।  
+वैराजेन श्रिया श्रियँ हविरिन्द्रे वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 शा॒र॒देन॑। ऋ॒तुना॑। दे॒वाः। ए॒क॒विँ॒श इत्ये॑कऽविँ॒शे। ऋ॒भवः॑। स्तु॒ताः। वै॒रा॒जेन॑। श्रि॒या। श्रिय॑म्। ह॒विः। इन्द्रे॑। वयः॑। द॒धुः॒। २६।
@@ -41,6 +65,39 @@ With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja,
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शारदे᳓न । ऋतु᳓ना । देवाः᳓ । एक-विंशः᳓ । ऋभ᳓वः । स्तुत᳓म् । वैराजे᳓न । श्रिया᳓ । श्रि᳓यम् । हविः᳓ । इ᳓न्द्रे । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- शारदे᳓नः (मूल-पाठः)
+- ऋतु᳓ना (*TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/35, *KS*-0/34)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- एक-विंशः᳓ (*TS*-32, *TB*-21, *TK*-2, *AV*-1, *SB-M*-51, *SB-K*-51, *VS-M*-4, *VS-K*-1, *KS*-4)
+- ऋभ᳓वः (*TS*-1, *RV*-24/64, *TB*-1/3, *AV*-3/7, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/3)
+- स्तुत᳓म् (*TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/3)
+- वैराजे᳓न (*TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5/6, *TK*-4, *AV*-4/5, *SB-M*-16/28, *SB-K*-16/33, *VS-M*-4/6, *VS-K*-2/4, *KS*-0/1)
+- श्रि᳓यम् (*TS*-7, *RV*-15/33, *TB*-15/16, *TK*-2, *AV*-14/15, *SB-M*-60/64, *SB-K*-64/69, *VS-M*-7/8, *VS-K*-7/8, *KS*-4/7)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- इ᳓न्द्रे (*TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/388, *VS-K*-22/358, *KS*-1/189)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शारदे᳓न (*MS*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- ऋतु᳓ना (*MS*-9/164, *TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/36)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- एक-विंशः᳓ (*MS*-14, *TS*-32, *TB*-21, *TK*-2, *AV*-1, *SB-M*-51, *SB-K*-51, *VS-M*-4, *VS-K*-1)
+- ऋ᳓ृभवस्स्तुतम् (अनाम्नातम् (अनुमानम्))
+- वैराजे᳓न (*MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श्रिया᳓ (*MS*-3/10, *TS*-0/3, *RV*-14/48, *TB*-5/6, *TK*-4, *AV*-4/5, *SB-M*-16/28, *SB-K*-16/33, *VS-M*-4/6, *VS-K*-2/4)
+- श्रि᳓यम् (*MS*-9, *TS*-7, *RV*-15/33, *TB*-15/16, *TK*-2, *AV*-14/15, *SB-M*-60/64, *SB-K*-64/69, *VS-M*-7/8, *VS-K*-7/8)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इ᳓न्द्रे (*MS*-14/711, *TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/392, *VS-K*-22/380)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>

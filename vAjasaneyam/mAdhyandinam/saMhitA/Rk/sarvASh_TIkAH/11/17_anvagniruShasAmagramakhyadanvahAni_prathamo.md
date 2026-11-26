@@ -16,6 +16,12 @@ And in many ways along the rays of the sun [2],
 He hath extended along sky and earth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni surveyed the front of the dawns; the first Jātavedas [surveyed] the days;  
+and you have stretched along the rays of the sun in many places, along heaven and earth.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  

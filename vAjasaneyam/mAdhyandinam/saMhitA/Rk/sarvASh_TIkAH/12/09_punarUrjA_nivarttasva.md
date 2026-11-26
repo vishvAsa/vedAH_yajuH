@@ -2,23 +2,34 @@
 title = "०९ पुनरूर्जा निवर्त्तस्व"
 
 +++
+
 <details><summary>Griffith</summary>
 
 Return again with nourishment; Agni, again with food and life. Again preserve us from distress.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Return again with vigor, again, O Agni, with nourishment and life-span;  
+protect us again from distress. //
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑रू॒र्जा निव॑र्त्तस्व॒ पुन॑रग्नऽइ॒षायु॑षा।  
 पुन॑र्नः पा॒ह्यँह॑सः ॥९ ॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 पुनः॑। ऊ॒र्जा। नि। व॒र्त्त॒स्व॒। पुनः॑। अ॒ग्ने॒। इ॒षा। आयु॑षा। पुनः॑। नः॒। पा॒हि॒। अँह॑सः। ९।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 पुनः॑। ऊ॒र्जा। नि। व॒र्त्त॒स्व॒। पुनः॑। अ॒ग्ने॒। इ॒षा। आयु॑षा। पुनः॑। नः॒। पा॒हि॒। अँह॑सः। १०।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 पुनरूर्जा गायत्र्यौ।
@@ -31,6 +42,7 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 
 किंच पुनरेव नोऽस्मान् पाहि अंहसः पापात्सकाशात् यथा पूर्वं रक्षिताः॥ ९॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 आग्नेय्यौ द्वे गायत्र्यौ।
@@ -41,6 +53,7 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 
 आगतस्त्वं नोऽस्मान्पुनः कृतादंहसः पापात्पाहि रक्ष॥ ९॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ तृतीय: - 'पुनरुर्जा नि वर्तस्व पुनरग्न इषायुषा । पुननैः पाह्य हस: ' इति ।
@@ -52,6 +65,7 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 तस्यास्तीति ( 111 )
 सायणाचार्य - आनन्दबोध-माष्यसमेता
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ' पुनरूज ' आग्नेयी गायत्री ।
@@ -62,6 +76,7 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 
 पुनः नः पाहि "अंहसः पापात् सकाशात् नः अस्मान् पाहि रक्ष ॥ १० ।
 </details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता
@@ -69,30 +84,37 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 - निचृदार्षी
 - षड्जः
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर पढ़ानेहारे का कर्त्तव्य अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (अग्ने) अग्नि के समान तेजस्वी अध्यापक विद्वान् जन ! आप (नः) हम लोगों को (अंहसः) पापों से (पुनः) बार-बार (निवर्त्तस्व) बचाइये, (पुनः) फिर हम लोगों की (पाहि) रक्षा कीजिये, और (पुनः) फिर (इषा) इच्छा तथा (आयुषा) अन्न से (ऊर्जा) पराक्रमयुक्त कर्मों को प्राप्त कीजिये ॥९ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान् लोगों को चाहिये कि सब उपदेश के योग्य मनुष्यों को पापों से निरन्तर हटा के शरीर और आत्मा के बल से युक्त करें और आप भी पापों से बच के परम पुरुषार्थी होवें ॥९ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 पुनरध्यापककृत्यमाह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे अग्ने ! त्वं नोऽस्मानंहसः पुनर्निवर्त्तस्व, पुनरस्मान् पाहि, पुनरिषाऽऽयुषोर्जा प्रापय ॥९ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वांसः सर्वानुपदेश्यान् मनुष्यान् पापात् सततं निवर्त्य शरीरात्मबलयुक्तान् सम्पादयन्तु, स्वयं च पापान्निवृत्ताः परमपुरुषार्थिनः स्युः ॥९ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  विद्वान लोकांनी उपदेश करून सर्वांना पापापासून सदैव परावृत्त करावे. सर्वांची शरीरे व आत्मे बलवान करावेत. स्वतःही पापांपासून दूर राहून अत्यंत पुरुषार्थी बनावे.

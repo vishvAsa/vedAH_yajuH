@@ -15,6 +15,12 @@ Thy breath the atmosphere, thy birthplace the ocean; Discerning with thine eye,
 Do thou overcome [3] the enemy.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sky is your back, the earth your seat, the intermediate space your breath, the ocean your womb;  
+having discerned with your eye, step upon the assailants.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 द्यौस्ते॑ पृ॒ष्ठं पृ॑थि॒वी स॒धस्थ॑मा॒त्मान्तरि॑क्षँ समु॒द्रो योनिः॑।  

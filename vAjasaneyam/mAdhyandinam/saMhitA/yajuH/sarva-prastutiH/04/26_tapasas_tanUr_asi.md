@@ -2,28 +2,39 @@
 title = "२६ तपसस् तनूर् असि"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓पसस् तनू᳓र् असि प्रजा᳓-पतेर् व᳓र्णः
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Fervour's form art thou, and Prajâpati's nature.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the body of ascetic toil, the form of Prajāpati;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप॑सस्त॒नूर॑सि प्र॒जाप॑ते॒र्वर्णः॑
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तप॑सः। त॒नूः। अ॒सि॒। प्र॒जाप॑ते॒रिति॑ प्र॒जाऽप॑तेः। वर्णः॑।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 तप॑सः। त॒नूः। अ॒सि॒। प्र॒जाप॑ते॒रिति॑ प्र॒जाऽप॑तेः। वर्णः॑।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 तपसस्तनूरसि तपसः प्रजापतेः हे अजे, तनूः शरीरं त्वमसि।
@@ -32,6 +43,7 @@ Fervour's form art thou, and Prajâpati's nature.
 
 सा यन्त्रिः संवत्सरस्य विजायते तेन प्रजापतेर्वर्णः।
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 तव गौरेव सोममूल्यमस्तु हिरण्यानि मा भूवन्नित्यर्थः।
@@ -50,6 +62,7 @@ Fervour's form art thou, and Prajâpati's nature.
 
 तदुक्तं तित्तिरिणा ऽसा वा एषा सर्वदेवत्या यदजा’ इति।
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 पाठस् तु - 'तपस-स्तनूरसि प्रजापतेर् वर्णः । परमेण पचना क्रीयसे सहस्र-पोषं पुषेयम् ' इति ।

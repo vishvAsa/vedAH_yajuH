@@ -2,32 +2,44 @@
 title = "६६ नमो ऽस्तु रुद्रेभ्यो"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो ऽस्तु रुद्रे᳓भ्यो ये᳓ पृथिव्यां᳓ ये᳓षाम् अ᳓न्नम् इ᳓षवः।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 Homage to Rudras, those whose home is earth, whose arrows is men's food.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage be to the Rudras who are on earth, whose arrows are food;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नमो॑ऽस्तु रु॒द्रेभ्यो॒ ये पृ॑थि॒व्यां येषा॒मन्न॒मिष॑वः।
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 नमः॑। अ॒स्तु॒। रु॒द्रेभ्यः॑। ये। पृ॒थि॒व्याम्। येषा॑म्। अन्न॑म्। इष॑वः।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 नमः॑। अ॒स्तु॒। रु॒द्रेभ्यः॑। ये। पृ॒थि॒व्याम्। येषा॑म्। अन्न॑म्। इष॑वः।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 (अस्याः कण्डिकाया व्याख्या ६५-कण्डिकया सहिता द्रष्टव्या।)
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 ये पृथिव्यां रुद्रा वर्तन्ते येषामन्नमिषवः ।
@@ -40,6 +52,7 @@ Homage to Rudras, those whose home is earth, whose arrows is men's food.
 
 व्यवहाराय संज्ञाकरणम् ॥ ६६ ॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अञ्जलिं बद्ध्वा सर्वदिक्षु नमस्करोमीत्यर्थः ।

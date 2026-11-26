@@ -2,28 +2,71 @@
 title = "७३ अद्भ्यः क्षीरम्"
 
 +++
+
 <details><summary>Griffith</summary>
 
 The Snipe of Angiras by thought from out the waters drank up milk. By Law came truth, etc., as in 72.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the waters the curlew, the Āṅgirasa, drank milk apart with insight;  
+by order, the truth, the faculty, the drink drawn apart, the bright [essence] of the juice:  
+the faculty of Indra,  
+this milk, the immortal honey.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अद्भ्यः क्षी॒रं व्य॑पिब॒त् क्रुङ्ङा॑ङ्गिर॒सो धि॒या।  
 ऋ॒तेन॑ स॒त्यमि॑न्द्रि॒यं वि॒पानँ॑शु॒क्रमन्ध॑स॒ऽइन्द्र॑स्येन्द्रि॒यमि॒दं पयो॒ऽमृतं॒ मधु॑ ॥७३ ॥
 </details>
+
 <details><summary>मूलम् - काण्वम्</summary>
 
 अ॒द्भ्यः क्षी॒रं व्य॑पिब॒त् क्रुङ्ङा॑ङ्गि॒रसो॒ धि॒या ।  
 ऋ॒तेन॑ स॒त्यमि॑न्द्रि॒यं वि॒पानँ॑ शु॒क्रमन्ध॑स॒ इन्द्र॑स्येन्द्रि॒यमि॒दं पयो॒ऽमृतं॒ मधु॑ ।
 </details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अद्भः᳓ क्षीरं᳓ व्य᳙पिबत्क्रु᳓ङ्ङाङ्गिरसो᳓ धिया᳓।  
+ऋते᳓न सत्य᳓मिन्द्रियं᳓ विपा᳓नँ शुक्र᳓म᳓न्धस इ᳓न्द्रस्येन्द्रिय᳓मि᳓दं᳓ प᳓यो ऽमृ᳓तं म᳓धु
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒द्भ्य इत्य॒त्ऽभ्यः। क्षी॒रम्। वि। अ॒पि॒ब॒त्। क्रुङ्। आ॒ङ्गि॒र॒सः। धि॒या। ऋ॒तेन॑। स॒त्यम्। इ॒न्द्रि॒यम्। वि॒पान॒मिति॑ वि॒ऽपान॑म्। शु॒क्रम्। अन्ध॑सः। इन्द्र॑स्य। इ॒न्द्रि॒यम्। इ॒दम्। पयः॑। अमृत॑म्। मधु॑। ७३।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऋ॒तेन॑। स॒त्यम्। इ॒न्द्रि॒यम्। वि॒पान॒मिति॑ वि॒ऽपान॑म्। शु॒क्रम्। अन्ध॑सः। इन्द्र॑स्य। इ॒न्द्रि॒यम्। इ॒दम्। पयः॑। अमृत॑म्। मधु॑।
 </details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अद्भः᳓ (मूल-पाठः)
+- क्षीर᳓म् (*MS*-3, *TS*-0/2, *RV*-3/5, *TB*-0/1, *AV*-23/28, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-1, *VS-K*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- अपिबत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-7, *TS*-4, *RV*-7, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- क्रु᳓ङ् (*TB*-1, *VS-M*-1, *MS*-1)
+- आङ्गिरसः᳓ (*MS*-2/4, *RV*-5/7, *TB*-1, *AV*-7/9, *SB-M*-8/11, *SB-K*-6/9, *VS-M*-1)
+- धिया᳓ (*MS*-11/14, *TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12)
+- ऋते᳓न (*MS*-21/93, *TS*-5/80, *RV*-43/361, *TB*-22/62, *TK*-0/2, *AV*-10/107, *SB-M*-0/72, *SB-K*-0/74, *VS-M*-8/41, *VS-K*-8/45)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- वि-पा᳓नम् (*MS*-8, *RV*-0/5, *TB*-0/2, *SB-M*-1, *SB-K*-1, *VS-M*-8, *VS-K*-8)
+- शुक्र᳓म् (*MS*-40/101, *TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50)
+- अ᳓न्धसः (*MS*-11/14, *TS*-1/4, *RV*-60/101, *TB*-2/3, *TK*-0/1, *AV*-15/17, *SB-M*-3/11, *SB-K*-3/10, *VS-M*-17/21, *VS-K*-16/18)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- इ᳓द᳓म् → **इद᳓म्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MW*, *MS*-231/1379, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/319, *VS-K*-64/301)
+- प᳓यः (*MS*-85/138, *TS*-34/63, *RV*-53/97, *TB*-48/73, *AV*-35/64, *SB-M*-88/133, *SB-K*-91/139, *VS-M*-37/55, *VS-K*-27/43)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- म᳓धु (*MS*-55/81, *TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62)
+</details>
+
 <details><summary>उवट-टीका</summary>
 
 अद्भ्यः क्षीरम्।
@@ -42,6 +85,7 @@ The Snipe of Angiras by thought from out the waters drank up milk. By Law came t
 
 अथ इन्द्रस्य इन्द्रियं विपानममृतं मधु भूयात्॥ ७३॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 अङ्गिरसः अङ्गानां रसः प्राणो यथा क्रुङ् हंसो भूखा धिया प्रज्ञया अद्भ्यः सकाशात् क्षीरं दुग्धमपिबत् पिबति।
@@ -52,6 +96,7 @@ The Snipe of Angiras by thought from out the waters drank up milk. By Law came t
 
 अथेन्द्रस्य पयो वीर्यममृतं भवतु॥ ७३॥
 </details>
+
 <details><summary>आनन्दबोध-टीका</summary>
 
 ' अद्भयः क्षीरम् ' इति ।
@@ -70,6 +115,7 @@ The Snipe of Angiras by thought from out the waters drank up milk. By Law came t
 क्रुड् गति
 लृङ् गति for क्रुङ् ... ।
 </details>
+
 <details><summary>अनन्ताचार्य-टीका</summary>
 
 ' अद्भयः क्षीरम् ' ।
@@ -78,6 +124,14 @@ The Snipe of Angiras by thought from out the waters drank up milk. By Law came t
 
 क्रुङ् गति-कौटिल्ये ।
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[566_4]** Der Accent ergänzt; T1 व्यपिबत्क्रु᳓ङ्ङगिरसो; Brl व्यपिबत्क्रु᳓ङगिरसो ; Ch क्रङ्ङा° (Accent supplied; T1 व्यपिबत्क्रु᳓ङ्ङगिरसो; Brl व्यपिबत्क्रु᳓ङगिरसो; Ch क्रङ्ङा°)
+
+- **[566_5]** In T1 und Brl nur ऋते᳓न; das Weitere des Verses zu ergänzen. (In T1 and Brl only ऋते᳓न; the remainder of the verse to be supplied.)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आङ्गिरसो देवताः
@@ -85,6 +139,7 @@ The Snipe of Angiras by thought from out the waters drank up milk. By Law came t
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 H tradition holds that certain birds can separate milk from water. We believe it is an allusion to an early realization of filter feeding. The earliest reference to this is in the shuklayajurveda regarding a bird termed kru~N. 
@@ -92,30 +147,37 @@ H tradition holds that certain birds can separate milk from water. We believe it
 We believe (contra main-stream IEists) that its a an ortholog of Germanic krana, and Armenian krownk. The IEist might laryngeally bellow that it violates phonology, but we believe that rather than being dominated by phonology its form was driven by onomatopoeia. This is supported by such forms showing up in Dravidian, Harappan, and Uralic.  
 We translate it as the unrelated flamingo because of the suspicion that it might have been laterally expanded to apply to a filter-feeder that also produces milk. The way this metaphor is used for the kru~N is very similar to how it is used for the haMsa later.
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कौन पुरुष विज्ञान को प्राप्त होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  जो (आङ्गिरसः) अङ्गिरा विद्वान् से किया हुआ विद्वान् (धिया) कर्म के साथ (अद्भ्यः) जलों से (क्षीरम्) दूध को (क्रुङ्) क्रुञ्चा पक्षी के समान थोड़ा-थोड़ा करके (व्यपिबत्) पीवे, वह (ऋतेन) यथार्थ योगाभ्यास से (इन्द्रस्य) ऐश्वर्य्ययुक्त जीव के (अन्धसः) अन्नादि के योग से (इदम्) इस प्रत्यक्ष (सत्यम्) सत्य पदार्थों में अविनाशी (विपानम्) विविध शब्दार्थ सम्बन्धयुक्त (शुक्रम्) पवित्र (इन्द्रियम्) दिव्यवाणी और (पयः) उत्तम रस (अमृतम्) रोगनाशक ओषधि (मधु) मधुरता और (इन्द्रियम्) दिव्य श्रोत्र को प्राप्त होवे ॥७३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
 
 भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो सत्याचरणादि कर्मों करके वैद्यक शास्त्र के विधान से युक्ताहारविहार करते हैं, वे सत्य बोध और सत्य विज्ञान को प्राप्त होते हैं ॥७३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
 
 के जना विज्ञानमाप्नुवन्तीत्याह ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  य आङ्गिरसो धियाऽद्भ्यः क्षीरं क्रुङ् व्यपिबत्, स ऋतेनेन्द्रस्यान्धसः सकाशादिदं सत्यं विपानं शुक्रमिन्द्रियं पयोऽमृतं मध्विन्द्रियं च प्राप्नुयात् ॥७३ ॥
 </details>
+
 <details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
 
 भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। ये सत्याऽऽचरणैर्वैद्यकशास्त्रविधानात् युक्ताहारविहारं कुर्वन्ति, ते सत्यं बोधं विज्ञानञ्च यान्ति ॥७३ ॥
 </details>
+
 <details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जे सत्यचरण करून वैद्यकशस्रानुसार आहारविहार करतात त्यांना सत्याचा बोध होतो व सत्य विज्ञानाचे आकलन होते.

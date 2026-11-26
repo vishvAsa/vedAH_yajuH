@@ -8,6 +8,12 @@ title = "६८ यमश्विना सरस्वती"
 That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala through to win him wealth, with Namuchi of Asura birth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whom the two Aśvins and Sarasvatī strengthened with the oblation, Indra,  
+he split the power, the bounty, together with the Asura Namuci.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यम॒श्विना॒ सर॑स्वती ह॒विषेन्द्र॒मव॑र्द्धयन्।  
@@ -28,6 +34,12 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 नमु॑चावासु॒रे सचा॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यमश्विना सरस्वती हविषेन्द्रमवर्धयन्।  
+स बिभेद बलं मघं नमुचा आसुरे सचा
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 यम्। अ॒श्विना॑। सर॑स्वती। ह॒विषा॑। इन्द्र॑म्। अव॑र्द्धयन्। सः। बि॒भे॒द॒। ब॒लम्। म॒घम्। नमु॑चौ। आ॒सु॒रे। सचा॑। ६८।
@@ -41,6 +53,23 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 य᳓म् । अश्वि᳓ना । स᳓रस्वती । हवि᳓षा । इ᳓न्द्रम् । अ᳓वर्धयन् । सः᳓ । बिभेद । वल᳓म् । मघ᳓म् । न᳓मुचौ । आसुरे᳓ । स᳓चा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓वर्धयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-2, *TS*-1, *RV*-4, *TB*-1, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- बिभेद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-2, *TB*-2, *AV*-3, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- ब᳓लम् (*MS*-22/32, *TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21)
+- मघ᳓म् (*MS*-0/1, *TS*-0/2, *RV*-8/35, *TB*-2/6, *AV*-1/5, *SB-M*-1, *SB-K*-1/2, *VS-M*-2, *VS-K*-2)
+- न᳓मुचाः (*MS*-2, *RV*-0/1, *TB*-0/2, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/5, *VS-K*-0/13)
+- आसुरे᳓ (*MS*-2/8, *TS*-0/4, *RV*-1/5, *TB*-2/4, *AV*-1, *SB-M*-1/6, *SB-K*-1/4, *VS-M*-5/7, *VS-K*-6/9)
+- स᳓चा (*Whitney*, *MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -142,6 +171,13 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 अश्विनावुभौ सरस्वती चेत्येते त्रयो हविषा यमिन्द्रमवर्धयन् सोऽयमिन्द्रः नमुचिनाम्नि आसुरे सचा संबद्धं मघं महनीयं वलं बलनामानमसुरं बिभेद विदारितवान् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_8]** So Ch; auch MS 3, 11, 4 nach allen Mss. बलं᳓ ; dagegen VS 20, 68 वलं᳓ (Thus Ch; MS 3, 11, 4 also according to all mss. reads बलं᳓; on the other hand VS 20, 68 reads वलं᳓)
+
+- **[575_9]** Ch मघन्न°; VS 20, 68 मघं᳓; dagegen MS 3, 11, 4 मद्यं᳓ (Ch मघन्न°; VS 20, 68 मघं᳓; on the other hand MS 3, 11, 4 मद्यं᳓)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

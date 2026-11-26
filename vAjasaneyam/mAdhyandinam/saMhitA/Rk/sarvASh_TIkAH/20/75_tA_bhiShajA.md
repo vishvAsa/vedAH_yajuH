@@ -8,6 +8,18 @@ title = "७५ ता भिषजा"
 Those Leeches righteous in their deeds, She, rich in milk, Sarasvatî, That Vritra-Mayer hundred-powered, invested Indra with his might.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two healers of good deeds, she, Sarasvatī, easily milked,  
+he, the Vṛtra-slayer of hundred resolves, deposited faculty for Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Those two physicians of good deeds, that easily-milked Sarasvatī,  
+and that slayer of Vṛtra with hundredfold resource, placed faculty in Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ता भि॒षजा॑ सु॒कर्म॑णा॒ सा सु॒दुघा॒ सर॑स्वती।  
@@ -110,6 +122,11 @@ Those Leeches righteous in their deeds, She, rich in milk, Sarasvatî, That Vrit
 ता भिषजा तौ चिकितवकावश्विनौ सुकर्मणा शोभनकर्मयुक्तौ सा सरस्वती सुदुघा सुष्ठु दोहनयुक्ता स च वृत्रहा इन्द्रः शतक्रतुः शतसंख्याकक्रतुयुक्तः । ते सर्वेऽपि इन्द्रार्थमिन्द्रियं संपादितवन्तः । इन्द्रोऽपि स्वार्थं प्रवर्तत इति भावः ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्यप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके त्रयोदशोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_2]** So corr. Ch स (Thus emended; Ch reads स)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

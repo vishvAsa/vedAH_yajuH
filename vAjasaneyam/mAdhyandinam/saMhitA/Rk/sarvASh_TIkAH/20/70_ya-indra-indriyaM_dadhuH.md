@@ -8,6 +8,12 @@ title = "७० यऽइन्द्रऽइन्द्रियं दधु
 Indra whom Bhaga, Savitar, and Varuna supplied with power, Lord of the sacrifice, may he, Good Guardian, love the worshipper.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ, Varuṇa, and Bhaga, who placed faculty in Indra,  
+and Sutrāman, lord of the oblation, attended the sacrificer.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यऽइन्द्र॑ऽइन्द्रि॒यं द॒धुः स॑वि॒ता वरु॑णो॒ भगः॑।  

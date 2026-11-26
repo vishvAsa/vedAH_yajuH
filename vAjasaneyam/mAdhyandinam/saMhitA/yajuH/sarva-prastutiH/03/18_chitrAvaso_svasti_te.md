@@ -2,28 +2,39 @@
 title = "१८ चित्रावसो स्वस्ति ते"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चि᳓त्रावसो स्वस्ति᳓ ते पार᳓म् अशीय ॥१८॥
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Griffith</summary>
 
 O rich in shining lights, may I in safety rich the end of thee.
 </details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O you whose wealth is wondrous, may I attain your far shore in safety.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चित्रा॑वसो स्व॒स्ति ते॑ पा॒रम॑शीय ॥१८॥
 </details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 चित्रा॑वसो। चि॑त्रवसो॒ऽइति॒ चित्र॑ऽवसो। स्व॒स्ति। ते। पा॒रम्। अ॒शी॒य॒। १८।
 </details>
+
 <details><summary>पदपाठः - काण्वः</summary>
 
 चित्रा॑वसो। चि॑त्रवसो॒ऽइति॒ चित्र॑ऽवसो। स्व॒स्ति। ते। पा॒रम्। अ॒शी॒य॒।
 </details>
+
 <details><summary>उवट-टीका</summary>
 
 चित्रावसो रात्रिरुच्यते ऽरात्रिर्वै चित्रावसुः सा हीयᳪं᳭ संगृह्येव चित्राणि वसति’ इति श्रुतिः।
@@ -38,6 +49,7 @@ O rich in shining lights, may I in safety rich the end of thee.
 
 अशीय अश्नुयां व्याप्नुयाम्॥ १८॥
 </details>
+
 <details><summary>महीधर-टीका</summary>
 
 चित्रावसो, रात्रिदेवत्यं यजुरृषिदृष्टम्।
@@ -54,6 +66,7 @@ O rich in shining lights, may I in safety rich the end of thee.
 
 यथा लोके मनुष्येषु सुप्तेषु चौरा गृहे प्रविशन्ति तद्वदत्र देवयजने रक्षांसि प्रविशन्तीति शङ्कया तन्निवारणाय रात्रिप्रार्थनम्॥ १८॥
 </details>
+
 <details><summary>सायण-टीका (काण्वी)</summary>
 
 अथ द्वादशः - 'चित्रावसो स्वस्ति ते पारमशीय ' इति ।

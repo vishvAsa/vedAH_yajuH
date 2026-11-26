@@ -8,6 +8,18 @@ title = "९१ इन्द्रस्य रूपमृषभो"
 The hull for strength made Indra's form: the immortal bearing for both his ears by two libations. Barley and sacred grass composed his eyebrows: from his mouth came the jujube and sweet honey.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bull is the form of Indra for strength; immortal hearing in the ears through the two cups;  
+like barley the barhis on the eyebrow, the bristles; wild-honey formed in the mouth like karkandhu-fruit.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The bull, Indra's form, for strength; from two cups the immortal hearing through the two ears;  
+like sacrificial grass the barley, the hairs on the eyebrow; from the mouth arose the wild honey, the jujube.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्र॑स्य रू॒पमृ॑ष॒भो बला॑य॒ कर्णा॑भ्याँ॒ श्रोत्र॑म॒मृतं॒ ग्रहा॑भ्याम्। यवा॒ न ब॒र्हिर्भ्रु॒वि केस॑राणि क॒र्कन्धु॑ जज्ञे॒ मधु॑ सार॒घं मुखा॑त् ॥९१ ॥
@@ -19,6 +31,12 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 कर्णा॑भ्याँ॒ श्रोत्र॑म॒मृत॒ङ्ग्रहा॑भ्याम् ।  
 यवा॒ न ब॒र्हिर्भ्रु॒वि केस॑राणि ।  
 क॒र्कन्धु॑ जज्ञे॒ मधु॑ सार॒घम्मुखा॑त् ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रस्य रूप᳓म् ऋषभो᳓ ब᳓लाय क᳓र्णाभ्याँ श्रो᳓त्रम् अमृ᳓तं ग्र᳓हाभ्याम्  
+य᳓वैर् न᳓ बर्हि᳓र् भ्रुवि᳓ के᳓सराणि कर्क᳓न्धु जज्ञे᳓ म᳓धु सारघं᳓ मु᳓खे
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -34,6 +52,28 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्रस्य । रूप᳓म् । ऋषभः᳓ । ब᳓लाय । क᳓र्णाभ्याम् । श्रो᳓त्रम् । अ-मृ᳓तम् । ग्र᳓हाभ्याम् । य᳓वा । न᳓ । बर्हिः᳓ । भ्रुवि᳓ । के᳓सराणि । कर्क᳓न्धु । जज्ञे । म᳓धु । सारघ᳓म् । मु᳓खात् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380, *KS*-30/189)
+- रूप᳓म् (*TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41, *KS*-3/11)
+- ऋषभः᳓ (*TS*-13/25, *RV*-0/4, *TB*-17/33, *TK*-1, *AV*-9/24, *SB-M*-23/36, *SB-K*-22/39, *VS-M*-6/20, *VS-K*-6/19, *KS*-2)
+- ब᳓लाय (*TS*-3/27, *RV*-2/19, *TB*-4/29, *TK*-0/8, *AV*-8/62, *SB-M*-0/26, *SB-K*-0/26, *VS-M*-7/26, *VS-K*-7/21, *KS*-3/5)
+- क᳓र्णाभ्याम् (*TS*-1/5, *RV*-1/14, *TB*-1/3, *AV*-4/16, *SB-M*-2/17, *SB-K*-2/17, *VS-M*-2/8, *VS-K*-2/9, *KS*-0/1)
+- श्रो᳓त्रम् (*TS*-28/32, *RV*-1/2, *TB*-14/20, *TK*-2/3, *AV*-11/25, *SB-M*-73/113, *SB-K*-66/97, *VS-M*-18/26, *VS-K*-18/27, *KS*-8/10)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- य᳓वैः (*TS*-0/16, *RV*-0/19, *TB*-1/7, *AV*-0/22, *SB-M*-0/34, *SB-K*-2/43, *VS-M*-1/13, *VS-K*-1/16, *KS*-0/7)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41, *KS*-11/13)
+- भ्रुवि᳓ (*TB*-1, *VS-M*-1, *VS-K*-1)
+- के᳓सराणि (*TB*-1, *VS-M*-1, *VS-K*-1)
+- कर्क᳓न्धु (*RV*-1, *TB*-2/3, *SB-M*-2/3, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/4)
+- जज्ञे᳓ (*TS*-1/2, *RV*-5, *AV*-7, *SB-M*-1/2, *SB-K*-7, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62, *KS*-13/24)
+- सारघ᳓म् (*RV*-0/1, *TB*-2, *TK*-1, *AV*-0/2, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-2/3)
+- मु᳓खे (*TS*-0/18, *RV*-1/5, *TB*-3/26, *TK*-0/1, *AV*-2/33, *SB-M*-8/82, *SB-K*-9/78, *VS-M*-1/11, *VS-K*-1/7, *KS*-1/10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -162,6 +202,11 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 सोऽयमृषभ इन्द्रस्य रूपं इन्द्रदेवताकत्वेन तत्स्वरूपसदृशः सोऽयमस्य शरीरस्य बलार्थं संपाद्यते । पशुसंबन्धिभ्यां कर्णाभ्यां पयस्सुरारूपग्रहाभ्यां चामृतं श्रोत्रं बाधिर्यरहितं श्रोत्रेन्द्रियं संपाद्यते । भुवि यवा न भूमावुत्पन्ना यवा इव बर्हिः वेद्यामासादितानि बर्हिषि केसराणि प्रवृद्धतमानि लोमानि । सरघाः मधुमक्षिकाः ताभिः संपादितं सारघं मधु तद्रूपं कर्कन्धु जज्ञे । कर्कन्धुशब्देनातिस्थूलबदरफलपिष्टमुच्यते । तच्च मधुसदृशं मुखाज्जज्ञे यज्ञप्रारम्भे समुत्पन्नमित्यर्थः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_2]** So corr. Ch जज्ञो (Thus emended; Ch reads जज्ञो)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

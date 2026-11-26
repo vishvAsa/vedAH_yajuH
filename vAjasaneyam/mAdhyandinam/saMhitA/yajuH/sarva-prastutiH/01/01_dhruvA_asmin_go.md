@@ -20,9 +20,19 @@ Be constant, numerous to this lord of cattle.
 Abide ye, numerous, with this lord of cattle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may you be steadfast and manifold for this master of cattle!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वाऽअ॒स्मिन् गोप॑तौ स्यात ब॒ह्वीः
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+धुर्वा᳓ अस्मि᳓न् गो᳓पतौ स्यात बह्वी᳓स्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
