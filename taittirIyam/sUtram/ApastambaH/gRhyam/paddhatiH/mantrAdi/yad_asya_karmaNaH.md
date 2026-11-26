@@ -1,5 +1,6 @@
 +++
-title = "Yad asya karmaNaH"
+title = "यद् अस्य कर्मणो"
+unicode_script = "devanagari"
 +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -1,5 +1,6 @@
 +++
-title = "Agnaye j Atavedase sahojase"
+title = "अग्नये नमः जातवेदसे"
+unicode_script = "devanagari"
 +++
 
 अग्नये नमः, जातवेदसे नमः,  

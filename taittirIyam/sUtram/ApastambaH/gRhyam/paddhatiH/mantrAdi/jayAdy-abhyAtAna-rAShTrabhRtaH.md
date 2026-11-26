@@ -64,27 +64,43 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑ति॒र् जया॒न् इन्द्रा॑य॒ वृष्णे॒  
-प्राय॑च्छद् उ॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒।  
-तस्मै॒ विश॒स् सम॑नमन्त॒ सर्वा॒स्  
-स उ॒ग्रस् स हि हव्यो॑ ब॒भूव॑॥  
-[स्वाहा॑॥]
+प्रजा᳓पतिर् ज᳓यान् इ᳓न्द्राय वृ᳓ष्णे  
+**प्रा᳓यच्छद्** उग्रᳶ᳓ पृतना᳓ज्येषु +++(→गतिकारकोपपदात् कृत्?)+++।  
+त᳓स्मै वि᳓शस् **स᳓मनमन्त** स᳓र्वास्  
+स᳓ उग्र᳓स् स᳓ हि᳓ **ह᳓व्यो बभू᳓व**॥  
+[स्वा᳓हा॥]
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Prajapati bestowed victories on Indra  
+The strong, he who is dread in battle contest,  
+To him all the people bowed in reverence,  
+For he waxed dread, worthy of offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । जयान्॑ । इन्द्रा॑य । वृष्णे॑ । प्रेति॑ । अ॒य॒च्छ॒त् । उ॒ग्रः । पृ॒त॒नाज्ये॑षु । तस्मै॑ । विशः॑ । समिति॑ । अ॒न॒म॒न्त॒ । सर्वाः॑ । सः । उ॒ग्रः । सः । हि । हव्यः॑ । ब॒भूव॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अथ प्रजापतिर्जयानिति अत्र त्रयोदशी त्रिष्टुप् ॥ 'वृष्णे' इति प्रथमपादान्तः 'सर्वाः' इति तृतीयापादान्तः । प्रजापतिर्जयानेतानिन्द्राय वृष्णे वर्षित्रे प्रायच्छत् दत्तवान् ।
+प्रजापतिर्जयानेतानिन्द्राय वृष्णे वर्षित्रे प्रायच्छत् दत्तवान् ।
 
-उग्रः उद्गीर्णः पृतनाज्वेषु संग्रामाभिगमनेषु उद्गीर्णशक्तिः प्रजापतिः । यद्वा - जयान् लब्ध्वा इन्द्रःसंग्रामेषूद्गीर्णो बतूव । अजः अञ्जो वा भावे यति छान्दसं रूपं, अत एवानवग्रहः ।
+**उग्रः** उद्गीर्णः  
+**पृतनाज्येषु** संग्रामाभिगमनेषु उद्गीर्णशक्तिः प्रजापतिः ।  
+यद्वा - जयान् लब्ध्वा इन्द्रःसंग्रामेषूद्गीर्णो बतूव ।  
+अजः अञ्जो वा भावे यति छान्दसं रूपं, अत एवानवग्रहः ।  
 
-ततः प्रभृति तस्मै इन्द्राय सर्वा विशः प्रजास्समनमन्त प्रतिज्ञाविधेया अभवन् । स उग्रः स खलूग्रो भवति, यस्मै विशस्समनमन्त, याः पूर्वं स्पर्धीताः ।
+ततः प्रभृति तस्मै इन्द्राय सर्वा विशः प्रजास् समनमन्त प्रतिज्ञाविधेया अभवन् । स उग्रः स खलूग्रो भवति, यस्मै विशस्समनमन्त, याः पूर्वं स्पर्धीताः ।
 
 यद्वा - यो जयान् जुहोति स खलूग्रो भवति स एब हव्यो यागार्हश्च इज्यश्च बभूव भवति । छान्दसो लिट् ॥
 </details>
@@ -879,7 +895,7 @@ In this holy power, this worldly power, this prayer, this Purohitaship, this rit
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShADRta_dhAmAgnir_gandharvaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓
@@ -895,6 +911,11 @@ Maintainer of Law, true by nature, Agni is the Gandharva.
 <details><summary>Keith</summary>
 
 Supporting holy order, abounding in truth, Agni is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conquering by truth, truth-aboded Agni is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1293,7 +1314,7 @@ his Apsarases are the Rc and Saman verses, (called) hymns, &c.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इषिरो᳓ विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓
@@ -1309,6 +1330,11 @@ The Quick, All-reaching, Wind is the Gandharva.
 <details><summary>Keith</summary>
 
 The swift, all-pervading wind is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the vigorous, all-encompassing Wind is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>

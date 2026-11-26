@@ -25,7 +25,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/04_kanyalA_pitRbhyo.md">
 <details open><summary><h2>०४ कन्यला पितृभ्यो ...{Loading}...</h2></summary>
 
-[[कन्यला᳓|कन्य᳓ला]]+++(=कन्यैव, लशब्द उपजनः)+++ पितृ᳓भ्यो यती᳓+++(=गच्छन्ती)+++  
+कन्य᳓ला+++(=कन्यैव, लशब्द उपजनः)+++ पितृ᳓भ्यो **यती᳓**+++(=गच्छन्ती)+++  
 पतिलोक᳓म्  
 अ᳓व+++(उपसर्गः)+++ +++(कन्या)+++दीक्षा᳓म् **अदास्थ**+++(=अवक्षपितवती त्यक्तवती ←दीङ् क्षये)+++ स्वा᳓हा ।
 
@@ -41,13 +41,13 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/06_imAntvamindra_mIDhvassuputrAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/45_imAM_tvamindra.md">
 <details open><summary><h2>०६ इमान्त्वमिन्द्र मीढ्वस्सुपुत्राम् ...{Loading}...</h2></summary>
 
-इ॒मान् त्वम् इ॑न्द्र मीढ्वस्+++(=वर्षक इन्द्र)+++  
-सुपु॒त्राँ सु॒भगां॑ कुरु ।  
-दशा॑ऽस्यां पु॒त्रान् आ धे॑हि॒  
-पति॑म् एकाद॒शं कृ॑धि ।+++(५)+++
+इमा᳓न्त्व᳓म् इन्द्र मीढ्वस्+++(=वर्षक इन्द्र)+++  
+सुपुत्राँ᳓ सुभ᳓गां कुरु ।  
+द᳓शास्यां पुत्रा᳓ना᳓ धेहि  
+प᳓तिमेकादशं᳓ कृधि ।
 
 </details>
 </div>
@@ -84,12 +84,10 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/10_dyauste_pRShTham.md">
 <details open><summary><h2>१० द्यौस्ते पृष्ठम् ...{Loading}...</h2></summary>
 
-द्यौस्ते॑ पृ॒ष्ठँ र॑क्षतु  
-वा॒युर् ऊ॒रू  
-अ॒श्विनौ॑ च॒ स्तन॒न्  
-+++(स्तनं)+++ धय॑न्तँ+++(=चूसन्तम्)+++ सवि॒ताऽभि र॑क्षतु ।+++(५)+++  
-आ वास॑सः परि॒धाना॒द् +++(परि॑ त्वा गिर्-वणो॒ इत्यादिना)+++ बृह॒स्पति॒र्,  
-विश्वे॑ दे॒वा अ॒भिर॑क्षन्तु प॒श्चात् ।  
+द्यौ᳓स् ते पृष्ठँ᳓ **रक्षतु**, वायु᳓र् ऊरू᳓,  
+अश्वि᳓नौ च स्त᳓नन्, +++(स्तनं)+++ ध᳓यन्तँ+++(=चूसन्तम्)+++ सविता᳓ऽभि᳓ **रक्षतु** ।+++(५)+++  
+आ᳓ वा᳓ससः **परिधा᳓नाद्** +++(प᳓रि त्वा गिर्-वणो इत्यादिना)+++ बृ᳓हस्प᳓तिर्,  
+वि᳓श्वे देवा᳓ **अभि᳓रक्षन्तु** पश्चा᳓त् ।  
 
 </details>
 </div>
@@ -106,9 +104,9 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
 <details open><summary><h2>१९ इमं मे ...{Loading}...</h2></summary>
 
-इमं᳓ मे वरुण श्रुधी +++(=श्रुणु)+++  
-ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च मृळय +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ चके +++(=अवदन्)+++॥  
+इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
+ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
 
 </details>
 </div>
@@ -146,10 +144,10 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
 <details open><summary><h2>१६ त्वमग्ने अयाऽस्यया ...{Loading}...</h2></summary>
 
-त्वम् अ॑ग्ने अ॒या+++(=एतव्यः/ प्रत्येता)+++ **ऽस्य्**  
-अ॒या **सन्** मन॑सा **हि॒तः** ।  
-अ॒या **सन्** ह॒व्यम् **ऊ॑हिषे॒**  
-ऽया नो॑ **धेहि** भेष॒जम् ॥ (4)
+त्व᳓म् अग्ने अया᳓+++(=एतव्यः/ प्रत्येता)+++ **ऽस्य्**  
+अया᳓ **स᳓न्** म᳓नसा **हितः᳓** ।  
+अया᳓ **स᳓न्** हव्य᳓म् **ऊहिषे**  
+ऽया᳓ नो **धेहि** भेषज᳓म् ॥ (4)
 
 </details>
 </div>

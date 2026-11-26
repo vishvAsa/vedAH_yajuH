@@ -1,5 +1,6 @@
 +++
-title = "shrI-viShNave_svAhA"
+title = "ॐ श्रीविष्णवे विष्णवे"
+unicode_script = "devanagari"
 +++
 
 (ॐ) श्रीवि॒ष्णवे॒ / विष्ण॑वे॒ स्वाहा॑  

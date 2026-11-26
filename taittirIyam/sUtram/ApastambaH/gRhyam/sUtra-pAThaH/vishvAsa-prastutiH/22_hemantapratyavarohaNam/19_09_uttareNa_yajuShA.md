@@ -6,7 +6,7 @@ title = "१९ ०९ उत्तरेण यजुषा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/02_pratyavarUDho_no.md">
 <details open><summary><h2>०२ प्रत्यवरूढो नो ...{Loading}...</h2></summary>
 
-प्र॒त्यव॑रूढो नो हेम॒न्तः ।  
+प्रत्य᳓वरूढो नो हेमन्तः᳓ ।  
 
 </details>
 </div>
@@ -15,18 +15,18 @@ title = "१९ ०९ उत्तरेण यजुषा"
 उत्तरैर् +++("प्रतिक्षत्र"इत्यादिभिः पञ्चभिः)+++ दक्षिणैः पार्श्वैः नवस्वस्तरे+++(=तृणशय्यायाम्)+++ संविशन्ति ९  
 
 +++(नवस्वस्तरे संविशन् )+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/03_pratixatre_pratitiShThAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/29_prati_xatre_pratitiShThAmi.md">
 <details open><summary><h2>०३ प्रतिक्षत्रे प्रतितिष्ठामि ...{Loading}...</h2></summary>
 
-प्र᳓ति क्षत्रे᳓, प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
+प्र᳓ति क्षत्रे᳓ प्र᳓तितिष्ठामि राष्ट्रे᳓ ।  
 
 </details>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_18/04_pratyashveShu_pratitiShThAmi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/05_abhiShekaH/30_pratyashveShu_pratitiShThAmi_goShu.md">
 <details open><summary><h2>०४ प्रत्यश्वेषु प्रतितिष्ठामि ...{Loading}...</h2></summary>
 
-प्र᳓त्य् अ᳓श्वेषु, प्र᳓तितिष्ठामि गो᳓षु ।  
+प्र᳓त्य᳓श्वेषु प्र᳓तितिष्ठामि गो᳓षु ।  
 
 </details>
 </div>
