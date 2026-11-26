@@ -43,4 +43,3 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </details>
 </div>
-
