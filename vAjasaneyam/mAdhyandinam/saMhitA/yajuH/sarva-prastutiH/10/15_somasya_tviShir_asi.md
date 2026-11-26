@@ -48,7 +48,7 @@ Thou art the glittering of Soma; as thine may my glittering be.
 
 <details><summary>महीधर-टीका</summary>
 
-अभिषेकार्थं राजानं व्याघ्रचर्मणि स्थापयेत्।
+अभिषेकार्थं राजानं व्याघ्र-चर्मणि स्थापयेत्।
 </details>
 
 <details><summary>सायण-टीका (काण्वी)</summary>

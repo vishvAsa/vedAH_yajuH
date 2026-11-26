@@ -123,7 +123,7 @@ to him many clans bowed down, that he might be fierce, to be invoked by many.
 
 <details><summary>महीधर-टीका</summary>
 
-द्वे ऋचौ व्याख्याते (अध्या० ८ क० ४५ । ४६) ॥ २३ ॥ २४ ॥
+द्वे ऋचौ व्याख्याते (अध्या॰ ८ क॰ ४५ । ४६) ॥ २३ ॥ २४ ॥
 </details>
 
 <details><summary>सायण-टीका (काण्वी)</summary>

@@ -32,6 +32,6 @@ With the Traiṣṭubha metre I seat thee.
 
 <details><summary>महीधर-टीका</summary>
 
-त्रैष्टुभेन छन्दसा त्वां सा०।
+त्रैष्टुभेन छन्दसा त्वां सा॰।
 </details>
 </details>

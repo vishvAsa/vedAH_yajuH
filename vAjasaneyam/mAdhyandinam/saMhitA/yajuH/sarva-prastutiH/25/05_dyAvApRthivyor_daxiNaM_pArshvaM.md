@@ -31,9 +31,8 @@ The right flank belongs to Heaven and Earth, the left to the All-Gods.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-दक्षिणं पार्श्वं द्यावापृथिव्योरस्तु।
-
-उत्तरं वामं पार्श्वं विश्वेषां देवानामस्तु॥ ५॥
+दक्षिणं पार्श्वं द्यावा-पृथिव्योर् अस्तु।  
+उत्तरं वामं पार्श्वं विश्वेषां देवानाम् अस्तु॥ ५॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

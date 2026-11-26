@@ -31,6 +31,6 @@ We have combined with lustre.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-ज्योतिषाहवनीयलक्षणेन वयं समभूम सङ्गता अभूम॥ २५॥
+ज्योतिषाहवनीय-लक्षणेन वयं समभूम सङ्गता अभूम॥ २५॥
 </details>
 </details>

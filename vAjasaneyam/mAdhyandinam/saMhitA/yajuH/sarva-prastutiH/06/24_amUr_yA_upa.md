@@ -30,9 +30,8 @@ May waters gathered near the Sun, and those wherewith the Sun is joined,
 </details>
 <details><summary>महीधर-टीका</summary>
 
-विभक्तिव्यत्ययः।
-
-याभिर्वा।
+विभक्ति-व्यत्ययः।  
+याभिर् वा।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

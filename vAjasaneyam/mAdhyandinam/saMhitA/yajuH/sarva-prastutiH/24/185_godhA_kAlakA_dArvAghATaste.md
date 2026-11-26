@@ -42,7 +42,7 @@ the lizard, the Kalaka, the woodpecker, these are for the trees;
 
 <details><summary>महीधर-टीका</summary>
 
-गोधा कालका पक्षिविशेषः दार्वाघाटः सारसः ते वनस्पतीनाम्।
+गोधा कालका पक्षि-विशेषः दार्वाघाटः सारसः ते वनस्पतीनाम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

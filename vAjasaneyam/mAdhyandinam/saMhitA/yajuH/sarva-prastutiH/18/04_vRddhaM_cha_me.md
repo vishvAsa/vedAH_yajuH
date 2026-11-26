@@ -26,10 +26,8 @@ and my increase and my improvement prosper by sacrifice.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-वृद्धं प्रभूतमन्नधनादि।
-
-वृद्धिः विद्यादिगुणैरुत्कर्षः।
-
+वृद्धं प्रभूतम् अन्न-धनादि।  
+वृद्धिः विद्यादि-गुणैर् उत्कर्षः।  
 एते मे कल्पन्ताम्॥ ४॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>

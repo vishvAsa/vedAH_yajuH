@@ -30,8 +30,7 @@ Thee for the Visvedevas. This is thy home: Thee for the Visvedevas.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-विश्वेभ्यो देवेभ्योऽर्थाय त्वां गृह्णामि।
-
+विश्वेभ्यो देवेभ्यो ऽर्थाय त्वां गृह्णामि।  
 सादयति एष ते व्याख्यातम्॥ ८॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>

@@ -32,9 +32,8 @@ The God, the Praise of all men, hath strengthened bright Indra force-giver, the 
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अतिजगती।
-
-देवो दाता नराशंसो देवः देवं दीप्तं वयोधसमिन्द्रमवर्धयत्।
+अतिजगती।  
+देवो दाता नराशंसो देवः देवं दीप्तं वयोधसम् इन्द्रम् अवर्धयत्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

@@ -38,7 +38,7 @@ We, never injured, Agni, thee uninjured injurer of foes.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अदाभ्यम् केनापि हिंसितुमयोग्यम्।
+अदाभ्यम् केनापि हिंसितुम् अयोग्यम्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

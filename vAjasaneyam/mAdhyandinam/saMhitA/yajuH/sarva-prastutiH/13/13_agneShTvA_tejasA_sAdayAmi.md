@@ -43,8 +43,7 @@ By the heat of Agni I set you down;
 
 <details><summary>महीधर-टीका</summary>
 
-आग्नेयं यजुः।
-
+आग्नेयं यजुः।  
 हे स्रुक्, अग्नेः संबन्धिना तेजसा त्वा त्वां सादयामि॥ १३॥
 </details>
 

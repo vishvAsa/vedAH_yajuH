@@ -32,8 +32,7 @@ and Vāyu-vessels for me, and the wooden tub for me,
 
 <details><summary>महीधर-टीका</summary>
 
-चमसानि ग्रहपात्राणि।
-
-वायव्यानि पात्रविशेषाः।
+चमसानि ग्रह-पात्राणि।  
+वायव्यानि पात्र-विशेषाः।
 </details>
 </details>

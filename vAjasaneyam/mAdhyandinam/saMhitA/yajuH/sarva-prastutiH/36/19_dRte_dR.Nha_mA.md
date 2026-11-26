@@ -34,6 +34,6 @@ Do thou, O Caldron, strengthen me.
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 
-१० (मा० ३६।१३) ।
+१० (मा॰ ३६।१३) ।
 </details>
 </details>

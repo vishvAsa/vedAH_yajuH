@@ -27,12 +27,9 @@ Symbol of milk are barley-grains, symbol of curd are jujube-fruits. Whey is the 
 </details>
 <details><summary>महीधर-टीका</summary>
 
-यत् ये यवाः ते पयसो रूपम्।
-
-कर्कन्धूनि स्थूलबदराणि दध्नो रूपम्।
-
-वाजिनं सोमस्य रूपम्।
-
+यत् ये यवाः ते पयसो रूपम्।  
+कर्कन्धूनि स्थूल-बदराणि दध्नो रूपम्।  
+वाजिनं सोमस्य रूपम्।  
 आमिक्षा पयस्या सौम्यस्य चरोः रूपं ज्ञेयम्॥ २३॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>

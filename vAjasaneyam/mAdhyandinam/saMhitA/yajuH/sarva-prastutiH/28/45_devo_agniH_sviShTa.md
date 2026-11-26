@@ -32,9 +32,8 @@ Agni, the God who makes fair rites, hath strengthened Indra force-giver, the God
 </details>
 <details><summary>महीधर-टीका</summary>
 
-ब्राह्मी बृहती ।
-
-देवो दाता स्विष्टकृत् अग्निः देवो वयोधसं देवं दीप्तमिन्द्रं देवमवर्धयत् ।
+ब्राह्मी बृहती।  
+देवो दाता स्विष्टकृत् अग्निः देवो वयोधसं देवं दीप्तम् इन्द्रं देवम् अवर्धयत्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

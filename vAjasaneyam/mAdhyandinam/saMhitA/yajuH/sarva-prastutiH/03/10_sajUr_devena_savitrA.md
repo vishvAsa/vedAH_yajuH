@@ -31,11 +31,9 @@ Accordant with bright Savitar and Night with Indra at her side,
 </details>
 <details><summary>महीधर-टीका</summary>
 
-जुहोतीत्यनुवर्तते।
-
-पूर्वोक्तमन्त्रैः सह सजूरित्यादिमन्त्रद्वयं विकल्पितम्।
-
-सजूर्देवेन।
+जुहोतीत्य् अनुवर्तते।  
+पूर्वोक्त-मन्त्रैः सह सजूर् इत्यादि-मन्त्र-द्वयं विकल्पितम्।  
+सजूर् देवेन।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

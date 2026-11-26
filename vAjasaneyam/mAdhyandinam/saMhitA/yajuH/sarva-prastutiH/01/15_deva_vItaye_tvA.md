@@ -30,11 +30,9 @@ I seize thee for the Gods’ enjoyment.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अतः देववीतये देवानां तर्पणाय।
-
-त्वा त्वां।
-
-गृह्णामि आवपामीत्यर्थः।
+अतः देव-वीतये देवानां तर्पणाय।  
+त्वा त्वां।  
+गृह्णामि आवपामीत्य् अर्थः।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

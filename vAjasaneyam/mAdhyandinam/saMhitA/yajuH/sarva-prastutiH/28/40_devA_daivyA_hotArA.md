@@ -32,9 +32,8 @@ The Gods, two heavenly Hotars, have strengthened bright Indra, force-giver, thos
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अतिजगती।
-
-दैव्या दैव्यौ देवा देवौ दीप्तौ देवसंबन्धिनौ होतारा होतारौ देवौ वयोधसं देवं दीप्तमिन्द्रं देवमवर्धताम्।
+अतिजगती।  
+दैव्या दैव्यौ देवा देवौ दीप्तौ देव-संबन्धिनौ होतारा होतारौ देवौ वयोधसं देवं दीप्तम् इन्द्रं देवम् अवर्धताम्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

@@ -30,7 +30,7 @@ asd
 </details>
 <details><summary>महीधर-टीका</summary>
 
-नमस्ते व्याख्याता [अ० १७। क० ११]॥ २०॥
+नमस् ते व्याख्याता [अ॰ १७। क॰ ११]॥ २०॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

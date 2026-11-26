@@ -42,7 +42,7 @@ Gods who have Soma as their guide, high-seated, worshipful, Hail to them!
 
 <details><summary>महीधर-टीका</summary>
 
-ये देवाः सोमनेत्राः उपरिसदः उपरि स्थिता दुवस्वन्तो हव्यवन्तस्तेभ्यः स्वाहा॥ ३६॥
+ये देवाः सोम-नेत्राः उपरि-सदः उपरि स्थिता दुवस्वन्तो हव्यवन्तस् तेभ्यः स्वाहा॥ ३६॥
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

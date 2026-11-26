@@ -38,6 +38,6 @@ for the All-gods, spotted deer;
 
 <details><summary>महीधर-टीका</summary>
 
-अथ दशमेऽवकाशे त्रीन् पृषतान् विश्वेभ्यो देवेभ्यः।
+अथ दशमे ऽवकाशे त्रीन् पृषतान् विश्वेभ्यो देवेभ्यः।
 </details>
 </details>

@@ -34,7 +34,7 @@ Skilled in thy task, O Agni, pour lustre and hero strength on us,
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अथ द्वादशाहमन्त्राः।
+अथ द्वादशाह-मन्त्राः।
 </details>
 <details><summary>आनन्दबोध-टीका</summary>
 

@@ -32,9 +32,8 @@ The God the Forest Sovran hath strengthened bright Indra, force-giver, the God h
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अतिजगती।
-
-देवो दाता वनस्पतिर्यूपः देवं द्योतनं वयोधसमिन्द्रं देवमवर्धयत्।
+अतिजगती।  
+देवो दाता वनस्पतिर् यूपः देवं द्योतनं वयोधसम् इन्द्रं देवम् अवर्धयत्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

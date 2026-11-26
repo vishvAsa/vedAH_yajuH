@@ -32,10 +32,8 @@ By Savitar's impulsion do I cleanse thee, with flawless strainer, with the rays 
 </details>
 <details><summary>महीधर-टीका</summary>
 
-सवितुर्देवस्य प्रसवे आज्ञायां वर्तमानः संस्त्वामुत्पुनामि शोधयामि।
-
-व्याख्यातमन्यत्।
-
-सुवितुर्वः।
+सवितुर् देवस्य प्रसवे आज्ञायां वर्तमानः संस् त्वाम् उत्पुनामि शोधयामि।  
+व्याख्यातम् अन्यत्।  
+[[सुवितुर्वः|सवितुर् वः]]।
 </details>
 </details>

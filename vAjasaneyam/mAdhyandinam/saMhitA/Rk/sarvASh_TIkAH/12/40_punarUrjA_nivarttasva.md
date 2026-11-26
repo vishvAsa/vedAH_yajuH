@@ -26,7 +26,7 @@ Return again with nourishment; Agni, again with food and life. Again preserve us
 </details>
 <details><summary>महीधर-टीका</summary>
 
-द्वे व्याख्याते (क० ९)॥ ४०॥
+द्वे व्याख्याते (क॰ ९)॥ ४०॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

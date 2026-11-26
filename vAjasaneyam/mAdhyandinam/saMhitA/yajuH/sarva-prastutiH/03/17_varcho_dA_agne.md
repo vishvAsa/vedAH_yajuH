@@ -48,9 +48,8 @@ Thou art giver of radiance, O Agni; give me radiance.
 
 <details><summary>महीधर-टीका</summary>
 
-अतो मे वर्चो देहि।
-
-वैदिकानुष्ठानप्रयुक्तं तेजो वर्चः।
+अतो मे वर्चो देहि।  
+वैदिकानुष्ठान-प्रयुक्तं तेजो वर्चः।
 </details>
 
 <details><summary>सायण-टीका (काण्वी)</summary>

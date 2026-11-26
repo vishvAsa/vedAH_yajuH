@@ -34,17 +34,7 @@ The Grass divine of water-plants hath helped bright Indra force-giver, the God h
 </details>
 <details><summary>महीधर-टीका</summary>
 
-ब्राह्मी बृहती।
-
-बर्हिः देवमिन्द्रमवर्धयत्।
-
-कीदृशमिन्द्रम्।
-
-देवं दीप्यमानम्।
-
-वयोधसं वयसो दातारम्।
-
-कीदृशं बर्हिः।
+ब्राह्मी बृहती। बर्हिः देवम् इन्द्रम् अवर्धयत्। कीदृशम् इन्द्रम्। देवं दीप्यमानम्। वयोधसं वयसो दातारम्। कीदृशं बर्हिः।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

@@ -33,9 +33,8 @@ The Doors divine have magnified bright Indra, who bestoweth strength.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-द्वारो देव्यः वयोधसं शुचिं पवित्रमिन्द्रमवर्धयन्।
-
-कीदृश्थो द्वारः।
+द्वारो देव्यः वयोधसं शुचिं पवित्रम् इन्द्रम् अवर्धयन्।  
+[[कीदृश्थो|कीदृश्यो]] द्वारः।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

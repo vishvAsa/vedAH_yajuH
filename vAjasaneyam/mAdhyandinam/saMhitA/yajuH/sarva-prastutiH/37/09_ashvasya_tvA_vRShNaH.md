@@ -33,7 +33,7 @@ Thee on Gods’ sacrificial ground with stallion's dung I fumigate.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-दक्षिणाग्निदीप्तेनाश्वपुरीषेण त्रिभिर्मन्त्रैस्त्रीन्महावीरान्धूपयेत्।
+दक्षिणाग्नि-दीप्तेनाश्व-पुरीषेण त्रिभिर् मन्त्रैस् त्रीन् महा-वीरान् धूपयेत्।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

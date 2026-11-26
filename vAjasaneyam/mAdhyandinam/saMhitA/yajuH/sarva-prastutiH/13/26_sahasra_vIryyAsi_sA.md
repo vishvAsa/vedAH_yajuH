@@ -45,7 +45,7 @@ go there where the ancestors have passed away,
 
 <details><summary>महीधर-टीका</summary>
 
-किंच त्वं सहस्रवीर्या बहुसामर्थ्या यासि सा मा मां जिन्व प्रीणीहि॥ २६॥
+किं च त्वं सहस्र-वीर्या बहु-सामर्थ्या यासि सा मा मां जिन्व प्रीणीहि॥ २६॥
 </details>
 
 <details><summary>सायण-टीका (काण्वी)</summary>

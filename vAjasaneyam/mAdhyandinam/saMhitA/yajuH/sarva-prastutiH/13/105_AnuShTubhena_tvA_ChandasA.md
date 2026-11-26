@@ -32,6 +32,6 @@ With the Ānuṣṭubha metre I seat thee.
 
 <details><summary>महीधर-टीका</summary>
 
-आनुष्टुभेन छन्दसा त्वां सा०।
+आनुष्टुभेन छन्दसा त्वां सा॰।
 </details>
 </details>

@@ -26,8 +26,7 @@ Ranker-round art thou: Angiras-like sit steady with that Deity.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-परिचित्परितः सर्वतः चीयते परितो भोगांश्चिनोतीति वा त्वं परिचिदसि।
-
+परिचित् परितः सर्वतः चीयते परितो भोगांश् चिनोतीति वा त्वं परिचिद् असि।  
 तया देवतयेति व्याख्यातम्॥५३॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>

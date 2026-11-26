@@ -30,7 +30,7 @@ May Agni, being pleased, enjoy. All-hail!
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अग्निर्वेतु अस्मदीयं कर्म प्राप्नोतु।
+अग्निर् वेतु अस्मदीयं कर्म प्राप्नोतु।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

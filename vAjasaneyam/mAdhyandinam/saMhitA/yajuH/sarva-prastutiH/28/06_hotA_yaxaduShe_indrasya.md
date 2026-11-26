@@ -33,11 +33,7 @@ Let the Priest sacrifice to Night and Morning, the teeming Cows of Indra, Mighty
 </details>
 <details><summary>महीधर-टीका</summary>
 
-आर्षी त्रिष्टुप्।
-
-उषे अत्र पूर्वपदलोपः।
-
-होता उषे नक्तोषे यजतु।
+आर्षी त्रिष्टुप्। उषे अत्र पूर्व-पद-लोपः। होता उषे नक्तोषे यजतु।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

@@ -47,5 +47,5 @@ And then, (he prays), "This Agni (is) the head, the shoulder of the sky, the lor
 
 <details><summary>महीधर-टीका</summary>
 
-अग्निर्मूर्धेति व्याख्याता (३। १२)।
+अग्निर् मूर्धेति व्याख्याता (३। १२)।
 </details>

@@ -37,7 +37,7 @@ Let the Rudras anoint thee with the Tristubh metre.
 
 <details><summary>महीधर-टीका</summary>
 
-रुद्रा एकादश त्रैष्टुभेन छन्दसा त्वामञ्जन्तु।
+रुद्रा एकादश त्रैष्टुभेन छन्दसा त्वाम् अञ्जन्तु।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

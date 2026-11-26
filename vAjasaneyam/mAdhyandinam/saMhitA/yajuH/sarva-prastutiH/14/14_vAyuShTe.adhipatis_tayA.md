@@ -26,7 +26,7 @@ Thy Lord is Vâyu, with that Deity, Angiras-like, lie firm.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-वायुः तवाधिपतिः तया देवतया ध्रुवा सती सीद अङ्गिरसां चिताविव॥ १४॥
+वायुः तवाधिपतिः तया देवतया ध्रुवा सती सीद अङ्गिरसां चिताव् इव॥ १४॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

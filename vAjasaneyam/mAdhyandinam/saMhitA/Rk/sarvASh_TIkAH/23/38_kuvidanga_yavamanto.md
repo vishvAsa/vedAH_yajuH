@@ -33,7 +33,7 @@ What then? As men whose fields are full of barley, etc., as in X. 32.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-इयं व्याख्याता (अ० १०। क० ३२)॥ ३८॥
+इयं व्याख्याता (अ॰ १०। क॰ ३२)॥ ३८॥
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 

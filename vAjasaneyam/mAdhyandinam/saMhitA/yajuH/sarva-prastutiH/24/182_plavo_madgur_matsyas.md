@@ -37,6 +37,6 @@ the plava-bird, the cormorant, the fish: those belong to the lord of streams;
 
 <details><summary>महीधर-टीका</summary>
 
-प्लवः जलपक्षी मद्गुः कारण्डवः मत्स्यः ते नदीपतये।
+प्लवः जल-पक्षी मद्गुः कारण्डवः मत्स्यः ते नदी-पतये।
 </details>
 </details>

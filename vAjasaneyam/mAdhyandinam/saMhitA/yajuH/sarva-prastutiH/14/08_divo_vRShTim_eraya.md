@@ -30,6 +30,6 @@ Send rain from heaven.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-दिवो द्युलोकाद्वृष्टिमेरय आ समन्तात्प्रवर्तय॥८॥
+दिवो द्यु-लोकाद् वृष्टिम् एरय आ समन्तात् प्रवर्तय॥८॥
 </details>
 </details>

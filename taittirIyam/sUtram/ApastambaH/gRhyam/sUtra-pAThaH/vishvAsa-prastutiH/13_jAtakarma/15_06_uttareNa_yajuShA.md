@@ -35,17 +35,17 @@ title = "१५ ०६ उत्तरेण यजुषा"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/08_shaNDerathashshaNDikera_ulUkhalaH.md">
 <details open><summary><h2>०८ शण्डेरथश्शण्डिकेर उलूखलः ...{Loading}...</h2></summary>
 
-[[श᳓ण्डे-र᳓थश्|शण्डे-रथ᳓श्]]+++(→शण्डो रथे यस्य)+++ [[श᳓ण्डिकेर|शण्डिकेर᳓]]+++(शण्डिकम् बलम् ईरयति)+++ [[उलूखलः᳓|उलू᳓खलः]] ।  
-च्य᳓वनो **[[न᳓श्यताद्|नश्यताद्]]** इतः᳓ स्वा᳓हा ।  
+[[शण्डे-रथ᳓श्|श᳓ण्डेरथश्]]+++(→शण्डो रथे यस्य)+++ शण्डिकेर᳓+++(शण्डिकम् बलम् ईरयति)+++ उलू᳓खलः ।  
+च्य᳓वनो **नश्यताद्** इतः᳓ स्वा᳓हा ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_13/09_ayashshaNDo_marka.md">
 <details open><summary><h2>०९ अयश्शण्डो मर्क ...{Loading}...</h2></summary>
 
-अ᳓यश् श᳓ण्डो [[म᳓र्क|मर्क᳓]]  
-उपवी᳓र+++(यमवेक्ष्यान्ये वीरा न्यूनाः)+++ [[उलूखलः᳓|उलू᳓खलः]] ।  
-च्य᳓वनो **[[न᳓श्यताद्|नश्यताद्]]** इतः᳓ स्वा᳓हा ।  
+अ᳓यश् श᳓ण्डो म᳓र्क  
+उपवी᳓र+++(यमवेक्ष्यान्ये वीरा न्यूनाः)+++ उलू᳓खलः ।  
+च्य᳓वनो **नश्यताद्** इतः᳓ स्वा᳓हा ।  
 
 </details>
 </div>

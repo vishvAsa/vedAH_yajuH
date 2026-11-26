@@ -33,10 +33,8 @@ Goddesses three, three Goddesses have heightened their Lord Indra's strength, hi
 </details>
 <details><summary>महीधर-टीका</summary>
 
-एकाधिका ब्राह्मी अनुष्टुप्।
-
-तिस्रो देव्यो भारतीडासरस्वत्यः पतिं पालकं वयोधसमिन्द्रमवर्धयन्।
-
+एकाधिका ब्राह्मी अनुष्टुप्।  
+तिस्रो देव्यो भारतीडा-सरस्वत्यः पतिं पालकं वयोधसम् इन्द्रम् अवर्धयन्।  
 अभ्यास आदरार्थः।
 </details>
 <details><summary>आनन्दबोध-टीका</summary>

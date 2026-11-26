@@ -32,11 +32,9 @@ Goddesses three, three Goddesses have heightened their Lord Indra's strength.
 </details>
 <details><summary>महीधर-टीका</summary>
 
-अति जगती।
-
-तिस्रो देवीः देव्यः पतिं पालकमिन्द्रमवर्धयन्।
-
-आदरार्थ पुनरुक्तिः।
+अतिजगती।  
+तिस्रो देवीः देव्यः पतिं पालकम् इन्द्रम् अवर्धयन्।  
+[[आदरार्थ|आदरार्थं]] पुनरुक्तिः।
 </details>
 <details><summary>सायण-टीका (काण्वी)</summary>
 
