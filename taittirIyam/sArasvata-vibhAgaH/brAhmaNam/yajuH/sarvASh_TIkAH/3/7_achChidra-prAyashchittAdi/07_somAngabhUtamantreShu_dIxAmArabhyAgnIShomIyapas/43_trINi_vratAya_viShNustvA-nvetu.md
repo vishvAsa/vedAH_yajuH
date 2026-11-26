@@ -22,3 +22,8 @@ Three: may Viṣṇu follow you for vow.
 
 व्रताय कर्मसमृद्धये ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+त्रीणि॑ व्र॒ताय विष्णुस्त्वाऽन्वेंतु ।
+</details>

@@ -22,3 +22,8 @@ Four: may Viṣṇu follow you for delight.
 
 मायोभवाय प्राणसमृद्धये मयोभूः वातः तत्सम्बन्धी मायोभवः । उत्सादित्वादञ् ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+चत्वारि माय भवाय विष्णुस्त्वाऽन्वे॑तु ।
+</details>

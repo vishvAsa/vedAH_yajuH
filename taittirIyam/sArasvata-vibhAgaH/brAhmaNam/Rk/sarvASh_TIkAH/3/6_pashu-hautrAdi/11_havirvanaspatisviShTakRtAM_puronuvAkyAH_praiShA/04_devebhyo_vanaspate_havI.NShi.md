@@ -88,3 +88,15 @@ Hotṛ, sacrifice.
 O tree, golden-leafed, your purpose has been from of old, the oblations to the gods.  
 Fastening [them] around with a cord to the right, convey them along the straightest paths of truth.
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+देवा  
+हिर॑ण्यपर्ण प्रदिवस्ते अर्थ॑म् ।  
+प्रदक्षिणिद् रशनया॒ नियू॑य ।  
+ऋ॒तस्य॒ वक्षि॒ पथि॒भिर् रजि॑ष्ठैः, इति ।  
+हे वनस्पते यूपात्मन्, अने हिरण्यपर्ण सुवर्णवर्णपत्रोपेत, सुवर्णसदृशज्वालोपेत वा, त्वं देवेभ्यो हवींषि वक्षि वहसि ।  
+कीदृशानि हवींषि?  
+ते ऽर्थं तव प्रयोजनभूतानि, दिवः प्रवराणि, यथापूर्वप्रवृत्तानीत्यर्थः ।  
+किं कृत्वा?
+</details>

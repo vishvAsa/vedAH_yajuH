@@ -22,3 +22,8 @@ Six: may Viṣṇu follow you for prosperity of wealth.
 
 रायस्पोषाय धनसमृद्ध्यै ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+षड्रायस्पोषा॑य॒ विष्णुस्त्वाऽन्वे॑तु ।
+</details>

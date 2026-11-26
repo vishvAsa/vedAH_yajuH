@@ -72,4 +72,10 @@ The vital breaths depart from them
 
 [व्याख्यानं तृतीये]
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पुनरपि त्रिः प्रदक्षिणावृत्तिम् अभिप्रेत्य मिलित्वा नवसंख्यां विधत्ते—  
+अप वा एतेभ्यः प्राणाः क्रामन्ति ( २ ) ।
+</details>
 </details>

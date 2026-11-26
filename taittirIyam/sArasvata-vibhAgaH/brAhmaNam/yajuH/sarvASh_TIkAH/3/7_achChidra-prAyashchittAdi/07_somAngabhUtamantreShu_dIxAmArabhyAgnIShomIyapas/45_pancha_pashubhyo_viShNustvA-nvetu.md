@@ -22,3 +22,8 @@ Five: may Viṣṇu follow you for domestic animals.
 
 पशुभ्यः द्विपाच्चतुष्पाल्लक्षणेभ्यः ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पञ्च॑ प॒शुभ्यो॒ विष्णुस्त्वाऽन्वे॑तु ।
+</details>

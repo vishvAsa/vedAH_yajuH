@@ -58,3 +58,11 @@ title = "90 प्रवेधसे कवये"
 To the creator, the wise, the one to be known, a respectful word to the bull, the virile,  
 from whence fear comes, let there be freedom from fear for us; I sacrifice away the slights of the gods.
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्र वेधसे कवये मेध्याय ।  
+वर्चो वन्दारु॑ वृषभाय वृष्णे ।  
+यतौ भयमभयं तन्नों अस्तु ।  
+अर्व देवान्य॑जे हेड्या॑ ।
+</details>

@@ -46,3 +46,8 @@ title = "130 प्रजा अग्ने"
 O Agni, unite the offspring and the quarters together with the cattle;  
 place in him the realms that were in the impulse of Savitṛ.
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रजा अस्मे संसय । आशांश्च पशुभिः सह । राष्ट्राण्य॑स्मा आधे॑हि । यान्यासन्सवितुः सवे ।
+</details>

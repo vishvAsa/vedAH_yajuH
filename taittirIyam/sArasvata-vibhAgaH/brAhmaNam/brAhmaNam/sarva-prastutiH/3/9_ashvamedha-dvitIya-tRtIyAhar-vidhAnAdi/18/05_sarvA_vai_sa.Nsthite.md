@@ -44,4 +44,9 @@ All speech indeed is reached when the sacrifice is completed.
 
 किंच - संस्थिते यज्ञे सर्वा वागाप्यते कृतप्रयोजना उपयुक्ता वर्तते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+सर्वा वै सरस्थिते यज्ञे वागप्यते ( १ ) ।
+</details>
 </details>
