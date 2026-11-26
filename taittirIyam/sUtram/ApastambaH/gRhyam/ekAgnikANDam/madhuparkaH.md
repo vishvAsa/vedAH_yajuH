@@ -165,7 +165,7 @@ ___________________
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/10_praNuvocha~nchikituShe_janAya.md">
-प्र᳓ [[णु|णु᳓]] **[[वो᳓चञ्|वोचञ्]]** चिकितु᳓षे+++(=जानते)+++ ज᳓नाय -  
+प्र᳓ णु᳓ **वोचञ्** चिकितु᳓षे+++(=जानते)+++ ज᳓नाय -  
 **मा᳓ गा᳓म्** अ᳓नागाम्+++(=अनागसं)+++ अ᳓दितिं **वधिष्ट** ।
 </div>
 
@@ -194,5 +194,5 @@ ___________________
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/15_tanma_UrjaMdhAH.md">
 त᳓न् म ऊ᳓र्जं धाः ।  
-ओं᳓ [[क᳓ल्पयत|कल्प᳓यत]] +++(परिचारकाः)+++ ॥ (10)
+ओं᳓ कल्प᳓यत +++(परिचारकाः)+++ ॥ (10)
 </div>

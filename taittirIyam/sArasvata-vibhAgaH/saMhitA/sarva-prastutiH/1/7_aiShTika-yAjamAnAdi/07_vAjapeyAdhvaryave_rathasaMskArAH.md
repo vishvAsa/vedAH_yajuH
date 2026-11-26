@@ -372,7 +372,7 @@ into whom this whole world has entered, upon her may the god Savitṛ impel our 
 
 तस्मादेव सर्वोषधात्तेनैव स्रुवेण जुहोतीति सूत्रार्थः॥
 
-व्याख्याता (अ० ९। क० ५)॥ ३०॥
+व्याख्याता (अ॰ ९। क॰ ५)॥ ३०॥
 </details>
 
 <details><summary>सायण-टीका (काण्वी)</summary>

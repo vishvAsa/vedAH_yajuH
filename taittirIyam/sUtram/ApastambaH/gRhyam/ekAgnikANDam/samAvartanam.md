@@ -190,7 +190,7 @@ ____________
 ## दन्तधावनम्  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/19_annAdyAya_vyUhaddhvam.md">
 +++(दन्ताः!)+++ अन्ना᳓द्याय व्यू᳙हध्वं+++(=पृथग्भवत)+++  
-[[दीर्घायु᳓र्|दीर्घा᳓युर्]] अह᳓म् अन्नादो᳓ भूयासम् ।  
+दीर्घा᳓युर् अह᳓म् अन्नादो᳓ भूयासम् ।  
 सो᳓मो रा᳓जाऽय᳓म् आ᳓गमत्,  
 स᳓ मे मु᳓खं प्र᳓वेक्ष्यति भ᳓गेन सह᳓ व᳓र्चसा ।+++(र५)+++
 </div>
@@ -207,7 +207,7 @@ ____________
 ##  चन्दनलेपः
 +++(देवताभ्यः चन्दनप्रदानम् - एताश्च अलङ्कारसमये पुरुषमुपसर्पन्ति)+++  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/21_namo_grahAya.md">
-न᳓मो [[ग्रहा᳓य|ग्र᳓हाय]] चाभिग्रहा᳓य च ।
+न᳓मो ग्र᳓हाय चाभिग्रहा᳓य च ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/22_namaH_shAkajaJjabhAbhyAm.md">
@@ -227,7 +227,7 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_07/24_apsarassu_yo.md">
 अप्सर᳓स्सु यो᳓ गन्धो᳓  
 गन्धर्वे᳓षु च य᳓द् य᳓शः ।  
-दै᳓वो यो᳓ [[मानुषो᳓|मा᳓नुषो]] गन्ध᳓स्  
+दै᳓वो यो᳓ मा᳓नुषो गन्ध᳓स्  
 स᳓ मा गन्ध᳓स् सुरभि᳓र् जुषताम् ।
 </div>
 
@@ -397,9 +397,9 @@ __________________
 
 ## आञ्जनमन्त्रः  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_08/11_yadAnjanan_traikakudam.md">
-+++(हे अक्षिणी-)+++ [[य᳓दा᳓ञ्जनं|यदा᳓ञ्जनं]] त्रैककुदं᳓+++(=त्रिककुत्पर्वतभवं)+++  
++++(हे अक्षिणी-)+++ यदा᳓ञ्जनं त्रैककुदं᳓+++(=त्रिककुत्पर्वतभवं)+++  
 जातँ᳓ हिम᳓वत उप᳓रि ।  
-ते᳓न वाम् **[[आञ्जे|आ᳓ञ्जे]]** ते᳓जसे  
+ते᳓न वाम् **आ᳓ञ्जे** ते᳓जसे  
 व᳓र्चसे भ᳓गाय च ॥ (8)
 </div>
 
@@ -445,7 +445,7 @@ __________________
 
 ## छत्रधारणमन्त्रः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_09/07_prajApateshsharaNamasi_brahmaNashChadirvishvajanasya.md">
-प्रजा᳓पतेश् [[श᳓रणम्|शरण᳓म्]] असि।  
+प्रजा᳓पतेश् शरण᳓म् असि।  
 ब्र᳓ह्मणश् छदि᳓र्, विश्व-जन᳓स्य छाया᳓ऽसि।  
 सर्व᳓तो मा पाहि ।
 </div>
