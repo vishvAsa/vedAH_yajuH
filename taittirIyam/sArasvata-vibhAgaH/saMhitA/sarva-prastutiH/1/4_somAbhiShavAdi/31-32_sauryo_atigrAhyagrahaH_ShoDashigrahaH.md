@@ -277,6 +277,29 @@ _________
 आ
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[142_5]** Ch दर्शितो
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O Sūrya (sun), you are moving one, seer of the world and maker of the light; you cause the world shine splendourly;
+</details>
+
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+हे सूर्य! तरणिस् तरणशीलः गत्वरस् तारयिता वा दुरितानां विश्वदर्शतः विश्वस्य साक्षाद्द्रष्टा । दासी भारादिर्द्रष्टव्यः ।  
+यद्वा - विश्वं दर्शतं द्रष्टव्यं यस्य । 'बहुव्रीहौ विश्वं सञ्ज्ञायाम्' इति विश्वशब्दस्य अन्तोदात्तत्वम् ।  
+ज्योतिष्कृज् ज्योतिषां ग्रहनक्षत्राणां कर्ता एवं महानुभावस्त्वम् असि ।  
+त्वं विश्वं रोचनं रोचनशीलम् आभासि त्वमेव वा आभासयस्य् आत्मज्योतिस्त्वमसीति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे सूर्य त्वं तरणिरन्धकारोत्तरणहेतुः, विश्वदर्शतो विश्वैः सर्वैः प्राणिभिर्दर्शनीयः ज्योतिष्कृत्सर्वस्मिल्ँ लोके प्रकाशकृच्चासि । विश्वं सर्वं जगद्रोचनं दीप्यमानं यथा भवति तथाऽऽभासि सर्वतः प्रकाशयसि ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -319,6 +342,22 @@ Swift-moving, visible to all, Maker of light thou art, O Sun, Illuming all the s
 Overcoming, seen of all,  
 Light-making art thou, Surya;  
 Thou dost illumine all the firmament.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swift, visible to all, maker of light art thou, O Sūrya;  
+thou shinest upon all the luminous realm.  
+###### Other recensions (1)  
+- [Maitrāyaṇīsaṃhitā (unaccented copy of M. Fushimi's input)](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani*unaccented.4.10.1) — Sanskrit  
+###### Linked texts (1)  
+- [Maitrāyaṇīsaṃhitā](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani.4.10.1) — Sanskrit
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Crossing over, visible to all, maker of light are you, O Sūrya;  
+you illumine the entire bright realm!
 </details>
 
 <details><summary>Geldner</summary>

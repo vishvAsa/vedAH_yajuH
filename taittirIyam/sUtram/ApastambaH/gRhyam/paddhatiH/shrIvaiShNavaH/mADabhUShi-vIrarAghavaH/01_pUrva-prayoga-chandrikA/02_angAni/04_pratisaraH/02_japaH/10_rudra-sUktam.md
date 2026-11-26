@@ -27,7 +27,7 @@ title = "१० रुद्र-सूक्तम्"
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/09_pari_No.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -48,7 +48,7 @@ title = "१० रुद्र-सूक्तम्"
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/50_pari_no.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/50_pari_no.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Griffith</summary>
@@ -62,6 +62,12 @@ May the missile of Rudra spare us,
 May the wrath of the brilliant evil worker (pass over us);  
 Unstring for the generous donors (thy) strong (bows);  
 O bounteous one, be merciful to our children and descendants.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the missile of Rudra bypass us, may the ill-will of the furious, malevolent one bypass [us].  
+Unstring your stiff [bows] away from our patrons; O bountiful one, be gracious to our children and offspring.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -82,6 +88,12 @@ O bounteous one, be merciful to our children and descendants.
 अव॑ स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृडय ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प᳓रि णो रुद्र᳓स्य हेति᳓र्वृ᳓णक्तु प᳓रि त्वेष᳓स्य दुर्मति᳓रघायोः᳓।  
+अ᳓व स्थिरा᳓ मघ᳓वद्भ्यस्तनुष्व मीढ्वस्तोका᳓य त᳓नयाय मूड
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 परि॑। नः॒। रु॒द्रस्य॑। हे॒तिः। वृ॒ण॒क्तु॒। परि॑। त्वे॒षस्य॑। दु॒र्म॒तिरिति॑ दुःऽम॒तिः। अ॒घा॒योः। अ॒घा॒योरित्य॑घ॒ऽयोः। अव॑। स्थि॒रा। म॒घव॑द्भ्य॒ इति॑ म॒घव॑त्ऽभ्यः। त॒नु॒ष्व॒। मीढ्वः॑। तो॒काय॑। तन॑याय। मृ॒ड॒। ५०।
@@ -95,6 +107,27 @@ O bounteous one, be merciful to our children and descendants.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 परीति॑ । नः॒ । रु॒द्रस्य॑ । हे॒तिः । वृ॒ण॒क्तु॒ । परीति॑ । त्वे॒षस्य॑ । दु॒र्म॒तिरिति॑ दुः-म॒तिः । अ॒घा॒योरित्य॑घ-योः ॥ अवेति॑ । स्थि॒रा । म॒घव॑द्भ्य॒ इति॑ म॒घव॑त्-भ्यः॒ । त॒नु॒ष्व॒ । मीढ्वः॑ । तो॒काय॑ । तन॑याय । मृ॒ड॒य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- णः (*MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- रुद्र᳓स्य (*MS*-10/168, *TS*-11/161, *RV*-17/99, *TB*-8/78, *TK*-0/2, *AV*-9/44, *SB-M*-6/110, *SB-K*-5/118, *VS-M*-3/53, *VS-K*-2/59)
+- हेतिः᳓ (*MS*-8/21, *TS*-9/24, *RV*-6/17, *TB*-3, *AV*-19/28, *SB-M*-10/29, *SB-K*-8/30, *VS-M*-7/18, *VS-K*-6/23)
+- वृ᳓णक्तु (मूल-पाठः)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- त्वेष᳓स्य (*MS*-2/7, *TS*-1/6, *RV*-2/41, *TB*-0/6, *TK*-0/1, *AV*-0/4, *SB-M*-0/6, *SB-K*-0/7, *VS-M*-1/7, *VS-K*-1/4)
+- दुः-मतिः᳓ (*MS*-1/4, *TS*-1/6, *RV*-7/25, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/4)
+- अघायोः᳓ (*MS*-1, *TS*-0/2, *SB-M*-0/1, *VS-M*-1/3, *VS-K*-1/3)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- स्थिरा᳓ (*MS*-2/5, *TS*-2/5, *RV*-11/39, *AV*-0/14, *SB-M*-8/22, *SB-K*-8/22, *VS-M*-3/6, *VS-K*-3/7)
+- मघ᳓वद्भ्यः (*MS*-1/16, *TS*-1/9, *RV*-22/186, *TB*-0/6, *AV*-1/25, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/9, *VS-K*-1/11)
+- तनुष्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-5, *AV*-2, *VS-M*-2, *VS-K*-1)
+- मीढ्वः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-7, *AV*-1)
+- तोका᳓य (*MS*-8/15, *TS*-4/7, *RV*-22/61, *TB*-7/10, *AV*-1/7, *SB-M*-0/2, *SB-K*-0/3, *VS-M*-1/6, *VS-K*-1/10)
+- त᳓नयाय (*MS*-7/12, *TS*-2/5, *RV*-18/67, *TB*-6/9, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/5)
+- मूड (मूल-पाठः)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -281,7 +314,7 @@ for अथ द्वादश:
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/033/11_stuhi_shrutaM.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -294,7 +327,7 @@ for अथ द्वादश:
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -663,7 +696,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/16/51_mIDhuShTama_shivatama.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -677,7 +710,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
 <details><summary>Griffith</summary>
 
 Most bounteous, most auspicious, be auspicious, well inclined to us. On some remotest tree lay down thy weapon, and clad in robe of skin approach, bearing thy bow come hitherward.
@@ -812,7 +845,7 @@ And approach us bearing the spear [4].
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/001/06_tvamagne_rudro.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -825,7 +858,7 @@ And approach us bearing the spear [4].
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1234,7 +1267,7 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 </details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1247,7 +1280,7 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -1329,6 +1362,12 @@ kr̥ṇudhvam ← √kr̥- (root)
 अ॒ग्निं पु॒रा त॑नयि॒त्नोर॒चित्ता॒द्धिर॑ण्यरूप॒मव॑से कृणुध्वम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ वो राजानमध्वर᳓स्य रुद्र᳓ हो᳓तारँ सत्यय᳓जं रो᳓दस्योः।  
+अग्निं᳓ पुरा᳓ तनयत्नो᳓रचि᳓त्राद्धि᳓रण्यरूपम᳓वसे कृणुध्वम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒ऽयज॑म् । रोद॑स्योः ।  
@@ -1338,6 +1377,26 @@ kr̥ṇudhvam ← √kr̥- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 एति॑ । वः॒ । राजा॑नम् । अ॒ध्व॒रस्य॑ । रु॒द्रम् । होता॑रम् । स॒त्य॒यज॒मिति॑ सत्य-यज॑म् । रोद॑स्योः ॥ अ॒ग्निम् । पु॒रा । त॒न॒यि॒त्नोः । अ॒चित्ता॑त् । हिर॑ण्यरूप॒मिति॒ हिर॑ण्य-रू॒प॒म् । अव॑से । कृ॒णु॒ध्व॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- राजानम् → **रा᳓जानम्** (स्वर-लोपः, *MS*-13/60, *TS*-14/48, *RV*-22/151, *TB*-14/63, *TK*-2, *AV*-6/78, *SB-M*-57/175, *SB-K*-34/139, *VS-M*-5/27, *VS-K*-5/29)
+- अध्वर᳓स्य (*MS*-4/44, *TS*-3/27, *RV*-19/196, *TB*-3/25, *TK*-0/2, *AV*-0/22, *SB-M*-22/71, *SB-K*-22/68, *VS-M*-1/29, *VS-K*-1/22)
+- रुद्र᳓ (*MS*-104, *TS*-2/4, *RV*-43, *TB*-44, *TK*-2, *AV*-28, *SB-M*-1/5, *SB-K*-86, *VS-M*-34, *VS-K*-39)
+- हो᳓तारम् (*MS*-13/112, *TS*-10/63, *RV*-62/244, *TB*-9/136, *TK*-1/8, *AV*-6/28, *SB-M*-18/211, *SB-K*-19/211, *VS-M*-6/73, *VS-K*-6/60)
+- सत्य-य᳓जम् (*MS*-1, *TS*-1, *RV*-2)
+- रो᳓दस्योः (*MS*-3/25, *TS*-3/18, *RV*-20/207, *TB*-0/6, *TK*-0/1, *AV*-0/28, *SB-M*-1/9, *SB-K*-1/9, *VS-M*-2/15, *VS-K*-2/16)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- पुरा᳓ (*MS*-43/86, *TS*-38/56, *RV*-63/126, *TB*-23/25, *TK*-1, *AV*-46/74, *SB-M*-136/169, *SB-K*-147/180, *VS-M*-11/24, *VS-K*-10/23)
+- तनय (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- त्नोः᳓ (*MW*, *Macdonell*)
+- अ-चि᳓त्रात् (मूल-पाठः)
+- हि᳓रण्य-रूपम् (*TS*-1, *RV*-3/4, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-0/1)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- कृणुध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-5, *RV*-23, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1466,6 +1525,13 @@ _________
 हे ऋत्विग्यजमानाः **अध्वरस्य** यज्ञस्य **राजानम्** अधिपतिं **होतारं** देवानामाह्वातारं **रुद्रं** रोरूयमाणं द्रवन्तं शत्रून् रोदयन्तं वा । यद्वा । एषा वा अग्नेस्तनूर्यद्रुद्रः' इति रुद्रात्मकं **रोदस्योः** द्यावापृथिव्योः **सत्ययजं** सत्यस्यान्नस्य दातारम् । यद्वा । सत्ययजं सत्येन हविषा देवान् यजन्तम् । यद्वा । रोदस्योर्व्याप्य वर्तमानम् 'हिरण्यरूपं सुवर्णप्रभम् एवंविधम् **अग्निं** **वः** युष्माकम् **अवसे** रक्षणाय **तनयित्नोः** । तनयित्नुरशनिः स ह्याकस्मिकः । तत्सदृशात् **अचित्तात्** । न विद्यते चित्तं यस्मिन् तदचित्तम् । चित्तोपलक्षितसवेंन्द्रियोपसंहारो मरणमिति यावत् । तस्मान्मरणात् **पुरा** प्रागेव **आ** **कृणुध्वम्** । यूयं समन्ताद्धविर्भिरग्निं भजध्वम् ॥ रुद्रम् । रोदयतेः ‘रोदेर्णिलुक्च' ( उ. सू. २. १७९ ) इति रक्प्रत्ययः । तनयित्नोः । तनिः शब्दार्थः । चुरादिरदन्तः । ‘स्तनिशुधिपुषिगमिमनिभ्यो मेरित्नुच् ' ( उ. सू.३. ३०९ ) इति इत्नुच्प्रत्ययः । चित्स्वरेणान्तोदात्तः । सुपा सहैकादेशे एकादेशस्वरः । कृणुध्वम् । **कृवि** हिंसाकरणयोः '। लोटि रूपम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[81_7]** Dies Kap. collat. mit St. fol. 84, T4 und T 3, Brl fol. 66, W14; nach diesen Mss. accentuirt. (This chapter collated with St fol. 84, T4 and T 3, Brl fol. 66, W14; accented after these mss.)
+
+- **[81_8]** Brl म᳓वस्य
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1510,6 +1576,13 @@ Rudra, king of the sacrifice,
 True offerer, priest of both worlds,  
 Agni before the dreadful thunder,  
 Of golden colour, win ye for help.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring for yourselves the king of the sacrifice, the Rudra, the Hotṛ, the true sacrificer of the two worlds,  
+Agni, of golden form, for help, before the thunder [and] unawares.  
+What, growing in the hearths, O Agni,
 </details>
 
 <details><summary>Oldenberg</summary>

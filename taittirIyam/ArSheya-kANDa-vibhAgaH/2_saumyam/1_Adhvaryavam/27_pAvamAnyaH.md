@@ -26,19 +26,76 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 पव॑मान॒स् सुव॒र्जनः॑ ।  
 प॒वित्रे॑ण॒ विच॑र्षणिः ।  
-यᳶ पोता॒ स पु॑नातु मा ।  
+यᳶ पोता॒ स पु॑नातु मा ।
+</details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
 
+प᳓वमानः स्व᳙र् ज᳓नः पवि᳓त्रेण वि᳓चर्षणिः  
+यः᳓ पो᳓ता स᳓ पुनातु मा
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प᳓वमानस्स्व᳙र्ज᳓नः पवि᳓त्रेण वि᳓चर्षणिः।  
+यः᳓ पोता᳓ स᳓ पुनातु मा
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प᳓वमानः (*TS*-3/19, *RV*-65/109, *TB*-4/18, *TK*-0/1, *AV*-15/16, *SB-M*-12/37, *SB-K*-11/35, *VS-M*-4/5, *VS-K*-4/5, *KS*-2/3)
+- स्वः᳙ (*TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-41, *KS*-16)
+- ज᳓नः (*TS*-3/35, *RV*-31/298, *TB*-1/27, *AV*-9/92, *SB-M*-4/26, *SB-K*-4/26, *VS-M*-5/27, *VS-K*-3/25, *KS*-2/19)
+- पवि᳓त्रेण (*TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-13/24, *VS-K*-13/19, *KS*-7/13)
+- वि᳓-चर्षणिः (*TS*-1, *RV*-19/22, *AV*-2/4, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-2)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- पो᳓ता (*RV*-4, *TB*-2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-1, *TB*-2, *AV*-5, *SB-M*-11, *SB-K*-8, *VS-M*-10, *VS-K*-10, *KS*-5)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60, *KS*-67)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प᳓वमानः (*MS*-8/25, *TS*-3/19, *RV*-65/109, *TB*-4/18, *TK*-0/1, *AV*-15/16, *SB-M*-12/37, *SB-K*-11/35, *VS-M*-4/5, *VS-K*-4/5)
+- स्वः᳙ (*MS*-88, *TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-44)
+- ज᳓नः (*MS*-11/62, *TS*-3/35, *RV*-31/298, *TB*-1/27, *AV*-9/92, *SB-M*-4/26, *SB-K*-4/26, *VS-M*-5/27, *VS-K*-3/27)
+- पवि᳓त्रेण (*MS*-20/45, *TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-15/26, *VS-K*-16/22)
+- वि᳓-चर्षणिः (*MS*-1/2, *TS*-1, *RV*-19/22, *AV*-2/4, *SB-M*-1, *VS-M*-2, *VS-K*-2)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- पोता᳓ (*RV*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-19, *TS*-10, *RV*-1, *TB*-2, *AV*-5, *SB-M*-11, *SB-K*-8, *VS-M*-10, *VS-K*-10)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 1 प्रथमा - पवमान इति गायत्री ॥ **पवमानः** शोधनकुशलः **सुवर्जनः** स्वर्गवास्येव यो जनः - समस्तमेव स्वरिति स्वर्गवासी जन उच्यते । [स्वर्गवासिनमभिघत्ते] 'मञ्चाः क्रोशन्ति'इतिवत् ।   
 **विचर्षणिः** विशिष्टज्ञानः सर्वस्य सुकृत-दुष्कृत-प्रत्यवेक्षण-कुशलः **यः** सर्वस्य साधु **पोता** पविता पवित्रेण पावनेन दर्शनानुध्यानादिना **पुनातु** शोधयतु ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[568_3]** So T7 und Brl; in Ch पवित्रे विचर्षणि (Thus T7 and Brl; in Ch पवित्रे विचर्षणि)
+
+- **[568_4]** So Brl; in T7 सः, ohne Accent. (Thus Brl; in T7 सः, without accent.)
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purifying one, heavenly folk, far-looking with the strainer,  
+who is the purifier, let him purify me!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Being purified, winning the sun, all-seeing with the strainer,  
+he who is the purifier, may he purify me!
 </details>
 </div>
 
@@ -423,6 +480,18 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 Dear to all Gods hath come the cleansing Goddess, she who contains these many smooth-backed figures. Through her may we in sacrificial banquets taking our pleasure be the lords of riches.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purifying goddess belonging to all the gods has come, whose many bodies are smoothed-backed;  
+rejoicing with her in the common feasts, may we be masters of wealth!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The purifying goddess of all the gods has come, whose backs are smoothed;  
+rejoicing with her in joint revels, may we be masters of riches!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 वै॒श्व॒दे॒वी पु॑न॒ती दे॒व्यागा॒द् यस्या॑मि॒मा ब॒ह्व्य᳖स्त॒न्वो᳖ वी॒तपृ॑ष्ठाः।  
@@ -437,6 +506,18 @@ Dear to all Gods hath come the cleansing Goddess, she who contains these many sm
 व॒यँ स्या॑म॒ पत॑यो रयी॒णाम् ॥47॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वैश्वदेवी᳓ पुनती᳓ देव्य् आ᳓गाद् य᳓स्या बह्व्य᳙स् तन्वो᳙ वीत᳓पृष्ठाः  
+त᳓या म᳓दन्तः सधमा᳓द्येषु वयँ᳓ स्याम प᳓तयो रयीणा᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वैश्वदेवी᳓ पुनती᳓ देव्या᳓गाद्य᳓स्य इमा᳓स्तन्वो᳙ वीत᳓पृष्ठाः।  
+त᳓या म᳓दन्तस्सधमाद्येषु वयँ᳓ स्याम प᳓तयो रयीणा᳓म्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 वै॒श्व॒दे॒वीति॑ वैश्वऽदे॒वी। पु॒न॒ती। दे॒वी। आ। अ॒गा॒त्। यस्या॑म्। इ॒माः। ब॒ह्व्यः᳖। त॒न्वः᳖। वी॒तपृ॑ष्ठा॒ इति॑ वी॒तऽपृ॑ष्ठाः। तया॑। मद॑न्तः। स॒ध॒मादे॒ष्विति॑ सध॒ऽमादे॑षु। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ४४।
@@ -445,6 +526,44 @@ Dear to all Gods hath come the cleansing Goddess, she who contains these many sm
 <details><summary>पदपाठः - काण्वः</summary>
 
 वै॒श्व॒दे॒वीति॑ वैश्वऽदे॒वी। पु॒न॒ती। दे॒वी। आ। अ॒गा॒त्। यस्या॑म्। इ॒माः। ब॒ह्व्यः᳖। त॒न्वः᳖। वी॒तपृ॑ष्ठा॒ इति॑ वी॒तऽपृ॑ष्ठाः। तया॑। मद॑न्तः। स॒ध॒मादे॒ष्विति॑ सध॒ऽमादे॑षु। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। १५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वैश्व-देवी᳓ (*TS*-1/7, *TB*-4, *AV*-2/4, *SB-M*-2/11, *SB-K*-2/10, *VS-M*-1, *VS-K*-1, *KS*-3)
+- पुनती᳓ (*RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- देवि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-11, *RV*-21, *TB*-7, *AV*-22, *SB-M*-5, *SB-K*-6, *VS-M*-5, *VS-K*-5, *KS*-14)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अगात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-14, *RV*-36, *TB*-7, *TK*-7, *AV*-16, *SB-M*-21, *SB-K*-22, *VS-M*-11, *VS-K*-14, *KS*-10)
+- य᳓स्याः (*TS*-4/3383, *RV*-8/4011, *TB*-1/1735, *TK*-0/227, *AV*-17/3120, *SB-M*-8/8327, *SB-K*-20/8438, *VS-M*-1/639, *VS-K*-2/581, *KS*-2/818)
+- बह्व्यः᳙ (*SB-M*-2, *SB-K*-5, *VS-M*-1, *VS-K*-1)
+- तन्वः᳙ (*RV*-44, *AV*-25, *SB-M*-18, *SB-K*-18, *VS-M*-14, *VS-K*-11, *KS*-18)
+- वीत᳓-पृष्ठाः (*TS*-0/1, *RV*-3/4, *AV*-1, *VS-M*-1/2, *VS-K*-1/2, *KS*-1)
+- त᳓या (*TS*-59/4763, *RV*-10/3136, *TB*-23/2709, *TK*-37/363, *AV*-29/3165, *SB-M*-84/20457, *SB-K*-95/20018, *VS-M*-23/768, *VS-K*-20/624, *KS*-24/1225)
+- म᳓दन्तः (*TS*-2/3, *RV*-10/32, *TB*-1, *AV*-7/18, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3, *VS-K*-3, *KS*-1/2)
+- सध-मा᳓द्येषु (*RV*-0/6)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/314, *VS-K*-52/265, *KS*-46/242)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-16, *KS*-20)
+- प᳓तयः (*TS*-8/45, *RV*-15/200, *TB*-2/21, *TK*-4/6, *AV*-14/137, *SB-M*-4/64, *SB-K*-2/61, *VS-M*-6/44, *VS-K*-7/55, *KS*-6/26)
+- रयीणा᳓म् (*TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/35, *VS-K*-7/32, *KS*-6/27)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वैश्व-देवी᳓ (*MS*-10/21, *TS*-1/7, *TB*-4, *AV*-2/4, *SB-M*-2/11, *SB-K*-2/10, *VS-M*-1, *VS-K*-1)
+- पुनती᳓ (*MS*-1, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- देव्या᳓ (*MS*-4/5, *TS*-3, *RV*-5/10, *AV*-2/5, *SB-M*-2/6, *SB-K*-2/5, *VS-M*-3, *VS-K*-1)
+- गाद्य᳓स्यः (मूल-पाठः)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- तन्वः᳙ (*MS*-34, *RV*-44, *AV*-25, *SB-M*-18, *SB-K*-18, *VS-M*-14, *VS-K*-11)
+- वीत᳓-पृष्ठाः (*MS*-1/2, *TS*-0/1, *RV*-3/4, *AV*-1, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓या (*MS*-80/5550, *TS*-59/4761, *RV*-10/3136, *TB*-23/2709, *TK*-37/363, *AV*-29/3165, *SB-M*-84/20457, *SB-K*-95/20018, *VS-M*-23/780, *VS-K*-20/660)
+- म᳓दन्तः (*MS*-4/7, *TS*-2/3, *RV*-10/32, *TB*-1, *AV*-7/18, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3, *VS-K*-3)
+- सध-माद्येषु → **सध-मा᳓द्येषु** (स्वर-लोपः, समानान्तर-पाठः (MS), *MS*-1, *RV*-0/6)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- प᳓तयः (*MS*-6/47, *TS*-8/45, *RV*-15/200, *TB*-2/21, *TK*-4/6, *AV*-14/137, *SB-M*-4/64, *SB-K*-2/61, *VS-M*-6/45, *VS-K*-8/61)
+- रयीणा᳓म् (*MS*-13/71, *TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/36, *VS-K*-7/37)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -576,6 +695,11 @@ Dear to all Gods hath come the cleansing Goddess, she who contains these many sm
 तेषु तेषु स्थानेषु मोदमाना **वयं रयीणां** धनानां **पतयः** स्वामिनः **स्याम** ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[568_5]** So corr. Ch मदन्तस्सदमाद्येषु; T7 म᳓दन्ता सदमा᳓द्येषु ; Brl fol. 91 म᳓दन्त सदमा᳓द्येषु (Thus emended; Ch मदन्तस्सदमाद्येषु; T7 म᳓दन्ता सदमा᳓द्येषु; Brl fol. 91 म᳓दन्त सदमा᳓द्येषु)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा देवताः
@@ -667,19 +791,42 @@ Dear to all Gods hath come the cleansing Goddess, she who contains these many sm
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑ ।   
 वर्षि॑ष्ठैर् देव॒ मन्म॑भिः ।  
-अग्ने॒ दक्षै॑ᳶ पुनाहि मा ।  
+अग्ने॒ दक्षै॑ᳶ पुनाहि मा ।
+</details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
 
+बृह᳓द्भिः सवितस् त्रि᳓भिर् व᳓र्षिष्ठैर् देव म᳓न्मभिः  
+अ᳓ग्ने द᳓क्षैः पुनीमहे
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- बृह᳓द्भिः (*TS*-1/69, *RV*-4/156, *TB*-1/33, *AV*-0/43, *SB-M*-2/36, *SB-K*-2/35, *VS-M*-1/28, *VS-K*-1/32, *KS*-2/15)
+- सवितः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-19, *RV*-23, *TB*-5, *AV*-11, *SB-M*-9, *SB-K*-11, *VS-M*-17, *VS-K*-15, *KS*-3)
+- त्रि᳓भिः (*TS*-0/190, *RV*-1/153, *TB*-0/88, *TK*-0/8, *AV*-0/59, *SB-M*-1/382, *SB-K*-0/334, *VS-M*-0/19, *VS-K*-0/20, *KS*-0/27)
+- व᳓र्षिष्ठैः (*TS*-0/11, *RV*-1/18, *TB*-0/7, *AV*-0/3, *SB-M*-0/23, *SB-K*-0/25, *VS-M*-0/7, *VS-K*-0/3, *KS*-0/8)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- म᳓न्मभिः (*TS*-1, *RV*-14, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- द᳓क्षैः (*TS*-1/13, *RV*-6/92, *TB*-1/5, *TK*-0/2, *AV*-0/11, *SB-M*-2/10, *SB-K*-2/13, *VS-M*-1/12, *VS-K*-1/13, *KS*-0/4)
+- पुनीमहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
 8 अथाष्टमी - बृहद्भिरिति गायत्री ॥ हे **सवितः**! **बृहद्भिः** महद्भिः **तृभिः** त्रिषु लोकेषु त्रिधा स्थितैः - छान्दसं प्रसारणम् । यद्वा - सर्वस्य प्रीणनैः - तृप्यतेः करणे क्विप्, छान्दसोऽन्त्यलोपः आद्युदात्तत्वं च । त्रिशब्दपक्षेऽपि उपोत्तमत्वाभावत् 'झल्युपोत्तमम्'इति न सिद्ध्यति ।  
 **वर्षिष्ठैः** प्रवृद्ध-धर्मैः हे **देव**! देवनादिगुणयुक्त! **अग्ने**! **मन्मभिः** मननीयैः **दक्षैः** शीघ्रैः **मां पुनाहि** शोधय ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the three great, highest thoughts, O god Savitar,  
+O Agni, with skills we purify ourselves.
 </details>
 </div>
 

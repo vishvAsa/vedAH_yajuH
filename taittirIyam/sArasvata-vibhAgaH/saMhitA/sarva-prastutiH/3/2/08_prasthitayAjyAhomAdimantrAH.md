@@ -447,7 +447,6 @@ Trouble us not for this sin.
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
-
 याव॑न्तो॒ वै स॑द॒स्या॑स्ते॒ सर्वे॑ दक्षि॒ण्या॑स्तेभ्यो॒ यो दक्षि॑णा॒न्न [31]  नये॒दैभ्यो॑ वृश्च्येत॒ यद्वै॑श्वकर्म॒णानि॑ जु॒होति॑ सद॒स्या॑ने॒व तत्प्री॑णाति ।
 </details>
 
@@ -668,14 +667,15 @@ Hath given to Indra the milk admixture together with the pot (of Soma).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/08_prasthitayAjyAhomAdimantrAH/20_AshIrma_Urjamuta.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 आशी᳓र्म ऊ᳓र्जमुत᳓ सुप्रजास्त्व᳓मि᳓षन्दधातु द्र᳓विणँ स᳓वर्चसम् ।  
 सञ्ज᳓यन्क्षे᳓त्राणि स᳓हसाह᳓मिन्द्र कृण्वानो᳓ अन्याँ᳓ अ᳓धरान्त्सप᳓त्नान् ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/2/08_prasthitayAjyAhomAdimantrAH/20_AshIrma_Urjamuta.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 May the milk admixture place in me strength and good offspring  
@@ -684,10 +684,22 @@ And food, wealth and fair fame,
 And casting down my rivals.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the blessing bestow upon me vigor and good offspring, nourishment and wealth full of brilliance,  
+winning the fields with overpowering might, O Indra, making the other rivals low!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ॒शीर्म॒ ऊर्ज॑मु॒त सु॑प्रजा॒स्त्वमिष॑न्दधातु॒ द्रवि॑णँ॒ सव॑र्चसम् ।  
 स॒ञ्जय॒न्क्षेत्रा॑णि॒ सह॑सा॒हमि॑न्द्र कृण्वा॒नो अ॒न्याँ अध॑रान्त्स॒पत्ना॑न् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आशीर्म ऊर्जमुत सुप्रजास्त्वमिधं दधातु द्रविणँ सवर्चसम्।  
+सञ्जयन्क्षेत्राणि सहसाहमिन्द्र कुर्वाणो अन्याँ अधरान्सपत्नान्
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -695,13 +707,34 @@ And casting down my rivals.
 आ॒शीरित्या॑-शीः । मे॒ । ऊर्ज॑म् । उ॒त । सु॒प्र॒जा॒स्त्वमिति॑ सुप्रजाः-त्वम् । इष॑म् । द॒धा॒तु॒ । द्रवि॑णम् । सव॑र्चस॒मिति॒ स-व॒र्च॒स॒म्॒ ॥ स॒ञ्जय॒न्निति॑ सं-जय॑न् । क्षेत्रा॑णि । सह॑सा । अ॒हम् । इ॒न्द्र॒ । कृ॒ण्वा॒नः । अ॒न्यान् । अध॑रान् । स॒पत्नान्॑ ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ-शीः᳓ (*MS*-16, *TS*-16/18, *RV*-1/4, *TB*-1, *AV*-3/5, *SB-M*-24, *SB-K*-19)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- ऊ᳓र्जम् (*MS*-66/144, *TS*-73/123, *RV*-36/58, *TB*-41/60, *TK*-2/3, *AV*-29/41, *SB-M*-37/121, *SB-K*-41/124, *VS-M*-21/51, *VS-K*-39/69)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- सुप्रजास्त्व᳓म् (*MS*-2, *TS*-2/7, *RV*-1, *TB*-1, *SB-M*-2/3, *SB-K*-1, *VS-K*-0/1)
+- इ᳓धम् (*MS*-0/88, *TS*-0/1, *RV*-0/809, *TB*-0/31, *TK*-0/5, *AV*-0/245, *SB-M*-0/87, *SB-K*-0/94, *VS-M*-0/61, *VS-K*-0/55)
+- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-22, *RV*-13, *TB*-5, *TK*-2, *AV*-49, *SB-M*-24, *SB-K*-28, *VS-M*-13, *VS-K*-10)
+- द्र᳓विणम् (*MS*-32/43, *TS*-28/37, *RV*-41/42, *TB*-5/8, *AV*-17/22, *SB-M*-16/17, *SB-K*-14/15, *VS-M*-20/21, *VS-K*-18/19)
+- स᳓वर्चसम् (*MS*-1, *TS*-1)
+- सं-ज᳓यन् (*MS*-1, *TS*-1, *TB*-1)
+- क्षे᳓त्राणि (*MS*-3/26, *TS*-4/14, *RV*-1/19, *TB*-1/3, *AV*-2/16, *VS-M*-0/1, *VS-K*-0/1)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- अह᳓म् (*MW*, *MS*-160/641, *TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- कुर्वाणः᳓ (*MW*, *TB*-1/2, *AV*-0/1, *MS*-0/3)
+- अन्या᳓म् (*MS*-14/208, *TS*-16/165, *RV*-4/176, *TB*-5/92, *TK*-0/2, *AV*-2/108, *SB-M*-10/332, *SB-K*-14/340, *VS-M*-1/32, *VS-K*-1/34)
+- अ᳓धरान् (*MS*-2/12, *TS*-5/10, *RV*-1/11, *TB*-1/7, *AV*-10/26, *SB-M*-0/12, *SB-K*-1/10, *VS-M*-1/4, *VS-K*-1/3)
+- सप᳓त्नान् (*MS*-12/27, *TS*-11/15, *RV*-1/4, *TB*-6/13, *TK*-1, *AV*-47/67, *SB-M*-43/73, *SB-K*-37/74, *VS-M*-5/7, *VS-K*-5/8)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 आशीरियमवनीयमाना मे ममोर्जं क्षीरादि उत अपि च सुप्रजास्त्वं शोभनापत्यत्वम् । 'नित्यमसिच्प्रजामेधयोः' इत्यस्च्, छान्दसं दीर्घत्वम् । इषमन्नं ददातु द्रविणं धनं च ददातु सुवर्चसं बलसहितं दीप्तिसहितं वा । लिङ्गव्यत्ययश्छान्दसः । इषो वा विशेषणम् - यथाऽहं संजयन् सहसा बलेन क्षेत्राणि शत्रुसंबन्धीन्यन्यान् सपत्नान् शत्रूनधरान् अधरीभूतान् आज्ञाविधेयान् कृण्वानः कुर्वाणः स्यां तथा मे ऊर्जादि ददात्विति । पदकारमते आशीरिति प्रार्थनापदम् । इयं ... प्रार्थना दद्याशिर [मह्यमाशिर] ऊर्जादि ददात्विति ॥
 </details>
 </details>
-
-<details><summary>सर्वा अवतारिकाः</summary>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

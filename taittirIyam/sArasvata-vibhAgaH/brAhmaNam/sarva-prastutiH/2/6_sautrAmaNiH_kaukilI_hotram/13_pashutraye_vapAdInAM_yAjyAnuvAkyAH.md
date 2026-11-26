@@ -27,6 +27,12 @@ unicode_script: devanagari
 The Asvins and Sarasvatî by wit from fiendish Namuchi Brought unto Indra sacred food, strength, brilliant treasure, ample wealth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two Aśvins and Sarasvatī with wisdom brought the oblation, faculty,  
+the bright wealth, the bounty from the Asura Namuci for Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विना॑ ह॒विरि॑न्द्रि॒यं नमु॑चेर्धि॒या सर॑स्वती।  
@@ -180,6 +186,13 @@ The Asvins and Sarasvatî by wit from fiendish Namuchi Brought unto Indra sacred
 यावेतावश्विनौ, या च सरस्वती ते त्रयो मिलित्वा धिया स्वबुद्ध्या इन्द्रार्थं नमुचिनाम्नोऽसुरात् हविराजभ्रिरे आहृतवन्तः । कीदृशं हविः? इन्द्रियं इन्द्रियवधर्कं शुक्रं निर्मलं वसु निवासकारणं मघं महनीयम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_6]** So corr. Ch मास्वराद्वसु; cf. MS 3, 11, 4 und VS 26, 67 = Corr. (Thus emended; Ch मास्वराद्वसु; cf. MS 3, 11, 4 and VS 26, 67 agrees with the emendation)
+
+- **[575_7]** Auch VS 20, 67 मघ᳓° ; dagegen MS 3, 11, 4 मद्य᳓° (Also VS 20, 67 मघ᳓°; on the other hand MS 3, 11, 4 मद्य᳓°)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -246,6 +259,12 @@ The Asvins and Sarasvatî by wit from fiendish Namuchi Brought unto Indra sacred
 That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala through to win him wealth, with Namuchi of Asura birth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whom the two Aśvins and Sarasvatī strengthened with the oblation, Indra,  
+he split the power, the bounty, together with the Asura Namuci.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यम॒श्विना॒ सर॑स्वती ह॒विषेन्द्र॒मव॑र्द्धयन्।  
@@ -266,6 +285,12 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 नमु॑चावासु॒रे सचा॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यमश्विना सरस्वती हविषेन्द्रमवर्धयन्।  
+स बिभेद बलं मघं नमुचा आसुरे सचा
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 यम्। अ॒श्विना॑। सर॑स्वती। ह॒विषा॑। इन्द्र॑म्। अव॑र्द्धयन्। सः। बि॒भे॒द॒। ब॒लम्। म॒घम्। नमु॑चौ। आ॒सु॒रे। सचा॑। ६८।
@@ -279,6 +304,23 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 य᳓म् । अश्वि᳓ना । स᳓रस्वती । हवि᳓षा । इ᳓न्द्रम् । अ᳓वर्धयन् । सः᳓ । बिभेद । वल᳓म् । मघ᳓म् । न᳓मुचौ । आसुरे᳓ । स᳓चा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓वर्धयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-2, *TS*-1, *RV*-4, *TB*-1, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- बिभेद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-2, *TB*-2, *AV*-3, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- ब᳓लम् (*MS*-22/32, *TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21)
+- मघ᳓म् (*MS*-0/1, *TS*-0/2, *RV*-8/35, *TB*-2/6, *AV*-1/5, *SB-M*-1, *SB-K*-1/2, *VS-M*-2, *VS-K*-2)
+- न᳓मुचाः (*MS*-2, *RV*-0/1, *TB*-0/2, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/5, *VS-K*-0/13)
+- आसुरे᳓ (*MS*-2/8, *TS*-0/4, *RV*-1/5, *TB*-2/4, *AV*-1, *SB-M*-1/6, *SB-K*-1/4, *VS-M*-5/7, *VS-K*-6/9)
+- स᳓चा (*Whitney*, *MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -382,6 +424,13 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 अश्विनावुभौ सरस्वती चेत्येते त्रयो हविषा यमिन्द्रमवर्धयन् सोऽयमिन्द्रः नमुचिनाम्नि आसुरे सचा संबद्धं मघं महनीयं वलं बलनामानमसुरं बिभेद विदारितवान् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_8]** So Ch; auch MS 3, 11, 4 nach allen Mss. बलं᳓ ; dagegen VS 20, 68 वलं᳓ (Thus Ch; MS 3, 11, 4 also according to all mss. reads बलं᳓; on the other hand VS 20, 68 reads वलं᳓)
+
+- **[575_9]** Ch मघन्न°; VS 20, 68 मघं᳓; dagegen MS 3, 11, 4 मद्यं᳓ (Ch मघन्न°; VS 20, 68 मघं᳓; on the other hand MS 3, 11, 4 मद्यं᳓)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -483,6 +532,12 @@ That Indra, strong through sacrifice by Asvins and Sarasvatî, Cleft Vala throug
 <details><summary>Griffith</summary>
 
 Indra whom Bhaga, Savitar, and Varuna supplied with power, Lord of the sacrifice, may he, Good Guardian, love the worshipper.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ, Varuṇa, and Bhaga, who placed faculty in Indra,  
+and Sutrāman, lord of the oblation, attended the sacrificer.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -653,6 +708,12 @@ Indra whom Bhaga, Savitar, and Varuna supplied with power, Lord of the sacrifice
 Savitar, Varuna bestow gifts on the liberal offerer, Strength, power and treasure which the Good Protector took from Namuchi!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Savitṛ and Varuṇa, bestowing upon the generous sacrificer,  
+Sutrāman, took the wealth, the power, and the faculty from Namuci.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒वि॒ता वरु॑णो॒ दध॒द् यज॑मानाय दा॒शुषे॑।  
@@ -817,6 +878,12 @@ Savitar, Varuna bestow gifts on the liberal offerer, Strength, power and treasur
 Varuna giving sway and power, Savitar grace with happiness, The Good Protector giving strength with fame, obtained the sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Varuṇa [bestowing] dominion and faculty, Savitṛ with Bhaga [bestowing] fortune,  
+Sutrāman with fame [bestowing] power, they attained the sacrifice.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 व॑रुणः क्ष॒त्रमि॑न्द्रि॒यं भगे॑न सवि॒ता श्रिय॑म्।  
@@ -837,6 +904,12 @@ Varuna giving sway and power, Savitar grace with happiness, The Good Protector g
 दधा॑ना य॒ज्ञमा॑शत ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वरुणः क्षत्रमिन्द्रियं भगेन सविता श्रियम।  
+सुत्रामा यशसा बलं दधाना यज्ञमाशत
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 वरु॑णः। क्ष॒त्रम्। इ॒न्द्रि॒यम्। भगे॑न। स॒वि॒ता। श्रिय॑म्। सु॒त्रामेति॑ सु॒ऽत्रामा॑। यश॑सा। बल॑म्। दधा॑नाः। य॒ज्ञम्। आ॒श॒त॒। ७२।
@@ -850,6 +923,23 @@ Varuna giving sway and power, Savitar grace with happiness, The Good Protector g
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 व᳓रुणः । क्षत्र᳓म् । इन्द्रिय᳓म् । भ᳓गेन । सविता᳓ । श्रि᳓यम् । सु-त्रा᳓मा । य᳓शसा । ब᳓लम् । द᳓धाना । यज्ञ᳓म् । आशत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- भ᳓गेन (*MS*-2/33, *TS*-0/13, *RV*-0/115, *TB*-1/23, *TK*-0/1, *AV*-7/65, *SB-M*-0/23, *SB-K*-0/17, *VS-M*-1/26, *VS-K*-1/26)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- श्रि᳓ (*MS*-0/9, *TS*-0/9, *RV*-0/2, *TB*-0/19, *TK*-0/2, *AV*-0/2, *SB-M*-1/71, *SB-K*-1/66, *VS-M*-0/5, *VS-K*-1/6)
+- यम᳓ (*Whitney*, *MS*-22, *TS*-4, *RV*-21, *TB*-1, *AV*-1, *SB-M*-17, *SB-K*-1, *VS-M*-5, *VS-K*-3)
+- सु-त्रा᳓मा (*MS*-10/17, *TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20)
+- य᳓शसा (*MS*-6/24, *TS*-2/14, *RV*-0/24, *TB*-2/36, *TK*-3/9, *AV*-15/49, *SB-M*-18/104, *SB-K*-19/106, *VS-M*-2/14, *VS-K*-2/15)
+- ब᳓लम् (*MS*-22/32, *TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21)
+- द᳓धाना (*MS*-8/18, *TS*-2/7, *RV*-9/77, *TB*-4/8, *AV*-12/18, *SB-M*-1, *SB-K*-1, *VS-M*-1/8, *VS-K*-1/8)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- आशत (समानान्तर-पाठः (VS-K), *MS*-1, *RV*-22, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -982,6 +1072,12 @@ Varuna giving sway and power, Savitar grace with happiness, The Good Protector g
 With cows the Asvins, mighty power, with horses manly vigour, strength, With sacred food Sarasvatî, made Indra, Sacrificer, strong.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two Aśvins with cattle [bestowed] faculty, with horses virility and power;  
+Sarasvatī and the sacrificer strengthened Indra with the oblation.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विना॒ गोभि॑रिन्द्रि॒यमश्वे॑भिर्वी॒र्यं᳙ बल॑म्।  
@@ -1083,6 +1179,11 @@ With cows the Asvins, mighty power, with horses manly vigour, strength, With sac
 अश्विनोभौ सरस्वती च इत्येते त्रयो देवाः. गोभिरिन्द्रियं संपाद्य अश्वेभिर्वीर्यं बलं च संपाद्य अत्रत्येन हविषा इन्द्रं यजमानं च अवर्धयन् । हविर्भोक्तृत्वमिन्द्रस्य वृद्धिः । हविर्द्रातृत्वं यजमानस्य वृद्धिः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_10]** So corr. Ch वर्धयम; cf. aber MS 3, 11, 4 und VS 20, 73 = Corr. (Thus emended; Ch वर्धयम; cf. but MS 3, 11, 4 and VS 20, 73 agrees with the emendation)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -1147,6 +1248,12 @@ With cows the Asvins, mighty power, with horses manly vigour, strength, With sac
 <details><summary>Griffith</summary>
 
 May those Nâsatyas, fair of form, the Men who ride on paths of gold, Oblation-rich Sarasvatî, thou, Indra! help us in our rites.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two Nāsatyas, well-formed, traveling on golden paths, the two men,  
+and Sarasvatī, rich in oblations: protect us, Indra, in our rites!
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1292,6 +1399,11 @@ May those Nâsatyas, fair of form, the Men who ride on paths of gold, Oblation-r
 ता नासत्या तावश्विनौ सुपेशसा सुरूपौ हिरण्यवर्तनी आभरणैस्सह वर्तमानौ नरा जगद्व्यवहारस्य नेतारौ । सरस्वती चात्र हविष्मती हविर्युक्ता । हे इन्द्र! त्वं च सरस्वती च अश्विनौ च इत्येते यूयं अनुष्ठीयमानेष्वेतेषु कर्मसु नोऽस्मान् अवत रक्षत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_1]** So VS 20, 74 ती᳓न्द्र; dagegen MS 3, 11, 4 ती᳓न्द्रं (Thus VS 20, 74 ती᳓न्द्र; on the other hand MS 3, 11, 4 ती᳓न्द्रं)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -1356,6 +1468,18 @@ May those Nâsatyas, fair of form, the Men who ride on paths of gold, Oblation-r
 <details><summary>Griffith</summary>
 
 Those Leeches righteous in their deeds, She, rich in milk, Sarasvatî, That Vritra-Mayer hundred-powered, invested Indra with his might.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two healers of good deeds, she, Sarasvatī, easily milked,  
+he, the Vṛtra-slayer of hundred resolves, deposited faculty for Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Those two physicians of good deeds, that easily-milked Sarasvatī,  
+and that slayer of Vṛtra with hundredfold resource, placed faculty in Indra.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1460,6 +1584,11 @@ Those Leeches righteous in their deeds, She, rich in milk, Sarasvatî, That Vrit
 ता भिषजा तौ चिकितवकावश्विनौ सुकर्मणा शोभनकर्मयुक्तौ सा सरस्वती सुदुघा सुष्ठु दोहनयुक्ता स च वृत्रहा इन्द्रः शतक्रतुः शतसंख्याकक्रतुयुक्तः । ते सर्वेऽपि इन्द्रार्थमिन्द्रियं संपादितवन्तः । इन्द्रोऽपि स्वार्थं प्रवर्तत इति भावः ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्यप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके त्रयोदशोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_2]** So corr. Ch स (Thus emended; Ch reads स)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

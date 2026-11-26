@@ -87,6 +87,12 @@ Fatten with the stream,
 All gaining on every side.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Return together with wealth, O Agni; swell with a stream  
+all-nourishing from every side!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒ह रय्या निव॑र्त्त॒स्वाग्ने॒ पिन्व॑स्व॒ धार॑या।  
@@ -105,6 +111,12 @@ All gaining on every side.
 वि॒श्वप्स्नि॑या वि॒श्वत॒स्परि॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सह᳓ रय्या᳓ नि᳓वर्तस्वा᳓ग्ने पि᳓न्वस्व धा᳓रया  
+विश्व᳓प्स्न्या विश्व᳓तस् प᳓रि
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स॒ह। र॒य्या। नि। व॒र्त्त॒स्व॒। अग्ने॑। पिन्वस्व॒। धार॑या। वि॒श्वप्स्न्येति॑ वि॒श्वऽप्स्न्या॑। वि॒श्वतः॑। परि॑। । १०।
@@ -118,6 +130,20 @@ All gaining on every side.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 स॒ह । र॒य्या । नीति॑ । व॒र्त॒स्व॒ । अग्ने॑ । पिन्व॑स्व । धार॑या ॥ वि॒श्वप्स्नि॒येति॑ वि॒श्व-प्स्नि॒या॒ । वि॒श्वतः॑ । परि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सह᳓ (*TS*-97, *RV*-59, *TB*-40, *AV*-134, *SB-M*-170, *SB-K*-159, *VS-M*-32, *VS-K*-32, *KS*-38)
+- रय्या᳓ (*TS*-9/11, *RV*-1, *TB*-1, *AV*-2, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-3, *VS-K*-3, *KS*-2)
+- नि᳓ (*TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-47, *VS-K*-35, *KS*-78)
+- वर्तस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-1, *TB*-2, *SB-M*-9, *SB-K*-9, *VS-M*-7, *VS-K*-7)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- पि᳓न्वस्व (*TS*-5, *TB*-1, *SB-M*-6, *SB-K*-6, *VS-M*-1, *VS-K*-2)
+- धा᳓रया (*TS*-3/25, *RV*-55/107, *TB*-1/2, *TK*-0/3, *AV*-2/13, *SB-M*-10/41, *SB-K*-9/39, *VS-M*-3/11, *VS-K*-2/10, *KS*-1/4)
+- विश्व᳓-प्स्न्या (*RV*-0/4, *VS-M*-2, *VS-K*-2)
+- विश्व᳓तः (*TS*-24, *RV*-65, *TB*-2, *TK*-1, *AV*-24, *SB-M*-8, *SB-K*-7, *VS-M*-16, *VS-K*-16, *KS*-13)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
 </details>
 
 <details><summary>उवट-टीका</summary>

@@ -197,6 +197,13 @@ _________
 तिस्रो गायत्र्यः ॥ अयमग्निः होता देवानां आह्वाता अध्वरे निमित्ते यज्ञसिद्धये वाजी अन्नवान् हविर्लक्षणस्यान्नस्य होता सन् शोभनः परिणीयते परितो नीयते । देवः दानादियुक्तः देवेषु मध्ये यज्ञियः यज्ञसम्पादनार्हः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[242_1]** Dies Kap. collat. auch mit T1, T3, Lund Brl fol. 41. 42; nach diesen Mss. accentuirt. (This chap. is also collated with T1, T3, L, and Brl fol. 41, 42; accented according to these mss.)
+
+- **[579_4]** Vgl. RV 4, 15, 1 flg.; MS 4, 13, 4; TBr. 3, 6, 4, 1. (Cf. RV 4, 15, 1 ff.; MS 4, 13, 4; TBr. 3, 6, 4, 1.)
+</details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 agni, the hotar, being the booty bearing horse, is led around in our sacrifice; a deva to be worshipped amongst the devas.
@@ -230,6 +237,12 @@ The usual concessive force of the nom. of the pres. part. to √as ‘be’ is a
 
 AGNI the Herald, like a horse, is led forth at our solemn rite,  
      God among Gods adorable.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, the Hotṛ at our rite, being a prize-winner, is led around,  
+a god worthy of sacrifice among the gods.
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -391,6 +404,12 @@ práyaḥ ← práyas- (nominal stem)
 आ दे॒वेषु॒ प्रयो॒ दध॑त् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प᳓रि त्रिविष्ट्यृध्वरं᳓ या᳓त्यग्नी᳓ रथी᳓रिव।  
+आ᳓ देवे᳓षु प्र᳓यो द᳓धत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 परि॑ । त्रि॒ऽवि॒ष्टि । अ॒ध्व॒रम् । याति॑ । अ॒ग्निः । र॒थीःऽइ॑व ।  
@@ -400,6 +419,21 @@ práyaḥ ← práyas- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 प᳓रि । त्रि-विष्टि᳓ । अध्वर᳓म् । या᳓ति । अग्नी᳓ । रथी᳓रिव । आ᳓ । देवे᳓षु । प्र᳓यः । द᳓धत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- त्रि-विष्टि (मूल-पाठः)
+- ऋधु (मूल-पाठः)
+- अर᳓म् (*MS*-1/4, *TS*-0/2, *RV*-0/4, *TB*-1/4, *AV*-0/9, *SB-M*-0/8, *SB-K*-0/13, *VS-M*-0/1)
+- या᳓ति (*MS*-7/9, *TS*-3/5, *RV*-9/28, *TB*-3/5, *AV*-4/10, *SB-M*-3/8, *SB-K*-5/11)
+- अग्नी᳓ (*MS*-18/1297, *TS*-3/1194, *RV*-3/856, *TB*-6/520, *TK*-1/105, *AV*-14/419, *SB-M*-60/2495, *SB-K*-65/2289, *VS-M*-1/325, *VS-K*-1/349)
+- रथी᳓रिव (*TS*-2, *RV*-5, *TB*-1, *VS-M*-2, *VS-K*-2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- प्र᳓यः (*MS*-1/2, *TS*-0/1, *RV*-20/44, *TB*-1/2, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/1)
+- द᳓धत् (*MS*-13/20, *TS*-9/13, *RV*-25/42, *TB*-33/35, *AV*-4/5, *SB-M*-9/23, *SB-K*-7/19, *VS-M*-32/34, *VS-K*-27/53)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -496,6 +530,11 @@ _________
 2परित्रिविष्टीति ॥ त्रिविष्टि त्रिव्याप्ति त्रिबेष्टनं वा परियाति परिगच्छति अयमग्निः अध्वरं अध्वरसाधनं पशुं रथीरिव रथवानिव शीघ्रं गच्छति । 'छन्दसीवनिपौ' इति मत्वर्थीय ईकारः । किमर्थं परियाति? देवेषु प्रय अन्नं हविर्लक्षणं आदधत् आदधात्विति एवमर्थं परियाति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[242_2]** L या᳓त्यग्ने᳓; desgl. D, ohne Accent. (L या᳓त्यग्ने᳓; likewise D, without accent.)
+</details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 agni, like a car-warrior, goes around 3 times in our sacrifice, distributing amongst the devas the sacrificial offerings.
@@ -518,6 +557,18 @@ Agni drives with triple toil around the ceremony like a charioteer, establishing
 
 Three times unto our solemn rite comes Agni like a charioteer,  
      Bearing the viands to the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thrice around the rite Agni goes, like a charioteer,  
+placing pleasure among the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Thrice around the sacrifice goes Agni, like a charioteer,  
+setting delight among the gods.
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -947,6 +998,24 @@ Round the oblations hath he paced, Agni the Wise, the Lord of Strength,
 Round the offerings hath Agni gone,  
 The sage, the lord of strength,  
 Bestowing jewels on the donor.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Around the offerings has Agni paced, the lord of nourishment, the sage,  
+bestowing treasures upon the pious worshipper.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The sage Agni, lord of the prize, has stepped around the oblations,  
+bestowing treasures upon the giver.
+
+Agni, the lord of prizes, the poet, has strode around the offerings,  
+bestowing treasures on the worshipper.
+
+Agni, the lord of prize, the sage, has stepped around the oblations,  
+bestowing treasures upon the giver.
 </details>
 
 <details><summary>Oldenberg</summary>

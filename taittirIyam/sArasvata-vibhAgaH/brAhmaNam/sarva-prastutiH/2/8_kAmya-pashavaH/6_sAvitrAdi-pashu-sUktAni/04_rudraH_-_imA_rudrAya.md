@@ -522,6 +522,14 @@ vaí ← vaí (invariable)
 न वा ओजी॑यो रुद्र॒ त्वद॑स्ति ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓र्हन् बिभर्षि सायका᳓नि धन्वा᳓  
+अ᳓र्हन् निष्कँ᳓ यजतँ᳓ विश्वरूप᳓म्  
+अ᳓र्हन्न् इदं᳓ दयसे वि᳓श्वम् आ᳓ धन्वा᳓  
+ओ᳓जीयो रुद्र᳓स् त᳓द् अस्ति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अर्ह॑न् । बि॒भ॒र्षि॒ । साय॑कानि । धन्व॑ । अर्ह॑न् । नि॒ष्कम् । य॒ज॒तम् । वि॒श्वऽरू॑पम् ।  
@@ -531,6 +539,28 @@ vaí ← vaí (invariable)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓र्हन् । बिभर्षि । सा᳓यकानि । ध᳓न्वा । अ᳓र्हन् । निष्क᳓म् । यजत᳓म् । विश्व᳓-रूपम् । अ᳓र्हन् । इद᳓म् । दयसे । वि᳓श् । वम᳓ब्भुवम् । न᳓ । वै᳓ । ओ᳓जीयः । रुद्र । त्व᳓त् । अस्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓र्हन् (*TS*-1, *RV*-8, *TB*-4, *SB-M*-1)
+- बिभर्षि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-8, *TB*-3, *AV*-7)
+- सायका᳓नि (मूल-पाठः)
+- धन्वाः᳓ (*TS*-0/1)
+- अ᳓र्हन् (*TS*-1, *RV*-8, *TB*-4, *SB-M*-1)
+- निष्क᳓म् (*RV*-2/3, *TB*-1/3, *AV*-0/3, *SB-M*-2/4, *SB-K*-2/4)
+- यजत᳓म् (*TS*-1, *RV*-12/39, *TB*-3/6, *AV*-0/2, *SB-K*-0/7, *VS-M*-0/2, *VS-K*-0/2, *KS*-2/3)
+- विश्व-रूप᳓म् (*SB-K*-1)
+- अ᳓र्हन् (*TS*-1, *RV*-8, *TB*-4, *SB-M*-1)
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- दयसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TB*-1, *AV*-1)
+- वि᳓श्वम् (*TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-27/214, *VS-K*-23/214, *KS*-14/118)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- धन्वाः᳓ (*TS*-0/1)
+- ओ᳓जीयः (*RV*-2/4, *TB*-1, *AV*-3/4, *SB-M*-1)
+- रुद्रः᳓ (*TS*-46/162, *RV*-14/99, *TB*-23/78, *TK*-2, *AV*-12/44, *SB-M*-31/110, *SB-K*-37/118, *VS-M*-6/53, *VS-K*-7/59, *KS*-12/54)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- अस्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-39, *TB*-11, *TK*-1, *AV*-15, *SB-M*-137, *SB-K*-117, *VS-K*-1, *KS*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -707,6 +737,14 @@ Worthy, thou carriest thy bow and arrows, worthy, thy manyhued and honoured neck
      Worthy, thou cuttest here each fiend to pieces: a mightier than thou there is not, Rudra.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Worthy, thou bearest arrows and bow;  
+worthy, a worshipful, omniform neck-ornament;  
+worthy, thou distributest all this [booty] with the bow;  
+more powerful is Rudra, that he is.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Worthy, thou carriest thy bow and arrows, Worthy, thine honourèd and all-hued necklace Worthy, thou wieldest all this mighty power. Naught that exists is mightier than thou art.
@@ -806,15 +844,54 @@ Smite not in anger our heroes, O Rudra;
 With oblations lot us serve thee with honour.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do not harm us in our offspring, in our descendants, not in our lifetime, not in our cattle, not in our horses;  
+do not, in anger, slay our heroes, O Rudra; bearing oblations, with reverence let us serve you!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मा न॑स्तो॒के तन॑ये॒ मा न॒ आयु॑षि॒ मा नो॒ गोषु॒ मा नो॒ अश्वे॑षु रीरिषः ।   
 वी॒रान्मा नो॑ रुद्र भामि॒तो व॑धीर्ह॒विष्म॑न्तो॒ नम॑सा विधेम ते ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मा स्तोके तनये मान आयौ मा नो गोषु मा नो अश्वेषु रीरिषः।  
+वीरान्मा नो रुद्र भामितो वधीर्हविष्मन्तो नमसा विधेम ते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । नः॒ । तो॒के । तन॑ये । मा । नः॒ । आयु॑षि । मा । नः॒ । गोषु॑ । मा । नः॒ । अश्वे॑षु । री॒रि॒षः॒ ॥ वी॒रान् । मा । नः॒ । रु॒द्र॒ । भा॒मि॒तः । व॒धीः॒ । ह॒विष्म॑न्तः । नम॑सा । वि॒धे॒म॒ । ते॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- स्तोके᳓ (*MW*, *Lanman*, *MS*-0/19, *TS*-0/5, *RV*-0/6, *TB*-0/11, *AV*-0/4, *SB-M*-0/20, *SB-K*-0/15, *VS-M*-0/4, *VS-K*-0/4)
+- त᳓नये (*MS*-2/12, *TS*-2/5, *RV*-17/67, *TB*-2/9, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-2/5)
+- मा᳓नः (*MS*-1/3, *TS*-0/1, *RV*-1/15, *AV*-0/4, *SB-K*-1/4, *VS-M*-1, *VS-K*-1)
+- आयौ᳓ (*MS*-0/6, *TS*-0/7, *RV*-2/85, *AV*-0/10, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/5, *VS-K*-0/5)
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- गो᳓षु (*MS*-12/149, *TS*-6/108, *RV*-43/521, *TB*-5/76, *AV*-36/195, *SB-M*-5/168, *SB-K*-3/149, *VS-M*-5/67, *VS-K*-5/67)
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- न (समानान्तर-पाठः (TS), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अ᳓श्वेषु (*MS*-3/117, *TS*-4/126, *RV*-8/226, *TB*-4/167, *AV*-12/76, *SB-M*-1/262, *SB-K*-1/255, *VS-M*-4/56, *VS-K*-4/52)
+- रीरिषः (समानान्तर-पाठः (TS), *MS*-2, *TS*-5, *TB*-2, *AV*-1, *VS-M*-3, *VS-K*-3)
+- वीरा᳓न् (*MS*-4/36, *TS*-3/20, *RV*-19/119, *TB*-2/25, *AV*-4/66, *SB-M*-6/28, *SB-K*-9/32, *VS-M*-3/19, *VS-K*-2/17)
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रु᳓द्र (*MS*-5, *TS*-1, *RV*-1/3, *TB*-1, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- भामितः᳓ (*MS*-1, *TS*-3, *RV*-1)
+- वधीः (समानान्तर-पाठः (TS), *MS*-5, *TS*-6, *RV*-7, *AV*-5, *VS-M*-2, *VS-K*-2)
+- हवि᳓ष्मन्तः (*MS*-2, *TS*-3, *RV*-18/20, *TB*-2, *AV*-2/4, *SB-M*-5/6, *SB-K*-5, *VS-M*-1, *VS-K*-1)
+- न᳓मसा (*MS*-16/313, *TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/168)
+- विधेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-29, *RV*-28, *TB*-2, *TK*-2, *AV*-20, *SB-M*-11, *SB-K*-11, *VS-M*-18, *VS-K*-19)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -824,6 +901,15 @@ With oblations lot us serve thee with honour.
 नोऽस्मदीयेष्वश्वेषु मा रीरिषः।  
 **भामितः** क्रुद्धः सन्नोऽस्मदीयान्वीरान्भृत्यान्मा वधीः।  
 वयं हविष्मन्तो हविर्युक्तास्ते तुभ्यं नमसा नमस्कारेण विधेम परिचरेम।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[367_6]** Dieser Vers T7 fol. 16ª. (This verse T7 fol. 16ª.)
+
+- **[367_7]** T7 भामिथो; cf. RV 1, 114, 8.
+
+- **[367_8]** So T7; Ch विधोम; cf. RV 1, 114, 8. (Thus T7; Ch विधोम; cf. RV 1, 114, 8.)
 </details>
 </div>
 

@@ -427,7 +427,7 @@ support, the thirty-threefold;
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/14/105_bradhna_sya_viShTa.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/14/105_bradhnasya_viShTapaM_chatus.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रध्न᳓स्य विष्ट᳓पं चतुस्-त्रिँशः᳓
@@ -443,6 +443,11 @@ The Bright One's Station, the Chatustrimsa.
 <details><summary>Keith</summary>
 
 the surface of the tawny one, the thirty-fourfold;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the summit of the ruddy sun is the thirty-four-fold;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -985,7 +990,7 @@ inspiration, the thirty-onefold;
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/14/105_bradhna_sya_viShTa.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/14/105_bradhnasya_viShTapaM_chatus.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रध्न᳓स्य विष्ट᳓पं चतुस्-त्रिँशः᳓
@@ -1001,6 +1006,11 @@ The Bright One's Station, the Chatustrimsa.
 <details><summary>Keith</summary>
 
 the surface of the tawny one, the thirty-fourfold;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the summit of the ruddy sun is the thirty-four-fold;
 </details>
 
 <details><summary>मूलम्</summary>

@@ -44,19 +44,17 @@ title = "०५ प्रधान-होमः"
 +++(आचार्यो वदति, शिष्यो जुहोति - )+++
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/04_agniShTa_AyuH.md">
-
 अग्नि᳓ष् ट आ᳓युः प्र+++(कृष्ट)+++तरां᳓ **दधात्व्**  
 अग्नि᳓ष् टे पु᳓ष्टिं प्रतरां᳓ **कृणोतु** ।  
 इ᳓न्द्रो मरु᳓द्भिर् ऋतु-धा᳓ +++(पुष्टिं)+++ **कृणोत्व्**  
 आदित्यै᳓स् ते व᳓सुभिर् **आ᳓ दधातु** ।  
 
 +++(अग्नीन्द्र-मरुद्-आदित्य-वसुभ्य इदन्न मम ।)+++
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/05_medhAm_mahyamangiraso.md">
 मेधां᳓ म᳓ह्यम् अ᳓ङ्गिरसो  
-मेधाँ᳓ सप्तऋष᳓यो **[[ददुः|ददुः᳓]]** ।  
+मेधाँ᳓ सप्तऋष᳓यो **ददुः** ।  
 मेधां᳓ म᳓ह्यं प्रजा᳓पतिर्  
 मेधा᳓म् अग्नि᳓र् **ददातु** मे ।  
 
@@ -66,18 +64,16 @@ title = "०५ प्रधान-होमः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/06_apsarAsu_yA.md">
 अप्सरा᳓सु या᳓ मेधा᳓  
 गन्धर्वे᳓षु च य᳓द् य᳓शः ।  
-दै᳓वी या᳓ [[मानुषी᳓|मा᳓नुषी]] मेधा᳓  
+दै᳓वी या᳓ मा᳓नुषी मेधा᳓  
 सा᳓ मा᳓मा᳓ विशताद् इह᳓ ।  
 
 +++(मेधायशोभ्याम् इदन्न मम ।)+++
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/025/19_imaM_me.md">
-
 इमं᳓ मे वरुण **श्रुधी** +++(=श्रुणु)+++  
 ह᳓वम्+++(=आह्वानम्)+++ अद्या᳓ च **मृळय** +++(=सुखय)+++।  
-त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥  
-
+त्वा᳓म् अवस्यु᳓र् आ᳓ **चके** +++(=अवदन्)+++॥
 </div>
 
 <details><summary>तमिऴ्</summary>
@@ -88,29 +84,24 @@ title = "०५ प्रधान-होमः"
 [[79]]
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/11_tattvA_yAmi.md">
-
 त᳓त् त्वा **यामि** ब्र᳓ह्मणा **व᳓न्दमानस्**  
 त᳓द् **आ᳓ शास्ते** य᳓जमानो हवि᳓र्भिः ।  
 अ᳓हेळमानो +++(=अक्रुध्यन्)+++ वरुणेह᳓ **बोध्य्** उ᳓रुशंस  
 मा᳓ न आ᳓युः **प्र᳓ मोषीः** ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
 य᳓जिष्ठो +++(हविर्)+++व᳓ह्नितमश् शो᳓शुचानो+++(=देदीप्यमानः)+++  
 वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-
 </div>
 
 (अग्नि-वरुणाभ्यां इदन्न मम ।)
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 ने᳓दिष्ठो+++(=अन्तिकतमो)+++ अस्या᳓ उष᳓सो व्यु᳙ष्टौ+++(=व्युष्टायाम्)+++ ।  
@@ -118,7 +109,6 @@ title = "०५ प्रधान-होमः"
 **वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-
 </div>
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
@@ -137,7 +127,7 @@ title = "०५ प्रधान-होमः"
 जयादि-सँस्रावान्तं कृत्वा 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/jayAdy-abhyAtAna-rAShTrabhRtaH.md">
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/chittaM_cha_chittish_cha.md">
 <details open><summary><h5>चि॒त्तं च॒ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -195,36 +185,52 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑  
 </details>
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-प्र॒जाप॑ति॒र् जया॒न् इन्द्रा॑य॒ वृष्णे॒  
-प्राय॑च्छद् उ॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒।  
-तस्मै॒ विश॒स् सम॑नमन्त॒ सर्वा॒स्  
-स उ॒ग्रस् स हि हव्यो॑ ब॒भूव॑॥  
-[स्वाहा॑॥]
+प्रजा᳓पतिर् ज᳓यान् इ᳓न्द्राय वृ᳓ष्णे  
+**प्रा᳓यच्छद्** उग्रᳶ᳓ पृतना᳓ज्येषु +++(→गतिकारकोपपदात् कृत्?)+++।  
+त᳓स्मै वि᳓शस् **स᳓मनमन्त** स᳓र्वास्  
+स᳓ उग्र᳓स् स᳓ हि᳓ **ह᳓व्यो बभू᳓व**॥  
+[स्वा᳓हा॥]
 </details>
 </div>
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/04_jayahomamantrAH_tatprashaMsA_cha/02_prajApatir_jayAn.md">
 <details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>Keith</summary>
+
+Prajapati bestowed victories on Indra  
+The strong, he who is dread in battle contest,  
+To him all the people bowed in reverence,  
+For he waxed dread, worthy of offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ति॒र्जया॒निन्द्रा॑य॒ वृष्णे॒ प्राय॑च्छदु॒ग्रᳶ पृ॑त॒नाज्ये॑षु॒ तस्मै॒ विश॒स्सम॑नमन्त॒ सर्वा॒स्स उ॒ग्रस्स हि हव्यो॑ ब॒भूव॑
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । जयान्॑ । इन्द्रा॑य । वृष्णे॑ । प्रेति॑ । अ॒य॒च्छ॒त् । उ॒ग्रः । पृ॒त॒नाज्ये॑षु । तस्मै॑ । विशः॑ । समिति॑ । अ॒न॒म॒न्त॒ । सर्वाः॑ । सः । उ॒ग्रः । सः । हि । हव्यः॑ । ब॒भूव॑ ।
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अथ प्रजापतिर्जयानिति अत्र त्रयोदशी त्रिष्टुप् ॥ 'वृष्णे' इति प्रथमपादान्तः 'सर्वाः' इति तृतीयापादान्तः । प्रजापतिर्जयानेतानिन्द्राय वृष्णे वर्षित्रे प्रायच्छत् दत्तवान् ।
+प्रजापतिर्जयानेतानिन्द्राय वृष्णे वर्षित्रे प्रायच्छत् दत्तवान् ।
 
-उग्रः उद्गीर्णः पृतनाज्वेषु संग्रामाभिगमनेषु उद्गीर्णशक्तिः प्रजापतिः । यद्वा - जयान् लब्ध्वा इन्द्रःसंग्रामेषूद्गीर्णो बतूव । अजः अञ्जो वा भावे यति छान्दसं रूपं, अत एवानवग्रहः ।
+**उग्रः** उद्गीर्णः  
+**पृतनाज्येषु** संग्रामाभिगमनेषु उद्गीर्णशक्तिः प्रजापतिः ।  
+यद्वा - जयान् लब्ध्वा इन्द्रःसंग्रामेषूद्गीर्णो बतूव ।  
+अजः अञ्जो वा भावे यति छान्दसं रूपं, अत एवानवग्रहः ।  
 
-ततः प्रभृति तस्मै इन्द्राय सर्वा विशः प्रजास्समनमन्त प्रतिज्ञाविधेया अभवन् । स उग्रः स खलूग्रो भवति, यस्मै विशस्समनमन्त, याः पूर्वं स्पर्धीताः ।
+ततः प्रभृति तस्मै इन्द्राय सर्वा विशः प्रजास् समनमन्त प्रतिज्ञाविधेया अभवन् । स उग्रः स खलूग्रो भवति, यस्मै विशस्समनमन्त, याः पूर्वं स्पर्धीताः ।
 
 यद्वा - यो जयान् जुहोति स खलूग्रो भवति स एब हव्यो यागार्हश्च इज्यश्च बभूव भवति । छान्दसो लिट् ॥
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/05_abhyAtAnamantrAH/">
 <details open><summary><h5>०५ अभ्यातानमन्त्राः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
@@ -948,7 +954,7 @@ In this holy power, this worldly power, this prayer, this Purohitaship, this rit
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/4/07_rAShTrabhRnmantrAH/">
 <details open><summary><h5>०७ राष्ट्रभृन्मन्त्राः ...{Loading}...</h5></summary>
 
 विश्वेदेवा ऋषयः
@@ -1013,7 +1019,7 @@ In this holy power, this worldly power, this prayer, this Purohitaship, this rit
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShADRta_dhAmAgnir_gandharvaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓
@@ -1029,6 +1035,11 @@ Maintainer of Law, true by nature, Agni is the Gandharva.
 <details><summary>Keith</summary>
 
 Supporting holy order, abounding in truth, Agni is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conquering by truth, truth-aboded Agni is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1427,7 +1438,7 @@ his Apsarases are the Rc and Saman verses, (called) hymns, &c.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/41_iShiro_vishvavyachA_vAto.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इषिरो᳓ विश्व᳓व्यचा वा᳓तो गन्धर्वः᳓
@@ -1443,6 +1454,11 @@ The Quick, All-reaching, Wind is the Gandharva.
 <details><summary>Keith</summary>
 
 The swift, all-pervading wind is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the vigorous, all-encompassing Wind is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>

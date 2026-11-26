@@ -51,19 +51,19 @@ title = "११ औपासनविधिः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
-**आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
-अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्त् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
-विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
+**आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
+अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
+अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
+वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
-**उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
-एनम् इष्टा-पू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
-पुन॑ᳵ **कृ॒ण्वँस्** त्वा॑ पि॒तरय्ँ॒ युवा॑नम्  
-**अ॒न्वाताँ॑सी॒त्** त्वयि॒ तन्तु॑म् ए॒तम् ।
+**उ᳓द्बुध्यस्वाग्ने** प्र᳓ति जागृह्य्  
+एनम् इष्टा-पूर्ते᳓ सँ᳓सृजेथामय᳓ञ्च ।   
+पु᳓नᳵ **कृण्वँ᳓स्** त्वा पित᳓रय्ँ यु᳓वानम्  
+**अन्वा᳓ताँसीत्** त्व᳓यि त᳓न्तुम् एत᳓म् ।
 </details>
 </div> 
 
@@ -98,14 +98,14 @@ title = "११ औपासनविधिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h2>०१ अदितेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h2>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
@@ -119,7 +119,7 @@ title = "११ औपासनविधिः"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h2>०४ देव सवितः ...{Loading}...</h2></summary>
 
-देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -187,13 +187,13 @@ title = "११ औपासनविधिः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 <details open><summary><h5>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h5></summary>
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -408,10 +408,10 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h5>07 मा नस् ...{Loading}...</h5></summary>
 
-मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
-मा नो॒ गोषु॒ **मा** नो॒ अश्वे॑षु **रीरिषः** ।   
-वी॒रान् **मा** नो॑ रुद्र **भामि॒तो+++(=क्रुद्धः)+++ व॑धीर्**  
-**ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
+मा᳓ नस् तोके᳓+++(=अपत्यमात्रे)+++ त᳓नये मा᳓ न आ᳓युषि  
+मा᳓ नो गो᳓षु **मा᳓** नो अ᳓श्वेषु **रीरिषः** ।   
+वीरा᳓न् **मा᳓** नो रुद्र **भामितो᳓+++(=क्रुद्धः)+++ वधीर्**  
+**हवि᳓ष्मन्तो न᳓मसा विधेम** ते ।
 </details>
 </div>
 
@@ -440,10 +440,10 @@ on me wisdom, on me offspring, on me blazing may Surya bestow.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
-अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
-यतो॑ जा॒तो **अरो॑चथाः** ।  
-तञ् जा॒नन्न् अ॑ग्न॒ **आ रो॑ह** +++(→ सीदेति शाकले)+++ ।  
-अथा॑ नो **वर्धया र॒यिम्** ।  
+अय᳓न् ते **यो᳓निर्** ऋत्वि᳓यः ।  
+य᳓तो जातो᳓ **अ᳓रोचथाः** ।  
+त᳓ञ् जान᳓न्न् अग्न **आ᳓ रोह** +++(→ सीदेति शाकले)+++ ।  
+अ᳓था नो **वर्धया रयि᳓म्** ।  
 
 </details>
 </div>  

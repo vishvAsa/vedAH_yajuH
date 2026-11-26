@@ -272,6 +272,12 @@ yudhā́ ← yúdh- (nominal stem)
  स्वेना॒ हि वृ॒त्रँ शव॑सा ज॒घन्थ॒ न शत्रु॒रन्तव्ँ॑ विविदद् यु॒धा ते॑ ॥ [41]
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+**अभि क्रत्वेन्द्र भूरथ ज्मन्न ते विव्यङ् महिमानं रजाँसि। 
+स्वेना हि वृत्रँ शवसा जगन्थ न शत्रुरन्तं विविदद्युधा ते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । क्रत्वा॑ । इ॒न्द्र॒ । भूः॒ । अध॑ । ज्मन् । न । ते॒ । वि॒व्य॒क् । म॒हि॒मान॑म् । रजां॑सि ।  
@@ -281,6 +287,33 @@ yudhā́ ← yúdh- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒भीति॑ । क्रत्वा॑ । इ॒न्द्र॒ । भूः॒ । अध॑ । ज्मन् । न । ते॒ । वि॒व्य॒क् । म॒हि॒मान॑म् । रजाँ॑सि ॥ स्वेन॑ । हि । वृ॒त्रम् । शव॑सा । ज॒घन्थ॑ । न । शत्रुः॑ । अन्त॑म् । वि॒वि॒द॒त् । यु॒धा । ते॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- क्र᳓त्वा (*MS*-1, *TS*-2, *RV*-62, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- भूः᳓ (*MS*-27, *TS*-9, *RV*-3, *TB*-17, *TK*-7, *AV*-1, *SB-M*-32, *SB-K*-32, *VS-M*-9, *VS-K*-4)
+- अ᳓थ (*MS*-482, *TS*-161, *RV*-117, *TB*-146, *TK*-34, *AV*-68, *SB-M*-3814, *SB-K*-3581, *VS-M*-17, *VS-K*-14)
+- ज्म᳓न् (*Whitney*, *MS*-1, *TS*-2, *RV*-2, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- विव्यक् (*TS*-1, *RV*-1)
+- महि-मा᳓नम् (*MS*-16/36, *TS*-22/35, *RV*-27/56, *TB*-13/20, *TK*-0/1, *AV*-11/39, *SB-M*-15/48, *SB-K*-12/42, *VS-M*-6/26, *VS-K*-5/26)
+- र᳓जांसि (*MS*-7/27, *TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- एनाः (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *MS*-60, *TS*-25, *RV*-9, *TB*-21, *TK*-2, *AV*-3, *SB-M*-63, *SB-K*-67)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- वृत्र᳓म् (*MW*, *MS*-66/99, *TS*-35/59, *RV*-83/173, *TB*-22/30, *AV*-10/40, *SB-M*-47/93, *SB-K*-43/93, *VS-M*-7/10, *VS-K*-7/10)
+- श᳓वसा (*MS*-6/12, *TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8)
+- जग᳓न्थ (हि च पा॰ ८.१.३४, *Whitney*, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- श᳓त्रुः (*MS*-0/12, *TS*-3/18, *RV*-8/82, *TB*-0/13, *AV*-6/57, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-0/11, *VS-K*-0/8)
+- अ᳓न्तम् (*MS*-15/51, *TS*-12/27, *RV*-14/42, *TB*-12/26, *TK*-0/5, *AV*-4/15, *SB-M*-26/85, *SB-K*-27/88, *VS-M*-1/6, *VS-K*-1/5)
+- विविदत् (*TS*-1, *RV*-1)
+- युधा᳓ (*MS*-3, *TS*-2, *RV*-19, *TB*-1, *AV*-7, *VS-M*-1, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -445,6 +478,15 @@ _________
 इति सप्तमे चतुर्थे पञ्चदशोनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[627_1]** So corr. Ch क्रन्धेन्द्र; vgl. RV 7, 21, 6; TS 7, 4, 15. (Thus emended; Ch reads क्रन्धेन्द्र; cf. RV 7, 21, 6; TS 7, 4, 15)
+
+- **[627_2]** So corr. Ch शत्रुरन्तविवद; vgl. RV 7, 21, 6; TS 7, 4, 15. (Thus emended; Ch reads शत्रुरन्तविवद; cf. RV 7, 21, 6; TS 7, 4, 15)
+
+**समानान्तराणि:** cf. TS 7, 4, 15.**
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -484,6 +526,12 @@ Thou hast surpassed in might, O Indra, on the earth
 The regions comprehend not thy greatness;
 For with thine own strength thou didst slay Vrtra;
 No foe hath found the end of thee in fight.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You surpassed by your insight, O Indra, and on the earth; the spaces did not contain your greatness,  
+for you slew Vṛtra with your own might; no enemy found the end of you in battle.
 </details>
 
 <details><summary>Geldner</summary>

@@ -20,13 +20,14 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,7 +60,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,16 +249,20 @@ Araru is smitten away from the earth.
 ____  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -283,18 +288,24 @@ Go to the fold where the cattle are.
 
 6हरति - व्रजमिति ॥ व्रजन्त्यस्मिन्निति व्रजः । 'गोचरसंचर' (पा.सू. 3.3.119) इत्यादौ घप्रत्ययान्तो निपातितः । यस्मिन्प्रदेशे पांसवस्सङ्घीभूता उत्करभावमापद्यन्ते, तं देशं गच्छति । कीदृशं? - गोस्थानम् गोशब्दस्य प्रत्याश्रावणलक्षणस्य सम्बन्धि स्थानम् । 'छन्दाँसि वै व्रजो गोस्थानः' (तै.ब्रा. 3.2.9) इति ब्राह्मणम् । छन्दस्त्वेन तस्य स्तुतिः । तान्यपि हि गवां शब्दानां स्थानानि । कृदुत्तरपदप्रकृतिस्वरत्वम् । स्थानशब्दो लित्स्वरेणाद्युदात्तः (पा.सू. 6.1.193) । ननु 'मन्क्तिन् व्याख्यानशयन' (पा.सू. 6.2.151) इत्यादिना कृदुत्तरपदान्तोदात्तत्वेन भाव्यम् । तर्हि 'परादिश्छन्दसि बहुळम्' (पा.सू. 6.2.199) इत्युत्तरपदाद्युदात्तत्वं भविष्यति ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वेदिं प्रत्यवेक्षते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -315,11 +326,15 @@ May heaven rain for thee.
 
 7वेदिं प्रत्यवेक्षते - वर्षत्विति ॥ ते तव स्फ्येन प्रहृतायाश्शान्त्यर्थं द्यौर्वर्षतु दिविष्ठपर्जन्यद्वारेण ॥
 </details>
+</details>
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 निवपति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -332,6 +347,8 @@ ____
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -363,7 +380,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,16 +423,20 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -441,18 +462,24 @@ Go to the fold where the cattle are.
 
 6हरति - व्रजमिति ॥ व्रजन्त्यस्मिन्निति व्रजः । 'गोचरसंचर' (पा.सू. 3.3.119) इत्यादौ घप्रत्ययान्तो निपातितः । यस्मिन्प्रदेशे पांसवस्सङ्घीभूता उत्करभावमापद्यन्ते, तं देशं गच्छति । कीदृशं? - गोस्थानम् गोशब्दस्य प्रत्याश्रावणलक्षणस्य सम्बन्धि स्थानम् । 'छन्दाँसि वै व्रजो गोस्थानः' (तै.ब्रा. 3.2.9) इति ब्राह्मणम् । छन्दस्त्वेन तस्य स्तुतिः । तान्यपि हि गवां शब्दानां स्थानानि । कृदुत्तरपदप्रकृतिस्वरत्वम् । स्थानशब्दो लित्स्वरेणाद्युदात्तः (पा.सू. 6.1.193) । ननु 'मन्क्तिन् व्याख्यानशयन' (पा.सू. 6.2.151) इत्यादिना कृदुत्तरपदान्तोदात्तत्वेन भाव्यम् । तर्हि 'परादिश्छन्दसि बहुळम्' (पा.सू. 6.2.199) इत्युत्तरपदाद्युदात्तत्वं भविष्यति ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वेदिं प्रत्यवेक्षते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -473,11 +500,15 @@ May heaven rain for thee.
 
 7वेदिं प्रत्यवेक्षते - वर्षत्विति ॥ ते तव स्फ्येन प्रहृतायाश्शान्त्यर्थं द्यौर्वर्षतु दिविष्ठपर्जन्यद्वारेण ॥
 </details>
+</details>
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 निवपति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +521,8 @@ ____
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -521,20 +554,24 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
+</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -560,18 +597,24 @@ Go to the fold where the cattle are.
 
 6हरति - व्रजमिति ॥ व्रजन्त्यस्मिन्निति व्रजः । 'गोचरसंचर' (पा.सू. 3.3.119) इत्यादौ घप्रत्ययान्तो निपातितः । यस्मिन्प्रदेशे पांसवस्सङ्घीभूता उत्करभावमापद्यन्ते, तं देशं गच्छति । कीदृशं? - गोस्थानम् गोशब्दस्य प्रत्याश्रावणलक्षणस्य सम्बन्धि स्थानम् । 'छन्दाँसि वै व्रजो गोस्थानः' (तै.ब्रा. 3.2.9) इति ब्राह्मणम् । छन्दस्त्वेन तस्य स्तुतिः । तान्यपि हि गवां शब्दानां स्थानानि । कृदुत्तरपदप्रकृतिस्वरत्वम् । स्थानशब्दो लित्स्वरेणाद्युदात्तः (पा.सू. 6.1.193) । ननु 'मन्क्तिन् व्याख्यानशयन' (पा.सू. 6.2.151) इत्यादिना कृदुत्तरपदान्तोदात्तत्वेन भाव्यम् । तर्हि 'परादिश्छन्दसि बहुळम्' (पा.सू. 6.2.199) इत्युत्तरपदाद्युदात्तत्वं भविष्यति ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वेदिं प्रत्यवेक्षते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -592,11 +635,15 @@ May heaven rain for thee.
 
 7वेदिं प्रत्यवेक्षते - वर्षत्विति ॥ ते तव स्फ्येन प्रहृतायाश्शान्त्यर्थं द्यौर्वर्षतु दिविष्ठपर्जन्यद्वारेण ॥
 </details>
+</details>
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 निवपति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -609,6 +656,8 @@ ____
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -640,7 +689,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -672,16 +721,20 @@ Araru is smitten away from the earth, he that sacrifices not to the gods.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/vrajaM_gachCha.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 ??हरति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रज᳓ङ् गच्छ गो-स्था᳓नम् +++(→छन्दांसि)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -707,18 +760,24 @@ Go to the fold where the cattle are.
 
 6हरति - व्रजमिति ॥ व्रजन्त्यस्मिन्निति व्रजः । 'गोचरसंचर' (पा.सू. 3.3.119) इत्यादौ घप्रत्ययान्तो निपातितः । यस्मिन्प्रदेशे पांसवस्सङ्घीभूता उत्करभावमापद्यन्ते, तं देशं गच्छति । कीदृशं? - गोस्थानम् गोशब्दस्य प्रत्याश्रावणलक्षणस्य सम्बन्धि स्थानम् । 'छन्दाँसि वै व्रजो गोस्थानः' (तै.ब्रा. 3.2.9) इति ब्राह्मणम् । छन्दस्त्वेन तस्य स्तुतिः । तान्यपि हि गवां शब्दानां स्थानानि । कृदुत्तरपदप्रकृतिस्वरत्वम् । स्थानशब्दो लित्स्वरेणाद्युदात्तः (पा.सू. 6.1.193) । ननु 'मन्क्तिन् व्याख्यानशयन' (पा.सू. 6.2.151) इत्यादिना कृदुत्तरपदान्तोदात्तत्वेन भाव्यम् । तर्हि 'परादिश्छन्दसि बहुळम्' (पा.सू. 6.2.199) इत्युत्तरपदाद्युदात्तत्वं भविष्यति ॥
 </details>
+</details>
 
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 वेदिं प्रत्यवेक्षते
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓र्षतु +++(स्फ्येन प्रहृतायाः)+++ ते द्यौः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -739,11 +798,15 @@ May heaven rain for thee.
 
 7वेदिं प्रत्यवेक्षते - वर्षत्विति ॥ ते तव स्फ्येन प्रहृतायाश्शान्त्यर्थं द्यौर्वर्षतु दिविष्ठपर्जन्यद्वारेण ॥
 </details>
+</details>
 ____
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 निवपति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,6 +819,8 @@ ____
 
 +++('अररुर्वै नामासुर आसीत्' (तै.ब्रा. 3.2.9) इत्यादिब्राह्मणप्रसिद्धः असुरविशेषोऽररुः, अरणशीलः गूढचारी ।)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -787,7 +852,7 @@ O god Savitr, bind thou in the furthest distance with a hundred fetters him who 
 बद्धं तमस्मादुत्करात् मा मौक् मा मुचः । यद्वा - परमस्यां परावति परागतौ पराजये शतेन पाशैः अस्माकं द्वेष्टारं द्वेष्यं च बधान । बद्धं च तं, अस्मात्पराजयात् मा मौक् मा मुचः ।  
 यद्वा - परमस्यां परावति पराजये पराजयार्थं तस्मिन्नुत्करे बधान । बद्धं च तं मा मुचः उत्करात्पराजयाद्वा । मुचेर्लुङि व्यत्ययेन अङं बाधित्वा च्लेस्सिजादेशः, 'बहुलं छन्दसि' (पा.सू. 7.3.97) इतीडभावः, हलन्तलक्षणा वृद्धिः, हल्ङ्यादिसंयोगान्तलोपौ ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -829,16 +894,22 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/14_vasavas_tvA_parigRhNantu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 +++(वेदे!)+++ +++(अष्टौ)+++ व᳓सवस् त्वा +++(दक्षिणतः)+++ प᳓रिगृह्णन्तु +++(अष्टाक्षरेण)+++ गायत्रे᳓ण छ᳓न्दसा ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/14_vasavas_tvA_parigRhNantu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Let the Vasus grasp thee with the Gayatri metre
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Vasus enclose you with the gāyatrī metre!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -848,7 +919,7 @@ Let the Vasus grasp thee with the Gayatri metre
 
 <details><summary>पद-पाठः</summary>
 
-वस॑वः । त्वा॒ । परीति॑ । गृ॒ह्ण॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा । 
+वस॑वः । त्वा॒ । परीति॑ । गृ॒ह्ण॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -856,8 +927,7 @@ Let the Vasus grasp thee with the Gayatri metre
 वसवः अष्टौ । अष्टाक्षरा गायत्री । ते च गायत्रेण छन्दसा त्वां दक्षिणतः परिगृह्णन्तु ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(एकादश)+++ रुद्रा᳓स् त्वा प᳓रिगृह्णन्तु +++(एकादशाक्षरेण)+++ त्रै᳓ष्टुभेन छ᳓न्दसा ।
 </details>
@@ -1124,6 +1194,7 @@ Which wise men use to guide them in the sacrifice.
 
 पु॒रा । क्रू॒रस्य॑ । वि॒सृप॒ इति॑ वि-सृपः॑ । वि॒र॒फ्शि॒न्निति॑ वि-र॒फ्शि॒न् । उ॒दा॒दायेत्यु॑त्-आ॒दाय॑ । पृ॒थि॒वीम् । जी॒रदा॑नु॒रिति॑ जी॒र-दा॒नुः॒ । याम् । ऐर॑यन् । च॒न्द्रम॑सि । स्व॒धाभि॒रिति॑ स्व-धाभिः॑ । ताम् । धीरा॑सः । अ॒नु॒दृश्येत्य॑नु-दृश्य॑ । य॒ज॒न्ते॒ ॥
 </details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 

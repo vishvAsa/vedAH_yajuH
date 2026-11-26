@@ -27,6 +27,12 @@ unicode_script: devanagari
 With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Brihat, and a steer and bull give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hail! May Varuṇa of good dominion make the sacrifice a medicine;  
+the Aticchandas, great faculty, the bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स्वाहा॑ य॒ज्ञं वरु॑णः। सुक्ष॒त्रो भे॑ष॒जं क॑रत्।  
@@ -47,6 +53,12 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 बृ॒हदृ॑ष॒भो गौर्वयो॑ दधुः ॥ 87॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्वाहा यज्ञं वरुणस्सुक्षत्रो भेषजं करत्।  
+अतिच्छन्द इन्द्रियं बृहद्वृषभो गौर्वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स्वाहा॑। य॒ज्ञम्। वरु॑णः। सु॒क्ष॒त्र इति॑ सुऽक्ष॒त्रः। भे॒ष॒जम्। क॒र॒त्। अति॑च्छन्दा॒ इत्यति॑ऽछन्दाः। इ॒न्द्रि॒यम्। बृ॒हत्। ऋ॒ष॒भः। गौः। वयः॑। द॒धुः॒। २२।
@@ -60,6 +72,23 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स्वा᳓हा । यज्ञ᳓म् । व᳓रुणः । सु-क्षत्रः᳓ । भेषज᳓म् । करत् । अ᳓ति-छन्दाः । छ᳓न्दः । इन्द्रिय᳓म् । बृह᳓त् । ऋषभः᳓ । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्वा᳓हा (*Whitney*, *MS*-536, *TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-480)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- सु-क्षत्रः᳓ (*MS*-1, *RV*-2/7, *TB*-3, *VS-M*-1, *VS-K*-1)
+- भेषज᳓म् (*MS*-34/38, *TS*-25/26, *RV*-14/21, *TB*-33/37, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21)
+- क᳓रत् (*MS*-6/7, *TS*-5, *RV*-12/14, *TB*-1/2, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-6/8, *VS-K*-3/6)
+- अ᳓तिच्छन्दः (*MW* ŚBr., *TS*-0/6, *SB-M*-0/5, *SB-K*-0/5, *VS-K*-0/2)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- वृषभः᳓ (*MS*-15/25, *TS*-7/15, *RV*-80/149, *TB*-6/17, *AV*-20/37, *SB-M*-6/11, *SB-K*-3/7, *VS-M*-6/12, *VS-K*-7/11)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -116,6 +145,11 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठकेऽष्टादशोऽनुवाकः ॥
 
 वसन्ताख्येनर्तुदेवेन सहिता वसवो देवा इन्द्रे हविरिदं समर्प्यमाणं वय आयुष्यं च दधुः संपादितवन्तः । कीदृशं हविः? त्रिवृदाख्येन स्तोमेन स्तुतम् । तथा तेजसा तेजस्विना रथंतराख्येन साम्ना स्तुतम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 11; VS 21, 12–22; TBr. 2, 6, 18.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -184,6 +218,18 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 With Summer may the Rudras, Gods, praised in the Pañchadasa hymn With Brihat, give to Indra strength; with fame, and sacrifice and life.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the summer season the gods, the Rudras, praised in the fifteenfold [stoma];  
+with the Bṛhat, with renown, power, they placed the oblation, vigor, in Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the summer season the divine Rudras placed the oblation, power, in Indra,  
+praised in the fifteenfold [stoma], with the Bṛhat [sāman], with fame.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ग्री॒ष्मेण॑ऽऋ॒तुना॑ दे॒वा रु॒द्राः प॒ञ्च॒द॒शे स्तु॒ताः।  
@@ -196,6 +242,18 @@ With Summer may the Rudras, Gods, praised in the Pañchadasa hymn With Brihat, g
 रु॒द्राᳶ प॑ञ्चद॒शे स्तु॒तम् ।  
 बृ॒ह॒ता यश॑सा॒ बल॑म् ।  
 ह॒विरिन्द्रे॒ वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ग्रीष्मे᳓ण ऋतु᳓ना देवा᳓ रुद्राः᳓ पञ्चदशे᳓ स्तुत᳓म्  
+बृहता᳓ य᳓शसा ब᳓लँ हवि᳓र् इ᳓न्द्रे व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ग्रीष्मेण देवा ऋतुना रुद्राः पञ्चदशे स्तुतम्।  
+बृहता यशसा बलँ हविरिन्द्रे वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -211,6 +269,40 @@ With Summer may the Rudras, Gods, praised in the Pañchadasa hymn With Brihat, g
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ग्रीष्मे᳓ण । देवाः᳓ । ऋतु᳓ना । रुद्राः᳓ । पञ्चदशे᳓ । स्तुत᳓म् । बृहता᳓ । य᳓शसा । ब᳓लम् । हविः᳓ । इ᳓न्द्रे । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ग्रीष्मे᳓णः (मूल-पाठः)
+- ऋतु᳓ना (*TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/35, *KS*-0/34)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- रुद्राः᳓ (*TS*-32/162, *RV*-11/99, *TB*-9/78, *TK*-0/2, *AV*-11/44, *SB-M*-38/110, *SB-K*-38/118, *VS-M*-18/53, *VS-K*-19/59, *KS*-9/54)
+- पञ्चदशे᳓ (*TS*-0/35, *RV*-0/2, *TB*-1/26, *TK*-0/3, *AV*-0/3, *SB-M*-2/45, *SB-K*-2/43, *VS-M*-1/9, *VS-K*-1/12, *KS*-1/5)
+- स्तुत᳓म् (*TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/3)
+- बृहता᳓ (*TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3, *KS*-6)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/36, *TK*-3/9, *AV*-15/49, *SB-M*-18/104, *SB-K*-19/106, *VS-M*-2/14, *VS-K*-2/15, *KS*-1/8)
+- ब᳓लम् (*TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21, *KS*-1/5)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- इ᳓न्द्रे (*TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/388, *VS-K*-22/358, *KS*-1/189)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ग्रीष्मे᳓ण (*MS*-1/9, *TS*-2/13, *RV*-0/1, *TB*-1/5, *TK*-0/3, *AV*-0/5, *SB-M*-0/38, *SB-K*-0/38, *VS-M*-1/6, *VS-K*-1/7)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- ऋतु᳓ना (*MS*-9/164, *TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/36)
+- रुद्राः᳓ (*MS*-28/168, *TS*-32/161, *RV*-11/99, *TB*-9/78, *TK*-0/2, *AV*-11/44, *SB-M*-38/110, *SB-K*-38/118, *VS-M*-18/53, *VS-K*-19/59)
+- पञ्चदशे᳓ (*MS*-1/25, *TS*-0/35, *RV*-0/2, *TB*-1/26, *TK*-0/3, *AV*-0/3, *SB-M*-2/45, *SB-K*-2/43, *VS-M*-1/9, *VS-K*-1/12)
+- स्तुत᳓म् (*MS*-9/17, *TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/11)
+- बृहता᳓ (*MS*-7, *TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- य᳓शसा (*MS*-6/24, *TS*-2/14, *RV*-0/24, *TB*-2/36, *TK*-3/9, *AV*-15/49, *SB-M*-18/104, *SB-K*-19/106, *VS-M*-2/14, *VS-K*-2/15)
+- ब᳓लम् (*MS*-22/32, *TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इ᳓न्द्रे (*MS*-14/711, *TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/392, *VS-K*-22/380)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -307,6 +399,11 @@ With Summer may the Rudras, Gods, praised in the Pañchadasa hymn With Brihat, g
 ग्रीष्मर्तुमा सहिता इन्द्राः पञ्चदशस्तोमे यशस्विना बृहत्साम्ना स्तुतं बलकरं हविर्वयश्चेन्द्रे दधुः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_5]** So corr. Ch रुद्रः (Thus emended; Ch reads रुद्रः)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा देवताः
@@ -373,6 +470,18 @@ With Summer may the Rudras, Gods, praised in the Pañchadasa hymn With Brihat, g
 May the Âdityas with the Rains, lauded in Saptadasa hymn And with Vairûpa, with folk, strength, give Indra sacrifice and life.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the rains as season the Ādityas, praised in the seventeenfold stoma;  
+with the Vairūpa, with clan-might, they placed the oblation, vigor, in Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the rains season the Ādityas placed the oblation, faculty, in Indra,  
+praised in the seventeenfold stoma, with the Vairūpa [sāman], with the power of the clans.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 व॒र्षाभि॑र्ऋ॒तुना॑दि॒त्या स्तोमे॑ सप्तद॒शे स्तु॒ताः।  
@@ -393,6 +502,18 @@ May the Âdityas with the Rains, lauded in Saptadasa hymn And with Vairûpa, wit
 ह॒विरिन्द्रे॒ वयो॑ दधुः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वर्षा᳓भिर् ऋतु᳓नादित्याः᳓ स्तो᳓मे सप्तदशे᳓ स्तुत᳓म्  
+वैरूपे᳓ण विशौ᳓जसा हवि᳓र् इ᳓न्द्रे व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वर्षाभिर्ऋतुनादित्यास्स्तोमे सप्तदशे स्तुतम्।  
+वैरूपेण विशौजसा हविरिन्द्रे वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 व॒र्षाभिः॑। ऋ॒तुना॑। आ॒दि॒त्याः। स्तोमे॑। स॒प्त॒द॒श इति॑ सप्तऽद॒शे। स्तु॒ताः। वै॒रू॒पेण॑। वि॒शा। ओज॑सा। ह॒विः। इन्द्रे॑। वयः॑। द॒धुः॒। २५।
@@ -406,6 +527,38 @@ May the Âdityas with the Rains, lauded in Saptadasa hymn And with Vairûpa, wit
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 वर्षा᳓भिः । ऋतु᳓ना । अदित्याः᳓ । स्तो᳓मे । सप्त-दशे᳓ । स्तुत᳓म् । वैरूपे᳓ण । विशौ᳓जसा । हविः᳓ । इ᳓न्द्रे । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वर्षा᳓भिः (*TS*-2/17, *RV*-0/2, *TB*-1/3, *TK*-0/3, *AV*-0/27, *SB-M*-0/75, *SB-K*-2/68, *VS-M*-1/6, *VS-K*-1/9, *KS*-0/6)
+- ऋतु᳓ना (*TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/35, *KS*-0/34)
+- आदित्याः᳓ (*TS*-48/195, *RV*-10/91, *TB*-16/131, *TK*-2/21, *AV*-22/71, *SB-M*-40/445, *SB-K*-44/438, *VS-M*-11/44, *VS-K*-16/58, *KS*-14/53)
+- स्तो᳓मे (*TS*-3/122, *RV*-3/206, *TB*-1/37, *AV*-0/44, *SB-M*-0/166, *SB-K*-0/166, *VS-M*-1/43, *VS-K*-1/51, *KS*-3/28)
+- सप्त-दशे᳓ (*TS*-0/40, *TB*-3/44, *TK*-0/2, *SB-M*-0/64, *SB-K*-1/63, *VS-M*-1/9, *VS-K*-1/10, *KS*-1/6)
+- स्तुत᳓म् (*TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/3)
+- वैरूपे᳓ण (*TS*-0/9, *TB*-1, *AV*-0/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/4, *VS-K*-1/5, *KS*-1/3)
+- विशौ᳓जसा (*TB*-1, *VS-K*-1)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- इ᳓न्द्रे (*TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/388, *VS-K*-22/358, *KS*-1/189)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वर्षा᳓भिः (*MS*-2/13, *TS*-2/17, *RV*-0/2, *TB*-1/3, *TK*-0/3, *AV*-0/27, *SB-M*-0/75, *SB-K*-2/68, *VS-M*-1/6, *VS-K*-1/9)
+- ऋतु᳓ना (*MS*-9/164, *TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/36)
+- आदित्याः᳓ (*MS*-32/229, *TS*-48/195, *RV*-10/91, *TB*-16/131, *TK*-2/21, *AV*-22/71, *SB-M*-40/445, *SB-K*-44/438, *VS-M*-11/44, *VS-K*-16/58)
+- स्तो᳓मे (*MS*-1/89, *TS*-3/122, *RV*-3/206, *TB*-1/37, *AV*-0/44, *SB-M*-0/166, *SB-K*-0/166, *VS-M*-1/45, *VS-K*-1/51)
+- सप्त-दशे᳓ (*MS*-1/33, *TS*-0/40, *TB*-3/44, *TK*-0/2, *SB-M*-0/64, *SB-K*-1/63, *VS-M*-1/9, *VS-K*-1/10)
+- स्तुत᳓म् (*MS*-9/17, *TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/11)
+- वैरूपे᳓ण (*MS*-1/11, *TS*-0/9, *TB*-1, *AV*-0/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/4, *VS-K*-1/5)
+- विशौ᳓जसा (*MS*-1, *TB*-1, *VS-K*-1)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इ᳓न्द्रे (*MS*-14/711, *TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/392, *VS-K*-22/380)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -533,6 +686,18 @@ May the Âdityas with the Rains, lauded in Saptadasa hymn And with Vairûpa, wit
 With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja, give with grace to Indra grace, life, sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the autumn season the gods, the Ṛbhus, praised in the twenty-onefold [stoma];  
+with the Vairāja, with splendor, they placed splendor, the oblation, vigor, in Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the autumn season the divine Ṛbhus placed the oblation, fortune, in Indra,  
+praised in the twenty-onefold [stoma], with the Vairāja [sāman], with splendour.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शा॒र॒देन॑ऽऋ॒तुना॑ दे॒वाऽए॑कविँ॒शऽऋ॒भव॑ स्तु॒ताः।  
@@ -553,6 +718,18 @@ With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja,
 ह॒विरिन्द्रे॒ वयो॑ दधुः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+शारदे᳓न ऋतु᳓ना देवा᳓ एकविँश᳓ ऋभ᳓वः स्तुत᳓म्  
+वैराजे᳓न श्रिया᳓ श्रि᳓यँ हवि᳓र् इ᳓न्द्रे व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+शारदेनर्तुना देवा एकविँश ऋृभवस्स्तुतम्।  
+वैराजेन श्रिया श्रियँ हविरिन्द्रे वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 शा॒र॒देन॑। ऋ॒तुना॑। दे॒वाः। ए॒क॒विँ॒श इत्ये॑कऽविँ॒शे। ऋ॒भवः॑। स्तु॒ताः। वै॒रा॒जेन॑। श्रि॒या। श्रिय॑म्। ह॒विः। इन्द्रे॑। वयः॑। द॒धुः॒। २६।
@@ -566,6 +743,39 @@ With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja,
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शारदे᳓न । ऋतु᳓ना । देवाः᳓ । एक-विंशः᳓ । ऋभ᳓वः । स्तुत᳓म् । वैराजे᳓न । श्रिया᳓ । श्रि᳓यम् । हविः᳓ । इ᳓न्द्रे । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- शारदे᳓नः (मूल-पाठः)
+- ऋतु᳓ना (*TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/35, *KS*-0/34)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- एक-विंशः᳓ (*TS*-32, *TB*-21, *TK*-2, *AV*-1, *SB-M*-51, *SB-K*-51, *VS-M*-4, *VS-K*-1, *KS*-4)
+- ऋभ᳓वः (*TS*-1, *RV*-24/64, *TB*-1/3, *AV*-3/7, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/3)
+- स्तुत᳓म् (*TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/3)
+- वैराजे᳓न (*TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5/6, *TK*-4, *AV*-4/5, *SB-M*-16/28, *SB-K*-16/33, *VS-M*-4/6, *VS-K*-2/4, *KS*-0/1)
+- श्रि᳓यम् (*TS*-7, *RV*-15/33, *TB*-15/16, *TK*-2, *AV*-14/15, *SB-M*-60/64, *SB-K*-64/69, *VS-M*-7/8, *VS-K*-7/8, *KS*-4/7)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- इ᳓न्द्रे (*TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/388, *VS-K*-22/358, *KS*-1/189)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शारदे᳓न (*MS*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- ऋतु᳓ना (*MS*-9/164, *TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/36)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- एक-विंशः᳓ (*MS*-14, *TS*-32, *TB*-21, *TK*-2, *AV*-1, *SB-M*-51, *SB-K*-51, *VS-M*-4, *VS-K*-1)
+- ऋ᳓ृभवस्स्तुतम् (अनाम्नातम् (अनुमानम्))
+- वैराजे᳓न (*MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श्रिया᳓ (*MS*-3/10, *TS*-0/3, *RV*-14/48, *TB*-5/6, *TK*-4, *AV*-4/5, *SB-M*-16/28, *SB-K*-16/33, *VS-M*-4/6, *VS-K*-2/4)
+- श्रि᳓यम् (*MS*-9, *TS*-7, *RV*-15/33, *TB*-15/16, *TK*-2, *AV*-14/15, *SB-M*-60/64, *SB-K*-64/69, *VS-M*-7/8, *VS-K*-7/8)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इ᳓न्द्रे (*MS*-14/711, *TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/392, *VS-K*-22/380)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -721,6 +931,18 @@ With Autumn may the Ribhus, Gods, praised in the Ekavimsa hymn And with Virâja,
 With Dew-time may the deathless Gods praised in the Thirty-three-part laud, The Revatîs, with truth give sway to Indra, sacrifice and life.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the dewy season the gods, in the thirty-threefold [stoma], praised the immortal;  
+with truth the Revatī [verses], dominion, they placed the oblation, vigor, in Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the dewy season the gods placed the oblation, dominion, in Indra,  
+praised in the thirty-threefold [stoma], with immortality, with truth, with the Revatī [verses].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 शै॒शि॒रेण॑ऽऋ॒तुना॑ दे॒वास्त्र॑यस्त्रिँ॒शे᳙ऽमृता॑ स्तु॒ताः।  
@@ -741,6 +963,18 @@ With Dew-time may the deathless Gods praised in the Thirty-three-part laud, The 
 ह॒विरिन्द्रे॒ वयो॑ दधुः ॥ 89॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+शैशिरे᳓ण ऋतु᳓ना देवा᳓स् त्रयस्त्रिँशे᳙ ऽमृ᳓तँ स्तुत᳓म्  
+सत्ये᳓न रेव᳓तीः क्षत्रँ᳓ हवि᳓र् इ᳓न्द्रे व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+शैशिरेणर्तुना देवास्त्रयस्त्रिँशे ऽमृतँ स्तुतम्।  
+सत्येन रेवतीः क्षत्रँ हविरिन्द्रे वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 शै॒शि॒रेण॑। ऋ॒तुना॑। दे॒वाः। त्र॒य॒स्त्रिँ॒श इति॑ त्रयःऽत्रिँ॒शे। अ॒मृताः॑। स्तु॒ताः। स॒त्येन॑। रे॒वतीः॑। क्ष॒त्रम्। ह॒विः। इन्द्रे॑। वयः॑। द॒धुः॒। २८।
@@ -754,6 +988,40 @@ With Dew-time may the deathless Gods praised in the Thirty-three-part laud, The 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शैशिरे᳓ण । ऋतु᳓ना । देवाः᳓ । त्रयस्-त्रिंशे᳓ । अ-मृ᳓तम् । स्तुत᳓म् । सत्ये᳓न । रेव᳓तीः । क्षत्र᳓म् । हविः᳓ । इ᳓न्द्रे । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- शैशिरे᳓णः (मूल-पाठः)
+- ऋतु᳓ना (*TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/35, *KS*-0/34)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- त्रयस्-त्रिंशे᳓ (*TS*-0/25, *TB*-1/2, *TK*-0/1, *AV*-0/1, *SB-M*-0/19, *SB-K*-1/22, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/3)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/59, *KS*-19/30)
+- स्तुत᳓म् (*TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/3)
+- सत्ये᳓न (*TS*-4/77, *RV*-5/133, *TB*-10/68, *TK*-1/44, *AV*-7/71, *SB-M*-21/187, *SB-K*-21/184, *VS-M*-2/36, *VS-K*-2/41, *KS*-3/24)
+- रेव᳓तीः (*TS*-6/10, *RV*-4/7, *TB*-3/12, *AV*-3/5, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-2/3, *VS-K*-1/3, *KS*-2/3)
+- क्षत्र᳓म् (*TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/54, *KS*-30/41)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- इ᳓न्द्रे (*TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/388, *VS-K*-22/358, *KS*-1/189)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शैशिरे᳓ण (*MS*-1/3, *TS*-0/4, *TB*-1, *AV*-0/2, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-1/3, *VS-K*-1)
+- ऋतु᳓ना (*MS*-9/164, *TS*-11/226, *RV*-8/38, *TB*-6/90, *TK*-0/13, *AV*-4/60, *SB-M*-4/429, *SB-K*-5/426, *VS-M*-7/44, *VS-K*-6/36)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- त्रयस्-त्रिंशे᳓ (*MW* ŚBr., *Macdonell*, *MS*-2/7, *TS*-0/25, *TB*-1/2, *TK*-0/1, *AV*-0/1, *SB-M*-0/19, *SB-K*-1/22, *VS-M*-1/4, *VS-K*-1/4)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- स्तुत᳓म् (*MS*-9/17, *TS*-7/21, *RV*-0/40, *TB*-7/9, *AV*-1/4, *SB-M*-3/13, *SB-K*-5/13, *VS-M*-0/11, *VS-K*-0/11)
+- सत्ये᳓न (*MS*-13/103, *TS*-4/77, *RV*-5/133, *TB*-10/68, *TK*-1/44, *AV*-7/71, *SB-M*-21/187, *SB-K*-21/184, *VS-M*-2/36, *VS-K*-2/47)
+- रेव᳓तीः (*MS*-8/16, *TS*-6/10, *RV*-4/7, *TB*-3/12, *AV*-3/5, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-2/3, *VS-K*-1/3)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- इ᳓न्द्रे (*MS*-14/711, *TS*-3/497, *RV*-33/1345, *TB*-27/363, *TK*-0/8, *AV*-11/606, *SB-M*-3/535, *SB-K*-2/509, *VS-M*-25/392, *VS-K*-22/380)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -828,6 +1096,11 @@ With Dew-time may the deathless Gods praised in the Thirty-three-part laud, The 
 शैशिरर्तुसहिता देवास्त्रयस्त्रिंशाख्ये स्तोमे सत्येन सत्यवाक्येन हेतुना रेवतीः रेवत्याख्येन साम्ना स्तुतं अमृतं अविनश्वरं क्षत्रं बलप्रदं हविर्वयश्चेन्द्रे दधुः ॥
 
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके एकोनविंशोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 12; VS 21, 23—28; TBr. 2, 6, 19.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

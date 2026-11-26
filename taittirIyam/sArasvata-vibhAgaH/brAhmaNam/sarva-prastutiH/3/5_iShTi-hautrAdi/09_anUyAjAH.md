@@ -3,6 +3,7 @@ title: ०९ अनूयाजाः
 unicode_script: devanagari
 
 ---
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓म् बर्हिः᳓ ।  
@@ -61,16 +62,17 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/5_iShTi-hautrAdi/09_anUyAjAH/03_devo_agnissviShTakRt_sudraviNA.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 देवो᳓ अग्नि᳓स्स्विष्टकृ᳓त् ।  
 सुद्र᳓विणा मन्द्रᳵ᳓ कविः᳓ ।  
 सत्य᳓मन्मा यजी᳓ हो᳓ता ।  
 हो᳓तुर् होतुर् आ᳓यजीयान् ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/5_iShTi-hautrAdi/09_anUyAjAH/03_devo_agnissviShTakRt_sudraviNA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
 दे॒वो अ॒ग्निस्स्वि॑ष्ट॒कृत् ।  
@@ -86,11 +88,16 @@ unicode_script: devanagari
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-सुद्रविणाः शोभनधनः सकारान्तं शब्दान्तरमिदम् । मन्द्रः मन्दनशीलः मन्दयिता वा सर्वेषां, कविः क्रान्तदशनः, सत्यमन्मा सत्यमनसः, अमोघमतिः, आयजी मर्यादया यथाविधानं‍ यष्टा, होतुर्होतुः सर्वस्मात् अन्यस्माद्धोतुः आयजीयान् अतिशयेनायष्टा, 'तुश्छदसि' इति आयष्टृशब्दात् ईयसुन् ।  
-</details>
+सुद्रविणाः शोभनधनः सकारान्तं शब्दान्तरमिदम् । मन्द्रः मन्दनशीलः मन्दयिता वा सर्वेषां, कविः क्रान्तदशनः, सत्यमन्मा सत्यमनसः, अमोघमतिः, आयजी मर्यादया यथाविधानं‍ यष्टा, होतुर्होतुः सर्वस्मात् अन्यस्माद्धोतुः आयजीयान् अतिशयेनायष्टा, 'तुश्छदसि' इति आयष्टृशब्दात् ईयसुन् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine Agni Sviṣṭakṛt, rich in wealth, delightful, a sage,  
+true in thought, sacrificing, a Hotṛ better at sacrificing than any Hotṛ:
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने या᳓न् देवा᳓न् अ᳓याट्,  
 याँ᳓ अ᳓पिप्रेः ,  

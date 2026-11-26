@@ -488,6 +488,12 @@ víśvam ← víśva- (nominal stem)
 विश्व॑न्दृ॒ढम्भ॑यत॒ एज॑दस्मात् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अयँ᳓ शृण्वे अ᳓ध ज᳓यन्न् उत᳓ घ्न᳓न्न् अय᳓म् उत᳓ प्र᳓कृणुते युधा᳓ गाः᳓  
+यदा᳓ सत्यं᳓ कृणुते᳓ मन्यु᳓म् इ᳓न्द्रो वि᳓श्वं दृढं᳓ भयता ए᳓जद् अस्मात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । शृ॒ण्वे॒ । अध॑ । जय॑न् । उ॒त । घ्नन् । अ॒यम् । उ॒त । प्र । कृ॒णु॒ते॒ । यु॒धा । गाः ।  
@@ -497,6 +503,33 @@ víśvam ← víśva- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अय᳓म् । शृण्वे । अ᳓ध । ज᳓यन् । उत᳓ । घ्न᳓न् । अय᳓म् । उत᳓ । प्र᳓ । कृणुते । युधा᳓ । गाः᳓ । यदा᳓ । सत्य᳓म् । कृणुते᳓ । मन्यु᳓म् । इ᳓न्द्रः । वि᳓श्वम् । दृढ᳓म् । भयते । ए᳓जत् । अस्मात् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अय᳓म् (*TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301, *KS*-45/319)
+- शृण्वे (*TS*-2, *RV*-10, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अ᳓ध (*TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19, *KS*-6/7)
+- ज᳓यन् (*TS*-1, *RV*-6, *TB*-2, *TK*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-2)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-55)
+- घ्न᳓न् (*TS*-2, *RV*-8, *TB*-1, *AV*-2, *SB-M*-5, *SB-K*-4, *KS*-1)
+- अय᳓म् (*TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301, *KS*-45/319)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-55)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195, *KS*-205)
+- कृणुते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-28, *TB*-2, *AV*-13, *SB-K*-1, *VS-M*-3, *VS-K*-3, *KS*-2)
+- युधा᳓ (*TS*-2, *RV*-19, *TB*-1, *AV*-7, *VS-M*-1, *VS-K*-1, *KS*-2)
+- गाः᳓ (*TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/67, *VS-K*-3/67, *KS*-6/37)
+- यदा᳓ (*TS*-16, *RV*-40, *TB*-23, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-5, *KS*-13)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47, *KS*-13/24)
+- कृणुते᳓ (*TS*-0/1, *RV*-10/12, *TB*-2, *AV*-0/2, *VS-K*-0/1)
+- मन्यु᳓म् (*TS*-5/17, *RV*-18/53, *TB*-6/14, *TK*-0/2, *AV*-8/35, *SB-M*-1/6, *SB-K*-1/6, *VS-M*-3/13, *VS-K*-3/14, *KS*-1/5)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-72/189)
+- वि᳓श्वम् (*TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-29/225, *VS-K*-22/224, *KS*-14/118)
+- दृढ᳓म् (*TS*-1/3, *RV*-8/27, *TB*-1/5, *AV*-1/4, *SB-M*-1)
+- भय (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-4, *KS*-3)
+- ए᳓जत् (*TS*-0/1, *RV*-5/8, *TB*-2, *AV*-6/11, *SB-M*-3/7, *SB-K*-3/7, *VS-M*-1, *VS-K*-1/2, *KS*-1)
+- अस्मात् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-35, *RV*-6, *TB*-28, *SB-M*-63, *SB-K*-67, *VS-M*-1, *VS-K*-1, *KS*-13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -685,7 +718,7 @@ And this one is famed for conquering and smiting, and this one brings  the cows 
 When Indra makes his fury real, everything, both what stays firm and  what flinches, becomes afraid before him.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -700,6 +733,12 @@ This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10
 
 Renowned is he when conquering and when slaying: 'fis he who winneth cattle in the combat.  
      When Indra hardeneth his indignation all that is fixed and all that moveth fear him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is heard of, winning and striking; he also brings forth the cattle in battle.  
+When Indra makes his fury true, everything firm trembles and quakes before him.
 </details>
 
 <details><summary>Geldner</summary>
@@ -884,6 +923,12 @@ hánmanā ← hánman- (nominal stem)
 हन्म॑नाहन्न॒भिद्यून् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓नु स्वधा᳓म् अक्षरन्न् आ᳓पो अस्या᳓वर्धत म᳓ध्या आ᳓ नाव्या᳙नाम्  
+सध्रीची᳓नेन म᳓नसा त᳓म् इ᳓न्द्रा ओ᳓जिष्ठेन ह᳓न्मनाहन्न् अभि᳓ द्यू᳓न्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अनु॑ । स्व॒धाम् । अ॒क्ष॒र॒न् । आपः॑ । अ॒स्य॒ । अव॑र्धत । मध्ये॑ । आ । ना॒व्या॑नाम् ।  
@@ -893,6 +938,30 @@ hánmanā ← hánman- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓नु । सु । अधा᳓म् । अक्षरन् । आ᳓पः । अस्य । अ᳓वर्धत । म᳓ध्ये । आ᳓ । नाव्या᳙नाम् । सध्रीची᳓नेन । म᳓नसा । त᳓म् । इन्द्रः । ओ᳓जिष्ठेन । ह᳓न्मना । अहन् । अभि᳓ । द्यू᳓न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116, *KS*-96)
+- सु (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-1, *TB*-13, *TK*-1, *SB-M*-7, *SB-K*-4, *VS-K*-1, *KS*-9)
+- अधा᳓म् (*TS*-0/2, *RV*-0/5, *TB*-8/11, *TK*-0/1, *AV*-0/3, *SB-M*-0/27, *SB-K*-0/30, *VS-M*-0/2, *VS-K*-0/3, *KS*-2/4)
+- अक्षरन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-14, *TB*-1, *AV*-1)
+- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124, *KS*-34/99)
+- असि᳓ (*TS*-4/96, *RV*-3/12, *TB*-4/41, *TK*-1/5, *AV*-1/61, *SB-M*-9/325, *SB-K*-12/319, *VS-M*-1/13, *VS-K*-6/10, *KS*-5/18)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10, *KS*-122)
+- अवर्धत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *TB*-1, *AV*-1)
+- म᳓ध्याः (*TS*-0/45, *RV*-0/38, *TB*-0/13, *TK*-0/5, *AV*-0/31, *SB-M*-0/146, *SB-K*-0/143, *VS-M*-0/18, *VS-K*-0/14, *KS*-0/14)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- नाव्या᳙नाम् (*RV*-2, *TB*-1)
+- सध्रीची᳓नेन (*RV*-2, *TB*-1)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-19/50)
+- त᳓म् (*TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660, *KS*-117/1225)
+- इ᳓न्द्राः (*TS*-0/497, *RV*-0/1345, *TB*-0/363, *TK*-0/8, *AV*-0/606, *SB-M*-0/535, *SB-K*-2/509, *VS-M*-0/392, *VS-K*-0/380, *KS*-0/189)
+- ओ᳓जिष्ठेन (*RV*-1, *TB*-1)
+- ह᳓न्मना (*RV*-5, *TB*-1)
+- अहन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-14, *RV*-12, *TB*-16, *AV*-3, *SB-M*-9, *SB-K*-8, *KS*-3)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111, *KS*-76)
+- द्यू᳓न् (*TS*-4/6, *RV*-26/51, *TB*-1/3, *AV*-1/4, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-1/6, *VS-K*-1/6, *KS*-3/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1056,6 +1125,12 @@ However, pace Renou’s “pour toujours” (which is, in any event, not equival
 
 The waters flowed according to their nature; he raid the navigable streams waxed mighty.  
      Then Indra, with his spirit concentrated, smote him for ever with his strongest weapon.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In accordance with his own power the waters flowed; he grew in the midst of navigable rivers.  
+With concordant mind, with his most powerful stroke, Indra struck him across the days.
 </details>
 
 <details><summary>Geldner</summary>

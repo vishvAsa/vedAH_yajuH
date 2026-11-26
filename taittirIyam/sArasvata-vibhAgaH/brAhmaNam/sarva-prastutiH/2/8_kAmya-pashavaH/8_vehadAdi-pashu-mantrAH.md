@@ -3229,7 +3229,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -3241,7 +3241,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Whitney</summary>
@@ -3287,6 +3287,21 @@ He hath revealed its fundamental nearest forms,
 The womb of being and of not being.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacred formulation born first in the east, the eager one has unveiled from the boundary of brilliant light;  
+he has revealed its lowest stations, its highest, the womb of the existent and of the nonexistent.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The prayer born first in the east, Vena uncovered from the shining boundary;  
+he revealed its bottom-most, highest stations, the womb of the existent and of the nonexistent.
+
+The holy power that was first born in the east, Vena has uncovered from the brilliant horizon;  
+he uncovered its highest and lowest stations, the womb of being and of non-being.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
@@ -3319,6 +3334,15 @@ The womb of being and of not being.
 स बु॒ध्निया॑ उप॒मा अ॑स्य वि॒ष्ठास्स॒तश्च॒ योनि॒मस॑तश्च॒ विवः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ब्रह्म जज्ञानं प्रथमं पुरस्ताद्वि सीमतस्सुरुचो वेन आवः।  
+स बुध्या उपमा अस्य विष्ठास्सतश्च योनिमसतश्च वि वः
+
+ब्र᳓ह्म जज्ञानं᳓ प्रथमं᳓ पुर᳓स्ताद्वि᳓ सीमत᳓ससुरु᳓चो वेन᳓ आवः।  
+स᳓ बुद्ध्याृ उपमा᳓ अस्य विष्ठा᳓स्सत᳓श्च यो᳓निम᳓सतश्च वि᳓वः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 बह्म॑। ज॒ज्ञा॒नम्। प्र॒थ॒मम्। पु॒रस्ता॑त्। वि। सी॒म॒तः। सु॒ऽरुचः॑। वे॒नः। आ॒वः॒। सः। बु॒ध्न्याः᳡। उ॒प॒ऽमाः। अ॒स्य॒। वि॒ऽस्थाः। स॒तः। च॒। योनि॑म्। अस॑तः। च॒। वि। वः॒। १.१।
@@ -3337,6 +3361,31 @@ The womb of being and of not being.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ब्रह्म॑ । ज॒ज्ञा॒नम् । प्र॒थ॒मम् । पु॒रस्ता॑त् । वीति॑ । सी॒म॒तः । सु॒रुच॒ इति॑ सु-रुचः॑ । वे॒नः । आ॒वः॒ ॥ सः । बु॒ध्नियाः॑ । उ॒प॒मा इत्यु॑प-माः । अ॒स्य॒ । वि॒ष्ठा इति॑ वि-स्थाः । स॒तः । च॒ । योनि॑म् । अस॑तः । च॒ । विवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ब्र᳓ह्म (*MS*-115/230, *TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51)
+- जज्ञान᳓म् (*MS*-3/5, *TS*-4/7, *RV*-8/25, *TK*-1/2, *AV*-2/7, *SB-M*-4/6, *SB-K*-4/6, *VS-M*-2/6, *VS-K*-3/7)
+- प्रथम᳓म् (*MS*-32/106, *TS*-35/95, *RV*-55/170, *TB*-14/41, *TK*-1/7, *AV*-23/109, *SB-M*-74/287, *SB-K*-69/272, *VS-M*-10/38, *VS-K*-11/39)
+- पुर᳓स्तात् (*MS*-110, *TS*-115, *RV*-32, *TB*-65, *TK*-3, *AV*-39, *SB-M*-305, *SB-K*-296, *VS-M*-9, *VS-K*-9)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- सीमतः᳓ (*MS*-1, *TS*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- सु-रु᳓चः (*MS*-1, *TS*-1, *RV*-5/9, *AV*-3/4, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- वेनः᳓ (*MS*-2, *TS*-2, *RV*-7/18, *AV*-5/6, *SB-M*-5, *SB-K*-5/8, *VS-M*-7/8, *VS-K*-4/10)
+- आवः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-20, *AV*-7, *VS-K*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- बुध्याः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- उप-माः᳓ (*MS*-1/2, *TS*-1, *RV*-0/23, *TB*-0/1, *AV*-2/6, *SB-M*-2, *SB-K*-2/3, *VS-M*-1, *VS-K*-2)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- वि-ष्ठाः᳓ (*MS*-2/6, *TB*-1, *SB-M*-4, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- सतः᳓ (*MS*-3/5, *TS*-3/5, *RV*-16/21, *TB*-1/2, *AV*-4, *SB-M*-17/18, *SB-K*-15, *VS-M*-3, *VS-K*-4/5)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- अ᳓सतः (*MS*-2/12, *TS*-3/23, *RV*-4/44, *TB*-2/7, *AV*-4/31, *SB-M*-3/35, *SB-K*-4/34, *VS-M*-1/10, *VS-K*-2/14)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -3495,6 +3544,11 @@ The womb of being and of not being.
 शुचाऽर्पयेत्संतापेन योजयेत् ।   तस्मिन्संतापे सति लोकत्रये दोषास्तद्व्या-वृत्तये वह्नेराधारत्वेन रुक्ममुपदध्यात् ।   हिरण्यस्याग्निसंपर्केऽपि विनाशाभावात्तस्मि-न्नमृते हिरण्येऽग्निं चितवान्भवति ।   अयमेव रुक्मोपधानविधिरिति यदि स्वीक्रियेत तदानीमेतदनुवादेन पूर्वो मन्त्रमात्रविधिः ।   यदि तु स एव विशिष्टविधिस्तदानीमर्थवाद-संबन्धाय स एवानूद्यात इति द्रष्टव्यम् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[581_7]** W 2 मा᳓स॰; desgl. Ch, ohne Acc. ; vgl. Kâṭh. 16, 15; 20, 5; MS 2, 7, 15; TS 4, 2, 8, 2. (W 2 मा᳓स॰; likewise Ch, without accent; cf. Kâṭh. 16, 15; 20, 5; MS 2, 7, 15; TS 4, 2, 8, 2.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  जो (पुरस्तात्) सृष्टि की आदि में (जज्ञानम्) सब का उत्पादक और ज्ञाता (प्रथमम्) विस्तारयुक्त और विस्तारकर्ता (ब्रह्म) सब से बड़ा जो (सुरुचः) सुन्दर प्रकाशयुक्त और सुन्दर रुचि का विषय (वेनः) ग्रहण के योग्य जिस (अस्य) इस के (बुध्न्याः) जल सम्बन्धी आकाश में वर्तमान सूर्य, चन्द्रमा, पृथिवी और नक्षत्र आदि (विष्ठाः) विविध स्थलों में स्थित (उपमाः) ईश्वर ज्ञान के दृष्टान्त लोक हैं, उन सब को (सः) वह (आवः) अपनी व्याप्ति से आच्छादन करता है, वह ईश्वर (विसीमतः) मर्य्यादा से (सतः) विद्यमान देखने योग्य (च) और (असतः) अव्यक्त (च) और कारण के (योनिम्) आकाशरूप स्थान को (विवः) ग्रहण करता है, उसी ब्रह्म की उपासना सब लोगों को नित्य अवश्य करनी चाहिये ॥३ ॥
@@ -3536,7 +3590,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3549,7 +3603,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/17_pitA_virAjAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3576,7 +3630,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3589,7 +3643,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/21_brahma_devAn.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3616,7 +3670,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3629,7 +3683,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/25_antar_asminn.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3656,7 +3710,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3669,7 +3723,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/29_brahman_devAs.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3696,7 +3750,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3709,7 +3763,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/33_chatasra_AshApH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3739,7 +3793,7 @@ The womb of being and of not being.
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/01_A_gAvo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/01_A_gAvo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3751,7 +3805,7 @@ The womb of being and of not being.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -4104,7 +4158,7 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/02_indro_yajvane.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/02_indro_yajvane.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4117,7 +4171,7 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो गावो वा
@@ -4508,7 +4562,7 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6/63_na_tA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/6/63_na_tA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4521,7 +4575,7 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/03_na_tA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/03_na_tA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4928,7 +4982,7 @@ Nicht schwinden sie und nicht verletzt ein Räuber sie, an ihre Gänge waget sic
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/04_na_tA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/04_na_tA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4941,7 +4995,7 @@ Nicht schwinden sie und nicht verletzt ein Räuber sie, an ihre Gänge waget sic
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -5209,6 +5263,11 @@ ___________________
 **ता गाव उरुगायं** विस्तीर्णगतियोग्यं भयरहितं स्थानं प्राप्य **विचरन्ति** विस्रम्भेण चरन्ति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[198_5]** D मर्त्यस्य
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -5247,6 +5306,12 @@ The word order in pāda b is somewhat aberrant. The fem. pl. subj. tā́(ḥ) oc
 
 The charger with his dusty brow o'ertakes them not, and never to the shambles do they take their way.  
      These Cows, the cattle of the pious worshipper, roam over widespread pasture where no danger is.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The horse throwing up dust in the nape of the neck does not overtake them, nor do they go to the slaughter-bench;  
+following the far-striding, fearless [path] of that mortal who sacrifices, the cows wander.
 </details>
 
 <details><summary>Geldner</summary>
@@ -5324,7 +5389,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/34_gAvo_bhago.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/34_gAvo_bhago.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -5337,7 +5402,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/05_gAvo_bhago.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/05_gAvo_bhago.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5450,10 +5515,42 @@ mánasā ← mánas- (nominal stem)
 इ॒च्छामीद्धृ॒दा मन॑सा चि॒दिन्द्र॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+गा᳓वो भ᳓गो गा᳓व इ᳓न्द्रो मे अच्छान्गा᳓वस्सो᳓मस्य प्रथम᳓स्य भक्षः᳓।  
+इमा᳓ या गा᳓वस्स᳓ जनास इ᳓न्द्र इच्छा᳓मी᳓द्धृदा᳓ म᳓नसा चिदि᳓न्द्रम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 गावः॑ । भगः॑ । गावः॑ । इन्द्रः॑ । मे॒ । अ॒च्छा॒न् । गावः॑ । सोम॑स्य । प्र॒थ॒मस्य॑ । भ॒क्षः ।  
 इ॒माः । याः । गावः॑ । सः । ज॒ना॒सः॒ । इन्द्रः॑ । इ॒च्छामि॑ । इत् । हृ॒दा । मन॑सा । चि॒त् । इन्द्र॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- भ᳓गः (*MS*-16/33, *TS*-4/13, *RV*-63/115, *TB*-4/23, *TK*-0/1, *AV*-30/65, *SB-M*-6/23, *SB-K*-5/17, *VS-M*-8/26, *VS-K*-6/26)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- अच्छान् (*RV*-2)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- सो᳓मस्य (*MS*-59/396, *TS*-38/294, *RV*-118/728, *TB*-20/198, *TK*-0/4, *AV*-26/214, *SB-M*-42/443, *SB-K*-34/436, *VS-M*-18/130, *VS-K*-17/112)
+- प्रथम᳓स्य (*MS*-2/106, *TS*-2/95, *RV*-6/170, *TB*-1/41, *TK*-0/7, *AV*-5/109, *SB-M*-1/287, *SB-K*-0/272, *VS-M*-0/38, *VS-K*-0/39)
+- भक्षः᳓ (*MS*-1/2, *TS*-3/5, *RV*-2/8, *TB*-0/3, *TK*-2, *AV*-2/7, *SB-M*-12/27, *SB-K*-12/29, *VS-M*-2/5, *VS-K*-2/5)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- या (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-15, *RV*-1, *TB*-6, *TK*-2, *SB-M*-1, *SB-K*-4, *VS-M*-4, *VS-K*-3, *MS*-6)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- जनासः (*TS*-1, *RV*-19, *AV*-19)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- इच्छा᳓मि (*RV*-1, *AV*-1)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- हृदा᳓ (*MS*-10/19, *TS*-6/16, *RV*-21/65, *TB*-4/5, *AV*-6/40, *SB-M*-1/9, *SB-K*-1/11, *VS-M*-4/10, *VS-K*-3/6)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5626,6 +5723,13 @@ _________
 हे गावः यूयं कृशं चित् कृशमपि पुरुषं वत्सं वा **मेदयथा** मेदस्विनं पुष्टं कुरुत । अश्लीलं चित् अश्लीलं कुरूपमपि पुरुषं **सुप्रतीकं कृणुथ** घृतादिना पोषयित्वा शोभनावयवं कुरुत । **भद्रवाचः** कल्याणवाचो गावो गृहं भद्रं कुणुथ हम्भारवयुक्ताभिर्गोभिर्वत्सैश्च संपूर्णं गृहं रमणीयं भासते । हे गावः **वः** युष्मदीयं **वयः** अन्नं क्षीरघृतादिकं सभासु यज्ञशालासु बृहदुच्यते महत्त्वेन प्रस्तूयते ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[198_3]** Ch भागो
+
+- **[198_4]** Brl und T1 म (Brl and T1 म)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -5656,6 +5760,12 @@ In c the phrase sá janāsa índraḥ must be a deliberate echo of the famous re
 
 To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first-poured Soma.  
      These present Cows, they, O ye Indra. I long for Indra with my heart and spirit.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cows are Bhaga, cows are Indra to me; cows are the first draught of Soma.  
+These cows are Indra, O people! With heart, with mind indeed, do I desire Indra.
 </details>
 
 <details><summary>Geldner</summary>
@@ -5727,7 +5837,7 @@ Die Kühe dünken Bhaga mir und Indra, die Kühe sind des besten Soma Antheil; W
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/06_yUyaM_gAvo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/028/06_yUyaM_gAvo.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5740,7 +5850,7 @@ Die Kühe dünken Bhaga mir und Indra, die Kühe sind des besten Soma Antheil; W
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -6095,7 +6205,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/38_prajAvatIH_.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/38_prajAvatIH_.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -6108,7 +6218,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/07_prajAvatIH_sUyavasaM.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/07_prajAvatIH_sUyavasaM.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -6466,7 +6576,7 @@ An Kälbern reich, abweidend schöne Wiesen, an guter Tränke reines Wasser trin
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/41_upedam_upaparchanam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_27-33_A_gAvo/41_upedam_upaparchanam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -6479,7 +6589,7 @@ An Kälbern reich, abweidend schöne Wiesen, an guter Tränke reines Wasser trin
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/08_upedamupaparchanamAsu_goShUpa.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/08_upedamupaparchanamAsu_goShUpa.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>

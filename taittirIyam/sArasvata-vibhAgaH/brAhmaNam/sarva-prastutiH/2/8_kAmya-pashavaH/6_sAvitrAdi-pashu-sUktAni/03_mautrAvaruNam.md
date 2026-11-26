@@ -112,6 +112,12 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 वृ॒ष्टिर्दि॒व्या सु॑पा॒रा ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓ वां मित्रावरुणा हव्य᳓दातिं न᳓मसा देवा अ᳓वसा ववृत्याम्  
+अस्मा᳓कं ब्र᳓ह्म पृ᳓तनासु सह्या अस्मा᳓कँ वृष्टि᳓र् दिव्या᳓ सुपारा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वा॒म् । मि॒त्रा॒व॒रु॒णा॒ । ह॒व्यऽजु॑ष्टिम् । नम॑सा । दे॒वौ॒ । अव॑सा । व॒वृ॒त्या॒म् ।  
@@ -121,6 +127,26 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓ । वाम् । मित्रा-वरुणा । हव्य᳓-जुष्टिम् । न᳓मसा । देवौ । अ᳓वसा । ववृत्याम् । अस्मा᳓कम् । ब्र᳓ह्म । पृ᳓तनासु । सह्याः । अस्मा᳓कम् । वृष्टिः᳓ । दिव्या᳓ । सु-पारा᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15, *KS*-19)
+- मित्रा-वरुणा (*TS*-6, *RV*-48, *TB*-6, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4, *KS*-6)
+- हव्य᳓-दातिम् (*TS*-1, *RV*-6/17, *TB*-3, *AV*-2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-0/1, *KS*-3/4)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/168, *KS*-6/305)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19, *KS*-24)
+- अ᳓वसा (*TS*-4/22, *RV*-57/279, *TB*-4/15, *AV*-4/24, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-5/24, *VS-K*-4/18, *KS*-2/12)
+- ववृत्याम् (*RV*-8, *TB*-1, *AV*-1)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274, *KS*-12/242)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51, *KS*-25/53)
+- पृ᳓तनासु (*TS*-5/20, *RV*-35/54, *TB*-5/13, *AV*-10/24, *SB-M*-3/6, *SB-K*-3/6, *VS-M*-3/5, *VS-K*-2/5, *KS*-3/6)
+- सह्याः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TB*-1)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274, *KS*-12/242)
+- वृष्टिः᳓ (*TS*-3/24, *RV*-8/52, *TB*-1/3, *TK*-0/1, *AV*-3, *SB-M*-1/9, *SB-K*-1/11, *VS-M*-0/4, *VS-K*-0/13, *KS*-5/8)
+- दिव्या᳓ (*TS*-2/33, *RV*-11/98, *TB*-1/15, *AV*-2/47, *SB-M*-5/23, *SB-K*-5/20, *VS-M*-2/20, *VS-K*-1/21, *KS*-1/11)
+- सु-पारा᳓ (*TS*-2, *RV*-2/10, *TB*-1, *AV*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -285,6 +311,12 @@ In cd the two fronted asmā́kam have somewhat different uses, which are not suf
 
 Gods, Mitra-Varuna, with love and worship, let me make you delight in this oblation.  
      May our prayer be victorious in battles, may we have rain from heaven to make us prosper.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With homage, with assistance, O god Mitra and Varuṇa, may I turn toward us your gift of oblations.  
+May our sacred formulation overcome in battles; may our heavenly rain be easy to cross over.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1921,6 +1953,12 @@ Hearken, O Mitra and Varuna, to these my supplications.
 
 Stretch forth your arms and let our lives be lengthened: with fatness dew the pastures of our cattle.  
      Ye Youthful, make us famed among the people: hear, Mitra-Varuna, these mine invocations.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stretch forth your arms for our life; sprinkle our pasture with ghee;  
+make us famous among the people, O young pair; hear this call of mine, O Mitra and Varuṇa!
 </details>
 
 <details><summary>Geldner</summary>

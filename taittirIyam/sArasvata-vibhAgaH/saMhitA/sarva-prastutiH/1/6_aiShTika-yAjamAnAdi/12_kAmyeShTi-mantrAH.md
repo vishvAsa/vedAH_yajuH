@@ -428,6 +428,12 @@ vrajé ← vrajá- (nominal stem)
 शूरो॒ नृषा॑ता॒ शव॑सश्चका॒न आ गोम॑ति व्र॒जे भ॑जा॒ त्वं नः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रं न᳓रो नेम᳓धिता हवन्ते य᳓त् पा᳓र्या युन᳓जते धि᳓यस् ताः᳓  
+शू᳓रो नृ᳓षाता श्र᳓वसश् चकान᳓ आ᳓ गो᳓मति व्रजे᳓ भजा त्वं᳓ नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑म् । नरः॑ । ने॒मऽधि॑ता । ह॒व॒न्ते॒ । यत् । पार्याः॑ । यु॒नज॑ते । धियः॑ । ताः ।  
@@ -437,6 +443,29 @@ vrajé ← vrajá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इन्द्र॑म् । नरः॑ । ने॒मधि॒तेति॑ ने॒म-धि॒ता॒ । ह॒व॒न्ते॒ । यत् । पार्याः॑ । यु॒नज॑ते । धियः॑ । ताः ॥ शूरः॑ । नृषा॒तेति॒ नृ-सा॒ता॒ । शव॑सः । च॒का॒नः । एति॑ । गोम॒तीति॒ गो-म॒ति॒ । व्र॒जे । भ॒ज॒ । त्वम् । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- न᳓रः (*TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10, *KS*-2/6)
+- नेम᳓-धिता (*TS*-1, *RV*-4)
+- हवन्ते (*TS*-2, *RV*-18, *AV*-6, *KS*-1)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- पा᳓र्याः (*TS*-1/2, *RV*-1/17, *VS-M*-1/3, *VS-K*-0/2, *KS*-0/1)
+- युन᳓जते (*TS*-1, *RV*-1/2)
+- धि᳓यः (*TS*-6/11, *RV*-68/113, *TB*-3/8, *AV*-5/10, *SB-M*-9/11, *SB-K*-7/9, *VS-M*-9/13, *VS-K*-9/12, *KS*-2)
+- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/768, *VS-K*-16/624, *KS*-61/1225)
+- शू᳓रः (*TS*-3/5, *RV*-44/70, *TB*-7/9, *AV*-4/7, *SB-M*-2, *SB-K*-2, *VS-M*-4/7, *VS-K*-4/7, *KS*-1/3)
+- नृ᳓-साता (*TS*-1, *RV*-1)
+- श्र᳓वसः (*TS*-0/9, *RV*-5/145, *TB*-0/4, *AV*-0/12, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/8, *VS-K*-0/7, *KS*-0/4)
+- चकानः᳓ (*TS*-1, *RV*-8/12, *AV*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- गो᳓-मति (*TS*-1/3, *RV*-8/62, *TB*-0/4, *AV*-2/11, *VS-M*-0/8, *VS-K*-0/3, *KS*-0/5)
+- व्रजे᳓ (*TS*-1/6, *RV*-8/46, *TB*-0/6, *AV*-2/11, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-0/5, *VS-K*-0/1, *KS*-0/2)
+- भजा (*TS*-1, *AV*-1)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -645,6 +674,12 @@ Indra men call in reverence
 That he may cause their prayers to be accomplished;  
 Hero, men overpowering, delighting in strength, 
 Do thou confer upon us a stall full of kine.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men invoke Indra when the contest is joined, when those highest thoughts are harnessed;  
+a hero winning men, desiring fame, allot us a share in the cattle-rich pen!
 </details>
 
 <details><summary>Geldner</summary>
@@ -953,6 +988,12 @@ That is in the five folks,
 That do I choose of thee.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those Indra-powers of yours, O Śatakratu, which are among the five peoples,  
+those of yours, O Indra, I choose.
+</details>
+
 <details><summary>Geldner</summary>
 
 Deine Kraftäußerungen, die unter den fünf Völkern bekannt sind, die erbitte ich mir von dir, ratreicher Indra.
@@ -1153,6 +1194,12 @@ te ← tvám (pronoun)
 इन्द्र॑ दे॒वेभि॒रनु॑ ते नृ॒षह्ये॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓नु ते दायि मह᳓ इन्द्रिया᳓य सत्ता᳓ ते वि᳓श्वम᳓नु वृत्रह᳓त्ये।  
+अ᳓नु क्षत्र᳓म᳓नु स᳓हो यजते᳓न्द्र देवे᳓भिर᳓नु ते नृष᳓ह्ये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अनु॑ । ते॒ । दा॒यि॒ । म॒हे । इ॒न्द्रि॒याय॑ । स॒त्रा । ते॒ । विश्व॑म् । अनु॑ । वृ॒त्र॒ऽहत्ये॑ ।  
@@ -1167,6 +1214,30 @@ te ← tvám (pronoun)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓नु । ते । दायि । महः᳓ । इन्द्रिया᳓य । सत्रा᳓ । ते । वि᳓श्वम् । अ᳓नु । वृत्र-ह᳓त्ये । अ᳓नु । क्षत्र᳓म् । अ᳓नु । स᳓हः । यजत्र । इ᳓न्द्र । देवे᳓भिः । अ᳓नु । ते । नृ-स᳓ह्ये ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- दायि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-3, *RV*-3, *TB*-1, *AV*-1)
+- महः᳓ (*MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- इन्द्रिया᳓य (*MS*-3/243, *TS*-2/191, *RV*-6/41, *TB*-4/217, *TK*-0/1, *AV*-1/21, *SB-M*-9/99, *SB-K*-5/98, *VS-M*-4/106, *VS-K*-1/83)
+- सत्ता᳓ (*TS*-0/1, *SB-M*-0/4)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वि᳓श्वम् (*MS*-33/301, *TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-29/225, *VS-K*-22/224)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- वृत्र-ह᳓त्ये (*MS*-1, *TS*-2, *RV*-13/22, *TB*-1, *AV*-1/3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- स᳓हः (*MS*-17/43, *TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40)
+- यजता᳓ (*MS*-2, *TS*-1, *RV*-7, *AV*-1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- देवे᳓भिः (*MS*-7/1216, *TS*-14/1023, *RV*-52/1342, *TB*-4/582, *TK*-0/32, *AV*-4/707, *SB-M*-3/2031, *SB-K*-3/1945, *VS-M*-6/528, *VS-K*-4/523)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- नृ-स᳓ह्ये (*TS*-2, *RV*-9/12, *TB*-1, *AV*-0/1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1345,6 +1416,11 @@ ________________
 हे इन्द्र ते तव इन्द्रियाभिवृद्ध्यर्थं महे महती पूजा अनुदायि अनुक्रमेण दत्ता । अथवा महे महत इन्द्रियाय यदनुकूलं तद्दत्तम् । यथा वृत्रहत्वे वृत्रवधे सति ते तुभ्यं सत्रा साकं सर्वैर्देवैर्मिलित्वा विश्वमनुदत्तम् । यदा वृत्रवधं कृतवानसि तदा तव विश्वस्वामित्वं सर्वैर्देवैरङ्गीकृतमित्यर्थः । हे यजत्र पूजार्ह इन्द्र क्षत्रं क्षत्रियजातिः अनुदत्ता सर्वक्षत्रियस्वामित्वं तुभ्यं दत्तमित्यर्थः । तथा सहो बलमनुदत्तम् । नृषह्ये मनुष्याणामभिभवे प्राप्ते देवेभिस्ते तुभ्यमनुदत्तम्, तद्रक्षणमित शेषः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[101_1]** Brl यजन्ते᳓न्द्रे; RV 6, 25, 8 यजत्रे᳓न्द्र
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1371,6 +1447,12 @@ To thee hath been assigned for mighty power,
 For ever, in the slaying of Vrtra,  
 All lordship, and all strength, O thou that art worthy of sacrifice  
 In the overcoming of man, by the gods, O Indra [1].
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Granted to you was for great Indra-power; all [was granted] completely to you for the slaying of Vṛtra;  
+granted to you was dominion, granted was might, O holy one; with the gods [all was granted] to you for the overcoming of men, O Indra.
 </details>
 
 <details><summary>Geldner</summary>
@@ -2113,6 +2195,21 @@ Indra with praises the praisers,
 Indra the songs have praised.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra indeed the singers of songs [praise] with the Bṛhat [sāman]; Indra with verses the verse-singers;  
+Indra the musical instruments have celebrated.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Indra alone the singers [praise] with the lofty [song]; Indra with chants the chanters;  
+to Indra the voices have resounded.
+
+The singers of hymns [magnify] Indra alone with what is great, the chanters Indra with their chants;  
+the voices have sung in praise of Indra.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra haben laut die Sänger, Indra mit Preisliedern die Preisenden Indra die Stimmen angerufen.
@@ -2773,6 +2870,12 @@ yā́ntam ← √yā- 1 (root)
 अंह॑सो॒ यत्र॑ पी॒पर॒द्यथा॑ नो ना॒वेव॒ यान्त॑मु॒भये॑ हवन्ते ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+विवे᳓ष य᳓न्मा धिष᳓णा जजा᳓न स्त᳓वै पुरा᳓ पा᳓र्यादि᳓न्द्रम᳓हूः।  
+अ᳓हसो य᳓त्र पीप᳓रद्य᳓था नो नावे᳓व या᳓न्तमुभ᳓ये हवन्ते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒वेष॑ । यत् । मा॒ । धि॒षणा॑ । ज॒जान॑ । स्तवै॑ । पु॒रा । पार्या॑त् । इन्द्र॑म् । अह्नः॑ ॥   अँह॑सः । यत्र॑ । पी॒पर॑त् । यथा॑ । नः॒ । ना॒वा । इ॒व॒ । यान्त॑म् । उ॒भये॑ । ह॒व॒न्ते॒ ॥
@@ -2781,6 +2884,30 @@ yā́ntam ← √yā- 1 (root)
 <details><summary>पद-पाठः</summary>
 
 
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- विवे᳓ष (*MS*-2, *TS*-2, *RV*-3, *TB*-1)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- धिष᳓णा (*MS*-14/16, *TS*-4/11, *RV*-14/27, *TB*-6/7, *AV*-1/4, *SB-M*-5/8, *SB-K*-5/9, *VS-M*-4/7, *VS-K*-4/9)
+- जजा᳓न (*MS*-8, *TS*-6, *RV*-18, *TB*-2, *AV*-14, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-4)
+- स्त᳓वै (*MS*-1, *TS*-1, *RV*-3)
+- पुरा᳓ (*MS*-43/86, *TS*-38/56, *RV*-63/126, *TB*-23/25, *TK*-1, *AV*-46/74, *SB-M*-136/169, *SB-K*-147/180, *VS-M*-11/24, *VS-K*-10/23)
+- पा᳓र्यात् (*MS*-1/3, *TS*-1/2, *RV*-1/17, *VS-M*-0/3, *VS-K*-0/2)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓हूः (*TS*-0/1, *TB*-0/5, *AV*-0/1, *SB-K*-0/1)
+- अ᳓हसः (*MS*-0/35, *TS*-0/77, *RV*-0/9, *TB*-0/32, *TK*-0/1, *AV*-0/23, *SB-M*-0/128, *SB-K*-0/132, *VS-M*-0/6, *VS-K*-1/11)
+- य᳓त्र (*MS*-99, *TS*-39, *RV*-123, *TB*-37, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-362, *VS-M*-46, *VS-K*-42)
+- पीप᳓रत् (*MS*-1, *TS*-1, *RV*-1)
+- य᳓था (*MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- नौ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-13, *TS*-9, *RV*-9, *TB*-6, *AV*-12, *SB-M*-28, *SB-K*-32, *VS-M*-3, *VS-K*-2)
+- ए᳓व (*MS*-28, *TS*-2, *RV*-31, *TB*-27, *AV*-1, *SB-M*-29, *SB-K*-271, *VS-M*-2, *VS-K*-1)
+- या᳓न्तम् (*MS*-2, *TS*-1/2, *RV*-2/8, *AV*-0/8)
+- उभ᳓ये (*MS*-16/50, *TS*-2/32, *RV*-6/44, *TB*-7/29, *TK*-0/1, *AV*-3/13, *SB-M*-46/147, *SB-K*-46/146, *VS-M*-0/4, *VS-K*-0/4)
+- हवन्ते (*MS*-2, *TS*-2, *RV*-18, *AV*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2948,6 +3075,15 @@ __________________________________________________
 तस्मात् तादृश-धिषणं माम् इन्द्रो ऽंहसो मुञ्चत्विति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[102_1]** Brl विवे᳓श
+
+- **[102_2]** Brl und T6 यन्तमुº; ; vielleicht auch T1 so, doch nicht ganz deutlich. (Brl and T6 यन्तमुº; perhaps also T1 thus, yet not entirely clear.)
+
+- **[573_9]** So corr. Ch पायदिं°; cf. MS 4, 12, 3; RV 3, 32, 14. (Thus emended; Ch reads पायदिं°; cf. MS 4, 12, 3; RV 3, 32, 14)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -2986,6 +3122,18 @@ That to which Dhisana impelled me have I produced;
 I shall praise Indra before the decisive day;  
 Him that goeth as with a ship  
 Both parties invoke that there he may rescue us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The inspiration has entered [me], since she gave me birth; before the decisive day I will praise Indra,  
+so that he may ferry us across from distress, as both [sides] call upon one travelling by boat.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Since the inspirational thought that conceived me has served [me], I shall praise Indra before the final day,  
+where he will carry us over distress, like two [parties] calling to one traveling in a boat.
 </details>
 
 <details><summary>Geldner</summary>
@@ -3171,16 +3319,48 @@ Make him low
 Who is hostile to us.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Strike down our adversaries, O Indra; cast downward those who fight against us;  
+make him who seeks to harm us trampled beneath our feet.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वि न॑ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः ।   
 अ॒ध॒स्प॒दन्तमी॑ङ्कृधि॒ यो अ॒स्माँ अ॑भि॒दास॑ति  ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓ न इन्द्र मृ᳓धो जहि नीचा᳓ यछ पृतन्यतः᳓  
+अधस्पदं᳓ त᳓म् ईं कृधि यो᳓ अस्मं᳓ अभिदा᳓सति
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 वीति॑ । नः॒ । इ॒न्द्र॒ । मृधः॑ । ज॒हि॒ । नी॒चा । य॒च्छ॒ । पृ॒त॒न्य॒तः ॥   
 अ॒ध॒स्प॒दमित्य॑धः-प॒दम् । तम् । ई॒म् । कृ॒धि॒ । यः । अ॒स्मान् । अ॒भि॒दास॒तीत्य॑भि-दास॑ति ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- मृ᳓धः (*TS*-15/17, *RV*-29/30, *TB*-2, *AV*-14, *SB-M*-11/28, *SB-K*-9/26, *VS-M*-9, *VS-K*-8, *KS*-5)
+- जहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-23, *TB*-2, *TK*-1, *AV*-69, *SB-M*-12, *SB-K*-12, *VS-M*-4, *VS-K*-2)
+- नीचा᳓ (*TS*-3, *RV*-7/8, *TB*-1/2, *AV*-2/9, *SB-M*-1/3, *SB-K*-0/2, *VS-M*-3, *VS-K*-2, *KS*-1/2)
+- यछ (*SB-M*-4)
+- पृतन्यतः᳓ (*TS*-6, *RV*-9, *TB*-1, *AV*-7, *SB-M*-2, *VS-M*-3, *VS-K*-3, *KS*-1)
+- अधः-पद᳓म् (*TS*-3, *RV*-2/4, *TB*-1, *AV*-7/8, *SB-M*-5, *SB-K*-5, *VS-M*-2, *VS-K*-2)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- ईम् (*TS*-11, *RV*-206, *TB*-1, *AV*-26, *SB-M*-3, *SB-K*-4, *VS-M*-10, *VS-K*-5, *KS*-3)
+- कृधि (*TS*-28, *RV*-76, *TB*-6, *AV*-42, *SB-M*-3, *SB-K*-3, *VS-M*-16, *VS-K*-17, *KS*-15)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- अस्म᳓म् (*TS*-0/108, *RV*-0/335, *TB*-0/39, *TK*-0/4, *AV*-0/167, *SB-M*-0/177, *SB-K*-0/186, *VS-M*-0/69, *VS-K*-1/72, *KS*-0/53)
+- अभि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-38, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-502, *VS-K*-2, *KS*-27)
+- दा᳓सति (*TB*-2, *TK*-6, *SB-M*-1, *KS*-3)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -3190,11 +3370,11 @@ Who is hostile to us.
 किञ्च – **पृतन्यतस्** सङ्ग्रामं कर्तुम् इच्छतः पुरुषान् नीचान् न्यग्भूतान् यच्छ उपरमय मारयेति यावत् । न्यक्शब्दाद्द्वितीयाबहुवचनस्य स्थाने व्यत्ययेन तृतीयैकवचनम्, 'अञ्चेश्छन्दस्यसर्वनामस्थानम्' इति तस्या उदात्तत्वम् । पृतनायाः क्यचि 'कव्यध्वरपृतनस्य' इति लोपः, 'शतुरनुमः' इति शस उदात्तत्वम् ।  
 किञ्च - **यो ऽस्मान् अभिदासति** अभिदासयति उपक्षयति । दसु उपक्षये, ण्यन्ताल्लेट्, 'छन्दस्युभयथा' इति शप आर्धधातुकत्वाण्णिलोपः, उदात्तनिवृत्तिस्वरो व्यत्ययेन न प्रवर्तते ।  
 **तम्** उपक्षय-कारीणम् **अधस् पदम्** एव **कृधि** कुरु । **ईम्** इत्यवधारणे । अस्मत्पादयोरधः प्रणिपतितशिरस्कं कुर्विति यावत् । 'बहुलं छन्दसि' इति शपो लुक्', श्रुशृणुपॄकृवृभ्यश्छन्दसि' इति धिभावः । 'अधश्शिरसी पदे' इत्यधश्शब्दस्य संहितायां सत्वम् ॥
-</details> 
+</details>
 
 <details><summary>सायण-टीका</summary>
 
-वि न इन्द्रेति। हे इन्द्र नोऽस्माकं मृधः शत्रून्विशेषेण जहि। किंच, पृतन्यतोऽस्मान्घातयितुं सेनामिच्छतः शत्रून्नीचान्न्यग्भूतान्यच्छोपरतान्कुरु। यश्चान्योऽस्मानभिदासत्युपक्षपयति तमीं तमपि वैरिणमधस्पदमस्मत्पादयोः प्रणतशिरस्कं कृधि कुरु।  
+वि न इन्द्रेति। हे इन्द्र नोऽस्माकं मृधः शत्रून्विशेषेण जहि। किंच, पृतन्यतोऽस्मान्घातयितुं सेनामिच्छतः शत्रून्नीचान्न्यग्भूतान्यच्छोपरतान्कुरु। यश्चान्योऽस्मानभिदासत्युपक्षपयति तमीं तमपि वैरिणमधस्पदमस्मत्पादयोः प्रणतशिरस्कं कृधि कुरु।
 </details>
 </details>
 
@@ -3859,6 +4039,12 @@ svastí ← svastí- (nominal stem)
 हु॒वे नु श॒क्रम्पु॑रुहू॒तमिन्द्रँ॑ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्रातारमिन्द्रमवितारमिन्द्रँ हवे हवे सुहवँ शूरमिन्द्रम्।  
+ह्वयामि शक्रं पुरुहूतमिन्द्रँ स्वस्ति नो मघवा धात्विन्द्रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रा॒तार॑म् । इन्द्र॑म् । अ॒वि॒तार॑म् । इन्द्र॑म् । हवे॑ऽहवे । सु॒ऽहव॑म् । शूर॑म् । इन्द्र॑म् ।  
@@ -3878,6 +4064,28 @@ svastí ← svastí- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्रा॒तार॑म् । इन्द्र॑म् । अ॒वि॒तार॑म् । इन्द्र॑म् । हवे॑हव॒ इति॒ हवे॑-ह॒वे॒ । सु॒हव॒मिति॑ सु-हव॑म् । शूर॑म् । इन्द्र॑म् ॥ हु॒वे । नु । श॒क्रम् । पु॒रु॒हू॒तमिति॑ पुरु-हू॒तम् । इन्द्र॑म् । स्व॒स्ति । नः॒ । म॒घवेति॑ म॒घ-वा॒ । धा॒तु॒ । इन्द्रः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्राता᳓रम् (*MS*-3/9, *TS*-3/7, *RV*-5/22, *TB*-0/1, *AV*-1/4, *SB-M*-1/2, *SB-K*-0/1, *VS-M*-3/8, *VS-K*-3/8)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अविता᳓रम् (*MS*-2/8, *TS*-1/3, *RV*-3/42, *AV*-3/10, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/6, *VS-K*-1/6)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- ह᳓वे (*MS*-0/17, *TS*-1/17, *RV*-6/124, *TB*-2/5, *AV*-1/22, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-0/13, *VS-K*-0/12)
+- ह᳓वे (*MS*-0/17, *TS*-1/17, *RV*-6/124, *TB*-2/5, *AV*-1/22, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-0/13, *VS-K*-0/12)
+- सु-ह᳓वम् (*MS*-2/7, *TS*-2/4, *RV*-9/23, *TB*-1, *AV*-5/9, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-1/4)
+- शू᳓रम् (*MS*-4/14, *TS*-1/5, *RV*-8/70, *TB*-2/9, *AV*-2/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-2/7, *VS-K*-2/7)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- ह्व᳓यामि (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *RV*-6, *AV*-3, *VS-M*-1, *VS-K*-1)
+- शक्र᳓म् (*MS*-2/4, *TS*-1, *RV*-3/21, *AV*-2/23, *VS-M*-1, *VS-K*-2/3)
+- पुरु-हूत᳓म् (*MS*-4/5, *TS*-1/3, *RV*-12/28, *TB*-1/3, *AV*-4/8, *VS-M*-1, *VS-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- स्वस्ति᳓ (*MS*-21, *TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मघ᳓-वा (*MS*-8/16, *TS*-5/9, *RV*-70/186, *TB*-2/6, *AV*-18/25, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-5/9, *VS-K*-6/11)
+- धा᳓तु (*Whitney*, *MS*-0/1, *RV*-2/5, *AV*-0/2, *SB-M*-0/2, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -4202,7 +4410,7 @@ Indra the protector, Indra the helper, Indra the champion good to call  at every
 I call on Indra, the able one, called on by many. Let bounteous Indra  establish well-being for us.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -4225,6 +4433,11 @@ The guardian Indra, the helper Indra,
 The hero ready to hear at every call, Indra,  
 I invoke the strong one, invoked of many, Indra;  
 May Indra in his bounty bestow on us prosperity
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+easily invoked at every call,
 </details>
 
 <details><summary>Geldner</summary>
@@ -4499,6 +4712,18 @@ u ← u (invariable)
 ब्र॒ह्माण॒ इन्द्रं॑ म॒हय॑न्तो अ॒र्कैरव॑र्धय॒न्नह॑ये॒ हन्त॒वा उ॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓नवस् ते र᳓थम् अ᳓श्वाय तक्षन् त्व᳓ष्टा व᳓ज्रं पुरुहूत द्युम᳓न्तम्  
+ब्रह्मा᳓णा इ᳓न्द्रं मह᳓यन्तो अर्कै᳓र् अ᳓वर्धयन्न् अ᳓हये ह᳓न्तवा᳓ उ
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓नवस्ते र᳓थम᳓श्वाय तक्षन्त्व᳓ष्टा व᳓ज्रं पुरुहूत द्युम᳓न्तम्।  
+ब्रह्मा᳓ण इ᳓न्द्रं मह᳓यन्तो अर्कै᳓र᳓वर्धयन्न᳓हये ह᳓न्तवा᳓ उ
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अन॑वः । ते॒ । रथ॑म् । अश्वा॑य । त॒क्ष॒न् । त्वष्टा॑ । वज्र॑म् । पु॒रु॒ऽहू॒त॒ । द्यु॒ऽमन्त॑म् ।  
@@ -4508,6 +4733,51 @@ u ← u (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अन॑वः । ते॒ । रथ॑म् । अश्वा॑य । त॒क्ष॒न् । त्वष्टा॑ । वज्र॑म् । पु॒रु॒हू॒तेति॑ पुरु-हू॒त॒ । द्यु॒मन्त॒मिति॑ द्यु-मन्त॑म् ॥ ब्र॒ह्माणः॑ । इन्द्र॑म् । म॒हय॑न्तः । अ॒र्कैः । अव॑र्धयन्न् । अह॑ये । हन्त॒वै । उ॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓नवः (*TS*-1/472, *RV*-2/478, *TB*-1/222, *TK*-0/68, *AV*-0/299, *SB-M*-0/771, *SB-K*-0/718, *VS-M*-0/115, *VS-K*-0/108, *KS*-1/99)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- र᳓थम् (*TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/12, *KS*-3/12)
+- अ᳓श्वाय (*TS*-5/126, *RV*-4/226, *TB*-2/167, *AV*-0/76, *SB-M*-10/262, *SB-K*-9/255, *VS-M*-2/54, *VS-K*-2/51, *KS*-2/26)
+- तक्षन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *KS*-1)
+- त्व᳓ष्टा (*TS*-30, *RV*-42/43, *TB*-15, *TK*-0/1, *AV*-29/30, *SB-M*-28, *SB-K*-30, *VS-M*-16/17, *VS-K*-13, *KS*-7)
+- व᳓ज्रम् (*TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3, *KS*-6/19)
+- पुरु-हूत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-46, *TB*-4, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- द्युम᳓न्तम् (*TS*-4/5, *RV*-16/20, *TB*-1, *AV*-2/5, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2, *KS*-2)
+- ब्रह्मा᳓ (*TS*-10/27, *RV*-24/47, *TB*-25/38, *TK*-1/2, *AV*-21/64, *SB-M*-65/112, *SB-K*-72/113, *VS-M*-9/14, *VS-K*-7/15, *KS*-3/7)
+- णाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1, *KS*-1)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- मह᳓-यन्तः (*TS*-1, *RV*-4/5, *TB*-0/1, *AV*-2, *SB-M*-2/3, *SB-K*-1, *KS*-1/2)
+- अर्कैः᳓ (*TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-2/6, *KS*-2/10)
+- अ᳓वर्धयन् (*TS*-1, *RV*-4, *TB*-1, *VS-M*-1, *VS-K*-1/2, *KS*-1)
+- अ᳓हये (*TS*-1/10, *RV*-3/72, *TB*-2/7, *TK*-0/1, *AV*-1/38, *SB-M*-0/12, *SB-K*-0/16, *VS-M*-0/9, *VS-K*-0/4, *KS*-1/5)
+- ह᳓न्त (*TS*-3, *RV*-3/8, *AV*-1, *SB-M*-35/48, *SB-K*-29/41, *KS*-1)
+- वै᳓ (*TS*-2126, *RV*-26, *TB*-1362, *TK*-135, *AV*-194, *SB-M*-7363, *SB-K*-7309, *VS-M*-2, *VS-K*-1, *KS*-314)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓नवः (*MS*-2/354, *TS*-1/472, *RV*-2/478, *TB*-1/222, *TK*-0/68, *AV*-0/299, *SB-M*-0/771, *SB-K*-0/718, *VS-M*-0/115, *VS-K*-0/116)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- र᳓थम् (*MS*-20/57, *TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/13)
+- अ᳓श्वाय (*MS*-5/117, *TS*-5/126, *RV*-4/226, *TB*-2/167, *AV*-0/76, *SB-M*-10/262, *SB-K*-9/255, *VS-M*-2/56, *VS-K*-2/52)
+- तक्षन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-1)
+- त्व᳓ष्टा (*MS*-42/43, *TS*-30, *RV*-42/43, *TB*-15, *TK*-0/1, *AV*-29/30, *SB-M*-28, *SB-K*-30, *VS-M*-16/17, *VS-K*-13)
+- व᳓ज्रम् (*MS*-61/149, *TS*-44/120, *RV*-69/137, *TB*-7/37, *TK*-0/2, *AV*-20/54, *SB-M*-47/292, *SB-K*-42/267, *VS-M*-1/7, *VS-K*-0/3)
+- पुरु-हूत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-3, *RV*-46, *TB*-4, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- द्युम᳓न्तम् (*MS*-3/5, *TS*-4/5, *RV*-16/20, *TB*-1, *AV*-2/5, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2)
+- ब्रह्मा᳓णः (*MS*-3/31, *TS*-4/26, *RV*-8/47, *TB*-1/38, *TK*-0/2, *AV*-9/64, *SB-M*-1/112, *SB-K*-2/113, *VS-M*-2/14, *VS-K*-4/16)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- मह᳓-यन्तः (*MS*-1, *TS*-1, *RV*-4/5, *TB*-0/1, *AV*-2, *SB-M*-2/3, *SB-K*-1)
+- अर्कैः᳓ (*MS*-4/45, *TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-3/7)
+- अ᳓वर्धयन् (*MS*-2, *TS*-1, *RV*-4, *TB*-1, *VS-M*-1, *VS-K*-1/2)
+- अ᳓हये (*MS*-1/16, *TS*-1/10, *RV*-3/72, *TB*-2/7, *TK*-0/1, *AV*-1/38, *SB-M*-0/12, *SB-K*-0/16, *VS-M*-0/9, *VS-K*-0/5)
+- ह᳓न्त (*TS*-3, *RV*-3/8, *AV*-1, *SB-M*-35/48, *SB-K*-29/41, *MS*-1/3)
+- वै᳓ (*MS*-3722, *TS*-2126, *RV*-26, *TB*-1362, *TK*-135, *AV*-194, *SB-M*-7363, *SB-K*-7309, *VS-M*-2, *VS-K*-1)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -4647,6 +4917,11 @@ __________________________________________
 किमर्थं ? **अहये** अघाय अहिंसनाय आगत्य हन्तीत्य् अहिस् सर्पादिः । 'आङि शृहनिभ्यां ह्वस्वश्च' इतीण्प्रत्ययः । कर्मणि चतुर्थी । हन्तवै हन्तुम् । 'तुमर्थे सेसेन्' इति तवैप्रत्ययः । 'अन्तश्च तवै युगपत्' इत्याद्यन्तयोरुदात्तत्वम् । उः पादपूरणे । त्वं चास्माकं महायज्ञमुपनयेति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[102_3]** So T 1, T 6, L und Brl; D ब्रह्मण; Ch ब्राह्माण; (Thus T 1, T 6, L and Brl; D ब्रह्मण; Ch ब्राह्माण;)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -4691,6 +4966,18 @@ The Anus have wrought a chariot for thy steed;
 Tvastr a glorious bolt, O thou invoked of many;  
 The Brahmans magnifying Indra with their praises  
 Have strengthened him for the slaying of the serpent.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Anus fashioned for thee a chariot for thy horse; Tvaṣṭṛ [fashioned] the flashing thunderbolt, O much-invoked one;  
+the priests, exalting Indra with their songs, strengthened him for the slaying of the serpent.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The Anus fashioned your chariot for your horse; Tvaṣṭṛ, O much-invoked, the radiant thunderbolt;  
+the Brāhmaṇas, magnifying Indra with chants, strengthened him to slay the serpent.
 </details>
 
 <details><summary>Geldner</summary>
@@ -4881,6 +5168,12 @@ dásyūn ← dásyu- (nominal stem)
 अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इन्द्रे॑षिता अ॒भ्यव॑र्तन्त॒ दस्यू॑न् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वृ᳓ष्णे य᳓त्ते वृष᳓णो अ᳓र्कम᳓र्चानि᳓न्द्र ग्रा᳓वाणो अ᳓दितिस्सजो᳓षाः।  
+अनश्वा᳓सो ये᳓ पव᳓योऽरथा᳓ इ᳓न्द्रेषिता अभ्य᳓वर्तन्त द᳓स्यून्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चा॑न् । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒ऽजोषाः॑ ।  
@@ -4890,6 +5183,28 @@ dásyūn ← dásyu- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चान्॑ । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥ अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्रे॑षिता॒ इतीन्द्र॑-इ॒षि॒ताः॒ । अ॒भ्यव॑र्त॒न्तेत्य॑भि-अव॑र्तन्त । दस्यून्॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वृ᳓ष्णे (*MS*-7/15, *TS*-5/14, *RV*-34/78, *TB*-1/4, *AV*-6/13, *SB-M*-3/4, *SB-K*-2/6, *VS-M*-2/13, *VS-K*-2/12)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वृष᳓णः (*MS*-0/1, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- अ᳓र्कम् (*SB-K*-0/4)
+- अ᳓र्चान् (*MS*-1, *TS*-1, *RV*-2/22, *AV*-0/1, *SB-M*-0/6, *SB-K*-0/6)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- ग्रा᳓वाणः (*MS*-8/21, *TS*-6/11, *RV*-17/43, *TB*-3/5, *AV*-5/17, *SB-M*-9/31, *SB-K*-7/32, *VS-M*-2/7, *VS-K*-1/7)
+- अ᳓दितिः (*MS*-67/128, *TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/79)
+- सजो᳓षाः (*MS*-17, *TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-9)
+- अनश्वा᳓सः (*MS*-1, *TS*-1, *RV*-1/6)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- पव᳓यः (*MS*-1/3, *TS*-1/3, *RV*-5/13, *TB*-0/1, *AV*-0/1, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/2, *VS-K*-0/2)
+- अरथाः᳓ (*TS*-1/2, *RV*-3, *AV*-1, *VS-M*-0/1, *VS-K*-0/2, *MS*-1)
+- इ᳓न्द्रेषिताः (*MS*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓वर्तन्त (*RV*-1, *TB*-1, *MS*-6)
+- द᳓स्यून् (*MS*-2, *TS*-2, *RV*-28/64, *AV*-8/19, *SB-M*-0/1, *SB-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5062,8 +5377,10 @@ the (pressing stones like) wheel-rims which, (even) without horses,
 without chariots, but impelled by Indra, rolled over the Dasyus—
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
 
 Vs. 5 is syntactically problematic, in that it has two subordinate clauses, one marked by yád in pāda a and one marked by yé in pāda c, but no obvious main clause. The rel. cl. beginning in c must extend through d, which contains the accented imperfect ávartanta, but the extent of the yád clause is unclear. It must go as far as the end of pāda a because of the accented subjunctive árcān, but the status of b is in question. Since the vs. otherwise lacks a main clause, Geldner and Witzel Gotō make b the nominal main clause, e.g., Geldner “…, da waren die Presssteine, die Aditi einverstanden.” This is possible, but seems conceptually weak, and both Geldner and Witzel Gotō fail to render the subjunctive value of the verb in the yád clause -- Geldner silently changing it into a preterite (“anstimmten”) and Witzel Gotō using a simple pres. (“singen”).
 
@@ -5076,6 +5393,7 @@ The subjunctive vibhárā(ḥ) in the yád clause is potentially troublesome for
 Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt” and suggests that the subjunctive in its prospective use can take on a timeless sense (“… einen ausserzeitlichen Sinn annehmen kann”). Geldner simply translates it as a preterite (trenntest) without comment, but Witzel Gotō take the subjunctive seriously here (though not in 5a): “… dass du … trennen und … gewinnen willst,” without further comment. I do not have an entirely satisfactory answer, but I think the yád clause must be evaluated in the context of what precedes: 6ab announces that I will proclaim Indra’s previous deeds (pū́rvāṇi káraṇāni) and “the current ones which you have done” (nū́tanā … yā́cakártha). This latter expression, which is found identically in VII.98.5, seems temporally incoherent: if they are his current deeds, he should not have already done them; yā́cakártha should limit only the first phrase, pū́rvāṇi káraṇāni. A fuller expression of this proclamation announcement, with the time of action correctly sorted, is found in nearby V.29.13 vīryā̀… yā́cakártha / yā́co nú návyā kṛṇávaḥ “The heroic deeds that you have done and the new ones that you will do,” with the perfect cakártha qualifying the deeds already done and the subjunctive kṛṇávaḥ the new ones. Immediately afterwards it is said prá … tā́… bravāma “we shall proclaim these,” like our prá … vocam. I think we should interpret our 6cd in the light of V.29.13. The rel. clause yā́cakártha should, properly speaking, limit only the pū́rvāṇi, while the nū́tanā ‘current (deeds)’ are further specified by a single example (or perhaps two), expressed by the yád clause in cd using the subjunctive. A problem remains: as noted above, the separation of the two worlds is one of Indra’s standard cosmogonic deeds as is, in the Vṛtra myth, his winning of the waters. We should expect these to be classified among the pū́rvāṇi. But of course one of the reasons for celebrating older, mythic deeds is to persuade / compel the god to perform these deeds again in the present for our benefit, and we can interpret the yád
 
 + SUBJUNCTIVE clause here in that way. The separation of the two world halves is, on a smaller scale, accomplished every morning when dawn reveals the horizon where the darkness had kept earth and sky undifferentiated. And winning waters is something that needs to be repeated at least yearly. The subjunctive here indicates that our focus is on the re-creation of these older deeds, not simply on celebrating their original performance. In this context mánave ‘for Manu’ would have the extended sense ‘for mankind’.
+</details>
 </details>
 </div>
 
@@ -5091,6 +5409,18 @@ What time the strong sang praise to the strong,
 O Indra, the stones and Aditi in unison,  
 Without steeds or chariots were the fellies  
 Which, sped by Indra, rolled against the Dasyus.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the bulls sing a song for thee, the bull, O Indra, the pressing-stones and Aditi in unison,  
+those fellies which, without horses and without chariots, impelled by Indra, turned upon the Dasyus.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+When for you, the bull, the bulls chant the song, O Indra, the pressing stones, Aditi in agreement;  
+which steeds, rims without chariots, sped against the Dasyus, impelled by Indra.
 </details>
 
 <details><summary>Geldner</summary>

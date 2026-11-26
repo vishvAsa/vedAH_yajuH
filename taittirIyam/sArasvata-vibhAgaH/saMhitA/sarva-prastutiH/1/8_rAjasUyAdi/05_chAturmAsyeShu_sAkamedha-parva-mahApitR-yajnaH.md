@@ -361,6 +361,12 @@ yójā ← √yuj- (root)
 अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ नवि॑ष्ठया म॒ती योजा॒ न्वि᳖न्द्र ते॒ हरी॑ ॥५१॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अक्ष᳓न्न᳓मीमदन्त ह्य᳓व प्रिया᳓ अधूषत।  
+अ᳓स्तोषत स्व᳓भानवो वि᳓प्रा न᳓विष्ठया मती᳓ यो᳓जा न्वि᳙न्द्र ते ह᳓री
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अक्ष॑न् । अमी॑मदन्त । हि । अव॑ । प्रि॒याः । अ॒धू॒ष॒त॒ ।  
@@ -375,6 +381,26 @@ yójā ← √yuj- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अक्ष॑न्। अमी॑मदन्त। हि। अव॑। प्रि॒याः। अ॒धू॒ष॒त॒। अस्तो॑षत। स्वभा॑नव॒ इति॑ स्वऽभा॑नवः। विप्राः॑। नवि॑ष्ठया। म॒ती। योज॑। नु। इ॒न्द्र॒। ते॒। हरी॒ऽइति॒ हरी॑। १।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अक्ष᳓न् (*TS*-1, *TB*-1, *SB-M*-14, *SB-K*-13, *MS*-1)
+- अ᳓मीमदन्त (*MS*-3, *TS*-2, *RV*-1, *TB*-4, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- प्रियाः᳓ (*MS*-10/135, *TS*-6/92, *RV*-10/213, *TB*-0/83, *TK*-0/1, *AV*-6/90, *SB-M*-17/134, *SB-K*-14/141, *VS-M*-2/60, *VS-K*-2/47)
+- अधूषत (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓स्तोषत (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- स्व᳓-भानवः (*MS*-1, *TS*-1, *RV*-4/5, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- न᳓विष्ठया (*MS*-1, *TS*-1, *RV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मती᳓ (*MS*-2/16, *TS*-1/9, *RV*-15/141, *TB*-0/10, *TK*-0/1, *AV*-1/18, *SB-M*-1/12, *SB-K*-1/11, *VS-M*-1/13, *VS-K*-1/14)
+- यो᳓जा (*MS*-2/4, *TS*-2/3, *RV*-0/18, *TB*-1, *AV*-0/1, *SB-M*-0/3, *SB-K*-2/3, *VS-M*-0/3, *VS-K*-1/3)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- ह᳓री (*MS*-8/16, *TS*-9/19, *RV*-91/263, *TB*-8/13, *TK*-0/1, *AV*-18/52, *SB-M*-5/16, *SB-K*-4/14, *VS-M*-8/18, *VS-K*-6/15)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -724,6 +750,13 @@ The radiant sages have been praised with newest hymn;
 Yoke, O Indra, thy two bay steeds.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They ate, indeed they exhilarated themselves, they shook off dear [troubles];  
+the self-luminous inspired singers praised with newest thought;  
+harness now your two bay steeds, O Indra!
+</details>
+
 <details><summary>Geldner</summary>
 
 Sie haben ja geschmaust, gezecht; die lieben Freunde haben herabgeschüttelt. Die selbstglänzenden Barden sind mit dem neuesten Gedicht gepriesen worden. - Ich will dir jetzt das Falbenpaar schirren, o Indra.
@@ -924,6 +957,18 @@ With the praise of Naraśansa
 And the reverence of the Pitrs.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We call back the mind with the nārāśaṃsa stoma,  
+and with the thoughts of the Fathers.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+We call back the mind now with a song of praise honoring men,  
+and with the thoughts of the Fathers.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 मनो॒ न्वाह्वा॑महे नाराशँ॒सेन॒ स्तोमे॑न।  
@@ -942,6 +987,18 @@ And the reverence of the Pitrs.
 पि॒तृ॒णाञ् च॒ मन्म॑भिः  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+म᳓नो व्या᳓हुवामहे नाराशँसे᳓न स्तो᳓मेन  
+पितृणां᳓ च म᳓न्मभिः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+म᳓नो न्वा᳓हुवामहे नाराशँसे᳓न स्तो᳓मेन।  
+पितॄणां᳓ च म᳓न्मभिः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मनः॑। नु। आ। ह्वा॒म॒हे॒। ना॒रा॒शँ॒सेन॑। स्तोमे॑न। पि॒तॄ॒णाम्। च॒। मन्म॑भि॒रिति॒ मन्म॑ऽभिः। ५३।
@@ -955,6 +1012,32 @@ And the reverence of the Pitrs.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 मनः॑ । नु । एति॑ । हु॒वा॒म॒हे॒ । ना॒रा॒शँ॒सेन॑ । स्तोमे॑न । पि॒तृ॒णाम् । च॒ । मन्म॑भि॒रिति॒ मन्म॑-भिः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- म᳓नः (*TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78, *KS*-28/50)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- हुवामहे (*TS*-1, *RV*-2, *SB-K*-1, *KS*-1)
+- नाराशंसे᳓न (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- स्तो᳓मेन (*TS*-14/122, *RV*-4/206, *TB*-7/37, *AV*-1/44, *SB-M*-22/166, *SB-K*-22/166, *VS-M*-2/43, *VS-K*-2/51, *KS*-8/28)
+- पितृणा᳓म् (*TS*-19/20, *TB*-26, *AV*-5, *SB-M*-1, *SB-K*-6, *VS-K*-2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- म᳓न्मभिः (*TS*-1, *RV*-14, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- म᳓नः (*MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- हुवामहे (*TS*-1, *RV*-2, *SB-K*-1, *MS*-1)
+- नाराशंसे᳓न (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स्तो᳓मेन (*MS*-10/89, *TS*-14/122, *RV*-4/206, *TB*-7/37, *AV*-1/44, *SB-M*-22/166, *SB-K*-22/166, *VS-M*-2/45, *VS-K*-2/51)
+- पितॄणा᳓म् (*MS*-14/157, *TS*-0/121, *RV*-9/254, *TB*-0/111, *TK*-0/6, *AV*-5/228, *SB-M*-30/321, *SB-K*-24/317, *VS-M*-3/80, *VS-K*-2/75)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- म᳓न्मभिः (*MS*-2, *TS*-1, *RV*-14, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1052,6 +1135,11 @@ And the reverence of the Pitrs.
 **पितॄणाञ्च मन्मभिः** मननीयैर् इष्टतमैः स्वधादिभिः पदैर्युक्तेन स्तोमेनाह्वयामहे ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[110_5]** D नरा
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - मनो देवता
@@ -1128,15 +1216,43 @@ For vigour, for insight, for life,
 And that long we may see the sun.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May our mind return to us for insight, for ability, to live,  
+and long to see the sun.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ [8] +न॒ ए॒तु॒ मन॒ᳶ पुन॒ᳵ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ॥   
 ज्योक्च॒ सूर्य॑न्दृ॒शे  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ न एतु म᳓नः पु᳓नः क्र᳓त्वे द᳓क्षाय जीव᳓से।  
+ज्यो᳓क्च सू᳓र्यं दृशे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । ए॒तु॒ । मनः॑ । पुनः॑ । क्रत्वे॑ । दक्षा॑य । जी॒वसे॑ ॥ ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-26, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11)
+- म᳓नः (*MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- पु᳓नः (*MS*-190, *TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29)
+- क्र᳓त्वे (*MS*-3, *TS*-3, *RV*-11/13, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- द᳓क्षाय (*MS*-4/19, *TS*-4/13, *RV*-13/92, *TB*-0/5, *TK*-1/2, *AV*-3/11, *SB-M*-1/10, *SB-K*-1/13, *VS-M*-2/12, *VS-K*-2/13)
+- जीव᳓से (*MS*-14/16, *TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5)
+- ज्यो᳓क् (*MS*-6, *TS*-14/16, *RV*-15, *TB*-1, *AV*-11, *SB-M*-10, *SB-K*-8, *VS-M*-3, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सू᳓र्यम् (*MS*-22/143, *TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-8/38, *VS-K*-8/47)
+- दृशे᳓ (*MS*-3/4, *TS*-7, *RV*-26, *TB*-1, *AV*-12, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-2)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

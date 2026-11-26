@@ -121,6 +121,12 @@ víprāḥ ← vípra- (nominal stem)
 इ॒मम॒पाँ सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहन्ति ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अयं᳓ वेन᳓श्चोदयत्पृ᳓श्निगर्भा ज्यो᳓तिर्जरायू र᳓जसो विमा᳓नः।  
+इम᳓मपाँ सङ्गमे᳓ सू᳓र्यस्य शि᳓शुं न᳓ वि᳓प्रा मति᳓भी रिहन्ति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । वे॒नः । चो॒द॒य॒त् । पृश्नि॑ऽगर्भाः । ज्योतिः॑ऽजरायुः । रज॑सः । वि॒ऽमाने॑ ।  
@@ -130,6 +136,27 @@ víprāḥ ← vípra- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒यम्। वे॒नः। चोदयत्। पृश्निगर्भा इति पृश्निऽगर्भाः। ज्योति॑र्जरायु॒रशि॑ति॒ ज्योति॑ऽजरायुः। रज॑सः। वि॒मान॒ इति॑ वि॒ऽमाने॑। इ॒मम्। अ॒पाम्। सं॒ग॒म इति॑ स॒म्ऽग॒मे। सूर्य॑स्य। शिशु॑म्। न। विप्राः॑। म॒तिभिरिति॑ म॒तिऽर्भैः। रिहन्त।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- वेनः᳓ (*MS*-2, *TS*-2, *RV*-7/18, *AV*-5/6, *SB-M*-5, *SB-K*-5/8, *VS-M*-7/8, *VS-K*-4/10)
+- चोदयत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- पृ᳓श्नि-गर्भाः (*MS*-1, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-0/1)
+- ज्यो᳓तिर्-जरायू (*MS*-1, *TS*-0/1, *RV*-0/1, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-0/1, *VS-K*-1)
+- र᳓जसः (*MS*-11/27, *TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/21)
+- वि-मा᳓नः (*MS*-5/7, *TS*-3/5, *RV*-6/9, *TB*-2/3, *AV*-3/4, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-1/2)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- अपाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-4, *TB*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- सम्-गमे᳓ (*TS*-1, *RV*-4/5, *AV*-0/2, *SB-K*-1, *VS-M*-2, *VS-K*-1, *MS*-5)
+- सू᳓र्यस्य (*MS*-49/143, *TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/38, *VS-K*-13/47)
+- शि᳓शुम् (*MS*-4/5, *TS*-6/9, *RV*-26/44, *TB*-0/1, *AV*-1/6, *SB-M*-4/11, *SB-K*-4/12, *VS-M*-5/8, *VS-K*-7/12)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- मत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *TB*-3, *MS*-6)
+- इ᳓भी (*TB*-2, *SB-K*-1, *MS*-3)
+- रिहन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-11, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -344,6 +371,12 @@ Vena hath stirred those born of Prśni,
 He enveloped in light, in the expanse of the welkin+++(=sky)+++;  
 Him in the meeting-place of the waters, of the sun,  
 Like a child, the priests tend with their songs.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Vena, born of Pṛśni, drove forth the shining afterbirths in the measure of space;  
+at the confluence of the waters, of the sun, the inspired poets lick him with songs like a calf.
 </details>
 
 <details><summary>Geldner</summary>

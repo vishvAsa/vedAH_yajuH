@@ -64,7 +64,7 @@ title = "०७ राष्ट्रभृन्मन्त्राः"
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShA_DRta_dhAmAgni.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/18/182_RtAShADRta_dhAmAgnir_gandharvaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋताषा᳓डृत᳓-धामाग्नि᳓र् गन्धर्वः᳓
@@ -80,6 +80,11 @@ Maintainer of Law, true by nature, Agni is the Gandharva.
 <details><summary>Keith</summary>
 
 Supporting holy order, abounding in truth, Agni is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conquering by truth, truth-aboded Agni is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,6 +499,11 @@ The Quick, All-reaching, Wind is the Gandharva.
 <details><summary>Keith</summary>
 
 The swift, all-pervading wind is the Gandharva;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the vigorous, all-encompassing Wind is the Gandharva;
 </details>
 
 <details><summary>मूलम्</summary>

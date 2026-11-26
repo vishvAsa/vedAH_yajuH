@@ -129,6 +129,11 @@ To noblest work God Savitar impel you.
 Let the god Savitr impel you to the most excellent offering.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the god Savitṛ impel you to the highest work!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दे॒वो वः॑ सवि॒ता प्रार्प॑यतु॒ श्रेष्ठ॑तमाय॒ कर्म॑णे
@@ -1256,9 +1261,19 @@ Be constant, numerous to this lord of cattle.
 Abide ye, numerous, with this lord of cattle.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may you be steadfast and manifold for this master of cattle!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ध्रु॒वाऽअ॒स्मिन् गोप॑तौ स्यात ब॒ह्वीः
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+धुर्वा᳓ अस्मि᳓न् गो᳓पतौ स्यात बह्वी᳓स्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>

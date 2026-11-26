@@ -102,10 +102,30 @@ pātam ← √pā- 2 (root)
 अ॒स्य पा॑तं धि॒येषि॒ता ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्राग्नी आ᳓गतँ सुतं᳓ गीर्भि᳓र्न᳓भो व᳓रेण्यम्।  
+अस्य᳓ पातं धिये᳓षिता᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रा॑ग्नी॒ इति॑ । आ । ग॒त॒म् । सु॒तम् । गीः॒ऽभिः । नभः॑ । वरे॑ण्यम् ।  
 अ॒स्य । पा॒त॒म् । धि॒या । इ॒षि॒ता ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्राग्नी (*MS*-11, *TS*-8, *RV*-44, *TB*-6, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- आ᳓-गतम् (*MS*-7/15, *TS*-0/7, *RV*-0/5, *TB*-1/3, *AV*-1/7, *SB-M*-8/21, *SB-K*-6/24, *VS-M*-1/2, *VS-K*-1/2)
+- सुत᳓म् (*MS*-8/27, *TS*-8/19, *RV*-75/392, *TB*-7/20, *AV*-15/61, *SB-M*-8/28, *SB-K*-8/29, *VS-M*-11/39, *VS-K*-8/32)
+- गीर्भिः᳓ (*MS*-9, *TS*-3, *RV*-85, *TB*-8, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- न᳓भः (*MS*-12/15, *TS*-12/19, *RV*-12/16, *TB*-3/6, *AV*-10/22, *SB-M*-8/9, *SB-K*-11/12, *VS-M*-8/10, *VS-K*-7/10)
+- व᳓रेण्यम् (*MS*-4/11, *TS*-5/11, *RV*-21/38, *TB*-1/2, *AV*-4/8, *SB-M*-4/8, *SB-K*-4/8, *VS-M*-15/19, *VS-K*-13/17)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- पातम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-5, *RV*-11, *TB*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- धिया᳓ (*MS*-11/14, *TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12)
+- इषिता᳓ (*TS*-1, *RV*-3, *TB*-1, *AV*-2, *SB-M*-3, *SB-K*-1, *VS-M*-1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -276,6 +296,12 @@ Indra-Agni, in consequence of our prayers come hither to the pressed (Soma), to 
 O Indra and Agni, come  
 For our prayers to the pressed drink, the delightful fumes  
 Drink ye of it, impelled by our prayer.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra and Agni, come to the pressed [Soma], desirable like the misty sky, with our songs,  
+impelled by our thought, drink of this!
 </details>
 
 <details><summary>Geldner</summary>

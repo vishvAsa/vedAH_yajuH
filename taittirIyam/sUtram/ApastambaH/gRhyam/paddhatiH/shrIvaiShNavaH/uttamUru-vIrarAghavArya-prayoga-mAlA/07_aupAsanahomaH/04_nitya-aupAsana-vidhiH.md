@@ -20,12 +20,10 @@ title = "०४ नित्य-औपासन-विधिः"
 अऽञ्जलिं बध्वा, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/058/03_chatvAri_shRngA.md">
-
 चत्वा᳓रि शृ᳓ङ्गा त्र᳓यो अस्य पा᳓दा  
 दुवे᳓ शीर्षे᳓ सप्त᳓ ह᳓स्तासो अस्य  
 त्रि᳓धा बद्धो᳓ वृषभो᳓ रोरवीति  
 महो᳓ देवो᳓ म᳓र्तियाँ आ᳓ विवेश
-
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_04_guNa-kIrtanam/01_eSha_hi.md">
@@ -33,9 +31,9 @@ title = "०४ नित्य-औपासन-विधिः"
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
 एष᳓ हि᳓ देवः᳓ प्रदि᳓शो᳓ ऽनु स᳓र्वाः  
-पू᳓र्वो [[हि|हि᳓]] जात᳓स्स᳓ उ ग᳓र्भे अन्तः᳓ ।  
-स᳓ [[विजा᳓यमानस्स|विजा᳓यमानस्स᳓]] जनिष्य᳓माणः  
-[[प्रत्य᳓ङ्मु᳓खास्|प्रत्य᳓ङ्मुखास्]] **तिष्ठति** विश्व᳓तोमुखः ॥
+पू᳓र्वो हि᳓ जात᳓स्स᳓ उ ग᳓र्भे अन्तः᳓ ।  
+स᳓ विजा᳓यमानस् स᳓ जनिष्य᳓माणः  
+प्रत्य᳓ङ्-मुखास् **तिष्ठति** विश्व᳓तो-मुखः ॥
 
 </details>
 
@@ -44,7 +42,6 @@ title = "०४ नित्य-औपासन-विधिः"
 प्राङ्मुखो देव! अग्ने! अभिमुखो भव! इति अग्निं प्रार्थ्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/agnaye_jAtavedase_sahojase.md">
-
 अग्नये नमः, जातवेदसे नमः,  
 सहोजसे नमः, अजिरा-प्रभवे नमः,  
 वैश्वानराय नमः, नर्यापसे नमः,  
@@ -53,7 +50,6 @@ title = "०४ नित्य-औपासन-विधिः"
 +++(इति ऐन्द्र्यादिदिक्षु अग्निमर्चयेत् ।)+++
 
 +++("मध्ये यज्ञपुरुषाय नमः" इति क्वचित्।)+++
-
 </div>  
 
 इति प्राग्-आदि अष्टसु दिक्षु अक्षतैस् सम्पूज्य,  
@@ -86,11 +82,9 @@ title = "०४ नित्य-औपासन-विधिः"
 इति सङ्कल्प्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/005/10_yatra_vettha.md">
-
 य᳓त्र वे᳓त्थ वनस्पते  
 देवा᳓नां गु᳓ह्या ना᳓मानि  
 त᳓त्र हव्या᳓नि गामय
-
 </div>
 
 इति समिधमाधाय, (वनस्पतय इदं न मम ) इत्युक्त्वा, 
@@ -101,12 +95,10 @@ title = "०४ नित्य-औपासन-विधिः"
 ‘ओं श्रीविष्ण॑वे॒ स्वाहा॑” इति एकया समिधा दर्भद्वयेन वा पूर्णाहुतिं हुत्वा, 'श्रीविष्णवे परमात्मन इदं न मम, तण्डुले शृते सति उत्थाय,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
-
 अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
 वि᳓श्वानि देव वयु᳓नानि+++(=ज्ञानानि)+++ विद्वा᳓न् ।  
 **युयोध्य्**+++(=अपनय)+++ अ᳙स्मज्-जुहुराण᳓म्+++(=कुटिलकारि)+++ ए᳓नो  
 भू᳓यिष्ठान् ते **न᳓म-उक्तिव्ँ विधेम** ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">
@@ -160,7 +152,6 @@ title = "०४ नित्य-औपासन-विधिः"
 ‘भगवानेव ... औपासनाख्यं कर्म .. कारितवान्' 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/sAttvika-tyAgaH_bhagavAn_eva">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **भगवान्** एव  
@@ -213,6 +204,7 @@ _अखिलपरिजनान्वय-विवक्षायाम्_ -
 अखिल-परिजन-परिच्छदान्विताय स्वस्मै  
 स्वप्रीतये स्वयमेव प्रतिपादितवान्
 
+
 गीताभाष्ये
 
 > स्वकीयेन +आत्मना कर्त्रा,  
@@ -236,6 +228,7 @@ _अखिलपरिजनान्वय-विवक्षायाम्_ -
 परमपुरुषः सर्वशेषी स्व-शेष-भूतम् इदं … कर्म  
 स्वस्मै स्वप्रीतये स्वयमेव कारयति ।
 </details>
+
 
 <details><summary>वेङ्कटनाथः</summary>
 
@@ -280,21 +273,18 @@ ______________
 
 > भगवानेव स्वनियाम्यस्वरूपस्थितिप्रवृत्तिस्वशेषतैकरसेन मया स्वकीयैश्चोपकरणैस्स्वाराधनैकप्रयोजनाय परमपुरुषस्सर्वशेषी स्वशेषभूतमिमं योगं कारितवान् ।
 </details>
-
 </div>  
 
 इति सात्विकत्यागं कृत्वा,  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/prINana-mantraH_kRtaM_cha">
-
 कृतञ् च करिष्यामि भगवन्। +++(इति समाप्ताव् अपि।)+++  
 
 नित्येन भगवत्-प्रीत्य्-अर्थेन  
 महा-विभूति-चातुरात्म्य-भगवद्-वासुदेव-पादारविन्दार्चनेन  
 ???? भगवत्कर्मणा  
 भगवन्तं वासुदेवम् अर्चयिष्यामि  +++(इत्य् आदौ)+++  
-/ भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।   
-
+/ भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।
 </div>  
 
 इति औपासनं भगवति समर्पयेत् ॥  

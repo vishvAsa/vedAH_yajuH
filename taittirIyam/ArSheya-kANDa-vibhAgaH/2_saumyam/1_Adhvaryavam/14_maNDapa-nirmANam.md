@@ -1304,6 +1304,13 @@ _________
 गीर्भिः स्तुतिभिर् वननीयो भजनीय इन्द्रः सदोभिमानी गिर्वणाः। हे गिर्वण इमाः स्तोत्र-शस्त्र-रूपा गिरः सर्वतः कटक-रूपेण त्वां परिभवन्तु वेष्टयन्तु। कीदृश्यः। दीर्घायुषं त्वाम् अनु स्वयम् अपि वृद्धि-मत्यः। किं च, जुष्टयो ऽस्मत्-सेवास तव जुष्टाः प्रिया भवन्तु।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[20_7]** T6 गोर्वणो ; Ch गिर्वाणो
+
+**समानान्तराणि:** cf. Mâitr. S. 1. 2, 11 ; Kap. S. 2, 6.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 ईश्वर और सभाध्यक्ष से क्या-क्या होने को योग्य है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -1370,6 +1377,12 @@ May these our songs, O lover of song,
 Encompass thee on all sides,  
 Strengthening thee whose life is strong;  
 May they be dear delights.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Around you, O song-loving one, let these songs be from every side;  
+prolonging your life, may they grow great, welcomed may they be welcome!
 </details>
 
 <details><summary>Geldner</summary>

@@ -100,6 +100,12 @@ yajñám ← yajñá- (nominal stem)
 ऋषी॑णां च स्तु॒तीरुप॑ य॒ज्ञं च॒ मानु॑षाणाम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्रमि᳓द्ध᳓री वहतो᳓ ऽप्रतिधृष्टशवसम्।  
+ऋ᳓षीणां च स्तुती᳓रु᳓प यज्ञं᳓ च मा᳓नुषाणाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑म् । इत् । हरी॑ । व॒ह॒तः॒ । अप्र॑तिधृष्टऽशवसम् ।  
@@ -109,6 +115,22 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 इन्द्र॑म्। इत्। हरी॒ऽइति॒ हरी॑। व॒ह॒तः॒। अप्र॑तिधृष्टशवस॒मिति॒ अप्र॑तिऽधृष्टशवसम्। ऋषी॑णाम्। च॒। स्तु॒तीः। उप॑। य॒ज्ञम्। च॒। मानु॑षाणाम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- ह᳓री (*MS*-8/16, *TS*-9/19, *RV*-91/263, *TB*-8/13, *TK*-0/1, *AV*-18/52, *SB-M*-5/16, *SB-K*-4/14, *VS-M*-8/18, *VS-K*-6/15)
+- वहतः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-9, *AV*-1, *SB-M*-4, *SB-K*-5, *VS-M*-2, *VS-K*-2)
+- अ᳓प्रतिधृष्ट-शवसम् (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- ऋ᳓षीणाम् (*MS*-6/52, *TS*-4/56, *RV*-14/101, *TB*-1/5, *TK*-0/8, *AV*-7/70, *SB-M*-14/125, *SB-K*-13/130, *VS-M*-3/32, *VS-K*-2/34)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- स्तुतीः᳓ (*MS*-1, *TS*-1, *RV*-1/3, *VS-M*-1, *VS-K*-1/2)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- मा᳓नुषाणाम् (*MS*-5/15, *TS*-2/9, *RV*-17/84, *TB*-3/12, *AV*-3/12, *SB-M*-1/17, *SB-K*-1/22, *VS-M*-3/8, *VS-K*-2/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -265,6 +287,12 @@ His pair of Tawny Coursers bring Indra of unresisted might
 Indra his two steeds bear,  
 Him of unequalled strength,  
 To the praises of the Rsis and the sacrifice of men.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two bay steeds bear Indra of irresistible power,  
+to the praises of the ṛṣis and to the sacrifice of mortals.
 </details>
 
 <details><summary>Geldner</summary>

@@ -114,6 +114,12 @@ duchúnām ← duchúnā- (nominal stem)
 आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥९॥ ४०
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ना आ᳓यूँषि पवसा आ᳓सुवो᳓र्जम् इ᳓षं च नः  
+आरे᳓ बाधस्व दुछु᳓नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । आयूं॑षि । प॒व॒से॒ । आ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ।  
@@ -139,6 +145,23 @@ duchúnām ← duchúnā- (nominal stem)
 अग्ने॑। आयूँ॑षि। प॒व॒से॒। आ। सु॒व। ऊर्ज॑म्। इष॑म्। च॒। नः॒। आ॒रे। बा॒ध॒स्व॒। दु॒च्छुना॑म्। १।
 
 अग्ने॑। आयूँ॑षि। प॒व॒से॒। आ। सु॒व॒। ऊर्ज॑म्। इष॑म्। च॒। नः॒। आ॒रे। बा॒ध॒स्व॒। दु॒च्छुना॑म्। १४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नाः (*TS*-0/157, *RV*-0/265, *TB*-0/45, *TK*-0/3, *AV*-0/59, *SB-M*-0/88, *SB-K*-0/80, *VS-M*-0/91, *VS-K*-0/93, *KS*-0/73)
+- आ᳓यूंषि (*TS*-8, *RV*-9, *TB*-2, *AV*-10, *SB-M*-2, *SB-K*-3, *VS-M*-4, *VS-K*-4, *KS*-5)
+- पव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *TK*-2)
+- साः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓सु (*TB*-1, *SB-M*-2, *SB-K*-4, *VS-M*-1/2, *VS-K*-3, *KS*-3/5)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- ऊ᳓र्जम् (*TS*-73/123, *RV*-36/58, *TB*-41/60, *TK*-2/3, *AV*-29/41, *SB-M*-37/121, *SB-K*-41/124, *VS-M*-21/51, *VS-K*-28/58, *KS*-17/39)
+- इ᳓षम् (*TS*-27/55, *RV*-98/219, *TB*-14/24, *TK*-1, *AV*-13/25, *SB-M*-12/41, *SB-K*-13/41, *VS-M*-16/39, *VS-K*-13/37, *KS*-10/16)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- आरे᳓ (*TS*-8/11, *RV*-43/57, *TB*-2/5, *AV*-5/21, *SB-M*-2/4, *SB-K*-3/5, *VS-M*-4/7, *VS-K*-4/8, *KS*-5/7)
+- बाधस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-6, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-2)
+- दुछु᳓नाम् (*SB-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -463,7 +486,7 @@ O Agni, you bring (longer) lifespans through your purification; impel  hither no
 Into the distance thrust misfortune.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -496,9 +519,36 @@ Far away drive ill-fortune.
 Agni, thou pourest life, etc., as in XIX. 38.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, you purify our life-spans; impel power and nourishment to us;  
+drive misfortune far away!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+O Agni, you purify lifespans; send us invigorations and nourishment;  
+ward off misfortune far away.
+</details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 agni you purify our life, send to us swift strength. Prevent the misfortune from over taking us.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, make our lives pure; impell vigour and food (to come) to us; destroy away the poverty.
+</details>
+
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+अग्न आयूंषि इति गायत्र्यौ23 ॥ हे अग्ने ! अस्माकम् आयूंषि पवसे प्रेरय शोधय वा । किञ्च - अस्मभ्यम् इषमूर्जं च आसुव । अनुजानीहि प्रेरय वा अस्माकं दुच्छुनाम् अलक्ष्मीं च आरे दूरं बाधस्व ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने, आयूंष्यस्मदीयजीवनानि पवसे यथा वर्धन्ते तथा शोधय । क्षीरादिरसमिषमन्नं च नोऽस्माकमासुवाऽऽभिमु्ख्येन प्रेरय । दुच्छुनामुपद्रवमारे दूरे नीत्वा बाधस्व विनाशय ।
 </details>
 
 <details><summary>Geldner</summary>

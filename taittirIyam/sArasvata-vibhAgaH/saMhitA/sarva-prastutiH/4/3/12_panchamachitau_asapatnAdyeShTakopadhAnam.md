@@ -157,6 +157,21 @@ May we (enjoy thy protection); drive away our foes.
 अनेनाभिपायेणोभयत्रैवकारप्रयोगः ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+8\. O Fire (Jātavedas), destroy our enemies, who have been born suddenly, and also destroy those, who have not been born; being pleasant-minded speak in our favour; may we become the destroyers of our enemies.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सहसा जातानिति ॥ सहसा बलेन । गतमन्यत् । सुमनस्यमानः शोभनमनस्कोभवन् नो ऽस्मान् अधिब्रूहि पक्षपातेन वद । यद्वा - ऐश्वर्येण स्वभूतानस्मानाज्ञापय वयं स्याम सम्पन्ना भूयास्म ॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+सहसा बलेन जातानित्यादि पूर्ववत् । सुमनस्यमानोऽस्मासु सौमनस्यं प्राप्तः सन्नोऽस्मानधिब्रूहि शत्रुभ्योऽधिकान्ब्रूहि । वयमपि त्वदनुग्रहादधिकाः स्याम, नोऽस्माकं सपत्नाञ्शत्रून्प्रणुद ।
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता

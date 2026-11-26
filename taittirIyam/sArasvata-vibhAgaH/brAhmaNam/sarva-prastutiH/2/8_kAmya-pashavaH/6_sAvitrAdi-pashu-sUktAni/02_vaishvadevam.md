@@ -124,6 +124,12 @@ vithurám ← vithurá- (nominal stem)
 कर॑न्त्सु॒षाहा॑ विथु॒रन्न शवः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓ नो वि᳓श्वा आ᳓स्क्रा गमन्त देवा᳓ मित्रो᳓ अर्यमा᳓ व᳓रुणः सजो᳓षाः  
+भु᳓वन् य᳓था नो वि᳓श्वे वृधा᳓सः क᳓रन्त् सुषा᳓हा विथुरं᳓ न᳓ श᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । विश्वे॑ । आस्क्राः॑ । ग॒म॒न्तु॒ । दे॒वाः । मि॒त्रः । अ॒र्य॒मा । वरु॑णः । स॒ऽजोषाः॑ ।  
@@ -133,6 +139,31 @@ vithurám ← vithurá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓ । नः । वि᳓श्वे । अ᳓स्क्रागमन्तु । देवाः᳓ । मित्रः᳓ । अर्यमा᳓ । व᳓रुणः । सजो᳓षाः । भु᳓वन् । य᳓था । नः । वि᳓श्वे । वृधा᳓सः । क᳓रन् । सु-षा᳓हा । विथुर᳓म् । न᳓ । श᳓वः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वि᳓श्वाः (*TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/214, *VS-K*-15/214, *KS*-17/118)
+- आ᳓स्क्राः (*RV*-2/3)
+- गम् (*TS*-2, *RV*-1, *TB*-1, *AV*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अन्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-14, *TB*-7, *TK*-2, *SB-M*-1, *SB-K*-1, *VS-K*-2, *KS*-1)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-24/48, *TK*-0/1, *AV*-28/52, *SB-M*-33/71, *SB-K*-40/74, *VS-M*-17/44, *VS-K*-18/50, *KS*-18/26)
+- अर्यमा᳓ (*TS*-8/18, *RV*-77/103, *TB*-8/16, *AV*-17/25, *SB-M*-2/8, *SB-K*-2/7, *VS-M*-1/4, *VS-K*-1/5, *KS*-4/5)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-39/82, *KS*-41/72)
+- सजो᳓षाः (*TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-7, *KS*-9)
+- भु᳓वन् (*TS*-0/15, *RV*-3/57, *TB*-1/14, *TK*-0/2, *AV*-0/24, *SB-M*-0/7, *SB-K*-0/9, *VS-M*-0/11, *VS-K*-0/10, *KS*-0/5)
+- य᳓था (*TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24, *KS*-37)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वि᳓श्वे (*TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-48/214, *VS-K*-46/214, *KS*-31/118)
+- वृधा᳓सः (*TS*-0/1, *RV*-7/60, *TB*-1, *AV*-0/8, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/2)
+- क᳓रन् (*RV*-1, *TB*-1)
+- सु-षा᳓हा (*TB*-1)
+- विथुर᳓म् (*RV*-1/2, *TB*-1, *AV*-0/1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- श᳓वः (*TS*-1/11, *RV*-39/161, *TB*-1/5, *AV*-15/39, *SB-M*-4/7, *SB-K*-3/6, *VS-M*-2/9, *VS-K*-1/8, *KS*-0/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -305,7 +336,7 @@ so that they all will become our strengtheners and will make (all things)  easy 
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -320,6 +351,12 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 
 To us may all the Gods come trooped together, Aryaman, Mitra, Varuna concordant,  
      That all may be promoters of our welfare, and with great might preserve our strength from slackness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May all the united gods come to us: Mitra, Aryaman, and Varuṇa in unison,  
+so that all may be our increasers, [and] make our frail might well-conquering.
 </details>
 
 <details><summary>Geldner</summary>

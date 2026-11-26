@@ -207,6 +207,18 @@ vā́reṇa ← vā́ra- 1 (nominal stem)
 वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+पुना᳓तु ते परिस्रु᳓तँ सो᳓मँ सू᳓र्यस्य दुहिता᳓  
+वा᳓रेण श᳓स्वता त᳓ना
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+पुनातु ते परिस्रुतँ सोमँ सूर्यस्य दुहिता।  
+वारेण शश्वता तना
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पु॒नाति॑ । ते॒ । प॒रि॒ऽस्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ।  
@@ -226,6 +238,33 @@ vā́reṇa ← vā́ra- 1 (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 पु॒नातु॑ । ते । प॒रि॒स्रुत॒मिति॑ परि-स्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ॥ वारे॑ण । शश्व॑ता । तना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- पुना᳓तु (*TS*-1, *TB*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- परि-स्रु᳓तम् (*TS*-1, *RV*-2/3, *TB*-2/21, *AV*-0/1, *SB-M*-5/19, *SB-K*-6/16, *VS-M*-2/23, *VS-K*-2/14, *KS*-0/2)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-32/108, *KS*-24/80)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/36, *VS-K*-12/44, *KS*-6/52)
+- दुहिता᳓ (*TS*-1/2, *RV*-30/46, *TB*-2/3, *AV*-7/12, *SB-M*-8/14, *SB-K*-8/14, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- वा᳓रेण (*TS*-1/2, *RV*-2/61, *TB*-3, *AV*-0/3, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- श᳓सु (मूल-पाठः)
+- अता (*RV*-1, *TK*-1, *AV*-1)
+- त᳓ना (*TS*-1/2, *RV*-23/33, *TB*-2, *AV*-3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पुना᳓तु (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *MS*-2, *TS*-1, *TB*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- परि-स्रु᳓तम् (*MS*-2/22, *TS*-1, *RV*-2/3, *TB*-2/21, *AV*-0/1, *SB-M*-5/19, *SB-K*-6/16, *VS-M*-2/23, *VS-K*-2/14)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- सू᳓र्यस्य (*MS*-49/143, *TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/38, *VS-K*-13/47)
+- दुहिता᳓ (*MS*-3/6, *TS*-1/2, *RV*-30/46, *TB*-2/3, *AV*-7/12, *SB-M*-8/14, *SB-K*-8/14, *VS-M*-1, *VS-K*-1)
+- वा᳓रेण (*MS*-2, *TS*-1/2, *RV*-2/61, *TB*-3, *AV*-0/3, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- श᳓श्वता (*MS*-1, *TS*-1/2, *RV*-2/43, *TB*-2/4, *TK*-0/1, *AV*-2/7, *SB-M*-1/16, *SB-K*-1/18, *VS-K*-1)
+- त᳓ना (*MW*, *MS*-2/4, *TS*-1/2, *RV*-23/33, *TB*-2, *AV*-3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -474,6 +513,18 @@ Purify for thee the flowing Soma
 With the eternal sieve.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the daughter of the sun purify thy running Soma  
+with the continuous tail-hair strainer.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"May the daughter of the sun purify your overflowing soma  
+with the eternal, continuous sieve."
+</details>
+
 <details><summary>Geldner</summary>
 
 Die Tochter des Surya klärt deinen Soma, der durch die Haarseihe in vollständigem Durchlauf abfließt.
@@ -609,6 +660,18 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 Purified by Vâyu's strainer, Soma that has passed away forward is Indra's proper friend.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purified by the wind's sieve, flowing beyond backwards, Soma is  
+the allied friend of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"Purified by the filter, turned inward, soma has flown across,  
+the allied friend of Indra, [purified by] Vāyu."
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
@@ -632,6 +695,18 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 इन्द्र॑स्य॒ युज्य॒स्सखा॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वा᳓योः पूतः᳓ पवि᳓त्रेण प्रत्य᳓ङ् सो᳓मो अ᳓तिस्रुतः  
+इ᳓न्द्रस्य यु᳓ज्यः स᳓खा
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वायुः पूतः पवित्रेण प्रत्यङ् सोमो अतिद्रुतः।  
+इन्द्रस्य युज्यस्सखा
+</details>
+
 <details><summary>पदपाठः</summary>
 
 वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्यः॑। सखा॑। ५१.१।
@@ -650,6 +725,32 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वा॒युः । पू॒तः । प॒वित्रे॑ण । प्र॒त्यङ्ङ् । सोमः॑ । अति॑द्रुत॒ इत्यति॑-द्रु॒तः॒ ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वा᳓योः (*TB*-0/1, *AV*-0/1, *SB-K*-0/9)
+- पूतः᳓ (*TS*-5/14, *RV*-3/15, *TB*-5/12, *TK*-1/2, *AV*-4/14, *SB-M*-12/24, *SB-K*-10/22, *VS-M*-4/8, *VS-K*-4/8, *KS*-0/1)
+- पवि᳓त्रेण (*TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-13/24, *VS-K*-13/19, *KS*-7/13)
+- प्रत्य᳓ङ् (*TS*-2, *RV*-12, *TB*-8, *AV*-17, *SB-M*-34, *SB-K*-40, *VS-M*-3, *VS-K*-3, *KS*-6)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-48/128, *VS-K*-40/108, *KS*-35/80)
+- अ᳓तिस्रुतः (*SB-M*-1, *SB-K*-1, *VS-K*-1)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- यु᳓ज्यः (*TS*-2/3, *RV*-3/23, *TB*-2, *AV*-4/6, *SB-M*-8, *SB-K*-8/9, *VS-M*-5, *VS-K*-5, *KS*-1/2)
+- स᳓खा (*TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-13/24, *VS-K*-15/25, *KS*-8/17)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वायुः᳓ (*MS*-62/119, *TS*-52/108, *RV*-22/89, *TB*-39/62, *TK*-7/13, *AV*-27/42, *SB-M*-155/252, *SB-K*-134/227, *VS-M*-25/48, *VS-K*-19/55)
+- पूतः᳓ (*MS*-9/19, *TS*-5/14, *RV*-3/15, *TB*-5/12, *TK*-1/2, *AV*-4/14, *SB-M*-12/24, *SB-K*-10/22, *VS-M*-6/10, *VS-K*-7/12)
+- पवि᳓त्रेण (*MS*-20/45, *TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-15/26, *VS-K*-16/22)
+- प्रत्य᳓ङ् (*MS*-14, *TS*-2, *RV*-12, *TB*-8, *AV*-17, *SB-M*-34, *SB-K*-40, *VS-M*-5, *VS-K*-6)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- अ᳓ति-द्रुतः (*MS*-1, *TS*-1, *TB*-2, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-3)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- यु᳓ज्यः (*MS*-5/9, *TS*-2/3, *RV*-3/23, *TB*-2, *AV*-4/6, *SB-M*-8, *SB-K*-8/9, *VS-M*-7, *VS-K*-8)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -829,6 +930,13 @@ Purified by Vâyu's strainer, Soma that has passed away forward is Indra's prope
 अपरा योजना - वायुश्शरीरस्थः प्राणः पवित्रेण पावनेन सोमेन पीतेन पूतः प्रथमं शोधितः इन्द्रस्य युज्यस्सखा स प्रत्यङ् प्रतीपमतिद्रुतः स्वस्थानत्पीडितोतिक्रम्य निर्गतः सोमश्च सोतिद्रुतः । यद्वा - पूर्ववत्तृतीयायास्स्वादेशः । अनेन सोमेन स वायुरतिद्रुतः । यद्वा - सोमश्च वायुश्चेति तदुभयमनेन कर्मणा स्वस्थानस्थं भवति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[171_7]** So D; Ch प्रत्यक्; cf. Mâitr. S. 2, 3, 8. (Thus D; Ch प्रत्यक्; cf. Mâitr. S. 2, 3, 8.)
+
+- **[171_8]** So D; Ch अतिश्रुतः (Thus D; Ch reads अतिश्रुतः)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
@@ -899,6 +1007,21 @@ Hither bring the food of those
 Who have not gone to the reverential cutting of the straw.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Surely, just as those possessing barley reap the barley in due order, separating it,  
+so provide food here and there for those who have not gone to bow down before the sacrificial grass."
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Surely, as those possessing barley reap the barley in due order, having separated it,  
+make here and there the food of those who have not gone to the reverence-paying of the sacrificial grass!
+
+Surely, O companions, as those having barley harvest even the barley, separating it in due order,  
+so prepare here and there the food of these who did not go to the worship of the sacrificial grass.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 कु॒विद॒ङ्ग यव॑मन्तो॒ यवं॑ चि॒द्यथा॒ दान्त्य॑नुपू॒र्वं वि॒यूय॑।  
@@ -911,6 +1034,12 @@ Who have not gone to the reverential cutting of the straw.
 इ॒हेहै॑षाङ्कृणुत॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्ति॒न्न ज॒ग्मुः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कुविदङ्ग यवमन्तो यवं चिद्यथा दान्त्यनुपूर्वं वियूय।  
+इहेहैषां कृणुत भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः
+</details>
+
 <details><summary>पदपाठः</summary>
 
 कु॒वित्। अ॒ङ्ग। यव॑ऽमन्तः। यव॑म्। चि॒त्। यथा॑। दान्ति॑। अ॒नु॒ऽपू॒र्वम्। वि॒ऽयूथ॑। इ॒हऽइ॑ह। ए॒षा॒म्। कृ॒णु॒हि॒। भोज॑नानि। ये। ब॒र्हिषः॑। नमः॑ऽवृक्तिम्। न। ज॒ग्मुः। १२५.२।
@@ -919,6 +1048,28 @@ Who have not gone to the reverential cutting of the straw.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कु॒वित् । अ॒ङ्ग । यव॑मन्त॒ इति॒ यव॑-म॒न्तः॒ । यव॑म् । चि॒त् । यथा॑ । दान्ति॑ । अ॒नु॒पू॒र्वमित्य॑नु-पू॒र्वम् । वि॒यूयेति॑ वि-यूय॑ ॥ इ॒हेहेती॒ह-इ॒ह॒ । ए॒षा॒म् । कृ॒णु॒त॒ । भोज॑नानि । ये । ब॒र्हिषः॑ । नमो॑वृक्ति॒मिति॒ नमः॑-वृ॒क्ति॒म् । न । ज॒ग्मुः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कुवि᳓त् (*MS*-8, *TS*-4, *RV*-50, *TB*-3, *AV*-4, *SB-M*-6, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- अङ्ग᳓ (*MW*, *MS*-8/9, *TS*-3, *RV*-40, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-7, *VS-M*-4, *VS-K*-4)
+- य᳓वमन्तः (*MS*-3, *TS*-2, *RV*-1, *TB*-1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- य᳓वम् (*MS*-9/33, *TS*-5/16, *RV*-11/19, *TB*-2/7, *AV*-6/22, *SB-M*-5/34, *SB-K*-8/43, *VS-M*-5/13, *VS-K*-5/16)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- य᳓था (*MW* ŚBr., *MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- दा᳓न्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-2, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *MS*-2)
+- अनु-पूर्व᳓म् (*MS*-2, *TS*-3, *RV*-4, *TB*-5, *AV*-3, *SB-M*-7, *SB-K*-6, *VS-M*-2/3, *VS-K*-3)
+- वि-यू᳓य (*MS*-0/2, *TS*-2, *RV*-1, *TB*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- इहे᳓हा (*MW*, *MS*-2/3, *TB*-1, *SB-K*-1)
+- एषा᳓म् (*MS*-22/1379, *TS*-17/965, *RV*-4/1247, *TB*-17/567, *TK*-0/57, *AV*-14/1259, *SB-M*-79/5239, *SB-K*-99/5549, *VS-M*-2/319, *VS-K*-1/301)
+- कृणुत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-5, *RV*-8, *TB*-2, *AV*-10, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-3)
+- भो᳓जनानि (*MS*-3, *TS*-2, *RV*-5/20, *TB*-1/2, *AV*-5/6, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- बर्हि᳓षः (*MS*-2/86, *TS*-7/75, *RV*-7/137, *TB*-2/76, *AV*-2/41, *SB-M*-6/75, *SB-K*-7/65, *VS-M*-3/42, *VS-K*-3/41)
+- न᳓मः-वृक्तिम् (*TS*-3, *RV*-1, *TB*-1, *AV*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- जग्मुः᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MS*-4, *TS*-2, *RV*-4, *TB*-1, *AV*-1, *SB-M*-3, *SB-K*-7, *VS-M*-2, *VS-K*-1)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -961,6 +1112,13 @@ Who have not gone to the reverential cutting of the straw.
 इहेहेति वीप्सा ।  
 सर्वत्र स्थानेस्थाने गृहेगृहे लोकेलोके वा । 'अनुदात्तं च' इति द्वितीयस्य निघातः ।  
 **वियूयेति** यौतेर्ल्यपि छान्दसो दीर्घः । उक्तमेषां भोजनानि कृणुतेति, केषामित्याह - ये बर्हिषो यज्ञस्य **नमोवृक्तिं** नमस्कारनाशनं सान्नस्य[साङ्गस्य]नाशनं **न जमुर्** न गताः ये यज्ञस्य नमस्कारादिकं न नाशयन्ति अस्माकमुपकारिणः तेषां कृणुत । ये पुनर्नाशयन्ति ते त्वनेन विनाश्यन्ताम् । यथोक्तं 'नमोवृक्तिमेवैषां वृङ्क्ते' इति । नमश्शब्दे ऊर्यादिगतित्वात् 'तादौ च निति' इति प्रकृतिस्वरत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[171_9]** Ch वृक्तिर्न
+
+- **[565_1]** Vgl. RV 10, 131, 2; Mâitr. S. 1, 11, 4. (Cf. RV 10, 131, 2; Mâitr. S. 1, 11, 4)
 </details>
 </details>
 

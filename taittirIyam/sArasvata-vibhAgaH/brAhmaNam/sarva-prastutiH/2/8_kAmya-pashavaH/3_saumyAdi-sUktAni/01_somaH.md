@@ -415,6 +415,12 @@ To him who worships Soma gives the milch-cow, a fleet steed and a man of active 
      Skilled in home duties, meet for holy synod, for council meet, a glory to his father.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma gives a milch-cow, Soma a swift courser, Soma a skillful hero,  
+domestic, fit for assembly, fit for council, bringing fame to his father, to him who serves him.
+</details>
+
 <details><summary>Geldner</summary>
 
 Soma schenkt dem, der ihm opfert, eine Milchkuh, Soma ein rasches Streitroß, Soma einen werktüchtigen Sohn, der im Haus, im Rat der Weisen, in der Versammlung tüchtig ist, der dem Vater Ruhm bringt.
@@ -635,6 +641,12 @@ ví ← ví (invariable)
 त्वमा त॑तन्थो॒र्व॒न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥१६॥ १६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वमिमा ओषधीस्सोम विश्वास्त्वमपो अजनयस्त्वं गाः।  
+त्वमाततन्थोर्वन्तक्षिं त्वं ज्योतिषा वि तमो ववर्थ
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । इ॒माः । ओष॑धीः । सो॒म॒ । विश्वाः॑ । त्वम् । अ॒पः । अ॒ज॒न॒यः॒ । त्वम् । गाः ।  
@@ -649,6 +661,29 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 त्वम्। इ॒माः। ओष॑धीः। सो॒म॒। विश्वाः॑। त्वम्। अ॒पः। अ॒ज॒न॒यः॒। त्वम्। गाः। त्वम्। आ। त॒त॒न्थ॒। उ॒रु। अ॒न्तरि॑क्षम्। त्वम्। ज्योति॑षा। वि। तमः॑। ववर्थ॒। १६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- अपो᳓ (*MS*-4, *TS*-7/8, *TB*-2, *SB-K*-1, *VS-K*-7)
+- अजनयः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- गाः᳓ (*MS*-19/149, *TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/67, *VS-K*-3/67)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- आ᳓-ततन्थ (*MS*-3)
+- ऊर्व᳓म् (*MS*-1/2, *TS*-1, *RV*-12/21, *AV*-1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓क्षिन् (अनाम्नातम् (अनुमानम्))
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- ज्यो᳓तिषा (*MS*-25/134, *TS*-27/199, *RV*-34/148, *TB*-4/70, *TK*-1/5, *AV*-13/66, *SB-M*-25/173, *SB-K*-24/174, *VS-M*-16/72, *VS-K*-12/80)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- त᳓मः (*Whitney*, *MS*-28/52, *TS*-22/33, *RV*-43/113, *TB*-4/13, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22)
+- वव᳓र्थ (*Whitney*, *RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -899,6 +934,11 @@ ___________________
 यद् वा स्तोमं सामयुक्तम् अन्नं हविर् आहरध्वम् इति ॥११॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_12]** So corr. nach RV 1, 91, 22. Mss. अजयस्त्वं (Thus emended after RV 1, 91, 22. Mss. read अजयस्त्वं)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -950,6 +990,12 @@ You, Soma, begot all these plants here; you the waters, you the cows. You have s
 
 These herbs, these milch-kine, and these running waters, all these, O Soma, thou hast generated.  
      The spacious firmament hast thou expanded, and with the light thou hast dispelled the darkness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Soma, hast generated all these plants, thou the waters, thou the cows;  
+thou hast spread out the wide atmosphere, thou hast uncovered the darkness with light.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1152,6 +1198,18 @@ soma ← sóma- (nominal stem)
 राज॑न्त्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्याँ᳓ या᳓ प᳓र्वतेष्व् ओ᳓षधीष्व् अप्सु᳓  
+ते᳓भिर् नो वि᳓श्वैः सुम᳓ना अ᳓हेडन् रा᳓जन्त् सोम प्र᳓ति हव्या᳓ गृभाय
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+या ते धामानि दिवि या पृथिव्यां या पर्वतेष्वोषधीष्वप्सु।  
+तेभिर्नो विश्वैस्सुमना अहेडन्राजन्सोम प्रति हव्या गृभाय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 या । ते॒ । धामा॑नि । दि॒वि । या । पृ॒थि॒व्याम् । या । पर्व॑तेषु । ओष॑धीषु । अ॒प्ऽसु ।  
@@ -1166,6 +1224,54 @@ soma ← sóma- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 या᳓ । ते । धा᳓मानि । दिवि᳓ । या᳓ । पृथिव्या᳓म् । या᳓ । प᳓र्वतेषु । ओ᳓षधीषु । अप्सु᳓ । ते᳓भिः । नः । वि᳓श्वैः । सु-म᳓नाः । अ᳓हेडन् । रा᳓जन् । सोम । प्र᳓ति । हव्या᳓ । गृभाय ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/639, *VS-K*-28/581, *KS*-83/818)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- धा᳓मानि (*TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/42, *KS*-6/20)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/639, *VS-K*-28/581, *KS*-83/818)
+- पृथिव्या᳓म् (*TS*-30/116, *RV*-31/139, *TB*-16/48, *TK*-6/7, *AV*-40/92, *SB-M*-64/152, *SB-K*-62/160, *VS-M*-30/91, *VS-K*-25/84, *KS*-14/50)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/639, *VS-K*-28/581, *KS*-83/818)
+- प᳓र्वतेषु (*TS*-1/10, *RV*-9/115, *TB*-1/5, *AV*-6/43, *SB-M*-1/8, *SB-K*-1/8, *VS-M*-0/6, *VS-K*-0/7, *KS*-0/8)
+- ओ᳓षधीषु (*TS*-16/114, *RV*-19/89, *TB*-8/57, *TK*-0/2, *AV*-9/86, *SB-M*-5/93, *SB-K*-5/98, *VS-M*-5/44, *VS-K*-5/49, *KS*-7/31)
+- अप्सु᳓ (*TS*-37/319, *RV*-84/532, *TB*-21/152, *TK*-3/14, *AV*-51/324, *SB-M*-61/760, *SB-K*-58/744, *VS-M*-18/146, *VS-K*-16/122, *KS*-15/99)
+- ते᳓भिः (*TS*-6/4763, *RV*-28/3136, *TB*-3/2709, *TK*-0/363, *AV*-12/3165, *SB-M*-0/20457, *SB-K*-0/20018, *VS-M*-2/768, *VS-K*-1/624, *KS*-2/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वि᳓श्वैः (*TS*-10/283, *RV*-5/1116, *TB*-4/125, *TK*-0/124, *AV*-5/353, *SB-M*-9/248, *SB-K*-9/219, *VS-M*-4/214, *VS-K*-3/214, *KS*-4/118)
+- सु-म᳓नाः (*TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13, *KS*-1/3)
+- अ᳓हेडन् (*TS*-2, *RV*-2, *TB*-1, *VS-M*-1)
+- रा᳓जन् (*TS*-2, *RV*-4/8, *TB*-2/3, *AV*-1/2, *KS*-1/2)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14, *KS*-16)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-4/23, *KS*-10/34)
+- गृभाय (*TS*-4, *RV*-12, *TB*-3, *AV*-7, *VS-M*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- धा᳓मानि (*MS*-28/69, *TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/45)
+- दिवि᳓ (*MW* ŚBr., *MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- पृथिव्या᳓म् (*MS*-40/155, *TS*-30/116, *RV*-31/139, *TB*-16/48, *TK*-6/7, *AV*-40/92, *SB-M*-64/152, *SB-K*-62/160, *VS-M*-30/91, *VS-K*-25/85)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- प᳓र्वतेषु (*MS*-3/17, *TS*-1/10, *RV*-9/115, *TB*-1/5, *AV*-6/43, *SB-M*-1/8, *SB-K*-1/8, *VS-M*-0/6, *VS-K*-0/7)
+- ओ᳓षधीषु (*MS*-25/137, *TS*-16/114, *RV*-19/89, *TB*-8/57, *TK*-0/2, *AV*-9/86, *SB-M*-5/93, *SB-K*-5/98, *VS-M*-5/44, *VS-K*-5/49)
+- अप्सु᳓ (*MS*-38/374, *TS*-37/319, *RV*-84/532, *TB*-21/152, *TK*-3/14, *AV*-51/324, *SB-M*-61/760, *SB-K*-58/744, *VS-M*-18/146, *VS-K*-16/124)
+- ते᳓भिः (*MS*-9/5550, *TS*-6/4761, *RV*-28/3136, *TB*-3/2709, *TK*-0/363, *AV*-12/3165, *SB-M*-0/20457, *SB-K*-0/20018, *VS-M*-2/780, *VS-K*-1/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- वि᳓श्वैः (*MS*-8/301, *TS*-10/283, *RV*-5/1116, *TB*-4/125, *TK*-0/124, *AV*-5/353, *SB-M*-9/248, *SB-K*-9/219, *VS-M*-4/225, *VS-K*-3/224)
+- सु-म᳓नाः (*MS*-10/14, *TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13)
+- अ᳓हेडन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-2, *TS*-2, *RV*-2, *TB*-1, *VS-M*-1)
+- रा᳓जन् (*Whitney*, *MS*-3/4, *TS*-2, *RV*-4/8, *TB*-2/3, *AV*-1/2)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- गृभाय (समानान्तर-पाठः (TS), *MS*-5, *TS*-4, *RV*-12, *TB*-3, *AV*-7, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1353,6 +1459,12 @@ With all thy glories on the earth, in heaven, on mountains, in the plants, and i
 <details><summary>Keith</summary>
 
 Thy places in the sky, in the earth, In the mountains, in the plants, in the waters, With all of these, kindly and without anger, Do thou, O king Soma, accept our oblations.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What abodes of thine are in heaven, what on earth, what on the mountains, in plants, in the waters,  
+with all of those, well-disposed, not being angered, O ruling Soma, accept our oblations.
 </details>
 
 <details><summary>Geldner</summary>

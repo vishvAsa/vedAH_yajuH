@@ -304,7 +304,7 @@ Thou art the internal bond of the fire,
 म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः [29] +++(कल्पताम्)+++ ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/13/42_ka_lpetAM_dyA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/13/42_kalpetAM_dyAvApRthivI_kalpantAm.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Griffith</summary>
 
@@ -317,6 +317,18 @@ Be sky and earth in place,
 Be waters and plants in place,  
 Be the fires severally in place  
 In unison for my greatness
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May heaven and earth be fit; may waters and plants be fit;  
+may the fires be fit separately, of common vow for my preeminence!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+May heaven and earth be shaped [for me]; may the waters and plants be shaped [for me];  
+may the fires separately, sharing my vow, be shaped for my preeminence.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -340,6 +352,12 @@ In unison for my greatness
 मम॒ ज्यैष्ठ्या॑य॒ सव्र॑ताः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+क᳓ल्पेतां द्या᳓वापृथिवी᳓ क᳓ल्पन्ताम् आ᳓पा ओ᳓षधयः  
+क᳓ल्पन्ताम् अग्न᳓यः पृ᳓थङ् म᳓म ज्यै᳓ष्ठ्याय स᳓व्रताः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 कल्पे॑ताम्। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। कल्प॑न्ताम्। आपः॑। ओष॑धयः। कल्प॑न्ताम्। अ॒ग्नयः॑। पृथ॑क्। मम॑। ज्यैष्ठ्या॑य। सव्र॑ता इति॒ सऽव्र॑ताः।
@@ -348,6 +366,21 @@ In unison for my greatness
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कल्पे॑ताम् । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । कल्प॑न्ताम् । आपः॑ । ओष॑धीः । कल्प॑न्ताम् । अ॒ग्नयः॑ । पृथ॑क् । मम॑ । ज्यैष्ठ्या॑य । सव्र॑ता॒ इति॒ स-व्र॒ताः॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- क᳓ल्पेताम् (*TS*-1, *SB-M*-1, *VS-M*-6, *VS-K*-3, *KS*-1)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37, *KS*-17/18)
+- क᳓ल्पन्ताम् (*TS*-2/5, *TB*-1/2, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-14, *VS-K*-8, *KS*-2)
+- आ᳓पाः (*TS*-0/111, *RV*-0/151, *TB*-0/59, *TK*-0/6, *AV*-0/141, *SB-M*-0/332, *SB-K*-0/333, *VS-M*-0/51, *VS-K*-0/39, *KS*-0/34)
+- ओ᳓षधयः (*TS*-63/161, *RV*-3/65, *TB*-31/69, *TK*-0/2, *AV*-26/98, *SB-M*-91/192, *SB-K*-91/202, *VS-M*-21/49, *VS-K*-15/46, *KS*-12/34)
+- क᳓ल्पन्ताम् (*TS*-2/5, *TB*-1/2, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-14, *VS-K*-8, *KS*-2)
+- अग्न᳓यः (*TS*-15/1195, *RV*-27/856, *TB*-10/520, *TK*-0/105, *AV*-17/419, *SB-M*-61/2495, *SB-K*-52/2289, *VS-M*-20/322, *VS-K*-14/339, *KS*-4/256)
+- पृ᳓थक् (*TS*-3, *RV*-14, *TB*-5, *AV*-17, *SB-M*-22, *SB-K*-21, *VS-M*-11, *VS-K*-8, *KS*-4)
+- म᳓म (*TS*-28/565, *RV*-74/1308, *TB*-15/270, *TK*-0/66, *AV*-75/1252, *SB-M*-46/723, *SB-K*-56/728, *VS-M*-14/314, *VS-K*-11/265, *KS*-10/242)
+- ज्यै᳓ष्ठ्याय (*TS*-6/11, *RV*-2, *TB*-3/6, *TK*-0/5, *AV*-1, *SB-M*-6/7, *SB-K*-7/10, *VS-M*-8/9, *VS-K*-7/8, *KS*-1/3)
+- स᳓व्रताः (*TS*-1, *RV*-0/2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-6, *VS-K*-3, *KS*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -402,13 +435,13 @@ In unison for my greatness
 - यथा कुड्यस्यान्तर्दार्ढ्यार्थं काष्ठपाशाणादयः श्लिष्यन्ते तद्वान्मप्राग्निं चिन्वतो यजमानस्य ज्यैष्ठ्यायोत्कर्षार्थमिमे द्यावापृथिव्यौ कल्पेतां स्वोचितमुपकारं संपादयताम् ।  समानं व्रतं कर्म येषां ते सव्रता एकस्मिकर्मण्यवस्थिता आवहनीयाद्यग्नयोऽपि पृथक्कल्पतां स्वस्वोचितव्यापारं संपादयन्तु ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/11_RtavyeShTakopadhAnam/09_ye.agnayassa_manaso-ntarA.md">
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/11_RtavyeShTakopadhAnam/09_ye-gnayassamanaso-ntarA_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 ये᳙ऽग्नयस्स᳓मनसोऽन्तरा᳓ द्या᳓वापृथिवी᳓ शैशिरा᳓वृतू᳓ अभि᳓ क᳓ल्पमाना इ᳓न्द्रमिव देवा᳓ अभि᳓ सव्ँ᳓विशन्तु ।
 </details>
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/11_RtavyeShTakopadhAnam/09_ye.agnayassa_manaso-ntarA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/11_RtavyeShTakopadhAnam/09_ye-gnayassamanaso-ntarA_dyAvApRthivI.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
@@ -416,6 +449,12 @@ May the fires which of one mind
 Are between sky and earth,  
 Taking place according to the months of the cool season,  
 Attend (on them), as the gods on Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fires that are of one mind between heaven and earth,  
+fitting with these two spring seasons, may they enter into [me] like the gods into Indra.
 </details>
 
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
@@ -431,9 +470,33 @@ Attend (on them), as the gods on Indra.
 इन्द्र॑म् इव दे॒वा अ॒भि-सव्ँवि॑शन्तु ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ये ऽग्नयस्समनसोऽन्तरा द्यावापृथिवी।  
+इमे वासन्तिका ऋतू अभिकल्पमाना इन्द्रमिव देवा अभिसंविशन्तु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । अ॒ग्नयः॑ । सम॑नस॒ इति॒ स-म॒न॒सः॒ । अ॒न्त॒रा । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । शै॒शि॒रौ । ऋ॒तू इति॑ । अ॒भीति॑ । कल्प॑मानाः । इन्द्र॑म् । इ॒व॒ । दे॒वाः । अ॒भि । समिति॑ । वि॒श॒न्तु॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- अग्न᳓यः (*MS*-22/1297, *TS*-15/1194, *RV*-27/856, *TB*-10/520, *TK*-0/105, *AV*-17/419, *SB-M*-61/2495, *SB-K*-52/2289, *VS-M*-22/325, *VS-K*-14/349)
+- स᳓मनसः (*MS*-9/15, *TS*-7/13, *RV*-8/15, *TB*-3/4, *SB-M*-4/9, *SB-K*-3/10, *VS-M*-10/14, *VS-K*-7/13)
+- अन्तरा᳓ (*MS*-43, *TS*-22, *RV*-7, *TB*-10, *AV*-24, *SB-M*-46/52, *SB-K*-46/48, *VS-M*-10, *VS-K*-7)
+- द्या᳓वा-पृथिवी᳓ (*MS*-61/70, *TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37)
+- इमे᳓ (*MS*-106/1379, *TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/319, *VS-K*-8/301)
+- वा᳓सन्तिकाः (*MW*, *Macdonell*, *MS*-3/4, *TS*-0/1, *SB-M*-0/6, *SB-K*-1/5, *VS-M*-0/2, *VS-K*-0/2)
+- ऋतू᳓ (*MS*-13/164, *TS*-10/226, *RV*-8/38, *TB*-24/90, *TK*-1/13, *AV*-9/60, *SB-M*-21/429, *SB-K*-26/426, *VS-M*-13/44, *VS-K*-8/36)
+- अभि-क᳓ल्पमानाः (*MS*-1, *SB-M*-1, *SB-K*-1, *VS-M*-6, *VS-K*-3/6)
+- इ᳓न्द्रमिव (*RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-6, *VS-K*-3)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अभि (गतिर्गतौ पा॰ ८.१.७०, *TB*-38, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-502, *VS-K*-2, *MS*-215)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- विशन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-7, *TB*-3, *AV*-7, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-3, *MS*-7)
 </details>
 
 <details><summary>सायण-टीका</summary>

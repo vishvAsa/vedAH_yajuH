@@ -667,6 +667,12 @@ Shall win prosperity and wealth,
 Rich in sons, in heroes, in kine.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whichever virtuous man you make a pleasant place, O Agni Jātavedas,  
+he, possessing horses, sons, heroes, and cattle, attains wealth safely.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der Fromme, dem du, Agni Jatavedas, seinen Platz angenehm machen willst, der kommt glücklich zu einem Schatz von Rossen, Söhnen, Mannen, Rindern.
@@ -1815,10 +1821,37 @@ syāma ← √as- 1 (root)
 त्वया॒ वाजं॑ वाज॒यन्तो॑ जयेमा॒भि ष्या॑म पृत्सु॒तीर्मर्त्या॑नाम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वा᳓मग्ने व᳓सुपतिं व᳓सूनामभि᳓ प्र᳓मन्दे अध्वरे᳓षु राजन्।  
+त्व᳓या वा᳓जं वाजय᳓न्तो जयेमाभि᳓ष्याम पृत्सुती᳓र्म᳓र्त्यानाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । अ॒ग्ने॒ । वसु॑ऽपतिम् । वसू॑नाम् । अ॒भि । प्र । म॒न्दे॒ । अ॒ध्व॒रेषु॑ । रा॒ज॒न् ।  
 त्वया॑ । वाज॑म् । वा॒ज॒ऽयन्तः॑ । ज॒ये॒म॒ । अ॒भि । स्या॒म॒ । पृ॒त्सु॒तीः । मर्त्या॑नाम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वा᳓म् (*MS*-33/382, *TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-28/216, *VS-K*-27/180)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- व᳓सु-पतिम् (*MS*-0/2, *TS*-2/4, *RV*-5/9, *TB*-0/1, *AV*-1)
+- व᳓सूनाम् (*MS*-15/140, *TS*-18/143, *RV*-43/311, *TB*-7/59, *TK*-0/2, *AV*-9/90, *SB-M*-7/113, *SB-K*-7/111, *VS-M*-5/77, *VS-K*-6/100)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- मन्दे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1)
+- अध्वरे᳓षु (*MS*-4/44, *TS*-4/27, *RV*-27/196, *TB*-1/25, *TK*-0/2, *AV*-3/22, *SB-M*-1/71, *SB-K*-1/68, *VS-M*-8/29, *VS-K*-4/22)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-20, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+- त्व᳓या (*MS*-28/382, *TS*-22/313, *RV*-45/1488, *TB*-6/152, *TK*-0/39, *AV*-36/628, *SB-M*-33/387, *SB-K*-29/387, *VS-M*-12/216, *VS-K*-12/180)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- वाज-य᳓न्तः (*MS*-3/4, *TS*-1/2, *RV*-14/18, *TB*-1/2, *AV*-2/3)
+- जयेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-9, *TS*-7, *RV*-15, *TB*-5, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- पृत्सुतीः᳓ (*TS*-1, *RV*-2/4)
+- म᳓र्त्यानाम् (*MS*-4/18, *TS*-2/14, *RV*-15/182, *TB*-3/6, *TK*-0/3, *AV*-2/37, *SB-M*-4/84, *SB-K*-4/81, *VS-K*-0/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1958,6 +1991,15 @@ _________
 यद्वा - पृतनास्सूयन्ते उत्पाद्यन्ते याभिस्ताः **पृत्सुतयः** । छान्दसं ह्रस्वत्वं, पृद्भावश्च । बहुविकारत्वान्नावगृह्यते । 'मक्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_5]** T3 त्व᳓मग्ने
+
+- **[82_6]** ST वसु᳓पतिर्वमूº
+
+- **[82_7]** T1 माध्वरे᳓षु; desgl. Brl, ohne Acc. (T1 माध्वरे᳓षु; likewise Brl, without acc.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1988,6 +2030,11 @@ Thou, O Agni, riches-lord of riches,
 I hail [2], O lord in the sacrifices;  
 Through thee in strife may we be victorious;  
 May we overcome the hostilities of mortal men.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+through you, striving for the prize, may we win the prize; may we overcome the assaults of mortals.
 </details>
 
 <details><summary>Geldner</summary>
@@ -2149,10 +2196,30 @@ suvī́ryam ← suvī́rya- (nominal stem)
 स नो॑ रास्व सु॒वीर्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वा᳓मग्रे वाजसा᳓तमं वि᳓प्रा वर्धन्ति सु᳓ष्टुतम्।  
+स᳓ नो रास्व सुवी᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । अ॒ग्ने॒ । वा॒ज॒ऽसात॑मम् । विप्राः॑ । व॒र्ध॒न्ति॒ । सुऽस्तु॑तम् ।  
 सः । नः॒ । रा॒स्व॒ । सु॒ऽवीर्य॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वा᳓म् (*MS*-33/382, *TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-28/216, *VS-K*-27/180)
+- अग्रे (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-3, *MS*-2)
+- वाज-सा᳓तमम् (*MS*-1/4, *TS*-1/2, *RV*-4/6)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- वर्धन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-1, *RV*-11, *TB*-3, *AV*-1, *SB-M*-1)
+- सु᳓-स्तुतम् (*TS*-1, *RV*-1/11, *AV*-0/1, *MS*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रास्व (*MS*-4, *TS*-5, *RV*-8, *TB*-1, *AV*-3)
+- सु-वी᳓र्यम् (*MS*-12/14, *TS*-14/19, *RV*-57/75, *TB*-6/8, *AV*-4/7, *SB-M*-8/9, *SB-K*-7/9, *VS-M*-3/4, *VS-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2284,6 +2351,11 @@ The priests make thee grow, O Agni, the greatest acquirer of wealth, the highly 
 Thee, O Agni, best gainer of booty,  
 The sages nourish, well lauded;  
 Do thou give us wealth of heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the well-praised songs of my hymns magnify you! Do you always protect us with blessings!
 </details>
 
 <details><summary>Geldner</summary>
@@ -2496,6 +2568,12 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निनाग्निस्समिध्यते कविर्गृहपतिर्युवा।  
+हव्यवाड् जुह्वास्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निना॑ । अ॒ग्निः । सम् । इ॒ध्य॒ते॒ । क॒विः । गृ॒हऽप॑तिः । युवा॑ ।  
@@ -2510,6 +2588,19 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अग्नि᳓ना । अग्निः᳓ । स᳓म् । इध्यते । कविः᳓ । गृह᳓-पतिः । यु᳓वा । हव्य-वा᳓ट् । जुह्वा᳙स्यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓ना (*MS*-45/1297, *TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इध्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-7, *TB*-5, *AV*-4, *SB-M*-3, *SB-K*-4, *VS-M*-1, *MS*-1)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
+- गृह᳓-पतिः (*MS*-6/20, *TS*-7/24, *RV*-13/20, *TB*-2/18, *TK*-1, *AV*-4/5, *SB-M*-19/39, *SB-K*-17/31, *VS-M*-2/8, *VS-K*-5/15)
+- यु᳓वा (*MS*-7/17, *TS*-5/11, *RV*-30/68, *TB*-7/8, *AV*-5/13, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-3/4)
+- हव्य-वा᳓ट् (*MS*-9, *TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1)
+- जुह्वा᳙स्य (*MW*, *MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2645,6 +2736,19 @@ The wise, the young, the lord of the house,
 The bearer of the oblation, with ladle in his mouth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fire is kindled by fire, the sage, the house-lord, the youth,  
+the oblation-bearer, having the ladle as his mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With fire is fire kindled, the sage, the householder, the youth,  
+the oblation-bearer, whose mouth is the ladle.  
+Seven are your kindling-sticks, O Agni,
+</details>
+
 <details><summary>Oldenberg</summary>
 
 By Agni Agni is kindled (or, by fire fire is kindled), the sage, the master of the house, the young one, the bearer of oblations, whose mouth is the sacrificial spoon.
@@ -2772,6 +2876,12 @@ samidhyáse ← √idh- 1 (root)
 सखा॒ सख्या॑ समि॒ध्यसे॑  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्यँ ह्यग्ने अग्निना विप्रो विप्रेण सन्सता।  
+सखा सख्या समिध्यसे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । हि । अ॒ग्ने॒ । अ॒ग्निना॑ । विप्रः॑ । विप्रे॑ण । सन् । स॒ता ।  
@@ -2781,6 +2891,22 @@ samidhyáse ← √idh- 1 (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । हि । अ॒ग्ने॒ । अ॒ग्निना॑ । विप्रः॑ । विप्रे॑ण । सन् । स॒ता ॥ सखा॑ । सख्या॑ । स॒मि॒ध्यस॒ इति॑ सम्-इ॒ध्यसे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्य᳓म् (*MS*-6/13, *TS*-10/14, *RV*-47/91, *TB*-4/7, *AV*-7/14, *SB-M*-6/11, *SB-K*-4/17)
+- हि (समानान्तर-पाठः (TS), *TS*-5, *TB*-25, *TK*-5, *SB-M*-21, *SB-K*-8, *VS-K*-3, *MS*-14)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- अग्नि᳓ना (*MS*-45/1297, *TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349)
+- वि᳓प्रः (*MS*-5/19, *TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/19)
+- वि᳓प्रेण (*MS*-2/19, *TS*-2/22, *RV*-2/218, *TB*-1/8, *AV*-0/31, *SB-M*-1/13, *SB-K*-1/11, *VS-M*-0/18, *VS-K*-0/19)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- सता᳓ (*MS*-1, *TS*-4, *RV*-2, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
+- स᳓ख्या (*MS*-3/34, *TS*-3/31, *RV*-7/225, *TB*-0/12, *AV*-2/64, *SB-M*-1/20, *SB-K*-1/19, *VS-M*-0/29, *VS-K*-0/31)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- इध्य᳓से (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-1, *SB-M*-1, *SB-K*-1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2916,6 +3042,12 @@ For thou, O Agni, by the fire, Sage by the Sage, Good by the Good,
 Thou, O Agni, by Agni,  
 The sage by the sage, the good by the good,  
 The comrade by the comrade, art kindled.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you, o Agni, are kindled by fire—the inspired by the inspired, being by being,  
+comrade by comrade.
 </details>
 
 <details><summary>Geldner</summary>
@@ -3061,10 +3193,44 @@ táva ← tvám (pronoun)
 तव॒ ज्योतीं॑ष्य॒र्चयः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓द् अग्ने शु᳓चयस् त᳓व शुक्रा᳓ भ्रा᳓जन्त ईरते  
+त᳓व ज्यो᳓तीँष्य् अर्च᳓यः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । अ॒ग्ने॒ । शुच॑यः । तव॑ । शु॒क्राः । भ्राज॑न्तः । ई॒र॒ते॒ ।  
 तव॑ । ज्योतीं॑षि । अ॒र्चयः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- शु᳓चयः (*TS*-8/33, *RV*-26/113, *TB*-6/23, *AV*-12/25, *SB-M*-3/23, *SB-K*-3/20, *VS-M*-3/14, *VS-K*-3/14, *KS*-2/13)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- शुक्रा᳓ (*TS*-2/70, *RV*-6/105, *TB*-8/42, *TK*-0/1, *AV*-1/29, *SB-M*-4/87, *SB-K*-6/90, *VS-M*-1/57, *VS-K*-1/50, *KS*-3/37)
+- भ्रा᳓जन्तः (*TS*-2, *RV*-3/6, *AV*-4, *SB-M*-4, *SB-K*-3, *VS-M*-1, *VS-K*-1, *KS*-2)
+- ईरते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-22, *TB*-1, *AV*-6, *SB-M*-6, *SB-K*-5, *VS-M*-2, *KS*-4)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- ज्यो᳓तींषि (*TS*-9, *RV*-8, *TB*-4, *AV*-3, *SB-M*-11, *SB-K*-11, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अर्च᳓यः (*TS*-3/7, *RV*-14/23, *TB*-0/6, *TK*-0/2, *AV*-0/9, *SB-M*-4/31, *SB-K*-4/32, *VS-M*-1/3, *VS-K*-1/4, *KS*-1/3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- शु᳓चयः (*MS*-11/45, *TS*-8/33, *RV*-26/113, *TB*-6/23, *AV*-12/25, *SB-M*-3/23, *SB-K*-3/20, *VS-M*-3/14, *VS-K*-3/14)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- शुक्रा᳓ (*MS*-11/101, *TS*-2/70, *RV*-6/105, *TB*-8/42, *TK*-0/1, *AV*-1/29, *SB-M*-4/87, *SB-K*-6/90, *VS-M*-1/57, *VS-K*-1/50)
+- भ्रा᳓जन्तः (*MS*-2, *TS*-2, *RV*-3/6, *AV*-4, *SB-M*-4, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- ईरते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-22, *TB*-1, *AV*-6, *SB-M*-6, *SB-K*-5, *VS-M*-2)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- ज्यो᳓तींषि (*TS*-9, *RV*-8, *TB*-4, *AV*-3, *SB-M*-11, *SB-K*-11, *VS-M*-1, *VS-K*-1, *MS*-1)
+- अर्च᳓यः (*MS*-2/7, *TS*-3/7, *RV*-14/23, *TB*-0/6, *TK*-0/2, *AV*-0/9, *SB-M*-4/31, *SB-K*-4/32, *VS-M*-1/3, *VS-K*-1/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3162,6 +3328,11 @@ ___________
 व्याख्याता चेयं 'त्वमग्ने रुद्रः' इत्यत्र । इह तु प्रतीकमस्या गृह्यते ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[614_1]** Ch ईडते; vgl. RV 8, 44, 17. (Ch ईडते; cf. RV 8, 44, 17.)
+</details>
+
 <details><summary>प्रदीपसिंहः</summary>
 
 इतः परं  पठ्यमानः काण्डक्रमः भट्ट-सायण-भाष्यद्वयोपेतमूलपुस्तके नास्ति।
@@ -3192,6 +3363,18 @@ Upward, O Agni, rise thy flames, pure and resplendent, blazing high,
 O Agni, thy pure,  
 Bright, flaming (rays) arise,  
 Thy lights, thy flames.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upward, O Agni, your pure, bright flames rise, shining;  
+your lights, your rays.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+your pure, gleaming rays rise brightly blazing,  
+your lights, your flames!
 </details>
 
 <details><summary>Geldner</summary>
@@ -3358,10 +3541,39 @@ viníkṣe ← √nikṣ- (root)
 प्रादे॑वीर्मा॒याः स॑हते दु॒रेवाः॒ शिशी॑ते॒ शृङ्गे॒ रक्ष॑से वि॒निक्षे॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वि᳓ ज्यो᳓तिषा बृहता᳓ भात्यग्नि᳓रावि᳓र्विश्वानि कृणुते महित्वा᳓। 
+प्रा᳓देवीर्माया᳓स्सहते दुरे᳓वाः शि᳓शीते शृ᳓ङ्गे र᳓क्षसे विन᳓क्षे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि । ज्योति॑षा । बृ॒ह॒ता । भा॒ति॒ । अ॒ग्निः । आ॒विः । विश्वा॑नि । कृ॒णु॒ते॒ । म॒हि॒ऽत्वा ।  
 प्र । अदे॑वीः । मा॒याः । स॒ह॒ते॒ । दुः॒ऽएवाः॑ । शिशी॑ते । शृङ्गे॒ इति॑ । रक्ष॑से । वि॒ऽनिक्षे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- ज्यो᳓तिषा (*MS*-25/134, *TS*-27/199, *RV*-34/148, *TB*-4/70, *TK*-1/5, *AV*-13/66, *SB-M*-25/173, *SB-K*-24/174, *VS-M*-16/72, *VS-K*-12/80)
+- बृहता᳓ (*MS*-7, *TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- भाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-12, *RV*-22, *TB*-1, *TK*-1, *AV*-6, *SB-M*-9, *SB-K*-9, *VS-K*-1)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- आविः᳓ (*MS*-9/11, *TS*-4, *RV*-41, *TB*-5, *AV*-16, *SB-M*-31, *SB-K*-21, *VS-M*-4, *VS-K*-5/6)
+- विश्वानि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- कृणुते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-28, *TB*-2, *AV*-13, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- महि-त्वा᳓ (*MS*-9, *TS*-9, *RV*-34, *TB*-3, *AV*-16, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- अ᳓देवीः (*TS*-2, *RV*-11, *AV*-3)
+- मायाः᳓ (*MS*-1/8, *TS*-3/7, *RV*-21/63, *TB*-0/2, *TK*-0/1, *AV*-4/24, *SB-M*-0/13, *SB-K*-1/13, *VS-M*-0/4, *VS-K*-0/4)
+- सहते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-3, *AV*-7, *SB-M*-2, *SB-K*-2)
+- दुः-ए᳓वाः (*TS*-1, *RV*-7/14, *TB*-0/1, *AV*-1/9)
+- शि᳓शीते (*TS*-1, *RV*-7, *AV*-2)
+- शृ᳓ङ्गे (*MS*-2/4, *TS*-2/9, *RV*-5/9, *TB*-0/1, *AV*-5/11, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-0/1, *VS-K*-0/1)
+- र᳓क्षसे (*MS*-0/138, *TS*-2/126, *RV*-4/51, *TB*-0/56, *AV*-0/54, *SB-M*-0/235, *SB-K*-0/216, *VS-M*-0/30, *VS-K*-0/25)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- न᳓क्षे (*RV*-0/1, *AV*-0/1, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3550,6 +3762,11 @@ With great radiance Agni shineth;
 All things doth he reveal by his might;  
 He overcometh godless and malign enchantments  
 He sharpeneth his horns to pierce the Raksas.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He overcomes undivine, wicked wiles; he sharpens his horns to pierce the Rakṣas.
 </details>
 
 <details><summary>Geldner</summary>

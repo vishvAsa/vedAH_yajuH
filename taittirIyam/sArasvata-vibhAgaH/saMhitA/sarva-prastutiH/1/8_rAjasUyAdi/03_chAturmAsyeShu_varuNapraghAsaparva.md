@@ -92,15 +92,44 @@ The Maruts who bear the sacrifice,
 Rejoicing in the mush.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+We invoke the gluttonous Maruts, who bear the sacrifice,  
+who rejoice together over the groats.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+We call the voracious Maruts, who bear the sacrifice,  
+sharing pleasure with the groats.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र॒घा॒स्या॑न् हवामहे म॒रुतो॑ य॒ज्ञवा॑हसः ।   
 कर॒म्भेण॑ स॒जोष॑सः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रधास्या᳙न्हवामहे मरु᳓तो यज्ञ᳓वाहसः।  
+करम्भे᳓ण सजोषसः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒घा॒स्या॑निति॑ प्र-घा॒स्यान्॑ । ह॒वा॒म॒हे॒ । म॒रुतः॑ । य॒ज्ञवा॑हस॒ इति॑ य॒ज्ञ-वा॒ह॒सः॒ । क॒र॒म्भेण॑ । स॒जोष॑स॒ इति॑ स-जोष॑सः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- धास्या᳙न् (मूल-पाठः)
+- हवामहे (*MS*-19, *TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-13)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- यज्ञ᳓-वाहसः (*MS*-1/3, *TS*-1/2, *RV*-0/3, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1)
+- करम्भे᳓ण (*MS*-1/3, *TS*-1/3, *RV*-0/3, *TB*-1/4, *AV*-1/3, *SB-M*-1/5, *SB-K*-1/11, *VS-M*-1/3, *VS-K*-1/3)
+- सजोषसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-3, *AV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -146,16 +175,89 @@ For great is the barley heap of this bountiful one;
 Rich in oblation are the Maruts whom our song praises.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let not the gods be against us here in battles, O Indra; we are appease-makers of thine, O impetuous one!  
+Whose great grain-rich [stream of praise], of the bounteous, oblation-offering one, the hymn lauds, [and] the Maruts.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Let not the gods, O Indra, be here [against us] in battles; let us have your expiation, O mighty one!  
+The great song of praise reaches the expiation of the generous god, the Maruts, of him who has an oblation.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मो षू ण॑ इन्द्र पृ॒त्सु दे॒वास्तु॑ स्म ते शुष्मिन्नव॒या ।
 म॒ही ह्य॑स्य मी॒ढुषो॑ य॒व्या ।  
 ह॒विष्म॑तो म॒रुतो॒ वन्द॑ते॒ गीः  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मो᳓ षू᳓ ण इन्द्रा᳓त्र पृत्सु᳓ देवा᳓स्तु स्म ते शुष्मिन्न् अवयाः᳓  
+मही᳓ चिद्य᳓स्य मीढु᳓षो यव्या᳓ हवि᳓ष्मतो मरु᳓तो व᳓न्दते गीः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+मो᳓ षू᳓ ण इन्द्रा᳓त्र पृत्सु᳓ देवा अ᳓स्तु स्म ते शुष्मिन्नवयाः᳓।  
+मही᳓ देव᳓स्य मीढु᳓षोऽवया᳓ हवि᳓ष्मतो मरु᳓तो व᳓न्दते गीः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मो इति॑ । स्विति॑ । नः॒ । इ॒न्द्र॒ । पृ॒त्स्विति॑ पृत्-सु । दे॒व॒ । अस्तु॑ । स्म॒ । ते॒ । शु॒ष्मि॒न् । अ॒व॒या ॥ म॒ही । हि । अ॒स्य॒ । मी॒ढुषः॑ । य॒व्या ॥ ह॒विष्म॑तः । म॒रुतः॑ । वन्द॑ते । गीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मो᳓ (*TS*-2, *RV*-23, *TB*-3, *AV*-19, *SB-M*-3, *SB-K*-4, *VS-M*-4, *VS-K*-3, *KS*-3)
+- षू᳓ (*TS*-0/8, *TB*-1, *SB-M*-0/1, *SB-K*-0/4, *VS-K*-1/4, *KS*-1/6)
+- णः (*TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5, *KS*-16)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- अ᳓त्र (*TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17, *KS*-15)
+- पृत्सु᳓ (*TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-3)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- तु (*TB*-16, *TK*-2, *SB-M*-3, *SB-K*-3, *VS-K*-9, *KS*-18)
+- स्म (अनुदात्तम्, पा॰ ८.१.१८, *TS*-14, *RV*-108, *TB*-4, *TK*-4, *AV*-23, *SB-M*-134, *SB-K*-129, *VS-M*-5, *VS-K*-3, *KS*-3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- शुष्मिन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-4, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अवयाः᳓ (*TS*-0/2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-2/3)
+- मही᳓ (*TS*-10/24, *RV*-64/131, *TB*-2/8, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-9/26, *VS-K*-9/27, *KS*-3/10)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-22, *KS*-25)
+- य᳓स्य (*TS*-134/3383, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/639, *VS-K*-24/581, *KS*-37/818)
+- मीढु᳓षः (*TS*-2/4, *RV*-12/25, *TB*-0/6, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1/3, *VS-K*-0/1, *KS*-1/2)
+- यव्या᳓ (*TS*-1/2, *RV*-2/3, *TB*-0/1, *AV*-0/1, *SB-M*-2, *SB-K*-2/3, *VS-M*-1, *VS-K*-1)
+- हवि᳓ष्मतः (*TS*-1, *RV*-2/13, *AV*-1/3, *SB-M*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- मरु᳓तः (*TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-24/46, *VS-K*-20/40, *KS*-20/29)
+- व᳓न्दते (*TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- गीः᳓ (*TS*-2/4, *RV*-25/28, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-1/3, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मो᳓ (*MS*-4, *TS*-2, *RV*-23, *TB*-3, *AV*-19, *SB-M*-3, *SB-K*-4, *VS-M*-4, *VS-K*-3)
+- षू᳓ (*MS*-3/14, *TS*-0/7, *TB*-1, *SB-M*-0/1, *SB-K*-0/4, *VS-K*-1/4)
+- णः (*MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- अ᳓त्र (*MS*-59, *TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17)
+- पृत्सु᳓ (*MS*-4, *TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19)
+- अ᳓स्तु (*MS*-6/7, *TS*-17/18, *RV*-1/5, *TB*-2, *AV*-3, *SB-M*-16, *SB-K*-18, *VS-M*-0/1, *VS-K*-0/1)
+- स्म (अनुदात्तम्, पा॰ ८.१.१८, *MS*-27, *TS*-14, *RV*-108, *TB*-4, *TK*-4, *AV*-23, *SB-M*-134, *SB-K*-129, *VS-M*-5, *VS-K*-3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- शुष्मिन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-4, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अवयाः᳓ (*MS*-1/2, *TS*-0/2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मही᳓ (*MS*-10/28, *TS*-10/24, *RV*-64/131, *TB*-2/8, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-9/26, *VS-K*-9/27)
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- मीढु᳓षः (*MS*-1/4, *TS*-2/4, *RV*-12/25, *TB*-0/6, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1/3, *VS-K*-0/1)
+- अवया᳓ (*MS*-1/2, *TS*-2, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- हवि᳓ष्मतः (*MS*-1, *TS*-1, *RV*-2/13, *AV*-1/3, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- व᳓न्दते (*MS*-1, *TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- गीः᳓ (*MS*-4/5, *TS*-2/4, *RV*-25/28, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-1/4)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -185,6 +287,19 @@ Rich in oblation are the Maruts whom our song praises.
 छान्दसो यः । अन्वादेशत्वाद् अस्येति निहन्यते । दाश्वानादौ **मीढ्वान्** इति निपातितः ।
 
 किञ्च - **हविष्मतश्** चरुमतो मम **गीर् वन्दते** स्तौति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[108_4]** Ch वु
+
+- **[108_5]** D इन्द्रात
+
+- **[108_6]** Ch मृत्सु.
+
+- **[108_7]** cf. RV 1, 173, 12 अ᳓स्ति; Kap. S. 8, 7 देवा हस्तु ष्म ते
+
+- **[108_8]** So corr. Die Mss. वया॥ (Thus emended the mss. वया॥)
 </details>
 </details>
 

@@ -151,6 +151,18 @@ svàr ← svàr- (nominal stem)
 पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓यं᳓ गौः पृ᳓श्निर् अक्रमीद् अ᳓सदन् मात᳓रं पुरः᳓  
+पित᳓रं च प्रय᳓न्त् स्वः᳙
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓यं᳓ गौः᳓ पृ᳓श्निरक्रमीद᳓सदन्मात᳓रं पुरः᳓।  
+पित᳓रं च प्रय᳓न्स्वृः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । अ॒यम् । गौः । पृश्निः॑ । अ॒क्र॒मी॒त् । अस॑दत् । मा॒तर॑म् । पु॒रः ।  
@@ -170,6 +182,35 @@ svàr ← svàr- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒यम् । गौः । पृश्ञिः॑ । अ॒क्र॒मी॒त् । अस॑नत् । मा॒तर॑म् । पुनः॑ ॥ पि॒तर॑म् । च॒ । प्र॒यन्निति॑ प्र-यन् । सुवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓-य᳓न् → **आ᳓-यन्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3, *KS*-2)
+- गौः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *VS-K*-1)
+- पृ᳓श्निः (*TS*-0/2, *RV*-14/29, *TK*-0/1, *AV*-5/14, *SB-M*-16/28, *SB-K*-17/28, *VS-M*-4/8, *VS-K*-4/9, *KS*-4/6)
+- अक्रमीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-11, *TB*-2, *AV*-6, *SB-M*-2, *SB-K*-1, *VS-M*-4, *VS-K*-3, *KS*-3)
+- अ᳓सदन् (*RV*-1, *AV*-1, *SB-M*-2, *SB-K*-2)
+- मात᳓रम् (*TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-11/35, *KS*-2/21)
+- पुरः᳓ (*TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12, *KS*-12)
+- पित᳓रम् (*TS*-9/121, *RV*-32/254, *TB*-9/111, *TK*-1/6, *AV*-30/228, *SB-M*-33/321, *SB-K*-31/317, *VS-M*-4/80, *VS-K*-4/63, *KS*-2/43)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प्र-य᳓न् (*TS*-1, *RV*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स्वः᳙ (*TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-41, *KS*-16)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓-य᳓न् → **आ᳓-यन्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-7, *TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- पृ᳓श्निः (*MS*-19/31, *TS*-0/2, *RV*-14/29, *TK*-0/1, *AV*-5/14, *SB-M*-16/28, *SB-K*-17/28, *VS-M*-4/8, *VS-K*-4/9)
+- अक्रमीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-6, *RV*-11, *TB*-2, *AV*-6, *SB-M*-2, *SB-K*-1, *VS-M*-4, *VS-K*-3)
+- अ᳓सदत् (*RV*-1, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मात᳓रम् (*MS*-13/61, *TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-12/38)
+- पुरः᳓ (*MS*-39, *TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12)
+- पित᳓रम् (*MS*-13/157, *TS*-9/121, *RV*-32/254, *TB*-9/111, *TK*-1/6, *AV*-30/228, *SB-M*-33/321, *SB-K*-31/317, *VS-M*-4/80, *VS-K*-4/75)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- प्रय᳓न्स्वृः (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -420,6 +461,18 @@ And the father, faring to the heaven.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 This spotted Bull hath come and sat before the Mother and before The Father, mounting up to heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This dappled bull has come, he has sat down before the mother,  
+and the father, advancing to the light of heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+This spotted bull has stepped forward; he has sat in front of the mother,  
+and the father, going to the sun.
 </details>
 
 <details><summary>Geldner</summary>

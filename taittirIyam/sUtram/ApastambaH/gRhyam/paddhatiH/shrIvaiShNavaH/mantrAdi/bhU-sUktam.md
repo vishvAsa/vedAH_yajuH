@@ -15,7 +15,7 @@ title = "भू-सूक्तम्"
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -28,7 +28,7 @@ title = "भू-सूक्तम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/02_bhUmir_bhUmnA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -66,7 +66,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/03_A.ayam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -78,7 +78,7 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -157,6 +157,18 @@ svàr ← svàr- (nominal stem)
 पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓यं᳓ गौः पृ᳓श्निर् अक्रमीद् अ᳓सदन् मात᳓रं पुरः᳓  
+पित᳓रं च प्रय᳓न्त् स्वः᳙
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓यं᳓ गौः᳓ पृ᳓श्निरक्रमीद᳓सदन्मात᳓रं पुरः᳓।  
+पित᳓रं च प्रय᳓न्स्वृः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । अ॒यम् । गौः । पृश्निः॑ । अ॒क्र॒मी॒त् । अस॑दत् । मा॒तर॑म् । पु॒रः ।  
@@ -176,6 +188,35 @@ svàr ← svàr- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒यम् । गौः । पृश्ञिः॑ । अ॒क्र॒मी॒त् । अस॑नत् । मा॒तर॑म् । पुनः॑ ॥ पि॒तर॑म् । च॒ । प्र॒यन्निति॑ प्र-यन् । सुवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓-य᳓न् → **आ᳓-यन्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3, *KS*-2)
+- गौः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *VS-K*-1)
+- पृ᳓श्निः (*TS*-0/2, *RV*-14/29, *TK*-0/1, *AV*-5/14, *SB-M*-16/28, *SB-K*-17/28, *VS-M*-4/8, *VS-K*-4/9, *KS*-4/6)
+- अक्रमीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-11, *TB*-2, *AV*-6, *SB-M*-2, *SB-K*-1, *VS-M*-4, *VS-K*-3, *KS*-3)
+- अ᳓सदन् (*RV*-1, *AV*-1, *SB-M*-2, *SB-K*-2)
+- मात᳓रम् (*TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-11/35, *KS*-2/21)
+- पुरः᳓ (*TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12, *KS*-12)
+- पित᳓रम् (*TS*-9/121, *RV*-32/254, *TB*-9/111, *TK*-1/6, *AV*-30/228, *SB-M*-33/321, *SB-K*-31/317, *VS-M*-4/80, *VS-K*-4/63, *KS*-2/43)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प्र-य᳓न् (*TS*-1, *RV*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स्वः᳙ (*TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-41, *KS*-16)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓-य᳓न् → **आ᳓-यन्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-7, *TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- पृ᳓श्निः (*MS*-19/31, *TS*-0/2, *RV*-14/29, *TK*-0/1, *AV*-5/14, *SB-M*-16/28, *SB-K*-17/28, *VS-M*-4/8, *VS-K*-4/9)
+- अक्रमीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-6, *RV*-11, *TB*-2, *AV*-6, *SB-M*-2, *SB-K*-1, *VS-M*-4, *VS-K*-3)
+- अ᳓सदत् (*RV*-1, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मात᳓रम् (*MS*-13/61, *TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-12/38)
+- पुरः᳓ (*MS*-39, *TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12)
+- पित᳓रम् (*MS*-13/157, *TS*-9/121, *RV*-32/254, *TB*-9/111, *TK*-1/6, *AV*-30/228, *SB-M*-33/321, *SB-K*-31/317, *VS-M*-4/80, *VS-K*-4/75)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- प्रय᳓न्स्वृः (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -428,6 +469,18 @@ And the father, faring to the heaven.
 This spotted Bull hath come and sat before the Mother and before The Father, mounting up to heaven.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This dappled bull has come, he has sat down before the mother,  
+and the father, advancing to the light of heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+This spotted bull has stepped forward; he has sat in front of the mother,  
+and the father, going to the sun.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieser bunte Stier ist hergeschritten und hat sich vor Mutter Erde und Vater Himmel gesetzt auf seinem Wege zur Sonne.
@@ -495,7 +548,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -508,7 +561,7 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/01_gArhapatyam/04_triMshad_dhAma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -554,7 +607,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -566,7 +619,7 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/02_asya_prANAd.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -609,7 +662,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -622,7 +675,7 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/03_yat_tvA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -633,7 +686,13 @@ That of thee, O Agni, be in good order,
 Again thee we relight.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+What of you, angry, I cast away in fury, O very benevolent one,  
+that good arrangement of yours, O Agni, we rekindle you again.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यत्त्वा॑ [10] क्रु॒द्धᳶ प॑रो॒वप॑ ..  
 म॒न्युना॒ यद् अव॑र्त्या ।    
@@ -641,9 +700,35 @@ Again thee we relight.
 पुन॒स्त्वोद्दी॑पयामसि  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓त् त्वा क्रुद्धः᳓ परोव᳓प मन्यु᳓ना सुमनस्तर  
+सुक᳓ल्पम् अग्ने त᳓त् त᳓व पु᳓नस् त्वो᳓द्दीपयामसि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । त्वा॒ । क्रु॒द्धः । प॒रो॒वपेति॑ परा-उ॒वप॑ । म॒न्युना॑ । यत् । अव॑र्त्या ॥ सु॒कल्प॒मिति॑ सु-कल्प॑म् । अ॒ग्ने॒ । तत् । तव॑ । पुनः॑ । त्वा॒ । उदिति॑ । दी॒प॒या॒म॒सि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- क्रुद्धः᳓ (*TS*-3/4, *RV*-1/2, *SB-M*-0/1, *SB-K*-5/6)
+- परा (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-5, *SB-M*-25, *SB-K*-19, *KS*-3)
+- उव᳓प (मूल-पाठः)
+- मन्यु᳓ना (*TS*-4/17, *RV*-5/53, *TB*-0/14, *TK*-0/2, *AV*-6/35, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1/13, *VS-K*-1/13, *KS*-1/5)
+- सु-मनस् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- तर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *TB*-4, *TK*-2, *AV*-2, *SB-M*-6, *SB-K*-5, *VS-M*-3, *VS-K*-2, *KS*-2)
+- सु-क᳓ल्पम् (*TS*-1, *AV*-1)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- पु᳓नः (*TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29, *KS*-26)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- दीपयामसि (*TS*-2, *AV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -665,7 +750,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -678,7 +763,7 @@ _______
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/02_AhavanIyam/04_yat_te.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>

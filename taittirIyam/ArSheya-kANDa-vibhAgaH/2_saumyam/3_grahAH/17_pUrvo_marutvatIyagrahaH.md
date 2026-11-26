@@ -125,6 +125,12 @@ ugrám ← ugrá- (nominal stem)
 उ॒ग्रँ स॑हो॒दामि॒ह तँ हु॑वेम ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म᳓कवारिं दिव्यँ शास᳓मि᳓न्द्रम्।  
+विश्वासा᳓हम᳓वसे नू᳓तनायोग्नँ सहोदा᳓मिह तँ हुवेम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒रुत्व॑न्तम् । वृ॒ष॒भम् । व॒वृ॒धा॒नम् । अक॑वऽअरिम् । दि॒व्यम् । शा॒सम् । इन्द्र॑म् ।  
@@ -134,6 +140,26 @@ ugrám ← ugrá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 मरु᳓त्वन्तम् । वृषभ᳓म् । वावृधान᳓म् । अ᳓-कवारिम् । दिव्य᳓म् । शास᳓म् । इ᳓न्द्रम् । विश्व-सा᳓हम् । अ᳓वसे । नू᳓तनाय । उग्र᳓म् । सहः-दा᳓म् । इह᳓ । त᳓म् । हुवेम ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मरु᳓त्वन्तम् (*MS*-1, *TS*-2, *RV*-13/17, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वृषभ᳓म् (*MS*-4/25, *TS*-4/15, *RV*-32/149, *TB*-7/17, *AV*-10/37, *SB-M*-1/11, *SB-K*-1/7, *VS-M*-3/12, *VS-K*-2/11)
+- वावृधान᳓म् (*MS*-2/7, *TS*-1/6, *TB*-1/4, *TK*-0/1, *SB-M*-1, *SB-K*-1/2, *VS-M*-1/4, *VS-K*-1/6)
+- अ᳓-कवारिम् (*MS*-1, *TB*-1, *SB-M*-1, *VS-K*-1)
+- दिव्यम् → **दिव्य᳓म्** (स्वर-लोपः, *MS*-8/38, *TS*-10/33, *RV*-19/98, *TB*-4/15, *AV*-5/47, *SB-M*-7/23, *SB-K*-7/20, *VS-M*-5/20, *VS-K*-3/21)
+- शास᳓म् (*MS*-1, *TS*-1, *RV*-2/3, *TB*-1, *AV*-0/1, *SB-M*-3/6, *SB-K*-2/8, *VS-M*-1, *VS-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- विश्व-सा᳓हम् (*TS*-1, *TB*-1, *MS*-1)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- नू᳓तना (*MS*-1/3, *TS*-1/4, *RV*-3/27, *TB*-0/3, *AV*-1/3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- यः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-16, *TS*-3, *TB*-11, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- अग्नम् (मूल-पाठः)
+- सहः-दा᳓म् (*TS*-1, *RV*-4/7, *TB*-1, *AV*-1, *VS-M*-1, *MS*-1)
+- इह (*AV*-7, *SB-M*-1, *VS-M*-1, *VS-K*-2)
+- तम् (*MS*-13, *TS*-4, *TB*-6, *TK*-1, *SB-M*-8, *SB-K*-10)
+- हुवेम (*MS*-5, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -319,6 +345,12 @@ Him with the Maruts, the mighty bull,
 The bountiful, the divine ruler, Indra,  
 All-powerful, the dread, giver of strength,  
 For present aid let us invoke.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra accompanied by the Maruts, the bull, the growing one, who has no niggardly foe, the heavenly ruler,  
+all-conquering, fierce, the giver of strength—him we would call here for modern aid!
 </details>
 
 <details><summary>Geldner</summary>

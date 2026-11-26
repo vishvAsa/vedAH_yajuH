@@ -20,13 +20,14 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -59,7 +60,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +134,7 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 
 समिति॑ । आपः॑ । अ॒द्भिरित्य॑त्-भिः । अ॒ग्म॒त॒ । समिति॑ । ओष॑धयः । रसे॑न । समिति॑ । रे॒वतीः॑ । जग॑तीभिः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म् ।
 </details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -410,12 +412,13 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/uru.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उरु᳓ प्रथस्व ।  
 उरु᳓ ते यज्ञ᳓पतिᳶ प्रथताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -447,7 +450,7 @@ Be extended wide, let the lord of the sacrifice be extended wide.
 
 प्रथस्व प्रसर। 
 </details>
-
+</details>
 </div>  
 
 ____
@@ -628,11 +631,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने हव्यँ᳓ रक्षस्व ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -654,7 +658,7 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -713,19 +717,26 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/18_ekatAya_svAhA_dvitAya.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 एकता᳓य स्वा᳓हा ।   
 द्विता᳓य स्वा᳓हा ।    
 त्रिता᳓य स्वा᳓हा ।  
 +++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/18_ekatAya_svAhA_dvitAya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Hail to Ekata, hail to Dvita, hail to Trita.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Dvita hail!  
+To Trita hail!
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -751,7 +762,13 @@ Hail to Ekata, hail to Dvita, hail to Trita.
 
 इत्यष्टमोनुवाकः
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf Mâitr. S. 1, 1, 9 ; Kap. S. 1, 8.
 </details>
+</details>
+</div>
 
  इत्यष्टमोनुवाकः  
 </details>

@@ -492,6 +492,12 @@ Through this prayer may be won the prosperity
 Of many a prosperous dwelling, O god.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is desirable today, O Savitṛ, and what is desirable tomorrow, day by day grant us what is desirable.  
+For since, O god, thou rulest over abundant desirable [wealth], by this prayer may we be sharers of the desirable.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gutes weise uns, o Savitri, heute und Gutes morgen, Tag für Tag Gutes zu, denn du Gott verfügst über vieles Gut. Durch dieses Lied wollen wir des Gutes teilhaft werden.

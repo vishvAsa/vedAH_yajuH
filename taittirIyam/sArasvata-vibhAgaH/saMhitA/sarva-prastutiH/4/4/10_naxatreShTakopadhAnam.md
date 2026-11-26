@@ -908,13 +908,13 @@ Full on the west; (what the gods placed).
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 य᳓त्ते देवा᳓ अ᳓दधुर्भागधे᳓यम᳓मावास्ये सव्ँव᳓सन्तो महित्वा᳓ । सा᳓ नो यज्ञ᳓म्पिपृहि विश्ववारे रयि᳓न्नो धेहि सुभगे सुवी᳓रम् ।
 </details>
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 

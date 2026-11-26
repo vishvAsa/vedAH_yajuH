@@ -27,10 +27,10 @@ title = "२५ दर्शादितर्पणम्"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
 <details open><summary><h4>90 सकृदाच्छिन्नं बर्हिर् ...{Loading}...</h4></summary>
 
-स॒कृ॒दा॒च्छि॒न्नं ब॒र्हिर् ऊर्णा॑-मृदु ।  
-स्यो॒नं पि॒तृभ्य॑स् त्वा भराम्य् अ॒हम् ।  
-अ॒स्मिन् सी॑दन्तु मे पि॒तर॑स् सो॒म्याः ।  
-पि॒ता॒म॒हाः प्रपि॑तामहाश् चानु॒गैस् स॒ह ॥33॥
+सकृदाच्छिन्नं᳓ बर्हि᳓र् ऊ᳓र्णा-मृदु ।  
+स्योनं᳓ पितृ᳓भ्यस् त्वा भराम्य् अह᳓म् ।  
+अस्मि᳓न् सीदन्तु मे पित᳓रस् सोम्याः᳓ ।  
+पितामहाः᳓ प्र᳓पितामहाश् चानुगै᳓स् सह᳓ ॥33॥
 </details>
 </div>
 
@@ -138,21 +138,7 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </details>
 </div>
 
@@ -194,21 +180,7 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </details>
 </div>
 
@@ -339,21 +311,7 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </details>
 </div>
 
@@ -424,21 +382,7 @@ title = "२५ दर्शादितर्पणम्"
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </details>
 </div>
 

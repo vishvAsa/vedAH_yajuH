@@ -27,6 +27,18 @@ unicode_script: devanagari
 Fire hath been kindled, Asvins Twain! the Gharma warmed, the Radiant pressed, Here the Milch-Cow Sarasvatî hath poured bright Soma, Indra's own.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled is Agni, O Aśvins; heated is the Gharma; the sovereign is pressed;  
+the milch-cow Sarasvatī milks bright Soma here, faculty.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni is kindled; the two Aśvins, the heated gharma, the sovereign ruler are pressed;  
+the milch-cow Sarasvatī milks out Soma, the bright faculty here.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 समि॑द्धोऽअ॒ग्निर॑श्विना त॒प्तो घ॒र्मो वि॒राट् सु॒तः।  
@@ -39,6 +51,18 @@ Fire hath been kindled, Asvins Twain! the Gharma warmed, the Radiant pressed, He
 त॒प्तो घ॒र्मो वि॒राट्त्सु॒तः ।  
 दु॒हे धे॒नुस्सर॑स्वती ।  
 सोमँ॑ शु॒क्रमि॒हेन्द्रि॒यम् ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓मिद्धो अग्नि᳓र् अश्वि᳓ना तप्तो᳓ घर्मो᳓ विरा᳓ट् सुतः᳓  
+दुहे᳓ धेनुः᳓ स᳓रस्वती सो᳓मँ सुक्र᳓म् इहे᳓न्द्रिय᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+समिद्धो अग्निरश्विना तप्तो घर्मो विराट् सुतः।  
+दुहे धेनुस्सरस्वती सामँ शुक्रमिहेन्द्रियम्
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -54,6 +78,43 @@ Fire hath been kindled, Asvins Twain! the Gharma warmed, the Radiant pressed, He
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓म्-इद्धः । अग्निः᳓ । अश्विना । तप्तः᳓ । घर्मः᳓ । वि-रा᳓ट् । सुतः᳓ । दुहे᳓ । धेनुः᳓ । स᳓रस्वती । सो᳓मम् । शुक्र᳓म् । इह᳓ । इन्द्रिय᳓म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म्-इद्धः (*TS*-6/10, *RV*-28/42, *TB*-7/11, *TK*-1/2, *SB-M*-19/39, *SB-K*-14/34, *VS-M*-6/12, *VS-K*-5/9, *KS*-4/9)
+- अग्निः᳓ (*TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349, *KS*-111/256)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- तप्तः᳓ (*TS*-0/1, *RV*-1/6, *TB*-1, *AV*-4/7, *SB-M*-12/27, *SB-K*-14/31, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/1)
+- घर्मः᳓ (*TS*-9/21, *RV*-7/25, *TB*-11/12, *AV*-7/18, *SB-M*-20/36, *SB-K*-22/37, *VS-M*-10/20, *VS-K*-7/21, *KS*-1/3)
+- वि-रा᳓ट् (*TS*-66/79, *RV*-4, *TB*-25, *AV*-22, *SB-M*-96, *SB-K*-95, *VS-M*-10, *VS-K*-7/8, *KS*-15)
+- सुतः᳓ (*TS*-4/19, *RV*-98/392, *TB*-3/20, *AV*-3/61, *SB-M*-9/28, *SB-K*-9/29, *VS-M*-5/39, *VS-K*-3/32, *KS*-2/15)
+- दुहे᳓ (*TS*-9, *RV*-3/5, *TB*-9, *AV*-5/7, *SB-M*-6, *SB-K*-5, *VS-M*-6, *VS-K*-6, *KS*-0/2)
+- धेनुः᳓ (*TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19, *KS*-3/4)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112, *KS*-24/80)
+- सु (*TS*-1, *TB*-13, *TK*-1, *SB-M*-7, *SB-K*-4, *VS-K*-1, *KS*-9)
+- क्र᳓म् (*AV*-1, *KS*-0/1)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91, *KS*-43)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म्-इद्धः (*MS*-8/16, *TS*-6/10, *RV*-28/42, *TB*-7/11, *TK*-1/2, *SB-M*-19/39, *SB-K*-14/34, *VS-M*-6/12, *VS-K*-5/9)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- तप्तः᳓ (*MS*-1/7, *TS*-0/1, *RV*-1/6, *TB*-1, *AV*-4/7, *SB-M*-12/27, *SB-K*-14/31, *VS-M*-1/4, *VS-K*-1/4)
+- घर्मः᳓ (*MS*-24/46, *TS*-9/21, *RV*-7/25, *TB*-11/12, *AV*-7/18, *SB-M*-20/36, *SB-K*-22/37, *VS-M*-10/20, *VS-K*-7/21)
+- वि-रा᳓ट् (*MS*-42, *TS*-66/79, *RV*-4, *TB*-25, *AV*-22, *SB-M*-96, *SB-K*-95, *VS-M*-10, *VS-K*-7/8)
+- सुतः᳓ (*MS*-5/27, *TS*-4/19, *RV*-98/392, *TB*-3/20, *AV*-3/61, *SB-M*-9/28, *SB-K*-9/29, *VS-M*-5/39, *VS-K*-3/32)
+- दुहे᳓ (*Whitney*, *MW* ŚBr., *MS*-14, *TS*-9, *RV*-3/5, *TB*-9, *AV*-5/7, *SB-M*-6, *SB-K*-5, *VS-M*-6, *VS-K*-6)
+- धेनुः᳓ (*MS*-27/54, *TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- सा᳓मन् (*MS*-3, *TS*-6, *RV*-3, *TB*-1, *SB-M*-1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- शुक्र᳓म् (*MS*-40/101, *TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -216,6 +277,18 @@ Fire hath been kindled, Asvins Twain! the Gharma warmed, the Radiant pressed, He
 When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to Indra strength by passage through the realms of air.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protectors of the body, healers at the pressed [offering], both Aśvins and Sarasvatī:  
+carry through the spaces along the paths with honey faculty for Indra!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Both Aśvins, the physicians, and Sarasvatī are body-protecting at the pressing;  
+with mead she shall convey the realms, the faculty for Indra by the paths.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 त॒नू॒पा भि॒षजा॑ सु॒ते᳙ऽश्विनो॒भा सर॑स्वती।  
@@ -236,6 +309,12 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 इन्द्रा॑य प॒थिभि॑र्वहान् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तनूपा᳓ भिष᳓जा सुते᳙ ऽश्वि᳓नोभा᳓ स᳓रस्वती  
+म᳓ध्वा र᳓जाँसीन्द्रिय᳓म् इ᳓न्द्राय पथि᳓भिर् वह
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 त॒नू॒पेति॑ तनू॒ऽपा। भि॒षजा॑। सु॒ते। अ॒श्विना॑। उ॒भा। सर॑स्वती। मध्वा॑। रजाँ॑सि। इ॒न्द्रि॒यम्। इन्द्रा॑य। प॒थिभि॒रिति॑ प॒थिऽभिः॑। व॒हा॒न्। ५६।
@@ -249,6 +328,22 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तनू-पाः᳓ । भिष᳓जा । सुते᳓ । अश्वि᳓ना । उभा᳓ । स᳓रस्वती । म᳓ध्वा । र᳓जांसि । इन्द्रिय᳓म् । इ᳓न्द्राय । पथि᳓भिः । वहान् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- तनू-पाः᳓ (*TS*-5/9, *RV*-6/9, *TB*-1/2, *AV*-3/4, *SB-M*-4, *SB-K*-3, *VS-M*-3/4, *VS-K*-1/2, *KS*-2)
+- भिष᳓जा (*TS*-1/12, *RV*-5/11, *TB*-13/29, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-15/32, *VS-K*-15/28, *KS*-0/3)
+- सुते᳓ (*TS*-0/19, *RV*-56/392, *TB*-4/20, *AV*-19/61, *SB-M*-0/28, *SB-K*-0/29, *VS-M*-9/39, *VS-K*-9/32, *KS*-0/15)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-14/28, *VS-K*-19/34, *KS*-3/14)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- म᳓ध्वा (*TS*-8/12, *RV*-19/107, *TB*-3/5, *AV*-5/16, *SB-M*-4/6, *SB-K*-4/5, *VS-M*-10/18, *VS-K*-10/15, *KS*-5/7)
+- र᳓जांसि (*TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21, *KS*-4/11)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+- इ᳓न्द्राय (*TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380, *KS*-38/189)
+- पथि᳓भिः (*TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-14/38, *VS-K*-11/35, *KS*-3/21)
+- वह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-63, *TB*-13, *TK*-3, *AV*-24, *SB-M*-14, *SB-K*-20, *VS-M*-6, *VS-K*-5, *KS*-10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -352,6 +447,13 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 तनूपाः द्वितीयप्रयाजदेवः भिषजौ चिकित्सकावश्विनावुभौ सरस्वती इत्येतै देवाः सुते प्रवृत्ते कर्मणि मध्वा मधुना रसेन युक्तानि रजांसि रञ्जकानि हवींषि विविधमिन्द्रियं हविर्जन्यं सामर्थ्यं च इन्द्रार्थं पथिभिः अनुष्ठानरूपैर्मार्गैः वहान् वहन्तु संपादयन्तु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_3]** So corr. Ch स्सर° (Thus emended; Ch reads स्सर°)
+
+- **[574_4]** So auch VS 20, 56; dagegen MS 3, 11, 3 वह (Thus also VS 20, 56; on the other hand MS 3, 11, 3 वह)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -416,6 +518,18 @@ When Soma flows Sarasvatî and both the Asvins, Leeches and Body-guards, bear to
 <details><summary>Griffith</summary>
 
 When Soma flowed the Asvins Twain, the Leeches, brought sweet medicine, With Men's Desire Sarasvatî for Indra, Soma, Nagnahu.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra the drop, Sarasvatī through Narāśaṃsa the ferment,  
+the two Aśvins, healers, deposited honey, medicine at the pressed [offering].
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sarasvatī [placed] the drop for Indra, yeast through Narāśaṃsa;  
+the two Aśvins, the physicians, placed mead, the medicine, at the pressing.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -506,6 +620,11 @@ When Soma flowed the Asvins Twain, the Leeches, brought sweet medicine, With Men
 नराशंसः मन्त्रपाठक्रमेण तृतीयप्रयाजदेवः तेन सहिता सरस्वती इन्द्रार्थं इन्दुं ऐश्वर्यकरं हविस्सारं नग्नहुः एतच्छब्दवाच्यं स्थूलयवपिष्टसक्तुरूपं संपादयतीति शेषः । अश्विना भिषजा चिकित्सकावश्विनौ सुते प्रवृत्तेऽस्मिन्कर्मणि मधु भेषजं मधुरमौषधरूपं हविः अधातां संपादितवन्तौ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_5]** So corr. Ch नग्नहुः; MS 3, 11, 3 und VS 20, 57 = Corr. (Thus emended; Ch reads नग्नहुः; MS 3, 11, 3 and VS 20, 57 agree with the emendation.)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -572,6 +691,18 @@ When Soma flowed the Asvins Twain, the Leeches, brought sweet medicine, With Men
 Worshipped, Sarasvatî bestowed on Indra, senses, manly power. The Asvins, through oblations paid, combined food, energy, and wealth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked, Sarasvatī [brought] faculties, heroic power for Indra;  
+with the Iḍās the two Aśvins deposited food, nourishment, wealth together.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Invoked, Sarasvatī [placed] the faculties, virility for Indra;  
+with refreshments the Aśvins provided food, energy, and wealth.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒जुह्वा॑ना॒ सर॑स्व॒तीन्द्रा॑येन्द्रि॒याणि॑ वी॒र्य᳖म्।  
@@ -592,6 +723,18 @@ Worshipped, Sarasvatî bestowed on Indra, senses, manly power. The Asvins, throu
 समूर्जँ॒ सँर॒यिन्द॑धुः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आजु᳓ह्वाना स᳓रस्वती᳓न्द्रायेन्द्रिया᳓णि वीर्य᳙म्  
+इ᳓डाभिर् अश्वि᳓ना इ᳓षँ स᳓म् ऊ᳓र्जँ सँ᳓ रयिं᳓ दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आजुह्वाना सरस्वतीन्द्रायेन्द्रियाणि वीर्यम्।  
+इडाभिरश्विना इषँ समूर्जँ सं रयिं दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ॒जुह्वा॒नेत्या॒ऽजुह्वा॑ना। सर॑स्वती। इन्द्रा॑य। इ॒न्द्रि॒याणि॑। वी॒र्य᳖म्। इडा॑भिः। अ॒श्विनौ॑। इष॑म्। सम्। ऊर्ज्ज॑म्। सम्। र॒यिम्। द॒धुः॒। ५८।
@@ -605,6 +748,40 @@ Worshipped, Sarasvatî bestowed on Indra, senses, manly power. The Asvins, throu
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ-अजु᳓ह्वाना । स᳓रस्वती । इ᳓न्द्राय । इन्द्रिया᳓णि । वीर्य᳙म् । इ᳓डाभिः । अश्वि᳓नौ । इ᳓षम् । स᳓म् । ऊ᳓र्जम् । स᳓म् । रयि᳓म् । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ-अजु᳓ह्वाना (*TB*-1/2)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- इ᳓न्द्राय (*TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380, *KS*-38/189)
+- इन्द्रिया᳓णि (*TS*-3/191, *RV*-2/41, *TB*-7/217, *TK*-0/1, *AV*-4/21, *SB-M*-2/99, *SB-K*-3/98, *VS-M*-6/106, *VS-K*-5/83, *KS*-1/55)
+- वीर्य᳙म् (*TS*-99, *RV*-25, *TB*-64, *TK*-1, *AV*-20, *SB-M*-201, *SB-K*-221, *VS-M*-11, *VS-K*-11, *KS*-12)
+- इ᳓डाभिः (*TS*-1/45, *RV*-6/53, *TB*-5/30, *AV*-0/10, *SB-M*-0/66, *SB-K*-0/51, *VS-M*-7/26, *VS-K*-5/42, *KS*-0/6)
+- अश्वि᳓नाः (*TS*-0/22, *RV*-0/24, *TB*-0/7, *AV*-0/6, *SB-M*-0/61, *SB-K*-0/61, *VS-M*-0/8, *VS-K*-0/6, *KS*-1/2)
+- इ᳓षम् (*TS*-27/55, *RV*-98/219, *TB*-14/24, *TK*-1, *AV*-13/25, *SB-M*-12/41, *SB-K*-13/41, *VS-M*-16/39, *VS-K*-23/47, *KS*-10/16)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144, *KS*-174)
+- ऊ᳓र्जम् (*TS*-73/123, *RV*-36/58, *TB*-41/60, *TK*-2/3, *AV*-29/41, *SB-M*-37/121, *SB-K*-41/124, *VS-M*-21/51, *VS-K*-39/69, *KS*-17/39)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144, *KS*-174)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37, *KS*-17/27)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ-अजु᳓ह्वाना (समानान्तर-पाठः (VS-K), *TB*-1/2, *MS*-1)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- इ᳓न्द्राय (*MS*-165/711, *TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380)
+- इन्द्रिया᳓णि (*MS*-13/243, *TS*-3/191, *RV*-2/41, *TB*-7/217, *TK*-0/1, *AV*-4/21, *SB-M*-2/99, *SB-K*-3/98, *VS-M*-6/106, *VS-K*-5/83)
+- वीर्य᳙म् (*MS*-146, *TS*-99, *RV*-25, *TB*-64, *TK*-1, *AV*-20, *SB-M*-201, *SB-K*-221, *VS-M*-11, *VS-K*-11)
+- इ᳓डाभिः (*MS*-3/72, *TS*-1/45, *RV*-6/53, *TB*-5/30, *AV*-0/10, *SB-M*-0/66, *SB-K*-0/51, *VS-M*-7/26, *VS-K*-5/42)
+- अश्वि᳓नाः (*MS*-8/29, *TS*-0/22, *RV*-0/24, *TB*-0/7, *AV*-0/6, *SB-M*-0/61, *SB-K*-0/61, *VS-M*-0/8, *VS-K*-0/6)
+- इ᳓षम् (*MS*-27/66, *TS*-27/55, *RV*-98/219, *TB*-14/24, *TK*-1, *AV*-13/25, *SB-M*-12/41, *SB-K*-13/41, *VS-M*-16/39, *VS-K*-23/47)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- ऊ᳓र्जम् (*MS*-66/144, *TS*-73/123, *RV*-36/58, *TB*-41/60, *TK*-2/3, *AV*-29/41, *SB-M*-37/121, *SB-K*-41/124, *VS-M*-21/51, *VS-K*-39/69)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -725,6 +902,18 @@ Worshipped, Sarasvatî bestowed on Indra, senses, manly power. The Asvins, throu
 <details><summary>Griffith</summary>
 
 The Asvins brought from Namuchi pressed Soma bright with foaming juice. Sarasvatî with sacred grass brought that to Indra for his drink.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Soma pressed from Namuci, bright with liquor, O Aśvins,  
+Sarasvatī brought that with the barhis for Indra to drink.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The Aśvins [took] the bright Soma pressed from the foaming liquor of Namuci;  
+Sarasvatī brought that with sacrificial grass for Indra to drink.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -884,6 +1073,18 @@ The Asvins brought from Namuchi pressed Soma bright with foaming juice. Sarasvat
 Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and earth, the regions, the resounding and expansive doors.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Expansive like folding leaves, like the doors, the directions for the two Aśvins,  
+like Indra the two world-halves, Sarasvatī milks desires.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Like opening, spacious doors for the Aśvins, so are the directions;  
+like Indra the two world-halves milk, Sarasvatī milks all desires.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 क॒व॒ष्यो᳙ न व्यच॑स्वतीर॒श्विभ्यां॒ न दुरो॒ दिशः॑।  
@@ -904,6 +1105,12 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 दु॒हे कामा॒न्त्सर॑स्वती ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कवष्यो न व्यचस्वतीरश्विभ्यां न दुरो दिशः।  
+इन्द्रो न रोदसी दुघे दुहे कामान्सरस्वती
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 क॒व॒ष्यः᳙। न। व्यच॑स्वतीः। अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। न। दुरः॑। दिशः॑। इन्द्रः॑। न। रोद॑सी॒ऽइति॒ रोद॑सी। उ॒भेऽइत्यु॒भे। दु॒हे। कामा॑न्। सर॑स्वती। ६०।
@@ -917,6 +1124,25 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 कवष् । यः᳙ । न᳓ । व्य᳓चस्वतीः । अश्वि᳓भ्याम् । न᳓ । दुरः᳓ । दि᳓शः । इ᳓न्द्रः । न᳓ । रो᳓दसी । दु᳓घे । दुहे᳓ । का᳓मान् । स᳓रस्वती ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कव᳓ष् (*MW*, *MS*-0/1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- व्य᳓चस्वतीः (*MS*-3/7, *TS*-0/4, *RV*-2, *TB*-4, *AV*-1, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-4/7, *VS-K*-4/10)
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- दु᳓रः (*MS*-13, *TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6)
+- दि᳓शः (*MS*-70, *TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-25)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- दु᳓घे (*MS*-1/2, *RV*-0/1, *TB*-4, *TK*-0/1, *AV*-0/1, *VS-M*-4, *VS-K*-3)
+- दुहे᳓ (*Whitney*, *MW* ŚBr., *MS*-14, *TS*-9, *RV*-3/5, *TB*-9, *AV*-5/7, *SB-M*-6, *SB-K*-5, *VS-M*-6, *VS-K*-6)
+- का᳓मान् (*MS*-7/76, *TS*-9/60, *RV*-3/75, *TB*-8/60, *TK*-3/43, *AV*-6/64, *SB-M*-55/327, *SB-K*-52/349, *VS-M*-3/20, *VS-K*-2/19)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1015,6 +1241,11 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 दुरश्शब्दाभिधेया या द्वाराभिमानिन्यः षष्ठप्रयाजदेवताः कवष्यो न कवाटवत्य इव व्यचस्वतीः अवकाशवत्यः अश्विभ्यां न अश्विभ्यामपि सह वर्तन्त इति शेषः । इन्द्रो न इन्द्रोऽपि रोदसी दुघे द्यावापृथिव्यौ दोग्धि । सरस्वती कामान् दुहे दोग्धि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_6]** Für दुघे haben MS 3, 11, 3 und VS 20, 60 उभे᳓; aber VS 21, 34 auch दु᳓घे (For दुघे, MS 3, 11, 3 and VS 20, 60 have उभे᳓; but VS 21, 34 also has दु᳓घे)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -1081,6 +1312,12 @@ Sarasvatî and Indra with the Asvins Twain milked out desires From heaven and ea
 Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, with Sarasvatî, deck Indra with surpassing powers.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dawn and Night, the two Aśvins, Indra by day, at evening with faculties,  
+agreeing, well-formed, anoint together with Sarasvatī.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उ॒षासा॒नक्त॑मश्विना॒ दिवेन्द्रँ॑ सा॒यमि॑न्द्रि॒यैः।  
@@ -1101,6 +1338,12 @@ Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, wi
 सम॑ञ्जाते॒ सर॑स्वत्या ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उषा᳓सा न᳓क्तम् अश्वि᳓ना दिवे᳓न्द्रँ सा᳓यम् इन्द्रियैः᳓  
+संजानाने᳓ सुपे᳓शसा स᳓मञ्जाते स᳓रस्वत्या
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 उ॒षासा॑। उ॒षसेत्यु॒षसा॑। नक्त॑म्। अ॒श्वि॒ना॒। दिवा॑। इन्द्र॑म्। सा॒यम्। इ॒न्द्रि॒यैः। स॒ञ्जा॒ना॒ने इति॑ सम्ऽजाना॒ने। सु॒पेश॒सेति॑ सु॒ऽपेश॑सा। सम्। अ॒ञ्जा॒ते॒ऽइत्य॑ञ्जाते। सर॑स्वत्या। ६१।
@@ -1114,6 +1357,22 @@ Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, wi
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उषा᳓सा । न᳓क्तम् । अश्विना । दि᳓वा । इ᳓न्द्रम् । साय᳓म् । इन्द्रियैः᳓ । सम्-जानाने᳓ । सु-पे᳓शसा । स᳓मम् । जाते । स᳓रस्वत्या ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उषा᳓सा (*TS*-1/2, *TB*-1, *VS-M*-2/5, *VS-K*-2/4)
+- न᳓क्तम् (*TS*-15, *RV*-33, *TB*-15, *TK*-1, *AV*-11, *SB-M*-10, *SB-K*-9, *VS-M*-8, *VS-K*-6, *KS*-6)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- दिवा᳓ (*TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9, *KS*-5)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380, *KS*-41/189)
+- सा᳓यम् (मूल-पाठः)
+- इन्द्रियैः᳓ (*TS*-0/191, *RV*-1/41, *TB*-1/217, *TK*-0/1, *AV*-1/21, *SB-M*-0/99, *SB-K*-0/98, *VS-M*-2/106, *VS-K*-2/83, *KS*-0/55)
+- सम्-जानाने᳓ (*TS*-0/1, *RV*-0/2, *TB*-2/4, *AV*-0/2, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *KS*-0/1)
+- सु-पे᳓शसा (*TS*-0/1, *RV*-5/18, *TB*-4/6, *AV*-0/2, *VS-M*-6, *VS-K*-6, *KS*-0/1)
+- स᳓मम् (*TS*-0/14, *RV*-0/3, *TB*-2/5, *AV*-0/12, *SB-M*-0/9, *SB-K*-0/13, *VS-M*-0/8, *VS-K*-0/14, *KS*-0/2)
+- जाते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- स᳓रस्वत्या (*TS*-2/45, *RV*-1/54, *TB*-6/87, *AV*-1/32, *SB-M*-1/63, *SB-K*-2/59, *VS-M*-11/105, *VS-K*-8/94, *KS*-3/11)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1264,6 +1523,12 @@ Ye Asvins, Dawn and Night, by day and in the evening, fair of hue, Accordant, wi
 Guard us, O Asvins, through the day, guards us by night, Sarasvatî. Celestial Hotars, Leeches! both guard Indra when the juice is pressed.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protect us, O Aśvins, by day; protect us, O Sarasvati, by night;  
+you two divine Hotṛs, physicians, protect Indra together at the pressing!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 पा॒तं नो॑ऽअश्विना॒ दिवा॑ पा॒हि नक्तँ॑ सरस्वति।  
@@ -1362,6 +1627,11 @@ Guard us, O Asvins, through the day, guards us by night, Sarasvatî. Celestial H
 हे अश्विनौ! दिवा नाऽस्मान्पातम् । हे सरस्वति! नक्तमस्मान्पाहि । दैव्यहोतृशब्दवाच्यौ हे अष्टमप्रयाजदेवौ! चिकित्सकौ सचा परस्परं संयुक्तौ सुते प्रवृतेऽस्मिन्कर्मणि इन्द्रं पातम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[574_7]** So corr. Ch सरस्वती; cf. MS 3, 11, 3; VS 20, 62. (Thus emended; Ch reads सरस्वती; cf. MS 3, 11, 3; VS 20, 62)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विसरस्वतीन्द्रा देवताः
@@ -1428,6 +1698,12 @@ Guard us, O Asvins, through the day, guards us by night, Sarasvatî. Celestial H
 The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladden Indra, poured strong Soma with the foaming juice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three threefold goddesses—Sarasvatī, the Aśvins, Bhāratī, and Iḍā—  
+pressed strong Soma, the exhilarating drink, with the foaming liquor for Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 ति॒स्रस्त्रे॒धा सर॑स्वत्य॒श्विना॒ भार॒तीडा॑।  
@@ -1448,6 +1724,12 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 इन्द्रा॑य सुषवु॒र्मद॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तिस्रस्त्रेधा सरस्वत्यश्विना भारतीडा।  
+तीव्रं परिस्रुता सोममिन्द्रायासुषवुर्मदम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ति॒स्रः। त्रे॒धा। सर॑स्वती। अ॒श्विना॑। भार॑ती। इडा॑। ती॒व्रम्। प॒रि॒स्रुतेति॑ परि॒ऽस्रुता॑। सोम॑म्। इन्द्रा॑य। सु॒षु॒वुः॒। सु॒सु॒वु॒रिति॑ सुसुवुः। मद॑म्। ६३।
@@ -1461,6 +1743,23 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तिस्रः᳓ । त्रेधा᳓ । स᳓रस्वती । अश्वि᳓ना । भा᳓रती । इ᳓डा । तीव्र᳓म् । परि-स्रु᳓ता । सो᳓मम् । इ᳓न्द्राय । सुष । वुः । म᳓दम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- त्रेधा᳓ (*MS*-25, *TS*-12, *RV*-10, *TB*-10, *AV*-14, *SB-M*-25, *SB-K*-42, *VS-M*-4, *VS-K*-4)
+- स᳓रस्वति (*MS*-10/119, *TS*-3/43, *RV*-7/52, *TB*-6/86, *AV*-4/26, *SB-M*-7/65, *SB-K*-9/65, *VS-M*-0/95, *VS-K*-2/92)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- भा᳓रती (*MS*-8, *TS*-2, *RV*-8/10, *TB*-11/13, *AV*-3, *SB-K*-1, *VS-M*-9/10, *VS-K*-9/10)
+- इ᳓डा (*Whitney*, *MS*-33/72, *TS*-17/45, *RV*-18/53, *TB*-15/30, *AV*-5/10, *SB-M*-34/66, *SB-K*-25/51, *VS-M*-10/26, *VS-K*-10/42)
+- तीव्र᳓म् (*MS*-1/6, *TS*-1/5, *RV*-5/21, *TB*-1/3, *AV*-0/7, *SB-M*-0/2, *SB-K*-1/3, *VS-K*-1)
+- परि-स्रु᳓ता (*MS*-18/22, *TS*-0/1, *RV*-0/3, *TB*-17/21, *AV*-0/1, *SB-M*-2/19, *SB-K*-1/16, *VS-M*-18/23, *VS-K*-9/14)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- इ᳓न्द्रायास् (*MW*, *MS*-0/714, *TS*-0/498, *RV*-0/1356, *TB*-0/369, *TK*-0/8, *AV*-0/606, *SB-M*-0/535, *SB-K*-0/509, *VS-M*-0/392, *VS-K*-0/381)
+- उष᳓ (*MW*, *Macdonell*, *MS*-4, *TS*-3, *RV*-54, *TB*-4, *AV*-12, *SB-M*-4/9, *SB-K*-3/10, *VS-M*-2, *VS-K*-1)
+- वुः᳓ (*MS*-0/35, *TS*-0/844, *RV*-0/55, *TB*-0/16, *TK*-0/6, *AV*-0/7, *SB-M*-0/29, *SB-K*-0/50, *VS-M*-0/1, *VS-K*-0/1)
+- म᳓दम् (*MS*-3/15, *TS*-1/9, *RV*-23/273, *TB*-3/8, *AV*-6/37, *SB-M*-0/10, *SB-K*-0/10, *VS-M*-1/11, *VS-K*-1/10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1544,6 +1843,13 @@ The Asvins, and the Three, apart, Sarasvatî, Idâ, Bhâratî, As drink to gladd
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 हे अश्विनौ! सरस्वती भारती इडा इत्येतास्तिस्रो नवमप्रयाजदेवताः त्रेधा लोकत्रयरूपेण वर्तमानाः परिस्रुता परिस्रवन्त्या सुरया सहितं तीव्रं तीव्रगन्धोपेतं सोमं सोमसदृशं मदं मदकरं हविः इन्द्राय सुषवुः इन्द्रार्थं संपादितवत्यः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[575_1]** So corr. Ch तीड (Thus emended; Ch reads तीड)
+
+- **[575_2]** So corr. Ch यासुषवर्म°; VS 20, 63 य सुषुवुर्म᳓° ; MS 3, 11, 3 या᳓सुषुवुर्म᳓° ; aber Padap. richtiger इन्द्राय। सुषुवुः। (Thus emended; Ch यासुषवर्म°; VS 20, 63 य सुषुवुर्म᳓°; MS 3, 11, 3 या᳓सुषुवुर्म᳓°; but Padapāṭha more correctly इन्द्राय। सुषुवुः।)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,6 +27,18 @@ unicode_script: devanagari
 Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî, Savitar, Varuna, the Asvins span sacrifice and healed his form for Indra.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With lead the wise weave the warp with the mind, the poets with woolen thread;  
+the two Aśvins the sacrifice, Savitar, Sarasvatī, Varuṇa healing the form of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With lead the wise weave the warp with the mind, with woolen thread the poets,  
+the two Aśvins, Savitṛ, Sarasvatī, [weaving] the sacrifice, and Varuṇa, healing the form of Indra.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सीसे॑न॒ तन्त्रं॒ मन॑सा मनी॒षिण॑ऽऊर्णासू॒त्रेण॑ क॒वयो॑ वयन्ति।  
@@ -47,6 +59,12 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 इन्द्र॑स्य रू॒पव्ँवरु॑णो भिष॒ज्यन् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सीसेन तन्त्रं मनसा मनीषिण ऊर्णासूत्रेण कवयो वयन्ति।  
+अश्विना यज्ञँ सविता सरस्वतीन्द्रस्य रूपं वरुणो भिषज्यम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सीसे॑न। तन्त्र॑म्। मन॑सा। म॒नी॒षिणः॑। ऊ॒र्णा॒सू॒त्रेणेत्यू॑र्णाऽसू॒त्रेण॑। क॒वयः॑। व॒य॒न्ति॒। अ॒श्विना॑। य॒ज्ञम्। स॒वि॒ता। सर॑स्वती। इन्द्र॑स्य। रू॒पम्। वरु॑णः। भि॒ष॒ज्यन्। ८०।
@@ -60,6 +78,25 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सी᳓सेन । त᳓न्त्रम् । म᳓नसा । मनीषि᳓णः । ऊर्णा-सूत्रे᳓ण । कव᳓यः । वयन्ति । अश्वि᳓ना । यज्ञ᳓म् । सविता᳓ । स᳓रस्वती । इ᳓न्द्रस्य । रूप᳓म् । व᳓रुणः । भिषज् । य᳓न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सी᳓सेन (*MS*-3/9, *TS*-0/2, *TB*-4/5, *TK*-0/1, *AV*-1/8, *SB-M*-6/11, *SB-K*-5/11, *VS-M*-2/4, *VS-K*-1/3)
+- त᳓न्त्रम् (*MS*-1, *RV*-1, *TB*-1, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1, *VS-K*-1)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- मनीषि᳓णः (*RV*-16/32, *TB*-1, *AV*-5/8, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-1/2, *MS*-1)
+- ऊर्णा-सूत्रे᳓ण (*MS*-1, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- कव᳓यः (*MS*-11/36, *TS*-6/31, *RV*-36/200, *TB*-5/21, *AV*-12/30, *SB-M*-4/11, *SB-K*-3/9, *VS-M*-5/23, *VS-K*-5/26)
+- वयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-3, *TB*-1, *SB-M*-4, *SB-K*-6, *VS-K*-1)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- भिषज्य᳓म् (*Macdonell*, *MS*-2, *SB-M*-0/1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -184,6 +221,11 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 मनीषिणो बुद्धिमन्त ऊहापोहकुशलाः कवयो विद्वांसः शास्त्राभिज्ञा ऋत्विजः स्वमनसा प्रयोगं सर्वं विचार्य सीसद्रव्यक्रीतेन व्रीह्यङ्कुरादिना तन्त्रं सौत्रामणियज्ञविस्तारं ऊर्णासूत्रेणेव वयन्ति निष्पादयन्ति । यथा लोके केचिदविपालका ऊर्णासूत्रेण कम्बलं वयन्ति । एवमेतेऽप्यृत्विजः सीसक्रीतद्रव्यादिना यज्ञाख्यं दीर्घतन्तुरूपं वयन्ति । अश्विनासरस्वत्याद्या देवता इन्द्रस्य स्वरूपभूतमिमं यज्ञमोषधिसदृशैः पश्वङ्गैः भिषज्यन् चिकित्सन्ते ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_1]** So Ch; in Mâitr. S. 3, 11, 9 भिषज्यन् (Thus Ch; in Mâitr. S. 3, 11, 9 भिषज्यन्)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता देवता
@@ -250,6 +292,18 @@ Wise, with mind, lead, and thread of wool the sages twine an amulet. Sarasvatî,
 This his immortal shape with mighty powers three Deities bestowing gifts compounded. His hair they made with sprouts of grass and barley, and roasted grain with skin and flesh supplied him.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That immortal form of his the three goddesses bestowed, being gracious through their arts;  
+his hairs [became] like tender shoots, multiplied like malt-sprouts; his skin, his flesh became like fried rice.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+This immortal form of his the three goddesses bestowed, being generous through their wondrous powers:  
+his bodily hairs like sprouting grass in many ways, his skin not with young shoots, his flesh became like parched grains.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तद॑स्य रू॒पम॒मृतँ॒ शची॑भिस्ति॒स्रो द॑धु॒र्दे॒वताः॑ सँररा॒णाः।  
@@ -270,6 +324,12 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 त्वग॑स्य माँ॒सम॑भव॒न्न ला॒जाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तदस्य रूपममृतँ शचीभिस्तिस्रो ददुर्देवतास्संरराणाः।  
+लोमानि शष्पैर्बहुधा न तोक्मभिस्त्वगस्य माँसमभवन्न लाजाः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तत्। अ॒स्य॒। रू॒पम्। अ॒मृत॑म्। शची॑भिः। ति॒स्रः। द॒धुः॒। दे॒वताः॑। सँ॒र॒रा॒णा इति॑ सम्ऽररा॒णाः। लोमा॑नि। शष्पैः॑। ब॒हु॒धा। न। तोक्म॑भि॒रिति॒ तोक्म॑ऽभिः। त्वक्। अ॒स्य॒। माँ॒सम्। अ॒भ॒व॒त्। न। ला॒जाः। ८१।
@@ -283,6 +343,31 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓त् । अस्य । रूप᳓म् । अ-मृ᳓तम् । श᳓चीभिः । तिस्रः᳓ । अदधुः । देव᳓ताः । सम्-रराणाः᳓ । लो᳓मानि । श᳓ष्पैः । बहु-धा᳓ । न᳓ । तो᳓क्मभिः । त्व᳓क् । अस्य । माम् । स᳓म् । अभवत् । न᳓ । लाजाः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- श᳓चीभिः (*MS*-8/10, *TS*-3, *RV*-36/54, *TB*-9/10, *AV*-11/16, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-8/9, *VS-K*-11/16)
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- ददुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *AV*-4, *SB-M*-2, *SB-K*-3)
+- देव᳓ताः (*MS*-100/411, *TS*-109/381, *RV*-0/14, *TB*-49/156, *TK*-4/54, *AV*-11/35, *SB-M*-141/570, *SB-K*-157/590, *VS-M*-3/36, *VS-K*-2/36)
+- सम्-रराणाः᳓ (*TS*-2/3, *RV*-0/3, *TB*-1, *AV*-0/3, *SB-K*-1/2, *VS-M*-2/5, *VS-K*-1/3, *MS*-2/4)
+- लो᳓मानि (*MS*-4/10, *TS*-1/8, *RV*-0/1, *TB*-7/13, *TK*-1/2, *AV*-6/9, *SB-M*-35/55, *SB-K*-38/55, *VS-M*-2/7, *VS-K*-2/7)
+- श᳓ष्पैः (*MW*, *Macdonell*, *MS*-3, *TB*-3/5, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-3/4, *VS-K*-1/5)
+- बहु-धा᳓ (*MS*-7, *TS*-3, *RV*-9, *TB*-3, *TK*-1, *AV*-44, *SB-M*-6, *SB-K*-6, *VS-M*-2, *VS-K*-2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- तो᳓क्मभिस् (*MW*, *MS*-4, *TB*-4, *VS-M*-4, *VS-K*-1/3)
+- त्व᳓क् (*MS*-14, *TS*-6/9, *RV*-1, *TB*-5, *SB-M*-36, *SB-K*-40, *VS-M*-8, *VS-K*-8/9)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- मा᳓म् (*MW*, *MS*-37/641, *TS*-31/565, *RV*-50/1308, *TB*-25/270, *TK*-16/66, *AV*-47/1252, *SB-M*-42/723, *SB-K*-47/728, *VS-M*-8/315, *VS-K*-7/274)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अभवत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-98, *TS*-81, *RV*-43, *TB*-87, *TK*-17, *AV*-50, *SB-M*-188, *SB-K*-196, *VS-M*-11, *VS-K*-9)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- लाजाः᳓ (*MS*-1/3, *TB*-2/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-2/4, *VS-K*-2/6)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -351,6 +436,13 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 द्वावश्विनौ एका सरस्वती इत्येतास्तिस्रो देवताः शचीभिः स्वकीयशक्तिभिः अस्येन्द्रस्य तत् यज्ञात्मकं रूपं अमृतं विनाशरहितं यथा भवति तथा दधुः संपादयामासुः । कीदृश्यो देवताः? संरराणाः संभूय परस्परं रममाणाः । तोक्मशब्देनाङ्कुरिता व्रीहय उच्यन्ते । तदङ्कुररूपं बालतृणं शष्पशब्देनोच्यते । नकार उपमार्थः । तोक्मभिः शष्पैर्बहुधा लोमानीव निष्पादितवन्तः । अङ्कुरप्ररोहधारभूता बीजविशेषा लाजशब्देनोच्यन्ते । ते च लाजा अस्य यज्ञरूपस्येन्द्रस्य त्वगिव मांसमिवाभवत् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_2]** Mâitr. S. 3, 11, 9 दधु°
+
+- **[569_3]** So corr. Ch शष्मैर्ब° (Thus emended; Ch reads शष्मैर्ब°)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - वरुणो देवता
@@ -417,6 +509,12 @@ This his immortal shape with mighty powers three Deities bestowing gifts compoun
 His inner shape Sarasvatî arranges and, borne on bright paths, the Physician Asvins: With Mâsaras and sieve his bone and marrow, as on the Oxen's hide they lay the liquor.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the two physician Aśvins, pursuing a wild path, Sarasvatī weaves the inner embellishment,  
+depositing bone and marrow with māsara-liquor through the filter on the hide of cattle.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तद॒श्विना॑ भि॒षजा॑ रु॒द्रव॑र्तनी॒ सर॑स्वती वयति॒ पेशो॒ऽअन्त॑रम्।  
@@ -429,6 +527,12 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 सर॑स्वती वयति॒ पेशो॒ अन्त॑रः ॥14॥  
 अस्थि॑ म॒ज्जान॒म्मास॑रैः ।  
 का॒रो॒त॒रेण॒ दध॑तो॒ गवा॑न्त्व॒चि ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+तदश्विना भिषजा रुद्रवर्तनी सरस्वती वयति पेशो अन्तरम्।  
+अस्थि मज्जानं मासरैः करोतरेण दधतो गवां त्वचि
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -444,6 +548,26 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓त् । अश्वि᳓ना । भिष᳓जा । रुद्र᳓-वर्तनी । स᳓रस्वती । वयति । पे᳓शः । अ᳓न्तरः । अ᳓स्थि । मज्जा᳓नम् । मा᳓सरैः । कारोतरे᳓ण । द᳓धतः । ग᳓वाम् । त्वचि᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- भिष᳓जा (*MS*-12/30, *TS*-1/12, *RV*-5/11, *TB*-13/29, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-15/32, *VS-K*-15/28)
+- रुद्र᳓-वर्तनी (*MS*-1, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- वयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1, *TB*-2, *AV*-3, *SB-M*-2, *VS-K*-1)
+- पे᳓शः (*Whitney*, *MS*-3, *TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- अ᳓न्तरम् (*MS*-4/5, *TS*-2/5, *RV*-4/16, *TB*-0/1, *TK*-0/1, *AV*-4, *SB-M*-12/183, *SB-K*-10/168, *VS-M*-2/4, *VS-K*-2/4)
+- अ᳓स्थि (*MS*-4/5, *TS*-4/5, *TB*-11/12, *AV*-7/13, *SB-M*-30/50, *SB-K*-29/52, *VS-M*-2/3, *VS-K*-2/3)
+- मज्जा᳓नम् (*MS*-1/4, *TS*-2/7, *RV*-1, *TB*-3/5, *AV*-4/11, *SB-M*-1/22, *SB-K*-1/22, *VS-M*-1/5, *VS-K*-1/3)
+- मा᳓सरैः (*MS*-0/5, *TB*-1/5, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/7, *VS-K*-1/3)
+- करो᳓ (*SB-M*-1)
+- त᳓रेण (*MW*, *Macdonell*, *Lanman*, *RV*-0/7, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1)
+- द᳓धतः (*MS*-1/20, *TS*-0/13, *RV*-6/42, *TB*-1/35, *AV*-1/5, *SB-M*-0/23, *SB-K*-0/19, *VS-M*-2/34, *VS-K*-2/53)
+- ग᳓वाम् (*MS*-13/149, *TS*-4/108, *RV*-52/521, *TB*-6/76, *AV*-16/195, *SB-M*-6/168, *SB-K*-4/149, *VS-M*-1/67, *VS-K*-2/67)
+- त्वचि᳓ (*MS*-3, *TS*-1, *RV*-9, *TB*-4, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -550,6 +674,13 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 रुद्रस्येव वर्तनिर्मार्गो ययोरश्विनोस्तौ रुद्रवर्तनी । यथा रुद्रः क्रूरो देवो हिंसितुं समर्थ एवमेतावश्विनौ व्याधिं नाशयितुं समर्थावित्यर्थः । तादृशावश्विनौ तत्र यज्ञे भिषजौ चिकित्सकौ । या तु सरस्वती अन्तरः शरीरमध्ये पेशो वयति रूपं निष्पादयति । मासरशब्देन यवनिष्पन्नाः सूक्ष्मसक्तवो दधिमिश्रा दर्भैः परिवेष्टिता उच्यन्ते । कारोतरशब्देनावटस्थानीयस्तत्सदृशो वेणुदलनिर्मितश्चर्मणा सर्वतः परिवेष्टितः सुराश्रपणार्थभाण्डाधारः पदार्थविशेष उच्यते । गवां त्वच्यवस्थितेन कारोतरेण मासरैश्च मज्जानमस्थि च दधतः दधाति सरस्वती संपादयतीत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_4]** So corr. Ch अन्तरः ; cf. Mâitr. S. 3, 11, 9 = Corr. (Thus emended; Ch reads अन्तरः; cf. Mâitr. S. 3, 11, 9, which agrees with the emendation.)
+
+- **[569_5]** So Ch; Mâitr. S. 3, 11, 9 कारो° (Thus Ch; Mâitr. S. 3, 11, 9 reads कारो°)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अश्विनौ देवते
@@ -616,6 +747,18 @@ His inner shape Sarasvatî arranges and, borne on bright paths, the Physician As
 By thought Sarasvatî with both Nâsatyas forms lovely treasure and a beauteous body. Like shuttle through the loom the steady ferment mixes the red juice with the foaming spirit.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sarasvatī with the mind weaves the beautiful treasure, the wonderful body for the two Nāsatyas,  
+like the red sap of flowing [liquor], [as] the wise [weaver] with ferment [weaves] the shuttle, the loom.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sarasvatī with the mind weaves the charming wealth, with the two Nāsatyas the lovely body,  
+like the sap with the foaming liquor, the dark red [blood], the yeast, like a hero the shuttle, the loom.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सर॑स्वती॒ मन॑सा पेश॒लं वसु॒ नास॑त्याभ्यां वयति दर्श॒तं वपुः॑।  
@@ -636,6 +779,18 @@ By thought Sarasvatî with both Nâsatyas forms lovely treasure and a beauteous 
 न॒ग्नहु॒र्धीर॒स्तस॑र॒न्न वेम॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓रस्वती म᳓नसा पेशलँ᳓ व᳓सु ना᳓सत्याभ्याँ वयति दर्शतँ᳓ व᳓पुः  
+र᳓सं परिस्रु᳓तो न᳓ रो᳓हितं नग्न᳓हुर् धी᳓रस् त᳓सरं न᳓ वे᳓म
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सरस्वती मनसा पेशलं वसु नासत्याभ्यां वयति दर्शतं वपुः।  
+रसं परिस्रुता न रोहितं नग्नहुर्वीरस्तसरं न वेम
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सर॑स्वती। मन॑सा। पे॒श॒लम्। वसु॑। नास॑त्याभ्याम्। व॒य॒ति॒। द॒र्श॒तम्। वपुः॑। रस॑म्। प॒रि॒स्रुतेति॑ परि॒ऽस्रुता॑। न। रोहि॑तम्। न॒ग्नहुः॑। धीरः॑। तस॑रम्। न। वेम॑। ८३।
@@ -649,6 +804,48 @@ By thought Sarasvatî with both Nâsatyas forms lovely treasure and a beauteous 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓रस्वती । म᳓नसा । पेशल᳓म् । व᳓सु । ना᳓सत्याभ्याम् । वयति । दर्शत᳓म् । व᳓पुः । र᳓सम् । परि-स्रु᳓ता । न᳓ । रो᳓हितम् । नग्न᳓हुः । धी᳓रः । त᳓सरम् । न᳓ । वे᳓म ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-19/50)
+- पेशल᳓म् (*TB*-2, *VS-M*-1, *VS-K*-1)
+- व᳓सु (*TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100, *KS*-8/41)
+- ना᳓सत्याभ्याम् (*RV*-3/38, *TB*-1/3, *VS-M*-1/5, *VS-K*-1/5, *KS*-0/1)
+- वयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *TB*-2, *AV*-3, *SB-M*-2, *VS-K*-1)
+- दर्शत᳓म् (*TS*-1/2, *RV*-16/39, *TB*-2/4, *TK*-0/1, *AV*-1/5, *SB-M*-5/10, *SB-K*-5/11, *VS-M*-3/6, *VS-K*-3/6, *KS*-1)
+- व᳓पुः (*TS*-0/2, *RV*-15/39, *TB*-1/2, *AV*-2/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- र᳓सम् (*TS*-17/52, *RV*-19/42, *TB*-10/24, *AV*-9/27, *SB-M*-104/312, *SB-K*-103/308, *VS-M*-4/14, *VS-K*-3/11, *KS*-2/16)
+- परि-स्रु᳓तः (*TS*-0/1, *RV*-1/3, *TB*-2/21, *AV*-1, *SB-M*-2/19, *SB-K*-2/16, *VS-M*-2/23, *VS-K*-2/14, *KS*-2)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- रो᳓हितम् (*TS*-0/3, *RV*-1/6, *TB*-1, *AV*-3/48, *SB-M*-0/3, *SB-K*-2/6, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/1)
+- नग्न᳓हुः (*TB*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/4, *VS-K*-2/4)
+- धी᳓रः (*TS*-5/11, *RV*-22/52, *TB*-3/6, *AV*-7/13, *SB-M*-5/10, *SB-K*-5/11, *VS-M*-3/13, *VS-K*-3/13, *KS*-1/4)
+- त᳓सरम् (*RV*-0/1, *TB*-1, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- वे᳓म (*TB*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- पेशल᳓म् (*MS*-1, *TB*-2, *VS-M*-1, *VS-K*-1)
+- व᳓सु (*Whitney*, *MS*-25/140, *TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100)
+- ना᳓सत्याभ्याम् (*MS*-1/3, *RV*-3/38, *TB*-1/3, *VS-M*-1/5, *VS-K*-1/5)
+- वयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1, *TB*-2, *AV*-3, *SB-M*-2, *VS-K*-1)
+- दर्शत᳓म् (*MS*-3/4, *TS*-1/2, *RV*-16/39, *TB*-2/4, *TK*-0/1, *AV*-1/5, *SB-M*-5/10, *SB-K*-5/11, *VS-M*-3/6, *VS-K*-3/6)
+- व᳓पुः (*MS*-1/4, *TS*-0/2, *RV*-15/39, *TB*-1/2, *AV*-2/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- र᳓सम् (*MS*-27/71, *TS*-17/52, *RV*-19/42, *TB*-10/24, *AV*-9/27, *SB-M*-104/312, *SB-K*-103/308, *VS-M*-4/14, *VS-K*-3/11)
+- परि-स्रु᳓ता (*MS*-18/22, *TS*-0/1, *RV*-0/3, *TB*-17/21, *AV*-0/1, *SB-M*-2/19, *SB-K*-1/16, *VS-M*-18/23, *VS-K*-9/14)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- रो᳓हितम् (*MS*-2/5, *TS*-0/3, *RV*-1/6, *TB*-1, *AV*-3/48, *SB-M*-0/3, *SB-K*-2/6, *VS-M*-1/4, *VS-K*-1/4)
+- नग्न᳓हुः (*MS*-1/3, *TB*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/4, *VS-K*-2/4)
+- वीरः᳓ (*MS*-11/36, *TS*-6/20, *RV*-27/119, *TB*-9/25, *AV*-10/66, *SB-M*-11/28, *SB-K*-12/32, *VS-M*-2/19, *VS-K*-1/17)
+- त᳓सरम् (*MW*, *MS*-1, *RV*-0/1, *TB*-1, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वे᳓म (*MS*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -762,6 +959,11 @@ By thought Sarasvatî with both Nâsatyas forms lovely treasure and a beauteous 
 इयं सरस्वती नासत्याभ्यां अश्विदेवताभ्यां सहिता वपुर्वयति शरीरं मनसा निष्पादयति । कीदृशं वपुः? पेशलं वसु देवतात्मनो निवासयोग्यं दर्शतं दर्शनीयं दृष्टिप्रियमित्यर्थः । परिस्रुता न परिस्रुतेव धारया स्रवत् सुराद्रव्यं परिस्रुदित्युच्यते । तया परिस्रुतेव शरीरस्थं रसं जलं रोहितं रक्तं वयति संपादयति स्रवन् स एव रक्तस्थानीय इत्यर्थः । नग्नहुशब्देन यवानां स्थूलचूर्णानि संस्रावेणाभिषिक्तानि कथ्यन्ते । सोऽयं नग्नहुरवयवान्तरस्थानीय इत्यर्थः । धीर इत्यादिदृष्टान्तः - लोके धीरो बुद्धिमान् कुविन्दः तसरं न नववस्त्रमिव । वेमशब्देन वस्त्रनिर्माणकाले प्रहारदण्डोऽभिधीयते । यया कुविन्दः प्रहारदण्डेन वस्त्रं निष्पादयति तद्वदित्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_6]** Ch नग्नहु वीर°; besser Mâitr. S. 3, 11, 9 नग्नहुर्धीर° (Ch नग्नहु वीर°; better Mâitr. S. 3, 11, 9 नग्नहुर्धीर°)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सरस्वती देवता
@@ -865,6 +1067,18 @@ By thought Sarasvatî with both Nâsatyas forms lovely treasure and a beauteous 
 Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave truth its being. Varuna, doctoring the lungs and liver, forms, as with Vâyu cups, the gall and kidneys.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, the good protector, with his heart [produced] truth, Savitar produced [it] with the puroḍāśa;  
+Varuṇa healing the liver, the lungs, does not injure the bile with the kidneys, as with the Vāyu-cups.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Indra Sutrāman with the heart, Savitṛ brought forth the truth with the sacrificial cake;  
+Varuṇa, healing the liver and the lungs, measures out the bile in the kidneys, as if with Vāyavya cups.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्रः॑ सु॒त्रामा॒ हृद॑येन स॒त्यं पु॑रो॒डशे॑न सवि॒ता ज॑जान।  
@@ -885,6 +1099,18 @@ Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave t
 मत॑स्ने वाय॒व्यै॑र्न मि॑नाति पि॒त्तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रः सुत्रा᳓मा हृ᳓दयेन सत्यं᳓ पुरोडा᳓शेन सविता᳓ जजान  
+य᳓कृत् क्लोमा᳓नँ व᳓रुणो भिषज्य᳓न् म᳓तस्ने वायव्यै᳙र् न᳓ मिनाति पित्त᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्रस्सुत्रामा हृदयेन सत्यं पुरोडाशेन सविता जजान।  
+यकृत्क्लोमानं वरुणो भिषज्यन्मतस्ने वायव्यैर्न मिनाति पित्तम्
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इन्द्रः॑। सु॒त्रामेति॑ सु॒ऽत्रामा॑। हृद॑येन। स॒त्यम्। पु॒रो॒डाशे॑न। स॒वि॒ता। ज॒जा॒न॒। यकृ॑त्। क्लो॒मान॑म्। वरु॑णः। भि॒ष॒ज्यन्। मत॑स्ने॒ इति॒ मत॑ऽस्ने। वा॒य॒व्यैः᳖। न। मि॒ना॒ति॒। पि॒त्तम्। ८५।
@@ -898,6 +1124,47 @@ Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave t
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्रः । सु-त्रा᳓मा । हृ᳓दयेन । सत्य᳓म् । पुरो-डा᳓शेन । सविता᳓ । जजान । य᳓कृत् । क्लोमा᳓नम् । व᳓रुणः । भिषज् । य᳓न् । म᳓तस्ने । वायव्यैः᳙ । न᳓ । मिनाति । पित्त᳓म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-72/189)
+- सु-त्रा᳓मा (*TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20, *KS*-2/3)
+- हृ᳓दयेन (*TS*-2, *TB*-2, *AV*-2, *SB-M*-9, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47, *KS*-13/24)
+- पुरो-डा᳓शेन (*TS*-2/116, *RV*-0/19, *TB*-2/52, *TK*-0/7, *AV*-0/4, *SB-M*-24/210, *SB-K*-19/171, *VS-M*-3/9, *VS-K*-3/19, *KS*-0/7)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109, *KS*-14/41)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
+- य᳓कृत् (*TB*-1, *AV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-1)
+- क्लोमा᳓नम् (*TS*-0/1, *TB*-1, *AV*-0/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84, *KS*-41/72)
+- भिषज् (*TB*-3)
+- य᳓त् (*TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609, *KS*-257/818)
+- म᳓तस्ने (*TS*-0/2, *RV*-0/1, *TB*-1, *AV*-1/3, *SB-M*-2, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/3)
+- वायव्यैः᳙ (*TS*-1, *TB*-1, *VS-M*-1, *VS-K*-2/4)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- मिनाति (*RV*-10, *TB*-1, *AV*-3, *SB-K*-6, *VS-K*-1, *KS*-1)
+- पित्त᳓म् (*TS*-1/2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-2/3, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- सु-त्रा᳓मा (*MS*-10/17, *TS*-2/9, *RV*-2/3, *TB*-8/14, *AV*-5/6, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-11/24, *VS-K*-11/20)
+- हृ᳓दयेन (*MS*-1, *TS*-2, *TB*-2, *AV*-2, *SB-M*-9, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- पुरो-डा᳓शेन (*MS*-4/67, *TS*-2/116, *RV*-0/19, *TB*-2/52, *TK*-0/7, *AV*-0/4, *SB-M*-24/210, *SB-K*-19/171, *VS-M*-3/9, *VS-K*-3/19)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5)
+- य᳓कृत् (*MS*-1, *TB*-1, *AV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-1)
+- क्लोमा᳓नम् (समानान्तर-पाठः (MS), *MS*-1/4, *TS*-0/1, *TB*-1, *AV*-0/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- भिषज्य᳓म् (*Macdonell*, *MS*-2, *SB-M*-0/1, *VS-M*-2, *VS-K*-2)
+- म᳓तस्ने (*MS*-1/3, *TS*-0/2, *RV*-0/1, *TB*-1, *AV*-1/3, *SB-M*-2, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/3)
+- वायव्यैः᳙ (*MS*-1, *TS*-1, *TB*-1, *VS-M*-1, *VS-K*-2/4)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- मिनाति (समानान्तर-पाठः (MS), *MS*-1, *RV*-10, *TB*-1, *AV*-3, *SB-K*-6, *VS-K*-1)
+- पित्त᳓म् (*MS*-2/3, *TS*-1/2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-2/3)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1055,6 +1322,18 @@ Heart with his heart Indra Good Guardian gendered: with rice-cake Savitar gave t
 Cooking-pots pouring honey were the entrails: like a well-milking cow the pans were bowels. A hawk's wing was the spleen: through mighty powers the stool as mother was navel and belly.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The intestines are cooking pots swelling with honey; the guts are vessels, like an easy-milking cow;  
+like the feather of a hawk is the spleen through [their] arts; the throne is the navel, the belly like a mother.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The entrails are the pot swelling with honey; the bowels are the vessels, like an easy-milking cow;  
+the spleen is like a falcon's wing through their wondrous powers; the chair is the navel, the belly like a mother.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒न्त्राणि॑ स्था॒लीर्मधु॒ पिन्व॑माना॒ गुदाः॒ पात्रा॑णि सु॒दुघा॒ न धे॒नुः।  
@@ -1075,6 +1354,18 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 आ॒स॒न्दी नाभि॑रु॒दर॒न्न मा॒ता ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आन्त्रा᳓णि स्थाली᳓र् म᳓धु पि᳓न्वमाना गुदाः᳓ पा᳓त्राणि सुदु᳓घा न᳓ धेनुः᳓  
+श्येन᳓स्य प᳓त्त्रं न᳓ प्लीहा᳓ शचीभिर् आसन्दी᳓ ना᳓भिर् उद᳓रं न᳓ माता᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अन्त्राणि स्थाली मधु पिन्वमाना गुदाः पात्राणि सुदुघा न धेनुः।  
+श्येनस्य पत्रं न प्लीहा शचीभिरासन्दी नाभिरुदरं न माता
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ॒न्त्राणि॑। स्था॒लीः। मधु॑। पिन्व॑मानाः। गुदाः॑। पात्रा॑णि। सु॒दुघेति॑ सु॒ऽदुघा॑। न। धे॒नुः। श्ये॒नस्य॑। पत्र॑म्। न। प्ली॒हा। शची॑भिः। आ॒स॒न्दीत्या॑ऽस॒न्दी। नाभिः॑। उ॒दर॑म्। न। मा॒ता। ८६।
@@ -1088,6 +1379,52 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आन्त्रा᳓णि । स्थाली᳓ । म᳓धु । पि᳓न्वमाना । गु᳓दा । पा᳓त्राणि । सु-दु᳓घा । न᳓ । धेनुः᳓ । श्येन᳓स्य । प᳓त्रम् । न᳓ । प्लीहा᳓ । श᳓चीभिः । आसन्दी᳓ । ना᳓भिः । उद᳓रम् । न᳓ । माता᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आन्त्रा᳓णि (*RV*-1/2, *TB*-2, *AV*-3/8, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/3)
+- स्थालीः᳓ (*TS*-1/2, *TB*-1/5, *AV*-0/1, *SB-M*-1/19, *SB-K*-1/18, *VS-M*-2/3, *VS-K*-2/5, *KS*-0/1)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62, *KS*-13/24)
+- पि᳓न्वमाना (*TS*-2/5, *RV*-2/10, *TB*-2/4, *TK*-0/3, *AV*-1/6, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-1/6, *VS-K*-1/6, *KS*-1)
+- गुदाः᳓ (*TS*-0/3, *SB-M*-0/10, *SB-K*-0/9, *VS-M*-0/1, *VS-K*-0/1)
+- पा᳓त्राणि (*TS*-11/34, *RV*-2/13, *TB*-7/12, *AV*-3/26, *SB-M*-27/75, *SB-K*-25/60, *VS-M*-2/6, *VS-K*-2/6, *KS*-3/7)
+- सु-दु᳓घा (*TS*-1, *RV*-4/19, *TB*-3/8, *AV*-3/8, *VS-M*-3/7, *VS-K*-3/7, *KS*-1/2)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- धेनुः᳓ (*TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19, *KS*-3/4)
+- श्येन᳓स्य (*TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8, *KS*-0/8)
+- प᳓त्त्रम् (*MW* ŚBr., *Lanman*)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- प्लीहा᳓ (*TS*-0/1, *TB*-2, *AV*-0/3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2)
+- शचीभिः (*VS-K*-3)
+- आसन्दी᳓ (*TS*-1/2, *TB*-2, *AV*-3, *SB-M*-6/12, *SB-K*-6/12, *VS-M*-2, *VS-K*-2)
+- ना᳓भिः (*TS*-11/27, *RV*-18/35, *TB*-9/20, *TK*-0/1, *AV*-11/24, *SB-M*-15/53, *SB-K*-13/46, *VS-M*-12/26, *VS-K*-9/28, *KS*-2/9)
+- उद᳓रम् (*TS*-6/9, *RV*-5/9, *TB*-3, *AV*-9/19, *SB-M*-31/46, *SB-K*-35/47, *VS-M*-2/5, *VS-K*-2/5, *KS*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- माता᳓ (*TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38, *KS*-11/21)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓न्त्राणि (पादादिः आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
+- स्थाली᳓ (*Whitney*, *MS*-3/4, *TS*-1/2, *TB*-4/5, *AV*-1, *SB-M*-8/19, *SB-K*-8/18, *VS-M*-2/3, *VS-K*-4/5)
+- म᳓धु (*MS*-55/81, *TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62)
+- पि᳓न्वमाना (*MS*-1/4, *TS*-2/5, *RV*-2/10, *TB*-2/4, *TK*-0/3, *AV*-1/6, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-1/6, *VS-K*-1/6)
+- गु᳓दाः (*MS*-0/1, *TS*-0/1, *RV*-0/1, *TB*-0/2, *AV*-5/7, *SB-M*-2, *SB-K*-2/3, *VS-M*-1/2, *VS-K*-1/3)
+- पा᳓त्राणि (*MS*-19/64, *TS*-11/34, *RV*-2/13, *TB*-7/12, *AV*-3/26, *SB-M*-27/75, *SB-K*-25/60, *VS-M*-2/6, *VS-K*-2/6)
+- सु-दु᳓घा (*MS*-4/5, *TS*-1, *RV*-4/19, *TB*-3/8, *AV*-3/8, *VS-M*-3/7, *VS-K*-3/7)
+- न (समानान्तर-पाठः (VS-K), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- धेनुः᳓ (*MS*-27/54, *TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19)
+- श्येन᳓स्य (*MS*-3/18, *TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8)
+- प᳓त्रम् (*TB*-2, *SB-M*-1/3, *SB-K*-1/5, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- प्लीहा᳓ (*MS*-1/2, *TS*-0/1, *TB*-2, *AV*-0/3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2)
+- श᳓चीभिः (*MS*-8/10, *TS*-3, *RV*-36/54, *TB*-9/10, *AV*-11/16, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-8/9, *VS-K*-11/16)
+- आसन्दी᳓ (*MS*-1, *TS*-1/2, *TB*-2, *AV*-3, *SB-M*-6/12, *SB-K*-6/12, *VS-M*-2, *VS-K*-2)
+- ना᳓भिः (*MS*-15/38, *TS*-11/27, *RV*-18/35, *TB*-9/20, *TK*-0/1, *AV*-11/24, *SB-M*-15/53, *SB-K*-13/46, *VS-M*-12/26, *VS-K*-9/28)
+- उद᳓रम् (*MS*-11/15, *TS*-6/9, *RV*-5/9, *TB*-3, *AV*-9/19, *SB-M*-31/46, *SB-K*-35/47, *VS-M*-2/5, *VS-K*-2/5)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- माता᳓ (*MS*-26/61, *TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1200,6 +1537,13 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 मधु मधुरं क्षीरादिरसं पिन्वमाना प्रीणयन्ती धारयन्तीत्यर्थः । तादृशी स्थाली या वर्तते सेयं आन्त्राणि आन्त्रस्थानीयानि । अन्यानि पिष्टादिद्रव्यस्थापनार्थानि पात्राणि तानि गुदा गुदस्थानीयानि । स्थाल्याः पात्राणां च दृष्टान्तः - सुदुघा न धेनुः शोभनं क्षीरं दोग्धीति सुदुघा तादृशी धेनुरिव स्थाल्यादिकं वर्तते । प्लीहशब्दो मांसविशेषवाची । स च मांसविशेषः श्येनाख्यस्य पक्षिणः पत्रं न पक्ष इव । तादृशः स मांसविशेषः शचीभिः स्वव्यवहारशक्तिभिस्सह पात्रैस्संपादित इति शेषः । येयमभिषेकार्थाऽऽसन्दी सेयं नाभिस्थानीया । या तु माता सा भूम्यात्मिका वेदिः सेयमुदरं न, उदरमिव ॥
 
 उलूकपक्षिसदृशो मांसविशेषो वनिष्ठुः । योऽयमत्र द्रवद्रव्यस्थापनार्थः कुम्भः स वनिष्ठुस्थानीयः । स च शचीभिः स्वशक्तिभिर्जनिता उत्पादयिता । यस्मिन्वनिष्ठौ अग्रे पुरोभागे योन्यामन्तः यो गर्भो वर्तते । अत्र सुरावनयनार्थं शतच्छिद्रयुक्तः कुम्भो योऽस्ति सोऽयं व्यक्तः स्पष्टः । बहुच्छिद्रोपेतत्वाच्छतधारः । सुरास्रवणयुक्तत्वादुत्सः । तादृशः कुम्भः प्लाशीः नासिकाछिद्रस्थानीयः । येयं द्रवद्रव्यधारणार्था कुम्भी तां कुम्भीं पितृभ्यः पित्रर्थं स्वधा दुहे न अमृतं दोग्धीव । अध्वर्युरिति शेषः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_8]** So corr. Ch गुदा (Thus emended; Ch reads गुदा)
+
+- **[569_9]** So corr. Ch सन्नी; cf. Mâitr. S. 3, 11, 9. (Thus emended; Ch reads सन्नी; cf. Mâitr. S. 3, 11, 9)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -1268,6 +1612,18 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 Cooking-pots pouring honey were the entrails: like a well-milking cow the pans were bowels. A hawk's wing was the spleen: through mighty powers the stool as mother was navel and belly.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The intestines are cooking pots swelling with honey; the guts are vessels, like an easy-milking cow;  
+like the feather of a hawk is the spleen through [their] arts; the throne is the navel, the belly like a mother.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The entrails are the pot swelling with honey; the bowels are the vessels, like an easy-milking cow;  
+the spleen is like a falcon's wing through their wondrous powers; the chair is the navel, the belly like a mother.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒न्त्राणि॑ स्था॒लीर्मधु॒ पिन्व॑माना॒ गुदाः॒ पात्रा॑णि सु॒दुघा॒ न धे॒नुः।  
@@ -1288,6 +1644,18 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 आ॒स॒न्दी नाभि॑रु॒दर॒न्न मा॒ता ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आन्त्रा᳓णि स्थाली᳓र् म᳓धु पि᳓न्वमाना गुदाः᳓ पा᳓त्राणि सुदु᳓घा न᳓ धेनुः᳓  
+श्येन᳓स्य प᳓त्त्रं न᳓ प्लीहा᳓ शचीभिर् आसन्दी᳓ ना᳓भिर् उद᳓रं न᳓ माता᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अन्त्राणि स्थाली मधु पिन्वमाना गुदाः पात्राणि सुदुघा न धेनुः।  
+श्येनस्य पत्रं न प्लीहा शचीभिरासन्दी नाभिरुदरं न माता
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ॒न्त्राणि॑। स्था॒लीः। मधु॑। पिन्व॑मानाः। गुदाः॑। पात्रा॑णि। सु॒दुघेति॑ सु॒ऽदुघा॑। न। धे॒नुः। श्ये॒नस्य॑। पत्र॑म्। न। प्ली॒हा। शची॑भिः। आ॒स॒न्दीत्या॑ऽस॒न्दी। नाभिः॑। उ॒दर॑म्। न। मा॒ता। ८६।
@@ -1301,6 +1669,52 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आन्त्रा᳓णि । स्थाली᳓ । म᳓धु । पि᳓न्वमाना । गु᳓दा । पा᳓त्राणि । सु-दु᳓घा । न᳓ । धेनुः᳓ । श्येन᳓स्य । प᳓त्रम् । न᳓ । प्लीहा᳓ । श᳓चीभिः । आसन्दी᳓ । ना᳓भिः । उद᳓रम् । न᳓ । माता᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आन्त्रा᳓णि (*RV*-1/2, *TB*-2, *AV*-3/8, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/3)
+- स्थालीः᳓ (*TS*-1/2, *TB*-1/5, *AV*-0/1, *SB-M*-1/19, *SB-K*-1/18, *VS-M*-2/3, *VS-K*-2/5, *KS*-0/1)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62, *KS*-13/24)
+- पि᳓न्वमाना (*TS*-2/5, *RV*-2/10, *TB*-2/4, *TK*-0/3, *AV*-1/6, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-1/6, *VS-K*-1/6, *KS*-1)
+- गुदाः᳓ (*TS*-0/3, *SB-M*-0/10, *SB-K*-0/9, *VS-M*-0/1, *VS-K*-0/1)
+- पा᳓त्राणि (*TS*-11/34, *RV*-2/13, *TB*-7/12, *AV*-3/26, *SB-M*-27/75, *SB-K*-25/60, *VS-M*-2/6, *VS-K*-2/6, *KS*-3/7)
+- सु-दु᳓घा (*TS*-1, *RV*-4/19, *TB*-3/8, *AV*-3/8, *VS-M*-3/7, *VS-K*-3/7, *KS*-1/2)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- धेनुः᳓ (*TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19, *KS*-3/4)
+- श्येन᳓स्य (*TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8, *KS*-0/8)
+- प᳓त्त्रम् (*MW* ŚBr., *Lanman*)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- प्लीहा᳓ (*TS*-0/1, *TB*-2, *AV*-0/3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2)
+- शचीभिः (*VS-K*-3)
+- आसन्दी᳓ (*TS*-1/2, *TB*-2, *AV*-3, *SB-M*-6/12, *SB-K*-6/12, *VS-M*-2, *VS-K*-2)
+- ना᳓भिः (*TS*-11/27, *RV*-18/35, *TB*-9/20, *TK*-0/1, *AV*-11/24, *SB-M*-15/53, *SB-K*-13/46, *VS-M*-12/26, *VS-K*-9/28, *KS*-2/9)
+- उद᳓रम् (*TS*-6/9, *RV*-5/9, *TB*-3, *AV*-9/19, *SB-M*-31/46, *SB-K*-35/47, *VS-M*-2/5, *VS-K*-2/5, *KS*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- माता᳓ (*TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38, *KS*-11/21)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓न्त्राणि (पादादिः आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
+- स्थाली᳓ (*Whitney*, *MS*-3/4, *TS*-1/2, *TB*-4/5, *AV*-1, *SB-M*-8/19, *SB-K*-8/18, *VS-M*-2/3, *VS-K*-4/5)
+- म᳓धु (*MS*-55/81, *TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62)
+- पि᳓न्वमाना (*MS*-1/4, *TS*-2/5, *RV*-2/10, *TB*-2/4, *TK*-0/3, *AV*-1/6, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-1/6, *VS-K*-1/6)
+- गु᳓दाः (*MS*-0/1, *TS*-0/1, *RV*-0/1, *TB*-0/2, *AV*-5/7, *SB-M*-2, *SB-K*-2/3, *VS-M*-1/2, *VS-K*-1/3)
+- पा᳓त्राणि (*MS*-19/64, *TS*-11/34, *RV*-2/13, *TB*-7/12, *AV*-3/26, *SB-M*-27/75, *SB-K*-25/60, *VS-M*-2/6, *VS-K*-2/6)
+- सु-दु᳓घा (*MS*-4/5, *TS*-1, *RV*-4/19, *TB*-3/8, *AV*-3/8, *VS-M*-3/7, *VS-K*-3/7)
+- न (समानान्तर-पाठः (VS-K), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- धेनुः᳓ (*MS*-27/54, *TS*-13/36, *RV*-21/118, *TB*-13/24, *AV*-14/41, *SB-M*-18/39, *SB-K*-22/44, *VS-M*-9/20, *VS-K*-8/19)
+- श्येन᳓स्य (*MS*-3/18, *TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8)
+- प᳓त्रम् (*TB*-2, *SB-M*-1/3, *SB-K*-1/5, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- प्लीहा᳓ (*MS*-1/2, *TS*-0/1, *TB*-2, *AV*-0/3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2)
+- श᳓चीभिः (*MS*-8/10, *TS*-3, *RV*-36/54, *TB*-9/10, *AV*-11/16, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-8/9, *VS-K*-11/16)
+- आसन्दी᳓ (*MS*-1, *TS*-1/2, *TB*-2, *AV*-3, *SB-M*-6/12, *SB-K*-6/12, *VS-M*-2, *VS-K*-2)
+- ना᳓भिः (*MS*-15/38, *TS*-11/27, *RV*-18/35, *TB*-9/20, *TK*-0/1, *AV*-11/24, *SB-M*-15/53, *SB-K*-13/46, *VS-M*-12/26, *VS-K*-9/28)
+- उद᳓रम् (*MS*-11/15, *TS*-6/9, *RV*-5/9, *TB*-3, *AV*-9/19, *SB-M*-31/46, *SB-K*-35/47, *VS-M*-2/5, *VS-K*-2/5)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- माता᳓ (*MS*-26/61, *TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1415,6 +1829,13 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 उलूकपक्षिसदृशो मांसविशेषो वनिष्ठुः । योऽयमत्र द्रवद्रव्यस्थापनार्थः कुम्भः स वनिष्ठुस्थानीयः । स च शचीभिः स्वशक्तिभिर्जनिता उत्पादयिता । यस्मिन्वनिष्ठौ अग्रे पुरोभागे योन्यामन्तः यो गर्भो वर्तते । अत्र सुरावनयनार्थं शतच्छिद्रयुक्तः कुम्भो योऽस्ति सोऽयं व्यक्तः स्पष्टः । बहुच्छिद्रोपेतत्वाच्छतधारः । सुरास्रवणयुक्तत्वादुत्सः । तादृशः कुम्भः प्लाशीः नासिकाछिद्रस्थानीयः । येयं द्रवद्रव्यधारणार्था कुम्भी तां कुम्भीं पितृभ्यः पित्रर्थं स्वधा दुहे न अमृतं दोग्धीव । अध्वर्युरिति शेषः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_8]** So corr. Ch गुदा (Thus emended; Ch reads गुदा)
+
+- **[569_9]** So corr. Ch सन्नी; cf. Mâitr. S. 3, 11, 9. (Thus emended; Ch reads सन्नी; cf. Mâitr. S. 3, 11, 9)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सविता देवता
@@ -1481,6 +1902,18 @@ Cooking-pots pouring honey were the entrails: like a well-milking cow the pans w
 His face the basket, thence his head; the strainer his tongue, his mouth Sarasvatî and Asvins. The Chapya was his rump, his leech the filter, the bladder was his penis keen with ardour.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The face is of the assembly-hall, the head with the dish; the tongue is the strainer; the Aśvins are the mouth, Sarasvatī [the voice];  
+like a ladle is the anus, his healer the hair; like a bladder is the penis, swift with heat.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The mouth is the face of the assembly, the head indeed with a hundredfold [vessel], the tongue the strainer, the two Aśvins the mouth, Sarasvatī [the palate];  
+like the ladle is the anus, his physician the tail, the bladder like the penis, swift with heat.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 मुखँ॒ सद॑स्य॒ शिर॒ऽइत् सते॑न जि॒ह्वा प॒वित्र॑म॒श्विना॒सन्त्सर॑स्वती।  
@@ -1501,6 +1934,18 @@ His face the basket, thence his head; the strainer his tongue, his mouth Sarasva
 व॒स्तिर्न शेपो॒ हर॑सा तर॒स्वी ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मु᳓खँ स᳓दस्य शि᳓रा इ᳓त् सतेन जिह्वा᳓ पवि᳓त्रम् अश्वि᳓नास᳓न्त् स᳓रस्वती  
+च᳓प्यं न᳓ पायु᳓र् भिष᳓ग् अस्य वा᳓लो वस्ति᳓र् न᳓ शे᳓पो ह᳓रसा तरस्वी᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+मुखँ सदस्य शिर इत्सतेन जिह्वा पवित्रमश्विनासन्सरस्वती।  
+चप्यं न पायुर्भिषगस्य वारो वस्तिर्न शेपो हरसा तरस्वी
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 मुख॑म्। सत्। अ॒स्य॒। शिरः॑। इत्। सते॑न। जि॒ह्वा। प॒वित्र॑म्। अ॒श्विना॑। आ॒सन्। सर॑स्वती। चप्य॑म्। न। पा॒युः। भि॒षक्। अ॒स्य॒। वालः॑। व॒स्तिः। न। शेपः॑। हर॑सा। त॒र॒स्वी। ८८।
@@ -1514,6 +1959,58 @@ His face the basket, thence his head; the strainer his tongue, his mouth Sarasva
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 मु᳓खम् । स᳓दस्य । शि᳓रः । इ᳓त् । स᳓देन । जिह्वा᳓ । पवि᳓त्रम् । अश्वि᳓ना । स᳓म् । स᳓रस्वती । च᳓प् । पन्न᳓ । पायुः᳓ । भिष᳓क् । अस्य । वा᳓लः । वस्तिः᳓ । न᳓ । शे᳓पः । ह᳓रसा । तरस्-वी᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मु᳓खम् (*TS*-13/18, *RV*-3/5, *TB*-17/26, *TK*-1, *AV*-22/33, *SB-M*-46/82, *SB-K*-47/78, *VS-M*-8/11, *VS-K*-3/7, *KS*-7/10)
+- स᳓दस्य (*TS*-0/34, *RV*-0/45, *TB*-1/10, *AV*-0/13, *SB-M*-0/42, *SB-K*-0/28, *VS-M*-0/14, *VS-K*-1/11, *KS*-0/4)
+- शि᳓राः (*TS*-0/43, *RV*-0/25, *TB*-0/28, *TK*-0/5, *AV*-0/36, *SB-M*-0/233, *SB-K*-0/236, *VS-M*-0/13, *VS-K*-0/11, *KS*-0/10)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50, *KS*-42)
+- सः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-8, *SB-K*-3, *VS-K*-3, *KS*-15)
+- तेन (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-1, *AV*-1, *SB-M*-2, *SB-K*-8, *KS*-3)
+- जिह्वा᳓ (*TS*-6/24, *RV*-8/45, *TB*-3/5, *TK*-2, *AV*-11/32, *SB-M*-15/28, *SB-K*-16/27, *VS-M*-5/12, *VS-K*-3/9, *KS*-3/7)
+- पवि᳓त्रम् (*TS*-13/20, *RV*-37/101, *TB*-13/33, *TK*-4/5, *AV*-2/11, *SB-M*-23/64, *SB-K*-28/63, *VS-M*-5/26, *VS-K*-3/22, *KS*-5/13)
+- अश्वि᳓ना (*TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103, *KS*-10/32)
+- स᳓न् (*TS*-32, *RV*-38, *TB*-7, *TK*-14, *AV*-15, *SB-M*-30, *SB-K*-24, *VS-M*-3, *VS-K*-2, *KS*-3)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94, *KS*-5/11)
+- च᳓प्यम् (*SB-M*-1, *SB-K*-0/1, *VS-M*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- पायुः᳓ (*TS*-3/8, *RV*-9/30, *TB*-2/3, *AV*-0/2, *SB-M*-1/2, *SB-K*-3/4, *VS-M*-4/10, *VS-K*-2/11, *KS*-1/3)
+- भिष᳓क् (*TS*-3, *RV*-3, *TB*-10, *AV*-2/5, *SB-M*-1, *SB-K*-1, *VS-M*-13, *VS-K*-9/11, *KS*-2)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45, *KS*-67)
+- वा᳓लो (*SB-M*-3, *SB-K*-4, *VS-K*-1)
+- वस्तिः᳓ (*TB*-1/2, *AV*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- शे᳓पः (*TS*-1/2, *RV*-1/5, *TB*-1, *AV*-9/10, *VS-M*-1/2, *VS-K*-1)
+- ह᳓रसा (*TS*-3/8, *RV*-6/10, *TB*-1/7, *TK*-0/3, *AV*-11/20, *SB-M*-2/7, *SB-K*-2/5, *VS-M*-3/4, *VS-K*-2/4, *KS*-1/2)
+- तरस्-वी᳓ (*RV*-0/2, *TB*-1, *AV*-0/2, *VS-M*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मु᳓खम् (*MS*-12/27, *TS*-13/18, *RV*-3/5, *TB*-17/26, *TK*-1, *AV*-22/33, *SB-M*-46/82, *SB-K*-47/78, *VS-M*-8/11, *VS-K*-3/7)
+- स᳓दस्य (*MS*-1/46, *TS*-0/34, *RV*-0/45, *TB*-1/10, *AV*-0/13, *SB-M*-0/42, *SB-K*-0/28, *VS-M*-0/14, *VS-K*-1/11)
+- शि᳓रः (*MS*-50, *TS*-39/43, *RV*-25, *TB*-28, *TK*-5, *AV*-36, *SB-M*-233/234, *SB-K*-236/250, *VS-M*-13, *VS-K*-11)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- ते᳓न (*MS*-494/5550, *TS*-295/4761, *RV*-62/3136, *TB*-166/2709, *TK*-17/363, *AV*-217/3165, *SB-M*-616/20457, *SB-K*-684/20018, *VS-M*-35/780, *VS-K*-31/660)
+- जिह्वा᳓ (*Whitney*, *MS*-13/23, *TS*-6/24, *RV*-8/45, *TB*-3/5, *TK*-2, *AV*-11/32, *SB-M*-15/28, *SB-K*-16/27, *VS-M*-5/12, *VS-K*-3/9)
+- पवि᳓त्रम् (*MS*-23/45, *TS*-13/20, *RV*-37/101, *TB*-13/33, *TK*-4/5, *AV*-2/11, *SB-M*-23/64, *SB-K*-28/63, *VS-M*-5/26, *VS-K*-3/22)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- च᳓प्यम् (*MS*-1, *SB-M*-1, *SB-K*-0/1, *VS-M*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- पायुः᳓ (*MS*-3/8, *TS*-3/8, *RV*-9/30, *TB*-2/3, *AV*-0/2, *SB-M*-1/2, *SB-K*-3/4, *VS-M*-4/10, *VS-K*-2/11)
+- भिष᳓क् (*MS*-10, *TS*-3, *RV*-3, *TB*-10, *AV*-2/5, *SB-M*-1, *SB-K*-1, *VS-M*-13, *VS-K*-9/11)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- वा᳓रः (*MS*-0/35, *TS*-0/844, *RV*-1/55, *TB*-0/16, *TK*-0/6, *AV*-3/7, *SB-M*-0/29, *SB-K*-0/50, *VS-M*-0/1, *VS-K*-0/1)
+- वस्तिः᳓ (*MW*, *MS*-1, *TB*-1/2, *AV*-0/3, *VS-M*-1/2, *VS-K*-1/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शे᳓पः (*MS*-1, *TS*-1/2, *RV*-1/5, *TB*-1, *AV*-9/10, *VS-M*-1/2, *VS-K*-1)
+- ह᳓रसा (*MS*-3/8, *TS*-3/8, *RV*-6/10, *TB*-1/7, *TK*-0/3, *AV*-11/20, *SB-M*-2/7, *SB-K*-2/5, *VS-M*-3/4, *VS-K*-2/4)
+- तरस्-वी᳓ (*MS*-1, *RV*-0/2, *TB*-1, *AV*-0/2, *VS-M*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1590,6 +2087,13 @@ His face the basket, thence his head; the strainer his tongue, his mouth Sarasva
 सदः देवयजनस्थानं तेन सदेन अस्य निरूप्यमाणशरीरस्य सन्मुखं समीचीनं मुखं शिर इत् शिरश्च संपन्नमिति शेषः । पवित्रं द्रव्यशोधनार्थं यद्वस्त्रं तज्जिह्वा । एतत्सर्वमश्विनौ सरस्वती च तिस्रः संपादितवत्यः । चप्पं पिष्टपात्रं तत् पायुर्न अपानस्थानमिव वर्तते । योऽयं वालः द्रव्यशोधनार्थः सोऽयमस्य शरीरस्य भिषक्, चिकित्सकस्थानीयः । तेन हि व्याधिस्थानीयो द्रव्यदोषोऽपनीयते । योऽयं पशोः शेपः सोऽयं वस्तिर्न मूत्रस्थानमिव । हरसा वह्निज्वालारूपेण तेजसा तरस्वी निरूप्यमाणो देहो वेगवानिव लक्ष्यते ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[569_10]** So corr. Ch चप्पन्न (Thus emended; Ch reads चप्पन्न)
+
+- **[569_11]** So corr. Ch वम्नि (Thus emended; Ch reads वम्नि)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सरस्वती देवता
@@ -1656,6 +2160,18 @@ His face the basket, thence his head; the strainer his tongue, his mouth Sarasva
 Asvins with both cups made his eye immortal, the goat and cooked oblation gave it keenness. With wheat eyelashes and with jujube eyebrows they clothe as ’twere a black and brilliant figure.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the two Aśvins immortal sight [arose] through the two cups, brilliance through the goat, through the oblation, through the ghee;  
+the eyelashes are woven with wheat, with jujube-berries; as an ornament they put on the white and black [of the eye].
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With the two Aśvins the immortal eye from two cups; with the goat brilliance from the boiled oblation;  
+the eyelashes are woven with wheat and jujubes; they put on the white and black like an embroidered cloth.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अ॒श्विभ्यां॒ चक्षु॑र॒मृतं॒ ग्रहा॑भ्यां॒ छागे॑न॒ तेजो॑ ह॒विषा॑ शृ॒तेन॑।  
@@ -1676,6 +2192,18 @@ Asvins with both cups made his eye immortal, the goat and cooked oblation gave i
 पेशो॒ न शु॒क्लमसि॑तव्ँवसाते ॥17॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अश्वि᳓भ्यां च᳓क्षुर् अमृ᳓तं ग्र᳓हाभ्यां छा᳓गेन ते᳓जो हवि᳓षा घृते᳓न  
+प᳓क्ष्माणि गोधृ᳓मैः कु᳓वलैर् उता᳓नि पे᳓शो न᳓ शुक्र᳓म् अ᳓सितँ वसाते
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्विभ्यां चक्षुरमृतं महाभ्यां छागेन तेजो हविषा शृतेन।  
+पक्ष्माणि गोधूमैः कुवलैरुतानि पेशो न शुक्लमसितं वसाते
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। चक्षुः॑। अ॒मृत॑म्। ग्रहा॑भ्याम्। छागे॑न। तेजः॑। ह॒विषा॑। शृ॒तेन॑। पक्ष्मा॑णि। गो॒धूमैः॑। कुव॑लैः। उ॒तानि॑। पेशः॑। न। शु॒क्रम्। असि॑तम्। व॒सा॒ते॒ऽइति॑ वसाते। ८९।
@@ -1689,6 +2217,50 @@ Asvins with both cups made his eye immortal, the goat and cooked oblation gave i
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अश्वि᳓भ्याम् । च᳓क्षुः । अ-मृ᳓तम् । ग्र᳓हाभ्याम् । छा᳓गेन । ते᳓जः । हवि᳓षा । शृते᳓न । प᳓क्ष्माणि । गो-धू᳓मैः । क्व᳙लैः । उ । ता᳓नि । पे᳓शः । न᳓ । शुक्ल᳓म् । अ᳓सितम् । वसाते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अश्वि᳓भ्याम् (*TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103, *KS*-2/32)
+- च᳓क्षुः (*TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56, *KS*-21/27)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- छा᳓गेन (*TS*-0/3, *RV*-0/1, *TB*-3/11, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-4/15, *VS-K*-4/16, *KS*-0/2)
+- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-63/103, *TK*-7/12, *AV*-49/77, *SB-M*-71/97, *SB-K*-92/120, *VS-M*-17/31, *VS-K*-23/48, *KS*-19/31)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101, *KS*-19/60)
+- घृते᳓न (*TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22, *KS*-14)
+- प᳓क्ष्माणि (*TS*-1/5, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3, *VS-K*-3)
+- गोधृ᳓मैः (मूल-पाठः)
+- कु᳓वलैः (*SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/3, *VS-K*-1/4)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- ता᳓नि (*TS*-37/4761, *RV*-34/3136, *TB*-39/2709, *TK*-2/363, *AV*-27/3165, *SB-M*-245/20457, *SB-K*-236/20018, *VS-M*-5/780, *VS-K*-6/660, *KS*-26/1225)
+- पे᳓शः (*TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- शुक्र᳓म् (*TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50, *KS*-16/37)
+- अ᳓सितम् (*TS*-1/2, *RV*-2/3, *TB*-4/5, *AV*-1/4, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वसाते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- च᳓क्षुः (*Whitney*, *MS*-77/124, *TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- म᳓हाभ्याम् (*MW*, *Macdonell*, *Lanman*, *MS*-0/15, *TS*-0/8, *RV*-0/8, *TB*-0/19, *TK*-0/2, *AV*-0/12, *SB-M*-0/26, *SB-K*-0/20, *VS-M*-0/6, *VS-K*-0/5)
+- छा᳓गेन (*MS*-2/10, *TS*-0/3, *RV*-0/1, *TB*-3/11, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-4/15, *VS-K*-4/16)
+- ते᳓जः (*Whitney*, *MS*-107/155, *TS*-111/152, *RV*-2/7, *TB*-63/103, *TK*-7/12, *AV*-49/77, *SB-M*-71/97, *SB-K*-92/120, *VS-M*-17/31, *VS-K*-23/48)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- शृते᳓न (*TB*-2, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- प᳓क्ष्माणि (*MS*-4, *TS*-1/5, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3, *VS-K*-3)
+- गो-धू᳓मैः (*MS*-1/3, *TS*-0/1, *TB*-2/3, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-2/4, *VS-K*-2/4)
+- कु᳓वलैः (*MW* ŚBr., *MS*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/3, *VS-K*-1/4)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- तानि᳓ (समानान्तर-पाठः (VS-K))
+- पे᳓शः (*Whitney*, *MS*-3, *TS*-1, *RV*-6, *TB*-2, *AV*-3, *VS-M*-3, *VS-K*-3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शुक्ल᳓म् (*MS*-2/8, *TS*-2/5, *TB*-2/4, *AV*-0/1, *SB-M*-24/45, *SB-K*-24/45, *VS-M*-1, *VS-K*-1/2)
+- अ᳓सितम् (*MS*-2, *TS*-1/2, *RV*-2/3, *TB*-4/5, *AV*-1/4, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1, *VS-K*-1)
+- वसाते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1836,6 +2408,18 @@ Asvins with both cups made his eye immortal, the goat and cooked oblation gave i
 The sheep, the ram to give his nostril vigour. the immortal path of breath by both libations. By Indra-grains and sacrificial jujubes Sarasvatî produced through-breath and nose hairs.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a sheep, a ram in the nostril for virility, the immortal path of breath through the two cups;  
+Sarasvatī with upavāka-grains produced the out-breath, with badara-berries the nasal hairs, the barhis.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Like a sheep, a ram in the nose for virility, the immortal path of breath from two cups;  
+Sarasvatī brought forth the circulating breath with upavāka seeds, the nasal hairs with sacrificial grass, with jujubes.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अवि॒र्न मे॒षो न॒सि वी॒र्या᳖य प्रा॒णस्य॒ पन्था॑ऽअ॒मृतो॒ ग्रहा॑भ्याम्।  
@@ -1856,6 +2440,12 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 नस्या॑नि ब॒र्हिर्बद॑रैर्जजान ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓विर् न᳓ मेषो᳓ नसि᳓ वीर्या᳙य प्राण᳓स्य प᳓न्था अमृ᳓तं ग्र᳓हाभ्याम्  
+स᳓रस्वत्य् उपवा᳓कैर् व्यानं᳓ न᳓स्यानि बर्हि᳓र् ब᳓दरैर् जजान
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अविः॑। न। मे॒षः। न॒सि। वी॒र्या᳖य। प्रा॒णस्य॑। पन्थाः॑। अ॒मृतः॑। ग्रहा॑भ्याम्। सर॑स्वती। उ॒प॒वाकै॒रित्यु॑प॒ऽवाकैः॑। व्या॒नमिति॑ विऽआ॒नम्। नस्या॑नि। ब॒र्हिः। बद॑रैः। ज॒जा॒न॒। ९०।
@@ -1869,6 +2459,27 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓विः । न᳓ । मेषः᳓ । नसि᳓ । वीर्या᳙य । प्राण᳓स्य । प᳓न्थाः । अमृ᳓तः । ग्र᳓हाभ्याम् । स᳓रस्वति । उ᳓प । वा᳓कैः । व्यान᳓म् । नः᳓ । यानि । बर्हिः᳓ । ब᳓दरैः । जजान ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓विः (*TS*-4/19, *RV*-1/13, *TB*-2/8, *AV*-5/16, *SB-M*-10/34, *SB-K*-8/29, *VS-M*-4/6, *VS-K*-4/10, *KS*-0/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- मेषः᳓ (*TS*-2/6, *RV*-1/10, *TB*-4/10, *AV*-0/1, *SB-M*-6/12, *SB-K*-5/10, *VS-M*-4/14, *VS-K*-5/15, *KS*-2/6)
+- नसि᳓ (*TB*-2, *VS-M*-2, *VS-K*-1)
+- वीर्या᳙य (*TS*-3, *RV*-11, *TB*-6, *AV*-6, *SB-M*-5, *SB-K*-3, *VS-M*-3, *VS-K*-3, *KS*-2)
+- प्राण᳓स्य (*TS*-1/157, *RV*-0/5, *TB*-1/90, *TK*-0/5, *AV*-1/132, *SB-M*-21/1145, *SB-K*-22/1073, *VS-M*-1/42, *VS-K*-1/36, *KS*-0/70)
+- प᳓न्थाः (*TS*-8/72, *RV*-17/149, *TB*-3/22, *AV*-4/76, *SB-M*-7/46, *SB-K*-8/52, *VS-M*-3/38, *VS-K*-3/35, *KS*-0/21)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- स᳓रस्वति (*TS*-3/43, *RV*-7/52, *TB*-6/86, *AV*-4/26, *SB-M*-7/65, *SB-K*-9/65, *VS-M*-0/95, *VS-K*-2/92, *KS*-2/10)
+- उप-वा᳓कैः (*TB*-0/2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/6)
+- व्यान᳓म् (*TS*-1/15, *TB*-4/8, *SB-M*-3/49, *SB-K*-3/51, *VS-M*-0/2, *VS-K*-2/6, *KS*-1/9)
+- नः᳓ → **नः** (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- यानि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *SB-M*-5, *SB-K*-1, *KS*-1)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41, *KS*-11/13)
+- ब᳓दरैः (*TB*-3/4, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-3/4, *VS-K*-3/7)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5, *KS*-2)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1927,6 +2538,11 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 <details><summary>सायण-टीका (ब्राह्मणी)</summary>
 
 अविर्न अविरिव वर्तमानो यः सारस्वतो मेषः सोऽयं नसि नासिकायां वीर्याय श्वासप्रवृत्तिसामर्थ्याय प्रवर्तते । इयं च नासिका प्राणाख्यस्य वायोः अमृतः कदाचिदपि विनाशरहितः पन्थाः गमनागमनहेतुः ग्रहाभ्यां पयस्सुराभ्यां निष्पादितः । तथेयं सरस्वती उपवाकैः हरितयवसक्तुभिः व्यानवायुं जनयति । नस्यानि नासिकायां भवानि बर्हिः बर्हींषि लोमानि बदरैः सक्तुनिष्पादनाय संपादितैः बदरफलैः जजान संपादयामास ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_1]** So corr. Ch नमि; cf. Mâitr. S. 3, 11, 9. (Thus emended; Ch reads नमि; cf. Mâitr. S. 3, 11, 9)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -1995,6 +2611,18 @@ The sheep, the ram to give his nostril vigour. the immortal path of breath by bo
 The hull for strength made Indra's form: the immortal bearing for both his ears by two libations. Barley and sacred grass composed his eyebrows: from his mouth came the jujube and sweet honey.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bull is the form of Indra for strength; immortal hearing in the ears through the two cups;  
+like barley the barhis on the eyebrow, the bristles; wild-honey formed in the mouth like karkandhu-fruit.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The bull, Indra's form, for strength; from two cups the immortal hearing through the two ears;  
+like sacrificial grass the barley, the hairs on the eyebrow; from the mouth arose the wild honey, the jujube.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इन्द्र॑स्य रू॒पमृ॑ष॒भो बला॑य॒ कर्णा॑भ्याँ॒ श्रोत्र॑म॒मृतं॒ ग्रहा॑भ्याम्। यवा॒ न ब॒र्हिर्भ्रु॒वि केस॑राणि क॒र्कन्धु॑ जज्ञे॒ मधु॑ सार॒घं मुखा॑त् ॥९१ ॥
@@ -2006,6 +2634,12 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 कर्णा॑भ्याँ॒ श्रोत्र॑म॒मृत॒ङ्ग्रहा॑भ्याम् ।  
 यवा॒ न ब॒र्हिर्भ्रु॒वि केस॑राणि ।  
 क॒र्कन्धु॑ जज्ञे॒ मधु॑ सार॒घम्मुखा॑त् ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रस्य रूप᳓म् ऋषभो᳓ ब᳓लाय क᳓र्णाभ्याँ श्रो᳓त्रम् अमृ᳓तं ग्र᳓हाभ्याम्  
+य᳓वैर् न᳓ बर्हि᳓र् भ्रुवि᳓ के᳓सराणि कर्क᳓न्धु जज्ञे᳓ म᳓धु सारघं᳓ मु᳓खे
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -2021,6 +2655,28 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्रस्य । रूप᳓म् । ऋषभः᳓ । ब᳓लाय । क᳓र्णाभ्याम् । श्रो᳓त्रम् । अ-मृ᳓तम् । ग्र᳓हाभ्याम् । य᳓वा । न᳓ । बर्हिः᳓ । भ्रुवि᳓ । के᳓सराणि । कर्क᳓न्धु । जज्ञे । म᳓धु । सारघ᳓म् । मु᳓खात् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380, *KS*-30/189)
+- रूप᳓म् (*TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41, *KS*-3/11)
+- ऋषभः᳓ (*TS*-13/25, *RV*-0/4, *TB*-17/33, *TK*-1, *AV*-9/24, *SB-M*-23/36, *SB-K*-22/39, *VS-M*-6/20, *VS-K*-6/19, *KS*-2)
+- ब᳓लाय (*TS*-3/27, *RV*-2/19, *TB*-4/29, *TK*-0/8, *AV*-8/62, *SB-M*-0/26, *SB-K*-0/26, *VS-M*-7/26, *VS-K*-7/21, *KS*-3/5)
+- क᳓र्णाभ्याम् (*TS*-1/5, *RV*-1/14, *TB*-1/3, *AV*-4/16, *SB-M*-2/17, *SB-K*-2/17, *VS-M*-2/8, *VS-K*-2/9, *KS*-0/1)
+- श्रो᳓त्रम् (*TS*-28/32, *RV*-1/2, *TB*-14/20, *TK*-2/3, *AV*-11/25, *SB-M*-73/113, *SB-K*-66/97, *VS-M*-18/26, *VS-K*-18/27, *KS*-8/10)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30)
+- ग्र᳓हाभ्याम् (*TS*-0/73, *RV*-0/1, *TB*-3/42, *TK*-0/1, *AV*-0/3, *SB-M*-0/241, *SB-K*-0/215, *VS-M*-3/8, *VS-K*-3/9, *KS*-0/14)
+- य᳓वैः (*TS*-0/16, *RV*-0/19, *TB*-1/7, *AV*-0/22, *SB-M*-0/34, *SB-K*-2/43, *VS-M*-1/13, *VS-K*-1/16, *KS*-0/7)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41, *KS*-11/13)
+- भ्रुवि᳓ (*TB*-1, *VS-M*-1, *VS-K*-1)
+- के᳓सराणि (*TB*-1, *VS-M*-1, *VS-K*-1)
+- कर्क᳓न्धु (*RV*-1, *TB*-2/3, *SB-M*-2/3, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/4)
+- जज्ञे᳓ (*TS*-1/2, *RV*-5, *AV*-7, *SB-M*-1/2, *SB-K*-7, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/62, *KS*-13/24)
+- सारघ᳓म् (*RV*-0/1, *TB*-2, *TK*-1, *AV*-0/2, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-2/3)
+- मु᳓खे (*TS*-0/18, *RV*-1/5, *TB*-3/26, *TK*-0/1, *AV*-2/33, *SB-M*-8/82, *SB-K*-9/78, *VS-M*-1/11, *VS-K*-1/7, *KS*-1/10)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2151,6 +2807,11 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 सोऽयमृषभ इन्द्रस्य रूपं इन्द्रदेवताकत्वेन तत्स्वरूपसदृशः सोऽयमस्य शरीरस्य बलार्थं संपाद्यते । पशुसंबन्धिभ्यां कर्णाभ्यां पयस्सुरारूपग्रहाभ्यां चामृतं श्रोत्रं बाधिर्यरहितं श्रोत्रेन्द्रियं संपाद्यते । भुवि यवा न भूमावुत्पन्ना यवा इव बर्हिः वेद्यामासादितानि बर्हिषि केसराणि प्रवृद्धतमानि लोमानि । सरघाः मधुमक्षिकाः ताभिः संपादितं सारघं मधु तद्रूपं कर्कन्धु जज्ञे । कर्कन्धुशब्देनातिस्थूलबदरफलपिष्टमुच्यते । तच्च मधुसदृशं मुखाज्जज्ञे यज्ञप्रारम्भे समुत्पन्नमित्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_2]** So corr. Ch जज्ञो (Thus emended; Ch reads जज्ञो)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - इन्द्रो देवता
@@ -2215,6 +2876,18 @@ The hull for strength made Indra's form: the immortal bearing for both his ears 
 <details><summary>Griffith</summary>
 
 Hair of the wolf was on his waist and body: the beard upon his face was hair of tigers. Lions hair were his locks, for fame and beauty, worn on his head, his crest and sheen and vigour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the trunk, on the lap [the hair is] like the wolf's hair; on the face the beard like the tiger's hair;  
+the hair on the head [is] for glory, for splendor; the crest, the hair of the lion, is brilliance, faculties.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+On his body, on the lap, like a wolf's hair; on his face whiskers like a tiger's hair;  
+the hair on the head like locks for glory and fortune; the lion's hair is brilliance, the sensory faculties.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -2304,6 +2977,13 @@ Hair of the wolf was on his waist and body: the beard upon his face was hair of 
 'प्रकृतिभूतायां सौत्रामण्यां त्रयाणां लोमानि' इति वाक्येन वृकव्याघ्रसिंहानां लोमानि विहितानि । तान्यत्र चोदकप्राप्तानि ग्रहत्रये प्रक्षिप्यन्ते । तत्र यद्वृकस्य लोम तत् आत्मन् संपाद्यमानशरीरे उपस्थे न गुह्यप्रदेश इव वर्तते । यत्तु व्याघ्रलोम तत् मुखे वर्तमानानि श्मश्रूणीव । यत्तु सिंहस्य लोम तच्छिरसि केशा इव । केशनिष्पन्ना च शिखा यशसे श्रियै च संपद्यते । अनुष्ठानकाले सशिखत्वेन यशः । लोके व्यवहारे रमणीयत्वेन श्रीः । या तु लोमगता त्विषिः दीप्तिः सा तु संपाद्यस्य शरीरस्येन्द्रियस्थानीया ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_3]** So corr. Ch श्मश्रुणि (Thus emended; Ch reads श्मश्रुणि)
+
+- **[570_4]** So corr. Ch लोमस्, erste Hand लोमम् (Thus emended Ch लोमस्, first hand लोमम्)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - आत्मा देवता
@@ -2335,6 +3015,12 @@ Hair of the wolf was on his waist and body: the beard upon his face was hair of 
 The Asvins, Leeches, joined his limbs and body, Sarasvatî put limbs and frame together, Giving the form and vital power of Indra, hundredfold, deathless and delightful lustre.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two physician Aśvins then joined the limbs to his body; Sarasvatī joined the body with the limbs,  
+establishing Indra's form, a lifespan of a hundred measures, and immortal light with the gold plate.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 अङ्गा॑न्या॒त्मन् भि॒षजा॒ तद॒श्विना॒त्मान॒मङ्गैः॒ सम॑धा॒त् सर॑स्वती।  
@@ -2347,6 +3033,12 @@ The Asvins, Leeches, joined his limbs and body, Sarasvatî put limbs and frame t
 आ॒त्मान॒मङ्गै॒स्सम॑धा॒त्सर॑स्वती ।   
 इन्द्र॑स्य रू॒पँ श॒तमा॑न॒मायुः॑ ।  
 च॒न्द्रेण॒ ज्योति॑र॒मृत॒न्दधा॑ना ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अङ्गान्यात्मन्भिषजा तदश्विनात्मानमङ्गैस्समधात्सरस्वती।  
+इन्द्रस्य रूपँ शतमानमायुश्चन्द्रेण ज्योतिरमृतं दधाना
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -2362,6 +3054,29 @@ The Asvins, Leeches, joined his limbs and body, Sarasvatî put limbs and frame t
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓ङ्गानि । आत्म᳓न् । भिष᳓जा । त᳓त् । अश्वि᳓ना । आत्मा᳓नम् । अ᳓ङ्गैः । स᳓म् । अधात् । स᳓रस्वती । इ᳓न्द्रस्य । रूप᳓म् । शत᳓-मानम् । आ᳓ । अयुः । चन्द्रे᳓ण । ज्यो᳓तिः । अ-मृ᳓तम् । द᳓धाना ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ङ्गानि (*MS*-20/36, *TS*-20/24, *RV*-1/9, *TB*-11/13, *AV*-10/48, *SB-M*-54/104, *SB-K*-50/100, *VS-M*-8/13, *VS-K*-5/12)
+- आत्म᳓न् (*MS*-52/129, *TS*-91/162, *RV*-0/3, *TB*-50/94, *TK*-1/2, *AV*-3/26, *SB-M*-217/556, *SB-K*-140/539, *VS-M*-3/5, *VS-K*-2/4)
+- भिष᳓जा (*MS*-12/30, *TS*-1/12, *RV*-5/11, *TB*-13/29, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-15/32, *VS-K*-15/28)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अश्वि᳓ना (*MS*-57/130, *TS*-11/63, *RV*-69/122, *TB*-38/74, *AV*-29/47, *SB-M*-13/119, *SB-K*-15/120, *VS-M*-57/111, *VS-K*-54/103)
+- आत्मा᳓नम् (*MS*-69/194, *TS*-54/167, *RV*-4/20, *TB*-19/78, *TK*-4/10, *AV*-22/62, *SB-M*-268/1009, *SB-K*-251/1051, *VS-M*-8/22, *VS-K*-7/17)
+- अ᳓ङ्गैः (*MS*-10/36, *TS*-0/24, *RV*-4/9, *TB*-1/13, *AV*-4/48, *SB-M*-7/104, *SB-K*-7/100, *VS-M*-3/13, *VS-K*-3/12)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अधात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-1, *RV*-6, *TB*-7, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- शत᳓-मानम् (*MS*-4/7, *TS*-4, *TB*-6/7, *SB-M*-10/15, *SB-K*-11/15, *VS-M*-1, *VS-K*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-141, *TS*-2, *TB*-60, *TK*-8, *SB-M*-25, *SB-K*-97)
+- चन्द्रे᳓ण (*MS*-3/15, *TS*-2/12, *RV*-6/28, *TB*-2/7, *TK*-0/1, *AV*-1/20, *SB-M*-4/29, *SB-K*-4/29, *VS-M*-2/12, *VS-K*-2/10)
+- ज्यो᳓तिः (*Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- द᳓धाना (*MS*-8/18, *TS*-2/7, *RV*-9/77, *TB*-4/8, *AV*-12/18, *SB-M*-1, *SB-K*-1, *VS-M*-1/8, *VS-K*-1/8)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2527,6 +3242,18 @@ The Asvins, Leeches, joined his limbs and body, Sarasvatî put limbs and frame t
 Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infant. King Varuna with waters’ wealthy essence begetting Indra in the floods for glory.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sarasvatī, the wife, bears within the womb the well-formed embryo for the two Aśvins;  
+as Varuṇa with the sap of the waters, with the chant, the king generating Indra in the waters for splendor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sarasvatī, the wife, bears within the womb the well-made embryo for the two Aśvins;  
+generating Indra for prosperity in the waters, King [Soma], with the sap of the waters, with Varuṇa, with the Sāman.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 सर॑स्वती॒ योन्यां॒ गर्भ॑म॒न्तर॒श्विभ्यां॒ पत्नी॒ सुकृ॑तं बिभर्ति।  
@@ -2547,6 +3274,12 @@ Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infa
 इन्द्रँ॑ श्रि॒यै ज॒नय॑न्न॒प्सु राजा॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सरस्वती योन्यां गर्भमन्तरश्विभ्यां पत्नी सुकृतं बिभर्ति।  
+अपां रसेन वरुणेन साम्नेन्द्रँ श्रियै जनयन्नप्सु राजा
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सर॑स्वती। योन्या॑म्। गर्भ॑म्। अ॒न्तः। अ॒श्विभ्या॒मित्य॒श्विऽभ्या॑म्। पत्नी॑। सुकृ॑त॒मिति॒ सुऽकृ॑तम्। बि॒भ॒र्ति॒। अ॒पाम्। रसे॑न। वरु॑णः। न। साम्ना॑। इन्द्र॑म्। श्रि॒यै। ज॒नय॑न्। अ॒प्स्वित्य॒प्ऽसु। राजा॑। ९४।
@@ -2560,6 +3293,27 @@ Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infa
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓रस्वती । यो᳓न्याम् । ग᳓र्भम् । अन्तः᳓ । अश्वि᳓भ्याम् । प᳓त्नी । सु᳓-कृतम् । बिभर्ति । अपा᳓म् । र᳓सेन । व᳓रुणः । न᳓ । सा᳓म्ना । इ᳓न्द्रम् । श्रियै᳓ । जन᳓यन् । अप्सु᳓ । रा᳓जा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- यो᳓न्याम् (*MS*-2/208, *TS*-1/170, *RV*-0/110, *TB*-1/38, *TK*-0/6, *AV*-1/45, *SB-M*-0/284, *SB-K*-0/261, *VS-M*-2/93, *VS-K*-2/100)
+- ग᳓र्भम् (*MS*-27/67, *TS*-17/66, *RV*-55/95, *TB*-12/25, *AV*-30/66, *SB-M*-43/143, *SB-K*-30/135, *VS-M*-10/32, *VS-K*-10/27)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- अश्वि᳓भ्याम् (*MS*-20/130, *TS*-6/63, *RV*-6/122, *TB*-25/74, *AV*-2/47, *SB-M*-22/119, *SB-K*-21/120, *VS-M*-24/111, *VS-K*-23/103)
+- प᳓त्नी (*MS*-25/73, *TS*-14/39, *RV*-3/25, *TB*-9/21, *TK*-1/3, *AV*-5/20, *SB-M*-36/123, *SB-K*-36/116, *VS-M*-1/13, *VS-K*-1/15)
+- सु᳓-कृतम् (*MS*-2/4, *TS*-1/3, *RV*-8/17, *TB*-1/3, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-3/4, *VS-K*-2/3)
+- बिभर्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-9, *TS*-4, *RV*-21, *TB*-3, *AV*-7, *SB-M*-38, *SB-K*-37, *VS-K*-1)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- र᳓सेन (*MS*-21, *TS*-16, *RV*-4, *TB*-4, *AV*-9, *SB-M*-61, *SB-K*-65, *VS-M*-5, *VS-K*-4)
+- व᳓रुणेन (*MS*-13, *TS*-6, *RV*-3, *TB*-2, *AV*-7, *SB-M*-7, *SB-K*-7, *VS-M*-1, *VS-K*-1)
+- सा᳓म्ना (*MS*-3/6, *TS*-7/12, *RV*-1/4, *TB*-5/7, *TK*-1/2, *AV*-3/5, *SB-M*-19/51, *SB-K*-14/43, *VS-M*-2, *VS-K*-2)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- श्रियै᳓ (*MS*-3, *TS*-2, *TB*-3, *SB-M*-14, *SB-K*-8, *VS-M*-3, *VS-K*-3)
+- जन᳓यन् (*MS*-6, *TS*-4, *RV*-27, *TB*-2, *AV*-6, *VS-M*-3, *VS-K*-2)
+- अप्सु᳓ (*MS*-38/374, *TS*-37/319, *RV*-84/532, *TB*-21/152, *TK*-3/14, *AV*-51/324, *SB-M*-61/760, *SB-K*-58/744, *VS-M*-18/146, *VS-K*-16/124)
+- रा᳓जा (*MS*-42/60, *TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-21/29)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2653,6 +3407,12 @@ Sarasvatî, as Consort of the Asvins, bears in her womb the nobly fashioned Infa
 <details><summary>Griffith</summary>
 
 Splendour of victims, powerful oblation, honey and meath with milk and foaming liquor, Healing Sarasvatî effused, and Asvins; from pressed and unpressed Soma, deathless Indu.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The brilliance of the animals, the oblation possessing faculty, the wild honey with the foaming liquor and with milk;  
+milked by the two physician Aśvins, by Sarasvatī, through what is pressed and unpressed, Soma is the immortal drop.
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -2800,6 +3560,15 @@ Splendour of victims, powerful oblation, honey and meath with milk and foaming l
 पशूनां तेजः सारभूतं हविः भिषजा चिकित्सकाभ्यामश्विभ्यां दुग्धं संपादितमित्यर्थः । केन द्रव्येण? परिस्रुता पयसा परितः स्रवतीति परिस्रुत् सुरा तया क्षीरेण च संपादितं हविः । कीदृशं हविः? इन्द्रियावत् इन्द्रियाभिवृद्धिकरं सारघं मधु सरघाभिः संपादितेन मधुना सदृशं यथा अश्विभ्यां हविः संपादितं तथा सरस्वत्या तत्फलभूतो यजमानस्य इन्द्रसदृशः संपादितः । केन साधनेन? सतासताभ्यां अभिषवसदृशव्यापारेण संपादिता सुरा सुता । तादृक्प्रयासरहितक्षीरमसुतं ताभ्यां देहः संपादितः । कीदृशो देहः? अमृतः देवलोके समुत्पन्नत्वान्मरणरहितः सोमः सौम्यः दृष्टिप्रियः इन्द्रः चन्द्रवदाह्लादकरः परमैश्वर्ययुक्तो वा । एवमेतैः षोडशभिर्मन्त्रैर्यजमानस्य भाविदेहसूचनपरैरुपहोमः कर्तव्यः ॥
 
 इति तैत्तिरयिब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठके चतुर्थोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[570_5]** So corr. Ch तेजा° (Thus emended; Ch reads तेजा°)
+
+- **[570_6]** So corr. Ch मुग्धग्भिषजा (Thus emended; Ch reads मुग्धग्भिषजा)
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 9; TBr. 2, 6, 4; VS 19, 80 flg. (cf. Mâitr. S. 3, 11, 9; TBr. 2, 6, 4; VS 19, 80 ff.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

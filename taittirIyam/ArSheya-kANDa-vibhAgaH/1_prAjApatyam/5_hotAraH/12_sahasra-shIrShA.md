@@ -137,6 +137,13 @@ The identity of the Sādhyas (in vss. 7 and 16) is not clear. Their name means  
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/01_sahasrashIrShA_puruShaH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -667,6 +674,11 @@ Tausendköpfig, tausendäugig, tausendfüßig ist Purusa; er bedeckte vollständ
 Hundred-headed Puruṣa (Person) having hundred eyes, hundred feet, after covering all the worlds stood larger (than these) by ten fingers.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सर्वप्राणिसमष्टिरूपो ब्रह्माण्डदेहो विराडाख्यो यः पुरुषः सोऽयं सहस्रशीर्षा, सहस्रशब्दस्योपलक्षणत्वादनन्तैः शिरोभिर्युक्त इत्यर्थः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहान्तःपातित्वात्तदीयान्येवेति सहस्रशीर्षत्वम् । एवमक्षिषु पादेष्वपि योजनीयम् । स पुरुषो भूमिं ब्रह्माण्डगोलकरूपां विश्वतो वृत्वा सर्वतः परिवेष्ट्य दशाङ्गुलपरिमितं देशमत्यतिष्ठदतिक्रम्य स्थितः । दशाङ्गुलमित्युपलक्षणं ब्रह्माण्डाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die Erde von allen Seiten überdeckt hatte, ragte er noch zehn Finger lang darüber hinaus.
@@ -721,14 +733,6 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-सर्वप्राणिसमष्टिरूपो ब्रह्माण्डदेहो विराडाख्यो यः पुरुषः सोऽयं सहस्रशीर्षा, सहस्रशब्दस्योपलक्षणत्वादनन्तैः शिरोभिर्युक्त इत्यर्थः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहान्तःपातित्वात्तदीयान्येवेति सहस्रशीर्षत्वम् । एवमक्षिषु पादेष्वपि योजनीयम् । स पुरुषो भूमिं ब्रह्माण्डगोलकरूपां विश्वतो वृत्वा सर्वतः परिवेष्ट्य दशाङ्गुलपरिमितं देशमत्यतिष्ठदतिक्रम्य स्थितः । दशाङ्गुलमित्युपलक्षणं ब्रह्माण्डाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः ।
-</details>
-</details>
-
 ### 02 पुरुष एवेदम् - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -760,6 +764,13 @@ Tausendköpfig war der Urmensch, tausendäugig, tausendfüssig; nachdem er die E
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/02_puruSha_evedaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -1168,6 +1179,11 @@ Purusa allein ist diese ganze Welt, die vergangene und die zukünftige, und er i
 That all is Puruṣa (only), whatever was (before) or whatever will be (further); He is the Lord of the immortality (gods) as well as of those, who are born (living on) by the food.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यद्भूतमतीतं जगत्, यच्च भव्यं भविष्यज्जगत् । यदपीदं वर्तमानं जगत्, तत्सर्वं पुरुष एव । यथाऽस्मिन्कल्पे वर्तमानाः प्राणिदेहाः सर्वेऽपि विराट्पुरुषस्यावयवाः, तथैवातीतागामिनोरपि कल्पयोर्द्रष्टव्यम् । उतापि चामृतत्वस्य देवत्वस्यायमीशानः स्वामी । यद्यस्मात्कारणादन्नेन प्राणिनां भोग्येनान्नेन निमित्तभूतेनातिरोहति स्वकीयकारणावस्थामतिक्रम्य परिदृश्यमानां जगदावस्थां प्राप्नोति । तस्मात्प्राणिनां कर्मफलभोगाय जगदवस्थास्वीकारान्नेदं तस्य वस्तुतत्वमित्यर्थः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet über das Unsterbliche, was durch Speise [Opferspeise] noch höher wächst [herrlicher wird].
@@ -1212,14 +1228,6 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-यद्भूतमतीतं जगत्, यच्च भव्यं भविष्यज्जगत् । यदपीदं वर्तमानं जगत्, तत्सर्वं पुरुष एव । यथाऽस्मिन्कल्पे वर्तमानाः प्राणिदेहाः सर्वेऽपि विराट्पुरुषस्यावयवाः, तथैवातीतागामिनोरपि कल्पयोर्द्रष्टव्यम् । उतापि चामृतत्वस्य देवत्वस्यायमीशानः स्वामी । यद्यस्मात्कारणादन्नेन प्राणिनां भोग्येनान्नेन निमित्तभूतेनातिरोहति स्वकीयकारणावस्थामतिक्रम्य परिदृश्यमानां जगदावस्थां प्राप्नोति । तस्मात्प्राणिनां कर्मफलभोगाय जगदवस्थास्वीकारान्नेदं तस्य वस्तुतत्वमित्यर्थः ।
-</details>
-</details>
-
 ### 03 एतावानस्य महिमातो - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1246,6 +1254,13 @@ Der Urmensch ist alles dies, was gewesen ist, und was sein wird; er gebietet üb
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/03_etAvAnasya_mahimAto.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -1615,6 +1630,11 @@ Solches ist seine Größe und noch gewaltiger als dies ist Purusa. Ein Viertel v
 This is His greatness; Puruṣa (Person) Himself is greater than this (1); all the beings are His (one) foot; His other three feet are in the heaven (in the form of) nectar.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अतीतानागतवर्तमानरूपं जगद्यावदस्त्येतावान्सर्वोऽप्यस्य पुरुषस्य महिमा स्वकीयसामर्थ्यविशेषो न तु तस्य वास्तवं स्वरूपम्, वास्तवस्तु पुरुषः, अतो महिम्नोऽपि ज्यायानतिशयेनाधिकः । एतच्च स्पष्टीक्रियते । विश्वा भूतानि कालत्रयवर्तीनि प्राणिजातानि यस्य पुरुषस्य पादश्चतुर्थोंऽशः । अस्यावशिष्टं त्रिपात्स्वरूपममृतं विनाशरहितं सद्दिवि द्योतनात्मके स्वप्रकाशरूपेऽवतिष्ठते । यद्यपि सत्यं ज्ञानमनन्तं ब्रह्मेत्याम्नातस्य परब्रह्मण इयत्ताया अभावादंशचतुष्टयं न निरूपयितुं शक्यं तथाऽपि जगदिदं ब्रह्मस्वरूपापेक्षयाऽत्यल्पमिति विवक्षित्वा पादत्वोपन्यासः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel von ihm sind alle Geschöpfe, und drei Viertel von ihm die Welt der Unsterblichen im Himmel.
@@ -1659,14 +1679,6 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-अतीतानागतवर्तमानरूपं जगद्यावदस्त्येतावान्सर्वोऽप्यस्य पुरुषस्य महिमा स्वकीयसामर्थ्यविशेषो न तु तस्य वास्तवं स्वरूपम्, वास्तवस्तु पुरुषः, अतो महिम्नोऽपि ज्यायानतिशयेनाधिकः । एतच्च स्पष्टीक्रियते । विश्वा भूतानि कालत्रयवर्तीनि प्राणिजातानि यस्य पुरुषस्य पादश्चतुर्थोंऽशः । अस्यावशिष्टं त्रिपात्स्वरूपममृतं विनाशरहितं सद्दिवि द्योतनात्मके स्वप्रकाशरूपेऽवतिष्ठते । यद्यपि सत्यं ज्ञानमनन्तं ब्रह्मेत्याम्नातस्य परब्रह्मण इयत्ताया अभावादंशचतुष्टयं न निरूपयितुं शक्यं तथाऽपि जगदिदं ब्रह्मस्वरूपापेक्षयाऽत्यल्पमिति विवक्षित्वा पादत्वोपन्यासः ।
-</details>
-</details>
-
 ### 04 त्रिपादूर्ध्व उदैत्पुरुषः - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1693,6 +1705,13 @@ So bedeutend ist seine Grösse, und noch grösser ist der Urmensch; ein Viertel 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -2077,6 +2096,11 @@ Zu drei Vierteln stieg Purusa empor, ein Viertel von ihm verjüngte sich hienied
 Puruṣa of three feet rises above; His feet is also here again; then He pervaded various ones who eat or who do not eat (as mountains etc.).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+योऽयं त्रिपात्पुरुषः संसारस्पर्शरहितब्रह्मस्वरूपः सोऽयमूर्ध्व उदैदस्मादज्ञानकार्यात्संसाराद्बहिर्भूतः सन्नत्रत्यैर्गुणदोषैरस्पृष्ट उत्कर्षेण स्थितवान् । तस्य योऽयं पादो लेशः सोऽयमिह मायायां पुनराभवत् । सृष्टिसंहाराभ्यां पुनः पुनरागच्छति । अस्य सर्वस्य जगतः परमात्मांशत्वं भगवताऽप्युक्तम् - "विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्" इति । ततो मायायामागत्यानन्तरं विष्वङ्देवतिर्यगादिरूपेण विविधः सन्व्यक्रामाद्व्याप्तवान् । किं कृत्वा साशनानशने अभिलक्ष्य शासनं भोजनादिव्यवहारोपेतं चेतनं प्राणिजातमनशनं तद्रहितमचेतनं गिरिनद्यादिकं तदुभयं यथा स्यात्तथा स्वयमेवंविधो भूत्वा व्याप्तवानित्यर्थः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wieder hier, dann verbreitete er sich über alles, was Speise geniesst, und was sie nicht geniesst.
@@ -2121,14 +2145,6 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-योऽयं त्रिपात्पुरुषः संसारस्पर्शरहितब्रह्मस्वरूपः सोऽयमूर्ध्व उदैदस्मादज्ञानकार्यात्संसाराद्बहिर्भूतः सन्नत्रत्यैर्गुणदोषैरस्पृष्ट उत्कर्षेण स्थितवान् । तस्य योऽयं पादो लेशः सोऽयमिह मायायां पुनराभवत् । सृष्टिसंहाराभ्यां पुनः पुनरागच्छति । अस्य सर्वस्य जगतः परमात्मांशत्वं भगवताऽप्युक्तम् - "विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्" इति । ततो मायायामागत्यानन्तरं विष्वङ्देवतिर्यगादिरूपेण विविधः सन्व्यक्रामाद्व्याप्तवान् । किं कृत्वा साशनानशने अभिलक्ष्य शासनं भोजनादिव्यवहारोपेतं चेतनं प्राणिजातमनशनं तद्रहितमचेतनं गिरिनद्यादिकं तदुभयं यथा स्यात्तथा स्वयमेवंविधो भूत्वा व्याप्तवानित्यर्थः ।
-</details>
-</details>
-
 ### 05 तस्माद्विराळजायत विराजो - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2157,6 +2173,13 @@ Mit drei Vierteln ging der Urmensch oben hinauf, ein Viertel von ihm erschien wi
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/05_tasmAdvirALajAyata_virAjo.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -2414,6 +2437,11 @@ Aus ihm ward die Viraj geboren, aus der Viraj der Purusa. Geboren ragte er hinte
 Of Him Virāṭ was born; of Virāṭ a person was born; after being born he became (various) other than Virāṭ; after him the earth and the bodies were born (2).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+तस्मादादिपुरुषाद्विराडजायत ब्रह्माण्डदेह उत्पन्नः । विविधं राजन्ते वस्तून्यत्रेति विराट् । विराजो अधि विराड्देहस्योपरि स्थितमेव देहमधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी कश्चित्पुमानजायत । योऽयं सर्ववेदान्तवेद्यः परमात्मा स एव स्वकीयया मायया विराड्देहं ब्रह्माण्डं सृष्ट्वा तत्र जीवरूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् । एतच्चाऽऽथर्वणिका उत्तरतापनीये स्पष्टमामनन्ति - "स वा एष भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा प्रविश्यामूढो मूढ इव व्यवहरन्नास्ते माययैव" इति । स जातो विराट्पुरुषोऽत्यरिच्यतातिरिक्तोऽभूत्, विराड्व्यतिरिक्तो देवतिर्यङ्मनुष्यादिरूपोऽभूत् । पश्चाद्देवादिजीवभावादूर्ध्वं भूमिं ससर्जेति शेषः । अथो भूमिसृष्टेरनन्तरं तेषां जीवानां पुरः ससर्ज । पूर्यन्ते सप्तभिर्धातुभिरिति पुरः शरीराणि ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch. Als er geboren war überragte er die Erde von hinten und von vorn.
@@ -2453,14 +2481,6 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-तस्मादादिपुरुषाद्विराडजायत ब्रह्माण्डदेह उत्पन्नः । विविधं राजन्ते वस्तून्यत्रेति विराट् । विराजो अधि विराड्देहस्योपरि स्थितमेव देहमधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी कश्चित्पुमानजायत । योऽयं सर्ववेदान्तवेद्यः परमात्मा स एव स्वकीयया मायया विराड्देहं ब्रह्माण्डं सृष्ट्वा तत्र जीवरूपेण प्रविश्य ब्रह्माण्डाभिमानी देवतात्मा जीवोऽभवत् । एतच्चाऽऽथर्वणिका उत्तरतापनीये स्पष्टमामनन्ति - "स वा एष भूतानीन्द्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा प्रविश्यामूढो मूढ इव व्यवहरन्नास्ते माययैव" इति । स जातो विराट्पुरुषोऽत्यरिच्यतातिरिक्तोऽभूत्, विराड्व्यतिरिक्तो देवतिर्यङ्मनुष्यादिरूपोऽभूत् । पश्चाद्देवादिजीवभावादूर्ध्वं भूमिं ससर्जेति शेषः । अथो भूमिसृष्टेरनन्तरं तेषां जीवानां पुरः ससर्ज । पूर्यन्ते सप्तभिर्धातुभिरिति पुरः शरीराणि ।
-</details>
-</details>
-
 ### 06 यत्पुरुषेण हविषा - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2487,6 +2507,13 @@ Von ihm ward der Allherrscher [virâj] geboren und vom Allherrscher der Urmensch
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/06_yatpuruSheNa_haviShA.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -2711,6 +2738,11 @@ Als die Götter mit Purusa das Opfer vollzogen, da war der Frühling dessen Schm
 When the gods performed the sacrifice by the oblation of the person, then Vasant (spring season) was its ghee, Grīṣma (summer) was fuel and Śarad (autumn) was the oblation.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पूर्वोक्तक्रमेण देवशरीरेषूत्पन्नेषु ते देवा उत्तरसृष्टिसिध्यर्थं तत्साधनत्वेन यज्ञमतन्वत कंचिद्यज्ञमन्वतिष्ठन् । बाह्यद्रव्यस्याद्याप्यनिष्पन्नत्वेन हविरन्तरासम्भवात्पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य तेन पुरुषाख्येन(ण) हविषा यद्यदा मानसं यज्ञमकुर्वत तदानीमस्य यज्ञस्य वसन्तर्तुरेवाऽऽज्यमभूत्, तमेवाऽऽज्यत्वेन संकल्पितवन्तः । एवं ग्रीष्म इध्मत्वेन संकल्पितः । शरत्पुरोडाशादिहविष्ट्वेन संकल्पिता । पूर्वं पुरुषस्य हविः सामान्यरूपत्वेन संकल्पो वसन्तादीनां त्वाज्यादिरूपत्वेनेति द्रष्टव्यम् ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereiteten, da war der Frühling sein Opferschmalz, der Sommer sein Brennholz, der Herbst sein Opfertrank.
@@ -2750,14 +2782,6 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-पूर्वोक्तक्रमेण देवशरीरेषूत्पन्नेषु ते देवा उत्तरसृष्टिसिध्यर्थं तत्साधनत्वेन यज्ञमतन्वत कंचिद्यज्ञमन्वतिष्ठन् । बाह्यद्रव्यस्याद्याप्यनिष्पन्नत्वेन हविरन्तरासम्भवात्पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य तेन पुरुषाख्येन(ण) हविषा यद्यदा मानसं यज्ञमकुर्वत तदानीमस्य यज्ञस्य वसन्तर्तुरेवाऽऽज्यमभूत्, तमेवाऽऽज्यत्वेन संकल्पितवन्तः । एवं ग्रीष्म इध्मत्वेन संकल्पितः । शरत्पुरोडाशादिहविष्ट्वेन संकल्पिता । पूर्वं पुरुषस्य हविः सामान्यरूपत्वेन संकल्पो वसन्तादीनां त्वाज्यादिरूपत्वेनेति द्रष्टव्यम् ।
-</details>
-</details>
-
 ### 07 सप्तास्यासन् परिधयः
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2784,6 +2808,13 @@ Als die Götter ihr Opfer mit dem Urmenschen als dem Opfertrank kunstvoll bereit
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/07_saptAsyAsanparidhayastriH_sapta.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -3017,6 +3048,11 @@ Ihn besprengten, weihten sie als Opfer auf dem Barhis, den am Anfang geborenen P
 Seven were the Paridhis (enclosures) of this and twenty-one were the fuels, when the gods bound the person as cattle (for sacrificing).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अस्य सांकल्पिकयज्ञस्य गायत्र्यादीनि सप्त च्छन्दांसि परिधय आसन्, ऐष्टिकस्याऽऽहवनीयस्य त्रयः परिधय औत्तरवेदिकास्त्रय आदित्यश्च सप्तमः परिधिप्रतिनिधिरूपः । अत एवाऽऽम्नायते - "न पुरस्तात्परिदधात्यादित्यो ह्येवोद्यन्पुरस्ताद्रक्षाँस्यपहन्ति" इति । त एत आदित्यसहिताः सप्तपरिधयोऽत्र सप्तच्छन्दोरूपाः । तथा समिधस्त्रिःसप्त त्रिगुणितसप्तसंख्याका एकविंशतिः कृताः । "द्वादश समाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविँशः" इति श्रुताः पदार्था एकविंशतिदारुयुक्तेध्मत्वेन भाविताः । यद्यः पुरुषो वैराजोऽस्ति तं पुरुषं देवाः प्रजापतिप्राणेन्द्रियरूपा यज्ञं तन्वाना मानसयज्ञं कुर्वाणाः पशुमबध्नन्विराट्पुरुषमेव पशुत्वेन भावितवन्तः । एतदेवाभिप्रेत्य पूर्वत्र - "पुरुषेण हविषा" इत्युक्तम् ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen Streu; durch ihn opferten die Götter die Sādhja's [die zu gewinnenden] und die Rischi's.
@@ -3056,14 +3092,6 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-अस्य सांकल्पिकयज्ञस्य गायत्र्यादीनि सप्त च्छन्दांसि परिधय आसन्, ऐष्टिकस्याऽऽहवनीयस्य त्रयः परिधय औत्तरवेदिकास्त्रय आदित्यश्च सप्तमः परिधिप्रतिनिधिरूपः । अत एवाऽऽम्नायते - "न पुरस्तात्परिदधात्यादित्यो ह्येवोद्यन्पुरस्ताद्रक्षाँस्यपहन्ति" इति । त एत आदित्यसहिताः सप्तपरिधयोऽत्र सप्तच्छन्दोरूपाः । तथा समिधस्त्रिःसप्त त्रिगुणितसप्तसंख्याका एकविंशतिः कृताः । "द्वादश समाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविँशः" इति श्रुताः पदार्था एकविंशतिदारुयुक्तेध्मत्वेन भाविताः । यद्यः पुरुषो वैराजोऽस्ति तं पुरुषं देवाः प्रजापतिप्राणेन्द्रियरूपा यज्ञं तन्वाना मानसयज्ञं कुर्वाणाः पशुमबध्नन्विराट्पुरुषमेव पशुत्वेन भावितवन्तः । एतदेवाभिप्रेत्य पूर्वत्र - "पुरुषेण हविषा" इत्युक्तम् ।
-</details>
-</details>
-
 ### 08 तं यज्ञम् - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3090,6 +3118,13 @@ Diesen zuerst geborenen Urmenschen benetzten sie als ihr Opfer auf der heiligen 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/08_taM_yajnaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -3443,6 +3478,11 @@ Aus diesem vollständig geopferten Opfer wurde das Opferschmalz gewonnen. Das ma
 They sprinkled in Barhi-grass (by mind) that person, born before (the other beings) (3); by him the gods, the sages and the seers sacrificed.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यज्ञं यज्ञसाधनभूतं तं पुरुषं पशुत्वभावनया यूपे बद्धं बर्हिषि मानसे यज्ञे प्रौक्षन्प्रोक्षितवन्तः । कीदृशम्, अग्रतः सर्वसृष्टेः पूर्वं पुरुषं जातं पुरुषत्वेनोत्पन्नम् । एतच्च पूर्वमेवोक्तम् - "तस्माद्विराडजायत विराजो अधि पूरुषः" इति । तेन पुरुषरूपेण पशुना देवा अयजन्त मानसयागं निष्पादितवन्तः । के ते देवा इति त एवोच्यन्ते साध्याः सृष्टिसाधनयोग्याः प्रजापतिप्राणरूपास्तदनुकूला ऋषयो मन्त्रद्रष्टारश्च ये सन्ति ते सर्वेऽप्ययजन्त ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opferschmalz; er schuf die Thiere der Luft, der Wälder und der Dörfer [die Hausthiere].
@@ -3487,14 +3527,6 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-यज्ञं यज्ञसाधनभूतं तं पुरुषं पशुत्वभावनया यूपे बद्धं बर्हिषि मानसे यज्ञे प्रौक्षन्प्रोक्षितवन्तः । कीदृशम्, अग्रतः सर्वसृष्टेः पूर्वं पुरुषं जातं पुरुषत्वेनोत्पन्नम् । एतच्च पूर्वमेवोक्तम् - "तस्माद्विराडजायत विराजो अधि पूरुषः" इति । तेन पुरुषरूपेण पशुना देवा अयजन्त मानसयागं निष्पादितवन्तः । के ते देवा इति त एवोच्यन्ते साध्याः सृष्टिसाधनयोग्याः प्रजापतिप्राणरूपास्तदनुकूला ऋषयो मन्त्रद्रष्टारश्च ये सन्ति ते सर्वेऽप्ययजन्त ।
-</details>
-</details>
-
 ### 09 तस्माद्यज्ञात्सर्वहुतः सम्भृतम् - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3521,6 +3553,13 @@ Aus diesem vollständig dargebrachten Opfer sammelte sich das triefende Opfersch
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -3985,6 +4024,11 @@ Aus diesem vollständig geopferten Opfer entstanden die Verse und Sangesweisen, 
 From that sacrifice, where all (in the form of the person) was sacrificed came forth the wonderful ghee and that produced those cattle who are related to the wind, who are wild and who are of the village (tame).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सर्वहुतः सर्वात्मकः पुरुषो यस्मिन्यज्ञे हूयते सोऽयं सर्वहुतस्तादृशात्पूर्वोक्तान्मानसाद्यज्ञात्पृषदाज्यं संभृतं सम्पादितम् । दधि चाऽऽज्यं चेत्येवमादिभोग्यजातं सम्पादितमित्यर्थः । तथा वायव्यान्वायुदेवताकाल्ँ लोकप्रसिद्धानारण्यान्पशूश्चक्र उत्पादितवान् । आरण्या द्विखुरादयस्तथा ये ग्राम्या गवाश्वादयस्तानप्युत्पादितवान् । पशूनामन्तरिक्षद्वारा वायुदेवत्यत्वं मन्त्रान्तरव्याख्याने समाम्नातम् - "वायवस्थेत्याह वायुर्वा अन्तरिक्षस्याध्यक्षः । अन्तरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान्परिददाति" इति ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda ŕcas], die Gesänge [des Sāma-Veda sâmāni], aus ihm entsprangen die Zauberlieder [chándānsi siehe oben], aus ihm die Opfersprüche [des Jadschur-Veda yájus].
@@ -4029,14 +4073,6 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-सर्वहुतः सर्वात्मकः पुरुषो यस्मिन्यज्ञे हूयते सोऽयं सर्वहुतस्तादृशात्पूर्वोक्तान्मानसाद्यज्ञात्पृषदाज्यं संभृतं सम्पादितम् । दधि चाऽऽज्यं चेत्येवमादिभोग्यजातं सम्पादितमित्यर्थः । तथा वायव्यान्वायुदेवताकाल्ँ लोकप्रसिद्धानारण्यान्पशूश्चक्र उत्पादितवान् । आरण्या द्विखुरादयस्तथा ये ग्राम्या गवाश्वादयस्तानप्युत्पादितवान् । पशूनामन्तरिक्षद्वारा वायुदेवत्यत्वं मन्त्रान्तरव्याख्याने समाम्नातम् - "वायवस्थेत्याह वायुर्वा अन्तरिक्षस्याध्यक्षः । अन्तरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान्परिददाति" इति ।
-</details>
-</details>
-
 ### 10 तस्माद्यज्ञात्सर्वहुत ऋचः - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4062,6 +4098,13 @@ Aus diesem vollständig dargebrachten Opfer entsprangen die Hymnen [des Rig-Veda
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/10_tasmAdyajnAtsarvahuta_RchaH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -4449,6 +4492,11 @@ Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm ent
 From that sacrifice, where all (in the form of the person) was sacrificed, came forth the Ṛcas, the Sāmans, the verses came forth from that, the Yajus was produced from that (4).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+छन्दांसि गायत्र्यादीनि । स्पष्टमन्यत् ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; aus ihm entsprangen die Rinder, aus ihm die Ziegen und Schafe.
@@ -4478,14 +4526,6 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-छन्दांसि गायत्र्यादीनि । स्पष्टमन्यत् ।
-</details>
-</details>
-
 ### 11 तस्मादश्वा अजायन्त - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4512,6 +4552,13 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/11_tasmAdashvA_ajAyanta.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -4869,6 +4916,11 @@ Als sie den Purusa auseinander legten, in wie viele Teile teilten sie ihn? Was w
 From that the horses were produced and also those, who have teeth in the sides of the mouth (as asses etc.) were born; the cows came forth from that; the goats and the sheep were born of him.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च ये केचिदूर्ध्वाधोभागयोरुभयोर्दन्तयुक्ताः सन्ति तेऽप्यश्ववदजायन्त । तथा गावोऽजाश्चावयश्च ते सर्वेऽप्युत्पन्नाः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was ward sein Mund? was seine Arme? was seine Schenkel? wie wurden seine Füsse genannt?
@@ -4898,14 +4950,6 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च ये केचिदूर्ध्वाधोभागयोरुभयोर्दन्तयुक्ताः सन्ति तेऽप्यश्ववदजायन्त । तथा गावोऽजाश्चावयश्च ते सर्वेऽप्युत्पन्नाः ।
-</details>
-</details>
-
 ### 12 यत्पुरुषं व्यदधुः - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4934,6 +4978,13 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/12_yatpuruShaM_vyadadhuH.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -5174,6 +5225,11 @@ Sein Mund ward zum Brahmanen, seine beiden Arme wurden zum Rajanya gemacht, sein
 In how many ways they caused the person, when they caused the person? What is called his mouth? What are the hands? What are the thighs? And what are called the legs?
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रजापतेः प्राणरूपा देवा यद्यदा पुरुषं विराड्रूपं व्यदधुः सङ्कल्पेनोत्पादितवन्तः । तदानीं कतिधा कतिभिः प्रकारैर्व्यकल्पयन्विविधं कल्पितवन्तः । एष सामान्यरूपः प्रश्नः । मुखं किमित्यादयो विशेषप्रश्नाः । अन्यत्स्पष्टम् ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vaiçja, aus seinen Füssen entsprang der Çūdra.
@@ -5197,14 +5253,6 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-प्रजापतेः प्राणरूपा देवा यद्यदा पुरुषं विराड्रूपं व्यदधुः सङ्कल्पेनोत्पादितवन्तः । तदानीं कतिधा कतिभिः प्रकारैर्व्यकल्पयन्विविधं कल्पितवन्तः । एष सामान्यरूपः प्रश्नः । मुखं किमित्यादयो विशेषप्रश्नाः । अन्यत्स्पष्टम् ।
-</details>
-</details>
 
 ### 13 ब्राह्मणोऽस्य मुखमासीद्बाहू - अनुष्टुप्
 
@@ -5231,6 +5279,13 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -5601,6 +5656,11 @@ Der Mond ist aus seinem Geist entstanden, die Sonne entstand aus seinem Auge; au
 Brāhmaṇa (caste) was his mouth; Kṣatriya was his hands (5); Vaiśya was his thighs and Śūdra was born of the legs.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+योऽयं ब्राह्मणत्वजातिविशिष्टः पुरुषः सोऽयमस्य प्रजापतेर्मुखमासीत्, मुखादुत्पन्न इत्यर्थः । योऽयं राजन्यः क्षत्त्रियजातिः स बाहुत्वेन निष्पादितः बाहुभ्यामुत्पादित इत्यर्थः । तत्तदानीं यौ प्रजापतेरूरू तद्रूपो वैश्यः संपन्नः, ऊरुभ्यामुत्पन्न इत्यर्थः । तथा पद्भ्यां शूद्र उत्पन्नः । इयं च मुखादिभ्यो ब्राह्मणादीनामुत्पत्तिः सप्तमकाण्डे "स मुखतस्त्रिवृतं निरमिमीत" इत्यादौ विस्पष्टमाम्नाता । अतः प्रश्नोत्तरे उभे अपि तत्परत्वेनैव योजनीये ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Munde Indra und Agni, aus seinem Athem der Wind.
@@ -5645,14 +5705,6 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-योऽयं ब्राह्मणत्वजातिविशिष्टः पुरुषः सोऽयमस्य प्रजापतेर्मुखमासीत्, मुखादुत्पन्न इत्यर्थः । योऽयं राजन्यः क्षत्त्रियजातिः स बाहुत्वेन निष्पादितः बाहुभ्यामुत्पादित इत्यर्थः । तत्तदानीं यौ प्रजापतेरूरू तद्रूपो वैश्यः संपन्नः, ऊरुभ्यामुत्पन्न इत्यर्थः । तथा पद्भ्यां शूद्र उत्पन्नः । इयं च मुखादिभ्यो ब्राह्मणादीनामुत्पत्तिः सप्तमकाण्डे "स मुखतस्त्रिवृतं निरमिमीत" इत्यादौ विस्पष्टमाम्नाता । अतः प्रश्नोत्तरे उभे अपि तत्परत्वेनैव योजनीये ।
-</details>
-</details>
-
 ### 14 चन्द्रमा मनसो - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -5679,6 +5731,13 @@ Aus seinem Geiste entsprang der Mond, aus seinem Auge die Sonne, aus seinem Mund
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/14_chandramA_manaso.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -5909,6 +5968,11 @@ Aus dem Nabel ward der Luftraum, aus dem Haupte ging der Himmel hervor, aus den 
 The moon was born of (his) mind; the sun was born of the eye, Indra and the fire were born of the mouth and the wind was born of the breath.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथा दध्याज्यादिद्रव्याणि गवादिपशव ऋगादिवेदा ब्राह्मणादिमनुष्याश्च तस्मादुत्पन्नाः, एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्नाः । चक्षोश्चक्षुषः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen Füssen die Erde, aus seinem Ohr die Weltgegenden; so bildeten sie die Welten.
@@ -5948,14 +6012,6 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-यथा दध्याज्यादिद्रव्याणि गवादिपशव ऋगादिवेदा ब्राह्मणादिमनुष्याश्च तस्मादुत्पन्नाः, एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्नाः । चक्षोश्चक्षुषः ।
-</details>
-</details>
-
 ### 15 नाभ्याम् - अनुष्टुप्
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -5982,6 +6038,13 @@ Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen 
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/15_nAbhyA_AsIdantarixaM.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : अनुष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -6222,6 +6285,11 @@ Sieben waren seine Umleghölzer, dreimal sieben Brennhölzer wurden gemacht, als
 From the navel the mid-region was born; from the head moved round the heaven; from the legs the earth and from the ear the quarters came forth; in that way they caused all the world (6).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथा देवास्तस्मादुत्पन्नास्तथा लोकानप्यन्तरिक्षादीन्प्रजापतेर्नाभ्याद्यवयवेभ्योऽकल्पयन्नुत्पादितवन्तः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurden bereitet, als die Götter, das Opfer ausrüstend, den Urmenschen als Opferthier anbanden.
@@ -6260,14 +6328,6 @@ Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurd
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-यथा देवास्तस्मादुत्पन्नास्तथा लोकानप्यन्तरिक्षादीन्प्रजापतेर्नाभ्याद्यवयवेभ्योऽकल्पयन्नुत्पादितवन्तः ।
-</details>
-</details>
 
 ### पुरुषस्तुतिः, यज्ञस्तुतिः
 
@@ -6313,24 +6373,24 @@ Whom the disposer made famous, whom Indra, knowing all the quarters, made famous
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- वे᳓द (*TS*-128, *RV*-26/31, *TB*-149/151, *TK*-71/72, *AV*-143/145, *SB-M*-194/200, *SB-K*-329, *VS-M*-4, *VS-K*-4)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- एत᳓म् (*TS*-137/1674, *RV*-34/320, *TB*-60/353, *TK*-2/39, *AV*-57/339, *SB-M*-86/592, *SB-K*-673/10669, *VS-M*-3/8, *VS-K*-12/26)
-- पु᳓रुषम् (*TS*-6/92, *RV*-5/14, *TB*-6/40, *AV*-31/106, *SB-M*-41/272, *SB-K*-74/498, *VS-M*-4/9, *VS-K*-4/13)
-- महा᳓न्तम् (*TS*-1/2, *RV*-8/17, *AV*-2/7, *SB-M*-1/2, *SB-K*-5/9, *VS-K*-1/2)
+- वे᳓द (*TS*-128, *RV*-26/31, *TB*-149/151, *TK*-71/72, *AV*-143/145, *SB-M*-194/200, *SB-K*-329, *VS-M*-4, *VS-K*-4, *KS*-17, *MS*-140)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- एत᳓म् (*TS*-137/1674, *RV*-34/320, *TB*-60/353, *TK*-2/39, *AV*-57/339, *SB-M*-86/592, *SB-K*-673/10669, *VS-M*-3/8, *VS-K*-12/26, *KS*-15/287, *MS*-145/2587)
+- पु᳓रुषम् (*TS*-6/92, *RV*-5/14, *TB*-6/40, *AV*-31/106, *SB-M*-41/272, *SB-K*-74/498, *VS-M*-4/9, *VS-K*-4/13, *KS*-6/30, *MS*-7/116)
+- महा᳓न्तम् (*TS*-1/2, *RV*-8/17, *AV*-2/7, *SB-M*-1/2, *SB-K*-5/9, *VS-K*-1/2, *MS*-2)
 - आदित्य᳓-वर्णम् (आदित्य᳓ (*MW*) + व᳓र्ण (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
-- त᳓मसः (*TS*-4/33, *RV*-21/112, *TB*-0/2, *AV*-5/51, *SB-M*-2/24, *SB-K*-10/82, *VS-M*-2/11, *VS-K*-2/14)
-- तु᳓ (*TS*-31, *RV*-57, *TB*-6, *SB-K*-233, *VS-K*-3)
-- पारे᳓ (*TS*-3/7, *RV*-12/28, *TB*-1, *AV*-2/9, *SB-M*-1/5, *SB-K*-1/11, *VS-M*-0/1, *VS-K*-0/1)
-- स᳓र्वाणि (*TS*-27/281, *RV*-0/68, *TB*-6/109, *TK*-8/35, *AV*-6/443, *SB-M*-148/1221, *SB-K*-174/2224, *VS-M*-3/39, *VS-K*-3/41)
-- रूपा᳓णि (*TS*-21/144, *RV*-11/37, *TB*-3/38, *AV*-16/45, *SB-M*-35/155, *SB-K*-58/460, *VS-M*-5/30, *VS-K*-5/34)
+- त᳓मसः (*TS*-4/33, *RV*-21/112, *TB*-0/2, *AV*-5/51, *SB-M*-2/24, *SB-K*-10/82, *VS-M*-2/11, *VS-K*-2/14, *KS*-0/16, *MS*-9/52)
+- तु᳓ (*TS*-31, *RV*-57, *TB*-6, *SB-K*-233, *VS-K*-3, *KS*-5, *MS*-66)
+- पारे᳓ (*TS*-3/7, *RV*-12/28, *TB*-1, *AV*-2/9, *SB-M*-1/5, *SB-K*-1/11, *VS-M*-0/1, *VS-K*-0/1, *KS*-1, *MS*-4/9)
+- स᳓र्वाणि (*TS*-27/281, *RV*-0/68, *TB*-6/109, *TK*-8/35, *AV*-6/443, *SB-M*-148/1221, *SB-K*-174/2224, *VS-M*-3/39, *VS-K*-3/41, *KS*-0/43, *MS*-35/419)
+- रूपा᳓णि (*TS*-21/144, *RV*-11/37, *TB*-3/38, *AV*-16/45, *SB-M*-35/155, *SB-K*-58/460, *VS-M*-5/30, *VS-K*-5/34, *KS*-2/11, *MS*-34/137)
 - विचि᳓त्य (*TS*-2)
-- धी᳓रः (*TS*-5/11, *RV*-22/52, *TB*-0/1, *AV*-7/13, *SB-M*-2/5, *SB-K*-5/11, *VS-M*-2/7, *VS-K*-2/9)
-- ना᳓मानि (*TS*-4/93, *RV*-14/117, *TB*-3/41, *AV*-5/112, *SB-M*-13/169, *SB-K*-23/325, *VS-M*-1/28, *VS-K*-1/27)
-- कृत्वा᳓ (*TS*-40, *TB*-12, *TK*-6, *AV*-43, *SB-K*-153, *VS-K*-3)
-- अभिव᳓दन् (अभि᳓ (*TS*-63, *RV*-754, *SB-K*-595, *VS-K*-28) + व᳓दन् (*TS*-2, *RV*-10, *AV*-1, *SB-M*-1, *SB-K*-5), पा॰ ६.२.१३९)
-- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-102/728, *TK*-6/66, *AV*-725/3116, *SB-M*-32/1139, *SB-K*-4555/8438, *VS-M*-5/244, *VS-K*-37/456)
-- आ᳓स्ते (*TS*-2, *RV*-1, *TB*-1, *SB-K*-31; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
+- धी᳓रः (*TS*-5/11, *RV*-22/52, *TB*-0/1, *AV*-7/13, *SB-M*-2/5, *SB-K*-5/11, *VS-M*-2/7, *VS-K*-2/9, *KS*-1/4, *MS*-7/14)
+- ना᳓मानि (*TS*-4/93, *RV*-14/117, *TB*-3/41, *AV*-5/112, *SB-M*-13/169, *SB-K*-23/325, *VS-M*-1/28, *VS-K*-1/27, *KS*-2/34, *MS*-8/128)
+- कृत्वा᳓ (*TS*-40, *TB*-12, *TK*-6, *AV*-43, *SB-K*-153, *VS-K*-3, *KS*-4, *MS*-34)
+- अभिव᳓दन् (अभि᳓ (*TS*-63, *RV*-754, *SB-K*-595, *VS-K*-28, *KS*-76, *MS*-346) + व᳓दन् (*TS*-2, *RV*-10, *AV*-1, *SB-M*-1, *SB-K*-5, *KS*-1, *MS*-6), पा॰ ६.२.१३९)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-102/728, *TK*-6/66, *AV*-725/3116, *SB-M*-32/1139, *SB-K*-4555/8438, *VS-M*-5/244, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
+- आ᳓स्ते (*TS*-2, *RV*-1, *TB*-1, *SB-K*-31, *KS*-2, *MS*-3; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -6437,25 +6497,25 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- धाता᳓ (*TS*-24/76, *RV*-8/16, *TB*-9/12, *AV*-32/38, *SB-M*-1, *SB-K*-9/14, *VS-M*-4/7, *VS-K*-4/13)
-- पुर᳓स्तात् (*TS*-115, *RV*-32, *TB*-23, *TK*-2, *SB-K*-296, *VS-K*-3)
-- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-17/728, *AV*-176/3116, *SB-M*-100/1139, *SB-K*-351/8438, *VS-M*-23/244, *VS-K*-53/456)
+- धाता᳓ (*TS*-24/76, *RV*-8/16, *TB*-9/12, *AV*-32/38, *SB-M*-1, *SB-K*-9/14, *VS-M*-4/7, *VS-K*-4/13, *KS*-6/7, *MS*-15/33)
+- पुर᳓स्तात् (*TS*-115, *RV*-32, *TB*-23, *TK*-2, *SB-K*-296, *VS-K*-3, *KS*-27, *MS*-110)
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-17/728, *AV*-176/3116, *SB-M*-100/1139, *SB-K*-351/8438, *VS-M*-23/244, *VS-K*-53/456, *KS*-31/818, *MS*-183/3763)
 - उदाजहा᳓र (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- शक्रः᳓ (*TS*-0/1, *RV*-15/21, *AV*-14/23, *VS-M*-0/1, *VS-K*-0/1)
-- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60)
-- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1, *AV*-58, *SB-M*-8, *SB-K*-127, *VS-M*-11, *VS-K*-13)
-- प्रदि᳓शः (*TS*-10, *RV*-11, *SB-K*-4, *VS-K*-6)
-- च᳓तस्रः (*TS*-26/29, *RV*-13, *TB*-4/5, *AV*-23, *SB-M*-29, *SB-K*-57, *VS-K*-2/3)
-- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395)
-- एव᳓म् (*TS*-274/281, *RV*-1, *TB*-184/189, *TK*-34, *AV*-149/150, *SB-M*-133/134, *SB-K*-1075/1115, *VS-M*-1/2, *VS-K*-2/3)
-- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1, *AV*-58, *SB-M*-8, *SB-K*-127, *VS-M*-11, *VS-K*-13)
-- अमृ᳓तः (*TS*-4/64, *RV*-18/187, *TB*-1/12, *AV*-6/96, *SB-M*-1/18, *SB-K*-47/312, *VS-K*-1/20)
-- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39)
-- भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-539, *RV*-27, *SB-K*-1293, *VS-K*-1)
-- न᳓ (*TS*-758, *RV*-2095, *SB-K*-2328, *VS-K*-139)
-- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-4/27, *AV*-33/106, *SB-M*-2/20, *SB-K*-98/340, *VS-M*-1/2, *VS-K*-3/13)
-- प᳓न्थाः (*TS*-8/72, *RV*-17/149, *TB*-0/7, *AV*-4/75, *SB-M*-1/10, *SB-K*-8/52, *VS-M*-1/20, *VS-K*-1/34)
-- अ᳓यनाय (*TS*-0/4, *RV*-0/1, *AV*-0/8, *SB-K*-1/9, प्रातिपदिकम् अ᳓यन (*MW*))
+- शक्रः᳓ (*TS*-0/1, *RV*-15/21, *AV*-14/23, *VS-M*-0/1, *VS-K*-0/1, *MS*-2/4)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1, *AV*-58, *SB-M*-8, *SB-K*-127, *VS-M*-11, *VS-K*-13, *KS*-24, *MS*-86/88)
+- प्रदि᳓शः (*TS*-10, *RV*-11, *SB-K*-4, *VS-K*-6, *KS*-4, *MS*-12)
+- च᳓तस्रः (*TS*-26/29, *RV*-13, *TB*-4/5, *AV*-23, *SB-M*-29, *SB-K*-57, *VS-K*-2/3, *KS*-7, *MS*-18/21)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395, *KS*-117/1225, *MS*-528/5550)
+- एव᳓म् (*TS*-274/281, *RV*-1, *TB*-184/189, *TK*-34, *AV*-149/150, *SB-M*-133/134, *SB-K*-1075/1115, *VS-M*-1/2, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-31, *TK*-1, *AV*-58, *SB-M*-8, *SB-K*-127, *VS-M*-11, *VS-K*-13, *KS*-24, *MS*-86/88)
+- अमृ᳓तः (*TS*-4/64, *RV*-18/187, *TB*-1/12, *AV*-6/96, *SB-M*-1/18, *SB-K*-47/312, *VS-K*-1/20, *KS*-0/30, *MS*-6/84)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39, *KS*-43, *MS*-103)
+- भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-539, *RV*-27, *SB-K*-1293, *VS-K*-1, *KS*-52, *MS*-319)
+- न᳓ (*TS*-758, *RV*-2095, *SB-K*-2328, *VS-K*-139, *KS*-139, *MS*-806)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-4/27, *AV*-33/106, *SB-M*-2/20, *SB-K*-98/340, *VS-M*-1/2, *VS-K*-3/13, *KS*-4/31, *MS*-41/208)
+- प᳓न्थाः (*TS*-8/72, *RV*-17/149, *TB*-0/7, *AV*-4/75, *SB-M*-1/10, *SB-K*-8/52, *VS-M*-1/20, *VS-K*-1/34, *KS*-0/21, *MS*-4/60)
+- अ᳓यनाय (*TS*-0/4, *RV*-0/1, *AV*-0/8, *SB-K*-1/9, *MS*-0/1, प्रातिपदिकम् अ᳓यन (*MW*))
 - विद्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *SB-K*-1, *VS-K*-2)
 </details>
 
@@ -6587,6 +6647,13 @@ The gods performed the sacrifice by the sacrifice (sacrificial person); these we
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md">
 
 <details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
+devataa : पुरुषः
+
+RShiH : नारायणः
+
+ChandaH : त्रिष्टुप्
+
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुषः
@@ -6882,6 +6949,15 @@ Mit dem Opfer opferten die Götter dem Opfer. Dies waren die ersten Normen des O
 I know this Great Puruṣa, who has the colour of the sun, who is out of the darkness; He, the wise one, is merciful on the world after deciding all the forms and giving the names to them.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+देवाः प्रजापतिप्राणरूपा यज्ञेन यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिमयजन्त पूजितवन्तः । तस्मात्पूजनात्तानि प्रसिद्धानि धर्माणि जगद्रूपविकाराणां धारकाणि प्रथमानि मुख्यभूतान्यासन् । एतावता सृष्टिप्रतिपादकोऽनुवाकभागार्थः सङ्गृहीतः ।
+
+अथोपासनतत्फलरूपोऽनुवाकभागार्थः संगृह्यते -
+
+यत्र यस्मिन्विराट्प्राप्तिरूपे नाके पूर्वे साध्याः पुरातना विराडुपास्तिसाधका देवाः सन्ति तिष्ठन्ति तं नाकं विराट्प्राप्तिरूपं स्वर्गं ते महिमानस्तदुपासका महात्मानः सचन्ते समवयन्ति प्राप्नुवन्ति ॥
+</details>
+
 <details><summary>Grassmann</summary>
 
 Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, die erhabenen, gelangten zum Gipfel des Himmels, wo die alten zu gewinnenden [sādhyās] Götter sind.
@@ -6920,18 +6996,6 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-देवाः प्रजापतिप्राणरूपा यज्ञेन यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिमयजन्त पूजितवन्तः । तस्मात्पूजनात्तानि प्रसिद्धानि धर्माणि जगद्रूपविकाराणां धारकाणि प्रथमानि मुख्यभूतान्यासन् । एतावता सृष्टिप्रतिपादकोऽनुवाकभागार्थः सङ्गृहीतः ।
-
-अथोपासनतत्फलरूपोऽनुवाकभागार्थः संगृह्यते -
-
-यत्र यस्मिन्विराट्प्राप्तिरूपे नाके पूर्वे साध्याः पुरातना विराडुपास्तिसाधका देवाः सन्ति तिष्ठन्ति तं नाकं विराट्प्राप्तिरूपं स्वर्गं ते महिमानस्तदुपासका महात्मानः सचन्ते समवयन्ति प्राप्नुवन्ति ॥
-</details>
-</details>
 </details>
 
 </div>

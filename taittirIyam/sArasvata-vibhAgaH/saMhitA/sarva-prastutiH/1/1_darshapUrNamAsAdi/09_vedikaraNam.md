@@ -2,6 +2,7 @@
 title: ०९ वेदि-करणम्
 
 ---
+
 २० द्विपदा गायत्री  
 २४ एकपदा त्रिष्टुप्  
 २५ त्रिपदा त्रिष्टुप् ।  
@@ -891,16 +892,22 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/09_vedikaraNam/14_vasavas_tvA_parigRhNantu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 +++(वेदे!)+++ +++(अष्टौ)+++ व᳓सवस् त्वा +++(दक्षिणतः)+++ प᳓रिगृह्णन्तु +++(अष्टाक्षरेण)+++ गायत्रे᳓ण छ᳓न्दसा ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/09_vedikaraNam/14_vasavas_tvA_parigRhNantu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Let the Vasus grasp thee with the Gayatri metre
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Vasus enclose you with the gāyatrī metre!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -910,7 +917,7 @@ Let the Vasus grasp thee with the Gayatri metre
 
 <details><summary>पद-पाठः</summary>
 
-वस॑वः । त्वा॒ । परीति॑ । गृ॒ह्ण॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा । 
+वस॑वः । त्वा॒ । परीति॑ । गृ॒ह्ण॒न्तु॒ । गा॒य॒त्रेण॑ । छन्द॑सा ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -918,8 +925,7 @@ Let the Vasus grasp thee with the Gayatri metre
 वसवः अष्टौ । अष्टाक्षरा गायत्री । ते च गायत्रेण छन्दसा त्वां दक्षिणतः परिगृह्णन्तु ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(एकादश)+++ रुद्रा᳓स् त्वा प᳓रिगृह्णन्तु +++(एकादशाक्षरेण)+++ त्रै᳓ष्टुभेन छ᳓न्दसा ।
 </details>
@@ -1187,6 +1193,7 @@ Which wise men use to guide them in the sacrifice.
 पु॒रा । क्रू॒रस्य॑ । वि॒सृप॒ इति॑ वि-सृपः॑ । वि॒र॒फ्शि॒न्निति॑ वि-र॒फ्शि॒न् । उ॒दा॒दायेत्यु॑त्-आ॒दाय॑ । पृ॒थि॒वीम् । जी॒रदा॑नु॒रिति॑ जी॒र-दा॒नुः॒ । याम् । ऐर॑यन् । च॒न्द्रम॑सि । स्व॒धाभि॒रिति॑ स्व-धाभिः॑ । ताम् । धीरा॑सः । अ॒नु॒दृश्येत्य॑नु-दृश्य॑ । य॒ज॒न्ते॒ ॥
 </details>
 
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अथ कुतोऽवगम्यते ईदृशी वेदिरिदानीमभूदिति तत्राह - पुरेति ॥  
@@ -1201,4 +1208,4 @@ Which wise men use to guide them in the sacrifice.
 
 </div>
 
-इति प्रथमे नवमोनुवाकः  
+इति प्रथमे नवमोनुवाकः

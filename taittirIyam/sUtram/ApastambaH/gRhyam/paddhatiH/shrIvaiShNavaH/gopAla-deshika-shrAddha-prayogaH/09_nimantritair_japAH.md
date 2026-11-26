@@ -17,6 +17,7 @@ title = "०९ निमन्त्रितैर् जपाः"
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/5/18/01_A_brahman_brAhmaNo.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ ब्र᳓ह्मन् +++(जातौ)+++ ब्राह्मणो᳓ ब्रह्म-वर्चसी᳓ जायताम् ।
@@ -27,6 +28,11 @@ title = "०९ निमन्त्रितैर् जपाः"
 <details><summary>Keith</summary>
 
 In the priesthood may a Brahmana be born of spiritual glory.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the priesthood may a brahmin be born endowed with spiritual lustre!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -43,8 +49,19 @@ In the priesthood may a Brahmana be born of spiritual glory.
 
 **ब्रह्मन्** ब्रह्मणि ब्राह्मणजातौ अस्य यजमानस्य सम्बन्धी सर्वो ब्राह्मणो ब्रह्मवर्चसी आजायताम् ।
 </details>
-</details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[634_1]** Dies Capitel auch in T6 fol. 8ª und Brl fol. 7 vorhanden; darnach accentuirt. (This chapter also present in T6 fol. 8a and Brl fol. 7; accented accordingly.)
+
+- **[634_2]** So corr. die Mss. जायतामस्मि᳓॰, resp. Ch so ohne Accent ; vgl. TS 7, 5, 18. (Thus emended; the mss. read जायतामस्मि᳓॰, or Ch reads thus without accent, respectively; cf. TS 7, 5, 18.)
+
+- **[634_3]** So die Accentuation in Brl; in T 6 यु᳓वा᳓स्य ; vgl. TS 7, 5, 18. (Thus the accentuation in Brl; in T6 यु᳓वा᳓स्य; cf. TS 7, 5, 18.)
+</details>
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/7/5/18/02_A-smin_rAShTre_rAjanya.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓ऽस्मि᳓न् राष्ट्रे᳓ राजन्य᳙ इषव्य᳙श् शू᳓रो महारथो᳓ जायताम् ।
@@ -55,6 +72,11 @@ In the priesthood may a Brahmana be born of spiritual glory.
 <details><summary>Keith</summary>
 
 In this kingdom may a prince be born, an archer, a hero, and a great car fighter;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this realm may a noble be born, an archer, a hero, a great charioteer!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -72,6 +94,7 @@ In this kingdom may a prince be born, an archer, a hero, and a great car fighter
 अस्मिन्राष्ट्रे यजमानस्य सम्बन्धी राजन्यः सर्वोपि क्षत्रः इषव्यः इष्वादिषु साधुः शूरः महावीरः महारथः रथचर्यायां प्रकृष्टश्च आजायताम् । 'राजश्वशुराद्यत्' 'राज्ञोपत्ये जातिग्रहणम्' ।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -500,17 +523,24 @@ Homage to the holder of the quiver, to the owner of the quiver, to the lord of r
 
 [[2119]]
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/04_namo_va~nchate_pariva~nchate.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 न᳓मो व᳓ञ्‍चते परिव᳓ञ्‍चते  
 स्तायूनां᳓+++(←स्तै वेष्टने)+++ प᳓तये न᳓मः
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/04_namo_va~nchate_pariva~nchate.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Homage to the cheater, the swindler, to the lord of burglars homage!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage to the cheater, the deceiver,  
+homage to the lord of stealthy pilferers!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -536,11 +566,10 @@ Homage to the cheater, the swindler, to the lord of burglars homage!
 स्वकीया एव भूत्वा  
 रात्राव् अह्नि वाऽन्यैर् अज्ञाताः सन्तो  
 ऽपहर्तारो ये ते **स्तायव**।  
-तेषां स्तायूनां पालकाय नमः।  
+तेषां स्तायूनां पालकाय नमः।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निचेर᳓वे+++(←चर्)+++ परिचरा᳓या᳓रण्यानां प᳓त᳓ये न᳓मः
 </details>

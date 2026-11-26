@@ -46,42 +46,41 @@ title = "०५ चौलम्"
 "यस्त्वा हृदेति" चतस्र इत्य् अष्टौ  
 प्रधानाहुतीर् जुहुयात् (५१ पुटं पश्यत)।  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/01_dhAtA_dadAtu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/03_dhAtA_dadAtu_no.md">
 <details open><summary><h2>०१ धाता ददातु ...{Loading}...</h2></summary>
 
-धा॒ता द॑दातु नो र॒यिम्  
-ईशा॑नो॒ जग॑त॒स्+++(!)+++पतिः॑ ।  
-स नः॑ पू॒र्णेन॑ वावनत् ।
+धाता᳓ ददातु नो रयि᳓मी᳓शानो ज᳓गतस्प᳓तिः ।  
+स᳓ नᳶ पूर्णे᳓न वावनत् ॥
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/02_dhAtA_prajAyA.md">
 <details open><summary><h2>०२ धाता प्रजाया ...{Loading}...</h2></summary>
 
-धा॒ता प्र॒जाया॑ उ॒त रा॒य ई॑शे +++(=ईष्टे)+++   
-धा॒तेदं विश्व॒म् भुव॑नं जजान ।   
-धा॒ता पु॒त्रं यज॑मानाय॒ दाता॑  
-तस्मा॑ उ ह॒व्यं घृ॒तव॑द् विधेम ।  
+धाता᳓ प्रजा᳓या उत᳓ राय᳓ **ईशे** +++(=ईष्टे)+++   
+धाते᳓दं᳓ वि᳓श्वम् भु᳓वनं **जजान** ।   
+धाता᳓ पुत्रं᳓ य᳓जमानाय दा᳓ता+++(→तृन्-स्वरः)+++  
+त᳓स्मा उ हव्यं᳓ घृत᳓वद् **विधेम** ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/03_dhAtA_dadAtu.md">
 <details open><summary><h2>०३ धाता ददातु ...{Loading}...</h2></summary>
 
-धा॒ता द॑दातु नो र॒यिम्  
-प्राचीं॑ जी॒वातु॒म् अक्षि॑ताम् ।  
-व॒यं दे॒वस्य॑ धीमहि  
-सुम॒तिँ स॒त्य-रा॑धसः+++(=धनस्य)+++ ।
+धाता᳓ **ददातु** नो रयि᳓म्  
+प्रा᳓चीं जीवा᳓तुम् अ᳓क्षिताम् ।  
+वयं᳓ देव᳓स्य **धीमहि**  
+सुमतिँ᳓ सत्य᳓-राधसः+++(=धनस्य)+++ ।
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/04_dhAtA_dadAtu.md">
 <details open><summary><h2>०४ धाता ददातु ...{Loading}...</h2></summary>
 
-धा॒ता द॑दातु दा॒शुषे॒ वसू॑नि  
-प्र॒जाका॑माय मी॒ढुषे॑ +++(=सेक्त्रे)+++ दुरो॒णे +++(=दारेषु)+++ ।  
-तस्मै॑ दे॒वा अ॒मृताः॒ सं व्य॑यन्तां॒ +++(=ददतु)+++  
-विश्वे॑ दे॒वासो॒ अदि॑तिः स॒जोषाः॑ ।
+धाता᳓ **ददातु** दाशु᳓षे व᳓सूनि  
+प्रजा᳓कामाय **मीढु᳓षे** +++(=सेक्त्रे)+++ दुरोणे᳓ +++(=दारेषु)+++ ।  
+त᳓स्मै देवा᳓ अमृ᳓ताः सं᳓ **व्ययन्तां** +++(=ददतु)+++  
+वि᳓श्वे देवा᳓सो अ᳓दितिः सजो᳓षाः ।
 
 </details>
 </div>
@@ -184,7 +183,8 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/01_uShNena_vAyavudakenehyaditiH.md">
 <details open><summary><h2>०१ उष्णेन वायवुदकेनेह्यदितिः ...{Loading}...</h2></summary>
 
-+++(उष्णा आपः शीतास्वानयति)+++ उ॒ष्णेन॑ वायवुद॒केनेह्य्, अदि॑तिः॒ केशान्॑ **वपतु** ।
++++(उष्णा आपः शीतास्वानयति)+++ उष्णे᳓न वायव् उदके᳓ने᳓ह्य्,  
+अ᳓दितिः के᳓शान् **वपतु** ।
 
 </details>
 </div>
@@ -194,9 +194,9 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/02_Apa_undantu.md">
 <details open><summary><h2>०२ आप उन्दन्तु ...{Loading}...</h2></summary>
 
-+++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आप॑ **उन्दन्तु** जी॒वसे॑  
-दीर्घायु॒त्वाय॒ वर्च॑से ।  
-ज्योक् च॒ सूर्यं॑ दृ॒शे ।
++++(शिरस उन्दनम् = आर्द्रीकरणम्)+++ आ᳓प **उन्दन्तु** जीव᳓से  
+दीर्घायुत्वा᳓य व᳓र्चसे ।  
+ज्यो᳓क् च सू᳓र्यं दृशे᳓ ।
 
 </details>
 </div>
@@ -218,8 +218,8 @@ title = "०५ चौलम्"
 
 +++(प्राच्यान्दिशि)+++ **ये᳓ना᳓वपत्** सविता᳓ क्षुरे᳓ण  
 सो᳓मस्य रा᳓ज्ञो व᳓रुणस्य विद्वा᳓न् ।  
-ते᳓न [[ब्रह्माणो|ब्रह्मा᳓णो]]! **वपतेद᳓म्** अस्या᳓-  
-ऽऽयुष्माञ् ज᳓रदष्टिर् [[य᳓था᳓|य᳓था]] **ऽसद्** अय᳓म्  
+ते᳓न ब्रह्माणो! **वपतेद᳓म्** अस्या᳓-  
+ऽऽयुष्माञ् ज᳓रदष्टिर् य᳓था᳓ **ऽसद्** अय᳓म्  
 असौ᳓ +++(←अत्रोहः)+++।
 
 </details>
@@ -233,10 +233,10 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/04_yena_pUShA.md">
 <details open><summary><h2>०४ येन पूषा ...{Loading}...</h2></summary>
 
-+++(दक्षिणतः)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
-तेना॒स्याऽऽयु॑षे **वप॒**  
-सौश्लो॑क्याय स्व॒स्तये॑ ।
++++(दक्षिणतः)+++ ये᳓न पूषा᳓ बृ᳓हस्प᳓तेर् अग्ने᳓र्  
+इ᳓न्द्रस्य चा᳓ऽऽयुषे᳓ **ऽवपत्** ।  
+ते᳓नास्या᳓ऽऽयुषे **वप**  
+सौ᳓श्लोक्याय स्वस्त᳓ये ।
 
 </details>
 </div>
@@ -253,10 +253,10 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/05_yena_bhUyashcharAtyayanjyokcha.md">
 <details open><summary><h2>०५ येन भूयश्चरात्ययञ्ज्योक्च ...{Loading}...</h2></summary>
 
-+++(पश्चात्)+++ येन॒ भूय॒श् **चरा॑त्य्** अ॒यञ्,  
-ज्योक् च॒ **पश्या॑ति॒** सूर्य॑म् ।  
-तेना॒स्याऽऽयु॑षे **वप॒**  
-सौश्लो॑क्याय स्व॒स्तये॑ ।
++++(पश्चात्)+++ ये᳓न भू᳓यश् **च᳓रात्य्** अय᳓ञ्,  
+ज्यो᳓क् च **प᳓श्याति** सू᳓र्यम् ।  
+ते᳓नास्या᳓ऽऽयुषे **वप**  
+सौ᳓श्लोक्याय स्वस्त᳓ये ।
 
 </details>
 </div>
@@ -266,10 +266,10 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/06_yena_pUShA.md">
 <details open><summary><h2>०६ येन पूषा ...{Loading}...</h2></summary>
 
-+++(उत्तरे)+++ येन॑ पू॒षा बृह॒स्पते॑र् अ॒ग्नेर्  
-इन्द्र॑स्य॒ चाऽऽयु॒षे **ऽव॑पत्** ।  
-तेन॑ ते **वपाम्य्** असा॒व्+++(←अत्रोहः)+++  
-आयु॑षा॒ वर्च॑सा॒ यथा॒ ज्योक् सु॒मना॒ **असाः॑** ।
++++(उत्तरे)+++ ये᳓न पूषा᳓ बृ᳓हस्प᳓तेर् अग्ने᳓र्  
+इ᳓न्द्रस्य चा᳓ऽऽयुषे᳓ **ऽवपत्** ।  
+ते᳓न ते **वपाम्य्** असाव्+++(←अत्रोहः)+++  
+आ᳓युषा व᳓र्चसा य᳓था ज्यो᳓क् सुम᳓ना **अ᳓साः** ।
 
 </details>
 </div>
@@ -321,10 +321,10 @@ title = "०५ चौलम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_01/08_uptvAya_keshAn.md">
 <details open><summary><h2>०८ उप्त्वाय केशान् ...{Loading}...</h2></summary>
 
-**उ॒प्त्वास्य॒** केशा॒न् वरु॑णस्य॒ राज्ञो॒,  
-बृह॒स्पति॑स् सवि॒ता सोमो॑ अ॒ग्निः ।  
-तेभ्यो॑ +++(=केशेभ्यः)+++ नि॒धानं॑ बहु॒धा **ऽन्व॑विन्दन्न्**  
-अन्त॒रा द्यावा॑पृथि॒वी अ॒पस् सुवः॑ ॥  
+**उप्त्वा᳓स्य** के᳓शान् व᳓रुणस्य रा᳓ज्ञो,  
+बृ᳓हस्प᳓तिस् सविता᳓ सो᳓मो अग्निः᳓ ।  
+ते᳓भ्यो +++(=केशेभ्यः)+++ निधा᳓नं बहुधा᳓ **ऽन्वविन्दन्न्**  
+अन्तरा᳓ द्या᳓वापृथिवी᳓ अप᳓स् सु᳓वः ॥  
 
 </details>
 </div>

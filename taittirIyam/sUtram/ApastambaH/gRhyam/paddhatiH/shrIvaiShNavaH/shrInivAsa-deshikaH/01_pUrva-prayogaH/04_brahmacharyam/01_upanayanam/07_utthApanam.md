@@ -104,7 +104,7 @@ title = "०७ उत्थापनम्"
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/devasya_tvA_savituH__pratigRhNAmi.md">
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम् आरण्यके)</summary>
@@ -115,7 +115,7 @@ title = "०७ उत्थापनम्"
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
@@ -213,7 +213,7 @@ may Varuṇa, the king carry you to the fire as gold;
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/tenAmRtatvam_ashyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते᳓नामृतत्व᳓मश्याम् ।  
@@ -263,12 +263,12 @@ Who gave it whom? Kāma (desire or cupid) gave it for Kāma;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- कः᳓ (*TS*-36/158, *RV*-155/375, *TB*-5/38, *AV*-95/215, *SB-M*-16/290, *SB-K*-104/850, *VS-M*-8/51, *VS-K*-16/72)
-- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
-- क᳓स्मै (*TS*-22/158, *RV*-13/375, *TB*-3/38, *TK*-1/4, *AV*-10/215, *SB-M*-10/290, *SB-K*-15/850, *VS-M*-17/51, *VS-K*-16/72)
-- अदात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-10, *SB-K*-12)
-- का᳓मः (*TS*-7/53, *RV*-14/75, *TB*-5/33, *AV*-16/64, *SB-M*-29/128, *SB-K*-66/349, *VS-M*-4/12, *VS-K*-5/17)
-- का᳓माय (*TS*-10/53, *RV*-3/75, *TB*-5/33, *TK*-16/29, *AV*-5/64, *SB-M*-40/128, *SB-K*-82/349, *VS-M*-4/12, *VS-K*-4/17)
+- कः᳓ (*TS*-36/158, *RV*-155/375, *TB*-5/38, *AV*-95/215, *SB-M*-16/290, *SB-K*-104/850, *VS-M*-8/51, *VS-K*-16/72, *KS*-15/42, *MS*-38/183)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
+- क᳓स्मै (*TS*-22/158, *RV*-13/375, *TB*-3/38, *TK*-1/4, *AV*-10/215, *SB-M*-10/290, *SB-K*-15/850, *VS-M*-17/51, *VS-K*-16/72, *KS*-11/42, *MS*-20/183)
+- अदात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-10, *SB-K*-12, *KS*-3, *MS*-11)
+- का᳓मः (*TS*-7/53, *RV*-14/75, *TB*-5/33, *AV*-16/64, *SB-M*-29/128, *SB-K*-66/349, *VS-M*-4/12, *VS-K*-5/17, *KS*-11/41, *MS*-17/76)
+- का᳓माय (*TS*-10/53, *RV*-3/75, *TB*-5/33, *TK*-16/29, *AV*-5/64, *SB-M*-40/128, *SB-K*-82/349, *VS-M*-4/12, *VS-K*-4/17, *KS*-10/41, *MS*-14/76)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -373,11 +373,11 @@ may Uttāna Āṅgirasa obtain you (5).
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- उत्तानः᳓ (*TS*-1/10, *RV*-2/9, *TB*-2/4, *AV*-0/4, *SB-M*-0/1, *SB-K*-1/19, *VS-K*-0/1)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-538, *SB-K*-675, *VS-K*-525)
+- उत्तानः᳓ (*TS*-1/10, *RV*-2/9, *TB*-2/4, *AV*-0/4, *SB-M*-0/1, *SB-K*-1/19, *VS-K*-0/1, *KS*-0/2, *MS*-3/8)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-538, *SB-K*-675, *VS-K*-525, *KS*-326, *MS*-812)
 - आङ्गीरसः᳓ (*TB*-2/4, प्रातिपदिकम् आङ्गीरस᳓ (*MW*))
-- प्र᳓ति (*TS*-334, *RV*-247, *TB*-29, *TK*-5, *SB-K*-530, *VS-K*-25)
-- गृह्णातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-1, *SB-K*-3)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-29, *TK*-5, *SB-K*-530, *VS-K*-25, *KS*-58, *MS*-265)
+- गृह्णातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-1, *SB-K*-3, *MS*-3)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

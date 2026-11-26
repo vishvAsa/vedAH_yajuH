@@ -480,6 +480,12 @@ yāta ← √yā- 1 (root)
 अ॒स्य मध्वᳶ॑ पिबत मा॒दय॑ध्वन्तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वाजे वाजे ऽवत वाजिनो नो धनेषु विप्रा अमृता ऋॄतज्ञाः।  
+अस्य मध्वः पिबत मादयध्वं तृप्ता यात पथिभिर्देवयानैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वाजे॑ऽवाजे । अ॒व॒त॒ । वा॒जि॒नः॒ । नः॒ । धने॑षु । वि॒प्राः॒ । अ॒मृ॒ताः॒ । ऋ॒त॒ऽज्ञाः॒ ।  
@@ -501,6 +507,27 @@ yāta ← √yā- 1 (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ । अ॒व॒त॒ । वा॒जि॒नः॒ । नः॒ । धने॑षु । वि॒प्राः॒ । अ॒मृ॒ताः॒ । ऋ॒त॒ज्ञा॒ इत्यृ॑त-ज्ञाः॒ ॥ अ॒स्य । मध्वः॑ । पि॒ब॒त॒ । मा॒दय॑ध्वम् । तृ॒प्ताः । या॒त॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । दे॒व॒यानै॒रिति॑ देव-यानैः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वा᳓जे (*MS*-1/115, *TS*-1/92, *RV*-14/350, *TB*-0/35, *TK*-0/1, *AV*-5/49, *SB-M*-2/73, *SB-K*-0/71, *VS-M*-2/71, *VS-K*-4/73)
+- वा᳓जे (*MS*-1/115, *TS*-1/92, *RV*-14/350, *TB*-0/35, *TK*-0/1, *AV*-5/49, *SB-M*-2/73, *SB-K*-0/71, *VS-M*-2/71, *VS-K*-4/73)
+- अवत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *RV*-10, *TB*-3, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-10, *VS-K*-9, *MS*-4)
+- वाजिनः (समानान्तर-पाठः (TS), *MS*-3, *TS*-3, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ध᳓नेषु (*MS*-1/12, *TS*-2/10, *RV*-2/89, *TB*-0/4, *TK*-0/1, *AV*-0/47, *SB-M*-1/8, *SB-K*-1/9, *VS-M*-4/10, *VS-K*-2/8)
+- विप्राः (समानान्तर-पाठः (TS), *TS*-2, *RV*-3, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2, *MS*-1)
+- अमृताः (समानान्तर-पाठः (TS), *TS*-2, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2, *MS*-1)
+- ऋ᳓ॄतज्ञाः (अनाम्नातम् (अनुमानम्))
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- म᳓ध्वः (*MS*-4/5, *TS*-4, *RV*-88, *TB*-2, *AV*-11, *SB-M*-2, *SB-K*-1, *VS-M*-8, *VS-K*-5)
+- पिबत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-5, *RV*-7, *TB*-1, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-7, *VS-K*-5)
+- माद᳓यध्वम् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-2, *RV*-3, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-3)
+- तृप्ता᳓ (*MS*-2, *TS*-2, *RV*-1, *TB*-2, *SB-M*-3, *SB-K*-12, *VS-M*-4, *VS-K*-2)
+- यात (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-6, *RV*-14, *TB*-3, *AV*-8, *SB-M*-3, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- पथि᳓भिः (*MS*-8/60, *TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-14/38, *VS-K*-11/35)
+- देव-या᳓नैः (*MS*-2/13, *TS*-4/23, *RV*-6/13, *TB*-2/8, *AV*-6/18, *SB-M*-2/8, *SB-K*-2/9, *VS-M*-6/11, *VS-K*-3/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -800,7 +827,7 @@ Help us to every prize, o prizewinners, when the stakes (are set), you  truth-kn
 Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along the paths that lead to the gods.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -830,6 +857,12 @@ Deep-skilled in Law eternal, deathless, Singers, O Vajins, help us in each fray 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Deep-skilled in Law, etc., as in IX. 18.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In every contest help us, O swift ones, in the acquisition of wealth, O wise ones, immortal, knowers of the truth;  
+drink of this honey, revel; satisfied, go by the paths traveled by the gods!
 </details>
 
 <details><summary>Geldner</summary>
@@ -1093,7 +1126,13 @@ Displaying his strength Dadhikra
 Springeth along the bends of the ways.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This swift one hastens forward at the whip, bound on his neck, at his flank, and at his mouth;  
+following the design, Dadhikrā, striving to win, bounds following the bends of the paths!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ए॒ष स्य वा॒जी क्षि॑प॒णिन्तु॑रण्यति   
 ग्री॒वाया॑म्ब॒द्धो अ॑पिक॒क्ष आ॒सनि॑ ।  
@@ -1101,9 +1140,36 @@ Springeth along the bends of the ways.
 प॒थामङ्काँ॒स्यन्वा॒पनी॑फणत्  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+एष स्य वाजी क्षिपणिं तुरण्यति ग्रीवासु बद्धो अपिकक्ष आसनि।  
+क्रतुं दधिक्रा अनुसँसनिष्यदत्पथामङ्काँस्यन्वापनीफणत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒षः । स्यः । वा॒जी । क्षि॒प॒णिम् । तु॒र॒ण्य॒ति॒ । ग्री॒वाया॑म् । ब॒द्धः । अ॒पि॒क॒क्ष इत्य॑पि-क॒क्षे । आ॒सनि॑ ॥ क्रतु॑म् । द॒धि॒क्रा इति॑ दधि-क्राः । अन्विति॑ । स॒न्तवी॑त्व॒दिति॑ सम्-तवी॑त्वत् । प॒थाम् । अङ्काँ॑सि । अन्विति॑ । आ॒पनी॑फण॒दित्या॑-पनी॑फणत् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एषः᳓ (*MS*-571/2587, *TS*-392/1673, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *SB-K*-1981/10669, *VS-M*-71/129, *VS-K*-51/104)
+- स्य᳓ (*MS*-2, *TS*-3, *RV*-1, *TB*-1, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-4, *VS-K*-5)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- क्षिपणि᳓म् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- तुरण्यति (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- ग्रीवा᳓सु (*MS*-1/8, *TS*-1/17, *RV*-0/3, *TB*-0/1, *AV*-1/11, *SB-M*-2/25, *SB-K*-2/26, *VS-M*-1/6, *VS-K*-1/8)
+- बद्धः᳓ (*MS*-4/9, *TS*-4/7, *RV*-6/10, *TB*-0/3, *AV*-1, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-2, *VS-K*-2)
+- अपि-कक्षे᳓ (*TS*-1, *RV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- आस᳓नि (*MS*-2, *TS*-3/4, *RV*-7/40, *TB*-1/2, *AV*-2/8, *SB-M*-1/6, *SB-K*-1/59, *VS-M*-2, *VS-K*-2)
+- क्र᳓तुम् (*MS*-8/23, *TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-7/19, *VS-K*-7/22)
+- दधि-क्राः᳓ (*MS*-0/1, *TS*-2, *RV*-4/12, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- संस᳓निष्यदत् (*MS*-1, *SB-M*-1, *VS-M*-1)
+- पथा᳓म् (*MS*-3/60, *TS*-3/72, *RV*-4/149, *TB*-1/22, *AV*-4/76, *SB-M*-1/46, *SB-K*-2/52, *VS-M*-2/38, *VS-K*-2/35)
+- अ᳓ङ्कांसि (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *MS*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- आ-प᳓नीफणत् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1116,6 +1182,13 @@ Springeth along the bends of the ways.
 **दधिक्राः** धारकान् पर्वतादीन् क्रामन् दूरस्थान् अपि सहसावक्रामन्निति यावत् । पर्वतादीन् माक्षि वा । 'जनसन' इत्यादिना विट्, 'विड्वनोरनुनासिकस्यात्' इत्यात्वम् ।  
 
  पुनश्च विशेष्यते - **पथां** मार्गाणां **अङ्कांसि** लक्ष्मस्थानीयानि कुटिलानि निम्नोन्नतत्वादीनि वा । अकि लक्षणे, असुन् । **अन्वापनीफणत्** अनुक्रमेण ऋजुत्वं समत्वं च पथाम् आपादयन् । दाधर्त्यादौ निपात्यते, पूर्ववत्स्वरः । एवं कुर्वन् तुरण्यति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_7]** Ch क्रतुर्द°; cf. TS 1, 7, 8, 3.
+
+- **[195_8]** Ch पणीफणत्
 </details>
 </details>
 
@@ -1231,10 +1304,39 @@ táritrataḥ ← √tr̥̄- 1 (root)
 श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उत स्मास्य द्रवतस्तुरण्यतः पर्णं न वेरनुवाति प्रगर्धिनः।  
+श्येनस्येव द्रवतो अङ्कसं परि दधिक्राव्णस्सहोर्जा तरित्रतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒त । स्म॒ । अ॒स्य॒ । द्रव॑तः । तु॒र॒ण्य॒तः । प॒र्णम् । न । वेः । अनु॑ । वा॒ति॒ । प्र॒ऽग॒र्धिनः॑ ।  
 श्ये॒नस्य॑ऽइव । ध्रज॑तः । अ॒ङ्क॒सम् । परि॑ । द॒धि॒ऽक्राव्णः॑ । स॒ह । ऊ॒र्जा । तरि॑त्रतः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- स्म (अनुदात्तम्, पा॰ ८.१.१८, *MS*-27, *TS*-14, *RV*-108, *TB*-4, *TK*-4, *AV*-23, *SB-M*-134, *SB-K*-129, *VS-M*-5, *VS-K*-3)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- द्र᳓वतः (*MS*-2/4, *TS*-1, *RV*-2/3, *TB*-0/2, *TK*-0/1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1/2)
+- तुरण्यतः᳓ (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पर्ण᳓म् (*MS*-4/16, *TS*-3/12, *RV*-3/6, *TB*-4/14, *AV*-1/6, *SB-M*-5/15, *SB-K*-4/12, *VS-M*-1/4, *VS-K*-1/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वेः᳓ (*MS*-6/597, *TS*-3/427, *RV*-24/1109, *TB*-0/240, *TK*-0/7, *AV*-1/487, *SB-M*-3/656, *SB-K*-3/704, *VS-M*-4/216, *VS-K*-2/182)
+- अ᳓नु-वाति (*MS*-1, *VS-K*-1)
+- प्र-गर्धि᳓नः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श्येन᳓स्य (*MS*-3/18, *TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- द्र᳓वतः (*MS*-2/4, *TS*-1, *RV*-2/3, *TB*-0/2, *TK*-0/1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1/2)
+- अङ्कस᳓म् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- दधि-क्रा᳓व्णः (*MS*-5/7, *RV*-6, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- सह᳓ (*Whitney*, *MS*-105, *TS*-97, *RV*-59, *TB*-40, *AV*-134, *SB-M*-170, *SB-K*-159, *VS-M*-32, *VS-K*-32)
+- ऊर्जा᳓ (*MS*-32/63, *TS*-30/42, *RV*-6/22, *TB*-5/13, *AV*-2/19, *SB-M*-24/44, *SB-K*-23/40, *VS-M*-8/24, *VS-K*-11/25)
+- त᳓रित्रतः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1378,6 +1480,21 @@ _________
 श्येनस्येव **वेः** पक्षिणः **ध्राजतो** गच्छतः । ध्रज गतौ । **पर्णं न** पत्रमिव पत्रार्थं प्रगर्धिनः आमिषार्थिनः । अनेकेवशब्दाद्वाक्यार्थोपमा भवतीति द्वयोर् उपमार्थीययोर् उपादानम् । अश्वो विश्ष्यते - **दधिक्राव्णः** व्याख्यातः । **ऊर्जा** बलेन सह **तरित्रतः** भृशं तरतः । यद्वा - ऊर्जा अन्नेन आमिषादिना सह तरतः **श्येनस्येव** । वेगवत्त्वातिशय-प्रदर्शनार्थं चेदम् । तरतेर् यङ्लुगन्तस्य तत्रैव निपात्यते, 'शतुरनुमः' इत्येतद्बाधित्वा परत्वात् 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वं भवति । 'सावेकाचः' इत्यूर्जस्तृतीयाया उदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_9]** So corr. Ch द्रवतस्भुर°; D द्रवभस्तुर° (Thus emended; Ch reads द्रवतस्भुर°; D reads द्रवभस्तुर°)
+
+- **[195_10]** So corr. Ch प्रगधिनः; D प्रगविनः; (Thus emended Ch प्रगधिनः; D प्रगविनः;)
+
+- **[195_11]** Mss. अङ्कसस्परि (Mss. read अङ्कसस्परि)
+
+**टिप्पणी (अनङ्किता 9)**
+
+- **9.** So Ch; D भवति ; cf. RV 1, 23, 19 भवत (Thus Ch; D भवति; cf. RV 1, 23, 19 भवत)
+
+**समानान्तराणि:** cf. Mâitr. S. 1, 11, 1. 2.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1397,12 +1514,15 @@ And (the wind) fans up his “feathers” [=mane], like the feathers of a bird  
 while he swoops like a falcon around the curving (racecourse), while he  keeps advancing with his vigor—Dadhikrāvan.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
 
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
 
 There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt u vat, 4d āpaniphaṇat -- appropriate to the ever-increasing speed and the intense repetitive movements of the horse racing to the finish line.
+</details>
 
 </details>
 </div>
@@ -1419,6 +1539,12 @@ After him as he hasteneth in triumphant speed
 Bloweth the wind as after the wing of the bird,  
 Of the impetuous eagle, (after him) Dadhikravan,  
 As in his might he crosseth the winding ways.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And indeed, as he runs, hastening, greedy, it blows after him like the wing of a bird;  
+around the curve of the running courser Dadhikrāvan, speeding with might like a falcon!
 </details>
 
 <details><summary>Geldner</summary>
@@ -1520,15 +1646,50 @@ Come to me father [3] and mother;
 May Soma come to me for immortality.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the impulse of vigor come to me; may Heaven and Earth, multiform, come to me!  
+May the parents, father and mother, come to me; may Soma come to me with immortality!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ मा॒ वाज॑स्य प्रस॒वो ज॑गम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।  
 आ मा॑ गन्ताम्पि॒तरा॑ [36] मा॒तरा॒ चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात्  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ मा वा᳓जस्य प्रसवो᳓ जगम्यादा᳓ मा द्या᳓वापृथिवी᳓ विश्व᳓रूपे।  
+आ᳓ मा गन्तां पित᳓रा मात᳓रा चा᳓ मा सो᳓मो अमृतत्वे᳓न गम्यात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 एति॑ । मा॒ । वाज॑स्य । प्र॒स॒व इति॑ प्र-स॒वः । ज॒ग॒म्या॒त् । एति॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । वि॒श्वश॑म्भू॒ इति॑ वि॒श्व-श॒म्भू॒ ॥ एति॑ । मा॒ । ग॒न्ता॒म् । पि॒तरा॑ । मा॒तरा॑ । च॒ । एति॑ । मा॒ । सोमः॑ । अ॒मृ॒त॒त्वायेत्य॑मृत-त्वाय॑ । ग॒म्या॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- वा᳓जस्य (*MS*-26/115, *TS*-21/92, *RV*-32/350, *TB*-5/35, *TK*-0/1, *AV*-5/49, *SB-M*-17/73, *SB-K*-15/71, *VS-M*-16/71, *VS-K*-17/73)
+- प्र-सवः᳓ (*MS*-11/63, *TS*-9/42, *RV*-2/16, *TB*-8/19, *AV*-0/6, *SB-M*-11/52, *SB-K*-8/52, *VS-M*-5/34, *VS-K*-5/35)
+- जगम्यात् (*MS*-2, *TS*-1, *RV*-11, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- द्या᳓वा-पृथिवी᳓ (*MS*-61/70, *TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37)
+- विश्व᳓-रूपे (*MS*-0/15, *TS*-0/11, *RV*-0/20, *TB*-1/5, *TK*-0/1, *AV*-0/44, *SB-M*-1/16, *SB-K*-1/17, *VS-M*-1/8, *VS-K*-1/9)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- गन्ताम् (*TS*-1, *SB-M*-1, *VS-M*-1)
+- पित᳓रा (*MS*-1/68, *TS*-4/49, *RV*-18/93, *TB*-1/54, *TK*-0/1, *AV*-2/84, *SB-M*-3/123, *SB-K*-3/120, *VS-M*-1/32, *VS-K*-1/30)
+- मात᳓रा (*MS*-1/21, *TS*-1/15, *RV*-30/80, *TB*-0/6, *AV*-2/27, *SB-M*-3/21, *SB-K*-2/21, *VS-M*-3/15, *VS-K*-5/21)
+- चाः᳓ (*Macdonell*)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- अमृत-त्वे᳓न (*MS*-1/13, *TS*-0/2, *RV*-0/26, *TB*-0/4, *AV*-0/7, *SB-M*-4/27, *SB-K*-3/26, *VS-M*-1/8, *VS-K*-0/5)
+- गम्यात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-7, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1537,6 +1698,11 @@ May Soma come to me for immortality.
 
 किञ्च - पितरा मातरा च पिता माता च मामागच्छेताम् । लेटि शपो लुक्, 'पितरा मातरा च छन्दसि' इति निपात्यते । यद्वा - उभयत्रापि 'सुपां सुलुक्', इति सोराकारः ।   
 किञ्च - सोमश्च मामृतत्वाय अमरणत्वाय गम्यादागच्छेत् । लिङि शपो लुक् । आशिषि लिङ्वा ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[199_6]** D गन्तं
 </details>
 </details>
 

@@ -71,7 +71,7 @@ Ye are active,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -84,7 +84,7 @@ Ye are active,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -96,6 +96,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -116,6 +128,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -129,6 +153,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -355,7 +419,7 @@ Ye are active,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -368,7 +432,7 @@ Ye are active,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -380,6 +444,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -400,6 +476,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -413,6 +501,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -652,7 +780,7 @@ thou art the lord of the waters,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -665,7 +793,7 @@ thou art the lord of the waters,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -677,6 +805,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -697,6 +837,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -710,6 +862,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -935,7 +1127,7 @@ thou art the lord of the waters,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -948,7 +1140,7 @@ thou art the lord of the waters,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -960,6 +1152,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -980,6 +1184,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -993,6 +1209,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1234,7 +1490,7 @@ thou art the male wave,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1247,7 +1503,7 @@ thou art the male wave,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -1259,6 +1515,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1279,6 +1547,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -1292,6 +1572,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1517,7 +1837,7 @@ thou art the male wave,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1530,7 +1850,7 @@ thou art the male wave,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -1542,6 +1862,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1562,6 +1894,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -1575,6 +1919,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1814,7 +2198,7 @@ thou art the male host,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1827,7 +2211,7 @@ thou art the male host,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -1839,6 +2223,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1859,6 +2255,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -1872,6 +2280,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2097,7 +2545,7 @@ thou art the male host,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2110,7 +2558,7 @@ thou art the male host,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -2122,6 +2570,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -2142,6 +2602,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -2155,6 +2627,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2394,7 +2906,7 @@ ye are the pen-dwellers,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2407,7 +2919,7 @@ ye are the pen-dwellers,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -2419,6 +2931,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -2439,6 +2963,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -2452,6 +2988,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2677,7 +3253,7 @@ ye are the pen-dwellers,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2690,7 +3266,7 @@ ye are the pen-dwellers,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -2702,6 +3278,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -2722,6 +3310,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -2735,6 +3335,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -2974,7 +3614,7 @@ ye are the strength of the Maruts,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2987,7 +3627,7 @@ ye are the strength of the Maruts,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -2999,6 +3639,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -3019,6 +3671,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -3032,6 +3696,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -3257,7 +3961,7 @@ ye are the strength of the Maruts,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3270,7 +3974,7 @@ ye are the strength of the Maruts,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -3282,6 +3986,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -3302,6 +4018,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -3315,6 +4043,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -3554,7 +4322,7 @@ ye have the radiance of the sun,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3567,7 +4335,7 @@ ye have the radiance of the sun,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -3579,6 +4347,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -3599,6 +4379,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -3612,6 +4404,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -3837,7 +4669,7 @@ ye have the radiance of the sun,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -3850,7 +4682,7 @@ ye have the radiance of the sun,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -3862,6 +4694,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -3882,6 +4726,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -3895,6 +4751,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -4134,7 +5030,7 @@ ye have the brightness of the sun,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4147,7 +5043,7 @@ ye have the brightness of the sun,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -4159,6 +5055,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -4179,6 +5087,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -4192,6 +5112,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -4417,7 +5377,7 @@ ye have the brightness of the sun,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4430,7 +5390,7 @@ ye have the brightness of the sun,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -4442,6 +5402,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -4462,6 +5434,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -4475,6 +5459,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -4714,7 +5738,7 @@ ye are delightful,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -4727,7 +5751,7 @@ ye are delightful,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -4739,6 +5763,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -4759,6 +5795,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -4772,6 +5820,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -4997,7 +6085,7 @@ ye are delightful,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5010,7 +6098,7 @@ ye are delightful,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -5022,6 +6110,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -5042,6 +6142,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -5055,6 +6167,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -5294,7 +6446,7 @@ ye are obedient,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5307,7 +6459,7 @@ ye are obedient,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -5319,6 +6471,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -5339,6 +6503,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -5352,6 +6528,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -5577,7 +6793,7 @@ ye are obedient,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5590,7 +6806,7 @@ ye are obedient,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -5602,6 +6818,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -5622,6 +6850,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -5635,6 +6875,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -5874,7 +7154,7 @@ ye are powerful,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -5887,7 +7167,7 @@ ye are powerful,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -5899,6 +7179,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -5919,6 +7211,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -5932,6 +7236,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -6157,7 +7501,7 @@ ye are powerful,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6170,7 +7514,7 @@ ye are powerful,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -6182,6 +7526,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -6202,6 +7558,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -6215,6 +7583,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -6454,7 +7862,7 @@ ye are all supporters,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6467,7 +7875,7 @@ ye are all supporters,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -6479,6 +7887,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -6499,6 +7919,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -6512,6 +7944,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -6737,7 +8209,7 @@ ye are all supporters,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -6750,7 +8222,7 @@ ye are all supporters,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -6762,6 +8234,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -6782,6 +8266,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -6795,6 +8291,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -7034,7 +8570,7 @@ ye are supporters of men,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -7047,7 +8583,7 @@ ye are supporters of men,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -7059,6 +8595,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -7079,6 +8627,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -7092,6 +8652,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -7317,7 +8917,7 @@ ye are supporters of men,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -7330,7 +8930,7 @@ ye are supporters of men,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -7342,6 +8942,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -7362,6 +8974,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -7375,6 +8999,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -7614,7 +9278,7 @@ ye have the brilliance of Agni,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -7627,7 +9291,7 @@ ye have the brilliance of Agni,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -7639,6 +9303,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -7659,6 +9335,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -7672,6 +9360,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -7897,7 +9625,7 @@ ye have the brilliance of Agni,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -7910,7 +9638,7 @@ ye have the brilliance of Agni,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -7922,6 +9650,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -7942,6 +9682,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -7955,6 +9707,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -8196,7 +9988,7 @@ ye are the sap of the waters, of the plants.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -8209,7 +10001,7 @@ ye are the sap of the waters, of the plants.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -8221,6 +10013,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -8241,6 +10045,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -8254,6 +10070,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -8478,7 +10334,7 @@ ye are the sap of the waters, of the plants.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -8491,7 +10347,7 @@ ye are the sap of the waters, of the plants.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -8503,6 +10359,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -8523,6 +10391,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -8536,6 +10416,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -8761,7 +10681,7 @@ ye are the sap of the waters, of the plants.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/rAShTradAH_amuShmai.md">
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/11_abhiShekArthajalagrahaNAdi/Apo_devIr_madhumatIH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -8774,7 +10694,7 @@ ye are the sap of the waters, of the plants.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/10/01_apo_devA.md">
 <details><summary>Griffith</summary>
 
 THE Gods drew waters with their store of sweetness, succulent and observant, king-creating, Wherewith they sprinkled Varuna and Mitra, wherewith they guided Indra past his foemen.
@@ -8786,6 +10706,18 @@ They have taken the waters, divine,
 Rich in sweetness, full of strength, caring for the royal consecration;  
 Whereby they anointed Mitra and Varuna,  
 Whereby they led Indra beyond his foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'I have taken the divine waters rich in honey, full of nourishment, the recognized rājasūya [waters],  
+with which they anointed Mitra and Varuṇa, with which they led Indra past his enemies.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'I have taken the divine waters rich in sweetness, full of strength, attentive to the royal consecration (rājasūya),  
+with which they sprinkled Mitra and Varuṇa, with which they led Indra across his foes.'
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -8806,6 +10738,18 @@ Whereby they led Indra beyond his foes.
 याभि॑र्मि॒त्रावरु॑णाव॒भ्यषि॑ञ्च॒न् याभि॒रिन्द्र॒मन॑य॒न्नत्यरा॑तीः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ देवी᳓र् म᳓धुमतीर् अगृभ्णाम् ऊ᳓र्जस्वती राजसू᳓याश् चि᳓तानाः  
+या᳓भिर् मित्रा᳓व᳓रुणा अभ्य᳓षिञ्चँस् ता᳓भिर् इ᳓न्द्रम् अनयन्न् अ᳓त्य् अ᳓रातीः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो देवीर्मधुमतीरगृभ्णामूर्जस्वती राजसूयाश्चितानाः।  
+याभिर्मित्रावरुणा अभ्यषिञ्चन्याभिरिन्द्रमनयन्नत्यरातीः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अ॒पः। दे॒वाः। मधु॑मती॒रिति॒ मधु॑ऽमतीः। अ॒गृ॒भ्ण॒न्। ऊर्ज॑स्वतीः। राज॒स्व᳙ इति॑ राज॒ऽस्वः᳖। चिता॑नाः। याभिः॑। मि॒त्रावरु॑णौ। अ॒भि। असि॑ञ्चन्। याभिः॑। इन्द्र॑म्। अन॑यन्। अति॑। अरा॑तीः। १।
@@ -8819,6 +10763,46 @@ Whereby they led Indra beyond his foes.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒पः । दे॒वीः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । अ॒गृ॒ह्ण॒न् । ऊर्ज॑स्वतीः । रा॒ज॒सूया॒येति॑ राज-सूया॑य । चिता॑नाः ॥ याभिः॑ । मि॒त्रावरु॑णा॒विति॑ मि॒त्रा-वरु॑णौ । अ॒भ्यषि॑ञ्च॒न्नित्य॑भि-असि॑ञ्चन् । याभिः॑ । इन्द्र॑म् । अन॑यन् । अतीति॑ । अरा॑तीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- देवीः᳓ (*TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-23/63, *KS*-5/14)
+- म᳓धुमतीः (*TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12, *KS*-2/4)
+- अगृभ्णाम् (मूल-पाठः)
+- ऊ᳓र्जस्वती (*TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2, *KS*-0/3)
+- राज-सू᳓याः (*TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12, *KS*-0/1)
+- चि᳓तानाः (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*TS*-7/3383, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/639, *VS-K*-4/581, *KS*-3/818)
+- मित्रा᳓-व᳓रुणै (*KS*-2, मूल-पाठः)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- अनयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *TB*-4, *AV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- अ᳓रातीः (*TS*-9/26, *RV*-18/44, *TB*-2/9, *TK*-1/2, *AV*-4/37, *SB-M*-7/15, *SB-K*-6/15, *VS-M*-6/18, *VS-K*-3/12, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- म᳓धुमतीः (*MS*-12/13, *TS*-11/15, *RV*-3/6, *TB*-3/6, *AV*-6/13, *SB-M*-7/14, *SB-K*-6/12, *VS-M*-6/10, *VS-K*-4/12)
+- अगृभ्णाः (*RV*-1)
+- अमू᳓ (*MS*-3/236, *TS*-9/211, *RV*-5/51, *TB*-2/91, *TK*-1/14, *AV*-1/188, *SB-M*-1/648, *SB-K*-3/658, *VS-M*-2/43, *VS-K*-1/34)
+- ऊ᳓र्जस्वती (*MS*-2/7, *TS*-1/7, *RV*-1, *TB*-2/3, *AV*-3, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-2/3, *VS-K*-2)
+- राज-सू᳓याः (*MW*, *MS*-3/5, *TS*-0/6, *TB*-0/6, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/12)
+- चि᳓तानाः (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- मि᳓त्रा-वरुणै (*AV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓षिञ्चन् (*SB-M*-1, *SB-K*-1, *MS*-1)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अ᳓नयन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- अ᳓त्यरातीः (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>उवट-टीका</summary>

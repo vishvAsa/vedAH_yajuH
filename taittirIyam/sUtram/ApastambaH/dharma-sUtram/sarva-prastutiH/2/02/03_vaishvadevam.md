@@ -16,9 +16,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-1. Pure men of the first three castes shall prepare the food (of a householder which is used) at the Vaiśvadeva ceremony. [^1] 
+1. Pure men of the first three castes shall prepare the food (of a householder which is used) at the Vaiśvadeva ceremony. [1] 
 
-[^1]:  3. 'The food which is used at the Vaiśvadeva, i. e. the food prepared for the meals of the householder and of his wife.'--Haradatta.
+
+[1]:  3. 'The food which is used at the Vaiśvadeva, i. e. the food prepared for the meals of the householder and of his wife.'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -134,9 +135,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-5. For them is prescribed the same rule of sipping water (as for their masters). [^2] 
+5. For them is prescribed the same rule of sipping water (as for their masters). [2] 
 
-[^2]:  This Sūtra is a Jñāpaka, as it indicates that Āpastamba also recognises the different rules which are usually prescribed in the Smṛtis for Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras. See above, I, 5, 16, 2.
+
+[2]:  This Sūtra is a Jñāpaka, as it indicates that Āpastamba also recognises the different rules which are usually prescribed in the Smṛtis for Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras. See above, I, 5, 16, 2.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -194,9 +196,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-7. And they shall bathe, keeping their clothes on. [^3] 
+7. And they shall bathe, keeping their clothes on. [3] 
 
-[^3]:  Usually in bathing both Āryas and Śūdras wear no dress except the langoṭī.
+
+[3]:  Usually in bathing both Āryas and Śūdras wear no dress except the langoṭī.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -206,9 +209,9 @@ title = "०३ वैश्वदेवम्"
 
 **टीका**  
 सहैव वाससा स्नानं कुर्युः। आर्याणां तु परिहितं वासो निधाय कौ पीनाच्छादनमात्रेणाऽपि स्नानं भवति । शुद्राणामपि पाकादन्यत्र । तथा च मनुः —  
-[^१] न वासोभिस्सहाऽजस्रं नाऽविज्ञाते जलाशये।' इति ॥ ७॥  
+[१] न वासोभिस्सहाऽजस्रं नाऽविज्ञाते जलाशये।' इति ॥ ७॥  
 
-[^१]: म० स्मृ० ४. १२९
+[१]: म० स्मृ० ४. १२९
 </details>
 </details>
 
@@ -315,9 +318,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-11. The answer (of the master) shall be, 'That well-prepared food is the means to obtain splendour; may it never fail!' [^4] 
+11. The answer (of the master) shall be, 'That well-prepared food is the means to obtain splendour; may it never fail!' [4] 
 
-[^4]:  Manu II, 54.
+
+[4]:  Manu II, 54.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -346,9 +350,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-12. The burnt-oblations and Bali-offerings made with the food which the husband and his wife are to eat, bring (as their reward) prosperity, (and the enjoyment of) heaven. [^5] 
+12. The burnt-oblations and Bali-offerings made with the food which the husband and his wife are to eat, bring (as their reward) prosperity, (and the enjoyment of) heaven. [5] 
 
-[^5]:  Balis are portions of food which are thrown before the door, or on the floor of the house. See below, Sūtra 16 seq.
+
+[5]:  Balis are portions of food which are thrown before the door, or on the floor of the house. See below, Sūtra 16 seq.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -358,6 +363,7 @@ title = "०३ वैश्वदेवम्"
 
 **टीका**  
 गृहमेधिनो यदशनीयं पक्वमपक्वं वा उपस्थितं तस्यैकदेशेन होमा बलयश्च वक्ष्यमाणाः कर्तव्याः । स्वर्गः पुष्टिश्च तेषां फलमिति ॥ १२ ॥  
+
 
 शनीयस्य होमा बलयश्च स्वर्गपुष्टिसंयुक्ताः १२
 </details>
@@ -379,9 +385,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-13. Whilst learning the sacred formulas (to be recited during the performance) of those (burnt oblations and Bali-offerings, a householder) shall sleep on the ground, abstain from connubial intercourse and from eating pungent condiments and salt, during twelve days. [^6] 
+13. Whilst learning the sacred formulas (to be recited during the performance) of those (burnt oblations and Bali-offerings, a householder) shall sleep on the ground, abstain from connubial intercourse and from eating pungent condiments and salt, during twelve days. [6] 
 
-[^6]:  Others explain this Sūtra thus: 'After having used for the first time these sacred formulas (which are to be recited in offering the burnt-oblation and the Balis, the householder and his wife) shall sleep,' &c.
+
+[6]:  Others explain this Sūtra thus: 'After having used for the first time these sacred formulas (which are to be recited in offering the burnt-oblation and the Balis, the householder and his wife) shall sleep,' &c.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -391,17 +398,19 @@ title = "०३ वैश्वदेवम्"
 
 **टीका**  
 तेषां होमानां बलीनां च ये मन्त्रास् **तेषाम् उपयोगे** ।  
-**उपयोगो** नियमपूर्वकं विद्याग्रहणम्[^२] । 
+**उपयोगो** नियमपूर्वकं विद्याग्रहणम्[२] । 
 
-[^२]: तथा च बौधायनः-'तेषां ग्रहणे द्वादशरात्र'मित्यादि इत्यधिकं ख. पुस्तके ।
+[२]: तथा च बौधायनः-'तेषां ग्रहणे द्वादशरात्र'मित्यादि इत्यधिकं ख. पुस्तके ।
+
 
 तत्र **द्वादशाहम् अधश्शय्या** स्थण्डिलशायित्वम् । **ब्रह्मचर्यं** मैथुनवर्जनम् ।  
-[^१]क्षारलवणवर्जनं च भवति ।
+[१]क्षारलवणवर्जनं च भवति ।
 
-[^१]: क्षारपदार्थः आप०ध० २.१५.१४ सूत्रे द्रष्टव्यः।
+[१]: क्षारपदार्थः आप०ध० २.१५.१४ सूत्रे द्रष्टव्यः।
 
 उपयोक्तुर् एव व्रतम्, अध्ययनाङ्गत्वात् ।  
-अन्ये तु पत्न्या अपीच्छन्ति - **उपयोगः** प्रथम-योगः तत्र च पत्न्या अपि सहाऽधिकार इति वदन्तः ॥ १३ ॥
+अन्ये तु पत्न्या अपीच्छन्ति -  
+**उपयोगः** प्रथम-योगः तत्र च पत्न्या अपि सहाऽधिकार इति वदन्तः ॥ १३ ॥
 </details>
 </details>
 
@@ -421,9 +430,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-14. (When he studies the Mantras) for the last (Bali offered to the goblins), he shall fast for one (day and) night. [^7] 
+14. (When he studies the Mantras) for the last (Bali offered to the goblins), he shall fast for one (day and) night. [7] 
 
-[^7]:  Regarding the use of ekarātra in the sense of 'a (day and a) night,' see above. The 'last' Bali-offering is that described below, II ,2, 4, 5.
+
+[7]:  Regarding the use of ekarātra in the sense of 'a (day and a) night,' see above. The 'last' Bali-offering is that described below, II ,2, 4, 5.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -432,10 +442,10 @@ title = "०३ वैश्वदेवम्"
 उत्तमस्यैकरात्रमुपवासः ॥ १४ ॥  
 
 **टीका**  
-**उत्तमस्य** 'उत्तमेन वैहायसम्'(२.४.८.) इति वक्ष्यमाणस्य[^२] 'ये भूताः प्रचरन्ती'त्यस्य  
+**उत्तमस्य** 'उत्तमेन वैहायसम्'(२.४.८.) इति वक्ष्यमाणस्य[२] 'ये भूताः प्रचरन्ती'त्यस्य  
 **एकरात्रमुपवासः** कर्तव्यः ॥ १४ ॥  
 
-[^२]:
+[२]:
 
     ये भूताः प्रचरन्ति दिवा नक्तं बलिमिच्छन्तो वितुदस्य प्रेष्याः ।  
     तेभ्यो बलिं पुष्टिकामो हरामि मयि पुष्टिं पुष्टिपतिर्दधातु ॥ इति मन्त्रः । (तै०आ० १०.६७.)
@@ -459,9 +469,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-15. For each Bali-offering the ground must be prepared separately. (The performer) sweeps (the ground) with his (right) hand, sprinkles it with water, turning, the palm downwards, throws down (the offering), and afterwards sprinkles water around it. [^8] 
+15. For each Bali-offering the ground must be prepared separately. (The performer) sweeps (the ground) with his (right) hand, sprinkles it with water, turning, the palm downwards, throws down (the offering), and afterwards sprinkles water around it. [8] 
 
-[^8]:  'They say that the word "afterwards" is used in order to indicate that perfumes, garlands, and other (Upacāras) must be, offered between (the last two acts).'--Haradatta.
+
+[8]:  'They say that the word "afterwards" is used in order to indicate that perfumes, garlands, and other (Upacāras) must be, offered between (the last two acts).'--Haradatta.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -482,35 +493,35 @@ title = "०३ वैश्वदेवम्"
 
 औपासने पचने वा षड्भिराद्यैः प्रतिमन्त्रं हस्तेन जुहुयात् १६  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 <details open><summary><h2>०५ ओम् अग्नये ...{Loading}...</h2></summary>
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 <details open><summary><h2>०६ सोमाय स्वाहा ...{Loading}...</h2></summary>
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/vishvAsa-prastutiH/22/147_vishvebhyo_devebhyaH_svAhA.md">
 <details open><summary><h2>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h2></summary>
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+वि᳓श्वेभ्यो देवे᳓भ्यः स्वा᳓हा  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 <details open><summary><h2>०८ ध्रुवाय भूमाय ...{Loading}...</h2></summary>
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
++++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/09_dhruvaxitaye_svAhA.md">
 <details open><summary><h2>०९ ध्रुवक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 ध्रुव᳓-क्षितये +++(खे)+++ स्वा᳓हा।  
@@ -518,17 +529,17 @@ title = "०३ वैश्वदेवम्"
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/10_achyutaxitaye_svAhA.md">
 <details open><summary><h2>१० अच्युतक्षितये स्वाहा ...{Loading}...</h2></summary>
 
 अ᳓च्युत-क्षितये स्वा᳓हा।  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 <details open><summary><h2>११ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </details>
 </div>
@@ -541,9 +552,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-16. (At the Vaiśvadeva sacrifice) he shall offer the oblations with his hand, (throwing them) into the kitchen-fire or into the sacred (Gṛhya)-fire, and reciting (each time one of) the first six Mantras (prescribed in the Nārāyaṇī Upaniṣad). [^9] 
+16. (At the Vaiśvadeva sacrifice) he shall offer the oblations with his hand, (throwing them) into the kitchen-fire or into the sacred (Gṛhya)-fire, and reciting (each time one of) the first six Mantras (prescribed in the Nārāyaṇī Upaniṣad). [9] 
 
-[^9]:  It is a disputed point with the commentators whether every Brāhmaṇa may offer the Vaiśvadeva in the common kitchen-fire, or those persons only who do not keep a sacred domestic fire. The six Mantras, which are given Taitt. Ār. X, 67, 1, are: 1. Agnaye svāhā, 'to Agni svāhā'; 2. Somāya svāhā, 'to Soma svāhā'; 3. Viśvebhyo devebhyaḥ svāhā, 'to all the gods svāhā'; 4. Dhruvāya bhūmaya svāhā, 'to Dhruva Bhūma svāhā'; 5. Dhruvakṣitaye svāhā, 'to Dhruvakṣiti svāhā'; 6. Acyutakṣitaye svāhā, 'to Acyutakṣiti svāhā.' Haradatta adds that some add a seventh formula, addressed to Agni sviṣṭakṛt, 'to the fire which causes the proper performance of the sacrifice,' while others leave out the second Mantra and give that addressed to Agni sviṣṭakṛt the sixth place. This latter is the order given in the Calcutta edition of the Taittirīya Āraṇyaka.
+
+[9]:  It is a disputed point with the commentators whether every Brāhmaṇa may offer the Vaiśvadeva in the common kitchen-fire, or those persons only who do not keep a sacred domestic fire. The six Mantras, which are given Taitt. Ār. X, 67, 1, are: 1. Agnaye svāhā, 'to Agni svāhā'; 2. Somāya svāhā, 'to Soma svāhā'; 3. Viśvebhyo devebhyaḥ svāhā, 'to all the gods svāhā'; 4. Dhruvāya bhūmaya svāhā, 'to Dhruva Bhūma svāhā'; 5. Dhruvakṣitaye svāhā, 'to Dhruvakṣiti svāhā'; 6. Acyutakṣitaye svāhā, 'to Acyutakṣiti svāhā.' Haradatta adds that some add a seventh formula, addressed to Agni sviṣṭakṛt, 'to the fire which causes the proper performance of the sacrifice,' while others leave out the second Mantra and give that addressed to Agni sviṣṭakṛt the sixth place. This latter is the order given in the Calcutta edition of the Taittirīya Āraṇyaka.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -552,9 +564,10 @@ title = "०३ वैश्वदेवम्"
 औपासने पचने वा षड्भिराद्यैः प्रतिमन्त्रं हस्तेन जुहुयात् ॥ १६ ॥  
 
 **टीका**  
-यत्र पच्यते स पचनोऽग्निः । औपासनवतामोपासने, धिधुरस्य पचन इति व्यवस्थितो विकल्पः । अन्ये तु— तुल्यविकल्पं मन्यन्ते । षड्भिराद्यैः [^३]'अग्नये स्वाहा, सोमाय स्वाहा, विश्वेभ्यो देवेभ्यस्स्वाहा, ध्रुवाय भौमाय स्वाहा, ध्रवक्षितये स्वाहा, अच्युतक्षिनये स्वाहेत्येतैः। एते हि मन्त्रपाठे पठिताः प्राग्विवाहमन्त्रेभ्यः विशिष्टनियमसापेक्षग्रहणत्वात्तैस्सह न गृह्यन्ते । केचित् सौविष्टकृतमपि सप्तमं जुह्वति 'अग्नये स्विष्टकृते स्वाहे'ति औषधहविष्केषु तस्य सर्वत्र प्रवृत्तिरिति वदन्तः । अन्ये तु सोमाय स्वाहेति न पठन्ति । सौविष्टकृतं षष्ठं पठन्ति । हस्तग्रहणं दर्व्यादिनिवृत्त्यर्थम् ॥ १६ ॥  
+यत्र पच्यते स पचनोऽग्निः । औपासनवतामोपासने, धिधुरस्य पचन इति व्यवस्थितो विकल्पः । अन्ये तु— तुल्यविकल्पं मन्यन्ते । षड्भिराद्यैः [३]'अग्नये स्वाहा, सोमाय स्वाहा, विश्वेभ्यो देवेभ्यस्स्वाहा, ध्रुवाय भौमाय स्वाहा, ध्रवक्षितये स्वाहा, अच्युतक्षिनये स्वाहेत्येतैः। एते हि मन्त्रपाठे पठिताः प्राग्विवाहमन्त्रेभ्यः विशिष्टनियमसापेक्षग्रहणत्वात्तैस्सह न गृह्यन्ते । केचित् सौविष्टकृतमपि सप्तमं जुह्वति 'अग्नये स्विष्टकृते स्वाहे'ति औषधहविष्केषु तस्य सर्वत्र प्रवृत्तिरिति वदन्तः । अन्ये तु सोमाय स्वाहेति न पठन्ति । सौविष्टकृतं षष्ठं पठन्ति । हस्तग्रहणं दर्व्यादिनिवृत्त्यर्थम् ॥ १६ ॥  
 
-[^३]: आप० मन्त्रप्रश्ने० १. १.
+
+[३]: आप० मन्त्रप्रश्ने० १. १.
 </details>
 </details>
 
@@ -566,16 +579,18 @@ title = "०३ वैश्वदेवम्"
 
 उभयतः परिषेचनं यथा पुरस्तात् १७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+<details open><summary><h2>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h2></summary>
 
-अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
+</details>
 </div>
 </details>
 
@@ -586,9 +601,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-17. He shall sprinkle water all around both times (before and after the oblations), as (has been declared) above. [^10] 
+17. He shall sprinkle water all around both times (before and after the oblations), as (has been declared) above. [10] 
 
-[^10]:  'Above, i.e. Gṛhya-sūtra, I, 2, 3, 8.'--Haradatta. The Mantras recited are: 1. at the first sprinkling, Adite ’numanyasva, 'Aditi permit'; Anumate ’numanyasva, 'Anumati permit'; Sarasvaty anumanyasva, 'Sarasvatī permit'; Deva Savitaḥ prasuva, 'Divine Savitṛ permit'; 2. at the second sprinkling, the same as above, anvamaṃsthāḥ and prāsāvīḥ, 'thou hast permitted,' being substituted for anumanyasva and prasuva.
+
+[10]:  'Above, i.e. Gṛhya-sūtra, I, 2, 3, 8.'--Haradatta. The Mantras recited are: 1. at the first sprinkling, Adite ’numanyasva, 'Aditi permit'; Anumate ’numanyasva, 'Anumati permit'; Sarasvaty anumanyasva, 'Sarasvatī permit'; Deva Savitaḥ prasuva, 'Divine Savitṛ permit'; 2. at the second sprinkling, the same as above, anvamaṃsthāḥ and prāsāvīḥ, 'thou hast permitted,' being substituted for anumanyasva and prasuva.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -597,9 +613,9 @@ title = "०३ वैश्वदेवम्"
 उभयतः परिषेचनं यथा पुरस्तात् ॥ १७ ॥  
 
 **टीका**  
-उभयतः । पुरस्तादुपरिष्टाच्च परिषेचनं कर्तव्यम् । कथम् ? यथा पुरस्तात् उक्तं गृह्ये[^१] 'अदितेऽनुमन्यस्वे'त्यादि, 'अन्वम्ँ स्थाः प्रासावीरिति मन्त्रसन्नाम' इति च । सामयाचारिकेषु पार्वणेनातिदेशो न प्रवर्तत इति ज्ञापितत्वादप्राप्तविधिरयम् । अन्ये तु परिसङ्ख्यां मन्यन्ते-परिषेचनमेव वैश्वदेवे, नाऽन्यत्तन्त्रमिति ॥ १८ ॥  
+उभयतः । पुरस्तादुपरिष्टाच्च परिषेचनं कर्तव्यम् । कथम् ? यथा पुरस्तात् उक्तं गृह्ये[१] 'अदितेऽनुमन्यस्वे'त्यादि, 'अन्वम्ँ स्थाः प्रासावीरिति मन्त्रसन्नाम' इति च । सामयाचारिकेषु पार्वणेनातिदेशो न प्रवर्तत इति ज्ञापितत्वादप्राप्तविधिरयम् । अन्ये तु परिसङ्ख्यां मन्यन्ते-परिषेचनमेव वैश्वदेवे, नाऽन्यत्तन्त्रमिति ॥ १८ ॥  
 
-[^१]: आप०गृ० २. ३.
+[१]: आप०गृ० २. ३.
 </details>
 </details>
 
@@ -619,9 +635,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-18. In like manner water is sprinkled around once only after the performance of those Bali-offerings that are performed in one place. [^11] 
+18. In like manner water is sprinkled around once only after the performance of those Bali-offerings that are performed in one place. [11] 
 
-[^11]:  This Sūtra is a restriction of Sūtra 15.
+
+[11]:  This Sūtra is a restriction of Sūtra 15.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -659,12 +676,12 @@ title = "०३ वैश्वदेवम्"
 सति सूपसंसृष्टेन कार्याः ॥ १९ ॥  
 
 **टीका**  
-सति सूपे तत्संसृष्टा बलयः कार्याः । अन्ये त्वन्यैरपि व्यजनैस्संसर्गमिच्छन्ति । तथा च बौधायनः— [^२] 'काममितरेष्वायतने'ष्विति । एष एव व्यञ्जनानां संस्कारः। [^३]सूत्रस्यापि—  
+सति सूपे तत्संसृष्टा बलयः कार्याः । अन्ये त्वन्यैरपि व्यजनैस्संसर्गमिच्छन्ति । तथा च बौधायनः— [२] 'काममितरेष्वायतने'ष्विति । एष एव व्यञ्जनानां संस्कारः। [३]सूत्रस्यापि—  
 व्यञ्जनैस्सुष्ठूपसंसृष्टेनाऽन्नेन बलयः कार्यास्सति सम्भव इत्यर्थः इति ॥ १९ ॥  
 
-[^२]: बौ०गृ० १. ८. १.  
+[२]: बौ०गृ० १. ८. १.  
 
-[^३]: सूपस्यापि । व्यञ्जनैरपूपेन च संसृष्टेन बलय इति. क. छ. पु.
+[३]: सूपस्यापि । व्यञ्जनैरपूपेन च संसृष्टेन बलय इति. क. छ. पु.
 </details>
 </details>
 
@@ -684,9 +701,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-20. With the seventh and eighth Mantras (Balis [^12]  must be offered to Dharma and Adharma) behind the fire, and must be placed the one to the north of the other.
+20. With the seventh and eighth Mantras (Balis [12]  must be offered to Dharma and Adharma) behind the fire, and must be placed the one to the north of the other.
 
-[^12]:  The first six offerings constitute the Devayajña or Vaiśvadeva, which is offered in the fire. Now follow the Bali-offerings, which are merely placed on the ground. 'Behind the fire' means to the east of the fire'; for the sacrificer must face the east.
+
+[12]:  The first six offerings constitute the Devayajña or Vaiśvadeva, which is offered in the fire. Now follow the Bali-offerings, which are merely placed on the ground. 'Behind the fire' means to the east of the fire'; for the sacrificer must face the east.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -707,9 +725,13 @@ title = "०३ वैश्वदेवम्"
 
 उदधानसंनिधौ नवमेन २१  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
+
 [[ध᳓र्माय᳓|ध᳓र्माय]] स्वा᳓हा । [[अ᳓धर्मा᳓य᳓|अ᳓धर्माय]] स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
-अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++
+अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++  
+
+</details>
 </div>
 </details>
 
@@ -720,9 +742,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-21. With the ninth (Mantra a Bali offered to the waters must be placed) near the water-vessel (in which the water for domestic purposes is kept). [^13] 
+21. With the ninth (Mantra a Bali offered to the waters must be placed) near the water-vessel (in which the water for domestic purposes is kept). [13] 
 
-[^13]:  The Mantra is, Adbbyaḥ svāhā, 'to the Waters svāhā.'
+
+[13]:  The Mantra is, Adbbyaḥ svāhā, 'to the Waters svāhā.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -731,9 +754,9 @@ title = "०३ वैश्वदेवम्"
 उधानसन्निधौ नवमेन ॥ २१ ॥  
 
 **टीका**  
-उदकं यत्र धीयते तदुदधानं[^४] मणिकाख्यम् । तस्य सन्निधौ नवमेन 'अद्भ्यः स्वाहेत्यनेन ॥ २१ ॥
+उदकं यत्र धीयते तदुदधानं[४] मणिकाख्यम् । तस्य सन्निधौ नवमेन 'अद्भ्यः स्वाहेत्यनेन ॥ २१ ॥
 
-[^४]: अस्य विधिर्गृह्ये वास्तुनिर्माणविधौ ( आप०गृ० १७. १) द्रष्टव्यः ।
+[४]: अस्य विधिर्गृह्ये वास्तुनिर्माणविधौ ( आप०गृ० १७. १) द्रष्टव्यः ।
 </details>
 </details>
 
@@ -745,10 +768,12 @@ title = "०३ वैश्वदेवम्"
 
 मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<details open><summary><h2>१४ ओषधिवनस्पतिभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-- ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
+</details>
 </div>
 </details>
 
@@ -759,9 +784,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-22. With the tenth and eleventh (Mantras, Balis, offered to the herbs and trees and to Rakṣodevajana, must be placed) in the centre of the house, and the one to the east of the other. [^14] 
+22. With the tenth and eleventh (Mantras, Balis, offered to the herbs and trees and to Rakṣodevajana, must be placed) in the centre of the house, and the one to the east of the other. [14] 
 
-[^14]:  The Mantras are, Osbadhivanaspatibbyaḥ svāhā, 'to the herbs and trees svāhā'; Raksbodevajanebhyaḥ svāhā, 'to the Rākṣasas and the servants of the gods svāhā.'
+
+[14]:  The Mantras are, Osbadhivanaspatibbyaḥ svāhā, 'to the herbs and trees svāhā'; Raksbodevajanebhyaḥ svāhā, 'to the Rākṣasas and the servants of the gods svāhā.'
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -782,10 +808,12 @@ title = "०३ वैश्वदेवम्"
 
 उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। [[अवसा᳓नेभ्य᳓स्|अवसा᳓नेभ्यस्]]+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
+</details>
 </div>
 </details>
 
@@ -796,9 +824,10 @@ title = "०३ वैश्वदेवम्"
 <details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Bühler</summary>
 
-23. With the following four (Mantras, Balis must be placed) in the north-eastern part of the house (and the one to the east of the other). [^15] 
+23. With the following four (Mantras, Balis must be placed) in the north-eastern part of the house (and the one to the east of the other). [15] 
 
-[^15]:  These four Balis are sacred to the Gṛhās, to the Avasānas, to the Avasānapatis, and to all creatures.
+
+[15]:  These four Balis are sacred to the Gṛhās, to the Avasānas, to the Avasānapatis, and to all creatures.
 </details>
 
 <details><summary>हरदत्त-टीका</summary>
@@ -808,6 +837,7 @@ title = "०३ वैश्वदेवम्"
 
 **टीका**  
 अगारस्य य उत्तरपूर्वो देशस्तरोत्तरैश्चतुर्भिः 'गृह्याभ्यः स्वाहा, अवसानेभ्यः स्वाहा, अवसानपतिभ्यः स्वाहा, सर्वभूतेभ्यः स्वाहेत्येतैः प्रागपवर्गमित्येव ॥२३॥  
+
 
 इत्यापस्तम्बधर्मसूत्रवृत्तौ द्वितीयप्रश्ने तृतीया कण्डिका ॥३॥
 </details>

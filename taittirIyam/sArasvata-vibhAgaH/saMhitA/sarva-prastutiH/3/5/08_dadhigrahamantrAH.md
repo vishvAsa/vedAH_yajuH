@@ -45,9 +45,10 @@ Thou art taken with a support;
 </details>
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/5/08_dadhigrahamantrAH/02_prajApataye_tvA_jyotiShmate.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजा᳓पतये त्वा ज्यो᳓तिष्मते ज्यो᳓तिष्मन्तङ्गृह्णामि ।  
+प्रजा᳓पतये त्वा ज्यो᳓तिष्मते ज्यो᳓तिष्मन्तङ्गृह्णामि ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -57,9 +58,14 @@ Thou art taken with a support;
 for Prajapati thee, for him full of light, thee full of light I take;
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For luminous Prajāpati, you, luminous, I take;
+</details>
+
 <details><summary>मूलम्</summary>
 
-प्र॒जाप॑तये त्वा॒ ज्योति॑ष्मते॒ ज्योति॑ष्मन्तङ्गृह्णामि ।  
+प्र॒जाप॑तये त्वा॒ ज्योति॑ष्मते॒ ज्योति॑ष्मन्तङ्गृह्णामि ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -72,6 +78,7 @@ for Prajapati thee, for him full of light, thee full of light I take;
 प्रजापतये ज्योतिष्मते दीप्तिमते हे दधिग्रह त्वां दीप्तिमन्तं गृह्णामि ।
 </details>
 </details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

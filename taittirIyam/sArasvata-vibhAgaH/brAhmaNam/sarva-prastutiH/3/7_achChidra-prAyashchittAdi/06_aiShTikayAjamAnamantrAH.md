@@ -753,24 +753,31 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/06_aiShTikayAjamAnamantrAH/23_avAhambAdha_upabhRtA_sapatnAn.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 अ᳓वाह᳓म्बाध उपभृ᳓ता सप᳓त्नान् ।  
 जाता᳓न्भ्रा᳓तृव्यान्ये᳓ च जनिष्य᳓माणाः ।  
 दो᳓है यज्ञँ᳓ सुदु᳓घामिव धेनु᳓म् ।  
 अह᳓मु᳓त्तरो भूयासम् ।  
-अ᳓धरे म᳓त्सप᳓त्नाः ।  
+अ᳓धरे म᳓त्सप᳓त्नाः ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/06_aiShTikayAjamAnamantrAH/23_avAhambAdha_upabhRtA_sapatnAn.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अवा॒हम्बा॑ध उप॒भृता॑ स॒पत्ना॑न् ।  
 जा॒तान्भ्रातृ॑व्या॒न्ये च॑ जनि॒ष्यमा॑णाः ।  
 दोहै॑ य॒ज्ञँ सु॒दुघा॑मिव धे॒नुम् ।  
 अ॒हमुत्त॑रो भूयासम् ।  
-अध॑रे॒ मत्स॒पत्नाः॑ ।  
+अध॑रे॒ मत्स॒पत्नाः॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अवाहं बाध उपभृता द्विषन्तं जातान्भ्रातृव्यान्ये च जनिष्यमाणाः।  
+दुहे यज्ञँ सुदुघामिव धेनुमुत्तमो ऽहं भूयासमधरे मत्सपत्नाः
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -778,13 +785,43 @@ unicode_script: devanagari
 अ᳓व । अह᳓म् । बाधः । उप-भृ᳓ता । सप᳓त्नान् । जाता᳓न् । भ्रा᳓तृव्यान् । ये᳓ । च । जनिष्य᳓माणाः । दो᳓है । यज्ञ᳓म् । सुदु᳓घामिव । धेनु᳓म् । अह᳓ । मु᳓त् । तरः । भूयासम् । अ᳓धरे । म᳓त् । सप᳓त्नाः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓व (*Whitney*, *MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- अह᳓म् (*MW*, *MS*-160/641, *TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274)
+- बा᳓धः (*RV*-3/6, *AV*-1/2, *VS-K*-0/1)
+- उप-भृ᳓ता (*MS*-1/12, *TS*-0/6, *TB*-1/15, *AV*-0/1, *SB-M*-3/59, *SB-K*-2/46, *VS-M*-0/1, *VS-K*-0/1)
+- द्विष᳓न्तम् (*MS*-1, *RV*-1, *TB*-8, *AV*-3/6, *SB-M*-42, *SB-K*-47/48)
+- जाता᳓न् (*MS*-3/57, *TS*-11/65, *RV*-1/144, *TB*-4/22, *TK*-1/4, *AV*-8/95, *SB-M*-3/84, *SB-K*-2/82, *VS-M*-2/37, *VS-K*-2/37)
+- भ्रा᳓तृव्यान् (*MS*-1/171, *TS*-29/143, *TB*-12/68, *TK*-0/1, *AV*-0/13, *SB-M*-6/84, *SB-K*-6/86, *VS-M*-0/2, *VS-K*-0/1)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- जनिष्य᳓माणाः (यक् पा॰ ३.१.६७, पा॰ ३.१.३, *MS*-0/2, *TS*-0/8, *TB*-3/5, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/2, *VS-K*-0/2)
+- दुहे᳓ (*Whitney*, *MW* ŚBr., *MS*-14, *TS*-9, *RV*-3/5, *TB*-9, *AV*-5/7, *SB-M*-6, *SB-K*-5, *VS-M*-6, *VS-K*-6)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- सुदु᳓घामिव (*RV*-2, *TB*-1, *AV*-2)
+- धेनु᳓म् (*MS*-6/54, *TS*-3/36, *RV*-25/118, *TB*-8/24, *AV*-9/41, *SB-M*-7/39, *SB-K*-8/44, *VS-M*-3/20, *VS-K*-3/19)
+- उत्तमः᳓ (*MS*-6/67, *TS*-9/62, *RV*-7/39, *TB*-5/33, *TK*-1, *AV*-9/42, *SB-M*-15/173, *SB-K*-13/164, *VS-M*-1/24, *VS-K*-1/24)
+- अह᳓म् (*MW*, *MS*-160/641, *TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274)
+- भूयासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-14, *TS*-44, *RV*-1, *TB*-8, *AV*-16, *SB-M*-16, *SB-K*-21, *VS-M*-6, *VS-K*-3)
+- अ᳓धरे (*MS*-4/12, *TS*-0/10, *RV*-0/11, *TB*-4/7, *AV*-5/26, *SB-M*-1/12, *SB-K*-3/10, *VS-M*-0/4, *VS-K*-0/3)
+- म᳓त् (*MW*, *MS*-4/641, *TS*-3/565, *RV*-12/1308, *TB*-6/270, *TK*-0/66, *AV*-19/1252, *SB-M*-17/723, *SB-K*-15/728, *VS-M*-1/315, *VS-K*-1/274)
+- सप᳓त्नाः (*MS*-2/27, *TS*-2/15, *RV*-2/4, *TB*-4/13, *TK*-0/1, *AV*-11/67, *SB-M*-9/73, *SB-K*-6/74, *VS-M*-2/7, *VS-K*-3/8)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 अहं अनया उपभृता सपत्नान् जातान् जनिष्यमाणांश्च अवबाधे । ततश्च निष्प्रत्यूहमिमं यज्ञं सर्वान् कामान् दोहै दुह्यासम्, सुदुघां शोभनदोहनां धेनुमिव गामिव । 'दुहः कप् घश्च' इति कप् । तथा दुहानस्य मम इदं चास्तु - अहं उत्तरः सपत्नेभ्यः उद्गततरो भूयासं सपत्नाश्च मत् मत्तः अधरे निकृष्टाः भूयासुः । संबन्धिशब्दात् मम सपत्ना इति गम्यते ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Downward do I thrust the hater with the Upabhṛt, the born rivals and those who will be born.  
+I milk the sacrifice like an easily milked cow.  
+May I become the highest; may my rivals be beneath!
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

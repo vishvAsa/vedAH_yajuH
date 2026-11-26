@@ -11,7 +11,7 @@ title = "०६ अग्नि-सन्धान-प्रयोगः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -58,7 +58,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
@@ -120,16 +120,20 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
-नमो-वाकम् अधीमहे+++(→वीप्सायाम्)+++ ।  
-वृणीमहे च तत्राद्यौ  
+नमो-वाकम् **अधीमहे**+++(→वीप्सायाम्)+++ ।  
+**वृणीमहे** च तत्राद्यौ  
 दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
-वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+गुरुभ्यस् तद्-गुरुभ्यश् च  
+नमो-वाकम् **अधीमहे**+++(→वीप्सायाम्)+++ ।  
+**वृणीमहे** च तत्राद्यौ  
+दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
+
 </details>
+
 
 <details><summary>English</summary>
 
@@ -147,15 +151,54 @@ and the means of attaining it).
 <details><summary>English es</summary>
 
 (Con la debida devoción)  
-Repetimos la expresión de adoración a nuestros gurús  
+**Repetimos** la expresión de **adoración** a nuestros gurús  
 y también a sus gurús;  
 y entre estos (últimos),  
-rezamos por la gracia de la pareja primaria (nārāyaṇa y lakṣmī),  
-el gemelo śeṣīs [^es1] de todos los mundos  
-(para que ambos puedan ser el final para ser alcanzados  
+**rezamos** por la gracia de la pareja primaria (nārāyaṇa y lakṣmī),  
+el gemelo śeṣīs de todos los mundos  
+(para que ambos **puedan ser** el final  
+para **ser alcanzados**  
 y los medios de alcanzarlo).
 
-[^es1]: Un śeṣa es aquel que existe únicamente para los propósitos de otro. Ese otro es Śeṣī.
+(Un śeṣa **es** aquel que **existe** únicamente para los propósitos de otro. Ese otro **es** Śeṣī.)
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
+वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गु मुदलिल् गुरु शब्दम् स्वाचार्यमात्र-तात्पर्यकम्। अङ्गु बहुवचनम् पूजार्थम्। इरण्डावदु गुरुशब्दम् तदाचार्य-प्रभृति भगवत्पर्यन्तमायुळ्ळ सकलाचार्यपरम्। इङ्गु गुरुश्च गुरुश्च गुरुश्च गुरवः । तेषां गुरवः - तद्गुरवः ऎऩ्ऱे विग्रहम् कॊळ्ळ वेण्डुम्। अऩ्ऱिक्के तेषां गुरुः - तद्गुरुः ऎऩ्ऱु मुदलिल् समासं सॊल्लि, अदऩ्मेल् तद्गुरुश्च-तद्गुरुश्च-तद्गुरुश्च तद्गुरवः ऎऩ्ऱु एकशेषङ्गॊळ्ळिल्, ऒरु तद्गुरुशब्दमे शिष्टमागैयाल्, अदिल् घटकमाऩ तच्छब्दम् स्वसहित-गुरु-शब्दोच्यमानार्थत्तै परामर्शिक्किऱदॆऩ्बदु व्युत्पत्तिविरुद्धम्। अन्यथा राज्ञस्तत्पुत्राणां चागमन-विवक्षया राजा तत्पुत्राश्चाऽगताः ऎऩ्ऱु सॊल्वदु पोल् राज्ञः, तत्पुत्रपौत्राणामागमन-विवक्षयापि राजा, तत्पुत्राश्चाऽगताः ऎऩ्ऱु प्रामाणिकव्यवहारम् वर प्रसङ्गिक्कुम्। प्राथमिक गुरु-शब्दमे स्वाचार्य-प्रभृति-भगवाऩळवुमुळ्ळ समस्ताचार्यर्गळैयुम् बोधिक्क समर्थमायिरुन्दालुम् (‘‘स चाचार्यवंशो ज्ञेयः । आचार्याणाम् असाव् असाव् इत्य् आ-भगवत्तः’’) ऎऩ्गिऱ श्रुत्यर्थत्तै अनुसन्धित्तु तद्गुरुभ्यः ऎऩ्ऱु अधिकमरुळिच्चॆय्ददु। नमोवाकम् - नमः ऎऩ्गिऱ उक्तियै, अधीमहे - अध्ययनम् सॆय्गिऱोम्। नमः ऎऩ्ऱिव्वळवु सॊऩ्ऩालुम् मङ्गळम् कृतमाम्। आऩालुम् अप्पोदु सकृदुच्चरित-न्यायत्ताले नमस्कारम् मात्तिरमे सॊऩ्ऩदाम्। नमोवाकमधीमहे ऎऩ्ऱिव्वळवु सॊऩ्ऩाल् नमश्शब्दत्तिऩ् यावदर्थङ्गळैयुम् अनुष्ठिक्किऱोमॆऩ्गिऱ अभिप्रायम् द्योतितमाम् ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्। नमउक्तिमात्रत्तिऱ्कुम् फलाविनाभावम् तोऩ्ऱुगैक्काग अधिकोक्ति ऎऩ्ऱुम् सिलर् सॊल्लुवर्गळ्। नम उक्तिं वदामः ऎऩ्ऱु धात्वन्तरत्तैच् चॊल्लामल् अधीमहे ऎऩ्ऱु सॊऩ्ऩदु उक्तिरूपमङ्गळत्तिऱ्कु भूयस्त्वं तोऩ्ऱुगैक्काग। अध्ययनमॆऩ्बदु पुनःपुनः कथनरूपमागैयाले अधीमहे ऎऩ्बदाल् नम-उक्तिक्कु आवृत्तितोऩ्ऱुमिऱे। विघ्न-भूयस्त्व-शङ्कैयुळ्ळबोदु मङ्गळ-भूयस्त्वमुम् अबेक्षिदमाम्। (अङ्ङऩऩ्ऱिक्के, वेदाध्ययनम् पोले आचार्यविषयत्तिल् नम-उक्तिकथनमुम् वैधमॆऩ्ऱु तोऩ्ऱुगैक्काग ऎऩ्ऩवुमाम्।) तत्र — तद्गुरु-समुदायः तच्छब्दार्थः। दम्पत्यन्वयि-घटकत्वं त्रल् प्रत्ययार्थः । अन्द गुरु-समुदाय-घटकर्गळाऩ वॆऩ्ऩबडि। इदऩाल् तद्गुरुभ्यः ऎऩ्ऱविडत्तिल् सामाऩ्यमागच् चॊऩ्ऩवळवऩ्ऱिक्के विशेषतोऽपि दिव्य-दम्पतिकळुक्कु गुरुत्वं स्पष्टीकृतमाच्चुदु। इप्पडि दिव्य-दम्पतिकळुम् ज्ञानोपदेशादिगळाल् आचार्यर्गळागवेयॊऴिन्दाल् प्राप्यवस्तु वेऱुण्डोवॆऩ्ऱु शङ्कियामैक्काग प्राप्यत्वोपयोगि-गुणङ्गळैयिट्टु अद्दिव्य दम्पतिकळैये पृथक्कागवुम् शरणम् पुगुगिऱार् आद्यावित्यादियाले। आद्यौ जगतामॆऩ्बदै इङ्गेयुम् अन्वयिप्पदु। जगत्कारणभूतर्गळाऩवॆऩ्ऩबडि। इदऩाल् अद्दम्पति-कळे जगत्तिऱ्कुत् तायुन्दन्दैयुमायिरुप्पदाल् प्राप्यर्गळॆऩ्ऱुम् करण-कळेबर-दानादिगळाले प्रापकर्गळॆऩ्ऱुम् वॆळियिडुगैयाल् प्राप्यान्तर-शङ्कैक्कु अवकाशमिल्लै। इङ्ङऩऩ्ऱिक्के तत्राद्यौ - अन्द समुदाय-निरूपित-प्रथम-घटकतावन्तौ ऎऩ्ऱु अर्थङ्गॊळ्वदु सरियऩ्ऱु। गुरुपरम्परैयिल् भगवाऩुक्के प्रथम-घटकत्वमुम् पिराट्टिक्कु द्वितीय-घटकत्वमुमे उण्डागैयाल् अव्वर्थम् बाधितमाम्। दम्पति-शब्द-समभिव्याहृतमाऩ इव्वाद्य-शब्दम् तृतीयत्वाद्यसमानाधिकरण-घटकतावत्वपरमॆऩ्ऩिल् लक्षणाप्रसङ्गम् वरुम्। ननु पिराट्टिक्कु जगत्कारणत्वङ्गूडामैयाल् आद्यौ - जगत्कारणभूतर्गळॆऩ्ऱु सॊल्वदुम् बाधितमागादोवॆऩ्ऩिल्, न्यायसिद्धाञ्जनादिगळिल् 
+
+> ‘‘जगज्जनकत्व-शेषित्व-शरण्यत्व-प्राप्यत्वादि-साम्यात्’’ 
+
+इत्यादिगळाले पिराट्टिक्कुम् जगज्जनकत्वत्तैयरुळिच् चॆय्दिरुप्पदाल् इव्वर्थम् बाधितमागादु। इप्पडियागिल् ‘‘यतो वा इमानि’’ - ‘‘जन्माद्यस्य यतः’’ इत्यादिगळिऱ्सॊऩ्ऩ ब्रह्मलक्षणम् लक्ष्मियिऩिडत्तिल् अतिव्याप्तमागादोवॆऩ्ऩिल्, अत्र केचित् — (जगद्धेतुता-स्वरूपयोग्यतैये) अदावदु - जगज्जन्माद्यनुकूल-शक्तिमत्वरूप-जगद्धेतुत्वमे पिराट्टिक् कुण्डॆऩ्ऱु श्रीन्यायसिद्धाञ्जनादि-श्रीसूक्तिकळुक्कुत् तात्पर्यमागैयालुम्, कृत्स्न-जगज्जन्माद्य-नुकूल-व्यापारवत्वमे, अदावदु - फलोपधायकत्वरूप-कृत्स्न-जगज्जन्मादि-हेतुत्वमे ब्रह्मलक्षणतया जन्मादि सूत्राभिप्रेतमागैयालुम् ऒरुविद दोषत्तिऱ्कुम् अवगाशमिल्लै। इप्पडि जन्मादि-व्यापारमे ब्रह्मलक्षणतया अभिप्रेतमॆऩ्ऩुमिडम् 
+
+> ‘‘लीलारूप-जगद्व्यापार-लक्षणमाग अनुसन्धेयम्’’ 
+
+ऎऩ्गिऱ अर्थपञ्चकाधिकार-श्रीसूक्तियिलुम्, जगद्व्यापार-मोक्षप्रदत्वे ब्रह्मलक्षणतया मुक्तेष्विव सर्वेष्वपि न सम्भवत इति - मितगद्याधिकारश्रीसूक्तियिलुम् मुक्तेषु ब्रह्मलक्षणातिव्याप्तिवारकमाऩ जगद्व्यापार-वर्जमित्यादि सूत्रादिगळिलुम् सिद्धम्। वेऱिडत्तिलिदऩ् विस्तरङ्गण्डुगॊळ्वदु" इति वदन्ति।  
+वस्तुतस्तु - लक्ष्म्या अपि ब्रह्म-लक्षण-लक्ष्यतया अतिव्याप्तिप्रसक्तेरेवाभावात् - तस्या अपि जगत्कारणत्वं सिद्धम्। न च तस्या अपि न्यायसिद्धाञ्जनाद्युक्तप्रकारेण जगज्जनकत्वमभ्युपगम्य तत् जगज्जन्माद्यनुकूलशक्तिमत्वरूप-स्वरूपयोग्यत्व-रूपमिति वक्तुं युक्तम्। श्रीपाञ्चरात्रशास्त्रे लक्ष्मीतन्त्रे चतुर्थाद्ध्याये — 
+
+> ‘‘महान्तम् आविशत्य् एतं  
+प्रेरयामि सिसृक्षया ।  
+प्रेर्यमाणात् ततस् तस्माद्  
+अहङ्कारश् च जज्ञिवान् ॥  
+आविश्याहम् अहङ्कारं  
+सृष्टये प्रेरयाम्य् अहम् ।  
+स बभूव त्रिधा पूर्वं  
+गुण-व्यतिकरात् तदा’’ 
+
+इत्य्-आदिना लक्ष्म्या अपि फलोपधायकत्वरूप-महदादि-समष्टिसृष्टि-जनकत्वस्य स्पष्टमेव प्रतिपादितत्वात्। आगैयाल् पिराट्टिक्कुम् फलोपधायकत्वरूप-जगत्कारणत्वमुम् कूडुमागैयाल् आद्यत्वं बाधितमागादु।  
+
+इद् द्म्पतिकळ् जगत्तिऱ्कु कुलाल-मृदादिगळ् घटत्तिऱ्कुप्पोल् कारणमात्तिरमाय्, जगज्जन्यातिशयभाक्काऩ शेषि वेऱुण्डो ऎऩ्गिऱ शङ्कैयै निराकरिक्किऱार् जगतां पती ऎऩ्ऱु। इप्पडि शेषित्वमुभयनिष्ठमॆऩ्गैयाल् इम्मिथुनमे आत्म-हविस्समर्पणत्तिल् उद्देश्यमॆऩ्ऩुमिडम् सूचितमागिऱदु। शेषि-दम्पति-दया ऎऩ्गिऱ उपसंहारानुगुणमाग पतिशब्दत्तिऱ्कु शेषिपरत्वञ् जॊऩ्ऩोम्। ‘‘पतिं विश्वस्यात्मेश्वरं’’ ऎऩ्गिऱविडत्तिल्बोल् इप् पतिशब्दम् ईश्वरवाचकमागवुमाम्। अप्पोदु इद् द्म्पतिकळ् जगत्तिऱ्कुक् कारणमाऩालुम्, इदऱ्कु नियन्तावाऩ ईश्वरऩ् वेऱुण्डोवॆऩ्ऩिल्, ईश्वरत्वमुम् अवर्गळुक्के ऎऩ्गिऱार्। जगतां पती इति ऎऩ्ऱु अवदरिप्पिक्कवुम्, पिराट्टिक्कुम् ईश्वरत्वमुण्डॆऩ्ऩुमिडम् अन्यत्र श्रीदेशिक-श्रीसूक्तिकळिले विशदम्। ईररसु पडुगैयाल् जगत्तिऱ्कु बाधकम् वारादोवॆऩ्ऩ अरुळिच्चॆय्गिऱार् दम्पती इति। दम्पतिकळागैयाले इरुवर्गळुम् एक-मनस्कर्गळाय्त् तदिङ्गितपराधीनऩागवे भगवाऩ् जगन्नियमनादिगळैच् चॆय्गैयाल् ऒरुविद बाधकमुम् वारादॆऩ्ऱु तिरुवुळ्ळम्।
+
+वृणीमहे - शरणत्वेन ऎऩ्ऱु शेषम्। इङ्गु ‘दम्पती’ऎऩ्ऱु तत्त्वमुम्, ‘वृणीमहे’ ऎऩ्ऱु प्रपत्तिरूपोपायमुम्, ‘जगतां पती’ ऎऩ्ऱु कैङ्कर्य-प्रतिसम्बन्धित्व-रूप-शेषित्वेन सिद्धोपायमुम् सॊल्लप्पडुगैयाल् इप् प्रबन्धार्थमाऩ तत्व-हित-पुरुषार्थङ्गळ् सूचितङ्गळ्।  
+अऩ्ऱिक्के जगतां पती ऎऩ्गिऱ इडत्तिलेये चेतनाचेतन-समुदायरूपमाऩ जगत्तिऱ्कु स्वरूपमाऩ भगवच्छेषत्वमुम् षष्ठ्यर्थमागत् तोऩ्ऱुगैयाल् रहस्यत्रयत्तिऩ् सारार्थङ्गळाऩ स्वरूपोपाय-पुरुषार्थङ्गळ् ‘‘जगतां पती’’, ‘‘वृणीमहे’’, ऎऩ्गिऱ इव्वळविले सूचितङ्गळॆऩ्ऩवुमाम्। विषयाद्यनुबन्धिचतुष्टयमुम् इप् पदङ्गळिलेये सुव्यक्तम्। 
 </details>
 </details>
 </div>
@@ -255,7 +298,8 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/karma-parva-stham/bala-mantraH">
 <details open><summary><h5>बल-मन्त्रः ...{Loading}...</h5></summary>
 
-भग॑वतो॒ बले॑न॒, भग॑वतो वी॒र्ये᳕ण॒, भग॑वत॒स् तेज॑सा॒, भग॑वतः॒ कर्म॑णा॒+++(=कर्तुर् ईप्सिततमेन)+++, भग॑वतः॒ कर्म॑+++(=क्रियां)+++ करिष्यामि॒ - भग॑वतो वासुदे॒वस्य॑
+भ᳓गवतो ब᳓लेन, भ᳓गवतो वीर्ये᳙ण, भ᳓गवतस् ते᳓जसा, भ᳓गवतः क᳓र्मणा+++(=कर्तुर् ईप्सिततमेन)+++,   
+भ᳓गवतः क᳓र्म+++(=क्रियां)+++ करिष्यामि - भ᳓गवतो वासुदेव᳓स्य
 
 <details><summary>विस्वरः</summary>
 
@@ -387,14 +431,14 @@ y los medios de alcanzarlo).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h2>०१ अदितेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h2>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
@@ -408,7 +452,7 @@ y los medios de alcanzarlo).
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h2>०४ देव सवितः ...{Loading}...</h2></summary>
 
-देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -445,28 +489,28 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
-य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
-पुरु॑षसम्मितो य॒ज्ञः ।  
-य॒ज्ञᳶ पुरु॑षसम्मितः ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
-य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन् ।  
-यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
 </details>
 </div>
 
@@ -496,10 +540,10 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
 <details open><summary><h4>49 पुनस् त्वा ...{Loading}...</h4></summary>
 
-पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
-पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
-घृ॒तेन॒ त्वं त॒नुवो॑ **वर्धयस्व**,  
-स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः॑ ॥
+पु᳓नस् त्वा ऽऽदित्या᳓ रुद्रा᳓ व᳓सवः **स᳓मिन्धतां**,  
+पु᳓नर् ब्रह्मा᳓णो वसुनीथ! यज्ञैः᳓ ।  
+घृते᳓न त्वं᳓ तनु᳓वो **वर्धयस्व**,  
+सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
 
 +++(अग्नये वसुनीथायेदं न मम॥)+++
 </details>
@@ -507,10 +551,10 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
 <details open><summary><h4>27 मनो ज्योतिर् ...{Loading}...</h4></summary>
 
-मनो॒ ज्योति॑र् **जुषता॒म्**, आज्यव्ँ॒  
-विच्छि॑न्नय्ँ **य॒ज्ञँ सम्** इ॒मन् **द॑धातु** ।  
-या +++(अन्यैर्)+++ **इ॒ष्टा उ॒षसो॑**, +++(मया तु)+++  नि॒-म्रुच॑श्+++(←स्तेये)+++ च॒  
-तास् **सन्द॑धामि** ह॒विषा॑ घृ॒तेन॑  ॥
+म᳓नो ज्यो᳓तिर् **जुषताम्**, आ᳓ज्यव्ँ  
+वि᳓च्छिन्नय्ँ **यज्ञँ᳓ स᳓म्** इम᳓न् **दधातु** ।  
+या᳓ +++(अन्यैर्)+++ **इष्टा᳓ उष᳓सो**, +++(मया तु)+++  नि-म्रु᳓चश्+++(←स्तेये)+++ च  
+ता᳓स् **स᳓न्दधामि** हवि᳓षा घृते᳓न  ॥
 
 +++(मनसे ज्योतिषे इदं न मम॥)+++
 </details>
@@ -518,18 +562,18 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
 <details open><summary><h4>07 यन् म ...{Loading}...</h4></summary>
 
-यन् म॑ आ॒त्मनो॑ मि॒न्दा+++(=हिंसा)+++ **ऽऽभू॑द्**,  
-अ॒ग्निस् तत् पुन॒र् **आहाः॑** +++(=आहर)+++।  
-जा॒तवे॑दा॒ विच॑र्षणिः+++(विचक्षणः)+++॥
+य᳓न् म आत्म᳓नो मिन्दा᳓+++(=हिंसा)+++ **ऽऽभूद्**,  
+अग्नि᳓स् त᳓त् पु᳓नर् **आ᳓हाः** +++(=आहर)+++।  
+जात᳓वेदा वि᳓चर्षणिः+++(विचक्षणः)+++॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
 <details open><summary><h4>08 पुनर् अग्निश् ...{Loading}...</h4></summary>
 
-पुन॑र् अ॒ग्निश् चक्षु॑र् **अदा॒त्**  
-पुन॒र् इन्द्रो॒ बृह॒स्पतिः॑।  
-पुन॑र् मे अश्विना यु॒वं  
-चक्षु॑र्+++(=दर्शनशक्तिम्)+++ **आ धत्तम्** अ॒क्ष्योः ॥
+पु᳓नर् अग्नि᳓श् च᳓क्षुर् **अदात्**  
+पु᳓नर् इ᳓न्द्रो बृ᳓हस्प᳓तिः।  
+पु᳓नर् मे अश्विना युवं᳓  
+च᳓क्षुर्+++(=दर्शनशक्तिम्)+++ **आ᳓ धत्तम्** अक्ष्योः᳓ ॥
 
 +++(अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम॥)+++
 </details>
@@ -583,28 +627,28 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
-य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
-पुरु॑षसम्मितो य॒ज्ञः ।  
-य॒ज्ञᳶ पुरु॑षसम्मितः ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
-य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन् ।  
-यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
@@ -686,13 +730,13 @@ y los medios de alcanzarlo).
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 <details open><summary><h5>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h5></summary>
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>

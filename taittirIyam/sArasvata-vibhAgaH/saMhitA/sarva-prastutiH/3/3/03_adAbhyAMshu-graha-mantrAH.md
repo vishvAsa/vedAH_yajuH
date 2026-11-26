@@ -962,6 +962,12 @@ nemíḥ ← nemí- (nominal stem)
 परि॒ विश्वा॑नि॒ काव्या॑ ने॒मिश्च॒क्रमि॑वाभवत् ॥ [7]
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दधन्वे᳓ वा य᳓द् ईम् अ᳓नु वो᳓चद् ब्र᳓ह्माणि वे᳓र् उ त᳓त्  
+प᳓रि वि᳓श्वानि का᳓व्या नेमि᳓श् चक्र᳓म् इवाभुवत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द॒ध॒न्वे । वा॒ । यत् । ई॒म् । अनु॑ । वोच॑त् । ब्रह्मा॑णि । वेः । ऊं॒ इति॑ । तत् ।  
@@ -971,6 +977,27 @@ nemíḥ ← nemí- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 द॒ध॒न्वे । वा॒ । यत् । ई॒म् । अन्विति॑ । वोच॑त् । ब्रह्मा॑णि । वेः । उ॒ । तत् ॥ परीति॑ । विश्वा॑नि । काव्या॑ । ने॒मिः । च॒क्रम् । इ॒व॒ । अ॒भ॒व॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दधन्वे᳓ (*TS*-1, *RV*-2/5, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- ईम् (*TS*-11, *RV*-206, *TB*-1, *AV*-26, *SB-M*-3, *SB-K*-4, *VS-M*-10, *VS-K*-5, *KS*-3)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- वो᳓चत् (*TS*-1, *RV*-1)
+- ब्र᳓ह्माणि (*TS*-1/157, *RV*-55/237, *TB*-0/95, *TK*-0/38, *AV*-14/266, *SB-M*-0/420, *SB-K*-0/434, *VS-M*-3/55, *VS-K*-3/51, *KS*-3/53)
+- वेः᳓ (*TS*-3/427, *RV*-24/1109, *TB*-0/240, *TK*-0/7, *AV*-1/487, *SB-M*-3/656, *SB-K*-3/704, *VS-M*-4/216, *VS-K*-2/173, *KS*-2/149)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- वि᳓श्वानि (*TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/214, *VS-K*-8/214, *KS*-6/118)
+- का᳓व्या (*TS*-3, *RV*-17/41, *TB*-0/1, *AV*-0/8, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/3, *VS-K*-0/5, *KS*-1/2)
+- नेमिः᳓ (*TS*-2/3, *RV*-5/11, *TB*-2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *KS*-0/1)
+- चक्र᳓म् (*TS*-2/5, *RV*-33/53, *TB*-1/3, *AV*-8/22, *SB-M*-1/23, *SB-K*-1/43, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/3)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- आ-भुवत् (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1146,6 +1173,12 @@ When one doth hasten after him,
 Or uttereth prayers, he doth accept it  
 All knowledge doth he embrace,  
 Even as the felly the wheel.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether he ran or whether he spoke sacred words to him, and he took note of that;  
+he encompassed all poetic wisdoms as the felloe encompasses the wheel.
 </details>
 
 <details><summary>Oldenberg</summary>

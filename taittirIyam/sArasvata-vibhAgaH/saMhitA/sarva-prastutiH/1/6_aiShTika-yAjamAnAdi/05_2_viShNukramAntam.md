@@ -1,6 +1,7 @@
 +++
 title = "०५.२ विष्णुक्रमान्तम्"
 +++
+
 ## विष्णुक्रममन्त्रः १
 _______
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -196,28 +197,60 @@ excluded is he whom we hate.
 </div>  
 
 ## विष्णुक्रममन्त्रः ३
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam/06_viShNo_kramo-sy_arAtIyato.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 वि᳓ष्णोᳵ क्र᳓मोऽस्य् अरातीयतो᳓ हन्ता᳓  
 जा᳓गतेन छ᳓न्दसा दि᳓वम् अ᳓नु वि᳓ क्रमे।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam/06_viShNo_kramo-sy_arAtIyato.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Thou art the step of Visnu, smiter of him who practiseth evil;  
 with the Jagati metre I step across the sky;
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the stride of Viṣṇu that slays the ill-wisher:  
+ascend the jāgata metre;  
+stride along the sky!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽस्यरातीय॒तो ह॒न्ता जाग॑तेन॒ छन्द॑सा॒ दिव॒मनु॒ वि क्र॑मे।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓ष्णोः क्र᳓मो ऽस्य् अरातीयतो᳓ हन्ता᳓  
+जा᳓गतं छ᳓न्दा आ᳓रोह  
+दि᳓वम् अनुवि᳓क्रमस्व
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒रा॒ती॒य॒तः । ह॒न्ता । जाग॑तेन । छन्द॑सा । दिव॑म् । अनु॑ । वीति॑ । क्र॒मे॒ । 
+विष्णोः॑ । क्रमः॑ । अ॒सि॒ । अ॒रा॒ती॒य॒तः । ह॒न्ता । जाग॑तेन । छन्द॑सा । दिव॑म् । अनु॑ । वीति॑ । क्र॒मे॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓ष्णोः (*TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-22/59, *VS-K*-11/62, *KS*-14/43)
+- क्र᳓मः (*TS*-13/15, *TB*-0/1, *AV*-9/10, *SB-M*-4, *SB-K*-5, *VS-M*-4, *VS-K*-4, *KS*-2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- अरातीयतः᳓ (*TS*-4, *SB-M*-2, *SB-K*-2, *VS-M*-1)
+- हन्ता᳓ (*TS*-6/7, *RV*-7/9, *AV*-6/8, *SB-M*-5, *SB-K*-25, *VS-M*-2/4, *VS-K*-1/2, *KS*-0/2)
+- जा᳓गतम् (*TS*-7/31, *TB*-1/4, *SB-M*-8/26, *SB-K*-6/22, *VS-M*-1/12, *VS-K*-1/12, *KS*-1/4)
+- छ᳓न्दाः (*TS*-0/128, *RV*-0/5, *TB*-0/29, *AV*-0/4, *SB-M*-0/194, *SB-K*-0/194, *VS-M*-0/111, *VS-K*-0/46, *KS*-0/16)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- रोह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-12, *RV*-4, *TB*-3, *AV*-24, *SB-M*-13, *SB-K*-11, *VS-M*-14, *VS-K*-6, *KS*-3)
+- दि᳓वम् (*TS*-44/270, *RV*-37/854, *TB*-18/119, *TK*-4/15, *AV*-63/340, *SB-M*-81/353, *SB-K*-79/342, *VS-M*-28/167, *VS-K*-27/172, *KS*-9/128)
+- अनु (गतिर्गतौ पा॰ ८.१.७०, *TS*-2, *RV*-1, *TB*-31, *TK*-5, *AV*-1, *SB-M*-463, *SB-K*-445, *VS-M*-2, *VS-K*-1, *KS*-27)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- क्रमस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-4, *AV*-4, *SB-M*-7, *SB-K*-7, *VS-M*-6, *VS-K*-8, *KS*-2)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -226,8 +259,7 @@ with the Jagati metre I step across the sky;
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
 </details>
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+</div><div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
@@ -270,27 +302,58 @@ excluded is he whom we hate.
 </div>  
 
 ## विष्णुक्रममन्त्रः ४
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam/08_viShNo_kramo-si_shatrUyato.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 वि᳓ष्णोᳵ क्र᳓मोऽसि शत्रूयतो᳓ हन्ता᳓ऽऽनुष्टुभेन छ᳓न्दसा दि᳓शो᳓ऽनु वि᳓ क्रमे॥
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam/08_viShNo_kramo-si_shatrUyato.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Thou art the step of Visnu, smiter of the hostile one;  
 with the Anustubh metre I stop across the quarters;
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the stride of Viṣṇu that slays the enemy;  
+mount the Anuṣṭubh meter;  
+stride along the quarters!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 विष्णो॒ᳵ क्रमो॑ऽसि शत्रूय॒तो ह॒न्ताऽऽनु॑ष्टुभेन॒ छन्द॑सा॒ दिशोऽनु॒ वि क्र॑मे॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+विष्णोः क्रमो ऽसि शत्रूयतो हन्त्  
+आनुष्टुभं छन्द आरोह दिशो ऽनुविक्रमस्व
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 विष्णोः॑ । क्रमः॑ । अ॒सि॒ । श॒त्रू॒य॒त इति॑ शत्रु-य॒तः । ह॒न्ता । आनु॑ष्टुभे॒नेत्यानु॑-स्तु॒भे॒न॒ । छन्द॑सा । दिशः॑ । अनु॑ । वीति॑ । क्र॒मे॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वि᳓ष्णोः (*MS*-48/186, *TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-21/58, *VS-K*-12/64)
+- क्र᳓मः (*MS*-9/12, *TS*-13/15, *TB*-0/1, *AV*-9/10, *SB-M*-4, *SB-K*-5, *VS-M*-4, *VS-K*-4)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- शत्रु-यतः᳓ (*TS*-2, *RV*-0/3, *TB*-1, *AV*-1/4, *SB-K*-2, *VS-M*-1)
+- ह᳓न् (*RV*-10, *TB*-1, *VS-K*-1)
+- आ᳓नुष्टुभम् (*MS*-1/7, *TS*-0/1, *TB*-0/2, *SB-M*-4/5, *SB-K*-3/4, *VS-M*-1/2, *VS-K*-0/1)
+- छ᳓न्दः (*Whitney*, *MS*-138/416, *TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- रोह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-12, *RV*-4, *TB*-3, *AV*-24, *SB-M*-13, *SB-K*-11, *VS-M*-14, *VS-K*-9, *MS*-8)
+- दि᳓शः (*MS*-70, *TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-25)
+- अनु (गतिर्गतौ पा॰ ८.१.७०, *MS*-182, *TS*-2, *RV*-1, *TB*-31, *TK*-5, *AV*-1, *SB-M*-463, *SB-K*-445, *VS-M*-2, *VS-K*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- क्रमस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-4, *AV*-4, *SB-M*-7, *SB-K*-7, *VS-M*-6, *VS-K*-8, *MS*-7)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -306,8 +369,7 @@ with the Anustubh metre I stop across the quarters;
 इति षष्ठे पञ्चमोनुवाकः ॥
 </details>
 </details>
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+</div><div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।

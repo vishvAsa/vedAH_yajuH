@@ -99,6 +99,18 @@ sutám ← √su- (root)
 दा॒श्वाँसो॑ दा॒शुषः॑ सु॒तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ओ᳓मासश् चर्षणीधृतो वि᳓श्वे देवासा आ᳓गत  
+दाश्वाँ᳓सो दाशु᳓षः सुत᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ओ᳓मासश्चर्षणीधृतो वि᳓श्वे देवास आ᳓गत।  
+दाश्वाँसो दाशु᳓षस्सुत᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ओमा॑सः । च॒र्ष॒णि॒ऽधृ॒तः॒ । विश्वे॑ । दे॒वा॒सः॒ । आ । ग॒त॒ ।  
@@ -108,6 +120,31 @@ sutám ← √su- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ओमा॑सः। च॒र्ष॒णी॒धृ॒तः॒। च॒र्ष॒णि॒धृ॒त॒ इति॑ चर्षणिऽधृतः। विश्वे॑। दे॒वा॒सः॒। आ। ग॒त॒। दा॒श्वाँसः॑। दा॒शुषः॑। सु॒तम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ओ᳓मासः (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2/4, *KS*-1)
+- चर्षणि-धृतः (*TS*-1, *RV*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- वि᳓श्वे (*TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-48/214, *VS-K*-46/214, *KS*-31/118)
+- देवा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-32, *RV*-13, *TB*-17, *TK*-1, *AV*-1, *SB-M*-12, *SB-K*-17, *VS-M*-19, *VS-K*-10, *KS*-1)
+- साः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓-गत (*TS*-2/7, *RV*-1/5, *TB*-2/3, *AV*-2/7, *SB-M*-1/22, *SB-K*-1/25, *VS-M*-3, *VS-K*-1/3, *KS*-1/5)
+- दाश्वां᳓सः (*TS*-1/2, *RV*-2/11, *SB-M*-2, *SB-K*-2, *VS-M*-1/2, *VS-K*-1/2)
+- दाशु᳓षः (*TS*-2/18, *RV*-23/139, *TB*-0/6, *AV*-1/21, *SB-M*-1/7, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-6/12, *KS*-2/16)
+- सुत᳓म् (*TS*-8/19, *RV*-75/392, *TB*-7/20, *AV*-15/61, *SB-M*-8/28, *SB-K*-8/29, *VS-M*-11/39, *VS-K*-8/31, *KS*-4/15)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ओ᳓मासः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2/4)
+- चर्षणि-धृतः (*TS*-1, *RV*-1, *VS-M*-2, *VS-K*-2, *MS*-1)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवासः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-6, *RV*-21, *AV*-9, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4)
+- आ᳓-गत (*MS*-3/18, *TS*-2/7, *RV*-1/5, *TB*-2/3, *AV*-2/7, *SB-M*-1/22, *SB-K*-1/25, *VS-M*-3, *VS-K*-1/3)
+- दाश्वांसः → **दाश्वां᳓सः** (स्वर-लोपः, *MS*-1/2, *TS*-1/2, *RV*-2/11, *SB-M*-2, *SB-K*-2, *VS-M*-1/2, *VS-K*-1/2)
+- दाशु᳓षः (*MS*-6/24, *TS*-2/18, *RV*-23/139, *TB*-0/6, *AV*-1/21, *SB-M*-1/7, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-6/13)
+- सुत᳓म् (*MS*-8/27, *TS*-8/19, *RV*-75/392, *TB*-7/20, *AV*-15/61, *SB-M*-8/28, *SB-K*-8/29, *VS-M*-11/39, *VS-K*-8/32)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -246,6 +283,17 @@ Ye Visvedevas, who protect, reward, and cherish men, approach
 Ye dread ones, guardians of men,  
 O All-gods, come ye,  
 Generous, to the pressed drink of the generous one.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O helpers, supporters of peoples, All-gods, come,  
+bountiful ones, to the pressed [juice] of the pious giver!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O protectors, supporters of men, all you gods, come,
 </details>
 
 <details><summary>Geldner</summary>

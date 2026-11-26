@@ -123,6 +123,12 @@ vivāsanti ← √vanⁱ- (root)
 तव॒ प्रणी॑ती॒ तव॑ शूर॒ शर्म॒न्नावि॑वासन्ति क॒वयः॑ सुय॒ज्ञाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्र मरुत्व इह᳓ पाहि सो᳓मं य᳓था शार्याते᳓ अ᳓पिबस्सुत᳓स्य।  
+त᳓व प्र᳓णीत त᳓व शूर श᳓र्मन्ना᳓विवासन्ति कव᳓यस्सुयज्ञाः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑ । म॒रु॒त्वः॒ । इ॒ह । पा॒हि॒ । सोम॑म् । यथा॑ । शा॒र्या॒ते । अपि॑बः । सु॒तस्य॑ ।  
@@ -132,6 +138,28 @@ vivāsanti ← √vanⁱ- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 इन्द्रः॑। म॒रु॒त्वः॒। इ॒ह। पा॒हि॒। सोम॑म्। यथा॑। शा॒र्य्या॒ते। अपि॑बः। सु॒तस्य॑। तव॑। प्रणी॑ती। प्रनी॑तीति॒ प्रऽनी॑ती। तव॑। शू॒र॒। शर्म्म॑न्। आ। वि॒वा॒स॒न्ति॒। क॒वयः॑। सु॒य॒ज्ञा इति॑ सुऽय॒ज्ञाः।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- मरुत्वः (*TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- पाहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-78, *TS*-69, *RV*-65, *TB*-15, *AV*-37, *SB-M*-42, *SB-K*-41, *VS-M*-43, *VS-K*-36)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- य᳓था (*MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- शार्याते᳓ (*TS*-1, *RV*-1/2, *SB-M*-1/2, *SB-K*-0/2, *VS-K*-1)
+- अ᳓पिबः (*MS*-2/5, *TS*-1, *RV*-9, *AV*-1, *SB-M*-2/3, *SB-K*-1/2, *VS-M*-3, *VS-K*-8/9)
+- सुत᳓स्य (*MS*-6/27, *TS*-4/19, *RV*-69/392, *TB*-3/20, *AV*-12/61, *SB-M*-5/28, *SB-K*-6/29, *VS-M*-6/39, *VS-K*-6/32)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- प्र᳓-णीत (*MS*-0/2, *TS*-0/2, *RV*-0/4, *SB-M*-7/12, *SB-K*-9/14, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- शूर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5, *TS*-4, *RV*-95, *TB*-1, *AV*-20, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-4)
+- श᳓र्मन् (*MS*-5, *TS*-2, *RV*-19, *AV*-1, *SB-M*-1, *VS-M*-1/2, *VS-K*-1/2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विवासन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-3, *SB-M*-1, *MS*-1)
+- कव᳓यः (*MS*-11/36, *TS*-6/31, *RV*-36/200, *TB*-5/21, *AV*-12/30, *SB-M*-4/11, *SB-K*-3/9, *VS-M*-5/23, *VS-K*-5/26)
+- सु-यज्ञाः᳓ (*MS*-1, *TS*-1, *RV*-2/4, *SB-M*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -330,6 +358,12 @@ O Indra with the Maruts drink here the Soma,
 As thou didst drink the pressed drink with Çaryata  
 Under thy guidance, in thy protection, O hero,  
 The singers skilled in sacrifice are fain to serve.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra accompanied by the Maruts, drink Soma here, as you drank of the pressed [juice] at the Śāryāta [sacrifice];  
+under your guidance, O hero, in your protection, the well-sacrificing poets seek to win [favor].
 </details>
 
 <details><summary>Geldner</summary>

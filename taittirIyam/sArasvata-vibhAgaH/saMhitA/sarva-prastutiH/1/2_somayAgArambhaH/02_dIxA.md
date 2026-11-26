@@ -35,7 +35,7 @@ ________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/25_A_kUtyai_prayu.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/25_AkUtyai_prayuje.agnaye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓कूत्यै प्रयु᳓जे ऽग्न᳓ये स्वा᳓हा
@@ -51,6 +51,11 @@ To Resolution, Motive, Agni, Svâhâ!
 <details><summary>Keith</summary>
 
 To the purpose, to the impulse, to Agni, hail!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To intention, to the yoker, to Agni, svāhā!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -121,6 +126,11 @@ To the purpose, to the impulse, to Agni, hail!
 
 यदा मनसाकूतिस् तदा पुरुष ऋत्विजाम् अग्रे यज्ञम् अभिलक्ष्य 'यजेयेति' वाचं प्रयुङ्क्ते।
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[11_6]** So corr. Ch °र्वहतेर्त्ति° (Thus emended; Ch reads र्वहतेर्त्ति°)
+</details>
 </details>
 </div>
 
@@ -163,7 +173,7 @@ To wisdom, to thought, to Agni, hail!
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/27_dIxA_yai_ta.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/27_dIxAyai_tapase.agnaye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीक्षा᳓यै त᳓पसे ऽग्न᳓ये स्वा᳓हा
@@ -179,6 +189,11 @@ All-hail to Consecration, Fervour, Agni!
 <details><summary>Keith</summary>
 
 To consecration, to penance, to Agni, hail!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To consecration, to ascetic toil, to Agni, svāhā!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -226,7 +241,7 @@ To consecration, to penance, to Agni, hail!
 </details>
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/28_sa_rasvatyai_pUShNe.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/04/28_sarasvatyai_pUShNe.agnaye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓रस्वत्यै पूष्णे᳙ ऽग्नये स्वा᳓हा।
@@ -242,6 +257,11 @@ Hail to Sarasvatî, Pûshan, and Agni!
 <details><summary>Keith</summary>
 
 To Sarasvati, to Prisan, to Agni, hail!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Sarasvatī, to Pūṣan, to Agni, svāhā!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -503,6 +523,18 @@ Every man prayeth for wealth;
 Let him choose glory that he may prosper,
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Every mortal would choose the friendship of the divine guide;  
+everyone begs for wealth; he would choose splendor to flourish, svāhā!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+Every mortal should choose the friendship of the divine leader;  
+everyone seeks wealth, should choose brilliance to thrive. // Svāhā!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 विश्वो॑ दे॒वस्य॑ ने॒तुर्मर्त्तो॑ वुरीत स॒ख्यम्।  
@@ -514,6 +546,12 @@ Let him choose glory that he may prosper,
 विश्वे॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ऽवृणीत स॒ख्यम्।  
 विश्वे॑ रा॒य इ॑षुध्यसि द्यु॒म्नव्ँवृ॑णीत पु॒ष्यसे॑।  
 (स्वाहा॑ ।)
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वो देव᳓स्य नेतु᳓र् म᳓र्तो वुरीत सख्य᳓म्  
+वि᳓श्वो राय᳓ इषुध्यति द्युम्नँ᳓ वृणीत पुष्य᳓से ॥ स्वा᳓हा
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -529,6 +567,23 @@ Let him choose glory that he may prosper,
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विश्वे॑ । दे॒वस्य॑ । ने॒तुः । मर्तः॑ । वृ॒णी॒त॒ । स॒ख्यम् । विश्वे॑ । रा॒यः । इ॒षु॒ध्य॒सि॒ । द्यु॒म्नम् । वृ॒णी॒त॒ । पु॒ष्यसे॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वः (*TS*-0/283, *RV*-16/1116, *TB*-0/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-7/219, *VS-M*-7/214, *VS-K*-6/214, *KS*-1/118)
+- देव᳓स्य (*TS*-39/1025, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-43/517, *VS-K*-37/498, *KS*-22/317)
+- नेतुः᳓ (*TS*-4/9, *RV*-1/16, *TB*-0/1, *AV*-0/4, *SB-M*-4/9, *SB-K*-4, *VS-M*-3/6, *VS-K*-3/6, *KS*-1/4)
+- म᳓र्तः (*TS*-7/9, *RV*-34/136, *TB*-3, *AV*-3/11, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-2/6, *KS*-3/4)
+- वुरीत (*RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-3)
+- सख्य᳓म् (*TS*-5/7, *RV*-44/134, *TB*-3/5, *AV*-2/12, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-5/6, *VS-K*-5, *KS*-2/4)
+- वि᳓श्वः (*TS*-0/283, *RV*-16/1116, *TB*-0/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-7/219, *VS-M*-7/214, *VS-K*-6/214, *KS*-1/118)
+- रायः᳓ (*TS*-50/80, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63, *KS*-5/23)
+- इषुध्यति (*RV*-1, *SB-M*-1, *SB-K*-2)
+- द्युम्न᳓म् (*TS*-6/13, *RV*-23/61, *TB*-2/6, *TK*-0/1, *AV*-5/12, *SB-M*-9/11, *SB-K*-7/10, *VS-M*-8/12, *VS-K*-15/18, *KS*-0/2)
+- वृणीत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-3, *TB*-1, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- पुष्य᳓से (*TS*-3, *RV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-478, *KS*-116)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1099,6 +1154,12 @@ sutármāṇam ← sutárman- (nominal stem)
 सु॒तर्मा॑ण॒मधि॒ नावँ॑ रुहेम॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इमां धियँ शिक्षमानस्य देव क्रतुं᳓ दक्षं वरुणँ सँशिशाधि।  
+ययाति विश्वा दुरिता तरेम सुतर्माणमधि नावं रुहेयम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । क्रतु॑म् । दक्ष॑म् । व॒रु॒ण॒ । सम् । शि॒शा॒धि॒ ।  
@@ -1108,6 +1169,28 @@ sutármāṇam ← sutárman- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । क्रतु॑म् । दक्ष॑म् । व॒रु॒ण॒ । समिति॑ । शि॒शा॒धि॒ । यया॑ । अतीति॑ । विश्वा॑ । दु॒रि॒तेति॑ दुः-इ॒ता । तरे॑म । सु॒तर्मा॑ण॒मिति॑ सु-तर्मा॑णम् । अधीति॑ । नाव॑म् । रु॒हे॒म॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इमा᳓म् (*MS*-62/1379, *TS*-47/965, *RV*-55/1247, *TB*-24/567, *TK*-0/57, *AV*-55/1259, *SB-M*-186/5239, *SB-K*-157/5549, *VS-M*-10/319, *VS-K*-8/301)
+- धि᳓यम् (*MS*-11/20, *TS*-5/11, *RV*-45/113, *TB*-5/8, *AV*-5/10, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-4/19, *VS-K*-3/17)
+- शिक्ष (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-8, *AV*-1)
+- मा᳓नस्य (*MS*-0/3, *TS*-0/1, *RV*-2/15, *AV*-3/4, *SB-K*-2/4, *VS-M*-0/1, *VS-K*-0/1)
+- दे᳓व (*MS*-15, *TS*-14/18, *RV*-12/13, *TB*-1, *TK*-2, *AV*-6/7, *SB-M*-9, *SB-K*-11, *VS-M*-8, *VS-K*-10/11)
+- क्र᳓तुम् (*MS*-8/23, *TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-7/19, *VS-K*-7/22)
+- द᳓क्षम् (*MS*-3/19, *TS*-3/13, *RV*-29/92, *TB*-1/5, *TK*-0/2, *AV*-8/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-2/12, *VS-K*-2/13)
+- व᳓रुणम् (*MS*-24/226, *TS*-14/118, *RV*-35/308, *TB*-20/85, *TK*-1, *AV*-10/113, *SB-M*-7/153, *SB-K*-6/152, *VS-M*-5/84, *VS-K*-5/84)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- शिशाधि (*TS*-3, *RV*-2, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-3, *MS*-3)
+- यया᳓ति (*Whitney*, *MS*-1, *RV*-0/1)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- दुः-इता᳓ (*MS*-4/9, *TS*-4/7, *RV*-33/59, *TB*-2/4, *AV*-4/36, *SB-M*-2, *SB-K*-1, *VS-M*-2/4, *VS-K*-1/2)
+- त᳓रेम (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-1, *RV*-3, *AV*-1)
+- सु-त᳓र्माणम् (*MS*-1, *TS*-1, *RV*-1)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- ना᳓वम् (*MS*-4/6, *TS*-4/5, *RV*-16/20, *AV*-9/10, *SB-M*-6/7, *SB-K*-7/9, *VS-M*-1/2, *VS-K*-2/3)
+- रुहेयम् (*MS*-3, *TS*-1, *TB*-1, *SB-M*-2, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1260,6 +1343,11 @@ _________
 इति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[12_3]** Ch नावँ
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1292,6 +1380,12 @@ O god,Varuna, do thou sharpen this prayer of him who implores thee,
 Sharpen his strength, his insight;  
 May we mount that safe ship  
 Whereby we' may pass over all our difficulties.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sharpen this thought, insight, and skill of the one striving, O divine Varuṇa,  
+whereby we may cross over all misfortunes; may I mount a well-crossing boat.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1734,7 +1828,7 @@ ________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/09_supippalA_bhyas_tvau.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/09_supippalAbhyas_tvauShadhIbhyaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपिप्पला᳓भ्यस् त्वौ᳓षधीभ्यः।

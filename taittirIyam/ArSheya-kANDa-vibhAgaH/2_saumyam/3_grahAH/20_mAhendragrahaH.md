@@ -105,6 +105,12 @@ vāvr̥dhe ← √vr̥dh- (root)
 म॒हाँ३ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॒ वृष्टि॒माँ३ इ॑व स्तोमै॑र्व॒त्सस्य॑ वावृधे ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+महाँ इ᳓न्द्रो य᳓ ओ᳓जसा प᳓र्जन्यो वृष्टिमाँ इव।  
+स्तो᳓मैर्वत्स᳓स्य वावृधे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒हान् । इन्द्रः॑ । यः । ओज॑सा । प॒र्जन्यः॑ । वृ॒ष्टि॒मान्ऽइ॑व ।  
@@ -114,6 +120,20 @@ vāvr̥dhe ← √vr̥dh- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 म॒हान्। इन्द्रः॑। यः। ओज॑सा। प॒र्जन्यः॑। वृ॒ष्टि॒माँ२इ॑व। वृ॒ष्टि॒मानि॒वेति॑ वृष्टि॒मान्ऽइ॑व। स्तोमैः॑। व॒त्सस्य॑। वा॒वृ॒धे॒। व॒वृ॒ध इति॑ ववृधे।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- महाम् → **महा᳓म्** (स्वर-लोपः, *MS*-7/38, *TS*-2/28, *RV*-27/398, *TB*-4/21, *TK*-2/6, *AV*-2/81, *SB-M*-3/42, *SB-K*-3/40, *VS-M*-18/35, *VS-K*-11/52)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ओ᳓जसा (*MS*-30/106, *TS*-9/97, *RV*-103/169, *TB*-5/23, *TK*-0/3, *AV*-28/92, *SB-M*-13/46, *SB-K*-13/46, *VS-M*-14/37, *VS-K*-16/35)
+- प᳓र्जन्यः (मूल-पाठः)
+- वृष्टि-मान् → **वृष्टि-मा᳓न्** (स्वर-लोपः, *MS*-0/1, *TS*-1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- स्तो᳓मैः (*MS*-8/89, *TS*-7/122, *RV*-25/206, *TB*-0/37, *AV*-5/44, *SB-M*-11/166, *SB-K*-11/166, *VS-M*-7/45, *VS-K*-7/51)
+- वत्स᳓स्य (*MS*-1/28, *TS*-2/24, *RV*-4/59, *TB*-0/22, *AV*-2/60, *SB-M*-0/29, *SB-K*-0/33, *VS-M*-1/6, *VS-K*-1/5)
+- वावृधे (*MS*-5, *TS*-4, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -236,6 +256,12 @@ INDRA, great in his power and might, and like Parjanya rich in rain,
 Great is Indra who through his might  
 Is like Parjanya with the rain;  
 He waxeth with the praises of Vatsa.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Great is Indra, who by his might, like Parjanya possessed of rain,  
+has grown through the praise-songs of Vatsa.
 </details>
 
 <details><summary>English</summary>

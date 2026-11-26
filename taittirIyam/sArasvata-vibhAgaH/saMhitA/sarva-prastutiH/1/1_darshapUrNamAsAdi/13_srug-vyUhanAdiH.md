@@ -814,26 +814,46 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/15_agner_vAm_apannagRhasya.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 +++(हे जुहूपभृतौ!)+++ अग्ने᳓र् वाम् अ᳓पन्न+++(=निश्चल)+++गृहस्य स᳓दसि सादयामि ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/15_agner_vAm_apannagRhasya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 I set thee in the seat of Agni whose abode is secure.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I set you in the seat of Agni, whose house has fallen away.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्नेर्वा॒मप॑न्नगृहस्य॒ सद॑सि सादयामि ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अग्ने᳓र् वो᳓ ऽपन्नगृहस्य स᳓दसि सादयामि
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नेः । वा॒म्॒ । अप॑न्नगृह॒स्येत्यप॑न्न-गृ॒ह॒स्य॒ । सद॑सि । सा॒द॒या॒मि॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अग्नेः᳓ (*TS*-163/1195, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/322, *VS-K*-44/339, *KS*-29/256)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- अ᳓पन्न-गृहस्य (*TS*-2, *TB*-1/2, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- स᳓दसि (*TS*-9/47, *RV*-8/35, *TB*-4/9, *AV*-1/9, *SB-M*-11/52, *SB-K*-16/45, *VS-M*-1/12, *VS-K*-4/12, *KS*-0/2)
+- सादयामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *TB*-3, *AV*-5, *SB-M*-30, *SB-K*-30, *VS-M*-24, *VS-K*-23, *KS*-2)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -847,8 +867,7 @@ I set thee in the seat of Agni whose abode is secure.
 किञ्च - धुरि यागलक्षणायामस्यां वर्तमानौ धुर्यौ अस्या धुरो वोढारौ पत्नीयजमानौ पातं रक्षतम् ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यजमान-)+++सुम्ना᳓य+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सुम्ने᳓ मा +++(अध्वर्युं)+++ धत्तम्।
 </details>

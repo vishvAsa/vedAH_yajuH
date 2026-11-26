@@ -161,7 +161,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -173,7 +173,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -1048,7 +1048,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -1923,7 +1923,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1936,10 +1936,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 र॒यी॒णाम् पतिय्ँ॑ यज॒तम् बृ॒हन्त॑म् ।  
 अ॒स्मिन्भरे॒ नृत॑मव्ँ॒वाज॑सातौ ।  
@@ -1947,9 +1947,41 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 यजा॑म दे॒वमधि॑ नो ब्रवीतु ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+रयीणां᳓ प᳓तिँ यजतं᳓ बृह᳓न्तम् अस्मि᳓न् भ᳓रे नृ᳓तमँ वा᳓जसातौ  
+प्रजा᳓पतिं प्रथमजा᳓म् ऋत᳓स्य य᳓जाम देव᳓म् अ᳓धि नो ब्रवीतु
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- रयीणा᳓म् (*TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/35, *VS-K*-7/32, *KS*-6/27)
+- प᳓तिम् (*TS*-7/45, *RV*-57/200, *TB*-8/21, *TK*-0/6, *AV*-34/137, *SB-M*-10/64, *SB-K*-9/61, *VS-M*-14/44, *VS-K*-13/55, *KS*-4/26)
+- यजत᳓म् (*TS*-1, *RV*-12/39, *TB*-3/6, *AV*-0/2, *SB-K*-0/7, *VS-M*-0/2, *VS-K*-0/2, *KS*-2/3)
+- बृह᳓न्तम् (*TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7, *KS*-2)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/313, *VS-K*-22/289, *KS*-16/319)
+- भ᳓रे (*TS*-1/6, *RV*-26/53, *TB*-1/3, *AV*-2/7, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/2)
+- नृ᳓तमम् (*TS*-0/1, *RV*-17/37, *TB*-1, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- वा᳓ज-सातौ (*TS*-2/4, *RV*-29/65, *TB*-1/2, *AV*-2/8, *SB-M*-2, *SB-K*-1, *VS-M*-5/7, *VS-K*-4/5, *KS*-1/2)
+- प्रजा᳓-पतिम् (*TS*-46/437, *RV*-0/5, *TB*-22/248, *TK*-2/46, *AV*-7/76, *SB-M*-116/774, *SB-K*-119/769, *VS-M*-1/44, *VS-K*-1/46, *KS*-2/48)
+- प्रथम-जा᳓म् (*TS*-0/10, *RV*-2/9, *TB*-1/4, *TK*-0/2, *AV*-2/13, *SB-M*-0/16, *SB-K*-0/17, *VS-M*-1/11, *VS-K*-1/11, *KS*-0/2)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- य᳓जाम (*TS*-1, *RV*-2, *TB*-1, *SB-M*-2, *SB-K*-1)
+- देव᳓म् (*TS*-17/1025, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/517, *VS-K*-45/498, *KS*-10/317)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ब्रवीतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-2, *AV*-2, *VS-M*-1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 भ्रियते संपाद्यते हविरत्रेति भरो यज्ञः । अस्मिन्भरे प्रजापतिं देवं वयं यजाम । कीदृशं देवं? रयीणां पतिं धनस्वामिनम् । यजतं यजनीयम् । बृहन्तं महान्तम् । नृतमं अतिशयेन पुरुषं पुरुषेषूत्तममित्यर्थः । ऋतस्य यज्ञस्य प्रथमजां प्रथममेव जनयितारं 'प्रजापतिर्यज्ञानसृजत' इत्यन्यत्र श्रवणात् । कीदृशे भरे? **वाजसातौ** वाजस्यान्नस्य सातिर्दानं यस्मिन्यज्ञे सोऽयं वाजसातिः तस्मिन् । सोऽयमस्माभिरिष्टः प्रजापतिर्देवेषु मध्ये नोऽस्मानधिकान्ब्रवीतु ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lord of riches, the worshipful, the great, the most manly in this contest for the winning of prize,  
+Prajāpati, the firstborn of truth, let us worship; may the god speak for us!
 </details>
 </details>
 
@@ -1963,7 +1995,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1976,10 +2008,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्रजा॑पते॒ त्वन्नि॑धि॒पाᳶ पु॑रा॒णः ।  
 दे॒वाना॑म्पि॒ता ज॑नि॒ता प्र॒जाना॑म् ।  
@@ -1987,9 +2019,42 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 ह॒विर्नो॑ देव विह॒वे जु॑षस्व ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्र᳓जापते त्वं᳓ निधिपाः᳓ पुराणो᳓ देवा᳓नां पिता᳓ जनिता᳓ प्रजा᳓नाम्  
+प᳓तिर् वि᳓श्वस्य ज᳓गतः परस्पा᳓ हवि᳓र् नो देव विहवे᳓ जुषस्व
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓जा-पते (*TS*-4, *RV*-1, *TB*-3, *TK*-14, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-3, *KS*-1)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- निधि-पाः᳓ (*TB*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- पुराणः᳓ (*TS*-0/3, *RV*-2/7, *TB*-0/3, *TK*-0/1, *AV*-1/8, *SB-M*-2/14, *SB-K*-2/16, *VS-M*-0/3, *VS-K*-0/2)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/520, *VS-K*-63/507, *KS*-67/317)
+- पिता᳓ (*TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-18/63, *KS*-13/43)
+- जनिता᳓ (*TS*-3/4, *RV*-26/29, *TB*-1, *AV*-8/13, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-6/7, *VS-K*-7/8, *KS*-1/2)
+- प्र-जा᳓नाम् (*TS*-29/482, *RV*-0/70, *TB*-24/258, *TK*-0/13, *AV*-6/164, *SB-M*-30/595, *SB-K*-39/626, *VS-M*-6/68, *VS-K*-3/61, *KS*-5/82)
+- प᳓तिः (*TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-22/44, *VS-K*-25/55, *KS*-13/26)
+- वि᳓श्वस्य (*TS*-15/283, *RV*-67/1116, *TB*-5/125, *TK*-43/124, *AV*-23/353, *SB-M*-12/248, *SB-K*-12/219, *VS-M*-17/214, *VS-K*-20/214, *KS*-5/118)
+- ज᳓गतः (*TS*-8/16, *RV*-20/40, *TB*-4/6, *TK*-1, *AV*-9/20, *SB-M*-2/9, *SB-K*-2/12, *VS-M*-6/14, *VS-K*-7/15, *KS*-6/13)
+- परः-पा᳓ (*TS*-2/5, *RV*-2/5, *TB*-1/2, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *KS*-1)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- वि-हवे᳓ (*TS*-2/3, *RV*-2/3, *TB*-1, *AV*-2/3, *KS*-0/1)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-8, *KS*-10)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे प्रजापते त्वं निधिपाः शङ्खपद्मादीनां निधीनां पालकः । पुराणो जगतः स्रष्टृत्वादनादिः । देवानां पिता पालकः । प्रजानां मनुष्यादीनां जनिता उत्पादयिता । विश्वस्य सर्वस्य जगतः पतिः स्वामी । **परस्पाः** अतिशयेन पालयिता । हे देव विशेषेण हूयन्ते देवा अत्रेति विहवो यज्ञस्तस्मिन्विहवे नोऽस्मदीयं हविर्जुषस्व ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Prajāpati, you are the ancient guardian of treasure, father of the gods, begetter of offspring;  
+lord of the whole world, highest protector, enjoy our oblation, O god, at the invocation!
 </details>
 </details>
 
@@ -2003,7 +2068,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2016,10 +2081,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श्च ॥ 3 ॥  
 प॒रा॒वतो॑ नि॒वत॑ उ॒द्वत॑श्च ।  
@@ -2027,9 +2092,43 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 प्रति॑हर्य ह॒व्यम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓वेमे᳓ लोकाः᳓ प्रदि᳓शो दि᳓शश् च पराव᳓तो निव᳓त उद्व᳓तश् च  
+प्र᳓जापते विश्वसृ᳓ग् जीव᳓धन्य इदं᳓ नो देव प्र᳓तिहर्य हव्य᳓म्
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/313, *VS-K*-7/289, *KS*-17/319)
+- लोकाः᳓ (*TS*-52/676, *RV*-1/31, *TB*-35/384, *TK*-3/123, *AV*-17/191, *SB-M*-181/1215, *SB-K*-166/1158, *VS-M*-4/48, *VS-K*-4/39, *KS*-6/47)
+- प्र-दि᳓शः (*TS*-10, *RV*-11, *AV*-44, *SB-M*-3, *SB-K*-4, *VS-M*-10, *VS-K*-9, *KS*-4)
+- दि᳓शः (*TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-24, *KS*-14)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- परा-व᳓तः (*TS*-6/12, *RV*-42/64, *TB*-2/7, *AV*-15/23, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-4, *KS*-3)
+- नि-व᳓तः (*TS*-1, *RV*-4/6, *AV*-1/2)
+- उत्-व᳓तः (*TS*-1/2, *RV*-6/7, *AV*-1, *KS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प्र᳓जा-पते (*TS*-4, *RV*-1, *TB*-3, *TK*-14, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-3, *KS*-1)
+- विश्व-सृ᳓क् (*MW*, *Lanman*)
+- जीव᳓धन्यः (*TS*-0/1, *RV*-0/4, *AV*-0/1)
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- प्र᳓ति-हर्य (*TB*-1)
+- हव्य᳓म् (*TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-13/19, *KS*-15/24)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे प्रजापते इमे लोका भूरादयो याश्च प्रदिशः प्रधानभूताः प्राच्याद्या या अप्यन्या आग्नेयाद्या दिशस्तत्सर्वं तवैवाधनिम् । लोका विशेष्यन्ते - परावतः दूरदेशस्था द्वीपान्तरादयः, यजनीयम् न्यग्भूताः पातालादयः, उद्वतश्चोर्ध्ववर्तिनः स्वर्गादयोऽपि । हे देव त्वं विश्वसृत् विश्वस्य स्रष्टा पाता वा । जनेषु प्राणिषु धन्यः ईश्वरो जीवधन्यः तादृशो भूत्वा नोऽस्मदीयमिद्रं हव्यं प्रतिहर्य प्रतिगृहाण ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yours are these worlds, the intermediate directions and the directions, the distances, the depths, and the heights;  
+O Prajāpati, creator of the all, rich in life, accept this our oblation, O god!
 </details>
 </details>
 
@@ -2043,7 +2142,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2056,7 +2155,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -2083,7 +2182,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2096,10 +2195,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   
 यᳶ प॑शू॒नाँ र॑क्षि॒ता विष्ठि॑तानाम् ।  
@@ -2107,9 +2206,41 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 स॒हस्र॑धामा जुषताँ ह॒विर्नः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+यो᳓ राय᳓ ई᳓शे शतदाय᳓ उक्थ्यो᳙ यः᳓ पशूनाँ᳓ रक्षिता᳓ वि᳓ष्ठितानाम्  
+प्रजा᳓पतिः प्रथमजा᳓ ऋत᳓स्य सह᳓स्रधामा जुषताँ हवि᳓र् नः
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- रायः᳓ (*TS*-50/80, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63, *KS*-5/23)
+- ई᳓शे (*TS*-4, *RV*-20, *TB*-3, *AV*-9/15, *SB-M*-1/2, *SB-K*-1, *VS-M*-4/5, *VS-K*-4/5, *KS*-3)
+- शत-दायः᳓ (समासस्य पा॰ ६.१.२२३)
+- उक्थ्यः᳙ (*TS*-10/12, *RV*-18, *TB*-3, *TK*-3, *AV*-2, *SB-M*-15, *SB-K*-13)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-44/338, *TK*-1/7, *AV*-24/140, *SB-M*-93/930, *SB-K*-100/953, *VS-M*-5/36, *VS-K*-4/34, *KS*-11/94)
+- रक्षिता᳓ (*TS*-2, *RV*-3/6, *AV*-8/22, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-1/2)
+- वि᳓-ष्ठितानाम् (*TS*-0/2, *TK*-0/2, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1)
+- प्रजा᳓-पतिः (*TS*-172/437, *RV*-5, *TB*-165/248, *TK*-30/46, *AV*-50/76, *SB-M*-544/774, *SB-K*-529/769, *VS-M*-23/44, *VS-K*-20/46, *KS*-34/48)
+- प्रथम-जाः᳓ (*TS*-5/6, *RV*-7, *TB*-0/2, *TK*-1/2, *AV*-7/9, *SB-M*-8/14, *SB-K*-8/15, *VS-M*-8/10, *VS-K*-7/9, *KS*-1)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- सह᳓स्र-धामा (*MW*)
+- जुषताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *TB*-5, *SB-M*-5, *SB-K*-7, *VS-M*-6, *VS-K*-6)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यः प्रजापतिः शतदायः शतसंख्याकधनप्रदः उक्थ्यः स्तुत्यस्सन् राय ईशे धनस्येश्वरो भवति । यश्च प्रजापतिर्विष्ठितानां विविधमवस्थितानां गोमहिषादीनां पशूनां रक्षिता वर्तते । स प्रजापतिः ऋतस्य यज्ञस्य प्रथमजाः प्रथममुत्पादकः सहस्रधामा सहस्रसंख्याकस्थानयुक्तस्सन् नोऽस्मदीयं हविर्जुषताम् ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Who rules over wealth, hundred-granting, worthy of praise, who is the protector of distributed cattle,  
+Prajāpati, the firstborn of truth, possessing a thousand abodes, may he enjoy our oblation!
 </details>
 </details>
 
@@ -2619,7 +2750,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -2631,7 +2762,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -3506,7 +3637,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 वयँ᳓ स्याम प᳓तयो रयीणा᳓म् ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/121/10_prajApate_na.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
@@ -4381,7 +4512,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4394,10 +4525,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 र॒यी॒णाम् पतिय्ँ॑ यज॒तम् बृ॒हन्त॑म् ।  
 अ॒स्मिन्भरे॒ नृत॑मव्ँ॒वाज॑सातौ ।  
@@ -4405,9 +4536,41 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 यजा॑म दे॒वमधि॑ नो ब्रवीतु ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+रयीणां᳓ प᳓तिँ यजतं᳓ बृह᳓न्तम् अस्मि᳓न् भ᳓रे नृ᳓तमँ वा᳓जसातौ  
+प्रजा᳓पतिं प्रथमजा᳓म् ऋत᳓स्य य᳓जाम देव᳓म् अ᳓धि नो ब्रवीतु
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- रयीणा᳓म् (*TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/35, *VS-K*-7/32, *KS*-6/27)
+- प᳓तिम् (*TS*-7/45, *RV*-57/200, *TB*-8/21, *TK*-0/6, *AV*-34/137, *SB-M*-10/64, *SB-K*-9/61, *VS-M*-14/44, *VS-K*-13/55, *KS*-4/26)
+- यजत᳓म् (*TS*-1, *RV*-12/39, *TB*-3/6, *AV*-0/2, *SB-K*-0/7, *VS-M*-0/2, *VS-K*-0/2, *KS*-2/3)
+- बृह᳓न्तम् (*TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7, *KS*-2)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/313, *VS-K*-22/289, *KS*-16/319)
+- भ᳓रे (*TS*-1/6, *RV*-26/53, *TB*-1/3, *AV*-2/7, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/2)
+- नृ᳓तमम् (*TS*-0/1, *RV*-17/37, *TB*-1, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- वा᳓ज-सातौ (*TS*-2/4, *RV*-29/65, *TB*-1/2, *AV*-2/8, *SB-M*-2, *SB-K*-1, *VS-M*-5/7, *VS-K*-4/5, *KS*-1/2)
+- प्रजा᳓-पतिम् (*TS*-46/437, *RV*-0/5, *TB*-22/248, *TK*-2/46, *AV*-7/76, *SB-M*-116/774, *SB-K*-119/769, *VS-M*-1/44, *VS-K*-1/46, *KS*-2/48)
+- प्रथम-जा᳓म् (*TS*-0/10, *RV*-2/9, *TB*-1/4, *TK*-0/2, *AV*-2/13, *SB-M*-0/16, *SB-K*-0/17, *VS-M*-1/11, *VS-K*-1/11, *KS*-0/2)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- य᳓जाम (*TS*-1, *RV*-2, *TB*-1, *SB-M*-2, *SB-K*-1)
+- देव᳓म् (*TS*-17/1025, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/517, *VS-K*-45/498, *KS*-10/317)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ब्रवीतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-2, *AV*-2, *VS-M*-1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 भ्रियते संपाद्यते हविरत्रेति भरो यज्ञः । अस्मिन्भरे प्रजापतिं देवं वयं यजाम । कीदृशं देवं? रयीणां पतिं धनस्वामिनम् । यजतं यजनीयम् । बृहन्तं महान्तम् । नृतमं अतिशयेन पुरुषं पुरुषेषूत्तममित्यर्थः । ऋतस्य यज्ञस्य प्रथमजां प्रथममेव जनयितारं 'प्रजापतिर्यज्ञानसृजत' इत्यन्यत्र श्रवणात् । कीदृशे भरे? **वाजसातौ** वाजस्यान्नस्य सातिर्दानं यस्मिन्यज्ञे सोऽयं वाजसातिः तस्मिन् । सोऽयमस्माभिरिष्टः प्रजापतिर्देवेषु मध्ये नोऽस्मानधिकान्ब्रवीतु ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lord of riches, the worshipful, the great, the most manly in this contest for the winning of prize,  
+Prajāpati, the firstborn of truth, let us worship; may the god speak for us!
 </details>
 </details>
 
@@ -4421,7 +4584,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4434,10 +4597,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्रजा॑पते॒ त्वन्नि॑धि॒पाᳶ पु॑रा॒णः ।  
 दे॒वाना॑म्पि॒ता ज॑नि॒ता प्र॒जाना॑म् ।  
@@ -4445,9 +4608,42 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 ह॒विर्नो॑ देव विह॒वे जु॑षस्व ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्र᳓जापते त्वं᳓ निधिपाः᳓ पुराणो᳓ देवा᳓नां पिता᳓ जनिता᳓ प्रजा᳓नाम्  
+प᳓तिर् वि᳓श्वस्य ज᳓गतः परस्पा᳓ हवि᳓र् नो देव विहवे᳓ जुषस्व
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓जा-पते (*TS*-4, *RV*-1, *TB*-3, *TK*-14, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-3, *KS*-1)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- निधि-पाः᳓ (*TB*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- पुराणः᳓ (*TS*-0/3, *RV*-2/7, *TB*-0/3, *TK*-0/1, *AV*-1/8, *SB-M*-2/14, *SB-K*-2/16, *VS-M*-0/3, *VS-K*-0/2)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/520, *VS-K*-63/507, *KS*-67/317)
+- पिता᳓ (*TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-18/63, *KS*-13/43)
+- जनिता᳓ (*TS*-3/4, *RV*-26/29, *TB*-1, *AV*-8/13, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-6/7, *VS-K*-7/8, *KS*-1/2)
+- प्र-जा᳓नाम् (*TS*-29/482, *RV*-0/70, *TB*-24/258, *TK*-0/13, *AV*-6/164, *SB-M*-30/595, *SB-K*-39/626, *VS-M*-6/68, *VS-K*-3/61, *KS*-5/82)
+- प᳓तिः (*TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-22/44, *VS-K*-25/55, *KS*-13/26)
+- वि᳓श्वस्य (*TS*-15/283, *RV*-67/1116, *TB*-5/125, *TK*-43/124, *AV*-23/353, *SB-M*-12/248, *SB-K*-12/219, *VS-M*-17/214, *VS-K*-20/214, *KS*-5/118)
+- ज᳓गतः (*TS*-8/16, *RV*-20/40, *TB*-4/6, *TK*-1, *AV*-9/20, *SB-M*-2/9, *SB-K*-2/12, *VS-M*-6/14, *VS-K*-7/15, *KS*-6/13)
+- परः-पा᳓ (*TS*-2/5, *RV*-2/5, *TB*-1/2, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *KS*-1)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- वि-हवे᳓ (*TS*-2/3, *RV*-2/3, *TB*-1, *AV*-2/3, *KS*-0/1)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-8, *KS*-10)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे प्रजापते त्वं निधिपाः शङ्खपद्मादीनां निधीनां पालकः । पुराणो जगतः स्रष्टृत्वादनादिः । देवानां पिता पालकः । प्रजानां मनुष्यादीनां जनिता उत्पादयिता । विश्वस्य सर्वस्य जगतः पतिः स्वामी । **परस्पाः** अतिशयेन पालयिता । हे देव विशेषेण हूयन्ते देवा अत्रेति विहवो यज्ञस्तस्मिन्विहवे नोऽस्मदीयं हविर्जुषस्व ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Prajāpati, you are the ancient guardian of treasure, father of the gods, begetter of offspring;  
+lord of the whole world, highest protector, enjoy our oblation, O god, at the invocation!
 </details>
 </details>
 
@@ -4461,7 +4657,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4474,10 +4670,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श्च ॥ 3 ॥  
 प॒रा॒वतो॑ नि॒वत॑ उ॒द्वत॑श्च ।  
@@ -4485,9 +4681,43 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 प्रति॑हर्य ह॒व्यम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓वेमे᳓ लोकाः᳓ प्रदि᳓शो दि᳓शश् च पराव᳓तो निव᳓त उद्व᳓तश् च  
+प्र᳓जापते विश्वसृ᳓ग् जीव᳓धन्य इदं᳓ नो देव प्र᳓तिहर्य हव्य᳓म्
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/313, *VS-K*-7/289, *KS*-17/319)
+- लोकाः᳓ (*TS*-52/676, *RV*-1/31, *TB*-35/384, *TK*-3/123, *AV*-17/191, *SB-M*-181/1215, *SB-K*-166/1158, *VS-M*-4/48, *VS-K*-4/39, *KS*-6/47)
+- प्र-दि᳓शः (*TS*-10, *RV*-11, *AV*-44, *SB-M*-3, *SB-K*-4, *VS-M*-10, *VS-K*-9, *KS*-4)
+- दि᳓शः (*TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-24, *KS*-14)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- परा-व᳓तः (*TS*-6/12, *RV*-42/64, *TB*-2/7, *AV*-15/23, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-4, *KS*-3)
+- नि-व᳓तः (*TS*-1, *RV*-4/6, *AV*-1/2)
+- उत्-व᳓तः (*TS*-1/2, *RV*-6/7, *AV*-1, *KS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प्र᳓जा-पते (*TS*-4, *RV*-1, *TB*-3, *TK*-14, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-3, *KS*-1)
+- विश्व-सृ᳓क् (*MW*, *Lanman*)
+- जीव᳓धन्यः (*TS*-0/1, *RV*-0/4, *AV*-0/1)
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- प्र᳓ति-हर्य (*TB*-1)
+- हव्य᳓म् (*TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-13/19, *KS*-15/24)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे प्रजापते इमे लोका भूरादयो याश्च प्रदिशः प्रधानभूताः प्राच्याद्या या अप्यन्या आग्नेयाद्या दिशस्तत्सर्वं तवैवाधनिम् । लोका विशेष्यन्ते - परावतः दूरदेशस्था द्वीपान्तरादयः, यजनीयम् न्यग्भूताः पातालादयः, उद्वतश्चोर्ध्ववर्तिनः स्वर्गादयोऽपि । हे देव त्वं विश्वसृत् विश्वस्य स्रष्टा पाता वा । जनेषु प्राणिषु धन्यः ईश्वरो जीवधन्यः तादृशो भूत्वा नोऽस्मदीयमिद्रं हव्यं प्रतिहर्य प्रतिगृहाण ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yours are these worlds, the intermediate directions and the directions, the distances, the depths, and the heights;  
+O Prajāpati, creator of the all, rich in life, accept this our oblation, O god!
 </details>
 </details>
 
@@ -4501,7 +4731,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4514,7 +4744,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -4541,7 +4771,7 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4554,10 +4784,10 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
+<div class="js_include" newlevelforh1="6" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यो रा॒य ईशे॑ शतदा॒य उ॒क्थ्यः॑ ।   
 यᳶ प॑शू॒नाँ र॑क्षि॒ता विष्ठि॑तानाम् ।  
@@ -4565,9 +4795,41 @@ Pradschāpati, kein anderer als du nur hält alle diese Wesen hier umschlungen, 
 स॒हस्र॑धामा जुषताँ ह॒विर्नः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+यो᳓ राय᳓ ई᳓शे शतदाय᳓ उक्थ्यो᳙ यः᳓ पशूनाँ᳓ रक्षिता᳓ वि᳓ष्ठितानाम्  
+प्रजा᳓पतिः प्रथमजा᳓ ऋत᳓स्य सह᳓स्रधामा जुषताँ हवि᳓र् नः
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- रायः᳓ (*TS*-50/80, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63, *KS*-5/23)
+- ई᳓शे (*TS*-4, *RV*-20, *TB*-3, *AV*-9/15, *SB-M*-1/2, *SB-K*-1, *VS-M*-4/5, *VS-K*-4/5, *KS*-3)
+- शत-दायः᳓ (समासस्य पा॰ ६.१.२२३)
+- उक्थ्यः᳙ (*TS*-10/12, *RV*-18, *TB*-3, *TK*-3, *AV*-2, *SB-M*-15, *SB-K*-13)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-44/338, *TK*-1/7, *AV*-24/140, *SB-M*-93/930, *SB-K*-100/953, *VS-M*-5/36, *VS-K*-4/34, *KS*-11/94)
+- रक्षिता᳓ (*TS*-2, *RV*-3/6, *AV*-8/22, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-1/2)
+- वि᳓-ष्ठितानाम् (*TS*-0/2, *TK*-0/2, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1)
+- प्रजा᳓-पतिः (*TS*-172/437, *RV*-5, *TB*-165/248, *TK*-30/46, *AV*-50/76, *SB-M*-544/774, *SB-K*-529/769, *VS-M*-23/44, *VS-K*-20/46, *KS*-34/48)
+- प्रथम-जाः᳓ (*TS*-5/6, *RV*-7, *TB*-0/2, *TK*-1/2, *AV*-7/9, *SB-M*-8/14, *SB-K*-8/15, *VS-M*-8/10, *VS-K*-7/9, *KS*-1)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- सह᳓स्र-धामा (*MW*)
+- जुषताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *TB*-5, *SB-M*-5, *SB-K*-7, *VS-M*-6, *VS-K*-6)
+- हविः᳓ (*TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-24/95, *KS*-23/60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 यः प्रजापतिः शतदायः शतसंख्याकधनप्रदः उक्थ्यः स्तुत्यस्सन् राय ईशे धनस्येश्वरो भवति । यश्च प्रजापतिर्विष्ठितानां विविधमवस्थितानां गोमहिषादीनां पशूनां रक्षिता वर्तते । स प्रजापतिः ऋतस्य यज्ञस्य प्रथमजाः प्रथममुत्पादकः सहस्रधामा सहस्रसंख्याकस्थानयुक्तस्सन् नोऽस्मदीयं हविर्जुषताम् ॥
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Who rules over wealth, hundred-granting, worthy of praise, who is the protector of distributed cattle,  
+Prajāpati, the firstborn of truth, possessing a thousand abodes, may he enjoy our oblation!
 </details>
 </details>
 

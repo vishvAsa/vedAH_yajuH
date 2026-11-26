@@ -203,6 +203,12 @@ And full of mercy, O Aśvins,
 With that touch the sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your whip, O Aśvins, sweet and full of pleasantness,  
+with that sprinkle the sacrifice!
+</details>
+
 <details><summary>Geldner</summary>
 
 Eure honighaltige, glückbringende Peitsche, ihr Asvin, mit der würzet das Opfer!

@@ -7,28 +7,28 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 <details open><summary><h2>०५ ओम् अग्नये ...{Loading}...</h2></summary>
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 <details open><summary><h2>०६ सोमाय स्वाहा ...{Loading}...</h2></summary>
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/vishvAsa-prastutiH/22/147_vishvebhyo_devebhyaH_svAhA.md">
 <details open><summary><h2>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h2></summary>
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+वि᳓श्वेभ्यो देवे᳓भ्यः स्वा᳓हा  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 <details open><summary><h2>०८ ध्रुवाय भूमाय ...{Loading}...</h2></summary>
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
++++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
 </details>
 </div>
@@ -50,14 +50,14 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 <details open><summary><h2>११ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
 <details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
 
-[[ध᳓र्माय᳓|ध᳓र्माय]] स्वा᳓हा । [[अ᳓धर्मा᳓य᳓|अ᳓धर्माय]] स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
+ध᳓र्माय स्वा᳓हा । अ᳓धर्माय स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
 अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++  
 
 </details>
@@ -65,29 +65,29 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
 <details open><summary><h2>१४ ओषधिवनस्पतिभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
+ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
 <details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-- +++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृह्या॑भ्य॒स् स्वाहा॑। अ॒व॒साने॑भ्यस्+++(=सीमाभ्यः)+++ स्वाहा॑ । अ॒व॒सान॑पतिभ्य॒स् स्वाहा॑ । स॒र्व॒भू॒तेभ्य॒स् स्वाहा॑ । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। [[अवसा᳓नेभ्य᳓स्|अवसा᳓नेभ्यस्]]+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
 <details open><summary><h2>१६ कामय स्वाहा ...{Loading}...</h2></summary>
 
-- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
-- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
+का᳓मय स्वा᳓हा । +++(शय्यादेशे कामलिङ्गेन)+++    
+अन्त᳓रिक्षाय स्वा᳓हा । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+य᳓द् ए᳓जति+++(=कम्पते)+++ ज᳓गति य᳓च् च चे᳓ष्टति, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
 
 </details>
 </div>
@@ -95,33 +95,33 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <details open><summary><h2>१८ पृथिव्यै स्वाहा ...{Loading}...</h2></summary>
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
-- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
-- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
-- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
+पृथिव्यै᳓ स्वा᳓हा। अन्त᳓रिक्षाय स्वा᳓हा। दिवे᳓ स्वा᳓हा ।    
+सू᳓र्याय स्वा᳓हा । चन्द्र᳓मसे स्वा᳓हा । न᳓क्षत्रेभ्यस् स्वा᳓हा ।    
+इ᳓न्द्राय स्वा᳓हा । बृ᳓हस्प᳓तये स्वा᳓हा । प्रजा᳓पतये स्वा᳓हा । ब्र᳓ह्मणे स्वा᳓हा।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
 <details open><summary><h2>१९ स्वधा पितृभ्यस् ...{Loading}...</h2></summary>
 
-- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
+स्वधा᳓ पितृ᳓भ्यस् स्वा᳓हा। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
 <details open><summary><h2>२० नमो रुद्राय ...{Loading}...</h2></summary>
 
-- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
+न᳓मो रुद्रा᳓य पशुप᳓तये स्वा᳓हा। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 <details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
 
-ये᳓ भूताः᳓ प्रच᳓रन्ति [[दिवा|दि᳓वा]] /न᳓क्तं    
-[[ब᳓लिम्|बलि᳓म्]] इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
-ते᳓भ्यो बलिं᳓ [[पुष्टिका᳓मो|पु᳓ष्टिकामो]] हरामि  
-म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+ये᳓ भूताः᳓ प्रच᳓रन्ति दि᳓वा /न᳓क्तं    
+बलि᳓म् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पु᳓ष्टिकामो हरामि  
+म᳓यि पु᳓ष्टिं पुष्टिप᳓तिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
 
 </details>
 </div>
@@ -131,39 +131,39 @@ title = "होम-मन्त्र-सङ्ग्रहः"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
 <details open><summary><h5>19 अयन्ते योनिर् ...{Loading}...</h5></summary>
 
-अ॒यन् ते॒ **योनि॑र्** ऋ॒त्वियः॑ ।  
-यतो॑ जा॒तो **अरो॑चथाः** ।  
-तञ् जा॒नन्न् अ॑ग्न॒ **आ रो॑ह** +++(→ सीदेति शाकले)+++ ।  
-अथा॑ नो **वर्धया र॒यिम्** ।  
+अय᳓न् ते **यो᳓निर्** ऋत्वि᳓यः ।  
+य᳓तो जातो᳓ **अ᳓रोचथाः** ।  
+त᳓ञ् जान᳓न्न् अग्न **आ᳓ रोह** +++(→ सीदेति शाकले)+++ ।  
+अ᳓था नो **वर्धया रयि᳓म्** ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
 <details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
-उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
-दे॒वेभ्यो॑ ह॒व्यव्ँ व॑ह नᳶ प्रजा॒नन् ।  
-आयु॑ᳶ प्र॒जाँ र॒यिम् अ॒स्मासु॑ धेहि ।  
-अज॑स्रो दीदिहि नो दुरो॒णे ।  
+उपा᳓वरोह जातवेदᳶ पु᳓नस् त्व᳓म् ॥41॥  
+देवे᳓भ्यो हव्यव्ँ᳓ वह नᳶ प्रजान᳓न् ।  
+आ᳓युᳶ प्रजाँ᳓ रयि᳓म् अस्मा᳓सु धेहि ।  
+अ᳓जस्रो दीदिहि नो दुरोणे᳓ ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
 <details open><summary><h5>07 आजुह्वानस् सुप्रतीकᳶ ...{Loading}...</h5></summary>
 
-**आ॒जुह्वा॑नस्**+++(=हूयमानः)+++ सु॒-प्रती॑कᳶ पु॒रस्ता॒द्  
-अग्ने॒ स्वाय्ँ योनि॒म् **आ सी॑द** सा॒ध्या+++(→ साधु॒या माध्यन्दिने)+++ ।  
-अ॒स्मिन्त् स॒ध-स्थे॒, अध्य् उत्त॑रस्मि॒न्   
-विश्वे॑ देवाः॒! यज॑मानश् च **सीदत** ।
+**आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
+अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
+अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
+वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
 <details open><summary><h5>45 उद्बुध्यस्वाग्ने प्रति ...{Loading}...</h5></summary>
 
-**उद्बु॑ध्यस्वाग्ने॒** प्रति॑ जागृह्य्  
-एनम् इष्टा-पू॒र्ते सँसृ॑जेथाम॒यञ्च॑ ।   
-पुन॑ᳵ **कृ॒ण्वँस्** त्वा॑ पि॒तरय्ँ॒ युवा॑नम्  
-**अ॒न्वाताँ॑सी॒त्** त्वयि॒ तन्तु॑म् ए॒तम् ।
+**उ᳓द्बुध्यस्वाग्ने** प्र᳓ति जागृह्य्  
+एनम् इष्टा-पूर्ते᳓ सँ᳓सृजेथामय᳓ञ्च ।   
+पु᳓नᳵ **कृण्वँ᳓स्** त्वा पित᳓रय्ँ यु᳓वानम्  
+**अन्वा᳓ताँसीत्** त्व᳓यि त᳓न्तुम् एत᳓म् ।
 </details>
 </div> 
 
@@ -227,9 +227,9 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
 प्रजा᳓पतिर् ज᳓यान् इ᳓न्द्राय वृ᳓ष्णे  
-प्रा᳓यच्छद् उग्रᳶ᳓ पृतना᳓ज्येषु।  
-त᳓स्मै वि᳓शस् स᳓मनमन्त स᳓र्वास्  
-स᳓ उग्र᳓स् स᳓ हि᳓ ह᳓व्यो बभू᳓व॥  
+**प्रा᳓यच्छद्** उग्रᳶ᳓ पृतना᳓ज्येषु +++(→गतिकारकोपपदात् कृत्?)+++।  
+त᳓स्मै वि᳓शस् **स᳓मनमन्त** स᳓र्वास्  
+स᳓ उग्र᳓स् स᳓ हि᳓ **ह᳓व्यो बभू᳓व**॥  
 [स्वा᳓हा॥]
 </details>
 
@@ -356,28 +356,28 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
-य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
-पुरु॑षसम्मितो य॒ज्ञः ।  
-य॒ज्ञᳶ पुरु॑षसम्मितः ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
-य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन् ।  
-यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
@@ -982,10 +982,10 @@ May for me fair dawning, and fair day prosper through the sacrifice.
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/03_upasthAnam/02_sapta_te.md">
 <details open><summary><h4>02 सप्त ते ...{Loading}...</h4></summary>
 
-स॒प्त ते॑ अग्ने स॒मिध॑स्, स॒प्त जि॒ह्वास्  
-स॒प्त [11]  ऋष॑यस्, स॒प्त धाम॑ प्रि॒याणि॑ ।   
-स॒प्त होत्राः॑, सप्त॒धा त्वा॑ यजन्ति,  
-स॒प्त **योनी॒र् आ पृ॑णस्वा घृ॒तेन॑**  ॥
+सप्त᳓ ते अग्ने समि᳓धस्, सप्त᳓ जिह्वा᳓स्  
+सप्त᳓ [11]  ऋ᳓षयस्, सप्त᳓ धा᳓म प्रिया᳓णि ।   
+सप्त᳓ हो᳓त्राः, सप्तधा᳓ त्वा यजन्ति,  
+सप्त᳓ **यो᳓नीर् आ᳓ पृणस्वा घृते᳓न**  ॥
 </details>
 </div>
 
@@ -993,9 +993,9 @@ May for me fair dawning, and fair day prosper through the sacrifice.
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 <details open><summary><h5>07 मा नस् ...{Loading}...</h5></summary>
 
-मा न॑स् तो॒के+++(=अपत्यमात्रे)+++ तन॑ये॒ मा न॒ आयु॑षि॒  
-मा नो॒ गोषु॒ **मा** नो॒ अश्वे॑षु **रीरिषः** ।   
-वी॒रान् **मा** नो॑ रुद्र **भामि॒तो+++(=क्रुद्धः)+++ व॑धीर्**  
-**ह॒विष्म॑न्तो॒ नम॑सा विधेम** ते ।
+मा᳓ नस् तोके᳓+++(=अपत्यमात्रे)+++ त᳓नये मा᳓ न आ᳓युषि  
+मा᳓ नो गो᳓षु **मा᳓** नो अ᳓श्वेषु **रीरिषः** ।   
+वीरा᳓न् **मा᳓** नो रुद्र **भामितो᳓+++(=क्रुद्धः)+++ वधीर्**  
+**हवि᳓ष्मन्तो न᳓मसा विधेम** ते ।
 </details>
 </div>

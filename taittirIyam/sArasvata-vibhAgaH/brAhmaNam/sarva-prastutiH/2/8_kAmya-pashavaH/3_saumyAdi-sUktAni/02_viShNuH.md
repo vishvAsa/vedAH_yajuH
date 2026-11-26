@@ -120,6 +120,12 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वि᳓ष्णो᳓र्नु कं वीर्या᳙णि प्र᳓वोचं यः᳓ पा᳓र्थिवानि विसमे᳓ र᳓जाँसि।  
+यो᳓ अ᳓स्कभायदु᳓त्तरँ सध᳓स्थं विचक्रमाण᳓स्त्रेधो᳓रुगायः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विष्णोः॑ । नु । क॒म् । वी॒र्या॑णि । प्र । वो॒च॒म् । यः । पार्थि॑वानि । वि॒ऽम॒मे । रजां॑सि ।  
@@ -129,6 +135,26 @@ vicakramāṇáḥ ← √kramⁱ- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विष्णोः॑ । नुक॑म् । वी॒र्या॑णि । प्रेति॑ । वो॒च॒म् । यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । रजाँ॑सि । यः । अस्क॑भायत् । उत्त॑र॒मित्युत्-त॒र॒म् । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । वि॒च॒क्र॒मा॒ण इति॑ वि-च॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒गा॒य इत्यु॑रु-गा॒यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वि᳓ष्णोः᳓ → **वि᳓ष्णोः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-48/186, *TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-21/58, *VS-K*-12/64)
+- नु (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-17, *TB*-2, *SB-M*-14, *SB-K*-5, *VS-K*-1)
+- कम् (*MS*-12, *RV*-22, *TB*-1, *TK*-2, *AV*-6, *SB-M*-5, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- वीर्या᳙णि (*MS*-16, *TS*-4, *RV*-13, *TB*-2, *AV*-31, *SB-M*-14, *SB-K*-9, *VS-M*-2, *VS-K*-2)
+- प्र᳓वोचम् (*MS*-3, *VS-K*-1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- पा᳓र्थिवानि (*MS*-2/12, *TS*-2/10, *RV*-12/52, *TB*-1/4, *AV*-3/24, *SB-M*-2/7, *SB-K*-1/6, *VS-M*-2/9, *VS-K*-2/9)
+- वि-समे᳓ (गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+- र᳓जांसि (*MS*-7/27, *TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- अ᳓स्कभायत् (*MS*-2, *TS*-1, *RV*-1, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- उ᳓त्तरम् (*MS*-23/77, *TS*-20/88, *RV*-7/59, *TB*-11/54, *TK*-0/5, *AV*-12/38, *SB-M*-65/258, *SB-K*-63/235, *VS-M*-6/12, *VS-K*-5/12)
+- सध᳓-स्थम् (*MS*-10/40, *TS*-9/28, *RV*-14/45, *TB*-2/7, *TK*-0/1, *AV*-6/18, *SB-M*-13/39, *SB-K*-9/30, *VS-M*-7/27, *VS-K*-6/21)
+- वि-चक्रमाणः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- त्रेधा᳓ (*MS*-25, *TS*-12, *RV*-10, *TB*-10, *AV*-14, *SB-M*-25, *SB-K*-42, *VS-M*-4, *VS-K*-4)
+- उरु-गायः᳓ (*MS*-1/2, *TS*-1/3, *RV*-4/17, *TB*-0/1, *AV*-2/5, *SB-M*-1/3, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -353,6 +379,12 @@ I shall proclaim the mighty deeds of Visnu
 Who meted out the spaces of the earth,  
 Who established the highest abode,  
 Stepping thrice, the far-goer.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now indeed I shall proclaim the heroic deeds of Viṣṇu, who measured out the earthly regions,  
+who propped the upper gathering-place, striding out thrice, the wide-striding one.
 </details>
 
 <details><summary>Geldner</summary>
@@ -901,6 +933,12 @@ víśvā ← víśva- (nominal stem)
 यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥८॥ २६
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
+य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । तत् । विष्णुः॑ । स्त॒व॒ते॒ । वी॒र्ये॑ण । मृ॒गः । न । भी॒मः । कु॒च॒रः । गि॒रि॒ऽस्थाः ।  
@@ -915,6 +953,28 @@ víśvā ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्र। तत्। विष्णुः॑। स्त॒व॒ते॒। वी॒र्ये᳖ण। मृ॒गः। न। भी॒मः। कु॒च॒रः। गि॒रि॒ष्ठाः। गि॒रि॒स्था इति॑ गिरि॒ऽस्थाः। यस्य॑। उ॒रुषु॑। त्रि॒षु। वि॒क्रम॑णे॒ष्विति॑ वि॒ऽक्रम॑णेषु। अ॒धि॒क्षि॒यन्तीत्य॑धिऽक्षि॒यन्ति॑। भुव॑नानि। विश्वा॑। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- वि᳓ष्णुः (*TS*-53/151, *RV*-34/79, *TB*-32/53, *AV*-19/45, *SB-M*-87/165, *SB-K*-83/162, *VS-M*-17/59, *VS-K*-11/62, *KS*-15/43)
+- स्तवते (*RV*-3, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वीर्ये᳙ण (*TS*-20, *RV*-9, *TB*-7, *TK*-1, *AV*-6, *SB-M*-68, *SB-K*-62, *VS-M*-1, *VS-K*-1, *KS*-2)
+- मृगः᳓ (*TS*-2/5, *RV*-15/34, *AV*-8/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2, *KS*-2)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- भीमः᳓ (*TS*-2/5, *RV*-18/27, *TB*-0/1, *AV*-6/12, *SB-M*-3, *SB-K*-3, *VS-M*-4/6, *VS-K*-3/6, *KS*-2/3)
+- कुचरः᳓ (*TS*-1, *RV*-2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-2)
+- गिरि-ष्ठाः᳓ (*SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-2)
+- य᳓स्य (*TS*-134/3383, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/639, *VS-K*-24/581, *KS*-37/818)
+- उरु᳓षु (*TS*-0/52, *RV*-1/118, *TB*-0/7, *TK*-1/3, *AV*-1/40, *SB-M*-1/38, *SB-K*-1/38, *VS-M*-1/29, *VS-K*-1/33, *KS*-1/15)
+- त्रिषु᳓ (*TS*-2/235, *RV*-10/156, *TB*-1/101, *TK*-1/17, *AV*-5/86, *SB-M*-8/420, *SB-K*-9/388, *VS-M*-5/46, *VS-K*-5/45, *KS*-1/32)
+- वि-क्र᳓मणेषु (*TS*-0/1, *RV*-2/3, *AV*-2/3, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/3, *VS-K*-1/2, *KS*-1/2)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *SB-M*-67, *SB-K*-64, *VS-M*-2, *VS-K*-1, *KS*-5)
+- क्षिय᳓न्ति (*RV*-0/10, *AV*-1/4, *SB-M*-5/6, *SB-K*-6/7, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- भु᳓वनानि (*TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-17/39, *KS*-6/16)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/214, *VS-K*-33/214, *KS*-19/118)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1157,6 +1217,13 @@ Hom• महत्सु
 इत्य्-एवं श्री-भगवान् विष्णुः स्तूयते ॥८॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[19_3]** T6 गिरिष्ठः᳓ ; desgl. W 1, ohne Accent. (T6 गिरिष्ठः᳓; likewise W1, without accent.)
+
+**समानान्तराणि:** cf. Mâitr. S. 1, 2, 9 ; Kap. S. 2, 4.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -1222,6 +1289,18 @@ The covert identification with Indra continues in pāda b, which is identical to
 
 For this his mighty deed is Visnu lauded, like some wild beast, dread, prowling, mountain-roaming;  
      He within whose three wide-extended paces all living creatures have their habitation.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this is Viṣṇu praised for his valor, like a wild beast, fierce, roving, dwelling in the mountains,  
+in whose three wide strides all the worlds abide.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+for heroic power, like a dread beast, roaming, dwelling in the mountains,  
+in whose three wide strides all worlds abide.
 </details>
 
 <details><summary>Macdonell</summary>

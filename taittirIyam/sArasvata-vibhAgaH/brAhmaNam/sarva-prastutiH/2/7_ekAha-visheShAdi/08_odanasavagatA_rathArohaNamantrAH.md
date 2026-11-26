@@ -676,22 +676,29 @@ Sie alle schmückten den, der nun emporstieg [die Sonne]; in Glanz gekleidet wan
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/08_odanasavagatA_rathArohaNamantrAH/07_anu_tvendro_madatvanu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 अ᳓नु त्वे᳓न्द्रो मदत्व᳓नु बृ᳓हस्प᳓तिः ॥23॥   
 अ᳓नु सो᳓मो अ᳓न्वग्नि᳓रावीत् ।  
 अ᳓नु त्वा वि᳓श्वे देवा᳓ अवन्तु ।  
-अ᳓नु सप्त᳓ रा᳓जानो य᳓ उता᳓भि᳓षिक्ताः ।  
+अ᳓नु सप्त᳓ रा᳓जानो य᳓ उता᳓भि᳓षिक्ताः ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/08_odanasavagatA_rathArohaNamantrAH/07_anu_tvendro_madatvanu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अनु॒ त्वेन्द्रो॑ मद॒त्वनु॒ बृह॒स्पतिः॑ ॥23॥   
 अनु॒ सोमो॒ अन्व॒ग्निरा॑वीत् ।  
 अनु॑ त्वा॒ विश्वे॑ दे॒वा अ॑वन्तु ।  
-अनु॑ स॒प्त राजा॑नो॒ य उ॒ताभिषि॑क्ताः ।  
+अनु॑ स॒प्त राजा॑नो॒ य उ॒ताभिषि॑क्ताः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓नु त्वे᳓न्द्रो म᳓दत्व᳓नु बृ᳓हस्प᳓तिर᳓नु सो᳓मो अ᳓न्वग्नि᳓रावीत्।  
+अ᳓नु त्वा वि᳓श्वे अवन्तु देवा᳓स्सप्त᳓ रा᳓जानो य᳓ उदाभिषिक्ताः᳓
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -699,13 +706,50 @@ Sie alle schmückten den, der nun emporstieg [die Sonne]; in Glanz gekleidet wan
 अ᳓नु । त्वा । इ᳓न्द्रः । मदतु । अ᳓नु । बृ᳓हस्प᳓तिः । अ᳓नु । सो᳓मः । अ᳓न्वक् । निः᳓ । आवीत् । अ᳓नु । त्वा । वि᳓श्वे । देवाः᳓ । अवन्तु । अ᳓नु । सप्त᳓ । रा᳓जानः । यः᳓ । उत᳓ । अभि᳓-सिक्ताः ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- म᳓दतु (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, शप् अनुदात्त पा॰ ३.१.४)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- अ᳓न्वक् (*TB*-1)
+- निः᳓ (*MS*-282, *TS*-292, *RV*-113, *TB*-152, *TK*-12, *AV*-144, *SB-M*-340, *SB-K*-325, *VS-M*-22, *VS-K*-16)
+- आवीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-2, *TB*-2, *VS-M*-1, *VS-K*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- अवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-23, *TS*-14, *RV*-25, *TB*-6, *AV*-16, *SB-M*-5, *SB-K*-6, *VS-M*-18, *VS-K*-10)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- सप्त᳓ (*MS*-65/77, *TS*-74/88, *RV*-122/128, *TB*-29/32, *TK*-12, *AV*-76/77, *SB-M*-163/182, *SB-K*-150/170, *VS-M*-23/24, *VS-K*-21/24)
+- रा᳓जानः (*MS*-2/60, *TS*-1/48, *RV*-11/151, *TB*-1/63, *TK*-0/2, *AV*-4/78, *SB-M*-12/175, *SB-K*-10/139, *VS-M*-1/27, *VS-K*-1/29)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- उद (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अभि-सिक्ताः᳓ (*SB-K*-0/1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे यजमान रथमातिष्ठन्तं त्वामिन्द्रबृहस्पतिसोमा अनुमदन्तु अनुमोदन्तामङ्गीकुर्वताम् । अग्नेरपि त्वां अनु क्रमेण आवीत् रक्षतु । ये विश्वे देवास्तेऽपि त्वां अनुक्रमेणावन्तु । उत अपिच सप्त राजानः त्वदीयदिग्व्यतिरिक्ताः सप्तसु दिक्षु वर्तमाना राजानोऽभिषिक्ता ये सन्ति ते सर्वेऽपि त्वामनुमोदन्तु ॥
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[556_9]** Brl त्वि᳓न्द्रो; vgl. aber TBr. 2, 7, 8, 1 a. E. (Brl त्वि᳓न्द्रो; cf. however TBr. 2, 7, 8, 1 at the end.)
+
+- **[556_10]** So T 1 und Brl 119; in Ch य उदाभिषक्ताः; W 2 य᳓वोदाभिषिक्ताः ; vgl. TBr. 2, 7, 8, 2 य᳓ उता᳓भि᳓षिक्ताः (Thus T 1 and Brl 119; in Ch य उदाभिषक्ताः; W 2 य᳓वोदाभिषिक्ताः; cf. TBr. 2, 7, 8, 2 य᳓ उता᳓भि᳓षिक्ताः)
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Indra rejoice with you; may Bṛhaspati, may Soma, may Agni assist you;  
+may all the gods favor you, the seven kings who have been consecrated with water.
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

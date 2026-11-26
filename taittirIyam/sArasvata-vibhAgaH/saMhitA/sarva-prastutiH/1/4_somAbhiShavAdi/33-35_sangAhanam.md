@@ -26,7 +26,6 @@ title = "३३-३ सङ्गाहनम्"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
-
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -50,12 +49,16 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 एति॑ । प्या॒य॒स्व॒ । म॒दि॒न्त॒म॒ । सोम॑ । विश्वा॑भिः । ऊ॒तिभि॒रित्यू॒ति-भिः॒ ॥ भव॑ । नः॒ । स॒प्रथ॑स्तम॒ इति॑ स॒प्रथः॑-त॒मः॒ ॥
 </details>
 
-<details open><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **सोम! मदिन्तम!** मादयितृतम! ।  
 यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
 </details>
 
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
+</details>
 </div>  
 
 ## अवगाहनम्
@@ -345,7 +348,7 @@ _________
 They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 
 <details open><summary><h2>07-13 …{Loading}…</h2></summary>
 <details><summary>Jamison Brereton Notes</summary>
@@ -383,6 +386,11 @@ Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetz
 <details><summary>त्रिभुवनः</summary>
 
 Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ये मर्त्यासो मनुष्या व्युच्छन्तीं प्रभातं कुर्वतीमुषसमुषःकालदेवतां पूर्वतरामितरेभ्योऽत्यन्तं पूर्वामपश्यन्पश्यन्ति, ते मनुष्या ईयुस्तां देवतां प्राप्नुवन्ति । (सा)अस्माभिरू नु अस्माभिरपि नु क्षिप्रं प्रतिचक्ष्याऽभूत्प्रत्यक्षं दर्शनीयाऽभूत् । येऽन्येऽप्यपरीष्वपररात्रिषु रात्रीणामवसानेषु पश्यान्पश्यन्ति ते ओ यन्ति तेऽपि तां देवतां सर्वथा प्राप्नुवन्ति ॥
 </details>
 
 <details><summary>Grassmann</summary>

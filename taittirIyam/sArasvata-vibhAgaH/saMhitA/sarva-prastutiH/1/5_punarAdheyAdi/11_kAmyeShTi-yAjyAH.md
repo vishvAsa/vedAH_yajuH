@@ -43,15 +43,42 @@ Come from afar,
 Agni through the hymn which brings (him).
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni Vaiśvānara come from afar for our help,  
+with recitation as his vehicle!  
+From you the inspired poet is born, full of prizes, O Agni;
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वै॒श्वा॒न॒रो न॑ ऊ॒त्याऽऽप्र या॑तु परा॒वतः॑ ।  
 अ॒ग्निरु॒क्थेन॒ वाह॑सा  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वैश्वानरो᳓ न ऊत᳓य आ᳓ प्र᳓यातु पराव᳓तः।  
+अग्नि᳓रुक्थे᳓न वा᳓हसा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वै॒श्वा॒न॒रः । नः॒ । ऊ॒त्या । आ । प्रेति॑ । या॒तु॒ । प॒रा॒वत॒ इति॑ परा-वतः॑ ॥ अ॒ग्निः । उ॒क्थेन॑ । वाह॑सा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वैश्वानरः᳓ (*MS*-56/116, *TS*-40/104, *RV*-20/42, *TB*-7/20, *TK*-3/4, *AV*-14/31, *SB-M*-61/147, *SB-K*-55/140, *VS-M*-10/36, *VS-K*-8/33)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ऊत᳓यः (*MS*-3/35, *TS*-1/25, *RV*-60/345, *TB*-1/12, *AV*-2/46, *SB-M*-0/8, *SB-K*-1/6, *VS-M*-0/26, *VS-K*-0/26)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- यातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-18, *TB*-3, *AV*-8, *SB-M*-1, *SB-K*-1, *VS-M*-5, *VS-K*-4, *MS*-6)
+- परा-व᳓तः (*MS*-6/8, *TS*-6/12, *RV*-42/64, *TB*-2/7, *AV*-15/23, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-5)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- उक्थे᳓न (*MS*-1/30, *TS*-1/26, *RV*-3/104, *TB*-0/8, *AV*-0/18, *SB-M*-12/101, *SB-K*-11/93, *VS-M*-1/10, *VS-K*-1/15)
+- वा᳓हसा (*MS*-1/2, *TS*-1, *RV*-2/6, *TB*-0/2, *AV*-1/2, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -143,10 +170,28 @@ The immortal cauldron we seek.
 Vaisvânara the righteous One, the Lord of sacrifice and light, The heat that wasteth not, we seek.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vaiśvānara, observant of cosmic order, the lord of the light of cosmic order,  
+the inexhaustible Gharma we seek.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Vaiśvānara, observant of Ṛta, the lord of the light of Ṛta,  
+the ceaseless heat, we seek.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 ऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
 अज॑स्रं घ॒र्ममी॑महे ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ऋता᳓वानं वैश्वानर᳓मृत᳓स्य ज्यो᳓तिषस्प᳓तिम्।  
+अ᳓जस्रं धर्म᳓मीमहे
 </details>
 
 <details><summary>पदपाठः</summary>
@@ -157,6 +202,18 @@ Vaisvânara the righteous One, the Lord of sacrifice and light, The heat that wa
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऋ॒तावा॑नम्। ऋ॒तवा॑ना॒मित्यृ॒तऽवा॑नम्। वै॒श्वा॒न॒रम्। ऋ॒तस्य॑। ज्योति॑षः। पति॑म्। अज॑स्रम्। घ॒र्मम्। ई॒म॒हे॒।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ऋत᳓-वानम् (*MS*-2/9, *TS*-2/11, *RV*-5/50, *TB*-0/1, *TK*-0/1, *AV*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-3)
+- वैश्वानर᳓म् (*MS*-23/116, *TS*-42/104, *RV*-11/42, *TB*-6/20, *TK*-0/4, *AV*-3/31, *SB-M*-47/147, *SB-K*-48/140, *VS-M*-6/36, *VS-K*-7/33)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- ज्यो᳓तिषः (*MS*-4/134, *TS*-1/199, *RV*-4/148, *TB*-1/70, *TK*-0/5, *AV*-4/66, *SB-M*-1/173, *SB-K*-1/174, *VS-M*-1/72, *VS-K*-3/80)
+- प᳓तिम् (*MS*-11/47, *TS*-7/45, *RV*-57/200, *TB*-8/21, *TK*-0/6, *AV*-34/137, *SB-M*-10/64, *SB-K*-9/61, *VS-M*-14/45, *VS-K*-18/61)
+- अ᳓जस्रम् (*MS*-10/16, *TS*-7/12, *RV*-5/18, *TB*-2, *AV*-3/6, *SB-M*-7/16, *SB-K*-7/16, *VS-M*-6/10, *VS-K*-6/9)
+- धर्म᳓म् (*AV*-0/5, *SB-M*-0/4, *SB-K*-0/5)
+- ईमहे (*MS*-17, *TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-10, *VS-K*-10)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -664,6 +721,12 @@ sá ← sá- ~ tá- (pronoun)
 स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥ 36 ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पृष्टो᳓ दिवि᳓ पृष्टो᳓ अग्निः᳓ पृथिव्यां᳓ पृष्टो᳓ वि᳓श्वा ओ᳓षधीरा᳓विवेश।  
+वैश्वानर᳓स्स᳓हसा पृष्टो᳓ अग्नि᳓स्स᳓ नो दिवा᳓ स᳓ रिषः᳓ पातु न᳓क्तम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पृ॒ष्टः । दि॒वि । पृ॒ष्टः । अ॒ग्निः । पृ॒थि॒व्याम् । पृ॒ष्टः । विश्वाः॑ । ओष॑धीः । आ । वि॒वे॒श॒ ।  
@@ -683,6 +746,31 @@ sá ← sá- ~ tá- (pronoun)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-काठकम्)</summary>
 
 पृष्टः᳓ । दिवि᳓ । पृष्टः᳓ । अग्निः᳓ । पृथिव्या᳓म् । पृष्टः᳓ । वि᳓श्वाः । ओ᳓षधीः । आ᳓ । विवेश । वैश्वानरः᳓ । स᳓हसा । पृष्टः᳓ । अग्निः᳓ । सः᳓ । नः । दि᳓वा । सः᳓ । रिषः᳓ । पातु । न᳓क्तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- पृथिव्या᳓म् (*MS*-40/155, *TS*-30/116, *RV*-31/139, *TB*-16/48, *TK*-6/7, *AV*-40/92, *SB-M*-64/152, *SB-K*-62/160, *VS-M*-30/91, *VS-K*-25/85)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विवेश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TK*-2, *AV*-20, *SB-M*-25, *SB-K*-23, *VS-M*-9, *VS-K*-9, *MS*-4)
+- वैश्वानरः᳓ (*MS*-56/116, *TS*-40/104, *RV*-20/42, *TB*-7/20, *TK*-3/4, *AV*-14/31, *SB-M*-61/147, *SB-K*-55/140, *VS-M*-10/36, *VS-K*-8/33)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- दिवा᳓ (*MS*-5, *TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- रिषः᳓ (*MS*-2, *TS*-3/4, *RV*-13/15, *TB*-1, *TK*-1, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-4/7)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- न᳓क्तम् (*MS*-24, *TS*-15, *RV*-33, *TB*-15, *TK*-1, *AV*-11, *SB-M*-10, *SB-K*-9, *VS-M*-8, *VS-K*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -946,6 +1034,11 @@ _________
 इति द्वितीये काठके षष्ठोऽनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[601_5]** So corr. Ch पृथिव्यास्पृष्टो, vgl. oben 4, 16; MS 2, 13, 11; RV 1, 98, 2. (Thus emended Ch पृथिव्यास्पृष्टो, cf. above 4, 16; MS 2, 13, 11; RV 1, 98, 2.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -1027,6 +1120,19 @@ May he by day [1] and night protect us from the foe.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Sought in the sky, sought on the earth, sought after, all plants that grow on ground hath Agni entered. May Agni, may Vaisvânara with vigour, sought for, by day and night from harm preserve us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni was sought in heaven, sought on earth, sought he entered into all plants.  
+Agni Vaiśvānara was sought by might; may he protect us by day, may he protect us from injury by night!  
+Establish among our patrons, O Agni, unbending dominion, unaging, full of good heroes!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni touched in heaven, touched upon earth, touched, has entered into all plants;  
+Agni Vaiśvānara, touched with power—may he protect us by day, from harm by night!
 </details>
 
 <details><summary>Geldner</summary>
@@ -1579,10 +1685,35 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 त्वं दे॒वाँ अ॒भिश॑स्तेरमुञ्चो॒ वैश्वा॑नर जातवेदो महि॒त्वा ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓म् अग्ने शोचि᳓षा शो᳓शुचाना आ᳓ रो᳓दसी अपृणा जा᳓यमानः  
+त्वं᳓ देवं᳓ अभि᳓शस्तेर् अमुञ्चो वै᳓श्वानर जातवेदो महित्वा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । अ॒ग्ने॒ । शो॒चिषा॑ । शोशु॑चानः । आ । रोद॑सी॒ इति॑ । अ॒पृ॒णाः॒ । जाय॑मानः ।  
 त्वम् । दे॒वान् । अ॒भिऽश॑स्तेः । अ॒मु॒ञ्चः॒ । वैश्वा॑नर । जा॒त॒ऽवे॒दः॒ । म॒हि॒ऽत्वा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- शोचि᳓षा (*TS*-3/9, *RV*-34/53, *TB*-4, *TK*-0/2, *AV*-6/15, *SB-M*-2/9, *SB-K*-2/9, *VS-M*-3/8, *VS-K*-3/10, *KS*-1/2)
+- शो᳓शुचानाः (*TS*-0/4, *RV*-0/10, *TB*-0/1, *AV*-1/9, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- अपृणाः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2)
+- जा᳓यमानः (*TS*-7/15, *RV*-27/44, *TB*-5/7, *AV*-7/17, *SB-M*-21/26, *SB-K*-18/24, *VS-M*-3, *VS-K*-3, *KS*-2/4)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- देव᳓म् (*TS*-17/1025, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/517, *VS-K*-45/498, *KS*-10/317)
+- अभि᳓-शस्तेः (*TS*-3/5, *RV*-9/15, *TB*-0/1, *AV*-1/5, *SB-M*-0/2, *SB-K*-1/2, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/1)
+- अमुञ्चः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-3)
+- वै᳓श्वानर (*TS*-3, *RV*-19, *KS*-2)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-8, *KS*-10)
+- महि-त्वा᳓ (*TS*-9, *RV*-34, *TB*-3, *AV*-16, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1730,6 +1861,12 @@ Thou, O Agni, blazing with light,
 Didst fill the firmament at thy birth;  
 Thou, O Vaiśvanara, wise one, by thy might  
 Didst free the gods from misfortune.'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, shining with flame, filled the two worlds as you were being born;  
+you freed the god from the curse, O Vaiśvānara Jātavedas, by your greatness.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1911,10 +2048,64 @@ vā́jam ← vā́ja- (nominal stem)
 व॒यं ज॑येम श॒तिनं॑ सह॒स्रिणं॒ वैश्वा॑नर॒ वाज॑मग्ने॒ तवो॒तिभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अस्मा᳓कम् अग्ने मघ᳓वत्सु धारया᳓नामि क्षत्र᳓म् अज᳓रँ सुवी᳓रम्  
+वयं᳓ जयेम शति᳓नँ सहस्रि᳓णँ वै᳓श्वानर वा᳓जम् अग्ने त᳓वोति᳓भिः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अस्मा᳓कमग्ने मघ᳓वत्सु धारया᳓नामि क्षत्र᳓मज᳓रँ सुवी᳓रम्  
+वयं᳓ जयेम शति᳓नँ सहस्रि᳓णं वै᳓श्वानर वा᳓जमग्रे त᳓वोति᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒स्माक॑म् । अ॒ग्ने॒ । म॒घव॑त्ऽसु । धा॒र॒य॒ । अना॑मि । क्ष॒त्रम् । अ॒जर॑म् । सु॒ऽवीर्य॑म् ।  
 व॒यम् । ज॒ये॒म॒ । श॒तिन॑म् । स॒ह॒स्रिण॑म् । वैश्वा॑नर । वाज॑म् । अ॒ग्ने॒ । तव॑ । ऊ॒तिऽभिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274, *KS*-12/242)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114, *KS*-122)
+- मघ᳓वत्सु (*TS*-1/9, *RV*-9/186, *TB*-0/6, *AV*-1/25, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/9, *VS-K*-0/11, *KS*-1/7)
+- धारया᳓ (*SB-M*-1, *SB-K*-1, *KS*-1)
+- अ᳓नामि (*TS*-1, *RV*-2, *KS*-1)
+- क्षत्र᳓म् (*TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56, *KS*-30/41)
+- अ-ज᳓रम् (*TS*-6/11, *RV*-24/62, *TB*-3/4, *AV*-9/17, *SB-M*-7/11, *SB-K*-6/11, *VS-M*-1/5, *VS-K*-1/5, *KS*-5/9)
+- सु-वी᳓रम् (*TS*-7/26, *RV*-24/92, *TB*-6/13, *AV*-3/22, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-5/14, *KS*-3/13)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274, *KS*-46/242)
+- जयेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-15, *TB*-5, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3, *KS*-3)
+- शति᳓नम् (*TS*-1/4, *RV*-6/10, *AV*-2, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- सहस्रि᳓णम् (*TS*-4/8, *RV*-27/39, *TB*-2/4, *TK*-1, *AV*-4, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/2, *KS*-4/5)
+- वै᳓श्वानर (*TS*-3, *RV*-19, *KS*-2)
+- वा᳓जम् (*TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73, *KS*-19/53)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114, *KS*-122)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180, *KS*-41/165)
+- ऊति᳓भिः (*TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26, *KS*-7/17)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- मघ᳓वत्सु (*MS*-1/16, *TS*-1/9, *RV*-9/186, *TB*-0/6, *AV*-1/25, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/9, *VS-K*-0/11)
+- धारया᳓ (*SB-M*-1, *SB-K*-1, *MS*-1)
+- अ᳓नामि (*TS*-1, *RV*-2, *MS*-1)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- अ-ज᳓रम् (*MS*-5/15, *TS*-6/11, *RV*-24/62, *TB*-3/4, *AV*-9/17, *SB-M*-7/11, *SB-K*-6/11, *VS-M*-1/5, *VS-K*-1/5)
+- सु-वी᳓रम् (*MS*-7/20, *TS*-7/26, *RV*-24/92, *TB*-6/13, *AV*-3/22, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-5/14)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- जयेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-9, *TS*-7, *RV*-15, *TB*-5, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- शति᳓नम् (*MS*-2/4, *TS*-1/4, *RV*-6/10, *AV*-2, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- सहस्रि᳓णम् (*MS*-3/8, *TS*-4/8, *RV*-27/39, *TB*-2/4, *TK*-1, *AV*-4, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- वै᳓श्वानर (*MS*-3, *TS*-3, *RV*-19)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2083,6 +2274,17 @@ O Agni, among our bountiful lords, preserve
 The lordship, uninjured, unageing, rich in heroes;  
 May we win booty a hundred, a thousandfold,  
 O Vaiśvanara [2], O Agni, through thy help.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Maintain in our generous patrons, O Agni, unaging, hero-rich dominion that cannot be bent down;  
+may we win a prize of a hundredfold and a thousandfold, O Vaiśvānara, O Agni, with your aids.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May we win a hundredfold, a thousandfold prize, O Vaiśvānara Agni, through your aids!
 </details>
 
 <details><summary>Geldner</summary>
@@ -2481,6 +2683,18 @@ Hence born he discerneth all the (earth),
 Vaiśvanara vieth with the sun.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be in the goodwill of Vaiśvānara, for he is the king, the splendor of realms;  
+born from here, Vaiśvānara surveys all this, he strives along with the sun.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May we be in the good will of Vaiśvānara, for he is the king, the glory of the worlds.  
+Born from here, he surveys this all; Vaiśvānara rivals the sun.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wir möchten in der Gunst des Vaisvanara stehen, denn er ist ja der König, der Oberherr der Geschöpfe. Hier geboren überschaut er von da dieses All. Vaisvanara wetteifert mit der Sonne.
@@ -2664,10 +2878,65 @@ rā́jan ← rā́jan- (nominal stem)
 क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः कृ॒तानि॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓व ते हे᳓डो वरुण न᳓मोभिर् अ᳓व यज्ञे᳓भिर् ईमहे हवि᳓र्भिः  
+क्ष᳓यन्न् अस्म᳓भ्यम् असुर प्रचेता रा᳓जन्न् ए᳓नाँसि शिश्रथः कृता᳓नि
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓व ते हे᳓डो वरुण न᳓मोभिर᳓व यज्ञे᳓भिरीमहे हवि᳓र्भिः।  
+क्ष᳓यन्नस्म᳓भ्यमसुर प्रचेतो रा᳓जन्नै᳓नाँसि शिश्रथः कृता᳓नि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अव॑ । ते॒ । हेळः॑ । व॒रु॒ण॒ । नमः॑ऽभिः । अव॑ । य॒ज्ञेभिः॑ । ई॒म॒हे॒ । ह॒विःऽभिः॑ ।  
 क्षय॑न् । अ॒स्मभ्य॑म् । अ॒सु॒र॒ । प्र॒चे॒त॒ इति॑ प्रऽचेतः । राज॑न् । एनां॑सि । शि॒श्र॒थः॒ । कृ॒तानि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓व (*TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-38, *KS*-111)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- हे᳓डः (*TS*-6, *RV*-7/8, *TB*-2, *AV*-1/4, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3/5, *KS*-5)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- न᳓मोभिः (*TS*-3/315, *RV*-45/182, *TB*-5/60, *TK*-0/4, *AV*-4/248, *SB-M*-3/105, *SB-K*-2/102, *VS-M*-4/244, *VS-K*-3/167, *KS*-7/305)
+- अ᳓व (*TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-38, *KS*-111)
+- यज्ञे᳓भिः (*TS*-2/863, *RV*-13/448, *TB*-0/399, *TK*-0/21, *AV*-1/231, *SB-M*-0/1803, *SB-K*-0/1754, *VS-M*-0/223, *VS-K*-0/179, *KS*-1/171)
+- ईमहे (*TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-9, *VS-K*-9, *KS*-5)
+- हवि᳓र्भिः (*TS*-4/124, *RV*-11/166, *TB*-2/186, *TK*-0/17, *AV*-3/116, *SB-M*-20/380, *SB-K*-19/360, *VS-M*-2/92, *VS-K*-2/95, *KS*-3/60)
+- क्ष᳓यन् (*TS*-1, *RV*-2, *AV*-2, *KS*-1)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- असुर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-9, *TB*-27, *TK*-1, *AV*-1, *SB-M*-82, *SB-K*-97, *VS-M*-6, *VS-K*-4, *KS*-1)
+- प्र-चेताः (मूल-पाठः)
+- रा᳓जन् (*TS*-2, *RV*-4/8, *TB*-2/3, *AV*-1/2, *KS*-1/2)
+- ए᳓नांसि (*TS*-2/27, *RV*-2/29, *TB*-3/26, *AV*-1/31, *SB-M*-0/29, *SB-K*-0/33, *VS-M*-2/21, *VS-K*-2/14, *KS*-3/11)
+- शिश्रथः (*TS*-2, *RV*-4, *KS*-2)
+- कृता᳓नि (*TS*-1/12, *RV*-20/77, *TB*-0/7, *AV*-5/43, *SB-M*-1/34, *SB-K*-1/41, *VS-M*-0/13, *VS-K*-0/9, *KS*-1/4)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- हे᳓डः (*MS*-7, *TS*-6, *RV*-7/8, *TB*-2, *AV*-1/4, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3/5)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-10)
+- न᳓मोभिः (*MS*-11/313, *TS*-3/315, *RV*-45/182, *TB*-5/60, *TK*-0/4, *AV*-4/248, *SB-M*-3/105, *SB-K*-2/102, *VS-M*-4/244, *VS-K*-3/168)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- यज्ञे᳓भिः (*MS*-2/933, *TS*-2/863, *RV*-13/448, *TB*-0/399, *TK*-0/21, *AV*-1/231, *SB-M*-0/1803, *SB-K*-0/1754, *VS-M*-0/223, *VS-K*-0/187)
+- ईमहे (*MS*-17, *TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-10, *VS-K*-10)
+- हवि᳓र्भिः (*MS*-5/213, *TS*-4/124, *RV*-11/166, *TB*-2/186, *TK*-0/17, *AV*-3/116, *SB-M*-20/380, *SB-K*-19/360, *VS-M*-2/92, *VS-K*-2/101)
+- क्ष᳓यन् (*MS*-2, *TS*-1, *RV*-2, *AV*-2)
+- अस्म᳓-भ्यम् (*MS*-33/641, *TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/315, *VS-K*-20/274)
+- असुर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-3, *RV*-9, *TB*-27, *TK*-1, *AV*-1, *SB-M*-82, *SB-K*-97, *VS-M*-6, *VS-K*-4)
+- प्र-चेतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-5, *AV*-3)
+- रा᳓जन् (*MS*-3/4, *TS*-2, *RV*-4/8, *TB*-2/3, *AV*-1/2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- ए᳓नांसि (*MS*-5/33, *TS*-2/27, *RV*-2/29, *TB*-3/26, *AV*-1/31, *SB-M*-0/29, *SB-K*-0/33, *VS-M*-2/21, *VS-K*-2/14)
+- शिश्रथः (*MS*-4, *TS*-2, *RV*-4)
+- कृता᳓नि (*MS*-3/17, *TS*-1/12, *RV*-20/77, *TB*-0/7, *AV*-5/43, *SB-M*-1/34, *SB-K*-1/41, *VS-M*-0/13, *VS-K*-0/9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2809,6 +3078,13 @@ _______________
 हे **वरुण नमोभिः** नमस्कारैर् अन्नैर् वा **यज्ञैश्** च **हविर्भिश्** च हविष्मद्भिर् वा **यज्ञैः** तव **हेडः** क्रोधं **अवेमहे** अवनयामः । हे **असुर** प्राणप्रद प्रकृष्टचेतस्क **राजन् अस्मभ्यम्** अस्मदर्थं **क्षयन्** निवसन् अस्माकं कृतानि पापानि **शिश्रथः** श्लथयेति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[610_7]** So Brl, W 1 und G; in Ch वरुणो; vgl. RV 1, 24, 14. (Thus Brl, W 1 and G; in Ch वरुणो; cf. RV 1, 24, 14.)
+
+- **[610_8]** So die Mss.; ebenso TS 1, 5, 11, 2; desgl. der Padap. zu RV 1, 24, 14 und MS 4, 10, 4 प्रचेतः; dagegen Samh. Text RV 1, 24, 14 प्रचेता, desgl. MS 4, 14, 17; 4, 10, 4. (Thus the mss.; likewise TS 1, 5, 11, 2; likewise the padapāṭha to RV 1, 24, 14 and MS 4, 10, 4 प्रचेतः; on the other hand Saṃh. text RV 1, 24, 14 प्रचेता, likewise MS 4, 14, 17; 4, 10, 4.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -2840,6 +3116,18 @@ Thine anger, O Varuna, would we avert with reverence,
 With sacrifices, with oblations  
 Ruling, O wise Asura, O king,  
 Do thou unloose the sins we have committed.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Away your wrath, O Varuṇa, with reverences, away with sacrifices [and] oblations we seek;  
+dwelling [here] for us, O wise Asura, O king, loosen the sins committed!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+We avert your anger, O Varuṇa, with acts of reverence, with sacrifices, with oblations.  
+Ruling over us, O wise Asura, O king, loosen the sins that have been committed!
 </details>
 
 <details><summary>Geldner</summary>
@@ -3377,6 +3665,12 @@ tāriṣat ← √tr̥̄- 1 (root)
 सुर॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ॥ [47]
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दधिक्रा᳓व्णो अकारिषं जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः  
+सुरभि᳓ नो मु᳓खा करत् प्र᳓ ना आ᳓यूँषि तारिषत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द॒धि॒ऽक्राव्णः॑ । अ॒का॒रि॒ष॒म् । जि॒ष्णोः । अश्व॑स्य । वा॒जिनः॑ ।  
@@ -3396,6 +3690,23 @@ tāriṣat ← √tr̥̄- 1 (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 द॒धि॒क्राव्णः॑ । अ॒का॒रि॒ष॒म् । जि॒ष्णोः । अश्व॑स्य । वा॒जिनः॑ ॥ सुर॒भीति॑ सु-र॒भि । नः॒ । मुखा॑ । क॒र॒त् । प्र । नः॒ । आयूँ॑षि । ता॒रि॒ष॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दधि-क्रा᳓व्णः (*RV*-6, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-3)
+- अकारिषम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-1, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- जिष्णोः᳓ (*TS*-2/8, *RV*-4/9, *TB*-0/3, *AV*-1/12, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-1/4, *VS-K*-1/5, *KS*-0/3)
+- अ᳓श्वस्य (*TS*-24/126, *RV*-18/226, *TB*-38/167, *AV*-14/76, *SB-M*-48/262, *SB-K*-49/255, *VS-M*-10/54, *VS-K*-8/51, *KS*-7/26)
+- वाजि᳓नः (*TS*-9/55, *RV*-38/172, *TB*-5/18, *TK*-0/1, *AV*-6/25, *SB-M*-8/28, *SB-K*-8/24, *VS-M*-13/35, *VS-K*-10/32, *KS*-4/11)
+- सुरभि᳓ (*TS*-2/8, *RV*-2/12, *TB*-0/1, *AV*-2/10, *SB-M*-1/3, *SB-K*-1/2, *VS-M*-1/4, *VS-K*-1/4, *KS*-1/2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- मु᳓खा (*TS*-4/22, *RV*-1/6, *TB*-3/26, *TK*-0/1, *AV*-3/36, *SB-M*-15/82, *SB-K*-13/78, *VS-M*-3/14, *VS-K*-3/10, *KS*-1/11)
+- करत् (*TS*-2, *RV*-23, *TB*-9, *AV*-14, *VS-M*-4, *VS-K*-4, *KS*-3)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓यूंषि (*TS*-8, *RV*-9, *TB*-2, *AV*-10, *SB-M*-2, *SB-K*-3, *VS-M*-4, *VS-K*-4, *KS*-5)
+- तारिषत् (*TS*-2, *RV*-5, *AV*-6, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3695,6 +4006,12 @@ Of Dadhikravan have I sung,
 The swift strong horse;  
 May he make our mouths fragrant;  
 May he lengthen our days.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have celebrated Dadhikrāvan, the victorious, swift horse;  
+may he make our mouths fragrant; may he prolong our lifespans.
 </details>
 
 <details><summary>Geldner</summary>
@@ -4244,6 +4561,12 @@ rétāṁsi ← rétas- (nominal stem)
 अ॒पाँ रेताँ॑सि जिन्वति ॥१२॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓मूर्धा᳓ दिवः᳓ ककु᳓त्प᳓तिः पृथिव्या᳓ अय᳓म्।  
+अपां᳓ रे᳓ताँसि जिन्वति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । मू॒र्धा । दि॒वः । क॒कुत् । पतिः॑ । पृ॒थि॒व्याः । अ॒यम् ।  
@@ -4258,6 +4581,20 @@ rétāṁsi ← rétas- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒ग्निः। मू॒र्द्धा। दि॒वः। क॒कुत्। पतिः॑। पृ॒थि॒व्याः। अ॒यम्। अ॒पाम्। रेताँ॑सि। जि॒न्व॒ति॒। २।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓ (*MS*-835/1297, *TS*-1/1194, *RV*-682/856, *TB*-358/520, *TK*-1/105, *AV*-1/419, *SB-M*-2/2495, *SB-K*-8/2289, *VS-M*-194/325, *VS-K*-219/349)
+- मूर्धा᳓ (*MS*-14, *TS*-19, *RV*-8, *TB*-1, *TK*-3, *AV*-3, *SB-M*-22, *SB-K*-22, *VS-M*-1, *VS-K*-1)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- ककु᳓त् (*MS*-5, *TS*-11/13, *RV*-1, *TB*-4, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- प᳓तिः (*MS*-23/47, *TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-23/45, *VS-K*-25/61)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- अय᳓म् (*MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- रे᳓तांसि (*MS*-2/86, *TS*-4/78, *RV*-2/34, *TB*-0/66, *TK*-0/2, *AV*-0/26, *SB-M*-4/353, *SB-K*-3/371, *VS-M*-3/15, *VS-K*-3/14)
+- जिन्वति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-3, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -4607,6 +4944,50 @@ Lord of the earth here,
 He quickeneth the seed of the waters.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the head of heaven, the summit, this lord of the earth;  
+he quickens the seed of the waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni is the head, the summit of heaven, he the lord of the earth;  
+he quickens the seeds of the waters.  
+Both of you, Indra and Agni, are to be invoked; both together are to be exhilarated with bounty;  
+both are givers of refreshments, of wealths; both I invoke for the winning of prize.  
+This one has here been established first by the establishers, the Hotṛ, most worthy of sacrifice, to be praised in the sacrifices,  
+whom, wondrous and far-reaching, the Bhrgus, thriving, kindled in the woods for every clan.  
+This is your seasonable womb, whence born you shone;  
+knowing that, O Agni, mount it, then increase our wealth.  
+I have celebrated Dadhikrāvan, the victorious, the prize-winning horse.  
+May he make our mouths fragrant; may he prolong our lives.  
+You, O Agni, are possessed of Sūrya's luster;  
+unite me with life, with luster!  
+You, O Agni, have united with Sūrya's light, with the praise of the sages, with the dear abode;  
+may I unite with life, with luster, with offspring, with abundance of wealth!  
+Kindling you for a hundred winters, may we kindle you, radiant ones,  
+vigorous, [him] who is vigorous; renowned, [him] who is renowned;  
+having good heroes, [him] who is undeceived, O Agni, who frustrates enemies.  
+You are the giver of life, O Agni;  
+give me life!  
+You are the giver of vigor, O Agni;  
+give me vigor!  
+You are the protector of the body, O Agni;  
+protect my body!  
+Whatever of my body is deficient, O Agni, fill that up for me!  
+You are Agni's kindling stick;  
+protect me from accusation!  
+You are Soma's kindling stick;  
+be my protector beyond!  
+You are Yama's kindling stick;  
+protect me from death!  
+O Agni, with whatever heat is yours, burn him who hates us and whom we hate!  
+O Agni, with whatever flame is yours, inflame him who hates us and whom we hate!  
+O Agni, with whatever sharpness is yours, pierce him who hates us and whom we hate!  
+O Agni, with whatever beam is yours, beam against him who hates us and whom we hate!
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni ist das Haupt, die Spitze des Himmels, er der Herr der Erde; er kräftigt den Samen der Gewässer.
@@ -4796,6 +5177,18 @@ jihvā́m ← jihvā́- (nominal stem)
 जि॒ह्वाम॑ग्ने चकृषे हव्य॒वाह॑म् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+भु᳓वो यज्ञ᳓स्य र᳓जसश् च नेता᳓ य᳓त्रा नियु᳓द्भिः स᳓चसे शिवा᳓भिः  
+दिवि᳓ मूर्धा᳓नं दधिषे स्वर्षां᳓ जिह्वा᳓म् अग्ने चकृषे हव्यवा᳓हम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिस्सचसे शिवाभिः।  
+दिवि मूर्धानं दधिषे स्वर्षां जिह्वामग्ने चकृषे हव्यवाहम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 भुवः॑ । य॒ज्ञस्य॑ । रज॑सः । च॒ । ने॒ता । यत्र॑ । नि॒युत्ऽभिः॑ । सच॑से । शि॒वाभिः॑ ।  
@@ -4820,6 +5213,48 @@ jihvā́m ← jihvā́- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 भु᳓वः । यज्ञ᳓स्य । र᳓जसः । च । नेता᳓ । य᳓त्रा । नियु᳓द्भिः । स᳓चसे । शिवा᳓भिः । दिवि᳓ । मूर्धा᳓नम् । दधिषे । सुवः-सा᳓म् । जिह्वा᳓म् । अग्ने । चकृषे । हव्य-वा᳓हम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- भु᳓वः (*TS*-17, *RV*-25, *TB*-7, *TK*-3, *AV*-7, *SB-M*-33, *SB-K*-30, *VS-M*-8, *VS-K*-5, *KS*-2)
+- यज्ञ᳓स्य (*TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/179, *KS*-26/171)
+- र᳓जसः (*TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/18, *KS*-4/11)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- नेता᳓ (*TS*-3/9, *RV*-13/16, *TB*-1, *AV*-3/4, *SB-M*-4/9, *SB-K*-0/4, *VS-M*-3/6, *VS-K*-3/6, *KS*-2/4)
+- य᳓त्रा (*TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44, *KS*-1/22)
+- नियु᳓द्भिः (*TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- स᳓चसे (*TS*-1, *RV*-2, *TB*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2, *VS-K*-2)
+- शिवा᳓भिः (*TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/47, *KS*-1/26)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- मूर्धा᳓नम् (*TS*-7/31, *RV*-10/28, *TB*-1/4, *TK*-0/4, *AV*-6/9, *SB-M*-4/30, *SB-K*-4/32, *VS-M*-1/15, *VS-K*-2/15, *KS*-1/8)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3, *KS*-1)
+- स्वर्-षा᳓म् (*VS-M*-3, *VS-K*-2)
+- जिह्वा᳓म् (*TS*-4/24, *RV*-6/45, *TB*-2/5, *TK*-0/2, *AV*-6/32, *SB-M*-4/28, *SB-K*-4/27, *VS-M*-3/12, *VS-K*-3/9, *KS*-1/7)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- चकृषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- हव्य-वा᳓हम् (*TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3, *KS*-5/8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- भु᳓वः (*Whitney*, *MS*-28, *TS*-17, *RV*-25, *TB*-7, *TK*-3, *AV*-7, *SB-M*-33, *SB-K*-30, *VS-M*-8, *VS-K*-5)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- र᳓जसः (*MS*-11/27, *TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/21)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- नेता᳓ (*MS*-3/7, *TS*-3/9, *RV*-13/16, *TB*-1, *AV*-3/4, *SB-M*-4/9, *SB-K*-0/4, *VS-M*-3/6, *VS-K*-3/6)
+- य᳓त्रा (*MS*-7/106, *TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44)
+- नियु᳓द्भिः (*MS*-4, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- स᳓चसे (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-1, *RV*-2, *TB*-1, *VS-M*-2, *VS-K*-2)
+- शिवा᳓भिः (*MS*-4/68, *TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/49)
+- दिवि᳓ (*MW* ŚBr., *MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- मूर्धा᳓नम् (*MS*-6/24, *TS*-7/31, *RV*-10/28, *TB*-1/4, *TK*-0/4, *AV*-6/9, *SB-M*-4/30, *SB-K*-4/32, *VS-M*-4/16, *VS-K*-2/15)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3)
+- स्वर्-षा᳓म् (*MS*-3/5, *VS-M*-3, *VS-K*-2)
+- जिह्वा᳓म् (*MS*-2/23, *TS*-4/24, *RV*-6/45, *TB*-2/5, *TK*-0/2, *AV*-6/32, *SB-M*-4/28, *SB-K*-4/27, *VS-M*-3/12, *VS-K*-3/9)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- चकृषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-4, *TB*-1, *VS-M*-2, *VS-K*-2)
+- हव्य-वा᳓हम् (*MS*-6/15, *TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -5227,6 +5662,18 @@ Thou placest in the sky thy head winning light,
 Thou makest, O Agni, thy tongue to bear the oblation.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You have become the leader of the sacrifice and of the realm of space, where you accompany with auspicious teams;  
+in heaven you have set your head winning the sun; your tongue, O Agni, you have made the conveyer of oblations.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+You become the leader of the sacrifice and of space, where you attend with auspicious teams of horses;  
+in heaven you have placed your head that wins the sun; your tongue, o Agni, you have made the bearer of the oblation.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du wardst der Führer des Opfers und durch das Dunkel, wo du mit deinen freundlichen Gespannen das Geleit gibst. An den Himmel hast du dein das Sonnenlicht gewinnendes Haupt gesetzt; deine Zunge, Agni, hast du zum Opferbeförderer gemacht.
@@ -5517,6 +5964,12 @@ O Maruts, pray come here to us, Whenever, seeking your good will, We call you hi
 O Maruts, what time seeking your favour  
 We call on you from the sky,  
 Do ye come unto us [4].
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When indeed, seeking favour, we call you, O Maruts, from heaven,  
+then come near to us!
 </details>
 
 <details><summary>Geldner</summary>
@@ -5883,6 +6336,11 @@ _________
 हे मरुतः वो युष्माकं या शर्म यानि शरणानि गृहाणि शशमानाय सन्ति शंसनं कुर्वते यजमानाय दातुं संपादितानि तानि गृहाणि, त्रिधातूनि अशनं पानं खादनमित्येतानि त्रीणि धारयन्तीति त्रिधातूनि । तदेतत्त्रयमन्यत्राम्नायते - 'त्रेधा विहितं वा इदमन्नमशनं पानं खादः' इति । एतैस्त्रिविधैरन्नैरूपेतानि गृहाणि दाशुषे हविर्दत्तवते यजमानाय अधियच्छत आधिक्येन धत्त । हे मरुतोऽस्मभ्यमपि तानि गृहाणि वियन्त विशेषेण यच्छत । वृषणः कामानां वर्षितारो यूयं रयिं धनं सुवीरं सुष्ठु वीरपुत्रयुतं धत्त संपादयत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[105_1]** So Brl = RV 1, 85, 12; in I eine Lücke; D und Ch वियन्ता (Thus Brl = RV 1, 85, 12; in I a lacuna; D and Ch read वियन्ता)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -5910,6 +6368,12 @@ The protections which ye have for the earnest worshipper,
 Threefold do ye grant them to the generous giver,  
 To us, O Maruts, do ye accord them;  
 O strong ones, give us wealth rich in heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What threefold protections of yours exist for the striving [sacrificer], extend them to the devout one;  
+moving through them for us, O Maruts, place wealth with good heroes in us, O bulls!
 </details>
 
 <details><summary>Geldner</summary>
@@ -6270,6 +6734,11 @@ _________
 हे मरुतः वो युष्माकं या शर्म यानि शरणानि गृहाणि शशमानाय सन्ति शंसनं कुर्वते यजमानाय दातुं संपादितानि तानि गृहाणि, त्रिधातूनि अशनं पानं खादनमित्येतानि त्रीणि धारयन्तीति त्रिधातूनि । तदेतत्त्रयमन्यत्राम्नायते - 'त्रेधा विहितं वा इदमन्नमशनं पानं खादः' इति । एतैस्त्रिविधैरन्नैरूपेतानि गृहाणि दाशुषे हविर्दत्तवते यजमानाय अधियच्छत आधिक्येन धत्त । हे मरुतोऽस्मभ्यमपि तानि गृहाणि वियन्त विशेषेण यच्छत । वृषणः कामानां वर्षितारो यूयं रयिं धनं सुवीरं सुष्ठु वीरपुत्रयुतं धत्त संपादयत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[105_1]** So Brl = RV 1, 85, 12; in I eine Lücke; D und Ch वियन्ता (Thus Brl = RV 1, 85, 12; in I a lacuna; D and Ch read वियन्ता)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -6297,6 +6766,12 @@ The protections which ye have for the earnest worshipper,
 Threefold do ye grant them to the generous giver,  
 To us, O Maruts, do ye accord them;  
 O strong ones, give us wealth rich in heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What threefold protections of yours exist for the striving [sacrificer], extend them to the devout one;  
+moving through them for us, O Maruts, place wealth with good heroes in us, O bulls!
 </details>
 
 <details><summary>Geldner</summary>
@@ -6470,6 +6945,21 @@ Aditi, who giveth good protection and good guidance.
 We call to succour us the mighty Mother of those whose sway is just, the Queen of Order, Strong-ruler, far-expanding, ne’er decaying, Aditi gracious guide and good protectress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truly we would invoke for aid the great mother of those of good vows, the wife of truth,  
+having abundant dominion, unaging, wide, well-sheltering, Aditi of good guidance.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"The great mother of those of good vows, the wife of truth, we would invoke for aid,  
+of mighty rule, unaging, widespread, affording good shelter, Aditi of good guidance."
+
+The great mother of those of good vows, the wife of truth, we would invoke for aid,  
+of mighty rule, unaging, broad, giving good shelter, Aditi, guiding well.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे।  
@@ -6494,6 +6984,18 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 तु॒वि॒क्ष॒त्त्राम॒जर॑न्तीमुरू॒चीँ सु॒शर्मा॑ण॒मदि॑तिँ सु॒प्रणी॑तिम्  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मही᳓म् ऊ षु᳓ मात᳓रँ सुव्रता᳓नाम् ऋत᳓स्य प᳓त्नीम् अ᳓वसे हुवेम  
+तुविक्षत्रा᳓म् अज᳓रन्तीम् उरूचीँ᳓ सुश᳓र्माणम् अ᳓दितिँ सुप्र᳓णीतिम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+महीमू षु मातरँ सुव्रतानामृतस्य पत्नीमवसे हुवेम।  
+तुविक्षत्रामजरन्तीमुरूचीँ सुशर्माणमदितिँ सुप्रणीतिम्
+</details>
+
 <details><summary>पदपाठः</summary>
 
 म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२।
@@ -6512,6 +7014,43 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 म॒हीम् । उ॒ । स्विति॑ । मा॒तर॑म् । सु॒व्र॒ताना॒मिति॑ सु-व्र॒ताना॑म् । ऋ॒तस्य॑ । पत्नी॑म् । अव॑से । हु॒वे॒म॒ ॥ तु॒वि॒क्ष॒त्रामिति॑ तुवि-क्ष॒त्राम् । अ॒जर॑न्तीम् । उ॒रू॒चीम् । सु॒शर्मा॑ण॒मिति॑ सु-शर्मा॑णम् । अदि॑तिम् । सु॒प्रणी॑ति॒मिति॑ सु-प्रणी॑तिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मही᳓म् (*TS*-8/24, *RV*-28/131, *TB*-2/8, *TK*-0/1, *AV*-9/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-10/26, *VS-K*-12/27, *KS*-3/10)
+- ऊ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-8, *SB-M*-2, *SB-K*-3, *VS-K*-1, *KS*-2)
+- षु᳓ (*TS*-8, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-5/6)
+- मात᳓रम् (*TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-11/35, *KS*-2/21)
+- सु-व्रता᳓नाम् (*TS*-1, *RV*-0/5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- प᳓त्नीम् (*TS*-7/39, *RV*-1/25, *TB*-7/21, *TK*-0/3, *AV*-4/20, *SB-M*-25/123, *SB-K*-25/116, *VS-M*-1/13, *VS-K*-1/14, *KS*-0/8)
+- अ᳓वसे (*TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/23, *VS-K*-7/15, *KS*-4/12)
+- हुवेम (*TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5, *KS*-4)
+- तुवि-क्षत्रा᳓म् (*TS*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अज᳓रन्तीम् (*TS*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- उरूची᳓म् (*TS*-1, *RV*-1/7, *TB*-1, *AV*-0/2, *VS-M*-1, *VS-K*-1)
+- सु-श᳓र्माणम् (*TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5, *KS*-0/1)
+- अ᳓दितिम् (*TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-10/75, *KS*-2/29)
+- सु-प्र᳓णीतिम् (*TS*-2, *RV*-1/7, *AV*-1, *VS-M*-2, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मही᳓मू (*VS-K*-1)
+- षु᳓ (*MS*-11/14, *TS*-7, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4)
+- मात᳓रम् (*MS*-13/61, *TS*-9/44, *RV*-27/165, *TB*-5/28, *TK*-0/2, *AV*-20/77, *SB-M*-16/79, *SB-K*-17/72, *VS-M*-9/34, *VS-K*-12/38)
+- सु-व्रता᳓नाम् (*MS*-1, *TS*-1, *RV*-0/5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- प᳓त्नीम् (*MS*-3/73, *TS*-7/39, *RV*-1/25, *TB*-7/21, *TK*-0/3, *AV*-4/20, *SB-M*-25/123, *SB-K*-25/116, *VS-M*-1/13, *VS-K*-2/15)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- हुवेम (समानान्तर-पाठः (MS), *MS*-5, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5)
+- तुवि-क्षत्रा᳓म् (*MS*-1, *TS*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- अज᳓रन्तीम् (*MS*-1, *TS*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- उरूची᳓म् (*MS*-2/3, *TS*-1, *RV*-1/7, *TB*-1, *AV*-0/2, *VS-M*-1, *VS-K*-1)
+- सु-श᳓र्माणम् (*MS*-2/5, *TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5)
+- अ᳓दितिम् (*MS*-13/128, *TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-12/79)
+- सु-प्र᳓णीतिम् (*MS*-2/3, *TS*-2, *RV*-1/7, *AV*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -6547,7 +7086,7 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 टिप्पणी:   २−(महीम्) महतीम् (उ) अवधारणे (सु) सुष्ठु। सत्कारेण (मातरम्) मातृसमानहिताम् (सुव्रतानाम्) शोभनकर्मवताम् (ऋतस्य) सत्यधर्मस्य (पत्नीम्) पालयित्रीम् (अवसे) रक्षणाय (हवामहे) आह्वयामः (तुविक्षत्राम्) बहुबलां बहुधनाम् (अजरन्तीम्) अजराम् (उरूचीम्) अ० ३।३।१। बहुविस्तारगताम् (सुशर्म्माणम्) उत्तमगृहयुक्ताम्। बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां पृथिवीम्-निघ० १।१। (सुप्रणीतिम्) सुष्ठु प्रकृष्टनीतियुक्ताम् ॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="3" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md"> </div>
 
 <details><summary>उवट-टीका</summary>
 
@@ -6684,6 +7223,11 @@ We call to succour us the mighty Mother of those whose sway is just, the Queen o
 **अदितिम्** अखण्डनीयां **सुप्रणीतिं** सुखेन शर्मणां प्रणेत्रीम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । तत्र च 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
 
 ईदृशीं महीं देवीम् **अवसे** रक्षणाय तस्यास्तर्पणाय वा **हुवेम** सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । **उ** इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[461_5]** So corr. Ch ष; Kap. S. 46, 7 = Corr.; cf. Mâtr. S. 4, 10, 1 (Thus emended; Ch ष; Kap. S. 46, 7 agrees with the emendation; cf. Mâtr. p. 4, 10, 1)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
@@ -6952,6 +7496,12 @@ oars, divine, that never leaketh,
 Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Heaven and Earth providing good protection, blameless, providing good shelter, Aditi who leads well—  
+may we mount the divine boat with good oars, guiltless, unswerving, for well-being.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्।  
@@ -6970,6 +7520,12 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 दे॒वीं नावँ॑ स्वरि॒त्रामना॑गस॒मस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥६॥ ६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सुत्रामाणं पृथिवीं द्यामनेहसँ सुशर्माणमदितिँ सुप्रणीतम्।  
+दैवीं नावँ स्वरित्रामनागसमस्रवन्तीमारुहेम स्वस्तये
+</details>
+
 <details><summary>पदपाठः</summary>
 
 सु॒ऽत्रामा॑णम्। पृ॒थि॒वीम्। द्याम्। अ॒ने॒हस॑म्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रणी॑तिम्। दैवी॑म्। नाव॑म्। सु॒ऽअ॒रि॒त्राम्। अना॑गसः। अस्र॑वन्तीम्। आ। रु॒हे॒म॒। स्व॒स्तये॑। ७.१।
@@ -6983,6 +7539,26 @@ Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protect
 <details><summary>पदपाठः - काण्वः</summary>
 
 सु॒त्रामा॑ण॒मति॑। सु॒ऽत्रामा॑ण॒म्। पृथि॒वीम्। द्याम्। अने॒हस॑म्। सु॒शर्म॑ण॒मिति॑ सु॒ऽशमा॑ण॒म्। अदि॑तिम्। सु॒प्रणी॑तिम्। स॒ऽप्रनी॑ति॒मति॑ सु॒ऽप्रनी॑तिम्। दैवी॑म्। नाव॑म्। स्व॒रि॒त्रामिति॑ सु॒ऽअ॑रि॒त्राम्। अना॑ग॒सम्। अस्र॑वन्तम्। आ। रु॒हेम। स्व॒स्तये॑। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सु-त्रा᳓माणम् (*MS*-3/17, *TS*-4/9, *RV*-1/3, *TB*-2/14, *AV*-1/6, *SB-M*-1/5, *SB-K*-1/6, *VS-M*-3/24, *VS-K*-3/20)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- द्या᳓म् (*MW* ŚBr., *MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- अनेह᳓सम् (*MS*-2/3, *TS*-2, *RV*-9/32, *AV*-2, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2, *VS-K*-3)
+- सु-श᳓र्माणम् (*MS*-2/5, *TS*-2/6, *RV*-2/6, *AV*-2/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/5)
+- अ᳓दितिम् (*MS*-13/128, *TS*-10/95, *RV*-34/155, *TB*-0/43, *TK*-1/2, *AV*-5/48, *SB-M*-8/100, *SB-K*-9/87, *VS-M*-8/63, *VS-K*-12/79)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- प्र᳓-णीतम् (*Lanman*, *MS*-0/2, *TS*-0/2, *RV*-1/4, *SB-M*-0/12, *SB-K*-0/14, *VS-M*-0/2, *VS-K*-0/2)
+- दै᳓वीम् (*MS*-6/43, *TS*-7/38, *RV*-1/34, *TB*-0/30, *AV*-3/16, *SB-M*-3/44, *SB-K*-2/44, *VS-M*-2/26, *VS-K*-3/30)
+- ना᳓वम् (*MS*-4/6, *TS*-4/5, *RV*-16/20, *AV*-9/10, *SB-M*-6/7, *SB-K*-7/9, *VS-M*-1/2, *VS-K*-2/3)
+- स्वरित्रा᳓म् (*MW*, *MS*-1, *VS-K*-1)
+- अ᳓नागसम् (*MS*-1/6, *TS*-1/4, *RV*-2/15, *AV*-1/7, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-2/4, *VS-K*-1/5)
+- अ᳓स्रवन्तीम् (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-2, *VS-K*-2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- रुहेम (*MS*-4, *TS*-5, *RV*-5, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-4, *VS-M*-2, *VS-K*-1)
+- स्वस्त᳓ये (*MS*-7/37, *TS*-6/44, *RV*-49/201, *TB*-4/21, *AV*-21/56, *SB-M*-3/45, *SB-K*-3/46, *VS-M*-9/12, *VS-K*-10/15)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

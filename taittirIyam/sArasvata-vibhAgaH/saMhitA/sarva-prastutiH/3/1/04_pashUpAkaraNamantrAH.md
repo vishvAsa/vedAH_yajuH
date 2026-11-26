@@ -87,14 +87,15 @@ May this offering be welcome to the gods.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/03_prajAnanta_prati_gRhNanti.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 प्रजान᳓न्तᳶ प्र᳓ति गृह्णन्ति पू᳓र्वे प्राण᳓म᳓ङ्गेभ्यᳶ प᳓र्याच᳓रन्तम् ।   
 सुवर्गय्ँ᳓याहि पथि᳓भिर्देवया᳓नैरो᳓षधीषु प्र᳓ति तिष्ठा श᳓रीरैः ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/03_prajAnanta_prati_gRhNanti.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 The ancient wise ones grasp  
@@ -103,15 +104,85 @@ Go to heaven by the paths which lead to the gods;
 Be among the plants with thy members.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The asuras perceived it when it was offered.  
+They said: 'They have outwitted us.'  
+That is its nature as the Adābhya [cup].  
+Moreover, in that they were unable to outwit them, that is its nature as the Adābhya.  
+This is drawn for the outwitting of the rival.  
+He draws from the nigrābhyā waters.  
+Soma indeed [is drawn]; he draws from curd.  
+For Soma is curd.  
+The vessel is four-cornered.  
+The quarters are four.  
+He establishes himself firmly in the quarters.  
+Indeed, they kill Soma when they press it.  
+His body that escapes is the Adābhya.  
+Following that unslain [body], he, [though] slain, escapes to the heavenly world.  
+After that the sacrificer [escapes] from the sacrifice.  
+For it is the sacrificer.  
+Whole in body indeed is he in yonder world for whom this is drawn.  
+Indeed, he cuts the sacrifice in two when he brings it to completion before the pressing.  
+In that he puts unpressed shoots into [it],  
+[it is] for the continuity of the sacrifice, for non-interruption.  
+They say: 'There is no cup without a sāman or an uktha; it is without an abode.'  
+'Thrice to the Vasus you fell down'—  
+this is the uktha;  
+this is the benediction;  
+the Gaurīvita is the sāman.  
+When the gods divided the sacred lore,  
+what was left over from that, that became the Gaurīvita.  
+The Gaurīvita is redundant;  
+the Atigrāhya [cups] are redundant;  
+by the redundant he obtains the redundant.  
+Where the Gaurīvita sāman should be, there he should draw even many Atigrāhya cups.  
+Thereby he makes them provided with a sāman, provided with an uktha, provided with a foundation, provided with an abode.  
+Provided with a foundation, provided with an abode becomes he who knows thus.  
+The creatures of Prajāpati being born, and those here that have been born,  
+announce these to him; knowing, may he approve!  
+The animals of Paśupati, of various forms and similar,  
+among them, which the gods have chosen, may the self-ruler approve that!  
+Knowing, the ancestors receive the breath going forth from the limbs;  
+offered, go by the paths traveled by the gods; be established among the plants with thy bodies!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र॒जा॒नन्त॒ᳶ प्रति॑ गृह्णन्ति॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्य॒ᳶ पर्या॒चर॑न्तम् ।   
 सु॒व॒र्गय्ँया॑हि प॒थिभि॑र्देव॒यानै॒रोष॑धीषु॒ प्रति॑ तिष्ठा॒ शरी॑रैः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रजानन्तः प्रतिगृह्णन्ति पूर्वे प्राणमङ्गेभ्यो अधिनिश्चरन्तम्।  
+हुतो याहि पथिभिर्देवयानैरोषधीषु प्रतितिष्ठा शरीरैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒जा॒नन्त॒ इति॑ प्र-जा॒नन्तः॑ । प्रतीति॑ । गृ॒ह्ण॒न्ति॒ । पूर्वे॑ । प्रा॒णमिति॑ प्र-अ॒नम् । अङ्गे॑भ्यः । परीति॑ । आ॒चर॑न्त॒मित्या॑-चर॑न्तम् ॥ सु॒व॒र्गमिति॑ सुवः-गम् । या॒हि॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । दे॒व॒यानै॒रिति॑ देव-यानैः॑ । ओष॑धीषु । प्रतीति॑ । ति॒ष्ठ॒ । शरी॑रैः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र-जान᳓न्तः (*TS*-1, *AV*-2)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- गृह्णन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-9, *TB*-2, *TK*-1, *SB-M*-17, *SB-K*-7)
+- पू᳓र्वे (*MS*-15/100, *TS*-17/81, *RV*-36/115, *TB*-10/59, *TK*-2/4, *AV*-37/88, *SB-M*-27/216, *SB-K*-25/184, *VS-M*-8/20, *VS-K*-7/17)
+- प्राण᳓म् (*MS*-50/228, *TS*-15/157, *RV*-1/5, *TB*-22/90, *TK*-2/5, *AV*-31/132, *SB-M*-107/1145, *SB-K*-105/1073, *VS-M*-9/42, *VS-K*-8/36)
+- अ᳓ङ्गेभ्यः (*MS*-0/36, *TS*-4/24, *RV*-0/9, *TB*-1/13, *AV*-11/48, *SB-M*-7/104, *SB-K*-6/100, *VS-M*-0/13, *VS-K*-0/12)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- निः-च᳓रन्तम् (गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+- हुतः᳓ (*MS*-5/21, *TS*-2/15, *RV*-0/1, *TB*-2/39, *AV*-1/18, *SB-M*-4/88, *SB-K*-3/85, *VS-M*-1/3, *VS-K*-1/2)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-18, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-15)
+- पथि᳓भिः (*MS*-8/60, *TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-14/38, *VS-K*-11/35)
+- देव-या᳓नैः (*MS*-2/13, *TS*-4/23, *RV*-6/13, *TB*-2/8, *AV*-6/18, *SB-M*-2/8, *SB-K*-2/9, *VS-M*-6/11, *VS-K*-3/7)
+- ओ᳓षधीषु (*MS*-25/137, *TS*-16/114, *RV*-19/89, *TB*-8/57, *TK*-0/2, *AV*-9/86, *SB-M*-5/93, *SB-K*-5/98, *VS-M*-5/44, *VS-K*-5/49)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- ति᳓ (*MS*-1/36, *TS*-1/83, *RV*-0/15, *TB*-0/30, *TK*-0/1, *AV*-0/41, *SB-M*-1/183, *SB-K*-6/211, *VS-M*-0/2, *VS-K*-1/3)
+- ष्ठा᳓ (*MS*-4, *TB*-1, *SB-M*-1, *SB-K*-3)
+- श᳓रीरैः (*MS*-1/9, *TS*-1/18, *RV*-3/6, *TB*-0/2, *TK*-0/4, *AV*-2/32, *SB-M*-2/82, *SB-K*-1/71, *VS-M*-0/5, *VS-K*-0/6)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -120,9 +191,13 @@ Be among the plants with thy members.
 
 लोकं याहि गच्छ पथिभिर्देवयानैः देवा यैर्यान्ति तैः पथिभिः ओषधीषु शरीरैः शरीरावयवैः यज्ञार्थमोषध्यात्मना प्रतितिष्ठ प्रतिष्ठितो वर्तस्व । 'द्व्यचोतस्तिङः' इति दीर्घत्वम् ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[465_1]** So corr. Ch **प्रणस्सङ्गेभ्यो;** cf. TS 3, 1, 4, 1. (Thus emended; Ch reads प्रणस्सङ्गेभ्यो; cf. TS 3, 1, 4, 1.)
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -171,14 +246,15 @@ May abundances of wealth fall to the sacrificer.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/05_ye_badhyamAnamanu_badhyamAnA.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 ये᳓ बध्य᳓मानम᳓नु बध्य᳓माना अभ्यै᳓क्षन्त म᳓नसा च᳓क्षुषा च ।  
 अग्नि᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/05_ye_badhyamAnamanu_badhyamAnA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Those, who being bound, contemplated  
@@ -187,10 +263,34 @@ Let the god Agni first release them,
 Lord of offspring, in harmony with offspring.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who, being bound, looked after the one being bound with mind and with eye:  
+may the god Agni in the beginning release them, Prajāpati rejoicing together with his offspring!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Those who, being bound along, looked after him while he was being bound, with mind and with eye,  
+may the god Agni, Prajāpati, in concord with offspring, release them in the beginning!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ये ब॒ध्यमा॑न॒मनु॑ ब॒ध्यमा॑ना अ॒भ्यैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च ।  
 अ॒ग्निस्ताँ अग्रे॒ प्र मु॑मोक्तु दे॒वᳶ प्र॒जाप॑तिᳶ प्र॒जया॑ सव्ँविदा॒नः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ये᳓ बध्य᳓मानम् अ᳓नु बध्य᳓माना अन्वै᳓क्षन्त म᳓नसा च᳓क्षुषा च  
+अग्नि᳓ष् टं᳓ * अ᳓ग्रे प्र᳓मुमोक्तु देवः᳓ प्रजा᳓पतिः प्रज᳓या सँरराणः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ये बध्यमानमनुबध्यमाना अन्वैक्षन्त मनसा चक्षुषा च।  
+अग्निष्टाँ अग्रे प्रमुमोक्तु देवः प्रजापतिः प्रजया संविदानः
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,13 +298,61 @@ Lord of offspring, in harmony with offspring.
 ये । ब॒ध्यमा॑नम् । अन्विति॑ । ब॒ध्यमा॑नाः । अ॒भ्यैक्ष॒न्तेत्य॑भि-ऐक्ष॑न्त । मन॑सा । चक्षु॑षा । च॒ ॥ अ॒ग्निः । तान् । अग्रे॑ । प्रेति॑ । मु॒मो॒क्तु॒ । दे॒वः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जयेति॑ प्र-जया॑ । सव्ँ॒वि॒दा॒न इति॑ सम्-वि॒दा॒नः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- बध्य᳓मानम् (*TS*-1/2, *RV*-0/1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- बध्य᳓मानाः (*TS*-1/2, *RV*-0/1, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- अनु (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-2, *RV*-1, *TB*-31, *TK*-5, *AV*-1, *SB-M*-463, *SB-K*-445, *VS-M*-2, *VS-K*-1, *KS*-27)
+- ऐ᳓क्षन्त (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, पा॰ ६.४.७१)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-19/50)
+- च᳓क्षुषा (*TS*-10/115, *RV*-3/44, *TB*-6/37, *TK*-0/4, *AV*-20/86, *SB-M*-30/210, *SB-K*-20/191, *VS-M*-7/45, *VS-K*-7/55, *KS*-1/27)
+- चः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- ट᳓म् (*KS*-1, मूल-पाठः)
+- अ᳓ग्रे (*TS*-48/78, *RV*-42/68, *TB*-32/46, *TK*-2, *AV*-46/64, *SB-M*-282/346, *SB-K*-259/329, *VS-M*-19/27, *VS-K*-16/23, *KS*-7/8)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- मुमोक्तु (*TS*-3, *RV*-2, *AV*-2)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- प्रजा᳓-पतिः (*TS*-172/437, *RV*-5, *TB*-165/248, *TK*-30/46, *AV*-50/76, *SB-M*-544/774, *SB-K*-529/769, *VS-M*-23/44, *VS-K*-20/46, *KS*-34/48)
+- प्र-ज᳓या (*TS*-59/482, *RV*-11/70, *TB*-42/258, *TK*-1/13, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-7/68, *VS-K*-8/61, *KS*-10/82)
+- सम्-रराणः᳓ (*TS*-1/3, *RV*-2/3, *TB*-0/1, *AV*-3, *SB-K*-1/2, *VS-M*-3/5, *VS-K*-2/3, *KS*-0/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- बध्य᳓मानम् (*MS*-3/5, *TS*-1/2, *RV*-0/1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- बध्य᳓मानाः (*MS*-2/5, *TS*-1/2, *RV*-0/1, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- अनु (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-182, *TS*-2, *RV*-1, *TB*-31, *TK*-5, *AV*-1, *SB-M*-463, *SB-K*-445, *VS-M*-2, *VS-K*-1)
+- ऐ᳓क्षन्त (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, पा॰ ६.४.७१, *MS*-2)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- च᳓क्षुषा (*MS*-18/124, *TS*-10/114, *RV*-3/44, *TB*-6/37, *TK*-0/4, *AV*-20/86, *SB-M*-30/210, *SB-K*-20/191, *VS-M*-7/45, *VS-K*-7/56)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- टा᳓म् (*MS*-2, *SB-M*-1)
+- अ᳓ग्रे (*MS*-77/126, *TS*-48/78, *RV*-42/68, *TB*-32/46, *TK*-2, *AV*-46/64, *SB-M*-282/346, *SB-K*-259/329, *VS-M*-19/27, *VS-K*-17/24)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- मुमोक्तु (*TS*-3, *RV*-2, *AV*-2, *MS*-2)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- प्रजा᳓-पतिः (*MS*-190/297, *TS*-172/437, *RV*-5, *TB*-165/248, *TK*-30/46, *AV*-50/76, *SB-M*-544/774, *SB-K*-529/769, *VS-M*-23/44, *VS-K*-20/46)
+- प्र-ज᳓या (*MS*-44/407, *TS*-59/482, *RV*-11/70, *TB*-42/258, *TK*-1/13, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-7/68, *VS-K*-8/61)
+- सम्-विदानः᳓ (*TS*-7/11, *RV*-4/9, *TB*-1/3, *AV*-14/24, *SB-M*-4/6, *SB-K*-4/10, *VS-M*-2/9, *VS-K*-2/9, *MS*-7/11)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये बध्यमानमिमं पशुं अनुबध्यमानाः हृदयेनानुरज्यमानाः अभ्यैक्षन्त आभिमुख्येन पश्यन्ति मनसा चक्षुषा च न जहति स्नेहानुषङ्गात् कारुण्याद्वा । छान्दसो लङ् । तान् सर्वान् अग्निर्देवः अग्रे प्रथमं प्रमुमोक्तु प्रमुञ्चतु ततो मानसाद्दुःखात् । मुचेः छान्दसश्शपश्श्लुः । प्रजापतिः प्रजानां पतिश्च ततस्तान् मुञ्चतु प्रजया ऐकमत्यं गत इत्यर्थः । 'समो गमृच्छि' इत्यात्मनेपदम् ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[465_2]** cf. Mâitr. S. 1, 2, 15; TS 3, 1, 4, 2; AV 2, 34, 3.
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -212,14 +360,15 @@ Lord of offspring, in harmony with offspring.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/06_ya_AraNyA_pashavo.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 य᳓ आरण्याᳶ᳓ पश᳓वो विश्व᳓रूपा वि᳓रूपास्स᳓न्तो बहुधै᳓करूपाः ।   
 वायु᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/06_ya_AraNyA_pashavo.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 The cattle of the forest, of all forms,  
@@ -228,10 +377,18 @@ Let the god Vayu first release them,
 Lord of offspring, in harmony with offspring.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 य आ॑र॒ण्याᳶ प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।   
 वा॒युस्ताँ अग्रे॒ प्र मु॑मोक्तु दे॒वᳶ प्र॒जाप॑तिᳶ प्र॒जया॑ सव्ँविदा॒नः ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+य आ॑र॒ण्याः प॒शवो॑ वि॒श्वरू॑पाः ।  
+विरू॑पा॒स्सन्तो॑ बहु॒धैक॑रूपाः ।  
+वा॒युस्ताँ अग्रे॒ प्रमु॑मोक्तु दे॒वः ।  
+प्र॒जाप॑तिः प्र॒जया॑ सव्ँ विदा॒नः ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,13 +396,48 @@ Lord of offspring, in harmony with offspring.
 ये । आ॒र॒ण्याः । प॒शवः॑ । वि॒श्वरू॑पा॒ इति॑ वि॒श्व-रू॒पाः॒ । विरू॑पा॒ इति॒ वि-रू॒पाः॒ । सन्तः॑ । ब॒हु॒धेति॑ बहु-धा । एक॑रूपा॒ इत्येक॑-रू॒पाः॒ ॥ वा॒युः । तान् । अग्रे॑ । प्रेति॑ । मु॒मो॒क्तु॒ । दे॒वः । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । प्र॒जयेति॑ प्र-जया॑ । सव्ँ॒वि॒दा॒न इति॑ सम्-वि॒दा॒नः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
+
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-55/728, *TK*-14/66, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-71/244, *VS-K*-84/456, *KS*-66/818, *MS*-201/3763)
+- आरण्याः᳓ (*TS*-16/46, *RV*-0/1, *TB*-1, *AV*-7/8, *SB-M*-14/48, *SB-K*-14/52, *VS-K*-1/7, *KS*-1/6, *MS*-5/29)
+- पश᳓वः (*TS*-206/736, *RV*-2/36, *TB*-61/224, *AV*-55/140, *SB-M*-320/930, *SB-K*-339/953, *VS-M*-2/22, *VS-K*-2/31, *KS*-29/94, *MS*-251/805)
+- विश्व᳓-रूपाः (*TS*-2/11, *RV*-5/20, *TB*-1/4, *AV*-8/44, *SB-M*-1/16, *SB-K*-1/17, *VS-M*-0/4, *VS-K*-0/7, *KS*-0/6, *MS*-1/15)
+- वि᳓रूपाः (*TS*-3/8, *RV*-4/14, *TB*-0/2, *AV*-3/10, *SB-M*-0/3, *SB-K*-0/4, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/2, *MS*-3/5)
+- स᳓न्तः (*TS*-4/26, *RV*-9/92, *TB*-2/13, *AV*-2/16, *SB-M*-11/54, *SB-K*-12/66, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/4, *MS*-4/19)
+- बहुधा᳓ (*TS*-3, *RV*-9, *TB*-1, *TK*-1, *SB-K*-6, *VS-K*-1, *KS*-2, *MS*-7)
+- ए᳓क-रूपाः (*TS*-2, *RV*-1, *AV*-1/3, *SB-M*-2/4, *SB-K*-1/3, *MS*-0/1)
+- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-155/252, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39, *KS*-14/32, *MS*-62/119)
+- ता᳓न् (*TS*-94/4763, *RV*-74/3136, *TB*-41/1327, *TK*-5/135, *AV*-102/3165, *SB-M*-268/20457, *SB-K*-267/20018, *VS-M*-3/268, *VS-K*-2/395, *KS*-34/1225, *MS*-147/5550)
+- अ᳓ग्रे (*TS*-48/78, *RV*-42/68, *TB*-17/24, *AV*-46/64, *SB-M*-282/346, *SB-K*-259/329, *VS-M*-1/2, *VS-K*-6/8, *KS*-7/8, *MS*-77/126)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
+- मुमोक्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *MS*-2)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-42/257, *VS-K*-58/350, *KS*-24/317, *MS*-104/1216)
+- प्रजा᳓पतिः (*TS*-172/437, *RV*-5, *TB*-93/258, *AV*-50/76, *SB-M*-544/774, *SB-K*-529/769, *VS-M*-13/30, *VS-K*-13/42, *KS*-34/48, *MS*-190/297)
+- प्रज᳓या (*TS*-59/482, *RV*-11/70, *TB*-35/208, *TK*-1/10, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-8/53, *VS-K*-11/62, *KS*-10/82, *MS*-44/407)
+- सव्ँ-विदानः᳓ (*TS*-7/11, *RV*-4/9, *TB*-0/1, *AV*-14/24, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-2/4, *KS*-1/2, *MS*-7/11, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९, विदानः᳓ *RV*-1/6, *TB*-1/3, *AV*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 ये आरण्याः अरण्ये भवाः पशवः विश्वरूपाः सर्वरूपान्विताः विरूपाः विविधरूपाः । एवं बहुधा सन्तोपि एकरूपाः एकस्वभावाः नियतैकस्वभावाः अत एवेमं पशुं बध्यमानं अनुबध्यमाना मनसा चक्षुषा चाभ्यैक्षन्त । तान् सर्वान्वायुर्देवः प्रमुमोक्तु वायुरारण्यानां पशूनामधिपतिरिति भावः । शेषं समानम् । एतेन होमेन सर्वे पशवः तृप्ता भवन्त्विति ॥
 </details>
+
+<details><summary>त्रिभुवनः</summary>
+
+Whatever are the cattle of the forest having many forms, having various forms, many and (as cattle) having one form; may the wind release them for us first; and may Prajāpati, concordant by his progeny, (grant them for us).
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+य अरण्या इति ॥ व्याख्यातप्रायम् । वायुस्तान् इति विशेषः । वायोरारण्याधिपतित्वात् ॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+अरण्ये भवा आरण्या द्विखुरा श्वापदादयस्तानरण्याधिपतिर्वायुः प्रमुमोक्तु । अन्यत्पूर्ववत् ।
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

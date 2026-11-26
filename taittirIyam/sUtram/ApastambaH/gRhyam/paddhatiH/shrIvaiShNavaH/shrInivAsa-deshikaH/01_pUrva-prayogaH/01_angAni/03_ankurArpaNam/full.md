@@ -130,6 +130,8 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 
 
+
+
 व्रीहि-यव-माष-तिल-मुद्ग-सर्षपान्  
 पात्रे संसृज्य  
 क्षीरेण प्रक्षाल्य  
@@ -141,7 +143,7 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 பாலிகையிலும் 'யோஸ்ய கௌஷ்ட்ய' என்கிற இரண்டு மந்திரங்களால் தென்னண்டை பாலிகையிலும், "இமம்மேவருண" என்கிற இரண்டு மந்திரங்களினால் மேலண்டை பாலிகையிலும், "ஸோமோதேனும்” என்கிற இரண்டு மந்திரங்களினால் வடவண்டை பாலிகையிலும் மும்மூன்று தடவை பீஜாவாபம் செய்ய வேண்டும். பிறகு ஐந்து, ஏழு என்கிற க்ரமத்தில் ஒற்றைப் படை ஸ்த்ரீகளைக் கொண்டு பாலிகைகளுக்குத் தீர்த்தம் சேர்க்க வேண்டும். இந்த அங்குரார்ப்பணம் சௌளம்- உபநயநம் விவாஹம் இவைகளில் ஆரம்பத்திலேயே செய்ய வேண்டும். ஒரே ஸமயத்தில் சௌளம்-உபநயனம் இரண்டும் சேர்ந்து நடந்தால் இரண்டின் அங்கமாக ஒரே தடவை அங்குரார்ப்பணத்தைச் செய்தால் போதும். ஒரே ஸமயத்தில் கர்மாக்கள் செய்யும்படி நேருமாகில் அப்யுதயம்-அங்குரார்ப்பணம் ரக்ஷாபந்தனம் இவைகளை ஒரே தடவை மட்டும் செய்தால் போதும் என்று வசனம். சுப அனேக
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH">
 <details open><summary><h5>०६ ओषधिवापः ...{Loading}...</h5></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -164,7 +166,7 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -177,7 +179,7 @@ title = "+०३ अङ्कुरार्पणम् (पूर्णपा�
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/02_yA_jAtA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -208,7 +210,7 @@ The seven and a hundred abodes.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/03_shatav.N_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -229,7 +231,7 @@ The seven and a hundred abodes.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/02_shataM_vo.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/02_shataM_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -319,6 +321,12 @@ me ← ahám (pronoun)
 अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शतं᳓ वो अम्ब धा᳓मानि सह᳓स्रमुत᳓ वो रु᳓हः।  
+अं᳓धा शतक्रतवो यूय᳓मिमं᳓ मे अगदं᳓ कृत
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ।  
@@ -338,6 +346,25 @@ me ← ahám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शत᳓म् (*MS*-31/41, *TS*-24/76, *RV*-83/100, *TB*-9/16, *TK*-2, *AV*-78/95, *SB-M*-62/148, *SB-K*-56/136, *VS-M*-22/31, *VS-K*-19/25)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- अम्ब (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *TS*-2, *RV*-4, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
+- धा᳓मानि (*MS*-28/69, *TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/45)
+- सह᳓स्रम् (*MS*-40/58, *TS*-52/81, *RV*-54/89, *TB*-6/9, *TK*-5, *AV*-28/39, *SB-M*-71/119, *SB-K*-71/107, *VS-M*-12/24, *VS-K*-10/22)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- रु᳓हः (*MS*-2, *TS*-1, *RV*-1, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अं᳓धा (मूल-पाठः)
+- शत-क्रतवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- यूय᳓म् (*MS*-9/382, *TS*-14/313, *RV*-132/1488, *TB*-7/152, *TK*-0/39, *AV*-23/628, *SB-M*-16/387, *SB-K*-17/387, *VS-M*-7/216, *VS-K*-7/180)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- अगद᳓म् (*MS*-1, *TS*-3, *RV*-2, *TB*-2/5, *AV*-3/7, *SB-M*-2/5, *SB-K*-4/7)
+- कृत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-2, *RV*-3, *AV*-4, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -588,6 +615,12 @@ Therefore do ye, with a hundred powers,
 Make him whole for me.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A hundred are your stations, o mother, and a thousand your shoots;  
+so, o you of a hundred powers, make this [man] free from disease for me!
+</details>
+
 <details><summary>Geldner</summary>
 
 Hundert, o Mütterchen, zählen eure Arten und tausend eure Gewächse. So machet ihr, hundertfachen Rat wissend, mir diesen Mann gesund!
@@ -637,7 +670,7 @@ Ja hundertfach ist eure Art und tausendfach ist euer Wuchs; Mit hundert Kräften
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -658,7 +691,7 @@ Ja hundertfach ist eure Art und tausendfach ist euer Wuchs; Mit hundert Kräften
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/04_puShpAvatIpH_prasUvatIpH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -669,15 +702,41 @@ Like steeds victorious
 The plants are strong to help.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Flowering, bearing shoots, fruitful and fruitless,  
+like victorious mares, the plants are crossing-over.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 पुष्पा॑वतीᳶ प्र॒सूव॑तीᳶ फ॒लिनी॑रफ॒ला उ॒त ।  
 अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधᳶ॑ पारयि॒ष्णवः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पु᳓ष्पवतीः प्रसू᳓मतीः फलि᳓नीरफला᳓ उत᳓।  
+अश्वा इव सजि᳓त्वरीर्वी᳓रुधः पारयिष्ण᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पुष्पा॑वती॒रिति॒ पुष्प॑-व॒तीः॒ । प्र॒सूव॑ती॒रिति॑ प्र-सूव॑तीः । फ॒लिनीः॑ । अ॒फ॒लाः । उ॒त ॥ अश्वाः॑ । इ॒व॒ । स॒जित्व॑री॒रिति॑ स-जित्व॑रीः । वी॒रुधः॑ । पा॒र॒यि॒ष्णवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पु᳓ष्प-वतीः (*MS*-3, *TS*-3, *RV*-1, *AV*-1, *SB-M*-1/2, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- प्रसू᳓मतीः (*AV*-1)
+- फलि᳓नीः (*MS*-2, *TS*-2/3, *RV*-1, *TB*-0/2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अफलाः᳓ (*MS*-2, *TS*-2, *RV*-1/2, *AV*-0/1)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- अश्वाः (*AV*-1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- सजि᳓त्वरीः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1/2)
+- वी᳓रुधः (*MS*-1, *AV*-0/1)
+- पारयिष्ण᳓वः (*MS*-1/2, *TS*-1/2, *TK*-0/1, *AV*-0/3, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -693,11 +752,16 @@ The plants are strong to help.
 तद्यथा-नागवल्लीप्रभूतय एताः सर्वा ओषधयोऽश्वा इव सजित्वरीः ।  
 यथाऽश्वा युद्धे बहवः सह शीध्रं गत्वा जयशीला भवन्ति, एवमोषधयोऽपि बह्व्यः सहोत्पन्नाः फलपर्यन्तलक्षणजयशीला भवन्ति ।
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_3]** Ch प्रसुमतोः
+</details>
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -718,7 +782,7 @@ The plants are strong to help.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/05_oShadhIr_iti.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -754,7 +818,7 @@ Defilement [1] destroying.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/06_ashvatthe_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -775,7 +839,7 @@ Defilement [1] destroying.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/05_ashvatthe_vo.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/05_ashvatthe_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -874,6 +938,18 @@ yát ← yá- (pronoun)
 गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अश्वत्थे᳓ वो निवे᳓शनं पर्णे᳓ वो वसतिः᳓ कृता᳓  
+गोभा᳓जा इ᳓त् कि᳓लासथ य᳓त् सन᳓वाथ पू᳓रुषम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्वत्थे᳓ वो निष᳓दनं पर्णे᳓ वो वसति᳓ष्कृता।  
+गोभा᳓ज इ᳓त्कि᳓लासथ य᳓त्सन᳓वाथ पू᳓रुषम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒श्व॒त्थे । वः॒ । नि॒ऽसद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ।  
@@ -895,6 +971,43 @@ yát ← yá- (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒श्व॒त्थे । वः॒ । नि॒षद॑न॒मिति॑ नि-सद॑नम् । प॒र्णे । वः॒ । व॒स॒तिः । कृ॒ता ॥ गो॒भाज॒ इति॑ गो-भाजः॑ । इत् । किल॑ । अ॒स॒थ॒ । यत् । स॒नव॑थ । पूरु॑षम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अश्वत्थे᳓ (*TS*-1/5, *RV*-1/2, *TB*-2/5, *AV*-0/9, *SB-M*-4/8, *SB-K*-4/12, *VS-M*-2, *VS-K*-1, *KS*-1/6)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- नि-वे᳓शनम् (*TS*-1/4, *RV*-1/5, *AV*-1/3, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/2, *VS-K*-1/2)
+- पर्णे᳓ (*TS*-1/12, *RV*-1/6, *TB*-0/14, *AV*-0/6, *SB-M*-1/15, *SB-K*-1/12, *VS-M*-2/4, *VS-K*-1/3, *KS*-1/7)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- वसतिः᳓ (*TS*-2/3, *RV*-2/9, *TB*-2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-1/2, *KS*-2)
+- कृता᳓ (*TS*-3/4, *RV*-8/28, *TB*-3, *AV*-3/8, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-4, *VS-K*-3, *KS*-2/3)
+- गो-भा᳓जाः (*TS*-0/1, *RV*-0/1, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/1)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- कि᳓ल (*TS*-1, *RV*-12, *AV*-6, *SB-M*-8, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- असथ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- सन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2, *KS*-2)
+- अ᳓वाथ (*RV*-1, *KS*-1)
+- पू᳓रुषम् (*TS*-1/2, *AV*-0/3, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-2/5, *VS-K*-2/3, *KS*-1/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अश्वत्थे᳓ (*MS*-1/9, *TS*-1/5, *RV*-1/2, *TB*-2/5, *AV*-0/9, *SB-M*-4/8, *SB-K*-4/12, *VS-M*-2, *VS-K*-1)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- नि-स᳓दनम् (*MS*-1, *TS*-2, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- पर्णे᳓ (*MS*-1/16, *TS*-1/12, *RV*-1/6, *TB*-0/14, *AV*-0/6, *SB-M*-1/15, *SB-K*-1/12, *VS-M*-2/4, *VS-K*-1/3)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- वसतिः᳓ (*MS*-2, *TS*-2/3, *RV*-2/9, *TB*-2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-1/2)
+- कृता → **कृता᳓** (स्वर-लोपः, *MS*-6/9, *TS*-3/4, *RV*-8/28, *TB*-3, *AV*-3/8, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-4, *VS-K*-3)
+- गो-भा᳓जः (*MS*-0/1, *TS*-1, *RV*-1, *VS-M*-2, *VS-K*-1)
+- इ᳓त्कि᳓लास् → **इ᳓त्किलास्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अथ → **अ᳓थ** (स्वर-लोपः, *MS*-482, *TS*-161, *RV*-117, *TB*-146, *TK*-34, *AV*-68, *SB-M*-3814, *SB-K*-3581, *VS-M*-17, *VS-K*-14)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- सन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- अ᳓वाथ (*RV*-1, *MS*-1)
+- पू᳓रुषम् (*MS*-1/2, *TS*-1/2, *AV*-0/3, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-2/5, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1158,6 +1271,15 @@ _________
 तत्किमर्थमिति तदुच्यते-यद्यस्मात्कारणात्पूरुषं मनुष्यं सनवथान्नदानेन पोषयथ तस्मादेवं स्थावररूपावस्थानमित्यर्थः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_5]** W 1 वादनं
+
+- **[233_6]** Ch तिष्टता
+
+- **[233_7]** So T1; desgl. Ch und D, ohne Accent, cf. Maitr. S. 2, 7, 13; W 1 सनवथ, SO RV 10, 97, 5. (Thus T1; likewise Ch and D, without accent, cf. Maitr. S. 2, 7, 13; W1 सनवथ, thus RV 10, 97, 5.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -1260,6 +1382,18 @@ Cows shall in truth be your share
 If ye shall gain this man.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the aśvattha is your dwelling, in the parṇa your abode is made;  
+surely you shall be sharers in cattle when you win the man.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+In the aśvattha is your seat, in the parṇa your dwelling is made;  
+cattle-winners indeed shall you be when you win the man.
+</details>
+
 <details><summary>Geldner</summary>
 
 Am Asvatthabaum ist euer Sitz, am Parnabaum euer Nest bereitet. Ihr werdet gewiß eine Kuh verdienen, wenn ihr den Mann gewinnen werdet.
@@ -1314,7 +1448,7 @@ Von Feigenholz ist euer Bett, das Nestchen ist vom Bohnenbaum; Ihr wäret mir vi
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1335,7 +1469,7 @@ Von Feigenholz ist euer Bett, das Nestchen ist vom Bohnenbaum; Ihr wäret mir vi
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/07_yad_ahav.N.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -1346,15 +1480,46 @@ The soul of the disease perisheth,
 As before one that taketh alive.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When I, seeking prize, take these plants in hand,  
+the self of the consumption perishes, as before one who seizes alive.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यद॒हव्ँवा॒जय॑न्नि॒मा ओष॑धी॒र्हस्त॑ आद॒धे ।  
 आ॒त्मा यक्ष्म॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यदहं बाजयन्विमा ओ᳓षधीर्ह᳓स्त आदधे᳓।  
+आत्मा᳓ य᳓क्ष्मस्य नश्यति पुरा᳓ जीवगृ᳓भो यथा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । अ॒हम् । वा॒जय॑न् । इ॒माः । ओष॑धीः । हस्ते॑ । आ॒द॒ध इत्या॑-द॒धे ॥ आ॒त्मा । यक्ष्म॑स्य । न॒श्य॒ति॒ । पु॒रा । जी॒व॒गृभ॒ इति॑ जीव-गृभः॑ । य॒था॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यत् (*MS*-48, *TS*-2, *TB*-9, *AV*-1, *SB-M*-10, *SB-K*-6)
+- अहम् (*MS*-6, *TS*-14, *RV*-12, *TB*-2, *AV*-1, *SB-M*-9, *SB-K*-8)
+- बाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अजयन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-24, *TB*-6, *TK*-1, *AV*-2, *SB-M*-15, *SB-K*-20, *VS-M*-5, *VS-K*-3)
+- वि-माः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- ह᳓स्तः (*MS*-7/69, *TS*-1/40, *RV*-2/47, *TB*-5/17, *AV*-2/47, *SB-M*-5/59, *SB-K*-4/60, *VS-M*-0/29, *VS-K*-0/29)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- दधे᳓ (*MS*-4/6, *TS*-1/2, *RV*-17, *TB*-1, *AV*-1, *SB-M*-10, *SB-K*-12, *VS-M*-2, *VS-K*-2)
+- आत्मा᳓ (*MS*-48/194, *TS*-41/167, *RV*-13/20, *TB*-13/78, *TK*-5/10, *AV*-14/62, *SB-M*-394/1009, *SB-K*-385/1051, *VS-M*-12/22, *VS-K*-8/17)
+- य᳓क्ष्मस्य (*MS*-1/4, *TS*-1/11, *RV*-1/11, *AV*-0/65, *SB-M*-0/2, *VS-M*-1/4, *VS-K*-1/4)
+- नश्यति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-3, *RV*-2, *SB-M*-6, *SB-K*-6)
+- पुरा᳓ (*MS*-43/86, *TS*-38/56, *RV*-63/126, *TB*-23/25, *TK*-1, *AV*-46/74, *SB-M*-136/169, *SB-K*-147/180, *VS-M*-11/24, *VS-K*-10/23)
+- जीव-गृ᳓भः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- यथा (*MS*-11, *TS*-6, *RV*-34, *TB*-4, *TK*-1, *AV*-9, *SB-M*-2, *SB-K*-15, *VS-M*-3, *VS-K*-4)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1374,7 +1539,7 @@ As before one that taketh alive.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1387,7 +1552,7 @@ As before one that taketh alive.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/08_yad_oShadhayas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -1398,10 +1563,22 @@ Sage is the physician called,
 Slayer of Raksases, overpowerer of diseases.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the plants came together, like kings assembled,  
+that inspired priest is called a healer, demon-slayer, chaser of disease.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यदोष॑धयस्स॒ङ्गच्छ॑न्ते॒ राजा॑न॒स्समि॑ताविव ।  
-विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।  
+विप्र॒स्स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓दो᳓षधयस्समं᳓ग्मत रा᳓जानस्स᳓मिता इव।  
+वि᳓प्रस्स᳓ उच्यते भिष᳓ग्रक्षोहा᳓मीवचा᳓तनः
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1409,15 +1586,34 @@ Slayer of Raksases, overpowerer of diseases.
 यत् । ओष॑धयः । स॒ङ्गच्छ॑न्त॒ इति॑ सम्-गच्छ॑न्ते । राजा॑नः । समि॑ता॒विति॒ सम्-इ॒तौ॒ । इ॒व॒ ॥ विप्रः॑ । सः । उ॒च्य॒ते॒ । भि॒षक् । र॒क्षो॒हेति॑ रक्षः-हा । अ॒मी॒व॒चात॑न॒ इत्य॑मीव-चात॑नः ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓दो᳓षधयस्समं᳓ग्मत → **य᳓दोषधयस्समंग्मत** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
+- रा᳓जानः (*MS*-2/60, *TS*-1/48, *RV*-11/151, *TB*-1/63, *TK*-0/2, *AV*-4/78, *SB-M*-12/175, *SB-K*-10/139, *VS-M*-1/27, *VS-K*-1/29)
+- स᳓म्-इताः (*MS*-1/2, *TS*-0/4, *RV*-1, *TB*-0/1, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/3, *VS-K*-0/1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- वि᳓प्रः (*MS*-5/19, *TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/19)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- उच्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-7, *RV*-12, *TB*-2, *TK*-2, *AV*-14, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- भिष᳓क् (*MS*-10, *TS*-3, *RV*-3, *TB*-10, *AV*-2/5, *SB-M*-1, *SB-K*-1, *VS-M*-13, *VS-K*-9/11)
+- रक्षः-हा᳓ (*TS*-5/18, *RV*-8/12, *TB*-1, *AV*-6/8, *SB-K*-2/6, *VS-M*-4/10, *VS-K*-3/4, *MS*-6/17)
+- अमीव-चा᳓तनः (*TS*-2, *RV*-1/3, *AV*-3, *VS-M*-1, *VS-K*-1, *MS*-1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-यद्यदौषधयः सर्वाः संगच्छन्ते फलदानाय क्षेत्रसंगता  १९१५ भवन्ति, तत्र दृष्टान्तः—राजानः समिताविव, यथा युद्धे प्रतिपक्षिणः सेनां जेतुं परस्परमनुकूला राजानः संगच्छन्ते तद्वत् ।   तदानीं संगतास्वोषधीषु विप्रो मेधावी सरवीर्यभावनाभिज्ञो यः पुरुषः स भिषगुच्यते क्षुधादिरोगचिकित्सक इत्यभिधीयते ।   कथं भिषक्त्वमिति तदुच्यते—रक्षोहा पक्वाभिरेताभिः पुसेडाशं राक्षोघ्नं कृत्वा रक्षसां हन्ता तदुपद्रवरूपं रोगं विनाशयति ।   अमीवचातन ओषधिजन्यपथ्यादिभिरमीवान्रोगां-श्चातयति विनाशयतीत्यमीवचातनः ।  
+यद्यदौषधयः सर्वाः संगच्छन्ते फलदानाय क्षेत्रसंगता  १९१५ भवन्ति, तत्र दृष्टान्तः—राजानः समिताविव, यथा युद्धे प्रतिपक्षिणः सेनां जेतुं परस्परमनुकूला राजानः संगच्छन्ते तद्वत् ।   तदानीं संगतास्वोषधीषु विप्रो मेधावी सरवीर्यभावनाभिज्ञो यः पुरुषः स भिषगुच्यते क्षुधादिरोगचिकित्सक इत्यभिधीयते ।   कथं भिषक्त्वमिति तदुच्यते—रक्षोहा पक्वाभिरेताभिः पुसेडाशं राक्षोघ्नं कृत्वा रक्षसां हन्ता तदुपद्रवरूपं रोगं विनाशयति ।   अमीवचातन ओषधिजन्यपथ्यादिभिरमीवान्रोगां-श्चातयति विनाशयतीत्यमीवचातनः ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_9]** So T1; W1 समज्मत; in Ch wohl ebenso; in D die resp. Ligatur ganz undentlich. (Thus T1; W1 समज्मत; in Ch probably likewise; in D the respective ligature entirely indistinct.)
 </details>
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1438,7 +1634,7 @@ Slayer of Raksases, overpowerer of diseases.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/09_niShkRtir_nAma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -1467,7 +1663,7 @@ Remove whatever is unwell.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1488,7 +1684,7 @@ Remove whatever is unwell.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/10_anyA_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -1518,7 +1714,7 @@ Do ye further this speech of mine.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/11_uch_ChuShmA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1539,7 +1735,7 @@ Do ye further this speech of mine.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/08_uchChuShmA_oShadhInAM.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/08_uchChuShmA_oShadhInAM.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1626,6 +1822,18 @@ táva ← tvám (pronoun)
 धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓ञ् शु᳓ष्मा ओ᳓षधीनां गा᳓वो गोष्ठा᳓द् इवेरते  
+ध᳓नँ सनिष्य᳓न्तीनाम् आत्मा᳓नं त᳓व पूरुष
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓च्छु᳓ष्मा ओ᳓षधीनां गा᳓वो गोष्टा᳓दिवेरते।  
+ध᳓नँ सनिष्य᳓न्तीनामात्मा᳓नं त᳓व पूरुष
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒स्थात्ऽइ॑व । ई॒र॒ते॒ ।  
@@ -1645,6 +1853,37 @@ táva ← tvám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वचः॑ ॥ उदिति॑ । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒ष्ठादिति॑ गो-स्थात् । इ॒व॒ । ई॒र॒ते॒ ॥ धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पू॒रु॒ष॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓ञ् (मूल-पाठः)
+- शु᳓ष्माः (*TS*-2/8, *RV*-5/69, *TB*-0/15, *AV*-0/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/5, *VS-K*-0/5, *KS*-0/9)
+- ओ᳓षधीनाम् (*TS*-25/114, *RV*-9/89, *TB*-18/57, *TK*-0/2, *AV*-25/86, *SB-M*-24/93, *SB-K*-28/98, *VS-M*-5/44, *VS-K*-5/49, *KS*-10/31)
+- गा᳓वः (*TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-9/66, *VS-K*-8/64, *KS*-9/37)
+- गो-ष्ठा᳓त् (*TS*-0/4, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- ईरते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-22, *TB*-1, *AV*-6, *SB-M*-6, *SB-K*-5, *VS-M*-2, *KS*-4)
+- ध᳓नम् (*TS*-3/10, *RV*-18/89, *TB*-1/4, *TK*-0/1, *AV*-19/47, *SB-M*-2/8, *SB-K*-3/9, *VS-M*-4/8, *VS-K*-3/8, *KS*-2/8)
+- सनिष्य᳓न्तीनाम् (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- आत्मा᳓नम् (*TS*-54/167, *RV*-4/20, *TB*-19/78, *TK*-4/10, *AV*-22/62, *SB-M*-268/1009, *SB-K*-251/1051, *VS-M*-8/22, *VS-K*-7/17, *KS*-8/35)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- पूरुष (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *AV*-4, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓च्छु᳓ष्माः → **उ᳓च्छुष्माः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
+- ओ᳓षधीनाम् (*MS*-45/137, *TS*-25/114, *RV*-9/89, *TB*-18/57, *TK*-0/2, *AV*-25/86, *SB-M*-24/93, *SB-K*-28/98, *VS-M*-5/44, *VS-K*-5/49)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- गोष्टा᳓त् (मूल-पाठः)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- ईरते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-22, *TB*-1, *AV*-6, *SB-M*-6, *SB-K*-5, *VS-M*-2)
+- ध᳓नम् (*MS*-3/12, *TS*-3/10, *RV*-18/89, *TB*-1/4, *TK*-0/1, *AV*-19/47, *SB-M*-2/8, *SB-K*-3/9, *VS-M*-4/10, *VS-K*-3/8)
+- सनिष्य᳓न्तीनाम् (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- आत्मा᳓नम् (*MS*-69/194, *TS*-54/167, *RV*-4/20, *TB*-19/78, *TK*-4/10, *AV*-22/62, *SB-M*-268/1009, *SB-K*-251/1051, *VS-M*-8/22, *VS-K*-7/17)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- पूरुष (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *AV*-4, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1807,6 +2046,11 @@ _________
 ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_10]** T1 पुरुष D पुरुषः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 ओषधियों का क्या निमित्त है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -1868,6 +2112,18 @@ Of them that are fain to win gain,
 To the self of thee, O man.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upward the energies of the plants arise like cows from the pen,  
+about to win wealth—your soul, O man!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Up go the energies of the plants, like cows from the pen,  
+destined to win wealth, the self of you, o man!
+</details>
+
 <details><summary>Geldner</summary>
 
 Die Kräfte der Kräuter strömen aus wie die Kühe aus dem Kuhstand, die Kräuter, die Reichtum gewinnen sollen und dein Leben, o Mann.
@@ -1917,7 +2173,7 @@ Der Kräuter Düfte strömen aus, wie aus dem Stall die Heerde dringt, Um zu gew
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/12_ati_vishvAH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1938,7 +2194,7 @@ Der Kräuter Düfte strömen aus, wie aus dem Stall die Heerde dringt, Um zu gew
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/10_ati_vishvAH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/10_ati_vishvAH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2040,6 +2296,18 @@ yát ← yá- (pronoun)
 ओष॑धय॒ᳶ प्राचु॑च्यवु॒र्यत्किञ्च॑ त॒नुवाँ॒ रपः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ति वि᳓श्वाः परिष्ठाः᳓ स्तेन᳓ इव व्रज᳓म् अक्रमुः  
+ओ᳓षधयः प्रा᳓चुच्यवुर् य᳓त् किं᳓च तन्वो᳙ र᳓पः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓ति वि᳓श्वाः परिष्ठास्स्तेन इव व्रजमक्रमुः।  
+ओषधयः प्राचुच्यवुर्यत्किञ्चित्तन्वो रपः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अति॑ । विश्वाः॑ । प॒रि॒ऽस्थाः । स्ते॒नःऽइ॑व । व्र॒जम् । अ॒क्र॒मुः॒ ।  
@@ -2059,6 +2327,44 @@ yát ← yá- (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अतीति॑ । विश्वाः॑ । प॒रि॒ष्ठा इति॑ परि-स्थाः । स्ते॒नः । इ॒व॒ । व्र॒जम् । अ॒क्र॒मुः॒ ॥ ओष॑धयः । प्रेति॑ । अ॒चु॒च्य॒वुः॒ । यत् । किम् । च॒ । त॒नुवा॑म् । रपः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- वि᳓श्वाः (*TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/214, *VS-K*-15/214, *KS*-17/118)
+- परि-ष्ठाः᳓ (*TB*-1, *VS-M*-1, *VS-K*-1/2)
+- स्तेनः᳓ (*TS*-3/8, *RV*-4/11, *TB*-1, *AV*-9/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-1/6, *VS-K*-0/6, *KS*-2/3)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- व्रज᳓म् (*TS*-5/6, *RV*-31/46, *TB*-2/6, *AV*-5/11, *SB-M*-4/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-1, *KS*-0/2)
+- अक्रमुः (*TS*-1, *RV*-6, *VS-M*-1, *KS*-1)
+- ओ᳓षधयः (*TS*-63/161, *RV*-3/65, *TB*-31/69, *TK*-0/2, *AV*-26/98, *SB-M*-91/192, *SB-K*-91/202, *VS-M*-21/49, *VS-K*-15/46, *KS*-12/34)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- अचुच्यवुः (*TS*-3, *RV*-7, *KS*-1)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- कि᳓म् (*TS*-53/158, *RV*-98/375, *TB*-32/93, *TK*-10/20, *AV*-46/216, *SB-M*-470/890, *SB-K*-439/850, *VS-M*-22/98, *VS-K*-14/82, *KS*-4/42)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- तन्वः᳙ (*RV*-44, *AV*-25, *SB-M*-18, *SB-K*-18, *VS-M*-14, *VS-K*-11, *KS*-18)
+- र᳓पः (*TS*-2/3, *RV*-15/24, *TB*-1, *AV*-6, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ति (*MS*-140, *TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- परि-ष्ठास् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- स्तेनः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- व्रजम् → **व्रज᳓म्** (स्वर-लोपः, *MS*-7/10, *TS*-5/6, *RV*-31/46, *TB*-2/6, *AV*-5/11, *SB-M*-4/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-1)
+- अक्रमुः (*MS*-1, *TS*-1, *RV*-6, *VS-M*-1)
+- ओषधयः → **ओ᳓षधयः** (स्वर-लोपः, *MS*-71/161, *TS*-63/161, *RV*-3/65, *TB*-31/69, *TK*-0/2, *AV*-26/98, *SB-M*-91/192, *SB-K*-91/202, *VS-M*-21/49, *VS-K*-15/46)
+- प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- अचुच्यवुः (*MS*-2, *TS*-3, *RV*-7)
+- यत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-48, *TS*-2, *TB*-9, *AV*-1, *SB-M*-10, *SB-K*-6)
+- किम् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1, *MS*-2)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- तन्वः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *VS-K*-8)
+- रपः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2234,6 +2540,15 @@ _________
 **परिष्ठाः** शरीरस्योपरि स्थिता उदरमध्ये प्रविष्टा विश्वाः सर्वा ओषधयोऽत्यजीर्णादिदोषमतिलङ्घ्याक्रमुः क्रान्ता देहे व्याप्ता इत्यर्थः ।   तत्र दृष्टान्तः—स्तेन इव व्रज्रं, यथा रात्रौ गुप्तचोरो गोष्ठं प्रविश्य गामपहर्तुं सावधानो गोशालयां[लां] सर्वतो व्याप्नोति तद्वत् ।   तनुवां शरीराणां संबन्धि यक्तिंच रपो स्वरशिरोव्याधिगुल्मातिसारादिरूपं पापफलं यत्किंचिदस्ति तत्सर्वमोषधयः प्राचुच्यवुर्वि-नाशितवत्यः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[234_1]** Von hier an eine Lücke in T1 bis ओ᳓षधीर्हस्त आदधे᳓ (excl.), daher nicht accentuirt (das Dazwischenliegende ist abgebrochen). (From here on, a lacuna in T1 up to ओ᳓षधीर्हस्त आदधे᳓ (excl.), hence not accented (what lies in between is broken off).)
+
+- **[234_2]** D इवा
+
+- **[234_3]** ch und W1 प्रचच्युवु॰ (Ch and W1 read प्रचच्युवु॰)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कैसे रोग निवृत्त होते हैं, यह विषय अगले मन्त्र में कहा है ॥
@@ -2302,6 +2617,12 @@ The plants have shaken away
 Every defilement in the body.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Past all obstacles they have stepped, like a thief into a pen;  
+the plants have driven away whatever infirmity is in the body.
+</details>
+
 <details><summary>Geldner</summary>
 
 Über alle Hindernisse sind sie wie der Dieb über den Zaun gestiegen. Die Kräuter haben jeglichen Leibesschaden entfernt.
@@ -2351,7 +2672,7 @@ Kein Hemmniss hält sie auf, sie sind der Dieb, der durch die Zäune bricht, Die
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2372,7 +2693,7 @@ Kein Hemmniss hält sie auf, sie sind der Dieb, der durch die Zäune bricht, Die
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/13_yAs_ta.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -2382,15 +2703,49 @@ May they repel thy disease,
 Like a dread intercessor.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those of you that stood upon the self, that entered limb by limb,  
+let them thrust away your consumption, like a fierce arbiter in the midst.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 याः [26]  त॒ आ॒त॒स्थुरा॒त्मानय्ँ॒या आ॑विवि॒शुᳶ परुᳶ॑परुः ।  
 तास्ते॒ यक्ष्मव्ँ॒वि बा॑धन्तामु॒ग्रो म॑ध्यम॒शीरि॑व ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यास्त आतस्थुरात्मानमाविविश्रुः परुष्परूः।  
+तास्ते यक्ष्मं विबाधन्तामुपो मध्यमशीरिव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 याः । ते । आ॒त॒स्थुरित्या॑-त॒स्थुः । आ॒त्मान॑म् । याः । आ॒वि॒वि॒शुरित्या॑-वि॒वि॒शुः । परु॑ᳶपरु॒रिति॒ परुः॑-प॒रुः॒ ॥ ताः । ते॒ । यक्ष्म॑म् । वीति॑ । बा॒ध॒न्ता॒म् । उ॒ग्रः । म॒ध्य॒म॒शीरिति॑ मध्यम-शीः । इ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- याः᳓ (*MS*-105/3763, *TS*-85/3385, *RV*-87/4011, *TB*-24/1735, *TK*-12/227, *AV*-133/3120, *SB-M*-237/8327, *SB-K*-240/8438, *VS-M*-31/651, *VS-K*-31/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- तस्थुः᳓ (*MS*-3/7, *TS*-2/6, *RV*-15/23, *TB*-0/3, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/3, *VS-M*-3/8, *VS-K*-3/10)
+- आत्मा᳓नम् (*MS*-69/194, *TS*-54/167, *RV*-4/20, *TB*-19/78, *TK*-4/10, *AV*-22/62, *SB-M*-268/1009, *SB-K*-251/1051, *VS-M*-8/22, *VS-K*-7/17)
+- आ (गतिर्गतौ पा॰ ८.१.७०, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- विः᳓ (*MS*-1/597, *TS*-0/427, *RV*-6/1109, *TB*-1/240, *TK*-0/7, *AV*-1/487, *SB-M*-0/656, *SB-K*-2/704, *VS-M*-0/216, *VS-K*-0/182)
+- रुः᳓ (*RV*-0/1, *TB*-0/8, *AV*-0/1)
+- प᳓रुः (*Whitney*, *MS*-1/5, *TS*-2/6, *RV*-1/4, *TB*-0/2, *AV*-3/11, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-1/5)
+- प᳓रूः (*MS*-0/2, *TS*-0/3, *RV*-0/1, *AV*-0/4, *VS-M*-0/1, *VS-K*-0/1)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- य᳓क्ष्मम् (*MS*-3/4, *TS*-2/11, *RV*-9/11, *AV*-32/65, *SB-M*-0/2, *VS-M*-1/4, *VS-K*-1/4)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- बाधन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *MS*-1)
+- उ᳓पो (*MS*-5, *TS*-4, *RV*-16, *TB*-2, *AV*-3, *SB-M*-2, *SB-K*-4, *VS-M*-1, *VS-K*-1)
+- मध्यमशी᳓रिव (*RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -2401,7 +2756,7 @@ Like a dread intercessor.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2422,7 +2777,7 @@ Like a dread intercessor.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/14_sAkay.N_yakhShma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -2455,7 +2810,7 @@ With the whirlwind do thou disappear.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/15_ashvAvatIM_somavatIm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2476,7 +2831,7 @@ With the whirlwind do thou disappear.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/07_ashvAvatIM_somAvatImUrjayantImudojasam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/07_ashvAvatIM_somAvatImUrjayantImudojasam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2557,6 +2912,12 @@ asmaí ← ayám (pronoun)
 आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्वावतीँ᳓ सोमावती᳓मूर्ज᳓यन्तीमु᳓दोजसम्।  
+आ᳓वित्सि स᳓र्वा औ᳓षधीरस्मा᳓ अरिष्ट᳓तातये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒श्व॒ऽव॒तीम् । सो॒म॒ऽव॒तीम् । ऊ॒र्जय॑न्तीम् । उत्ऽओ॑जसम् ।  
@@ -2576,6 +2937,20 @@ asmaí ← ayám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अश्व-वती᳓म् (*TS*-1, *RV*-1, *TB*-1, *VS-M*-1, *MS*-2)
+- सोमावती᳓म् (*VS-M*-1, *VS-K*-1)
+- ऊर्ज᳓यन्तीम् (*MS*-1, *TS*-1, *RV*-2/5, *VS-M*-1)
+- उ᳓त्-ओजसम् (*TS*-1, *RV*-1/2, *VS-M*-1, *MS*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वित्सि (*TS*-1)
+- स᳓र्वाः (*MS*-101/419, *TS*-51/287, *RV*-12/68, *TB*-34/159, *TK*-58/114, *AV*-67/444, *SB-M*-143/2265, *SB-K*-143/2224, *VS-M*-13/55, *VS-K*-13/43)
+- औ᳓षधीः (*TS*-1/3, *SB-M*-0/3)
+- अस्मै᳓ (*MS*-26/1379, *TS*-22/965, *RV*-21/1247, *TB*-10/567, *TK*-1/57, *AV*-59/1259, *SB-M*-95/5239, *SB-K*-128/5549, *VS-M*-10/319, *VS-K*-8/301)
+- अरिष्ट᳓-तातये (*MS*-1, *TS*-1, *RV*-4/5, *AV*-9/10, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2762,6 +3137,11 @@ _________
 ताः सर्वा ओषधीरहमावित्सि लब्धवानस्मि ।   किमर्थम् ।   अस्मा अरिष्टतातये अरिष्टस्य तातिररिष्टतातिः ।   अस्य यजमानस्य हिंसाराहित्ययेत्यर्थः ।     १९१७ तदेवमोषधिवापार्था ऋचश्चतुर्दशाऽऽम्नाताः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_8]** Ch सोमव॰; W 1 तोमुमाव°
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्यों को नित्य पुरुषार्थ बढ़ाना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -2830,6 +3210,12 @@ I have found all the plants
 For his safety.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rich in horses, rich in soma, invigorating, overcoming in strength,  
+all the plants have I found for his unharmedness.
+</details>
+
 <details><summary>Geldner</summary>
 
 Das Rosseeinbringende, Somasaftliefernde, Stärkende, Krafterhöhende, alle diese Kräuter habe ich angetroffen für diesen zur Genesung.
@@ -2879,7 +3265,7 @@ Das wäss'rige, das milchige, das nährende, das kräftige – Beisammen sind si
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/16_yApH_phalinIr.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2900,7 +3286,7 @@ Das wäss'rige, das milchige, das nährende, das kräftige – Beisammen sind si
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/15_yAH_phalinIryA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/15_yAH_phalinIryA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3262,7 +3648,7 @@ Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie möge
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3283,7 +3669,7 @@ Was Früchte trägt, was ohne Frucht, was blühend ist, was blütelos, Sie möge
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/17_yA_oShadhayas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -3313,7 +3699,7 @@ Impel us to long life.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/18_avapatantIr_avadan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3334,7 +3720,7 @@ Impel us to long life.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/17_avapatantIravadandiva_oShadhayaspari.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/17_avapatantIravadandiva_oShadhayaspari.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3427,6 +3813,18 @@ sá ← sá- ~ tá- (pronoun)
 यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अवप᳓तन्तीर् अवदन् दिव᳓ ओ᳓षधयस् प᳓रि  
+यं᳓ जीव᳓म् अश्न᳓वामहे न᳓ स᳓ रिष्याति पू᳓रुषः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अवप᳓तन्तीरवदन्दिवो ऽन्तेभ्यस्प᳓रि।  
+यं᳓ जीव᳓मश्न᳓वामहै न᳓ स᳓ रिष्याति पू᳓रुषः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒व॒ऽपत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ।  
@@ -3446,6 +3844,40 @@ sá ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अव-प᳓तन्तीः (*TS*-1, *RV*-1, *VS-M*-1, *KS*-1)
+- अवदन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *KS*-1)
+- दिवः᳓ (*TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-38/172, *KS*-43/128)
+- ओ᳓षधयः (*TS*-63/161, *RV*-3/65, *TB*-31/69, *TK*-0/2, *AV*-26/98, *SB-M*-91/192, *SB-K*-91/202, *VS-M*-21/49, *VS-K*-15/46, *KS*-12/34)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-60/639, *VS-K*-38/581, *KS*-31/818)
+- जीव᳓म् (*TS*-4/8, *RV*-10/26, *TB*-0/10, *TK*-0/1, *AV*-5/32, *SB-M*-12/22, *SB-K*-15/25, *VS-M*-2/6, *VS-K*-1/5, *KS*-3/10)
+- अश्न᳓ (*SB-M*-1, *SB-K*-1/2)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- महे (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *KS*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- रिष्याति (*TS*-1, *RV*-1, *AV*-1, *VS-K*-1, *KS*-1)
+- पू᳓रुषः (*TS*-1/2, *AV*-2/3, *SB-M*-1, *SB-K*-2, *VS-M*-3/5, *VS-K*-1/3, *KS*-1/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अव-प᳓तन्तीः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1)
+- अवदन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-1, *RV*-2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- दिवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-21, *AV*-2)
+- अन्तेभ्यः (मूल-पाठः)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- जीव᳓म् (*MS*-6/16, *TS*-4/8, *RV*-10/26, *TB*-0/10, *TK*-0/1, *AV*-5/32, *SB-M*-12/22, *SB-K*-15/25, *VS-M*-2/6, *VS-K*-1/5)
+- अश्न᳓वामहै (*RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- रिष्याति (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-K*-1)
+- पू᳓रुषः (*MS*-1/2, *TS*-1/2, *AV*-2/3, *SB-M*-1, *SB-K*-2, *VS-M*-3/5, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -3586,6 +4018,13 @@ BI om. अवपूर्वस्य
 द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[234_10]** In T1 kleine Lücke, daher Accente unvollständig. (In T1 small lacuna, hence accents incomplete.)
+
+- **[234_11]** Ch पुरुषः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अध्यापक लोग सब को उत्तम ओषधि जनावें, यह विषय अगले मन्त्र में कहा है ॥
@@ -3649,6 +4088,18 @@ The plants said,
 Shall not come to ill.'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Falling down from heaven, the plants said:  
+‘The living man whom we reach, that man shall not come to harm.’
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Falling down, they spoke from the ends of heaven:  
+'Whatever living man we reach, that man shall not come to harm.'
+</details>
+
 <details><summary>Geldner</summary>
 
 Vom Himmel herabfliegend sprachen die Kräuter: Wen wir am Leben antreffen werden, der Mann soll nicht zu Schaden kommen.
@@ -3698,7 +4149,7 @@ Als von dem Himmel einst herab die Kräuter flogen, sprachen sie: Wen wir am Leb
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3719,7 +4170,7 @@ Als von dem Himmel einst herab die Kräuter flogen, sprachen sie: Wen wir am Leb
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/19_yAsh_chedam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -3749,7 +4200,7 @@ Give ye him healing.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/20_mA_vo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3770,7 +4221,7 @@ Give ye him healing.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/20_mA_vo.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/097/20_mA_vo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4139,7 +4590,7 @@ Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -4160,7 +4611,7 @@ Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/06_oShadhivApaH_yA_jAtAH/21_oShadhayas_sav.Nvadante.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>

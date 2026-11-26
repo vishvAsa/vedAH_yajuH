@@ -1,6 +1,7 @@
 +++
 title = "०३ नमः॒ सह॑मानाय"
 +++
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -128,17 +129,24 @@ Homage to the holder of the quiver, to the owner of the quiver, to the lord of r
 
 [[2119]]
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/04_namo_va~nchate_pariva~nchate.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 न᳓मो व᳓ञ्‍चते परिव᳓ञ्‍चते  
 स्तायूनां᳓+++(←स्तै वेष्टने)+++ प᳓तये न᳓मः
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/03_namaH_sahamAnAya/04_namo_va~nchate_pariva~nchate.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Homage to the cheater, the swindler, to the lord of burglars homage!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage to the cheater, the deceiver,  
+homage to the lord of stealthy pilferers!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -164,11 +172,10 @@ Homage to the cheater, the swindler, to the lord of burglars homage!
 स्वकीया एव भूत्वा  
 रात्राव् अह्नि वाऽन्यैर् अज्ञाताः सन्तो  
 ऽपहर्तारो ये ते **स्तायव**।  
-तेषां स्तायूनां पालकाय नमः।  
+तेषां स्तायूनां पालकाय नमः।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निचेर᳓वे+++(←चर्)+++ परिचरा᳓या᳓रण्यानां प᳓त᳓ये न᳓मः
 </details>
@@ -543,4 +550,3 @@ Homage to you horses, and to you, lords of horses, homage!
 नमः॑ । अश्वे॑भ्यः । अश्व॑पतिभ्य॒ इत्यश्व॑पति-भ्यः॒ । च॒ । वः॒ । नमः॑ ॥
 </details>
 </details>
-

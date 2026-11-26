@@ -307,6 +307,21 @@ _________
 ([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/3/13) द्रष्टव्यम्।)
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[21_1]** Dies Kap. accentuirt nach T1, coll. mit Ts, L und Brl. (This chap. is accented according to T1, collated with Ts, L, and Brl.)
+
+- **[21_2]** Brl धेग्नि ; T3 रग्नि᳓न्धे (हि)
+
+- **[21_3]** Brl वृ᳓ष ; desgl. Ch, ohne Accent. (Brl वृ᳓ष; likewise Ch, without accent.)
+
+- **[21_4]** Ch सचेतना
+
+- **[21_5]** L und T3 दधासि (L and T3 दधासि)
+
+- **[21_6]** W 1 रोरिवतः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्य सूर्य के तुल्य दोषों को विनाशे, इस विषय को अगले मन्त्र में कहा है ॥
@@ -378,6 +393,18 @@ Kindled, pure as offered.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 May Agni slay the foemen,—fain for riches, through the love of song Kindled, bright, served with sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni, seeking wealth, smite down the Vṛtras with praise,  
+kindled, bright, offered to.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni smites the obstacles, seeking wealth through praise,  
+kindled, bright, offered to with oblations.
 </details>
 
 <details><summary>Geldner</summary>
@@ -595,6 +622,18 @@ viśa ← √viś- (root)
 सु॒मृ॒डी॒को न॒ आवि॑श ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सो᳓म गीर्भि᳓ष् ट्वा वयँ᳓ वर्ध᳓यामो वचोवि᳓दः  
+सुमृडीको᳓ ना आ᳓विश
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सो᳓म गीर्भि᳓ष्ट्वा वयं᳓ व᳓र्धयामो वचोवि᳓दः  
+सुमृडीको᳓ न आ᳓विश
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सोम॑ । गीः॒ऽभिः । त्वा॒ । व॒यम् । व॒र्धया॑मः । व॒चः॒ऽविदः॑ ।  
@@ -604,6 +643,34 @@ viśa ← √viś- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सो᳓म । गीर्भिः᳓ । ट्वा । वय᳓म् । वर्ध᳓यामः । वचः-वि᳓दः । सु-मृडीकः᳓ । नः । आ᳓ । विश ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सो᳓म (*TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5, *KS*-5)
+- गीर्भिः᳓ (*TS*-3, *RV*-85, *TB*-8, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1, *KS*-5)
+- ट्वा (*TB*-1, *KS*-1)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/314, *VS-K*-52/265, *KS*-46/242)
+- वर्ध᳓यामः (*RV*-1, *TB*-1)
+- वचः-वि᳓दः (*RV*-2/4, *TB*-1, *KS*-1)
+- सु-मृडीकः᳓ (*TS*-1/4, *RV*-7/13, *TB*-2/3, *AV*-2/4, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-3/6, *VS-K*-1/10, *KS*-2)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-18, *TB*-9, *AV*-5, *SB-M*-6, *SB-K*-11, *VS-M*-3, *VS-K*-3, *KS*-8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- गीर्भिः᳓ (*MS*-9, *TS*-3, *RV*-85, *TB*-8, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- ट्वा (*MS*-26, *TB*-1)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- व᳓र्धयामः (मूल-पाठः)
+- वचः-वि᳓दः (*RV*-2/4, *TB*-1, *MS*-1)
+- सु-मृडीकः᳓ (*MS*-3/6, *TS*-1/4, *RV*-7/13, *TB*-2/3, *AV*-2/4, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-3/6, *VS-K*-2/11)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-18, *TB*-9, *AV*-5, *SB-M*-6, *SB-K*-11, *VS-M*-3, *VS-K*-3, *MS*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -711,7 +778,7 @@ Very compassionate to us, enter us.
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -726,6 +793,18 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 
 Well-skilled in speech we magnify thee, Soma, with our sacred songs:  
      Come thou to us, most gracious One.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Soma, we, skilled in speech, strengthen thee with songs;  
+enter into us, highly gracious.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Soma, with songs do we make you grow strong, we who know speech;  
+most merciful, enter into us!
 </details>
 
 <details><summary>Geldner</summary>

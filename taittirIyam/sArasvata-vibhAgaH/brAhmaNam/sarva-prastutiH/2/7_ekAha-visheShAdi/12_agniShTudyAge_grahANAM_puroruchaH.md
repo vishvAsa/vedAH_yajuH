@@ -1865,6 +1865,12 @@ vidádhat ← √dhā- 1 (root)
 ऋ॒तून॒न्यो वि॒दध॑ज्जायते॒ पुनः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+पूर्वापरं᳓ चरतो माय᳓यैतौ᳓ शि᳓शू क्रीडन्तौ प᳓रियातो अध्वर᳓म्  
+वि᳓श्वान्य् अन्यो᳓ भु᳓वना विच᳓ष्ट ऋतूँ᳓र् अन्यो᳓ विद᳓धज् जायते पु᳓नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पू॒र्व॒ऽअ॒प॒रम् । च॒र॒तः॒ । मा॒यया॑ । ए॒तौ । शिशू॒ इति॑ । क्रीळ॑न्तौ । परि॑ । या॒तः॒ । अ॒ध्व॒रम् ।  
@@ -1874,6 +1880,28 @@ vidádhat ← √dhā- 1 (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 पूर्वापर᳓म् । चरतः । माय᳓या । एतौ᳓ । शि᳓शू । क्री᳓डन्तौ । प᳓रियातः । अध्वर᳓म् । वि᳓श्वानि । अन्यः᳓ । भु᳓वना । अभि । च᳓ष्टे । ऋतू᳓न् । अन्यः᳓ । वि-द᳓धत् । जायते । पु᳓नः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- पूर्वापर᳓म् (*TB*-1)
+- चरतः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-12, *TB*-2, *AV*-7, *SB-M*-5, *VS-M*-1, *VS-K*-1)
+- माय᳓या (*TS*-0/7, *RV*-20/63, *TB*-1/2, *TK*-1, *AV*-10/24, *SB-M*-1/13, *SB-K*-1/13, *VS-M*-1/4, *VS-K*-1/4, *KS*-1/5)
+- एतौ᳓ (*TS*-22/1674, *RV*-2/320, *TB*-8/858, *TK*-2/130, *AV*-8/340, *SB-M*-116/11086, *SB-K*-90/10669, *VS-M*-0/129, *VS-K*-0/104, *KS*-4/287)
+- शि᳓शू (*TS*-0/9, *RV*-1/44, *TB*-1, *AV*-3/6, *SB-M*-0/11, *SB-K*-0/12, *VS-M*-0/8, *VS-K*-0/11, *KS*-0/5)
+- क्रीडन्तौ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- प᳓रियातः (*TB*-1, *VS-K*-0/1)
+- अध्वर᳓म् (*TS*-9/27, *RV*-49/196, *TB*-10/25, *TK*-0/2, *AV*-5/22, *SB-M*-6/71, *SB-K*-6/68, *VS-M*-11/26, *VS-K*-9/21, *KS*-4/15)
+- वि᳓श्वानि (*TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/214, *VS-K*-8/214, *KS*-6/118)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-24/92, *TK*-0/2, *AV*-33/108, *SB-M*-99/332, *SB-K*-98/340, *VS-M*-8/32, *VS-K*-8/33, *KS*-4/31)
+- भु᳓वना (*TS*-6/45, *RV*-37/181, *TB*-4/36, *TK*-0/6, *AV*-13/78, *SB-M*-1/31, *SB-K*-3/29, *VS-M*-3/45, *VS-K*-3/42, *KS*-3/19)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- च᳓ष्टे (*RV*-5, *TB*-1, *AV*-1, *SB-M*-3, *KS*-1)
+- ऋतूं᳓र् (मूल-पाठः)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-24/92, *TK*-0/2, *AV*-33/108, *SB-M*-99/332, *SB-K*-98/340, *VS-M*-8/32, *VS-K*-8/33, *KS*-4/31)
+- वि-द᳓धत् (*RV*-3, *TB*-1, *AV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- जायते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-66, *RV*-17, *TB*-42, *TK*-2, *AV*-10, *SB-M*-131, *SB-K*-124, *VS-M*-7, *VS-K*-6, *KS*-10)
+- पु᳓नः (*TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29, *KS*-26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2052,6 +2080,12 @@ By their own power these Twain in close succession move;
      One of the Pair beholdeth all existing things; the other ordereth seasons and is born again.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These two children wander front and back by their wondrous craft; playing, they go around the sacrifice;  
+the one looks upon all creatures, the other, appointing the seasons, is born again.
+</details>
+
 <details><summary>Macdonell</summary>
 
 These two speed on with mystic power alternately; Like playful children they go round the sacrifice. One of the two surveys the whole created world; The other, seasons meting out, is born again.
@@ -2219,6 +2253,12 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निनाग्निस्समिध्यते कविर्गृहपतिर्युवा।  
+हव्यवाड् जुह्वास्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निना॑ । अ॒ग्निः । सम् । इ॒ध्य॒ते॒ । क॒विः । गृ॒हऽप॑तिः । युवा॑ ।  
@@ -2233,6 +2273,19 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अग्नि᳓ना । अग्निः᳓ । स᳓म् । इध्यते । कविः᳓ । गृह᳓-पतिः । यु᳓वा । हव्य-वा᳓ट् । जुह्वा᳙स्यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓ना (*MS*-45/1297, *TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इध्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-7, *TB*-5, *AV*-4, *SB-M*-3, *SB-K*-4, *VS-M*-1, *MS*-1)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
+- गृह᳓-पतिः (*MS*-6/20, *TS*-7/24, *RV*-13/20, *TB*-2/18, *TK*-1, *AV*-4/5, *SB-M*-19/39, *SB-K*-17/31, *VS-M*-2/8, *VS-K*-5/15)
+- यु᳓वा (*MS*-7/17, *TS*-5/11, *RV*-30/68, *TB*-7/8, *AV*-5/13, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-3/4)
+- हव्य-वा᳓ट् (*MS*-9, *TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1)
+- जुह्वा᳙स्य (*MW*, *MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2366,6 +2419,19 @@ By AgniAgni is inflamed, Lord of the House, wise, young, who bears
 By Agni is Agni kindled,  
 The wise, the young, the lord of the house,  
 The bearer of the oblation, with ladle in his mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fire is kindled by fire, the sage, the house-lord, the youth,  
+the oblation-bearer, having the ladle as his mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With fire is fire kindled, the sage, the householder, the youth,  
+the oblation-bearer, whose mouth is the ladle.  
+Seven are your kindling-sticks, O Agni,
 </details>
 
 <details><summary>Oldenberg</summary>

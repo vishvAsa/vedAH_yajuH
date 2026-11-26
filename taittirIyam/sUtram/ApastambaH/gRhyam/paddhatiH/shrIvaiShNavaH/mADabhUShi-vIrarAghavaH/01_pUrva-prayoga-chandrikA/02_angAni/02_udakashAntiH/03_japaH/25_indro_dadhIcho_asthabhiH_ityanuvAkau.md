@@ -20,7 +20,7 @@ title = "२५ 'इन्द्रो दधीचो अस्थभिः'"
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/13_indro_dadhIcho.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/13_indro_dadhIcho.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -93,10 +93,29 @@ navatī́ḥ ← navatí- (nominal stem)
 ज॒घान॑ नव॒तीर्नव॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्रो दधीचो अस्यभिर्वृत्राण्यप्रतिष्कुतः।  
+जघान नवतीर्नव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । द॒धी॒चः । अ॒स्थऽभिः॑ । वृ॒त्राणि॑ । अप्र॑तिऽस्कुतः ।  
 ज॒घान॑ । न॒व॒तीः । नव॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- दधीचः᳓ (*MS*-1, *TS*-1, *RV*-2/4, *AV*-1, *SB-M*-0/1, *SB-K*-2/3)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- अभिः᳓ (*MW*, *Macdonell*, *Lanman*, *MS*-0/348, *TS*-0/345, *RV*-0/754, *TB*-0/262, *TK*-0/15, *AV*-0/270, *SB-M*-0/608, *SB-K*-0/597, *VS-M*-0/99, *VS-K*-0/113)
+- वृत्रा᳓णि (*MS*-7/99, *TS*-3/59, *RV*-49/173, *TB*-3/30, *AV*-15/40, *SB-M*-0/93, *SB-K*-0/93, *VS-M*-1/10, *VS-K*-1/10)
+- अ᳓-प्रतिष्कुतः (नञ्तत्पुरुषे पूर्वपदप्रकृतिस्वरः पा॰ ६.२.२, *MS*-1)
+- जघा᳓न (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *Whitney*, *Lanman*, *MS*-3, *RV*-15, *TB*-1, *AV*-10, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- नवतीः᳓ (*MS*-1/4, *TS*-0/2, *RV*-3/25, *AV*-1/11, *SB-M*-2/5, *SB-K*-2/5)
+- न᳓व (*MS*-26, *TS*-13, *RV*-21/22, *TB*-14, *TK*-1, *AV*-12, *SB-M*-45/46, *SB-K*-52/53, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -170,6 +189,11 @@ _________
 यद्वा - अप्रतिष्कुतः अप्रतिरथः । प्रतिकूलमाचरन्तो यं कुत इति वदन्तोऽभिभवन्ति स प्रतिष्कुतः । पृषोदरादिः । तादृशानि कियन्ति वृत्राणि - नवतीर्नव दशाधिकान्यष्टौ च शतानि बहुतमानीत्यर्थः । स एवमिमामुपदधात्विति शेषः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_6]** So corr. Ch प्रतिष्कृतः ; cf. RV 1, 84, 13; MS 2,13,6. (Thus emended; Ch reads प्रतिष्कृतः; cf. RV 1, 84, 13; MS 2,13,6)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -198,6 +222,12 @@ The use of the bones of Dadhyañc as a vajra-substitute is a particularly puzzli
 
 With bones of Dadhyac for his arms, Indra, resistless in attack,  
      Struck nine-and-ninety Vrtras dead.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, unopposed, with the bones of Dadhīc  
+slew ninety-nine Vṛtras.
 </details>
 
 <details><summary>Geldner</summary>
@@ -268,7 +298,7 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -518,7 +548,7 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -715,6 +745,13 @@ _________
 3 अत्रेति ॥ त्वष्टुः आदित्यमण्डलस्य गोः अग्नेः सुषुम्ना ख्यस्य यत् नाम नमनं जगद्रक्षणे प्रह्वीभावः अपीच्यं पुनरञ्चितं अविच्छेदेन प्रवृत्तं अत्र कर्मणि अमन्वत ज्ञातवन्त: जानन्ति वा अनेन कर्मणा हेतुना स तथा प्रवर्तते । चन्द्रमसोपि गृहे मण्डले इत्था इत्थमेव गोर्नाम मन्वते अनेन हेतुनेति । 'थाहेतौ च' इति थाप्रत्ययः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_8]** So corr. Ch गौर॰; cf. RV 1, 84, 15; MS 2, 13, 6. (Thus emended; Ch reads गौर॰; cf. RV 1, 84, 15; MS 2, 13, 6)
+
+- **[593_9]** So corr. Ch पोश्यम; s. RV 1, 84, 15. (Thus emended Ch पोश्यम; see RV 1, 84, 15.)
+</details>
+
 <details><summary>स्कन्दस्वामी</summary>
 
 अत्राह । अत्र यास्कः--
@@ -764,6 +801,12 @@ I confess myself to be entirely baffled by this verse, though the grammar is str
 
 Then verily they recognized the essential form of Tvastar's Bull,  
      Here in the mansion of the Moon.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here indeed they recognized the secret name of the cow of Tvaṣṭṛ,  
+thus in the house of the moon.
 </details>
 
 <details><summary>Geldner</summary>
@@ -834,7 +877,7 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1078,6 +1121,21 @@ Indra with praises the praisers,
 Indra the songs have praised.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra indeed the singers of songs [praise] with the Bṛhat [sāman]; Indra with verses the verse-singers;  
+Indra the musical instruments have celebrated.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Indra alone the singers [praise] with the lofty [song]; Indra with chants the chanters;  
+to Indra the voices have resounded.
+
+The singers of hymns [magnify] Indra alone with what is great, the chanters Indra with their chants;  
+the voices have sung in praise of Indra.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra haben laut die Sänger, Indra mit Preisliedern die Preisenden Indra die Stimmen angerufen.
@@ -1151,7 +1209,7 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1230,10 +1288,30 @@ vajrī́ ← vajrín- (nominal stem)
 इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्र इद्धर्योस्सचा सम्मिश्ल आ वचोयुजा।  
+इन्द्रो वज्री हिरण्ययः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । इत् । हर्योः॑ । सचा॑ । सम्ऽमि॑श्लः । आ । व॒चः॒ऽयुजा॑ ।  
 इन्द्रः॑ । व॒ज्री । हि॒र॒ण्ययः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- ह᳓र्योः (*MS*-2/16, *TS*-2/19, *RV*-4/263, *TB*-0/13, *TK*-0/1, *AV*-3/52, *SB-M*-2/16, *SB-K*-2/14, *VS-M*-0/18, *VS-K*-0/15)
+- स᳓चा (*Whitney*, *MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
+- स᳓म्-मिश्लः (*RV*-5/10, *AV*-2/3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वचः-यु᳓जा (*RV*-5, *AV*-3, *MS*-1)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- वज्री᳓ (*MS*-4/9, *TS*-4/7, *RV*-21/43, *TB*-2/6, *AV*-5/14, *VS-M*-1, *VS-K*-1)
+- हिरण्य᳓यः (*MS*-4/7, *TS*-1/2, *RV*-10/44, *TB*-1/3, *AV*-12/26, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1353,6 +1431,12 @@ Indra hath ever close to him his two bay steeds and word-yoked car,
      Indra the golden, thunder-armed.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is united with his two bay steeds, yoked at a word;  
+Indra is the wielder of the thunderbolt, golden.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra, der an dem Falbenpaar hängt, möge die aufs Wort sich schirrenden besteigen, Indra der Keulenträger, der goldige.
@@ -1426,7 +1510,7 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1508,10 +1592,31 @@ ví ← ví (invariable)
 वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रो दीर्घा᳓य च᳓क्षसा आ᳓ सू᳓र्यँ रोहयद् दिवि᳓  
+वि᳓ गो᳓भिर् अ᳓द्रिम् ऐरयत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । दी॒र्घाय॑ । चक्ष॑से । आ । सूर्य॑म् । रो॒ह॒य॒त् । दि॒वि ।  
 वि । गोभिः॑ । अद्रि॑म् । ऐ॒र॒य॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- दीर्घा᳓य (*TS*-0/4, *RV*-2/30, *TB*-0/1, *AV*-4/25, *SB-M*-0/9, *SB-K*-0/6, *VS-M*-0/2, *VS-K*-0/2)
+- च᳓क्षसाः (*TS*-0/6, *RV*-0/26, *TB*-0/3, *AV*-0/14, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- सू᳓र्यम् (*TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-6/36, *VS-K*-7/44, *KS*-11/52)
+- रोहयत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *AV*-3)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- अ᳓द्रिम् (*TS*-1/9, *RV*-31/127, *TB*-0/4, *AV*-6/12, *SB-M*-0/10, *SB-K*-0/12, *VS-M*-1/7, *VS-K*-1/8, *KS*-1/5)
+- ऐरयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-6, *AV*-7, *SB-M*-1, *SB-K*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1633,6 +1738,12 @@ Indra hath raised the Sun on high in heaven, that he may see afar:
      He burst the mountain for the kine.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra made the sun mount up in heaven for wide-extended vision;  
+he drove the rock apart with his cows.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra ließ zu langandauerndem Schauer die Sonne am Himmel aufsteigen. Er sprengte den Fels mit den Rindern auf.
@@ -1701,7 +1812,7 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1777,10 +1888,29 @@ ugráḥ ← ugrá- (nominal stem)
 उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्र वाजेषु नो वह सहस्रप्रधनेषु च।  
+उग्र उग्राभिरूतिभिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । वाजे॑षु । नः॒ । अ॒व॒ । स॒हस्र॑ऽप्रधनेषु । च॒ ।  
 उ॒ग्रः । उ॒ग्राभिः॑ । ऊ॒तिऽभिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- वा᳓जेषु (*MS*-6/115, *TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/71, *VS-K*-2/73)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- व᳓ह (*Whitney*, *MS*-2, *TS*-1/2, *RV*-8/9, *TB*-4/6, *AV*-4/5, *SB-M*-6/8, *SB-K*-3/5, *VS-M*-4, *VS-K*-5)
+- सह᳓स्र-प्रधनेषु (*MS*-1, *RV*-1, *AV*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- उग्रा᳓भिः (*MS*-1/40, *TS*-0/33, *RV*-2/153, *TB*-0/21, *TK*-0/2, *AV*-1/99, *SB-M*-0/10, *SB-K*-0/9, *VS-M*-0/23, *VS-K*-0/18)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1863,6 +1993,13 @@ _________
 7 इन्द्रेति ॥ हे इन्द्र! नः अस्मान् वाजेषु अन्नेषु निमित्तभूतेऽषु अव रक्ष यथा वाजान् लप्स्यामहे अन्नदानेन अस्मान् तर्पय सहस्रप्रधनेषु च अपि सहस्रत्वं धनेषु **वाजेषु** सहस्रं प्रकृष्टानि धनानि येषु तादृशेषु । यद्वा - सहस्रप्रधानेषु, छान्दसं ह्रस्वत्वम् । उग्रः उद्गूर्णः तं उग्राभिरूतिभिः उद्गूर्णाभिः रक्षाभिः तर्पणेन वा । यद्वा - **वाजेषु** ग्रामेषु सहस्रप्रधनेषु सहस्रं प्रधनाः प्रकष्टधनाः पुरुषा येषु तेषु । यद्वा - सहस्रं प्रकृष्टधना रथगजतुरगपदातयो येषु तेष्वस्मानव । उग्रः उद्गूर्णस्त्वं उग्राभिरूतिभिः गतिभिः वेगगमनैः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[594_2]** So Ch; in RV 1, 7, 4; ऽव desgl. MS 2, 13, 6 u. s. w. (Thus Ch; in RV 1, 7, 4; ऽव likewise MS 2, 13, 6 etc.)
+
+- **[594_3]** So corr. Ch उग्रा (Thus emended; Ch reads उग्रा)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1881,6 +2018,18 @@ as the mighty one with mighty forms of help.
 
 Help us, O Indra, in the frays, yea, frays, where thousand spoils are gained,  
      With awful aids, O awful One.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra, help us in contests and in the battles for thousands,  
+fierce one, with fierce aids.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Indra, bear us through the contests and through the thousandfold prizes,  
+formidable one, with formidable aids.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1951,7 +2100,7 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2154,6 +2303,12 @@ We make this Indra very strong to strike the mighty Vrtra dead:
      A vigorous Hero shall he be.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That Indra we urge on to win prizes, to slay the great Vṛtra;  
+may he become a vigorous bull.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diesen Indra eifern wir an, den großen Vritra zu töten. Er sei der riesige Bulle.
@@ -2175,7 +2330,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2187,7 +2342,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -2205,7 +2360,7 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/208_girA_vajro.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/208_girA_vajro.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2217,14 +2372,33 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/208_girA_vajro.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/208_girA_vajro.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 गि॒रा वज्रो॒ न **सम्भृ॑तः** ।   
 सब॑लो॒ **अन॑पच्युतः** ।  
-**व॒व॒क्षुर्**+++(←बह्)+++ उ॒ग्रो **अस्तृ॑तः** ॥ 35 ॥
+**व॒व॒क्षुर्** उ॒ग्रो **अस्तृ॑तः** ॥ 35 ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+गिरा वज्रो न सम्भृतस्सबलो अनपच्युतः।  
+ववक्ष उग्रो अस्तृतः
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- व᳓ज्रः (*MS*-51/149, *TS*-46/120, *RV*-25/137, *TB*-17/37, *TK*-1/2, *AV*-15/54, *SB-M*-155/292, *SB-K*-149/267, *VS-M*-4/7, *VS-K*-2/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- स᳓म्-भृतः (*MS*-2/5, *TS*-0/6, *RV*-1/11, *TB*-1/2, *AV*-4/18, *SB-M*-14/19, *SB-K*-8/19, *VS-M*-3/6, *VS-K*-1/3)
+- स᳓बलः (*MS*-1, *RV*-1, *AV*-2/4)
+- अ᳓नप-च्युतः (*MS*-1, *RV*-4/11, *AV*-2)
+- ववक्षे᳓ (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *Whitney*, *MW*, *MS*-2, *TS*-1, *RV*-4, *AV*-3)
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- अ᳓स्तृतः (*MS*-1/2, *TS*-0/2, *RV*-5/12, *AV*-10/13, *SB-M*-0/1, *SB-K*-0/1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2233,6 +2407,17 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 उग्रः उद्गूर्णवलः सदोद्यतः **अस्तृतः** केनचिद् अप्य् अनाच्छादितः । अनुपहिंसितो वा । ईदृशोऽयमिन्द्रः सर्वार्थसाधनभूतो वज्र इवास्माभिः संभृतः ॥
 
 इति पञ्चमे अष्टमोऽनुवाकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[594_1]** So corr. Ch °पश्यतः; vgl. RV 8, 82, 9; MS 2, 13, 6 u. s. w. (Thus emended; Ch reads °पश्यतः; cf. RV 8, 82, 9; MS 2, 13, 6 etc.)
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a thunderbolt amassed by song, possessed of strength, not to be displaced,  
+the formidable, unconquered one has grown great.
 </details>
 </details>
 

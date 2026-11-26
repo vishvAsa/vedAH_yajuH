@@ -147,6 +147,18 @@ yát ← yá- (pronoun)
 स्थि॒रैरङ्गै॑स्तुष्टु॒वाँस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायुः॑ ॥८॥ २५
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+भद्रं᳓ क᳓र्णेभिः शृणुयाम देवा भद्रं᳓ पश्येमाक्ष᳓भिर् यजत्राः  
+स्थिरै᳓र् अ᳓ङ्गैस् तुष्टुवाँ᳓सस् तनू᳓भिर् व्य᳙शेम देव᳓हितँ य᳓द् आ᳓युः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+भद्रं᳓ क᳓र्णेभिश्शृणुयाम देवा भद्रं᳓ पश्येमाक्षि᳓भिर्यजत्राः।  
+स्थिरै᳓र᳓ङ्गैस्तुष्टुवाँ᳓सस्तुनू᳓भिर्व्यृशेम देव᳓हितं य᳓दा᳓युः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 भ॒द्रम् । कर्णे॑भिः । शृ॒णु॒या॒म॒ । दे॒वाः॒ । भ॒द्रम् । प॒श्ये॒म॒ । अ॒क्षऽभिः॑ । य॒ज॒त्राः॒ ।  
@@ -161,6 +173,52 @@ yát ← yá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 भ॒द्रम्। कर्णे॑भिः। शृ॒णु॒या॒म॒। दे॒वाः॒। भ॒द्रम्। प॒श्ये॒म॒। अ॒क्षभि॒रित्य॒क्षऽभिः॑। य॒ज॒त्राः॒। स्थि॒रैः। अङ्गैः॑। तु॒ष्टु॒वाँसः॑। तु॒स्तु॒वाँस॒ इति॑ तुस्तु॒ऽवाँसः॑। त॒नूभिः॑। वि। अ॒शे॒म॒हि॒। दे॒वहि॑त॒मिति॑ दे॒वऽहि॑तम्। यत्। आयुः॑। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- भद्र᳓म् (*TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-12/29, *VS-K*-14/29, *KS*-6/20)
+- क᳓र्णेभिः (*TS*-0/5, *RV*-1/9, *TB*-0/3, *AV*-0/16, *SB-M*-0/17, *SB-K*-0/16, *VS-M*-1/6, *VS-K*-1/7, *KS*-1)
+- शृणुयाम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19, *KS*-24)
+- भद्र᳓म् (*TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-12/29, *VS-K*-14/29, *KS*-6/20)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1, *KS*-4)
+- अक्ष᳓भिः (*RV*-9, *TB*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- यजत्राः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-19, *TB*-1, *VS-M*-3, *VS-K*-3, *KS*-2)
+- स्थिरैः᳓ (*TS*-0/3, *RV*-1/28, *AV*-0/14, *SB-M*-0/14, *SB-K*-0/14, *VS-M*-1/3, *VS-K*-1/4, *KS*-1/2)
+- अ᳓ङ्गैः (*TS*-0/24, *RV*-4/9, *TB*-1/13, *AV*-4/48, *SB-M*-7/104, *SB-K*-7/100, *VS-M*-3/13, *VS-K*-3/12, *KS*-1)
+- तुष्टुवां᳓सः (*VS-M*-1, *VS-K*-1/2, *KS*-1)
+- तनू᳓भिः (*TS*-4/71, *RV*-9/54, *TB*-0/22, *AV*-5/27, *SB-M*-4/60, *SB-K*-3/53, *VS-M*-5/26, *VS-K*-3/42, *KS*-3/32)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- अशेम (*RV*-3)
+- देव᳓-हितम् (*RV*-6, *TB*-2, *AV*-4, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2, *KS*-1)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-60, *TK*-8, *SB-M*-25, *SB-K*-97, *KS*-37)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- भद्र᳓म् (*MS*-15/42, *TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-14/31, *VS-K*-14/29)
+- क᳓र्णेभिः (*MS*-1/13, *TS*-0/5, *RV*-1/9, *TB*-0/3, *AV*-0/16, *SB-M*-0/17, *SB-K*-0/16, *VS-M*-1/6, *VS-K*-1/7)
+- शृणुयाम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19)
+- भद्र᳓म् (*MS*-15/42, *TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-14/31, *VS-K*-14/29)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1)
+- अक्षि᳓भिः (*MS*-0/2, *TS*-0/5, *RV*-0/7, *TB*-0/1, *AV*-0/6, *SB-M*-0/18, *SB-K*-0/30, *VS-M*-0/1, *VS-K*-0/1)
+- यजत्राः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-1, *RV*-19, *TB*-1, *VS-M*-3, *VS-K*-3)
+- स्थिरैः᳓ (*MS*-1/3, *TS*-0/3, *RV*-1/28, *AV*-0/14, *SB-M*-0/14, *SB-K*-0/14, *VS-M*-1/3, *VS-K*-1/4)
+- अ᳓ङ्गैः (*MS*-10/36, *TS*-0/24, *RV*-4/9, *TB*-1/13, *AV*-4/48, *SB-M*-7/104, *SB-K*-7/100, *VS-M*-3/13, *VS-K*-3/12)
+- तुष्टुवां᳓सस् (*MS*-1, *VS-M*-1, *VS-K*-1/2)
+- तु (*TB*-16, *TK*-2, *SB-M*-3, *SB-K*-3, *VS-K*-9, *MS*-23)
+- नू᳓भिः (*MW*)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- ऋशे (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *SB-K*-1, *VS-K*-2, *MS*-3)
+- देव᳓-हितम् (*MS*-6, *RV*-6, *TB*-2, *AV*-4, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-141, *TS*-2, *TB*-60, *TK*-8, *SB-M*-25, *SB-K*-97)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -404,6 +462,13 @@ _________
 कर्णेभिरक्षभिर् इति, बहु-वचनं प्रजादि-साहित्य-परत्वेन समञ्जसम् ॥८॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[517_6]** Der Anfang des Capitels auch in T₇ fol. 32 und 33, T₁ und Brl fol. 91 vorhanden; nach diesen Mss. accentuirt. (The beginning of the chapter also present in T₇ fol. 32 and 33, T₁, and Brl fol. 91; accented after these mss.)
+
+- **[517_7]** RV 1, 89, 8 माक्ष᳓भि॰
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -460,6 +525,18 @@ Having praised (you?), with sturdy limbs and bodies might we traverse  the lifet
 
 Gods, may we with our ears listen to what is good, and with our eyes see what is good, ye Holy Ones.  
      With limbs and bodies firm may we extolling you attain the term of life appointed by the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we hear what is auspicious with our ears, O gods; may we see what is auspicious with our eyes, O worshipful ones!  
+With firm limbs, praising with our bodies, may we attain the life appointed by the gods!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May we hear what is auspicious with our ears, O gods; may we see what is auspicious with our eyes, O worthy of sacrifice!  
+With firm limbs and bodies, praising you, may we attain the lifespan ordained by the gods!
 </details>
 
 <details><summary>त्रिभुवनः</summary>
@@ -559,22 +636,6 @@ Heilvolles lasst uns mit den Ohren hören, heilvolles schaun mit Augen, hehre G�
 </details>
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-Om Peace, Peace, Peace.
-</details>
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
-</details>
-</details>
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/089/06_svasti_na.md">
 <details open><summary><h2>006 …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -661,6 +722,12 @@ svastí ← svastí- (nominal stem)
 स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स्वस्ति᳓ ना इ᳓न्द्रो वृद्ध᳓श्रवाः स्वस्ति᳓ नः पूषा᳓ विश्व᳓वेदाः  
+स्वस्ति᳓ नस् ता᳓र्क्ष्यो अ᳓रिष्टनेमिः स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्व॒स्ति । नः॒ । इन्द्रः॑ । वृ॒द्धऽश्र॑वाः । स्व॒स्ति । नः॒ । पू॒षा । वि॒श्वऽवे॑दाः ।  
@@ -675,6 +742,26 @@ svastí ← svastí- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 स्व॒स्ति। नः॒। इन्द्रः॑। वृ॒द्धश्र॑वा॒ इति॑ वृ॒द्धऽश्र॑वाः। स्व॒स्ति। नः॒। पू॒षा। वि॒श्ववेदा॒ इति॑ वि॒श्वऽवे॑दाः। स्व॒स्ति। नः॒। तार्क्ष्यः॑। अरि॑ष्टनेमि॒रित्यरि॑ष्टऽनेमिः। स्व॒स्ति। नः॒। बृह॒स्पतिः॑। द॒धा॒तु॒। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- वृद्ध᳓-श्रवाः (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47, *KS*-16/32)
+- विश्व᳓-वेदाः (*TS*-9/14, *RV*-8, *TB*-3, *AV*-2, *SB-M*-2, *SB-K*-3, *VS-M*-6, *VS-K*-7/10, *KS*-6)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ता᳓र्क्ष्यः (*TS*-1, *RV*-1/2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- अ᳓रिष्ट-नेमिः (*TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-23)
+- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *TB*-5, *TK*-2, *AV*-49, *SB-M*-24, *SB-K*-28, *VS-M*-13, *VS-K*-10, *KS*-11)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1009,9 +1096,29 @@ Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master
      May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may bounteous Indra grant us well-being!  
+May Indra of wide fame grant us well-being; may Pūṣan the all-knowing grant us well-being;  
+may Tārkṣya of uninjured fellies grant us well-being; may Bṛhaspati grant us well-being!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May Indra of augmented renown grant us well-being; may Pūṣan, all-possessing, grant us well-being;  
+may Tārkṣya of uninjured felly grant us well-being; may Bṛhaspati ordain well-being for us!
+</details>
+
 <details><summary>त्रिभुवनः</summary>
 
 May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare.
+
+Om Peace, Peace, Peace.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
 </details>
 
 <details><summary>Geldner</summary>

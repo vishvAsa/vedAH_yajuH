@@ -37,7 +37,6 @@ Funeral Mantra to be uttered when sprinkling water on the excavation made for bu
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
-
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -61,19 +60,14 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 एति॑ । प्या॒य॒स्व॒ । म॒दि॒न्त॒म॒ । सोम॑ । विश्वा॑भिः । ऊ॒तिभि॒रित्यू॒ति-भिः॒ ॥ भव॑ । नः॒ । स॒प्रथ॑स्तम॒ इति॑ स॒प्रथः॑-त॒मः॒ ॥
 </details>
 
-<details open><summary>भट्टभास्कर-टीका</summary>
+<details><summary>भट्टभास्कर-टीका</summary>
 
 **सोम! मदिन्तम!** मादयितृतम! ।  
 यद्वा - माद्यतम आत्मानन्दमय । 'शमित्यष्टाभ्यो घिनुण्' 'नाद्घस्य' इति नुट् । **आप्यायस्व** वर्धस्व **विश्वाभिर् ऊतिभिः** रक्षणैस् तर्पणैर्वा अस्माकं **सप्रथस्तमो** भव अतिशयेन प्रथा-समन्वितः सप्रथस्तमः । त्वमस्मद्विषयाभिस्सर्वाभिरूतिभिः भृशं प्रथितो भव अस्माभिस्सह वर्धस्व ॥
 </details>
 
-</div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
+<details><summary>सायण-टीका (आरण्यकी)</summary>
 
 हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
 </details>
-</details>
-
+</div>

@@ -17,11 +17,12 @@ title = "१० हविर्ग्रहणम्"
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -51,7 +52,7 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -503,12 +504,13 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
 ओ᳓षधीनाँ र᳓सः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -534,7 +536,7 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,12 +578,13 @@ __
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/mahInAm.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(आज्य!)+++ महीना᳓म् +++(गवां)+++ प᳓यो ऽसि  ।  
 ओ᳓षधीनाँ र᳓सः।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -607,7 +610,7 @@ of plants the sap.
 किञ्च - ओषधीनां रसोसि रसभूतमसि, भक्षिततृणादिपरिणामत्वात्तस्य । दासीभारादित्वात् (पा.सू. 6.2.42) ओषधिशब्दस्य पूर्वपदप्रकृतिस्वरत्वम् । 'नामन्यतरस्याम्' (पा.सू. 6.1.177), इति वचनादत्र नाम उदात्तत्वं न भवति ।
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -934,10 +937,25 @@ with a filter that has no flaw,
 with the rays of the bright sun.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the god Savitṛ purify you with an unbroken filter, with the rays of the good Surya!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 दे॒वो व॑स्सवि॒तोत्पु॑ना॒त्वच्छि॑द्रेण प॒वित्रे॑ण ।   
 वसो॒स्सूर्य॑स्य र॒श्मिभिः॑  ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+देवो᳓ वः सविता᳓ पुनात्व् अ᳓छिद्रेण पवि᳓त्रेण । व᳓सोः सू᳓र्यस्य रश्मि᳓भिः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+देवो वस्सवितोत्पुनात्वच्छिद्रेण पवित्रेण सूर्यस्य रश्मिभिः
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -945,19 +963,38 @@ with the rays of the bright sun.
 दे॒वः । वः॒ । स॒वि॒ता । उदिति॑ । पु॒ना॒तु॒ । अच्छि॑द्रेण । प॒वित्रे॑ण । वसोः॑ । सूर्य॑स्य । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ ।
 </details>
 
-<details><summary>भट्टभास्कर-टीका</summary>
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
 
-हे आपः **देवस्सविता** सर्वस्य प्रेरकः, **वः** युष्मान् **उत्पुनातु** ऊर्ध्वं शोधयतु । 
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-1, *TB*-2, *AV*-5, *SB-M*-11, *SB-K*-8, *VS-M*-10, *VS-K*-10, *KS*-5)
+- अ᳓-छिद्रेण (*SB-M*-5/11, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-2)
+- पवि᳓त्रेण (*TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-13/24, *VS-K*-13/19, *KS*-7/13)
+- व᳓सोः (*TS*-14/143, *RV*-9/311, *TB*-3/59, *TK*-1/2, *AV*-7/90, *SB-M*-28/113, *SB-K*-27/111, *VS-M*-7/76, *VS-K*-4/95, *KS*-1/41)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/36, *VS-K*-12/44, *KS*-6/52)
+- रश्मि᳓भिः (*TS*-11/30, *RV*-36/69, *TB*-4/13, *TK*-1, *AV*-12/24, *SB-M*-15/73, *SB-K*-14/71, *VS-M*-8/23, *VS-K*-7/24, *KS*-5/10)
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
 
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- पुनातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-19, *TS*-10, *RV*-1, *TB*-2, *AV*-5, *SB-M*-11, *SB-K*-8, *VS-M*-10, *VS-K*-10)
+- अ᳓-च्छिद्रेण (*TS*-3/6, *RV*-0/6, *TB*-1/6, *SB-M*-4, *SB-K*-11/17, *VS-M*-6, *VS-K*-4/5)
+- पवि᳓त्रेण (*MS*-20/45, *TS*-6/20, *RV*-2/101, *TB*-11/33, *TK*-1/5, *AV*-3/11, *SB-M*-21/64, *SB-K*-24/63, *VS-M*-15/26, *VS-K*-16/22)
+- सू᳓र्यस्य (*MS*-49/143, *TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/38, *VS-K*-13/47)
+- रश्मि᳓भिः (*MS*-14/46, *TS*-11/30, *RV*-36/69, *TB*-4/13, *TK*-1, *AV*-12/24, *SB-M*-15/73, *SB-K*-14/71, *VS-M*-8/23, *VS-K*-7/24)
+</details>
+
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/bhaTTa-bhAskara-TIkA/1/1_darshapUrNamAsAdiH/05_haviHproxaNAdiH/achChidreNa.md">
 **अच्छिद्रेण पवित्रेण** जगतां पावनेन आदित्यात्मनानेन;  
 छिन्नं छिद्रम्, अतोन्यद् **अच्छिद्रं** अविच्छेदेन वर्तमानं । अव्यय-पूर्व-पद-प्रकृति-स्वरत्वं । 'पुवस्संज्ञायाम्' (पा.सू. 3.2.185) इति पुनातेरित्रप्रत्ययः । 'असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् । 
 
-**वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।  
-
+**वसोर्** जगतां वासहेतोः **सूर्यस्य** मण्डलात्मनो **रश्मिभिः** जगतां शुद्धि-हेतुभिः **उत्पुनातु** । वसेः करणे उप्रत्ययः, (उ.सू. 10) स च नित् ।
 </div>
-</details>
 </details>
 
 </div>
@@ -1019,11 +1056,12 @@ I grasp thee shining in the shining,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1045,8 +1083,8 @@ for every sacrifice, for the gods, for every prayer.
 
 - [धाम्नेधाम्ने सर्वस्मै धारणाय । 'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं यजुषेयजुषे भव पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् । … यदि च यजुषेयजुषे प्रभवेत्, ततो धाम्नेधाम्ने प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति । यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥]
 </details>
+</details>
 ``
-
 </div>  
 
 ____
@@ -1088,11 +1126,12 @@ I grasp thee radiance in the radiance,
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1114,8 +1153,8 @@ for every sacrifice, for the gods, for every prayer.
 
 - [धाम्नेधाम्ने सर्वस्मै धारणाय । 'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं यजुषेयजुषे भव पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् । … यदि च यजुषेयजुषे प्रभवेत्, ततो धाम्नेधाम्ने प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति । यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥]
 </details>
+</details>
 ``
-
 </div>  
 
 ____
@@ -1157,11 +1196,12 @@ I grasp thee resplendent in the resplendence
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam/dhAmne_dhAmne.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … धा᳓म्नेधाम्ने+++(=धारणेधारणे)+++ देवे᳓भ्यो य᳓जुषेयजुषे गृह्णामि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1183,8 +1223,8 @@ for every sacrifice, for the gods, for every prayer.
 
 - [धाम्नेधाम्ने सर्वस्मै धारणाय । 'अनुदात्तं च' (पा.सू. 8.1.3) इति द्वितीयस्याम्रेडितस्य अनुदात्तत्वम् । यथायथं स्वस्वपदस्थितये देवानां प्रभूतं भव । तदर्थं यजुषेयजुषे भव पर्याप्तं सम्भव । पूर्वपदाम्रेडितस्यानुदात्तत्वम् । … यदि च यजुषेयजुषे प्रभवेत्, ततो धाम्नेधाम्ने प्रभवतीति भावः । 'ब्रह्मवादिनो वदन्ति । यदाज्येनान्यानि' (तै.ब्रा. 3.3.5) इत्यादि ब्राह्मणम् ॥]
 </details>
+</details>
 ``
-
 </div>  
 
 इति दशमोनुवाकः

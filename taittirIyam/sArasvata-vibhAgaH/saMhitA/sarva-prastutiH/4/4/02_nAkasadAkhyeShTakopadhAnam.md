@@ -416,21 +416,34 @@ the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Śakvar
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु ।  
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/02_nAkasadAkhyeShTakopadhAnam/12_antarixAyarShayastvA_prathamajA_deveShu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/02_nAkasadAkhyeShTakopadhAnam/12_antarixAyarShayastvA_prathamajA_deveShu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 For the atmosphere may the Rsis firstborn among the gods extend thee with the measure, the breadth, of the sky,
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
 
-अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु ।  
+space for firm standing.  
+May the first-born seers among the gods spread you out according to the measure and breadth of heaven,
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒न्तरि॑क्षा॒यर्ष॑यस्त्वा प्रथम॒जा दे॒वेषु॑ दि॒वो मात्र॑या वरि॒णा प्र॑थन्तु ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आ अन्तरिक्षम्  
+ऋषयस्त्वा प्रथमजा देवेषु दिवो मात्रया वरिणा प्रथन्तु
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -438,13 +451,26 @@ For the atmosphere may the Rsis firstborn among the gods extend thee with the me
 अ॒न्तरि॑क्षाय । ऋष॑यः । त्वा॒ । प्र॒थ॒म॒जा इति॑ प्रथम-जाः । दे॒वेषु॑ । दि॒वः । मात्र॑या । व॒रि॒णा । प्र॒थ॒न्तु॒ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अन्त᳓रिक्षम् (*MS*-114/193, *TS*-105/180, *RV*-45/94, *TB*-30/54, *TK*-7/10, *AV*-79/143, *SB-M*-177/263, *SB-K*-173/257, *VS-M*-42/76, *VS-K*-36/65)
+- ऋ᳓षयः (*MS*-20/52, *TS*-21/56, *RV*-24/101, *TB*-2/5, *TK*-2/8, *AV*-42/70, *SB-M*-45/125, *SB-K*-54/130, *VS-M*-15/32, *VS-K*-15/34)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- प्रथम-जा᳓ (*MS*-9/15, *TS*-4/10, *RV*-9, *TB*-1/4, *TK*-1/2, *AV*-2/13, *SB-M*-2/16, *SB-K*-2/17, *VS-M*-10/11, *VS-K*-1/11)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- मा᳓त्रया (*MS*-10/22, *TS*-5/10, *RV*-2/7, *TB*-3/33, *AV*-1/14, *SB-M*-6/192, *SB-K*-6/174, *VS-M*-7/9, *VS-K*-7/9)
+- वरिणा᳓ (*MS*-8, *TS*-5)
+- प्रथन्तु (*MS*-5, *TS*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
-देवेषु मध्ये ये प्रथमजा ऋषयो नारदाद्याः ।   अत एव स्मर्यते—“देवर्षिर्नारदस्तथा’ इति ।   ते महर्षयस्त्वामिष्टकां दिवो मात्रयाऽऽका।   शस्य यत्परिमाणं तेन परिमाणेन प्रथन्तु विस्तारयन्तु ।   किमर्थम्, अन्तरिक्षार्थमन्तरिक्षं व्याप्तुमित्यर्थः ।   कीदृशेन परिमाणेन, वरिणा वरणीयेन ।   
+देवेषु मध्ये ये प्रथमजा ऋषयो नारदाद्याः ।   अत एव स्मर्यते—“देवर्षिर्नारदस्तथा’ इति ।   ते महर्षयस्त्वामिष्टकां दिवो मात्रयाऽऽका।   शस्य यत्परिमाणं तेन परिमाणेन प्रथन्तु विस्तारयन्तु ।   किमर्थम्, अन्तरिक्षार्थमन्तरिक्षं व्याप्तुमित्यर्थः ।   कीदृशेन परिमाणेन, वरिणा वरणीयेन ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधर्ता᳓  चाय᳓म᳓धिपतिश्च +++( प्रथेताम्)+++ ।  
 </details>

@@ -1066,6 +1066,18 @@ In this higher place,
 O All-gods [3], do ye sit with the sacrificer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked, fair-faced, in front, O Agni, sit upon your own womb, the Sādhya;  
+in this upper place of meeting, sit, all gods and the sacrificer!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Offered to, fair of face in front, O Agni, sit down properly in your own womb;  
+on this higher seat may all the gods and the sacrificer sit down.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 आ॒जुह्वा॑नः सु॒प्रती॑कः पु॒रस्ता॒दग्ने॒ स्वं योनि॒मासी॑द साधु॒या।  
@@ -1086,6 +1098,18 @@ O All-gods [3], do ye sit with the sacrificer.
 विश्वे॑ देवा॒ यज॑मानश्च सीदत ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आजु᳓ह्वानः सुप्र᳓तीकः पुर᳓स्ताद् अ᳓ग्ने स्वँ᳓ यो᳓निम् आ᳓सीद साध्या᳓  
+अस्मि᳓न्त् सध᳓स्थे अ᳓ध्य् उ᳓त्तरस्मिन् वि᳓श्वे देवा य᳓जमानश् च सीदत
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आजु᳓ह्वानस्सुप्र᳓तीकः पुर᳓स्ताद᳓ग्ने स्वं᳓ यो᳓निमा᳓सीद साध्या᳓।  
+अस्मि᳓न्सध᳓स्थे अ᳓ध्यु᳓त्तरस्मिन्वि᳓श्वे देवा᳓ य᳓जमानश्च सीदत
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ॒जुह्वा॑न॒ इत्या॒जुऽह्वा॑नः। सु॒प्रती॑क॒ इति॑ सु॒ऽप्रती॑कः। पु॒रस्ता॑त्। अग्ने॑। स्वम्। योनि॑म्। आ। सी॒द॒। सा॒धु॒येति॑ साधु॒ऽया। अ॒स्मिन्। स॒धस्थे॑। अधि॑। उत्त॑रस्मिन्। विश्वे॑। दे॒वाः॒। यज॑मानः। च॒। सी॒द॒त॒। ७३।
@@ -1104,6 +1128,50 @@ O All-gods [3], do ye sit with the sacrificer.
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ-जु᳓ह्वानः । सु-प्र᳓तीकः । पुर᳓स्तात् । अ᳓ग्ने । स्वा᳓म् । यो᳓निम् । आ᳓ । सीद । साध्या᳓ । अस्मि᳓न् । सध᳓-स्थे । अ᳓धि । उ᳓त् । तर् । अस्मिन्न् । वि᳓श्वे । देवाः । य᳓जमानः । च । सीदत ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ-जु᳓ह्वानः (*TS*-1/3, *RV*-3/6, *TB*-3, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-4/6, *VS-K*-3/5, *KS*-2)
+- सु-प्र᳓तीकः (*TS*-3/8, *RV*-1/9, *TB*-2/3, *AV*-1/3, *SB-M*-6/10, *SB-K*-5/7, *VS-M*-3/6, *VS-K*-3/6, *KS*-4/5)
+- पुर᳓स्तात् (*TS*-115, *RV*-32, *TB*-65, *TK*-3, *AV*-39, *SB-M*-305, *SB-K*-296, *VS-M*-9, *VS-K*-8, *KS*-27)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- स्व᳓म् (*TS*-20/250, *RV*-21/227, *TB*-18/80, *TK*-3/16, *AV*-16/149, *SB-M*-50/306, *SB-K*-46/301, *VS-M*-5/67, *VS-K*-10/66, *KS*-13/60)
+- यो᳓निम् (*TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-15/93, *KS*-13/61)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- सीद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-45, *RV*-15, *TB*-11, *TK*-34, *AV*-8, *SB-M*-35, *SB-K*-39, *VS-M*-33, *VS-K*-25, *KS*-24)
+- साध्याः᳓ (*TS*-4/8, *RV*-3, *TB*-1/3, *AV*-6/7, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-2/5, *VS-K*-2/5)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/313, *VS-K*-22/289, *KS*-16/319)
+- सध᳓-स्थे (*TS*-16/28, *RV*-24/45, *TB*-3/7, *TK*-1, *AV*-10/18, *SB-M*-21/39, *SB-K*-18/30, *VS-M*-15/27, *VS-K*-11/20, *KS*-3/6)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- उ᳓त्-तरस्मिन् (*TS*-4/88, *RV*-1/59, *TB*-0/54, *TK*-0/5, *AV*-2/38, *SB-M*-4/258, *SB-K*-4/235, *VS-M*-3/11, *VS-K*-3/11, *KS*-1/14)
+- वि᳓श्वे (*TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-48/214, *VS-K*-46/214, *KS*-31/118)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19, *KS*-24)
+- य᳓जमानः (*TS*-174/419, *RV*-10/63, *TB*-130/267, *TK*-0/1, *AV*-4/46, *SB-M*-351/614, *SB-K*-365/631, *VS-M*-10/52, *VS-K*-10/56, *KS*-17/53)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- सीदत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-10, *TB*-2, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ-जु᳓ह्वानः (*MS*-3/5, *TS*-1/3, *RV*-3/6, *TB*-3, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-4/6, *VS-K*-4/7)
+- सु-प्र᳓तीकः (*MS*-3/7, *TS*-3/8, *RV*-1/9, *TB*-2/3, *AV*-1/3, *SB-M*-6/10, *SB-K*-5/7, *VS-M*-3/6, *VS-K*-3/6)
+- पुर᳓स्तात् (*MS*-110, *TS*-115, *RV*-32, *TB*-65, *TK*-3, *AV*-39, *SB-M*-305, *SB-K*-296, *VS-M*-9, *VS-K*-9)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- स्व᳓म् (*MS*-30/260, *TS*-20/250, *RV*-21/227, *TB*-18/80, *TK*-3/16, *AV*-16/149, *SB-M*-50/306, *SB-K*-46/301, *VS-M*-5/67, *VS-K*-10/72)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सीद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-55, *TS*-45, *RV*-15, *TB*-11, *TK*-34, *AV*-8, *SB-M*-35, *SB-K*-39, *VS-M*-33, *VS-K*-25)
+- साध्या᳓ (*MS*-4/10, *TS*-3/11, *RV*-3, *TB*-1/4, *AV*-6/7, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-1/6, *VS-K*-1/6)
+- अस्मि᳓न् (*MS*-59/1379, *TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/319, *VS-K*-22/301)
+- सध᳓-स्थे (*MS*-27/40, *TS*-16/28, *RV*-24/45, *TB*-3/7, *TK*-1, *AV*-10/18, *SB-M*-21/39, *SB-K*-18/30, *VS-M*-15/27, *VS-K*-11/21)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- उ᳓त्-तरस्मिन् (*MS*-2/77, *TS*-4/88, *RV*-1/59, *TB*-0/54, *TK*-0/5, *AV*-2/38, *SB-M*-4/258, *SB-K*-4/235, *VS-M*-3/12, *VS-K*-3/12)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- य᳓जमानः (*MS*-163/350, *TS*-174/419, *RV*-10/63, *TB*-130/267, *TK*-0/1, *AV*-4/46, *SB-M*-351/614, *SB-K*-365/631, *VS-M*-10/52, *VS-K*-10/57)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सीदत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-6, *RV*-10, *TB*-2, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1185,6 +1253,11 @@ O All-gods [3], do ye sit with the sacrificer.
 “तिसृभिः सादयति त्रिवृद्वा अग्निर्यावानेवाग्निस्तं प्रतिष्ठां गमयति” [सं. का. ५ प्र. ४ अ. ७] इति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[265_10]** Ch अप्यत्त°
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता
@@ -1236,16 +1309,17 @@ O All-gods [3], do ye sit with the sacrificer.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ए᳓कमिषे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/41_ekamiShe_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+ए᳓कमिषे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/41_ekamiShe_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-एक॑मि॒षे विष्णु॒स्त्वाऽन्वे॑तु ।  
+एक॑मि॒षे विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1255,20 +1329,26 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-हे सोमक्रयणि! तव एकं पदं इषे अन्नाय विष्णुः अन्वेतु यावदेकपदक्रमणं त्वामनु गच्छतु । विष्णुः व्यापकः देवः त्वा त्वां व्याप्नोतु, तस्यैवायं पदक्रमः भूयादिति भवः । इषे अन्नसमृद्धये ।  
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-द्वे᳓ ऊर्जे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+हे सोमक्रयणि! तव एकं पदं इषे अन्नाय विष्णुः अन्वेतु यावदेकपदक्रमणं त्वामनु गच्छतु । विष्णुः व्यापकः देवः त्वा त्वां व्याप्नोतु, तस्यैवायं पदक्रमः भूयादिति भवः । इषे अन्नसमृद्धये ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<details><summary>हरदत्तः</summary>
 
+अथैनां सप्तपदान्यभिप्रक्रमयति - एकमिष इति? ॥ इटू अन्नं, एकं पदं विष्णुः त्वास्न्वेतु इषे तवान्नं यथा स्यादिति ॥ ऊर्क् बलम् व्रतं कर्म? मयः सुखं तद्भवाय भवतीति मयोभूः तस्या भावो मायोभवं तस्मै, “मायो भव्याय” । इत्याश्वलायनः पच्च पशुभ्यः । षडृतुभ्यः । सप्त सप्तभ्यः । सर्वत्र विष्णुस्त्वान्वेत्वित्यनुषङ्गः ।  
+होता प्रशास्ता ब्राह्मणाच्छंसी पोता नेष्टाच्छावाक आग्नीध्र इत्येतास्सप्त होत्राः । तथा च ब्राह्मणं तस्मात्सौम्यस्याध्वरस्या यज्ञक्रतोः । सप्तहोत्राः “प्राचीवषट्कुर्वन्ति” इति । ताभ्यः ताः यज्ञकर्मणि तव यथास्युरित्येमर्थं विष्णुस्त्वास्न्वेतु ॥
+</details>
+</details>
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+द्वे᳓ ऊर्जे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</details>
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-द्वे ऊ॒र्जे विष्णु॒स्त्वाऽन्वे॑तु ।  
+द्वे ऊ॒र्जे विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1278,20 +1358,20 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अथ द्वे पदे यावत्पदद्वयक्रमणं विष्णुः त्वां अन्वेतु ऊर्जे रसाय क्षीरादिसमृद्धये । एवं सर्वत्र ।  
+अथ द्वे पदे यावत्पदद्वयक्रमणं विष्णुः त्वां अन्वेतु ऊर्जे रसाय क्षीरादिसमृद्धये । एवं सर्वत्र ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-त्री᳓णि व्रता᳓य वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+त्री᳓णि व्रता᳓य वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-त्रीणि॑ व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+त्रीणि॑ व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1301,20 +1381,20 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-व्रताय कर्मसमृद्धये ।  
+व्रताय कर्मसमृद्धये ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-चत्वा᳓रि मा᳓योभवाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+चत्वा᳓रि मा᳓योभवाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-च॒त्वारि॒ मायो॑भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+च॒त्वारि॒ मायो॑भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1324,20 +1404,20 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-मायोभवाय प्राणसमृद्धये मयोभूः वातः तत्सम्बन्धी मायोभवः । उत्सादित्वादञ् ।  
+मायोभवाय प्राणसमृद्धये मयोभूः वातः तत्सम्बन्धी मायोभवः । उत्सादित्वादञ् ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-प᳓ञ्च पशु᳓भ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+प᳓ञ्च पशु᳓भ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-पञ्च॑ प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+पञ्च॑ प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1347,20 +1427,20 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-पशुभ्यः द्विपाच्चतुष्पाल्लक्षणेभ्यः ।  
+पशुभ्यः द्विपाच्चतुष्पाल्लक्षणेभ्यः ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ष᳓ड्राय᳓स्पो᳓षाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/46_ShaDrAyaspoShAya_viShNustvA-nvetu.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+ष᳓ड्राय᳓स्पो᳓षाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/46_ShaDrAyaspoShAya_viShNustvA-nvetu.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>मूलम्</summary>
 
-षड्रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।  
+षड्रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1370,11 +1450,10 @@ O All-gods [3], do ye sit with the sacrificer.
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
-रायस्पोषाय धनसमृद्ध्यै ।  
+रायस्पोषाय धनसमृद्ध्यै ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓ सप्त᳓भ्यो हो᳓त्राभ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
 </details>

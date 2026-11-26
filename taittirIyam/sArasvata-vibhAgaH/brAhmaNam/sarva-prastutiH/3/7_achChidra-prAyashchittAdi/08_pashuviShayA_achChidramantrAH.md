@@ -12,7 +12,7 @@ unicode_script: devanagari
 अ᳓ग्ने वैश्वानर स्वा᳓हा ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/05_AhavanIyArthaM_bhuvAkarShaNam/06_ya_dasya_pAre.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/05_AhavanIyArthaM_bhuvAkarShaNam/06_yadasya_pAre_rajasashshukranjyotirajAyat.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 

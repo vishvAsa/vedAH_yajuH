@@ -367,7 +367,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/08_deva_s_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/08_devas_tvA_savitA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स् त्वा सविता᳓ म᳓ध्वानक्तु
@@ -383,6 +383,16 @@ Savitar, God, anoint thee with sweet butter.
 <details><summary>Keith</summary>
 
 Let the god Savitr anoint thee with honey.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Savitṛ anoint you with honey!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+May god Savitṛ anoint thee with honey!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -458,7 +468,151 @@ _______
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/09_supippalA_bhyas_tvau.md"></div>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/09_supippalAbhyas_tvauShadhIbhyaH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुपिप्पला᳓भ्यस् त्वौ᳓षधीभ्यः।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Griffith</summary>
+
+Thee for the plants laden with goodly fruitage!
+</details>
+
+<details><summary>Keith</summary>
+
+For the plants with good berries thee!
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुपिप्प॒लाभ्य॒स्त्वौष॑धीभ्यः।
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+सु॒पि॒प्प॒लाभ्य॒ इति॑ सुऽपिप्प॒लाभ्यः॑। त्वा॒। ओष॑धीभ्यः।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सु॒पि॒प्प॒लाभ्य॒ इति॑ सु-पि॒प्प॒लाभ्यः॑ । त्वा॒ । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+यस्त्वमग्रेणीरसि।
+
+स्वावेशमुन्नेतॄणामूर्ध्वं नेतॄणामध्वर्यूणां स्वावेशः।
+
+ते ह्येवमस्मिन्यूपावटे सुखेनावेशयन्ति स्थापयन्ति।
+
+स हि लघुप्रमाणो भवति।
+
+स त्वं हे यूपशकल, एतस्य वित्तात्।
+
+‘विद ज्ञाने’।
+
+एतस्य कर्मणो विद्धि विदितार्थो भव।
+
+कतमं तत्कर्म चेत्।
+
+अधि त्वा स्थास्यति।
+
+अधीत्युपरिभावमैश्वर्यं वा।
+
+अधि उपरि यूपस्त्वां स्थास्यति।
+
+यूपमनक्ति।
+
+‘अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु’।
+
+देवस्त्वा।
+
+देवः त्वां हे यूप, सवित्रा मध्वा मधुस्वादेन आज्येन आनक्तु म्रक्षयतु।
+
+चषालं प्रतिमुञ्चति।
+
+सुपिप्पलाभ्यः।
+
+पिप्पलं फलम्।
+
+शोभनफलाभ्य ओषधीभ्योर्थाय त्वाम् प्रतिमुञ्चामीति वाक्यशेषः।
+
+उच्छ्रयति।
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+अनित्यमागमशासनमिति नुमभावः।
+
+अध उपरि चाज्येन लिप्तं चषालं यूपाग्रे स्थापयेदिति सूत्रार्थः।
+
+हे चषाल, त्वां यूपस्याग्रे प्रतिमुच्चामीति शेषः।
+
+किमर्थम्।
+
+ओषधीभ्यः व्रीह्याद्योषधिनिष्पत्त्यर्थम्।
+
+किंभूताभ्य ओषधीभ्यः।
+
+सुपिप्पलाभ्यः शोभनफलयुक्ताभ्य इत्यर्थः।
+
+उन्नतं कुर्यादित्यर्थः।
+
+यूपदेवत्यम्।
+
+यूपस्य महिमोच्यते।
+
+हे यूप, त्वमग्रेणाग्रभागेन द्यां दिवमस्पृक्षः स्पृष्टवानसि।
+
+स्पृशतेर्लुङि ‘शल इगुपधादनिटः क्सः’ (पा० ३। १.४५) इति क्सप्रत्ययः।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+यास्सुपिप्पलाः शोभनफलाः शोभनकरणिका ओषधयः, तदर्थं त्वां कण्डूये इति शेषः । पूर्ववत्स्वरः । ओषधिशब्दे तु दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । 'ओषधेश्च विभक्तावप्रथमायाम्' इति दीर्घः । 'यद्धस्तेन कण्डूयत' इत्यादि ब्राह्मणम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+9चषालं प्रतिमुञ्चाति - सुपिप्पलाभ्य इति ॥ व्याख्यातमेव । शोभनफलानामोषधीनामर्थाय त्वां चषालं यूपस्याग्रे प्रतिमुञ्चामीति शेषः । 'तस्माच्छीर्षत ओषधयः फलं गृह्णन्ति' `इति ब्राह्मणम् ॥
+</details>
+
+<details><summary>सायण-टीका (तैत्तिरीया)</summary>
+
+यदा कण्डूयन-प्रयोजनं प्रसक्तं तदा कण्डूयेत। हे शिरस्, त्वां शोभन-फलोपेतौषध्य्-अर्थं कण्डूये।
+
+पिप्पल-शब्द-सूचितम् आह —
+
+> सुपिप्पलाभ्यस् त्वौषधीभ्य इत्य् आह तस्माद् ओषधयः फलं गृह्णन्ति (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+विपक्ष-बाध-पुरःसरं द्वयं विधत्ते —
+
+> यद् धस्तेन कण्डूयेत पामनं-भावुकाः प्रजाः स्युर् यत् स्मयेत नग्नं-भावुकाः कृष्ण-विषाणया कण्डूयते ऽपिगृह्य स्मयते प्रजानां गोपीथाय (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+पामाख्य-रोग-युक्ता दारिद्र्येण वस्त्र-रहिताश् चेत्य् अर्थः।
+
+विपक्ष-बाध-पूर्वकं कृष्ण-विषाणायास् त्यागं विधत्ते –
+
+> न पुरा दक्षिणाभ्यो नेतोः 
+
+[[P218]]
+
+कृष्ण-विषाणाम् अवचृन्देद् यत् पुरा दक्षिणाभ्यो नेतोः कृष्ण-विषाणाम् अवचृन्देद् योनिः प्रजानां परापातुका स्यान् नीतासु दक्षिणासु चात्वाले कृष्ण-विषाणां प्रास्यति योनिर् वै यज्ञस्य चात्वालो योनिः कृष्ण-विषाणा योनाव् एव योनिं दधाति यज्ञस्य स-योनित्वाय (सं. का. ६ प्र. १ अ. ३) 
+
+इति।
+
+दक्षिणाभ्यो नेतोर् दक्षिणानाम् ऋत्विग्भिर् अपनयनात्। अवचृन्देत् परित्यजेत्। 'चात्वालाद् धिष्णियान् उपवपतीति' चात्वाल-नामकाद् गर्ताद् धिष्णियानाम् उत्पत्तेर् विधास्यमानत्वाच् चात्वालस्य यज्ञ-योनित्वम्।
+</details>
+</details>
+</div>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -950,6 +1104,21 @@ Wherein he displayed his laws,
 Indra's true friend.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Behold the deeds of Viṣṇu, from where he observed the vows,  
+the worthy companion of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Behold the deeds of Viṣṇu, from where he watched over the vows,  
+the allied friend of Indra.
+
+Behold the deeds of Viṣṇu, whence he observed the ordinances,  
+the allied comrade of Indra.
+</details>
+
 <details><summary>Geldner</summary>
 
 Schaut die Werke des Vishnu, von wo aus er auf seine Gebote acht gibt, des Indra treuer Freund!
@@ -1132,6 +1301,12 @@ iva ← iva (invariable)
 दि॒वीव॒ चक्षु॒रात॑तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓द् वि᳓ष्णोः परमं᳓ पदँ᳓ श᳓च्या पश्यन्ति सूर᳓यः  
+दिवी᳙व च᳓क्षुर् आ᳓ततम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ।  
@@ -1151,6 +1326,21 @@ iva ← iva (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सत्। विष्णोः॑। प॒र॒मम्। प॒दम्। सदा॑। प॒श्य॒न्ति॒। सू॒रयः॑। दि॒वी᳙वेति॑ दिविऽइ॑व। चक्षुः॑। आत॑त॒मित्यात॑तम्। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- वि᳓ष्णोः (*TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-22/59, *VS-K*-11/62, *KS*-14/43)
+- परम᳓म् (*TS*-12/45, *RV*-17/74, *TB*-6/27, *TK*-1/2, *AV*-14/53, *SB-M*-40/89, *SB-K*-38/91, *VS-M*-10/26, *VS-K*-9/27, *KS*-3/16)
+- पद᳓म् (*TS*-15/39, *RV*-46/95, *TB*-4/14, *TK*-3, *AV*-16/29, *SB-M*-29/63, *SB-K*-27/61, *VS-M*-6/17, *VS-K*-6/13, *KS*-12/17)
+- श᳓च्या (*TS*-0/3, *RV*-14/54, *TB*-1/10, *AV*-4/16, *SB-M*-1/6, *SB-K*-1/6, *VS-M*-1/9, *VS-K*-1/13, *KS*-3/4)
+- पश्यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-10, *AV*-6, *SB-M*-15, *SB-K*-15, *VS-K*-2, *KS*-2)
+- सूर᳓यः (*TS*-2/8, *RV*-35/111, *TB*-0/3, *AV*-3/17, *SB-M*-2/5, *SB-K*-1/3, *VS-M*-3/7, *VS-K*-2/8, *KS*-1/7)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- च᳓क्षुः (*TS*-63/115, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-27/55, *KS*-21/27)
+- आ᳓-ततम् (*TS*-2/3, *RV*-2/6, *AV*-3/5, *SB-M*-2/4, *SB-K*-1/4, *VS-M*-1, *VS-K*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1392,6 +1582,12 @@ That highest step of Visnu
 The singers ever gaze upon
   
 Like an eye stretched in the sky.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That highest step of Viṣṇu the patrons ever see by their power,  
+like an eye stretched across heaven.
 </details>
 
 <details><summary>Geldner</summary>

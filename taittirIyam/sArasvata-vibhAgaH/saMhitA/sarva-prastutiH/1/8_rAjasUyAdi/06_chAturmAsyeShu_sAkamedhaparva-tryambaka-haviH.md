@@ -429,10 +429,31 @@ mukṣīya ← √muc- (root)
 उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्र्य᳙म्बकँ यजामहे सुगन्धिं᳓ पुष्टिव᳓र्धनम्  
+उर्वारुक᳓म् इव ब᳓न्धनान् मृत्यो᳓र् मुक्षीय᳓ मा᳓मृ᳓तात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्र्य॑म्बकम् । य॒जा॒म॒हे॒ । सु॒गन्धि॑म् । पु॒ष्टि॒ऽवर्ध॑नम् ।  
 उ॒र्वा॒रु॒कम्ऽइ॑व । बन्ध॑नात् । मृ॒त्योः । मु॒क्षी॒य॒ । मा । अ॒मृता॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्र्य᳙म्बकम् (*TS*-1, *RV*-1, *TB*-1, *SB-M*-3, *SB-K*-3, *KS*-1)
+- यजामहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *TB*-3, *TK*-2, *AV*-25, *SB-M*-4, *SB-K*-3, *VS-M*-3, *VS-K*-3, *KS*-3)
+- सु-गन्धि᳓म् (*TS*-1, *RV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-1)
+- पुष्टि-व᳓र्धनम् (*TS*-1/2, *RV*-1/4, *TB*-1, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-2/4, *VS-K*-2/3, *KS*-0/2)
+- उर्वारुक᳓म् (*TS*-1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- ब᳓न्धनात् (*TS*-1/3, *RV*-1/4, *TB*-0/3, *AV*-3/4, *SB-M*-3/7, *SB-K*-3/7, *VS-M*-2/4, *VS-K*-2/4, *KS*-1)
+- मृत्योः᳓ (*TS*-13/40, *RV*-3/15, *TB*-10/35, *TK*-1/8, *AV*-24/100, *SB-M*-45/150, *SB-K*-46/140, *VS-M*-3/14, *VS-K*-3/12, *KS*-4/10)
+- मुक्षीय᳓ (मूल-पाठः)
+- मा᳓म् (*TS*-31/565, *RV*-50/1308, *TB*-25/270, *TK*-16/66, *AV*-47/1252, *SB-M*-42/723, *SB-K*-47/728, *VS-M*-8/314, *VS-K*-7/265, *KS*-12/242)
+- ऋ᳓तात् (*TS*-0/3, *RV*-0/1, *TB*-0/3, *SB-M*-2/3, *SB-K*-1/5, *VS-M*-0/1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -575,10 +596,13 @@ Like a cucumber from its stem, might I be freed from death, not from  deathlessn
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
+</details>
 
 </details>
 </div>
@@ -595,6 +619,12 @@ To Tryambaka we make offering,
 The fragrant, increaser of prosperity;  
 Like a cucumber from its stem,  
 From death may I be loosened, not from immortality.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We worship the three-eyed god, fragrant, increaser of nourishment;  
+as a cucumber from its stem, from death may I be released, not from immortality!
 </details>
 
 <details><summary>Geldner</summary>

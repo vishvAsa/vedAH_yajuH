@@ -100,7 +100,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/08_deva_s_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/06/08_devas_tvA_savitA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स् त्वा सविता᳓ म᳓ध्वानक्तु
@@ -116,6 +116,16 @@ Savitar, God, anoint thee with sweet butter.
 <details><summary>Keith</summary>
 
 Let the god Savitr anoint thee with honey.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Savitṛ anoint you with honey!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+May god Savitṛ anoint thee with honey!
 </details>
 
 <details><summary>मूलम्</summary>

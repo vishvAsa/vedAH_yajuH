@@ -317,28 +317,28 @@ title = "०७ होमः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 <details open><summary><h4>35 अनाज्ञातय्ँयदाज्ञातम् यज्ञस्य ...{Loading}...</h4></summary>
 
-अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
-य॒ज्ञस्य॑ क्रि॒यते॒ मिथु॑ ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 <details open><summary><h4>38 पुरुषसम्मितो यज्ञः ...{Loading}...</h4></summary>
 
-पुरु॑षसम्मितो य॒ज्ञः ।  
-य॒ज्ञᳶ पुरु॑षसम्मितः ।  
-अग्ने॒ तद॑स्य कल्पय ।  
-त्वँ हि वेत्थ॑ यथात॒थम् ।
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 <details open><summary><h4>41 यत्पाकत्रा मनसा ...{Loading}...</h4></summary>
 
-यत्पा॑क॒त्रा मन॑सा दी॒नद॑क्षा॒ न ।  
-य॒ज्ञस्य॑ म॒न्वते॒ मर्ता॑सः ।  
-अ॒ग्निष्टद्धोता॑ क्रतु॒विद्वि॑जा॒नन् ।  
-यजि॑ष्ठो दे॒वाँ ऋ॑तु॒शो य॑जाति ॥115॥
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
@@ -372,16 +372,16 @@ title = "०७ होमः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
 <details open><summary><h4>32 आभिर् गीर्भिर् ...{Loading}...</h4></summary>
 
-आ॒भिर् गी॒र्भिर् यद् अतो॑ न **ऊ॒नम्**   
-**आप्या॑यय** हरिवो॒ +++(=अश्ववान्, स्वर्णवान् वा [इन्द्रः])+++ **वर्द्ध॑मानः**।  
-य॒दा स्तो॒तृभ्यो॒ महि॑ गो॒त्रा +++(=मेघान्)+++ **रु॒जासि॑** +++(=भिनक्षि)+++  
-**भूयिष्ठ॒भाजो॒** अध॑+++(=अत)+++ ते **स्याम**॥
+आभि᳓र् गीर्भि᳓र् य᳓द् अ᳓तो न **ऊन᳓म्**   
+**आ᳓प्यायय** हरिवो +++(=अश्ववान्, स्वर्णवान् वा [इन्द्रः])+++ **व᳓र्द्धमानः**।  
+यदा᳓ स्तोतृ᳓भ्यो म᳓हि गोत्रा᳓ +++(=मेघान्)+++ **रुजा᳓सि** +++(=भिनक्षि)+++  
+**भूयिष्ठभा᳓जो** अ᳓ध+++(=अत)+++ ते **स्याम**॥
 </details>
 </div>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
-इदव्ँ᳓ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
 +++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 

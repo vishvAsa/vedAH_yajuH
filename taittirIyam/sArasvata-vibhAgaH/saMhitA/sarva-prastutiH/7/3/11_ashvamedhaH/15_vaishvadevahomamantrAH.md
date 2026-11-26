@@ -545,7 +545,7 @@ To Tvastr the seminal hail!
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/22/89_tva_ShTre_puru.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/22/89_tvaShTre_puru_rUpAya.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्व᳓ष्ट्रे पुरु-रू᳓पाय स्वा᳓हा
@@ -561,6 +561,11 @@ Hail to Tvashtar of many forms!
 <details><summary>Keith</summary>
 
 To Tvastr the multiform hail!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Tvaṣṭṛ of manifold forms, svāhā!
 </details>
 
 <details><summary>मूलम्</summary>

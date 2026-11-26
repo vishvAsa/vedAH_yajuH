@@ -946,6 +946,12 @@ vrájanam ← vrájana- (nominal stem)
 आद॑स्य॒ वातो॒ अनु॑ वाति शो॒चिरध॑ स्म ते॒ व्रज॑नङ्कृ॒ष्णम॑स्ति ॥   [9]
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रो᳓थद् अ᳓श्वो न᳓ य᳓वसे ऽविष्य᳓न् यदा᳓ महः᳓ सँव᳓रणाद् व्य᳓स्थात्  
+आ᳓द् अस्य वा᳓तो अ᳓नुवाति शोचि᳓र् अ᳓ध स्मा ते व्र᳓जनं कृष्ण᳓म् अस्तु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्रोथ॑त् । अश्वः॑ । न । यव॑से । अ॒वि॒ष्यन् । य॒दा । म॒हः । स॒म्ऽवर॑णात् । वि । अस्था॑त् ।  
@@ -965,6 +971,31 @@ vrájanam ← vrájana- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 प्रोथ॑त् । अश्वः॑ । न । यव॑से । अ॒वि॒ष्यन् । य॒दा । म॒हः । सव्ँ॒वर॑णा॒दिति॑ सम्-वर॑णात् । व्यस्था॒दिति॑ वि-अस्था॑त् ॥ आत् । अ॒स्य॒ । वातः॑ । अन्विति॑ । वा॒ति॒ । शो॒चिः । अध॑ । स्म॒ । ते॒ । व्रज॑नम् । कृ॒ष्णम् । अ॒स्ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्रो᳓थत् (*TS*-1/2, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2)
+- अ᳓श्वः (*TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-M*-110/262, *SB-K*-111/255, *VS-M*-9/54, *VS-K*-8/51, *KS*-6/26)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- य᳓वसे (*TS*-2/8, *RV*-10/17, *TB*-0/2, *AV*-0/8, *SB-M*-1/17, *SB-K*-1/10, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/4)
+- अविष्य᳓न् (*TS*-1, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- यदा᳓ (*TS*-16, *RV*-40, *TB*-23, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-4, *KS*-13)
+- महः᳓ (*TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-10/34, *KS*-14/22)
+- सम्-व᳓रणात् (*TS*-1/2, *RV*-1/5, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- अ᳓स्थात् (*TS*-2, *RV*-9, *AV*-7, *SB-M*-4, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- आ᳓त् (*RV*-112, *AV*-30, *SB-M*-1, *SB-K*-5, *VS-M*-8, *VS-K*-8)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-39, *KS*-67)
+- वा᳓तो (*TS*-7, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-4, *KS*-1)
+- अ᳓नु-वाति (*VS-K*-1, *KS*-1)
+- शोचिः᳓ (*TS*-3/9, *RV*-15/53, *TB*-0/4, *TK*-2, *AV*-8/15, *SB-M*-4/9, *SB-K*-4/9, *VS-M*-2/8, *VS-K*-2/10, *KS*-0/2)
+- अ᳓ध (*TS*-8/10, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-10/14, *KS*-6/7)
+- स्मा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *SB-M*-2, *KS*-3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- व्र᳓जनम् (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- कृष्ण᳓म् (*TS*-14/44, *RV*-12/45, *TB*-4/12, *AV*-7/25, *SB-M*-26/51, *SB-K*-27/52, *VS-M*-3/13, *VS-K*-3/16, *KS*-3/11)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-58, *VS-K*-36, *KS*-52)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1325,6 +1356,12 @@ Like a horse neighing eager for the pasture,
 When he hath wandered from the great enclosure,  
 Then the wind bloweth after his splendour,  
 And then thy path becometh black.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Snorting like a horse desiring grass, when he stood out from the great enclosure,  
+then the wind blows after his flame; then may thy path be black.
 </details>
 
 <details><summary>Geldner</summary>

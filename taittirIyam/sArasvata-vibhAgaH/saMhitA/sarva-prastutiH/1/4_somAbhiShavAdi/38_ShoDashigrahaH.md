@@ -259,6 +259,11 @@ _________
 सुते मनो ग्रावा कृणोतु वग्नुना ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[556_6]** W 2 अ᳓र्वाचीनं; cf. RV 1, 84, 3.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -285,6 +290,12 @@ Mount thy car, O slayer of Vrtra;
 Thy steeds are yoked by our prayer;  
 May the pressing-stone with its voice  
 Incline thy mind towards us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mount the chariot, O slayer of Vṛtra; yoked by sacred power are your two bay steeds;  
+downward-turned, favorable to you, let the pressing-stone make your mind with its sound.
 </details>
 
 <details><summary>Geldner</summary>

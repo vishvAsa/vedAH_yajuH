@@ -2,6 +2,7 @@
 title: ०८ संवापादिः
 
 ---
+
 २ उपरिष्टाद् बृहती
 ३-४, ११ एकपदा गायत्री
 प्रजापतिर्ऋषिः
@@ -131,6 +132,7 @@ Join ye rich ones with the moving ones, sweet ones with the sweet.
 
 समिति॑ । आपः॑ । अ॒द्भिरित्य॑त्-भिः । अ॒ग्म॒त॒ । समिति॑ । ओष॑धयः । रसे॑न । समिति॑ । रे॒वतीः॑ । जग॑तीभिः । मधु॑मती॒रिति॒ मधु॑-म॒तीः॒ । मधु॑मतीभि॒रिति॒ मधु॑-म॒ती॒भिः॒ । सृ॒ज्य॒ध्व॒म् ।
 </details>
+
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -713,19 +715,26 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/18_ekatAya_svAhA_dvitAya.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 एकता᳓य स्वा᳓हा ।   
 द्विता᳓य स्वा᳓हा ।    
 त्रिता᳓य स्वा᳓हा ।  
 +++('तत एकतोजायत' (तै.ब्रा. 3.2.8) इत्यादिब्राह्मणे प्रसिद्धाः तद्-वाच्याः पित्रादयः अग्निष्वात्तादयः ।)+++
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/08_saMvApAdiH/18_ekatAya_svAhA_dvitAya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Hail to Ekata, hail to Dvita, hail to Trita.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Dvita hail!  
+To Trita hail!
 </details>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
@@ -751,6 +760,12 @@ Hail to Ekata, hail to Dvita, hail to Trita.
 
 इत्यष्टमोनुवाकः
 </details>
-</details>
 
- इत्यष्टमोनुवाकः  
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf Mâitr. S. 1, 1, 9 ; Kap. S. 1, 8.
+</details>
+</details>
+</div>
+
+ इत्यष्टमोनुवाकः

@@ -118,10 +118,64 @@ prasuván ← √sū- 1 (root)
 हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓ देवो᳓ याति सविता᳓ सुर᳓त्नो ऽन्तरिक्षप्रा᳓ व᳓हमानो अ᳓श्वैः  
+ह᳓स्ते द᳓धानो न᳓र्या पुरू᳓णि निवेशयञ् च प्रसुव᳓ञ् च भू᳓म
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आ देवो यातु सविता सुरत्नो ऽन्तरिक्षप्रा वहमानो अश्वैः।  
+हस्ते दधानो नर्या पुरूणि निवेशयञ्च प्रसुवञ्च भूम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । दे॒वः । या॒तु॒ । स॒वि॒ता । सु॒ऽरत्नः॑ । अ॒न्त॒रि॒क्ष॒ऽप्राः । वह॑मानः । अश्वैः॑ ।  
 हस्ते॑ । दधा॑नः । नर्या॑ । पु॒रूणि॑ । नि॒ऽवे॒शय॑न् । च॒ । प्र॒ऽसु॒वन् । च॒ । भूम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- याति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-57, *TB*-1, *TK*-1, *AV*-11, *SB-M*-11, *SB-K*-11, *VS-K*-1, *KS*-3)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+- सु-र᳓त्नः (*RV*-2/7, *TB*-0/1, *AV*-0/2, *SB-M*-1, *SB-K*-1)
+- अन्तरिक्ष-प्राः᳓ (*RV*-2/4)
+- व᳓हमानः (*TS*-0/1, *RV*-3/7, *TB*-0/1, *AV*-1/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓श्वैः (*TS*-3/126, *RV*-30/226, *TB*-2/167, *AV*-5/76, *SB-M*-0/262, *SB-K*-0/255, *VS-M*-3/54, *VS-K*-2/51, *KS*-3/26)
+- ह᳓स्ते (*TS*-8/40, *RV*-19/47, *TB*-2/17, *AV*-5/47, *SB-M*-4/59, *SB-K*-3/60, *VS-M*-5/29, *VS-K*-5/28, *KS*-3/28)
+- द᳓धानः (*TS*-2/5, *RV*-31/68, *TB*-1/4, *AV*-3/18, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/7, *VS-K*-0/7, *KS*-1/7)
+- न᳓र्या (*TS*-1/2, *RV*-7/48, *TB*-0/2, *AV*-1/4, *SB-M*-0/2, *SB-K*-0/2, *VS-K*-0/2, *KS*-0/1)
+- पुरू᳓णि (*TS*-2, *RV*-40, *TB*-3, *AV*-6, *VS-M*-1, *VS-K*-1, *KS*-3)
+- नि-वेशयन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- प्र-सुव᳓न् (*RV*-2, *TB*-1, *VS-M*-1, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- भू᳓म (*TS*-12, *RV*-29/34, *TB*-1, *TK*-1, *AV*-2, *SB-M*-3/5, *SB-K*-4/6, *VS-M*-5, *VS-K*-8, *KS*-1/2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- यातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-18, *TB*-3, *AV*-8, *SB-M*-1, *SB-K*-1, *VS-M*-5, *VS-K*-4, *MS*-6)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- सु-र᳓त्नः (*MS*-1, *RV*-2/7, *TB*-0/1, *AV*-0/2, *SB-M*-1, *SB-K*-1)
+- अन्तरिक्ष-प्राः᳓ (*RV*-2/4, *MS*-1)
+- व᳓हमानः (*MS*-1, *TS*-0/1, *RV*-3/7, *TB*-0/1, *AV*-1/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓श्वैः (*MS*-8/117, *TS*-3/126, *RV*-30/226, *TB*-2/167, *AV*-5/76, *SB-M*-0/262, *SB-K*-0/255, *VS-M*-3/56, *VS-K*-2/52)
+- ह᳓स्ते (*MS*-5/69, *TS*-8/40, *RV*-19/47, *TB*-2/17, *AV*-5/47, *SB-M*-4/59, *SB-K*-3/60, *VS-M*-5/29, *VS-K*-5/29)
+- द᳓धानः (*MS*-3/10, *TS*-2/5, *RV*-31/68, *TB*-1/4, *AV*-3/18, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/7, *VS-K*-0/7)
+- न᳓र्या (*MS*-1/4, *TS*-1/2, *RV*-7/48, *TB*-0/2, *AV*-1/4, *SB-M*-0/2, *SB-K*-0/2, *VS-K*-0/2)
+- पुरू᳓णि (*MS*-5, *TS*-2, *RV*-40, *TB*-3, *AV*-6, *VS-M*-1, *VS-K*-1)
+- नि-वेशयन् (समानान्तर-पाठः (MS), *MS*-1, *TS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- प्र-सुव᳓न् (*MS*-2, *RV*-2, *TB*-1, *VS-M*-1, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- भू᳓म (*MS*-2/3, *TS*-12, *RV*-29/34, *TB*-1, *TK*-1, *AV*-2, *SB-M*-3/5, *SB-K*-4/6, *VS-M*-5, *VS-K*-9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -282,10 +336,13 @@ holding many things meant for men in his hand, bringing the world to  rest and i
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
+</details>
 
 </details>
 </div>
@@ -294,6 +351,18 @@ Although Savitar’s role as god of evening, causing the world and its activitie
 
 MAY the God Savitar, rich in goodly treasures, filling the region, borne by steeds, come hither,  
      In his hand holding much that makes men happy, lulling to slumber and arousing creatures.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The god Savitṛ approaches, rich in jewels, filling the intermediate space, drawn by horses,  
+holding in his hand many things belonging to men, laying to rest and impelling the world.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May the god Savitṛ come, possessing good jewels, filling the intermediate space, conveyed by horses,  
+holding in his hand many gifts for men, bringing the world to rest and setting it in motion.
 </details>
 
 <details><summary>Geldner</summary>

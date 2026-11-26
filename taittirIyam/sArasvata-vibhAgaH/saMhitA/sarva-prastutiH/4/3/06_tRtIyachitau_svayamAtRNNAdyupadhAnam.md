@@ -266,23 +266,36 @@ harm not the atmosphere;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/3/06_tRtIyachitau_svayamAtRNNAdyupadhAnam/09_vishvasmai_prANAyApAnAya.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै चरि᳓त्राय वायु᳓स्त्वाभि᳓ पातु,
 मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा [11] श᳓न्तमेन,
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/3/06_tRtIyachitau_svayamAtRNNAdyupadhAnam/09_vishvasmai_prANAyApAnAya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 for every expiration, inspiration, cross-breathing, out-breathing, support, movement; let Vayu protect thee with great prosperity, with a covering [1] most healing;
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+For all in-breath, out-breath, diffused breath, up-breath, for stability, for walking,  
+may Vāyu protect you with great well-being, with most benevolent shelter.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 विश्व॑स्मै प्रा॒णाया॑पा॒नाय॑ व्या॒नायो॑दा॒नाय॑ प्रति॒ष्ठायै॑ च॒रित्रा॑य वा॒युस्त्वा॒भि पा॑तु,
 म॒ह्या स्व॒स्त्या छ॒र्दिषा॑ [11] शन्त॑मेन,
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+विश्वस्मै प्राणाय व्यानायापानायोदानाय प्रतिष्ठायै चरित्राय  
+वायुष्ट्वाभिपातु मह्या स्वस्त्या छर्दिषा शन्तमेन
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -290,14 +303,32 @@ for every expiration, inspiration, cross-breathing, out-breathing, support, move
 विश्व॑स्मै । प्रा॒णायेति॑ प्र-अ॒नाय॑ । अ॒पा॒नायेत्य॑प-अ॒नाय॑ । व्या॒नायेति॑ वि-अ॒नाय॑ । उ॒दा॒नायेत्यु॑त्-अ॒नाय॑ । प्र॒ति॒ष्ठाया॒ इति॑ प्रति-स्थायै॑ । च॒रित्रा॑य । वा॒युः । त्वा॒ । अ॒भीति॑ । पा॒तु॒ । म॒ह्या । स्व॒स्त्या । छ॒र्दिषा॑ । शन्त॑मे॒नेति॒ शम्-त॒मे॒न॒ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वि᳓श्वस्मै (*MS*-8/301, *TS*-7/283, *RV*-12/1116, *TB*-1/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-5/219, *VS-M*-6/225, *VS-K*-5/224)
+- प्राणा᳓य (*MS*-16/228, *TS*-15/157, *RV*-0/5, *TB*-4/90, *TK*-0/5, *AV*-10/132, *SB-M*-24/1145, *SB-K*-24/1073, *VS-M*-13/42, *VS-K*-13/36)
+- व्याना᳓य (*MS*-5/30, *TS*-8/15, *TB*-2/8, *SB-M*-9/49, *SB-K*-8/51, *VS-M*-2, *VS-K*-1/6)
+- अपाना᳓य (*MS*-13/20, *TS*-7/13, *TB*-1/2, *AV*-6/30, *SB-M*-10/32, *SB-K*-10/32, *VS-M*-4/5, *VS-K*-3/5)
+- उदाना᳓य (*MS*-1, *TS*-0/1, *SB-M*-7/62, *SB-K*-5/51, *VS-M*-6/8, *VS-K*-4/6)
+- प्रति-ष्ठा᳓यै (*MS*-6/20, *TS*-6/68, *TB*-8/27, *TK*-0/21, *SB-M*-7/276, *SB-K*-7/194, *VS-M*-4/5, *VS-K*-2/4)
+- चरि᳓त्राय (*MS*-6/7, *TS*-3/4, *RV*-0/3, *AV*-0/1, *SB-M*-3/7, *SB-K*-3/8, *VS-M*-3/4, *VS-K*-2/3)
+- वायुः᳓ (*MS*-62/119, *TS*-52/108, *RV*-22/89, *TB*-39/62, *TK*-7/13, *AV*-27/42, *SB-M*-155/252, *SB-K*-134/227, *VS-M*-25/48, *VS-K*-19/55)
+- ट्वा᳓ (*MS*-3/11, *TB*-0/1, *SB-M*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- मह्या᳓ (*MS*-3, *TS*-3, *RV*-1/2, *SB-M*-6/8, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- स्वस्त्या᳓ (*MS*-4, *TS*-4, *TB*-1, *AV*-2/3, *SB-M*-4, *SB-K*-4, *VS-K*-2)
+- छर्दि᳓षा (*MS*-3/4, *TS*-3, *RV*-0/19, *TB*-0/2, *AV*-0/4, *SB-M*-3/6, *SB-K*-3/6, *VS-M*-3, *VS-K*-3)
+- श᳓म्-तमेन (*TS*-5/6, *RV*-4/24, *AV*-1/5, *SB-K*-3, *VS-M*-3/4, *VS-K*-4/5, *MS*-4/5)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 विश्वस्मै सर्वस्मै प्राणापानव्यानोदानाख्यवायुवृत्तिलाभाय, प्रतिष्ठायौ स्मगृहे प्रतिष्ठालाभाय, चरित्राय शास्त्रीया चरणाय, प्राणिनामेतस्य सर्वस्य सिद्ध्यर्थमयं वायुस्त्याममितः पातु ।  
-केन रक्षणमिति तदुच्यतेमह्या स्वस्त्या महत्या योगक्षेमसंपत्त्या शंतमेन च्छर्दिषा सुखकारिणा दीप्तिविशेषेण ।   
+केन रक्षणमिति तदुच्यतेमह्या स्वस्त्या महत्या योगक्षेमसंपत्त्या शंतमेन च्छर्दिषा सुखकारिणा दीप्तिविशेषेण ।
 </details>
 </details>
-
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/13/30_ta_yA_deva.md">
+</div><div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/13/30_tayA_devatayAngirasvad_dhruvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या देव᳓तयाङ्गिरस्व᳓द् ध्रुवा᳓ सीद ॥१९ ॥
@@ -356,6 +387,44 @@ with that deity, in the manner of Angiras, do thou sit firm.
 <details><summary>Keith (तैत्तिरीयम्)</summary>
 
 with that deity do thou sit firm in the manner of Angiras.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By that deity, seated firm like Aṅgiras, sit!
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+with that deity, in the manner of the Aṅgirases, sit firm!
+
+With that deity, sit firm as an Aṅgiras!
+
+With that deity, sit firm as an Aṅgiras!
+
+You are the unvanquished, victorious; conquer hostility, conquer those
+
+full of sweetness may the sun be,  
+full of sweetness may the cows be to us!
+
+With unbroken wings, look over the creatures!
+
+With that deity, like the Aṅgirases, sit firm.
+
+With that deity, like the Aṅgirases, sit firm.
+
+With that deity, like the Aṅgirases, sit firm.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With that deity, like an Aṅgiras, sit firm!
+
+With that deity, Angiras-like, sit firmly!
+
+With that deity, Angiras-like, sit firmly!
+
+With that deity, Angiras-like, sit firm!
 </details>
 
 <details><summary>मूलम् - तैत्तिरीयम्</summary>

@@ -1054,7 +1054,7 @@ right up to our pressed soma with your fallow bays.
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1177,7 +1177,7 @@ Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen k
 द्या᳓वापृथिवी᳓ मरु᳓तस्स्वस्त᳓ये ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/1/11_kAmyeShTiyAjyApuronuvAkyAH/05_bha_reShvi_ndra.N.md">
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/1/11_kAmyeShTiyAjyApuronuvAkyAH/05_bhareShvindra.N_suhava.N_havAmahe-.Nhomu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
@@ -2056,6 +2056,12 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 अ॒स्मे दध॒द्वृष॑णँ॒ शुष्म॑मिन्द्र ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ नो वि᳓श्वाभिरूति᳓भिस्सजो᳓षा ब्र᳓ह्म जुषाणो᳓ हर्यश्व याहि।  
+व᳓रीवृजत्स्थ᳓विरेभिस्सुशिप्रास्से᳓ द᳓धद्वृ᳓षण्ँ शु᳓ष्ममिन्द्र
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । विश्वा॑भिः । ऊ॒तिऽभिः॑ । स॒ऽजोषाः॑ । ब्रह्म॑ । जु॒षा॒णः । ह॒रि॒ऽअ॒श्व॒ । या॒हि॒ ।  
@@ -2065,6 +2071,26 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓ । नः । वि᳓श्वाभिः । ऊति᳓भिः । सजो᳓षाः । ब्र᳓ह्म । जुषाणः᳓ । हर्यश्व । याहि । व᳓रीवृजत् । स्थ᳓विरेभिः । सु-शिप्र । अस्मे᳓ । द᳓धत् । वृ᳓षणम् । शु᳓ष्मम् । इन्द्र ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- वि᳓श्वाभिः (*MS*-4/301, *TS*-2/283, *RV*-28/1116, *TB*-2/125, *TK*-0/124, *AV*-6/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-1/225, *VS-K*-1/224)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
+- सजो᳓षाः (*MS*-17, *TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-9)
+- ब्र᳓ह्म (*MS*-115/230, *TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51)
+- जुषाणः᳓ (*MS*-10/14, *TS*-9/14, *RV*-25/28, *TB*-10/15, *TK*-2/3, *AV*-9/14, *SB-M*-10/12, *SB-K*-9/14, *VS-M*-9/12, *VS-K*-8/11)
+- हर्यश्व (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-18, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-15)
+- व᳓रीवृजत् (*RV*-1, *TB*-3, *MS*-1)
+- स्थ᳓विरेभिः (*MS*-1/6, *TS*-0/1, *RV*-2/16, *TB*-3/6, *TK*-0/1, *AV*-0/4, *SB-M*-0/3, *SB-K*-0/4, *VS-M*-0/1, *VS-K*-0/1)
+- सु-शिप्राः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1)
+- आस्से (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- दधद्वृषण्म् (मूल-पाठः)
+- शु᳓ष्मम् (*MS*-2/14, *TS*-0/8, *RV*-32/69, *TB*-5/15, *AV*-9/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-2/5, *VS-K*-3/6)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -2227,6 +2253,12 @@ The intens. part. várīvṛjat can only be intransitive here, as there is nothi
 
 Come unto us with all thine aids, accordant, Lord of Bay Steeds, accepting our devotions,  
      Fair-helmeted, o'ercoming with the mighty, and lending us the strength of bulls, O Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come to us with all aids in accord, enjoying our prayer, O bay-horsed one,  
+driving away [foes] with your elders, O fair-lipped one, placing in us male vigour, O Indra!
 </details>
 
 <details><summary>Geldner</summary>

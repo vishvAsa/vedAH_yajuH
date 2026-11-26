@@ -149,28 +149,28 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
 <details open><summary><h2>०५ ओम् अग्नये ...{Loading}...</h2></summary>
 
-- ओम्+++(इत्यनुज्ञाक्षरं)+++ अ॒ग्नये॒ स्वाहा॑+++(हविःप्रदानार्थः)+++।  
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
 <details open><summary><h2>०६ सोमाय स्वाहा ...{Loading}...</h2></summary>
 
-- सोमा॑य॒ स्वाहा॑।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++  
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/07_vishvebhyo_devebhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/vishvAsa-prastutiH/22/147_vishvebhyo_devebhyaH_svAhA.md">
 <details open><summary><h2>०७ विश्वेभ्यो देवेभ्यस् ...{Loading}...</h2></summary>
 
-- विश्वे॑भ्यो दे॒वेभ्य॒स् स्वाहा॑।  
+वि᳓श्वेभ्यो देवे᳓भ्यः स्वा᳓हा  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/08_dhruvAya_bhUmAya.md">
 <details open><summary><h2>०८ ध्रुवाय भूमाय ...{Loading}...</h2></summary>
 
-- +++(खे)+++ ध्रु॒वाय॑ भू॒माय॑+++(=भूम्ने)+++ स्वाहा॑।  
++++(खे)+++ ध्रुवा᳓य भूमा᳓य+++(=भूम्ने)+++ स्वा᳓हा।  
 
 </details>
 </div>
@@ -192,7 +192,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/11_agnaye_sviShTakRte.md">
 <details open><summary><h2>११ अग्नये स्विष्टकृते ...{Loading}...</h2></summary>
 
-- अ॒ग्नये॑ स्विष्ट॒कृते॑ स्वाहा॑।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
+अग्न᳓ये स्विष्टकृ᳓ते स्वा᳓हा।+++(=रुद्रोऽग्निस्स्विष्टकृत्)+++  
 
 </details>
 </div>
@@ -206,16 +206,18 @@ unicode_script: devanagari
 
 उभयतः परिषेचनं यथा पुरस्तात् १७  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+<details open><summary><h2>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h2></summary>
 
-अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
+</details>
 </div>
 </details>
 
@@ -254,9 +256,13 @@ unicode_script: devanagari
 
 उदधानसंनिधौ नवमेन २१  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/13_dharmAya_svAhA.md">
+<details open><summary><h2>१३ धर्माय स्वाहा ...{Loading}...</h2></summary>
+
 [[ध᳓र्माय᳓|ध᳓र्माय]] स्वा᳓हा । [[अ᳓धर्मा᳓य᳓|अ᳓धर्माय]] स्वा᳓हा। +++(अपरेणाग्निं सप्तमाष्टमाभ्यामुदगपवर्गम् २०)+++    
-अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++
+अद्भ्य᳓स् स्वा᳓हा । +++(उदधानसंनिधौ नवमेन २१)+++  
+
+</details>
 </div>
 </details>
 
@@ -268,10 +274,12 @@ unicode_script: devanagari
 
 मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/14_oShadhivanaspatibhyas_svAhA.md">
+<details open><summary><h2>१४ ओषधिवनस्पतिभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-ओषधिवनस्पति᳓भ्यस् स्वा᳓हा। रक्षोदेवजने᳓भ्यस् स्वा᳓हा । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++    
+- ओ॒ष॒धि॒व॒न॒स्प॒तिभ्य॒स् स्वाहा॑। र॒क्षो॒दे॒व॒ज॒नेभ्य॒स् स्वाहा॑ । +++(मध्येऽगारस्य दशमैकादशाभ्यां प्रागपवर्गम् २२)+++  
 
+</details>
 </div>
 </details>
 
@@ -283,10 +291,12 @@ unicode_script: devanagari
 
 उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
+<details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-+++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++    
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। [[अवसा᳓नेभ्य᳓स्|अवसा᳓नेभ्यस्]]+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++  
 
+</details>
 </div>
 </details>
 
@@ -307,11 +317,13 @@ unicode_script: devanagari
 
 देहल्यामन्तरिक्षलिङ्गेन २
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/16_kAmaya_svAhA.md">
+<details open><summary><h2>१६ कामय स्वाहा ...{Loading}...</h2></summary>
 
-का᳓मय स्वा᳓हा । +++(शय्यादेशे कामलिङ्गेन)+++    
-अन्त᳓रिक्षाय स्वा᳓हा । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++    
+- काम॑य॒ स्वाहा॑ । +++(शय्यादेशे कामलिङ्गेन)+++  
+- अ॒न्तरि॑क्षाय॒ स्वाहा॑ । +++(देहल्यामन्तरिक्षलिङ्गेन २)+++  
 
+</details>
 </div>
 </details>
 
@@ -323,8 +335,12 @@ unicode_script: devanagari
 
 उत्तरेणापिधान्याम् ३
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
-य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
+<details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
+
+य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++  
+
+</details>
 </div>
 </details>
 
@@ -336,13 +352,15 @@ unicode_script: devanagari
 
 उत्तरैर्ब्रह्मसदने ४  
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/18_pRthivyai_svAhA.md">
+<details open><summary><h2>१८ पृथिव्यै स्वाहा ...{Loading}...</h2></summary>
 
 +++(उत्तरैर्ब्रह्मसदने)+++  
-पृथिव्यै᳓ स्वा᳓हा। अन्त᳓रिक्षाय स्वा᳓हा। दिवे᳓ स्वा᳓हा ।    
-सू᳓र्याय स्वा᳓हा । चन्द्र᳓मसे स्वा᳓हा । न᳓क्षत्रेभ्यस् स्वा᳓हा ।    
-इ᳓न्द्राय स्वा᳓हा । बृ᳓हस्प᳓तये स्वा᳓हा । प्रजा᳓पतये स्वा᳓हा । ब्र᳓ह्मणे स्वा᳓हा।    
+- पृ॒थि॒व्यै स्वाहा॑। अ॒न्तरि॑क्षाय॒ स्वाहा॑। दि॒वे स्वाहा॑ ।  
+- सूर्या॑य॒ स्वाहा॑ । च॒न्द्रम॑से॒ स्वाहा॑ । नक्ष॑त्रेभ्य॒स् स्वाहा॑ ।  
+- इन्द्रा॑य॒ स्वाहा॑ । बृह॒स्पत॑ये॒ स्वाहा॑ । प्र॒जाप॑तये॒ स्वाहा॑ । ब्रह्म॑णे॒ स्वाहा॑।  
 
+</details>
 </div>
 </details>
 
@@ -354,10 +372,12 @@ unicode_script: devanagari
 
 दक्षिणतः पितृलिङ्गेन प्राचीनावीत्यवाचीनपाणिः कुर्यात् ५
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/19_svadhA_pitRbhyas.md">
+<details open><summary><h2>१९ स्वधा पितृभ्यस् ...{Loading}...</h2></summary>
 
-स्वधा᳓ पितृ᳓भ्यस् स्वा᳓हा। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++    
+- स्व॒धा पि॒तृभ्य॒स् स्वाहा॑। +++( दक्षिणतः पितृलिङ्गेन प्राचीनावीत्य् अवाचीन-पाणिः कुर्यात् ५)+++  
 
+</details>
 </div>
 </details>
 
@@ -369,10 +389,12 @@ unicode_script: devanagari
 
 रौद्र उत्तरो यथा देवताभ्यः ६
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/20_namo_rudrAya.md">
+<details open><summary><h2>२० नमो रुद्राय ...{Loading}...</h2></summary>
 
-न᳓मो रुद्रा᳓य पशुप᳓तये स्वा᳓हा। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++    
+- नमो॑ रु॒द्राय॑ पशु॒पत॑ये॒ स्वाहा॑। +++(रौद्र उत्तरो यथा देवताभ्यः ६ तयोर् नाना परिषेचनं धर्म-भेदात् ७)+++  
 
+</details>
 </div>
 </details>
 
@@ -393,11 +415,15 @@ unicode_script: devanagari
 
 नक्तमेवोत्तमेन वैहायसम् ८
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+<details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
+
 ये᳓ भूताः᳓ प्रच᳓रन्ति [[दिवा|दि᳓वा]] /न᳓क्तं    
 [[ब᳓लिम्|बलि᳓म्]] इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
 ते᳓भ्यो बलिं᳓ [[पुष्टिका᳓मो|पु᳓ष्टिकामो]] हरामि  
-म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
+म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++  
+
+</details>
 </div>
 </details>
 

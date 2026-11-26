@@ -87,14 +87,62 @@ Unsurpassed, sit ye down, full of strength,
 Bestowing great radiance upon the Ksatriya.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unassailable, sit down, full of nourishment, conferring great lustre on the kṣatriya!'
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+"Sit down, unassailed, full of sap, bestowing great splendor on the kṣatriya," [he says];
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sit, unassailable, full of strength, bestowing great splendor upon the kṣatriya!'
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अना॑धृष्टास्सीद॒तोर्ज॑स्वती॒र्महि॒ वर्चः॑ क्ष॒त्रिया॑य॒ दध॑तीः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓नाधृष्टाः सीदतो᳓र्जस्वतीर् म᳓हि व᳓र्चः क्षत्रि᳓याय द᳓धतीर् इ᳓ति ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अनाधृष्टास्सीदतोर्जस्वतीर्महि वर्चः क्षत्रियाय ददतीः
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 अना॑धृष्टा॒ इत्यना॑-धृ॒ष्टाः॒ । सी॒द॒त॒ । ऊर्ज॑स्वतीः । महि॑ । वर्चः॑ । क्ष॒त्रिया॑य । दध॑तीः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ना-धृष्टाः (*TS*-1/10, *RV*-0/6, *TB*-1, *SB-M*-6/19, *SB-K*-4/22, *VS-M*-2/10, *VS-K*-2/8, *KS*-1/5)
+- सीदत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-10, *TB*-2, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4, *KS*-3)
+- ऊ᳓र्जस्वतीः (*TS*-5/7, *RV*-1, *TB*-1/3, *AV*-0/3, *SB-M*-1/6, *SB-K*-1/6, *VS-M*-1/3, *VS-K*-0/2, *KS*-0/3)
+- म᳓हि (*TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33, *KS*-8/18)
+- व᳓र्चः (*TS*-31/57, *RV*-6/12, *TB*-12/26, *AV*-47/120, *SB-M*-36/67, *SB-K*-33/61, *VS-M*-11/42, *VS-K*-5/29, *KS*-11/33)
+- क्षत्रि᳓याय (*TS*-2/3, *RV*-0/7, *TB*-0/2, *AV*-0/10, *SB-M*-4/42, *SB-K*-12/62, *VS-M*-1, *VS-K*-2, *KS*-0/3)
+- द᳓धतीः (*TS*-1/2, *RV*-0/3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- इ᳓ति (*TS*-1796, *RV*-83, *TB*-1138, *TK*-117, *AV*-1303, *SB-M*-9224, *SB-K*-9397, *VS-M*-2, *VS-K*-1, *KS*-159)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ना-धृष्टाः (*MS*-5/14, *TS*-1/10, *RV*-0/6, *TB*-1, *SB-M*-6/19, *SB-K*-4/22, *VS-M*-2/10, *VS-K*-2/8)
+- सीदत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-6, *RV*-10, *TB*-2, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4)
+- ऊ᳓र्जस्वतीः (*MS*-5/7, *TS*-5/7, *RV*-1, *TB*-1/3, *AV*-0/3, *SB-M*-1/6, *SB-K*-1/6, *VS-M*-1/3, *VS-K*-0/2)
+- म᳓हि (*Whitney*, *MS*-28/58, *TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33)
+- व᳓र्चः (*MS*-36/59, *TS*-31/57, *RV*-6/12, *TB*-12/26, *AV*-47/120, *SB-M*-36/67, *SB-K*-33/61, *VS-M*-11/42, *VS-K*-5/29)
+- क्षत्रि᳓याय (*MS*-4/9, *TS*-2/3, *RV*-0/7, *TB*-0/2, *AV*-0/10, *SB-M*-4/42, *SB-K*-12/62, *VS-M*-1, *VS-K*-2)
+- द᳓दतीः (*MW*, *Lanman*, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -130,6 +178,11 @@ Bestowing great radiance upon the Ksatriya.
 <details><summary>Keith</summary>
 
 Friend of speech, born of heat, thou art undefeated;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are uncrushed, the kin of speech, born of austerity,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -272,6 +325,18 @@ In the waters hath Varuna made his abode,
 The child [1] of the waters in those most motherly.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Feasting together, glorious, through nourishment unique, unassailable, clothing themselves in water-works,  
+Varuṇa made for himself a seat in the dwellings, child of the waters within the most motherly ones.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+'Feasting together, splendid, unassailable, one in strength, clad in water,  
+Varuṇa made a dwelling in the rivers, the child of the waters, within the most motherly ones.'
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स॒ध॒मादो॑ द्यु॒म्निनी॒राप॑ऽए॒ताऽअना॑धृष्टाऽअप॒स्यो᳙ वसा॑नाः।  
@@ -290,6 +355,18 @@ The child [1] of the waters in those most motherly.
 प॒स्त्या॑सु चक्रे॒ वरु॑णस्स॒धस्थ॑म॒पाँ शिशुः॑ [21]  मा॒तृत॑मास्व॒न्तः  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सधमा᳓दो द्युम्न्या᳙ ऊ᳓र्जा ए᳓का अ᳓नाधृष्टा अपस्यो᳙ व᳓सानाः  
+पस्त्या᳙सु चक्रे व᳓रुणः सध᳓स्थम् अपाँ शिशुर् मातृ᳓तमास्व् अन्तः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सधमादो द्युम्न्या ऊर्ज एका अनाधृष्टा अपस्यो वसानः।  
+पस्त्यासु चक्रे वरुणस्सधस्थमपाँ शिशुर्मातृतमास्वन्तः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स॒ध॒माद॒ इति॑ सध॒ऽमादः॑। द्यु॒म्निनीः॑। आपः॑। ए॒ताः। अना॑धृष्टाः। अ॒प॒स्यः᳙। वसा॑नाः। प॒स्त्या᳖सु। च॒क्रे॒। वरु॑णः। स॒धस्थ॒मिति॑ स॒धऽस्थ॑म्। अ॒पाम्। शिशुः॑। मा॒तृत॑मा॒स्विति॑ मा॒तृऽत॑मासु। अ॒न्तरित्य॒न्तः। ७।
@@ -303,6 +380,44 @@ The child [1] of the waters in those most motherly.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 स॒ध॒माद॒ इति॑ सध-मादः॑ । द्यु॒म्निनीः॑ । ऊर्जः॑ । ए॒ताः । अनि॑भृष्टा॒ इत्यनि॑-भृ॒ष्टाः॒ । अ॒प॒स्युवः॑ । वसा॑नः ॥ प॒स्त्या॑सु । च॒क्रे॒ । वरु॑णः । स॒धस्थ॒मिति॑ स॒ध-स्थ॒म् । अ॒पाम् । शिशुः॑ । मा॒तृत॑मा॒स्विति॑ मा॒तृ-त॒मा॒सु॒ । अ॒न्तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सध-मा᳓दः (*TS*-4/6, *RV*-9/24, *TB*-1/3, *TK*-0/1, *AV*-1/14, *SB-M*-2, *SB-K*-2, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/4)
+- द्युम्न्याः᳙ (मूल-पाठः)
+- ऊ᳓र्जाः (*TS*-0/80, *RV*-0/47, *TB*-0/42, *TK*-0/2, *AV*-0/32, *SB-M*-0/42, *SB-K*-0/46, *VS-M*-0/28, *VS-K*-0/33, *KS*-0/22)
+- ए᳓काः (*TS*-0/127, *RV*-0/218, *TB*-0/51, *TK*-0/3, *AV*-2/123, *SB-M*-18/615, *SB-K*-19/586, *VS-M*-0/32, *VS-K*-0/26, *KS*-0/24)
+- अ᳓ना-धृष्टाः (*TS*-1/10, *RV*-0/6, *TB*-1, *SB-M*-6/19, *SB-K*-4/22, *VS-M*-2/10, *VS-K*-2/8, *KS*-1/5)
+- अपस्यो᳙ (*SB-M*-2)
+- व᳓सानाः (*TS*-2/7, *RV*-7/44, *TB*-0/1, *AV*-5/16, *SB-M*-2/5, *SB-K*-1/5, *VS-M*-1/5, *VS-K*-1/5, *KS*-1/5)
+- पस्त्या᳙सु (*TS*-2, *RV*-3, *TB*-2, *SB-M*-3, *SB-K*-3, *VS-K*-1, *KS*-2)
+- चक्रे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-21, *TB*-1, *AV*-10, *SB-M*-31, *SB-K*-22, *VS-M*-2, *VS-K*-2)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-39/82, *KS*-41/72)
+- सध᳓-स्थम् (*TS*-9/28, *RV*-14/45, *TB*-2/7, *TK*-0/1, *AV*-6/18, *SB-M*-13/39, *SB-K*-9/30, *VS-M*-7/27, *VS-K*-6/20, *KS*-1/6)
+- अपाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *TB*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-1)
+- शिशुः (मूल-पाठः)
+- मातृ᳓-तमासु (*TS*-1, *RV*-0/3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-35/42, *KS*-26)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सध-मा᳓दः (*MS*-2/6, *TS*-4/6, *RV*-9/24, *TB*-1/3, *TK*-0/1, *AV*-1/14, *SB-M*-2, *SB-K*-2, *VS-M*-1/2, *VS-K*-1/2)
+- द्युम्न्याः᳙ (*MS*-2, समानान्तर-पाठः (MS))
+- ऊर्जः᳓ (*MS*-14/63, *TS*-6/42, *RV*-11/22, *TB*-5/13, *AV*-6/19, *SB-M*-8/44, *SB-K*-3/40, *VS-M*-5/24, *VS-K*-3/25)
+- ए᳓काः (*MS*-5/146, *TS*-0/127, *RV*-0/218, *TB*-0/51, *TK*-0/3, *AV*-2/123, *SB-M*-18/615, *SB-K*-19/586, *VS-M*-0/32, *VS-K*-0/27)
+- अ᳓ना-धृष्टाः (*MS*-5/14, *TS*-1/10, *RV*-0/6, *TB*-1, *SB-M*-6/19, *SB-K*-4/22, *VS-M*-2/10, *VS-K*-2/8)
+- अपस्यो᳙ (समानान्तर-पाठः (MS), *MS*-1, *SB-M*-2)
+- व᳓सानः (*MS*-3/10, *TS*-5/7, *RV*-34/44, *TB*-1, *AV*-9/16, *SB-M*-3/5, *SB-K*-4/5, *VS-M*-4/5, *VS-K*-5/6)
+- पस्त्या᳙सु (*MS*-5, *TS*-2, *RV*-3, *TB*-2, *SB-M*-3, *SB-K*-3, *VS-K*-1)
+- चक्रे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-21, *TB*-1, *AV*-10, *SB-M*-31, *SB-K*-22, *VS-M*-2, *VS-K*-2)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- सध᳓-स्थम् (*MS*-10/40, *TS*-9/28, *RV*-14/45, *TB*-2/7, *TK*-0/1, *AV*-6/18, *SB-M*-13/39, *SB-K*-9/30, *VS-M*-7/27, *VS-K*-6/21)
+- अपाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-4, *TB*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- शिशुः (समानान्तर-पाठः (MS), *MS*-2)
+- मातृ᳓-तमासु (*TS*-1, *RV*-0/3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -434,6 +549,13 @@ The child [1] of the waters in those most motherly.
 एताभिर् आत्मानं छादयित्वा  
 **पस्त्यासु** गृह-भूतास्व् एतासु सधस्थम् एताभिस् सह-स्थानं  
 **वरुणश् चक्रे** करोति । अपामासां शिशुश्शिशुरिव मातृतमासु अतिशयेन जगतो निर्मात्रीषु पस्त्यासु भूतासु अन्तः मध्ये वरुणः सधस्थं करोति यथा मातॄणामुदरे शिशुस्सहवासं करोति । ता एवम्महानुभावाः अस्याभिषेकाय गृह्णामीति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[211_4]** So corr. Ch द्यूम्न्यूर्ज; D द्युम्न्य ऊर्ज (Thus emended; Ch reads द्यूम्न्यूर्ज; D reads द्युम्न्य ऊर्ज)
+
+- **[211_5]** Mss. वमानः; cf. aber Mâitr. S. 2, 6, 8; TS 1, 8, 12, 1; VS 10, 7. (Mss. read वमानः; cf., however, Mâitr. S. 2, 6, 8; TS 1, 8, 12, 1; VS 10, 7.)
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

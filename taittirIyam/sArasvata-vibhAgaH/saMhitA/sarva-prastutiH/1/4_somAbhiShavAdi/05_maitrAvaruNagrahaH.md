@@ -225,6 +225,12 @@ Who prosper holy order;
 Hearken ye now to my supplication.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Soma is pressed for you two, O Mitra and Varuṇa, who increase truth;  
+hear this invocation of mine here!
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieser Soma ist für euch, Mitra und Varuna, gepreßt, ihr Wahrheitsmehrer. Höret hier auf meinen Ruf!

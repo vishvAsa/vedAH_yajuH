@@ -21,11 +21,9 @@ title = "०४ होमः"
 उदग् वा ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/ye_pArthivAsaH.md">
-
 ये पार्थि॑वासः पि॒तरो॒ ये अ॒न्तरि॑क्षे॒  
 ये दि॒वि ये वा मृता॑ बभूवुः ।  
 ते अ॒स्मिन् य॒ज्ञे सम॑वयन्ताम् ॥
-
 </div>  
 
 इति सव्यानामिकाङ्गुष्ठाभ्यां दक्षिणतो भुवं स्पृष्ट्वा,
@@ -96,12 +94,10 @@ title = "०४ होमः"
 जुहूम्  
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/02/04/05_vAcham_prANamiti_juhUmagrairantarato-bhyAkAram.md">
-
 "वाचं प्राणम्" इति  
 जुहूम् अग्रैर् अन्तरतो ऽभ्याकारं+++(=पुनः पुनः)+++ प्राचीं,  
 मध्यैर् बाह्यतः प्रतीचीम्,  
 मूलैर् दण्डम् ५
-
 </div>  
  
 
@@ -163,12 +159,10 @@ title = "०४ होमः"
 युग्मेषु दर्भेषु प्राङ्मुखः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/052/13_vishve_devAH.md">
-
 वि᳓श्वदेवाश् **शृणुते᳓मँ᳓** ह᳓वं मे  
 ये᳓ अन्त᳓रिक्षे य उप द्य᳓वि **ष्ठ᳓** ।  
 ये᳓ अग्नि-जिह्वा᳓ उत᳓ वा य᳓जत्रा  
 **आस᳓द्यास्मि᳓न्** बर्हि᳓षि **मादयध्वम्** ॥
-
 </div>  
  
 
@@ -207,12 +201,10 @@ title = "०४ होमः"
 'आवाहय' (इत्य् अनुज्ञातः)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
-
 आया॑त पितरस् सो॒म्या  
 ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
 प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
 दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥
-
 </div>  
 
 > ... गोत्रस्य ....शर्मणः पितुः प्रत्याब्दिकश्राद्धे   
@@ -222,12 +214,10 @@ title = "०४ होमः"
 इति तिलैः पितृतीर्थेन आवाह्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
-
 सकृदाच्छिन्नं᳓ बर्हि᳓र् ऊ᳓र्णा-मृदु ।  
 स्योनं᳓ पितृ᳓भ्यस् त्वा भराम्य् अह᳓म् ।  
 अस्मि᳓न् सीदन्तु मे पित᳓रस् सोम्याः᳓ ।  
 पितामहाः᳓ प्र᳓पितामहाश् चानुगै᳓स् सह᳓ ॥33॥
-
 </div>
 
 इति सतिलं भुग्नं दक्षिणाग्रं पितृतीर्थेनैव,
@@ -255,13 +245,11 @@ title = "०४ होमः"
 अनुज्ञातः
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
-
 +++(बहु-देवता-सङ्ग्रहात्)+++ सह᳓स्र+++(~अनन्त)+++शीर्षा **पु᳓रुषः**।  
 सहस्राक्षः᳓ सह᳓स्रपात् ।  
 स᳓ +++(वक्ष्यमाणां विराजं)+++ भू᳓मिं विश्व᳓तो **वृत्वा᳓** ।  
 **अ᳓त्यतिष्ठद् दशाङ्गुल᳓म्** । १  
 +++(मुख-मूर्ध्नोर् अन्तरं दशाङ्गुलम्, वाचिक+अव्यक्त-कल्पनयोश् चेति केचित्।)+++
-
 </div>  
 
 > ... गोत्रस्य …... शर्मणः पितुः प्रत्याब्दिकश्राद्धे  
@@ -270,12 +258,10 @@ title = "०४ होमः"
 इति आवाह्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/02_puruSha_evedaM.md">
-
 +++(स्व-शरीरैकदेशेन)+++ **पु᳓रुष** एवे᳓दँ᳓ **स᳓र्वम्** ।  
 य᳓द् भूतं᳓ य᳓च् च भ᳓व्यम्।   
 उत᳓+++(→तथा देवात्मभिः)+++ +अमृतत्व᳓स्ये᳓शानः +++(परमे व्योम्नि)+++ ।  
 य᳓द्+++(→यस्माद्)+++ +++(ब्रह्माण्डरूपेण)+++ अ᳓न्नेन+++(=अशितेन)+++ +**अतिरो᳓हति** । ३
-
 </div>  
 
 "विष्णोर् इदम् आसनम्",  
@@ -321,42 +307,36 @@ title = "०४ होमः"
 [[114]]
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
-
 य᳓न् मे माता᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
 त᳓न् मे रे᳓तः पिता᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।+++(र५)+++  
 अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
-
 </div>  
 
 > … शर्मणे अस्मत्पित्रे स्वाहा ॥ (पित्र इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
-
 या᳓स् ति᳓ष्ठन्ति, या᳓ धा᳓वन्ति,  
 या᳓ आर्द्रोघ्नीः᳓+++(=कूलादिघ्नीः)+++ परितस्थु᳓षीः ।  
 अद्भि᳓र् वि᳓श्वस्य भर्त्री᳓भिर्  
 अन्त᳓र् अन्यं᳓ पितु᳓र् दधे, +++(र५)+++  
 ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
-
 </div>  
 
 > … शर्मणे अस्मत्पित्रे स्वाहा ॥ (पित्र इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
-
 य᳓न् मे पितामही᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
 त᳓न् मे रे᳓तः पितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
 अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
-
 </div>  
 
 > … शर्मणे अस्मत् पितामहाय स्वाहा ॥ (पितामहाय इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 अन्त᳓र् दधे प᳓र्वतैर्  
-अन्त᳓र् [[म᳓ह्या|मह्या᳓]] पृथिव्या᳓ ।  
+अन्त᳓र् मह्या᳓ पृथिव्या᳓ ।  
 आभि᳓र् दिग्भि᳓र् अनन्ता᳓भिर्  
 अन्त᳓र् अन्यं᳓ पितामहा᳓द् दधे  
 ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
@@ -365,24 +345,20 @@ title = "०४ होमः"
 > … शर्मणे अस्मत् पितामहाय स्वाहा ॥ (पितामहाय इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
-
 य᳓न् मे प्रपितामही᳓ प्रलुलो᳓भ+++(~~प्र᳓लुलोभ~~)+++ च᳓रत्य् अ᳓ननुव्रता,  
 त᳓न् मे रे᳓तः प्रपितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
 आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
 अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
-
 </div>  
 
 > … शर्मणे अस्मत्प्रपितामहाय स्वाहा ॥ (प्रपितामहाय इदं न मम)
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
-
 अन्त᳓र्दध ऋतु᳓भिर्  
 अहोरात्रै᳓श् च +++(काल)+++सन्धि᳓भिः ।  
 अर्धमासै᳓श् च मा᳓सैश् च+  
 अन्त᳓र् अन्यं᳓ प्रपितामहा᳓द् दधे  
 अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
-
 </div>  
 
 > … शर्मणे अस्मत्प्रपितामहाय स्वाहा ॥ (प्रपितामहाय इदं न मम)
@@ -525,45 +501,36 @@ title = "०४ होमः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
-
 अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
 यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
 अ᳓ग्ने त᳓दस्य **कल्पय** ।  
 त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
-
 पु᳓रुषसम्मितो यज्ञः᳓ ।  
 यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
 अ᳓ग्ने त᳓दस्य **कल्पय** ।  
 त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
-
 य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
 यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
 अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
 य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
-
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
 य᳓जिष्ठो +++(हविर्)+++व᳓ह्नितमश् शो᳓शुचानो+++(=देदीप्यमानः)+++  
 वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/05_sa_tvaM.md">
-
 स᳓ त्व᳓न् नो अग्ने ऽवमो᳓+++(=मूलभूतो)+++ **भव**+ऊती᳓+++(त्या)+++  
 +++(“अग्निरवमो देवतानां विष्णुः परमः” इति ब्राह्मणम्)+++  
 ने᳓दिष्ठो+++(=अन्तिकतमो)+++ अस्या᳓ उष᳓सो व्यु᳙ष्टौ+++(=व्युष्टायाम्)+++ ।  
@@ -571,7 +538,6 @@ title = "०४ होमः"
 **वीहि᳓**+++(=खाद)+++ मृडीकँ᳓+++(=सुखयितारं [हविः])+++ सुह᳓वो न **एधि** ।
 
 +++(अग्नीवरुणाभ्याम् इदं न मम)+++
-
 </div>
 
 ### व्याहृतिहोमाः
@@ -632,12 +598,10 @@ title = "०४ होमः"
 प्रतिदिशं सकृत् व्युत्सिच्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_09/18_samudraM_vaH.md">
-
 समुद्रं᳓ वः प्र᳓हिणोमि  
 स्वां᳓ यो᳓निम् अ᳓पि **गच्छत** ।  
 अ᳓च्छिद्रः प्रज᳓या **भूयासं**  
 **मा᳓** प᳓रा **सेचि** म᳓त् प᳓यः ॥ (9)
-
 </div>  
 
 आत्मानं प्रोक्षयेत् ॥
@@ -648,12 +612,10 @@ title = "०४ होमः"
 "अग्ने नयेति" उपस्थानम् ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/01_agne_naya.md">
-
 अ᳓ग्ने **न᳓य** सुप᳓था **राये᳓** अस्मा᳓न्  
 वि᳓श्वानि देव वयु᳓नानि+++(=ज्ञानानि)+++ विद्वा᳓न् ।  
 **युयोध्य्**+++(=अपनय)+++ अ᳙स्मज्-जुहुराण᳓म्+++(=कुटिलकारि)+++ ए᳓नो  
 भू᳓यिष्ठान् ते **न᳓म-उक्तिव्ँ विधेम** ॥
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/mantrahInam_hutAshana.md">

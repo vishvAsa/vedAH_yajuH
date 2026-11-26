@@ -112,7 +112,7 @@ Let the Vasus anoint thee with the Gayatri metre.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/23/14_rudrA_s_tvAnjantu.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/23/14_rudrAs_tvAnjantu_traiShTubhena.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रा᳓स् त्वाञ्जन्तु त्रै᳓ष्टुभेन छ᳓न्दसा
@@ -198,14 +198,15 @@ Let the Adityas anoint thee with the Jagati metre.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/7/4/20_ashvopachAro_maraNAt_prAk/07_yad_vAto_apo.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 य᳓द् वा᳓तो अपो᳓ अ᳓गमद् इ᳓न्द्रस्य तनु᳓वम् प्रिया᳓म् ।  
 एतँ᳓ स्तोतर् एते᳓न पथा᳓ पु᳓नर᳓श्वम् आ᳓वर्तयासि नः ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/7/4/20_ashvopachAro_maraNAt_prAk/07_yad_vAto_apo.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 As the wind hath gone to the waters,
@@ -214,10 +215,22 @@ By that path, O praiser,
 Bring back to us the horse.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the wind went to the waters, to the dear body of Indra,  
+by that path, O chanter, make the horse turn back to us again!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यद् वातो॑ अ॒पो अग॑म॒द् इन्द्र॑स्य त॒नुव॑म् प्रि॒याम् ।  
 ए॒तँ स्तो॑तर् ए॒तेन॑ प॒था पुन॒रश्व॒म् आव॑र्तयासि नः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यद्वातो अपो अगमदिन्द्रस्य तन्वं प्रियाम्।  
+एतँ स्तोतरेतेन पथा पुनरश्वमावर्तयासि नः
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,13 +238,39 @@ Bring back to us the horse.
 यत् । वातः॑ । अ॒पः । अग॑मत् । इन्द्र॑स्य । त॒नुव॑म् । प्रि॒याम् ॥ ए॒तम् । स्तो॒तः॒ । ए॒तेन॑ । प॒था । पुनः॑ । अश्व॑म् । एति॑ । व॒र्त॒या॒सि॒ । नः॒ ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वा᳓तो (*MS*-1, *TS*-6, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-4)
+- अपो᳓ (*MS*-4, *TS*-7/8, *TB*-2, *SB-K*-1, *VS-K*-7)
+- अ᳓गमत् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Lanman*, *TS*-1, *SB-K*-2)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- तन्व᳙म् (*MS*-26, *RV*-46, *AV*-30, *SB-M*-4, *SB-K*-7, *VS-M*-9, *VS-K*-9)
+- प्रिया᳓म् (*MS*-4/135, *TS*-4/92, *RV*-4/213, *TB*-1/83, *TK*-0/1, *AV*-2/90, *SB-M*-0/134, *SB-K*-0/141, *VS-M*-1/60, *VS-K*-1/47)
+- एत᳓म् (*MS*-145/2587, *TS*-137/1673, *RV*-34/320, *TB*-91/858, *TK*-21/130, *AV*-57/340, *SB-M*-636/11086, *SB-K*-673/10669, *VS-M*-16/129, *VS-K*-15/104)
+- स्तोत᳓र् (*MW*, *Lanman*, *TS*-0/1, *RV*-0/12, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- एते᳓न (*MS*-126/2587, *TS*-62/1673, *RV*-3/320, *TB*-110/858, *TK*-13/130, *AV*-4/340, *SB-M*-404/11086, *SB-K*-375/10669, *VS-M*-0/129, *VS-K*-1/104)
+- पथा᳓ (*MS*-10, *TS*-15, *RV*-28, *TB*-3, *AV*-9, *SB-M*-8, *SB-K*-9, *VS-M*-3, *VS-K*-3)
+- पु᳓नः (*MS*-190, *TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29)
+- अ᳓श्वम् (*MS*-32/117, *TS*-28/126, *RV*-47/226, *TB*-33/167, *AV*-11/76, *SB-M*-67/262, *SB-K*-63/255, *VS-M*-15/56, *VS-K*-14/52)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वर्तयासि (*TS*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 पथ्या बृहतीयं, तृतीयस्य पादस्य द्वादशाक्षरत्वात् । पुनरिति तस्यान्तः । हे स्तोतः शव्दयितः वायो यत् येन पथा । ' सुपां सुलुक् ' इति लुक् । वातः प्राणाख्या तव वृत्तिः अपः अगमत् अगमयत् । ' बहुलमन्यत्रापि' इति णिलुक् । ' छन्दस्युभयथा ' इत्यार्धधातुकत्वात् शपः । इन्द्रस्य प्रियां तनुवं तनुम् । ' तन्वादीनां छन्दसि ' इत्युवङ् । एतेन पथा एतं अश्वे पुनरस्मान् प्रत्यावर्तयासि । आवर्तयतेर्लेट्याडागमः । (अस्माकं वा) ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[629_9]** So corr. Ch प्रियम् (Thus emended; Ch reads प्रियम्)
+
+- **[629_10]** So corr. Ch श्वसावर्तयामि ; vgl. TS 7, 4, 20; MS 3, 12, 18; VS 23, 7. (Thus emended; Ch reads श्वसावर्तयामि; cf. TS 7, 4, 20; MS 3, 12, 18; VS 23, 7)
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -654,6 +693,18 @@ On either side of the chariot,
 Dark, strong, bearing heroes.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They yoke his two desirable bay horses, on both sides of the chariot,  
+red, daring, carrying men.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+They yoke to his chariot his two beloved bay steeds on either side,  
+red, bold, bearing heroes.
+</details>
+
 <details><summary>मूलम् - शौनकम्</summary>
 
 यु॒ञ्जन्त्य॑स्य॒ काम्या॒ हरी॒ विप॑क्षसा॒ रथे॑।  
@@ -813,6 +864,13 @@ Dark, strong, bearing heroes.
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5इतरयोः पृष्ठे संमृज्येते - युञ्जन्ति युञ्जन्तु अस्य काम्या काम्यौ इष्टौ । कामयतेरचो यत्, 'सुपां सुलुक्' इत्याकारः । हरी अश्वौ विपक्षसा विपक्षसौ उभयोः पक्षयोः स्थितौ । पूर्ववदाकारः । रथे शोणा शोणवर्णौ आलोहितौ धृष्णू धर्षणसमर्थौ शत्रूणां नृवाहसा नॄन् वहन्तीति नृवाहसौ मनुष्यवाहौ । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन् । 'कारकपूर्वात्' इति, णिदिति च तत्रानुवर्तते । पूर्ववदाकारः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[630_1]** So corr. Ch कामा (Thus emended; Ch reads कामा)
+
+- **[630_2]** So corr. Ch धृष्णु (Thus emended; Ch reads धृष्णु)
 </details>
 
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
@@ -1157,6 +1215,11 @@ _________
 इति सप्तमे चतुर्थे विंशोनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. TS 7, 4, 20; MS 3, 12, 18. 19; VS 23, 5-8; RV 1, 6, 1-3.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 आप्त लोग कैसे होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -1233,6 +1296,18 @@ Thou, making light where no light was, and form, O men: where form was not,
 A Making a banner for that which hath none,
 Form for the formless, O ye men,
 Thou wert born with the dawns.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Making a banner for him who has no banner, a form, O mortals, for him who has no form,  
+you were born together with the dawns.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Giving a banner to that without a banner, and a shape, O mortals, to that without shape,  
+you were born together with the dawns.
 </details>
 
 <details><summary>Geldner</summary>

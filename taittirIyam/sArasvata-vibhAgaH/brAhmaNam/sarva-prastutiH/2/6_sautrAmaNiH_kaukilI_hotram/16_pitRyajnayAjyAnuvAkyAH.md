@@ -151,27 +151,56 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/16_pitRyajnayAjyAnuvAkyAH/04_agniShvAttAnRtumato_havAmahe_narAsha.Nse.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 अग्निष्वात्ता᳓नृतुम᳓तो हवामहे ।  
 न᳓राशँ᳓से सोमपीथय्ँ᳓य᳓ आशुः᳓ ।   
 ते᳓ नो अ᳓र्वन्तस्सुह᳓वा भवन्तु ।  
-श᳓न्नो भवन्तु द्विप᳓दे श᳓ञ्च᳓तुष्पदे ।  
+श᳓न्नो भवन्तु द्विप᳓दे श᳓ञ्च᳓तुष्पदे ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/16_pitRyajnayAjyAnuvAkyAH/04_agniShvAttAnRtumato_havAmahe_narAsha.Nse.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अ॒ग्नि॒ष्वा॒त्तानृ॑तु॒मतो॑ हवामहे ।  
 नरा॒शँसे॑ सोमपी॒थय्ँय आ॒शुः ।   
 ते नो॒ अर्व॑न्तस्सु॒हवा॑ भवन्तु ।  
-शन्नो॑ भवन्तु द्वि॒पदे॒ शञ्चतु॑ष्पदे ।  
+शन्नो॑ भवन्तु द्वि॒पदे॒ शञ्चतु॑ष्पदे ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अग्निष्वात्ता᳓न् ऋतुम᳓तो हवामहे न᳓राशँ᳓से सोमपीथँ᳓ य᳓ आशुः᳓  
+ते᳓ नो वि᳓प्रासः सुह᳓वा मृडन्तु शं᳓ नो भवन्तु द्विप᳓दे शं᳓ च᳓तुष्पदे
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 अग्नि-ष्वात्ता᳓न् । ऋतुम᳓तः । हवामहे । न᳓राशं᳓से । सोम-पीथ᳓म् । यः᳓ । आशुः᳓ । ते᳓ । न । उ । अ᳓र्वन्तः । सु-ह᳓वा । भवन्तु । श᳓न्नः । भवन्तु । द्वि-प᳓दे । श᳓म् । च᳓तुः-पदे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अग्नि-ष्वात्ता᳓न् (*TS*-0/1, *TB*-2/8, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-1/7, *VS-K*-1/4, *KS*-1/2)
+- ऋतुम᳓तः (*TB*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- हवामहे (*TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-11, *KS*-7)
+- न᳓राशं᳓से (*TB*-1, *KS*-1)
+- सोम-पीथ᳓म् (*TS*-14/33, *RV*-1/2, *TB*-5/13, *TK*-0/1, *AV*-1/2, *SB-M*-8/14, *SB-K*-8/19, *VS-M*-2/3, *VS-K*-1/3, *KS*-1/4)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- आशुः᳓ (*TS*-8/15, *RV*-8/76, *TB*-4/8, *TK*-1/2, *AV*-3/18, *SB-M*-9/13, *SB-K*-8/13, *VS-M*-7/11, *VS-K*-6/11, *KS*-2/5)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-88/624, *KS*-91/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वि᳓प्रासः (*TS*-0/22, *RV*-28/218, *TB*-0/8, *AV*-5/31, *SB-M*-0/13, *SB-K*-0/11, *VS-M*-2/18, *VS-K*-2/18, *KS*-0/9)
+- सु-ह᳓वा (*TS*-3/9, *RV*-6/30, *TB*-3/4, *AV*-8/17, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/4, *KS*-2/3)
+- मृडन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *AV*-1)
+- श᳓म् (*TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-21, *KS*-13)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-19, *RV*-28, *TB*-6, *AV*-45, *SB-M*-7, *SB-K*-7, *VS-M*-18, *VS-K*-14, *KS*-9)
+- द्वि-प᳓दे (*TS*-7/21, *RV*-11/16, *TB*-6/15, *TK*-1, *AV*-3/23, *SB-M*-6/11, *SB-K*-5/8, *VS-M*-5/10, *VS-K*-3/10, *KS*-4/8)
+- श᳓म् (*TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-21, *KS*-13)
+- च᳓तुः-पदे (*TS*-7/24, *RV*-12/15, *TB*-5/12, *TK*-1, *AV*-4/23, *SB-M*-2/11, *SB-K*-1/14, *VS-M*-9/18, *VS-K*-5/13, *KS*-5/11)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -184,9 +213,14 @@ unicode_script: devanagari
 
 अग्निष्वात्ता अग्निष्वात्त नामकाः पितरः पितृविशेषाः । ते च चातुर्मास्यगतपितृयज्ञब्राह्यणे स्पष्टमभिहिताः - 'ये वा अयज्वानो गृहमेधिनः । ते पितरोऽग्निष्वात्ताः' इति । मनुष्यजन्मन्यग्निष्टोमादियागमकृत्वा स्मार्तकर्मनिष्ठाः सन्तो मृत्वा च पितृत्वं गताः तानग्रिष्वात्तानृतुमत ऋतुरूपेण यज्ञकालेन युक्तान् हवाहमे आह्वयामः । ये पितरो नराशंसे नरैः शंसनीय यज्ञे सोमादिरूपेण सोमपीथं सोमपानमाशुः प्राप्तवन्तः ते पितरो नोऽस्माकं सुहवाः सुखेनाह्वातुं शक्या अर्वन्तः शीघ्रगतिमन्तो भवन्तु । नोऽस्माकं द्विपदे मनुष्याय शं सुखकरा भवन्तु । चतुष्पदे पशवे च शं भवन्तु ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+We invoke the Agniṣvāttas, who keep their seasons, who enjoyed the drinking of Soma at the Narāśaṃsa;  
+may those sages, easily invoked, be gracious to us; may they bring welfare to our two-footed, welfare to our four-footed.
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -413,6 +447,12 @@ satyaíḥ ← satyá- (nominal stem)
 स॒त्यैᳵ क॒व्यैᳶ पि॒तृभि॑र्घर्म॒सद्भिः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ये᳓ तातृषु᳓र् देवत्रा᳓ जे᳓हमाना होत्रावि᳓दः स्तो᳓मतष्टासो अर्कैः᳓  
+आ᳓ग्ने याहि सुविद᳓त्रेभिर् अर्वा᳓क् सत्यैः᳓ कव्यैः᳓ पितृ᳓भिर् घर्मस᳓द्भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । त॒तृ॒षुः । दे॒व॒ऽत्रा । जेह॑मानाः । हो॒त्रा॒ऽविदः॑ । स्तोम॑ऽतष्टासः । अ॒र्कैः ।  
@@ -422,6 +462,26 @@ satyaíḥ ← satyá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ये᳓ । ताः । आतृ । पु᳓र् । देवत्रा᳓ । जे᳓हमानाः । होत्रा । वृ᳓धः । स्तो᳓म-तष्टासः । अर्कैः᳓ । आ᳓ । अग्ने । याहि । सु-विद᳓त्रेभिः । अर्वा᳓ङ् । सत्यैः᳓ । कव्यैः᳓ । पितृ᳓भिः । घर्मस᳓द्भिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- तातृषु᳓र् (*MW*)
+- देवत्रा᳓ (*TS*-15, *RV*-23, *TB*-9, *TK*-5, *AV*-6, *SB-M*-54/55, *SB-K*-57, *VS-M*-10, *VS-K*-8, *KS*-6)
+- जे᳓हमानाः (*TS*-0/1, *RV*-1/4, *TB*-1, *AV*-1, *VS-M*-0/1, *VS-K*-0/1)
+- होत्रा-वि᳓दः (*TS*-0/1, *RV*-1/2, *AV*-1, *SB-M*-0/1)
+- स्तो᳓म-तष्टासः (*RV*-1/3, *TB*-1, *AV*-1)
+- अर्कैः᳓ (*TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-2/6, *KS*-2/10)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- ग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-13, *KS*-5)
+- सु-विद᳓त्रेभिः (*TS*-0/4, *RV*-1/7, *TB*-1, *AV*-1/6, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- अर्वा᳓क् (*TS*-6, *RV*-44, *TB*-2, *TK*-1, *AV*-10, *SB-M*-21, *SB-K*-21, *VS-M*-2, *VS-K*-1/2, *KS*-3)
+- सत्यैः᳓ (*TS*-0/77, *RV*-3/133, *TB*-1/68, *TK*-0/44, *AV*-1/71, *SB-M*-0/187, *SB-K*-0/184, *VS-M*-0/36, *VS-K*-0/41, *KS*-0/24)
+- कव्यैः᳓ (*TS*-1/2, *RV*-3, *TB*-2/3, *KS*-0/1)
+- पितृ᳓भिः (*TS*-7/121, *RV*-9/254, *TB*-2/111, *TK*-0/6, *AV*-10/228, *SB-M*-3/321, *SB-K*-3/317, *VS-M*-2/80, *VS-K*-1/63, *KS*-1/43)
+- घर्मस᳓द्भिः (*RV*-2, *TB*-1, *AV*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -571,6 +631,12 @@ with them, o Agni, drive here, turned this way—with the forefathers who  are g
 
 Come to us, Agni, with the gracioug Fathers who dwell in glowing light, the very Kavyas,  
      Who thirsted mid the Gods, who hasten hither, oblation winners, theme of singers' praises.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who thirsted toward the gods, panting, knowing the invocations, fashioned into praises by songs of praise—  
+O Agni, come hither with the well-knowing, true, poet-like Fathers who sit by the Gharma!
 </details>
 
 <details><summary>Geldner</summary>

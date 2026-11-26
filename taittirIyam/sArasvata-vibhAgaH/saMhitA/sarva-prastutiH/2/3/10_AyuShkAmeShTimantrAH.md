@@ -440,23 +440,36 @@ hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/3/10_AyuShkAmeShTimantrAH/16_ghRtasya_dhArAmamRtasya_panthAmindreNa.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 घृत᳓स्य धा᳓राममृ᳓तस्य प᳓न्थामि᳓न्द्रेण दत्ता᳓म्प्र᳓यताम्मरु᳓द्भिः ।  
 त᳓त्त्वा वि᳓ष्णुᳶ प᳓र्यपश्यत्त᳓त्त्वे᳓डा ग᳓व्यै᳓रयत् ॥
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/3/10_AyuShkAmeShTimantrAH/16_ghRtasya_dhArAmamRtasya_panthAmindreNa.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Stream of ghee, path of ambrosia, Given by Indra, presented by the Maruts, Thee Visnu perceived, Then Ida moved thee in the cow.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stream of ghee, the path of immortality, given by Indra, offered by the Maruts,  
+that Viṣṇu perceived for you; that cow-like Iḍā brought forth for you.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 घृ॒तस्य॒ धारा॑म॒मृत॑स्य॒ पन्था॒मिन्द्रे॑ण द॒त्ताम्प्रय॑ताम्म॒रुद्भिः॑ ।  
 तत्त्वा॒ विष्णु॒ᳶ पर्य॑पश्य॒त्तत्त्वेडा॒ गव्यैर॑यत् ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+घृत᳓स्य धा᳓राममृ᳓तस्य प᳓न्थामि᳓न्द्रेण दत्तं᳓ प्र᳓यतं मरु᳓द्भिः।  
+त᳓त्त्वा वि᳓ष्णुर᳓न्वपश्यत्त᳓त्त्वे᳓डा ग᳓व्यैरयत्
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -464,13 +477,39 @@ Stream of ghee, path of ambrosia, Given by Indra, presented by the Maruts, Thee 
 घृ॒तस्य॑ । धारा॑म् । अ॒मृत॑स्य । पन्था॑म् । इन्द्रे॑ण । द॒त्ताम् । प्रय॑ता॒मिति॒ प्र-य॒ता॒म्॒ । म॒रुद्भि॒रिति॑ म॒रुत्-भिः॒ ॥ तत् । त्वा॒ । विष्णुः॑ । परीति॑ । अ॒प॒श्य॒त्॒ । तत् । त्वा॒ । इडा॑ । गवि॑ । ऐ॒र॒य॒त्॒ ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राम् (*MS*-4/14, *TS*-7/25, *RV*-5/107, *TB*-1/2, *TK*-0/3, *AV*-1/13, *SB-M*-6/41, *SB-K*-6/39, *VS-M*-1/11, *VS-K*-1/10)
+- अमृ᳓तस्य (*MS*-10/84, *TS*-11/65, *RV*-42/187, *TB*-1/49, *TK*-2/39, *AV*-30/97, *SB-M*-4/332, *SB-K*-3/312, *VS-M*-4/64, *VS-K*-5/60)
+- प᳓न्थाम् (*MS*-18/60, *TS*-12/72, *RV*-31/149, *TB*-2/22, *AV*-23/76, *SB-M*-5/46, *SB-K*-8/52, *VS-M*-7/38, *VS-K*-5/35)
+- इ᳓न्द्रेण (*MS*-11/711, *TS*-11/497, *RV*-35/1345, *TB*-7/363, *TK*-0/8, *AV*-31/606, *SB-M*-14/535, *SB-K*-15/509, *VS-M*-7/392, *VS-K*-7/380)
+- दत्त᳓म् (*MS*-2, *TS*-5/6, *RV*-3/5, *TB*-2/3, *AV*-9/22, *SB-M*-3/19, *SB-K*-2/21, *VS-M*-2, *VS-K*-1)
+- प्र᳓-यतम् (*MS*-2/5, *TS*-0/3, *RV*-3/15, *TB*-1/3, *AV*-0/7, *SB-M*-2, *SB-K*-2, *VS-M*-0/2, *VS-K*-0/2)
+- मरु᳓द्भिः (*MS*-13, *TS*-10/12, *RV*-36, *TB*-6, *AV*-9, *SB-M*-7, *SB-K*-6, *VS-M*-6, *VS-K*-5/6)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वि᳓ष्णुः (*MS*-80/186, *TS*-53/151, *RV*-34/79, *TB*-32/53, *AV*-19/45, *SB-M*-87/165, *SB-K*-83/162, *VS-M*-17/58, *VS-K*-11/64)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- अपश्यत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-37, *TS*-54, *RV*-9, *TB*-29, *AV*-5, *SB-M*-50, *SB-K*-39, *VS-M*-2, *VS-K*-2)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- इ᳓डा (*MS*-33/72, *TS*-17/45, *RV*-18/53, *TB*-15/30, *AV*-5/10, *SB-M*-34/66, *SB-K*-25/51, *VS-M*-10/26, *VS-K*-10/42)
+- ग᳓वि (*MS*-2/149, *TS*-2/108, *RV*-7/521, *TB*-0/76, *AV*-1/195, *SB-M*-6/168, *SB-K*-4/149, *VS-M*-1/67, *VS-K*-1/67)
+- ऐरयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-6, *AV*-7, *SB-M*-1, *SB-K*-1)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 त्रिष्टुबियम्, बृहती वा ॥ हे आज्य घृतस्य क्षरितस्य विलीनस्य तव धाराम् । यद्वा - उदकधारां वृष्टिहेतुं अमृतस्य अमृतत्वस्य पन्थां यागद्वारेण प्राप्तिहेतुं इन्द्रेण ईश्वरेण दत्तां उत्पादिताम् । यद्वा - इन्द्रेण यजमानेन देवेभ्यो दत्तां प्रयतां प्रकर्षेणोत्पादितां शोधितां वा मरुद्भिः । तत्तादृक्स्वभावं त्वां विष्णुर्व्यापको यजमानो वा पर्यपश्यत् । तत्तादृशं त्वां इडा पृथिवी गवि ऐरयत् उदयादिक्रमेण ऐरयत् उदपादयत् ॥
 </details>
-</details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[153_3]** Brl ग᳓व्यै᳓रयत्; desgl. Ch und W 1, ohne Accent; T 6 गव्यैरयत; D गव्यैरयम् (Brl ग᳓व्यै᳓रयत्; likewise Ch and W 1, without accent; T 6 गव्यैरयत; D गव्यैरयम्)
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -616,7 +655,34 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_04/02_imamagna_AyuShe.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<details><summary>Whitney</summary>
+
+###### Translation
+5. This one, O Agni, do thou lead for life-time, for splendor, to dear  
+seed, O Varuṇa, Mitra, king! like a mother, O Aditi, yield (*yam*) him  
+refuge; O all ye gods, that he be one reaching old age.
+
+###### Notes
+All the *pada*-mss. read at end of **b** *mitra॰rājan*, as a compound;  
+and SPP. so gives it; the comm. understands *rājan* correctly as an  
+independent word, but perhaps only as he in general is superior to the  
+restraints of the *pada*-readings. Ppp. (in xv.) has *priyo* for *-yam*  
+in **b**. The verse is found also in TS. (ii. 3. 10³), TB. (ii. 7. 7⁵),  
+TA. (ii. 5. 1), and MS. (ii. 3. 4). All these give *kṛdhi* for *naya* at  
+end of **a**; TA. MS. have *tigmám ójas* instead of *priyáṁ rétas* in  
+**b**; TS. TB. MS. read *soma rājan* at end of **b**, while TA. offers  
+instead *sáṁ śiśādhi;* all accent *járadaṣṭis* in **d**, and MS. leaves  
+*asat* at the end unaccented. In śGS. (i. 27), again, is a version of  
+the verse, omitting *naya* in **a**, reading (with MS.) *tigmam ojas*  
+and *soma* in **b**, and having *aditiḥ śarma yaṁsat* in **c**. ⌊Von  
+Schroeder gives the Kaṭha version, *Tübinger Kaṭha-hss.*, p. 72-3.⌋
+</details>
+
+<details><summary>Griffith</summary>
+
+Lead him to life, O Agni, and to splendour, this dear child, Varuna! and thou King Mitra! Give him protection, Aditi! as a mother; All Gods, that his be life of long duration;
+</details>
 
 <details><summary>Keith</summary>
 
@@ -626,15 +692,67 @@ Like a mother, O Aditi, give him protection,
 O ye All-gods, that he may win old age.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - शौनकम्</summary>
+
+इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि ।  
+प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ ।  
+विश्वे॑ देवा॒ जर॑दष्टि॒र्यथाऽस॑त् ॥20॥
+</details>
+
+<details><summary>मूलम् - एकाग्निकाण्डम्</summary>
 
 इ॒मम॑ग्न॒ आयु॑षे॒ वर्च॑से कृधि प्रि॒यँ रेतो॑ वरुण सोम राजन् ।  
 मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा॒ जर॑दष्टि॒र्यथास॑त् ।
 </details>
 
-<details><summary>पद-पाठः</summary>
+<details><summary>पदपाठः</summary>
+
+इ॒मम्। अ॒ग्ने॒। आयु॑षे। वर्च॑से। न॒य॒। प्रि॒यम्। रेतः॑। व॒रु॒ण॒। मि॒त्रऽरा॒ज॒न्। मा॒ताऽइ॑व। अ॒स्मै॒। अ॒दि॒ते॒। शर्म॑। य॒च्छ॒। विश्वे॑। दे॒वाः॒। ज॒रत्ऽअ॑ष्टिः। यथा॑। अस॑त्। २८.५।
+</details>
+
+<details><summary>पद-पाठः (एकाग्निकाण्डम्)</summary>
 
 इ॒मम् । अ॒ग्ने॒ । आयु॑षे । वर्च॑से । कृ॒धि॒ । प्रि॒यम् । रेतः॑ । व॒रु॒ण॒ । सो॒म॒ । रा॒ज॒न् ॥ मा॒ता । इ॒व॒ । अ॒स्मै॒ । अ॒दि॒ते॒ । शर्म॑ । य॒च्छ॒ । विश्वे॑ । दे॒वाः॒ । जर॑दष्टि॒रिति॒ जर॑त्-अ॒ष्टिः॒ । यथा॑ । अस॑त् ॥
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिवी, आयुः
+- शम्भुः
+- भुरिक्त्रिष्टुप्
+- दीर्घायु प्राप्ति सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+बुद्धि से विवाद करे, इसका उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) हे अग्नितत्त्व, (वरुण) हे जलतत्त्व ! (राजन्) हे बड़ी शक्तिवाले (मित्र) चेष्टा करानेवाले प्राणवायु ! (इमम्) इस पुरुष को (आयुषे) आयु [बढ़ाने] के लिये और (वर्चसे) तेज वा अन्न के लिये (प्रियम्) प्रसन्न करनेवाला (रेतः) वीर्य वा सामर्थ्य (नय) प्राप्त करा। (अदिते) हे अदीन वा अखण्ड प्रकृति वा भूमि ! (माता इव) माता के समान (अस्मै) इस जीव को (शर्म) आनन्द (यच्छ) दान कर। (विश्वे) हे सब (देवाः) दिव्य पदार्थ वा महात्माओं ! (यथा) जिससे [यह पुरुष] (जरदष्टिः) स्तुति के साथ प्रवृत्ति वा भोजनवाला (असत्) होवे ॥५॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य अग्नि, जल, वायु और पृथिवी तत्त्वों को प्रयत्नपूर्वक उचित खान-पान ब्रह्मचर्यादि के नियमपालन से अनुकूल रक्खे, जिससे शरीर की पुष्टि और आत्मा की उन्नति करके उत्साही और यशस्वी होवे ॥५॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   टिप्पणी–बम्बई गवर्नमेन्ट पुस्तक की संहिता और पदपाठ में [मित्र–राजन्] एक पद है, परन्तु सायणभाष्य और अन्य दो पुस्तकों में (मित्र राजन्) दो पद हैं, वही हमने लिये हैं ॥ ५–इमम्। प्राणिनम्। अग्ने। हे अग्नितत्त्व। आयुषे। एतेर्णिच्च। उ० २।११८। इति इण् गतौ–उसि। जीवनवर्धनाय। वर्चसे। अ० २।१३।२। तेजसे। अन्नाय। नय। प्रापय। द्विकर्मकः। प्रियम्। इगुपधज्ञाप्रीकिरः कः। पा० ३।१।१३५। इति प्रीङ् प्रीतौ कः। अचि श्नुधातुभ्रुवां० पा० ६।४।७७। इयङादेशः। हितकरम्। रेतः। स्रुरीभ्यां तुट् च। उ० ४।२०२। इति रीङ् क्षरणे–असुन्, तुट् च। शुक्रम्। वीर्यम्। प्रजननसामर्थ्यम्। वरुण। कॄवृदारिभ्य उनन्। उ० ३।५३। इति वृञ् वरणे–उनन्। उत्तमं जलमिति दयानन्दसरस्वती तद्वृत्तौ। अपानवायुः–यथा। ब्रह्माण्डस्थौ गमनागमनशीलौ मित्रावरुणौ प्राणापानौ–इति दयानन्दकृतयजुर्वेदभाष्ये, २।३। तत्संबुद्धौ। मित्र। हे प्राणवायो यथा पूर्वोक्तम्। राजन्। कनिन् युवृषितक्षिराजि०। उ० १।१५६। इति राजृ दीप्तौ, ऐश्वर्ये–कनिन्। राजति=ईष्टे–निघ० २।२१। हे दीप्यमान, हे ऐश्वर्यवत्। मातेव। जननीव। अस्मै। प्राणिने। अदिते। म० ४। हे प्रकृते। भूमे। शर्म। अ० १।२०।३। शॄ हिंसायाम्–मनिन्। गृहम्। निघं० ३।४। सुखम्–निघ० ३।६। यच्छ। देहि। विश्वे। सर्वे। देवाः। दिव्याः पदार्थाः पुरुषा वा। जरदष्टिः। जीर्यतेरतृन्। पा० ३।२।१०४। इति बाहुलकाद् जरतेः स्तुतिकर्मणः–अतृन्। अशू व्याप्तौ, अश भोजने–क्तिन् जरता स्तुत्या सह अष्टिः कार्यव्याप्तिर्भोजनं वा यस्य सः। यथा। येन प्रकारेण। असत्। अस्तेर्लेटि अडागमः। भवेत् ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पाठस्तु - हेऽग्ने! इमं यजमानमायुषे दीर्घायुष्ट्वाय वर्चसे बलाय च कृधि समर्थं कुरु । हे वरुण! प्रियं कृधि अभीष्टं कुरु । हे सोम राजन्! रेतः कृधि प्रजोत्पादनसामर्थ्यं कुरु । हेऽदिते! अस्मै यजमानाय मातेव शर्म यच्छ सुखं देहि । हे विश्वेदेवाः! अयं यजमानः जरदष्टिर्यथा सत् जराप्राप्तिमान्यथा भवति, तथा कुर्वन्तु चिरजीविनं कुर्वन्त्वित्यर्थः ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -652,7 +770,6 @@ O ye All-gods, that he may win old age.
 
 अग्नि-वरुण-सोमादिति-विश्वेभ्यः देवेभ्यः इदन्न मम ।
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -672,7 +789,7 @@ O ye All-gods, that he may win old age.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -685,7 +802,7 @@ O ye All-gods, that he may win old age.
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
 
 <details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
@@ -706,7 +823,7 @@ Agni is full of life; he is full of life through the trees; with this life I mak
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -716,7 +833,7 @@ Agni is full of life; he is full of life through the trees; with this life I mak
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
 
 <details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
@@ -732,7 +849,7 @@ Soma is full of life; he is (full) through the plants;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -742,7 +859,7 @@ Soma is full of life; he is (full) through the plants;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
 
 <details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
@@ -758,7 +875,7 @@ the sacrifice is full of life; it is (full) through the sacrificial fees;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -768,7 +885,7 @@ the sacrifice is full of life; it is (full) through the sacrificial fees;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
 
 <details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
@@ -794,7 +911,7 @@ the Brahman is full of life; that is full of life through the Brahmans;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -805,7 +922,7 @@ the Brahman is full of life; that is full of life through the Brahmans;
 
 </div>
 
-<div class="js_include" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_14/09_devA_AyuShmantaH_amRutena.md">
 
 <details open><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>

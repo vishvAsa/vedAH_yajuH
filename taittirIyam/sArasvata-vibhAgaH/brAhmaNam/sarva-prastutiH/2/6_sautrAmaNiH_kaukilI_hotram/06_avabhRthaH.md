@@ -27,6 +27,12 @@ unicode_script: devanagari
 Gods, Deities, whatever fault of ours have stirred the wrath of Gods, May Agni set me free from that iniquity and all distress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever offense to the gods, O gods, we have committed,  
+may Agni release me from that sin, from every distress!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृ॒मा व॒यम्।  
@@ -135,6 +141,13 @@ Gods, Deities, whatever fault of ours have stirred the wrath of Gods, May Agni s
 देवासः द्योतनात्मका हे देवाः! देवहेडनं देवविषयमनादररूपं यत्पापं वयं सभृत्यपुत्राः चकृम कृतवन्तः । अंहसः अभिभवनस्वभावात् विश्वत्मात्सर्वस्मात् तस्मादेनसः पापात् अग्रिर्मा मां मुञ्चतु मुक्तं करोतु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[571_1]** Die ersten drei Verse accentuirt nach T1 und T7; Weiteres fehlt dort. Auch in W1 finden sich diese drei Verse, doch ohne Accente. (The first three verses accented according to T1 and T7; further details missing there. These three verses are also found in W1, but without accents.)
+
+- **[571_2]** Ch देवासा च°
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - अग्निर्देवता
@@ -199,6 +212,12 @@ Gods, Deities, whatever fault of ours have stirred the wrath of Gods, May Agni s
 <details><summary>Griffith</summary>
 
 If in the day-time or at night we have committed acts of sin, May Vâyu set me free from that iniquity and all distress.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether by day or by night we have committed sins,  
+may Vāyu release me from that sin, from every distress!
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -348,6 +367,12 @@ If in the day-time or at night we have committed acts of sin, May Vâyu set me f
 If when awake or in our sleep we have committed acts of sin, May Sûrya set me free from that iniquity and all distress.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether waking or sleeping we have committed sins,  
+may Sūrya release me from that sin, from every distress!
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 यदि॒ जाग्र॒द् यदि॒ स्वप्न॒ऽएनाँ॑सि चकृ॒मा व॒यम्।  
@@ -451,6 +476,11 @@ If when awake or in our sleep we have committed acts of sin, May Sûrya set me f
 अवस्थाविशेषे कृतात्पाप्मनः सूर्यो मोचकोऽस्तु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[571_3]** T7 स्व᳓प्नमे᳓नांसि ; desgl. W1, ohne Accent; dagegen T1 स्व᳓प्न ए᳓नाँसि (T7 स्व᳓प्नमे᳓नांसि; likewise W1, without accent; on the other hand T1 स्व᳓प्न ए᳓नाँसि)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - सूर्य्यो देवता
@@ -543,18 +573,25 @@ If when awake or in our sleep we have committed acts of sin, May Sûrya set me f
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/06_avabhRthaH/05_yadApo_aghniyA_varuNeti.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 य᳓दा᳓पो अ᳓घ्निया व᳓रुणे᳓ति श᳓पामहे ।  
-त᳓तो वरुण नो मुञ्च ॥29॥  
+त᳓तो वरुण नो मुञ्च ॥29॥
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/06_avabhRthaH/05_yadApo_aghniyA_varuNeti.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यदापो॒ अघ्नि॑या॒ वरु॒णेति॒ शपा॑महे ।  
-ततो॑ वरुण नो मुञ्च ॥29॥  
+ततो॑ वरुण नो मुञ्च ॥29॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यदापो अघ्न्या वरुणेति शपामहे  
+ततो वरुण नो मुञ्च
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -562,13 +599,41 @@ If when awake or in our sleep we have committed acts of sin, May Sûrya set me f
 य᳓दा । अ᳓पो । अ᳓घ्नियाः । व᳓रुण । इ᳓ति । श᳓पामहे । त᳓तः । वरुण । नः । मुञ्च ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓दा (समानान्तर-पाठः (VS-M), *TB*-5, *AV*-1, *SB-M*-6, *SB-K*-19)
+- अ᳓पो (*MS*-1, *RV*-5, *TB*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अघ्न्या᳓ (*MS*-0/3, *RV*-3/9, *AV*-6/14, *SB-M*-1/6, *SB-K*-5, *VS-M*-2, *VS-K*-1)
+- व᳓रुण (*Whitney*, *MS*-3/4, *TS*-1, *RV*-15/18, *TB*-1/3, *TK*-1, *AV*-1, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-4/5)
+- इ᳓ति (*Whitney*, *MS*-1797, *TS*-1796, *RV*-83, *TB*-1138, *TK*-117, *AV*-1303, *SB-M*-9224, *SB-K*-9397, *VS-M*-2, *VS-K*-1)
+- श᳓पामहे (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TS*-1, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- त᳓तः (*MS*-171, *TS*-131, *RV*-23, *TB*-129, *TK*-22, *AV*-76, *SB-M*-425, *SB-K*-387, *VS-M*-22, *VS-K*-18)
+- व᳓रुण (*Whitney*, *MS*-3/4, *TS*-1, *RV*-15/18, *TB*-1/3, *TK*-1, *AV*-1, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-4/5)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मुञ्च (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-5, *RV*-2, *TB*-1, *AV*-36, *SB-M*-3, *SB-K*-3, *VS-M*-9, *VS-K*-5)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 हे वरुण! या आपः सन्ति याश्चाध्निया गावः एतद्द्वयं भूम्यादेरुपलक्षणम् । तेषु सर्वेषु विषयेषु इति अनेन प्रकारेण शपामहे सत्यत्वेन अनृतत्वेन वा शपथं कुर्मः । यत्पापमस्ति हे वरुण! ततः शपथकृतात्पापात् नोऽस्मान् मुञ्च मुक्तान्कुरु ॥
 </details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[571_4]** So corr. Ch निचङ्कुण; vgl. das Folgende. (Thus emended Ch निचङ्कुण; cf. the following.)
+
+- **[571_5]** So corr. Ch याडाव (Thus emended; Ch reads याडाव)
+
+- **[571_6]** So corr. Ch रिषम्पाहि (Thus emended; Ch reads रिषम्पाहि)
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+When we swear, 'O Waters, O inviolable cows, O Varuṇa,'  
+from that, O Varuṇa, release us!
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -841,7 +906,7 @@ As one unfastened from a stake, or cleansed by bathing after toil, As butter whi
 अ᳓गन्म ज्यो᳓तिरुत्तम᳓म् ।
 </details>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/07_agnichayanAngapashusAmidhenyaH/10_u_dvaya_nta.md">
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/07_agnichayanAngapashusAmidhenyaH/10_udvayantamasaspari_pashyanto.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
@@ -849,6 +914,12 @@ We from the darkness,
 Gazing on the higher light,  
 Surya a god among the gods,  
 Have come to the highest light.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Looking up from the darkness to the higher light,  
+we have come to the god Sūrya among the gods, the supreme light.
 </details>
 
 <details><summary>मूलम् - तैत्तिरीयम्</summary>
@@ -865,6 +936,18 @@ Have come to the highest light.
 अग॑न्म॒ ज्योति॑रुत्त॒मम् ॥ 43॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उद्वयं तमसस्परि पश्यन्तो ज्योतिरुत्तरम्।  
+देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तमम्
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+उद्व॒यन्तम॑स॒स्परि॒ पश्य॑न्तो॒ ज्योति॒रुत्त॑रम् ।  
+दे॒वन्दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उदिति॑ । व॒यम् । तम॑सः । परीति॑ । पश्य॑न्तः । ज्योतिः॑ । उत्त॑र॒मित्युत्-त॒र॒म् ॥ दे॒वम् । दे॒व॒त्रेति॑ देव-त्रा । सूर्य॑म् । अग॑न्म । ज्योतिः॑ । उ॒त्त॒ममित्यु॑त्-त॒मम् ॥
@@ -873,6 +956,23 @@ Have come to the highest light.
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उ᳓त् । वय᳓म् । त᳓मसः । प᳓रि । प᳓श्यन्तः । ज्यो᳓तिः । उ᳓त्तरम् । देव᳓म् । देवत्रा᳓ । सू᳓र्यम् । अ᳓गन्म । ज्यो᳓तिः । उत्तम᳓म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- वय᳓म् (*MW*, *MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- त᳓मसः (*MS*-9/52, *TS*-4/33, *RV*-21/113, *TB*-3/13, *AV*-5/52, *SB-M*-10/82, *SB-K*-10/82, *VS-M*-7/22, *VS-K*-6/22)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- प᳓श्यन्तः (*MS*-2/6, *TS*-6/12, *RV*-5, *TB*-2/3, *AV*-0/3, *SB-M*-7/12, *SB-K*-7/10, *VS-M*-4/5, *VS-K*-3/4)
+- ज्यो᳓तिः (*Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- उ᳓त्तरम् (*MS*-23/77, *TS*-20/88, *RV*-7/59, *TB*-11/54, *TK*-0/5, *AV*-12/38, *SB-M*-65/258, *SB-K*-63/235, *VS-M*-6/12, *VS-K*-5/12)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- देवत्रा᳓ (*MS*-14, *TS*-15, *RV*-23, *TB*-9, *TK*-5, *AV*-6, *SB-M*-54/55, *SB-K*-57, *VS-M*-10, *VS-K*-9)
+- सू᳓र्यम् (*MS*-22/143, *TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-8/38, *VS-K*-8/47)
+- अ᳓गन्म (*MS*-6, *TS*-4, *RV*-10, *TB*-3, *TK*-1, *AV*-5, *SB-M*-7, *SB-K*-9, *VS-M*-7, *VS-K*-5)
+- ज्यो᳓तिः (*Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- उत्तम᳓म् (*MS*-28/67, *TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-11/24)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -887,6 +987,21 @@ Have come to the highest light.
 इति तैत्तिरीयब्राह्मणभाष्ये द्वितीयकाण्डे चतुर्थप्रपाठके चतुर्थोऽनुवाकः ॥
 
 तमसस्परि अन्धकारस्योपरि वर्तमानं उत्तरं ज्योतिः उत्कृष्टं प्रकाशं उत्पश्यन्तः उत्कर्षेण वीक्षमाणा वयं देवत्रा देवेषु मध्ये देवं द्योतमानं सूर्यं सूर्यस्वरूपं उत्तमं ज्योतिः अगन्म प्राप्ताः स्मः ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May we go to the supreme light seeing the light above the darkness and the better light of the divine sun.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तमस उपरि स्थितम् उत्तरम् उत्कृष्टं ज्योतिः । देवत्रा 'देवमनुष्य' इत्यादिना सप्तम्यन्तात् त्राप्रत्ययः । देवेषु मध्ये उत्कृष्टज्योतिरित्यन्वय एवम्भूतं सूर्यं देवमुत्पश्यन्त उर्ध्वं पश्यन्तः वयम् उत्तमं ज्योतिर् ब्रह्माख्यम् अगन्म गच्छेम ॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+वयं तमस उत्तरं ज्योतिस् तमसो विनाशकत्वेनोत्कृष्टं सूर्य-संबद्धं ज्योतिर् उत् परि पश्यन्त उत्कर्षेण सर्वतो ऽवलोकयन्तो देवत्रा देवेषु मध्ये सूर्यं देवम् उत्तमं ज्योतिर् उप अगन्म प्राप्ताः स्मः।
 </details>
 </details>
 </div><details><summary>सर्वा अवतारिकाः</summary>

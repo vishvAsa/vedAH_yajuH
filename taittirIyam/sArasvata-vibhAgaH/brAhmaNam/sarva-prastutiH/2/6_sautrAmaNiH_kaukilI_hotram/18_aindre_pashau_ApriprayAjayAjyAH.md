@@ -27,6 +27,18 @@ unicode_script: devanagari
 Kindled is Agni with the brand, yea, kindled well, the excellent. The metre Gâyatrî, the steer of eighteen months, give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled with firewood, well kindled, choice is Agni;  
+the gāyatrī metre, faculty, a three-year-old steer, they placed [as his] vigor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni is kindled, well kindled with firewood, choice;  
+the Gāyatrī metre, faculty, the three-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 समि॑द्धोऽअ॒ग्निः स॒मिधा॒ सुस॑मिद्धो॒ वरे॑ण्यः।  
@@ -39,6 +51,18 @@ Kindled is Agni with the brand, yea, kindled well, the excellent. The metre Gây
 सुष॑मिद्धो॒ वरे॑ण्यः ।  
 गा॒य॒त्री छन्द॑ इन्द्रि॒यम् ।
 त्र्यवि॒र्गौर्वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓मिद्धो अग्निः᳓ समि᳓धा सु᳓समिद्धो व᳓रेण्यः  
+गायत्री᳓ छ᳓न्द इन्द्रियं᳓ त्रिय᳓विर् गौ᳓र् व᳓यो दधुः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+समिद्धो अग्निस्समिधा सुषमिद्धो वरेण्यः।  
+गायत्री छन्द इन्द्रियं त्रियविर्गौर्वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -54,6 +78,38 @@ Kindled is Agni with the brand, yea, kindled well, the excellent. The metre Gây
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स᳓म्-इद्धः । अग्निः᳓ । सम्-इ᳓धा । सु᳓षमिद्धः । व᳓रेण्यः । गायत्री᳓ । छ᳓न्दः । इन्द्रिय᳓म् । त्र्य᳓विः । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म्-इद्धः (*TS*-6/10, *RV*-28/42, *TB*-7/11, *TK*-1/2, *SB-M*-19/39, *SB-K*-14/34, *VS-M*-6/10, *VS-K*-5/9, *KS*-4/9)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- सम्-इ᳓धा (*TS*-7, *RV*-24, *TB*-8, *AV*-8, *SB-M*-10, *SB-K*-11, *VS-M*-7, *VS-K*-6, *KS*-7)
+- सु᳓-समिद्धः (*RV*-1/2, *TB*-1, *VS-M*-1/3, *VS-K*-1/3)
+- व᳓रेण्यः (*TS*-3/11, *RV*-16/38, *TB*-1/2, *AV*-4/8, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-3/10, *VS-K*-3/9, *KS*-1/5)
+- गायत्री᳓ (*TS*-68/82, *RV*-2, *TB*-14/22, *AV*-4/8, *SB-M*-113/142, *SB-K*-109/136, *VS-M*-6/8, *VS-K*-4/5, *KS*-10/12)
+- छ᳓न्दः (*TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89, *KS*-16/30)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+- त्रिय᳓विः (*KS*-1, *MW*)
+- गौः᳓ (*TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/66, *VS-K*-13/64, *KS*-4/37)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म्-इद्धः (*MS*-8/16, *TS*-6/10, *RV*-28/42, *TB*-7/11, *TK*-1/2, *SB-M*-19/39, *SB-K*-14/34, *VS-M*-6/12, *VS-K*-5/9)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- सम्-इ᳓धा (*MS*-13, *TS*-7, *RV*-24, *TB*-8, *AV*-8, *SB-M*-10, *SB-K*-11, *VS-M*-7, *VS-K*-9)
+- सु᳓षमिद्धः (*TB*-1/2)
+- व᳓रेण्यः (*MS*-4/11, *TS*-3/11, *RV*-16/38, *TB*-1/2, *AV*-4/8, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-3/19, *VS-K*-3/17)
+- गायत्री᳓ (*MS*-58/79, *TS*-68/82, *RV*-2, *TB*-14/22, *AV*-4/8, *SB-M*-113/142, *SB-K*-109/136, *VS-M*-6/8, *VS-K*-4/5)
+- छ᳓न्दः (*Whitney*, *MS*-138/416, *TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- त्रिय᳓विः (*MW*, *MS*-1)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -194,6 +250,18 @@ Kindled is Agni with the brand, yea, kindled well, the excellent. The metre Gây
 Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre and the steer of two years’ age give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tanūnapāt of pure vows, and Tanūpā, and Sarasvatī;  
+the uṣṇih metre, faculty, a two-and-a-half-year-old steer, they placed [as his] vigor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Tanūnapāt of pure vows, and Sarasvatī the body-protector;  
+the Uṣṇih metre, faculty, the two-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 तनू॒नपा॒च्छुचि॑व्रतस्तनू॒पाश्च॒ सर॑स्वती।  
@@ -206,6 +274,12 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 त॒नू॒पाच्च॒ सर॑स्वती ।  
 उ॒ष्णिक्छन्द॑ इन्द्रि॒यम् ।
 दि॒त्य॒वाड्गौर्वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓नून᳓पाञ् शु᳓चिव्रतस् तनूपा᳓श् च स᳓रस्वती । *  
+उष्णि᳓क् छ᳓न्द इन्द्रियं᳓ दित्यवा᳓ड् गौ᳓र् व᳓यो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -221,6 +295,22 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓नू-न᳓पात् । शु᳓चि-व्रतः । तनू-पा᳓त् । च । स᳓रस्वती । उष्णि᳓क् । छ᳓न्दः । इन्द्रिय᳓म् । दित्य-वा᳓ट् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓नून᳓पान् → **त᳓नूनपान्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *RV*-0/3, *TB*-0/1, *AV*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- शु᳓चि-व्रतः (*RV*-0/3, *TB*-1/2, *VS-M*-1, *VS-K*-1)
+- तनू-पाः᳓ (*TS*-5/9, *RV*-6/9, *TB*-1/2, *AV*-3/4, *SB-M*-4, *SB-K*-3, *VS-M*-3/4, *VS-K*-1/2, *KS*-2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- स᳓रस्वती (*TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-57/91, *KS*-5/11)
+- उष्णि᳓क् (*TB*-2, *AV*-1, *SB-M*-6, *SB-K*-7, *VS-M*-2, *VS-K*-1)
+- छ᳓न्दः (*TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89, *KS*-16/30)
+- इन्द्रिय᳓म् (*TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83, *KS*-19/55)
+- दित्य-वा᳓ट् (*TS*-3, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1, *KS*-1)
+- गौः᳓ (*TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/66, *VS-K*-13/64, *KS*-4/37)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20, *KS*-1)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -329,6 +419,13 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 तनूनपाच्छब्देन द्वितीयप्रयाजदेव उच्यते । स च शुचिव्रतः शुद्धेन व्रतकर्मणा युक्तः तादृशः तद्रूपात् शरीरप्राप्तिहेतुः । सरस्वती च, उष्णिक्छन्दश्च दित्यवाट्, संवत्सरद्वयोपेतो गौश्च इत्येते देवा इन्द्रियं, वयश्च संपादयन्तु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[576_9]** So corr. Ch पाछुचि, wie VS 21, 13 schreibt, während MS ञ्शुचि° bietet. Im Kâṭh. aber pflegt aus त् + श ein च्छ zu werden. (Thus emended Ch पाछुचि, as VS 21, 13 writes, while MS offers ञ्शुचि°. In the Kāṭh., however, त् + श usually becomes च्छ.)
+
+- **[576_10]** So corr. Ch स्वतीः (Thus emended; Ch reads स्वतीः)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विद्वांसो देवता
@@ -395,6 +492,12 @@ Tanûnapât whose acts are pure, our bodies’ guard Sarasvatî, Ushnihâ metre 
 Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre and the steer of thirty months give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is to be praised with refreshments, Soma the immortal god;  
+the Anuṣṭubh metre, faculty, the five-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 इडा॑भिर॒ग्निरीड्यः॒ सोमो॑ दे॒वोऽअम॑र्त्यः।  
@@ -415,6 +518,12 @@ Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre 
 त्रि॒व॒त्सो गौर्वयो॑ दधुः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इडाभिरग्निरीड्यस्सोमो देवो अमर्त्यः।  
+अनुष्टुप्छन्द इन्द्रियं पञ्चाविर्गौर्वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इडा॑भिः। अ॒ग्निः। ईड्यः॑। सोमः॑। दे॒वः। अम॑र्त्यः। अ॒नु॒ष्टुप्। अ॒नु॒स्तुबित्य॑नुऽस्तुप्। छन्दः॑। इ॒न्द्रि॒यम्। पञ्चा॑वि॒रिति॒ पञ्च॑ऽअविः। गौः। वयः॑। द॒धुः॒। १४।
@@ -428,6 +537,22 @@ Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓डाभिः । अग्निः᳓ । ई᳓ड्यः । सो᳓मः । देवः᳓ । अ᳓मर्त्यः । अनु-ष्टु᳓प् । छ᳓न्दः । इन्द्रिय᳓म् । त्रि-वत्सः᳓ । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓डाभिः (*MS*-3/72, *TS*-1/45, *RV*-6/53, *TB*-5/30, *AV*-0/10, *SB-M*-0/66, *SB-K*-0/51, *VS-M*-7/26, *VS-K*-5/42)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- ई᳓ड्यः (*MS*-9/12, *TS*-6, *RV*-23/39, *TB*-3/5, *TK*-1, *AV*-7/12, *SB-M*-6, *SB-K*-5, *VS-M*-11/12, *VS-K*-8/9)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- अ᳓मर्त्यः (*MS*-8/12, *TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7)
+- अनुष्टु᳓प्छन्दः (*MS*-0/1, *MW*)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- प᳓ञ्चाविः (*MS*-3/4, *TS*-0/2, *TB*-1/2, *SB-M*-1/3, *SB-K*-1/3, *VS-K*-2/7)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -597,6 +722,12 @@ Agni with offerings, meet for praise, and Soma the immortal God, Anushtup metre 
 The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, here a bull in his fourth year, give power and life
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine doors, the great quarters, the divine Brahman Bṛhaspati;  
+the Paṅkti metre, faculty here, the four-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दुरो॑ दे॒वीर्दिशो॑ म॒हीर्ब्र॒ह्मा दे॒वो बृह॒स्पतिः॑।  
@@ -609,6 +740,12 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 ब्र॒ह्मा दे॒वो बृह॒स्पतिः॑ ।  
 प॒ङ्क्तिश्छन्द॑ इ॒हेन्द्रि॒यम् ।
 तु॒र्य॒वाड्गौर्वयो॑ दधुः ॥85॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दुरो देवीर्दिशो महीर्ब्रह्मा देवो बृहस्पतिः।  
+पङ्क्तिश्छन्द इदेन्द्रियं तुर्यवाङ्गौर्वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -624,6 +761,26 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 दु᳓रः । देवीः᳓ । दि᳓शः । महीः᳓ । ब्रह्मा᳓ । देवः᳓ । बृ᳓हस्प᳓तिः । पङ्क्तिः᳓ । छ᳓न्दः । इह᳓ । इन्द्रिय᳓म् । तुर्य-वा᳓ट् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दु᳓रः (*MS*-13, *TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+- दि᳓शः (*MS*-70, *TS*-66, *RV*-10, *TB*-41, *TK*-8, *AV*-36, *SB-M*-206, *SB-K*-196, *VS-M*-24, *VS-K*-25)
+- महीः᳓ (*MS*-5/28, *TS*-2/24, *RV*-29/131, *TB*-3/8, *TK*-0/1, *AV*-10/47, *SB-M*-2/19, *SB-K*-2/19, *VS-M*-4/26, *VS-K*-3/27)
+- ब्रह्मा᳓ (*MS*-16/31, *TS*-10/26, *RV*-24/47, *TB*-25/38, *TK*-1/2, *AV*-21/64, *SB-M*-65/112, *SB-K*-72/113, *VS-M*-9/14, *VS-K*-7/16)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- पङ्क्तिः᳓ (*MS*-11/22, *TS*-21/31, *RV*-0/1, *TB*-6/9, *TK*-1, *AV*-2/5, *SB-M*-20/39, *SB-K*-19/33, *VS-M*-5/6, *VS-K*-3/7)
+- छ᳓न्दः (*Whitney*, *MS*-138/416, *TS*-128/405, *RV*-5/10, *TB*-29/97, *AV*-4/13, *SB-M*-194/445, *SB-K*-193/431, *VS-M*-111/161, *VS-K*-44/89)
+- इदा᳓ (*MS*-1/232, *TS*-0/139, *RV*-16/194, *TB*-0/104, *TK*-0/34, *AV*-1/259, *SB-M*-0/1046, *SB-K*-1/985, *VS-M*-0/65, *VS-K*-0/64)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- तुरि᳓ (*Whitney*)
+- अ᳓वाङ् (*MS*-3, *TS*-3, *TB*-1, *SB-M*-15, *SB-K*-23)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -705,6 +862,13 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 दुरः पञ्चमप्रयाजदेवताः । ताश्च देवीः द्योतमानाः । दिशो दिग्रूपाः । महीर्महत्यः । यश्च ब्रह्मा ब्राह्मणस्वामी बृहस्पतिर्देवः, यदपि पङ्किश्छन्दः, योऽपि सार्धसंवत्सरत्रयोपेतो गौः एते देवा इन्द्रियं, वयश्च दधुः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_1]** So corr. Ch महा ब्रह्मा (Thus emended; Ch reads महा ब्रह्मा)
+
+- **[577_2]** So corr. Ch पाङ्ङ्क्ति° (Thus emended; Ch reads पाङ्ङ्क्ति°)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विद्वांसो देवता
@@ -771,6 +935,12 @@ The Doors divine, the mighty Regions, Brahma, God Brihaspati, The metre Pankti, 
 The two young Darns of lovely form, the deathless Universal Gods, The Trishtup metre, here, a bull in his sixth year, give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two young and well-adorned dawns, the immortal All-Gods;  
+the Triṣṭubh metre, faculty here, the six-year-old bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 उ॒षे य॒ह्वी सु॒पेश॑सा॒ विश्वे॑ दे॒वाऽअम॑र्त्याः।  
@@ -783,6 +953,12 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 विश्वे॑ दे॒वा अम॑र्त्याः ।   
 त्रि॒ष्टुप्छन्द॑ इन्द्रि॒यम् ।
 प॒ष्ठ॒वाद्गौर्वयो॑ दधुः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उषे यह्वी सुपेशसा विश्वे देवा अमर्त्याः।  
+त्रिष्टुप्छन्द इहेन्द्रियं पष्ठवाङ्गौर्वयो दधुः
 </details>
 
 <details><summary>पदपाठः - दयानन्दादि</summary>
@@ -798,6 +974,21 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 उषे᳓ । यह्वी᳓ । सु-पे᳓शसा । वि᳓श्वे । देवाः᳓ । अ᳓मर्त्याः । त्रि-ष्टु᳓प् । छं᳓दः । इन्द्रिय᳓म् । पष्ठ-वा᳓त् । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उषे᳓ (*MS*-1/6, *TS*-0/3, *RV*-0/54, *TB*-3/8, *AV*-0/12, *SB-M*-0/4, *SB-K*-0/3, *VS-M*-3/7, *VS-K*-5/7)
+- यह्वी᳓ (*MS*-1/2, *TS*-1, *RV*-7/21, *TB*-1, *VS-M*-1, *VS-K*-1)
+- सु-पे᳓शसा (*MS*-6/10, *TS*-0/1, *RV*-5/18, *TB*-4/6, *AV*-0/2, *VS-M*-6, *VS-K*-6)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अ᳓मर्त्याः (*MS*-1/12, *TS*-0/7, *RV*-3/56, *TB*-1/7, *TK*-0/1, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/4, *VS-K*-0/7)
+- त्रि-ष्टुप्छंदः᳓ (समासस्य पा॰ ६.१.२२३)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- प᳓ष्ठवाङ्गौर्वयो (अनाम्नातम् (अनुमानम्))
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -895,6 +1086,11 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 उषे षष्ठप्रयाजदेवते । यह्वी प्रयतमाने । सुपेशसा शोभमानरूपे । ईदृश्यौ ये देव्यौ, ये चामर्त्या मरणधर्मरहिता विश्वे देवाः, यच्च त्रिष्टुप्छन्दः, योऽपि संवत्सरचतुष्टयोपेतो गौः एते देवा इन्द्रियं वयश्च दधुः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_3]** So corr. Ch उषी; cf. MS 3, 11, 11; VS 21, 17. (Thus emended; Ch reads उषी; cf. MS 3, 11, 11; VS 21, 17)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा देवताः
@@ -959,6 +1155,12 @@ The two young Darns of lovely form, the deathless Universal Gods, The Trishtup m
 <details><summary>Griffith</summary>
 
 The two celestial Hotars, both Physicians, Indra's close-knit friends, The metre Jagatî, an ox who draws the wain, give power and life!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two divine Hotṛs, the physicians, joined with Indra as an ally;  
+the Jagatī metre, faculty, the draft-ox, [and] vitality have bestowed [it].
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1123,6 +1325,12 @@ The two celestial Hotars, both Physicians, Indra's close-knit friends, The metre
 <details><summary>Griffith</summary>
 
 The Three, Ida, Sarasvatî, and Bhâratî, the Marut folk, Virâj the metre, here, a cow in milk, a bull, give power and life!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three: Iḍā, Sarasvatī, and Bhāratī; the Maruts, the clans;  
+the Virāj metre, faculty here, like a milch-cow, [and] vitality have bestowed [it].
 </details>
 
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
@@ -1290,6 +1498,18 @@ The Three, Ida, Sarasvatî, and Bhâratî, the Marut folk, Virâj the metre, her
 Tvashtar the wondrous, full of seed, Indrâgnî furtherers of weal, Dvipadâ metre, and a cow and vigorous bull give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭar, vigorous, wondrous, Indra-Agni, increasers of nourishment;  
+the dvipadā metre, faculty, like a bull, they placed [as his] vigor.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Tvaṣṭṛ, the wondrous swift one; Indra-and-Agni, who increase nourishment;  
+the Dvipadā metre, faculty, like a bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 त्वष्टा॑ तु॒रीपो॒ऽअद्भु॑तऽइन्द्रा॒ग्नी पु॑ष्टि॒वर्ध॑ना।  
@@ -1396,6 +1616,11 @@ Tvashtar the wondrous, full of seed, Indrâgnî furtherers of weal, Dvipadâ met
 त्वष्टा नवमप्रयाजदेवः । स च तुरीपः शीघ्रप्राप्तिमान् अद्भुत आश्चर्यविग्रहः तादृशो यो देवः, यौ च पुष्टिवर्धना पुष्टिं वर्धयितरौ ताविन्द्राग्नी, यदपि द्विपात् पादद्वयोपेतं छन्दः, उक्षा गौर्न सेचनसमर्थो गौरपि यो विद्यते, ते देवा इह कर्मणि इन्द्रियं वयश्च दधुः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[577_4]** So corr. Ch पुष्टिर्वर्धना (Thus emended; Ch reads पुष्टिर्वर्धना)
+</details>
+
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - विश्वेदेवा देवताः
@@ -1499,6 +1724,12 @@ Tvashtar the wondrous, full of seed, Indrâgnî furtherers of weal, Dvipadâ met
 With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Brihat, and a steer and bull give power and life!
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hail! May Varuṇa of good dominion make the sacrifice a medicine;  
+the Aticchandas, great faculty, the bull, [and] vitality have bestowed [it].
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 स्वाहा॑ य॒ज्ञं वरु॑णः। सुक्ष॒त्रो भे॑ष॒जं क॑रत्।  
@@ -1519,6 +1750,12 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 बृ॒हदृ॑ष॒भो गौर्वयो॑ दधुः ॥ 87॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्वाहा यज्ञं वरुणस्सुक्षत्रो भेषजं करत्।  
+अतिच्छन्द इन्द्रियं बृहद्वृषभो गौर्वयो दधुः
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स्वाहा॑। य॒ज्ञम्। वरु॑णः। सु॒क्ष॒त्र इति॑ सुऽक्ष॒त्रः। भे॒ष॒जम्। क॒र॒त्। अति॑च्छन्दा॒ इत्यति॑ऽछन्दाः। इ॒न्द्रि॒यम्। बृ॒हत्। ऋ॒ष॒भः। गौः। वयः॑। द॒धुः॒। २२।
@@ -1532,6 +1769,23 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 स्वा᳓हा । यज्ञ᳓म् । व᳓रुणः । सु-क्षत्रः᳓ । भेषज᳓म् । करत् । अ᳓ति-छन्दाः । छ᳓न्दः । इन्द्रिय᳓म् । बृह᳓त् । ऋषभः᳓ । गौः᳓ । व᳓यः । दधुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्वा᳓हा (*Whitney*, *MS*-536, *TS*-875, *RV*-19, *TB*-411, *TK*-98, *AV*-171, *SB-M*-480, *SB-K*-444, *VS-M*-591, *VS-K*-480)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- सु-क्षत्रः᳓ (*MS*-1, *RV*-2/7, *TB*-3, *VS-M*-1, *VS-K*-1)
+- भेषज᳓म् (*MS*-34/38, *TS*-25/26, *RV*-14/21, *TB*-33/37, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21)
+- क᳓रत् (*MS*-6/7, *TS*-5, *RV*-12/14, *TB*-1/2, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-6/8, *VS-K*-3/6)
+- अ᳓तिच्छन्दः (*MW* ŚBr., *TS*-0/6, *SB-M*-0/5, *SB-K*-0/5, *VS-K*-0/2)
+- इन्द्रिय᳓म् (*MS*-137/243, *TS*-133/191, *RV*-26/41, *TB*-145/217, *TK*-0/1, *AV*-10/21, *SB-M*-66/99, *SB-K*-66/98, *VS-M*-86/106, *VS-K*-67/83)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- वृषभः᳓ (*MS*-15/25, *TS*-7/15, *RV*-80/149, *TB*-6/17, *AV*-20/37, *SB-M*-6/11, *SB-K*-3/7, *VS-M*-6/12, *VS-K*-7/11)
+- गौः᳓ (*MS*-36/149, *TS*-32/108, *RV*-19/521, *TB*-24/76, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-12/67, *VS-K*-13/67)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>उवट-टीका</summary>
@@ -1588,6 +1842,11 @@ With Svâhâ mighty Varuna give healing power to Sacrifice! The Atichhandas, Bri
 इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके षष्ठप्रपाठकेऽष्टादशोऽनुवाकः ॥
 
 वसन्ताख्येनर्तुदेवेन सहिता वसवो देवा इन्द्रे हविरिदं समर्प्यमाणं वय आयुष्यं च दधुः संपादितवन्तः । कीदृशं हविः? त्रिवृदाख्येन स्तोमेन स्तुतम् । तथा तेजसा तेजस्विना रथंतराख्येन साम्ना स्तुतम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. Mâitr. S. 3, 11, 11; VS 21, 12–22; TBr. 2, 6, 18.
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

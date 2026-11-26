@@ -7,7 +7,6 @@ title = "दर्शादि-तर्पणम्"
 पादौ प्रक्षाल्य, आचम्य आसीनः पवित्रपाणिः त्रिः प्राणान् आयम्य, 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
@@ -24,6 +23,7 @@ title = "दर्शादि-तर्पणम्"
 दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
 
 </details>
+
 
 <details><summary>English</summary>
 
@@ -53,11 +53,13 @@ y los medios de alcanzarlo).
 (Un śeṣa **es** aquel que **existe** únicamente para los propósitos de otro. Ese otro **es** Śeṣī.)
 </details>
 
+
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
+
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
@@ -88,11 +90,9 @@ y los medios de alcanzarlo).
 वृणीमहे - शरणत्वेन ऎऩ्ऱु शेषम्। इङ्गु ‘दम्पती’ऎऩ्ऱु तत्त्वमुम्, ‘वृणीमहे’ ऎऩ्ऱु प्रपत्तिरूपोपायमुम्, ‘जगतां पती’ ऎऩ्ऱु कैङ्कर्य-प्रतिसम्बन्धित्व-रूप-शेषित्वेन सिद्धोपायमुम् सॊल्लप्पडुगैयाल् इप् प्रबन्धार्थमाऩ तत्व-हित-पुरुषार्थङ्गळ् सूचितङ्गळ्।  
 अऩ्ऱिक्के जगतां पती ऎऩ्गिऱ इडत्तिलेये चेतनाचेतन-समुदायरूपमाऩ जगत्तिऱ्कु स्वरूपमाऩ भगवच्छेषत्वमुम् षष्ठ्यर्थमागत् तोऩ्ऱुगैयाल् रहस्यत्रयत्तिऩ् सारार्थङ्गळाऩ स्वरूपोपाय-पुरुषार्थङ्गळ् ‘‘जगतां पती’’, ‘‘वृणीमहे’’, ऎऩ्गिऱ इव्वळविले सूचितङ्गळॆऩ्ऩवुमाम्। विषयाद्यनुबन्धिचतुष्टयमुम् इप् पदङ्गळिलेये सुव्यक्तम्। 
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वशेषभूतेन मया  
@@ -106,11 +106,9 @@ y los medios de alcanzarlo).
 स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
 विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
 </details>
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
@@ -126,7 +124,6 @@ y los medios de alcanzarlo).
 प्रसन्नवदनं द्यायेत्  
 सर्वविघ्नोपशान्तये ॥
 </details>
-
 </div>
 
 इत्य् अनुसन्धाय, **प्राचीनावीती**, 
@@ -150,12 +147,10 @@ y los medios de alcanzarlo).
 पूर्व-दर्भेषु (भुग्ने), 
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
-
 आया॑त पितरस् सो॒म्या  
 ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
 प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
 दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥
-
 </div>  
 
 > .... गोत्रान् .... शर्मणः  
@@ -165,12 +160,10 @@ y los medios de alcanzarlo).
 इति तिलैर् आवाह्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
-
 सकृदाच्छिन्नं᳓ बर्हि᳓र् ऊ᳓र्णा-मृदु ।  
 स्योनं᳓ पितृ᳓भ्यस् त्वा भराम्य् अह᳓म् ।  
 अस्मि᳓न् सीदन्तु मे पित᳓रस् सोम्याः᳓ ।  
 पितामहाः᳓ प्र᳓पितामहाश् चानुगै᳓स् सह᳓ ॥33॥
-
 </div>
 
 > .. गोत्राणां .... शर्मणां ...  
@@ -194,12 +187,10 @@ y los medios de alcanzarlo).
 पश्चिम-दर्भेषु,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pitaraH/Rk/AyAta_pitaraH.md">
-
 आया॑त पितरस् सो॒म्या  
 ग॑म्भी॒रैः प॒थिभिः॑ पू॒र्व्यैः ।  
 प्र॒जाम् अ॒स्मभ्यं॑ ददतो+++(=ददत + उ)+++ र॒यिञ् च॑  
 दीर्घायु॒त्वं च॑ श॒तशा॑रदं च ॥
-
 </div>  
 
 > ... गोत्रान् ... शर्मणः वसुरुद्रादित्यस्वरूपान् अस्मन्मातुः पितृपितामहप्रपितामहान् आवाहयामि । 
@@ -207,12 +198,10 @@ y los medios de alcanzarlo).
 इति तिलैरावाह्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/04/90_sakRdAchChinnaM_barhir.md">
-
 सकृदाच्छिन्नं᳓ बर्हि᳓र् ऊ᳓र्णा-मृदु ।  
 स्योनं᳓ पितृ᳓भ्यस् त्वा भराम्य् अह᳓म् ।  
 अस्मि᳓न् सीदन्तु मे पित᳓रस् सोम्याः᳓ ।  
 पितामहाः᳓ प्र᳓पितामहाश् चानुगै᳓स् सह᳓ ॥33॥
-
 </div>
 
 > .. गोत्राणां .... शर्मणां ... वसुरुद्रादित्यस्वरूपाणाम् अस्मन्मातुःपितृपितामप्रपितामहानाम् इदमासनम्, 
@@ -232,12 +221,10 @@ y los medios de alcanzarlo).
 सव्यं जान्व् आच्य, पूर्वदर्भेषु,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
-
 उ᳓द् ईरताम् अ᳓वर उ᳓त् प᳓रास  
 उ᳓न् मध्यमाः᳓ पित᳓रः सोमिया᳓सः  
 अ᳓सुं य᳓ ईयु᳓र् अवृका᳓ ऋतज्ञा᳓स्  
 ते᳓ नो अवन्तु पित᳓रो ह᳓वेषु
-
 </div>  
 
 > ....गोत्रान् .... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
@@ -245,12 +232,10 @@ y los medios de alcanzarlo).
 इति त्रिः तिलोदकं दत्त्वा ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md">
-
 अ᳓ङ्गिरसो नः पित᳓रो न᳓वग्वा  
 अ᳓थर्वाणो भृ᳓गवः सोमिया᳓सः  
 ते᳓षां वयं᳓ सुमतउ᳓ यज्ञि᳓यानाम्  
 अ᳓पि भद्रे᳓ सौमनसे᳓ सियाम
-
 </div>
 
 > ... गोत्रान् ... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
@@ -266,21 +251,7 @@ y los medios de alcanzarlo).
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </div>
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मत्पितॄन् स्वधा नमस्तर्ययामि । 
@@ -422,12 +393,10 @@ y los medios de alcanzarlo).
 पश्चिमदर्भेषु
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/015/01_udIratAmavara_utparAsa.md">
-
 उ᳓द् ईरताम् अ᳓वर उ᳓त् प᳓रास  
 उ᳓न् मध्यमाः᳓ पित᳓रः सोमिया᳓सः  
 अ᳓सुं य᳓ ईयु᳓र् अवृका᳓ ऋतज्ञा᳓स्  
 ते᳓ नो अवन्तु पित᳓रो ह᳓वेषु
-
 </div>  
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 
@@ -435,12 +404,10 @@ y los medios de alcanzarlo).
 इति त्रिः तिलोदकं दत्त्वा ।
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/014/06_angiraso_naH.md">
-
 अ᳓ङ्गिरसो नः पित᳓रो न᳓वग्वा  
 अ᳓थर्वाणो भृ᳓गवः सोमिया᳓सः  
 ते᳓षां वयं᳓ सुमतउ᳓ यज्ञि᳓यानाम्  
 अ᳓पि भद्रे᳓ सौमनसे᳓ सियाम
-
 </div>
 
 > .... गोत्रान् .... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 
@@ -456,21 +423,7 @@ y los medios de alcanzarlo).
 अधि॑ ब्रुवन्तु॒ ते᳖ अवन्त्व् अ॒स्मान् ॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
-
-आय॑न्तु नः पि॒तर॑स्सो॒म्यासौ॑ऽग्निष्वा॒त्ताः प॒थिर्भिर्देव॒यानैः॑ ।  
-अ॒स्मिन् य॒ज्ञे स्व॒धया॑ मद॒न्त्वधि॑ ब्रुवन्तु॒ ते अव॑न्त्व॒स्मान् ॥
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/19/58_A_yantu.md)
-</details>
-
-<details><summary>टीका</summary>
-
-[MS](/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md)
-</details>
-</details>
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/58_A_yantu.md" unfilled newLevelForH1="6" title="सर्वाष् टीकाः"> </div>
 </div>
 
 > ...गोत्रान् ... शर्मणः वसुरूपान् अस्मन्मातुःपितॄन् स्वधा नमस्तर्ययामि । 

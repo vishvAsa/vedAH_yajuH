@@ -742,7 +742,7 @@ _________________
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -752,7 +752,7 @@ _________________
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_ya_tte_devA.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
 <details><summary>Keith</summary>
 
 What the gods placed.

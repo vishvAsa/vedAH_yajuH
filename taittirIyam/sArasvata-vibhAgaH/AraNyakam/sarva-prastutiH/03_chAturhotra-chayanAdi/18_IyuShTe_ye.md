@@ -307,7 +307,7 @@ _________
 They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 
 <details open><summary><h2>07-13 …{Loading}…</h2></summary>
 <details><summary>Jamison Brereton Notes</summary>
@@ -345,6 +345,11 @@ Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetz
 <details><summary>त्रिभुवनः</summary>
 
 Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ये मर्त्यासो मनुष्या व्युच्छन्तीं प्रभातं कुर्वतीमुषसमुषःकालदेवतां पूर्वतरामितरेभ्योऽत्यन्तं पूर्वामपश्यन्पश्यन्ति, ते मनुष्या ईयुस्तां देवतां प्राप्नुवन्ति । (सा)अस्माभिरू नु अस्माभिरपि नु क्षिप्रं प्रतिचक्ष्याऽभूत्प्रत्यक्षं दर्शनीयाऽभूत् । येऽन्येऽप्यपरीष्वपररात्रिषु रात्रीणामवसानेषु पश्यान्पश्यन्ति ते ओ यन्ति तेऽपि तां देवतां सर्वथा प्राप्नुवन्ति ॥
 </details>
 
 <details><summary>Grassmann</summary>
@@ -408,12 +413,3 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
 </details>
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-ये मर्त्यासो मनुष्या व्युच्छन्तीं प्रभातं कुर्वतीमुषसमुषःकालदेवतां पूर्वतरामितरेभ्योऽत्यन्तं पूर्वामपश्यन्पश्यन्ति, ते मनुष्या ईयुस्तां देवतां प्राप्नुवन्ति । (सा)अस्माभिरू नु अस्माभिरपि नु क्षिप्रं प्रतिचक्ष्याऽभूत्प्रत्यक्षं दर्शनीयाऽभूत् । येऽन्येऽप्यपरीष्वपररात्रिषु रात्रीणामवसानेषु पश्यान्पश्यन्ति ते ओ यन्ति तेऽपि तां देवतां सर्वथा प्राप्नुवन्ति ॥
-</details>
-</details>
-

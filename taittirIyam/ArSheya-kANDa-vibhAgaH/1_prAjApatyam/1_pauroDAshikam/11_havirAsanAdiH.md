@@ -399,15 +399,16 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/10_gandharvo-si_vishvAvasur_vishvasmAd.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 +++(मध्यम-परिधे!)+++ गन्धर्वो᳙ऽसि विश्वा᳓वसु᳓र्,  
 वि᳓श्वस्माद् ई᳓षतो᳓+++(=ईषमानात् = हिंसकाद्)+++ य᳓जमानस्य परिधि᳓र्,  
-इड᳓+++(=इड्-वान् = अन्नवान्)+++ ईडितः᳓+++(=स्तुतः)+++। 
+इड᳓+++(=इड्-वान् = अन्नवान्)+++ ईडितः᳓+++(=स्तुतः)+++।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/1_darshapUrNamAsAdi/11_havirAsanAdiH/10_gandharvo-si_vishvAvasur_vishvasmAd.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Thou art the Gandharva, Viśvavasu (possessing all wealth),  
@@ -415,12 +416,18 @@ the fence of the sacrificer from every attacker,
 praised and to be praised.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the gandharva Viśvāvasu, fleeing from everyone;  
+the encircling stick of the sacrificer, praised with the milk-offering.
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 ग॒न्ध॒र्वो॑ऽसि वि॒श्वाव॑सुर्विश्व॑स्मा॒दीष॑तो यज॑मानस्य परि॒धिरि॒ड ई॑डि॒तः
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ग॒न्ध॒र्वो॑ऽसि   
 वि॒श्वाव॑सुः  …   
@@ -428,9 +435,28 @@ praised and to be praised.
 इ॒ड ई॑डि॒तः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+गन्धर्वो᳙ ऽसि विश्वा᳓वसुर् वि᳓श्वस्माद् ई᳓षमाणस्  
+य᳓जमानस्य परिधि᳓र् इड᳓ ईडित᳓स्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ग॒न्ध॒र्वः । अ॒सि॒ । वि॒श्वाव॑सु॒रिति॑ वि॒श्व-व॒सुः॒ । विश्व॑स्मात् । ईष॑तः । यज॑मानस्य । प॒रि॒धिरिति॑ परि-धिः । इ॒डः । ई॒डि॒तः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- गन्धर्वः᳓ (*TS*-19/30, *RV*-11/20, *TB*-1, *AV*-10/32, *SB-M*-17/46, *SB-K*-15/45, *VS-M*-12/15, *VS-K*-12/15, *KS*-1/2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- विश्व᳓-वसुः (*TS*-4, *RV*-1/3, *TB*-1, *AV*-0/1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- वि᳓श्वस्मात् (*TS*-1/283, *RV*-36/1116, *TB*-0/125, *TK*-0/124, *AV*-27/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-0/214, *VS-K*-0/214, *KS*-2/118)
+- ई᳓षमाणः (*RV*-1/3, *VS-M*-0/1, *VS-K*-0/1)
+- य᳓जमानस्य (*TS*-57/419, *RV*-16/63, *TB*-25/267, *TK*-0/1, *AV*-7/46, *SB-M*-77/614, *SB-K*-80/631, *VS-M*-10/52, *VS-K*-11/56, *KS*-9/53)
+- परि-धिः᳓ (*TS*-3/26, *RV*-2/11, *TB*-0/17, *AV*-5/10, *SB-M*-3/64, *SB-K*-3/58, *VS-M*-3/8, *VS-K*-3/12, *KS*-0/4)
+- इडः᳓ (*TS*-10, *RV*-12, *TB*-9, *AV*-3, *SB-M*-4/5, *SB-K*-5, *VS-M*-5, *VS-K*-4/7)
+- ईडितः᳓ (*TS*-4/5, *RV*-9, *TB*-5/7, *AV*-1, *SB-M*-4/7, *SB-K*-4/6, *VS-M*-6/8, *VS-K*-4/13)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -444,6 +470,7 @@ praised and to be praised.
 किञ्च - इडन्नं पशवश्च तद्वान् इडः, तत्साधनत्वात् । अर्श आदित्वादच् (पा.सू. 5.2.127) । अत एव सर्वैरीडितस्स्तुतः ॥
 </details>
 </details>
+</div>
 
 ____
 
@@ -680,6 +707,12 @@ br̥hántam ← br̥hánt- (nominal stem)
 अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वीतिहोत्रं त्वा कवे द्युमन्तस्समिधीमहि।  
+अग्ने बृहन्तमध्वरे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वी॒तिऽहो॑त्रम् । त्वा॒ । क॒वे॒ । द्यु॒ऽमन्त॑म् । सम् । इ॒धी॒म॒हि॒ ।  
@@ -699,6 +732,19 @@ br̥hántam ← br̥hánt- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वी॒तिहो॑त्र॒मिति॑ वी॒ति-हो॒त्र॒म् । त्वा॒ । क॒वे॒ । द्यु॒मन्त॒मिति॑ द्यु-मन्त॑म् । समिति॑ । इ॒धी॒म॒हि॒ । अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वीति᳓-होत्रम् (*TS*-1/2, *RV*-2/4, *TB*-1, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1, *VS-K*-1, *MS*-0/1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- कवे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-26, *TB*-2, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2)
+- द्युम᳓न्तः (*MS*-2/5, *TS*-1/5, *RV*-4/20, *TB*-0/1, *AV*-3/5, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/2, *VS-K*-0/2)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इधीमहि᳓ (*AV*-1, *SB-M*-5, *SB-K*-7)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- बृह᳓न्तम् (*MS*-11/14, *TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7)
+- अध्वरे᳓ (*MS*-7/44, *TS*-2/27, *RV*-68/196, *TB*-5/25, *TK*-2, *AV*-7/22, *SB-M*-7/71, *SB-K*-9/68, *VS-M*-3/29, *VS-K*-2/22)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -946,6 +992,12 @@ O Agni, thee that art mighty at the sacrifice.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Thee, Sage, who offerest to Gods their banquet, we will enkindle till thou shinest brightly, thee mighty in the sacrifice, O Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As an invoker of the banquet, O seer, we, radiant, would kindle you,  
+O Agni, great in the rite!
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -172,14 +172,113 @@ As to that this is (said):—
 हृति᳓ प्रदी᳓ष्या कव᳓यो मनीषे᳓ति ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/129/04_kAmastadagre_samavartatAdhi.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>अधिमन्त्रम् - sa</summary>
 
-<details><summary>त्रिभुवनः</summary>
-
-2\. Kāma (Desire) came forth in the very beginning, which was the first (flow of) semen of the mind (1). The intelligent sages, deciding in their hearts, found the relation of the being (sat) in the non-being (asat).
+- देवता - भाववृत्तं
+- ऋषिः - प्रजापतिः परमेष्ठी
+- छन्दः - त्रिष्टुप्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Thomson & Solcum</summary>
+
+का᳓मस् त᳓द् अ᳓ग्रे स᳓म् अवर्तता᳓धि  
+म᳓नसो रे᳓तः प्रथमं᳓ य᳓द् आ᳓सीत्  
+सतो᳓ ब᳓न्धुम् अ᳓सति नि᳓र् अविन्दन्  
+हृदि᳓ प्रती᳓ष्या कव᳓यो मनीषा᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+ádhi ← ádhi (invariable)  
+{}
+
+ágre ← ágra- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avartata ← √vr̥t- (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
+
+kā́maḥ ← kā́ma- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ā́sīt ← √as- 1 (root)  
+{number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+mánasaḥ ← mánas- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+prathamám ← prathamá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+rétaḥ ← rétas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ásati ← ásant- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+avindan ← √vid- 1 (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+
+bándhum ← bándhu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+nís ← nís (invariable)  
+{}
+
+satáḥ ← √as- 1 (root)  
+{case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+
+hr̥dí ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+manīṣā́ ← manīṣā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pratī́ṣyā ← √iṣ- 2 (root)  
+{non-finite:CVB}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।  
+स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॑ ।
+मन॑सो॒ रेत॑ᳶ प्रथ॒मय्ँयदासी॑त् ।
+स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन् ।
+हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
 
 काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॑ ।  
 मन॑सो॒ रेतः॑ प्रथ॒मय्ँयदासी॑त् । [89]  
@@ -187,18 +286,257 @@ As to that this is (said):—
 हृ॒ति प्र॒दीष्या॑ क॒वयो॑ मनी॒षेति॑ ।
 </details>
 
+<details><summary>पद-पाठः</summary>
+
+कामः॑ । तत् । अग्रे॑ । सम् । अ॒व॒र्त॒त॒ । अधि॑ । मन॑सः । रेतः॑ । प्र॒थ॒मम् । यत् । आसी॑त् ।  
+स॒तः । बन्धु॑म् । अस॑ति । निः । अ॒वि॒न्द॒न् । हृ॒दि । प्र॒ति॒ऽइष्य॑ । क॒वयः॑ । म॒नी॒षा ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *kāmas* ← *kāmaḥ* ← *kāma*
+- \[noun\], nominative, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+
+_________
+
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *agre* ← *agra*
+- \[noun\], locative, singular, neuter
+- “tip; beginning; peak; end; front; top; beginning; battlefront; agra
+    \[word\]; acme; fingertip; top; best; optimum; climax; matter;
+    glans.”
+
+_________
+
+- *sam*
+- \[noun\], nominative, singular, masculine
+- “sam; together; together; saṃ.”
+
+_________
+
+- *avartatādhi* ← *avartata* ← *vṛt*
+- \[verb\], singular, Imperfect
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+
+_________
+
+- *avartatādhi* ← *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+
+_________
+
+- *manaso* ← *manasaḥ* ← *manas*
+- \[noun\], genitive, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *retaḥ* ← *retas*
+- \[noun\], nominative, singular, neuter
+- “semen; sperm.”
+
+_________
+
+- *prathamaṃ* ← *prathamam* ← *prathama*
+- \[noun\], nominative, singular, neuter
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+
+_________
+
+- *yad* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *āsīt* ← *as*
+- \[verb\], singular, Imperfect
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *sato* ← *sataḥ* ← *as*
+- \[verb noun\], genitive, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *bandhum* ← *bandhu*
+- \[noun\], accusative, singular, masculine
+- “relative; bandhu \[word\]; association; friend; kin.”
+
+_________
+
+- *asati* ← *asat*
+- \[noun\], locative, singular, masculine
+- “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
+
+_________
+
+- *nir* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+
+_________
+
+- *avindan* ← *vid*
+- \[verb\], plural, Imperfect
+- “find; detect; marry; get; think.”
+
+_________
+
+- *hṛdi* ← *hṛd*
+- \[noun\], locative, singular, neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+
+_________
+
+- *pratīṣyā* ← *pratīṣya* ← *pratīṣ* ← *√iṣ*
+- \[verb noun\]
+- “accept; search.”
+
+_________
+
+- *kavayo* ← *kavayaḥ* ← *kavi*
+- \[noun\], nominative, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *manīṣā*
+- \[noun\], instrumental, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+तदग्रे- स्थूलसृष्टिपूर्वम्। कामः- सिसृक्षा। अधि समवर्तत- अजायत। यत्- यतः। प्रथमम्-  आदौ। मनसः- अन्तःकरणस्य। रेतः- वीर्यम्। आसीत्- बभूव। कवयः- क्रान्तदर्शिनः। प्रतीष्य-  विचार्य। मनीषा- सूक्ष्मया बुद्ध्या। हृदि- स्वहृदये। सतः- व्यक्तस्य जगतः। बन्धुम्- बन्धम्।  असति- अव्यक्ते। निरविन्दन्- अजानन्॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+ननूक्तरीत्या यदीश्वरस्य पर्यालोचनं जगतः पुनरुत्पत्तौ कारणं तदेव किंनिबन्धनमित्यत आह कामस्तदग्र इति । **अग्रे** अस्य विकारजातस्य सृष्टेः प्रागवस्थायां परमेश्वरस्य मनसि **कामः** **समवर्तत** सग्यगजायत । सिसृक्षा जातेत्यर्थः । ईश्वरस्य सिसृक्षा वा किंहेतुकेत्यत आह मनस इति । **मनसः** अन्तःकरणस्य संबन्धि वासनाशेषेण मायायां विलीनेऽन्तःकरणे समवेतम् । सामान्यापेक्षमेकवचनम् । सर्वप्राण्यन्तःकरणेषु समवेतमित्यर्थः । एतेनात्मनो गुणाधारत्वं प्रत्याख्यातम् । तादृशं **रेतः** भाविनः प्रपञ्चस्य बीजभूतं **प्रथमम्** अतीते कल्पे प्राणिभिः कृतं पुण्यात्मकं कर्म **यत्** यतः कारणात् सृष्टिसमये **आसीत्** अभवत् । भूष्णु वर्धिष्ण्वजायत परिपक्वं सत् फलोन्मुखमासीदित्यर्थः ।
+तत्ततो हेतोः फलप्रदस्य सर्वसाक्षिणः कर्माध्यक्षस्य परमेश्वरस्य मनसि सिसृक्षा अजायतेत्यर्थः । तस्यां च जातायां स्रष्टव्यं पर्यालोच्य ततः सर्वं जगत् सृजति । तथा चाम्नायते -' सोऽकामयत बहुः स्यां प्रजायेयेति स तपोऽतप्यत स तपस्तप्त्वेदं सर्वमसृजत यदिदं किंच ' ( तै. आ. ८. ६) इति श्रुतिः । आत्मनेत्थमवगमितेऽर्थे विद्वदनुभवमप्यनुग्राहकत्वेन प्रमाणयति सत इति । **सतः** सत्त्वेन इदानीमनुभूयमानस्य सर्वस्य जगतः **बन्धुं** बन्धकं हेतुभूतं कल्पान्तरे प्राण्यनुष्ठितं कर्मसमूहं **कवयः** क्रान्तदर्शना अतीतानागतवर्तमानाभिज्ञा योगिनः **हृदि** हृदये निरुद्धया **मनीषा** मनीषया बुद्ध्या । ' सुपां सुलुक्०' इति तृतीयाया लुक् । **प्रतीष्य** विचार्य । ' अन्येषामपि' इति सांहितिको दीर्घः । **असति** सद्विलक्षणेऽव्याकृते कारणे **निरविन्दन्** निष्कृष्यालभन्त । विविच्याजानन्नित्यर्थः ॥
+
+_______________
+11अथ चतुर्थीमाह । परव्रह्मसंबन्धिनो मनसः प्रथमं रेत आद्यं कार्यं यदासीत्तत्कार्यमग्रे सृष्ट्यादौ कामो भूत्वाऽधिसमवर्तत आधिक्येनाविरभूत् । अयमर्थः - यदेतदेकमेवाद्वितीयं 'सत्यं ज्ञानमनन्तं ब्रह्म' इत्येवंरूपं वस्तु सृष्टेः पूर्वं तमसाऽऽवृतमासीत् तस्य तमोविशिष्टस्य ब्रह्मणः सिसृक्षारूपं यन्मन आदावुत्पन्नं तस्य मनसः काम एव प्रथमकार्यभूतः पदार्थः । स च काम उपनिषदि स्पष्टमाम्नातः - 'सोऽकामयत बहु स्यां प्रजायेय' इति । एकोऽद्वितीयरूपोऽहमेव बहुविधो भवेयम् । तत्रायमुपायः पूर्वमवस्थितमद्वितीयरूपमनुपमृद्य प्रकर्षेण मायाकल्पितजगद्रूपेणो-
+त्पद्येयेति तस्य वाक्यस्यार्थः । स च कामः सतः बन्धुरिदानीं सत्त्वेन प्रतीयमानस्य भूतभौतिकरूपस्य जगतोऽसच्छब्दाभिधेये तमस्यव्यक्ते बन्धनहेतुः । कामो ह्यज्ञाने सर्वं व्यवहारं बध्नाति । यथा निद्राणे पुरुषे समुत्पन्ना चित्तवृत्तिर्नानाविधं स्वप्नव्यवहारं बध्नाति, यथा वा जागरणेऽप्यत्यन्तमलभ्ये विषये समुत्पन्ना तृष्णा सुखदुःखपर्यन्तं मनोराज्यरूपं व्यवहारं बध्नाति, एवमयं परमेश्वरस्य कामः देवतिर्यङ्मनुष्यादिसर्वव्यवहारं बध्नाति । कवयो विद्वांसो वेदान्तपारं गता हृदि हृदयकमले मनीषा स्वबुद्ध्या प्रतीष्य विचार्य असति अव्यक्ते तमसि कामं सत उत्पत्स्यमानस्य जगतो बन्धुं बन्धनहेतुं निरविन्दन् निश्चितवन्तः । कामस्य सर्वव्यवहारहेतुत्वं वाजसनेयिनः समामनन्ति - 'अथो खल्वाहुः काममय एवायं पुरुषः' इति । व्यासोऽपि स्मरति- 'कामबन्धनमेवेदं नान्यदस्तीह बन्धनम्' इति । अस्मदनुभवोऽपि तथा दृश्यते । सर्वो हिं पुरुषः प्रथमं किंचित्कामयित्वा तदर्थं प्रयतमानः सुखं दुःखं वा लभते । तस्माच्छ्रुतिस्मृत्यनुभवसिद्धत्वात्काम एव सर्वव्यवहारहेतुरिति विदुषां निश्चयः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+26कामस्तदिति त्रिष्टुभस्तिस्रः ॥ अग्रे मनसः पूर्वम् । प्रवृत्तिनिवृत्तिविशेषहेतुर्मनः । ततः पूर्वं काम इच्छाशक्तिमात्रं समवर्तत । ततः अधि अस्मादधि उपरि मनसोपि रेतः कारणं प्रथमं प्रधानं यदासीत् 'तदसदेव सन्मनोकुरुत स्यामिति' । सतः प्रपञ्चस्य भूतेन्द्रियात्मनः बन्धुं कारणं मनः असति प्रपञ्चरूपेण असति ब्रह्मणि निरविन्दन् निष्कृष्य अलभन्त । यद्वा - अग्रे सृष्ट्यादौ काम एव प्रथमं तस्मात्समवर्तत । पुनश्च कीदृशमित्याह - मनसो रेतः कार्यं यदासीद्भूतेन्द्रियादिकं तस्य सर्वस्य सतः स्थूलस्य प्रपञ्चस्य बन्धुं असति मूलकारणे निरविन्दन् । यथा 'असतस्सद्ये ततक्षुः' । इत्याहुः । मनः कामः इच्छेति पर्यायाः । कामः प्रथमं संकल्प्य आदौ समवर्तत । ततस्तस्य यद्रेत: कार्यभूतेन्द्रियादिकं तत्समवर्तत । तत्कथमित्याह - सतः प्रपञ्चस्य कारणं बन्धु असति निरविन्दन् कवयः । हृदि हृदये प्रतीष्य प्रतिलभ्य । संहितायां दीर्घत्वं छान्दसम् । यद्वा - प्रतीष्या बुद्ध्या संकल्पात्मिकया मनीषा मनीषया ज्ञानेन इन्द्रियात्मिकया बुद्ध्या निरविन्दन् ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+2\. Kāma (Desire) came forth in the very beginning, which was the first (flow of) semen of the mind (1). The intelligent sages, deciding in their hearts, found the relation of the being (sat) in the non-being (asat).
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 कामस्तदग्र इति ॥ एतां च सङ्कल्पवतीमुपदधाति । व्याख्याता चेयं त्रिषटुप् - "जुष्टो दमूना" इत्यत्र । प्रजापतेर् अग्रे प्रथमं कामस्समवर्तत समपद्यत यन्मनसः प्रथमं रेतः कार्यभूतम् आसीत् सतो बन्धुं व्यक्तसम्बन्धिनं यं कामम् असत्य् अव्यक्ते निरविन्दन् निष्कृष्य लब्धवन्तः हृदये प्रार्थितं कवयः मेधाविनः प्रजापतयः प्राणा वा । मनीषा मनस ईशितार इति ॥२॥
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सायण-टीका (आरण्यकी)</summary>
 
 तत्तदानीं सृष्टिकाले प्रजापतेः सकाशादग्रे प्रथमं कामः सर्वं सृजेयमित्यभिलाषः अधि समवर्तताऽऽधिक्येन सम्यगुत्पन्नः । यद्यदा मनसः प्रथमं रेतः कार्यमासीत् । तदेति पूर्वत्रान्वयः । पूर्वसृष्टौ लीनायामव्यक्ते जगत्कारणे स्रक्ष्यमाणप्राणिकर्मोद्भवे सति यदा प्रजापतेर्मानसं प्रथमं कार्यमुत्पन्नं तदा तत्कार्यं सृष्टिविषयेच्छारूपेण निष्पन्नमित्यर्थः । मनीषा मनस ईशितारः कवयो विद्वांसस्तत्तत्सृष्टिगताः प्रजापतयो हृदि स्वचित्ते प्रतीष्य प्रत्येकं निश्चित्य सतो विद्यमानस्य व्यक्तस्य जगतो बन्धुं बन्धकमुत्पत्तिहेतुं काममसत्यव्यक्ते कारणे निरविन्दन्निष्कृष्य लब्धवन्तः । न केवलमेतस्यामेव सृष्टौ किं तु सर्वास्वपि सृष्टिषु प्रवृत्ताः प्रजापतयः काममेव प्रथमं लभन्त इत्यर्थः । इतिशब्दो मन्त्रसमाप्तौ । अनेन मन्त्रेणैकामिष्टकामुपदधायात् । तथा च बौधायन आह - "कामस्तदग्र इति सङ्कल्पवतीम्" इति ।
 </details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“In the beginning there was desire, which was the first seed of mind; sages having meditated in theirhearts have discovered by their wisdom the connexion of the existent with te non-existent.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Desire: i.e., in themind of the Supreme Being
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Jamison Brereton</summary>
+
+Then, in the beginning, from thought there evolved desire, which existed  as the primal semen.  
+Searching in their hearts through inspired thought, poets found the  
+connection of the existent in the nonexistent.
+</details>
+
+<details><summary>Griffith</summary>
+
+Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit.  
+     Sages who searched with their heart's thought discovered the existent's kinship in the non-existent.
+</details>
+
+<details><summary>Macdonell</summary>
+
+Desire entered the One in the beginning: It was the earliest seed, of thought the product. The sages searching in their hearts with wisdom, Found out the bond of being in non-being.
+</details>
+
+<details><summary>Geldner</summary>
+
+Über dieses kam am Anfang das Liebesverlangen, was des Denkens erster Same war. - Im Herzen forschend machten die Weisen durch Nachdenken das Band des Seins im Nichtsein ausfindig.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Da regte sich zuerst in ihm Begierde, als sich des Geistes erster Same zeigte; Es fanden da das Band des Seins im Nichtsein die Weisen suchend mit des Herzens Einsicht.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+В начале на него нашло желание,  
+Что было первым семенем мысли.  
+Происхождение сущего в не-сущем открыли  
+Мудрецы размышлением, ища в сердце (своем).
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भाववृत्तम्
+- प्रजापतिः परमेष्ठी
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्रे कामः) आरम्भ सृष्टि में काम अर्थात् अभिलाष-इच्छाभाव (तत्-यत्) वह जो (मनसः-अधि) मन के अन्दर (समवर्तत) वर्त्तमान होता है (प्रथमं रेतः) प्रथम प्राणी का बीज (आसीत्) है (कवयः) क्रान्तदर्शी विद्वान् (असति) अशरीर चेतन आत्मा में (सतः) शरीर के निमित्त (बन्धुम्) बाँधनेवाले उस रेतः-मानवबीजशक्ति को (मनीषा) विवेचनशील बुद्धि से (प्रतीष्य) प्रतीत करके निश्चित करके (हृदि) हृदय में (निः-अविन्दन्) निर्विण्णहो जाते हैं, वैराग्य को प्राप्त हो जाते हैं ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  आरम्भ सृष्टि में भोगों के लिए कामभाव वर्त्तमान होता है, जो मानव की बीजशक्तिरूप में प्रकट होता है, क्रान्तदर्शी विद्वान् आत्मा के अन्दर शरीर का बाँधनेवाला है, उसे समझ कर वैराग्य को प्राप्त होते हैं ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (कामः-तत्-अग्रे) आरम्भसृष्टौ-अग्रे कामोऽभिलाषः (यत्-मनसः-अधि सम् अवर्तत) यत् खलु मनसोऽभ्यन्तरे प्रसिद्धो जातः (प्रथमं रेतः-आसीत्) यत् प्रथमं प्राणिबीजमासीत् “रेतः पुरुषस्य प्रथमं सम्भवतः सम्भवति” [ऐ० ३।२] (कवयः) क्रान्तदर्शिनो विद्वांसः (असति सतः-बन्धुं मनीषा प्रतीष्य) अशरीरिणि खल्वात्मनि तन्निमित्तं शरीरस्य बन्धयितारं विवेचनशीलया बुद्ध्या प्रतीत्य निश्चित्य (हृदि निः-अविन्दन्) हृदये निर्विण्णा अभवन् वैराग्यं प्राप्नुवन् ॥४॥
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -489,8 +827,8 @@ That is (Pūrvamāsam) the (etymological essence) Pūruṣtva of the Puruṣa (p
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-135/1327, *AV*-391/3165, *SB-M*-6429/20457, *SB-K*-6056/20018, *VS-M*-1/268, *VS-K*-2/395)
-- पु᳓रुषस्य (*TS*-3/92, *RV*-1/14, *TB*-5/40, *AV*-11/106, *SB-M*-41/496, *SB-K*-42/498, *VS-M*-0/9, *VS-K*-0/13)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-135/1327, *AV*-391/3165, *SB-M*-6429/20457, *SB-K*-6056/20018, *VS-M*-1/268, *VS-K*-2/395, *KS*-156/1225, *MS*-1125/5550)
+- पु᳓रुषस्य (*TS*-3/92, *RV*-1/14, *TB*-5/40, *AV*-11/106, *SB-M*-41/496, *SB-K*-42/498, *VS-M*-0/9, *VS-K*-0/13, *KS*-7/30, *MS*-13/116)
 - पुरुष-त्व᳓म् (त्वप्रत्ययः पा॰ ५.१.११९, ३.१.३)
 </details>
 
@@ -828,14 +1166,14 @@ Then stood forth Pūṣan; that is this (belowward) quarter (6).
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓तः (*TS*-131, *RV*-23, *TB*-93, *SB-K*-387, *VS-K*-19)
-- वै᳓ (*TS*-2126, *TB*-670, *SB-M*-7363, *SB-K*-7309)
-- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-17/25, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-12/47, *VS-K*-12/50)
-- उ᳓त् (*TS*-274, *RV*-293, *SB-K*-667)
-- अतिष्ठत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *AV*-179/3165, *SB-M*-701/20457, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- इय᳓म् (*TS*-104/965, *RV*-74/1247, *TB*-43/287, *AV*-68/1259, *SB-M*-381/5240, *SB-K*-326/5549, *VS-M*-4/70, *VS-K*-7/151)
-- दि᳓क् (*TS*-27, *TB*-5, *AV*-6, *SB-M*-91, *SB-K*-94, *VS-M*-3, *VS-K*-2)
+- त᳓तः (*TS*-131, *RV*-23, *TB*-93, *SB-K*-387, *VS-K*-19, *KS*-28, *MS*-171)
+- वै᳓ (*TS*-2126, *TB*-670, *SB-M*-7363, *SB-K*-7309, *KS*-314, *MS*-3722)
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-17/25, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-12/47, *VS-K*-12/50, *KS*-16/32, *MS*-79/130)
+- उ᳓त् (*TS*-274, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
+- अतिष्ठत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-5, *MS*-17)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *AV*-179/3165, *SB-M*-701/20457, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- इय᳓म् (*TS*-104/965, *RV*-74/1247, *TB*-43/287, *AV*-68/1259, *SB-M*-381/5240, *SB-K*-326/5549, *VS-M*-4/70, *VS-K*-7/151, *KS*-30/319, *MS*-138/1379)
+- दि᳓क् (*TS*-27, *TB*-5, *AV*-6, *SB-M*-91, *SB-K*-94, *VS-M*-3, *VS-K*-2, *KS*-2, *MS*-31)
 </details>
 </details>
 
@@ -1216,4 +1554,3 @@ A Brāhmaṇa-passage (mentioning the fruit of knowing the description of the cr
 यः पुमानेवं प्रजापतिसृष्टिप्रकारं विजानाति स पुमान्सर्वमेव जगति विद्यमानमिदं फलं प्राप्य तच्च सर्वं वशीकृत्य तदेव जगदनुप्रविशति । सर्वात्मको भवतीत्यर्थः ॥
 </details>
 </details>
-

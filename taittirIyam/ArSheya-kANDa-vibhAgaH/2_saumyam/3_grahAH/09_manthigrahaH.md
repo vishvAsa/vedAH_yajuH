@@ -128,6 +128,19 @@ yā́su ← yá- (pronoun)
 तं प्र॒त्नथा॑ पू॒र्वथा॑ वि॒श्वथे॒मथा॑ ज्ये॒ष्ठता॑तिं बर्हि॒षदँ॑ स्व॒र्विद॑म्। प्र॒ती॒ची॒नं वृ॒जनं॑ दोहसे॒ धुनि॑मा॒शुं जय॑न्त॒मनु॒ यासु॒ वर्ध॑से।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तं᳓ प्रत्न᳓था पूर्व᳓था विश्व᳓थेम᳓था  
+ज्येष्ठरा᳓जं बर्हिष᳓दँ स्वर्दृ᳓शम्  
+प्रतीचीनँ᳓ वृज᳓नं दोहसे गिरा᳓शुं᳓ ज᳓यन्तम् अ᳓नु या᳓सु व᳓र्धसे
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+तं᳓ प्रत्न᳓था पू᳓र्वथा विश्व᳓थेम᳓था ज्येष्ठ᳓तातिं बर्हिष᳓दँ स्वर्वि᳓दम्।  
+प्रतीचीनं᳓ वृज᳓नं दोहसे गिरा᳓ या᳓ सञ्ज᳓यन्तम᳓धि या᳓सु व᳓र्धसे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । प्र॒त्नऽथा॑ । पू॒र्वऽथा॑ । वि॒श्वऽथा॑ । इ॒मऽथा॑ । ज्ये॒ष्ठऽता॑तिम् । ब॒र्हि॒ऽसद॑म् । स्वः॒ऽविद॑म् ।  
@@ -137,6 +150,48 @@ yā́su ← yá- (pronoun)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 तम्। प्र॒त्नथेति॑ प्र॒त्नऽथा॑। पू॒र्वथेति॑ पूर्वऽथा॑। वि॒श्वथेति॑ विश्वऽथा॑। इ॒मथेती॒मऽथा॑। ज्ये॒ष्ठता॑ति॒मिति॑ ज्ये॒ष्ठऽताति॑म्। ब॒र्हि॒षद॑म्। ब॒र्हि॒सद॒मिति॑ बर्हिः॒ऽसद॑म्। स्व॒र्विद॒मिति॑ स्वः॒ऽविद॑म्। प्र॒ती॒ची॒नम्। वृ॒जन॑म्। दो॒ह॒से॒। धुनि॑म्। आ॒शुम्। जय॑न्तम्। अनु॑। यासु॑। वर्द्ध॑से॒।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- प्रत्न᳓था (*TS*-1, *RV*-8, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-5, *VS-K*-2, *KS*-1)
+- पूर्व᳓था (*TS*-1, *RV*-9, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- विश्व᳓था (*TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- इम᳓था (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-1, *KS*-1)
+- ज्येष्ठ-रा᳓जम् (*TS*-1, *RV*-2, *AV*-1, *KS*-1)
+- बर्हि-स᳓दम् (*TS*-1/4, *RV*-2/5, *TB*-5/10, *AV*-0/1, *SB-K*-5/9, *VS-M*-1/4, *VS-K*-1/3, *KS*-2/4)
+- स्वर्-दृ᳓शम् (*RV*-4/12, *AV*-1, *VS-M*-1, *VS-K*-1)
+- प्रतीचीन᳓म् (*TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वृज᳓नम् (*TS*-1, *RV*-27/54, *TB*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-2/3)
+- दोहसे (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- गिरा᳓ (*TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7, *KS*-3/5)
+- आशु᳓म् (*TS*-1/15, *RV*-19/76, *TB*-2/8, *TK*-0/2, *AV*-4/18, *SB-M*-1/13, *SB-K*-1/13, *VS-M*-2/11, *VS-K*-2/11, *KS*-2/5)
+- ज᳓यन्तम् (*TS*-3, *RV*-7, *TB*-2/6, *AV*-5/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-3, *VS-K*-3, *KS*-1)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- या᳓सु (*TS*-3/3383, *RV*-12/4011, *TB*-0/1735, *TK*-0/227, *AV*-4/3120, *SB-M*-2/8327, *SB-K*-4/8438, *VS-M*-1/639, *VS-K*-1/581, *KS*-1/818)
+- व᳓र्धसे (*TS*-1/2, *RV*-1/6, *TB*-0/2, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- प्रत्न᳓था (*MS*-2, *TS*-1, *RV*-8, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-5, *VS-K*-1)
+- पू᳓र्वथा (मूल-पाठः)
+- विश्व᳓था (*TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *MS*-1)
+- इम᳓था (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-3, *VS-M*-1, *MS*-1)
+- ज्येष्ठ᳓-तातिम् (*TS*-1, *RV*-1, *AV*-0/1, *SB-M*-2, *SB-K*-2/3)
+- बर्हि-स᳓दम् (*TS*-1/4, *RV*-2/5, *TB*-5/10, *AV*-0/1, *SB-K*-5/9, *VS-M*-1/4, *VS-K*-1/4, *MS*-4/8)
+- स्वर्-वि᳓दम् (*MS*-2/7, *RV*-12/30, *AV*-2/13, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-2/4, *VS-K*-1/3)
+- प्रतीचीन᳓म् (*MS*-1, *TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- वृज᳓नम् (*MS*-4/7, *TS*-1, *RV*-27/54, *TB*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-1/2)
+- दोहसे (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- सञ्ज᳓यन्तम् (*MW*)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- या᳓सु (*MS*-4/3763, *TS*-3/3385, *RV*-12/4011, *TB*-0/1735, *TK*-0/227, *AV*-4/3120, *SB-M*-2/8327, *SB-K*-4/8438, *VS-M*-1/651, *VS-K*-0/609)
+- व᳓र्धसे (*MS*-1/2, *TS*-1/2, *RV*-1/6, *TB*-0/2, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -474,6 +529,18 @@ The swift who is victor in those among whom thou dost wax.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Thou in the first old time, as all were wont, so now drawest from him, light-finder, throned on sacred grass, Preeminence and strength, from him turned hither, swift, roaring, who winneth those whereby thou waxest strong.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Him in the ancient way, in the former way, in every way, now, the eldest king sitting on the barhis, looking upon the sun,  
+you milk the turned-toward enclosure with song, following the swift, victorious one among whom you flourish.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+in the former way, in every way, now, the highest state, sitting on the sacrificial grass, winning the sun,  
+by song you milk the turned-toward enclosure, [singing] which you conquer, [and] among which you grow!
 </details>
 
 <details><summary>Geldner</summary>

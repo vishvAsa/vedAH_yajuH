@@ -1,6 +1,7 @@
 +++
 title = "०६ उखासंस्कारः"
 +++
+
 १४ शख्गुमत्यनुष्टुप्,
 १८ अनुष्टुप्, १५-१७८ गायत्री
 अग्निर्ऋषिः
@@ -130,23 +131,29 @@ May the Vasus fumigate thee with the Gayatri metre, in the manner of Angiras; ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_aditistvA_devI_vishvadevyAvatI.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 अ᳓दितिस्त्वा देवी᳓ विश्व᳓देव्यावती+++(=तद्-योग्यतावतीः)+++  
 पृथिव्या᳓स् सध᳓स्थे  
-ऽङ्गिरस्व᳓त् **खनत्व् अवट** ।  
+ऽङ्गिरस्व᳓त् **खनत्व् अवट** ।
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_aditistvA_devI_vishvadevyAvatI.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 May Aditi, connected with the All-gods, the goddess, dig thee on the abode of earth, in the manner of Angiras, O trench.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the goddess Aditi, accompanied by all the gods, dig you like Aṅgiras in the seat of the earth, o hole.
+</details>
+
 <details><summary>मूलम्</summary>
 
-अदि॑तिस्त्वा दे॒वी वि॒श्वदे॑व्यावती पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्ख॑नत्ववट ।  
+अदि॑तिस्त्वा दे॒वी वि॒श्वदे॑व्यावती पृथि॒व्यास्स॒धस्थे॑ऽङ्गिर॒स्वत्ख॑नत्ववट ।
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,11 +170,19 @@ May Aditi, connected with the All-gods, the goddess, dig thee on the abode of ea
 अवटखननं हि भूम्यामेव।  
 ततोऽदितेः खननकर्तुत्वे सति भूमेर्हिंसा न भवति ।  
 न हि लोके कश्चिदपि स्वयं स्वात्मानं हिनस्ति ।  
-तस्मात्खननलक्षणक्रूरकार्यकरणाभावायेदमदितिकर्तृत्वं संपाद्यते।  
-</details>
+तस्मात्खननलक्षणक्रूरकार्यकरणाभावायेदमदितिकर्तृत्वं संपाद्यते।
 </details>
 
-<details><summary>सर्वा अवतारिकाः</summary>
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[224_4]** Iu Ch fehlt देवी, daftir steht विश्वा विश्वदेव्यावती (In Ch देवी is missing, instead विश्वा विश्वदेव्यावती stands)
+
+- **[224_5]** D वनत्व॰
+
+- **[224_6]** Von hier bis zu den Versen nach Ch gegeben. In D lautet der Text mit Lücken von hier ab अङ्गिरस्वदभीन्धतामुखे वरुत्रीस्त्वा देवोर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे जनयस्त्वाछिन्नपत्रा देवीर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे॥ folgen die Verse. (Given after Ch from here up to the verses. In D the text reads with lacunae from here on: अङ्गिरस्वदभीन्धतामुखे वरुत्रीस्त्वा देवोर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे जनयस्त्वाछिन्नपत्रा देवीर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे॥; then follow the verses.)
+</details>
+</details>
+</div><details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -481,15 +496,38 @@ Of the god is eternal,
 True, and most varied in fame.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The renown of Mitra, the supporter of the peoples, of the god, is winning [plenty];  
+it is real, most wonderfully renowned.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
 द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मित्रस्य चर्षणीधृतश्श्रवो देवस्य सानसि।  
+सत्यं चित्रश्रवस्तमम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मि॒त्रस्य॑ । च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि-धृतः॑ । श्रवः॑ । दे॒वस्य॑ । सा॒न॒सिम् ॥ द्यु॒म्नम् । चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वः-त॒म॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मित्र᳓स्य (*MS*-29/111, *TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/51)
+- चर्षणि-धृ᳓तः (*TS*-2, *RV*-2/9, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-3)
+- श्र᳓वः (*Whitney*, *MS*-10/16, *TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/8)
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- सानसि᳓ (*Whitney*, *MS*-3/6, *TS*-5, *RV*-2/15, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/3)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- चित्र᳓श्रवस्तमम् (*MS*-3, *TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -527,7 +565,7 @@ True, and most varied in fame.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/11/103_deva_s_tvA.md">
+<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/11/103_devas_tvA_savitodvapatu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Griffith</summary>
@@ -542,6 +580,18 @@ With fair hands, fair fingers,
 Fair arms, with his might.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Savitṛ dig you up, having good hands, having good fingers,  
+having good arms, and with power!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May god Savitṛ unearth you, with fair hands, with fair fingers,  
+with fair arms, and with his might.
+</details>
+
 <details><summary>मूलम् - माध्यन्दिनम्</summary>
 
 दे॒वस्त्वा॑ सवि॒तोद्व॑पतु सुपा॒णिः स्व॑ङ्गु॒रिः सु॑बा॒हुरु॒त शक्त्या॑।
@@ -553,6 +603,18 @@ Fair arms, with his might.
 सु॒बा॒हुरु॒त शक्त्या॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+देव᳓स् त्वा सवितो᳓द्वपतु सुपाणिः᳓ स्वङ्गुरिः᳓  
+सुबाहु᳓र् उत᳓ शक्त्या
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+देवस्त्वा सवितोड्वपतु सुपाणिस्स्वङ्गुरिः।  
+सुबाहुरुत शक्त्या
+</details>
+
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 दे॒वः। त्वा॒। स॒वि॒ता। उत्। व॒प॒तु॒। सु॒पा॒णिरिति॑ सुऽपा॒णिः। स्व॑ङ्गु॒रिरिति॑ सुऽअङ्गु॒रिः। सु॒बा॒हुरिति॑ सुऽबा॒हुः। उ॒त। शक्त्या॑।
@@ -561,6 +623,35 @@ Fair arms, with his might.
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 दे॒वः । त्वा॒ । स॒वि॒ता । उदिति॑ । व॒प॒तु॒ । सु॒पा॒णिरिति॑ सु-पा॒णिः । स्व॒ङ्गुरिरिति॑ सु-अ॒ङ्गु॒रिः ॥ सु॒बा॒हुरिति॑ सु-बा॒हुः । उ॒त । शक्त्या॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- वपतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- सु-पाणिः᳓ (*TS*-3, *RV*-3/7, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स्वङ्गुरिः᳓ (*SB-M*-1, *SB-K*-1, *VS-K*-1, *KS*-1)
+- सु-बाहुः᳓ (*TS*-1, *RV*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2, *KS*-1)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- शक्त्या (मूल-पाठः)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- उडु (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अ᳓प (*MS*-172, *TS*-136, *RV*-226, *TB*-121, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28)
+- तु᳓ (*MS*-66, *TS*-31, *RV*-57, *TB*-17, *TK*-1, *AV*-15, *SB-M*-257, *SB-K*-233, *VS-M*-6, *VS-K*-2)
+- सु-पाणिः᳓ (*MS*-5, *TS*-3, *RV*-3/7, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स्वङ्गुरिः᳓ (*MS*-4, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- सु-बाहुः᳓ (*MS*-2, *TS*-1, *RV*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- श᳓क्त्या (*MS*-0/3, *TS*-2/6, *RV*-0/4, *TB*-0/2, *AV*-0/2, *SB-M*-6, *SB-K*-3, *VS-M*-0/1, *VS-K*-3/5)
 </details>
 
 <details><summary>उवट-टीका</summary>

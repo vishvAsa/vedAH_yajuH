@@ -6,30 +6,25 @@ unicode_script: devanagari
 ---
 ## उपक्रमः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_05_shrAvaNyAm.md">
-
-श्रावण्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः ५  
-
+श्रावण्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः ५
 </div>  
 
 +++(श्रावण्यै पौर्णमास्यै स्वाहा इति श्रावण्याम्।)+++
 
 ### किंशुकहोमः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_06_pArvaNavadAjyabhAgAnte.md">
-
 पार्वणवद् आज्यभागान्ते स्थालीपाकाद् +धुत्वा  
 ऽञ्जलिनोत्तरैः प्रतिमन्त्रं +++(३)+++ किंशुकानि जुहोति ६  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13_jagdho_mashako_vitRuShTiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/13_jagdho_mashako_vitRuShTiH.md">
 जग्धो᳓ [[म᳓शको|मश᳓को]], जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरः᳓ स्वा᳓हा ।
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/14_jagdho_vyaddhvaro_mashakaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/14_jagdho_vyaddhvaro_mashakaH.md">
 जग्धो᳓ व्यद्ध्वरो᳓,  जग्धो᳓ [[म᳓शको|मश᳓को]],  जग्धा᳓ वि᳓तृष्टिस् स्वा᳓हा ।
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/15_jagdha_vitRuShTir_mashakaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/15_jagdha_vitRuShTir_mashakaH.md">
 जग्धा᳓ वि᳓तृष्टिर्, जग्धो᳓ व्यद्ध्वरो᳓, जग्धो᳓ [[म᳓शकस्|मश᳓कस्]] स्वा᳓हा ॥ +++(र५ विन्यासे ऽत्र सर्पाकृतिः)+++
 </div>
-
-
 </div>  
 
 +++(किंशुकानि → वसन्त एव सङ्गृहीतानि पलाश-पुष्पाणीति केचित्। केचित्— पलाशसदृशस्य कण्टकिनः mull murungai इत्यस्य पुष्पाणीति।  
@@ -41,7 +36,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_07_uttarAbhistisRbhirAragvadhamayyassamidhaH.md">
 उत्तराभिस् तिसृभिर् आरग्वध-मय्यस् समिधः ७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/01_indra_jahi.md">
 <details open><summary><h2>०१ इन्द्र जहि ...{Loading}...</h2></summary>
 
 इन्द्र॑ जहि दन्द॒शूकं॑  
@@ -51,7 +46,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/02_apsujAta_sarevRddha.md">
 <details open><summary><h2>०२ अप्सुजात सरेवृद्ध ...{Loading}...</h2></summary>
 
 [[अप्सु᳓|अ᳓प्सु]] जात स᳓रे वृद्ध  
@@ -61,7 +56,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/03_trANamasi_paritrANamasi.md">
 <details open><summary><h2>०३ त्राणमसि परित्राणमसि ...{Loading}...</h2></summary>
 
 त्रा᳓णम् असि।  
@@ -75,60 +70,57 @@ unicode_script: devanagari
 
 ### आज्याहुतिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_08_AjyAhutIruttarAH.md">
-
 आज्याहुतीर् उत्तराः ८  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/04_tatsatyaM_yatte-mAvAsyAyAncha.md">
+<details open><summary><h2>०४ तत्सत्यं यत्तेऽमावास्यायाञ्च ...{Loading}...</h2></summary>
 
 +++(सर्पाधिपते!)+++ त᳓त् सत्यं᳓ य᳓त् ते ऽमावास्या᳙याञ् च पौर्णमास्या᳓ञ् च विषबलिँ᳓+++(←स्वरः शोधितः)+++ ह᳓रन्ति स᳓र्व उदर-सर्पि᳓णः  
 त᳓त् +++(बलिं)+++ ते प्रे᳓रते+++(=प्राप्नुवन्ति)+++, त्व᳓यि सं᳓विशन्ति।  
 त्व᳓यि नस् सत᳓स्+++(=आश्रितान्)+++, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि ।  
 +++(वर्षऋतौ सर्पबाहुल्यम्।)+++
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/vishvAsa-prastutiH/13/06_namo-stu_sarpebhyo.md">
+<details open><summary><h2>०५ नमो अस्तु ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/05_namo_astu.md">
+न᳓मोऽस्तु सर्पे᳓भ्यो ये᳓ के᳓ च पृथिवी᳓म᳓नु। ये᳓ऽ अन्त᳓रिक्षे ये᳓ दिवि᳓ ते᳓भ्यः सर्पे᳓भ्यो न᳓मः ॥६ ॥
 
-न᳓मो अस्तु सर्पे᳓भ्यो  
-ये᳓ के᳓ च पृथिवी᳓म् अ᳓नु।  
-ये᳓ अन्त᳓रिक्षे ये᳓ दिवि᳓  
-ते᳓भ्यस् सर्पे᳓भ्यो न᳓मः॥
-
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
+<details open><summary><h2>०६ येऽदो रोचने ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/06_ye-do_rochane.md">
-
-ये᳓ ऽदो᳓, रोचने᳓ दिवो᳓,  
+ये᳙ ऽदो᳓, रोचने᳓ दिवो᳓,  
 ये᳓ वा सू᳓र्यस्य रश्मि᳓षु ।  
 ये᳓षाम् अप्सु᳓ स᳓दः कृतं᳓  
 ते᳓भ्यः सर्पे᳓भ्यो न᳓मः ॥
 
+</details>
 </div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/07_yA_iShavo.md">
+<details open><summary><h2>०७ या इषवो ...{Loading}...</h2></summary>
 
 या᳓ इ᳓षवो यातुधा᳓नानां  
 ये᳓ वा व᳓नस्प᳓तीँर् अ᳓नु ।  
 ये᳓ वाऽवटे᳓षु+++(→बिलेषु)+++ शे᳓रते  
 ते᳓भ्यः सर्पे᳓भ्यो न᳓मः ॥
 
+</details>
 </div>
-
 </div>
 
 ### उत्तराङ्गम्
 +++(अञ्जलेर् दर्व्याश् च लेपस्यार्पणं कर्म स्थालीपाकवत्। किंशुकशेषादपि स्विष्टकृते समवदानम् ।)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_09_jayAdi_pratipadyate.md">
-
-जयादि प्रतिपद्यते ९  
-
+जयादि प्रतिपद्यते ९
 </div>  
 
 +++("सौविष्टकृतं च स्थालीपाकादेव हुत्वा" इति हरदत्तः।)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_10_pariShechanAnta~N_kRtvA.md">
-
 परिषेचनान्तं कृत्वा  
 
 ### बलिनिर्वापः
@@ -139,19 +131,20 @@ unicode_script: devanagari
 +++(तासां समीपे )+++  ऽद्भिर् उपनिनीय +++(- सर्वदेवजनेभ्यो ददाति यथापितृभ्यः पिण्डदाने ।)+++  
 तासूत्तरया सक्तून्+++(=भृष्ठयवादिचूर्णानि)+++ निवपति +++(ताः सर्वा लेखाः यथा बलिर्व्याप्नुयात्)+++ १०  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/08_namo_astu.md">
+<details open><summary><h2>०८ नमो अस्तु ...{Loading}...</h2></summary>
+
 न᳓मो **अस्तु** सर्पे᳓भ्यो  
 ये᳓ पा᳓र्थिवा य᳓ आन्तरिक्ष्या᳙ ये᳓ दिव्या᳙ ये᳓ [[दिश्याः᳙|दि᳓श्याः]] ।  
 +++(उपक्रमे)+++ ते᳓भ्य इमं᳓ बलिँ᳓ **हरिष्यामि** ।  
-+++(मार्गशीर्ष्यां तु)+++ ते᳓भ्य इमं᳓ बलि᳓म् अहार्षम् ।
-</div>
++++(मार्गशीर्ष्यां तु)+++ ते᳓भ्य इमं᳓ बलि᳓म् अहार्षम् ।  
 
+</details>
+</div>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_11_tUShNIM_sampuShkA.md">
-
-तूष्णीं सम्पुष्का+++(=अक्षता)+++ धाना, लाजान्, आञ्जनाभ्यञ्जने, स्थगर+++(=गन्धविशेषः - betel?)+++ +उशीरम् +++(=Vettiver grass)+++ इति +++(६ द्रव्याणि)+++११  
-
+तूष्णीं सम्पुष्का+++(=अक्षता)+++ धाना, लाजान्, आञ्जनाभ्यञ्जने, स्थगर+++(=गन्धविशेषः - betel?)+++ +उशीरम् +++(=Vettiver grass)+++ इति +++(६ द्रव्याणि)+++११
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/18_12_uttarairupasthAyApaH.md">
@@ -161,28 +154,26 @@ unicode_script: devanagari
 #### प्रत्येत्य गृहपरिषेचनमन्त्रौ 
 #### उपस्थानमन्त्राः
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09_taxaka_vaishAleya.md">
-त᳓क्षक, वै᳓शालेय - [[धृत᳓राष्ट्रैरावतस्|धृतराष्ट्रैरावत᳓स्]] ते+++(←~~ते᳓~~)+++ जीवा᳓स्,  
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/09_taxaka_vaishAleya.md">
+त᳓क्षक, वै᳓शालेय - धृतराष्ट्रैरावत᳓स् ते जीवा᳓स्,  
 त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि ।
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/10_dhRtarAShTra_airAvata.md">
-
-धृ᳓तराष्ट्रैरावत+++(→~~धृत᳓राष्ट्रैरावत~~)+++ त᳓क्षकस् ते+++(←~~ते᳓~~)+++ वैशालेयो᳓ जीवा᳓स् …।  
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/10_dhRtarAShTra_airAvata.md">
+धृ᳓तराष्ट्रैरावत+++(→~~धृत᳓राष्ट्रैरावत~~)+++ त᳓क्षकस् ते+++(←~~ते᳓~~)+++ वैशालेयो᳓ जीवा᳓स् …।
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_ahiMsAtibala.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_ahiMsAtibala.md">
 [[अ᳓हिँसातिबल᳓स्|अहिँसातिबल᳓स्]] ते जीवा᳓स् [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/12_atibalAhiMsa.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/12_atibalAhiMsa.md">
 [[अ᳓तिबलाहिँस᳓स्|अ᳓तिबला᳓हिँसस्]] ते जीवा᳓स्  [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/13_ye_dandashUkAH.md">
 ये᳓ दन्दशू᳓काः पा᳓र्थिवास्-  
 ताँ᳓स् त्व᳓म् इतः᳓ परो᳓ ग᳓व्यूतिं नि᳓वेशय ।  
 स᳓न्ति वै᳓ नश् शफि᳓नस्,  
@@ -193,25 +184,11 @@ unicode_script: devanagari
 
 +++(प्रतिदिशम् मन्त्राः।)+++
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/14_samIchI_nAmAsi.md">
 समी᳓ची ना᳓मासि प्रा᳓ची दि᳓क्।  
 त᳓स्यास् ते ऽग्नि᳓र् अ᳓धिपतिर्, असितो᳓ रक्षिता᳓।  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
-
-य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
-ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
-</div>
-
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_ojasvinI_nAmAsi.md">
-ओजस्वि᳓नी ना᳓मासि दक्षिणा᳓ दि᳓क्।  
-त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, पृ᳓दाकू रक्षिता᳓  
-
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
 <details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
@@ -220,72 +197,81 @@ unicode_script: devanagari
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/16_prAchI_nAmAsi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/15_ojasvinI_nAmAsi.md">
+ओजस्वि᳓नी ना᳓मासि दक्षिणा᳓ दि᳓क्।  
+त᳓स्यास् त इ᳓न्द्रो᳓ऽधिपतिः, पृ᳓दाकू रक्षिता᳓  
 
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
+
+य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
+ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
+</details>
+</div>
+</div>
+
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/16_prAchI_nAmAsi.md">
 प्रा᳓ची ना᳓मासि प्रती᳓ची दि᳓क्।  
 त᳓स्यास् ते सो᳓मो᳓ऽधिपतिः स्वजो᳓ रक्षिता᳓  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
 ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
+</details>
+</div>
 </div>
 
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/17_avasthAvA_nAmAsi.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/17_avasthAvA_nAmAsi.md">
 अवस्था᳓वा ना᳓मास्य् उ᳓दीची दि᳓क्।  
 त᳓स्यास् ते व᳓रुणो᳓ऽधिपतिस् तिर᳓श्चराजी+++(→अथर्ववेदे तिरश्च᳓)+++ रक्षिता᳓  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
 ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
+</details>
+</div>
 </div>
 
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/18_adhipatnI_nAmAsi.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/18_adhipatnI_nAmAsi.md">
 अ᳓धिपत्नी ना᳓मासि बृहती᳓ दि᳓क्।  
 त᳓स्यास् ते बृ᳓हस्प᳓तिर् अ᳓धिपतिः श्वित्रो᳓ रक्षिता᳓  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
 ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
+</details>
+</div>
 </div>
 
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/19_vashinI_nAmAsi.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/19_vashinI_nAmAsi.md">
 वशि᳓नी ना᳓मासीयं᳓ दि᳓क्।  
 त᳓स्यास् ते यमो᳓ ऽधिपतिः कल्मा᳓ष-ग्रीवो रक्षिता᳓  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/yash_chAdhipatiH.md">
+<details open><summary><h5>य᳓श् चा᳓धिपतिर् ...{Loading}...</h5></summary>
 
 य᳓श् चा᳓धिपतिर्, य᳓श् च गोप्ता᳓ - ता᳓भ्यां न᳓मस्, तौ᳓ नो मृडयताम्।  
 ते᳓ यं᳓ द्विष्मो᳓, य᳓श् च नो द्वे᳓ष्टि - तं᳓ वां जं᳓भे दधामि ।
-
+</details>
+</div>
 </div>
 
-</div>
-
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_hetayo_nAmastha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/20_hetayo_nAmastha.md">
 हेत᳓यो ना᳓म स्थ, ते᳓षां वः पुरो᳓ गृहा᳓, अग्नि᳓र् व इ᳓षवः, सलिलो᳓ वात-नाम᳓म्।  
 +++(वाताशिनो हि सर्पाः। तस्य वातस्य नमयिता = उपस्थापयिता। नपुंसकलिङ्गं सामान्यविवक्षायाः।)+++  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -322,14 +308,14 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/21_nilimpA_nAma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/21_nilimpA_nAma.md">
 निलिम्पा᳓ ना᳓म स्थ, ते᳓षां वो दक्षिणा᳓ गृहा᳓, पित᳓रो व इ᳓षवः, स᳓गरो वात-नाम᳓म्।  
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -366,14 +352,14 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/22_vajriNo_nAma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/22_vajriNo_nAma.md">
 वज्रि᳓णो ना᳓म स्थ, ते᳓षां वः पश्चा᳓द् गृहा᳓, स्व᳓प्नो व इ᳓षवो, ग᳓ह्वरो वात-नाम᳓म्।  
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -410,15 +396,15 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/23_avasthAvAno_nAma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/23_avasthAvAno_nAma.md">
 अवस्था᳓वानो ना᳓म स्थ, ते᳓षां व उत्तरा᳓द् गृहा᳓, आ᳓पो व इ᳓षवः, समुद्रो᳓ वातनाम᳓म्।  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -455,14 +441,14 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/24_adhipatayo_nAma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/24_adhipatayo_nAma.md">
 अ᳓धिपतयो ना᳓म स्थ, ते᳓षां व उप᳓रि गृहा᳓, वर्षं᳓ व इ᳓षवो᳓, ऽवस्वान् वात-नाम᳓म्।  
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -499,15 +485,15 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/25_kravyA_nAma.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/25_kravyA_nAma.md">
 क्रव्या᳓ ना᳓म स्थ पा᳓र्थिवास्, ते᳓षां व इह᳓ गृहा᳓, अ᳓न्नं व इ᳓षवो, निमिषो᳓ वातनाम᳓म्।  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/tebhyo_vo_namaH.md">
 <details open><summary><h5>Tebhyo vo nama H ...{Loading}...</h5></summary>
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/4/5_rudra-homa-mantrAH/11_sahasrANi_sahasrashaH/te_yaM_dviShmaH.md">
 <details open><summary><h5>ते᳓ यं᳓ द्वि᳓ष्मः᳓ ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -544,16 +530,14 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/26_apashvetapadA_jahi.md">
 अ᳓प श्वेत +++(सर्पाधिपते)+++ पदा᳓+++(वि३)+++ जहि+++(→हन)+++  
 पू᳓र्वेण चा᳓परेण च ।  
 सप्त᳓ च मा᳓नुषीर् इमा᳓स् +++(सर्पजातीः- ब्राह्मणानां तिस्रः वैश्यानां द्वे, शूद्राणां च द्वे)+++  
-तिस्र᳓श्च राज᳓बन्धवीः ।  
-
+तिस्र᳓श्च राज᳓बन्धवीः ।
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
 न᳓ वै᳓ श्वेत᳓स्याऽध्याचारे᳓+++(=आधिपत्ये)+++  
 ऽहिर् [[जघा᳓न|जघान]] क᳓ञ्चन᳓ ।  
 श्वेता᳓य वैदर्वा᳓य+++(=विदर्बपुत्राय)+++ न᳓मो  
@@ -564,16 +548,12 @@ him whom we hate and him who hateth us, I place him within your jaws.
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_01_dhAnAH_kumArAn.md">
-
-धानाः कुमारान् प्राशयन्ति १  
-
+धानाः कुमारान् प्राशयन्ति १
 </div>  
 
 ## व्रतम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_02_evam_ata.md">
-
 एवम् अत ऊर्ध्वं यद् अशनीयस्य सक्तूनां वैतं बलिं हरेद् आमार्गशीर्ष्याः २
-
 </div>  
 
 ### अनुकल्पः
@@ -581,23 +561,17 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 ## अवसानम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_03_mArgashIrShyAm.md">
-
 मार्गशीर्ष्यां पौर्णमास्याम् अस्तमिते स्थालीपाकः +++(उपक्रमवत्)+++ ३
-
 </div>  
 
 +++( मार्गशीर्षायै पौर्णमास्यै स्वाहा।)+++  
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_04_ahArShamiti_balimantrasya.md">
-
 "अहार्षम्" इति बलिमन्त्रस्य सन्नामः +++(किंशुकहोमादिकम् अपि कृवा)+++।
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/20_sarpabaliH/19_05_atrainamutsRjati.md">
-
 अत्रैनमुत्सृजति ५
-
 </div>  
 
 ## स्रोतांसि

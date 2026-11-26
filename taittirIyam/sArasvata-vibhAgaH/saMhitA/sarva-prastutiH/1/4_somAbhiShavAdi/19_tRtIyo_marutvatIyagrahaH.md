@@ -123,6 +123,12 @@ tvám ← tvám (pronoun)
 आसि॑ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वँ राजा॑सि॒ प्रति॑पत्सु॒ताना॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मरु᳓त्वाँ इन्द्र वृषभो र᳓णाय पि᳓बा सो᳓ममनुष्वधं᳓ म᳓दाय।  
+आ᳓सिञ्चस्व जठ᳓रे म᳓ध्व ऊर्मिं᳓ त्वं᳓ रा᳓जासि प्रदि᳓स्सुता᳓नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒रुत्वा॑न् । इ॒न्द्र॒ । वृ॒ष॒भः । रणा॑य । पिब॑ । सोम॑म् । अ॒नु॒ऽस्व॒धम् । मदा॑य ।  
@@ -132,6 +138,28 @@ tvám ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 म॒रुत्वा॑न्। इ॒न्द्र॒। वृष॒भः। रणा॑य॒। पिब॑। सोम॑म्। अ॒नुष्व॒धम्। अ॒नुस्व॒धमित्य॑नु॒। स्व॒धम्। मदा॑य। आ। सि॒ञ्च॒स्व॒। ज॒ठरे॑। मध्वःः॑। ऊ॒र्मिम्। त्वम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मरु᳓त्-वान् (*MS*-0/1, *TS*-1, *RV*-31, *TB*-1, *AV*-6, *VS-M*-1, *VS-K*-1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- वृषभः (*AV*-1)
+- र᳓णाय (*MS*-5/6, *TS*-5/6, *RV*-14/26, *TB*-2/3, *AV*-9/12, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-4/5)
+- पि᳓बा (*MS*-2, *TS*-0/2, *RV*-1/85, *TB*-1, *AV*-1/16, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/11, *VS-K*-2/9)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- अनु-स्वध᳓म् (*TS*-1, *RV*-6, *AV*-1, *VS-M*-2, *VS-K*-1, *MS*-1)
+- म᳓दाय (*MS*-2/15, *TS*-3/9, *RV*-82/273, *TB*-2/8, *AV*-6/37, *SB-M*-6/10, *SB-K*-6/10, *VS-M*-4/11, *VS-K*-3/10)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सिञ्चस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *VS-K*-1, *MS*-1)
+- जठ᳓रे (*MS*-2/3, *TS*-2/3, *RV*-16/30, *TB*-0/2, *AV*-5/8, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-2/3)
+- म᳓ध्वः (*MS*-4/5, *TS*-4, *RV*-88, *TB*-2, *AV*-11, *SB-M*-2, *SB-K*-1, *VS-M*-8, *VS-K*-5)
+- ऊर्मि᳓म् (*MS*-1/14, *TS*-2/10, *RV*-23/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- रा᳓जा (*MS*-42/60, *TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-21/29)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- प्रदि᳓स् (मूल-पाठः)
+- सुता᳓नाम् (*MS*-1/27, *TS*-1/19, *RV*-11/392, *TB*-0/20, *TK*-0/3, *AV*-2/61, *SB-M*-0/28, *SB-K*-0/29, *VS-M*-1/39, *VS-K*-0/33)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -341,6 +369,12 @@ Indra with the Maruts, the bull, for gladness,
 Drink the Soma, for joy, to thy content;  
 Pour within thy belly the wave of sweetness;  
 Thou art from of old the king of the pressed drinks.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra accompanied by the Maruts, the bull, drink Soma according to your will for battle, for exhilaration;  
+pour into your belly the wave of sweetness; you are the ancient king of the pressed [juices]!
 </details>
 
 <details><summary>Geldner</summary>

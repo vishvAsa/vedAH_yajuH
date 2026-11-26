@@ -189,7 +189,7 @@ Hail to Prajapati!
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/38/61_svA_hA_vi.md">
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/38/61_svAhA_vishvebhyo_devebhyaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वा᳓हा वि᳓श्वेभ्यो देवे᳓भ्यः ॥१५ ॥
