@@ -472,7 +472,7 @@ title = "२० सर्पबलिः"
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/11_ahiMsAtibala.md">
-[[अ᳓हिँसातिबल᳓स्|अहिँसातिबल᳓स्]] ते जीवा᳓स् [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
+अ᳓हिँसातिबल᳓स् ते जीवा᳓स् [त्व᳓यि नस् सत᳓स्, त्व᳓यि सद्भ्यो᳓ +++(सर्पेभ्यो)+++, वर्षा᳓भ्यो नः प᳓रिदेहि । ]  
 +++(व्यस्तप्रयोगे सम्बोधन इह स्वरव्यत्ययः।)+++
 </div>
 
@@ -847,9 +847,9 @@ him whom we hate and him who hateth us, I place him within your jaws.
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_17/27_na_vai.md">
 न᳓ वै᳓ श्वेत᳓स्याऽध्याचारे᳓+++(=आधिपत्ये)+++  
-ऽहिर् [[जघा᳓न|जघान]] क᳓ञ्चन᳓ ।  
+ऽहिर् जघा᳓न क᳓ञ्चन᳓ ।  
 श्वेता᳓य वैदर्वा᳓य+++(=विदर्बपुत्राय)+++ न᳓मो  
-[[न᳓मः|नमः]] श्वेता᳓य वैदर्वा᳓य ॥ (17)
+न᳓मः श्वेता᳓य वैदर्वा᳓य ॥ (17)
 </div>
 
 +++(युग्मान्)+++ ब्राह्मणान् भोजयेत् +++(स्थालीपाक-शेषादिभिः सर्पिष्मद्भिः। उपनयनवद् भुक्तवद्भिर् आशीर्-वचनम्।)+++ १२
