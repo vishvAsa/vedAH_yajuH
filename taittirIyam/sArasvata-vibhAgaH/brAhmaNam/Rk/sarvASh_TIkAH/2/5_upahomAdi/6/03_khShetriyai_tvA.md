@@ -3,6 +3,13 @@ title = "03 क्षेत्रियै त्वा"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From hereditary disease, from Nirṛti,  
+from the deceit, from the fetter of Varuṇa, I release you;  
+I make you guiltless for brahman.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 क्षे॒त्रि॒यै त्वा॒ निर्ऋ॑त्यै त्वा ।  

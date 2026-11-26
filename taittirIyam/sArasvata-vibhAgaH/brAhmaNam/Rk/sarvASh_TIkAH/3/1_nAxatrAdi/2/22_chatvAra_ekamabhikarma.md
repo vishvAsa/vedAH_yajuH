@@ -4,6 +4,13 @@ title = "22 चत्वार एकमभिकर्म"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let no malevolence, chanting evil, come upon us.  
+Varuṇa is the king, the overlord of regal power;  
+Śatabhiṣaj is the most excellent among lunar mansions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒त्वार॒ एक॑म॒भिकर्म॑ दे॒वाः ।   

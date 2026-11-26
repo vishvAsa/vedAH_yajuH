@@ -4,6 +4,13 @@ title = "18 यज्ञन्नो राजा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+grant fortune to us, being unangered.  
+Both these worlds are completely conquered by the brahman;  
+may that lunar mansion Abhijit look upon that for us.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्नो॒ राजा॒ वरु॑ण॒ उप॑यातु ।   

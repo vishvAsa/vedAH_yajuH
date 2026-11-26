@@ -10,6 +10,11 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He leads forward the waters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।

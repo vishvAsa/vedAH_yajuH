@@ -15,6 +15,11 @@ unicode_script = "devanagari"
 Speech is indeed sacrifice and so it should not be put to use.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+All speech indeed is reached when the sacrifice is completed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वा॒ वै सँस्थि॑ते य॒ज्ञे वागा॑प्यते ॥68 ॥

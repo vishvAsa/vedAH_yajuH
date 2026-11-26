@@ -4,6 +4,14 @@ title = "20 पुरा ऽमुष्य"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have struck down all your preparation.  
+Before that man's vaṣaṭ-call,  
+make our sacrifice reach the gods;  
+may our offering be well sacrificed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒राऽमुष्य॑ वषट्का॒रात् ।

@@ -2,6 +2,13 @@
 title = "25 तदश्विनावश्वयुजोपयाताम्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ahi Budhnya goes spreading out,  
+the best of gods and of mortals.  
+Him the soma-drinking Brahmins, worthy of Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   

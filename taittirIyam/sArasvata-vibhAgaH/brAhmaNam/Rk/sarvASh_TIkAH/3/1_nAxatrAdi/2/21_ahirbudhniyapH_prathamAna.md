@@ -2,6 +2,13 @@
 title = "21 अहिर्बुध्नियᳶ प्रथमान"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the Vasus protect our sacrifice from the east;  
+from the south may the Śraviṣṭhās approach.  
+May we enter into the holy lunar mansion;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  

@@ -2,6 +2,13 @@
 title = "07 आर्द्रया रुद्रᳶ"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+be peace to our two-footed, peace to our four-footed!  
+Rudra comes expanding with Ārdrā,  
+the best of the gods, the lord of the unslayable \[cows\];
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒र्द्रया॑ रु॒द्रᳶ प्रथ॑मान एति ।  

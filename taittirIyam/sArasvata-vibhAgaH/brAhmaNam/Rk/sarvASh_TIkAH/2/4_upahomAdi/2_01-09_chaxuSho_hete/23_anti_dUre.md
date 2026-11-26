@@ -4,6 +4,15 @@ title = "23 अन्ति दूरे"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let not hostile forces reach us!  
+From near or from afar, O Agni,  
+of the rival who attacks \[us\],
+
+Through the vaṣaṭ-call as a vajra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्ति॑ दू॒रे स॒तो अ॑ग्ने ।

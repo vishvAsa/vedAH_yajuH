@@ -3,6 +3,11 @@ title = "४४ चत्वारि मायोभवाय विष्ण�
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four: may Viṣṇu follow you for delight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒त्वारि॒ मायो॑भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।

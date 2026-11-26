@@ -4,6 +4,14 @@ title = "33 चतस्र आशाᳶ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+knowing \[the way\], let him lead this sacrifice of ours,  
+swelling with ghee, unaging, rich in heroes.
+
+Brahman becomes the kindling-stick of the oblations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चत॑स्र॒ आशा॒ᳶ **प्रच॑रन्त्व्** अ॒ग्नयः॑ ।   

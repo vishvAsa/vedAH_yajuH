@@ -4,6 +4,15 @@ title = "22 अन्नं प्राणम्,"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+it neither becomes greater nor less.
+
+They call food exhalation, food inhalation;  
+food they call death, and that same \[food\] they call life;  
+food the Brahmins call old age;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्न॑म्प्रा॒णमन्न॑मपा॒नमा॑हुः ।  

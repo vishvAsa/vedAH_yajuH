@@ -4,6 +4,12 @@ title = "28 नक्षत्राणामधिपत्नी"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Viśākhās are the mistresses among the lunar mansions,  
+the best, Indra and Agni the protectors of the world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नक्ष॑त्राणा॒मधि॑पत्नी॒ विशा॑खे ।   

@@ -2,6 +2,11 @@
 title = "05 मूलम्प्रजाव्ँ वीरवतीव्ँ"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+which they call the Anūrādhas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  

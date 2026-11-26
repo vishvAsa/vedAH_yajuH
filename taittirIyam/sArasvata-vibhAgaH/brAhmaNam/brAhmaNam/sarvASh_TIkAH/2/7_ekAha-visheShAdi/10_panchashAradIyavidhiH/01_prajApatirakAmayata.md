@@ -8,6 +8,11 @@ unicode_script = "devanagari"
 1. Prajāpati desired, 'Would that I were great, and more numerous!'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati desired: "May I become more numerous than the many."
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्र॒जाप॑तिरकामयत "ब॒होर्भूया॑न्त्स्या॒"मिति॑ ।

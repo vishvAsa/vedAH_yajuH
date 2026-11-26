@@ -2,6 +2,13 @@
 title = "05 उभाभ्यान् देव"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+By both, O divine Savitṛ,  
+by the purifier and by the impulse,  
+we purify this brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भाभ्या॑न् देव सवितः ।  

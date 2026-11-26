@@ -2,6 +2,13 @@
 title = "23 पूषा रेवत्यन्वेति"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that lunar mansion Śatabhiṣaj, being pleased with us,  
+prolong long lifespan \[and\] remedies.  
+Aja Ekapād has risen in the east,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म् ।   

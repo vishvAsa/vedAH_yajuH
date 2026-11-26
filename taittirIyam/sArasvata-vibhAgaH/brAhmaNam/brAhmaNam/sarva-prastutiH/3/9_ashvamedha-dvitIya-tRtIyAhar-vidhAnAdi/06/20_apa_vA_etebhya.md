@@ -19,6 +19,11 @@ unicode_script = "devanagari"
 9. But, indeed, the vital airs pass from those who speak impure speech at the sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The vital breaths depart from them
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॒ वा ए॒तेभ्य॑ᳶ प्रा॒णाᳵ क्रा॑मन्ति ॥26॥

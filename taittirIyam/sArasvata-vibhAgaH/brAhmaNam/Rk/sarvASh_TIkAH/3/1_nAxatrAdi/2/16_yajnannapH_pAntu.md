@@ -5,6 +5,13 @@ title = "16 यज्ञन्नᳶ पान्तु"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May that lunar mansion extend itself for domestic animals;  
+may plowing and rain be ready for the sacrificer.  
+Bright maidens, youthful, richly ornamented,
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  

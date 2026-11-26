@@ -4,6 +4,11 @@ title = "05 मोदᳶ प्रमोद"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he conquer prize in the winning of prize.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मोद॑ᳶ प्रमो॒द आ॑न॒न्दः ॥55॥  

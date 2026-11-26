@@ -4,6 +4,13 @@ title = "11 यातुधाना निरृतिर्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sorcerers, Nirṛti, and the rakṣas—  
+let them destroy his truth with untruth;  
+impelled by Indra, let them churn out his clarified butter;
+</details>
+
 <details><summary>मूलम्</summary>
 
 या॒तु॒धाना॒ निर्ऋ॑ति॒रादु॒रक्षः॑ ।

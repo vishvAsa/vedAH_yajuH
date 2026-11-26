@@ -3,6 +3,13 @@ title = "११ तथा हास्य ब्रह्मणा"
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin is brahman;  
+the Rājanya is regal power.  
+Thus, through both brahman and regal power, his splendor is enclosed on both sides.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 तथा॑ हास्य॒ ब्रह्म॑णा च क्ष॒त्रेण॑ चोभ॒यत॒श्श्रीᳶ परि॑गृहीता भवति ।

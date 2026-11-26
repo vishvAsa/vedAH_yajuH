@@ -5,6 +5,11 @@ title = "04 पुरन्दराय वृषभाय"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessing heroes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑ ।  

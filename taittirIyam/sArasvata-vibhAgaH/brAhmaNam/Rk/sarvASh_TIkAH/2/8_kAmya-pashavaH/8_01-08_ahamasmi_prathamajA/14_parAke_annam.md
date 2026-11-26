@@ -4,6 +4,13 @@ title = "14 पराके अन्नम्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placed in the far distance, in this world,  
+is food, guarded by all the gods, by the ancestors.  
+That which is eaten, that which is torn away, that which is cast aside—
+</details>
+
 <details><summary>मूलम्</summary>
 
 परा॑के॒ अन्न॒न्निहि॑तल्ँ लो॒क ए॒तत् ।  

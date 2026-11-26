@@ -4,6 +4,14 @@ title = "15 विश्ववपरी प्रतरणा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may those two wise ones of great vows protect us!  
+All-nourishing, transporting across, conquering,  
+finding heaven, of many rays for seeing,  
+sun and moon, bright treasures, wondrous to behold,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   

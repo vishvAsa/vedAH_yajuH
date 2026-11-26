@@ -4,6 +4,13 @@ title = "40 अनन्ताम् अन्ताद्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in speech are set all these beings.
+
+May she, the wife of Indra, favor our invocation:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न॒न्तामन्ता॒दधि॒ निर्मि॑ताम्म॒हीम् ।  

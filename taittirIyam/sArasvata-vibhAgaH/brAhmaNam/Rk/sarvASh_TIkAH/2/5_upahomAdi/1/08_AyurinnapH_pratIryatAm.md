@@ -2,6 +2,15 @@
 title = "08 आयुरिन्नᳶ प्रतीर्यताम्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+may keen sight not abandon us.  
+May our lifespan be extended;  
+may we, not blind through the eye,  
+living, attain the light,  
+the sun-light and the immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयु॒रिन्न॒ᳶ प्रती॑र्यताम् ।  

@@ -3,6 +3,11 @@ title = "४१ एकमिषे विष्णुस्त्वाऽन्
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One: may Viṣṇu follow you for refreshment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक॑मि॒षे विष्णु॒स्त्वाऽन्वे॑तु ।

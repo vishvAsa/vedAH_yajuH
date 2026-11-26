@@ -3,6 +3,12 @@ title = "02 यस्य भान्ति"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose rays shine, whose banners \[shine\],  
+whose are all these worlds—
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्य॒ भान्ति॑ र॒श्मयो॒ यस्य॑ के॒तवः॑ ।   

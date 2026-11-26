@@ -3,6 +3,11 @@ title = "४२ द्वे ऊर्जे विष्णुस्त्व�
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two: may Viṣṇu follow you for vigor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे ऊ॒र्जे विष्णु॒स्त्वाऽन्वे॑तु ।

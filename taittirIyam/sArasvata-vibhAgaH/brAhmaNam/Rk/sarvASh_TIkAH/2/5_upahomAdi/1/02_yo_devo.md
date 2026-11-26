@@ -2,6 +2,14 @@
 title = "02 यो देवो"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+The god who is widely present among the gods,  
+the bull that has risen from the water, burning disease;  
+that exhalation worship with the mind:  
+foremost of the gods, let it eat this our oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर॒न्तः ।  

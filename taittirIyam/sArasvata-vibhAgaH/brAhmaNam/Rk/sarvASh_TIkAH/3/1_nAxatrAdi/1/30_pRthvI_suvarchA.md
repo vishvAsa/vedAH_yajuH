@@ -2,6 +2,12 @@
 title = "30 पृथ्वी सुवर्चा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+rejoice here on the highest firmament.  
+Broad, well-radiant, a harmonious maiden,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थ्वी सु॒वर्चा॑ युव॒तिस्स॒जोषाः॑ ।  

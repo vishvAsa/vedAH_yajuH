@@ -2,6 +2,11 @@
 title = "09 तन्नो विश्वे"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+in
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्नो॒ विश्वे॒ उप॑शृण्वन्तु दे॒वाः ।  

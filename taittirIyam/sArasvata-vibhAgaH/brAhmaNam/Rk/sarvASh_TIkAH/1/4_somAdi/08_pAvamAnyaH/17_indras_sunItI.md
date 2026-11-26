@@ -2,6 +2,14 @@
 title = "17 इन्द्रस् सुनीती"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Indra purify me with good guidance;  
+Soma with well-being; Varuṇa with concordance;  
+may King Yama purify me with crushing blows;  
+may Jātavedas purify me with invigorating \[power\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स् सुनी॒ती स॒ह मा॑ पुनातु ।  

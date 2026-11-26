@@ -2,6 +2,12 @@
 title = "11 बृहस्पतिᳶ प्रथमञ्जायमानः"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+came into being over the Tiṣya lunar mansion,  
+the best of the gods, victorious in battles;
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पति॑ᳶ प्रथ॒मञ्जाय॑मानः ।   

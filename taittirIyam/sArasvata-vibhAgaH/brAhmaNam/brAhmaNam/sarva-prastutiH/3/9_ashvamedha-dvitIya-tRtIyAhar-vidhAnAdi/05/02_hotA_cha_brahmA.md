@@ -10,6 +10,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Hotṛ and the Brahmā speak the theological dialogue.
+</details>
+
 <details><summary>मूलम्</summary>
 
 होता॑ च ब्र॒ह्मा च॑ ब्र॒ह्मोद्यव्ँ॑ वदतः ।

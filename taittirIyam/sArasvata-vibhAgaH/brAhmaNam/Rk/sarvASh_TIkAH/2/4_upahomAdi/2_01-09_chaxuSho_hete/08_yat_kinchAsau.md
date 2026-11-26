@@ -4,6 +4,15 @@ title = "08 यत् किञ्चासौ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever that man offers with mind or with speech,  
+through sacrifices, through the sacrificial formula, through oblations,
+
+May Death, in agreement with Nirṛti,  
+strike down his offerings before they are accomplished!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्किञ्चा॒सौ मन॑सा॒ यच्च॑ वा॒चा ।

@@ -8,6 +8,13 @@ unicode_script = "devanagari"
 I will keep the vow! may I be equal to it, may I succeed in it!'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+rich in milk is the sap of the herbs;  
+that sap which is the milk of the waters—  
+with that, O Indra, unite me.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अग्ने॑ व्रतपते व्र॒तञ्च॑रिष्यामि ।  

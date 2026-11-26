@@ -10,6 +10,12 @@ title = "अनधस् सादनम्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the heavenly realm is as if above,  
+for the attainment of the heavenly realm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन॑धस्सादयति ।  

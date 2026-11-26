@@ -2,6 +2,14 @@
 title = "07 चक्षुर्देवानाञ्ज्योतिरमृते"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+the goddess Speech, enjoy this oblation.  
+The eye of the gods, light anointed in the immortal,  
+is manifoldly set down for understanding this.  
+May we attain its favor;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  

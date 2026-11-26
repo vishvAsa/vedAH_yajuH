@@ -12,6 +12,12 @@ unicode_script = "devanagari"
 [^egg_643]: 254:5 The function of 'prati' here seems to be to strengthen the preposition in the verb 'prati-tishṭḥāmi.'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+by my shanks and feet I am sacred order,  
+the king firmly established among the clan.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्रति॑ क्ष॒त्रे प्रति॑तिष्ठामि रा॒ष्ट्रे ।

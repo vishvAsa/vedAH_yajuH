@@ -4,6 +4,15 @@ title = "17 पिता विराजाम्,"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father of luminous bodies, the bull of riches,  
+omniform entered the intermediate space.  
+They revere that calf with praises,  
+magnifying him who is brahman with brahman.  
+Brahman generated the gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒ता वि॒राजा॑मृष॒भो र॑यी॒णाम् ।  

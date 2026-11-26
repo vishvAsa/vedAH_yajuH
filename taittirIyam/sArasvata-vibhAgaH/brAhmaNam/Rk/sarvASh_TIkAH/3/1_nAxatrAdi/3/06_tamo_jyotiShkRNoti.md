@@ -2,6 +2,12 @@
 title = "06 तमो ज्योतिष्कृणोति"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+shining forth, the daughter of heaven;  
+the great one uncovers the waters with her eye.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ।  

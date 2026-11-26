@@ -4,6 +4,13 @@ title = "24 क्षुद्रान्पशून्रक्षतु"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+greeting all beings with joy.  
+All the gods follow his impulse,  
+the Proṣṭhapadās, the protectors of immortality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षु॒द्रान्प॒शून्र॑क्षतु रे॒वती॑ नः ।    

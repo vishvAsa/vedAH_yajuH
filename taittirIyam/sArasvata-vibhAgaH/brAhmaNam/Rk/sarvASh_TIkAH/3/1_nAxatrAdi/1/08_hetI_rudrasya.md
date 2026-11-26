@@ -5,6 +5,14 @@ title = "08 हेती रुद्रस्य"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we pay worship to his lunar mansion with oblation;  
+may he not harm our offspring nor our heroes!  
+May the missile of Rudra pass around us;  
+may the Ārdrā lunar mansion enjoy our oblation!
+</details>
+
 <details><summary>मूलम्</summary>
 
 हे॒ती रु॒द्रस्य॒ परि॑ णो वृणक्तु ।  

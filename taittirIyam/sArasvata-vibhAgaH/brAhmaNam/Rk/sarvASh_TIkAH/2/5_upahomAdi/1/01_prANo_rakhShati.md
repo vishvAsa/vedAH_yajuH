@@ -2,6 +2,13 @@
 title = "01 प्राणो रक्षति"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Exhalation protects all that moves;  
+having become active in many ways, \[protects\] many \[creatures\];  
+it has pervaded everything.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णो र॑क्षति॒ विश्व॒मेज॑त् ।  

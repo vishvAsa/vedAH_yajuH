@@ -4,6 +4,15 @@ title = "07 श्रद्धा देवानधि"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Faith, inspire faith in me here!  
+Faith encompasses the gods,  
+Faith this whole world.  
+Faith, the mother of desire,  
+we magnify with an oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धा दे॒वानधि॑ वस्ते ।  

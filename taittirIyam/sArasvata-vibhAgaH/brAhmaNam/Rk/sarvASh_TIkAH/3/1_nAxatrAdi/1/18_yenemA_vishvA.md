@@ -5,6 +5,13 @@ title = "18 येनेमा विश्वा"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the living one, the winner of winnings,  
+by whom all these worlds have been won together,  
+whose intent the gods follow!
+</details>
+
 <details><summary>मूलम्</summary>
 
 येने॒मा विश्वा॒ भुव॑नानि॒ सञ्जि॑ता ।  

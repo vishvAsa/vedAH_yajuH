@@ -2,6 +2,15 @@
 title = "12 पावमानीस् स्वस्त्ययनीः"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purifying \[hymns\] bringing well-being,
+
+yielding good milk, rich in milk—  
+the sap gathered by the ṛṣis,  
+immortality placed within the Brahmins—
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ॥49॥  

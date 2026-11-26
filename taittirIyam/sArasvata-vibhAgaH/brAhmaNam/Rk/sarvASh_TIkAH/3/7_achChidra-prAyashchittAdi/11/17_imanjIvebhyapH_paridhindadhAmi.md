@@ -3,6 +3,15 @@ title = "17 इमञ्जीवेभ्यᳶ परिधिन्दधा�
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, are Ayās; O Prajāpati;  
+This perimeter I place for the living,  
+lest any other of them go to this region now.  
+May they live a hundred full autumns;  
+let them conceal death with a mountain.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 इ॒मञ्जी॒वेभ्य॑ᳶ परि॒धिन्द॑धामि ।  

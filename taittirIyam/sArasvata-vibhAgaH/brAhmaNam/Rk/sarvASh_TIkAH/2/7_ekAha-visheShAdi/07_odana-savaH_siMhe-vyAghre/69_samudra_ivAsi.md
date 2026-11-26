@@ -4,6 +4,17 @@ title = "69 समुद्र इवासि"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whence the rivers flow,  
+with the brilliance of all of them,  
+with luster I sprinkle you.”  
+“Like the ocean are you in depth;  
+like Soma are you unassailable;  
+like Agni facing in all directions;  
+like the sun pervading with light.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒मु॒द्र इ॑वासि ग॒ह्मना॑ ।  

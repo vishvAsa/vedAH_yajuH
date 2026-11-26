@@ -3,6 +3,11 @@ title = "02 चित्रन्नक्षत्रमुदगात्प�
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let the god Mitra become our alliance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चि॒त्रन्नक्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  

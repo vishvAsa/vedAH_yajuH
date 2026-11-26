@@ -26,6 +26,11 @@ seed went from it and became gold [^egg_682]: thus, when he gives gold (to the p
 When the horse was immolated, its seed went out and it became the shining gold.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+they place greatness in him thereby.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व॑स्य॒ वा आल॑ब्धस्य॒ रेत॒ उद॑क्रामत् ।

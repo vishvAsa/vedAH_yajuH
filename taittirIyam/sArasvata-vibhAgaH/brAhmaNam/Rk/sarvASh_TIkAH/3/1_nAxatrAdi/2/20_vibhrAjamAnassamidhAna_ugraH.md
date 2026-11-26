@@ -4,6 +4,14 @@ title = "20 विभ्राजमानस्समिधान उग्र�
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the great sky, the earth, the midspace.  
+Unto that Śroṇā goes, desiring fame,  
+making a holy renown for the sacrificer.  
+The eight divine Vasus, belonging to Soma,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   

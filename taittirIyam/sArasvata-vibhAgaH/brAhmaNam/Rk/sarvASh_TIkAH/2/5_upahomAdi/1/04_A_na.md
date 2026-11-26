@@ -2,6 +2,14 @@
 title = "04 आ न"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the mind that goes before come to us  
+together with the gods to this call,  
+placing the lord of the sacrifice  
+in better and better work.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ न॑ एतु पुरश्च॒रम् ।  

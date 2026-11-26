@@ -3,6 +3,11 @@ title = "४६ षड्रायस्पोषाय विष्णुस्
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Six: may Viṣṇu follow you for prosperity of wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षड्रा॒यस्पोषा॑य॒ विष्णु॒स्त्वाऽन्वे॑तु ।

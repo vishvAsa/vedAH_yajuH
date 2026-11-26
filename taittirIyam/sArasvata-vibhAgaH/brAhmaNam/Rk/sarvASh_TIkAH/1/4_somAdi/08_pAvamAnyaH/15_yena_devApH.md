@@ -2,6 +2,14 @@
 title = "15 येन देवाᳶ"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+by that filter with which the gods  
+continually purify themselves,  
+with that thousand-streamed \[filter\]  
+may the purifying \[hymns\] purify \[us\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  

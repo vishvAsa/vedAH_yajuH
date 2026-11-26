@@ -4,6 +4,11 @@ title = "02 प्रजापतिस् स्त्रियाय्ँ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may he conquer the enemies, exulting;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिस्स्त्रि॒याय्ँ यशः॑ ।  

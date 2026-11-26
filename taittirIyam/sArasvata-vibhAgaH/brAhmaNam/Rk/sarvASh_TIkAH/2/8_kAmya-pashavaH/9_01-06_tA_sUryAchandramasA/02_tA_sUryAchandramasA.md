@@ -4,6 +4,14 @@ title = "02 ता सूर्याचन्द्रमसा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, sun and moon, sustaining all, great,  
+radiant with treasure, rule in heaven;  
+their essence is the Sāman, moving in harmony,  
+the course of which two gods has never been measured.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   

@@ -4,6 +4,14 @@ title = "38 तेजस्वद् अस्तु"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+fiery may my head be;  
+fiery facing in all directions.  
+Unite me with fiery energy!”  
+“You are splendorous might;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेज॑स्वदस्तु मे॒ मुख॑म् ।  

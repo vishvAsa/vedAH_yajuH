@@ -2,6 +2,14 @@
 title = "25 वायुर्नक्षत्त्रमभ्येति"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vāyu approaches the Niṣṭyā lunar mansion,  
+the sharp-horned bull, roaring loudly;  
+setting the worlds in motion, Mātariśvan,  
+may he thrust away hatreds \[and\] enemies!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒युर्नक्ष॑त्त्रम॒भ्ये॑ति॒ निष्ट्या॑म् ।  

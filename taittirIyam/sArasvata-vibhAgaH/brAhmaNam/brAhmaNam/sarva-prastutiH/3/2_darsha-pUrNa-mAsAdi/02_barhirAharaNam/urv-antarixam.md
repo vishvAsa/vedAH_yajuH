@@ -8,6 +8,13 @@ title = "उ॒र्व॑न्तरि॑क्ष॒म्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are going to the gods," he says.  
+He makes it go to the gods.  
+He sets \[it\] down not below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "उ॒र्व॑न्तरि॑क्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै॑ ।

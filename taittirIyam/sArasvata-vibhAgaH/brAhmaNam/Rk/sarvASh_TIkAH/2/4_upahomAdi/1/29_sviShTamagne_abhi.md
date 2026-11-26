@@ -4,6 +4,13 @@ title = "29 स्विष्टमग्ने अभि"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+overcome all hostiles, O god;  
+shine out, showing us the broad path;  
+grant us luminous, unaging \[life\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वि॑ष्टमग्ने अ॒भि तत्पृ॑णाहि ।  

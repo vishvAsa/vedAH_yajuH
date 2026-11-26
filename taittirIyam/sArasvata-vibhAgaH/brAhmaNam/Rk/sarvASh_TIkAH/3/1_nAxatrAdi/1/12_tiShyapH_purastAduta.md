@@ -3,6 +3,12 @@ title = "12 तिष्यᳶ पुरस्तादुत"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+along all quarters may there be fearlessness for us!  
+May Tiṣya protect us in front and in the middle;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ति॒ष्य॑ᳶ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॑ ।  

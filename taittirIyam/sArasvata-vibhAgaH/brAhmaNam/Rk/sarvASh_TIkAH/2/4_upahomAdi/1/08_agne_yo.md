@@ -3,6 +3,15 @@ title = "08 अग्ने यो"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+tread down the might of those acting as enemies.  
+O Agni, whatever person around us,  
+wolf or rogue, seeks to slay us —
+
+Slay them, O Vṛtra-slayer;
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अग्ने॒ यो नो॒ऽभितो॒ जनः॑ ।  

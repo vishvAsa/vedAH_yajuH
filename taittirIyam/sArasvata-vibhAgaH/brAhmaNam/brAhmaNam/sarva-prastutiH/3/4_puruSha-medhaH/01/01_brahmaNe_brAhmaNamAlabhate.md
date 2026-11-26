@@ -17,6 +17,11 @@ unicode_script = "devanagari"
 [^egg_1064]: 409:2 Or, he perfects, completes, the priesthood by (adding to it a member of) the priesthood.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For brahman, he seizes a Brahmin;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णे ब्राह्म॒णमाल॑भते ।

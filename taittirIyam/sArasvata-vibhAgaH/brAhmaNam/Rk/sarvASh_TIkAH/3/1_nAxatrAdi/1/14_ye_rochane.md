@@ -5,6 +5,15 @@ title = "14 ये रोचने"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They who dwell in the intermediate space \[and\] on the earth,  
+may those serpents come most readily to our call!  
+Those serpents who are also in the realm of the sun,  
+who wander along the divine heaven,  
+whose desire the Āśreṣās follow—
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये रो॑च॒ने सूर्य॒स्यापि॑ स॒र्पाः ।   

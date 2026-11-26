@@ -2,6 +2,13 @@
 title = "13 इदं सर्पेभ्यो"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we be masters of heroic strength!  
+May this oblation be pleasing to the serpents,  
+whose intent the Āśreṣās follow!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒दँ स॒र्पेभ्यो॑ ह॒विर॑स्तु॒ जुष्ट॑म् ।  

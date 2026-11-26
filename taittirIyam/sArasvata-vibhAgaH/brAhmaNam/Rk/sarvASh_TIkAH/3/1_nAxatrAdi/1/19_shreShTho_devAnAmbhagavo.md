@@ -2,6 +2,14 @@
 title = "19 श्रेष्ठो देवानाम्भगवो"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Best of the gods, O Bhaga, you are Bhaga;  
+the Phalgunīs know that of you; know that!  
+Push together here for us unaging regal power,  
+accompanied by heroic strength, rich in cows, rich in horses!
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रेष्ठो॑ दे॒वाना॑म्भगवो भगासि ।  

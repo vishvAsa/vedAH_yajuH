@@ -4,6 +4,11 @@ title = "06 अहर्नो अद्य"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+through it Mitra walks along the paths of the gods,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   

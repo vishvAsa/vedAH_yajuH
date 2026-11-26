@@ -3,6 +3,11 @@ title = "३० प्रत्यश्वेषु प्रतितिष्
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In regal power he is established, in the realm;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यश्वे॑षु॒ प्रति॑तिष्ठामि॒ गोषु॑ ।

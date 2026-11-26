@@ -4,6 +4,12 @@ title = "44 वाचं देवा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+speech, the imperishable syllable, first-born of truth,  
+mother of the Vedas, navel of immortality!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाच॑न्दे॒वा उप॑ जीवन्ति॒ विश्वे॑ ।  

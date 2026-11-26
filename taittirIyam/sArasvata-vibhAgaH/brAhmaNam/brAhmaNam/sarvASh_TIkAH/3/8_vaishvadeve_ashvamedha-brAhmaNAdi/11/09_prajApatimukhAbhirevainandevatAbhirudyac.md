@@ -8,6 +8,11 @@ unicode_script = "devanagari"
 he makes the one relating to Prajāpati the first (or chief one), and thus upholds (the Aśvamedha) by means of the deities with Prajāpati as their chief.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with deities that have Prajāpati at their head, he lifts it up.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 प्र॒जाप॑तिमुखाभिरे॒वैन॑न्दे॒वता॑भि॒रुद्य॑च्छते ॥42॥

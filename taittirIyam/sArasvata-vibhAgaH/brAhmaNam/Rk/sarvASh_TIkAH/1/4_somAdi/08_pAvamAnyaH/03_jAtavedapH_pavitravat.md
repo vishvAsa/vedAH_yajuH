@@ -2,6 +2,14 @@
 title = "03 जातवेदᳶ पवित्रवत्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Jātavedas, possessor of the purifier,  
+purify me with the purifier,  
+shining with bright light, O god,  
+O Agni, along with will according to wills.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  

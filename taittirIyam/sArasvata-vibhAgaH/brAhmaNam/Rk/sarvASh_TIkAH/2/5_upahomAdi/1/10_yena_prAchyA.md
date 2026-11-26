@@ -2,6 +2,14 @@
 title = "10 येन प्राच्या"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whereby they hear from the east, and from the south,  
+and the directions to the west from the north,  
+that very ear, being manifoldly uttered,  
+encompassed everything like a felly around spokes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।

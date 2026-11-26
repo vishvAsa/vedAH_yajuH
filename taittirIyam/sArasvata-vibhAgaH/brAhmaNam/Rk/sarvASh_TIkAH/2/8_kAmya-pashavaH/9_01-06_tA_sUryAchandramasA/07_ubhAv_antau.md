@@ -4,6 +4,13 @@ title = "07 उभाव् अन्तौ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two travel around both borders \[of the sky\];  
+they spread out their rays like \[rays\] of heaven in the ocean;  
+both discerning beings, having poetic vision,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   

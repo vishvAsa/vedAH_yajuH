@@ -3,6 +3,14 @@ title = "12 अभितिष्ठ पृतन्यतः"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and maintain the kingdom here.  
+Trample upon those who fight against you;  
+let your enemies be beneath \[you\];  
+stand like Indra, the slayer of Vṛtra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒भिति॑ष्ठ पृतन्य॒तः ।

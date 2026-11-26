@@ -8,6 +8,12 @@ unicode_script = "devanagari"
 2. Concerning this they say, 'Is the rope to be made twelve cubits long, or thirteen cubits long?'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Regarding this they say:  
+'Should the halter be made twelve cubits long, or thirteen cubits long?'
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 तदा॑हुः ।  

@@ -89,3 +89,14 @@ knowing the seven hotras, fill the seven wombs with ghee.
 seven your tongues, seven the seers, seven your beloved domains;  
 knowing the seven priestly offices, fill your seven wombs with ghee!
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमो ऽनुवाकः ।  
+चतुर्थे ऽन्न-होम-मन्त्र उक्तः ।  
+पञ्चमे विमृन्-नामको होम-मन्त्र उच्यते—  
+> सप्त ते॑ अग्ने समिध॑ः सप्त जिह्वाः ।  
+> सप्तर्षयः सप्त धाम॑ प्रि॒याणि ।  
+> स॒प्त हो॒त्रा॑ अनु-विद्वान् ।  
+> स॒प्त योनीर् रापृणस्व घृ॒तेन॑ ।
+</details>

@@ -4,6 +4,11 @@ title = "11 यथाऽहमस्या अतृपँ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+possessed of thousands, may he blaze without neglect;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा॒ऽहम॒स्या अतृ॑पँ स्त्रि॒यै पुमा॑न् ।  

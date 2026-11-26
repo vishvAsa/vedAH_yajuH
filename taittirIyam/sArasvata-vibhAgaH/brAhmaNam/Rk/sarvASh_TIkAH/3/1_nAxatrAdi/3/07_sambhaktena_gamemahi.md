@@ -2,6 +2,12 @@
 title = "07 सम्भक्तेन गमेमहि"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+The noble one makes light out of darkness;  
+the sun accompanies the reddish dawn-rays;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भ॒क्तेन॑ गमेमहि ।  

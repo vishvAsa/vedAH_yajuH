@@ -4,6 +4,14 @@ title = "18 महान्तौ चरू"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+that has become my hundredth body.  
+The two great vessels were filled with a single milking,  
+heaven and the dappled earth together;  
+drinking it fully, the wise ordainers do not diminish it;
+</details>
+
 <details><summary>मूलम्</summary>
 
 म॒हान्तौ॑ च॒रू स॑कृद्दु॒ग्धेन॑ पप्रौ ।   

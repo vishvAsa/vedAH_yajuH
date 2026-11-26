@@ -4,6 +4,16 @@ title = "30 अहम् मेघस्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+eating alone, he becomes purely guilty.  
+I am the cloud, thundering, raining;  
+me they eat, I eat the others.
+
+I, being \[truth\], become immortal;  
+through me all the Ādityas shine with heat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हम्मे॒घस्स्त॒नय॒न्वर्ष॑न्नस्मि ।  

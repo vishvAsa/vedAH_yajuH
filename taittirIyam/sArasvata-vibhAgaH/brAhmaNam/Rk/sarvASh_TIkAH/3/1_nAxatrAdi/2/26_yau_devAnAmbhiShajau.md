@@ -3,6 +3,14 @@ title = "26 यौ देवानाम्भिषजौ"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the Proṣṭhapadās, all protect.  
+Four gods for a single work,  
+those whom they call the Proṣṭhapadās:  
+praising the Budhnya who sits in council,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  

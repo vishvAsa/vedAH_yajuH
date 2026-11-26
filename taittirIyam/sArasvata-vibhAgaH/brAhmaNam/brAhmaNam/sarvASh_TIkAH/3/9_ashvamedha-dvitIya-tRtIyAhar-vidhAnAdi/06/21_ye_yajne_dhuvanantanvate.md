@@ -10,6 +10,12 @@ Nine times they walk round [^egg_825];
 [^egg_825]: 323:4 Viz. another three times in the sunwise way. Having completed their circumambulation, the king's wives cleanse the horse's apertures of the vital airs (mouth, nostrils, eyes, &c.), as the Sacrificer's wife did at the ordinary animal sacrifice (III, 8, 2, 4), which they do with the text, 'We call upon thee, the treasure-lord of treasures, O my true lord!'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who perform the fanning at the sacrifice.  
+Nine times they go around.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 ये य॒ज्ञे धुव॑नन्त॒न्वते॑ ।  

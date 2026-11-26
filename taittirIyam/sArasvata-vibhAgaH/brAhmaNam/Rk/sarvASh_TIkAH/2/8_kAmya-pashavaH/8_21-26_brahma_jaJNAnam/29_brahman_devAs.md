@@ -4,6 +4,14 @@ title = "29 ब्रह्मन् देवास्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+in brahman are Indra and Prajāpati;  
+in brahman indeed all beings  
+are held together as within a ship.  
+Let the four fires proceed to the quarters;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑न्दे॒वास्त्रय॑स्त्रिँशत् ।  

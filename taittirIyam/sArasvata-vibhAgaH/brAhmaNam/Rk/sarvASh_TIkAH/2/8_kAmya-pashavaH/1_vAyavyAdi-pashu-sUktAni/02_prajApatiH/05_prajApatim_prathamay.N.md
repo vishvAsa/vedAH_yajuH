@@ -4,6 +4,14 @@ title = "05 प्रजापतिम् प्रथमय्ँ"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati, the foremost of those worthy of sacrifice,  
+worship the adorable one at the head of the gods!  
+May he grant us wealth and heroic sons;  
+may he untie for us the navel \[source\] of increase of wealth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  

@@ -17,6 +17,11 @@ unicode_script = "devanagari"
 [^egg_1044]: 452:1 According to this (and Tāṇḍya Br. IV, 9, 13) it would seem that the Hotr̥ is not to recite the hymn of the Mānasa-stotra, as prescribed by the Ait. Br. and Āśv.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Hotṛ recites the Caturhotṛ formulas;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतु॑र्होतॄ॒न् होता॒ व्याच॑ष्टे ।

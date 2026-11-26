@@ -2,6 +2,11 @@
 title = "03 इन्द्रो ज्येष्ठामनु"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we live a hundred autumns,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति ।   

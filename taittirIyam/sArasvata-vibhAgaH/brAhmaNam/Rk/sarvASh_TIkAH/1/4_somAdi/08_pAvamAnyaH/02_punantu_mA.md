@@ -2,6 +2,13 @@
 title = "02 पुनन्तु मा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine folk purify me;  
+may the Manus purify me with vision;  
+may all human beings purify me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पु॒नन्तु॑ मा देवज॒नाः ।  

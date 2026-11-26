@@ -9,6 +9,12 @@ title = "इन्द्रस्य बाहुः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+thou art Indra’s right arm,’ he says;  
+he places virile power into the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "इन्द्र॑स्य बा॒हुर् अ॑सि॒ दक्षि॑ण॒" इत्य् आ॑ह ।

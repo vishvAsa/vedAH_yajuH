@@ -26,6 +26,11 @@ throat (gullet) of the Gomr̥ga [^egg_859];
 The first oblation he offers, the neck of the Gavaya (a particular variety of ox).
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers the first oblation with the throat of a nilgai.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो॒मृ॒ग॒क॒ण्ठेन॑ प्रथ॒मामाहु॑तिञ्जुहोति ।

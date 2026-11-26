@@ -2,6 +2,13 @@
 title = "11 यस्मिन्ब्रह्माऽभ्यजयत्सर्वमेतत्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Milking immortality in it,  
+may we cross over hunger, misery, and poor sacrifice.  
+For the fortress-destroyer, the bull, the daring,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒त्सर्व॑मे॒तत् ।   

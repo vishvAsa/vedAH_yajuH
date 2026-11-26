@@ -2,6 +2,14 @@
 title = "13 पावमानीर् दिशन्तु"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+may the purifying \[hymns\] assign to us  
+this world and also that one;  
+may they fulfill our desires,  
+divine \[powers\] brought together by the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीर् दि॑शन्तु नः ।  

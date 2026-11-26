@@ -4,6 +4,13 @@ title = "26 यो मा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I strike the sorcery that has been performed.  
+Whoever by night, by day, at evening,  
+and at the morning of the day looks maliciously upon me,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मा॒ नक्त॒न्दिवा॑ सा॒यम् ।

@@ -3,6 +3,13 @@ title = "06 अमोचि"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he has been freed from the fetters of deceit and of Nirṛti;  
+he has left behind distress; he has found comfort;  
+he has entered into the blessed world of good deeds.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अमो॑चि॒ यक्ष्मा॑द्दुरि॒तादव॑र्त्यै ॥26॥  

@@ -10,6 +10,14 @@ Granting a thousandfold prosperity,
 The fortunate one hath come to us with radiance accordant [1].
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two who are the physicians of the gods, the bearers of oblations,  
+the messengers of everything, the guardians of immortality—  
+let those two, rejoicing in their lunar mansion, come hither.  
+Homage we pay to the Aśvins, the Aśvayujas!
+</details>
+
 <details><summary>मूलम्</summary>
 
 नि॒वेश॑नी स॒ङ्गम॑नी॒ वसू॑नाव्ँ॒ विश्वा॑ रू॒पाणि॒ वसू॑न्यावे॒शय॑न्ती ।  

@@ -4,6 +4,14 @@ title = "05 यो मा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever attacks me with the eye, whoever with the mind,  
+whoever with speech, with brahman, seeking to harm,  
+through that missile, O Agni,  
+render that one missile-less!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मा॒ चक्षु॑षा॒ यो मन॑सा ।

@@ -2,6 +2,14 @@
 title = "15 उपहूताᳶ पितरो"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invoked are the Fathers who are in the Maghās,  
+swift as thought, doing good, of good deeds;  
+may they come most readily to our call at the lunar mansion,  
+with the ancestral offerings may they enjoy the proffered sacrifice!
+</details>
+
 <details><summary>मूलम्</summary>
 
 उप॑हूताᳶ पि॒तरो॒ ये म॒घासु॑ ।  

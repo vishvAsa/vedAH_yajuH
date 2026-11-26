@@ -2,6 +2,13 @@
 title = "04 वयन्देवी ब्रह्मणा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+We, being in accord with the goddess through brahman,  
+rich in jewels, presenting the feast for the gods,  
+increasing day and night with oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 व॒यन्दे॒वी ब्रह्म॑णा सव्ँ विदा॒नाः ।     

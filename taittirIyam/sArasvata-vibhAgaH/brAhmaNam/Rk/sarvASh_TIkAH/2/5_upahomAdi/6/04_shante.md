@@ -3,6 +3,14 @@ title = "04 शन्ते"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Auspicious to you be both these, heaven and earth;  
+auspicious to you be Agni together with the waters;  
+auspicious to you be the four quarters.  
+The divine four quarters
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 शन्ते॑ अ॒ग्निस्स॒हाद्भिर॑स्तु ।  

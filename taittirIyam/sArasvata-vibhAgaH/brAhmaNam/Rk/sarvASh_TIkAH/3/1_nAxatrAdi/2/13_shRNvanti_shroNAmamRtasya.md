@@ -2,6 +2,14 @@
 title = "13 शृण्वन्ति श्रोणाममृतस्य"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May it place us today in auspicious fortune,  
+the lunar mansion that they call Mūla;  
+with speech I drive Nirṛti far away;  
+may there be blessing for offspring, blessing for me.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम् ।  

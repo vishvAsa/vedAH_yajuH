@@ -8,6 +8,12 @@ unicode_script = "devanagari"
 'May he obtain, may he accomplish what he prays for through this offering!'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whatever he prays for with this oblation,  
+may he attain that, may he succeed in that!
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यद॒नेन॑ ह॒विषाऽऽशा॑स्ते ।  

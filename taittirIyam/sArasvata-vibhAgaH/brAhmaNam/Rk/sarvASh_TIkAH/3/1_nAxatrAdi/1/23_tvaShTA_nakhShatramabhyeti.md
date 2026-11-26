@@ -2,6 +2,12 @@
 title = "23 त्वष्टा नक्षत्रमभ्येति"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tvaṣṭṛ approaches the Citrā lunar mansion,  
+the shapely, shining maiden,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्टा॒ नक्ष॑त्रम॒भ्ये॑ति चि॒त्राम् ।  

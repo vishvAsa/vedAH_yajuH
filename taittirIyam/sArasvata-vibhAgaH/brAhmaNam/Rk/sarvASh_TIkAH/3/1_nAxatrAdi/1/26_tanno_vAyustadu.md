@@ -4,6 +4,12 @@ title = "26 तन्नो वायुस्तदु"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Vāyu hear that for us, and may Niṣṭyā \[hear\] that;  
+may that lunar mansion be a giver of abundance to me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्नो॑ वा॒युस्तदु॒ निष्ट्या॑ शृणोतु ।   

@@ -2,6 +2,13 @@
 title = "03 मनसश्चित्तेदम्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+By the thought of the mind, this—  
+past and future—is guarded;  
+for that is the foremost among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन॑स॒श्चित्ते॒दम् ।  

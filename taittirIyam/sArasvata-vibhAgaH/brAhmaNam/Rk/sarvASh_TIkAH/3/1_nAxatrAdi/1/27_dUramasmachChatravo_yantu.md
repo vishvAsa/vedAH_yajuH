@@ -2,6 +2,13 @@
 title = "27 दूरमस्मच्छत्रवो यन्तु"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+let Indra and Agni effect that, let the Viśākhās \[effect\] that.  
+Let the gods welcome this sacrifice of ours;  
+let there be safety for us from behind and from before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दू॒रम॒स्मच्छत्र॑वो यन्तु भी॒ताः ।   

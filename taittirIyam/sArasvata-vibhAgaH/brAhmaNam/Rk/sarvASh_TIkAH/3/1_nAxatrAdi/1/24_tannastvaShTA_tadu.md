@@ -4,6 +4,13 @@ title = "24 तन्नस्त्वष्टा तदु"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+establishing mortals and immortals,  
+fashioning forms, all the worlds.  
+May Tvaṣṭṛ look upon that for us, and may Citrā \[look upon it\]!
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्न॒स्त्वष्टा॒ तदु॑ चि॒त्रा विच॑ष्टाम् ।  

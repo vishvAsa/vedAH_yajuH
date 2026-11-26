@@ -3,6 +3,15 @@ title = "16 इन्द्र एणम्"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+winning waters and fields.  
+Indra has held him firm,  
+with a firm oblation;  
+to him have the gods spoken favor,  
+and this Brahmaṇaspati.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॑ एणमदीधरत् ।

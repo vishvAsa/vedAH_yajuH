@@ -4,6 +4,13 @@ title = "21 ब्रह्म देवान्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+brahman \[generated\] this whole world;  
+from brahman regal power was fashioned;  
+brahman is the Brahmin by himself;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ दे॒वान॑जनयत् ।  

@@ -4,6 +4,11 @@ title = "08 मनसश् चित्तम्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, bearer of regal power, of unbent splendorous might,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन॑सश्चि॒त्तमाकू॑तिम् ।  

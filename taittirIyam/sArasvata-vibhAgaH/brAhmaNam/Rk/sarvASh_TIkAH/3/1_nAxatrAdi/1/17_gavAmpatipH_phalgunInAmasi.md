@@ -2,6 +2,13 @@
 title = "17 गवाम्पतिᳶ फल्गुनीनामसि"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the lord of the cows, of the Phalgunīs,  
+that, O Aryaman, Varuṇa, Mitra, is delightful!  
+As such, may we, living, dwell near you,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गवा॒म्पति॒ᳶ फल्गु॑नीनामसि॒ त्वम् ।  

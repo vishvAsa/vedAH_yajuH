@@ -3,6 +3,14 @@ title = "01 अग्निर्नᳶ पातु"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni protect our Kṛttikās,  
+the divine, potent lunar mansion.  
+This is their looking-place;  
+offer an oblation into their mouth!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्निर्न॑ᳶ पातु॒ कृत्ति॑काः ।   

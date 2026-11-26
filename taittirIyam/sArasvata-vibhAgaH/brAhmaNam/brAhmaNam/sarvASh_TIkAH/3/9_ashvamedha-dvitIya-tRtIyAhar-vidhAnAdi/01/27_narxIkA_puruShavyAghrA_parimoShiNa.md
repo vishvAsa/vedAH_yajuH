@@ -3,6 +3,11 @@ title = "२७ नर्क्षीका पुरुषव्याघ्र
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+and noxious insects, man-tigers, robbers, and piercing thieves are not born in the forests.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 नर्क्षीका॑ᳶ पुरुषव्या॒घ्राᳶ प॑रिमो॒षिण॑ आव्या॒धिनी॒स्तस्क॑रा॒ अर॑ण्ये॒ष्वाजा॑यन्ते ॥4॥

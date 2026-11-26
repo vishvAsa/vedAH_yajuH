@@ -4,6 +4,14 @@ title = "28 यस्मिन्नक्षत्रे यम"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may they grant prize-wealth and sacrifice to the sacrificer.  
+May the Aśvins approach that with the Aśvayujas,  
+foremost in going to beauty with well-guided horses,  
+worshiping their own lunar mansion with an oblation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्नक्ष॑त्रे य॒म एति॒ राजा॑ ।  

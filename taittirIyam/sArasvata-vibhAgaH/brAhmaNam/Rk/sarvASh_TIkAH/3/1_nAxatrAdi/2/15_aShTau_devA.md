@@ -2,6 +2,14 @@
 title = "15 अष्टौ देवा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose sweetness the Aṣāḍhās consume:  
+may those waters be peaceful and pleasant to us.  
+May all the gods listen to this for us;  
+may the Aṣāḍhās come unto that sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  

@@ -22,6 +22,11 @@ unicode_script = "devanagari"
 From the horse that was slaughtered, its Medhas (life-sap) came out.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the horse was seized, its sacrificial essence went out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व॑स्य॒ वा आल॑ब्धस्य॒ मेध॒ उद॑क्रामत् ।

@@ -3,6 +3,11 @@ title = "04 रोहिणी"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May she place us in the prosperity of the sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रो॒हि॒णी दे॒व्युद॑गात्पु॒रस्ता॑त् ।  

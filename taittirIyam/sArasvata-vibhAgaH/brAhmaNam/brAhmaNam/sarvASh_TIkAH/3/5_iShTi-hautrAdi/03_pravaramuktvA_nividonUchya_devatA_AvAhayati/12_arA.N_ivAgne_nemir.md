@@ -8,6 +8,11 @@ unicode_script = "devanagari"
 15. Further, 'Thou, O Agni! dost encompass the gods, as the felly the spokes;'
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+As a rim surrounds the spokes, O Agni, you surround the gods.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।

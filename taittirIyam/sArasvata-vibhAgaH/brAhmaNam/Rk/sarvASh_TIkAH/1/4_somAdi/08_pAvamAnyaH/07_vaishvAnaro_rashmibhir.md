@@ -2,6 +2,13 @@
 title = "07 वैश्वानरो रश्मिभिर्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Vaiśvānara purify me with his rays;  
+may the Wind, swift and beneficent, \[purify me\] with his breath;  
+may heaven and earth, rich in order and worthy of sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रो र॒श्मिभि॑र् मा पुनातु ।   

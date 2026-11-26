@@ -2,6 +2,13 @@
 title = "06 यया रूपाणि"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through whom the gods speak forms in many ways,  
+and ornaments, in the supreme place of birth—  
+may she, Virāj, not kicking back,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा वद॑न्ति ।  

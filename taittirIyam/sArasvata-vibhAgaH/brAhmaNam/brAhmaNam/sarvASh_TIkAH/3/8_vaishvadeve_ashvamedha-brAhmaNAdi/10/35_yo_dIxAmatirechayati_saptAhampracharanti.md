@@ -10,6 +10,12 @@ For
 seven days they observe it;
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+who lets the initiation run over.  
+They perform \[the rite\] for seven days;
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यो दी॒क्षाम॑तिरे॒चय॑ति ।  

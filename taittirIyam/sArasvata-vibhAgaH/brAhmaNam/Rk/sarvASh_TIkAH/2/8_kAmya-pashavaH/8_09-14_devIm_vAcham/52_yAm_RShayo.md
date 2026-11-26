@@ -4,6 +4,13 @@ title = "52 याम् ऋषयो"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+sought out, \[whom\] the gods \[sought\] by ascetic toil, by effort;  
+that divine speech we worship with oblation;  
+may she place us in the world of the well-done!
+</details>
+
 <details><summary>मूलम्</summary>
 
 यामृष॑यो मन्त्र॒कृतो॑ मनी॒षिणः॑ ।  

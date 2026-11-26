@@ -4,6 +4,16 @@ title = "24 ब्रह्म वनम्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whereon he stood while supporting the worlds:  
+brahman was the forest, brahman was that tree.
+
+From which they fashioned heaven and earth.  
+Wise men, with mind I declare \[it\] to you:  
+Brahman stood over them, sustaining the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  

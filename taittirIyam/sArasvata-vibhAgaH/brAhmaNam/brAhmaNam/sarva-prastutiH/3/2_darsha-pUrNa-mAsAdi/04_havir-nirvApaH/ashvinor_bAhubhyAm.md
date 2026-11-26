@@ -15,6 +15,12 @@ title = "अ॒श्विनो॑र् बा॒हुभ्या॒म्"
 'With the arms of the Aśvins', he says, for the Aśvins were the Adhvaryus of the gods. 
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'With the arms of the Aśvins.'  
+For the Aśvins were the two Adhvaryu priests of the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अ॒श्विनो॑र्बा॒हुभ्या॒"मित्या॑ह ।

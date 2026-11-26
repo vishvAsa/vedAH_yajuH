@@ -5,6 +5,13 @@ title = "14 त्रेधा विष्णुरुरुगायो"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The divine waters that arose with milk,  
+those in the midspace and those belonging to the earth,  
+whose desire the Aṣāḍhās pursue,
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   

@@ -5,6 +5,14 @@ title = "20 भगो ह"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bhaga indeed is the giver, Bhaga is the distributor;  
+Bhaga entered the divine Phalgunīs;  
+may we go to that instigation of Bhaga,  
+where we may revel in joint revelry with the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगो॑ ह दा॒ता भग॒ इत्प्र॑दा॒ता ।  

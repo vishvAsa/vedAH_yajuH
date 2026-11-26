@@ -4,6 +4,15 @@ title = "10 जहाम्य् अन्यन्,"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I abandon the one, I do not abandon the other;  
+I, food, wander at will.
+
+To a common purpose I go around, consuming;  
+what mortal would have mercy on me, the food?
+</details>
+
 <details><summary>मूलम्</summary>
 
 जहा॑म्य् अ॒न्यन् न ज॑हाम्य॒न्यम् ।  

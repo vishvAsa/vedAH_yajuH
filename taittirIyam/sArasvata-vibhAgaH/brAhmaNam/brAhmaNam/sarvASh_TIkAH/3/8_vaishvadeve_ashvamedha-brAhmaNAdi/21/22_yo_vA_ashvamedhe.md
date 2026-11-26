@@ -8,6 +8,12 @@ unicode_script = "devanagari"
 He who knows them thus, becomes the head of the kings. He who knows the three Kakuds (humps) in the Aśvamedha, becomes the high- est among the kings. Twenty-one-fold altar, twenty-one-fold Stomas and twenty- one Yūpas - the three Kakuds are in Aśvamedha.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who knows the three summits in the horse sacrifice  
+becomes the summit of kings.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यो वा अ॑श्वमे॒धे ति॒स्रᳵ क॒कुभो॒ वेद॑ ।  

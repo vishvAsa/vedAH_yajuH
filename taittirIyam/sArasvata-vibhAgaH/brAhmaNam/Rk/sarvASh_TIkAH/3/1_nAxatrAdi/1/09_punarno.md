@@ -2,6 +2,14 @@
 title = "09 पुनर्नो"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the goddess Aditi rescue us again;  
+may the two Punarvasus come again to our sacrifice!  
+May all the gods turn again toward us;  
+again and again we worship you with an oblation!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुन॑र्नो दे॒व्यदि॑तिस्स्पृणोतु ।   

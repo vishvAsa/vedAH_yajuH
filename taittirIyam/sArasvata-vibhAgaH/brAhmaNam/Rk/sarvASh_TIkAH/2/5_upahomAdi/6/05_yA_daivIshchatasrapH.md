@@ -3,6 +3,14 @@ title = "05 या दैवीश्चतस्रᳶ"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+whose lord is the wind, upon which the sun looks:  
+to them I commit you until old age;  
+let consumption depart far off to Nirṛti!  
+He has been released from consumption, from evil, from distress;
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 या दैवी॒श्चत॑स्रᳶ प्र॒दिशः॑ ।  

@@ -4,6 +4,13 @@ title = "06 पूर्वम् अग्नेर्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where those two sit, in the highest \[heavens\],  
+the animals see his open mouth, well-toothed;  
+the wise perceive \[it\], the simple-minded wander about.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पूर्व॑म॒ग्नेरपि॑ दह॒त्यन्न॑म् ।  

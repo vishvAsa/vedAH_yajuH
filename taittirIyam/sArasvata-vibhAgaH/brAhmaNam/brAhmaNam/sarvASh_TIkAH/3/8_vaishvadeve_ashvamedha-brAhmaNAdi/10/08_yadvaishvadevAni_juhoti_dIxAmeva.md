@@ -15,6 +15,12 @@ He perceived those Vaiśvadeva [^egg_727] (oblations).
 When the Yajamāna offers the oblations to Vaiśvadevas, he is indeed securing the Dīkṣā (initiation).
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he offers the Vaiśvadeva \[oblations\],  
+by them the sacrificer obtains the initiation.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यद्वै॑श्वदे॒वानि॑ जु॒होति॑ ।  

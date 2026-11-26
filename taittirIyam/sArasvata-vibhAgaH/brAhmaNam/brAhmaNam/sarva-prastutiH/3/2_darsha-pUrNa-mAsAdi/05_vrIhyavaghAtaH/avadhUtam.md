@@ -10,6 +10,12 @@ title = "अवधूतम्"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Shaken away is the rakṣas, shaken away are the enemies," he says.  
+For the smiting away of the rakṣases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  

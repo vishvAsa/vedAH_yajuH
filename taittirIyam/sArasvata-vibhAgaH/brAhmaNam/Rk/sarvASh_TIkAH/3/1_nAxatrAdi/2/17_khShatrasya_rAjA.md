@@ -2,6 +2,13 @@
 title = "17 क्षत्रस्य राजा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+In which the brahman conquered all this—  
+both yonder world and all of this;  
+having conquered, may that lunar mansion Abhijit
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  

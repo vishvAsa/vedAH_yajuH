@@ -4,6 +4,15 @@ title = "02 अहम् अस्मि"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I am the first-born of truth,  
+prior to the gods, the navel of immortality.  
+He who gives me, he indeed has preserved me;  
+I, food, eat the eater of food.  
+Prior to fire, food also consumes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒हम॑स्मि प्रथम॒जा ऋ॒तस्य॑ ।  

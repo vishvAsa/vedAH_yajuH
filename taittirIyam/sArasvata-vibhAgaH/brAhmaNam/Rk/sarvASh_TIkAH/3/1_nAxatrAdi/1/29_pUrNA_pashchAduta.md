@@ -10,6 +10,11 @@ In her let the gods dwelling together
 Rejoice here in the highest firmament.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+hauling away above, conveying away below.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॑त् ।   

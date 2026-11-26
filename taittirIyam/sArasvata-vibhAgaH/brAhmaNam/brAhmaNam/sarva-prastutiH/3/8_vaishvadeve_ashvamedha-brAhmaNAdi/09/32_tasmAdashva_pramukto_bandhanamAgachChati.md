@@ -10,6 +10,11 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘To Agni svāhā! Svāhā to Indrāgni!’ thus he offers the preliminary offerings;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॒दश्व॒ᳶ प्रमु॑क्तो॒ बन्ध॑न॒माग॑च्छति ।

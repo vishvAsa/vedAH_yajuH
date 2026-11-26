@@ -22,6 +22,11 @@ unicode_script = "devanagari"
 The second oblation he makes with the horse's hoof.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He offers the second oblation with a horse's hoof.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्व॒श॒फेन॑ द्वि॒तीया॒माहु॑तिञ्जुहोति ।

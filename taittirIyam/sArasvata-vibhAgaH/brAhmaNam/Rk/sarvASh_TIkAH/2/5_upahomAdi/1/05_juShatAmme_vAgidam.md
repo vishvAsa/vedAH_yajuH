@@ -2,6 +2,13 @@
 title = "05 जुषताम्मे वागिदम्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the goddess Virāj, placed in front,  
+the unfailing bringer of oblations,  
+enjoy this my oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जु॒षता॑म्मे॒ वागि॒दँ ह॒विः ।  

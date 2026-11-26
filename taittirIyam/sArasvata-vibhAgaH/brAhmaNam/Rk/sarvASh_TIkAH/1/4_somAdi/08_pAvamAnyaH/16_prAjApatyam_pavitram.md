@@ -2,6 +2,14 @@
 title = "16 प्राजापत्यम् पवित्रम्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+The filter belonging to Prajāpati,  
+stretching out a hundredfold, made of gold—  
+by that, we who know brahman  
+purify the purified brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  

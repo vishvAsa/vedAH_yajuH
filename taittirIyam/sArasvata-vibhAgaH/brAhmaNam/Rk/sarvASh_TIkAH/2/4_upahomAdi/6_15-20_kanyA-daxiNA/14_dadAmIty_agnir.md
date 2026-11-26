@@ -4,6 +4,11 @@ title = "14 ददामीत्य् अग्निर्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+shining brightly, kindled, fierce,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ददा॒मीत्य॒ग्निर्व॑दति ।  

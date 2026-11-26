@@ -4,6 +4,13 @@ title = "06 यत्ते"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That which is your lunar mansion, Mṛgaśīrṣa,  
+dear, O King, dearest of the dear,  
+to that \[mansion\] of yours, O Soma, may we pay worship with oblation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्ते॒ न॑क्षत्रम्मृगशी॒र्षमस्ति॑ ।   

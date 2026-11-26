@@ -9,6 +9,11 @@ title = "दृँह॑स्व॒"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Be firm, do not stagger!" he says, for stability.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दृँह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै॑ ॥17॥

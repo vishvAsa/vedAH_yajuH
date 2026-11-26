@@ -2,6 +2,14 @@
 title = "05 सोमो राजा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+King Soma has come with Mṛgaśīrṣa,  
+the auspicious lunar mansion, his dear abode;  
+swelling abundantly among the peoples,  
+may he place semen \[and\] offspring in the sacrificer!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमो॒ राजा॑ मृगशी॒र्षेण॒ आग॑न् ।   

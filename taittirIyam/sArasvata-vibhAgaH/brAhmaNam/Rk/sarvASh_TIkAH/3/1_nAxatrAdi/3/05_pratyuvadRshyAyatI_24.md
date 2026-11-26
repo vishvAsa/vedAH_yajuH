@@ -2,6 +2,12 @@
 title = "05 प्रत्युवदृश्यायती 24"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+may we pass beyond evil through deliverance!  
+Lo, she has been seen approaching,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यु॑वदृश्याय॒ती ॥24॥  

@@ -2,6 +2,11 @@
 title = "07 या दिव्या"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+and spread wide in the midspace.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   

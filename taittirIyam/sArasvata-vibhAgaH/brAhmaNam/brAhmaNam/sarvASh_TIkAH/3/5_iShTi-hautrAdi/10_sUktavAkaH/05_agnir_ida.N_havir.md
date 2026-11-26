@@ -13,6 +13,12 @@ unicode_script = "devanagari"
 (He says), "Agni has with pleasure accepted this oblation, he has greatly grown, he has made (acquired) greater power (lustre)". Thus he speaks of the Agni's share of ghee.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the presence of these two:  
+Agni has enjoyed this oblation;
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अ॒ग्निरि॒दँ ह॒विर॑जुषत ।  

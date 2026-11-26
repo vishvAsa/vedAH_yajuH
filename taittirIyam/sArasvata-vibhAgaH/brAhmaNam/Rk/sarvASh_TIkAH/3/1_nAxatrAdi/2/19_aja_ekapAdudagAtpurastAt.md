@@ -2,6 +2,13 @@
 title = "19 अज एकपादुदगात्पुरस्तात्"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great goddess, the ageless wife of Viṣṇu,  
+turned toward us, we worship her with an oblation.  
+Threefold Viṣṇu of wide stride stepped out:
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त् ।  

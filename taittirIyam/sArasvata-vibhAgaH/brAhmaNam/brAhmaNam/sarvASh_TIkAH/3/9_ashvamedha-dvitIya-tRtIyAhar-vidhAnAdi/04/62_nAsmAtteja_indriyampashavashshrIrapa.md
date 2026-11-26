@@ -8,6 +8,11 @@ unicode_script = "devanagari"
 There-by bril- liance, energy, cattle and prosperity do not depart from him.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fiery energy, power of the senses, domestic animals, and fortune do not depart from him.
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 नास्मा॒त्तेज॑ इन्द्रि॒यम्प॒शव॒श्श्रीरप॑ क्रामन्ति ।

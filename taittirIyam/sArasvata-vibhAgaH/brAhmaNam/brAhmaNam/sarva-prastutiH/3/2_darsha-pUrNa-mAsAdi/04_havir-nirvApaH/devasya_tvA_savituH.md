@@ -13,6 +13,12 @@ title = "दे॒वस्य॑ त्वा"
 'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the Aśvins were the two adhvaryus of the gods.  
+He says, 'With the hands of Pūṣan,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।

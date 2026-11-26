@@ -2,6 +2,15 @@
 title = "09 येन देवा"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+By that with which the gods purified \[themselves\],  
+by which the waters \[purified\] the celestial whip,  
+by that celestial brahman,
+
+we purify this brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा अपु॑नत ।   

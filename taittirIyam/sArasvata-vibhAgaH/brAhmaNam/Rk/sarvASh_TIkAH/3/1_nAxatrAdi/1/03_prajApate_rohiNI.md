@@ -2,6 +2,11 @@
 title = "03 प्रजापते रोहिणी"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+all-formed, lofty, of variegated brightness!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑ते रोहि॒णी वे॑तु॒ पत्नी॑ ।   

@@ -4,6 +4,15 @@ title = "11 पती द्युमद्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+sun and moon travel, minds intent;  
+both lords of heaven, luminous, all-knowing,  
+both sun and moon, far-seeing,
+
+all-desirable, wide-ruling, both choice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   

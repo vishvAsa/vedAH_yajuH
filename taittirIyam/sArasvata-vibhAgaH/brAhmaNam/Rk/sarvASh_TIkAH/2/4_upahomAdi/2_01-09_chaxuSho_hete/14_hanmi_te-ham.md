@@ -4,6 +4,13 @@ title = "14 हन्मि तेऽहम्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+let not that which he performs succeed!  
+I strike your prepared oblation,  
+\[you\] who have worked terror against me;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हन्मि॑ ते॒ऽहङ्कृ॒तँ ह॒विः ।

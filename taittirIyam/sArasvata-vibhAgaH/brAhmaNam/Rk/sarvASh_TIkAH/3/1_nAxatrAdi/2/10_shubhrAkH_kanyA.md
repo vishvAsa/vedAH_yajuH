@@ -4,6 +4,11 @@ title = "10 शुभ्राᳵ कन्या"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+which he overcame Vṛtra in the battle
+</details>
+
 <details><summary>मूलम्</summary>
 
 शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स्सु॒पेश॑सः ।   

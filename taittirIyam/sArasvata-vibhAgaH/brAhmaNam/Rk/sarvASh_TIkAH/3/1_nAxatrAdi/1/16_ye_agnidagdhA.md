@@ -6,6 +6,12 @@ title = "16 ये अग्निदग्धा"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are burned by fire, those who are unburned by fire,  
+the Fathers who dwell in yonder world,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये अ॑ग्निद॒ग्धा येऽन॑ग्निदग्धाः ।  

@@ -2,6 +2,11 @@
 title = "08 प्र नक्षत्राय"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+rising together with them, the radiant lunar mansion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र नक्ष॑त्राय दे॒वाय॑ ।  

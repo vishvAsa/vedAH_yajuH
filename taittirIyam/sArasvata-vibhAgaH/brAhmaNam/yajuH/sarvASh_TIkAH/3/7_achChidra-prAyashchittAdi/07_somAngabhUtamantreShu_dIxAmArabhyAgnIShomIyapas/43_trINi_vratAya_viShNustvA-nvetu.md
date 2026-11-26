@@ -3,6 +3,11 @@ title = "४३ त्रीणि व्रताय विष्णुस्�
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three: may Viṣṇu follow you for vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीणि॑ व्र॒ताय॒ विष्णु॒स्त्वाऽन्वे॑तु ।

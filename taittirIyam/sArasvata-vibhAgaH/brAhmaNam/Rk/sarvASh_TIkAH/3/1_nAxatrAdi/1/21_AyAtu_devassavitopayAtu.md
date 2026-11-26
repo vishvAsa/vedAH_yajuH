@@ -2,6 +2,12 @@
 title = "21 आयातु देवस्सवितोपयातु"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+bringing the auspicious, skillfully working Hasta,  
+toward the bountiful, meritorious \[mansion\] that bestows!
+</details>
+
 <details><summary>मूलम्</summary>
 
 आया॑तु दे॒वस्स॑वि॒तोप॑यातु ।  

@@ -3,6 +3,11 @@ title = "४५ पञ्च पशुभ्यो विष्णुस्त�
 unicode_script = "devanagari"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Five: may Viṣṇu follow you for domestic animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च॑ प॒शुभ्यो॒ विष्णु॒स्त्वाऽन्वे॑तु ।

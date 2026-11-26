@@ -2,6 +2,15 @@
 title = "27 अप पाप्मानम्भरणीर्भरन्तु"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Enjoying these offered oblations,  
+may they come unto our sacrifice with easy-going conveyances.  
+May Revatī protect our small domestic animals;  
+may Pūṣan follow our cows and horses.  
+Guarding food of many various kinds,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।   

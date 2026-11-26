@@ -4,6 +4,11 @@ title = "17 आपस् तथ्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he mounted the intermediate realm, he went to heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आप॒स्तत्स॒त्यमाभ॑रन् ।  

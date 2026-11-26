@@ -2,6 +2,14 @@
 title = "09 श्रोत्रेण भद्रमुत"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the ear they hear what is auspicious and true;  
+with the ear, speech being uttered in many ways;  
+with the ear joy and greatness are heard;  
+with the ear I listen to all the directions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रोत्रे॑ण भ॒द्रमु॒त शृ॑ण्वन्ति स॒त्यम् ।  

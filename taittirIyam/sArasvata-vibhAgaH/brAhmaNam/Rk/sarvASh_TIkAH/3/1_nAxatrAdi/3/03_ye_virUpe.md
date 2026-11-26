@@ -2,6 +2,12 @@
 title = "03 ये विरूपे"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+the pervasive, the potent, the conforming, I call from every side;  
+may those two lunar mansions come to our call!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये विरू॑पे॒ सम॑नसा सव्ँ॒ व्यय॑न्ती ।  

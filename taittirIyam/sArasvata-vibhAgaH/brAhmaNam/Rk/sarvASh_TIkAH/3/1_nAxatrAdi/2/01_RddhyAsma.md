@@ -2,6 +2,11 @@
 title = "01 ऋद्ध्यास्म"
 
 +++
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching with homage, may we prosper through oblations;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्नम॑सोप॒सद्य॑ ।  

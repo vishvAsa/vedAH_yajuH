@@ -4,6 +4,13 @@ title = "205 इन्द्रस् स"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, be made to give;  
+he is most splendorous in might, established in strength,  
+resplendent, renowned, related to Soma;
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्र॒स् स दाम॑ने कृ॒तः ।   

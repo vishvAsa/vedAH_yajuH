@@ -3,6 +3,12 @@ title = "22 हस्तᳶ"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Hasta bestow nectar, superior wealth;  
+with the right hand may we receive it!
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्त॒ᳶ प्रय॑च्छत्व॒मृतव्ँ॒वसी॑यः ।   

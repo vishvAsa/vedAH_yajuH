@@ -3,6 +3,14 @@ title = "68 त्वमग्ने अयासि"
 
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Agni, are swift;  
+being swift, placed in the mind,  
+being swift, you have borne the oblation;  
+being swift, grant us healing!
+</details>
+
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 त्वम॑ग्ने अ॒यासि॑ ।   

@@ -4,6 +4,16 @@ title = "17 अपनह्यामि ते"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+both your arms turned backwards  
+I bind fast, \[and\] your mouth.
+
+I bind fast your arms,  
+I bind fast your mouth;  
+by the brahman of god Agni,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप॑नह्यामि ते बा॒हू ।

@@ -4,6 +4,16 @@ title = "25 अन्तर् अस्मिन्न्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+within it are these worlds;
+
+within it is this whole world;  
+brahman alone is the eldest of beings;  
+who is able to contend with it?  
+In brahman are the thirty-three gods;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तर॑स्मिन्नि॒मे लो॒काः ॥ 67 ॥  

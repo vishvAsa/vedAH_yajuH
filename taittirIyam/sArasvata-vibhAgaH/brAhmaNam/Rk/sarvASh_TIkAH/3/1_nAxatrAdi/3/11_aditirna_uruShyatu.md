@@ -11,6 +11,11 @@ Let Aditi guard us from tribulation.
 </details>
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the brilliant fiery energy rising up,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑तिर्न उरुष्य॒त्वदि॑ति॒श्शर्म॑ यच्छतु ।  

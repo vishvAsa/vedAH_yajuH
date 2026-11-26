@@ -5,6 +5,14 @@ title = "12 उभौ लोकौ"
 
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the unconquered, the victorious, the bounteous,  
+for Indra, may Jyeṣṭhā, milking sweetness,  
+make wide space for the sacrificer.  
+May I attain Mūla, offspring possessing heroes;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  

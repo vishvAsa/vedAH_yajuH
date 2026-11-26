@@ -16,6 +16,11 @@ Then the gods prospered,
 the Asuras were defeated. 
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon the gods came to be;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो॑ दे॒वा अभ॑वन् ।  

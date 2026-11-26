@@ -4,6 +4,14 @@ title = "02 चक्षुषो हेते"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Missile of the eye, missile of the mind,  
+missile of speech, missile of brahman—  
+whoever, seeking to harm, attacks me,  
+render him missile-less through your missile, O Agni!
+</details>
+
 <details><summary>मूलम्</summary>
 
 चक्षु॑षो हेते॒ मन॑सो हेते ।

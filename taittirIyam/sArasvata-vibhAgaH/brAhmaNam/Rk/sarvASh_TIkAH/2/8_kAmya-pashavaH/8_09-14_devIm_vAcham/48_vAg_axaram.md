@@ -4,6 +4,13 @@ title = "48 वाग् अक्षरम्"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May she, delighting \[in us\], come to the sacrifice;  
+may the goddess, easily invoked, be my protector!  
+Whom the seers, the mantra-makers, the wise ones,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाग॒क्षर॑म्प्रथम॒जा ऋ॒तस्य॑ ।  

@@ -4,6 +4,14 @@ title = "10 एवा न"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even so, may the unobstructed goddess Aditi,  
+the supporter of all, the foundation of the world,  
+strengthening the two Punarvasus with an oblation,  
+approach the dear dwelling of the gods!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒वा न दे॒व्यदि॑तिरन॒र्वा ।   

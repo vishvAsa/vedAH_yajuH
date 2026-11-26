@@ -4,6 +4,11 @@ title = "08 याश्च कूप्या"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra follows the lunar mansion Jyeṣṭhā,
+</details>
+
 <details><summary>मूलम्</summary>
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   

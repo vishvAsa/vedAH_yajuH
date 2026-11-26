@@ -8,6 +8,11 @@ title = "अग्ने॑ ह॒व्यँ"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says, 'O Agni, protect the oblation,' for protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
