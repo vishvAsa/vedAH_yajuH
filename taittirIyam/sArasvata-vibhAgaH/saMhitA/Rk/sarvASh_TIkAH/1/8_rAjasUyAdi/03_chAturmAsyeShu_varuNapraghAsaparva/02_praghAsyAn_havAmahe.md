@@ -9,15 +9,44 @@ The Maruts who bear the sacrifice,
 Rejoicing in the mush.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+We invoke the gluttonous Maruts, who bear the sacrifice,  
+who rejoice together over the groats.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+We call the voracious Maruts, who bear the sacrifice,  
+sharing pleasure with the groats.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र॒घा॒स्या॑न् हवामहे म॒रुतो॑ य॒ज्ञवा॑हसः ।   
 कर॒म्भेण॑ स॒जोष॑सः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रधास्या᳙न्हवामहे मरु᳓तो यज्ञ᳓वाहसः।  
+करम्भे᳓ण सजोषसः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र॒घा॒स्या॑निति॑ प्र-घा॒स्यान्॑ । ह॒वा॒म॒हे॒ । म॒रुतः॑ । य॒ज्ञवा॑हस॒ इति॑ य॒ज्ञ-वा॒ह॒सः॒ । क॒र॒म्भेण॑ । स॒जोष॑स॒ इति॑ स-जोष॑सः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- धास्या᳙न् (मूल-पाठः)
+- हवामहे (*MS*-19, *TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-13)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- यज्ञ᳓-वाहसः (*MS*-1/3, *TS*-1/2, *RV*-0/3, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1)
+- करम्भे᳓ण (*MS*-1/3, *TS*-1/3, *RV*-0/3, *TB*-1/4, *AV*-1/3, *SB-M*-1/5, *SB-K*-1/11, *VS-M*-1/3, *VS-K*-1/3)
+- सजोषसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-3, *AV*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

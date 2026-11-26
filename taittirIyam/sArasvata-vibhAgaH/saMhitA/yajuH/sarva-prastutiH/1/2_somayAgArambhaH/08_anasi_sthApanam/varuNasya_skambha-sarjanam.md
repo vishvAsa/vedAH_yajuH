@@ -2,6 +2,7 @@
 title = "वरुणस्य स्कम्भ-सर्जनम्"
 unicode_script = "devanagari"
 +++
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓रुणस्य +++(सोमस्य च)+++ स्कम्भ+++(=अविचलमवस्थानं)+++स᳓र्जनम् असि ।
@@ -14,6 +15,11 @@ unicode_script = "devanagari"
 Thou art the prop of Varuna's pillar.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You are the releasing of Varuṇa’s prop!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णस्य स्कम्भ॒सर्ज॑नमसि ।
@@ -23,7 +29,7 @@ Thou art the prop of Varuna's pillar.
 
 वरु॑णस्य । स्कम्भ॑नम् । अ॒सि॒ । 
 
-वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ । 
+वरु॑णस्य । स्क॒म्भ॒सर्ज॑न॒मिति॑ स्कम्भ-सर्ज॑नम् । अ॒सि॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

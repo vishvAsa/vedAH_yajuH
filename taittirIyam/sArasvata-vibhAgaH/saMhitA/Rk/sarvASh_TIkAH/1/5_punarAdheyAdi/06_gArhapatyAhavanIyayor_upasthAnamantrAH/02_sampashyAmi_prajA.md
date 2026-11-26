@@ -3,7 +3,6 @@ title = "02 **सम्पश्यामि प्रजा**"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 I gaze on offspring,  
@@ -11,15 +10,40 @@ Offspring of Ida, connected with Manu;
 May they all be in our house.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I look upon the creatures, the human offspring of Iḍā;  
+may they be numerous in our house.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 सम्प॑श्यामि प्र॒जा अ॒हमिड॑प्रजसो मान॒वीः ।  
 सर्वा॑ भवन्तु नो गृ॒हे  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सम्पश्यामि प्रजा अहमिडाप्रजसो मानवीः।  
+बव्हीर्भवन्तु नो गृहे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 समिति॑ । प॒श्या॒मि॒ । प्र॒जा इति॑ प्र-जाः । अ॒हम् । इड॑प्रजस॒ इतीड॑-प्र॒ज॒सः॒ । मा॒न॒वीः ॥ सर्वाः॑ । भ॒व॒न्तु॒ । नः॒ । गृ॒हे ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- पश्यामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-7, *TS*-7, *TB*-1, *TK*-1, *AV*-4, *SB-M*-3, *SB-K*-7, *VS-M*-1, *VS-K*-1)
+- प्र-जाः᳓ (*MS*-161/407, *TS*-188/482, *RV*-11/70, *TB*-82/258, *TK*-5/13, *AV*-44/164, *SB-M*-302/595, *SB-K*-343/626, *VS-M*-15/68, *VS-K*-19/61)
+- अह᳓म् (*MW*, *MS*-160/641, *TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274)
+- इ᳓डाप्रजसः (अनाम्नातम् (अनुमानम्))
+- मानवीः᳓ (*MS*-3/5, *TS*-1/3, *RV*-0/1, *TB*-0/2, *AV*-0/2, *SB-M*-0/3, *SB-K*-0/3)
+- ब᳓व्हीर्भवन्तु (अनाम्नातम् (अनुमानम्))
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- गृहे᳓ (*MS*-24/81, *TS*-19/49, *RV*-23/62, *TB*-19/34, *TK*-1/3, *AV*-24/87, *SB-M*-7/99, *SB-K*-5/96, *VS-M*-2/10, *VS-K*-2/14)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

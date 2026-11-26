@@ -3,7 +3,6 @@ title = "03 वनेषु व्यन्तरिक्षन्"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 He hath stretched out the sky over the woods;  
@@ -12,12 +11,24 @@ Varuna hath set skill in the heart [1], Agni in dwellings,
 The sun in the sky, the Soma on the hill.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He stretched out the atmosphere among the trees, speed in racers, milk in the inviolable [cows],  
+Varuṇa set insight in hearts, Agni in clans, the sun in the sky, Soma on the rock.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Varuṇa spread the intermediate space into the woods, speed into the coursers, milk into the inviolable [cows],  
+will into hearts, Agni into the clans, the Sun into heaven, and Soma upon the rock.
+</details>
+
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
 वने॑षु॒ व्य॑न्तरि॑क्षन्ततान॒ वाज॒मर्व॑त्सु॒ पयो॑ अघ्नि॒यासु॑ हृ॒त्सु [15]क्रतुव्ँ॒वरु॑णो वि॒क्ष्व॑ग्निन्दि॒वि सूर्य॑मदधा॒त्सोम॒मद्रौ
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 वने॑षु॒ व्य॑न्तरि॑क्षन्ततान॒  
 वाज॒मर्व॑त्सु॒ पयो॑ अघ्नि॒यासु॑ ।  
@@ -25,10 +36,36 @@ The sun in the sky, the Soma on the hill.
 दि॒वि सूर्य॑मदधा॒त्सोम॒मद्रौ॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+व᳓नेषु व्य᳙न्त᳓रिक्षं ततान वा᳓जम᳓र्वत्सु प᳓यो अघ्न्या᳓सु।  
+हृत्सु᳓ क्र᳓तुं व᳓रुणो विक्ष्व्रग्निं᳓ दिवि᳓ सू᳓र्यमदधात्सो᳓मम᳓द्रौ
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ । 
+वने॑षु । वीति॑ । अ॒न्तरि॑क्षम् । त॒ता॒न॒ । वाज॑म् । अर्व॒त्स्वित्यर्व॑त्-सु॒ । पयः॑ । अ॒घ्नि॒यासु॑ । हृ॒त्स्विति॑ हृत्-सु । क्रतु॑म् । वरु॑णः । वि॒क्षु । अ॒ग्निम् । दि॒वि । सूर्य॑म् । अ॒द॒धा॒त् । सोम॑म् । अद्रौ॑ ।
+</details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓नेषु (*MS*-6/13, *TS*-5/12, *RV*-20/76, *TB*-0/1, *AV*-4/19, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-8/13, *VS-K*-6/11)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- अन्त᳓रिक्षम् (*MS*-114/193, *TS*-105/180, *RV*-45/94, *TB*-30/54, *TK*-7/10, *AV*-79/143, *SB-M*-177/263, *SB-K*-173/257, *VS-M*-42/76, *VS-K*-36/65)
+- ततान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-5, *RV*-11, *TB*-3, *AV*-4, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- अ᳓र्वत्सु (*MS*-1, *TS*-3, *RV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- प᳓यः (*MS*-85/138, *TS*-34/63, *RV*-53/97, *TB*-48/73, *AV*-35/64, *SB-M*-88/133, *SB-K*-91/139, *VS-M*-37/55, *VS-K*-27/43)
+- अ-घ्न्या᳓सु (*MS*-1/3, *RV*-0/9, *AV*-0/14, *SB-M*-0/6, *SB-K*-0/5, *VS-M*-0/2, *VS-K*-0/1)
+- हृत्सु᳓ (*MS*-2/19, *TS*-4/16, *RV*-9/65, *TB*-0/5, *AV*-3/40, *SB-M*-2/9, *SB-K*-3/11, *VS-M*-2/10, *VS-K*-2/6)
+- क्र᳓तुम् (*MS*-8/23, *TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-7/19, *VS-K*-7/22)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- विक्ष्व्रग्नि᳓म् (मूल-पाठः)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- सू᳓र्यम् (*MS*-22/143, *TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-8/38, *VS-K*-8/47)
+- अदधात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-9, *TS*-13, *RV*-4, *TB*-10, *AV*-9, *SB-M*-18, *SB-K*-18, *VS-M*-3, *VS-K*-3)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- अ᳓द्रौ (*MS*-1/9, *TS*-2/9, *RV*-3/127, *TB*-0/4, *AV*-0/12, *SB-M*-3/10, *SB-K*-3/12, *VS-M*-1/7, *VS-K*-1/8)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

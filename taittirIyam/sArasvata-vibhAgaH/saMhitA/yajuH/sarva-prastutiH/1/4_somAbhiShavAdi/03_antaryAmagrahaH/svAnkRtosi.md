@@ -257,7 +257,7 @@ _______
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/07/06_deve_bhyas_tvA.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/07/06_devebhyas_tvA_marIchi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवे᳓भ्यस् त्वा मरीचि-पे᳓भ्यः
@@ -273,6 +273,11 @@ Thee for the Deities who sip light-atoms.
 <details><summary>Keith</summary>
 
 To the gods that drink the rays thee
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the ray-drinking gods, you!
 </details>
 
 <details><summary>मूलम्</summary>

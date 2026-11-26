@@ -3,12 +3,16 @@ title = "05 देवस् त्वा"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 let the god Savitr purify thee  
 With the flawless purifier,  
 With the rays of the bright sun.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Savitṛ purify you with an unbroken strainer, with the rays of the good Sūrya!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -17,9 +21,14 @@ With the rays of the bright sun.
 अच्छि॑द्रेण प॒वित्रे॑ण॒ वसो॒स्सूर्य॑स्य र॒श्मिभिः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+देव᳓स् त्वा सविता᳓ पुनात्व् अ᳓छिद्रेण पवि᳓त्रेण । व᳓सोः सू᳓र्यस्य रश्मि᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-दे॒वः । त्वा॒ । स॒वि॒ता । पु॒ना॒तु॒ । अच्छि॑द्रेण । प॒वित्रे॑ण । वसोः॑ । सूर्य॑स्य । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ । 
+दे॒वः । त्वा॒ । स॒वि॒ता । पु॒ना॒तु॒ । अच्छि॑द्रेण । प॒वित्रे॑ण । वसोः॑ । सूर्य॑स्य । र॒श्मिभि॒रिति॑ र॒श्मि-भिः॒ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

@@ -17,6 +17,11 @@ unicode_script = "devanagari"
 make his follows subordinate to this sacrificer.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+gather his kinsmen around this sacrificer!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सजा॒तान॒स्मै यज॑मानाय॒ पर्यू॑ह ।

@@ -7,6 +7,11 @@ title = "04 अनिभृष्टम् असि,"
 Friend of speech, born of heat, thou art undefeated;
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'You are uncrushed, the kin of speech, born of austerity,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनि॑भृष्टमसि वा॒चो बन्धु॑स्तपो॒जाः ।

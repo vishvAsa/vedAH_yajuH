@@ -8,14 +8,41 @@ Then do ye, O Indra and Agni,
 Scatter my foes on every side.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+then may Indrāgnī scatter my rivals in different directions.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+'Now may Indra and Agni scatter my rivals on all sides,' [he says];
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अथा॑ स॒पत्ना॑निन्द्रा॒ग्नी मे॑ विषू॒चीना॒न्व्य॑स्यताम् ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓था सप᳓त्नान् इन्द्राग्नी᳓ मे विषू᳓चीनान् व्य᳙स्यताम् इ᳓ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
 
 अथ॑ । स॒पत्नान्॑ । इ॒न्द्रा॒ग्नी इती॑न्द्र-अ॒ग्नी । मे॒ । वि॒षू॒चीनान्॑ । वीति॑ । अ॒स्य॒ता॒म्॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓था (*TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2, *KS*-6)
+- सप᳓त्नान् (*TS*-11/15, *RV*-1/4, *TB*-6/13, *TK*-1, *AV*-47/67, *SB-M*-43/73, *SB-K*-37/74, *VS-M*-5/7, *VS-K*-5/8, *KS*-2/3)
+- इन्द्राग्नी᳓ (*TS*-10/18, *RV*-0/6, *TB*-16/23, *TK*-1, *AV*-16/17, *SB-M*-46/58, *SB-K*-46/57, *VS-M*-8/14, *VS-K*-8/13, *KS*-6/10)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-331, *KS*-356)
+- विषू᳓चीनान् (मूल-पाठः)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- अस्यताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *AV*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- इ᳓ति (*TS*-1796, *RV*-83, *TB*-1138, *TK*-117, *AV*-1303, *SB-M*-9224, *SB-K*-9397, *VS-M*-2, *VS-K*-1, *KS*-159)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>

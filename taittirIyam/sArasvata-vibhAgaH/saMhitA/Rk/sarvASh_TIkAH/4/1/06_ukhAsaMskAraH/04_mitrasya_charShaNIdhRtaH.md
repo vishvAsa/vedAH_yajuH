@@ -10,15 +10,38 @@ Of the god is eternal,
 True, and most varied in fame.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The renown of Mitra, the supporter of the peoples, of the god, is winning [plenty];  
+it is real, most wonderfully renowned.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मि॒त्रस्य॑ चर्षणी॒धृत॒श्श्रवो॑ दे॒वस्य॑ सान॒सिम् ।  
 द्यु॒म्नञ्चि॒त्रश्र॑वस्तमम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मित्रस्य चर्षणीधृतश्श्रवो देवस्य सानसि।  
+सत्यं चित्रश्रवस्तमम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मि॒त्रस्य॑ । च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि-धृतः॑ । श्रवः॑ । दे॒वस्य॑ । सा॒न॒सिम् ॥ द्यु॒म्नम् । चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वः-त॒म॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मित्र᳓स्य (*MS*-29/111, *TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/51)
+- चर्षणि-धृ᳓तः (*TS*-2, *RV*-2/9, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-3)
+- श्र᳓वः (*Whitney*, *MS*-10/16, *TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/8)
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- सानसि᳓ (*Whitney*, *MS*-3/6, *TS*-5, *RV*-2/15, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/3)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- चित्र᳓श्रवस्तमम् (*MS*-3, *TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>सायण-टीका</summary>

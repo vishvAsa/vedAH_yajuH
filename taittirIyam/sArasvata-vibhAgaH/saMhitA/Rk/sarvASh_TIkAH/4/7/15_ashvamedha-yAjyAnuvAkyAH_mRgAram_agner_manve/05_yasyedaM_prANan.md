@@ -3,17 +3,28 @@ title = "05 यस्येदं प्राणन्"
 
 +++
 
-
 <details><summary>Keith</summary>
 
 Him whose is that which breatheth, which winketh, which moveth, Whose alone is that which has been born and is being born, Agni I praise; I invoke seeking aid,  
 May he relieve us from tribulation.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose is this that breathes, winks, that moves, whose alone is what is born and being born;  
+distressed, I praise Agni, I call upon him repeatedly: may he release us from distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्ये॒दम्प्रा॒णन्नि॑मि॒षद्यदेज॑ति॒ यस्य॑ जा॒तञ्जन॑मानञ्च॒ केव॑लम् ।   
 स्तौम्य॒ग्निन्ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वँह॑सः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यस्येदं प्राणन्निमिषद्यदेजति यस्य जातं जनमानं च केवलम्।  
+स्तौम्यग्निं नाथितो जोहवीमि स नो मुञ्चत्वँहसः
 </details>
 
 <details><summary>पद-पाठः</summary>
