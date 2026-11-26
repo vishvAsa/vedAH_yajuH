@@ -182,7 +182,9 @@ May the goddess Aditi, accompanied by all the gods, dig you like Aṅgiras in th
 - **[224_6]** Von hier bis zu den Versen nach Ch gegeben. In D lautet der Text mit Lücken von hier ab अङ्गिरस्वदभीन्धतामुखे वरुत्रीस्त्वा देवोर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे जनयस्त्वाछिन्नपत्रा देवीर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे॥ folgen die Verse. (Given after Ch from here up to the verses. In D the text reads with lacunae from here on: अङ्गिरस्वदभीन्धतामुखे वरुत्रीस्त्वा देवोर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे जनयस्त्वाछिन्नपत्रा देवीर्विश्वदेव्यावतीः पृथिव्यास्सधस्थे अङ्गिरस्वत्पचन्तूखे॥; then follow the verses.)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -384,20 +386,13 @@ the goddesses, connected with the All-gods, cook thee on the abode of earth, in 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मि᳓त्रैता᳓म् उखा᳓म् **पच**+एषा᳓ मा᳓ भेदि ।  
 एता᳓न्ते **प᳓रि ददाम्य्** अ᳓भित्त्यै ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/02_mitraitAm_ukhAm.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 O Mitra, cook this pan; may it not break. This I place around thee, to prevent breaking.
@@ -423,19 +418,12 @@ O Mitra, cook this pan; may it not break. This I place around thee, to prevent b
 </details>
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अभी᳓मा᳓म् [23]  महिना᳓ दि᳓वम्  
 मित्रो᳓ **बभूव** सप्र᳓थाः ।  
 उत᳓ श्र᳓वसा पृथिवी᳓म् ।
-
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -445,9 +433,7 @@ O Mitra, cook this pan; may it not break. This I place around thee, to prevent b
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/03_abhImAm_mahinA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Mitra, extending, compasseth  
@@ -472,8 +458,6 @@ And the earth with his fame.
 </details>
 </details>
 
-</div>
-
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -486,7 +470,7 @@ And the earth with his fame.
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -553,19 +537,14 @@ it is real, most wonderfully renowned.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/06_ukhAsaMskAraH/05_devastvA_savitodvapatu.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 देव᳓स् त्वा सवितो᳓द्वपतु  
 सु-पाणि᳓स् स्व्-अङ्गुरिः᳓ ।  
 सु-बाहु᳓र् उत᳓ श᳓क्त्या ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/11/103_devas_tvA_savitodvapatu.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/11/103_devas_tvA_savitodvapatu.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Griffith</summary>
@@ -656,23 +635,13 @@ with fair arms, and with his might.
 
 <details><summary>उवट-टीका</summary>
 
-उद्वपति।
-
-देवस्त्वा।
-
-बृहती उख्या।
-
-देवः त्वा त्वां भवतीमुद्वपतु प्रकाशीकरोतु।
-
-सुहस्तः स्वङ्गुरिः शोभनाङ्गुलिः।
-
-लकारस्य रेफश्छान्दसः।
-
-सुबाहुः सुभुजः।
-
-उत शक्त्या शक्त्या अपि बुद्ध्यति।
-
-उतशब्दः समुच्चयार्थः।
+उद्वपति। देवस् त्वा। बृहती उख्या।  
+देवः त्वा त्वां भवतीम् उद्वपतु प्रकाशीकरोतु।  
+सुहस्तः स्वङ्गुरिः शोभनाङ्गुलिः।  
+लकारस्य रेफश् छान्दसः।  
+सुबाहुः सुभुजः।  
+उत शक्त्या शक्त्या अपि बुद्ध्यति।  
+उत-शब्दः समुच्चयार्थः।
 </details>
 
 <details><summary>महीधर-टीका</summary>

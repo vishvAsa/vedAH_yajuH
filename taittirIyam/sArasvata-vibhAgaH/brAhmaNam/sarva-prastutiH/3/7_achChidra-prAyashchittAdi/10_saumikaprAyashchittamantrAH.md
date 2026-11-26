@@ -840,7 +840,9 @@ Bring ihm, dem trunkbegierigen, dem weisen alle Tränke dar; Der hülfreich komm
 भावार्थभाषाः -  जो राजा विद्वानासाठी संपूर्ण धन किंवा सामर्थ्य ग्रहण करतो व जे विद्वान राजाच्या हितासाठी प्रयत्न करतात ते सदैव उन्नत होतात. ॥ १ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

@@ -32,12 +32,10 @@ title = "उपाकरणम्"
 उपहोमो +++(= सांहितीभ्यो, याज्ञिकीभ्यो, वारुणीभ्यो, ब्रह्मणे स्वयंभुवे इति सुदर्शनसूरिः। हरदत्तस्तु जयादय इति।)+++,  
 वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
-<details open><summary><h4>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
-</details>
 </div>
 </div>
 

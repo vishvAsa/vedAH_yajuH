@@ -16,7 +16,8 @@ title = "४३ षोडशिग्रहः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/047/02_sajoShA_indra.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -372,6 +373,7 @@ Vereint, o Indra, mit den Marutscharen trink Soma, Held, du kund'ger Vritratödt
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जे राजे परस्पर मैत्री करून नियमित आहार-विहार, ब्रह्मचर्य, जितेन्द्रियता इत्यादीने शरीर व आत्म्याच्या पूर्ण बलाने शत्रूंचा संहार करतात व युद्ध जिंकून प्रजेला सर्व प्रकारे भयरहित करतात तेच सर्वत्र निर्भयतेने वावरून सुख प्राप्त करतात. ॥ २ ॥
+</details>
 </details>
 </div>  
 

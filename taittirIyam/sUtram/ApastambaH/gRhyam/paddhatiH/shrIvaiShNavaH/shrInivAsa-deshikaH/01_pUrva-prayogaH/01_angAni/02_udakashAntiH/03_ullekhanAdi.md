@@ -62,10 +62,10 @@ title = "०३ उल्लेखनादि"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/5/09/38_yo_rudro.md">
 <details open><summary><h5>38 यो रुद्रो ...{Loading}...</h5></summary>
 
-यो रु॒द्रो अ॒ग्नौ , यो अ॒प्सु ,  
-य ओष॑धीषु॒, यो रु॒द्रो  
-विश्वा॒ भुव॑ना **वि॒वेश॒**   
-तस्मै॑ रु॒द्राय॒ **नमो॑ अ॒स्तु** ।
+यो᳓ रुद्रो᳓ अग्नौ᳓ , यो᳓ अप्सु᳓ ,  
+य᳓ ओ᳓षधीषु, यो᳓ रुद्रो᳓  
+वि᳓श्वा भु᳓वना **विवे᳓श**   
+त᳓स्मै रुद्रा᳓य **न᳓मो अस्तु᳓** ।
 </details>
 </div>
 
@@ -74,7 +74,7 @@ title = "०३ उल्लेखनादि"
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary><h2>१७ इदं विष्णुर्वि ...{Loading}...</h2></summary>
 
-इदव्ँ᳓ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
 +++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
 +++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
 

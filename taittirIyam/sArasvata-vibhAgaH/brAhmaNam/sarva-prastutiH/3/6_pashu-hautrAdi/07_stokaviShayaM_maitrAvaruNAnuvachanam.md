@@ -83,6 +83,12 @@ júhvānaḥ ← √hu- (root)
 ह॒व्या जुह्वा॑न आ॒सनि॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+जुष᳓स्व सप्र᳓थस्तमं व᳓चो देव᳓प्सरस्तमम्।  
+हव्या᳓ जु᳓व्हान आस᳓नि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 जु॒षस्व॑ । स॒प्रथः॑ऽतमम् । वचः॑ । दे॒वप्स॑रःऽतमम् ।  
@@ -92,6 +98,18 @@ júhvānaḥ ← √hu- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 जुष᳓स्व । सप्र᳓थस्तमम् । व᳓चः । देव᳓-प्सरस् । तमम् । हव्या᳓ । जु᳓ह्वानः । आस᳓नि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- जुष᳓स्व (*MS*-7, *TS*-3, *RV*-17, *TB*-2, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- सप्र᳓थस्तमम् (*MS*-3, *TS*-1/2, *RV*-4, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- व᳓चः (*MS*-8/15, *TS*-5/14, *RV*-51/100, *TB*-11/12, *TK*-2, *AV*-15/39, *SB-M*-12/18, *SB-K*-11/18, *VS-M*-9/13, *VS-K*-3/8)
+- देव᳓-प्सरस् (*RV*-0/1, *TB*-1, *MS*-1)
+- तमम् (*TS*-2, *TB*-3, *MS*-7)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- जु᳓व्हानः (मूल-पाठः)
+- आस᳓नि (*MS*-2, *TS*-3/4, *RV*-7/40, *TB*-1/2, *AV*-2/8, *SB-M*-1/6, *SB-K*-1/59, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -175,7 +193,7 @@ while pouring the oblations into your own mouth.
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -191,6 +209,14 @@ The two verses also contain four superlatives in -tama-, each to a stem ending i
 
 ACCEPT our loudest-sounding hymn, food most delightful to the Gods,  
      Pouring our offerings in thy mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do not tear his rectum,  
+thinking it an owl,  
+lest an owl cry among your children and offspring!  
+O Adhrigu, quiet [the victim]!
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -268,7 +294,9 @@ Nimm an das Lied, das weit erschallt, der Götter schönstes Labsal ist, Den Tra
 भावार्थभाषाः -  जी माणसे युक्तिपूर्वक आहारविहार, प्रयत्नपूर्वक ब्रह्मचर्य पालन करतात ती शरीर व आत्म्याचे सुख प्राप्त करतात. ॥ १ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इम᳓न्नो यज्ञ᳓ममृ᳓तेषु धेहि ।   
 इमा᳓ हव्या᳓ जातवेदो जुषस्व ।  
@@ -376,6 +404,12 @@ prathamáḥ ← prathamá- (nominal stem)
 होत॒ᳶ प्राशा॑न प्रथ॒मो नि॒षद्य॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इमं᳓ नो यज्ञ᳓ममृ᳓तेषु धेहीमा᳓ हव्या᳓ जातवेदो जुषस्व।  
+स्तोका᳓नामग्ने मे᳓दसो घृत᳓स्य हो᳓तः प्रा᳓शान प्रथमो᳓ निष᳓द्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मम् । नः॒ । य॒ज्ञम् । अ॒मृते॑षु । धे॒हि॒ । इ॒मा । ह॒व्या । जा॒त॒ऽवे॒दः॒ । जु॒ष॒स्व॒ ।  
@@ -385,6 +419,28 @@ prathamáḥ ← prathamá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इम᳓म् । नः । यज्ञ᳓म् । अमृ᳓तेषु । धेहि । इमाः᳓ । हव्या᳓ । जात-वेदः । जुषस्व । स्तोका᳓नाम् । अग्ने । मे᳓दसः । घृत᳓स्य । हो᳓तः । प्र᳓ । अशान । प्रथमः᳓ । नि-स᳓द्य ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- अमृ᳓तेषु (*MS*-2/84, *TS*-2/65, *RV*-7/187, *TB*-2/49, *TK*-0/39, *AV*-0/97, *SB-M*-0/332, *SB-K*-0/312, *VS-M*-1/64, *VS-K*-1/60)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-21, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-11)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-9)
+- स्तोका᳓नाम् (*MS*-7/19, *TS*-2/5, *RV*-1/6, *TB*-5/11, *AV*-0/4, *SB-M*-2/20, *SB-K*-2/15, *VS-M*-4, *VS-K*-4)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- मे᳓दसः (*MS*-5/10, *TS*-0/1, *RV*-3/5, *TB*-6/12, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/10, *VS-M*-5/11, *VS-K*-4/11)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- हो᳓तः (*MS*-39/120, *TS*-1/44, *RV*-9/160, *TB*-54/149, *TK*-0/6, *AV*-2/21, *SB-M*-7/142, *SB-K*-7/155, *VS-M*-44/103, *VS-K*-26/97)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- अशान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *TB*-1, *AV*-1, *SB-M*-4, *SB-K*-4, *MS*-1)
+- प्रथमः᳓ (*MS*-34/106, *TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-18/38, *VS-K*-16/39)
+- नि-स᳓द्य (*MS*-5, *TS*-3, *RV*-13, *TB*-3, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -512,6 +568,11 @@ _________
 2इमं न इति ॥ अध्रिगो! हे अग्ने! इमं अस्मदीयं यज्ञं अमृतेषु देवेषु धेहि स्थापय । इमानि च हव्यानि स्तोकादीनि जुषस्व सेवस्व । हे जातवेदः! जातानां वेदितः! । किञ्च - स्तोकानां बिन्दूनां मेदसो वपाया घृतस्य च त्वमेव प्रथमः प्राशान प्रकर्षेणाशान । यद्वा - प्रथमः प्रधानः प्राशान प्रथममशान निषद्य आसित्वा हे होतः! देवानामाह्वातः! अग्ने! । सुहितार्थयोगे षष्ठी ज्ञापिता ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[243_1]** Brl प्रा᳓शाना; D प्राशार्मोन
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -535,6 +596,14 @@ Eat of the drops of fat and of ghee, o Agni, our Hotar, taking your seat  as the
 
 SET this our sacrifice among the Immortals: be pleased with these our presents, Jatavedas.  
      O Priest, O Agni, sit thee down before us, and first enjoy the drops of oil and fatness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Quiet it well-quieted! Quiet it, o Adhrigu!  
+Enjoy the widest speech, most delightful to the gods,  
+offering oblations in your mouth!  
+Place this sacrifice of ours among the immortals; relish these oblations, o Jātavedas!
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -613,7 +682,9 @@ Dies unser Opfer bringe zu den Göttern, nimm an, o Wesenkenner, diese Güsse, g
 भावार्थभाषाः -  जसा अन्न, जल इत्यादींचा दाता इतरांना प्रिय वाटतो तसे विद्या, उत्तम शिक्षण व धर्मासंबंधी ज्ञान प्राप्त करविणारा जिज्ञासूंना प्रिय वाटतो. ॥ १ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घृत᳓वन्तᳶ पावक ते ।   
 स्तोका᳓श्श्चोतन्ति मे᳓दसः ।  
@@ -703,6 +774,12 @@ vā́ryam ← vā́rya- (nominal stem)
 श्रेष्ठ॑न्नो धेहि॒ वार्य॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+घृत᳓वन्तः पावक ते स्तोका᳓श्श्चोतन्ति मे᳓दसः।  
+स्व᳓धर्मन्देव᳓वीतये श्रे᳓ष्ठं नो धेहि वा᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 घृ॒तऽव॑न्तः । पा॒व॒क॒ । ते॒ । स्तो॒काः । श्चो॒त॒न्ति॒ । मेद॑सः ।  
@@ -712,6 +789,22 @@ vā́ryam ← vā́rya- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 घृत᳓वन्तः । पावक । ते । स्तोकाः᳓ । श्चोतन्ति । मे᳓दसः । स्व᳓-धर्मन् । देव᳓-वीतये । श्रे᳓ष्ठम् । नः । धेहि । वा᳓र्यम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- घृत᳓वन्तः (*MS*-1/4, *TS*-0/4, *RV*-2/11, *TB*-1/2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-0/1)
+- पावक (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-8, *TS*-7, *RV*-19, *TB*-1, *TK*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- स्तोकाः᳓ (*MS*-8/19, *TS*-1/5, *RV*-3/6, *TB*-4/11, *AV*-2/4, *SB-M*-3/20, *SB-K*-2/15, *VS-M*-0/4, *VS-K*-0/4)
+- श्चोतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-5, *TB*-2, *AV*-1)
+- मे᳓दसः (*MS*-5/10, *TS*-0/1, *RV*-3/5, *TB*-6/12, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/10, *VS-M*-5/11, *VS-K*-4/11)
+- स्व᳓-धर्मन् (*MS*-1, *RV*-1, *TB*-1)
+- देव᳓-वीतये (*MS*-3/7, *TS*-2/3, *RV*-22/38, *TB*-2/3, *AV*-1, *SB-M*-4, *SB-K*-5, *VS-M*-4, *VS-K*-3)
+- श्रे᳓ष्ठम् (*MS*-3/9, *TS*-1/9, *RV*-15/31, *TB*-4/8, *AV*-5/8, *SB-M*-4/41, *SB-K*-3/42, *VS-M*-0/2, *VS-K*-0/2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- वा᳓र्यम् (*MS*-5/11, *TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -838,6 +931,13 @@ For thee, O Purifier, flow the drops of fatness rich in oil.
      After thy wont vouchsafe to us the choicest boon that Gods may feast.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Hotṛ, seated first, eat of the drops of fat and ghee, o Agni!  
+Rich in ghee, o purifier, your drops of fat drip;  
+in your own nature, for the feast of the gods, place the best treasure for us!
+</details>
+
 <details><summary>Oldenberg</summary>
 
 To thee, O purifier, the drops of fat mixed with ghee drip down. O (god) who followest thy own ordinances, give us the best boon for this feast to which the gods come eagerly.
@@ -909,7 +1009,9 @@ Die butterreichen Tropfen Fett, sie rinnen dir, o Flammender; lass unsre Gabe, t
 भावार्थभाषाः -  जसे अग्नी, जल इत्यादी पदार्थांना आपल्या क्रियेने शुद्ध करून वृष्टीरूपाने सर्व पदार्थांना सिंचित करून सर्व जीवांचे रक्षण करतो तसेच विद्या व धर्माचे उपदेशक संपूर्ण माणसांचे पालन करतात. ॥ २ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तु᳓भ्यँ स्तोका᳓ घृतश्चु᳓तः ।   
 अ᳓ग्ने वि᳓प्राय सन्त्य ।  
@@ -1002,6 +1104,18 @@ yajñásya ← yajñá- (nominal stem)
 य॒ज्ञस्य॑ प्रावि॒ता भ॑व ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तु᳓भ्यँ स्तोका᳓ घृतश्चु᳓तो᳓ ऽग्ने वि᳓प्राय सन्त्य  
+ऋ᳓षिः श्रे᳓ष्ठः स᳓मिध्यसे यज्ञ᳓स्य प्राविता᳓ भव
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+तु᳓भ्यँ स्तोका᳓ घृतश्चु᳓तोऽग्ने वि᳓प्राय सन्त्य।  
+ऋ᳓षिश्श्रे᳓ष्ठस्स᳓मिध्यसे यज्ञ᳓स्य प्राविता᳓ भव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तुभ्य॑म् । स्तो॒काः । घृ॒त॒ऽश्चुतः॑ । अग्ने॑ । विप्रा॑य । स॒न्त्य॒ ।  
@@ -1011,6 +1125,40 @@ yajñásya ← yajñá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तु᳓भ्यम् । स्तोकाः᳓ । घृत-श्चु᳓तः । अ᳓ग्ने । वि᳓प्राय । सन्त्य । ऋ᳓षिः । श्रे᳓ष्ठः । स᳓म् । इध्यसे । यज्ञ᳓स्य । प्राविता᳓ । भव ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- तु᳓भ्यम् (*TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/215, *VS-K*-9/167, *KS*-7/165)
+- स्तोकाः᳓ (*TS*-1/5, *RV*-3/6, *TB*-4/11, *AV*-2/4, *SB-M*-3/20, *SB-K*-2/15, *VS-M*-0/4, *VS-K*-0/4, *KS*-3/6)
+- घृत-श्चु᳓तः (*TS*-2/3, *RV*-7/13, *TB*-1, *AV*-6/12, *SB-M*-2, *SB-K*-2, *KS*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- वि᳓प्राय (*TS*-0/22, *RV*-10/218, *TB*-1/8, *AV*-3/31, *SB-M*-1/13, *SB-K*-1/11, *VS-M*-1/18, *VS-K*-1/18, *KS*-2/9)
+- सन्त्यः (मूल-पाठः)
+- ऋ᳓षिः (*TS*-20/56, *RV*-32/101, *TB*-2/5, *TK*-0/8, *AV*-5/70, *SB-M*-29/125, *SB-K*-27/130, *VS-M*-10/32, *VS-K*-11/32, *KS*-9/16)
+- श्रे᳓ष्ठः (*TS*-7/9, *RV*-7/31, *TB*-4/8, *AV*-0/8, *SB-M*-28/41, *SB-K*-31/42, *VS-M*-1/2, *VS-K*-1/2, *KS*-3/4)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- इध्यसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-9, *TB*-1, *AV*-1, *VS-M*-1, *KS*-2)
+- यज्ञ᳓स्य (*TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/179, *KS*-26/171)
+- प्राविता᳓ (*TB*-1, *SB-M*-0/3, *SB-K*-0/2, *KS*-1)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-36, *KS*-28)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तु᳓भ्यम् (*MS*-14/382, *TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/216, *VS-K*-10/180)
+- स्तोकाः᳓ (*MS*-8/19, *TS*-1/5, *RV*-3/6, *TB*-4/11, *AV*-2/4, *SB-M*-3/20, *SB-K*-2/15, *VS-M*-0/4, *VS-K*-0/4)
+- घृत-श्चु᳓तः (*MS*-3, *TS*-2/3, *RV*-7/13, *TB*-1, *AV*-6/12, *SB-M*-2, *SB-K*-2)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- वि᳓प्राय (*MS*-1/19, *TS*-0/22, *RV*-10/218, *TB*-1/8, *AV*-3/31, *SB-M*-1/13, *SB-K*-1/11, *VS-M*-1/18, *VS-K*-1/19)
+- सन्त्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-9, *TB*-1)
+- ऋ᳓षिः (*MS*-18/52, *TS*-20/56, *RV*-32/101, *TB*-2/5, *TK*-0/8, *AV*-5/70, *SB-M*-29/125, *SB-K*-27/130, *VS-M*-10/32, *VS-K*-11/34)
+- श्रे᳓ष्ठः (*MS*-5/9, *TS*-7/9, *RV*-7/31, *TB*-4/8, *AV*-0/8, *SB-M*-28/41, *SB-K*-31/42, *VS-M*-1/2, *VS-K*-1/2)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इध्यसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-9, *TB*-1, *AV*-1, *VS-M*-1, *MS*-2)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- प्राविता᳓ (*MS*-1, *TB*-1, *SB-M*-0/3, *SB-K*-0/2)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1113,6 +1261,15 @@ _________
 4तुभ्यं स्तोका इति ॥ हे अग्ने! तुभ्यं विप्राय मेधाविने एते घृतश्चुतः घृतक्षरणाः स्तोकाः त्वदर्थेनेवौत्पद्यन्ते । हे सन्त्य! सनेन भव! । षणु दाने, 'क्तिचि क्तौ च' इति क्तिचि सन्तिः, 'न क्तिचि दीर्घश्च' इति दीर्घनलोपाभावः । 'भवे छदसि' इति यत् । 'तत्र साधुः' इति वा । कस्तव विशेष इति चेत्? त्वं हि ऋषिः द्रष्टा श्रेष्ठः प्रशस्यतमश्च अस्माभिः समिध्यसे तस्मादिमान् स्तोकान् प्राश्यास्य यज्ञस्य प्राविता प्रकृष्टो रक्षिता भव ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[243_2]** D घृतच्युतो; L घृतश्च्यु᳓°
+
+- **[243_3]** Brl wohl मर्त्य; doch kann im Çâradâ सन्त्य fast ebenso gut मर्त्य gelesen werden. Ch मर्त्य (Brl probably मर्त्य; yet in Śāradā सन्त्य can be read almost just as well as मर्त्य. Ch मर्त्य)
+
+- **[243_4]** Brl प्रविता᳓
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1131,6 +1288,18 @@ As the best seer you are kindled. Become the helper of our sacrifice.
 
 Agni, Most Excellent! for thee the Sage are drops that drip with oil.  
      Thou art enkindled as the best of Seers. Help thou the sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you the drops dripping ghee [fall], O Agni, for the inspired, O holy one;  
+as the best ṛṣi you are kindled; become the protector of our sacrifice!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+For you, o Agni, true one, drops dripping with ghee [fall]; for the sage,  
+the best seer, you are kindled; be the protector of the sacrifice!
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -1204,7 +1373,9 @@ Dein, Agni, guter Sänger, sind die butterreichen Tropfen hier, als bester Dicht
 भावार्थभाषाः -  हे विद्वानांनो! जे लोक तुमची स्तुती करतात त्यांना तुम्ही वेदज्ञ करा. ज्यामुळे परस्परांचे रक्षण व्हावे. ॥ ३ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तु᳓भ्यँ श्चोतन्त्यध्रिगो शचीवः ।   
 स्तोका᳓सो अग्ने मे᳓दसो घृत᳓स्य ।  
@@ -1306,6 +1477,12 @@ medhira ← médhira- (nominal stem)
 ह॒व्या जु॑षस्व मेधिर ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तु᳓भ्यँ श्चोतन्त्य् अध्रिगो शचीवः स्तोका᳓सो अग्ने मे᳓दसो घृत᳓स्य  
+कविशस्तो᳓ बृहता᳓ भानु᳓ना᳓गा हव्या᳓ जुषस्व मेधिर
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तुभ्य॑म् । श्चो॒त॒न्ति॒ । अ॒ध्रि॒गो॒ इत्य॑ध्रिऽगो । श॒ची॒ऽवः॒ । स्तो॒कासः॑ । अ॒ग्ने॒ । मेद॑सः । घृ॒तस्य॑ ।  
@@ -1315,6 +1492,44 @@ medhira ← médhira- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 तु᳓भ्यम् । श्चोतन्ति । अध्रि-गो । शचीवः । स्तोका᳓सः । अग्ने । मे᳓दसः । घृत᳓स्य । कवि-शस्तः᳓ । बृहता᳓ । भानु᳓ना । गाः । हव्या᳓ । जुषस्व । मेधिर ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- तु᳓भ्यम् (*TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/215, *VS-K*-9/167, *KS*-7/165)
+- श्चोतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-5, *TB*-2, *AV*-1, *KS*-2)
+- अध्रि-गो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2, *SB-M*-1, *SB-K*-1, *KS*-2)
+- शचीवः (*RV*-8, *TB*-1, *AV*-1, *KS*-1)
+- स्तोका᳓सः (*TS*-0/5, *RV*-1/6, *TB*-1/11, *AV*-0/4, *SB-M*-0/20, *SB-K*-0/15, *VS-M*-0/4, *VS-K*-0/4, *KS*-1/6)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- मे᳓दसः (*TS*-0/1, *RV*-3/5, *TB*-6/12, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/10, *VS-M*-5/11, *VS-K*-4/11, *KS*-7/9)
+- घृत᳓स्य (*TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/43, *KS*-10/39)
+- कवि-शस्तः᳓ (*TS*-1/2, *RV*-3/5, *TB*-2, *AV*-0/2, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- बृहता᳓ (*TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3, *KS*-6)
+- भानु᳓ना᳓ → **भानु᳓ना** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-8/16, *RV*-24/64, *TB*-3/4, *AV*-2/6, *SB-M*-7/12, *SB-K*-7/12, *VS-M*-7/11, *VS-K*-7/12, *KS*-1/4)
+- गाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-8, *TB*-1, *AV*-8, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-4/23, *KS*-10/34)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-8, *KS*-10)
+- मेधिर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-2, *TB*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तु᳓भ्यम् (*MS*-14/382, *TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/216, *VS-K*-10/180)
+- श्चोतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-5, *TB*-2, *AV*-1)
+- अध्रि-गो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TB*-2, *SB-M*-1, *SB-K*-1)
+- शचीवः (*MS*-1, *RV*-8, *TB*-1, *AV*-1)
+- स्तोका᳓सः (*MS*-1/19, *TS*-0/5, *RV*-1/6, *TB*-1/11, *AV*-0/4, *SB-M*-0/20, *SB-K*-0/15, *VS-M*-0/4, *VS-K*-0/4)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- मे᳓दसः (*MS*-5/10, *TS*-0/1, *RV*-3/5, *TB*-6/12, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/10, *VS-M*-5/11, *VS-K*-4/11)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- कवि-शस्तः᳓ (*MS*-1/3, *TS*-1/2, *RV*-3/5, *TB*-2, *AV*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- बृहता᳓ (*MS*-7, *TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- भानु᳓ना᳓ → **भानु᳓ना** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-4/15, *TS*-8/16, *RV*-24/64, *TB*-3/4, *AV*-2/6, *SB-M*-7/12, *SB-K*-7/12, *VS-M*-7/11, *VS-K*-7/13)
+- गाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *TS*-3, *RV*-8, *TB*-1, *AV*-8, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-9)
+- मेधिर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-2, *TB*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1437,6 +1652,11 @@ _________
 5तुभ्यं श्चोतन्तीत्युपरिष्टात्ज्योतिस्त्रिष्टुप् ॥ हे अग्ने! अध्रिगो! अधृतरश्मे! शचीवः! कर्मवन्! 'मतुवसोः' इति रुत्वम् । तुभ्यं त्वदर्थमेवैते स्तोकासः मेदसो घृतस्य बिन्दवः श्चोतन्ति अतस्त्वं कविशस्तः मेधाविभिः स्तुतः । प्रवृद्धादित्वादन्तोदात्तत्वम् । यद्वा - कवीनां मध्ये शस्तः । तेन 'तृतीया कर्मणि ' इति न प्रवर्तते । बृहता भानुना तेजसा इत्थंभूतस्सन् आगाः आगच्छ । छान्दसो लुक् । एत्य च हव्या हवींषि स्तोकलक्षणानि जुषस्व । हे मेधिर! मेधवन्! यजनीय! वा ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[243_5]** Brl und W मेधिरः; Ch und T 3 मेधिरे (Brl and W मेधिरः; Ch and T 3 मेधिरे)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1457,6 +1677,18 @@ pleasure in the oblations, wise one.
 
 To thee, O Agni, mighty and resistless, to thee stream forth the drops of oil and fatness.  
      With great light art thou come, O praised by poets! Accept our offering, O thou Sage.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you the drops of fat and ghee drip, O Adhrigu, O mighty one;  
+praised by poets, you have come with mighty radiance; relish the oblations, O wise one!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+To you drip the drops of fat and ghee, o unhindered one, o powerful one, o Agni;  
+praised by poets, you have come with great brilliance; enjoy the oblations, o wise one!
 </details>
 
 <details><summary>Oldenberg</summary>
@@ -1490,7 +1722,9 @@ O Agni, dir, der mächtig und unhemmbar, dir rinnen zu der fetten Butter Tropfen
 - गान्धारः
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओ᳓जिष्ठन्ते मध्यतो᳓ मे᳓द उ᳓द्भृतम् ।  
 प्र᳓ ते वय᳓न्ददामहे ।  
@@ -1601,6 +1835,12 @@ vihi ← √vī- 1 (root)
 प्रति॒ तान्दे॑व॒शोवि॑हि ॥18॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ओ᳓जिष्ठं ते मध्यतो᳓ मे᳓दा उ᳓द्भृतं प्र᳓ ते वयं᳓ ददामहे  
+श्चो᳓तन्ति ते वसो स्तोका᳓ अ᳓धि त्वचि᳓ प्र᳓ति ता᳓न् देवशो᳓ विहि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ओजि॑ष्ठम् । ते॒ । म॒ध्य॒तः । मेदः॑ । उत्ऽभृ॑तम् । प्र । ते॒ । व॒यम् । द॒दा॒म॒हे॒ ।  
@@ -1610,6 +1850,29 @@ vihi ← √vī- 1 (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ओ᳓जिष्ठम् । ते । मध्यतः᳓ । मे᳓दः । उ᳓त्-भृतम् । प्र᳓ । ते । वय᳓म् । ददामहे । श्चो᳓तन्ति । ते । वसो । स्तोकाः᳓ । अ᳓धि । त्वचि᳓ । प्र᳓ति । ता᳓न् । देव-शः᳓ । विहि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ओ᳓जिष्ठम् (*TS*-1/3, *RV*-8/16, *TB*-1/5, *AV*-2/4, *SB-M*-1/7, *SB-K*-1/4, *VS-M*-0/6, *VS-K*-0/5, *KS*-1/6)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- मध्यतः᳓ (*TS*-63/71, *RV*-3, *TB*-21, *AV*-15, *SB-M*-105, *SB-K*-100, *VS-M*-4, *VS-K*-4, *KS*-8)
+- मे᳓दाः (*RV*-0/1, *TB*-0/3, *SB-M*-0/6, *SB-K*-0/9, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/2)
+- उ᳓त्-भृतम् (*TS*-1, *RV*-2, *TB*-2, *AV*-3/4, *VS-M*-4, *VS-K*-3, *KS*-1)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/314, *VS-K*-52/265, *KS*-46/242)
+- ददामहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *TB*-1, *KS*-1)
+- श्चो᳓तन्ति (*TS*-1, *RV*-3, *TB*-1, *SB-K*-0/1, *KS*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- वसो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-53, *TB*-3, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1, *KS*-3)
+- स्तोकाः᳓ (*TS*-1/5, *RV*-3/6, *TB*-4/11, *AV*-2/4, *SB-M*-3/20, *SB-K*-2/15, *VS-M*-0/4, *VS-K*-0/4, *KS*-3/6)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- त्वचि᳓ (*TS*-1, *RV*-9, *TB*-4, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-2)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- ता᳓न् (*TS*-94/4763, *RV*-74/3136, *TB*-90/2709, *TK*-11/363, *AV*-102/3165, *SB-M*-268/20457, *SB-K*-267/20018, *VS-M*-23/768, *VS-K*-15/624, *KS*-34/1225)
+- देव-शः᳓ (*RV*-1, *TB*-1, *KS*-1)
+- विहि (*TS*-1, *RV*-2, *TB*-1, *AV*-1, *SB-M*-6, *SB-K*-11, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1751,6 +2014,13 @@ _________
 इति तैत्तिरीयब्राह्मणे तृतीये षष्ठे सप्तमोऽनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[243_6]** D च्योतन्ति; W 1 श्च्योतन्ते
+
+- **[243_7]** D ते वसोः; Ch तव मां; Brl und T3 ते वस (D ते वसोः; Ch तव मां; Brl and T3 ते वस)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1774,6 +2044,18 @@ The drops drip for you upon your skin, o good one. Capture them (for)  each god 
 
 Fatness exceeding rich, extracted from the midst,-this as our gift we offer thee.  
      Excellent God, the drops run down upon thy skin. Deal them to each among the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your strongest fat is extracted from the middle; we offer it forward to you.  
+Drops drip for you, O Vasu, upon the skin; partake of them according to the gods!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Most potent fat has been lifted up from the middle for you; we present it to you;  
+o Vasu, the drops drip upon your skin; enjoy them god by god!
 </details>
 
 <details><summary>Oldenberg</summary>

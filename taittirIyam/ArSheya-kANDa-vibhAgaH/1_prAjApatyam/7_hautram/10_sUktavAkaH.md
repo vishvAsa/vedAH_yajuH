@@ -135,18 +135,50 @@ unicode_script = "devanagari"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/vishvAsa-prastutiH/3/5_iShTi-hautrAdi/10_sUktavAkaH/05_agnir_ida.N_havir.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 अग्नि᳓र् इदँ᳓ हवि᳓र् अजुषत ।  
-अ᳓वीवृधत म᳓हो ज्या᳓यो ऽकृत ।  
+अ᳓वीवृधत म᳓हो ज्या᳓यो ऽकृत ।
+</details>
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarvASh_TIkAH/3/5_iShTi-hautrAdi/10_sUktavAkaH/05_agnir_ida.N_havir.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Eggeling</summary>
+
+9. 'Agni has graciously accepted this oblation, he has grown in strength, he has acquired greater power,' he thereby refers to Agni's butter-portion.--'Soma has graciously accepted this oblation, he has grown in strength, he has acquired greater power,' he thereby refers to Soma's butter-portion.--'Agni has graciously accepted this oblation, he has grown in strength, he has acquired greater power,' he thereby refers to the indispensable cake which is (offered) on both occasions (the new- and full-moon sacrifice).
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<details><summary>C R Swaminathan</summary>
 
-<details><summary>मूलम्</summary>
+(He says), "Agni has with pleasure accepted this oblation, he has greatly grown, he has made (acquired) greater power (lustre)". Thus he speaks of the Agni's share of ghee.
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अ॒ग्निरि॒दँ ह॒विर॑जुषत ।  
-अवी॑वृधत॒ महो॒ ज्यायो॑ऽकृत ।  
+अवी॑वृधत॒ महो॒ ज्यायो॑ऽकृत ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+(हा) अग्नि᳘रिद᳘ᳫँ᳘हविः᳘॥ 
+(र) अजुषता᳘वीवृधतम᳘हो ज्या᳘यो ऽकृते᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+अग्नि᳘रिद᳘ᳫं᳘ हविः᳘ अजुषता᳘वीवृधत म᳘हो ज्या᳘यो ऽकृते᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**"अग्निरिदं हविरजुषतावीवृधतमहो ज्यायो ऽकृतेति ।
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+अग्नि᳘रिद᳘ꣳ᳘ हवि᳘रजुषता᳘वीवृधत म᳘हो ज्या᳘योऽकृते᳘ति
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -154,13 +186,49 @@ unicode_script = "devanagari"
 अग्निः᳓ । इद᳓म् । हविः᳓ । अजुषत । अ᳓वीवृधत । म᳓हः । ज्या᳓यः । अकृत ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-57/193, *KS*-111/256, *MS*-528/1297)
+- इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
+- हविः᳓ (*Whitney*, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-6/56, *KS*-23/60, *MS*-95/213)
+- अजुषत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *TS*-1, *TB*-7, *MS*-4)
+- अ᳓वीवृधत (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, पा॰ ६.४.७१, *TB*-7, *MS*-4)
+- म᳓हः (*Whitney*, *TS*-6/35, *RV*-8/255, *TB*-19/39, *TK*-2/5, *AV*-11/40, *SB-K*-18/34, *VS-M*-6/43, *VS-K*-3/34, *KS*-3/18, *MS*-13/58)
+- ज्या᳓यः (*Whitney*, *TS*-4/9, *RV*-3/12, *TB*-10/11, *AV*-0/9, *SB-K*-10/25, *VS-M*-0/2, *MS*-6/15)
+- अकृत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *TS*-4, *TB*-7, *KS*-2, *MS*-18)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 1/10 व्यत्यस्त-स्वराः)</summary>
+
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *VS-M*-122/322, *VS-K*-57/193, *KS*-111/256, *MS*-528/1297)
+- इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *VS-M*-65/313, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
+- हविः᳓ (*Whitney*, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *VS-M*-32/92, *VS-K*-6/56, *KS*-23/60, *MS*-95/213)
+- अजुषत᳓ → **अजुषत** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *TS*-1, *TB*-7, *MS*-4)
+- आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36, *KS*-316, *MS*-1274)
+- अवीवृधत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-1, *MS*-2)
+- म᳓हः (*Whitney*, *TS*-6/35, *RV*-8/255, *TB*-19/39, *TK*-2/5, *AV*-11/40, *SB-M*-25/40, *VS-M*-6/43, *VS-K*-3/34, *KS*-3/18, *MS*-13/58)
+- ज्या᳓यः (*Whitney*, *TS*-4/9, *RV*-3/12, *TB*-10/11, *AV*-0/9, *SB-M*-11/26, *VS-M*-0/2, *MS*-6/15)
+- अकृत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *TS*-4, *TB*-7, *KS*-2, *MS*-18)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-K*-15, *VS-M*-2, *KS*-159, *MS*-1797)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-2अग्निः आज्यभागदेवता इदं हविः आज्यभागलक्षणं अजुषत असेवत । अतिक्रान्तमप्याधारभूतं कर्म इदं हविरित्युच्यते । एवं सोमादिषु द्रष्टव्यम् ।  
-</details>
+2अग्निः आज्यभागदेवता इदं हविः आज्यभागलक्षणं अजुषत असेवत । अतिक्रान्तमप्याधारभूतं कर्म इदं हविरित्युच्यते । एवं सोमादिषु द्रष्टव्यम् ।
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>सायणः (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+[[टीका न लब्धा।]]
+</details>
+
+<details><summary>हरिस्वामी</summary>
+
+**अग्निरिदँ हविः** । तदाग्नेयमिति समस्तार्थवचनम् । यदेतदग्निना हविषः सेचनमतीतं कीर्त्यत एवं तावद् आग्नेयाज्यभागं याग इत्याह । अथवा आज्यञ्चासौ भागश्चेत्याज्यभागः; आज्यमेव होतव्यमिति भागशब्दार्थं दर्शयति । एवं पुरोडाशेन वैलक्षण्यं भवति; इतरथा तत्र पुरोडाशेन यागो लक्ष्येत । 'अजुषत'- इत्यादींस्तु शब्दानग्रे व्याख्यास्यति ॥ ९ ॥
+</details>
+</details>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सो᳓म इदँ᳓ हवि᳓र् अजुषत ।  
 अ᳓वीवृधत म᳓हो ज्या᳓यो ऽकृत ।  
@@ -520,18 +588,39 @@ unicode_script = "devanagari"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/vishvAsa-prastutiH/3/5_iShTi-hautrAdi/10_sUktavAkaH/22_yad_anena_haviShA-.ashAste.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 य᳓द् अने᳓न हवि᳓षा᳓ऽऽशास्ते  
-त᳓द् अश्यात् त᳓द् ऋध्यात् ।  
+त᳓द् अश्यात् त᳓द् ऋध्यात् ।
+</details>
+</div>
+
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarvASh_TIkAH/3/5_iShTi-hautrAdi/10_sUktavAkaH/22_yad_anena_haviShA-.ashAste.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Eggeling</summary>
+
+'May he obtain, may he accomplish what he prays for through this offering!'
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 यद॒नेन॑ ह॒विषाऽऽशा॑स्ते ।  
 तद॑श्या॒त्तदृ॑ध्यात् ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+य᳘दने᳘न हवि᳘षाशा᳘स्ते त᳘दश्यात्त᳘दृध्यादि᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+य᳘दने᳘न हवि᳘षाशा᳘स्ते त᳘दश्यात्त᳘दृध्यादि᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+यदनेन हविषाशास्ते । “तदश्यात्, तदृध्याद्”- इति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -539,13 +628,25 @@ unicode_script = "devanagari"
 य᳓त् । अने᳓न । हवि᳓षा । आ । अ । अ-शास् । ते । त᳓त् । अश्यात् । त᳓त् । ऋध्यात् ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
+- अने᳓न (*TS*-0/965, *RV*-3/1247, *TB*-7/567, *TK*-0/57, *AV*-23/1259, *SB-K*-70/5549, *VS-M*-1/313, *VS-K*-0/151, *KS*-1/319, *MS*-15/1379)
+- हवि᳓षा (*TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-29/56, *KS*-19/60, *MS*-56/213)
+- शा᳓स्ते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TB*-1, *MS*-2, *Whitney*, *Lanman*, *MW*)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395, *KS*-156/1225, *MS*-1125/5550)
+- अश्यात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-1)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-2/395, *KS*-156/1225, *MS*-1125/5550)
+- ऋध्यात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-1)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-किं च - यदनेन प्रशस्ततराज्येन प्रह्रियमाणेन हविषाऽऽशास्ते तदश्यात् तत्फलं भुङ्क्ताम्, तच्च फलं ऋध्यात् समृद्धमस्य भवतु ।  
+किं च - यदनेन प्रशस्ततराज्येन प्रह्रियमाणेन हविषाऽऽशास्ते तदश्यात् तत्फलं भुङ्क्ताम्, तच्च फलं ऋध्यात् समृद्धमस्य भवतु ।
 </details>
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓द् अस्मै देवा᳓ रासन्ताम् ।  
 </details>

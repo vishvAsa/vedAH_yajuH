@@ -83,8 +83,8 @@ unicode_script = "devanagari"
 - टिप्पन्यः [अत्र](https://checkvist.com/checklists/575296/export.html?export_notes=true&&task_ids=22621929)।
 
 ## सुदर्शनसूरि-पद्धतिः
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_27_vaishvadeve_vishve.md">
-<details open><summary><h5>०७ २७ वैश्वदेवे विश्वे ...{Loading}...</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/04_vivAhaprakaraNam/07_27_vaishvadeve_vishve.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Oldenberg</summary>
 
 26. [^10]  (The deities) of the Vaiśvadeva ceremony are the Viśve devās,
@@ -180,8 +180,8 @@ unicode_script = "devanagari"
 
 भाष्ये वैश्वदेवस्य, तेषां च प्रयोगः पृथग् एवोपपादितः = the procedures are described separately in the bhAShya (अधुना नोपलभ्यते कपर्दिभाष्यम्। कारिकास् तु काश्चन लभ्यन्ते।  )
 </details>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/sudarshana-sUriH/pancha-mahA-yajJNAH">
-<details open><summary><h10>५ महा-यज्ञाः ...{Loading}...</h10></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/sudarshana-sUriH/pancha-mahA-yajJNAH">
+<details open><summary><h5>५ महा-यज्ञाः ...{Loading}...</h5></summary>
 
 अथ प्रयोगभाष्यम् ईषद्-भेदं लिख्यते–  
 "वैश्वदेवस्य कर्मोच्यते" प्रसङ्गात् पञ्च-महा-यज्ञानां च ।

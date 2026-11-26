@@ -97,8 +97,8 @@ script: grantha
 हिर॑ण्यपक्षम् - वरु॑णस्य - दू॒तं - य॒मस्य॑ - योनौ॑ - शकु॒नम् - भु॒र॒ण्युम्॥)
 
 (उत्तरतः)  
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
-<details open><summary><h9>०४ आ प्यायस्व ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/031/04_A_pyAyasva.md">
+<details open><summary><h4>०४ आ प्यायस्व ...{Loading}...</h4></summary>
 
 **आ᳓ प्यायस्व स᳓मेतु** ते  
 विश्व᳓तः सोम वृ᳓ष्ण्यम् ।  

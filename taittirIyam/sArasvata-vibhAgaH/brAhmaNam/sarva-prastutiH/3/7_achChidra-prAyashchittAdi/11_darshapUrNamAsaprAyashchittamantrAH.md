@@ -11,9 +11,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/02_brahma_pratiShThA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ब्र᳓ह्म **प्रतिष्ठा᳓** म᳓नसो ब्र᳓ह्म वाचः᳓ ।  
 ब्र᳓ह्म यज्ञा᳓नाँ हवि᳓षाम् आ᳓ज्यस्य ।  
@@ -22,11 +20,7 @@ unicode_script: devanagari
 स्वा᳓हा-**कृता᳓** ऽऽहुतिर् **एतु** देवा᳓न् ।
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/02_brahma_pratiShThA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑ प्रति॒ष्ठा मन॑सो॒ ब्रह्म॑ वा॒चः ।  
@@ -42,11 +36,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-</div>
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/05_AshrAvitamatyAshrAvitam_vaShaTkRtamatyanUktanch.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **आ᳓श्रावितम् अत्या᳓श्रावितम्** ।  
 **व᳓षट्-कृतम् अत्य्-अ᳓नूक्तञ्** च यज्ञे᳓ ।  
@@ -55,11 +45,7 @@ unicode_script: devanagari
 स्वा᳓हा-कृता᳓ ऽऽहुतिर् **एतु** देवा᳓न् ॥111॥
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/05_AshrAvitamatyAshrAvitam_vaShaTkRtamatyanUktanch.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 आश्रा॑वितम॒त्याश्रा॑वितम् ।  
@@ -78,11 +64,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-</div>
-
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/08_yadvo_devA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓द् वो देवा **अतिपाद᳓यानि** ।  
 वाचा᳓ चित् **प्र᳓यतन्** देव-**हे᳓डनम्** ।  
@@ -90,11 +72,7 @@ unicode_script: devanagari
 अन्य᳓त्रास्म᳓न् मरुतस् त᳓न् **नि᳓धेतन** ।
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/08_yadvo_devA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 यद्वो॑ देवा अतिपा॒दया॑नि ।  
@@ -108,8 +86,6 @@ unicode_script: devanagari
 3यद्व डति जगती त्रिष्टुब्वा ॥ हे देवाः! मरुतः! युष्माकं संबन्धि यत् कर्म अहं अतिपादयानि अतिपन्नं यथाकामं करोमि । अकरणं अन्यथा करणं चातिपत्तिः । कामचारकरणे लोट् । वाचा चित् वाचा च, सामर्थ्यात् मनसा चेति गम्यते । प्रयतं प्रकर्षेण यतं उपरतम् । यम उपरमे । अत एव देवहेडनं देवानां क्रोधनम् । यच्चास्मान् अरायः निर्धनान् । 'ऊडिदम्' इति विभक्तेरुदात्तत्वं रैशब्दादपि भवति । अभिदुच्छुनायते आभिमुख्येन नाशयति अस्मान्वा अभिलक्ष्य दुच्छुनेवाचरति । दुच्छुना दारिद्र्यम्, तदिवास्मान् पीडयतीति यावत् । ईदृशं अतिपन्नं कर्म तत् अस्मत्तः अन्यत्र निधेतन स्थापयत तत्फलं अस्मासु मा भूत् । दधातेर्लिङि 'लिङ्याशिष्यङ्' यासुट्, 'अतो येयः' 'तप्तनप्तनधनाश्च' इति तनादेशः ॥
 </details>
 </details>
-
-</div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
 
@@ -585,17 +561,13 @@ Gespannt war mein Gewebe, wieder spann' ich es zu preisen euch, ertönt der süs
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/17_imanjIvebhyapH_paridhindadhAmi.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इम᳓ञ् जीवे᳓भ्यᳶ परिधि᳓न् **दधामि** ।  
 मै᳓षा᳓न् नु **गाद्** अ᳓परो अ᳓र्धम् एत᳓म् ।  
 शत᳓ञ् **जीवन्तु** शर᳓दᳶ पुरूचीः᳓ ।  
 तिरो᳓ मृत्यु᳓न् **दधताम्** प᳓र्वतेन ।
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/17_imanjIvebhyapH_paridhindadhAmi.md">
 
@@ -723,7 +695,8 @@ I put this enclosure for the living ones; may none of us obtain only his half li
 
 </div>
 
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/061/13_yata_indra.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/061/13_yata_indra.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1037,6 +1010,7 @@ Was uns, o Indra, Furcht erregt, davor verschaff uns Sicherheit; Gewähr, o star
 
 पदार्थान्वयभाषाः -  उग्रबाहुः=दुष्टान् प्रतिभयानकभुजः। म्रक्षकृत्वा=अवसाने सृष्टेः संहारकर्ता। पुरन्दरः=दुर्जनपुरां दारयिता परमन्यायीशः। यदि मे=मम। हवम्=आह्वानम्। शृणवत्=शृणुयात्। तर्हि अहं कृतकृत्यो भविष्यामीत्यर्थः। एवं तर्हि। वयं=सर्वे। वसूयवः=वसुकामाः। मिलित्वा। वसुपतिम्=धनपतिम्। शतक्रतुम्=अनन्तकर्माणम्। स्तोमैः=स्तोत्रैः। हवामहे=प्रार्थयामहे ॥१०॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/152/02_svastidA_vishaspatirvRtrahA.md">
@@ -1052,7 +1026,8 @@ Was uns, o Indra, Furcht erregt, davor verschaff uns Sicherheit; Gewähr, o star
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/152/02_svastidA_vishaspatirvRtrahA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/152/02_svastidA_vishaspatirvRtrahA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1311,6 +1286,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 
 पदार्थान्वयभाषाः -  (स्वस्तिदाः) कल्याणदाता (विशस्-पतिः) प्रजायाः पालकः (वृत्रहा) आवरणकर्त्तुः पापिनो विरोधिनो हन्ता (विमृधः-वशी) विशिष्टः संग्रामो यासां ताः विरोधिनीः सेनाः-तस्याः-वशकर्त्ता “मृधः संग्रामनाम” [निघ० २।१७] (वृषा) सुखवर्षकः (इन्द्रः) परमात्मा राजा वा (सोमपाः) उत्पन्न-पदार्थानां रक्षकः “सोमपाः सर्वपदार्थरक्षकः” [ऋ० १।४।२ दयानन्दः] सोमरसस्य पानकर्त्ता वा (अभयङ्करः) अभयदाता (नः पुरः-एतु) अस्माकं सम्मुखं प्राप्नोतु-अग्रे गच्छतु वा ॥२॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
@@ -1325,9 +1301,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/32_Abhir_gIrbhir.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 आ॒भिर्गी॒र्भिर्यदतो॑ न ऊ॒नम् ॥114॥  
@@ -1342,8 +1316,6 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </details>
 </details>
 
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1356,9 +1328,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 अना॑ज्ञातय्ँ॒यदाज्ञा॑तम् ।  
@@ -1373,8 +1343,6 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 </details>
 </details>
 
-</div>
-
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
@@ -1387,9 +1355,7 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम्</summary>
 
 पुरु॑षसम्मितो य॒ज्ञः ।  
@@ -1403,8 +1369,6 @@ Der Segen schenkt als Stammes Herr den Vritra schlägt, den Feind bezwingt, Als 
 11पुरुषसम्मित इति ॥ पुरुषः विशिष्टदेहश्चेतयिता, तेन सम्मितः तुल्यः यज्ञो नाम यथा पुरुषोऽयं अन्यूनानतिरिक्तविशिष्टावयवारब्धशरीरः एवं यज्ञोऽप्यन्यूनानतिरिक्ताङ्गविशिष्टाङ्गसङ्घातावयववान् । उपमानपूर्वपदप्रकृतिस्वरत्वम् । किञ्च - पुरुषसम्मितः पुरुषेण सम्यङ्निर्वतितश्चेत् अयं यज्ञो भवति यज्ञस्वभावभाग्भवति, इतरथा अयज्ञ एव स्यात् । 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । यस्मादेवं तस्मात् तस्य यत् न्यूनं तत्कल्पय यज्ञस्वभावानुरूपं कुरु यज्ञत्वाय । त्वं हि यज्ञस्वभावं यथावद्वेत्थ ॥
 </details>
 </details>
-
-</div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
 

@@ -373,7 +373,9 @@ O Soma, Puschan treibet her den Wagen, der siebenrädrig durch die Lüfte eilet,
 भावार्थभाषाः -  माणसांनी अंतरिक्षात गमन करविणाऱ्या सात यंत्रांना फिरवून तात्काळ गमन करणारे रथ तयार करून सुखी व्हावे. ॥ ३ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -752,7 +754,9 @@ Die Bitte fördre Puschan alldurchdringend, und Schatz verleih der Herr des Scha
 भावार्थभाषाः -  हे माणसांनो ! सर्व पदार्थ धन, बुद्धी, आरोग्य व आयुष्य वाढविणारे असतात असे विधान करा. ज्यामुळे सर्व माणसांना अत्यंत सुख प्राप्त होईल. ॥ ६ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -3,9 +3,7 @@ title = "७ स्वाध्याय-प्रशंसा"
 
 +++
 
-
 ## ०१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -218,9 +216,7 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 </details>
 </details>
 
-
 ## ०२
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -353,9 +349,7 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 </details>
 </details>
 
-
 ## ०३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -458,9 +452,7 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 </details>
 </details>
 
-
 ## ०४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -470,8 +462,8 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 य᳓ एवं᳓ **विद्वा᳓न्त्** स्वाध्याय᳓म् **अधीते᳓**। त᳓स्मात् स्वाध्यायो᳓ ऽध्येत᳓व्यः॥+++(५)+++
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/10_yadi_ha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 4. And, verily, if he studies his lesson, even though lying on a soft couch, anointed, adorned and completely satisfied, he is burned (with holy fire [^egg_327]) up to the tips of his nails, whosoever, knowing this, studies his lesson: therefore one's (daily) lesson should be studied.
@@ -482,6 +474,11 @@ The growing intelligence gives rise to four duties attaching to the Brāhmaṇa-
 <details><summary>En - सिद्धार्थः</summary>
 
 Even if he be (यदि ह वा अपि) oiled up (अभ्यक्तः), adorned (अलंकृतः), satisfied (सुहितः) & lying on a pleasant bed (शुखे शयने शयानः), when he does स्वाध्याय, he blazes with अग्नि to the tips of his nails. Thus, the स्वाध्याय ought to be done.(तस्मात्स्वाध्यायोऽध्येतव्यः)
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+Even if one annointed with oil, well adorned and comfortably lying on a bed, if only he performs the svādhyāya, he earns the merit of one who has observed the most severe penance getting heated upto very tips of his nails. (A person who studies svādhyāya earns the merits or punya of observ- ing severe austerities like kṛcchra and cāndrāyaṇa which put the body to severe strain).
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -498,7 +495,12 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-यदि ह वा अप्यभ्यक्तः अलंकृतः सुहितः सुखे शयने शयानः स्वाध्यायमधीते । आ हैव स नखाग्रेभ्यस्तप्यते । य एवं विद्वान् स्वाध्यायमधीते । तस्मात्स्वाध्यायो ऽध्येतव्यः ॥ ४ ॥ 
+यदि ह वा अप्यभ्यक्तः अलंकृतः सुहितः सुखे शयने शयानः स्वाध्यायमधीते । आ हैव स नखाग्रेभ्यस्तप्यते । य एवं विद्वान् स्वाध्यायमधीते । तस्मात्स्वाध्यायो ऽध्येतव्यः ॥ ४ ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+य᳘दि ह वा अ᳘प्य᳘भ्यक्तो᳘ऽलङ्कृतः सु᳘हितः सुखे श᳘यने शया᳘नः स्वाध्यायमधीते आ᳘ हैव स᳘ नखाग्रे᳘भ्यस्तप्यते य᳘ एवं᳘ विद्वा᳘न्त्स्वाध्याय᳘मधीते त᳘स्मान्त्स्वाध्या᳘योऽध्येत᳘व्यः ॥ ३॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -533,28 +535,64 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 - अध्येत᳓व्यः (*SB-K*-4, Weber-पाठः, श्रीधरादि-पाठः)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 2/28 व्यत्यस्त-स्वराः)</summary>
+
+- य᳓दि (*MW*, *AV*-89, *RV*-76, *TS*-73, *TB*-45, *TK*-7, *VS-M*-6, *KS*-15, *MS*-137)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- अ᳓पि (*TS*-103, *AV*-94, *RV*-86, *TB*-47, *TK*-2, *VS-M*-19, *KS*-31, *MS*-118)
+- अभि᳓-अक्तः (*AV*-0/1, *MS*-1, गतिरनन्तरः पा॰ ६.२.४९)
+- अ᳓लं-कृतः (*SB-M*-1/2, *MW* ŚBr.)
+- सु᳓-हितः (*TS*-1/2, *SB-M*-2/5)
+- सु-खे᳓ (*RV*-1/11, *AV*-1/8, *SB-M*-1/3, *VS-M*-0/2, *MS*-0/1)
+- श᳓यने (*TS*-0/1, *RV*-0/9, *TK*-0/1, *AV*-4/10, *SB-M*-2/4, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1, *MS*-0/2)
+- शया᳓नः → **श᳓यानः** (*TS*-0/7, *RV*-0/9, *TK*-0/1, *AV*-2/6, *SB-M*-1/4, *VS-M*-0/2, *VS-K*-0/1, *KS*-0/1, *MS*-0/3)
+- स्वाध्यायम् → **स्वाध्याय᳓म्** (*SB-M*-20/27, *MW*, *Lanman*)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (निपातैर्यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम् पा॰ ८.१.३०, *MS*-1)
+- आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36, *KS*-316, *MS*-1274)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24, *KS*-434, *MS*-2376)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *VS-M*-123/768, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
+- नखाग्रे᳓भ्यः (*SB-M*-2, समासस्य, पा॰ ६.१.२२३, *MW*)
+- तप्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *VS-M*-137/639, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-M*-1045/1065, *VS-M*-6, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *VS-M*-14, *VS-K*-13, *KS*-24, *MS*-86/88)
+- स्वाध्याय᳓म् (*SB-M*-20/27)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
+- त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-M*-2753/20457, *VS-M*-11/768, *VS-K*-8/395, *KS*-80/1225, *MS*-495/5550)
+- स्वाध्यायः᳓ (*SB-M*-7/27)
+- अध्येत᳓व्यः (*SB-M*-5, आद्युदात्तश्च, पा॰ ३.१.३, गतिकारकोपपदात् कृत्, पा॰ ६.२.१३९, *MW*)
+</details>
+
 <details><summary>सायणः</summary>
 
-अथ एतदप्यध्ययनं कृच्छ्रचांद्रायणादितपोरूपत्वेन स्तौति- **यदि ह वा** इति । 'अभ्यक्तः' तैलादिना कृताभ्यंगः । 'अलंकृतः' स्रक्चंदनादिभिर्भूषितः । 'सुहितः' यथेष्टभोजनेन तृप्तः । 'सुखे' सुखकरे 'शयने' शय्यायां 'शयानः' । एवमभ्यंगादीन् तपसः प्रतिकूलान् चरन्नपि यः 'स्वाध्यायमधीते' 'स आ नखाग्रेभ्यः' नखाग्रपर्यंतं यावच्छरीरपीडनेन तपस्तप्तवान् भवति । **य एवं विद्वानि**त्यादि गतम् ॥ ४ ॥ 
+अथ एतदप्यध्ययनं कृच्छ्रचांद्रायणादितपोरूपत्वेन स्तौति- **यदि ह वा** इति । 'अभ्यक्तः' तैलादिना कृताभ्यंगः । 'अलंकृतः' स्रक्चंदनादिभिर्भूषितः । 'सुहितः' यथेष्टभोजनेन तृप्तः । 'सुखे' सुखकरे 'शयने' शय्यायां 'शयानः' । एवमभ्यंगादीन् तपसः प्रतिकूलान् चरन्नपि यः 'स्वाध्यायमधीते' 'स आ नखाग्रेभ्यः' नखाग्रपर्यंतं यावच्छरीरपीडनेन तपस्तप्तवान् भवति । **य एवं विद्वानि**त्यादि गतम् ॥ ४ ॥
 </details>
 </details>
-
+</div>
 
 ## ०५
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 **म᳓धु** ह वा᳓ ऋ᳓चः,  
 **घृतं᳓** ह सा᳓मान्य्,  
 **अमृ᳓तं** य᳓जूंषि।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/11_madhu_ha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 5. The R̥k-texts, truly, are honey, the Sāman-texts ghee, and the Yajus-texts ambrosia;
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+The Ṛks are the honey; the Sāmans are indeed the ghee and the Yajus are the nectar.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -574,6 +612,11 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 मधु ह वा ऋचः । घृतं ह सामानि । अमृतं यजूंषि ।
 </details>
 
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+म᳘धु ह वा ऋ᳘चो घृत᳘ꣳ᳘ ह सा᳘मान्यमृ᳘तं य᳘जूꣳषि
+</details>
+
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-36/58, *KS*-13/24, *MS*-55/81)
@@ -587,11 +630,25 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 - य᳓जूंषि (*TS*-4, *TB*-5, *TK*-2, *AV*-4, *SB-K*-48, *VS-M*-4, *VS-K*-1, *KS*-1, *MS*-9)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम्)</summary>
+
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *VS-M*-50/70, *VS-K*-36/58, *KS*-13/24, *MS*-55/81)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- ऋ᳓चः (*TS*-7/84, *RV*-5/20, *TB*-5/29, *TK*-1/8, *AV*-15/30, *SB-M*-30/143, *VS-M*-4/9, *VS-K*-1/5, *KS*-1/11, *MS*-7/58)
+- घृत᳓म् (*TS*-41/64, *RV*-51/91, *TB*-21/34, *TK*-1, *AV*-26/40, *SB-M*-35/51, *VS-M*-33/49, *VS-K*-28/45, *KS*-22/39, *MS*-72/118)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- सा᳓मानि (*TS*-3/51, *RV*-4/25, *TB*-6/27, *TK*-1/3, *AV*-10/25, *SB-M*-35/181, *VS-M*-3/19, *VS-K*-1/10, *KS*-1/13, *MS*-8/55)
+- अ-मृ᳓तम् (*TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *VS-M*-40/64, *VS-K*-9/20, *KS*-19/30, *MS*-53/84)
+- य᳓जूंषि (*TS*-4, *TB*-5, *TK*-2, *AV*-4, *SB-M*-52, *VS-M*-4, *VS-K*-1, *KS*-1, *MS*-9)
+</details>
+
 <details><summary>सायणः</summary>
 
 अथ एतेषामृगादीनां मध्वादिरूपतया तृप्तिहेतुतां वक्तुं सारूप्यमाह- **मधु ह वा ऋच** इति । या 'ऋचः' तन्मधु । यानि 'सामानि' तत् घृतमाज्यम् । यानि 'यजूंषि' तदमृतम् । 'यत्' खलु 'अयं' अध्येता प्रागुक्तं वाकोवाक्यादिकमधीते 'क्षीरौदनमांसौदनावेव तौ' ॥ ५ ॥
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -599,11 +656,16 @@ Even if he be (यदि ह वा अपि) oiled up (अभ्यक्त�
 **क्षीरौदन-मांसौदनौ᳓** हैव᳓ तौ᳓॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/12_yad_dha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 and, indeed, when he studies the dialogue that (speech and reply) is a mess of milk and a mess of meat.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+The study of vākovākya (statements and counter statements of Mīmāṁsā) is a mess of milk and rice or meat and rice.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -621,6 +683,11 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 यद्ध वा अयं वाकोवाक्यमधीते । क्षीरौदनमांसौदनौ हैव तौ ॥ ५ ॥
 </details>
 
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+य᳘द्ध वा᳘ अयं᳘ वाकोवा᳘क्यमधीते᳘ क्षीरौदन माꣳसौदनौ᳘ हैव तौ ॥ ४॥
+</details>
+
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
@@ -635,25 +702,44 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24, *KS*-434, *MS*-2376)
 - तौ᳓ (*TS*-81/4763, *RV*-15/3136, *TB*-30/2709, *TK*-0/363, *AV*-41/3165, *SB-K*-205/20018, *VS-M*-2/768, *VS-K*-1/395, *KS*-4/1225, *MS*-34/5550)
 </details>
-</details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम्)</summary>
+
+- य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *VS-M*-158/639, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- अय᳓म् (*MW*, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *VS-M*-74/313, *VS-K*-37/151, *KS*-45/319, *MS*-133/1379)
+- वाको-वाक्य᳙म् (*SB-M*-5/11)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
+- क्षीरौदन-मांसौदनौ᳓ (*SB-M*-1/2, समासस्य, पा॰ ६.१.२२३)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24, *KS*-434, *MS*-2376)
+- तौ᳓ (*TS*-81/4763, *RV*-15/3136, *TB*-30/2709, *TK*-0/363, *AV*-41/3165, *SB-M*-181/20457, *VS-M*-2/768, *VS-K*-1/395, *KS*-4/1225, *MS*-34/5550)
+</details>
+</details>
+</div>
 
 ## ०६
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 म᳓धुना ह वा᳓ एष᳓ देवां᳓स् **तर्पयति**,  
 य᳓ एवं᳓ **विद्वा᳓न्** ऋ᳓चो᳓ ऽहर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
 त᳓ एनं **तृप्ता᳓स् तर्पयन्ति** -  
-स᳓र्वैः का᳓मैः, स᳓र्वैर् भो᳓गैः॥ 
+स᳓र्वैः का᳓मैः, स᳓र्वैर् भो᳓गैः॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/13_madhunA_ha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 6. And, indeed, he who, knowing this, studies day by day the R̥k-texts for his lesson, satisfies the gods with honey, and, thus satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+He satisfies the gods with honey, who studies the Ṛks everyday know- ing that (they are honey). Those gods thus pleased make him happy by granting all desires and all enjoyments.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -670,7 +756,12 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-मधुना ह वा एष देवांस्तर्पयति । य एवं विद्वानृचो ऽहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ६ ॥ 
+मधुना ह वा एष देवांस्तर्पयति । य एवं विद्वानृचो ऽहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ६ ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+म᳘धुना ह वा᳘ एष᳘ देवा᳘ꣳ᳘स्तर्पयति य᳘ एवं᳘ विद्वानृचो᳘ऽहरहः स्वाध्या᳘यमधीते त᳘ एनं तृप्ता᳘स्तर्पयन्ति स᳘र्वैः का᳘मैः स᳘र्वैर्भो᳘गैः ॥ ५॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -699,17 +790,42 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-K*-5/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4, *MW*, *Macdonell*, *Lanman*)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 1/22 व्यत्यस्त-स्वराः)</summary>
+
+- म᳓धुना (*TS*-4/44, *RV*-16/153, *TB*-10/46, *TK*-0/3, *AV*-17/92, *SB-M*-6/98, *VS-M*-6/70, *VS-K*-6/58, *KS*-3/24, *MS*-7/81)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- एषः᳓ (*TS*-392/1674, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *VS-M*-71/129, *VS-K*-1/26, *KS*-88/287, *MS*-571/2587)
+- देवा᳓न् (*TS*-95/1025, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-M*-185/2031, *VS-M*-29/517, *VS-K*-9/350, *KS*-26/317, *MS*-77/1216)
+- तर्पयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *TB*-4, *AV*-1, *KS*-1, *MS*-3)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *VS-M*-137/639, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-M*-1045/1065, *VS-M*-6, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *VS-M*-14, *VS-K*-13, *KS*-24, *MS*-86/88)
+- ऋ᳓चः (*TS*-7/84, *RV*-5/20, *TB*-5/29, *TK*-1/8, *AV*-15/30, *SB-M*-30/143, *VS-M*-4/9, *VS-K*-1/5, *KS*-1/11, *MS*-7/58)
+- अ᳓हः-अहः (*TS*-5/7, *RV*-6, *TB*-2, *AV*-3, *SB-M*-42, *VS-M*-1, *KS*-1)
+- स्वाध्या᳓यम् → **स्वाध्याय᳓म्** (*SB-M*-20/27, *MW* ŚBr., *Lanman*)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *VS-M*-118/768, *VS-K*-83/395, *KS*-91/1225, *MS*-372/5550)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26, *KS*-92, *MS*-614)
+- तृप्ताः᳓ (*TS*-2/8, *RV*-1, *TB*-2, *AV*-0/1, *SB-M*-11/13, *VS-M*-2, *KS*-1/3, *MS*-2/4)
+- तर्पयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-2)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- का᳓मैः (*TS*-0/60, *RV*-0/75, *TB*-0/60, *TK*-0/43, *AV*-0/64, *SB-M*-18/327, *VS-M*-0/20, *VS-K*-0/17, *KS*-0/41, *MS*-3/76)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-M*-3/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4)
+</details>
+
 <details><summary>सायणः</summary>
 
-इत्थं मध्वादिरूपतामुक्त्वा तदुपजीवनेन तेषामध्ययनं क्रमेण स्तौति- **मधुना ह वा** इति । निगदसिद्धो ऽर्थः । ऋचामध्ययनं स्तौति- **य एवं विद्वानि**ति । **सर्वैः कामैरि**ति । काम्यमानैः 'सर्वैः' शब्दादिविषयैः तन्निर्वर्त्यैभोगौश्चेत्यर्थः ॥ ६ ॥ 
+इत्थं मध्वादिरूपतामुक्त्वा तदुपजीवनेन तेषामध्ययनं क्रमेण स्तौति- **मधुना ह वा** इति । निगदसिद्धो ऽर्थः । ऋचामध्ययनं स्तौति- **य एवं विद्वानि**ति । **सर्वैः कामैरि**ति । काम्यमानैः 'सर्वैः' शब्दादिविषयैः तन्निर्वर्त्यैभोगौश्चेत्यर्थः ॥ ६ ॥
 </details>
 </details>
-
+</div>
 
 ## ०७
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 घृते᳓न ह वा᳓ एष᳓ देवां᳓स् **तर्पयति**,  
 य᳓ एवं᳓ **विद्वा᳓न्त्** सा᳓मान्य् अ᳓हर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
@@ -717,11 +833,16 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 स᳓र्व्वैः का᳓मैः स᳓र्व्वैर् भो᳓गैः॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/14_ghRtena_ha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 7. And he who, knowing this, studies day by day the Sāman-texts for his lesson, satisfies the gods with ghee; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+He is pleasing the gods, with ghee, who daily recites Sāmans as part of his svādhyāya, knowing that (the Sāmans as ghee). The gods thus satisfied bestow all desires and enjoyments on him.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -738,7 +859,12 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-घृतेन ह वा एष देवांस्तर्पयति । य एवं विद्वान् सामान्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ७ ॥ 
+घृतेन ह वा एष देवांस्तर्पयति । य एवं विद्वान् सामान्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ७ ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+घृते᳘न ह वा᳘ एष देवा᳘ꣳस्तर्पयति य᳘ एवं᳘ विद्वान्सा᳘मान्यहरहः स्वाध्या᳘यमधीते त᳘ एनं तृप्ता᳘स्तर्पयन्ति स᳘र्वैः का᳘मैः स᳘र्वैर्भो᳘गैः ॥ ६॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -767,17 +893,42 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-K*-5/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4, *MW*, *Macdonell*, *Lanman*)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 3/22 व्यत्यस्त-स्वराः)</summary>
+
+- घृते᳓न (*TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *VS-M*-21, *VS-K*-21, *KS*-14, *MS*-37)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- एषः → **एषः᳓** (*TS*-392/1674, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *VS-M*-71/129, *VS-K*-1/26, *KS*-88/287, *MS*-571/2587)
+- देवा᳓न् (*TS*-95/1025, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-M*-185/2031, *VS-M*-29/517, *VS-K*-9/350, *KS*-26/317, *MS*-77/1216)
+- तर्पयति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *TB*-4, *AV*-1, *KS*-1, *MS*-3)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *VS-M*-137/639, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-M*-1045/1065, *VS-M*-6, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *VS-M*-14, *VS-K*-13, *KS*-24, *MS*-86/88)
+- सा᳓मानि (*TS*-3/51, *RV*-4/25, *TB*-6/27, *TK*-1/3, *AV*-10/25, *SB-M*-35/181, *VS-M*-3/19, *VS-K*-1/10, *KS*-1/13, *MS*-8/55)
+- अहः-अहः → **अ᳓हः-अहः** (*TS*-5/7, *RV*-6, *TB*-2, *AV*-3, *SB-M*-42, *VS-M*-1, *KS*-1)
+- स्वाध्या᳓यम् → **स्वाध्याय᳓म्** (*SB-M*-20/27, *MW* ŚBr., *Lanman*)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *VS-M*-118/768, *VS-K*-83/395, *KS*-91/1225, *MS*-372/5550)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26, *KS*-92, *MS*-614)
+- तृप्ताः᳓ (*TS*-2/8, *RV*-1, *TB*-2, *AV*-0/1, *SB-M*-11/13, *VS-M*-2, *KS*-1/3, *MS*-2/4)
+- तर्पयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-2)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- का᳓मैः (*TS*-0/60, *RV*-0/75, *TB*-0/60, *TK*-0/43, *AV*-0/64, *SB-M*-18/327, *VS-M*-0/20, *VS-K*-0/17, *KS*-0/41, *MS*-3/76)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-M*-3/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4)
+</details>
+
 <details><summary>सायणः</summary>
 
-साम्नामध्ययनं स्तौति- **घृतेन ह वा** इति ॥ ७ ॥ 
+साम्नामध्ययनं स्तौति- **घृतेन ह वा** इति ॥ ७ ॥
 </details>
 </details>
-
+</div>
 
 ## ०८
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 अमृ᳓तेन ह वा᳓ एष᳓ देवां᳓स् **तर्पयति**  
 य᳓ एवं᳓ **विद्वा᳓न्** य᳓जूंष्य् अ᳓हर्-अहः स्वाध्याय᳓म् **अधीते᳓**।  
@@ -785,11 +936,16 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 स᳓र्व्वैः का᳓मैः, स᳓र्व्वैर् भो᳓गैः॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/15_amRtena_ha_vA.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 8. And he who, knowing this, studies day by day the Yajus-texts for his lesson, satisfies the gods with ambrosia; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+He satisfies the gods with nectar, who daily recites the Yajus formulas as part of the svādhyāya, knowing that (the Yajus is nectar). Those gods thus satisfied grant him all desires and all enjoyments.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -806,7 +962,12 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-अमृतेन ह वा एष देवांस्तर्पयति । य एवं विद्वान् यजूंष्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ८ ॥ 
+अमृतेन ह वा एष देवांस्तर्पयति । य एवं विद्वान् यजूंष्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ८ ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+अमृ᳘तेन ह वा᳘ एष᳘ देवा᳘ꣳ᳘स्तर्पय᳘ति य एवं᳘ विद्वान्य᳘जूꣳष्यहरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳘स्तर्पयन्ति स᳘र्वैः का᳘मैः स᳘र्वैर्भो᳘गैः ॥ ७॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -835,15 +996,40 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-K*-5/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4, *MW*, *Macdonell*, *Lanman*)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 3/22 व्यत्यस्त-स्वराः)</summary>
+
+- अ-मृ᳓तेन (*TS*-9/74, *RV*-1/188, *TB*-2/51, *TK*-0/39, *AV*-11/108, *SB-M*-14/346, *VS-M*-4/68, *VS-K*-2/22, *KS*-5/35, *MS*-11/95)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- एषः᳓ (*TS*-392/1674, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *VS-M*-71/129, *VS-K*-1/26, *KS*-88/287, *MS*-571/2587)
+- देवा᳓न् (*TS*-95/1025, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-M*-185/2031, *VS-M*-29/517, *VS-K*-9/350, *KS*-26/317, *MS*-77/1216)
+- तर्पय᳓ति → **तर्पयति** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *TB*-4, *AV*-1, *KS*-1, *MS*-3)
+- यः → **यः᳓** (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *VS-M*-137/639, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-M*-1045/1065, *VS-M*-6, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वा᳓न् (*TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *VS-M*-14, *VS-K*-13, *KS*-24, *MS*-86/88)
+- य᳓जूंषि (*TS*-4, *TB*-5, *TK*-2, *AV*-4, *SB-M*-52, *VS-M*-4, *VS-K*-1, *KS*-1, *MS*-9)
+- अहः-अहः → **अ᳓हः-अहः** (*TS*-5/7, *RV*-6, *TB*-2, *AV*-3, *SB-M*-42, *VS-M*-1, *KS*-1)
+- स्वाध्याय᳓म् (*SB-M*-20/27)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *VS-M*-118/768, *VS-K*-83/395, *KS*-91/1225, *MS*-372/5550)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26, *KS*-92, *MS*-614)
+- तृप्ताः᳓ (*TS*-2/8, *RV*-1, *TB*-2, *AV*-0/1, *SB-M*-11/13, *VS-M*-2, *KS*-1/3, *MS*-2/4)
+- तर्पयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-2)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- का᳓मैः (*TS*-0/60, *RV*-0/75, *TB*-0/60, *TK*-0/43, *AV*-0/64, *SB-M*-18/327, *VS-M*-0/20, *VS-K*-0/17, *KS*-0/41, *MS*-3/76)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-M*-3/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4)
+</details>
+
 <details><summary>सायणः</summary>
 
-यजुषामध्ययनं स्तौति- **अमृतेन ह वा** इति ॥ ८ ॥ 
+यजुषामध्ययनं स्तौति- **अमृतेन ह वा** इति ॥ ८ ॥
 </details>
 </details>
-
+</div>
 
 ## ०९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (1/24 व्यत्यस्त-स्वराः)</summary>
 
@@ -853,11 +1039,16 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 स᳓र्व्वैः का᳓मैः, स᳓र्व्वैर् [[भो᳓गैः|भोगैः᳓]]॥
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/16_xIraudana_mAMsaudanAbhyAM_ha.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 9. And he who, knowing this, studies day by day the dialogue, the traditional myths and legends, for his lesson, satisfies the gods by messes of milk and meat; and, being satisfied, they satisfy him by every object of desire, by every kind of enjoyment.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+He pleases the gods with a mess of rice and milk or rice and meat, who pleases them by studying vākovākya as part of the svādhyāya, knowing that (they are the rice and milk or rice and meat). So pleased, the gods confer upon him all desires and all enjoyments.
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -874,7 +1065,12 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 
 <details><summary>मूलम् - विस्वरम्</summary>
 
-क्षीरौदनमांसौदनाभ्यां ह वा एष देवांस्तर्पयति । य एवं विद्वान् वाकोवाक्यमितिहासपुराणमित्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ९ ॥ 
+क्षीरौदनमांसौदनाभ्यां ह वा एष देवांस्तर्पयति । य एवं विद्वान् वाकोवाक्यमितिहासपुराणमित्यहरहः स्वाध्यायमधीते । त एनं तृप्तास्तर्पयंति सर्वैः कामैः सर्वैर्भोगैः ॥ ९ ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+क्षीरौदन᳘माꣳसौदना᳘भ्याꣳ ह वा᳘ एष᳘ देवा᳘ꣳ᳘ स्तर्पय᳘ति य एवं᳘ विद्वान् वाकोवा᳘क्यमितिहासपुराणमित्य᳘हरहः स्वाध्याय᳘मधीते त᳘ एनं तृप्ता᳘स्तर्पयन्ति स᳘र्वैः कामैः स᳘र्वैर्भो᳘गैः ॥ ८॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/24 व्यत्यस्त-स्वराः)</summary>
@@ -905,17 +1101,44 @@ and, indeed, when he studies the dialogue that (speech and reply) is a mess of m
 - भोगैः᳓ (*TS*-3/5, *RV*-1/2, *AV*-0/1, *VS-M*-1, *MS*-4/10)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 5/24 व्यत्यस्त-स्वराः)</summary>
+
+- क्षीरौदन᳓-मांसौदना᳓भ्याम् → **क्षीरौदन-मांसौदना᳓भ्याम्** (*SB-M*-1/2)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *RV*-184, *AV*-70, *TS*-61, *TB*-124, *TK*-116, *KS*-25, *MS*-176)
+- वै᳓ (*TS*-2126, *TB*-1362, *AV*-194, *RV*-26, *TK*-135, *KS*-314, *MS*-3722)
+- एषः᳓ (*TS*-392/1674, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *VS-M*-71/129, *VS-K*-1/26, *KS*-88/287, *MS*-571/2587)
+- देवा᳓न् (*TS*-95/1025, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-M*-185/2031, *VS-M*-29/517, *VS-K*-9/350, *KS*-26/317, *MS*-77/1216)
+- तर्पय᳓ति → **तर्पयति** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *TB*-4, *AV*-1, *KS*-1, *MS*-3)
+- यः → **यः᳓** (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *VS-M*-137/639, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓म् (*MW*, *TS*-274/281, *RV*-1, *TB*-240/258, *TK*-57, *AV*-149/150, *SB-M*-1045/1065, *VS-M*-6, *VS-K*-2/3, *KS*-46/54, *MS*-288/336)
+- विद्वान् → **विद्वा᳓न्** (*TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *VS-M*-14, *VS-K*-13, *KS*-24, *MS*-86/88)
+- वाको-वाक्य᳙म् (*SB-M*-5/11)
+- इतिहास-पुराण᳓म् (*TK*-1, *SB-M*-3)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
+- अ᳓हः-अहः (*TS*-5/7, *RV*-6, *TB*-2, *AV*-3, *SB-M*-42, *VS-M*-1, *KS*-1)
+- स्वाध्याय᳓म् (*SB-M*-20/27)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *KS*-5, *MS*-16)
+- इते᳓ (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६, *MS*-1)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *VS-M*-118/768, *VS-K*-83/395, *KS*-91/1225, *MS*-372/5550)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *AV*-250, *RV*-76, *TB*-338, *TK*-26, *KS*-92, *MS*-614)
+- तृप्ताः᳓ (*TS*-2/8, *RV*-1, *TB*-2, *AV*-0/1, *SB-M*-11/13, *VS-M*-2, *KS*-1/3, *MS*-2/4)
+- तर्पयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *MS*-2)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- कामैः → **का᳓मैः** (*MW*, *TS*-0/60, *RV*-0/75, *TB*-0/60, *TK*-0/43, *AV*-0/64, *SB-M*-18/327, *VS-M*-0/20, *VS-K*-0/17, *KS*-0/41, *MS*-3/76)
+- स᳓र्वैः (*TS*-1/287, *RV*-0/68, *TB*-3/159, *TK*-0/114, *AV*-8/444, *SB-M*-49/2265, *VS-M*-0/55, *VS-K*-0/41, *KS*-0/43, *MS*-13/419)
+- भो᳓गैः (*TS*-0/13, *RV*-0/5, *TB*-0/3, *AV*-0/3, *SB-M*-3/6, *VS-M*-0/1, *KS*-0/1, *MS*-1/4)
+</details>
+
 <details><summary>सायणः</summary>
 
 वाकोवाक्यादीनामध्ययनं स्तौति- **क्षीरौदनमांसौदनाभ्यामि**ति । क्षीरमिश्रितमोदनं 'क्षीरौदनम्' । मांसमिश्रं शाल्योदनं 'मांसौदनम्' । गतमन्यत् । 'वाकोवाक्यमितिहासपुराणमिति' । इतिशब्दः प्रकारवाची, कार्यादीनां संग्रहार्थः [^१_१६६] ॥ ९ ॥ 
 
-[^१_१६६]: (याज्ञ. स्मृ. आ. ब्र. प्र. श्लो. ४७-४८) इत्यत्रत्यावपि श्लोकावत्र द्रष्टव्यौम् । 
+[^१_१६६]: (याज्ञ. स्मृ. आ. ब्र. प्र. श्लो. ४७-४८) इत्यत्रत्यावपि श्लोकावत्र द्रष्टव्यौम् ।
 </details>
 </details>
-
+</div>
 
 ## १०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1017,15 +1240,15 @@ and, verily, as if these deities did not move and act, even so will the Brāhma�
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
 
 त᳓स्मात् स्वाध्यायो᳓ **ऽध्येत᳓व्यस्**,  
 त᳓स्माद् अ᳓प्य् ऋ᳓चं वा य᳓जुर् वा सा᳓म वा गा᳓थां वा कुं᳓ब्यां +++(=ब्राह्मणविशेषं)+++ वा  
 **ऽभिव्या᳓हरेद्** व्रत᳓स्या᳓व्यवछेदाय॥+++(५)+++
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/shatapatha-brAhmaNam/brAhmaNam/sarvASh_TIkAH/11/05/7_svAdhyAya-prashaMsA/19_tasmAt_svAdhyAyo.adhyetavyas.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Eggeling</summary>
 
 And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or a Sāman-verse, or a Gāthā, or a Kumbyā [^egg_328], to ensure continuity of the Vrata [^egg_329].
@@ -1033,6 +1256,11 @@ And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or 
 [^egg_328]: 101:1 A 'Kumbyā,' according to Sāyaṇa, is a Brāhmaṇa-passage explanatory of some sacrificial precept or rite (vidhyarthavādātmakaṁ brāhmaṇa-vākyam); whilst, on Aitareyār. II, 3, 6, 8, the same commentator explains it as a verse (r̥g-viśesha) conveying some precept of conduct (ācāraśikshārūpa), such as 'brahmacāryasyāpośānaṁ karma kuru, divā mā svāpsīḥ,' &c. Cf. Prof. F. Max Müller's transl., Upanishads I, p. 230, note 2.
 
 [^egg_329]: 101:2 This is in keeping with the mystic representation of this and  the preceding chapters which represent the daily study of the scriptural lesson as a sacrifice continued day by day. The student, as the sacrificer, has accordingly, during the sacrifice (that is, during the period of his study of the Vedas, or for life), as it were, to limit his daily food to the drinking of the Vrata-milk, which rule he obeys symbolically by reciting such a verse or formula.
+</details>
+
+<details><summary>C R Swaminathan</summary>
+
+Let him at least recite a single Ṛk mantra or a single Sāman or one Yajus formula or one gāthā (mythi- cal story) or one Brāhmaṇa passage (explaining a Saṁhitā text), so that there is no break in his vow (of svādhyāya). (Seventh Brāhmaṇa Ends.)
 </details>
 
 <details><summary>मूलम् - श्रीधरादि</summary>
@@ -1050,6 +1278,11 @@ And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or 
 <details><summary>मूलम् - विस्वरम्</summary>
 
 तस्मात्स्वाध्यायो ऽध्येतव्यः । तस्मादपि ऋचं वा यजुर्वा साम वा गाथां वा कुम्ब्यां वा ऽभिव्याहरेत्- व्रतस्याव्यवच्छेदाय ॥ १० ॥
+</details>
+
+<details><summary>मूलम् - काण्व-ब्राह्मणम्</summary>
+
+त᳘स्मात्स्वाध्या᳘योऽध्येत᳘व्यस्तस्मादप्यृ᳘चं वा य᳘जुर्वा साम वा गा᳘थां वा कु᳘म्ब्यां वाभिव्या᳘हरेद्व्रतस्या᳘व्यवच्छेदाय ॥९॥
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -1077,6 +1310,31 @@ And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or 
 - अ᳓-व्यवच्छेदाय (*SB-K*-7, तत्पुरुषे तुल्यार्थतृतीयासप्तम्युपमानाव्ययद्वितीयाकृत्याः पा॰ ६.२.२)
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम् - 2/21 व्यत्यस्त-स्वराः)</summary>
+
+- त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-M*-2753/20457, *VS-M*-11/768, *VS-K*-8/395, *KS*-80/1225, *MS*-495/5550)
+- स्वाध्यायः᳓ (*SB-M*-7/27)
+- अध्येत᳓व्यः (*SB-M*-5, प्रत्ययस्वरः, पा॰ ३.१.३)
+- तस्मात् → **त᳓स्मात्** (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-M*-2753/20457, *VS-M*-11/768, *VS-K*-8/395, *KS*-80/1225, *MS*-495/5550)
+- अ᳓पि (*TS*-103, *AV*-94, *RV*-86, *TB*-47, *TK*-2, *VS-M*-19, *KS*-31, *MS*-118)
+- ऋ᳓चम् (*TS*-8/84, *RV*-1/20, *TB*-1/29, *TK*-0/8, *AV*-2/30, *SB-M*-19/143, *VS-M*-1/9, *VS-K*-1/5, *KS*-1/11, *MS*-6/58)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *RV*-323, *TS*-155, *AV*-148, *TB*-73, *TK*-10, *KS*-61, *MS*-211)
+- य᳓जुः (*Whitney*, *TS*-16/54, *RV*-5/6, *TB*-3/28, *TK*-0/5, *AV*-9/16, *SB-M*-122/298, *VS-M*-3/12, *VS-K*-3/8, *KS*-6/15, *MS*-27/77)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *RV*-323, *TS*-155, *AV*-148, *TB*-73, *TK*-10, *KS*-61, *MS*-211)
+- साम → **सा᳓म** (*TS*-33/51, *RV*-13/25, *TB*-12/27, *TK*-0/3, *AV*-10/25, *SB-M*-76/181, *VS-M*-13/19, *VS-K*-9/10, *KS*-6/13, *MS*-34/55)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *RV*-323, *TS*-155, *AV*-148, *TB*-73, *TK*-10, *KS*-61, *MS*-211)
+- गा᳓थाम् (*TS*-0/2, *RV*-0/5, *TB*-0/1, *AV*-0/6, *SB-M*-1/20, *MS*-2/3)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *RV*-323, *TS*-155, *AV*-148, *TB*-73, *TK*-10, *KS*-61, *MS*-211)
+- कु᳓म्ब्याम् (*SB-M*-1, *MW* ŚBr.)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *RV*-323, *TS*-155, *AV*-148, *TB*-73, *TK*-10, *KS*-61, *MS*-211)
+- अभि (गतिर्गतौ पा॰ ८.१.७०, *TB*-38, *TK*-9, *AV*-3, *KS*-27, *MS*-215)
+- वि (गतिर्गतौ पा॰ ८.१.७०, *TB*-45, *TK*-3, *AV*-1, *KS*-33, *MS*-130)
+- आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36, *KS*-316, *MS*-1274)
+- हरेत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *TB*-11, *KS*-6, *MS*-13)
+- व्रत᳓स्य (*TS*-0/49, *RV*-1/100, *TB*-0/23, *TK*-0/1, *AV*-1/29, *SB-M*-3/89, *VS-M*-0/13, *VS-K*-0/16, *KS*-0/16, *MS*-1/72)
+- अ᳓व्यवच्छेदाय (*SB-M*-5)
+</details>
+
 <details><summary>सायणः</summary>
 
 सूर्यादिगतिवत् अखिलजगद्व्यवहारनिर्वर्तकत्वेन ब्रह्मयज्ञस्वाध्यायं स्तौति- **यन्ति वा** इति । नद्यादिरूपेण स्थिताः 'आपः' खलु 'यंति' गच्छंति । 'एति आदित्यः' गच्छति । 'चंद्रमाः अप्येति' गच्छति । 'नक्षत्राण्यपि यंति' गच्छंति । तत्रापां तिर्यग्गमनं स्नानपानादिकृत्स्नलोकव्यवहारार्थम् । सूर्यगमनं अहनि प्रकाशप्रदानार्थम् । तथा चंद्रनक्षत्राणां गमनं रात्रौ प्रकाशप्रदानार्थम् । 'यथा' खलु 'एताः' अबाद्याः 'देवता नेयुः' न पुनर्गच्छेयुः । तदानीं 'न कुर्युः' एव स्वस्वव्यवहारम् । ततस्तेषां निष्प्रयोजकत्वम् । एवमेतस्मिन्नहनि ब्राह्मणो निरर्थको भवति, यस्मिन्नहनि 'स्वाध्यायं नाधीते' ।
@@ -1088,4 +1346,4 @@ And hence let him at least pronounce either a R̥k-verse or a Yajus-formula, or 
 इति श्रीसायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे माध्यंदिनीयशतपथब्राह्मणभाष्य एकादशकांडे पंचमे ऽध्याये सप्तमं ब्राह्मणम् ॥ (११ । ५ । ७) ॥
 </details>
 </details>
-
+</div>

@@ -587,7 +587,9 @@ Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit si
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. ज्या मार्गाने विद्वान लोक जातात त्याच मार्गाने सर्व लोकांनी जावे. जसे आप्त, शास्त्रज्ञ, विद्वान लोक इतरांचे सुख-दुःख आपल्याप्रमाणे मानतात तसे सर्वांनी वागावे. ॥ २ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -976,7 +978,9 @@ Uns sein zum Heil der Götterallheit Götter, Sarasvati mit Göttinnen der Andac
 भावार्थभाषाः -  माणसांनी असे आचरण केले पाहिजे की ज्यामुळे सर्वांना विद्वान माणसे, चांगली बुद्धी व वाणी, विद्या देणारे योगी, राजा व कारागीर मिळाले पाहिजेत. ॥ ११ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1296,7 +1300,9 @@ Ihr Götter alle, die ihr in dem Gesetz des wahrhaft belebenden Savitar und des 
 पदार्थान्वयभाषाः -  (ये विश्वे देवाः) ये सर्वविषयेषु प्रविष्टा विद्वांसः (सवितुः सत्यसवस्य मित्रस्य वरुणस्य व्रते) उत्पादकस्य यथावच्छासकस्य प्रेरकस्य वरयितुः परमात्मनो नियमे सदाचरणे वर्त्तन्ते (ते-अस्मे) ते यूयमस्मभ्यम् (वीरवत्-गोमत् सौभगम्) प्राणयुक्तं प्रशस्तेन्द्रिययुक्तं सौभाग्यम् तथा (चित्रं द्रविणम्-अप्नः-दधातन) अद्भुतं चायनीयं ज्ञानधनं कर्म-कर्त्तव्यबलं च धारयत ॥१३॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1648,7 +1654,9 @@ Geh aus auf Botschaft, Agni, säume nimmer, hin zu den Göttern mit der Schar de
 भावार्थभाषाः -  हे माणसांनो ! जसे विद्वान लोक अग्निरूपी दूताकडून पुष्कळ कार्य सिद्ध करतात तसे कार्याची सिद्धी करून कुणालाही मारू नका तर पदार्थविद्या, धन किंवा धान्याच्या कोशाने पूर्ण करून सर्वांना सुखी करा. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -2002,7 +2010,9 @@ O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Adit
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. ज्याचा सूर्याप्रमाणे सुशिक्षित पालक पिता, पृथ्वीप्रमाणे क्षमाशील विद्यायुक्त माता, अग्नीप्रमाणे प्रकाशमान भ्राता असतो तोच सुखी होतो. तसेच ज्याप्रमाणे पूर्ण विद्यावान लोक सन्मार्ग दाखवितात त्याप्रमाणेच विद्याध्ययन करणारे (विद्यार्थी) अध्यापन करणाऱ्यांचा निरंतर सत्कार करतात. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -2320,15 +2330,11 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-विश्वेदेवाः हे विश्वेदेवाः, शृणुत इमं हवं आह्वानं मे मम।
-
-ये अन्तरिक्षे स्थ भवथ।
-
-ये च उपद्यवि द्युलोके स्थ भवथ ये च अग्निजिह्वा अग्निमुखाः।
-
-उत वा अपिच यजत्रा यष्टव्याः।
-
-श्रुत्वा च आह्वानमासद्य स्थित्वा अस्मिन्बर्हिषि मादयध्वं तृप्यध्वम्॥ ५३॥
+विश्वे-देवाः हे विश्वे-देवाः, शृणुत इमं हवं आह्वानं मे मम।  
+ये अन्तरिक्षे स्थ भवथ।  
+ये च उप-द्यवि द्यु-लोके स्थ भवथ ये च अग्नि-जिह्वा अग्नि-मुखाः।  
+उत वा अपि च यजत्रा यष्टव्याः।  
+श्रुत्वा च आह्वानम् आसद्य स्थित्वा अस्मिन् बर्हिषि मादयध्वं तृप्यध्वम्॥ ५३॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -2346,109 +2352,49 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-विश्वे ।
+> विश्वे। देवाः। शृणुत। इमम्। हवम्। मे। ये। अन्तरिक्षे। ये। उप। द्यवि। स्थ ॥
 
-देवाः ।
-
-शृणुत ।
-
-इमम् ।
-
-हवम् ।
-
-मे ।
-
-ये ।
-
-अन्तरिक्षे ।
-
-ये ।
-
-उप ।
-
-द्यवि ।
-
-स्थ ॥
-
-शिष्टं स्पष्टम् ॥५३॥
-
-हे विश्वे !
-
-सर्वे देवाः, इमं हवं शृणुत ।
-
-विश्वे इत्य् उक्तम् ।
-
-तेषां विभागम् आह ।
-
-ये अन्तरिक्षे स्थ ये वा उपद्यवि द्यु-लोके स्थ, ये च अग्नि-जिह्वाः अग्नि-मुखेन हविर्भोक्तारः, उत वा अथ वा, यजत्राः यष्टव्याः ते सर्वे ऽपि अस्मिन् बर्हिषि, आसद्य मादयध्वं हविषा तृप्ता भवत' ।
+शिष्टं स्पष्टम् ॥ ५३ ॥  
+हे विश्वे!  
+सर्वे देवाः, इमं हवं शृणुत ।  
+विश्वे इत्य् उक्तम् ।  
+तेषां विभागम् आह ।  
+ये अन्तरिक्षे स्थ ये वा उपद्यवि [[द्यु-लोके|द्यु-लोके]] स्थ, ये च [[अग्नि-जिह्वाः|अग्नि-जिह्वाः]] [[अग्नि-मुखेन|अग्नि-मुखेन]] [[हविर्भोक्तारः|हविर्-भोक्तारः]], उत वा अथ वा, यजत्राः यष्टव्याः ते सर्वे ऽपि अस्मिन् बर्हिषि, आसद्य मादयध्वं हविषा तृप्ता भवत ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-चतुर्थेऽहनि वैश्वदेवस्तुत् ।
-
-तत्रैकादश वैश्वदेव्यः पुरो-रुचः, पट् प्रतीकोक्ताः ।
-
-प्रवावृज इति त्रिष्टुप्५ ।
-
-वैश्वदेवस्तुतिर् वैश्वदेवस्य च पुरोरुक् ।
-
-प्रवावृजे सुप्रया बर्हिः ।
-
-सुप्रयाः शोभन-प्रयाः प्रयाणं सुप्रगमनं येषां ते ।
-
-प्रवावृजे 'वृजी वर्जने' [ १०२६ अदादिः ] ।
-
-प्रवृज्यते वर्ज्यते प्रच्छिद्यते गमनं विहायैकस्मिन् स्थाने स्थित्वा ।
-
-बर्हिर् इति यज्ञम् आनवर्हिः, यज्ञं ये कुर्वन्ति तेपा- मेषां यजमानानां बर्हिः ।
-
-यज्ञम् आ इयाते ।
-
-अश्विनावागच्छतम् ।
-
-कौ इव ?
-
-विश्पतीव बीरिटे ।
-
-विशां सर्वासां प्रजानां मनुष्याणां पती राजानाविन् न ।
-
-वीरिट इति ।
-
-वीरिटशब्दो गण-वचनः [ निरु० ५२८ ] ।
-
-विशां मनुष्याणां गणः ।
-
-वीरिटेऽश्विनौ राजानाव् इव आ इयाते ।
-
-१ अस्य मन्त्रस्याङ्गिरसो हिरण्यस्तूप ऋषिः ।
-
-द्रष्टव्यम् सर्वा० मही० च ।
-
-अस्य मन्त्रस्य वसिष्ठ ऋषिरिति-सर्वा० मही० च
-आनन्द-बोध भट्टोपाध्याय-प्रणीतः
-कस्मिन् काल इति ?
-
-अक्तोर् उपसः ।
-
-अक्तुर् इति रात्रि-नाम [ निघ० ११७ ] ।
-
-अक्तोर् अवसाने राज्य- वसाने ।
-
-उपस आगमन-काले ।
-
-[ पूर्व-हूतौ पूर्वस्मिन् आह्वान-काले । ] इयात इति सम्बन्धः ।
-
-किं च, वायुः प्राण-वायुश् च ।
-
-नियुत्वान् अश्ववान् ।
-
-'नियुत इति वायोर् अश्वनाम [ निघ० १ । ] ।
-
-पूषा च ।
-
-एतावपि इयात इति सम्बन्धः ।
-
+चतुर्थे ऽहनि वैश्वदेव-स्तुत् ।  
+तत्रैकादश वैश्वदेव्यः पुरो-रुचः, [[पट्|षट्]] प्रतीकोक्ताः ।  
+प्रवावृज इति त्रिष्टुप्५ ।  
+वैश्वदेव-स्तुतिर् वैश्वदेवस्य च पुरो-रुक् ।  
+प्रवावृजे सुप्रया बर्हिः ।  
+सुप्रयाः शोभन-प्रयाः प्रयाणं सुप्रगमनं येषां ते ।  
+प्रवावृजे 'वृजी वर्जने' [ १०२६ अदादिः ] ।  
+प्रवृज्यते वर्ज्यते प्रच्छिद्यते गमनं विहायैकस्मिन् स्थाने स्थित्वा ।  
+बर्हिर् इति यज्ञम् [[आनवर्हिः|?? बर्हिः]], यज्ञं ये कुर्वन्ति [[तेपा- मेषां|तेषाम् एषाम्]] यजमानानां बर्हिः ।  
+यज्ञम् आ इयाते ।  
+अश्विनाव् आगच्छतम् ।  
+कौ इव ?  
+विश्पतीव [[बीरिटे|वीरिटे]] ।  
+विशां सर्वासां प्रजानां मनुष्याणां पती [[राजानाविन् न|राजानाव् इव]] ।  
+वीरिट इति ।  
+वीरिट-शब्दो गण-वचनः [ निरु० [[५२८|५।२८]] ] ।  
+विशां मनुष्याणां गणः ।  
+वीरिटे ऽश्विनौ राजानाव् इव आ इयाते ।  
+१ अस्य मन्त्रस्याङ्गिरसो हिरण्यस्तूप ऋषिः ।  
+द्रष्टव्यम् सर्वा० मही० च ।  
+अस्य मन्त्रस्य वसिष्ठ ऋषिर् इति-सर्वा० मही० च कस्मिन् काल इति ?  
+अक्तोर् [[उपसः|उषसः]] ।  
+अक्तुर् इति रात्रि-नाम [ निघ० [[११७|१।७]] ] ।  
+अक्तोर् अवसाने [[राज्य- वसाने|रात्र्य्-अवसाने]] ।  
+[[उपस|उषस]] आगमन-काले ।  
+[ पूर्व-हूतौ पूर्वस्मिन् आह्वान-काले । ] इयात इति सम्बन्धः ।  
+किं च, वायुः प्राण-वायुश् च ।  
+नियुत्वान् अश्ववान् ।  
+'नियुत इति वायोर् अश्व-नाम [ निघ० १ । ] ।  
+पूषा च ।  
+एताव् अपि इयात इति सम्बन्धः ।  
 स्वस्तये अविनाशाय इयात इति ॥ ४४ ॥
 </details>
 
@@ -2695,7 +2641,7 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 </details>
 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
 
 
@@ -2770,7 +2716,7 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2781,7 +2727,8 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2796,6 +2743,7 @@ I will follow the rules; may I do so; may that be increased.
 <details><summary>सायण-टीका</summary>
 
 त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </details>
 </div>
 
@@ -2830,7 +2778,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2841,7 +2789,8 @@ O wind, the lord of the rules,
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2856,6 +2805,7 @@ I will follow the rules; may I do so; may that be increased.
 <details><summary>सायण-टीका</summary>
 
 त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </details>
 </div>
 
@@ -2877,7 +2827,7 @@ O Āditya, the lord of the rules,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2888,7 +2838,8 @@ O Āditya, the lord of the rules,
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2903,6 +2854,7 @@ I will follow the rules; may I do so; may that be increased.
 <details><summary>सायण-टीका</summary>
 
 त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </details>
 </div>
 
@@ -2924,7 +2876,7 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -2935,7 +2887,8 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 
 </div>
 
-<div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarvASh_TIkAH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
 
 I will follow the rules; may I do so; may that be increased.
@@ -2950,6 +2903,7 @@ I will follow the rules; may I do so; may that be increased.
 <details><summary>सायण-टीका</summary>
 
 त्वत्प्रसादाद्व्रतं कर्तुं शकेयं शक्तो भूयासम् । मे मदीयं तद्व्रतं राध्यतां समृद्धिं गच्छतु ।
+</details>
 </details>
 </div>
 </div>

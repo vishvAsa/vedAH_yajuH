@@ -13,6 +13,8 @@ unicode_script = "devanagari"
 "देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓त्याह प्र᳓सूत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 'On the impulse of the god Savitr thee', he says, for impelling.
@@ -33,8 +35,9 @@ ________________________________________________________________________________
 
 अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -100,6 +103,7 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
+
 </div>
 </div>
 
@@ -1051,6 +1055,8 @@ ________________________________________________________________________________
 "अ᳓ग्ने हव्यँ᳓ रक्षस्वे᳓"त्याह गु᳓प्त्यै ॥34॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
@@ -1067,7 +1073,8 @@ ________________________________________________________________________________
 
 _______________________________
 
-पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।
+पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।  
+</details>
 </details>
 </div>
 

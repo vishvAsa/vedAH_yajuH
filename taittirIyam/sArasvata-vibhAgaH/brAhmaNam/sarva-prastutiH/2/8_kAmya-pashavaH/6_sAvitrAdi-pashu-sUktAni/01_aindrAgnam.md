@@ -22,7 +22,8 @@ title = "०१ ऐन्द्राग्नम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/045/01_A_devo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -435,6 +436,7 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे सूर्याप्रमाणे शुभ गुण, कर्म प्रकट करतात व माणसांचे हित करतात ती अत्यंत ऐश्वर्य प्राप्त करतात. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -778,7 +780,9 @@ Den perlgeschmückten, allgestalt'gen Wagen, mit goldnem Joch den hohen hat best
 भावार्थभाषाः -  या मंत्रात श्लेष व वाचकलुप्तोपमालंकार आहेत. जसा सूर्य इत्यादीच्या उत्पत्तीचे निमित्त, सूर्य इत्यादी गोलाचे धारण करणारा, बलवान, सर्व लोक (गोल) व आकर्षणरूपी बल धारण करीत वायू विचरण करतो व जसा सूर्य आपल्या जवळच्या स्थानांना धारण करून सर्व रूप प्रकट करून बल व आकर्षणशक्तीने सर्वांना धारण करतो. या दोन्हींशिवाय एखाद्या स्थूल किंवा सूक्ष्म वस्तूचे धारण शक्य नाही. तसे राजाने शुभगुणयुक्त होऊन राज्याचे धारण करावे. ॥ ४ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1127,7 +1131,9 @@ Es schaffe nun Gott Savitar, der starke, uns Schätze her, der reiche Herr der S
 भावार्थभाषाः -  जी माणसे सूर्याप्रमाणे सर्वांचे धन वाढवून सुपात्रांना देतात ती धनपती बनतात. ॥ ३ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1465,7 +1471,9 @@ Weissfüss'ge Braune, die den Wagen ziehen, dess Deichsel golden, bringen Licht 
 भावार्थभाषाः -  जसे सूर्याचा प्रकाश किंवा आकर्षण इत्यादी गुण सर्व जगाला धारणापूर्वक यथायोग्य प्रकट करतात व जे गोल सूर्यासमीप आहेत ते सूर्याच्या प्रकाशाने प्रकाशित होतात. जी अनादीरूप प्रजा आहे त्यांनाही वायू धारण करतो. याप्रकारे सर्व गोल आपापल्या परिधीत स्थित असतात. तसे हे माणसांनो! तुम्ही सद्गुणांना धारण करून आपापल्या अधिकारात स्थित राहून इतरांना न्यायमार्गात स्थापित करा. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1822,7 +1830,9 @@ Der schön beschwingte hat erhellt die Lüfte, der tieferregte Gott, der herrlic
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जेव्हा हा भूगोल आपल्या भ्रमणाने सूर्याच्या प्रकाशाचे आच्छादन करून अंधकार करतो तेव्हा साधारण माणसे विचारतात की आता तो सूर्य कुठे गेला? त्या प्रश्नाचे उत्तर द्यावे की पृथ्वीच्या दुसऱ्या भागात आहे. पृथ्वीची गती अति सूक्ष्म आहे. जशी ती मूर्ख माणसे जाणू शकत नाहीत तसेच विद्वान माणसांचा आशयही अविद्वान लोक जाणू शकत नाहीत. ॥ ७ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

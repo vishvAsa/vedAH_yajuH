@@ -416,11 +416,10 @@ the Vaiśvadeva and the Agnimaruta hymns establish thee in firmness, the Śakvar
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/02_nAkasadAkhyeShTakopadhAnam/12_antarixAyarShayastvA_prathamajA_deveShu.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 अन्त᳓रिक्षाय᳓र्षयस्त्वा प्रथमजा᳓ देवे᳓षु दिवो᳓ मा᳓त्रया वरिणा᳓ प्रथन्तु ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/02_nAkasadAkhyeShTakopadhAnam/12_antarixAyarShayastvA_prathamajA_deveShu.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -470,7 +469,9 @@ May the first-born seers among the gods spread you out according to the measure 
 देवेषु मध्ये ये प्रथमजा ऋषयो नारदाद्याः ।   अत एव स्मर्यते—“देवर्षिर्नारदस्तथा’ इति ।   ते महर्षयस्त्वामिष्टकां दिवो मात्रयाऽऽका।   शस्य यत्परिमाणं तेन परिमाणेन प्रथन्तु विस्तारयन्तु ।   किमर्थम्, अन्तरिक्षार्थमन्तरिक्षं व्याप्तुमित्यर्थः ।   कीदृशेन परिमाणेन, वरिणा वरणीयेन ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधर्ता᳓  चाय᳓म᳓धिपतिश्च +++( प्रथेताम्)+++ ।  
 </details>

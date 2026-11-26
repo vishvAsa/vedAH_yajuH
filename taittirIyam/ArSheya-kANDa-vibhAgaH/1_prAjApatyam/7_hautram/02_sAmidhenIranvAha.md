@@ -26,7 +26,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/027/01_pra_vo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतव अग्निर्वा
@@ -316,6 +317,7 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 
 भावार्थभाषाः -  जसे पदार्थ दिवसा सुकतात व रात्री ओलसर होतात त्याच प्रकारे जे पदार्थ आपले आहेत ते इतरांचे व जे इतरांचे ते आपले आहेत या प्रकारे सुखाच्या इच्छेने विद्वानांचा संग केला पाहिजे. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/016/10_agna_A.md">
@@ -330,7 +332,8 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/10_agna_A.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/016/10_agna_A.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -633,6 +636,7 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 भावार्थभाषाः -  जेथे विद्वान विद्यावृद्धीची इच्छा करतात तेथे सर्वजण सुखी होतात. ॥ १० ॥
 </details>
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -818,29 +822,15 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-तं त्वा समिद्भिः यस्त्वमुक्तगुणस्तं त्वां समिद्भिः।
-
-हे अङ्गिरः।
-
-अङ्गतिर्गत्यर्थः।
-
-रो मत्वर्थीयः।
-
-गमनवन्।
-
-‘अङ्गिरा उ ह्यग्निः’ इति श्रुतिः।
-
-घृतेन वर्धयामसि वर्धयामः।
-
-‘इदन्तो मसि’ इति सिकारश्छान्दसः।
-
-बृहत् महत् शोच दीप्यस्व।
-
-यविष्ठ्य युक्तम।
-
-इष्टनि परभूते टेः ‘स्थूलदूरयुव-’ इत्यादिना यविष्ठ्य इति सिद्धम्।
-
-स्वार्थिको यकारस्तद्धितः॥३॥
+तं त्वा समिद्भिः यस् त्वम् उक्त-गुणस् तं त्वां समिद्भिः।  
+हे अङ्गिरः। अङ्गतिर् गत्य्-अर्थः। रो मत्वर्थीयः। गमनवन्।  
+‘अङ्गिरा उ ह्य् अग्निः’ इति श्रुतिः।  
+घृतेन वर्धयामसि वर्धयामः।  
+‘इदन्तो मसि’ इति सिकारश् छान्दसः।  
+बृहत् महत् शोच दीप्यस्व।  
+यविष्ठ्य [[युक्तम|युवतम]]।  
+इष्टनि पर-भूते टेः ‘स्थूलदूरयुव-’ इत्यादिना यविष्ठ्य इति सिद्धम्।  
+स्वार्थिको यकारस् तद्धितः॥३॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -876,36 +866,19 @@ _________
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-‘तं त्वा' इति ।
-
-ऋषिर् भरद्वाजः ।
-
-' समिधाग्निम् ' इत्याद्य्-अभ्याहित-गुणो योऽग्निः "तं ♛त्वा त्वाम् हे 'अङ्गिरः ।
-
-अङ्गतिर् गत्यर्थः ।
-
-रो मत्व्-अर्थीयः ।
-
-अङ्गिरा इति ।
-
-तत्-संबोधनम् हे अङ्गिरः सर्व-ज्ञ ।
-
-'समिद्भिः याज्ञिकका ठैः घृतेन वर्धयाम् असि ।
-
-छान्दसः इदन्तो मसिः ” (पा. ७.१.४६) इतीकारः ।
-
-वर्धयामः । "बृहत् ।
-
-बृहि वृद्धौ इत्य् अस्य रूपम् ।
-
-बृहद्-ब्रह्म-रूपो ऽसि ।
-
-शोच, शुच दीप्तौ, शोच दीप्यस्व ।
-
-यविष्ठ्य, यविष्ठ्यो यवीयान् सदा युवतमः ।
-
-इष्ठनि पर-भूते " स्थूल-दूर " ( पा. ६.४.१५६ ) इत्य्-आदिना यविष्ठः, तत्र साधुः यविष्ठयः, तत्-संबोधनम्
-यत्रिष्ठ्य ॥ ३ ॥
+‘तं त्वा' इति ।  
+ऋषिर् भरद्वाजः ।  
+'समिधाग्निम्' इत्याद्य्-अभ्याहित-गुणो यो ऽग्निः "तं [[♛त्वा|त्वा]] त्वाम् हे 'अङ्गिरः ।  
+अङ्गतिर् गत्य्-अर्थः । रो मत्व्-अर्थीयः । अङ्गिरा इति ।  
+तत्-संबोधनम् हे अङ्गिरः सर्व-ज्ञ ।  
+'समिद्भिः [[याज्ञिकका ठैः|याज्ञिक-काष्ठैः]] घृतेन [[वर्धयाम् असि|वर्धयामसि]] ।  
+छान्दसः इदन्तो मसिः” (पा. ७.१.४६) इतीकारः ।  
+वर्धयामः । "बृहत् ।  
+बृहि वृद्धौ इत्य् अस्य रूपम् ।  
+बृहद्-ब्रह्म-रूपो ऽसि ।  
+शोच, शुच दीप्तौ, शोच दीप्यस्व ।  
+यविष्ठ्य, यविष्ठ्यो यवीयान् सदा युवतमः ।  
+इष्ठनि [[पर भूते स्थूल दूर|पर-भूते "स्थूल-दूर]]" (पा. ६.४.१५६) इत्य्-आदिना यविष्ठः, तत्र साधुः [[यविष्ठयः|यविष्ठ्यः]], तत्-संबोधनम् [[यत्रिष्ठ्य|यविष्ठ्य]] ॥ ३ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1052,7 +1025,9 @@ Dich, Angiras, verherrlichen mit Brennholz und mit Butter wir, Erstrahle hell, o
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा घृताने अग्नी प्रवृद्ध होतो तसे जे राजे इत्यादी लोक शिक्षण व सत्काराने शूर लोकांची वृद्धी करतात ते सदैव विजय मिळवितात. ॥ ११ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓ नᳶ पृथु᳓श् श्रवा᳓य्यम् ॥2॥  
 अ᳓च्छा देव विवाससि ।  
@@ -1173,7 +1148,9 @@ Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull
 अयम् अग्निः सम्यग् इध्यते। कीदृशः, ईडेन्यः स्तोतुं योग्यः, नमस्यो नमस्कार-योग्यः, तमांसि तिरस्कुर्वन् दर्शतः पदार्थानाम् आर्दशयिता, वृषा कामानां वर्धयिता।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृ᳓षो अग्नि᳓स् स᳓मिध्यते ।  
 अ᳓श्वो न᳓ देव-वा᳓हनः ।  
@@ -1255,7 +1232,9 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 अयम् अग्निः सम्यग् इध्यते। कीदृशः। वृषः कामानां वर्षयिता। अश्वो न देव-वाहनो ऽश्व इव देवार्थस्य हविषो वोढा। तम् इमम् अग्निं हविष्मन्तो यजमानाः स्तुवते।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वृ᳓षणन् त्वा वयव्ँ᳓ वृ᳓षन् ।  
 वृ᳓षाणस् स᳓मिधीमहि ॥3॥  
@@ -1591,7 +1570,9 @@ Der helle Agni wird entflammt, beim Opferfest des Preises werth, Den flammenhaar
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे अग्नीरूप पदार्थच संपूर्ण पदार्थात श्रेष्ठ आहेत. त्यासाठी या अग्निविषयक विद्येची प्रार्थना करणे योग्य आहे, तसेच विद्वान लोकांनी संपूर्ण माणसातील श्रेष्ठ लोकांकडून विद्याप्राप्तीसाठी प्रार्थना करावी. ॥ ४ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स᳓मिद्धो अग्न आहुत ।  
 देवा᳓न् यक्षि स्वध्वर ।  
@@ -1873,7 +1854,9 @@ Entflammt, o Agni, opferreich, die Götter ehr beopferter; Du bist's ja, der die
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्यरूपाने अग्नी सर्वांचे रक्षण करतो तसाच राजाही असतो. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2146,7 +2129,9 @@ Begiesst den Agni und beschenkt bei vorgeschrittner Feier ihn, Zum Opferfahrer w
 भावार्थभाषाः -  हे विद्यार्थ्यांनो! जसे विद्वान शिल्पविद्या ग्रहण करतात तसे स्वतःही ग्रहण करा. ॥ ६ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

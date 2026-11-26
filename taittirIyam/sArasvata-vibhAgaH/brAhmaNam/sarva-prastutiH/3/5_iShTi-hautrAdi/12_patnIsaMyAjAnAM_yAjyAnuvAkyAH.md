@@ -486,7 +486,9 @@ Der Götter Frauen mögen gern uns hülfreich sein, zu Kinderschar und reichem G
 भावार्थभाषाः -  जसे राजे लोक पुरुषांचा न्याय करतात तसाच राणींनी स्त्रियांचा न्याय करावा. ॥ ७ ॥
 </details>
 </details>
-</div><div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/046/08_uta_gnA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -499,7 +501,8 @@ Der Götter Frauen mögen gern uns hülfreich sein, zu Kinderschar und reichem G
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवपत्न्यः
@@ -827,6 +830,7 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे राजे लोकांजवळ पुरुष मंत्री असतात तशा राण्यांजवळ स्त्रिया मंत्री असाव्यात. ॥ ८ ॥
+</details>
 </details>
 </div>
 
@@ -1169,7 +1173,9 @@ Agni ist Priester, Hausgebieter, König; der Wesenkenner kennet alle Wesen; Der 
 भावार्थभाषाः -  हे माणसांनो ! जो संपूर्ण जग व जीवांचे कर्म जाणून फळ देतो तोच खरा राजा आहे, हे जाणले पाहिजे. ॥ १३ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वय᳓म् उ त्वा गृहपते ज᳓नानाम् ।  
 अ᳓ग्ने **अ᳓कर्म** समि᳓धा बृह᳓न्तम् ।  

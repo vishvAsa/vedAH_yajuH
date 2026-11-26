@@ -753,15 +753,14 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/06_aiShTikayAjamAnamantrAH/23_avAhambAdha_upabhRtA_sapatnAn.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 अ᳓वाह᳓म्बाध उपभृ᳓ता सप᳓त्नान् ।  
 जाता᳓न्भ्रा᳓तृव्यान्ये᳓ च जनिष्य᳓माणाः ।  
 दो᳓है यज्ञँ᳓ सुदु᳓घामिव धेनु᳓म् ।  
 अह᳓मु᳓त्तरो भूयासम् ।  
 अ᳓धरे म᳓त्सप᳓त्नाः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/06_aiShTikayAjamAnamantrAH/23_avAhambAdha_upabhRtA_sapatnAn.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -821,7 +820,9 @@ I milk the sacrifice like an easily milked cow.
 May I become the highest; may my rivals be beneath!
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1441,7 +1442,9 @@ May the All-gods rejoice herein.
   -   टीका7अग्निहोत्रमन्त्रावुपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ हे अग्ने तव ज्योतिः कीदृशं मननीयम् । यद्वा - मनश्शेषमुद्वासितेन पीडितं यन्मननीयमेवासीत् नान्यत्वे[त्र]विद्यते तदिदमाज्यं जुषतां सेवतां अनेन कर्मणा पूर्ववत्समृद्धमस्तु । यद्वा - मनस्सदा मननीयं मनोहरं अग्न्याख्यं ज्योतिः उद्वासनापराधं चेतस्यकृत्वा जुषतामाज्यमिति । ततो विच्छिन्नमुद्वासने तव यज्ञमिमं सन्दधातु । बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2272,7 +2275,9 @@ Aufgehend heute, o Freunderfreuer, aufsteigend zum höchsten Himmel, o Sonnengot
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्याचा उदय झाल्यानंतर अंधःकार व चोर यांचे निवारण होते तसे उत्तम उत्तम वैद्याच्या प्राप्तीने कुपथ्य व रोगांचे निवारण होते. ॥ ११ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शु᳓केषु मे हरिमा᳓णम् ।  
 रोपणा᳓कासु दध्मसि ॥76॥  
@@ -2553,7 +2558,9 @@ Auf die Papageien und die Drosseln legen wir meine Gelbsucht, auf die gelbfüssi
 भावार्थभाषाः -  माणसांनी लेप इत्यादी क्रियांनी रोगांचे निवारण करून बल प्राप्त करावे. ॥ १२ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उ᳓दगादय᳓मादित्यः᳓ ।  
 वि᳓श्वेन स᳓हसा सह᳓ ।  
@@ -2860,7 +2867,9 @@ Dieser Aditja ist aufgegangen mit aller seiner überwältigenden Macht, den Hass
 भावार्थभाषाः -  माणसांनी अनंत बलयुक्त परमेश्वराचे बल निमित्त असलेले प्राण व विद्युत यांचा दृष्टांत जाणून त्याप्रमाणे वागावे व सत्पुरुषाबरोबर मैत्री करून सर्व प्रजेचे यथायोग्य पालन करावे. ॥ १३ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ नश्श᳓पाद᳓शपतः ।  
 य᳓श्च नश्श᳓पतश्श᳓पात् ।  

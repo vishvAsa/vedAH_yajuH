@@ -52,10 +52,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
 </details>
 </div>
 

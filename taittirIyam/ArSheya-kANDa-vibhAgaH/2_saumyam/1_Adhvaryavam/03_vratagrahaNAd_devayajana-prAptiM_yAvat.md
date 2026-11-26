@@ -349,7 +349,8 @@ ________
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/011/01_tvamagne_vratapA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -629,6 +630,7 @@ Du Agni bist des Opfers Hort, ein Gott du unter Sterblichen, Und bei den Opfern 
 <details><summary>आर्यमुनि  (सं)- पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (अग्ने) हे परमात्मन् ! (देवः, त्वम्) द्योतमानस्त्वम् (मर्त्येषु, आ) सर्वमर्त्येषु (व्रतपाः, असि) कर्मरक्षकोऽसि अतः (त्वम्, आ) त्वं समन्तात् आदौ (यज्ञेषु, ईड्यः) यज्ञेषु स्तुत्यो भवसि ॥१॥
+</details>
 </details>
 </div>
 

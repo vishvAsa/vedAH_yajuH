@@ -10,20 +10,13 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/02_lekas_salekas.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ले᳓कस् स᳓लेकस् सुले᳓कस् ते᳓ +++(आदित्याः)+++  
 न आदित्या᳓ आ᳓ज्यञ् **जुषाणा᳓ वियन्तु**+++(=पिबन्तु)+++ ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/02_lekas_salekas.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
@@ -47,22 +40,13 @@ Leka, Salekha, Sulekha, may these Adityas rejoicing partake of our oblation;
 </details>
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/03_ketas_saketas.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 के᳓तस् स᳓केतस् सुके᳓तस् ते᳓  
 न आदित्या᳓ आ᳓ज्यञ् **जुषाणा᳓ वियन्तु**+++(=पिबन्तु)+++।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/03_ketas_saketas.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
@@ -84,22 +68,13 @@ Keta, Saketa, Suketa, may these Adityas rejoicing partake of our oblation;
 </details>
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/04_vivasvAM_aditir.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वि᳓वस्वाँ अ᳓दितिर् दे᳓वजूतिस् ते᳓  
 न आदित्या᳓ आ᳓ज्यञ् जुषाणा᳓ **वियन्तु**+++(=पिबन्तु)+++ ॥ [12]
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/05_tRtIyam_AdhAnam/04_vivasvAM_aditir.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
@@ -120,5 +95,3 @@ Vivasvan, Aditi, Devajuti, may these Adityas rejoicing partake of our oblation.
 विवस्वान् दीप्तिमान् धनवान्वा । अदितिः अखण्डनीयः केनापि । देवजूतिः देवानामपि गतिः, देवैर्वा गन्तव्यः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । इदं तृतीयाधेयमग्न्याधेयमुपश्रयतीत्येके । पुनराधेयमित्यन्ये ॥
 </details>
 </details>
-
-</div>

@@ -11,10 +11,10 @@ title = "०८ ऐन्द्र-ऋचः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 <details open><summary><h4>01 महां इन्द्रो ...{Loading}...</h4></summary>
 
-म॒हाँ इन्द्रो॒ वज्र॑बाहुष्  
-षोड॒शी **शर्म॑ यच्छतु** ।  
-**स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
-**हन्तु॑** पा॒प्मानय्ँ॒ यो॑ऽस्मान् द्वेष्टि॑ ॥
+महाँ᳓ इ᳓न्द्रो व᳓ज्रबाहुष्  
+षोडशी᳓ **श᳓र्म यच्छतु** ।  
+**स्वस्ति᳓** नो मघ᳓वा **करोतु**  
+**ह᳓न्तु** पाप्मा᳓नय्ँ यो᳙ऽस्मा᳓न् द्वे᳓ष्टि ॥
 </details>
 </div>
 
@@ -35,9 +35,9 @@ title = "०८ ऐन्द्र-ऋचः"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/06_trAtAram_indram.md">
 <details open><summary><h4>06 त्रातारम् इन्द्रम् ...{Loading}...</h4></summary>
 
-त्रा॒तार॒म् इन्द्र॑म् अवि॒तार॒म् इन्द्रँ॒  
-हवे॑हवे सु॒हवँ॒ शूर॒म् इन्द्र॑म् ।   
-**हु॒वे** नु श॒क्रम् पु॑रुहू॒तम् इन्द्रँ॑  
-स्व॒स्ति नो॑ म॒घवा॑ **धा॒त्व्** इन्द्रः॑  ॥
+त्राता᳓रम् इ᳓न्द्रम् अविता᳓रम् इ᳓न्द्रँ  
+ह᳓वेहवे सुह᳓वँ शू᳓रम् इ᳓न्द्रम् ।   
+**हुवे᳓** नु᳓ शक्र᳓म् पुरुहूत᳓म् इ᳓न्द्रँ  
+स्वस्ति᳓ नो मघ᳓वा **धात्व्** इ᳓न्द्रः  ॥
 </details>
 </div>

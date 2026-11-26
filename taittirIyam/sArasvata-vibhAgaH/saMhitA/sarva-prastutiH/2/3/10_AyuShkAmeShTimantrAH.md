@@ -440,12 +440,11 @@ hail!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/3/10_AyuShkAmeShTimantrAH/16_ghRtasya_dhArAmamRtasya_panthAmindreNa.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 घृत᳓स्य धा᳓राममृ᳓तस्य प᳓न्थामि᳓न्द्रेण दत्ता᳓म्प्र᳓यताम्मरु᳓द्भिः ।  
 त᳓त्त्वा वि᳓ष्णुᳶ प᳓र्यपश्यत्त᳓त्त्वे᳓डा ग᳓व्यै᳓रयत् ॥
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/3/10_AyuShkAmeShTimantrAH/16_ghRtasya_dhArAmamRtasya_panthAmindreNa.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -509,7 +508,9 @@ that Viṣṇu perceived for you; that cow-like Iḍā brought forth for you.
 - **[153_3]** Brl ग᳓व्यै᳓रयत्; desgl. Ch und W 1, ohne Accent; T 6 गव्यैरयत; D गव्यैरयम् (Brl ग᳓व्यै᳓रयत्; likewise Ch and W 1, without accent; T 6 गव्यैरयत; D गव्यैरयम्)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -655,7 +656,8 @@ let the god Savitr set thee free with the measure of Agni, with the path of the 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Whitney</summary>
 
 ###### Translation
@@ -769,6 +771,7 @@ O ye All-gods, that he may win old age.
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अग्नि-वरुण-सोमादिति-विश्वेभ्यः देवेभ्यः इदन्न मम ।
+</details>
 </details>
 </div>
 

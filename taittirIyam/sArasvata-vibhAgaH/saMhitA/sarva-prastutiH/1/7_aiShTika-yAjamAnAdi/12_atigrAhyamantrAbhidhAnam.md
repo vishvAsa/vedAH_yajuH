@@ -360,23 +360,16 @@ this is thy birthplace; to Indra thee!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ये᳓ ग्र᳓हाः पञ्चजनी᳓ना  
 ये᳓षान् तिस्रᳶ᳓ परमजाः᳓ ।  
 दै᳓व्यᳵ को᳓शः [45] स᳓मुब्जितः+++(=अधोमुखः)+++ ।  
 ते᳓षाव्ँ वि᳓शि-प्रियाणाम्  
 इ᳓षम् ऊ᳓र्जँ **स᳓मग्रभीम्**+++(←स्वरः??)+++ ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/02_ye_grahAH.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The cups of the five folk,  
@@ -407,8 +400,6 @@ The food and strength have I seized;
 तेषां तेभ्यः । तादर्थ्यचतुर्थ्याष्षष्ठी । विशिप्रियाणां विविधहनुपर्यन्तानां इषमन्नमूर्जं रसं च समग्रभीं सङ्गृह्णामि । उपयामगृहीतोसीति गृह्णाति । छान्दसे लुङि 'अमो मश्' 'हृग्रहोर्भः' ॥
 </details>
 </details>
-
-</div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/eSha_te_yonir_indrAya.md">
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -464,18 +455,13 @@ this is thy birthplace; to Indra thee!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अपाँ᳓ र᳓सम्, उ᳓द्-वयसँ+++(=उज्जीवनम्)+++,  
 सू᳓र्य-रश्मिँ समा᳓भृतम् ।  
 अपाँ᳓ र᳓सस्य यो᳓ र᳓सस्  
 तव्ँ᳓ वो **गृह्णाम्य्** उत्तम᳓म् ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/03_apAM_rasam.md">
 
@@ -604,18 +590,13 @@ this is thy birthplace; to Indra thee!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/12_atigrAhyamantrAbhidhAnam/04_ayA_viShThA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अया᳓+++(=अनया)+++ वि-ष्ठा᳓ जन᳓यन् क᳓र्वराणि+++(=कर्माणि)+++  
 स᳓ हि᳓ घृ᳓णिर्+++(←घृ सेके छादने वा)+++ उरु᳓र् व᳓राय गातुः᳓+++(=मार्गः)+++ ।  
 स᳓ **प्र᳓त्य्-उ᳓दैद्** धरु᳓णो म᳓ध्वो अ᳓ग्रँ  
 स्वा᳓याय्ँ य᳓त् तनु᳓वान् +++(काम् अपि)+++ तनू᳓म् **ऐ᳓रयत** ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/01_ayA_viShThA.md">
 

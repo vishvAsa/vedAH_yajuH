@@ -325,27 +325,43 @@ with thee taken by Prajapati, I take breath for offspring.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अय᳓न्दक्षिणा᳓ विश्व᳓कर्मा +++(असि)+++ ।  
 त᳓स्य म᳓नो वैश्वकर्मण᳓म् +++( असि)+++ ।  
 ग्रीष्मो᳓ मानसः᳓ +++( असि)+++ ।  
-त्रिष्टु᳓ग्ग्रैष्मी᳓ +++( असि)+++ ।  
+त्रिष्टु᳓ग्ग्रैष्मी᳓ +++( असि)+++ ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/3/02_prathamachitau_prANabhRdiShTakopadhAnam/11_ayandaxiNA_vishvakarmA_tasya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 This one on the right, the all-worker; his, the all-worker's, mind; summer born of mind; the Tristubh born of summer;
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+This one on the south is Viśvakarman;  
+his mind is derived from Viśvakarman;  
+summer is derived from mind;  
+the Triṣṭubh is connected with summer;
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒यन्द॑क्षि॒णा वि॒श्वक॑र्मा +++(असि)+++ ।  
 तस्य॒ मनो॑ वैश्वकर्म॒णम् +++( असि)+++ ।  
 ग्री॒ष्मो मा॑न॒सः +++( असि)+++ ।  
-त्रि॒ष्टुग्ग्रै॒ष्मी +++( असि)+++ ।  
+त्रि॒ष्टुग्ग्रै॒ष्मी +++( असि)+++ ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अयं᳓ दक्षिणा᳓ विश्व᳓कर्मा  
+त᳓स्य म᳓नो वैश्वकर्मण᳓म्  
+ग्रीष्मो᳓ मानस᳓स्  
+त्रिष्टु᳓ब् ग्रैष्मी᳓
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -353,13 +369,28 @@ This one on the right, the all-worker; his, the all-worker's, mind; summer born 
 अ॒यम् । द॒क्षि॒णा । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । तस्य॑ । मनः॑ । वै॒श्व॒क॒र्म॒णमिति॑ वैश्व-क॒र्म॒णम् । ग्री॒ष्मः । मा॒न॒सः । त्रि॒ष्टुक् । ग्रै॒ष्मी ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अय᳓म् (*TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-74/313, *VS-K*-65/289, *KS*-45/319)
+- दक्षिणा᳓ (*TS*-20/21, *RV*-2/3, *TB*-10, *TK*-2, *AV*-4, *SB-M*-45/70, *SB-K*-47/70, *VS-M*-2/5, *VS-K*-1/4, *KS*-6/8)
+- विश्व᳓-कर्मा (*TS*-25/33, *RV*-3/5, *TB*-5/6, *AV*-7/12, *SB-M*-37/53, *SB-K*-34/45, *VS-M*-14/27, *VS-K*-10/20, *KS*-14/15)
+- त᳓स्य (*TS*-178/4763, *RV*-88/3136, *TB*-84/2709, *TK*-21/363, *AV*-124/3165, *SB-M*-739/20457, *SB-K*-728/20018, *VS-M*-30/768, *VS-K*-27/624, *KS*-67/1225)
+- म᳓नः (*TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78, *KS*-28/50)
+- वैश्व-कर्मण᳓म् (*TS*-2/8, *TB*-1/3, *SB-M*-3/19, *SB-K*-3/18, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/1)
+- ग्रीष्मः᳓ (*TS*-4/13, *RV*-1, *TB*-2/5, *TK*-3, *AV*-4/5, *SB-M*-24/38, *SB-K*-23/38, *VS-M*-3/6, *VS-K*-3/6, *KS*-3/6)
+- मानसः᳓ (*TS*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1/2)
+- त्रि-ष्टु᳓प् (*TS*-17/19, *TB*-7, *SB-M*-74/81, *SB-K*-76/80, *VS-M*-6, *VS-K*-3/5, *KS*-8)
+- ग्रैष्मी᳓ (*TS*-1, *VS-K*-1, *KS*-1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 विश्वानि कर्माणि जगद्व्यापाररूपाणि यस्यासौ विश्वकर्मा प्रजापतिः।  
 दक्षिणा दक्षिणस्यां दिशि योऽयं विश्वकर्मा हे इष्टके तद्रूपात्वमसि।  
-प्राणवसन्तादिपरम्परेव मनोग्निष्मादिपरम्परा व्याख्येया।   
+प्राणवसन्तादिपरम्परेव मनोग्निष्मादिपरम्परा व्याख्येया।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -409,25 +440,39 @@ from the Tristubh the Aida (Saman); from the Aida the Antaryama (cup); from the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अय᳓म्पश्चा᳓द्विश्व᳓व्यचाः  +++( असि)+++ ।   
 त᳓स्य च᳓क्षुर्वैश्वव्यचस᳓म् +++( असि)+++ ।     
-व्वर्षा᳓णि चाक्षुषा᳓णि᳓ +++( असि)+++ ।   
+व्वर्षा᳓णि चाक्षुषा᳓णि᳓ +++( असि)+++ ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/3/02_prathamachitau_prANabhRdiShTakopadhAnam/13_ayampashchAdvishvavyachAH_tasya.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 This one behind, the all-extending; his, the all-extending's, eye; the rains born of the eye;
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+I take mind for creatures.  
+This in the west is Viśvavyacas [all-embracing];  
+his eye is derived from Viśvavyacas;  
+the rains are derived from the eye;
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒यम्प॒श्चाद्वि॒श्वव्य॑चाः  +++( असि)+++ ।   
 तस्य॒ चक्षु॑र्वैश्वव्यच॒सम् +++( असि)+++ ।     
-व्व॒र्षाणि॑ चाक्षु॒षाणि +++( असि)+++ ।   
+व्व॒र्षाणि॑ चाक्षु॒षाणि +++( असि)+++ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अयं᳓ पश्चा᳓द्विश्व᳓व्यचास्त᳓स्य च᳓क्षुर्वैश्वव्यचसम्᳓  
+वर्षा᳓णि चाक्षुषा᳓णि
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -435,11 +480,24 @@ This one behind, the all-extending; his, the all-extending's, eye; the rains bor
 अ॒यम् । प॒श्चात् । वि॒श्वव्य॑चा॒ इति॑ वि॒श्व-व्य॒चाः॒ । तस्य॑ । चक्षुः॑ । वै॒श्व॒व्य॒च॒समिति॑ वैश्व-व्य॒च॒सम् । व॒र्षाणि॑ । चा॒क्षु॒षाणि॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- पश्चा᳓त् (*MS*-41, *TS*-56/66, *RV*-18, *TB*-28, *TK*-3, *AV*-33, *SB-M*-159, *SB-K*-155, *VS-M*-6, *VS-K*-5/11)
+- विश्व᳓-व्यचाः (*MS*-4, *TS*-6/7, *TB*-4, *AV*-3, *SB-M*-6, *SB-K*-6, *VS-M*-4, *VS-K*-4/6)
+- त᳓स्य (*MS*-226/5550, *TS*-178/4761, *RV*-88/3136, *TB*-84/2709, *TK*-21/363, *AV*-124/3165, *SB-M*-739/20457, *SB-K*-728/20018, *VS-M*-30/780, *VS-K*-28/660)
+- च᳓क्षुः (*MS*-77/124, *TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56)
+- वैश्व-व्यचसम् → **वैश्व-व्यचस᳓म्** (स्वर-लोपः, *MS*-1, *TS*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वर्षा᳓णि (*MS*-1/13, *TS*-1/17, *RV*-0/2, *TB*-0/3, *TK*-0/3, *AV*-2/27, *SB-M*-11/75, *SB-K*-11/68, *VS-M*-0/6, *VS-K*-0/9)
+- चाक्षुषा᳓णि (*MS*-1, *TS*-1, *SB-M*-0/1, *SB-K*-0/1)
+</details>
+
 <details><summary>सायण-टीका</summary>
 
 विश्वं सर्वं जगद्व्यचति व्याप्नोतीति विश्वव्यचाः प्रजापतिः। शेषं पूर्ववद्योजनीयम्।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

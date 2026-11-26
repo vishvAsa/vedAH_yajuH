@@ -39,99 +39,77 @@ title = "०२ ब्रह्मचर्यम्"
 
 **पावमान्यः**
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-
-प᳓वमानस् सु᳓वर्-ज᳓नः ।  
-पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
-यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
-
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+पव॑मान॒स् सुव॒र्-जनः॑ ।  
+प॒वित्रे॑ण॒ +++(नाना-विषयेषु)+++ विच॑र्षणिः ।  
+यᳶ पोता॒ स **पु॑नातु** मा ।
+</div>
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+**पु॒नन्तु॑** मा **देवज॒नाः** ।  
+पु॒नन्तु॒ **मन॑वो** धि॒या ।  
+पु॒नन्तु॒ **विश्व॑ आ॒यवः॑**+++(=मनुष्याः)+++ ।
+</div>
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+जात॑वेदᳶ प॒वित्र॑वत् ।  
+प॒वित्रे॑ण **पुनाहि**+++(=पुनीहि)+++ मा ।  
+शु॒क्रेण॑ देव॒ **दीद्य॑त्** ।  
+**अग्ने॒** क्रत्वा॒+++(=प्रज्ञया)+++ क्रतूँ॒र् अनु॑ ॥46॥
+</div>
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
+यत् ते॑ **प॒वित्र॑म् अ॒र्चिषि॑** ।  
+अग्ने॒ वित॑तम् अन्त॒रा ।  
+ब्रह्म॒ तेन॑ **पुनीमहे** ।
+</div>
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+उ॒भाभ्या॑न् देव **सवितः** ।  
+प॒वित्रे॑ण स॒वेन॑ च ।  
+इ॒दम् ब्रह्म॑ **पुनीमहे** ।+++(5)+++
+</div>
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
+वै॒श्व॒दे॒वी **पु॑न॒ती** दे॒व्य् **आगा॑त्**+++(=आगच्छतु)+++ ।  
+यस्यै॑ ब॒ह्वीस् त॒नुवो॑ वी॒त-पृ॑ष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
+तया॒ **मद॑न्तस्** सध॒-माद्ये॑षु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
+व॒यँ **स्या॑म॒** पत॑यो रयी॒णाम् ॥47॥
 </div>
 
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
-
-**पुन᳓न्तु** मा **देवजनाः᳓** ।  
-पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
-पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
-
-</div>
-
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
-
-जा᳓तवेदᳶ पवि᳓त्रवत् ।  
-पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
-शुक्रे᳓ण देव **दी᳓द्यत्** ।  
-**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
-
-</div>
-
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
-
-य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
-अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
-ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
-
-</div>
-
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
-
-उभा᳓भ्यान् देव **सवितः** ।  
-पवि᳓त्रेण सवे᳓न च ।  
-इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
-
-</div>
-
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
-
-वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
-य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
-त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
-
-</div>
-
-<div class="js_include" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
-
-**वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
-**वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
-**द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
-ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
-
+<div class="js_include" newlevelforh1="6" unfilled="" includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+**वै॒श्वा॒न॒रो** र॒श्मिभि॑र् मा **पुनातु** ।   
+**वात॑ᳶ** प्रा॒णेने॑षि॒रो+++(←इष गतौ)+++ म॑यो॒भूः ।  
+**द्यावा॑पृथि॒वी** पय॑सा॒ पयो॑भिः +++(इति क्रमशः)+++ ।   
+ऋ॒ताव॑री+++(=ऋतवत्यौ)+++ य॒ज्ञिये॑ मा **पुनीताम्** ।
 </div>
 
 **यदन्ति**
 
-<div class="js_include" newlevelforh1="3" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/21_yadanti_yachcha.md">
-
+<div class="js_include" newlevelforh1="6" unfilled includetitle="false" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/067/21_yadanti_yachcha.md">
 य᳓द् अ᳓न्ति य᳓च् च दूरके᳓  
 भयं᳓ विन्द᳓ति मा᳓म् इह᳓  
 प᳓वमान वि᳓ त᳓ज् जहि
-
 </div>
 
 **यजुष्-पवित्रम्**  
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
-
-आ᳓पो अस्मा᳓न् मात᳓रश् शुन्धन्तु।+++(र४)+++  
-घृते᳓न नो घृत-पु᳓वᳶ+++(→घृतपावकाः)+++ पुनन्तु ।  
-वि᳓श्वम् अस्म᳓त् प्र᳓ वहन्तु रिप्र᳓म्+++(=पापम्)+++ +++(र५)+++  
-उ᳓द् +++(अद्भ्य)+++ आभ्यश् शु᳓चिर् आ᳓ पूत᳓ एमि ।+++(र५)+++
-
-</details>
+<div class="js_include" newlevelforh1="6" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/01_agniShTome_yajamAnasya_xaurAdisaMskArAH/02_Apo_asmAn_full.md">
+आपो॑ अ॒स्मान् मा॒तर॑श् शुन्धन्तु।+++(र४)+++  
+घृ॒तेन॑ नो घृत॒-पुवᳶ॑+++(→घृतपावकाः)+++ पुनन्तु ।  
+विश्व॑म् अ॒स्मत् प्र व॑हन्तु रि॒प्रम्+++(=पापम्)+++ +++(र५)+++  
+उद् +++(अद्भ्य)+++ आ॑भ्य॒श् शुचि॒र् आ पू॒त ए॑मि ।+++(र५)+++
 </div>
+
 
 **साम-पवित्रम्**
 
-<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled="" url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
+<div class="js_include" includetitle="false" newlevelforh1="b[]" unfilled url="/vedAH_sAma/tANDyam/paravastu-sAma/devaH/indraH/vAmadevyam/">
+<details open><summary><h1>वामदेव्यम् ...{Loading}...</h1></summary>
 
-**ऋक्**
+ऋक्
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-1_0682_kayA_nashchitra.md">
+<details open><summary><h4>12-1_0682 कया नश्चित्र ...{Loading}...</h4></summary>
 
 क꣡या꣢ नश्चि꣣त्र꣡ आ भुव꣢꣯दू꣣ती꣢ स꣣दा꣢वृ꣣धः꣢ स꣡खा꣢। क꣢या꣣ श꣡चि꣢ष्ठया वृ꣣ता꣢ ॥ 12-1:0682 ॥
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
-<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+<div class="js_include" newlevelforh1="6" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/01_kayA_nashchitra.md">
+<details open><summary><h6>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h6></summary>
 
 क᳓या नश् चित्र᳓ +++(→इन्द्रः)+++ **आ᳓ भुवद्**  
 **ऊती᳓** +++(=रक्षणम्/ तर्पणम् [तेन])+++, सदा᳓-वृधः +++(=वर्धमानः)+++ स᳓खा ।  
@@ -139,14 +117,15 @@ title = "०२ ब्रह्मचर्यम्"
 
 </details>
 </div>
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-2_0683_kastvA_satyo.md">
+<details open><summary><h3>12-2_0683 कस्त्वा सत्यो ...{Loading}...</h3></summary>
 
 क꣡स्त्वा꣢ स꣣त्यो꣡ मदा꣢꣯नां꣣ म꣡ꣳहि꣢ष्ठो मत्स꣣द꣡न्ध꣢सः। दृ꣣ढा꣡ चि꣢दा꣣रु꣢जे꣣ व꣡सु꣢ ॥ 12-2:0683 ॥
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
-<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+<div class="js_include" newlevelforh1="6" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/02_kastvA_satyo.md">
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 क᳓स् त्वा सत्यो᳓ म᳓दानां  
 मं᳓हिष्ठो +++(=पूज्यः)+++ **मत्सद्** +++(=मादयेद्)+++ अ᳓न्धसः+++(= भोज्यः (→[सोमः])+++) ।  
@@ -154,14 +133,15 @@ title = "०२ ब्रह्मचर्यम्"
 
 </details>
 </div>
+</details>
 </div>
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_sAma/kauthumam/saMhitA/vishvAsa-prastutiH/4_uttarArchikaH/1/1/12-3_0684_abhI_Shu.md">
+<details open><summary><h3>12-3_0684 अभी षु ...{Loading}...</h3></summary>
 
 अ꣣भी꣢꣫ षु णः꣣ स꣡खी꣢नामवि꣣ता꣡ ज꣢रितृ꣣णा꣢म्। श꣣तं꣡ भ꣢वास्यू꣣त꣡ये꣢ ॥ 12-3:0684 ॥॥12(टा)॥
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
-<details open><summary>विश्वास-शाकल-प्रस्तुतिः …{Loading}…</summary>
+<div class="js_include" newlevelforh1="6" title="विश्वास-शाकल-प्रस्तुतिः" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/031/03_abhI_Shu.md">
+<details open><summary><h5>विश्वास-शाकल-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 अभी᳓ षु᳓ णः स᳓खीनाम्  
 **अविता᳓** जरितॄणा᳓म् +++(=स्तोतॄणाम्)+++।  
@@ -170,19 +150,19 @@ title = "०२ ब्रह्मचर्यम्"
 
 </details>
 </div>
+</details>
 </div>  
 
 **साम - वामदेव्यम्।**
 
+- पारम्परिक-गान-मूलम् [अत्र](https://sanskritdocuments.org/sites/pssramanujaswamy/VIVAAHA%20UPANAYANA%20SAAMAANI.pdf&sa=D&ust=1542425956221000)।
+
 <div caption="रामानुजार्यः 1974 " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-rAmAnuja/vAmadevyam.mp3"></div>
-
 <div caption="गोपालार्यः 2015  " class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-gopAla-2015/vAmadevyam.mp3"></div>
-
 <div caption="गोपालपवनयोर् अनुवचनम् 2015 1x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015/vAmadevyam.mp3"></div>
-
 <div caption="गोपालपवनयोर् अनुवचनम् 2015 1.5x" class="audioEmbed" src="https://archive
 .org/download/jaiminIya-sAma-gAna-paravastu-tradition-anuvachanam-gopAla-pavana-2015-150p-speed/vAmadevyam.mp3"></div>
 
@@ -208,18 +188,19 @@ title = "०२ ब्रह्मचर्यम्"
 श+++([तः])+++ता+++(--%३)+++अम् भव,,सि+++([टी])+++ यौ+++(["])+++ हो।  
 ओ हिं+++([ता])+++म्मा+++([प्रे])+++अ।
 [ऊ]+++(v)+++ता+++([फ]"३)+++आयो, ओ+++(")+++हाइ ।।
-
+</details>
 </div>
 
 **आङ्गीरसम्**
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/10_2/01_haMsash_shuchiShad.md">
+<details open><summary><h5>01 हंसश् शुचिषद् ...{Loading}...</h5></summary>
 
-+++(अहं)+++ हँस᳓श् शुचि-ष᳓द्, व᳓सुर् अन्तरिक्ष-स᳓द्,  
-+हो᳓ता वेदि-ष᳓द्, अ᳓तिथिर् दुरोण-स᳓त् ।  
-नृ-ष᳓द्, वर-स᳓द्, ऋत-स᳓द् व्योम-स᳓द्,  
-अब्-जा᳓, गो-जा᳓, ऋत-जा᳓, अद्रि-जा᳓, ऋतं᳓ बृह᳓त् ॥
-
++++(अहं)+++ हँ॒सश् शु॑चि॒-षद्, वसु॑र् अन्तरिक्ष॒-सद्,  
++होता॑ वेदि॒-षद्, अति॑थिर् दुरोण॒-सत् ।  
+नृ॒-षद्, व॑र॒-सद्, ऋ॑त॒-सद् व्यो॑म॒-सद्,  
+अ॒ब्-जा, गो॒-जा, ऋ॑त॒-जा, अ॑द्रि॒-जा, ऋ॒तं बृ॒हत् ॥
+</details>
 </div>
 </details>
 
@@ -231,6 +212,7 @@ title = "०२ ब्रह्मचर्यम्"
 <details><summary>Bühler</summary>
 
 2. (They should bathe daily reciting) the seven [1]  Pāvamānīs, beginning with 'If near or far,' the Yajuṣpavitra, ('May the waters, the mothers purify us,' &c.) the Sāmapavitra, ('With what help assists,' &c.), and the Āṅgirasapavitra ('A swan, dwelling in purity'),
+
 
 [1]:  2. The seven Pāvamānīs are seven verses which occur Rig veda IX, 67, 21-27. Yajuṣpavitra = Taitt. Saṃh. I, 2, 1, 1. The Sāmapavitra is found Sāma-veda I, 2, 2, 3, 5. Āṅgirasapavitra = Ṛj-veda IV, 40, 5.
 </details>
@@ -256,6 +238,7 @@ title = "०२ ब्रह्मचर्यम्"
     उभाभ्यां देव सवितः पवित्रेण सवेन च । मा पुनीहि विश्वतः॥ ५॥  
     त्रिभिष्ट्वं देव सवितर्वर्षिष्ठः सोम धामभिः । अग्ने दक्षैः पुनीहि नः ॥६॥  
     पुनन्तु मां देवजनाः पुनन्तु वसवी धिया। विश्वे देवाः पुनीतन मा जातवेदः पुनीहि मा ॥७॥ (ऋ०सं० ७.२, १७, १८.) इति सप्त पावमान्यः ॥  
+
 
 यजुष्यवित्रेण[३] 'आपो अस्मान्मातरः शुन्धन्त्वि'त्यनेन, सामपवित्रेण 'कया नश्चित्र आभुवदि'त्यादिगीतेन वामदेव्येन साम्ना, आङ्गिरसेन[१] 'हंसाशुचिषदि'त्यनेन एतैरञ्जलिना शिरस्यपोऽवसिञ्चेत् ॥ २ ॥  
 
@@ -381,6 +364,7 @@ title = "०२ ब्रह्मचर्यम्"
 **टीका**  
 गतम् । पावमान्यादिभिरित्यनेनैव प्रतिपूरुषं सङ्ख्याय सम्बत्सरानित्येतदपि द्रष्टव्यम् ॥ ६ ॥  
 
+
 [३]:
 
     ततस्संवत्सरमुदकोपस्पर्शनम् इति ग. पु. ।
@@ -492,6 +476,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 10. Afterwards (everything is performed) as in the case of a regular initiation. [2]  
 
+
 [2]:  The commentator observes that for those whose great-great-grandfather or remoter ancestors were not initiated, no penance is prescribed, and that it must be fixed by those who know the law.
 </details>
 
@@ -539,6 +524,7 @@ title = "०२ ब्रह्मचर्यम्"
 
 He who has been initiated shall dwell as a religious student in the house of his teacher, [3]
 
+
 [3]:  Manu II, 164.
 </details>
 </details>
@@ -560,6 +546,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 12. For forty-eight years (if he learns all the four Vedas), [4] 
+
 
 [4]:  Manu III, 1, and Yājñ. I, 36; Weber, Ind. Stud. X, 125.
 </details>
@@ -692,6 +679,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 16. Twelve years (should be) the shortest time (for his residence with his teacher). [5] 
 
+
 [5]:  The commentator declares that in Manu III, 1, the expression until he has learnt it,' must be understood in this sense, that the pupil may leave his teacher, if he has learnt the Veda, after twelve years' study, never before. But compare also Āśv. Gṛ. Sū. I, 22, 3.
 </details>
 
@@ -735,6 +723,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 17. A student who studies the sacred science shall not dwell with anybody else (than his teacher). [6] 
+
 
 [6]:  The commentator states that this rule refers only to a temporary, not to a professed student (naiṣṭhika). He also gives an entirely different explanation to the Sūtra, which, according to some, means, 'A student who learns the sacred science shall not fast in order to obtain heaven.' This rendering also is admissible, as the word para may mean either a 'stranger' or 'heaven' and upavāsa, 'dwelling' or 'fasting.'
 </details>
@@ -802,6 +791,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 19. He shall obey his teacher, except (when ordered to commit) crimes which cause loss of caste. [7] 
 
+
 [7]:  Regarding the crimes which cause loss of caste (patanīya), see below, I, 7, 21, 7.
 </details>
 
@@ -837,6 +827,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 20. He shall do what is serviceable to his teacher, he shall not contradict him. [8] 
 
+
 [8]:  Manu II, 108, and Yājñ. I, 27.
 </details>
 
@@ -869,6 +860,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 21. He shall always occupy a couch or seat lower (than that of his teacher). [9] 
+
 
 [9]:  Manu II, 108, 198; Weber, Ind. Stud. X, 123 and 124.
 </details>
@@ -931,6 +923,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 23. Nor pungent condiments, salt, honey, or meat. [10] 
+
 
 [10]:  Regarding the meaning of kṣāra, 'pungent condiments,' see Haradatta on II, 6, 15, 15. Other commentators explain the term differently.--Manu II, 177; Yājñ. I, 33; and Weber, Ind. Stud. X, 123. Āśv. Gṛ. Sū. I, 22, 2.
 </details>
@@ -996,6 +989,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 25. He shall not use perfumes. [11] 
 
+
 [11]:  Manu II, 177; Yājñ. I, 33.
 </details>
 
@@ -1026,6 +1020,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 26. He shall preserve chastity. [12] 
+
 
 [12]:  Manu II, 180.
 </details>
@@ -1062,6 +1057,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 27. He shall not embellish himself (by using ointments and the like). [13] 
+
 
 [13]:  Manu II, 178; Yājñ. I, 33.
 </details>
@@ -1129,6 +1125,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 29. But, if it is soiled by unclean things, he shall clean it (with earth or water), in a place where he is not seen by a Guru. [14] 
 
+
 [14]:  'Here, in the section on the teacher, the word guru designates the father and the rest also.'--Haradatta.
 </details>
 
@@ -1168,6 +1165,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 30. Let him not sport in the water whilst bathing; let him swim (motionless) like a stick. [15] 
 
+
 [15]:  Another version of the first portion of this Sūtra, proposed by Haradatta, is, 'Let him not, whilst bathing, clean himself (with bathing powder or the like).' Another commentator takes Sūtra 28 as a prohibition of the daily bath or washing generally ordained for Brāhmaṇas, and refers Sūtra 29. to the naimittika snāna or 'bathing on certain occasions,' and takes Sūtra 30 as a restriction of the latter.
 </details>
 
@@ -1204,6 +1202,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 31. He shall wear all his hair tied in one braid. [16] 
+
 
 [16]:  Manu II, 2 19.
 </details>
@@ -1264,6 +1263,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 33. The girdle of a Brāhmaṇa shall be made of Muñja grass, and consist of three strings; if possible, (the strings) should be twisted to the right. [17] 
+
 
 [17]:  Manu II, 42-44; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 12; Weber, Ind. Stud. X, 23.
 </details>
@@ -1421,6 +1421,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 38. The staff worn by a Brāhmaṇa should be made of Palāśa wood, that of a Kṣatriya of a branch of the Banian tree, which grows downwards, that of a Vaiśya of Bādara or Udumbara wood. Some declare, without any reference to caste, that the staff of a student should be made of the wood of a tree (that is fit to be used at the sacrifice). [18] 
 
+
 [18]:  Manu II, 45; Yājñ. I, 29; Āśv. Gṛ. Sū. I, 19, 13; 20, 1; Weber, Ind. Stud. X, 23.
 </details>
 
@@ -1456,6 +1457,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 
 39. (He shall wear) a cloth (to cover his nakedness). [19] 
 
+
 [19]:  The word forms a Sūtra by itself, in order to show that every one must wear this cloth.
 </details>
 
@@ -1486,6 +1488,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 40. (It shall be made) of hemp for a Brāhmaṇa, of flax (for a Kṣatriya), of the skin of a (clean) animal (for a Vaiśya). [20] 
+
 
 [20]:  Manu II, 41. 'Clean' means here and everywhere else, if applied to animals or things,' fit to be used at the sacrifice.'
 </details>
@@ -1520,6 +1523,7 @@ He who has been initiated shall dwell as a religious student in the house of his
 <details><summary>Bühler</summary>
 
 41. Some declare that the (upper)+++(sic)+++ garment (of a Brāhmaṇa) should be dyed with red Lodh, [21] 
+
 
 [21]:  Āśv. Gṛ. Sū. I, 19, 11; Weber, Ind. Stud X, 22.
 </details>

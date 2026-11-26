@@ -261,7 +261,7 @@ Bring these songs to Rudra, whose bow is taut and whose arrow is swift,  to the 
 to the unvanquishable, vanquishing adept whose weapons are sharp. Let  him hear us.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -351,7 +351,9 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 भावार्थभाषाः -  जे दुष्टांचे शासक, शस्त्रास्त्रविद, सहनशील, युद्धकुशल, विद्वान आहेत त्यांना विद्वानांनी सदैव धनुर्वेदाचे अध्यापन व वक्तृत्व याद्वारे अत्यंत उत्साहित करावे. जो सेनापती असतो त्याने प्रजेची वाणी ऐकावी. ॥ १ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -816,7 +818,9 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 भावार्थभाषाः -  जे योग्यता प्राप्त करून आयुधे, सेना, राज्य व धन धारण करतात व धर्मात्मा लोकांवर दया करतात ते बलवान बनतात. ॥ १० ॥
 </details>
 </details>
-</div><div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -836,7 +840,8 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -910,6 +915,7 @@ do not, in anger, slay our heroes, O Rudra; bearing oblations, with reverence le
 - **[367_7]** T7 भामिथो; cf. RV 1, 114, 8.
 
 - **[367_8]** So T7; Ch विधोम; cf. RV 1, 114, 8. (Thus T7; Ch विधोम; cf. RV 1, 114, 8.)
+</details>
 </details>
 </div>
 
@@ -1298,7 +1304,9 @@ Es nahe deine Huld, o Marut-Vater, nicht halte fern uns von der Sonne Anblick; D
 भावार्थभाषाः -  सर्व माणसांनी परमेश्वराला न्यायकारी परमपिता मानून सुख वाढवावे. ईश्वराला मानून कधी त्याच्या विरुद्ध होता कामा नये. वीर व सहनशील बनून प्रजेबरोबर सुखी राहावे. ॥ १ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

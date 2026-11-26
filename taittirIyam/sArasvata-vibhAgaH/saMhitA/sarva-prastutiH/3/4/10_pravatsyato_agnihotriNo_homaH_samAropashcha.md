@@ -325,7 +325,7 @@ When we entreat you, favor us in return: become weal for our
 two-footed, weal for our four-footed.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -421,7 +421,9 @@ O Wohnungsherr, erkenn uns als die deinen, schaff guten Eingang uns, entfern die
 भावार्थभाषाः -  जी माणसे सगळीकडे दारे असलेली प्रशस्त घरे निर्माण करून तेथे निवास करतात ती रोगरहित बनून आपल्याला व इतरांना सुख देतात व ती सर्वांचे मंगल करणारी असतात. ॥ १ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वा᳓स्तोष्पते शग्म᳓या सँस᳓दा ते सक्षीम᳓हि रण्व᳓या गातुम᳓त्या ।   
 आ᳓वः क्षे᳓म उत᳓ यो᳓गे व᳓रन्नो यूय᳓म्पात स्वस्ति᳓भिस्स᳓दा नः ।
@@ -776,7 +778,9 @@ Lass Wohnungsherr uns deiner Huld Gemeinschaft, der starken, lieben, segnenden g
 भावार्थभाषाः -  जे लोक सज्जनांचा सत्कार करून त्यांचे रक्षण करतात ते त्यांचा योगक्षेम चालवून निरंतर त्यांचे पालन करतात. ॥ ३ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

@@ -354,16 +354,20 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/13_srug-vyUhanAdiH/vAjasya_mA.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 1स्रुचौ व्यूहति - वाजस्येत्यनुष्टुब्भ्यां चतुष्पदाभ्याम् ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्य+++(=अन्नस्य)+++ मा प्रसवे᳓न+++(=योनिना)++++उद्ग्राभे᳓ण᳓+++(=ग्रहेण [जुह्वा])+++ +उ᳓दग्रभीत् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,11 +400,15 @@ ___________
 वाजस्य मेति। इन्द्रो वाजस्यान्नस्य प्रसूतिनिमित्तेन स्रुच ऊर्ध्वग्रहणेन मामुग्रभीदुत्कर्षं प्रापितवात्। 
 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2एवमनेनार्धर्चेन दक्षिणेन जुहूमुद्गृह्य अर्धर्चान्तरेण सव्येनोपभृतं निगृह्णाति
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,6 +416,8 @@ _______
 अ᳓था सप᳓त्नाँ इ᳓न्द्रो मे  
 निग्राभे᳓णा᳓धराँ अकः+++(=करोतु)+++ ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -438,11 +448,15 @@ ____________
 
 अथ स्रुचो न्यक्कारेण मम सपत्नानधरान्न्यक्‍कृतानकरोत्। 
 </details>
+</details>
 
 ________
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एवं जुहूपभृतोः उद्ग्रहणनिग्रहणे कृत्वा प्राचीं जुहूं व्यूहति - उद्ग्राभं च निग्राभं च देवा इहागताः अवीवृधन्वर्धयन्तु ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -451,6 +465,8 @@ ________
 
 +++( 'अथ स्रुचावनुष्टुग्भ्यां वाजवतीभ्याम्' (तै.ब्रा. 3.3.9) इत्यादि ब्राह्मणम् ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -480,11 +496,15 @@ ____________
 
 देवा ब्रह्म परिवृढं स्रुचोरुद्ग्राहनिग्राहरूपं कर्मद्वयमवर्धयन्। 
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 4एवं च प्रतीचीमुपभृतं प्रत्यूहति - अथेति ॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,6 +512,8 @@ _______
 अ᳓था सप᳓त्नान् इन्द्राग्नी᳓  
 मे विषूची᳓नान्+++(=विष्वग्-गतान्)+++ व्य᳙स्यताम् ॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -522,7 +544,7 @@ __________
 
 अथेन्द्राग्नी मम सपत्नान्विषूचीनान्सर्वतः पलायमानान्व्यस्यतां विनाशयेताम्। 
 </details>
-
+</details>
 </div>  
 
 ## दोहः

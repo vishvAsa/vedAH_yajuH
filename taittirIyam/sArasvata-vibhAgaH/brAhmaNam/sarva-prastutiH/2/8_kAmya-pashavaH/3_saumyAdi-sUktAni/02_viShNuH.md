@@ -30,9 +30,8 @@ title = "०२ विष्णुः"
 
 </div>
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
-
-<details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/01_viShNornu_kaM.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -458,7 +457,6 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 भावार्थभाषाः -  जसा सूर्य आपल्या आकर्षणशक्तीने संपूर्ण भूगोलाला धारण करतो तसे सूर्य इत्यादी लोक, कारण व जीव यांना जगदीश्वर धारण करीत आहे. जो या असंख्य लोकांना निर्माण करतो, ज्याच्यात प्रलय होतो त्याचीच सर्वांनी उपासना केली पाहिजे. ॥ १ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/05_tadasya_priyamabhi.md">
@@ -474,7 +472,8 @@ Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde R�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/05_tadasya_priyamabhi.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -818,6 +817,7 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 
 भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. जे परमेश्वराने वेदाद्वारे दिलेल्या आज्ञेप्रमाणे वागतात ते मोक्षसुख प्राप्त करतात. जसे लोक बंधूकडून साह्य प्राप्त करतात किंवा तृषार्त लोक विहिरीद्वारे मधुर जल प्राप्त करून तृप्त होतात तसे ते परमेश्वराला प्राप्त करून आनंद भोगतात. ॥ ५ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/02_pra_tadviShNuH.md">
@@ -833,7 +833,8 @@ O möcht' ich seinen lieben Sitz erreichen, in dem die frommen Männer selig leb
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/154/02_pra_tadviShNuH.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1098,59 +1099,24 @@ ________________
 
 <details><summary>उवट-टीका</summary>
 
-प्रतद्विष्णुः।
-
-उत्तरोऽर्धर्चः प्रथमं व्याख्यायते यद्वृत्तयोगात्।
-
-यस्य विष्णोः उरुषु महत्सु त्रिषु विक्रमणेषु लोकेषु अधिक्षियन्ति उपरि निवसन्ति।
-
-भुवनानि भूतजातानि विश्वा विश्वानि सर्वाणि।
-
-इदानीं प्रथमोऽर्धर्चः।
-
-प्रतद्विष्णुः स्तवते स विष्णुः स्तूयते।
-
-यकः स्थाने शप्छान्दसः।
-
-वीर्येण वीरकर्मणा।
-
-कथं स्तूयते।
-
-मृगो न भीमः।
-
-यथा मृगः सिंहः स्तूयते।
-
-भीमः बिभेत्यस्मादिति भीमः।
-
-कुचरः कुत्सितचारी प्राणिवधजीवनः।
-
-गिरिष्ठाः पर्वतस्थानः।
-
-यद्वा हीनोपमानत्वादन्यथा व्याख्यायते।
-
-सर्वैरेतैर्मृगादिभिः पदैः इन्द्रो विशिष्यते।
-
-स हि विष्णोरुपमानं भवितुमर्हति।
-
-मृगो न।
-
-‘मृजूष्शुद्धौ’।
-
-यथा शुद्धोपहतपाप्मा इन्द्रः।
-
-भीमो भीषणः।
-
-कुचरः क्वायं चरतीति कुचरः।
-
-कुशब्दस्य संप्रसारणं छान्दसम्।
-
-गिरिष्ठाः गिरिर्मेघः तत्र इन्द्रो वृष्ट्यर्थं तिष्ठति।
-
-अथ कौ पृथिव्यां चरतीति कुचरः मत्स्यकूर्मादिरूपेण।
-
-अथ गिरि वेदवाक्ये तिष्ठति गिरिष्ठाः।
-
-अथ देहोऽपि गिरिरुच्यते तस्मिन्नात्मत्वेन तिष्ठतीति गिरिष्ठाः॥ २०॥
+प्र तद् विष्णुः।  
+उत्तरो ऽर्धर्चः प्रथमं व्याख्यायते यद्-वृत्त-योगात्।  
+यस्य विष्णोः उरुषु महत्सु त्रिषु विक्रमणेषु लोकेषु अधिक्षियन्ति उपरि निवसन्ति।  
+भुवनानि भूत-जातानि विश्वा विश्वानि सर्वाणि।  
+इदानीं प्रथमो ऽर्धर्चः।  
+प्र तद् विष्णुः स्तवते स विष्णुः स्तूयते।  
+यकः स्थाने शप् छान्दसः। वीर्येण वीर-कर्मणा। कथं स्तूयते। मृगो न भीमः। यथा मृगः सिंहः स्तूयते। भीमः बिभेत्य् अस्माद् इति भीमः।  
+कुचरः कुत्सित-चारी प्राणि-वध-जीवनः।  
+गिरिष्ठाः पर्वत-स्थानः।  
+यद्वा हीनोपमानत्वाद् अन्यथा व्याख्यायते।  
+सर्वैर् एतैर् मृगादिभिः पदैः इन्द्रो विशिष्यते।  
+स हि विष्णोर् उपमानं भवितुम् अर्हति।  
+मृगो न। ‘मृजूष् शुद्धौ’। यथा शुद्धोपहत-पाप्मा इन्द्रः। भीमो भीषणः। कुचरः क्वायं चरतीति कुचरः।  
+कु-शब्दस्य संप्रसारणं छान्दसम्।  
+गिरिष्ठाः गिरिर् मेघः तत्र इन्द्रो वृष्ट्य्-अर्थं तिष्ठति।  
+अथ कौ पृथिव्यां चरतीति कुचरः मत्स्य-कूर्मादि-रूपेण।  
+अथ गिरि वेद-वाक्ये तिष्ठति गिरिष्ठाः।  
+अथ देहो ऽपि गिरिर् उच्यते तस्मिन्न् आत्मत्वेन तिष्ठतीति गिरिष्ठाः॥ २०॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -1190,31 +1156,36 @@ ________________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-पाठस् तु - 'प्र तद् विष्णु स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः । यस्योरुषु त्रिषु विक्रमणेष्व् अधिक्षियन्ति भुवनानि विश्वा' इति ।
+पाठस् तु —  
+> प्र तद् विष्णु स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः ।  
+> यस्योरुषु त्रिषु विक्रमणेष्व् अधिक्षियन्ति भुवनानि विश्वा
 
-'यस्य विष्णोः 'उरुषु प्रभूतेषु त्रिषु 'विक्रमणेषु पाद-प्रक्षेपण-स्थानेषु विश्वा विश्वानि सर्वाणि भुवनानि ' अधिक्षियन्ति अधिनिवसन्ति ।
+इति ।  
+यस्य विष्णोः उरुषु प्रभूतेषु त्रिषु विक्रमणेषु पाद-प्रक्षेपण-स्थानेषु विश्वा विश्वानि सर्वाणि भुवनानि अधिक्षियन्ति अधिनिवसन्ति ।  
+ततः सुप्रसिद्धो विष्णुः वीर्येण [[अ|अ-]][[साधारण भूनेन वीर कर्मादिना|साधारण-भूतेन वीर-कर्मादिना]] प्रस्तवते प्रस्तूयते ।  
+तत्र दृष्टान्तः —  
+गिरिष्ठाः पर्वते स्थितः कुचरः कुत्सित-प्राणि-भक्षकः ।  
+चर गति-भक्षणयोः ।  
+विभेत्य् अस्माद् इति भीमः भयंकरः ।  
+मृगः न सिंह इव वीर्येण स्तूयते तद्वत् ॥ ८ ॥
 
-ततः सुप्रसिद्धो विष्णुः 'वीर्येण [अ] साधारण-भूनेन वीर-कर्मादिना प्रस्तवते प्रस्तूयते । तत्र दृष्टान्तः- गिरिष्ठाः पर्वते स्थितः 'कुचरः कुत्सित-प्राणि-भक्षकः ।
-
-चर गति-भक्षणयोः ।
-
-विभेत्यस्माद् इति 'भीमः भयंकरः । 'मृगः 'न सिंह इव वीर्येण स्तूयते तद्वत् ॥८॥
-आ मध्यमं छदिर् आलभ्य वाचयति - ' प्रतद्विष्णु: ' इति । दीर्घतमा औचथ्य ऋषिः । "यस्य विष्णो: 'उरुषु पृथुषु महत्सु विक्रमणेषु पादेषु विश्वा विश्वानि भुवनानि सर्वाणि भूतानि अधिक्षियन्ति अघि सन्ति । तत् सः विष्णुः वीर्येण वीर-कर्मादिना अनन्य- साधारण-भूतेन "प्रस्तत्र ते प्रस्तूयते । गिरिष्ठाः पर्वत-स्थानः कुचरः कुत्सित-प्राणि-भक्षकः ।
-वा त्रिभृता आत्मतिनः मृपणाश् च सन्ति । त्वम् अपि
-Hom• महत्सु
-बिमेत्यस्माद् इति भीमः सिंहः । मृगः न मृग इव । सिंहः स्व-वीर्येण स्तूयत इति च । अथवा ' मृग: न ' ।
-
-अतो मृगवद्-अवभासमानः भगवान् श्री-नर-सिंहः, शुद्धतमत्वाद् वा मृगः ।
-
-दैत्यादीनां तु भय-हेतुत्वात् भीमः ।
-
-कुचरः, कुः पृथ्वी, तत्र लीलया चरतीति कुचरः ।
-
-गिरि ऋग्यजुः साम-लक्षणायां वाचि ।
-
-वाच्यत्वेन लक्ष्यत्वेन च तत्र तिष्ठतीति गिरिष्ठाः ।
-
-इत्य्-एवं श्री-भगवान् विष्णुः स्तूयते ॥८॥
+आ मध्यमं छदिर् आलभ्य वाचयति —  
+"प्र तद् विष्णुः" इति ।  
+दीर्घतमा औचथ्य ऋषिः ।  
+यस्य विष्णोः उरुषु पृथुषु महत्सु विक्रमणेषु पादेषु विश्वा विश्वानि भुवनानि सर्वाणि भूतानि अधिक्षियन्ति [[अघि|अधि]] सन्ति ।  
+तत् सः विष्णुः वीर्येण वीर-कर्मादिना अनन्य-साधारण-भूतेन [[प्रस्तत्र ते|प्रस्तौति]] प्रस्तूयते ।  
+गिरिष्ठाः पर्वत-स्थानः कुचरः कुत्सित-प्राणि-भक्षकः ।  
+[[वा त्रिभृता आत्मतिनः मृपणाश् च सन्ति ।|??]]  
+त्वम् अपि महत्सु [[बिमेत्यस्माद्|विभेत्य् अस्माद्]] इति भीमः सिंहः ।  
+मृगः न मृग इव ।  
+सिंहः स्व-वीर्येण स्तूयत इति च ।  
+अथवा "मृगः न" ।  
+अतो मृगवद्-अवभासमानः भगवान् श्री-नर-सिंहः, शुद्धतमत्वाद् वा मृगः ।  
+दैत्यादीनां तु भय-हेतुत्वात् भीमः ।  
+कुचरः, कुः पृथ्वी, तत्र लीलया चरतीति कुचरः ।  
+गिरि ऋग्यजुः-साम-लक्षणायां वाचि ।  
+वाच्यत्वेन लक्ष्यत्वेन च तत्र तिष्ठतीति गिरिष्ठाः ।  
+इत्य्-एवं श्री-भगवान् विष्णुः स्तूयते ॥ ८ ॥
 </details>
 
 <details><summary>Schroeder - टिप्पणी</summary>
@@ -1378,6 +1349,7 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 भावार्थभाषाः -  कोणताही पदार्थ ईश्वर व सृष्टीच्या नियमाचे उल्लंघन करू शकत नाही, जो धार्मिक लोकांना मित्राप्रमाणे आनंद देणारा, दुष्टांना सिंहाप्रमाणे भयभीत करविणारा न्याय इत्यादी गुणांना धारण करणारा परमेश्वर आहे, तोच सर्वांचा अधिष्ठाता, न्यायाधीश आहे हे जाणले पाहिजे. ॥ २ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1400,7 +1372,8 @@ Gerühmt wird Vischnu wegen dieser Grossthat, gleich wildem Löwen, der durch Be
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/099/01_paro_mAtrayA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -1665,7 +1638,7 @@ O you who have grown with your body beyond measure, they do not  attain to your 
 We (only) know both your dusky realms of the earth; god Viṣṇu, you  yourself know the farthest one.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 The b-pādas of these two vss. are variants of each other, using two different roots for ‘attain’ (√naś, √āp) and two different formulations of ‘greatness’, the 2nd an elaboration on the first: 1b ná te mahitvám ánv aśnuvanti 2ab ná te … mahimnáḥ páram ántam āpa Another example of the freedom of RVic formulaics; see comm. ad VII.98.5 in the previous hymn for further on this.
@@ -1719,6 +1692,7 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 पदार्थान्वयभाषाः -  (मात्रया) प्रकृत्यापञ्चतन्मात्ररूपेण (तन्वा) शरीरेण (वृधानः) वृद्धिं प्राप्तं (ते) तव (महित्वम्) महिमानं (विष्णो) हे विभो ! (न) नैव (अश्नुवन्ति) प्राप्नुवन्ति, हे विभो ! (ते) तव (उभे) उभावपि लोकौ (विद्म) जानीमः यौ (पृथिव्याः) पृथिवीतः (रजसी)  अन्तरिक्षपर्यन्तौ स्तः (देव) हेदिव्यशक्तिमन् ! (त्वम्) त्वमेव (अस्य) अस्य ब्रह्माण्डस्य (परम्) पारं (वित्से) जानासि नान्यः, यतः (परः) सर्वस्मात्परोऽसि ॥१॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1747,7 +1721,8 @@ Am Leibe wachsend über alle Maasse hast Grösse du erlangt, der keiner gleichko
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/04_vi_chakrame.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -2006,7 +1981,7 @@ Quick Viṣṇu strode across this earth for a dwelling place for Manu,  showing
 Firmly fixed are his peoples, (even) the weak. He, affording good birth,  has made (them) wide dwelling.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -2073,6 +2048,7 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 पदार्थान्वयभाषाः -  (विष्णुः) व्यापक ईश्वरः (मनुषे, क्षेत्राय, दशस्यन्) मनुष्याय क्षेत्रं दित्सन् (पृथिवीम्, एताम्, विचक्रमे) इमां भुवं कृतवान्, यतः (अस्य) अस्य परमात्मनः (कीरयः) स्तोतारः (जनासः) भक्ताः (ध्रुवासः) दृढा अभवन् यतः (उरुक्षितिम्) विस्तृतां पृथिवीं (सुजनिमा) सर्वाङ्गशोभनां (चकार) कृतवान् ॥४॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/100/03_trirdevaH_pRthivImeSha.md">
@@ -2087,7 +2063,8 @@ Hinschreitend ging durch diese Erde Vischnu, der Gott dem Menschen sie zur Wohnu
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/100/03_trirdevaH_pRthivImeSha.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -2354,7 +2331,7 @@ Let Viṣṇu be preeminent, stronger than the strong, for vibrant is the
 name of this stalwart one.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -2410,5 +2387,6 @@ Dreimal schritt aus der Gott mit seiner Grösse, durch diese Erd' die hundertfac
 <details><summary>आर्यमुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (देवः) दिव्यशक्तिः परमात्मा (एताम्) इमां (पृथिवीम्) भुवं (त्रिः) त्रेधा (विचक्रमे) रचयामास (शतर्चसम्) यस्यां शतधा ज्वालाः (महित्वा) यातिविस्तृता (अस्य, स्थविरस्य, विष्णुः, नाम) अस्य प्राचो नाम विष्णुरिति यतः (तवसः, तवीयान्) अयं ते स्वामी यद्वा व्यापकः ॥३॥
+</details>
 </details>
 </div>

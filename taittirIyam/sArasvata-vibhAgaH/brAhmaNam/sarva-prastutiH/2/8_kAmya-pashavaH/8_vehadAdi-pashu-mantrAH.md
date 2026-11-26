@@ -14,7 +14,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -27,7 +27,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/02_aham_asmi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -64,7 +64,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -77,7 +77,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/06_pUrvam_agner.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -118,7 +118,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -131,7 +131,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/10_jahAmy_anyan.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -163,7 +163,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -176,7 +176,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/14_parAke_annam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -206,7 +206,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -219,7 +219,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/18_mahAntau_charU.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -249,7 +249,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -262,7 +262,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/22_annaM_prANam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -289,7 +289,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/26_mogham_annav.N.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -302,7 +302,7 @@ unicode_script: devanagari
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/117/06_moghamannaM_vindate.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/117/06_moghamannaM_vindate.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -623,7 +623,7 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -636,7 +636,7 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_01-08_ahamasmi_prathamajA/30_aham_meghas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -680,7 +680,7 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/11_devIM_vAchamajanayanta.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -692,7 +692,8 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/11_devIM_vAchamajanayanta.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -974,7 +975,7 @@ The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, mi
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
@@ -1014,9 +1015,10 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+</details>
 </div>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1029,7 +1031,8 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/100/10_yadvAgvadantyavichetanAni_rAShTrI.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -1273,7 +1276,7 @@ When Speech, saying indistinguishable things, sat down as gladdening  ruler of t
 she milked out in four (streams) nourishment and milk drinks. Where  indeed did the highest of hers go?
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
 For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
@@ -1312,6 +1315,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 - विराट्त्रिष्टुप्
 - धैवतः
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1322,7 +1326,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1334,7 +1338,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/40_anantAm_antAd.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -1361,7 +1365,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1373,7 +1377,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/44_vAchaM_devA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -1400,7 +1404,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1412,7 +1416,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/48_vAg_axaram.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -1439,7 +1443,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1451,7 +1455,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_09-14_devIm_vAcham/52_yAm_RShayo.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -1481,7 +1485,7 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/45_chatvAri_vAkparimitA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/164/45_chatvAri_vAkparimitA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -1494,7 +1498,8 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/164/45_chatvAri_vAkparimitA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -1833,6 +1838,7 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 
 भावार्थभाषाः -  विद्वान व अविद्वानात इतकाच फरक आहे, की जे विद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात या चारहींना जाणतात. त्यापैकी तीन ज्ञानात असतात. चौथ्या सिद्ध शब्दसमूहाला (वाणीला) सर्वजण प्रसिद्ध व्यवहारात जाणतात. जे अविद्वान असतात ते नाम, आख्यात, उपसर्ग व निपात जाणत नाहीत, परंतु निपातरूपी साधन-ज्ञानरहित शब्दांचा प्रयोग करतात. ॥ ४५ ॥
 </details>
+</details>
 </div>
 </div>
 
@@ -1855,7 +1861,8 @@ Die Rede hat vier abgegrenzte Gattungen; die sind bekannt den Brahmanen, welche 
 व᳓चसा᳓ ऽऽवेदयामसि ।
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/01_shraddhayAgniH_samidhyate.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2108,6 +2115,7 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 पदार्थान्वयभाषाः -  (श्रद्धया-अग्निः समिध्यते) यथावद्धारणया यथावच्छास्त्रविधिनाऽग्निः साधुरूपे दीप्तो भवति (श्रद्धया हविः-हूयते) यथावद्धोमपद्धत्या होम्यं द्रव्यं साधुहोतुं युज्यते (भगस्य मूर्धनि) ऐश्वर्यस्योत्कृष्टाङ्गे स्थिताम् (श्रद्धां वचसा-आवेदयामसि) यथावद्धारणां वयं भाषणेन घोषयामः ॥१॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2118,7 +2126,7 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/02_priyaM_shraddhe.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/02_priyaM_shraddhe.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2130,7 +2138,8 @@ Durch Glauben wird das Feu'r entflammt, durch Glauben Opferguss geweiht; Auch au
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/02_priyaM_shraddhe.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2377,6 +2386,7 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 
 पदार्थान्वयभाषाः -  (श्रद्धे मे-इदम्-उदितम्) हे श्रद्धे सत्-आस्थे ममेदं घोषितवचनम् (ददतः प्रियं कृधि) दानं प्रयच्छतो जनस्य प्रियं कल्याणं कुरु (श्रद्धे दिदासतः प्रियम्) हे सदास्थे ! दातुमिच्छतः प्रियं कल्याणं कुरु (भोजेषु यज्वसु) दानस्य भोक्तृषु दक्षिणां गृहीतवत्सु खल्वृत्विक्षु प्रियं कल्याणं कुरु ॥२॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2387,7 +2397,7 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/03_yathA_devA.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/03_yathA_devA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2399,7 +2409,8 @@ O Glaube, lieb mach dieses Wort des Spenders, der noch spenden will, Mach lieb e
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/03_yathA_devA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2640,6 +2651,7 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 
 पदार्थान्वयभाषाः -  (यथा-उग्रेषु-असुरेषु) यथा क्रूरेषु-अस्तव्यस्तेषु दुष्टजनेषु तेषामुपरि (देवाः श्रद्धां चक्रिरे) मुमुक्षवो विद्वांसो यथोचितधारणां दैवीं शक्तिं प्रेरयन्ति (एवं भोजेषु यज्वसु अस्माकम्-उदितम् कृधि) एवं भोजनदातृषु तथा यजमानेषु खल्वस्माकमिदमाशीर्वचनं कल्याणप्रदं कुरु ॥३॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2658,7 +2670,8 @@ Wie Götter der Asurenschar, der starken, schenkten ihr Vertraun, So mache du au
 श्रद्ध᳓या हूयते हविः᳓॥
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/04_shraddhAM_devA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -2904,6 +2917,7 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 
 पदार्थान्वयभाषाः -  (देवाः-हृदय्यया-आकूत्या श्रद्धाम्) मुमुक्षवो विद्वांसो हृदयस्था-हङ्कृत्या श्रद्धां सदिच्छां सेवन्ते पूरयन्ति (यजमानाः-वायुगोपाः श्रद्धाम्-उपासते) यजनशीलाः प्राणायामैर्वायू रक्षको येषां ते तथाभूताः श्रद्धां सदिच्छां सेवन्ते ते (श्रद्धया वसु विन्दते) सदिच्छया वासकं धनं लभन्ते ॥४॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2914,7 +2928,7 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/05_shraddhAM_prAtarhavAmahe.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/151/05_shraddhAM_prAtarhavAmahe.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2927,7 +2941,8 @@ Den Glauben ehren andachtsvoll die Götter, die der Wind beschirmt; Der Glaube w
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/151/05_shraddhAM_prAtarhavAmahe.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रद्धा
@@ -3172,6 +3187,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 पदार्थान्वयभाषाः -  (प्रातः श्रद्धां हवामहे) प्रातःकाले यथावद्धारणां खल्वास्तिकतां परमात्मप्रीतिम्-आमन्त्रयामहे (मध्यन्दिनं परि श्रद्धाम्) दिनस्य मध्येऽपि परमात्मप्रीतिमामन्त्रयामहे (सूर्यस्य निम्रुचि श्रद्धाम्) सूर्यस्यास्तगमने “म्रुचु गत्यर्थः” [भ्वादि०] ‘नि पूर्वात् क्विप् निम्रुच् सप्तम्यां निम्रुचि’ परमात्मप्रीतिमामन्त्रयामहे (श्रद्धे नः-इह श्रद्धापय) हे श्रद्धे-आस्तिकभावने परमात्मप्रीते ! अस्मानस्मिन् जीवने श्रद्धामयान् कुरु ॥५॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3182,7 +3198,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 </details>
 </details>
 
-<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -3195,7 +3211,7 @@ Den Glauben rufen Morgens wir, den Glauben in der Mittagszeit Den Glauben, wenn 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/8_15-20_shraddhayA/07_shraddhA_devAnadhi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -3423,33 +3439,20 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 
 <details><summary>उवट-टीका</summary>
 
-ब्रह्मजज्ञानम् त्रिष्टुपादित्यदेवत्या।
-
-ब्रह्मलक्षण आदित्यः जज्ञानं यजमानः प्रथमं पुरस्तात् प्राच्यां दिशि जायते।
-
-ततोऽनन्तरं वि सीमतः सुरुचो वेन आवः व्यावः व्यावृणोत् विवृतानकरोत् स्वप्रकाशेन।
-
-सीमतः मध्यतो मर्यादातः।
-
-सुरुचः सुरोचनानिमान् लोकान्।
-
-वेनः कान्तो मेधावी वा आदित्यः॥
-
-सएव च।
-
-बुध्न्याः बुध्नमन्तरिक्षं तत्र भवा दिशो बुध्न्याः।
-
-उपमाः उपमीयन्ते आसु स्थितानि भूतानीत्युपमा दिशः।
-
-अस्य विष्ठाः।
-
-अस्य जगतः विविधं स्थानमिति विष्ठा दिशः।
-
-सतश्च योनिः विद्यमानस्य च मूर्तस्य स्थानमसतश्च अमूर्तस्य वाय्वादेः योनिम्।
-
-विवः विवृणोति।
-
-आदित्य एव लोकान्दिशो भूतानि चाभिव्यनक्ति नान्य इति स्तूयते स्वकीयेन कर्मणा॥३॥
+ब्रह्म जज्ञानम् त्रिष्टुप् आदित्य-देवत्या।  
+ब्रह्म-लक्षण आदित्यः जज्ञानं यजमानः प्रथमं पुरस्तात् प्राच्यां दिशि जायते।  
+ततो ऽनन्तरं वि सीमतः सुरुचो वेन आवः व्यावः व्यावृणोत् विवृतान् अकरोत् स्व-प्रकाशेन।  
+सीमतः मध्यतो मर्यादातः।  
+सुरुचः सुरोचनान् इमान् लोकान्।  
+वेनः कान्तो मेधावी वा आदित्यः॥  
+स एव च।  
+बुध्न्याः बुध्नम् अन्तरिक्षं तत्र भवा दिशो बुध्न्याः।  
+उपमाः उपमीयन्ते आसु स्थितानि भूतानीत्य् उपमा दिशः।  
+अस्य विष्ठाः।  
+अस्य जगतः विविधं स्थानम् इति विष्ठा दिशः।  
+सतश् च योनिः विद्यमानस्य च मूर्तस्य स्थानम् असतश् च अमूर्तस्य वाय्व्-आदेः योनिम्।  
+विवः विवृणोति।  
+आदित्य एव लोकान् दिशो भूतानि चाभिव्यनक्ति नान्य इति स्तूयते स्वकीयेन कर्मणा॥३॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -3503,36 +3506,49 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-सा कात्यायनः तस्मिन् रुक्मम् अधो ऽधः पिण्डं बिलं ब्रह्म जज्ञानम् इति " ( काश्रौ १७. ३- २९ ) इति । तस्मिन् पुष्कर-पर्णे रुक्मम् अधस् तन-बिलं यथा भवति तथा उपदधातीति शेषः । पाठस् तु - ' ब्रह्म जज्ञानं प्रथमं पुरस्ताद्वि सीमतः सुरुचो वेन आवः । स बुध्न्या उपमा अस्य विष्ठाः सतश् च
-सायणाचार्य - आनन्दबोध- माष्य-समेता
-योनिमसतश् च वि वः' इति । 'प्रथमं 'जज्ञानम् आदावुत्पन्नम् इदं रुक्म-स्वरूपं ब्रह्म परिवृढम् अत्यन्तं महद् इत्यर्थः । तस्य रुक्मस्य दृष्टान्तत्वेन सूर्यः प्रपञ्च्यते । 'पुरस्तात् पूर्वस्यां दिशि अवस्थितः वेन: कमनीयः मेधावी वा सूर्यः 'सीमत: सर्वस्यां सीम्नि 'सुरुचः शोभन-रश्मीन् विशेषेण 'आव: आवृणोत् । 'अस्य रुक्मस्य 'उपमाः उपमान-भूताः विष्ठाः विशेषेणावस्थिताः 'बुध्न्याः बुध्ने मूले पृथिवी-रूपे भवाः पदार्थाः ये सन्ति तानपि 'स: वेन: 'विव: विवृतत्रान् प्रकाशितवानित्यर्थः । सतः विद्यमानस्य घट-पटादेः 'योनिं कारणं मृदादि-रूपम् ' असत: 'च अविद्यमानस्य नर-विषाणादेः कारणं मनुष्य मूर्धादिकम् अपि विवः विवृतवान् । तथाविधेन सूर्येण सदृशो ऽयं रुक्मः प्रकाशत इति तात्पर्यार्थः ॥ ३ ॥
-रूपम्,
+कात्यायनः —
+"[[तस्मिन् रुक्मम् अधो ऽधः पिण्डं बिलं ब्रह्म जज्ञानम् इति|तस्मिन् रुक्मम् अधो-मुखं पिण्डं बिलं ब्रह्म जज्ञानम् इति]]" ([[काश्रौ १७. ३- २९|काश्रौ १७.३.२९]]) इति।  
+तस्मिन् पुष्कर-पर्णे रुक्मम् अधस्तन-बिलं यथा भवति तथा उपदधातीति शेषः।
+
+पाठस् तु —
+'ब्रह्म जज्ञानं प्रथमं पुरस्ताद् वि सीमतः सुरुचो वेन आवः।  
+स बुध्न्या उपमा अस्य विष्ठाः सतश् च योनिम् असतश् च वि वः' इति।
+
+'प्रथमं [[जज्ञानम्|जज्ञानं]]' आदाव् उत्पन्नम् इदं रुक्म-स्वरूपं ब्रह्म परिवृढम् अत्यन्तं महद् इत्यर्थः।  
+तस्य रुक्मस्य दृष्टान्तत्वेन सूर्यः प्रपञ्च्यते।  
+'पुरस्तात्' पूर्वस्यां दिशि अवस्थितः 'वेनः' कमनीयः मेधावी वा सूर्यः 'सीमतः' सर्वस्यां सीम्नि 'सुरुचः' शोभन-रश्मीन् विशेषेण 'आवः' आवृणोत्।  
+'अस्य' रुक्मस्य 'उपमाः' [[उपमान भूताः|उपमान-भूतः]] 'विष्ठाः' विशेषेणावस्थिताः 'बुध्न्याः' बुध्ने मूले पृथिवी-रूपे भवाः पदार्थाः ये सन्ति तान् अपि 'सः' वेनः 'वि [[वः|वः]]' विवृतवान् प्रकाशितवान् इत्यर्थः।  
+'सतः' विद्यमानस्य घट-पटादेः 'योनिम्' कारणं [[मृदादि रूपम् असतः|मृदादि-रूपम् 'असतश्]] च' अविद्यमानस्य नर-विषाणादेः कारणं मनुष्य-मूर्धादिकम् अपि वि वः विवृतवान्।  
+तथा-विधेन सूर्येण सदृशो ऽयं रुक्मः प्रकाशत इति तात्पर्यार्थः॥ ३ ॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-आदित्य-देवत्या त्रिष्टुप् ।
-
-सत्यज्ञाना- नन्दात्म-लक्षणं परं ब्रह्म नाम-रूपाकारेण विवर्तमानं जगज्-ज्योतिर् लक्षणाद् इत्य् आकारेण च विवर्तते ।
-
-तत् कथम् इति तद् आह ' ब्रह्म जज्ञानम् ' इति ।
-
-यथोक्त-लक्षणं ब्रह्म 'जज्ञानं स्व-मायया १.
-
-जायमानं प्रथमं पूर्वम् ।
-
-प्रथययति विस्तारयतीति प्रथमम् ।
-
-पुरस्तात् प्राच्यां दिशि जायत इति शेषः ।
-
-दृष्ट-दृष्टयपेक्षया ततो ऽनन्तरं 'सीमतः सुरुचो वेन आव:' ।
-
-'वेन: वेनतेः कान्तिकर्मणो वेनतीति वेनः कान्तो मेधावी वा आदित्यः स्वप्रकाशेन ।
-
-छान्दसं पदम् आवः, "व्यावः व्यावृणोत् लोकान् विवृतानकरोत् । ततः स्व-प्रकाश-विवरणेन सीमतः स्वेन कल्पितमध्यतो मर्यादातः स्वप्रकाशेन 'सुरुचः । सुशोभना रुक् प्रभा येषां लोकानां ते सुरुचः । स्वावभासक-ज्योतिः-संपन्नान् लोकांस्तान् सुरुचः अकरोद् इति शेषः । ' स बुध्न्याः ' । यत् ब्रह्म आदित्यो ऽभूत् तत्, ब्रह्मात्मकः सः एवादित्यः । बुध्न्याः । बुघ्नमन्तरिक्षम् । तत्र भवाः दिशः बुघ्न्याः । आदित्य-गति-प्रयुक्ता हि दिशः कल्पिता इति । 'उपमाः । भूतान्यासु उपतिष्ठन्ते
-उपमा दिशः । ( P. 228, I1 )
-आभिर्दिग्मिरुपनिर्मीयन्त इति वा उपमाः । तासु भूतान्य् उपस्थितानीति वा उपमा दिशः । 'अस्य जगतो विविधं स्थानम् इति दिशः । ' विष्ठाः सतश् च योनिम् ' । पृथिव्य्-आदि-भूत-त्रयस्य सत: विद्यमानस्य मूर्तस्य योनिं स्थानम् । अतः च वाय्व्-आदि-भूत-द्वयस्य असतश् चामूर्तस्य योनिं 'बिबः । छान्दसं पदम् । अवः व्यवः आवृणोतीत्यर्थः । एवं ब्रह्मात्मकः आदित्य एव सर्वान्
-। । लोकान् सर्वा दिशः सर्वाणि भूतानि स्व-तेजसा अभिव्यनक्ति, नान्य इति स्वकीयेन कर्मणा स्तूयते ॥ ३ ॥
+आदित्य-देवत्या त्रिष्टुप् ।  
+सत्य-ज्ञानानन्दात्म-लक्षणं परं ब्रह्म नाम-रूपाकारेण विवर्तमानं जगज्-ज्योतिर् लक्षणाद् इत्य् आकारेण च विवर्तते ।  
+तत् कथम् इति तद् आह 'ब्रह्म जज्ञानम्' इति ।  
+यथोक्त-लक्षणं ब्रह्म 'जज्ञानं स्व-मायया १. जायमानं प्रथमं पूर्वम् ।  
+[[प्रथययति|प्रथयति]] विस्तारयतीति प्रथमम् ।  
+पुरस्तात् प्राच्यां दिशि जायत इति शेषः ।  
+दृष्ट-[[दृष्टयपेक्षया|दृष्ट्य् अपेक्षया]] ततो ऽनन्तरं 'सीमतः सुरुचो वेन आवः' ।  
+'वेनः वेनतेः कान्ति-कर्मणो वेनतीति वेनः कान्तो मेधावी वा आदित्यः स्व-प्रकाशेन ।  
+छान्दसं पदम् आवः, "व्यावः व्यावृणोत् लोकान् विवृतान् अकरोत् ।  
+ततः स्व-प्रकाश-विवरणेन सीमतः स्वेन कल्पित-मध्यतो मर्यादातः स्व-प्रकाशेन 'सुरुचः ।  
+सुशोभना रुक् प्रभा येषां लोकानां ते सुरुचः ।  
+स्वावभासक-ज्योतिः-संपन्नान् लोकांस् तान् सुरुचः अकरोद् इति शेषः ।  
+'स बुध्न्याः' ।  
+यत् ब्रह्म आदित्यो ऽभूत् तत्, ब्रह्मात्मकः सः एवादित्यः ।  
+बुध्न्याः । [[बुघ्नमन्तरिक्षम्|बुध्नम् अन्तरिक्षम्]] । तत्र भवाः दिशः [[बुघ्न्याः|बुध्न्याः]] ।  
+आदित्य-गति-प्रयुक्ता हि दिशः कल्पिता इति ।  
+'उपमाः । भूतान्य् आसु उपतिष्ठन्ते उपमा दिशः ।  
+( P. 228, I1 ) [[आभिर्दिग्मिरुपनिर्मीयन्त|आभिर् दिग्भिर् उपनिर्मीयन्त]] इति वा उपमाः ।  
+तासु भूतान्य् उपस्थितानीति वा उपमा दिशः ।  
+'अस्य जगतो विविधं स्थानम् इति दिशः ।  
+'विष्ठाः सतश् च योनिम्' ।  
+पृथिव्य्-आदि-भूत-त्रयस्य सतः विद्यमानस्य मूर्तस्य योनिं स्थानम् ।  
+अतः च वाय्व्-आदि-भूत-द्वयस्य असतश् चामूर्तस्य योनिं '[[बिबः|विवः]] ।  
+छान्दसं पदम् । अवः व्यवः आवृणोतीत्य् अर्थः ।  
+एवं ब्रह्मात्मकः आदित्य एव [[सर्वान् । । लोकान्|सर्वान् लोकान्]] सर्वा दिशः सर्वाणि भूतानि स्व-तेजसा अभिव्यनक्ति, नान्य इति स्वकीयेन कर्मणा स्तूयते ॥ ३ ॥
 </details>
 
 <details><summary>सायण-टीका (तैत्तिरीया)</summary>
@@ -3805,7 +3821,8 @@ he uncovered its highest and lowest stations, the womb of being and of non-being
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/01_A_gAvo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -4148,6 +4165,7 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 
 भावार्थभाषाः -  जर वृक्षारोपण करून सुगंधाने युक्त यज्ञाच्या धुराने वायू शुद्ध केले तर ते सर्वांना सुखी करतात. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4171,7 +4189,8 @@ Gekommen sind die Kühe, Holdes wirkend, sie mögen ruhn im Stall, bei uns sich 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/02_indro_yajvane.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो गावो वा
@@ -4522,6 +4541,7 @@ Indra schenkt Gut dem opfernden und spendenden; er theilt ihm mit und entzieht i
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जे निष्कपटीपणाने वारंवार व दररोज योग्य लोकांना विद्या निधी देतात तेच विद्वान असतात. ॥ २ ॥
+</details>
 </details>
 </div>
 
@@ -4995,7 +5015,8 @@ Nicht schwinden sie und nicht verletzt ein Räuber sie, an ihre Gänge waget sic
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/04_na_tA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -5378,6 +5399,7 @@ Nicht holt ein Kriegsross mit bestäubtem Kopf sie ein, noch werden je sie zu de
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे माणसांनो ! जे अयोग्य आहार-विहार करणारे, लंपट, निंदक, कुसंग करणारे असतात त्यांना कधी विद्या प्राप्त होत नाही व जे योग्य आहार-विहार करणारे, जितेंद्रिय, विद्वान, सत्संग करणारे असतात त्यांना विद्या प्राप्त होते हे जाणा. ॥ ४ ॥
+</details>
 </details>
 </div>
 
@@ -5850,7 +5872,8 @@ Die Kühe dünken Bhaga mir und Indra, die Kühe sind des besten Soma Antheil; W
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/028/06_yUyaM_gAvo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -6194,6 +6217,7 @@ Ihr Kühe machet fett sogar den magern, den hässlichen auch macht ihr schön vo
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे कोमल स्वभावाची, सत्यवादी, धार्मिक वाणी असलेली, सर्व ऋतूंमध्ये सुखकारक घरे व सभा निर्माण करून दीर्घायु होतात ती जगाचे कल्याण करणारी असतात. ॥ ६ ॥
+</details>
 </details>
 </div>
 

@@ -97,7 +97,9 @@ The divine Agni Sviṣṭakṛt, rich in wealth, delightful, a sage,
 true in thought, sacrificing, a Hotṛ better at sacrificing than any Hotṛ:
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने या᳓न् देवा᳓न् अ᳓याट्,  
 याँ᳓ अ᳓पिप्रेः ,  

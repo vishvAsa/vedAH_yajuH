@@ -151,18 +151,13 @@ sharing pleasure with the groats.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 मो᳓ षू᳓+++(←सु+उ)+++ ण+++(ः)+++ इन्द्र पृत्सु᳓ देव +  
 +**अ᳓स्तु** स्म +++(पराजितिः)+++ ते शुष्मिन्न् अवया᳓+++(=ऊत्या)+++ ।  
 मही᳓ ह्य् अस्य मीढु᳓षो यव्या᳓ +++(←यु पृथक्करणे, →वन्दते)+++ ,  
 हवि᳓ष्मतो मरु᳓तो +++(→मरुद्वतः)+++ **व᳓न्दते** गीः᳓  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/03_mo_ShU.md">
 
@@ -318,9 +313,7 @@ The great song of praise reaches the expiation of the generous god, the Maruts, 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓द् ग्रा᳓मे य᳓द् अ᳓रण्ये ..  
 य᳓त् सभा᳓याय्ँ, य᳓द् इन्द्रिये᳓ ।    
@@ -328,14 +321,9 @@ The great song of praise reaches the expiation of the generous god, the Maruts, 
 ए᳓नश् चकृमा᳓ वय᳓म् ।     
 य᳓द् ए᳓कस्या᳓धि ध᳓र्मणि    
 त᳓स्यावय᳓जनम् असि स्वा᳓हा  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/04_yad_grAme.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The wrong we have done in village or wild,  
@@ -366,8 +354,6 @@ Of that thou art the expiation; hail!
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -376,22 +362,15 @@ Of that thou art the expiation; hail!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **अ᳓क्रन्** क᳓र्म कर्म-कृ᳓तस्  
 सह᳓ वाचा᳓ मयो-भुवा᳓ ।    
 देवे᳓भ्यᳵ क᳓र्म **कृत्वा᳓**  
 अ᳓स्तम् **प्रे᳓त** सु-दानवः ॥ [4]
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/03_chAturmAsyeShu_varuNapraghAsaparva/05_akran_karma.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The doers of the deed have performed the deed,  
@@ -418,5 +397,3 @@ To your home, ye bounteous ones.
 इत्यष्टमे तृतीयोनुवाकः ॥
 </details>
 </details>
-
-</div>

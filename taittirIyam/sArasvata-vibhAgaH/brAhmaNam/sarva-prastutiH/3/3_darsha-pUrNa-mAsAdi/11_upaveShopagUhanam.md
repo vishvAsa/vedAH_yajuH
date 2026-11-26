@@ -429,7 +429,9 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 पुनरप्यृचां त्रयमभिचारार्थमुत्पादयति “निरमुं नुद ओकसः। सपत्नो यः पृतन्यति। निर्बाध्येन हविषा। इन्द्र एणं पराशरीत्।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 > **इहि᳓** तिस्रᳶ᳓ पराव᳓तः ।
 **इहि᳓** प᳓ञ्च ज᳓नाँ अ᳓ति ।

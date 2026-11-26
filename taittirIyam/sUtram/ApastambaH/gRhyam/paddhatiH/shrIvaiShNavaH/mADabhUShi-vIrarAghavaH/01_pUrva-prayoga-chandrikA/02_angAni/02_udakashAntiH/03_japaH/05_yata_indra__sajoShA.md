@@ -6,10 +6,10 @@ title = "०५ 'यत इन्द्र'"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/26_yata_indra.md">
 <details open><summary><h2>26 यत इन्द्र ...{Loading}...</h2></summary>
 
-यत॑ इन्द्र॒ भया॑महे॒  
-ततो॑ नो॒ अभ॑यं कृधि ।  
-मघ॑वञ् छ॒ग्धि +++(=शक्तो वर्तस्व)+++ तव॒ तन् न॑+++(ः)+++ ऊ॒तये॑+++(=रक्षायै, ऊ॒तिभि॑र् इति शाकले)+++  
-वि द्विषो॒ वि मृधो॑+++(=सङ्ग्रामान्)+++ जहि ।।
+य᳓त इन्द्र भ᳓यामहे  
+त᳓तो नो अ᳓भयं कृधि ।  
+म᳓घवञ् छग्धि᳓ +++(=शक्तो वर्तस्व)+++ त᳓व त᳓न् न+++(ः)+++ ऊत᳓ये+++(=रक्षायै, ऊतिभिर् इति शाकले)+++᳓  
+वि᳓ द्वि᳓षो वि᳓ मृ᳓धो+++(=सङ्ग्रामान्)+++ जहि ।।
 
 </details>
 </div>
@@ -31,10 +31,10 @@ title = "०५ 'यत इन्द्र'"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/42_ShoDashigrahaH/01_mahAM_indro.md">
 <details open><summary><h4>01 महां इन्द्रो ...{Loading}...</h4></summary>
 
-म॒हाँ इन्द्रो॒ वज्र॑बाहुष्  
-षोड॒शी **शर्म॑ यच्छतु** ।  
-**स्व॒स्ति** नो॑ म॒घवा॑ **करोतु॒**  
-**हन्तु॑** पा॒प्मानय्ँ॒ यो॑ऽस्मान् द्वेष्टि॑ ॥
+महाँ᳓ इ᳓न्द्रो व᳓ज्रबाहुष्  
+षोडशी᳓ **श᳓र्म यच्छतु** ।  
+**स्वस्ति᳓** नो मघ᳓वा **करोतु**  
+**ह᳓न्तु** पाप्मा᳓नय्ँ यो᳙ऽस्मा᳓न् द्वे᳓ष्टि ॥
 </details>
 </div>
 

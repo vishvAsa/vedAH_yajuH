@@ -29,14 +29,14 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h2>०१ अदितेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h2>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
@@ -50,7 +50,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h2>०४ देव सवितः ...{Loading}...</h2></summary>
 
-देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -90,7 +90,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
+य᳓द् ए᳓जति+++(=कम्पते)+++ ज᳓गति य᳓च् च चे᳓ष्टति, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
 </details>
 </div>
 
@@ -139,7 +139,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/15_gRhyabhyas_svAhA.md">
 <details open><summary><h2>१५ गृह्यभ्यस् स्वाहा ...{Loading}...</h2></summary>
 
-+++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। अवसा᳓नेभ्य᳓स्+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++
++++(वास्तुविद्याप्रसिद्धेभ्यः)+++ गृ᳓ह्याभ्यस् स्वा᳓हा। [[अवसा᳓नेभ्य᳓स्|अवसा᳓नेभ्यस्]]+++(=सीमाभ्यः)+++ स्वा᳓हा । अवसा᳓नपतिभ्यस् स्वा᳓हा । सर्वभूते᳓भ्यस् स्वा᳓हा । +++(उत्तरपूर्वदेशेऽगारस्योत्तरैश्चतुर्भिः २३)+++
 </details>
 </div>
 
@@ -148,7 +148,7 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/17_yadejati_jagati.md">
 <details open><summary><h2>१७ यदेजति जगति ...{Loading}...</h2></summary>
 
-य᳓द् [[ए᳓जति᳓|ए᳓जति]]+++(=कम्पते)+++ ज᳓गति [[यच्|य᳓च्]] च [[चे᳓ष्टति᳓|चे᳓ष्टति]], ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
+य᳓द् ए᳓जति+++(=कम्पते)+++ ज᳓गति य᳓च् च चे᳓ष्टति, ना᳓म्नो भागो᳓ ऽयं᳓, ना᳓म्ने स्वा᳓हा। +++(उत्तरेणापिधान्याम् (अर्गले)३)+++
 </details>
 </div>
 
@@ -173,10 +173,10 @@ title = "०१ वैश्वदेवम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
 <details open><summary><h2>२१ ये भूताः ...{Loading}...</h2></summary>
 
-ये᳓ भूताः᳓ प्रच᳓रन्ति [[दिवा|दि᳓वा]] /न᳓क्तं    
-[[ब᳓लिम्|बलि᳓म्]] इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
-ते᳓भ्यो बलिं᳓ [[पुष्टिका᳓मो|पु᳓ष्टिकामो]] हरामि  
-म᳓यि पु᳓ष्टिं [[पु᳓ष्टिपतिर्|पुष्टिप᳓तिर्]] दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
+ये᳓ भूताः᳓ प्रच᳓रन्ति दि᳓वा /न᳓क्तं    
+बलि᳓म् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पु᳓ष्टिकामो हरामि  
+म᳓यि पु᳓ष्टिं पुष्टिप᳓तिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
 </details>
 </div>
 

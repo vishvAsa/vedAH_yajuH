@@ -42,7 +42,7 @@ title = "१० दिनान्तर-कर्माणि"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
 <details open><summary><h5>नम॒स् सद॑से …स॒भाम् मे॑ गोपाय ...{Loading}...</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -89,13 +89,13 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
 </details>
 </div>
 
@@ -132,7 +132,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <details open><summary><h2>०३ रेवतीस्त्वा व्यक्ष्णन् …{Loading}…</h2></summary>
 
 +++(नक्षत्रेषु)+++ रेव᳓तीस् त्वा **व्य᳙क्ष्णन्**+++(=व्यध्वंसयन् [मेषादिभ्यः])+++  
-कृ᳓त्तिकाश् **[[चा᳓कृन्तँस्|चाकृन्तँस्]]** त्वा ।  
+कृ᳓त्तिकाश् **चाकृन्तँस्** त्वा ।  
 धि᳓यो **ऽवयन्न्**, अ᳓व ग्ना᳓+++(=देवता)+++ **अवृञ्जन्त्**+++(=अच्छिन्दन्)+++  
 सह᳓स्रम् अ᳓न्ताँ+++(=दशासूत्राणि)+++ अभि᳓तो **अयच्छन्** ।
 
@@ -157,7 +157,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <details open><summary><h2>०५ या अकृन्तन्नवयन् ...{Loading}...</h2></summary>
 
 या᳓ **अ᳓कृन्तन्न् अ᳓वयन्** या᳓ **अ᳓तन्वत**  
-या᳓श् च देवी᳓र् +++(वस्त्रस्य)+++ अ᳓न्तान् [[अभि᳓तो|अभि᳓तो᳓]] **ऽददन्त**+++(←दद् दाने)+++ ।  
+या᳓श् च देवी᳓र् +++(वस्त्रस्य)+++ अ᳓न्तान् अभि᳓तो᳓ **ऽददन्त**+++(←दद् दाने)+++ ।  
 ता᳓स् त्वा देवी᳓र् जर᳓से **सं᳓व्ययन्त्व्**  
 आ᳓युष्मान् इदं᳓ **प᳓रिधत्स्व** वा᳓सः ।  
 
@@ -167,10 +167,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/06_paridhatta_dhatta.md">
 <details open><summary><h2>०६ परिधत्त धत्त ...{Loading}...</h2></summary>
 
-**परि॑धत्त धत्त॒** वास॑सैनँ  
-श॒तायु॑षं **कृणुत** दी॒र्घम् आयुः॑ ।  
-बृह॒स्पतिः॒ **प्राय॑च्छ॒द्** वास॑ ए॒तत्  
-सोमा॑य॒ राज्ञे॒ **परि॑धात॒वा** उ॑ ।  
+**प᳓रिधत्त धत्त** वा᳓ससैनँ  
+शता᳓युषं **कृणुत** दीर्घ᳓म् आ᳓युः ।  
+बृ᳓हस्प᳓तिः **प्रा᳓यच्छद्** वा᳓स एत᳓त्  
+सो᳓माय रा᳓ज्ञे **प᳓रिधातवा᳓** उ ।  
 
 </details>
 </div>
@@ -178,10 +178,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/07_jarA~N_gachChAsi.md">
 <details open><summary><h2>०७ जराङ् गच्छासि ...{Loading}...</h2></summary>
 
-ज॒रां **ग॑च्छासि॒, परि॑धत्स्व॒** वासो॒  
-**भवा॑** कृष्टी॒नाम्+++(=मनुष्याणां)+++ अ॑भिशस्ति॒-पावा॑+++(ता)+++ ।  
-श॒तञ् च॑ **जीव** श॒रद॑स् सु॒वर्चा॑  
-रा॒यश् च॒ पोष॒म् उप॒ **संव्य॑यस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
+जरां᳓ **गच्छासि, प᳓रिधत्स्व** वा᳓सो  
+**भ᳓वा** कृष्टीना᳓म्+++(=मनुष्याणां)+++ अभिशस्ति-पा᳓वा+++(ता)+++ ।  
+शत᳓ञ् च **जीव** शर᳓दस् सुव᳓र्चा  
+राय᳓श् च पो᳓षम् उ᳓प **सं᳓व्ययस्व** +++(वासो यथा रायस्पोषं भवति तथा)+++।  
 
 </details>
 </div>
@@ -192,7 +192,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <details open><summary><h2>०८ परीदं वासो ...{Loading}...</h2></summary>
 
 प᳓रीदं᳓ वा᳓सो **अ᳓धि+++(+अ)+++धास्** स्वस्त᳓ये  
-+**[[अ᳓भूर्|अभूर्]]** आपीना᳓म्+++(=आप्तानां)+++ अभिशस्ति-पा᳓वा+++(ता!)+++ ।  
++**अ᳓भूर्** आपीना᳓म्+++(=आप्तानां)+++ अभिशस्ति-पा᳓वा+++(ता!)+++ ।  
 शत᳓ञ् च **जीव** शर᳓दः पुरूची᳓र्+++(=बहुगतीः)+++  
 व᳓सूनि चार्यो᳓ **वि᳓भजासि+++(~~विभजासि~~)+++ जी᳓वन्** ।  
 
@@ -210,10 +210,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/15_yasya_te.md">
 <details open><summary><h2>१५ यस्य ते ...{Loading}...</h2></summary>
 
-यस्य॑ ते प्रथमवा॒स्यँ॑+++(=प्रथमाच्छादितं)+++ हरा॑म॒स्  
-तं त्वा॒ विश्वे॑ अवन्तु दे॒वाः ।  
-तन् त्वा॒ भ्रात॑रस् सु॒वृधो॒ वर्ध॑मान॒म्  
-अनु॑ जायन्तां ब॒हव॒स् सुजा॑तम् ॥
+य᳓स्य ते प्रथमवास्यँ᳙+++(=प्रथमाच्छादितं)+++ **ह᳓रामस्**  
+तं᳓ त्वा वि᳓श्वे **अवन्तु** देवाः᳓ ।  
+त᳓न् त्वा भ्रा᳓तरस् **सुवृ᳓धो** व᳓र्धमानम्  
+अ᳓नु **जायन्तां** बह᳓वस् सु᳓जातम् ॥
 
 </details>
 </div>

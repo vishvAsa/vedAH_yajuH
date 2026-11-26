@@ -149,10 +149,10 @@ title = "०२ उत्सर्जनम्"
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/02_rayINAm_patiy.N.md">
 <details open><summary><h4>02 रयीणाम् पतिय्ँ ...{Loading}...</h4></summary>
 
-र॒यी॒णाम् पतिय्ँ॑ **यज॒तम्**+++(=यजनीयम्)+++ बृ॒हन्त॑म् ।  
-अ॒स्मिन् भरे॒ नृत॑मव्ँ॒ वाज॑+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
-प्र॒जा-प॑तिम् प्रथम॒-जाम् ऋ॒तस्य॑ ।   
-**यजा॑म** दे॒वम् अधि॑ नो **ब्रवीतु** ।
+रयीणा᳓म् प᳓तिय्ँ **यजत᳓म्**+++(=यजनीयम्)+++ बृह᳓न्तम् ।  
+अस्मि᳓न् भ᳓रे नृ᳓तमव्ँ वा᳓ज+++(=अन्न)+++-**सातौ**+++(=दाने)+++ ।  
+प्रजा᳓-पतिम् प्रथम-जा᳓म् ऋत᳓स्य ।   
+**य᳓जाम** देव᳓म् अ᳓धि नो **ब्रवीतु** ।
 </details>
 </div>
 
@@ -161,10 +161,10 @@ title = "०२ उत्सर्जनम्"
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/03_prajApate_tvan.md">
 <details open><summary><h4>03 प्रजापते त्वन् ...{Loading}...</h4></summary>
 
-प्रजा॑-पते॒ त्वन् नि॑धि॒-**पाᳶ** पु॑रा॒णः ।  
-दे॒वाना॑म् पि॒ता, ज॑नि॒ता प्र॒जाना॑म् ।  
-पति॒र् विश्व॑स्य॒, जग॑तᳶ पर॒स्-**पाः**+++(=पालकः)+++ ।   
-ह॒विर् नो॑ देव विह॒वे+++(=यज्ञे)+++ **जु॑षस्व** ।
+प्र᳓जा-पते त्व᳓न् निधि-**पाᳶ᳓** पुराणः᳓ ।  
+देवा᳓नाम् पिता᳓, जनिता᳓ प्रजा᳓नाम् ।  
+प᳓तिर् वि᳓श्वस्य, ज᳓गतᳶ परस्-**पाः᳓**+++(=पालकः)+++ ।   
+हवि᳓र् नो देव विहवे᳓+++(=यज्ञे)+++ **जुषस्व** ।
 </details>
 </div>
 
@@ -173,10 +173,10 @@ title = "०२ उत्सर्जनम्"
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/04_taveme_lokApH.md">
 <details open><summary><h4>04 तवेमे लोकाᳶ ...{Loading}...</h4></summary>
 
-तवे॒मे लो॒काᳶ प्र॒दिशो॒ दिश॑श् च ॥ 3 ॥  
-प॒रा॒वतो॑ नि॒वत॑+++(=अधरा)+++ उ॒द्वत॑श्+++(=ऊर्ध्वाश्)+++ च ।  
-प्रजा॑पते विश्व॒-**सृज्** जी॒व-ध॑न्य  
-इ॒दन् नो॑ देव **प्रति॑हर्य** ह॒व्यम् ।
+त᳓वेमे᳓ लोकाᳶ᳓ प्रदि᳓शो दि᳓शश् च ॥ 3 ॥  
+पराव᳓तो निव᳓त+++(=अधरा)+++ उद्व᳓तश्+++(=ऊर्ध्वाश्)+++ च ।  
+प्र᳓जापते विश्व-**सृ᳓ज्** जीव᳓-धन्य  
+इद᳓न् नो दे᳓व᳓ **प्र᳓तिहर्य** हव्य᳓म् ।
 </details>
 </div>
 
@@ -185,10 +185,10 @@ title = "०२ उत्सर्जनम्"
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/05_prajApatim_prathamay.N.md">
 <details open><summary><h4>05 प्रजापतिम् प्रथमय्ँ ...{Loading}...</h4></summary>
 
-प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
-दे॒वाना॒म् अग्रे॑ यज॒तय्ँ **य॑जध्वम्** ।  
-स नो॑ **ददातु॒** द्रवि॑णँ सु॒वीर्य॑म् ।  
-रा॒यस्-पोषव्ँ॒ **वि ष्य॑तु॒**+++(=शिथिलयतु)+++ नाभि॑म्+++(=नहनं)+++ अ॒स्मे ।
+प्रजा᳓पतिम् प्रथमय्ँ᳓ यज्ञि᳓यानाम् ।  
+देवा᳓नाम् अ᳓ग्रे यजतय्ँ᳓ **यजध्वम्** ।  
+स᳓ नो **ददातु** द्र᳓विणँ सुवी᳓र्यम् ।  
+राय᳓स्-पो᳓षव्ँ **वि᳓ ष्यतु**+++(=शिथिलयतु)+++ ना᳓भिम्+++(=नहनं)+++ अस्मे᳓ ।
 </details>
 </div>
 
@@ -199,10 +199,10 @@ title = "०२ उत्सर्जनम्"
 <div class="js_include" newlevelforh1="4" none="" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/1_vAyavyAdi-pashu-sUktAni/02_prajApatiH/06_yo_rAya.md">
 <details open><summary><h4>06 यो राय ...{Loading}...</h4></summary>
 
-यो रा॒य **ईशे॑** शतदा॒य उ॒क्थ्यः॑ ।   
-यᳶ प॑शू॒नाँ **र॑क्षि॒ता** विष्ठि॑तानाम् ।  
-प्र॒जाप॑तिᳶ प्रथम॒-जा ऋ॒तस्य॑ ॥ 4 ॥  
-स॒हस्र॑-धामा **जुषताँ** ह॒विर् नः॑ ।
+यो᳓ राय᳓ **ई᳓शे** शतदाय᳓ उक्थ्यः᳙ ।   
+यᳶ᳓ पशूनाँ᳓ **रक्षिता᳓** वि᳓ष्ठितानाम् ।  
+प्रजा᳓पतिᳶ प्रथम-जा᳓ ऋत᳓स्य ॥ 4 ॥  
+सह᳓स्र-धामा **जुषताँ** हवि᳓र् नः ।
 </details>
 </div>
 
@@ -312,7 +312,7 @@ title = "०२ उत्सर्जनम्"
 </details>
 
 
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 <details open><summary><h3>०६ सदसस्पतिमद्भुतं प्रियमिन्द्रस्य ...{Loading}...</h3></summary>
 
 

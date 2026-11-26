@@ -3,15 +3,20 @@ title = "०२ शिष्टम्"
 
 +++
 
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 काऽसौ प्रतिष्ठिता नौरिति सेयमुच्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे᳓ वै᳓ लोका᳓ अप्सु᳓ प्र᳓तिष्ठिताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -32,11 +37,14 @@ These worlds are, verily, established in the waters.
 
 इमे वै दृश्यमाना एव भूरादयो लोका अप्सु स्थैर्येणावस्थिता नौस्थानीयाः । अतः सर्वलोकाधारभूता आप इति वेदनेन प्रतिष्ठाप्राप्तिः । नद्यादिषु परतीरगमनाय जनैर्या नौः सम्पाद्यते सा जले प्रतिष्ठिता न भवति । गमनागमनाभ्यां चञ्चलत्वात् । सर्वलोकसङ्घरूपा तु नौर्न कदाचिदपि चलति किंत्वप्सु स्थैर्येणावतिष्ठते । आवरणसहितं ब्रह्माण्डं घनोदाख्ये महाजलेऽवतिष्ठत इति हि पौराणिकप्रसिद्धिः । तत्तस्मिन्सर्वजगदाधारभूता आप इत्येवंरूपेऽर्थे काचिदृगभ्यनूक्ता शाखान्तरे समाम्नाता ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓देषा᳓ऽभ्य᳓नूक्ता ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -47,10 +55,14 @@ As to that this has been mentioned:—
 
 तदे॒षाऽभ्यनू॑क्ता ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तामेतामृचं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,6 +72,8 @@ As to that this has been mentioned:—
 अपाँ᳓ र᳓सस्य यो᳓ र᳓सः ।  
 तव्ँ᳓ वो गृह्णाम्युत्तम᳓मि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -87,16 +101,22 @@ As to that this has been mentioned:—
 
 योऽयमपां रसः सारस्तं रसमभिलक्ष्योदयंसन्सर्वे लोका उद्गताः । तस्मादेव रसादुत्पद्यन्तेऽस्मिन्नेवावतिष्ठन्त इत्यर्थः । कीदृशं रसम्, सूर्य आदित्यमण्डले वृष्टिजननाय समाभृतं सम्पादितम्, अत एव शुक्रं निर्मलम् । अपां रसस्य त्रैलोक्यरूपस्योदकसारस्य तदु(य उ)त्तमो रसः सोमरूपः, हे, आपो युष्मदीयं तमुत्तमं रसं गृह्णामि तेषु तेषु स्वीकरोमि । इतिशब्दो मन्त्रसमाप्त्यर्थः । अनेन मन्त्रेण काचिदिष्टकोपधेया । तथा च बौधायन आह - "अपाँ रसमित्येका" इति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 मन्त्रस्य तात्पर्यं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे᳓ वै᳓ लोका᳓ अपाँ᳓ र᳓सः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -112,16 +132,22 @@ As to that this has been mentioned:—
 
 य एते पृथिव्यादयो लोकास्ते सर्वेऽप्यपां मध्ये सारभूताः सर्वलोकगर्भिताः । ब्रह्माण्डगोलकरूपा पृथिवी क्षीरमध्ये मण्डमिव जलमध्ये घनीभूता । तथा च वाजसनेयिन आमनन्ति - "यदपां शर आसीत्तत्समाहन्यत सा पृथिव्यभवत्" इति । ते चोदकसारभूता लोका अमुष्मिन्दृश्यमान आदित्यमण्डले समाभृताः सम्यगाश्रिताः । आदित्यस्य वृष्टिद्वारेण सर्वलोकस्थितिहेतुत्वात् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 Meaning of the Mantra given in 10.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[ते᳓|ते᳙]]ऽमु᳓ष्मिन्नादित्ये᳓ समा᳓भृताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -142,6 +168,9 @@ They are procured well in the sun (7).
 
 तदेवं योऽपां पुष्पमित्यारभ्यामुष्मिन्नादित्ये समाभृता इत्यन्तेन ग्रन्थेनेष्टकोपधानार्थमपां बहुधा प्रशंसा कृता ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -157,16 +186,19 @@ They are procured well in the sun (7).
 
 Preparation of the altar.
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
-
-जानुदघ्नीमुत्तरवेदीङ्खात्वा ।  
-अपां पूरयित्वा गुल्फदघ्नम् ।  
-[84]  
-पुष्करपर्णैः पुष्करदण्डैः पुष्करैश्च सँस्तीर्य ।  
-तस्मिन्विहायसे ।  
-अग्निं प्रणीयोपसमाधाय ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (8/16 व्यत्यस्त-स्वराः)</summary>
+
+जा᳓नुदघ्नीमु᳓त्तरवेदीङ्खात्वा᳓ ।  
+अपां᳓ पूरयित्वा᳓ गुल्फ᳓दघ्नम् ।  
+[84]  
+पुष्करपर्णैः᳓ पुष्करदण्डैः᳓ पु᳓ष्करैश्च सँस्ती᳓र्य ।  
+त᳓स्मिन्वि᳓हायसे ।  
+अग्निं᳓ प्रणी᳓योपसमाधा᳓य ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -183,6 +215,26 @@ Preparation of the altar.
 अ॒ग्निं प्र॒णीयो॑पसमा॒धाय॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - 8/16 व्यत्यस्त-स्वराः)</summary>
+
+- जानु-दघ्नी᳓म् → **जा᳓नु-दघ्नीम्** (बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
+- उत्तर-वेदी᳓म् → **उ᳓त्तर-वेदीम्** (बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
+- खात्वा᳓ (क्त्वा पा॰ ३.१.३)
+- अपा᳓म् (*TS*-81/319, *RV*-111/532, *TB*-17/86, *AV*-62/324, *SB-M*-16/116, *SB-K*-102/744, *VS-M*-12/26, *VS-K*-20/63, *KS*-28/99, *MS*-96/374)
+- पूरयित्वा᳓ (क्त्वा पा॰ ३.१.३)
+- गुल्फ-दघ्न᳓म् → **गुल्फ᳓-दघ्नम्** (पा॰ ६.२.१)
+- पु᳓ष्क᳓र᳓-प᳓र्णैः᳓ → **पुष्कर-पर्णैः᳓** (*TS*-0/10, *TB*-0/2, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/39, *MS*-0/6, षष्ठीतत्पुरुषः पा॰ ६.१.२२३)
+- पु᳓ष्क᳓र᳓-द᳓ण्डैः᳓ → **पुष्कर-दण्डैः᳓** (षष्ठीतत्पुरुषः समासस्य पा॰ ६.१.२२३)
+- पु᳓ष्क᳓रैः᳓ → **पु᳓ष्करैः** (*TS*-2, *AV*-2, *SB-M*-4, *TS*-2, *AV*-2, *SB-M*-4, *TS*-2 पु᳓ष्कर)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- सँ-स्तीर्य᳓ → **सँ-स्ती᳓र्य** (ल्यप् पा॰ ६.२.१३९)
+- त᳓स्मिन् (*TS*-23/4763, *RV*-22/3136, *TB*-3/1327, *AV*-52/3163, *SB-M*-1/2303, *SB-K*-161/20018, *VS-M*-1/268, *VS-K*-2/395, *KS*-12/1225, *MS*-33/5550)
+- वि-हाय᳓से᳓ → **वि᳓-हायसे** (*RV*-1/3, बहुव्रीहौ पा॰ ६.२.१)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
+- प्र-णी᳓य (ल्यप् पा॰ ६.२.१३९, *MS*-2)
+- उप-समा-धा᳓य (ल्यप् पा॰ ६.२.१३९)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 शौल्बेन विमानेन सावित्रवद्रथचक्रं परिलिख्य तत्र जानुदघ्नीं जानुप्रमाणाम् उत्तरवेदीं खात्वा गुल्फदघ्नम् अपाम् अद्भिः पूरयित्वा । "पूरणगुण" इति समासप्रतिषेधात् पूरणार्थैर्योगे षष्ठ्यनुमीयते । ततः पुष्करपर्णैः पद्मपलाशैः पुष्करदण्डैश्च पृथग्भूतैः पुष्करैर् अपृथग्भूतमूलाङ्कुरार्पणैस् ताः संस्तीर्य सञ्छाद्य इतरा इष्टका उपधाय पुनश्च पुष्करपर्णादिभिः प्रच्छाद्य एवं पञ्चचितीकं चित्वा तस्मिन्विहायसे मञ्चवत् स्थापिते अग्निं प्रणीय कर्मानुगुणमग्निप्रणयनं कृत्वा ।
@@ -192,6 +244,9 @@ Preparation of the altar.
 
 तत्र सावित्रवचनवद्रथचक्रं परिलिख्य तत्र जानुप्रमाणामुत्तरवेदीं खात्वा तां खातामुत्तरवेदीं गुल्फदघ्नं यथा भवति तथा जलैः पूरयित्वा तज्जलमादौ पद्मपत्रैः संच्छाद्य ततोऽप्युपरि मूलदण्डपत्रसहितैः कृत्स्नैः पद्मैः संछाद्य तस्मिन्विहायसे तत्र स्थापितस्य मञ्चकस्योपरि कर्मानुगुणमग्नेः प्रणयनं कृत्वा तं चाग्निमुपसमाधाय तस्याग्नेः परित इष्टका उपदध्यादिति वक्ष्यमाणेनान्वयः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -202,12 +257,15 @@ Preparation of the altar.
 
 अथाऽऽक्षेपसमाधानाभ्यां तमिमं प्रयोगं समर्थयते -
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मवादि᳓नो वदन्ति ।  
 क᳓स्मात्प्रणीते᳓य᳓मग्नि᳓श् चीय᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -229,11 +287,14 @@ Preparation of the altar.
 
 अग्न्यन्तरेभ्योऽस्य वैलक्षण्यं दर्शयितुं ब्रह्मवादिनोऽत्र पर्यनुयोगमाहुः । इतरत्र हि चयने सम्पूर्णे सति पश्चादग्निः प्रणीयते, अत्र तु कस्मात्कारणान्मञ्चकस्योपरि वह्नौ प्रणीते सति पश्चादिष्टकाभिरयमारुणकेतुकोऽग्निश्चीयते । मञ्चकं तु बौधायनेन दर्शितम् - "दीर्घदारुभिर्मञ्चकं कृत्वा पृष्टो दिवीति पुरीषव्यूहनम्" इति । अतोऽस्य मञ्चकस्योपर्याकाशेऽग्निप्रणयनादूर्ध्वं पुनरिष्टकोपधानमितरचयनाद्वैलक्षण्यादयुक्तमिति ब्रह्मवादिनामाक्षेपाभिप्रायः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा᳓प्रणीते᳓ऽय᳓मप्सु᳓ ह्य᳓यञ्चीय᳓ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -254,10 +315,14 @@ For (this fire is) with (or in) the waters (also, therefore, this is arranged in
 
 तस्याऽऽक्षेपस्योत्तरं साप्प्रणीत इत्यादिनोच्यते । अद्भिः सह वर्तत इति साप्, यस्मादयं जलसहितस्तस्मादयमिष्टकाचयनरूपोऽग्निरङ्गाररूपे वह्नौ प्रणीते सति पश्चाच्चेतव्यः । अप्सु ह्ययं चीयत इत्यनेन जलसहितत्वमेव स्पष्टीक्रियते । आदावुत्तरवेद्यामद्भिः पूरणम्, ततः पुष्करपर्णादिसंछादनम्, ततो मञ्चकस्योपरि वह्निप्रणयनम्, एवं सत्यप्स्वेवायं प्रणीतो भवति । इतरस्त्वग्निर्नाप्सु प्रणीयते तस्मादितरवैलक्षण्यात्प्रणयनादूर्ध्वमबीष्टकोपधानं कर्तव्यम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>त्रिभुवनः - विनियोगः</summary>
 
 The reason of placing the bricks after bringing the fire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +330,8 @@ The reason of placing the bricks after bringing the fire.
 असौ᳓ भु᳓वनेऽप्य᳓नाहिताग्निरेताः᳓ ।  
 त᳓मभि᳓त एता᳓ अबी᳓ष्टका उ᳓पदधाति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -286,6 +353,9 @@ This fire, (if) not kept, may go in the world also (afraid of the waters); (ther
 
 पश्चात्प्रणयने सत्ययमग्निः परितो रक्षकाभावेन भुवने देवयजनाद्बहिर्भूते लोकेऽपि गत्वाऽनाहिताग्निः सन्नेता गमिष्यति । इतराग्नयो जलभयाभावाद्देवयजन एव तिष्ठन्ति, अयं तु जलाद्भीतः सन्बहिरपि गमिष्यति । एता इति शब्दो लुडन्तो गमिष्यतीत्यस्मिन्नर्थे वर्तते । अतो बहिर्गमनं मा भूदित्येवमर्थं तं प्रणीतमग्निमभितः सर्वतो रक्षार्थमेता अबीष्टका उपदध्यात् । तदेवमाक्षेपसमाधानाभ्यामग्निं प्रणीयोपसमाधाय तमभित एता अबीष्टका उपदधातीत्ययमर्थ उपपादितः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -296,6 +366,7 @@ This fire, (if) not kept, may go in the world also (afraid of the waters); (ther
 
 *(14)* For what sacrifices above Fire is needed.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -303,6 +374,8 @@ This fire, (if) not kept, may go in the world also (afraid of the waters); (ther
 पशुबन्धे᳓ चातुर्मास्ये᳓षु ।  
 [85]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -325,12 +398,15 @@ This fire, (if) not kept, may go in the world also (afraid of the waters); (ther
 
 अग्निहोत्रादिविषयत्वेन संकोचो मा भूदिति सोमयागविषयमप्यभिप्रेत्य पक्षान्तरोपन्यासः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓थो आहुः ।  
 स᳓र्वेषु यज्ञक्रतु᳓ष्वि᳓ति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -342,6 +418,9 @@ and (they) say "In all the sacrificial performances", thus.
 अथो॑ आहुः ।  
 सर्वे॑षु यज्ञक्र॒तुष्विति॑ ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -352,11 +431,14 @@ and (they) say "In all the sacrificial performances", thus.
 
 15–21. Questions and answers.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एत᳓द्ध स्म वा᳓ आहुश्शण्डिलाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -377,16 +459,22 @@ and (they) say "In all the sacrificial performances", thus.
 
 शण्डिलो नाम कश्चिन्महर्षिस्तस्य वंशे समुत्पन्नाः सर्वे शण्दिलाः, ते चैतदारुणकेतुकफलं निश्चेतुं परस्परमेवमाहुः स्म "ह स्म वै" इति निपातत्रयस्याप्येक एवार्थः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्र कैश्चिदेवं पृच्छ्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -407,10 +495,14 @@ What (resulting) fire (one) collects (while) collecting the Satriya Fire?
 
 सत्रियं सत्रे भवमग्निं यश्चिनुते सोऽयं कमग्निं किंफलमग्निं चिनुत इति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तत्राभिज्ञैरुत्तरमुच्यते -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -418,6 +510,8 @@ What (resulting) fire (one) collects (while) collecting the Satriya Fire?
 सत्रिय᳓मग्नि᳓ञ्चिन्वानः᳓ ।  
 सव्ँवत्सरं᳓ प्रत्य᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -434,16 +528,22 @@ Perceptibly (giving as the result) the year (Saṁvatsara).
 
 प्रत्यक्षेण मुख्यया वृत्या, संवत्सरं संवत्सरप्राप्तिफलकमग्निं चिनुत इत्युत्तरम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 अथ द्वितीयं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -459,10 +559,14 @@ Perceptibly (giving as the result) the year (Saṁvatsara).
 
 अनुपचारेणाऽऽदित्यप्राप्तिफलकः सावित्रोऽग्निः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 तृतीयं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -471,6 +575,8 @@ Perceptibly (giving as the result) the year (Saṁvatsara).
 अमु᳓मादित्यं᳓ प्रत्य᳓क्षेण ।  
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -493,11 +599,14 @@ Perceptibly (giving as the result) that Āditya (sun).
 
 यथा सावित्रस्याऽऽदित्यरूपत्वम् "एष वाव सावित्रो य एष तपति" इति श्रुत्याऽवगतम्, एवम् "अयं वाव यः पवते सोऽग्निर्नाचिकेतः" इति श्रुत्या नाचिकेतस्य वायुरूपत्वावगमात्तच्चयनेन वायुरूपप्राणप्राप्तिः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [86]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -508,12 +617,15 @@ Perceptibly (giving as the result) that Āditya (sun).
 
 [86]
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाचिकेत᳓मग्नि᳓ञ्चिन्वानः᳓ ।  
 प्राणा᳓न्प्रत्य᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -530,11 +642,14 @@ Perceptibly the Prāṇas (breaths).
 
 नाचिकेतं चिन्वानः प्राणान् प्रत्यक्षेण चिनुते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -545,10 +660,14 @@ Perceptibly the Prāṇas (breaths).
 
 कम॒ग्निञ्चि॑नुते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 चतुर्थं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -556,6 +675,8 @@ Perceptibly the Prāṇas (breaths).
 चातुर्होत्रिय᳓मग्नि᳓ञ्चिन्वानः᳓ ।  
 ब्र᳓ह्म प्रत्य᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -577,11 +698,14 @@ Perceptibly (giving as the result) the Brahman.
 
 "ब्रह्म वै चतुर्होतारः" इत्युक्तत्वाद्ब्रह्मप्राप्तिः । ब्रह्मशब्देन वेदपुरुष उच्यते ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -592,10 +716,14 @@ Perceptibly (giving as the result) the Brahman.
 
 कम॒ग्निञ्चि॑नुते ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 पञ्चमं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -603,6 +731,8 @@ Perceptibly (giving as the result) the Brahman.
 वैश्वसृज᳓मग्नि᳓ञ्चिन्वानः᳓ ।  
 श᳓रीरं प्रत्य᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -624,16 +754,22 @@ Perceptibly (giving as the result) the body.
 
 शरीरं हिरण्यगर्भस्य देहम् ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 षष्ठं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -649,10 +785,14 @@ Perceptibly (giving as the result) the body.
 
 "यदेकेन सँस्थापयति" इत्यादिकमुपानुवाक्यकाण्डं तत्र प्रोक्तोऽग्निरप्युपानुवाक्यः स चाऽऽशुः शीघ्रं(घ्रो) महानित्यर्थः । अत एव तच्चयनेन सर्वलोकप्राप्तिः ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
 सप्तमं पर्यायं दर्शयति -
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -661,6 +801,8 @@ Perceptibly (giving as the result) the body.
 [87]  
 इमाल्ँ᳓ लोका᳓न्प्रत्य᳓क्षेण ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -683,11 +825,14 @@ Perceptibly (giving as the result) these worlds (11).
 
 इमं चामुं च लोकं व्यतीत्यातिक्रम्य हित्वा यो न गच्छति सोऽयमव्यतीपाती सूर्यः, तं सूर्यं प्राप्नोति । आद्य इतिशब्दः प्रश्नसमाप्त्यर्थः, द्वितीय उत्तरसमाप्त्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क᳓मग्नि᳓ञ्चिनुते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -698,14 +843,17 @@ Perceptibly (giving as the result) these worlds (11).
 
 कम॒ग्निञ्चि॑नुते ।
 </details>
-
-<details open><summary>विश्वास-प्रस्तुतिः (स्वराः पूर्याः)</summary>
-
-इममारुणकेतुकमग्निञ्चिन्वान इति ।  
-य एवासौ ।  
-इतश्चामुतश्चाव्यतीपाती ।  
-तमिति ।
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (2/15 व्यत्यस्त-स्वराः)</summary>
+
+इम᳓मारुणकेतुक᳓मग्नि᳓ञ्चिन्वान᳓ इ᳓ति ।  
+य᳓ एवा᳓सौ᳓ ।  
+इत᳓श्चामु᳓तश्चा᳓व्यतीपाती ।  
+त᳓मि᳓ति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -720,10 +868,32 @@ Thus. (Giving in the result) that (God or Sun) who does not go leaving (the worl
 तमिति॑ ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - 2/15 व्यत्यस्त-स्वराः)</summary>
+
+- इम᳓म् (*TS*-107/968, *RV*-136/1246, *TB*-14/287, *AV*-145/1253, *SB-M*-23/379, *SB-K*-219/5549, *VS-M*-15/70, *VS-K*-24/151, *KS*-38/319, *MS*-120/1379)
+- आरुण-केतुकम् → **आरुण-केतुक᳓म्** (कप् समासान्तः पा॰ ३.१.३)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
+- चिन्वानः᳓ (*TS*-14, *SB-K*-10, *VS-K*-5/10, *KS*-5, *MS*-9, शानच् चितः पा॰ ६.१.१६३)
+- इ᳓ति (*TS*-1796, *RV*-83, *TB*-227, *SB-K*-9397, *VS-K*-15, *KS*-159, *MS*-1797)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-127/728, *AV*-928/3116, *SB-M*-376/1139, *SB-K*-1905/8438, *VS-M*-41/244, *VS-K*-81/456, *KS*-223/818, *MS*-852/3763)
+- एव᳓ (*TS*-3243, *RV*-173, *TB*-507, *SB-K*-8573, *VS-K*-5, *KS*-434, *MS*-2376)
+- असौ᳓ (*TS*-85/211, *RV*-8/51, *TB*-23/39, *AV*-56/188, *SB-M*-7/20, *SB-K*-300/658, *VS-M*-4/5, *VS-K*-1/2, *KS*-12/35, *MS*-53/236)
+- इतः᳓ (*TS*-25, *RV*-31, *TB*-7, *SB-K*-117, *VS-K*-1, *KS*-9, *MS*-60)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- अमु᳓तः (*TS*-8, *RV*-5, *TB*-2, *AV*-10, *SB-K*-23, *KS*-2, *MS*-22)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- अ-व्यतीपाती᳓ → **अ᳓-व्यतीपाती** (नञ्-तत्पुरुषः पा॰ ६.२.२)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3163, *SB-M*-294/2303, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395, *KS*-117/1225, *MS*-528/5550)
+- इ᳓ति (*TS*-1796, *RV*-83, *TB*-227, *SB-K*-9397, *VS-K*-15, *KS*-159, *MS*-1797)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 इमम् अस्मिन् प्रकरणे विहितम् आरुणकेतुकमग्निं चिन्वानः यो ऽयम् इतश्चामुतश्चाव्यतीपाती तं चिनुत इति इमं चामुं च लोकं व्यतीत्य अतिक्रम्य हित्वा यो न गच्छति सर्वगतत्वेन चलितुमशक्यत्वात्तं विश्वात्मानम् ईश्वरमिति । प्रश्नप्रतिवचनावसानद्योतनार्थावितिशब्दौ । एवं शण्डिलमतानुसारेण केचिदस्य सर्वेषु यज्ञक्रतुषु च अङ्गभावमाहुरिति ।
 </details>
+</details>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -734,12 +904,15 @@ Thus. (Giving in the result) that (God or Sun) who does not go leaving (the worl
 
 22. A Brāhmaṇa (explanatory or praising) passage.
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [[यो᳓|यो᳙]]ऽग्ने᳓र्मिथूया᳓ वे᳓द ।  
 मिथुनवा᳓न्भवति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -761,11 +934,14 @@ Thus. (Giving in the result) that (God or Sun) who does not go leaving (the worl
 
 मिथूया मिथुनगमनाः । मिथुनवान्मिथुनशक्तिमान् । वेदनफलस्य पुनर्वचनमुपसंहारार्थम् ॥
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वा᳓ अग्ने᳓र्मिथूयाः᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -776,12 +952,15 @@ The Waters are, verily, the pair-goings of the Fire.
 
 आपो॒ वा अ॒ग्नेर्मि॑थू॒याः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथुनवा᳓न्भवति ।  
 य᳓ एवव्ँ᳓ वे᳓द ॥ [88]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>त्रिभुवनः</summary>
 
@@ -792,4 +971,5 @@ He, who knows thus, becomes the possessor of (the power of forming) the pair (12
 
 मि॒थु॒न॒वान्भ॑वति ।  
 य ए॒वव्ँ वेद॑ ॥ [88]
+</details>
 </details>

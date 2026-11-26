@@ -831,7 +831,7 @@ He who knowing thus sacrifices with the Agnistoma begets unborn offspring and gr
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त᳓स्माद् आहुर् - "ज्येष्ठय॒ज्ञ" इ᳓ति ।
+त᳓स्मा᳓द् आ᳓हु᳓र् - "ज्ये᳓ष्ठ᳓यज्ञ᳓" इ᳓ति᳓ ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>

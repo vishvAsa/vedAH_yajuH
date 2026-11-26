@@ -28,7 +28,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/003/07_omAsashcharShaNIdhRto_vishve.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -240,13 +241,11 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-चतुर्-दशे ऐन्द्रानग्रहस्य विकल्पितो मन्त्र उक्तः ।
+चतुर्-दशे [[ऐन्द्रानग्रहस्य|ऐन्द्राग्न-ग्रहस्य]] विकल्पितो मन्त्र उक्तः।  
+पञ्चदशे वैश्वदेव-ग्रह उच्यते॥
 
-पञ्चदशे वैश्वदेव-ग्रह उच्यते ॥
-
-ओमा॑सश्चर्षणी-धृतो॒ विश्वे॑ दे॒वास॒ आ ग॑त ।
-
-दा॒श्वासो॑ दा॒शुष॑ः सु॒तम् ।
+> ओमा॑सश् चर्षणी-धृतो॒ विश्वे॑ दे॒वास॒ आ ग॑त।  
+> [[दा॒श्वासो॑|दा॒श्वाँसो॑]] दा॒शुष॑ः सु॒तम्।
 </details>
 
 <details><summary>Wilson</summary>
@@ -319,6 +318,7 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 - मधुच्छन्दाः वैश्वामित्रः
 - गायत्री
 - षड्जः
+</details>
 </details>
 </div>
 

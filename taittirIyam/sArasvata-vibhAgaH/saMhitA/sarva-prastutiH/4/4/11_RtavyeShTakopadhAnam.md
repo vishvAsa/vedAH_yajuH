@@ -385,25 +385,16 @@ may the fires separately, sharing my vow, be shaped for my preeminence.
 
 <details><summary>उवट-टीका</summary>
 
-तव कल्पेतां द्यावापृथिव्यौ।
-
-ज्यैष्ठयाय ज्येष्ठभावायेत्यनुषङ्गः।
-
-कल्पन्तां च आपः ओषधयः ज्यैष्ठ्याय।
-
-कल्पन्तां च अग्नयः पृथङ् मम ज्यैष्ठ्याय।
-
-‘अग्नयो हैते पृथग्ये देवता इष्टकाः’ इति श्रुतिः।
-
-मम तवेति प्राप्ते ममेति व्यत्ययश्छान्दसः।
-
-अथ कोऽर्थः।
-
-कल्पन्तामिष्टका याः स्वयमातृण्णादयः नानाभूतास्तव ज्यैष्ठ्याय सव्रताः समानकर्माणः।
-
-समानं हि कर्म इष्टकानामग्निचयनं नाम।
-
-किंच।
+तव कल्पेतां द्यावा-पृथिव्यौ।  
+[[ज्यैष्ठयाय|ज्यैष्ठ्याय]] ज्येष्ठ-भावायेत्य् अनुषङ्गः।  
+कल्पन्तां च आपः ओषधयः ज्यैष्ठ्याय।  
+कल्पन्तां च अग्नयः पृथङ् मम ज्यैष्ठ्याय।  
+‘अग्नयो हैते पृथग् ये देवता इष्टकाः’ इति श्रुतिः।  
+मम तवेति प्राप्ते ममेति व्यत्ययश् छान्दसः।  
+अथ को ऽर्थः।  
+कल्पन्ताम् इष्टका याः स्वयम्-आतृण्णादयः नाना-भूतास् तव ज्यैष्ठ्याय सव्रताः समान-कर्माणः।  
+समानं हि कर्म इष्टकानाम् अग्नि-चयनं नाम।  
+किं च।
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -435,11 +426,12 @@ may the fires separately, sharing my vow, be shaped for my preeminence.
 - यथा कुड्यस्यान्तर्दार्ढ्यार्थं काष्ठपाशाणादयः श्लिष्यन्ते तद्वान्मप्राग्निं चिन्वतो यजमानस्य ज्यैष्ठ्यायोत्कर्षार्थमिमे द्यावापृथिव्यौ कल्पेतां स्वोचितमुपकारं संपादयताम् ।  समानं व्रतं कर्म येषां ते सव्रता एकस्मिकर्मण्यवस्थिता आवहनीयाद्यग्नयोऽपि पृथक्कल्पतां स्वस्वोचितव्यापारं संपादयन्तु ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/11_RtavyeShTakopadhAnam/09_ye-gnayassamanaso-ntarA_dyAvApRthivI.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 ये᳙ऽग्नयस्स᳓मनसोऽन्तरा᳓ द्या᳓वापृथिवी᳓ शैशिरा᳓वृतू᳓ अभि᳓ क᳓ल्पमाना इ᳓न्द्रमिव देवा᳓ अभि᳓ सव्ँ᳓विशन्तु ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/11_RtavyeShTakopadhAnam/09_ye-gnayassamanaso-ntarA_dyAvApRthivI.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -547,7 +539,9 @@ fitting with these two spring seasons, may they enter into [me] like the gods in
   यस्य यजमानस्यावकायुक्ता ऋतव्या उप धीयन्ते, योऽप्येता जानाति स उपधाता च ब्रह्मणा मुख्यया ब्राह्मणवृत्त्याऽन्नमददित्सर्वथाऽप्यन्नं भक्षयत्येवेति विश्वामित्रः स हायमुवाच ।   तस्मादेताः स्तुत्या इत्यर्थः ।
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -27,7 +27,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/041/04_ayaM_vAM.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -297,6 +298,7 @@ O heil'ge Mitra-Varuna, gepresst ist dieser Soma euch; O höret recht auf meinen
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जसे वायू सर्वांकडून रस ग्रहण करून वृष्टी करतात तसेच सत्य विद्येचे श्रवण करून सर्वांना सुख दिले पाहिजे. ॥ ४ ॥
+</details>
 </details>
 </div>
 

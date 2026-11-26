@@ -33,10 +33,10 @@ title = "०६ दर्वी-कूर्च-पवित्रेध्म-�
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/1/68_tvamagne_ayAsi.md">
 <details open><summary><h5>68 त्वमग्ने अयासि ...{Loading}...</h5></summary>
 
-त्वम॑ग्ने अ॒यासि॑ ।   
-अ॒या सन् मन॑सा हि॒तः ।  
-अ॒या सन् ह॒व्यम् ऊ॑हिषे ।  
-अ॒या नो॑ धेहि भेष॒जम् ।
+त्व᳓मग्ने अया᳓सि ।   
+अया᳓ स᳓न् म᳓नसा हितः᳓ ।  
+अया᳓ स᳓न् हव्य᳓म् ऊहिषे ।  
+अया᳓ नो धेहि भेषज᳓म् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/121/10_prajApate_na.md">

@@ -259,7 +259,9 @@ stride along the sky!
 अरातीयत इति द्वितीयाबहुवचनम् ।
 </details>
 </details>
-</div><div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।
@@ -369,7 +371,9 @@ stride along the quarters!
 इति षष्ठे पञ्चमोनुवाकः ॥
 </details>
 </details>
-</div><div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_viShNukramAntam/nirbhaktaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नि᳓र्भक्तस् स᳓ य᳓न् द्विष्मः᳓ ।

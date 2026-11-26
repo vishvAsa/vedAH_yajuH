@@ -201,7 +201,9 @@ The fires which are furtherers, further us.
 रथे लब्धे तस्य चक्रे पक्षसी वा अभिमृशति - अङ्काविति ॥ ध्वान्तं । ध्वन शब्दे, छान्दस इडभावः । ध्वनितं वाताग्रम् । अगिर्गत्यर्थः वातवात् गन्तारं एवंभूतं रथं अभितः अनुसञ्चरन्तौ यौ अङ्कौ एवंनामानौ भूतविशेषौ तथा न्यङ्कौ यश्च दूरेहेतिः एवंनामा भूतविशेषः यश्च इन्द्रियावान् बलवान् पतत्री पतनशीलः एते भूतविशोषाः रथस्याधिष्ठातारः ते अग्नयः । अगिर्गत्यर्थः । गन्तारो रथेन सह । पप्रयः प्रा पूरणे कामानां पूरयितारः नः अस्मान् पारयन्तु पारं नयन्तु इष्टदेशं प्रापयन्तु ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -434,14 +436,13 @@ The fires which are furtherers, further us.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/7_ekAha-visheShAdi/16_rAjAbhiShekAnge_rathArohaNam/12_dyaushcha_tvA_pRthivI.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 द्यौ᳓श्च त्वा पृथिवी᳓ च प्र᳓चेतसा ।   
 शुक्रो᳓ बृह᳓द्द᳓क्षिणा त्वा पिपर्तु ।  
 अ᳓नु स्वधा᳓ चिकिताँ सो᳓मो अग्निः᳓ ।  
 अ᳓नु त्वाऽवतु सविता᳓ सवे᳓न ॥56॥
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/7_ekAha-visheShAdi/16_rAjAbhiShekAnge_rathArohaNam/12_dyaushcha_tvA_pRthivI.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -508,7 +509,9 @@ May Heaven and Earth, the two perceptive ones, and the sacrifice, may the Bṛha
 according to svadhā has Soma been recognized; may Agni, may Savitṛ favor you with his impulse.
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -573,7 +576,9 @@ True lord and lord of strength.
 विश्वा गिरः सर्वाः स्तुतिरूपा वाचस्त्वामवीवृधन् वर्धितवत्यः । कीदृशं त्वाम्? इद्रं परमैश्वर्ययुक्तं समुद्रव्यचसं समुद्रवद्व्यापिनं रथीनां रथीतमम् रथयुक्तानां राज्ञां मध्येऽतिशयेन रथस्वामिनं वाजानामन्नानां पतिं पालकं तथा सत्पतिं सन्मार्गवर्तिनां फालकम् ।
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -798,7 +803,9 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 व्याघ्रं व्याघ्रवत्केनाप्यप्रधृष्यं सिंहं सिंहसमानशक्तियुक्तमेनं राजानं परिषस्वजाना आलिङ्गयन्तो ब्राह्मणा बान्धवाश्च महते सौभगाय हिन्वति प्रीणयन्त्याशीर्वादान्कुर्वन्तीत्यर्थः । समुद्रं न समुद्रमिव सुखेनाह्वातुं शक्यं तस्थिवांसं तस्मिन्स्थानेऽवस्थितमेनं मर्मृज्यन्ते अभिषेकलेपान्पुनःपुनः शोधयन्ति । तत्र दृष्टान्तः - अप्स्वन्तः जलमध्ये द्वीपिनं गजं यथा प्रक्षांलयन्ति तद्वदित्यर्थः ।
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -87,12 +87,11 @@ May this offering be welcome to the gods.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/03_prajAnanta_prati_gRhNanti.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 प्रजान᳓न्तᳶ प्र᳓ति गृह्णन्ति पू᳓र्वे प्राण᳓म᳓ङ्गेभ्यᳶ प᳓र्याच᳓रन्तम् ।   
 सुवर्गय्ँ᳓याहि पथि᳓भिर्देवया᳓नैरो᳓षधीषु प्र᳓ति तिष्ठा श᳓रीरैः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/03_prajAnanta_prati_gRhNanti.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -197,7 +196,9 @@ offered, go by the paths traveled by the gods; be established among the plants w
 - **[465_1]** So corr. Ch **प्रणस्सङ्गेभ्यो;** cf. TS 3, 1, 4, 1. (Thus emended; Ch reads प्रणस्सङ्गेभ्यो; cf. TS 3, 1, 4, 1.)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -246,12 +247,11 @@ May abundances of wealth fall to the sacrificer.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/05_ye_badhyamAnamanu_badhyamAnA.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 ये᳓ बध्य᳓मानम᳓नु बध्य᳓माना अभ्यै᳓क्षन्त म᳓नसा च᳓क्षुषा च ।  
 अग्नि᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/05_ye_badhyamAnamanu_badhyamAnA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -352,7 +352,9 @@ may the god Agni, Prajāpati, in concord with offspring, release them in the beg
 - **[465_2]** cf. Mâitr. S. 1, 2, 15; TS 3, 1, 4, 2; AV 2, 34, 3.
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -360,12 +362,11 @@ may the god Agni, Prajāpati, in concord with offspring, release them in the beg
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/04_pashUpAkaraNamantrAH/06_ya_AraNyA_pashavo.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 य᳓ आरण्याᳶ᳓ पश᳓वो विश्व᳓रूपा वि᳓रूपास्स᳓न्तो बहुधै᳓करूपाः ।   
 वायु᳓स्ताँ᳓ अ᳓ग्रे प्र᳓ मुमोक्तु देवᳶ᳓ प्रजा᳓पतिᳶ प्रज᳓या सव्ँविदानः᳓ ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/04_pashUpAkaraNamantrAH/06_ya_AraNyA_pashavo.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -437,7 +438,9 @@ Whatever are the cattle of the forest having many forms, having various forms, m
 अरण्ये भवा आरण्या द्विखुरा श्वापदादयस्तानरण्याधिपतिर्वायुः प्रमुमोक्तु । अन्यत्पूर्ववत् ।
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

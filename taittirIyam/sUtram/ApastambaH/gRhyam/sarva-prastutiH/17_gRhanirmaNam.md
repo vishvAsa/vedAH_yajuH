@@ -6,22 +6,21 @@ title = "१७ गृहनिर्मणम्"
 ## १७ ०१ दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md">
-
 दक्षिणा-प्रत्यक्+++(=पश्चिम)+++-प्रवणम्+++(=निम्नम्)+++ अगरावकाशम् +++(खनित्रेण)+++ उद्धत्य, पालाशेन शमीमयेन वोदूहेनैतामेव दिशम् उत्तरया+++(="यद्भूमेः क्रूर"मित्येतया)+++ +उदूहति ॥
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/01_yadbhUmeH_krUram.md">
+<details open><summary><h2>०१ यद्भूमेः क्रूरम् ...{Loading}...</h2></summary>
 
 यद् भूमेः॑ क्रू॒रं तद् इ॒तो ह॑रामि॒,  
 परा॑ची॒न् निर्ऋ॑तिं॒ निर्वा॑हयामि ।  
 इ॒दँ श्रेयो॑ ऽव॒सान॒म्+++(=स्थानम्)+++ आग॑न्म+++(=आगतवन्तो)+++ देवा॒,  
 गोम॒द् अश्वा॑वद् इ॒दम् अ॑स्तु॒ प्र भूम॑ ।
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md">
-
 <details><summary>Oldenberg</summary>
 
 1. The ground for building a house should be inclined towards the south-west. He elevates the surface and sweeps (the earth) with a broom of Palāśa wood or of Sami wood, with the next (verse, M. II, 15, 1), in the same (south-west) direction;
@@ -29,21 +28,24 @@ title = "१७ गृहनिर्मणम्"
 
 <details><summary>हरदत्त-प्रस्तावः</summary>
 
-यज्ञेष्वधिकरिष्यमाणस्य पुरुषस्य देहसंस्कारा व्याख्याताः ।
-ते च "शालीनस्योदवसाय" इति वचनाभावे गृह एव कर्तव्याः ।
-विधिवच्च निर्मिते गृहे ।
-विधिवत् प्रवेशादपेक्षितायुर्यज्ञधनादिफलसिद्धिः ।
-अतो मन्त्राम्नानक्रमप्राप्तो गृहनिर्माणप्रवेशयोर्विधिर्व्याख्यायते
+यज्ञेष्व् अधिकरिष्यमाणस्य पुरुषस्य  
+देहसंस्कारा व्याख्याताः ।  
+ते च "शालीनस्योदवसाय" इति वचनाभावे  
+गृह एव कर्तव्याः -  
+विधिवच् च निर्मिते गृहे ।  
+विधिवत् प्रवेशाद् अपेक्षितायुर्-यज्ञ-धनादि-फल-सिद्धिः ।
+अतो मन्त्राम्नान-क्रम-प्राप्तो गृह-निर्माण-प्रवेशयोर् विधिर्व्याख्यायते।
 </details>
 
 <details><summary>हरदत्तः</summary>
 
 अथ गृहसम्मानविधिः ।
-गृहसम्मानं च न सर्वयज्ञादिवन्नित्यम् ।
+गृहसम्मानं च न सर्वयज्ञादिवन् नित्यम् ।
 नाप्यद्भुतकर्मप्रायश्चित्तादिवन्नैमित्तिकम् ।
 किं तर्हि? काम्यम् ।
 अतोऽक्रियायां न दोषः ।
 क्रियायां चोदगयनादिनियमः ।
+
 तत्र यस्मिन् प्रदेशेऽगारं चिकीर्षितं सोऽगारावकाशः स **दक्षिणाप्रत्यक्प्रवणो** भवति ।
 दक्षिणा-प्रतीच्योरन्तराले निम्ना भवति ।
 एवंविधे देशे अगारं कर्तव्यमित्यर्थः ।
@@ -52,17 +54,37 @@ title = "१७ गृहनिर्मणम्"
 उदूह्यतेऽनेनेत्युदूहः ॥१॥
 </details>
 
+
+
 <details><summary>सुदर्शनः</summary>
 
 योऽगारार्थत्वेनाभिप्रेतोऽवकाशो भूमिभागो **दक्षिणाप्रत्यक्प्रवणः** दक्षिणाप्रतीच्यां नैर्ऋत्यां दिशि निम्नस्त**मुद्धत्य** खनित्रादिना पांसू(१)नुत्खाद्य **पालाशेन शमीमयेन वोदूहेन,** उदूह्यन्ते देशान्तरं प्राप्यन्ते पांसवोऽनेनेत्युदूहः; वादुलूक इत्यर्थः। तेनैतामेव कोणदिशं **उत्तरया** "यद्भूमेः क्रूरम्" इत्येतयो**दूहति** ॥१॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> अतो मन्त्राम्नान-क्रम-प्राप्तो गृह-निर्माण-प्रवेशयोर् विधिर्व्याख्यायते।
+
+इत्य् उक्त्वा
+
+> अथ गृहसम्मानविधिः ।
+गृहसम्मानं च न सर्वयज्ञादिवन् नित्यम् ।
+
+इति वचने गृहनिर्माणप्रकरणम् एवारभते।  
+नायं गृहप्रवेशः।  स पृथग् उच्यते -  
+(पालाशं शमीमयं वेध्मम् .... इत्यत्र)
+
+> अथ प्रवेशनविधिः ।  
+अन्यथा सम्मितस्याप्यगारस्य प्रवेशे विधिर् अयं भवति ।  
+उदग्-अयनाद्य् अपेक्षितम् इति केचित् ।  
+नेत्यन्ये ।
+
+अतो न हरदत्तस्यास्यापि काम्यत्वे ऽभिप्रायः।
+</details>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_01_daxiNApratyakpravaNamagArAvakAshamuddhatya.md">
-
-दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य पलाशेन शमीमयेन वोदूहेनैतामेव दिशमुत्तरयोदूहति ॥  
-
+दक्षिणाप्रत्यक्प्रवणमगारावकाशमुद्धत्य पलाशेन शमीमयेन वोदूहेनैतामेव दिशमुत्तरयोदूहति ॥
 </div>
 
   
@@ -70,13 +92,10 @@ title = "१७ गृहनिर्मणम्"
 ## १७ ०२ एवन् त्रिः
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_02_evan_triH.md">
-
-एवं त्रिः ॥  
-
+एवं त्रिः ॥
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_02_evan_triH.md">
-
 <details><summary>Oldenberg</summary>
 
 2. In the same way three times.
@@ -93,13 +112,10 @@ title = "१७ गृहनिर्मणम्"
 अत्र द्वितीयतृतीययोरप्युदूहयोः मन्त्रावृत्तिः, एवमिति वचनात् ।
 अन्यथा उत्तरया त्रिरुदूहतीत्येव ब्रूयात्, "एवं त्रिः" इति सूत्रान्तरं नारभेत ॥२॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_02_evan_triH.md">
-
 एवं त्रिः।
-
 </div>
 
 ## १७ ०३ कॢप्तमुत्तरयाभिमृश्य
@@ -109,19 +125,17 @@ title = "१७ गृहनिर्मणम्"
 प्रदक्षिणं स्थूणागर्तान् खानयित्वा+++(नकारस्छान्दसः)+++  
 ऽभ्यन्तरं+++(=बहिरारभ्य मध्ये यथा समाप्यत इति हरदत्तः, विपरीतम् इति सुदर्शनसूरिः)+++ पाँसून् उदुप्य +++(=उद्धत्य)+++  
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
-<details open><summary><h2>०२ स्योना पृथिवि ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/15_syonA_pRthivi.md">
 स्योना᳓+++(=सुखरूपा)+++ पृथिवि भव+  
 अनृक्षरा᳓+++(=कण्टकादिरहिता)+++ निवे᳓शनी ।  
 य᳓च्छा नश् श᳓र्म सप्र᳓थाः+++(=सकीर्तिः)+++ ।
-</details>
 </div>   
 
 ###### मन्त्रः - द्वारस्थूणामन्त्रणम्
 उत्तराभ्यां+++(=इहैव तिष्ठे)+++ दक्षिणं द्वारस्थूणाम् अवदधाति ३  
 
 __________________
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/03_ihaiva_tiShTha.md">
 <details open><summary><h2>०३ इहैव तिष्ठ ...{Loading}...</h2></summary>
 
 इ॒हैव ति॑ष्ठ॒ निमि॑ता॒+++(=निखाता)+++  
@@ -131,7 +145,7 @@ __________________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/04_A_tvA.md">
 <details open><summary><h2>०४ आ त्वा ...{Loading}...</h2></summary>
 
 आ᳓ त्वा कुमार᳓स् त᳓रुण  
@@ -144,7 +158,6 @@ __________________
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">
-
 <details><summary>Oldenberg</summary>
 
 3. He touches the ground, which has thus been prepared, with the next (verse, II, 15, 2). Then he has the pits for the posts dug from left to right, throws the earth (from the pits) towards the inside (of the building-ground), and erects the right doorpost with the next two (verses, M. II, 15, 3. 4)
@@ -167,25 +180,19 @@ __________________
 कॢप्तमुदूहेन प्रागुदक्प्रवणं कृतं **उत्तरया** "स्योना पृथिवि" इत्यनया** अभिमृश्य स्थूणागर्तान्** स्थूणानां (१)विभागार्थान् गर्तान् कर्मकरैः प्रदक्षिणं **खानयित्वा**भ्यन्तरमारभ्य, न बहिः, **पांसूनुदुप्य उत्तराभ्यां** "इहैव तिष्ठ" इत्येताभ्यां **दक्षिणां** निष्क्रामत एव, न प्रविशतः, द्वारस्थूणामवटे **अवदधाति ।**
 अत्र प्रादक्षिण्यस्य चाभ्यन्तरत्वस्य च विधानं पर्यन्तीयास्वेव स्थूणासु; न तु मध्यमासु ॥३॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_03_kLLiptamuttarayAbhimRshya.md">
-
 कॢप्तमुत्तरयाभिमृश्य प्रदक्षिणं स्थूणागर्तान् खानयित्वाभ्यन्तरं पाँसूनुदूप्योत्तराभ्यां दक्षिणा द्वारस्थूणामवदधाति ॥
-
 </div>
 
 ## १७ ०४ एवमितराम् एताभ्यामेव
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md">
-
 एवमितराम् +++(सव्य-द्वारस्थूणाम्)+++४
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md">
-
 <details><summary>Oldenberg</summary>
 
 4. In the same way the other (door-post).
@@ -200,31 +207,29 @@ __________________
 
 **इतरां** सव्यां द्वारस्थूणां **एवं** "इहैव तिष्ठ" इत्येताभ्यामेवावदधाति ॥४॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_04_evamitarAm_etAbhyAmeva.md">
-
 एवमितराम्।
-
 </div>
 
 ## १७ ०५ यथाखातमितरा अन्ववधाय
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md">
-
 यथाखातम् इतरा +++(वंशस्तम्भान्)+++ अन्ववधाय  
 वँशम् आधीयमानम् उत्तरेण यजुषा +++(="ऋतेन स्थूणौ")+++ ऽभिमन्त्रयते ५
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
-ऋते᳓न स्थू᳓णाव्+++(=स्तम्भम्)+++ **[[अधि᳓रोह|अ᳓धिरोह]]** [[वँशो᳓|वँशो]]  
-ऽग्रो᳓ **विरा᳓जन्न् अ᳓पसेध** [[शत्रू᳓न्|श᳓त्रून्]] ।
-</div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/05_Rtena_sthUNAvadhiroha.md">
+<details open><summary><h2>०५ ऋतेन स्थूणावधिरोह ...{Loading}...</h2></summary>
 
+ऋते᳓न स्थू᳓णाव्+++(=स्तम्भम्)+++ **[[अधि᳓रोह|अ᳓धिरोह]]** [[वँशो᳓|वँशो]]  
+ऽग्रो᳓ **विरा᳓जन्न् अ᳓पसेध** [[शत्रू᳓न्|श᳓त्रून्]] ।  
+
+</details>
+</div>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md">
-
 <details><summary>Oldenberg</summary>
 
 5. Having erected after (the door-posts) the other (posts) in the same order in which (the pits) have been dug, he recites the next Yajus (II, 15, 5) over the ridge-pole when it is placed (on the posts),
@@ -246,57 +251,63 @@ __________________
 
 **यथाखातं** खननक्रमेण **इतराः** स्थूणाः तूष्णी**मन्ववधाय** वंशं स्तूपं स्थूणास्वाधीयमानं **उत्तरेण यजुषा** "ऋतेन स्थूणावधिरोह" इत्यनेनाभिमन्त्रयते ॥५॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/17_gRhyanirmaNam/17_05_yathAkhAtamitarA_anvavadhAya.md">
-
 यथाखातमितरा अन्ववधाय वँशमाधीयमानमुत्तरेण यजुषाऽभिमन्त्रयते।
-
 </div>
 
 ## १७ ०६ सम्मितमुत्तरैर्यथालिङ्गम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
-
 +++(अगारम्)+++ सम्मितम्+++(=संकॢप्तं)+++ उत्तरैर्+++(="ब्रह्म च ते क्षत्रम्")+++ यथालिङ्गम् +++(अभिमन्त्रयते)+++६
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06_brahma_cha_te_xatram.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/06_brahma_cha_te_xatram.md">
+
 
 ब्र᳓ह्म च ते क्षत्र᳓ञ् च  
 पू᳓र्वे स्थू᳓णे अभि᳓रक्षतु ।  
 
+
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/07_yajnaH_cha_dakShiNAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/07_yajnaH_cha_dakShiNAH.md">
+
 
 यज्ञ᳓श् च द᳓क्षिणाश् च  
 द᳓क्षिणे [स्थू᳓णे अभि᳓रक्षतु]।  
 
+
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/08_iShaH_chorjaH_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/08_iShaH_chorjaH_cha.md">
+
 
 इष᳓श् चोर्ज᳓श् +++(शारदौ मासौ)+++ च  
 +अ᳓परे [स्थू᳓णे अभि᳓रक्षतु]।  
 
+
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/09_mitraH_cha_varuNaH_cha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/09_mitraH_cha_varuNaH_cha.md">
+
 
 मित्र᳓श् च व᳓रुणश् च  
 +उ᳓त्तरे [स्थू᳓णे अभि᳓रक्षतु]।  
 
+
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/10_dharmaH_te_sthUNA-rAjaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/10_dharmaH_te_sthUNA-rAjaH.md">
+
 
 धर्म᳓स् ते स्थू᳓णा-राजः  
 
+
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/11_shrIH_te_stUpaH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_15/11_shrIH_te_stUpaH.md">
+
 
 श्री᳓स् ते स्तू᳓पः+++(=पृष्ठवंशः)+++ ।+++(५)+++  
 
+
 </div>
-
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/17_gRhyanirmaNam/17_06_sammitamuttarairyathAlingam.md">
@@ -306,6 +317,7 @@ __________________
 
 6. The next (six) (Yajus formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 ततस्तदगारं **सम्मितं** संकॢप्तं **उत्तरैर्मन्त्रैः** "ब्रह्म च ते क्षत्र"मित्यादिभिष्षड्भिः ।
@@ -325,6 +337,7 @@ __________________
 तस्मादाकाङ्क्षैव नास्ति ।
 सन्निधानाच्च स्थूणाप्रतिपत्तिः ॥६॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **सम्मितं** निर्मितमगारं **उत्तरैः** "ब्रह्म च ते क्षत्रं च" इत्यादिभिः पञ्चभिर्मन्त्रैः **यथालिङ्गं** मन्त्रलिङ्गावगतदिङ्मुखोऽभिमन्त्रयते । तत्र पञ्चमेन मध्यमाभिमुखः, अनन्वितत्वात् ।

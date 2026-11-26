@@ -22,13 +22,16 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/10_AgrayaNagrahaH/upayAmagRhItaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 इमामनुद्रुत्य 'उपयामगृहीतोसि विश्वेभ्यस्त्वा देवेभ्यः' इति गृह्णाति ॥
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
@@ -59,12 +62,15 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 [वि᳓श्वेभ्यस्त्वा देवे᳓भ्यः]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -85,8 +91,11 @@ ________________
 
 अस्य ग्रहणमन्त्रस्य साकाङ्क्षत्वात्सादनमन्त्रे श्रुतं विश्वेभ्यस्त्वेति सम्बध्यते ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 2अधिवदते ॥
@@ -96,12 +105,15 @@ _______
 
 आग्रय॒णो॑ऽसि॒ स्वा॑ग्रयणो॒ जिन्व॑ य॒ज्ञञ्जिन्व॑ य॒ज्ञप॑तिम॒भि सव॑ना पाहि॒ विष्णु॒स्त्वाम्पा॑तु॒ विश॒न्त्वम्पा॑हीन्द्रि॒येण
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्रयणो᳙ऽसि ।  
 स्वा᳙ग्रयणो जि᳓न्व ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -126,11 +138,14 @@ thou art the good leader;
 
 स्वाग्रयाणः, अग्र्यं श्रैष्ठ्यं यन्ति प्राप्नुवन्त्यनेनेत्याग्रयणः, शोभन आग्रयणस्स्वाग्रयणः । त्वां गृहीत्वा देवा अग्रं पर्यायन् । तथा यजमानोपि त्वां गृहीत्वा समानानामग्रं पर्येत्विति भावः । 'अग्रमेव समानानां पर्येति' इति ब्राह्मणम् ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञ᳓ञ्जि᳓न्व यज्ञ᳓पतिम्  +++(जिन्व)+++ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -152,11 +167,14 @@ quicken the lord of the sacrifice;
 
 यस्मादीदृशस्त्वमसि तस्माज्जिन्व प्रीणय यज्ञं, यज्ञपतिं च जिन्व । उभयत्रापि वाक्यादित्वान्न निहन्यते । जिवि प्रीणने ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभि᳓ स᳓वना पाहि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -177,12 +195,15 @@ guard the pressings;
 
 सवना सवनानि, अभि पाहि आभिमुख्येन पालय तवाक्षीणतया । त्वयि हीक्षीणे प्रायश्चित्तप्रसङ्गादरक्षितानि सवनानि स्युः; तस्मान्मा क्षेष्ठा इत्यर्थः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓ष्णुस् त्वा᳓म् पातु ।  
 वि᳓शन् त्व᳓म् पाहीन्द्रिये᳓ण।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -207,17 +228,23 @@ do thou guard the folk with thy power;
 
 तमपि विशं प्रजां यजमानस्य स्वभूतां पाहि सर्वां वा, इन्द्रियेणेत्थंभूतां प्रजामविकलेन्द्रियां कुर्वित्यर्थः ॥
 </details>
+</details>
 
 _______
+<details><summary>सर्वा अवतारिकाः</summary>
+
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 3एवमनुद्रुत्य 'एष ते योनिर्विश्वेभ्यस्त्वा देवेभ्यः' इति सादयति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष᳓ ते यो᳓निः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -233,11 +260,14 @@ this is thy birthplace;
 
 ए॒षः । ते॒ । योनिः॑ ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वि᳓श्वेभ्यस् त्वा देवे᳓भ्यः ॥ [11]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -258,7 +288,7 @@ to the All-gods thee!
 
 'वैश्वदेवो ह्येष देवतया' इति ब्राह्मणम् । 'आत्मा वा एष यज्ञस्य यदाग्रयणः' इत्यादि च ॥
 </details>
-
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/12_ukthyagrahaH/02_indrAya_tvA.md">

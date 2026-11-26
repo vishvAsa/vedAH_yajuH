@@ -28,7 +28,7 @@ unicode_script: devanagari
 
 सर्वत्र स्वयं +++(धमनादि पुरुषप्रयत्नमन्तरेण)+++ प्रज्वलितेऽग्नावुत्तराभ्यां +++(=उद्दीप्यस्व जातवेदः, मा नो हिंसीः)+++ समिधावादध्यात् ५  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 <details open><summary><h2>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h2></summary>
 
 उद्दी॑प्यस्व जातवेदो  
@@ -38,7 +38,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 <details open><summary><h2>१० मा नो ...{Loading}...</h2></summary>
 
 मा᳓ नो हिँसीज् जातवेदो  

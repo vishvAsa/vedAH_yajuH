@@ -314,7 +314,6 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/05_somakrayaNy-anugamanAdikam/parilikhitam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प᳓रिलिखितँ+++(=परिनाशितं)+++ र᳓क्षᳶ  
@@ -322,6 +321,8 @@ ________
 इद᳓म् अहँ᳓ र᳓क्षसो ग्रीवा᳓ अ᳓पि कृन्तामि ।  
 यो᳙ऽस्मा᳓न् द्वेष्टि य᳓ञ् च वय᳓न् द्विष्म᳓- इद᳓म् अस्य ग्रीवा᳓ अ᳓पि कृन्तामि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -383,7 +384,7 @@ Thus I cut the neck of him who hates us and whom we hate [1].
 
 अनन्तरायं द्वयोर् मध्य एकतरस्याप्य् अन्तरायो यथा न भवति तथेत्य् अर्थः।
 </details>
-
+</details>
 </div>  
 
 ## पांसुग्रहणम्

@@ -6,10 +6,8 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २१ १० या माध्याः
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_10_yA_mAdhyAH.md">
-
 या माघ्याः पौर्णमास्या उपरिष्टाद्+++(=कृष्णपक्षे)+++ व्यष्टका  
-तस्यामष्टमी ज्येष्ठया सम्पद्यते तामेकाष्टकेत्याचक्षते १०   
-
+तस्यामष्टमी ज्येष्ठया सम्पद्यते तामेकाष्टकेत्याचक्षते १०
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_10_yA_mAdhyAH.md">
@@ -64,9 +62,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २१ ११ तस्यास्सायमौपकार्यम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_11_tasyAssAyamaupakAryam.md">
-
-तस्यास्सायमौपकार्यम् ११  
-
+तस्यास्सायमौपकार्यम् ११
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_11_tasyAssAyamaupakAryam.md">
@@ -102,9 +98,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २१ १२ अपूपञ् चतुश्शरावम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md">
-
-अपूपं चतुश्शरावं श्रपयति १२  
-
+अपूपं चतुश्शरावं श्रपयति १२
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_12_apUpa~n_chatushsharAvam.md">
@@ -113,6 +107,7 @@ title = "२५ अष्टकाश्राद्धम्"
 <details><summary>Oldenberg</summary>
 
 12. [^2]  He bakes a cake of four cups (of rice).
+
 
 [^2]:  12, 13. Comp. Hiraṇyak. II, 5, 14, 3 seq.
 </details>
@@ -163,9 +158,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २१ १३ अष्टाकपाल इत्येके
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md">
-
-अष्टाकपाल इत्येके १३  
-
+अष्टाकपाल इत्येके १३
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/21_13_aShTAkapAla_ityeke.md">
@@ -211,19 +204,19 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०१ पार्वणवदाज्यभागान्तेऽञ्जलिनोत्तरयाऽपूपाज्जुहोति
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_01_pArvaNavadAjyabhAgAnte-njalinottarayA-pUpAjjuhoti.md">
-
 पार्वणवदाज्यभागान्ते ऽञ्जलिनोत्तरया ऽपूपाज्जुहोति १  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/30_yA~n_janAH.md">
+<details open><summary><h2>३० याञ् जनाः ...{Loading}...</h2></summary>
 
-यां᳓ ज᳓नाः **प्रति-न᳓न्दन्ति**  
-रा᳓त्रिं धेनु᳓म् इवायती᳓म् ।  
-संवत्सर᳓स्य या᳓ प᳓त्नी +++(एकाष्टका)+++  
-सा᳓ नो **अस्तु** सुमङ्गली᳓  
-स्वा᳓हा ।  
+यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
+रात्रिं॑ धे॒नुम् इ॑वाय॒तीम् ।  
+सं॒व॒त्स॒रस्य॒ या पत्नी॒ +++(एकाष्टका)+++  
+सा नो॑ अस्तु सुमङ्ग॒ली  
+स्वाहा॑ ।  
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_01_pArvaNavadAjyabhAgAnte-njalinottarayA-pUpAjjuhoti.md">
@@ -232,6 +225,7 @@ title = "२५ अष्टकाश्राद्धम्"
 <details><summary>Oldenberg</summary>
 
 1. [^1]  After the ceremonies down to the Ājyabhāga oblations have been performed in the same way as at the fortnightly sacrifices, he makes with his joined hands oblations of the cake with the next (verse, II, 20, 27).
+
 
 [^1]:  22, 1. Comp. above, VII, 18, 6.
 </details>
@@ -273,9 +267,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०२ सिद्धश्शेषस्तमष्टधा कृत्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md">
-
-सिद्धश् शेषस् तमष्टधा कृत्वा ब्राह्मणेभ्य उपहरति २  
-
+सिद्धश् शेषस् तमष्टधा कृत्वा ब्राह्मणेभ्य उपहरति २
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_02_siddhashsheShastamaShTadhA_kRtvA.md">
@@ -284,6 +276,7 @@ title = "२५ अष्टकाश्राद्धम्"
 <details><summary>Oldenberg</summary>
 
 2. [^2]  The rest (of the cake) he makes ready, divides (it) into eight parts and offers it to the Brāhmaṇas.
+
 
 [^2]:  I believe that śeṣaḥ means the rest of the cake. The word 'siddhaḥ' possibly refers to such preparations of the food as are indicated in Hiraṇyak. II, 5, 14, 7. Haradatta understands śeṣaḥ as the rest of the rites (tantrasya śeṣaḥ): 'The rest of the rites is p. 294 the regular one, without alterations:' it must be admitted that the expressions used by Hiraṇyak. II, 5, 14, 10 would agree well with this explanation.
 </details>
@@ -323,9 +316,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०३ श्वोभूते दर्भेण
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md">
-
-श्वोभूते दर्भेण गामुपाकरोति पितृभ्यस्त्वा जुष्टामुपाकरोमीति ३  
-
+श्वोभूते दर्भेण गामुपाकरोति पितृभ्यस्त्वा जुष्टामुपाकरोमीति ३
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_03_shvobhUte_darbheNa.md">
@@ -370,22 +361,22 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०४ तूष्णीम् पञ्चाज्याहुतीर्हुत्वा
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_04_tUShNIm_panchAjyAhutIrhutvA.md">
-
 तूष्णीं पञ्चाज्याहुतीर् हुत्वा  
 
 #### श्वोभूते वपाहोममन्त्रः
 तस्यै वपां श्रपयित्वोपस्तीर्णाभिघारितां मध्यमेनान्तमेन वा पलाशपर्णेनोत्तरया जुहोति ४  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/31_vaha_vapAm.md">
+<details open><summary><h2>३१ वह वपाम् ...{Loading}...</h2></summary>
 
 **व᳓ह** वपां᳓ जातवेदः पितृ᳓भ्यो  
-य᳓त्रैनान् **वे᳓त्थ नि᳓हितान्** पराके᳓+++(=दूरे)+++ ।  
+य᳓त्रैनान् **[[वे᳓त्थ|वेत्थ]] नि᳓हितान्** पराके᳓+++(=दूरे)+++ ।  
 मे᳓दसः कू᳓ल्या+++(=नद्या)+++ उ᳓प ता᳓न् **क्षरन्तु**  
 सत्या᳓ एता᳓ आशि᳓षस् सन्तु का᳓मैस्  
 स्वा᳓हा ।  
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_04_tUShNIm_panchAjyAhutIrhutvA.md">
@@ -394,6 +385,7 @@ title = "२५ अष्टकाश्राद्धम्"
 <details><summary>Oldenberg</summary>
 
 4. [^3]  Having silently offered five Ājya oblations, and having cooked, the omentum of the (cow), and performed the 'spreading under' and the sprinkling over (of Ājya), he sacrifices (the omentum) with the next (verse, II, 20, 28) with a Palāśa leaf from the middle or the end (of the stalk).
+
 
 [^3]:  See above, V, 13, 16.
 </details>
@@ -442,7 +434,7 @@ title = "२५ अष्टकाश्राद्धम्"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_05_mA.NsaudanamuttarAbhiH.md">
 माँसोदनमुत्तराभिः ५  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/32_yA~n_janAH.md">
 <details open><summary><h2>३२ याञ् जनाः ...{Loading}...</h2></summary>
 
 यां जनाः॑ प्रति॒-नन्द॑न्ति॒  
@@ -452,7 +444,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/33_iyameva_sA.md">
 <details open><summary><h2>३३ इयमेव सा ...{Loading}...</h2></summary>
 
 इ॒यम् +++(उषाः)+++ ए॒व सा या प्र॑थ॒मा व्यौच्छ॑द्+++(←उछीँ विवासे)+++  
@@ -464,7 +456,7 @@ title = "२५ अष्टकाश्राद्धम्"
 </div>
 
 +++(मध्यमस्थाना द्युस्थाना चेति द्वे उषसौ)+++  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/34_ChandasvatI_uShasA.md">
 <details open><summary><h2>३४ छन्दस्वती उषसा ...{Loading}...</h2></summary>
 
 छन्द॑स्वती उ॒षसा॒+++(सौ)+++ पेपि॑शाने+++(=दीप्यमाने)+++  
@@ -474,7 +466,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/35_Rtasya_panthAmanu.md">
 <details open><summary><h2>३५ ऋतस्य पन्थामनु ...{Loading}...</h2></summary>
 
 ऋत᳓स्य प᳓न्थाम् अ᳓नु +++(कार्यभेदात्)+++ तिस्र᳓ आ᳓गुस्  
@@ -484,7 +476,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/36_ekAShTakAm_pashyata.md">
 <details open><summary><h2>३६ एकाष्टकाम् पश्यत ...{Loading}...</h2></summary>
 
 ए॒का॒ष्ट॒कां प॑श्यत॒ दोह॑माना॒म्  
@@ -495,7 +487,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/37_aulUkhalA_grAvANo.md">
 <details open><summary><h2>३७ औलूखला ग्रावाणो ...{Loading}...</h2></summary>
 
 औलूखला᳓+++(=उलूखलाः)+++ ग्रा᳓वाणो घो᳓षम् अक्रत  
@@ -505,7 +497,7 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/38_ekAShTakA_tapasA.md">
 <details open><summary><h2>३८ एकाष्टका तपसा ...{Loading}...</h2></summary>
 
 ए॒का॒ष्ट॒का तप॑सा॒ तप्य॑माना  
@@ -570,18 +562,20 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०६ पिष्टान्नमुत्तरया पिष्टेन
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md">
-
 पिष्टान्नमुत्तरया ६  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/01_ukthyashchAsyatirAtrashcha.md">
+<details open><summary><h2>०१ उक्थ्यश्चास्यतिरात्रश्च ...{Loading}...</h2></summary>
+
 +++(एकाष्टके!)+++ उक्थ्य᳙श् चास्य् अतिरात्र᳓श् च  
 साद्यस्क्री᳓श्+++(=सद्यस्क्र-क्रतुः)+++ छ᳓न्दसा सह᳓ ।  
 [[अपूप-घृता᳓हुते|अ᳓पूप-घृताहुते]] न᳓मस् ते  
 अस्तु [[माँस-पिप्प᳓ले|माँस-पिप्पले]]+++(=फले)+++  
 +++(तयोरन्यः पिप्पलं स्वाद्वत्ति इति दर्शनात्)+++  
-स्वा᳓हा ।
-</div>
+स्वा᳓हा ।  
 
+</details>
+</div>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_06_piShTAnnamuttarayA_piShTena.md">
@@ -623,29 +617,28 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०७ आज्याहुतीरुत्तराः
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_07_AjyAhutIruttarAH.md">
-
 आज्याहुतीरुत्तराः ७  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02_bhUH_pRthivyA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/02_bhUH_pRthivyA.md">
 भूः᳓- पृथिव्य्+++(व्या)+++ [[अ᳙ग्नि᳓ना|अग्नि᳓ना]]+ऋचा᳓  
 ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/03_bhuvo_vAyunA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/03_bhuvo_vAyunA.md">
 
 भु᳓वो - वायु᳓ना ऽन्त᳓रिक्षेण सा᳓म्ना  
 ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/04_svar_divA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/04_svar_divA.md">
 
 स्व᳓र् - दि᳓वा ऽऽदित्ये᳓न य᳓जुषा  
 ऽमुं᳓ म᳓यि का᳓मं नि᳓युनज्मि स्वा᳓हा ।+++(५)+++  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/05_janadadbhiratharvAngirobhiramum_mayi.md">
 
 जन᳓द्+++(=व्याहृतिविशेषो यस् सामस्वपि श्रूयते। नारायणानुवाके तु जनः इति विसर्जनीयान्तं पठ्यते ॥)+++-  
 अद्भि᳓र् अ᳓थर्वाङ्गिरो᳓भिर्  
@@ -653,30 +646,29 @@ title = "२५ अष्टकाश्राद्धम्"
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06_rochanAyAjirAya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/06_rochanAyAjirAya.md">
 
 रोचना᳓य +अजिरा᳓य+++(←अज गतिक्षेपणयोः)+++ +अग्न᳓ये देव᳓-जातवे+++(=ज्ञात्रे)+++ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/07_ketave_manave.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/07_ketave_manave.md">
 
 केत᳓वे+++(=ज्ञात्रे)+++ म᳓नवे ब्र᳓ह्मणे देव᳓-जातवे+++(=ज्ञात्रे)+++ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08_svadhA_svAhA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/08_svadhA_svAhA.md">
 
 स्वधा᳓ स्वा᳓हा ।  
 
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/09_agnaye_kavyavAhanAya.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_21/09_agnaye_kavyavAhanAya.md">
 
 अग्न᳓ये कव्यवा᳓हनाय स्वधा᳓ स्वा᳓हा ।  
 
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_07_AjyAhutIruttarAH.md">
@@ -713,9 +705,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०८ स्विष्टकृत्प्रभृति
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_08_sviShTakRtprabhRti.md">
-
-स्विष्टकृत्प्रभृति समानमापिण्डनिधानात् ८  
-
+स्विष्टकृत्प्रभृति समानमापिण्डनिधानात् ८
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_08_sviShTakRtprabhRti.md">
@@ -758,9 +748,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ०९ अन्वष्टकायामेवैके
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md">
-
-अन्वष्टकायामेवैके पिण्डनिधानमुपदिशन्ति ९  
-
+अन्वष्टकायामेवैके पिण्डनिधानमुपदिशन्ति ९
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_09_anvaShTakAyAmevaike.md">
@@ -821,9 +809,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ १० अथैतदपरन् दध्न
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md">
-
-अथैतदपरं दध्न एवाञ्जलिना जुहोति यया +++(ऋचा)+++ ऽपूपम् १०  
-
+अथैतदपरं दध्न एवाञ्जलिना जुहोति यया +++(ऋचा)+++ ऽपूपम् १०
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_10_athaitadaparan_dadhna.md">
@@ -897,9 +883,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ ११ अत एव
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_11_ata_eva.md">
-
-अत +++(=अष्टकागाव)+++ एव यथार्थं मासं शिष्ट्वा श्वोभूतेऽन्वष्टकाम् ११  
-
+अत +++(=अष्टकागाव)+++ एव यथार्थं मासं शिष्ट्वा श्वोभूतेऽन्वष्टकाम् ११
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_11_ata_eva.md">
@@ -937,9 +921,7 @@ title = "२५ अष्टकाश्राद्धम्"
 ## २२ १२ तस्या मासिश्राद्धेन
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/25_aShTakAshrAddham/22_12_tasyA_mAsishrAddhena.md">
-
-तस्या मासिश्राद्धेन कल्पो व्याख्यातः १२  
-
+तस्या मासिश्राद्धेन कल्पो व्याख्यातः १२
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/25_aShTakAshrAddham/22_12_tasyA_mAsishrAddhena.md">

@@ -83,6 +83,8 @@ unicode_script = "devanagari"
 प᳓रा᳓ऽसुराः +++(चाभवन्)+++।  
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Then the gods prospered,  
@@ -107,6 +109,7 @@ the Asuras were defeated.
 _________________________________
 
 देवानां यज्ञं दृष्ट्वा तथैवानुचरतामसुराणां देवसमानं विजयं दृष्ट्वा देवास्तानसुरान्वञ्चयित्वाऽनुष्ठितेनानुनिर्वाप्येण स्वयं विजयं प्राप्ता असुराश्च पराभूताः। 
+</details>
 </details>
 </div>
 

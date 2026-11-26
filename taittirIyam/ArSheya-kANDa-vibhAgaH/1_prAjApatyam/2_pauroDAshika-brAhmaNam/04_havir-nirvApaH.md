@@ -142,6 +142,8 @@ unicode_script = "devanagari"
 अपᳶ᳓ प्र᳓णयति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अ॒पᳶ प्रण॑यति ।
@@ -156,11 +158,14 @@ unicode_script = "devanagari"
 
 प्रणयनं विधत्ते — ‘अपः प्रणयति’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा᳓ वा᳓ आ᳓पः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -176,21 +181,27 @@ unicode_script = "devanagari"
 
 प्रणयनविधेरर्थवादमाह – ‘श्रद्धा वा आपः। श्रद्धामेवाऽऽरभ्य प्रणीय प्रचरति” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रद्धा᳓मेवा᳓र᳓भ्य प्रणी᳓य प्र᳓चरति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 श्र॒द्धामे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपᳶ᳓ प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -207,15 +218,19 @@ unicode_script = "devanagari"
 
 पूर्वोक्तमेव प्रणयनविधिं पुनः पुनरनूय बहुधा स्तौति — “अपः प्रणयति। यज्ञो वा आपः। यज्ञमेवाऽऽरभ्य प्रणीय प्रचरति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ वा᳓ आ᳓पः ॥ 28॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञो वा आपः॑ ॥ 28॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,15 +238,20 @@ unicode_script = "devanagari"
 यज्ञ᳓मेवा᳓र᳓भ्य प्रणी᳓य प्र᳓चरति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 य॒ज्ञमे॒वारभ्य॑ प्र॒णीय॒ प्रच॑रति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपᳶ᳓ प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -247,11 +267,14 @@ unicode_script = "devanagari"
 
 अपः प्रणयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्रो वा᳓ आ᳓पः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -262,11 +285,14 @@ unicode_script = "devanagari"
 
 वज्रो वा आपः।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व᳓ज्रमेव᳓ भ्रा᳓तृव्येभ्यᳶ प्रहृ᳓त्य प्रणी᳓य प्र᳓चरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -277,11 +303,14 @@ unicode_script = "devanagari"
 
 वज्रमेव भ्रातृव्येभ्य प्रह्रत्य प्रणीय प्रचरति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपᳶ᳓ प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -292,12 +321,15 @@ unicode_script = "devanagari"
 
 अपः प्रणयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ रक्षोघ्नीः᳓ ।  
 र᳓क्षसाम᳓पहत्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -310,11 +342,14 @@ unicode_script = "devanagari"
 आपो वै रक्षोघ्नीः।  
 रक्षसामपहत्यै।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपᳶ᳓ प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -325,21 +360,27 @@ unicode_script = "devanagari"
 
 अपः प्रणयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ देवा᳓नाम्प्रिय᳓न्धा᳓म ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 आपो॒ वै दे॒वाना॑म्प्रि॒यन्धाम॑ ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवा᳓नामेव᳓ प्रिय᳓न्धा᳓म प्रणी᳓य प्र᳓चरति ॥29॥
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -351,11 +392,14 @@ unicode_script = "devanagari"
 आपो वै देवानां प्रियं धाम।  
 देवानामेव प्रियं धाम प्रणीय प्रचरति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपᳶ᳓ प्र᳓णयति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -366,11 +410,14 @@ unicode_script = "devanagari"
 
 अपः प्रणयति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आ᳓पो वै᳓ स᳓र्वा देव᳓ताः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -386,11 +433,14 @@ unicode_script = "devanagari"
 
 आपो वै सर्वा देवताः ।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓ता एवा᳓र᳓भ्य प्रणी᳓य प्र᳓चरति ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -401,15 +451,19 @@ unicode_script = "devanagari"
 
 देवता एवाऽऽरभ्य प्रणीय प्रचरति” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (आ᳓पो वै᳓ शान्ताः᳓ । शान्ता᳓भिर् एवा᳓स्य शु᳓चँ शमयति ॥)
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 (आपो॒वैशा॒न्ताः । शा॒न्ताभि॑रे॒वास्य॑ शुचँ॑शमयति ॥)
+</details>
 </details>
 </details>
 </div>
@@ -470,6 +524,8 @@ unicode_script = "devanagari"
 र᳓क्षसाम् अ᳓पहत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -481,7 +537,8 @@ unicode_script = "devanagari"
 व्याचष्टे — “प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।  
 ___________________________________________
 
-अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै।
+अनिष्टपरिहारायेष्टसिद्धये चोभौ मन्त्रावित्याह – ‘प्रत्युष्टँ रक्षः प्रत्युष्टा अरातय इत्याह। रक्षसामपहत्यै। 
+</details>
 </details>
 </div>
 
@@ -704,14 +761,17 @@ ___________________________________________
 "दृँ᳓हस्व मा᳓ ह्वार्"+++(=कुटिलीभव)+++ इ᳓त्याह धृ᳓त्यै ॥17॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
-"दृँह॑स्व॒ मा ह्वा॒"र्+++(=कुटिलीभव)+++ इत्या॑ह॒ धृत्यै॑ ॥17॥
+"दृँह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै॑ ॥17॥
 </details>
 
 <details><summary>सायण-टीका</summary>
 
 तृतीयभागे स्वयमप्यारोढुं शकटस्य धैर्यं संपाद्यत इत्याह — “दृँहस्व मा ह्वारित्याह धृत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+</details>
 </details>
 </div>
 
@@ -828,6 +888,8 @@ ___________________________________________
 "देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓त्याह प्र᳓सूत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 'On the impulse of the god Savitr thee', he says, for impelling.
@@ -848,8 +910,9 @@ ________________________________________________________________________________
 
 अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,6 +978,7 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
+
 </div>
 </div>
 
@@ -1264,6 +1328,8 @@ ________________________________________________________________________________
 "उर्व᳙न्त᳓रिक्षम् अ᳓न्विही᳓"त्याह ग᳓त्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "उ॒र्व॑न्तरि॑क्ष॒मन्वि॒ही"त्या॑ह॒ गत्यै॑ ।
@@ -1277,6 +1343,7 @@ ________________________________________________________________________________
 <details><summary>सायण-टीका</summary>
 
 व्याचष्टे — ‘उर्वन्तरिक्षमन्विहीत्याह गत्यै’ (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+</details>
 </details>
 </div>
 
@@ -1359,6 +1426,8 @@ ________________________________________________________________________________
 "अ᳓ग्ने हव्यँ᳓ रक्षस्वे᳓"त्याह गु᳓प्त्यै ॥34॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "अग्ने॑ ह॒व्यँ र॑क्ष॒स्वे"त्या॑ह॒ गुप्त्यै॑ ॥34॥
@@ -1375,7 +1444,8 @@ ________________________________________________________________________________
 
 _______________________________
 
-पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।
+पूर्ववद्व्याचष्टे – ‘अग्ने हव्यँ रक्षस्वेत्याह गुप्त्यै’ (ब्रा. का. ३ प्र. २ अ. ८) इति।  
+</details>
 </details>
 </div>  
 

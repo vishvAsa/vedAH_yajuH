@@ -614,7 +614,7 @@ unicode_script: devanagari
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/09_mA_te.md">
 <details open><summary><h2>०९ मा ते ...{Loading}...</h2></summary>
 
-**[[मा|मा᳓]]**᳓ ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
+**मा᳓** ते गृहे᳓ निशि᳓ +++(रोदन)+++घो᳓ष **उ᳓त्थाद्**  
 अन्य᳓त्र त्व᳓द्+++(=त्वत्तः)+++ **रुदत्य᳙स् सव्ँ᳓ विशन्तु** ।  
 **मा᳓** त्वं᳓ विकेश्य् उ᳓र आ᳓ **[[व᳓धिष्ठा|वधिष्ठा]]**+++(=आताडयेः)+++ जीव᳓पत्नी  
 पति-लोके᳓ **वि᳓राज, प᳓श्यन्ती** प्रजाँ᳓ सुमनस्य᳓मानाम् ।+++(५)+++
@@ -660,7 +660,7 @@ unicode_script: devanagari
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>१४ त्वन्नो अग्ने ...{Loading}...</h2></summary>
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
@@ -1515,12 +1515,10 @@ __________________
 उपहोमो +++(= सांहितीभ्यो, याज्ञिकीभ्यो, वारुणीभ्यो, ब्रह्मणे स्वयंभुवे इति सुदर्शनसूरिः। हरदत्तस्तु जयादय इति।)+++,  
 वेदाहुतीनाम् उपरिष्टात् सदसस्पतिम् इत्येके ३
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
-<details open><summary><h4>०८ सदसस्पतिमद्भुतम् प्रियमिन्द्रस्य ...{Loading}...</h4></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/018/06_sadasaspatimadbhutaM_priyamindrasya.md">
 स᳓दसस्प᳓तिम् अ᳓द्भुतं  
 प्रिय᳓म् इ᳓न्द्रस्य का᳓म्यम् ।  
 सनिं᳓ +++(=दानरूपम्)+++ मेधा᳓म् अयासिषम् ६
-</details>
 </div>
 </div>
 
@@ -1529,7 +1527,7 @@ __________________
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/04_vivAhaprakaraNam/08_05_sarvatra_svayam.md">
 सर्वत्र स्वयं +++(धमनादि पुरुषप्रयत्नमन्तरेण)+++ प्रज्वलितेऽग्नावुत्तराभ्यां +++(=उद्दीप्यस्व जातवेदः, मा नो हिंसीः)+++ समिधावादध्यात् ५  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 <details open><summary><h2>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h2></summary>
 
 उद्दी॑प्यस्व जातवेदो  
@@ -1539,7 +1537,7 @@ __________________
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/10_mA_no.md">
 <details open><summary><h2>१० मा नो ...{Loading}...</h2></summary>
 
 मा᳓ नो हिँसीज् जातवेदो  
@@ -1683,8 +1681,8 @@ __________________
 <details open><summary><h2>०९ चित्तञ्च चित्तिश्चाकूतञ्चाकूतिश्चाधीतञ्चाधीतिश्च ...{Loading}...</h2></summary>
 
 चित्त᳓ञ् च चि᳓त्तिश् च+  
-+आ᳓कूतञ्+++(=अभिप्रेतम्)+++ चा᳓कूतिश्+++(=अभिप्रायः)+++ [[च᳓|च]]  
-+अ᳓धीतञ् [[चा᳓धीतिश्|चा᳓धी᳓तिश्]] च  
++आ᳓कूतञ्+++(=अभिप्रेतम्)+++ चा᳓कूतिश्+++(=अभिप्रायः)+++ च  
++अ᳓धीतञ् चा᳓धीतिश् च  
 वि᳓ज्ञातञ्च विज्ञा᳓नञ् च  
 ना᳓म च क्र᳓तुश्+++(=आकृतिः)+++ च  
 द᳓र्शश् च पूर्ण᳓मासश् च  

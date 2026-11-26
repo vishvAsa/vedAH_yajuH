@@ -46,7 +46,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/079/03_tvaM_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/079/03_tvaM_soma.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -322,6 +323,7 @@ Du, o Soma, reichest Schutzwehr vor den selbsterzeugten Leiden, Vor den anderwä
 <details><summary>शिव शंकर शर्मा - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे इन्द्र=परमेश्वर ! तव+इत्=तवैव। आशसा=आशया। अहम्। हस्ते। दात्रं+चन=लवणसाधनं दात्रमपि। आददे=गृह्णामि। हे मघवन् ! दिनस्य वा संभृतस्य वा यवस्य कासिना मुष्टिना। पूर्धि=पूरय ॥१०॥
+</details>
 </details>
 </div>
 
@@ -664,7 +666,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/13_somo_jigAti.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/062/13_somo_jigAti.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -909,6 +912,7 @@ Der Soma geht, des Wegs bewusst, zum Ort der Götter dringt er hin, Zu sitzen au
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जे विद्वान अनेक प्रकारचे स्वरूप असलेल्या संसाराचे अव्यक्त कारण जाणतात व संसार निर्माण करणाऱ्या परमात्म्याची प्रशंसा करतात, तेच ऐश्वर्ययुक्त होतात. ॥ १३ ॥
+</details>
 </details>
 </div>
 

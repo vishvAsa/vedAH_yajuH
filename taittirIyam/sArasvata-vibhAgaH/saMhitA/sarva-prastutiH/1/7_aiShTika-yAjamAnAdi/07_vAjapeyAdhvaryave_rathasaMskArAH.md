@@ -29,18 +29,13 @@ title = "०७ वाजपेयाध्वर्यवे रथसंस्
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 दे᳓व सवितᳶ प्र᳓सुव, यज्ञ᳓म् प्र᳓सुव,  
 यज्ञ᳓पतिम् भ᳓गाय, दिव्यो᳓ गन्धर्वः᳓ +++(यो ऽसि)+++।  
 केत+++(=ज्ञान)+++-पूᳵ᳓ के᳓तन् नᳶ पुनातु  
 वाच᳓स्प᳓तिर् वा᳓चम्, +++(यो)+++ अद्य᳓ स्वदाति+++(←स्वद्)+++ नः  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/02_deva_savitapH.md">
 
@@ -239,18 +234,13 @@ ______________
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/03_vAjasya_nu.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्य नु᳓ प्रसवे᳓ - मात᳓रम् मही᳓म्  
 अ᳓दितिन् **ना᳓म** व᳓चसा **करामहे** ।   
 य᳓स्याम् इदव्ँ᳓ वि᳓श्वम् भु᳓वनम् आविवे᳓श,  
 त᳓स्यान् नो देव᳓स् सविता᳓ +++(रथस्य)+++ ध᳓र्म साविषत्+++(←षू प्रसवे)+++  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/18/30_vAjasya_nu.md">
 
@@ -387,52 +377,39 @@ into whom this whole world has entered, upon her may the god Savitṛ impel our 
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-चात्वालस्य दक्षिण-भागे धूगृहीतं रथम् आवर्तयेत् ।
-
-पाठस् तु - ' वाजस्य नु प्रसवे मातरं महीमदिति नाम वचसा करामहे । यस्याम् इदं विश्वं भुवनम् आविवेश तस्यां नो देवः सविता धर्म साविषक्' इति ।
-
-हे अन्तर्वेदे, 'वाजस्य अन्नस्य प्रसवे नु अनुज्ञायाम् एव वर्तमाना वयं 'मातरं जगतो निर्मात्रीं महीं महनीयाम् 'अदितिम् अदीनाम् अखण्डितां वा भूमिं 'नाम प्रसिद्धं यथा भवति तथा वचसा मन्त्रेण 'करामदे स्तुम इत्य् अर्थः । 'यस्यां भूमौ 'इदं विश्वं सर्वं भुवनं भूत-जातम् 'आविवेश तस्यां भूमावेव नः अस्माकं 'धर्म धारणम् अवस्थानं 'सविता 'देव: 'साविषक् ।
-
-पू प्रसव इति धातोर्णिचि कृते सत्य् एतद् रूपम् ।
-
+चात्वालस्य दक्षिण-भागे [[धूगृहीतं|धूर्-गृहीतं]] रथम् आवर्तयेत् ।  
+पाठस् तु - 'वाजस्य नु प्रसवे मातरं [[महीमदिति|महीम् अदितिं]] नाम वचसा करामहे । यस्याम् इदं विश्वं भुवनम् आविवेश तस्यां नो देवः सविता धर्म साविषक्' इति ।  
+हे अन्तर्-वेदे, 'वाजस्य अन्नस्य प्रसवे नु अनुज्ञायाम् एव वर्तमाना वयं 'मातरं जगतो निर्मात्रीं महीं महनीयाम् 'अदितिम् अदीनाम् अखण्डितां वा भूमिं 'नाम प्रसिद्धं यथा भवति तथा वचसा मन्त्रेण '[[करामदे|करामहे]] स्तुम इत्य् अर्थः ।  
+'यस्यां भूमौ 'इदं विश्वं सर्वं भुवनं भूत-जातम् 'आविवेश तस्यां भूमाव् एव नः अस्माकं 'धर्म धारणम् अवस्थानं 'सविता 'देवः 'साविषक् ।  
+[[पू|षू]] प्रसव इति धातोर् णिचि कृते सत्य् एतद् रूपम् ।  
 प्रसवम् अनुज्ञां करोतु ॥१॥
 
 अथ विंशो ऽध्यायः ।
 
-यस्य निःश्वसितं वेदा यो वेदेभ्यो ऽखिलं जगत् ।
-
-निर्ममे तम् अहं वन्दे विद्या-तीर्थ-महेश्वरम् ॥
-
-एकोन-विंशे ऽध्याये वसोर्धारादि-होम-मन्त्रा उक्ताः ।
-
+यस्य निःश्वसितं वेदा यो वेदेभ्यो ऽखिलं जगत् ।  
+निर्ममे तम् अहं वन्दे विद्या-तीर्थ-महेश्वरम् ॥  
+एकोन-विंशे ऽध्याये वसोर्-धारादि-होम-मन्त्रा उक्ताः ।  
 अथ विंशे ऽध्याये वाज-प्रसवीयादि-मन्त्रा उच्यन्ते ॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-या माता जगतो निर्मात्री तां मातरं महीं महनीयां पृथिवीं त्वां वचसा वेद-वाक्येन मन्त्रेण अदिति नाम प्रसिद्धम् ।
-
-दो अवखण्डने ।
-
-अखण्डिताम् एव ।
-
-अदीनां नाम अनुकूलां तामेव करामहे ।
-
-"यस्यां पथिव्याम् इदं विश्वं भुवनं सर्वं भूत-जातम् आविवेश प्रविष्टं, तस्यां पृथिव्यामेत्र 'नः अस्माकं देवः सविता धर्म धारणम् अवस्थानं साविषत् । षू प्रसवे । सूते । निचक्षतेर्लि - ( १ ले ) टि साविषदिति रूपम् । प्रसवम् अनुज्ञां करोतु ॥१॥
-देवीरापो अपां न पाद्यो व ऊर्मिः प्रतूर्तिः ।
-
-' वाजस्य नु प्रसवे ' इति ।
-
-सर्वस्याध्यायस्य विवस्वान् ऋषिः ।
-
-तत्र प्रतिकर्मानुसारेण ब्राह्मणानुसारेण च ऋषयो वेदितव्याः ।
-
-अत्र विशेषतः सप्तर्षीणाम् आर्ष ' वाजस्य ' इति ।
-
-जगत्य्-अतिजयती वा पृथिवी देवत्या ।
-
-चतुर्थ-पादः सावित्रः ।
-
+या माता जगतो निर्मात्री तां मातरं महीं महनीयां पृथिवीं त्वां वचसा वेद-वाक्येन मन्त्रेण [[अदिति|अदितिं]] नाम प्रसिद्धम् ।  
+दो अवखण्डने ।  
+अखण्डिताम् एव ।  
+अदीनां नाम अनुकूलां ताम् एव करामहे ।  
+"यस्यां [[पथिव्याम्|पृथिव्याम्]] इदं विश्वं भुवनं सर्वं भूत-जातम् आविवेश प्रविष्टं, तस्यां [[पृथिव्यामेत्र|पृथिव्याम् एव]] 'नः अस्माकं देवः सविता धर्म धारणम् अवस्थानं साविषत् ।  
+षू प्रसवे ।  
+सूते ।  
+निचक्षतेर्लि - ( १ ले ) टि साविषद् इति रूपम् ।  
+प्रसवम् अनुज्ञां करोतु ॥ १ ॥  
+देवीर् आपो अपां नपाद् यो व ऊर्मिः प्रतूर्तिः ।  
+' वाजस्य नु प्रसवे ' इति ।  
+सर्वस्याध्यायस्य विवस्वान् ऋषिः ।  
+तत्र प्रति-कर्मानुसारेण ब्राह्मणानुसारेण च ऋषयो वेदितव्याः ।  
+अत्र विशेषतः सप्तर्षीणाम् [[आर्ष|आर्षं]] ' वाजस्य ' इति ।  
+जगत्य् [[अतिजयती|अतिजगती]] वा पृथिवी-देवत्या ।  
+चतुर्थ-पादः सावित्रः ।  
 व्याख्यातः ॥ १ ॥
 </details>
 
@@ -509,17 +486,12 @@ into whom this whole world has entered, upon her may the god Savitṛ impel our 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/04_aphsv_antar.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अप्स्व् अ᳙न्तर् अमृ᳓तम्, अप्सु᳓ भेषज᳓म्,  
 अपा᳓म् उत᳓ प्र᳓शस्तिषु᳓ … ।  
 अ᳓श्वा! भवथ वाजिनः!  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/09/14_apsvantar_amRtam_apsu.md">
 
@@ -607,27 +579,15 @@ be horses, O prize-winners!
 
 <details><summary>उवट-टीका</summary>
 
-अश्वानद्भिरभ्युक्षति।
-
-अप्स्वन्तः।
-
-अनवसाना पुरौष्णिकश्वदेवत्या।
-
-अप्सु अन्तरवस्थितममृतमप्सु च भेषजम्।
-
-तत्र हे अश्वाः, यूयं भवत वाजिनः।
-
-वाज इत्यन्ननाम तद् येषु विद्यते ते वाजिनः।
-
-अन्नवन्तो यूयं तत्र भवतेत्यर्थः।
-
-अपामुत प्रशस्तिषु।
-
-उत अपिच अपां प्रशस्तिषु प्रशस्तेषु पवित्रेषु भागेषु भवतेत्यनुषज्यते।
-
-द्वितीयः प्रोक्षणमन्त्रः।
-
-देवीरापः।
+अश्वान् अद्भिर् अभ्युक्षति। अप्स्व् अन्तः। अनवसाना [[पुरौष्णिकश्वदेवत्या|पुरौष्णिग्-अश्व-देवत्या]]।  
+अप्सु अन्तर्-अवस्थितम् अमृतम् अप्सु च भेषजम्।  
+तत्र हे अश्वाः, यूयं भवत वाजिनः।  
+वाज इत्य् अन्न-नाम तद् येषु विद्यते ते वाजिनः।  
+अन्नवन्तो यूयं तत्र भवतेत्य् अर्थः।  
+अपाम् उत प्रशस्तिषु।  
+उत अपि च अपां प्रशस्तिषु प्रशस्तेषु पवित्रेषु भागेषु भवतेत्य् अनुषज्यते।  
+द्वितीयः प्रोक्षण-मन्त्रः।  
+देवीर् आपः।
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -668,18 +628,13 @@ be horses, O prize-winners!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वायु᳓र् वा त्वा, म᳓नुर् वा त्वा,  
 गन्धर्वा᳓स् सप्त᳓-विँशतिः +++(खे नक्षत्राणि)+++।  
 ते᳓ अ᳓ग्रे +++(सौरम्)+++ अ᳓श्वम् आयुञ्जन्  
 ते᳓ अस्मिञ् जव᳓म् आ᳓दधुः  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/05_vAyur_vA.md">
 
@@ -799,21 +754,14 @@ they first harnessed the horse; they placed speed in him.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(अश्व!)+++ अ᳓पान्नपाद्! आशुहेमन्!  य᳓ ऊर्मिᳵ᳓ ...   
 ककु᳓द्मान्, प्र᳓तूर्तिर्, वाजसा᳓तमः ।  
 ते᳓नायव्ँ᳓ वा᳓जँ सेत्+++(←सिध्)+++  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/06_apAnnapAd_Ashuheman.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Child of the waters, swift one,  
@@ -839,8 +787,6 @@ with it may he win the prize.
 अश्व आमन्त्र्यते - हे **अपान्नपात्** अपां नप्तश्चतुर्थः । यथा - 'अद्भ्यः पृथिवी पृथिव्या ओषधयः ओषधीभ्योन्नमन्नादश्वः' इति । हे आशुहेमन् आशुगन्तः । हि गतौ, 'अन्येभ्योपि दृश्यते' इति मनिन् । 'सुबामन्त्रिते' इति पराङ्गवद्भावात् षष्ठ्यामन्त्रितसस्मुदायस्य षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । तस्य 'नामन्त्रिते समानाधिकरणे' इत्यविद्यमानत्त्वनिषेधात्परं न निहन्यते । ऊर्मिश्छादयिता अरणशीलो वा यस्तरङ्गः ककुद्मान् प्रधानभूतः ककुत्सम्बन्धी वा प्रतूर्तिः त्वयि प्रतीर्णः त्वामभिगतः । नसत्तनिषत्तादौ निष्ठायां निपातितं निष्ठावद्भावात्क्तिनोपि भवति, 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् । वाजसातमः अन्नस्य सम्भक्तृतमः दातृतमः । 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् । तेन तादृशेनायं वाजमन्नं **सेत्** साधय यजमानस्य हे अश्व । लिङ्लेटोरन्यतरः, विकरणस्य लुक् । यद्वा - अयं यजमानः तेन त्वदीयेन वाजं सेत्साधयतु बध्नातु वा । षिञ् बन्धने ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -952,18 +898,13 @@ thou art the stride of Visnu.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अङ्कौ᳓+++(=लक्षणभूतौ)+++ न्यङ्का᳓व्+++(←नि+अञ्च्)+++ अभि᳓तो र᳓थय्ँ यौ᳓ +++(चक्रौ‌/ पक्षौ)+++   
 ध्वान्तव्ँ᳓+++(←ध्वन्)+++ वाताग्र᳓म् अ᳓नु सञ्च᳓रन्तौ ।  
 दूरे᳓-हेतिर् इन्द्रिया᳓वान् पतत्री᳓   
 ते᳓ नो ऽग्न᳓यᳶ प᳓प्रयᳶ पारयन्तु ॥ [33]
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/07_vAjapeyAdhvaryave_rathasaMskArAH/07_ankau_nyankAv.md">
 

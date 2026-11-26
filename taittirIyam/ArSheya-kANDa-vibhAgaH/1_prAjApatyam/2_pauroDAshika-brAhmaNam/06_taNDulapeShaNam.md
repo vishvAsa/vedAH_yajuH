@@ -14,6 +14,8 @@ unicode_script = "devanagari"
 र᳓क्षसाम् अ᳓पहत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 "अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
@@ -29,11 +31,14 @@ unicode_script = "devanagari"
 
 प्रत्युष्टमितिवद्व्याचष्टे –”अवधूतँ रक्षोऽवधूर्तां अरातय इत्याह। रक्षसामपहत्यै” (ब्रा. का. ३ प्र. २ अ. ५) इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अ᳓दित्यास् त्व᳓ग् असी᳓"त्य् आह।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -49,15 +54,19 @@ unicode_script = "devanagari"
 
 मन्त्रस्योक्तार्थपरत्वं दर्शयति — “अदित्यास्त्वगसीत्याह। इयं वा अदितिः अस्या एवैनत्त्वचं करोति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयव्ँ᳓ वा᳓ अ᳓दितिः ॥39॥
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 इ॒यव्ँ वा अदि॑तिः ॥39॥
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -65,9 +74,12 @@ unicode_script = "devanagari"
 अस्या᳓ एवै᳓नत् त्व᳓चङ् करोति ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 अ॒स्या ए॒वैन॒त्त्वच॑ङ्करोति ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -75,24 +87,11 @@ unicode_script = "devanagari"
 प्र᳓ति त्वा पृथिवी᳓ वेत्त्वि᳓त्याह प्र᳓तिष्ठित्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>मूलम्</summary>
 
 प्रति॑ त्वा पृथि॒वी वे॒त्त्वित्या॑ह॒ प्रति॑ष्ठित्यै ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-प्रति त्वा पृथिवी वेत्त्वित्याह प्रतिष्ठित्यै” (ब्रा. का. ३ प्र. २ अ. ५) इति।
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-पुर᳓स्तात् प्रतीची᳓न-ग्रीवम् उ᳓त्तर-लोमो᳓पस्तृणाति मेध्यत्वा᳓य ।
-</details>
-
-<details><summary>मूलम्</summary>
-
-पु॒रस्ता॑त्प्रती॒चीन॑ग्रीव॒मुत्त॑रलो॒मोप॑स्तृणाति मेध्य॒त्वाय॑ ।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -102,13 +101,34 @@ unicode_script = "devanagari"
 
 <details><summary>सायण-टीका</summary>
 
+प्रति त्वा पृथिवी वेत्त्वित्याह प्रतिष्ठित्यै” (ब्रा. का. ३ प्र. २ अ. ५) इति।
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुर᳓स्तात् प्रतीची᳓न-ग्रीवम् उ᳓त्तर-लोमो᳓पस्तृणाति मेध्यत्वा᳓य ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+पु॒रस्ता॑त्प्रती॒चीन॑ग्रीव॒मुत्त॑रलो॒मोप॑स्तृणाति मेध्य॒त्वाय॑ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
 देशादिगुणविशिष्टमास्तरणं विधत्ते — “पुरस्तात्प्रतीचीनग्रीवमुत्तरलोमोपस्तृणति मेध्यत्वाय।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓स्मात् पुर᳓स्तात् प्रत्य᳓ञ्चᳶ पश᳓वो मे᳓धम् उ᳓पतिष्ठन्ते ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -130,12 +150,15 @@ unicode_script = "devanagari"
 
 तस्मात्पुरतात्प्रत्यञ्चः पशवो मेधमुपतिष्ठन्ते।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(5)+++  
 त᳓स्मात् +++(उपस्थानात्??)+++ प्रजा᳓ मृग᳓ङ् ग्रा᳓हुकाः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -148,11 +171,14 @@ unicode_script = "devanagari"
 यस्मादाहवनीयस्य पूर्वभागे कृष्णाजिनं पश्चिमशिरस्कमूर्ध्वलोमकमास्तृतं तस्मात्तादृशा एव सन्तो यूपे बद्धाः पशवो यज्ञं सेवन्ते।  
 यस्मादयं पशुभिः सेव्यो यज्ञस्तस्मादेव प्रत्यवायभयरहिताः सत्यः प्रजा यज्ञार्थं मृगग्रहणशीला भवन्ति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यज्ञो᳓ देवे᳓भ्यो नि᳓लायत कृ᳓ष्णो रूप᳓ङ् कृत्वा᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
 
@@ -167,6 +193,7 @@ unicode_script = "devanagari"
 <details><summary>सायण-टीका</summary>
 
 कृष्णाजिनस्याऽऽदरे हेतुं ब्रुवंस्तद्विशिष्टमवघातं विधत्ते — “यज्ञो देवेभ्यो निलायत। कृष्णो रूपं कृत्वा।
+</details>
 </details>
 </div>
 
@@ -364,6 +391,8 @@ unicode_script = "devanagari"
 "देव᳓स्य त्वा सवितुᳶ᳓ प्रसव᳓" इ᳓त्याह प्र᳓सूत्यै ।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 'On the impulse of the god Savitr thee', he says, for impelling.
@@ -384,8 +413,9 @@ ________________________________________________________________________________
 
 अत्रानाम्नातमप्यनेनैवाभिप्रायेण व्याचष्टे – “देवस्य त्वा सवितुः प्रसव इत्याह प्रसूत्यै।" 
 </details>
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -451,6 +481,7 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
+
 </div>
 </div>
 

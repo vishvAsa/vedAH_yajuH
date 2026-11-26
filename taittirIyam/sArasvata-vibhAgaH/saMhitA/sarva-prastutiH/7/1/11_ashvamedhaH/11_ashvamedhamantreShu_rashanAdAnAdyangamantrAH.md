@@ -109,7 +109,8 @@ I take thee with the arms of the Aśvins, with the hands of Pusan.
 </details>
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<div class="js_include collapsed" newlevelforh1="3" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/22/02_imAmagRbhNan_rashanAmRtasya.md">
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Griffith</summary>
 
 This girdle, which in their religious meetings sages assumed in earlier time of worship, Is present with us here at this libation, in the Law's hymn, proclaiming rich abundance.
@@ -152,28 +153,15 @@ In the Saman of order declaring the stream.
 </details>
 <details><summary>उवट-टीका</summary>
 
-इमामगृभ्णन्।
-
-त्रिष्टुब्रशनादेवत्या।
-
-यामिमामगृभ्णन्नगृह्णन् गृहीतवन्तः रशनां दर्भमयीमृतस्य यज्ञस्य पूर्वे प्रथमे आयुषि।
-
-यज्ञारम्भे इत्यर्थः।
-
-के रशनामगृह्णन्नित्यत आह।
-
-विदथेषु कव्या यज्ञेषु कवयः।
-
-विश्वस्रष्टारो वा आद्ये सर्गे प्रजापतिप्रभृतयः।
-
-एते हि सृष्टिं यज्ञादसृजन्त।
-
-सा रशना नः अस्माकमस्मिन्सुते यज्ञे आबभूव आभूता उत्पन्ना।
-
-ऋतस्य सामन् संमनने यज्ञप्रारम्भे।
-
-सरं यज्ञप्रसरम्।
-
+इमाम् अगृभ्णन्।  
+त्रिष्टुब् रशना-देवत्या।  
+याम् इमाम् अगृभ्णन्न् अगृह्णन् गृहीतवन्तः रशनां दर्भमयीम् ऋतस्य यज्ञस्य पूर्वे प्रथमे आयुषि।  
+यज्ञारम्भे इत्य् अर्थः। के रशनाम् अगृह्णन्न् इत्य् अत आह। विदथेषु कव्या यज्ञेषु कवयः।  
+विश्व-स्रष्टारो वा आद्ये सर्गे प्रजापति-प्रभृतयः।  
+एते हि सृष्टिं यज्ञाद् असृजन्त।  
+सा रशना नः अस्माकम् अस्मिन् सुते यज्ञे आबभूव आभूता उत्पन्ना।  
+ऋतस्य सामन् संमनने यज्ञ-प्रारम्भे।  
+सरं यज्ञ-प्रसरम्।  
 आरपन्ती शब्दायमाना॥२॥
 </details>
 <details><summary>महीधर-टीका</summary>
@@ -211,6 +199,7 @@ In the Saman of order declaring the stream.
 - निचृत्त्रिष्टुप्
 - धैवतः
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -221,12 +210,11 @@ In the Saman of order declaring the stream.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/7/1/11_ashvamedhaH/11_ashvamedhamantreShu_rashanAdAnAdyangamantrAH/04_abhidhA_asi_bhuvanam.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 अभिधा᳓ असि भु᳓वनम् असि यन्ता᳓सि धर्ता᳓सि ।
 सो᳓ ऽग्निव्ँ᳓ वैश्वानरँ᳓ सप्र᳓थसङ् गच्छ स्वा᳓हाकृतः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/7/1/11_ashvamedhaH/11_ashvamedhamantreShu_rashanAdAnAdyangamantrAH/04_abhidhA_asi_bhuvanam.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -290,7 +278,9 @@ As such, made svāhā, go to Agni Vaiśvānara, far-extended!
 स त्वं वैश्वानरं विश्वेषां नराणां स्वामित्वेन संबन्धिनं सप्रथसं प्रथसा विस्तरेण सहितं विश्वव्यापिनं अग्निं गच्छ । 'इयं वा अग्निर्वैश्वानरः' । स्वाहाकृतः स्वाहाकारेण संस्कृतः स्वाहाकारोच्चारणेन संस्कृतः । ब्राह्मणं च 'स्वाहाकृत इत्याह । होम एवास्यैषः ।' इति । स्वाहाशब्दस्योर्यादित्वेन गतित्वात् 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । निपाता आद्युदात्ताः ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथिव्याय्ँ᳓ यन्ता᳓ रा᳓ट्+++(=दीप्यमानः)+++ ।
 </details>

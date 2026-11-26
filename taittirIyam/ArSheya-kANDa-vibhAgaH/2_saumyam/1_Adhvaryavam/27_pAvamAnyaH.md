@@ -25,7 +25,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 पव॑मान॒स् सुव॒र्जनः॑ ।  
@@ -97,6 +98,7 @@ who is the purifier, let him purify me!
 Being purified, winning the sun, all-seeing with the strainer,  
 he who is the purifier, may he purify me!
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
@@ -111,7 +113,8 @@ he who is the purifier, may he purify me!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पु॒नन्तु॑ मा देवज॒नाः ।  
@@ -126,6 +129,7 @@ he who is the purifier, may he purify me!
 2 द्वितीया - गायत्री ॥ **पुनन्तु मा देवजनाः** देवा एव ये जनाः पुनन्तु च  
 मां **मनवः** स्वायंभुवादयः **धिया** प्रज्ञया कर्मणा वा बुद्धिविशेषैः कर्मविशेषैर्वा । **मां पुनन्तु** ।  
 **विश्वे च आयवः** मनुष्या मां पुनन्तु ॥
+</details>
 </details>
 </div>
 
@@ -142,7 +146,8 @@ he who is the purifier, may he purify me!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 जात॑वेदᳶ प॒वित्र॑वत् ।  
@@ -156,6 +161,7 @@ he who is the purifier, may he purify me!
 3 तृतीया - अनुष्टुप् ॥ हे **जातवेदः**! जातानां वेदितः! **पवित्रवत्** पवित्रार्हं यथा पवित्राणि शोधयितुम् अर्हन्ति । 'तदर्हम्'इति वतिः । तद्-अनुरूपं **मां पुनाहि** पुनीहि । ईत्वाभावश्छान्दसः ।  **पवित्रेण** दर्शनादिना पुनीहि।  
 
 हे **देव**! देवनशील! **शुक्रेण** निर्मलेन तेजसा **दीद्यत्** दीप्यमानस्त्वम् । दीद्यतेः दीप्तिकर्मणः शतरि 'अ य स्तानामादिः'इत्याद्युदात्तत्वम्, छान्दसमेवाभ्यस्तत्वम्, कृतद्विर्वचनोऽयं द्रष्टव्यः । हे **अग्ने**! त्वं दीद्यत् [केन कान् दीद्यत्] इत्याह - **क्रतून्** आस्माकीनानि कर्माणि प्रज्ञाभेदान्वा **अनु** लक्षीकृत्य । 'दीर्घादटि'इति रुत्वम् । **क्रत्वा** क्रतुना प्रज्ञया कर्मविशेषेण वा दीद्यत् त्वं मां पुनीहीति । 'जसादिषु वा वचनम्'इति नाभावाभावः ॥
+</details>
 </details>
 </div>
 
@@ -171,7 +177,8 @@ he who is the purifier, may he purify me!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/23_yatte_pavitramarchiShyagne.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/23_yatte_pavitramarchiShyagne.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -373,7 +380,7 @@ The filter that is stretched out here within your flame, o Agni,
 and the sacred formulation—with that purify us.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -431,6 +438,7 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 
 पदार्थान्वयभाषाः -  (अग्ने) ज्ञानस्वरूप जगन्नियन्तः ! (यत्) यानि (ते अन्तः) त्वयि (पवित्रम्) शुद्धानि (आविततम्) विस्तृतानि (अर्चिषि) ज्योतींषि (तेन) तैः (ब्रह्म) हे परमेश्वर ! (नः) अस्मान् (पुनीहि) पवित्रय ॥२३॥
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
@@ -445,7 +453,8 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 उ॒भाभ्या॑न् देव सवितः ।  
@@ -458,6 +467,7 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 <details><summary>भट्टभास्कर-टीका</summary>
 
 5 अथ पञ्चमी - उभाभ्यामिति गायत्री ॥ हे देव! सवितः! सर्वस्य प्रेरक! यश्च सवः अनुज्ञा प्रेरणं वा ताभ्यां इदं ब्रह्म पुनीमहे । गतम् ॥
+</details>
 </details>
 </div>
 
@@ -474,7 +484,8 @@ Mit dem Gebet, dem Läutrungsnetz, was, Agni, durch dein Licht hindurch Gespannt
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/44_vaishvadevI_punatI.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/19/44_vaishvadevI_punatI.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Griffith</summary>
 
 Dear to all Gods hath come the cleansing Goddess, she who contains these many smooth-backed figures. Through her may we in sacrificial banquets taking our pleasure be the lords of riches.
@@ -568,26 +579,16 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 <details><summary>उवट-टीका</summary>
 
-वैश्वदेवी त्रिष्टुपनिर्ज्ञाताभिधेया प्रवह्लिकेव ।
-
-तत्र कांचिद्देवतामङ्गीकृत्य व्याचक्ष्महे।
-
-शतातृण्णाकुम्भी दक्षिणस्याग्नेरुपरिष्टात्क्षरति।
-
-सा चाभिधेया सौत्रामणीवा वाग्वा उखा वेत्यादि।
-
-विश्वेभ्यो देवेभ्यः आगता हिता वा वैश्वदेवी सुराकुम्भी।
-
-पुनती पावनं कुर्वाणा आगातागता।
-
-यस्यामिमाः बह्व्यः धाराः तन्वः पुरः वीतपृष्ठाः कामितशरीराः।
-
-क्राम्यन्ते हि सुराधाराः।
-
-तया मदन्तः तया सह मोदमानाः।
-
-सधमादेषु ‘सधमादस्थयोश्छन्दसि’ इति सहस्य सधादेशः।
-
+वैश्वदेवी त्रिष्टुप् अनिर्ज्ञाताभिधेया प्रवह्लिकेव।  
+तत्र कांचिद् देवताम् अङ्गीकृत्य व्याचक्ष्महे।  
+शतातृण्णा-कुम्भी दक्षिणस्याग्नेर् उपरिष्टात् क्षरति।  
+सा चाभिधेया सौत्रामणी वा वाग् वा उखा वेत्य् आदि।  
+विश्वेभ्यो देवेभ्यः आगता हिता वा वैश्वदेवी सुरा-कुम्भी।  
+पुनती पावनं कुर्वाणा आगात् आगता।  
+यस्याम् इमाः बह्व्यः धाराः तन्वः वीत-पृष्ठाः कामित-शरीराः।  
+क्राम्यन्ते हि सुरा-धाराः।  
+तया मदन्तः तया सह मोदमानाः।  
+सध-मादेषु ‘सधमादस्थयोश् छन्दसि’ इति सहस्य सधादेशः।  
 सह मदनेषु वयं स्याम पतयः रयीणां धनानाम्॥ ४४॥
 </details>
 
@@ -622,32 +623,22 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-॥
-
-वैश्वदेवी विश्वेदेव देवत्या सुराकुम्भी, पुनती पावनं कुर्वाणा, देवी द्योतमाना, आगात् आगता ।
-
-यस्यां सुराकुम्भ्याम् इमाः परिदृश्यमानास् तन्वो विस्तृताः, वीत-पृष्ठाः 'बहिर्-गतापर-भागाः, निरन्तरा धारा इत्य् अर्थः ।
-
-बह्वयः सन्ति ।
-
+॥  
+वैश्वदेवी विश्वेदेव देवत्या सुरा-कुम्भी, पुनती पावनं कुर्वाणा, देवी द्योतमाना, आगात् आगता ।  
+यस्यां सुरा-कुम्भ्याम् इमाः परिदृश्यमानास् तन्वो विस्तृताः, वीत-पृष्ठाः [['बहिर्-गतापर-भागाः|बहिर्-गतापर-भागाः]], निरन्तरा धारा इत्य् अर्थः ।  
+[[बह्वयः|बह्व्यः]] सन्ति ।  
 तया कुम्भ्या सधमादेषु सहर्ष-प्राप्य-स्थानेषु, मदन्तो मोदमानाः, वयं रयीणां धनानां पतयः स्याम ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-' वैश्वदेवी ' इति ।
-
-वैश्वदेवी त्रिष्टुप् ।
-
-वैश्वदेवी विश्वेदेव देवत्या सुरा-कुम्भी पुनती पावनं कुर्वाणा देवी देवता 'आ 'अगात् आगता ।
-
-'यस्यां, देव्यः 'इमा: 'बह्वयः तन्व: 'बहूनि शरीराणि वीत-पृष्ठाः काम-प्राप्त-तन्वः सन्ति ।
-
-यद् वा - यस्याम् इमाः तन्वः विस्तृताः वीत-पृष्ठाः विगता पर-भागाः निरन्तर-धाराः बह्वयः सन्ति ।
-
-तया सुराकुम्भ्या देव्या 'मद्-अन्तः
-पतयः स्याम भवेम ॥ ४६ ॥
-१. मोदमानाः 'सधमादेषु सहहर्ष-स्थानेषु वयं रयीणां धनानां
+' वैश्वदेवी ' इति ।  
+वैश्वदेवी त्रिष्टुप् ।  
+वैश्वदेवी विश्वेदेव-देवत्या सुरा-कुम्भी पुनती पावनं कुर्वाणा देवी देवता 'आ 'अगात् आगता ।  
+'यस्यां, देव्यः 'इमाः '[[बह्वयः|बह्व्यः]] तन्वः 'बहूनि शरीराणि वीत-पृष्ठाः काम-प्राप्त-तन्वः सन्ति ।  
+यद् वा - यस्याम् इमाः तन्वः विस्तृताः वीत-पृष्ठाः विगता पर-भागाः निरन्तर-धाराः [[बह्वयः|बह्व्यः]] सन्ति ।  
+तया सुरा-कुम्भ्या देव्या 'मद्-अन्तः पतयः स्याम भवेम ॥ ४६ ॥  
+१. मोदमानाः 'सध-मादेषु सह-हर्ष-स्थानेषु वयं रयीणां धनानां
 </details>
 
 <details><summary>अनन्ताचार्य-टीका</summary>
@@ -742,6 +733,7 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 भावार्थभाषाः -  राजाने सर्व मुलींना शिकविण्यासाठी पूर्ण विदुषी स्रियांना नियुक्त करून सर्व मुलींना पूर्ण विद्यायुक्त व सुशिक्षित करावे, तसे मुलांनाही करावे. जेव्हा त्यांना पूर्ण युवावस्था प्राप्त होईल तेव्हाच त्यांनी स्वयंवर विवाह करावा. याप्रमाणे सदैव राज्याची वृद्धी करावी.
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
@@ -757,7 +749,8 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 वै॒श्वा॒न॒रो र॒श्मिभि॑र् मा पुनातु ।   
@@ -776,6 +769,7 @@ rejoicing with her in joint revels, may we be masters of riches!
 किञ्च -  
 **द्यावापृथिवी** द्याव्यापृथिव्याव् अपि मां पुनीतां शोधयता, कीदृश्यौ, **पयसा** उदकेन **पयोभिर्** अन्यैश्च हेतुभिः **ऋतावरी** ऋतं यज्ञः सत्यं वा तद्वत्यौ । 'छन्दसीवनिपौ'इति वनिप्, 'वनोरच'इति ङीब्रेफौ । **यज्ञिये** यज्ञसंपादिन्यौ यज्ञार्हे । 'यज्ञर्त्विग्भ्याम्'इति घः । यद्वा - यज्ञिये कर्मणि वर्तमानं पुनीताम् ॥
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
@@ -790,7 +784,8 @@ rejoicing with her in joint revels, may we be masters of riches!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 बृ॒हद्भि॑स् सवित॒स् तृभिः॑ ।   
@@ -828,6 +823,7 @@ rejoicing with her in joint revels, may we be masters of riches!
 With the three great, highest thoughts, O god Savitar,  
 O Agni, with skills we purify ourselves.
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
@@ -843,7 +839,8 @@ O Agni, with skills we purify ourselves.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वा अपु॑नत ।   
@@ -858,6 +855,7 @@ O Agni, with skills we purify ourselves.
 
 9 अथ नवमी - येन देवा इत्यनुष्टुप् ॥  
 **येन देवा** आत्मानं **अपुनत** अशोधयत् **येन** च **दिव्यं** अप्राकृतं **कशः** गति-स्वभावः - कशेर् गतिकर्मणो ऽसुन् । तादृशीं गतिं आपो ऽपुनत, **तेन दिव्येन** दिवि भवेन **ब्रह्मणा** परिबृढेन पवित्रेण रूपेण **इदं ब्रह्म पुनीमहे** ॥
+</details>
 </details>
 </div>
 
@@ -874,7 +872,8 @@ O Agni, with skills we purify ourselves.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/31_yaH_pAvamAnIradhyetyRShibhiH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/31_yaH_pAvamAnIradhyetyRShibhiH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पावमान्यध्येतृस्तुतिः
@@ -1083,7 +1082,7 @@ that one eats the whole purified (sap), sweetened by Mātariśvan.
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details><summary><h2>31-32 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1141,6 +1140,7 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 
 पदार्थान्वयभाषाः -  (यः) योजनः (पावमानीः) परमेश्वरस्तुतिरूपा ऋचः (अध्येति) पठति (सः) स पुरुषः (ऋषिभिः) मन्त्रद्रष्ट्रिभिः (सम्भृतम्) स्पष्टीकृतं (रसम्) ब्रह्मानन्दं (अश्नाति) भुनक्ति “रसो वै सः रसं ह्येवायं लब्ध्वाऽऽनन्दी भवति” इति तै. २।७। अथ च (सर्वम्) सम्पूर्णं (मातरिश्वना स्वदितम्) वायुना स्वादूकृतं (पूतम्) शुद्धं पदार्थमश्नाति ॥३१॥
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
@@ -1156,7 +1156,8 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/32_pAvamAnIryo_adhyetyRShibhiH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/09/067/32_pAvamAnIryo_adhyetyRShibhiH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पावमान्यध्येतृस्तुतिः
@@ -1371,7 +1372,7 @@ Jagatı Hymns: 68–86 ̄
 ᳓
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details><summary><h2>31-32 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1429,6 +1430,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 पदार्थान्वयभाषाः -  (यः) यो जनः (पावमानीः) जगदीश्वरस्तवनरूपा ऋचः (अध्येति) अधीते (तस्मै) तस्मै (ऋषिभिः) मन्त्रदर्शिभिः (सम्भृतम्) सम्पादितं (रसम्) रसं तथा (क्षीरं सर्पिर्मधूदकम्) दुग्धघृतजलानि (सरस्वती) ब्रह्मविद्या (दुहे) दोग्धि ॥३२॥ इति सप्तषष्टितमं सूक्तमष्टादशो वर्गश्च समाप्तः ॥
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
@@ -1444,7 +1446,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ॥49॥  
@@ -1464,6 +1467,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 **हि** यस्माद्-अर्थे; यस्मादेवं एता एतादृश्यः तस्मादेता **ऋषिभिः संभृतो रसः** ।  
 किञ्च – **ब्राह्मणेष्व् अमृतं** अमरण-निमित्तं **हितं** निहितम् । यद्वा - **अमृतम्** अपवर्गः अपवर्गहेतुत्वेन ज्ञानिषु **ब्राह्मणेषु** इदं निहितम् ॥
 </details>
+</details>
 </div>
 
 <div class="js_include collapsed" title="विश्वास-प्रस्तुतिः" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
@@ -1479,7 +1483,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीर् दि॑शन्तु नः ।  
@@ -1494,6 +1499,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 <details><summary>भट्टभास्कर-टीका</summary>
 
 13 अथ त्रयोदशी - पावमनीरित्यनुष्टुप् ॥ पावमानीः पावमान्यः नः अस्मभ्यं दिशन्तु ददतु इमं च लोकं अथो अपि च अमुं च लोकम् । किञ्च - नः अस्माकं कामान् अस्यां अमुष्या च स्थितान् समर्धयन्तु समृद्धान् कुर्वन्तु देवीः देव्यः देवनादिमत्यः देवैः समाभृताः एकत्र समाहृताः । 'हृग्रहोर्भः'॥
+</details>
 </details>
 </div>
 
@@ -1510,7 +1516,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 पा॒व॒मा॒नीस् स्व॒स्त्यय॑नीः ।  
@@ -1522,6 +1529,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 <details><summary>भट्टभास्कर-टीका</summary>
 
 14 अथ चतुर्दशी - पावमानीरित्यनुष्टुबेव ॥ पावमानीरिति गतम् । घृतश्-चुत इति विशेषः - घृतस्योदकस्य क्षारयित्र्यः कर्मसिद्ध्या वृष्टिहेतुत्वात् ॥
+</details>
 </details>
 </div>
 
@@ -1538,7 +1546,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 येन॑ दे॒वाᳶ प॒वित्रे॑ण ।  
@@ -1552,6 +1561,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 <details><summary>भट्टभास्कर-टीका</summary>
 
 15 अथ पञ्चदशी - येनेति त्रिष्टुबेव ॥ देवाः वस्वादयः ऋत्विगादयो वा येन पवित्रेण पवमानेन रूपेण पावमानीनां सम्बन्धिना आत्मानं सदा पुनते तेन सहस्रधारेण बहुप्रकारशोधनेन पवित्रेण आत्मीयेन पावमान्यः एताः ऋचः मा मां पुनन्तु ॥
+</details>
 </details>
 </div>
 
@@ -1568,7 +1578,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 प्रा॒जा॒प॒त्यम् प॒वित्र॑म् ।  
@@ -1583,6 +1594,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 16 अथ षोडशी - प्राजापत्यमित्यनुष्टुबेव ॥  
 **प्राजापत्यं** प्रजापतेः स्वं **पवित्रं** येन स आत्मानं शोधितवान् एता ऋच उच्यन्ते । **शतोद्यामं** बहु-प्रकारोद्धारणं **हिरण्मयं** हिरण्य-परिणामवत् पवमानं अविनाशं वा हरणशीलं वा पापानां **तेन** ब्रह्मणा विदितेन वयं **ब्रह्मविदः** सन्तः **पूतं** शुद्धं सदा यथा भवति तथा **पुनीमहे ब्रह्म** आत्मानं, आत्मीयं वा ब्रह्मवर्चसं, ऋगादिकं वा मन्त्रम् ॥
+</details>
 </details>
 </div>
 
@@ -1599,7 +1611,8 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<div class="js_include collapsed" newlevelforh1="4" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
+<details><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
 
 इन्द्र॑स् सुनी॒ती स॒ह मा॑ पुनातु ।  
@@ -1620,6 +1633,7 @@ Wer die von dem Pavamāna handelnden Verse liesst, die von den Sängern zusammen
 **जातवेदाश्** च **ऊर्जयन्त्या** ऊर्जं हविरात्मकं अन्नं आत्मन इच्छन्त्या विश्वं वा जगदूर्जयन्त्या बल-प्राणन-प्रदानेन धारयन्त्या सह **मा** मां **पुनातु** । 'ऊर्ज बलप्राणनयोः'॥
 
 इति चतुर्थे अष्टमोऽनुवाकः ॥
+</details>
 </details>
 </div>
 

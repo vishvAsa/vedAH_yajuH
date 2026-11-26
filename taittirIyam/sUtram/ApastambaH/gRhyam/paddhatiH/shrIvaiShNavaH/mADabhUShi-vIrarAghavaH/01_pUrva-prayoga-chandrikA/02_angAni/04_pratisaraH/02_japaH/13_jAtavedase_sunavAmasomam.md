@@ -27,7 +27,7 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/099/01_jAtavedase_sunavAma.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -40,7 +40,7 @@ title = "१३ जातवेदसे सुनवामसोमम्"
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/099/01_jAtavedase_sunavAma.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/099/01_jAtavedase_sunavAma.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -309,6 +309,11 @@ Let us press Soma for Gâtavedas 1. May he burn down the property of the niggard
 We press Soma for Fire (Jatavedas); his knowledge burns those, who wish to be our enemies; he makes us across all the difficulties and sins like the crossing of the sea by a boat.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वेदांसि वेदनानि ज्ञानानि तानि जातान्युत्पन्नानि यस्मादग्नेः सोऽयं जातवेदाः, आधानेन संस्कृतेऽग्नौ पश्चात्तदा तदा कर्तव्यविषयाणि ज्ञानान्युत्पद्यन्ते। तस्मै जातवेदसे यागकाले लतात्मकं सोमं सुनवामाभिषुतं करवाम। स्वयं सर्वं वेत्तीति वेदोऽग्निः। स चारातीयतोऽस्मास्वरातित्वं शत्रुत्वमिच्छतः पुरुषान्निदहाति नितरां भस्मी करोति। किंच सोऽग्निर्नोऽस्माकं विश्वा दुर्गाणि सर्वा आपदोऽतिपर्षदतिशयेन नाशितवानित्यर्थः। किंच यथा लोके नावा सिन्धुं सनुद्रं नाविकस्तारयति तथाऽग्निर्दुरितानि पापान्यतिशयेन तारयतीति शेषः।
+</details>
+
 <details><summary>Geldner</summary>
 
 Dem Jatavedas wollen wir Soma pressen; er soll das Besitztum des Mißgünstigen niederbrennen. Er führe uns über alle Schwierigkeiten, Agni über die Fährlichkeiten wie mit dem Schiff über den Strom.
@@ -383,14 +388,6 @@ Dem Wesenkenner lasst uns Soma brauen, des Bösen Reichthum möge er verbrennen,
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-वेदांसि वेदनानि ज्ञानानि तानि जातान्युत्पन्नानि यस्मादग्नेः सोऽयं जातवेदाः, आधानेन संस्कृतेऽग्नौ पश्चात्तदा तदा कर्तव्यविषयाणि ज्ञानान्युत्पद्यन्ते। तस्मै जातवेदसे यागकाले लतात्मकं सोमं सुनवामाभिषुतं करवाम। स्वयं सर्वं वेत्तीति वेदोऽग्निः। स चारातीयतोऽस्मास्वरातित्वं शत्रुत्वमिच्छतः पुरुषान्निदहाति नितरां भस्मी करोति। किंच सोऽग्निर्नोऽस्माकं विश्वा दुर्गाणि सर्वा आपदोऽतिपर्षदतिशयेन नाशितवानित्यर्थः। किंच यथा लोके नावा सिन्धुं सनुद्रं नाविकस्तारयति तथाऽग्निर्दुरितानि पापान्यतिशयेन तारयतीति शेषः।
-</details>
-</details>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -404,21 +401,20 @@ Dem Wesenkenner lasst uns Soma brauen, des Bösen Reichthum möge er verbrennen,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-ता᳓म् अग्नि᳓वर्णां त᳓पसा [[ज्वलन्तीं᳓|ज्व᳓लन्तीं]]  
+ता᳓म् अग्नि᳓वर्णां त᳓पसा ज्व᳓लन्तीं  
 वैरोचनीं᳓ कर्मफले᳓षु जु᳓ष्टाम्।  
-दुर्गां᳓ देवीँ᳓ [[श᳓रणम्|शरण᳓म्]] अहं᳓ **प्र᳓पद्ये**  
-[[सुत᳓रसि|सु᳓तरसि]] तरसे+++(=तारयित्रि)+++! न᳓मः॥  
-+++(आ᳓न्ध्र᳓पा᳓ठे᳓ सुत᳓रासि)+++
+दुर्गां᳓ देवीँ᳓ शरण᳓म् अहं᳓ **प्र᳓पद्ये**  
+सु᳓तरसि तरसे+++(=तारयित्रि)+++! न᳓मः॥
 
 </details>
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/04_tAm_agnivarNAm.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>त्रिभुवनः</summary>
@@ -436,22 +432,22 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 
 <details><summary>पद-पाठः (यान्त्रिकः - 3/16 व्यत्यस्त-स्वराः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अग्नि᳓-वर्णाम् (अग्नि᳓ (*TS*-1/1195, *RV*-682/856, *TB*-1/310, *AV*-1/419, *SB-M*-58/111, *SB-K*-8/2289, *VS-M*-16/36, *VS-K*-114/193) + व᳓र्णा (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
-- त᳓पसा (*TS*-15/46, *RV*-11/20, *TB*-6/23, *TK*-3/16, *AV*-43/88, *SB-M*-8/38, *SB-K*-20/89, *VS-M*-2/8, *VS-K*-2/15)
-- ज्वलन्ती᳓म् → **ज्व᳓लन्तीम्** (*TS*-1)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अग्नि᳓-वर्णाम् (अग्नि᳓ (*TS*-1/1195, *RV*-682/856, *TB*-1/310, *AV*-1/419, *SB-M*-58/111, *SB-K*-8/2289, *VS-M*-16/36, *VS-K*-114/193, *KS*-2/256, *MS*-835/1297) + व᳓र्णा (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
+- त᳓पसा (*TS*-15/46, *RV*-11/20, *TB*-6/23, *TK*-3/16, *AV*-43/88, *SB-M*-8/38, *SB-K*-20/89, *VS-M*-2/8, *VS-K*-2/15, *KS*-2/12, *MS*-16/44)
+- ज्वलन्ती᳓म् → **ज्व᳓लन्तीम्** (*TS*-1, *MS*-1)
 - वैरोचनी᳓म् (वि-रो᳓चन (*TB*-3, *AV*-1) + अण् पा॰ ४.३.१२० + ङीप् पा॰ ४.१.१५, ६.१.१६१)
 - कर्म-फले᳓षु (द्वन्द्वः/षष्ठीतत्पुरुषः समासस्य पा॰ ६.१.२२३)
-- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *SB-K*-2/52, *VS-M*-1/24, *VS-K*-1/26)
+- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *SB-K*-2/52, *VS-M*-1/24, *VS-K*-1/26, *KS*-0/13, *MS*-2/58)
 - दुर्-गा᳓म् (*TS*-0/7, *TB*-0/1, *AV*-1/7, *SB-M*-0/1, *RV*-3/21 दु॒र्गा, *Macdonell* dur-gá; पा॰ ६.२.१३९)
-- देवी᳓म् (*TS*-1/38, *RV*-18/118, *TB*-0/27, *AV*-6/61, *SB-M*-0/7, *SB-K*-0/28, *VS-M*-0/15, *VS-K*-1/40)
-- श᳓रणम् → **शरण᳓म्** (*TS*-1, *RV*-8/13, *AV*-1/4)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- प्र᳓ (*TS*-780, *RV*-1193, *SB-K*-1602, *VS-K*-60)
-- पद्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- देवी᳓म् (*TS*-1/38, *RV*-18/118, *TB*-0/27, *AV*-6/61, *SB-M*-0/7, *SB-K*-0/28, *VS-M*-0/15, *VS-K*-1/40, *KS*-2/14, *MS*-3/90)
+- श᳓रणम् → **शरण᳓म्** (*TS*-1, *RV*-8/13, *AV*-1/4, *KS*-2, *MS*-2)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- प्र᳓ (*TS*-780, *RV*-1193, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
+- पद्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-3, *MS*-6)
 - सु-त᳓रसि → **सु᳓-तरसि** (सायणमते पादाद्यामन्त्रितम् पा॰ ६.१.१९८; भास्करमते सु᳓ + तरसि पा॰ ८.१.२८; मूले सु॒तर॑सि स्वरव्यत्ययः)
 - तरसे (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९ — भास्करः "हे तरसे! तरणकुशले!"; सायणमते तु चतुर्थ्यन्तम् *RV*-1/6 त᳓रसे)
-- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226)
+- न᳓मः (*TS*-291/315, *RV*-49/137, *TB*-28/36, *AV*-230/244, *SB-M*-35, *SB-K*-100/102, *VS-M*-177/181, *VS-K*-206/226, *KS*-291/305, *MS*-286/313)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -475,7 +471,7 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="2" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/189/02_agne_tvaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
 
@@ -488,7 +484,7 @@ I obtain the shelter of the goddess Durga, the fire-coloured one, shining by the
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/02_agne_tvaM.md">
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/189/02_agne_tvaM.md">
 
 <details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -805,9 +801,25 @@ Be a broad, thick, wide fortress for us,
 Health and wealth for our children and descendants.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, as one ever new, take us across all difficulties with well-being;  
+and be a broad, thick, wide stronghold for us; for offspring, for descendants, [bring] welfare and blessing.
+</details>
+
 <details><summary>त्रिभुवनः</summary>
 
 O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.
+</details>
+
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+अग्ने त्वमिति व्याख्याता 'उभा वां' इत्यत्र । अत्र तु परवस्तुपरतया व्याख्येया ॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+हेऽग्ने नव्यः स्तोतव्यस्त्वमस्मान्स्वस्तिभिः क्षेमकारिभिरुपायैर्विश्वा दुर्गाण्यति सर्वा आपदोऽतिशयेन लङ्घयित्वा पारय संसारस्य परतीरं नय। नोऽस्माकं त्वत्प्रसादात्पूश्च या निवासयोग्या पुरी साऽपि पृथ्वी विस्तीर्णा भवतु। ऊर्वी सर्वस्य निष्पादनयोग्या भूमिरपि बहुला भवतु। त्वं च तोकाय तनयायास्मदपत्याय तदीयपुत्राय च शंयोर्भव सुखस्य मिश्रयिता भव।
 </details>
 
 <details><summary>Geldner</summary>
@@ -879,19 +891,6 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अग्ने त्वमिति व्याख्याता 'उभा वां' इत्यत्र । अत्र तु परवस्तुपरतया व्याख्येया ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हेऽग्ने नव्यः स्तोतव्यस्त्वमस्मान्स्वस्तिभिः क्षेमकारिभिरुपायैर्विश्वा दुर्गाण्यति सर्वा आपदोऽतिशयेन लङ्घयित्वा पारय संसारस्य परतीरं नय। नोऽस्माकं त्वत्प्रसादात्पूश्च या निवासयोग्या पुरी साऽपि पृथ्वी विस्तीर्णा भवतु। ऊर्वी सर्वस्य निष्पादनयोग्या भूमिरपि बहुला भवतु। त्वं च तोकाय तनयायास्मदपत्याय तदीयपुत्राय च शंयोर्भव सुखस्य मिश्रयिता भव।
-</details>
-</details>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -900,7 +899,7 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/09_vishvAni_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/004/09_vishvAni_no.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -912,7 +911,7 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/09_vishvAni_no.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/004/09_vishvAni_no.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1019,10 +1018,37 @@ tanū́nām ← tanū́- (nominal stem)
 अ॒स्माक॑म्बोध्यवि॒ता त॒नूना॑म् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वानि नो दुर्ग᳓हा जातवेदः सि᳓न्धुं न᳓ नावा᳓ दुरिता᳓नि पर्षि  
+अ᳓ग्ने अत्रिव᳓न् न᳓मसा गृणानो᳙ ऽस्मा᳓कं बोध्य् अविता᳓ तनू᳓नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वा॑नि । नः॒ । दुः॒ऽगहा॑ । जा॒त॒ऽवे॒दः॒ । सिन्धु॑म् । न । ना॒वा । दुः॒ऽइ॒ता । अति॑ । प॒र्षि॒ ।  
 अग्ने॑ । अ॒त्रि॒ऽवत् । नम॑सा । गृ॒णा॒नः । अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । त॒नूना॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वानि (*TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/214, *VS-K*-8/214, *KS*-6/118)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- दुः-ग᳓हा (*RV*-5/8, *AV*-0/1)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-8, *KS*-10)
+- सि᳓न्धुम् (*TS*-0/11, *RV*-24/186, *TB*-0/7, *AV*-4/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6, *KS*-0/6)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- नावा᳓ (*TS*-2, *RV*-9/13, *AV*-2, *SB-M*-0/2, *SB-K*-0/3, *KS*-1)
+- दुः-इता᳓नि (*TS*-1/3, *RV*-8/26, *TB*-0/2, *AV*-10/32, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/1)
+- पर्षि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-6, *AV*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- अत्रिव᳓त् (*RV*-8)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- गृणानः᳓ (*TS*-1/2, *RV*-37/44, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/314, *VS-K*-14/265, *KS*-12/242)
+- बोधि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-44, *TB*-2, *AV*-4, *SB-M*-6, *SB-K*-2, *VS-M*-7, *VS-K*-6, *KS*-3)
+- अविता᳓ (*TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/4, *KS*-5)
+- तनू᳓नाम् (*TS*-1/64, *RV*-15/24, *TB*-0/21, *AV*-5/15, *SB-M*-1/44, *SB-K*-0/43, *VS-M*-2/20, *VS-K*-2/33, *KS*-1/29)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1188,6 +1214,12 @@ Over all woes and dangers, Jatavedas, bear us as in a boat across a river.
      Praised with our homage even as Atri praised thee, O Agni, be the guardian of our bodies.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Across all our difficulties, O Jātavedas, as across a river with a boat, take us across distresses;  
+O Agni, praised with reverence like Atri, awake as the protector of our bodies.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 Bring us across all difficulties and dangers,
@@ -1196,6 +1228,11 @@ Bring us across all difficulties and dangers,
 <details><summary>त्रिभुवनः</summary>
 
 O fire, destroyer of the sorrows, you make us across all the sins as one crosses the sea by the boat; O fire, like Atri, become the waking protector of our bodies uttering (protective Mantras) by mind.
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+हे जातवेदो दुर्गहा सर्वासामापदामपहन्ता त्वं विश्वानि दुरिता सर्वाणि पापानि नावा सिन्धुं न समुद्रमिव नोऽस्मानतिपर्षि अतिशयेन तारयसि। हेऽग्नेऽत्रिवदाध्यात्मिकादितापत्रयरहितत्वेनात्रिशब्दवाच्यो जीवन्मुक्तो महर्षिः "आत्मौपम्येन भूतानां दयां कुर्वीत मानवः " इत्येतच्छास्त्रमनुसृत्य "सर्वे च सुखिनः सन्तु सर्वे सन्तु निरामयाः " इत्येवं मनसा यथा सर्वदा भावयति तथा त्वमपि मनसा गृणानो गृणन्नुच्चारयन्भावयन्नस्माकं तनूनामविता रक्षिता भूत्वा बोधि बुध्यस्व सावधानो भवेत्यर्थः।
 </details>
 
 <details><summary>Geldner</summary>
@@ -1267,14 +1304,6 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>सायण-टीका</summary>
-
-हे जातवेदो दुर्गहा सर्वासामापदामपहन्ता त्वं विश्वानि दुरिता सर्वाणि पापानि नावा सिन्धुं न समुद्रमिव नोऽस्मानतिपर्षि अतिशयेन तारयसि। हेऽग्नेऽत्रिवदाध्यात्मिकादितापत्रयरहितत्वेनात्रिशब्दवाच्यो जीवन्मुक्तो महर्षिः "आत्मौपम्येन भूतानां दयां कुर्वीत मानवः " इत्येतच्छास्त्रमनुसृत्य "सर्वे च सुखिनः सन्तु सर्वे सन्तु निरामयाः " इत्येवं मनसा यथा सर्वदा भावयति तथा त्वमपि मनसा गृणानो गृणन्नुच्चारयन्भावयन्नस्माकं तनूनामविता रक्षिता भूत्वा बोधि बुध्यस्व सावधानो भवेत्यर्थः।
-</details>
-</details>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1288,7 +1317,7 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1301,15 +1330,42 @@ O Wesenkenner fahr uns über alle Gefahr und Noth wie übers Meer mit Schiffen; 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/09_pRtanAjitaM_sahamAnam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>त्रिभुवनः</summary>
+<details><summary>Whitney</summary>
 
-We sacrifice from the high place of seat for the fire, the winner of the armies, the toleratory one and the fierceful one; that fire, excusing our sins makes us cross all the difficulties and the sins.
+###### Translation
+1. The fight-conquering, overpowering Agni do we call with songs from  
+the highest station; may he pass us across all difficult things; may  
+divine Agni stride (?) across arduous things.
+
+###### Notes
+The translation implies emendation of *kṣā́mat* to *krā́mat* in **d**, as  
+suggested by BR. (and adopted also by Henry), since the former seems to  
+give no good sense, and both form and composition with *ati* are  
+elsewhere unknown for root *kṣam:* cf. also xii. 2. 28 **c**. But the  
+parallel verse TA. x. 1. (68) has *kṣāmat* ⌊so both ed's, text and  
+comm.⌋ and Ppp. reads *kṣāmād devo ‘dhi*. Our comm. explains *ati  
+kṣāmat* as = *atyarthaṁ kṣāmāṇi dagdhāni karotu!* TA. further gives  
+*ugrám agním* for *agnim ukthāis*, rectifies the meter of **b** by  
+reading *huvema*, leaves the combination *devó áti* in **d**, and has  
+*duritā́ ’ty* for *-tāni*. Our **c** is the same with RV. i. 99. 1 **c**.  
+The verse has no *jagatī* character at all.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith</summary>
+
+We call with lauds from his most lofty dwelling victorious Agni, conqueror in battles. May he conveyus over all distresses, may the God Agni bear us past our troubles.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
 
 पृ॒त॒ना॒जितँ॒ सह॑मानम् उ॒ग्रम्  
 अ॒ग्निँ हु॑वेम पर॒मात् स॒धस्था॑त्।  
@@ -1317,27 +1373,65 @@ We sacrifice from the high place of seat for the fire, the winner of the armies,
 क्षाम॑द् दे॒वो अति॑ दुरि॒तात्य् अ॒ग्निः॥
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+<details><summary>पदपाठः</summary>
+
+पृ॒त॒ना॒ऽजित॑म्। सह॑मानम्। अ॒ग्निम्। उ॒क्थैः। ह॒वा॒म॒हे॒। प॒र॒मात्। स॒धऽस्था॑त्। सः। नः॒। प॒र्ष॒त्। अति॑। दुः॒ऽगानि॑। विश्वा॑। क्षाम॑त्। दे॒वः। अति॑। दुः॒ऽ0इ॒तानि॑। अ॒ग्निः। ६५.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
 
 - पृतना-जि᳓तम् (*AV*-1 ७.६३.१ पृत॒ना॒ऽजित॑म्, *MW* पृतना—जि॑त्; गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
-- स᳓हमानम् (*TS*-1/3, *RV*-1/8, *TB*-0/1, *AV*-12/20, *VS-M*-0/1, *VS-K*-0/1)
-- उग्र᳓म् (*TS*-10/33, *RV*-61/153, *TB*-5/8, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-4/7, *VS-K*-5/17)
-- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193)
-- हुवेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-41, *VS-K*-3)
-- परमा᳓त् (*TS*-0/45, *RV*-3/74, *TB*-0/11, *AV*-1/53, *SB-M*-1/89, *SB-K*-1/91, *VS-M*-0/25, *VS-K*-0/27)
-- सध᳓स्थात् (*TS*-3/28, *RV*-4/45, *TB*-0/2, *AV*-2/18, *SB-M*-4/39, *SB-K*-2/30, *VS-M*-1/7, *VS-K*-1/14)
-- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111)
-- पर्षत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-10)
-- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4)
-- दुर्गा᳓णि (*TS*-1/8, *RV*-0/18, *TB*-1, *AV*-0/6, *SB-M*-0/3, *SB-K*-0/3)
-- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-22/73, *TK*-2/75, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-30/143, *VS-K*-41/192)
+- स᳓हमानम् (*TS*-1/3, *RV*-1/8, *TB*-0/1, *AV*-12/20, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/4, *MS*-0/4)
+- उग्र᳓म् (*TS*-10/33, *RV*-61/153, *TB*-5/8, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-4/7, *VS-K*-5/17, *KS*-6/12, *MS*-9/40)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
+- हुवेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-41, *VS-K*-3, *KS*-4, *MS*-5)
+- परमा᳓त् (*TS*-0/45, *RV*-3/74, *TB*-0/11, *AV*-1/53, *SB-M*-1/89, *SB-K*-1/91, *VS-M*-0/25, *VS-K*-0/27, *KS*-0/16, *MS*-0/38)
+- सध᳓स्थात् (*TS*-3/28, *RV*-4/45, *TB*-0/2, *AV*-2/18, *SB-M*-4/39, *SB-K*-2/30, *VS-M*-1/7, *VS-K*-1/14, *KS*-2/6, *MS*-2/40)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
+- पर्षत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-10, *MS*-3)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4, *KS*-19, *MS*-140)
+- दुर्गा᳓णि (*TS*-1/8, *RV*-0/18, *TB*-1, *AV*-0/6, *SB-M*-0/3, *SB-K*-0/3, *MS*-0/5)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-22/73, *TK*-2/75, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-30/143, *VS-K*-41/192, *KS*-19/118, *MS*-60/301)
 - क्षा᳓मत् (पादादिः, पा॰ ८.१.१८ अपादादौ)
-- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-42/257, *VS-K*-58/350)
-- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4)
-- दुः-इता᳓ (*TS*-4/7, *RV*-33/41 दुरि॒ता, *AV*-4/36 ७.६३.१, *TB*-2, *VS-M*-2, *SB-M*-2, *SB-K*-1, *VS-K*-1/3 दुःऽइतानि; नपुंसक-द्वितीया-बहुवचनम् पा॰ ६.१.७०)
-- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4)
-- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-42/257, *VS-K*-58/350, *KS*-24/317, *MS*-104/1216)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4, *KS*-19, *MS*-140)
+- दुः-इता᳓ (*TS*-4/7, *RV*-33/41 दुरि॒ता, *AV*-4/36 ७.६३.१, *TB*-2, *VS-M*-2, *SB-M*-2, *SB-K*-1, *VS-K*-1/3, *KS*-1/2, *MS*-4/9 दुःऽइतानि; नपुंसक-द्वितीया-बहुवचनम् पा॰ ६.१.७०)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-7, *TK*-1, *SB-K*-391, *VS-K*-4, *KS*-19, *MS*-140)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193, *KS*-111/256, *MS*-528/1297)
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- कश्यपः
+- जगती
+- दुरितनाशन सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+सेनापति के कर्त्तव्य का उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (पृतनाजितम्) संग्राम जीतनेवाले, (सहमानम्) विजयी, (अग्निम्) अग्निसमान तेजस्वी सेनापति को (उक्थैः) स्तुतियों के साथ [उसके] (परमात्) बहुत ऊँचे (सधस्थात्) निवासस्थान से (हवामहे) हम बुलाते हैं। (सः) वह (देवः) व्यवहारकुशल (अग्निः) तेजस्वी सेनापति (विश्वा) सब (दुर्गाणि) दुर्गों को (अति) उलाँघ कर और (दुरितानि) विघ्नों को (अति) हटाकर (नः) हमें (पर्षत्) पार लगावे, और (क्षामत्) समर्थ करे ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  जो शूर सेनापति शत्रुओं के गढ़ तोड़ कर विजय पाता है, वही प्रजापालन में समर्थ होता है ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(पृतनाजितम्) संग्रामजेतारम् (सहमानम्) षह अभिभवने नैरुक्तो धातुः। अभिभवन्तम्। विजयिनम् (अग्निम्) अग्निवत्तेजस्विनं सेनापतिम् (उक्थैः) वक्तव्यैः स्तोत्रैः (हवामहे) आह्वयामः (परमात्) उत्कृष्टात् (सधस्थात्) निवासात् (सः) (नः) अस्मान् (पर्षत्) अ० ६।३४।१। पारयेत् (अति) उल्लङ्घ्य (दुर्गाणि) दुर्गमनान् शत्रुकोट्टान् (विश्वा) सर्वाणि (क्षामत्) क्षमूष् सहने णिचि, लेटि, अडागमः। क्षामयेत् समर्थयेत् (देवः) व्यवहारकुशलः (अति) अतीत्य (दुरितानि) विघ्नान् (अग्निः) सेनापतिः ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+We sacrifice from the high place of seat for the fire, the winner of the armies, the toleratory one and the fierceful one; that fire, excusing our sins makes us cross all the difficulties and the sins.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1374,7 +1468,7 @@ We sacrifice from the high place of seat for the fire, the winner of the armies,
 षष्ठीमृचमाह —
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1386,44 +1480,105 @@ We sacrifice from the high place of seat for the fire, the winner of the armies,
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/12_pratnoShi_kam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
-<details><summary>त्रिभुवनः</summary>
+<details><summary>Whitney</summary>
 
-You are worth worshipping in the sacrifices, you extend the comfort, you sit as donator, sacrificer and one worth praising; make your body pleased (by our oblations); and grant us good fortune all round.
+###### Translation
+1. Since, an ancient one, to be praised at the sacrifices, thou sittest  
+as *hótar* both of old and recent—do thou, O Agni, both gratify thine  
+own self, and bestow (*ā-yaj*) good fortune on us.
+
+###### Notes
+The verse is RV. viii. 11. 10 (also TA. x. 1⁶⁹). Our text has several  
+bad readings, which are corrected in the other version: *kám* in **a**  
+should be *kam*, *satsi* should be *sátsi*, and *piprā́yasva* should be  
+*-práy-* (TA. has, in **a**, *pratnóṣi*, which its comm. explains by  
+*vistārayasi!*): this last the comm. also reads, but renders it  
+*ājyādihaviṣā pūraya*. The verse is not at all a *pan̄kti*, although  
+capable of being read as 40 syllables.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Griffith</summary>
+
+Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as Hotar. And now, O Agni, make thy person friendly, and win felicity for us by worship.
+</details>
+
+<details><summary>मूलम् - शौनकम्</summary>
+
+प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑।  
+स्वां चा॑ग्ने त॒न्वं᳡ पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
 
 प्र॒त्नोषि॑ क॒म् ईड्यो॑ अध्व॒रेषु॑  
 स॒नाच् च॒ होता॒ नव्य॑श् च॒ सत्सि॑।  
 स्वां चा॑ग्ने त॒नुवं॑ पि॒प्रय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒म् आय॑जस्व॥
 </details>
 
-<details><summary>पद-पाठः (यान्त्रिकः - 3/21 व्यत्यस्त-स्वराः)</summary>
+<details><summary>पदपाठः</summary>
 
-- प्र → **प्र᳓** (*TS*-780, *RV*-1193, *TB*-63, *SB-K*-1602, *VS-K*-60; तिङन्तनिघाते गतिस्वरः)
+प्र॒त्नः। हि। कम्। ईड्यः॑। अ॒ध्व॒रेषु॑। स॒नात्। च॒। होता॑। नव्यः॑। च॒। स॒त्सि॒। स्वाम्। च॒। अ॒ग्ने॒। त॒न्व᳡म्। प्रि॒प्राय॑स्व। अ॒स्मभ्य॑म्। च॒। सौभ॑गम्। आ। य॒ज॒स्व॒। ११०.१।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
+
+- प्र → **प्र᳓** (*TS*-780, *RV*-1193, *TB*-63, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829; तिङन्तनिघाते गतिस्वरः)
 - त्नोषि᳓ → **त्नोषि** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८; भास्कर-सायणौ "प्रतनोषि", मूले प्र॒त्नोषि॑ स्वरव्यत्ययः)
-- कम् (अनुदात्तम्, पा॰ ८.१.१८, *RV*-22, *AV*-6, *SB-K*-3, *VS-K*-2)
-- ई᳓ड्यः (*TS*-6, *RV*-23/39, *TB*-1, *TK*-1, *AV*-7/12, *SB-M*-1, *SB-K*-5, *VS-K*-5)
-- अध्वरे᳓षु (*TS*-4/27, *RV*-27/196, *TB*-1/10, *AV*-3/22, *SB-M*-0/3, *SB-K*-1/68, *VS-M*-1/2, *VS-K*-1/12)
-- सना᳓त् (*RV*-21, *AV*-5, प्रातिपदिकम् सना᳓त् (*MW*))
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-85/112, *TK*-2/4, *AV*-18/28, *SB-M*-75/125, *SB-K*-145/211, *VS-M*-49/57, *VS-K*-54/70)
-- न᳓व्यः (*TS*-1/3, *RV*-12/46, *TB*-1, *AV*-3/5, *VS-K*-0/4)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- स᳓त्सि → **सत्सि** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-10, *SB-K*-1)
-- स्वा᳓म् (*TS*-18/250, *RV*-9/227, *TB*-5/38, *AV*-7/149, *SB-M*-8/97, *SB-K*-17/301, *VS-M*-3/29, *VS-K*-3/26)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- कम् (अनुदात्तम्, पा॰ ८.१.१८, *RV*-22, *AV*-6, *SB-K*-3, *VS-K*-2, *KS*-3, *MS*-12)
+- ई᳓ड्यः (*TS*-6, *RV*-23/39, *TB*-1, *TK*-1, *AV*-7/12, *SB-M*-1, *SB-K*-5, *VS-K*-5, *KS*-5, *MS*-9/12)
+- अध्वरे᳓षु (*TS*-4/27, *RV*-27/196, *TB*-1/10, *AV*-3/22, *SB-M*-0/3, *SB-K*-1/68, *VS-M*-1/2, *VS-K*-1/12, *KS*-2/15, *MS*-4/44)
+- सना᳓त् (*RV*-21, *AV*-5, *KS*-1, प्रातिपदिकम् सना᳓त् (*MW*))
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-85/112, *TK*-2/4, *AV*-18/28, *SB-M*-75/125, *SB-K*-145/211, *VS-M*-49/57, *VS-K*-54/70, *KS*-27/37, *MS*-81/112)
+- न᳓व्यः (*TS*-1/3, *RV*-12/46, *TB*-1, *AV*-3/5, *VS-K*-0/4, *KS*-0/3, *MS*-1/3)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- स᳓त्सि → **सत्सि** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-10, *SB-K*-1, *MS*-1)
+- स्वा᳓म् (*TS*-18/250, *RV*-9/227, *TB*-5/38, *AV*-7/149, *SB-M*-8/97, *SB-K*-17/301, *VS-M*-3/29, *VS-K*-3/26, *KS*-3/60, *MS*-20/260)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-122, *MS*-210)
 - तनु᳓वम् (*TS*-17/41, *TB*-5/22)
 - पिप्र᳓यस्व (*RV*-1 ८.११.१० पि॒प्रय॑स्व; चवायोगे प्रथमा पा॰ ८.१.५९)
-- अस्म᳓भ्यम् (*TS*-21/565, *RV*-119/1306, *TB*-4/114, *AV*-30/1248, *SB-M*-6/174, *SB-K*-11/728, *VS-M*-0/127, *VS-K*-8/178)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- सौ᳓भगम् (*TS*-0/5, *RV*-7/28, *TB*-1/5, *AV*-2/14, *SB-K*-0/5, *VS-M*-0/5, *VS-K*-0/3)
-- आ᳓ (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115)
-- यजस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-11, *SB-K*-6, *VS-K*-5)
+- अस्म᳓भ्यम् (*TS*-21/565, *RV*-119/1306, *TB*-4/114, *AV*-30/1248, *SB-M*-6/174, *SB-K*-11/728, *VS-M*-0/127, *VS-K*-8/178, *KS*-13/242, *MS*-33/641)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- सौ᳓भगम् (*TS*-0/5, *RV*-7/28, *TB*-1/5, *AV*-2/14, *SB-K*-0/5, *VS-M*-0/5, *VS-K*-0/3, *KS*-0/5, *MS*-1/8)
+- आ᳓ (*TS*-1107, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115, *KS*-316, *MS*-1274)
+- यजस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-11, *SB-K*-6, *VS-K*-5, *KS*-4, *MS*-5)
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- अथर्वा
+- पङ्क्तिः
+- दीर्घायु सूक्त
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
+
+ऐश्वर्य बढ़ाने के लिये उपदेश।
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) हे विद्वान् आचार्य ! (प्रत्नः) प्राचीन, [अनुभवी] (च) और (नव्यः) नूतन [उद्योगी,] (ईड्यः) स्तुतियोग्य (च) और (होता) दाता होकर (सनात्) सदा से (अध्वरेषु) सन्मार्ग देनेवाले वा हिंसारहित व्यवहारों में (हि) अवश्य (कम्) सुख से (सत्सि) तू बैठता है। (च) निश्चय करके (स्वाम्) अपने (तन्वम्) शरीर को (पिप्रायस्व) प्रीतियुक्त कर (च) और (अस्मभ्यम्) हमारे लिये (सौभगम्) अनेक सुन्दर ऐश्वर्य (आ) आकर (यजस्व) दान कर ॥१॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्य वृद्ध, अनुभवी उत्साही, उत्तम आचार्य से नम्रतापूर्वक उत्तम शिक्षा ग्रहण करके अपना ऐश्वर्य बढ़ावें ॥१॥   यह मन्त्र कुछ भेद से ऋग्वेद में है−म० ८।११।१० ॥
+</details>
+
+<details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
+
+टिप्पणी:   १−(प्रत्नः) नश्च पुराणे प्रात्। वा० पा० ५।४।२५। इति प्र−तप्। प्रत्नः पुराणः−निरु० १२।३२। प्राचीनः। अनुभवी (हि) अवश्यम् (कम्) सुखेन (ईड्यः) स्तुत्यः (अध्वरेषु) अ० ३।१६।६। सन्मार्गदातृषु हिंसारहितेषु वा व्यवहारेषु (सनात्) सत्यम् (च) समुच्चये। अवधारणे (होता) दाता (नव्यः) अचो यत्। पा० १।३।९७। णु स्तुतौ−यत्। नूतनः। पुरुषार्थी (सत्सि) सीदसि (स्वाम्) स्वकीयाम् (अग्ने) हे विद्वन्। आचार्य (तन्वम्) शरीरम् (प्रिप्रायस्व) प्री प्रीतौ णिचि छान्दसं रूपम्। प्रसन्नां कुरु (अस्मभ्यम्) सेवकेभ्यः (सौभगम्) समूहे−अण्। बह्वैश्वर्याणां समूहम् (आ) आगत्य (यजस्व) देहि ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+You are worth worshipping in the sacrifices, you extend the comfort, you sit as donator, sacrificer and one worth praising; make your body pleased (by our oblations); and grant us good fortune all round.
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -1439,7 +1594,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
@@ -1452,7 +1607,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 
 </div>
 
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
+<div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/06_mahA-nArAyaNopaniShat/01_11_jAtavedase_sunavAma_taittirIyakam/14_gobhir_juShTam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>मूलम्</summary>
@@ -1465,24 +1620,24 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 
 <details><summary>पद-पाठः (यान्त्रिकः - 3/18 व्यत्यस्त-स्वराः)</summary>
 
-- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-2/32, *AV*-19/195, *SB-M*-0/35, *SB-K*-5/149, *VS-M*-3/32, *VS-K*-6/44)
-- जु᳓ष्टम् (*TS*-15/19, *RV*-9/22, *TB*-5, *AV*-1/2, *SB-M*-25, *SB-K*-34/46, *VS-M*-21, *VS-K*-23)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-2/32, *AV*-19/195, *SB-M*-0/35, *SB-K*-5/149, *VS-M*-3/32, *VS-K*-6/44, *KS*-2/37, *MS*-14/149)
+- जु᳓ष्टम् (*TS*-15/19, *RV*-9/22, *TB*-5, *AV*-1/2, *SB-M*-25, *SB-K*-34/46, *VS-M*-21, *VS-K*-23, *KS*-9/11, *MS*-36/53)
 - अयु᳓जः → **अयुजः᳓** (*RV*-1)
 - नि᳓षिक्तम् (*TS*-2, *VS-M*-1, *VS-K*-1)
-- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-4/46, *AV*-92/627, *SB-M*-13/116, *SB-K*-34/387, *VS-M*-22/95, *VS-K*-24/114)
-- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *SB-K*-17, *VS-K*-22; मूले तवे॑न्द्र)
-- विष्णोः → **वि᳓ष्णोः** (*TS*-45/151, *RV*-18/79, *TB*-4/43, *AV*-19/45, *SB-M*-16/63, *SB-K*-31/162, *VS-M*-12/33, *VS-K*-21/65)
-- अ᳓नु (*TS*-471, *RV*-475, *TB*-57, *TK*-40, *SB-K*-716, *VS-K*-41)
-- स᳓म् (*TS*-13, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82)
-- चरेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- ना᳓कस्य (*TS*-4/28, *RV*-3/32, *TB*-1/9, *AV*-8/40, *SB-M*-3/24, *SB-K*-3/49, *VS-M*-6/14, *VS-K*-6/20)
-- पृष्ठ᳓म् (*TS*-22/112, *RV*-10/21, *TB*-5/11, *AV*-5/26, *SB-M*-8/23, *SB-K*-30/75, *VS-M*-5/19, *VS-K*-7/22)
-- अभि᳓ (*TS*-63, *RV*-754, *TB*-32, *TK*-5, *SB-K*-595, *VS-K*-28)
-- सम्-व᳓सानः (*RV*-0/2, *AV*-0/1, *SB-K*-0/1, स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82) + व᳓सानः (*TS*-5/7, *RV*-34/44, *AV*-9/16, *SB-M*-1, *SB-K*-4/5, *VS-M*-1/2, *VS-K*-2/4), पा॰ ६.२.१३९)
-- वै᳓ष्णवीम् → **वैष्णवी᳓म्** (*TS*-1/10, *TB*-0/1, *SB-K*-3/8, *VS-M*-0/3, *VS-K*-1/4)
-- लोके᳓ (*TS*-119/676, *RV*-5/31, *TB*-60/252, *TK*-8/63, *AV*-36/191, *SB-M*-13/269, *SB-K*-142/1158, *VS-M*-12/31, *VS-K*-13/39)
-- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39)
-- मादयन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-6, *SB-K*-2, *VS-K*-1)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-4/46, *AV*-92/627, *SB-M*-13/116, *SB-K*-34/387, *VS-M*-22/95, *VS-K*-24/114, *KS*-41/165, *MS*-53/382)
+- इन्द्र (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *SB-K*-17, *VS-K*-22, *KS*-28, *MS*-51; मूले तवे॑न्द्र)
+- विष्णोः → **वि᳓ष्णोः** (*TS*-45/151, *RV*-18/79, *TB*-4/43, *AV*-19/45, *SB-M*-16/63, *SB-K*-31/162, *VS-M*-12/33, *VS-K*-21/65, *KS*-14/43, *MS*-48/186)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-57, *TK*-40, *SB-K*-716, *VS-K*-41, *KS*-96, *MS*-350)
+- स᳓म् (*TS*-13, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
+- चरेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1)
+- ना᳓कस्य (*TS*-4/28, *RV*-3/32, *TB*-1/9, *AV*-8/40, *SB-M*-3/24, *SB-K*-3/49, *VS-M*-6/14, *VS-K*-6/20, *KS*-1/8, *MS*-6/30)
+- पृष्ठ᳓म् (*TS*-22/112, *RV*-10/21, *TB*-5/11, *AV*-5/26, *SB-M*-8/23, *SB-K*-30/75, *VS-M*-5/19, *VS-K*-7/22, *KS*-4/9, *MS*-19/55)
+- अभि᳓ (*TS*-63, *RV*-754, *TB*-32, *TK*-5, *SB-K*-595, *VS-K*-28, *KS*-76, *MS*-346)
+- सम्-व᳓सानः (*RV*-0/2, *AV*-0/1, *SB-K*-0/1, *MS*-0/1, स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668) + व᳓सानः (*TS*-5/7, *RV*-34/44, *AV*-9/16, *SB-M*-1, *SB-K*-4/5, *VS-M*-1/2, *VS-K*-2/4, *KS*-4/5, *MS*-3/10), पा॰ ६.२.१३९)
+- वै᳓ष्णवीम् → **वैष्णवी᳓म्** (*TS*-1/10, *TB*-0/1, *SB-K*-3/8, *VS-M*-0/3, *VS-K*-1/4, *KS*-1/4, *MS*-5/8)
+- लोके᳓ (*TS*-119/676, *RV*-5/31, *TB*-60/252, *TK*-8/63, *AV*-36/191, *SB-M*-13/269, *SB-K*-142/1158, *VS-M*-12/31, *VS-K*-13/39, *KS*-7/47, *MS*-64/486)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39, *KS*-43, *MS*-103)
+- मादयन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-6, *SB-K*-2, *VS-K*-1, *MS*-1)
 </details>
 </details>
 

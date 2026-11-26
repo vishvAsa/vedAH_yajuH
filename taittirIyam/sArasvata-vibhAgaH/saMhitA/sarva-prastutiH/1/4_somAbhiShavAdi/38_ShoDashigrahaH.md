@@ -26,7 +26,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/03_A_tiShTha.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -253,10 +254,8 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ अन्यतर-पाठस् तु - ' आ तिष्ठ वृत्रहन् रथं युक्ता ते ब्रह्मणा हरी ।
-
-अर्वाचीन‍ सु
-सुते मनो ग्रावा कृणोतु वग्नुना ।
+अथ अन्यतर-पाठस् तु - ' आ तिष्ठ वृत्रहन् रथं युक्ता ते ब्रह्मणा हरी ।  
+अर्वाचीन सु सुते मनो ग्रावा कृणोतु वग्नुना ।
 </details>
 
 <details><summary>Schroeder - टिप्पणी</summary>
@@ -362,6 +361,7 @@ Besteig' den Wagen, Vritrafeind; die Rosse hat Gebet geschirrt; Der Pressstein l
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. सभापतींनी सेनेत दोन प्रकारचे अधिकारी ठेवावेत. एकाने सेनेला युद्ध करण्यास लावावे व दुसऱ्याने चांगल्या बोलण्याने योद्ध्यांना उत्साहित करावे. जेव्हा युद्ध होईल तेव्हा सेनापतीने चांगल्या प्रकारे परीक्षा करून उत्साहाने शत्रूबरोबर असे युद्ध करावे की निश्चित विजय होईल. युद्ध थांबल्यावर उपदेशक, योद्धे व सेवक यांना धर्मयुक्त कर्माचा उपदेश करून चांगल्या प्रकारे उत्साहित करावे. असे करणाऱ्याचा कधी पराभव होत नाही. ॥ ३ ॥
+</details>
 </details>
 </div>  
 

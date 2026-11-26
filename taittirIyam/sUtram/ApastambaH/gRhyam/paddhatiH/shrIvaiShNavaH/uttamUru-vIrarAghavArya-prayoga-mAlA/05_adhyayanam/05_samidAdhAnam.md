@@ -20,7 +20,7 @@ title = "०५ समिदाधानम्"
 
 प᳓रि त्वाऽग्ने प᳓रिमृजाम्य् आ᳓युषा च ध᳓नेन च ।  
 सुप्रजाः᳓ प्रज᳓या भूयासँ,  
-सुवी᳓रो वीरै᳓स्, सुव᳓र्चा व᳓र्चसा, सुपो᳓षः पो᳓षैस्, [[सुगृ᳓हो|सुगृहो᳓]] गृहै᳓स्, सुप᳓तिः प᳓त्या+++(→आचार्येण)+++, सुमेधा᳓ मेध᳓या, सुब्र᳓ह्मा +++(स)+++ब्रह्मचारि᳓भिः ।  
+सुवी᳓रो वीरै᳓स्, सुव᳓र्चा व᳓र्चसा, सुपो᳓षः पो᳓षैस्, सुगृहो᳓ गृहै᳓स्, सुप᳓तिः प᳓त्या+++(→आचार्येण)+++, सुमेधा᳓ मेध᳓या, सुब्र᳓ह्मा +++(स)+++ब्रह्मचारि᳓भिः ।  
 
 </details>
 </div>
@@ -59,14 +59,14 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
 <details open><summary><h2>०१ अदितेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अदि॒तेऽनु॑ मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
 <details open><summary><h2>०२ अनुमतेऽनु मन्यस्व ...{Loading}...</h2></summary>
 
-अनु॑म॒ते+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु॑ मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
 
 </details>
 </div>
@@ -80,7 +80,7 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
 <details open><summary><h2>०४ देव सवितः ...{Loading}...</h2></summary>
 
-देव॑ सवितः॒ प्रसु॑व। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>
@@ -94,19 +94,20 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/02_agnaye_samidhamAhArSham.md">
 <details open><summary><h2>०२ अग्नये समिधमाहार्षम् ...{Loading}...</h2></summary>
 
-अ॒ग्नये॑ स॒मिध॒म् आहा॑र्षं  
-बृह॒ते जा॒त-वे॑दसे ।  
-यथा॒ त्वम् अ॑ग्ने स॒मिधा॑ समि॒द्ध्यस॑,  
-ए॒वं माम् आयु॑षा॒ वर्च॑सा स॒न्या  +++(=लाभेन)+++ मे॒धया॑ प्र॒जया॑ प॒शुभि॑र् ब्रह्मवर्च॒सेना॒न्नाद्ये॑न॒+++(=अन्नादनेन)+++  
-समे॑धय॒ स्वाहा॑ ।
+अग्न᳓ये समि᳓धम् आ᳓हार्षं  
+बृहते᳓ जात᳓-वेदसे ।  
+य᳓था त्व᳓म् अग्ने समि᳓धा समिध्य᳓स,  
+एवं᳓ मा᳓म् आ᳓युषा व᳓र्चसा सन्या᳓  +++(=लाभेन)+++  
+मेध᳓या प्रज᳓या पशु᳓भिर् ब्रह्मवर्चसे᳓नान्ना᳓द्येन+++(=अन्नादनेन)+++  
+स᳓मेधय स्वा᳓हा ।
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/03_edho-syedhiShImahi_svAhA.md">
 <details open><summary><h2>०३ एधोऽस्येधिषीमहि स्वाहा ...{Loading}...</h2></summary>
 
-+++(हे समित्, अग्नेर्)+++ एधो॑+++(←इन्धी दीप्तौ)+++ ऽस्य्,  
-एधिषी॒महि॒ स्वाहा॑ ।  
++++(हे समित्, अग्नेर्)+++ ए᳓धो+++(←इन्धी दीप्तौ)+++ ऽस्य्,  
+एधिषीम᳓हि स्वा᳓हा ।  
 
 </details>
 </div>
@@ -114,15 +115,15 @@ title = "०५ समिदाधानम्"
 <details open><summary><h2>०४ समिदसि समेधिषीमहि ...{Loading}...</h2></summary>
 
 समि᳓द् असि,  
-[[समेधिषीम᳓हि|स᳓मेधिषीमहि]] +++(अग्निं)+++ स्वा᳓हा ।  
+स᳓मेधिषीमहि +++(अग्निं)+++ स्वा᳓हा ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/05_tejosi_tejo.md">
 <details open><summary><h2>०५ तेजोसि तेजो ...{Loading}...</h2></summary>
 
-तेजो॑सि॒,  
-तेजो॒ मयि॑ धेहि॒ स्वाहा॑ ।+++(५)+++ 
+ते᳓जो ऽसि,  
+ते᳓जो म᳓यि धेहि स्वा᳓हा ।+++(५)+++ 
 
 </details>
 </div>
@@ -132,15 +133,15 @@ title = "०५ समिदाधानम्"
 **अ᳓पो**+++(=कर्म)+++ अद्य᳓ +**अ᳓न्वचारिषँ**  
 +++(श्रद्धा)+++**र᳓सेन स᳓मसृक्ष्महि**+++(=संसृष्टो भवेयम्। समगन्महीति शाकले)+++ ।  
 प᳓यस्वाँ+++(→हविष्मान्)+++ अग्न आ᳓गमन्  
-तं᳓ [[मा|मा᳓]] सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
+तं᳓ मा सँ᳓सृज व᳓र्चसा स्वा᳓हा ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/07_sam_mA-gne.md">
 <details open><summary><h2>०७ सम् माऽग्ने ...{Loading}...</h2></summary>
 
-सं मा॑ऽग्ने॒ वर्च॑सा सृज  
-प्र॒जया॑ च॒ धने॑न च॒ स्वाहा॑ ।  
+सं᳓ माऽग्ने व᳓र्चसा सृज  
+प्रज᳓या च ध᳓नेन च स्वा᳓हा ।  
 
 </details>
 </div>
@@ -155,7 +156,7 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/09_agnaye_bRhate.md">
 <details open><summary><h2>०९ अग्नये बृहते ...{Loading}...</h2></summary>
 
-अ॒ग्नये॑ बृह॒ते नाका॑य॒ स्वाहा॑ ।  
+अग्न᳓ये बृहते᳓ ना᳓काय स्वा᳓हा ।  
 +++(दिविनाको नामाग्निः इति ब्राह्मणम् ।)+++
 
 </details>
@@ -163,16 +164,16 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/10_dyAvApRthivIbhyAM_svAhA.md">
 <details open><summary><h2>१० द्यावापृथिवीभ्यां स्वाहा ...{Loading}...</h2></summary>
 
-द्यावा॑पृथि॒वीभ्याँ॒ स्वाहा॑ ।  
+द्या᳓वापृथिवी᳓भ्याँ स्वा᳓हा ।  
 
 </details>
 </div>
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/11_eShA_te.md">
 <details open><summary><h2>११ एषा ते ...{Loading}...</h2></summary>
 
-ए॒षा ते॑ अग्ने स॒मित्,  
-तया॒ वर्द्ध॑स्व॒ चाप्या॑यस्व च॒,  
-तया॒ऽहं वर्ध॑मानो भूयासम्, आ॒प्याय॑मानश्च॒ स्वाहा॑ ।  
+एषा᳓ ते अग्ने समि᳓त्,  
+त᳓या व᳓र्धस्व चा᳓प्यायस्व च,  
+त᳓याऽहं᳓ व᳓र्धमानो भूयासम्, आप्या᳓यमानश्च स्वा᳓हा ।  
 
 </details>
 </div>
@@ -189,8 +190,8 @@ title = "०५ समिदाधानम्"
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_06/13_samidhamAdhAyAgne_sarvavrato.md">
 <details open><summary><h2>१३ समिधमाधायाग्ने सर्वव्रतो ...{Loading}...</h2></summary>
 
-स॒मिध॑म् आ॒धाया॑ग्ने॒  
-सर्व॑व्रतो भूयासँ॒ स्वाहा॑ ।  
+समि᳓धम् आधा᳓याग्ने  
+स᳓र्वव्रतो भूयासँ स्वा᳓हा ।  
 
 </details>
 </div>
@@ -200,13 +201,13 @@ title = "०५ समिदाधानम्"
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
 <details open><summary><h5>१२ अदितेऽन्वमँस्थाः अनुमतेऽन्वमँस्थाः ...{Loading}...</h5></summary>
 
-अदि॒तेऽन्व॑मँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
 
-अनु॑म॒तेऽन्व॑मँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
 
-सर॑स्व॒ते ऽन्व॑मँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
 
-देव॑ सवितः॒ प्रासा॑वीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
 
 </details>
 </div>

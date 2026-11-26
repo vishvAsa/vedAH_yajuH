@@ -456,22 +456,15 @@ Soma is the king of us Brahmans.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्र᳓ति त्य᳓न् ना᳓म राज्य᳓म् **अधायि**  
 स्वा᳓न् तनु᳓वव्ँ व᳓रुणो **अशिश्रेत्** ।   
 शु᳓चेर् मित्र᳓स्य व्र᳓त्या **अभूम᳓**  
 +**अ᳓मन्महि** महत᳓ ऋत᳓स्य ना᳓म ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/02_prati_tyan.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 This kingdom hath verily been conferred,  
@@ -498,24 +491,15 @@ We have magnified the name of the great holy order.
 </details>
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓र्वे व्रा᳓ता व᳓रुणस्याभूवन्  
 वि᳓ मित्र᳓ ए᳓वैर्+++(=आगमनैः)+++ अ᳓रातिम् **अतारीत्** ।   
 **अ᳓सूषुदन्त**+++(←षूद द्रववत् क्षरणे)+++ यज्ञि᳓या ऋते᳓न  
 **व्य्** उ᳙ त्रितो᳓ +++(ऽग्निः)+++ जरिमा᳓णन् न᳓+++(ः)+++ **आ᳓नट्** +++(=प्रापयतु)+++॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/10_devasU-havirAdi/03_sarve_vrAtA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 These have become all the hosts of Varuna,  
@@ -543,8 +527,6 @@ Trita hath taken possession of our old age.
 किञ्च ; उ इति समुच्चये । त्रितोग्निः त्रिभ्यो लोकेभ्य उत्पन्नः, त्रिभ्यो वातिवातेभ्यः, त्रिभिर्वा ब्राह्मणादिभिः, लौकिकैर्वा कृतप्राप्तिः । स त्रितः अस्माकं जरिमाणं स्तोत्रम् । जीर्यतेरौणादिक इमनिच् । जनित्रशब्दाद्वा भावे छान्दस इमनिच्, 'तुरिष्ठेमेयस्सु' इति तृशब्दलोपः । **जरिमा** स्तोतृत्वं तत् अग्निः, व्यानट् व्याप्नोतु अस्माकं स्तुतिं गृहीत्वा स्तोत्रफलं ददावित्यर्थः । अश्नोतेर्लिङि व्यत्ययेन परस्मैपदं, विकरणव्यत्ययेन श्नम् । नशेर्वा गत्यर्थाल्लुङि 'मन्त्रे घस' इति च्लेर्लुक्, 'छन्दस्यपि दृश्यते' इत्याडागमः । यद्वा - उक्तं ऋतेनास्मानसूषुदन्तेति तदिदमस्माकं जरिमाणं जरां दीर्घायुष्ट्वं **व्यानट्** प्रापयतु । अन्तर्भावितण्य्-अर्थाल् लुङ् । कियच्चिरमित्याह - उ इत्यप्यर्थे । त्रितोपि त्रिभ्योपि वयोभ्यः पुरस्तात् जरिमाणं नः प्रापयतु सर्वम् आयुर् जीवयत्व् इत्यर्थः ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

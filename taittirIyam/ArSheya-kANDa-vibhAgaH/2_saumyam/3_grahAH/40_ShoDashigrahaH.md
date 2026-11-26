@@ -29,7 +29,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/01_asAvi_soma.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -347,6 +348,7 @@ Gepresst ist Soma, Indra, dir, o stärkster, kühner, komme her; Die Indrakraft 
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे, प्रजा, सेना, शाळा व सभा यांच्यात स्थित पुरुषांनी सूर्याप्रमाणे तेजस्वी पुरुषाला प्रजा, सेना शाळेत अध्यक्ष करून सर्व प्रकारे त्याचा सत्कार केला पाहिजे तसे सभ्य लोकांचाही आदर केला पाहिजे. ॥ १ ॥
+</details>
 </details>
 </div>  
 

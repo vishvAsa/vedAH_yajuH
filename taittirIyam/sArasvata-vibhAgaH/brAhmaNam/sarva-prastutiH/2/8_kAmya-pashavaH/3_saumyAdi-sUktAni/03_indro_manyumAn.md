@@ -360,7 +360,9 @@ Mit diesen stürze hin die nah'nden Feinde, des Hassers Zorn, o Indra, ohne Säu
 भावार्थभाषाः -  जे आपल्या सेनेला उत्तम प्रकारे प्रशिक्षित करतात व उत्तम प्रकारे रक्षण करून सत्कार करतात, डाकू व अन्यायी शत्रूंचे निवारण करून चांगल्या लोकांचे सतत रक्षण करतात तेच सेनाध्यक्ष सत्कार करण्यायोग्य असतात. ॥ २ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -807,7 +809,9 @@ Er wird gerühmt als der, der siegt und tödtet, er ist's, der sich durch Kampf 
 भावार्थभाषाः -  हे राजा ! ज्यांची उत्तम कीर्ती तू ऐकतोस व राज्यपालन व युद्धात जे कुशल असतात त्यांचा स्वीकार करून सत्याचाराने वागून शांतीने सज्जनांचे चांगल्या प्रकारे पालन करून दुष्ट लोकांना निरंतर दंड दे. धर्माचा मार्ग सोडून त्यांनी इकडे तिकडे भटकता कामा नये. ॥ १० ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

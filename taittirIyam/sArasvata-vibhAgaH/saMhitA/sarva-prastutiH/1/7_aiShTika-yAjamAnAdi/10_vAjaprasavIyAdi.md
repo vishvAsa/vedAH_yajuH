@@ -18,18 +18,13 @@ title = "१० वाजप्रसवीयादि"
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्येम᳓म् +++(→सोमं)+++ प्रसव᳓स् **सुषुवे**  
 अ᳓ग्रे सो᳓मँ रा᳓जानम् ओ᳓षधीष्व् अप्सु᳓ ।  
 ता᳓ अस्म᳓भ्यम् **म᳓धुमतीर् भवन्तु**  
 वयँ᳓ राष्ट्रे᳓ **जाग्रियाम** पुरो᳓हिताः  ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/02_vAjasyemam_prasavas.md">
 
@@ -103,22 +98,15 @@ may they be full of sweetness for us; may we be awake in the realm as domestic p
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्येद᳓म् प्रसव᳓ **आ᳓ बभूव  
 +इमा᳓** च वि᳓श्वा भु᳓वनानि सर्व᳓तः ।   
 स᳓ विरा᳓जम् **प᳓र्येति** प्रजान᳓न्  
 प्रजा᳓म् पु᳓ष्टिव्ँ वर्ध᳓यमानो अस्मे᳓  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/03_vAjasyedam_prasava.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The instigation of strength hath pervaded  
@@ -144,24 +132,15 @@ Increasing offspring and prosperity for us.
 </details>
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/04_vAjasyemAm_prasavash.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वा᳓जस्येमा᳓म् प्रसव᳓श् **शिश्रिये** दि᳓वम्  
 इमा᳓ च वि᳓श्वा भु᳓वनानि सम्रा᳓ट् ।   
 अ᳓दित्सन्तन् **दापयतु** प्रजान᳓न्  
 रयिं᳓ [40] च नस्स᳓र्ववीरान् नि᳓ यच्छतु  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/04_vAjasyemAm_prasavash.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The instigation of strength rested on this sky  
@@ -187,8 +166,6 @@ And may he accord us wealth [1] with all heroes.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -197,22 +174,15 @@ And may he accord us wealth [1] with all heroes.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/05_agne_achChA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अ᳓ग्ने अ᳓च्छा **वदेह᳓** नᳶ  
 प्र᳓ति नस् सुम᳓ना **भव** ।   
 **प्र᳓** णो **यच्छ** भुवस्पते  
 धनदा᳓ **असि** नस् त्व᳓म्  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/05_agne_achChA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 O Agni, speak to us;  
@@ -240,8 +210,6 @@ Thou art the giver of wealth to us.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -250,22 +218,15 @@ Thou art the giver of wealth to us.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/06_pra_No.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **प्र᳓** णो **यच्छत्व्** अर्यमा᳓  
 प्र᳓ भ᳓गᳶ प्र᳓ बृ᳓हस्प᳓तिः ।  
 प्र᳓ देवाᳶ᳓ प्रो᳓त᳓ सूनृ᳓ता+++(=सु+ऋता)+++  
 **प्र᳓** वा᳓ग् देवी᳓ **ददातु** नः  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/06_pra_No.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 May Aryaman further us,  
@@ -291,8 +252,6 @@ May the goddess speech be bountiful to us.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -301,22 +260,15 @@ May the goddess speech be bountiful to us.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 अर्यम᳓णम् बृ᳓हस्प᳓तिम्  
 इ᳓न्द्रन् **दा᳓नाय चोदय** ।  
 वा᳓चव्ँ वि᳓ष्णुँ स᳓रस्वतीँ  
 सविता᳓रम् [41] च᳓ वाजि᳓नम्  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/07_aryamaNam_bRhaspatim.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Aryaman, Brhaspati, Indra,  
@@ -342,8 +294,6 @@ And Savitr the strong.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -352,18 +302,13 @@ And Savitr the strong.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सो᳓मँ रा᳓जानव्ँ व᳓रुणम्  
 अग्नि᳓म् **अन्वा᳓रभामहे**+++(=आलभामहे)+++ ।  
 आदित्या᳓न् वि᳓ष्णुँ सू᳓र्यम्  
 ब्रह्मा᳓णञ् च बृ᳓हस्प᳓तिम् ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/10_vAjaprasavIyAdi/08_somaM_rAjAnav.N.md">
 

@@ -194,21 +194,14 @@ Go away, hail! rejoicing in the oblation.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 एष᳓ ते निरृते भागो᳓,  
 भू᳓ते! हवि᳓ष्मत्य् **असि**।  
 **मुञ्चे᳓म᳓म्** अँ᳓हसः॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/01_nairRta-homAdi/02_eSha_te.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 This is thy share, O Nirrti;  
@@ -234,8 +227,6 @@ Free him from evil. Hail!
 यस्मादनेन हविषा **हविष्मती** त्वम् **असि**, तस्माद् **इमं** हविषोऽस्य दातारं यजमानं अंहसः पापान्मुञ्चेति । 'अंहस एवैनं मुञ्चति' इति ब्राह्मणम् ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

@@ -17,19 +17,19 @@ title = "नीला-सूक्तम्"
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/13_stoma_trayastriMshe.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-स्तोम॑ त्रयस्त्रिँशे॒! भुव॑नस्य पत्नि॒!  
-विव॑स्वद्-वाते! अ॒भि नो॑ **गृणाहि**+++(←गृ शब्दे)+++ ।    
-घृ॒तव॑ती सवित॒र्! आधि॑पत्यै॒ᳶ  
-पय॑स्वती॒ **रन्ति॒र्**+++(←रम्)+++ +++(इयम्)+++ **आशा॑ नो अस्तु** ।
+स्तो᳓म त्रयस्-त्रिँशे! भु᳓वनस्य पत्नि!  
+वि᳓वस्वद्-वाते! अभि᳓ नो **गृणाहि**+++(←गृ शब्दे)+++ ।    
+घृत᳓वती +++(→आ)+++ सवितर्! आ᳓धिपत्यैᳶ  
+प᳓यस्वती **र᳓न्तिर्**+++(←रम्)+++ +++(इयम्)+++ **आ᳓शा नो अस्तु** ।
 </details>
 </div>
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/14_dhruvA_dishAv.N.md">
 <details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
 
-ध्रु॒वा दि॒शाव्ँ वि॑ष्णु-प॒त्न्य् अ-घो॑रा॒  
-ऽस्येशा॑ना॒ सह॑सो॒, या म॒नोता॑ +++(←मनस् + ऊता)+++।    
-बृह॒स्पति॑र् मात॒रिश्वो॒त वा॒युस्  
-स॑न्धुवा॒ना+++(←धु कम्पने)+++ वाता॑ अ॒भि नो॑ **गृणन्तु** ।
+ध्रुवा᳓ दिशाव्ँ᳓ विष्णु-पत्न्य् अ᳓-घोरा,  
+ऽस्ये᳓शाना स᳓हसो, या᳓ मनो᳓ता +++(←मनस् + ऊता)+++।    
+बृ᳓हस्-प᳓तिर् मातरि᳓श्वोत᳓ वायु᳓स्  
+**सन्धुवाना᳓**+++(ः←धु कम्पने)+++ वा᳓ता अभि᳓ नो **गृणन्तु** ।
 </details>
 </div>
 

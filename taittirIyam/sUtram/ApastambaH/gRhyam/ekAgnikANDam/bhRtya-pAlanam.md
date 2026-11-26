@@ -8,10 +8,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/05_pari_tvA.md">
 <details open><summary><h2>०५ परि त्वा ...{Loading}...</h2></summary>
 
-प᳓रि त्वा [[गि᳓रेर्|गिरे᳓र्]] [[अमिहं᳓|अमिहं]]+++(←मिह सेचने)+++  
+प᳓रि त्वा गिरे᳓र् **अमिहं**+++(←मिह सेचने)+++  
 प᳓रि भ्रा᳓तुः प᳓रि ष्व᳓सुः ।  
 प᳓रि स᳓र्वेभ्यो ज्ञाति᳓भ्यः  
-प᳓रि-षीतः+++(=बद्धः)+++ [[क्वे᳙ष्य᳓सि|क्वे᳙ष्यसि]] ।  
+प᳓रि-षीतः+++(=बद्धः)+++ क्वे᳙ष्यसि ।  
 
 </details>
 </div>
@@ -32,11 +32,11 @@ unicode_script: devanagari
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/07_Avartana_vartaya.md" unfilled newLevelForH1="5" includeTitle="false">  
 <details open><summary><h2>०७-०८ आवर्तन वर्तयेत्येषा ...{Loading}...</h2></summary>
 
-आ व॑र्तन वर्तय॒ नि  
-नि॑वर्तन वर्त॒येन्द्र॑ नर्द+++(=शब्द)+++बुद+++(=शर)+++।  
+आ᳓ वर्तन वर्तय नि᳓ निवर्तन वर्तय  
+इ᳓न्द्र नर्द+++(=शब्द)+++बुद+++(=शर)+++।  
 +++("आबुन्दं वृत्रहाऽऽददे इन्द्रो बुन्दम् तुविक्षन्ते सुकृतं सुमयं धनुस्-साधुर् बुन्दो हिरण्मयः" इति दर्शनात्)+++  
-भूम्या॒श् चत॑स्रᳶ प्र॒दिश॒स्  
-ताभि॒रा व॑र्तया॒ पुनः॑ ।+++(५)+++  
+भू᳓म्याश् च᳓तस्रᳶ प्रदि᳓शस्  
+ता᳓भिर् आ᳓ वर्तया पु᳓नः ।+++(५)+++  
 
 
 </details>
@@ -56,9 +56,9 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/09_anupo-hvadanuhvayo_nivarto.md">
 <details open><summary><h2>०९ अनुपोऽह्वदनुह्वयो निवर्तो ...{Loading}...</h2></summary>
 
-अ᳓नु पो+++(=वो)+++ ऽह्वद् अ᳓नुह्वयो+++(=अनुह्वाता)+++  
-नि᳓वर्तो वो न्य᳓वीवृतत् ।  
-ऐन्द्रः᳓ [[प᳓रिक्रोशो|परिक्रोशो᳓]] वः  
+अ᳓नु पो+++(=वो)+++ **ऽह्वद्** अ᳓नुह्वयो+++(=अनुह्वाता)+++  
+नि᳓वर्तो वो **न्य᳓वीवृतत्** ।  
+ऐन्द्रः᳓ परिक्रोशो᳓ वः  
 प᳓रिक्रोशतु सर्व᳓तः ।+++(र४)+++  
 
 </details>

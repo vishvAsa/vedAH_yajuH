@@ -29,7 +29,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/051/07_indra_marutva.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -311,9 +312,8 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-षोडशे ऽनुवाके वैश्वदेव-ग्रहस्य वैकल्पिको मन्त्र उक्तः ।
-
-एतावता प्रातःसवनग्रहाः समाप्ताः ॥
+षोडशे ऽनुवाके वैश्वदेव-ग्रहस्य वैकल्पिको मन्त्र उक्तः ।  
+एतावता प्रातःसवन-ग्रहाः समाप्ताः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -433,6 +433,7 @@ Hier trinke Soma mit den Maruts, Indra, wie bei Çarjata du den Saft getrunken; 
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे राजा! जसे तू आपले राज्य, ऐश्वर्य, न्याय व धर्माचे रक्षण करतोस त्याच प्रकारचे तुझे मंत्री व नोकर इत्यादी असावेत. त्यांचा तू सत्कार सदैव करावा. ॥ ७ ॥
+</details>
 </details>
 </div>  
 

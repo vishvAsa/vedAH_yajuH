@@ -748,7 +748,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/mano_jyotir.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Mind, light, rejoice in the oblation.  
@@ -810,6 +811,7 @@ May the All-gods rejoice herein.
 बृह॒स्पति॑स्तनुतामि॒मन्नो॒ विश्वे॑ दे॒वा इ॒ह मा॑दयन्ताम्  ॥
 
   -   टीका7अग्निहोत्रमन्त्रावुपस्थानार्थौ - तत्र प्रथमा मन इति विराट् ॥ हे अग्ने तव ज्योतिः कीदृशं मननीयम् । यद्वा - मनश्शेषमुद्वासितेन पीडितं यन्मननीयमेवासीत् नान्यत्वे[त्र]विद्यते तदिदमाज्यं जुषतां सेवतां अनेन कर्मणा पूर्ववत्समृद्धमस्तु । यद्वा - मनस्सदा मननीयं मनोहरं अग्न्याख्यं ज्योतिः उद्वासनापराधं चेतस्यकृत्वा जुषतामाज्यमिति । ततो विच्छिन्नमुद्वासने तव यज्ञमिमं सन्दधातु । बृहस्पतिश्च नः अस्माकमिमं यज्ञं तनुतां विश्वे देवाश्च इहास्मिन्कर्मणि मादयन्तां मोद(य)न्ताम् । मद तृप्तियोगे चुरादिः । बृहस्पतिशब्दश्च पारस्करादिः, वनस्पत्यादिश्च । तेन सुडागमः, पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं च ॥
+</details>
 </details>
 </div>
 

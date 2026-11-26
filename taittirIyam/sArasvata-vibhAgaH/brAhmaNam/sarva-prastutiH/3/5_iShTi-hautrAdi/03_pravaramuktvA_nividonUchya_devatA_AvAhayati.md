@@ -3,6 +3,7 @@ title: ०३ प्रवरमुक्त्वा निविदोनू�
 unicode_script: devanagari
 
 ---
+
 ## सामिधेनीरनूच्य प्रवरमाह
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -294,16 +295,37 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/vishvAsa-prastutiH/3/5_iShTi-hautrAdi/03_pravaramuktvA_nividonUchya_devatA_AvAhayati/12_arA.N_ivAgne_nemir.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+अराँ᳓ इवाग्ने नेमि᳓र् देवाँ᳓स् त्व᳓म् परिभू᳓र् असि ।
+</details>
+</div>
 
-अराँ᳓ इवाग्ने नेमि᳓र् देवाँ᳓स् त्व᳓म् परिभू᳓र् असि ।  
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarvASh_TIkAH/3/5_iShTi-hautrAdi/03_pravaramuktvA_nividonUchya_devatA_AvAhayati/12_arA.N_ivAgne_nemir.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>Eggeling</summary>
+
+15. Further, 'Thou, O Agni! dost encompass the gods, as the felly the spokes;'
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
-<details><summary>मूलम्</summary>
+अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।
+</details>
 
-अ॒राँ इ॑वाग्ने ने॒मिर्दे॒वाँ स्त्वम्प॑रि॒भूर॑सि ।  
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+अरा᳘ २ँ॥ ऽइवाग्ने नेमि᳘र्देवांस्त्वं᳘ परिभू᳘रसी᳘ति॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+अरां᳘ इवाग्ने नेमि᳘र्देवांस्त्वं᳘ परिभू᳘रसी᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**"अरा २ँ ॥ इवाग्ने नेमिर्द्देवांस्त्वं परिभूरसि"**- (३. ५. ३. ११) इति ।
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
@@ -311,11 +333,32 @@ unicode_script: devanagari
 अरा᳓न् । इव । अग्ने । नेमिः᳓ । देवा᳓न् । त्व᳓म् । परि-भूः᳓ । असि ।
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- अरा᳓न् (*TS*-1/2, *RV*-2/4, *TB*-2/4, *AV*-0/9, *SB-K*-1/13, *VS-M*-0/1, *KS*-0/1, *MS*-2/4)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *KS*-68, *MS*-240)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-588, *TS*-219, *AV*-143, *TB*-76, *TK*-15, *KS*-122, *MS*-210)
+- नेमिः᳓ (*TS*-2/3, *RV*-5/11, *TB*-2, *AV*-0/1, *SB-K*-2, *KS*-0/1, *MS*-2/3)
+- देवा᳓न् (*TS*-95/1025, *RV*-193/1342, *TB*-46/582, *TK*-4/32, *AV*-48/707, *SB-K*-183/1945, *VS-M*-29/517, *VS-K*-9/350, *KS*-26/317, *MS*-77/1216)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-56/114, *KS*-66/165, *MS*-225/382)
+- परि-भूः᳓ (*TS*-11/14, *RV*-10, *TB*-2, *AV*-6/8, *SB-K*-6, *VS-M*-3, *VS-K*-1, *KS*-2, *MS*-10/11)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *AV*-268, *RV*-204, *TB*-210, *TK*-48, *KS*-247, *MS*-805)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
-अरानित्यादि । हे अग्ने! अरान् नेमिरिव देवान् परिभूः परितो भावयिता त्वमसि । 'अभित परितः' इति द्वितीया । गतार्थत्वात्तसेरप्रयोगः ।  
+अरानित्यादि । हे अग्ने! अरान् नेमिरिव देवान् परिभूः परितो भावयिता त्वमसि । 'अभित परितः' इति द्वितीया । गतार्थत्वात्तसेरप्रयोगः ।
+</details>
+
+<details><summary>सायणः (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**अरा २ँ ॥
+
+इवे**ति ।
 </details>
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

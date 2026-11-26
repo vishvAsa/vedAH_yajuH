@@ -40,38 +40,18 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/05_mehanAdvalankaraNAllomabhyaste_nakhebhyaH.md">
 <details open><summary><h2>०५ मेहनाद्वलङ्करणाल्लोमभ्यस्ते नखेभ्यः ...{Loading}...</h2></summary>
 
-मेह॑नाद्+++(=प्रजननात्)+++ वल॒+++(न)+++ङ्+++(=वशङ्)+++कर॑णा॒ल्  
-लोम॑भ्यस्ते न॒खेभ्यः॑ ।  
-यक्ष्मँ॒ सर्व॑स्माद् आ॒त्मन॒स्  
-तम् इ॒मं विवृ॑हामि ते ।  
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/05_mehanAdvanaMkaraNAllomabhyaste_nakhebhyaH.md">
-<details open><summary><h4>०५ मेहनाद्वनंकरणाल्लोमभ्यस्ते नखेभ्यः ...{Loading}...</h4></summary>
-
-मे᳓हनाद् वनंक᳓रणाल्  
-लो᳓मभ्यस् ते नखे᳓भियः  
-य᳓क्ष्मं स᳓र्वस्माद् आत्म᳓नस्  
-त᳓म् इदं᳓ वि᳓ वृहामि ते
-</details>
-</div>
+मे᳓हनाद्+++(=प्रजननात्)+++ वल+++(न)+++ङ्+++(=वशङ्)+++क᳓रणाल्  
+लो᳓मभ्यस् ते नखे᳓भ्यः ।  
+य᳓क्ष्मँ स᳓र्वस्माद् आत्म᳓नस्  
+त᳓म् इमं᳓ **वि᳓वृहामि** ते ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_18/06_angAdangAllomnolomno_jAtam.md">
 <details open><summary><h2>०६ अङ्गादङ्गाल्लोम्नोलोम्नो जातम् ...{Loading}...</h2></summary>
 
-अङ्गा॑द्-अङ्गा॒ल् लोम्नो॑-लोम्नो  
-जा॒तं पर्व॑णि-पर्वणि ।  
-यक्ष्मँ॒ सर्व॑स्माद् आ॒त्मन॒स्  
-तम् इ॒मं विवृ॑हामि ते ।  
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/163/06_angAdangAllomnolomno_jAtaM.md">
-<details open><summary><h4>०६ अङ्गादङ्गाल्लोम्नोलोम्नो जातं ...{Loading}...</h4></summary>
-
 अ᳓ङ्गाद्-अङ्गाल् लो᳓म्नो-लोम्नो  
-जात᳓म् प᳓र्वणि-पर्वणि  
-य᳓क्ष्मं स᳓र्वस्माद् आत्म᳓नस्  
-त᳓म् इदं᳓ वि᳓ वृहामि ते
-</details>
-</div>
+जातं᳓ प᳓र्वणि-पर्वणि ।  
+य᳓क्ष्मँ स᳓र्वस्माद् आत्म᳓नस्  
+त᳓म् इमं᳓ वि᳓वृहामि ते ।
 </details>
 </div>

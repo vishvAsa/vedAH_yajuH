@@ -57,7 +57,8 @@ title = "०४ ‘इन्द्रं वो विश्वतस्पर�
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/10_indraM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/10_indraM_vo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -307,6 +308,7 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 
 टिप्पणी:   या सूक्ताच्या मंत्रांचे अर्थ सायणाचार्य इत्यादी आर्यावर्तीय व विल्सन इत्यादी इंग्रजांनी विपरीत लावलेले आहेत.
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -338,7 +340,8 @@ Wir rufen euch den Indra her von allen Orten, jedem Volk; Uns sei er eigen, kein
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/027/01_indraM_naro.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/027/01_indraM_naro.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -756,6 +759,7 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 भावार्थभाषाः -  या जगात जो निश्चयपूर्वक प्रशंसित बुद्धिमान, सदैव बलाची इच्छा करणारा, सभ्य लोकांची संमती घेणारा, विद्वान, उद्योगी, धार्मिक व प्रजेचे पालन करण्यात तत्पर पुरुष असेल त्याचीच कामना करा. ॥ १ ॥
 </details>
+</details>
 </div>  
 
 ##### इन्द्रियावद्यागे 
@@ -788,7 +792,8 @@ Den Indra rufen im Gefecht die Männer, dass er erfolgreich diese Bitten mache; 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/037/09_indriyANi_shatakrato.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1062,6 +1067,7 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 
 भावार्थभाषाः -  जसे नेत्रांनी रूप पाहिले जाते तसे जो मंत्र्यांचे चरित्र पाहतो तोच पुरुष राज्य करण्यायोग्य असतो. जसे इंद्रियांद्वारे जीवाचे संपूर्ण कार्य सिद्ध होते तसे राजा मंत्री व सेनेद्वारे राज्य कार्य सिद्ध करू शकतो. ॥ ९ ॥
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -1093,7 +1099,8 @@ Die Indrakräfte wünsch' ich her, die, Indra, hundertwirkender, Du bei den fün
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1524,6 +1531,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 भावार्थभाषाः -  हे राजा ! तू उत्तम कर्म कर व अनुकूल असलेल्यांचा धन वगैरेनी सत्कार कर. सदैव सत्याचे उपदेशक असलेल्या विद्वानांच्या संगतीने संपूर्ण राजविद्या जाणून निरंतर प्रचार कर. ॥ ८ ॥
 </details>
+</details>
 </div>  
 
 ##### घर्मवद्यागे 
@@ -1558,7 +1566,8 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/A_yasmin.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/A_yasmin.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 In whom the seven Vasavas rest  
@@ -1606,6 +1615,7 @@ The glowing pot is the guest of Indra.
 
 आ यस्मिन्निति। वासयन्ति रथस्योपर्यादित्यमिति वासवा आदित्यस्याश्वाः। ते च सप्तसंख्याकाः। सप्त युञ्जन्ति रथमेकचक्रमिति मन्त्रवर्णात्। न चैवं सत्येको अश्वो वहति सप्तनामेत्यनेन विरोधः। वचनद्वयबलेन विकल्पस्याङ्गीकृतत्वात् ते च सप्ताश्वाः स्वारुहो यथाऽऽदित्यापरतन्त्रा अपि स्वयमेवा-ऽऽरोहन्त इव वर्तन्ते, सुशिक्षितत्वेन प्रेरणं विनैव प्रवृत्तत्वात्। तादृशाः सप्ताश्वा यस्मिन्नादित्य आभिवर्तन्ते आतिष्ठन्ति स आदित्य ऋषिर्हातीन्द्रियज्ञान्येव सर्वदा वेदत्रयोपेतत्वात्। अत एवाऽऽम्नायते — “वेदैरशून्यस्त्रिभिरेति सूर्यः” इति। दीर्घश्रुत्तमस्त्रैलोक्यप्रकाशनेन प्रथितकीर्तितमः। ईदृशो घर्मो दीप्यमान आदित्य इन्द्रस्य गृहेऽतिथिः स्वाभीष्टं याचितुं यदा कदाचिदागच्छति तस्येन्द्रस्य महिमा किमिव वक्तव्य इत्यभिप्रायः।  
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -1636,7 +1646,8 @@ The glowing pot is the guest of Indra.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/089/07_AmAsu_pakvamairaya.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1936,6 +1947,7 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 - बृहती
 - मध्यमः
 </details>
+</details>
 </div>  
 
 ##### अर्कवद्-यागे 
@@ -1969,7 +1981,8 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2283,6 +2296,7 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 भावार्थभाषाः -  ईश्वर असा उपदेश करतो की, माणसांनी वेदमंत्रातील विचारांच्या आधारे सूर्य व वायू तसेच परमेश्वर इत्यादी पदार्थांच्या गुणांना चांगल्या प्रकारे जाणून सर्वांच्या सुखासाठी प्रयत्न करून त्यांचा लाभ घ्यावा. ॥ १ ॥
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -2312,7 +2326,8 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/010/01_gAyanti_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/010/01_gAyanti_tvA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2664,6 +2679,7 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे सर्व माणसांनी परमेश्वराची पूजा केली पाहिजे अर्थात त्याच्या आज्ञेच्या अनुकूल वेदविद्या शिकून उत्कृष्ट गुणांनी मानववंशाला पुरुषार्थी केले पाहिजे. तसे स्वतःही झाले पाहिजे व जो परमेश्वराशिवाय इतराची पूजा करतो त्याला कधीही उत्तम फळ प्राप्त होऊ शकत नाही. कारण अशी ईश्वराची आज्ञा नाही किंवा ईश्वरासारखा दुसरा कोणीही नाही की ज्याची पूजा केली जावी. यामुळे सर्व माणसांनी परमेश्वराचे भजन व पूजन करावे. ॥ १ ॥
 </details>
+</details>
 </div>  
 
 ##### अंहोमुग्यागे 
@@ -2703,7 +2719,8 @@ Die Sänger singen dir ein Lied und Preisgesang die preisenden; Die Beter haben 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/aMhomuche_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/6_aiShTika-yAjamAnAdi/12_kAmyeShTi-mantrAH/aMhomuche_pra.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Let us offer our praise to him who delivereth from trouble,  
@@ -2748,6 +2765,7 @@ May the desires of the sacrificer be fulfilled.
 
 अँहोमुच इति। गृणानाः स्तुवन्तो वयमोषिष्ठदाव्ने ग्रीष्मकाले दावा-ग्निनाऽत्यन्तदग्धभूप्रदेशेभ्यो वर्षर्तौ वृष्टिदात्रेंऽहोमुचे पापान्मोचयित्रे मनीषां बुद्धिं प्रभरेम स्वी कुर्मः। कीदृशीं सुमतिं, त्वां तोषयेमेत्येवमादिशो-भनमननोपेताम्। हे इन्द्रेदं त्यज्यमानं हव्यं प्रतिगृहाण। तेन यजमानस्य कामाः सत्याः सन्तु।  
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -2777,7 +2795,8 @@ May the desires of the sacrificer be fulfilled.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/032/14_viveSha_yanmA.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/032/14_viveSha_yanmA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3205,6 +3224,7 @@ Wenn mich der Trunk ergriffen und erregt hat, dann preis' ich Indra vor dem Tag 
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. माणसांनी त्याच वाणी व बुद्धीचे ग्रहण करावे, जी सदैव दुष्ट आचरणापासून पृथक ठेवून दुःखातून नौकेप्रमाणे पार पाडते. ॥ १४ ॥
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -3410,7 +3430,8 @@ make him who seeks to harm us trampled beneath our feet.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/180/03_indra_xatramabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/180/03_indra_xatramabhi.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3709,6 +3730,7 @@ Zu grosser Macht und Herrschaft bist du, Indra, geboren als der Lebenden Gebiete
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  (चर्षणीनां वृषभ इन्द्र) मनुष्याणां मध्ये वृषभ इव बलवान् यद्वा मनुष्याणां सुखवर्षक राजन् ! त्वम् (क्षत्रं वामम्-ओजः-अभि-अजायथाः) प्रजानां क्षतस्य त्राणकरं वननीयं बलमभिलक्ष्य प्रसिद्धो भवसि (अमित्रयन्तं जनम्-अपानुदः) शत्रूयन्तं जनमपताडय नाशय (देवेभ्यः-उरु लोकम्-अकृणोः) दिव्यगुणवद्भ्यो दातृभ्यश्च विस्तीर्णं दर्शनीय सुखस्थानं कुरु-सम्पादय ॥३॥
+</details>
 </details>
 </div>  
 
@@ -4229,25 +4251,16 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-त्रातारमिन्द्रम्।
-
-त्रातारं रक्षितारमिन्द्रं यतः कथयन्ति।
-
-अवितारं च यतः इन्द्रं कथयन्ति।
-
-हवेहवे सुहवम्।
-
-आह्वाने आह्वाने शोभनाह्वानमिन्द्रं यतः कथयन्ति।
-
-शूरं विक्रान्तमिन्द्रं यतः कथयन्ति जनाः।
-
-अतः ह्वयामि शक्रं शक्तमिन्द्रं तमहम्।
-
-पुरुहूतं बहुभिराहूतम्।
-
-सचाहुतः सन्।
-
-स्वस्ति नः अविनाशमस्माकम् मघवा धनवान् धातु दधातु इन्द्रः॥ ५०॥
+त्रातारम् इन्द्रम्।  
+त्रातारं रक्षितारम् इन्द्रं यतः कथयन्ति।  
+अवितारं च यतः इन्द्रं कथयन्ति।  
+हवे-हवे सु-हवम्।  
+आह्वाने आह्वाने शोभनाह्वानम् इन्द्रं यतः कथयन्ति।  
+शूरं विक्रान्तम् इन्द्रं यतः कथयन्ति जनाः।  
+अतः ह्वयामि शक्रं शक्तम् इन्द्रं तम् अहम्।  
+पुरु-हूतं बहुभिर् आहूतम्।  
+[[सचाहुतः|स चाहूतः]] सन्।  
+स्वस्ति नः अविनाशम् अस्माकम् मघवा धनवान् धातु दधातु इन्द्रः॥ ५०॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -4277,72 +4290,40 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ च तुर्थीत्रातारम् अनिष्ट-निरसनेन पालकम्, इन्द्रम् इरां वाणीं धार-यतीतीन्द्रस्तम्, अवितारम् इष्ट- प्रदानेन रक्षितारम्, इर्रा भुवं धारयतीतीन्द्रस्तम्, हवे हवे संग्रामे संग्रामे सर्वेष्व् अपि युद्धेषु सुहवं शोभना- ह्वान-युक्तम्, शूरं विक्रान्तम्, इन्द्रं शत्रूणां विदारकम्, शक्रं सर्वेषु कार्येषु शक्तम्, पुरु-हूतं बहुभिरा- हूतम्, इन्द्रं परमैश्वर्य-युक्तं देवं ह्वयामि ।
-
+अथ चतुर्थी —  
+त्रातारम् अनिष्ट-निरसनेन पालकम्, इन्द्रम् इरां वाणीं [[धार-यतीतीन्द्रस्तम्|धारयतीतीन्द्रस् तम्]], अवितारम् इष्ट-प्रदानेन रक्षितारम्, [[इर्रा|इरां]] भुवं [[धारयतीतीन्द्रस्तम्|धारयतीतीन्द्रस् तम्]], हवे हवे संग्रामे संग्रामे सर्वेष्व् अपि युद्धेषु सुहवं [[शोभना- ह्वान-युक्तम्|शोभनाह्वान-युक्तम्]], शूरं विक्रान्तम्, इन्द्रं शत्रूणां विदारकम्, शक्रं सर्वेषु कार्येषु शक्तम्, पुरु-हूतं बहुभिर् आहूतम्, इन्द्रं परमैश्वर्य-युक्तं देवं ह्वयामि ।  
 आहूतः स मघवा धनवान् इन्द्रो नो ऽस्माकम्, स्वस्ति मङ्गलं दधातु ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-आ— ' त्रातारम् इन्द्रम् ' इति ।
-
-ऐन्द्री त्रिष्टुप् ।
-
-गर्ग ऋषिः ।
-
-त्रै पालने ।
-
-त्रातारम् अविद्यान्धकार-संहरणद् वारेण स्व-रूपानन्दाभिव्यञ्जकत्वेन पालकम् इन्द्रम् ।
-
-इरां वाणीं दधातीतीन्द्रस्तम् ।
-
-अवितारम् ।
-
-अव रक्षणे ।
-
-आनन्दादि-प्रदानेन अवितारम् इन्द्रम् ।
-
-इरां भुवं दधातीतीन्द्रस्तम् ।
-
-हवेहवे संग्रामे संग्रामे सुहवं शोभनाह्वानवन्तं युद्धार्थं वीराणां सुशोभनाह्वानं यस्य सः तं सुहवम् ।
-
-शूरं विक्रान्तम् इन्द्रं शत्रु-विदारकम् ।
-
-शक्ल शक्तौ ।
-
-शक्रं शक्तं ।
-
-स्वकार्यस्य निर्वाहकम् इन्द्रम् ।
-
-पुरु-हूतं पुरुभिर्बहुभिर्द्वयत इति पुरु-हूतस् तम् इन्द्रम् ।
-
-दृशिर् प्रेक्षणे ।
-
-इन्द्रं जगदव्यवधानेन सहस्राक्षः सर्वदा पश्यती तीन्द्र-स्तम् इन्द्रं 'ह्वयामि इति संबन्धः ।
-
-' स्वस्ति नः ' ।
-
-'नः अस्माकं स्वस्ति अविनाशः ।
-
-अस भुवि, अस्ति सत्ता ।
-
-सुशोभनं मङ्गलं सुखं च तत् अस्त्व् इति स्वस्ति सत्यानन्द-रूपम् ।
-
-मघवा धन-वानिन्द्रः ।
-
-इन्धी दीप्तौ ।
-
-इन्धं सन्तम् इन्द्र इत्य् आचक्षते " ( शत्रा १४.६.११-२ ) इति श्रुतेः ।
-
-एवं-गुण-विशिष्टः इन्द्रः नः अस्माकं स्वास्ति अविनाश-फलं धातु दधातु ।
-
-अस्माकं सत्य-ज्ञानानन्द-रूपं दधातु ।
-
-पूर्वम् आवृतम् आनन्द-प्रदानेनावृतं करोतु ॥३५॥
-
-संभावितो ऽयं पाठः ।
-
-लिखित पुस्तकेषु - ' तिन्प्रत्यये जिन ... कस्याद् इति दीर्घे रूपम् ' ।
+'त्रातारम् इन्द्रम्' इति । ऐन्द्री त्रिष्टुप् । गर्ग ऋषिः । त्रै पालने ।  
+त्रातारम् अविद्यान्धकार-संहरण-द्वारेण स्व-रूपानन्दाभिव्यञ्जकत्वेन पालकम् इन्द्रम् ।  
+इरां वाणीं दधातीतीन्द्रस् तम् ।  
+अवितारम् ।  
+अव रक्षणे ।  
+आनन्दादि-प्रदानेन अवितारम् इन्द्रम् ।  
+इरां भुवं दधातीतीन्द्रस् तम् ।  
+हवे-हवे संग्रामे संग्रामे सुहवं शोभनाह्वानवन्तं युद्धार्थं वीराणां सुशोभनाह्वानं यस्य सः तं सुहवम् ।  
+शूरं विक्रान्तम् इन्द्रं शत्रु-विदारकम् ।  
+[[शक्ल|शक्लृ]] शक्तौ ।  
+शक्रं शक्तं ।  
+स्व-कार्यस्य निर्वाहकम् इन्द्रम् ।  
+पुरु-हूतं पुरुभिर् बहुभिर् [[द्वयत|हूयत]] इति पुरु-हूतस् तम् इन्द्रम् ।  
+दृशिर् प्रेक्षणे ।  
+इन्द्रं जगद् अव्यवधानेन सहस्राक्षः सर्वदा पश्यतीतीन्द्रस् तम् इन्द्रं 'ह्वयामि इति संबन्धः ।  
+'स्वस्ति नः' ।  
+'नः अस्माकं स्वस्ति अविनाशः ।  
+अस भुवि, अस्ति सत्ता ।  
+सुशोभनं मङ्गलं सुखं च तत् अस्त्व् इति स्वस्ति सत्यानन्द-रूपम् ।  
+मघवा धन-वान् इन्द्रः ।  
+इन्धी दीप्तौ ।  
+इन्धं सन्तम् इन्द्र इत्य् आचक्षते" ([[शत्रा १४.६.११-२|शब्रा १४.६.११.२]]) इति श्रुतेः ।  
+एवं-गुण-विशिष्टः इन्द्रः नः अस्माकं [[स्वास्ति|स्वस्ति]] अविनाश-फलं धातु दधातु ।  
+अस्माकं सत्य-ज्ञानानन्द-रूपं दधातु ।  
+पूर्वम् आवृतम् आनन्द-प्रदानेनावृतं करोतु ॥३५॥  
+संभावितो ऽयं पाठः ।  
+लिखित-पुस्तकेषु - 'तिन्प्रत्यये जिन ... कस्याद् इति दीर्घे रूपम्' ।
 </details>
 
 <details><summary>अनन्ताचार्य-टीका</summary>
@@ -4628,7 +4609,8 @@ May we be dear to you among the princes.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/04_anavaste_rathamashvAya.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/04_anavaste_rathamashvAya.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -5049,6 +5031,7 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 
 भावार्थभाषाः -  जे अन्तकरणापासून राजाची उन्नती करण्याची इच्छा बाळगतात त्यांचा राजाने सदैव सत्कार करावा. ॥ ४ ॥
 </details>
+</details>
 </div>  
 
 ###### याज्या
@@ -5081,7 +5064,8 @@ Die Menschen machten für dein Ross den Wagen Tvaschtar den lichten Blitz, o vie
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/031/05_vRShNe_yatte.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -5491,6 +5475,7 @@ Als dir dem Stier die Stiere Preislied sangen vereint die Stiere, Indra, und der
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जे राजे मेघाप्रमाणे सुखाचा वर्षाव व आकाशाप्रमाणे स्थिर असतात. अग्नी इत्यादीद्वारे वाहन निर्माण करून इकडे तिकडे भ्रमण करतात व दुष्ट चोरांचा नाश करतात तेच प्रजेला प्रसन्न करून भाग्यशाली बनतात. ॥ ५ ॥
+</details>
 </details>
 </div>
 </details>

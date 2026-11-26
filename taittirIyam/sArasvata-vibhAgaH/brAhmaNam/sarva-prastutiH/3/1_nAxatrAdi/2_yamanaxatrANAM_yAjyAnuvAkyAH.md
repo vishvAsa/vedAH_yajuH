@@ -26,7 +26,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/01_RddhyAsma.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 ऋ॒द्ध्यास्म॑ ह॒व्यैर्नम॑सोप॒सद्य॑ ।  
@@ -44,6 +45,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
@@ -59,7 +61,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/02_chitrannakhShatramudagAtpurastAt.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 चि॒त्रन्नक्ष॑त्र॒मुद॑गात्पु॒रस्ता॑त् ।  
@@ -76,6 +79,7 @@ unicode_script = "devanagari"
 2चित्रमिति ॥ चित्रं चाथनीयं इदं नक्षत्रं पुरस्तात् उदगात् उदेति । अनूराधास इति यन्नक्षत्रं वदन्ति लौकिका अपि । तत नक्षत्रं मित्रः एति पथिभिः देवयानैः देवा यैर्गच्छन्ति । हिरण्ययैः हितरमणीयैः अन्तरिक्षे विततैः ॥
 
 
+</details>
 </details>
 </div>
 
@@ -122,7 +126,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/03_indro_jyeShThAmanu.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 इन्द्रो॑ ज्ये॒ष्ठामनु॒ नक्ष॑त्रमेति ।   
@@ -140,6 +145,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
@@ -155,7 +161,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/04_purandarAya_vRShabhAya.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 पु॒र॒न्द॒राय॑ वृष॒भाय॑ धृ॒ष्णवे॑ ।  
@@ -172,6 +179,7 @@ unicode_script = "devanagari"
 4पुरंदरायेति ॥ पुरंदराय मेघानां दारयित्रे । 'वाचंयमपुरंदरौ' इति निपातः । वृषभाय वर्षयित्रे धृष्णवे धर्षणशीलाय शत्रूणाम् । अषाढाय केनचिदप्यनभिभूताय सहमानाय सर्वस्याभिभवित्रे मीढुषे सेक्त्रे ईदृशाय इन्द्राय मधुमत् मधुर हविः दुहाना क्षारयन्ती ज्येष्ठा नक्षत्रं यजमानाय उरुं लोकं स्थानं कृणोतु करोतु ॥
 
 
+</details>
 </details>
 </div>
 
@@ -222,7 +230,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/05_mUlamprajAv.N_vIravatIv.N.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 मूल॑म्प्र॒जाव्ँ वी॒रव॑तीव्ँ विदेय ।  
@@ -239,6 +248,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/06_aharno_adya.md">
@@ -253,7 +263,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/06_aharno_adya.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/06_aharno_adya.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 अह॑र्नो अ॒द्य सु॑वि॒ते द॑धातु ।   
@@ -269,6 +280,7 @@ unicode_script = "devanagari"
 6अहर्न इति ॥ अहराख्यं नक्षत्रं अहरिव प्रकाशतां गतं वा अद्य अस्मिन्कर्मणि नः सुविते सुष्ठु गन्तव्ये फले दधातु । मूलं नक्षत्रमिति यद्वदन्ति लोकेऽपि, अथ तद्देवतां निर्ऋतिं वाचा मन्त्रेण पराचीं अपुनरावृतां नुदामि । यत इतो गमयामि, ततश्च शिवं कल्याणं प्रजायै मदीयायै मह्यं चास्तु ॥
 
 
+</details>
 </details>
 </div>
 
@@ -311,7 +323,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/07_yA_divyA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/07_yA_divyA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 या दि॒व्या आप॒ᳶ पय॑सा सम्बभू॒वुः ।   
@@ -328,6 +341,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
@@ -343,7 +357,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/08_yAshcha_kUpyA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 याश्च॒ कूप्या॒ याश्च॑ ना॒द्या॑स्समु॒द्रियाः॑ ।   
@@ -362,6 +377,7 @@ unicode_script = "devanagari"
 - ता आपः स्योनाः सुखरूपाः नः शं सुखहेतवो भवन्तु ॥
 
 
+</details>
 </details>
 </div>
 
@@ -409,7 +425,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/09_tanno_vishve.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 तन्नो॒ विश्वे॒ उप॑शृण्वन्तु दे॒वाः ।  
@@ -426,6 +443,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
@@ -441,7 +459,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/10_shubhrAkH_kanyA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 शु॒भ्राᳵ क॒न्या॑ युव॒तय॑स्सु॒पेश॑सः ।   
@@ -458,6 +477,7 @@ unicode_script = "devanagari"
 10शुभ्रा इति ॥ शुभ्राः शोभनाः कन्याः तरुण्यः दीप्तिमत्यो वा । कन दीप्तौ । युवतयः मिश्रिण्थः सुपेशसः सुरूपाः कर्मकृतः कर्मकरणकुशलाः शोभनकारिण्यः वीर्यावतीः प्रसवसामर्थ्यवत्यः विश्वान् देवाननेन हविषा वर्धयन्त्योऽषाढाः अस्मद्यज्ञं उपयान्तु कामं यथायथा कामयामहे तदनुरूपमुपयान्तु ॥
 
 
+</details>
 </details>
 </div>
 
@@ -502,7 +522,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/11_yasminbrahmA-bhyajayathsarvametat.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्ब्रह्मा॒ऽभ्यज॑य॒त्सर्व॑मे॒तत् ।   
@@ -520,6 +541,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
@@ -535,7 +557,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/12_ubhau_lokau.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 उ॒भौ लो॒कौ ब्रह्म॑णा॒ सञ्जि॑ते॒मौ ।  
@@ -549,6 +572,7 @@ unicode_script = "devanagari"
 12उभौ लोकाविति ॥ इमौ उभौ लोकौ ब्रह्मणा संजिता सहजितौ अभिजिन्महिम्ना । तदभिजित् नक्षत्रं आत्मीयं महिमानं अस्मदर्थं विचष्टां पश्यतु प्रकटयतु । यद्वा - उभौ लोकौ ब्रह्मणा संजितौ यस्मिन्नक्षत्रे, तदभिजिन्नक्षत्रं अस्मान् विचष्टां सानुग्रहं पश्यतु । तस्मात् वयमपि तस्मिन् नक्षत्रे पृतनाः सङ्ग्रामान् संजयेम, तस्माच्च तत् अभिप्रेतं देवा अनुजानन्तु कामं यथेष्टम् ॥
 
 
+</details>
 </details>
 </div>
 
@@ -601,7 +625,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/13_shRNvanti_shroNAmamRtasya.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 शृ॒ण्वन्ति॑ श्रो॒णाम॒मृत॑स्य गो॒पाम् ।  
@@ -619,6 +644,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
@@ -634,7 +660,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/14_tredhA_viShNururugAyo.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 त्रे॒धा विष्णु॑रुरुगा॒यो विच॑क्रमे ।   
@@ -650,6 +677,7 @@ unicode_script = "devanagari"
 14त्रेधेति ॥ विष्णुरुरुगायः उरुभिः महात्मभिः गातव्यः स्तोतव्यः त्रेधा विचक्रमे विक्रान्तवान् । महीं महतीं दिवं पृथिवीं अन्तरिक्षं च श्रोणायां, तस्मादियं श्रोणा श्रवः अन्नं यशो वा इच्छमाना उत्पादयन्ती यजमानाय एति गच्छति ॥ कर्मणः संप्रदानत्वात् चतुर्थी । यजमानाय च पुण्यं श्लोकं स्तोत्रं कृण्वती कुर्वती - अहो सम्यगिष्टमनेनेति । यद्वा - पुण्यं श्लोकं यजमानाय प्रजाभिः कुर्वती कारयन्ती ॥
 
 
+</details>
 </details>
 </div>
 
@@ -700,7 +728,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/15_aShTau_devA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 अ॒ष्टौ दे॒वा वस॑वस्सो॒म्यासः॑ ।  
@@ -717,6 +746,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
@@ -732,7 +762,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/16_yajnannapH_pAntu.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्न॑ᳶ पान्तु॒ वस॑वᳶ पु॒रस्ता॑त् ।  
@@ -748,6 +779,7 @@ unicode_script = "devanagari"
 16यज्ञं न इति ॥ अस्माकं यज्ञं वसवः पुरस्तात् पूर्वस्यां दिशि पान्तु । श्रविष्ठाश्च दक्षिणतः दक्षिणस्यां दिश्यभियन्तु आभिमुख्येन प्राप्नुवन्तु । श्रविष्ठाः पुनः पितृसम्भवाः दक्षप्रजापतेः पितृत्वमप्यस्ति, ततस्तासां दक्षिणतोऽभिगमनं युक्तम् । वयमपीदं पुण्यं नक्षत्रं अभिसंविशाम आभिमुख्येन परिचरामः ततः अघशंसा पापरुचिः अरातिः नः माऽगन् मागमत् । अरात्यपेक्षं स्त्रीत्वम् । गमेर्लुडिः 'मन्त्रे घस' इति च्लेर्लुक् ॥
 
 
+</details>
 </details>
 </div>
 
@@ -799,7 +831,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/17_khShatrasya_rAjA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 क्ष॒त्रस्य॒ राजा॒ वरु॑णोऽधिरा॒जः ।  
@@ -817,6 +850,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
@@ -832,7 +866,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/18_yajnanno_rAjA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 य॒ज्ञन्नो॒ राजा॒ वरु॑ण॒ उप॑यातु ।   
@@ -849,6 +884,7 @@ unicode_script = "devanagari"
 18यज्ञमिति ॥ वरुणो राजा अस्माकं यज्ञमुपयातु । तेनैव वरुणागमहेतुना वरुणराजानः विश्वे देवा अपि । अथ तच्छतभिषक् नक्षत्रं जुषाणं प्रीयमाणं अस्मान्वा प्रीणयितुं अस्मभ्यं दीर्घमायुः भेषजानि च प्रतिरत् वर्धतु ॥
 
 
+</details>
 </details>
 </div>
 
@@ -901,7 +937,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/19_aja_ekapAdudagAtpurastAt.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 अ॒ज एक॑पा॒दुद॑गात्पु॒रस्ता॑त् ।  
@@ -918,6 +955,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
@@ -933,7 +971,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/20_vibhrAjamAnassamidhAna_ugraH.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 वि॒भ्राज॑मानस्समिधा॒न उ॒ग्रः ।   
@@ -950,6 +989,7 @@ unicode_script = "devanagari"
 20विभ्राजमान इति ॥ विभ्राजमानः विशेषेण दीप्यमानः समिधानः समिन्धयन् भावात् उग्रः उद्गूर्णतेजाः उदकस्य वा दाता ईदृशोऽयं अज एकपात् अन्तरिक्षमारुहत् आरोहति । 'कृमृदृरुहिभ्यः छन्दसि' इत्यञ्, द्यां च अगन् गच्छति 'मन्त्रे घस' इहि च्लेर्लुक् । तं अजं एकपादं देवं सूर्यं सावनं प्रेरकं वा सर्वे प्रोष्ठपदा अनुयन्ति अनुसरन्ति ॥
 
 
+</details>
 </details>
 </div>
 
@@ -1002,7 +1042,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/21_ahirbudhniyapH_prathamAna.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 अहि॑र्बु॒ध्निय॒ᳶ प्रथ॑मान एति ।  
@@ -1019,6 +1060,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
@@ -1034,7 +1076,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/22_chatvAra_ekamabhikarma.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 च॒त्वार॒ एक॑म॒भिकर्म॑ दे॒वाः ।   
@@ -1051,6 +1094,7 @@ unicode_script = "devanagari"
 22चत्वार इति ॥ चत्वारोपि देवाः एकं कर्माभिगभ्य संभूय साधयन्ति । यद्वा - कर्मदेवाः सुकृतातिशयेन देवत्वमाप्ताः 'ये कर्मणा देवानपियन्ति' इति । प्रोष्ठपदास इति यान्वदन्ति लोके ते चत्वारोपि संभूय कर्माणि साधयन्ति । ते पूर्वोक्तदेवाः प्रोष्ठपदाः बुध्नियं परिषद्यं परित उपास्यं उपरिं वा सीदन्तं अहिं च स्तुवन्तः नमसा नमस्कारादिना अन्नेन हविषा वा उपसद्य उपसङ्गम्य रक्षन्ति तर्पयन्ति । यद्वा - एकं किंचित् प्रशस्तं कर्म चत्वारस्ते अभिगच्छन्ति, ते तत्कर्मकारिणो जनाः बुध्नियं अहिं च स्तुवन्तः नमस्कारादिना उपसद्य रक्षन्ति तर्पयन्ति ॥
 
 
+</details>
 </details>
 </div>
 
@@ -1108,7 +1152,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/23_pUShA_revatyanveti.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 पू॒षा रे॒वत्यन्वे॑ति॒ पन्था॑म् ।   
@@ -1125,6 +1170,7 @@ unicode_script = "devanagari"
 पूषा रेवती च पन्थां एकं मार्गं अन्वेति अनुगच्छति संहत्यकारिणौ वर्तते । तौ कौ? पुष्टिपती पुष्टेः पातारौ पशुपा पशूनां पालयितारौ । 'सुपां सुलुक्' इत्याकारः । वाजबस्त्यौ वाजेन अन्नेन बस्त्यौ बलहेतू जगताम् । बले वा साधू । बस्तिशब्दः दासीभारादिषु द्रष्टव्यः । यद्वा - वाजो बस्त्यो ययोस्तादृशौ तौ इमानि अस्मदीयानि हव्यानि प्रयता प्रयतानि जुषाणा सेवमानौ सुगैः शोभनगमनसाधनैः यौनैर्वाहनैः नः यज्ञं उपयातां उपगच्छताम् ॥
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
@@ -1140,7 +1186,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/24_khShudrAnpashUnrakhShatu.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 क्षु॒द्रान्प॒शून्र॑क्षतु रे॒वती॑ नः ।    
@@ -1154,6 +1201,7 @@ unicode_script = "devanagari"
 24क्षुद्रानिति ॥ नः क्षुद्रान् अजादीन् पशून् रेवती रक्षतु । नः गावः गाः । आत्वाभावः छान्दसः । अश्वांश्च पूषाऽन्वेतु रक्षतु । तौ द्वावपि अन्नं विरूपं विविधरूपं बहुधा रक्षन्तौ वाजं अन्नवन्तं यज्ञं यजमानाय सनुतां दत्ताम् । षणु दाने ॥
 
 
+</details>
 </details>
 </div>
 
@@ -1205,7 +1253,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/25_tadashvinAvashvayujopayAtAm.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 तद॒श्विना॑वश्व॒युजोप॑याताम् ।   
@@ -1223,6 +1272,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
@@ -1238,7 +1288,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/26_yau_devAnAmbhiShajau.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 यौ दे॒वाना॑म्भि॒षजौ॑ हव्यवा॒हौ ।  
@@ -1254,6 +1305,7 @@ unicode_script = "devanagari"
 26यौ देवानामिति ॥ अश्विनौ देवानां भिषजौ हव्यवाहौ हविषां वोढारौ वृष्टिद्वारेण । विश्वस्य लोकस्य दूतौ दूतवद्धितकारिणौ अमृतस्य अमृतत्वस्य गोपौ गोपायितारौ । तौ नक्षत्रं आत्मीयं जुजुषाणा सेवमानौ । छान्दसस्य लिटः कानजादेशः । तावस्मद्यज्ञं उपयाताम् । ताभ्यां अश्विभ्यां अश्वयुग्भ्यां च नमः कृणुमः कुर्मः ॥
 
 
+</details>
 </details>
 </div>
 
@@ -1302,7 +1354,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/27_apa_pApmAnambharaNIrbharantu.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 अप॑ पा॒प्मान॒म्भर॑णीर्भरन्तु ।   
@@ -1319,6 +1372,7 @@ unicode_script = "devanagari"
 
 
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
@@ -1334,7 +1388,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/28_yasminnakhShatre_yama.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 यस्मि॒न्नक्ष॑त्रे य॒म एति॒ राजा॑ ।  
@@ -1361,6 +1416,7 @@ unicode_script = "devanagari"
 
 
 
+</details>
 </details>
 </div>
 
@@ -1406,7 +1462,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/29_niveshanI.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/1_nAxatrAdi/2/29_niveshanI.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>Keith</summary>
 
 Holder and gatherer of riches,  
@@ -1432,6 +1489,7 @@ ________________
 
 निवेशनी वसूनाम्, निविशते वसूनि यस्यां तादृशी, संगमनी संगच्छन्ती वसून्यनया तादृशशीलया विश्वानि च रूपाणि यानि रूपवन्ति वसूनि तानि आवेशयन्ती अस्मात्प्रत्युत्कर्षन्ती सहस्नपोषं सहस्रपुष्टियुक्तं यथा तथा रराण ददातु । रातेर्व्यत्ययेनात्मनेपदम्, शपः श्लुः । सुभगा शोभनधना सा तादृशी सती अमावास्या नो ऽस्मान् आगन् आगच्छतु वर्चसा दीप्त्या उपलक्षिता संविदाना सम्यग्जानती । 'समो गमृच्छि' इत्यात्मनेपदम्, गमेश्छान्दसे लङि शपो लुक्, 'मो नो धातोः' ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
@@ -1444,7 +1502,8 @@ ________________
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/10_naxatreShTakopadhAnam/29_yatte_devA_adadhurbhAgadheyamamAvAsye.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>Keith</summary>
 
 What the gods placed.
@@ -1505,6 +1564,7 @@ ________________
 हे अमावास्ये ते तव देवाः भागधेयं इमं होमं यत् यस्मात् अदधुः दत्तवन्तः । अमा सह सूर्याचन्द्रमसावस्यां संवसत इत्यमावास्या । 'अमावस्यदन्यतरस्याम्' इति निपात्यते, पादादित्वादामन्त्रिताद्युदात्तत्वम् । देवा विशेष्यन्ते - संवसन्तः संभूयैकत्र वसन्तमहित्वा तव माहात्म्येन । यस्मात्तव भागमिमं होममदधुः, तस्मात् हे **विश्ववारे** विश्वकालवति विश्वैर्वा वरणीये सा तादृशी देवैर्दत्तभागा नोस्माकमिमं यज्ञं होमात्मकं पिपृहि पूरय कामैः, पालय वा । पॄ पालनपूरणयोः, शपः श्लुः, धातोर्ह्रस्वत्वम्, अभ्यासस्य चेत्वम् । यद्वा - पृ प्रीतौ, प्रीत्या गृहाणेत्यर्थः । महित्वशब्दात्तृतीयैकवचनस्याजादेशः । किंच - हे सुभगे कल्याणधने अनेन हविषा प्रीता त्वं नः अस्मभ्यं रयिं धनं सुवीरं कल्याणवीरयुक्तं धेहि धनं देहीति । 'वीरवीर्यौ च` इत्युत्तर पदात्तत्वम् ॥
 ________________
 अथ द्वितीया - हे अमावास्ये! तुभ्यं देवाः यस्माद्भागधेयमादधुः संवसन्तः सहासीना महिम्ना माहात्म्येन, सा त्वं हे विश्ववारे! विश्वकाले नोऽस्माकं यज्ञं पिपृहि पालय, हे सुभगे नोऽस्मभ्यं सुवीरं शोभनपुत्रादिकं धनं धेहि इति ॥
+</details>
 </details>
 </div>
 

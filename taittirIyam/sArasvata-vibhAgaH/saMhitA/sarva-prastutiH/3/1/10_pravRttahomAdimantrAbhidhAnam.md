@@ -11,22 +11,15 @@ title = "१० प्रवृत्तहोमादिमन्त्रा�
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 जु᳓ष्टो वाचो᳓ **भूयासञ्**  
 जु᳓ष्टो वाच᳓स्-प᳓तये, दे᳓वि वाक्! ।   
 य᳓द् वाचो᳓ म᳓धुमत् त᳓स्मिन्  
 मा **धास्** स्वा᳓हा स᳓रस्वत्यै ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/02_juShTo_vAcho.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 May I be pleasing to speech; pleasing to the lord of speech, O divine speech. The sweetness of speech place in me; hail to Sarasvati.
@@ -48,8 +41,6 @@ May I be pleasing to speech; pleasing to the lord of speech, O divine speech. Th
 जुष्टः इष्टः वाचः भूयासम् । वाचस्पतये मनसे प्राणाय जुष्टः भूयासमित्येव । षष्ठ्यर्थे चतुर्थी । 'सावेकाचः' इति वाचः षष्ठ्या उदात्तत्वम् । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । 'नित्यं मन्त्रे' इति जुष्टशब्द आद्युदात्तः । हे देवि वाक् यद्वाचः पदं वास्तवं मधुमत् मधुरं तस्मिन् मा धाः धेहि स्थापय । सरस्वत्यै तुभ्यं स्वाहुतमिदमस्तु । दधातेर्लोटि 'बहुलं छन्दसि' इति शपो लुक् ॥
 </details>
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/05_RchA_stomam.md">
 
@@ -136,22 +127,15 @@ the Bṛhat having the gāyatra as its course!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓स् ते द्रप्स᳓स् **स्क᳓न्दति**, य᳓स् ते अँशु᳓र्  
 बाहु᳓-च्युतो धिष᳓णयोर् **उप᳓स्थात्** ।   
 अध्वर्यो᳓र् वा प᳓रि य᳓स् ते पवि᳓त्रात्   
 **स्वा᳓हाकृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/09_yas_te.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The drop that falleth of them, that shoot,  
@@ -177,8 +161,6 @@ Over it I say Hail! and offer it to Indra.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -187,18 +169,13 @@ Over it I say Hail! and offer it to Indra.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 यो᳓ द्रप्सो᳓ अँशुᳶ᳓ **पतितᳶ᳓** पृथिव्या᳓म्  
 परिवापा᳓त्+++(=लाजात्)+++ [32],  पु᳓रोडा᳓शात्, करम्भा᳓त् +++(=gruel)+++।   
 धाना-सोमा᳓न्, मन्थि᳓न +++(ग्रहात्)+++, इन्द्र शुक्रा᳓थ् +++(ग्रहात्)+++,  
 **स्वा᳓हाकृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/12_yo_draphso.md">
 
@@ -287,22 +264,15 @@ from the parched grains, the Soma, the Manthin cup, O Indra, from the Śukra cup
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓स् ते द्रप्सो᳓ म᳓धुमाँ इन्द्रिया᳓वान्त्  
 **स्वा᳓हा-कृतᳶ** पु᳓नर् अप्य् **ए᳓ति** देवा᳓न् ।   
 दिवᳶ᳓ पृथिव्याᳶ᳓ प᳓र्य्-अन्त᳓रिक्षात्  
 **स्वा᳓हा-कृतम्** इ᳓न्द्राय त᳓ञ् **जुहोमि** ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/10_pravRttahomAdimantrAbhidhAnam/15_yas_te.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Thy sweet drop, powerful,  
@@ -327,8 +297,6 @@ Over it I say Hail! and offer it to Indra.
 हे सोम यस्ते द्रप्सो मधुमान् मधुररसवान् इन्द्रियावान् वीर्यवांश्च भूत्वा स्वाहाकृतः पुनर्देवानप्येति गच्छति । दिवो वा पृथिव्या वा अन्तरिक्षाद्वा यत्र यत्र स्कन्नः ततस्सर्वस्मादागत्य पुनरपि देवान्प्राप्नोति मम स्वाहाकारेण तमहमिन्द्राय स्वाहाकृतं कृत्वा जुहोमि साऽपि तथा करोत्विति । 'मन्त्रे सोमाश्व' इतीन्द्रियशब्दस्य दीर्घत्वम् । 'ऊडिदम्' इति दिवो विभक्तिरुदात्ता । 'उदात्तयणः' इति पृथिव्याः ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

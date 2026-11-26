@@ -266,12 +266,11 @@ harm not the atmosphere;
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/3/06_tRtIyachitau_svayamAtRNNAdyupadhAnam/09_vishvasmai_prANAyApAnAya.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 वि᳓श्वस्मै प्राणा᳓यापाना᳓य व्याना᳓योदाना᳓य प्रतिष्ठा᳓यै चरि᳓त्राय वायु᳓स्त्वाभि᳓ पातु,
 मह्या᳓ स्वस्त्या᳓ छर्दि᳓षा [11] श᳓न्तमेन,
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/3/06_tRtIyachitau_svayamAtRNNAdyupadhAnam/09_vishvasmai_prANAyApAnAya.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -328,7 +327,9 @@ may Vāyu protect you with great well-being, with most benevolent shelter.
 केन रक्षणमिति तदुच्यतेमह्या स्वस्त्या महत्या योगक्षेमसंपत्त्या शंतमेन च्छर्दिषा सुखकारिणा दीप्तिविशेषेण ।
 </details>
 </details>
-</div><div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/13/30_tayA_devatayAngirasvad_dhruvA.md">
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/yajuH/sarva-prastutiH/13/30_tayA_devatayAngirasvad_dhruvA.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त᳓या देव᳓तयाङ्गिरस्व᳓द् ध्रुवा᳓ सीद ॥१९ ॥

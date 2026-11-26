@@ -1176,25 +1176,14 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>उवट-टीका</summary>
 
-आजुह्वानः अभिहूयमानः।
-
-सुप्रतीकः सुसुखः सन्।
-
-पुरस्तात् पूर्वस्यां दिशि।
-
-हे अग्ने, स्वं योनिं स्थानमासीद अधितिष्ठ साधुया साधुक्रियाविशेषणत्वेन श्रुत्या व्याख्यातम्।
-
-यूयमपि च हे विश्वेदेवाः, यजमानश्च सीदत अवस्थानं कुरुत।
-
-अस्मिन् सधस्थे सहस्थाने।
-
-अधियज्ञे स्वर्गाख्ये।
-
-‘स्वर्गो वै लोकः सधस्थः’ इति श्रुतिः।
-
-अध्युत्तरस्मिन् सर्वोत्कृष्टे।
-
-अत्र तृतीयः पादः पश्चाद्व्याख्यायते अर्थसंबन्धात्॥ ७३॥
+आजुह्वानः अभिहूयमानः। सु-प्रतीकः सु-सुखः सन्। पुरस्तात् पूर्वस्यां दिशि।  
+हे अग्ने, स्वं योनिं स्थानम् आसीद अधितिष्ठ साधुया साधु-क्रिया-विशेषणत्वेन श्रुत्या व्याख्यातम्।  
+यूयम् अपि च हे विश्वे-देवाः, यजमानश् च सीदत अवस्थानं कुरुत।  
+अस्मिन् सधस्थे सह-स्थाने।  
+अधि-यज्ञे स्वर्गाख्ये।  
+‘स्वर्गो वै लोकः सधस्थः’ इति श्रुतिः।  
+अध्य् उत्तरस्मिन् सर्वोत्कृष्टे।  
+अत्र तृतीयः पादः पश्चाद् व्याख्यायते अर्थ-संबन्धात्॥ ७३॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -1214,24 +1203,19 @@ on this higher seat may all the gods and the sacrificer sit down.
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ द्वितीया- ' आजुह्वानः सुप्रतीकः पुरस्तादने स्वं योनिमा सीद साया । अस्मिन् सधस्थे अध्युत्तरस्मिन् विश्वे देवा यजमानश् च सीदत ' इति ।
-
-हे अन्ने, खम् " आजुह्वान: भाभिमुख्येन हूयमानः सुप्रतीकः सुमुखः सन् 'पुरस्तात् पूर्वस्यां दिशि 'साधुया साध्या क्रियया ऋत्विग्-यजमानैः साधयितुं योग्यया 'सीद अधितिष्ठ । हे "विश्वे देवाः यूयं यजमानश् च अस्मिन् पुरोवर्तिनि सधस्थे अग्निना सह स्थातुं योग्ये अधि उत्तरस्मिन् अधिकमुकृष्टे स्थाने सीदत
-उपविशत ॥९॥
+अथ द्वितीया- 'आजुह्वानः सुप्रतीकः [[पुरस्तादने|पुरस्तादग्ने]] स्वं योनिमा सीद [[साया|साधुया]] । अस्मिन् सधस्थे अध्युत्तरस्मिन् विश्वे देवा यजमानश् च सीदत' इति ।  
+हे [[अन्ने|अग्ने]], [[खम्|त्वम्]] 'आजुह्वानः [[भाभिमुख्येन|आभिमुख्येन]] हूयमानः सुप्रतीकः सुमुखः सन् 'पुरस्तात् पूर्वस्यां दिशि 'साधुया साध्या क्रियया ऋत्विग्-यजमानैः साधयितुं योग्यया 'सीद अधितिष्ठ ।  
+हे 'विश्वे देवाः यूयं यजमानश् च अस्मिन् पुरोवर्तिनि सधस्थे अग्निना सह स्थातुं योग्ये अधि उत्तरस्मिन् [[अधिकमुकृष्टे|अधिकम् उत्कृष्टे]] स्थाने सीदत उपविशत ॥९॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-' आजुह्वान:' इति ।
-
-त्रिष्टु-बाग्नेयी ।
-
-"आजुह्वानः यथा-शास्त्रम् अभिहूयमानः सुप्रतीकः शोभनावयवः सुमुखश् च । " पुरस्तात् पूर्वस्यां दिशि ।
-
-हे श्रीभगवन् अग्ने, स त्वं "स्वं "योनिम् उत्पत्ति-स्थानं स्व-शरणभूमिं साधुया साध्या क्रियया ऋत्विग्-यजमानैः साधयितुं योग्यया आसीद अधितिष्ठ ।
-
-"अस्मिन् "सवस्थे अस्मिन् कर्मणि सधस्थे सहस्थाने यज्ञ-गृहे अघि उत्तरस्मिन् चुस्थान-भूते स्वस्मिन् विश्वे देवा: "यजमानः 'च 'अधि 'सीदत विश्वे देवाः संप्रदायत्वेन, यजमानः अधिकारित्वेन सीदत अवस्थानं कुरुत ॥७३॥
-२० १८०४०६
+'आजुह्वानः' इति ।  
+त्रिष्टुब् आग्नेयी ।  
+"आजुह्वानः यथा-शास्त्रम् अभिहूयमानः सुप्रतीकः शोभनावयवः सुमुखश् च । " पुरस्तात् पूर्वस्यां दिशि ।  
+हे श्रीभगवन् अग्ने, स त्वं "स्वं "योनिम् उत्पत्ति-स्थानं स्व-शरण-भूमिं साधुया साध्या क्रियया ऋत्विग्-यजमानैः साधयितुं योग्यया आसीद अधितिष्ठ ।  
+"अस्मिन् "[[सवस्थे|सधस्थे]] अस्मिन् कर्मणि सधस्थे सह-स्थाने यज्ञ-गृहे [[अघि|अधि]] उत्तरस्मिन् [[चुस्थान-भूते|द्यु-स्थान-भूते]] स्वस्मिन् विश्वे देवाः "यजमानः 'च 'अधि 'सीदत विश्वे देवाः संप्रदायत्वेन, यजमानः अधिकारित्वेन सीदत अवस्थानं कुरुत ॥ ७३ ॥  
+२० [[१८०४०६|१८.४.६]]
 </details>
 
 <details><summary>सायण-टीका (तैत्तिरीया)</summary>
@@ -1301,7 +1285,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 भावार्थभाषाः -  जे श्रेष्ठ कर्म करतात व योगाभ्यास करणाऱ्या विद्वानांच्या संगतीत राहून परस्पर प्रेमाने संवाद करतात व सर्वांचा आधार असलेल्या परमेश्वराला प्राप्त करून घेतात ते कृतकृत्य होतात.
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1338,7 +1324,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 होता प्रशास्ता ब्राह्मणाच्छंसी पोता नेष्टाच्छावाक आग्नीध्र इत्येतास्सप्त होत्राः । तथा च ब्राह्मणं तस्मात्सौम्यस्याध्वरस्या यज्ञक्रतोः । सप्तहोत्राः “प्राचीवषट्कुर्वन्ति” इति । ताभ्यः ताः यज्ञकर्मणि तव यथास्युरित्येमर्थं विष्णुस्त्वास्न्वेतु ॥
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 द्वे᳓ ऊर्जे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
@@ -1361,7 +1349,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 अथ द्वे पदे यावत्पदद्वयक्रमणं विष्णुः त्वां अन्वेतु ऊर्जे रसाय क्षीरादिसमृद्धये । एवं सर्वत्र ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 त्री᳓णि व्रता᳓य वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
@@ -1384,7 +1374,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 व्रताय कर्मसमृद्धये ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 चत्वा᳓रि मा᳓योभवाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
@@ -1407,7 +1399,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 मायोभवाय प्राणसमृद्धये मयोभूः वातः तत्सम्बन्धी मायोभवः । उत्सादित्वादञ् ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 प᳓ञ्च पशु᳓भ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
@@ -1430,7 +1424,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 पशुभ्यः द्विपाच्चतुष्पाल्लक्षणेभ्यः ।
 </details>
 </details>
-</div><div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/46_ShaDrAyaspoShAya_viShNustvA-nvetu.md">
+</div>
+
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/46_ShaDrAyaspoShAya_viShNustvA-nvetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 ष᳓ड्राय᳓स्पो᳓षाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
 </details>
@@ -1453,7 +1449,9 @@ on this higher seat may all the gods and the sacrificer sit down.
 रायस्पोषाय धनसमृद्ध्यै ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्त᳓ सप्त᳓भ्यो हो᳓त्राभ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
 </details>

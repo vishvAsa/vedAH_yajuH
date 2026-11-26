@@ -358,7 +358,9 @@ Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehe
 पदार्थान्वयभाषाः -  (वाजिनः) ब्रह्मविद्याविषयकबलवन्त ऋत्विजः (यत्) यस्मात् (उपो, गुः) भवत्सकाशमागच्छति उ इति पूरकः (विदथम्) यज्ञं च प्राप्नुवन्ति (विप्राः) मेधाविनः धीभिः कर्मभिः (प्रमतिम्, इच्छमानाः) बुद्धिं कामयमानाः (काष्ठाम्, अर्वन्तः, न) बलिनः परां काष्ठामिव प्राप्ताः (नक्षमाणाः) कर्मज्ञानोभययोगिनः (जोहुवतः) क्रतावाहूताः (ते, नरः) ते नराः संसारस्य नेतारो भवन्ति ॥३॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -366,14 +368,13 @@ Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehe
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/6_pashu-hautrAdi/12_havirvanaspatisviShTakRtAM_yAjyAH/02_vanaspate_rashanayA-bhidhAya_piShTatamay.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 व᳓नस्पते रशन᳓याऽभिधा᳓य ।   
 पिष्ट᳓तमया वयु᳓नानि विद्वा᳓न् ।  
 व᳓ह देवत्रा᳓ दिधिषो हवीँ᳓षि ।   
 प्र᳓ चदाता᳓रममृ᳓तेषु वोचः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/6_pashu-hautrAdi/12_havirvanaspatisviShTakRtAM_yAjyAH/02_vanaspate_rashanayA-bhidhAya_piShTatamay.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -470,7 +471,9 @@ O Tree, binding with the most decorated cord, knowing the tracks,
 convey the oblations to the gods, wishing to place them, and announce the giver among the immortals.
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

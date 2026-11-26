@@ -291,7 +291,7 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 ताभ्यां धाराद्वयं सततम् पत्रे निषिञ्चेत् ।
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055_vAstoShpate_pratijAnIhi/">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/01_vAstoShpate_prati.md">
 <details open><summary><h2>०१ वास्तोष्पते प्रति ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते प्र᳓ति जानीह्य् अस्मा᳓न्त्  
@@ -301,7 +301,7 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/03_vAstoShpate_shagmayA.md">
 <details open><summary><h2>०३ वास्तोष्पते शग्मया ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते शग्म᳓या+++(=सुखया)+++ सँस᳓दा ते  
@@ -311,7 +311,7 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/054/02_vAstoShpate_prataraNo.md">
 <details open><summary><h2>०२ वास्तोष्पते प्रतरणो ...{Loading}...</h2></summary>
 
 वा᳓स्तोष्पते प्रत᳓रणो न एधि  
@@ -324,7 +324,7 @@ Notes: This section is entirely Vedic illustrating the hybrid nature of the Hira
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/056_01_amIvahA_vAstoShpate/">
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
+<div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 <details open><summary><h2>०१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
 
 अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
@@ -372,14 +372,15 @@ Notes: the worship of Rudra Vāstoṣpati in this context is a distinctive aspec
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳓+++(=अनुज्ञायां)+++,  
+देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -412,7 +413,7 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -946,152 +947,118 @@ Notes: The initial invocation of Prajāpati, Indra, Yama, Varuṇa and Soma in a
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/01_pavamAnas_suvarjanaH.md">
 प᳓वमानस् सु᳓वर्-ज᳓नः ।  
 पवि᳓त्रेण +++(नाना-विषयेषु)+++ वि᳓चर्षणिः ।  
-यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।  
-
+यᳶ᳓ पो᳓ता स᳓ **पुनातु** मा ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/02_punantu_mA.md">
 **पुन᳓न्तु** मा **देवजनाः᳓** ।  
 पुन᳓न्तु **म᳓नवो** धिया᳓ ।  
-पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।  
-
+पुन᳓न्तु **वि᳓श्व आय᳓वः**+++(=मनुष्याः)+++ ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/03_jAtavedapH_pavitravat.md">
 जा᳓तवेदᳶ पवि᳓त्रवत् ।  
 पवि᳓त्रेण **पुनाहि**+++(=पुनीहि)+++ मा ।  
 शुक्रे᳓ण देव **दी᳓द्यत्** ।  
-**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥  
-
+**अ᳓ग्ने** क्र᳓त्वा+++(=प्रज्ञया)+++ क्र᳓तूँर् अ᳓नु ॥46॥
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/04_yat_te.md">
 य᳓त् ते **पवि᳓त्रम् अर्चि᳓षि** ।  
 अ᳓ग्ने वि᳓ततम् अन्तरा᳓ ।  
-ब्र᳓ह्म ते᳓न **पुनीमहे** ।  
-
+ब्र᳓ह्म ते᳓न **पुनीमहे** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/05_ubhAbhyAn_deva.md">
 उभा᳓भ्यान् देव **सवितः** ।  
 पवि᳓त्रेण सवे᳓न च ।  
-इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++  
-
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।+++(5)+++
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/06_vaishvadevI_punatI.md">
 वैश्वदेवी᳓ **पुनती᳓** देव्य् **आ᳓गात्**+++(=आगच्छतु)+++ ।  
 य᳓स्यै बह्वी᳓स् तनु᳓वो वीत᳓-पृष्ठाः+++(=कान्त-स्तुतयः)+++ ।  
 त᳓या **म᳓दन्तस्** सध-मा᳓द्येषु +++(=सह माद्यन्ति येषु सवनेषु)+++ ।  
-वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥  
-
+वयँ᳓ **स्याम** प᳓तयो रयीणा᳓म् ॥47॥
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/07_vaishvAnaro_rashmibhir.md">
 **वैश्वानरो᳓** रश्मि᳓भिर् मा **पुनातु** ।   
 **वा᳓तᳶ** प्राणे᳓नेषिरो᳓+++(←इष गतौ)+++ मयोभूः᳓ ।  
 **द्या᳓वापृथिवी᳓** प᳓यसा प᳓योभिः +++(इति क्रमशः)+++ ।   
-ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।  
-
+ऋता᳓वरी+++(=ऋतवत्यौ)+++ यज्ञि᳓ये मा **पुनीताम्** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/08_bRhadbhis_savitas.md">
 बृह᳓द्भिस् सवितस् तृ᳓भिः+++(=त्रिभिः [लोकगणनया]/ तृप्यतेः करणे क्विप्)+++ ।   
 व᳓र्षिष्ठैर्+++(=प्रवृद्ध-धर्मैः)+++ देव म᳓न्मभिः+++(=मननीयैः)+++ ।  
-अ᳓ग्ने द᳓क्षैᳶ **पुनाहि** मा ।  
-
+अ᳓ग्ने द᳓क्षैᳶ **पुनाहि** मा ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/09_yena_devA.md">
 ये᳓न देवा᳓ **अ᳓पुनत** ।   
 ये᳓ना᳓पो दिव्य᳓ङ् **क᳓शः**+++(←कशेर् गतिकर्मणो ऽसुन्)+++ ।  
 ते᳓न दिव्ये᳓न ब्र᳓ह्मणा ॥48॥  
-इद᳓म् ब्र᳓ह्म **पुनीमहे** ।  
-
+इद᳓म् ब्र᳓ह्म **पुनीमहे** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/10_yapH_pAvamAnIr.md">
 यᳶ᳓ पावमानी᳓र् **अध्ये᳓ति** ।  
 **ऋ᳓षिभिस् स᳓म्भृतँ** र᳓सम् ।  
 स᳓र्वँ स᳓ पूत᳓म् **अश्ञाति** ।   
-**स्वदित᳓म्**+++(=स्वादुकृतं)+++ मातरि᳓श्वना+++(=वायुना)+++ ।   
-
+**स्वदित᳓म्**+++(=स्वादुकृतं)+++ मातरि᳓श्वना+++(=वायुना)+++ ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/11_pAvamAnIr_yo.md">
 पावमानी᳓र् यो᳓ **अध्ये᳓ति** ।   
 ऋ᳓षिभिस् **स᳓म्भृतँ** र᳓सम् ।  
 त᳓स्मै स᳓रस्वती **दुहे** ।   
 क्षीरँ᳓ सर्पि᳓र् म᳓धूदक᳓म् ।
-
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/12_pAvamAnIs_svastyayanIH.md">
 पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ॥49॥   
 सु-दु᳓घा हि᳓ प᳓यस्वतीः ।  
 ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ।  
-ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।  
-
+ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/13_pAvamAnIr_dishantu.md">
 पावमानी᳓र् **दिशन्तु** नः ।  
 इमल्ँ᳓ लोक᳓म् अ᳓थो अमु᳓म् ।  
 का᳓मान्त् **स᳓मर्धयन्तु** नः ।  
-देवी᳓र् देवै᳓स् **समा᳓भृताः** ।           
-
+देवी᳓र् देवै᳓स् **समा᳓भृताः** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/14_pAvamAnIs_svastyayanIH.md">
 पावमानी᳓स् **स्वस्त्य्-अ᳓यनीः** ।  
 सु-दु᳓घा हि᳓ घृतश्-**चु᳓तः**+++(=क्षारयित्र्यः)+++ ।  
 ऋ᳓षिभिस् **स᳓म्भृतो** र᳓सः ॥50॥  
 ब्राह्मणे᳓ष्व् अमृ᳓तँ **हित᳓म्** ।
-
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/15_yena_devApH.md">
 ये᳓न देवाᳶ᳓ पवि᳓त्रेण ।  
 आत्मा᳓नम् **पुन᳓ते** स᳓दा ।  
 ते᳓न सह᳓स्र-धारेण ।   
-पावमान्यᳶ᳓ **पुनन्तु** मा ।            
-
+पावमान्यᳶ᳓ **पुनन्तु** मा ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/16_prAjApatyam_pavitram.md">
 प्राजापत्य᳓म् पवि᳓त्रम् ।  
 शतो᳓द्यामँ हिरण्म᳓यम् ।  
 ते᳓न ब्रह्म-वि᳓दो वय᳓म् ।  
-**पूत᳓म्** +++(यथा तथा स्वीयम्)+++ ब्र᳓ह्म **पुनीमहे** ।  
-
+**पूत᳓म्** +++(यथा तथा स्वीयम्)+++ ब्र᳓ह्म **पुनीमहे** ।
 </div>
 
-<div class="js_include collapsed" newlevelforh1="4" open unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
-
+<div class="js_include" newlevelforh1="4" unfilled includetitle="false" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/4_somAdi/08_pAvamAnyaH/17_indras_sunItI.md">
 **इ᳓न्द्रस्** सुनीती᳓+++(त्या)+++ सह᳓ मा पुनातु ।  
 **सो᳓मस्** स्वस्त्या᳓ **व᳓रुणस्** समी᳓च्या+++(=सम्यगञ्चनया)+++ ।  
 **यमो᳓** रा᳓जा प्रमृणा᳓भिᳶ+++(=प्रमारिकाभिः)+++ पुनातु मा ।   
-**जात᳓वेदा** मा+ऊर्ज᳓यन्त्या पुनातु ॥51॥  
-
+**जात᳓वेदा** मा+ऊर्ज᳓यन्त्या पुनातु ॥51॥
 </div>
 
 ब्रह्मादीन् संस्नापयेत् ।  

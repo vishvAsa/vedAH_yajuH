@@ -7,7 +7,7 @@ title = "०६ ब्रह्मोपदेशः"
 
 ## सङ्कल्पादि
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya/">
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
 <details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -54,13 +54,13 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </details>
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
 <details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
 
-सप्र॑थ स॒भाम् मे॑ गोपाय ।  
-ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
-तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
-सर्व॒म् आयु॒र् उपा॑सताम् ।
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
 </details>
 </div>
 
@@ -68,12 +68,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/asheShe_pariShat_svIkRtya.md">
-
 > स्वामिनः!  
 अशेषे हे परिषत्  
 भवत्-पादमूले मया समर्पिताम् इमां सौवर्णीं यत्-किञ्चिद्-दक्षिणां  
-यथोक्तदक्षिणामिव स्वीकृत्य  
-
+यथोक्तदक्षिणामिव स्वीकृत्य
 </div>  
 
 > .... नक्षत्रे .... राशौ जातस्य .... गोत्रस्य शर्मणः  
@@ -111,7 +109,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/12_rAShTrabhRdasyAchAryAsandI_mA.md">
 +++(हे कूर्च!)+++ राष्ट्रभृ᳓द् अस्य् आचार्याऽऽसन्दी᳓,  
-[[मा᳓|मा]] त्व᳓द्+++(तः)+++ योषम्+++(←यौतिः पृथग्भावे)+++ ।
+मा᳓ त्व᳓द्+++(तः)+++ योषम्+++(←यौतिः पृथग्भावे)+++ ।
 </div>
 
 उपनेताऽऽचार्य उपविशति ।  
@@ -146,13 +144,10 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 आचार्य एवम् उपदिशेत् । 
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_10_pachCho-rdharchashastatassarvAm.md">
-
 पच्छो ऽर्धर्चशस् ततस् सर्वाम् १०
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/07_upanayanaprakaraNam/11_11_vyAhRtIrvihRtAH.md">
-
 व्याहृतीर् विहृताः - पादादिष्व् अन्तेषु वा, तथार्धर्चयोर्, उत्तमां कृत्स्नायाम् ११
 
 (आद्युच्चारणपक्षे)
@@ -168,25 +163,14 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 ओं सुव॒स्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
-त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
-भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 </div>
 
 ###### पुनः पूर्णोच्यते कैश्चित्
 ॐ भूर्-भुव॒स्-सुव॒स्
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
-
-त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
-भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
-धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
 </div>
-
 </div>   
 
 एतं मन्त्रं वाचयेत् ॥
@@ -208,11 +192,9 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 कुमारः -
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/14_avRdhamasau_saumya.md">
-
-+++(सावित्रीग्रहणात्)+++ अ᳓वृधम् असौ᳓+++(←प्राण-सम्बोधने)+++ सौम्य प्राण᳓, स्वं᳓ मे गोपाय ।+++(५)+++
++++(सावित्रीग्रहणात्)+++ अ᳓वृधम् [[असौ᳓|असौ]]+++(←प्राण-सम्बोधने)+++ सौम्य [[प्राण᳓|प्राण]], स्वं᳓ मे गोपाय ।+++(५)+++
 
 +++(सम्बोधने स्वरः कथम्??)+++
-
 </div>
 
 <details><summary>तमिऴ्</summary>
@@ -228,9 +210,7 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 पुनर् अपि प्रत्यङ्ङ् आवृत्य,  
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/15_brahmaNa_ANI.md">
-
 +++(सावित्री)+++ब्र᳓ह्मण+++(=मन्त्रस्य)+++ आणी᳓+++(=कीले)+++ स्थः ॥+++(५)+++
-
 </div>
 
 यौगपद्येन कर्णावुपस्पृशेत् ।

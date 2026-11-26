@@ -10,14 +10,13 @@ title = "०५ इन्द्रो वृत्रतूर्ये"
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/01_indro_vRtramataradvRtratUrye.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 इ᳓न्द्रो वृत्र᳓मतरद्वृत्रतू᳓र्ये ॥ 20 ॥  
 अनाधृष्यो᳓ मघ᳓वा शू᳓र इ᳓न्द्रः ।  
 अ᳓न्वेनव्ँवि᳓शो अमदन्त पूर्वीः᳓ ।  
 अयँ᳓ रा᳓जा ज᳓गतश्चर्षणीना᳓म् ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/01_indro_vRtramataradvRtratUrye.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -72,7 +71,9 @@ Indra crossed over Vṛtra in the Vṛtra-slaying, the unassailable, bounteous, 
 After him the ancient clans rejoiced: 'This is the king of the living world, of the peoples.'
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -182,14 +183,13 @@ After him the ancient clans rejoiced: 'This is the king of the living world, of 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/05_indro_devAnChambarahatya_Avat.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 इ᳓न्द्रो देवा᳓ञ्छम्बरह᳓त्य आवत् ।  
 इ᳓न्द्रो देवा᳓नामभवत्पुरोगाः᳓ ।  
 इ᳓न्द्रो यज्ञे᳓ हवि᳓षा वावृधानः᳓ ।  
 वृत्रतू᳓र्नो अ᳓भयँ श᳓र्म यँसत् ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/05_indro_devAnChambarahatya_Avat.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -245,7 +245,9 @@ Indra became the leader of the gods.
 Indra, growing strong by oblation at the sacrifice, slayer of Vṛtra,
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -253,14 +255,13 @@ Indra, growing strong by oblation at the sacrifice, slayer of Vṛtra,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/06_yassapta_sindhU.N_radadhAtpRthivyAm.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 य᳓स्सप्त᳓ सि᳓न्धूँ र᳓दधात्पृथिव्या᳓म् ।  
 य᳓स्सप्त᳓ लोका᳓न᳓कृणोद्दि᳓शश्च ।  
 इ᳓न्द्रो हवि᳓ष्मान्त्स᳓गणो मरु᳓द्भिः ।  
 वृत्रतू᳓र्नो यज्ञ᳓मिहो᳓प यासत् ॥ 22 ॥
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/3_saumyAdi-sUktAni/05_indro_vRtratUrye/06_yassapta_sindhU.N_radadhAtpRthivyAm.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>

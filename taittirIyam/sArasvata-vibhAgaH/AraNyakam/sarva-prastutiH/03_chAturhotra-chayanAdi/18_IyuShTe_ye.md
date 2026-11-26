@@ -37,7 +37,8 @@ Mantra for bathing after funeral.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -411,5 +412,6 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
+</details>
 </details>
 </div>

@@ -65,19 +65,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/09_upAMshu_yajurvedena.md">
 <details open><summary><h2>09 उपांशु यजुर्वेदेन ...{Loading}...</h2></summary>
 
-उपांशु यजुर्वेदेन ९  
-
-<details><summary>विश्वास-टिप्पनी</summary>
-
-> यज्ञकर्मण्यजपन्यूङ्खसामसु 1-2-34
-
-इत्याह पाणिनिः।  
-तथा काशिकाकौमुद्यौ - 
-
-> "अजपेति किम् । (ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु) । जपो नाम उपांशुप्रयोगः । यथा जले निमग्नस्य ।"
-
-तेनात्र नैकश्रुतिः। 
-</details>
+उपांशु यजुर्वेदेन ९
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/10_anyatrAshrutapratyAshrutapravarasaMvAdasampraiShaishcha.md">
@@ -90,7 +78,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/11_antarA_sAmidhenIShvanUchyam.md">
 <details open><summary><h2>11 अन्तरा सामिधेनीष्वनूच्यम् ...{Loading}...</h2></summary>
 
-अन्तरा सामिधेनीष्वनूच्यम् ११ 
+अन्तरा सामिधेनीष्व् अनूच्यम् ११ 
 
 </details>
 </div>

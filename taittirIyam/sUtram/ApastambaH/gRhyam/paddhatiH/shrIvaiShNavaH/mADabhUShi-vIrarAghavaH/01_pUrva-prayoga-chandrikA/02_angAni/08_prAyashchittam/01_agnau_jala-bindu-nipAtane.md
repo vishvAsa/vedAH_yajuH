@@ -8,10 +8,10 @@ title = "०१ अग्नौ जल-बिन्दु-निपातने"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
 <details open><summary><h4>49 पुनस् त्वा ...{Loading}...</h4></summary>
 
-पुन॑स् त्वा ऽऽदि॒त्या रु॒द्रा वस॑वः॒ **समि॑न्धतां॒**,  
-पुन॑र् ब्र॒ह्माणो॑ वसुनीथ! य॒ज्ञैः ।  
-घृ॒तेन॒ त्वं त॒नुवो॑ **वर्धयस्व**,  
-स॒त्याः **स॑न्तु॒** यज॑मानस्य॒ कामाः॑ ॥
+पु᳓नस् त्वा ऽऽदित्या᳓ रुद्रा᳓ व᳓सवः **स᳓मिन्धतां**,  
+पु᳓नर् ब्रह्मा᳓णो वसुनीथ! यज्ञैः᳓ ।  
+घृते᳓न त्वं᳓ तनु᳓वो **वर्धयस्व**,  
+सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
 
 +++(अग्नये वसुनीथायेदं न मम॥)+++
 </details>

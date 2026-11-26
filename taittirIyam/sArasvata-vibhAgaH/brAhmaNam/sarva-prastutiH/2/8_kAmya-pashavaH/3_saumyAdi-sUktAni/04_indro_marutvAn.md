@@ -115,6 +115,12 @@ ugrám ← ugrá- (nominal stem)
 उ॒ग्रँ स॑हो॒दामि॒ह तँ हु॑वेम ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मरु᳓त्वन्तं वृषभं᳓ वावृधान᳓म᳓कवारिं दिव्यँ शास᳓मि᳓न्द्रम्।  
+विश्वासा᳓हम᳓वसे नू᳓तनायोग्नँ सहोदा᳓मिह तँ हुवेम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒रुत्व॑न्तम् । वृ॒ष॒भम् । व॒वृ॒धा॒नम् । अक॑वऽअरिम् । दि॒व्यम् । शा॒सम् । इन्द्र॑म् ।  
@@ -124,6 +130,26 @@ ugrám ← ugrá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 मरु᳓त्वन्तम् । वृषभ᳓म् । वावृधान᳓म् । अ᳓-कवारिम् । दिव्य᳓म् । शास᳓म् । इ᳓न्द्रम् । विश्व-सा᳓हम् । अ᳓वसे । नू᳓तनाय । उग्र᳓म् । सहः-दा᳓म् । इह᳓ । त᳓म् । हुवेम ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मरु᳓त्वन्तम् (*MS*-1, *TS*-2, *RV*-13/17, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वृषभ᳓म् (*MS*-4/25, *TS*-4/15, *RV*-32/149, *TB*-7/17, *AV*-10/37, *SB-M*-1/11, *SB-K*-1/7, *VS-M*-3/12, *VS-K*-2/11)
+- वावृधान᳓म् (*MS*-2/7, *TS*-1/6, *TB*-1/4, *TK*-0/1, *SB-M*-1, *SB-K*-1/2, *VS-M*-1/4, *VS-K*-1/6)
+- अ᳓-कवारिम् (*MS*-1, *TB*-1, *SB-M*-1, *VS-K*-1)
+- दिव्यम् → **दिव्य᳓म्** (स्वर-लोपः, *MS*-8/38, *TS*-10/33, *RV*-19/98, *TB*-4/15, *AV*-5/47, *SB-M*-7/23, *SB-K*-7/20, *VS-M*-5/20, *VS-K*-3/21)
+- शास᳓म् (*MS*-1, *TS*-1, *RV*-2/3, *TB*-1, *AV*-0/1, *SB-M*-3/6, *SB-K*-2/8, *VS-M*-1, *VS-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- विश्व-सा᳓हम् (*TS*-1, *TB*-1, *MS*-1)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- नू᳓तना (*MS*-1/3, *TS*-1/4, *RV*-3/27, *TB*-0/3, *AV*-1/3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- यः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-16, *TS*-3, *TB*-11, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- अग्नम् (मूल-पाठः)
+- सहः-दा᳓म् (*TS*-1, *RV*-4/7, *TB*-1, *AV*-1, *VS-M*-1, *MS*-1)
+- इह (*AV*-7, *SB-M*-1, *VS-M*-1, *VS-K*-2)
+- तम् (*MS*-13, *TS*-4, *TB*-6, *TK*-1, *SB-M*-8, *SB-K*-10)
+- हुवेम (*MS*-5, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -311,6 +337,12 @@ All-powerful, the dread, giver of strength,
 For present aid let us invoke.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra accompanied by the Maruts, the bull, the growing one, who has no niggardly foe, the heavenly ruler,  
+all-conquering, fierce, the giver of strength—him we would call here for modern aid!
+</details>
+
 <details><summary>Geldner</summary>
 
 Den erstarkten Bullen in Begleitung der Marutschar, der kein geiziger Herr ist, den himmlischen Gebieter Indra, den Allbezwinger, den gewaltigen Siegverleiher, den wollen wir zu erneutem Beistand hierher rufen.
@@ -377,7 +409,9 @@ Den Marutherrscher Indra, den erstarkten, der nimmer geizt, den himmlischen Gebi
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी त्यालाच राजा करावे ज्याच्यामध्ये संपूर्ण राजधर्म पाळण्याची क्षमता असते. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -490,6 +524,12 @@ yát ← yá- (pronoun)
 मा॒ता यद्वी॒रन्द॒धन॒द्धनि॑ष्ठा ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ज᳓निष्ठा उग्र᳓स्स᳓हसे तुरा᳓य मन्द्र᳓ ओ᳓जिष्ठो बहुला᳓भिमानः।  
+अ᳓वर्धन्नि᳓न्द्रं मरु᳓तश्चिद᳓त्र माता᳓ य᳓द्वीरं᳓ दध᳓नद्धनिष्ठा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 जनि॑ष्ठाः । उ॒ग्रः । सह॑से । तु॒राय॑ । म॒न्द्रः । ओजि॑ष्ठः । ब॒हु॒लऽअ॑भिमानः ।  
@@ -509,6 +549,27 @@ yát ← yá- (pronoun)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ज᳓निष्ठाः । उग्रः᳓ । स᳓हसे । तुरा᳓य । मन्द्रः᳓ । ओ᳓जिष्ठः । बहुला᳓भिमानः । अ᳓वर्धन् । इ᳓न्द्रम् । मरु᳓तः । चित् । अ᳓त्र । माता᳓ । य᳓त् । वीर᳓म् । दध᳓नत् । ध᳓निष्ठा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ज᳓निष्ठाः (*MS*-2/4, *RV*-2, *TB*-1, *VS-M*-1, *VS-K*-1)
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- स᳓हसे (*MS*-5/43, *TS*-0/35, *RV*-8/122, *TB*-3/28, *TK*-0/4, *AV*-3/50, *SB-M*-2/21, *SB-K*-1/24, *VS-M*-5/28, *VS-K*-4/40)
+- तुरा᳓य (*MS*-3/6, *TS*-1/4, *RV*-7/43, *TB*-2/3, *AV*-1/7, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/2)
+- मन्द्रः᳓ (*MS*-3/7, *TS*-0/8, *RV*-26/58, *TB*-6/8, *TK*-0/1, *AV*-1/4, *SB-M*-0/1, *VS-M*-1/4, *VS-K*-1/5)
+- ओ᳓जिष्ठः (*MS*-4/6, *TS*-0/3, *RV*-6/16, *TB*-3/5, *AV*-2/4, *SB-M*-3/7, *SB-K*-1/4, *VS-M*-4/6, *VS-K*-1/5)
+- बहुला᳓भिमानः (*MS*-1, *TB*-1)
+- अ᳓वर्धन् (*MS*-1, *RV*-6, *TB*-1, *VS-M*-2, *VS-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- अ᳓त्र (*MS*-59, *TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17)
+- माता᳓ (*MS*-26/61, *TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वीर᳓म् (*MS*-12/36, *TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17)
+- दध᳓नत् (*RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- धनिष्ठा → **ध᳓निष्ठा** (स्वर-लोपः, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -640,31 +701,16 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-जनिष्ठा उग्रः।
-
-जातः उग्रः उद्गूर्णः।
-
-सहसे बलाय तुराय त्वरणाय।
-
-वचनविशेषणम्।
-
-मन्द्रः मन्दनीयः ओजिष्ठः अतिशयेन ओजसा युक्तः।
-
-बहुलाभिमानः अचिन्त्याभिमानः बहुप्रकाराभिमानो वा।
-
-अभिमानः ज्ञानम् यत् तस्मात्।
-
-अवर्धनवर्धयनिन्द्रं।
-
-मरुतश्चित् मरुतोऽपि अत्र परमपदे स्थितम्।
-
-माता अदितिः यत् यस्मात् वीरंच दधनत् दधातेरेतद्रूपम् नकार उपजनः।
-
-धारितवती।
-
-धनिष्ठा अतिशयेन धन्या धनवती।
-
-तस्माच्च मरुतः अवर्धन्निति संबन्धः॥ ६४॥
+जनिष्ठा उग्रः। जातः उग्रः उद्गूर्णः। सहसे बलाय तुराय त्वरणाय। वचन-विशेषणम्।  
+मन्द्रः मन्दनीयः ओजिष्ठः अतिशयेन ओजसा युक्तः।  
+बहुलाभिमानः अचिन्त्याभिमानः बहु-प्रकाराभिमानो वा।  
+अभिमानः ज्ञानम् यत् तस्मात्।  
+अवर्धन् अवर्धयन् इन्द्रं।  
+मरुतश् चित् मरुतो ऽपि अत्र परम-पदे स्थितम्।  
+माता अदितिः यत् यस्मात् वीरं च दधनत् दधातेर् एतद् रूपम् नकार उपजनः।  
+धारितवती।  
+धनिष्ठा अतिशयेन धन्या धनवती।  
+तस्माच् च मरुतः अवर्धन्न् इति संबन्धः॥ ६४॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -698,13 +744,9 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-यः इन्द्रः, जनिष्ठा अतिशयेन जन्मवान्, सहसे बलवते, तुराय त्वरणवते संग्रामाय तदर्थम् उग्रः उद्गूर्ण-बलः, मन्द्रः मदनीयः, ओजिष्ठः अतिशयेन ओजस्वी, बहुलाभिमानः प्रवृद्धाभिमान-युक्तः मनस्वी इत्य् अर्थः ।
-
-तम् इन्द्रं मरुतश् चित् मरुतो ऽपि अत्र संग्रामे' अवर्द्धयन् ।
-
-यद् वीरं शत्रूणां विशेषेण ईरयितारम् इन्द्रं धनिष्ठा इन्द्राख्यातिशय-धन-युक्त।
-
-माता इन्द्र-माता अदितिः दधनत्
+यः इन्द्रः, जनिष्ठा अतिशयेन जन्मवान्, सहसे बलवते, तुराय त्वरणवते संग्रामाय तद्-अर्थम् उग्रः उद्गूर्ण-बलः, मन्द्रः मदनीयः, ओजिष्ठः अतिशयेन ओजस्वी, बहुलाभिमानः प्रवृद्धाभिमान-युक्तः मनस्वी इत्य् अर्थः ।  
+तम् इन्द्रं मरुतश् चित् मरुतो ऽपि अत्र [[संग्रामे'|संग्रामे]] अवर्द्धयन् ।  
+यद् वीरं शत्रूणां विशेषेण ईरयितारम् इन्द्रं धनिष्ठा इन्द्राख्यातिशय-धन-[[युक्त।|युक्ता]] माता इन्द्र-माता अदितिः दधनत्
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -772,6 +814,12 @@ THOU wast born mighty for victorious valour, exulting, strongest, full of pride 
      There, even there, the Maruts strengthened Indra when. his most rapid Mother stirred the Hero.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+You were born fierce for swift strength, charming, most mighty, of boundless pride;  
+the Maruts magnified Indra even then, when the mother, most wealthy, bore the hero.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du bist zu überlegener Macht geboren, der Gewaltige, Beliebte, Gewaltigste von reichlichem Selbstgefühl. Die Marut sogar stärkten dabei den Indra, als die Mutter den Helden laufen lehrte als die beste Lehrmeisterin;
@@ -828,7 +876,9 @@ Du starker bist erzeugt zu raschem Siege, erfreuend, mächtig, viele Pläne hege
 पदार्थान्वयभाषाः -  (उग्रः) उद्गूर्णबलः प्रतापी (मन्द्रः) हर्षप्रदः-आनन्ददाता (ओजिष्ठः) अतिशयेनौजस्वी बली (बहुलाभिमानः) बहुप्रकारेणात्मानमभिमन्यमानः-प्रतिष्ठावान् (सहसे तुराय) स्वसैन्यबलरक्षणाय तथा शत्रुबलस्य नाशाय (जनिष्ठाः) हे-इन्द्र राजन् ! त्वं जायसे (इन्द्रं मरुतः-चित्-अवर्धन्) त्वां राजानं सैनिकाः-अपि “असौ या सेना मरुतः परेषामस्मानैत्यभ्योजसा स्पर्धमाना। तां विध्यत तमसापव्रतेन यथैषामन्यो अन्यं न जानात्।” [अथर्व० ३।२।६] महासेनाध्यक्षादयः “मरुतः सेनाध्यक्षादयः” [ऋ० १।३७।१२ दयानन्दः] वर्धयन्ति (अत्र माता यत्-वीरं दधनत्-धनिष्ठा) अत्र राष्ट्रनिमित्तं यतस्त्वां वीरं धारयति सा माता राष्ट्रभूमिर्वा साऽतिधन्या “धनिष्ठा अतिशयेन धनिनी” [यजु० ३।६४ दयानन्दः] ॥१॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -950,6 +1000,18 @@ víśvasya ← víśva- (nominal stem)
 विश्व॑स्य॒ शत्रो॒रन॑मव्ँवध॒स्नैः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+क्व᳙ स्या᳓ वो मरुतः स्वधा᳓सीद् य᳓न् माम् ए᳓कँ सम᳓धत्ताहिह᳓त्ये  
+अहँ᳓ ह्य् उ᳙ग्र᳓स् तविष᳓स् तु᳓विष्मान् वि᳓श्वस्य श᳓त्रोर् अ᳓नमँ वधस्नैः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+क्व्र स्या᳓ वो मरुतस्स्वधा᳓सीद्य᳓न्मा᳓मे᳓कँ सम᳓धत्ताहिह᳓त्ये।  
+अह᳓ ह्य्रुग्र᳓स्तविष᳓स्तु᳓विष्मान्वि᳓श्वस्य श᳓त्रोर᳓नमं वधस्नैः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 क्व॑ । स्या । वः॒ । म॒रु॒तः॒ । स्व॒धा । आ॒सी॒त् । यत् । माम् । एक॑म् । स॒म्ऽअध॑त्त । अ॒हि॒ऽहत्ये॑ ।  
@@ -959,6 +1021,51 @@ víśvasya ← víśva- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 क्वः᳙ । या᳓ । वः । मरुतः । स्व-धा᳓ । असि । इत् । य᳓त् । मा᳓म् । ए᳓कम् । सम् । अ᳓धत्त । अहि-ह᳓त्ये । अह᳓म् । हि । उग्रः᳓ । तविषः᳓ । तु᳓विष्मान् । वि᳓श्वस्य । श᳓त्रोः । अ᳓नमम् । वध-स्नैः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- क्व᳙ (*TS*-6, *RV*-41, *TB*-4, *AV*-16, *SB-M*-30, *SB-K*-32, *KS*-2)
+- स्या᳓ (*TS*-1/94, *RV*-16/72, *TB*-23, *AV*-3/5, *SB-M*-3/237, *SB-K*-1/235, *VS-M*-1/3, *VS-K*-1/3, *KS*-2/15)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-122)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2, *KS*-18)
+- स्व-धा᳓ (*TS*-5, *RV*-7, *TB*-11, *AV*-19, *SB-M*-12, *SB-K*-12, *VS-M*-6, *VS-K*-6, *KS*-4)
+- आसीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-64, *RV*-38, *TB*-28, *TK*-1, *AV*-26, *SB-M*-86, *SB-K*-75, *VS-M*-45, *VS-K*-50, *KS*-11)
+- य᳓त् (*TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609, *KS*-257/818)
+- माम् (*TB*-3, *TK*-1, *VS-K*-1, *KS*-2)
+- ए᳓कम् (*TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27, *KS*-10/24)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2, *KS*-62)
+- अ᳓धत्त (*RV*-1, *TB*-8, *SB-M*-8, *SB-K*-6, *KS*-1)
+- अहि-ह᳓त्ये (*RV*-4/5, *TB*-1, *AV*-1, *VS-M*-1, *KS*-1)
+- अह᳓म् (*TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274, *KS*-58/242)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43, *KS*-81)
+- उग्रः᳓ (*TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18, *KS*-3/12)
+- तविषः᳓ (*RV*-4/18, *TB*-3/4, *AV*-0/7, *KS*-1/2)
+- तु᳓विष्मान् (*TS*-1, *RV*-12, *TB*-2, *AV*-2, *KS*-1)
+- वि᳓श्वस्य (*TS*-15/283, *RV*-67/1116, *TB*-5/125, *TK*-43/124, *AV*-23/353, *SB-M*-12/248, *SB-K*-12/219, *VS-M*-18/225, *VS-K*-20/224, *KS*-5/118)
+- श᳓त्रोः (*TS*-1/18, *RV*-5/82, *TB*-1/13, *AV*-1/57, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-1/11, *VS-K*-1/8, *KS*-1/5)
+- अ᳓नमम् (*RV*-1, *TB*-1, *KS*-1)
+- वध-स्नैः᳓ (*RV*-4, *TB*-2, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क्व्र (मूल-पाठः)
+- स्या᳓ (*MS*-3/94, *TS*-1/94, *RV*-16/72, *TB*-23, *AV*-3/5, *SB-M*-3/237, *SB-K*-1/235, *VS-M*-1/3, *VS-K*-1/3)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- स्व-धा᳓ (*MS*-7, *TS*-5, *RV*-7, *TB*-11, *AV*-19, *SB-M*-12, *SB-K*-12, *VS-M*-6, *VS-K*-6)
+- सीद्य᳓म् (मूल-पाठः)
+- मा᳓म् (*MS*-37/641, *TS*-31/565, *RV*-50/1308, *TB*-25/270, *TK*-16/66, *AV*-47/1252, *SB-M*-42/723, *SB-K*-47/728, *VS-M*-8/315, *VS-K*-7/274)
+- ए᳓कम् (*MS*-20/146, *TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- अ᳓धत्त (*RV*-1, *TB*-8, *SB-M*-8, *SB-K*-6, *MS*-1)
+- अहि-ह᳓त्ये (*RV*-4/5, *TB*-1, *AV*-1, *VS-M*-1, *MS*-1)
+- अह᳓ (*MS*-160, *TS*-187, *RV*-198, *TB*-3, *TK*-31, *AV*-254, *SB-M*-269, *SB-K*-2, *VS-M*-61, *VS-K*-39)
+- ह्य्रुग्र᳓स्तविष᳓स्तु᳓विष्मान्वि᳓श्वस्य → **ह्य्रु᳓ग्रस्तविषस्तुविष्मान्विश्वस्य** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
+- श᳓त्रोः (*MS*-2/12, *TS*-1/18, *RV*-5/82, *TB*-1/13, *AV*-1/57, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-1/11, *VS-K*-1/8)
+- अ᳓नमम् (*MS*-1, *RV*-1, *TB*-1)
+- वध-स्नैः᳓ (*MS*-1, *RV*-4, *TB*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -1112,6 +1219,13 @@ _________
 इन्द्रस्य मरुतां च परस्परसंवादोऽयम् । अहिनामकस्यामुरस्य वधे मरुत इन्द्रस्य साहाय्यमकृत्वा पलायिता अतस्तान्प्रतीन्द्रः कुपित एवं ब्रवीति - हे मरुतः यद्यस्मात्काराणादहिहत्ये अहिनामकशत्रोर्वधे मामेकमेव यूयं समधत्त संयोजितवन्तः तदानीं वो युष्माकं स्वधा साऽन्ननिमित्ता शक्तिः क्वासीत् कुत्र गता । अथवा किं मे युष्माभिः, अहं ह्युग्रः अहमेवातितीव्रः तविषः महान् तुविष्मान् बलवान् तादृशस्सन्विश्वस्य सर्वस्यापि शत्रोर्वधस्नैः वधबन्धनैः अनमं वशीकरणे शक्तोऽस्मि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[122_13]** So T7 und Brl fol. 113; W1 क्व २ स्या (Thus T7 and Brl fol. 113; W1 क्व २ स्या)
+
+- **[122_14]** So Brl, W1; T7 र᳓नमं वदस्रैः᳓; Ch रनसं वधस्रैः ; D रनमं वधाम्रेः (Thus Brl, W1; T7 र᳓नमं वदस्रैः᳓; Ch रनसं वधस्रैः; D रनमं वधाम्रेः)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1126,7 +1240,7 @@ _________
 For I, the powerful and mighty, possessed of might, humbled with my  weapons those of every rival.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1141,6 +1255,18 @@ Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by tax
 
 Where was that nature then of yours, O Maruts, that ye charged me alone to slay the Dragon?  
      For I in truth am fierce and strong and mighty. I bent away from every foeman's weapons.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Where was that inherent power of yours, O Maruts, when ye left me alone in the slaying of the serpent?  
+For fierce, mighty, powerful, I bowed down every enemy with my weapons."
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Where was that will of yours, O Maruts, when you left me alone in the slaying of the dragon?  
+For I, fierce, mighty, full of strength, bowed down the arrows of every enemy.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1210,7 +1336,9 @@ Wo war denn diese eure Selbständigkeit, ihr Marut, als ihr mich im Drachenkampf
 भावार्थभाषाः -  सूर्य जसा मेघाला तसे जी माणसे विद्या धारण करून शत्रू बल नष्ट करतात त्यांनी सर्व विद्वानांना विचारावे की सर्वांना धारण करणारी शक्ती कुठे आहे? सर्वत्र स्थित आहे हे त्याचे उत्तर आहे. ॥ ६ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1499,7 +1627,7 @@ Friendshi: (AitareyaBrāhmaṇa 3.20): The Maruts alone did not leave him
 Let your partnership be with the Maruts, Indra. Then you will win all  these battles here.”
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -1534,7 +1662,9 @@ Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verl
 - धैवतः
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -1801,6 +1931,11 @@ _________
 हे मरुतः इन्द्रोऽहं स्वेनेन्द्रियेण हस्तेन स्वेन भामेन स्वकीयेन कोपेन वृत्रं वधीं अवधिषम् । अतः तविषो बभूवान् महानभवम् । इन्द्रो महानित्येवं लोके कीर्तिर्जातेत्यर्थः । अहमिन्द्रो वज्रबाहुस्सन् विश्वश्चन्द्राः सर्वस्य जगत आह्लादकराः सुगाः सुखेन गन्तुं प्राप्तुं शक्या एता दृश्यमाना वृष्टिलक्षणा अपो मनवे मनुष्यार्थं चकर कृतवानस्मि । सर्वस्य लोकस्यानिष्ठनिवारणाय वृत्रं हत्वेष्टप्राप्तये वृष्टिमुत्पादितवानस्मीत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[123_3]** Ch बभूवम्
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -1830,6 +1965,12 @@ The same problem afflicts the other cmpds of -ścandra- (áśva-, svá-, hári- 
 
 Vrtra I slew by mine own strength, O Maruts, having waxed mighty in mine indignation.  
      I with the thunder in my hand created for man these lucid softly flowing waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I slew Vṛtra, O Maruts, with my Indra-power, having grown mighty through my own wrath;  
+I, with the vajra in my arm, have made these all-gleaming waters easy to traverse for Manu.
 </details>
 
 <details><summary>Geldner</summary>
@@ -1899,7 +2040,9 @@ Ich erschlug den Vritra, ihr Marut, mit der Indrakraft, durch meinen eigenen Gri
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जशी सूर्यामुळे वृष्टी होऊन संपूर्ण जग जगते. तसे शत्रूंचे निवारण करून सर्व प्राणी जिवंत राहतात. ॥ ८ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

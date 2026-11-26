@@ -7,10 +7,10 @@ title = "०२ प्रयत्नम् अन्तरेण अग्न�
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_09/09_uddIpyasva_jAtavedo-paghnannirRtim.md">
 <details open><summary><h2>०९ उद्दीप्यस्व जातवेदोऽपघ्नन्निर्ऋतिम् ...{Loading}...</h2></summary>
 
-उद्दी॑प्यस्व जातवेदो  
-ऽप॒घ्नन् निर्ऋ॑तिं॒ मम॑ ।  
-प॒शूँश् च॒ मह्य॒म् आ व॑ह॒  
-जीव॑नञ् च॒ दिशो॑ दश ।+++(र५)+++
+**उ᳓द्दीप्यस्व** जातवेदो  
+**अपघ्न᳓न्** नि᳓रृतिं म᳓म ।  
+पशूँ᳓श् च म᳓ह्यम् **आ᳓ वह**  
+जी᳓वनञ् च दि᳓शो **दिश** ।+++(र५)+++
 
 </details>
 </div>

@@ -7,10 +7,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/01_imA~N_khanAmyoShadhIm.md">
 <details open><summary><h2>०१ इमाङ् खनाम्योषधीम् ...{Loading}...</h2></summary>
 
-इ॒मां खना॒म्य् ओष॑धीं  
-वी॒रुधं॒+++(हां)+++ बल॑वत्तमाम् ।  
-यया॑ स॒पत्नीं॒ बाध॑ते॒  
-यया॑ संवि॒न्दते॒ पति॑म् ।  
+इमां᳓ खनाम्य् ओ᳓षधीं  
+वीरु᳓धं+++(हां)+++ ब᳓लवत्तमाम् ।  
+य᳓या सप᳓त्नीं बा᳓धते  
+य᳓या संविन्द᳓ते प᳓तिम् ।  
 
 </details>
 </div>
@@ -19,7 +19,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/02_uttAnaparNe_subhage.md">
 <details open><summary><h2>०२ उत्तानपर्णे सुभगे ...{Loading}...</h2></summary>
 
-[[उत्तान᳓पर्णे|उ᳓त्तानपर्णे]] [[सु᳓भगे|सुभगे]]  
+उ᳓त्तानपर्णे सुभगे  
 स᳓हमाने स᳓हस्वति ।  
 सप᳓त्नीं मे **प᳓राधम**  
 प᳓तिं मे के᳓वलं **कृधि** ।
@@ -29,17 +29,17 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/03_uttarA-hamuttara_uttareduttarAbhyaH.md">
 <details open><summary><h2>०३ उत्तराऽहमुत्तर उत्तरेदुत्तराभ्यः ...{Loading}...</h2></summary>
 
-उत्त॑रा॒ ऽहम् +++(हे)+++ उत्त॑र॒+++(य्)+++  
-उत्त॒रेद् उत्त॑राभ्यः ।  
-अथा॑ स॒पत्नी॒ या ममा-  
-ऽध॑रा॒ साऽध॑राभ्यः ।+++(र५)+++  
+उ᳓त्तरा ऽह᳓म् +++(हे)+++ **उ᳓त्तर**+++(य्)+++  
+उ᳓त्तरे᳓द् उ᳓त्तराभ्यः ।  
+अ᳓था सप᳓त्नी या᳓ म᳓म+-  
+अ᳓धरा सा᳓ऽधराभ्यः ।+++(र५)+++  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/04_na_hyasyai.md">
 <details open><summary><h2>०४ न ह्यस्यै ...{Loading}...</h2></summary>
 
-**न᳓** ह्य् अ᳙स्यै ना᳓म **[[गृभ्णामि|गृ᳓भ्णामि]]**  
+**न᳓** ह्य् अ᳙स्यै ना᳓म **गृ᳓भ्णामि**  
 +++(यतः)+++ **नो᳓** अस्मि᳓न् **रमते** ज᳓ने ।  
 प᳓राम् एव᳓ पराव᳓तँ+++(=दूरम्)+++  
 सप᳓त्नीं **नाशयामसि** ।  
@@ -52,10 +52,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/05_ahamasmi_sahamAnA-tha.md">
 <details open><summary><h2>०५ अहमस्मि सहमानाऽथ ...{Loading}...</h2></summary>
 
-अ॒हम॑स्मि॒ सह॑मा॒ना ऽथ॒  
-त्वम॑सि सास॒हिः+++(=सहमाना)+++ ।  
-उ॒भे सह॑स्वती भू॒त्वा  
-स॒पत्नीं॑ मे सहावहै ।  
+अह᳓म् अस्मि **स᳓हमाना**+  
+अ᳓थ त्व᳓म् असि **सासहिः᳓**+++(=सहमाना)+++ ।  
+उभे᳓ स᳓हस्वती भूत्वा᳓  
+सप᳓त्नीं मे सहावहै ।  
 
 </details>
 </div>
@@ -65,10 +65,10 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_16/06_upa_te-dhAm.md">
 <details open><summary><h2>०६ उप तेऽधाम् ...{Loading}...</h2></summary>
 
-+++(हे भर्तः।)+++ उप॑ ते ऽधाँ॒ सह॑मानाम् +++(बाहुं)+++  
-अ॒भि त्वा॑ऽधाँ॒ +++(अपराम् बाहुम्)+++ सही॑यसा +++(मनसा)+++ ।  
-माम् अनु॒ प्र ते॒ मनो॑ व॒त्सं  
-गौरि॑व धावतु, प॒था वारि॑+++(री)+++व धावतु ॥ (16)
++++(हे भर्तः।)+++ उ᳓प ते **ऽधाँ** स᳓हमानाम् +++(बाहुं)+++  
+अभि᳓ त्वा **ऽधाँ** +++(अपराम् बाहुम्)+++ स᳓हीयसा +++(मनसा)+++ ।  
+मा᳓म् अ᳓नु प्र᳓ ते म᳓नो वत्सं᳓  
+गौ᳓र् इव **धावतु**, पथा᳓ वा᳓रि+++(री)+++व **धावतु** ॥ (16)
 
 </details>
 </div>
@@ -107,48 +107,29 @@ ___________________
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/04_yenendro_haviShA.md">
 <details open><summary><h2>०४ येनेन्द्रो हविषा ...{Loading}...</h2></summary>
 
-येनेन्द्रो॑ ह॒विषा॑ कृ॒त्य्  
-अ॑भवद् दि॒व्य् उ॑त्त॒मः ।  
-अ॒हन् तद् अ॑क्रि+++(=अकृषि)+++  
-देवा असप॒त्ना किला॑ऽभवम् ।  
-
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/159/04_yenendro_haviShA.md">
-<details open><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
-
-ये᳓ने᳓न्द्रो हवि᳓षा कृत्वी᳓  
-अ᳓भवद् द्युम्नी᳓ उत्तमः᳓  
-इदं᳓ त᳓द् अक्रि देवा  
-असपत्ना᳓ कि᳓लाभुवम्
-</details>
-</div>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/174/04_yenendro_haviShA.md">
-<details open><summary><h4>०४ येनेन्द्रो हविषा ...{Loading}...</h4></summary>
-
-ये᳓ने᳓न्द्रो हवि᳓षा कृत्वी᳓  
-अ᳓भवद् द्युम्नी᳓ उत्तमः᳓  
-इदं᳓ त᳓द् अक्रि देवा  
-असपत्नः᳓ कि᳓लाभुवम्
-</details>
-</div>
+ये᳓ने᳓न्द्रो हवि᳓षा कृत्य्  
+**अ᳙भवद्** दिव्य् उ᳙त्तमः᳓ ।  
+अह᳓न् त᳓द् **अक्रि**+++(=अकृषि)+++ देवा  
+असपत्ना᳓ कि᳓लाऽभवम् ।
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/05_asapatnA_sapatnighnI.md">
 <details open><summary><h2>०५ असपत्ना सपत्निघ्नी ...{Loading}...</h2></summary>
 
-अ॒स॒प॒त्ना स॑पत्नि॒घ्नी  
-जय॑न्त्य् अभि॒भूव॑री ।  
-आवि॑त्सि॒+++(=अलभे)+++ सर्वा॑साँ॒ +++(सपत्नीनां)+++ राधो॒  
-वर्चो॒ अस्थे॑यसाम्+++(=अस्थिराणाम्)+++ इव ।  
+असपत्ना᳓ सपत्निघ्नी᳓  
+**ज᳓यन्त्य्** अभिभू᳓वरी ।  
+**आ᳓वित्सि**+++(=अलभे)+++ स᳓र्वासाँ +++(सपत्नीनां)+++ रा᳓धो  
+व᳓र्चो अ᳓स्थेयसाम्+++(=अस्थिराणाम्)+++ इव ।  
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_17/06_samajaiShamimA_aham.md">
 <details open><summary><h2>०६ समजैषमिमा अहम् ...{Loading}...</h2></summary>
 
-सम॑जैषम् इ॒मा अ॒हँ  
-स॒पत्नी॑र् अभि॒भूव॑रीः ।  
-यथा॒ऽहम॑स्य वी॒रस्य॑  
-वि॒राजा॑मि॒ धन॑स्य च ॥ (17)
+स᳓म् **अजैषम्** इमा᳓ अहँ᳓  
+सप᳓त्नीर् **अभिभू᳓वरीः** ।  
+य᳓थाऽह᳓म् अस्य वीर᳓स्य  
+**विरा᳓जामि** ध᳓नस्य च ॥ (17)
 
 </details>
 </div>

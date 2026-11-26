@@ -419,7 +419,9 @@ Mit siegverleihnden Kräften, Feindbesieger, o Indra-Agni, naht euch durch Gebet
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जे राजा व मंत्री वायू व विद्युतप्रमाणे उपकारक असतात त्यांना पुष्कळ धन प्राप्त व्हावे. ॥ ३ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदिन्द्राग्नी᳓ ।   
 छा᳓गस्य वपा᳓या मे᳓दसः ।  
@@ -759,7 +761,7 @@ Because, seeking a better state, I have surveyed with my mind my kith  and kin, 
 there exists for me no other (fatherly) solicitude than you two. So I have  fashioned for you a thought that seeks the prize.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
+<div class="js_include" includetitle="true" newlevelforh1="4" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
 <details><summary>Jamison Brereton Notes</summary>
@@ -847,7 +849,9 @@ Ich schaute aus im Geiste Gut begehrend, Indrāgni, nach Bekannten und Verwandte
 भावार्थभाषाः -  या मंत्रात दोन लुप्तोपमालंकार आहेत. माणसांनी उत्तम प्रेम व पुरुषार्थाने श्रेष्ठ विद्या इत्यादीचा बोध करवून अत्यंत उत्तम बुद्धी उत्पन्न करवून व्यवहार व परमार्थ सिद्ध करण्यासाठी कार्य करावे. ॥ १ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदिन्द्राग्नी᳓ ।   
 पुरोडा᳓शस्य जुषे᳓ताँ हविः᳓ ।  
@@ -1210,7 +1214,9 @@ Dich fordern stets, die Opferspeisen bringend, den emsigen, die Menschen auf zur
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो ! जसे सामग्री बाळगणारे लोक अग्निविद्या प्राप्त करून निरंतर आनंदित होतात तसेच ईश्वराला प्राप्त करून निरंतर श्रीमंत होतात. ॥ २ ॥
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हो᳓ता यक्षदग्नि᳓म् ।   
 पुरोडा᳓शस्य जुष᳓ताँ हविः᳓ ।  

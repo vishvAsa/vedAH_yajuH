@@ -83,7 +83,9 @@ may Agni protect me from them; may we go to the righteous!
 अत्र प्रथमे अनुष्टुभौ । तृतीया त्रिष्टुप् । चतुर्थीपश्चम्यौ अनुष्टुभौ । षष्ठी त्रिष्टुप् । सप्तम्यष्टम्यावनुष्टुभौ । नवमी त्रिष्टुप् । 'ये देवा यज्ञहनो यज्ञमुषः' इति प्रथमयो प्रथमौ पादौ, समाना अन्येऽपि पादाः । एवं नफलं गच्छेम ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -91,12 +93,11 @@ may Agni protect me from them; may we go to the righteous!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/5/04_atimoxamantrAH/02_Aganma_mitrAvaruNA_vareNyA.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 आ᳓गन्म मित्रावरुणा वरेण्या रा᳓त्रीणाम्भागो᳓ युव᳓योर्यो᳓ अ᳓स्ति ।   
 ना᳓कङ्गृह्णाना᳓स्सुकृत᳓स्य लोके᳓ तृती᳓ये पृष्ठे᳓ अ᳓धि रोचने᳓ दिवः᳓ ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/5/04_atimoxamantrAH/02_Aganma_mitrAvaruNA_vareNyA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -192,7 +193,9 @@ seizing the vault in the world of the righteous on the third back above the ligh
 हे मित्रावरुणा मित्रावरुणौ वरेण्या वरेण्यौ वरणीयौ रात्रीणां सम्बन्धी अहोरात्रेषु अस्माभिर्दत्तः युवयोर्भागः हविरंशो योस्ति सामर्थ्यात्तस्य फलं वयमागन्म आभिमुख्येन गच्छेम नाकं स्वयमेव गृह्णानाः आददानाः सुकृतस्य लोके सुष्ठुकृतानां कर्मणां तृतीये फलस्थाने दिवः पृष्ठे रोचने दीप्यमाने अधि उपरि सुकृतमागन्मेति । यद्वा - अधिकं रोचमाने दिवः पृष्ठे आगन्मेति । 'कर्षात्वतः' इति भागशब्दोन्तोदात्तः, न 'भ्राण्नपात्' इत्यादौ नाकशब्दोन्तोदात्तो निपात्यते । 'सूपमानात्क्तः' इति सुकृतशब्दोन्तोदात्तः, 'अनुदात्तेतश्च हलादेः' इति रोचनशब्दो युजन्तः ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -268,7 +271,9 @@ may Vāyu protect me from them; may we go to the righteous!
 गतौ च मन्त्रौ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -385,7 +390,9 @@ may Sūrya protect me from them; may we go to the righteous!
 गतौ च मन्त्रौ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -393,12 +400,11 @@ may Sūrya protect me from them; may we go to the righteous!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/5/04_atimoxamantrAH/06_yenendrAya_samabhara_payA.Nsyuttamena.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 ये᳓ने᳓न्द्राय सम᳓भरᳶ प᳓याँस्युत्तमे᳓न हवि᳓षा जातवेदः ।   
 ते᳓नाग्ने त्व᳓मुत᳓ वर्धयेमँ᳓ सजाता᳓नाँ श्रै᳓ष्ठ्य आ᳓ धेह्येनम् ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/5/04_atimoxamantrAH/06_yenendrAya_samabhara_payA.Nsyuttamena.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -461,7 +467,9 @@ therewith, O Agni, do you also make him thrive; place him in the preeminence amo
 हे जातवेदः जातानां वेदितः अग्ने येन बलेन स्नेहेन वा इन्द्राय पयांसि दधिघर्मादीनि समभरः संभरसि । छान्दसो लङ् । उत्तमेन तेन बलेन स्नेहेन वा । उत अपि च हविषा एतद्धुतेन हेतुना इमं यजमानं त्वं वर्धय । कीदृशी वृद्धिरस्य कर्तव्येति चेद्ब्रूमः - सजातानां समानजातानां श्रैष्ठ्ये श्रेष्ठभावे यथाऽयं सजातानां श्रेष्ठः प्रशस्यतमो भवति तथा तत्र एनं यजमानं धेहि स्थापय सजातानां मध्ये । उत्तमशब्द उञ्छादिरन्तोदात्तः । 'वा जाते' इति सजातशब्दोन्तोदात्तः । केचिदाहुः - तिस्र एव गार्हपत्ये जुहोति, तिस्र आग्नीध्रे, तिस्र आहवनीये इति ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

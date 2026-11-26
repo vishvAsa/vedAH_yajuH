@@ -332,7 +332,9 @@ Durch deine heldenreiche Gunst, die Kraft verleiht, gedeihet der, o Agni, recht,
 पदार्थान्वयभाषाः -  (अग्ने) हे परमात्मन् ! (सः) स जनः (सुवीराभिः) सुवीरयुक्ताभिः (वाजभर्मभिः) बलातिशयसहिताभिः (तव, ऊतिभिः) तव रक्षाभिः (प्रतिरते) प्रतिरत्यापदम् (यस्य) यस्य जनस्य (सख्यम्) मैत्रीम् (आवरः, त्वम्) त्वं स्वीकरोषि ॥३०॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -628,7 +630,9 @@ Wohlan, dem Priester Agni bringt den ersten hohen Lobspruch dar, Ihm, der der Li
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे याजक यज्ञासाठी घृत इत्यादी पदार्थांनी उत्तम प्रकारे पक्व अन्नाची वृद्धी करतात. तसेच अध्यापक पुरुषांनी अंग-उपांगासह संपूर्ण विद्येचा प्रचार करून विद्यार्थी व श्रोतृजनांना तृप्त करावे. ॥ ५ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1065,7 +1069,9 @@ Drei Kräfte hast du, Agni, drei der Sitze, drei reichgefüllte Zungen, Rechtent
 भावार्थभाषाः -  हे माणसांनो! तुम्ही ब्रह्मचर्य पालन, अध्ययन व मनन हे तीन कर्म करून जन्म, स्थान व नाम कृतकृत्य करा. अध्यापन व उपदेश करून सर्वांचे रक्षण करा. स्वतः प्रमादरहित बनून इतरांनाही तसेच करा. ॥ २ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1256,7 +1262,9 @@ Indra and Viṣṇu, when you contended, you divided the thousand into three par
 - **[176_7]** Ch नदेरयेरयेथाम्
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्री᳓ण्या᳓यूँषि त᳓व जातवेदस्तिस्र᳓ आजा᳓नीरुष᳓सस्ते अग्ने ।   
 ता᳓भिर्देवा᳓नाम᳓वो यक्षि विद्वा᳓न᳓थ [45]  भव य᳓जमानाय शय्ँ᳓योः᳓ ।
@@ -1655,7 +1663,9 @@ Drei Lebensalter hast du, Wesenkenner, und drei Geburten aus der Morgenröthe; M
 भावार्थभाषाः -  भावार्थ -जी माणसे दीर्घ ब्रह्मचर्ययुक्त आहारविहारांनी दीर्घायू बनण्याची इच्छा करतात तेव्हा ती तीनशे वर्षांपर्यंत जगू शकतात. ॥ ३ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

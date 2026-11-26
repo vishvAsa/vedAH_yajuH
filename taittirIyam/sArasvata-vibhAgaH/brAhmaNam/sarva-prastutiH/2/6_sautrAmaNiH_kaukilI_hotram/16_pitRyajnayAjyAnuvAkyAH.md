@@ -151,17 +151,15 @@ unicode_script: devanagari
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/16_pitRyajnayAjyAnuvAkyAH/04_agniShvAttAnRtumato_havAmahe_narAsha.Nse.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 अग्निष्वात्ता᳓नृतुम᳓तो हवामहे ।  
 न᳓राशँ᳓से सोमपीथय्ँ᳓य᳓ आशुः᳓ ।   
 ते᳓ नो अ᳓र्वन्तस्सुह᳓वा भवन्तु ।  
 श᳓न्नो भवन्तु द्विप᳓दे श᳓ञ्च᳓तुष्पदे ।
 </details>
-</div>
 
-<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/16_pitRyajnayAjyAnuvAkyAH/04_agniShvAttAnRtumato_havAmahe_narAsha.Nse.md">
-<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
 
 अ॒ग्नि॒ष्वा॒त्तानृ॑तु॒मतो॑ हवामहे ।  
@@ -220,7 +218,8 @@ We invoke the Agniṣvāttas, who keep their seasons, who enjoyed the drinking o
 may those sages, easily invoked, be gracious to us; may they bring welfare to our two-footed, welfare to our four-footed.
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -665,7 +664,9 @@ Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang g
 - धैवतः
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

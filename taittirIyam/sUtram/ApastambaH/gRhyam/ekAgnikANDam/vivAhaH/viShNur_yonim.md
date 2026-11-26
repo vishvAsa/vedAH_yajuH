@@ -30,20 +30,20 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/04_yatheyam_pRthivI.md">
 <details open><summary><h2>०४ यथेयम् पृथिवी ...{Loading}...</h2></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही  
-तिष्ठ॑न्ती॒ गर्भ॑म् आद॒धे ।  
-ए॒वन् त्वं गर्भ॒म् आ ध॑त्स्व  
-दश॒मे मा॒सि सूत॑वे ।
+य᳓थेयं᳓ पृथिवी᳓ मही᳓  
+**ति᳓ष्ठन्ती** ग᳓र्भम् **आदधे᳓** ।  
+एव᳓न् त्वं᳓ ग᳓र्भम् **आ᳓ धत्स्व**  
+दशमे᳓ मासि᳓ सू᳓तवे ।
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/05_yathA_pRthivyagnigarbhA.md">
 <details open><summary><h2>०५ यथा पृथिव्यग्निगर्भा ...{Loading}...</h2></summary>
 
-यथा॑ पृथि॒व्य् अ॒॑ग्निग॑र्भा॒  
-द्यौर् यथेन्द्रे॑ण ग॒र्भिणी॑ ।  
-वा॒युर् यथा॑ दि॒शां गर्भ॑  
-ए॒वं गर्भं॑ दधामि ते ।
+य᳓था पृथिव्य् अ᳓ग्नि᳓गर्भा  
+द्यौ᳓र् य᳓थे᳓न्द्रेण गर्भि᳓णी ।  
+वायु᳓र् य᳓था दिशां᳓ ग᳓र्भ  
+एवं᳓ ग᳓र्भं **दधामि** ते ।
 
 </details>
 </div>
@@ -51,7 +51,7 @@ unicode_script: devanagari
 <details open><summary><h2>०६ विष्णो श्रेष्ठेन ...{Loading}...</h2></summary>
 
 वि᳓ष्णो श्रे᳓ष्ठेन रूपे᳓ण  
-अस्या᳓न् [[ना᳓र्यां|नार्यां᳓]] गवीन्या᳙म् +++(=कमनीयायाम्)+++ ।  
+अस्या᳓न् ना᳓र्यां गवीन्या᳙म् +++(=कमनीयायाम्)+++ ।  
 पु᳓माँसं ग᳓र्भम् आ᳓ धेहि  
 दशमे᳓ मासि᳓ सू᳓तवे ।
 
@@ -61,7 +61,7 @@ unicode_script: devanagari
 <details open><summary><h2>०७ नेजमेष परा ...{Loading}...</h2></summary>
 
 ने᳓जमेष प᳓रा **पत**  
-[[सु᳓पुत्रः|सुपुत्रः᳓]] पु᳓नर् आ᳓ **पत** ।  
+सुपुत्रः᳓ पु᳓नर् आ᳓ **पत** ।  
 अस्यै᳓ मे पुत्र᳓कामायै  
 ग᳓र्भम् **आ᳓ धेहि** यः᳓ पु᳓मान् ।
 
@@ -70,10 +70,10 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/08_vyasya_yonim.md">
 <details open><summary><h2>०८ व्यस्य योनिम् ...{Loading}...</h2></summary>
 
-व्यस्य॒ योनिं॒ प्रति॒ रेतो॑ गृहाण॒  
-पुमा॑न् पु॒त्रो धी॑यतां॒ गर्भो॑ अ॒न्तः ।  
-तं मा॒ता द॑श॒मासो॑ बिभर्तु॒  
-स जा॑यतां वी॒रत॑म॒स् स्वाना॑म् ।
+व्य᳓स्य यो᳓निं प्र᳓ति रे᳓तो **गृहाण**  
+पु᳓मान् पुत्रो᳓ **धीयतां** ग᳓र्भो अन्तः᳓ ।  
+तं᳓ माता᳓ दशमा᳓सो **बिभर्तु**  
+स᳓ **जायतां** वीर᳓तमस् स्वा᳓नाम् ।
 
 </details>
 </div>
@@ -83,14 +83,14 @@ unicode_script: devanagari
 आ᳓ ते ग᳓र्भो यो᳓निम् **एतु**  
 पु᳓मान् बा᳓ण इवेषुधि᳓म् ।  
 **आ᳓ वीरो᳓ जायतां**  
-पुत्र᳓स् ते [[दशमा᳓स्यः|द᳓शमास्यः]] ॥+++(5)+++
+पुत्र᳓स् ते द᳓शमास्यः ॥+++(5)+++
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/01_karomi_te.md">
 <details open><summary><h2>०१ करोमि ते ...{Loading}...</h2></summary>
 
-[[क᳓रोमि|करो᳓मि]] ते प्राजापत्य᳓म्  
+करो᳓मि ते प्राजापत्य᳓म्  
 आ᳓ ग᳓र्भो यो᳓निम् **एतु** ते ।  
 अ᳓नूनः पूर्णो᳓ **जायताम्**  
 अ᳓श्लोणो᳓ ऽपिशाचधीतः ।
@@ -100,27 +100,27 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/02_pumAMste_putro.md">
 <details open><summary><h2>०२ पुमांस्ते पुत्रो ...{Loading}...</h2></summary>
 
-पुमाँ॑स् ते पु॒त्रो ना॑रि॒ तं  
-पुमा॒न् अनु॑ जायताम् ।  
-तानि॑ भ॒द्राणि॒ बीजा॑न्य्  
-ऋष॒भा ज॑नयन्तु नौ ।
+पु᳓माँस् ते पुत्रो᳓ नारि तं᳓  
+पु᳓मान् अ᳓नु **जायताम्** ।  
+ता᳓नि भद्रा᳓णि बी᳓जान्य्  
+ऋषभा᳓ **जनयन्तु** नौ ।
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/03_yAni_bhadrANi.md">
 <details open><summary><h2>०३ यानि भद्राणि ...{Loading}...</h2></summary>
 
-यानि॑ भ॒द्राणि॒ बीजा॑न्य्  
-ऋष॒भा ज॑नय॒न्ति नः॑ ।  
-तैस् त्वं पु॒त्रान् वि॑न्दस्व॒  
-सा प्र॒सूर् धे॑नु॒का भ॑व ।
+या᳓नि भद्रा᳓णि बी᳓जान्य्  
+ऋषभा᳓ **जन᳓यन्ति** +++(~~जनयन्ति᳓~~)+++ नः ।  
+तै᳓स् त्वं᳓ पुत्रा᳓न् **विन्दस्व**  
+सा᳓ प्रसू᳓र् धेनुका᳓ **भव** ।
 
 </details>
 </div>
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/04_kAma_pramRddhyatAm.md">
 <details open><summary><h2>०४ काम प्रमृद्ध्यताम् ...{Loading}...</h2></summary>
 
-[[का᳓म|काम]] **प्र᳓मृध्यतां** म᳓ह्यम्  
+कामप्र᳓म् **ऋध्यतां** म᳓ह्यम्  
 अ᳓पराजितम् एव᳓ मे ।  
 यं᳓ का᳓मं **काम᳓ये** देव  
 तं᳓ मे वायो **स᳓मर्धय** ।

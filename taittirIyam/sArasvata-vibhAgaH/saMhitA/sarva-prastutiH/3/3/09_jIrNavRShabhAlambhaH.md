@@ -136,12 +136,11 @@ A great stone was there then for them.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/04_pitA_vatsAnAmpatiraghniyAnAmatho_pitA.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 पिता᳓ वत्सा᳓नाम्प᳓तिरघ्निया᳓नाम᳓थो पिता᳓ महता᳓ङ्ग᳓र्गराणाम् ।   
 वत्सो᳓ जरा᳓यु प्रतिधु᳓क्पीयू᳓ष आमि᳓क्षा म᳓स्तु घृत᳓मस्य रे᳓तः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/04_pitA_vatsAnAmpatiraghniyAnAmatho_pitA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -184,7 +183,7 @@ the embryo, the afterbirth, fresh milk, colostrum, clotted curds, whey, ghee is 
 - अघ्न्या᳓नाम् (*MS*-2/3, *RV*-0/9, *AV*-3/14, *SB-M*-0/6, *SB-K*-0/5, *VS-M*-0/2, *VS-K*-0/1)
 - अ᳓थो (*MS*-273, *TS*-246, *RV*-37, *TB*-146, *TK*-17, *AV*-142, *SB-M*-360, *SB-K*-379, *VS-M*-14, *VS-K*-23)
 - पिता᳓ (*MS*-40/157, *TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-19/75)
-- महताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- महता᳓म् (*TS*-1/12, *RV*-5/49, *TB*-0/3, *AV*-2/26, *SB-M*-3, *SB-K*-4, *MS*-2)
 - ग᳓र्गराणाम् (*MS*-2, *TS*-1, *RV*-0/1, *AV*-1/3)
 - ग᳓र्भः (*MS*-22/67, *TS*-29/66, *RV*-29/95, *TB*-6/25, *AV*-24/66, *SB-M*-62/143, *SB-K*-74/135, *VS-M*-16/32, *VS-K*-13/27)
 - जरा᳓युः (*MS*-0/4, *TS*-0/4, *RV*-0/2, *TB*-0/1, *AV*-1/10, *SB-M*-0/24, *SB-K*-1/22, *VS-M*-0/5, *VS-K*-0/3)
@@ -207,7 +206,9 @@ the embryo, the afterbirth, fresh milk, colostrum, clotted curds, whey, ghee is 
 - **[190_5]** So corr. Ch महतो; D महता (Thus emended; Ch reads महतो; D reads महता)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

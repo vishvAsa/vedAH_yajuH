@@ -26,18 +26,13 @@ title = "१२ अश्वमेध-दश-हविष्केष्टि-�
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 समि᳓द् दिशा᳓म् +++(→विषुवस्थानीयो ऽग्निः, equinotical colure)+++ आश᳓या नस् सुव-र्वि᳓न्  
 म᳓धोर् अ᳓तो मा᳓धवᳶ **पात्व्** अस्मा᳓न् ।    
 अग्नि᳓र् देवो᳓ दुष्-ट᳓रीतुर्+++(←स्तॄ आच्छादने)+++ अ᳓दाभ्य  
 इद᳓ङ् क्षत्रँ᳓ **रक्षतु** **पा᳓त्व्** अस्मा᳓न् ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/02_samid_dishAm.md">
 
@@ -121,18 +116,13 @@ May the god Agni, hard to overcome, unbeguiled, protect this dominion, may he pr
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 रथन्तरँ᳓ सा᳓मभिᳶ **पात्व्** अस्मा᳓न्  
 गायत्री᳓ छ᳓न्दसाव्ँ विश्व᳓-रूपा ।    
 त्रिवृ᳓न् नो वि-ष्ठ᳓या+++(←स्था)+++ स्तो᳓मो अ᳓ह्नाँ  
 समुद्रो᳓ वा᳓त इद᳓म् ओ᳓जᳶ **पिपर्तु**+++(←पूरणे)+++ ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/03_rathantaraM_sAmabhipH.md">
 
@@ -243,18 +233,13 @@ may the Trivṛt stoma with its placement among days, the ocean, the wind, fill 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 उग्रा᳓ दिशा᳓म् अभि᳓भूतिर् वयो-धा᳓श्  
 शु᳓चिश् शुक्रे᳓ अ᳓हन्य् ओजसी᳓ना ।    
 इ᳓न्द्र᳓!+अ᳓धिपतिᳶ **पिपृताद्** अ᳓तो नो  
 म᳓हि क्षत्रव्ँ᳓ विश्व᳓तो **धारयेद᳓म्** ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/04_ugrA_dishAm.md">
 
@@ -485,22 +470,15 @@ O Indra, with the fifteenfold stoma, with the wind, with the ocean, protect this
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्रा᳓ची दिशाँ᳓ सह᳓-यशा य᳓शस्वती  
 वि᳓श्वे देवाᳶ प्रावृ᳓षा᳓ह्नाँ सु᳓वर्वती ।    
 इद᳓ङ् क्षत्र᳓न् **दुष्ट᳓रम् अस्त्व्** ओ᳓जो᳓  
 ऽनाधृष्टँ सहस्रि᳓यँ स᳓हस्वत् ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/06_prAchI_dishAm.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 (May) the eastern among the quarters, famous and renowned,  
@@ -526,8 +504,6 @@ Force unoverpowerable, a thousandfold and mighty.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -536,22 +512,15 @@ Force unoverpowerable, a thousandfold and mighty.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वैरूपे᳓ सा᳓मन्न् इह᳓ त᳓च् **छकेम**  
 ज᳓गत्यैनव्ँ +++(यजमानं)+++ विक्ष्व्+++(←विश्)+++ आ᳓ **वेशयामः** ।    
 वि᳓श्वे देवास् सप्त-दशे᳓न [34]  व᳓र्च  
 इद᳓ङ् क्षत्रँ᳓ सलिल᳓+++(→सागर)+++-वातम् उग्र᳓म् ।+++(4)+++
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/07_vairUpe_sAmann.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Here in the Vairupa Saman may we have strength for this;  
@@ -578,8 +547,6 @@ This kingly power with the ocean wind (be) dread.
 </details>
 </details>
 
-</div>
-
 ## मित्रा-वरुणौ
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -589,23 +556,16 @@ This kingly power with the ocean wind (be) dread.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 धर्त्री᳓ दिशा᳓ङ् क्षत्र᳓म् इद᳓न् **दाधार**+  
 **उप-स्था᳓** ऽऽशानाम् मित्र᳓वद् **अस्त्व् ओ᳓जः** ।    
 +++(पुरा शरदि सूर्ये ऽनुराधायां सति, शतभिषजि च रात्रौ खे राजति)+++  
 मि᳓त्रा-वरुणा शर᳓दा᳓ऽह्नाञ् **चिकित्नू**+++(=ज्ञातारौ)+++  
 अस्मै᳓ राष्ट्रा᳓य म᳓हि **श᳓र्म यच्छतम्** ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/08_dhartrI_dishA~N.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The supporter among the quarters doth support this lordly power,  
@@ -631,8 +591,6 @@ Do ye accord great protection to this kingdom.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -641,18 +599,13 @@ Do ye accord great protection to this kingdom.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 वैराजे᳓ सा᳓मन्न् अ᳓धि मे मनीषा᳓  
 ऽनुष्टु᳓भा **स᳓म्भृतव्ँ** वीर्यँ᳙ स᳓हः ।    
 इद᳓ङ् क्षत्र᳓म् मित्र᳓-वद् आर्द्र᳓-दानु +++(वातः)+++  
 मि᳓त्रा-वरुणा **र᳓क्षतम्** आ᳓धिपत्यैः ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/09_vairAje_sAmann.md">
 
@@ -766,18 +719,13 @@ this dominion, rich in friends, giving moisture, strength, O Mitra and Varuṇa,
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सम्रा᳓ड् दिशाँ᳓ सह᳓-साम्नी स᳓हस्वत्य्  
 ऋतु᳓र् हेमन्तो᳓ विष्ठ᳓या+++(←स्था)+++ नᳶ **पिपर्तु** ।    
 अवस्यु᳓-वाताः बृहती᳓र् नु᳓ श᳓क्वरीर्  
 इमय्ँ᳓ यज्ञ᳓म् **अवन्तु** नो **घृता᳓चीः** ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/10_samrAD_dishAm.md">
 
@@ -852,22 +800,15 @@ With wind seeking help, lofty like the Śakvarī; may the [quarter] dripping wit
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 +++(ख-गङ्गा-रूपा?)+++ सु᳓वर्वती सुदु᳓घा नᳶ प᳓यस्वती  
 दिशा᳓न् देव्य् **अ᳙वतु** नो घृता᳓ची ।    
 त्व᳓ङ् गो-पाᳶ᳓ पुर **एतो᳓त᳓** पश्चा᳓द्  
 बृ᳓हस्पते या᳓म्याय्ँ +++(दिशि)+++ **युङ्ग्धि** वा᳓चम् ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/11_suvarvatI_sudughA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 May the heavenly of the quarters, the easily milked, the rich in milk, The goddess aid us, full of ghee;  
@@ -892,8 +833,6 @@ O Brhaspati, yoke a voice in the south.
 </details>
 </details>
 
-</div>
-
 ## सविता
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -903,22 +842,15 @@ O Brhaspati, yoke a voice in the south.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 ऊर्ध्वा᳓ दिशाँ᳓ **र᳓न्तिर्**+++(←रम्)+++ आ᳓शा+औ᳓षधीनाँ  
 सव्ँवत्सरे᳓ण सविता᳓ नो अ᳓ह्नाम् ।    
 रेव᳓त् सा᳓म᳓+अ᳓तिच्छन्दा उ छ᳓न्दो᳓+  
 ऽजात-शत्रुस् **स्योना᳓ नो अस्तु** ।
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/12_UrdhvA_dishAm.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 (May) the upright of the quarters, the bounteous region of the plants, And Savitr with the year of the days (aid us);  
@@ -942,8 +874,6 @@ Without a foe, be kindly to us.
 दिशां मध्ये येयमूर्ध्वा दिक्सा **रन्तिः** प्रीतिहेतुः, सा चौषधीनां वृष्टिद्वारी संषादिकेति शेषः।   तादृसी नोऽस्मान्प्रति स्योना सुखदाऽस्तु।   तथाऽह्नां समूहरूपेण संवत्सरेण सह सविता सुखप्रदोऽस्तु।   तथा रेव द्रवताख्यं यत्सामातिच्छन्दा उ अतिच्छन्दोयुक्तर्गाषि तथा तस्यामृचि वर्तमानं छन्दश्चेत्येष समूहोऽजातशत्रुरस्तु, अस्मदीयः शत्रुर्यथा नोत्पद्यते तथा करोत्वित्यर्थः
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1159,18 +1089,13 @@ May Bṛhaspati, Mātariśvan, and Vāyu, the winds blowing together, sing prais
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 विष्टम्भो᳓ दिवो᳓, धरु᳓णᳶ पृथिव्या᳓,  
 अस्ये᳓शाना ज᳓गतो, वि᳓ष्णु-पत्नी ।    
 विश्व᳓-व्यचा **इष᳓यन्ती**+++(←इषम् = अन्नम्)+++ सु᳓भूतिश्  
 **शिवा᳓ नो अस्त्व्** अ᳓दितिर् +++(त्वद्-)+++ उप᳓-स्थे ।
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/4/12_ashva-medha-dasha-haviShkeShTi-yAjyA-puronuvAkyA/15_viShTambho_divo.md">
 
@@ -1281,7 +1206,8 @@ Present in the sky.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/02_vaishvAnaro_na.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Let Vaiśvanara with succour for us  
@@ -1335,6 +1261,7 @@ From you the inspired poet is born, full of prizes, O Agni;
 
 यद्वा - प्रापणसमर्थेन मार्गेण । 'वहिहाधाञ्भ्यश्छन्दसि' इत्यसुन्, 'णित्' इति हि तत्रानुवर्तते । आगत्य चास्मानभिशस्तेर्मुञ्चन्पापं वर्णमपहन्त्विति शेषः ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/098/02_pRShTo_divi.md">
@@ -1350,7 +1277,8 @@ From you the inspired poet is born, full of prizes, O Agni;
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/098/02_pRShTo_divi.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वैश्वानरो वा
@@ -1674,33 +1602,20 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-पृष्टो दिवि।
-
-योऽग्निर्वैश्वानरः पृष्टः कोऽयमिति।
-
-दिवि आदित्यात्मना व्यवस्थितो मुमुक्षुभिः।
-
-तत्र ह्येवं श्रूयते।
-
-‘यमेतमादित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापतिः स ब्रह्म’ इति।
-
-यश्च वैश्वानरोऽग्निर्विद्युदात्मना - प्रावृषि स्थितः पृथिव्यामन्तरिक्षे लोके।
-
-पृथिवीत्यन्तरिक्षनामसु पठितम्।
-
-उदकार्थिभिः कोयं नाम द्विपदचतुष्पदजीवनहेतुः।
-
-यश्चाग्निर्वैश्वानरोऽस्मिन् लोके व्यवस्थितः पृष्टोऽग्निहोतृभिर्होतृपर्यन्तैः कोयं तापपाकप्रकाशैरुपकृत्य विश्वा ओषधीराविवेश आविष्टः।
-
-यश्च वैश्वानरोऽग्निः सहसा बलेन मथ्यमानोऽध्वर्युणा कोऽयं निर्ममन्थ इति पृष्टो दिदृक्षुभिः।
-
-स नः सोऽस्मान् दिवा अहनि पातु रक्षतु।
-
-सच नक्तं रात्रौ पातु रिषः विनाशात्।
-
-रिषतिर्हिंसाकर्मा।
-
-दिवानक्तमिति सन्ततार्थं वचनम्॥ ७३॥
+पृष्टो दिवि।  
+यो ऽग्निर् वैश्वानरः पृष्टः को ऽयम् इति।  
+दिवि आदित्यात्मना व्यवस्थितो मुमुक्षुभिः।  
+तत्र ह्य् एवं श्रूयते।  
+‘यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापतिः स ब्रह्म’ इति।  
+यश् च वैश्वानरो ऽग्निर् विद्युद्-आत्मना - प्रावृषि स्थितः पृथिव्याम् अन्तरिक्षे लोके।  
+पृथिवीत्य् अन्तरिक्ष-नामसु पठितम्।  
+उदकार्थिभिः [[कोयं|को ऽयं]] नाम द्वि-पद-चतुष्-पद-जीवन-हेतुः।  
+यश् चाग्निर् वैश्वानरो ऽस्मिन् लोके व्यवस्थितः पृष्टो ऽग्नि-होतृभिर् होतृ-पर्यन्तैः [[कोयं|को ऽयं]] ताप-पाक-प्रकाशैर् उपकृत्य विश्वा ओषधीर् आविवेश आविष्टः।  
+यश् च वैश्वानरो ऽग्निः सहसा बलेन मथ्यमानो ऽध्वर्युणा को ऽयं निर्ममन्थ इति पृष्टो दिदृक्षुभिः।  
+स नः सो ऽस्मान् दिवा अहनि पातु रक्षतु।  
+स च नक्तं रात्रौ पातु रिषः विनाशात्।  
+रिषतिर् हिंसा-कर्मा।  
+दिवा-नक्तम् इति सन्ततार्थं वचनम्॥ ७३॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -1730,45 +1645,38 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ षष्ठः पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पृष्टो विश्वा ओषधीरा विवेश ।
-
-वैश्वानरः सहसा पृष्टो अभिः स नो दिवा स रिषस्पातु नक्तम्' इति । यः 'अभिः वैश्वानरः दिवि धुमण्डले मुमुक्षुभिः कोऽयमिति पृष्टः ।
-
-तत्र ह्येवं श्रूयते - " यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापति। स्तद्ब्रह्म " (शांबा ८.३ ) इति ।
-
-यश् च वैश्वानरः 'अग्निः विद्युद् आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्षलोके ।
-
-पृथिवीत्यन्तरिक्षनाम् असु पठितम् ।
-
-उदकार्थिभिः को ऽयं किंनामायम् इति पृष्टः ।
-
-य च 'वैश्वानरः अस्मिन् लोके व्यवस्थितः पृष्टः अग्निः होतृ-प्रभृतिभिर् लेच्छ पर्यन्तैर् जनैः को ऽयं ताप-प्रकाशादिभिः विश्वा " ओषधी: "आविवेश ।
-
-मथ्यमानः कोऽयमिति दिक्षुभिः पृष्टः सः 'नः सो ऽस्मान् दिवा अहनि "नक्तं रात्रौ अस्मान् पातु रक्षतु । 'रिषः । रिषतिहिंसार्थः । हिंसाव्यापारात् न: दिवा नक्तं सततम्
-अनवच्छिन्नं चिरं पावित्याशीर् इति ॥६॥
+अथ षष्ठः- "पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पृष्टो विश्वा ओषधीर् आ विवेश।  
+वैश्वानरः सहसा पृष्टो [[अभिः|अग्निः]] स नो दिवा स रिषस् पातु नक्तम्" इति।  
+यः [[अभिः|अग्निः]] वैश्वानरः दिवि [[धुमण्डले|द्यु-मण्डले]] मुमुक्षुभिः "[[कोऽयमिति|कोऽयम्" इति]] पृष्टः।  
+तत्र ह्येवं श्रूयते- "यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स [[प्रजापति स्तद्ब्रह्म शांबा|प्रजापतिस् तद् ब्रह्म" (शांब्न]] ८.३) इति।  
+यश् च वैश्वानरः अग्निः विद्युद्-आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्ष-लोके।  
+[[पृथिवीत्यन्तरिक्षनाम् असु|पृथिवीत्य् अन्तरिक्ष-नाम्नसु]] पठितम्।  
+उदकार्थिभिः "को ऽयं किंनामायम्" इति पृष्टः।  
+[[य|यश्]] च वैश्वानरः अस्मिन् लोके व्यवस्थितः पृष्टः अग्निः होतृ-प्रभृतिभिर् [[लेच्छ|म्लेच्छ]]-पर्यन्तैर् जनैः "को ऽयं ताप-प्रकाशादिभिः विश्वा ओषधीः आविवेश"।  
+मथ्यमानः "[[कोऽयमिति|कोऽयम्" इति]] [[दिक्षुभिः|दिदृक्षुभिः]] पृष्टः सः नः सो ऽस्मान् दिवा अहनि नक्तं रात्रौ अस्मान् पातु रक्षतु।  
+"रिषः"। [[रिषतिहिंसार्थः|रिषतिर् हिंसार्थः]]।  
+हिंसा-व्यापारात् नः दिवा नक्तं सततम् अनवच्छिन्नं चिरं [[पावित्याशीर्|पात्व् इत्याशीर्]] इति ॥ ६ ॥
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-'वैश्वानरो नः', 'पृष्टो दिवि ' इति द्वे वैश्वानय गायत्री-त्रिष्टुभौ ।
-
-कुत्स ऋषिः ।
-
-वैश्वानरः अग्निः अस्माकम् ऊतये अवनाय तर्पणाय वा परावतः अतिदूर-प्रदेशात् 'आप्रयातु आगच्छतु । आगत्य च नः सुष्टुतीः अस्माकं शोभनस्तुती: 'उप, शृणोत्व् इति शेषः ॥
-
-अपहतपाप्मैतत्कर्म करोति ।
-
-वैश्वानरो नः पृष्टो दिवीति४४
-पृष्टो दिवि ' । यः 'अग्नि 'वैश्वानरः दिवि धुमण्डले मुमुक्षुभिः कोऽयमिति पृष्टः ।
-
-तत्र ह्येवं श्रूयते - " यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापतिस् तद् ब्रह्म ” (शांना ८-३) इति । यश् च
-। वैश्वानरः अग्निः विद्युद् आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्ष-लोके । पृथिवीत्य्-अन्तरिक्षनामसु पठितम् । को ऽयं नामायमित्य् उदकार्थिभिः पृष्टः । यश् च वैश्वानरः अग्निः अस्मिन् लोके व्यवस्थितः, "पृष्टः अग्निः होतृ-प्रभृतिभिर्लेच्छपर्यन्तैः को ऽयम् यः ताप-प्रकाशादिभिः विश्वा "ओषधी : आ- विवेश आविष्टः । यश् च वैश्वानरो ऽग्निः सहसा बलेन अध्वर्युणा मथ्यमानः कोऽयमिति । य च दिदृक्षुभिः पृष्टः सः नः सो ऽस्मान् दिवा अहनि " नक्तं रात्रौ अस्मान् पातु रक्षतु ।
-
-[रिषः ] ।
-
-रिषतिहिंसार्थः ।
-
-हिंसा-व्यापारानः दिवानक्तं सततम् अनवच्छिन्नं निरन्तरं पावित्याशीर् इति ॥ ४० ॥
+'वैश्वानरो नः', 'पृष्टो दिवि' इति द्वे [[वैश्वानय|वैश्वानर्यौ]] गायत्री-त्रिष्टुभौ ।  
+कुत्स ऋषिः ।  
+वैश्वानरः अग्निः अस्माकम् ऊतये अवनाय तर्पणाय वा परावतः [[अतिदूर प्रदेशात् आप्रयातु|अति-दूर-प्रदेशात् 'आ प्रयातु]] आगच्छतु ।  
+आगत्य च नः सुष्टुतीः अस्माकं शोभन-स्तुतीः [['उप,|'उप]] शृणोत्व् इति शेषः ॥  
+अपहत-पाप्मैतत् कर्म करोति ।  
+वैश्वानरो नः पृष्टो [[दिवीति४४|दिवीति "]] पृष्टो दिवि' ।  
+यः [['अग्नि|'अग्निः]] 'वैश्वानरः दिवि [[धुमण्डले|द्यु-मण्डले]] मुमुक्षुभिः को ऽयम् इति पृष्टः ।  
+तत्र ह्य् एवं श्रूयते - " यम् एतम् आदित्ये पुरुषं वेदयन्ते स इन्द्रः स प्रजापतिस् तद् ब्रह्म ” (शांना ८-३) इति ।  
+[[यश् च ।|यश् च]] वैश्वानरः अग्निः विद्युद्-आत्मना प्रावृषि स्थितः पृथिव्याम् अन्तरिक्ष-लोके ।  
+पृथिवीत्य् अन्तरिक्ष-नामसु पठितम् ।  
+को ऽयं नामायम् इत्य् उदकार्थिभिः पृष्टः ।  
+यश् च वैश्वानरः अग्निः अस्मिन् लोके व्यवस्थितः, "पृष्टः अग्निः [[होतृ-प्रभृतिभिर्लेच्छपर्यन्तैः|होतृ-प्रभृतिभिर् म्लेच्छ-पर्यन्तैः]] को ऽयम् यः ताप-प्रकाशादिभिः विश्वा "ओषधीः आविवेश आविष्टः ।  
+यश् च वैश्वानरो ऽग्निः सहसा बलेन अध्वर्युणा मथ्यमानः को ऽयम् इति ।  
+[[य च|यश् च]] दिदृक्षुभिः पृष्टः सः नः सो ऽस्मान् दिवा अहनि " नक्तं रात्रौ अस्मान् पातु रक्षतु ।  
+[रिषः] ।  
+रिषति हिंसार्थः ।  
+[[हिंसा-व्यापारानः|हिंसा-व्यापारिणः]] दिवा-नक्तं सततम् अनवच्छिन्नं निरन्तरं [[पावित्याशीर्|पात्व् इत्य् आशीर्]] इति ॥ ४० ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका (काठकम्)</summary>
@@ -1948,6 +1856,7 @@ Begehrt im Himmel Agni und auf Erden, begehrt auch ging er ein in alle Pflanzen,
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. माणसांनी विद्वानांजवळ जाऊन ईश्वर व विद्युत इत्यादी अग्नीच्या गुणांना जाणून ईश्वराची उपासना व अग्नीपासून उपयोग करून घ्यावा तसेच हिंसा करू नये. ॥ २ ॥
 </details>
+</details>
 </div>  
 
 ## अनुमतिः, अनिः
@@ -1990,7 +1899,8 @@ Us to-day Anumati.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Anumati this day approve our sacrifice among the Gods! Oblation-bearing Agni be, and thou, bliss to the worshipper!
@@ -2028,21 +1938,11 @@ A joy to the giver.
 
 <details><summary>उवट-टीका</summary>
 
-अनु नः।
-
-अनुमन्यतां नः अस्माकमद्य अनुमतिः।
-
-यज्ञम् देवेषु यज्ञियेषु।
-
-अग्निश्च अनुमन्यताम्।
-
-हव्यवाहनः हविषो वोढा भवतं।
-
-भवतामिति पुरुषव्यत्ययः।
-
-दाशुषे हवींषि दत्तवते यजमानाय।
-
-मयः सुखरूपौ॥९॥
+अनु नः।  
+अनुमन्यतां नः अस्माकम् अद्य अनुमतिः।  
+यज्ञम् देवेषु यज्ञियेषु। अग्निश् च अनुमन्यताम्। हव्य-वाहनः हविषो वोढा भवतं। भवताम् इति पुरुष-व्यत्ययः।  
+दाशुषे हवींषि दत्तवते यजमानाय।  
+मयः सुख-रूपौ॥९॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -2116,6 +2016,7 @@ A joy to the giver.
 
 भावार्थभाषाः -  जी माणसे सत्कर्माच्या अनुष्ठानाला मान्यता देतात व वाईट कर्माच्या अनुष्ठानाचा निषेध करतात त्यांनी अग्नी वगैरे विद्येद्वारे सर्वांना सुख द्यावे.
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2157,9 +2058,8 @@ O Anumati, thou.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Do thou, in truth, Anumati, assent and grant us happiness. Urge us to strength and energy: prolong the days we have to live.
@@ -2236,25 +2136,12 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 
 <details><summary>उवट-टीका</summary>
 
-अन्वित्।
-
-चतस्रोऽनुष्टुभः।
-
-अनुमन्यासै अनुमन्यस्व।
-
-इदिति निपातः पादपूरणः।
-
-हे अनुमते, त्वम्।
-
-शं च सुखं च नः अस्माकम् कृधि कुरु।
-
-हे अनुमते, क्रत्वे क्रतवे संकल्पाय।
-
-दक्षाय तत्समृद्धये संकल्पसिद्धये च।
-
-नः अस्मान् हिनु गमय।
-
-प्रण आयूंषि तारिषः प्रतारिषः प्रवर्धय च नः अस्माकमायूंषि॥ ८॥
+अन्व् इत्। चतस्रो ऽनुष्टुभः। अनुमन्यासै अनुमन्यस्व। इद् इति निपातः पाद-पूरणः। हे अनुमते, त्वम्।  
+शं च सुखं च नः अस्माकम् कृधि कुरु।  
+हे अनुमते, क्रत्वे क्रतवे संकल्पाय।  
+दक्षाय तत्-समृद्धये संकल्प-सिद्धये च।  
+नः अस्मान् हिनु गमय।  
+प्र ण आयूंषि तारिषः प्रतारिषः प्रवर्धय च नः अस्माकम् आयूंषि॥ ८॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -2286,41 +2173,28 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति । एक-कलाहीना पौर्णमासी अनुमतिरित्युच्यते । एतन्-नामिके देवते । त्वम् ' इत् शब्दः एवार्थः । अनुमन्यासै एव, अनुमते पूजितैव भवेः । किं च नः अस्माकं शं सुखं कुरु । तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञकर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय । तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
+हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति ।  
+एक-कला-हीना पौर्णमासी अनुमतिर् इत्य् उच्यते ।  
+एतन्-नामिके देवते ।  
+त्वम् ' इत्-शब्दः एवार्थः ।  
+अनुमन्यासै एव, अनुमते पूजितैव भवेः ।  
+किं च नः अस्माकं शं सुखं कुरु ।  
+तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञ-कर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय ।  
+तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥
-
-( मा० ३४ ८ )
-अनुमति-देवत्यानुष्टुप् ।
-
-'ऋषि-गृत्समदः ।
-
-अनु इत् एव ।
-
-" कलाहीने सानुमतिः. पूर्णे राका निशाकरे" [ अमर० ११४।८ ] ।
-
-हे अनुमते अपूर्ण-चन्द्रे ।
-
-त्वम् एव स्वात्मानं शक्रम् ।
-
-अनुमन्यासै मन्यसे ।
-
-तर्हि नः अस्माकम् ।
-
-शं च सुखम् एव ।
-
-कृधि कुरुष्व ।
-
-किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।
-
-दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादि: ] अभिवृद्धये च ।
-
-नः अस्मान् ।
-
-हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
+क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥  
+( [[मा० ३४ ८|मा० ३४.८]] ) अनुमति-देवत्यानुष्टुप् ।  
+'ऋषि-गृत्समदः ।  
+अनु इत् एव ।  
+" कलाहीने [[सानुमतिः.|सानुमतिः,]] पूर्णे राका निशाकरे" [ अमर० [[११४।८|१।४।८]] ] ।  
+हे अनुमते अपूर्ण-चन्द्रे । त्वम् एव स्वात्मानं [[शक्रम्|शक्तम्]] । अनुमन्यासै मन्यसे । तर्हि नः अस्माकम् । शं च सुखम् एव । कृधि कुरुष्व ।  
+किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।  
+दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादिः ] अभिवृद्धये च ।  
+नः अस्मान् ।  
+हिनु ७ "हि गतौ' [ १२५८ स्वादिः ] । मम गमनाय [[समर्थ-नामापादय|समर्थताम् आपादय]] । प्र ण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2371,7 +2245,6 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 भावार्थभाषाः -  माणूस स्वतःच्या स्वार्थसिद्धीसाठी जसा प्रयत्न करतो तसा इतरांसाठीही करावा. आपल्या कल्याणाची जशी इच्छा बाळगतो तशी इतरांसाठीही बाळगावी. याप्रमाणे सर्वांची आयुष्ये परिपूर्ण करावीत.
 </details>
 </details>
-
 </div>
 
 ## कः
@@ -2421,7 +2294,8 @@ With what to us radiant shall he be?
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/031/01_kayA_nashchitra.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2590,26 +2464,12 @@ __________________
 
 <details><summary>उवट-टीका</summary>
 
-कया नः।
-
-वामदेव्यस्य योनिः तिस्र ऐन्द्र्यो गायत्र्यः अन्त्यपादो निचृत्।
-
-कया नश्चित्र आभुवदूती कया पुनः ऊती ऊत्या केन पुनरवनेन तर्पणेन।
-
-नः अस्माकम् चित्रः चायनीयः इन्द्रः।
-
-आभुवत् भूयात्।
-
-आकारो वृतासह संबध्यते।
-
-सदावृधः सदाकालं वर्धयिता।
-
-सखा च कया च नाम शचिष्ठया।
-
-शचीति कर्मनाम मतुब्लोपः।
-
-अतिशयेन कर्मवत्या अवृता कर्मणा सदावृधः सखा भूयादिति वर्तते॥ ३९॥
-
+कया नः।  
+वामदेव्यस्य योनिः तिस्र ऐन्द्र्यो गायत्र्यः अन्त्य-पादो निचृत्।  
+कया नश् चित्र आभुवद् ऊती कया पुनः ऊती ऊत्या केन पुनर् अवनेन तर्पणेन।  
+नः अस्माकम् चित्रः चायनीयः इन्द्रः।  
+आभुवत् भूयात्। आकारो वृता सह संबध्यते। सदा-वृधः सदा-कालं वर्धयिता। सखा च कया च नाम शचिष्ठया। शचीति कर्म-नाम मतुब्-लोपः।  
+अतिशयेन कर्मवत्या [[अवृता|आवृता]] कर्मणा सदा-वृधः सखा भूयाद् इति वर्तते॥ ३९॥  
 (अस्याः कण्डिकाया व्याख्या ३-कण्डिकया सहिता द्रष्टव्या।)
 </details>
 
@@ -2648,24 +2508,15 @@ __________________
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-सारः वज्रो यस्यास्तीति
-आ ‘कया नः’।
-
-वामदेव्यस्य योनिः ।
-
-वामदेव-ऋषिः ।
-
-“वामदेव्यम् आत्मन्” (शब्रा ९.१.२.३८) इति श्रुतेः ।
-
-तिस्र ऐन्द्रो गायत्र्यः ।
-
-अन्त्या पादनिचृत् ।
-
-यस्य त्रयः पादाः सप्ताक्षराः सा पादनिचृत्।
-
-“त्रयः सप्तकाः पाद-निचृत्" (कायस ५.२.४) इत्य् उक्तेः । सदावृधः । सदा वर्धयितुर्विष्णोः 'सखा इन्द्रः कया ऊत्या केन तर्पणेन नः अस्माकं चित्रः चायनीयः 'आ भुवत् भूयात् । कया शचिष्ठया । शचीति कर्म-नाम । मतुप्लोपः । अतिशयेन कर्मवत्या कया आवृता कर्मणा च चित्रो भूयात् ॥४३॥
-
-क्या शचिष्ठ्या वृता ॥ ४ ॥
+सारः वज्रो यस्यास्तीति आ ‘कया नः’ ।  
+वामदेव्यस्य योनिः ।  
+वामदेव-ऋषिः ।  
+“वामदेव्यम् आत्मन्” (शब्रा ९.१.२.३८) इति श्रुतेः ।  
+तिस्र [[ऐन्द्रो|ऐन्द्र्यो]] गायत्र्यः ।  
+अन्त्या पाद-निचृत् ।  
+यस्य त्रयः पादाः सप्ताक्षराः सा पाद-निचृत् ।  
+“त्रयः सप्तकाः पाद-निचृत्” (कायस ५.२.४) इत्य् उक्तेः । सदा-वृधः । सदा वर्धयितुर् विष्णोः 'सखा' इन्द्रः कया ऊत्या केन तर्पणेन नः अस्माकं चित्रः चायनीयः 'आ भुवत्' भूयात् । कया शचिष्ठया । शचीति कर्म-नाम । मतुप्-लोपः । अतिशयेन कर्मवत्या कया आवृता कर्मणा च चित्रो भूयात् ॥ ४३ ॥  
+[[क्या|कया]] [[शचिष्ठ्या|शचिष्ठया]] वृता ॥ ४ ॥
 </details>
 
 <details><summary>अनन्ताचार्य-टीका</summary>
@@ -2699,13 +2550,12 @@ __________________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-कया शचिष्ठया वृता ॥ ४ ॥
-
-चित्रः चायनीयः प्रजापतिः सखा अस्माभिः समानः सन् कया किरूपया खलु ऊती ऊत्या रक्षया सदावृधः सदा सर्वदा वर्धनीयान् पोषणीयान् नः अस्मान् आभुवत् व्याप्नुयात् ।
-
-तथा शचि- ष्ठया शचीति कर्म-नाम, अतिशयेन कर्मानुकूलया, कीदृश्या वृता वर्तन-क्रियया अस्मान् व्याप्नुयात् ।
-
-तत्कर्तृ कारकात् तदीयं वर्तनं तादृशीं वाचं न गोचरीभवतीति किं शब्देन काक्वा द्योत्यते ।
+> कया॑ नश्चि॒त्र आ भु॑वदू॒ती स॒दावृ॑धः॒ सखा॑ ।  
+> कया॑ शचि॑ष्ठया वृ॒ता ॥  
+इति ॥ ४ ॥  
+चित्रः चायनीयः प्रजापतिः सखा अस्माभिः समानः सन् कया कि-रूपया खलु ऊती ऊत्या रक्षया सदा-वृधः सदा सर्वदा वर्धनीयान् पोषणीयान् नः अस्मान् आभुवत् व्याप्नुयात् ।  
+तथा शचिष्ठया — शचीति कर्म-नाम — अतिशयेन कर्मानुकूलया, कीदृश्या वृता वर्तन-क्रियया अस्मान् व्याप्नुयात् ?  
+तत्-कर्तृ-कारकात् तदीयं वर्तनं तादृशीं वाचं न गोचरी-भवतीति किं-शब्देन काक्वा द्योत्यते ।
 </details>
 
 <details><summary>Schroeder - टिप्पणी</summary>
@@ -2889,6 +2739,7 @@ Mit welcher Hülfe steht uns bei der lichte Freund, der stets erquickt? Mit welc
 
 भावार्थभाषाः -  हे राजा! आमच्याबरोबर असे वाग की ज्यामुळे आमचे प्रेम वाढावे. ॥ १ ॥ ००
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2932,7 +2783,8 @@ Who to-day yoketh?
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/16_ko_adya.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/16_ko_adya.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3277,6 +3129,7 @@ Wer schirrt ans Joch des Opfers heut die Stiere, die kräftig sind, voll regen E
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  सर्वांचा अध्यक्ष असलेल्या राजाने सर्वांना प्रत्यक्ष आज्ञा द्यावी. सर्व सेना व प्रजेतील पुरुषांना सत्याचरणात नियुक्त करावे. त्यांची जीविका वाढवून स्वतः दीर्घकाळ जिवंत राहावे. ॥ १६ ॥
+</details>
 </details>
 </div>
 

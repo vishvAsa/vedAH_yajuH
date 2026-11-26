@@ -13,7 +13,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/02_sa_trayANAM_varNAnAm.md">
 <details open><summary><h2>02 स त्रयाणां वर्णानाम् ...{Loading}...</h2></summary>
 
-स त्रयाणां वर्णानां ब्राह्मणराजन्ययोर्वैश्यस्य च २  
+स त्रयाणां वर्णानां ब्राह्मण-राजन्ययोर् वैश्यस्य च २  
 
 </details>
 </div>  
@@ -22,7 +22,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/03_sa_tribhirvedairvidhIyate.md">
 <details open><summary><h2>03 स त्रिभिर्वेदैर्विधीयते ...{Loading}...</h2></summary>
 
-स त्रिभिर्वेदैर्विधीयते ३  
+स त्रिभिर् वेदैर् विधीयते ३  
 
 </details>
 </div>
@@ -36,13 +36,13 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/05_RgvedayajurvedAbhyAn_darshapUrNamAsau.md">
 <details open><summary><h2>05 ऋग्वेदयजुर्वेदाभ्यान् दर्शपूर्णमासौ ...{Loading}...</h2></summary>
 
-ऋग्वेदयजुर्वेदाभ्यां दर्शपूर्णमासौ ५  
+ऋग्वेद-यजुर्वेदाभ्यां दर्श-पूर्णमासौ ५  
 
 </details>
 </div> <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/vishvAsa-prastutiH/24/01/06_yajurvedenAgnihotram.md">
 <details open><summary><h2>06 यजुर्वेदेनाग्निहोत्रम् ...{Loading}...</h2></summary>
 
-यजुर्वेदेनाग्निहोत्रम् ६ 
+यजुर्-वेदेनाग्नि-होत्रम् ६ 
 
 </details>
 </div>

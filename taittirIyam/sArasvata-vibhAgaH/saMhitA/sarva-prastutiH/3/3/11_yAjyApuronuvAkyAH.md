@@ -38,9 +38,8 @@ title = "११ याज्यापुरोनुवाक्याः"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/01_idaM_vAmAsye.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/01_idaM_vAmAsye.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -296,7 +295,6 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 भावार्थभाषाः -  जे राजे इत्यादी उत्तम प्रकारे संस्कारित केलेले अन्न खातात तेव्हा ते प्रकाशयुक्त (तेजस्वी) दीर्घायुषी व बलवान होतात. ॥ १ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -319,9 +317,8 @@ Hier steht der liebe Opfertrank vor euch, Indra-Brihaspati, Verkündet wird euch
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/02_ayaM_vAM.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/02_ayaM_vAM.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -554,7 +551,6 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 भावार्थभाषाः -  जसे उत्तम अन्न सेवन केले जाते तसेच उत्तम रसही सेवन केला पाहिजे. ॥ २ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -577,9 +573,8 @@ Euch wird, Indra-Brihaspati, ergossen dieser Somasaft, Der schön zum Trunk und 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/04_asme_indrAbRhaspatI.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/049/04_asme_indrAbRhaspatI.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -822,7 +817,6 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 भावार्थभाषाः -  जेव्हा सर्व प्रजेला धन व विद्येने युक्त केले जाते. तेव्हाच राजा व प्रधान यांची प्रशंसा होते. ॥ ४ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -845,9 +839,8 @@ O gebt, Indra-Brihaspati, den Reichthum uns, der hundertfach, An Rossen reich is
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/042/11_bRhaspatirnaH_pari.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/042/11_bRhaspatirnaH_pari.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1184,7 +1177,6 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 पदार्थान्वयभाषाः -  (बृहस्पतिः) वेदवाण्याः स्वामी परमात्मा (अघायोः) पापकामिनोऽनिष्टेच्छुकात् (पश्चात्-उत उत्तरस्मात्-अधरात्-नः परिपातु) पश्चिमतोऽप्युत्तरतो दक्षिणतश्चास्मान् रक्षतु (इन्द्रः) स ऐश्वर्यवान् परमात्मा (पुरस्तात्-उत मध्यतः) पूर्वदिक्तो मध्यतश्च रक्षतु (सखा नः सखिभ्यः-वरिवः कृणोतु) स एव सखिभूतः परमात्माऽस्मभ्यं सखिभूतेभ्यो धनप्रदानं करोतु “वरिवः धननाम” [निघ० २।१०] ॥११॥
 </details>
 </details>
-
 </div>
 
   
@@ -1212,9 +1204,8 @@ Brihaspati beschütze uns von Westen von Norden und von Süden vor dem Frevler, 
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/006/03_vi_te.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/006/03_vi_te.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1552,7 +1543,6 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 भावार्थभाषाः -  हे माणसांनो ! जे विद्युतप्रमाणे पावन, दुष्टांवर क्रोध करणारे, श्रेष्ठांचा संग करणारे व नवनवीन विद्या प्राप्त करणारे असतील त्यांनी सर्व ठिकाणी भ्रमण करून इतरांनाही बोध करावा. ॥ ३ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1563,22 +1553,16 @@ Nach vielen Seiten wandern windgetrieben, o heller Agni, deine hellen Strahlen, 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/07_tvAm_agne.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 त्वा᳓म् अग्ने मा᳓नुषीर् **ईडते** वि᳓शो  
 होत्रावि᳓दव्ँवि᳓विचिँ रत्नधा᳓तमम् ।  
 गु᳓हा **स᳓न्तँ** सुभग विश्व᳓-दर्शतन्  
 तुविष्+++(=प्रवृद्ध)+++-मण᳓सँ+++(→तु᳓वि᳓ष्वण᳓सं शाकले)+++ सुय᳓जङ् घृत-श्रि᳓यम् ।
-
 </details>
 
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/008/03_tvAmagne_mAnuShIrILate.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/008/03_tvAmagne_mAnuShIrILate.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1925,7 +1909,6 @@ Dich, Agni, der du Beute machst und Schätze schenkst, dich Opferkenner preist d
 भावार्थभाषाः -  हे माणसांनो! ज्या विद्युतरूपी अग्नीने जीवन व चेतनता निर्माण होते तसा राजा असतो हे जाणून सुख वाढवा. ॥ ३ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1949,9 +1932,8 @@ Dich, Agni, der du Beute machst und Schätze schenkst, dich Opferkenner preist d
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/03_dhAtA_dadAtu_no.md">
-
-<details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/03_dhAtA_dadAtu_no.md">
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Keith</summary>
 
 May Dhatr give us wealth, The lord, the ruler of the world; May he favour us with a full (gift).
@@ -2021,7 +2003,6 @@ may he favor us with fullness!
 धाता विश्वस्य धारयिता नोस्मभ्यं धनं ददातु । ईशानः सर्वार्थसाधनशक्तः । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् । जगतः पतिः पालयिता । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । किञ्च - स देवोस्मान् पूर्णेन पूरणाय वावनत् संभजताम्, अत्यर्थं परिगृह्णात्वस्मानिति । यद्वा - पूर्णेन आप्यायितेन नो ऽस्मान्योजयतु । वनतेर्लेटि शपः श्लुः, लेटोडागमः, तुजादित्वादभ्यासस्य दीर्घत्वम् ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2045,9 +2026,8 @@ may he favor us with fullness!
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/02_dhAtA_prajAyA.md">
-
-<details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/02_dhAtA_prajAyA.md">
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Keith</summary>
 
 Dhatr is lord of offspring and of wealth,  
@@ -2078,7 +2058,6 @@ To him let us offer the oblation rich in ghee.
 धाता प्रजायाः पुत्रादेः उत अपि च रायो धनस्य च ईशे ईष्टे । 'लोपस्त आत्मनेपदेषु' इति तलोपः । इद विश्वं भुवनं भूतजातं धाता जनान जनयामास । ण्यन्ताल्लिटि 'बहुलमन्यत्रापि' इति णिलुक् । धातेव पुत्रं यजमानाय दाता ताच्छील्येन ददाति । तस्मा उ तस्मा एव देवाय हव्यमिदं घृतवत् घृतयुक्तं विधेम दद्मः । विध विधाने, तौदादिकः ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2102,9 +2081,8 @@ To him let us offer the oblation rich in ghee.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/maitrAyaNIyam/saMhitA/Rk/sarvASh_TIkAH/4/12/06/12_dhAtA_dadhAtu_no.md">
-
-<details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/maitrAyaNIyam/saMhitA/Rk/sarvASh_TIkAH/4/12/06/12_dhAtA_dadhAtu_no.md">
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
 May the Creator establish for us wealth, life forward that does not waste away;  
@@ -2165,7 +2143,6 @@ Of the god whose gifts are true.
 धाता ददातु नो रयिम् । गतम् । प्राचीं प्रकृष्टगमनां अनुगुणां जीवातुं जीवनार्थं जीवनाय पर्याप्तम् । जीवेरातुप्रत्ययः । अक्षितां अक्षीणां, ततश्च तेनैव धनेन वयं देवस्य सवितुः सत्यराधसः सत्यधनस्य सुमतिं शोभनमतिं, कम्? यागम् । धीमहि धारयामः तं यजेमहीत्यर्थः । धीङ् आधारे, शपो लुक् । यद्वा - देवस्य धातुः कल्याणीं मतिं तद्विषयां कल्याणीं बुद्धिं तां धीमहि कुर्मः ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2189,9 +2166,8 @@ Of the god whose gifts are true.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/04_dhAtA_dadAtu.md">
-
-<details><summary><h3>सर्वाष्टीकाः …{Loading}…</h3></summary>
+<div class="js_include collapsed" newlevelforh1="3" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_11/04_dhAtA_dadAtu.md">
+<details><summary><h3>सर्वाष् टीकाः …{Loading}…</h3></summary>
 <details><summary>Keith</summary>
 
 May Dhatr give wealth to the giver,  
@@ -2222,7 +2198,6 @@ The All-gods and Aditi in unison.
 धाता हवींषि दाशुषे हविर्दत्तवते यजमानाय वसूनि धनानि प्रजार्थानि ददातु प्रजाकामाय प्रजानां कामयमानाय । 'शीलिकामि' इत्यादिना णः, पूर्वपदप्रकृतिस्वरत्वं च । मीढुषे मेहनसमर्थाय दुरोणे दुःखेनापयितव्ये गृहे वर्तमानाय गृहस्थाय । यद्वा - दुरोणे यज्ञगृहे मीढुषे हविस्सिक्तवते तस्मै देवा अमृता अमरणाः संव्ययन्तां संहत्य वसूनि ददातु, विश्वेदेवाश्च गणाः सजोषाः, अदितिश्च सजोषा समानप्रीतिः । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् ॥
 </details>
 </details>
-
 </div>
 
 ## अनुमतिः
@@ -2248,9 +2223,8 @@ The All-gods and Aditi in unison.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/09_anu_no-dyAnumatiryajnam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Anumati this day approve our sacrifice among the Gods! Oblation-bearing Agni be, and thou, bliss to the worshipper!
@@ -2288,21 +2262,11 @@ A joy to the giver.
 
 <details><summary>उवट-टीका</summary>
 
-अनु नः।
-
-अनुमन्यतां नः अस्माकमद्य अनुमतिः।
-
-यज्ञम् देवेषु यज्ञियेषु।
-
-अग्निश्च अनुमन्यताम्।
-
-हव्यवाहनः हविषो वोढा भवतं।
-
-भवतामिति पुरुषव्यत्ययः।
-
-दाशुषे हवींषि दत्तवते यजमानाय।
-
-मयः सुखरूपौ॥९॥
+अनु नः।  
+अनुमन्यतां नः अस्माकम् अद्य अनुमतिः।  
+यज्ञम् देवेषु यज्ञियेषु। अग्निश् च अनुमन्यताम्। हव्य-वाहनः हविषो वोढा भवतं। भवताम् इति पुरुष-व्यत्ययः।  
+दाशुषे हवींषि दत्तवते यजमानाय।  
+मयः सुख-रूपौ॥९॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -2377,7 +2341,6 @@ A joy to the giver.
 भावार्थभाषाः -  जी माणसे सत्कर्माच्या अनुष्ठानाला मान्यता देतात व वाईट कर्माच्या अनुष्ठानाचा निषेध करतात त्यांनी अग्नी वगैरे विद्येद्वारे सर्वांना सुख द्यावे.
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2401,9 +2364,8 @@ A joy to the giver.
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/34/08_anvidanumate_tvam.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Do thou, in truth, Anumati, assent and grant us happiness. Urge us to strength and energy: prolong the days we have to live.
@@ -2480,25 +2442,12 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 
 <details><summary>उवट-टीका</summary>
 
-अन्वित्।
-
-चतस्रोऽनुष्टुभः।
-
-अनुमन्यासै अनुमन्यस्व।
-
-इदिति निपातः पादपूरणः।
-
-हे अनुमते, त्वम्।
-
-शं च सुखं च नः अस्माकम् कृधि कुरु।
-
-हे अनुमते, क्रत्वे क्रतवे संकल्पाय।
-
-दक्षाय तत्समृद्धये संकल्पसिद्धये च।
-
-नः अस्मान् हिनु गमय।
-
-प्रण आयूंषि तारिषः प्रतारिषः प्रवर्धय च नः अस्माकमायूंषि॥ ८॥
+अन्व् इत्। चतस्रो ऽनुष्टुभः। अनुमन्यासै अनुमन्यस्व। इद् इति निपातः पाद-पूरणः। हे अनुमते, त्वम्।  
+शं च सुखं च नः अस्माकम् कृधि कुरु।  
+हे अनुमते, क्रत्वे क्रतवे संकल्पाय।  
+दक्षाय तत्-समृद्धये संकल्प-सिद्धये च।  
+नः अस्मान् हिनु गमय।  
+प्र ण आयूंषि तारिषः प्रतारिषः प्रवर्धय च नः अस्माकम् आयूंषि॥ ८॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -2530,41 +2479,28 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति । एक-कलाहीना पौर्णमासी अनुमतिरित्युच्यते । एतन्-नामिके देवते । त्वम् ' इत् शब्दः एवार्थः । अनुमन्यासै एव, अनुमते पूजितैव भवेः । किं च नः अस्माकं शं सुखं कुरु । तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञकर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय । तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
+हे अनुमते, “कलाहीने सानुमतिः पूर्णे राका निशाकरे" ( अमर०, का० १, कालव० ८ ) इति ।  
+एक-कला-हीना पौर्णमासी अनुमतिर् इत्य् उच्यते ।  
+एतन्-नामिके देवते ।  
+त्वम् ' इत्-शब्दः एवार्थः ।  
+अनुमन्यासै एव, अनुमते पूजितैव भवेः ।  
+किं च नः अस्माकं शं सुखं कुरु ।  
+तथा दक्षाय, स्व-फल-प्रदाने समर्थाय क्रत्वे यज्ञ-कर्मणे दक्षाय, 'दक्ष वृद्धौ' अभिवृद्धये च नः अस्मान् हिनु, 'हि गतौ वृद्धौ च' गमय ।  
+तथा नः अस्माकम्, आयूँषि देहावस्थित-हेतु-भूतानि कालावयव-लक्षणानि प्रतारिषत्, पुरुष-व्यत्ययः ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥
-
-( मा० ३४ ८ )
-अनुमति-देवत्यानुष्टुप् ।
-
-'ऋषि-गृत्समदः ।
-
-अनु इत् एव ।
-
-" कलाहीने सानुमतिः. पूर्णे राका निशाकरे" [ अमर० ११४।८ ] ।
-
-हे अनुमते अपूर्ण-चन्द्रे ।
-
-त्वम् एव स्वात्मानं शक्रम् ।
-
-अनुमन्यासै मन्यसे ।
-
-तर्हि नः अस्माकम् ।
-
-शं च सुखम् एव ।
-
-कृधि कुरुष्व ।
-
-किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।
-
-दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादि: ] अभिवृद्धये च ।
-
-नः अस्मान् ।
-
-हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
+क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥  
+( [[मा० ३४ ८|मा० ३४.८]] ) अनुमति-देवत्यानुष्टुप् ।  
+'ऋषि-गृत्समदः ।  
+अनु इत् एव ।  
+" कलाहीने [[सानुमतिः.|सानुमतिः,]] पूर्णे राका निशाकरे" [ अमर० [[११४।८|१।४।८]] ] ।  
+हे अनुमते अपूर्ण-चन्द्रे । त्वम् एव स्वात्मानं [[शक्रम्|शक्तम्]] । अनुमन्यासै मन्यसे । तर्हि नः अस्माकम् । शं च सुखम् एव । कृधि कुरुष्व ।  
+किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।  
+दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादिः ] अभिवृद्धये च ।  
+नः अस्मान् ।  
+हिनु ७ "हि गतौ' [ १२५८ स्वादिः ] । मम गमनाय [[समर्थ-नामापादय|समर्थताम् आपादय]] । प्र ण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2615,7 +2551,6 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 भावार्थभाषाः -  माणूस स्वतःच्या स्वार्थसिद्धीसाठी जसा प्रयत्न करतो तसा इतरांसाठीही करावा. आपल्या कल्याणाची जशी इच्छा बाळगतो तशी इतरांसाठीही बाळगावी. याप्रमाणे सर्वांची आयुष्ये परिपूर्ण करावीत.
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2626,22 +2561,15 @@ Impel us to purpose, to skill; may he prolong our lifespans.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/29_anu_manyatAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **अ᳓नु मन्यताम्** अनुम᳓न्यमाना  
 प्रजा᳓वन्तँ रयि᳓म् अ᳓क्षीयमाणम् ।   
 त᳓स्यै वयँ᳓ हे᳓डसि **मा᳓पि भूम**  
 सा᳓ नो देवी᳓ सुह᳓वा श᳓र्म **यच्छतु** ।
-
 </details>
 
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/29_anu_manyatAm.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 May she favouring, favour (us)  
@@ -2667,8 +2595,6 @@ May the goddess easy to invoke grant us protection.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -2677,22 +2603,15 @@ May the goddess easy to invoke grant us protection.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/34_yasyAm_idam.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓स्याम् इद᳓म् प्रदि᳓शि य᳓द् **विरो᳓चते᳓**  
 ऽनुमतिम् प्र᳓ति **भूषन्त्य्** आय᳓वः ।  
 य᳓स्या उप᳓स्थ उर्व् अ᳙न्त᳓रिक्षँ,  
 सा᳓ नो देवी᳓ सुह᳓वा श᳓र्म **यच्छतु** ॥ [35]
-
 </details>
 
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/34_yasyAm_idam.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Anumati men reverence in the quarter  
@@ -2722,8 +2641,6 @@ The goddess, easy to invoke, grant us protection [4].
 </details>
 </details>
 
-</div>
-
 ## राका
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2746,9 +2663,8 @@ The goddess, easy to invoke, grant us protection [4].
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/04_rAkAmahaM_suhavAM.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/04_rAkAmahaM_suhavAM.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राका
@@ -3110,7 +3026,6 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. ज्याला इच्छानुकूल स्त्री किंवा पुरुष मिळतो त्या माणसाचे किंवा स्त्रीचे सौभाग्य असते. ज्या गुण, कर्म स्वभावाचा पुरुष असेल तशी पत्नीही असावी. जर स्त्री-पुरुष दोघेही ऋतूसमयी अनुकूल प्रेमाने संतानोत्पत्ती करतील तर त्यांची संताने प्रशंसित का होणार नाहीत? जसे जीर्ण वस्त्र सुईने शिवले जाते तसे ज्यांच्या मनात परस्पर प्रेम असेल तर त्यांचे कुल मान्यता पावते. ॥ ४ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3134,9 +3049,8 @@ Die gern erhört, die Rākā ruf' ich mit Gesang, es höre uns die reiche und be
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/05_yAste_rAke.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/05_yAste_rAke.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राका
@@ -3498,7 +3412,6 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 भावार्थभाषाः -  जर श्रेष्ठ विद्वान माणसाची सुलक्षणा विदुषी स्त्री असेल तर पुष्कळ धन व सुख प्राप्त होते. ॥ ५ ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3527,9 +3440,8 @@ Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehren
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/06_sinIvAli_pRthuShTuke.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/032/06_sinIvAli_pRthuShTuke.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सिनीवाली
@@ -3745,23 +3657,15 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-सिनीवाली।
-
-सिनीवाली देवपुत्री।
-
-हे सिनीवालि हे पृथुष्टुके पृथुसंयमितकेशभारे।
-
-महास्तुतिर्वा पृथुष्टुका।
-
-या त्वं देवानामसि भवसि स्वसा भगिनी।
-
-तां त्वां ब्रवीमि।
-
-जुषस्व प्रीत्या परिगृह्णीष्व हव्यं हविः।
-
-आहुतमभिहुतमग्नौ।
-
-प्रजां च हे देवि, दिदिढ्ढि दिश अतिसूज देहि नः अस्मभ्यम्॥ १०॥
+सिनीवाली।  
+सिनीवाली देव-पुत्री।  
+हे सिनीवालि हे पृथु-ष्टुके पृथु-संयमित-केश-भारे।  
+महा-स्तुतिर् वा पृथु-ष्टुका।  
+या त्वं देवानाम् असि भवसि स्वसा भगिनी।  
+तां त्वां ब्रवीमि।  
+जुषस्व प्रीत्या परिगृह्णीष्व हव्यं हविः।  
+आहुतम् अभिहुतम् अग्नौ।  
+प्रजां च हे देवि, [[दिदिढ्ढि|दिदिड्ढि]] दिश [[अतिसूज|अतिसृज]] देहि नः अस्मभ्यम्॥ १०॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -3783,55 +3687,28 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-या पूर्वा पौर्णमासी सा अनुमतिः, या उत्तरा सा राका ।
-
-या पूर्वा अमावास्या सासिनी- वाली, या उत्तरा सा कुहूः ।
-
-हे पृथुष्टुके प्रभूतस्तुति-युक्ते, हे सिनीवालि दृष्ट-चन्द्रा अमावास्या सिनीवालीत्युच्यते ।
-
-तादृशी त्वं देवानां केषांचित् स्वसा भगिनी असि ।
-
-यद् वा देवानाम् अग्न्यादीनां स्वसा प्रसारयित्री प्रापिका भवसि ।
-
-तत् आहुतम् इज्याग्नौ सम्यग् युतं हव्यं पुरोडाशादि-लक्षणं जुषस्व सेवस्य ।
-
-किं च हे देवि द्योतमाने नः अस्माकं प्रजाम् अपत्यादि-रूपां दिदिड्ढि, 'दिह उपचये' इति धातुः, उपचिनु प्रवर्द्धय इत्य् अर्थः ।
-
-न केवलं यागादि-कर्मणा आमुष्मिकं सम्पाद्यते किन्तु ऐहिक- मिति भावः ।
+या पूर्वा पौर्णमासी सा अनुमतिः, या उत्तरा सा राका ।  
+या पूर्वा अमावास्या सा सिनी-वाली, या उत्तरा सा कुहूः ।  
+हे पृथुष्टुके प्रभूत-स्तुति-युक्ते, हे सिनीवालि दृष्ट-चन्द्रा अमावास्या सिनीवालीत्य् उच्यते ।  
+तादृशी त्वं देवानां केषांचित् स्वसा भगिनी असि ।  
+यद् वा देवानाम् अग्न्यादीनां स्वसा प्रसारयित्री प्रापिका भवसि ।  
+तत् आहुतम् इज्याग्नौ सम्यग् [[युतं|हुतं]] हव्यं पुरोडाशादि-लक्षणं जुषस्व [[सेवस्य|सेवस्व]] ।  
+किं च हे देवि द्योतमाने नः अस्माकं प्रजाम् अपत्यादि-रूपां दिदिड्ढि, 'दिह उपचये' इति धातुः, उपचिनु प्रवर्द्धय इत्य् अर्थः ।  
+न केवलं यागादि-कर्मणा आमुष्मिकं सम्पाद्यते किन्तु ऐहिकम् इति भावः ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥
-
-( मा० ३४ ८ )
-अनुमति-देवत्यानुष्टुप् ।
-
-'ऋषि-गृत्समदः ।
-
-अनु इत् एव ।
-
-" कलाहीने सानुमतिः. पूर्णे राका निशाकरे" [ अमर० ११४।८ ] ।
-
-हे अनुमते अपूर्ण-चन्द्रे ।
-
-त्वम् एव स्वात्मानं शक्रम् ।
-
-अनुमन्यासै मन्यसे ।
-
-तर्हि नः अस्माकम् ।
-
-शं च सुखम् एव ।
-
-कृधि कुरुष्व ।
-
-किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।
-
-दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादि: ] अभिवृद्धये च ।
-
-नः अस्मान् ।
-
-हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
+क्रत्वे दक्षाय नो हिनु प्र ण आयूंषि तारिषः ॥ ३ ॥  
+([[मा० ३४ ८|मा० ३४.८]]) अनुमति-देवत्यानुष्टुप् ।  
+ऋषि-गृत्समदः ।  
+अनु इत् एव ।  
+"कलाहीने सानुमतिः पूर्णे राका निशाकरे" [अमर० [[११४।८|१.४.८]]] ।  
+हे अनुमते अपूर्ण-चन्द्रे । त्वम् एव स्वात्मानं शक्रम् । अनुमन्यासै मन्यसे । तर्हि नः अस्माकम् । शं च सुखम् एव । कृधि कुरुष्व ।  
+किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये ।  
+दक्षाय 'दक्ष वृद्धौ' [६०८ भ्वादिः] अभिवृद्धये च ।  
+नः अस्मान् ।  
+हिनु [[७"|']]हि गतौ' [१२५८ स्वादिः] । मम गमनाय [[समर्थ नामापादय प्रण|समर्थ-नामापादय । प्र ण]] आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
@@ -3991,7 +3868,6 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 भावार्थभाषाः -  जी विद्वान कुलातील कन्या असेल, जिचा बंधू विद्वान असेल व जिने ब्रह्मचर्यपूर्वक विद्या प्राप्त केलेली असेल तिचा पत्नी या नात्याने स्वीकार करून जो विधीपूर्वक संतती उत्पन्न करतो तो पुरुष व स्त्री दोघेही सुखी होतात. ॥ ६ ॥
 </details>
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
@@ -4025,22 +3901,16 @@ The fairhanded.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 कुहू᳓म्+++(=नष्टचन्द्राऽमावास्या)+++ अहँ᳓ सुभ᳓गाव्ँ विद्मन्-आ᳓पसम्+++(=कर्माणं)+++  
 अस्मि᳓न् यज्ञे᳓ सुह᳓वाञ् **जोहवीमि** ।  
 सा᳓ नो **ददातु** श्र᳓वणम् पितृणा᳓न्  
 त᳓स्यास् ते देवि हवि᳓षा **विधेम** ।
-
 </details>
 
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/48_kuhUm_aham.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 I invoke at the sacrifice Kuhu the fortunate,  
@@ -4133,7 +4003,6 @@ she who gives us the hearing of the ancestors—to her, to thee, O goddess, may 
 नष्टचन्द्राऽमावास्या कुहूः, तां सुभगां शोभनधनादिकां **विद्मनापसं** विदितकर्माणं, वेदनं विद्मः, औणादिको मन्प्रत्ययः, तद्विद्मनं पामादिलक्षणो नप्रत्ययः, तादृशं अपः कर्म यस्या इति तादृशीं सुहवां स्वाह्वानां अस्मिन् यज्ञे जोहवीमि भृशमाह्वयामि, सा चाहूता अस्मभ्यं ददातु श्रवणं श्रुतिसुखं धनं यशो वा पितृणां पूर्वेषां संबन्धि पितृणां वा श्रुतिसुखं यथा भवति तया ददातु । इदानीं स्तुत्या अभिमुखीं देवतां प्रत्यक्षीकृत्याह - हे देवि कुहु तस्याः हविषा विधेम । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । तादृग्गुणां त्वां हविषा परिचरेमेत्यर्थः ॥
 </details>
 </details>
-
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4144,22 +4013,16 @@ she who gives us the hearing of the ancestors—to her, to thee, O goddess, may 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 कुहू᳓र् देवा᳓नाम् अमृ᳓तस्य प᳓त्नी  
 ह᳓व्या नो अस्य᳓ हवि᳓षश् **चिकेतु** ।   
 स᳓न्दाशु᳓षे **किर᳓तु** भू᳓रि वामँ᳓  
 राय᳓स्-पो᳓षञ् चिकितु᳓षे **दधातु** ॥ [36]
-
 </details>
 
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष्टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
-
-<details><summary><h5>सर्वाष्टीकाः …{Loading}…</h5></summary>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/11_yAjyApuronuvAkyAH/52_kuhUr_devAnAm.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Kuhu, lady of the gods and of immortality,  
@@ -4218,7 +4081,6 @@ let her scatter much bounty for the worshiper; let her grant increase of wealth 
 देवानाम्मध्ये कुहूर्देवी अमृतस्य अमृतत्वस्य उदकस्य वा पत्नी पालयित्री । यद्वा - देवानामिति सर्वविकारोपलक्षणम् । सर्वेषां भूतजातानां अमृतस्य पत्नी हव्या आह्वानार्हा । यत्प्रत्यये पूर्ववत्संप्रसारणत्वम् । तादृशी देवी नोस्माकं अस्य हविषः चरोः दीयमानस्य चिकेतु जानातु । ज्ञात्वा च दाशुषे हविर्दत्तवते यजमानाय भूरि भूयिष्ठं वामं वननीयं धनं संकिरतु ददातु । 'दाश्वान्' इति निपातः । रायस्पोषं तस्य धनस्य पुष्टिं चिकितुषे ज्ञातवते यजमानाय ददातु । कित ज्ञाने लिटः क्वसुः । रायः सत्वस्वरावुक्तौ ॥
 </details>
 </details>
-
 </div>
 
 इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये तृतीयकाण्डे तृतीयप्रपाठके एकादशोनुवाकः ॥

@@ -64,7 +64,9 @@ he who is the domestic priest of the ṛṣis.
 - **[621_5]** So corr. Ch सङ्क्रामत्वममुष्मा॰; vgl. TS 7, 3, 11, 1. (Thus emended; Ch reads सङ्क्रामत्वममुष्मा॰; cf. TS 7, 3, 11, 1)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -77,14 +79,13 @@ he who is the domestic priest of the ṛṣis.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/7/3/11_ashvamedhaH/11_aShTaRgAhutayaH/02_nirdevan_nirvIra~N_kRtvA.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 नि᳓र्देवन् नि᳓र्वीरङ् कृत्वा᳓ वि᳓ष्कन्धन्+++(=विविधशोषणं)+++  
 त᳓स्मिन् हीयताय्ँ यो᳙ऽस्मा᳓न् द्वे᳓ष्टि  ।  
 श᳓रीरय्ँ यज्ञ-शमल᳓ङ्+++(=पुरिषं)+++ कु᳓सीदन्+++(=वृद्धिप्रयोगजीवनं)+++  
 त᳓स्मिन्त् सीदतु, यो᳙ ऽस्मा᳓न् द्वे᳓ष्टि ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/7/3/11_ashvamedhaH/11_aShTaRgAhutayaH/02_nirdevan_nirvIra~N_kRtvA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -156,7 +157,9 @@ let the body, the sacrifice-impurity, the debt settle upon him who hates us.
 - **[621_9]** So corr. Ch सोदत्त ; vgl. TS 7, 3, 11, 1. (Thus emended; Ch reads सोदत्त; cf. TS 7, 3, 11, 1)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

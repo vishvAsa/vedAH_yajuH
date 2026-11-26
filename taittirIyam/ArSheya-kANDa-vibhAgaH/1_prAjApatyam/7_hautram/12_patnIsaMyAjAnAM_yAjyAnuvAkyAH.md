@@ -500,7 +500,8 @@ Der Götter Frauen mögen gern uns hülfreich sein, zu Kinderschar und reichem G
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/046/08_uta_gnA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवपत्न्यः
@@ -828,6 +829,7 @@ Die gottvermählten Frauen mögen kommen, Indrani, Agnani, die Ritterfürstin, d
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे राजे लोकांजवळ पुरुष मंत्री असतात तशा राण्यांजवळ स्त्रिया मंत्री असाव्यात. ॥ ८ ॥
+</details>
 </details>
 </div>
 

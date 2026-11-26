@@ -6,13 +6,10 @@ title = "१४ नामकरणम्"
 ## १५ ०८ दशम्यामुत्थितायां स्नातायाम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_08_dashamyAmutthitAyAM_snAtAyAm.md">
-
 दशम्यामुत्थितायां स्नातायां पुत्रस्य नाम दधाति पिता मातेति ८
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_08_dashamyAmutthitAyAM_snAtAyAm.md">
-
 <details><summary>Oldenberg</summary>
 
 8. On the tenth day, after (the mother) has risen and taken a bath, he gives a name to the son. The father and the mother (should pronounce that name first).
@@ -49,28 +46,22 @@ title = "१४ नामकरणम्"
 इतिशब्दश्चार्थे, मातापितरौ सहितौ नाम धत्त इति ।
 इममर्थं मन्त्रवर्णोऽप्याह "मम नाम प्रथमं जातवेदः पिता माता च दधतुर्यदग्रे" (तै.सं.१-५-१०) इति ॥८॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_08_dashamyAmutthitAyAM_snAtAyAm.md">
-
 दशम्यामुत्थितायां स्नातायां पुत्रस्य नाम दधाति पिता मातेति ।
-
 </div>
 
 ## १५ ०९ द्व्यक्षरञ् चतुरक्षरम्
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_09_dvyaxara~n_chaturaxaram.md">
-
 द्व्यक्षरं चतुरक्षरं वा नामपूर्वमाख्यातोत्तरं +++(=क्विबन्तोत्तरम्)+++ दीर्घाभिनिष्ठानान्तं +++(=दीर्घात्परोऽभिनिष्ठानो विसर्जनीयोऽन्ते यस्य तत्)+++ घोषवदाद्यन्तरन्तस्थम् +++(यरलवा अन्तस्थाः।)+++  
 +++(हरदत्तोदाहरणानि - गाः श्रयते इति गोश्रिः । गां प्रीणतीति गोप्रीः । हिरण्यः ददातीति हिरण्यदाः भूरिदाः हरदत्त इत्यादीन्युदाहरणानि ।  
 सुदर्शनसूर्युदाहरणानि - द्व्यक्षरस्योदाहरणं - वाः उदकं ददातीति वार्दाः, गिरं ददातीति गीर्दाः इत्यादि । चतुरक्षरस्य तु भाष्योक्तं "द्रविणोदाः वरिवोदाः" इति । एतद्द्वयमपि छान्दसम् । अन्यदपि हिरण्यदा युवतिदाइत्यादि ॥)+++
 ९
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_09_dvyaxara~n_chaturaxaram.md">
-
 <details><summary>Oldenberg</summary>
 
 9. (It should be a name) of two syllables or of four syllables; the first part should be a noun; the second a verb; it should have a long vowel (or) the Visarga at the end, should begin with a sonant, and contain a semi-vowel.
@@ -115,25 +106,19 @@ title = "१४ नामकरणम्"
 एतद्द्वयमपि छान्दसम् ।
 अन्यदपि हिरण्यदा युवतिदा इत्यादि ॥९॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_09_dvyaxara~n_chaturaxaram.md">
-
 द्व्यक्षरं चतुरक्षरं वा नामपूर्वमाख्यातोत्तरं दीर्घाभिनिष्ठानान्तं घोषवदाद्यन्तरन्तस्थम् ।
-
 </div>
 
 ## १५ १० अपि वा
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_10_api_vA.md">
-
-अपि वा यस्मिन्स्वित्युपसर्गस्स्यात् तद्धि प्रतिष्ठितमिति हि ब्राह्मणम् +++(सुभद्रस्सुमुख इत्याद्युदाहरणम् । सुजातः सुदर्शन इत्यादि ।)+++ १०  
-
+अपि वा यस्मिन्स्वित्युपसर्गस्स्यात् तद्धि प्रतिष्ठितमिति हि ब्राह्मणम् +++(सुभद्रस्सुमुख इत्याद्युदाहरणम् । सुजातः सुदर्शन इत्यादि ।)+++ १०
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_10_api_vA.md">
-
 <details><summary>Oldenberg</summary>
 
 10. Or it should contain the particle su, for such a name has a firm foundation; thus it is said in a Brāhmaṇa.
@@ -165,25 +150,19 @@ title = "१४ नामकरणम्"
 देवताणूकं विष्णुः शिवः इति ।
 पूर्वपुरुषाणां पितृपितामहादीनां वा नामानि यज्ञशर्मा, सोमशर्मा इत्यादिनि ॥१०॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_10_api_vA.md">
-
 अपि वा यस्मिन् स्वित्युपसर्गस्स्यात् तद्धि प्रतिष्ठितमिति हि ब्राह्मणम् ।
-
 </div>
 
 ## १५ ११ अयुजाक्षरङ् कुमार्याः
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_11_ayujAxara~N_kumAryAH.md">
-
 अयुजाक्षरं कुमार्याः ११
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_11_ayujAxara~N_kumAryAH.md">
-
 <details><summary>Oldenberg</summary>
 
 11. A girl's name should have an odd number of syllables.
@@ -209,13 +188,10 @@ title = "१४ नामकरणम्"
 इति मनुवचनात् ।
 इह च द्रव्यनिष्ठा भावार्थाः प्राशनवपनादय एव निष्कृष्य कर्तव्याः, न तु होमाः ; एवमेव शिष्टाचारात्, स्मृत्यर्थसारे दृष्टत्वाच्च ॥११॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_11_ayujAxara~N_kumAryAH.md">
-
 अयुजाक्षरं कुमार्याः ।
-
 </div>
 
 ## १५ १२ प्रवासादेत्य
@@ -223,7 +199,7 @@ title = "१४ नामकरणम्"
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_12_pravAsAdetya.md">
 प्रवासादेत्य पुत्रस्योत्तराभ्यामभिमन्त्रणं +++(=अङ्गादङ्गात्)+++  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/03_angAdangAtsambhavasi_hRdayAdadhi.md">
 <details open><summary><h2>०३ अङ्गादङ्गात्सम्भवसि हृदयादधि ...{Loading}...</h2></summary>
 
 अङ्गा॑दङ्गा॒त् संभ॑वसि॒ हृद॑या॒दधि॑ जायसे । वे॒दो वै पुत्र॒नामा॑ऽसि॒ स जी॑व श॒रद॑श्श॒तम् ।  
@@ -234,9 +210,9 @@ title = "१४ नामकरणम्"
 मूर्धन्यवघ्राणं +++(=अश्मा भव)+++  दक्षिणे कर्ण  
 
 मूर्धन्यवघ्राणम् -
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/04_ashmA_bhavetyeShA.md">
 <details open><summary><h2>०४ अश्मा भवेत्येषा ...{Loading}...</h2></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
+<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_12/01_ashmA_bhava.md">
 <details open><summary><h4>०१ अश्मा भव ...{Loading}...</h4></summary>
 
 अश्मा॑ भव पर॒शुर्भ॑व॒ हिर॑ण्य॒मस्तृ॑तं भव ।  
@@ -249,7 +225,7 @@ title = "१४ नामकरणम्"
 
 ##### कर्णे जपः  
 उत्तरान्मन्त्रान् +++(=अग्निरायुष्मान् स वनस्पतिभिः)+++ जपेत् १२  
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/05_agnirAyuShmAn_vanaspatibhiH.md">
 
 
 +++(हे यजमान)+++  
@@ -259,28 +235,28 @@ title = "१४ नामकरणम्"
 
 
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/06_soma_AyuShmAn_oShadhIbhiH.md">
 
 
 सो᳓म आ᳓युष्मान् स᳓ ओ᳓षधीभिर् [आ᳓युष्मान् ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 
 
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/07_yajna_AyuShmAn_dakShiNAbhiH.md">
 
 
 +++(हे यजमान)+++ यज्ञ᳓ [आ᳓युष्मान्], स᳓ द᳓क्षिणाभिर् आ᳓युष्मान्, [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 
 
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/08_brahma_AyuShmAn_brAhmaNaiH.md">
 
 
 +++(हे यजमान)+++ ब्र᳓ह्मा᳓युष्मत्, त᳓द्ब्राह्मणै᳓रा᳓युष्मत् , [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 
 
 </div>
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/09_devA_AyuShmantaH_amRutena.md">
 +++(हे यजमान)+++ देवा᳓ आ᳓युष्मन्तः।  
 ते᳙ऽमृ᳓तेन [+आ᳓युष्मन्तः]  [ते᳓न त्वा᳓ ऽऽयुषा᳓ ऽऽयुष्मन्तङ् करोमि ।]
 </div>
@@ -296,6 +272,7 @@ title = "१४ नामकरणम्"
 
 [^2]:  Comp. above, Sūtra 1.
 </details>
+
 <details><summary>हरदत्तः</summary>
 
 **प्रवासाद्** आगत्य तु **उत्तराभ्यामभिमन्त्रणमवघ्राणं च** क्रमेण कर्तव्यम् ।
@@ -308,6 +285,7 @@ title = "१४ नामकरणम्"
 उत्तरे मन्त्राः "अग्निरायुष्मानिति पञ्चे"त्यादिष्टाः । तान् पुत्रस्य **दक्षिणे कर्णे जपेत्** ।
 मन्त्रग्रहणं क्रियते "अग्निरायुष्मानिति पञ्चे"त्यस्य पञ्चशब्दस्य मन्त्रेषु वृत्तिरिति प्रज्ञापनार्थम् ॥१२॥
 </details>
+
 <details><summary>सुदर्शनः</summary>
 
 **प्रवासादागत्योत्तराभ्यां** "अङ्गादङ्गात्" "अश्मा भव" इत्येताभ्यां **पुत्रस्याभिमन्त्रणं** कर्तव्यम् ।
@@ -335,19 +313,18 @@ title = "१४ नामकरणम्"
 ## १५ १३ कुमारीमुत्तरेण
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/14_nAmakaraNam/15_13_kumArImuttareNa.md">
-
 कुमारीमुत्तरेण यजुषा +++("सर्व॑स्मादा॒त्मन॒स्संभू॑ताऽसि॒ सा जी॑व श॒रद॑श्श॒तम् । ")+++ ऽभिमन्त्रयते १३  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
+<details open><summary><h2>१० सर्वस्मादात्मनस्सम्भूताऽसि सा ...{Loading}...</h2></summary>
 
 सर्व॑स्माद् आ॒त्मन॒स् संभू॑ताऽसि॒, सा जी॑व श॒रद॑श् श॒तम् ।  
 
+</details>
 </div>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/14_nAmakaraNam/15_13_kumArImuttareNa.md">
-
 <details><summary>Oldenberg</summary>
 
 13. With the next Yajus (II, 14, 6) he addresses a daughter (when returning from a journey).
@@ -368,11 +345,8 @@ title = "१४ नामकरणम्"
 
 इति श्रीसुदर्षनार्यविरचिते गृह्यतात्पर्यपदर्शने पञ्चदशः खण्डः ॥
 </details>
-
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/mUlam/14_nAmakaraNam/15_13_kumArImuttareNa.md">
-
 कुमारीमुत्तरेण यजुषाऽभिमन्त्रयते।
-
 </div>

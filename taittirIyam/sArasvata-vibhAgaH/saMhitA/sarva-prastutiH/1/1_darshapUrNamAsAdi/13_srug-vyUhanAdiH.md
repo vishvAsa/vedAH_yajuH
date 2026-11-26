@@ -867,7 +867,9 @@ I set you in the seat of Agni, whose house has fallen away.
 किञ्च - धुरि यागलक्षणायामस्यां वर्तमानौ धुर्यौ अस्या धुरो वोढारौ पत्नीयजमानौ पातं रक्षतम् ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यजमान-)+++सुम्ना᳓य+++(=सुखाय)+++ सुम्निनी +++(जुहूपभृतौ!)+++ +++(स्व-)+++सुम्ने᳓ मा +++(अध्वर्युं)+++ धत्तम्।
 </details>

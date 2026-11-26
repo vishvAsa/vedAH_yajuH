@@ -472,28 +472,63 @@ ________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/10_shAlApraveshAdikam/10_gayasphAna_prataraNas_suvIro.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 गय+++(=गृह)+++स्फा᳓नᳶ+++(=वर्धयिता)+++ प्रत᳓रणस् सुवी᳓रो᳓  
 ऽ+++(स्वपक्ष)+++वीरहा प्र᳓ चरा सोम दु᳓र्यान्+++(=गृहान् [प्राग्वंशदीन्])+++ ॥
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/2_somayAgArambhaH/10_shAlApraveshAdikam/10_gayasphAna_prataraNas_suvIro.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Giver of wealth, impeller, rich in heroes,  
-Slaying not heroes, O Soma, enter the dwellings.  
+Slaying not heroes, O Soma, enter the dwellings.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Eggeling</summary>
+
+Go forth to our dwellings, O Soma, prospering our homes, ever helpful, bestowing abundance of men, not slaying our
+
+men!'
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 ग॒य॒स्फानᳶ॑ प्र॒तर॑णस्सु॒वीरोऽवी॑रहा॒ प्र च॑रा सोम॒ दुर्या॑न् ॥
 </details>
 
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+गयस्फा᳘नः प्रत᳘रणः सुवीरो᳘ ऽव्वी᳘रहा प्र᳘चरा सोम दु᳘र्यानि᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+गयस्फा᳘नः प्रत᳘रणः सुवीरो᳘ ऽवीरहा प्र᳘चरा सोम दु᳘र्यानि᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+गयस्फानः प्रतरणः सुवीरो ऽवीरहा प्रचरा सोम दुर्यान्"**- (वा. सं. ४ । ३७) इति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
-ग॒य॒स्फान॒ इति॑ गय-स्फानः॑ । प्र॒तर॑ण॒ इति॑ प्र-तर॑णः । सु॒वीर॒ इति॑ सु-वीरः॑ । अवी॑र॒हेत्यवी॑र-हा॒ । प्रेति॑ । च॒र॒ । सो॒म॒ । दुर्या॑न् । 
+ग॒य॒स्फान॒ इति॑ गय-स्फानः॑ । प्र॒तर॑ण॒ इति॑ प्र-तर॑णः । सु॒वीर॒ इति॑ सु-वीरः॑ । अवी॑र॒हेत्यवी॑र-हा॒ । प्रेति॑ । च॒र॒ । सो॒म॒ । दुर्या॑न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- गय-स्फा᳓नः (*TS*-2, *RV*-3, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-3, *MS*-3)
+- प्र-त᳓रणः (*TS*-2/4, *RV*-4/5, *AV*-2/3, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3, *KS*-1/2, *MS*-2/3)
+- सु-वी᳓रः (*TS*-9/26, *RV*-16/92, *TB*-1/13, *AV*-7/22, *SB-K*-6/7, *VS-M*-5/12, *VS-K*-5/12, *KS*-3/13, *MS*-6/20)
+- अ᳓वीर-हा (*TS*-1/3, *RV*-1, *AV*-2, *SB-K*-1/2, *VS-M*-1/3, *VS-K*-0/1, *KS*-1)
+- प्र᳓चरा (*SB-K*-1, *VS-K*-1, *KS*-1, *MS*-1)
+- सोम᳓ (*TS*-3/5, *RV*-0/1, *SB-K*-9/10, *VS-M*-1/2, *VS-K*-0/1, *KS*-0/1, *MS*-0/2, *MW*)
+- दु᳓र्यान् (*TS*-4/10, *RV*-2/9, *TB*-0/1, *AV*-1, *SB-K*-1/4, *VS-K*-1/2, *KS*-1, *MS*-1/4)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -506,6 +541,7 @@ Slaying not heroes, O Soma, enter the dwellings.
 हे सोम त्वं दुर्यान् गृहान् प्राचीन-वंश-रूपान् प्रचर प्राप्नुहि। कीदृशस् त्वं? गय-स्फानो गृहाभि-वर्धकः। प्रतरणः प्रकर्षेण यज्ञ-पारं प्रत्य् अस्मांस् तारयिता। सु-वीरः शोभनास् त्वत्-प्रसाद-लब्धा वीरा अस्मत्-पुत्र-पौत्रा यस्य तव स त्वं सु-वीरः। अवीर-हा यथोक्तानां वीराणाम् अहन्ता परिपालक इत्य् अर्थः।
 </details>
 </details>
+</div>
 
 ##  सोमोपस्थानादि
 ________
@@ -518,6 +554,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sadaH.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -531,11 +568,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓दोऽसि ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -566,7 +606,7 @@ Thou art the seat of Aditi.
 
 आपस्तम्बो द्वितीय-तृतीय-मन्त्राव् एकी-चकार। हे कृष्णाजिन, त्वम् अदित्या भूमेः सदः स्थानम् असि। 
 </details>
-
+</details>
 </div>  
 
 ________
@@ -579,6 +619,7 @@ ________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/adityAs_sada_AsIda.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -594,11 +635,14 @@ ________
 
 इति।
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓दित्यास् स᳓द आ᳓सी᳓द᳓ ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -619,14 +663,17 @@ Sit on the seat of Aditi.
 
 4तस्मिन्सोमं निदधाति - अदित्या इति ॥ अदित्यास्सदः सदन स्थानीयमेतत् कृष्णाजिनमासीद उपविश अस्मिन् ॥
 </details>
+</details>
 
 7कृष्णाजिने राजानमासादयति - अदित्या इति ॥ अदित्यास्सदोभूतमेतत्कृष्णाजिनं हे सोम आसीद अधितिष्ठ । प्रागेव व्याख्यातमिदं मन्त्रद्वयम् ॥
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>सायण-टीका</summary>
 
 हे सोम, तस्याः सदः प्राप्नुहि। 
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

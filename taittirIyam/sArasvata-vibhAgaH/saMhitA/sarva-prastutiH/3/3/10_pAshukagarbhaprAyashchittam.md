@@ -115,8 +115,8 @@ TODO: taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/3/3/10_pAshukagarbh
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/07_Avartana_vartaya.md">
-
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/sarvASh_TIkAH/2_22/07_Avartana_vartaya.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Bring near, O bringer,  
@@ -146,7 +146,7 @@ Do thou bring near.
 
 येन पथा दासकर्मकराः पलायेरन् तस्मिन्निण्वान्युप समाधायोत्तरा आहुतीर्जुहुयात् - आवर्तनेति ॥ प्रत्यागमनमावृत्तिः गम नादुपरतिर्निवृत्तिः । आवर्तयतीति आवर्तनः । निवर्तयतीति निवर्तनः आङ आख्यातेन सम्बन्धः अन्य आङध्याहर्तव्यः हे आवर्तन । आवर्तय मदीयान् भृत्यान् । हे निवर्तन । निवर्तय तानेव । हे इन्द्र । नर्दबुद नर्द इति शब्दार्थः बुद इति शरनाम आबुन्दं वृत्रहाददे इन्द्रो बुन्दम् तुविक्षन्ते सुकृतं सुमयं धनुस्साधुर्बुन्दो हिरण्मयः इति दर्शनात् शब्दितशर प्रसिद्धशर इत्यर्थः । भूम्याः सम्बन्धिन्यः चतस्रः प्रदिशः प्रधानदिशः प्राच्याद्याः ताभिः । विभक्तिव्यत्ययः । ताभ्यः पुनरावर्तय ।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

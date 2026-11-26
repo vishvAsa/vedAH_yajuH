@@ -259,7 +259,9 @@ Du schenkest hohe Kraft, o Gott, o Agni, dem Verehrenden, O weiser, junger Haush
 - षड्जः
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -612,7 +614,9 @@ Er ist uns ew'ger Vater, Opferfahrer, uns schön zu schau'n, gewaltig, hell erst
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजा ! जशी विद्युत व भूमीतील अग्नी सर्वांवर उपकार करतो व जसे परमेश्वर असंख्य पदार्थ उत्पन्न करून पित्याप्रमाणे सर्वांचे पालन करतो तसे तूही कर. ॥ २ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -929,7 +933,9 @@ Wenn du uns, Soma, leben heisst, so fall'n wir nicht dem Tod anheim, O Waldesfü
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जी माणसे ईश्वराची आज्ञा पालन करणाऱ्या विद्वानांचे व औषधांचे सेवन करतात ती पूर्ण आयुष्य भोगतात. ॥ ६ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1295,7 +1301,9 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 - धैवतः
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1594,7 +1602,9 @@ Wir locken den allgöttlichen Gebieter heut durch Lieder her, Den Savitar, der G
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी परमेश्वराला सोडून दुसऱ्या कुणाचाही आश्रय घेऊ नये. ॥ ७ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1615,7 +1625,8 @@ Wir locken den allgöttlichen Gebieter heut durch Lieder her, Den Savitar, der G
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/035/02_A_kRShNena.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/035/02_A_kRShNena.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -1871,17 +1882,12 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-आ कृष्णेन।
-
-आवर्तमानः पुनःपुनर्भ्रमणं कुर्वन्।
-
-कृष्णेन रजसा रात्रिलक्षणेन सह निवेशयन् स्वेषु स्वेषु प्रदेशेषु स्थापयनमृतं देवादिकम् मर्त्यं च मनुष्यादिकं च।
-
-हिरण्ययेन हिरण्मयेन सविता रथेन।
-
-आदेवो याति आयाति देवः दानादिगुणयुक्तः भुवनानि भूतजातानि पश्यन् कानि कानि साधु कुर्वन्ति कानि कानि वा असाध्विति स्वरूपानुवादः॥ ४३॥
-
-आकृष्णेनेति व्याख्यातम्॥ ३१॥
+आ कृष्णेन।  
+आवर्तमानः पुनः-पुनर् भ्रमणं कुर्वन्।  
+कृष्णेन रजसा रात्रि-लक्षणेन सह निवेशयन् स्वेषु स्वेषु प्रदेशेषु [[स्थापयनमृतं|स्थापयन्न् अमृतं]] देवादिकम् मर्त्यं च मनुष्यादिकं च।  
+हिरण्ययेन हिरण्मयेन सविता रथेन।  
+आ देवो याति आयाति देवः दानादि-गुण-युक्तः भुवनानि भूत-जातानि पश्यन् कानि कानि साधु कुर्वन्ति कानि कानि वा असाध्व् इति स्व-रूपानुवादः॥ ४३॥  
+आ कृष्णेनेति व्याख्यातम्॥ ३१॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -1901,48 +1907,25 @@ _________
 
 पदच्छेदः स्पष्टः ॥४३॥
 
-आकृष्णेन निकृष्णेन रजसा वर्णेन तह वर्तमानः, अथ वा कृष्णेन जगत्-कर्षकेण आविर्हेतुकेन रजसा प्रकाशेन, यद् वा कृष्णेन अपि च रजसा वर्तमानः, आयाति आगच्छति ।
-
-किं कुर्वन् ?
-
-अमृतम- मरण-धर्मकं मत्यं तद् विलक्षणं च निवेशयन् तत् तत्-स्थाने स्थापयन्, कृष्णं नक्तम् अन्धकारः इति पक्षे रात्रौ स्वस्व-व्यापाराभावात् स्व-स्वस्थाने स्थापयत्, कृष्णं कर्षकं रजः प्रकाशः इति पक्षे निवेशयन् स्व-व्यापारे नियोजयन् इत्य् अर्थः ।
-
+आकृष्णेन [[निकृष्णेन|निकृष्टेन]] रजसा वर्णेन [[तह|सह]] वर्तमानः,  
+अथ वा कृष्णेन जगत्-कर्षकेण आविर्हेतुकेन रजसा प्रकाशेन,  
+यद् वा कृष्णेन अपि च रजसा वर्तमानः,  
+आयाति आगच्छति ।  
+किं कुर्वन् ?  
+[[अमृतम-|अमृतं]] मरण-धर्मकं [[मत्यं|मर्त्यं]] तद्-विलक्षणं च निवेशयन् तत्-तत्-स्थाने स्थापयन्,  
+कृष्णं नक्तम् अन्धकारः इति पक्षे रात्रौ [[स्वस्व व्यापाराभावात् स्व स्वस्थाने स्थापयत्|स्व-स्व-व्यापाराभावात् स्व-स्व-स्थाने स्थापयन्]],  
+कृष्णं कर्षकं रजः प्रकाशः इति पक्षे निवेशयन् स्व-व्यापारे नियोजयन् इत्य् अर्थः ।  
 कृष्णेन च रजसा इति च इति समुच्चय-पक्षे निवेशयन् इत्य् अस्य उक्तार्थस्य द्वयम् अपि विवक्षितम् ।
 
-किं च हिरण्ययेन हिरण्य-द्योतमानरथेन सविता देवः भुवनानि भूत-जातानि पश्यन्, आयाति ऊर्ध्वं प्राप्नोति इत्य् अर्थः ।
+किं च हिरण्ययेन हिरण्य-द्योतमान-रथेन सविता देवः भुवनानि भूत-जातानि पश्यन्,  
+आयाति ऊर्ध्वं प्राप्नोति इत्य् अर्थः ।
 
-आ कृ॒ष्णेन॒ रज॑सा॒ वर्तमानो निवे॒शय॑न्नमृत॒म्मर्त्यश्च ।
+> आ कृ॒ष्णेन॑ रज॑सा॒ वर्तमानो निवे॒शय॑न्नमृतं॒ मर्त्यं॑ च ।  
+> हिरण्यये॑न सवि॒ता रथेना॑ दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥ २५ ॥
 
-हिरण्य येन सविता रथेना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥ २५ ॥
-
-आ ।
-
-कृष्णेन ।
-
-रजसा ।
-
-वर्तमानः ।
-
-निवेशयन् ।
-
-अमृतम् ।
-
-मर्त्यम् ।
-
-च ॥
-
-हिरण्य येन ।
-
-सविता ।
-
-रथेन ।
-
-देवः ।
-
-याति ।
-
-भुवनानि ।
-
+आ । कृष्णेन । रजसा । वर्तमानः । निवेशयन् । अमृतम् । मर्त्यम् ।  
+च ॥  
+[[हिरण्य येन|हिरण्ययेन]] । सविता । रथेन । देवः । याति । भुवनानि ।  
 पश्यन् ॥ २५ ॥
 
 इयम् अपि व्याख्याता ( अ. ३२।४३ ) ।
@@ -1950,35 +1933,21 @@ _________
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-हिरण्मयः पाणिर् इति सर्व-शरीरस्योपलक्षणम् ।
-
-हिरण्मय-देहः ।
-
-अथवा स्व-भक्तेभ्यो दातुं हिरण्य-पूर्ण-पाणिः ।
-
-हिरण्य-पाणिः सविता ।
-
-विचर्षणिः विविधार्थानां द्रष्टा कृताकृत-प्रेक्षकश् च ।
-
-उभे द्यावापृथिवी अन्तः ।
-
-उभयोर्द्यावापृथिव्योर् मध्ये ।
-
-ईयते 'ईङ्गतौ' [ ११४३ दिवादिः ] अनुगच्छति प्रतियाति ।
-
-अमीवां व्याधिम् अपबाधते ।
-
-अन्धकार-लक्षणं रोगं निवर्तयति ।
-
-अथ यदा, वेति सूर्यम् अभि ।
-
-सूर्याभिमुखतया ऽस्तमये गच्छति ।
-
-तदा कृष्णेन रजसा ।
-
-अन्धकार-लक्षणेन कृष्ण-वर्णोपलक्षितं यत्तमः [ तेन ], अस्तमय-काले तेजसा तेजसा सह स्थितं सूर्यम् ।
-
-४अभिवेति "अनुगच्छति । अस्तमिते ऽनुगच्छतीत्यर्थः । द्यां भूमिं च ऋणोति व्याप्नोति यस्तं यथोक्त-गुणं सूर्यमभिष्टुम इति सम्बन्धः ॥ १६ ॥
+हिरण्मयः पाणिर् इति सर्व-शरीरस्योपलक्षणम् ।  
+हिरण्मय-देहः ।  
+अथवा स्व-भक्तेभ्यो दातुं हिरण्य-पूर्ण-पाणिः ।  
+हिरण्य-पाणिः सविता ।  
+विचर्षणिः विविधार्थानां द्रष्टा कृताकृत-प्रेक्षकश् च ।  
+उभे द्यावापृथिवी अन्तः ।  
+उभयोर् द्यावा-पृथिव्योर् मध्ये ।  
+ईयते 'ईङ् गतौ' [११४३ दिवादिः] अनुगच्छति प्रतियाति ।  
+अमीवां व्याधिम् अपबाधते ।  
+अन्धकार-लक्षणं रोगं निवर्तयति ।  
+अथ यदा, वेति सूर्यम् अभि ।  
+सूर्याभिमुखतया ऽस्तमये गच्छति ।  
+तदा कृष्णेन रजसा ।  
+अन्धकार-लक्षणेन कृष्ण-वर्णोपलक्षितं यत् तमः [तेन], अस्तमय-काले तेजसा तेजसा सह स्थितं सूर्यम् ।  
+[[४अभिवेति|अभिवेति]] अनुगच्छति । अस्तमिते ऽनुगच्छतीत्य् अर्थः । द्यां भूमिं च ऋणोति व्याप्नोति यस् तं यथोक्त-गुणं सूर्यम् अभिष्टुम इति सम्बन्धः ॥ १६ ॥
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -2158,6 +2127,7 @@ Er, der herbeieilt durch den dunklen Luftraum, zur Ruhe legt, was sterblich, was
 
 भावार्थभाषाः -  या मंत्रात श्लेषालंकार आहे. जसे पृथ्वी मनुष्य प्राण्यांना धारण करते, सूर्य आपल्या आकर्षणाने पृथ्वीला धारण करतो व ईश्वर आपल्या सत्तेने सूर्याला धारण करतो. अशा क्रमाने सर्व गोलांचे धारण होते. त्याशिवाय अंतरिक्षात भारयुक्त गोल आपल्या परिधीत राहणे शक्य नाही व गोल फिरल्याखेरीज क्षण, मुहूर्त, प्रहर, दिवस, रात्र, पक्ष, मास, ऋतू व संवत्सर इत्यादी काळाचे अवयव उत्पन्न होऊ शकत नाहीत. ॥ २ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2179,7 +2149,8 @@ Er, der herbeieilt durch den dunklen Luftraum, zur Ruhe legt, was sterblich, was
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/043/02_yathA_no.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -2458,6 +2429,7 @@ Dass unsern Heerden Aditi den Männern, Kindern und dem Rind Verschaffen möge R
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे माता-पिता पुत्रासाठी, गोपाल पशूंसाठी व राजसभा प्रजेसाठी सुखकारक असतात. तसेच परमेश्वर व वायूही सुखकारक असतात, हे जाणावे. ॥ २ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2621,7 +2593,9 @@ exulting like the torrents pouring down from mountains, the songs of praise have
 - **[366_5]** So corr. Ch यो दन्तो (Thus emended; Ch reads यो दन्तो)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2718,7 +2692,9 @@ Bṛhaspati, roaring towards the cattle, praised forth, and knowing, sang aloud.
 - **[366_7]** So corr. Ch भिकनद्गात उत प्रास्तोदुश्च (Thus emended; Ch reads भिकनद्गात उत प्रास्तोदुश्च)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2849,7 +2825,9 @@ highest, for our aid.
 - **[104_8]** Ch und D सनसिं (Ch and D read सनसिं)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -3250,7 +3228,9 @@ Du vielgerufner hast besiegt die Feinde, aufs beste sei hier deine Kraft und Gab
 पदार्थान्वयभाषाः -  (पुरुहूत-इन्द्र) हे बहुप्रकारेण आह्वातव्य राजन् ! (शत्रून् प्रससाहिषे) वैरिणः प्रकर्षेण सहसेऽभिभवसि “बहुलं छन्दसि” [अष्टा० १।४।७६] इति श्लु लेटि (ते शुष्मः-ज्येष्ठः) ते बलं ज्येष्ठं महदस्ति (इह रातिः-अस्तु) अस्मिन्नवसरेऽस्मभ्यं बलदानं भवतु तथा (दक्षिणेन वसूनि-आभर) वृद्धिकरेण हस्तेन धनानि-अस्मभ्यमापूरय (सिन्धूनां-रेवतीनां पतिः-असि) स्यन्दमानानां नदीनामिव लाभदायिनीनां प्रशस्तशोभाधनवतीनां प्रजानाम् “रेवतीः-रविशोभा-धनं प्रशस्तं विद्यते यासु ताः प्रजाः” [ऋ० १।३०।१३ दयानन्दः] पतिरसि ॥१॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -3351,7 +3331,9 @@ Be great, O Indra,
 - **[366_8]** Ch erste Hand वृद्धी; cf. RV 1, 5, 6. (Ch first hand वृद्धी; cf. RV 1, 5, 6.)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -3760,7 +3742,9 @@ Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hoc
 पदार्थान्वयभाषाः -  (इन्द्र) हे ऐश्वर्यवन् परमात्मन् ! (त्वम्) (ब्रह्मणा महान् भुवः) ज्ञानेन वेदज्ञानेन महान् भवसि (विश्वेषु सवनेषु यज्ञियः-भुवः) सर्वेषु सम्पादनीयेषु ब्रह्मचर्यगृहस्थवानप्रस्थसंन्यासाश्रमेषु सङ्गमनीयो भवसि (नॄन्-च्यौत्नः-भुवः) मुमुक्षून् प्रति रागादीन् च्योतयिता बलवान्  भवसि (विश्वचर्षणे) हे सर्वद्रष्टः परमात्मन् ! (विश्वस्मिन् भरे ज्येष्ठः-मन्त्रः-च) सर्वस्मिन् भरणीये धारणीये निर्वाहके त्वं ज्येष्ठः श्रेष्ठो मन्त्रयिता मन्त्रप्रदः-ज्ञानप्रदो भवसि ॥४॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -3788,7 +3772,7 @@ Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hoc
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" none="" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/06_ukhAsaMskAraH/04_mitrasya_charShaNIdhRtaH.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Keith</summary>
@@ -3868,7 +3852,8 @@ it is real, most wonderfully renowned.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/mitro_janAn.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Mitra stirreth men, the wise one,  
@@ -3971,6 +3956,7 @@ Mitra watches the peoples with unwinking eye; to Mitra let us offer an oblation 
 
 - **[532_13]** Kap. S. 48, 17 घृतवज्जुहोत = RV 3, 59, 1.
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3994,7 +3980,8 @@ Mitra watches the peoples with unwinking eye; to Mitra let us offer an oblation 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/059/02_pra_sa.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
@@ -4411,6 +4398,7 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 भावार्थभाषाः -  जी माणसे विद्वान व ईश्वर यांच्या गुण, कर्म, स्वभावाप्रमाणे आपले गुण कर्म स्वभाव बनवून सत्य न्यायपूर्वक सर्वांना शिक्षण देतात ते निष्पाप धर्मात्मा बनून विद्वानांकडून व ईश्वराकडून रक्षित असतात. त्यांचा दुष्टांकडून नाश व पराजय होऊ शकत नाही. पक्षपात करून ते पापाचे सेवन करू शकत नाहीत. ॥ २ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4433,7 +4421,8 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/025/01_yachchiddhi_te.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -4704,6 +4693,7 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसा पिता, विद्वान व राजा क्षुद्र बालबुद्धीच्या उन्मत्त माणसांना व संतानांना न्याययुक्त दंड देतात, जसे तुम्ही सतत आमच्यावर करुणा दर्शवून यथायोग्य न्याय व शिक्षण देता. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4727,7 +4717,8 @@ Wie sehr wir auch, o Varuna, verletzen dein Gebot, o Gott, Nach Menschen Weise T
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/089/05_yatkiM_chedaM.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -5076,6 +5067,7 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 पदार्थान्वयभाषाः -  (वरुण) हे परमात्मन् ! (दैव्ये, जने) सतां समुदाये (यत्, किञ्च) यत् किञ्चिदपि (इदम्) एतत् (अभि, द्रोहम्) द्वेषभावं (मनुष्याः) वयं नरः (चरामसि) कुर्मः, तथा (अचित्ती) ज्ञानरहितः सन् (यत्) यत्किञ्चित् (तव) ते (धर्मा) धर्मं (युयोपिम) त्यजामि (तस्मात्, एनसः) ततोऽपराधात् (देव) हे दिव्यात्मन् ! (नः) अस्मान् (मा, रीरिषः) मा हिंसीः ॥५॥ एकोननवतितमं सूक्तं पञ्चमोऽनुवाक एकादशो वर्गश्च समाप्तः।
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -5099,7 +5091,8 @@ Was wir auch hier, o Varuna, nach Menschen Art für Unrecht üben am Geschlecht 
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/05/085/08_kitavAso_yadriripurna.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -5544,5 +5537,6 @@ Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend 
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
+</details>
 </details>
 </div>

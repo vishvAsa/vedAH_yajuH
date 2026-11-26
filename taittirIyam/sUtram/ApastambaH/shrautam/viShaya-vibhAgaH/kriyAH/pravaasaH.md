@@ -377,8 +377,8 @@ unicode_script: devanagari
 
 यदरण्योः समारूढः स्यान्, निर्वर्तमान एतं मन्त्रं जपेत् १४  
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
-<details open><summary><h7>21 उपावरोह जातवेदᳶ ...{Loading}...</h7></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
+<details open><summary><h5>21 उपावरोह जातवेदᳶ ...{Loading}...</h5></summary>
 
 उ॒पाव॑रोह जातवेद॒ᳶ पुन॒स् त्वम् ॥41॥  
 दे॒वेभ्यो॑ ह॒व्यव्ँ व॑ह नᳶ प्रजा॒नन् ।  

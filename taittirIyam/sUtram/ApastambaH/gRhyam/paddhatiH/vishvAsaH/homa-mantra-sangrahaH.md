@@ -417,7 +417,7 @@ Thought and thinking, intent and intention, known and knowledge, mind and power,
 
 ## सर्व-प्रायश्चित्तम्
 
-<div class="js_include" includetitle="False" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
 <details open><summary>१७ इदं विष्णुर्वि ...{Loading}...</summary>
 
 इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  

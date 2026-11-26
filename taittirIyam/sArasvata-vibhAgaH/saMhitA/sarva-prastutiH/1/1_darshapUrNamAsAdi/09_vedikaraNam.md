@@ -925,7 +925,9 @@ May the Vasus enclose you with the gāyatrī metre!
 वसवः अष्टौ । अष्टाक्षरा गायत्री । ते च गायत्रेण छन्दसा त्वां दक्षिणतः परिगृह्णन्तु ।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(एकादश)+++ रुद्रा᳓स् त्वा प᳓रिगृह्णन्तु +++(एकादशाक्षरेण)+++ त्रै᳓ष्टुभेन छ᳓न्दसा ।
 </details>

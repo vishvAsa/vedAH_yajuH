@@ -289,9 +289,9 @@ the waters are Bhuh, Bhuvah, Suvah, Om.
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/1_darshapUrNamAsAdi/05_haviHproxaNAdiH/devo_vas_savitotpunAtu.md">
 <details open><summary><h2>देवो वस् सविता ...{Loading}...</h2></summary>
 
-दे॒वो व॑स् सवि॒तोत्पु॑ना॒त्व्  
-अच्छि॑द्रेण प॒वित्रे॑ण +++(सूर्येण)+++ ।   
-वसो॒स्+++(=वासहेतोः)+++ सूर्य॑स्य र॒श्मिभिः॑  ॥+++(५)+++
+देवो᳓ वस् सवितो᳓त्पुनात्व्  
+अ᳓च्छिद्रेण पवि᳓त्रेण +++(सूर्येण)+++ ।   
+व᳓सोस्+++(=वासहेतोः)+++ सू᳓र्यस्य रश्मि᳓भिः  ॥+++(५)+++
 
 +++('असौ वा आदित्योच्छिद्रं पवित्रम्' (तै.ब्रा. 3.2.5) इत्यादि ब्राह्मणम् ।)+++
 </details>

@@ -13,18 +13,13 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/02_dhAtA_rAtis.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 धाता᳓ राति᳓स् सविते᳓द᳓ञ् **जुषन्ताम्**  
 प्रजा᳓पतिर् निधि-प᳓तिर् नो अग्निः᳓ ।  
 त्व᳓ष्टा वि᳓ष्णुᳶ **प्रज᳓या सँरराणो᳓**  
 य᳓जमानाय **द्र᳓विणन् दधातु** ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 
@@ -126,18 +121,13 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स᳓मिन्द्र णो म᳓नसा, **नेषि** गो᳓भिस्,  
 सँ᳓ सूरि᳓भिर्, मघ-वन्त्सँ᳓ +++(हरिवन् इति संहितान्तरे)+++ स्वस्त्या᳓ ।  
 स᳓म् ब्र᳓ह्मणा, देव᳓कृतय्ँ य᳓द् अ᳓स्ति  
 स᳓न् देवा᳓नाँ सुमत्या᳓ यज्ञि᳓यानाम् ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/03_samindra_No.md">
 
@@ -198,22 +188,15 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 सव्ँ᳓ व᳓र्चसा, प᳓यसा, स᳓न् तनू᳓भिर्,  
 **अ᳓गन्महि म᳓नसा**, सँ᳓ शिवे᳓न ।  
 त्व᳓ष्टा नो अ᳓त्र **व᳓रिवᳵ**+++(→वरीयः इति शौनके)+++ **कृणोतु** [46]  
 **अ᳓नु मार्ष्टु** तनु᳓वो य᳓द् **वि᳓लिष्टम्**+++(→विरिष्टम् इति शौनके)+++ ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/04_sav.N_varchasA.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 With glory, with milk, with ourselves,  
@@ -239,8 +222,6 @@ May he set right whatever is amiss in our bodies.
 </details>
 </details>
 
-</div>
-
 _______
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -250,22 +231,15 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 य᳓द् अद्य᳓ **त्वा** प्रयति᳓ यज्ञे᳓  
 अस्मि᳓न्न् अ᳓ग्ने **हो᳓तारम् अ᳓वृणीमहीह᳓** ।  
 ऋ᳓धग्+++(=ऋजु)+++ **अयाड्**+++(←यज्)+++ ऋ᳓धग् उता᳓शमिष्ठाᳶ+++(←शम् ← श्रम्)+++  
 प्रजान᳓न् **यज्ञ᳓म् उ᳓पयाहि** विद्वा᳓न् ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/05_yad_adya.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 In that to-day, O Agni, we choose thee  
@@ -295,8 +269,6 @@ Come wise and foreseeing one to the sacrifice.
 </details>
 </details>
 
-</div>
-
 _______
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -306,18 +278,13 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 स्व्-अगा᳓ वो देवास् **स᳓दनम् अकर्म**,  
 **य᳓ आजग्म᳓** स᳓वनेद᳓ञ् जुषाणाः᳓ ।  
 जक्षिवाँ᳓सᳶ+++(=भक्षितवन्तः)+++ पपिवाँ᳓सश् च  
 वि᳓श्वे **ऽस्मे᳓ धत्त** वसवो **व᳓सूनि** ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/06_svagA_vo.md">
 
@@ -397,18 +364,13 @@ _______
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 **या᳓न् आ᳓वह** उशतो᳓ देव देवा᳓न्  
 ता᳓न् [47] **प्रे᳓रय** स्वे᳓ अग्ने सध᳓स्थे+++(=सहस्थाने)+++ ।  
 व᳓हमाना भ᳓रमाणा हवीँ᳓षि  
 व᳓सुङ् घर्म᳓न् **दि᳓वम् आ᳓ तिष्ठता᳓ऽनु** ॥
-
 </details>
-
-</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/46-48_samiShTayajurhomamantrAH/07_yAn_Avaha.md">
 

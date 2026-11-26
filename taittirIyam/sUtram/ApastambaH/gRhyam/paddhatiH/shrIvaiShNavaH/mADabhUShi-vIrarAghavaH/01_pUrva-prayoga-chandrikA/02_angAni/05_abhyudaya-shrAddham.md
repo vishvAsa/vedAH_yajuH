@@ -61,7 +61,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 <details open><summary><h5>०११ ...{Loading}...</h5></summary>
 
 ###### 01 उपास्मै गायता - गायत्री
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/01_upAsmai_gAyatA.md">
+<div class="js_include" newlevelforh1="6" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/01_upAsmai_gAyatA.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -72,7 +72,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 </div>
 ###### 02 अभि ते - गायत्री
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/02_abhi_te.md">
+<div class="js_include" newlevelforh1="6" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/02_abhi_te.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -84,7 +84,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 </div>
 ###### 03 स नः - गायत्री
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/03_sa_naH.md">
+<div class="js_include" newlevelforh1="6" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/03_sa_naH.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -96,7 +96,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 </div>
 ###### 04 बभ्रवे नु - गायत्री
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/04_babhrave_nu.md">
+<div class="js_include" newlevelforh1="6" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/04_babhrave_nu.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 
@@ -108,7 +108,7 @@ title = "०५ अभ्युदयश्राद्धम्"
 
 </div>
 ###### 05 हस्तच्युतेभिरद्रिभिः सुतम् - गायत्री
-<div class="js_include" newlevelforh1="3" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/05_hastachyutebhiradribhiH_sutaM.md">
+<div class="js_include" newlevelforh1="6" includetitle="false" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/09/011/05_hastachyutebhiradribhiH_sutaM.md">
 
 <details open><summary><h3>विश्वास-प्रस्तुतिः …{Loading}…</h3></summary>
 

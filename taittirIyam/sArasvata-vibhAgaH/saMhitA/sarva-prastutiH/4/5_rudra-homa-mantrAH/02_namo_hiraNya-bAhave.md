@@ -34,28 +34,62 @@ title = "०२ नमो॒ हिर॑ण्य-बाहवे"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
 
 न᳓मो हि᳓रण्य-बाहवे सेनान्ये᳙  
 दिशा᳓ञ्च प᳓तये न᳓मः ।
 </details>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/02_namo_hiraNya-bAhave/01_namo_hiraNya_bAhave.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 Homage to the golden-armed leader of hosts, and to the lord of the quarters homage!
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Eggeling</summary>
+
+18. [Vāj. S. XVI, 17], 'Reverence be to the golden-armed leader of hosts, and to the lord of regions be reverence!'
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 नमो॒ हिर॑ण्यबाहवे सेना॒न्ये॑  
 दि॒शाञ्च॒ पत॑ये॒ नमः॑ ।
 </details>
 
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+न᳘मो हि᳘रण्यबाहवे॥  
+सेना᳘न्ये दिशां᳘ च प᳘तये न᳘म ऽइ᳘ति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+न᳘मो हि᳘रण्यबाहवे॥  
+सेनाॗन्ये दिशां᳘ च प᳘तये न᳘म इ᳘ति
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**"नमो हिरण्यबाहवे सेनान्ये दिशां च पतये नमः**- (वा. सं. १६ । १७) इति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नमः॑ । हिर॑ण्यबाहव॒ इति॒ हिर॑ण्य-बा॒ह॒वे॒ । से॒ना॒न्य॑ इति॑ सेना-न्ये॑ । दि॒शाम् । च॒ । पत॑ये । नमः॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- न᳓मः (*Whitney*, *TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-206/226, *KS*-291/305, *MS*-286/313)
+- हि᳓रण्य-बाहवे (*TS*-1, *RV*-0/1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1, *KS*-1, *MS*-1)
+- सेनान्ये᳙ (*TS*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1, *MS*-1)
+- दिशा᳓म् (*TS*-28/43, *RV*-0/2, *TB*-7/8, *TK*-6/12, *AV*-5/78, *SB-K*-15/36, *VS-M*-4/19, *VS-K*-4/18, *KS*-7/12, *MS*-19/51)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *AV*-1417, *RV*-1096, *TB*-530, *TK*-145, *KS*-766, *MS*-1700)
+- प᳓तये (*TS*-33/79, *RV*-0/193, *TB*-0/21, *TK*-1/7, *AV*-4/129, *SB-K*-5/63, *VS-M*-26/69, *VS-K*-25/41, *KS*-22/49, *MS*-28/75)
+- न᳓मः (*Whitney*, *TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-206/226, *KS*-291/305, *MS*-286/313)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -64,7 +98,13 @@ Homage to the golden-armed leader of hosts, and to the lord of the quarters homa
 स च संग्रामेषु सेनां नयतीति सेनानीः तादृशमूर्तिधरो यो रुद्रस्तस्मै नमोऽस्तु।  
 यश्च दिशां पालको रुद्रस्तस्मै नमोऽस्तु।
 </details>
+
+<details><summary>सायणः (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+तानेव देवान् दर्शयति- **नमो हिरण्यबाहव** इति । 'एष एव' रुद्र एव 'हिरण्यबाहुः' 'सेनानीः' 'दिशां पतिश्व' । अत उक्तं मन्त्रे- 'नमो हिरण्यबाहव' इति । प्रथमानुवाकः शतशीर्षरुद्रदेवत्यः । द्वितीयाद्यनुवाकेष्वपि यत्किञ्चैकदेवत्यमेकवचनान्तमन्त्रसाध्यहोमलक्षणमन्नमस्ति 'तेन' अपि 'एतमेव' रुद्रं 'प्रीणाति' नेतरम्, “स एष क्षत्त्रं देवः विश इम इतरे" (श. प. ९ । १ । १ । १५) इत्युक्तत्वात् प्रजायामपि तं क्षत्त्रं भागिनं करोति । तस्माल्लोके ऽपि प्रजाया यद्धनमस्ति तत्रापि क्षत्त्रियसम्बद्धो 'भागो' विद्यते । 'वृक्षेभ्यो हरिकेशेभ्यः' इत्यादिबहुवचनान्तमन्त्रप्रतिपादिताभ्यो याभ्यो देवताभ्य एतद्धोमं करोति ताः पृथिव्यादिलोकान्प्रविष्टा विप्रुड्भ्यो जाता अनेका रुद्रदेवताः बहुवचनान्तमन्त्रसाध्यो होमो ऽपि विप्रुड्जातानां रुद्राणामित्यर्थः ॥ १८ ॥
 </details>
+</details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -305,12 +345,11 @@ Homage to the minstrel, the inviolate, to the lord of the woods homage!
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/02_namo_hiraNya-bAhave/09_namo_rohitAya_sthapataye.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 न᳓मो रो᳓हिताय स्थप᳓तये  
 वृक्षा᳓णाम्प᳓तये न᳓मः ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/02_namo_hiraNya-bAhave/09_namo_rohitAya_sthapataye.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -360,7 +399,9 @@ homage to the lord of trees!
 वृक्षाणां यः पालकस्तस्मै नमोऽस्तु।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो मन्त्रि᳓णे वाणिजा᳓य  
 क᳓क्षाणाम्+++(=गुल्मानाम्)+++ प᳓तये न᳓मः ।

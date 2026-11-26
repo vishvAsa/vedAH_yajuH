@@ -139,36 +139,21 @@ Unstring your stiff [bows] away from our patrons; O bountiful one, be gracious t
 
 <details><summary>उवट-टीका</summary>
 
-परि नः अनुष्टुप्।
-
-परिवृणक्तु परिवर्जयतु नः अस्मान् रुद्रस्य हेतिः आयुधं परित्वेषस्य दुर्मतिरघायोः परिवृणक्तु त्वेषस्य क्रोधिनो ज्वलितस्य दुर्मतिः दुष्टा मतिः।
-
-अघायोः अघं पापं यः कामयते परस्मै कर्तुं स अघायुः तस्य अघायोः।
-
-उत्तरोऽर्धर्चः प्रत्यक्षकृतो द्वितीयं वाक्यम्।
-
-अवस्थिरा मघवद्भ्यस्तनुष्व अवतनुष्व अवतारय शिथिलीकुरु।
-
-स्थिरा स्थिराणि धनूंषि।
-
-केभ्योऽर्थाय अवतनुष्व।
-
-मघवद्भ्यः मघं धनं हविर्लक्षणं येषामस्ति ते मघवन्तः तेभ्यो मघवद्भ्यो यजमानेभ्योऽर्थाय।
-
-नतु अयागशीलेभ्यः प्रतिषिद्धसेविभ्यः।
-
-किंच।
-
-हे मीढ्वः ‘मिह सेचने’ सेक्तः।
-
-मध्यस्थानो वा वृष्टिकर्मणा स्तूयते।
-
-युवा वा कृत्वा अपरिणामित्वेन स्तूयते।
-
-तोकाय तनयाय मृड।
-
-तोकाय पुत्राय तनयाय पौत्राय।
-
+परि नः अनुष्टुप्।  
+परिवृणक्तु परिवर्जयतु नः अस्मान् रुद्रस्य हेतिः आयुधं परि त्वेषस्य दुर्-मतिर् अघायोः परिवृणक्तु त्वेषस्य क्रोधिनो ज्वलितस्य दुर्-मतिः दुष्टा मतिः।  
+अघायोः अघं पापं यः कामयते परस्मै कर्तुं स अघायुः तस्य अघायोः।  
+उत्तरो ऽर्धर्चः प्रत्यक्ष-कृतो द्वितीयं वाक्यम्।  
+अव स्थिरा मघवद्भ्यस् तनुष्व अवतनुष्व अवतारय शिथिलीकुरु।  
+स्थिरा स्थिराणि धनूंषि।  
+केभ्यो ऽर्थाय अवतनुष्व।  
+मघवद्भ्यः मघं धनं हविर्-लक्षणं येषाम् अस्ति ते मघवन्तः तेभ्यो मघवद्भ्यो यजमानेभ्यो ऽर्थाय।  
+न तु अयाग-शीलेभ्यः प्रतिषिद्ध-सेविभ्यः।  
+किं च।  
+हे मीढ्वः ‘मिह सेचने’ सेक्तः।  
+मध्य-स्थानो वा वृष्टि-कर्मणा स्तूयते।  
+युवा वा कृत्वा अपरिणामित्वेन स्तूयते।  
+तोकाय तनयाय मृड।  
+तोकाय पुत्राय तनयाय पौत्राय।  
 मृड सुखय॥ ५०॥
 </details>
 
@@ -207,62 +192,34 @@ Unstring your stiff [bows] away from our patrons; O bountiful one, be gracious t
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ द्वादश:
-'ये वक्षेषु शपिञ्जरा नील-ग्रीवा विलोहिताः । तेषा सहस्र-योजने ऽव धन्वानि तन्मसि' इति ।
+अथ द्वादशः 'ये [[वक्षेषु|वृक्षेषु]] [[शपिञ्जरा|शष्पिञ्जरा]] नील-ग्रीवा विलोहिताः । [[तेषा|तेषां]] सहस्र-योजने ऽव धन्वानि तन्मसि' इति ।  
+यथा लोकेष्व् अवस्थिता रुद्रास् तथा 'वृक्षेषु अवस्थिताः । तेषु केचित् '[[शपिञ्जराः|शष्पिञ्जराः]] ।  
+शष्पवत् बाल-तृणवत् पिञ्जर-वर्णाः ।  
+'नील-ग्रीवाः केचिद् ग्रीवा-देशे नील-वर्णोपेताः ।  
+अपरे पुनः विलोहिताः विशेषेण रक्त-वर्णाः ।  
+ईदृशाः ये रुद्राः सन्ति तेषाम् इत्यादि पूर्ववत् ॥१२॥
 
-यथा लोकेष्व् अवस्थिता रुद्रास् तथा 'वृक्षेषु अवस्थिताः । तेषु केचित् 'शपिञ्जराः ।
+तन्मसीति ।  
+ये रुद्रा वृक्षेषु अश्वत्थादिषु स्थिताः ।  
+कीदृशाः शष्पिञ्जराः । शष्पं बाल-तृणम् । तद्वत् पिञ्जरा हरित-वर्णाः ।  
+नील-ग्रीवाः नीला ग्रीवा येषां ते ।  
+[[कंण्ठे|कण्ठे]] नील-वर्णाः ।  
+तथा केचन विलोहिताः ।  
+यद्वा विगतं लोहितं रुधिरं येषां ते ।  
+लोहित-पदं मांसादीनाम् अप्य् उपलक्षणम् ।  
+विगत-लोहितादि-धातवः ।  
+[[तेजोमयंशरीरा|तेजोमय-शरीरा]] इत्य् अर्थः ।  
+[[तेषामित्या- 1 द्युक्तम्|तेषाम् इत्य् आद्य् उक्तम्]] ॥१२॥
 
-शष्पवत् बाल-तृणवत् पिञ्जर-वर्णाः ।
-
-' नील-ग्रीवा: केचिद् ग्रीवादेशे नील-वर्णोपेताः ।
-
-अपरे पुनः
-विलोहिताः विशेषेण रक्त-वर्णाः ।
-
-ईदृशा: ये रुद्राः सन्ति तेषाम् इत्यादि पूर्ववत् ॥१२॥
-
-तन्मसीति ।
-
-ये रुद्रा वृक्षेषु अश्वत्थादिषु स्थिताः ।
-
-कीदृशाः शष्पिञ्जराः ।
-
-शष्पं बाल-तृणम् ।
-
-तद्वत् पिञ्जरा हरित-वर्णाः ।
-
-नील-ग्रीवा: नीला ग्रीवा येषां ते ।
-
-कंण्ठे नील-वर्णाः ।
-
-तथा केचन विलोहिताः ।
-
-यद्वा-विगतं लोहितं रुधिरं येषां ते ।
-
-लोहित-पदं मांसादीनाम् अप्य् उपलक्षणम् ।
-
-विगत-लोहितादि-धातवः ।
-
-तेजोमयंशरीरा इत्य्-अर्थः ।
-
-तेषामित्या-
-1 द्युक्तम् ॥१२॥
-
-for अथ द्वादश:
-पूर्ववत् ( 119 )
-शत-रुद्रिय-होम-मन्त्राः ।
+[[for|??]] अथ द्वादशः पूर्ववत् (119) शत-रुद्रिय-होम-मन्त्राः ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-'ये वृक्षेषु' इति ।
-
-पुरश्-चरणं पूर्ववत् ।
-
-शष्पिञ्जराः शष्पवत् नव-प्ररूढ-तृणवत् पिञ्जराः ।
-
-नील-ग्रीवा: विलोहिताः विगत-कल्मषाः ।
-
+'ये वृक्षेषु' इति ।  
+पुरश्-चरणं पूर्ववत् ।  
+शष्पिञ्जराः शष्पवत् नव-प्ररूढ-तृणवत् पिञ्जराः ।  
+नील-ग्रीवाः विलोहिताः विगत-कल्मषाः ।  
 तेषाम् इति ॥ ५८ ॥
 </details>
 
@@ -334,7 +291,8 @@ for अथ द्वादश:
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/033/11_stuhi_shrutaM.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -675,6 +633,7 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जे राज्य वाढविण्याची इच्छा करतात त्यांनी शत्रूंबरोबर सिंहासारखे भयंकर रीतीने वागावे व श्रेष्ठांना आनंद देणाऱ्या लोकांचा राजकार्यात व सेनेमध्ये सत्कार करावा व न्यायाने निरंतर राज्याचे पालन करावे. ॥ ११ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -717,7 +676,8 @@ Sing' dem berühmten, jungen Wagenkämpfer, der kräftig angreift, wie ein grimm
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/16/51_mIDhuShTama_shivatama.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Griffith</summary>
 
 Most bounteous, most auspicious, be auspicious, well inclined to us. On some remotest tree lay down thy weapon, and clad in robe of skin approach, bearing thy bow come hitherward.
@@ -750,23 +710,13 @@ And approach us bearing the spear [4].
 </details>
 <details><summary>उवट-टीका</summary>
 
-मीढुष्टम।
-
-यवमध्या त्रिष्टुप्।
-
-हे मीढुष्टम सेक्तृतम।
-
-हे शिवतम, शिवो नः अस्माकं सुमनाः शोभनमनस्कश्च भव।
-
-किंच।
-
-परमे वृक्षे दूरदेशावस्थायिनि आयुधं निधाय स्थापयित्वा।
-
-कृत्तिं चर्मं वसानः।
-
-आचर आचरणमनुष्ठानम्।
-
-पिनाकं बिभ्रत् पिनाकं कोदण्डः तं धारयनागहि आगच्छ॥ ५१॥
+मीढुष्टम। यव-मध्या त्रिष्टुप्। हे मीढुष्टम सेक्तृतम।  
+हे शिवतम, शिवो नः अस्माकं सुमनाः शोभन-मनस्कश् च भव।  
+किं च।  
+परमे वृक्षे दूर-देशावस्थायिनि आयुधं निधाय स्थापयित्वा।  
+कृत्तिं [[चर्मं|चर्म]] वसानः।  
+आचर आचरणम् अनुष्ठानम्।  
+पिनाकं बिभ्रत् पिनाकं कोदण्डः तं [[धारयनागहि|धारयन् आगहि]] आगच्छ॥ ५१॥
 </details>
 <details><summary>महीधर-टीका</summary>
 
@@ -827,6 +777,7 @@ And approach us bearing the spear [4].
 
 भावार्थभाषाः -  सभा व सेनेचे अध्यक्ष इत्यादी आपल्या प्रजेचे कल्याण करणारे असावेत व दुष्टांसाठी अग्नीप्रमाणे तेजस्वी व दाहक असावेत. यामुळे सर्व लोक धार्मिक बनून अधर्माचे आचरण करणार नाहीत.
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -865,7 +816,8 @@ And approach us bearing the spear [4].
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/001/06_tvamagne_rudro.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -1272,6 +1224,7 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे बलाची इच्छा करतात, दुष्टांची ताडना करतात, धर्माचरण करणाऱ्यांना सुखी ठेवतात व सर्वांची उन्नती इच्छितात, ती अतुल ऐश्वर्य प्राप्त करतात. ॥ ६ ॥
 </details>
+</details>
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/003/01_A_vo.md">
@@ -1287,7 +1240,8 @@ Und Rudra bist du, des erhabnen Himmels Geist, die Marutschar, o Agni, Labung wo
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/003/01_A_vo.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -1667,6 +1621,7 @@ Des Opfers König, ihn den hehren Agni, der recht verehrt, den Priester beider W
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे विद्वानांनो! जसे ईश्वराने ब्रह्मांडात सूर्य स्थित करून सर्वांचे प्रिय सुख साधन निर्माण केलेले आहे. तसे राजा व प्रजा यांच्या संमतीने आमच्यातील गुणकर्मस्वभाव उत्तम असेल त्याला राजा करून आमचे हित साधा. ज्यामुळे तुमचेही हित व्हावे ॥ १ ॥
 </details>
+</details>
 </div>
 </details>
 </div>
@@ -2025,7 +1980,9 @@ Dem Gott mit starkem Bogen, schnellen Pfeilen bringt, dem unumschränkten Herrsc
 भावार्थभाषाः -  जे दुष्टांचे शासक, शस्त्रास्त्रविद, सहनशील, युद्धकुशल, विद्वान आहेत त्यांना विद्वानांनी सदैव धनुर्वेदाचे अध्यापन व वक्तृत्व याद्वारे अत्यंत उत्साहित करावे. जो सेनापती असतो त्याने प्रजेची वाणी ऐकावी. ॥ १ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 
@@ -2490,7 +2447,9 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 भावार्थभाषाः -  जे योग्यता प्राप्त करून आयुधे, सेना, राज्य व धन धारण करतात व धर्मात्मा लोकांवर दया करतात ते बलवान बनतात. ॥ १० ॥
 </details>
 </details>
-</div><div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+</div>
+
+<div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
 
@@ -2510,7 +2469,8 @@ Als würd'ger trägst du deinen Pfeil und Bogen, als würd'ger hehren reichgezie
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<div class="js_include collapsed" newlevelforh1="6" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/5_rudra-homa-mantrAH/10_drApe_andhasas-pate/07_mA_nas.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Harm us not in our children, our descendants, our life; Harm us not in our cattle, in our horses;  
@@ -2584,6 +2544,7 @@ do not, in anger, slay our heroes, O Rudra; bearing oblations, with reverence le
 - **[367_7]** T7 भामिथो; cf. RV 1, 114, 8.
 
 - **[367_8]** So T7; Ch विधोम; cf. RV 1, 114, 8. (Thus T7; Ch विधोम; cf. RV 1, 114, 8.)
+</details>
 </details>
 </div>
 
@@ -2972,7 +2933,9 @@ Es nahe deine Huld, o Marut-Vater, nicht halte fern uns von der Sonne Anblick; D
 भावार्थभाषाः -  सर्व माणसांनी परमेश्वराला न्यायकारी परमपिता मानून सुख वाढवावे. ईश्वराला मानून कधी त्याच्या विरुद्ध होता कामा नये. वीर व सहनशील बनून प्रजेबरोबर सुखी राहावे. ॥ १ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

@@ -88,23 +88,36 @@ Savitr, the thousandfold, May he delight us in our homes; May Pusan come, may we
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/03_dhAtA_dadAtu_no.md">
+<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 धाता᳓ ददातु नो रयि᳓मी᳓शानो ज᳓गतस्प᳓तिः ।  
 स᳓ नᳶ पूर्णे᳓न वावनत् ॥
 </details>
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/2/4/05_pashukAmasya_chitrAkhyo_yAgaH/03_dhAtA_dadAtu_no.md">
+<details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
 <details><summary>Keith</summary>
 
 May Dhatr give us wealth, The lord, the ruler of the world; May he favour us with a full (gift).
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Dhātṛ bestow wealth upon us, the ruler, the lord of the world;  
+may he favor us with fullness!
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 धा॒ता द॑दातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑ ।  
 स नᳶ॑ पू॒र्णेन॑ वावनत् ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+धाता᳓ दधातु नो रयि᳓मी᳓शानो ज᳓गतस्प᳓तिः।  
+स᳓ नः पूर्णेन वावनत्
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,12 +125,48 @@ May Dhatr give us wealth, The lord, the ruler of the world; May he favour us wit
 धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । ईशा॑नः । जग॑तः । पतिः॑ ॥ सः । नः॒ । पू॒र्णेन॑ । वा॒व॒न॒त् ॥
 </details>
 
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- धाता᳓ (*MS*-15/33, *TS*-24/76, *RV*-8/16, *TB*-9/14, *TK*-1, *AV*-32/38, *SB-M*-9/15, *SB-K*-9/14, *VS-M*-5/17, *VS-K*-4/14)
+- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-22, *RV*-13, *TB*-5, *TK*-2, *AV*-49, *SB-M*-24, *SB-K*-28, *VS-M*-13, *VS-K*-10)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- ई᳓शानः (*MS*-5/9, *TS*-6/9, *RV*-19/40, *TB*-3/4, *TK*-1, *AV*-22/30, *SB-M*-8/9, *SB-K*-8/10, *VS-M*-3/8, *VS-K*-2/7)
+- ज᳓गतः (*MS*-12/24, *TS*-8/16, *RV*-20/40, *TB*-4/6, *TK*-1, *AV*-9/20, *SB-M*-2/9, *SB-K*-2/12, *VS-M*-6/14, *VS-K*-7/15)
+- प᳓तिः (*MS*-23/47, *TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-23/45, *VS-K*-25/61)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पूर्णेन → **पूर्णे᳓न** (स्वर-लोपः, *TS*-2, *AV*-3)
+- वावनत् (*TS*-2)
+</details>
+
+<details><summary>पद-पाठः (एकाग्निकाण्डम्)</summary>
+
+धा॒ता । द॒दा॒तु॒ । नः॒ । र॒यिम् । ईशा॑नः । जग॑तः । पतिः॑ ॥ सः । नः॒ । पू॒र्णेन॑ । वा॒व॒न॒त्॒ ॥
+</details>
+
 <details><summary>भट्टभास्कर-टीका</summary>
 
 धाता सर्वस्य विधाता देवोस्मभ्यं रयिं धनं पशुलक्षणं ददातु ईशानः दातुं समर्थः जगतः पतिः पालयिता । 'षष्ठ्याः पतिपुत्र' इति सत्वम् ।  
 किञ्च - स देवोस्मान् पूर्णेन सर्वाभिमतैराप्यायितेन धनेन वावनत् संभजतां अस्मान् परिगृह्णातु । वन षण संभक्तौ, लेटि शपश्श्लुः, अडादि पूर्ववत् ॥
 </details>
+
+<details><summary>हरदत्तोक्त-विनियोगः</summary>
+
+सीमन्तोन्नयने होममन्त्राः - धाता ददात्विति ॥
 </details>
+
+<details><summary>हरदत्तः</summary>
+
+जगतः ईशानः पतिः पालयिता च स धाता नः अस्मभ्यं रयिं धनं ददातु । ददच्च सः नः अस्मान् पूर्णेन कामेन वावनत् । वन षण सम्भक्तौ पञ्चमो लकारः । यथा अस्मत्कामः पूर्यते तथा नः संभजेत ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (एकाग्निकाण्डम्)</summary>
+
+धाता विश्वस्य धारयिता नोस्मभ्यं धनं ददातु । ईशानः सर्वार्थसाधनशक्तः । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वम् । जगतः पतिः पालयिता । 'षष्ठ्याः पतिपुत्र' इति सत्वम् । किञ्च - स देवोस्मान् पूर्णेन पूरणाय वावनत् संभजताम्, अत्यर्थं परिगृह्णात्वस्मानिति । यद्वा - पूर्णेन आप्यायितेन नो ऽस्मान्योजयतु । वनतेर्लेटि शपः श्लुः, लेटोडागमः, तुजादित्वादभ्यासस्य दीर्घत्वम् ॥
+</details>
+</details>
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 

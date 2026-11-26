@@ -308,7 +308,9 @@ Auf, singet dem Pardschanja nun dem gabenreichen Himmelssohn; Er schaffe uns der
 पदार्थान्वयभाषाः -  भो ऋत्विजः ! यूयं (पर्जन्याय) तृप्तिजनकं परमात्मानं स्तोतुं (प्र, गायत) ब्रह्म गायत (सः, नः, यवसम्, इच्छतु) स हीश्वरोऽस्मभ्यमैश्वर्यं ददातु यः (दिवः, पुत्राय) द्युलोकस्थजनान् नरकादुद्धरति तथा (मीळ्हुषे) तेषामानन्दाय भवति ॥१॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
 

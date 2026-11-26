@@ -35,8 +35,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/01_prANo_rakhShati.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 प्रा॒णो र॑क्षति॒ विश्व॒मेज॑त् ।  
@@ -50,7 +50,7 @@ unicode_script = "devanagari"
 योऽयं मुखनासिकावर्ती प्राणवायुः सोऽयं बहुधा भूत्वा प्राणापानादिवृत्तिभेदेनानेकप्रकारो भूत्वा बहूनि जीवजातानि प्रति इर्यः प्रेरकस्सन् एजत् कम्पमानं जङ्गमरूपं जगद्रक्षति स इत् स एव प्राणः सर्वं जगत् व्यानशे व्याप्तवान् ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -74,8 +74,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/02_yo_devo.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 यो दे॒वो दे॒वेषु॑ वि॒भूर॒न्तः ।  
@@ -95,7 +95,7 @@ unicode_script = "devanagari"
 
 यः इत्यस्य वाक्ये वर्तमानत्वाद्  तिङन्तस्वरो न हन्यते - तथा सति वद् → ऊदात्  इत्यस्मिन् तादृशः स्वरो भवितुम् अर्हति न वेति … ??
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -118,8 +118,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/03_manasashchittedam.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/03_manasashchittedam.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 मन॑स॒श्चित्ते॒दम् ।  
@@ -133,7 +133,7 @@ unicode_script = "devanagari"
 यदिदं मनः अन्तःकरणमस्ति तस्य चित्ता चित्तेन वृत्तिविशेषेणेदं दृश्यमानं भूतं भव्यं चातीतमनागतं च सर्वं गुप्यते रक्ष्यते ॥ यत्पूर्वं निष्पन्नं पुत्रभृत्यादिचेतनं धनधान्याद्यचेतनं यच्चेतःपरं संपादनीयं चेतनमचेतनं च तत्सर्वं मनसैव परिरक्ष्यते ॥ तद्रक्षोपायानां मनसा चिन्त्यमानत्वात् ॥ हि यस्मात्कारणात् तन्मनो देवेषु दीप्यमानेष्विन्द्रियेषु अग्रियं श्रेष्ठं तस्मात्तेन रक्षणमुचितम् ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -157,8 +157,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/04_A_na.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/04_A_na.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 आ न॑ एतु पुरश्च॒रम् ।  
@@ -173,7 +173,7 @@ unicode_script = "devanagari"
 तन्मनो देवैर्दीप्यमानैरन्यैरिन्द्रियैः सह पुरश्चरं स्वयमग्रगामि भूत्वा नोऽस्मदीयमिमं हवमाह्वानं प्रत्येतु आभिमुख्यं प्राप्नोतु ॥ किं कुर्वन्? श्रेयसिश्रेयसि कर्मन् तस्मिंस्तस्मिन्प्रशस्ते कर्मणि यज्ञपतिं दधत् यजमानं स्थापयतु सर्वेषु पुण्यकर्मसु प्रवर्तयत्वित्यर्थः ॥ तदेतन्मन्त्रद्वयं मनोदेवताविषयं द्रष्टव्यम् ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -196,8 +196,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/05_juShatAmme_vAgidam.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 जु॒षता॑म्मे॒ वागि॒दँ ह॒विः ।  
@@ -211,7 +211,7 @@ unicode_script = "devanagari"
 इदं पुरोवर्ति मे हविः वाग्देवी सेवताम् ॥ कीदृशी? विराट् विविधं राजत हति विराड्विराजमाना देवी देवताविग्रहा पुरोहिता प्रथमतः प्रवृत्ता ॥ यद्यपि पुरश्चरत्वं मनस उक्तं, तथाऽपि कायव्याप्रारापेक्षया पूर्वभावित्वं प्रथममवृत्तिर्वचसो युक्ता ॥ अत एव व्यवहारक्रमोऽन्यत्राम्नातः - 'यद्धि मनसा ध्यायति तद्वाचा वदति तत्कर्मणा करोति' इति ॥ हव्यवाट्, वाचा हि मन्त्रमुच्चार्य हविर्दीयते तस्माद्वागियं हविर्वहतीत्युपचर्यते ॥ अनपायिनी सर्वेष्वपि व्यवहारेष्वनुगता ॥ न हि वागिन्द्रियमन्तरेणातीतानागतविषयो व्यवहारः संभवति ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -235,8 +235,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/06_yayA_rUpANi.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 यया॑ रू॒पाणि॑ बहु॒धा वद॑न्ति ।  
@@ -251,7 +251,7 @@ unicode_script = "devanagari"
 यान्येतानि देवतिर्यङ्मनुष्यादिरूपाणि यानि च नीलपीतशुक्लकृष्णादिरूपाणि तानि सर्वाणि यया वाचा मनुष्या वहुधा वदन्ति, इदं समीचीनमिदमसमीचीनमित्येतादृशं बहुधा वदन्ति ॥ तथा - परमे जनित्रे उत्तमे जन्मनि वर्तमाना देवाश्च पेशांमि रमणीयानि रूपाणि यया वाचा वदन्ति ॥ सा वाग्देवी नौऽस्मदीयमिदं हृविर्जुषताम् ॥ कीदृशी वाक्? अर्थप्रकाशकत्वेन विविधं राजत इति विराट् ॥ अपस्फुरणमर्थाभिधाने कुण्ठीभावः तद्राहित्यादनपस्फुरन्ती ॥ तदिदं मन्त्रद्वयं वाग्देवता विषयं द्रष्टव्यम् ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -275,8 +275,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/07_chakhShurdevAnAnjyotiramRte.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 चक्षु॑र्दे॒वाना॒ञ्ज्योति॑र॒मृते॒ न्य॑क्तम् ।  
@@ -293,7 +293,7 @@ unicode_script = "devanagari"
 **तस्य** चक्षुरिन्द्रियस्य **सुम्नं** सुखं तेन चक्षुरिन्द्रियेण रूपप्रकाशने सति यात्सुखं जायते तत्सर्वमशीमहे अश्नुवीमहि प्राप्नुयाम ॥ **विचक्षणं** विशेषेण प्रकाशकं, तच्चक्षुरिन्द्रियं नोऽस्मान् मा हासीत् कदाचिदपि मा परित्यजतु ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -317,8 +317,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/08_AyurinnapH_pratIryatAm.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 आयु॒रिन्न॒ᳶ प्रती॑र्यताम् ।  
@@ -333,7 +333,7 @@ unicode_script = "devanagari"
 चक्षुर्देवताप्रसादेन नोऽस्मदीयमायुरित् प्रतीर्यतां सर्वथा वर्धताम् ॥ अनेन चक्षुषा युक्ता वयं जीवाः क्वाप्यनन्धाः सन्तो रूपाभिव्यक्तवृतिलक्षणं ज्योतिः अशीमहि प्राप्नुयाम ॥ उत अपि च सुवः स्वर्गस्थितममृतं ज्योतिः विनाशरहितमादित्यप्रकाशं अशीमहि चक्षुषा पश्येम ॥ तदिदं मन्त्रद्वयं चक्षुर्देवताविषयं द्रष्टव्यम् ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -357,8 +357,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/09_shrotreNa_bhadramuta.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 श्रोत्रे॑ण भ॒द्रमु॒त शृ॑ण्वन्ति स॒त्यम् ।  
@@ -373,7 +373,7 @@ unicode_script = "devanagari"
 यद्भद्रं कल्याणं यच्च सत्यं वचनं तत्सर्वं श्रोत्रेणैव सर्वे शृण्वन्ति ॥ येयं वाक् प्राणिभिर्बहोधोच्यते तां सर्वां वाचमनेन श्रोत्रेन्द्रियेण सर्वो जनः शृणोति ॥ किं च - योऽयं मोदो हर्षविषयो वृत्तान्तो यच्च महः पूजाविषयो वृत्तान्तः स सर्वोऽपि श्रोत्रेणैव श्रूयते ॥ किं च - सर्वा दिशो योऽयं सर्वदिग्विषयो वृत्तान्तः तमप्यहं श्रोत्रेण सर्वत आशृणोनि ॥॥
 
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -397,8 +397,8 @@ unicode_script = "devanagari"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/10_yena_prAchyA.md">
-
+<div class="js_include collapsed" newlevelforh1="2" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/5_upahomAdi/1/10_yena_prAchyA.md">
+<details><summary><h2>सर्वाष् टीकाः …{Loading}…</h2></summary>
 <details><summary>मूलम्</summary>
 
 येन॒ प्राच्या॑ उ॒त द॑क्षि॒णा ।
@@ -414,5 +414,5 @@ unicode_script = "devanagari"
 
 इति तैत्तिरीयब्राह्मणभाष्ये द्वितीयाष्टके पञ्चमप्रपाठके प्रथमोऽनुवाकः ॥  
 </details>
-
+</details>
 </div>

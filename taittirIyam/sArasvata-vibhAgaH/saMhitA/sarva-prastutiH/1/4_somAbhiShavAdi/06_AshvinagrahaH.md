@@ -25,7 +25,8 @@ _______
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/03_yA_vAM.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/022/03_yA_vAM.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -269,6 +270,7 @@ Die Peitsche, die von Honig trieft, o Ritter, reich an Gaben ist, Mit der benetz
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  उपदेशाशिवाय कोणत्याही माणसाच्या ज्ञानाची थोडीही वृद्धी होऊ शकत नाही. त्यासाठी सर्व माणसांनी उत्तम विद्येचा उपदेश व श्रवण निरंतर केले पाहिजे. ॥ ३ ॥
+</details>
 </details>
 </div>  
 

@@ -667,12 +667,11 @@ Hath given to Indra the milk admixture together with the pot (of Soma).
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/08_prasthitayAjyAhomAdimantrAH/20_AshIrma_Urjamuta.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 आशी᳓र्म ऊ᳓र्जमुत᳓ सुप्रजास्त्व᳓मि᳓षन्दधातु द्र᳓विणँ स᳓वर्चसम् ।  
 सञ्ज᳓यन्क्षे᳓त्राणि स᳓हसाह᳓मिन्द्र कृण्वानो᳓ अन्याँ᳓ अ᳓धरान्त्सप᳓त्नान् ।
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/2/08_prasthitayAjyAhomAdimantrAH/20_AshIrma_Urjamuta.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -734,7 +733,9 @@ winning the fields with overpowering might, O Indra, making the other rivals low
 आशीरियमवनीयमाना मे ममोर्जं क्षीरादि उत अपि च सुप्रजास्त्वं शोभनापत्यत्वम् । 'नित्यमसिच्प्रजामेधयोः' इत्यस्च्, छान्दसं दीर्घत्वम् । इषमन्नं ददातु द्रविणं धनं च ददातु सुवर्चसं बलसहितं दीप्तिसहितं वा । लिङ्गव्यत्ययश्छान्दसः । इषो वा विशेषणम् - यथाऽहं संजयन् सहसा बलेन क्षेत्राणि शत्रुसंबन्धीन्यन्यान् सपत्नान् शत्रूनधरान् अधरीभूतान् आज्ञाविधेयान् कृण्वानः कुर्वाणः स्यां तथा मे ऊर्जादि ददात्विति । पदकारमते आशीरिति प्रार्थनापदम् । इयं ... प्रार्थना दद्याशिर [मह्यमाशिर] ऊर्जादि ददात्विति ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

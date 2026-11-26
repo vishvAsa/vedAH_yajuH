@@ -36,7 +36,8 @@ title = "१३ काम्येष्टयः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/089/13_anvaha_mAsA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/089/13_anvaha_mAsA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -336,6 +337,7 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 
 पदार्थान्वयभाषाः -  (मासाः-अह-इन्द्रम्-अनु-अजिहत) मासाश्चैत्रादयः खलु परमात्मानमनु परमात्मशासनमनुसृत्य गच्छन्ति प्रवर्त्तन्ते (वनानि-इत्-अनु) वनानि खल्वपि परमात्मशासनमनुलक्ष्य तिष्ठन्ति (ओषधीः-अनु) ओषधयोऽपि तस्यानुकम्पया प्राप्ता भवन्ति (पर्वतासः-अनु) पर्वताश्चापि तं परमात्मानमनुसृत्य स्थिताः सन्ति (वावशाने रोदसी इन्द्रम्-अनु) कमनीये द्यावापृथिव्यौ परमात्मानमनुदिश्यप्राप्ते स्तः (जायमानम्-अनु-आपः-अजिहत) सर्वत्र प्रसिद्धिं गतं परमात्मानमुलक्ष्य जलप्रवाहाः प्रवहन्ति ॥१३॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -359,7 +361,8 @@ Dem Indra gaben Monde nach und Wälder, dem Indra die Gewächse und die Berge, D
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/025/08_anu_te.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -790,6 +793,7 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 
 भावार्थभाषाः -  हे राजा ! तू उत्तम कर्म कर व अनुकूल असलेल्यांचा धन वगैरेनी सत्कार कर. सदैव सत्याचे उपदेशक असलेल्या विद्वानांच्या संगतीने संपूर्ण राजविद्या जाणून निरंतर प्रचार कर. ॥ ८ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -800,22 +804,15 @@ Dir räumten alles ein die Götter alle, der grossen Indramacht beim Vritrakampf
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 इन्द्राणी᳓मासु᳓ ना᳓रिषु  
 सुप᳓त्नीम् अह᳓म् अश्रवम् ।   
 न᳓ ह्य् अस्या᳓ अ᳓पर᳓ञ् चन᳓ +++(→किम् अन्यत्!)+++  
 जर᳓सा [47]म᳓रते प᳓तिः  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/02_indrANImAsu_nAriShu.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 Indrani beyond other women  
@@ -840,8 +837,6 @@ Shall her husband die of old age.
 इन्द्रणीमिन्द्रस्य पत्नीम् । 'इन्द्रवरुण' इति ङीष् । आसु नारिषु मध्ये । छान्दसं ह्रस्वत्वम् । सुपत्नीं शोभनपतिकाम् । 'विभाषा सपूर्वस्य' इति ङीष्, 'आद्युदात्तं द्व्यच्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । अहमश्रवं श्रुतवानस्मि । शृणोतेर्लङि व्यत्ययेन शप् । लुग्वा शपः । **अपरञ्चन** किञ्चन किञ्चान्यदित्यर्थः अयमस्मा अन्यो विशेषः । चनेति समुच्चये । **न ह्यस्याः पतिः जरसा** वयोहान्या **मरते** म्रियते । व्यत्ययेन शप्, 'हि च' इति निघातप्रतिषेधः । सैव महाभागा इन्द्राणी अस्मत्सेनामुत्साहवतीं करोत्वित्यर्थः ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -876,7 +871,8 @@ Goeth dear to the gods.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1171,6 +1167,7 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 पदार्थान्वयभाषाः -  (इन्द्राणि) हे इन्द्राणि ! व्योमकक्षे ! (सख्युः-वृषाकपेः-ऋते-अहं न रराण) सखिभूताद् वृषाकपेः सूर्यादृते नाहं रमामि न शान्तिं लभे (यस्य-इदम्-अप्यं प्रियं हविः-देवेषु गच्छति) यस्य वृषाकपेः सूर्यस्य खल्विदमन्तरिक्षगामिप्रियरश्मितेजः “आपोऽन्तरिक्षनाम” [निघ० १।३] द्युस्थानगतेषु लोकेषु गच्छति “देवो द्युस्थानो भवतीति वा” [निरु० ७।१५] ॥१२॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -1208,7 +1205,8 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/012/01_yo_jAta.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/02/012/01_yo_jAta.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1588,6 +1586,7 @@ Der kaum geboren, kühngesinnt die Götter der Gott zuerst mit Muth und Kraft be
 
 भावार्थभाषाः -  ज्या ईश्वराने सर्व प्रकाशक, सर्वांचा धारणकर्ता, स्वप्रकाशयुक्त आकर्षण शक्तीने गोलांचा (लोकांचा) व्यवस्थापक असा सूर्यलोक निर्माण केलेला आहे, तो ईश्वर सूर्याचाही सूर्य आहे, हे जाणले पाहिजे. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -1622,7 +1621,8 @@ Let not thy mind wander about.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/025/01_A_te.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/025/01_A_te.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2071,6 +2071,7 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 भावार्थभाषाः -  हे सेनापती ! युद्धात क्रोधाग्नीने प्रज्वलित सेना जेव्हा शत्रूवर तुटून पडते त्यावेळी विजय प्राप्त होतो. जोपर्यंत तुमचे बाहुबल न्यून होत नाही व मनही अन्यायात प्रवृत्त होत नाही तोपर्यंत तुमची उन्नती होते हे जाणा. ॥ १ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2094,7 +2095,8 @@ Zur Hülfe flieg' aus deinen Armen, Indra, dein Blitz herbei, des grossen, kühn
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/020/10_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/04/020/10_mA_no.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2495,6 +2497,7 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 
 भावार्थभाषाः -  हे राजा ! तुझ्यासाठी जे योग्य कर्म सांगितलेले आहे त्याचे आचरण कर व प्रजा, मंत्री व राज्याच्या उन्नतीसाठी पुष्कळ धन, विद्या व न्याय प्रसृत कर. ॥ १० ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2518,7 +2521,8 @@ Versäume nicht uns, bringe her das viele, was dein ja ist, dem Frommen es zu sc
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/036/09_A_tU.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/036/09_A_tU.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2945,6 +2949,7 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 
 भावार्थभाषाः -  विद्वान लोकांनी संपूर्ण लोकांना असा उपदेश करावा की तुम्ही दोषांचा त्याग करून गुणांना धारण करा. धन व ऐश्वर्य प्राप्त करून इतर सुपात्र लोकांना द्या. ॥ ९ ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -2955,22 +2960,15 @@ So bring doch her, lass niemand es verhindern, da wir dich kennen als den Herrn 
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्रदाता᳓रँ **हवामह**  
 इ᳓न्द्रम् आ᳓ हवि᳓षा वय᳓म् ।    
 उभा᳓ हि᳓ ह᳓स्ता  व᳓सुना पृण᳓स्वा᳓  
 **ऽऽप्र᳓ यच्छ** द᳓क्षिणाद् ओ᳓त᳓ सव्या᳓त्  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/03_pradAtAraM_havAmaha.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 With our oblation we summon  
@@ -2998,8 +2996,6 @@ Give to us from the left and the right.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3008,22 +3004,15 @@ Give to us from the left and the right.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 प्रदाता᳓ वज्री᳓ वृषभ᳓स् +++(आ)+++तुरा-षा᳓ट्+++(←सह्)+++  
 छुष्मी᳓ रा᳓जा वृत्र-हा᳓ सोमपा᳓वा ।   
 अस्मि᳓न् यज्ञे᳓ बर्हि᳓ष्य् आ᳓ **निष᳓द्य** +  
 +अ᳓था **भव** य᳓जमानाय शय्ँ᳓ योः᳓+++(←यु मिश्रणामिश्रणयोः)+++  ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/7_aiShTika-yAjamAnAdi/13_kAmyeShTayaH/04_pradAtA_vajrI.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 The giver, the bolt-bearer, the bull, the overpowering,  
@@ -3049,8 +3038,6 @@ Be thou health and wealth to the sacrificer.
 </details>
 </details>
 
-</div>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3062,7 +3049,7 @@ Be thou health and wealth to the sacrificer.
 <div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
 
 <details open><summary><h5>विश्वास-प्रस्तुतिः …{Loading}…</h5></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md">
 
 इ᳓न्द्रः सुत्रा᳓मा स्व᳓वाँ+++(=स्ववान्)+++ अ᳓वोभिः  
 सुमृळीको᳓ **भवतु** विश्व᳓वेदाः।  
@@ -3074,7 +3061,8 @@ Be thou health and wealth to the sacrificer.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/12_indraH_sutrAmA.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/12_indraH_sutrAmA.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3310,7 +3298,7 @@ Let Indra be of good protection, of good help with his help, very  gracious, aff
 Let him thrust away hatred; let him create fearlessness. Might we be  lords of good heroes in abundance.
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
+<div class="js_include" includetitle="true" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
 The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
@@ -3455,6 +3443,7 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 
 टिप्पणी:   १−(इन्द्रः) परमैश्वर्यवान् राजा (सुत्रामा) त्रैङ् पालने-मनिन्। अतिरक्षकः (स्ववान्) स्वा ज्ञातयः। प्रशस्तज्ञातियुक्तः (अवोभिः) रक्षणैः (सुमृडीकः) बहुसुखयिता (विश्ववेदाः) वेदांसि धनानि ज्ञानानि वा। बहुधनः। बहुज्ञानः। (बाधताम्) निवारयतु (द्वेषः) द्विष अप्रीतौ-विच्। द्वेष्टॄन् (अभयम्) निर्भयत्वम् (नः) अस्मभ्यम् (कृणोतु) करोतु (सुवीर्यस्य) अतिपराक्रमस्य (पतयः) पालकाः (स्याम) भवेम ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -3478,7 +3467,8 @@ Schönschirmend sei, der alles kennet, Indra, und gnadenreich, mit Hülfen kräf
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/13_tasya_vayaM.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/06/047/13_tasya_vayaM.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -3785,27 +3775,17 @@ _________
 
 <details><summary>उवट-टीका</summary>
 
-तस्य वयम्।
-
-तस्येन्द्रस्य सुत्राम्णः वयं सुमतौ कल्याणमतौ स्याम।
-
-यज्ञियस्य यज्ञसंपादिनः।
-
-अपि किंच।
-
-भद्रे भन्दनीये सौमनसे कल्याणमनसि स्याम वयम्।
-
-ततोऽनुग्राह्यबुद्धौ वर्तमानानामस्माकम्।
-
-स सुत्रामा शोभनत्राणः।
-
-स्ववान् धनवानिन्द्रः अस्मे अस्मत्तः आराच्चित् दूरादपि द्वेषः दौर्भाग्यम् तत्र वर्तमानम्।
-
-सनुतरिति निर्णीतान्तर्हितनाम।
-
-अन्तर्हितं कृत्वा युयोतु।
-
-यद्वा दूरे वर्तमानं प्रकटं कृत्वा युयोतु पृथक्करोतु॥ ५२॥
+तस्य वयम्।  
+तस्येन्द्रस्य सु-त्राम्णः वयं सु-मतौ कल्याण-मतौ स्याम।  
+यज्ञियस्य यज्ञ-संपादिनः।  
+अपि किंच।  
+भद्रे भन्दनीये सौमनसे कल्याण-मनसि स्याम वयम्।  
+ततो ऽनुग्राह्य-बुद्धौ वर्तमानानाम् अस्माकम्।  
+स सु-त्रामा शोभन-त्राणः।  
+स्ववान् धनवान् इन्द्रः अस्मे अस्मत्तः आराच् चित् दूराद् अपि द्वेषः दौर्भाग्यम् तत्र वर्तमानम्।  
+सनुतर् इति निर्णीतान्तर्हित-नाम।  
+अन्तर्हितं कृत्वा युयोतु।  
+यद्वा दूरे वर्तमानं प्रकटं कृत्वा युयोतु पृथक् करोतु॥ ५२॥
 </details>
 
 <details><summary>महीधर-टीका</summary>
@@ -3831,16 +3811,21 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-यज्ञियस्य यज्ञ-संबन्धिनः, तस्य सुत्राम्ण इन्द्रस्य, सुमतौ शोभनम् अतौ वयं स्याम शोभनबुद्धि- विषया भवेमेत्यर्थः ।
-
-अपि च भद्रे भजनीये, सौमनसे सौमनस्य योग्या भवेमेत्यर्थः ।
-
-किं च स प्रसिद्ध: सुत्रामा शोभन-त्राणवान्, स्ववान् धनवान्, इन्द्रः सनुतो हविषां दातु:, अस्मे, व्यत्ययः अस्मद् द्विषः शत्रून्, द्वेषम् अप्रीतिं वा, आराद् दूराद् एव, युयोतु पृथक् करोतु ।
+यज्ञियस्य यज्ञ-संबन्धिनः, तस्य सुत्राम्ण इन्द्रस्य, सुमतौ शोभनम् [[अतौ|मतौ]] वयं स्याम शोभनबुद्धि-विषया भवेमेत्य् अर्थः ।  
+अपि च भद्रे भजनीये, सौमनसे [[सौमनस्य|सौमनस्ये]] योग्या भवेमेत्य् अर्थः ।  
+किं च स प्रसिद्धः सुत्रामा शोभन-त्राणवान्, स्ववान् धनवान्, इन्द्रः सनुतो हविषां दातुः, [[अस्मे,|अस्मे]] व्यत्ययः, अस्मद्-द्विषः शत्रून्, द्वेषम् अप्रीतिं वा, आराद् दूराद् एव, युयोतु पृथक् करोतु ।
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
 
-‘ तस्य वयम् ' इति । तस्य इन्द्रस्य सुत्राम्णः यज्ञियस्य यज्ञ-संपादिनः 'सुमतौ कल्याणम् अतौ वयं स्याम सुमति-विषया भवेम । 'अपि च । अस्य "भद्रे भन्दनीये सौमनसे कल्याणम् अनसे स्याम । युष्मत्-कल्याण-मनसो विषया भवेम । सः "सुत्रामा स्ववान् धनवान् 'इन्द्रः । षणु दाने। 'सनुतः दातुः 'अस्मे अस्मत्तः 'आरात् 'चित् दूराद् एव द्वेषः दौर्भाग्यं "युयोतु वियोजयतु पृथक् करोतु ॥३७॥
+‘तस्य वयम्' इति ।  
+तस्य इन्द्रस्य सुत्राम्णः यज्ञियस्य यज्ञ-संपादिनः 'सुमतौ [[कल्याणम् अतौ|कल्याण-मतौ]] वयं स्याम सुमति-विषया भवेम ।  
+'अपि च ।  
+अस्य "भद्रे भन्दनीये सौमनसे [[कल्याणम् अनसे|कल्याण-मनसे]] स्याम ।  
+युष्मत्-कल्याण-मनसो विषया भवेम ।  
+सः "सुत्रामा स्ववान् धनवान् 'इन्द्रः ।  
+षणु दाने ।  
+'सनुतः दातुः 'अस्मे अस्मत्तः 'आरात् 'चित् दूराद् एव द्वेषः दौर्भाग्यं "युयोतु वियोजयतु पृथक् करोतु ॥३७॥
 </details>
 
 <details><summary>अनन्ताचार्य-टीका</summary>
@@ -4043,6 +4028,7 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 
 पदार्थान्वयभाषाः -  (तस्य यज्ञियस्य सुमतौ) तस्य सङ्गमनीयस्य परमात्मनो राज्ञो वा कल्याण्यां मतौ (सौमनसे भद्रे स्याम) सुमनोभावे कल्याणरूपे भवेम (सः-सुत्रामा स्ववान्) स सुरक्षकः सामर्थ्यवान् (इन्द्रः) परमात्मा राजा वा (आरात्-चित्-द्वेषः सनुतः-युयोतु) दूरादपि द्वेष्टॄन् शत्रून् सर्वदा “सनुतः सर्वदा” [अव्ययार्थनिबन्धनं दयानन्दः] पृथक् करोतु ॥७॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4064,7 +4050,8 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/122/01_revatIrnaH_sadhamAda.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/122/01_revatIrnaH_sadhamAda.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **रेवत्यः** धनवत्यः सर्वधनसाधनभूताः । पूर्ववत्पूर्वसवार्णदीर्घत्वम् । **नो** ऽस्माकं **सधमादः** अस्माभिस्सह माद्यन्तः । मद तृप्तियोगे, चुरादिः ततो ण्यन्तात्क्विप्, 'सधमादस्थयोः' इति सहस्य सधादेशः । आपश्चोच्यन्ते ।  
@@ -4121,6 +4108,7 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 टिप्पणी:   यह तृच ऋग्वेद में है-१।३०।१३-१ सामवेद उ० ४।१। तृच १४ म० १ सा० पू० २।६।८ ॥  १−(रेवतीः) धनवत्यः प्रजाः (नः) अस्माकम् (सधमादे) आनन्देन सह वर्तमाने महोत्सवे (इन्द्रे) परमैश्वर्यवति सभाध्यक्षे (सन्तु) (तुविवाजाः) बहुबलयुक्ताः (क्षुमन्तः) बहुविधान्नयुक्ताः (याभिः) प्रजाभिः (मदेम) हृष्येम ॥
 </details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -4148,7 +4136,8 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/095/02_pro_Shvasmai.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/20/095/02_pro_Shvasmai.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>भट्टभास्कर-टीका</summary>
 
 **अस्मै** इन्द्राय । षष्ठ्यर्थे चतुर्थी ।  
@@ -4240,5 +4229,6 @@ Sing strength to Indra that shall set his chariot in the foremost place. Giver o
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - पादटिप्पनी</summary>
 
 टिप्पणी:   मन्त्र २-४ ऋग्वेद में हैं-१०।१३३।१-३। और सामवेद-उ० ९।१। तृच १४ ॥  २−(प्रो) प्र उ इति निपातसमुदायः। ओत्। पा० १।१।१। इति प्रगृह्यम्। प्रकर्षेणैव। अवश्यमेव (सु) सुष्ठु (अस्मै) (पुरोरथम्) अग्रे रथयुक्तम् (इन्द्राय) महाप्रतापिने राज्ञे (शूषम्) अ० २०।७१।१६। शत्रुशोषकं बलम् (अर्चत) सत्कुरुत (अभीके) अलीकादयश्च। उ० ४।२। अभि+इण् गतौ-कीकन्। धातोर्लोपः। आसन्ने-निरु० ३।२०। (चित्) एव (उ) अवधारणे (लोककृत्) स्थानस्य कर्ता (संगे) संगमे (समत्सु) परस्परादनस्थानेषु संग्रामेषु (वृत्रहा) शत्रुनाशकः (अस्माकम्) (बोधि) अबोधि। ज्ञायते (चोदिता) प्रेरकः। उत्साहवर्धकः (नभन्ताम्) नभतेर्वधकर्मा-निघ० २।१९। हिंस्यन्ताम्। नश्यन्तु (अन्यकेषाम्) अव्ययसर्वनाम्नामकच् प्राक् टेः। पा० ।३।७१। अन्य-अकच्। कुत्सितानामन्येषां शत्रूणाम् (ज्याकाः) कुत्सिते। पा० ।३।७४। ज्या-क प्रत्ययः। कुत्सितो निर्बला ज्याः (अधि) उपरि (धन्वसु) धनुःषु ॥
+</details>
 </details>
 </div>

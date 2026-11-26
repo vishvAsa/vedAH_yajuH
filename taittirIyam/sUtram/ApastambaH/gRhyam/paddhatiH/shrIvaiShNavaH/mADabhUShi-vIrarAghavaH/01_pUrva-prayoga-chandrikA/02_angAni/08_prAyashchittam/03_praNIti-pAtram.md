@@ -8,8 +8,8 @@ title = "०३ प्रणीति-पात्रम्"
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/68_abhinno_gharmo.md">
 <details open><summary><h4>68 अभिन्नो घर्मो ...{Loading}...</h4></summary>
 
-+++(भिन्ने ऽपि कपाले)+++ अभि॑न्नो घ॒र्मो +++(→यज्ञो)+++, जी॒र+++(=उदक)+++-दा॑नु॒र्  
-यत॒ आत्त॒स् तद् अ॑ग॒न् पुनः॑ ।
++++(भिन्ने ऽपि कपाले)+++ अ᳓भिन्नो घर्मो᳓ +++(→यज्ञो)+++, जीर᳓+++(=उदक)+++-दानुर्  
+य᳓त आ᳓त्तस् त᳓द् अगन् पु᳓नः ।
 </details>
 </div>
 
@@ -147,7 +147,7 @@ mayst thou not perish for me, yonder, in yonder world.
 <details open><summary><h2>०३ तस्मा अरं ...{Loading}...</h2></summary>
 
 +++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
-यस्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
 आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
 +++(`चादिषु` च इति न स्वर-निघातः। )+++
 
@@ -188,9 +188,9 @@ mayst thou not perish for me, yonder, in yonder world.
 <div class="js_include" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/11_tatamma_Apastadu.md">
 <details open><summary><h4>11 ततम्म आपस्तदु ...{Loading}...</h4></summary>
 
-त॒तम् म॒ आप॒स् तद् उ॑ तायते॒ पुनः॑ ।  
-स्वादि॑ष्ठा धी॒तिर्+++(=धारकं हविः)+++ उ॒चथा॑य+++(=कर्मणे)+++ शस्यते ।  
-अ॒यँ स॑मु॒द्र उ॒त वि॒श्व-भे॑षजः ।  
-स्वाहा॑-कृतस्य॒ सम् उ॑ तृप्णुत+++(=तृप्यत)++++ऋभुवः ।
+**तत᳓म्** म आ᳓पस् त᳓द् उ **तायते** पु᳓नः ।  
+स्वा᳓दिष्ठा धीति᳓र्+++(=धारकं हविः)+++ उच᳓थाय+++(=कर्मणे)+++ **शस्यते** ।  
+अयँ᳓ समुद्र᳓ उत᳓ विश्व᳓-भेषजः ।  
+स्वा᳓हा-**कृतस्य** स᳓म् उ **तृप्णुत**+++(=तृप्यत)+++ +ऋभुवः ।
 </details>
 </div>

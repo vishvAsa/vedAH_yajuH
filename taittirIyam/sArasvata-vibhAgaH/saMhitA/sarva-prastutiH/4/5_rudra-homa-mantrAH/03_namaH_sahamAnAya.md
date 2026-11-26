@@ -175,7 +175,9 @@ homage to the lord of stealthy pilferers!
 तेषां स्तायूनां पालकाय नमः।
 </details>
 </details>
-</div><details open><summary>विश्वास-प्रस्तुतिः</summary>
+</div>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न᳓मो निचेर᳓वे+++(←चर्)+++ परिचरा᳓या᳓रण्यानां प᳓त᳓ये न᳓मः
 </details>

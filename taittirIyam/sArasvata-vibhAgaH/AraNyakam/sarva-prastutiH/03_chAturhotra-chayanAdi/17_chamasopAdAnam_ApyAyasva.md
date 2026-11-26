@@ -36,7 +36,8 @@ Funeral Mantra to be uttered when sprinkling water on the excavation made for bu
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -69,5 +70,6 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 <details><summary>सायण-टीका (आरण्यकी)</summary>
 
 हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
+</details>
 </details>
 </div>

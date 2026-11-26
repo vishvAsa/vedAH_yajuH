@@ -8,40 +8,40 @@ title = "०८ ‘अग्ने यशस्विन्' इति चतस
 
 'अग्ने यशस्विन्' इति चतस्रः
 
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/23_agne_yashasvin.md">
-<details open><summary><h9>23 अग्ने यशस्विन् ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/23_agne_yashasvin.md">
+<details open><summary><h4>23 अग्ने यशस्विन् ...{Loading}...</h4></summary>
 
-अग्ने॑ यशस्वि॒न्‌ यश॑से॒मम् +++(यजमानं)+++ **अ॑र्प॒य**  
-+इन्द्रा॑वती॒म् अप॑चितीम्+++(=पूजां)+++ **इ॒हाव॑ह** ।
-अ॒यम् मू॒र्धा प॑रमे॒ष्ठी सु॒वर्चाः॑,  
-समा॒नाना॑म् **उत्त॒मश्लो॑को अस्तु** ।
+अ᳓ग्ने यशस्विन्‌ य᳓शसेम᳓म् +++(यजमानं)+++ **अर्पय᳓**  
++इ᳓न्द्रावतीम् अ᳓पचितीम्+++(=पूजां)+++ **इहा᳓वह** ।
+अय᳓म् मूर्धा᳓ परमेष्ठी᳓ सुव᳓र्चाः,  
+समाना᳓नाम् **उत्तम᳓श्लोको अस्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/27_bhadram_pashyanta.md">
-<details open><summary><h9>27 भद्रम् पश्यन्त ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/27_bhadram_pashyanta.md">
+<details open><summary><h4>27 भद्रम् पश्यन्त ...{Loading}...</h4></summary>
 
-भ॒द्रम् **पश्य॑न्त॒ उप॑ सेदु॒र्** अग्रे॒  
-तपो॑ +++(उपसल्-लक्षणां)+++ दी॒क्षाम् ऋष॑यस् सुव॒र्-विदः॑ ।  
-ततः॑ क्ष॒त्रम् बल॒म् ओज॑श् च **जा॒तन्**  
-तद् अ॒स्मै दे॒वा **अ॒भि सन्न॑मन्तु** ।
+भद्र᳓म् **प᳓श्यन्त उ᳓प सेदुर्** अ᳓ग्रे  
+त᳓पो +++(उपसल्-लक्षणां)+++ दीक्षा᳓म् ऋ᳓षयस् सुवर्-वि᳓दः ।  
+त᳓तः क्षत्र᳓म् ब᳓लम् ओ᳓जश् च **जात᳓न्**  
+त᳓द् अस्मै᳓ देवा᳓ **अभि᳓ स᳓न्नमन्तु** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/31_dhAtA_vidhAtA.md">
-<details open><summary><h9>31 धाता विधाता ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/31_dhAtA_vidhAtA.md">
+<details open><summary><h4>31 धाता विधाता ...{Loading}...</h4></summary>
 
-धा॒ता वि॑धा॒ता प॑र॒मोत स॒न्दृक्  
-प्र॒जाप॑तिᳶ परमे॒ष्ठी वि॒राजा॑ ।  
-स्तोमा॒श् छन्दाँ॑सि नि॒विदो॑ म **आहुर्**  
-ए॒तस्मै॑ रा॒ष्ट्रम् **अ॒भि सन्न॑माम** ।
+धाता᳓ विधाता᳓ परमो᳓त᳓ सन्दृ᳓क्  
+प्रजा᳓पतिᳶ परमेष्ठी᳓ विरा᳓जा ।  
+स्तो᳓माश् छ᳓न्दाँसि निवि᳓दो म **आहुर्**  
+एत᳓स्मै राष्ट्र᳓म् **अभि᳓ स᳓न्नमाम** ।
 </details>
 </div>
-<div class="js_include" includetitle="false" newlevelforh1="4" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/35_abhyAvartadhvam_upa.md">
-<details open><summary><h9>35 अभ्यावर्तध्वम् उप ...{Loading}...</h9></summary>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/5/7/04/35_abhyAvartadhvam_upa.md">
+<details open><summary><h4>35 अभ्यावर्तध्वम् उप ...{Loading}...</h4></summary>
 
-**अ॒भ्याव॑र्तध्व॒म्** उप॒ मेत॑ सा॒कम्  
-अ॒यँ शा॒स्ता ऽधि॑पतिर् वो **अस्तु** ।  
-अ॒स्य वि॒ज्ञान॒म् **अनु॒ सँ र॑भध्वम्**  
-इ॒मम् प॒श्चाद् **अनु॑ जीवाथ॒** सर्वे॑ ।
+**अभ्या᳓वर्तध्वम्** उ᳓प मे᳓त साक᳓म्  
+अयँ᳓ शास्ता᳓ ऽधिपतिर् वो **अस्तु** ।  
+अस्य᳓ विज्ञा᳓नम् **अ᳓नु सँ᳓ रभध्वम्**  
+इम᳓म् पश्चा᳓द् **अ᳓नु जीवाथ** स᳓र्वे ।
 </details>
 </div>
 </details>

@@ -25,7 +25,8 @@ title = "३३-३ सङ्गाहनम्"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/4_somAbhiShavAdi/33-35_sangAhanam/ApyAyasva.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>Keith</summary>
 
 Swell, O sweetest Soma,  
@@ -59,6 +60,7 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 
 हे मदिन्तमातिशयेन हर्षयुक्त सोम विश्वाभिरूतिभिः सर्वप्रकारैरस्मदीयरक्षणैराप्यायस्व सर्वतो वर्धस्व । नोऽस्मान्प्रति सप्रथस्तमोऽतिशयेन प्रथायुक्तो भव ॥
 </details>
+</details>
 </div>  
 
 ## अवगाहनम्
@@ -78,7 +80,8 @@ O Soma, the exalted one, be satisfied by all protections; be increased for us.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/113/11_IyuShTe_ye.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -452,6 +455,7 @@ Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  जी माणसे उषेचे आगमन होण्यापूर्वी जागे होऊन आवश्यक कार्य करतात व नंतर परमेश्वराचे ध्यान करतात ती बुद्धिमान व धार्मिक असतात. जे स्त्री-पुरुष परमेश्वराचे ध्यान करून प्रेमाने आपापसात बोलतात. त्यांना अनेक प्रकारचे सुख प्राप्त होते. ॥ ११ ॥
+</details>
 </details>
 </div>  
 

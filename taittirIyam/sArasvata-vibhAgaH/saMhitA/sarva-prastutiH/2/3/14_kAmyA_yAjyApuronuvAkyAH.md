@@ -704,7 +704,9 @@ In alle Stätten, die du hast im Himmel, auf Erden und in Bergen, Kräutern, Was
 भावार्थभाषाः -  जसे जगदीश्वर स्वनिर्मित सृष्टीत वेदाद्वारे सृष्टिक्रम दर्शवून विद्या प्रकाशित करतो तसेच विद्वानांनी अंग व उपांगासह वेदातील हस्तक्रियेसह कलाकौशल्य दाखवून सर्वांना संपूर्ण विद्या ग्रहण करण्यास लावावी. ॥ ४ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -954,7 +956,9 @@ Zugleich gerufen, gleich an Gut seid, Agni-Soma, hold dem Lied, Zugleich seid be
 - षड्जः
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -1765,7 +1769,9 @@ Durch Volk, Geschlecht, Verwandte, durch der Söhne Schar erlanget Preis und Beu
 भावार्थभाषाः -  भावार्थ -जी माणसे प्रीतीपूर्वक विद्वानांचे, अध्यापक व उपदेशकाचे ग्रहण करतात त्यांना सर्व पदार्थ प्राप्त होतात व ती आनंद भोगतात. ॥ ३ ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -2271,7 +2277,9 @@ he drew up the sacred word from the midst of the Brahman; from below, upward he 
 - **[141_9]** Brl भि᳓ प्रतस्थौ
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 

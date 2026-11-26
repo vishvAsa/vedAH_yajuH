@@ -462,12 +462,11 @@ verily he invokes this blessing to prevent the destruction of his power, strengt
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/1/08_upAMshugrahAbhiShavaH_vidhiH_mantrAshcha/14_drapsashchaskanda_pRthivImanu_dyAmimanch.md">
-<details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+
 द्रप्स᳓श्चस्कन्द पृथिवी᳓म᳓नु द्या᳓मिम᳓ञ्च यो᳓निम᳓नु य᳓श्च पू᳓र्वः ।   
 तृती᳓यय्ँयो᳓निम᳓नु सञ्च᳓रन्तन्द्रप्स᳓ञ्जुहोम्य᳓नु सप्त᳓ हो᳓त्राः ॥ [25]
 </details>
-</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/1/08_upAMshugrahAbhiShavaH_vidhiH_mantrAshcha/14_drapsashchaskanda_pRthivImanu_dyAmimanch.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>

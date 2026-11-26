@@ -317,7 +317,9 @@ May we enjoy the favour of the gods.
 विश्वे देवाः मरुतश्च इन्द्रश्चास्मानस्मिन् द्वितीये सवने न जह्युः माध्यन्दिने मा हासिषुः । ततश्च वयमपि आयुष्मन्तस्सन्तः एषां देवानां प्रियं स्तोत्रशस्त्रादिकं वदन्तः देवानां सुमतौ कल्याणायां सानुग्रहायां बुद्धौ स्याम । सुष्ठु मननं सुमतिः । कृदुत्तरपदप्रकृतिस्वरत्वम्, 'मन्त्रे वृष' इति क्तिन उदात्तत्वम् ॥
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
@@ -459,7 +461,9 @@ may the sons of Sudhanvan, having attained immortality, well-sacrificed, lead us
 - **[464_6]** So corr. Ch सौधन्वाना (Thus emended; Ch reads सौधन्वाना)
 </details>
 </details>
-</div><details><summary>सर्वा अवतारिकाः</summary>
+</div>
+
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 

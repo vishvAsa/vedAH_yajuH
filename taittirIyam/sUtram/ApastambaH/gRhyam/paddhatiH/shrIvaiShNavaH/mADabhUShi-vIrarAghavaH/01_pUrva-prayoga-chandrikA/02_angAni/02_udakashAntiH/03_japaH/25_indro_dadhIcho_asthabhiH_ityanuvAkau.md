@@ -32,9 +32,8 @@ title = "२५ 'इन्द्रो दधीचो अस्थभिः'"
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/13_indro_dadhIcho.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/13_indro_dadhIcho.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -295,7 +294,6 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. तोच सेनापती होण्यायोग्य असतो. जो सूर्याप्रमाणे दुष्ट शत्रूंचा हन्ता व आपल्या सेनेचा रक्षक असतो. ॥ १३ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/14_ichChannashvasya_yachChiraH.md">
@@ -312,9 +310,8 @@ Mit Dadhiank's Gebeinen schlug, Indra, dem niemand widersteht, Die neunundneunzi
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/14_ichChannashvasya_yachChiraH.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/14_ichChannashvasya_yachChiraH.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -545,7 +542,6 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा सूर्य आकाशातील मेघाचे छेदन करून त्याला भूमीवर पाडतो तसे पर्वतावर व किल्ल्यावर राहणाऱ्या दुष्ट शत्रूंचे हनन करून भूमीवर शयन करवावे. असे केल्याशिवाय राज्य व्यवस्था स्थिर होऊ शकत नाही. ॥ १४ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/084/15_atrAha_goramanvata.md">
@@ -560,9 +556,8 @@ Verlangend nach des Rosses Haupt, das in den Bergen sich versteckt, Fand er's am
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/15_atrAha_goramanvata.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/084/15_atrAha_goramanvata.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -874,7 +869,6 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. माणसांनी हे जाणावे की ईश्वरीय विद्यावृद्धीमध्ये नुकसान किंवा विपरीतता असू शकत नाही. सर्व काळी सर्व क्रियेत सृष्टीचे नियम एकसारखे असतात. जसा सूर्याचा पृथ्वीबरोबर आकर्षण व प्रकाश इत्यादी संबंध असतो तसाच इतर भूगोलाबरोबर ही असतो. कारण ईश्वराच्या स्थिर नियमांचे उल्लंघन होऊ शकत नाही किंवा कधी चूक होऊ शकत नाही. ॥ १५ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
@@ -889,9 +883,8 @@ Dort fanden sie das Wesen auf des Stiers, den Tvaschtar hielt versteckt. Dort en
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/01_indramidgAthino_bRhadindramarkebhirarkiNaH.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1206,7 +1199,6 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 भावार्थभाषाः -  ईश्वर असा उपदेश करतो की, माणसांनी वेदमंत्रातील विचारांच्या आधारे सूर्य व वायू तसेच परमेश्वर इत्यादी पदार्थांच्या गुणांना चांगल्या प्रकारे जाणून सर्वांच्या सुखासाठी प्रयत्न करून त्यांचा लाभ घ्यावा. ॥ १ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/02_indra_iddharyoH.md">
@@ -1221,9 +1213,8 @@ Den Indra preist der Sänger Schar, mit Preisgesang die preisenden, Den Indra la
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/02_indra_iddharyoH.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/02_indra_iddharyoH.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1507,7 +1498,6 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 टिप्पणी:   ‘संमिश्ल’ या शब्दात सायणाचार्याने लकार होणे छान्दस मानलेले आहे. ती त्यांची चूक आहे. कारण ‘संज्ञाछन्द. ’ या वार्तिकाने लकारादेश सिद्धच आहे. ॥ २ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/03_indro_dIrghAya.md">
@@ -1522,9 +1512,8 @@ Indra mit seiner Füchse Paar, dem Wagen, der aufs Wort sich schirrt, der goldne
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/03_indro_dIrghAya.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/03_indro_dIrghAya.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -1809,7 +1798,6 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 भावार्थभाषाः -  सृजनाची इच्छा करणाऱ्या ईश्वराने सर्व लोकांमध्ये दर्शन, धारण व आकर्षण इत्यादी प्रयोजनांसाठी प्रकाशरूपी सूर्याला सर्व गोलांच्या मध्ये स्थापन केलेले आहे. त्याचप्रकारे प्रत्येक ब्रह्मांडाचा नियम आहे की सूर्य क्षणोक्षणी जल वर खेचतो व वायूद्वारे वर स्थापन करून वारंवार वृष्टी करवितो. त्यामुळे तो पर्जन्याचे कारण आहे. ॥ ३ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/007/04_indra_vAjeShu.md">
@@ -1824,9 +1812,8 @@ Die Sonne liess er, weit zu schaun, am Himmel steigen, er zerschlug Den Fels und
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/04_indra_vAjeShu.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/01/007/04_indra_vAjeShu.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2097,7 +2084,6 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 भावार्थभाषाः -  परमेश्वराचा हा स्वभाव आहे की युद्ध करणाऱ्या धार्मिक पुरुषांवर आपली कृपा करतो, आळशी लोकांवर नाही. त्यामुळे जी माणसे जितेन्द्रिय, विद्वान, शरीर व आत्म्याच्या बलाने युक्त होतात व पक्षपात न करता अत्यंत पुरुषार्थी बनून आळस सोडून धर्माने मोठमोठी युद्धे जिंकतात व सतत प्रजेचे पालन करतात तीच सौभाग्यशाली व सुखी होतात. ॥ ४ ॥
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/093/07_tamindraM_vAjayAmasi.md">
@@ -2111,9 +2097,8 @@ Hilf in den Schlachten, Indra, uns, im Kampf, der tausend Schätze bringt, Mit m
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="6" title="सर्वाः टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/07_tamindraM_vAjayAmasi.md">
-
-<details><summary><h6>सर्वाः टीकाः …{Loading}…</h6></summary>
+<div class="js_include collapsed" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/08/093/07_tamindraM_vAjayAmasi.md">
+<details><summary><h6>सर्वाष् टीकाः …{Loading}…</h6></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -2327,7 +2312,6 @@ Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise
 - षड्जः
 </details>
 </details>
-
 </div>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/5_nAxatrAdi/08_atharva-shira-iShTakAH_indro_dadhIcho/205_indras_sa.md">

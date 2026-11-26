@@ -30,6 +30,8 @@ _______
 उपयाम᳓-गृहीतो ऽसि।
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 Thou art taken with a support/ foundation.
@@ -54,6 +56,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -95,6 +98,8 @@ Thou art Madhu
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -124,6 +129,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -143,6 +149,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -168,6 +176,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -209,6 +218,8 @@ and Madhava
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -238,6 +249,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -257,6 +269,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -282,6 +296,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -323,6 +338,8 @@ thou art Çukra
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -352,6 +369,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -371,6 +389,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -396,6 +416,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -437,6 +458,8 @@ and Çuci
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -466,6 +489,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -485,6 +509,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -510,6 +536,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -551,6 +578,8 @@ thou art Nabha
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -580,6 +609,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -599,6 +629,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -624,6 +656,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -665,6 +698,8 @@ and Nabbasya;
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -694,6 +729,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -713,6 +749,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -738,6 +776,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -779,6 +818,8 @@ thou art Isa
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -808,6 +849,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -827,6 +869,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -852,6 +896,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -893,6 +938,8 @@ and Urja;
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -922,6 +969,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -941,6 +989,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -966,6 +1016,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -1007,6 +1058,8 @@ thou art Saha
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -1036,6 +1089,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -1055,6 +1109,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1080,6 +1136,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -1121,6 +1178,8 @@ ________________
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -1150,6 +1209,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -1169,6 +1229,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1194,6 +1256,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -1235,6 +1298,8 @@ ________________
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -1264,6 +1329,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -1283,6 +1349,8 @@ _______
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1308,6 +1376,7 @@ Thou art taken with a support/ foundation.
 ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
+</details>
 </details>
 </details>
 
@@ -1350,6 +1419,8 @@ ________________
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
 <details><summary>Keith</summary>
 
 To Anhaspatya thee!
@@ -1379,6 +1450,7 @@ To Anhaspatya thee!
 
 </details>
 </details>
+</details>
 
 </div>
 
@@ -1392,11 +1464,12 @@ _______
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/03_antaryAmagrahaH/upayAmagRhItaH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपयाम᳓-गृहीतो ऽसि।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1423,7 +1496,7 @@ ________________
 
 उपयामगृहीतोसीति व्याख्यातम् । 'इयं वा उपयामः' तयैव गृहीतोसीति ।
 </details>
-
+</details>
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,11 +1534,12 @@ Thou art Samsarpa.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/4_somAbhiShavAdi/14_RtugrahAH/aMhaspatyAya.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अँहस्पत्या᳓य त्वा   +++(जुष्टं गृण्हामि)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -1495,7 +1569,7 @@ To Anhaspatya thee!
 आदित्यवशेन हि त्रयोदशो मासो जायते । यथोक्तम् - 'अधिमासका युगे ते रविमासेभ्योधिकास्तु ये चान्द्राः ।  इति । तस्मात्तत आगत इति वा तदपत्यमिति वा शक्यते वक्तुम् । 'अस्ति त्रयोदशो मास इत्याहुः'  इति च ब्राह्मणम् ।  
 
 </details>
-
+</details>
 </div>  
 
 इति चतुर्थे चतुर्दशोनुवाकः ॥  

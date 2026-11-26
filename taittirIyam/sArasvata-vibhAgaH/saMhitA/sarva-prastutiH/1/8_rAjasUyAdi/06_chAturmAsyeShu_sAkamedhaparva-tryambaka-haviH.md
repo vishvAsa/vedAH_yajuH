@@ -224,23 +224,16 @@ This is thy portion, O Rudra, with thy sister Ambika; rejoice in it.
 </details>
 </details>
 
-<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-
-<details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
 
 भेषज᳓ङ् ग᳓वे᳓ ऽश्वाय ..   
 पु᳓रुषाय भेषज᳓म् ।  
 अ᳓थो अस्म᳓भ्यम् भेषजँ᳓     
 सु᳓भेषजम् [10] य᳓था᳓ऽसति  ॥   
 सुग᳓म् मेषा᳓य मेष्या᳙ ॥
-
 </details>
 
-</div>
-
-<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/06_chAturmAsyeShu_sAkamedhaparva-tryambaka-haviH/02_bheShaja~N_gave.md">
-
-<details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>सर्वाष् टीकाः</summary>
 <details><summary>Keith</summary>
 
 (Give) medicine for ox, for horse, for man,  
@@ -269,8 +262,6 @@ Good [1] for ram and sheep.
 किञ्च - मेषेभ्यो मेषीभ्यश्च भेषजं यथा स्यात् तथा जुषस्व । अस्तेर्लेटि शपो लुकि 'लेटोडाटौ' इत्यडागमः । गोशब्दात् 'सावेकाचः' इति प्राप्तं विभक्त्युदात्तत्वं 'न गोश्वन्' इति प्रतिषिध्यते ॥
 </details>
 </details>
-
-</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -359,7 +350,8 @@ That he may embolden us.
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
+<div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/07/059/12_tryambakaM_yajAmahe.md">
+<details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः (मृत्युविमोचिनी ऋक्)
@@ -691,6 +683,7 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 <details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
 
 भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे माणसांनो ! आम्हा सर्व लोकांचे उपास्य जगदीश्वरच आहे. ज्याच्या उपासनेने पुष्टी, वृद्धी, उत्तम यश व मोक्ष प्राप्त होतो. मृत्यूसंबंधी भय नष्ट होते. त्याचा त्याग करून इतराची उपासना करू नये. ॥ १२ ॥
+</details>
 </details>
 </div>
 

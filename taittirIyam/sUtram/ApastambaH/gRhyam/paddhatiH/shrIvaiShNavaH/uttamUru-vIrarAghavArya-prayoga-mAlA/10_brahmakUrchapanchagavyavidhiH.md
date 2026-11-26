@@ -313,7 +313,7 @@ ______________
 
 (त्र्यम्बकायेदं न मम)
 
-<div class="js_include" includetitle="plain" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
+<div class="js_include" includetitle="true" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/099/03_irAvatI_dhenumatI.md">
 
 <details open><summary><h5>०३ इरावती धेनुमती …{Loading}…</h5></summary>
 
