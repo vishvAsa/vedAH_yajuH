@@ -1,5 +1,6 @@
 +++
 title = "Tebhyo vo nama H"
+unicode_script = "devanagari"
 +++
 
 ते᳓भ्यो वो न᳓मस्, ते᳓ नो मृडयत।

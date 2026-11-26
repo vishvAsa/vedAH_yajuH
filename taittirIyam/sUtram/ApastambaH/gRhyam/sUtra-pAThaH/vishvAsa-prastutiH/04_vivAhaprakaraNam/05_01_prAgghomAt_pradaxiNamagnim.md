@@ -120,7 +120,7 @@ title = "०५ ०१ प्राग्घोमात् प्रदक्�
 
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
 <details open><summary><h2>१४ त्वन्नो अग्ने ...{Loading}...</h2></summary>
 त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
 देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  

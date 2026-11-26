@@ -27,10 +27,8 @@ title = "१७ १२ अग्नेरुपसमाधानाद्या
 पिते᳓व पुत्रा᳓न् प्र᳓ति नो जुषस्व ।
 </details>
 </div>
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
-<details open><summary><h2>२१ अमीवहा वास्तोष्पते ...{Loading}...</h2></summary>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/055/01_amIvahA_vAstoShpate.md">
 अमीवहा᳓+++(=व्याधिहा)+++ वास्तोष्पते  
 वि᳓श्वा रूपा᳓ण्य् आ **विश᳓न्** ।  
 स᳓खा सुशे᳓व+++(फ)+++ **एधि** नः ।
-</details>
 </div>

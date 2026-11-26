@@ -17,17 +17,11 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 +++(वयं स्तोतृत्वेन)+++ स᳓खाय+++(ः)+++ इ᳓न्द्रम् ऊत᳓ये ।+++(५)+++
 </div>
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
-
-<details open><summary><h3>०२ इममग्न आयुषे …{Loading}…</h3></summary>
-
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_04/02_imamagna_AyuShe.md">
 इम᳓म् अग्न आ᳓युषे व᳓र्चसे **कृधि**  
 प्रियँ᳓ रे᳓तो वरुण सोम राजन् ।  
 माते᳓वास्मा अदिते श᳓र्म **यच्छ**  
 वि᳓श्वे देवा ज᳓र-दष्टिर् **य᳓था᳓ऽसत्** ।
-
-</details>
-
 </div>
 
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/089/09_shataminnu_sharado.md">
@@ -108,15 +102,9 @@ title = "११ ०६ अत्रैनमुत्तरा आहुती�
 
 </div>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
-
-<details open><summary><h2>१६ त्वमग्ने अयाऽस्यया …{Loading}…</h2></summary>
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_04/16_tvamagne_ayA-syayA.md">
 त्व᳓म् अग्ने अया᳓+++(=एतव्यः/ प्रत्येता)+++ **ऽस्य्**  
 अया᳓ **स᳓न्** म᳓नसा **हितः᳓** ।  
 अया᳓ **स᳓न्** हव्य᳓म् **ऊहिषे**  
 ऽया᳓ नो **धेहि** भेषज᳓म् ॥ (4)
-
-</details>
-
 </div>

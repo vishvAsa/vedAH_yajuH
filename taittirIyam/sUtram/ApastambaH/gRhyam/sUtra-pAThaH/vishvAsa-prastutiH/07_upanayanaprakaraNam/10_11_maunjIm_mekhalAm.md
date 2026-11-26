@@ -32,7 +32,7 @@ title = "१० ११ मौञ्जीम् मेखलाम्"
 
 +++(धर्मसूत्रेषु - "क्षत्र-वृद्धिम् इच्छन् वस्त्राण्य्, एवोभय-वृद्धिम् इच्छन्न् उभयमिति हि ब्राह्मणम् ९" इत्यादि विकल्पा उक्ताः। तस्मिन् पक्षे ऽजिनप्रतिनिधित्वेन प्रायेण ग्राह्यं वस्त्रम्। )+++
 
-<div class="js_include bg-light-yellow" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_02/11_mitrasya_chaxurdharuNam.md">
 <details open><summary><h2>११ मित्रस्य चक्षुर्धरुणम् ...{Loading}...</h2></summary>
 
 मित्र᳓स्य च᳓क्षुर्, [[ध᳓रुणं|धरु᳓णं]] ब᳓लीयस्  
