@@ -10,6 +10,14 @@ on:
       logLevel:
         default: 'warning'
 
+# Serialize all runs that push to gh-pages. Concurrent force-pushes race and
+# fail with "cannot lock ref 'refs/heads/gh-pages'" (e.g. runs 45850124729 vs
+# 45850153192). Same group name is used in index_pages.yml so the indexer also
+# waits its turn. cancel-in-progress: false means queued runs wait, not cancel.
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
 jobs:
   transform:
     runs-on: ubuntu-latest
