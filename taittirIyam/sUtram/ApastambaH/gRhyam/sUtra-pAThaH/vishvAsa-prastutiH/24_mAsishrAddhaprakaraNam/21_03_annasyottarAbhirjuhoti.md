@@ -76,8 +76,8 @@ title = "२१ ०३ अन्नस्योत्तराभिर्जु
 <div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
 <details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
 
-ये᳓ चेह᳓ पित᳓रो ये᳓ च [[ने᳓ह|ने᳓ह᳓]]  
-याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ [[प्र|प्र᳓]] विद्म᳓ ।  
+ये᳓ चेह᳓ पित᳓रो ये᳓ च ने᳓ह᳓  
+याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ प्र विद्म᳓ ।  
 अ᳓ग्ने ता᳓न् वेत्थ  
 य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ [[प्रत्तँ᳓|प्र᳓त्तँ]]+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
 स्वा᳓हा ।  
