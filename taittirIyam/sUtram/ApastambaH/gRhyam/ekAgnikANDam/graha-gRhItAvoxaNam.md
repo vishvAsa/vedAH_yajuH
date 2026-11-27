@@ -18,7 +18,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_16/02_aulaba_ittamupAhva.md">
 <details open><summary><h2>०२ औलब इत्तमुपाह्व ...{Loading}...</h2></summary>
 
-औ᳓लब इ᳓त् त᳓म् उ᳓पाह्वयथ-  
+औ᳓लब इ᳓त् त᳓म् उपा᳓ह्वयथ-  
 अर्जी᳓न्+++(=ऋजेः पुत्रान्)+++ - छ्याम᳓श् शब᳓लः ।  
 अधो᳓राम+++(=अधोभागे कृष्णवर्णः)+++ उलुंबल᳓स्+++(=उरुबलः)+++ सारमेयो᳓  
 ह धावति समुद्र᳓म्+++(→अन्तरिक्षं)+++ अवचा᳓कशत्+++(=पश्यन्)+++ ।  

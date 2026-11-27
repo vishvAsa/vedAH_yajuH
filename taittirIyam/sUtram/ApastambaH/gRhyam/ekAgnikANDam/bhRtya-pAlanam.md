@@ -19,7 +19,7 @@ unicode_script: devanagari
 <details open><summary><h2>०६ शश्वत्परिकुपितेन सङ्क्रामेणाविच्छिदा ...{Loading}...</h2></summary>
 
 श᳓श्वत् प᳓रि-कुपितेन  
-[[सं᳓क्रामेणाविच्छि᳓दा|संक्रा᳓मेणाविच्छि᳓दा]] ।  
+संक्रा᳓मेणाविच्छि᳓दा ।  
 उले᳓न+++(=स्थूलेन)+++ प᳓रि-षीतो+++(=बद्धो)+++ ऽसि  
 प᳓रिषीतोऽस्य् उले᳓न । 
 
@@ -50,7 +50,7 @@ unicode_script: devanagari
 
 
 आव᳓र्तने निव᳓र्तन  
-[[आव᳓र्तन|आवर्तन]] +++(→स्वरः??)+++ निवर्तना᳓य स्वा᳓हा ।
+आवर्तन +++(→स्वरः??)+++ निवर्तना᳓य स्वा᳓हा ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/09_anupo-hvadanuhvayo_nivarto.md">
