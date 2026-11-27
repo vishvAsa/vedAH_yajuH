@@ -195,75 +195,88 @@ title = "२४ मासिश्राद्धप्रकरणम्"
 ## २१ ०३ अन्नस्योत्तराभिर्जुहोति 
 
 <div class="js_include" includetitle="false" newlevelforh1="3" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/vishvAsa-prastutiH/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
-
 अन्नस्योत्तराभिर् जुहोति ३  
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/01_yanme_mAtA.md">
+<details open><summary><h2>०१ यन्मे माता ...{Loading}...</h2></summary>
 
-य᳓न् मे माता᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
-त᳓न् मे रे᳓तः पिता᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।+++(र५)+++  
-अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
+यन् मे॑ मा॒ता प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
+तन् मे॒ रेतः॑ पि॒ता वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।+++(र५)+++  
+अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
+<details open><summary><h2>०२ यास्तिष्ठन्ति या ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/02_yAstiShThanti_yA.md">
+यास् तिष्ठ॑न्ति॒, या धाव॑न्ति॒,  
+या आ॑र्द्रो॒घ्नीः+++(=कूलादिघ्नीः)+++ परि॑त॒स्थुषीः॑ ।  
+अ॒द्भिर् विश्व॑स्य भ॒र्त्रीभि॑र्  
+अ॒न्तर् अ॒न्यं पि॒तुर् द॑धे॒, +++(र५)+++  
+ऽमुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑ ।
 
-या᳓स् ति᳓ष्ठन्ति, या᳓ धा᳓वन्ति,  
-या᳓ आर्द्रोघ्नीः᳓+++(=कूलादिघ्नीः)+++ परितस्थु᳓षीः ।  
-अद्भि᳓र् वि᳓श्वस्य भर्त्री᳓भिर्  
-अन्त᳓र् अन्यं᳓ पितु᳓र् दधे, +++(र५)+++  
-ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
-
+</details>
 </div>
 
 ###### पितामहाय
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/03_yanme_pitAmahI.md">
+<details open><summary><h2>०३ यन्मे पितामही ...{Loading}...</h2></summary>
 
-य᳓न् मे पितामही᳓ प्र᳓लुलोभ च᳓रत्य् अ᳓ननुव्रता,  
-त᳓न् मे रे᳓तः पितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
-अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
+यन् मे॑ पिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
+तन् मे॒ रेतः॑ पिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
+अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
+<details open><summary><h2>०४ अन्तर्दधे पर्वतैरन्तर्मह्या ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/04_antardadhe_parvatairantarmahyA.md">
 अन्त᳓र् दधे प᳓र्वतैर्  
 अन्त᳓र् [[म᳓ह्या|मह्या᳓]] पृथिव्या᳓ ।  
 आभि᳓र् दिग्भि᳓र् अनन्ता᳓भिर्  
 अन्त᳓र् अन्यं᳓ पितामहा᳓द् दधे  
 ऽमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा ।
+
+</details>
 </div>
 
 ###### प्रपितामहाय
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/05_yanme_prapitAmahI.md">
+<details open><summary><h2>०५ यन्मे प्रपितामही ...{Loading}...</h2></summary>
 
-य᳓न् मे प्रपितामही᳓ प्रलुलो᳓भ+++(~~प्र᳓लुलोभ~~)+++ च᳓रत्य् अ᳓ननुव्रता,  
-त᳓न् मे रे᳓तः प्रपितामहो᳓ वृङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
-आभु᳓र्+++(←आभवतीति)+++ अन्यो᳓ +++(बलेर् दूरम्)+++ ऽवपद्यताम्।  
-अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
+यन् मे॑ प्रपिताम॒ही प्रलु॑लोभ॒ चर॒त्य् अन॑नुव्रता,  
+तन् मे॒ रेतः॑ प्रपिताम॒हो वृ॑ङ्क्ताम्+++(=आच्छिद्य स्वीकरोतु)+++।  
+आ॒भुर्+++(←आभवतीति)+++ अ॒न्यो +++(बलेर् दूरम्)+++ ऽव॑पद्यताम्।  
+अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
 
+</details>
 </div>
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
+<details open><summary><h2>०६ अन्तर्दध ऋतुभिरहोरात्रैश्च ...{Loading}...</h2></summary>
 
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/06_antardadha_RtubhirahorAtraishcha.md">
+अ॒न्तर्द॑ध ऋ॒तुभि॑र्  
+अहोरा॒त्रैश् च॑ +++(काल)+++स॒न्धिभिः॑ ।  
+अ॒र्ध॒मा॒सैश् च॒ मासै॑श् च+  
+अ॒न्तर् अ॒न्यं प्र॑पिताम॒हाद् द॑धे॒  
+अ॒मुष्मै॒+++(←नामनिर्देशः)+++ स्वाहा॑।
 
-अन्त᳓र्दध ऋतु᳓भिर्  
-अहोरात्रै᳓श् च +++(काल)+++सन्धि᳓भिः ।  
-अर्धमासै᳓श् च मा᳓सैश् च+  
-अन्त᳓र् अन्यं᳓ प्रपितामहा᳓द् दधे  
-अमु᳓ष्मै+++(←नामनिर्देशः)+++ स्वा᳓हा।
-
+</details>
 </div>
 
 ###### अन्येभ्यः
-<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
-ये᳓ चेह᳓ पित᳓रो ये᳓ च [[ने᳓ह|ने᳓ह᳓]]  
-याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ [[प्र|प्र᳓]] विद्म᳓ ।  
+<div class="js_include bg-light-yellow" includetitle="false" newlevelforh1="4" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_19/07_ye_cheha.md">
+<details open><summary><h2>०७ ये चेह ...{Loading}...</h2></summary>
+
+ये᳓ चेह᳓ पित᳓रो ये᳓ च ने᳓ह᳓  
+याँ᳓श् च विद्म᳓ याँ᳓ उ च न᳓ प्र विद्म᳓ ।  
 अ᳓ग्ने ता᳓न् वेत्थ  
 य᳓दि ते᳓ जातवेदस् त᳓या+++(→स्वधया)+++ [[प्रत्तँ᳓|प्र᳓त्तँ]]+++(→प्रत्तया = प्रदत्तया)+++ स्वध᳓या मदन्तु  
-स्वा᳓हा ।
-</div>
+स्वा᳓हा ।  
 
+</details>
+</div>
 </div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/sUtra-pAThaH/sarvASh_TIkAH/24_mAsishrAddhaprakaraNam/21_03_annasyottarAbhirjuhoti.md">
