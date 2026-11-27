@@ -3,10 +3,13 @@ title = "11 यथाऽहमस्या अतृपँ"
 
 +++
 
-
 <details><summary>Gemini 3.8 Flash</summary>
 
-possessed of thousands, may he blaze without neglect;
+Just as I, a man, have had my fill of this woman,  
+just as a woman, dear, has her fill of a dear man,  
+so may I be satisfied with good fortune,
+
+the desired, dear \[portion\] of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>

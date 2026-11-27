@@ -4,6 +4,13 @@ title = "04 सोमाय स्वाहा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Soma, svāhā! To Mṛgaśīrṣa, svāhā!  
+To the Invakās, svāhā! To the plants, svāhā!  
+To kingship, svāhā! To victory, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑ ।  

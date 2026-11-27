@@ -3,10 +3,12 @@ title = "17 आपस् तथ्"
 
 +++
 
-
 <details><summary>Gemini 3.8 Flash</summary>
 
-he mounted the intermediate realm, he went to heaven.
+The waters brought that truth,  
+the dignity, the sacrificial gift of the sacrifice;  
+may this desire of mine be fulfilled.  
+For they found no other spy than him,
 </details>
 
 <details><summary>मूलम्</summary>

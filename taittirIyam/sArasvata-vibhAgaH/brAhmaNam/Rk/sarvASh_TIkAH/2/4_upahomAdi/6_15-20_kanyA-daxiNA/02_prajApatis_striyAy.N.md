@@ -3,10 +3,12 @@ title = "02 प्रजापतिस् स्त्रियाय्ँ"
 
 +++
 
-
 <details><summary>Gemini 3.8 Flash</summary>
 
-may he conquer the enemies, exulting;
+Prajāpati placed dignity in woman,  
+and the penis between the testicles,  
+the fulfillment of desire, delight;  
+thereof, O Agni, make me partake here.
 </details>
 
 <details><summary>मूलम्</summary>

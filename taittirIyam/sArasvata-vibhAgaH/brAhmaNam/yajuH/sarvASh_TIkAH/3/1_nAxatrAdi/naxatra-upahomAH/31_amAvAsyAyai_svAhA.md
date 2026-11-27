@@ -4,6 +4,11 @@ title = "31 अमावास्यायै स्वाहा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the new moon day hail! To desire hail! To attainment hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥56॥

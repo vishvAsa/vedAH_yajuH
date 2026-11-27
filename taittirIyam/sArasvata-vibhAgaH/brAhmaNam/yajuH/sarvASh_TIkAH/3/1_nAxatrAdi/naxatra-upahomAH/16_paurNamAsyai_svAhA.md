@@ -4,6 +4,11 @@ title = "16 पौर्णमास्यै स्वाहा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the full-moon day svāhā! To desire svāhā! To attainment svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥41॥

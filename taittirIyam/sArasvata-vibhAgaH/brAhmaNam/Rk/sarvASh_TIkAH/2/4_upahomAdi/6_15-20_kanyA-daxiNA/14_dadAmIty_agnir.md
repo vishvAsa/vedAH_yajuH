@@ -3,10 +3,12 @@ title = "14 ददामीत्य् अग्निर्"
 
 +++
 
-
 <details><summary>Gemini 3.8 Flash</summary>
 
-shining brightly, kindled, fierce,
+"I give," says Agni;  
+"So be it," says Vāyu to that;  
+"Yes!" says the moon in truth;  
+the sun \[says\], "Indeed, truth, om!"
 </details>
 
 <details><summary>मूलम्</summary>

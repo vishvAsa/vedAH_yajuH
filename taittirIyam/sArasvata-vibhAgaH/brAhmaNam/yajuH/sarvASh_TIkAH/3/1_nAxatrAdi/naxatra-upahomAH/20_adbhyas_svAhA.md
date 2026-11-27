@@ -4,6 +4,13 @@ title = "20 अद्भ्यस् स्वाहा"
 +++
 
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Waters svāhā! To the Aṣāḍhās svāhā!  
+To the ocean svāhā! To desire svāhā!  
+To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यस् स्वाहा॑ऽषा॒ढाभ्य॒स् स्वाहा॑ । स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ । अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥

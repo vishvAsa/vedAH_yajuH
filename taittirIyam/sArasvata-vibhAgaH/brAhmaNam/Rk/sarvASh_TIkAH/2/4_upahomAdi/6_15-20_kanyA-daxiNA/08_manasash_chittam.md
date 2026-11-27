@@ -3,10 +3,12 @@ title = "08 मनसश् चित्तम्"
 
 +++
 
-
 <details><summary>Gemini 3.8 Flash</summary>
 
-Agni, bearer of regal power, of unbent splendorous might,
+That intention of the mind,  
+the truth of speech, may we attain,  
+the form of domestic animals, of food;  
+may dignity and prosperity dwell in me.
 </details>
 
 <details><summary>मूलम्</summary>
