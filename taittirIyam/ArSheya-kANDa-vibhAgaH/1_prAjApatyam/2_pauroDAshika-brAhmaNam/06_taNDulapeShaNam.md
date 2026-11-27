@@ -16,6 +16,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Shaken away is the rakṣas, shaken away are the enemies," he says.  
+For the smiting away of the rakṣases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
@@ -206,6 +212,22 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are the skin of Aditi," he says.  
+Aditi indeed is this \[earth\].  
+He makes it her skin.  
+"May earth recognize you," he says, for stability.  
+In front, with neck pointing westward, with fleece uppermost, he spreads it out, for fitness for sacrifice.  
+Therefore domestic animals in front, facing west, attend the sacrifice.  
+Therefore creatures capture wild game.  
+The sacrifice concealed itself from the gods,
+
+having assumed a black form.  
+When he grinds the oblation on the black antelope skin,  
+from the sacrifice itself he harnesses the sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्कृ॑ष्णाजि॒ने ह॒विर॑धिपि॒नष्टि॑ ।
@@ -237,6 +259,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for non-spilling of the oblation.  
+Heaven and earth were together.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यावा॑पृथि॒वी स॒हास्ता॑म् ।
@@ -265,6 +293,11 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They separated by the measure of a yoke-pin for one day, by the measure of a yoke-pin for one day.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -297,6 +330,12 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are the prop of heaven; may the skin of Aditi recognize you," he says,  
+for the course of heaven and earth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -331,6 +370,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are the mountain-bowl; may the prop of heaven recognize you," he says,  
+for the wide separation of heaven and earth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "धि॒षणा॑ऽसि पर्व॒त्या प्रति॑ त्वा दि॒वस्स्क॑म्भ॒निर्वे॒त्त्वि"त्या॑ह ।  
@@ -361,6 +406,12 @@ unicode_script = "devanagari"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are the mountain-born bowl; may the mountain recognize you," he says,  
+for the supporting of heaven and earth.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -398,6 +449,12 @@ unicode_script = "devanagari"
 'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the Aśvins were the two adhvaryus of the gods.  
+He says, 'With the hands of Pūṣan,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
@@ -415,13 +472,14 @@ ________________________________________________________________________________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
 अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -450,11 +508,14 @@ ________________________________________________________________________________
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -481,7 +542,7 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-
+</details>
 </div>
 </div>
 
@@ -491,6 +552,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the Aśvins were the Adhvaryus of the gods.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -522,6 +588,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With the hands of Pūṣan," he says, for restraining.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒था॒दे॒व॒तमे॒वैना॒नधि॑वपति ।
@@ -547,6 +618,12 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"I pour on," he says.  
+According to deity he pours them on.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -577,6 +654,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You are grain; gladden the gods," he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒तस्य॒ यजु॑षो वी॒र्ये॑ण ॥48॥
@@ -595,6 +677,13 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the heroic power of this yajus,
+
+as much as one deity desires, as much as one,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -622,6 +711,13 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so far does the offering extend.  
+For there is nothing  
+that could be only as much
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -655,6 +751,12 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+as he offers.  
+"For exhalation you, for inhalation you," he says.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "प्रा॒णाय॑ त्वाऽपा॒नाय॒ त्वे"त्या॑ह ।
@@ -685,6 +787,11 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Exhalations he places in the sacrificer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णाने॒व यज॑माने दधाति ।
@@ -702,6 +809,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Along a long path of life I place \[you\] for lifespan," he says.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -725,6 +837,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lifespan he places in him.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -751,6 +868,12 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+As if from the intermediate space these leap forth,  
+which \[fall\] from the mill-stones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षादिव॒ वा ए॒तानि॒ प्रस्क॑न्दन्ति॒ यानि॑ दृ॒षदः॑ ।
@@ -775,6 +898,12 @@ ________________________________________________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"May divine Savitṛ of golden hand receive you," he says, for stability,  
+for non-spilling of the oblation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वो व॑स्सवि॒ता हिर॑ण्यपाणि॒ᳶ प्रति॑गृह्णा॒त्वि"त्या॑ह॒ प्रति॑ष्ठित्यै ।  
@@ -794,6 +923,11 @@ ________________________________________________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Grind without scattering, make it fine," he says, for fitness for sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 

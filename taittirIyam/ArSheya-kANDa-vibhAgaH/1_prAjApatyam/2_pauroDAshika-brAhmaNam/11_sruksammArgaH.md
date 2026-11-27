@@ -16,6 +16,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Scorched is the demon, scorched are the adversaries,'  
+for the destruction of the demons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  
@@ -38,6 +44,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'With the hottest fiery energy of Agni I scorch you,' he says for fitness for sacrifice.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -63,6 +74,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He cleanses the offering ladles:
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्रुच॒स्सम्मा॑र्ष्टि ।
@@ -80,6 +96,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the dipping spoon first;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -105,6 +126,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+he prepares a male for them for the sake of pairing;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुमाँ॑समे॒वाभ्य॒स्सँश्य॑ति मिथुन॒त्वाय॑ ।
@@ -122,6 +148,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the juhū;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -152,6 +183,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the upabhṛt;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो॑प॒भृत॑म् ।
@@ -170,6 +206,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then the dhruvā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ॑ ध्रु॒वाम् ।
@@ -187,6 +228,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yonder \[sky\] is the juhū;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -211,6 +257,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the intermediate space is the upabhṛt;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒न्तरि॑क्षम् उप॒भृत् ।
@@ -229,6 +280,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the earth is the dhruvā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृ॒थि॒वी ध्रु॒वा ।
@@ -246,6 +302,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These worlds are the offering ladles;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -270,6 +331,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the cleaning grasses are rain.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -299,6 +365,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rain prepares these worlds in order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृष्टि॒र्वा इ॒माल्ँ लो॒कान॑नुपू॒र्वङ्क॑ल्पयति ।
@@ -323,6 +394,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+then, prepared, they prosper.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते तत॑ᳵ कॢ॒प्तास्समे॑धन्ते ।
@@ -341,6 +417,12 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These worlds prosper with offspring and domestic animals for him  
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +454,12 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should desire that Parjanya should become rainy,  
+he should cleanse from the tip.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि॑ का॒मये॑त॒ वर्षु॑कᳶ प॒र्जन्य॑स्स्या॒दिति॑ ।  
@@ -402,6 +490,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He directs the rain downwards,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृष्टि॑मे॒व निय॑च्छति ।
@@ -425,6 +518,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for rain has its tip turned downwards.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒वा॒चीना॑ग्रा॒ हि वृष्टिः॑ ।
@@ -444,6 +542,14 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he should desire that he should not rain,  
+he should cleanse from the root;  
+he lifts up the rain.  
+Concerning that, however, they say:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -477,6 +583,14 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cleanse from the tip above,  
+and from the root below.  
+That is arranged in proper sequence;  
+\[the god\] becomes rainy.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -512,6 +626,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[He cleanses it\] pointing eastward, drawing it toward \[himself\],
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राची॑मभ्या॒कार॑म् ।  
@@ -542,6 +661,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the tips on the inside;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ए॒वमि॑व॒ ह्यन्न॑म॒द्यते॑ ।
@@ -565,6 +689,12 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for food is eaten in this manner, as it were.  
+Moreover, offspring sustain life upon the vigor of plants from the tip;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -599,6 +729,13 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+\[it is done\] for the securing of vigor and food.  
+\[He cleanses\] the underside pointing westward,  
+the handle last of all,
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -635,6 +772,13 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+root to root for stability.  
+Therefore the hairs on the forearm point eastward on the upper side,  
+and westward on the underside.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -673,6 +817,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this \[arm\] is an offering ladle.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्रुग्घ्ये॑षा।
@@ -696,6 +845,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The dipping spoon is exhalation;
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रा॒णो वै स्रु॒वः ।
@@ -713,6 +867,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the juhū is the right hand;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -732,6 +891,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the upabhṛt is the left;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒प॒भृत्स॒व्यः ।
@@ -750,6 +914,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+the dhruvā is the self;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ॒त्मा ध्रु॒वा ।
@@ -767,6 +936,11 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the cleansing grasses are food.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -792,6 +966,13 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having become inhalation at the mouth,  
+food, having entered the self,  
+beautifies the body from without.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -830,6 +1011,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore he cleanses the dipping spoon first;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मा॑त्स्रु॒वमे॒वाग्रे॒ सम्मा॑र्ष्टि ।
@@ -853,6 +1039,12 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for having become inhalation at the mouth,  
+food enters the self.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -887,6 +1079,11 @@ ___________________________________________
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They are exhalation and inhalation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तौ प्रा॑णापा॒नौ ।
@@ -918,6 +1115,12 @@ ___________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is not deprived of exhalation and inhalation  
+who knows thus.
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -417,6 +417,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Indra, about to slay Vṛtra, chose the waters.  
+The waters chose Indra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "आपो॑ देवीरग्रेपुवो अग्रेगुव॒" इत्या॑ह ।
@@ -845,6 +851,12 @@ __________________________________________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Shaken away is the rakṣas, shaken away are the enemies," he says.  
+For the smiting away of the rakṣases.
+</details>
 
 <details><summary>मूलम्</summary>
 

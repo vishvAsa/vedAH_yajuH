@@ -2720,12 +2720,38 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 
 <details><summary>Gemini 3.8 Flash</summary>
 
+
+There was neither nonexistence nor existence then;  
+there was neither the realm of space nor the sky beyond.  
+What covered \[it\]? Where? In whose protection?
+
+Was there water, unfathomable and deep?  
+There was neither death nor immortality then;  
+there was no sign of night nor of day.  
+That One breathed, breathless, by its own impulse;  
+other than that there was nothing whatever beyond.  
+Darkness there was, hidden by darkness in the beginning;  
+all this was an unillumined flood.  
+What existed was enveloped by the void;  
+that One arose through the power of heat.  
+Desire arose in the beginning upon that,
+
+which was the first seed of the mind.  
+Sages, searching in the heart with intellect,  
+found the bond of the existent in the nonexistent.  
+Their cord was stretched across:  
+was there a below, was there an above?  
+There were seed-placers, there were powers;  
+impulse was below, offering was above.  
+Who really knows? Who will proclaim here,  
 whence it was born, whence this manifold creation?  
 The gods are on this side of its creation;
 
 then who knows whence it came into being?  
 Whence this manifold creation came into being,  
-whether it fashioned \[itself\] or whether not,
+whether it fashioned \[itself\] or whether not,  
+he who is its overseer in highest heaven,  
+he indeed knows, or if he does not know.
 </details>
 </details>
 
@@ -3219,11 +3245,12 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-he who is its overseer in highest heaven,  
-he indeed knows, or if he does not know.  
+
 What was the forest, and what was the tree,  
 from which they carved out heaven and earth?  
-Wise men, ask with your mind that very thing,
+Wise men, ask with your mind that very thing,  
+whereon he stood while supporting the worlds:  
+brahman was the forest, brahman was that tree.
 </details>
 </details>
 
@@ -3252,9 +3279,6 @@ Wise men, ask with your mind that very thing,
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
-
-whereon he stood while supporting the worlds:  
-brahman was the forest, brahman was that tree.
 
 From which they fashioned heaven and earth.  
 Wise men, with mind I declare \[it\] to you:  

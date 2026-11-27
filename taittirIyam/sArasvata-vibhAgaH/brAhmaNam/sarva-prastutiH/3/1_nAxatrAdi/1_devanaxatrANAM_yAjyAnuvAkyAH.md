@@ -144,8 +144,11 @@ whose are all these worlds—
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-he, dwelling together with the Kṛttikās,  
-may Agni, the god, place us in prosperity!
+To Agni, svāhā! To the Kṛttikās, svāhā!  
+To Ambā, svāhā! To Dulā, svāhā!  
+To Nitatnī, svāhā! To Abhrayantī, svāhā!  
+To Meghayantī, svāhā! To Varṣayantī, svāhā!  
+To Cupuṇīkā, svāhā!
 </details>
 </details>
 
@@ -177,7 +180,7 @@ may Agni, the god, place us in prosperity!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-May Rohiṇī, the wife of Prajāpati, approach,
+To Prajāpati, svāhā! To Rohiṇī, svāhā! To the shining one, svāhā! To offspring, svāhā!
 </details>
 </details>
 
@@ -341,7 +344,11 @@ May she place us in the prosperity of the sacrifice,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-so that we may live autumns accompanied by heroes!
+To Agni, svāhā! To the Kṛttikās, svāhā!  
+To Ambā, svāhā! To Dulā, svāhā!  
+To Nitatnī, svāhā! To Abhrayantī, svāhā!  
+To Meghayantī, svāhā! To Varṣayantī, svāhā!  
+To Cupuṇīkā, svāhā!
 </details>
 </details>
 
@@ -379,10 +386,7 @@ so that we may live autumns accompanied by heroes!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Rohiṇī, the goddess, has risen in the east,  
-rejoicing over all forms,  
-strengthening Prajāpati with the oblation;  
-dear to the gods, may she come to the sacrifice!
+To Prajāpati, svāhā! To Rohiṇī, svāhā! To the shining one, svāhā! To offspring, svāhā!
 </details>
 </details>
 
@@ -696,8 +700,8 @@ may the Ārdrā lunar mansion enjoy our oblation!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Releasing \[us\] from all distresses,  
-may the two thrust away the speaker of evil, the enemy!
+To Rudra, svāhā! To Ārdrā, svāhā!  
+To the swelling one, svāhā! To domestic animals, svāhā!
 </details>
 </details>
 
@@ -837,7 +841,7 @@ approach the dear dwelling of the gods!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Bṛhaspati, being born first,
+To Aditi, svāhā! To the Punarvasus, svāhā! To prosperity, svāhā! To procreation, svāhā!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -997,8 +1001,8 @@ May Tiṣya protect us in front and in the middle;
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-may Bṛhaspati protect us from behind!  
-May the two ward off enmity, may they make fearlessness;
+To Bṛhaspati, svāhā! To Tiṣya, svāhā!  
+To spiritual preeminence, svāhā!
 </details>
 </details>
 
@@ -1153,7 +1157,8 @@ whose desire the Āśreṣās follow—
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-to those serpents I sacrifice accompanied by sweetness!
+To the serpents, svāhā! To the Śreṣās, svāhā!  
+To the biting serpents, svāhā!
 </details>
 </details>
 
@@ -1306,8 +1311,7 @@ the Fathers who dwell in yonder world,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-those whom we know and those whom we do not know—  
-may they enjoy the well-performed sacrifice in the Maghās!
+To the fathers, svāhā! To the Maghās, svāhā! To the sinless ones, svāhā! To the disease-free ones, svāhā! To the unhindered ones, svāhā!
 </details>
 </details>
 
@@ -1462,8 +1466,8 @@ whose intent the gods follow!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Aryaman, the unaging, mighty king,  
-the bull of the Phalgunīs, roars loudly.
+To Aryaman svāhā! To the Phalgunīs svāhā!  
+To domestic animals svāhā!
 </details>
 </details>
 
@@ -1620,8 +1624,8 @@ where we may revel in joint revelry with the gods!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-May the god Savitṛ come, may he approach  
-with his well-turning golden chariot,
+To Bhaga svāhā! To the Phalgunīs svāhā!  
+To preeminence svāhā!
 </details>
 </details>
 
@@ -1774,8 +1778,7 @@ with the right hand may we receive it!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-May I find Savitṛ today as the giver,  
-who shall impel the sacrifice for our Hasta!
+To Savitṛ svāhā! To Hasta svāhā! To the giver svāhā! To the bestower svāhā! To the dispenser svāhā! To the receiver svāhā!
 </details>
 </details>
 
@@ -1931,9 +1934,8 @@ May Tvaṣṭṛ look upon that for us, and may Citrā \[look upon it\]!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-May that lunar mansion be a giver of abundance to me!  
-May it win for us offspring rich in heroes;  
-may it anoint our sacrifice with cattle \[and\] with horses!
+To Tvaṣṭṛ svāhā! To Citrā svāhā!  
+To the manifold svāhā! To offspring svāhā!
 </details>
 </details>
 
@@ -2100,9 +2102,8 @@ may that lunar mansion be a giver of abundance to me;
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-may the gods grant us that desire,  
-so that we may cross over all misfortunes.  
-Afraid, let our enemies depart far from us;
+To Vāyu svāhā! To Niṣṭyā svāhā!  
+To free movement svāhā! To victory svāhā!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -2255,8 +2256,8 @@ the best, Indra and Agni the protectors of the world.
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Thrusting back the enemies in all directions,  
-may they drive away hunger and malevolence.
+To Indra and Agni svāhā! To the Viśākhās svāhā!  
+To preeminence svāhā! To victory svāhā!
 </details>
 </details>
 
@@ -2427,8 +2428,6 @@ Broad, well-radiant, a harmonious maiden,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-the Full-Moon night has risen gleaming,  
-filling up all misfortunes;  
-may she milk a wide sacrifice for the sacrificer.
+To the full-moon day svāhā! To desire svāhā! To attainment svāhā!
 </details>
 </details>

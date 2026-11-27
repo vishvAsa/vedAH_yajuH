@@ -11,6 +11,14 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the moon hail! To Pratīdṛśī hail!  
+To the day-and-nights hail! To the half-months hail!  
+To the months hail! To the seasons hail!  
+To the year hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 च॒न्द्रम॑से॒ स्वाहा॑ प्रती॒दृश्या॑यै॒ स्वाहा॑ ।  
@@ -32,6 +40,12 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To day hail! To night hail!  
+To release beyond hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह्ने॒ स्वाहा॒ रात्रि॑यै॒ स्वाहा॑ ।  
@@ -50,6 +64,13 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the dawn hail! To the dawning hail!  
+To the one that has dawned hail! To the one dawning hail!  
+To the dawned hail!
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -72,6 +93,15 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the lunar mansion, svāhā! To the one about to rise, svāhā!  
+To the rising one, svāhā! To the risen one, svāhā!  
+To heat, svāhā! To support, svāhā!  
+To radiance, svāhā! To fiery energy, svāhā!  
+To heat-austerity, svāhā! To spiritual preeminence, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 नक्ष॑त्राय॒ स्वाहो॑देष्य॒ते स्वाहा॑ । उ॒द्य॒ते स्वाहोदि॑ताय॒ स्वाहा॑ ।     
@@ -92,6 +122,12 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Sūrya, svāhā! To the lunar mansions, svāhā!  
+To the foundation, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्या॑य॒ स्वाहा॒ नक्ष॑त्रेभ्य॒स् स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑
@@ -110,6 +146,11 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Aditi, svāhā! To the foundation, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै॒ स्वाहा॑ प्रति॒ष्ठायै॒ स्वाहा॑
@@ -127,6 +168,12 @@ title = "चन्द्रमसाद्य्-उपहोमाः"
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Viṣṇu, svāhā! To the sacrifice, svāhā!  
+To the foundation, svāhā!
+</details>
 
 <details><summary>मूलम्</summary>
 

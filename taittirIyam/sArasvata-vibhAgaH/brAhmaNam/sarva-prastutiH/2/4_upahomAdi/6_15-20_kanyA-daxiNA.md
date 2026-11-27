@@ -28,7 +28,10 @@ title = "६ १५-२० कन्या-दक्षिणा"
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-may he conquer the enemies, exulting;
+Prajāpati placed dignity in woman,  
+and the penis between the testicles,  
+the fulfillment of desire, delight;  
+thereof, O Agni, make me partake here.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -73,7 +76,11 @@ may he conquer the enemies, exulting;
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-may he conquer prize in the winning of prize.
+Joy, great joy, delight—
+
+the penis placed between the testicles;  
+having copulated, may I be satisfied in desire,  
+at the receipt of sacrificial gifts.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -120,7 +127,10 @@ may he conquer prize in the winning of prize.
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-Agni, bearer of regal power, of unbent splendorous might,
+That intention of the mind,  
+the truth of speech, may we attain,  
+the form of domestic animals, of food;  
+may dignity and prosperity dwell in me.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -165,7 +175,11 @@ Agni, bearer of regal power, of unbent splendorous might,
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-possessed of thousands, may he blaze without neglect;
+Just as I, a man, have had my fill of this woman,  
+just as a woman, dear, has her fill of a dear man,  
+so may I be satisfied with good fortune,
+
+the desired, dear \[portion\] of the sacrifice.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -210,7 +224,10 @@ possessed of thousands, may he blaze without neglect;
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-shining brightly, kindled, fierce,
+"I give," says Agni;  
+"So be it," says Vāyu to that;  
+"Yes!" says the moon in truth;  
+the sun \[says\], "Indeed, truth, om!"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -255,7 +272,10 @@ shining brightly, kindled, fierce,
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
 <details><summary>Gemini 3.8 Flash</summary>
 
-he mounted the intermediate realm, he went to heaven.
+The waters brought that truth,  
+the dignity, the sacrificial gift of the sacrifice;  
+may this desire of mine be fulfilled.  
+For they found no other spy than him,
 </details>
 
 <details><summary>मूलम्</summary>

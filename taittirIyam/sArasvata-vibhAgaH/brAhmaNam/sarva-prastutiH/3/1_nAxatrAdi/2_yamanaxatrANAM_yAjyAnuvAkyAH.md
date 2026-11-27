@@ -140,7 +140,8 @@ let the god Mitra become our alliance.
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Strengthening the Anūrādhas with an oblation,
+To Mitra svāhā! To the Anūrādhas svāhā!  
+To friendship svāhā! To victory svāhā!
 </details>
 </details>
 
@@ -286,7 +287,7 @@ possessing heroes.
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-The splendid lunar mansion has risen in the east,
+To Indra svāhā! To Jyeṣṭhā svāhā! To supremacy svāhā! To victory svāhā!
 </details>
 </details>
 
@@ -422,7 +423,8 @@ through it Mitra walks along the paths of the gods,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-golden
+To Prajāpati svāhā! To Mūla svāhā!  
+To offspring svāhā!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -571,6 +573,16 @@ Indra follows the lunar mansion Jyeṣṭhā,
 
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Waters svāhā! To the Aṣāḍhās svāhā!  
+To the ocean svāhā! To desire svāhā!  
+To victory svāhā!
+</details>
+</details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/jyotiSham/naxatram/chAndra-naxatram/27-vibhAgaH/18_aShADhAH/">
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -713,7 +725,8 @@ which he overcame Vṛtra in the battle
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-for Vṛtra.
+To the All-gods svāhā! To the Aṣāḍhās svāhā!  
+To the unconquerable svāhā! To conquest svāhā!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -865,9 +878,8 @@ May I attain Mūla, offspring possessing heroes;
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-let Nirṛti go far away, departing.  
-Anointed with cows and domestic animals, may the lunar mansion  
-become day for me, the sacrificer.
+To the brahman svāhā! To Abhijit svāhā!  
+To the world of brahman svāhā! To victory svāhā!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1038,9 +1050,8 @@ whose desire the Aṣāḍhās pursue,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-may those waters be peaceful and pleasant to us;  
-both those from wells and those from streams, from the sea,  
-those belonging to ponds and those flowing forth,
+To Viṣṇu hail! To Śroṇā hail!  
+To praise hail! To what is heard hail!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1206,9 +1217,8 @@ Bright maidens, youthful, richly ornamented,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-performing deeds, doing good works, possessing heroic power,  
-strengthening all the gods with an oblation,  
-let the Aṣāḍhās approach the sacrifice according to desire.
+To the Vasus hail! To the Śraviṣṭhās hail!  
+To the forefront hail! To the attainment hail!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -1377,10 +1387,8 @@ may that lunar mansion Abhijit look upon that for us.
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-In it may we conquer armies;  
-may the gods grant that desire to us.  
-They hear Śroṇā, the protector of immortality;  
-I listen to her holy voice.
+To Varuṇa hail! To Śatabhiṣaj hail!  
+To the healing herbs hail!
 </details>
 </details>
 
@@ -1550,9 +1558,8 @@ The eight divine Vasus, belonging to Soma,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-the four goddesses, the ageless Śraviṣṭhās:  
-may they protect the sacrifice from beyond the realm of air,  
-safe, immortal, through the entire year.
+To Aja Ekapād hail! To the Proṣṭhapadas hail!  
+To fiery energy hail! To spiritual preeminence hail!
 </details>
 </details>
 
@@ -1716,10 +1723,8 @@ Varuṇa is the king, the overlord of regal power;
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Both of them establish long lifespan for the gods;  
-they grant a hundred, a thousand remedies.  
-May king Varuṇa come unto our sacrifice;  
-may all the gods assemble here for that.
+To Ahi Budhnya hail! To the Proṣṭhapadas hail!  
+To the firm foundation hail!
 </details>
 </details>
 
@@ -1884,10 +1889,8 @@ the Proṣṭhapadās, the protectors of immortality.
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Blazing, ignited, fierce,  
-he mounted the midspace, he attained the sky;  
-that god, the sun, Aja Ekapād,  
-all the Proṣṭhapadās follow.
+To Pūṣan hail! To Revatī hail!  
+To domestic animals hail!
 </details>
 </details>
 
@@ -2048,9 +2051,8 @@ praising the Budhnya who sits in council,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-they protect the serpent, approaching with homage.  
-Pūṣan and Revatī follow the path,  
-masters of nourishment, protectors of cattle, whose dwelling is prize-wealth.
+To the two Aśvins hail! To the two Aśvayujas hail!  
+To hearing hail! To hearing hail!
 </details>
 </details>
 
@@ -2227,7 +2229,8 @@ worshiping their own lunar mansion with an oblation,
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-united with sweetness, anointed with sacrificial formula.
+To Yama hail! To the Apabharaṇīs hail!  
+To sovereignty hail! To conquest hail!
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -2386,7 +2389,7 @@ ________________
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Let the Bharaṇīs carry away evil!
+The abiding place which the gods established for you—
 </details>
 </details>
 
@@ -2403,13 +2406,6 @@ Let the Bharaṇīs carry away evil!
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-Let King Yama, the fortunate, behold that.  
-King of the realm, great indeed among the great,  
-let him make our path easy to travel and free of fear.  
-In which lunar mansion King Yama goes,  
-in which the gods anointed him \[with royal unction\],  
-that wondrous \[place\] of his let us worship with oblation.  
-Let the Bharaṇīs carry away evil!  
-The abiding place which the gods established for you—
+To the new moon day hail! To desire hail! To attainment hail!
 </details>
 </details>

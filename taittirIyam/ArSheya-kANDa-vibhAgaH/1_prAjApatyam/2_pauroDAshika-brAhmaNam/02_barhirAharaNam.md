@@ -328,6 +328,12 @@ unicode_script = "devanagari"
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He says: 'Scorched is the demon, scorched are the adversaries,'  
+for the destruction of the demons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "प्रत्यु॑ष्टँ॒ रक्ष॒ᳶ प्रत्यु॑ष्टा॒ अरा॑तय॒" इत्या॑ह ।  

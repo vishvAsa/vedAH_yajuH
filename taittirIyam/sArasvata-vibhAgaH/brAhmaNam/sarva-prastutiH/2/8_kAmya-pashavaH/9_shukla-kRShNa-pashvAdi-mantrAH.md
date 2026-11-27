@@ -30,6 +30,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/02_tA_sUryAchandramasA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those two, sun and moon, sustaining all, great,  
+radiant with treasure, rule in heaven;  
+their essence is the Sāman, moving in harmony,  
+the course of which two gods has never been measured.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ता सू॑र्याचन्द्र॒मसा॑ विश्व॒भृत्त॑मा म॒हत् ।   
@@ -70,6 +78,13 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/07_ubhAv_antau.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two travel around both borders \[of the sky\];  
+they spread out their rays like \[rays\] of heaven in the ocean;  
+both discerning beings, having poetic vision,
+</details>
+
 <details><summary>मूलम्</summary>
 
 उ॒भावन्तौ॒ परि॑ यात॒ अर्म्या॑ ।   
@@ -111,6 +126,15 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/11_patI_dyumad.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+sun and moon travel, minds intent;  
+both lords of heaven, luminous, all-knowing,  
+both sun and moon, far-seeing,
+
+all-desirable, wide-ruling, both choice;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पती॑ द्यु॒मद्वि॑श्व॒विदा॑ उ॒भा दि॒वः ।   
@@ -151,6 +175,14 @@ unicode_script: devanagari
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_01-06_tA_sUryAchandramasA/15_vishvavaparI_prataraNA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+may those two wise ones of great vows protect us!  
+All-nourishing, transporting across, conquering,  
+finding heaven, of many rays for seeing,  
+sun and moon, bright treasures, wondrous to behold,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वि॒श्व॒वप॑री प्र॒तर॑णा तर॒न्ता ।   
@@ -501,6 +533,17 @@ Die sieben Ströme wahren schutzreich seinen Ruhm, die weiten Erd' und Himmel se
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+both thoughtful ones now traverse the sky together.  
+Seven rivers carry his fame;  
+heaven and earth \[bear\] the wondrous form.  
+For us to behold the sun and the moon,
+</details>
+</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -908,7 +951,8 @@ Nacheinander umwandern mit ihrer Zaubermacht diese beiden munteren Kinder [Sonne
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-two children playing, they go round the sacrificial rite.
+Golden-colored, pure, purifying, whose king \[is Varuṇa\]  
+whose gods \[are …\], look on me with an auspicious eye,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1243,15 +1287,6 @@ who moisten the earth with milk, bright—may those waters be peaceful and pleas
 
 </div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-there was neither the realm of space nor the sky beyond.  
-What covered \[it\]? Where? In whose protection?
-</details>
-</details>
-
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -1340,7 +1375,7 @@ All the fires that sit in the waters I invoke; deposit in me brilliance, strengt
 
 <details><summary>Gemini 3.8 Flash</summary>
 
-there was no sign of night nor of day.
+waters are auspicious, then indeed I see
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1367,16 +1402,6 @@ there was no sign of night nor of day.
 </details>
 
 </div>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-That One breathed, breathless, by its own impulse;  
-other than that there was nothing whatever beyond.  
-Darkness there was, hidden by darkness in the beginning;
-</details>
-</details>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -5023,6 +5048,45 @@ Von wannen diese Schöpfung sei gekommen, ob sie geschaffen oder unerschaffen, D
 </div>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+
+There was neither nonexistence nor existence then;  
+there was neither the realm of space nor the sky beyond.  
+What covered \[it\]? Where? In whose protection?
+
+Was there water, unfathomable and deep?  
+There was neither death nor immortality then;  
+there was no sign of night nor of day.  
+That One breathed, breathless, by its own impulse;  
+other than that there was nothing whatever beyond.  
+Darkness there was, hidden by darkness in the beginning;  
+all this was an unillumined flood.  
+What existed was enveloped by the void;  
+that One arose through the power of heat.  
+Desire arose in the beginning upon that,
+
+which was the first seed of the mind.  
+Sages, searching in the heart with intellect,  
+found the bond of the existent in the nonexistent.  
+Their cord was stretched across:  
+was there a below, was there an above?  
+There were seed-placers, there were powers;  
+impulse was below, offering was above.  
+Who really knows? Who will proclaim here,  
+whence it was born, whence this manifold creation?  
+The gods are on this side of its creation;
+
+then who knows whence it came into being?  
+Whence this manifold creation came into being,  
+whether it fashioned \[itself\] or whether not,  
+he who is its overseer in highest heaven,  
+he indeed knows, or if he does not know.
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/081/04_kiM_svidvanaM.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -5509,6 +5573,19 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+
+What was the forest, and what was the tree,  
+from which they carved out heaven and earth?  
+Wise men, ask with your mind that very thing,  
+whereon he stood while supporting the worlds:  
+brahman was the forest, brahman was that tree.
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -5533,6 +5610,13 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From which they fashioned heaven and earth.  
+Wise men, with mind I declare \[it\] to you:  
+Brahman stood over them, sustaining the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
@@ -5918,6 +6002,15 @@ Frühmorgens laden Agni wir und Indra ein, frühmorgens Mitra-Varuna, die Ritter
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the morning we invoke Agni, in the morning Indra,  
+in the morning Mitra and Varuṇa, in the morning the two Aśvins,
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/02_prAtarjitaM_bhagamugraM.md">
 
@@ -6443,6 +6536,17 @@ Wir wollen den, der früh gewinnt und austheilt, den mächt'gen Bhaga, den Aditj
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+in the morning Bhaga, Pūṣan, Brahmaṇaspati;  
+in the morning may we invoke Soma and Rudra.  
+In the morning we invoke the victorious, mighty Bhaga,  
+the son of Aditi, who is the sustainer,
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/03_bhaga_praNetarbhaga.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -6925,6 +7029,18 @@ O Bhaga, Führer, Bhaga, wahrhaft reicher, begünst'ge, Bhaga, dieses Lied, uns 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+upon whom the wretched, thinking \[of him\], and the swift \[call\],
+
+upon whom the king says, 'May I enjoy Bhaga!'  
+O Bhaga, leader! O Bhaga of true gifts!  
+O Bhaga, promote this inspired thought, giving to us!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/04_utedAnIM_bhagavantaH.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -7269,6 +7385,18 @@ Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitt
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bhaga, generate us forth with cattle, with horses!  
+O Bhaga, with men may we be rich in men!  
+And may we now be fortunate,  
+and at the early morning, and in the middle of the days,  
+and at the rising of the sun, O bounteous one!
+</details>
+</details>
 
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_15/05_bhaga_eva.md">
 
@@ -7786,6 +7914,19 @@ Ja reich an Gaben sei, o Götter, Bhaga, durch ihn auch mögen wir an Gaben reic
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be in the goodwill of the gods!  
+May Bhaga indeed be fortunate, O gods!
+
+Through him may we be fortunate!  
+As such, O Bhaga, do I invoke you entirely.  
+As such, O Bhaga, be our forerunner here!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/06_samadhvarAyoShaso_namanta.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -8220,6 +8361,17 @@ Zum Opfer mögen sich die Morgenröthen, wie Dadhikra zum hellen Orte wenden; Si
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the dawns bow down toward the sacrificial rite,  
+like Dadhikrāvan toward the bright place!  
+May the swift horses bring here to us  
+Bhaga, turned toward us, who finds wealth, like a chariot!
+</details>
+</details>
+
 <div class="js_include" title="विश्वास-प्रस्तुतिः" newlevelforh1="6" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/041/07_ashvAvatIrgomatIrna_uShAso.md">
 
 <details open><summary><h2>विश्वास-प्रस्तुतिः …{Loading}…</h2></summary>
@@ -8549,6 +8701,17 @@ Stets mögen uns die Morgenröthen leuchten die schönen, reich an Rossen, Rinde
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rich in horses, rich in cattle, rich in heroes,  
+may the auspicious dawns ever shine upon us,  
+yielding ghee, overflowing from every side!  
+Do you always protect us with blessings!
+</details>
+</details>
 </div>
 
 <details><summary>सर्वा अवतारिकाः</summary>

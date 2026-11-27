@@ -13,6 +13,12 @@ unicode_script: devanagari
 
 <details><summary>सर्वाष् टीकाः</summary>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Shaken away is the rakṣas, shaken away are the enemies," he says.  
+For the smiting away of the rakṣases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अव॑धूतँ॒ रक्षोऽव॑धूता॒ अरा॑तय॒" इत्या॑ह ।  
@@ -440,6 +446,12 @@ for the supporting of heaven and earth.
 'On the impulse of the god Savitr thee', he says, for impelling.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+for the Aśvins were the two adhvaryus of the gods.  
+He says, 'With the hands of Pūṣan,'
+</details>
+
 <details><summary>मूलम्</summary>
 
 "दे॒वस्य॑ त्वा सवि॒तुᳶ प्र॑स॒व" इत्या॑ह॒ प्रसू॑त्यै ।
@@ -457,13 +469,14 @@ ________________________________________________________________________________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
-
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/brAhmaNam/sarva-prastutiH/3/2_darsha-pUrNa-mAsAdi/04_havir-nirvApaH/ashvinor_bAhubhyAm.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अश्वि᳓नोर् बाहु᳓भ्याम्" इ᳓त्य् आह ।  
 अश्वि᳓नौ हि᳓ देवा᳓नाम् अध्वर्यू᳓ आ᳓स्ताम् ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -492,11 +505,14 @@ ________________________________________________________________________________
 अश्विनोर्बाहुभ्यामित्याह। अश्विनौ हि देवानामध्वर्यू आस्ताम्। 
 
 </details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पूष्णो᳓ ह᳓स्ताभ्या"म् इ᳓त्य् आह य᳓त्यै ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -523,7 +539,7 @@ ________________________________________________________________________________
 पूष्णो हस्ताभ्यामित्याह यत्यै (ब्रा. का.३ प्र.२ अ.९) इति ।
 
 </details>
-
+</details>
 </div>
 </div>
 

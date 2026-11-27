@@ -40,6 +40,15 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/02_agnaye_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Agni, svāhā! To the Kṛttikās, svāhā!  
+To Ambā, svāhā! To Dulā, svāhā!  
+To Nitatnī, svāhā! To Abhrayantī, svāhā!  
+To Meghayantī, svāhā! To Varṣayantī, svāhā!  
+To Cupuṇīkā, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒ग्नये॒ स्वाहा॑  ।
@@ -70,6 +79,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/03_prajApataye_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Prajāpati, svāhā! To Rohiṇī, svāhā! To the shining one, svāhā! To offspring, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॑ रोहि॒ण्यै स्वाहा॑ । रोच॑मानायै॒ स्वाहा॑ प्र॒जाभ्य॒स्स्वाहा॑ ॥28॥
@@ -94,6 +108,13 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/04_somAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Soma, svāhā! To Mṛgaśīrṣa, svāhā!  
+To the Invakās, svāhā! To the plants, svāhā!  
+To kingship, svāhā! To victory, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमा॑य॒ स्वाहा॑ मृगशी॒र्षाय॒ स्वाहा॑ ।  
@@ -118,6 +139,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/05_rudrAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Rudra, svāhā! To Ārdrā, svāhā!  
+To the swelling one, svāhā! To domestic animals, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 रु॒द्राय॒ स्वाहा॒ऽर्द्रायै॒ स्वाहा॑ , पिन्व॑मानायै॒ स्वाहा॑ प॒शुभ्य॒स्स्वाहा॑ ॥30॥
@@ -141,6 +168,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/06_adityai_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Aditi, svāhā! To the Punarvasus, svāhā! To prosperity, svāhā! To procreation, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदि॑त्यै॒ स्वाहा॒ पुन॑र्वसुभ्यां॒ स्वाहा॑, भूत्यै॒ स्वाहा॒ प्रजा॑त्यै॒ स्वाहा॑ ॥31॥
@@ -163,6 +195,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/07_bRhaspataye_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Bṛhaspati, svāhā! To Tiṣya, svāhā!  
+To spiritual preeminence, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 बृह॒स्पत॑ये॒ स्वाहा॑ ति॒ष्या॑य॒ स्वाहा॑ । ब्र॒ह्म॒व॒र्च॒साय॒ स्वाहा॑ ॥32॥
@@ -186,6 +224,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/08_sarpebhyas_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the serpents, svāhā! To the Śreṣās, svāhā!  
+To the biting serpents, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒र्पेभ्य॒स्स्वाहा॑ऽऽश्रे॒षाभ्य॒स्स्वाहा॑ ।
@@ -212,6 +256,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/09_pitRbhyas_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the fathers, svāhā! To the Maghās, svāhā! To the sinless ones, svāhā! To the disease-free ones, svāhā! To the unhindered ones, svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पि॒तृभ्य॒स् स्वाहा॑ म॒घाभ्य॒स् स्वाहा॑  ऽन॒घाभ्य॒स् स्वाहा॑ग॒दाभ्य॒स् स्वाहा॑ ऽरुन्ध॒तीभ्य॒स् स्वाहा॑ ॥34॥
@@ -235,6 +284,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/10_aryamNe_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Aryaman svāhā! To the Phalgunīs svāhā!  
+To domestic animals svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒र्य॒म्णे स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ , प॒शुभ्य॒स्स्वाहा॑ ॥35॥
@@ -257,6 +312,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/11_bhagAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Bhaga svāhā! To the Phalgunīs svāhā!  
+To preeminence svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगा॑य॒ स्वाहा॒ फल्गु॑नीभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॑ ॥36॥
@@ -281,6 +342,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/12_savitre_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Savitṛ svāhā! To Hasta svāhā! To the giver svāhā! To the bestower svāhā! To the dispenser svāhā! To the receiver svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 स॒वि॒त्रे स्वाहा॒ हस्ता॑य॒ स्वाहा॑ दद॒ते स्वाहा॑ पृण॒ते स्वाहा॑ प्र॒यच्छ॑ते॒ स्वाहा॑  प्रतिगृभ्ण॒ते स्वाहा॑ ॥37 ॥
@@ -304,6 +370,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/13_tvaShTre_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Tvaṣṭṛ svāhā! To Citrā svāhā!  
+To the manifold svāhā! To offspring svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वष्ट्रे॒ स्वाहा॑ चि॒त्रायै॒ स्वाहा॑ । चैत्रा॑य॒ स्वाहा॑ प्र॒जायै॒ स्वाहा॑ ॥38॥
@@ -328,6 +400,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/14_vAyave_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Vāyu svāhā! To Niṣṭyā svāhā!  
+To free movement svāhā! To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वा॒यवे॒ स्वाहा॒ निष्ट्या॑यै॒ स्वाहा॑ । का॒म॒चारा॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥39॥
@@ -351,6 +429,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/15_indrAgnibhyAM_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Indra and Agni svāhā! To the Viśākhās svāhā!  
+To preeminence svāhā! To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इ॒न्द्रा॒ग्निभ्याँ॒ स्वाहा॒ विशा॑खाभ्याँ॒ स्वाहा॑ । श्रैष्ठ्या॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥40॥
@@ -373,6 +457,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/16_paurNamAsyai_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the full-moon day svāhā! To desire svāhā! To attainment svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौ॒र्ण॒मा॒स्यै स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥41॥
@@ -396,6 +485,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/17_mitrAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Mitra svāhā! To the Anūrādhas svāhā!  
+To friendship svāhā! To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 मि॒त्राय॒ स्वाहा॑ऽनूरा॒धेभ्य॒स्स्वाहा॑ । मि॒त्र॒धेया॑य॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥42॥
@@ -419,6 +514,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/18_indrAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Indra svāhā! To Jyeṣṭhā svāhā! To supremacy svāhā! To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रा॑य॒ स्वाहा॑ ज्ये॒ष्ठायै॒ स्वाहा॑ ।  
@@ -442,6 +542,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/19_prajApataye_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Prajāpati svāhā! To Mūla svāhā!  
+To offspring svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्र॒जाप॑तये॒ स्वाहा॒ मूला॑य॒ स्वाहा॑ । प्र॒जायै॒ स्वाहा॑ ॥44॥
@@ -466,6 +572,13 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/20_adbhyas_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Waters svāhā! To the Aṣāḍhās svāhā!  
+To the ocean svāhā! To desire svāhā!  
+To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒द्भ्यस् स्वाहा॑ऽषा॒ढाभ्य॒स् स्वाहा॑ । स॒मु॒द्राय॒ स्वाहा॒ कामा॑य॒ स्वाहा॑ । अ॒भिजि॑त्यै॒  स्वाहा॑ ॥45॥
@@ -488,6 +601,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/21_vishvebhyo_devebhyas.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the All-gods svāhā! To the Aṣāḍhās svāhā!  
+To the unconquerable svāhā! To conquest svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 विश्वे॑भ्यो दे॒वेभ्य॒स्स्वाहा॑ऽषा॒ढाभ्य॒स्स्वाहा॑ । अ॒न॒प॒ज॒य्याय॒ स्वाहा॒ जित्यै॒ स्वाहा॑ ॥46॥
@@ -510,6 +629,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/22_brahmaNe_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the brahman svāhā! To Abhijit svāhā!  
+To the world of brahman svāhā! To victory svāhā!
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॑णे॒ स्वाहा॑ऽभि॒जिते॒ स्वाहा॑ । ब्र॒ह्म॒लो॒काय॒ स्वाहा॒ऽभिजि॑त्यै॒ स्वाहा॑ ॥47॥
@@ -533,6 +658,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/23_viShNave_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Viṣṇu hail! To Śroṇā hail!  
+To praise hail! To what is heard hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 विष्ण॑वे॒ स्वाहा॑ श्रो॒णायै॒ स्वाहा॑ । श्लोका॑य॒ स्वाहा॑ श्रु॒ताय॒ स्वाहा॑ ॥48॥
@@ -556,6 +687,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/24_vasubhyas_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Vasus hail! To the Śraviṣṭhās hail!  
+To the forefront hail! To the attainment hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसु॑भ्य॒स्स्वाहा॒ श्रवि॑ष्ठाभ्य॒स्स्वाहा॑ । अग्रा॑य॒ स्वाहा॒ परी॑त्यै॒ स्वाहा॑ ॥49॥
@@ -578,6 +715,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/25_varuNAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Varuṇa hail! To Śatabhiṣaj hail!  
+To the healing herbs hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 वरु॑णाय॒ स्वाहा॑ श॒तभि॑षजे॒ स्वाहा॑ । भे॒ष॒जेभ्य॒स् स्वाहा॑ ॥50॥
@@ -601,6 +744,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/26_ajAyaikapade_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Aja Ekapād hail! To the Proṣṭhapadas hail!  
+To fiery energy hail! To spiritual preeminence hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒जायैक॑पदे॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स्स्वाहा॑ । तेज॑से॒ स्वाहा॑ ब्रह्मवर्च॒साय॒ स्वाहा॑ ॥51॥
@@ -624,6 +773,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/27_ahaye_budhniyAya.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Ahi Budhnya hail! To the Proṣṭhapadas hail!  
+To the firm foundation hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह॑ये बु॒ध्निया॑य॒ स्वाहा॑ प्रोष्ठप॒देभ्य॒स्स्वाहा॑ । प्र॒ति॒ष्ठायै॒ स्वाहा॑ ॥52॥
@@ -646,6 +801,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/28_pUShNe_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Pūṣan hail! To Revatī hail!  
+To domestic animals hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 पू॒ष्णे स्वाहा॑ रे॒वत्यै॒ स्वाहा॑ ।  
@@ -669,6 +830,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/29_ashvibhyAM_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the two Aśvins hail! To the two Aśvayujas hail!  
+To hearing hail! To hearing hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒श्विभ्याँ॒ स्वाहा॑ऽश्व॒युग्भ्याँ॒ स्वाहा॑ ।  श्रोत्रा॑य॒ स्वाहा॒ श्रुत्यै॒ स्वाहा॑ ॥54॥
@@ -692,6 +859,12 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/30_yamAya_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Yama hail! To the Apabharaṇīs hail!  
+To sovereignty hail! To conquest hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 य॒माय॒ स्वाहा॑ऽप॒भर॑णीभ्य॒स्स्वाहा॑ । रा॒ज्याय॒ स्वाहा॒भिजि॑त्यै॒ स्वाहा॑ ॥55॥
@@ -714,6 +887,11 @@ title = "३४ ‘अग्नये स्वाहा कृत्तिक�
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/sarvASh_TIkAH/3/1_nAxatrAdi/naxatra-upahomAH/31_amAvAsyAyai_svAhA.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the new moon day hail! To desire hail! To attainment hail!
+</details>
+
 <details><summary>मूलम्</summary>
 
 अ॒मा॒वा॒स्या॑यै॒ स्वाहा॒ कामा॑य॒ स्वाहाऽऽग॑त्यै॒ स्वाहा॑ ॥56॥

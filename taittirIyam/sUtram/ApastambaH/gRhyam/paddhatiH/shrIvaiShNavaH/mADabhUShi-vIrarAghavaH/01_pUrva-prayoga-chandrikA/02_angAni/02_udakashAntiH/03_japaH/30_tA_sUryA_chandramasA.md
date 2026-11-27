@@ -5535,6 +5535,13 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 <div class="js_include" newlevelforh1="6" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/8_kAmya-pashavaH/9_08-16_nAsadIyam/24_brahma_vanam.md">
 
 <details open><summary><h4>सर्वाष् टीकाः …{Loading}…</h4></summary>
+<details><summary>Gemini 3.8 Flash</summary>
+
+From which they fashioned heaven and earth.  
+Wise men, with mind I declare \[it\] to you:  
+Brahman stood over them, sustaining the worlds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म॒ वन॒म्ब्रह्म॒ स वृ॒क्ष आ॑सीत् ॥ 76 ॥  
