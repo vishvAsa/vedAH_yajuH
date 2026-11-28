@@ -27142,7 +27142,7 @@ For, this is performed after the Upasads, hence this goes from there heating tho
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द ।  
-ऐ᳓व᳓ तपति ॥ (108)
+ऐव᳓ तपति ॥ (108)
 </details>
 <details><summary>सर्वाष् टीकाः</summary>
 

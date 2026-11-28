@@ -50,7 +50,7 @@ unicode_script: devanagari
 
 
 आव᳓र्तने निव᳓र्तन  
-आवर्तन +++(→स्वरः??)+++ निवर्तना᳓य स्वा᳓हा ।
+आवर्तन-निवर्तना᳓य स्वा᳓हा ।
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_22/09_anupo-hvadanuhvayo_nivarto.md">
@@ -67,7 +67,7 @@ unicode_script: devanagari
 <details open><summary><h2>१० यदि मामति ...{Loading}...</h2></summary>
 
 य᳓दि मा᳓म् अ᳓ति म᳓न्याध्वा+++(ध्वै)+++  
-[[अ᳓देवा|अदेवा᳓]] +++(~~अ᳓देवा~~)+++ देव᳓वत्-तरम् ।  
+अदेवा᳓ +++(~~अ᳓देवा~~)+++ देव᳓वत्-तरम्  ।  
 इ᳓न्द्रः पा᳓शेन सिक्त्वा᳓वो+++(←षिञ् बन्धने)+++  
 म᳓ह्यम् इ᳓द् व᳓शम् आ᳓ नयात्  
 स्वा᳓हा ।  
