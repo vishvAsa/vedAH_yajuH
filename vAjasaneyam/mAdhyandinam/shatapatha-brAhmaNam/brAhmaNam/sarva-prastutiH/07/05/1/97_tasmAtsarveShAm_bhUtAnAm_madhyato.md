@@ -38,7 +38,7 @@ Thereby for all beings, the womb is in the middle, even for the trees.
 - मध्यतः᳓ (*TS*-63/71, *RV*-3, *TB*-21, *AV*-15, *SB-K*-100, *VS-M*-4, *VS-K*-4, *KS*-8, *MS*-70)
 - यो᳓निः (*TS*-72/170, *RV*-9/110, *TB*-16/38, *TK*-2/6, *AV*-5/45, *SB-K*-129/261, *VS-M*-60/93, *VS-K*-9/23, *KS*-37/61, *MS*-114/208)
 - अ᳓पि (*AV*-94, *RV*-86, *TB*-47, *TS*-103, *TK*-2, *VS-M*-19, *KS*-31, *MS*-118)
-- व᳓नस्प᳓तीनाम् (*TS*-10, *RV*-1, *TB*-3, *AV*-8, *SB-K*-14, *VS-M*-3, *VS-K*-3, *KS*-1, *MS*-13)
+- व᳓नस्-प᳓तीनाम् (*TS*-10, *RV*-1, *TB*-3, *AV*-8, *SB-K*-14, *VS-M*-3, *VS-K*-3, *KS*-1, *MS*-13)
 </details>
 
 <details><summary>पद-पाठः (यान्त्रिकः - काण्व-ब्राह्मणम्)</summary>
@@ -49,7 +49,7 @@ Thereby for all beings, the womb is in the middle, even for the trees.
 - मध्यतः᳓ (*TS*-63/71, *RV*-3, *TB*-21, *AV*-15, *SB-M*-105, *VS-M*-4, *VS-K*-4, *KS*-8, *MS*-70)
 - यो᳓निः (*TS*-72/170, *RV*-9/110, *TB*-16/38, *TK*-2/6, *AV*-5/45, *SB-M*-142/284, *VS-M*-60/93, *VS-K*-9/23, *KS*-37/61, *MS*-114/208)
 - अ᳓पि (*TS*-103, *AV*-94, *RV*-86, *TB*-47, *TK*-2, *VS-M*-19, *KS*-31, *MS*-118)
-- व᳓नस्प᳓तीनाम् (*TS*-10, *RV*-1, *TB*-3, *AV*-8, *SB-M*-13, *VS-M*-3, *VS-K*-3, *KS*-1, *MS*-13)
+- व᳓नस्-प᳓तीनाम् (*TS*-10, *RV*-1, *TB*-3, *AV*-8, *SB-M*-13, *VS-M*-3, *VS-K*-3, *KS*-1, *MS*-13)
 </details>
 
 <details><summary>सायणः</summary>
